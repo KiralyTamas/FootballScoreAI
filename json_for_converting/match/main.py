@@ -12,13 +12,17 @@ source.close()
 csv_path = path.replace(old, new)
 
 def convert_csv():
-  u=[]
-  for a in data:
-    u.append(a)
-  f=iter(data)
-  for i in f:
-    print(data[i])
-    x=iter(data[i])
-    print(u)
+  with open(csv_path,"w",encoding="UTF-8",newline='') as file:
+    csv_file=csv.writer(file)
+    for a in data:
+      adat=data[a]
+      for c in data:
+          print("lista")
+          csv_file.writerow(a)
+          csv_file.writerow(data[a])
+          if isinstance(data[a], list):
+            for b in data[a]:
+              csv_file.writerow(data[a][1].values())
+    
 
 convert_csv()
