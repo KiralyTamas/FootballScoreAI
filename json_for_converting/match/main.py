@@ -14,15 +14,9 @@ csv_path = path.replace(old, new)
 def convert_csv():
   with open(csv_path,"w",encoding="UTF-8",newline='') as file:
     csv_file=csv.writer(file)
-    for a in data:
-      adat=data[a]
-      for c in data:
-          print("lista")
-          csv_file.writerow(a)
-          csv_file.writerow(data[a])
-          if isinstance(data[a], list):
-            for b in data[a]:
-              csv_file.writerow(data[a][1].values())
-    
+    for ids in data.keys():
+        csv_file.writerow(data[ids][0])
+        for value in range(len(data[ids])):
+          csv_file.writerow(data[ids][value].values())
 
 convert_csv()
