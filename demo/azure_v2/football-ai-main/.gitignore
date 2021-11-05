@@ -1,0 +1,12 @@
+*.csv
+*.json
+*.xlsx
+cache/
+dist/
+executable/
+OBSOLETE/
+venv/
+venvWin/
+__pycache__/
+.idea/
+*.rar
