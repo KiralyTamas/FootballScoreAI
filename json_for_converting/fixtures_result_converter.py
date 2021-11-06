@@ -1,21 +1,10 @@
-import json
 import csv
+import file_caller
 
-old = "json"
-new = "csv"
-data = []
-#path = "fixtures/fixturesbundesliga.json"
-path=input("Mi a konvertálandó fájl útvonala: ")
-source = open(path, "r")
-data = json.load(source)
-source.close()
-csv_path = path.replace(old, new)
-
-
-def convert_header(data, delim):
-    with open(csv_path, "w", newline='') as file:
+def convert_header(data_list, delim):
+    with open(data_list[0], "w", newline='') as file:
         csv_file = csv.writer(file)
-        for number in data:
+        for number in data_list[1]:
             header = []
             for i in number.keys():
                 if isinstance(number[i], dict):
@@ -25,7 +14,7 @@ def convert_header(data, delim):
                 if isinstance(number[i], dict):
                     header.remove(i)
         csv_file.writerow(header)
-        for number in data:
+        for number in data_list[1]:
           content = []
           for i in number.keys():
             content.append(number[i])
@@ -35,4 +24,4 @@ def convert_header(data, delim):
                     content.append(str(number[i][j]))
           csv_file.writerow(content)
 
-convert_header(data, "_")
+convert_header(file_caller.caller(), "_")
