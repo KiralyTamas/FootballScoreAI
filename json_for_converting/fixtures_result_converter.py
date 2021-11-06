@@ -1,8 +1,6 @@
-import file_caller
-import csv
 import sys
 sys.path.append("C:\Repository\FootballScoreAI")
-
+import file_caller,csv
 
 def convert_header(data_list, delim):
     with open(data_list[0], "w", newline='') as file:

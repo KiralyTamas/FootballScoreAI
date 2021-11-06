@@ -1,8 +1,6 @@
-import file_caller
-import csv
 import sys
 sys.path.append("C:\Repository\FootballScoreAI")
-
+import file_caller,csv
 
 def convert_csv(data_list):
     with open(data_list[0], "w", encoding="UTF-8", newline='') as file:
