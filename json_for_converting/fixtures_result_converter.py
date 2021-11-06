@@ -1,5 +1,8 @@
-import csv
 import file_caller
+import csv
+import sys
+sys.path.append("C:\Repository\FootballScoreAI")
+
 
 def convert_header(data_list, delim):
     with open(data_list[0], "w", newline='') as file:
@@ -15,13 +18,14 @@ def convert_header(data_list, delim):
                     header.remove(i)
         csv_file.writerow(header)
         for number in data_list[1]:
-          content = []
-          for i in number.keys():
-            content.append(number[i])
-            if isinstance(number[i], dict):
-                content.remove(number[i])
-                for j in number[i]:
-                    content.append(str(number[i][j]))
-          csv_file.writerow(content)
+            content = []
+            for i in number.keys():
+                content.append(number[i])
+                if isinstance(number[i], dict):
+                    content.remove(number[i])
+                    for j in number[i]:
+                        content.append(str(number[i][j]))
+            csv_file.writerow(content)
+
 
 convert_header(file_caller.caller(), "_")
