@@ -1,14 +1,21 @@
-from os import walk
+import os
 import csv
 
 f = []
-for (dirpath, dirnames, filenames) in walk("C:\Repository\FootballScoreAI\datas_for_converting\match"):
+for (dirpath, dirnames, filenames) in os.walk("C:\Repository\FootballScoreAI\datas_for_converting\match"):
     f.extend(filenames)
     break
 
 file_name = []
 match_id=["match_id"]
-with open("match_ids.csv", "w", newline='') as file:
+make_dir="match_ids"
+p_path="C:\Repository\FootballScoreAI\datas_for_converting"
+try:
+  path=os.path.join(p_path,make_dir)
+  os.mkdir(path)
+except FileExistsError:
+    print("Ez a mappa már létezik")
+with open("match_ids\match_ids.csv", "w", newline='') as file:
   csv_file=csv.writer(file)
   csv_file.writerow(match_id)
   for i in f:
