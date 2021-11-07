@@ -1,8 +1,6 @@
-import sys
-sys.path.append("C:\Repository\FootballScoreAI")
-import file_caller,csv
+import csv
 
-def convert_csv(data_list):
+def convert_t(data_list):
     with open(data_list[0], "w", encoding="utf-8", newline='') as file:
         csv_file = csv.writer(file)
         for i in data_list[1]:
@@ -10,6 +8,3 @@ def convert_csv(data_list):
             for j in i:
                 content.append(j)
             csv_file.writerow(content)
-
-
-convert_csv(file_caller.caller())
