@@ -11,4 +11,5 @@ def caller():
     csv_path = relative_path.replace(file_xxx[0], file_xxx[1])
     source.close()
     data_list = [csv_path, data]
+    print(relative_path)
     return data_list
