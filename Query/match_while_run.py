@@ -11,11 +11,11 @@ page = 16000
 
 async def main():
     global page
-    while page != 16011:
+    while page != 16100:
         async with aiohttp.ClientSession(connector=aiohttp.TCPConnector(ssl=False)) as session:
             understat = Understat(session)
             players = await understat.get_match_shots(page)
-            f = open(f"json/match/match{page}.json", "w")
+            f = open(f"C:\Repository\FootballScoreAI\datas_for_converting\match\match{page}.json", "w")
             f.write(json.dumps(players))
             f.close()
             page = page + 1
