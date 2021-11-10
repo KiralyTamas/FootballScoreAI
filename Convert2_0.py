@@ -5,7 +5,7 @@ from datas_for_converting.match_converter import convert_m
 from datas_for_converting.table_converter import convert_t
 
 f = []
-for (dirpath, dirnames, filenames) in os.walk(input("Mi a konvertálandó fájl útvonala: ")):
+for (dirpath, dirnames, filenames) in os.walk(input("Mi a konvertálandó fájlok mappájának útvonala: ")):
     f.extend(filenames)
     break
 
