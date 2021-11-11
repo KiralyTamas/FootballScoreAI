@@ -1,0 +1,30 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+424621,9,SavedShot,0.81,0.49400001525878906,0.031959354877471924,Maksim Osipenko,h,7663,FromCorner,2021,LeftFoot,16136,FC Rostov,Dinamo Moscow,0,2,2021-07-23 19:00:00,Kento Hashimoto,Pass
+424622,17,MissedShots,0.914000015258789,0.44299999237060544,0.09731829166412354,Nikolay Komlichenko,h,3015,SetPiece,2021,Head,16136,FC Rostov,Dinamo Moscow,0,2,2021-07-23 19:00:00,Dmitriy Poloz,Cross
+424623,18,SavedShot,0.7609999847412109,0.545,0.018549388274550438,Danil Glebov,h,6580,OpenPlay,2021,RightFoot,16136,FC Rostov,Dinamo Moscow,0,2,2021-07-23 19:00:00,Danila Sukhomlinov,Pass
+424627,38,SavedShot,0.9490000152587891,0.5,0.11215954273939133,Dmitriy Poloz,h,2775,OpenPlay,2021,RightFoot,16136,FC Rostov,Dinamo Moscow,0,2,2021-07-23 19:00:00,,None
+424628,38,BlockedShot,0.9340000152587891,0.475,0.16178017854690552,Dmitriy Poloz,h,2775,OpenPlay,2021,RightFoot,16136,FC Rostov,Dinamo Moscow,0,2,2021-07-23 19:00:00,,Rebound
+424631,45,BlockedShot,0.7930000305175782,0.524000015258789,0.02978348173201084,Danila Sukhomlinov,h,8779,OpenPlay,2021,RightFoot,16136,FC Rostov,Dinamo Moscow,0,2,2021-07-23 19:00:00,Denis Terentjev,Pass
+424630,46,MissedShots,0.914000015258789,0.615,0.027677003294229507,Dmitriy Poloz,h,2775,OpenPlay,2021,Head,16136,FC Rostov,Dinamo Moscow,0,2,2021-07-23 19:00:00,Igor Kalinin,End
+424639,66,MissedShots,0.8640000152587891,0.5170000076293946,0.04419981315732002,Kento Hashimoto,h,8610,OpenPlay,2021,LeftFoot,16136,FC Rostov,Dinamo Moscow,0,2,2021-07-23 19:00:00,,Aerial
+424640,66,BlockedShot,0.925,0.56,0.1222323551774025,Pavel Mamaev,h,2924,OpenPlay,2021,LeftFoot,16136,FC Rostov,Dinamo Moscow,0,2,2021-07-23 19:00:00,Kento Hashimoto,Rebound
+424641,72,MissedShots,0.784000015258789,0.6379999923706055,0.02808329463005066,Pontus Almqvist,h,9061,OpenPlay,2021,RightFoot,16136,FC Rostov,Dinamo Moscow,0,2,2021-07-23 19:00:00,Kento Hashimoto,Pass
+424645,80,MissedShots,0.8690000152587891,0.509000015258789,0.0363803394138813,Nikolay Komlichenko,h,3015,OpenPlay,2021,Head,16136,FC Rostov,Dinamo Moscow,0,2,2021-07-23 19:00:00,Kirill Folmer,Aerial
+424646,85,MissedShots,0.8159999847412109,0.6359999847412109,0.025269832462072372,Armin Gigovic,h,9062,OpenPlay,2021,RightFoot,16136,FC Rostov,Dinamo Moscow,0,2,2021-07-23 19:00:00,,None
+424624,19,Goal,0.8530000305175781,0.385,0.07058548182249069,Arsen Zakharyan,a,8760,OpenPlay,2021,LeftFoot,16136,FC Rostov,Dinamo Moscow,0,2,2021-07-23 19:00:00,Sebastian Szymanski,Pass
+424625,32,SavedShot,0.8969999694824219,0.455,0.044478848576545715,Fabián Balbuena,a,6892,FromCorner,2021,Head,16136,FC Rostov,Dinamo Moscow,0,2,2021-07-23 19:00:00,Sebastian Szymanski,Cross
+424626,32,Goal,0.9619999694824218,0.525,0.6620738506317139,Konstantin Tyukavin,a,9049,FromCorner,2021,LeftFoot,16136,FC Rostov,Dinamo Moscow,0,2,2021-07-23 19:00:00,,Rebound
+424629,39,SavedShot,0.9,0.44599998474121094,0.12935149669647217,Konstantin Tyukavin,a,9049,OpenPlay,2021,RightFoot,16136,FC Rostov,Dinamo Moscow,0,2,2021-07-23 19:00:00,Daniil Lesovoy,Chipped
+424632,50,BlockedShot,0.850999984741211,0.6430000305175781,0.066142737865448,Daniil Lesovoy,a,6793,OpenPlay,2021,RightFoot,16136,FC Rostov,Dinamo Moscow,0,2,2021-07-23 19:00:00,Konstantin Tyukavin,Pass
+424633,50,SavedShot,0.735,0.5570000076293945,0.019323918968439102,Nikola Moro,a,8626,OpenPlay,2021,LeftFoot,16136,FC Rostov,Dinamo Moscow,0,2,2021-07-23 19:00:00,,BallTouch
+424634,55,BlockedShot,0.889000015258789,0.7,0.06852111220359802,Daniil Fomin,a,5536,OpenPlay,2021,RightFoot,16136,FC Rostov,Dinamo Moscow,0,2,2021-07-23 19:00:00,Arsen Zakharyan,Pass
+424635,61,BlockedShot,0.85,0.634000015258789,0.08559577167034149,Daniil Lesovoy,a,6793,OpenPlay,2021,RightFoot,16136,FC Rostov,Dinamo Moscow,0,2,2021-07-23 19:00:00,Konstantin Tyukavin,Pass
+424636,62,BlockedShot,0.7909999847412109,0.6630000305175782,0.017747296020388603,Daniil Lesovoy,a,6793,FromCorner,2021,RightFoot,16136,FC Rostov,Dinamo Moscow,0,2,2021-07-23 19:00:00,,None
+424637,64,SavedShot,0.7269999694824218,0.5540000152587891,0.02154085785150528,Daniil Fomin,a,5536,OpenPlay,2021,RightFoot,16136,FC Rostov,Dinamo Moscow,0,2,2021-07-23 19:00:00,Daniil Lesovoy,Pass
+424638,65,MissedShots,0.8090000152587891,0.7280000305175781,0.019396891817450523,Daniil Lesovoy,a,6793,FromCorner,2021,RightFoot,16136,FC Rostov,Dinamo Moscow,0,2,2021-07-23 19:00:00,Sebastian Szymanski,Pass
+424642,77,MissedShots,0.9119999694824219,0.500999984741211,0.07999025285243988,Ivan Ordets,a,7632,FromCorner,2021,Head,16136,FC Rostov,Dinamo Moscow,0,2,2021-07-23 19:00:00,Sebastian Szymanski,Cross
+424643,77,SavedShot,0.98,0.5929999923706055,0.2988109886646271,Daniil Lesovoy,a,6793,OpenPlay,2021,Head,16136,FC Rostov,Dinamo Moscow,0,2,2021-07-23 19:00:00,Arsen Zakharyan,HeadPass
+424644,78,MissedShots,0.9,0.655,0.09875280410051346,Daniil Lesovoy,a,6793,OpenPlay,2021,LeftFoot,16136,FC Rostov,Dinamo Moscow,0,2,2021-07-23 19:00:00,Sebastian Szymanski,Pass
+424647,91,SavedShot,0.95,0.44299999237060544,0.1408553421497345,Clinton N&#039;Jie,a,960,OpenPlay,2021,RightFoot,16136,FC Rostov,Dinamo Moscow,0,2,2021-07-23 19:00:00,Arsen Zakharyan,Chipped
+424648,93,SavedShot,0.7380000305175781,0.5309999847412109,0.021900398656725883,Sebastian Szymanski,a,7631,OpenPlay,2021,LeftFoot,16136,FC Rostov,Dinamo Moscow,0,2,2021-07-23 19:00:00,Aleksandr Kutitskiy,Pass
+424649,94,BlockedShot,0.9130000305175782,0.649000015258789,0.06317505985498428,Dmitrii Skopintcev,a,5526,OpenPlay,2021,RightFoot,16136,FC Rostov,Dinamo Moscow,0,2,2021-07-23 19:00:00,,TakeOn

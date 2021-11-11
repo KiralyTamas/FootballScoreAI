@@ -1,0 +1,13 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+415728,20,MissedShots,0.9290000152587891,0.509000015258789,0.3760620653629303,Florian Miguel,h,6862,FromCorner,2020,Head,16078,Nimes,Strasbourg,1,1,2021-04-18 13:00:00,Yassin Benrahou,Cross
+415729,31,MissedShots,0.9069999694824219,0.5070000076293946,0.07527415454387665,Florian Miguel,h,6862,SetPiece,2020,Head,16078,Nimes,Strasbourg,1,1,2021-04-18 13:00:00,Yassin Benrahou,Chipped
+415730,40,MissedShots,0.855999984741211,0.5129999923706055,0.0758054181933403,Lamine Fomba,h,7913,OpenPlay,2020,RightFoot,16078,Nimes,Strasbourg,1,1,2021-04-18 13:00:00,,None
+415733,54,Goal,0.885,0.5,0.7600951194763184,Renaud Ripart,h,6864,Penalty,2020,RightFoot,16078,Nimes,Strasbourg,1,1,2021-04-18 13:00:00,,Standard
+415735,78,MissedShots,0.914000015258789,0.4420000076293945,0.34432804584503174,Moussa Koné,h,8318,OpenPlay,2020,LeftFoot,16078,Nimes,Strasbourg,1,1,2021-04-18 13:00:00,Zinedine Ferhat,Cross
+415727,4,MissedShots,0.77,0.7440000152587891,0.011186535470187664,Dmitri Lienard,a,5978,OpenPlay,2020,LeftFoot,16078,Nimes,Strasbourg,1,1,2021-04-18 13:00:00,Ludovic Ajorque,HeadPass
+415731,45,BlockedShot,0.855999984741211,0.355,0.02122747153043747,Adrien Thomasson,a,3549,OpenPlay,2020,RightFoot,16078,Nimes,Strasbourg,1,1,2021-04-18 13:00:00,,Aerial
+415732,45,BlockedShot,0.759000015258789,0.36900001525878906,0.01878565177321434,Ibrahima Sissoko,a,6904,OpenPlay,2020,RightFoot,16078,Nimes,Strasbourg,1,1,2021-04-18 13:00:00,,None
+415734,62,SavedShot,0.889000015258789,0.6859999847412109,0.05476216599345207,Lionel Carole,a,6318,OpenPlay,2020,LeftFoot,16078,Nimes,Strasbourg,1,1,2021-04-18 13:00:00,Dmitri Lienard,Pass
+415736,81,SavedShot,0.885,0.5,0.7600951194763184,Dmitri Lienard,a,5978,Penalty,2020,LeftFoot,16078,Nimes,Strasbourg,1,1,2021-04-18 13:00:00,,Standard
+415737,81,Goal,0.9359999847412109,0.48,0.5998780131340027,Dmitri Lienard,a,5978,SetPiece,2020,LeftFoot,16078,Nimes,Strasbourg,1,1,2021-04-18 13:00:00,,Rebound
+415738,87,MissedShots,0.7559999847412109,0.3509999847412109,0.03543337062001228,Dion Moise Sahi,a,9448,OpenPlay,2020,RightFoot,16078,Nimes,Strasbourg,1,1,2021-04-18 13:00:00,Dmitri Lienard,BallRecovery

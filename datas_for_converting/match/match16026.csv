@@ -1,0 +1,23 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+408179,9,MissedShots,0.8119999694824219,0.5720000076293945,0.05265604332089424,Yacine Adli,h,6762,OpenPlay,2020,RightFoot,16026,Bordeaux,Paris Saint Germain,0,1,2021-03-03 20:00:00,Remi Oudin,Pass
+408183,27,MissedShots,0.78,0.5879999923706055,0.0216070543974638,Jean Michael Seri,h,3312,FromCorner,2020,RightFoot,16026,Bordeaux,Paris Saint Germain,0,1,2021-03-03 20:00:00,,None
+408184,27,MissedShots,0.7930000305175782,0.675,0.02192542888224125,Hwang Ui-Jo,h,7746,OpenPlay,2020,RightFoot,16026,Bordeaux,Paris Saint Germain,0,1,2021-03-03 20:00:00,,BallRecovery
+408186,35,MissedShots,0.9080000305175782,0.49400001525878906,0.38465675711631775,Hwang Ui-Jo,h,7746,OpenPlay,2020,RightFoot,16026,Bordeaux,Paris Saint Germain,0,1,2021-03-03 20:00:00,Remi Oudin,Cross
+408187,41,MissedShots,0.879000015258789,0.3340000152587891,0.04646516591310501,Youssouf Sabaly,h,3399,OpenPlay,2020,LeftFoot,16026,Bordeaux,Paris Saint Germain,0,1,2021-03-03 20:00:00,Samuel Kalu,Chipped
+408188,41,SavedShot,0.8780000305175781,0.45599998474121095,0.0788605660200119,Yacine Adli,h,6762,OpenPlay,2020,RightFoot,16026,Bordeaux,Paris Saint Germain,0,1,2021-03-03 20:00:00,,Rebound
+408190,43,MissedShots,0.8809999847412109,0.54,0.014550413005053997,Hwang Ui-Jo,h,7746,SetPiece,2020,Head,16026,Bordeaux,Paris Saint Germain,0,1,2021-03-03 20:00:00,Remi Oudin,Aerial
+408191,45,BlockedShot,0.9269999694824219,0.255,0.04085879027843475,Samuel Kalu,h,6947,OpenPlay,2020,RightFoot,16026,Bordeaux,Paris Saint Germain,0,1,2021-03-03 20:00:00,Hwang Ui-Jo,Pass
+408195,68,MissedShots,0.9030000305175782,0.285,0.049794960767030716,Hatem Ben Arfa,h,3638,OpenPlay,2020,RightFoot,16026,Bordeaux,Paris Saint Germain,0,1,2021-03-03 20:00:00,Yacine Adli,Pass
+408198,91,SavedShot,0.905,0.504000015258789,0.04601290449500084,Jimmy Briand,h,3477,FromCorner,2020,Head,16026,Bordeaux,Paris Saint Germain,0,1,2021-03-03 20:00:00,,None
+408199,92,MissedShots,0.885,0.534000015258789,0.054946307092905045,Mexer,h,3626,FromCorner,2020,RightFoot,16026,Bordeaux,Paris Saint Germain,0,1,2021-03-03 20:00:00,Yacine Adli,Cross
+408178,7,BlockedShot,0.9019999694824219,0.5629999923706055,0.12927080690860748,Pablo Sarabia,a,2199,OpenPlay,2020,LeftFoot,16026,Bordeaux,Paris Saint Germain,0,1,2021-03-03 20:00:00,Julian Draxler,Pass
+408180,16,SavedShot,0.879000015258789,0.5209999847412109,0.376817911863327,Pablo Sarabia,a,2199,OpenPlay,2020,LeftFoot,16026,Bordeaux,Paris Saint Germain,0,1,2021-03-03 20:00:00,Julian Draxler,Pass
+408181,19,Goal,0.9230000305175782,0.6320000076293946,0.10302021354436874,Pablo Sarabia,a,2199,OpenPlay,2020,LeftFoot,16026,Bordeaux,Paris Saint Germain,0,1,2021-03-03 20:00:00,Idrissa Gueye,Pass
+408182,23,MissedShots,0.759000015258789,0.5820000076293945,0.030540136620402336,Julian Draxler,a,152,OpenPlay,2020,RightFoot,16026,Bordeaux,Paris Saint Germain,0,1,2021-03-03 20:00:00,Layvin Kurzawa,Pass
+408185,32,MissedShots,0.9530000305175781,0.555,0.0892433375120163,Mauro Icardi,a,1513,SetPiece,2020,Head,16026,Bordeaux,Paris Saint Germain,0,1,2021-03-03 20:00:00,Pablo Sarabia,Aerial
+408189,41,MissedShots,0.97,0.40299999237060546,0.10227750241756439,Mauro Icardi,a,1513,OpenPlay,2020,RightFoot,16026,Bordeaux,Paris Saint Germain,0,1,2021-03-03 20:00:00,Pablo Sarabia,Chipped
+408192,50,MissedShots,0.885,0.5209999847412109,0.23415163159370422,Danilo Pereira,a,9060,SetPiece,2020,Head,16026,Bordeaux,Paris Saint Germain,0,1,2021-03-03 20:00:00,Julian Draxler,Chipped
+408193,62,BlockedShot,0.7430000305175781,0.74,0.016739526763558388,Layvin Kurzawa,a,3298,OpenPlay,2020,LeftFoot,16026,Bordeaux,Paris Saint Germain,0,1,2021-03-03 20:00:00,Mauro Icardi,Pass
+408194,66,BlockedShot,0.825,0.5129999923706055,0.11088927835226059,Idrissa Gueye,a,668,OpenPlay,2020,LeftFoot,16026,Bordeaux,Paris Saint Germain,0,1,2021-03-03 20:00:00,Danilo Pereira,TakeOn
+408196,71,BlockedShot,0.894000015258789,0.49700000762939456,0.02964456006884575,Marquinhos,a,3297,FromCorner,2020,Head,16026,Bordeaux,Paris Saint Germain,0,1,2021-03-03 20:00:00,Julian Draxler,Foul
+408197,81,MissedShots,0.8619999694824219,0.3,0.05562208592891693,Rafinha,a,2100,OpenPlay,2020,LeftFoot,16026,Bordeaux,Paris Saint Germain,0,1,2021-03-03 20:00:00,,None

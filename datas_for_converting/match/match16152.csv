@@ -1,0 +1,22 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+425074,3,BlockedShot,0.715,0.46599998474121096,0.01648821122944355,Vyacheslav Krotov,h,2910,OpenPlay,2021,RightFoot,16152,FC Ufa,Lokomotiv Moscow,1,1,2021-08-06 14:00:00,Filip Mrzljak,Pass
+425077,34,SavedShot,0.8669999694824219,0.6320000076293946,0.0792996734380722,Filip Mrzljak,h,9153,OpenPlay,2021,RightFoot,16152,FC Ufa,Lokomotiv Moscow,1,1,2021-08-06 14:00:00,Egas Cacintura,Pass
+425078,34,MissedShots,0.7959999847412109,0.5459999847412109,0.026007777079939842,Egas Cacintura,h,9597,FromCorner,2021,RightFoot,16152,FC Ufa,Lokomotiv Moscow,1,1,2021-08-06 14:00:00,,None
+425079,36,MissedShots,0.6809999847412109,0.43,0.011193061247467995,Vladislav Kamilov,h,8873,OpenPlay,2021,RightFoot,16152,FC Ufa,Lokomotiv Moscow,1,1,2021-08-06 14:00:00,Egas Cacintura,Pass
+425080,43,SavedShot,0.909000015258789,0.5709999847412109,0.07047680020332336,Oleg Ivanov,h,2857,SetPiece,2021,Head,16152,FC Ufa,Lokomotiv Moscow,1,1,2021-08-06 14:00:00,Moritz Bauer,Cross
+425083,48,ShotOnPost,0.919000015258789,0.5720000076293945,0.05641189590096474,Oleg Ivanov,h,2857,FromCorner,2021,Head,16152,FC Ufa,Lokomotiv Moscow,1,1,2021-08-06 14:00:00,Moritz Bauer,Cross
+425082,52,Goal,0.885,0.5,0.7542753219604492,Oleg Ivanov,h,2857,Penalty,2021,RightFoot,16152,FC Ufa,Lokomotiv Moscow,1,1,2021-08-06 14:00:00,,Standard
+425088,58,MissedShots,0.845,0.27299999237060546,0.028762808069586754,Vladislav Kamilov,h,8873,OpenPlay,2021,RightFoot,16152,FC Ufa,Lokomotiv Moscow,1,1,2021-08-06 14:00:00,Moritz Bauer,Pass
+425089,60,BlockedShot,0.8669999694824219,0.49,0.10414473712444305,Egas Cacintura,h,9597,OpenPlay,2021,RightFoot,16152,FC Ufa,Lokomotiv Moscow,1,1,2021-08-06 14:00:00,,None
+425090,60,SavedShot,0.9459999847412109,0.5020000076293946,0.14137053489685059,Yury Zhuravlev,h,3138,FromCorner,2021,LeftFoot,16152,FC Ufa,Lokomotiv Moscow,1,1,2021-08-06 14:00:00,Vladislav Kamilov,Pass
+425091,61,MissedShots,0.8780000305175781,0.5879999923706055,0.1130099669098854,Vyacheslav Krotov,h,2910,OpenPlay,2021,LeftFoot,16152,FC Ufa,Lokomotiv Moscow,1,1,2021-08-06 14:00:00,Gamid Agalarov,Pass
+425094,92,BlockedShot,0.840999984741211,0.3820000076293945,0.05596998706459999,Azer Aliev,h,6805,OpenPlay,2021,LeftFoot,16152,FC Ufa,Lokomotiv Moscow,1,1,2021-08-06 14:00:00,Aleksandr Saplinov,BallTouch
+425075,7,MissedShots,0.8980000305175782,0.43099998474121093,0.1238982304930687,Rifat Zhemaletdinov,a,2712,OpenPlay,2021,LeftFoot,16152,FC Ufa,Lokomotiv Moscow,1,1,2021-08-06 14:00:00,Francois Kamano,Pass
+425076,15,BlockedShot,0.895,0.5790000152587891,0.07917100936174393,Stanislav Magkeev,a,7592,SetPiece,2021,RightFoot,16152,FC Ufa,Lokomotiv Moscow,1,1,2021-08-06 14:00:00,,None
+425081,45,BlockedShot,0.7619999694824219,0.6320000076293946,0.019389431923627853,Fedor Smolov,a,2925,OpenPlay,2021,RightFoot,16152,FC Ufa,Lokomotiv Moscow,1,1,2021-08-06 14:00:00,Dmitri Rybchinsky,Pass
+425084,52,SavedShot,0.7980000305175782,0.27700000762939453,0.01812710054218769,Daniil Kulikov,a,6417,OpenPlay,2021,RightFoot,16152,FC Ufa,Lokomotiv Moscow,1,1,2021-08-06 14:00:00,Fedor Smolov,Pass
+425085,52,SavedShot,0.865999984741211,0.41,0.011643685400485992,Fedor Smolov,a,2925,FromCorner,2021,Head,16152,FC Ufa,Lokomotiv Moscow,1,1,2021-08-06 14:00:00,Maciej Rybus,Cross
+425086,57,BlockedShot,0.7980000305175782,0.4209999847412109,0.026088882237672806,Rifat Zhemaletdinov,a,2712,OpenPlay,2021,RightFoot,16152,FC Ufa,Lokomotiv Moscow,1,1,2021-08-06 14:00:00,Dmitri Rybchinsky,Pass
+425087,57,MissedShots,0.9180000305175782,0.5279999923706055,0.058038875460624695,Fedor Smolov,a,2925,OpenPlay,2021,Head,16152,FC Ufa,Lokomotiv Moscow,1,1,2021-08-06 14:00:00,Dmitri Rybchinsky,Pass
+425092,72,Goal,0.8390000152587891,0.3529999923706055,0.04095901921391487,Vitali Lisakovich,a,8622,OpenPlay,2021,LeftFoot,16152,FC Ufa,Lokomotiv Moscow,1,1,2021-08-06 14:00:00,,None
+425093,77,BlockedShot,0.8590000152587891,0.42700000762939455,0.07260873168706894,Vitali Lisakovich,a,8622,SetPiece,2021,RightFoot,16152,FC Ufa,Lokomotiv Moscow,1,1,2021-08-06 14:00:00,Anton Miranchuk,Chipped
