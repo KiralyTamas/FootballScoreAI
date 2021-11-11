@@ -20,6 +20,8 @@ with open("match_ids\match_ids.csv", "w", newline='') as file:
   csv_file.writerow(match_id)
   for i in f:
     number = []
+    if i[-4:]==".csv":
+      continue
     file_name = str(i)
     new_file_name = file_name.replace("match", '')
     number.append(new_file_name.replace(".json", ''))
