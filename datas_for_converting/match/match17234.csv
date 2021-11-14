@@ -1,0 +1,23 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+438433,24,MissedShots,0.895,0.455,0.4260721504688263,Sergiño Dest,h,8979,OpenPlay,2021,RightFoot,17234,Barcelona,Real Madrid,1,2,2021-10-24 14:15:00,Anssumane Fati,BallTouch
+438434,30,MissedShots,0.74,0.745999984741211,0.01779298670589924,Memphis Depay,h,555,OpenPlay,2021,RightFoot,17234,Barcelona,Real Madrid,1,2,2021-10-24 14:15:00,Frenkie de Jong,Pass
+438436,34,MissedShots,0.91,0.45,0.07652434706687927,Gerard Piqué,h,2092,FromCorner,2021,Head,17234,Barcelona,Real Madrid,1,2,2021-10-24 14:15:00,Memphis Depay,Cross
+438437,36,BlockedShot,0.7469999694824219,0.40700000762939453,0.02168002910912037,Eric Garcia,h,8045,OpenPlay,2021,RightFoot,17234,Barcelona,Real Madrid,1,2,2021-10-24 14:15:00,Sergio Busquets,Pass
+438438,37,MissedShots,0.904000015258789,0.4829999923706055,0.0805988535284996,Gerard Piqué,h,2092,FromCorner,2021,Head,17234,Barcelona,Real Madrid,1,2,2021-10-24 14:15:00,Memphis Depay,Cross
+438440,43,BlockedShot,0.9169999694824219,0.5970000076293945,0.10743740946054459,Anssumane Fati,h,7967,OpenPlay,2021,RightFoot,17234,Barcelona,Real Madrid,1,2,2021-10-24 14:15:00,Jordi Alba,Pass
+438441,47,BlockedShot,0.8859999847412109,0.6120000076293945,0.0844561830163002,Philippe Coutinho,h,488,OpenPlay,2021,LeftFoot,17234,Barcelona,Real Madrid,1,2,2021-10-24 14:15:00,Memphis Depay,Pass
+438442,48,SavedShot,0.904000015258789,0.5659999847412109,0.07653839886188507,Anssumane Fati,h,7967,OpenPlay,2021,LeftFoot,17234,Barcelona,Real Madrid,1,2,2021-10-24 14:15:00,Jordi Alba,Cross
+438445,55,BlockedShot,0.8009999847412109,0.615,0.03365175053477287,Anssumane Fati,h,7967,OpenPlay,2021,RightFoot,17234,Barcelona,Real Madrid,1,2,2021-10-24 14:15:00,Memphis Depay,Pass
+438449,72,MissedShots,0.8369999694824218,0.27799999237060546,0.026975393295288086,Sergiño Dest,h,8979,OpenPlay,2021,LeftFoot,17234,Barcelona,Real Madrid,1,2,2021-10-24 14:15:00,,None
+438450,83,MissedShots,0.9469999694824218,0.4620000076293945,0.06807034462690353,Sergio Agüero,h,619,OpenPlay,2021,Head,17234,Barcelona,Real Madrid,1,2,2021-10-24 14:15:00,Memphis Depay,Aerial
+438453,96,Goal,0.9580000305175781,0.47200000762939454,0.5680930018424988,Sergio Agüero,h,619,OpenPlay,2021,RightFoot,17234,Barcelona,Real Madrid,1,2,2021-10-24 14:15:00,Sergiño Dest,Cross
+438432,13,MissedShots,0.9219999694824219,0.52,0.0537300668656826,Casemiro,a,2248,FromCorner,2021,Head,17234,Barcelona,Real Madrid,1,2,2021-10-24 14:15:00,Toni Kroos,Aerial
+438435,31,Goal,0.855999984741211,0.72,0.05189882591366768,David Alaba,a,391,OpenPlay,2021,LeftFoot,17234,Barcelona,Real Madrid,1,2,2021-10-24 14:15:00,Rodrygo,Pass
+438439,37,BlockedShot,0.8980000305175782,0.4229999923706055,0.1377708613872528,Toni Kroos,a,2369,OpenPlay,2021,RightFoot,17234,Barcelona,Real Madrid,1,2,2021-10-24 14:15:00,Karim Benzema,Chipped
+438443,54,SavedShot,0.7819999694824219,0.6419999694824219,0.037453021854162216,Ferland Mendy,a,6233,OpenPlay,2021,RightFoot,17234,Barcelona,Real Madrid,1,2,2021-10-24 14:15:00,Vinícius Júnior,TakeOn
+438444,54,MissedShots,0.874000015258789,0.6880000305175781,0.06540067493915558,Rodrygo,a,8015,OpenPlay,2021,RightFoot,17234,Barcelona,Real Madrid,1,2,2021-10-24 14:15:00,Toni Kroos,Pass
+438446,61,BlockedShot,0.825,0.3320000076293945,0.049891844391822815,Luka Modric,a,2250,OpenPlay,2021,LeftFoot,17234,Barcelona,Real Madrid,1,2,2021-10-24 14:15:00,Rodrygo,Pass
+438447,61,SavedShot,0.8959999847412109,0.5670000076293945,0.3315390348434448,Karim Benzema,a,2370,OpenPlay,2021,RightFoot,17234,Barcelona,Real Madrid,1,2,2021-10-24 14:15:00,Luka Modric,Chipped
+438448,71,MissedShots,0.9669999694824218,0.36200000762939455,0.09491848200559616,Federico Valverde,a,6241,OpenPlay,2021,RightFoot,17234,Barcelona,Real Madrid,1,2,2021-10-24 14:15:00,Karim Benzema,BallTouch
+438451,92,SavedShot,0.9269999694824219,0.6859999847412109,0.08798253536224365,Marco Asensio,a,2117,OpenPlay,2021,LeftFoot,17234,Barcelona,Real Madrid,1,2,2021-10-24 14:15:00,Lucas Vázquez,Pass
+438452,92,Goal,0.955,0.46799999237060547,0.6970416307449341,Lucas Vázquez,a,2253,OpenPlay,2021,RightFoot,17234,Barcelona,Real Madrid,1,2,2021-10-24 14:15:00,,Rebound

@@ -1,0 +1,33 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+249923,11,Goal,0.9669999694824218,0.47400001525878904,0.6953545808792114,Sergio Agüero,h,619,OpenPlay,2018,RightFoot,9300,Manchester City,Southampton,6,1,2018-11-04 15:00:00,Raheem Sterling,Pass
+249924,16,SavedShot,0.8959999847412109,0.3579999923706055,0.13927090167999268,Sergio Agüero,h,619,OpenPlay,2018,RightFoot,9300,Manchester City,Southampton,6,1,2018-11-04 15:00:00,Bernardo Silva,Throughball
+249925,17,BlockedShot,0.899000015258789,0.33099998474121095,0.08721987903118134,Bernardo Silva,h,3635,OpenPlay,2018,LeftFoot,9300,Manchester City,Southampton,6,1,2018-11-04 15:00:00,David Silva,Chipped
+249926,17,Goal,0.909000015258789,0.6079999923706054,0.10377050191164017,David Silva,h,617,OpenPlay,2018,LeftFoot,9300,Manchester City,Southampton,6,1,2018-11-04 15:00:00,Leroy Sané,BallTouch
+249929,36,BlockedShot,0.779000015258789,0.33,0.026823392137885094,Kyle Walker,h,638,OpenPlay,2018,RightFoot,9300,Manchester City,Southampton,6,1,2018-11-04 15:00:00,,BallTouch
+249930,36,SavedShot,0.8680000305175781,0.32599998474121095,0.08215507119894028,David Silva,h,617,OpenPlay,2018,LeftFoot,9300,Manchester City,Southampton,6,1,2018-11-04 15:00:00,Kyle Walker,Pass
+249931,46,Goal,0.919000015258789,0.4909999847412109,0.5584547519683838,Raheem Sterling,h,618,OpenPlay,2018,LeftFoot,9300,Manchester City,Southampton,6,1,2018-11-04 15:00:00,Sergio Agüero,Pass
+249932,47,BlockedShot,0.865,0.39,0.0948023572564125,Raheem Sterling,h,618,OpenPlay,2018,RightFoot,9300,Manchester City,Southampton,6,1,2018-11-04 15:00:00,Bernardo Silva,Pass
+249937,56,MissedShots,0.87,0.46099998474121096,0.012898481450974941,John Stones,h,586,FromCorner,2018,Head,9300,Manchester City,Southampton,6,1,2018-11-04 15:00:00,Benjamin Mendy,Aerial
+249938,61,ShotOnPost,0.805,0.3029999923706055,0.036671992391347885,Leroy Sané,h,337,OpenPlay,2018,LeftFoot,9300,Manchester City,Southampton,6,1,2018-11-04 15:00:00,Sergio Agüero,Pass
+249941,65,BlockedShot,0.87,0.6020000076293945,0.18901246786117554,Bernardo Silva,h,3635,OpenPlay,2018,LeftFoot,9300,Manchester City,Southampton,6,1,2018-11-04 15:00:00,Kyle Walker,TakeOn
+249942,66,Goal,0.9440000152587891,0.34200000762939453,0.08818705379962921,Raheem Sterling,h,618,OpenPlay,2018,RightFoot,9300,Manchester City,Southampton,6,1,2018-11-04 15:00:00,Sergio Agüero,Pass
+249946,75,MissedShots,0.85,0.38,0.09338779002428055,Sergio Agüero,h,619,OpenPlay,2018,LeftFoot,9300,Manchester City,Southampton,6,1,2018-11-04 15:00:00,Phil Foden,Pass
+249947,80,MissedShots,0.7719999694824219,0.6,0.04456400126218796,Sergio Agüero,h,619,OpenPlay,2018,RightFoot,9300,Manchester City,Southampton,6,1,2018-11-04 15:00:00,Leroy Sané,TakeOn
+249950,86,MissedShots,0.82,0.4809999847412109,0.1752336174249649,Leroy Sané,h,337,DirectFreekick,2018,LeftFoot,9300,Manchester City,Southampton,6,1,2018-11-04 15:00:00,,Standard
+249951,88,BlockedShot,0.8730000305175781,0.44299999237060544,0.12743227183818817,Phil Foden,h,6055,OpenPlay,2018,RightFoot,9300,Manchester City,Southampton,6,1,2018-11-04 15:00:00,Raheem Sterling,Pass
+249952,90,Goal,0.855,0.5570000076293945,0.13185057044029236,Leroy Sané,h,337,OpenPlay,2018,LeftFoot,9300,Manchester City,Southampton,6,1,2018-11-04 15:00:00,Raheem Sterling,Pass
+249953,92,SavedShot,0.825,0.54,0.07563485950231552,Raheem Sterling,h,618,OpenPlay,2018,LeftFoot,9300,Manchester City,Southampton,6,1,2018-11-04 15:00:00,Sergio Agüero,BallRecovery
+249922,5,OwnGoal,0.02799999952316284,0.5070000076293946,0,Wesley Hoedt,a,1203,OpenPlay,2018,RightFoot,9300,Manchester City,Southampton,6,1,2018-11-04 15:00:00,,Tackle
+249927,22,MissedShots,0.8630000305175781,0.4370000076293945,0.08606651425361633,Mario Lemina,a,1299,SetPiece,2018,RightFoot,9300,Manchester City,Southampton,6,1,2018-11-04 15:00:00,Jack Stephens,Pass
+249928,29,Goal,0.885,0.5,0.7611688375473022,Danny Ings,a,986,Penalty,2018,RightFoot,9300,Manchester City,Southampton,6,1,2018-11-04 15:00:00,,Standard
+249933,48,SavedShot,0.845,0.3029999923706055,0.03818662837147713,James Ward-Prowse,a,843,OpenPlay,2018,RightFoot,9300,Manchester City,Southampton,6,1,2018-11-04 15:00:00,Cédric Soares,Pass
+249934,48,SavedShot,0.9330000305175781,0.44299999237060544,0.3929120600223541,Danny Ings,a,986,OpenPlay,2018,RightFoot,9300,Manchester City,Southampton,6,1,2018-11-04 15:00:00,,None
+249935,51,BlockedShot,0.775,0.6409999847412109,0.014255467802286148,Mario Lemina,a,1299,OpenPlay,2018,LeftFoot,9300,Manchester City,Southampton,6,1,2018-11-04 15:00:00,,None
+249936,54,SavedShot,0.9540000152587891,0.6079999923706054,0.041736140847206116,Danny Ings,a,986,FromCorner,2018,Head,9300,Manchester City,Southampton,6,1,2018-11-04 15:00:00,James Ward-Prowse,Cross
+249939,61,MissedShots,0.7769999694824219,0.37900001525878907,0.015873096883296967,Mario Lemina,a,1299,OpenPlay,2018,RightFoot,9300,Manchester City,Southampton,6,1,2018-11-04 15:00:00,,None
+249940,62,SavedShot,0.7440000152587891,0.67,0.01610628329217434,Mario Lemina,a,1299,OpenPlay,2018,RightFoot,9300,Manchester City,Southampton,6,1,2018-11-04 15:00:00,Pierre-Emile Højbjerg,TakeOn
+249943,69,BlockedShot,0.885,0.31,0.050237882882356644,Shane Long,a,839,OpenPlay,2018,LeftFoot,9300,Manchester City,Southampton,6,1,2018-11-04 15:00:00,James Ward-Prowse,Pass
+249944,71,MissedShots,0.9119999694824219,0.43099998474121093,0.08707990497350693,Danny Ings,a,986,SetPiece,2018,Head,9300,Manchester City,Southampton,6,1,2018-11-04 15:00:00,James Ward-Prowse,Cross
+249945,74,MissedShots,0.9830000305175781,0.6759999847412109,0.01947307027876377,Danny Ings,a,986,OpenPlay,2018,LeftFoot,9300,Manchester City,Southampton,6,1,2018-11-04 15:00:00,Shane Long,Cross
+249948,81,MissedShots,0.9230000305175782,0.4229999923706055,0.28400400280952454,Shane Long,a,839,OpenPlay,2018,RightFoot,9300,Manchester City,Southampton,6,1,2018-11-04 15:00:00,Michael Obafemi,Cross
+249949,83,SavedShot,0.6580000305175782,0.39,0.00755652878433466,Shane Long,a,839,OpenPlay,2018,RightFoot,9300,Manchester City,Southampton,6,1,2018-11-04 15:00:00,,BallRecovery

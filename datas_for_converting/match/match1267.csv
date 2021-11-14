@@ -1,0 +1,22 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+82582,3,MissedShots,0.7759999847412109,0.575,0.015457472763955593,Robert Bauer,h,237,FromCorner,2015,RightFoot,1267,Ingolstadt,Schalke 04,3,0,2016-04-02 17:30:00,,Aerial
+82583,6,BlockedShot,0.9290000152587891,0.28600000381469726,0.058397289365530014,Darío Lezcano,h,2636,OpenPlay,2015,RightFoot,1267,Ingolstadt,Schalke 04,3,0,2016-04-02 17:30:00,Lukas Hinterseer,HeadPass
+82587,16,MissedShots,0.755,0.165,0.015772487968206406,Pascal Groß,h,239,OpenPlay,2015,LeftFoot,1267,Ingolstadt,Schalke 04,3,0,2016-04-02 17:30:00,Danny da Costa,Pass
+82589,28,Goal,0.885,0.5,0.75777667760849,Moritz Hartmann,h,362,Penalty,2015,RightFoot,1267,Ingolstadt,Schalke 04,3,0,2016-04-02 17:30:00,,Standard
+82590,33,MissedShots,0.7719999694824219,0.47900001525878905,0.02215641364455223,Danny da Costa,h,249,FromCorner,2015,RightFoot,1267,Ingolstadt,Schalke 04,3,0,2016-04-02 17:30:00,,None
+82591,46,Goal,0.9019999694824219,0.3629999923706055,0.3648030459880829,Lukas Hinterseer,h,242,OpenPlay,2015,RightFoot,1267,Ingolstadt,Schalke 04,3,0,2016-04-02 17:30:00,Danny da Costa,None
+82594,53,BlockedShot,0.7240000152587891,0.39799999237060546,0.019841300323605537,Pascal Groß,h,239,OpenPlay,2015,RightFoot,1267,Ingolstadt,Schalke 04,3,0,2016-04-02 17:30:00,Max Christiansen,Pass
+82596,64,Goal,0.904000015258789,0.504000015258789,0.46479910612106323,Darío Lezcano,h,2636,OpenPlay,2015,LeftFoot,1267,Ingolstadt,Schalke 04,3,0,2016-04-02 17:30:00,Danny da Costa,BlockedPass
+82598,72,MissedShots,0.8969999694824219,0.41,0.031098224222660065,Marvin Matip,h,236,FromCorner,2015,Head,1267,Ingolstadt,Schalke 04,3,0,2016-04-02 17:30:00,Pascal Groß,Cross
+82599,80,MissedShots,0.850999984741211,0.36400001525878906,0.04731763154268265,Marvin Matip,h,236,SetPiece,2015,LeftFoot,1267,Ingolstadt,Schalke 04,3,0,2016-04-02 17:30:00,,None
+82600,87,BlockedShot,0.7780000305175782,0.34799999237060547,0.025125842541456223,Pascal Groß,h,239,OpenPlay,2015,RightFoot,1267,Ingolstadt,Schalke 04,3,0,2016-04-02 17:30:00,Mathew Leckie,Pass
+82601,89,SavedShot,0.7930000305175782,0.42400001525878905,0.04678908735513687,Almog Cohen,h,240,OpenPlay,2015,RightFoot,1267,Ingolstadt,Schalke 04,3,0,2016-04-02 17:30:00,Mathew Leckie,Pass
+82581,2,MissedShots,0.9359999847412109,0.4929999923706055,0.07758434116840363,Joel Matip,a,332,SetPiece,2015,Head,1267,Ingolstadt,Schalke 04,3,0,2016-04-02 17:30:00,Dennis Aogo,Aerial
+82584,7,MissedShots,0.7019999694824218,0.36900001525878906,0.012383057735860348,Júnior Caiçara,a,345,FromCorner,2015,RightFoot,1267,Ingolstadt,Schalke 04,3,0,2016-04-02 17:30:00,,None
+82585,7,SavedShot,0.88,0.6370000076293946,0.0636446475982666,Leon Goretzka,a,335,FromCorner,2015,LeftFoot,1267,Ingolstadt,Schalke 04,3,0,2016-04-02 17:30:00,Júnior Caiçara,Rebound
+82586,8,MissedShots,0.9219999694824219,0.5279999923706055,0.10330875217914581,Leon Goretzka,a,335,FromCorner,2015,Head,1267,Ingolstadt,Schalke 04,3,0,2016-04-02 17:30:00,Johannes Geis,Cross
+82588,22,MissedShots,0.9019999694824219,0.4179999923706055,0.38537895679473877,Franco Di Santo,a,341,OpenPlay,2015,RightFoot,1267,Ingolstadt,Schalke 04,3,0,2016-04-02 17:30:00,Leroy Sané,Pass
+82592,52,BlockedShot,0.8969999694824219,0.41900001525878905,0.08160241693258286,Roman Neustädter,a,346,FromCorner,2015,LeftFoot,1267,Ingolstadt,Schalke 04,3,0,2016-04-02 17:30:00,,None
+82593,52,BlockedShot,0.845999984741211,0.47,0.07085052877664566,Leon Goretzka,a,335,FromCorner,2015,RightFoot,1267,Ingolstadt,Schalke 04,3,0,2016-04-02 17:30:00,Roman Neustädter,Rebound
+82595,62,SavedShot,0.855999984741211,0.39099998474121095,0.06924367696046829,Leroy Sané,a,337,OpenPlay,2015,RightFoot,1267,Ingolstadt,Schalke 04,3,0,2016-04-02 17:30:00,Franco Di Santo,Pass
+82597,69,MissedShots,0.6709999847412109,0.7340000152587891,0.006627809721976519,Johannes Geis,a,336,OpenPlay,2015,RightFoot,1267,Ingolstadt,Schalke 04,3,0,2016-04-02 17:30:00,Franco Di Santo,Pass

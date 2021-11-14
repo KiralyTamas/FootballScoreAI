@@ -1,0 +1,32 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+280282,2,ShotOnPost,0.915,0.5459999847412109,0.08664442598819733,Willian José,h,2361,FromCorner,2018,Head,10138,Real Sociedad,Espanyol,3,2,2019-01-14 20:00:00,Adnan Januzaj,Cross
+280283,2,Goal,0.9730000305175781,0.47200000762939454,0.7701823711395264,Mikel Merino,h,5304,FromCorner,2018,LeftFoot,10138,Real Sociedad,Espanyol,3,2,2019-01-14 20:00:00,,Rebound
+280284,4,MissedShots,0.914000015258789,0.539000015258789,0.08992187678813934,Aritz Elustondo,h,2228,FromCorner,2018,Head,10138,Real Sociedad,Espanyol,3,2,2019-01-14 20:00:00,Adnan Januzaj,Cross
+280285,7,Goal,0.885,0.5,0.7432776093482971,Willian José,h,2361,Penalty,2018,RightFoot,10138,Real Sociedad,Espanyol,3,2,2019-01-14 20:00:00,,Standard
+280286,9,BlockedShot,0.759000015258789,0.24899999618530275,0.023499606177210808,Adnan Januzaj,h,323,OpenPlay,2018,LeftFoot,10138,Real Sociedad,Espanyol,3,2,2019-01-14 20:00:00,Aritz Elustondo,Pass
+280295,45,OwnGoal,0.025999999046325682,0.49900001525878906,0,Diego Llorente,h,2163,OpenPlay,2018,RightFoot,10138,Real Sociedad,Espanyol,3,2,2019-01-14 20:00:00,,None
+280296,45,MissedShots,0.9359999847412109,0.4209999847412109,0.08677098155021667,Mikel Merino,h,5304,FromCorner,2018,Head,10138,Real Sociedad,Espanyol,3,2,2019-01-14 20:00:00,Adnan Januzaj,Cross
+280298,51,MissedShots,0.925,0.4520000076293945,0.04752729833126068,Willian José,h,2361,FromCorner,2018,Head,10138,Real Sociedad,Espanyol,3,2,2019-01-14 20:00:00,Adnan Januzaj,Aerial
+280302,62,Goal,0.9769999694824218,0.5570000076293945,0.580690860748291,Willian José,h,2361,OpenPlay,2018,RightFoot,10138,Real Sociedad,Espanyol,3,2,2019-01-14 20:00:00,Mikel Merino,Cross
+280308,82,SavedShot,0.9540000152587891,0.6430000305175781,0.32140663266181946,Mikel Oyarzabal,h,2234,OpenPlay,2018,LeftFoot,10138,Real Sociedad,Espanyol,3,2,2019-01-14 20:00:00,,TakeOn
+280287,11,BlockedShot,0.765,0.775,0.01235620304942131,Leo Baptistao,a,2304,OpenPlay,2018,RightFoot,10138,Real Sociedad,Espanyol,3,2,2019-01-14 20:00:00,Óscar Melendo,Pass
+280288,30,BlockedShot,0.8080000305175781,0.27700000762939453,0.02127368375658989,Borja Iglesias,a,2543,OpenPlay,2018,LeftFoot,10138,Real Sociedad,Espanyol,3,2,2019-01-14 20:00:00,Óscar Melendo,Pass
+280289,31,Goal,0.92,0.4929999923706055,0.34816065430641174,Naldo,a,4084,FromCorner,2018,Head,10138,Real Sociedad,Espanyol,3,2,2019-01-14 20:00:00,Esteban Granero,Cross
+280290,34,BlockedShot,0.7480000305175781,0.38299999237060545,0.06215187534689903,Esteban Granero,a,2240,DirectFreekick,2018,RightFoot,10138,Real Sociedad,Espanyol,3,2,2019-01-14 20:00:00,,Standard
+280291,38,BlockedShot,0.8480000305175781,0.5670000076293945,0.07653814554214478,Esteban Granero,a,2240,OpenPlay,2018,RightFoot,10138,Real Sociedad,Espanyol,3,2,2019-01-14 20:00:00,Leo Baptistao,Pass
+280292,45,SavedShot,0.7719999694824219,0.49900001525878906,0.03084193356335163,Óscar Melendo,a,5134,OpenPlay,2018,LeftFoot,10138,Real Sociedad,Espanyol,3,2,2019-01-14 20:00:00,Leo Baptistao,Pass
+280293,45,MissedShots,0.91,0.48200000762939454,0.051882266998291016,Borja Iglesias,a,2543,OpenPlay,2018,OtherBodyPart,10138,Real Sociedad,Espanyol,3,2,2019-01-14 20:00:00,David López,Aerial
+280294,45,ShotOnPost,0.9790000152587891,0.5529999923706055,0.6833890676498413,Leo Baptistao,a,2304,OpenPlay,2018,RightFoot,10138,Real Sociedad,Espanyol,3,2,2019-01-14 20:00:00,Borja Iglesias,Rebound
+280297,48,MissedShots,0.884000015258789,0.6,0.04246479272842407,David López,a,1857,SetPiece,2018,Head,10138,Real Sociedad,Espanyol,3,2,2019-01-14 20:00:00,Sergi Darder,Chipped
+280299,54,BlockedShot,0.759000015258789,0.6469999694824219,0.015786487609148026,Sergi Darder,a,2621,OpenPlay,2018,RightFoot,10138,Real Sociedad,Espanyol,3,2,2019-01-14 20:00:00,,None
+280300,56,BlockedShot,0.835999984741211,0.7630000305175781,0.024989210069179535,Borja Iglesias,a,2543,OpenPlay,2018,RightFoot,10138,Real Sociedad,Espanyol,3,2,2019-01-14 20:00:00,Esteban Granero,Pass
+280301,58,BlockedShot,0.94,0.6469999694824219,0.008544502779841423,Naldo,a,4084,SetPiece,2018,Head,10138,Real Sociedad,Espanyol,3,2,2019-01-14 20:00:00,Esteban Granero,Aerial
+280303,71,MissedShots,0.8719999694824219,0.25,0.03175758942961693,Roberto Rosales,a,2331,OpenPlay,2018,RightFoot,10138,Real Sociedad,Espanyol,3,2,2019-01-14 20:00:00,Borja Iglesias,Pass
+280304,73,BlockedShot,0.815,0.5359999847412109,0.05665521323680878,Leo Baptistao,a,2304,OpenPlay,2018,RightFoot,10138,Real Sociedad,Espanyol,3,2,2019-01-14 20:00:00,Pablo Piatti,Pass
+280305,80,BlockedShot,0.9230000305175782,0.5120000076293946,0.05751180276274681,Dídac Vilá,a,4131,OpenPlay,2018,Head,10138,Real Sociedad,Espanyol,3,2,2019-01-14 20:00:00,Roberto Rosales,Aerial
+280306,80,MissedShots,0.97,0.45099998474121095,0.49499866366386414,Dídac Vilá,a,4131,FromCorner,2018,Head,10138,Real Sociedad,Espanyol,3,2,2019-01-14 20:00:00,Pablo Piatti,Cross
+280307,81,BlockedShot,0.855999984741211,0.235,0.022762643173336983,Leo Baptistao,a,2304,OpenPlay,2018,RightFoot,10138,Real Sociedad,Espanyol,3,2,2019-01-14 20:00:00,,BallTouch
+280309,83,MissedShots,0.9169999694824219,0.5070000076293946,0.05890285596251488,Pablo Piatti,a,2382,OpenPlay,2018,Head,10138,Real Sociedad,Espanyol,3,2,2019-01-14 20:00:00,,None
+280310,86,BlockedShot,0.8180000305175781,0.6759999847412109,0.02972937561571598,Marc Roca,a,5086,OpenPlay,2018,LeftFoot,10138,Real Sociedad,Espanyol,3,2,2019-01-14 20:00:00,Leo Baptistao,Pass
+280311,89,MissedShots,0.8680000305175781,0.6880000305175781,0.04873449727892876,Dídac Vilá,a,4131,OpenPlay,2018,RightFoot,10138,Real Sociedad,Espanyol,3,2,2019-01-14 20:00:00,Pablo Piatti,Pass
+280312,91,MissedShots,0.9209999847412109,0.5370000076293945,0.27112191915512085,Naldo,a,4084,OpenPlay,2018,Head,10138,Real Sociedad,Espanyol,3,2,2019-01-14 20:00:00,Roberto Rosales,Aerial

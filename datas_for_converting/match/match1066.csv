@@ -1,0 +1,26 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+77208,6,SavedShot,0.754000015258789,0.4,0.023407138884067535,Douglas Costa,h,393,OpenPlay,2015,LeftFoot,1066,Bayern Munich,Wolfsburg,5,1,2015-09-22 22:00:00,Thiago Alcántara,Pass
+77209,12,MissedShots,0.725,0.45,0.019187714904546738,Arturo Vidal,h,222,OpenPlay,2015,LeftFoot,1066,Bayern Munich,Wolfsburg,5,1,2015-09-22 22:00:00,David Alaba,Pass
+77210,15,MissedShots,0.789000015258789,0.5540000152587891,0.035028550773859024,Thomas Müller,h,224,OpenPlay,2015,RightFoot,1066,Bayern Munich,Wolfsburg,5,1,2015-09-22 22:00:00,Mario Götze,Pass
+77211,18,SavedShot,0.740999984741211,0.5129999923706055,0.01993379555642605,Douglas Costa,h,393,OpenPlay,2015,LeftFoot,1066,Bayern Munich,Wolfsburg,5,1,2015-09-22 22:00:00,Thiago Alcántara,LayOff
+77213,30,SavedShot,0.8159999847412109,0.3629999923706055,0.029795467853546143,Douglas Costa,h,393,SetPiece,2015,LeftFoot,1066,Bayern Munich,Wolfsburg,5,1,2015-09-22 22:00:00,,None
+77216,38,MissedShots,0.8180000305175781,0.43900001525878907,0.03304741531610489,Arturo Vidal,h,222,FromCorner,2015,LeftFoot,1066,Bayern Munich,Wolfsburg,5,1,2015-09-22 22:00:00,Mario Götze,HeadPass
+77218,50,Goal,0.914000015258789,0.545,0.3675227761268616,Robert Lewandowski,h,227,OpenPlay,2015,LeftFoot,1066,Bayern Munich,Wolfsburg,5,1,2015-09-22 22:00:00,,Dispossessed
+77219,51,Goal,0.774000015258789,0.525,0.04025370255112648,Robert Lewandowski,h,227,OpenPlay,2015,RightFoot,1066,Bayern Munich,Wolfsburg,5,1,2015-09-22 22:00:00,Douglas Costa,HeadPass
+77220,54,ShotOnPost,0.9,0.5609999847412109,0.43737465143203735,Robert Lewandowski,h,227,OpenPlay,2015,RightFoot,1066,Bayern Munich,Wolfsburg,5,1,2015-09-22 22:00:00,Mario Götze,Pass
+77221,54,SavedShot,0.9269999694824219,0.6140000152587891,0.40036192536354065,Robert Lewandowski,h,227,OpenPlay,2015,LeftFoot,1066,Bayern Munich,Wolfsburg,5,1,2015-09-22 22:00:00,,Goal
+77222,54,Goal,0.9030000305175782,0.5779999923706055,0.3720329999923706,Robert Lewandowski,h,227,OpenPlay,2015,RightFoot,1066,Bayern Munich,Wolfsburg,5,1,2015-09-22 22:00:00,,Rebound
+77223,56,Goal,0.9130000305175782,0.47,0.5645679235458374,Robert Lewandowski,h,227,OpenPlay,2015,RightFoot,1066,Bayern Munich,Wolfsburg,5,1,2015-09-22 22:00:00,,None
+77224,59,Goal,0.850999984741211,0.4879999923706055,0.09708689898252487,Robert Lewandowski,h,227,OpenPlay,2015,RightFoot,1066,Bayern Munich,Wolfsburg,5,1,2015-09-22 22:00:00,Mario Götze,Cross
+77226,67,SavedShot,0.9490000152587891,0.3770000076293945,0.3442729115486145,Mario Götze,h,422,SetPiece,2015,RightFoot,1066,Bayern Munich,Wolfsburg,5,1,2015-09-22 22:00:00,Javi Martínez,HeadPass
+77227,67,SavedShot,0.8490000152587891,0.475,0.0702594593167305,Thomas Müller,h,224,SetPiece,2015,RightFoot,1066,Bayern Munich,Wolfsburg,5,1,2015-09-22 22:00:00,,Rebound
+77228,68,BlockedShot,0.9259999847412109,0.48200000762939454,0.5776098370552063,Robert Lewandowski,h,227,OpenPlay,2015,LeftFoot,1066,Bayern Munich,Wolfsburg,5,1,2015-09-22 22:00:00,David Alaba,Pass
+77230,78,BlockedShot,0.88,0.365,0.3402683734893799,Robert Lewandowski,h,227,OpenPlay,2015,RightFoot,1066,Bayern Munich,Wolfsburg,5,1,2015-09-22 22:00:00,Thomas Müller,Chipped
+77231,87,MissedShots,0.8159999847412109,0.4779999923706055,0.08788914978504181,Thomas Müller,h,224,OpenPlay,2015,RightFoot,1066,Bayern Munich,Wolfsburg,5,1,2015-09-22 22:00:00,Robert Lewandowski,Pass
+77212,25,Goal,0.8930000305175781,0.32,0.0480792336165905,Daniel Caligiuri,a,157,OpenPlay,2015,RightFoot,1066,Bayern Munich,Wolfsburg,5,1,2015-09-22 22:00:00,Julian Draxler,Chipped
+77214,32,SavedShot,0.774000015258789,0.720999984741211,0.020716508850455284,Julian Draxler,a,152,OpenPlay,2015,RightFoot,1066,Bayern Munich,Wolfsburg,5,1,2015-09-22 22:00:00,Max Kruse,Chipped
+77215,37,ShotOnPost,0.4859999847412109,0.44099998474121094,0.007749189622700214,Josuha Guilavogui,a,150,OpenPlay,2015,RightFoot,1066,Bayern Munich,Wolfsburg,5,1,2015-09-22 22:00:00,Daniel Caligiuri,Pass
+77217,48,BlockedShot,0.7119999694824218,0.3240000152587891,0.01021827757358551,Christian Träsch,a,146,OpenPlay,2015,RightFoot,1066,Bayern Munich,Wolfsburg,5,1,2015-09-22 22:00:00,Julian Draxler,Chipped
+77225,64,MissedShots,0.72,0.7330000305175781,0.011016808450222015,Maximilian Arnold,a,153,OpenPlay,2015,LeftFoot,1066,Bayern Munich,Wolfsburg,5,1,2015-09-22 22:00:00,Ricardo Rodríguez,Pass
+77229,74,MissedShots,0.8690000152587891,0.3220000076293945,0.05510278046131134,Julian Draxler,a,152,OpenPlay,2015,LeftFoot,1066,Bayern Munich,Wolfsburg,5,1,2015-09-22 22:00:00,Daniel Caligiuri,Pass
+77232,89,MissedShots,0.710999984741211,0.6469999694824219,0.007511262781918049,Josuha Guilavogui,a,150,OpenPlay,2015,RightFoot,1066,Bayern Munich,Wolfsburg,5,1,2015-09-22 22:00:00,Maximilian Arnold,HeadPass

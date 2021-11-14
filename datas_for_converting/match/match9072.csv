@@ -1,0 +1,29 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+263105,24,BlockedShot,0.8519999694824218,0.27,0.027639612555503845,Pavel Dolgov,h,3069,OpenPlay,2018,RightFoot,9072,Anzhi Makhachkala,FC Ufa,0,0,2018-12-01 16:00:00,Konstantin Savichev,Pass
+263106,29,BlockedShot,0.774000015258789,0.53,0.02872910536825657,Pavel Dolgov,h,3069,OpenPlay,2018,RightFoot,9072,Anzhi Makhachkala,FC Ufa,0,0,2018-12-01 16:00:00,Andrés Ponce,Pass
+263107,30,MissedShots,0.7930000305175782,0.27700000762939453,0.02076832577586174,Vladislav Kulik,h,3108,OpenPlay,2018,RightFoot,9072,Anzhi Makhachkala,FC Ufa,0,0,2018-12-01 16:00:00,Konstantin Savichev,Pass
+263111,36,BlockedShot,0.9119999694824219,0.48200000762939454,0.25925272703170776,Andrés Ponce,h,1811,OpenPlay,2018,Head,9072,Anzhi Makhachkala,FC Ufa,0,0,2018-12-01 16:00:00,Roland Gigolaev,Cross
+263112,36,BlockedShot,0.9019999694824219,0.52,0.40422189235687256,Pavel Dolgov,h,3069,OpenPlay,2018,RightFoot,9072,Anzhi Makhachkala,FC Ufa,0,0,2018-12-01 16:00:00,,Rebound
+263113,36,BlockedShot,0.8590000152587891,0.655,0.02176014520227909,Roland Gigolaev,h,2835,FromCorner,2018,LeftFoot,9072,Anzhi Makhachkala,FC Ufa,0,0,2018-12-01 16:00:00,Ivan Novoseltsev,HeadPass
+263119,56,SavedShot,0.9119999694824219,0.48,0.4400236904621124,Andrés Ponce,h,1811,OpenPlay,2018,RightFoot,9072,Anzhi Makhachkala,FC Ufa,0,0,2018-12-01 16:00:00,Konstantin Savichev,Pass
+263120,69,MissedShots,0.6769999694824219,0.40200000762939453,0.007549786474555731,Gael Ondoua,h,6814,OpenPlay,2018,LeftFoot,9072,Anzhi Makhachkala,FC Ufa,0,0,2018-12-01 16:00:00,Vladislav Kulik,LayOff
+263123,75,BlockedShot,0.924000015258789,0.39099998474121095,0.05350988730788231,Ivan Novoseltsev,h,2768,FromCorner,2018,RightFoot,9072,Anzhi Makhachkala,FC Ufa,0,0,2018-12-01 16:00:00,Vladislav Kulik,Cross
+263124,76,SavedShot,0.885,0.5,0.7542753219604492,Vladislav Kulik,h,3108,Penalty,2018,RightFoot,9072,Anzhi Makhachkala,FC Ufa,0,0,2018-12-01 16:00:00,,Standard
+263125,79,BlockedShot,0.8919999694824219,0.3970000076293945,0.07844270020723343,Vladislav Kulik,h,3108,OpenPlay,2018,RightFoot,9072,Anzhi Makhachkala,FC Ufa,0,0,2018-12-01 16:00:00,Konstantin Savichev,Cross
+263127,88,MissedShots,0.94,0.6509999847412109,0.052031658589839935,Danil Glebov,h,6580,OpenPlay,2018,LeftFoot,9072,Anzhi Makhachkala,FC Ufa,0,0,2018-12-01 16:00:00,Adlan Katsaev,Cross
+263102,14,MissedShots,0.9230000305175782,0.625999984741211,0.010103493928909302,Sly,a,2907,SetPiece,2018,Head,9072,Anzhi Makhachkala,FC Ufa,0,0,2018-12-01 16:00:00,Olivier Thill,Aerial
+263103,19,BlockedShot,0.73,0.5970000076293945,0.019925886765122414,Vyacheslav Krotov,a,2910,OpenPlay,2018,RightFoot,9072,Anzhi Makhachkala,FC Ufa,0,0,2018-12-01 16:00:00,Ionut Nedelcearu,Pass
+263104,19,BlockedShot,0.8919999694824219,0.49,0.04615623131394386,Sly,a,2907,FromCorner,2018,Head,9072,Anzhi Makhachkala,FC Ufa,0,0,2018-12-01 16:00:00,Olivier Thill,Cross
+263108,31,SavedShot,0.799000015258789,0.28899999618530275,0.02317707985639572,Olivier Thill,a,7135,OpenPlay,2018,LeftFoot,9072,Anzhi Makhachkala,FC Ufa,0,0,2018-12-01 16:00:00,Aleksandr Sukhov,Pass
+263109,34,SavedShot,0.8059999847412109,0.33099998474121095,0.029149601235985756,Olivier Thill,a,7135,OpenPlay,2018,RightFoot,9072,Anzhi Makhachkala,FC Ufa,0,0,2018-12-01 16:00:00,Vyacheslav Krotov,Pass
+263110,35,MissedShots,0.78,0.5209999847412109,0.03218245878815651,Sly,a,2907,OpenPlay,2018,RightFoot,9072,Anzhi Makhachkala,FC Ufa,0,0,2018-12-01 16:00:00,,None
+263114,40,MissedShots,0.86,0.6840000152587891,0.04697611927986145,Vyacheslav Krotov,a,2910,OpenPlay,2018,LeftFoot,9072,Anzhi Makhachkala,FC Ufa,0,0,2018-12-01 16:00:00,Jimmy Tabidze,Pass
+263115,43,SavedShot,0.6880000305175781,0.5940000152587891,0.00773285049945116,Olivier Thill,a,7135,OpenPlay,2018,RightFoot,9072,Anzhi Makhachkala,FC Ufa,0,0,2018-12-01 16:00:00,Catalin Carp,TakeOn
+263116,47,BlockedShot,0.695,0.4570000076293945,0.015956349670886993,Ondrej Vanek,a,5489,SetPiece,2018,RightFoot,9072,Anzhi Makhachkala,FC Ufa,0,0,2018-12-01 16:00:00,Olivier Thill,Pass
+263117,51,MissedShots,0.794000015258789,0.6370000076293946,0.029244037345051765,Ionut Nedelcearu,a,6608,OpenPlay,2018,RightFoot,9072,Anzhi Makhachkala,FC Ufa,0,0,2018-12-01 16:00:00,,None
+263118,53,BlockedShot,0.7419999694824219,0.49700000762939456,0.018298257142305374,Sly,a,2907,FromCorner,2018,RightFoot,9072,Anzhi Makhachkala,FC Ufa,0,0,2018-12-01 16:00:00,Ondrej Vanek,Pass
+263121,70,SavedShot,0.894000015258789,0.47,0.0421970970928669,Vyacheslav Krotov,a,2910,OpenPlay,2018,Head,9072,Anzhi Makhachkala,FC Ufa,0,0,2018-12-01 16:00:00,Sly,Aerial
+263122,71,MissedShots,0.8059999847412109,0.759000015258789,0.012981369160115719,Vyacheslav Krotov,a,2910,FromCorner,2018,RightFoot,9072,Anzhi Makhachkala,FC Ufa,0,0,2018-12-01 16:00:00,Sly,SubstitutionOn
+263126,87,MissedShots,0.7369999694824219,0.519000015258789,0.021695110946893692,Lovro Bizjak,a,7011,OpenPlay,2018,RightFoot,9072,Anzhi Makhachkala,FC Ufa,0,0,2018-12-01 16:00:00,Jimmy Tabidze,Pass
+263128,91,SavedShot,0.985,0.42200000762939455,0.11086063832044601,Ivan Paurevic,a,2903,OpenPlay,2018,RightFoot,9072,Anzhi Makhachkala,FC Ufa,0,0,2018-12-01 16:00:00,,None
+263129,92,MissedShots,0.8809999847412109,0.5220000076293946,0.04511886462569237,Ionut Nedelcearu,a,6608,OpenPlay,2018,Head,9072,Anzhi Makhachkala,FC Ufa,0,0,2018-12-01 16:00:00,Sly,Cross

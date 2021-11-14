@@ -1,0 +1,32 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+364172,11,BlockedShot,0.8530000305175781,0.5840000152587891,0.0912829264998436,Josip Brekalo,h,5353,OpenPlay,2019,LeftFoot,12674,Wolfsburg,Freiburg,2,2,2020-06-13 13:30:00,Daniel Ginczek,LayOff
+364173,13,Goal,0.8880000305175781,0.4520000076293945,0.12288691103458405,Wout Weghorst,h,7052,OpenPlay,2019,RightFoot,12674,Wolfsburg,Freiburg,2,2,2020-06-13 13:30:00,Renato Steffen,Pass
+364174,25,Goal,0.885,0.5,0.75777667760849,Wout Weghorst,h,7052,Penalty,2019,RightFoot,12674,Wolfsburg,Freiburg,2,2,2020-06-13 13:30:00,,Standard
+364175,27,BlockedShot,0.94,0.6809999847412109,0.1142466738820076,Daniel Ginczek,h,426,OpenPlay,2019,RightFoot,12674,Wolfsburg,Freiburg,2,2,2020-06-13 13:30:00,Josip Brekalo,TakeOn
+364176,27,BlockedShot,0.9480000305175781,0.47299999237060547,0.06198972091078758,Daniel Ginczek,h,426,FromCorner,2019,Head,12674,Wolfsburg,Freiburg,2,2,2020-06-13 13:30:00,,Foul
+364181,43,SavedShot,0.9259999847412109,0.6659999847412109,0.4648727476596832,Wout Weghorst,h,7052,OpenPlay,2019,LeftFoot,12674,Wolfsburg,Freiburg,2,2,2020-06-13 13:30:00,,Aerial
+364182,43,MissedShots,0.8530000305175781,0.34700000762939454,0.03819861263036728,Renato Steffen,h,6484,FromCorner,2019,RightFoot,12674,Wolfsburg,Freiburg,2,2,2020-06-13 13:30:00,,None
+364185,51,MissedShots,0.84,0.515,0.10127913951873779,Josip Brekalo,h,5353,OpenPlay,2019,LeftFoot,12674,Wolfsburg,Freiburg,2,2,2020-06-13 13:30:00,Xaver Schlager,Pass
+364186,53,BlockedShot,0.8569999694824219,0.5270000076293946,0.05617791414260864,John Brooks,h,22,FromCorner,2019,RightFoot,12674,Wolfsburg,Freiburg,2,2,2020-06-13 13:30:00,Wout Weghorst,BallTouch
+364187,58,BlockedShot,0.785,0.4759999847412109,0.0587579607963562,Daniel Ginczek,h,426,OpenPlay,2019,RightFoot,12674,Wolfsburg,Freiburg,2,2,2020-06-13 13:30:00,,TakeOn
+364188,58,BlockedShot,0.755,0.61,0.021474801003932953,Xaver Schlager,h,7783,OpenPlay,2019,LeftFoot,12674,Wolfsburg,Freiburg,2,2,2020-06-13 13:30:00,,Dispossessed
+364189,59,SavedShot,0.9109999847412109,0.37,0.03924739360809326,John Brooks,h,22,SetPiece,2019,Head,12674,Wolfsburg,Freiburg,2,2,2020-06-13 13:30:00,Maximilian Arnold,Chipped
+364192,61,MissedShots,0.875,0.35900001525878905,0.07101352512836456,Maximilian Arnold,h,153,OpenPlay,2019,RightFoot,12674,Wolfsburg,Freiburg,2,2,2020-06-13 13:30:00,Felix Klaus,Pass
+364193,69,MissedShots,0.755,0.575999984741211,0.024298306554555893,Maximilian Arnold,h,153,OpenPlay,2019,LeftFoot,12674,Wolfsburg,Freiburg,2,2,2020-06-13 13:30:00,Yannick Gerhardt,Pass
+364194,72,BlockedShot,0.8909999847412109,0.5720000076293945,0.05262324959039688,Daniel Ginczek,h,426,OpenPlay,2019,Head,12674,Wolfsburg,Freiburg,2,2,2020-06-13 13:30:00,Jérôme Roussillon,Cross
+364195,73,MissedShots,0.92,0.504000015258789,0.05038193240761757,Daniel Ginczek,h,426,FromCorner,2019,Head,12674,Wolfsburg,Freiburg,2,2,2020-06-13 13:30:00,Maximilian Arnold,Aerial
+364196,74,MissedShots,0.785,0.6759999847412109,0.0194255318492651,Maximilian Arnold,h,153,OpenPlay,2019,LeftFoot,12674,Wolfsburg,Freiburg,2,2,2020-06-13 13:30:00,,None
+364197,74,SavedShot,0.8219999694824218,0.515,0.048766519874334335,Yannick Gerhardt,h,140,OpenPlay,2019,LeftFoot,12674,Wolfsburg,Freiburg,2,2,2020-06-13 13:30:00,Maximilian Arnold,Rebound
+364200,89,SavedShot,0.8330000305175781,0.674000015258789,0.03898292034864426,Felix Klaus,h,350,OpenPlay,2019,RightFoot,12674,Wolfsburg,Freiburg,2,2,2020-06-13 13:30:00,Yannick Gerhardt,Pass
+364201,90,MissedShots,0.94,0.4490000152587891,0.2521061897277832,Wout Weghorst,h,7052,OpenPlay,2019,OtherBodyPart,12674,Wolfsburg,Freiburg,2,2,2020-06-13 13:30:00,Kevin Mbabu,Cross
+364171,3,BlockedShot,0.9330000305175781,0.5829999923706055,0.09794797748327255,Lucas Höler,a,6475,FromCorner,2019,RightFoot,12674,Wolfsburg,Freiburg,2,2,2020-06-13 13:30:00,,None
+364177,32,SavedShot,0.92,0.5070000076293946,0.34780198335647583,Roland Sallai,a,1277,SetPiece,2019,Head,12674,Wolfsburg,Freiburg,2,2,2020-06-13 13:30:00,Vincenzo Grifo,Cross
+364178,35,MissedShots,0.7019999694824218,0.500999984741211,0.013134680688381195,Philipp Lienhart,a,2611,FromCorner,2019,RightFoot,12674,Wolfsburg,Freiburg,2,2,2020-06-13 13:30:00,,None
+364179,41,MissedShots,0.7859999847412109,0.6079999923706054,0.030598288401961327,Nicolas Höfler,a,4250,OpenPlay,2019,LeftFoot,12674,Wolfsburg,Freiburg,2,2,2020-06-13 13:30:00,Jonathan Schmid,Pass
+364180,42,Goal,0.9359999847412109,0.4620000076293945,0.3800986111164093,Lucas Höler,a,6475,OpenPlay,2019,Head,12674,Wolfsburg,Freiburg,2,2,2020-06-13 13:30:00,Vincenzo Grifo,Cross
+364183,45,SavedShot,0.8930000305175781,0.6229999923706054,0.358084499835968,Lucas Höler,a,6475,OpenPlay,2019,RightFoot,12674,Wolfsburg,Freiburg,2,2,2020-06-13 13:30:00,Gian-Luca Waldschmidt,Pass
+364184,45,Goal,0.905,0.4209999847412109,0.21082201600074768,Roland Sallai,a,1277,OpenPlay,2019,Head,12674,Wolfsburg,Freiburg,2,2,2020-06-13 13:30:00,,Rebound
+364190,59,SavedShot,0.889000015258789,0.6140000152587891,0.05448532477021217,Roland Sallai,a,1277,OpenPlay,2019,RightFoot,12674,Wolfsburg,Freiburg,2,2,2020-06-13 13:30:00,Christian Günter,Cross
+364191,60,BlockedShot,0.9319999694824219,0.4909999847412109,0.594355583190918,Philipp Lienhart,a,2611,OpenPlay,2019,RightFoot,12674,Wolfsburg,Freiburg,2,2,2020-06-13 13:30:00,Vincenzo Grifo,Pass
+364198,75,MissedShots,0.924000015258789,0.44599998474121094,0.05912366509437561,Nils Petersen,a,4248,OpenPlay,2019,Head,12674,Wolfsburg,Freiburg,2,2,2020-06-13 13:30:00,Kwon Chang-Hoon,Aerial
+364199,78,MissedShots,0.8059999847412109,0.710999984741211,0.02248726598918438,Vincenzo Grifo,a,5266,OpenPlay,2019,RightFoot,12674,Wolfsburg,Freiburg,2,2,2020-06-13 13:30:00,Lucas Höler,Pass

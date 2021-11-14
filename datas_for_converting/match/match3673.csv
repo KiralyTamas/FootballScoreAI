@@ -1,0 +1,24 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+152033,0,BlockedShot,0.7390000152587891,0.37599998474121094,0.013804168440401554,Mato Jajalo,h,1273,OpenPlay,2016,RightFoot,3673,Palermo,Fiorentina,2,0,2017-04-30 14:00:00,,None
+152035,13,MissedShots,0.6040000152587891,0.3120000076293945,0.008259724825620651,Thiago Cionek,h,1265,OpenPlay,2016,RightFoot,3673,Palermo,Fiorentina,2,0,2017-04-30 14:00:00,,BallRecovery
+152037,31,Goal,0.7959999847412109,0.66,0.07842178642749786,Alessandro Diamanti,h,948,DirectFreekick,2016,LeftFoot,3673,Palermo,Fiorentina,2,0,2017-04-30 14:00:00,,Standard
+152043,50,MissedShots,0.8080000305175781,0.425,0.06052784249186516,Ilija Nestorovski,h,1272,OpenPlay,2016,LeftFoot,3673,Palermo,Fiorentina,2,0,2017-04-30 14:00:00,Andrea Rispoli,Pass
+152044,52,BlockedShot,0.8780000305175781,0.48700000762939455,0.07641177624464035,Ivaylo Chochev,h,1271,OpenPlay,2016,Head,3673,Palermo,Fiorentina,2,0,2017-04-30 14:00:00,Alessandro Diamanti,Cross
+152047,65,MissedShots,0.4259999847412109,0.7869999694824219,0.006859679240733385,Alessandro Diamanti,h,948,OpenPlay,2016,LeftFoot,3673,Palermo,Fiorentina,2,0,2017-04-30 14:00:00,,BallRecovery
+152048,70,BlockedShot,0.745999984741211,0.40400001525878904,0.015630483627319336,Mato Jajalo,h,1273,FromCorner,2016,RightFoot,3673,Palermo,Fiorentina,2,0,2017-04-30 14:00:00,,None
+152053,88,MissedShots,0.8059999847412109,0.5940000152587891,0.1175139918923378,Alessandro Diamanti,h,948,DirectFreekick,2016,LeftFoot,3673,Palermo,Fiorentina,2,0,2017-04-30 14:00:00,,Standard
+152054,89,Goal,0.9369999694824219,0.6509999847412109,0.18336091935634613,Haitam Aleesami,h,1270,OpenPlay,2016,LeftFoot,3673,Palermo,Fiorentina,2,0,2017-04-30 14:00:00,Ivaylo Chochev,TakeOn
+152055,94,MissedShots,0.53,0.285,0.008877482265233994,Mato Jajalo,h,1273,OpenPlay,2016,RightFoot,3673,Palermo,Fiorentina,2,0,2017-04-30 14:00:00,,BallRecovery
+152034,8,MissedShots,0.825999984741211,0.2929999923706055,0.028422391042113304,Josip Ilicic,a,1426,OpenPlay,2016,RightFoot,3673,Palermo,Fiorentina,2,0,2017-04-30 14:00:00,Carlos Salcedo,Pass
+152036,17,BlockedShot,0.87,0.2979999923706055,0.04301441088318825,Josip Ilicic,a,1426,OpenPlay,2016,LeftFoot,3673,Palermo,Fiorentina,2,0,2017-04-30 14:00:00,Borja Valero,Pass
+152038,42,MissedShots,0.815,0.30100000381469727,0.07757105678319931,Josip Ilicic,a,1426,DirectFreekick,2016,LeftFoot,3673,Palermo,Fiorentina,2,0,2017-04-30 14:00:00,,Standard
+152039,44,SavedShot,0.8819999694824219,0.425,0.3516574203968048,Khouma Babacar,a,1434,OpenPlay,2016,RightFoot,3673,Palermo,Fiorentina,2,0,2017-04-30 14:00:00,Cristian Tello,Pass
+152040,46,MissedShots,0.8130000305175781,0.6680000305175782,0.03495480865240097,Federico Chiesa,a,1433,OpenPlay,2016,RightFoot,3673,Palermo,Fiorentina,2,0,2017-04-30 14:00:00,Josip Ilicic,Pass
+152041,49,BlockedShot,0.785,0.26399999618530273,0.018191371113061905,Khouma Babacar,a,1434,OpenPlay,2016,RightFoot,3673,Palermo,Fiorentina,2,0,2017-04-30 14:00:00,Matías Vecino,Pass
+152042,49,SavedShot,0.7930000305175782,0.24600000381469728,0.017083849757909775,Cristian Tello,a,1421,OpenPlay,2016,LeftFoot,3673,Palermo,Fiorentina,2,0,2017-04-30 14:00:00,Carlos Salcedo,Pass
+152045,57,MissedShots,0.8080000305175781,0.41200000762939454,0.029486780986189842,Federico Chiesa,a,1433,FromCorner,2016,LeftFoot,3673,Palermo,Fiorentina,2,0,2017-04-30 14:00:00,,None
+152046,61,SavedShot,0.7880000305175782,0.2539999961853027,0.009172344580292702,Federico Chiesa,a,1433,OpenPlay,2016,LeftFoot,3673,Palermo,Fiorentina,2,0,2017-04-30 14:00:00,Cristian Tello,Chipped
+152049,72,MissedShots,0.7319999694824219,0.43099998474121093,0.018351275473833084,Riccardo Saponara,a,1313,OpenPlay,2016,LeftFoot,3673,Palermo,Fiorentina,2,0,2017-04-30 14:00:00,Matías Vecino,Pass
+152050,73,MissedShots,0.94,0.46299999237060546,0.3973928987979889,Jan Mlakar,a,4955,OpenPlay,2016,Head,3673,Palermo,Fiorentina,2,0,2017-04-30 14:00:00,Cristian Tello,Cross
+152051,77,MissedShots,0.8159999847412109,0.295,0.030810333788394928,Federico Chiesa,a,1433,OpenPlay,2016,LeftFoot,3673,Palermo,Fiorentina,2,0,2017-04-30 14:00:00,Matías Vecino,TakeOn
+152052,86,BlockedShot,0.7390000152587891,0.2929999923706055,0.014692953787744045,Matías Vecino,a,1423,OpenPlay,2016,RightFoot,3673,Palermo,Fiorentina,2,0,2017-04-30 14:00:00,Jan Mlakar,Pass

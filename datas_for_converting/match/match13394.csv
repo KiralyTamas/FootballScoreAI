@@ -1,0 +1,28 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+369550,7,SavedShot,0.8269999694824218,0.5509999847412109,0.06974078714847565,Alexis Saelemaekers,h,8297,OpenPlay,2019,LeftFoot,13394,AC Milan,Juventus,4,2,2020-07-07 19:45:00,Lucas Paquetá,Pass
+369554,22,SavedShot,0.86,0.6,0.08817707002162933,Zlatan Ibrahimovic,h,1741,OpenPlay,2019,LeftFoot,13394,AC Milan,Juventus,4,2,2020-07-07 19:45:00,Ante Rebic,Pass
+369555,24,SavedShot,0.875,0.585,0.10040600597858429,Zlatan Ibrahimovic,h,1741,OpenPlay,2019,LeftFoot,13394,AC Milan,Juventus,4,2,2020-07-07 19:45:00,Theo Hernández,Pass
+369564,56,BlockedShot,0.7430000305175781,0.43599998474121093,0.017513709142804146,Hakan Calhanoglu,h,189,OpenPlay,2019,RightFoot,13394,AC Milan,Juventus,4,2,2020-07-07 19:45:00,Ante Rebic,Pass
+369565,58,BlockedShot,0.9380000305175781,0.5359999847412109,0.3331351578235626,Ante Rebic,h,1852,OpenPlay,2019,OtherBodyPart,13394,AC Milan,Juventus,4,2,2020-07-07 19:45:00,Theo Hernández,SubstitutionOn
+369566,61,Goal,0.885,0.5,0.7612988352775574,Zlatan Ibrahimovic,h,1741,Penalty,2019,RightFoot,13394,AC Milan,Juventus,4,2,2020-07-07 19:45:00,,Standard
+369567,65,Goal,0.91,0.53,0.12467053532600403,Franck Kessié,h,1489,OpenPlay,2019,RightFoot,13394,AC Milan,Juventus,4,2,2020-07-07 19:45:00,Zlatan Ibrahimovic,Pass
+369568,66,Goal,0.9059999847412109,0.720999984741211,0.04753978177905083,Rafael Leão,h,7193,OpenPlay,2019,RightFoot,13394,AC Milan,Juventus,4,2,2020-07-07 19:45:00,Ante Rebic,BallTouch
+369569,74,SavedShot,0.9269999694824219,0.74,0.04485747963190079,Ante Rebic,h,1852,OpenPlay,2019,LeftFoot,13394,AC Milan,Juventus,4,2,2020-07-07 19:45:00,Hakan Calhanoglu,Pass
+369570,74,BlockedShot,0.9069999694824219,0.5,0.13166558742523193,Giacomo Bonaventura,h,1121,OpenPlay,2019,RightFoot,13394,AC Milan,Juventus,4,2,2020-07-07 19:45:00,,Dispossessed
+369571,74,BlockedShot,0.8059999847412109,0.345,0.040068380534648895,Rafael Leão,h,7193,OpenPlay,2019,RightFoot,13394,AC Milan,Juventus,4,2,2020-07-07 19:45:00,Theo Hernández,Pass
+369573,79,Goal,0.895,0.5270000076293946,0.43259379267692566,Ante Rebic,h,1852,OpenPlay,2019,LeftFoot,13394,AC Milan,Juventus,4,2,2020-07-07 19:45:00,Giacomo Bonaventura,Pass
+369576,89,SavedShot,0.6630000305175782,0.75,0.023523282259702682,Hakan Calhanoglu,h,189,DirectFreekick,2019,RightFoot,13394,AC Milan,Juventus,4,2,2020-07-07 19:45:00,,Standard
+369551,9,MissedShots,0.965999984741211,0.5459999847412109,0.5364382863044739,Leonardo Bonucci,a,1287,SetPiece,2019,Head,13394,AC Milan,Juventus,4,2,2020-07-07 19:45:00,Federico Bernardeschi,Cross
+369552,12,BlockedShot,0.870999984741211,0.7240000152587891,0.03589160367846489,Cristiano Ronaldo,a,2371,OpenPlay,2019,RightFoot,13394,AC Milan,Juventus,4,2,2020-07-07 19:45:00,Federico Bernardeschi,Pass
+369553,13,MissedShots,0.7669999694824219,0.39799999237060546,0.023034419864416122,Adrien Rabiot,a,3291,OpenPlay,2019,LeftFoot,13394,AC Milan,Juventus,4,2,2020-07-07 19:45:00,Miralem Pjanic,Pass
+369556,31,BlockedShot,0.9359999847412109,0.38299999237060545,0.037362147122621536,Cristiano Ronaldo,a,2371,SetPiece,2019,Head,13394,AC Milan,Juventus,4,2,2020-07-07 19:45:00,Miralem Pjanic,Cross
+369557,31,MissedShots,0.9119999694824219,0.5420000076293945,0.08616860210895538,Leonardo Bonucci,a,1287,SetPiece,2019,RightFoot,13394,AC Milan,Juventus,4,2,2020-07-07 19:45:00,,None
+369558,37,BlockedShot,0.8159999847412109,0.69,0.025164077058434486,Danilo,a,2244,OpenPlay,2019,RightFoot,13394,AC Milan,Juventus,4,2,2020-07-07 19:45:00,Adrien Rabiot,Pass
+369559,37,MissedShots,0.9330000305175781,0.6179999923706054,0.02722410298883915,Cristiano Ronaldo,a,2371,FromCorner,2019,Head,13394,AC Milan,Juventus,4,2,2020-07-07 19:45:00,Miralem Pjanic,Cross
+369560,46,SavedShot,0.855,0.4759999847412109,0.10207708179950714,Gonzalo Higuaín,a,1293,OpenPlay,2019,RightFoot,13394,AC Milan,Juventus,4,2,2020-07-07 19:45:00,Federico Bernardeschi,Pass
+369561,46,Goal,0.7980000305175782,0.505,0.03975967690348625,Adrien Rabiot,a,3291,OpenPlay,2019,LeftFoot,13394,AC Milan,Juventus,4,2,2020-07-07 19:45:00,,TakeOn
+369562,52,Goal,0.855,0.5379999923706055,0.30025625228881836,Cristiano Ronaldo,a,2371,OpenPlay,2019,LeftFoot,13394,AC Milan,Juventus,4,2,2020-07-07 19:45:00,Juan Cuadrado,Chipped
+369563,56,BlockedShot,0.78,0.509000015258789,0.05741705745458603,Gonzalo Higuaín,a,1293,OpenPlay,2019,RightFoot,13394,AC Milan,Juventus,4,2,2020-07-07 19:45:00,Miralem Pjanic,Pass
+369572,77,SavedShot,0.9030000305175782,0.43400001525878906,0.05968773737549782,Daniele Rugani,a,1301,FromCorner,2019,RightFoot,13394,AC Milan,Juventus,4,2,2020-07-07 19:45:00,Federico Bernardeschi,Cross
+369574,85,MissedShots,0.8,0.715,0.020298026502132416,Alex Sandro,a,1289,OpenPlay,2019,LeftFoot,13394,AC Milan,Juventus,4,2,2020-07-07 19:45:00,Rodrigo Bentancur,Pass
+369575,86,MissedShots,0.805,0.5120000076293946,0.056554507464170456,Rodrigo Bentancur,a,6108,OpenPlay,2019,RightFoot,13394,AC Milan,Juventus,4,2,2020-07-07 19:45:00,Danilo,Pass

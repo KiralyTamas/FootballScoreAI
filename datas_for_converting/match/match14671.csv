@@ -1,0 +1,23 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+404411,2,MissedShots,0.9340000152587891,0.42400001525878905,0.02928159572184086,Rodri,h,2496,FromCorner,2020,Head,14671,Manchester City,Tottenham,3,0,2021-02-13 17:30:00,Phil Foden,Aerial
+404412,7,BlockedShot,0.874000015258789,0.42700000762939455,0.10902456194162369,Gabriel Jesus,h,5543,OpenPlay,2020,LeftFoot,14671,Manchester City,Tottenham,3,0,2021-02-13 17:30:00,Ilkay Gündogan,Pass
+404413,7,BlockedShot,0.8640000152587891,0.515,0.08043280243873596,Gabriel Jesus,h,5543,OpenPlay,2020,LeftFoot,14671,Manchester City,Tottenham,3,0,2021-02-13 17:30:00,,Rebound
+404416,18,MissedShots,0.755,0.6780000305175782,0.014913820661604404,Oleksandr Zinchenko,h,2958,OpenPlay,2020,RightFoot,14671,Manchester City,Tottenham,3,0,2021-02-13 17:30:00,Raheem Sterling,Pass
+404417,22,Goal,0.885,0.5,0.7611688375473022,Rodri,h,2496,Penalty,2020,RightFoot,14671,Manchester City,Tottenham,3,0,2021-02-13 17:30:00,,Standard
+404418,30,BlockedShot,0.8230000305175781,0.445,0.08254970610141754,Bernardo Silva,h,3635,OpenPlay,2020,LeftFoot,14671,Manchester City,Tottenham,3,0,2021-02-13 17:30:00,João Cancelo,Pass
+404419,41,BlockedShot,0.9030000305175782,0.43,0.4064611792564392,Ilkay Gündogan,h,314,OpenPlay,2020,RightFoot,14671,Manchester City,Tottenham,3,0,2021-02-13 17:30:00,Raheem Sterling,Pass
+404420,41,ShotOnPost,0.8719999694824219,0.48,0.12351429462432861,Gabriel Jesus,h,5543,OpenPlay,2020,RightFoot,14671,Manchester City,Tottenham,3,0,2021-02-13 17:30:00,João Cancelo,Pass
+404421,45,MissedShots,0.7869999694824219,0.43400001525878906,0.060042526572942734,João Cancelo,h,2379,OpenPlay,2020,LeftFoot,14671,Manchester City,Tottenham,3,0,2021-02-13 17:30:00,Rodri,TakeOn
+404422,49,Goal,0.9209999847412109,0.595,0.13722877204418182,Ilkay Gündogan,h,314,OpenPlay,2020,LeftFoot,14671,Manchester City,Tottenham,3,0,2021-02-13 17:30:00,Raheem Sterling,Pass
+404423,57,BlockedShot,0.9,0.5129999923706055,0.14420627057552338,Ilkay Gündogan,h,314,OpenPlay,2020,LeftFoot,14671,Manchester City,Tottenham,3,0,2021-02-13 17:30:00,Phil Foden,Pass
+404425,65,Goal,0.8780000305175781,0.555,0.3033580780029297,Ilkay Gündogan,h,314,OpenPlay,2020,LeftFoot,14671,Manchester City,Tottenham,3,0,2021-02-13 17:30:00,Ederson,Chipped
+404427,70,SavedShot,0.8919999694824219,0.2670000076293945,0.025347214192152023,Phil Foden,h,6055,FromCorner,2020,LeftFoot,14671,Manchester City,Tottenham,3,0,2021-02-13 17:30:00,,None
+404431,88,SavedShot,0.9230000305175782,0.4490000152587891,0.11448585987091064,Raheem Sterling,h,618,FromCorner,2020,RightFoot,14671,Manchester City,Tottenham,3,0,2021-02-13 17:30:00,Phil Foden,Pass
+404432,89,SavedShot,0.8209999847412109,0.42200000762939455,0.07894012331962585,Bernardo Silva,h,3635,OpenPlay,2020,LeftFoot,14671,Manchester City,Tottenham,3,0,2021-02-13 17:30:00,João Cancelo,Pass
+404414,8,BlockedShot,0.9469999694824218,0.6519999694824219,0.07990524917840958,Tanguy NDombele Alvaro,a,5962,OpenPlay,2020,LeftFoot,14671,Manchester City,Tottenham,3,0,2021-02-13 17:30:00,Eric Dier,TakeOn
+404415,13,ShotOnPost,0.7809999847412109,0.28299999237060547,0.05281941220164299,Harry Kane,a,647,DirectFreekick,2020,RightFoot,14671,Manchester City,Tottenham,3,0,2021-02-13 17:30:00,,Standard
+404424,58,SavedShot,0.875,0.7030000305175781,0.04152018576860428,Tanguy NDombele Alvaro,a,5962,OpenPlay,2020,RightFoot,14671,Manchester City,Tottenham,3,0,2021-02-13 17:30:00,Harry Kane,Pass
+404426,68,SavedShot,0.799000015258789,0.5940000152587891,0.01609600894153118,Harry Kane,a,647,OpenPlay,2020,Head,14671,Manchester City,Tottenham,3,0,2021-02-13 17:30:00,,Interception
+404428,80,BlockedShot,0.685,0.5279999923706055,0.008525385521352291,Gareth Bale,a,2251,OpenPlay,2020,LeftFoot,14671,Manchester City,Tottenham,3,0,2021-02-13 17:30:00,,Aerial
+404429,80,SavedShot,0.845,0.5270000076293946,0.16657868027687073,Gareth Bale,a,2251,OpenPlay,2020,LeftFoot,14671,Manchester City,Tottenham,3,0,2021-02-13 17:30:00,,TakeOn
+404430,81,MissedShots,0.8280000305175781,0.5379999923706055,0.05805462226271629,Ben Davies,a,660,OpenPlay,2020,RightFoot,14671,Manchester City,Tottenham,3,0,2021-02-13 17:30:00,,BallTouch

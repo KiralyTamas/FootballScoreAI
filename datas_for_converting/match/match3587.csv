@@ -1,0 +1,24 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+147218,13,MissedShots,0.754000015258789,0.740999984741211,0.011700927279889584,Bruno Fernandes,h,1228,OpenPlay,2016,RightFoot,3587,Sampdoria,Cagliari,1,1,2017-02-19 14:00:00,,None
+147219,16,MissedShots,0.6840000152587891,0.6370000076293946,0.030013544484972954,Daniel Pavlovic,h,1602,DirectFreekick,2016,LeftFoot,3587,Sampdoria,Cagliari,1,1,2017-02-19 14:00:00,,Standard
+147220,21,BlockedShot,0.905,0.6780000305175782,0.06638253480195999,Luis Muriel,h,1229,OpenPlay,2016,LeftFoot,3587,Sampdoria,Cagliari,1,1,2017-02-19 14:00:00,Bruno Fernandes,TakeOn
+147221,21,Goal,0.9469999694824218,0.445,0.5526992082595825,Fabio Quagliarella,h,1230,OpenPlay,2016,LeftFoot,3587,Sampdoria,Cagliari,1,1,2017-02-19 14:00:00,,Rebound
+147223,36,MissedShots,0.7880000305175782,0.3370000076293945,0.02645222656428814,Edgar Barreto,h,1225,OpenPlay,2016,RightFoot,3587,Sampdoria,Cagliari,1,1,2017-02-19 14:00:00,Bruno Fernandes,Pass
+147226,42,MissedShots,0.965,0.3039999961853027,0.027502158656716347,Fabio Quagliarella,h,1230,OpenPlay,2016,RightFoot,3587,Sampdoria,Cagliari,1,1,2017-02-19 14:00:00,Bruno Fernandes,Cross
+147229,56,MissedShots,0.955,0.5929999923706055,0.07097066938877106,Fabio Quagliarella,h,1230,FromCorner,2016,RightFoot,3587,Sampdoria,Cagliari,1,1,2017-02-19 14:00:00,Daniel Pavlovic,Cross
+147230,63,MissedShots,0.88,0.6509999847412109,0.10486219078302383,Luis Muriel,h,1229,FromCorner,2016,LeftFoot,3587,Sampdoria,Cagliari,1,1,2017-02-19 14:00:00,Filip Djuricic,Throughball
+147231,68,BlockedShot,0.8219999694824218,0.4759999847412109,0.05356713384389877,Filip Djuricic,h,1233,OpenPlay,2016,RightFoot,3587,Sampdoria,Cagliari,1,1,2017-02-19 14:00:00,Luis Muriel,Pass
+147232,73,MissedShots,0.875999984741211,0.85,0.04648132249712944,Lucas Torreira,h,1227,DirectFreekick,2016,RightFoot,3587,Sampdoria,Cagliari,1,1,2017-02-19 14:00:00,,Standard
+147235,85,SavedShot,0.779000015258789,0.34200000762939453,0.02196519821882248,Fabio Quagliarella,h,1230,OpenPlay,2016,RightFoot,3587,Sampdoria,Cagliari,1,1,2017-02-19 14:00:00,Filip Djuricic,Pass
+147236,85,ShotOnPost,0.955999984741211,0.445,0.1490332931280136,Lucas Torreira,h,1227,OpenPlay,2016,RightFoot,3587,Sampdoria,Cagliari,1,1,2017-02-19 14:00:00,Filip Djuricic,Pass
+147237,85,MissedShots,0.7619999694824219,0.3189999961853027,0.01354630570858717,Fabio Quagliarella,h,1230,OpenPlay,2016,RightFoot,3587,Sampdoria,Cagliari,1,1,2017-02-19 14:00:00,,Rebound
+147217,5,Goal,0.8959999847412109,0.4209999847412109,0.08746165037155151,Mauricio Isla,a,1402,OpenPlay,2016,RightFoot,3587,Sampdoria,Cagliari,1,1,2017-02-19 14:00:00,Artur Ionita,HeadPass
+147222,26,SavedShot,0.9309999847412109,0.5609999847412109,0.3272473216056824,Marco Sau,a,1406,FromCorner,2016,RightFoot,3587,Sampdoria,Cagliari,1,1,2017-02-19 14:00:00,Fabio Pisacane,BallTouch
+147224,40,BlockedShot,0.8319999694824218,0.5,0.07332199066877365,Daniele Dessena,a,1412,OpenPlay,2016,RightFoot,3587,Sampdoria,Cagliari,1,1,2017-02-19 14:00:00,Marco Sau,Pass
+147225,42,MissedShots,0.8530000305175781,0.38799999237060545,0.07708756625652313,Marco Sau,a,1406,OpenPlay,2016,RightFoot,3587,Sampdoria,Cagliari,1,1,2017-02-19 14:00:00,Mauricio Isla,Pass
+147227,51,SavedShot,0.840999984741211,0.4779999923706055,0.1229800283908844,Marco Sau,a,1406,OpenPlay,2016,RightFoot,3587,Sampdoria,Cagliari,1,1,2017-02-19 14:00:00,João Pedro,Throughball
+147228,52,MissedShots,0.8119999694824219,0.25799999237060545,0.019609401002526283,João Pedro,a,1592,OpenPlay,2016,RightFoot,3587,Sampdoria,Cagliari,1,1,2017-02-19 14:00:00,Daniele Dessena,Pass
+147233,78,SavedShot,0.870999984741211,0.37099998474121093,0.06068393588066101,Marco Sau,a,1406,OpenPlay,2016,RightFoot,3587,Sampdoria,Cagliari,1,1,2017-02-19 14:00:00,Daniele Dessena,Chipped
+147234,83,MissedShots,0.9330000305175781,0.6990000152587891,0.02137245610356331,Davide Di Gennaro,a,1404,OpenPlay,2016,LeftFoot,3587,Sampdoria,Cagliari,1,1,2017-02-19 14:00:00,Daniele Dessena,Cross
+147238,86,BlockedShot,0.7830000305175782,0.5429999923706055,0.03670992702245712,Artur Ionita,a,1604,OpenPlay,2016,RightFoot,3587,Sampdoria,Cagliari,1,1,2017-02-19 14:00:00,,Foul
+147239,87,BlockedShot,0.9119999694824219,0.305,0.025004634633660316,Marco Borriello,a,1405,OpenPlay,2016,RightFoot,3587,Sampdoria,Cagliari,1,1,2017-02-19 14:00:00,Davide Di Gennaro,Cross

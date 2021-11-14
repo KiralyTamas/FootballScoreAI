@@ -1,0 +1,23 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+367792,21,BlockedShot,0.7769999694824219,0.705999984741211,0.015557627193629742,Andrea Pinamonti,h,4895,OpenPlay,2019,RightFoot,13372,Genoa,Juventus,1,3,2020-06-30 19:45:00,Andrea Favilli,HeadPass
+367795,41,BlockedShot,0.774000015258789,0.7269999694824218,0.01623903028666973,Francesco Cassata,h,1998,FromCorner,2019,RightFoot,13372,Genoa,Juventus,1,3,2020-06-30 19:45:00,Andrea Pinamonti,BallTouch
+367801,75,SavedShot,0.7769999694824219,0.655,0.026393763720989227,Antonio Sanabria,h,2217,OpenPlay,2019,RightFoot,13372,Genoa,Juventus,1,3,2020-06-30 19:45:00,Francesco Cassata,TakeOn
+367802,75,Goal,0.9640000152587891,0.649000015258789,0.14157983660697937,Andrea Pinamonti,h,4895,OpenPlay,2019,LeftFoot,13372,Genoa,Juventus,1,3,2020-06-30 19:45:00,Davide Biraschi,TakeOn
+367784,4,BlockedShot,0.8109999847412109,0.5159999847412109,0.04925728216767311,Paulo Dybala,a,1294,OpenPlay,2019,LeftFoot,13372,Genoa,Juventus,1,3,2020-06-30 19:45:00,,None
+367785,10,BlockedShot,0.83,0.3679999923706055,0.044581133872270584,Paulo Dybala,a,1294,OpenPlay,2019,LeftFoot,13372,Genoa,Juventus,1,3,2020-06-30 19:45:00,,None
+367786,11,SavedShot,0.755,0.34900001525878904,0.02249934710562229,Federico Bernardeschi,a,1424,OpenPlay,2019,LeftFoot,13372,Genoa,Juventus,1,3,2020-06-30 19:45:00,Rodrigo Bentancur,Pass
+367787,12,BlockedShot,0.7440000152587891,0.37,0.021858016029000282,Cristiano Ronaldo,a,2371,OpenPlay,2019,RightFoot,13372,Genoa,Juventus,1,3,2020-06-30 19:45:00,Miralem Pjanic,Pass
+367788,12,SavedShot,0.7330000305175781,0.545,0.017797911539673805,Cristiano Ronaldo,a,2371,OpenPlay,2019,RightFoot,13372,Genoa,Juventus,1,3,2020-06-30 19:45:00,,BallRecovery
+367789,13,MissedShots,0.82,0.7230000305175781,0.026277586817741394,Federico Bernardeschi,a,1424,FromCorner,2019,LeftFoot,13372,Genoa,Juventus,1,3,2020-06-30 19:45:00,Miralem Pjanic,Cross
+367790,15,SavedShot,0.7869999694824219,0.73,0.015140919014811516,Cristiano Ronaldo,a,2371,OpenPlay,2019,RightFoot,13372,Genoa,Juventus,1,3,2020-06-30 19:45:00,Paulo Dybala,Pass
+367791,17,BlockedShot,0.9340000152587891,0.3340000152587891,0.06282529979944229,Federico Bernardeschi,a,1424,OpenPlay,2019,RightFoot,13372,Genoa,Juventus,1,3,2020-06-30 19:45:00,,None
+367793,23,BlockedShot,0.7559999847412109,0.3609999847412109,0.015991289168596268,Cristiano Ronaldo,a,2371,OpenPlay,2019,LeftFoot,13372,Genoa,Juventus,1,3,2020-06-30 19:45:00,Paulo Dybala,Pass
+367794,34,SavedShot,0.9440000152587891,0.5479999923706055,0.14005598425865173,Adrien Rabiot,a,3291,OpenPlay,2019,Head,13372,Genoa,Juventus,1,3,2020-06-30 19:45:00,Juan Cuadrado,Cross
+367796,42,SavedShot,0.9459999847412109,0.26299999237060545,0.03540119528770447,Cristiano Ronaldo,a,2371,OpenPlay,2019,RightFoot,13372,Genoa,Juventus,1,3,2020-06-30 19:45:00,Paulo Dybala,TakeOn
+367797,49,Goal,0.8630000305175781,0.32799999237060545,0.060218650847673416,Paulo Dybala,a,1294,OpenPlay,2019,LeftFoot,13372,Genoa,Juventus,1,3,2020-06-30 19:45:00,Juan Cuadrado,TakeOn
+367798,53,MissedShots,0.895,0.45,0.10081250965595245,Federico Bernardeschi,a,1424,OpenPlay,2019,Head,13372,Genoa,Juventus,1,3,2020-06-30 19:45:00,Juan Cuadrado,Cross
+367799,55,Goal,0.725,0.5179999923706055,0.02573174051940441,Cristiano Ronaldo,a,2371,OpenPlay,2019,RightFoot,13372,Genoa,Juventus,1,3,2020-06-30 19:45:00,Miralem Pjanic,Pass
+367800,72,Goal,0.8109999847412109,0.28299999237060547,0.023515036329627037,Douglas Costa,a,393,OpenPlay,2019,LeftFoot,13372,Genoa,Juventus,1,3,2020-06-30 19:45:00,Paulo Dybala,Pass
+367803,80,BlockedShot,0.774000015258789,0.28299999237060547,0.05006376653909683,Paulo Dybala,a,1294,DirectFreekick,2019,LeftFoot,13372,Genoa,Juventus,1,3,2020-06-30 19:45:00,,Standard
+367804,87,BlockedShot,0.9119999694824219,0.6,0.03828936815261841,Blaise Matuidi,a,3296,FromCorner,2019,OtherBodyPart,13372,Genoa,Juventus,1,3,2020-06-30 19:45:00,Douglas Costa,Aerial
+367805,88,SavedShot,0.799000015258789,0.635,0.04364069551229477,Gonzalo Higuaín,a,1293,OpenPlay,2019,LeftFoot,13372,Genoa,Juventus,1,3,2020-06-30 19:45:00,Rodrigo Bentancur,Pass

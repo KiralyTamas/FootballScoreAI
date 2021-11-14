@@ -1,0 +1,22 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+94345,26,BlockedShot,0.9069999694824219,0.6780000305175782,0.06555553525686264,Antonio Di Gaudio,h,1905,OpenPlay,2015,RightFoot,748,Carpi,Sampdoria,2,1,2016-01-17 18:00:00,Gaetano Letizia,Pass
+94346,26,Goal,0.8859999847412109,0.4229999923706055,0.0879804715514183,Lorenzo Lollo,h,1973,OpenPlay,2015,RightFoot,748,Carpi,Sampdoria,2,1,2016-01-17 18:00:00,,Rebound
+94349,35,SavedShot,0.7230000305175781,0.5629999923706055,0.013372833840548992,Isaac Cofie,h,1112,OpenPlay,2015,RightFoot,748,Carpi,Sampdoria,2,1,2016-01-17 18:00:00,,None
+94351,37,BlockedShot,0.8530000305175781,0.7340000152587891,0.0300876647233963,Antonio Di Gaudio,h,1905,OpenPlay,2015,RightFoot,748,Carpi,Sampdoria,2,1,2016-01-17 18:00:00,Gaetano Letizia,Chipped
+94353,54,Goal,0.885,0.5,0.7612988352775574,Jerry Mbakogu,h,1907,Penalty,2015,RightFoot,748,Carpi,Sampdoria,2,1,2016-01-17 18:00:00,,Standard
+94354,58,BlockedShot,0.8919999694824219,0.4179999923706055,0.16993272304534912,Lorenzo Lollo,h,1973,OpenPlay,2015,RightFoot,748,Carpi,Sampdoria,2,1,2016-01-17 18:00:00,Jerry Mbakogu,TakeOn
+94355,58,SavedShot,0.86,0.40799999237060547,0.07907173037528992,Jerry Mbakogu,h,1907,OpenPlay,2015,RightFoot,748,Carpi,Sampdoria,2,1,2016-01-17 18:00:00,Gaetano Letizia,Chipped
+94357,62,SavedShot,0.879000015258789,0.345,0.07748645544052124,Kevin Lasagna,h,1903,OpenPlay,2015,RightFoot,748,Carpi,Sampdoria,2,1,2016-01-17 18:00:00,Cristian Zaccardo,TakeOn
+94362,79,MissedShots,0.85,0.6619999694824219,0.060181163251399994,Kevin Lasagna,h,1903,OpenPlay,2015,LeftFoot,748,Carpi,Sampdoria,2,1,2016-01-17 18:00:00,Matteo Mancosu,Pass
+94343,23,SavedShot,0.9369999694824219,0.509000015258789,0.6985054016113281,Antonio Cassano,a,1939,OpenPlay,2015,RightFoot,748,Carpi,Sampdoria,2,1,2016-01-17 18:00:00,Roberto Soriano,Pass
+94344,24,SavedShot,0.9130000305175782,0.5979999923706054,0.47595661878585815,Fernando,a,1937,OpenPlay,2015,LeftFoot,748,Carpi,Sampdoria,2,1,2016-01-17 18:00:00,Joaquín Correa,Pass
+94347,31,BlockedShot,0.785,0.515,0.02988923154771328,Joaquín Correa,a,1809,SetPiece,2015,RightFoot,748,Carpi,Sampdoria,2,1,2016-01-17 18:00:00,Antonio Cassano,Pass
+94348,32,Goal,0.9019999694824219,0.6509999847412109,0.3302763104438782,Joaquín Correa,a,1809,OpenPlay,2015,RightFoot,748,Carpi,Sampdoria,2,1,2016-01-17 18:00:00,Roberto Soriano,Throughball
+94350,36,ShotOnPost,0.8130000305175781,0.43400001525878906,0.047151658684015274,Antonio Cassano,a,1939,OpenPlay,2015,RightFoot,748,Carpi,Sampdoria,2,1,2016-01-17 18:00:00,,None
+94352,47,MissedShots,0.6909999847412109,0.6909999847412109,0.011981365270912647,Ervin Zukanovic,a,1497,OpenPlay,2015,LeftFoot,748,Carpi,Sampdoria,2,1,2016-01-17 18:00:00,Fernando,Pass
+94356,61,ShotOnPost,0.7069999694824218,0.475,0.04064611718058586,Fernando,a,1937,DirectFreekick,2015,RightFoot,748,Carpi,Sampdoria,2,1,2016-01-17 18:00:00,,Standard
+94358,64,BlockedShot,0.8069999694824219,0.590999984741211,0.03556765243411064,Joaquín Correa,a,1809,OpenPlay,2015,RightFoot,748,Carpi,Sampdoria,2,1,2016-01-17 18:00:00,Luis Muriel,Pass
+94359,70,SavedShot,0.91,0.515,0.4114409387111664,Luis Muriel,a,1229,OpenPlay,2015,LeftFoot,748,Carpi,Sampdoria,2,1,2016-01-17 18:00:00,Roberto Soriano,Rebound
+94360,70,BlockedShot,0.9030000305175782,0.51,0.08605737239122391,Luis Muriel,a,1229,OpenPlay,2015,RightFoot,748,Carpi,Sampdoria,2,1,2016-01-17 18:00:00,,None
+94361,75,MissedShots,0.8690000152587891,0.500999984741211,0.09468142688274384,Roberto Soriano,a,1810,OpenPlay,2015,LeftFoot,748,Carpi,Sampdoria,2,1,2016-01-17 18:00:00,Joaquín Correa,Pass
+94363,87,MissedShots,0.92,0.5790000152587891,0.05790458992123604,Vasco Regini,a,1224,FromCorner,2015,Head,748,Carpi,Sampdoria,2,1,2016-01-17 18:00:00,Fernando,Cross

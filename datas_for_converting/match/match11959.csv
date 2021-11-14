@@ -1,0 +1,27 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+368402,9,BlockedShot,0.8590000152587891,0.3509999847412109,0.08043954521417618,Kevin De Bruyne,h,447,OpenPlay,2019,RightFoot,11959,Manchester City,Liverpool,4,0,2020-07-02 19:15:00,,TakeOn
+368405,24,Goal,0.885,0.5,0.7611688375473022,Kevin De Bruyne,h,447,Penalty,2019,RightFoot,11959,Manchester City,Liverpool,4,0,2020-07-02 19:15:00,,Standard
+368406,28,MissedShots,0.97,0.33599998474121096,0.09911486506462097,Gabriel Jesus,h,5543,OpenPlay,2019,RightFoot,11959,Manchester City,Liverpool,4,0,2020-07-02 19:15:00,Kevin De Bruyne,TakeOn
+368407,34,Goal,0.905,0.5540000152587891,0.15863530337810516,Raheem Sterling,h,618,OpenPlay,2019,RightFoot,11959,Manchester City,Liverpool,4,0,2020-07-02 19:15:00,Phil Foden,Pass
+368408,44,Goal,0.8680000305175781,0.455,0.3711841106414795,Phil Foden,h,6055,OpenPlay,2019,RightFoot,11959,Manchester City,Liverpool,4,0,2020-07-02 19:15:00,Kevin De Bruyne,Pass
+368409,48,SavedShot,0.8109999847412109,0.5259999847412109,0.05370263010263443,Gabriel Jesus,h,5543,OpenPlay,2019,RightFoot,11959,Manchester City,Liverpool,4,0,2020-07-02 19:15:00,,None
+368410,49,BlockedShot,0.8119999694824219,0.57,0.1538236141204834,Raheem Sterling,h,618,OpenPlay,2019,LeftFoot,11959,Manchester City,Liverpool,4,0,2020-07-02 19:15:00,Phil Foden,TakeOn
+368411,50,BlockedShot,0.8680000305175781,0.4179999923706055,0.12273917347192764,Phil Foden,h,6055,OpenPlay,2019,RightFoot,11959,Manchester City,Liverpool,4,0,2020-07-02 19:15:00,Kevin De Bruyne,Pass
+368412,54,SavedShot,0.784000015258789,0.5159999847412109,0.060713332146406174,Phil Foden,h,6055,OpenPlay,2019,LeftFoot,11959,Manchester City,Liverpool,4,0,2020-07-02 19:15:00,Rodri,TakeOn
+368416,60,MissedShots,0.78,0.629000015258789,0.026140546426177025,Kevin De Bruyne,h,447,OpenPlay,2019,RightFoot,11959,Manchester City,Liverpool,4,0,2020-07-02 19:15:00,Riyad Mahrez,Pass
+368418,65,MissedShots,0.8969999694824219,0.41900001525878905,0.343929260969162,Raheem Sterling,h,618,OpenPlay,2019,LeftFoot,11959,Manchester City,Liverpool,4,0,2020-07-02 19:15:00,Kevin De Bruyne,Pass
+368420,68,MissedShots,0.9059999847412109,0.5659999847412109,0.06520220637321472,Phil Foden,h,6055,OpenPlay,2019,Head,11959,Manchester City,Liverpool,4,0,2020-07-02 19:15:00,Benjamin Mendy,Cross
+368423,80,MissedShots,0.8390000152587891,0.4640000152587891,0.13962291181087494,Riyad Mahrez,h,750,OpenPlay,2019,RightFoot,11959,Manchester City,Liverpool,4,0,2020-07-02 19:15:00,Kevin De Bruyne,TakeOn
+368424,81,MissedShots,0.8440000152587891,0.5520000076293945,0.21791064739227295,Kevin De Bruyne,h,447,OpenPlay,2019,Head,11959,Manchester City,Liverpool,4,0,2020-07-02 19:15:00,Riyad Mahrez,Chipped
+368400,3,SavedShot,0.7809999847412109,0.5670000076293945,0.03869985416531563,Mohamed Salah,a,1250,OpenPlay,2019,LeftFoot,11959,Manchester City,Liverpool,4,0,2020-07-02 19:15:00,Virgil van Dijk,Chipped
+368401,3,SavedShot,0.9030000305175782,0.35900001525878905,0.06405752152204514,Roberto Firmino,a,482,OpenPlay,2019,RightFoot,11959,Manchester City,Liverpool,4,0,2020-07-02 19:15:00,,Rebound
+368403,10,MissedShots,0.91,0.5459999847412109,0.1114460751414299,Sadio Mané,a,838,OpenPlay,2019,Head,11959,Manchester City,Liverpool,4,0,2020-07-02 19:15:00,Trent Alexander-Arnold,Cross
+368404,18,ShotOnPost,0.8380000305175781,0.47299999237060547,0.08480673283338547,Mohamed Salah,a,1250,OpenPlay,2019,LeftFoot,11959,Manchester City,Liverpool,4,0,2020-07-02 19:15:00,Roberto Firmino,Pass
+368413,56,BlockedShot,0.82,0.4329999923706055,0.1580093950033188,Trent Alexander-Arnold,a,1791,DirectFreekick,2019,RightFoot,11959,Manchester City,Liverpool,4,0,2020-07-02 19:15:00,,Standard
+368414,60,BlockedShot,0.8630000305175781,0.49,0.10448367893695831,Roberto Firmino,a,482,OpenPlay,2019,LeftFoot,11959,Manchester City,Liverpool,4,0,2020-07-02 19:15:00,Sadio Mané,Pass
+368415,60,BlockedShot,0.8690000152587891,0.29700000762939455,0.03770231828093529,Alex Oxlade-Chamberlain,a,966,OpenPlay,2019,RightFoot,11959,Manchester City,Liverpool,4,0,2020-07-02 19:15:00,Mohamed Salah,Pass
+368417,64,BlockedShot,0.9280000305175782,0.6780000305175782,0.07492136210203171,Divock Origi,a,484,OpenPlay,2019,RightFoot,11959,Manchester City,Liverpool,4,0,2020-07-02 19:15:00,Mohamed Salah,Pass
+368419,65,OwnGoal,0.03299999952316284,0.46700000762939453,0,Alex Oxlade-Chamberlain,a,966,OpenPlay,2019,RightFoot,11959,Manchester City,Liverpool,4,0,2020-07-02 19:15:00,,BallTouch
+368421,73,BlockedShot,0.8769999694824219,0.6959999847412109,0.05813699960708618,Sadio Mané,a,838,OpenPlay,2019,RightFoot,11959,Manchester City,Liverpool,4,0,2020-07-02 19:15:00,Divock Origi,Pass
+368422,75,SavedShot,0.895,0.30200000762939455,0.020620614290237427,Mohamed Salah,a,1250,OpenPlay,2019,LeftFoot,11959,Manchester City,Liverpool,4,0,2020-07-02 19:15:00,Neco Williams,Cross
+368425,89,BlockedShot,0.8480000305175781,0.529000015258789,0.06920028477907181,Mohamed Salah,a,1250,OpenPlay,2019,LeftFoot,11959,Manchester City,Liverpool,4,0,2020-07-02 19:15:00,Divock Origi,BallTouch

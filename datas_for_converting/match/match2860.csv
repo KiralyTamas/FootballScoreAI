@@ -1,0 +1,23 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+106559,4,MissedShots,0.7619999694824219,0.38,0.022722745314240456,Nicolas Pepe,h,5656,OpenPlay,2016,LeftFoot,2860,Angers,Saint-Etienne,1,2,2016-11-27 18:00:00,Famara Diedhiou,Pass
+106560,11,SavedShot,0.885,0.5,0.7600951194763184,Famara Diedhiou,h,5730,Penalty,2016,RightFoot,2860,Angers,Saint-Etienne,1,2,2016-11-27 18:00:00,,Standard
+106562,17,Goal,0.9259999847412109,0.29399999618530276,0.4497041404247284,Nicolas Pepe,h,5656,OpenPlay,2016,RightFoot,2860,Angers,Saint-Etienne,1,2,2016-11-27 18:00:00,Pierrick Capelle,TakeOn
+106564,25,BlockedShot,0.8090000152587891,0.7119999694824218,0.031683504581451416,Pierrick Capelle,h,3495,OpenPlay,2016,LeftFoot,2860,Angers,Saint-Etienne,1,2,2016-11-27 18:00:00,Jamel Saihi,Pass
+106566,40,SavedShot,0.87,0.435,0.09652271121740341,Famara Diedhiou,h,5730,OpenPlay,2016,LeftFoot,2860,Angers,Saint-Etienne,1,2,2016-11-27 18:00:00,,None
+106568,45,SavedShot,0.7759999847412109,0.41200000762939454,0.03555426001548767,Nicolas Pepe,h,5656,OpenPlay,2016,LeftFoot,2860,Angers,Saint-Etienne,1,2,2016-11-27 18:00:00,Thomas Mangani,Pass
+106567,46,BlockedShot,0.8030000305175782,0.6120000076293945,0.10813573002815247,Yoann Andreu,h,3489,DirectFreekick,2016,RightFoot,2860,Angers,Saint-Etienne,1,2,2016-11-27 18:00:00,,Standard
+106569,53,SavedShot,0.9030000305175782,0.5459999847412109,0.2313171923160553,Mateo Pavlovic,h,5731,FromCorner,2016,RightFoot,2860,Angers,Saint-Etienne,1,2,2016-11-27 18:00:00,Thomas Mangani,Cross
+106574,78,SavedShot,0.8419999694824218,0.515,0.027366263791918755,Nicolas Pepe,h,5656,OpenPlay,2016,Head,2860,Angers,Saint-Etienne,1,2,2016-11-27 18:00:00,Thomas Mangani,Chipped
+106575,87,MissedShots,0.895,0.5940000152587891,0.07971298694610596,Pablo Martinez,h,3373,SetPiece,2016,LeftFoot,2860,Angers,Saint-Etienne,1,2,2016-11-27 18:00:00,Pierrick Capelle,BallTouch
+106576,88,BlockedShot,0.67,0.4420000076293945,0.0121036721393466,Ismael Traoré,h,3487,OpenPlay,2016,RightFoot,2860,Angers,Saint-Etienne,1,2,2016-11-27 18:00:00,Mateo Pavlovic,Pass
+106577,88,BlockedShot,0.7269999694824218,0.5270000076293946,0.018097225576639175,Baptiste Santamaria,h,5654,OpenPlay,2016,RightFoot,2860,Angers,Saint-Etienne,1,2,2016-11-27 18:00:00,,Rebound
+106579,92,MissedShots,0.8419999694824218,0.6759999847412109,0.037268392741680145,Karl Toko Ekambi,h,5657,OpenPlay,2016,LeftFoot,2860,Angers,Saint-Etienne,1,2,2016-11-27 18:00:00,,BallRecovery
+106580,95,MissedShots,0.9459999847412109,0.3320000076293945,0.05487383157014847,Ismael Traoré,h,3487,OpenPlay,2016,RightFoot,2860,Angers,Saint-Etienne,1,2,2016-11-27 18:00:00,,BallTouch
+106561,14,SavedShot,0.904000015258789,0.23600000381469727,0.03399822860956192,Nolan Roux,a,3512,OpenPlay,2016,RightFoot,2860,Angers,Saint-Etienne,1,2,2016-11-27 18:00:00,Oussama Tannane,Chipped
+106563,20,MissedShots,0.94,0.5840000152587891,0.11123338341712952,Florentin Pogba,a,3505,SetPiece,2016,Head,2860,Angers,Saint-Etienne,1,2,2016-11-27 18:00:00,Henri Saivet,Cross
+106565,38,SavedShot,0.7730000305175782,0.6079999923706054,0.023723002523183823,Arnaud Nordin,a,5684,OpenPlay,2016,RightFoot,2860,Angers,Saint-Etienne,1,2,2016-11-27 18:00:00,,None
+106570,58,BlockedShot,0.8969999694824219,0.3320000076293945,0.037285998463630676,Bryan Dabo,a,3340,FromCorner,2016,RightFoot,2860,Angers,Saint-Etienne,1,2,2016-11-27 18:00:00,Oussama Tannane,Cross
+106571,58,Goal,0.965999984741211,0.5459999847412109,0.47952911257743835,Florentin Pogba,a,3505,FromCorner,2016,LeftFoot,2860,Angers,Saint-Etienne,1,2,2016-11-27 18:00:00,Henri Saivet,Cross
+106572,68,MissedShots,0.9359999847412109,0.5220000076293946,0.06648804247379303,Henri Saivet,a,778,FromCorner,2016,Head,2860,Angers,Saint-Etienne,1,2,2016-11-27 18:00:00,Oussama Tannane,Aerial
+106573,77,Goal,0.8880000305175781,0.3509999847412109,0.10058107227087021,Oussama Tannane,a,3510,OpenPlay,2016,RightFoot,2860,Angers,Saint-Etienne,1,2,2016-11-27 18:00:00,Kevin Malcuit,TakeOn
+106578,89,SavedShot,0.8690000152587891,0.36700000762939455,0.31337305903434753,Nolan Roux,a,3512,OpenPlay,2016,RightFoot,2860,Angers,Saint-Etienne,1,2,2016-11-27 18:00:00,Ole Selnaes,Pass

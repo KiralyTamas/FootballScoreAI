@@ -1,0 +1,37 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+12169,5,MissedShots,0.9490000152587891,0.565,0.10681434720754623,Damien Le Tallec,h,3118,FromCorner,2014,Head,6458,Mordovya,Torpedo Moscow,1,0,2014-08-30 11:00:00,,Cross
+12171,15,BlockedShot,0.8719999694824219,0.46299999237060546,0.11510296165943146,Evgeni Lutsenko,h,3035,OpenPlay,2014,LeftFoot,6458,Mordovya,Torpedo Moscow,1,0,2014-08-30 11:00:00,Oleg Vlasov,Pass
+12173,20,Goal,0.935,0.500999984741211,0.44186294078826904,Evgeni Lutsenko,h,3035,OpenPlay,2014,Head,6458,Mordovya,Torpedo Moscow,1,0,2014-08-30 11:00:00,Oleg Vlasov,Cross
+12175,24,MissedShots,0.935,0.59,0.11182208359241486,Mitchell Donald,h,3193,OpenPlay,2014,RightFoot,6458,Mordovya,Torpedo Moscow,1,0,2014-08-30 11:00:00,Igor Shitov,Cross
+12180,35,SavedShot,0.909000015258789,0.4379999923706055,0.05222692713141441,Evgeni Lutsenko,h,3035,FromCorner,2014,Head,6458,Mordovya,Torpedo Moscow,1,0,2014-08-30 11:00:00,,Cross
+12181,37,MissedShots,0.9230000305175782,0.515,0.14215104281902313,Oleg Vlasov,h,3038,OpenPlay,2014,RightFoot,6458,Mordovya,Torpedo Moscow,1,0,2014-08-30 11:00:00,Evgeni Lutsenko,Cross
+12182,45,SavedShot,0.7559999847412109,0.4929999923706055,0.03117915615439415,Damien Le Tallec,h,3118,OpenPlay,2014,RightFoot,6458,Mordovya,Torpedo Moscow,1,0,2014-08-30 11:00:00,,BallRecovery
+12183,47,MissedShots,0.8780000305175781,0.32,0.07623041421175003,Evgeni Lutsenko,h,3035,OpenPlay,2014,RightFoot,6458,Mordovya,Torpedo Moscow,1,0,2014-08-30 11:00:00,Oleg Vlasov,Pass
+12196,76,MissedShots,0.95,0.3970000076293945,0.04447130113840103,Milan Perendija,h,3049,FromCorner,2014,Head,6458,Mordovya,Torpedo Moscow,1,0,2014-08-30 11:00:00,Anton Bober,Cross
+12165,1,SavedShot,0.8390000152587891,0.6619999694824219,0.040718358010053635,Reziuan Mirzov,a,2869,OpenPlay,2014,RightFoot,6458,Mordovya,Torpedo Moscow,1,0,2014-08-30 11:00:00,Adam Kokoszka,Pass
+12166,1,MissedShots,0.9030000305175782,0.624000015258789,0.048893701285123825,Dalibor Stevanovic,a,3033,FromCorner,2014,LeftFoot,6458,Mordovya,Torpedo Moscow,1,0,2014-08-30 11:00:00,Reziuan Mirzov,Pass
+12167,2,SavedShot,0.9430000305175781,0.6809999847412109,0.27870994806289673,Reziuan Mirzov,a,2869,OpenPlay,2014,RightFoot,6458,Mordovya,Torpedo Moscow,1,0,2014-08-30 11:00:00,Semen Fomin,HeadPass
+12168,3,SavedShot,0.9180000305175782,0.49900001525878906,0.09247932583093643,Dalibor Stevanovic,a,3033,FromCorner,2014,Head,6458,Mordovya,Torpedo Moscow,1,0,2014-08-30 11:00:00,Igor Shevchenko,Cross
+12170,7,SavedShot,0.919000015258789,0.37599998474121094,0.10392160713672638,Igor Shevchenko,a,4552,OpenPlay,2014,RightFoot,6458,Mordovya,Torpedo Moscow,1,0,2014-08-30 11:00:00,Reziuan Mirzov,Pass
+12172,16,SavedShot,0.7390000152587891,0.5690000152587891,0.016316547989845276,Semen Fomin,a,3116,OpenPlay,2014,RightFoot,6458,Mordovya,Torpedo Moscow,1,0,2014-08-30 11:00:00,,None
+12174,22,MissedShots,0.8269999694824218,0.49400001525878906,0.05059822276234627,Semen Fomin,a,3116,OpenPlay,2014,RightFoot,6458,Mordovya,Torpedo Moscow,1,0,2014-08-30 11:00:00,,None
+12176,28,MissedShots,0.9269999694824219,0.5659999847412109,0.10390188544988632,Vladimir Rykov,a,3053,SetPiece,2014,Head,6458,Mordovya,Torpedo Moscow,1,0,2014-08-30 11:00:00,Igor Shevchenko,Cross
+12177,31,MissedShots,0.7219999694824218,0.7069999694824218,0.011966346763074398,Adam Kokoszka,a,4623,OpenPlay,2014,RightFoot,6458,Mordovya,Torpedo Moscow,1,0,2014-08-30 11:00:00,,BallRecovery
+12178,32,BlockedShot,0.7480000305175781,0.47400001525878904,0.01970503479242325,Adam Kokoszka,a,4623,SetPiece,2014,RightFoot,6458,Mordovya,Torpedo Moscow,1,0,2014-08-30 11:00:00,Aleksandr Salugin,Pass
+12179,32,SavedShot,0.919000015258789,0.48700000762939455,0.5290278792381287,Vladimir Rykov,a,3053,SetPiece,2014,RightFoot,6458,Mordovya,Torpedo Moscow,1,0,2014-08-30 11:00:00,,Rebound
+12184,48,BlockedShot,0.885,0.7190000152587891,0.04434913024306297,Reziuan Mirzov,a,2869,OpenPlay,2014,LeftFoot,6458,Mordovya,Torpedo Moscow,1,0,2014-08-30 11:00:00,Igor Shevchenko,Pass
+12185,48,MissedShots,0.875999984741211,0.5720000076293945,0.07027633488178253,Semen Fomin,a,3116,OpenPlay,2014,LeftFoot,6458,Mordovya,Torpedo Moscow,1,0,2014-08-30 11:00:00,Aleksandr Salugin,BallTouch
+12186,52,MissedShots,0.8109999847412109,0.45,0.03970755636692047,Egor Tarakanov,a,4546,OpenPlay,2014,LeftFoot,6458,Mordovya,Torpedo Moscow,1,0,2014-08-30 11:00:00,Semen Fomin,Chipped
+12187,59,BlockedShot,0.889000015258789,0.5029999923706054,0.08525010943412781,Dalibor Stevanovic,a,3033,SetPiece,2014,RightFoot,6458,Mordovya,Torpedo Moscow,1,0,2014-08-30 11:00:00,,None
+12188,59,SavedShot,0.89,0.40700000762939453,0.0739186555147171,Semen Fomin,a,3116,SetPiece,2014,RightFoot,6458,Mordovya,Torpedo Moscow,1,0,2014-08-30 11:00:00,,None
+12189,59,BlockedShot,0.899000015258789,0.42700000762939455,0.10232757031917572,Semen Fomin,a,3116,SetPiece,2014,LeftFoot,6458,Mordovya,Torpedo Moscow,1,0,2014-08-30 11:00:00,,Rebound
+12190,59,MissedShots,0.899000015258789,0.4929999923706055,0.12234340608119965,Ivan Novoseltsev,a,2768,SetPiece,2014,RightFoot,6458,Mordovya,Torpedo Moscow,1,0,2014-08-30 11:00:00,,Rebound
+12191,59,MissedShots,0.870999984741211,0.5770000076293945,0.07639682292938232,Aleksandr Salugin,a,2846,SetPiece,2014,RightFoot,6458,Mordovya,Torpedo Moscow,1,0,2014-08-30 11:00:00,Ivan Novoseltsev,BallTouch
+12192,65,SavedShot,0.9,0.4370000076293945,0.4120432138442993,Dalibor Stevanovic,a,3033,OpenPlay,2014,RightFoot,6458,Mordovya,Torpedo Moscow,1,0,2014-08-30 11:00:00,,None
+12193,66,MissedShots,0.8519999694824218,0.750999984741211,0.02735786698758602,Reziuan Mirzov,a,2869,OpenPlay,2014,RightFoot,6458,Mordovya,Torpedo Moscow,1,0,2014-08-30 11:00:00,Lukás Tesák,Pass
+12194,68,SavedShot,0.7719999694824219,0.52,0.025200482457876205,Adam Kokoszka,a,4623,OpenPlay,2014,RightFoot,6458,Mordovya,Torpedo Moscow,1,0,2014-08-30 11:00:00,Reziuan Mirzov,Pass
+12195,74,MissedShots,0.8130000305175781,0.6909999847412109,0.02097732201218605,Sergey Davydov,a,4627,OpenPlay,2014,RightFoot,6458,Mordovya,Torpedo Moscow,1,0,2014-08-30 11:00:00,Aleksey Pugin,Pass
+12197,77,BlockedShot,0.8859999847412109,0.5929999923706055,0.018273022025823593,Adam Kokoszka,a,4623,OpenPlay,2014,Head,6458,Mordovya,Torpedo Moscow,1,0,2014-08-30 11:00:00,Ivan Novoseltsev,Aerial
+12198,82,BlockedShot,0.8219999694824218,0.7130000305175781,0.02504243142902851,Dalibor Stevanovic,a,3033,OpenPlay,2014,RightFoot,6458,Mordovya,Torpedo Moscow,1,0,2014-08-30 11:00:00,Igor Shevchenko,Pass
+12199,83,MissedShots,0.9209999847412109,0.3579999923706055,0.012333685532212257,Dalibor Stevanovic,a,3033,FromCorner,2014,Head,6458,Mordovya,Torpedo Moscow,1,0,2014-08-30 11:00:00,Igor Shevchenko,Cross
+12200,91,MissedShots,0.8730000305175781,0.24899999618530275,0.026648644357919693,Aleksey Pugin,a,4542,OpenPlay,2014,RightFoot,6458,Mordovya,Torpedo Moscow,1,0,2014-08-30 11:00:00,,None

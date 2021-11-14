@@ -1,0 +1,21 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+87478,15,BlockedShot,0.7709999847412109,0.4279999923706055,0.035569459199905396,Robert Ibáñez,h,2089,OpenPlay,2015,LeftFoot,1516,Granada,Athletic Club,2,0,2015-11-22 21:15:00,Isaac Success,Pass
+87479,16,BlockedShot,0.909000015258789,0.24100000381469727,0.037078797817230225,Adalberto Peñaranda,h,1548,OpenPlay,2015,RightFoot,1516,Granada,Athletic Club,2,0,2015-11-22 21:15:00,Robert Ibáñez,Pass
+87480,36,MissedShots,0.745999984741211,0.48700000762939455,0.02428887039422989,Fran Rico,h,2084,SetPiece,2015,RightFoot,1516,Granada,Athletic Club,2,0,2015-11-22 21:15:00,Robert Ibáñez,HeadPass
+87484,46,MissedShots,0.874000015258789,0.5720000076293945,0.1136031225323677,Isaac Success,h,1724,OpenPlay,2015,RightFoot,1516,Granada,Athletic Club,2,0,2015-11-22 21:15:00,Fran Rico,Pass
+87491,55,MissedShots,0.9440000152587891,0.34200000762939453,0.09895726293325424,Adalberto Peñaranda,h,1548,OpenPlay,2015,RightFoot,1516,Granada,Athletic Club,2,0,2015-11-22 21:15:00,,TakeOn
+87492,58,BlockedShot,0.855,0.5029999923706054,0.10729328542947769,Javi Márquez,h,2422,OpenPlay,2015,LeftFoot,1516,Granada,Athletic Club,2,0,2015-11-22 21:15:00,Adalberto Peñaranda,Pass
+87493,58,Goal,0.93,0.580999984741211,0.4221005439758301,Isaac Success,h,1724,OpenPlay,2015,LeftFoot,1516,Granada,Athletic Club,2,0,2015-11-22 21:15:00,,Rebound
+87494,75,MissedShots,0.5559999847412109,0.4640000152587891,0.012775917537510395,Rubén Pérez,h,2080,OpenPlay,2015,RightFoot,1516,Granada,Athletic Club,2,0,2015-11-22 21:15:00,Dimitri Foulquier,Pass
+87476,4,OwnGoal,0.19299999237060547,0.37599998474121094,0,Aymeric Laporte,a,2498,OpenPlay,2015,RightFoot,1516,Granada,Athletic Club,2,0,2015-11-22 21:15:00,,BallTouch
+87477,9,BlockedShot,0.8059999847412109,0.7340000152587891,0.01394280232489109,Markel Susaeta,a,2405,FromCorner,2015,LeftFoot,1516,Granada,Athletic Club,2,0,2015-11-22 21:15:00,,Aerial
+87481,43,SavedShot,0.75,0.5570000076293945,0.07097616046667099,Beñat,a,2397,DirectFreekick,2015,RightFoot,1516,Granada,Athletic Club,2,0,2015-11-22 21:15:00,,Standard
+87482,44,SavedShot,0.7619999694824219,0.45,0.02030375599861145,Iñaki Williams,a,2399,FromCorner,2015,RightFoot,1516,Granada,Athletic Club,2,0,2015-11-22 21:15:00,,None
+87483,46,BlockedShot,0.9030000305175782,0.5829999923706055,0.3270731568336487,Aduriz,a,2410,SetPiece,2015,RightFoot,1516,Granada,Athletic Club,2,0,2015-11-22 21:15:00,,Aerial
+87485,48,SavedShot,0.9290000152587891,0.33799999237060546,0.33197277784347534,Iñaki Williams,a,2399,OpenPlay,2015,RightFoot,1516,Granada,Athletic Club,2,0,2015-11-22 21:15:00,Aduriz,Throughball
+87486,52,ShotOnPost,0.975999984741211,0.5979999923706054,0.05324486643075943,Aduriz,a,2410,FromCorner,2015,Head,1516,Granada,Athletic Club,2,0,2015-11-22 21:15:00,Markel Susaeta,Cross
+87487,52,SavedShot,0.925,0.5659999847412109,0.45561540126800537,San José,a,2395,FromCorner,2015,RightFoot,1516,Granada,Athletic Club,2,0,2015-11-22 21:15:00,,Rebound
+87488,52,BlockedShot,0.865,0.435,0.08168496936559677,Beñat,a,2397,FromCorner,2015,RightFoot,1516,Granada,Athletic Club,2,0,2015-11-22 21:15:00,,Rebound
+87489,53,BlockedShot,0.7290000152587891,0.674000015258789,0.01311103068292141,Raúl García,a,2400,OpenPlay,2015,RightFoot,1516,Granada,Athletic Club,2,0,2015-11-22 21:15:00,Markel Susaeta,BallRecovery
+87490,55,SavedShot,0.8980000305175782,0.575,0.0447884164750576,Aduriz,a,2410,OpenPlay,2015,Head,1516,Granada,Athletic Club,2,0,2015-11-22 21:15:00,Raúl García,Chipped
+87495,89,MissedShots,0.5729999923706055,0.415,0.005358138587325811,Raúl García,a,2400,OpenPlay,2015,LeftFoot,1516,Granada,Athletic Club,2,0,2015-11-22 21:15:00,De Marcos,HeadPass

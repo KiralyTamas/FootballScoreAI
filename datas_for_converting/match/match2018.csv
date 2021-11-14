@@ -1,0 +1,23 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+64593,11,Goal,0.9130000305175782,0.57,0.4297732710838318,Romain Alessandrini,h,3394,OpenPlay,2015,LeftFoot,2018,Marseille,Monaco,3,3,2015-11-30 00:00:00,,BallTouch
+64594,13,SavedShot,0.7659999847412109,0.5970000076293945,0.03594145551323891,Michy Batshuayi,h,1678,OpenPlay,2015,RightFoot,2018,Marseille,Monaco,3,3,2015-11-30 00:00:00,Georges-Kévin Nkoudou,BallRecovery
+64597,33,BlockedShot,0.76,0.25799999237060545,0.017161941155791283,Romain Alessandrini,h,3394,OpenPlay,2015,LeftFoot,2018,Marseille,Monaco,3,3,2015-11-30 00:00:00,Lass Diarra,Pass
+64598,35,ShotOnPost,0.8680000305175781,0.654000015258789,0.059774331748485565,Michy Batshuayi,h,1678,OpenPlay,2015,RightFoot,2018,Marseille,Monaco,3,3,2015-11-30 00:00:00,Rémy Cabella,Pass
+64605,42,SavedShot,0.7780000305175782,0.38299999237060545,0.07895154505968094,Romain Alessandrini,h,3394,DirectFreekick,2015,LeftFoot,2018,Marseille,Monaco,3,3,2015-11-30 00:00:00,,Standard
+64607,49,SavedShot,0.7130000305175781,0.425,0.04301547259092331,Romain Alessandrini,h,3394,DirectFreekick,2015,LeftFoot,2018,Marseille,Monaco,3,3,2015-11-30 00:00:00,,Standard
+64608,50,BlockedShot,0.9019999694824219,0.5170000076293946,0.11531456559896469,Michy Batshuayi,h,1678,OpenPlay,2015,LeftFoot,2018,Marseille,Monaco,3,3,2015-11-30 00:00:00,Rémy Cabella,Pass
+64612,50,Goal,0.9630000305175781,0.5320000076293945,0.6049837470054626,Michy Batshuayi,h,1678,FromCorner,2015,LeftFoot,2018,Marseille,Monaco,3,3,2015-11-30 00:00:00,Karim Rekik,None
+64620,81,MissedShots,0.8919999694824219,0.30100000381469727,0.042902227491140366,Lucas Ocampos,h,1109,OpenPlay,2015,RightFoot,2018,Marseille,Monaco,3,3,2015-11-30 00:00:00,Rémy Cabella,Pass
+64621,81,Goal,0.96,0.6229999923706054,0.33199068903923035,Georges-Kévin Nkoudou,h,1729,OpenPlay,2015,LeftFoot,2018,Marseille,Monaco,3,3,2015-11-30 00:00:00,Lucas Ocampos,Rebound
+64625,91,MissedShots,0.7609999847412109,0.6229999923706054,0.01810978353023529,Lass Diarra,h,3557,OpenPlay,2015,RightFoot,2018,Marseille,Monaco,3,3,2015-11-30 00:00:00,,None
+64626,94,BlockedShot,0.7959999847412109,0.335,0.02319655753672123,Lucas Silva,h,3392,OpenPlay,2015,RightFoot,2018,Marseille,Monaco,3,3,2015-11-30 00:00:00,Brice Dja Djédjé,Pass
+64591,7,BlockedShot,0.77,0.685,0.05717078223824501,João Moutinho,a,3422,DirectFreekick,2015,RightFoot,2018,Marseille,Monaco,3,3,2015-11-30 00:00:00,,Standard
+64592,7,MissedShots,0.919000015258789,0.509000015258789,0.10372158885002136,Almamy Touré,a,3431,FromCorner,2015,Head,2018,Marseille,Monaco,3,3,2015-11-30 00:00:00,João Moutinho,Cross
+64595,17,Goal,0.960999984741211,0.5109999847412109,0.608752965927124,Almamy Touré,a,3431,SetPiece,2015,RightFoot,2018,Marseille,Monaco,3,3,2015-11-30 00:00:00,Fábio Coentrão,Cross
+64596,29,SavedShot,0.8780000305175781,0.28899999618530275,0.046839457005262375,Fabinho,a,3420,OpenPlay,2015,RightFoot,2018,Marseille,Monaco,3,3,2015-11-30 00:00:00,,BallRecovery
+64601,38,Goal,0.9109999847412109,0.41700000762939454,0.42795002460479736,Almamy Touré,a,3431,OpenPlay,2015,RightFoot,2018,Marseille,Monaco,3,3,2015-11-30 00:00:00,Guido Carrillo,TakeOn
+64613,56,SavedShot,0.9019999694824219,0.44,0.0799151360988617,Almamy Touré,a,3431,SetPiece,2015,LeftFoot,2018,Marseille,Monaco,3,3,2015-11-30 00:00:00,,None
+64614,57,MissedShots,0.955999984741211,0.42700000762939455,0.32862982153892517,Elderson Echiéjilé,a,3419,FromCorner,2015,LeftFoot,2018,Marseille,Monaco,3,3,2015-11-30 00:00:00,João Moutinho,Cross
+64615,64,MissedShots,0.845999984741211,0.39799999237060546,0.0638730376958847,Guido Carrillo,a,3424,OpenPlay,2015,RightFoot,2018,Marseille,Monaco,3,3,2015-11-30 00:00:00,Hélder Costa,Pass
+64617,71,Goal,0.895,0.43099998474121093,0.05138595029711723,Fábio Coentrão,a,3633,OpenPlay,2015,Head,2018,Marseille,Monaco,3,3,2015-11-30 00:00:00,Elderson Echiéjilé,Cross
+64624,91,MissedShots,0.924000015258789,0.4109999847412109,0.055438332259655,Almamy Touré,a,3431,FromCorner,2015,Head,2018,Marseille,Monaco,3,3,2015-11-30 00:00:00,Stephan El Shaarawy,Cross

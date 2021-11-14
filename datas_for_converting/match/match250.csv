@@ -1,0 +1,29 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+55528,32,Goal,0.8219999694824218,0.705,0.02937910705804825,Theo Walcott,h,503,OpenPlay,2015,RightFoot,250,Arsenal,Manchester City,2,1,2015-12-22 00:00:00,Mesut Özil,Pass
+55530,45,Goal,0.915,0.6719999694824219,0.08681217581033707,Olivier Giroud,h,502,OpenPlay,2015,LeftFoot,250,Arsenal,Manchester City,2,1,2015-12-22 00:00:00,Mesut Özil,Pass
+55533,52,MissedShots,0.92,0.5570000076293945,0.14102192223072052,Joel Campbell,h,506,OpenPlay,2015,LeftFoot,250,Arsenal,Manchester City,2,1,2015-12-22 00:00:00,Nacho Monreal,Cross
+55535,55,SavedShot,0.9230000305175782,0.34,0.29636821150779724,Joel Campbell,h,506,OpenPlay,2015,LeftFoot,250,Arsenal,Manchester City,2,1,2015-12-22 00:00:00,Laurent Koscielny,Chipped
+55536,59,SavedShot,0.9119999694824219,0.549000015258789,0.5160965323448181,Aaron Ramsey,h,504,OpenPlay,2015,RightFoot,250,Arsenal,Manchester City,2,1,2015-12-22 00:00:00,Joel Campbell,Pass
+55539,68,MissedShots,0.8390000152587891,0.5459999847412109,0.09501786530017853,Aaron Ramsey,h,504,OpenPlay,2015,RightFoot,250,Arsenal,Manchester City,2,1,2015-12-22 00:00:00,Olivier Giroud,Chipped
+55542,78,SavedShot,0.7730000305175782,0.525,0.03674447908997536,Theo Walcott,h,503,OpenPlay,2015,RightFoot,250,Arsenal,Manchester City,2,1,2015-12-22 00:00:00,Aaron Ramsey,Interception
+55544,82,MissedShots,0.8930000305175781,0.654000015258789,0.2996496558189392,Aaron Ramsey,h,504,OpenPlay,2015,LeftFoot,250,Arsenal,Manchester City,2,1,2015-12-22 00:00:00,Alex Oxlade-Chamberlain,Pass
+55522,6,MissedShots,0.7909999847412109,0.36700000762939455,0.02694704197347164,David Silva,a,617,OpenPlay,2015,LeftFoot,250,Arsenal,Manchester City,2,1,2015-12-22 00:00:00,Bacary Sagna,Pass
+55523,9,MissedShots,0.754000015258789,0.674000015258789,0.016050608828663826,Fernandinho,a,614,OpenPlay,2015,RightFoot,250,Arsenal,Manchester City,2,1,2015-12-22 00:00:00,Aleksandar Kolarov,Pass
+55524,12,BlockedShot,0.889000015258789,0.629000015258789,0.07713477313518524,David Silva,a,617,OpenPlay,2015,LeftFoot,250,Arsenal,Manchester City,2,1,2015-12-22 00:00:00,Yaya Touré,Pass
+55525,17,BlockedShot,0.874000015258789,0.25,0.03805919736623764,Kevin De Bruyne,a,447,FromCorner,2015,LeftFoot,250,Arsenal,Manchester City,2,1,2015-12-22 00:00:00,David Silva,Pass
+55526,21,SavedShot,0.815,0.28100000381469725,0.026363549754023552,Kevin De Bruyne,a,447,OpenPlay,2015,LeftFoot,250,Arsenal,Manchester City,2,1,2015-12-22 00:00:00,Bacary Sagna,Pass
+55527,31,MissedShots,0.899000015258789,0.32,0.0554288849234581,Kevin De Bruyne,a,447,OpenPlay,2015,RightFoot,250,Arsenal,Manchester City,2,1,2015-12-22 00:00:00,Sergio Agüero,Pass
+55529,38,MissedShots,0.905,0.43900001525878907,0.017970558255910873,Yaya Touré,a,878,FromCorner,2015,Head,250,Arsenal,Manchester City,2,1,2015-12-22 00:00:00,Kevin De Bruyne,Aerial
+55531,51,BlockedShot,0.7290000152587891,0.6759999847412109,0.0083925137296319,Aleksandar Kolarov,a,621,OpenPlay,2015,LeftFoot,250,Arsenal,Manchester City,2,1,2015-12-22 00:00:00,,None
+55532,51,SavedShot,0.8530000305175781,0.53,0.09474842250347137,Sergio Agüero,a,619,OpenPlay,2015,RightFoot,250,Arsenal,Manchester City,2,1,2015-12-22 00:00:00,Kevin De Bruyne,Pass
+55534,54,SavedShot,0.8630000305175781,0.5570000076293945,0.028650762513279915,Sergio Agüero,a,619,SetPiece,2015,Head,250,Arsenal,Manchester City,2,1,2015-12-22 00:00:00,Aleksandar Kolarov,Cross
+55537,66,MissedShots,0.8980000305175782,0.475,0.03923887014389038,Wilfried Bony,a,622,OpenPlay,2015,Head,250,Arsenal,Manchester City,2,1,2015-12-22 00:00:00,Yaya Touré,Chipped
+55538,67,BlockedShot,0.759000015258789,0.7609999847412109,0.012007147073745728,Aleksandar Kolarov,a,621,OpenPlay,2015,LeftFoot,250,Arsenal,Manchester City,2,1,2015-12-22 00:00:00,Joe Hart,Pass
+55540,72,SavedShot,0.8109999847412109,0.74,0.020363779738545418,Raheem Sterling,a,618,OpenPlay,2015,RightFoot,250,Arsenal,Manchester City,2,1,2015-12-22 00:00:00,Kevin De Bruyne,Pass
+55541,74,SavedShot,0.8590000152587891,0.485,0.01686990261077881,Wilfried Bony,a,622,FromCorner,2015,Head,250,Arsenal,Manchester City,2,1,2015-12-22 00:00:00,Jesús Navas,Cross
+55543,81,Goal,0.8130000305175781,0.3240000152587891,0.025211025029420853,Yaya Touré,a,878,OpenPlay,2015,LeftFoot,250,Arsenal,Manchester City,2,1,2015-12-22 00:00:00,Bacary Sagna,Pass
+55545,83,BlockedShot,0.8619999694824219,0.41200000762939454,0.06289501488208771,Wilfried Bony,a,622,OpenPlay,2015,RightFoot,250,Arsenal,Manchester City,2,1,2015-12-22 00:00:00,,Dispossessed
+55546,85,MissedShots,0.8219999694824218,0.41,0.038302429020404816,Yaya Touré,a,878,FromCorner,2015,RightFoot,250,Arsenal,Manchester City,2,1,2015-12-22 00:00:00,Kevin De Bruyne,Pass
+55547,85,MissedShots,0.8969999694824219,0.53,0.03630681335926056,Wilfried Bony,a,622,FromCorner,2015,Head,250,Arsenal,Manchester City,2,1,2015-12-22 00:00:00,Yaya Touré,Rebound
+55548,86,MissedShots,0.865,0.5629999923706055,0.115231454372406,Yaya Touré,a,878,OpenPlay,2015,LeftFoot,250,Arsenal,Manchester City,2,1,2015-12-22 00:00:00,Kevin De Bruyne,Throughball
+55549,89,BlockedShot,0.735,0.40200000762939453,0.014595468528568745,Fernandinho,a,614,FromCorner,2015,RightFoot,250,Arsenal,Manchester City,2,1,2015-12-22 00:00:00,,None

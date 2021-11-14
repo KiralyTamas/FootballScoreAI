@@ -1,0 +1,29 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+86938,6,BlockedShot,0.7380000305175781,0.48200000762939454,0.016513561829924583,Ivan Rakitic,h,2094,OpenPlay,2015,RightFoot,1564,Barcelona,Real Betis,4,0,2015-12-30 23:30:00,,None
+86940,21,MissedShots,0.715,0.539000015258789,0.04974476620554924,Lionel Messi,h,2097,DirectFreekick,2015,LeftFoot,1564,Barcelona,Real Betis,4,0,2015-12-30 23:30:00,,Standard
+86942,24,SavedShot,0.8919999694824219,0.5120000076293946,0.09281031042337418,Neymar,h,2099,OpenPlay,2015,Head,1564,Barcelona,Real Betis,4,0,2015-12-30 23:30:00,Luis Suárez,Chipped
+86943,28,ShotOnPost,0.885,0.5,0.7432776093482971,Neymar,h,2099,Penalty,2015,RightFoot,1564,Barcelona,Real Betis,4,0,2015-12-30 23:30:00,,Standard
+86945,32,Goal,0.9269999694824219,0.5070000076293946,0.5805982947349548,Lionel Messi,h,2097,OpenPlay,2015,RightFoot,1564,Barcelona,Real Betis,4,0,2015-12-30 23:30:00,Neymar,Pass
+86946,37,MissedShots,0.9630000305175781,0.28600000381469726,0.4556114077568054,Luis Suárez,h,2098,OpenPlay,2015,RightFoot,1564,Barcelona,Real Betis,4,0,2015-12-30 23:30:00,Lionel Messi,TakeOn
+86947,45,Goal,0.9030000305175782,0.6309999847412109,0.31014981865882874,Luis Suárez,h,2098,OpenPlay,2015,LeftFoot,1564,Barcelona,Real Betis,4,0,2015-12-30 23:30:00,Sergio Busquets,Pass
+86950,60,BlockedShot,0.89,0.5459999847412109,0.13954420387744904,Lionel Messi,h,2097,OpenPlay,2015,LeftFoot,1564,Barcelona,Real Betis,4,0,2015-12-30 23:30:00,Neymar,Pass
+86951,60,ShotOnPost,0.915,0.5920000076293945,0.4020850658416748,Neymar,h,2099,OpenPlay,2015,RightFoot,1564,Barcelona,Real Betis,4,0,2015-12-30 23:30:00,Ivan Rakitic,Chipped
+86952,61,SavedShot,0.9,0.615999984741211,0.44297510385513306,Lionel Messi,h,2097,OpenPlay,2015,LeftFoot,1564,Barcelona,Real Betis,4,0,2015-12-30 23:30:00,,None
+86955,66,BlockedShot,0.909000015258789,0.5670000076293945,0.1262606829404831,Neymar,h,2099,OpenPlay,2015,RightFoot,1564,Barcelona,Real Betis,4,0,2015-12-30 23:30:00,Dani Alves,Chipped
+86956,68,SavedShot,0.7319999694824219,0.6309999847412109,0.05132807418704033,Lionel Messi,h,2097,DirectFreekick,2015,LeftFoot,1564,Barcelona,Real Betis,4,0,2015-12-30 23:30:00,,Standard
+86958,71,ShotOnPost,0.9169999694824219,0.3160000038146973,0.05546524003148079,Dani Alves,h,1288,OpenPlay,2015,RightFoot,1564,Barcelona,Real Betis,4,0,2015-12-30 23:30:00,Neymar,Cross
+86959,72,SavedShot,0.915,0.664000015258789,0.24782219529151917,Luis Suárez,h,2098,OpenPlay,2015,RightFoot,1564,Barcelona,Real Betis,4,0,2015-12-30 23:30:00,Neymar,Pass
+86960,73,ShotOnPost,0.7859999847412109,0.49400001525878906,0.05312494933605194,Lionel Messi,h,2097,OpenPlay,2015,LeftFoot,1564,Barcelona,Real Betis,4,0,2015-12-30 23:30:00,,Foul
+86963,82,Goal,0.935,0.5590000152587891,0.5825210809707642,Luis Suárez,h,2098,OpenPlay,2015,RightFoot,1564,Barcelona,Real Betis,4,0,2015-12-30 23:30:00,Neymar,Pass
+86939,18,MissedShots,0.86,0.49900001525878906,0.02324727550148964,Germán Pezzella,a,2143,FromCorner,2015,Head,1564,Barcelona,Real Betis,4,0,2015-12-30 23:30:00,Juan Vargas,Cross
+86941,22,SavedShot,0.7219999694824218,0.46599998474121096,0.011779200285673141,Álvaro Cejudo,a,2142,OpenPlay,2015,LeftFoot,1564,Barcelona,Real Betis,4,0,2015-12-30 23:30:00,Francisco Molinero,TakeOn
+86944,28,OwnGoal,0.08300000190734863,0.5570000076293945,0,Heiko Westermann,a,2445,SetPiece,2015,RightFoot,1564,Barcelona,Real Betis,4,0,2015-12-30 23:30:00,,PenaltyFaced
+86948,48,SavedShot,0.7909999847412109,0.24700000762939453,0.010715549811720848,Francisco Molinero,a,2151,OpenPlay,2015,RightFoot,1564,Barcelona,Real Betis,4,0,2015-12-30 23:30:00,,None
+86949,56,MissedShots,0.855999984741211,0.395,0.05439281091094017,Álvaro Cejudo,a,2142,OpenPlay,2015,RightFoot,1564,Barcelona,Real Betis,4,0,2015-12-30 23:30:00,,None
+86953,63,MissedShots,0.740999984741211,0.28,0.013296976685523987,Álvaro Cejudo,a,2142,OpenPlay,2015,LeftFoot,1564,Barcelona,Real Betis,4,0,2015-12-30 23:30:00,Petros,Pass
+86954,65,SavedShot,0.8969999694824219,0.5629999923706055,0.07452715933322906,Alfred N&#039;Diaye,a,2144,OpenPlay,2015,Head,1564,Barcelona,Real Betis,4,0,2015-12-30 23:30:00,Álvaro Cejudo,Cross
+86957,70,BlockedShot,0.71,0.47,0.04752550274133682,Juan Vargas,a,2448,DirectFreekick,2015,LeftFoot,1564,Barcelona,Real Betis,4,0,2015-12-30 23:30:00,,Standard
+86961,76,MissedShots,0.8859999847412109,0.31799999237060544,0.043142158538103104,Ricky van Wolfswinkel,a,1012,OpenPlay,2015,RightFoot,1564,Barcelona,Real Betis,4,0,2015-12-30 23:30:00,Dani Ceballos,Pass
+86962,79,MissedShots,0.9419999694824219,0.43900001525878907,0.11516159027814865,Germán Pezzella,a,2143,FromCorner,2015,RightFoot,1564,Barcelona,Real Betis,4,0,2015-12-30 23:30:00,Ricky van Wolfswinkel,HeadPass
+86964,84,MissedShots,0.7069999694824218,0.445,0.013080793432891369,Rafael van der Vaart,a,2153,OpenPlay,2015,RightFoot,1564,Barcelona,Real Betis,4,0,2015-12-30 23:30:00,Dani Ceballos,Pass
+86965,87,SavedShot,0.8119999694824219,0.445,0.0503566674888134,Álvaro Cejudo,a,2142,OpenPlay,2015,RightFoot,1564,Barcelona,Real Betis,4,0,2015-12-30 23:30:00,Rafael van der Vaart,Pass

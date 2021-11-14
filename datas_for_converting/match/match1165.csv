@@ -1,0 +1,35 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+79824,5,MissedShots,0.7709999847412109,0.6120000076293945,0.025820491835474968,Leon Goretzka,h,335,OpenPlay,2015,RightFoot,1165,Schalke 04,Hoffenheim,1,0,2015-12-18 23:30:00,Eric Maxim Choupo-Moting,BallRecovery
+79825,9,BlockedShot,0.8630000305175781,0.6759999847412109,0.04594770446419716,Sead Kolasinac,h,342,OpenPlay,2015,LeftFoot,1165,Schalke 04,Hoffenheim,1,0,2015-12-18 23:30:00,Eric Maxim Choupo-Moting,Pass
+79826,12,MissedShots,0.7619999694824219,0.6270000076293946,0.01887865923345089,Leon Goretzka,h,335,OpenPlay,2015,RightFoot,1165,Schalke 04,Hoffenheim,1,0,2015-12-18 23:30:00,Sead Kolasinac,Pass
+79829,18,MissedShots,0.865999984741211,0.654000015258789,0.007396675180643797,Eric Maxim Choupo-Moting,h,339,SetPiece,2015,Head,1165,Schalke 04,Hoffenheim,1,0,2015-12-18 23:30:00,Johannes Geis,Aerial
+79830,19,SavedShot,0.8880000305175781,0.6940000152587891,0.04864119738340378,Klaas-Jan Huntelaar,h,340,OpenPlay,2015,LeftFoot,1165,Schalke 04,Hoffenheim,1,0,2015-12-18 23:30:00,Franco Di Santo,Pass
+79832,27,Goal,0.9390000152587891,0.5590000152587891,0.11061861366033554,Eric Maxim Choupo-Moting,h,339,OpenPlay,2015,RightFoot,1165,Schalke 04,Hoffenheim,1,0,2015-12-18 23:30:00,Johannes Geis,Cross
+79834,36,MissedShots,0.92,0.55,0.08556346595287323,Franco Di Santo,h,341,FromCorner,2015,RightFoot,1165,Schalke 04,Hoffenheim,1,0,2015-12-18 23:30:00,Johannes Geis,Cross
+79836,46,MissedShots,0.9340000152587891,0.315,0.07028181105852127,Klaas-Jan Huntelaar,h,340,OpenPlay,2015,RightFoot,1165,Schalke 04,Hoffenheim,1,0,2015-12-18 23:30:00,Joel Matip,Pass
+79839,61,MissedShots,0.9469999694824218,0.4279999923706055,0.04841611906886101,Benedikt Höwedes,h,333,FromCorner,2015,Head,1165,Schalke 04,Hoffenheim,1,0,2015-12-18 23:30:00,Johannes Geis,Aerial
+79840,63,ShotOnPost,0.9119999694824219,0.8690000152587891,0.022304188460111618,Sead Kolasinac,h,342,OpenPlay,2015,LeftFoot,1165,Schalke 04,Hoffenheim,1,0,2015-12-18 23:30:00,Benedikt Höwedes,Chipped
+79845,75,SavedShot,0.8930000305175781,0.6170000076293946,0.03740987554192543,Leroy Sané,h,337,OpenPlay,2015,Head,1165,Schalke 04,Hoffenheim,1,0,2015-12-18 23:30:00,Sead Kolasinac,Cross
+79846,77,BlockedShot,0.8690000152587891,0.5629999923706055,0.10695043206214905,Leroy Sané,h,337,OpenPlay,2015,LeftFoot,1165,Schalke 04,Hoffenheim,1,0,2015-12-18 23:30:00,Sead Kolasinac,Pass
+79847,77,BlockedShot,0.85,0.40400001525878904,0.03430692479014397,Pierre-Emile Højbjerg,h,343,OpenPlay,2015,LeftFoot,1165,Schalke 04,Hoffenheim,1,0,2015-12-18 23:30:00,,Aerial
+79850,84,BlockedShot,0.68,0.3770000076293945,0.012524017132818699,Leon Goretzka,h,335,OpenPlay,2015,RightFoot,1165,Schalke 04,Hoffenheim,1,0,2015-12-18 23:30:00,Benedikt Höwedes,Pass
+79851,87,BlockedShot,0.8069999694824219,0.2979999923706055,0.032604414969682693,Leroy Sané,h,337,OpenPlay,2015,LeftFoot,1165,Schalke 04,Hoffenheim,1,0,2015-12-18 23:30:00,Pierre-Emile Højbjerg,Pass
+79852,87,MissedShots,0.7019999694824218,0.784000015258789,0.015110158361494541,Eric Maxim Choupo-Moting,h,339,OpenPlay,2015,RightFoot,1165,Schalke 04,Hoffenheim,1,0,2015-12-18 23:30:00,Johannes Geis,Pass
+79823,3,MissedShots,0.8780000305175781,0.500999984741211,0.0782649889588356,Eduardo Vargas,a,85,OpenPlay,2015,RightFoot,1165,Schalke 04,Hoffenheim,1,0,2015-12-18 23:30:00,Jin-Su Kim,Cross
+79827,15,MissedShots,0.95,0.669000015258789,0.06436131149530411,Nadiem Amiri,a,82,OpenPlay,2015,LeftFoot,1165,Schalke 04,Hoffenheim,1,0,2015-12-18 23:30:00,Jonathan Schmid,TakeOn
+79828,17,SavedShot,0.8530000305175781,0.3039999961853027,0.04410520941019058,Nadiem Amiri,a,82,OpenPlay,2015,RightFoot,1165,Schalke 04,Hoffenheim,1,0,2015-12-18 23:30:00,Tarik Elyounoussi,BallTouch
+79831,25,BlockedShot,0.8430000305175781,0.610999984741211,0.05627654865384102,Niklas Süle,a,75,SetPiece,2015,RightFoot,1165,Schalke 04,Hoffenheim,1,0,2015-12-18 23:30:00,Sebastian Rudy,Chipped
+79833,29,MissedShots,0.35,0.08199999809265136,0.013524668291211128,Fabian Schär,a,76,DirectFreekick,2015,RightFoot,1165,Schalke 04,Hoffenheim,1,0,2015-12-18 23:30:00,,Standard
+79835,40,MissedShots,0.8230000305175781,0.4209999847412109,0.051486529409885406,Tarik Elyounoussi,a,78,OpenPlay,2015,RightFoot,1165,Schalke 04,Hoffenheim,1,0,2015-12-18 23:30:00,Sebastian Rudy,Chipped
+79837,48,MissedShots,0.7140000152587891,0.6880000305175781,0.013669728301465511,Tobias Strobl,a,79,OpenPlay,2015,RightFoot,1165,Schalke 04,Hoffenheim,1,0,2015-12-18 23:30:00,Sebastian Rudy,Pass
+79838,51,MissedShots,0.9469999694824218,0.45,0.13168759644031525,Jonathan Schmid,a,81,OpenPlay,2015,RightFoot,1165,Schalke 04,Hoffenheim,1,0,2015-12-18 23:30:00,Pavel Kaderábek,Pass
+79841,65,BlockedShot,0.7380000305175781,0.6469999694824219,0.01912923902273178,Jin-Su Kim,a,77,OpenPlay,2015,RightFoot,1165,Schalke 04,Hoffenheim,1,0,2015-12-18 23:30:00,Kevin Volland,Pass
+79842,66,BlockedShot,0.720999984741211,0.485,0.050081875175237656,Eduardo Vargas,a,85,DirectFreekick,2015,RightFoot,1165,Schalke 04,Hoffenheim,1,0,2015-12-18 23:30:00,,Standard
+79843,68,MissedShots,0.8490000152587891,0.43,0.07478313893079758,Eduardo Vargas,a,85,OpenPlay,2015,RightFoot,1165,Schalke 04,Hoffenheim,1,0,2015-12-18 23:30:00,Fabian Schär,Pass
+79844,70,MissedShots,0.8330000305175781,0.7169999694824218,0.024176590144634247,Kevin Volland,a,83,OpenPlay,2015,LeftFoot,1165,Schalke 04,Hoffenheim,1,0,2015-12-18 23:30:00,Niklas Süle,Pass
+79848,79,MissedShots,0.7380000305175781,0.37099998474121093,0.05112709477543831,Jonathan Schmid,a,81,DirectFreekick,2015,RightFoot,1165,Schalke 04,Hoffenheim,1,0,2015-12-18 23:30:00,,Standard
+79849,82,BlockedShot,0.754000015258789,0.33299999237060546,0.018842170014977455,Mark Uth,a,88,OpenPlay,2015,LeftFoot,1165,Schalke 04,Hoffenheim,1,0,2015-12-18 23:30:00,Pavel Kaderábek,Pass
+79853,89,MissedShots,0.93,0.69,0.03651287406682968,Fabian Schär,a,76,OpenPlay,2015,LeftFoot,1165,Schalke 04,Hoffenheim,1,0,2015-12-18 23:30:00,Jonathan Schmid,Chipped
+79854,92,MissedShots,0.759000015258789,0.6309999847412109,0.018332745879888535,Eduardo Vargas,a,85,OpenPlay,2015,RightFoot,1165,Schalke 04,Hoffenheim,1,0,2015-12-18 23:30:00,,None
+79855,93,BlockedShot,0.8190000152587891,0.46900001525878904,0.045975785702466965,Joelinton,a,87,OpenPlay,2015,RightFoot,1165,Schalke 04,Hoffenheim,1,0,2015-12-18 23:30:00,Eduardo Vargas,Chipped
+79856,93,BlockedShot,0.935,0.3820000076293945,0.08204518258571625,Joelinton,a,87,OpenPlay,2015,RightFoot,1165,Schalke 04,Hoffenheim,1,0,2015-12-18 23:30:00,,Rebound

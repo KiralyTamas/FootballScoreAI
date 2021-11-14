@@ -1,0 +1,31 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+402928,4,MissedShots,0.899000015258789,0.4779999923706055,0.02038571983575821,Lucas Martínez Quarta,h,9019,FromCorner,2020,Head,15629,Fiorentina,Inter,0,2,2021-02-05 19:45:00,Cristiano Biraghi,Aerial
+402930,12,MissedShots,0.7619999694824219,0.40700000762939453,0.020063795149326324,Valentin Eysseric,h,3515,OpenPlay,2020,RightFoot,15629,Fiorentina,Inter,0,2,2021-02-05 19:45:00,,None
+402932,25,BlockedShot,0.815,0.4490000152587891,0.036568012088537216,Giacomo Bonaventura,h,1121,FromCorner,2020,RightFoot,15629,Fiorentina,Inter,0,2,2021-02-05 19:45:00,,None
+402935,36,SavedShot,0.915,0.3029999923706055,0.0556776225566864,Giacomo Bonaventura,h,1121,OpenPlay,2020,RightFoot,15629,Fiorentina,Inter,0,2,2021-02-05 19:45:00,Lucas Martínez Quarta,Pass
+402936,36,SavedShot,0.8969999694824219,0.7,0.04390081763267517,Cristiano Biraghi,h,1164,OpenPlay,2020,LeftFoot,15629,Fiorentina,Inter,0,2,2021-02-05 19:45:00,,Rebound
+402937,39,BlockedShot,0.74,0.355,0.016915544867515564,Giacomo Bonaventura,h,1121,OpenPlay,2020,RightFoot,15629,Fiorentina,Inter,0,2,2021-02-05 19:45:00,Borja Valero,Pass
+402938,40,MissedShots,0.6890000152587891,0.4159999847412109,0.011904141865670681,Lucas Martínez Quarta,h,9019,OpenPlay,2020,RightFoot,15629,Fiorentina,Inter,0,2,2021-02-05 19:45:00,Germán Pezzella,HeadPass
+402939,42,MissedShots,0.8419999694824218,0.30100000381469727,0.02858203463256359,Sofyan Amrabat,h,7927,SetPiece,2020,RightFoot,15629,Fiorentina,Inter,0,2,2021-02-05 19:45:00,Cristiano Biraghi,Pass
+402940,42,BlockedShot,0.89,0.355,0.057796649634838104,Valentin Eysseric,h,3515,SetPiece,2020,RightFoot,15629,Fiorentina,Inter,0,2,2021-02-05 19:45:00,,Rebound
+402942,50,SavedShot,0.86,0.7419999694824219,0.026160787791013718,Giacomo Bonaventura,h,1121,OpenPlay,2020,LeftFoot,15629,Fiorentina,Inter,0,2,2021-02-05 19:45:00,Valentin Eysseric,HeadPass
+402952,79,MissedShots,0.9130000305175782,0.5970000076293945,0.03531806915998459,Germán Pezzella,h,2143,FromCorner,2020,Head,15629,Fiorentina,Inter,0,2,2021-02-05 19:45:00,Cristiano Biraghi,Cross
+402953,85,BlockedShot,0.855999984741211,0.47200000762939454,0.07287375628948212,Lucas Martínez Quarta,h,9019,OpenPlay,2020,RightFoot,15629,Fiorentina,Inter,0,2,2021-02-05 19:45:00,,Dispossessed
+402954,86,MissedShots,0.914000015258789,0.534000015258789,0.03259037807583809,Christian Kouamé,h,7091,FromCorner,2020,Head,15629,Fiorentina,Inter,0,2,2021-02-05 19:45:00,Erick Pulgar,Aerial
+402955,87,MissedShots,0.749000015258789,0.40599998474121096,0.019430000334978104,Giacomo Bonaventura,h,1121,OpenPlay,2020,RightFoot,15629,Fiorentina,Inter,0,2,2021-02-05 19:45:00,Lucas Martínez Quarta,Pass
+402956,90,MissedShots,0.894000015258789,0.66,0.04022765904664993,Antonio Barreca,h,1181,OpenPlay,2020,LeftFoot,15629,Fiorentina,Inter,0,2,2021-02-05 19:45:00,Lucas Martínez Quarta,HeadPass
+402957,92,MissedShots,0.7730000305175782,0.5629999923706055,0.02795114926993847,Kevin Malcuit,h,3632,OpenPlay,2020,RightFoot,15629,Fiorentina,Inter,0,2,2021-02-05 19:45:00,Giacomo Bonaventura,Pass
+402929,5,SavedShot,0.905,0.46799999237060547,0.4414309561252594,Nicolò Barella,a,1409,OpenPlay,2020,RightFoot,15629,Fiorentina,Inter,0,2,2021-02-05 19:45:00,Alexis Sánchez,BallTouch
+402931,22,MissedShots,0.8490000152587891,0.6270000076293946,0.054341915994882584,Alessandro Bastoni,a,4939,OpenPlay,2020,LeftFoot,15629,Fiorentina,Inter,0,2,2021-02-05 19:45:00,,None
+402933,27,BlockedShot,0.825,0.4420000076293945,0.06621178239583969,Romelu Lukaku,a,594,OpenPlay,2020,LeftFoot,15629,Fiorentina,Inter,0,2,2021-02-05 19:45:00,Milan Skriniar,Pass
+402934,30,Goal,0.7909999847412109,0.5890000152587891,0.03038516640663147,Nicolò Barella,a,1409,FromCorner,2020,RightFoot,15629,Fiorentina,Inter,0,2,2021-02-05 19:45:00,Alexis Sánchez,Pass
+402941,45,MissedShots,0.9440000152587891,0.4620000076293945,0.45397379994392395,Romelu Lukaku,a,594,OpenPlay,2020,Head,15629,Fiorentina,Inter,0,2,2021-02-05 19:45:00,Alexis Sánchez,Chipped
+402943,51,Goal,0.9580000305175781,0.53,0.6623433232307434,Ivan Perisic,a,448,OpenPlay,2020,RightFoot,15629,Fiorentina,Inter,0,2,2021-02-05 19:45:00,Achraf Hakimi,Pass
+402944,58,SavedShot,0.899000015258789,0.3110000038146973,0.06439211964607239,Achraf Hakimi,a,5197,OpenPlay,2020,RightFoot,15629,Fiorentina,Inter,0,2,2021-02-05 19:45:00,Alexis Sánchez,Pass
+402945,62,BlockedShot,0.8680000305175781,0.4209999847412109,0.1359822005033493,Romelu Lukaku,a,594,OpenPlay,2020,RightFoot,15629,Fiorentina,Inter,0,2,2021-02-05 19:45:00,Achraf Hakimi,Pass
+402946,63,MissedShots,0.7180000305175781,0.5,0.012715339660644531,Nicolò Barella,a,1409,FromCorner,2020,RightFoot,15629,Fiorentina,Inter,0,2,2021-02-05 19:45:00,,Aerial
+402947,64,SavedShot,0.7859999847412109,0.529000015258789,0.029443729668855667,Ivan Perisic,a,448,SetPiece,2020,LeftFoot,15629,Fiorentina,Inter,0,2,2021-02-05 19:45:00,Marcelo Brozovic,Pass
+402948,66,SavedShot,0.9080000305175782,0.5940000152587891,0.22644098103046417,Roberto Gagliardini,a,1496,OpenPlay,2020,Head,15629,Fiorentina,Inter,0,2,2021-02-05 19:45:00,Nicolò Barella,Chipped
+402949,66,MissedShots,0.9369999694824219,0.44799999237060545,0.19071197509765625,Alessandro Bastoni,a,4939,FromCorner,2020,Head,15629,Fiorentina,Inter,0,2,2021-02-05 19:45:00,Marcelo Brozovic,Aerial
+402950,76,BlockedShot,0.8719999694824219,0.3820000076293945,0.09823738038539886,Lautaro Martínez,a,7006,OpenPlay,2020,RightFoot,15629,Fiorentina,Inter,0,2,2021-02-05 19:45:00,Romelu Lukaku,Pass
+402951,77,MissedShots,0.8880000305175781,0.44299999237060544,0.014838267117738724,Milan Skriniar,a,1223,FromCorner,2020,Head,15629,Fiorentina,Inter,0,2,2021-02-05 19:45:00,Ivan Perisic,Aerial

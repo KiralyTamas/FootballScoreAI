@@ -1,0 +1,24 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+76889,17,Goal,0.8930000305175781,0.5070000076293946,0.12827715277671814,Artur Sobiech,h,349,OpenPlay,2015,LeftFoot,1050,Hannover 96,Borussia Dortmund,2,4,2015-09-12 17:30:00,Leon Andreasen,Pass
+76893,38,BlockedShot,0.919000015258789,0.4779999923706055,0.07265499234199524,Marcelo,h,93,SetPiece,2015,RightFoot,1050,Hannover 96,Borussia Dortmund,2,4,2015-09-12 17:30:00,,Aerial
+76896,46,SavedShot,0.9130000305175782,0.5420000076293945,0.04950406774878502,Salif Sané,h,96,SetPiece,2015,Head,1050,Hannover 96,Borussia Dortmund,2,4,2015-09-12 17:30:00,Hiroshi Kiyotake,Aerial
+76897,52,Goal,0.8580000305175781,0.425,0.28786805272102356,Artur Sobiech,h,349,OpenPlay,2015,RightFoot,1050,Hannover 96,Borussia Dortmund,2,4,2015-09-12 17:30:00,Edgar Prib,Chipped
+76898,57,BlockedShot,0.7119999694824218,0.445,0.044491060078144073,Hiroshi Kiyotake,h,396,DirectFreekick,2015,RightFoot,1050,Hannover 96,Borussia Dortmund,2,4,2015-09-12 17:30:00,,Standard
+76899,66,OwnGoal,0.050999999046325684,0.5109999847412109,0,Felipe,h,105,OpenPlay,2015,RightFoot,1050,Hannover 96,Borussia Dortmund,2,4,2015-09-12 17:30:00,,None
+76883,4,MissedShots,0.8230000305175781,0.4879999923706055,0.03453632816672325,Henrikh Mkhitaryan,a,317,OpenPlay,2015,RightFoot,1050,Hannover 96,Borussia Dortmund,2,4,2015-09-12 17:30:00,Matthias Ginter,Cross
+76884,6,MissedShots,0.9230000305175782,0.5609999847412109,0.05882938206195831,Pierre-Emerick Aubameyang,a,318,OpenPlay,2015,Head,1050,Hannover 96,Borussia Dortmund,2,4,2015-09-12 17:30:00,Marcel Schmelzer,HeadPass
+76885,11,MissedShots,0.8219999694824218,0.580999984741211,0.06050489470362663,Shinji Kagawa,a,321,OpenPlay,2015,RightFoot,1050,Hannover 96,Borussia Dortmund,2,4,2015-09-12 17:30:00,Pierre-Emerick Aubameyang,Pass
+76886,12,SavedShot,0.7819999694824219,0.7130000305175781,0.017124127596616745,Henrikh Mkhitaryan,a,317,OpenPlay,2015,RightFoot,1050,Hannover 96,Borussia Dortmund,2,4,2015-09-12 17:30:00,Marcel Schmelzer,Pass
+76887,14,BlockedShot,0.874000015258789,0.26799999237060546,0.017746441066265106,Matthias Ginter,a,315,OpenPlay,2015,RightFoot,1050,Hannover 96,Borussia Dortmund,2,4,2015-09-12 17:30:00,Shinji Kagawa,Chipped
+76888,15,MissedShots,0.765,0.39,0.029673611745238304,Ilkay Gündogan,a,314,OpenPlay,2015,RightFoot,1050,Hannover 96,Borussia Dortmund,2,4,2015-09-12 17:30:00,Mats Hummels,TakeOn
+76890,22,SavedShot,0.8859999847412109,0.7609999847412109,0.02951238676905632,Marcel Schmelzer,a,313,OpenPlay,2015,LeftFoot,1050,Hannover 96,Borussia Dortmund,2,4,2015-09-12 17:30:00,Henrikh Mkhitaryan,Pass
+76891,24,MissedShots,0.825999984741211,0.4370000076293945,0.062249600887298584,Ilkay Gündogan,a,314,OpenPlay,2015,RightFoot,1050,Hannover 96,Borussia Dortmund,2,4,2015-09-12 17:30:00,Henrikh Mkhitaryan,Pass
+76892,34,Goal,0.885,0.5,0.75777667760849,Pierre-Emerick Aubameyang,a,318,Penalty,2015,RightFoot,1050,Hannover 96,Borussia Dortmund,2,4,2015-09-12 17:30:00,,Standard
+76894,39,MissedShots,0.8030000305175782,0.3629999923706055,0.03445977345108986,Henrikh Mkhitaryan,a,317,OpenPlay,2015,LeftFoot,1050,Hannover 96,Borussia Dortmund,2,4,2015-09-12 17:30:00,Matthias Ginter,Pass
+76895,43,Goal,0.845999984741211,0.46299999237060546,0.08789613097906113,Henrikh Mkhitaryan,a,317,OpenPlay,2015,RightFoot,1050,Hannover 96,Borussia Dortmund,2,4,2015-09-12 17:30:00,Matthias Ginter,Pass
+76900,70,BlockedShot,0.865999984741211,0.24600000381469728,0.035017792135477066,Adnan Januzaj,a,323,OpenPlay,2015,LeftFoot,1050,Hannover 96,Borussia Dortmund,2,4,2015-09-12 17:30:00,Matthias Ginter,Pass
+76901,83,SavedShot,0.825,0.38799999237060545,0.06616801023483276,Matthias Ginter,a,315,OpenPlay,2015,LeftFoot,1050,Hannover 96,Borussia Dortmund,2,4,2015-09-12 17:30:00,Shinji Kagawa,TakeOn
+76902,83,MissedShots,0.870999984741211,0.7480000305175781,0.03311071917414665,Adnan Januzaj,a,323,OpenPlay,2015,LeftFoot,1050,Hannover 96,Borussia Dortmund,2,4,2015-09-12 17:30:00,,Rebound
+76903,83,BlockedShot,0.9290000152587891,0.6930000305175781,0.0708799809217453,Henrikh Mkhitaryan,a,317,OpenPlay,2015,RightFoot,1050,Hannover 96,Borussia Dortmund,2,4,2015-09-12 17:30:00,Adnan Januzaj,Pass
+76904,84,Goal,0.885,0.5,0.75777667760849,Pierre-Emerick Aubameyang,a,318,Penalty,2015,RightFoot,1050,Hannover 96,Borussia Dortmund,2,4,2015-09-12 17:30:00,,Standard
+76905,86,MissedShots,0.7390000152587891,0.41900001525878905,0.018021639436483383,Ilkay Gündogan,a,314,OpenPlay,2015,RightFoot,1050,Hannover 96,Borussia Dortmund,2,4,2015-09-12 17:30:00,Adnan Januzaj,Pass

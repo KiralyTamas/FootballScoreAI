@@ -1,0 +1,27 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+433710,8,MissedShots,0.7880000305175782,0.3240000152587891,0.01795174926519394,Jean Eudes Aholou,h,4811,FromCorner,2021,RightFoot,17900,Strasbourg,Lille,1,2,2021-09-25 17:00:00,,None
+433712,13,BlockedShot,0.909000015258789,0.35400001525878905,0.12039928883314133,Adrien Thomasson,h,3549,OpenPlay,2021,RightFoot,17900,Strasbourg,Lille,1,2,2021-09-25 17:00:00,Jean Eudes Aholou,TakeOn
+433713,21,MissedShots,0.8380000305175781,0.47900001525878905,0.08040108531713486,Kevin Gameiro,h,2442,OpenPlay,2021,RightFoot,17900,Strasbourg,Lille,1,2,2021-09-25 17:00:00,Anthony Caci,Pass
+433719,43,MissedShots,0.7559999847412109,0.525,0.01844712160527706,Jean Eudes Aholou,h,4811,FromCorner,2021,LeftFoot,17900,Strasbourg,Lille,1,2,2021-09-25 17:00:00,,None
+433724,67,SavedShot,0.8430000305175781,0.685,0.042149003595113754,Habib Diallo,h,5769,OpenPlay,2021,RightFoot,17900,Strasbourg,Lille,1,2,2021-09-25 17:00:00,Jean-Ricner Bellegarde,Pass
+433726,74,Goal,0.914000015258789,0.385,0.07516717910766602,Ibrahima Sissoko,h,6904,FromCorner,2021,RightFoot,17900,Strasbourg,Lille,1,2,2021-09-25 17:00:00,Ludovic Ajorque,None
+433727,78,SavedShot,0.879000015258789,0.555,0.042913325130939484,Maxime Le Marchand,h,3304,SetPiece,2021,Head,17900,Strasbourg,Lille,1,2,2021-09-25 17:00:00,Adrien Thomasson,Cross
+433731,94,MissedShots,0.870999984741211,0.5520000076293945,0.010376558639109135,Matz Sels,h,6903,SetPiece,2021,Head,17900,Strasbourg,Lille,1,2,2021-09-25 17:00:00,Frederic Guilbert,Aerial
+433732,94,MissedShots,0.875999984741211,0.64,0.0669899508357048,Matz Sels,h,6903,SetPiece,2021,RightFoot,17900,Strasbourg,Lille,1,2,2021-09-25 17:00:00,Ibrahima Sissoko,Pass
+433733,94,MissedShots,0.905,0.45099998474121095,0.02243180386722088,Ibrahima Sissoko,h,6904,SetPiece,2021,Head,17900,Strasbourg,Lille,1,2,2021-09-25 17:00:00,Matz Sels,Rebound
+433708,6,SavedShot,0.8809999847412109,0.43099998474121093,0.3705505430698395,Jonathan Christian David,a,8636,OpenPlay,2021,RightFoot,17900,Strasbourg,Lille,1,2,2021-09-25 17:00:00,Angel Gomes,Pass
+433709,6,SavedShot,0.7530000305175781,0.6990000152587891,0.016072405502200127,Timothy Weah,a,6601,OpenPlay,2021,RightFoot,17900,Strasbourg,Lille,1,2,2021-09-25 17:00:00,Reinildo,Pass
+433711,8,MissedShots,0.7480000305175781,0.525,0.022011976689100266,Angel Gomes,a,5598,OpenPlay,2021,RightFoot,17900,Strasbourg,Lille,1,2,2021-09-25 17:00:00,,Dispossessed
+433714,22,Goal,0.919000015258789,0.5420000076293945,0.4659344553947449,Jonathan Christian David,a,8636,OpenPlay,2021,RightFoot,17900,Strasbourg,Lille,1,2,2021-09-25 17:00:00,Timothy Weah,Pass
+433715,26,SavedShot,0.7809999847412109,0.659000015258789,0.021286068484187126,Xeka,a,5704,FromCorner,2021,LeftFoot,17900,Strasbourg,Lille,1,2,2021-09-25 17:00:00,Angel Gomes,Pass
+433716,28,MissedShots,0.9009999847412109,0.3609999847412109,0.09057193249464035,Jonathan Ikone,a,5661,OpenPlay,2021,RightFoot,17900,Strasbourg,Lille,1,2,2021-09-25 17:00:00,Timothy Weah,HeadPass
+433717,31,MissedShots,0.7219999694824218,0.6179999923706054,0.017505431547760963,Xeka,a,5704,OpenPlay,2021,RightFoot,17900,Strasbourg,Lille,1,2,2021-09-25 17:00:00,Timothy Weah,Pass
+433718,39,BlockedShot,0.9,0.8480000305175781,0.05286087840795517,Xeka,a,5704,DirectFreekick,2021,RightFoot,17900,Strasbourg,Lille,1,2,2021-09-25 17:00:00,,Standard
+433720,46,MissedShots,0.8130000305175781,0.44299999237060544,0.07831184566020966,Jonathan Ikone,a,5661,OpenPlay,2021,LeftFoot,17900,Strasbourg,Lille,1,2,2021-09-25 17:00:00,Timothy Weah,LayOff
+433721,46,SavedShot,0.8869999694824219,0.5779999923706055,0.3754170536994934,Jonathan Christian David,a,8636,OpenPlay,2021,LeftFoot,17900,Strasbourg,Lille,1,2,2021-09-25 17:00:00,Jonathan Ikone,Pass
+433722,52,BlockedShot,0.745999984741211,0.365,0.025861872360110283,Jonathan Ikone,a,5661,OpenPlay,2021,LeftFoot,17900,Strasbourg,Lille,1,2,2021-09-25 17:00:00,Jonathan Christian David,Pass
+433723,56,Goal,0.885,0.5,0.7600951194763184,Jonathan Christian David,a,8636,Penalty,2021,RightFoot,17900,Strasbourg,Lille,1,2,2021-09-25 17:00:00,,Standard
+433725,70,MissedShots,0.9619999694824218,0.545,0.12643375992774963,Jonathan Christian David,a,8636,OpenPlay,2021,Head,17900,Strasbourg,Lille,1,2,2021-09-25 17:00:00,Timothy Weah,Aerial
+433728,87,BlockedShot,0.86,0.36700000762939455,0.011385437101125717,José Fonte,a,834,FromCorner,2021,Head,17900,Strasbourg,Lille,1,2,2021-09-25 17:00:00,Yusuf Yazici,Aerial
+433729,88,SavedShot,0.5890000152587891,0.9390000152587891,0.008660356514155865,Yusuf Yazici,a,7756,OpenPlay,2021,LeftFoot,17900,Strasbourg,Lille,1,2,2021-09-25 17:00:00,Gabriel Gudmundsson,Pass
+433730,93,MissedShots,0.92,0.555,0.14302347600460052,Timothy Weah,a,6601,OpenPlay,2021,LeftFoot,17900,Strasbourg,Lille,1,2,2021-09-25 17:00:00,Yusuf Yazici,Pass

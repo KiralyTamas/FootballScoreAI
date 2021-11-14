@@ -1,0 +1,28 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+57339,9,Goal,0.89,0.40599998474121096,0.35433250665664673,Riyad Mahrez,h,750,OpenPlay,2015,LeftFoot,425,Leicester,Swansea,4,0,2016-04-24 19:15:00,,BallRecovery
+57341,26,SavedShot,0.899000015258789,0.605999984741211,0.07291492819786072,Christian Fuchs,h,749,FromCorner,2015,RightFoot,425,Leicester,Swansea,4,0,2016-04-24 19:15:00,,None
+57342,27,BlockedShot,0.870999984741211,0.3189999961853027,0.1322767734527588,Shinji Okazaki,h,754,OpenPlay,2015,RightFoot,425,Leicester,Swansea,4,0,2016-04-24 19:15:00,Riyad Mahrez,Throughball
+57343,29,Goal,0.9230000305175782,0.519000015258789,0.3579120635986328,Leonardo Ulloa,h,756,SetPiece,2015,Head,425,Leicester,Swansea,4,0,2016-04-24 19:15:00,Daniel Drinkwater,Aerial
+57345,33,SavedShot,0.8809999847412109,0.7780000305175782,0.04470808804035187,Christian Fuchs,h,749,OpenPlay,2015,RightFoot,425,Leicester,Swansea,4,0,2016-04-24 19:15:00,Jeffrey Schlupp,Pass
+57350,59,Goal,0.99,0.46599998474121096,0.9741790890693665,Leonardo Ulloa,h,756,OpenPlay,2015,RightFoot,425,Leicester,Swansea,4,0,2016-04-24 19:15:00,Jeffrey Schlupp,Pass
+57351,63,MissedShots,0.7819999694824219,0.27,0.050325941294431686,Christian Fuchs,h,749,DirectFreekick,2015,LeftFoot,425,Leicester,Swansea,4,0,2016-04-24 19:15:00,,Standard
+57352,65,BlockedShot,0.784000015258789,0.735999984741211,0.023623622953891754,Christian Fuchs,h,749,OpenPlay,2015,LeftFoot,425,Leicester,Swansea,4,0,2016-04-24 19:15:00,Leonardo Ulloa,Pass
+57353,66,SavedShot,0.7619999694824219,0.625999984741211,0.023942796513438225,Jeffrey Schlupp,h,757,OpenPlay,2015,LeftFoot,425,Leicester,Swansea,4,0,2016-04-24 19:15:00,,Dispossessed
+57354,67,MissedShots,0.8730000305175781,0.620999984741211,0.10639382153749466,Shinji Okazaki,h,754,OpenPlay,2015,LeftFoot,425,Leicester,Swansea,4,0,2016-04-24 19:15:00,,TakeOn
+57355,69,MissedShots,0.81,0.485,0.0906534269452095,Jeffrey Schlupp,h,757,OpenPlay,2015,RightFoot,425,Leicester,Swansea,4,0,2016-04-24 19:15:00,,TakeOn
+57356,70,BlockedShot,0.84,0.425,0.045671794563531876,Daniel Drinkwater,h,752,FromCorner,2015,RightFoot,425,Leicester,Swansea,4,0,2016-04-24 19:15:00,Riyad Mahrez,Pass
+57358,79,MissedShots,0.845,0.7,0.046083007007837296,Jeffrey Schlupp,h,757,OpenPlay,2015,LeftFoot,425,Leicester,Swansea,4,0,2016-04-24 19:15:00,Christian Fuchs,BallRecovery
+57359,80,SavedShot,0.8580000305175781,0.6519999694824219,0.1054546907544136,Andy King,h,784,OpenPlay,2015,RightFoot,425,Leicester,Swansea,4,0,2016-04-24 19:15:00,Riyad Mahrez,Pass
+57360,80,MissedShots,0.865,0.6730000305175782,0.03199728950858116,Andy King,h,784,OpenPlay,2015,RightFoot,425,Leicester,Swansea,4,0,2016-04-24 19:15:00,,Rebound
+57361,84,MissedShots,0.9569999694824218,0.585,0.33769524097442627,Andy King,h,784,OpenPlay,2015,Head,425,Leicester,Swansea,4,0,2016-04-24 19:15:00,Demarai Gray,Cross
+57362,84,SavedShot,0.9569999694824218,0.39,0.41018903255462646,Demarai Gray,h,762,OpenPlay,2015,RightFoot,425,Leicester,Swansea,4,0,2016-04-24 19:15:00,Andy King,Rebound
+57363,84,Goal,0.9419999694824219,0.5259999847412109,0.638258695602417,Marc Albrighton,h,753,OpenPlay,2015,LeftFoot,425,Leicester,Swansea,4,0,2016-04-24 19:15:00,,Rebound
+57340,16,BlockedShot,0.8540000152587891,0.28299999237060547,0.03656930848956108,Gylfi Sigurdsson,a,714,OpenPlay,2015,RightFoot,425,Leicester,Swansea,4,0,2016-04-24 19:15:00,Wayne Routledge,Pass
+57344,32,MissedShots,0.9319999694824219,0.5029999923706054,0.12800145149230957,Federico Fernández,a,708,SetPiece,2015,Head,425,Leicester,Swansea,4,0,2016-04-24 19:15:00,Gylfi Sigurdsson,Cross
+57346,41,MissedShots,0.6959999847412109,0.685,0.029963010922074318,Gylfi Sigurdsson,a,714,DirectFreekick,2015,RightFoot,425,Leicester,Swansea,4,0,2016-04-24 19:15:00,,Standard
+57347,43,BlockedShot,0.700999984741211,0.605999984741211,0.009405653923749924,Neil Taylor,a,710,OpenPlay,2015,LeftFoot,425,Leicester,Swansea,4,0,2016-04-24 19:15:00,Federico Fernández,Tackle
+57348,47,SavedShot,0.899000015258789,0.605999984741211,0.028795845806598663,André Ayew,a,713,OpenPlay,2015,Head,425,Leicester,Swansea,4,0,2016-04-24 19:15:00,Angel Rangel,Cross
+57349,48,BlockedShot,0.8530000305175781,0.7269999694824218,0.026425331830978394,Jefferson Montero,a,715,OpenPlay,2015,RightFoot,425,Leicester,Swansea,4,0,2016-04-24 19:15:00,Alberto Paloschi,Pass
+57357,77,MissedShots,0.9630000305175781,0.41900001525878905,0.25656187534332275,André Ayew,a,713,FromCorner,2015,Head,425,Leicester,Swansea,4,0,2016-04-24 19:15:00,Ki Sung-yueng,Cross
+57364,86,BlockedShot,0.7559999847412109,0.5070000076293946,0.023384984582662582,Ashley Williams,a,709,OpenPlay,2015,RightFoot,425,Leicester,Swansea,4,0,2016-04-24 19:15:00,,BallRecovery
+57365,92,MissedShots,0.8780000305175781,0.7230000305175781,0.03734984248876572,André Ayew,a,713,OpenPlay,2015,LeftFoot,425,Leicester,Swansea,4,0,2016-04-24 19:15:00,Jack Cork,Pass

@@ -1,0 +1,28 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+285087,17,MissedShots,0.865,0.38599998474121094,0.3036205768585205,Dennis Praet,h,1234,OpenPlay,2018,RightFoot,9845,Sampdoria,Atalanta,1,2,2019-03-10 14:00:00,Jacopo Sala,Throughball
+285089,25,MissedShots,0.7530000305175781,0.44599998474121094,0.017046982422471046,Albin Ekdal,h,411,OpenPlay,2018,RightFoot,9845,Sampdoria,Atalanta,1,2,2019-03-10 14:00:00,Nicola Murru,TakeOn
+285090,29,MissedShots,0.8,0.4779999923706055,0.03702644631266594,Manolo Gabbiadini,h,1383,OpenPlay,2018,LeftFoot,9845,Sampdoria,Atalanta,1,2,2019-03-10 14:00:00,Fabio Quagliarella,Pass
+285092,30,BlockedShot,0.7919999694824219,0.7440000152587891,0.010038136504590511,Nicola Murru,h,1400,OpenPlay,2018,LeftFoot,9845,Sampdoria,Atalanta,1,2,2019-03-10 14:00:00,Dennis Praet,Chipped
+285097,40,SavedShot,0.889000015258789,0.53,0.39542263746261597,Karol Linetty,h,1226,OpenPlay,2018,RightFoot,9845,Sampdoria,Atalanta,1,2,2019-03-10 14:00:00,,None
+285098,41,SavedShot,0.7759999847412109,0.6370000076293946,0.023064754903316498,Dennis Praet,h,1234,OpenPlay,2018,RightFoot,9845,Sampdoria,Atalanta,1,2,2019-03-10 14:00:00,Manolo Gabbiadini,LayOff
+285099,46,SavedShot,0.8430000305175781,0.2560000038146973,0.027459807693958282,Manolo Gabbiadini,h,1383,OpenPlay,2018,LeftFoot,9845,Sampdoria,Atalanta,1,2,2019-03-10 14:00:00,Jacopo Sala,TakeOn
+285104,55,MissedShots,0.7619999694824219,0.30700000762939456,0.01860482431948185,Jacopo Sala,h,1221,OpenPlay,2018,RightFoot,9845,Sampdoria,Atalanta,1,2,2019-03-10 14:00:00,Karol Linetty,Pass
+285105,57,MissedShots,0.9159999847412109,0.6569999694824219,0.056633830070495605,Manolo Gabbiadini,h,1383,OpenPlay,2018,LeftFoot,9845,Sampdoria,Atalanta,1,2,2019-03-10 14:00:00,,None
+285106,66,Goal,0.885,0.5,0.7612988352775574,Fabio Quagliarella,h,1230,Penalty,2018,RightFoot,9845,Sampdoria,Atalanta,1,2,2019-03-10 14:00:00,,Standard
+285107,68,MissedShots,0.91,0.47299999237060547,0.048737961798906326,Omar Colley,h,7096,SetPiece,2018,Head,9845,Sampdoria,Atalanta,1,2,2019-03-10 14:00:00,Gastón Ramírez,Aerial
+285111,87,SavedShot,0.8930000305175781,0.515,0.18219034373760223,Albin Ekdal,h,411,OpenPlay,2018,Head,9845,Sampdoria,Atalanta,1,2,2019-03-10 14:00:00,Nicola Murru,Cross
+285112,90,SavedShot,0.9159999847412109,0.6580000305175782,0.06930209696292877,Gregoire Defrel,h,1468,OpenPlay,2018,LeftFoot,9845,Sampdoria,Atalanta,1,2,2019-03-10 14:00:00,Albin Ekdal,Pass
+285086,0,MissedShots,0.845,0.28100000381469725,0.026222867891192436,Josip Ilicic,a,1426,OpenPlay,2018,RightFoot,9845,Sampdoria,Atalanta,1,2,2019-03-10 14:00:00,Hans Hateboer,Pass
+285088,24,MissedShots,0.7530000305175781,0.38599998474121094,0.058179762214422226,Josip Ilicic,a,1426,DirectFreekick,2018,LeftFoot,9845,Sampdoria,Atalanta,1,2,2019-03-10 14:00:00,,Standard
+285091,30,SavedShot,0.9409999847412109,0.4420000076293945,0.12311803549528122,Duván Zapata,a,1148,OpenPlay,2018,RightFoot,9845,Sampdoria,Atalanta,1,2,2019-03-10 14:00:00,Hans Hateboer,Cross
+285093,32,MissedShots,0.925,0.5029999923706054,0.05372940003871918,Hans Hateboer,a,4941,FromCorner,2018,Head,9845,Sampdoria,Atalanta,1,2,2019-03-10 14:00:00,Alejandro Gomez,Aerial
+285094,33,MissedShots,0.95,0.5420000076293945,0.07260829955339432,Gianluca Mancini,a,6159,FromCorner,2018,Head,9845,Sampdoria,Atalanta,1,2,2019-03-10 14:00:00,Alejandro Gomez,Aerial
+285095,34,BlockedShot,0.735,0.47,0.017150362953543663,Alejandro Gomez,a,1491,OpenPlay,2018,RightFoot,9845,Sampdoria,Atalanta,1,2,2019-03-10 14:00:00,Duván Zapata,BallRecovery
+285096,39,MissedShots,0.9030000305175782,0.49,0.04885861650109291,Duván Zapata,a,1148,OpenPlay,2018,Head,9845,Sampdoria,Atalanta,1,2,2019-03-10 14:00:00,Gianluca Mancini,Aerial
+285100,46,SavedShot,0.9269999694824219,0.34700000762939454,0.12028465420007706,Josip Ilicic,a,1426,OpenPlay,2018,RightFoot,9845,Sampdoria,Atalanta,1,2,2019-03-10 14:00:00,Alejandro Gomez,Throughball
+285101,47,ShotOnPost,0.9680000305175781,0.6,0.3621218502521515,Robin Gosens,a,6155,OpenPlay,2018,LeftFoot,9845,Sampdoria,Atalanta,1,2,2019-03-10 14:00:00,Hans Hateboer,Pass
+285102,49,Goal,0.9069999694824219,0.49599998474121093,0.4483184516429901,Duván Zapata,a,1148,OpenPlay,2018,RightFoot,9845,Sampdoria,Atalanta,1,2,2019-03-10 14:00:00,Josip Ilicic,Pass
+285103,55,MissedShots,0.755,0.580999984741211,0.03183469921350479,Remo Freuler,a,1488,OpenPlay,2018,LeftFoot,9845,Sampdoria,Atalanta,1,2,2019-03-10 14:00:00,,None
+285108,69,MissedShots,0.8109999847412109,0.26399999618530273,0.017290186136960983,Josip Ilicic,a,1426,OpenPlay,2018,LeftFoot,9845,Sampdoria,Atalanta,1,2,2019-03-10 14:00:00,Duván Zapata,Pass
+285109,76,SavedShot,0.9359999847412109,0.4620000076293945,0.43301281332969666,Mario Pasalic,a,1134,OpenPlay,2018,Head,9845,Sampdoria,Atalanta,1,2,2019-03-10 14:00:00,Robin Gosens,Cross
+285110,76,Goal,0.9740000152587891,0.6140000152587891,0.07842963933944702,Robin Gosens,a,6155,OpenPlay,2018,LeftFoot,9845,Sampdoria,Atalanta,1,2,2019-03-10 14:00:00,,None

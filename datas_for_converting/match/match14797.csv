@@ -1,0 +1,25 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+423215,3,MissedShots,0.905,0.639000015258789,0.09466461092233658,Ben Chilwell,h,782,OpenPlay,2020,LeftFoot,14797,Chelsea,Leicester,2,1,2021-05-18 19:15:00,Timo Werner,Pass
+423216,5,MissedShots,0.740999984741211,0.3390000152587891,0.01688983105123043,Reece James,h,8067,OpenPlay,2020,RightFoot,14797,Chelsea,Leicester,2,1,2021-05-18 19:15:00,Mason Mount,Pass
+423217,8,SavedShot,0.905,0.295,0.05455087125301361,N&#039;Golo Kanté,h,751,OpenPlay,2020,RightFoot,14797,Chelsea,Leicester,2,1,2021-05-18 19:15:00,Christian Pulisic,Pass
+423218,8,BlockedShot,0.840999984741211,0.455,0.07079525291919708,Christian Pulisic,h,2662,OpenPlay,2020,RightFoot,14797,Chelsea,Leicester,2,1,2021-05-18 19:15:00,N&#039;Golo Kanté,Pass
+423220,27,SavedShot,0.914000015258789,0.6519999694824219,0.06571367383003235,Mason Mount,h,7768,OpenPlay,2020,RightFoot,14797,Chelsea,Leicester,2,1,2021-05-18 19:15:00,,None
+423221,28,MissedShots,0.965,0.4879999923706055,0.09713790565729141,Thiago Silva,h,3288,FromCorner,2020,Head,14797,Chelsea,Leicester,2,1,2021-05-18 19:15:00,Ben Chilwell,Aerial
+423222,32,BlockedShot,0.9319999694824219,0.3220000076293945,0.11430966109037399,Timo Werner,h,65,OpenPlay,2020,RightFoot,14797,Chelsea,Leicester,2,1,2021-05-18 19:15:00,Jorginho,Throughball
+423223,33,BlockedShot,0.7419999694824219,0.585,0.012159278616309166,Reece James,h,8067,FromCorner,2020,RightFoot,14797,Chelsea,Leicester,2,1,2021-05-18 19:15:00,Jorginho,HeadPass
+423224,36,MissedShots,0.8730000305175781,0.4159999847412109,0.09118252247571945,Mason Mount,h,7768,OpenPlay,2020,RightFoot,14797,Chelsea,Leicester,2,1,2021-05-18 19:15:00,César Azpilicueta,Pass
+423225,38,BlockedShot,0.885,0.4329999923706055,0.11475688219070435,Timo Werner,h,65,OpenPlay,2020,RightFoot,14797,Chelsea,Leicester,2,1,2021-05-18 19:15:00,César Azpilicueta,Pass
+423226,42,SavedShot,0.975999984741211,0.415,0.43298622965812683,Christian Pulisic,h,2662,OpenPlay,2020,LeftFoot,14797,Chelsea,Leicester,2,1,2021-05-18 19:15:00,Mason Mount,Pass
+423227,46,Goal,0.970999984741211,0.5220000076293946,0.6888130903244019,Antonio Rüdiger,h,1822,FromCorner,2020,LeftFoot,14797,Chelsea,Leicester,2,1,2021-05-18 19:15:00,,None
+423228,63,SavedShot,0.884000015258789,0.6569999694824219,0.09717310965061188,Timo Werner,h,65,OpenPlay,2020,LeftFoot,14797,Chelsea,Leicester,2,1,2021-05-18 19:15:00,Mateo Kovacic,Pass
+423229,65,Goal,0.885,0.5,0.7611688375473022,Jorginho,h,1389,Penalty,2020,RightFoot,14797,Chelsea,Leicester,2,1,2021-05-18 19:15:00,,Standard
+423234,78,BlockedShot,0.8580000305175781,0.5570000076293945,0.01400888990610838,Thiago Silva,h,3288,SetPiece,2020,Head,14797,Chelsea,Leicester,2,1,2021-05-18 19:15:00,,Aerial
+423235,78,MissedShots,0.895,0.6519999694824219,0.05602345988154411,Timo Werner,h,65,SetPiece,2020,RightFoot,14797,Chelsea,Leicester,2,1,2021-05-18 19:15:00,,Rebound
+423237,85,BlockedShot,0.95,0.5159999847412109,0.07993938773870468,Thiago Silva,h,3288,FromCorner,2020,Head,14797,Chelsea,Leicester,2,1,2021-05-18 19:15:00,Reece James,Aerial
+423219,24,MissedShots,0.925,0.4640000152587891,0.11413706094026566,Jamie Vardy,a,755,FromCorner,2020,LeftFoot,14797,Chelsea,Leicester,2,1,2021-05-18 19:15:00,,None
+423230,68,BlockedShot,0.9080000305175782,0.5479999923706055,0.047229912132024765,Jamie Vardy,a,755,OpenPlay,2020,Head,14797,Chelsea,Leicester,2,1,2021-05-18 19:15:00,Youri Tielemans,Chipped
+423231,70,SavedShot,0.745,0.5640000152587891,0.017802270129323006,Ayoze Pérez,a,770,OpenPlay,2020,RightFoot,14797,Chelsea,Leicester,2,1,2021-05-18 19:15:00,Kelechi Iheanacho,Pass
+423232,75,MissedShots,0.8080000305175781,0.5259999847412109,0.03528599441051483,Kelechi Iheanacho,a,620,OpenPlay,2020,LeftFoot,14797,Chelsea,Leicester,2,1,2021-05-18 19:15:00,,None
+423233,75,Goal,0.855999984741211,0.49700000762939456,0.29627251625061035,Kelechi Iheanacho,a,620,OpenPlay,2020,LeftFoot,14797,Chelsea,Leicester,2,1,2021-05-18 19:15:00,Wilfred Ndidi,Pass
+423236,80,SavedShot,0.6840000152587891,0.40900001525878904,0.0073989746160805225,Kelechi Iheanacho,a,620,OpenPlay,2020,LeftFoot,14797,Chelsea,Leicester,2,1,2021-05-18 19:15:00,Ricardo Pereira,TakeOn
+423238,89,MissedShots,0.8819999694824219,0.55,0.3144689202308655,Ayoze Pérez,a,770,OpenPlay,2020,RightFoot,14797,Chelsea,Leicester,2,1,2021-05-18 19:15:00,Ricardo Pereira,Cross

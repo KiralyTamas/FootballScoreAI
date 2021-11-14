@@ -1,0 +1,20 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+109300,0,BlockedShot,0.9,0.5609999847412109,0.06309214234352112,Kamil Glik,h,1800,FromCorner,2016,Head,4221,Monaco,Saint-Etienne,2,0,2017-05-17 20:00:00,João Moutinho,Cross
+109301,4,MissedShots,0.9580000305175781,0.705,0.043593693524599075,Falcao,h,696,OpenPlay,2016,LeftFoot,4221,Monaco,Saint-Etienne,2,0,2017-05-17 20:00:00,Fabinho,Chipped
+109303,17,SavedShot,0.9030000305175782,0.34799999237060547,0.08874375373125076,Kylian Mbappe-Lottin,h,3423,OpenPlay,2016,RightFoot,4221,Monaco,Saint-Etienne,2,0,2017-05-17 20:00:00,Bernardo Silva,Pass
+109304,17,BlockedShot,0.7630000305175781,0.3,0.01838804967701435,Bernardo Silva,h,3635,FromCorner,2016,LeftFoot,4221,Monaco,Saint-Etienne,2,0,2017-05-17 20:00:00,João Moutinho,Pass
+109305,18,Goal,0.9690000152587891,0.595999984741211,0.8481633067131042,Kylian Mbappe-Lottin,h,3423,OpenPlay,2016,LeftFoot,4221,Monaco,Saint-Etienne,2,0,2017-05-17 20:00:00,Falcao,TakeOn
+109306,30,BlockedShot,0.9159999847412109,0.5779999923706055,0.11352266371250153,Falcao,h,696,OpenPlay,2016,LeftFoot,4221,Monaco,Saint-Etienne,2,0,2017-05-17 20:00:00,,None
+109308,46,MissedShots,0.740999984741211,0.4540000152587891,0.027645211666822433,Falcao,h,696,OpenPlay,2016,LeftFoot,4221,Monaco,Saint-Etienne,2,0,2017-05-17 20:00:00,,BallRecovery
+109309,48,MissedShots,0.7190000152587891,0.8219999694824218,0.012985100969672203,Thomas Lemar,h,3425,OpenPlay,2016,LeftFoot,4221,Monaco,Saint-Etienne,2,0,2017-05-17 20:00:00,Fabinho,Pass
+109310,51,SavedShot,0.8980000305175782,0.500999984741211,0.251938134431839,Falcao,h,696,FromCorner,2016,Head,4221,Monaco,Saint-Etienne,2,0,2017-05-17 20:00:00,Thomas Lemar,Cross
+109311,54,BlockedShot,0.9269999694824219,0.7240000152587891,0.05845274403691292,Benjamin Mendy,h,3389,OpenPlay,2016,LeftFoot,4221,Monaco,Saint-Etienne,2,0,2017-05-17 20:00:00,,None
+109314,72,MissedShots,0.9159999847412109,0.41200000762939454,0.04000089690089226,Falcao,h,696,FromCorner,2016,Head,4221,Monaco,Saint-Etienne,2,0,2017-05-17 20:00:00,,None
+109315,73,MissedShots,0.95,0.5709999847412109,0.5395472049713135,Valère Germain,h,3309,OpenPlay,2016,RightFoot,4221,Monaco,Saint-Etienne,2,0,2017-05-17 20:00:00,Kylian Mbappe-Lottin,Pass
+109316,82,SavedShot,0.7319999694824219,0.37599998474121094,0.025193221867084503,Valère Germain,h,3309,OpenPlay,2016,RightFoot,4221,Monaco,Saint-Etienne,2,0,2017-05-17 20:00:00,Fabinho,Pass
+109318,92,Goal,0.92,0.4620000076293945,0.628244936466217,Valère Germain,h,3309,OpenPlay,2016,RightFoot,4221,Monaco,Saint-Etienne,2,0,2017-05-17 20:00:00,Thomas Lemar,Pass
+109302,8,MissedShots,0.8469999694824218,0.33599998474121096,0.03776050731539726,Digbo Maiga,a,5686,OpenPlay,2016,LeftFoot,4221,Monaco,Saint-Etienne,2,0,2017-05-17 20:00:00,Alexander Søderlund,TakeOn
+109307,33,SavedShot,0.91,0.5420000076293945,0.026872029528021812,Florentin Pogba,a,3505,FromCorner,2016,Head,4221,Monaco,Saint-Etienne,2,0,2017-05-17 20:00:00,Jordan Veretout,Aerial
+109312,54,SavedShot,0.889000015258789,0.32599998474121095,0.13409173488616943,Arnaud Nordin,a,5684,OpenPlay,2016,LeftFoot,4221,Monaco,Saint-Etienne,2,0,2017-05-17 20:00:00,Kévin Théophile-Catherine,TakeOn
+109313,58,SavedShot,0.9059999847412109,0.5459999847412109,0.0983942523598671,Henri Saivet,a,778,FromCorner,2016,LeftFoot,4221,Monaco,Saint-Etienne,2,0,2017-05-17 20:00:00,Leo Lacroix,None
+109317,86,MissedShots,0.9169999694824219,0.4209999847412109,0.05752076581120491,Kenny Rocha Santos,a,5709,FromCorner,2016,Head,4221,Monaco,Saint-Etienne,2,0,2017-05-17 20:00:00,Jordan Veretout,Cross

@@ -1,0 +1,25 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+6052,4,BlockedShot,0.7440000152587891,0.4979999923706055,0.013729259371757507,Vincent Bessat,h,3525,SetPiece,2014,LeftFoot,6101,Nantes,Saint-Etienne,0,0,2014-11-23 13:00:00,,None
+6053,5,SavedShot,0.8630000305175781,0.4520000076293945,0.02611348405480385,Itay Shechter,h,4836,OpenPlay,2014,Head,6101,Nantes,Saint-Etienne,0,0,2014-11-23 13:00:00,Papy Djilobodji,Cross
+6055,10,SavedShot,0.7530000305175781,0.705999984741211,0.012065383605659008,Olivier Veigneau,h,3804,OpenPlay,2014,RightFoot,6101,Nantes,Saint-Etienne,0,0,2014-11-23 13:00:00,,None
+6057,18,BlockedShot,0.8169999694824219,0.325,0.0320497564971447,Georges-Kévin Nkoudou,h,1729,OpenPlay,2014,LeftFoot,6101,Nantes,Saint-Etienne,0,0,2014-11-23 13:00:00,Lucas Deaux,Chipped
+6060,33,SavedShot,0.9169999694824219,0.38799999237060545,0.014180582016706467,Papy Djilobodji,h,1071,FromCorner,2014,Head,6101,Nantes,Saint-Etienne,0,0,2014-11-23 13:00:00,Vincent Bessat,Aerial
+6061,33,MissedShots,0.925,0.40900001525878904,0.041446708142757416,Yacine Bammou,h,3410,OpenPlay,2014,Head,6101,Nantes,Saint-Etienne,0,0,2014-11-23 13:00:00,Vincent Bessat,Aerial
+6062,36,SavedShot,0.89,0.445,0.3063793480396271,Yacine Bammou,h,3410,OpenPlay,2014,LeftFoot,6101,Nantes,Saint-Etienne,0,0,2014-11-23 13:00:00,Georges-Kévin Nkoudou,Cross
+6064,55,SavedShot,0.8059999847412109,0.525,0.04751879349350929,Itay Shechter,h,4836,OpenPlay,2014,RightFoot,6101,Nantes,Saint-Etienne,0,0,2014-11-23 13:00:00,,None
+6067,66,SavedShot,0.7240000152587891,0.24799999237060547,0.031740453094244,Papy Djilobodji,h,1071,DirectFreekick,2014,LeftFoot,6101,Nantes,Saint-Etienne,0,0,2014-11-23 13:00:00,,Standard
+6069,76,SavedShot,0.8109999847412109,0.25299999237060544,0.022463932633399963,Georges-Kévin Nkoudou,h,1729,OpenPlay,2014,LeftFoot,6101,Nantes,Saint-Etienne,0,0,2014-11-23 13:00:00,Jordan Veretout,Pass
+6070,76,MissedShots,0.9619999694824218,0.504000015258789,0.514015257358551,Oswaldo Vizcarrondo,h,3401,FromCorner,2014,RightFoot,6101,Nantes,Saint-Etienne,0,0,2014-11-23 13:00:00,Jordan Veretout,Cross
+6051,2,SavedShot,0.905,0.6880000305175781,0.0534319169819355,Kévin Monnet-Paquet,a,3513,OpenPlay,2014,RightFoot,6101,Nantes,Saint-Etienne,0,0,2014-11-23 13:00:00,,None
+6054,7,SavedShot,0.860999984741211,0.5370000076293945,0.0418846495449543,Benjamin Corgnet,a,3514,OpenPlay,2014,RightFoot,6101,Nantes,Saint-Etienne,0,0,2014-11-23 13:00:00,Kévin Théophile-Catherine,Aerial
+6056,16,SavedShot,0.8869999694824219,0.46,0.05615035817027092,Ricky van Wolfswinkel,a,1012,OpenPlay,2014,Head,6101,Nantes,Saint-Etienne,0,0,2014-11-23 13:00:00,Franck Tabanou,Cross
+6058,24,ShotOnPost,0.8880000305175781,0.555,0.37952813506126404,Kévin Monnet-Paquet,a,3513,OpenPlay,2014,LeftFoot,6101,Nantes,Saint-Etienne,0,0,2014-11-23 13:00:00,Romain Hamouma,Pass
+6059,28,MissedShots,0.9080000305175782,0.47400001525878904,0.307119220495224,Moustapha Bayal Sall,a,3506,SetPiece,2014,Head,6101,Nantes,Saint-Etienne,0,0,2014-11-23 13:00:00,Romain Hamouma,Cross
+6063,50,MissedShots,0.9719999694824218,0.2610000038146973,0.04626551643013954,Ricky van Wolfswinkel,a,1012,OpenPlay,2014,RightFoot,6101,Nantes,Saint-Etienne,0,0,2014-11-23 13:00:00,Benjamin Corgnet,HeadPass
+6065,59,MissedShots,0.8130000305175781,0.4929999923706055,0.061815086752176285,Benjamin Corgnet,a,3514,OpenPlay,2014,RightFoot,6101,Nantes,Saint-Etienne,0,0,2014-11-23 13:00:00,Romain Hamouma,Pass
+6066,63,BlockedShot,0.8140000152587891,0.5120000076293946,0.052413396537303925,Max Gradel,a,464,OpenPlay,2014,LeftFoot,6101,Nantes,Saint-Etienne,0,0,2014-11-23 13:00:00,Ricky van Wolfswinkel,Pass
+6068,72,MissedShots,0.7559999847412109,0.3170000076293945,0.017477525398135185,Max Gradel,a,464,OpenPlay,2014,RightFoot,6101,Nantes,Saint-Etienne,0,0,2014-11-23 13:00:00,Kévin Monnet-Paquet,HeadPass
+6071,85,MissedShots,0.915,0.515,0.12030483782291412,Moustapha Bayal Sall,a,3506,SetPiece,2014,Head,6101,Nantes,Saint-Etienne,0,0,2014-11-23 13:00:00,Romain Hamouma,Cross
+6072,87,SavedShot,0.855999984741211,0.6880000305175781,0.04332157224416733,Max Gradel,a,464,OpenPlay,2014,RightFoot,6101,Nantes,Saint-Etienne,0,0,2014-11-23 13:00:00,Kévin Monnet-Paquet,Pass
+6073,92,SavedShot,0.9540000152587891,0.62,0.283079594373703,Romain Hamouma,a,3561,OpenPlay,2014,RightFoot,6101,Nantes,Saint-Etienne,0,0,2014-11-23 13:00:00,Max Gradel,Cross
+6074,92,MissedShots,0.7019999694824218,0.07699999809265137,0.010260306298732758,Renaud Cohade,a,3560,OpenPlay,2014,RightFoot,6101,Nantes,Saint-Etienne,0,0,2014-11-23 13:00:00,Fabien Lemoine,Pass

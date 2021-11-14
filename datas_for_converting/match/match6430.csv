@@ -1,0 +1,22 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+8922,1,BlockedShot,0.8830000305175781,0.455,0.04620574042201042,Kevin Kurányi,h,255,OpenPlay,2014,Head,6430,Dinamo Moscow,Spartak Moscow,1,2,2014-08-10 10:30:00,Balázs Dzsudzsák,Cross
+8923,2,Goal,0.855,0.46599998474121096,0.06544109433889389,Aleksandr Kokorin,h,3066,OpenPlay,2014,RightFoot,6430,Dinamo Moscow,Spartak Moscow,1,2,2014-08-10 10:30:00,,Rebound
+8924,3,BlockedShot,0.740999984741211,0.3029999923706055,0.016113877296447754,Vladimir Granat,h,2827,OpenPlay,2014,RightFoot,6430,Dinamo Moscow,Spartak Moscow,1,2,2014-08-10 10:30:00,,None
+8925,9,MissedShots,0.730999984741211,0.21600000381469728,0.008232329040765762,Stanislav Manolev,h,2738,OpenPlay,2014,RightFoot,6430,Dinamo Moscow,Spartak Moscow,1,2,2014-08-10 10:30:00,Balázs Dzsudzsák,Chipped
+8926,13,MissedShots,0.7140000152587891,0.3139999961853027,0.01401809137314558,Stanislav Manolev,h,2738,OpenPlay,2014,RightFoot,6430,Dinamo Moscow,Spartak Moscow,1,2,2014-08-10 10:30:00,William Vainqueur,BallRecovery
+8928,24,SavedShot,0.7609999847412109,0.6029999923706054,0.02810944803059101,Balázs Dzsudzsák,h,3187,OpenPlay,2014,RightFoot,6430,Dinamo Moscow,Spartak Moscow,1,2,2014-08-10 10:30:00,,TakeOn
+8929,43,MissedShots,0.7830000305175782,0.24899999618530275,0.01679382286965847,Aleksey Ionov,h,2751,OpenPlay,2014,LeftFoot,6430,Dinamo Moscow,Spartak Moscow,1,2,2014-08-10 10:30:00,Igor Denisov,Pass
+8933,56,BlockedShot,0.8159999847412109,0.3139999961853027,0.026704324409365654,Aleksey Ionov,h,2751,FromCorner,2014,RightFoot,6430,Dinamo Moscow,Spartak Moscow,1,2,2014-08-10 10:30:00,Balázs Dzsudzsák,Cross
+8934,58,SavedShot,0.919000015258789,0.46099998474121096,0.0516447015106678,Christopher Samba,h,2746,SetPiece,2014,Head,6430,Dinamo Moscow,Spartak Moscow,1,2,2014-08-10 10:30:00,Balázs Dzsudzsák,Aerial
+8935,59,BlockedShot,0.730999984741211,0.575,0.014222877100110054,Alexander Buttner,h,3188,FromCorner,2014,LeftFoot,6430,Dinamo Moscow,Spartak Moscow,1,2,2014-08-10 10:30:00,,None
+8936,72,SavedShot,0.7759999847412109,0.5670000076293945,0.025032471865415573,Mathieu Valbuena,h,3186,SetPiece,2014,RightFoot,6430,Dinamo Moscow,Spartak Moscow,1,2,2014-08-10 10:30:00,Yuri Zhirkov,Pass
+8937,75,MissedShots,0.7719999694824219,0.57,0.012076865881681442,William Vainqueur,h,1944,OpenPlay,2014,RightFoot,6430,Dinamo Moscow,Spartak Moscow,1,2,2014-08-10 10:30:00,,Aerial
+8938,84,SavedShot,0.774000015258789,0.26,0.016080254688858986,Mathieu Valbuena,h,3186,OpenPlay,2014,RightFoot,6430,Dinamo Moscow,Spartak Moscow,1,2,2014-08-10 10:30:00,Aleksandr Kokorin,Pass
+8939,84,MissedShots,0.8859999847412109,0.465,0.047370102256536484,Kevin Kurányi,h,255,OpenPlay,2014,Head,6430,Dinamo Moscow,Spartak Moscow,1,2,2014-08-10 10:30:00,Aleksey Ionov,Cross
+8940,89,SavedShot,0.785,0.5459999847412109,0.03307327628135681,Mathieu Valbuena,h,3186,OpenPlay,2014,RightFoot,6430,Dinamo Moscow,Spartak Moscow,1,2,2014-08-10 10:30:00,,None
+8941,94,SavedShot,0.8,0.3509999847412109,0.028069881722331047,Igor Denisov,h,2749,OpenPlay,2014,RightFoot,6430,Dinamo Moscow,Spartak Moscow,1,2,2014-08-10 10:30:00,Kevin Kurányi,Pass
+8942,95,MissedShots,0.8930000305175781,0.5670000076293945,0.024021029472351074,Aleksandr Kokorin,h,3066,FromCorner,2014,Head,6430,Dinamo Moscow,Spartak Moscow,1,2,2014-08-10 10:30:00,Mathieu Valbuena,Chipped
+8927,16,Goal,0.84,0.38,0.26208487153053284,Artem Dzyuba,a,3063,OpenPlay,2014,RightFoot,6430,Dinamo Moscow,Spartak Moscow,1,2,2014-08-10 10:30:00,Tino Costa,Chipped
+8930,46,MissedShots,0.9430000305175781,0.54,0.1339477151632309,Kim Källström,a,4590,SetPiece,2014,Head,6430,Dinamo Moscow,Spartak Moscow,1,2,2014-08-10 10:30:00,Jano Ananidze,Cross
+8931,50,SavedShot,0.9369999694824219,0.4520000076293945,0.13337208330631256,Artem Dzyuba,a,3063,OpenPlay,2014,Head,6430,Dinamo Moscow,Spartak Moscow,1,2,2014-08-10 10:30:00,Dmitri Kombarov,Cross
+8932,50,Goal,0.98,0.45599998474121095,0.8100335001945496,Artem Dzyuba,a,3063,OpenPlay,2014,RightFoot,6430,Dinamo Moscow,Spartak Moscow,1,2,2014-08-10 10:30:00,,Rebound

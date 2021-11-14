@@ -1,0 +1,40 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+95897,1,Goal,0.899000015258789,0.445,0.4037829041481018,Alberto Gilardino,h,1552,OpenPlay,2015,LeftFoot,797,Palermo,Torino,1,3,2016-02-14 18:00:00,Michel Morganella,Pass
+95899,8,BlockedShot,0.7659999847412109,0.27399999618530274,0.019236396998167038,Michel Morganella,h,1267,OpenPlay,2015,RightFoot,797,Palermo,Torino,1,3,2016-02-14 18:00:00,Robin Quaison,Pass
+95900,8,BlockedShot,0.8719999694824219,0.34700000762939454,0.0612209290266037,Alberto Gilardino,h,1552,OpenPlay,2015,RightFoot,797,Palermo,Torino,1,3,2016-02-14 18:00:00,,Rebound
+95903,21,BlockedShot,0.8290000152587891,0.28299999237060547,0.025518180802464485,Robin Quaison,h,1275,OpenPlay,2015,LeftFoot,797,Palermo,Torino,1,3,2016-02-14 18:00:00,Franco Vázquez,Pass
+95905,25,MissedShots,0.7040000152587891,0.509000015258789,0.011068664491176605,Oscar Hiljemark,h,1284,OpenPlay,2015,RightFoot,797,Palermo,Torino,1,3,2016-02-14 18:00:00,,None
+95907,30,OwnGoal,0.06300000190734863,0.445,0,Giancarlo Gonzalez,h,1534,OpenPlay,2015,RightFoot,797,Palermo,Torino,1,3,2016-02-14 18:00:00,,BallTouch
+95908,32,SavedShot,0.9730000305175781,0.2520000076293945,0.032460231333971024,Franco Vázquez,h,1836,FromCorner,2015,LeftFoot,797,Palermo,Torino,1,3,2016-02-14 18:00:00,,TakeOn
+95910,40,MissedShots,0.794000015258789,0.25299999237060544,0.051396362483501434,Franco Vázquez,h,1836,DirectFreekick,2015,LeftFoot,797,Palermo,Torino,1,3,2016-02-14 18:00:00,,Standard
+95911,41,MissedShots,0.775,0.5670000076293945,0.029143469408154488,Franco Vázquez,h,1836,OpenPlay,2015,LeftFoot,797,Palermo,Torino,1,3,2016-02-14 18:00:00,Gastón Brugman,Pass
+95912,47,MissedShots,0.865999984741211,0.664000015258789,0.058961812406778336,Ivaylo Chochev,h,1271,OpenPlay,2015,LeftFoot,797,Palermo,Torino,1,3,2016-02-14 18:00:00,Oscar Hiljemark,Pass
+95913,49,MissedShots,0.895,0.44299999237060544,0.039016131311655045,Ivaylo Chochev,h,1271,FromCorner,2015,Head,797,Palermo,Torino,1,3,2016-02-14 18:00:00,Robin Quaison,Cross
+95920,54,BlockedShot,0.8159999847412109,0.54,0.045963626354932785,Ivaylo Chochev,h,1271,OpenPlay,2015,LeftFoot,797,Palermo,Torino,1,3,2016-02-14 18:00:00,Oscar Hiljemark,None
+95921,54,SavedShot,0.9290000152587891,0.34700000762939454,0.04273529723286629,Alberto Gilardino,h,1552,OpenPlay,2015,RightFoot,797,Palermo,Torino,1,3,2016-02-14 18:00:00,Franco Vázquez,Cross
+95922,55,SavedShot,0.7759999847412109,0.6370000076293946,0.022456536069512367,Robin Quaison,h,1275,OpenPlay,2015,RightFoot,797,Palermo,Torino,1,3,2016-02-14 18:00:00,,None
+95923,58,MissedShots,0.8769999694824219,0.4329999923706055,0.06823363900184631,Alberto Gilardino,h,1552,OpenPlay,2015,LeftFoot,797,Palermo,Torino,1,3,2016-02-14 18:00:00,,Dispossessed
+95924,60,BlockedShot,0.740999984741211,0.42,0.019642852246761322,Gastón Brugman,h,1165,OpenPlay,2015,RightFoot,797,Palermo,Torino,1,3,2016-02-14 18:00:00,Michel Morganella,Pass
+95925,60,MissedShots,0.7480000305175781,0.35700000762939454,0.010254006832838058,Gastón Brugman,h,1165,OpenPlay,2015,LeftFoot,797,Palermo,Torino,1,3,2016-02-14 18:00:00,,Aerial
+95928,65,MissedShots,0.7580000305175781,0.6580000305175782,0.012117947451770306,Gastón Brugman,h,1165,SetPiece,2015,RightFoot,797,Palermo,Torino,1,3,2016-02-14 18:00:00,,None
+95932,70,SavedShot,0.775,0.4640000152587891,0.03434218466281891,Franco Vázquez,h,1836,OpenPlay,2015,LeftFoot,797,Palermo,Torino,1,3,2016-02-14 18:00:00,Oscar Hiljemark,TakeOn
+95898,3,MissedShots,0.914000015258789,0.52,0.04047846794128418,Ciro Immobile,a,1209,OpenPlay,2015,Head,797,Palermo,Torino,1,3,2016-02-14 18:00:00,Daniele Baselli,Aerial
+95901,10,MissedShots,0.985999984741211,0.7140000152587891,0.047592371702194214,Ciro Immobile,a,1209,OpenPlay,2015,LeftFoot,797,Palermo,Torino,1,3,2016-02-14 18:00:00,Andrea Belotti,TakeOn
+95902,18,Goal,0.885,0.5,0.7612988352775574,Ciro Immobile,a,1209,Penalty,2015,RightFoot,797,Palermo,Torino,1,3,2016-02-14 18:00:00,,Standard
+95904,22,MissedShots,0.9,0.5559999847412109,0.5612046718597412,Andrea Belotti,a,1186,OpenPlay,2015,LeftFoot,797,Palermo,Torino,1,3,2016-02-14 18:00:00,Ciro Immobile,Pass
+95906,27,MissedShots,0.875,0.385,0.07503707706928253,Andrea Belotti,a,1186,OpenPlay,2015,RightFoot,797,Palermo,Torino,1,3,2016-02-14 18:00:00,Nikola Maksimovic,BallRecovery
+95909,32,MissedShots,0.8109999847412109,0.695,0.036108747124671936,Ciro Immobile,a,1209,OpenPlay,2015,RightFoot,797,Palermo,Torino,1,3,2016-02-14 18:00:00,Bruno Peres,Chipped
+95914,46,SavedShot,0.8530000305175781,0.4829999923706055,0.13773226737976074,Marco Benassi,a,1183,OpenPlay,2015,LeftFoot,797,Palermo,Torino,1,3,2016-02-14 18:00:00,Ciro Immobile,Pass
+95915,46,BlockedShot,0.96,0.425,0.30528074502944946,Emiliano Moretti,a,1196,FromCorner,2015,Head,797,Palermo,Torino,1,3,2016-02-14 18:00:00,Daniele Baselli,Cross
+95916,48,SavedShot,0.75,0.5770000076293945,0.03058191016316414,Bruno Peres,a,1567,OpenPlay,2015,RightFoot,797,Palermo,Torino,1,3,2016-02-14 18:00:00,Emiliano Moretti,TakeOn
+95917,50,BlockedShot,0.7290000152587891,0.41200000762939454,0.022433001548051834,Davide Zappacosta,a,1178,OpenPlay,2015,LeftFoot,797,Palermo,Torino,1,3,2016-02-14 18:00:00,Andrea Belotti,Pass
+95918,50,MissedShots,0.9330000305175781,0.32,0.010133379139006138,Davide Zappacosta,a,1178,OpenPlay,2015,Head,797,Palermo,Torino,1,3,2016-02-14 18:00:00,Ciro Immobile,Cross
+95919,53,BlockedShot,0.815,0.4520000076293945,0.06397811323404312,Andrea Belotti,a,1186,OpenPlay,2015,RightFoot,797,Palermo,Torino,1,3,2016-02-14 18:00:00,Ciro Immobile,Pass
+95926,61,SavedShot,0.8540000152587891,0.3129999923706055,0.05927955359220505,Marco Benassi,a,1183,OpenPlay,2015,LeftFoot,797,Palermo,Torino,1,3,2016-02-14 18:00:00,Ciro Immobile,Pass
+95927,62,MissedShots,0.9630000305175781,0.3840000152587891,0.06656345725059509,Kamil Glik,a,1800,SetPiece,2015,RightFoot,797,Palermo,Torino,1,3,2016-02-14 18:00:00,Ciro Immobile,Cross
+95929,65,SavedShot,0.9459999847412109,0.6020000076293945,0.4059131145477295,Ciro Immobile,a,1209,OpenPlay,2015,LeftFoot,797,Palermo,Torino,1,3,2016-02-14 18:00:00,Andrea Belotti,Chipped
+95930,66,SavedShot,0.9030000305175782,0.5120000076293946,0.0686524510383606,Kamil Glik,a,1800,FromCorner,2015,Head,797,Palermo,Torino,1,3,2016-02-14 18:00:00,Daniele Baselli,Cross
+95931,68,Goal,0.955999984741211,0.664000015258789,0.08834309875965118,Ciro Immobile,a,1209,OpenPlay,2015,LeftFoot,797,Palermo,Torino,1,3,2016-02-14 18:00:00,Marco Benassi,Pass
+95933,74,BlockedShot,0.895,0.5940000152587891,0.13172277808189392,Ciro Immobile,a,1209,OpenPlay,2015,LeftFoot,797,Palermo,Torino,1,3,2016-02-14 18:00:00,Nikola Maksimovic,Pass
+95934,84,MissedShots,0.8630000305175781,0.645,0.06707840412855148,Andrea Belotti,a,1186,OpenPlay,2015,LeftFoot,797,Palermo,Torino,1,3,2016-02-14 18:00:00,Gastón Silva,BallRecovery
+95935,92,MissedShots,0.7980000305175782,0.24,0.03146662190556526,Josef Martínez,a,1198,OpenPlay,2015,RightFoot,797,Palermo,Torino,1,3,2016-02-14 18:00:00,Marco Benassi,Pass

@@ -1,0 +1,29 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+382045,29,BlockedShot,0.7180000305175781,0.5829999923706055,0.013788198120892048,Christian Gebauer,h,8796,FromCorner,2020,RightFoot,15172,Arminia Bielefeld,Bayern Munich,1,4,2020-10-17 16:30:00,,None
+382046,30,SavedShot,0.9180000305175782,0.5059999847412109,0.4345158040523529,Fabian Klos,h,8792,OpenPlay,2020,RightFoot,15172,Arminia Bielefeld,Bayern Munich,1,4,2020-10-17 16:30:00,,None
+382047,32,SavedShot,0.7709999847412109,0.38,0.027681199833750725,Ritsu Doan,h,8791,OpenPlay,2020,LeftFoot,15172,Arminia Bielefeld,Bayern Munich,1,4,2020-10-17 16:30:00,Fabian Kunze,BallRecovery
+382050,42,SavedShot,0.78,0.285,0.019213944673538208,Ritsu Doan,h,8791,OpenPlay,2020,LeftFoot,15172,Arminia Bielefeld,Bayern Munich,1,4,2020-10-17 16:30:00,Marcel Hartel,Pass
+382052,46,SavedShot,0.9290000152587891,0.325,0.2843000292778015,Christian Gebauer,h,8796,OpenPlay,2020,RightFoot,15172,Arminia Bielefeld,Bayern Munich,1,4,2020-10-17 16:30:00,Ritsu Doan,Throughball
+382053,47,MissedShots,0.9230000305175782,0.5029999923706054,0.054270729422569275,Mike van der Hoorn,h,1702,FromCorner,2020,Head,15172,Arminia Bielefeld,Bayern Munich,1,4,2020-10-17 16:30:00,Ritsu Doan,Aerial
+382057,57,Goal,0.9030000305175782,0.36400001525878906,0.12132912129163742,Ritsu Doan,h,8791,OpenPlay,2020,RightFoot,15172,Arminia Bielefeld,Bayern Munich,1,4,2020-10-17 16:30:00,Fabian Klos,Pass
+382059,68,BlockedShot,0.6719999694824219,0.539000015258789,0.0064073242247104645,Manuel Prietl,h,8789,OpenPlay,2020,RightFoot,15172,Arminia Bielefeld,Bayern Munich,1,4,2020-10-17 16:30:00,,None
+382060,69,BlockedShot,0.8640000152587891,0.3820000076293945,0.07315560430288315,Ritsu Doan,h,8791,OpenPlay,2020,LeftFoot,15172,Arminia Bielefeld,Bayern Munich,1,4,2020-10-17 16:30:00,Sven Schipplock,Pass
+382061,70,BlockedShot,0.799000015258789,0.62,0.02468046173453331,Sven Schipplock,h,176,FromCorner,2020,RightFoot,15172,Arminia Bielefeld,Bayern Munich,1,4,2020-10-17 16:30:00,,None
+382062,77,BlockedShot,0.8109999847412109,0.47200000762939454,0.1530103087425232,Marcel Hartel,h,2645,DirectFreekick,2020,RightFoot,15172,Arminia Bielefeld,Bayern Munich,1,4,2020-10-17 16:30:00,,Standard
+382038,3,BlockedShot,0.9469999694824218,0.36700000762939455,0.022222092375159264,Thomas Müller,a,224,FromCorner,2020,Head,15172,Arminia Bielefeld,Bayern Munich,1,4,2020-10-17 16:30:00,Corentin Tolisso,Cross
+382039,7,Goal,0.9619999694824218,0.4759999847412109,0.63233882188797,Thomas Müller,a,224,OpenPlay,2020,RightFoot,15172,Arminia Bielefeld,Bayern Munich,1,4,2020-10-17 16:30:00,,None
+382040,12,SavedShot,0.874000015258789,0.56,0.04480753466486931,Corentin Tolisso,a,3603,OpenPlay,2020,Head,15172,Arminia Bielefeld,Bayern Munich,1,4,2020-10-17 16:30:00,Lucas Hernández,Cross
+382041,14,MissedShots,0.8969999694824219,0.5509999847412109,0.03996571898460388,Robert Lewandowski,a,227,OpenPlay,2020,Head,15172,Arminia Bielefeld,Bayern Munich,1,4,2020-10-17 16:30:00,Lucas Hernández,CornerAwarded
+382042,14,SavedShot,0.9419999694824219,0.345,0.3554699420928955,Thomas Müller,a,224,OpenPlay,2020,RightFoot,15172,Arminia Bielefeld,Bayern Munich,1,4,2020-10-17 16:30:00,Robert Lewandowski,None
+382043,24,Goal,0.8240000152587891,0.5079999923706054,0.08119134604930878,Robert Lewandowski,a,227,OpenPlay,2020,RightFoot,15172,Arminia Bielefeld,Bayern Munich,1,4,2020-10-17 16:30:00,Leon Goretzka,Pass
+382044,28,SavedShot,0.9169999694824219,0.5159999847412109,0.43278560042381287,Robert Lewandowski,a,227,OpenPlay,2020,Head,15172,Arminia Bielefeld,Bayern Munich,1,4,2020-10-17 16:30:00,Lucas Hernández,Cross
+382048,33,SavedShot,0.6969999694824218,0.43,0.01577780768275261,Corentin Tolisso,a,3603,OpenPlay,2020,RightFoot,15172,Arminia Bielefeld,Bayern Munich,1,4,2020-10-17 16:30:00,Robert Lewandowski,Pass
+382049,34,MissedShots,0.93,0.44,0.09663676470518112,Robert Lewandowski,a,227,FromCorner,2020,Head,15172,Arminia Bielefeld,Bayern Munich,1,4,2020-10-17 16:30:00,Corentin Tolisso,Cross
+382051,45,Goal,0.8519999694824218,0.5309999847412109,0.11862281709909439,Robert Lewandowski,a,227,OpenPlay,2020,RightFoot,15172,Arminia Bielefeld,Bayern Munich,1,4,2020-10-17 16:30:00,Thomas Müller,Pass
+382054,48,ShotOnPost,0.9169999694824219,0.519000015258789,0.5361325144767761,Robert Lewandowski,a,227,OpenPlay,2020,RightFoot,15172,Arminia Bielefeld,Bayern Munich,1,4,2020-10-17 16:30:00,Serge Gnabry,Pass
+382055,50,Goal,0.9359999847412109,0.4929999923706055,0.5738243460655212,Thomas Müller,a,224,OpenPlay,2020,RightFoot,15172,Arminia Bielefeld,Bayern Munich,1,4,2020-10-17 16:30:00,Robert Lewandowski,Cross
+382056,52,MissedShots,0.789000015258789,0.46700000762939453,0.04791683703660965,Leon Goretzka,a,335,OpenPlay,2020,LeftFoot,15172,Arminia Bielefeld,Bayern Munich,1,4,2020-10-17 16:30:00,Serge Gnabry,Pass
+382058,62,MissedShots,0.9030000305175782,0.5640000152587891,0.11990116536617279,Kingsley Coman,a,226,OpenPlay,2020,RightFoot,15172,Arminia Bielefeld,Bayern Munich,1,4,2020-10-17 16:30:00,Serge Gnabry,Cross
+382063,78,ShotOnPost,0.9309999847412109,0.5429999923706055,0.06083888188004494,Javi Martínez,a,225,FromCorner,2020,Head,15172,Arminia Bielefeld,Bayern Munich,1,4,2020-10-17 16:30:00,Thomas Müller,HeadPass
+382064,86,MissedShots,0.8530000305175781,0.645,0.020771203562617302,Lucas Hernández,a,2276,FromCorner,2020,LeftFoot,15172,Arminia Bielefeld,Bayern Munich,1,4,2020-10-17 16:30:00,,Aerial
+382065,88,SavedShot,0.894000015258789,0.3579999923706055,0.09526864439249039,Jamal Musiala,a,8418,OpenPlay,2020,RightFoot,15172,Arminia Bielefeld,Bayern Munich,1,4,2020-10-17 16:30:00,Thomas Müller,Pass

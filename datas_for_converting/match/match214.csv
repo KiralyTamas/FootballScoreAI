@@ -1,0 +1,27 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+56019,13,Goal,0.8119999694824219,0.46,0.05349315330386162,James McArthur,h,633,OpenPlay,2015,RightFoot,214,Crystal Palace,Newcastle United,5,1,2015-11-28 19:00:00,Connor Wickham,Pass
+56020,15,MissedShots,0.8080000305175781,0.5329999923706055,0.050921618938446045,James McArthur,h,633,OpenPlay,2015,LeftFoot,214,Crystal Palace,Newcastle United,5,1,2015-11-28 19:00:00,Yannick Bolasie,Pass
+56021,16,Goal,0.915,0.6370000076293946,0.07244515419006348,Yannick Bolasie,h,518,OpenPlay,2015,LeftFoot,214,Crystal Palace,Newcastle United,5,1,2015-11-28 19:00:00,,None
+56022,18,BlockedShot,0.8140000152587891,0.45799999237060546,0.06862706691026688,Wilfried Zaha,h,522,OpenPlay,2015,RightFoot,214,Crystal Palace,Newcastle United,5,1,2015-11-28 19:00:00,Jason Puncheon,BallRecovery
+56023,28,BlockedShot,0.914000015258789,0.2989999961853027,0.07003241032361984,Wilfried Zaha,h,522,OpenPlay,2015,RightFoot,214,Crystal Palace,Newcastle United,5,1,2015-11-28 19:00:00,Connor Wickham,Pass
+56024,40,Goal,0.865999984741211,0.4209999847412109,0.06843690574169159,Wilfried Zaha,h,522,OpenPlay,2015,RightFoot,214,Crystal Palace,Newcastle United,5,1,2015-11-28 19:00:00,Connor Wickham,Chipped
+56026,46,Goal,0.9590000152587891,0.43099998474121093,0.5245043635368347,Yannick Bolasie,h,518,SetPiece,2015,RightFoot,214,Crystal Palace,Newcastle United,5,1,2015-11-28 19:00:00,Damien Delaney,HeadPass
+56027,51,BlockedShot,0.950999984741211,0.545,0.12813320755958557,Connor Wickham,h,519,OpenPlay,2015,LeftFoot,214,Crystal Palace,Newcastle United,5,1,2015-11-28 19:00:00,Wilfried Zaha,OffsidePass
+56028,52,BlockedShot,0.6840000152587891,0.6909999847412109,0.011185595765709877,Pape Souaré,h,513,FromCorner,2015,LeftFoot,214,Crystal Palace,Newcastle United,5,1,2015-11-28 19:00:00,,None
+56029,53,MissedShots,0.8180000305175781,0.5570000076293945,0.0579916387796402,Jason Puncheon,h,514,OpenPlay,2015,LeftFoot,214,Crystal Palace,Newcastle United,5,1,2015-11-28 19:00:00,,None
+56030,57,MissedShots,0.9159999847412109,0.48900001525878906,0.13600894808769226,Yannick Bolasie,h,518,OpenPlay,2015,RightFoot,214,Crystal Palace,Newcastle United,5,1,2015-11-28 19:00:00,Jason Puncheon,Cross
+56031,65,SavedShot,0.8009999847412109,0.25799999237060545,0.030514076352119446,Joel Ward,h,510,OpenPlay,2015,RightFoot,214,Crystal Palace,Newcastle United,5,1,2015-11-28 19:00:00,Wilfried Zaha,LayOff
+56032,70,MissedShots,0.8919999694824219,0.46799999237060547,0.046020373702049255,Connor Wickham,h,519,FromCorner,2015,Head,214,Crystal Palace,Newcastle United,5,1,2015-11-28 19:00:00,Yohan Cabaye,Cross
+56035,76,SavedShot,0.8009999847412109,0.705,0.023317504674196243,Jason Puncheon,h,514,OpenPlay,2015,RightFoot,214,Crystal Palace,Newcastle United,5,1,2015-11-28 19:00:00,Connor Wickham,Pass
+56036,82,SavedShot,0.794000015258789,0.69,0.02847541682422161,Yannick Bolasie,h,518,OpenPlay,2015,RightFoot,214,Crystal Palace,Newcastle United,5,1,2015-11-28 19:00:00,James McArthur,Pass
+56037,84,MissedShots,0.8119999694824219,0.6170000076293946,0.05419290438294411,Connor Wickham,h,519,OpenPlay,2015,RightFoot,214,Crystal Palace,Newcastle United,5,1,2015-11-28 19:00:00,Yannick Bolasie,Pass
+56038,87,BlockedShot,0.7919999694824219,0.6090000152587891,0.04863610863685608,Yannick Bolasie,h,518,OpenPlay,2015,RightFoot,214,Crystal Palace,Newcastle United,5,1,2015-11-28 19:00:00,Pape Souaré,Pass
+56039,88,MissedShots,0.8880000305175781,0.6329999923706054,0.11471584439277649,Pape Souaré,h,513,OpenPlay,2015,LeftFoot,214,Crystal Palace,Newcastle United,5,1,2015-11-28 19:00:00,Patrick Bamford,Pass
+56040,92,Goal,0.9640000152587891,0.6329999923706054,0.09070542454719543,James McArthur,h,633,OpenPlay,2015,LeftFoot,214,Crystal Palace,Newcastle United,5,1,2015-11-28 19:00:00,,None
+56015,9,Goal,0.9330000305175781,0.48700000762939455,0.47274601459503174,Papiss Demba Cissé,a,850,OpenPlay,2015,Head,214,Crystal Palace,Newcastle United,5,1,2015-11-28 19:00:00,Daryl Janmaat,Throughball
+56016,10,BlockedShot,0.8480000305175781,0.5029999923706054,0.10282723605632782,Papiss Demba Cissé,a,850,OpenPlay,2015,RightFoot,214,Crystal Palace,Newcastle United,5,1,2015-11-28 19:00:00,Moussa Sissoko,Pass
+56017,10,BlockedShot,0.87,0.345,0.058723919093608856,Moussa Sissoko,a,772,OpenPlay,2015,LeftFoot,214,Crystal Palace,Newcastle United,5,1,2015-11-28 19:00:00,,Rebound
+56018,10,SavedShot,0.7340000152587891,0.515,0.01529439352452755,Vurnon Anita,a,768,FromCorner,2015,LeftFoot,214,Crystal Palace,Newcastle United,5,1,2015-11-28 19:00:00,,None
+56025,45,MissedShots,0.9369999694824219,0.41,0.08040755987167358,Papiss Demba Cissé,a,850,OpenPlay,2015,RightFoot,214,Crystal Palace,Newcastle United,5,1,2015-11-28 19:00:00,Moussa Sissoko,Cross
+56033,71,BlockedShot,0.860999984741211,0.539000015258789,0.0430181659758091,Siem de Jong,a,774,OpenPlay,2015,LeftFoot,214,Crystal Palace,Newcastle United,5,1,2015-11-28 19:00:00,,Aerial
+56034,72,BlockedShot,0.7809999847412109,0.31,0.024320516735315323,Yoan Gouffran,a,916,FromCorner,2015,RightFoot,214,Crystal Palace,Newcastle United,5,1,2015-11-28 19:00:00,Paul Dummett,Pass

@@ -1,0 +1,34 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+33403,8,MissedShots,0.845999984741211,0.75,0.013215373270213604,Isaac Cuenca,h,2081,OpenPlay,2014,RightFoot,5797,Deportivo La Coruna,Real Madrid,2,8,2014-09-20 15:00:00,,Aerial
+33407,16,BlockedShot,0.740999984741211,0.30200000762939455,0.020478155463933945,Juanfran,h,2316,OpenPlay,2014,RightFoot,5797,Deportivo La Coruna,Real Madrid,2,8,2014-09-20 15:00:00,Sidnei,Pass
+33413,31,MissedShots,0.8619999694824219,0.605999984741211,0.07587852329015732,Luis Fariña,h,2602,OpenPlay,2014,RightFoot,5797,Deportivo La Coruna,Real Madrid,2,8,2014-09-20 15:00:00,Isaac Cuenca,Pass
+33415,37,MissedShots,0.7340000152587891,0.3120000076293945,0.012758512981235981,Juanfran,h,2316,OpenPlay,2014,RightFoot,5797,Deportivo La Coruna,Real Madrid,2,8,2014-09-20 15:00:00,Álex Bergantiños,Pass
+33417,49,BlockedShot,0.8919999694824219,0.5109999847412109,0.08541776239871979,Isaac Cuenca,h,2081,OpenPlay,2014,Head,5797,Deportivo La Coruna,Real Madrid,2,8,2014-09-20 15:00:00,Luisinho,Cross
+33418,50,Goal,0.885,0.5,0.7432776093482971,Haris Medunjanin,h,2590,Penalty,2014,LeftFoot,5797,Deportivo La Coruna,Real Madrid,2,8,2014-09-20 15:00:00,,Standard
+33419,51,BlockedShot,0.8480000305175781,0.27399999618530274,0.028074724599719048,Isaac Cuenca,h,2081,OpenPlay,2014,LeftFoot,5797,Deportivo La Coruna,Real Madrid,2,8,2014-09-20 15:00:00,Laure,Pass
+33420,56,SavedShot,0.8130000305175781,0.5459999847412109,0.04316786304116249,Luis Fariña,h,2602,OpenPlay,2014,RightFoot,5797,Deportivo La Coruna,Real Madrid,2,8,2014-09-20 15:00:00,,None
+33421,58,MissedShots,0.79,0.7230000305175781,0.054306019097566605,Ivan Cavaleiro,h,3683,OpenPlay,2014,RightFoot,5797,Deportivo La Coruna,Real Madrid,2,8,2014-09-20 15:00:00,Haris Medunjanin,Chipped
+33422,60,BlockedShot,0.7719999694824219,0.24799999237060547,0.010313211008906364,Haris Medunjanin,h,2590,OpenPlay,2014,LeftFoot,5797,Deportivo La Coruna,Real Madrid,2,8,2014-09-20 15:00:00,Isaac Cuenca,Pass
+33426,70,SavedShot,0.730999984741211,0.5379999923706055,0.016206638887524605,Haris Medunjanin,h,2590,OpenPlay,2014,LeftFoot,5797,Deportivo La Coruna,Real Madrid,2,8,2014-09-20 15:00:00,Álex Bergantiños,Pass
+33427,72,SavedShot,0.889000015258789,0.5770000076293945,0.033157605677843094,Juan Domínguez,h,2546,OpenPlay,2014,Head,5797,Deportivo La Coruna,Real Madrid,2,8,2014-09-20 15:00:00,Luis Fariña,Cross
+33431,78,MissedShots,0.9469999694824218,0.5259999847412109,0.5146688222885132,Toché,h,4129,OpenPlay,2014,Head,5797,Deportivo La Coruna,Real Madrid,2,8,2014-09-20 15:00:00,Laure,Cross
+33432,83,Goal,0.9059999847412109,0.4370000076293945,0.09743669629096985,Toché,h,4129,OpenPlay,2014,Head,5797,Deportivo La Coruna,Real Madrid,2,8,2014-09-20 15:00:00,Isaac Cuenca,Cross
+33404,11,SavedShot,0.9159999847412109,0.5770000076293945,0.04589206725358963,Cristiano Ronaldo,a,2371,OpenPlay,2014,Head,5797,Deportivo La Coruna,Real Madrid,2,8,2014-09-20 15:00:00,Gareth Bale,Aerial
+33405,15,MissedShots,0.8419999694824218,0.6229999923706054,0.06048477068543434,Karim Benzema,a,2370,OpenPlay,2014,RightFoot,5797,Deportivo La Coruna,Real Madrid,2,8,2014-09-20 15:00:00,Toni Kroos,HeadPass
+33406,15,SavedShot,0.9219999694824219,0.4229999923706055,0.39983123540878296,Gareth Bale,a,2251,OpenPlay,2014,LeftFoot,5797,Deportivo La Coruna,Real Madrid,2,8,2014-09-20 15:00:00,Karim Benzema,Rebound
+33408,19,MissedShots,0.795,0.28100000381469725,0.0360846072435379,Cristiano Ronaldo,a,2371,OpenPlay,2014,RightFoot,5797,Deportivo La Coruna,Real Madrid,2,8,2014-09-20 15:00:00,Luka Modric,Pass
+33409,26,BlockedShot,0.7680000305175781,0.6120000076293945,0.02480476163327694,Marcelo,a,2257,OpenPlay,2014,LeftFoot,5797,Deportivo La Coruna,Real Madrid,2,8,2014-09-20 15:00:00,Gareth Bale,Pass
+33410,27,SavedShot,0.6969999694824218,0.34700000762939454,0.01849423535168171,Cristiano Ronaldo,a,2371,OpenPlay,2014,RightFoot,5797,Deportivo La Coruna,Real Madrid,2,8,2014-09-20 15:00:00,Luka Modric,Pass
+33411,28,Goal,0.879000015258789,0.5020000076293946,0.03084489144384861,Cristiano Ronaldo,a,2371,OpenPlay,2014,Head,5797,Deportivo La Coruna,Real Madrid,2,8,2014-09-20 15:00:00,Álvaro Arbeloa,Aerial
+33412,30,SavedShot,0.795,0.5570000076293945,0.04930271580815315,Karim Benzema,a,2370,OpenPlay,2014,LeftFoot,5797,Deportivo La Coruna,Real Madrid,2,8,2014-09-20 15:00:00,Luka Modric,Pass
+33414,35,Goal,0.8040000152587891,0.6229999923706054,0.04757729172706604,James Rodríguez,a,2249,OpenPlay,2014,LeftFoot,5797,Deportivo La Coruna,Real Madrid,2,8,2014-09-20 15:00:00,Karim Benzema,Pass
+33416,40,Goal,0.745,0.47400001525878904,0.4613572359085083,Cristiano Ronaldo,a,2371,OpenPlay,2014,LeftFoot,5797,Deportivo La Coruna,Real Madrid,2,8,2014-09-20 15:00:00,Karim Benzema,TakeOn
+33423,62,SavedShot,0.7080000305175781,0.71,0.022031044587492943,Gareth Bale,a,2251,OpenPlay,2014,LeftFoot,5797,Deportivo La Coruna,Real Madrid,2,8,2014-09-20 15:00:00,Asier Illarramendi,Pass
+33424,65,BlockedShot,0.7180000305175781,0.534000015258789,0.05147457495331764,Cristiano Ronaldo,a,2371,DirectFreekick,2014,RightFoot,5797,Deportivo La Coruna,Real Madrid,2,8,2014-09-20 15:00:00,,Standard
+33425,65,Goal,0.9030000305175782,0.634000015258789,0.13484150171279907,Gareth Bale,a,2251,OpenPlay,2014,LeftFoot,5797,Deportivo La Coruna,Real Madrid,2,8,2014-09-20 15:00:00,Marcelo,Throughball
+33428,73,BlockedShot,0.7809999847412109,0.285,0.034688800573349,Cristiano Ronaldo,a,2371,OpenPlay,2014,RightFoot,5797,Deportivo La Coruna,Real Madrid,2,8,2014-09-20 15:00:00,Asier Illarramendi,Pass
+33429,73,Goal,0.8969999694824219,0.62,0.4657643437385559,Gareth Bale,a,2251,OpenPlay,2014,LeftFoot,5797,Deportivo La Coruna,Real Madrid,2,8,2014-09-20 15:00:00,Isco,Throughball
+33430,77,Goal,0.8619999694824219,0.705999984741211,0.05833505839109421,Cristiano Ronaldo,a,2371,OpenPlay,2014,LeftFoot,5797,Deportivo La Coruna,Real Madrid,2,8,2014-09-20 15:00:00,James Rodríguez,Pass
+33433,85,BlockedShot,0.879000015258789,0.7480000305175781,0.03107236698269844,Sergio Ramos,a,2246,OpenPlay,2014,RightFoot,5797,Deportivo La Coruna,Real Madrid,2,8,2014-09-20 15:00:00,,None
+33434,87,Goal,0.8380000305175781,0.710999984741211,0.07393793761730194,Chicharito,a,191,OpenPlay,2014,LeftFoot,5797,Deportivo La Coruna,Real Madrid,2,8,2014-09-20 15:00:00,Isco,Chipped
+33435,91,Goal,0.7419999694824219,0.565,0.03380556032061577,Chicharito,a,191,OpenPlay,2014,RightFoot,5797,Deportivo La Coruna,Real Madrid,2,8,2014-09-20 15:00:00,Marcelo,Pass

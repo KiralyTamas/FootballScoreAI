@@ -1,0 +1,30 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+250314,14,SavedShot,0.93,0.575,0.0711904838681221,Calum Chambers,h,508,FromCorner,2018,Head,9320,Fulham,Southampton,3,2,2018-11-24 15:00:00,Jean Michael Seri,Cross
+250316,23,BlockedShot,0.9230000305175782,0.305,0.040555134415626526,Calum Chambers,h,508,SetPiece,2018,RightFoot,9320,Fulham,Southampton,3,2,2018-11-24 15:00:00,Denis Odoi,HeadPass
+250317,30,MissedShots,0.735999984741211,0.575,0.018446456640958786,Ryan Sessegnon,h,6837,OpenPlay,2018,LeftFoot,9320,Fulham,Southampton,3,2,2018-11-24 15:00:00,Aleksandar Mitrovic,Pass
+250318,32,Goal,0.9419999694824219,0.534000015258789,0.47420644760131836,Aleksandar Mitrovic,h,773,OpenPlay,2018,Head,9320,Fulham,Southampton,3,2,2018-11-24 15:00:00,Maxime Le Marchand,Cross
+250320,35,MissedShots,0.8530000305175781,0.27,0.039647165685892105,Cyrus Christie,h,6833,OpenPlay,2018,LeftFoot,9320,Fulham,Southampton,3,2,2018-11-24 15:00:00,André Schürrle,TakeOn
+250322,42,Goal,0.9369999694824219,0.4329999923706055,0.3591214120388031,André Schürrle,h,154,OpenPlay,2018,RightFoot,9320,Fulham,Southampton,3,2,2018-11-24 15:00:00,Ryan Sessegnon,Cross
+250324,50,SavedShot,0.875,0.47900001525878905,0.14986833930015564,Aleksandar Mitrovic,h,773,OpenPlay,2018,RightFoot,9320,Fulham,Southampton,3,2,2018-11-24 15:00:00,André Schürrle,Pass
+250327,56,MissedShots,0.7430000305175781,0.325,0.013194478116929531,Calum Chambers,h,508,OpenPlay,2018,RightFoot,9320,Fulham,Southampton,3,2,2018-11-24 15:00:00,Aleksandar Mitrovic,Pass
+250329,62,Goal,0.9080000305175782,0.5520000076293945,0.09620450437068939,Aleksandar Mitrovic,h,773,OpenPlay,2018,RightFoot,9320,Fulham,Southampton,3,2,2018-11-24 15:00:00,Ryan Sessegnon,HeadPass
+250330,66,BlockedShot,0.8719999694824219,0.5479999923706055,0.12507012486457825,Aleksandar Mitrovic,h,773,OpenPlay,2018,RightFoot,9320,Fulham,Southampton,3,2,2018-11-24 15:00:00,Tom Cairney,Pass
+250311,5,BlockedShot,0.764000015258789,0.38599998474121094,0.0171553622931242,Nathan Redmond,a,790,FromCorner,2018,RightFoot,9320,Fulham,Southampton,3,2,2018-11-24 15:00:00,,None
+250312,5,SavedShot,0.765,0.62,0.02352299354970455,Stuart Armstrong,a,6893,FromCorner,2018,RightFoot,9320,Fulham,Southampton,3,2,2018-11-24 15:00:00,,Rebound
+250313,5,SavedShot,0.925,0.46599998474121096,0.48443156480789185,Manolo Gabbiadini,a,1383,FromCorner,2018,RightFoot,9320,Fulham,Southampton,3,2,2018-11-24 15:00:00,,Rebound
+250315,17,Goal,0.8859999847412109,0.4640000152587891,0.09296875447034836,Stuart Armstrong,a,6893,OpenPlay,2018,RightFoot,9320,Fulham,Southampton,3,2,2018-11-24 15:00:00,,None
+250319,34,SavedShot,0.6809999847412109,0.48700000762939455,0.010194067843258381,Manolo Gabbiadini,a,1383,OpenPlay,2018,LeftFoot,9320,Fulham,Southampton,3,2,2018-11-24 15:00:00,Maya Yoshida,TakeOn
+250321,36,MissedShots,0.9369999694824219,0.5979999923706054,0.07736852020025253,Mario Lemina,a,1299,SetPiece,2018,Head,9320,Fulham,Southampton,3,2,2018-11-24 15:00:00,Matt Targett,Cross
+250323,46,MissedShots,0.915,0.5070000076293946,0.11408780515193939,Wesley Hoedt,a,1203,SetPiece,2018,Head,9320,Fulham,Southampton,3,2,2018-11-24 15:00:00,Matt Targett,Cross
+250325,53,Goal,0.8130000305175781,0.5259999847412109,0.058756135404109955,Stuart Armstrong,a,6893,OpenPlay,2018,RightFoot,9320,Fulham,Southampton,3,2,2018-11-24 15:00:00,Cédric Soares,Pass
+250326,55,MissedShots,0.6719999694824219,0.715,0.009248466230928898,Mario Lemina,a,1299,OpenPlay,2018,RightFoot,9320,Fulham,Southampton,3,2,2018-11-24 15:00:00,Matt Targett,Pass
+250328,59,BlockedShot,0.695,0.48900001525878906,0.014585417695343494,Pierre-Emile Højbjerg,a,343,OpenPlay,2018,RightFoot,9320,Fulham,Southampton,3,2,2018-11-24 15:00:00,Nathan Redmond,Pass
+250331,71,SavedShot,0.87,0.635,0.06565295159816742,Pierre-Emile Højbjerg,a,343,OpenPlay,2018,LeftFoot,9320,Fulham,Southampton,3,2,2018-11-24 15:00:00,Nathan Redmond,Pass
+250332,86,MissedShots,0.8619999694824219,0.41900001525878905,0.10108999907970428,Michael Obafemi,a,6504,OpenPlay,2018,RightFoot,9320,Fulham,Southampton,3,2,2018-11-24 15:00:00,Mario Lemina,TakeOn
+250333,87,MissedShots,0.885,0.4279999923706055,0.07548074424266815,Mohamed Elyounoussi,a,6894,OpenPlay,2018,LeftFoot,9320,Fulham,Southampton,3,2,2018-11-24 15:00:00,Nathan Redmond,Cross
+250334,87,BlockedShot,0.7480000305175781,0.3160000038146973,0.01646614633500576,Cédric Soares,a,847,OpenPlay,2018,RightFoot,9320,Fulham,Southampton,3,2,2018-11-24 15:00:00,,Rebound
+250335,90,MissedShots,0.9030000305175782,0.620999984741211,0.011846644803881645,Pierre-Emile Højbjerg,a,343,FromCorner,2018,Head,9320,Fulham,Southampton,3,2,2018-11-24 15:00:00,Cédric Soares,Aerial
+250336,91,SavedShot,0.9269999694824219,0.4370000076293945,0.39619189500808716,Michael Obafemi,a,6504,OpenPlay,2018,RightFoot,9320,Fulham,Southampton,3,2,2018-11-24 15:00:00,Mohamed Elyounoussi,Cross
+250337,91,BlockedShot,0.9540000152587891,0.4179999923706055,0.12115766108036041,Michael Obafemi,a,6504,OpenPlay,2018,RightFoot,9320,Fulham,Southampton,3,2,2018-11-24 15:00:00,,Rebound
+250338,94,BlockedShot,0.7680000305175781,0.3970000076293945,0.02454514242708683,Pierre-Emile Højbjerg,a,343,OpenPlay,2018,RightFoot,9320,Fulham,Southampton,3,2,2018-11-24 15:00:00,Maya Yoshida,Pass
+250339,94,SavedShot,0.7809999847412109,0.3820000076293945,0.026693087071180344,Pierre-Emile Højbjerg,a,343,OpenPlay,2018,LeftFoot,9320,Fulham,Southampton,3,2,2018-11-24 15:00:00,,Rebound

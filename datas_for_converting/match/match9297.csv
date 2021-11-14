@@ -1,0 +1,37 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+249738,3,SavedShot,0.9030000305175782,0.6509999847412109,0.0856313407421112,Ryan Fraser,h,1683,OpenPlay,2018,LeftFoot,9297,Bournemouth,Manchester United,1,2,2018-11-03 12:30:00,Callum Wilson,Pass
+249740,9,SavedShot,0.9640000152587891,0.575,0.4218030273914337,Callum Wilson,h,468,OpenPlay,2018,RightFoot,9297,Bournemouth,Manchester United,1,2,2018-11-03 12:30:00,Ryan Fraser,Cross
+249741,9,BlockedShot,0.8909999847412109,0.5540000152587891,0.1232205405831337,Junior Stanislas,h,463,OpenPlay,2018,RightFoot,9297,Bournemouth,Manchester United,1,2,2018-11-03 12:30:00,Adam Smith,Pass
+249742,10,Goal,0.9380000305175781,0.49599998474121093,0.511651337146759,Callum Wilson,h,468,FromCorner,2018,LeftFoot,9297,Bournemouth,Manchester United,1,2,2018-11-03 12:30:00,Junior Stanislas,Pass
+249743,13,MissedShots,0.9009999847412109,0.425,0.046504758298397064,David Brooks,h,6820,OpenPlay,2018,Head,9297,Bournemouth,Manchester United,1,2,2018-11-03 12:30:00,,None
+249744,22,SavedShot,0.8069999694824219,0.45799999237060546,0.06263896077871323,Junior Stanislas,h,463,OpenPlay,2018,RightFoot,9297,Bournemouth,Manchester United,1,2,2018-11-03 12:30:00,Simon Francis,Pass
+249746,33,BlockedShot,0.769000015258789,0.3940000152587891,0.01811996102333069,Lewis Cook,h,1789,FromCorner,2018,LeftFoot,9297,Bournemouth,Manchester United,1,2,2018-11-03 12:30:00,,None
+249749,41,SavedShot,0.8780000305175781,0.3509999847412109,0.07273764908313751,Ryan Fraser,h,1683,OpenPlay,2018,RightFoot,9297,Bournemouth,Manchester United,1,2,2018-11-03 12:30:00,Junior Stanislas,Pass
+249750,44,BlockedShot,0.774000015258789,0.5990000152587891,0.07619412988424301,Junior Stanislas,h,463,DirectFreekick,2018,RightFoot,9297,Bournemouth,Manchester United,1,2,2018-11-03 12:30:00,,Standard
+249751,44,MissedShots,0.7880000305175782,0.6409999847412109,0.01780996471643448,Junior Stanislas,h,463,SetPiece,2018,RightFoot,9297,Bournemouth,Manchester United,1,2,2018-11-03 12:30:00,,Rebound
+249752,44,BlockedShot,0.8719999694824219,0.45799999237060546,0.04539231210947037,Jefferson Lerma,h,2182,OpenPlay,2018,RightFoot,9297,Bournemouth,Manchester United,1,2,2018-11-03 12:30:00,,Aerial
+249753,44,BlockedShot,0.8830000305175781,0.544000015258789,0.09645102918148041,Callum Wilson,h,468,OpenPlay,2018,LeftFoot,9297,Bournemouth,Manchester United,1,2,2018-11-03 12:30:00,,Rebound
+249756,49,SavedShot,0.9390000152587891,0.555,0.14656691253185272,David Brooks,h,6820,OpenPlay,2018,LeftFoot,9297,Bournemouth,Manchester United,1,2,2018-11-03 12:30:00,Ryan Fraser,Pass
+249757,51,MissedShots,0.9169999694824219,0.5690000152587891,0.021826887503266335,Nathan Aké,h,579,FromCorner,2018,Head,9297,Bournemouth,Manchester United,1,2,2018-11-03 12:30:00,Ryan Fraser,Aerial
+249766,66,BlockedShot,0.8230000305175781,0.47200000762939454,0.0528886504471302,David Brooks,h,6820,OpenPlay,2018,LeftFoot,9297,Bournemouth,Manchester United,1,2,2018-11-03 12:30:00,Callum Wilson,Pass
+249768,68,BlockedShot,0.745999984741211,0.4759999847412109,0.021205099299550056,David Brooks,h,6820,OpenPlay,2018,LeftFoot,9297,Bournemouth,Manchester United,1,2,2018-11-03 12:30:00,Callum Wilson,HeadPass
+249769,69,BlockedShot,0.835,0.34,0.034492917358875275,Callum Wilson,h,468,OpenPlay,2018,RightFoot,9297,Bournemouth,Manchester United,1,2,2018-11-03 12:30:00,David Brooks,Pass
+249770,80,SavedShot,0.88,0.6509999847412109,0.0785992443561554,David Brooks,h,6820,OpenPlay,2018,LeftFoot,9297,Bournemouth,Manchester United,1,2,2018-11-03 12:30:00,Jordon Ibe,Pass
+249739,5,BlockedShot,0.8480000305175781,0.7030000305175781,0.03606148064136505,Anthony Martial,a,553,OpenPlay,2018,RightFoot,9297,Bournemouth,Manchester United,1,2,2018-11-03 12:30:00,Paul Pogba,Pass
+249745,32,MissedShots,0.889000015258789,0.5379999923706055,0.4043116271495819,Fred,a,6817,OpenPlay,2018,RightFoot,9297,Bournemouth,Manchester United,1,2,2018-11-03 12:30:00,Anthony Martial,Pass
+249747,34,Goal,0.9,0.48900001525878906,0.42576345801353455,Anthony Martial,a,553,OpenPlay,2018,LeftFoot,9297,Bournemouth,Manchester United,1,2,2018-11-03 12:30:00,Alexis Sánchez,Pass
+249748,38,MissedShots,0.8719999694824219,0.3729999923706055,0.043048128485679626,Juan Mata,a,554,OpenPlay,2018,LeftFoot,9297,Bournemouth,Manchester United,1,2,2018-11-03 12:30:00,Alexis Sánchez,HeadPass
+249754,45,BlockedShot,0.8390000152587891,0.53,0.08922091871500015,Alexis Sánchez,a,498,OpenPlay,2018,RightFoot,9297,Bournemouth,Manchester United,1,2,2018-11-03 12:30:00,Juan Mata,Pass
+249755,45,BlockedShot,0.855999984741211,0.765,0.02528599463403225,Anthony Martial,a,553,OpenPlay,2018,RightFoot,9297,Bournemouth,Manchester United,1,2,2018-11-03 12:30:00,Paul Pogba,Pass
+249758,53,SavedShot,0.8030000305175782,0.61,0.11477356404066086,Anthony Martial,a,553,OpenPlay,2018,RightFoot,9297,Bournemouth,Manchester United,1,2,2018-11-03 12:30:00,Juan Mata,Throughball
+249759,54,SavedShot,0.92,0.6430000305175781,0.33840763568878174,Luke Shaw,a,1006,OpenPlay,2018,LeftFoot,9297,Bournemouth,Manchester United,1,2,2018-11-03 12:30:00,Anthony Martial,Pass
+249760,59,SavedShot,0.9490000152587891,0.41700000762939454,0.05805433541536331,Alexis Sánchez,a,498,SetPiece,2018,Head,9297,Bournemouth,Manchester United,1,2,2018-11-03 12:30:00,Chris Smalling,HeadPass
+249761,59,MissedShots,0.749000015258789,0.46799999237060547,0.020866211503744125,Ander Herrera,a,552,FromCorner,2018,RightFoot,9297,Bournemouth,Manchester United,1,2,2018-11-03 12:30:00,Paul Pogba,Pass
+249762,63,ShotOnPost,0.7730000305175782,0.24399999618530274,0.04204065725207329,Ashley Young,a,631,DirectFreekick,2018,RightFoot,9297,Bournemouth,Manchester United,1,2,2018-11-03 12:30:00,,Standard
+249763,63,BlockedShot,0.9319999694824219,0.5029999923706054,0.5917060971260071,Marcus Rashford,a,556,SetPiece,2018,RightFoot,9297,Bournemouth,Manchester United,1,2,2018-11-03 12:30:00,,Rebound
+249764,63,BlockedShot,0.96,0.46799999237060547,0.6717982888221741,Paul Pogba,a,1740,SetPiece,2018,RightFoot,9297,Bournemouth,Manchester United,1,2,2018-11-03 12:30:00,,Rebound
+249765,65,MissedShots,0.8159999847412109,0.5159999847412109,0.06367552280426025,Ander Herrera,a,552,OpenPlay,2018,LeftFoot,9297,Bournemouth,Manchester United,1,2,2018-11-03 12:30:00,Paul Pogba,Pass
+249767,67,MissedShots,0.855,0.46,0.09602615982294083,Paul Pogba,a,1740,OpenPlay,2018,RightFoot,9297,Bournemouth,Manchester United,1,2,2018-11-03 12:30:00,Marcus Rashford,Pass
+249771,83,BlockedShot,0.775,0.5220000076293946,0.03343658521771431,Paul Pogba,a,1740,OpenPlay,2018,RightFoot,9297,Bournemouth,Manchester United,1,2,2018-11-03 12:30:00,Jesse Lingard,BallTouch
+249772,88,SavedShot,0.87,0.40400001525878904,0.09944500029087067,Jesse Lingard,a,558,OpenPlay,2018,RightFoot,9297,Bournemouth,Manchester United,1,2,2018-11-03 12:30:00,Marcus Rashford,Pass
+249773,91,Goal,0.9540000152587891,0.5070000076293946,0.5724799036979675,Marcus Rashford,a,556,OpenPlay,2018,LeftFoot,9297,Bournemouth,Manchester United,1,2,2018-11-03 12:30:00,,BallTouch

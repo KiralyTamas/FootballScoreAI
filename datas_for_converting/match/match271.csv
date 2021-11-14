@@ -1,0 +1,42 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+52846,7,MissedShots,0.7909999847412109,0.2979999923706055,0.022292278707027435,Michail Antonio,h,531,OpenPlay,2015,RightFoot,271,West Ham,Liverpool,2,0,2016-01-02 16:45:00,Mark Noble,BallRecovery
+52847,9,Goal,0.9430000305175781,0.5379999923706055,0.14571334421634674,Michail Antonio,h,531,OpenPlay,2015,Head,271,West Ham,Liverpool,2,0,2016-01-02 16:45:00,Enner Valencia,Cross
+52848,12,SavedShot,0.9319999694824219,0.46299999237060546,0.14130178093910217,Andy Carroll,h,537,OpenPlay,2015,Head,271,West Ham,Liverpool,2,0,2016-01-02 16:45:00,Aaron Cresswell,Cross
+52849,16,ShotOnPost,0.8069999694824219,0.799000015258789,0.015395447611808777,Manuel Lanzini,h,535,OpenPlay,2015,RightFoot,271,West Ham,Liverpool,2,0,2016-01-02 16:45:00,Enner Valencia,Pass
+52850,16,MissedShots,0.935,0.53,0.14644259214401245,Michail Antonio,h,531,OpenPlay,2015,Head,271,West Ham,Liverpool,2,0,2016-01-02 16:45:00,Aaron Cresswell,Cross
+52851,19,BlockedShot,0.924000015258789,0.6630000305175782,0.07899139076471329,Enner Valencia,h,539,OpenPlay,2015,LeftFoot,271,West Ham,Liverpool,2,0,2016-01-02 16:45:00,,None
+52852,20,SavedShot,0.9019999694824219,0.5359999847412109,0.07249346375465393,Michail Antonio,h,531,FromCorner,2015,LeftFoot,271,West Ham,Liverpool,2,0,2016-01-02 16:45:00,Aaron Cresswell,Cross
+52854,29,MissedShots,0.9019999694824219,0.3370000076293945,0.08222643285989761,Enner Valencia,h,539,OpenPlay,2015,LeftFoot,271,West Ham,Liverpool,2,0,2016-01-02 16:45:00,Michail Antonio,TakeOn
+52861,41,BlockedShot,0.909000015258789,0.64,0.08687560260295868,Aaron Cresswell,h,534,OpenPlay,2015,LeftFoot,271,West Ham,Liverpool,2,0,2016-01-02 16:45:00,,None
+52864,47,BlockedShot,0.6719999694824219,0.53,0.013150094076991081,Aaron Cresswell,h,534,OpenPlay,2015,LeftFoot,271,West Ham,Liverpool,2,0,2016-01-02 16:45:00,,BallRecovery
+52868,53,SavedShot,0.885,0.5070000076293946,0.04728630930185318,Andy Carroll,h,537,OpenPlay,2015,Head,271,West Ham,Liverpool,2,0,2016-01-02 16:45:00,Michail Antonio,Pass
+52869,54,Goal,0.9009999847412109,0.605,0.04233093187212944,Andy Carroll,h,537,OpenPlay,2015,Head,271,West Ham,Liverpool,2,0,2016-01-02 16:45:00,Mark Noble,Cross
+52874,68,SavedShot,0.9519999694824218,0.47,0.1462777704000473,Andy Carroll,h,537,OpenPlay,2015,Head,271,West Ham,Liverpool,2,0,2016-01-02 16:45:00,Aaron Cresswell,Cross
+52875,68,SavedShot,0.9590000152587891,0.5109999847412109,0.7714840173721313,Michail Antonio,h,531,OpenPlay,2015,LeftFoot,271,West Ham,Liverpool,2,0,2016-01-02 16:45:00,,Rebound
+52876,70,MissedShots,0.835,0.5029999923706054,0.05158235877752304,Pedro Obiang,h,542,FromCorner,2015,RightFoot,271,West Ham,Liverpool,2,0,2016-01-02 16:45:00,,None
+52877,74,SavedShot,0.9009999847412109,0.6020000076293945,0.11005766689777374,Andy Carroll,h,537,OpenPlay,2015,LeftFoot,271,West Ham,Liverpool,2,0,2016-01-02 16:45:00,Dimitri Payet,Cross
+52883,84,SavedShot,0.909000015258789,0.28200000762939453,0.06658746302127838,Mark Noble,h,533,OpenPlay,2015,RightFoot,271,West Ham,Liverpool,2,0,2016-01-02 16:45:00,Michail Antonio,Pass
+52884,89,SavedShot,0.8269999694824218,0.44599998474121094,0.13973228633403778,Cheikhou Kouyaté,h,532,OpenPlay,2015,RightFoot,271,West Ham,Liverpool,2,0,2016-01-02 16:45:00,Dimitri Payet,Throughball
+52845,3,MissedShots,0.8119999694824219,0.33,0.03273334726691246,Jordon Ibe,a,481,OpenPlay,2015,RightFoot,271,West Ham,Liverpool,2,0,2016-01-02 16:45:00,Emre Can,Pass
+52853,25,BlockedShot,0.7709999847412109,0.6040000152587891,0.01850195974111557,Alberto Moreno,a,608,FromCorner,2015,LeftFoot,271,West Ham,Liverpool,2,0,2016-01-02 16:45:00,,None
+52855,29,BlockedShot,0.7390000152587891,0.5590000152587891,0.01730390265583992,Roberto Firmino,a,482,OpenPlay,2015,LeftFoot,271,West Ham,Liverpool,2,0,2016-01-02 16:45:00,Christian Benteke,HeadPass
+52856,32,BlockedShot,0.7759999847412109,0.735999984741211,0.01765640452504158,Philippe Coutinho,a,488,OpenPlay,2015,RightFoot,271,West Ham,Liverpool,2,0,2016-01-02 16:45:00,Roberto Firmino,Pass
+52857,33,BlockedShot,0.8830000305175781,0.5359999847412109,0.04616108536720276,Christian Benteke,a,606,FromCorner,2015,Head,271,West Ham,Liverpool,2,0,2016-01-02 16:45:00,Alberto Moreno,Cross
+52858,33,SavedShot,0.955999984741211,0.5029999923706054,0.6835654377937317,Roberto Firmino,a,482,FromCorner,2015,RightFoot,271,West Ham,Liverpool,2,0,2016-01-02 16:45:00,Emre Can,Rebound
+52859,36,MissedShots,0.775,0.47,0.03331208601593971,Roberto Firmino,a,482,OpenPlay,2015,RightFoot,271,West Ham,Liverpool,2,0,2016-01-02 16:45:00,Christian Benteke,Pass
+52860,39,BlockedShot,0.685,0.610999984741211,0.0156111940741539,Philippe Coutinho,a,488,SetPiece,2015,RightFoot,271,West Ham,Liverpool,2,0,2016-01-02 16:45:00,Lucas Leiva,Pass
+52862,44,BlockedShot,0.7380000305175781,0.664000015258789,0.015788478776812553,Alberto Moreno,a,608,OpenPlay,2015,LeftFoot,271,West Ham,Liverpool,2,0,2016-01-02 16:45:00,Emre Can,Pass
+52863,46,ShotOnPost,0.8030000305175782,0.39099998474121095,0.02909509651362896,Emre Can,a,604,OpenPlay,2015,RightFoot,271,West Ham,Liverpool,2,0,2016-01-02 16:45:00,Roberto Firmino,Pass
+52866,47,MissedShots,0.7380000305175781,0.445,0.018997453153133392,Philippe Coutinho,a,488,OpenPlay,2015,RightFoot,271,West Ham,Liverpool,2,0,2016-01-02 16:45:00,Jordon Ibe,Pass
+52865,49,BlockedShot,0.7130000305175781,0.580999984741211,0.014509506523609161,Philippe Coutinho,a,488,OpenPlay,2015,RightFoot,271,West Ham,Liverpool,2,0,2016-01-02 16:45:00,Lucas Leiva,HeadPass
+52867,50,MissedShots,0.875,0.5670000076293945,0.0907791256904602,Christian Benteke,a,606,OpenPlay,2015,RightFoot,271,West Ham,Liverpool,2,0,2016-01-02 16:45:00,Alberto Moreno,Pass
+52870,56,BlockedShot,0.7909999847412109,0.5629999923706055,0.04335003346204758,Philippe Coutinho,a,488,OpenPlay,2015,RightFoot,271,West Ham,Liverpool,2,0,2016-01-02 16:45:00,Emre Can,Pass
+52871,57,MissedShots,0.8580000305175781,0.5609999847412109,0.08937979489564896,Christian Benteke,a,606,OpenPlay,2015,LeftFoot,271,West Ham,Liverpool,2,0,2016-01-02 16:45:00,Philippe Coutinho,Pass
+52872,61,BlockedShot,0.7190000152587891,0.5109999847412109,0.04589433968067169,Dejan Lovren,a,602,DirectFreekick,2015,RightFoot,271,West Ham,Liverpool,2,0,2016-01-02 16:45:00,,Standard
+52873,66,MissedShots,0.7340000152587891,0.22200000762939454,0.007989495992660522,Jordon Ibe,a,481,OpenPlay,2015,RightFoot,271,West Ham,Liverpool,2,0,2016-01-02 16:45:00,Emre Can,Pass
+52878,75,MissedShots,0.865,0.5479999923706055,0.04881204664707184,Christian Benteke,a,606,OpenPlay,2015,LeftFoot,271,West Ham,Liverpool,2,0,2016-01-02 16:45:00,Brad Smith,Cross
+52879,77,BlockedShot,0.9519999694824218,0.48700000762939455,0.44761979579925537,Lucas Leiva,a,475,FromCorner,2015,Head,271,West Ham,Liverpool,2,0,2016-01-02 16:45:00,Emre Can,HeadPass
+52880,77,BlockedShot,0.835999984741211,0.59,0.052662890404462814,Brad Smith,a,477,FromCorner,2015,LeftFoot,271,West Ham,Liverpool,2,0,2016-01-02 16:45:00,,Rebound
+52881,78,BlockedShot,0.8190000152587891,0.5379999923706055,0.03974073380231857,Philippe Coutinho,a,488,FromCorner,2015,RightFoot,271,West Ham,Liverpool,2,0,2016-01-02 16:45:00,,None
+52882,80,BlockedShot,0.87,0.5179999923706055,0.026557575911283493,Christian Benteke,a,606,OpenPlay,2015,Head,271,West Ham,Liverpool,2,0,2016-01-02 16:45:00,Brad Smith,Cross
+52885,89,MissedShots,0.905,0.5209999847412109,0.08501559495925903,Joe Allen,a,480,OpenPlay,2015,Head,271,West Ham,Liverpool,2,0,2016-01-02 16:45:00,Philippe Coutinho,Cross

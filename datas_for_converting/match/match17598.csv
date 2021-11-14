@@ -1,0 +1,33 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+440311,11,MissedShots,0.715,0.5979999923706054,0.01544706430286169,Daniel Caligiuri,h,157,OpenPlay,2021,RightFoot,17598,Augsburg,VfB Stuttgart,4,1,2021-10-31 14:30:00,Andi Zeqiri,Pass
+440312,11,BlockedShot,0.794000015258789,0.7390000152587891,0.020324449986219406,Ruben Vargas,h,7810,OpenPlay,2021,RightFoot,17598,Augsburg,VfB Stuttgart,4,1,2021-10-31 14:30:00,Daniel Caligiuri,Pass
+440313,14,BlockedShot,0.86,0.43400001525878906,0.07799369841814041,Andi Zeqiri,h,9099,OpenPlay,2021,RightFoot,17598,Augsburg,VfB Stuttgart,4,1,2021-10-31 14:30:00,Daniel Caligiuri,Pass
+440315,24,MissedShots,0.8419999694824218,0.6120000076293945,0.044958263635635376,Ruben Vargas,h,7810,OpenPlay,2021,RightFoot,17598,Augsburg,VfB Stuttgart,4,1,2021-10-31 14:30:00,Andi Zeqiri,Chipped
+440316,28,SavedShot,0.8830000305175781,0.33,0.045682016760110855,Alfred Finnbogason,h,2655,OpenPlay,2021,RightFoot,17598,Augsburg,VfB Stuttgart,4,1,2021-10-31 14:30:00,Robert Gumny,Chipped
+440317,29,Goal,0.9459999847412109,0.4759999847412109,0.07955782115459442,Reece Oxford,h,543,FromCorner,2021,Head,17598,Augsburg,VfB Stuttgart,4,1,2021-10-31 14:30:00,Arne Maier,Aerial
+440321,39,SavedShot,0.970999984741211,0.5070000076293946,0.7357880473136902,Reece Oxford,h,543,SetPiece,2021,LeftFoot,17598,Augsburg,VfB Stuttgart,4,1,2021-10-31 14:30:00,,None
+440322,42,MissedShots,0.7519999694824219,0.425,0.0118040069937706,Tobias Strobl,h,79,OpenPlay,2021,RightFoot,17598,Augsburg,VfB Stuttgart,4,1,2021-10-31 14:30:00,Alfred Finnbogason,Aerial
+440323,45,MissedShots,0.855999984741211,0.75,0.018068362027406693,Mads Pedersen,h,7809,OpenPlay,2021,LeftFoot,17598,Augsburg,VfB Stuttgart,4,1,2021-10-31 14:30:00,Ruben Vargas,TakeOn
+440324,46,BlockedShot,0.965999984741211,0.6090000152587891,0.08511687070131302,Andi Zeqiri,h,9099,OpenPlay,2021,LeftFoot,17598,Augsburg,VfB Stuttgart,4,1,2021-10-31 14:30:00,,None
+440325,47,SavedShot,0.7859999847412109,0.5690000152587891,0.03868824988603592,Ruben Vargas,h,7810,OpenPlay,2021,LeftFoot,17598,Augsburg,VfB Stuttgart,4,1,2021-10-31 14:30:00,Mads Pedersen,BallRecovery
+440326,49,SavedShot,0.7319999694824219,0.5279999923706055,0.015513919293880463,Daniel Caligiuri,h,157,OpenPlay,2021,LeftFoot,17598,Augsburg,VfB Stuttgart,4,1,2021-10-31 14:30:00,Mads Pedersen,None
+440328,51,Goal,0.9669999694824218,0.5059999847412109,0.5457962155342102,Jeffrey Gouweleeuw,h,2665,FromCorner,2021,Head,17598,Augsburg,VfB Stuttgart,4,1,2021-10-31 14:30:00,Ruben Vargas,None
+440331,56,MissedShots,0.9480000305175781,0.525,0.08019503206014633,Tobias Strobl,h,79,FromCorner,2021,Head,17598,Augsburg,VfB Stuttgart,4,1,2021-10-31 14:30:00,Arne Maier,Aerial
+440332,63,BlockedShot,0.904000015258789,0.39099998474121095,0.118178591132164,Alfred Finnbogason,h,2655,OpenPlay,2021,RightFoot,17598,Augsburg,VfB Stuttgart,4,1,2021-10-31 14:30:00,Andi Zeqiri,Pass
+440333,64,SavedShot,0.77,0.3160000038146973,0.011734860949218273,Arne Maier,h,5298,FromCorner,2021,LeftFoot,17598,Augsburg,VfB Stuttgart,4,1,2021-10-31 14:30:00,Carlos Gruezo,Chipped
+440335,71,Goal,0.9590000152587891,0.5790000152587891,0.5572527647018433,Florian Niederlechner,h,306,SetPiece,2021,LeftFoot,17598,Augsburg,VfB Stuttgart,4,1,2021-10-31 14:30:00,Alfred Finnbogason,Pass
+440336,80,Goal,0.825,0.33799999237060546,0.05362270027399063,Alfred Finnbogason,h,2655,OpenPlay,2021,RightFoot,17598,Augsburg,VfB Stuttgart,4,1,2021-10-31 14:30:00,Andi Zeqiri,Pass
+440339,90,SavedShot,0.8230000305175781,0.705999984741211,0.039951033890247345,Andi Zeqiri,h,9099,OpenPlay,2021,LeftFoot,17598,Augsburg,VfB Stuttgart,4,1,2021-10-31 14:30:00,Florian Niederlechner,Pass
+440308,2,BlockedShot,0.79,0.534000015258789,0.11352180689573288,Daniel Didavi,a,300,DirectFreekick,2021,LeftFoot,17598,Augsburg,VfB Stuttgart,4,1,2021-10-31 14:30:00,,Standard
+440309,6,Goal,0.794000015258789,0.4490000152587891,0.03963635861873627,Chris Führich,a,6449,OpenPlay,2021,LeftFoot,17598,Augsburg,VfB Stuttgart,4,1,2021-10-31 14:30:00,Wataru Endo,Pass
+440310,9,BlockedShot,0.8030000305175782,0.68,0.03451297804713249,Borna Sosa,a,7075,OpenPlay,2021,RightFoot,17598,Augsburg,VfB Stuttgart,4,1,2021-10-31 14:30:00,Orel Mangala,Pass
+440314,19,BlockedShot,0.840999984741211,0.639000015258789,0.15259723365306854,Mateo Klimowicz,a,8809,OpenPlay,2021,LeftFoot,17598,Augsburg,VfB Stuttgart,4,1,2021-10-31 14:30:00,Orel Mangala,TakeOn
+440318,33,MissedShots,0.915,0.46599998474121096,0.08535190671682358,Marc-Oliver Kempf,a,4291,FromCorner,2021,LeftFoot,17598,Augsburg,VfB Stuttgart,4,1,2021-10-31 14:30:00,Borna Sosa,Cross
+440319,33,BlockedShot,0.9030000305175782,0.46799999237060547,0.039336126297712326,Marc-Oliver Kempf,a,4291,FromCorner,2021,Head,17598,Augsburg,VfB Stuttgart,4,1,2021-10-31 14:30:00,,Rebound
+440320,34,BlockedShot,0.96,0.5929999923706055,0.0970260500907898,Daniel Didavi,a,300,FromCorner,2021,LeftFoot,17598,Augsburg,VfB Stuttgart,4,1,2021-10-31 14:30:00,Waldemar Anton,Pass
+440327,50,BlockedShot,0.889000015258789,0.3529999923706055,0.07017968595027924,Orel Mangala,a,6088,OpenPlay,2021,RightFoot,17598,Augsburg,VfB Stuttgart,4,1,2021-10-31 14:30:00,Hamadi Al Ghaddioui,Pass
+440329,54,SavedShot,0.9640000152587891,0.6869999694824219,0.06745254993438721,Mateo Klimowicz,a,8809,OpenPlay,2021,LeftFoot,17598,Augsburg,VfB Stuttgart,4,1,2021-10-31 14:30:00,Orel Mangala,TakeOn
+440330,55,SavedShot,0.9490000152587891,0.6719999694824219,0.05847528204321861,Orel Mangala,a,6088,OpenPlay,2021,LeftFoot,17598,Augsburg,VfB Stuttgart,4,1,2021-10-31 14:30:00,Hamadi Al Ghaddioui,Pass
+440334,67,BlockedShot,0.7969999694824219,0.455,0.04606401175260544,Wahidullah Faghir,a,10054,OpenPlay,2021,RightFoot,17598,Augsburg,VfB Stuttgart,4,1,2021-10-31 14:30:00,Tanguy Coulibaly,Pass
+440337,83,BlockedShot,0.8040000152587891,0.5329999923706055,0.05251225829124451,Hamadi Al Ghaddioui,a,8810,OpenPlay,2021,RightFoot,17598,Augsburg,VfB Stuttgart,4,1,2021-10-31 14:30:00,Orel Mangala,Pass
+440338,89,MissedShots,0.894000015258789,0.5270000076293946,0.056171439588069916,Hamadi Al Ghaddioui,a,8810,FromCorner,2021,Head,17598,Augsburg,VfB Stuttgart,4,1,2021-10-31 14:30:00,Pascal Stenzel,Cross

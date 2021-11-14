@@ -1,0 +1,29 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+420205,3,MissedShots,0.8930000305175781,0.34799999237060547,0.06546405702829361,Ferrán Torres,h,6441,OpenPlay,2020,RightFoot,14781,Manchester City,Chelsea,1,2,2021-05-08 16:30:00,Rúben Dias,Chipped
+420206,7,BlockedShot,0.765,0.6359999847412109,0.018678471446037292,Gabriel Jesus,h,5543,OpenPlay,2020,RightFoot,14781,Manchester City,Chelsea,1,2,2021-05-08 16:30:00,,None
+420207,7,MissedShots,0.8109999847412109,0.7280000305175781,0.02201189659535885,Benjamin Mendy,h,3389,OpenPlay,2020,LeftFoot,14781,Manchester City,Chelsea,1,2,2021-05-08 16:30:00,Sergio Agüero,BallTouch
+420209,16,BlockedShot,0.7190000152587891,0.555,0.01341939251869917,Rodri,h,2496,OpenPlay,2020,RightFoot,14781,Manchester City,Chelsea,1,2,2021-05-08 16:30:00,Benjamin Mendy,Pass
+420213,34,SavedShot,0.7759999847412109,0.624000015258789,0.025640474632382393,Raheem Sterling,h,618,OpenPlay,2020,RightFoot,14781,Manchester City,Chelsea,1,2,2021-05-08 16:30:00,,Tackle
+420216,43,Goal,0.9169999694824219,0.5729999923706055,0.4375620484352112,Raheem Sterling,h,618,OpenPlay,2020,LeftFoot,14781,Manchester City,Chelsea,1,2,2021-05-08 16:30:00,Sergio Agüero,Pass
+420217,47,SavedShot,0.885,0.5,0.7611688375473022,Sergio Agüero,h,619,Penalty,2020,RightFoot,14781,Manchester City,Chelsea,1,2,2021-05-08 16:30:00,,Standard
+420218,50,SavedShot,0.7180000305175781,0.47200000762939454,0.013119838200509548,Sergio Agüero,h,619,OpenPlay,2020,RightFoot,14781,Manchester City,Chelsea,1,2,2021-05-08 16:30:00,Ferrán Torres,HeadPass
+420220,52,BlockedShot,0.764000015258789,0.37599998474121094,0.029947375878691673,Gabriel Jesus,h,5543,OpenPlay,2020,RightFoot,14781,Manchester City,Chelsea,1,2,2021-05-08 16:30:00,Rodri,Pass
+420224,68,BlockedShot,0.9330000305175781,0.575999984741211,0.07433731108903885,Rodri,h,2496,FromCorner,2020,Head,14781,Manchester City,Chelsea,1,2,2021-05-08 16:30:00,Ferrán Torres,Cross
+420225,70,MissedShots,0.825,0.47,0.043989960104227066,Ilkay Gündogan,h,314,FromCorner,2020,RightFoot,14781,Manchester City,Chelsea,1,2,2021-05-08 16:30:00,,None
+420226,77,MissedShots,0.815,0.46700000762939453,0.04733238369226456,Gabriel Jesus,h,5543,OpenPlay,2020,LeftFoot,14781,Manchester City,Chelsea,1,2,2021-05-08 16:30:00,Benjamin Mendy,Chipped
+420227,81,BlockedShot,0.905,0.33799999237060546,0.0581282414495945,Raheem Sterling,h,618,OpenPlay,2020,RightFoot,14781,Manchester City,Chelsea,1,2,2021-05-08 16:30:00,João Cancelo,Chipped
+420228,83,MissedShots,0.8530000305175781,0.3039999961853027,0.039557840675115585,João Cancelo,h,2379,OpenPlay,2020,LeftFoot,14781,Manchester City,Chelsea,1,2,2021-05-08 16:30:00,Rodri,Pass
+420229,85,MissedShots,0.9369999694824219,0.6179999923706054,0.0819077119231224,Phil Foden,h,6055,OpenPlay,2020,LeftFoot,14781,Manchester City,Chelsea,1,2,2021-05-08 16:30:00,Ilkay Gündogan,Cross
+420230,86,BlockedShot,0.8769999694824219,0.5790000152587891,0.059416264295578,Ilkay Gündogan,h,314,OpenPlay,2020,RightFoot,14781,Manchester City,Chelsea,1,2,2021-05-08 16:30:00,Gabriel Jesus,HeadPass
+420208,13,BlockedShot,0.794000015258789,0.26600000381469724,0.054367002099752426,Reece James,a,8067,DirectFreekick,2020,RightFoot,14781,Manchester City,Chelsea,1,2,2021-05-08 16:30:00,,Standard
+420210,17,BlockedShot,0.8030000305175782,0.5329999923706055,0.05113431066274643,Billy Gilmour,a,7988,OpenPlay,2020,RightFoot,14781,Manchester City,Chelsea,1,2,2021-05-08 16:30:00,Timo Werner,Pass
+420211,31,MissedShots,0.8290000152587891,0.28700000762939454,0.026513272896409035,Reece James,a,8067,OpenPlay,2020,RightFoot,14781,Manchester City,Chelsea,1,2,2021-05-08 16:30:00,,None
+420212,32,MissedShots,0.8630000305175781,0.6409999847412109,0.08610724657773972,Timo Werner,a,65,OpenPlay,2020,RightFoot,14781,Manchester City,Chelsea,1,2,2021-05-08 16:30:00,Billy Gilmour,Pass
+420214,42,SavedShot,0.7340000152587891,0.3820000076293945,0.019133854657411575,Hakim Ziyech,a,8992,OpenPlay,2020,LeftFoot,14781,Manchester City,Chelsea,1,2,2021-05-08 16:30:00,Billy Gilmour,Pass
+420215,42,MissedShots,0.7230000305175781,0.6709999847412109,0.01182439923286438,Antonio Rüdiger,a,1822,OpenPlay,2020,RightFoot,14781,Manchester City,Chelsea,1,2,2021-05-08 16:30:00,Marcos Alonso,Pass
+420219,51,SavedShot,0.725,0.43400001525878906,0.01781250350177288,Hakim Ziyech,a,8992,OpenPlay,2020,LeftFoot,14781,Manchester City,Chelsea,1,2,2021-05-08 16:30:00,Reece James,Pass
+420221,59,BlockedShot,0.8119999694824219,0.455,0.04899170994758606,Reece James,a,8067,OpenPlay,2020,RightFoot,14781,Manchester City,Chelsea,1,2,2021-05-08 16:30:00,Hakim Ziyech,Pass
+420222,59,MissedShots,0.8430000305175781,0.47299999237060547,0.07450714707374573,Christian Pulisic,a,2662,OpenPlay,2020,RightFoot,14781,Manchester City,Chelsea,1,2,2021-05-08 16:30:00,Marcos Alonso,Pass
+420223,62,Goal,0.8369999694824218,0.485,0.06830016523599625,Hakim Ziyech,a,8992,OpenPlay,2020,LeftFoot,14781,Manchester City,Chelsea,1,2,2021-05-08 16:30:00,César Azpilicueta,Pass
+420231,88,SavedShot,0.8580000305175781,0.769000015258789,0.020630333572626114,Marcos Alonso,a,1621,OpenPlay,2020,LeftFoot,14781,Manchester City,Chelsea,1,2,2021-05-08 16:30:00,,None
+420232,91,Goal,0.91,0.4809999847412109,0.14040224254131317,Marcos Alonso,a,1621,OpenPlay,2020,RightFoot,14781,Manchester City,Chelsea,1,2,2021-05-08 16:30:00,Timo Werner,Pass

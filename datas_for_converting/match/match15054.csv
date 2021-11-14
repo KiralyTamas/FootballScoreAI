@@ -1,0 +1,25 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+412061,5,BlockedShot,0.765,0.3029999923706055,0.013110247440636158,Mikel Oyarzabal,h,2234,OpenPlay,2020,LeftFoot,15054,Real Sociedad,Barcelona,1,6,2021-03-21 20:00:00,Alexander Isak,HeadPass
+412064,23,SavedShot,0.9319999694824219,0.5479999923706055,0.5092174410820007,Alexander Isak,h,5232,OpenPlay,2020,RightFoot,15054,Real Sociedad,Barcelona,1,6,2021-03-21 20:00:00,,BallRecovery
+412068,38,SavedShot,0.8619999694824219,0.639000015258789,0.05224307253956795,Alexander Isak,h,5232,OpenPlay,2020,RightFoot,15054,Real Sociedad,Barcelona,1,6,2021-03-21 20:00:00,Mikel Merino,Pass
+412071,48,BlockedShot,0.8109999847412109,0.754000015258789,0.016946742311120033,Martín Merquelanz,h,7101,OpenPlay,2020,LeftFoot,15054,Real Sociedad,Barcelona,1,6,2021-03-21 20:00:00,Mikel Oyarzabal,Pass
+412077,72,SavedShot,0.7959999847412109,0.26799999237060546,0.01787463203072548,Adnan Januzaj,h,323,OpenPlay,2020,LeftFoot,15054,Real Sociedad,Barcelona,1,6,2021-03-21 20:00:00,Carlos Fernández,Pass
+412078,76,Goal,0.83,0.36,0.04758581146597862,Ander Barrenetxea,h,7308,OpenPlay,2020,RightFoot,15054,Real Sociedad,Barcelona,1,6,2021-03-21 20:00:00,Carlos Fernández,Pass
+412080,84,MissedShots,0.8290000152587891,0.42700000762939455,0.06065621227025986,Jon Bautista,h,2238,OpenPlay,2020,RightFoot,15054,Real Sociedad,Barcelona,1,6,2021-03-21 20:00:00,Ander Barrenetxea,Pass
+412081,86,SavedShot,0.8480000305175781,0.47400001525878904,0.08227799832820892,Carlos Fernández,h,2070,OpenPlay,2020,LeftFoot,15054,Real Sociedad,Barcelona,1,6,2021-03-21 20:00:00,Jon Bautista,Pass
+412082,86,BlockedShot,0.7909999847412109,0.665,0.026389889419078827,Jon Bautista,h,2238,OpenPlay,2020,LeftFoot,15054,Real Sociedad,Barcelona,1,6,2021-03-21 20:00:00,Carlos Fernández,Pass
+412084,92,BlockedShot,0.8769999694824219,0.585999984741211,0.09084589779376984,Adnan Januzaj,h,323,OpenPlay,2020,LeftFoot,15054,Real Sociedad,Barcelona,1,6,2021-03-21 20:00:00,Martín Merquelanz,Pass
+412062,10,SavedShot,0.8159999847412109,0.55,0.06158037483692169,Lionel Messi,a,2097,OpenPlay,2020,RightFoot,15054,Real Sociedad,Barcelona,1,6,2021-03-21 20:00:00,Jordi Alba,Pass
+412063,16,BlockedShot,0.8119999694824219,0.47099998474121096,0.05493275076150894,Lionel Messi,a,2097,OpenPlay,2020,LeftFoot,15054,Real Sociedad,Barcelona,1,6,2021-03-21 20:00:00,Sergio Busquets,Pass
+412065,33,BlockedShot,0.8059999847412109,0.49700000762939456,0.05408518388867378,Pedri,a,8935,OpenPlay,2020,RightFoot,15054,Real Sociedad,Barcelona,1,6,2021-03-21 20:00:00,Jordi Alba,Pass
+412066,36,SavedShot,0.955999984741211,0.5029999923706054,0.6448805332183838,Ousmane Dembélé,a,3226,OpenPlay,2020,RightFoot,15054,Real Sociedad,Barcelona,1,6,2021-03-21 20:00:00,Jordi Alba,Pass
+412067,36,Goal,0.9330000305175781,0.5179999923706055,0.5789059996604919,Antoine Griezmann,a,2270,OpenPlay,2020,LeftFoot,15054,Real Sociedad,Barcelona,1,6,2021-03-21 20:00:00,,Rebound
+412069,42,Goal,0.9259999847412109,0.34900001525878904,0.347135454416275,Sergiño Dest,a,8979,OpenPlay,2020,RightFoot,15054,Real Sociedad,Barcelona,1,6,2021-03-21 20:00:00,Lionel Messi,Pass
+412070,47,BlockedShot,0.8,0.710999984741211,0.03618575260043144,Clement Lenglet,a,5050,OpenPlay,2020,LeftFoot,15054,Real Sociedad,Barcelona,1,6,2021-03-21 20:00:00,Antoine Griezmann,Pass
+412072,52,Goal,0.9259999847412109,0.4879999923706055,0.5862261056900024,Sergiño Dest,a,8979,OpenPlay,2020,RightFoot,15054,Real Sociedad,Barcelona,1,6,2021-03-21 20:00:00,,None
+412073,55,Goal,0.9030000305175782,0.524000015258789,0.522255003452301,Lionel Messi,a,2097,OpenPlay,2020,LeftFoot,15054,Real Sociedad,Barcelona,1,6,2021-03-21 20:00:00,Sergio Busquets,Throughball
+412074,58,SavedShot,0.975,0.36700000762939455,0.13115915656089783,Ousmane Dembélé,a,3226,OpenPlay,2020,RightFoot,15054,Real Sociedad,Barcelona,1,6,2021-03-21 20:00:00,Sergiño Dest,Throughball
+412075,59,SavedShot,0.75,0.44599998474121094,0.031241005286574364,Jordi Alba,a,2093,FromCorner,2020,LeftFoot,15054,Real Sociedad,Barcelona,1,6,2021-03-21 20:00:00,Lionel Messi,Pass
+412076,70,Goal,0.8580000305175781,0.68,0.07066334784030914,Ousmane Dembélé,a,3226,OpenPlay,2020,LeftFoot,15054,Real Sociedad,Barcelona,1,6,2021-03-21 20:00:00,Ilaix Moriba,Pass
+412079,79,BlockedShot,0.8059999847412109,0.7169999694824218,0.07362353801727295,Lionel Messi,a,2097,DirectFreekick,2020,LeftFoot,15054,Real Sociedad,Barcelona,1,6,2021-03-21 20:00:00,,Standard
+412083,88,Goal,0.8980000305175782,0.5570000076293945,0.5142524838447571,Lionel Messi,a,2097,OpenPlay,2020,LeftFoot,15054,Real Sociedad,Barcelona,1,6,2021-03-21 20:00:00,Jordi Alba,Pass

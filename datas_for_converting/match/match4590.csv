@@ -1,0 +1,33 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+18967,8,MissedShots,0.7969999694824219,0.3270000076293945,0.0468013770878315,Jamie Vardy,h,755,OpenPlay,2014,RightFoot,4590,Leicester,Liverpool,1,3,2014-12-02 19:45:00,Leonardo Ulloa,Pass
+18968,17,MissedShots,0.81,0.5120000076293946,0.03572653606534004,Jeffrey Schlupp,h,757,FromCorner,2014,LeftFoot,4590,Leicester,Liverpool,1,3,2014-12-02 19:45:00,,None
+18969,19,MissedShots,0.7380000305175781,0.5570000076293945,0.24286168813705444,Esteban Cambiasso,h,4440,OpenPlay,2014,LeftFoot,4590,Leicester,Liverpool,1,3,2014-12-02 19:45:00,,None
+18970,20,BlockedShot,0.94,0.345,0.3176809549331665,Jamie Vardy,h,755,OpenPlay,2014,RightFoot,4590,Leicester,Liverpool,1,3,2014-12-02 19:45:00,Riyad Mahrez,Throughball
+18971,20,ShotOnPost,0.945,0.30700000762939456,0.04381011798977852,Leonardo Ulloa,h,756,OpenPlay,2014,LeftFoot,4590,Leicester,Liverpool,1,3,2014-12-02 19:45:00,,Rebound
+18975,29,MissedShots,0.9540000152587891,0.55,0.08387581259012222,Marcin Wasilewski,h,760,FromCorner,2014,OtherBodyPart,4590,Leicester,Liverpool,1,3,2014-12-02 19:45:00,Matthew James,Aerial
+18977,35,SavedShot,0.8090000152587891,0.5670000076293945,0.030672719702124596,Riyad Mahrez,h,750,OpenPlay,2014,LeftFoot,4590,Leicester,Liverpool,1,3,2014-12-02 19:45:00,Leonardo Ulloa,Cross
+18978,46,MissedShots,0.695,0.5070000076293946,0.010040303692221642,Matthew James,h,4441,OpenPlay,2014,RightFoot,4590,Leicester,Liverpool,1,3,2014-12-02 19:45:00,Esteban Cambiasso,Chipped
+18979,50,MissedShots,0.7290000152587891,0.235,0.010950504802167416,Ritchie de Laet,h,955,OpenPlay,2014,RightFoot,4590,Leicester,Liverpool,1,3,2014-12-02 19:45:00,,BallRecovery
+18981,54,MissedShots,0.805,0.580999984741211,0.05888999253511429,Leonardo Ulloa,h,756,OpenPlay,2014,LeftFoot,4590,Leicester,Liverpool,1,3,2014-12-02 19:45:00,Esteban Cambiasso,LayOff
+18983,61,MissedShots,0.8069999694824219,0.46700000762939453,0.03715289384126663,Marcin Wasilewski,h,760,SetPiece,2014,LeftFoot,4590,Leicester,Liverpool,1,3,2014-12-02 19:45:00,Jeffrey Schlupp,Pass
+18985,65,MissedShots,0.6909999847412109,0.32099998474121094,0.029360778629779816,Riyad Mahrez,h,750,DirectFreekick,2014,LeftFoot,4590,Leicester,Liverpool,1,3,2014-12-02 19:45:00,,Standard
+18986,68,BlockedShot,0.7190000152587891,0.5109999847412109,0.04589433968067169,Matthew James,h,4441,DirectFreekick,2014,RightFoot,4590,Leicester,Liverpool,1,3,2014-12-02 19:45:00,,Standard
+18987,73,SavedShot,0.9119999694824219,0.30100000381469727,0.027965661138296127,Riyad Mahrez,h,750,OpenPlay,2014,RightFoot,4590,Leicester,Liverpool,1,3,2014-12-02 19:45:00,,TakeOn
+18988,73,BlockedShot,0.8830000305175781,0.45,0.08009742200374603,Esteban Cambiasso,h,4440,OpenPlay,2014,LeftFoot,4590,Leicester,Liverpool,1,3,2014-12-02 19:45:00,,Rebound
+18989,78,BlockedShot,0.8180000305175781,0.5129999923706055,0.019349893555045128,Jamie Vardy,h,755,SetPiece,2014,RightFoot,4590,Leicester,Liverpool,1,3,2014-12-02 19:45:00,,Aerial
+18990,78,BlockedShot,0.7340000152587891,0.500999984741211,0.017242146655917168,Jeffrey Schlupp,h,757,FromCorner,2014,RightFoot,4590,Leicester,Liverpool,1,3,2014-12-02 19:45:00,,BallTouch
+18993,87,BlockedShot,0.8719999694824219,0.6530000305175782,0.03548868000507355,Riyad Mahrez,h,750,OpenPlay,2014,RightFoot,4590,Leicester,Liverpool,1,3,2014-12-02 19:45:00,Esteban Cambiasso,Chipped
+18994,87,BlockedShot,0.7659999847412109,0.445,0.0233966875821352,Matthew James,h,4441,OpenPlay,2014,RightFoot,4590,Leicester,Liverpool,1,3,2014-12-02 19:45:00,Esteban Cambiasso,Pass
+18996,95,SavedShot,0.9069999694824219,0.49599998474121093,0.05817984789609909,Leonardo Ulloa,h,756,OpenPlay,2014,Head,4590,Leicester,Liverpool,1,3,2014-12-02 19:45:00,Marc Albrighton,Aerial
+18965,8,BlockedShot,0.81,0.29100000381469726,0.02480950579047203,Adam Lallana,a,486,OpenPlay,2014,LeftFoot,4590,Leicester,Liverpool,1,3,2014-12-02 19:45:00,,BallRecovery
+18966,8,BlockedShot,0.7219999694824218,0.509000015258789,0.012712892144918442,Lucas Leiva,a,475,OpenPlay,2014,RightFoot,4590,Leicester,Liverpool,1,3,2014-12-02 19:45:00,,Rebound
+18972,20,OwnGoal,0.012000000476837159,0.5329999923706055,0,Simon Mignolet,a,487,OpenPlay,2014,OtherBodyPart,4590,Leicester,Liverpool,1,3,2014-12-02 19:45:00,,None
+18973,24,MissedShots,0.72,0.49599998474121093,0.014136559329926968,Glen Johnson,a,944,FromCorner,2014,RightFoot,4590,Leicester,Liverpool,1,3,2014-12-02 19:45:00,,None
+18974,25,Goal,0.9280000305175782,0.43400001525878906,0.07067527621984482,Adam Lallana,a,486,SetPiece,2014,LeftFoot,4590,Leicester,Liverpool,1,3,2014-12-02 19:45:00,,Aerial
+18976,32,BlockedShot,0.9169999694824219,0.5309999847412109,0.0373104102909565,Martin Skrtel,a,607,FromCorner,2014,Head,4590,Leicester,Liverpool,1,3,2014-12-02 19:45:00,Steven Gerrard,Aerial
+18980,53,Goal,0.884000015258789,0.49599998474121093,0.39744284749031067,Steven Gerrard,a,4408,OpenPlay,2014,RightFoot,4590,Leicester,Liverpool,1,3,2014-12-02 19:45:00,,None
+18982,58,MissedShots,0.7880000305175782,0.4209999847412109,0.0424591563642025,Steven Gerrard,a,4408,OpenPlay,2014,RightFoot,4590,Leicester,Liverpool,1,3,2014-12-02 19:45:00,Jordan Henderson,Pass
+18984,62,MissedShots,0.735999984741211,0.49700000762939456,0.05124885216355324,Raheem Sterling,a,618,OpenPlay,2014,RightFoot,4590,Leicester,Liverpool,1,3,2014-12-02 19:45:00,,BallRecovery
+18991,82,BlockedShot,0.8959999847412109,0.7030000305175781,0.022989196702837944,Martin Skrtel,a,607,FromCorner,2014,LeftFoot,4590,Leicester,Liverpool,1,3,2014-12-02 19:45:00,Jordan Henderson,Aerial
+18992,82,Goal,0.925,0.455,0.5151063799858093,Jordan Henderson,a,605,OpenPlay,2014,RightFoot,4590,Leicester,Liverpool,1,3,2014-12-02 19:45:00,Raheem Sterling,Pass
+18995,93,BlockedShot,0.9330000305175781,0.6840000152587891,0.1126287579536438,Jordan Henderson,a,605,OpenPlay,2014,RightFoot,4590,Leicester,Liverpool,1,3,2014-12-02 19:45:00,Steven Gerrard,Pass

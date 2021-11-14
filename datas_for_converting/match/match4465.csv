@@ -1,0 +1,23 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+22529,28,BlockedShot,0.7709999847412109,0.45,0.020270593464374542,Eden Hazard,h,701,FromCorner,2014,RightFoot,4465,Chelsea,Manchester United,1,0,2015-04-18 17:30:00,,None
+22530,29,BlockedShot,0.7269999694824218,0.515,0.049948882311582565,Didier Drogba,h,4434,DirectFreekick,2014,RightFoot,4465,Chelsea,Manchester United,1,0,2015-04-18 17:30:00,,Standard
+22531,37,Goal,0.9459999847412109,0.6509999847412109,0.29473093152046204,Eden Hazard,h,701,OpenPlay,2014,LeftFoot,4465,Chelsea,Manchester United,1,0,2015-04-18 17:30:00,Oscar,Pass
+22533,45,MissedShots,0.815,0.2720000076293945,0.020824987441301346,Kurt Zouma,h,935,OpenPlay,2014,RightFoot,4465,Chelsea,Manchester United,1,0,2015-04-18 17:30:00,Cesc Fàbregas,HeadPass
+22534,53,BlockedShot,0.905,0.345,0.15325453877449036,Didier Drogba,h,4434,OpenPlay,2014,RightFoot,4465,Chelsea,Manchester United,1,0,2015-04-18 17:30:00,Nemanja Matic,Throughball
+22535,53,ShotOnPost,0.9840000152587891,0.5629999923706055,0.6384239196777344,Eden Hazard,h,701,OpenPlay,2014,RightFoot,4465,Chelsea,Manchester United,1,0,2015-04-18 17:30:00,,Rebound
+22543,72,SavedShot,0.825,0.5790000152587891,0.06968894600868225,Eden Hazard,h,701,OpenPlay,2014,LeftFoot,4465,Chelsea,Manchester United,1,0,2015-04-18 17:30:00,César Azpilicueta,Pass
+22525,3,MissedShots,0.855999984741211,0.5670000076293945,0.08804826438426971,Wayne Rooney,a,629,OpenPlay,2014,LeftFoot,4465,Chelsea,Manchester United,1,0,2015-04-18 17:30:00,Luke Shaw,Pass
+22526,6,MissedShots,0.7930000305175782,0.7480000305175781,0.015923144295811653,Luke Shaw,a,1006,OpenPlay,2014,LeftFoot,4465,Chelsea,Manchester United,1,0,2015-04-18 17:30:00,Ashley Young,Pass
+22527,11,MissedShots,0.7140000152587891,0.5790000152587891,0.014676298946142197,Ander Herrera,a,552,OpenPlay,2014,RightFoot,4465,Chelsea,Manchester United,1,0,2015-04-18 17:30:00,Juan Mata,Pass
+22528,12,BlockedShot,0.7290000152587891,0.40200000762939453,0.01500446442514658,Paddy McNair,a,559,OpenPlay,2014,RightFoot,4465,Chelsea,Manchester United,1,0,2015-04-18 17:30:00,Ander Herrera,TakeOn
+22532,39,BlockedShot,0.7390000152587891,0.4470000076293945,0.016362342983484268,Ander Herrera,a,552,OpenPlay,2014,RightFoot,4465,Chelsea,Manchester United,1,0,2015-04-18 17:30:00,Falcao,BallRecovery
+22536,57,MissedShots,0.86,0.555,0.08921774476766586,Luke Shaw,a,1006,SetPiece,2014,LeftFoot,4465,Chelsea,Manchester United,1,0,2015-04-18 17:30:00,Juan Mata,Pass
+22537,60,SavedShot,0.7390000152587891,0.585,0.017820842564105988,Paddy McNair,a,559,OpenPlay,2014,RightFoot,4465,Chelsea,Manchester United,1,0,2015-04-18 17:30:00,Juan Mata,Pass
+22538,60,MissedShots,0.899000015258789,0.544000015258789,0.11204630136489868,Juan Mata,a,554,OpenPlay,2014,LeftFoot,4465,Chelsea,Manchester United,1,0,2015-04-18 17:30:00,Luke Shaw,Pass
+22539,63,BlockedShot,0.8380000305175781,0.44099998474121094,0.06572556495666504,Wayne Rooney,a,629,OpenPlay,2014,RightFoot,4465,Chelsea,Manchester United,1,0,2015-04-18 17:30:00,Marouane Fellaini,Pass
+22540,66,MissedShots,0.7419999694824219,0.5940000152587891,0.019749736413359642,Falcao,a,696,OpenPlay,2014,LeftFoot,4465,Chelsea,Manchester United,1,0,2015-04-18 17:30:00,Ashley Young,Pass
+22541,67,SavedShot,0.7290000152587891,0.32,0.01274146419018507,Wayne Rooney,a,629,OpenPlay,2014,RightFoot,4465,Chelsea,Manchester United,1,0,2015-04-18 17:30:00,Juan Mata,LayOff
+22542,70,BlockedShot,0.9030000305175782,0.4520000076293945,0.11742764711380005,Falcao,a,696,OpenPlay,2014,RightFoot,4465,Chelsea,Manchester United,1,0,2015-04-18 17:30:00,Marouane Fellaini,Pass
+22544,76,ShotOnPost,0.95,0.6819999694824219,0.0952380821108818,Falcao,a,696,OpenPlay,2014,LeftFoot,4465,Chelsea,Manchester United,1,0,2015-04-18 17:30:00,Luke Shaw,Throughball
+22545,82,MissedShots,0.8969999694824219,0.5459999847412109,0.049171071499586105,Wayne Rooney,a,629,FromCorner,2014,Head,4465,Chelsea,Manchester United,1,0,2015-04-18 17:30:00,Ángel Di María,Cross
+22546,87,BlockedShot,0.7080000305175781,0.46599998474121096,0.01546003483235836,Ángel Di María,a,3553,OpenPlay,2014,LeftFoot,4465,Chelsea,Manchester United,1,0,2015-04-18 17:30:00,Adnan Januzaj,Pass

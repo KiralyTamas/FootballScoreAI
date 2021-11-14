@@ -1,0 +1,15 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+59781,3,MissedShots,0.9059999847412109,0.4,0.0364028699696064,Papiss Demba Cissé,h,850,OpenPlay,2015,Head,415,Newcastle United,Manchester City,1,1,2016-04-19 22:45:00,Andros Townsend,Cross
+59784,28,SavedShot,0.7980000305175782,0.5920000076293945,0.03427568078041077,Moussa Sissoko,h,772,OpenPlay,2015,RightFoot,415,Newcastle United,Manchester City,1,1,2016-04-19 22:45:00,,TakeOn
+59785,30,Goal,0.9030000305175782,0.295,0.033068083226680756,Vurnon Anita,h,768,OpenPlay,2015,LeftFoot,415,Newcastle United,Manchester City,1,1,2016-04-19 22:45:00,Moussa Sissoko,Chipped
+59795,87,SavedShot,0.9290000152587891,0.37099998474121093,0.3204672336578369,Georginio Wijnaldum,h,771,OpenPlay,2015,RightFoot,415,Newcastle United,Manchester City,1,1,2016-04-19 22:45:00,,TakeOn
+59796,87,MissedShots,0.9840000152587891,0.33,0.04566758871078491,Georginio Wijnaldum,h,771,OpenPlay,2015,RightFoot,415,Newcastle United,Manchester City,1,1,2016-04-19 22:45:00,,Rebound
+59782,13,Goal,0.9230000305175782,0.5509999847412109,0.12084434926509857,Sergio Agüero,a,619,SetPiece,2015,Head,415,Newcastle United,Manchester City,1,1,2016-04-19 22:45:00,Aleksandar Kolarov,Cross
+59783,22,MissedShots,0.8130000305175781,0.445,0.06674200296401978,Kevin De Bruyne,a,447,OpenPlay,2015,RightFoot,415,Newcastle United,Manchester City,1,1,2016-04-19 22:45:00,,BallRecovery
+59786,51,BlockedShot,0.875,0.3139999961853027,0.04728088527917862,Kevin De Bruyne,a,447,OpenPlay,2015,RightFoot,415,Newcastle United,Manchester City,1,1,2016-04-19 22:45:00,,None
+59787,53,SavedShot,0.92,0.3160000038146973,0.10344495624303818,Jesús Navas,a,616,SetPiece,2015,RightFoot,415,Newcastle United,Manchester City,1,1,2016-04-19 22:45:00,Yaya Touré,Throughball
+59788,54,MissedShots,0.875,0.47,0.02582915686070919,Vincent Kompany,a,612,FromCorner,2015,Head,415,Newcastle United,Manchester City,1,1,2016-04-19 22:45:00,Aleksandar Kolarov,Cross
+59789,62,SavedShot,0.8590000152587891,0.5179999923706055,0.10316633433103561,Sergio Agüero,a,619,OpenPlay,2015,RightFoot,415,Newcastle United,Manchester City,1,1,2016-04-19 22:45:00,Jesús Navas,Pass
+59792,73,SavedShot,0.7230000305175781,0.47,0.016430029645562172,Kevin De Bruyne,a,447,OpenPlay,2015,RightFoot,415,Newcastle United,Manchester City,1,1,2016-04-19 22:45:00,Sergio Agüero,Pass
+59793,86,SavedShot,0.875999984741211,0.54,0.02134719491004944,Wilfried Bony,a,622,SetPiece,2015,Head,415,Newcastle United,Manchester City,1,1,2016-04-19 22:45:00,,Aerial
+59794,86,MissedShots,0.730999984741211,0.5029999923706054,0.01695770025253296,Aleksandar Kolarov,a,621,FromCorner,2015,LeftFoot,415,Newcastle United,Manchester City,1,1,2016-04-19 22:45:00,,BallTouch

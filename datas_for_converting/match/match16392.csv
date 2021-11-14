@@ -1,0 +1,25 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+427514,0,SavedShot,0.7240000152587891,0.7090000152587891,0.03432231396436691,James Ward-Prowse,h,843,DirectFreekick,2021,RightFoot,16392,Southampton,Manchester United,1,1,2021-08-22 13:00:00,,Standard
+427520,27,MissedShots,0.8059999847412109,0.654000015258789,0.030025383457541466,Adam Armstrong,h,4419,OpenPlay,2021,RightFoot,16392,Southampton,Manchester United,1,1,2021-08-22 13:00:00,Moussa Djenepo,Pass
+427521,28,BlockedShot,0.9069999694824219,0.740999984741211,0.037314798682928085,Moussa Djenepo,h,7701,OpenPlay,2021,RightFoot,16392,Southampton,Manchester United,1,1,2021-08-22 13:00:00,,None
+427522,29,MissedShots,0.8180000305175781,0.46900001525878904,0.06634452939033508,Che Adams,h,7700,OpenPlay,2021,LeftFoot,16392,Southampton,Manchester United,1,1,2021-08-22 13:00:00,Adam Armstrong,Pass
+427528,51,MissedShots,0.7569999694824219,0.36900001525878906,0.02404049225151539,Valentino Livramento,h,9512,OpenPlay,2021,RightFoot,16392,Southampton,Manchester United,1,1,2021-08-22 13:00:00,Che Adams,Pass
+427534,73,SavedShot,0.855999984741211,0.5070000076293946,0.306453138589859,Adam Armstrong,h,4419,OpenPlay,2021,LeftFoot,16392,Southampton,Manchester United,1,1,2021-08-22 13:00:00,Che Adams,Pass
+427535,74,MissedShots,0.9519999694824218,0.415,0.05127435177564621,Che Adams,h,7700,FromCorner,2021,OtherBodyPart,16392,Southampton,Manchester United,1,1,2021-08-22 13:00:00,James Ward-Prowse,Cross
+427536,78,SavedShot,0.71,0.385,0.03775138035416603,James Ward-Prowse,h,843,DirectFreekick,2021,RightFoot,16392,Southampton,Manchester United,1,1,2021-08-22 13:00:00,,Standard
+427515,6,ShotOnPost,0.9440000152587891,0.524000015258789,0.5545464754104614,Harry Maguire,a,1687,SetPiece,2021,LeftFoot,16392,Southampton,Manchester United,1,1,2021-08-22 13:00:00,Bruno Fernandes,Cross
+427516,6,BlockedShot,0.9580000305175781,0.5270000076293946,0.647928774356842,Anthony Martial,a,553,SetPiece,2021,Head,16392,Southampton,Manchester United,1,1,2021-08-22 13:00:00,,Aerial
+427517,7,MissedShots,0.749000015258789,0.4329999923706055,0.02189026214182377,Mason Greenwood,a,7490,OpenPlay,2021,LeftFoot,16392,Southampton,Manchester United,1,1,2021-08-22 13:00:00,Fred,Pass
+427518,11,BlockedShot,0.95,0.3970000076293945,0.08118192851543427,Paul Pogba,a,1740,SetPiece,2021,RightFoot,16392,Southampton,Manchester United,1,1,2021-08-22 13:00:00,,None
+427519,12,MissedShots,0.92,0.48700000762939455,0.37720614671707153,Paul Pogba,a,1740,SetPiece,2021,Head,16392,Southampton,Manchester United,1,1,2021-08-22 13:00:00,Luke Shaw,Cross
+427523,29,OwnGoal,0.18899999618530272,0.5459999847412109,0,Fred,a,6817,OpenPlay,2021,LeftFoot,16392,Southampton,Manchester United,1,1,2021-08-22 13:00:00,,Foul
+427524,38,MissedShots,0.8959999847412109,0.7080000305175781,0.03764437884092331,Mason Greenwood,a,7490,OpenPlay,2021,LeftFoot,16392,Southampton,Manchester United,1,1,2021-08-22 13:00:00,Bruno Fernandes,Chipped
+427525,43,BlockedShot,0.7609999847412109,0.4370000076293945,0.07058275490999222,Bruno Fernandes,a,1228,DirectFreekick,2021,RightFoot,16392,Southampton,Manchester United,1,1,2021-08-22 13:00:00,,Standard
+427526,43,SavedShot,0.925,0.555,0.0870489850640297,Nemanja Matic,a,697,FromCorner,2021,Head,16392,Southampton,Manchester United,1,1,2021-08-22 13:00:00,Luke Shaw,Cross
+427527,47,BlockedShot,0.894000015258789,0.41,0.09751414507627487,Paul Pogba,a,1740,OpenPlay,2021,RightFoot,16392,Southampton,Manchester United,1,1,2021-08-22 13:00:00,Aaron Wan-Bissaka,Pass
+427529,54,Goal,0.8730000305175781,0.53,0.10084071010351181,Mason Greenwood,a,7490,OpenPlay,2021,LeftFoot,16392,Southampton,Manchester United,1,1,2021-08-22 13:00:00,Paul Pogba,Pass
+427530,58,MissedShots,0.8519999694824218,0.59,0.08284929394721985,Paul Pogba,a,1740,OpenPlay,2021,LeftFoot,16392,Southampton,Manchester United,1,1,2021-08-22 13:00:00,Mason Greenwood,TakeOn
+427531,63,MissedShots,0.9009999847412109,0.519000015258789,0.04555977135896683,Mason Greenwood,a,7490,OpenPlay,2021,Head,16392,Southampton,Manchester United,1,1,2021-08-22 13:00:00,Fred,Aerial
+427532,64,SavedShot,0.884000015258789,0.40299999237060546,0.021879736334085464,Bruno Fernandes,a,1228,OpenPlay,2021,Head,16392,Southampton,Manchester United,1,1,2021-08-22 13:00:00,Aaron Wan-Bissaka,Cross
+427533,68,MissedShots,0.7680000305175781,0.48200000762939454,0.01971590146422386,Mason Greenwood,a,7490,SetPiece,2021,LeftFoot,16392,Southampton,Manchester United,1,1,2021-08-22 13:00:00,,None
+427537,90,BlockedShot,0.785,0.7180000305175781,0.015342764556407928,Scott McTominay,a,5560,OpenPlay,2021,RightFoot,16392,Southampton,Manchester United,1,1,2021-08-22 13:00:00,Jadon Sancho,Pass

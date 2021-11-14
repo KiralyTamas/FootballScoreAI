@@ -1,0 +1,35 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+172741,10,SavedShot,0.7709999847412109,0.47,0.030026203021407127,Edgar Barreto,h,1225,OpenPlay,2017,LeftFoot,7505,Sampdoria,Benevento,2,1,2017-08-20 19:45:00,Gianluca Caprari,Pass
+172745,20,BlockedShot,0.7930000305175782,0.45599998474121095,0.03632451966404915,Lucas Torreira,h,1227,OpenPlay,2017,RightFoot,7505,Sampdoria,Benevento,2,1,2017-08-20 19:45:00,,None
+172746,24,MissedShots,0.7819999694824219,0.4809999847412109,0.035595234483480453,Fabio Quagliarella,h,1230,OpenPlay,2017,RightFoot,7505,Sampdoria,Benevento,2,1,2017-08-20 19:45:00,Edgar Barreto,Pass
+172748,29,BlockedShot,0.96,0.6530000305175782,0.10162368416786194,Fabio Quagliarella,h,1230,OpenPlay,2017,LeftFoot,7505,Sampdoria,Benevento,2,1,2017-08-20 19:45:00,Gianluca Caprari,Throughball
+172749,32,MissedShots,0.8690000152587891,0.56,0.0120277414098382,Edgar Barreto,h,1225,FromCorner,2017,Head,7505,Sampdoria,Benevento,2,1,2017-08-20 19:45:00,Daniel Pavlovic,Aerial
+172750,34,BlockedShot,0.7330000305175781,0.44299999237060544,0.05199061706662178,Gastón Ramírez,h,952,DirectFreekick,2017,LeftFoot,7505,Sampdoria,Benevento,2,1,2017-08-20 19:45:00,,Standard
+172751,34,BlockedShot,0.7659999847412109,0.36700000762939455,0.015058456920087337,Gastón Ramírez,h,952,SetPiece,2017,RightFoot,7505,Sampdoria,Benevento,2,1,2017-08-20 19:45:00,,Rebound
+172753,37,BlockedShot,0.759000015258789,0.6509999847412109,0.019484350457787514,Dennis Praet,h,1234,OpenPlay,2017,RightFoot,7505,Sampdoria,Benevento,2,1,2017-08-20 19:45:00,Lucas Torreira,Pass
+172754,37,SavedShot,0.9130000305175782,0.41900001525878905,0.09274169057607651,Dennis Praet,h,1234,FromCorner,2017,LeftFoot,7505,Sampdoria,Benevento,2,1,2017-08-20 19:45:00,,None
+172755,37,Goal,0.975999984741211,0.47200000762939454,0.8418663144111633,Fabio Quagliarella,h,1230,FromCorner,2017,RightFoot,7505,Sampdoria,Benevento,2,1,2017-08-20 19:45:00,,Rebound
+172757,41,SavedShot,0.9069999694824219,0.6580000305175782,0.335624098777771,Gastón Ramírez,h,952,OpenPlay,2017,LeftFoot,7505,Sampdoria,Benevento,2,1,2017-08-20 19:45:00,Gianluca Caprari,Throughball
+172760,53,Goal,0.889000015258789,0.6020000076293945,0.3546844720840454,Fabio Quagliarella,h,1230,OpenPlay,2017,LeftFoot,7505,Sampdoria,Benevento,2,1,2017-08-20 19:45:00,Gastón Ramírez,Throughball
+172766,74,MissedShots,0.9119999694824219,0.3920000076293945,0.08275265991687775,Fabio Quagliarella,h,1230,OpenPlay,2017,RightFoot,7505,Sampdoria,Benevento,2,1,2017-08-20 19:45:00,Dennis Praet,Cross
+172768,80,MissedShots,0.915,0.54,0.08037344366312027,Vasco Regini,h,1224,FromCorner,2017,Head,7505,Sampdoria,Benevento,2,1,2017-08-20 19:45:00,Lucas Torreira,Cross
+172769,80,SavedShot,0.9719999694824218,0.485,0.8278814554214478,Matías Silvestre,h,1222,FromCorner,2017,RightFoot,7505,Sampdoria,Benevento,2,1,2017-08-20 19:45:00,Vasco Regini,Rebound
+172771,93,BlockedShot,0.8480000305175781,0.6170000076293946,0.07307452708482742,Federico Bonazzoli,h,2019,OpenPlay,2017,LeftFoot,7505,Sampdoria,Benevento,2,1,2017-08-20 19:45:00,Filip Djuricic,Pass
+172738,3,SavedShot,0.7809999847412109,0.44,0.03297580033540726,Massimo Coda,a,3832,OpenPlay,2017,LeftFoot,7505,Sampdoria,Benevento,2,1,2017-08-20 19:45:00,Danilo Cataldi,Pass
+172739,4,MissedShots,0.8330000305175781,0.32599998474121095,0.036760635673999786,Massimo Coda,a,3832,OpenPlay,2017,LeftFoot,7505,Sampdoria,Benevento,2,1,2017-08-20 19:45:00,,None
+172740,7,MissedShots,0.9690000152587891,0.3120000076293945,0.02958238311111927,Amato Ciciretti,a,6193,OpenPlay,2017,RightFoot,7505,Sampdoria,Benevento,2,1,2017-08-20 19:45:00,Marco D&#039;Alessandro,Cross
+172742,12,MissedShots,0.74,0.7019999694824218,0.014309771358966827,Danilo Cataldi,a,1206,OpenPlay,2017,RightFoot,7505,Sampdoria,Benevento,2,1,2017-08-20 19:45:00,Marco D&#039;Alessandro,Pass
+172743,14,Goal,0.8859999847412109,0.3160000038146973,0.03593556582927704,Amato Ciciretti,a,6193,OpenPlay,2017,LeftFoot,7505,Sampdoria,Benevento,2,1,2017-08-20 19:45:00,Danilo Cataldi,Chipped
+172744,17,SavedShot,0.9,0.47200000762939454,0.11974800378084183,Massimo Coda,a,3832,OpenPlay,2017,RightFoot,7505,Sampdoria,Benevento,2,1,2017-08-20 19:45:00,Amato Ciciretti,Cross
+172747,26,MissedShots,0.7619999694824219,0.7280000305175781,0.017313092947006226,Gaetano Letizia,a,1972,OpenPlay,2017,RightFoot,7505,Sampdoria,Benevento,2,1,2017-08-20 19:45:00,Marco D&#039;Alessandro,Pass
+172752,36,MissedShots,0.5470000076293945,0.5129999923706055,0.00991799682378769,Danilo Cataldi,a,1206,OpenPlay,2017,RightFoot,7505,Sampdoria,Benevento,2,1,2017-08-20 19:45:00,Amato Ciciretti,Pass
+172756,39,MissedShots,0.805,0.3129999923706055,0.03041405975818634,George Puscas,a,3872,OpenPlay,2017,RightFoot,7505,Sampdoria,Benevento,2,1,2017-08-20 19:45:00,Lorenzo Venuti,Chipped
+172758,45,BlockedShot,0.8340000152587891,0.345,0.029544461518526077,Amato Ciciretti,a,6193,OpenPlay,2017,LeftFoot,7505,Sampdoria,Benevento,2,1,2017-08-20 19:45:00,Gaetano Letizia,TakeOn
+172759,51,SavedShot,0.750999984741211,0.51,0.023596622049808502,Massimo Coda,a,3832,OpenPlay,2017,RightFoot,7505,Sampdoria,Benevento,2,1,2017-08-20 19:45:00,Lorenzo Venuti,Pass
+172761,57,MissedShots,0.970999984741211,0.5540000152587891,0.461559921503067,George Puscas,a,3872,FromCorner,2017,Head,7505,Sampdoria,Benevento,2,1,2017-08-20 19:45:00,Amato Ciciretti,Cross
+172762,59,SavedShot,0.715,0.34700000762939454,0.036788132041692734,Amato Ciciretti,a,6193,DirectFreekick,2017,LeftFoot,7505,Sampdoria,Benevento,2,1,2017-08-20 19:45:00,,Standard
+172763,64,BlockedShot,0.8580000305175781,0.38799999237060545,0.06968548893928528,George Puscas,a,3872,OpenPlay,2017,RightFoot,7505,Sampdoria,Benevento,2,1,2017-08-20 19:45:00,Marco D&#039;Alessandro,Pass
+172764,69,MissedShots,0.8080000305175781,0.645,0.02637772262096405,Marco D&#039;Alessandro,a,1502,OpenPlay,2017,RightFoot,7505,Sampdoria,Benevento,2,1,2017-08-20 19:45:00,Danilo Cataldi,Chipped
+172765,72,MissedShots,0.8240000152587891,0.29100000381469726,0.03007003478705883,Amato Ciciretti,a,6193,OpenPlay,2017,LeftFoot,7505,Sampdoria,Benevento,2,1,2017-08-20 19:45:00,Massimo Coda,Pass
+172767,76,SavedShot,0.875999984741211,0.7609999847412109,0.028801100328564644,George Puscas,a,3872,OpenPlay,2017,RightFoot,7505,Sampdoria,Benevento,2,1,2017-08-20 19:45:00,Massimo Coda,Pass
+172770,91,SavedShot,0.8180000305175781,0.24700000762939453,0.020712612196803093,Massimo Coda,a,3832,OpenPlay,2017,RightFoot,7505,Sampdoria,Benevento,2,1,2017-08-20 19:45:00,Danilo Cataldi,Pass

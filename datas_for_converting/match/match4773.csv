@@ -1,0 +1,32 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+15070,1,Goal,0.96,0.3320000076293945,0.5372210741043091,Nathan Dyer,h,783,OpenPlay,2014,RightFoot,4773,Swansea,West Bromwich Albion,3,0,2014-08-30 15:00:00,Gylfi Sigurdsson,TakeOn
+15071,6,MissedShots,0.7169999694824218,0.38299999237060545,0.015547248534858227,Wilfried Bony,h,622,OpenPlay,2014,RightFoot,4773,Swansea,West Bromwich Albion,3,0,2014-08-30 15:00:00,,None
+15072,10,SavedShot,0.6669999694824219,0.7769999694824219,0.01019053254276514,Jonjo Shelvey,h,769,OpenPlay,2014,RightFoot,4773,Swansea,West Bromwich Albion,3,0,2014-08-30 15:00:00,,BallRecovery
+15073,13,MissedShots,0.905,0.5470000076293945,0.1136428490281105,Wilfried Bony,h,622,OpenPlay,2014,Head,4773,Swansea,West Bromwich Albion,3,0,2014-08-30 15:00:00,Jonjo Shelvey,Cross
+15075,23,Goal,0.8219999694824218,0.509000015258789,0.0714128389954567,Wayne Routledge,h,719,OpenPlay,2014,RightFoot,4773,Swansea,West Bromwich Albion,3,0,2014-08-30 15:00:00,,None
+15077,31,SavedShot,0.8730000305175781,0.6070000076293945,0.11976715922355652,Gylfi Sigurdsson,h,714,OpenPlay,2014,LeftFoot,4773,Swansea,West Bromwich Albion,3,0,2014-08-30 15:00:00,Wilfried Bony,Pass
+15080,43,MissedShots,0.889000015258789,0.625,0.06036969646811485,Wayne Routledge,h,719,FromCorner,2014,RightFoot,4773,Swansea,West Bromwich Albion,3,0,2014-08-30 15:00:00,,None
+15081,45,MissedShots,0.700999984741211,0.41,0.01947821117937565,Jonjo Shelvey,h,769,OpenPlay,2014,RightFoot,4773,Swansea,West Bromwich Albion,3,0,2014-08-30 15:00:00,Gylfi Sigurdsson,Pass
+15087,60,SavedShot,0.8080000305175781,0.6409999847412109,0.05318816006183624,Ki Sung-yueng,h,723,OpenPlay,2014,RightFoot,4773,Swansea,West Bromwich Albion,3,0,2014-08-30 15:00:00,Gylfi Sigurdsson,Pass
+15088,64,BlockedShot,0.8690000152587891,0.529000015258789,0.10259070992469788,Wilfried Bony,h,622,SetPiece,2014,RightFoot,4773,Swansea,West Bromwich Albion,3,0,2014-08-30 15:00:00,Wayne Routledge,Pass
+15089,64,SavedShot,0.8640000152587891,0.555,0.07728083431720734,Wilfried Bony,h,622,SetPiece,2014,RightFoot,4773,Swansea,West Bromwich Albion,3,0,2014-08-30 15:00:00,,Rebound
+15091,67,MissedShots,0.855,0.5629999923706055,0.3859907388687134,Wilfried Bony,h,622,OpenPlay,2014,RightFoot,4773,Swansea,West Bromwich Albion,3,0,2014-08-30 15:00:00,Jefferson Montero,Pass
+15092,70,Goal,0.87,0.415,0.4432834982872009,Nathan Dyer,h,783,OpenPlay,2014,RightFoot,4773,Swansea,West Bromwich Albion,3,0,2014-08-30 15:00:00,Gylfi Sigurdsson,Throughball
+15093,73,MissedShots,0.47200000762939454,0.4470000076293945,0.009332839399576187,Jonjo Shelvey,h,769,OpenPlay,2014,RightFoot,4773,Swansea,West Bromwich Albion,3,0,2014-08-30 15:00:00,Wilfried Bony,Pass
+15097,80,MissedShots,0.7,0.5659999847412109,0.015046323649585247,Jonjo Shelvey,h,769,OpenPlay,2014,RightFoot,4773,Swansea,West Bromwich Albion,3,0,2014-08-30 15:00:00,Bafétimbi Gomis,LayOff
+15074,21,BlockedShot,0.6780000305175782,0.625999984741211,0.012189935892820358,Chris Brunt,a,904,OpenPlay,2014,LeftFoot,4773,Swansea,West Bromwich Albion,3,0,2014-08-30 15:00:00,Brown Ideye,Pass
+15076,29,MissedShots,0.789000015258789,0.38799999237060545,0.012752201408147812,Graham Dorrans,a,801,OpenPlay,2014,RightFoot,4773,Swansea,West Bromwich Albion,3,0,2014-08-30 15:00:00,,Aerial
+15078,38,SavedShot,0.8009999847412109,0.36400001525878906,0.03424607962369919,Brown Ideye,a,1008,OpenPlay,2014,RightFoot,4773,Swansea,West Bromwich Albion,3,0,2014-08-30 15:00:00,Graham Dorrans,Pass
+15079,41,MissedShots,0.5459999847412109,0.5470000076293945,0.00573459779843688,Brown Ideye,a,1008,OpenPlay,2014,RightFoot,4773,Swansea,West Bromwich Albion,3,0,2014-08-30 15:00:00,Craig Gardner,BallRecovery
+15082,46,BlockedShot,0.7440000152587891,0.445,0.058575339615345,Craig Gardner,a,812,DirectFreekick,2014,RightFoot,4773,Swansea,West Bromwich Albion,3,0,2014-08-30 15:00:00,,Standard
+15083,46,BlockedShot,0.735,0.4,0.01282945740967989,Craig Gardner,a,812,SetPiece,2014,RightFoot,4773,Swansea,West Bromwich Albion,3,0,2014-08-30 15:00:00,,Rebound
+15084,48,BlockedShot,0.9030000305175782,0.7140000152587891,0.07079485803842545,Stéphane Sessegnon,a,810,SetPiece,2014,RightFoot,4773,Swansea,West Bromwich Albion,3,0,2014-08-30 15:00:00,Saido Berahino,LayOff
+15085,48,BlockedShot,0.7619999694824219,0.5129999923706055,0.022907765582203865,Youssouf Mulumbu,a,797,SetPiece,2014,RightFoot,4773,Swansea,West Bromwich Albion,3,0,2014-08-30 15:00:00,Chris Brunt,Pass
+15086,55,MissedShots,0.915,0.46,0.1596411019563675,Jonas Olsson,a,805,FromCorner,2014,Head,4773,Swansea,West Bromwich Albion,3,0,2014-08-30 15:00:00,Chris Brunt,Aerial
+15090,67,MissedShots,0.9030000305175782,0.7119999694824218,0.052400801330804825,Saido Berahino,a,811,OpenPlay,2014,RightFoot,4773,Swansea,West Bromwich Albion,3,0,2014-08-30 15:00:00,Jason Davidson,Pass
+15094,75,ShotOnPost,0.905,0.625999984741211,0.06131057068705559,Stéphane Sessegnon,a,810,OpenPlay,2014,RightFoot,4773,Swansea,West Bromwich Albion,3,0,2014-08-30 15:00:00,,None
+15095,76,BlockedShot,0.7519999694824219,0.3170000076293945,0.013797766529023647,Craig Gardner,a,812,OpenPlay,2014,RightFoot,4773,Swansea,West Bromwich Albion,3,0,2014-08-30 15:00:00,James Morrison,Pass
+15096,78,BlockedShot,0.8880000305175781,0.345,0.09145864099264145,Saido Berahino,a,811,OpenPlay,2014,RightFoot,4773,Swansea,West Bromwich Albion,3,0,2014-08-30 15:00:00,James Morrison,Throughball
+15098,82,SavedShot,0.7230000305175781,0.33099998474121095,0.010296410880982876,James Morrison,a,990,OpenPlay,2014,RightFoot,4773,Swansea,West Bromwich Albion,3,0,2014-08-30 15:00:00,Stéphane Sessegnon,Pass
+15099,82,MissedShots,0.77,0.3390000152587891,0.01617785543203354,Youssouf Mulumbu,a,797,FromCorner,2014,RightFoot,4773,Swansea,West Bromwich Albion,3,0,2014-08-30 15:00:00,,None
+15100,86,MissedShots,0.915,0.5659999847412109,0.0623030848801136,Craig Dawson,a,804,FromCorner,2014,Head,4773,Swansea,West Bromwich Albion,3,0,2014-08-30 15:00:00,James Morrison,Cross

@@ -1,0 +1,28 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+250651,2,MissedShots,0.7240000152587891,0.3940000152587891,0.011684632860124111,Nathan Redmond,h,790,OpenPlay,2018,RightFoot,9327,Southampton,Manchester United,2,2,2018-12-01 17:30:00,,None
+250653,6,BlockedShot,0.845,0.45799999237060546,0.09242163598537445,Michael Obafemi,h,6504,OpenPlay,2018,LeftFoot,9327,Southampton,Manchester United,2,2,2018-12-01 17:30:00,Nathan Redmond,Pass
+250654,12,Goal,0.8919999694824219,0.29399999618530276,0.0512656569480896,Stuart Armstrong,h,6893,OpenPlay,2018,RightFoot,9327,Southampton,Manchester United,2,2,2018-12-01 17:30:00,Michael Obafemi,Pass
+250655,17,BlockedShot,0.7140000152587891,0.5279999923706055,0.019765347242355347,Mario Lemina,h,1299,OpenPlay,2018,LeftFoot,9327,Southampton,Manchester United,2,2,2018-12-01 17:30:00,Nathan Redmond,Pass
+250656,19,Goal,0.789000015258789,0.639000015258789,0.07912351936101913,Cédric Soares,h,847,DirectFreekick,2018,RightFoot,9327,Southampton,Manchester United,2,2,2018-12-01 17:30:00,,Standard
+250660,37,MissedShots,0.78,0.3370000076293945,0.0654614269733429,Pierre-Emile Højbjerg,h,343,DirectFreekick,2018,RightFoot,9327,Southampton,Manchester United,2,2,2018-12-01 17:30:00,,Standard
+250662,43,BlockedShot,0.7559999847412109,0.32599998474121095,0.013901788741350174,Mario Lemina,h,1299,OpenPlay,2018,RightFoot,9327,Southampton,Manchester United,2,2,2018-12-01 17:30:00,,TakeOn
+250664,47,MissedShots,0.86,0.725999984741211,0.01583462953567505,Stuart Armstrong,h,6893,FromCorner,2018,RightFoot,9327,Southampton,Manchester United,2,2,2018-12-01 17:30:00,,Aerial
+250667,57,SavedShot,0.7780000305175782,0.28200000762939453,0.05128922313451767,Nathan Redmond,h,790,DirectFreekick,2018,RightFoot,9327,Southampton,Manchester United,2,2,2018-12-01 17:30:00,,Standard
+250669,67,SavedShot,0.8619999694824219,0.7440000152587891,0.02903839200735092,Manolo Gabbiadini,h,1383,OpenPlay,2018,LeftFoot,9327,Southampton,Manchester United,2,2,2018-12-01 17:30:00,Stuart Armstrong,Pass
+250671,74,MissedShots,0.8240000152587891,0.5220000076293946,0.06922388076782227,Nathan Redmond,h,790,OpenPlay,2018,LeftFoot,9327,Southampton,Manchester United,2,2,2018-12-01 17:30:00,Jack Stephens,Pass
+250672,75,SavedShot,0.695,0.5829999923706055,0.012114429846405983,Pierre-Emile Højbjerg,h,343,OpenPlay,2018,RightFoot,9327,Southampton,Manchester United,2,2,2018-12-01 17:30:00,,BallRecovery
+250673,79,SavedShot,0.7140000152587891,0.48900001525878906,0.016732005402445793,Nathan Redmond,h,790,OpenPlay,2018,RightFoot,9327,Southampton,Manchester United,2,2,2018-12-01 17:30:00,Mario Lemina,Pass
+250674,80,MissedShots,0.889000015258789,0.42700000762939455,0.026255859062075615,Pierre-Emile Højbjerg,h,343,FromCorner,2018,Head,9327,Southampton,Manchester United,2,2,2018-12-01 17:30:00,Nathan Redmond,Cross
+250675,82,BlockedShot,0.7880000305175782,0.5829999923706055,0.03356366977095604,Manolo Gabbiadini,h,1383,OpenPlay,2018,LeftFoot,9327,Southampton,Manchester United,2,2,2018-12-01 17:30:00,Pierre-Emile Højbjerg,Pass
+250676,93,MissedShots,0.74,0.27,0.03627754747867584,Manolo Gabbiadini,h,1383,DirectFreekick,2018,LeftFoot,9327,Southampton,Manchester United,2,2,2018-12-01 17:30:00,,Standard
+250650,2,SavedShot,0.8769999694824219,0.4420000076293945,0.09283644706010818,Romelu Lukaku,a,594,OpenPlay,2018,LeftFoot,9327,Southampton,Manchester United,2,2,2018-12-01 17:30:00,Ander Herrera,BallRecovery
+250652,5,BlockedShot,0.8619999694824219,0.31,0.04512569680809975,Ashley Young,a,631,OpenPlay,2018,RightFoot,9327,Southampton,Manchester United,2,2,2018-12-01 17:30:00,Marcus Rashford,Pass
+250657,24,MissedShots,0.9490000152587891,0.5,0.12631112337112427,Scott McTominay,a,5560,FromCorner,2018,Head,9327,Southampton,Manchester United,2,2,2018-12-01 17:30:00,Ashley Young,Cross
+250658,27,MissedShots,0.7730000305175782,0.500999984741211,0.030217545107007027,Marcus Rashford,a,556,OpenPlay,2018,RightFoot,9327,Southampton,Manchester United,2,2,2018-12-01 17:30:00,Romelu Lukaku,BallTouch
+250659,32,Goal,0.8769999694824219,0.5220000076293946,0.3131186366081238,Romelu Lukaku,a,594,OpenPlay,2018,LeftFoot,9327,Southampton,Manchester United,2,2,2018-12-01 17:30:00,Marcus Rashford,Pass
+250661,38,Goal,0.9540000152587891,0.4520000076293945,0.1399630904197693,Ander Herrera,a,552,OpenPlay,2018,RightFoot,9327,Southampton,Manchester United,2,2,2018-12-01 17:30:00,Marcus Rashford,Pass
+250663,45,SavedShot,0.764000015258789,0.595999984741211,0.02380712889134884,Ander Herrera,a,552,OpenPlay,2018,RightFoot,9327,Southampton,Manchester United,2,2,2018-12-01 17:30:00,Marcus Rashford,BallTouch
+250665,51,MissedShots,0.89,0.40200000762939453,0.03377366438508034,Marouane Fellaini,a,630,SetPiece,2018,Head,9327,Southampton,Manchester United,2,2,2018-12-01 17:30:00,Ashley Young,Cross
+250666,54,BlockedShot,0.6890000152587891,0.595999984741211,0.010968991555273533,Paul Pogba,a,1740,OpenPlay,2018,RightFoot,9327,Southampton,Manchester United,2,2,2018-12-01 17:30:00,Luke Shaw,Pass
+250668,60,MissedShots,0.8009999847412109,0.615999984741211,0.016231922432780266,Luke Shaw,a,1006,FromCorner,2018,RightFoot,9327,Southampton,Manchester United,2,2,2018-12-01 17:30:00,,Aerial
+250670,67,SavedShot,0.8590000152587891,0.475,0.0724487453699112,Paul Pogba,a,1740,OpenPlay,2018,RightFoot,9327,Southampton,Manchester United,2,2,2018-12-01 17:30:00,Nemanja Matic,Chipped

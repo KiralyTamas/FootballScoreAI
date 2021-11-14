@@ -1,0 +1,29 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+44329,6,MissedShots,0.874000015258789,0.575,0.017960218712687492,Hugo Almeida,h,2680,OpenPlay,2014,Head,5056,Cesena,Sampdoria,1,1,2014-11-23 14:00:00,Gabriele Perico,Aerial
+44330,11,MissedShots,0.7280000305175781,0.39,0.01637793518602848,Gregoire Defrel,h,1468,OpenPlay,2014,LeftFoot,5056,Cesena,Sampdoria,1,1,2014-11-23 14:00:00,Franco Brienza,Pass
+44340,49,SavedShot,0.7480000305175781,0.2670000076293945,0.01450310181826353,Hugo Almeida,h,2680,OpenPlay,2014,LeftFoot,5056,Cesena,Sampdoria,1,1,2014-11-23 14:00:00,Antonio Mazzotta,Pass
+44344,59,SavedShot,0.96,0.4929999923706055,0.1483152061700821,Stefano Lucchini,h,3864,SetPiece,2014,Head,5056,Cesena,Sampdoria,1,1,2014-11-23 14:00:00,Franco Brienza,Cross
+44345,59,Goal,0.9640000152587891,0.48700000762939455,0.7549196481704712,Stefano Lucchini,h,3864,SetPiece,2014,RightFoot,5056,Cesena,Sampdoria,1,1,2014-11-23 14:00:00,,Rebound
+44347,76,OwnGoal,0.05,0.45,0,Constantin Nica,h,3889,OpenPlay,2014,LeftFoot,5056,Cesena,Sampdoria,1,1,2014-11-23 14:00:00,,Tackle
+44348,78,ShotOnPost,0.7330000305175781,0.600999984741211,0.04854960739612579,Emmanuel Cascione,h,3854,DirectFreekick,2014,RightFoot,5056,Cesena,Sampdoria,1,1,2014-11-23 14:00:00,,Standard
+44354,90,BlockedShot,0.8819999694824219,0.6359999847412109,0.062390297651290894,Luigi Giorgi,h,3862,OpenPlay,2014,LeftFoot,5056,Cesena,Sampdoria,1,1,2014-11-23 14:00:00,,None
+44355,90,BlockedShot,0.82,0.545,0.06322652101516724,Carlos Carbonero,h,1938,OpenPlay,2014,LeftFoot,5056,Cesena,Sampdoria,1,1,2014-11-23 14:00:00,Luigi Giorgi,Pass
+44331,14,MissedShots,0.71,0.4829999923706055,0.01282091997563839,Manolo Gabbiadini,a,1383,SetPiece,2014,LeftFoot,5056,Cesena,Sampdoria,1,1,2014-11-23 14:00:00,Roberto Soriano,LayOff
+44332,22,MissedShots,0.774000015258789,0.730999984741211,0.016847440972924232,Vasco Regini,a,1224,OpenPlay,2014,LeftFoot,5056,Cesena,Sampdoria,1,1,2014-11-23 14:00:00,Manolo Gabbiadini,Pass
+44333,25,MissedShots,0.8930000305175781,0.5529999923706055,0.06746499985456467,Éder,a,1514,OpenPlay,2014,Head,5056,Cesena,Sampdoria,1,1,2014-11-23 14:00:00,Roberto Soriano,Cross
+44334,31,MissedShots,0.6980000305175781,0.32799999237060545,0.01289336383342743,Manolo Gabbiadini,a,1383,OpenPlay,2014,LeftFoot,5056,Cesena,Sampdoria,1,1,2014-11-23 14:00:00,Lorenzo De Silvestri,Pass
+44335,32,MissedShots,0.6969999694824218,0.545,0.01372621115297079,Pedro Obiang,a,542,OpenPlay,2014,RightFoot,5056,Cesena,Sampdoria,1,1,2014-11-23 14:00:00,Roberto Soriano,Pass
+44336,37,MissedShots,0.815,0.5129999923706055,0.06383515149354935,Roberto Soriano,a,1810,OpenPlay,2014,LeftFoot,5056,Cesena,Sampdoria,1,1,2014-11-23 14:00:00,Stefano Okaka,Pass
+44337,45,MissedShots,0.8140000152587891,0.49900001525878906,0.1613408476114273,Éder,a,1514,DirectFreekick,2014,RightFoot,5056,Cesena,Sampdoria,1,1,2014-11-23 14:00:00,,Standard
+44338,46,MissedShots,0.784000015258789,0.725,0.018589315935969353,Pedro Obiang,a,542,OpenPlay,2014,RightFoot,5056,Cesena,Sampdoria,1,1,2014-11-23 14:00:00,Vasco Regini,Pass
+44339,49,SavedShot,0.955999984741211,0.4329999923706055,0.12535224854946136,Stefano Okaka,a,1763,OpenPlay,2014,RightFoot,5056,Cesena,Sampdoria,1,1,2014-11-23 14:00:00,Roberto Soriano,Cross
+44341,51,ShotOnPost,0.8490000152587891,0.4520000076293945,0.0764370709657669,Éder,a,1514,OpenPlay,2014,LeftFoot,5056,Cesena,Sampdoria,1,1,2014-11-23 14:00:00,Roberto Soriano,BallTouch
+44342,52,BlockedShot,0.75,0.6040000152587891,0.019877729937434196,Éder,a,1514,OpenPlay,2014,RightFoot,5056,Cesena,Sampdoria,1,1,2014-11-23 14:00:00,Vasco Regini,Pass
+44343,55,BlockedShot,0.805,0.720999984741211,0.022389626130461693,Manolo Gabbiadini,a,1383,OpenPlay,2014,LeftFoot,5056,Cesena,Sampdoria,1,1,2014-11-23 14:00:00,Pedro Obiang,TakeOn
+44346,70,SavedShot,0.8119999694824219,0.7519999694824219,0.02132127620279789,Éder,a,1514,OpenPlay,2014,RightFoot,5056,Cesena,Sampdoria,1,1,2014-11-23 14:00:00,Stefano Okaka,Pass
+44349,80,SavedShot,0.879000015258789,0.5709999847412109,0.10680250823497772,Stefano Okaka,a,1763,OpenPlay,2014,RightFoot,5056,Cesena,Sampdoria,1,1,2014-11-23 14:00:00,Vasco Regini,Pass
+44350,84,MissedShots,0.875,0.565,0.10618814080953598,Pedro Obiang,a,542,OpenPlay,2014,RightFoot,5056,Cesena,Sampdoria,1,1,2014-11-23 14:00:00,Stefano Okaka,LayOff
+44351,84,SavedShot,0.7390000152587891,0.30100000381469727,0.02531801164150238,Gianluca Sansone,a,4003,OpenPlay,2014,LeftFoot,5056,Cesena,Sampdoria,1,1,2014-11-23 14:00:00,Angelo Palombo,TakeOn
+44352,85,SavedShot,0.905,0.5179999923706055,0.46145007014274597,Gonzalo Bergessio,a,3815,OpenPlay,2014,RightFoot,5056,Cesena,Sampdoria,1,1,2014-11-23 14:00:00,Stefano Okaka,Pass
+44353,89,SavedShot,0.78,0.705999984741211,0.015729598701000214,Vasco Regini,a,1224,OpenPlay,2014,LeftFoot,5056,Cesena,Sampdoria,1,1,2014-11-23 14:00:00,,None
+44356,91,BlockedShot,0.8130000305175781,0.4929999923706055,0.06337076425552368,Roberto Soriano,a,1810,OpenPlay,2014,LeftFoot,5056,Cesena,Sampdoria,1,1,2014-11-23 14:00:00,Gonzalo Bergessio,Pass

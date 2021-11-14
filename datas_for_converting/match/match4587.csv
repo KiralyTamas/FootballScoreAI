@@ -1,0 +1,28 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+19659,4,BlockedShot,0.9730000305175781,0.5379999923706055,0.6700412631034851,Dwight Gayle,h,743,SetPiece,2014,RightFoot,4587,Crystal Palace,Everton,0,1,2015-01-31 15:00:00,,None
+19660,4,BlockedShot,0.885,0.4470000076293945,0.06913579255342484,Yaya Sanogo,h,4402,FromCorner,2014,RightFoot,4587,Crystal Palace,Everton,0,1,2015-01-31 15:00:00,,BallTouch
+19661,5,MissedShots,0.925,0.4470000076293945,0.09493552893400192,Dwight Gayle,h,743,OpenPlay,2014,LeftFoot,4587,Crystal Palace,Everton,0,1,2015-01-31 15:00:00,Joe Ledley,HeadPass
+19662,11,BlockedShot,0.8619999694824219,0.5459999847412109,0.10681013762950897,Marouane Chamakh,h,905,OpenPlay,2014,LeftFoot,4587,Crystal Palace,Everton,0,1,2015-01-31 15:00:00,,TakeOn
+19663,12,MissedShots,0.8859999847412109,0.555,0.049908947199583054,Marouane Chamakh,h,905,OpenPlay,2014,Head,4587,Crystal Palace,Everton,0,1,2015-01-31 15:00:00,Dwight Gayle,Cross
+19664,13,BlockedShot,0.7380000305175781,0.534000015258789,0.02019123174250126,Jason Puncheon,h,514,OpenPlay,2014,LeftFoot,4587,Crystal Palace,Everton,0,1,2015-01-31 15:00:00,James McArthur,Pass
+19667,34,SavedShot,0.7069999694824218,0.47200000762939454,0.016422990709543228,Jason Puncheon,h,514,OpenPlay,2014,LeftFoot,4587,Crystal Palace,Everton,0,1,2015-01-31 15:00:00,Joe Ledley,Pass
+19668,35,BlockedShot,0.7609999847412109,0.47200000762939454,0.02411818690598011,Joel Ward,h,510,FromCorner,2014,RightFoot,4587,Crystal Palace,Everton,0,1,2015-01-31 15:00:00,James McArthur,Pass
+19670,45,MissedShots,0.874000015258789,0.529000015258789,0.07708734273910522,Jordon Mutch,h,632,SetPiece,2014,LeftFoot,4587,Crystal Palace,Everton,0,1,2015-01-31 15:00:00,Scott Dann,HeadPass
+19671,47,MissedShots,0.8080000305175781,0.4420000076293945,0.03585749864578247,Jason Puncheon,h,514,SetPiece,2014,LeftFoot,4587,Crystal Palace,Everton,0,1,2015-01-31 15:00:00,Dwight Gayle,HeadPass
+19672,55,BlockedShot,0.7609999847412109,0.2989999961853027,0.016540402546525,James McArthur,h,633,OpenPlay,2014,RightFoot,4587,Crystal Palace,Everton,0,1,2015-01-31 15:00:00,Joel Ward,Pass
+19673,59,MissedShots,0.7290000152587891,0.4929999923706055,0.019062168896198273,Dwight Gayle,h,743,OpenPlay,2014,LeftFoot,4587,Crystal Palace,Everton,0,1,2015-01-31 15:00:00,Jason Puncheon,Pass
+19675,74,SavedShot,0.7290000152587891,0.4470000076293945,0.010230667889118195,James McArthur,h,633,OpenPlay,2014,RightFoot,4587,Crystal Palace,Everton,0,1,2015-01-31 15:00:00,,Aerial
+19658,1,Goal,0.9790000152587891,0.47099998474121096,0.7886967658996582,Romelu Lukaku,a,594,OpenPlay,2014,RightFoot,4587,Crystal Palace,Everton,0,1,2015-01-31 15:00:00,,None
+19665,18,MissedShots,0.7390000152587891,0.40900001525878904,0.052418265491724014,Leighton Baines,a,588,DirectFreekick,2014,LeftFoot,4587,Crystal Palace,Everton,0,1,2015-01-31 15:00:00,,Standard
+19666,27,MissedShots,0.8159999847412109,0.41700000762939454,0.056407950818538666,Steven Naismith,a,824,OpenPlay,2014,RightFoot,4587,Crystal Palace,Everton,0,1,2015-01-31 15:00:00,Romelu Lukaku,Pass
+19669,39,BlockedShot,0.8169999694824219,0.23700000762939452,0.025898076593875885,Seamus Coleman,a,585,OpenPlay,2014,LeftFoot,4587,Crystal Palace,Everton,0,1,2015-01-31 15:00:00,Muhamed Besic,Pass
+19674,60,MissedShots,0.914000015258789,0.455,0.05648207291960716,Romelu Lukaku,a,594,OpenPlay,2014,Head,4587,Crystal Palace,Everton,0,1,2015-01-31 15:00:00,Aiden McGeady,Aerial
+19676,75,BlockedShot,0.8519999694824218,0.705,0.01849517598748207,Leighton Baines,a,588,OpenPlay,2014,LeftFoot,4587,Crystal Palace,Everton,0,1,2015-01-31 15:00:00,Steven Naismith,TakeOn
+19677,82,BlockedShot,0.7340000152587891,0.46,0.09515120089054108,Muhamed Besic,a,908,OpenPlay,2014,LeftFoot,4587,Crystal Palace,Everton,0,1,2015-01-31 15:00:00,Seamus Coleman,TakeOn
+19678,84,BlockedShot,0.8030000305175782,0.3290000152587891,0.02905718795955181,Steven Naismith,a,824,OpenPlay,2014,RightFoot,4587,Crystal Palace,Everton,0,1,2015-01-31 15:00:00,Romelu Lukaku,Pass
+19679,84,BlockedShot,0.845,0.48700000762939455,0.01299543771892786,John Stones,a,586,FromCorner,2014,Head,4587,Crystal Palace,Everton,0,1,2015-01-31 15:00:00,Bryan Oviedo,Cross
+19680,84,SavedShot,0.894000015258789,0.24200000762939453,0.044716738164424896,Aiden McGeady,a,994,OpenPlay,2014,LeftFoot,4587,Crystal Palace,Everton,0,1,2015-01-31 15:00:00,,BallRecovery
+19681,86,MissedShots,0.8819999694824219,0.3170000076293945,0.09593785554170609,Romelu Lukaku,a,594,OpenPlay,2014,RightFoot,4587,Crystal Palace,Everton,0,1,2015-01-31 15:00:00,Steven Naismith,Pass
+19682,89,MissedShots,0.7819999694824219,0.8019999694824219,0.014284412376582623,Bryan Oviedo,a,598,OpenPlay,2014,LeftFoot,4587,Crystal Palace,Everton,0,1,2015-01-31 15:00:00,Romelu Lukaku,HeadPass
+19683,91,MissedShots,0.9580000305175781,0.3089999961853027,0.05037173256278038,Aiden McGeady,a,994,OpenPlay,2014,LeftFoot,4587,Crystal Palace,Everton,0,1,2015-01-31 15:00:00,Muhamed Besic,TakeOn
+19684,93,BlockedShot,0.779000015258789,0.7180000305175781,0.018857572227716446,Arouna Koné,a,601,OpenPlay,2014,RightFoot,4587,Crystal Palace,Everton,0,1,2015-01-31 15:00:00,Steven Naismith,Pass

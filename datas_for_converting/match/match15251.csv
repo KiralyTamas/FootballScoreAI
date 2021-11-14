@@ -1,0 +1,23 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+394735,0,BlockedShot,0.850999984741211,0.669000015258789,0.05061861872673035,Renato Steffen,h,6484,OpenPlay,2020,LeftFoot,15251,Wolfsburg,VfB Stuttgart,1,0,2020-12-20 17:00:00,,BallRecovery
+394736,1,MissedShots,0.9459999847412109,0.5359999847412109,0.43222492933273315,Maxence Lacroix,h,8853,FromCorner,2020,Head,15251,Wolfsburg,VfB Stuttgart,1,0,2020-12-20 17:00:00,Josip Brekalo,Cross
+394737,10,SavedShot,0.9209999847412109,0.615,0.3944716453552246,Yannick Gerhardt,h,140,OpenPlay,2020,LeftFoot,15251,Wolfsburg,VfB Stuttgart,1,0,2020-12-20 17:00:00,Wout Weghorst,Pass
+394738,11,ShotOnPost,0.9769999694824218,0.645,0.015599389560520649,Yannick Gerhardt,h,140,OpenPlay,2020,Head,15251,Wolfsburg,VfB Stuttgart,1,0,2020-12-20 17:00:00,,Aerial
+394739,13,SavedShot,0.9419999694824219,0.3240000152587891,0.06329395622015,Josip Brekalo,h,5353,OpenPlay,2020,RightFoot,15251,Wolfsburg,VfB Stuttgart,1,0,2020-12-20 17:00:00,Renato Steffen,Pass
+394742,29,SavedShot,0.8909999847412109,0.4129999923706055,0.07842452824115753,Wout Weghorst,h,7052,OpenPlay,2020,RightFoot,15251,Wolfsburg,VfB Stuttgart,1,0,2020-12-20 17:00:00,,None
+394743,41,BlockedShot,0.9369999694824219,0.4520000076293945,0.10541539639234543,Wout Weghorst,h,7052,OpenPlay,2020,RightFoot,15251,Wolfsburg,VfB Stuttgart,1,0,2020-12-20 17:00:00,Bote Baku,CornerAwarded
+394744,45,BlockedShot,0.7730000305175782,0.509000015258789,0.011070076376199722,Renato Steffen,h,6484,FromCorner,2020,RightFoot,15251,Wolfsburg,VfB Stuttgart,1,0,2020-12-20 17:00:00,Josip Brekalo,Chipped
+394746,48,Goal,0.8159999847412109,0.505,0.16679401695728302,Josip Brekalo,h,5353,DirectFreekick,2020,RightFoot,15251,Wolfsburg,VfB Stuttgart,1,0,2020-12-20 17:00:00,,Standard
+394748,68,MissedShots,0.9219999694824219,0.49,0.1426236629486084,Bartosz Bialek,h,8855,OpenPlay,2020,Head,15251,Wolfsburg,VfB Stuttgart,1,0,2020-12-20 17:00:00,Renato Steffen,Cross
+394751,73,SavedShot,0.9440000152587891,0.72,0.06054802983999252,Renato Steffen,h,6484,OpenPlay,2020,LeftFoot,15251,Wolfsburg,VfB Stuttgart,1,0,2020-12-20 17:00:00,,None
+394752,73,BlockedShot,0.8959999847412109,0.5670000076293945,0.12342332303524017,Daniel Ginczek,h,426,OpenPlay,2020,RightFoot,15251,Wolfsburg,VfB Stuttgart,1,0,2020-12-20 17:00:00,Wout Weghorst,Pass
+394753,77,BlockedShot,0.7559999847412109,0.48900001525878906,0.030756276100873947,Bote Baku,h,6708,OpenPlay,2020,RightFoot,15251,Wolfsburg,VfB Stuttgart,1,0,2020-12-20 17:00:00,Daniel Ginczek,Pass
+394740,23,MissedShots,0.914000015258789,0.34,0.2245076298713684,Silas Wamangituka,a,8807,OpenPlay,2020,RightFoot,15251,Wolfsburg,VfB Stuttgart,1,0,2020-12-20 17:00:00,Daniel Didavi,Pass
+394741,25,BlockedShot,0.815,0.51,0.05987345427274704,Orel Mangala,a,6088,OpenPlay,2020,RightFoot,15251,Wolfsburg,VfB Stuttgart,1,0,2020-12-20 17:00:00,,BallTouch
+394745,45,ShotOnPost,0.9290000152587891,0.5570000076293945,0.04144535958766937,Marc-Oliver Kempf,a,4291,FromCorner,2020,OtherBodyPart,15251,Wolfsburg,VfB Stuttgart,1,0,2020-12-20 17:00:00,Borna Sosa,Aerial
+394747,63,SavedShot,0.865,0.38299999237060545,0.05697540566325188,Roberto Massimo,a,8806,OpenPlay,2020,RightFoot,15251,Wolfsburg,VfB Stuttgart,1,0,2020-12-20 17:00:00,Mateo Klimowicz,BallTouch
+394749,69,MissedShots,0.93,0.5,0.557345986366272,Nicolás González,a,7074,OpenPlay,2020,RightFoot,15251,Wolfsburg,VfB Stuttgart,1,0,2020-12-20 17:00:00,Roberto Massimo,Pass
+394750,69,SavedShot,0.7909999847412109,0.44299999237060544,0.03869853541254997,Mateo Klimowicz,a,8809,OpenPlay,2020,RightFoot,15251,Wolfsburg,VfB Stuttgart,1,0,2020-12-20 17:00:00,Wataru Endo,Pass
+394754,80,BlockedShot,0.8490000152587891,0.325,0.016175519675016403,Mateo Klimowicz,a,8809,SetPiece,2020,RightFoot,15251,Wolfsburg,VfB Stuttgart,1,0,2020-12-20 17:00:00,,Aerial
+394755,84,BlockedShot,0.93,0.6120000076293945,0.0848778486251831,Sasa Kalajdzic,a,8812,OpenPlay,2020,LeftFoot,15251,Wolfsburg,VfB Stuttgart,1,0,2020-12-20 17:00:00,Nicolás González,Pass
+394756,88,MissedShots,0.9309999847412109,0.575999984741211,0.029435360804200172,Nicolás González,a,7074,FromCorner,2020,Head,15251,Wolfsburg,VfB Stuttgart,1,0,2020-12-20 17:00:00,Philipp Klement,Aerial

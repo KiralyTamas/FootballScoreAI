@@ -1,0 +1,23 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+76588,10,OwnGoal,0.060999999046325686,0.4520000076293945,0,Adam Hlousek,h,67,OpenPlay,2015,RightFoot,1040,VfB Stuttgart,Eintracht Frankfurt,1,4,2015-08-29 17:30:00,,Challenge
+76589,24,MissedShots,0.9119999694824219,0.5579999923706055,0.09538977593183517,Christian Gentner,h,60,OpenPlay,2015,RightFoot,1040,VfB Stuttgart,Eintracht Frankfurt,1,4,2015-08-29 17:30:00,Filip Kostic,Cross
+76590,24,MissedShots,0.985999984741211,0.37900001525878907,0.0621986910700798,Martin Harnik,h,407,OpenPlay,2015,LeftFoot,1040,VfB Stuttgart,Eintracht Frankfurt,1,4,2015-08-29 17:30:00,,Rebound
+76591,26,SavedShot,0.8619999694824219,0.6819999694824219,0.03903928026556969,Daniel Ginczek,h,426,SetPiece,2015,RightFoot,1040,VfB Stuttgart,Eintracht Frankfurt,1,4,2015-08-29 17:30:00,Emiliano Insúa,Pass
+76592,28,BlockedShot,0.919000015258789,0.5929999923706055,0.11236526072025299,Daniel Didavi,h,300,OpenPlay,2015,LeftFoot,1040,VfB Stuttgart,Eintracht Frankfurt,1,4,2015-08-29 17:30:00,Daniel Ginczek,Pass
+76593,29,Goal,0.965999984741211,0.4779999923706055,0.7359287738800049,Daniel Didavi,h,300,FromCorner,2015,LeftFoot,1040,VfB Stuttgart,Eintracht Frankfurt,1,4,2015-08-29 17:30:00,Geoffroy Serey Dié,Pass
+76594,31,MissedShots,0.639000015258789,0.4879999923706055,0.025794999673962593,Daniel Didavi,h,300,DirectFreekick,2015,LeftFoot,1040,VfB Stuttgart,Eintracht Frankfurt,1,4,2015-08-29 17:30:00,,Standard
+76595,33,MissedShots,0.9819999694824219,0.5059999847412109,0.9627333283424377,Martin Harnik,h,407,OpenPlay,2015,RightFoot,1040,VfB Stuttgart,Eintracht Frankfurt,1,4,2015-08-29 17:30:00,Filip Kostic,Pass
+76597,42,BlockedShot,0.7719999694824219,0.34599998474121096,0.018947988748550415,Daniel Ginczek,h,426,OpenPlay,2015,RightFoot,1040,VfB Stuttgart,Eintracht Frankfurt,1,4,2015-08-29 17:30:00,Christian Gentner,Chipped
+76598,42,BlockedShot,0.7569999694824219,0.4420000076293945,0.021830013021826744,Filip Kostic,h,64,OpenPlay,2015,LeftFoot,1040,VfB Stuttgart,Eintracht Frankfurt,1,4,2015-08-29 17:30:00,,None
+76600,54,BlockedShot,0.9319999694824219,0.5970000076293945,0.1407853215932846,Timo Werner,h,65,OpenPlay,2015,LeftFoot,1040,VfB Stuttgart,Eintracht Frankfurt,1,4,2015-08-29 17:30:00,Filip Kostic,Pass
+76601,55,SavedShot,0.84,0.6270000076293946,0.04813244938850403,Timo Werner,h,65,OpenPlay,2015,RightFoot,1040,VfB Stuttgart,Eintracht Frankfurt,1,4,2015-08-29 17:30:00,Filip Kostic,BlockedPass
+76602,59,SavedShot,0.8130000305175781,0.05900000095367432,0.026701562106609344,Daniel Didavi,h,300,DirectFreekick,2015,LeftFoot,1040,VfB Stuttgart,Eintracht Frankfurt,1,4,2015-08-29 17:30:00,,Standard
+76603,63,MissedShots,0.9890000152587891,0.6120000076293945,0.10887406021356583,Timo Baumgartl,h,71,SetPiece,2015,Head,1040,VfB Stuttgart,Eintracht Frankfurt,1,4,2015-08-29 17:30:00,Daniel Didavi,Cross
+76606,69,BlockedShot,0.899000015258789,0.6669999694824219,0.027661854401230812,Christian Gentner,h,60,OpenPlay,2015,LeftFoot,1040,VfB Stuttgart,Eintracht Frankfurt,1,4,2015-08-29 17:30:00,Emiliano Insúa,Cross
+76607,84,BlockedShot,0.86,0.515,0.10192360728979111,Christian Gentner,h,60,OpenPlay,2015,RightFoot,1040,VfB Stuttgart,Eintracht Frankfurt,1,4,2015-08-29 17:30:00,Emiliano Insúa,Pass
+76587,1,SavedShot,0.8219999694824218,0.534000015258789,0.0702206939458847,Marc Stendera,a,289,OpenPlay,2015,RightFoot,1040,VfB Stuttgart,Eintracht Frankfurt,1,4,2015-08-29 17:30:00,Stefan Aigner,Pass
+76596,41,Goal,0.9540000152587891,0.4809999847412109,0.7978350520133972,Luc Castaignos,a,382,OpenPlay,2015,RightFoot,1040,VfB Stuttgart,Eintracht Frankfurt,1,4,2015-08-29 17:30:00,Haris Seferovic,Pass
+76599,46,MissedShots,0.9130000305175782,0.62,0.11370041221380234,Haris Seferovic,a,291,OpenPlay,2015,LeftFoot,1040,VfB Stuttgart,Eintracht Frankfurt,1,4,2015-08-29 17:30:00,Luc Castaignos,Pass
+76604,64,MissedShots,0.9,0.3160000038146973,0.03307109326124191,Stefan Aigner,a,288,OpenPlay,2015,RightFoot,1040,VfB Stuttgart,Eintracht Frankfurt,1,4,2015-08-29 17:30:00,Bastian Oczipka,Cross
+76605,68,Goal,0.885,0.5,0.75777667760849,Haris Seferovic,a,291,Penalty,2015,LeftFoot,1040,VfB Stuttgart,Eintracht Frankfurt,1,4,2015-08-29 17:30:00,,Standard
+76608,86,Goal,0.8880000305175781,0.6530000305175782,0.18749822676181793,Luc Castaignos,a,382,OpenPlay,2015,RightFoot,1040,VfB Stuttgart,Eintracht Frankfurt,1,4,2015-08-29 17:30:00,Stefan Reinartz,TakeOn

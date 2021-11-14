@@ -1,0 +1,32 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+118525,4,SavedShot,0.93,0.6229999923706054,0.021895363926887512,Robert Huth,h,747,OpenPlay,2016,Head,3399,Leicester,Liverpool,3,1,2017-02-27 20:00:00,Christian Fuchs,Pass
+118526,6,BlockedShot,0.8369999694824218,0.48400001525878905,0.0638040155172348,Jamie Vardy,h,755,OpenPlay,2016,RightFoot,3399,Leicester,Liverpool,3,1,2017-02-27 20:00:00,,None
+118527,6,SavedShot,0.9259999847412109,0.49900001525878906,0.05968683212995529,Shinji Okazaki,h,754,OpenPlay,2016,Head,3399,Leicester,Liverpool,3,1,2017-02-27 20:00:00,Jamie Vardy,Rebound
+118528,14,MissedShots,0.919000015258789,0.539000015258789,0.2749255299568176,Robert Huth,h,747,FromCorner,2016,Head,3399,Leicester,Liverpool,3,1,2017-02-27 20:00:00,Marc Albrighton,Cross
+118529,19,SavedShot,0.91,0.5479999923706055,0.09408538043498993,Jamie Vardy,h,755,SetPiece,2016,LeftFoot,3399,Leicester,Liverpool,3,1,2017-02-27 20:00:00,,Dispossessed
+118531,27,Goal,0.8930000305175781,0.34700000762939454,0.30582699179649353,Jamie Vardy,h,755,OpenPlay,2016,RightFoot,3399,Leicester,Liverpool,3,1,2017-02-27 20:00:00,Marc Albrighton,Throughball
+118534,33,SavedShot,0.8580000305175781,0.3529999923706055,0.0752730444073677,Wilfred Ndidi,h,5545,OpenPlay,2016,RightFoot,3399,Leicester,Liverpool,3,1,2017-02-27 20:00:00,Jamie Vardy,Pass
+118535,37,BlockedShot,0.9259999847412109,0.57,0.0649818703532219,Wilfred Ndidi,h,5545,OpenPlay,2016,Head,3399,Leicester,Liverpool,3,1,2017-02-27 20:00:00,Christian Fuchs,Pass
+118536,38,Goal,0.7380000305175781,0.5279999923706055,0.025462066754698753,Daniel Drinkwater,h,752,OpenPlay,2016,RightFoot,3399,Leicester,Liverpool,3,1,2017-02-27 20:00:00,,None
+118538,45,MissedShots,0.5329999923706055,0.42700000762939455,0.00949360802769661,Marc Albrighton,h,753,OpenPlay,2016,RightFoot,3399,Leicester,Liverpool,3,1,2017-02-27 20:00:00,,None
+118543,59,Goal,0.9269999694824219,0.525,0.43339303135871887,Jamie Vardy,h,755,OpenPlay,2016,Head,3399,Leicester,Liverpool,3,1,2017-02-27 20:00:00,Christian Fuchs,Aerial
+118549,76,SavedShot,0.7380000305175781,0.6469999694824219,0.016000084578990936,Christian Fuchs,h,749,OpenPlay,2016,LeftFoot,3399,Leicester,Liverpool,3,1,2017-02-27 20:00:00,,None
+118551,78,MissedShots,0.845,0.425,0.09005153924226761,Daniel Drinkwater,h,752,OpenPlay,2016,RightFoot,3399,Leicester,Liverpool,3,1,2017-02-27 20:00:00,Riyad Mahrez,Pass
+118555,94,MissedShots,0.47400001525878904,0.9380000305175781,0.016245463863015175,Christian Fuchs,h,749,DirectFreekick,2016,LeftFoot,3399,Leicester,Liverpool,3,1,2017-02-27 20:00:00,,Standard
+118530,23,BlockedShot,0.765,0.46099998474121096,0.025938794016838074,Philippe Coutinho,a,488,OpenPlay,2016,RightFoot,3399,Leicester,Liverpool,3,1,2017-02-27 20:00:00,Roberto Firmino,Pass
+118532,29,SavedShot,0.965999984741211,0.620999984741211,0.06737607717514038,Philippe Coutinho,a,488,OpenPlay,2016,LeftFoot,3399,Leicester,Liverpool,3,1,2017-02-27 20:00:00,,None
+118533,32,SavedShot,0.92,0.5429999923706055,0.06107847020030022,Georginio Wijnaldum,a,771,OpenPlay,2016,OtherBodyPart,3399,Leicester,Liverpool,3,1,2017-02-27 20:00:00,Adam Lallana,Aerial
+118537,39,BlockedShot,0.8959999847412109,0.34900001525878904,0.07589724659919739,Adam Lallana,a,486,OpenPlay,2016,RightFoot,3399,Leicester,Liverpool,3,1,2017-02-27 20:00:00,Philippe Coutinho,Pass
+118539,46,SavedShot,0.7290000152587891,0.5109999847412109,0.01419246755540371,Emre Can,a,604,OpenPlay,2016,RightFoot,3399,Leicester,Liverpool,3,1,2017-02-27 20:00:00,Sadio Mané,Pass
+118540,46,MissedShots,0.919000015258789,0.47299999237060547,0.041452791541814804,Joel Matip,a,332,FromCorner,2016,Head,3399,Leicester,Liverpool,3,1,2017-02-27 20:00:00,Philippe Coutinho,Aerial
+118541,53,SavedShot,0.7669999694824219,0.4420000076293945,0.016690339893102646,Philippe Coutinho,a,488,OpenPlay,2016,RightFoot,3399,Leicester,Liverpool,3,1,2017-02-27 20:00:00,,None
+118542,56,BlockedShot,0.8809999847412109,0.36,0.11692550778388977,Sadio Mané,a,838,OpenPlay,2016,LeftFoot,3399,Leicester,Liverpool,3,1,2017-02-27 20:00:00,Nathaniel Clyne,TakeOn
+118544,62,MissedShots,0.784000015258789,0.3039999961853027,0.019032547250390053,Joel Matip,a,332,OpenPlay,2016,RightFoot,3399,Leicester,Liverpool,3,1,2017-02-27 20:00:00,Georginio Wijnaldum,Pass
+118545,64,SavedShot,0.845,0.46900001525878904,0.08991671353578568,Adam Lallana,a,486,OpenPlay,2016,LeftFoot,3399,Leicester,Liverpool,3,1,2017-02-27 20:00:00,Roberto Firmino,Pass
+118546,64,MissedShots,0.74,0.5720000076293945,0.015405644662678242,Georginio Wijnaldum,a,771,FromCorner,2016,RightFoot,3399,Leicester,Liverpool,3,1,2017-02-27 20:00:00,,None
+118547,66,BlockedShot,0.7369999694824219,0.42200000762939455,0.019403140991926193,Philippe Coutinho,a,488,OpenPlay,2016,RightFoot,3399,Leicester,Liverpool,3,1,2017-02-27 20:00:00,Joel Matip,Pass
+118548,67,Goal,0.8519999694824218,0.534000015258789,0.09190869331359863,Philippe Coutinho,a,488,OpenPlay,2016,RightFoot,3399,Leicester,Liverpool,3,1,2017-02-27 20:00:00,Emre Can,Pass
+118550,77,MissedShots,0.85,0.735,0.028354661539196968,Divock Origi,a,484,OpenPlay,2016,RightFoot,3399,Leicester,Liverpool,3,1,2017-02-27 20:00:00,Philippe Coutinho,Pass
+118552,80,MissedShots,0.915,0.5729999923706055,0.023639021441340446,Lucas Leiva,a,475,FromCorner,2016,Head,3399,Leicester,Liverpool,3,1,2017-02-27 20:00:00,Nathaniel Clyne,Aerial
+118553,85,BlockedShot,0.8980000305175782,0.2589999961853027,0.03650388866662979,Nathaniel Clyne,a,603,OpenPlay,2016,RightFoot,3399,Leicester,Liverpool,3,1,2017-02-27 20:00:00,Roberto Firmino,Pass
+118554,86,SavedShot,0.8390000152587891,0.46,0.04622262343764305,Philippe Coutinho,a,488,OpenPlay,2016,RightFoot,3399,Leicester,Liverpool,3,1,2017-02-27 20:00:00,Nathaniel Clyne,Cross

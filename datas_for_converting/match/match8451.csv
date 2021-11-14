@@ -1,0 +1,23 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+194922,5,SavedShot,0.7269999694824218,0.485,0.013837098143994808,Thomas Müller,h,224,OpenPlay,2017,RightFoot,8451,Bayern Munich,Schalke 04,2,1,2018-02-10 17:30:00,,None
+194923,5,Goal,0.9519999694824218,0.48400001525878905,0.65313720703125,Robert Lewandowski,h,227,OpenPlay,2017,RightFoot,8451,Bayern Munich,Schalke 04,2,1,2018-02-10 17:30:00,,Rebound
+194925,8,MissedShots,0.9269999694824219,0.6,0.05572694540023804,Robert Lewandowski,h,227,FromCorner,2017,Head,8451,Bayern Munich,Schalke 04,2,1,2018-02-10 17:30:00,James Rodríguez,Cross
+194927,19,SavedShot,0.6769999694824219,0.7030000305175781,0.012736053206026554,David Alaba,h,391,OpenPlay,2017,LeftFoot,8451,Bayern Munich,Schalke 04,2,1,2018-02-10 17:30:00,James Rodríguez,Pass
+194928,26,MissedShots,0.8780000305175781,0.3160000038146973,0.06958485394716263,Robert Lewandowski,h,227,OpenPlay,2017,LeftFoot,8451,Bayern Munich,Schalke 04,2,1,2018-02-10 17:30:00,Joshua Kimmich,BallRecovery
+194930,33,MissedShots,0.8730000305175781,0.5129999923706055,0.0826210081577301,Robert Lewandowski,h,227,OpenPlay,2017,RightFoot,8451,Bayern Munich,Schalke 04,2,1,2018-02-10 17:30:00,,None
+194931,35,Goal,0.98,0.33,0.05809799209237099,Thomas Müller,h,224,OpenPlay,2017,RightFoot,8451,Bayern Munich,Schalke 04,2,1,2018-02-10 17:30:00,Arjen Robben,Pass
+194933,43,MissedShots,0.9440000152587891,0.48900001525878906,0.09995666146278381,Robert Lewandowski,h,227,SetPiece,2017,Head,8451,Bayern Munich,Schalke 04,2,1,2018-02-10 17:30:00,Arjen Robben,Aerial
+194936,58,MissedShots,0.7559999847412109,0.6869999694824219,0.019558260217308998,David Alaba,h,391,OpenPlay,2017,LeftFoot,8451,Bayern Munich,Schalke 04,2,1,2018-02-10 17:30:00,,None
+194937,63,BlockedShot,0.740999984741211,0.33,0.04706111177802086,David Alaba,h,391,DirectFreekick,2017,LeftFoot,8451,Bayern Munich,Schalke 04,2,1,2018-02-10 17:30:00,,Standard
+194939,76,MissedShots,0.785,0.710999984741211,0.02705436944961548,Robert Lewandowski,h,227,OpenPlay,2017,RightFoot,8451,Bayern Munich,Schalke 04,2,1,2018-02-10 17:30:00,Franck Ribéry,Pass
+194940,85,BlockedShot,0.7519999694824219,0.5879999923706055,0.028525404632091522,Javi Martínez,h,225,OpenPlay,2017,RightFoot,8451,Bayern Munich,Schalke 04,2,1,2018-02-10 17:30:00,,None
+194941,92,SavedShot,0.8680000305175781,0.7419999694824219,0.042661335319280624,Kingsley Coman,h,226,OpenPlay,2017,RightFoot,8451,Bayern Munich,Schalke 04,2,1,2018-02-10 17:30:00,Thomas Müller,Pass
+194920,1,SavedShot,0.8540000152587891,0.41900001525878905,0.10135012120008469,Breel Embolo,a,5356,OpenPlay,2017,RightFoot,8451,Bayern Munich,Schalke 04,2,1,2018-02-10 17:30:00,,TakeOn
+194921,1,MissedShots,0.8540000152587891,0.675,0.03608397766947746,Daniel Caligiuri,a,157,OpenPlay,2017,LeftFoot,8451,Bayern Munich,Schalke 04,2,1,2018-02-10 17:30:00,,Rebound
+194924,8,MissedShots,0.93,0.47400001525878904,0.3824295103549957,Thilo Kehrer,a,2674,FromCorner,2017,Head,8451,Bayern Munich,Schalke 04,2,1,2018-02-10 17:30:00,Daniel Caligiuri,Cross
+194926,11,MissedShots,0.7680000305175781,0.4779999923706055,0.021160336211323738,Alessandro Schöpf,a,2638,FromCorner,2017,LeftFoot,8451,Bayern Munich,Schalke 04,2,1,2018-02-10 17:30:00,,None
+194929,28,Goal,0.8730000305175781,0.6469999694824219,0.06634051352739334,Franco Di Santo,a,341,OpenPlay,2017,RightFoot,8451,Bayern Munich,Schalke 04,2,1,2018-02-10 17:30:00,Leon Goretzka,Pass
+194932,39,MissedShots,0.8780000305175781,0.53,0.11192824691534042,Leon Goretzka,a,335,OpenPlay,2017,LeftFoot,8451,Bayern Munich,Schalke 04,2,1,2018-02-10 17:30:00,Daniel Caligiuri,TakeOn
+194934,45,MissedShots,0.769000015258789,0.315,0.057895466685295105,Naldo,a,147,DirectFreekick,2017,RightFoot,8451,Bayern Munich,Schalke 04,2,1,2018-02-10 17:30:00,,Standard
+194935,55,BlockedShot,0.889000015258789,0.6930000305175781,0.08888082951307297,Breel Embolo,a,5356,OpenPlay,2017,LeftFoot,8451,Bayern Munich,Schalke 04,2,1,2018-02-10 17:30:00,Guido Burgstaller,BallTouch
+194938,70,SavedShot,0.815,0.6179999923706054,0.038878608494997025,Breel Embolo,a,5356,OpenPlay,2017,RightFoot,8451,Bayern Munich,Schalke 04,2,1,2018-02-10 17:30:00,,None

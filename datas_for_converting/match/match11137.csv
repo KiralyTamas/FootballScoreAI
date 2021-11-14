@@ -1,0 +1,25 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+328831,8,MissedShots,0.9230000305175782,0.5870000076293945,0.07072781026363373,Olivier Thill,h,7135,OpenPlay,2019,Head,11137,FC Ufa,Lokomotiv Moscow,1,1,2019-11-02 11:00:00,Aleksandr Sukhov,Cross
+328832,17,MissedShots,0.9180000305175782,0.8169999694824219,0.02002587728202343,Azer Aliev,h,6805,OpenPlay,2019,LeftFoot,11137,FC Ufa,Lokomotiv Moscow,1,1,2019-11-02 11:00:00,,None
+328835,20,SavedShot,0.8580000305175781,0.6759999847412109,0.044683653861284256,Olivier Thill,h,7135,OpenPlay,2019,LeftFoot,11137,FC Ufa,Lokomotiv Moscow,1,1,2019-11-02 11:00:00,Azer Aliev,Pass
+328841,32,MissedShots,0.735999984741211,0.500999984741211,0.01714169792830944,Daniil Fomin,h,5536,OpenPlay,2019,RightFoot,11137,FC Ufa,Lokomotiv Moscow,1,1,2019-11-02 11:00:00,Vyacheslav Krotov,Pass
+328847,60,SavedShot,0.794000015258789,0.27299999237060546,0.015792112797498703,Olivier Thill,h,7135,SetPiece,2019,RightFoot,11137,FC Ufa,Lokomotiv Moscow,1,1,2019-11-02 11:00:00,Daniil Fomin,BlockedPass
+328848,62,BlockedShot,0.9009999847412109,0.5459999847412109,0.21441857516765594,Daniil Fomin,h,5536,FromCorner,2019,Head,11137,FC Ufa,Lokomotiv Moscow,1,1,2019-11-02 11:00:00,Olivier Thill,Cross
+328849,62,BlockedShot,0.9359999847412109,0.57,0.052796509116888046,Pavel Alikin,h,2902,FromCorner,2019,Head,11137,FC Ufa,Lokomotiv Moscow,1,1,2019-11-02 11:00:00,Vyacheslav Krotov,Chipped
+328850,71,Goal,0.885,0.5,0.7542753219604492,Lovro Bizjak,h,7011,Penalty,2019,RightFoot,11137,FC Ufa,Lokomotiv Moscow,1,1,2019-11-02 11:00:00,,Standard
+328852,87,BlockedShot,0.899000015258789,0.7269999694824218,0.03469712659716606,Daniil Fomin,h,5536,SetPiece,2019,RightFoot,11137,FC Ufa,Lokomotiv Moscow,1,1,2019-11-02 11:00:00,Aleksandr Putsko,Pass
+328830,5,MissedShots,0.8019999694824219,0.33599998474121096,0.02614164724946022,Dimitri Barinov,a,2721,OpenPlay,2019,RightFoot,11137,FC Ufa,Lokomotiv Moscow,1,1,2019-11-02 11:00:00,Aleksey Miranchuk,Pass
+328833,18,BlockedShot,0.7780000305175782,0.4129999923706055,0.026403596624732018,Grzegorz Krychowiak,a,2414,OpenPlay,2019,RightFoot,11137,FC Ufa,Lokomotiv Moscow,1,1,2019-11-02 11:00:00,,None
+328834,18,MissedShots,0.740999984741211,0.7180000305175781,0.013167332857847214,Maciej Rybus,a,2856,OpenPlay,2019,LeftFoot,11137,FC Ufa,Lokomotiv Moscow,1,1,2019-11-02 11:00:00,Murilo Cerqueira,Pass
+328836,26,BlockedShot,0.750999984741211,0.4229999923706055,0.015926413238048553,Vladislav Ignatjev,a,2894,FromCorner,2019,LeftFoot,11137,FC Ufa,Lokomotiv Moscow,1,1,2019-11-02 11:00:00,,None
+328837,26,BlockedShot,0.860999984741211,0.4570000076293945,0.06680306792259216,Eder,a,963,FromCorner,2019,LeftFoot,11137,FC Ufa,Lokomotiv Moscow,1,1,2019-11-02 11:00:00,Vladislav Ignatjev,Rebound
+328838,26,MissedShots,0.72,0.5509999847412109,0.014344519935548306,Murilo Cerqueira,a,7650,OpenPlay,2019,RightFoot,11137,FC Ufa,Lokomotiv Moscow,1,1,2019-11-02 11:00:00,Rifat Zhemaletdinov,Pass
+328839,29,MissedShots,0.8119999694824219,0.5920000076293945,0.04205735772848129,Grzegorz Krychowiak,a,2414,OpenPlay,2019,LeftFoot,11137,FC Ufa,Lokomotiv Moscow,1,1,2019-11-02 11:00:00,,None
+328840,30,SavedShot,0.7769999694824219,0.549000015258789,0.029562870040535927,Dimitri Barinov,a,2721,FromCorner,2019,LeftFoot,11137,FC Ufa,Lokomotiv Moscow,1,1,2019-11-02 11:00:00,Rifat Zhemaletdinov,Pass
+328842,43,MissedShots,0.8159999847412109,0.745,0.021095598116517067,Grzegorz Krychowiak,a,2414,OpenPlay,2019,LeftFoot,11137,FC Ufa,Lokomotiv Moscow,1,1,2019-11-02 11:00:00,Murilo Cerqueira,Pass
+328843,45,BlockedShot,0.815,0.4640000152587891,0.042859431356191635,Dimitri Barinov,a,2721,OpenPlay,2019,LeftFoot,11137,FC Ufa,Lokomotiv Moscow,1,1,2019-11-02 11:00:00,Eder,Pass
+328844,46,ShotOnPost,0.8680000305175781,0.3089999961853027,0.03497454151511192,Aleksey Miranchuk,a,2711,OpenPlay,2019,LeftFoot,11137,FC Ufa,Lokomotiv Moscow,1,1,2019-11-02 11:00:00,Vladislav Ignatjev,Pass
+328845,46,MissedShots,0.9059999847412109,0.6,0.0820344015955925,Dimitri Barinov,a,2721,OpenPlay,2019,LeftFoot,11137,FC Ufa,Lokomotiv Moscow,1,1,2019-11-02 11:00:00,Maciej Rybus,Cross
+328846,58,Goal,0.9380000305175781,0.534000015258789,0.4163280427455902,Eder,a,963,FromCorner,2019,LeftFoot,11137,FC Ufa,Lokomotiv Moscow,1,1,2019-11-02 11:00:00,Aleksey Miranchuk,Cross
+328851,81,BlockedShot,0.7630000305175781,0.3089999961853027,0.01963764987885952,Aleksey Miranchuk,a,2711,OpenPlay,2019,LeftFoot,11137,FC Ufa,Lokomotiv Moscow,1,1,2019-11-02 11:00:00,Vladislav Ignatjev,Pass
+328853,88,BlockedShot,0.75,0.25,0.015833944082260132,Grzegorz Krychowiak,a,2414,OpenPlay,2019,RightFoot,11137,FC Ufa,Lokomotiv Moscow,1,1,2019-11-02 11:00:00,Dimitri Barinov,Pass

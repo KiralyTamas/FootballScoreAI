@@ -1,0 +1,29 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+26664,2,SavedShot,0.8119999694824219,0.3220000076293945,0.027942374348640442,Moritz Stoppelkamp,h,4296,OpenPlay,2014,RightFoot,5355,Paderborn,Hertha Berlin,3,1,2014-11-02 16:30:00,,None
+26665,2,MissedShots,0.9,0.26799999237060546,0.028125353157520294,Marvin Ducksch,h,4329,FromCorner,2014,RightFoot,5355,Paderborn,Hertha Berlin,3,1,2014-11-02 16:30:00,,None
+26666,2,MissedShots,0.97,0.5109999847412109,0.612187922000885,Elias Kachunga,h,248,FromCorner,2014,Head,5355,Paderborn,Hertha Berlin,3,1,2014-11-02 16:30:00,Marvin Ducksch,Rebound
+26667,8,MissedShots,0.7369999694824219,0.6569999694824219,0.015255622565746307,Marvin Bakalorz,h,4266,OpenPlay,2014,RightFoot,5355,Paderborn,Hertha Berlin,3,1,2014-11-02 16:30:00,Marvin Ducksch,Pass
+26669,13,MissedShots,0.7559999847412109,0.23899999618530274,0.014389143325388432,Alban Meha,h,4262,OpenPlay,2014,RightFoot,5355,Paderborn,Hertha Berlin,3,1,2014-11-02 16:30:00,Jens Wemmer,TakeOn
+26670,14,MissedShots,0.7240000152587891,0.7,0.03731245920062065,Alban Meha,h,4262,DirectFreekick,2014,RightFoot,5355,Paderborn,Hertha Berlin,3,1,2014-11-02 16:30:00,,Standard
+26673,19,MissedShots,0.7959999847412109,0.3659999847412109,0.02995944395661354,Alban Meha,h,4262,OpenPlay,2014,RightFoot,5355,Paderborn,Hertha Berlin,3,1,2014-11-02 16:30:00,,None
+26676,27,Goal,0.8490000152587891,0.555,0.061955712735652924,Marvin Bakalorz,h,4266,SetPiece,2014,RightFoot,5355,Paderborn,Hertha Berlin,3,1,2014-11-02 16:30:00,,None
+26679,45,BlockedShot,0.7480000305175781,0.669000015258789,0.05036386102437973,Alban Meha,h,4262,DirectFreekick,2014,RightFoot,5355,Paderborn,Hertha Berlin,3,1,2014-11-02 16:30:00,,Standard
+26680,45,SavedShot,0.8819999694824219,0.4520000076293945,0.014406783506274223,Uwe Hünemeier,h,4258,FromCorner,2014,Head,5355,Paderborn,Hertha Berlin,3,1,2014-11-02 16:30:00,Moritz Stoppelkamp,Aerial
+26681,46,MissedShots,0.6990000152587891,0.44099998474121094,0.011402829550206661,Daniel Brückner,h,4259,SetPiece,2014,LeftFoot,5355,Paderborn,Hertha Berlin,3,1,2014-11-02 16:30:00,,BallTouch
+26682,48,MissedShots,0.8080000305175781,0.625,0.020199986174702644,Marvin Ducksch,h,4329,OpenPlay,2014,RightFoot,5355,Paderborn,Hertha Berlin,3,1,2014-11-02 16:30:00,Jens Wemmer,Cross
+26683,51,Goal,0.9530000305175781,0.45,0.48124465346336365,Elias Kachunga,h,248,OpenPlay,2014,Head,5355,Paderborn,Hertha Berlin,3,1,2014-11-02 16:30:00,Jens Wemmer,Chipped
+26684,66,BlockedShot,0.740999984741211,0.355,0.0505346804857254,Alban Meha,h,4262,DirectFreekick,2014,RightFoot,5355,Paderborn,Hertha Berlin,3,1,2014-11-02 16:30:00,,Standard
+26685,69,BlockedShot,0.8680000305175781,0.754000015258789,0.034867025911808014,Daniel Brückner,h,4259,OpenPlay,2014,LeftFoot,5355,Paderborn,Hertha Berlin,3,1,2014-11-02 16:30:00,Mario Vrancic,Pass
+26686,74,Goal,0.769000015258789,0.415,0.03453484922647476,Alban Meha,h,4262,OpenPlay,2014,RightFoot,5355,Paderborn,Hertha Berlin,3,1,2014-11-02 16:30:00,Elias Kachunga,Pass
+26687,83,MissedShots,0.784000015258789,0.7630000305175781,0.029013682156801224,Moritz Stoppelkamp,h,4296,OpenPlay,2014,LeftFoot,5355,Paderborn,Hertha Berlin,3,1,2014-11-02 16:30:00,Süleyman Koc,Pass
+26691,90,SavedShot,0.8930000305175781,0.59,0.4318682849407196,Mahir Saglik,h,4264,OpenPlay,2014,RightFoot,5355,Paderborn,Hertha Berlin,3,1,2014-11-02 16:30:00,Moritz Stoppelkamp,TakeOn
+26668,9,MissedShots,0.685,0.3890000152587891,0.009358932264149189,Marcel Ndjeng,a,4237,OpenPlay,2014,RightFoot,5355,Paderborn,Hertha Berlin,3,1,2014-11-02 16:30:00,,None
+26671,16,MissedShots,0.794000015258789,0.53,0.031809814274311066,Valentin Stocker,a,32,SetPiece,2014,LeftFoot,5355,Paderborn,Hertha Berlin,3,1,2014-11-02 16:30:00,,None
+26672,17,MissedShots,0.85,0.6519999694824219,0.05733450502157211,Salomon Kalou,a,26,OpenPlay,2014,RightFoot,5355,Paderborn,Hertha Berlin,3,1,2014-11-02 16:30:00,Valentin Stocker,Pass
+26674,23,SavedShot,0.9219999694824219,0.5670000076293945,0.07097607105970383,Peter Niemeyer,a,299,SetPiece,2014,Head,5355,Paderborn,Hertha Berlin,3,1,2014-11-02 16:30:00,Marcel Ndjeng,Chipped
+26675,25,MissedShots,0.7440000152587891,0.7330000305175781,0.010568777099251747,Roy Beerens,a,36,OpenPlay,2014,RightFoot,5355,Paderborn,Hertha Berlin,3,1,2014-11-02 16:30:00,,None
+26677,40,Goal,0.9019999694824219,0.46900001525878904,0.2825410068035126,Salomon Kalou,a,26,OpenPlay,2014,Head,5355,Paderborn,Hertha Berlin,3,1,2014-11-02 16:30:00,Marcel Ndjeng,Cross
+26678,42,SavedShot,0.7859999847412109,0.705,0.04041904956102371,Roy Beerens,a,36,OpenPlay,2014,RightFoot,5355,Paderborn,Hertha Berlin,3,1,2014-11-02 16:30:00,Valentin Stocker,Pass
+26688,86,MissedShots,0.9159999847412109,0.5279999923706055,0.3368159234523773,Peter Niemeyer,a,299,SetPiece,2014,Head,5355,Paderborn,Hertha Berlin,3,1,2014-11-02 16:30:00,Ronny,Chipped
+26689,86,MissedShots,0.7380000305175781,0.41,0.012862621806561947,Ronny,a,381,OpenPlay,2014,LeftFoot,5355,Paderborn,Hertha Berlin,3,1,2014-11-02 16:30:00,Per Skjelbred,TakeOn
+26690,90,SavedShot,0.905,0.4779999923706055,0.07299016416072845,Fabian Lustenberger,a,25,SetPiece,2014,Head,5355,Paderborn,Hertha Berlin,3,1,2014-11-02 16:30:00,Ronny,Chipped

@@ -1,0 +1,27 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+195378,0,Goal,0.9030000305175782,0.4929999923706055,0.10465351492166519,Lucas Vázquez,h,2253,OpenPlay,2017,Head,8100,Real Madrid,Real Sociedad,5,2,2018-02-10 19:45:00,Cristiano Ronaldo,Cross
+195379,6,ShotOnPost,0.9159999847412109,0.5609999847412109,0.5168042778968811,Karim Benzema,h,2370,OpenPlay,2017,RightFoot,8100,Real Madrid,Real Sociedad,5,2,2018-02-10 19:45:00,Marcelo,Pass
+195380,8,MissedShots,0.9690000152587891,0.6580000305175782,0.08093409985303879,Cristiano Ronaldo,h,2371,OpenPlay,2017,LeftFoot,8100,Real Madrid,Real Sociedad,5,2,2018-02-10 19:45:00,,None
+195381,22,BlockedShot,0.86,0.45799999237060546,0.11101487278938293,Cristiano Ronaldo,h,2371,OpenPlay,2017,LeftFoot,8100,Real Madrid,Real Sociedad,5,2,2018-02-10 19:45:00,Marco Asensio,Pass
+195382,22,SavedShot,0.9019999694824219,0.580999984741211,0.04075803980231285,Marco Asensio,h,2117,OpenPlay,2017,Head,8100,Real Madrid,Real Sociedad,5,2,2018-02-10 19:45:00,Lucas Vázquez,Chipped
+195383,26,Goal,0.8980000305175782,0.519000015258789,0.4539196491241455,Cristiano Ronaldo,h,2371,OpenPlay,2017,RightFoot,8100,Real Madrid,Real Sociedad,5,2,2018-02-10 19:45:00,Marcelo,Pass
+195384,31,BlockedShot,0.935,0.44099998474121094,0.5737248659133911,Karim Benzema,h,2370,OpenPlay,2017,RightFoot,8100,Real Madrid,Real Sociedad,5,2,2018-02-10 19:45:00,Cristiano Ronaldo,Pass
+195385,32,ShotOnPost,0.925,0.509000015258789,0.5569437146186829,Cristiano Ronaldo,h,2371,OpenPlay,2017,RightFoot,8100,Real Madrid,Real Sociedad,5,2,2018-02-10 19:45:00,Sergio Ramos,HeadPass
+195386,33,Goal,0.8209999847412109,0.5179999923706055,0.09271373599767685,Toni Kroos,h,2369,OpenPlay,2017,RightFoot,8100,Real Madrid,Real Sociedad,5,2,2018-02-10 19:45:00,Lucas Vázquez,Pass
+195387,36,Goal,0.9169999694824219,0.4779999923706055,0.10351389646530151,Cristiano Ronaldo,h,2371,FromCorner,2017,Head,8100,Real Madrid,Real Sociedad,5,2,2018-02-10 19:45:00,Luka Modric,Cross
+195388,39,BlockedShot,0.93,0.5070000076293946,0.5954506397247314,Marco Asensio,h,2117,OpenPlay,2017,LeftFoot,8100,Real Madrid,Real Sociedad,5,2,2018-02-10 19:45:00,Marcelo,Pass
+195389,44,BlockedShot,0.7859999847412109,0.5609999847412109,0.06292499601840973,Lucas Vázquez,h,2253,OpenPlay,2017,RightFoot,8100,Real Madrid,Real Sociedad,5,2,2018-02-10 19:45:00,Karim Benzema,LayOff
+195391,53,SavedShot,0.850999984741211,0.5120000076293946,0.1016496941447258,Toni Kroos,h,2369,OpenPlay,2017,RightFoot,8100,Real Madrid,Real Sociedad,5,2,2018-02-10 19:45:00,Lucas Vázquez,Cross
+195395,79,SavedShot,0.799000015258789,0.33099998474121095,0.048240866512060165,Gareth Bale,h,2251,OpenPlay,2017,LeftFoot,8100,Real Madrid,Real Sociedad,5,2,2018-02-10 19:45:00,Cristiano Ronaldo,Pass
+195396,79,Goal,0.9690000152587891,0.5420000076293945,0.9708021879196167,Cristiano Ronaldo,h,2371,OpenPlay,2017,LeftFoot,8100,Real Madrid,Real Sociedad,5,2,2018-02-10 19:45:00,,TakeOn
+195399,85,MissedShots,0.7980000305175782,0.47,0.08249436318874359,Gareth Bale,h,2251,OpenPlay,2017,LeftFoot,8100,Real Madrid,Real Sociedad,5,2,2018-02-10 19:45:00,Cristiano Ronaldo,LayOff
+195401,89,MissedShots,0.91,0.54,0.2477666735649109,Cristiano Ronaldo,h,2371,SetPiece,2017,Head,8100,Real Madrid,Real Sociedad,5,2,2018-02-10 19:45:00,Toni Kroos,Cross
+195403,91,MissedShots,0.919000015258789,0.4879999923706055,0.5626918077468872,Karim Benzema,h,2370,OpenPlay,2017,RightFoot,8100,Real Madrid,Real Sociedad,5,2,2018-02-10 19:45:00,Gareth Bale,Pass
+195390,51,ShotOnPost,0.905,0.46799999237060547,0.027532609179615974,Juanmi,a,897,FromCorner,2017,Head,8100,Real Madrid,Real Sociedad,5,2,2018-02-10 19:45:00,Sergio Canales,Aerial
+195392,53,MissedShots,0.8640000152587891,0.5270000076293946,0.02977854385972023,Juanmi,a,897,OpenPlay,2017,Head,8100,Real Madrid,Real Sociedad,5,2,2018-02-10 19:45:00,Álvaro Odriozola,Aerial
+195393,68,MissedShots,0.815,0.5209999847412109,0.16161005198955536,Asier Illarramendi,a,2232,DirectFreekick,2017,RightFoot,8100,Real Madrid,Real Sociedad,5,2,2018-02-10 19:45:00,,Standard
+195394,73,Goal,0.8930000305175781,0.5920000076293945,0.3300568759441376,Jon Bautista,a,2238,OpenPlay,2017,LeftFoot,8100,Real Madrid,Real Sociedad,5,2,2018-02-10 19:45:00,Mikel Oyarzabal,Pass
+195397,82,Goal,0.905,0.46,0.35421669483184814,Asier Illarramendi,a,2232,FromCorner,2017,RightFoot,8100,Real Madrid,Real Sociedad,5,2,2018-02-10 19:45:00,Juanmi,HeadPass
+195398,83,SavedShot,0.7140000152587891,0.4929999923706055,0.013505220413208008,Igor Zubeldia,a,2417,OpenPlay,2017,RightFoot,8100,Real Madrid,Real Sociedad,5,2,2018-02-10 19:45:00,Xabi Prieto,BallTouch
+195400,86,MissedShots,0.865999984741211,0.48200000762939454,0.04526982456445694,Aritz Elustondo,a,2228,SetPiece,2017,Head,8100,Real Madrid,Real Sociedad,5,2,2018-02-10 19:45:00,Asier Illarramendi,Cross
+195402,91,MissedShots,0.7980000305175782,0.725999984741211,0.01998632214963436,Alberto De la Bella,a,2239,OpenPlay,2017,LeftFoot,8100,Real Madrid,Real Sociedad,5,2,2018-02-10 19:45:00,Igor Zubeldia,Pass

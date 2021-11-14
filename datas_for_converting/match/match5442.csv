@@ -1,0 +1,33 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+25658,1,BlockedShot,0.8169999694824219,0.36900001525878906,0.04764720797538757,Pawel Olkowski,h,128,OpenPlay,2014,RightFoot,5442,FC Cologne,Bayern Munich,0,2,2014-09-27 14:30:00,Anthony Ujah,HeadPass
+25667,30,MissedShots,0.7269999694824218,0.23899999618530274,0.014473268762230873,Adam Matuschyk,h,4286,OpenPlay,2014,RightFoot,5442,FC Cologne,Bayern Munich,0,2,2014-09-27 14:30:00,Miso Brecko,Pass
+25669,33,SavedShot,0.9259999847412109,0.505,0.4057786166667938,Adam Matuschyk,h,4286,OpenPlay,2014,RightFoot,5442,FC Cologne,Bayern Munich,0,2,2014-09-27 14:30:00,Yannick Gerhardt,Cross
+25670,33,SavedShot,0.9630000305175781,0.41700000762939454,0.4710529148578644,Anthony Ujah,h,119,OpenPlay,2014,RightFoot,5442,FC Cologne,Bayern Munich,0,2,2014-09-27 14:30:00,,Rebound
+25675,42,MissedShots,0.775,0.6480000305175782,0.020568890497088432,Jonas Hector,h,131,OpenPlay,2014,RightFoot,5442,FC Cologne,Bayern Munich,0,2,2014-09-27 14:30:00,Daniel Halfar,Pass
+25676,47,SavedShot,0.8719999694824219,0.7330000305175781,0.02450089156627655,Adam Matuschyk,h,4286,FromCorner,2014,LeftFoot,5442,FC Cologne,Bayern Munich,0,2,2014-09-27 14:30:00,,None
+25680,65,OwnGoal,0.07,0.46,0,Daniel Halfar,h,4277,OpenPlay,2014,RightFoot,5442,FC Cologne,Bayern Munich,0,2,2014-09-27 14:30:00,,TakeOn
+25682,69,BlockedShot,0.740999984741211,0.36900001525878906,0.013828570954501629,Daniel Halfar,h,4277,OpenPlay,2014,RightFoot,5442,FC Cologne,Bayern Munich,0,2,2014-09-27 14:30:00,Anthony Ujah,Pass
+25684,72,BlockedShot,0.730999984741211,0.5459999847412109,0.01509128138422966,Pawel Olkowski,h,128,OpenPlay,2014,RightFoot,5442,FC Cologne,Bayern Munich,0,2,2014-09-27 14:30:00,,BallRecovery
+25659,6,MissedShots,0.875,0.6029999923706054,0.1601831614971161,Thomas Müller,a,224,OpenPlay,2014,LeftFoot,5442,FC Cologne,Bayern Munich,0,2,2014-09-27 14:30:00,Xabi Alonso,TakeOn
+25660,9,MissedShots,0.9069999694824219,0.52,0.04719987139105797,Thomas Müller,a,224,FromCorner,2014,Head,5442,FC Cologne,Bayern Munich,0,2,2014-09-27 14:30:00,,None
+25661,10,SavedShot,0.9019999694824219,0.41700000762939454,0.08167866617441177,Thomas Müller,a,224,OpenPlay,2014,RightFoot,5442,FC Cologne,Bayern Munich,0,2,2014-09-27 14:30:00,Arjen Robben,Cross
+25662,18,Goal,0.9080000305175782,0.53,0.47128885984420776,Mario Götze,a,422,OpenPlay,2014,RightFoot,5442,FC Cologne,Bayern Munich,0,2,2014-09-27 14:30:00,Thomas Müller,Pass
+25663,21,MissedShots,0.9019999694824219,0.54,0.11298954486846924,Robert Lewandowski,a,227,OpenPlay,2014,LeftFoot,5442,FC Cologne,Bayern Munich,0,2,2014-09-27 14:30:00,David Alaba,Cross
+25664,22,MissedShots,0.799000015258789,0.42700000762939455,0.05350663512945175,Philipp Lahm,a,218,OpenPlay,2014,RightFoot,5442,FC Cologne,Bayern Munich,0,2,2014-09-27 14:30:00,Mario Götze,Pass
+25665,22,SavedShot,0.9069999694824219,0.534000015258789,0.4684399962425232,Thomas Müller,a,224,OpenPlay,2014,RightFoot,5442,FC Cologne,Bayern Munich,0,2,2014-09-27 14:30:00,Mario Götze,Pass
+25666,26,SavedShot,0.6730000305175782,0.580999984741211,0.01434561051428318,David Alaba,a,391,OpenPlay,2014,LeftFoot,5442,FC Cologne,Bayern Munich,0,2,2014-09-27 14:30:00,Philipp Lahm,Pass
+25668,31,SavedShot,0.875,0.3220000076293945,0.0621110238134861,Arjen Robben,a,392,OpenPlay,2014,LeftFoot,5442,FC Cologne,Bayern Munich,0,2,2014-09-27 14:30:00,Philipp Lahm,Pass
+25671,35,MissedShots,0.8919999694824219,0.5970000076293945,0.11569423973560333,Robert Lewandowski,a,227,OpenPlay,2014,RightFoot,5442,FC Cologne,Bayern Munich,0,2,2014-09-27 14:30:00,Mario Götze,Pass
+25672,37,SavedShot,0.9319999694824219,0.415,0.46674320101737976,Mario Götze,a,422,OpenPlay,2014,RightFoot,5442,FC Cologne,Bayern Munich,0,2,2014-09-27 14:30:00,Arjen Robben,Pass
+25673,37,BlockedShot,0.865,0.534000015258789,0.11867131292819977,Juan Bernat,a,414,OpenPlay,2014,RightFoot,5442,FC Cologne,Bayern Munich,0,2,2014-09-27 14:30:00,Thomas Müller,Pass
+25674,39,MissedShots,0.779000015258789,0.33799999237060546,0.031237991526722908,Mario Götze,a,422,OpenPlay,2014,RightFoot,5442,FC Cologne,Bayern Munich,0,2,2014-09-27 14:30:00,Xabi Alonso,Pass
+25677,52,BlockedShot,0.8130000305175781,0.5379999923706055,0.05665115267038345,Thomas Müller,a,224,OpenPlay,2014,RightFoot,5442,FC Cologne,Bayern Munich,0,2,2014-09-27 14:30:00,Robert Lewandowski,Pass
+25678,55,BlockedShot,0.8669999694824219,0.40599998474121096,0.0986558273434639,Philipp Lahm,a,218,OpenPlay,2014,LeftFoot,5442,FC Cologne,Bayern Munich,0,2,2014-09-27 14:30:00,Mario Götze,Pass
+25679,65,MissedShots,0.9469999694824218,0.44299999237060544,0.5552991032600403,Robert Lewandowski,a,227,OpenPlay,2014,RightFoot,5442,FC Cologne,Bayern Munich,0,2,2014-09-27 14:30:00,Mario Götze,TakeOn
+25681,68,BlockedShot,0.7980000305175782,0.41,0.05782225728034973,Philipp Lahm,a,218,OpenPlay,2014,LeftFoot,5442,FC Cologne,Bayern Munich,0,2,2014-09-27 14:30:00,Rafinha,Pass
+25683,69,SavedShot,0.7380000305175781,0.5029999923706054,0.019865134730935097,Xabi Alonso,a,230,OpenPlay,2014,RightFoot,5442,FC Cologne,Bayern Munich,0,2,2014-09-27 14:30:00,David Alaba,Pass
+25685,79,SavedShot,0.7909999847412109,0.5320000076293945,0.0820833072066307,David Alaba,a,391,OpenPlay,2014,LeftFoot,5442,FC Cologne,Bayern Munich,0,2,2014-09-27 14:30:00,Robert Lewandowski,LayOff
+25686,80,BlockedShot,0.845,0.5429999923706055,0.16159939765930176,Mario Götze,a,422,OpenPlay,2014,RightFoot,5442,FC Cologne,Bayern Munich,0,2,2014-09-27 14:30:00,David Alaba,TakeOn
+25687,80,BlockedShot,0.875999984741211,0.539000015258789,0.10763730853796005,Mario Götze,a,422,OpenPlay,2014,RightFoot,5442,FC Cologne,Bayern Munich,0,2,2014-09-27 14:30:00,Robert Lewandowski,BallTouch
+25688,80,MissedShots,0.905,0.6329999923706054,0.07608141005039215,Juan Bernat,a,414,OpenPlay,2014,LeftFoot,5442,FC Cologne,Bayern Munich,0,2,2014-09-27 14:30:00,,Rebound
+25689,90,BlockedShot,0.805,0.43900001525878907,0.05806674808263779,Philipp Lahm,a,218,OpenPlay,2014,RightFoot,5442,FC Cologne,Bayern Munich,0,2,2014-09-27 14:30:00,Xherdan Shaqiri,Pass

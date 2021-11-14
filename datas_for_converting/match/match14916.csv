@@ -1,0 +1,27 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+394244,3,MissedShots,0.8480000305175781,0.585,0.04857495427131653,Ivan Rakitic,h,2094,OpenPlay,2020,LeftFoot,14916,Sevilla,Real Valladolid,1,1,2020-12-19 20:00:00,Lucas Ocampos,HeadPass
+394246,8,SavedShot,0.8730000305175781,0.8380000305175781,0.05605448782444,Ivan Rakitic,h,2094,DirectFreekick,2020,RightFoot,14916,Sevilla,Real Valladolid,1,1,2020-12-19 20:00:00,,Standard
+394247,10,ShotOnPost,0.8490000152587891,0.3890000152587891,0.32997265458106995,Lucas Ocampos,h,1109,OpenPlay,2020,RightFoot,14916,Sevilla,Real Valladolid,1,1,2020-12-19 20:00:00,Ivan Rakitic,Throughball
+394249,14,MissedShots,0.97,0.5520000076293945,0.15048719942569733,Lucas Ocampos,h,1109,OpenPlay,2020,Head,14916,Sevilla,Real Valladolid,1,1,2020-12-19 20:00:00,Jesús Navas,Cross
+394250,16,MissedShots,0.7619999694824219,0.29399999618530276,0.018102264031767845,Suso,h,1129,OpenPlay,2020,LeftFoot,14916,Sevilla,Real Valladolid,1,1,2020-12-19 20:00:00,Jesús Navas,Pass
+394251,21,SavedShot,0.725999984741211,0.56,0.05469648912549019,Suso,h,1129,DirectFreekick,2020,LeftFoot,14916,Sevilla,Real Valladolid,1,1,2020-12-19 20:00:00,,Standard
+394252,23,MissedShots,0.750999984741211,0.3890000152587891,0.018784260377287865,Ivan Rakitic,h,2094,OpenPlay,2020,RightFoot,14916,Sevilla,Real Valladolid,1,1,2020-12-19 20:00:00,Suso,Pass
+394253,25,MissedShots,0.7759999847412109,0.6419999694824219,0.023152828216552734,Lucas Ocampos,h,1109,OpenPlay,2020,RightFoot,14916,Sevilla,Real Valladolid,1,1,2020-12-19 20:00:00,Óliver Torres,Pass
+394255,29,BlockedShot,0.8809999847412109,0.43400001525878906,0.049598995596170425,Youssef En-Nesyri,h,5169,SetPiece,2020,Head,14916,Sevilla,Real Valladolid,1,1,2020-12-19 20:00:00,Ivan Rakitic,Cross
+394256,30,Goal,0.885,0.5,0.7432776093482971,Lucas Ocampos,h,1109,Penalty,2020,RightFoot,14916,Sevilla,Real Valladolid,1,1,2020-12-19 20:00:00,,Standard
+394257,32,MissedShots,0.8080000305175781,0.7180000305175781,0.027297111228108406,Lucas Ocampos,h,1109,OpenPlay,2020,RightFoot,14916,Sevilla,Real Valladolid,1,1,2020-12-19 20:00:00,Youssef En-Nesyri,Pass
+394264,55,BlockedShot,0.8390000152587891,0.375,0.06388454884290695,Lucas Ocampos,h,1109,OpenPlay,2020,RightFoot,14916,Sevilla,Real Valladolid,1,1,2020-12-19 20:00:00,Ivan Rakitic,Pass
+394265,57,BlockedShot,0.9030000305175782,0.2879999923706055,0.057340070605278015,Jesús Navas,h,616,OpenPlay,2020,LeftFoot,14916,Sevilla,Real Valladolid,1,1,2020-12-19 20:00:00,Ivan Rakitic,Chipped
+394267,67,BlockedShot,0.8730000305175781,0.5979999923706054,0.09843778610229492,Lucas Ocampos,h,1109,OpenPlay,2020,LeftFoot,14916,Sevilla,Real Valladolid,1,1,2020-12-19 20:00:00,Youssef En-Nesyri,Tackle
+394245,7,SavedShot,0.7369999694824219,0.519000015258789,0.022295627743005753,Roque Mesa,a,2356,OpenPlay,2020,LeftFoot,14916,Sevilla,Real Valladolid,1,1,2020-12-19 20:00:00,Fede San Emeterio,Pass
+394248,13,MissedShots,0.8730000305175781,0.46299999237060546,0.06716667115688324,Shon Weissman,a,8761,OpenPlay,2020,Head,14916,Sevilla,Real Valladolid,1,1,2020-12-19 20:00:00,Fabián Orellana,Chipped
+394254,27,MissedShots,0.8140000152587891,0.4520000076293945,0.05129772797226906,Óscar Plano,a,6921,OpenPlay,2020,RightFoot,14916,Sevilla,Real Valladolid,1,1,2020-12-19 20:00:00,,None
+394258,34,BlockedShot,0.7240000152587891,0.5129999923706055,0.01850190758705139,Óscar Plano,a,6921,OpenPlay,2020,LeftFoot,14916,Sevilla,Real Valladolid,1,1,2020-12-19 20:00:00,Roque Mesa,Pass
+394259,37,SavedShot,0.7819999694824219,0.26,0.05511760339140892,Raúl García,a,5114,DirectFreekick,2020,LeftFoot,14916,Sevilla,Real Valladolid,1,1,2020-12-19 20:00:00,,Standard
+394260,40,SavedShot,0.6990000152587891,0.5379999923706055,0.04243285953998566,Pablo Hervías,a,4054,DirectFreekick,2020,RightFoot,14916,Sevilla,Real Valladolid,1,1,2020-12-19 20:00:00,,Standard
+394261,51,ShotOnPost,0.955,0.555,0.44216853380203247,Marcos de Sousa,a,8933,OpenPlay,2020,RightFoot,14916,Sevilla,Real Valladolid,1,1,2020-12-19 20:00:00,Pablo Hervías,Chipped
+394262,52,BlockedShot,0.805,0.5509999847412109,0.03493111953139305,Fabián Orellana,a,2285,FromCorner,2020,LeftFoot,14916,Sevilla,Real Valladolid,1,1,2020-12-19 20:00:00,,None
+394263,54,SavedShot,0.8040000152587891,0.315,0.026858406141400337,Pablo Hervías,a,4054,OpenPlay,2020,LeftFoot,14916,Sevilla,Real Valladolid,1,1,2020-12-19 20:00:00,Marcos de Sousa,Pass
+394266,65,BlockedShot,0.8719999694824219,0.5940000152587891,0.03230695426464081,Óscar Plano,a,6921,SetPiece,2020,Head,14916,Sevilla,Real Valladolid,1,1,2020-12-19 20:00:00,Pablo Hervías,Cross
+394268,83,MissedShots,0.9069999694824219,0.4759999847412109,0.06431379169225693,Jawad El Yamiq,a,6546,FromCorner,2020,OtherBodyPart,14916,Sevilla,Real Valladolid,1,1,2020-12-19 20:00:00,Raúl García,Chipped
+394269,86,Goal,0.8380000305175781,0.625,0.021223159506917,Raúl García,a,5114,FromCorner,2020,LeftFoot,14916,Sevilla,Real Valladolid,1,1,2020-12-19 20:00:00,Jawad El Yamiq,Aerial

@@ -1,0 +1,25 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+413562,3,MissedShots,0.765,0.49599998474121093,0.025365980342030525,Ritsu Doan,h,8791,OpenPlay,2020,LeftFoot,15390,Arminia Bielefeld,Freiburg,1,0,2021-04-09 18:30:00,,None
+413564,9,MissedShots,0.8319999694824218,0.5779999923706055,0.06964686512947083,Andreas Voglsammer,h,9128,OpenPlay,2020,LeftFoot,15390,Arminia Bielefeld,Freiburg,1,0,2021-04-09 18:30:00,Arne Maier,Pass
+413565,10,MissedShots,0.924000015258789,0.44799999237060545,0.12598422169685364,Andreas Voglsammer,h,9128,OpenPlay,2020,Head,15390,Arminia Bielefeld,Freiburg,1,0,2021-04-09 18:30:00,Cédric Brunner,Cross
+413566,13,SavedShot,0.9,0.51,0.0951528549194336,Andreas Voglsammer,h,9128,FromCorner,2020,RightFoot,15390,Arminia Bielefeld,Freiburg,1,0,2021-04-09 18:30:00,Joakim Nilsson,HeadPass
+413568,27,SavedShot,0.8640000152587891,0.5429999923706055,0.09955503046512604,Masaya Okugawa,h,9352,OpenPlay,2020,LeftFoot,15390,Arminia Bielefeld,Freiburg,1,0,2021-04-09 18:30:00,Fabian Klos,Pass
+413570,38,SavedShot,0.9790000152587891,0.34599998474121096,0.06700646132230759,Fabian Klos,h,8792,OpenPlay,2020,RightFoot,15390,Arminia Bielefeld,Freiburg,1,0,2021-04-09 18:30:00,Ritsu Doan,Pass
+413572,48,MissedShots,0.955,0.40299999237060546,0.04540706425905228,Fabian Klos,h,8792,OpenPlay,2020,Head,15390,Arminia Bielefeld,Freiburg,1,0,2021-04-09 18:30:00,,Aerial
+413575,64,MissedShots,0.74,0.4329999923706055,0.015181747265160084,Andreas Voglsammer,h,9128,OpenPlay,2020,RightFoot,15390,Arminia Bielefeld,Freiburg,1,0,2021-04-09 18:30:00,,None
+413576,67,BlockedShot,0.769000015258789,0.3820000076293945,0.07266193628311157,Ritsu Doan,h,8791,DirectFreekick,2020,LeftFoot,15390,Arminia Bielefeld,Freiburg,1,0,2021-04-09 18:30:00,,Standard
+413577,67,MissedShots,0.9359999847412109,0.34700000762939454,0.05316409096121788,Masaya Okugawa,h,9352,FromCorner,2020,RightFoot,15390,Arminia Bielefeld,Freiburg,1,0,2021-04-09 18:30:00,Arne Maier,Pass
+413579,72,BlockedShot,0.7769999694824219,0.655,0.06989803910255432,Andreas Voglsammer,h,9128,DirectFreekick,2020,RightFoot,15390,Arminia Bielefeld,Freiburg,1,0,2021-04-09 18:30:00,,Standard
+413580,79,SavedShot,0.915,0.3890000152587891,0.11025649309158325,Ritsu Doan,h,8791,OpenPlay,2020,RightFoot,15390,Arminia Bielefeld,Freiburg,1,0,2021-04-09 18:30:00,,BallRecovery
+413584,85,MissedShots,0.9080000305175782,0.47,0.5070726275444031,Andreas Voglsammer,h,9128,OpenPlay,2020,RightFoot,15390,Arminia Bielefeld,Freiburg,1,0,2021-04-09 18:30:00,Masaya Okugawa,Pass
+413563,9,BlockedShot,0.915,0.6120000076293945,0.027607416734099388,Roland Sallai,a,1277,OpenPlay,2020,Head,15390,Arminia Bielefeld,Freiburg,1,0,2021-04-09 18:30:00,Christian Günter,Aerial
+413567,16,MissedShots,0.9159999847412109,0.41200000762939454,0.09512902051210403,Roland Sallai,a,1277,OpenPlay,2020,RightFoot,15390,Arminia Bielefeld,Freiburg,1,0,2021-04-09 18:30:00,Baptiste Santamaria,Cross
+413569,28,MissedShots,0.909000015258789,0.735999984741211,0.035584062337875366,Christian Günter,a,4243,OpenPlay,2020,LeftFoot,15390,Arminia Bielefeld,Freiburg,1,0,2021-04-09 18:30:00,Woo-Yeong Jeong,Pass
+413571,44,BlockedShot,0.8190000152587891,0.44599998474121094,0.05282733589410782,Roland Sallai,a,1277,OpenPlay,2020,RightFoot,15390,Arminia Bielefeld,Freiburg,1,0,2021-04-09 18:30:00,,None
+413573,63,SavedShot,0.9369999694824219,0.29700000762939455,0.04638899862766266,Baptiste Santamaria,a,5654,OpenPlay,2020,RightFoot,15390,Arminia Bielefeld,Freiburg,1,0,2021-04-09 18:30:00,Jonathan Schmid,Chipped
+413574,63,MissedShots,0.7369999694824219,0.44299999237060544,0.014060751534998417,Janik Haberer,a,4271,OpenPlay,2020,RightFoot,15390,Arminia Bielefeld,Freiburg,1,0,2021-04-09 18:30:00,,Rebound
+413578,67,OwnGoal,0.045999999046325686,0.5479999923706055,0,Baptiste Santamaria,a,5654,FromCorner,2020,Head,15390,Arminia Bielefeld,Freiburg,1,0,2021-04-09 18:30:00,,Aerial
+413581,81,BlockedShot,0.8669999694824219,0.4779999923706055,0.07080290466547012,Nils Petersen,a,4248,OpenPlay,2020,LeftFoot,15390,Arminia Bielefeld,Freiburg,1,0,2021-04-09 18:30:00,Christian Günter,Cross
+413582,81,MissedShots,0.7869999694824219,0.575,0.029330197721719742,Lino Tempelmann,a,7811,OpenPlay,2020,LeftFoot,15390,Arminia Bielefeld,Freiburg,1,0,2021-04-09 18:30:00,Guus Til,Pass
+413583,83,BlockedShot,0.7830000305175782,0.7319999694824219,0.01924668811261654,Christian Günter,a,4243,OpenPlay,2020,RightFoot,15390,Arminia Bielefeld,Freiburg,1,0,2021-04-09 18:30:00,Lino Tempelmann,Pass
+413585,87,MissedShots,0.855,0.48400001525878905,0.040275271981954575,Nils Petersen,a,4248,SetPiece,2020,Head,15390,Arminia Bielefeld,Freiburg,1,0,2021-04-09 18:30:00,Jonathan Schmid,Chipped

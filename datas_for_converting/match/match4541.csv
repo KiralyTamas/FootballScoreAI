@@ -1,0 +1,25 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+24096,1,Goal,0.885,0.5,0.7611688375473022,Sergio Agüero,h,619,Penalty,2014,RightFoot,4541,Manchester City,Newcastle United,5,0,2015-02-21 17:30:00,,Standard
+24100,11,Goal,0.9159999847412109,0.5420000076293945,0.4826207458972931,Samir Nasri,h,877,OpenPlay,2014,LeftFoot,4541,Manchester City,Newcastle United,5,0,2015-02-21 17:30:00,,None
+24102,16,MissedShots,0.779000015258789,0.4,0.04738213121891022,Edin Dzeko,h,1253,OpenPlay,2014,LeftFoot,4541,Manchester City,Newcastle United,5,0,2015-02-21 17:30:00,Fernandinho,Pass
+24104,19,MissedShots,0.855999984741211,0.3920000076293945,0.1009291410446167,Sergio Agüero,h,619,OpenPlay,2014,RightFoot,4541,Manchester City,Newcastle United,5,0,2015-02-21 17:30:00,Edin Dzeko,Pass
+24105,20,Goal,0.915,0.45,0.4000743627548218,Edin Dzeko,h,1253,OpenPlay,2014,LeftFoot,4541,Manchester City,Newcastle United,5,0,2015-02-21 17:30:00,David Silva,Chipped
+24107,26,MissedShots,0.9519999694824218,0.5940000152587891,0.0643145814538002,Edin Dzeko,h,1253,FromCorner,2014,Head,4541,Manchester City,Newcastle United,5,0,2015-02-21 17:30:00,David Silva,Cross
+24108,34,SavedShot,0.7480000305175781,0.3770000076293945,0.018294505774974823,Fernandinho,h,614,OpenPlay,2014,RightFoot,4541,Manchester City,Newcastle United,5,0,2015-02-21 17:30:00,Edin Dzeko,Pass
+24111,50,Goal,0.8959999847412109,0.4640000152587891,0.5036526918411255,David Silva,h,617,OpenPlay,2014,LeftFoot,4541,Manchester City,Newcastle United,5,0,2015-02-21 17:30:00,Samir Nasri,Pass
+24112,52,Goal,0.8190000152587891,0.639000015258789,0.06356178969144821,David Silva,h,617,OpenPlay,2014,LeftFoot,4541,Manchester City,Newcastle United,5,0,2015-02-21 17:30:00,Sergio Agüero,LayOff
+24113,55,MissedShots,0.9430000305175781,0.48200000762939454,0.12856413424015045,Eliaquim Mangala,h,626,FromCorner,2014,Head,4541,Manchester City,Newcastle United,5,0,2015-02-21 17:30:00,David Silva,Cross
+24114,66,MissedShots,0.9290000152587891,0.5459999847412109,0.1322336196899414,Edin Dzeko,h,1253,OpenPlay,2014,Head,4541,Manchester City,Newcastle United,5,0,2015-02-21 17:30:00,Jesús Navas,Cross
+24115,71,SavedShot,0.8590000152587891,0.53,0.10487601906061172,Edin Dzeko,h,1253,OpenPlay,2014,RightFoot,4541,Manchester City,Newcastle United,5,0,2015-02-21 17:30:00,,BallTouch
+24116,75,SavedShot,0.8209999847412109,0.48200000762939454,0.182106152176857,Wilfried Bony,h,622,OpenPlay,2014,RightFoot,4541,Manchester City,Newcastle United,5,0,2015-02-21 17:30:00,Yaya Touré,BallRecovery
+24117,81,SavedShot,0.764000015258789,0.295,0.04797426983714104,Aleksandar Kolarov,h,621,DirectFreekick,2014,LeftFoot,4541,Manchester City,Newcastle United,5,0,2015-02-21 17:30:00,,Standard
+24118,91,BlockedShot,0.7709999847412109,0.41,0.07527576386928558,Aleksandar Kolarov,h,621,DirectFreekick,2014,LeftFoot,4541,Manchester City,Newcastle United,5,0,2015-02-21 17:30:00,,Standard
+24119,91,MissedShots,0.7419999694824219,0.3940000152587891,0.013305974192917347,Aleksandar Kolarov,h,621,SetPiece,2014,LeftFoot,4541,Manchester City,Newcastle United,5,0,2015-02-21 17:30:00,,Rebound
+24097,6,MissedShots,0.7269999694824218,0.5940000152587891,0.01771814376115799,Massadio Haidara,a,943,SetPiece,2014,LeftFoot,4541,Manchester City,Newcastle United,5,0,2015-02-21 17:30:00,Jack Colback,Pass
+24098,8,MissedShots,0.7380000305175781,0.5029999923706054,0.020056499168276787,Ayoze Pérez,a,770,OpenPlay,2014,RightFoot,4541,Manchester City,Newcastle United,5,0,2015-02-21 17:30:00,Yoan Gouffran,Pass
+24099,9,MissedShots,0.7609999847412109,0.3920000076293945,0.02113669365644455,Daryl Janmaat,a,764,OpenPlay,2014,LeftFoot,4541,Manchester City,Newcastle United,5,0,2015-02-21 17:30:00,Yoan Gouffran,Pass
+24101,14,MissedShots,0.8030000305175782,0.735,0.01149593386799097,Moussa Sissoko,a,772,OpenPlay,2014,RightFoot,4541,Manchester City,Newcastle United,5,0,2015-02-21 17:30:00,,None
+24103,18,BlockedShot,0.725999984741211,0.5720000076293945,0.01697484590113163,Moussa Sissoko,a,772,SetPiece,2014,RightFoot,4541,Manchester City,Newcastle United,5,0,2015-02-21 17:30:00,Yoan Gouffran,Pass
+24106,24,MissedShots,0.8930000305175781,0.27899999618530275,0.0264565572142601,Moussa Sissoko,a,772,OpenPlay,2014,RightFoot,4541,Manchester City,Newcastle United,5,0,2015-02-21 17:30:00,Daryl Janmaat,TakeOn
+24109,37,BlockedShot,0.8580000305175781,0.3509999847412109,0.019010029733181,Daryl Janmaat,a,764,SetPiece,2014,RightFoot,4541,Manchester City,Newcastle United,5,0,2015-02-21 17:30:00,,Aerial
+24110,46,SavedShot,0.8569999694824219,0.6519999694824219,0.03383671119809151,Papiss Demba Cissé,a,850,OpenPlay,2014,LeftFoot,4541,Manchester City,Newcastle United,5,0,2015-02-21 17:30:00,Moussa Sissoko,Chipped

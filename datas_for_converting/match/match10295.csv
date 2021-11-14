@@ -1,0 +1,27 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+296684,2,MissedShots,0.884000015258789,0.25299999237060544,0.030470337718725204,Koke,h,2269,OpenPlay,2018,RightFoot,10295,Atletico Madrid,Valencia,3,2,2019-04-24 18:30:00,Antoine Griezmann,Pass
+296685,6,BlockedShot,0.919000015258789,0.5590000152587891,0.13275150954723358,Antoine Griezmann,h,2270,OpenPlay,2018,LeftFoot,10295,Atletico Madrid,Valencia,3,2,2019-04-24 18:30:00,Thomas Lemar,Pass
+296686,8,Goal,0.9530000305175781,0.5379999923706055,0.5457708239555359,Álvaro Morata,h,1804,OpenPlay,2018,RightFoot,10295,Atletico Madrid,Valencia,3,2,2019-04-24 18:30:00,Juanfran,Cross
+296687,10,SavedShot,0.8690000152587891,0.3729999923706055,0.10588646680116653,Álvaro Morata,h,1804,OpenPlay,2018,LeftFoot,10295,Atletico Madrid,Valencia,3,2,2019-04-24 18:30:00,Antoine Griezmann,Pass
+296689,18,MissedShots,0.9230000305175782,0.5729999923706055,0.037263017147779465,Diego Godín,h,2264,FromCorner,2018,Head,10295,Atletico Madrid,Valencia,3,2,2019-04-24 18:30:00,Antoine Griezmann,Aerial
+296690,19,SavedShot,0.7830000305175782,0.7290000152587891,0.022129125893115997,Filipe Luis,h,2265,OpenPlay,2018,LeftFoot,10295,Atletico Madrid,Valencia,3,2,2019-04-24 18:30:00,Thomas Lemar,Pass
+296693,37,MissedShots,0.8969999694824219,0.4279999923706055,0.06835651397705078,Koke,h,2269,OpenPlay,2018,Head,10295,Atletico Madrid,Valencia,3,2,2019-04-24 18:30:00,Juanfran,Cross
+296696,44,MissedShots,0.8590000152587891,0.750999984741211,0.02680632844567299,Saúl Ñíguez,h,2266,OpenPlay,2018,RightFoot,10295,Atletico Madrid,Valencia,3,2,2019-04-24 18:30:00,Koke,Pass
+296698,48,Goal,0.9409999847412109,0.475,0.521508514881134,Antoine Griezmann,h,2270,OpenPlay,2018,Head,10295,Atletico Madrid,Valencia,3,2,2019-04-24 18:30:00,Thomas Lemar,Cross
+296701,64,BlockedShot,0.7709999847412109,0.3220000076293945,0.027898434549570084,Ángel Correa,h,2275,OpenPlay,2018,RightFoot,10295,Atletico Madrid,Valencia,3,2,2019-04-24 18:30:00,Thomas Lemar,Pass
+296704,77,MissedShots,0.8930000305175781,0.43599998474121093,0.06266383826732635,Antoine Griezmann,h,2270,OpenPlay,2018,Head,10295,Atletico Madrid,Valencia,3,2,2019-04-24 18:30:00,Juanfran,Cross
+296705,80,Goal,0.749000015258789,0.40599998474121096,0.02413184382021427,Ángel Correa,h,2275,OpenPlay,2018,RightFoot,10295,Atletico Madrid,Valencia,3,2,2019-04-24 18:30:00,Thomas Partey,Pass
+296706,82,MissedShots,0.9230000305175782,0.4879999923706055,0.08622950315475464,Antoine Griezmann,h,2270,OpenPlay,2018,Head,10295,Atletico Madrid,Valencia,3,2,2019-04-24 18:30:00,,Aerial
+296709,92,SavedShot,0.6830000305175781,0.49,0.03693137690424919,Antoine Griezmann,h,2270,DirectFreekick,2018,LeftFoot,10295,Atletico Madrid,Valencia,3,2,2019-04-24 18:30:00,,Standard
+296688,12,BlockedShot,0.77,0.664000015258789,0.018916824832558632,Gonçalo Guedes,a,5682,OpenPlay,2018,LeftFoot,10295,Atletico Madrid,Valencia,3,2,2019-04-24 18:30:00,,BallRecovery
+296691,33,MissedShots,0.860999984741211,0.7019999694824218,0.04188123345375061,Santi Mina,a,2384,OpenPlay,2018,LeftFoot,10295,Atletico Madrid,Valencia,3,2,2019-04-24 18:30:00,José Gayá,Pass
+296692,35,Goal,0.915,0.5359999847412109,0.47324681282043457,Kevin Gameiro,a,2442,OpenPlay,2018,RightFoot,10295,Atletico Madrid,Valencia,3,2,2019-04-24 18:30:00,Santi Mina,Pass
+296694,42,MissedShots,0.9219999694824219,0.5159999847412109,0.09006825089454651,Santi Mina,a,2384,OpenPlay,2018,Head,10295,Atletico Madrid,Valencia,3,2,2019-04-24 18:30:00,Gonçalo Guedes,Chipped
+296695,43,SavedShot,0.765,0.43599998474121093,0.023162972182035446,Daniel Parejo,a,2378,OpenPlay,2018,RightFoot,10295,Atletico Madrid,Valencia,3,2,2019-04-24 18:30:00,,None
+296697,45,MissedShots,0.7680000305175781,0.6809999847412109,0.01927446573972702,Francis Coquelin,a,497,OpenPlay,2018,RightFoot,10295,Atletico Madrid,Valencia,3,2,2019-04-24 18:30:00,José Gayá,Pass
+296699,56,MissedShots,0.8109999847412109,0.5420000076293945,0.03863555192947388,Carlos Soler,a,2478,FromCorner,2018,RightFoot,10295,Atletico Madrid,Valencia,3,2,2019-04-24 18:30:00,,None
+296700,59,SavedShot,0.9540000152587891,0.355,0.06715460121631622,Carlos Soler,a,2478,OpenPlay,2018,RightFoot,10295,Atletico Madrid,Valencia,3,2,2019-04-24 18:30:00,Kevin Gameiro,Pass
+296702,73,BlockedShot,0.904000015258789,0.41900001525878905,0.1054723709821701,Kevin Gameiro,a,2442,OpenPlay,2018,LeftFoot,10295,Atletico Madrid,Valencia,3,2,2019-04-24 18:30:00,José Gayá,Pass
+296703,76,Goal,0.885,0.5,0.7432776093482971,Daniel Parejo,a,2378,Penalty,2018,RightFoot,10295,Atletico Madrid,Valencia,3,2,2019-04-24 18:30:00,,Standard
+296707,87,MissedShots,0.7859999847412109,0.38799999237060545,0.0938170850276947,José Gayá,a,2505,DirectFreekick,2018,LeftFoot,10295,Atletico Madrid,Valencia,3,2,2019-04-24 18:30:00,,Standard
+296708,90,MissedShots,0.945,0.4540000152587891,0.34317445755004883,Rubén Sobrino,a,5047,OpenPlay,2018,Head,10295,Atletico Madrid,Valencia,3,2,2019-04-24 18:30:00,Santi Mina,Aerial

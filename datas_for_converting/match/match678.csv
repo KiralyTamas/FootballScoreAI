@@ -1,0 +1,24 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+99313,12,MissedShots,0.7269999694824218,0.46599998474121096,0.014151202514767647,Tino Costa,h,1885,OpenPlay,2015,LeftFoot,678,Genoa,Sassuolo,2,1,2015-11-22 18:00:00,,None
+99314,17,MissedShots,0.8030000305175782,0.700999984741211,0.023303354158997536,Diego Laxalt,h,1100,OpenPlay,2015,LeftFoot,678,Genoa,Sassuolo,2,1,2015-11-22 18:00:00,Cristian Ansaldi,Pass
+99315,22,MissedShots,0.8,0.3820000076293945,0.037986528128385544,Leonardo Pavoletti,h,1104,OpenPlay,2015,RightFoot,678,Genoa,Sassuolo,2,1,2015-11-22 18:00:00,Tomás Rincón,BallRecovery
+99317,26,BlockedShot,0.8540000152587891,0.28200000762939453,0.03257467970252037,Darko Lazovic,h,1106,OpenPlay,2015,RightFoot,678,Genoa,Sassuolo,2,1,2015-11-22 18:00:00,Leonardo Pavoletti,Pass
+99319,32,MissedShots,0.875999984741211,0.48700000762939455,0.05004891753196716,Leonardo Pavoletti,h,1104,SetPiece,2015,Head,678,Genoa,Sassuolo,2,1,2015-11-22 18:00:00,Tino Costa,Cross
+99321,44,MissedShots,0.8159999847412109,0.700999984741211,0.019378788769245148,Tino Costa,h,1885,FromCorner,2015,LeftFoot,678,Genoa,Sassuolo,2,1,2015-11-22 18:00:00,,None
+99322,50,Goal,0.785,0.385,0.0559774786233902,Tomás Rincón,h,1099,OpenPlay,2015,LeftFoot,678,Genoa,Sassuolo,2,1,2015-11-22 18:00:00,Armando Izzo,TakeOn
+99323,56,MissedShots,0.92,0.505,0.31812307238578796,Leonardo Pavoletti,h,1104,FromCorner,2015,Head,678,Genoa,Sassuolo,2,1,2015-11-22 18:00:00,Darko Lazovic,Cross
+99324,58,BlockedShot,0.8419999694824218,0.6279999923706054,0.0734986960887909,Leonardo Pavoletti,h,1104,OpenPlay,2015,RightFoot,678,Genoa,Sassuolo,2,1,2015-11-22 18:00:00,Blerim Dzemaili,Pass
+99325,72,SavedShot,0.874000015258789,0.5309999847412109,0.02550595812499523,Nicolas Burdisso,h,1094,FromCorner,2015,Head,678,Genoa,Sassuolo,2,1,2015-11-22 18:00:00,Blerim Dzemaili,Cross
+99327,79,MissedShots,0.89,0.6040000152587891,0.1134461909532547,Serge Gakpe,h,1581,OpenPlay,2015,LeftFoot,678,Genoa,Sassuolo,2,1,2015-11-22 18:00:00,Tino Costa,Pass
+99328,81,MissedShots,0.8969999694824219,0.5709999847412109,0.09910108149051666,Diego Laxalt,h,1100,OpenPlay,2015,RightFoot,678,Genoa,Sassuolo,2,1,2015-11-22 18:00:00,Issa Cissokho,Cross
+99329,82,BlockedShot,0.7730000305175782,0.41200000762939454,0.03171203285455704,Tino Costa,h,1885,OpenPlay,2015,LeftFoot,678,Genoa,Sassuolo,2,1,2015-11-22 18:00:00,Issa Cissokho,Pass
+99333,94,Goal,0.904000015258789,0.5879999923706055,0.03633251041173935,Leonardo Pavoletti,h,1104,OpenPlay,2015,Head,678,Genoa,Sassuolo,2,1,2015-11-22 18:00:00,Issa Cissokho,Chipped
+99311,10,SavedShot,0.8480000305175781,0.6020000076293945,0.04666435346007347,Domenico Berardi,a,1612,FromCorner,2015,LeftFoot,678,Genoa,Sassuolo,2,1,2015-11-22 18:00:00,Alfred Duncan,Pass
+99312,11,BlockedShot,0.7219999694824218,0.475,0.04738900437951088,Domenico Berardi,a,1612,DirectFreekick,2015,LeftFoot,678,Genoa,Sassuolo,2,1,2015-11-22 18:00:00,,Standard
+99316,22,BlockedShot,0.8069999694824219,0.7069999694824218,0.024690641090273857,Nicola Sansone,a,1826,OpenPlay,2015,RightFoot,678,Genoa,Sassuolo,2,1,2015-11-22 18:00:00,Domenico Berardi,Pass
+99318,31,SavedShot,0.8480000305175781,0.425,0.08624786883592606,Domenico Berardi,a,1612,OpenPlay,2015,LeftFoot,678,Genoa,Sassuolo,2,1,2015-11-22 18:00:00,Nicola Sansone,Pass
+99320,43,MissedShots,0.8980000305175782,0.5520000076293945,0.06205664575099945,Federico Peluso,a,1464,FromCorner,2015,RightFoot,678,Genoa,Sassuolo,2,1,2015-11-22 18:00:00,Sime Vrsaljko,Cross
+99326,75,BlockedShot,0.855999984741211,0.33099998474121095,0.018684376031160355,Matteo Politano,a,1473,FromCorner,2015,LeftFoot,678,Genoa,Sassuolo,2,1,2015-11-22 18:00:00,,Aerial
+99330,87,BlockedShot,0.7519999694824219,0.695,0.04504568129777908,Antonio Floro Flores,a,1338,DirectFreekick,2015,RightFoot,678,Genoa,Sassuolo,2,1,2015-11-22 18:00:00,,Standard
+99331,92,SavedShot,0.9230000305175782,0.4979999923706055,0.3343971371650696,Sime Vrsaljko,a,1951,FromCorner,2015,Head,678,Genoa,Sassuolo,2,1,2015-11-22 18:00:00,Matteo Politano,Cross
+99332,92,Goal,0.955999984741211,0.4620000076293945,0.5979704260826111,Francesco Acerbi,a,1463,FromCorner,2015,LeftFoot,678,Genoa,Sassuolo,2,1,2015-11-22 18:00:00,,Rebound

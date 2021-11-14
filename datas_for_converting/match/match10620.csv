@@ -1,0 +1,29 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+299170,12,BlockedShot,0.8640000152587891,0.4370000076293945,0.11047475785017014,Salomon Kalou,h,26,OpenPlay,2018,RightFoot,10620,Hertha Berlin,VfB Stuttgart,3,1,2019-05-04 14:30:00,,TakeOn
+299171,14,SavedShot,0.7919999694824219,0.5990000152587891,0.034960608929395676,Maximilian Mittelstädt,h,419,OpenPlay,2018,LeftFoot,10620,Hertha Berlin,VfB Stuttgart,3,1,2019-05-04 14:30:00,Salomon Kalou,Pass
+299175,32,MissedShots,0.7430000305175781,0.15600000381469725,0.0277158934623003,Marvin Plattenhardt,h,23,DirectFreekick,2018,LeftFoot,10620,Hertha Berlin,VfB Stuttgart,3,1,2019-05-04 14:30:00,,Standard
+299177,37,MissedShots,0.8009999847412109,0.6509999847412109,0.02702154405415058,Salomon Kalou,h,26,OpenPlay,2018,RightFoot,10620,Hertha Berlin,VfB Stuttgart,3,1,2019-05-04 14:30:00,Mathew Leckie,Pass
+299178,39,SavedShot,0.87,0.4759999847412109,0.04204995185136795,Mathew Leckie,h,241,OpenPlay,2018,Head,10620,Hertha Berlin,VfB Stuttgart,3,1,2019-05-04 14:30:00,Marvin Plattenhardt,Cross
+299179,39,Goal,0.9619999694824218,0.415,0.45221835374832153,Vedad Ibisevic,h,29,OpenPlay,2018,RightFoot,10620,Hertha Berlin,VfB Stuttgart,3,1,2019-05-04 14:30:00,,Rebound
+299181,45,SavedShot,0.8819999694824219,0.45799999237060546,0.10732727497816086,Vedad Ibisevic,h,29,OpenPlay,2018,RightFoot,10620,Hertha Berlin,VfB Stuttgart,3,1,2019-05-04 14:30:00,,None
+299182,45,Goal,0.8969999694824219,0.41200000762939454,0.3571522831916809,Ondrej Duda,h,5240,OpenPlay,2018,RightFoot,10620,Hertha Berlin,VfB Stuttgart,3,1,2019-05-04 14:30:00,,Rebound
+299186,62,MissedShots,0.9359999847412109,0.6090000152587891,0.1210874617099762,Mathew Leckie,h,241,OpenPlay,2018,LeftFoot,10620,Hertha Berlin,VfB Stuttgart,3,1,2019-05-04 14:30:00,Marko Grujic,Chipped
+299187,66,BlockedShot,0.9390000152587891,0.6609999847412109,0.13181708753108978,Javairo Dilrosun,h,7122,OpenPlay,2018,LeftFoot,10620,Hertha Berlin,VfB Stuttgart,3,1,2019-05-04 14:30:00,Ondrej Duda,TakeOn
+299188,66,Goal,0.985999984741211,0.5270000076293946,0.9711706042289734,Salomon Kalou,h,26,OpenPlay,2018,LeftFoot,10620,Hertha Berlin,VfB Stuttgart,3,1,2019-05-04 14:30:00,,Rebound
+299191,73,MissedShots,0.8909999847412109,0.5209999847412109,0.017568040639162064,Davie Selke,h,4280,FromCorner,2018,Head,10620,Hertha Berlin,VfB Stuttgart,3,1,2019-05-04 14:30:00,Ondrej Duda,Aerial
+299195,89,BlockedShot,0.7830000305175782,0.6580000305175782,0.07339061796665192,Salomon Kalou,h,26,DirectFreekick,2018,RightFoot,10620,Hertha Berlin,VfB Stuttgart,3,1,2019-05-04 14:30:00,,Standard
+299172,22,MissedShots,0.8380000305175781,0.705,0.030484328046441078,Nicolás González,a,7074,OpenPlay,2018,LeftFoot,10620,Hertha Berlin,VfB Stuttgart,3,1,2019-05-04 14:30:00,Daniel Didavi,Pass
+299173,24,BlockedShot,0.8219999694824218,0.7569999694824219,0.0240818802267313,Anastasios Donis,a,3962,OpenPlay,2018,RightFoot,10620,Hertha Berlin,VfB Stuttgart,3,1,2019-05-04 14:30:00,Dennis Aogo,Pass
+299174,26,MissedShots,0.7669999694824219,0.6170000076293946,0.07130426913499832,Gonzalo Castro,a,316,DirectFreekick,2018,RightFoot,10620,Hertha Berlin,VfB Stuttgart,3,1,2019-05-04 14:30:00,,Standard
+299176,35,BlockedShot,0.909000015258789,0.500999984741211,0.03435187041759491,Nicolás González,a,7074,FromCorner,2018,Head,10620,Hertha Berlin,VfB Stuttgart,3,1,2019-05-04 14:30:00,Daniel Didavi,Aerial
+299180,41,MissedShots,0.9580000305175781,0.72,0.2350768744945526,Nicolás González,a,7074,OpenPlay,2018,LeftFoot,10620,Hertha Berlin,VfB Stuttgart,3,1,2019-05-04 14:30:00,Borna Sosa,TakeOn
+299183,54,BlockedShot,0.7980000305175782,0.7519999694824219,0.017974480986595154,Anastasios Donis,a,3962,OpenPlay,2018,RightFoot,10620,Hertha Berlin,VfB Stuttgart,3,1,2019-05-04 14:30:00,Dennis Aogo,Pass
+299184,55,BlockedShot,0.805,0.7290000152587891,0.019822344183921814,Anastasios Donis,a,3962,OpenPlay,2018,RightFoot,10620,Hertha Berlin,VfB Stuttgart,3,1,2019-05-04 14:30:00,Gonzalo Castro,Pass
+299185,58,MissedShots,0.725999984741211,0.3160000038146973,0.013753117993474007,Daniel Didavi,a,300,OpenPlay,2018,LeftFoot,10620,Hertha Berlin,VfB Stuttgart,3,1,2019-05-04 14:30:00,Gonzalo Castro,Pass
+299189,69,Goal,0.9269999694824219,0.47,0.32646071910858154,Mario Gomez,a,3887,OpenPlay,2018,Head,10620,Hertha Berlin,VfB Stuttgart,3,1,2019-05-04 14:30:00,Borna Sosa,Cross
+299190,70,MissedShots,0.8769999694824219,0.56,0.10222745686769485,Daniel Didavi,a,300,OpenPlay,2018,LeftFoot,10620,Hertha Berlin,VfB Stuttgart,3,1,2019-05-04 14:30:00,Alexander Esswein,Pass
+299192,78,MissedShots,0.909000015258789,0.5509999847412109,0.2583293616771698,Alexander Esswein,a,270,OpenPlay,2018,Head,10620,Hertha Berlin,VfB Stuttgart,3,1,2019-05-04 14:30:00,Borna Sosa,Cross
+299193,82,MissedShots,0.9680000305175781,0.5029999923706054,0.17552833259105682,Marc-Oliver Kempf,a,4291,OpenPlay,2018,Head,10620,Hertha Berlin,VfB Stuttgart,3,1,2019-05-04 14:30:00,,Aerial
+299194,83,MissedShots,0.914000015258789,0.37900001525878907,0.04703288525342941,Christian Gentner,a,60,FromCorner,2018,RightFoot,10620,Hertha Berlin,VfB Stuttgart,3,1,2019-05-04 14:30:00,Gonzalo Castro,Cross
+299196,90,MissedShots,0.825,0.41,0.020367208868265152,Alexander Esswein,a,270,FromCorner,2018,RightFoot,10620,Hertha Berlin,VfB Stuttgart,3,1,2019-05-04 14:30:00,,Aerial
+299197,91,BlockedShot,0.7369999694824219,0.4779999923706055,0.017433609813451767,Alexander Esswein,a,270,OpenPlay,2018,RightFoot,10620,Hertha Berlin,VfB Stuttgart,3,1,2019-05-04 14:30:00,Borna Sosa,Pass

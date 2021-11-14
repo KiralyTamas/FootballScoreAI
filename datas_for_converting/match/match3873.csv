@@ -1,0 +1,35 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+133534,30,Goal,0.87,0.3529999923706055,0.2813827693462372,Maximilian Philipp,h,4247,OpenPlay,2016,RightFoot,3873,Freiburg,Ingolstadt,1,1,2017-05-13 14:30:00,Florian Niederlechner,HeadPass
+133537,45,SavedShot,0.899000015258789,0.4329999923706055,0.3780250549316406,Florian Niederlechner,h,306,OpenPlay,2016,RightFoot,3873,Freiburg,Ingolstadt,1,1,2017-05-13 14:30:00,Maximilian Philipp,TakeOn
+133538,45,MissedShots,0.895,0.5279999923706055,0.40224558115005493,Janik Haberer,h,4271,OpenPlay,2016,RightFoot,3873,Freiburg,Ingolstadt,1,1,2017-05-13 14:30:00,,Rebound
+133539,47,BlockedShot,0.8159999847412109,0.19700000762939454,0.0481155589222908,Christian Günter,h,4243,DirectFreekick,2016,LeftFoot,3873,Freiburg,Ingolstadt,1,1,2017-05-13 14:30:00,,Standard
+133540,47,BlockedShot,0.8640000152587891,0.6419999694824219,0.04683683067560196,Florian Niederlechner,h,306,SetPiece,2016,RightFoot,3873,Freiburg,Ingolstadt,1,1,2017-05-13 14:30:00,,Rebound
+133541,47,BlockedShot,0.8530000305175781,0.4620000076293945,0.07258263230323792,Nicolas Höfler,h,4250,SetPiece,2016,LeftFoot,3873,Freiburg,Ingolstadt,1,1,2017-05-13 14:30:00,,Rebound
+133542,50,MissedShots,0.7680000305175781,0.5879999923706055,0.02382083795964718,Janik Haberer,h,4271,OpenPlay,2016,LeftFoot,3873,Freiburg,Ingolstadt,1,1,2017-05-13 14:30:00,Christian Günter,Pass
+133548,66,SavedShot,0.745999984741211,0.5459999847412109,0.06468858569860458,Vincenzo Grifo,h,5266,DirectFreekick,2016,RightFoot,3873,Freiburg,Ingolstadt,1,1,2017-05-13 14:30:00,,Standard
+133549,68,BlockedShot,0.8080000305175781,0.21899999618530275,0.019033735617995262,Aleksandar Ignjovski,h,297,OpenPlay,2016,LeftFoot,3873,Freiburg,Ingolstadt,1,1,2017-05-13 14:30:00,Janik Haberer,TakeOn
+133551,80,SavedShot,0.8690000152587891,0.4620000076293945,0.035099778324365616,Pascal Stenzel,h,326,OpenPlay,2016,Head,3873,Freiburg,Ingolstadt,1,1,2017-05-13 14:30:00,Christian Günter,Cross
+133557,90,BlockedShot,0.7390000152587891,0.49599998474121093,0.06116705760359764,Vincenzo Grifo,h,5266,DirectFreekick,2016,RightFoot,3873,Freiburg,Ingolstadt,1,1,2017-05-13 14:30:00,,Standard
+133524,1,MissedShots,0.8930000305175781,0.57,0.0378001406788826,Roger,a,238,FromCorner,2016,Head,3873,Freiburg,Ingolstadt,1,1,2017-05-13 14:30:00,Pascal Groß,Cross
+133525,1,SavedShot,0.825999984741211,0.43,0.03703286871314049,Pascal Groß,a,239,FromCorner,2016,LeftFoot,3873,Freiburg,Ingolstadt,1,1,2017-05-13 14:30:00,Markus Suttner,Cross
+133526,4,MissedShots,0.8059999847412109,0.22200000762939454,0.021523403003811836,Darío Lezcano,a,2636,OpenPlay,2016,RightFoot,3873,Freiburg,Ingolstadt,1,1,2017-05-13 14:30:00,Florent Hadergjonaj,Pass
+133527,5,BlockedShot,0.8809999847412109,0.5220000076293946,0.11932898312807083,Darío Lezcano,a,2636,OpenPlay,2016,RightFoot,3873,Freiburg,Ingolstadt,1,1,2017-05-13 14:30:00,Pascal Groß,Pass
+133528,15,MissedShots,0.7909999847412109,0.49700000762939456,0.0428292453289032,Pascal Groß,a,239,OpenPlay,2016,RightFoot,3873,Freiburg,Ingolstadt,1,1,2017-05-13 14:30:00,Mathew Leckie,Pass
+133529,17,MissedShots,0.8469999694824218,0.23600000381469727,0.022539136931300163,Florent Hadergjonaj,a,5215,SetPiece,2016,RightFoot,3873,Freiburg,Ingolstadt,1,1,2017-05-13 14:30:00,Markus Suttner,Pass
+133530,18,SavedShot,0.9769999694824218,0.7140000152587891,0.07140970230102539,Mathew Leckie,a,241,OpenPlay,2016,RightFoot,3873,Freiburg,Ingolstadt,1,1,2017-05-13 14:30:00,,TakeOn
+133531,20,MissedShots,0.87,0.4929999923706055,0.08858645707368851,Mathew Leckie,a,241,OpenPlay,2016,OtherBodyPart,3873,Freiburg,Ingolstadt,1,1,2017-05-13 14:30:00,Pascal Groß,Chipped
+133532,24,MissedShots,0.894000015258789,0.49700000762939456,0.037981074303388596,Almog Cohen,a,240,SetPiece,2016,OtherBodyPart,3873,Freiburg,Ingolstadt,1,1,2017-05-13 14:30:00,Markus Suttner,Aerial
+133533,24,MissedShots,0.9680000305175781,0.5879999923706055,0.07871322333812714,Romain Brègerie,a,235,SetPiece,2016,RightFoot,3873,Freiburg,Ingolstadt,1,1,2017-05-13 14:30:00,Marvin Matip,HeadPass
+133535,42,SavedShot,0.89,0.4779999923706055,0.10297650098800659,Marcel Tisserand,a,3216,OpenPlay,2016,RightFoot,3873,Freiburg,Ingolstadt,1,1,2017-05-13 14:30:00,Romain Brègerie,Pass
+133536,42,Goal,0.8430000305175781,0.46700000762939453,0.013899166136980057,Darío Lezcano,a,2636,OpenPlay,2016,Head,3873,Freiburg,Ingolstadt,1,1,2017-05-13 14:30:00,,Rebound
+133543,52,SavedShot,0.93,0.3609999847412109,0.33655673265457153,Mathew Leckie,a,241,OpenPlay,2016,RightFoot,3873,Freiburg,Ingolstadt,1,1,2017-05-13 14:30:00,,None
+133544,59,SavedShot,0.840999984741211,0.6990000152587891,0.03471888229250908,Markus Suttner,a,379,OpenPlay,2016,LeftFoot,3873,Freiburg,Ingolstadt,1,1,2017-05-13 14:30:00,,None
+133545,60,SavedShot,0.905,0.509000015258789,0.30030640959739685,Almog Cohen,a,240,OpenPlay,2016,Head,3873,Freiburg,Ingolstadt,1,1,2017-05-13 14:30:00,Pascal Groß,Chipped
+133546,64,SavedShot,0.7240000152587891,0.26399999618530273,0.03376417234539986,Markus Suttner,a,379,DirectFreekick,2016,LeftFoot,3873,Freiburg,Ingolstadt,1,1,2017-05-13 14:30:00,,Standard
+133547,65,MissedShots,0.8490000152587891,0.43099998474121093,0.07756628841161728,Almog Cohen,a,240,OpenPlay,2016,RightFoot,3873,Freiburg,Ingolstadt,1,1,2017-05-13 14:30:00,Darío Lezcano,Pass
+133550,71,BlockedShot,0.8,0.72,0.06518102437257767,Sonny Kittel,a,2649,DirectFreekick,2016,RightFoot,3873,Freiburg,Ingolstadt,1,1,2017-05-13 14:30:00,,Standard
+133552,81,BlockedShot,0.8419999694824218,0.549000015258789,0.0647025778889656,Pascal Groß,a,239,OpenPlay,2016,RightFoot,3873,Freiburg,Ingolstadt,1,1,2017-05-13 14:30:00,,None
+133553,82,BlockedShot,0.92,0.45799999237060546,0.0935186892747879,Marvin Matip,a,236,FromCorner,2016,Head,3873,Freiburg,Ingolstadt,1,1,2017-05-13 14:30:00,Markus Suttner,Cross
+133554,82,MissedShots,0.8640000152587891,0.37,0.07613546401262283,Alfredo Morales,a,252,OpenPlay,2016,RightFoot,3873,Freiburg,Ingolstadt,1,1,2017-05-13 14:30:00,Mathew Leckie,Pass
+133555,84,MissedShots,0.7980000305175782,0.43400001525878906,0.0632830485701561,Almog Cohen,a,240,OpenPlay,2016,LeftFoot,3873,Freiburg,Ingolstadt,1,1,2017-05-13 14:30:00,,TakeOn
+133556,85,SavedShot,0.8290000152587891,0.6029999923706054,0.07172581553459167,Pascal Groß,a,239,OpenPlay,2016,LeftFoot,3873,Freiburg,Ingolstadt,1,1,2017-05-13 14:30:00,Sonny Kittel,TakeOn

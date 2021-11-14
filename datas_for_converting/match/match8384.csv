@@ -1,0 +1,31 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+169052,3,Goal,0.899000015258789,0.5709999847412109,0.1444176435470581,Yunus Malli,h,45,OpenPlay,2017,RightFoot,8384,Wolfsburg,Borussia M.Gladbach,3,0,2017-12-03 17:00:00,Mario Gomez,Pass
+169054,7,MissedShots,0.9009999847412109,0.555,0.4286468029022217,Yunus Malli,h,45,OpenPlay,2017,RightFoot,8384,Wolfsburg,Borussia M.Gladbach,3,0,2017-12-03 17:00:00,,None
+169056,11,MissedShots,0.7909999847412109,0.34799999237060547,0.03336501121520996,Daniel Didavi,h,300,OpenPlay,2017,LeftFoot,8384,Wolfsburg,Borussia M.Gladbach,3,0,2017-12-03 17:00:00,Paul Verhaegh,Pass
+169059,16,MissedShots,0.8580000305175781,0.5670000076293945,0.029347047209739685,Mario Gomez,h,3887,OpenPlay,2017,Head,8384,Wolfsburg,Borussia M.Gladbach,3,0,2017-12-03 17:00:00,Gian-Luca Itter,Cross
+169061,24,Goal,0.93,0.42900001525878906,0.5084123015403748,Daniel Didavi,h,300,OpenPlay,2017,LeftFoot,8384,Wolfsburg,Borussia M.Gladbach,3,0,2017-12-03 17:00:00,Yunus Malli,Throughball
+169066,45,BlockedShot,0.8,0.22799999237060548,0.026301154866814613,Divock Origi,h,484,OpenPlay,2017,RightFoot,8384,Wolfsburg,Borussia M.Gladbach,3,0,2017-12-03 17:00:00,Yannick Gerhardt,Pass
+169067,46,MissedShots,0.8319999694824218,0.6430000305175781,0.018674025312066078,Yunus Malli,h,45,FromCorner,2017,LeftFoot,8384,Wolfsburg,Borussia M.Gladbach,3,0,2017-12-03 17:00:00,,Aerial
+169069,55,SavedShot,0.855,0.32599998474121095,0.0643906220793724,Divock Origi,h,484,OpenPlay,2017,LeftFoot,8384,Wolfsburg,Borussia M.Gladbach,3,0,2017-12-03 17:00:00,Yannick Gerhardt,Pass
+169071,67,SavedShot,0.750999984741211,0.5609999847412109,0.0311992559581995,William,h,6229,OpenPlay,2017,RightFoot,8384,Wolfsburg,Borussia M.Gladbach,3,0,2017-12-03 17:00:00,Yannick Gerhardt,Pass
+169073,70,Goal,0.735999984741211,0.53,0.018481126055121422,Josuha Guilavogui,h,150,OpenPlay,2017,RightFoot,8384,Wolfsburg,Borussia M.Gladbach,3,0,2017-12-03 17:00:00,,None
+169075,78,BlockedShot,0.8530000305175781,0.42700000762939455,0.1179773285984993,Yunus Malli,h,45,OpenPlay,2017,RightFoot,8384,Wolfsburg,Borussia M.Gladbach,3,0,2017-12-03 17:00:00,Divock Origi,Pass
+169078,84,MissedShots,0.9230000305175782,0.5720000076293945,0.10515381395816803,Mario Gomez,h,3887,SetPiece,2017,Head,8384,Wolfsburg,Borussia M.Gladbach,3,0,2017-12-03 17:00:00,Yunus Malli,Cross
+169081,87,SavedShot,0.7780000305175782,0.4370000076293945,0.05074745789170265,Divock Origi,h,484,OpenPlay,2017,LeftFoot,8384,Wolfsburg,Borussia M.Gladbach,3,0,2017-12-03 17:00:00,Yannick Gerhardt,Pass
+169053,6,SavedShot,0.789000015258789,0.4129999923706055,0.031139317899942398,Matthias Ginter,a,315,OpenPlay,2017,RightFoot,8384,Wolfsburg,Borussia M.Gladbach,3,0,2017-12-03 17:00:00,,Dispossessed
+169055,9,MissedShots,0.8669999694824219,0.315,0.04548315331339836,Lars Stindl,a,208,OpenPlay,2017,RightFoot,8384,Wolfsburg,Borussia M.Gladbach,3,0,2017-12-03 17:00:00,Raffael,Chipped
+169057,13,SavedShot,0.7330000305175781,0.524000015258789,0.05685834586620331,Vincenzo Grifo,a,5266,DirectFreekick,2017,RightFoot,8384,Wolfsburg,Borussia M.Gladbach,3,0,2017-12-03 17:00:00,,Standard
+169058,13,MissedShots,0.715999984741211,0.5520000076293945,0.013909203000366688,Thorgan Hazard,a,213,FromCorner,2017,RightFoot,8384,Wolfsburg,Borussia M.Gladbach,3,0,2017-12-03 17:00:00,,None
+169060,22,SavedShot,0.8669999694824219,0.7090000152587891,0.03956066444516182,Oscar Wendt,a,206,OpenPlay,2017,LeftFoot,8384,Wolfsburg,Borussia M.Gladbach,3,0,2017-12-03 17:00:00,Lars Stindl,Pass
+169062,35,SavedShot,0.805,0.7030000305175781,0.019252346828579903,Vincenzo Grifo,a,5266,OpenPlay,2017,RightFoot,8384,Wolfsburg,Borussia M.Gladbach,3,0,2017-12-03 17:00:00,Lars Stindl,Pass
+169063,40,SavedShot,0.9069999694824219,0.555,0.06324434280395508,Matthias Ginter,a,315,FromCorner,2017,Head,8384,Wolfsburg,Borussia M.Gladbach,3,0,2017-12-03 17:00:00,Oscar Wendt,Cross
+169064,43,MissedShots,0.85,0.6170000076293946,0.25807735323905945,Thorgan Hazard,a,213,OpenPlay,2017,LeftFoot,8384,Wolfsburg,Borussia M.Gladbach,3,0,2017-12-03 17:00:00,Jannik Vestergaard,Chipped
+169065,45,SavedShot,0.91,0.24,0.029420632869005203,Thorgan Hazard,a,213,OpenPlay,2017,RightFoot,8384,Wolfsburg,Borussia M.Gladbach,3,0,2017-12-03 17:00:00,Nico Elvedi,Pass
+169068,48,MissedShots,0.965999984741211,0.46,0.5700759887695312,Lars Stindl,a,208,OpenPlay,2017,RightFoot,8384,Wolfsburg,Borussia M.Gladbach,3,0,2017-12-03 17:00:00,Vincenzo Grifo,Cross
+169070,64,SavedShot,0.8859999847412109,0.27899999618530275,0.03993254527449608,Thorgan Hazard,a,213,OpenPlay,2017,RightFoot,8384,Wolfsburg,Borussia M.Gladbach,3,0,2017-12-03 17:00:00,Raffael,Pass
+169072,69,MissedShots,0.86,0.24700000762939453,0.013223879970610142,Thorgan Hazard,a,213,OpenPlay,2017,RightFoot,8384,Wolfsburg,Borussia M.Gladbach,3,0,2017-12-03 17:00:00,Nico Elvedi,HeadPass
+169074,72,BlockedShot,0.9269999694824219,0.34900001525878904,0.08242114633321762,Thorgan Hazard,a,213,OpenPlay,2017,RightFoot,8384,Wolfsburg,Borussia M.Gladbach,3,0,2017-12-03 17:00:00,Lars Stindl,Pass
+169076,79,SavedShot,0.8969999694824219,0.715,0.04044676944613457,Oscar Wendt,a,206,OpenPlay,2017,RightFoot,8384,Wolfsburg,Borussia M.Gladbach,3,0,2017-12-03 17:00:00,Vincenzo Grifo,Pass
+169077,81,MissedShots,0.7709999847412109,0.3609999847412109,0.015346136875450611,Matthias Ginter,a,315,OpenPlay,2017,RightFoot,8384,Wolfsburg,Borussia M.Gladbach,3,0,2017-12-03 17:00:00,,None
+169079,86,SavedShot,0.8519999694824218,0.6120000076293945,0.07421749830245972,Lars Stindl,a,208,OpenPlay,2017,RightFoot,8384,Wolfsburg,Borussia M.Gladbach,3,0,2017-12-03 17:00:00,Vincenzo Grifo,Pass
+169080,86,BlockedShot,0.7619999694824219,0.3509999847412109,0.017710769549012184,Michaël Cuisance,a,6148,OpenPlay,2017,LeftFoot,8384,Wolfsburg,Borussia M.Gladbach,3,0,2017-12-03 17:00:00,,Dispossessed

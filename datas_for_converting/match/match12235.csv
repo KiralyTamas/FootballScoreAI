@@ -1,0 +1,31 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+356532,7,MissedShots,0.875,0.4909999847412109,0.17373250424861908,Carlos Fernández,h,2070,OpenPlay,2019,Head,12235,Granada,Espanyol,2,1,2020-02-01 12:00:00,Víctor Díaz,Cross
+356538,37,Goal,0.9169999694824219,0.6,0.4002067446708679,Darwin Machís,h,4226,OpenPlay,2019,RightFoot,12235,Granada,Espanyol,2,1,2020-02-01 12:00:00,Carlos Fernández,Throughball
+356539,40,MissedShots,0.8019999694824219,0.28,0.028009897097945213,Yangel Herrera,h,7350,OpenPlay,2019,LeftFoot,12235,Granada,Espanyol,2,1,2020-02-01 12:00:00,Carlos Fernández,LayOff
+356540,42,MissedShots,0.7219999694824218,0.7090000152587891,0.008831549435853958,Víctor Díaz,h,5117,SetPiece,2019,LeftFoot,12235,Granada,Espanyol,2,1,2020-02-01 12:00:00,,None
+356541,44,MissedShots,0.8480000305175781,0.5370000076293945,0.09128806740045547,Antonio Puertas,h,7863,OpenPlay,2019,RightFoot,12235,Granada,Espanyol,2,1,2020-02-01 12:00:00,Roberto Soldado,Pass
+356543,45,Goal,0.8880000305175781,0.555,0.11450079828500748,Carlos Fernández,h,2070,OpenPlay,2019,RightFoot,12235,Granada,Espanyol,2,1,2020-02-01 12:00:00,Darwin Machís,Pass
+356545,52,MissedShots,0.7609999847412109,0.6930000305175781,0.023537522181868553,Darwin Machís,h,4226,OpenPlay,2019,RightFoot,12235,Granada,Espanyol,2,1,2020-02-01 12:00:00,Maxime Gonalons,Chipped
+356547,55,MissedShots,0.975999984741211,0.6509999847412109,0.035543885082006454,Darwin Machís,h,4226,OpenPlay,2019,LeftFoot,12235,Granada,Espanyol,2,1,2020-02-01 12:00:00,Víctor Díaz,Cross
+356533,15,BlockedShot,0.8180000305175781,0.32099998474121094,0.030942969024181366,Adrián Embarba,a,2166,OpenPlay,2019,LeftFoot,12235,Granada,Espanyol,2,1,2020-02-01 12:00:00,,None
+356534,21,MissedShots,0.845999984741211,0.33,0.028392599895596504,Raúl de Tomás,a,4229,OpenPlay,2019,RightFoot,12235,Granada,Espanyol,2,1,2020-02-01 12:00:00,Diego López,Pass
+356535,26,Goal,0.885,0.5,0.7432776093482971,Raúl de Tomás,a,4229,Penalty,2019,RightFoot,12235,Granada,Espanyol,2,1,2020-02-01 12:00:00,,Standard
+356536,35,MissedShots,0.955,0.525,0.605061411857605,Sergi Darder,a,2621,OpenPlay,2019,LeftFoot,12235,Granada,Espanyol,2,1,2020-02-01 12:00:00,Jonathan Calleri,Cross
+356537,36,SavedShot,0.9069999694824219,0.67,0.08393672853708267,Raúl de Tomás,a,4229,OpenPlay,2019,LeftFoot,12235,Granada,Espanyol,2,1,2020-02-01 12:00:00,Jonathan Calleri,HeadPass
+356542,46,MissedShots,0.7530000305175781,0.35400001525878905,0.02165425755083561,Sergi Darder,a,2621,OpenPlay,2019,RightFoot,12235,Granada,Espanyol,2,1,2020-02-01 12:00:00,David López,Pass
+356544,50,BlockedShot,0.9319999694824219,0.3029999923706055,0.05353449657559395,Jonathan Calleri,a,1672,OpenPlay,2019,RightFoot,12235,Granada,Espanyol,2,1,2020-02-01 12:00:00,Sergi Darder,Pass
+356546,53,MissedShots,0.9369999694824219,0.5220000076293946,0.10389073938131332,Raúl de Tomás,a,4229,OpenPlay,2019,RightFoot,12235,Granada,Espanyol,2,1,2020-02-01 12:00:00,Jonathan Calleri,Cross
+356548,62,BlockedShot,0.9430000305175781,0.5070000076293946,0.07050152122974396,Raúl de Tomás,a,4229,OpenPlay,2019,Head,12235,Granada,Espanyol,2,1,2020-02-01 12:00:00,Adrián Embarba,Aerial
+356549,64,SavedShot,0.53,0.2520000076293945,0.008338754996657372,Raúl de Tomás,a,4229,OpenPlay,2019,RightFoot,12235,Granada,Espanyol,2,1,2020-02-01 12:00:00,Jonathan Calleri,Pass
+356550,65,MissedShots,0.9619999694824218,0.515,0.5831875801086426,Jonathan Calleri,a,1672,OpenPlay,2019,RightFoot,12235,Granada,Espanyol,2,1,2020-02-01 12:00:00,Adrián Embarba,Cross
+356551,66,MissedShots,0.9159999847412109,0.4879999923706055,0.04990769922733307,Jonathan Calleri,a,1672,OpenPlay,2019,Head,12235,Granada,Espanyol,2,1,2020-02-01 12:00:00,Dídac Vilá,Aerial
+356552,69,BlockedShot,0.8319999694824218,0.31,0.04192104563117027,Raúl de Tomás,a,4229,SetPiece,2019,LeftFoot,12235,Granada,Espanyol,2,1,2020-02-01 12:00:00,Leandro Cabrera,HeadPass
+356553,69,MissedShots,0.6919999694824219,0.575,0.011497360654175282,Dídac Vilá,a,4131,FromCorner,2019,LeftFoot,12235,Granada,Espanyol,2,1,2020-02-01 12:00:00,,Aerial
+356554,71,SavedShot,0.76,0.7390000152587891,0.011061626486480236,Adrián Embarba,a,2166,OpenPlay,2019,RightFoot,12235,Granada,Espanyol,2,1,2020-02-01 12:00:00,Raúl de Tomás,Chipped
+356555,73,BlockedShot,0.93,0.740999984741211,0.038111612200737,Adrián Embarba,a,2166,OpenPlay,2019,RightFoot,12235,Granada,Espanyol,2,1,2020-02-01 12:00:00,Wu Lei,None
+356556,73,MissedShots,0.7119999694824218,0.565,0.013705895282328129,Adrián Embarba,a,2166,FromCorner,2019,RightFoot,12235,Granada,Espanyol,2,1,2020-02-01 12:00:00,,None
+356557,81,MissedShots,0.89,0.35700000762939454,0.05824282392859459,Matías Vargas,a,7886,OpenPlay,2019,RightFoot,12235,Granada,Espanyol,2,1,2020-02-01 12:00:00,,BallTouch
+356558,86,BlockedShot,0.705,0.5790000152587891,0.015910010784864426,Sergi Darder,a,2621,OpenPlay,2019,RightFoot,12235,Granada,Espanyol,2,1,2020-02-01 12:00:00,Adrián Embarba,Pass
+356559,86,BlockedShot,0.884000015258789,0.56,0.08750147372484207,Dídac Vilá,a,4131,OpenPlay,2019,LeftFoot,12235,Granada,Espanyol,2,1,2020-02-01 12:00:00,,Rebound
+356560,92,MissedShots,0.764000015258789,0.37099998474121093,0.02497129887342453,Javi López,a,2108,FromCorner,2019,RightFoot,12235,Granada,Espanyol,2,1,2020-02-01 12:00:00,Óscar Melendo,Pass
+356561,94,BlockedShot,0.700999984741211,0.4470000076293945,0.015817344188690186,Adrián Embarba,a,2166,OpenPlay,2019,LeftFoot,12235,Granada,Espanyol,2,1,2020-02-01 12:00:00,David López,Pass

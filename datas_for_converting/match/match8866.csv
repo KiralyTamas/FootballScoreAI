@@ -1,0 +1,24 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+204178,20,MissedShots,0.915,0.5129999923706055,0.04122283309698105,Júlio Tavares,h,5622,FromCorner,2017,Head,8866,Dijon,Marseille,1,3,2018-03-31 00:00:00,Xeka,Aerial
+204180,27,BlockedShot,0.9640000152587891,0.33,0.05007549002766609,Wesley Said,h,3799,OpenPlay,2017,RightFoot,8866,Dijon,Marseille,1,3,2018-03-31 00:00:00,Xeka,Chipped
+204184,42,SavedShot,0.91,0.5879999923706055,0.026972152292728424,Xeka,h,5704,OpenPlay,2017,Head,8866,Dijon,Marseille,1,3,2018-03-31 00:00:00,Valentin Rosier,Aerial
+204185,46,MissedShots,0.9359999847412109,0.32599998474121095,0.05361378565430641,Wesley Said,h,3799,OpenPlay,2017,RightFoot,8866,Dijon,Marseille,1,3,2018-03-31 00:00:00,,None
+204186,46,MissedShots,0.9030000305175782,0.345,0.01195836253464222,Júlio Tavares,h,5622,FromCorner,2017,Head,8866,Dijon,Marseille,1,3,2018-03-31 00:00:00,Xeka,Cross
+204188,49,MissedShots,0.7430000305175781,0.5629999923706055,0.01998436450958252,Xeka,h,5704,OpenPlay,2017,RightFoot,8866,Dijon,Marseille,1,3,2018-03-31 00:00:00,Jordan Marié,Pass
+204190,63,BlockedShot,0.845999984741211,0.48700000762939455,0.06984524428844452,Xeka,h,5704,OpenPlay,2017,RightFoot,8866,Dijon,Marseille,1,3,2018-03-31 00:00:00,Wesley Said,Pass
+204191,64,MissedShots,0.9059999847412109,0.48400001525878905,0.028331996873021126,Júlio Tavares,h,5622,FromCorner,2017,Head,8866,Dijon,Marseille,1,3,2018-03-31 00:00:00,Xeka,Aerial
+204192,69,MissedShots,0.725,0.4640000152587891,0.01407751627266407,Naim Sliti,h,5608,OpenPlay,2017,RightFoot,8866,Dijon,Marseille,1,3,2018-03-31 00:00:00,,TakeOn
+204193,72,Goal,0.850999984741211,0.455,0.058053504675626755,Kwon Chang-Hoon,h,5625,OpenPlay,2017,LeftFoot,8866,Dijon,Marseille,1,3,2018-03-31 00:00:00,Oussama Haddadi,Cross
+204195,84,BlockedShot,0.805,0.784000015258789,0.04834321513772011,Naim Sliti,h,5608,DirectFreekick,2017,RightFoot,8866,Dijon,Marseille,1,3,2018-03-31 00:00:00,,Standard
+204196,85,MissedShots,0.8209999847412109,0.32,0.0330335833132267,Júlio Tavares,h,5622,OpenPlay,2017,LeftFoot,8866,Dijon,Marseille,1,3,2018-03-31 00:00:00,Kwon Chang-Hoon,Pass
+204179,26,SavedShot,0.755,0.634000015258789,0.020736336708068848,Morgan Sanson,a,3696,OpenPlay,2017,RightFoot,8866,Dijon,Marseille,1,3,2018-03-31 00:00:00,Dimitri Payet,Pass
+204181,28,BlockedShot,0.8590000152587891,0.33,0.09848902374505997,Dimitri Payet,a,536,OpenPlay,2017,RightFoot,8866,Dijon,Marseille,1,3,2018-03-31 00:00:00,Bouna Sarr,TakeOn
+204182,35,Goal,0.9290000152587891,0.49700000762939456,0.5722317099571228,Valère Germain,a,3309,OpenPlay,2017,RightFoot,8866,Dijon,Marseille,1,3,2018-03-31 00:00:00,Dimitri Payet,Pass
+204183,41,MissedShots,0.8469999694824218,0.47200000762939454,0.10802929103374481,Franck Zambo,a,6434,OpenPlay,2017,RightFoot,8866,Dijon,Marseille,1,3,2018-03-31 00:00:00,Dimitri Payet,TakeOn
+204187,47,MissedShots,0.85,0.7809999847412109,0.026241807267069817,Lucas Ocampos,a,1109,OpenPlay,2017,RightFoot,8866,Dijon,Marseille,1,3,2018-03-31 00:00:00,Valère Germain,Chipped
+204189,54,MissedShots,0.8809999847412109,0.67,0.0757342204451561,Lucas Ocampos,a,1109,OpenPlay,2017,RightFoot,8866,Dijon,Marseille,1,3,2018-03-31 00:00:00,Dimitri Payet,Pass
+204194,75,BlockedShot,0.965999984741211,0.580999984741211,0.09767185896635056,Rolando,a,3397,FromCorner,2017,Head,8866,Dijon,Marseille,1,3,2018-03-31 00:00:00,Dimitri Payet,Cross
+204197,87,MissedShots,0.9640000152587891,0.4,0.055616170167922974,Valère Germain,a,3309,FromCorner,2017,Head,8866,Dijon,Marseille,1,3,2018-03-31 00:00:00,Dimitri Payet,Cross
+204198,87,Goal,0.9840000152587891,0.5279999923706055,0.9703539609909058,Lucas Ocampos,a,1109,FromCorner,2017,OtherBodyPart,8866,Dijon,Marseille,1,3,2018-03-31 00:00:00,Valère Germain,Rebound
+204199,92,SavedShot,0.885,0.5,0.7600294947624207,Dimitri Payet,a,536,Penalty,2017,RightFoot,8866,Dijon,Marseille,1,3,2018-03-31 00:00:00,,Standard
+204200,94,Goal,0.885,0.5,0.7600951194763184,Dimitri Payet,a,536,Penalty,2017,RightFoot,8866,Dijon,Marseille,1,3,2018-03-31 00:00:00,,Standard

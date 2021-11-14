@@ -1,0 +1,11 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+432483,27,MissedShots,0.9019999694824219,0.4370000076293945,0.08786104619503021,Pablo Martínez,h,8183,OpenPlay,2021,RightFoot,17194,Levante,Celta Vigo,0,2,2021-09-21 20:00:00,,None
+432485,50,MissedShots,0.9469999694824218,0.48200000762939454,0.5290630459785461,Roger,h,2566,OpenPlay,2021,RightFoot,17194,Levante,Celta Vigo,0,2,2021-09-21 20:00:00,Jorge Miramón,Cross
+432488,70,SavedShot,0.885,0.5,0.7432776093482971,Roger,h,2566,Penalty,2021,RightFoot,17194,Levante,Celta Vigo,0,2,2021-09-21 20:00:00,,Standard
+432489,80,SavedShot,0.7769999694824219,0.7130000305175781,0.019000083208084106,Dani Gómez,h,8774,OpenPlay,2021,RightFoot,17194,Levante,Celta Vigo,0,2,2021-09-21 20:00:00,Nikola Vukcevic,Pass
+432490,82,MissedShots,0.7230000305175781,0.4909999847412109,0.018395299091935158,Shkodran Mustafi,h,1699,OpenPlay,2021,RightFoot,17194,Levante,Celta Vigo,0,2,2021-09-21 20:00:00,Gonzalo Melero,Pass
+432492,90,MissedShots,0.7080000305175781,0.46299999237060546,0.009418677538633347,Gonzalo Melero,h,6953,OpenPlay,2021,RightFoot,17194,Levante,Celta Vigo,0,2,2021-09-21 20:00:00,,Aerial
+432484,34,BlockedShot,0.8480000305175781,0.4829999923706055,0.07902899384498596,Iago Aspas,a,2290,OpenPlay,2021,LeftFoot,17194,Levante,Celta Vigo,0,2,2021-09-21 20:00:00,Fran Beltrán,BallRecovery
+432486,59,MissedShots,0.9069999694824219,0.28,0.03588879853487015,Santi Mina,a,2384,OpenPlay,2021,RightFoot,17194,Levante,Celta Vigo,0,2,2021-09-21 20:00:00,Brais Méndez,Pass
+432487,65,Goal,0.8540000152587891,0.41900001525878905,0.2750934362411499,Iago Aspas,a,2290,OpenPlay,2021,LeftFoot,17194,Levante,Celta Vigo,0,2,2021-09-21 20:00:00,Santi Mina,Pass
+432491,84,Goal,0.9430000305175781,0.37,0.34967151284217834,Brais Méndez,a,6227,OpenPlay,2021,RightFoot,17194,Levante,Celta Vigo,0,2,2021-09-21 20:00:00,Santi Mina,TakeOn

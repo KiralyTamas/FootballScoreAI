@@ -1,0 +1,26 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+295041,5,BlockedShot,0.6940000152587891,0.720999984741211,0.010098658502101898,Charalampos Lykogiannis,h,6517,OpenPlay,2018,LeftFoot,9898,Cagliari,Frosinone,1,0,2019-04-20 14:00:00,Leonardo Pavoletti,Pass
+295044,26,Goal,0.885,0.5,0.7612988352775574,João Pedro,h,1592,Penalty,2018,RightFoot,9898,Cagliari,Frosinone,1,0,2019-04-20 14:00:00,,Standard
+295045,28,MissedShots,0.735999984741211,0.5590000152587891,0.024410899728536606,Valter Birsa,h,1336,OpenPlay,2018,LeftFoot,9898,Cagliari,Frosinone,1,0,2019-04-20 14:00:00,,BallTouch
+295048,37,MissedShots,0.8169999694824219,0.6809999847412109,0.02140164002776146,Charalampos Lykogiannis,h,6517,FromCorner,2018,LeftFoot,9898,Cagliari,Frosinone,1,0,2019-04-20 14:00:00,,None
+295049,38,MissedShots,0.8230000305175781,0.545,0.07882384210824966,Leonardo Pavoletti,h,1104,OpenPlay,2018,LeftFoot,9898,Cagliari,Frosinone,1,0,2019-04-20 14:00:00,Valter Birsa,Pass
+295050,44,MissedShots,0.7030000305175781,0.48400001525878905,0.017025873064994812,Luca Cigarini,h,1238,OpenPlay,2018,RightFoot,9898,Cagliari,Frosinone,1,0,2019-04-20 14:00:00,Valter Birsa,BallRecovery
+295051,48,SavedShot,0.7280000305175781,0.37900001525878907,0.012934556230902672,Leonardo Pavoletti,h,1104,OpenPlay,2018,RightFoot,9898,Cagliari,Frosinone,1,0,2019-04-20 14:00:00,,Aerial
+295052,51,SavedShot,0.89,0.46599998474121096,0.09073394536972046,Leonardo Pavoletti,h,1104,OpenPlay,2018,Head,9898,Cagliari,Frosinone,1,0,2019-04-20 14:00:00,Darijo Srna,Cross
+295053,63,MissedShots,0.9069999694824219,0.5029999923706054,0.12467923760414124,Artur Ionita,h,1604,OpenPlay,2018,Head,9898,Cagliari,Frosinone,1,0,2019-04-20 14:00:00,Darijo Srna,Cross
+295056,71,SavedShot,0.9259999847412109,0.49400001525878906,0.3923245668411255,Leonardo Pavoletti,h,1104,OpenPlay,2018,Head,9898,Cagliari,Frosinone,1,0,2019-04-20 14:00:00,Artur Ionita,Cross
+295057,71,MissedShots,0.7430000305175781,0.24,0.01583201065659523,Valter Birsa,h,1336,OpenPlay,2018,LeftFoot,9898,Cagliari,Frosinone,1,0,2019-04-20 14:00:00,Leonardo Pavoletti,Pass
+295059,74,SavedShot,0.870999984741211,0.6229999923706054,0.0984347015619278,João Pedro,h,1592,OpenPlay,2018,RightFoot,9898,Cagliari,Frosinone,1,0,2019-04-20 14:00:00,Artur Ionita,Pass
+295042,6,MissedShots,0.9,0.4129999923706055,0.09802059829235077,Luca Paganini,a,1963,OpenPlay,2018,RightFoot,9898,Cagliari,Frosinone,1,0,2019-04-20 14:00:00,Camillo Ciano,BallTouch
+295043,23,MissedShots,0.9019999694824219,0.37599998474121094,0.28938886523246765,Daniel Ciofani,a,1868,OpenPlay,2018,RightFoot,9898,Cagliari,Frosinone,1,0,2019-04-20 14:00:00,Raffaele Maiello,Chipped
+295046,31,BlockedShot,0.6519999694824219,0.49599998474121093,0.011430295184254646,Camillo Ciano,a,7015,OpenPlay,2018,LeftFoot,9898,Cagliari,Frosinone,1,0,2019-04-20 14:00:00,Raffaele Maiello,Pass
+295047,34,MissedShots,0.89,0.5270000076293946,0.061648860573768616,Daniel Ciofani,a,1868,OpenPlay,2018,Head,9898,Cagliari,Frosinone,1,0,2019-04-20 14:00:00,Andrea Beghetto,Cross
+295054,70,BlockedShot,0.8680000305175781,0.629000015258789,0.05645675212144852,Daniel Ciofani,a,1868,OpenPlay,2018,LeftFoot,9898,Cagliari,Frosinone,1,0,2019-04-20 14:00:00,,Dispossessed
+295055,70,SavedShot,0.7730000305175782,0.37099998474121093,0.020204033702611923,Camillo Ciano,a,7015,OpenPlay,2018,LeftFoot,9898,Cagliari,Frosinone,1,0,2019-04-20 14:00:00,Luca Paganini,Pass
+295058,73,MissedShots,0.850999984741211,0.3729999923706055,0.008001507259905338,Luca Paganini,a,1963,OpenPlay,2018,Head,9898,Cagliari,Frosinone,1,0,2019-04-20 14:00:00,Andrea Beghetto,Aerial
+295060,74,MissedShots,0.845999984741211,0.42400001525878905,0.05470102280378342,Daniel Ciofani,a,1868,OpenPlay,2018,RightFoot,9898,Cagliari,Frosinone,1,0,2019-04-20 14:00:00,Camillo Ciano,Chipped
+295061,77,MissedShots,0.874000015258789,0.49700000762939456,0.049780238419771194,Andrea Pinamonti,a,4895,OpenPlay,2018,Head,9898,Cagliari,Frosinone,1,0,2019-04-20 14:00:00,Camillo Ciano,Cross
+295062,77,MissedShots,0.8780000305175781,0.509000015258789,0.05181264132261276,Andrea Pinamonti,a,4895,OpenPlay,2018,Head,9898,Cagliari,Frosinone,1,0,2019-04-20 14:00:00,Andrea Beghetto,Cross
+295063,83,MissedShots,0.865999984741211,0.3370000076293945,0.04685209318995476,Andrea Pinamonti,a,4895,OpenPlay,2018,RightFoot,9898,Cagliari,Frosinone,1,0,2019-04-20 14:00:00,,None
+295064,83,MissedShots,0.9059999847412109,0.48200000762939454,0.07650048285722733,Andrea Pinamonti,a,4895,OpenPlay,2018,Head,9898,Cagliari,Frosinone,1,0,2019-04-20 14:00:00,Edoardo Goldaniga,Cross
+295065,91,BlockedShot,0.7569999694824219,0.46700000762939453,0.023821737617254257,Luca Paganini,a,1963,OpenPlay,2018,LeftFoot,9898,Cagliari,Frosinone,1,0,2019-04-20 14:00:00,Federico Dionisi,LayOff

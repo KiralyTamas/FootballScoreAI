@@ -1,0 +1,22 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+61851,25,SavedShot,0.8590000152587891,0.72,0.03430520370602608,Raphael Guerreiro,h,3455,OpenPlay,2015,LeftFoot,1897,Lorient,Saint-Etienne,0,1,2015-08-23 19:00:00,Francois Bellugou,Pass
+61855,42,SavedShot,0.96,0.37400001525878906,0.03513392433524132,Lamine Koné,h,728,SetPiece,2015,Head,1897,Lorient,Saint-Etienne,0,1,2015-08-23 19:00:00,Walid Mesloub,Cross
+61856,44,MissedShots,0.845,0.5220000076293946,0.06264389306306839,Raphael Guerreiro,h,3455,SetPiece,2015,RightFoot,1897,Lorient,Saint-Etienne,0,1,2015-08-23 19:00:00,,None
+61857,44,BlockedShot,0.8280000305175781,0.48700000762939455,0.050166595727205276,Didier Ndong,h,1720,SetPiece,2015,RightFoot,1897,Lorient,Saint-Etienne,0,1,2015-08-23 19:00:00,,Rebound
+61858,45,MissedShots,0.9309999847412109,0.5279999923706055,0.13329844176769257,Benjamin Moukandjo,h,3570,OpenPlay,2015,Head,1897,Lorient,Saint-Etienne,0,1,2015-08-23 19:00:00,Lamine Gassama,Cross
+61860,56,MissedShots,0.915,0.5070000076293946,0.11498284339904785,Didier Ndong,h,1720,OpenPlay,2015,LeftFoot,1897,Lorient,Saint-Etienne,0,1,2015-08-23 19:00:00,Raphael Guerreiro,Cross
+61861,58,BlockedShot,0.8480000305175781,0.715,0.03211802989244461,Vincent Le Goff,h,3464,OpenPlay,2015,LeftFoot,1897,Lorient,Saint-Etienne,0,1,2015-08-23 19:00:00,Walid Mesloub,Pass
+61863,71,MissedShots,0.7290000152587891,0.3129999923706055,0.03944772854447365,Raphael Guerreiro,h,3455,DirectFreekick,2015,LeftFoot,1897,Lorient,Saint-Etienne,0,1,2015-08-23 19:00:00,,Standard
+61868,90,BlockedShot,0.7759999847412109,0.5670000076293945,0.03498481959104538,Benjamin Jeannot,h,3460,OpenPlay,2015,RightFoot,1897,Lorient,Saint-Etienne,0,1,2015-08-23 19:00:00,Wesley Lautoa,HeadPass
+61869,90,BlockedShot,0.71,0.5129999923706055,0.015152291394770145,Vincent Le Goff,h,3464,OpenPlay,2015,LeftFoot,1897,Lorient,Saint-Etienne,0,1,2015-08-23 19:00:00,,Rebound
+61849,3,SavedShot,0.8069999694824219,0.3170000076293945,0.08137072622776031,Pierre-Yves Polomat,a,3690,DirectFreekick,2015,LeftFoot,1897,Lorient,Saint-Etienne,0,1,2015-08-23 19:00:00,,Standard
+61850,9,SavedShot,0.7559999847412109,0.6419999694824219,0.05783760920166969,Nolan Roux,a,3512,DirectFreekick,2015,RightFoot,1897,Lorient,Saint-Etienne,0,1,2015-08-23 19:00:00,,Standard
+61852,27,SavedShot,0.9219999694824219,0.66,0.06325779110193253,Kévin Monnet-Paquet,a,3513,OpenPlay,2015,RightFoot,1897,Lorient,Saint-Etienne,0,1,2015-08-23 19:00:00,,None
+61853,29,MissedShots,0.93,0.49700000762939456,0.5824636220932007,Nolan Roux,a,3512,OpenPlay,2015,RightFoot,1897,Lorient,Saint-Etienne,0,1,2015-08-23 19:00:00,Romain Hamouma,Pass
+61854,33,SavedShot,0.855,0.4470000076293945,0.3333406150341034,Romain Hamouma,a,3561,OpenPlay,2015,RightFoot,1897,Lorient,Saint-Etienne,0,1,2015-08-23 19:00:00,Kévin Monnet-Paquet,Pass
+61859,52,MissedShots,0.6869999694824219,0.365,0.010282064788043499,Kévin Théophile-Catherine,a,3504,OpenPlay,2015,RightFoot,1897,Lorient,Saint-Etienne,0,1,2015-08-23 19:00:00,Fabien Lemoine,BallRecovery
+61862,63,MissedShots,0.9390000152587891,0.495,0.6022593379020691,Nolan Roux,a,3512,OpenPlay,2015,RightFoot,1897,Lorient,Saint-Etienne,0,1,2015-08-23 19:00:00,Romain Hamouma,Pass
+61864,74,MissedShots,0.9390000152587891,0.305,0.0656837746500969,Benjamin Corgnet,a,3514,OpenPlay,2015,RightFoot,1897,Lorient,Saint-Etienne,0,1,2015-08-23 19:00:00,Romain Hamouma,Pass
+61865,75,BlockedShot,0.889000015258789,0.5770000076293945,0.07917129248380661,Benjamin Corgnet,a,3514,OpenPlay,2015,LeftFoot,1897,Lorient,Saint-Etienne,0,1,2015-08-23 19:00:00,Kévin Monnet-Paquet,Cross
+61866,79,BlockedShot,0.7180000305175781,0.49700000762939456,0.04754933342337608,Florentin Pogba,a,3505,DirectFreekick,2015,LeftFoot,1897,Lorient,Saint-Etienne,0,1,2015-08-23 19:00:00,,Standard
+61867,86,Goal,0.8980000305175782,0.48700000762939455,0.43280115723609924,Romain Hamouma,a,3561,OpenPlay,2015,RightFoot,1897,Lorient,Saint-Etienne,0,1,2015-08-23 19:00:00,Neal Maupay,Pass

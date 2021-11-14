@@ -1,0 +1,29 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+127974,15,MissedShots,0.9390000152587891,0.5770000076293945,0.11182434856891632,Theodor Gebre Selassie,h,110,SetPiece,2016,Head,1343,Werder Bremen,Augsburg,1,2,2016-09-11 17:30:00,Zlatko Junuzovic,Cross
+127977,35,MissedShots,0.730999984741211,0.4879999923706055,0.04605022445321083,Serge Gnabry,h,993,OpenPlay,2016,RightFoot,1343,Werder Bremen,Augsburg,1,2,2016-09-11 17:30:00,Aron Jóhannsson,HeadPass
+127979,42,MissedShots,0.919000015258789,0.4370000076293945,0.44902703166007996,Fin Bartels,h,115,OpenPlay,2016,LeftFoot,1343,Werder Bremen,Augsburg,1,2,2016-09-11 17:30:00,Serge Gnabry,Pass
+127980,46,Goal,0.885,0.5,0.75777667760849,Aron Jóhannsson,h,430,Penalty,2016,RightFoot,1343,Werder Bremen,Augsburg,1,2,2016-09-11 17:30:00,,Standard
+127981,47,MissedShots,0.8590000152587891,0.4570000076293945,0.07434698194265366,Zlatko Junuzovic,h,301,OpenPlay,2016,RightFoot,1343,Werder Bremen,Augsburg,1,2,2016-09-11 17:30:00,Aron Jóhannsson,Cross
+127985,56,MissedShots,0.735,0.49599998474121093,0.020362744107842445,Clemens Fritz,h,117,OpenPlay,2016,LeftFoot,1343,Werder Bremen,Augsburg,1,2,2016-09-11 17:30:00,Florian Grillitsch,Pass
+127986,60,BlockedShot,0.8430000305175781,0.48200000762939454,0.06735432147979736,Zlatko Junuzovic,h,301,OpenPlay,2016,RightFoot,1343,Werder Bremen,Augsburg,1,2,2016-09-11 17:30:00,,None
+127987,62,BlockedShot,0.8480000305175781,0.31,0.030192358419299126,Fin Bartels,h,115,SetPiece,2016,RightFoot,1343,Werder Bremen,Augsburg,1,2,2016-09-11 17:30:00,,None
+127988,63,MissedShots,0.7090000152587891,0.46700000762939453,0.015193359926342964,Florian Grillitsch,h,116,OpenPlay,2016,RightFoot,1343,Werder Bremen,Augsburg,1,2,2016-09-11 17:30:00,Fin Bartels,Pass
+127995,73,BlockedShot,0.86,0.6029999923706054,0.05734425410628319,Serge Gnabry,h,993,OpenPlay,2016,RightFoot,1343,Werder Bremen,Augsburg,1,2,2016-09-11 17:30:00,,None
+127972,1,SavedShot,0.764000015258789,0.555,0.027420127764344215,Alfred Finnbogason,a,2655,OpenPlay,2016,RightFoot,1343,Werder Bremen,Augsburg,1,2,2016-09-11 17:30:00,Caiuby,TakeOn
+127973,3,BlockedShot,0.740999984741211,0.5120000076293946,0.02382071316242218,Alfred Finnbogason,a,2655,OpenPlay,2016,RightFoot,1343,Werder Bremen,Augsburg,1,2,2016-09-11 17:30:00,Raúl Bobadilla,Pass
+127975,28,MissedShots,0.885,0.6719999694824219,0.31639930605888367,Alfred Finnbogason,a,2655,OpenPlay,2016,LeftFoot,1343,Werder Bremen,Augsburg,1,2,2016-09-11 17:30:00,Ja-Cheol Koo,Throughball
+127976,29,MissedShots,0.774000015258789,0.38299999237060545,0.024267669767141342,Dominik Kohr,a,269,OpenPlay,2016,RightFoot,1343,Werder Bremen,Augsburg,1,2,2016-09-11 17:30:00,Raúl Bobadilla,Pass
+127978,36,BlockedShot,0.7830000305175782,0.48200000762939454,0.037665169686079025,Dominik Kohr,a,269,OpenPlay,2016,LeftFoot,1343,Werder Bremen,Augsburg,1,2,2016-09-11 17:30:00,Alfred Finnbogason,Pass
+127982,51,Goal,0.9359999847412109,0.485,0.3859843313694,Jeffrey Gouweleeuw,a,2665,FromCorner,2016,LeftFoot,1343,Werder Bremen,Augsburg,1,2,2016-09-11 17:30:00,Daniel Baier,Cross
+127983,52,MissedShots,0.8469999694824218,0.685,0.04229770973324776,Caiuby,a,272,OpenPlay,2016,LeftFoot,1343,Werder Bremen,Augsburg,1,2,2016-09-11 17:30:00,Daniel Baier,Pass
+127984,54,BlockedShot,0.7530000305175781,0.5420000076293945,0.024902770295739174,Martin Hinteregger,a,2668,OpenPlay,2016,LeftFoot,1343,Werder Bremen,Augsburg,1,2,2016-09-11 17:30:00,,TakeOn
+127989,65,MissedShots,0.7569999694824219,0.6170000076293946,0.01784268394112587,Daniel Baier,a,268,OpenPlay,2016,RightFoot,1343,Werder Bremen,Augsburg,1,2,2016-09-11 17:30:00,,None
+127990,66,SavedShot,0.9419999694824219,0.38,0.10180163383483887,Ja-Cheol Koo,a,271,OpenPlay,2016,RightFoot,1343,Werder Bremen,Augsburg,1,2,2016-09-11 17:30:00,Dong-Won Ji,Pass
+127991,67,BlockedShot,0.749000015258789,0.5770000076293945,0.016816165298223495,Konstantinos Stafylidis,a,368,FromCorner,2016,LeftFoot,1343,Werder Bremen,Augsburg,1,2,2016-09-11 17:30:00,,None
+127992,69,SavedShot,0.88,0.23,0.0245807021856308,Dong-Won Ji,a,276,OpenPlay,2016,LeftFoot,1343,Werder Bremen,Augsburg,1,2,2016-09-11 17:30:00,,None
+127993,70,BlockedShot,0.8040000152587891,0.27899999618530275,0.015208733268082142,Ja-Cheol Koo,a,271,OpenPlay,2016,RightFoot,1343,Werder Bremen,Augsburg,1,2,2016-09-11 17:30:00,Dong-Won Ji,HeadPass
+127994,72,Goal,0.8219999694824218,0.5359999847412109,0.17592142522335052,Konstantinos Stafylidis,a,368,DirectFreekick,2016,LeftFoot,1343,Werder Bremen,Augsburg,1,2,2016-09-11 17:30:00,,Standard
+127996,79,MissedShots,0.98,0.5990000152587891,0.31174904108047485,Caiuby,a,272,OpenPlay,2016,LeftFoot,1343,Werder Bremen,Augsburg,1,2,2016-09-11 17:30:00,Dong-Won Ji,Chipped
+127997,80,MissedShots,0.580999984741211,0.18899999618530272,0.007622943259775639,Dong-Won Ji,a,276,OpenPlay,2016,RightFoot,1343,Werder Bremen,Augsburg,1,2,2016-09-11 17:30:00,,None
+127998,82,MissedShots,0.914000015258789,0.5540000152587891,0.0749693512916565,Caiuby,a,272,FromCorner,2016,Head,1343,Werder Bremen,Augsburg,1,2,2016-09-11 17:30:00,Daniel Baier,Cross
+127999,88,MissedShots,0.8269999694824218,0.2589999961853027,0.03059282898902893,Dong-Won Ji,a,276,OpenPlay,2016,RightFoot,1343,Werder Bremen,Augsburg,1,2,2016-09-11 17:30:00,Alfred Finnbogason,Pass

@@ -1,0 +1,27 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+251773,14,SavedShot,0.7580000305175781,0.634000015258789,0.022890357300639153,Jesse Lingard,h,558,OpenPlay,2018,RightFoot,9380,Manchester United,Huddersfield,3,1,2018-12-26 15:00:00,Paul Pogba,Pass
+251774,25,SavedShot,0.9230000305175782,0.7809999847412109,0.026137132197618484,Paul Pogba,h,1740,OpenPlay,2018,RightFoot,9380,Manchester United,Huddersfield,3,1,2018-12-26 15:00:00,Marcus Rashford,Pass
+251775,27,BlockedShot,0.74,0.5690000152587891,0.05496928468346596,Paul Pogba,h,1740,DirectFreekick,2018,RightFoot,9380,Manchester United,Huddersfield,3,1,2018-12-26 15:00:00,,Standard
+251776,27,Goal,0.98,0.46599998474121096,0.7647694945335388,Nemanja Matic,h,697,FromCorner,2018,RightFoot,9380,Manchester United,Huddersfield,3,1,2018-12-26 15:00:00,,None
+251777,33,SavedShot,0.7280000305175781,0.4159999847412109,0.026084885001182556,Paul Pogba,h,1740,OpenPlay,2018,RightFoot,9380,Manchester United,Huddersfield,3,1,2018-12-26 15:00:00,,TakeOn
+251778,37,BlockedShot,0.845999984741211,0.6120000076293945,0.08228357881307602,Juan Mata,h,554,OpenPlay,2018,LeftFoot,9380,Manchester United,Huddersfield,3,1,2018-12-26 15:00:00,Luke Shaw,Pass
+251779,37,BlockedShot,0.8580000305175781,0.595999984741211,0.05409882962703705,Victor Lindelöf,h,6080,FromCorner,2018,RightFoot,9380,Manchester United,Huddersfield,3,1,2018-12-26 15:00:00,,None
+251780,39,MissedShots,0.919000015258789,0.4370000076293945,0.33583346009254456,Diogo Dalot,h,7281,OpenPlay,2018,RightFoot,9380,Manchester United,Huddersfield,3,1,2018-12-26 15:00:00,Marcus Rashford,Cross
+251781,42,MissedShots,0.8690000152587891,0.2620000076293945,0.0421021431684494,Marcus Rashford,h,556,OpenPlay,2018,RightFoot,9380,Manchester United,Huddersfield,3,1,2018-12-26 15:00:00,Juan Mata,Pass
+251782,44,SavedShot,0.8640000152587891,0.775,0.0322452187538147,Marcus Rashford,h,556,OpenPlay,2018,RightFoot,9380,Manchester United,Huddersfield,3,1,2018-12-26 15:00:00,Paul Pogba,Pass
+251787,53,SavedShot,0.7859999847412109,0.8569999694824219,0.030573945492506027,Marcus Rashford,h,556,DirectFreekick,2018,RightFoot,9380,Manchester United,Huddersfield,3,1,2018-12-26 15:00:00,,Standard
+251788,58,BlockedShot,0.92,0.6580000305175782,0.10016998648643494,Marcus Rashford,h,556,OpenPlay,2018,RightFoot,9380,Manchester United,Huddersfield,3,1,2018-12-26 15:00:00,Nemanja Matic,Pass
+251790,63,Goal,0.855,0.5770000076293945,0.10096430033445358,Paul Pogba,h,1740,OpenPlay,2018,RightFoot,9380,Manchester United,Huddersfield,3,1,2018-12-26 15:00:00,Ander Herrera,Pass
+251791,68,SavedShot,0.779000015258789,0.6409999847412109,0.02535485289990902,Luke Shaw,h,1006,OpenPlay,2018,LeftFoot,9380,Manchester United,Huddersfield,3,1,2018-12-26 15:00:00,Marcus Rashford,Pass
+251792,77,Goal,0.7469999694824219,0.5659999847412109,0.0211590938270092,Paul Pogba,h,1740,OpenPlay,2018,RightFoot,9380,Manchester United,Huddersfield,3,1,2018-12-26 15:00:00,Jesse Lingard,Pass
+251795,90,SavedShot,0.8640000152587891,0.66,0.07884830981492996,Angel Gomes,h,5598,OpenPlay,2018,RightFoot,9380,Manchester United,Huddersfield,3,1,2018-12-26 15:00:00,Paul Pogba,Pass
+251771,1,MissedShots,0.784000015258789,0.5379999923706055,0.035804253071546555,Isaac Mbenza,a,5662,OpenPlay,2018,RightFoot,9380,Manchester United,Huddersfield,3,1,2018-12-26 15:00:00,Philip Billing,Pass
+251772,9,MissedShots,0.9169999694824219,0.505,0.4503946304321289,Terence Kongolo,a,6067,OpenPlay,2018,LeftFoot,9380,Manchester United,Huddersfield,3,1,2018-12-26 15:00:00,Alex Pritchard,HeadPass
+251783,45,MissedShots,0.9590000152587891,0.675,0.062063347548246384,Philip Billing,a,6034,OpenPlay,2018,LeftFoot,9380,Manchester United,Huddersfield,3,1,2018-12-26 15:00:00,Alex Pritchard,Pass
+251784,46,MissedShots,0.9069999694824219,0.5720000076293945,0.09066727757453918,Laurent Depoitre,a,6038,OpenPlay,2018,RightFoot,9380,Manchester United,Huddersfield,3,1,2018-12-26 15:00:00,Erik Durm,Cross
+251785,48,BlockedShot,0.8590000152587891,0.4929999923706055,0.06519968062639236,Isaac Mbenza,a,5662,OpenPlay,2018,RightFoot,9380,Manchester United,Huddersfield,3,1,2018-12-26 15:00:00,Laurent Depoitre,BallTouch
+251786,50,MissedShots,0.8159999847412109,0.3509999847412109,0.03333801031112671,Elias Kachunga,a,248,OpenPlay,2018,RightFoot,9380,Manchester United,Huddersfield,3,1,2018-12-26 15:00:00,,None
+251789,60,SavedShot,0.8769999694824219,0.36400001525878906,0.0472785048186779,Laurent Depoitre,a,6038,FromCorner,2018,RightFoot,9380,Manchester United,Huddersfield,3,1,2018-12-26 15:00:00,Alex Pritchard,Pass
+251793,84,MissedShots,0.6890000152587891,0.40700000762939453,0.01172669231891632,Philip Billing,a,6034,OpenPlay,2018,LeftFoot,9380,Manchester United,Huddersfield,3,1,2018-12-26 15:00:00,,TakeOn
+251794,87,Goal,0.9540000152587891,0.519000015258789,0.5985867381095886,Zanka,a,6030,SetPiece,2018,LeftFoot,9380,Manchester United,Huddersfield,3,1,2018-12-26 15:00:00,Steve Mounie,HeadPass
+251796,91,MissedShots,0.7140000152587891,0.580999984741211,0.010880324058234692,Alex Pritchard,a,815,OpenPlay,2018,RightFoot,9380,Manchester United,Huddersfield,3,1,2018-12-26 15:00:00,Steve Mounie,Pass

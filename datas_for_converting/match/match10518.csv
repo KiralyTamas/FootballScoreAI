@@ -1,0 +1,31 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+278983,10,BlockedShot,0.8069999694824219,0.6179999923706054,0.03921405225992203,Jadon Sancho,h,6345,OpenPlay,2018,RightFoot,10518,Borussia Dortmund,Hoffenheim,3,3,2019-02-09 14:30:00,Raphael Guerreiro,Pass
+278984,13,MissedShots,0.784000015258789,0.5720000076293945,0.033488813787698746,Axel Witsel,h,3059,OpenPlay,2018,RightFoot,10518,Borussia Dortmund,Hoffenheim,3,3,2019-02-09 14:30:00,Mahmoud Dahoud,Pass
+278985,21,MissedShots,0.7880000305175782,0.505,0.03996352106332779,Maximilian Philipp,h,4247,OpenPlay,2018,RightFoot,10518,Borussia Dortmund,Hoffenheim,3,3,2019-02-09 14:30:00,Lukasz Piszczek,Pass
+278986,26,MissedShots,0.9590000152587891,0.515,0.09124983102083206,Maximilian Philipp,h,4247,FromCorner,2018,Head,10518,Borussia Dortmund,Hoffenheim,3,3,2019-02-09 14:30:00,Raphael Guerreiro,Aerial
+278987,31,Goal,0.919000015258789,0.35900001525878905,0.09408910572528839,Jadon Sancho,h,6345,OpenPlay,2018,RightFoot,10518,Borussia Dortmund,Hoffenheim,3,3,2019-02-09 14:30:00,Lukasz Piszczek,Pass
+278989,39,SavedShot,0.894000015258789,0.759000015258789,0.04082142189145088,Achraf Hakimi,h,5197,OpenPlay,2018,RightFoot,10518,Borussia Dortmund,Hoffenheim,3,3,2019-02-09 14:30:00,Axel Witsel,Pass
+278990,42,SavedShot,0.87,0.6669999694824219,0.06613577902317047,Jadon Sancho,h,6345,OpenPlay,2018,RightFoot,10518,Borussia Dortmund,Hoffenheim,3,3,2019-02-09 14:30:00,Axel Witsel,Pass
+278991,42,Goal,0.9630000305175781,0.44599998474121094,0.6267247200012207,Mario Götze,h,422,OpenPlay,2018,RightFoot,10518,Borussia Dortmund,Hoffenheim,3,3,2019-02-09 14:30:00,,Rebound
+278992,49,MissedShots,0.8490000152587891,0.649000015258789,0.076088085770607,Raphael Guerreiro,h,3455,OpenPlay,2018,LeftFoot,10518,Borussia Dortmund,Hoffenheim,3,3,2019-02-09 14:30:00,Mahmoud Dahoud,Pass
+278997,61,SavedShot,0.8180000305175781,0.6459999847412109,0.04629819840192795,Mario Götze,h,422,OpenPlay,2018,RightFoot,10518,Borussia Dortmund,Hoffenheim,3,3,2019-02-09 14:30:00,Mahmoud Dahoud,Pass
+278999,65,Goal,0.919000015258789,0.43599998474121093,0.5410737991333008,Raphael Guerreiro,h,3455,OpenPlay,2018,LeftFoot,10518,Borussia Dortmund,Hoffenheim,3,3,2019-02-09 14:30:00,Mario Götze,Pass
+279000,68,MissedShots,0.8669999694824219,0.265,0.0281622763723135,Raphael Guerreiro,h,3455,FromCorner,2018,LeftFoot,10518,Borussia Dortmund,Hoffenheim,3,3,2019-02-09 14:30:00,Jadon Sancho,HeadPass
+279004,74,ShotOnPost,0.94,0.6569999694824219,0.0812557265162468,Jadon Sancho,h,6345,OpenPlay,2018,LeftFoot,10518,Borussia Dortmund,Hoffenheim,3,3,2019-02-09 14:30:00,Mahmoud Dahoud,Pass
+279007,79,SavedShot,0.8380000305175781,0.435,0.09770437330007553,Raphael Guerreiro,h,3455,OpenPlay,2018,LeftFoot,10518,Borussia Dortmund,Hoffenheim,3,3,2019-02-09 14:30:00,Mario Götze,Pass
+279010,83,BlockedShot,0.8980000305175782,0.4640000152587891,0.10879552364349365,Paco Alcácer,h,2380,OpenPlay,2018,RightFoot,10518,Borussia Dortmund,Hoffenheim,3,3,2019-02-09 14:30:00,Lukasz Piszczek,Cross
+279011,84,BlockedShot,0.9230000305175782,0.57,0.026913760229945183,Abdou Diallo,h,4804,FromCorner,2018,Head,10518,Borussia Dortmund,Hoffenheim,3,3,2019-02-09 14:30:00,Raphael Guerreiro,Aerial
+278988,34,MissedShots,0.9169999694824219,0.5520000076293945,0.08154163509607315,Joelinton,a,87,FromCorner,2018,Head,10518,Borussia Dortmund,Hoffenheim,3,3,2019-02-09 14:30:00,Kerem Demirbay,Cross
+278993,50,MissedShots,0.909000015258789,0.34,0.012286079116165638,Pavel Kaderábek,a,74,FromCorner,2018,Head,10518,Borussia Dortmund,Hoffenheim,3,3,2019-02-09 14:30:00,Dennis Geiger,Cross
+278994,51,MissedShots,0.8830000305175781,0.6930000305175781,0.059395745396614075,Nico Schulz,a,433,OpenPlay,2018,LeftFoot,10518,Borussia Dortmund,Hoffenheim,3,3,2019-02-09 14:30:00,Joelinton,Pass
+278995,55,SavedShot,0.85,0.5070000076293946,0.18941181898117065,Joelinton,a,87,OpenPlay,2018,LeftFoot,10518,Borussia Dortmund,Hoffenheim,3,3,2019-02-09 14:30:00,Pavel Kaderábek,TakeOn
+278996,60,SavedShot,0.9030000305175782,0.4329999923706055,0.11169377714395523,Ishak Belfodil,a,3834,OpenPlay,2018,RightFoot,10518,Borussia Dortmund,Hoffenheim,3,3,2019-02-09 14:30:00,Joelinton,Pass
+278998,61,MissedShots,0.8390000152587891,0.485,0.09439034014940262,Dennis Geiger,a,6081,OpenPlay,2018,RightFoot,10518,Borussia Dortmund,Hoffenheim,3,3,2019-02-09 14:30:00,,TakeOn
+279001,72,BlockedShot,0.875,0.36,0.07129999995231628,Ishak Belfodil,a,3834,OpenPlay,2018,RightFoot,10518,Borussia Dortmund,Hoffenheim,3,3,2019-02-09 14:30:00,Dennis Geiger,Pass
+279002,73,SavedShot,0.9130000305175782,0.5579999923706055,0.2404516190290451,Pavel Kaderábek,a,74,FromCorner,2018,Head,10518,Borussia Dortmund,Hoffenheim,3,3,2019-02-09 14:30:00,Dennis Geiger,Cross
+279003,73,MissedShots,0.9530000305175781,0.5220000076293946,0.4757447838783264,Benjamin Hübner,a,251,FromCorner,2018,Head,10518,Borussia Dortmund,Hoffenheim,3,3,2019-02-09 14:30:00,Dennis Geiger,Cross
+279005,74,Goal,0.935,0.59,0.30152076482772827,Ishak Belfodil,a,3834,OpenPlay,2018,LeftFoot,10518,Borussia Dortmund,Hoffenheim,3,3,2019-02-09 14:30:00,,None
+279006,76,BlockedShot,0.87,0.62,0.08164683729410172,Reiss Nelson,a,6492,OpenPlay,2018,LeftFoot,10518,Borussia Dortmund,Hoffenheim,3,3,2019-02-09 14:30:00,Dennis Geiger,Pass
+279008,81,BlockedShot,0.789000015258789,0.585,0.016404028981924057,Florian Grillitsch,a,116,FromCorner,2018,LeftFoot,10518,Borussia Dortmund,Hoffenheim,3,3,2019-02-09 14:30:00,,Aerial
+279009,82,Goal,0.9319999694824219,0.4420000076293945,0.4795570969581604,Pavel Kaderábek,a,74,OpenPlay,2018,Head,10518,Borussia Dortmund,Hoffenheim,3,3,2019-02-09 14:30:00,Florian Grillitsch,Aerial
+279012,86,Goal,0.8769999694824219,0.46099998474121096,0.2600368857383728,Ishak Belfodil,a,3834,SetPiece,2018,Head,10518,Borussia Dortmund,Hoffenheim,3,3,2019-02-09 14:30:00,Dennis Geiger,Chipped

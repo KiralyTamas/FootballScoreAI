@@ -1,0 +1,27 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+42446,2,MissedShots,0.8109999847412109,0.3840000152587891,0.04443950206041336,Daniele Baselli,h,1182,OpenPlay,2014,RightFoot,5140,Atalanta,Juventus,0,3,2014-09-27 19:45:00,Germán Denis,Pass
+42448,11,BlockedShot,0.784000015258789,0.6930000305175781,0.023937297984957695,Boukary Dramé,h,1490,FromCorner,2014,LeftFoot,5140,Atalanta,Juventus,0,3,2014-09-27 19:45:00,Alejandro Gomez,Cross
+42450,15,BlockedShot,0.7759999847412109,0.28700000762939454,0.02030414156615734,Marcelo Estigarribia,h,1985,OpenPlay,2014,LeftFoot,5140,Atalanta,Juventus,0,3,2014-09-27 19:45:00,Germán Denis,Pass
+42453,24,MissedShots,0.9069999694824219,0.2989999961853027,0.054127007722854614,Marcelo Estigarribia,h,1985,OpenPlay,2014,RightFoot,5140,Atalanta,Juventus,0,3,2014-09-27 19:45:00,Germán Denis,Pass
+42460,47,MissedShots,0.7780000305175782,0.7069999694824218,0.015601041726768017,Alejandro Gomez,h,1491,OpenPlay,2014,RightFoot,5140,Atalanta,Juventus,0,3,2014-09-27 19:45:00,Germán Denis,HeadPass
+42463,58,SavedShot,0.885,0.5,0.7612988352775574,Germán Denis,h,1984,Penalty,2014,RightFoot,5140,Atalanta,Juventus,0,3,2014-09-27 19:45:00,,Standard
+42465,60,BlockedShot,0.7440000152587891,0.5609999847412109,0.01524919643998146,Daniele Baselli,h,1182,OpenPlay,2014,RightFoot,5140,Atalanta,Juventus,0,3,2014-09-27 19:45:00,Richmond Boakye,Pass
+42467,68,MissedShots,0.6990000152587891,0.5529999923706055,0.009613501839339733,Yohan Benalouane,h,974,OpenPlay,2014,RightFoot,5140,Atalanta,Juventus,0,3,2014-09-27 19:45:00,,BallRecovery
+42469,77,MissedShots,0.8859999847412109,0.39,0.0544859878718853,Salvatore Molina,h,3989,OpenPlay,2014,LeftFoot,5140,Atalanta,Juventus,0,3,2014-09-27 19:45:00,Rolando Bianchi,HeadPass
+42470,81,MissedShots,0.720999984741211,0.31,0.01243355218321085,Davide Zappacosta,h,1178,FromCorner,2014,RightFoot,5140,Atalanta,Juventus,0,3,2014-09-27 19:45:00,,None
+42447,9,MissedShots,0.784000015258789,0.6659999847412109,0.02357473596930504,Carlos Tévez,a,3848,OpenPlay,2014,RightFoot,5140,Atalanta,Juventus,0,3,2014-09-27 19:45:00,Arturo Vidal,Pass
+42449,13,MissedShots,0.715,0.43099998474121093,0.00837038829922676,Angelo Ogbonna,a,528,OpenPlay,2014,LeftFoot,5140,Atalanta,Juventus,0,3,2014-09-27 19:45:00,Carlos Tévez,Chipped
+42451,16,BlockedShot,0.8619999694824219,0.43900001525878907,0.06752441823482513,Carlos Tévez,a,3848,OpenPlay,2014,RightFoot,5140,Atalanta,Juventus,0,3,2014-09-27 19:45:00,Paul Pogba,Dispossessed
+42452,21,MissedShots,0.7130000305175781,0.6480000305175782,0.012922026216983795,Arturo Vidal,a,222,OpenPlay,2014,RightFoot,5140,Atalanta,Juventus,0,3,2014-09-27 19:45:00,Paul Pogba,Pass
+42454,26,SavedShot,0.875,0.67,0.05761774629354477,Carlos Tévez,a,3848,OpenPlay,2014,RightFoot,5140,Atalanta,Juventus,0,3,2014-09-27 19:45:00,Patrice Evra,Pass
+42455,27,SavedShot,0.88,0.6480000305175782,0.04603138193488121,Carlos Tévez,a,3848,OpenPlay,2014,LeftFoot,5140,Atalanta,Juventus,0,3,2014-09-27 19:45:00,Patrice Evra,Cross
+42456,34,Goal,0.9819999694824219,0.5270000076293946,0.9380766749382019,Carlos Tévez,a,3848,OpenPlay,2014,RightFoot,5140,Atalanta,Juventus,0,3,2014-09-27 19:45:00,Stephan Lichtsteiner,Pass
+42457,39,BlockedShot,0.899000015258789,0.664000015258789,0.08934785425662994,Fernando Llorente,a,1728,OpenPlay,2014,LeftFoot,5140,Atalanta,Juventus,0,3,2014-09-27 19:45:00,Paul Pogba,Pass
+42458,40,MissedShots,0.895,0.62,0.09893884509801865,Paul Pogba,a,1740,OpenPlay,2014,RightFoot,5140,Atalanta,Juventus,0,3,2014-09-27 19:45:00,Patrice Evra,Pass
+42459,40,MissedShots,0.955999984741211,0.47400001525878904,0.608772337436676,Fernando Llorente,a,1728,OpenPlay,2014,Head,5140,Atalanta,Juventus,0,3,2014-09-27 19:45:00,Paul Pogba,Rebound
+42461,51,MissedShots,0.7919999694824219,0.5459999847412109,0.047673676162958145,Arturo Vidal,a,222,OpenPlay,2014,LeftFoot,5140,Atalanta,Juventus,0,3,2014-09-27 19:45:00,Carlos Tévez,Pass
+42462,56,SavedShot,0.8819999694824219,0.445,0.03480999544262886,Fernando Llorente,a,1728,OpenPlay,2014,Head,5140,Atalanta,Juventus,0,3,2014-09-27 19:45:00,Arturo Vidal,Aerial
+42464,58,Goal,0.7980000305175782,0.615999984741211,0.03730553388595581,Carlos Tévez,a,3848,OpenPlay,2014,RightFoot,5140,Atalanta,Juventus,0,3,2014-09-27 19:45:00,Patrice Evra,Pass
+42466,67,BlockedShot,0.87,0.5670000076293945,0.12922458350658417,Álvaro Morata,a,1804,OpenPlay,2014,RightFoot,5140,Atalanta,Juventus,0,3,2014-09-27 19:45:00,Carlos Tévez,Pass
+42468,71,SavedShot,0.905,0.5179999923706055,0.1241195797920227,Carlos Tévez,a,3848,OpenPlay,2014,LeftFoot,5140,Atalanta,Juventus,0,3,2014-09-27 19:45:00,,None
+42471,82,Goal,0.9319999694824219,0.5570000076293945,0.4308093786239624,Álvaro Morata,a,1804,OpenPlay,2014,Head,5140,Atalanta,Juventus,0,3,2014-09-27 19:45:00,Roberto Pereyra,Cross

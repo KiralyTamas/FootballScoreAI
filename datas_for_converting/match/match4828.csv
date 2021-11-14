@@ -1,0 +1,40 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+49927,1,BlockedShot,0.8040000152587891,0.4929999923706055,0.04986349120736122,Alberto Gilardino,h,1552,OpenPlay,2014,RightFoot,4828,Fiorentina,Chievo,3,0,2015-05-31 19:45:00,Mohamed Salah,Pass
+49928,3,SavedShot,0.845,0.5420000076293945,0.08971409499645233,Josip Ilicic,h,1426,OpenPlay,2014,LeftFoot,4828,Fiorentina,Chievo,3,0,2015-05-31 19:45:00,Mohamed Salah,Pass
+49929,4,SavedShot,0.72,0.6580000305175782,0.0129697872325778,Juan Vargas,h,2448,OpenPlay,2014,LeftFoot,4828,Fiorentina,Chievo,3,0,2015-05-31 19:45:00,Josip Ilicic,Pass
+49933,11,Goal,0.8830000305175781,0.555,0.11542238295078278,Josip Ilicic,h,1426,OpenPlay,2014,RightFoot,4828,Fiorentina,Chievo,3,0,2015-05-31 19:45:00,Mohamed Salah,Pass
+49934,13,SavedShot,0.8030000305175782,0.740999984741211,0.026922795921564102,Borja Valero,h,1422,OpenPlay,2014,RightFoot,4828,Fiorentina,Chievo,3,0,2015-05-31 19:45:00,Milan Badelj,Chipped
+49936,24,MissedShots,0.8009999847412109,0.39,0.10320442914962769,Josip Ilicic,h,1426,DirectFreekick,2014,LeftFoot,4828,Fiorentina,Chievo,3,0,2015-05-31 19:45:00,,Standard
+49937,28,BlockedShot,0.76,0.49900001525878906,0.030545266345143318,Josip Ilicic,h,1426,OpenPlay,2014,LeftFoot,4828,Fiorentina,Chievo,3,0,2015-05-31 19:45:00,Alberto Gilardino,Pass
+49938,28,BlockedShot,0.8090000152587891,0.5420000076293945,0.040077030658721924,Josip Ilicic,h,1426,OpenPlay,2014,RightFoot,4828,Fiorentina,Chievo,3,0,2015-05-31 19:45:00,Alberto Gilardino,Rebound
+49939,31,BlockedShot,0.7580000305175781,0.5990000152587891,0.06372060626745224,Matías Fernández,h,1622,DirectFreekick,2014,RightFoot,4828,Fiorentina,Chievo,3,0,2015-05-31 19:45:00,,Standard
+49940,32,SavedShot,0.909000015258789,0.515,0.030528424307703972,Gonzalo Rodríguez,h,1418,FromCorner,2014,Head,4828,Fiorentina,Chievo,3,0,2015-05-31 19:45:00,Josip Ilicic,Aerial
+49942,34,MissedShots,0.8769999694824219,0.7119999694824218,0.05654769763350487,Borja Valero,h,1422,OpenPlay,2014,LeftFoot,4828,Fiorentina,Chievo,3,0,2015-05-31 19:45:00,Alberto Gilardino,Pass
+49943,36,MissedShots,0.845,0.5520000076293945,0.02462802827358246,Juan Vargas,h,2448,FromCorner,2014,RightFoot,4828,Fiorentina,Chievo,3,0,2015-05-31 19:45:00,,Aerial
+49944,42,BlockedShot,0.730999984741211,0.529000015258789,0.023703770712018013,Matías Fernández,h,1622,OpenPlay,2014,RightFoot,4828,Fiorentina,Chievo,3,0,2015-05-31 19:45:00,,BallRecovery
+49946,45,MissedShots,0.8319999694824218,0.75,0.022642746567726135,Federico Bernardeschi,h,1424,OpenPlay,2014,LeftFoot,4828,Fiorentina,Chievo,3,0,2015-05-31 19:45:00,Alberto Gilardino,TakeOn
+49947,47,SavedShot,0.85,0.305,0.05194183811545372,Josip Ilicic,h,1426,OpenPlay,2014,LeftFoot,4828,Fiorentina,Chievo,3,0,2015-05-31 19:45:00,Nenad Tomovic,Pass
+49948,47,BlockedShot,0.7859999847412109,0.62,0.032930757850408554,Juan Vargas,h,2448,OpenPlay,2014,LeftFoot,4828,Fiorentina,Chievo,3,0,2015-05-31 19:45:00,Borja Valero,Pass
+49950,49,SavedShot,0.9230000305175782,0.3940000152587891,0.2761717438697815,Alberto Gilardino,h,1552,OpenPlay,2014,RightFoot,4828,Fiorentina,Chievo,3,0,2015-05-31 19:45:00,Borja Valero,TakeOn
+49951,54,MissedShots,0.8080000305175781,0.2520000076293945,0.0567391999065876,Federico Bernardeschi,h,1424,DirectFreekick,2014,LeftFoot,4828,Fiorentina,Chievo,3,0,2015-05-31 19:45:00,,Standard
+49952,54,SavedShot,0.855999984741211,0.4470000076293945,0.0955931767821312,Federico Bernardeschi,h,1424,OpenPlay,2014,LeftFoot,4828,Fiorentina,Chievo,3,0,2015-05-31 19:45:00,Matías Fernández,Chipped
+49956,63,BlockedShot,0.779000015258789,0.5929999923706055,0.036680739372968674,Josip Ilicic,h,1426,OpenPlay,2014,RightFoot,4828,Fiorentina,Chievo,3,0,2015-05-31 19:45:00,Borja Valero,Pass
+49957,70,MissedShots,0.7230000305175781,0.5640000152587891,0.017888715490698814,Federico Bernardeschi,h,1424,OpenPlay,2014,LeftFoot,4828,Fiorentina,Chievo,3,0,2015-05-31 19:45:00,Matías Fernández,Pass
+49958,73,SavedShot,0.8880000305175781,0.6559999847412109,0.0885491892695427,Matías Fernández,h,1622,OpenPlay,2014,RightFoot,4828,Fiorentina,Chievo,3,0,2015-05-31 19:45:00,Juan Vargas,Pass
+49959,75,SavedShot,0.7959999847412109,0.455,0.0769134908914566,Matías Fernández,h,1622,OpenPlay,2014,RightFoot,4828,Fiorentina,Chievo,3,0,2015-05-31 19:45:00,Milan Badelj,TakeOn
+49960,75,Goal,0.9490000152587891,0.5070000076293946,0.6527141332626343,Federico Bernardeschi,h,1424,OpenPlay,2014,LeftFoot,4828,Fiorentina,Chievo,3,0,2015-05-31 19:45:00,,Rebound
+49961,80,SavedShot,0.914000015258789,0.29600000381469727,0.07836351543664932,Alberto Gilardino,h,1552,OpenPlay,2014,RightFoot,4828,Fiorentina,Chievo,3,0,2015-05-31 19:45:00,Nenad Tomovic,Pass
+49965,92,Goal,0.825999984741211,0.53,0.10201165825128555,Milan Badelj,h,1430,OpenPlay,2014,LeftFoot,4828,Fiorentina,Chievo,3,0,2015-05-31 19:45:00,Federico Bernardeschi,LayOff
+49930,7,BlockedShot,0.740999984741211,0.5529999923706055,0.05705542117357254,Cristiano Biraghi,a,1164,DirectFreekick,2014,LeftFoot,4828,Fiorentina,Chievo,3,0,2015-05-31 19:45:00,,Standard
+49931,7,MissedShots,0.9069999694824219,0.6840000152587891,0.060891181230545044,Isaac Cofie,a,1112,SetPiece,2014,LeftFoot,4828,Fiorentina,Chievo,3,0,2015-05-31 19:45:00,Cristiano Biraghi,HeadPass
+49932,9,MissedShots,0.815,0.38799999237060545,0.048088766634464264,Rubén Botta,a,3875,OpenPlay,2014,LeftFoot,4828,Fiorentina,Chievo,3,0,2015-05-31 19:45:00,Alberto Paloschi,Pass
+49935,19,MissedShots,0.7909999847412109,0.745,0.01665990985929966,Cristiano Biraghi,a,1164,OpenPlay,2014,LeftFoot,4828,Fiorentina,Chievo,3,0,2015-05-31 19:45:00,Sergio Pellissier,Pass
+49941,33,MissedShots,0.799000015258789,0.35900001525878905,0.028548002243041992,Mariano Izco,a,1339,OpenPlay,2014,RightFoot,4828,Fiorentina,Chievo,3,0,2015-05-31 19:45:00,,None
+49945,43,MissedShots,0.715,0.539000015258789,0.013806733302772045,Rubén Botta,a,3875,OpenPlay,2014,LeftFoot,4828,Fiorentina,Chievo,3,0,2015-05-31 19:45:00,,Dispossessed
+49949,48,SavedShot,0.8219999694824218,0.720999984741211,0.027567308396100998,Rubén Botta,a,3875,OpenPlay,2014,LeftFoot,4828,Fiorentina,Chievo,3,0,2015-05-31 19:45:00,Isaac Cofie,Pass
+49953,55,SavedShot,0.9169999694824219,0.36700000762939455,0.07624543458223343,Sergio Pellissier,a,1347,OpenPlay,2014,RightFoot,4828,Fiorentina,Chievo,3,0,2015-05-31 19:45:00,Rubén Botta,Pass
+49954,60,ShotOnPost,0.8919999694824219,0.6179999923706054,0.06624139100313187,Sergio Pellissier,a,1347,OpenPlay,2014,LeftFoot,4828,Fiorentina,Chievo,3,0,2015-05-31 19:45:00,Alberto Paloschi,Chipped
+49955,60,BlockedShot,0.950999984741211,0.5659999847412109,0.10471095889806747,Alberto Paloschi,a,716,OpenPlay,2014,LeftFoot,4828,Fiorentina,Chievo,3,0,2015-05-31 19:45:00,Cristiano Biraghi,Cross
+49962,85,MissedShots,0.87,0.555,0.09846483916044235,Sergio Pellissier,a,1347,OpenPlay,2014,RightFoot,4828,Fiorentina,Chievo,3,0,2015-05-31 19:45:00,Riccardo Meggiorini,Pass
+49963,89,BlockedShot,0.8119999694824219,0.3940000152587891,0.04432062432169914,Alberto Paloschi,a,716,OpenPlay,2014,RightFoot,4828,Fiorentina,Chievo,3,0,2015-05-31 19:45:00,Valter Birsa,Pass
+49964,89,MissedShots,0.8019999694824219,0.2929999923706055,0.02110321633517742,Mariano Izco,a,1339,OpenPlay,2014,RightFoot,4828,Fiorentina,Chievo,3,0,2015-05-31 19:45:00,Ezequiel Schelotto,Pass

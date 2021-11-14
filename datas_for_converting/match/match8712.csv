@@ -1,0 +1,26 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+165598,4,SavedShot,0.855999984741211,0.26799999237060546,0.015681613236665726,Ángel Di María,h,3553,FromCorner,2017,LeftFoot,8712,Paris Saint Germain,Troyes,2,0,2017-11-29 20:00:00,Thomas Meunier,Aerial
+165599,10,MissedShots,0.925,0.6940000152587891,0.09661109745502472,Edinson Cavani,h,3294,SetPiece,2017,LeftFoot,8712,Paris Saint Germain,Troyes,2,0,2017-11-29 20:00:00,Javier Pastore,Throughball
+165601,19,MissedShots,0.795,0.3770000076293945,0.029384618625044823,Ángel Di María,h,3553,OpenPlay,2017,LeftFoot,8712,Paris Saint Germain,Troyes,2,0,2017-11-29 20:00:00,Edinson Cavani,Pass
+165602,21,BlockedShot,0.8440000152587891,0.36,0.053481925278902054,Edinson Cavani,h,3294,OpenPlay,2017,LeftFoot,8712,Paris Saint Germain,Troyes,2,0,2017-11-29 20:00:00,Thomas Meunier,Pass
+165603,26,MissedShots,0.779000015258789,0.34900001525878904,0.02462080679833889,Thomas Meunier,h,5680,OpenPlay,2017,RightFoot,8712,Paris Saint Germain,Troyes,2,0,2017-11-29 20:00:00,Javier Pastore,Pass
+165605,36,MissedShots,0.8240000152587891,0.4520000076293945,0.06650058925151825,Marco Verratti,h,3552,OpenPlay,2017,RightFoot,8712,Paris Saint Germain,Troyes,2,0,2017-11-29 20:00:00,Javier Pastore,Pass
+165606,40,SavedShot,0.885,0.5,0.7600951194763184,Edinson Cavani,h,3294,Penalty,2017,RightFoot,8712,Paris Saint Germain,Troyes,2,0,2017-11-29 20:00:00,,Standard
+165607,40,BlockedShot,0.8969999694824219,0.6859999847412109,0.06613144278526306,Neymar,h,2099,OpenPlay,2017,RightFoot,8712,Paris Saint Germain,Troyes,2,0,2017-11-29 20:00:00,Marco Verratti,Pass
+165609,44,MissedShots,0.7230000305175781,0.48200000762939454,0.016924802213907242,Giovani Lo Celso,h,5681,OpenPlay,2017,LeftFoot,8712,Paris Saint Germain,Troyes,2,0,2017-11-29 20:00:00,Ángel Di María,Pass
+165610,48,BlockedShot,0.845999984741211,0.620999984741211,0.055306702852249146,Marco Verratti,h,3552,OpenPlay,2017,RightFoot,8712,Paris Saint Germain,Troyes,2,0,2017-11-29 20:00:00,,None
+165611,49,BlockedShot,0.8919999694824219,0.36400001525878906,0.05346626415848732,Thomas Meunier,h,5680,OpenPlay,2017,RightFoot,8712,Paris Saint Germain,Troyes,2,0,2017-11-29 20:00:00,Javier Pastore,Cross
+165613,57,BlockedShot,0.755,0.585,0.024951744824647903,Neymar,h,2099,OpenPlay,2017,LeftFoot,8712,Paris Saint Germain,Troyes,2,0,2017-11-29 20:00:00,Ángel Di María,TakeOn
+165614,59,SavedShot,0.795,0.3629999923706055,0.0251699797809124,Giovani Lo Celso,h,5681,SetPiece,2017,LeftFoot,8712,Paris Saint Germain,Troyes,2,0,2017-11-29 20:00:00,Thiago Silva,Pass
+165615,66,SavedShot,0.799000015258789,0.725999984741211,0.061496298760175705,Neymar,h,2099,DirectFreekick,2017,RightFoot,8712,Paris Saint Germain,Troyes,2,0,2017-11-29 20:00:00,,Standard
+165616,70,MissedShots,0.845999984741211,0.4470000076293945,0.08629752695560455,Javier Pastore,h,3295,OpenPlay,2017,RightFoot,8712,Paris Saint Germain,Troyes,2,0,2017-11-29 20:00:00,Kylian Mbappe-Lottin,Pass
+165617,72,Goal,0.8059999847412109,0.695,0.023956289514899254,Neymar,h,2099,OpenPlay,2017,LeftFoot,8712,Paris Saint Germain,Troyes,2,0,2017-11-29 20:00:00,,None
+165619,81,BlockedShot,0.8719999694824219,0.664000015258789,0.09859954565763474,Neymar,h,2099,OpenPlay,2017,RightFoot,8712,Paris Saint Germain,Troyes,2,0,2017-11-29 20:00:00,Adrien Rabiot,Pass
+165621,85,BlockedShot,0.765,0.5659999847412109,0.02994723804295063,Neymar,h,2099,FromCorner,2017,RightFoot,8712,Paris Saint Germain,Troyes,2,0,2017-11-29 20:00:00,Marco Verratti,Pass
+165622,89,Goal,0.874000015258789,0.43,0.11403447389602661,Edinson Cavani,h,3294,OpenPlay,2017,RightFoot,8712,Paris Saint Germain,Troyes,2,0,2017-11-29 20:00:00,Neymar,Pass
+165600,14,MissedShots,0.93,0.3940000152587891,0.08329740166664124,Karim Azamoum,a,3440,OpenPlay,2017,RightFoot,8712,Paris Saint Germain,Troyes,2,0,2017-11-29 20:00:00,Mathieu Deplagne,Cross
+165604,29,SavedShot,0.9030000305175782,0.28299999237060547,0.04713758826255798,Samuel Grandsir,a,3713,OpenPlay,2017,RightFoot,8712,Paris Saint Germain,Troyes,2,0,2017-11-29 20:00:00,Karim Azamoum,TakeOn
+165608,44,MissedShots,0.7930000305175782,0.775,0.04869553819298744,Stéphane Darbion,a,3438,OpenPlay,2017,LeftFoot,8712,Paris Saint Germain,Troyes,2,0,2017-11-29 20:00:00,Samuel Grandsir,Chipped
+165612,56,MissedShots,0.9030000305175782,0.565,0.08329831808805466,Samuel Grandsir,a,3713,OpenPlay,2017,Head,8712,Paris Saint Germain,Troyes,2,0,2017-11-29 20:00:00,Stéphane Darbion,Cross
+165618,81,SavedShot,0.9669999694824218,0.41,0.0864262506365776,Suk Hyun-Jun,a,6307,OpenPlay,2017,Head,8712,Paris Saint Germain,Troyes,2,0,2017-11-29 20:00:00,Karim Azamoum,Cross
+165620,82,SavedShot,0.925,0.57,0.09803393483161926,Suk Hyun-Jun,a,6307,OpenPlay,2017,LeftFoot,8712,Paris Saint Germain,Troyes,2,0,2017-11-29 20:00:00,Charles Traore,Cross

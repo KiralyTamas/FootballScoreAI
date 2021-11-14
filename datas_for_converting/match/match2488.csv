@@ -1,0 +1,29 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+74771,1,MissedShots,0.8859999847412109,0.37900001525878907,0.06817997246980667,Arsen Khubulov,h,2733,OpenPlay,2015,LeftFoot,2488,Kuban Krasnodar,FC Krasnodar,2,3,2015-12-04 20:00:00,,None
+74773,10,Goal,0.7069999694824218,0.509000015258789,0.013004304841160774,Sergey Tkachev,h,2880,OpenPlay,2015,LeftFoot,2488,Kuban Krasnodar,FC Krasnodar,2,3,2015-12-04 20:00:00,Lorenzo Melgarejo,Pass
+74774,23,BlockedShot,0.860999984741211,0.49900001525878906,0.08461663872003555,Vladislav Ignatjev,h,2894,OpenPlay,2015,RightFoot,2488,Kuban Krasnodar,FC Krasnodar,2,3,2015-12-04 20:00:00,Arsen Khubulov,Cross
+74777,35,MissedShots,0.8819999694824219,0.5459999847412109,0.05432010069489479,Vladislav Ignatjev,h,2894,OpenPlay,2015,Head,2488,Kuban Krasnodar,FC Krasnodar,2,3,2015-12-04 20:00:00,Arsen Khubulov,Cross
+74780,42,BlockedShot,0.8009999847412109,0.37099998474121093,0.060660287737846375,Ibrahima Baldé,h,2732,OpenPlay,2015,RightFoot,2488,Kuban Krasnodar,FC Krasnodar,2,3,2015-12-04 20:00:00,,TakeOn
+74786,66,Goal,0.965999984741211,0.43900001525878907,0.5773903727531433,Vladislav Ignatjev,h,2894,OpenPlay,2015,LeftFoot,2488,Kuban Krasnodar,FC Krasnodar,2,3,2015-12-04 20:00:00,Lorenzo Melgarejo,HeadPass
+74791,78,BlockedShot,0.8480000305175781,0.3609999847412109,0.07512383908033371,Ibrahima Baldé,h,2732,OpenPlay,2015,LeftFoot,2488,Kuban Krasnodar,FC Krasnodar,2,3,2015-12-04 20:00:00,Vladislav Ignatjev,HeadPass
+74795,83,MissedShots,0.789000015258789,0.27899999618530275,0.014166292734444141,Vladislav Ignatjev,h,2894,OpenPlay,2015,RightFoot,2488,Kuban Krasnodar,FC Krasnodar,2,3,2015-12-04 20:00:00,Lorenzo Melgarejo,Pass
+74796,84,MissedShots,0.7380000305175781,0.3729999923706055,0.01305859349668026,Lorenzo Melgarejo,h,2819,OpenPlay,2015,LeftFoot,2488,Kuban Krasnodar,FC Krasnodar,2,3,2015-12-04 20:00:00,Roman Bugayev,Chipped
+74798,92,MissedShots,0.899000015258789,0.45599998474121095,0.037453632801771164,Lorenzo Melgarejo,h,2819,SetPiece,2015,Head,2488,Kuban Krasnodar,FC Krasnodar,2,3,2015-12-04 20:00:00,,Aerial
+74772,8,SavedShot,0.7090000152587891,0.5779999923706055,0.014282708056271076,Fedor Smolov,a,2925,OpenPlay,2015,RightFoot,2488,Kuban Krasnodar,FC Krasnodar,2,3,2015-12-04 20:00:00,Ari,Pass
+74775,27,SavedShot,0.7290000152587891,0.4640000152587891,0.016690576449036598,Mauricio Pereyra,a,2922,OpenPlay,2015,RightFoot,2488,Kuban Krasnodar,FC Krasnodar,2,3,2015-12-04 20:00:00,Fedor Smolov,Pass
+74776,33,MissedShots,0.75,0.3629999923706055,0.014647236093878746,Odil Ahmedov,a,2923,FromCorner,2015,RightFoot,2488,Kuban Krasnodar,FC Krasnodar,2,3,2015-12-04 20:00:00,,None
+74778,36,SavedShot,0.8640000152587891,0.53,0.07213426381349564,Ari,a,2930,OpenPlay,2015,RightFoot,2488,Kuban Krasnodar,FC Krasnodar,2,3,2015-12-04 20:00:00,Vitaliy Kaleshin,Cross
+74779,41,MissedShots,0.7630000305175781,0.7330000305175781,0.04032081738114357,Mauricio Pereyra,a,2922,DirectFreekick,2015,RightFoot,2488,Kuban Krasnodar,FC Krasnodar,2,3,2015-12-04 20:00:00,,Standard
+74781,42,SavedShot,0.875,0.45599998474121095,0.10593216121196747,Fedor Smolov,a,2925,OpenPlay,2015,RightFoot,2488,Kuban Krasnodar,FC Krasnodar,2,3,2015-12-04 20:00:00,Charles Kaboré,Throughball
+74782,49,BlockedShot,0.93,0.27399999618530274,0.10149046033620834,Ari,a,2930,OpenPlay,2015,RightFoot,2488,Kuban Krasnodar,FC Krasnodar,2,3,2015-12-04 20:00:00,Odil Ahmedov,Throughball
+74783,56,MissedShots,0.8809999847412109,0.6509999847412109,0.06068159267306328,Fedor Smolov,a,2925,OpenPlay,2015,RightFoot,2488,Kuban Krasnodar,FC Krasnodar,2,3,2015-12-04 20:00:00,Pavel Mamaev,Pass
+74784,59,ShotOnPost,0.7780000305175782,0.285,0.0488155335187912,Fedor Smolov,a,2925,DirectFreekick,2015,RightFoot,2488,Kuban Krasnodar,FC Krasnodar,2,3,2015-12-04 20:00:00,,Standard
+74785,59,SavedShot,0.8230000305175781,0.6040000152587891,0.03257754445075989,Charles Kaboré,a,2921,SetPiece,2015,LeftFoot,2488,Kuban Krasnodar,FC Krasnodar,2,3,2015-12-04 20:00:00,,Rebound
+74787,70,Goal,0.9,0.5779999923706055,0.3158886730670929,Wanderson,a,2926,OpenPlay,2015,RightFoot,2488,Kuban Krasnodar,FC Krasnodar,2,3,2015-12-04 20:00:00,Mauricio Pereyra,Throughball
+74788,73,SavedShot,0.91,0.45,0.4389907121658325,Mauricio Pereyra,a,2922,OpenPlay,2015,RightFoot,2488,Kuban Krasnodar,FC Krasnodar,2,3,2015-12-04 20:00:00,Ricardo Laborde,Pass
+74789,75,BlockedShot,0.815,0.5179999923706055,0.05601859837770462,Joãozinho,a,2928,OpenPlay,2015,LeftFoot,2488,Kuban Krasnodar,FC Krasnodar,2,3,2015-12-04 20:00:00,Ricardo Laborde,Pass
+74790,77,BlockedShot,0.750999984741211,0.5879999923706055,0.056411806493997574,Wanderson,a,2926,DirectFreekick,2015,RightFoot,2488,Kuban Krasnodar,FC Krasnodar,2,3,2015-12-04 20:00:00,,Standard
+74792,79,Goal,0.885,0.5,0.7542753219604492,Pavel Mamaev,a,2924,Penalty,2015,RightFoot,2488,Kuban Krasnodar,FC Krasnodar,2,3,2015-12-04 20:00:00,,Standard
+74793,81,BlockedShot,0.8059999847412109,0.5609999847412109,0.029039757326245308,Pavel Mamaev,a,2924,FromCorner,2015,RightFoot,2488,Kuban Krasnodar,FC Krasnodar,2,3,2015-12-04 20:00:00,,None
+74794,81,BlockedShot,0.8909999847412109,0.3120000076293945,0.043678753077983856,Ricardo Laborde,a,2927,FromCorner,2015,LeftFoot,2488,Kuban Krasnodar,FC Krasnodar,2,3,2015-12-04 20:00:00,,Rebound
+74797,86,Goal,0.9130000305175782,0.615,0.11183217912912369,Fedor Smolov,a,2925,OpenPlay,2015,LeftFoot,2488,Kuban Krasnodar,FC Krasnodar,2,3,2015-12-04 20:00:00,Joãozinho,Pass

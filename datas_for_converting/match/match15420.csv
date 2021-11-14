@@ -1,0 +1,30 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+420025,3,BlockedShot,0.909000015258789,0.544000015258789,0.13429033756256104,Marco Reus,h,319,OpenPlay,2020,LeftFoot,15420,Borussia Dortmund,RasenBallsport Leipzig,3,2,2021-05-08 13:30:00,Giovanni Reyna,Pass
+420026,6,Goal,0.9159999847412109,0.3940000152587891,0.3718439042568207,Marco Reus,h,319,OpenPlay,2020,LeftFoot,15420,Borussia Dortmund,RasenBallsport Leipzig,3,2,2021-05-08 13:30:00,Thorgan Hazard,Pass
+420028,21,MissedShots,0.8109999847412109,0.5109999847412109,0.07141522318124771,Raphael Guerreiro,h,3455,OpenPlay,2020,LeftFoot,15420,Borussia Dortmund,RasenBallsport Leipzig,3,2,2021-05-08 13:30:00,Mahmoud Dahoud,Pass
+420029,26,MissedShots,0.7730000305175782,0.4370000076293945,0.0432603545486927,Marco Reus,h,319,OpenPlay,2020,RightFoot,15420,Borussia Dortmund,RasenBallsport Leipzig,3,2,2021-05-08 13:30:00,,None
+420030,30,BlockedShot,0.7290000152587891,0.5179999923706055,0.020472517237067223,Mahmoud Dahoud,h,205,OpenPlay,2020,RightFoot,15420,Borussia Dortmund,RasenBallsport Leipzig,3,2,2021-05-08 13:30:00,Jadon Sancho,Pass
+420031,31,SavedShot,0.955999984741211,0.30100000381469727,0.06046188250184059,Thorgan Hazard,h,213,OpenPlay,2020,RightFoot,15420,Borussia Dortmund,RasenBallsport Leipzig,3,2,2021-05-08 13:30:00,Mahmoud Dahoud,Pass
+420033,35,MissedShots,0.9169999694824219,0.32799999237060545,0.28525039553642273,Jadon Sancho,h,6345,OpenPlay,2020,RightFoot,15420,Borussia Dortmund,RasenBallsport Leipzig,3,2,2021-05-08 13:30:00,Marco Reus,Pass
+420035,38,MissedShots,0.84,0.639000015258789,0.059788741171360016,Raphael Guerreiro,h,3455,OpenPlay,2020,RightFoot,15420,Borussia Dortmund,RasenBallsport Leipzig,3,2,2021-05-08 13:30:00,Jadon Sancho,Pass
+420036,44,MissedShots,0.875999984741211,0.445,0.04139997437596321,Mats Hummels,h,373,SetPiece,2020,Head,15420,Borussia Dortmund,RasenBallsport Leipzig,3,2,2021-05-08 13:30:00,Marco Reus,Cross
+420038,47,BlockedShot,0.8880000305175781,0.5,0.050209131091833115,Manuel Akanji,h,6490,FromCorner,2020,Head,15420,Borussia Dortmund,RasenBallsport Leipzig,3,2,2021-05-08 13:30:00,Jadon Sancho,Cross
+420040,50,Goal,0.9130000305175782,0.6719999694824219,0.08462770283222198,Jadon Sancho,h,6345,OpenPlay,2020,RightFoot,15420,Borussia Dortmund,RasenBallsport Leipzig,3,2,2021-05-08 13:30:00,Raphael Guerreiro,Pass
+420047,82,BlockedShot,0.8530000305175781,0.56,0.0842496007680893,Marco Reus,h,319,OpenPlay,2020,LeftFoot,15420,Borussia Dortmund,RasenBallsport Leipzig,3,2,2021-05-08 13:30:00,Julian Brandt,Pass
+420048,83,MissedShots,0.875,0.455,0.04195015877485275,Ansgar Knauff,h,8989,FromCorner,2020,Head,15420,Borussia Dortmund,RasenBallsport Leipzig,3,2,2021-05-08 13:30:00,Marco Reus,Cross
+420049,86,Goal,0.9490000152587891,0.500999984741211,0.6319387555122375,Jadon Sancho,h,6345,OpenPlay,2020,RightFoot,15420,Borussia Dortmund,RasenBallsport Leipzig,3,2,2021-05-08 13:30:00,Raphael Guerreiro,Pass
+420051,90,MissedShots,0.7680000305175781,0.8419999694824218,0.020125243812799454,Raphael Guerreiro,h,3455,OpenPlay,2020,LeftFoot,15420,Borussia Dortmund,RasenBallsport Leipzig,3,2,2021-05-08 13:30:00,Marco Reus,Pass
+420024,2,SavedShot,0.92,0.5879999923706055,0.38870611786842346,Hee-Chan Hwang,a,8845,OpenPlay,2020,LeftFoot,15420,Borussia Dortmund,RasenBallsport Leipzig,3,2,2021-05-08 13:30:00,,TakeOn
+420027,12,BlockedShot,0.7780000305175782,0.38299999237060545,0.02203342877328396,Dani Olmo,a,8292,SetPiece,2020,LeftFoot,15420,Borussia Dortmund,RasenBallsport Leipzig,3,2,2021-05-08 13:30:00,Dayotchanculle Upamecano,Pass
+420032,34,BlockedShot,0.740999984741211,0.30100000381469727,0.016245674341917038,Dani Olmo,a,8292,OpenPlay,2020,RightFoot,15420,Borussia Dortmund,RasenBallsport Leipzig,3,2,2021-05-08 13:30:00,Marcel Sabitzer,Pass
+420034,37,SavedShot,0.815,0.48700000762939455,0.05475712940096855,Marcel Sabitzer,a,5248,OpenPlay,2020,LeftFoot,15420,Borussia Dortmund,RasenBallsport Leipzig,3,2,2021-05-08 13:30:00,Dani Olmo,Pass
+420037,46,SavedShot,0.87,0.6229999923706054,0.07301267981529236,Marcel Sabitzer,a,5248,OpenPlay,2020,RightFoot,15420,Borussia Dortmund,RasenBallsport Leipzig,3,2,2021-05-08 13:30:00,Kevin Kampl,Pass
+420039,49,MissedShots,0.745,0.5320000076293945,0.02294241636991501,Kevin Kampl,a,188,OpenPlay,2020,RightFoot,15420,Borussia Dortmund,RasenBallsport Leipzig,3,2,2021-05-08 13:30:00,Marcel Sabitzer,Pass
+420041,61,SavedShot,0.9290000152587891,0.5720000076293945,0.08039562404155731,Willi Orban,a,5257,FromCorner,2020,Head,15420,Borussia Dortmund,RasenBallsport Leipzig,3,2,2021-05-08 13:30:00,Angelino,Cross
+420042,62,Goal,0.92,0.475,0.10358018428087234,Lukas Klostermann,a,5358,FromCorner,2020,Head,15420,Borussia Dortmund,RasenBallsport Leipzig,3,2,2021-05-08 13:30:00,Emil Forsberg,Cross
+420043,66,BlockedShot,0.775,0.6819999694824219,0.028365062549710274,Marcel Sabitzer,a,5248,OpenPlay,2020,RightFoot,15420,Borussia Dortmund,RasenBallsport Leipzig,3,2,2021-05-08 13:30:00,,TakeOn
+420044,68,MissedShots,0.9380000305175781,0.6769999694824219,0.05603582039475441,Dani Olmo,a,8292,OpenPlay,2020,RightFoot,15420,Borussia Dortmund,RasenBallsport Leipzig,3,2,2021-05-08 13:30:00,Justin Kluivert,Pass
+420045,76,Goal,0.9259999847412109,0.5220000076293946,0.5255733728408813,Dani Olmo,a,8292,OpenPlay,2020,RightFoot,15420,Borussia Dortmund,RasenBallsport Leipzig,3,2,2021-05-08 13:30:00,Hee-Chan Hwang,Pass
+420046,78,SavedShot,0.7580000305175781,0.69,0.01975233107805252,Amadou Haidara,a,7501,OpenPlay,2020,RightFoot,15420,Borussia Dortmund,RasenBallsport Leipzig,3,2,2021-05-08 13:30:00,Dayotchanculle Upamecano,Pass
+420050,87,SavedShot,0.779000015258789,0.37900001525878907,0.02709605172276497,Dani Olmo,a,8292,OpenPlay,2020,RightFoot,15420,Borussia Dortmund,RasenBallsport Leipzig,3,2,2021-05-08 13:30:00,Amadou Haidara,Pass
+420052,91,MissedShots,0.8590000152587891,0.46599998474121096,0.08703824132680893,Dani Olmo,a,8292,OpenPlay,2020,LeftFoot,15420,Borussia Dortmund,RasenBallsport Leipzig,3,2,2021-05-08 13:30:00,Marcel Halstenberg,Pass

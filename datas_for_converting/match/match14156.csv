@@ -1,0 +1,24 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+379829,5,BlockedShot,0.7759999847412109,0.624000015258789,0.03275861591100693,Philippe Coutinho,h,488,FromCorner,2020,RightFoot,14156,Barcelona,Villarreal,4,0,2020-09-27 19:00:00,Lionel Messi,Pass
+379830,14,Goal,0.8780000305175781,0.575,0.10409257560968399,Anssumane Fati,h,7967,OpenPlay,2020,RightFoot,14156,Barcelona,Villarreal,4,0,2020-09-27 19:00:00,Jordi Alba,Pass
+379831,16,MissedShots,0.865999984741211,0.4279999923706055,0.09020712226629257,Sergi Roberto,h,2104,OpenPlay,2020,LeftFoot,14156,Barcelona,Villarreal,4,0,2020-09-27 19:00:00,,None
+379832,18,Goal,0.9169999694824219,0.625,0.34816792607307434,Anssumane Fati,h,7967,OpenPlay,2020,RightFoot,14156,Barcelona,Villarreal,4,0,2020-09-27 19:00:00,Philippe Coutinho,Pass
+379833,25,BlockedShot,0.960999984741211,0.5720000076293945,0.5961030125617981,Lionel Messi,h,2097,OpenPlay,2020,LeftFoot,14156,Barcelona,Villarreal,4,0,2020-09-27 19:00:00,Anssumane Fati,Pass
+379834,25,SavedShot,0.975,0.6659999847412109,0.047347720712423325,Jordi Alba,h,2093,OpenPlay,2020,LeftFoot,14156,Barcelona,Villarreal,4,0,2020-09-27 19:00:00,Sergi Roberto,Cross
+379835,34,Goal,0.885,0.5,0.7432776093482971,Lionel Messi,h,2097,Penalty,2020,LeftFoot,14156,Barcelona,Villarreal,4,0,2020-09-27 19:00:00,,Standard
+379837,39,SavedShot,0.9219999694824219,0.5579999923706055,0.44854968786239624,Philippe Coutinho,h,488,OpenPlay,2020,RightFoot,14156,Barcelona,Villarreal,4,0,2020-09-27 19:00:00,Sergi Roberto,Cross
+379840,48,SavedShot,0.894000015258789,0.585,0.13612700998783112,Lionel Messi,h,2097,OpenPlay,2020,LeftFoot,14156,Barcelona,Villarreal,4,0,2020-09-27 19:00:00,Anssumane Fati,Throughball
+379841,55,BlockedShot,0.8819999694824219,0.625,0.11872504651546478,Antoine Griezmann,h,2270,OpenPlay,2020,LeftFoot,14156,Barcelona,Villarreal,4,0,2020-09-27 19:00:00,Jordi Alba,Pass
+379843,65,SavedShot,0.874000015258789,0.2589999961853027,0.0511762872338295,Lionel Messi,h,2097,OpenPlay,2020,LeftFoot,14156,Barcelona,Villarreal,4,0,2020-09-27 19:00:00,Frenkie de Jong,Pass
+379844,71,MissedShots,0.9119999694824219,0.4929999923706055,0.40995192527770996,Lionel Messi,h,2097,OpenPlay,2020,Head,14156,Barcelona,Villarreal,4,0,2020-09-27 19:00:00,Jordi Alba,Cross
+379846,81,BlockedShot,0.8809999847412109,0.5879999923706055,0.130549356341362,Trincão,h,8934,OpenPlay,2020,LeftFoot,14156,Barcelona,Villarreal,4,0,2020-09-27 19:00:00,Pedri,Pass
+379847,85,SavedShot,0.850999984741211,0.28,0.05120481178164482,Trincão,h,8934,OpenPlay,2020,LeftFoot,14156,Barcelona,Villarreal,4,0,2020-09-27 19:00:00,Frenkie de Jong,Pass
+379848,85,SavedShot,0.8580000305175781,0.45599998474121095,0.08630233258008957,Lionel Messi,h,2097,OpenPlay,2020,LeftFoot,14156,Barcelona,Villarreal,4,0,2020-09-27 19:00:00,,Rebound
+379850,90,MissedShots,0.7630000305175781,0.7730000305175782,0.041802216321229935,Miralem Pjanic,h,1290,DirectFreekick,2020,RightFoot,14156,Barcelona,Villarreal,4,0,2020-09-27 19:00:00,,Standard
+379851,91,BlockedShot,0.9619999694824218,0.6580000305175782,0.07542881369590759,Lionel Messi,h,2097,OpenPlay,2020,LeftFoot,14156,Barcelona,Villarreal,4,0,2020-09-27 19:00:00,Trincão,TakeOn
+379836,38,BlockedShot,0.8769999694824219,0.46299999237060546,0.03497598320245743,Francis Coquelin,a,497,FromCorner,2020,Head,14156,Barcelona,Villarreal,4,0,2020-09-27 19:00:00,Daniel Parejo,Cross
+379838,44,BlockedShot,0.8809999847412109,0.549000015258789,0.07908189296722412,Gerard Moreno,a,2120,OpenPlay,2020,LeftFoot,14156,Barcelona,Villarreal,4,0,2020-09-27 19:00:00,Francis Coquelin,BlockedPass
+379839,45,OwnGoal,0.07300000190734864,0.46599998474121096,0,Pau Torres,a,6221,OpenPlay,2020,RightFoot,14156,Barcelona,Villarreal,4,0,2020-09-27 19:00:00,,Challenge
+379842,57,MissedShots,0.885,0.580999984741211,0.03828863054513931,Vicente Iborra,a,2065,FromCorner,2020,Head,14156,Barcelona,Villarreal,4,0,2020-09-27 19:00:00,Moi Gómez,Cross
+379845,80,MissedShots,0.870999984741211,0.3039999961853027,0.03873593732714653,Mario,a,2296,OpenPlay,2020,RightFoot,14156,Barcelona,Villarreal,4,0,2020-09-27 19:00:00,Takefusa Kubo,None
+379849,88,SavedShot,0.8930000305175781,0.3120000076293945,0.05375273898243904,Takefusa Kubo,a,8001,OpenPlay,2020,LeftFoot,14156,Barcelona,Villarreal,4,0,2020-09-27 19:00:00,Mario,Pass

@@ -1,0 +1,29 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+318219,1,BlockedShot,0.8480000305175781,0.53,0.013330094516277313,Nacho,h,2161,FromCorner,2019,Head,12062,Real Valladolid,Osasuna,1,1,2019-09-15 16:30:00,Míchel,Chipped
+318221,6,BlockedShot,0.8680000305175781,0.76,0.02907205931842327,Waldo Rubio,h,7525,OpenPlay,2019,RightFoot,12062,Real Valladolid,Osasuna,1,1,2019-09-15 16:30:00,Pedro Porro,Chipped
+318222,6,MissedShots,0.8590000152587891,0.59,0.08795830607414246,Enes Ünal,h,6219,OpenPlay,2019,LeftFoot,12062,Real Valladolid,Osasuna,1,1,2019-09-15 16:30:00,Waldo Rubio,Pass
+318227,22,BlockedShot,0.7719999694824219,0.664000015258789,0.0235908180475235,Waldo Rubio,h,7525,OpenPlay,2019,RightFoot,12062,Real Valladolid,Osasuna,1,1,2019-09-15 16:30:00,Enes Ünal,Pass
+318228,24,BlockedShot,0.7709999847412109,0.705,0.013962086290121078,Waldo Rubio,h,7525,OpenPlay,2019,RightFoot,12062,Real Valladolid,Osasuna,1,1,2019-09-15 16:30:00,,None
+318229,29,BlockedShot,0.8859999847412109,0.5690000152587891,0.11443330347537994,Óscar Plano,h,6921,OpenPlay,2019,LeftFoot,12062,Real Valladolid,Osasuna,1,1,2019-09-15 16:30:00,Waldo Rubio,Pass
+318230,31,MissedShots,0.6990000152587891,0.5520000076293945,0.012908900156617165,Nacho,h,2161,FromCorner,2019,LeftFoot,12062,Real Valladolid,Osasuna,1,1,2019-09-15 16:30:00,,None
+318235,47,MissedShots,0.9219999694824219,0.49900001525878906,0.3812859356403351,Sergi Guardiola,h,5212,OpenPlay,2019,Head,12062,Real Valladolid,Osasuna,1,1,2019-09-15 16:30:00,Enes Ünal,Cross
+318238,59,BlockedShot,0.735999984741211,0.56,0.021511539816856384,Sergi Guardiola,h,5212,OpenPlay,2019,LeftFoot,12062,Real Valladolid,Osasuna,1,1,2019-09-15 16:30:00,Enes Ünal,Pass
+318239,64,Goal,0.730999984741211,0.3120000076293945,0.0437375009059906,Pablo Hervías,h,4054,DirectFreekick,2019,RightFoot,12062,Real Valladolid,Osasuna,1,1,2019-09-15 16:30:00,,Standard
+318243,85,MissedShots,0.8019999694824219,0.605,0.04881593957543373,Sergi Guardiola,h,5212,OpenPlay,2019,LeftFoot,12062,Real Valladolid,Osasuna,1,1,2019-09-15 16:30:00,Sandro Ramírez,TakeOn
+318220,5,MissedShots,0.54,0.4909999847412109,0.007184525951743126,Roberto Torres,a,5093,OpenPlay,2019,RightFoot,12062,Real Valladolid,Osasuna,1,1,2019-09-15 16:30:00,,Tackle
+318223,11,MissedShots,0.89,0.3920000076293945,0.03259081020951271,Nacho Vidal,a,5162,OpenPlay,2019,Head,12062,Real Valladolid,Osasuna,1,1,2019-09-15 16:30:00,Roberto Torres,Cross
+318224,12,MissedShots,0.95,0.555,0.540785551071167,Brandon,a,6004,OpenPlay,2019,RightFoot,12062,Real Valladolid,Osasuna,1,1,2019-09-15 16:30:00,Ezequiel Ávila,TakeOn
+318225,12,ShotOnPost,0.9669999694824218,0.33799999237060546,0.2756273150444031,Roberto Torres,a,5093,OpenPlay,2019,RightFoot,12062,Real Valladolid,Osasuna,1,1,2019-09-15 16:30:00,,Rebound
+318226,19,MissedShots,0.7780000305175782,0.47200000762939454,0.03140750527381897,Ezequiel Ávila,a,6955,OpenPlay,2019,LeftFoot,12062,Real Valladolid,Osasuna,1,1,2019-09-15 16:30:00,Fran Mérida,Pass
+318231,34,BlockedShot,0.7930000305175782,0.11100000381469727,0.008366668596863747,Ezequiel Ávila,a,6955,OpenPlay,2019,LeftFoot,12062,Real Valladolid,Osasuna,1,1,2019-09-15 16:30:00,,None
+318232,34,MissedShots,0.7969999694824219,0.40400001525878904,0.05292312800884247,Roberto Torres,a,5093,OpenPlay,2019,LeftFoot,12062,Real Valladolid,Osasuna,1,1,2019-09-15 16:30:00,Rubén García,TakeOn
+318233,35,SavedShot,0.885,0.38599998474121094,0.09581467509269714,Roberto Torres,a,5093,OpenPlay,2019,RightFoot,12062,Real Valladolid,Osasuna,1,1,2019-09-15 16:30:00,Brandon,Pass
+318234,35,MissedShots,0.9159999847412109,0.4929999923706055,0.5026004314422607,Ezequiel Ávila,a,6955,OpenPlay,2019,RightFoot,12062,Real Valladolid,Osasuna,1,1,2019-09-15 16:30:00,,Rebound
+318236,49,MissedShots,0.9259999847412109,0.2989999961853027,0.04515349864959717,Roberto Torres,a,5093,OpenPlay,2019,RightFoot,12062,Real Valladolid,Osasuna,1,1,2019-09-15 16:30:00,Estupiñán,Chipped
+318237,56,SavedShot,0.785,0.19700000762939454,0.018925771117210388,Ezequiel Ávila,a,6955,OpenPlay,2019,LeftFoot,12062,Real Valladolid,Osasuna,1,1,2019-09-15 16:30:00,Roberto Torres,Pass
+318240,66,MissedShots,0.7709999847412109,0.46900001525878904,0.027961568906903267,Ezequiel Ávila,a,6955,OpenPlay,2019,RightFoot,12062,Real Valladolid,Osasuna,1,1,2019-09-15 16:30:00,,BallRecovery
+318241,69,MissedShots,0.7609999847412109,0.49400001525878906,0.027171531692147255,Ezequiel Ávila,a,6955,OpenPlay,2019,RightFoot,12062,Real Valladolid,Osasuna,1,1,2019-09-15 16:30:00,Fran Mérida,Pass
+318242,80,Goal,0.9680000305175781,0.485,0.7509037256240845,Robert Ibáñez,a,2089,OpenPlay,2019,LeftFoot,12062,Real Valladolid,Osasuna,1,1,2019-09-15 16:30:00,Ezequiel Ávila,Pass
+318244,87,SavedShot,0.9290000152587891,0.46,0.05611713230609894,David García,a,5090,FromCorner,2019,Head,12062,Real Valladolid,Osasuna,1,1,2019-09-15 16:30:00,Roberto Torres,Aerial
+318245,90,SavedShot,0.914000015258789,0.42700000762939455,0.31295889616012573,Ezequiel Ávila,a,6955,OpenPlay,2019,LeftFoot,12062,Real Valladolid,Osasuna,1,1,2019-09-15 16:30:00,Oier,Chipped
+318246,91,MissedShots,0.915,0.46,0.094466932117939,Ezequiel Ávila,a,6955,FromCorner,2019,Head,12062,Real Valladolid,Osasuna,1,1,2019-09-15 16:30:00,Estupiñán,Cross

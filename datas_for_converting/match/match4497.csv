@@ -1,0 +1,27 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+20535,5,MissedShots,0.8119999694824219,0.6869999694824219,0.029086314141750336,Patrick van Aanholt,h,730,OpenPlay,2014,RightFoot,4497,Sunderland,Aston Villa,0,4,2015-03-14 15:00:00,Ricardo Álvarez,Pass
+20540,23,MissedShots,0.9,0.5629999923706055,0.040203534066677094,Steven Fletcher,h,930,OpenPlay,2014,Head,4497,Sunderland,Aston Villa,0,4,2015-03-14 15:00:00,Liam Bridcutt,Aerial
+20541,27,MissedShots,0.87,0.4229999923706055,0.02195541001856327,Jack Rodwell,h,733,OpenPlay,2014,Head,4497,Sunderland,Aston Villa,0,4,2015-03-14 15:00:00,Liam Bridcutt,Cross
+20544,33,BlockedShot,0.9630000305175781,0.305,0.056731563061475754,Ricardo Álvarez,h,1231,OpenPlay,2014,RightFoot,4497,Sunderland,Aston Villa,0,4,2015-03-14 15:00:00,Steven Fletcher,TakeOn
+20550,57,SavedShot,0.7630000305175781,0.3320000076293945,0.018257133662700653,Anthony Réveillere,h,4388,OpenPlay,2014,LeftFoot,4497,Sunderland,Aston Villa,0,4,2015-03-14 15:00:00,Liam Bridcutt,Pass
+20552,67,MissedShots,0.7480000305175781,0.46799999237060547,0.06276354193687439,Sebastian Larsson,h,740,DirectFreekick,2014,RightFoot,4497,Sunderland,Aston Villa,0,4,2015-03-14 15:00:00,,Standard
+20553,76,SavedShot,0.730999984741211,0.375,0.010771602392196655,Jack Rodwell,h,733,OpenPlay,2014,LeftFoot,4497,Sunderland,Aston Villa,0,4,2015-03-14 15:00:00,Jermain Defoe,Pass
+20554,79,BlockedShot,0.735999984741211,0.5129999923706055,0.012673481367528439,Liam Bridcutt,h,968,OpenPlay,2014,RightFoot,4497,Sunderland,Aston Villa,0,4,2015-03-14 15:00:00,,None
+20555,80,ShotOnPost,0.9180000305175782,0.6680000305175782,0.09479442983865738,Steven Fletcher,h,930,OpenPlay,2014,LeftFoot,4497,Sunderland,Aston Villa,0,4,2015-03-14 15:00:00,Jack Rodwell,Throughball
+20556,84,MissedShots,0.749000015258789,0.6619999694824219,0.015992242842912674,Connor Wickham,h,519,OpenPlay,2014,RightFoot,4497,Sunderland,Aston Villa,0,4,2015-03-14 15:00:00,Patrick van Aanholt,Pass
+20557,87,MissedShots,0.9019999694824219,0.6509999847412109,0.039322443306446075,Connor Wickham,h,519,OpenPlay,2014,RightFoot,4497,Sunderland,Aston Villa,0,4,2015-03-14 15:00:00,Sebastian Larsson,Cross
+20558,90,BlockedShot,0.825999984741211,0.41900001525878905,0.07034594565629959,Jack Rodwell,h,733,OpenPlay,2014,RightFoot,4497,Sunderland,Aston Villa,0,4,2015-03-14 15:00:00,Danny Graham,Pass
+20534,2,BlockedShot,0.835999984741211,0.2560000038146973,0.024923676624894142,Charles N&#039;Zogbia,a,1066,OpenPlay,2014,LeftFoot,4497,Sunderland,Aston Villa,0,4,2015-03-14 15:00:00,,BallRecovery
+20536,10,BlockedShot,0.730999984741211,0.25299999237060544,0.027072202414274216,Leandro Bacuna,a,674,OpenPlay,2014,RightFoot,4497,Sunderland,Aston Villa,0,4,2015-03-14 15:00:00,Charles N&#039;Zogbia,Pass
+20537,12,SavedShot,0.769000015258789,0.555,0.027912873774766922,Charles N&#039;Zogbia,a,1066,OpenPlay,2014,LeftFoot,4497,Sunderland,Aston Villa,0,4,2015-03-14 15:00:00,Christian Benteke,Pass
+20538,15,Goal,0.8690000152587891,0.43599998474121093,0.1050843894481659,Christian Benteke,a,606,OpenPlay,2014,LeftFoot,4497,Sunderland,Aston Villa,0,4,2015-03-14 15:00:00,Leandro Bacuna,Pass
+20539,17,Goal,0.9269999694824219,0.7230000305175781,0.286544531583786,Gabriel Agbonlahor,a,890,OpenPlay,2014,RightFoot,4497,Sunderland,Aston Villa,0,4,2015-03-14 15:00:00,Ciaran Clark,Chipped
+20542,29,MissedShots,0.9330000305175781,0.44400001525878907,0.5633557438850403,Scott Sinclair,a,679,OpenPlay,2014,RightFoot,4497,Sunderland,Aston Villa,0,4,2015-03-14 15:00:00,Leandro Bacuna,Pass
+20543,30,SavedShot,0.7769999694824219,0.7180000305175781,0.01783345639705658,Matthew Lowton,a,1652,OpenPlay,2014,RightFoot,4497,Sunderland,Aston Villa,0,4,2015-03-14 15:00:00,Fabian Delph,Pass
+20545,36,Goal,0.889000015258789,0.3659999847412109,0.17382174730300903,Gabriel Agbonlahor,a,890,OpenPlay,2014,LeftFoot,4497,Sunderland,Aston Villa,0,4,2015-03-14 15:00:00,Charles N&#039;Zogbia,TakeOn
+20546,41,MissedShots,0.8030000305175782,0.6020000076293945,0.05183969810605049,Fabian Delph,a,876,OpenPlay,2014,LeftFoot,4497,Sunderland,Aston Villa,0,4,2015-03-14 15:00:00,Christian Benteke,Pass
+20547,43,Goal,0.935,0.53,0.11526037752628326,Christian Benteke,a,606,OpenPlay,2014,Head,4497,Sunderland,Aston Villa,0,4,2015-03-14 15:00:00,Leandro Bacuna,Cross
+20548,45,SavedShot,0.8109999847412109,0.3529999923706055,0.045724205672740936,Charles N&#039;Zogbia,a,1066,OpenPlay,2014,LeftFoot,4497,Sunderland,Aston Villa,0,4,2015-03-14 15:00:00,Christian Benteke,Pass
+20549,50,MissedShots,0.765,0.38599998474121094,0.02707248367369175,Fabian Delph,a,876,OpenPlay,2014,RightFoot,4497,Sunderland,Aston Villa,0,4,2015-03-14 15:00:00,Tom Cleverley,Pass
+20551,65,SavedShot,0.7019999694824218,0.625999984741211,0.019119875505566597,Fabian Delph,a,876,FromCorner,2014,LeftFoot,4497,Sunderland,Aston Villa,0,4,2015-03-14 15:00:00,Tom Cleverley,Pass
+20559,91,MissedShots,0.7440000152587891,0.6409999847412109,0.01638191193342209,Fabian Delph,a,876,SetPiece,2014,LeftFoot,4497,Sunderland,Aston Villa,0,4,2015-03-14 15:00:00,Tom Cleverley,Pass

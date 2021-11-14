@@ -1,0 +1,28 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+257312,6,BlockedShot,0.9369999694824219,0.6809999847412109,0.08471140265464783,Paco Alcácer,h,2380,OpenPlay,2018,LeftFoot,10464,Borussia Dortmund,Werder Bremen,2,1,2018-12-15 17:30:00,Raphael Guerreiro,Pass
+257313,6,MissedShots,0.960999984741211,0.539000015258789,0.6365758180618286,Achraf Hakimi,h,5197,OpenPlay,2018,Head,10464,Borussia Dortmund,Werder Bremen,2,1,2018-12-15 17:30:00,Jadon Sancho,Chipped
+257315,16,SavedShot,0.9840000152587891,0.415,0.38885965943336487,Paco Alcácer,h,2380,OpenPlay,2018,RightFoot,10464,Borussia Dortmund,Werder Bremen,2,1,2018-12-15 17:30:00,,None
+257316,18,Goal,0.9019999694824219,0.4779999923706055,0.22807027399539948,Paco Alcácer,h,2380,SetPiece,2018,Head,10464,Borussia Dortmund,Werder Bremen,2,1,2018-12-15 17:30:00,Raphael Guerreiro,Cross
+257317,26,Goal,0.8730000305175781,0.4329999923706055,0.3786737322807312,Marco Reus,h,319,OpenPlay,2018,RightFoot,10464,Borussia Dortmund,Werder Bremen,2,1,2018-12-15 17:30:00,Jadon Sancho,Pass
+257318,27,MissedShots,0.9159999847412109,0.3370000076293945,0.08730043470859528,Jadon Sancho,h,6345,OpenPlay,2018,RightFoot,10464,Borussia Dortmund,Werder Bremen,2,1,2018-12-15 17:30:00,Paco Alcácer,Pass
+257321,39,SavedShot,0.7440000152587891,0.7390000152587891,0.03859584778547287,Marco Reus,h,319,DirectFreekick,2018,RightFoot,10464,Borussia Dortmund,Werder Bremen,2,1,2018-12-15 17:30:00,,Standard
+257322,40,MissedShots,0.81,0.29200000762939454,0.03268458694219589,Axel Witsel,h,3059,OpenPlay,2018,RightFoot,10464,Borussia Dortmund,Werder Bremen,2,1,2018-12-15 17:30:00,Raphael Guerreiro,Pass
+257323,44,SavedShot,0.7480000305175781,0.664000015258789,0.020380795001983643,Achraf Hakimi,h,5197,OpenPlay,2018,RightFoot,10464,Borussia Dortmund,Werder Bremen,2,1,2018-12-15 17:30:00,,None
+257326,47,SavedShot,0.8830000305175781,0.575999984741211,0.12435565143823624,Marco Reus,h,319,OpenPlay,2018,RightFoot,10464,Borussia Dortmund,Werder Bremen,2,1,2018-12-15 17:30:00,Paco Alcácer,Pass
+257327,47,MissedShots,0.980999984741211,0.395,0.3289850652217865,Jadon Sancho,h,6345,OpenPlay,2018,RightFoot,10464,Borussia Dortmund,Werder Bremen,2,1,2018-12-15 17:30:00,,Rebound
+257330,56,BlockedShot,0.94,0.555,0.14821258187294006,Marco Reus,h,319,OpenPlay,2018,RightFoot,10464,Borussia Dortmund,Werder Bremen,2,1,2018-12-15 17:30:00,Paco Alcácer,CornerAwarded
+257331,61,MissedShots,0.845,0.705,0.0325884148478508,Marco Reus,h,319,FromCorner,2018,LeftFoot,10464,Borussia Dortmund,Werder Bremen,2,1,2018-12-15 17:30:00,Raphael Guerreiro,Pass
+257333,67,SavedShot,0.8769999694824219,0.40299999237060546,0.36324140429496765,Jadon Sancho,h,6345,OpenPlay,2018,RightFoot,10464,Borussia Dortmund,Werder Bremen,2,1,2018-12-15 17:30:00,Paco Alcácer,Throughball
+257334,67,SavedShot,0.754000015258789,0.3160000038146973,0.022293053567409515,Thomas Delaney,h,5230,OpenPlay,2018,LeftFoot,10464,Borussia Dortmund,Werder Bremen,2,1,2018-12-15 17:30:00,,BallTouch
+257335,70,MissedShots,0.7809999847412109,0.705,0.018261408433318138,Marco Reus,h,319,SetPiece,2018,RightFoot,10464,Borussia Dortmund,Werder Bremen,2,1,2018-12-15 17:30:00,Raphael Guerreiro,Pass
+257311,2,MissedShots,0.909000015258789,0.575999984741211,0.017675358802080154,Theodor Gebre Selassie,a,110,FromCorner,2018,Head,10464,Borussia Dortmund,Werder Bremen,2,1,2018-12-15 17:30:00,Max Kruse,Aerial
+257314,13,MissedShots,0.7140000152587891,0.6990000152587891,0.01549146231263876,Nuri Sahin,a,2642,OpenPlay,2018,LeftFoot,10464,Borussia Dortmund,Werder Bremen,2,1,2018-12-15 17:30:00,Davy Klaassen,Pass
+257319,31,SavedShot,0.764000015258789,0.555,0.018884830176830292,Kevin Möhwald,a,7044,OpenPlay,2018,RightFoot,10464,Borussia Dortmund,Werder Bremen,2,1,2018-12-15 17:30:00,,None
+257320,34,Goal,0.7809999847412109,0.5370000076293945,0.03801494091749191,Max Kruse,a,155,OpenPlay,2018,RightFoot,10464,Borussia Dortmund,Werder Bremen,2,1,2018-12-15 17:30:00,Ludwig Augustinsson,Pass
+257324,46,SavedShot,0.85,0.5329999923706055,0.06149455904960632,Max Kruse,a,155,OpenPlay,2018,RightFoot,10464,Borussia Dortmund,Werder Bremen,2,1,2018-12-15 17:30:00,,None
+257325,46,MissedShots,0.919000015258789,0.425,0.03164337947964668,Sebastian Langkamp,a,21,FromCorner,2018,Head,10464,Borussia Dortmund,Werder Bremen,2,1,2018-12-15 17:30:00,Max Kruse,Foul
+257328,50,BlockedShot,0.855999984741211,0.5459999847412109,0.0809875875711441,Kevin Möhwald,a,7044,OpenPlay,2018,LeftFoot,10464,Borussia Dortmund,Werder Bremen,2,1,2018-12-15 17:30:00,Milot Rashica,Pass
+257329,53,SavedShot,0.754000015258789,0.5359999847412109,0.02412344142794609,Kevin Möhwald,a,7044,OpenPlay,2018,RightFoot,10464,Borussia Dortmund,Werder Bremen,2,1,2018-12-15 17:30:00,Max Kruse,Pass
+257332,66,MissedShots,0.7619999694824219,0.6079999923706054,0.027054665610194206,Max Kruse,a,155,OpenPlay,2018,LeftFoot,10464,Borussia Dortmund,Werder Bremen,2,1,2018-12-15 17:30:00,Martin Harnik,LayOff
+257336,90,SavedShot,0.8930000305175781,0.5540000152587891,0.10243728011846542,Kevin Möhwald,a,7044,OpenPlay,2018,RightFoot,10464,Borussia Dortmund,Werder Bremen,2,1,2018-12-15 17:30:00,Yuya Osako,Throughball
+257337,94,BlockedShot,0.8880000305175781,0.45599998474121095,0.04340067878365517,Sebastian Langkamp,a,21,FromCorner,2018,Head,10464,Borussia Dortmund,Werder Bremen,2,1,2018-12-15 17:30:00,Max Kruse,Cross

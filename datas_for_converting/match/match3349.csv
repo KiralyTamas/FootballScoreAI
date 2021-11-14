@@ -1,0 +1,23 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+117552,12,MissedShots,0.9840000152587891,0.40400001525878904,0.07093485444784164,Zlatan Ibrahimovic,h,1741,OpenPlay,2016,RightFoot,3349,Manchester United,Liverpool,1,1,2017-01-15 16:00:00,Anthony Martial,Cross
+117553,18,MissedShots,0.8630000305175781,0.5670000076293945,0.35637059807777405,Paul Pogba,h,1740,OpenPlay,2016,LeftFoot,3349,Manchester United,Liverpool,1,1,2017-01-15 16:00:00,Henrikh Mkhitaryan,Throughball
+117557,32,SavedShot,0.82,0.47200000762939454,0.17335563898086548,Zlatan Ibrahimovic,h,1741,DirectFreekick,2016,RightFoot,3349,Manchester United,Liverpool,1,1,2017-01-15 16:00:00,,Standard
+117559,40,SavedShot,0.9030000305175782,0.635,0.10609292984008789,Henrikh Mkhitaryan,h,317,OpenPlay,2016,LeftFoot,3349,Manchester United,Liverpool,1,1,2017-01-15 16:00:00,Ander Herrera,Throughball
+117561,59,MissedShots,0.7619999694824219,0.5709999847412109,0.021305985748767853,Paul Pogba,h,1740,OpenPlay,2016,LeftFoot,3349,Manchester United,Liverpool,1,1,2017-01-15 16:00:00,,BallTouch
+117564,64,MissedShots,0.8130000305175781,0.4640000152587891,0.054307229816913605,Wayne Rooney,h,629,OpenPlay,2016,RightFoot,3349,Manchester United,Liverpool,1,1,2017-01-15 16:00:00,Henrikh Mkhitaryan,Pass
+117568,83,ShotOnPost,0.9569999694824218,0.54,0.1250525712966919,Marouane Fellaini,h,630,OpenPlay,2016,Head,3349,Manchester United,Liverpool,1,1,2017-01-15 16:00:00,Wayne Rooney,Cross
+117569,83,Goal,0.9540000152587891,0.45599998474121095,0.1108519583940506,Zlatan Ibrahimovic,h,1741,OpenPlay,2016,Head,3349,Manchester United,Liverpool,1,1,2017-01-15 16:00:00,Antonio Valencia,Chipped
+117572,93,BlockedShot,0.7269999694824218,0.435,0.013503683730959892,Wayne Rooney,h,629,OpenPlay,2016,RightFoot,3349,Manchester United,Liverpool,1,1,2017-01-15 16:00:00,,None
+117551,2,BlockedShot,0.9840000152587891,0.6020000076293945,0.019014939665794373,Emre Can,a,604,FromCorner,2016,Head,3349,Manchester United,Liverpool,1,1,2017-01-15 16:00:00,James Milner,BallTouch
+117554,22,MissedShots,0.8590000152587891,0.47200000762939454,0.06924031674861908,Divock Origi,a,484,SetPiece,2016,RightFoot,3349,Manchester United,Liverpool,1,1,2017-01-15 16:00:00,,None
+117555,23,BlockedShot,0.9009999847412109,0.32099998474121094,0.05228309705853462,Trent Alexander-Arnold,a,1791,OpenPlay,2016,LeftFoot,3349,Manchester United,Liverpool,1,1,2017-01-15 16:00:00,Emre Can,Chipped
+117556,26,Goal,0.885,0.5,0.7611688375473022,James Milner,a,489,Penalty,2016,RightFoot,3349,Manchester United,Liverpool,1,1,2017-01-15 16:00:00,,Standard
+117558,38,BlockedShot,0.845,0.664000015258789,0.061951469630002975,Adam Lallana,a,486,OpenPlay,2016,RightFoot,3349,Manchester United,Liverpool,1,1,2017-01-15 16:00:00,Emre Can,Pass
+117560,48,BlockedShot,0.8719999694824219,0.7419999694824219,0.04275687038898468,Divock Origi,a,484,OpenPlay,2016,RightFoot,3349,Manchester United,Liverpool,1,1,2017-01-15 16:00:00,Roberto Firmino,Pass
+117562,60,SavedShot,0.9259999847412109,0.674000015258789,0.08739620447158813,Roberto Firmino,a,482,OpenPlay,2016,RightFoot,3349,Manchester United,Liverpool,1,1,2017-01-15 16:00:00,Philippe Coutinho,Pass
+117563,62,BlockedShot,0.815,0.710999984741211,0.030382495373487473,Philippe Coutinho,a,488,OpenPlay,2016,RightFoot,3349,Manchester United,Liverpool,1,1,2017-01-15 16:00:00,Trent Alexander-Arnold,Chipped
+117565,65,BlockedShot,0.750999984741211,0.3120000076293945,0.02461632899940014,Roberto Firmino,a,482,OpenPlay,2016,RightFoot,3349,Manchester United,Liverpool,1,1,2017-01-15 16:00:00,Emre Can,Pass
+117566,65,SavedShot,0.88,0.62,0.08814036846160889,Adam Lallana,a,486,OpenPlay,2016,LeftFoot,3349,Manchester United,Liverpool,1,1,2017-01-15 16:00:00,,None
+117567,74,MissedShots,0.88,0.54,0.06251896172761917,Georginio Wijnaldum,a,771,OpenPlay,2016,Head,3349,Manchester United,Liverpool,1,1,2017-01-15 16:00:00,Emre Can,Cross
+117570,85,BlockedShot,0.8619999694824219,0.645,0.0538020059466362,Georginio Wijnaldum,a,771,OpenPlay,2016,RightFoot,3349,Manchester United,Liverpool,1,1,2017-01-15 16:00:00,,None
+117571,92,SavedShot,0.8730000305175781,0.5729999923706055,0.10730347782373428,Georginio Wijnaldum,a,771,OpenPlay,2016,RightFoot,3349,Manchester United,Liverpool,1,1,2017-01-15 16:00:00,Emre Can,Pass

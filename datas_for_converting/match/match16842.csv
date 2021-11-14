@@ -1,0 +1,26 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+437577,12,OwnGoal,0.01899999976158142,0.5320000076293945,0,Stefan Strandberg,h,3014,OpenPlay,2021,LeftFoot,16842,Salernitana,Empoli,2,4,2021-10-23 13:00:00,,None
+437581,22,SavedShot,0.905,0.67,0.041854191571474075,Cedric Gondo,h,10008,OpenPlay,2021,RightFoot,16842,Salernitana,Empoli,2,4,2021-10-23 13:00:00,Francesco Di Tacchio,Chipped
+437582,29,MissedShots,0.8519999694824218,0.42700000762939455,0.08475236594676971,Simy,h,1362,OpenPlay,2021,RightFoot,16842,Salernitana,Empoli,2,4,2021-10-23 13:00:00,Grigoris Kastanos,Pass
+437584,35,MissedShots,0.955999984741211,0.7019999694824218,0.06272284686565399,Cedric Gondo,h,10008,OpenPlay,2021,LeftFoot,16842,Salernitana,Empoli,2,4,2021-10-23 13:00:00,Luca Ranieri,Pass
+437586,40,SavedShot,0.7390000152587891,0.515,0.016086354851722717,Grigoris Kastanos,h,4951,OpenPlay,2021,LeftFoot,16842,Salernitana,Empoli,2,4,2021-10-23 13:00:00,Franck Ribéry,Pass
+437588,41,MissedShots,0.8059999847412109,0.29399999618530276,0.019746750593185425,Ramzi Aya,h,9867,OpenPlay,2021,RightFoot,16842,Salernitana,Empoli,2,4,2021-10-23 13:00:00,Simy,Pass
+437591,47,Goal,0.93,0.5359999847412109,0.47761204838752747,Luca Ranieri,h,6696,OpenPlay,2021,LeftFoot,16842,Salernitana,Empoli,2,4,2021-10-23 13:00:00,Franck Ribéry,Pass
+437593,54,BlockedShot,0.9840000152587891,0.565,0.07477550953626633,Stefan Strandberg,h,3014,FromCorner,2021,Head,16842,Salernitana,Empoli,2,4,2021-10-23 13:00:00,Franck Ribéry,Aerial
+437594,54,ShotOnPost,0.935,0.315,0.04895779490470886,Grigoris Kastanos,h,4951,FromCorner,2021,RightFoot,16842,Salernitana,Empoli,2,4,2021-10-23 13:00:00,Franck Ribéry,Pass
+437596,64,SavedShot,0.92,0.5179999923706055,0.10333112627267838,Simy,h,1362,FromCorner,2021,Head,16842,Salernitana,Empoli,2,4,2021-10-23 13:00:00,Franck Ribéry,Cross
+437597,84,MissedShots,0.7730000305175782,0.5640000152587891,0.012387421913444996,Francesco Di Tacchio,h,9939,OpenPlay,2021,LeftFoot,16842,Salernitana,Empoli,2,4,2021-10-23 13:00:00,,Aerial
+437598,89,SavedShot,0.9740000152587891,0.43,0.3624502718448639,Milan Djuric,h,3856,OpenPlay,2021,Head,16842,Salernitana,Empoli,2,4,2021-10-23 13:00:00,Franck Ribéry,Cross
+437599,90,BlockedShot,0.915,0.4929999923706055,0.06745176017284393,Milan Djuric,h,3856,OpenPlay,2021,Head,16842,Salernitana,Empoli,2,4,2021-10-23 13:00:00,Pawel Jaroszynski,Aerial
+437575,1,Goal,0.855,0.644000015258789,0.30581146478652954,Andrea Pinamonti,a,4895,OpenPlay,2021,LeftFoot,16842,Salernitana,Empoli,2,4,2021-10-23 13:00:00,Filippo Bandinelli,Throughball
+437576,10,Goal,0.9319999694824219,0.3970000076293945,0.39163994789123535,Patrick Cutrone,a,4918,OpenPlay,2021,RightFoot,16842,Salernitana,Empoli,2,4,2021-10-23 13:00:00,Nicolas Haas,Throughball
+437578,14,SavedShot,0.7269999694824218,0.34099998474121096,0.018572239205241203,Nicolas Haas,a,6161,OpenPlay,2021,RightFoot,16842,Salernitana,Empoli,2,4,2021-10-23 13:00:00,Liam Henderson,Pass
+437579,15,MissedShots,0.960999984741211,0.47400001525878904,0.602766215801239,Andrea Pinamonti,a,4895,OpenPlay,2021,LeftFoot,16842,Salernitana,Empoli,2,4,2021-10-23 13:00:00,Liam Henderson,Cross
+437580,16,MissedShots,0.9830000305175781,0.3970000076293945,0.09943969547748566,Patrick Cutrone,a,4918,OpenPlay,2021,RightFoot,16842,Salernitana,Empoli,2,4,2021-10-23 13:00:00,,None
+437583,30,SavedShot,0.8519999694824218,0.7280000305175781,0.04921211674809456,Patrick Cutrone,a,4918,OpenPlay,2021,RightFoot,16842,Salernitana,Empoli,2,4,2021-10-23 13:00:00,Filippo Bandinelli,Pass
+437585,39,BlockedShot,0.784000015258789,0.44099998474121094,0.04845663905143738,Andrea Pinamonti,a,4895,OpenPlay,2021,RightFoot,16842,Salernitana,Empoli,2,4,2021-10-23 13:00:00,Patrick Cutrone,Pass
+437587,40,MissedShots,0.9630000305175781,0.415,0.42018723487854004,Patrick Cutrone,a,4918,OpenPlay,2021,RightFoot,16842,Salernitana,Empoli,2,4,2021-10-23 13:00:00,Filippo Bandinelli,Cross
+437589,42,SavedShot,0.8580000305175781,0.6619999694824219,0.10963758826255798,Andrea Pinamonti,a,4895,OpenPlay,2021,RightFoot,16842,Salernitana,Empoli,2,4,2021-10-23 13:00:00,Filippo Bandinelli,Goal
+437590,44,Goal,0.885,0.5,0.7612988352775574,Andrea Pinamonti,a,4895,Penalty,2021,RightFoot,16842,Salernitana,Empoli,2,4,2021-10-23 13:00:00,,Standard
+437592,48,MissedShots,0.75,0.6320000076293946,0.023465756326913834,Andrea Pinamonti,a,4895,OpenPlay,2021,RightFoot,16842,Salernitana,Empoli,2,4,2021-10-23 13:00:00,Filippo Bandinelli,Pass
+437595,54,OwnGoal,0.03,0.4620000076293945,0,Ardian Ismajli,a,9090,FromCorner,2021,OtherBodyPart,16842,Salernitana,Empoli,2,4,2021-10-23 13:00:00,,BallTouch

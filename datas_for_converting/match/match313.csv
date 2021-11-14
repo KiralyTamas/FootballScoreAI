@@ -1,0 +1,29 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+53696,5,MissedShots,0.835,0.6229999923706054,0.03571552038192749,Alexander Tettey,h,791,FromCorner,2015,LeftFoot,313,Norwich,Tottenham,0,3,2016-02-02 23:45:00,,None
+53699,13,SavedShot,0.8619999694824219,0.3129999923706055,0.04554815962910652,Dieumerci Mbokani,h,795,OpenPlay,2015,RightFoot,313,Norwich,Tottenham,0,3,2016-02-02 23:45:00,Alexander Tettey,Pass
+53702,17,MissedShots,0.795,0.6409999847412109,0.024676024913787842,Matthew Jarvis,h,800,OpenPlay,2015,RightFoot,313,Norwich,Tottenham,0,3,2016-02-02 23:45:00,Martin Olsson,Pass
+53708,41,MissedShots,0.7609999847412109,0.39599998474121095,0.01898033916950226,Alexander Tettey,h,791,OpenPlay,2015,RightFoot,313,Norwich,Tottenham,0,3,2016-02-02 23:45:00,Dieumerci Mbokani,Pass
+53709,51,MissedShots,0.8669999694824219,0.5940000152587891,0.018888704478740692,Steven Naismith,h,824,FromCorner,2015,Head,313,Norwich,Tottenham,0,3,2016-02-02 23:45:00,Matthew Jarvis,Cross
+53711,54,SavedShot,0.9530000305175781,0.445,0.09397873282432556,Steven Naismith,h,824,SetPiece,2015,RightFoot,313,Norwich,Tottenham,0,3,2016-02-02 23:45:00,Dieumerci Mbokani,HeadPass
+53712,54,BlockedShot,0.9669999694824218,0.47400001525878904,0.5614054799079895,Steven Naismith,h,824,SetPiece,2015,LeftFoot,313,Norwich,Tottenham,0,3,2016-02-02 23:45:00,,End
+53714,63,MissedShots,0.774000015258789,0.23600000381469727,0.008831226266920567,Steven Naismith,h,824,OpenPlay,2015,RightFoot,313,Norwich,Tottenham,0,3,2016-02-02 23:45:00,Dieumerci Mbokani,HeadPass
+53715,64,BlockedShot,0.8630000305175781,0.2989999961853027,0.04486454278230667,Jonny Howson,h,792,OpenPlay,2015,LeftFoot,313,Norwich,Tottenham,0,3,2016-02-02 23:45:00,Ivo Pinto,Pass
+53716,70,BlockedShot,0.889000015258789,0.5220000076293946,0.01810341700911522,Youssouf Mulumbu,h,797,FromCorner,2015,Head,313,Norwich,Tottenham,0,3,2016-02-02 23:45:00,Sebastien Bassong,Aerial
+53718,84,MissedShots,0.8130000305175781,0.5029999923706054,0.058326832950115204,Youssouf Mulumbu,h,797,OpenPlay,2015,RightFoot,313,Norwich,Tottenham,0,3,2016-02-02 23:45:00,Vadis Odjidja-Ofoe,Pass
+53692,1,BlockedShot,0.8119999694824219,0.435,0.024057742208242416,Toby Alderweireld,a,639,FromCorner,2015,LeftFoot,313,Norwich,Tottenham,0,3,2016-02-02 23:45:00,Son Heung-Min,Chipped
+53693,1,SavedShot,0.8780000305175781,0.68,0.04728458821773529,Christian Eriksen,a,646,FromCorner,2015,RightFoot,313,Norwich,Tottenham,0,3,2016-02-02 23:45:00,,Rebound
+53694,1,Goal,0.950999984741211,0.47200000762939454,0.594415009021759,Dele Alli,a,645,FromCorner,2015,RightFoot,313,Norwich,Tottenham,0,3,2016-02-02 23:45:00,,Rebound
+53695,3,MissedShots,0.9209999847412109,0.39,0.05218680575489998,Eric Dier,a,643,FromCorner,2015,RightFoot,313,Norwich,Tottenham,0,3,2016-02-02 23:45:00,Christian Eriksen,Cross
+53697,9,MissedShots,0.909000015258789,0.5229999923706055,0.07653200626373291,Toby Alderweireld,a,639,FromCorner,2015,Head,313,Norwich,Tottenham,0,3,2016-02-02 23:45:00,Christian Eriksen,Cross
+53698,10,BlockedShot,0.7819999694824219,0.3529999923706055,0.021043093875050545,Eric Dier,a,643,FromCorner,2015,RightFoot,313,Norwich,Tottenham,0,3,2016-02-02 23:45:00,Dele Alli,Pass
+53700,15,MissedShots,0.745,0.32,0.018247637897729874,Son Heung-Min,a,453,OpenPlay,2015,LeftFoot,313,Norwich,Tottenham,0,3,2016-02-02 23:45:00,Kyle Walker,Pass
+53701,16,ShotOnPost,0.955,0.585,0.14682404696941376,Son Heung-Min,a,453,OpenPlay,2015,LeftFoot,313,Norwich,Tottenham,0,3,2016-02-02 23:45:00,Harry Kane,Pass
+53703,28,SavedShot,0.8130000305175781,0.46,0.07387319207191467,Harry Kane,a,647,OpenPlay,2015,LeftFoot,313,Norwich,Tottenham,0,3,2016-02-02 23:45:00,Dele Alli,Pass
+53704,29,Goal,0.885,0.5,0.7611688375473022,Harry Kane,a,647,Penalty,2015,RightFoot,313,Norwich,Tottenham,0,3,2016-02-02 23:45:00,,Standard
+53705,33,ShotOnPost,0.9330000305175781,0.695,0.07536027580499649,Harry Kane,a,647,OpenPlay,2015,LeftFoot,313,Norwich,Tottenham,0,3,2016-02-02 23:45:00,Toby Alderweireld,TakeOn
+53706,39,MissedShots,0.91,0.5059999847412109,0.32767972350120544,Dele Alli,a,645,OpenPlay,2015,Head,313,Norwich,Tottenham,0,3,2016-02-02 23:45:00,Danny Rose,Cross
+53707,39,SavedShot,0.795,0.2610000038146973,0.029164087027311325,Christian Eriksen,a,646,OpenPlay,2015,RightFoot,313,Norwich,Tottenham,0,3,2016-02-02 23:45:00,Harry Kane,Pass
+53710,52,MissedShots,0.87,0.700999984741211,0.058844491839408875,Harry Kane,a,647,OpenPlay,2015,LeftFoot,313,Norwich,Tottenham,0,3,2016-02-02 23:45:00,,BallRecovery
+53713,56,MissedShots,0.8630000305175781,0.21200000762939453,0.024058252573013306,Christian Eriksen,a,646,FromCorner,2015,LeftFoot,313,Norwich,Tottenham,0,3,2016-02-02 23:45:00,Son Heung-Min,Pass
+53717,81,ShotOnPost,0.879000015258789,0.34200000762939453,0.07184316962957382,Harry Kane,a,647,OpenPlay,2015,RightFoot,313,Norwich,Tottenham,0,3,2016-02-02 23:45:00,,BallRecovery
+53719,89,Goal,0.865,0.40599998474121096,0.394976407289505,Harry Kane,a,647,OpenPlay,2015,LeftFoot,313,Norwich,Tottenham,0,3,2016-02-02 23:45:00,Christian Eriksen,BallRecovery

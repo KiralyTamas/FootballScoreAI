@@ -1,0 +1,21 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+199825,13,Goal,0.899000015258789,0.649000015258789,0.06856991350650787,Marcus Rashford,h,556,OpenPlay,2017,RightFoot,7414,Manchester United,Liverpool,2,1,2018-03-10 12:30:00,Romelu Lukaku,HeadPass
+199827,23,Goal,0.88,0.655,0.10157162696123123,Marcus Rashford,h,556,OpenPlay,2017,RightFoot,7414,Manchester United,Liverpool,2,1,2018-03-10 12:30:00,,TakeOn
+199830,37,MissedShots,0.925,0.47400001525878904,0.4999243915081024,Juan Mata,h,554,OpenPlay,2017,LeftFoot,7414,Manchester United,Liverpool,2,1,2018-03-10 12:30:00,Alexis Sánchez,Cross
+199838,65,OwnGoal,0.04400000095367432,0.38599998474121094,0,Eric Bailly,h,1739,OpenPlay,2017,LeftFoot,7414,Manchester United,Liverpool,2,1,2018-03-10 12:30:00,,Challenge
+199840,84,BlockedShot,0.919000015258789,0.5109999847412109,0.053852301090955734,Romelu Lukaku,h,594,SetPiece,2017,Head,7414,Manchester United,Liverpool,2,1,2018-03-10 12:30:00,Ashley Young,Card
+199841,84,BlockedShot,0.9209999847412109,0.57,0.12113239616155624,Juan Mata,h,554,OpenPlay,2017,LeftFoot,7414,Manchester United,Liverpool,2,1,2018-03-10 12:30:00,Alexis Sánchez,Cross
+199826,22,MissedShots,0.9540000152587891,0.5670000076293945,0.35842400789260864,Virgil van Dijk,a,833,FromCorner,2017,Head,7414,Manchester United,Liverpool,2,1,2018-03-10 12:30:00,James Milner,Cross
+199828,28,SavedShot,0.8469999694824218,0.3060000038146973,0.02267804928123951,Roberto Firmino,a,482,FromCorner,2017,LeftFoot,7414,Manchester United,Liverpool,2,1,2018-03-10 12:30:00,Andrew Robertson,Chipped
+199829,30,SavedShot,0.74,0.515,0.01890558749437332,Roberto Firmino,a,482,OpenPlay,2017,RightFoot,7414,Manchester United,Liverpool,2,1,2018-03-10 12:30:00,Andrew Robertson,TakeOn
+199831,40,BlockedShot,0.7319999694824219,0.3729999923706055,0.013388773426413536,Alex Oxlade-Chamberlain,a,966,OpenPlay,2017,RightFoot,7414,Manchester United,Liverpool,2,1,2018-03-10 12:30:00,Roberto Firmino,Pass
+199832,44,MissedShots,0.95,0.580999984741211,0.08672444522380829,Dejan Lovren,a,602,FromCorner,2017,Head,7414,Manchester United,Liverpool,2,1,2018-03-10 12:30:00,James Milner,Cross
+199833,47,MissedShots,0.9369999694824219,0.59,0.06179844215512276,Virgil van Dijk,a,833,FromCorner,2017,Head,7414,Manchester United,Liverpool,2,1,2018-03-10 12:30:00,Mohamed Salah,Cross
+199834,49,BlockedShot,0.720999984741211,0.39799999237060546,0.011723191477358341,Alex Oxlade-Chamberlain,a,966,OpenPlay,2017,RightFoot,7414,Manchester United,Liverpool,2,1,2018-03-10 12:30:00,Sadio Mané,Pass
+199835,53,BlockedShot,0.745999984741211,0.54,0.01973896659910679,Sadio Mané,a,838,OpenPlay,2017,LeftFoot,7414,Manchester United,Liverpool,2,1,2018-03-10 12:30:00,Alex Oxlade-Chamberlain,Pass
+199836,53,BlockedShot,0.764000015258789,0.32799999237060545,0.016323911026120186,Alex Oxlade-Chamberlain,a,966,OpenPlay,2017,RightFoot,7414,Manchester United,Liverpool,2,1,2018-03-10 12:30:00,Emre Can,Pass
+199837,62,MissedShots,0.7619999694824219,0.36700000762939455,0.016727354377508163,James Milner,a,489,OpenPlay,2017,RightFoot,7414,Manchester United,Liverpool,2,1,2018-03-10 12:30:00,Sadio Mané,Pass
+199839,73,BlockedShot,0.7559999847412109,0.5370000076293945,0.02512376569211483,Roberto Firmino,a,482,OpenPlay,2017,RightFoot,7414,Manchester United,Liverpool,2,1,2018-03-10 12:30:00,Sadio Mané,Pass
+199842,89,BlockedShot,0.7819999694824219,0.415,0.025576841086149216,Georginio Wijnaldum,a,771,SetPiece,2017,RightFoot,7414,Manchester United,Liverpool,2,1,2018-03-10 12:30:00,Dominic Solanke,Pass
+199843,94,BlockedShot,0.785,0.45799999237060546,0.024075374007225037,Dejan Lovren,a,602,FromCorner,2017,LeftFoot,7414,Manchester United,Liverpool,2,1,2018-03-10 12:30:00,,None
+199844,95,MissedShots,0.8830000305175781,0.42700000762939455,0.07588022947311401,Mohamed Salah,a,1250,FromCorner,2017,LeftFoot,7414,Manchester United,Liverpool,2,1,2018-03-10 12:30:00,,None

@@ -1,0 +1,20 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+88066,18,OwnGoal,0.065,0.4779999923706055,0,David Simón,h,2364,OpenPlay,2015,LeftFoot,1523,Las Palmas,Deportivo La Coruna,0,2,2015-11-29 01:00:00,,Challenge
+88067,32,MissedShots,0.884000015258789,0.720999984741211,0.037822503596544266,Dani Castellano,h,2355,OpenPlay,2015,LeftFoot,1523,Las Palmas,Deportivo La Coruna,0,2,2015-11-29 01:00:00,Vicente Gómez,Pass
+88068,33,SavedShot,0.764000015258789,0.46299999237060546,0.02719198912382126,Tana,h,2359,OpenPlay,2015,RightFoot,1523,Las Palmas,Deportivo La Coruna,0,2,2015-11-29 01:00:00,Jonathan Viera,Pass
+88069,40,SavedShot,0.705,0.625999984741211,0.01445221807807684,Roque Mesa,h,2356,OpenPlay,2015,RightFoot,1523,Las Palmas,Deportivo La Coruna,0,2,2015-11-29 01:00:00,Jonathan Viera,Pass
+88070,43,MissedShots,0.874000015258789,0.43,0.04264102876186371,Vicente Gómez,h,2363,SetPiece,2015,Head,1523,Las Palmas,Deportivo La Coruna,0,2,2015-11-29 01:00:00,Momo,Cross
+88073,46,SavedShot,0.750999984741211,0.2620000076293945,0.01695243827998638,Momo,h,2360,OpenPlay,2015,LeftFoot,1523,Las Palmas,Deportivo La Coruna,0,2,2015-11-29 01:00:00,Tana,Pass
+88077,74,SavedShot,0.750999984741211,0.620999984741211,0.021003030240535736,Sergio Araujo,h,2365,OpenPlay,2015,LeftFoot,1523,Las Palmas,Deportivo La Coruna,0,2,2015-11-29 01:00:00,Dani Castellano,Pass
+88080,89,SavedShot,0.8959999847412109,0.53,0.07738279551267624,Sergio Araujo,h,2365,OpenPlay,2015,RightFoot,1523,Las Palmas,Deportivo La Coruna,0,2,2015-11-29 01:00:00,David Simón,Cross
+88081,89,BlockedShot,0.965999984741211,0.5790000152587891,0.12162002176046371,Sergio Araujo,h,2365,OpenPlay,2015,LeftFoot,1523,Las Palmas,Deportivo La Coruna,0,2,2015-11-29 01:00:00,,Rebound
+88065,16,MissedShots,0.5659999847412109,0.051999998092651364,0.006377627141773701,Cani,a,2322,OpenPlay,2015,RightFoot,1523,Las Palmas,Deportivo La Coruna,0,2,2015-11-29 01:00:00,,None
+88071,44,ShotOnPost,0.9059999847412109,0.544000015258789,0.06727688014507294,Álex Bergantiños,a,2317,FromCorner,2015,RightFoot,1523,Las Palmas,Deportivo La Coruna,0,2,2015-11-29 01:00:00,Cani,Cross
+88072,44,SavedShot,0.9490000152587891,0.544000015258789,0.14193688333034515,Álex Bergantiños,a,2317,FromCorner,2015,LeftFoot,1523,Las Palmas,Deportivo La Coruna,0,2,2015-11-29 01:00:00,,Rebound
+88074,67,SavedShot,0.8540000152587891,0.66,0.46681979298591614,Lucas Pérez,a,1700,OpenPlay,2015,LeftFoot,1523,Las Palmas,Deportivo La Coruna,0,2,2015-11-29 01:00:00,,BallRecovery
+88075,67,SavedShot,0.9030000305175782,0.605,0.4504696726799011,Lucas Pérez,a,1700,OpenPlay,2015,LeftFoot,1523,Las Palmas,Deportivo La Coruna,0,2,2015-11-29 01:00:00,,Rebound
+88076,73,MissedShots,0.85,0.47299999237060547,0.5042087435722351,Lucas Pérez,a,1700,OpenPlay,2015,LeftFoot,1523,Las Palmas,Deportivo La Coruna,0,2,2015-11-29 01:00:00,,TakeOn
+88078,78,SavedShot,0.8469999694824218,0.5820000076293945,0.11096880584955215,Luisinho,a,2500,OpenPlay,2015,LeftFoot,1523,Las Palmas,Deportivo La Coruna,0,2,2015-11-29 01:00:00,Lucas Pérez,Pass
+88079,79,BlockedShot,0.86,0.45099998474121095,0.06615936011075974,Pedro Mosquera,a,2320,FromCorner,2015,RightFoot,1523,Las Palmas,Deportivo La Coruna,0,2,2015-11-29 01:00:00,,None
+88082,90,Goal,0.9019999694824219,0.5590000152587891,0.5490195751190186,Lucas Pérez,a,1700,OpenPlay,2015,LeftFoot,1523,Las Palmas,Deportivo La Coruna,0,2,2015-11-29 01:00:00,Faycal Fajr,Pass
+88083,93,MissedShots,0.7390000152587891,0.4640000152587891,0.06427101790904999,Faycal Fajr,a,2319,DirectFreekick,2015,RightFoot,1523,Las Palmas,Deportivo La Coruna,0,2,2015-11-29 01:00:00,,Standard

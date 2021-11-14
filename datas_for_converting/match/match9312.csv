@@ -1,0 +1,23 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+250135,12,MissedShots,0.7430000305175781,0.40700000762939453,0.015978332608938217,Aaron Wan-Bissaka,h,5584,OpenPlay,2018,RightFoot,9312,Crystal Palace,Tottenham,0,1,2018-11-10 17:30:00,,None
+250136,14,MissedShots,0.9319999694824219,0.5990000152587891,0.015710877254605293,James Tomkins,h,530,FromCorner,2018,Head,9312,Crystal Palace,Tottenham,0,1,2018-11-10 17:30:00,Luka Milivojevic,Aerial
+250137,15,MissedShots,0.91,0.7380000305175781,0.04185239225625992,Andros Townsend,h,775,OpenPlay,2018,LeftFoot,9312,Crystal Palace,Tottenham,0,1,2018-11-10 17:30:00,Mamadou Sakho,Chipped
+250138,16,SavedShot,0.8780000305175781,0.49700000762939456,0.017011484131217003,Jordan Ayew,h,672,FromCorner,2018,Head,9312,Crystal Palace,Tottenham,0,1,2018-11-10 17:30:00,,Aerial
+250144,49,SavedShot,0.9490000152587891,0.5279999923706055,0.0840698629617691,James Tomkins,h,530,FromCorner,2018,Head,9312,Crystal Palace,Tottenham,0,1,2018-11-10 17:30:00,,None
+250145,53,MissedShots,0.9409999847412109,0.6270000076293946,0.022386088967323303,James Tomkins,h,530,FromCorner,2018,Head,9312,Crystal Palace,Tottenham,0,1,2018-11-10 17:30:00,Luka Milivojevic,Cross
+250151,79,SavedShot,0.7680000305175781,0.5570000076293945,0.0186027679592371,Jeffrey Schlupp,h,757,SetPiece,2018,RightFoot,9312,Crystal Palace,Tottenham,0,1,2018-11-10 17:30:00,,None
+250152,83,MissedShots,0.8830000305175781,0.7630000305175781,0.03198019042611122,Patrick van Aanholt,h,730,OpenPlay,2018,LeftFoot,9312,Crystal Palace,Tottenham,0,1,2018-11-10 17:30:00,Jordan Ayew,Pass
+250153,83,SavedShot,0.870999984741211,0.515,0.07723994553089142,Andros Townsend,h,775,OpenPlay,2018,LeftFoot,9312,Crystal Palace,Tottenham,0,1,2018-11-10 17:30:00,,Rebound
+250154,90,BlockedShot,0.7180000305175781,0.6140000152587891,0.01517385896295309,Luka Milivojevic,h,5549,OpenPlay,2018,RightFoot,9312,Crystal Palace,Tottenham,0,1,2018-11-10 17:30:00,Jeffrey Schlupp,Pass
+250155,90,SavedShot,0.914000015258789,0.605,0.3558802306652069,Alexander Sørloth,h,6531,OpenPlay,2018,LeftFoot,9312,Crystal Palace,Tottenham,0,1,2018-11-10 17:30:00,,Rebound
+250139,19,BlockedShot,0.9319999694824219,0.6719999694824219,0.08345439285039902,Moussa Sissoko,a,772,OpenPlay,2018,RightFoot,9312,Crystal Palace,Tottenham,0,1,2018-11-10 17:30:00,,TakeOn
+250140,26,MissedShots,0.8980000305175782,0.59,0.016194486990571022,Toby Alderweireld,a,639,SetPiece,2018,Head,9312,Crystal Palace,Tottenham,0,1,2018-11-10 17:30:00,Erik Lamela,Aerial
+250141,27,MissedShots,0.904000015258789,0.43400001525878906,0.06448965519666672,Dele Alli,a,645,OpenPlay,2018,Head,9312,Crystal Palace,Tottenham,0,1,2018-11-10 17:30:00,Ben Davies,Cross
+250142,29,SavedShot,0.735,0.415,0.013224293477833271,Harry Kane,a,647,OpenPlay,2018,RightFoot,9312,Crystal Palace,Tottenham,0,1,2018-11-10 17:30:00,,TakeOn
+250143,41,MissedShots,0.9619999694824218,0.5509999847412109,0.5479857921600342,Lucas Moura,a,3293,OpenPlay,2018,Head,9312,Crystal Palace,Tottenham,0,1,2018-11-10 17:30:00,Serge Aurier,Cross
+250146,55,MissedShots,0.8080000305175781,0.2879999923706055,0.026040146127343178,Dele Alli,a,645,OpenPlay,2018,RightFoot,9312,Crystal Palace,Tottenham,0,1,2018-11-10 17:30:00,Moussa Sissoko,Pass
+250147,56,MissedShots,0.8109999847412109,0.49900001525878906,0.01940063014626503,Ben Davies,a,660,FromCorner,2018,LeftFoot,9312,Crystal Palace,Tottenham,0,1,2018-11-10 17:30:00,,Aerial
+250148,56,MissedShots,0.9169999694824219,0.4209999847412109,0.02233869582414627,Harry Kane,a,647,FromCorner,2018,Head,9312,Crystal Palace,Tottenham,0,1,2018-11-10 17:30:00,Ben Davies,Aerial
+250149,65,BlockedShot,0.9269999694824219,0.5129999923706055,0.11302652209997177,Harry Kane,a,647,FromCorner,2018,Head,9312,Crystal Palace,Tottenham,0,1,2018-11-10 17:30:00,Erik Lamela,Cross
+250150,65,Goal,0.9740000152587891,0.5520000076293945,0.48204129934310913,Juan Foyth,a,6306,FromCorner,2018,Head,9312,Crystal Palace,Tottenham,0,1,2018-11-10 17:30:00,,Rebound
+250156,91,BlockedShot,0.8430000305175781,0.5029999923706054,0.22009310126304626,Son Heung-Min,a,453,OpenPlay,2018,LeftFoot,9312,Crystal Palace,Tottenham,0,1,2018-11-10 17:30:00,Moussa Sissoko,TakeOn

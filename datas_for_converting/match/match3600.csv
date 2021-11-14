@@ -1,0 +1,33 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+147853,7,SavedShot,0.9319999694824219,0.38799999237060545,0.09675424546003342,Borja Valero,h,1422,OpenPlay,2016,RightFoot,3600,Fiorentina,Torino,2,2,2017-02-27 19:45:00,,BallTouch
+147854,7,Goal,0.9269999694824219,0.48200000762939454,0.536454439163208,Riccardo Saponara,h,1313,OpenPlay,2016,RightFoot,3600,Fiorentina,Torino,2,2,2017-02-27 19:45:00,,Rebound
+147855,10,MissedShots,0.965999984741211,0.575,0.10136397927999496,Nikola Kalinic,h,1425,FromCorner,2016,Head,3600,Fiorentina,Torino,2,2,2017-02-27 19:45:00,Federico Chiesa,Cross
+147857,15,SavedShot,0.8109999847412109,0.620999984741211,0.3093664050102234,Nikola Kalinic,h,1425,OpenPlay,2016,LeftFoot,3600,Fiorentina,Torino,2,2,2017-02-27 19:45:00,,None
+147858,16,MissedShots,0.895,0.524000015258789,0.018005667254328728,Carlos Sánchez,h,667,FromCorner,2016,Head,3600,Fiorentina,Torino,2,2,2017-02-27 19:45:00,Borja Valero,Aerial
+147862,24,MissedShots,0.8969999694824219,0.6909999847412109,0.09552209824323654,Cristian Tello,h,1421,OpenPlay,2016,LeftFoot,3600,Fiorentina,Torino,2,2,2017-02-27 19:45:00,Federico Chiesa,Pass
+147863,26,MissedShots,0.77,0.715,0.01992790587246418,Cristian Tello,h,1421,OpenPlay,2016,RightFoot,3600,Fiorentina,Torino,2,2,2017-02-27 19:45:00,Borja Valero,Chipped
+147864,31,SavedShot,0.8819999694824219,0.6730000305175782,0.2970314025878906,Cristian Tello,h,1421,OpenPlay,2016,RightFoot,3600,Fiorentina,Torino,2,2,2017-02-27 19:45:00,Federico Chiesa,Chipped
+147865,31,MissedShots,0.904000015258789,0.649000015258789,0.075889952480793,Nikola Kalinic,h,1425,OpenPlay,2016,LeftFoot,3600,Fiorentina,Torino,2,2,2017-02-27 19:45:00,,Rebound
+147866,33,MissedShots,0.7559999847412109,0.40099998474121096,0.031326550990343094,Riccardo Saponara,h,1313,OpenPlay,2016,RightFoot,3600,Fiorentina,Torino,2,2,2017-02-27 19:45:00,Nikola Kalinic,LayOff
+147868,37,Goal,0.9259999847412109,0.5209999847412109,0.052643805742263794,Nikola Kalinic,h,1425,FromCorner,2016,Head,3600,Fiorentina,Torino,2,2,2017-02-27 19:45:00,Borja Valero,Aerial
+147869,40,MissedShots,0.7219999694824218,0.5129999923706055,0.04759330675005913,Cristian Tello,h,1421,DirectFreekick,2016,RightFoot,3600,Fiorentina,Torino,2,2,2017-02-27 19:45:00,,Standard
+147870,50,MissedShots,0.935,0.365,0.12473328411579132,Riccardo Saponara,h,1313,OpenPlay,2016,RightFoot,3600,Fiorentina,Torino,2,2,2017-02-27 19:45:00,Federico Chiesa,Pass
+147871,54,SavedShot,0.7780000305175782,0.5879999923706055,0.032406266778707504,Federico Chiesa,h,1433,OpenPlay,2016,LeftFoot,3600,Fiorentina,Torino,2,2,2017-02-27 19:45:00,Cristian Tello,Pass
+147872,56,SavedShot,0.765,0.5129999923706055,0.04421346262097359,Cristian Tello,h,1421,OpenPlay,2016,RightFoot,3600,Fiorentina,Torino,2,2,2017-02-27 19:45:00,Nikola Kalinic,LayOff
+147874,62,MissedShots,0.759000015258789,0.39799999237060546,0.034796640276908875,Federico Chiesa,h,1433,OpenPlay,2016,RightFoot,3600,Fiorentina,Torino,2,2,2017-02-27 19:45:00,Borja Valero,TakeOn
+147878,78,BlockedShot,0.855999984741211,0.6,0.08689827471971512,Nikola Kalinic,h,1425,OpenPlay,2016,LeftFoot,3600,Fiorentina,Torino,2,2,2017-02-27 19:45:00,Borja Valero,Chipped
+147882,85,BlockedShot,0.8969999694824219,0.639000015258789,0.05530255660414696,Cristian Tello,h,1421,OpenPlay,2016,LeftFoot,3600,Fiorentina,Torino,2,2,2017-02-27 19:45:00,Sebastián Cristóforo,Cross
+147884,93,MissedShots,0.7780000305175782,0.5609999847412109,0.03324374184012413,Milan Badelj,h,1430,OpenPlay,2016,LeftFoot,3600,Fiorentina,Torino,2,2,2017-02-27 19:45:00,,Dispossessed
+147856,12,SavedShot,0.7440000152587891,0.5179999923706055,0.02066413313150406,Lucas Boyé,a,1189,OpenPlay,2016,RightFoot,3600,Fiorentina,Torino,2,2,2017-02-27 19:45:00,Daniele Baselli,Pass
+147859,17,BlockedShot,0.7869999694824219,0.33099998474121095,0.02306271903216839,Iago Falque,a,1185,OpenPlay,2016,LeftFoot,3600,Fiorentina,Torino,2,2,2017-02-27 19:45:00,Marco Benassi,TakeOn
+147860,22,BlockedShot,0.889000015258789,0.46599998474121096,0.11183257400989532,Marco Benassi,a,1183,OpenPlay,2016,RightFoot,3600,Fiorentina,Torino,2,2,2017-02-27 19:45:00,Lucas Boyé,Pass
+147861,22,MissedShots,0.7380000305175781,0.710999984741211,0.01224253699183464,Marco Benassi,a,1183,FromCorner,2016,LeftFoot,3600,Fiorentina,Torino,2,2,2017-02-27 19:45:00,,Aerial
+147867,35,BlockedShot,0.7930000305175782,0.7080000305175781,0.01857863739132881,Lucas Boyé,a,1189,OpenPlay,2016,RightFoot,3600,Fiorentina,Torino,2,2,2017-02-27 19:45:00,Daniele Baselli,Pass
+147873,61,ShotOnPost,0.885,0.5,0.7612988352775574,Andrea Belotti,a,1186,Penalty,2016,RightFoot,3600,Fiorentina,Torino,2,2,2017-02-27 19:45:00,,Standard
+147875,64,Goal,0.9630000305175781,0.515,0.533379852771759,Andrea Belotti,a,1186,FromCorner,2016,Head,3600,Fiorentina,Torino,2,2,2017-02-27 19:45:00,Emiliano Moretti,Chipped
+147876,67,MissedShots,0.66,0.57,0.01178447250276804,Sasa Lukic,a,1537,OpenPlay,2016,RightFoot,3600,Fiorentina,Torino,2,2,2017-02-27 19:45:00,Lucas Boyé,Pass
+147877,75,SavedShot,0.7680000305175781,0.475,0.01958281733095646,Daniele Baselli,a,1182,SetPiece,2016,RightFoot,3600,Fiorentina,Torino,2,2,2017-02-27 19:45:00,,None
+147879,83,BlockedShot,0.9,0.47400001525878904,0.09681933373212814,Daniele Baselli,a,1182,OpenPlay,2016,RightFoot,3600,Fiorentina,Torino,2,2,2017-02-27 19:45:00,Iago Falque,Cross
+147880,84,BlockedShot,0.855,0.5129999923706055,0.06348983943462372,Iago Falque,a,1185,OpenPlay,2016,LeftFoot,3600,Fiorentina,Torino,2,2,2017-02-27 19:45:00,,None
+147881,84,Goal,0.955,0.4279999923706055,0.4029912054538727,Andrea Belotti,a,1186,OpenPlay,2016,RightFoot,3600,Fiorentina,Torino,2,2,2017-02-27 19:45:00,Daniele Baselli,Chipped
+147883,91,SavedShot,0.7580000305175781,0.7319999694824219,0.01751711033284664,Adem Ljajic,a,1187,OpenPlay,2016,RightFoot,3600,Fiorentina,Torino,2,2,2017-02-27 19:45:00,Daniele Baselli,Pass

@@ -1,0 +1,27 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+330239,8,BlockedShot,0.8619999694824219,0.4620000076293945,0.10314728319644928,Simon Terodde,h,6090,OpenPlay,2019,LeftFoot,12498,FC Cologne,Hoffenheim,1,2,2019-11-08 19:30:00,Louis Schaub,Pass
+330243,30,SavedShot,0.9540000152587891,0.539000015258789,0.17453588545322418,Simon Terodde,h,6090,SetPiece,2019,OtherBodyPart,12498,FC Cologne,Hoffenheim,1,2,2019-11-08 19:30:00,Louis Schaub,Cross
+330244,33,Goal,0.7559999847412109,0.46099998474121096,0.024305958300828934,Jhon Córdoba,h,48,OpenPlay,2019,RightFoot,12498,FC Cologne,Hoffenheim,1,2,2019-11-08 19:30:00,Louis Schaub,Pass
+330249,49,MissedShots,0.794000015258789,0.40599998474121096,0.037382613867521286,Jhon Córdoba,h,48,OpenPlay,2019,RightFoot,12498,FC Cologne,Hoffenheim,1,2,2019-11-08 19:30:00,Louis Schaub,Pass
+330253,63,BlockedShot,0.665,0.5690000152587891,0.01129399798810482,Ismail Jakobs,h,8146,OpenPlay,2019,LeftFoot,12498,FC Cologne,Hoffenheim,1,2,2019-11-08 19:30:00,Kingsley Ehizibue,Pass
+330254,66,BlockedShot,0.7269999694824218,0.2539999961853027,0.013431341387331486,Kingsley Ehizibue,h,7785,OpenPlay,2019,RightFoot,12498,FC Cologne,Hoffenheim,1,2,2019-11-08 19:30:00,Louis Schaub,Pass
+330255,70,BlockedShot,0.919000015258789,0.38599998474121094,0.11055030673742294,Simon Terodde,h,6090,OpenPlay,2019,RightFoot,12498,FC Cologne,Hoffenheim,1,2,2019-11-08 19:30:00,Kingsley Ehizibue,Pass
+330259,81,MissedShots,0.9080000305175782,0.34200000762939453,0.06539151072502136,Simon Terodde,h,6090,OpenPlay,2019,RightFoot,12498,FC Cologne,Hoffenheim,1,2,2019-11-08 19:30:00,Dominick Drexler,Chipped
+330260,84,SavedShot,0.759000015258789,0.585,0.021727846935391426,Dominick Drexler,h,7789,SetPiece,2019,RightFoot,12498,FC Cologne,Hoffenheim,1,2,2019-11-08 19:30:00,Jonas Hector,Pass
+330261,86,MissedShots,0.885,0.27100000381469724,0.027287229895591736,Kingsley Schindler,h,7788,SetPiece,2019,LeftFoot,12498,FC Cologne,Hoffenheim,1,2,2019-11-08 19:30:00,Rafael Czichos,HeadPass
+330263,92,MissedShots,0.9009999847412109,0.30100000381469727,0.04967748001217842,Kingsley Schindler,h,7788,OpenPlay,2019,LeftFoot,12498,FC Cologne,Hoffenheim,1,2,2019-11-08 19:30:00,,None
+330240,19,BlockedShot,0.9590000152587891,0.395,0.12366250902414322,Pavel Kaderábek,a,74,OpenPlay,2019,RightFoot,12498,FC Cologne,Hoffenheim,1,2,2019-11-08 19:30:00,Florian Grillitsch,Pass
+330241,20,BlockedShot,0.745999984741211,0.3729999923706055,0.017164871096611023,Benjamin Hübner,a,251,OpenPlay,2019,LeftFoot,12498,FC Cologne,Hoffenheim,1,2,2019-11-08 19:30:00,Jürgen Locadia,Pass
+330242,27,MissedShots,0.8519999694824218,0.3579999923706055,0.06429679691791534,Sebastian Rudy,a,90,OpenPlay,2019,RightFoot,12498,FC Cologne,Hoffenheim,1,2,2019-11-08 19:30:00,Ihlas Bebou,Pass
+330245,39,MissedShots,0.6980000305175781,0.5670000076293945,0.012700769118964672,Sebastian Rudy,a,90,FromCorner,2019,RightFoot,12498,FC Cologne,Hoffenheim,1,2,2019-11-08 19:30:00,,None
+330246,46,SavedShot,0.93,0.46599998474121096,0.12169941514730453,Jürgen Locadia,a,6542,OpenPlay,2019,Head,12498,FC Cologne,Hoffenheim,1,2,2019-11-08 19:30:00,Sebastian Rudy,Cross
+330247,47,Goal,0.899000015258789,0.54,0.3003338575363159,Sargis Adamyan,a,7900,OpenPlay,2019,LeftFoot,12498,FC Cologne,Hoffenheim,1,2,2019-11-08 19:30:00,Sebastian Rudy,Chipped
+330248,48,SavedShot,0.8859999847412109,0.5279999923706055,0.08087775111198425,Sargis Adamyan,a,7900,OpenPlay,2019,RightFoot,12498,FC Cologne,Hoffenheim,1,2,2019-11-08 19:30:00,Pavel Kaderábek,Cross
+330250,52,BlockedShot,0.8030000305175782,0.30700000762939456,0.011692110449075699,Sebastian Rudy,a,90,SetPiece,2019,RightFoot,12498,FC Cologne,Hoffenheim,1,2,2019-11-08 19:30:00,,Aerial
+330251,53,SavedShot,0.7430000305175781,0.27700000762939453,0.040420327335596085,Robert Skov,a,7867,DirectFreekick,2019,LeftFoot,12498,FC Cologne,Hoffenheim,1,2,2019-11-08 19:30:00,,Standard
+330252,60,MissedShots,0.795,0.6020000076293945,0.028459081426262856,Jürgen Locadia,a,6542,OpenPlay,2019,RightFoot,12498,FC Cologne,Hoffenheim,1,2,2019-11-08 19:30:00,Sargis Adamyan,HeadPass
+330256,74,MissedShots,0.754000015258789,0.67,0.01490203570574522,Florian Grillitsch,a,116,FromCorner,2019,RightFoot,12498,FC Cologne,Hoffenheim,1,2,2019-11-08 19:30:00,,None
+330257,74,BlockedShot,0.7080000305175781,0.43099998474121093,0.015040120109915733,Sebastian Rudy,a,90,OpenPlay,2019,RightFoot,12498,FC Cologne,Hoffenheim,1,2,2019-11-08 19:30:00,Jürgen Locadia,Pass
+330258,76,MissedShots,0.749000015258789,0.2610000038146973,0.017155300825834274,Robert Skov,a,7867,OpenPlay,2019,LeftFoot,12498,FC Cologne,Hoffenheim,1,2,2019-11-08 19:30:00,Sebastian Rudy,Pass
+330262,91,MissedShots,0.695,0.6630000305175782,0.012922150082886219,Benjamin Hübner,a,251,OpenPlay,2019,LeftFoot,12498,FC Cologne,Hoffenheim,1,2,2019-11-08 19:30:00,Florian Grillitsch,Pass
+330264,97,Goal,0.885,0.5,0.75777667760849,Jürgen Locadia,a,6542,Penalty,2019,RightFoot,12498,FC Cologne,Hoffenheim,1,2,2019-11-08 19:30:00,,Standard

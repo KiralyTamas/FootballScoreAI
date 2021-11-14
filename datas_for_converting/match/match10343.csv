@@ -1,0 +1,33 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+220311,26,BlockedShot,0.8680000305175781,0.38599998474121094,0.08753613382577896,Raffael,h,210,OpenPlay,2018,RightFoot,10343,Borussia M.Gladbach,Bayer Leverkusen,2,0,2018-08-25 19:30:00,Florian Neuhaus,Pass
+220312,27,MissedShots,0.9019999694824219,0.41,0.08509604632854462,Jonas Hofmann,h,320,OpenPlay,2018,RightFoot,10343,Borussia M.Gladbach,Bayer Leverkusen,2,0,2018-08-25 19:30:00,,None
+220315,37,SavedShot,0.885,0.5,0.75777667760849,Thorgan Hazard,h,213,Penalty,2018,RightFoot,10343,Borussia M.Gladbach,Bayer Leverkusen,2,0,2018-08-25 19:30:00,,Standard
+220317,45,SavedShot,0.715,0.34,0.012446536682546139,Jonas Hofmann,h,320,OpenPlay,2018,RightFoot,10343,Borussia M.Gladbach,Bayer Leverkusen,2,0,2018-08-25 19:30:00,Thorgan Hazard,Pass
+220319,51,MissedShots,0.9159999847412109,0.6359999847412109,0.02104896865785122,Raffael,h,210,OpenPlay,2018,Head,10343,Borussia M.Gladbach,Bayer Leverkusen,2,0,2018-08-25 19:30:00,Louis Beyer,Cross
+220320,54,Goal,0.885,0.5,0.75777667760849,Jonas Hofmann,h,320,Penalty,2018,RightFoot,10343,Borussia M.Gladbach,Bayer Leverkusen,2,0,2018-08-25 19:30:00,,Standard
+220321,57,Goal,0.9269999694824219,0.580999984741211,0.46280646324157715,Fabian Johnson,h,327,OpenPlay,2018,RightFoot,10343,Borussia M.Gladbach,Bayer Leverkusen,2,0,2018-08-25 19:30:00,Raffael,Pass
+220324,66,MissedShots,0.7390000152587891,0.47200000762939454,0.023806676268577576,Florian Neuhaus,h,7065,OpenPlay,2018,RightFoot,10343,Borussia M.Gladbach,Bayer Leverkusen,2,0,2018-08-25 19:30:00,Raffael,Pass
+220325,68,SavedShot,0.9530000305175781,0.595999984741211,0.438929945230484,Raffael,h,210,OpenPlay,2018,LeftFoot,10343,Borussia M.Gladbach,Bayer Leverkusen,2,0,2018-08-25 19:30:00,Jonas Hofmann,Dispossessed
+220326,69,BlockedShot,0.8469999694824218,0.6780000305175782,0.04233561456203461,Matthias Ginter,h,315,OpenPlay,2018,RightFoot,10343,Borussia M.Gladbach,Bayer Leverkusen,2,0,2018-08-25 19:30:00,,None
+220327,69,BlockedShot,0.925,0.495,0.1489809900522232,Louis Beyer,h,6557,OpenPlay,2018,RightFoot,10343,Borussia M.Gladbach,Bayer Leverkusen,2,0,2018-08-25 19:30:00,Raffael,Rebound
+220328,69,BlockedShot,0.909000015258789,0.4520000076293945,0.13596327602863312,Raffael,h,210,OpenPlay,2018,RightFoot,10343,Borussia M.Gladbach,Bayer Leverkusen,2,0,2018-08-25 19:30:00,,Rebound
+220329,69,BlockedShot,0.9159999847412109,0.555,0.01961926929652691,Jonas Hofmann,h,320,OpenPlay,2018,Head,10343,Borussia M.Gladbach,Bayer Leverkusen,2,0,2018-08-25 19:30:00,,Rebound
+220332,82,MissedShots,0.850999984741211,0.3189999961853027,0.04518234357237816,Louis Beyer,h,6557,OpenPlay,2018,RightFoot,10343,Borussia M.Gladbach,Bayer Leverkusen,2,0,2018-08-25 19:30:00,,None
+220333,83,SavedShot,0.9290000152587891,0.6719999694824219,0.08562155067920685,Jonas Hofmann,h,320,OpenPlay,2018,LeftFoot,10343,Borussia M.Gladbach,Bayer Leverkusen,2,0,2018-08-25 19:30:00,Thorgan Hazard,Pass
+220335,88,BlockedShot,0.9390000152587891,0.5429999923706055,0.06286299973726273,Matthias Ginter,h,315,FromCorner,2018,Head,10343,Borussia M.Gladbach,Bayer Leverkusen,2,0,2018-08-25 19:30:00,Thorgan Hazard,Aerial
+220336,89,BlockedShot,0.8959999847412109,0.4209999847412109,0.13774412870407104,Denis Zakaria,h,6147,OpenPlay,2018,RightFoot,10343,Borussia M.Gladbach,Bayer Leverkusen,2,0,2018-08-25 19:30:00,Alassane Pléa,Pass
+220339,92,SavedShot,0.884000015258789,0.6959999847412109,0.053519655019044876,Alassane Pléa,h,3310,OpenPlay,2018,LeftFoot,10343,Borussia M.Gladbach,Bayer Leverkusen,2,0,2018-08-25 19:30:00,,None
+220308,6,SavedShot,0.9230000305175782,0.7390000152587891,0.03793107718229294,Leon Bailey,a,5221,OpenPlay,2018,RightFoot,10343,Borussia M.Gladbach,Bayer Leverkusen,2,0,2018-08-25 19:30:00,Kai Havertz,Pass
+220309,16,ShotOnPost,0.9469999694824218,0.5690000152587891,0.3444992005825043,Leon Bailey,a,5221,OpenPlay,2018,Head,10343,Borussia M.Gladbach,Bayer Leverkusen,2,0,2018-08-25 19:30:00,Kevin Volland,Chipped
+220310,16,BlockedShot,0.749000015258789,0.54,0.024241244420409203,Lucas Alario,a,6338,OpenPlay,2018,RightFoot,10343,Borussia M.Gladbach,Bayer Leverkusen,2,0,2018-08-25 19:30:00,Leon Bailey,Pass
+220313,32,BlockedShot,0.9230000305175782,0.5729999923706055,0.13499800860881805,Kevin Volland,a,83,OpenPlay,2018,LeftFoot,10343,Borussia M.Gladbach,Bayer Leverkusen,2,0,2018-08-25 19:30:00,Julian Brandt,Pass
+220314,33,MissedShots,0.7269999694824218,0.5709999847412109,0.017152709886431694,Dominik Kohr,a,269,OpenPlay,2018,RightFoot,10343,Borussia M.Gladbach,Bayer Leverkusen,2,0,2018-08-25 19:30:00,Leon Bailey,Pass
+220316,44,MissedShots,0.7569999694824219,0.6419999694824219,0.02074488438665867,Wendell,a,185,OpenPlay,2018,LeftFoot,10343,Borussia M.Gladbach,Bayer Leverkusen,2,0,2018-08-25 19:30:00,Julian Brandt,Pass
+220318,48,MissedShots,0.8,0.485,0.04160543531179428,Dominik Kohr,a,269,OpenPlay,2018,LeftFoot,10343,Borussia M.Gladbach,Bayer Leverkusen,2,0,2018-08-25 19:30:00,Lucas Alario,Pass
+220322,63,MissedShots,0.8009999847412109,0.7819999694824219,0.009687015786767006,Leon Bailey,a,5221,OpenPlay,2018,LeftFoot,10343,Borussia M.Gladbach,Bayer Leverkusen,2,0,2018-08-25 19:30:00,Wendell,TakeOn
+220323,65,SavedShot,0.8380000305175781,0.7230000305175781,0.027619244530797005,Kevin Volland,a,83,OpenPlay,2018,LeftFoot,10343,Borussia M.Gladbach,Bayer Leverkusen,2,0,2018-08-25 19:30:00,Leon Bailey,TakeOn
+220330,70,MissedShots,0.905,0.5509999847412109,0.06377729028463364,Lucas Alario,a,6338,FromCorner,2018,Head,10343,Borussia M.Gladbach,Bayer Leverkusen,2,0,2018-08-25 19:30:00,Leon Bailey,Cross
+220331,76,MissedShots,0.8619999694824219,0.34,0.05694189667701721,Leon Bailey,a,5221,OpenPlay,2018,LeftFoot,10343,Borussia M.Gladbach,Bayer Leverkusen,2,0,2018-08-25 19:30:00,Dominik Kohr,Pass
+220334,85,SavedShot,0.91,0.555,0.08303298056125641,Lucas Alario,a,6338,OpenPlay,2018,Head,10343,Borussia M.Gladbach,Bayer Leverkusen,2,0,2018-08-25 19:30:00,Mitchell Weiser,Cross
+220337,90,BlockedShot,0.9219999694824219,0.4620000076293945,0.1224355697631836,Isaac Thelin,a,3712,OpenPlay,2018,RightFoot,10343,Borussia M.Gladbach,Bayer Leverkusen,2,0,2018-08-25 19:30:00,Karim Bellarabi,Pass
+220338,91,MissedShots,0.865999984741211,0.524000015258789,0.07308173179626465,Jonathan Tah,a,183,FromCorner,2018,RightFoot,10343,Borussia M.Gladbach,Bayer Leverkusen,2,0,2018-08-25 19:30:00,,None

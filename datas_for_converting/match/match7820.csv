@@ -1,0 +1,27 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+209764,6,BlockedShot,0.749000015258789,0.509000015258789,0.02509886771440506,Fabio Quagliarella,h,1230,OpenPlay,2017,RightFoot,7820,Sampdoria,Bologna,1,0,2018-04-18 18:45:00,Dawid Kownacki,HeadPass
+209765,11,MissedShots,0.8,0.620999984741211,0.03742598742246628,Gianluca Caprari,h,1170,OpenPlay,2017,RightFoot,7820,Sampdoria,Bologna,1,0,2018-04-18 18:45:00,,BallTouch
+209766,13,MissedShots,0.894000015258789,0.6780000305175782,0.1175597608089447,Dawid Kownacki,h,6190,OpenPlay,2017,LeftFoot,7820,Sampdoria,Bologna,1,0,2018-04-18 18:45:00,Fabio Quagliarella,Throughball
+209768,26,MissedShots,0.9330000305175781,0.25299999237060544,0.03821669518947601,Fabio Quagliarella,h,1230,OpenPlay,2017,RightFoot,7820,Sampdoria,Bologna,1,0,2018-04-18 18:45:00,Gianmarco Ferrari,Chipped
+209769,29,BlockedShot,0.9480000305175781,0.2879999923706055,0.14518103003501892,Fabio Quagliarella,h,1230,OpenPlay,2017,RightFoot,7820,Sampdoria,Bologna,1,0,2018-04-18 18:45:00,,TakeOn
+209771,43,MissedShots,0.785,0.6790000152587891,0.024558106437325478,Dawid Kownacki,h,6190,FromCorner,2017,RightFoot,7820,Sampdoria,Bologna,1,0,2018-04-18 18:45:00,Gianluca Caprari,Pass
+209776,56,MissedShots,0.89,0.75,0.030661091208457947,Dawid Kownacki,h,6190,OpenPlay,2017,RightFoot,7820,Sampdoria,Bologna,1,0,2018-04-18 18:45:00,Dennis Praet,Chipped
+209777,61,BlockedShot,0.8919999694824219,0.4,0.10529735684394836,Gianluca Caprari,h,1170,OpenPlay,2017,LeftFoot,7820,Sampdoria,Bologna,1,0,2018-04-18 18:45:00,Bartosz Bereszynski,Pass
+209779,64,MissedShots,0.960999984741211,0.6819999694824219,0.07028364390134811,Gianluca Caprari,h,1170,OpenPlay,2017,LeftFoot,7820,Sampdoria,Bologna,1,0,2018-04-18 18:45:00,Duván Zapata,Pass
+209780,77,MissedShots,0.725999984741211,0.48400001525878905,0.01460957806557417,Bartosz Bereszynski,h,4907,FromCorner,2017,RightFoot,7820,Sampdoria,Bologna,1,0,2018-04-18 18:45:00,,None
+209783,85,BlockedShot,0.9340000152587891,0.3770000076293945,0.1068432554602623,Dennis Praet,h,1234,OpenPlay,2017,RightFoot,7820,Sampdoria,Bologna,1,0,2018-04-18 18:45:00,Gastón Ramírez,Pass
+209784,86,ShotOnPost,0.919000015258789,0.5209999847412109,0.1141228899359703,Duván Zapata,h,1148,OpenPlay,2017,LeftFoot,7820,Sampdoria,Bologna,1,0,2018-04-18 18:45:00,Gianmarco Ferrari,HeadPass
+209785,86,MissedShots,0.885,0.4420000076293945,0.04119310900568962,Valerio Verre,h,1569,OpenPlay,2017,Head,7820,Sampdoria,Bologna,1,0,2018-04-18 18:45:00,Duván Zapata,Cross
+209786,88,MissedShots,0.8919999694824219,0.4909999847412109,0.26337942481040955,Fabio Quagliarella,h,1230,OpenPlay,2017,Head,7820,Sampdoria,Bologna,1,0,2018-04-18 18:45:00,Valerio Verre,Chipped
+209787,92,BlockedShot,0.895,0.4809999847412109,0.08941156417131424,Duván Zapata,h,1148,SetPiece,2017,LeftFoot,7820,Sampdoria,Bologna,1,0,2018-04-18 18:45:00,Fabio Quagliarella,HeadPass
+209788,92,Goal,0.9169999694824219,0.48400001525878905,0.13274359703063965,Duván Zapata,h,1148,SetPiece,2017,RightFoot,7820,Sampdoria,Bologna,1,0,2018-04-18 18:45:00,,Rebound
+209763,5,MissedShots,0.755,0.775,0.009051608853042126,Simone Verdi,a,1445,OpenPlay,2017,LeftFoot,7820,Sampdoria,Bologna,1,0,2018-04-18 18:45:00,Adam Masina,HeadPass
+209767,20,MissedShots,0.7709999847412109,0.46900001525878904,0.027990933507680893,Federico Di Francesco,a,1449,OpenPlay,2017,RightFoot,7820,Sampdoria,Bologna,1,0,2018-04-18 18:45:00,,None
+209770,39,MissedShots,0.7369999694824219,0.5520000076293945,0.018444735556840897,Simone Verdi,a,1445,OpenPlay,2017,LeftFoot,7820,Sampdoria,Bologna,1,0,2018-04-18 18:45:00,Felipe Avenatti,LayOff
+209772,52,BlockedShot,0.7730000305175782,0.37099998474121093,0.02428070455789566,Simone Verdi,a,1445,OpenPlay,2017,LeftFoot,7820,Sampdoria,Bologna,1,0,2018-04-18 18:45:00,Ádám Nagy,Pass
+209773,53,MissedShots,0.8090000152587891,0.5179999923706055,0.06242436170578003,Simone Verdi,a,1445,OpenPlay,2017,LeftFoot,7820,Sampdoria,Bologna,1,0,2018-04-18 18:45:00,Felipe Avenatti,LayOff
+209774,55,BlockedShot,0.7769999694824219,0.705999984741211,0.05375738441944122,Simone Verdi,a,1445,DirectFreekick,2017,LeftFoot,7820,Sampdoria,Bologna,1,0,2018-04-18 18:45:00,,Standard
+209775,56,BlockedShot,0.84,0.6940000152587891,0.024144725874066353,Filip Helander,a,1440,FromCorner,2017,LeftFoot,7820,Sampdoria,Bologna,1,0,2018-04-18 18:45:00,,None
+209778,62,MissedShots,0.895,0.5459999847412109,0.03552601486444473,Felipe Avenatti,a,6530,OpenPlay,2017,Head,7820,Sampdoria,Bologna,1,0,2018-04-18 18:45:00,Simone Verdi,Aerial
+209781,78,SavedShot,0.7119999694824218,0.5179999923706055,0.014266940765082836,Rodrigo Palacio,a,1518,OpenPlay,2017,RightFoot,7820,Sampdoria,Bologna,1,0,2018-04-18 18:45:00,,Dispossessed
+209782,81,SavedShot,0.8569999694824219,0.35400001525878905,0.05315098166465759,Blerim Dzemaili,a,1444,OpenPlay,2017,RightFoot,7820,Sampdoria,Bologna,1,0,2018-04-18 18:45:00,,None

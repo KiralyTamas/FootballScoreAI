@@ -1,0 +1,32 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+197656,4,Goal,0.8590000152587891,0.6179999923706054,0.3610776364803314,Luis Suárez,h,2098,OpenPlay,2017,LeftFoot,8122,Barcelona,Girona,6,1,2018-02-24 19:45:00,Lionel Messi,Throughball
+197659,10,SavedShot,0.7909999847412109,0.655,0.08483896404504776,Lionel Messi,h,2097,DirectFreekick,2017,LeftFoot,8122,Barcelona,Girona,6,1,2018-02-24 19:45:00,,Standard
+197660,18,BlockedShot,0.865,0.5479999923706055,0.2930457293987274,Lionel Messi,h,2097,OpenPlay,2017,LeftFoot,8122,Barcelona,Girona,6,1,2018-02-24 19:45:00,Luis Suárez,Chipped
+197661,19,MissedShots,0.9130000305175782,0.4,0.04987882450222969,Luis Suárez,h,2098,FromCorner,2017,RightFoot,8122,Barcelona,Girona,6,1,2018-02-24 19:45:00,Philippe Coutinho,Cross
+197662,19,MissedShots,0.775,0.59,0.033233072608709335,Ousmane Dembélé,h,3226,OpenPlay,2017,LeftFoot,8122,Barcelona,Girona,6,1,2018-02-24 19:45:00,Ivan Rakitic,Chipped
+197663,25,SavedShot,0.919000015258789,0.29200000762939454,0.0422627218067646,Luis Suárez,h,2098,OpenPlay,2017,RightFoot,8122,Barcelona,Girona,6,1,2018-02-24 19:45:00,Nélson Semedo,Pass
+197664,25,BlockedShot,0.7809999847412109,0.6609999847412109,0.025770187377929688,Philippe Coutinho,h,488,OpenPlay,2017,RightFoot,8122,Barcelona,Girona,6,1,2018-02-24 19:45:00,Sergio Busquets,Pass
+197665,27,MissedShots,0.7959999847412109,0.49900001525878906,0.04722156003117561,Lionel Messi,h,2097,OpenPlay,2017,LeftFoot,8122,Barcelona,Girona,6,1,2018-02-24 19:45:00,Ousmane Dembélé,Pass
+197666,29,Goal,0.8930000305175781,0.47,0.11494600027799606,Lionel Messi,h,2097,OpenPlay,2017,LeftFoot,8122,Barcelona,Girona,6,1,2018-02-24 19:45:00,Luis Suárez,Pass
+197667,35,Goal,0.7830000305175782,0.5279999923706055,0.1076745092868805,Lionel Messi,h,2097,DirectFreekick,2017,LeftFoot,8122,Barcelona,Girona,6,1,2018-02-24 19:45:00,,Standard
+197671,43,Goal,0.94,0.5029999923706054,0.6354851126670837,Luis Suárez,h,2098,OpenPlay,2017,RightFoot,8122,Barcelona,Girona,6,1,2018-02-24 19:45:00,Philippe Coutinho,Pass
+197673,53,ShotOnPost,0.8780000305175781,0.63,0.0953468531370163,Luis Suárez,h,2098,OpenPlay,2017,RightFoot,8122,Barcelona,Girona,6,1,2018-02-24 19:45:00,Ousmane Dembélé,Pass
+197674,55,SavedShot,0.865,0.649000015258789,0.07773764431476593,Lionel Messi,h,2097,OpenPlay,2017,LeftFoot,8122,Barcelona,Girona,6,1,2018-02-24 19:45:00,,BallRecovery
+197675,56,MissedShots,0.9430000305175781,0.345,0.14220434427261353,Ousmane Dembélé,h,3226,OpenPlay,2017,LeftFoot,8122,Barcelona,Girona,6,1,2018-02-24 19:45:00,Lionel Messi,TakeOn
+197676,58,SavedShot,0.7719999694824219,0.649000015258789,0.038463935256004333,Philippe Coutinho,h,488,OpenPlay,2017,RightFoot,8122,Barcelona,Girona,6,1,2018-02-24 19:45:00,Luis Suárez,Pass
+197677,65,Goal,0.785,0.7,0.021566394716501236,Philippe Coutinho,h,488,OpenPlay,2017,RightFoot,8122,Barcelona,Girona,6,1,2018-02-24 19:45:00,Luis Suárez,Pass
+197679,69,SavedShot,0.8,0.5159999847412109,0.13432307541370392,Lionel Messi,h,2097,DirectFreekick,2017,LeftFoot,8122,Barcelona,Girona,6,1,2018-02-24 19:45:00,,Standard
+197680,70,SavedShot,0.9619999694824218,0.40700000762939453,0.06844426691532135,Ivan Rakitic,h,2094,FromCorner,2017,RightFoot,8122,Barcelona,Girona,6,1,2018-02-24 19:45:00,Ousmane Dembélé,Cross
+197681,74,BlockedShot,0.884000015258789,0.595999984741211,0.09439446032047272,Luis Suárez,h,2098,OpenPlay,2017,RightFoot,8122,Barcelona,Girona,6,1,2018-02-24 19:45:00,,None
+197682,75,Goal,0.9290000152587891,0.500999984741211,0.5076448917388916,Luis Suárez,h,2098,OpenPlay,2017,RightFoot,8122,Barcelona,Girona,6,1,2018-02-24 19:45:00,Ousmane Dembélé,Cross
+197683,81,SavedShot,0.9290000152587891,0.46,0.06434468179941177,Thomas Vermaelen,h,1635,FromCorner,2017,Head,8122,Barcelona,Girona,6,1,2018-02-24 19:45:00,Luis Suárez,HeadPass
+197655,2,Goal,0.91,0.68,0.29752475023269653,Portu,a,6118,OpenPlay,2017,LeftFoot,8122,Barcelona,Girona,6,1,2018-02-24 19:45:00,,None
+197657,6,MissedShots,0.8980000305175782,0.6819999694824219,0.05599399656057358,Anthony Lozano,a,6533,OpenPlay,2017,LeftFoot,8122,Barcelona,Girona,6,1,2018-02-24 19:45:00,,None
+197658,8,MissedShots,0.7040000152587891,0.4809999847412109,0.014858691953122616,Álex Granell,a,6116,OpenPlay,2017,LeftFoot,8122,Barcelona,Girona,6,1,2018-02-24 19:45:00,Anthony Lozano,Pass
+197668,38,SavedShot,0.8780000305175781,0.5,0.0627514123916626,Anthony Lozano,a,6533,OpenPlay,2017,Head,8122,Barcelona,Girona,6,1,2018-02-24 19:45:00,Aday Benítez,Cross
+197669,40,MissedShots,0.825999984741211,0.26,0.018946852535009384,Álex Granell,a,6116,FromCorner,2017,LeftFoot,8122,Barcelona,Girona,6,1,2018-02-24 19:45:00,,None
+197670,41,BlockedShot,0.695,0.5820000076293945,0.013464190065860748,Álex Granell,a,6116,OpenPlay,2017,LeftFoot,8122,Barcelona,Girona,6,1,2018-02-24 19:45:00,Pere Pons,Pass
+197672,52,MissedShots,0.8969999694824219,0.315,0.05032910034060478,Anthony Lozano,a,6533,OpenPlay,2017,RightFoot,8122,Barcelona,Girona,6,1,2018-02-24 19:45:00,Portu,Pass
+197678,67,BlockedShot,0.950999984741211,0.6,0.07398532330989838,Pere Pons,a,6117,OpenPlay,2017,RightFoot,8122,Barcelona,Girona,6,1,2018-02-24 19:45:00,,None
+197684,90,SavedShot,0.7809999847412109,0.47,0.04081033170223236,Aleix García,a,1055,OpenPlay,2017,LeftFoot,8122,Barcelona,Girona,6,1,2018-02-24 19:45:00,Douglas Luiz,BallRecovery
+197685,91,SavedShot,0.9519999694824218,0.43900001525878907,0.12786081433296204,Bernardo,a,1716,FromCorner,2017,Head,8122,Barcelona,Girona,6,1,2018-02-24 19:45:00,Aleix García,Cross

@@ -1,0 +1,25 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+129804,0,Goal,0.955999984741211,0.4329999923706055,0.5559577941894531,Kevin Kampl,h,188,OpenPlay,2016,RightFoot,2815,Bayer Leverkusen,RasenBallsport Leipzig,2,3,2016-11-18 23:30:00,Julian Brandt,Pass
+129805,3,OwnGoal,0.04300000190734863,0.4779999923706055,0,Julian Baumgartlinger,h,42,FromCorner,2016,RightFoot,2815,Bayer Leverkusen,RasenBallsport Leipzig,2,3,2016-11-18 23:30:00,,CornerAwarded
+129806,5,MissedShots,0.8530000305175781,0.4540000152587891,0.04956210404634476,Jonathan Tah,h,183,FromCorner,2016,RightFoot,2815,Bayer Leverkusen,RasenBallsport Leipzig,2,3,2016-11-18 23:30:00,Ömer Toprak,Pass
+129807,8,SavedShot,0.6809999847412109,0.395,0.032010335475206375,Hakan Calhanoglu,h,189,DirectFreekick,2016,RightFoot,2815,Bayer Leverkusen,RasenBallsport Leipzig,2,3,2016-11-18 23:30:00,,Standard
+129808,15,SavedShot,0.7819999694824219,0.5540000152587891,0.03234361112117767,Charles Aránguiz,h,454,OpenPlay,2016,LeftFoot,2815,Bayer Leverkusen,RasenBallsport Leipzig,2,3,2016-11-18 23:30:00,,None
+129809,27,MissedShots,0.7559999847412109,0.5779999923706055,0.017759522423148155,Julian Brandt,h,261,FromCorner,2016,RightFoot,2815,Bayer Leverkusen,RasenBallsport Leipzig,2,3,2016-11-18 23:30:00,,None
+129813,46,Goal,0.9269999694824219,0.6819999694824219,0.10968849807977676,Julian Brandt,h,261,OpenPlay,2016,LeftFoot,2815,Bayer Leverkusen,RasenBallsport Leipzig,2,3,2016-11-18 23:30:00,Hakan Calhanoglu,Chipped
+129814,49,MissedShots,0.9269999694824219,0.4759999847412109,0.06037219613790512,Jonathan Tah,h,183,FromCorner,2016,Head,2815,Bayer Leverkusen,RasenBallsport Leipzig,2,3,2016-11-18 23:30:00,,None
+129815,53,SavedShot,0.885,0.5,0.75777667760849,Hakan Calhanoglu,h,189,Penalty,2016,RightFoot,2815,Bayer Leverkusen,RasenBallsport Leipzig,2,3,2016-11-18 23:30:00,,Standard
+129816,53,BlockedShot,0.855999984741211,0.2879999923706055,0.043748870491981506,Kevin Kampl,h,188,OpenPlay,2016,RightFoot,2815,Bayer Leverkusen,RasenBallsport Leipzig,2,3,2016-11-18 23:30:00,Julian Brandt,Pass
+129821,67,SavedShot,0.870999984741211,0.38,0.08617012202739716,Julian Baumgartlinger,h,42,OpenPlay,2016,RightFoot,2815,Bayer Leverkusen,RasenBallsport Leipzig,2,3,2016-11-18 23:30:00,Kevin Kampl,Pass
+129826,84,BlockedShot,0.9119999694824219,0.3820000076293945,0.09002978354692459,Kevin Volland,h,83,OpenPlay,2016,LeftFoot,2815,Bayer Leverkusen,RasenBallsport Leipzig,2,3,2016-11-18 23:30:00,Julian Brandt,Pass
+129827,85,MissedShots,0.914000015258789,0.41,0.016451600939035416,Charles Aránguiz,h,454,FromCorner,2016,Head,2815,Bayer Leverkusen,RasenBallsport Leipzig,2,3,2016-11-18 23:30:00,Kevin Volland,Aerial
+129810,30,BlockedShot,0.8780000305175781,0.6940000152587891,0.04669691249728203,Marcel Sabitzer,a,5248,OpenPlay,2016,LeftFoot,2815,Bayer Leverkusen,RasenBallsport Leipzig,2,3,2016-11-18 23:30:00,Timo Werner,Pass
+129811,39,MissedShots,0.9080000305175782,0.4779999923706055,0.08087007701396942,Yussuf Poulsen,a,5250,FromCorner,2016,Head,2815,Bayer Leverkusen,RasenBallsport Leipzig,2,3,2016-11-18 23:30:00,Emil Forsberg,Cross
+129812,39,MissedShots,0.8859999847412109,0.759000015258789,0.027487322688102722,Naby Keita,a,5247,FromCorner,2016,LeftFoot,2815,Bayer Leverkusen,RasenBallsport Leipzig,2,3,2016-11-18 23:30:00,Marcel Halstenberg,Pass
+129817,54,BlockedShot,0.845999984741211,0.6270000076293946,0.06040215119719505,Marcel Halstenberg,a,5254,OpenPlay,2016,LeftFoot,2815,Bayer Leverkusen,RasenBallsport Leipzig,2,3,2016-11-18 23:30:00,Timo Werner,Pass
+129818,55,BlockedShot,0.8930000305175781,0.4209999847412109,0.06800014525651932,Naby Keita,a,5247,FromCorner,2016,RightFoot,2815,Bayer Leverkusen,RasenBallsport Leipzig,2,3,2016-11-18 23:30:00,Stefan Ilsanker,BallTouch
+129819,58,BlockedShot,0.9119999694824219,0.39099998474121095,0.0991198867559433,Timo Werner,a,65,OpenPlay,2016,RightFoot,2815,Bayer Leverkusen,RasenBallsport Leipzig,2,3,2016-11-18 23:30:00,Marcel Sabitzer,Pass
+129820,66,Goal,0.755,0.5379999923706055,0.04080428555607796,Emil Forsberg,a,5249,OpenPlay,2016,RightFoot,2815,Bayer Leverkusen,RasenBallsport Leipzig,2,3,2016-11-18 23:30:00,Naby Keita,Pass
+129822,71,SavedShot,0.870999984741211,0.3509999847412109,0.23052188754081726,Timo Werner,a,65,OpenPlay,2016,LeftFoot,2815,Bayer Leverkusen,RasenBallsport Leipzig,2,3,2016-11-18 23:30:00,Marcel Sabitzer,Pass
+129823,76,SavedShot,0.8490000152587891,0.44599998474121094,0.08165693283081055,Marcel Sabitzer,a,5248,OpenPlay,2016,RightFoot,2815,Bayer Leverkusen,RasenBallsport Leipzig,2,3,2016-11-18 23:30:00,Benno Schmitz,Pass
+129824,80,Goal,0.9490000152587891,0.5690000152587891,0.33642467856407166,Willi Orban,a,5257,FromCorner,2016,Head,2815,Bayer Leverkusen,RasenBallsport Leipzig,2,3,2016-11-18 23:30:00,Emil Forsberg,Cross
+129825,84,MissedShots,0.9319999694824219,0.4640000152587891,0.05827608332037926,Willi Orban,a,5257,FromCorner,2016,Head,2815,Bayer Leverkusen,RasenBallsport Leipzig,2,3,2016-11-18 23:30:00,Emil Forsberg,Aerial

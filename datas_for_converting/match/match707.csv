@@ -1,0 +1,17 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+100902,1,MissedShots,0.735,0.27700000762939453,0.010439342819154263,Allan,h,1379,OpenPlay,2015,RightFoot,707,Napoli,Roma,0,0,2015-12-13 21:00:00,,None
+100905,24,MissedShots,0.96,0.7090000152587891,0.04844069108366966,Lorenzo Insigne,h,1393,OpenPlay,2015,LeftFoot,707,Napoli,Roma,0,0,2015-12-13 21:00:00,Marek Hamsik,Pass
+100907,33,MissedShots,0.92,0.7180000305175781,0.046106450259685516,Lorenzo Insigne,h,1393,OpenPlay,2015,LeftFoot,707,Napoli,Roma,0,0,2015-12-13 21:00:00,Marek Hamsik,Pass
+100908,43,BlockedShot,0.74,0.685,0.017737403512001038,Lorenzo Insigne,h,1393,OpenPlay,2015,RightFoot,707,Napoli,Roma,0,0,2015-12-13 21:00:00,Faouzi Ghoulam,Pass
+100909,52,MissedShots,0.91,0.5370000076293945,0.11066058278083801,José Callejón,h,1382,OpenPlay,2015,Head,707,Napoli,Roma,0,0,2015-12-13 21:00:00,Faouzi Ghoulam,Cross
+100910,59,MissedShots,0.865999984741211,0.6780000305175782,0.2888893783092499,Marek Hamsik,h,1381,OpenPlay,2015,LeftFoot,707,Napoli,Roma,0,0,2015-12-13 21:00:00,,None
+100911,63,MissedShots,0.7530000305175781,0.7119999694824218,0.04282180592417717,Lorenzo Insigne,h,1393,DirectFreekick,2015,RightFoot,707,Napoli,Roma,0,0,2015-12-13 21:00:00,,Standard
+100913,84,SavedShot,0.8480000305175781,0.6580000305175782,0.11471138149499893,Marek Hamsik,h,1381,OpenPlay,2015,LeftFoot,707,Napoli,Roma,0,0,2015-12-13 21:00:00,Allan,Throughball
+100914,84,SavedShot,0.919000015258789,0.5829999923706055,0.36629804968833923,Marek Hamsik,h,1381,OpenPlay,2015,RightFoot,707,Napoli,Roma,0,0,2015-12-13 21:00:00,,Rebound
+100915,84,SavedShot,0.905,0.7709999847412109,0.020805034786462784,Dries Mertens,h,1384,OpenPlay,2015,RightFoot,707,Napoli,Roma,0,0,2015-12-13 21:00:00,,Rebound
+100916,91,SavedShot,0.885,0.7280000305175781,0.03726891800761223,Dries Mertens,h,1384,OpenPlay,2015,RightFoot,707,Napoli,Roma,0,0,2015-12-13 21:00:00,Kalidou Koulibaly,Pass
+100917,91,MissedShots,0.955,0.595999984741211,0.38661399483680725,Omar El Kaddouri,h,1385,OpenPlay,2015,LeftFoot,707,Napoli,Roma,0,0,2015-12-13 21:00:00,,Rebound
+100903,4,MissedShots,0.9,0.655,0.06327018141746521,Mohamed Salah,a,1250,OpenPlay,2015,LeftFoot,707,Napoli,Roma,0,0,2015-12-13 21:00:00,Iago Falque,HeadPass
+100904,13,MissedShots,0.9059999847412109,0.55,0.08250999450683594,Edin Dzeko,a,1253,OpenPlay,2015,Head,707,Napoli,Roma,0,0,2015-12-13 21:00:00,Miralem Pjanic,Cross
+100906,26,MissedShots,0.8630000305175781,0.5420000076293945,0.0463363416492939,Kostas Manolas,a,1246,FromCorner,2015,RightFoot,707,Napoli,Roma,0,0,2015-12-13 21:00:00,Iago Falque,Cross
+100912,65,BlockedShot,0.715,0.6279999923706054,0.038721583783626556,Miralem Pjanic,a,1290,DirectFreekick,2015,RightFoot,707,Napoli,Roma,0,0,2015-12-13 21:00:00,,Standard

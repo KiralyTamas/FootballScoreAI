@@ -1,0 +1,24 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+380558,16,ShotOnPost,0.9290000152587891,0.365,0.06269830465316772,Sebastian Andersson,h,7880,OpenPlay,2020,RightFoot,15159,FC Cologne,Borussia M.Gladbach,1,3,2020-10-03 13:30:00,,None
+380560,25,BlockedShot,0.759000015258789,0.475,0.016846394166350365,Elvis Rexhbecaj,h,6445,SetPiece,2020,RightFoot,15159,FC Cologne,Borussia M.Gladbach,1,3,2020-10-03 13:30:00,,None
+380564,58,BlockedShot,0.889000015258789,0.34,0.048072993755340576,Ellyes Skhiri,h,3347,OpenPlay,2020,LeftFoot,15159,FC Cologne,Borussia M.Gladbach,1,3,2020-10-03 13:30:00,,None
+380566,69,MissedShots,0.870999984741211,0.48200000762939454,0.04602022469043732,Marius Wolf,h,2693,SetPiece,2020,Head,15159,FC Cologne,Borussia M.Gladbach,1,3,2020-10-03 13:30:00,Elvis Rexhbecaj,Cross
+380570,82,SavedShot,0.879000015258789,0.49599998474121093,0.016155611723661423,Sebastian Andersson,h,7880,FromCorner,2020,Head,15159,FC Cologne,Borussia M.Gladbach,1,3,2020-10-03 13:30:00,Marius Wolf,Aerial
+380571,83,Goal,0.7480000305175781,0.5279999923706055,0.02263549342751503,Elvis Rexhbecaj,h,6445,OpenPlay,2020,LeftFoot,15159,FC Cologne,Borussia M.Gladbach,1,3,2020-10-03 13:30:00,Sebastiaan Bornauw,BallRecovery
+380573,85,BlockedShot,0.7269999694824218,0.585,0.013263246044516563,Elvis Rexhbecaj,h,6445,OpenPlay,2020,LeftFoot,15159,FC Cologne,Borussia M.Gladbach,1,3,2020-10-03 13:30:00,,BallRecovery
+380574,93,MissedShots,0.764000015258789,0.5709999847412109,0.019266542047262192,Jan Thielmann,h,8205,FromCorner,2020,RightFoot,15159,FC Cologne,Borussia M.Gladbach,1,3,2020-10-03 13:30:00,,None
+380552,3,SavedShot,0.889000015258789,0.39099998474121095,0.2533927261829376,Jonas Hofmann,a,320,OpenPlay,2020,RightFoot,15159,FC Cologne,Borussia M.Gladbach,1,3,2020-10-03 13:30:00,Lars Stindl,OffsidePass
+380553,5,SavedShot,0.88,0.669000015258789,0.2836081385612488,Marcus Thuram,a,5992,OpenPlay,2020,LeftFoot,15159,FC Cologne,Borussia M.Gladbach,1,3,2020-10-03 13:30:00,Matthias Ginter,Chipped
+380554,5,BlockedShot,0.745999984741211,0.605,0.014209296554327011,Lars Stindl,a,208,OpenPlay,2020,RightFoot,15159,FC Cologne,Borussia M.Gladbach,1,3,2020-10-03 13:30:00,,Rebound
+380555,13,Goal,0.83,0.3770000076293945,0.05539269745349884,Alassane Pléa,a,3310,OpenPlay,2020,RightFoot,15159,FC Cologne,Borussia M.Gladbach,1,3,2020-10-03 13:30:00,Jonas Hofmann,Pass
+380556,14,SavedShot,0.914000015258789,0.740999984741211,0.024871766567230225,Ramy Bensebaini,a,3349,SetPiece,2020,LeftFoot,15159,FC Cologne,Borussia M.Gladbach,1,3,2020-10-03 13:30:00,Jonas Hofmann,Pass
+380557,15,Goal,0.9340000152587891,0.3340000152587891,0.012922292575240135,Stefan Lainer,a,7831,FromCorner,2020,Head,15159,FC Cologne,Borussia M.Gladbach,1,3,2020-10-03 13:30:00,Jonas Hofmann,Cross
+380559,22,BlockedShot,0.835,0.534000015258789,0.10674376040697098,Alassane Pléa,a,3310,OpenPlay,2020,RightFoot,15159,FC Cologne,Borussia M.Gladbach,1,3,2020-10-03 13:30:00,Lars Stindl,Pass
+380561,39,BlockedShot,0.740999984741211,0.45,0.02361997216939926,Florian Neuhaus,a,7065,OpenPlay,2020,RightFoot,15159,FC Cologne,Borussia M.Gladbach,1,3,2020-10-03 13:30:00,,BallRecovery
+380562,45,SavedShot,0.8640000152587891,0.5879999923706055,0.08546420931816101,Lars Stindl,a,208,OpenPlay,2020,RightFoot,15159,FC Cologne,Borussia M.Gladbach,1,3,2020-10-03 13:30:00,,None
+380563,55,Goal,0.885,0.5,0.75777667760849,Lars Stindl,a,208,Penalty,2020,RightFoot,15159,FC Cologne,Borussia M.Gladbach,1,3,2020-10-03 13:30:00,,Standard
+380565,60,SavedShot,0.8080000305175781,0.585,0.029336238279938698,Lars Stindl,a,208,SetPiece,2020,RightFoot,15159,FC Cologne,Borussia M.Gladbach,1,3,2020-10-03 13:30:00,Jonas Hofmann,Chipped
+380567,76,BlockedShot,0.8690000152587891,0.34599998474121096,0.08523180335760117,Alassane Pléa,a,3310,OpenPlay,2020,RightFoot,15159,FC Cologne,Borussia M.Gladbach,1,3,2020-10-03 13:30:00,Patrick Herrmann,Pass
+380568,79,SavedShot,0.8780000305175781,0.6509999847412109,0.23977287113666534,Florian Neuhaus,a,7065,OpenPlay,2020,LeftFoot,15159,FC Cologne,Borussia M.Gladbach,1,3,2020-10-03 13:30:00,Alassane Pléa,Pass
+380569,81,SavedShot,0.8909999847412109,0.4879999923706055,0.017985323444008827,Ramy Bensebaini,a,3349,FromCorner,2020,Head,15159,FC Cologne,Borussia M.Gladbach,1,3,2020-10-03 13:30:00,Jonas Hofmann,Aerial
+380572,85,MissedShots,0.8819999694824219,0.3189999961853027,0.0765991136431694,Patrick Herrmann,a,420,OpenPlay,2020,RightFoot,15159,FC Cologne,Borussia M.Gladbach,1,3,2020-10-03 13:30:00,Hannes Wolf,Pass

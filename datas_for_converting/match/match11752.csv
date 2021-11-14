@@ -1,0 +1,30 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+329272,10,MissedShots,0.9519999694824218,0.5,0.11864589899778366,Fabián Balbuena,h,6892,FromCorner,2019,OtherBodyPart,11752,West Ham,Newcastle United,2,3,2019-11-02 15:00:00,Robert Snodgrass,Aerial
+329273,12,MissedShots,0.9259999847412109,0.5429999923706055,0.10205452144145966,Fabián Balbuena,h,6892,FromCorner,2019,RightFoot,11752,West Ham,Newcastle United,2,3,2019-11-02 15:00:00,Robert Snodgrass,Cross
+329280,40,SavedShot,0.875999984741211,0.44599998474121094,0.05266212671995163,Sébastien Haller,h,6144,OpenPlay,2019,RightFoot,11752,West Ham,Newcastle United,2,3,2019-11-02 15:00:00,Felipe Anderson,Cross
+329281,45,SavedShot,0.8930000305175781,0.4929999923706055,0.017919618636369705,Fabián Balbuena,h,6892,FromCorner,2019,Head,11752,West Ham,Newcastle United,2,3,2019-11-02 15:00:00,Robert Snodgrass,Aerial
+329282,45,MissedShots,0.935,0.5459999847412109,0.11118566989898682,Issa Diop,h,3203,FromCorner,2019,Head,11752,West Ham,Newcastle United,2,3,2019-11-02 15:00:00,Robert Snodgrass,Cross
+329285,51,BlockedShot,0.8640000152587891,0.7330000305175781,0.02295086719095707,Felipe Anderson,h,1208,OpenPlay,2019,RightFoot,11752,West Ham,Newcastle United,2,3,2019-11-02 15:00:00,Albian Ajeti,Pass
+329287,52,MissedShots,0.895,0.37900001525878907,0.030727088451385498,Sébastien Haller,h,6144,OpenPlay,2019,Head,11752,West Ham,Newcastle United,2,3,2019-11-02 15:00:00,,Aerial
+329288,60,BlockedShot,0.754000015258789,0.3820000076293945,0.01579296588897705,Manuel Lanzini,h,535,OpenPlay,2019,RightFoot,11752,West Ham,Newcastle United,2,3,2019-11-02 15:00:00,Albian Ajeti,BallTouch
+329289,62,BlockedShot,0.8830000305175781,0.36,0.0808449313044548,Robert Snodgrass,h,1691,OpenPlay,2019,LeftFoot,11752,West Ham,Newcastle United,2,3,2019-11-02 15:00:00,Manuel Lanzini,Pass
+329290,64,BlockedShot,0.909000015258789,0.46700000762939453,0.026581814512610435,Fabián Balbuena,h,6892,FromCorner,2019,Head,11752,West Ham,Newcastle United,2,3,2019-11-02 15:00:00,Robert Snodgrass,Aerial
+329291,65,MissedShots,0.9080000305175782,0.445,0.0754137709736824,Sébastien Haller,h,6144,OpenPlay,2019,RightFoot,11752,West Ham,Newcastle United,2,3,2019-11-02 15:00:00,Felipe Anderson,Chipped
+329292,68,MissedShots,0.735999984741211,0.5659999847412109,0.013011174276471138,Declan Rice,h,5553,OpenPlay,2019,RightFoot,11752,West Ham,Newcastle United,2,3,2019-11-02 15:00:00,Sébastien Haller,Tackle
+329293,70,MissedShots,0.8119999694824219,0.4909999847412109,0.07068319618701935,Sébastien Haller,h,6144,OpenPlay,2019,RightFoot,11752,West Ham,Newcastle United,2,3,2019-11-02 15:00:00,,TakeOn
+329294,72,SavedShot,0.9519999694824218,0.575999984741211,0.09820641577243805,Sébastien Haller,h,6144,FromCorner,2019,Head,11752,West Ham,Newcastle United,2,3,2019-11-02 15:00:00,Felipe Anderson,Cross
+329295,72,Goal,0.9640000152587891,0.49700000762939456,0.7196488976478577,Fabián Balbuena,h,6892,FromCorner,2019,RightFoot,11752,West Ham,Newcastle United,2,3,2019-11-02 15:00:00,,Rebound
+329299,83,SavedShot,0.750999984741211,0.655,0.009890558198094368,Manuel Lanzini,h,535,OpenPlay,2019,RightFoot,11752,West Ham,Newcastle United,2,3,2019-11-02 15:00:00,,None
+329300,89,Goal,0.8480000305175781,0.5179999923706055,0.040425270795822144,Robert Snodgrass,h,1691,OpenPlay,2019,LeftFoot,11752,West Ham,Newcastle United,2,3,2019-11-02 15:00:00,Manuel Lanzini,Chipped
+329274,15,Goal,0.95,0.4929999923706055,0.13063707947731018,Ciaran Clark,a,875,SetPiece,2019,Head,11752,West Ham,Newcastle United,2,3,2019-11-02 15:00:00,Joelinton,HeadPass
+329275,21,Goal,0.8909999847412109,0.4490000152587891,0.1438656449317932,Federico Fernández,a,708,FromCorner,2019,Head,11752,West Ham,Newcastle United,2,3,2019-11-02 15:00:00,Jetro Willems,Chipped
+329276,23,SavedShot,0.884000015258789,0.44799999237060545,0.3299266993999481,Allan Saint-Maximin,a,101,OpenPlay,2019,RightFoot,11752,West Ham,Newcastle United,2,3,2019-11-02 15:00:00,Jetro Willems,Pass
+329277,34,SavedShot,0.8930000305175781,0.5259999847412109,0.5109949111938477,Allan Saint-Maximin,a,101,OpenPlay,2019,RightFoot,11752,West Ham,Newcastle United,2,3,2019-11-02 15:00:00,Isaac Hayden,Chipped
+329278,34,SavedShot,0.9290000152587891,0.3940000152587891,0.4874020218849182,Miguel Almirón,a,7420,OpenPlay,2019,RightFoot,11752,West Ham,Newcastle United,2,3,2019-11-02 15:00:00,Allan Saint-Maximin,Pass
+329279,35,ShotOnPost,0.765,0.5659999847412109,0.027533238753676414,Jonjo Shelvey,a,769,OpenPlay,2019,RightFoot,11752,West Ham,Newcastle United,2,3,2019-11-02 15:00:00,Jetro Willems,Pass
+329283,46,SavedShot,0.735,0.7609999847412109,0.012766274623572826,Allan Saint-Maximin,a,101,OpenPlay,2019,RightFoot,11752,West Ham,Newcastle United,2,3,2019-11-02 15:00:00,Jetro Willems,BallTouch
+329284,50,Goal,0.7130000305175781,0.44,0.041872259229421616,Jonjo Shelvey,a,769,DirectFreekick,2019,RightFoot,11752,West Ham,Newcastle United,2,3,2019-11-02 15:00:00,,Standard
+329286,52,SavedShot,0.799000015258789,0.5729999923706055,0.041600871831178665,Miguel Almirón,a,7420,OpenPlay,2019,LeftFoot,11752,West Ham,Newcastle United,2,3,2019-11-02 15:00:00,,None
+329296,79,MissedShots,0.8530000305175781,0.36700000762939455,0.1209336593747139,Miguel Almirón,a,7420,OpenPlay,2019,RightFoot,11752,West Ham,Newcastle United,2,3,2019-11-02 15:00:00,,BallRecovery
+329297,82,MissedShots,0.8069999694824219,0.754000015258789,0.029522698372602463,Joelinton,a,87,OpenPlay,2019,RightFoot,11752,West Ham,Newcastle United,2,3,2019-11-02 15:00:00,,TakeOn
+329298,83,SavedShot,0.9790000152587891,0.750999984741211,0.05486181378364563,Miguel Almirón,a,7420,OpenPlay,2019,LeftFoot,11752,West Ham,Newcastle United,2,3,2019-11-02 15:00:00,Ciaran Clark,Pass

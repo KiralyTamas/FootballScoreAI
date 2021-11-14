@@ -1,0 +1,26 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+76282,14,MissedShots,0.9230000305175782,0.6020000076293945,0.03890138119459152,Marco Sailer,h,14,OpenPlay,2015,Head,1026,Darmstadt,Hannover 96,2,2,2015-08-15 17:30:00,Marcel Heller,Chipped
+76286,30,Goal,0.875,0.6270000076293946,0.16227774322032928,Marcel Heller,h,6,OpenPlay,2015,RightFoot,1026,Darmstadt,Hannover 96,2,2,2015-08-15 17:30:00,Marco Sailer,TakeOn
+76288,38,BlockedShot,0.6809999847412109,0.5479999923706055,0.008406911976635456,Fabian Holland,h,5,SetPiece,2015,LeftFoot,1026,Darmstadt,Hannover 96,2,2,2015-08-15 17:30:00,,None
+76290,47,BlockedShot,0.8969999694824219,0.34700000762939454,0.08718518912792206,Konstantin Rausch,h,13,OpenPlay,2015,RightFoot,1026,Darmstadt,Hannover 96,2,2,2015-08-15 17:30:00,Marcel Heller,Pass
+76292,53,Goal,0.9169999694824219,0.3120000076293945,0.5297272801399231,Marcel Heller,h,6,OpenPlay,2015,RightFoot,1026,Darmstadt,Hannover 96,2,2,2015-08-15 17:30:00,,TakeOn
+76295,61,OwnGoal,0.02700000047683716,0.48,0,Aytac Sulu,h,4,SetPiece,2015,LeftFoot,1026,Darmstadt,Hannover 96,2,2,2015-08-15 17:30:00,,None
+76298,69,SavedShot,0.9069999694824219,0.44099998474121094,0.2024497389793396,Marco Sailer,h,14,OpenPlay,2015,Head,1026,Darmstadt,Hannover 96,2,2,2015-08-15 17:30:00,Florian Jungwirth,Cross
+76299,69,MissedShots,0.8519999694824218,0.47400001525878904,0.0735616683959961,Jérôme Gondorf,h,8,OpenPlay,2015,LeftFoot,1026,Darmstadt,Hannover 96,2,2,2015-08-15 17:30:00,,Rebound
+76300,74,BlockedShot,0.9390000152587891,0.5459999847412109,0.0801514983177185,Tobias Kempe,h,9,OpenPlay,2015,Head,1026,Darmstadt,Hannover 96,2,2,2015-08-15 17:30:00,Dominik Stroh-Engel,HeadPass
+76301,74,MissedShots,0.899000015258789,0.5709999847412109,0.05082698166370392,Jérôme Gondorf,h,8,OpenPlay,2015,RightFoot,1026,Darmstadt,Hannover 96,2,2,2015-08-15 17:30:00,Dominik Stroh-Engel,Aerial
+76302,76,SavedShot,0.8090000152587891,0.25,0.020500225946307182,Tobias Kempe,h,9,SetPiece,2015,LeftFoot,1026,Darmstadt,Hannover 96,2,2,2015-08-15 17:30:00,Luca Caldirola,Pass
+76303,80,ShotOnPost,0.9690000152587891,0.515,0.5700275301933289,Dominik Stroh-Engel,h,16,FromCorner,2015,Head,1026,Darmstadt,Hannover 96,2,2,2015-08-15 17:30:00,Aytac Sulu,Pass
+76280,1,SavedShot,0.9119999694824219,0.515,0.05742918699979782,Marcelo,a,93,SetPiece,2015,Head,1026,Darmstadt,Hannover 96,2,2,2015-08-15 17:30:00,Oliver Sorg,Pass
+76281,5,MissedShots,0.779000015258789,0.5570000076293945,0.02642887830734253,Kenan Karaman,a,98,SetPiece,2015,RightFoot,1026,Darmstadt,Hannover 96,2,2,2015-08-15 17:30:00,Felix Klaus,HeadPass
+76283,21,SavedShot,0.8319999694824218,0.2989999961853027,0.02737741358578205,Manuel Schmiedebach,a,108,SetPiece,2015,RightFoot,1026,Darmstadt,Hannover 96,2,2,2015-08-15 17:30:00,,TakeOn
+76284,27,ShotOnPost,0.9269999694824219,0.49700000762939456,0.3712210953235626,Kenan Karaman,a,98,FromCorner,2015,Head,1026,Darmstadt,Hannover 96,2,2,2015-08-15 17:30:00,Miiko Albornoz,Cross
+76285,30,BlockedShot,0.725,0.41200000762939454,0.016425713896751404,Manuel Schmiedebach,a,108,FromCorner,2015,RightFoot,1026,Darmstadt,Hannover 96,2,2,2015-08-15 17:30:00,Kenan Karaman,Dispossessed
+76287,32,MissedShots,0.7180000305175781,0.425,0.015977388247847557,Salif Sané,a,96,OpenPlay,2015,LeftFoot,1026,Darmstadt,Hannover 96,2,2,2015-08-15 17:30:00,Felix Klaus,Pass
+76289,40,BlockedShot,0.7090000152587891,0.5609999847412109,0.015443475916981697,Salif Sané,a,96,OpenPlay,2015,RightFoot,1026,Darmstadt,Hannover 96,2,2,2015-08-15 17:30:00,Manuel Schmiedebach,Pass
+76291,47,Goal,0.8919999694824219,0.445,0.41241365671157837,Charlison Benschop,a,103,OpenPlay,2015,RightFoot,1026,Darmstadt,Hannover 96,2,2,2015-08-15 17:30:00,Mevlüt Erdinc,Pass
+76293,55,MissedShots,0.9230000305175782,0.4909999847412109,0.05351731926202774,Mevlüt Erdinc,a,104,FromCorner,2015,Head,1026,Darmstadt,Hannover 96,2,2,2015-08-15 17:30:00,Miiko Albornoz,Aerial
+76294,58,SavedShot,0.885,0.5,0.75777667760849,Mevlüt Erdinc,a,104,Penalty,2015,RightFoot,1026,Darmstadt,Hannover 96,2,2,2015-08-15 17:30:00,,Standard
+76296,63,MissedShots,0.91,0.495,0.035263918340206146,Salif Sané,a,96,FromCorner,2015,Head,1026,Darmstadt,Hannover 96,2,2,2015-08-15 17:30:00,Miiko Albornoz,Aerial
+76297,64,MissedShots,0.725,0.4909999847412109,0.017895404249429703,Charlison Benschop,a,103,OpenPlay,2015,RightFoot,1026,Darmstadt,Hannover 96,2,2,2015-08-15 17:30:00,Manuel Schmiedebach,Pass
+76304,82,SavedShot,0.825,0.39,0.050140827894210815,Charlison Benschop,a,103,OpenPlay,2015,RightFoot,1026,Darmstadt,Hannover 96,2,2,2015-08-15 17:30:00,Kenan Karaman,Pass

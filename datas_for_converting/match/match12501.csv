@@ -1,0 +1,20 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+331446,22,MissedShots,0.9280000305175782,0.4329999923706055,0.10305320471525192,Wout Weghorst,h,7052,OpenPlay,2019,RightFoot,12501,Wolfsburg,Bayer Leverkusen,0,2,2019-11-10 14:30:00,Felix Klaus,Cross
+331448,32,MissedShots,0.8680000305175781,0.6120000076293945,0.06056183576583862,Felix Klaus,h,350,SetPiece,2019,LeftFoot,12501,Wolfsburg,Bayer Leverkusen,0,2,2019-11-10 14:30:00,,None
+331449,35,MissedShots,0.870999984741211,0.27899999618530275,0.03961668908596039,Maximilian Arnold,h,153,OpenPlay,2019,LeftFoot,12501,Wolfsburg,Bayer Leverkusen,0,2,2019-11-10 14:30:00,William,Pass
+331451,50,SavedShot,0.7959999847412109,0.28299999237060547,0.024126587435603142,Maximilian Arnold,h,153,FromCorner,2019,LeftFoot,12501,Wolfsburg,Bayer Leverkusen,0,2,2019-11-10 14:30:00,William,Pass
+331452,50,BlockedShot,0.8819999694824219,0.62,0.06979260593652725,Wout Weghorst,h,7052,FromCorner,2019,RightFoot,12501,Wolfsburg,Bayer Leverkusen,0,2,2019-11-10 14:30:00,,Rebound
+331453,52,MissedShots,0.8230000305175781,0.24799999237060547,0.019432812929153442,Felix Klaus,h,350,OpenPlay,2019,RightFoot,12501,Wolfsburg,Bayer Leverkusen,0,2,2019-11-10 14:30:00,,None
+331455,65,MissedShots,0.7919999694824219,0.4370000076293945,0.0461801178753376,Josip Brekalo,h,5353,OpenPlay,2019,LeftFoot,12501,Wolfsburg,Bayer Leverkusen,0,2,2019-11-10 14:30:00,Felix Klaus,TakeOn
+331458,80,MissedShots,0.8969999694824219,0.500999984741211,0.07602071762084961,Wout Weghorst,h,7052,OpenPlay,2019,LeftFoot,12501,Wolfsburg,Bayer Leverkusen,0,2,2019-11-10 14:30:00,,Card
+331460,92,BlockedShot,0.7969999694824219,0.710999984741211,0.022576507180929184,Josip Brekalo,h,5353,OpenPlay,2019,RightFoot,12501,Wolfsburg,Bayer Leverkusen,0,2,2019-11-10 14:30:00,Jérôme Roussillon,Pass
+331461,92,MissedShots,0.9230000305175782,0.51,0.11176719516515732,Jeffrey Bruma,h,5327,FromCorner,2019,Head,12501,Wolfsburg,Bayer Leverkusen,0,2,2019-11-10 14:30:00,Maximilian Arnold,Cross
+331445,5,MissedShots,0.865,0.28200000762939453,0.03497229516506195,Karim Bellarabi,a,186,OpenPlay,2019,RightFoot,12501,Wolfsburg,Bayer Leverkusen,0,2,2019-11-10 14:30:00,Kai Havertz,Pass
+331447,24,Goal,0.955,0.37799999237060544,0.09087011218070984,Karim Bellarabi,a,186,OpenPlay,2019,LeftFoot,12501,Wolfsburg,Bayer Leverkusen,0,2,2019-11-10 14:30:00,,Dispossessed
+331450,39,SavedShot,0.8719999694824219,0.6519999694824219,0.07919057458639145,Kevin Volland,a,83,OpenPlay,2019,LeftFoot,12501,Wolfsburg,Bayer Leverkusen,0,2,2019-11-10 14:30:00,Nadiem Amiri,BallRecovery
+331454,56,MissedShots,0.8809999847412109,0.6120000076293945,0.10770053416490555,Nadiem Amiri,a,82,OpenPlay,2019,LeftFoot,12501,Wolfsburg,Bayer Leverkusen,0,2,2019-11-10 14:30:00,Kevin Volland,Pass
+331456,75,BlockedShot,0.8680000305175781,0.3240000152587891,0.06644079089164734,Kerem Demirbay,a,5273,OpenPlay,2019,LeftFoot,12501,Wolfsburg,Bayer Leverkusen,0,2,2019-11-10 14:30:00,Nadiem Amiri,Pass
+331457,78,MissedShots,0.909000015258789,0.34599998474121096,0.08934102952480316,Moussa Diaby,a,6556,OpenPlay,2019,RightFoot,12501,Wolfsburg,Bayer Leverkusen,0,2,2019-11-10 14:30:00,Julian Baumgartlinger,HeadPass
+331459,89,SavedShot,0.915,0.29200000762939454,0.3187223970890045,Paulinho,a,7067,OpenPlay,2019,RightFoot,12501,Wolfsburg,Bayer Leverkusen,0,2,2019-11-10 14:30:00,,BallRecovery
+331462,94,BlockedShot,0.8959999847412109,0.47299999237060547,0.11296889185905457,Kevin Volland,a,83,OpenPlay,2019,LeftFoot,12501,Wolfsburg,Bayer Leverkusen,0,2,2019-11-10 14:30:00,,None
+331463,95,Goal,0.855999984741211,0.5509999847412109,0.3069230914115906,Paulinho,a,7067,OpenPlay,2019,RightFoot,12501,Wolfsburg,Bayer Leverkusen,0,2,2019-11-10 14:30:00,Kevin Volland,Pass

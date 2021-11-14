@@ -1,0 +1,24 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+399274,12,MissedShots,0.7319999694824219,0.635,0.01892540417611599,Ibrahima Sissoko,h,6904,OpenPlay,2020,LeftFoot,15955,Strasbourg,Saint-Etienne,1,0,2021-01-17 14:00:00,,TakeOn
+399275,15,BlockedShot,0.749000015258789,0.6430000305175781,0.015099507756531239,Adrien Thomasson,h,3549,FromCorner,2020,RightFoot,15955,Strasbourg,Saint-Etienne,1,0,2021-01-17 14:00:00,,None
+399276,16,MissedShots,0.9319999694824219,0.555,0.5281085968017578,Adrien Thomasson,h,3549,OpenPlay,2020,LeftFoot,15955,Strasbourg,Saint-Etienne,1,0,2021-01-17 14:00:00,Ludovic Ajorque,Pass
+399277,28,BlockedShot,0.909000015258789,0.47200000762939454,0.3714312016963959,Habib Diallo,h,5769,OpenPlay,2020,Head,15955,Strasbourg,Saint-Etienne,1,0,2021-01-17 14:00:00,Ludovic Ajorque,HeadPass
+399278,28,Goal,0.9330000305175781,0.51,0.45706915855407715,Ludovic Ajorque,h,6905,OpenPlay,2020,LeftFoot,15955,Strasbourg,Saint-Etienne,1,0,2021-01-17 14:00:00,Kenny Lala,Cross
+399280,39,MissedShots,0.7219999694824218,0.41200000762939454,0.01782919652760029,Jean Eudes Aholou,h,4811,OpenPlay,2020,LeftFoot,15955,Strasbourg,Saint-Etienne,1,0,2021-01-17 14:00:00,,None
+399281,40,MissedShots,0.875999984741211,0.53,0.05017195641994476,Jean-Ricner Bellegarde,h,7762,OpenPlay,2020,Head,15955,Strasbourg,Saint-Etienne,1,0,2021-01-17 14:00:00,Ludovic Ajorque,HeadPass
+399284,53,BlockedShot,0.7019999694824218,0.590999984741211,0.012722794897854328,Anthony Caci,h,6380,FromCorner,2020,RightFoot,15955,Strasbourg,Saint-Etienne,1,0,2021-01-17 14:00:00,,None
+399285,54,MissedShots,0.725999984741211,0.445,0.021595612168312073,Jean Eudes Aholou,h,4811,FromCorner,2020,LeftFoot,15955,Strasbourg,Saint-Etienne,1,0,2021-01-17 14:00:00,Adrien Thomasson,Pass
+399286,56,SavedShot,0.9419999694824219,0.485,0.4911198318004608,Ludovic Ajorque,h,6905,OpenPlay,2020,Head,15955,Strasbourg,Saint-Etienne,1,0,2021-01-17 14:00:00,Habib Diallo,Chipped
+399287,56,BlockedShot,0.9109999847412109,0.5120000076293946,0.06488140672445297,Ludovic Ajorque,h,6905,OpenPlay,2020,Head,15955,Strasbourg,Saint-Etienne,1,0,2021-01-17 14:00:00,,Aerial
+399288,58,BlockedShot,0.7869999694824219,0.65,0.03471102565526962,Anthony Caci,h,6380,OpenPlay,2020,LeftFoot,15955,Strasbourg,Saint-Etienne,1,0,2021-01-17 14:00:00,Jean-Ricner Bellegarde,Pass
+399289,59,MissedShots,0.789000015258789,0.580999984741211,0.05094090476632118,Adrien Thomasson,h,3549,OpenPlay,2020,RightFoot,15955,Strasbourg,Saint-Etienne,1,0,2021-01-17 14:00:00,,BallTouch
+399290,60,MissedShots,0.924000015258789,0.43099998474121093,0.027603715658187866,Ibrahima Sissoko,h,6904,FromCorner,2020,Head,15955,Strasbourg,Saint-Etienne,1,0,2021-01-17 14:00:00,Jean-Ricner Bellegarde,Aerial
+399291,63,MissedShots,0.9209999847412109,0.580999984741211,0.44765129685401917,Habib Diallo,h,5769,OpenPlay,2020,RightFoot,15955,Strasbourg,Saint-Etienne,1,0,2021-01-17 14:00:00,,Dispossessed
+399273,9,MissedShots,0.885,0.5,0.7600951194763184,Ryad Boudebouz,a,3343,Penalty,2020,LeftFoot,15955,Strasbourg,Saint-Etienne,1,0,2021-01-17 14:00:00,,Standard
+399279,34,BlockedShot,0.7430000305175781,0.625999984741211,0.018994281068444252,Arnaud Nordin,a,5684,OpenPlay,2020,RightFoot,15955,Strasbourg,Saint-Etienne,1,0,2021-01-17 14:00:00,Aïmen Moueffek,Pass
+399282,48,MissedShots,0.9540000152587891,0.5179999923706055,0.1343943476676941,Lucas Gourna Douath,a,8372,FromCorner,2020,Head,15955,Strasbourg,Saint-Etienne,1,0,2021-01-17 14:00:00,Ryad Boudebouz,Cross
+399283,51,SavedShot,0.8480000305175781,0.28,0.027497900649905205,Ryad Boudebouz,a,3343,OpenPlay,2020,LeftFoot,15955,Strasbourg,Saint-Etienne,1,0,2021-01-17 14:00:00,Aïmen Moueffek,Pass
+399292,65,BlockedShot,0.874000015258789,0.655,0.05066334456205368,Jean-Phillipe Krasso,a,8690,OpenPlay,2020,LeftFoot,15955,Strasbourg,Saint-Etienne,1,0,2021-01-17 14:00:00,,None
+399293,68,SavedShot,0.8590000152587891,0.649000015258789,0.04668506234884262,Jean-Phillipe Krasso,a,8690,OpenPlay,2020,LeftFoot,15955,Strasbourg,Saint-Etienne,1,0,2021-01-17 14:00:00,Baptiste Gabard,Pass
+399294,68,MissedShots,0.935,0.5179999923706055,0.12455600500106812,Lucas Gourna Douath,a,8372,FromCorner,2020,Head,15955,Strasbourg,Saint-Etienne,1,0,2021-01-17 14:00:00,Arnaud Nordin,Cross
+399295,83,SavedShot,0.9469999694824218,0.40599998474121096,0.0886383056640625,Jean-Phillipe Krasso,a,8690,OpenPlay,2020,RightFoot,15955,Strasbourg,Saint-Etienne,1,0,2021-01-17 14:00:00,Arnaud Nordin,Cross

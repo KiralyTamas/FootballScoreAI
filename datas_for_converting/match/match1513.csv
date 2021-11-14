@@ -1,0 +1,13 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+86877,22,Goal,0.9690000152587891,0.5209999847412109,0.5951400399208069,Lucas Pérez,h,1700,OpenPlay,2015,LeftFoot,1513,Deportivo La Coruna,Celta Vigo,2,0,2015-11-22 01:05:00,Álex Bergantiños,Dispossessed
+86880,34,MissedShots,0.8830000305175781,0.34900001525878904,0.0749594122171402,Jonathan Rodríguez,h,2327,OpenPlay,2015,RightFoot,1513,Deportivo La Coruna,Celta Vigo,2,0,2015-11-22 01:05:00,Cani,BallRecovery
+86881,54,SavedShot,0.8919999694824219,0.345,0.2980710566043854,Jonathan Rodríguez,h,2327,OpenPlay,2015,RightFoot,1513,Deportivo La Coruna,Celta Vigo,2,0,2015-11-22 01:05:00,Cani,Pass
+86882,68,MissedShots,0.779000015258789,0.6940000152587891,0.04047350585460663,Luisinho,h,2500,OpenPlay,2015,LeftFoot,1513,Deportivo La Coruna,Celta Vigo,2,0,2015-11-22 01:05:00,Lucas Pérez,Pass
+86883,75,ShotOnPost,0.7419999694824219,0.2929999923706055,0.019831284880638123,Juanfran,h,2316,OpenPlay,2015,RightFoot,1513,Deportivo La Coruna,Celta Vigo,2,0,2015-11-22 01:05:00,Faycal Fajr,Pass
+86875,0,BlockedShot,0.8230000305175781,0.7519999694824219,0.017445281147956848,Nolito,a,1732,OpenPlay,2015,RightFoot,1513,Deportivo La Coruna,Celta Vigo,2,0,2015-11-22 01:05:00,,None
+86876,7,SavedShot,0.7290000152587891,0.34700000762939454,0.014205483719706535,Nolito,a,1732,OpenPlay,2015,RightFoot,1513,Deportivo La Coruna,Celta Vigo,2,0,2015-11-22 01:05:00,,BallRecovery
+86878,25,SavedShot,0.885,0.5,0.7432776093482971,Nolito,a,1732,Penalty,2015,RightFoot,1513,Deportivo La Coruna,Celta Vigo,2,0,2015-11-22 01:05:00,,Standard
+86879,32,BlockedShot,0.9059999847412109,0.6120000076293945,0.0614766925573349,Iago Aspas,a,2290,FromCorner,2015,LeftFoot,1513,Deportivo La Coruna,Celta Vigo,2,0,2015-11-22 01:05:00,Nolito,Pass
+86884,84,SavedShot,0.7919999694824219,0.5670000076293945,0.03882390260696411,Iago Aspas,a,2290,OpenPlay,2015,LeftFoot,1513,Deportivo La Coruna,Celta Vigo,2,0,2015-11-22 01:05:00,Nolito,Pass
+86885,86,SavedShot,0.8919999694824219,0.32799999237060545,0.010822770185768604,Hugo Mallo,a,2281,OpenPlay,2015,Head,1513,Deportivo La Coruna,Celta Vigo,2,0,2015-11-22 01:05:00,Planas,Cross
+86886,93,OwnGoal,0.345,0.7169999694824218,0,Jonny,a,2280,OpenPlay,2015,RightFoot,1513,Deportivo La Coruna,Celta Vigo,2,0,2015-11-22 01:05:00,,None

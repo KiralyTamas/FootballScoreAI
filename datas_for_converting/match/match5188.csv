@@ -1,0 +1,27 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+31525,3,Goal,0.8669999694824219,0.6609999847412109,0.2298225611448288,Haris Seferovic,h,291,OpenPlay,2014,LeftFoot,5188,Eintracht Frankfurt,Bayer Leverkusen,2,1,2015-05-23 14:30:00,Marco Russ,Pass
+31529,15,BlockedShot,0.7859999847412109,0.6480000305175782,0.026852866634726524,Haris Seferovic,h,291,OpenPlay,2014,LeftFoot,5188,Eintracht Frankfurt,Bayer Leverkusen,2,1,2015-05-23 14:30:00,Makoto Hasebe,Pass
+31535,38,Goal,0.9,0.575,0.41748136281967163,Alexander Madlung,h,4273,FromCorner,2014,RightFoot,5188,Eintracht Frankfurt,Bayer Leverkusen,2,1,2015-05-23 14:30:00,,None
+31540,58,MissedShots,0.91,0.49599998474121093,0.05388498306274414,Alexander Madlung,h,4273,SetPiece,2014,Head,5188,Eintracht Frankfurt,Bayer Leverkusen,2,1,2015-05-23 14:30:00,Bastian Oczipka,Aerial
+31541,61,BlockedShot,0.855,0.3940000152587891,0.16784971952438354,Marco Russ,h,293,OpenPlay,2014,LeftFoot,5188,Eintracht Frankfurt,Bayer Leverkusen,2,1,2015-05-23 14:30:00,Makoto Hasebe,TakeOn
+31544,65,MissedShots,0.8930000305175781,0.48200000762939454,0.018559807911515236,Alexander Madlung,h,4273,FromCorner,2014,Head,5188,Eintracht Frankfurt,Bayer Leverkusen,2,1,2015-05-23 14:30:00,Bastian Oczipka,Aerial
+31546,74,MissedShots,0.8730000305175781,0.6020000076293945,0.0700191855430603,Nélson Haedo Valdez,h,4274,OpenPlay,2014,RightFoot,5188,Eintracht Frankfurt,Bayer Leverkusen,2,1,2015-05-23 14:30:00,Stefan Aigner,Cross
+31547,74,SavedShot,0.9419999694824219,0.40200000762939453,0.13876312971115112,Haris Seferovic,h,291,OpenPlay,2014,LeftFoot,5188,Eintracht Frankfurt,Bayer Leverkusen,2,1,2015-05-23 14:30:00,Nélson Haedo Valdez,Rebound
+31526,5,Goal,0.715999984741211,0.3920000076293945,0.016670826822519302,Karim Bellarabi,a,186,OpenPlay,2014,RightFoot,5188,Eintracht Frankfurt,Bayer Leverkusen,2,1,2015-05-23 14:30:00,Julian Brandt,Pass
+31527,6,ShotOnPost,0.85,0.43599998474121093,0.10524098575115204,Julian Brandt,a,261,OpenPlay,2014,RightFoot,5188,Eintracht Frankfurt,Bayer Leverkusen,2,1,2015-05-23 14:30:00,Karim Bellarabi,Pass
+31528,7,SavedShot,0.8530000305175781,0.5579999923706055,0.08171172440052032,Son Heung-Min,a,453,OpenPlay,2014,RightFoot,5188,Eintracht Frankfurt,Bayer Leverkusen,2,1,2015-05-23 14:30:00,Stefan Kießling,Pass
+31530,21,MissedShots,0.750999984741211,0.9080000305175782,0.02446848712861538,Hakan Calhanoglu,a,189,DirectFreekick,2014,RightFoot,5188,Eintracht Frankfurt,Bayer Leverkusen,2,1,2015-05-23 14:30:00,,Standard
+31531,24,MissedShots,0.855,0.639000015258789,0.05559030547738075,Karim Bellarabi,a,186,OpenPlay,2014,RightFoot,5188,Eintracht Frankfurt,Bayer Leverkusen,2,1,2015-05-23 14:30:00,Hakan Calhanoglu,Chipped
+31532,35,BlockedShot,0.8580000305175781,0.5640000152587891,0.09556763619184494,Julian Brandt,a,261,OpenPlay,2014,LeftFoot,5188,Eintracht Frankfurt,Bayer Leverkusen,2,1,2015-05-23 14:30:00,Son Heung-Min,Pass
+31533,35,BlockedShot,0.8530000305175781,0.51,0.043781112879514694,Stefan Reinartz,a,286,FromCorner,2014,RightFoot,5188,Eintracht Frankfurt,Bayer Leverkusen,2,1,2015-05-23 14:30:00,Hakan Calhanoglu,Cross
+31534,36,SavedShot,0.7230000305175781,0.629000015258789,0.01154791284352541,Stefan Reinartz,a,286,OpenPlay,2014,RightFoot,5188,Eintracht Frankfurt,Bayer Leverkusen,2,1,2015-05-23 14:30:00,,None
+31536,43,BlockedShot,0.7330000305175781,0.534000015258789,0.020429598167538643,Son Heung-Min,a,453,OpenPlay,2014,LeftFoot,5188,Eintracht Frankfurt,Bayer Leverkusen,2,1,2015-05-23 14:30:00,Hakan Calhanoglu,Pass
+31537,47,SavedShot,0.735,0.28200000762939453,0.01443204190582037,Sebastian Boenisch,a,260,OpenPlay,2014,LeftFoot,5188,Eintracht Frankfurt,Bayer Leverkusen,2,1,2015-05-23 14:30:00,Stefan Kießling,Pass
+31538,49,BlockedShot,0.7709999847412109,0.6359999847412109,0.07021182775497437,Hakan Calhanoglu,a,189,DirectFreekick,2014,RightFoot,5188,Eintracht Frankfurt,Bayer Leverkusen,2,1,2015-05-23 14:30:00,,Standard
+31539,54,MissedShots,0.8619999694824219,0.34200000762939453,0.03508412465453148,Sebastian Boenisch,a,260,FromCorner,2014,RightFoot,5188,Eintracht Frankfurt,Bayer Leverkusen,2,1,2015-05-23 14:30:00,Hakan Calhanoglu,Foul
+31542,62,SavedShot,0.825,0.6469999694824219,0.06030478700995445,Stefan Reinartz,a,286,OpenPlay,2014,LeftFoot,5188,Eintracht Frankfurt,Bayer Leverkusen,2,1,2015-05-23 14:30:00,Karim Bellarabi,Pass
+31543,64,SavedShot,0.7869999694824219,0.41,0.03146571293473244,Hakan Calhanoglu,a,189,OpenPlay,2014,LeftFoot,5188,Eintracht Frankfurt,Bayer Leverkusen,2,1,2015-05-23 14:30:00,Karim Bellarabi,Pass
+31545,73,MissedShots,0.825999984741211,0.6880000305175781,0.030343862250447273,Wendell,a,185,OpenPlay,2014,LeftFoot,5188,Eintracht Frankfurt,Bayer Leverkusen,2,1,2015-05-23 14:30:00,,None
+31548,75,SavedShot,0.8180000305175781,0.6580000305175782,0.034023694694042206,Hakan Calhanoglu,a,189,OpenPlay,2014,LeftFoot,5188,Eintracht Frankfurt,Bayer Leverkusen,2,1,2015-05-23 14:30:00,Gonzalo Castro,Chipped
+31549,85,MissedShots,0.894000015258789,0.38299999237060545,0.03452957794070244,Stefan Reinartz,a,286,SetPiece,2014,RightFoot,5188,Eintracht Frankfurt,Bayer Leverkusen,2,1,2015-05-23 14:30:00,Hakan Calhanoglu,Cross
+31550,91,MissedShots,0.884000015258789,0.57,0.07100856304168701,Karim Bellarabi,a,186,OpenPlay,2014,RightFoot,5188,Eintracht Frankfurt,Bayer Leverkusen,2,1,2015-05-23 14:30:00,,None

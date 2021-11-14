@@ -1,0 +1,30 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+194461,17,SavedShot,0.9069999694824219,0.7019999694824218,0.048263613134622574,Hamza Mendyl,h,5728,OpenPlay,2017,LeftFoot,8797,Lille,Paris Saint Germain,0,3,2018-02-03 16:00:00,,None
+194462,18,MissedShots,0.720999984741211,0.44299999237060544,0.021917494013905525,Yves Bissouma,h,5609,FromCorner,2017,RightFoot,8797,Lille,Paris Saint Germain,0,3,2018-02-03 16:00:00,Thiago Mendes,Pass
+194466,28,MissedShots,0.7859999847412109,0.5359999847412109,0.036542054265737534,Ibrahim Amadou,h,3358,OpenPlay,2017,RightFoot,8797,Lille,Paris Saint Germain,0,3,2018-02-03 16:00:00,Thiago Mendes,Pass
+194468,29,MissedShots,0.7280000305175781,0.515,0.03184764087200165,Ezequiel Ponce,h,2057,OpenPlay,2017,RightFoot,8797,Lille,Paris Saint Germain,0,3,2018-02-03 16:00:00,,BallRecovery
+194475,47,SavedShot,0.6880000305175781,0.534000015258789,0.035259909927845,Anwar El Ghazi,h,5612,DirectFreekick,2017,RightFoot,8797,Lille,Paris Saint Germain,0,3,2018-02-03 16:00:00,,Standard
+194477,57,BlockedShot,0.8380000305175781,0.40599998474121096,0.04438386112451553,Thiago Mendes,h,6011,FromCorner,2017,RightFoot,8797,Lille,Paris Saint Germain,0,3,2018-02-03 16:00:00,Anwar El Ghazi,Pass
+194478,58,MissedShots,0.7019999694824218,0.66,0.01338193379342556,Thiago Mendes,h,6011,OpenPlay,2017,RightFoot,8797,Lille,Paris Saint Germain,0,3,2018-02-03 16:00:00,Ibrahim Amadou,Pass
+194483,81,SavedShot,0.7169999694824218,0.30700000762939456,0.012134354561567307,Anwar El Ghazi,h,5612,OpenPlay,2017,RightFoot,8797,Lille,Paris Saint Germain,0,3,2018-02-03 16:00:00,Thiago Maia,Pass
+194486,89,MissedShots,0.6980000305175781,0.46,0.009607940912246704,Junior Alonso,h,5607,OpenPlay,2017,LeftFoot,8797,Lille,Paris Saint Germain,0,3,2018-02-03 16:00:00,Edgar Ié,Pass
+194488,90,MissedShots,0.835999984741211,0.265,0.02188394032418728,Anwar El Ghazi,h,5612,OpenPlay,2017,RightFoot,8797,Lille,Paris Saint Germain,0,3,2018-02-03 16:00:00,Thiago Mendes,Chipped
+194460,8,MissedShots,0.8530000305175781,0.7230000305175781,0.028507880866527557,Neymar,a,2099,OpenPlay,2017,RightFoot,8797,Lille,Paris Saint Germain,0,3,2018-02-03 16:00:00,Dani Alves,Chipped
+194463,23,SavedShot,0.8090000152587891,0.48700000762939455,0.056154120713472366,Ángel Di María,a,3553,OpenPlay,2017,LeftFoot,8797,Lille,Paris Saint Germain,0,3,2018-02-03 16:00:00,Marco Verratti,Pass
+194464,26,BlockedShot,0.8090000152587891,0.4879999923706055,0.050938356667757034,Edinson Cavani,a,3294,OpenPlay,2017,RightFoot,8797,Lille,Paris Saint Germain,0,3,2018-02-03 16:00:00,,None
+194465,28,SavedShot,0.8209999847412109,0.8080000305175781,0.016431208699941635,Javier Pastore,a,3295,OpenPlay,2017,RightFoot,8797,Lille,Paris Saint Germain,0,3,2018-02-03 16:00:00,Edinson Cavani,Pass
+194467,28,MissedShots,0.745,0.29100000381469726,0.014451180584728718,Edinson Cavani,a,3294,OpenPlay,2017,RightFoot,8797,Lille,Paris Saint Germain,0,3,2018-02-03 16:00:00,Ángel Di María,Pass
+194469,34,MissedShots,0.7869999694824219,0.3340000152587891,0.02654190920293331,Dani Alves,a,1288,FromCorner,2017,RightFoot,8797,Lille,Paris Saint Germain,0,3,2018-02-03 16:00:00,Neymar,Cross
+194470,36,SavedShot,0.84,0.6719999694824219,0.04456134885549545,Marco Verratti,a,3552,OpenPlay,2017,RightFoot,8797,Lille,Paris Saint Germain,0,3,2018-02-03 16:00:00,Edinson Cavani,Pass
+194471,38,MissedShots,0.8830000305175781,0.355,0.4856801927089691,Edinson Cavani,a,3294,OpenPlay,2017,RightFoot,8797,Lille,Paris Saint Germain,0,3,2018-02-03 16:00:00,Javier Pastore,Throughball
+194472,43,BlockedShot,0.8540000152587891,0.49,0.09471984952688217,Neymar,a,2099,OpenPlay,2017,RightFoot,8797,Lille,Paris Saint Germain,0,3,2018-02-03 16:00:00,Marco Verratti,Pass
+194473,43,MissedShots,0.8090000152587891,0.37400001525878906,0.027540668845176697,Javier Pastore,a,3295,OpenPlay,2017,RightFoot,8797,Lille,Paris Saint Germain,0,3,2018-02-03 16:00:00,,Rebound
+194474,45,Goal,0.8819999694824219,0.61,0.07245852053165436,Yuri,a,2229,OpenPlay,2017,RightFoot,8797,Lille,Paris Saint Germain,0,3,2018-02-03 16:00:00,,None
+194476,54,SavedShot,0.855,0.38,0.10936803370714188,Neymar,a,2099,OpenPlay,2017,RightFoot,8797,Lille,Paris Saint Germain,0,3,2018-02-03 16:00:00,Marco Verratti,TakeOn
+194479,59,SavedShot,0.9290000152587891,0.3509999847412109,0.015443488955497742,Edinson Cavani,a,3294,FromCorner,2017,Head,8797,Lille,Paris Saint Germain,0,3,2018-02-03 16:00:00,Ángel Di María,Cross
+194480,70,MissedShots,0.7719999694824219,0.40799999237060547,0.07911953330039978,Neymar,a,2099,DirectFreekick,2017,RightFoot,8797,Lille,Paris Saint Germain,0,3,2018-02-03 16:00:00,,Standard
+194481,74,MissedShots,0.685,0.645,0.030721552670001984,Dani Alves,a,1288,DirectFreekick,2017,RightFoot,8797,Lille,Paris Saint Germain,0,3,2018-02-03 16:00:00,,Standard
+194482,76,Goal,0.8190000152587891,0.49700000762939456,0.17426882684230804,Neymar,a,2099,DirectFreekick,2017,RightFoot,8797,Lille,Paris Saint Germain,0,3,2018-02-03 16:00:00,,Standard
+194484,85,MissedShots,0.9619999694824218,0.6840000152587891,0.03579576686024666,Edinson Cavani,a,3294,FromCorner,2017,RightFoot,8797,Lille,Paris Saint Germain,0,3,2018-02-03 16:00:00,Neymar,Cross
+194485,86,Goal,0.8209999847412109,0.5520000076293945,0.08448860794305801,Giovani Lo Celso,a,5681,OpenPlay,2017,LeftFoot,8797,Lille,Paris Saint Germain,0,3,2018-02-03 16:00:00,Lass Diarra,Pass
+194487,90,SavedShot,0.9159999847412109,0.5670000076293945,0.5089734196662903,Edinson Cavani,a,3294,OpenPlay,2017,LeftFoot,8797,Lille,Paris Saint Germain,0,3,2018-02-03 16:00:00,Yuri,Pass

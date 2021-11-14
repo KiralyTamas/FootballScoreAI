@@ -1,0 +1,32 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+223767,1,BlockedShot,0.8040000152587891,0.6940000152587891,0.022790854796767235,Denis Zakaria,h,6147,OpenPlay,2018,RightFoot,10361,Borussia M.Gladbach,Schalke 04,2,1,2018-09-15 16:30:00,Alassane Pléa,Pass
+223768,2,Goal,0.9180000305175782,0.585,0.017560450360178947,Matthias Ginter,h,315,FromCorner,2018,Head,10361,Borussia M.Gladbach,Schalke 04,2,1,2018-09-15 16:30:00,Jonas Hofmann,Aerial
+223770,7,MissedShots,0.7730000305175782,0.59,0.035144735127687454,Alassane Pléa,h,3310,OpenPlay,2018,RightFoot,10361,Borussia M.Gladbach,Schalke 04,2,1,2018-09-15 16:30:00,Oscar Wendt,Pass
+223771,10,MissedShots,0.789000015258789,0.34200000762939453,0.01069593708962202,Jonas Hofmann,h,320,FromCorner,2018,RightFoot,10361,Borussia M.Gladbach,Schalke 04,2,1,2018-09-15 16:30:00,Thorgan Hazard,Chipped
+223772,21,BlockedShot,0.7609999847412109,0.5690000152587891,0.0226325374096632,Thorgan Hazard,h,213,SetPiece,2018,RightFoot,10361,Borussia M.Gladbach,Schalke 04,2,1,2018-09-15 16:30:00,Jonas Hofmann,Pass
+223773,28,SavedShot,0.7730000305175782,0.6719999694824219,0.027770161628723145,Thorgan Hazard,h,213,OpenPlay,2018,RightFoot,10361,Borussia M.Gladbach,Schalke 04,2,1,2018-09-15 16:30:00,Denis Zakaria,Pass
+223776,36,SavedShot,0.9440000152587891,0.5609999847412109,0.40024271607398987,Alassane Pléa,h,3310,SetPiece,2018,Head,10361,Borussia M.Gladbach,Schalke 04,2,1,2018-09-15 16:30:00,Jonas Hofmann,Cross
+223782,55,MissedShots,0.7430000305175781,0.6869999694824219,0.04547327756881714,Jonas Hofmann,h,320,DirectFreekick,2018,RightFoot,10361,Borussia M.Gladbach,Schalke 04,2,1,2018-09-15 16:30:00,,Standard
+223785,64,MissedShots,0.9130000305175782,0.48200000762939454,0.06258010864257812,Denis Zakaria,h,6147,OpenPlay,2018,Head,10361,Borussia M.Gladbach,Schalke 04,2,1,2018-09-15 16:30:00,Alassane Pléa,Aerial
+223786,67,MissedShots,0.7880000305175782,0.35200000762939454,0.03475465998053551,Patrick Herrmann,h,420,OpenPlay,2018,LeftFoot,10361,Borussia M.Gladbach,Schalke 04,2,1,2018-09-15 16:30:00,Jonas Hofmann,Pass
+223788,72,ShotOnPost,0.8580000305175781,0.5,0.37093043327331543,Jonas Hofmann,h,320,OpenPlay,2018,RightFoot,10361,Borussia M.Gladbach,Schalke 04,2,1,2018-09-15 16:30:00,Alassane Pléa,Pass
+223789,75,BlockedShot,0.7480000305175781,0.4879999923706055,0.06772620975971222,Thorgan Hazard,h,213,DirectFreekick,2018,RightFoot,10361,Borussia M.Gladbach,Schalke 04,2,1,2018-09-15 16:30:00,,Standard
+223790,75,Goal,0.8680000305175781,0.48,0.1097554937005043,Patrick Herrmann,h,420,OpenPlay,2018,LeftFoot,10361,Borussia M.Gladbach,Schalke 04,2,1,2018-09-15 16:30:00,Alassane Pléa,BallTouch
+223792,81,BlockedShot,0.87,0.6669999694824219,0.11738793551921844,Jonas Hofmann,h,320,OpenPlay,2018,RightFoot,10361,Borussia M.Gladbach,Schalke 04,2,1,2018-09-15 16:30:00,,Dispossessed
+223796,90,BlockedShot,0.965,0.29100000381469726,0.05475042387843132,Jonas Hofmann,h,320,OpenPlay,2018,RightFoot,10361,Borussia M.Gladbach,Schalke 04,2,1,2018-09-15 16:30:00,,None
+223769,4,BlockedShot,0.8690000152587891,0.5829999923706055,0.11783945560455322,Franco Di Santo,a,341,OpenPlay,2018,RightFoot,10361,Borussia M.Gladbach,Schalke 04,2,1,2018-09-15 16:30:00,Guido Burgstaller,Pass
+223774,32,SavedShot,0.9340000152587891,0.5059999847412109,0.06759552657604218,Salif Sané,a,96,FromCorner,2018,Head,10361,Borussia M.Gladbach,Schalke 04,2,1,2018-09-15 16:30:00,Sebastian Rudy,Aerial
+223775,33,MissedShots,0.919000015258789,0.4779999923706055,0.04633462429046631,Salif Sané,a,96,FromCorner,2018,Head,10361,Borussia M.Gladbach,Schalke 04,2,1,2018-09-15 16:30:00,Daniel Caligiuri,Aerial
+223777,40,MissedShots,0.8159999847412109,0.5179999923706055,0.04789644479751587,Mark Uth,a,88,OpenPlay,2018,LeftFoot,10361,Borussia M.Gladbach,Schalke 04,2,1,2018-09-15 16:30:00,,None
+223778,42,SavedShot,0.85,0.52,0.050041314214468,Mark Uth,a,88,OpenPlay,2018,LeftFoot,10361,Borussia M.Gladbach,Schalke 04,2,1,2018-09-15 16:30:00,Daniel Caligiuri,Cross
+223779,43,BlockedShot,0.8240000152587891,0.7290000152587891,0.026191335171461105,Alessandro Schöpf,a,2638,OpenPlay,2018,RightFoot,10361,Borussia M.Gladbach,Schalke 04,2,1,2018-09-15 16:30:00,Nabil Bentaleb,Pass
+223780,43,BlockedShot,0.8480000305175781,0.45799999237060546,0.06260796636343002,Mark Uth,a,88,OpenPlay,2018,RightFoot,10361,Borussia M.Gladbach,Schalke 04,2,1,2018-09-15 16:30:00,Franco Di Santo,BallTouch
+223781,51,BlockedShot,0.8519999694824218,0.37099998474121093,0.06177865341305733,Mark Uth,a,88,OpenPlay,2018,LeftFoot,10361,Borussia M.Gladbach,Schalke 04,2,1,2018-09-15 16:30:00,Daniel Caligiuri,Pass
+223783,61,SavedShot,0.8619999694824219,0.500999984741211,0.014651197008788586,Mark Uth,a,88,OpenPlay,2018,Head,10361,Borussia M.Gladbach,Schalke 04,2,1,2018-09-15 16:30:00,Salif Sané,Aerial
+223784,63,MissedShots,0.909000015258789,0.38299999237060545,0.04233863204717636,Naldo,a,147,SetPiece,2018,Head,10361,Borussia M.Gladbach,Schalke 04,2,1,2018-09-15 16:30:00,Daniel Caligiuri,Chipped
+223787,69,MissedShots,0.72,0.5790000152587891,0.015628304332494736,Alessandro Schöpf,a,2638,OpenPlay,2018,RightFoot,10361,Borussia M.Gladbach,Schalke 04,2,1,2018-09-15 16:30:00,Mark Uth,Pass
+223791,77,MissedShots,0.7390000152587891,0.295,0.008368803188204765,Salif Sané,a,96,OpenPlay,2018,LeftFoot,10361,Borussia M.Gladbach,Schalke 04,2,1,2018-09-15 16:30:00,,None
+223793,83,SavedShot,0.740999984741211,0.6959999847412109,0.009065688587725163,Nabil Bentaleb,a,914,OpenPlay,2018,LeftFoot,10361,Borussia M.Gladbach,Schalke 04,2,1,2018-09-15 16:30:00,,Aerial
+223794,84,BlockedShot,0.7780000305175782,0.700999984741211,0.02975982241332531,Daniel Caligiuri,a,157,FromCorner,2018,RightFoot,10361,Borussia M.Gladbach,Schalke 04,2,1,2018-09-15 16:30:00,Mark Uth,Pass
+223795,87,SavedShot,0.889000015258789,0.4779999923706055,0.07043207436800003,Mark Uth,a,88,OpenPlay,2018,LeftFoot,10361,Borussia M.Gladbach,Schalke 04,2,1,2018-09-15 16:30:00,Breel Embolo,HeadPass
+223797,92,Goal,0.8109999847412109,0.46,0.058820951730012894,Breel Embolo,a,5356,OpenPlay,2018,RightFoot,10361,Borussia M.Gladbach,Schalke 04,2,1,2018-09-15 16:30:00,Mark Uth,Pass

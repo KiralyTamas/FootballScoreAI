@@ -1,0 +1,18 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+66017,2,Goal,0.905,0.5540000152587891,0.4460477828979492,Nicolas Benezet,h,3574,OpenPlay,2015,RightFoot,2073,Guingamp,Nantes,2,2,2016-01-16 23:00:00,,None
+66020,12,BlockedShot,0.92,0.345,0.085575632750988,Mevlüt Erdinc,h,104,OpenPlay,2015,RightFoot,2073,Guingamp,Nantes,2,2,2016-01-16 23:00:00,Yannis Salibur,HeadPass
+66022,23,Goal,0.909000015258789,0.575,0.40594449639320374,Yannis Salibur,h,3473,OpenPlay,2015,LeftFoot,2073,Guingamp,Nantes,2,2,2016-01-16 23:00:00,Nicolas Benezet,Pass
+66023,63,OwnGoal,0.048000001907348634,0.5520000076293945,0,Christophe Kerbrat,h,3470,OpenPlay,2015,OtherBodyPart,2073,Guingamp,Nantes,2,2,2016-01-16 23:00:00,,BallTouch
+66024,66,SavedShot,0.874000015258789,0.6519999694824219,0.08052756637334824,Nicolas Benezet,h,3574,OpenPlay,2015,LeftFoot,2073,Guingamp,Nantes,2,2,2016-01-16 23:00:00,Jimmy Briand,Pass
+66025,67,BlockedShot,0.7919999694824219,0.6409999847412109,0.0389120914041996,Nicolas Benezet,h,3574,OpenPlay,2015,LeftFoot,2073,Guingamp,Nantes,2,2,2016-01-16 23:00:00,Yannis Salibur,Pass
+66027,72,ShotOnPost,0.904000015258789,0.6519999694824219,0.08400147408246994,Nicolas Benezet,h,3574,OpenPlay,2015,LeftFoot,2073,Guingamp,Nantes,2,2,2016-01-16 23:00:00,,None
+66028,76,BlockedShot,0.6909999847412109,0.524000015258789,0.03633716702461243,Yannis Salibur,h,3473,DirectFreekick,2015,LeftFoot,2073,Guingamp,Nantes,2,2,2016-01-16 23:00:00,,Standard
+66032,93,SavedShot,0.8780000305175781,0.3160000038146973,0.0424465574324131,Jonathan Pereira,h,3469,SetPiece,2015,RightFoot,2073,Guingamp,Nantes,2,2,2016-01-16 23:00:00,,None
+66016,1,MissedShots,0.8569999694824219,0.5379999923706055,0.07461641728878021,Johan Audel,a,3409,OpenPlay,2015,LeftFoot,2073,Guingamp,Nantes,2,2,2016-01-16 23:00:00,,None
+66018,3,BlockedShot,0.7759999847412109,0.34200000762939453,0.020055241882801056,Johan Audel,a,3409,OpenPlay,2015,LeftFoot,2073,Guingamp,Nantes,2,2,2016-01-16 23:00:00,,None
+66019,7,MissedShots,0.805,0.235,0.01899992674589157,Adrien Thomasson,a,3549,OpenPlay,2015,RightFoot,2073,Guingamp,Nantes,2,2,2016-01-16 23:00:00,Alejandro Bedoya,Pass
+66021,20,MissedShots,0.9419999694824219,0.5479999923706055,0.3968367576599121,Guillaume Gillet,a,3403,FromCorner,2015,Head,2073,Guingamp,Nantes,2,2,2016-01-16 23:00:00,Adryan,Cross
+66026,71,MissedShots,0.8490000152587891,0.495,0.020932869985699654,Johan Audel,a,3409,OpenPlay,2015,Head,2073,Guingamp,Nantes,2,2,2016-01-16 23:00:00,Ermir Lenjani,Cross
+66029,82,BlockedShot,0.7240000152587891,0.41900001525878905,0.01618487760424614,Guillaume Gillet,a,3403,OpenPlay,2015,RightFoot,2073,Guingamp,Nantes,2,2,2016-01-16 23:00:00,Yacine Bammou,Pass
+66030,83,BlockedShot,0.865999984741211,0.4540000152587891,0.09127610176801682,Adryan,a,3407,OpenPlay,2015,RightFoot,2073,Guingamp,Nantes,2,2,2016-01-16 23:00:00,Alejandro Bedoya,Pass
+66031,91,Goal,0.8880000305175781,0.37099998474121093,0.06974679976701736,Youssouf Sabaly,a,3399,OpenPlay,2015,LeftFoot,2073,Guingamp,Nantes,2,2,2016-01-16 23:00:00,Yacine Bammou,TakeOn

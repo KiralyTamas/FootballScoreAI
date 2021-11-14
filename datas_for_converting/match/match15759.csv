@@ -1,0 +1,22 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+419081,3,BlockedShot,0.8130000305175781,0.425,0.050972722470760345,Musa Barrow,h,6512,OpenPlay,2020,RightFoot,15759,Bologna,Fiorentina,3,3,2021-05-02 13:00:00,Rodrigo Palacio,Pass
+419082,3,SavedShot,0.7680000305175781,0.47200000762939454,0.013223975896835327,Roberto Soriano,h,1810,OpenPlay,2020,RightFoot,15759,Bologna,Fiorentina,3,3,2021-05-02 13:00:00,,Aerial
+419084,9,BlockedShot,0.8480000305175781,0.20200000762939452,0.015600037761032581,Takehiro Tomiyasu,h,7931,OpenPlay,2020,RightFoot,15759,Bologna,Fiorentina,3,3,2021-05-02 13:00:00,,None
+419087,24,SavedShot,0.8719999694824219,0.4570000076293945,0.2897273004055023,Riccardo Orsolini,h,6160,OpenPlay,2020,LeftFoot,15759,Bologna,Fiorentina,3,3,2021-05-02 13:00:00,Danilo,Throughball
+419089,30,Goal,0.9,0.4620000076293945,0.4314073324203491,Rodrigo Palacio,h,1518,OpenPlay,2020,RightFoot,15759,Bologna,Fiorentina,3,3,2021-05-02 13:00:00,Emanuel Vignato,Throughball
+419090,34,SavedShot,0.9059999847412109,0.5590000152587891,0.40261000394821167,Musa Barrow,h,6512,OpenPlay,2020,RightFoot,15759,Bologna,Fiorentina,3,3,2021-05-02 13:00:00,Emanuel Vignato,Throughball
+419091,37,BlockedShot,0.7380000305175781,0.629000015258789,0.018695801496505737,Musa Barrow,h,6512,OpenPlay,2020,RightFoot,15759,Bologna,Fiorentina,3,3,2021-05-02 13:00:00,Lorenzo De Silvestri,Pass
+419094,69,MissedShots,0.9080000305175782,0.4520000076293945,0.02215946651995182,Lorenzo De Silvestri,h,1193,FromCorner,2020,Head,15759,Bologna,Fiorentina,3,3,2021-05-02 13:00:00,Riccardo Orsolini,Aerial
+419095,70,Goal,0.925,0.46599998474121096,0.09446849673986435,Rodrigo Palacio,h,1518,OpenPlay,2020,Head,15759,Bologna,Fiorentina,3,3,2021-05-02 13:00:00,Emanuel Vignato,Cross
+419097,79,BlockedShot,0.96,0.15699999809265136,0.05822557955980301,Riccardo Orsolini,h,6160,DirectFreekick,2020,LeftFoot,15759,Bologna,Fiorentina,3,3,2021-05-02 13:00:00,,Standard
+419098,80,BlockedShot,0.875999984741211,0.43900001525878907,0.06112995371222496,Riccardo Orsolini,h,6160,OpenPlay,2020,LeftFoot,15759,Bologna,Fiorentina,3,3,2021-05-02 13:00:00,Mattias Svanberg,TakeOn
+419099,83,Goal,0.9130000305175782,0.52,0.48130297660827637,Rodrigo Palacio,h,1518,OpenPlay,2020,RightFoot,15759,Bologna,Fiorentina,3,3,2021-05-02 13:00:00,Emanuel Vignato,Throughball
+419083,8,MissedShots,0.805,0.3390000152587891,0.025327811017632484,Dusan Vlahovic,a,7084,OpenPlay,2020,LeftFoot,15759,Bologna,Fiorentina,3,3,2021-05-02 13:00:00,Giacomo Bonaventura,Pass
+419085,19,BlockedShot,0.740999984741211,0.485,0.017480812966823578,Erick Pulgar,a,1448,OpenPlay,2020,RightFoot,15759,Bologna,Fiorentina,3,3,2021-05-02 13:00:00,,None
+419086,21,Goal,0.885,0.5,0.7612589001655579,Dusan Vlahovic,a,7084,Penalty,2020,LeftFoot,15759,Bologna,Fiorentina,3,3,2021-05-02 13:00:00,,Standard
+419088,29,MissedShots,0.91,0.5509999847412109,0.09308607876300812,Germán Pezzella,a,2143,SetPiece,2020,Head,15759,Bologna,Fiorentina,3,3,2021-05-02 13:00:00,Cristiano Biraghi,Cross
+419092,43,ShotOnPost,0.8059999847412109,0.669000015258789,0.02042638324201107,Giacomo Bonaventura,a,1121,SetPiece,2020,RightFoot,15759,Bologna,Fiorentina,3,3,2021-05-02 13:00:00,,None
+419093,63,Goal,0.9309999847412109,0.5279999923706055,0.4027632176876068,Giacomo Bonaventura,a,1121,OpenPlay,2020,LeftFoot,15759,Bologna,Fiorentina,3,3,2021-05-02 13:00:00,Lorenzo Venuti,Cross
+419096,72,Goal,0.9790000152587891,0.4520000076293945,0.5331059694290161,Dusan Vlahovic,a,7084,FromCorner,2020,RightFoot,15759,Bologna,Fiorentina,3,3,2021-05-02 13:00:00,Erick Pulgar,Cross
+419100,91,BlockedShot,0.865,0.5179999923706055,0.11187224835157394,Dusan Vlahovic,a,7084,OpenPlay,2020,RightFoot,15759,Bologna,Fiorentina,3,3,2021-05-02 13:00:00,Christian Kouamé,Pass
+419101,92,BlockedShot,0.759000015258789,0.5509999847412109,0.046313486993312836,Dusan Vlahovic,a,7084,OpenPlay,2020,LeftFoot,15759,Bologna,Fiorentina,3,3,2021-05-02 13:00:00,Erick Pulgar,Pass

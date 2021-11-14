@@ -1,0 +1,28 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+164060,1,BlockedShot,0.769000015258789,0.539000015258789,0.04028377681970596,Thomas Monconduit,h,5963,OpenPlay,2017,LeftFoot,8655,Amiens,Bordeaux,1,0,2017-10-21 19:00:00,Gaël Kakuta,LayOff
+164061,3,SavedShot,0.884000015258789,0.6930000305175781,0.11554235219955444,Harrison Manzala,h,5964,OpenPlay,2017,LeftFoot,8655,Amiens,Bordeaux,1,0,2017-10-21 19:00:00,Serge Gakpe,Throughball
+164062,8,SavedShot,0.8959999847412109,0.3240000152587891,0.034894756972789764,Serge Gakpe,h,1581,FromCorner,2017,RightFoot,8655,Amiens,Bordeaux,1,0,2017-10-21 19:00:00,Gaël Kakuta,Cross
+164063,8,MissedShots,0.914000015258789,0.6940000152587891,0.00893936213105917,Harrison Manzala,h,5964,FromCorner,2017,Head,8655,Amiens,Bordeaux,1,0,2017-10-21 19:00:00,Gaël Kakuta,Cross
+164065,23,MissedShots,0.97,0.4209999847412109,0.4701114296913147,Serge Gakpe,h,1581,SetPiece,2017,LeftFoot,8655,Amiens,Bordeaux,1,0,2017-10-21 19:00:00,Bakaye Dibassy,BallTouch
+164072,39,MissedShots,0.7190000152587891,0.5220000076293946,0.02041018009185791,Harrison Manzala,h,5964,OpenPlay,2017,RightFoot,8655,Amiens,Bordeaux,1,0,2017-10-21 19:00:00,Thomas Monconduit,Pass
+164074,44,SavedShot,0.75,0.36700000762939455,0.01209909189492464,Gaël Kakuta,h,2549,SetPiece,2017,LeftFoot,8655,Amiens,Bordeaux,1,0,2017-10-21 19:00:00,,None
+164076,51,BlockedShot,0.8130000305175781,0.32,0.029561979696154594,Guy N&#039;Gosso,h,3587,OpenPlay,2017,RightFoot,8655,Amiens,Bordeaux,1,0,2017-10-21 19:00:00,Serge Gakpe,Pass
+164080,60,BlockedShot,0.92,0.4229999923706055,0.12066467851400375,Lacina Traoré,h,3432,OpenPlay,2017,LeftFoot,8655,Amiens,Bordeaux,1,0,2017-10-21 19:00:00,Thomas Monconduit,Pass
+164081,63,MissedShots,0.889000015258789,0.519000015258789,0.04728677496314049,Khaled Adenon,h,5959,FromCorner,2017,Head,8655,Amiens,Bordeaux,1,0,2017-10-21 19:00:00,Serge Gakpe,HeadPass
+164082,63,Goal,0.9840000152587891,0.5829999923706055,0.11765337735414505,Guy N&#039;Gosso,h,3587,FromCorner,2017,LeftFoot,8655,Amiens,Bordeaux,1,0,2017-10-21 19:00:00,Khaled Adenon,Rebound
+164083,66,MissedShots,0.919000015258789,0.47,0.08414752036333084,Danilo Avelar,h,1933,SetPiece,2017,RightFoot,8655,Amiens,Bordeaux,1,0,2017-10-21 19:00:00,Guy N&#039;Gosso,HeadPass
+164085,76,MissedShots,0.865999984741211,0.5270000076293946,0.010967493988573551,Moussa Konate,h,4670,SetPiece,2017,Head,8655,Amiens,Bordeaux,1,0,2017-10-21 19:00:00,Danilo Avelar,Aerial
+164064,20,SavedShot,0.71,0.35400001525878905,0.014020968228578568,Lukas Lerager,a,6021,OpenPlay,2017,RightFoot,8655,Amiens,Bordeaux,1,0,2017-10-21 19:00:00,Nicolas de Preville,Pass
+164066,27,BlockedShot,0.8269999694824218,0.6969999694824218,0.030563782900571823,Nicolas de Preville,a,3244,OpenPlay,2017,RightFoot,8655,Amiens,Bordeaux,1,0,2017-10-21 19:00:00,Younousse Sankhare,Pass
+164067,28,MissedShots,0.81,0.63,0.03807703033089638,Alexandre Mendy,a,3580,OpenPlay,2017,RightFoot,8655,Amiens,Bordeaux,1,0,2017-10-21 19:00:00,Lukas Lerager,Pass
+164068,32,BlockedShot,0.9069999694824219,0.3029999923706055,0.11464837938547134,Alexandre Mendy,a,3580,OpenPlay,2017,RightFoot,8655,Amiens,Bordeaux,1,0,2017-10-21 19:00:00,Jonathan Cafu,Throughball
+164069,32,MissedShots,0.925,0.519000015258789,0.1375943422317505,Younousse Sankhare,a,3474,OpenPlay,2017,Head,8655,Amiens,Bordeaux,1,0,2017-10-21 19:00:00,Igor Lewczuk,Cross
+164070,37,BlockedShot,0.855,0.654000015258789,0.05857226625084877,Younousse Sankhare,a,3474,OpenPlay,2017,LeftFoot,8655,Amiens,Bordeaux,1,0,2017-10-21 19:00:00,Lukas Lerager,Pass
+164071,37,SavedShot,0.9269999694824219,0.48,0.06597653031349182,Alexandre Mendy,a,3580,OpenPlay,2017,Head,8655,Amiens,Bordeaux,1,0,2017-10-21 19:00:00,,Rebound
+164073,40,BlockedShot,0.720999984741211,0.45,0.014306989498436451,Nicolas de Preville,a,3244,OpenPlay,2017,RightFoot,8655,Amiens,Bordeaux,1,0,2017-10-21 19:00:00,Younousse Sankhare,Pass
+164075,50,MissedShots,0.745,0.55,0.021251492202281952,Younousse Sankhare,a,3474,OpenPlay,2017,LeftFoot,8655,Amiens,Bordeaux,1,0,2017-10-21 19:00:00,Lukas Lerager,Pass
+164077,56,MissedShots,0.8569999694824219,0.6229999923706054,0.0967557430267334,Nicolas de Preville,a,3244,OpenPlay,2017,LeftFoot,8655,Amiens,Bordeaux,1,0,2017-10-21 19:00:00,Alexandre Mendy,Pass
+164078,58,SavedShot,0.765,0.42700000762939455,0.02623720094561577,Nicolas de Preville,a,3244,OpenPlay,2017,LeftFoot,8655,Amiens,Bordeaux,1,0,2017-10-21 19:00:00,Jonathan Cafu,Pass
+164079,59,SavedShot,0.875,0.7140000152587891,0.039633698761463165,Francois Kamano,a,3333,OpenPlay,2017,RightFoot,8655,Amiens,Bordeaux,1,0,2017-10-21 19:00:00,,None
+164084,73,MissedShots,0.9169999694824219,0.48200000762939454,0.049522701650857925,Younousse Sankhare,a,3474,OpenPlay,2017,Head,8655,Amiens,Bordeaux,1,0,2017-10-21 19:00:00,Théo Pellenard,Aerial
+164086,88,BlockedShot,0.865,0.6329999923706054,0.053014643490314484,Francois Kamano,a,3333,OpenPlay,2017,RightFoot,8655,Amiens,Bordeaux,1,0,2017-10-21 19:00:00,,None

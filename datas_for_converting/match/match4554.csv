@@ -1,0 +1,50 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+19819,9,BlockedShot,0.7669999694824219,0.35,0.02056943066418171,Eduardo Vargas,h,85,OpenPlay,2014,RightFoot,4554,Queens Park Rangers,Swansea,1,1,2015-01-01 15:00:00,Leroy Fer,Pass
+19820,14,BlockedShot,0.84,0.54,0.048909544944763184,Eduardo Vargas,h,85,OpenPlay,2014,RightFoot,4554,Queens Park Rangers,Swansea,1,1,2015-01-01 15:00:00,Bobby Zamora,HeadPass
+19821,14,BlockedShot,0.899000015258789,0.595999984741211,0.08883950114250183,Charlie Austin,h,848,OpenPlay,2014,RightFoot,4554,Queens Park Rangers,Swansea,1,1,2015-01-01 15:00:00,,Rebound
+19822,15,MissedShots,0.8080000305175781,0.5420000076293945,0.010036894120275974,Eduardo Vargas,h,85,SetPiece,2014,Head,4554,Queens Park Rangers,Swansea,1,1,2015-01-01 15:00:00,Clint Hill,Cross
+19823,16,BlockedShot,0.91,0.48900001525878906,0.29561537504196167,Charlie Austin,h,848,FromCorner,2014,RightFoot,4554,Queens Park Rangers,Swansea,1,1,2015-01-01 15:00:00,Joey Barton,Cross
+19824,19,Goal,0.764000015258789,0.649000015258789,0.01684543490409851,Leroy Fer,h,711,OpenPlay,2014,RightFoot,4554,Queens Park Rangers,Swansea,1,1,2015-01-01 15:00:00,,None
+19826,21,MissedShots,0.9490000152587891,0.5370000076293945,0.5285830497741699,Bobby Zamora,h,4396,OpenPlay,2014,Head,4554,Queens Park Rangers,Swansea,1,1,2015-01-01 15:00:00,Eduardo Vargas,Cross
+19827,22,BlockedShot,0.784000015258789,0.6680000305175782,0.039860449731349945,Leroy Fer,h,711,OpenPlay,2014,RightFoot,4554,Queens Park Rangers,Swansea,1,1,2015-01-01 15:00:00,Clint Hill,TakeOn
+19832,36,MissedShots,0.7190000152587891,0.33599998474121096,0.01413958054035902,Bobby Zamora,h,4396,OpenPlay,2014,LeftFoot,4554,Queens Park Rangers,Swansea,1,1,2015-01-01 15:00:00,,None
+19833,37,SavedShot,0.750999984741211,0.48900001525878906,0.03166823461651802,Mauricio Isla,h,1402,OpenPlay,2014,RightFoot,4554,Queens Park Rangers,Swansea,1,1,2015-01-01 15:00:00,Leroy Fer,Tackle
+19838,42,ShotOnPost,0.98,0.29700000762939455,0.07014016807079315,Eduardo Vargas,h,85,OpenPlay,2014,RightFoot,4554,Queens Park Rangers,Swansea,1,1,2015-01-01 15:00:00,Bobby Zamora,Pass
+19839,49,ShotOnPost,0.9330000305175781,0.3940000152587891,0.20652727782726288,Charlie Austin,h,848,OpenPlay,2014,Head,4554,Queens Park Rangers,Swansea,1,1,2015-01-01 15:00:00,Clint Hill,Cross
+19840,49,BlockedShot,0.784000015258789,0.3340000152587891,0.03281083703041077,Karl Henry,h,4394,OpenPlay,2014,RightFoot,4554,Queens Park Rangers,Swansea,1,1,2015-01-01 15:00:00,,None
+19841,49,BlockedShot,0.759000015258789,0.68,0.026163380593061447,Leroy Fer,h,711,OpenPlay,2014,RightFoot,4554,Queens Park Rangers,Swansea,1,1,2015-01-01 15:00:00,Joey Barton,Pass
+19843,52,SavedShot,0.9069999694824219,0.45799999237060546,0.29106417298316956,Joey Barton,h,4430,OpenPlay,2014,Head,4554,Queens Park Rangers,Swansea,1,1,2015-01-01 15:00:00,Bobby Zamora,Cross
+19844,53,BlockedShot,0.764000015258789,0.5690000152587891,0.035538140684366226,Leroy Fer,h,711,OpenPlay,2014,RightFoot,4554,Queens Park Rangers,Swansea,1,1,2015-01-01 15:00:00,,None
+19848,67,SavedShot,0.7709999847412109,0.30200000762939455,0.03262661024928093,Charlie Austin,h,848,OpenPlay,2014,RightFoot,4554,Queens Park Rangers,Swansea,1,1,2015-01-01 15:00:00,Bobby Zamora,LayOff
+19851,70,MissedShots,0.7930000305175782,0.544000015258789,0.06874023377895355,Leroy Fer,h,711,OpenPlay,2014,RightFoot,4554,Queens Park Rangers,Swansea,1,1,2015-01-01 15:00:00,Bobby Zamora,TakeOn
+19858,81,MissedShots,0.9340000152587891,0.34400001525878904,0.47161027789115906,Eduardo Vargas,h,85,OpenPlay,2014,RightFoot,4554,Queens Park Rangers,Swansea,1,1,2015-01-01 15:00:00,Leroy Fer,Throughball
+19860,90,MissedShots,0.8959999847412109,0.7069999694824218,0.04717627912759781,Junior Hoilett,h,4395,OpenPlay,2014,LeftFoot,4554,Queens Park Rangers,Swansea,1,1,2015-01-01 15:00:00,Charlie Austin,Chipped
+19862,93,BlockedShot,0.9419999694824219,0.5709999847412109,0.34906652569770813,Charlie Austin,h,848,OpenPlay,2014,Head,4554,Queens Park Rangers,Swansea,1,1,2015-01-01 15:00:00,Mauricio Isla,Cross
+19863,93,BlockedShot,0.9640000152587891,0.565,0.15122143924236298,Charlie Austin,h,848,OpenPlay,2014,LeftFoot,4554,Queens Park Rangers,Swansea,1,1,2015-01-01 15:00:00,,Rebound
+19864,93,SavedShot,0.91,0.6530000305175782,0.06042725592851639,Joey Barton,h,4430,OpenPlay,2014,RightFoot,4554,Queens Park Rangers,Swansea,1,1,2015-01-01 15:00:00,,Rebound
+19865,93,SavedShot,0.9690000152587891,0.5640000152587891,0.5935831069946289,Charlie Austin,h,848,OpenPlay,2014,RightFoot,4554,Queens Park Rangers,Swansea,1,1,2015-01-01 15:00:00,,Rebound
+19817,5,MissedShots,0.9030000305175782,0.21700000762939453,0.0242051612585783,Nathan Dyer,a,783,OpenPlay,2014,RightFoot,4554,Queens Park Rangers,Swansea,1,1,2015-01-01 15:00:00,,None
+19818,7,MissedShots,0.7819999694824219,0.34400001525878904,0.02325648069381714,Wayne Routledge,a,719,OpenPlay,2014,RightFoot,4554,Queens Park Rangers,Swansea,1,1,2015-01-01 15:00:00,Bafétimbi Gomis,Pass
+19825,20,SavedShot,0.8159999847412109,0.4909999847412109,0.047149889171123505,Bafétimbi Gomis,a,717,OpenPlay,2014,LeftFoot,4554,Queens Park Rangers,Swansea,1,1,2015-01-01 15:00:00,,None
+19828,25,MissedShots,0.93,0.2989999961853027,0.05008158087730408,Bafétimbi Gomis,a,717,OpenPlay,2014,RightFoot,4554,Queens Park Rangers,Swansea,1,1,2015-01-01 15:00:00,Nathan Dyer,Pass
+19829,31,SavedShot,0.8430000305175781,0.29399999618530276,0.035132456570863724,Bafétimbi Gomis,a,717,OpenPlay,2014,LeftFoot,4554,Queens Park Rangers,Swansea,1,1,2015-01-01 15:00:00,Gylfi Sigurdsson,TakeOn
+19830,33,MissedShots,0.754000015258789,0.42,0.02208697609603405,Bafétimbi Gomis,a,717,OpenPlay,2014,RightFoot,4554,Queens Park Rangers,Swansea,1,1,2015-01-01 15:00:00,Gylfi Sigurdsson,Pass
+19831,35,BlockedShot,0.9059999847412109,0.5420000076293945,0.036007028073072433,Bafétimbi Gomis,a,717,OpenPlay,2014,Head,4554,Queens Park Rangers,Swansea,1,1,2015-01-01 15:00:00,Wayne Routledge,Aerial
+19834,40,BlockedShot,0.9430000305175781,0.345,0.047393519431352615,Bafétimbi Gomis,a,717,OpenPlay,2014,RightFoot,4554,Queens Park Rangers,Swansea,1,1,2015-01-01 15:00:00,Nathan Dyer,Cross
+19835,40,BlockedShot,0.8430000305175781,0.455,0.057755809277296066,Wayne Routledge,a,719,OpenPlay,2014,RightFoot,4554,Queens Park Rangers,Swansea,1,1,2015-01-01 15:00:00,,Rebound
+19836,40,BlockedShot,0.8619999694824219,0.4229999923706055,0.06255573779344559,Gylfi Sigurdsson,a,714,OpenPlay,2014,LeftFoot,4554,Queens Park Rangers,Swansea,1,1,2015-01-01 15:00:00,,Rebound
+19837,40,MissedShots,0.8119999694824219,0.49400001525878906,0.04605085030198097,Wayne Routledge,a,719,OpenPlay,2014,RightFoot,4554,Queens Park Rangers,Swansea,1,1,2015-01-01 15:00:00,,Rebound
+19842,51,MissedShots,0.92,0.5820000076293945,0.08055341988801956,Federico Fernández,a,708,SetPiece,2014,Head,4554,Queens Park Rangers,Swansea,1,1,2015-01-01 15:00:00,Gylfi Sigurdsson,Cross
+19845,54,MissedShots,0.8109999847412109,0.49900001525878906,0.046985384076833725,Gylfi Sigurdsson,a,714,OpenPlay,2014,RightFoot,4554,Queens Park Rangers,Swansea,1,1,2015-01-01 15:00:00,Bafétimbi Gomis,Pass
+19846,59,MissedShots,0.745999984741211,0.629000015258789,0.016358060762286186,Wayne Routledge,a,719,OpenPlay,2014,RightFoot,4554,Queens Park Rangers,Swansea,1,1,2015-01-01 15:00:00,,None
+19847,62,MissedShots,0.7440000152587891,0.3579999923706055,0.016741683706641197,Angel Rangel,a,707,SetPiece,2014,RightFoot,4554,Queens Park Rangers,Swansea,1,1,2015-01-01 15:00:00,Leon Britton,Pass
+19849,69,BlockedShot,0.8059999847412109,0.38,0.03021605871617794,Gylfi Sigurdsson,a,714,OpenPlay,2014,RightFoot,4554,Queens Park Rangers,Swansea,1,1,2015-01-01 15:00:00,Bafétimbi Gomis,Pass
+19850,69,BlockedShot,0.895,0.66,0.05342879146337509,Marvin Emnes,a,829,OpenPlay,2014,RightFoot,4554,Queens Park Rangers,Swansea,1,1,2015-01-01 15:00:00,,Rebound
+19852,72,BlockedShot,0.7290000152587891,0.4540000152587891,0.01828118972480297,Wilfried Bony,a,622,OpenPlay,2014,RightFoot,4554,Queens Park Rangers,Swansea,1,1,2015-01-01 15:00:00,Neil Taylor,Pass
+19853,74,SavedShot,0.7709999847412109,0.47900001525878905,0.08421213924884796,Wilfried Bony,a,622,DirectFreekick,2014,RightFoot,4554,Queens Park Rangers,Swansea,1,1,2015-01-01 15:00:00,,Standard
+19854,74,BlockedShot,0.8619999694824219,0.4759999847412109,0.069767527282238,Ashley Williams,a,709,FromCorner,2014,RightFoot,4554,Queens Park Rangers,Swansea,1,1,2015-01-01 15:00:00,,None
+19855,77,MissedShots,0.924000015258789,0.5529999923706055,0.08627212047576904,Bafétimbi Gomis,a,717,FromCorner,2014,Head,4554,Queens Park Rangers,Swansea,1,1,2015-01-01 15:00:00,Wayne Routledge,Cross
+19856,79,SavedShot,0.9459999847412109,0.585,0.3885554373264313,Ki Sung-yueng,a,723,OpenPlay,2014,RightFoot,4554,Queens Park Rangers,Swansea,1,1,2015-01-01 15:00:00,Wilfried Bony,Pass
+19857,79,BlockedShot,0.95,0.56,0.3497980535030365,Marvin Emnes,a,829,OpenPlay,2014,Head,4554,Queens Park Rangers,Swansea,1,1,2015-01-01 15:00:00,,Rebound
+19859,87,MissedShots,0.9169999694824219,0.45599998474121095,0.0799834355711937,Bafétimbi Gomis,a,717,FromCorner,2014,Head,4554,Queens Park Rangers,Swansea,1,1,2015-01-01 15:00:00,Ki Sung-yueng,Cross
+19861,91,Goal,0.8490000152587891,0.5129999923706055,0.07839909940958023,Wilfried Bony,a,622,OpenPlay,2014,RightFoot,4554,Queens Park Rangers,Swansea,1,1,2015-01-01 15:00:00,Ki Sung-yueng,Pass

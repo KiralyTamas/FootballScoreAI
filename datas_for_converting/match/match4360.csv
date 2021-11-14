@@ -1,0 +1,22 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+124295,56,BlockedShot,0.76,0.46599998474121096,0.024414539337158203,Pavel Golyshev,h,5396,OpenPlay,2016,RightFoot,4360,Tom Tomsk,Zenit St. Petersburg,0,2,2017-05-01 11:00:00,Aleksey Pugin,Pass
+124296,56,BlockedShot,0.9169999694824219,0.6930000305175781,0.05914671719074249,Artem Popov,h,5393,OpenPlay,2016,RightFoot,4360,Tom Tomsk,Zenit St. Petersburg,0,2,2017-05-01 11:00:00,Pavel Golyshev,Pass
+124297,58,MissedShots,0.7219999694824218,0.37599998474121094,0.013176322914659977,Alexander Sobolev,h,5397,OpenPlay,2016,LeftFoot,4360,Tom Tomsk,Zenit St. Petersburg,0,2,2017-05-01 11:00:00,Pavel Golyshev,Tackle
+124300,91,MissedShots,0.8019999694824219,0.6329999923706054,0.022503826767206192,Daniil Bolshunov,h,5399,OpenPlay,2016,LeftFoot,4360,Tom Tomsk,Zenit St. Petersburg,0,2,2017-05-01 11:00:00,Aleksey Pugin,Pass
+124301,91,MissedShots,0.7619999694824219,0.56,0.02284145914018154,Daniil Bolshunov,h,5399,OpenPlay,2016,LeftFoot,4360,Tom Tomsk,Zenit St. Petersburg,0,2,2017-05-01 11:00:00,Valeriu Ciuperca,Pass
+124281,4,MissedShots,0.8069999694824219,0.27100000381469724,0.02144145965576172,Oleg Shatov,a,3062,OpenPlay,2016,RightFoot,4360,Tom Tomsk,Zenit St. Petersburg,0,2,2017-05-01 11:00:00,Giuliano,Pass
+124282,11,MissedShots,0.950999984741211,0.6730000305175782,0.03379583731293678,Danny,a,3080,OpenPlay,2016,LeftFoot,4360,Tom Tomsk,Zenit St. Petersburg,0,2,2017-05-01 11:00:00,Oleg Shatov,Cross
+124283,17,SavedShot,0.919000015258789,0.5540000152587891,0.08478013426065445,Javi García,a,3061,FromCorner,2016,LeftFoot,4360,Tom Tomsk,Zenit St. Petersburg,0,2,2017-05-01 11:00:00,Domenico Criscito,Cross
+124284,22,MissedShots,0.9,0.38799999237060545,0.02233113907277584,Giuliano,a,5467,OpenPlay,2016,Head,4360,Tom Tomsk,Zenit St. Petersburg,0,2,2017-05-01 11:00:00,Igor Smolnikov,Cross
+124285,25,SavedShot,0.7669999694824219,0.42400001525878905,0.026433732360601425,Igor Smolnikov,a,3055,OpenPlay,2016,LeftFoot,4360,Tom Tomsk,Zenit St. Petersburg,0,2,2017-05-01 11:00:00,,None
+124286,26,BlockedShot,0.88,0.7880000305175782,0.019454829394817352,Danny,a,3080,FromCorner,2016,RightFoot,4360,Tom Tomsk,Zenit St. Petersburg,0,2,2017-05-01 11:00:00,Domenico Criscito,Pass
+124287,26,BlockedShot,0.730999984741211,0.5690000152587891,0.01543864980340004,Giuliano,a,5467,FromCorner,2016,RightFoot,4360,Tom Tomsk,Zenit St. Petersburg,0,2,2017-05-01 11:00:00,Javi García,Pass
+124288,32,ShotOnPost,0.8019999694824219,0.7530000305175781,0.013879358768463135,Yuri Zhirkov,a,3058,SetPiece,2016,LeftFoot,4360,Tom Tomsk,Zenit St. Petersburg,0,2,2017-05-01 11:00:00,Hernani,HeadPass
+124289,34,Goal,0.8580000305175781,0.43099998474121093,0.3510122299194336,Oleg Shatov,a,3062,OpenPlay,2016,RightFoot,4360,Tom Tomsk,Zenit St. Petersburg,0,2,2017-05-01 11:00:00,Giuliano,Chipped
+124290,36,SavedShot,0.870999984741211,0.34200000762939453,0.05865136533975601,Igor Smolnikov,a,3055,OpenPlay,2016,LeftFoot,4360,Tom Tomsk,Zenit St. Petersburg,0,2,2017-05-01 11:00:00,Artem Dzyuba,Pass
+124291,37,BlockedShot,0.745,0.3,0.017126645892858505,Giuliano,a,5467,OpenPlay,2016,RightFoot,4360,Tom Tomsk,Zenit St. Petersburg,0,2,2017-05-01 11:00:00,,BallRecovery
+124292,43,MissedShots,0.9409999847412109,0.5520000076293945,0.11060627549886703,Javi García,a,3061,FromCorner,2016,Head,4360,Tom Tomsk,Zenit St. Petersburg,0,2,2017-05-01 11:00:00,Domenico Criscito,Cross
+124293,46,MissedShots,0.904000015258789,0.40299999237060546,0.09063876420259476,Oleg Shatov,a,3062,OpenPlay,2016,RightFoot,4360,Tom Tomsk,Zenit St. Petersburg,0,2,2017-05-01 11:00:00,Yuri Zhirkov,Cross
+124294,53,MissedShots,0.914000015258789,0.44299999237060544,0.12149980664253235,Artem Dzyuba,a,3063,OpenPlay,2016,RightFoot,4360,Tom Tomsk,Zenit St. Petersburg,0,2,2017-05-01 11:00:00,Oleg Shatov,Chipped
+124298,81,MissedShots,0.720999984741211,0.495,0.0441967137157917,Oleg Shatov,a,3062,DirectFreekick,2016,RightFoot,4360,Tom Tomsk,Zenit St. Petersburg,0,2,2017-05-01 11:00:00,,Standard
+124299,82,Goal,0.935,0.505,0.5960035920143127,Danny,a,3080,OpenPlay,2016,RightFoot,4360,Tom Tomsk,Zenit St. Petersburg,0,2,2017-05-01 11:00:00,Oleg Shatov,Pass

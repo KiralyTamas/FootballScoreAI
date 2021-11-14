@@ -1,0 +1,25 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+77996,1,MissedShots,0.9269999694824219,0.4420000076293945,0.039809007197618484,Martin Harnik,h,407,FromCorner,2015,Head,1101,VfB Stuttgart,Ingolstadt,1,0,2015-10-18 19:30:00,Alexandru Maxim,Aerial
+77999,5,MissedShots,0.710999984741211,0.40200000762939453,0.015265395864844322,Florian Klein,h,383,OpenPlay,2015,RightFoot,1101,VfB Stuttgart,Ingolstadt,1,0,2015-10-18 19:30:00,Timo Werner,Pass
+78000,6,BlockedShot,0.7580000305175781,0.5479999923706055,0.022686505690217018,Emiliano Insúa,h,59,SetPiece,2015,LeftFoot,1101,VfB Stuttgart,Ingolstadt,1,0,2015-10-18 19:30:00,Alexandru Maxim,Pass
+78001,8,BlockedShot,0.9080000305175782,0.6090000152587891,0.11306911706924438,Timo Werner,h,65,OpenPlay,2015,LeftFoot,1101,VfB Stuttgart,Ingolstadt,1,0,2015-10-18 19:30:00,Daniel Didavi,Pass
+78002,8,MissedShots,0.850999984741211,0.595999984741211,0.0584956631064415,Lukas Rupp,h,62,OpenPlay,2015,LeftFoot,1101,VfB Stuttgart,Ingolstadt,1,0,2015-10-18 19:30:00,,Rebound
+78003,13,SavedShot,0.91,0.3509999847412109,0.3342723250389099,Timo Werner,h,65,OpenPlay,2015,RightFoot,1101,VfB Stuttgart,Ingolstadt,1,0,2015-10-18 19:30:00,Geoffroy Serey Dié,Throughball
+78008,35,SavedShot,0.84,0.11600000381469727,0.017629224807024002,Daniel Didavi,h,300,OpenPlay,2015,LeftFoot,1101,VfB Stuttgart,Ingolstadt,1,0,2015-10-18 19:30:00,Florian Klein,Pass
+78009,39,MissedShots,0.730999984741211,0.77,0.016581544652581215,Daniel Didavi,h,300,OpenPlay,2015,LeftFoot,1101,VfB Stuttgart,Ingolstadt,1,0,2015-10-18 19:30:00,Geoffroy Serey Dié,Pass
+78010,44,SavedShot,0.7880000305175782,0.629000015258789,0.030102452263236046,Daniel Didavi,h,300,OpenPlay,2015,LeftFoot,1101,VfB Stuttgart,Ingolstadt,1,0,2015-10-18 19:30:00,Timo Werner,Pass
+78011,50,MissedShots,0.8440000152587891,0.73,0.02865576185286045,Alexandru Maxim,h,63,OpenPlay,2015,RightFoot,1101,VfB Stuttgart,Ingolstadt,1,0,2015-10-18 19:30:00,Timo Werner,Pass
+78012,58,BlockedShot,0.8159999847412109,0.2670000076293945,0.016997622326016426,Florian Klein,h,383,OpenPlay,2015,LeftFoot,1101,VfB Stuttgart,Ingolstadt,1,0,2015-10-18 19:30:00,Alexandru Maxim,Chipped
+78013,58,Goal,0.9530000305175781,0.5129999923706055,0.6567707061767578,Daniel Didavi,h,300,OpenPlay,2015,RightFoot,1101,VfB Stuttgart,Ingolstadt,1,0,2015-10-18 19:30:00,Florian Klein,Rebound
+77997,3,SavedShot,0.885,0.5,0.75777667760849,Mathew Leckie,a,241,Penalty,2015,RightFoot,1101,VfB Stuttgart,Ingolstadt,1,0,2015-10-18 19:30:00,,Standard
+77998,3,MissedShots,0.9019999694824219,0.38799999237060545,0.08657624572515488,Stefan Lex,a,243,SetPiece,2015,RightFoot,1101,VfB Stuttgart,Ingolstadt,1,0,2015-10-18 19:30:00,,Rebound
+78004,16,SavedShot,0.919000015258789,0.555,0.29593658447265625,Stefan Lex,a,243,OpenPlay,2015,Head,1101,VfB Stuttgart,Ingolstadt,1,0,2015-10-18 19:30:00,Pascal Groß,Chipped
+78005,18,BlockedShot,0.8640000152587891,0.549000015258789,0.13354161381721497,Lukas Hinterseer,a,242,OpenPlay,2015,LeftFoot,1101,VfB Stuttgart,Ingolstadt,1,0,2015-10-18 19:30:00,Pascal Groß,Pass
+78006,18,BlockedShot,0.9,0.585,0.08540523797273636,Lukas Hinterseer,a,242,OpenPlay,2015,RightFoot,1101,VfB Stuttgart,Ingolstadt,1,0,2015-10-18 19:30:00,,None
+78007,23,MissedShots,0.6940000152587891,0.43,0.0124290706589818,Pascal Groß,a,239,OpenPlay,2015,RightFoot,1101,VfB Stuttgart,Ingolstadt,1,0,2015-10-18 19:30:00,Stefan Lex,Pass
+78014,61,SavedShot,0.905,0.34599998474121096,0.06266451627016068,Pascal Groß,a,239,OpenPlay,2015,RightFoot,1101,VfB Stuttgart,Ingolstadt,1,0,2015-10-18 19:30:00,Moritz Hartmann,HeadPass
+78015,65,SavedShot,0.8219999694824218,0.46599998474121096,0.054162394255399704,Moritz Hartmann,a,362,OpenPlay,2015,RightFoot,1101,VfB Stuttgart,Ingolstadt,1,0,2015-10-18 19:30:00,Markus Suttner,Pass
+78016,74,MissedShots,0.7809999847412109,0.44799999237060545,0.055512748658657074,Alfredo Morales,a,252,OpenPlay,2015,RightFoot,1101,VfB Stuttgart,Ingolstadt,1,0,2015-10-18 19:30:00,Moritz Hartmann,LayOff
+78017,89,SavedShot,0.955999984741211,0.835,0.064645916223526,Pascal Groß,a,239,DirectFreekick,2015,RightFoot,1101,VfB Stuttgart,Ingolstadt,1,0,2015-10-18 19:30:00,,Standard
+78018,90,SavedShot,0.8290000152587891,0.8530000305175781,0.040092743933200836,Pascal Groß,a,239,DirectFreekick,2015,RightFoot,1101,VfB Stuttgart,Ingolstadt,1,0,2015-10-18 19:30:00,,Standard
+78019,93,MissedShots,0.9280000305175782,0.7080000305175781,0.050222814083099365,Marvin Matip,a,236,OpenPlay,2015,LeftFoot,1101,VfB Stuttgart,Ingolstadt,1,0,2015-10-18 19:30:00,Benjamin Hübner,HeadPass

@@ -1,0 +1,38 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+10685,16,MissedShots,0.850999984741211,0.2510000038146973,0.01961340382695198,Vladimir Dyadyun,h,2974,OpenPlay,2014,LeftFoot,6417,Rubin Kazan,Spartak Moscow,0,4,2014-08-01 17:00:00,Pavel Mogilevets,Pass
+10686,19,SavedShot,0.8859999847412109,0.6029999923706054,0.10719550400972366,Gökdeniz Karadeniz,h,2971,OpenPlay,2014,RightFoot,6417,Rubin Kazan,Spartak Moscow,0,4,2014-08-01 17:00:00,Sardar Azmoun,Pass
+10687,19,MissedShots,0.889000015258789,0.47400001525878904,0.05970389395952225,Sardar Azmoun,h,2774,OpenPlay,2014,Head,6417,Rubin Kazan,Spartak Moscow,0,4,2014-08-01 17:00:00,Gökdeniz Karadeniz,Cross
+10690,25,MissedShots,0.7380000305175781,0.37099998474121093,0.013731317594647408,Pavel Mogilevets,h,2773,OpenPlay,2014,LeftFoot,6417,Rubin Kazan,Spartak Moscow,0,4,2014-08-01 17:00:00,,None
+10692,27,BlockedShot,0.8040000152587891,0.46799999237060547,0.05293650925159454,Gökdeniz Karadeniz,h,2971,OpenPlay,2014,RightFoot,6417,Rubin Kazan,Spartak Moscow,0,4,2014-08-01 17:00:00,Sardar Azmoun,Pass
+10693,28,MissedShots,0.89,0.42700000762939455,0.023671582341194153,Sardar Azmoun,h,2774,FromCorner,2014,Head,6417,Rubin Kazan,Spartak Moscow,0,4,2014-08-01 17:00:00,Pavel Mogilevets,Cross
+10694,29,SavedShot,0.8859999847412109,0.509000015258789,0.052794598042964935,Sardar Azmoun,h,2774,OpenPlay,2014,Head,6417,Rubin Kazan,Spartak Moscow,0,4,2014-08-01 17:00:00,Elmir Nabiullin,Cross
+10697,34,MissedShots,0.8009999847412109,0.5279999923706055,0.03539001941680908,Marko Livaja,h,1935,OpenPlay,2014,RightFoot,6417,Rubin Kazan,Spartak Moscow,0,4,2014-08-01 17:00:00,Vladimir Dyadyun,Pass
+10699,40,BlockedShot,0.784000015258789,0.30700000762939456,0.056434839963912964,Gökdeniz Karadeniz,h,2971,DirectFreekick,2014,RightFoot,6417,Rubin Kazan,Spartak Moscow,0,4,2014-08-01 17:00:00,,Standard
+10701,44,MissedShots,0.7919999694824219,0.6419999694824219,0.02361753024160862,Pavel Mogilevets,h,2773,OpenPlay,2014,RightFoot,6417,Rubin Kazan,Spartak Moscow,0,4,2014-08-01 17:00:00,Vladimir Dyadyun,BallTouch
+10702,50,SavedShot,0.7319999694824219,0.735,0.012914765626192093,Maksim Kanunnikov,h,2969,OpenPlay,2014,RightFoot,6417,Rubin Kazan,Spartak Moscow,0,4,2014-08-01 17:00:00,Pavel Mogilevets,Pass
+10703,50,SavedShot,0.865999984741211,0.59,0.3268766403198242,Sardar Azmoun,h,2774,OpenPlay,2014,RightFoot,6417,Rubin Kazan,Spartak Moscow,0,4,2014-08-01 17:00:00,Marko Livaja,Throughball
+10704,51,MissedShots,0.924000015258789,0.42200000762939455,0.057213835418224335,Pavel Mogilevets,h,2773,FromCorner,2014,Head,6417,Rubin Kazan,Spartak Moscow,0,4,2014-08-01 17:00:00,Sergei Kislyak,Cross
+10706,62,MissedShots,0.9219999694824219,0.62,0.034723248332738876,Magomed Ozdoev,h,2968,OpenPlay,2014,Head,6417,Rubin Kazan,Spartak Moscow,0,4,2014-08-01 17:00:00,Gökdeniz Karadeniz,Aerial
+10711,76,SavedShot,0.9,0.5259999847412109,0.26676657795906067,Maksim Kanunnikov,h,2969,OpenPlay,2014,Head,6417,Rubin Kazan,Spartak Moscow,0,4,2014-08-01 17:00:00,Marko Devic,Cross
+10712,76,SavedShot,0.870999984741211,0.720999984741211,0.025202646851539612,Magomed Ozdoev,h,2968,OpenPlay,2014,RightFoot,6417,Rubin Kazan,Spartak Moscow,0,4,2014-08-01 17:00:00,Maksim Kanunnikov,Pass
+10714,83,BlockedShot,0.725999984741211,0.5309999847412109,0.011362848803400993,Oleg Kuzmin,h,2963,SetPiece,2014,RightFoot,6417,Rubin Kazan,Spartak Moscow,0,4,2014-08-01 17:00:00,,None
+10715,85,MissedShots,0.79,0.720999984741211,0.016436738893389702,Maksim Kanunnikov,h,2969,OpenPlay,2014,RightFoot,6417,Rubin Kazan,Spartak Moscow,0,4,2014-08-01 17:00:00,Magomed Ozdoev,Pass
+10682,1,SavedShot,0.865999984741211,0.6370000076293946,0.05710062012076378,Artem Dzyuba,a,3063,OpenPlay,2014,RightFoot,6417,Rubin Kazan,Spartak Moscow,0,4,2014-08-01 17:00:00,,None
+10683,11,BlockedShot,0.855999984741211,0.47400001525878904,0.015828805044293404,Kim Källström,a,4590,SetPiece,2014,Head,6417,Rubin Kazan,Spartak Moscow,0,4,2014-08-01 17:00:00,,Aerial
+10684,12,BlockedShot,0.8830000305175781,0.37400001525878906,0.09155730903148651,Tino Costa,a,1885,OpenPlay,2014,LeftFoot,6417,Rubin Kazan,Spartak Moscow,0,4,2014-08-01 17:00:00,Artem Dzyuba,Pass
+10688,20,MissedShots,0.725999984741211,0.5940000152587891,0.012266384437680244,Artem Dzyuba,a,3063,OpenPlay,2014,RightFoot,6417,Rubin Kazan,Spartak Moscow,0,4,2014-08-01 17:00:00,,None
+10689,21,BlockedShot,0.769000015258789,0.500999984741211,0.021861540153622627,Jano Ananidze,a,2816,OpenPlay,2014,RightFoot,6417,Rubin Kazan,Spartak Moscow,0,4,2014-08-01 17:00:00,Artem Dzyuba,Pass
+10691,25,Goal,0.9569999694824218,0.5070000076293946,0.6191806197166443,Artem Dzyuba,a,3063,OpenPlay,2014,RightFoot,6417,Rubin Kazan,Spartak Moscow,0,4,2014-08-01 17:00:00,Tino Costa,Cross
+10695,31,SavedShot,0.76,0.35,0.018860867246985435,Denis Glushakov,a,2814,OpenPlay,2014,LeftFoot,6417,Rubin Kazan,Spartak Moscow,0,4,2014-08-01 17:00:00,Artem Dzyuba,Pass
+10696,32,BlockedShot,0.7030000305175781,0.504000015258789,0.01648956537246704,Jano Ananidze,a,2816,OpenPlay,2014,RightFoot,6417,Rubin Kazan,Spartak Moscow,0,4,2014-08-01 17:00:00,Denis Glushakov,Pass
+10698,38,MissedShots,0.7219999694824218,0.5509999847412109,0.01734001189470291,Kim Källström,a,4590,OpenPlay,2014,LeftFoot,6417,Rubin Kazan,Spartak Moscow,0,4,2014-08-01 17:00:00,Jano Ananidze,Pass
+10700,42,MissedShots,0.8490000152587891,0.7240000152587891,0.042526282370090485,Evgeni Makeev,a,2812,OpenPlay,2014,RightFoot,6417,Rubin Kazan,Spartak Moscow,0,4,2014-08-01 17:00:00,,None
+10705,52,Goal,0.915,0.4779999923706055,0.12194615602493286,Artem Dzyuba,a,3063,OpenPlay,2014,Head,6417,Rubin Kazan,Spartak Moscow,0,4,2014-08-01 17:00:00,Dmitri Kombarov,Cross
+10707,66,MissedShots,0.8859999847412109,0.45,0.07031776756048203,João Carlos,a,4589,SetPiece,2014,RightFoot,6417,Rubin Kazan,Spartak Moscow,0,4,2014-08-01 17:00:00,Tino Costa,Cross
+10708,67,MissedShots,0.7190000152587891,0.3659999847412109,0.03737812489271164,Tino Costa,a,1885,DirectFreekick,2014,LeftFoot,6417,Rubin Kazan,Spartak Moscow,0,4,2014-08-01 17:00:00,,Standard
+10709,68,MissedShots,0.7569999694824219,0.3139999961853027,0.01912837289273739,Denis Glushakov,a,2814,OpenPlay,2014,RightFoot,6417,Rubin Kazan,Spartak Moscow,0,4,2014-08-01 17:00:00,,Dispossessed
+10710,73,Goal,0.725,0.6140000152587891,0.04102601483464241,Denis Glushakov,a,2814,DirectFreekick,2014,RightFoot,6417,Rubin Kazan,Spartak Moscow,0,4,2014-08-01 17:00:00,,Standard
+10713,79,BlockedShot,0.6990000152587891,0.47400001525878904,0.013631589710712433,Tino Costa,a,1885,OpenPlay,2014,LeftFoot,6417,Rubin Kazan,Spartak Moscow,0,4,2014-08-01 17:00:00,,BallRecovery
+10716,88,ShotOnPost,0.8430000305175781,0.6880000305175781,0.029205387458205223,Pavel Yakovlev,a,2995,SetPiece,2014,RightFoot,6417,Rubin Kazan,Spartak Moscow,0,4,2014-08-01 17:00:00,Jano Ananidze,Pass
+10717,88,Goal,0.9840000152587891,0.5379999923706055,0.9356503486633301,Lucas Barrios,a,4694,SetPiece,2014,RightFoot,6417,Rubin Kazan,Spartak Moscow,0,4,2014-08-01 17:00:00,,Rebound
+10718,93,MissedShots,0.799000015258789,0.39799999237060546,0.037325143814086914,Tino Costa,a,1885,OpenPlay,2014,LeftFoot,6417,Rubin Kazan,Spartak Moscow,0,4,2014-08-01 17:00:00,Jano Ananidze,Pass

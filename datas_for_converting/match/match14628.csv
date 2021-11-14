@@ -1,0 +1,22 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+401340,10,MissedShots,0.8390000152587891,0.5379999923706055,0.08287161588668823,Marcus Rashford,h,556,OpenPlay,2020,RightFoot,14628,Manchester United,Sheffield United,1,2,2021-01-27 20:15:00,Aaron Wan-Bissaka,Pass
+401342,16,BlockedShot,0.9230000305175782,0.705999984741211,0.04452449828386307,Mason Greenwood,h,7490,OpenPlay,2020,LeftFoot,14628,Manchester United,Sheffield United,1,2,2021-01-27 20:15:00,Bruno Fernandes,Chipped
+401344,26,SavedShot,0.74,0.37900001525878907,0.019290726631879807,Mason Greenwood,h,7490,OpenPlay,2020,LeftFoot,14628,Manchester United,Sheffield United,1,2,2021-01-27 20:15:00,Aaron Wan-Bissaka,Pass
+401345,27,BlockedShot,0.8930000305175781,0.34900001525878904,0.07055725157260895,Mason Greenwood,h,7490,OpenPlay,2020,RightFoot,14628,Manchester United,Sheffield United,1,2,2021-01-27 20:15:00,Aaron Wan-Bissaka,Pass
+401346,29,MissedShots,0.919000015258789,0.46599998474121096,0.04169069603085518,Harry Maguire,h,1687,FromCorner,2020,Head,14628,Manchester United,Sheffield United,1,2,2021-01-27 20:15:00,,Foul
+401347,38,BlockedShot,0.7169999694824218,0.4370000076293945,0.016049593687057495,Bruno Fernandes,h,1228,OpenPlay,2020,RightFoot,14628,Manchester United,Sheffield United,1,2,2021-01-27 20:15:00,Paul Pogba,Pass
+401348,40,SavedShot,0.9330000305175781,0.485,0.0721256285905838,Anthony Martial,h,553,OpenPlay,2020,Head,14628,Manchester United,Sheffield United,1,2,2021-01-27 20:15:00,Bruno Fernandes,Pass
+401349,48,MissedShots,0.925,0.35700000762939454,0.27813461422920227,Mason Greenwood,h,7490,OpenPlay,2020,RightFoot,14628,Manchester United,Sheffield United,1,2,2021-01-27 20:15:00,Bruno Fernandes,Pass
+401350,51,BlockedShot,0.769000015258789,0.35200000762939454,0.019760465249419212,Aaron Wan-Bissaka,h,5584,OpenPlay,2020,RightFoot,14628,Manchester United,Sheffield United,1,2,2021-01-27 20:15:00,,None
+401352,61,SavedShot,0.6830000305175781,0.5070000076293946,0.032827332615852356,Marcus Rashford,h,556,DirectFreekick,2020,RightFoot,14628,Manchester United,Sheffield United,1,2,2021-01-27 20:15:00,,Standard
+401353,63,BlockedShot,0.77,0.6519999694824219,0.061657458543777466,Bruno Fernandes,h,1228,DirectFreekick,2020,RightFoot,14628,Manchester United,Sheffield United,1,2,2021-01-27 20:15:00,,Standard
+401354,63,Goal,0.9180000305175782,0.51,0.04361902177333832,Harry Maguire,h,1687,FromCorner,2020,Head,14628,Manchester United,Sheffield United,1,2,2021-01-27 20:15:00,Alex Telles,Aerial
+401357,76,BlockedShot,0.7609999847412109,0.6780000305175782,0.016254646703600883,Alex Telles,h,1828,OpenPlay,2020,LeftFoot,14628,Manchester United,Sheffield United,1,2,2021-01-27 20:15:00,,None
+401358,76,MissedShots,0.924000015258789,0.5070000076293946,0.10926949232816696,Paul Pogba,h,1740,FromCorner,2020,Head,14628,Manchester United,Sheffield United,1,2,2021-01-27 20:15:00,Alex Telles,Cross
+401359,81,MissedShots,0.8630000305175781,0.5570000076293945,0.06367684155702591,Edinson Cavani,h,3294,OpenPlay,2020,LeftFoot,14628,Manchester United,Sheffield United,1,2,2021-01-27 20:15:00,,None
+401360,85,BlockedShot,0.86,0.775,0.02079056017100811,Bruno Fernandes,h,1228,FromCorner,2020,RightFoot,14628,Manchester United,Sheffield United,1,2,2021-01-27 20:15:00,Luke Shaw,Pass
+401341,15,SavedShot,0.8690000152587891,0.5479999923706055,0.12690183520317078,Billy Sharp,a,7712,OpenPlay,2020,LeftFoot,14628,Manchester United,Sheffield United,1,2,2021-01-27 20:15:00,John Fleck,Throughball
+401343,22,Goal,0.98,0.49400001525878906,0.15722613036632538,Kean Bryan,a,9163,FromCorner,2020,Head,14628,Manchester United,Sheffield United,1,2,2021-01-27 20:15:00,John Fleck,Cross
+401351,55,MissedShots,0.8430000305175781,0.29600000381469727,0.0439084991812706,David McGoldrick,a,7711,OpenPlay,2020,RightFoot,14628,Manchester United,Sheffield United,1,2,2021-01-27 20:15:00,George Baldock,Pass
+401355,73,BlockedShot,0.875,0.3609999847412109,0.07747054845094681,Oliver Burke,a,5256,OpenPlay,2020,RightFoot,14628,Manchester United,Sheffield United,1,2,2021-01-27 20:15:00,John Lundstram,Pass
+401356,73,Goal,0.8769999694824219,0.3079999923706055,0.28404054045677185,Oliver Burke,a,5256,OpenPlay,2020,RightFoot,14628,Manchester United,Sheffield United,1,2,2021-01-27 20:15:00,John Lundstram,Pass

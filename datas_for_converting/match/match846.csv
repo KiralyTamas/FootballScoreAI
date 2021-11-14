@@ -1,0 +1,40 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+98539,18,BlockedShot,0.899000015258789,0.6980000305175781,0.049083638936281204,Daniel Ciofani,h,1868,OpenPlay,2015,LeftFoot,846,Frosinone,Fiorentina,0,0,2016-03-20 18:00:00,Paolo Sammarco,Pass
+98540,25,BlockedShot,0.8430000305175781,0.5640000152587891,0.08919690549373627,Luca Paganini,h,1963,OpenPlay,2015,LeftFoot,846,Frosinone,Fiorentina,0,0,2016-03-20 18:00:00,Daniel Ciofani,TakeOn
+98541,25,SavedShot,0.7080000305175781,0.41200000762939454,0.011046874336898327,Mirko Gori,h,1864,OpenPlay,2015,RightFoot,846,Frosinone,Fiorentina,0,0,2016-03-20 18:00:00,,Rebound
+98542,26,SavedShot,0.7919999694824219,0.61,0.0325273722410202,Oliver Kragl,h,1863,OpenPlay,2015,RightFoot,846,Frosinone,Fiorentina,0,0,2016-03-20 18:00:00,,None
+98544,31,MissedShots,0.91,0.6909999847412109,0.052013035863637924,Oliver Kragl,h,1863,OpenPlay,2015,LeftFoot,846,Frosinone,Fiorentina,0,0,2016-03-20 18:00:00,Robert Gucher,Chipped
+98545,31,MissedShots,0.89,0.615,0.29732128977775574,Oliver Kragl,h,1863,OpenPlay,2015,LeftFoot,846,Frosinone,Fiorentina,0,0,2016-03-20 18:00:00,Matteo Ciofani,Chipped
+98553,45,MissedShots,0.7090000152587891,0.3920000076293945,0.012988601811230183,Paolo Sammarco,h,1866,OpenPlay,2015,RightFoot,846,Frosinone,Fiorentina,0,0,2016-03-20 18:00:00,Daniel Ciofani,Dispossessed
+98554,47,SavedShot,0.7759999847412109,0.6409999847412109,0.021603284403681755,Mirko Gori,h,1864,OpenPlay,2015,LeftFoot,846,Frosinone,Fiorentina,0,0,2016-03-20 18:00:00,,None
+98555,50,BlockedShot,0.7809999847412109,0.49,0.09764260053634644,Daniel Pavlovic,h,1602,DirectFreekick,2015,LeftFoot,846,Frosinone,Fiorentina,0,0,2016-03-20 18:00:00,,Standard
+98556,50,BlockedShot,0.815,0.48,0.03872833028435707,Daniel Pavlovic,h,1602,SetPiece,2015,LeftFoot,846,Frosinone,Fiorentina,0,0,2016-03-20 18:00:00,,Rebound
+98566,75,SavedShot,0.7869999694824219,0.38,0.029321342706680298,Aleksandar Tonev,h,1359,OpenPlay,2015,LeftFoot,846,Frosinone,Fiorentina,0,0,2016-03-20 18:00:00,Luca Paganini,Pass
+98568,80,ShotOnPost,0.7330000305175781,0.6580000305175782,0.010024585761129856,Oliver Kragl,h,1863,SetPiece,2015,LeftFoot,846,Frosinone,Fiorentina,0,0,2016-03-20 18:00:00,,None
+98569,80,SavedShot,0.9069999694824219,0.5359999847412109,0.2943069040775299,Aleksandar Tonev,h,1359,SetPiece,2015,Head,846,Frosinone,Fiorentina,0,0,2016-03-20 18:00:00,,Rebound
+98570,84,MissedShots,0.774000015258789,0.4979999923706055,0.0325424000620842,Aleksandar Tonev,h,1359,OpenPlay,2015,LeftFoot,846,Frosinone,Fiorentina,0,0,2016-03-20 18:00:00,Paolo Sammarco,Pass
+98535,5,BlockedShot,0.794000015258789,0.41,0.10125599056482315,Marcos Alonso,a,1621,DirectFreekick,2015,LeftFoot,846,Frosinone,Fiorentina,0,0,2016-03-20 18:00:00,,Standard
+98536,11,MissedShots,0.935,0.315,0.02794731967151165,Matías Vecino,a,1423,OpenPlay,2015,RightFoot,846,Frosinone,Fiorentina,0,0,2016-03-20 18:00:00,Marcos Alonso,Cross
+98537,12,SavedShot,0.875,0.615,0.08834359794855118,Josip Ilicic,a,1426,OpenPlay,2015,LeftFoot,846,Frosinone,Fiorentina,0,0,2016-03-20 18:00:00,Marcos Alonso,Pass
+98538,14,MissedShots,0.8169999694824219,0.31799999237060544,0.03197622671723366,Josip Ilicic,a,1426,OpenPlay,2015,RightFoot,846,Frosinone,Fiorentina,0,0,2016-03-20 18:00:00,Matías Vecino,Pass
+98543,27,BlockedShot,0.8390000152587891,0.25,0.01626564934849739,Federico Bernardeschi,a,1424,OpenPlay,2015,LeftFoot,846,Frosinone,Fiorentina,0,0,2016-03-20 18:00:00,Marcos Alonso,Cross
+98546,40,MissedShots,0.7619999694824219,0.30200000762939455,0.01790253445506096,Federico Bernardeschi,a,1424,OpenPlay,2015,LeftFoot,846,Frosinone,Fiorentina,0,0,2016-03-20 18:00:00,Matías Vecino,Pass
+98547,43,BlockedShot,0.909000015258789,0.47700000762939454,0.5021036863327026,Nikola Kalinic,a,1425,OpenPlay,2015,RightFoot,846,Frosinone,Fiorentina,0,0,2016-03-20 18:00:00,Josip Ilicic,Pass
+98548,44,MissedShots,0.8219999694824218,0.625,0.030118418857455254,Milan Badelj,a,1430,FromCorner,2015,LeftFoot,846,Frosinone,Fiorentina,0,0,2016-03-20 18:00:00,,None
+98549,45,ShotOnPost,0.8919999694824219,0.5879999923706055,0.07847332954406738,Nikola Kalinic,a,1425,OpenPlay,2015,RightFoot,846,Frosinone,Fiorentina,0,0,2016-03-20 18:00:00,Facundo Roncaglia,Cross
+98550,45,SavedShot,0.955999984741211,0.3529999923706055,0.29426050186157227,Borja Valero,a,1422,OpenPlay,2015,RightFoot,846,Frosinone,Fiorentina,0,0,2016-03-20 18:00:00,,Rebound
+98551,45,ShotOnPost,0.9830000305175781,0.415,0.36893659830093384,Borja Valero,a,1422,OpenPlay,2015,RightFoot,846,Frosinone,Fiorentina,0,0,2016-03-20 18:00:00,,Rebound
+98552,45,MissedShots,0.9790000152587891,0.6409999847412109,0.05866856873035431,Nikola Kalinic,a,1425,OpenPlay,2015,RightFoot,846,Frosinone,Fiorentina,0,0,2016-03-20 18:00:00,,Rebound
+98557,54,BlockedShot,0.865,0.32,0.04636022821068764,Federico Bernardeschi,a,1424,OpenPlay,2015,LeftFoot,846,Frosinone,Fiorentina,0,0,2016-03-20 18:00:00,,None
+98558,54,SavedShot,0.9209999847412109,0.544000015258789,0.09233736246824265,Matías Vecino,a,1423,FromCorner,2015,Head,846,Frosinone,Fiorentina,0,0,2016-03-20 18:00:00,Borja Valero,Cross
+98559,55,BlockedShot,0.785,0.24700000762939453,0.026468796655535698,Josip Ilicic,a,1426,OpenPlay,2015,LeftFoot,846,Frosinone,Fiorentina,0,0,2016-03-20 18:00:00,Davide Astori,TakeOn
+98560,55,BlockedShot,0.7090000152587891,0.38299999237060545,0.014862447045743465,Matías Vecino,a,1423,OpenPlay,2015,RightFoot,846,Frosinone,Fiorentina,0,0,2016-03-20 18:00:00,Milan Badelj,Pass
+98561,57,BlockedShot,0.7759999847412109,0.3629999923706055,0.026130693033337593,Nikola Kalinic,a,1425,OpenPlay,2015,RightFoot,846,Frosinone,Fiorentina,0,0,2016-03-20 18:00:00,Josip Ilicic,Pass
+98562,60,SavedShot,0.955999984741211,0.27899999618530275,0.04623504728078842,Nikola Kalinic,a,1425,OpenPlay,2015,RightFoot,846,Frosinone,Fiorentina,0,0,2016-03-20 18:00:00,Josip Ilicic,Chipped
+98563,60,SavedShot,0.7959999847412109,0.4129999923706055,0.038775354623794556,Federico Bernardeschi,a,1424,OpenPlay,2015,LeftFoot,846,Frosinone,Fiorentina,0,0,2016-03-20 18:00:00,Josip Ilicic,Pass
+98564,64,MissedShots,0.835,0.45799999237060546,0.06779669970273972,Milan Badelj,a,1430,OpenPlay,2015,RightFoot,846,Frosinone,Fiorentina,0,0,2016-03-20 18:00:00,,Dispossessed
+98565,70,SavedShot,0.81,0.27899999618530275,0.023089788854122162,Cristian Tello,a,1421,OpenPlay,2015,LeftFoot,846,Frosinone,Fiorentina,0,0,2016-03-20 18:00:00,Matías Vecino,Pass
+98567,78,MissedShots,0.7380000305175781,0.48,0.0195001233369112,Marcos Alonso,a,1621,OpenPlay,2015,LeftFoot,846,Frosinone,Fiorentina,0,0,2016-03-20 18:00:00,Gonzalo Rodríguez,Pass
+98571,85,MissedShots,0.92,0.529000015258789,0.12285934388637543,Nikola Kalinic,a,1425,OpenPlay,2015,Head,846,Frosinone,Fiorentina,0,0,2016-03-20 18:00:00,Cristian Tello,Cross
+98572,88,MissedShots,0.78,0.5829999923706055,0.0860610157251358,Mauro Zárate,a,939,DirectFreekick,2015,RightFoot,846,Frosinone,Fiorentina,0,0,2016-03-20 18:00:00,,Standard
+98573,91,BlockedShot,0.8390000152587891,0.43400001525878906,0.06080946698784828,Cristian Tello,a,1421,OpenPlay,2015,RightFoot,846,Frosinone,Fiorentina,0,0,2016-03-20 18:00:00,,None

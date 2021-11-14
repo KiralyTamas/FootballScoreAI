@@ -1,0 +1,32 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+116763,5,SavedShot,0.755,0.649000015258789,0.02004806511104107,Jermain Defoe,h,735,OpenPlay,2016,RightFoot,3334,Sunderland,Liverpool,2,2,2017-01-02 19:00:00,Patrick van Aanholt,Pass
+116767,12,SavedShot,0.8190000152587891,0.735999984741211,0.020041003823280334,Jack Rodwell,h,733,OpenPlay,2016,RightFoot,3334,Sunderland,Liverpool,2,2,2017-01-02 19:00:00,Patrick van Aanholt,Pass
+116774,24,Goal,0.885,0.5,0.7611688375473022,Jermain Defoe,h,735,Penalty,2016,RightFoot,3334,Sunderland,Liverpool,2,2,2017-01-02 19:00:00,,Standard
+116775,26,BlockedShot,0.8669999694824219,0.35200000762939454,0.08522894233465195,Fabio Borini,h,737,OpenPlay,2016,RightFoot,3334,Sunderland,Liverpool,2,2,2017-01-02 19:00:00,Jermain Defoe,TakeOn
+116776,31,SavedShot,0.7430000305175781,0.44299999237060544,0.0168899092823267,Jack Rodwell,h,733,OpenPlay,2016,LeftFoot,3334,Sunderland,Liverpool,2,2,2017-01-02 19:00:00,,None
+116780,56,BlockedShot,0.885,0.4370000076293945,0.11028817296028137,Fabio Borini,h,737,OpenPlay,2016,LeftFoot,3334,Sunderland,Liverpool,2,2,2017-01-02 19:00:00,Adnan Januzaj,Pass
+116781,56,BlockedShot,0.909000015258789,0.33599998474121096,0.0538753904402256,Jermain Defoe,h,735,OpenPlay,2016,RightFoot,3334,Sunderland,Liverpool,2,2,2017-01-02 19:00:00,,Rebound
+116784,64,BlockedShot,0.7580000305175781,0.47,0.02156485989689827,Jermain Defoe,h,735,OpenPlay,2016,RightFoot,3334,Sunderland,Liverpool,2,2,2017-01-02 19:00:00,Jack Rodwell,Pass
+116788,82,BlockedShot,0.7519999694824219,0.4779999923706055,0.06623903661966324,Sebastian Larsson,h,740,DirectFreekick,2016,RightFoot,3334,Sunderland,Liverpool,2,2,2017-01-02 19:00:00,,Standard
+116789,83,Goal,0.885,0.5,0.7611688375473022,Jermain Defoe,h,735,Penalty,2016,RightFoot,3334,Sunderland,Liverpool,2,2,2017-01-02 19:00:00,,Standard
+116764,7,SavedShot,0.8959999847412109,0.34200000762939453,0.05793865770101547,Daniel Sturridge,a,483,OpenPlay,2016,RightFoot,3334,Sunderland,Liverpool,2,2,2017-01-02 19:00:00,Sadio Mané,Chipped
+116765,7,SavedShot,0.7909999847412109,0.615,0.03217189013957977,Georginio Wijnaldum,a,771,OpenPlay,2016,RightFoot,3334,Sunderland,Liverpool,2,2,2017-01-02 19:00:00,Roberto Firmino,Pass
+116766,8,MissedShots,0.8959999847412109,0.500999984741211,0.01940036006271839,Dejan Lovren,a,602,FromCorner,2016,Head,3334,Sunderland,Liverpool,2,2,2017-01-02 19:00:00,James Milner,Aerial
+116768,13,MissedShots,0.8080000305175781,0.7169999694824218,0.02407071366906166,Roberto Firmino,a,482,OpenPlay,2016,RightFoot,3334,Sunderland,Liverpool,2,2,2017-01-02 19:00:00,Sadio Mané,Pass
+116769,17,SavedShot,0.7340000152587891,0.5159999847412109,0.01839645765721798,Daniel Sturridge,a,483,OpenPlay,2016,LeftFoot,3334,Sunderland,Liverpool,2,2,2017-01-02 19:00:00,Roberto Firmino,Pass
+116770,17,BlockedShot,0.9359999847412109,0.6759999847412109,0.058640964329242706,Adam Lallana,a,486,OpenPlay,2016,LeftFoot,3334,Sunderland,Liverpool,2,2,2017-01-02 19:00:00,James Milner,Pass
+116771,18,BlockedShot,0.8069999694824219,0.32799999237060545,0.038581255823373795,Sadio Mané,a,838,OpenPlay,2016,RightFoot,3334,Sunderland,Liverpool,2,2,2017-01-02 19:00:00,Nathaniel Clyne,TakeOn
+116772,18,BlockedShot,0.84,0.48,0.04067935422062874,Dejan Lovren,a,602,FromCorner,2016,RightFoot,3334,Sunderland,Liverpool,2,2,2017-01-02 19:00:00,James Milner,Cross
+116773,19,Goal,0.955999984741211,0.4370000076293945,0.055220816284418106,Daniel Sturridge,a,483,FromCorner,2016,Head,3334,Sunderland,Liverpool,2,2,2017-01-02 19:00:00,Dejan Lovren,Rebound
+116777,36,SavedShot,0.765,0.3340000152587891,0.013492876663804054,Daniel Sturridge,a,483,OpenPlay,2016,LeftFoot,3334,Sunderland,Liverpool,2,2,2017-01-02 19:00:00,Adam Lallana,TakeOn
+116778,41,SavedShot,0.7730000305175782,0.3370000076293945,0.017878687009215355,Daniel Sturridge,a,483,OpenPlay,2016,LeftFoot,3334,Sunderland,Liverpool,2,2,2017-01-02 19:00:00,Adam Lallana,Pass
+116779,55,MissedShots,0.9619999694824218,0.49599998474121093,0.6304795742034912,Sadio Mané,a,838,OpenPlay,2016,Head,3334,Sunderland,Liverpool,2,2,2017-01-02 19:00:00,Nathaniel Clyne,Cross
+116782,62,SavedShot,0.7319999694824219,0.46599998474121096,0.021003128960728645,Roberto Firmino,a,482,SetPiece,2016,RightFoot,3334,Sunderland,Liverpool,2,2,2017-01-02 19:00:00,Alberto Moreno,Pass
+116783,63,SavedShot,0.8019999694824219,0.43400001525878906,0.04698791727423668,Emre Can,a,604,OpenPlay,2016,RightFoot,3334,Sunderland,Liverpool,2,2,2017-01-02 19:00:00,Sadio Mané,Pass
+116785,65,SavedShot,0.86,0.6819999694824219,0.04693328216671944,Roberto Firmino,a,482,OpenPlay,2016,RightFoot,3334,Sunderland,Liverpool,2,2,2017-01-02 19:00:00,Georginio Wijnaldum,Chipped
+116786,70,SavedShot,0.9290000152587891,0.38599998474121094,0.37581852078437805,Daniel Sturridge,a,483,OpenPlay,2016,RightFoot,3334,Sunderland,Liverpool,2,2,2017-01-02 19:00:00,Adam Lallana,Pass
+116787,71,Goal,0.9669999694824218,0.5279999923706055,0.6360793709754944,Sadio Mané,a,838,FromCorner,2016,RightFoot,3334,Sunderland,Liverpool,2,2,2017-01-02 19:00:00,,None
+116790,85,SavedShot,0.8440000152587891,0.6170000076293946,0.06745468825101852,Roberto Firmino,a,482,OpenPlay,2016,LeftFoot,3334,Sunderland,Liverpool,2,2,2017-01-02 19:00:00,Sadio Mané,Pass
+116791,86,SavedShot,0.8569999694824219,0.445,0.022815247997641563,Ragnar Klavan,a,265,SetPiece,2016,Head,3334,Sunderland,Liverpool,2,2,2017-01-02 19:00:00,Alberto Moreno,Cross
+116792,92,SavedShot,0.775,0.4420000076293945,0.03172026574611664,Adam Lallana,a,486,OpenPlay,2016,RightFoot,3334,Sunderland,Liverpool,2,2,2017-01-02 19:00:00,,Dispossessed
+116793,93,SavedShot,0.909000015258789,0.5159999847412109,0.0784774199128151,Roberto Firmino,a,482,FromCorner,2016,Head,3334,Sunderland,Liverpool,2,2,2017-01-02 19:00:00,Alberto Moreno,Cross

@@ -1,0 +1,27 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+387534,4,Goal,0.815,0.590999984741211,0.2874681353569031,Son Heung-Min,h,453,OpenPlay,2020,LeftFoot,14523,Tottenham,Manchester City,2,0,2020-11-21 17:30:00,Tanguy NDombele Alvaro,Chipped
+387550,58,BlockedShot,0.8219999694824218,0.4640000152587891,0.0696745216846466,Son Heung-Min,h,453,OpenPlay,2020,RightFoot,14523,Tottenham,Manchester City,2,0,2020-11-21 17:30:00,,None
+387552,64,Goal,0.8819999694824219,0.6320000076293946,0.3569459617137909,Giovani Lo Celso,h,5681,OpenPlay,2020,LeftFoot,14523,Tottenham,Manchester City,2,0,2020-11-21 17:30:00,Harry Kane,Pass
+387553,75,BlockedShot,0.735,0.6229999923706054,0.04705343768000603,Eric Dier,h,643,DirectFreekick,2020,RightFoot,14523,Tottenham,Manchester City,2,0,2020-11-21 17:30:00,,Standard
+387533,1,SavedShot,0.7569999694824219,0.595999984741211,0.022049034014344215,Ferrán Torres,a,6441,OpenPlay,2020,RightFoot,14523,Tottenham,Manchester City,2,0,2020-11-21 17:30:00,Aymeric Laporte,TakeOn
+387535,6,BlockedShot,0.835999984741211,0.6079999923706054,0.059043366461992264,Kevin De Bruyne,a,447,OpenPlay,2020,RightFoot,14523,Tottenham,Manchester City,2,0,2020-11-21 17:30:00,João Cancelo,Pass
+387536,8,BlockedShot,0.9259999847412109,0.5520000076293945,0.2016528993844986,Gabriel Jesus,a,5543,OpenPlay,2020,LeftFoot,14523,Tottenham,Manchester City,2,0,2020-11-21 17:30:00,Aymeric Laporte,TakeOn
+387537,8,BlockedShot,0.8859999847412109,0.575,0.07616308331489563,Kevin De Bruyne,a,447,OpenPlay,2020,LeftFoot,14523,Tottenham,Manchester City,2,0,2020-11-21 17:30:00,,Rebound
+387538,14,SavedShot,0.8969999694824219,0.5220000076293946,0.18502739071846008,Rodri,a,2496,SetPiece,2020,Head,14523,Tottenham,Manchester City,2,0,2020-11-21 17:30:00,Kevin De Bruyne,Cross
+387539,16,BlockedShot,0.825,0.445,0.04176407307386398,Ferrán Torres,a,6441,FromCorner,2020,LeftFoot,14523,Tottenham,Manchester City,2,0,2020-11-21 17:30:00,,None
+387540,20,MissedShots,0.9290000152587891,0.4470000076293945,0.04157698526978493,Rodri,a,2496,FromCorner,2020,Head,14523,Tottenham,Manchester City,2,0,2020-11-21 17:30:00,Riyad Mahrez,Aerial
+387541,20,BlockedShot,0.9619999694824218,0.5579999923706055,0.081080362200737,Ferrán Torres,a,6441,FromCorner,2020,Head,14523,Tottenham,Manchester City,2,0,2020-11-21 17:30:00,Rodri,Aerial
+387542,26,SavedShot,0.905,0.5159999847412109,0.025581134483218193,Rúben Dias,a,8961,FromCorner,2020,Head,14523,Tottenham,Manchester City,2,0,2020-11-21 17:30:00,Riyad Mahrez,Aerial
+387543,40,MissedShots,0.899000015258789,0.645,0.05994247645139694,Gabriel Jesus,a,5543,OpenPlay,2020,RightFoot,14523,Tottenham,Manchester City,2,0,2020-11-21 17:30:00,,Dispossessed
+387544,44,BlockedShot,0.759000015258789,0.6270000076293946,0.020138487219810486,Kevin De Bruyne,a,447,OpenPlay,2020,RightFoot,14523,Tottenham,Manchester City,2,0,2020-11-21 17:30:00,Ferrán Torres,Pass
+387545,46,BlockedShot,0.7709999847412109,0.5459999847412109,0.02794317528605461,Rodri,a,2496,OpenPlay,2020,LeftFoot,14523,Tottenham,Manchester City,2,0,2020-11-21 17:30:00,Riyad Mahrez,Pass
+387546,50,MissedShots,0.755,0.509000015258789,0.0237362589687109,Kevin De Bruyne,a,447,OpenPlay,2020,RightFoot,14523,Tottenham,Manchester City,2,0,2020-11-21 17:30:00,Rodri,Pass
+387547,52,SavedShot,0.7930000305175782,0.28299999237060547,0.011398610658943653,Riyad Mahrez,a,750,OpenPlay,2020,LeftFoot,14523,Tottenham,Manchester City,2,0,2020-11-21 17:30:00,João Cancelo,Chipped
+387548,56,MissedShots,0.9730000305175781,0.41900001525878905,0.09484120458364487,Gabriel Jesus,a,5543,OpenPlay,2020,RightFoot,14523,Tottenham,Manchester City,2,0,2020-11-21 17:30:00,João Cancelo,Cross
+387549,57,BlockedShot,0.8530000305175781,0.5740000152587891,0.08101261407136917,Kevin De Bruyne,a,447,OpenPlay,2020,LeftFoot,14523,Tottenham,Manchester City,2,0,2020-11-21 17:30:00,Gabriel Jesus,LayOff
+387551,59,BlockedShot,0.8690000152587891,0.36700000762939455,0.04295043647289276,Kevin De Bruyne,a,447,OpenPlay,2020,RightFoot,14523,Tottenham,Manchester City,2,0,2020-11-21 17:30:00,Rodri,BallRecovery
+387554,77,BlockedShot,0.845999984741211,0.509000015258789,0.052004583179950714,Gabriel Jesus,a,5543,OpenPlay,2020,LeftFoot,14523,Tottenham,Manchester City,2,0,2020-11-21 17:30:00,Rodri,Chipped
+387555,82,MissedShots,0.9580000305175781,0.59,0.09090334177017212,Raheem Sterling,a,618,SetPiece,2020,LeftFoot,14523,Tottenham,Manchester City,2,0,2020-11-21 17:30:00,Kevin De Bruyne,Chipped
+387556,89,BlockedShot,0.8930000305175781,0.28600000381469726,0.030169952660799026,Ferrán Torres,a,6441,OpenPlay,2020,LeftFoot,14523,Tottenham,Manchester City,2,0,2020-11-21 17:30:00,João Cancelo,Chipped
+387557,89,SavedShot,0.9269999694824219,0.5270000076293946,0.383512943983078,Rúben Dias,a,8961,SetPiece,2020,Head,14523,Tottenham,Manchester City,2,0,2020-11-21 17:30:00,Kevin De Bruyne,Cross
+387558,90,MissedShots,0.7559999847412109,0.5129999923706055,0.026111146435141563,João Cancelo,a,2379,FromCorner,2020,RightFoot,14523,Tottenham,Manchester City,2,0,2020-11-21 17:30:00,Raheem Sterling,Pass

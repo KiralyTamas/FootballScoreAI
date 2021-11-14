@@ -1,0 +1,23 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+105193,3,SavedShot,0.879000015258789,0.37099998474121093,0.06584501266479492,Valentin Vada,h,3256,OpenPlay,2016,RightFoot,2839,Bordeaux,Lorient,2,1,2016-11-05 23:00:00,,None
+105194,5,SavedShot,0.7580000305175781,0.75,0.01336359977722168,Valentin Vada,h,3256,OpenPlay,2016,RightFoot,2839,Bordeaux,Lorient,2,1,2016-11-05 23:00:00,Diego Contento,BallRecovery
+105195,6,MissedShots,0.9159999847412109,0.35400001525878905,0.07360882312059402,Youssouf Sabaly,h,3399,OpenPlay,2016,LeftFoot,2839,Bordeaux,Lorient,2,1,2016-11-05 23:00:00,Jérémy Menez,TakeOn
+105199,24,MissedShots,0.779000015258789,0.6270000076293946,0.027585148811340332,Francois Kamano,h,3333,OpenPlay,2016,LeftFoot,2839,Bordeaux,Lorient,2,1,2016-11-05 23:00:00,Jérémy Menez,Pass
+105200,27,Goal,0.9019999694824219,0.47400001525878904,0.0961807370185852,Francois Kamano,h,3333,OpenPlay,2016,RightFoot,2839,Bordeaux,Lorient,2,1,2016-11-05 23:00:00,Youssouf Sabaly,Cross
+105202,40,SavedShot,0.769000015258789,0.68,0.023908423259854317,Diego Contento,h,3255,OpenPlay,2016,LeftFoot,2839,Bordeaux,Lorient,2,1,2016-11-05 23:00:00,Valentin Vada,Pass
+105203,42,BlockedShot,0.7819999694824219,0.44400001525878907,0.026184923946857452,Youssouf Sabaly,h,3399,FromCorner,2016,LeftFoot,2839,Bordeaux,Lorient,2,1,2016-11-05 23:00:00,Jaroslav Plasil,Pass
+105204,42,SavedShot,0.875999984741211,0.48900001525878906,0.09343258291482925,Grégory Sertic,h,3809,FromCorner,2016,LeftFoot,2839,Bordeaux,Lorient,2,1,2016-11-05 23:00:00,Youssouf Sabaly,Rebound
+105206,45,MissedShots,0.909000015258789,0.615,0.042979780584573746,Jaroslav Plasil,h,3620,OpenPlay,2016,Head,2839,Bordeaux,Lorient,2,1,2016-11-05 23:00:00,Youssouf Sabaly,Cross
+105208,54,MissedShots,0.7380000305175781,0.3940000152587891,0.024303408339619637,Jaroslav Plasil,h,3620,OpenPlay,2016,RightFoot,2839,Bordeaux,Lorient,2,1,2016-11-05 23:00:00,Jérémy Toulalan,Pass
+105210,61,OwnGoal,0.04,0.555,0,Jerome Prior,h,3631,SetPiece,2016,Head,2839,Bordeaux,Lorient,2,1,2016-11-05 23:00:00,,Card
+105211,66,MissedShots,0.73,0.35,0.018623946234583855,Malcom,h,3262,OpenPlay,2016,LeftFoot,2839,Bordeaux,Lorient,2,1,2016-11-05 23:00:00,Jérémy Toulalan,Pass
+105213,72,Goal,0.8930000305175781,0.3820000076293945,0.0648367628455162,Diego Rolan,h,3261,OpenPlay,2016,RightFoot,2839,Bordeaux,Lorient,2,1,2016-11-05 23:00:00,Youssouf Sabaly,Cross
+105196,10,MissedShots,0.8780000305175781,0.5420000076293945,0.037986431270837784,Michael Ciani,a,2434,FromCorner,2016,Head,2839,Bordeaux,Lorient,2,1,2016-11-05 23:00:00,Arnold Mvuemba,Cross
+105197,14,BlockedShot,0.745999984741211,0.5220000076293946,0.017879894003272057,Arnold Mvuemba,a,3282,OpenPlay,2016,RightFoot,2839,Bordeaux,Lorient,2,1,2016-11-05 23:00:00,,None
+105198,15,MissedShots,0.9330000305175781,0.4640000152587891,0.1178894117474556,Michael Ciani,a,2434,FromCorner,2016,Head,2839,Bordeaux,Lorient,2,1,2016-11-05 23:00:00,Arnold Mvuemba,Cross
+105201,33,MissedShots,0.905,0.72,0.04213791340589523,Mohamed Mara,a,5763,OpenPlay,2016,RightFoot,2839,Bordeaux,Lorient,2,1,2016-11-05 23:00:00,Sylvain Marveaux,Pass
+105205,44,SavedShot,0.8519999694824218,0.6759999847412109,0.04631655663251877,Sylvain Marveaux,a,1064,OpenPlay,2016,LeftFoot,2839,Bordeaux,Lorient,2,1,2016-11-05 23:00:00,Majeed Waris,Pass
+105207,50,BlockedShot,0.7619999694824219,0.5029999923706054,0.02468005381524563,Matteo Guendouzi,a,5759,OpenPlay,2016,RightFoot,2839,Bordeaux,Lorient,2,1,2016-11-05 23:00:00,,None
+105209,58,BlockedShot,0.8059999847412109,0.3529999923706055,0.0299600251019001,Sylvain Marveaux,a,1064,OpenPlay,2016,LeftFoot,2839,Bordeaux,Lorient,2,1,2016-11-05 23:00:00,,Dispossessed
+105212,68,MissedShots,0.9730000305175781,0.6469999694824219,0.011361856013536453,Mohamed Mara,a,5763,OpenPlay,2016,Head,2839,Bordeaux,Lorient,2,1,2016-11-05 23:00:00,Moryke Fofana,Cross
+105214,82,BlockedShot,0.779000015258789,0.5029999923706054,0.013089064508676529,Jérémie Aliadière,a,5644,OpenPlay,2016,RightFoot,2839,Bordeaux,Lorient,2,1,2016-11-05 23:00:00,,Aerial

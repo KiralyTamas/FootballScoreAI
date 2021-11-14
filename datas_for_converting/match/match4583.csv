@@ -1,0 +1,18 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+23467,14,BlockedShot,0.7219999694824218,0.32,0.036413904279470444,Ángel Di María,h,3553,DirectFreekick,2014,LeftFoot,4583,Manchester United,Leicester,3,1,2015-01-31 15:00:00,,Standard
+23468,19,MissedShots,0.7769999694824219,0.6909999847412109,0.018020574003458023,Ángel Di María,h,3553,OpenPlay,2014,LeftFoot,4583,Manchester United,Leicester,3,1,2015-01-31 15:00:00,Luke Shaw,LayOff
+23470,23,MissedShots,0.9059999847412109,0.5870000076293945,0.09208846837282181,Robin van Persie,h,4387,OpenPlay,2014,LeftFoot,4583,Manchester United,Leicester,3,1,2015-01-31 15:00:00,Luke Shaw,Cross
+23471,26,Goal,0.914000015258789,0.425,0.31084930896759033,Robin van Persie,h,4387,OpenPlay,2014,RightFoot,4583,Manchester United,Leicester,3,1,2015-01-31 15:00:00,Daley Blind,Chipped
+23472,30,SavedShot,0.9059999847412109,0.674000015258789,0.13286954164505005,Ángel Di María,h,3553,OpenPlay,2014,LeftFoot,4583,Manchester United,Leicester,3,1,2015-01-31 15:00:00,Robin van Persie,Throughball
+23473,31,Goal,0.9590000152587891,0.500999984741211,0.717754602432251,Falcao,h,696,OpenPlay,2014,LeftFoot,4583,Manchester United,Leicester,3,1,2015-01-31 15:00:00,,Rebound
+23476,57,MissedShots,0.7290000152587891,0.5609999847412109,0.021516606211662292,Adnan Januzaj,h,323,OpenPlay,2014,LeftFoot,4583,Manchester United,Leicester,3,1,2015-01-31 15:00:00,Daley Blind,Pass
+23477,60,BlockedShot,0.7919999694824219,0.37099998474121093,0.028731709346175194,Wayne Rooney,h,629,OpenPlay,2014,RightFoot,4583,Manchester United,Leicester,3,1,2015-01-31 15:00:00,,None
+23478,76,BlockedShot,0.7390000152587891,0.6070000076293945,0.023741692304611206,Ángel Di María,h,3553,OpenPlay,2014,LeftFoot,4583,Manchester United,Leicester,3,1,2015-01-31 15:00:00,Falcao,Pass
+23481,83,MissedShots,0.8930000305175781,0.6769999694824219,0.3039364814758301,Ángel Di María,h,3553,OpenPlay,2014,LeftFoot,4583,Manchester United,Leicester,3,1,2015-01-31 15:00:00,Wayne Rooney,Chipped
+23482,90,SavedShot,0.975,0.6709999847412109,0.09721928834915161,James Wilson,h,992,OpenPlay,2014,LeftFoot,4583,Manchester United,Leicester,3,1,2015-01-31 15:00:00,Adnan Januzaj,Pass
+23483,91,SavedShot,0.960999984741211,0.674000015258789,0.04912405461072922,Daley Blind,h,548,FromCorner,2014,LeftFoot,4583,Manchester United,Leicester,3,1,2015-01-31 15:00:00,Ángel Di María,Pass
+23469,22,MissedShots,0.865999984741211,0.725999984741211,0.03717218339443207,Jeffrey Schlupp,a,757,OpenPlay,2014,LeftFoot,4583,Manchester United,Leicester,3,1,2015-01-31 15:00:00,,BallRecovery
+23474,43,OwnGoal,0.04300000190734863,0.509000015258789,0,Wes Morgan,a,748,FromCorner,2014,Head,4583,Manchester United,Leicester,3,1,2015-01-31 15:00:00,,None
+23475,51,MissedShots,0.840999984741211,0.5579999923706055,0.03488923981785774,Andrej Kramaric,a,956,OpenPlay,2014,RightFoot,4583,Manchester United,Leicester,3,1,2015-01-31 15:00:00,Wes Morgan,Cross
+23479,79,Goal,0.9519999694824218,0.580999984741211,0.2982158362865448,Marcin Wasilewski,a,760,FromCorner,2014,Head,4583,Manchester United,Leicester,3,1,2015-01-31 15:00:00,Marc Albrighton,Cross
+23480,82,MissedShots,0.8,0.25799999237060545,0.010604619048535824,Marc Albrighton,a,753,OpenPlay,2014,RightFoot,4583,Manchester United,Leicester,3,1,2015-01-31 15:00:00,David Nugent,HeadPass

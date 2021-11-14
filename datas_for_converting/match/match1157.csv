@@ -1,0 +1,20 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+79804,2,MissedShots,0.7219999694824218,0.31,0.014183852821588516,Jan Rosenthal,h,10,OpenPlay,2015,LeftFoot,1157,Darmstadt,Hertha Berlin,0,4,2015-12-12 18:30:00,Marcel Heller,Pass
+79807,12,MissedShots,0.7019999694824218,0.59,0.009127291850745678,Fabian Holland,h,5,SetPiece,2015,LeftFoot,1157,Darmstadt,Hertha Berlin,0,4,2015-12-12 18:30:00,,None
+79809,33,MissedShots,0.8969999694824219,0.5709999847412109,0.01712905801832676,Florian Jungwirth,h,7,SetPiece,2015,Head,1157,Darmstadt,Hertha Berlin,0,4,2015-12-12 18:30:00,Tobias Kempe,Aerial
+79810,41,BlockedShot,0.7819999694824219,0.40400001525878904,0.02093540132045746,Jérôme Gondorf,h,8,SetPiece,2015,LeftFoot,1157,Darmstadt,Hertha Berlin,0,4,2015-12-12 18:30:00,,None
+79811,44,SavedShot,0.9319999694824219,0.5070000076293946,0.06506795436143875,Sandro Wagner,h,11,FromCorner,2015,Head,1157,Darmstadt,Hertha Berlin,0,4,2015-12-12 18:30:00,Tobias Kempe,Aerial
+79813,45,MissedShots,0.6840000152587891,0.29700000762939455,0.028260348364710808,Konstantin Rausch,h,13,DirectFreekick,2015,LeftFoot,1157,Darmstadt,Hertha Berlin,0,4,2015-12-12 18:30:00,,Standard
+79816,68,MissedShots,0.7180000305175781,0.629000015258789,0.012525252066552639,Mario Vrancic,h,12,OpenPlay,2015,LeftFoot,1157,Darmstadt,Hertha Berlin,0,4,2015-12-12 18:30:00,Sandro Wagner,Pass
+79817,70,SavedShot,0.8119999694824219,0.6229999923706054,0.0397791787981987,Konstantin Rausch,h,13,OpenPlay,2015,RightFoot,1157,Darmstadt,Hertha Berlin,0,4,2015-12-12 18:30:00,Mario Vrancic,TakeOn
+79821,88,SavedShot,0.9940000152587891,0.01100000023841858,0.010965685360133648,Konstantin Rausch,h,13,FromCorner,2015,LeftFoot,1157,Darmstadt,Hertha Berlin,0,4,2015-12-12 18:30:00,,None
+79822,89,BlockedShot,0.9330000305175781,0.5629999923706055,0.043815530836582184,Luca Caldirola,h,3,FromCorner,2015,Head,1157,Darmstadt,Hertha Berlin,0,4,2015-12-12 18:30:00,Konstantin Rausch,Aerial
+79805,7,MissedShots,0.879000015258789,0.33299999237060546,0.04685027524828911,Vedad Ibisevic,a,29,OpenPlay,2015,RightFoot,1157,Darmstadt,Hertha Berlin,0,4,2015-12-12 18:30:00,Yanni Regäsel,HeadPass
+79806,11,Goal,0.9490000152587891,0.4909999847412109,0.6251599192619324,Vedad Ibisevic,a,29,OpenPlay,2015,LeftFoot,1157,Darmstadt,Hertha Berlin,0,4,2015-12-12 18:30:00,Mitchell Weiser,Pass
+79808,25,Goal,0.695,0.33599998474121096,0.03248995542526245,Marvin Plattenhardt,a,23,DirectFreekick,2015,LeftFoot,1157,Darmstadt,Hertha Berlin,0,4,2015-12-12 18:30:00,,Standard
+79812,45,MissedShots,0.715,0.40400001525878904,0.014615625143051147,Vladimir Darida,a,27,OpenPlay,2015,RightFoot,1157,Darmstadt,Hertha Berlin,0,4,2015-12-12 18:30:00,,None
+79814,49,BlockedShot,0.7780000305175782,0.6619999694824219,0.025723950937390327,Salomon Kalou,a,26,OpenPlay,2015,RightFoot,1157,Darmstadt,Hertha Berlin,0,4,2015-12-12 18:30:00,Vedad Ibisevic,Pass
+79815,49,Goal,0.9530000305175781,0.534000015258789,0.5221360921859741,Vedad Ibisevic,a,29,FromCorner,2015,RightFoot,1157,Darmstadt,Hertha Berlin,0,4,2015-12-12 18:30:00,John Brooks,HeadPass
+79818,76,Goal,0.9519999694824218,0.3770000076293945,0.6002920866012573,Salomon Kalou,a,26,OpenPlay,2015,RightFoot,1157,Darmstadt,Hertha Berlin,0,4,2015-12-12 18:30:00,Vedad Ibisevic,TakeOn
+79819,86,BlockedShot,0.9130000305175782,0.710999984741211,0.06746809929609299,Valentin Stocker,a,32,OpenPlay,2015,LeftFoot,1157,Darmstadt,Hertha Berlin,0,4,2015-12-12 18:30:00,Johannes van den Bergh,Pass
+79820,86,MissedShots,0.8109999847412109,0.49900001525878906,0.05659784749150276,Jens Hegeler,a,30,OpenPlay,2015,RightFoot,1157,Darmstadt,Hertha Berlin,0,4,2015-12-12 18:30:00,,None

@@ -1,0 +1,26 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+116434,7,BlockedShot,0.8780000305175781,0.3609999847412109,0.07493265718221664,Kelechi Iheanacho,h,620,OpenPlay,2016,LeftFoot,3332,Manchester City,Burnley,2,1,2017-01-02 15:00:00,Yaya Touré,Pass
+116436,18,SavedShot,0.795,0.40799999237060547,0.027572235092520714,Yaya Touré,h,878,FromCorner,2016,RightFoot,3332,Manchester City,Burnley,2,1,2017-01-02 15:00:00,Jesús Navas,Pass
+116437,22,MissedShots,0.7759999847412109,0.6730000305175782,0.017745543271303177,Kevin De Bruyne,h,447,OpenPlay,2016,RightFoot,3332,Manchester City,Burnley,2,1,2017-01-02 15:00:00,Raheem Sterling,Pass
+116439,29,BlockedShot,0.9059999847412109,0.46599998474121096,0.10071887075901031,Kelechi Iheanacho,h,620,OpenPlay,2016,LeftFoot,3332,Manchester City,Burnley,2,1,2017-01-02 15:00:00,,None
+116441,36,BlockedShot,0.7709999847412109,0.6969999694824218,0.019025171175599098,Kevin De Bruyne,h,447,OpenPlay,2016,RightFoot,3332,Manchester City,Burnley,2,1,2017-01-02 15:00:00,Yaya Touré,TakeOn
+116442,48,BlockedShot,0.7819999694824219,0.5609999847412109,0.022519592195749283,Aleksandar Kolarov,h,621,FromCorner,2016,LeftFoot,3332,Manchester City,Burnley,2,1,2017-01-02 15:00:00,,None
+116444,54,BlockedShot,0.8159999847412109,0.6409999847412109,0.040014270693063736,Raheem Sterling,h,618,OpenPlay,2016,RightFoot,3332,Manchester City,Burnley,2,1,2017-01-02 15:00:00,Kevin De Bruyne,Pass
+116445,55,MissedShots,0.7580000305175781,0.7580000305175781,0.01188583206385374,Kevin De Bruyne,h,447,OpenPlay,2016,RightFoot,3332,Manchester City,Burnley,2,1,2017-01-02 15:00:00,Gaël Clichy,Pass
+116446,56,BlockedShot,0.8680000305175781,0.235,0.020785337314009666,Kevin De Bruyne,h,447,OpenPlay,2016,RightFoot,3332,Manchester City,Burnley,2,1,2017-01-02 15:00:00,Bacary Sagna,Pass
+116447,57,Goal,0.8180000305175781,0.710999984741211,0.012771254405379295,Gaël Clichy,h,613,OpenPlay,2016,RightFoot,3332,Manchester City,Burnley,2,1,2017-01-02 15:00:00,,Aerial
+116449,61,Goal,0.9530000305175781,0.285,0.05965249240398407,Sergio Agüero,h,619,OpenPlay,2016,RightFoot,3332,Manchester City,Burnley,2,1,2017-01-02 15:00:00,Raheem Sterling,None
+116450,64,MissedShots,0.774000015258789,0.6140000152587891,0.03231266513466835,Sergio Agüero,h,619,OpenPlay,2016,LeftFoot,3332,Manchester City,Burnley,2,1,2017-01-02 15:00:00,Raheem Sterling,BallRecovery
+116454,73,BlockedShot,0.905,0.40200000762939453,0.12578438222408295,Sergio Agüero,h,619,OpenPlay,2016,RightFoot,3332,Manchester City,Burnley,2,1,2017-01-02 15:00:00,Kevin De Bruyne,Pass
+116456,85,MissedShots,0.795,0.57,0.051691845059394836,Sergio Agüero,h,619,OpenPlay,2016,RightFoot,3332,Manchester City,Burnley,2,1,2017-01-02 15:00:00,Raheem Sterling,Pass
+116435,15,BlockedShot,0.8059999847412109,0.615999984741211,0.10688194632530212,Scott Arfield,a,1659,DirectFreekick,2016,RightFoot,3332,Manchester City,Burnley,2,1,2017-01-02 15:00:00,,Standard
+116438,26,MissedShots,0.91,0.585,0.014756251126527786,Michael Keane,a,1653,FromCorner,2016,Head,3332,Manchester City,Burnley,2,1,2017-01-02 15:00:00,Johann Berg Gudmundsson,Aerial
+116440,35,MissedShots,0.7759999847412109,0.5640000152587891,0.03660702332854271,Ashley Barnes,a,4422,OpenPlay,2016,RightFoot,3332,Manchester City,Burnley,2,1,2017-01-02 15:00:00,Johann Berg Gudmundsson,HeadPass
+116443,52,MissedShots,0.715,0.3770000076293945,0.011171425692737103,Scott Arfield,a,1659,OpenPlay,2016,RightFoot,3332,Manchester City,Burnley,2,1,2017-01-02 15:00:00,,None
+116448,60,MissedShots,0.7319999694824219,0.4779999923706055,0.01508385594934225,Jeff Hendrick,a,1746,FromCorner,2016,RightFoot,3332,Manchester City,Burnley,2,1,2017-01-02 15:00:00,,None
+116451,67,BlockedShot,0.7669999694824219,0.39099998474121095,0.06835481524467468,George Boyd,a,1656,DirectFreekick,2016,LeftFoot,3332,Manchester City,Burnley,2,1,2017-01-02 15:00:00,,Standard
+116452,69,BlockedShot,0.9619999694824218,0.4909999847412109,0.061177805066108704,Sam Vokes,a,1661,FromCorner,2016,Head,3332,Manchester City,Burnley,2,1,2017-01-02 15:00:00,Michael Keane,OffsidePass
+116453,69,Goal,0.9630000305175781,0.47200000762939454,0.13488394021987915,Ben Mee,a,1654,FromCorner,2016,RightFoot,3332,Manchester City,Burnley,2,1,2017-01-02 15:00:00,,None
+116455,76,MissedShots,0.8959999847412109,0.4540000152587891,0.030821770429611206,Sam Vokes,a,1661,OpenPlay,2016,Head,3332,Manchester City,Burnley,2,1,2017-01-02 15:00:00,Scott Arfield,Aerial
+116457,88,MissedShots,0.86,0.42200000762939455,0.059685006737709045,Andre Gray,a,1660,OpenPlay,2016,RightFoot,3332,Manchester City,Burnley,2,1,2017-01-02 15:00:00,,None
+116458,90,SavedShot,0.905,0.4909999847412109,0.10268739610910416,Michael Keane,a,1653,OpenPlay,2016,LeftFoot,3332,Manchester City,Burnley,2,1,2017-01-02 15:00:00,Stephen Ward,Cross

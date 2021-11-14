@@ -1,0 +1,34 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+221587,2,BlockedShot,0.8480000305175781,0.46299999237060546,0.07805874943733215,Steven Zuber,h,254,OpenPlay,2018,LeftFoot,10350,Hoffenheim,Freiburg,3,1,2018-09-01 13:30:00,,BlockedPass
+221589,5,SavedShot,0.8830000305175781,0.3820000076293945,0.281589537858963,Ádám Szalai,h,360,OpenPlay,2018,RightFoot,10350,Hoffenheim,Freiburg,3,1,2018-09-01 13:30:00,Steven Zuber,CornerAwarded
+221590,8,SavedShot,0.8680000305175781,0.64,0.31183499097824097,Leonardo Bittencourt,h,262,OpenPlay,2018,LeftFoot,10350,Hoffenheim,Freiburg,3,1,2018-09-01 13:30:00,,None
+221591,9,MissedShots,0.9290000152587891,0.40599998474121096,0.055307984352111816,Ádám Szalai,h,360,FromCorner,2018,Head,10350,Hoffenheim,Freiburg,3,1,2018-09-01 13:30:00,Leonardo Bittencourt,Cross
+221592,10,MissedShots,0.905,0.5720000076293945,0.05052772909402847,Pavel Kaderábek,h,74,FromCorner,2018,Head,10350,Hoffenheim,Freiburg,3,1,2018-09-01 13:30:00,Leonardo Bittencourt,Cross
+221597,23,MissedShots,0.8569999694824219,0.46299999237060546,0.05526328459382057,Nico Schulz,h,433,OpenPlay,2018,RightFoot,10350,Hoffenheim,Freiburg,3,1,2018-09-01 13:30:00,Pavel Kaderábek,Cross
+221598,24,SavedShot,0.789000015258789,0.3039999961853027,0.022580143064260483,Steven Zuber,h,254,OpenPlay,2018,LeftFoot,10350,Hoffenheim,Freiburg,3,1,2018-09-01 13:30:00,Joelinton,Pass
+221599,28,BlockedShot,0.9290000152587891,0.45799999237060546,0.051950860768556595,Ádám Szalai,h,360,FromCorner,2018,Head,10350,Hoffenheim,Freiburg,3,1,2018-09-01 13:30:00,Leonardo Bittencourt,Aerial
+221601,41,BlockedShot,0.8109999847412109,0.3579999923706055,0.03806094080209732,Joelinton,h,87,OpenPlay,2018,RightFoot,10350,Hoffenheim,Freiburg,3,1,2018-09-01 13:30:00,Steven Zuber,Pass
+221602,43,MissedShots,0.6469999694824219,0.475,0.009857067838311195,Ádám Szalai,h,360,OpenPlay,2018,RightFoot,10350,Hoffenheim,Freiburg,3,1,2018-09-01 13:30:00,Joelinton,BallTouch
+221604,49,SavedShot,0.9340000152587891,0.49599998474121093,0.43925848603248596,Ádám Szalai,h,360,OpenPlay,2018,Head,10350,Hoffenheim,Freiburg,3,1,2018-09-01 13:30:00,Nico Schulz,Cross
+221605,49,MissedShots,0.914000015258789,0.45099998474121095,0.07845842838287354,Ádám Szalai,h,360,FromCorner,2018,Head,10350,Hoffenheim,Freiburg,3,1,2018-09-01 13:30:00,Leonardo Bittencourt,Cross
+221607,49,Goal,0.9490000152587891,0.505,0.4351677894592285,Ádám Szalai,h,360,OpenPlay,2018,RightFoot,10350,Hoffenheim,Freiburg,3,1,2018-09-01 13:30:00,,BallTouch
+221606,51,BlockedShot,0.8080000305175781,0.664000015258789,0.028914958238601685,Leonardo Bittencourt,h,262,OpenPlay,2018,RightFoot,10350,Hoffenheim,Freiburg,3,1,2018-09-01 13:30:00,,None
+221609,62,Goal,0.9619999694824218,0.5329999923706055,0.7022026777267456,Ádám Szalai,h,360,OpenPlay,2018,RightFoot,10350,Hoffenheim,Freiburg,3,1,2018-09-01 13:30:00,Nico Schulz,Pass
+221610,64,BlockedShot,0.85,0.7480000305175781,0.03455550596117973,Andrej Kramaric,h,956,OpenPlay,2018,RightFoot,10350,Hoffenheim,Freiburg,3,1,2018-09-01 13:30:00,Nico Schulz,Pass
+221611,68,MissedShots,0.7780000305175782,0.49400001525878906,0.04580580070614815,Andrej Kramaric,h,956,OpenPlay,2018,RightFoot,10350,Hoffenheim,Freiburg,3,1,2018-09-01 13:30:00,Leonardo Bittencourt,Pass
+221613,70,MissedShots,0.759000015258789,0.34200000762939453,0.02605753391981125,Florian Grillitsch,h,116,OpenPlay,2018,RightFoot,10350,Hoffenheim,Freiburg,3,1,2018-09-01 13:30:00,Joelinton,TakeOn
+221615,78,SavedShot,0.8419999694824218,0.27100000381469724,0.02060890384018421,Joelinton,h,87,OpenPlay,2018,LeftFoot,10350,Hoffenheim,Freiburg,3,1,2018-09-01 13:30:00,Pavel Kaderábek,Cross
+221617,87,MissedShots,0.740999984741211,0.46900001525878904,0.03967695310711861,Andrej Kramaric,h,956,OpenPlay,2018,RightFoot,10350,Hoffenheim,Freiburg,3,1,2018-09-01 13:30:00,Ádám Szalai,LayOff
+221618,93,MissedShots,0.44099998474121094,0.19799999237060548,0.11682283878326416,Leonardo Bittencourt,h,262,OpenPlay,2018,RightFoot,10350,Hoffenheim,Freiburg,3,1,2018-09-01 13:30:00,Andrej Kramaric,BallRecovery
+221619,93,Goal,0.9319999694824219,0.5429999923706055,0.6313267350196838,Andrej Kramaric,h,956,OpenPlay,2018,RightFoot,10350,Hoffenheim,Freiburg,3,1,2018-09-01 13:30:00,Leonardo Bittencourt,Rebound
+221588,2,MissedShots,0.545,0.4490000152587891,0.006895805709064007,Nils Petersen,a,4248,OpenPlay,2018,RightFoot,10350,Hoffenheim,Freiburg,3,1,2018-09-01 13:30:00,,None
+221593,12,MissedShots,0.7630000305175781,0.779000015258789,0.012546135112643242,Pascal Stenzel,a,326,FromCorner,2018,RightFoot,10350,Hoffenheim,Freiburg,3,1,2018-09-01 13:30:00,,None
+221594,13,BlockedShot,0.785,0.5729999923706055,0.04304693266749382,Florian Niederlechner,a,306,OpenPlay,2018,RightFoot,10350,Hoffenheim,Freiburg,3,1,2018-09-01 13:30:00,Nils Petersen,LayOff
+221595,13,SavedShot,0.8280000305175781,0.5479999923706055,0.05316746607422829,Florian Niederlechner,a,306,OpenPlay,2018,LeftFoot,10350,Hoffenheim,Freiburg,3,1,2018-09-01 13:30:00,,Rebound
+221596,19,BlockedShot,0.8669999694824219,0.850999984741211,0.0194530226290226,Nils Petersen,a,4248,OpenPlay,2018,RightFoot,10350,Hoffenheim,Freiburg,3,1,2018-09-01 13:30:00,Christian Günter,Pass
+221600,35,Goal,0.924000015258789,0.4759999847412109,0.5345298051834106,Dominique Heintz,a,129,SetPiece,2018,LeftFoot,10350,Hoffenheim,Freiburg,3,1,2018-09-01 13:30:00,,None
+221603,46,SavedShot,0.8519999694824218,0.5629999923706055,0.5269424319267273,Florian Niederlechner,a,306,OpenPlay,2018,RightFoot,10350,Hoffenheim,Freiburg,3,1,2018-09-01 13:30:00,Jérôme Gondorf,Throughball
+221608,52,MissedShots,0.730999984741211,0.49,0.055889129638671875,Jérôme Gondorf,a,8,DirectFreekick,2018,RightFoot,10350,Hoffenheim,Freiburg,3,1,2018-09-01 13:30:00,,Standard
+221612,69,MissedShots,0.8109999847412109,0.5309999847412109,0.05394190549850464,Florian Niederlechner,a,306,OpenPlay,2018,RightFoot,10350,Hoffenheim,Freiburg,3,1,2018-09-01 13:30:00,Nils Petersen,Pass
+221614,72,ShotOnPost,0.9019999694824219,0.5790000152587891,0.20242294669151306,Nils Petersen,a,4248,OpenPlay,2018,Head,10350,Hoffenheim,Freiburg,3,1,2018-09-01 13:30:00,Mike Frantz,Cross
+221616,87,SavedShot,0.9169999694824219,0.5820000076293945,0.030630609020590782,Nils Petersen,a,4248,OpenPlay,2018,Head,10350,Hoffenheim,Freiburg,3,1,2018-09-01 13:30:00,Mike Frantz,Aerial

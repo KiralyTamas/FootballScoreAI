@@ -1,0 +1,32 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+315560,7,MissedShots,0.754000015258789,0.43900001525878907,0.0233424361795187,Sofiane Boufal,h,1734,OpenPlay,2019,RightFoot,11673,Southampton,Manchester United,1,1,2019-08-31 12:30:00,Che Adams,Pass
+315563,11,MissedShots,0.7619999694824219,0.6459999847412109,0.017085595056414604,Pierre-Emile Højbjerg,h,343,OpenPlay,2019,RightFoot,11673,Southampton,Manchester United,1,1,2019-08-31 12:30:00,,BallRecovery
+315569,34,MissedShots,0.7190000152587891,0.3390000152587891,0.015063202939927578,Danny Ings,h,986,OpenPlay,2019,RightFoot,11673,Southampton,Manchester United,1,1,2019-08-31 12:30:00,Pierre-Emile Højbjerg,Pass
+315570,35,BlockedShot,0.7280000305175781,0.44,0.020822549238801003,Oriol Romeu,h,842,OpenPlay,2019,RightFoot,11673,Southampton,Manchester United,1,1,2019-08-31 12:30:00,,TakeOn
+315571,36,BlockedShot,0.865999984741211,0.5840000152587891,0.086130790412426,Sofiane Boufal,h,1734,OpenPlay,2019,RightFoot,11673,Southampton,Manchester United,1,1,2019-08-31 12:30:00,Danny Ings,TakeOn
+315573,54,MissedShots,0.925,0.34900001525878904,0.45487233996391296,Che Adams,h,7700,OpenPlay,2019,RightFoot,11673,Southampton,Manchester United,1,1,2019-08-31 12:30:00,Sofiane Boufal,Pass
+315574,57,SavedShot,0.9230000305175782,0.61,0.030125804245471954,Danny Ings,h,986,FromCorner,2019,Head,11673,Southampton,Manchester United,1,1,2019-08-31 12:30:00,James Ward-Prowse,Cross
+315575,57,Goal,0.9490000152587891,0.509000015258789,0.07897821068763733,Jannik Vestergaard,h,111,FromCorner,2019,Head,11673,Southampton,Manchester United,1,1,2019-08-31 12:30:00,Kevin Danso,Aerial
+315576,62,BlockedShot,0.8490000152587891,0.710999984741211,0.023132139816880226,Sofiane Boufal,h,1734,FromCorner,2019,RightFoot,11673,Southampton,Manchester United,1,1,2019-08-31 12:30:00,,None
+315578,65,MissedShots,0.745999984741211,0.40200000762939453,0.02006293460726738,Pierre-Emile Højbjerg,h,343,OpenPlay,2019,RightFoot,11673,Southampton,Manchester United,1,1,2019-08-31 12:30:00,Oriol Romeu,Pass
+315558,3,BlockedShot,0.9519999694824218,0.5670000076293945,0.10870473831892014,Marcus Rashford,a,556,OpenPlay,2019,RightFoot,11673,Southampton,Manchester United,1,1,2019-08-31 12:30:00,,None
+315559,3,MissedShots,0.765,0.6659999847412109,0.021011795848608017,Scott McTominay,a,5560,OpenPlay,2019,RightFoot,11673,Southampton,Manchester United,1,1,2019-08-31 12:30:00,Juan Mata,Pass
+315561,9,SavedShot,0.86,0.4420000076293945,0.09923194348812103,Andreas Pereira,a,922,OpenPlay,2019,RightFoot,11673,Southampton,Manchester United,1,1,2019-08-31 12:30:00,Juan Mata,Pass
+315562,9,Goal,0.865999984741211,0.66,0.060531288385391235,Daniel James,a,5595,OpenPlay,2019,RightFoot,11673,Southampton,Manchester United,1,1,2019-08-31 12:30:00,Scott McTominay,Pass
+315564,12,SavedShot,0.7969999694824219,0.725999984741211,0.019690480083227158,Daniel James,a,5595,OpenPlay,2019,RightFoot,11673,Southampton,Manchester United,1,1,2019-08-31 12:30:00,Juan Mata,Pass
+315565,17,MissedShots,0.8930000305175781,0.41900001525878905,0.29665446281433105,Aaron Wan-Bissaka,a,5584,OpenPlay,2019,RightFoot,11673,Southampton,Manchester United,1,1,2019-08-31 12:30:00,Scott McTominay,Cross
+315566,21,SavedShot,0.789000015258789,0.43099998474121093,0.04868483170866966,Daniel James,a,5595,OpenPlay,2019,RightFoot,11673,Southampton,Manchester United,1,1,2019-08-31 12:30:00,Marcus Rashford,Pass
+315567,27,MissedShots,0.93,0.5429999923706055,0.3419419229030609,Marcus Rashford,a,556,FromCorner,2019,Head,11673,Southampton,Manchester United,1,1,2019-08-31 12:30:00,Daniel James,Cross
+315568,31,MissedShots,0.8469999694824218,0.6959999847412109,0.0495978519320488,Juan Mata,a,554,OpenPlay,2019,LeftFoot,11673,Southampton,Manchester United,1,1,2019-08-31 12:30:00,Marcus Rashford,Pass
+315572,49,SavedShot,0.9669999694824218,0.4179999923706055,0.2769923508167267,Marcus Rashford,a,556,OpenPlay,2019,RightFoot,11673,Southampton,Manchester United,1,1,2019-08-31 12:30:00,Victor Lindelöf,TakeOn
+315577,64,BlockedShot,0.905,0.67,0.11490512639284134,Marcus Rashford,a,556,OpenPlay,2019,LeftFoot,11673,Southampton,Manchester United,1,1,2019-08-31 12:30:00,Paul Pogba,Throughball
+315579,68,MissedShots,0.77,0.72,0.014147543348371983,Nemanja Matic,a,697,OpenPlay,2019,LeftFoot,11673,Southampton,Manchester United,1,1,2019-08-31 12:30:00,Jesse Lingard,Pass
+315580,73,SavedShot,0.915,0.7090000152587891,0.05603671818971634,Daniel James,a,5595,OpenPlay,2019,LeftFoot,11673,Southampton,Manchester United,1,1,2019-08-31 12:30:00,Paul Pogba,Pass
+315581,74,MissedShots,0.9109999847412109,0.6480000305175782,0.06803924590349197,Daniel James,a,5595,OpenPlay,2019,RightFoot,11673,Southampton,Manchester United,1,1,2019-08-31 12:30:00,,None
+315582,82,SavedShot,0.8969999694824219,0.6459999847412109,0.08360904455184937,Marcus Rashford,a,556,OpenPlay,2019,LeftFoot,11673,Southampton,Manchester United,1,1,2019-08-31 12:30:00,Paul Pogba,Pass
+315583,84,BlockedShot,0.735,0.48200000762939454,0.020253218710422516,Jesse Lingard,a,558,OpenPlay,2019,RightFoot,11673,Southampton,Manchester United,1,1,2019-08-31 12:30:00,Ashley Young,Pass
+315584,85,BlockedShot,0.855,0.515,0.09879204630851746,Nemanja Matic,a,697,OpenPlay,2019,LeftFoot,11673,Southampton,Manchester United,1,1,2019-08-31 12:30:00,Aaron Wan-Bissaka,Pass
+315585,86,MissedShots,0.740999984741211,0.534000015258789,0.02072528749704361,Jesse Lingard,a,558,OpenPlay,2019,RightFoot,11673,Southampton,Manchester United,1,1,2019-08-31 12:30:00,Paul Pogba,Pass
+315586,87,SavedShot,0.8,0.3220000076293945,0.02618665248155594,Mason Greenwood,a,7490,OpenPlay,2019,LeftFoot,11673,Southampton,Manchester United,1,1,2019-08-31 12:30:00,Harry Maguire,Pass
+315587,87,MissedShots,0.91,0.49,0.05845947563648224,Marcus Rashford,a,556,OpenPlay,2019,Head,11673,Southampton,Manchester United,1,1,2019-08-31 12:30:00,Daniel James,Chipped
+315588,88,MissedShots,0.78,0.6730000305175782,0.019361963495612144,Ashley Young,a,631,OpenPlay,2019,RightFoot,11673,Southampton,Manchester United,1,1,2019-08-31 12:30:00,,None

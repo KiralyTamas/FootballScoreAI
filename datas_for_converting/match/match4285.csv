@@ -1,0 +1,23 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+110048,2,SavedShot,0.775,0.3160000038146973,0.01646943762898445,Julien Cetout,h,5632,OpenPlay,2016,RightFoot,4285,Nancy,Saint-Etienne,3,1,2017-05-20 20:00:00,,None
+110049,6,MissedShots,0.9069999694824219,0.6309999847412109,0.0178463663905859,Julien Cetout,h,5632,OpenPlay,2016,Head,4285,Nancy,Saint-Etienne,3,1,2017-05-20 20:00:00,Alexis Busin,Cross
+110050,8,SavedShot,0.8519999694824218,0.5420000076293945,0.10791472345590591,Junior Dalé,h,5637,OpenPlay,2016,LeftFoot,4285,Nancy,Saint-Etienne,3,1,2017-05-20 20:00:00,,TakeOn
+110051,15,BlockedShot,0.855999984741211,0.26799999237060546,0.029170341789722443,Junior Dalé,h,5637,OpenPlay,2016,RightFoot,4285,Nancy,Saint-Etienne,3,1,2017-05-20 20:00:00,,None
+110052,16,Goal,0.9290000152587891,0.67,0.27242133021354675,Alexis Busin,h,5721,OpenPlay,2016,LeftFoot,4285,Nancy,Saint-Etienne,3,1,2017-05-20 20:00:00,Junior Dalé,Pass
+110053,28,BlockedShot,0.8030000305175782,0.34599998474121096,0.08998513966798782,Julien Cetout,h,5632,DirectFreekick,2016,RightFoot,4285,Nancy,Saint-Etienne,3,1,2017-05-20 20:00:00,,Standard
+110057,39,MissedShots,0.7519999694824219,0.495,0.033500391989946365,Junior Dalé,h,5637,OpenPlay,2016,RightFoot,4285,Nancy,Saint-Etienne,3,1,2017-05-20 20:00:00,Diallo Guidileye,BallRecovery
+110059,51,MissedShots,0.7559999847412109,0.5320000076293945,0.04720430076122284,Youssef Ait Bennasser,h,5633,OpenPlay,2016,LeftFoot,4285,Nancy,Saint-Etienne,3,1,2017-05-20 20:00:00,Junior Dalé,LayOff
+110060,57,BlockedShot,0.795,0.24399999618530274,0.024034982547163963,Joffrey Cuffaut,h,5628,OpenPlay,2016,RightFoot,4285,Nancy,Saint-Etienne,3,1,2017-05-20 20:00:00,Modou Diagne,Pass
+110061,58,Goal,0.9519999694824218,0.45799999237060546,0.4487925171852112,Modou Diagne,h,5629,FromCorner,2016,Head,4285,Nancy,Saint-Etienne,3,1,2017-05-20 20:00:00,Faitout Maouassa,Cross
+110063,63,MissedShots,0.93,0.4929999923706055,0.47506824135780334,Faitout Maouassa,h,5635,OpenPlay,2016,Head,4285,Nancy,Saint-Etienne,3,1,2017-05-20 20:00:00,Alexis Busin,Cross
+110065,67,MissedShots,0.7340000152587891,0.2520000076293945,0.03423717990517616,Faitout Maouassa,h,5635,DirectFreekick,2016,LeftFoot,4285,Nancy,Saint-Etienne,3,1,2017-05-20 20:00:00,,Standard
+110066,70,MissedShots,0.7240000152587891,0.6079999923706054,0.01967686042189598,Serge N&#039;Guessan,h,5739,OpenPlay,2016,RightFoot,4285,Nancy,Saint-Etienne,3,1,2017-05-20 20:00:00,Youssef Ait Bennasser,Pass
+110068,81,Goal,0.87,0.575,0.3642250895500183,Faitout Maouassa,h,5635,OpenPlay,2016,LeftFoot,4285,Nancy,Saint-Etienne,3,1,2017-05-20 20:00:00,,None
+110054,29,BlockedShot,0.7390000152587891,0.21299999237060546,0.013764084316790104,Arnaud Nordin,a,5684,OpenPlay,2016,LeftFoot,4285,Nancy,Saint-Etienne,3,1,2017-05-20 20:00:00,Jordan Veretout,Pass
+110055,35,MissedShots,0.775,0.59,0.024628974497318268,Fabien Lemoine,a,3509,OpenPlay,2016,RightFoot,4285,Nancy,Saint-Etienne,3,1,2017-05-20 20:00:00,Romain Hamouma,BallTouch
+110056,36,SavedShot,0.7680000305175781,0.3729999923706055,0.020651252940297127,Kévin Monnet-Paquet,a,3513,OpenPlay,2016,RightFoot,4285,Nancy,Saint-Etienne,3,1,2017-05-20 20:00:00,,None
+110058,44,MissedShots,0.7230000305175781,0.445,0.012670314870774746,Pierre-Yves Polomat,a,3690,FromCorner,2016,LeftFoot,4285,Nancy,Saint-Etienne,3,1,2017-05-20 20:00:00,,Aerial
+110062,59,MissedShots,0.9490000152587891,0.5940000152587891,0.3312295079231262,Kévin Monnet-Paquet,a,3513,OpenPlay,2016,RightFoot,4285,Nancy,Saint-Etienne,3,1,2017-05-20 20:00:00,,None
+110064,64,BlockedShot,0.769000015258789,0.44299999237060544,0.02594306319952011,Alexander Søderlund,a,3511,OpenPlay,2016,RightFoot,4285,Nancy,Saint-Etienne,3,1,2017-05-20 20:00:00,,BallTouch
+110067,73,Goal,0.97,0.34,0.05967002362012863,Arnaud Nordin,a,5684,OpenPlay,2016,LeftFoot,4285,Nancy,Saint-Etienne,3,1,2017-05-20 20:00:00,Romain Hamouma,BallRecovery
+110069,87,BlockedShot,0.749000015258789,0.5670000076293945,0.06376849114894867,Henri Saivet,a,778,DirectFreekick,2016,RightFoot,4285,Nancy,Saint-Etienne,3,1,2017-05-20 20:00:00,,Standard

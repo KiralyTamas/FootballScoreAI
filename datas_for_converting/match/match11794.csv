@@ -1,0 +1,26 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+335673,19,BlockedShot,0.879000015258789,0.6940000152587891,0.04447346180677414,Dominic Solanke,h,1679,OpenPlay,2019,RightFoot,11794,Bournemouth,Liverpool,0,3,2019-12-07 15:00:00,Ryan Fraser,Pass
+335675,25,MissedShots,0.8769999694824219,0.5870000076293945,0.06921135634183884,Arnaut Danjuma Groeneveld,h,8066,OpenPlay,2019,LeftFoot,11794,Bournemouth,Liverpool,0,3,2019-12-07 15:00:00,Ryan Fraser,Cross
+335689,67,BlockedShot,0.860999984741211,0.315,0.04092363268136978,Arnaut Danjuma Groeneveld,h,8066,OpenPlay,2019,LeftFoot,11794,Bournemouth,Liverpool,0,3,2019-12-07 15:00:00,Lewis Cook,Pass
+335672,6,SavedShot,0.8969999694824219,0.31799999237060544,0.06737235933542252,Mohamed Salah,a,1250,OpenPlay,2019,LeftFoot,11794,Bournemouth,Liverpool,0,3,2019-12-07 15:00:00,Joseph Gomez,Pass
+335674,24,MissedShots,0.8769999694824219,0.72,0.03737753629684448,James Milner,a,489,OpenPlay,2019,RightFoot,11794,Bournemouth,Liverpool,0,3,2019-12-07 15:00:00,Mohamed Salah,None
+335676,26,SavedShot,0.9630000305175781,0.3220000076293945,0.00825741607695818,Mohamed Salah,a,1250,OpenPlay,2019,Head,11794,Bournemouth,Liverpool,0,3,2019-12-07 15:00:00,Joseph Gomez,Cross
+335677,34,Goal,0.8869999694824219,0.5579999923706055,0.3273683190345764,Alex Oxlade-Chamberlain,a,966,OpenPlay,2019,RightFoot,11794,Bournemouth,Liverpool,0,3,2019-12-07 15:00:00,Jordan Henderson,Throughball
+335678,37,SavedShot,0.8,0.49700000762939456,0.0634496808052063,Roberto Firmino,a,482,OpenPlay,2019,LeftFoot,11794,Bournemouth,Liverpool,0,3,2019-12-07 15:00:00,James Milner,Pass
+335679,38,BlockedShot,0.845999984741211,0.3729999923706055,0.06395253539085388,Naby Keita,a,5247,OpenPlay,2019,RightFoot,11794,Bournemouth,Liverpool,0,3,2019-12-07 15:00:00,Mohamed Salah,Pass
+335680,40,BlockedShot,0.8540000152587891,0.49,0.10159569978713989,Roberto Firmino,a,482,OpenPlay,2019,LeftFoot,11794,Bournemouth,Liverpool,0,3,2019-12-07 15:00:00,Trent Alexander-Arnold,Pass
+335681,43,Goal,0.91,0.47299999237060547,0.5160179138183594,Naby Keita,a,5247,OpenPlay,2019,RightFoot,11794,Bournemouth,Liverpool,0,3,2019-12-07 15:00:00,Mohamed Salah,Pass
+335682,45,MissedShots,0.82,0.5220000076293946,0.07217900454998016,Roberto Firmino,a,482,OpenPlay,2019,LeftFoot,11794,Bournemouth,Liverpool,0,3,2019-12-07 15:00:00,,BallRecovery
+335685,46,BlockedShot,0.91,0.31799999237060544,0.08710559457540512,Trent Alexander-Arnold,a,1791,OpenPlay,2019,RightFoot,11794,Bournemouth,Liverpool,0,3,2019-12-07 15:00:00,Roberto Firmino,Pass
+335683,47,MissedShots,0.9480000305175781,0.395,0.047002922743558884,Roberto Firmino,a,482,FromCorner,2019,Head,11794,Bournemouth,Liverpool,0,3,2019-12-07 15:00:00,Trent Alexander-Arnold,Cross
+335684,47,MissedShots,0.9669999694824218,0.5540000152587891,0.5943102836608887,Mohamed Salah,a,1250,FromCorner,2019,LeftFoot,11794,Bournemouth,Liverpool,0,3,2019-12-07 15:00:00,Roberto Firmino,Rebound
+335686,49,SavedShot,0.8440000152587891,0.445,0.08077234774827957,Naby Keita,a,5247,OpenPlay,2019,RightFoot,11794,Bournemouth,Liverpool,0,3,2019-12-07 15:00:00,,BallTouch
+335687,53,Goal,0.9,0.5879999923706055,0.4821346700191498,Mohamed Salah,a,1250,OpenPlay,2019,LeftFoot,11794,Bournemouth,Liverpool,0,3,2019-12-07 15:00:00,Naby Keita,Throughball
+335688,57,MissedShots,0.86,0.28600000381469726,0.07886355370283127,Trent Alexander-Arnold,a,1791,OpenPlay,2019,LeftFoot,11794,Bournemouth,Liverpool,0,3,2019-12-07 15:00:00,James Milner,Chipped
+335690,68,SavedShot,0.865,0.34799999237060547,0.0984049141407013,Mohamed Salah,a,1250,OpenPlay,2019,LeftFoot,11794,Bournemouth,Liverpool,0,3,2019-12-07 15:00:00,Jordan Henderson,Chipped
+335691,78,MissedShots,0.955999984741211,0.3509999847412109,0.09719986468553543,Trent Alexander-Arnold,a,1791,OpenPlay,2019,RightFoot,11794,Bournemouth,Liverpool,0,3,2019-12-07 15:00:00,James Milner,Chipped
+335692,81,MissedShots,0.8469999694824218,0.35400001525878905,0.05503212660551071,Trent Alexander-Arnold,a,1791,OpenPlay,2019,RightFoot,11794,Bournemouth,Liverpool,0,3,2019-12-07 15:00:00,,None
+335693,82,BlockedShot,0.8009999847412109,0.23600000381469727,0.030521485954523087,Alex Oxlade-Chamberlain,a,966,OpenPlay,2019,RightFoot,11794,Bournemouth,Liverpool,0,3,2019-12-07 15:00:00,Naby Keita,Pass
+335694,85,BlockedShot,0.8859999847412109,0.6459999847412109,0.0656123161315918,Roberto Firmino,a,482,OpenPlay,2019,LeftFoot,11794,Bournemouth,Liverpool,0,3,2019-12-07 15:00:00,Naby Keita,TakeOn
+335695,87,MissedShots,0.8430000305175781,0.425,0.07962951809167862,Curtis Jones,a,6665,OpenPlay,2019,LeftFoot,11794,Bournemouth,Liverpool,0,3,2019-12-07 15:00:00,Xherdan Shaqiri,Chipped
+335696,91,SavedShot,0.7169999694824218,0.46,0.018238453194499016,Jordan Henderson,a,605,SetPiece,2019,RightFoot,11794,Bournemouth,Liverpool,0,3,2019-12-07 15:00:00,Mohamed Salah,Pass

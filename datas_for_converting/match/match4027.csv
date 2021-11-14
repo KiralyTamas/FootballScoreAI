@@ -1,0 +1,31 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+141857,2,Goal,0.9669999694824218,0.5509999847412109,0.5569635629653931,Willian José,h,2361,OpenPlay,2016,Head,4027,Real Sociedad,Sporting Gijon,3,1,2017-04-10 19:45:00,Xabi Prieto,Chipped
+141860,7,MissedShots,0.8830000305175781,0.524000015258789,0.04638213664293289,Raúl Navas,h,4130,FromCorner,2016,Head,4027,Real Sociedad,Sporting Gijon,3,1,2017-04-10 19:45:00,Carlos Vela,Cross
+141863,23,MissedShots,0.775,0.27,0.01971004158258438,Zaldúa,h,2226,OpenPlay,2016,RightFoot,4027,Real Sociedad,Sporting Gijon,3,1,2017-04-10 19:45:00,Carlos Vela,Pass
+141864,26,Goal,0.875,0.585,0.13164575397968292,Juanmi,h,897,OpenPlay,2016,RightFoot,4027,Real Sociedad,Sporting Gijon,3,1,2017-04-10 19:45:00,Xabi Prieto,Throughball
+141865,31,BlockedShot,0.7040000152587891,0.66,0.01472659781575203,Yuri,h,2229,SetPiece,2016,LeftFoot,4027,Real Sociedad,Sporting Gijon,3,1,2017-04-10 19:45:00,Asier Illarramendi,Pass
+141866,31,MissedShots,0.88,0.615999984741211,0.07053273916244507,Willian José,h,2361,SetPiece,2016,LeftFoot,4027,Real Sociedad,Sporting Gijon,3,1,2017-04-10 19:45:00,Iñigo Martínez,Rebound
+141867,34,BlockedShot,0.7659999847412109,0.26399999618530273,0.02090996317565441,Asier Illarramendi,h,2232,FromCorner,2016,RightFoot,4027,Real Sociedad,Sporting Gijon,3,1,2017-04-10 19:45:00,Carlos Vela,Pass
+141868,34,MissedShots,0.7430000305175781,0.675,0.017656557261943817,Yuri,h,2229,FromCorner,2016,LeftFoot,4027,Real Sociedad,Sporting Gijon,3,1,2017-04-10 19:45:00,,Rebound
+141871,47,BlockedShot,0.8769999694824219,0.7230000305175781,0.04234651103615761,Willian José,h,2361,OpenPlay,2016,RightFoot,4027,Real Sociedad,Sporting Gijon,3,1,2017-04-10 19:45:00,Gerónimo Rulli,Pass
+141873,52,BlockedShot,0.7719999694824219,0.615999984741211,0.044204965233802795,Willian José,h,2361,OpenPlay,2016,RightFoot,4027,Real Sociedad,Sporting Gijon,3,1,2017-04-10 19:45:00,Yuri,Pass
+141874,53,SavedShot,0.874000015258789,0.6170000076293946,0.1522267758846283,Juanmi,h,897,OpenPlay,2016,LeftFoot,4027,Real Sociedad,Sporting Gijon,3,1,2017-04-10 19:45:00,David Zurutuza,Throughball
+141875,55,BlockedShot,0.885,0.6909999847412109,0.0721074640750885,Yuri,h,2229,OpenPlay,2016,LeftFoot,4027,Real Sociedad,Sporting Gijon,3,1,2017-04-10 19:45:00,Zaldúa,Chipped
+141876,61,MissedShots,0.874000015258789,0.4279999923706055,0.1293729841709137,David Zurutuza,h,2230,OpenPlay,2016,RightFoot,4027,Real Sociedad,Sporting Gijon,3,1,2017-04-10 19:45:00,Zaldúa,Pass
+141877,65,MissedShots,0.8480000305175781,0.49700000762939456,0.28662094473838806,Juanmi,h,897,OpenPlay,2016,RightFoot,4027,Real Sociedad,Sporting Gijon,3,1,2017-04-10 19:45:00,Willian José,Pass
+141878,76,Goal,0.9290000152587891,0.6659999847412109,0.11258632689714432,Yuri,h,2229,OpenPlay,2016,LeftFoot,4027,Real Sociedad,Sporting Gijon,3,1,2017-04-10 19:45:00,David Zurutuza,Pass
+141879,80,SavedShot,0.8690000152587891,0.19100000381469726,0.06494773179292679,Carlos Vela,h,2416,DirectFreekick,2016,RightFoot,4027,Real Sociedad,Sporting Gijon,3,1,2017-04-10 19:45:00,,Standard
+141880,80,MissedShots,0.8859999847412109,0.649000015258789,0.05273246765136719,Raúl Navas,h,4130,FromCorner,2016,LeftFoot,4027,Real Sociedad,Sporting Gijon,3,1,2017-04-10 19:45:00,,None
+141883,87,MissedShots,0.9009999847412109,0.555,0.07992809265851974,Juanmi,h,897,OpenPlay,2016,Head,4027,Real Sociedad,Sporting Gijon,3,1,2017-04-10 19:45:00,Aritz Elustondo,Cross
+141885,91,SavedShot,0.7090000152587891,0.5420000076293945,0.01953953318297863,Sergio Canales,h,2571,OpenPlay,2016,LeftFoot,4027,Real Sociedad,Sporting Gijon,3,1,2017-04-10 19:45:00,Mikel Oyarzabal,Pass
+141886,93,SavedShot,0.7240000152587891,0.53,0.054938361048698425,Sergio Canales,h,2571,DirectFreekick,2016,LeftFoot,4027,Real Sociedad,Sporting Gijon,3,1,2017-04-10 19:45:00,,Standard
+141858,3,SavedShot,0.8919999694824219,0.710999984741211,0.05178371071815491,Burgui,a,2432,OpenPlay,2016,LeftFoot,4027,Real Sociedad,Sporting Gijon,3,1,2017-04-10 19:45:00,Sergio Álvarez,TakeOn
+141859,4,BlockedShot,0.7369999694824219,0.4879999923706055,0.028834285214543343,Jorge Meré,a,2210,FromCorner,2016,RightFoot,4027,Real Sociedad,Sporting Gijon,3,1,2017-04-10 19:45:00,Burgui,Pass
+141861,14,SavedShot,0.775,0.3240000152587891,0.017616955563426018,Mikel Vesga,a,5077,OpenPlay,2016,LeftFoot,4027,Real Sociedad,Sporting Gijon,3,1,2017-04-10 19:45:00,,None
+141862,18,BlockedShot,0.8219999694824218,0.4929999923706055,0.05579241365194321,Burgui,a,2432,OpenPlay,2016,RightFoot,4027,Real Sociedad,Sporting Gijon,3,1,2017-04-10 19:45:00,Fernando Amorebieta,Chipped
+141869,43,BlockedShot,0.8540000152587891,0.5220000076293946,0.03557119891047478,Xavi Torres,a,2146,FromCorner,2016,Head,4027,Real Sociedad,Sporting Gijon,3,1,2017-04-10 19:45:00,,None
+141870,43,MissedShots,0.950999984741211,0.49,0.09242060035467148,Sergio Álvarez,a,2212,FromCorner,2016,Head,4027,Real Sociedad,Sporting Gijon,3,1,2017-04-10 19:45:00,Xavi Torres,Rebound
+141872,51,MissedShots,0.6580000305175782,0.524000015258789,0.007774971425533295,Elderson Echiéjilé,a,3419,SetPiece,2016,LeftFoot,4027,Real Sociedad,Sporting Gijon,3,1,2017-04-10 19:45:00,,None
+141881,86,MissedShots,0.7930000305175782,0.674000015258789,0.019580548629164696,Borja Viguera,a,2402,OpenPlay,2016,RightFoot,4027,Real Sociedad,Sporting Gijon,3,1,2017-04-10 19:45:00,Burgui,Pass
+141882,86,Goal,0.894000015258789,0.5840000152587891,0.07979419082403183,Elderson Echiéjilé,a,3419,OpenPlay,2016,LeftFoot,4027,Real Sociedad,Sporting Gijon,3,1,2017-04-10 19:45:00,Borja Viguera,Rebound
+141884,89,BlockedShot,0.730999984741211,0.6079999923706054,0.014716376550495625,Lillo,a,2465,FromCorner,2016,RightFoot,4027,Real Sociedad,Sporting Gijon,3,1,2017-04-10 19:45:00,,None

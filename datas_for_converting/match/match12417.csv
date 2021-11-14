@@ -1,0 +1,24 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+312443,24,MissedShots,0.895,0.565,0.015973951667547226,Michael Gregoritsch,h,171,FromCorner,2019,Head,12417,Augsburg,Union Berlin,1,1,2019-08-24 14:30:00,Philipp Max,Aerial
+312444,25,MissedShots,0.9690000152587891,0.33599998474121096,0.0675400123000145,Florian Niederlechner,h,306,OpenPlay,2019,RightFoot,12417,Augsburg,Union Berlin,1,1,2019-08-24 14:30:00,André Hahn,BallTouch
+312446,29,MissedShots,0.7869999694824219,0.37099998474121093,0.03078344464302063,André Hahn,h,412,OpenPlay,2019,RightFoot,12417,Augsburg,Union Berlin,1,1,2019-08-24 14:30:00,Ruben Vargas,BallTouch
+312447,33,BlockedShot,0.845,0.6530000305175782,0.018716776743531227,Philipp Max,h,267,OpenPlay,2019,LeftFoot,12417,Augsburg,Union Berlin,1,1,2019-08-24 14:30:00,,Aerial
+312453,50,SavedShot,0.8109999847412109,0.29700000762939455,0.022849414497613907,Ruben Vargas,h,7810,OpenPlay,2019,RightFoot,12417,Augsburg,Union Berlin,1,1,2019-08-24 14:30:00,,None
+312454,54,SavedShot,0.8780000305175781,0.5729999923706055,0.03481849655508995,Florian Niederlechner,h,306,OpenPlay,2019,Head,12417,Augsburg,Union Berlin,1,1,2019-08-24 14:30:00,Philipp Max,Cross
+312455,58,Goal,0.9580000305175781,0.509000015258789,0.6035959720611572,Ruben Vargas,h,7810,OpenPlay,2019,LeftFoot,12417,Augsburg,Union Berlin,1,1,2019-08-24 14:30:00,Florian Niederlechner,Cross
+312456,65,MissedShots,0.955,0.5779999923706055,0.09885679930448532,Tin Jedvaj,h,417,FromCorner,2019,Head,12417,Augsburg,Union Berlin,1,1,2019-08-24 14:30:00,Philipp Max,Cross
+312458,72,MissedShots,0.8440000152587891,0.5070000076293946,0.3427716791629791,Florian Niederlechner,h,306,OpenPlay,2019,RightFoot,12417,Augsburg,Union Berlin,1,1,2019-08-24 14:30:00,Marco Richter,TakeOn
+312463,85,MissedShots,0.73,0.355,0.04548335075378418,Michael Gregoritsch,h,171,DirectFreekick,2019,LeftFoot,12417,Augsburg,Union Berlin,1,1,2019-08-24 14:30:00,,Standard
+312464,88,MissedShots,0.779000015258789,0.3579999923706055,0.025878163054585457,Alfred Finnbogason,h,2655,OpenPlay,2019,RightFoot,12417,Augsburg,Union Berlin,1,1,2019-08-24 14:30:00,Michael Gregoritsch,Pass
+312465,94,SavedShot,0.8490000152587891,0.5870000076293945,0.06852416694164276,Alfred Finnbogason,h,2655,OpenPlay,2019,RightFoot,12417,Augsburg,Union Berlin,1,1,2019-08-24 14:30:00,Tin Jedvaj,Chipped
+312445,26,MissedShots,0.8730000305175781,0.27399999618530274,0.031109819188714027,Anthony Ujah,a,119,OpenPlay,2019,RightFoot,12417,Augsburg,Union Berlin,1,1,2019-08-24 14:30:00,Marius Bülter,Pass
+312448,34,MissedShots,0.72,0.585,0.016046367585659027,Marius Bülter,a,7879,OpenPlay,2019,RightFoot,12417,Augsburg,Union Berlin,1,1,2019-08-24 14:30:00,Sheraldo Becker,Pass
+312449,40,BlockedShot,0.8919999694824219,0.6719999694824219,0.06000296771526337,Marcus Ingvartsen,a,7883,OpenPlay,2019,LeftFoot,12417,Augsburg,Union Berlin,1,1,2019-08-24 14:30:00,Anthony Ujah,Pass
+312450,40,MissedShots,0.935,0.5129999923706055,0.06776276975870132,Keven Schlotterbeck,a,7401,FromCorner,2019,Head,12417,Augsburg,Union Berlin,1,1,2019-08-24 14:30:00,Christopher Trimmel,Aerial
+312451,43,BlockedShot,0.789000015258789,0.6,0.03213119879364967,Robert Andrich,a,7877,OpenPlay,2019,RightFoot,12417,Augsburg,Union Berlin,1,1,2019-08-24 14:30:00,Grischa Prömel,Pass
+312452,43,BlockedShot,0.8280000305175781,0.44099998474121094,0.05633625388145447,Robert Andrich,a,7877,OpenPlay,2019,RightFoot,12417,Augsburg,Union Berlin,1,1,2019-08-24 14:30:00,,None
+312457,67,BlockedShot,0.735,0.705,0.010967633686959743,Robert Andrich,a,7877,OpenPlay,2019,RightFoot,12417,Augsburg,Union Berlin,1,1,2019-08-24 14:30:00,,None
+312459,77,ShotOnPost,0.730999984741211,0.77,0.01364423893392086,Christopher Lenz,a,7876,OpenPlay,2019,LeftFoot,12417,Augsburg,Union Berlin,1,1,2019-08-24 14:30:00,Marius Bülter,Pass
+312460,77,BlockedShot,0.8930000305175781,0.3509999847412109,0.058647334575653076,Suleiman Abdullahi,a,7878,OpenPlay,2019,RightFoot,12417,Augsburg,Union Berlin,1,1,2019-08-24 14:30:00,,Rebound
+312461,79,Goal,0.855,0.49400001525878906,0.5214794874191284,Sebastian Andersson,a,7880,OpenPlay,2019,RightFoot,12417,Augsburg,Union Berlin,1,1,2019-08-24 14:30:00,Sebastian Polter,Pass
+312462,81,MissedShots,0.875999984741211,0.5420000076293945,0.023870164528489113,Sebastian Polter,a,7881,OpenPlay,2019,Head,12417,Augsburg,Union Berlin,1,1,2019-08-24 14:30:00,Christopher Trimmel,Aerial

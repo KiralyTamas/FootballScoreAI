@@ -1,0 +1,37 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+263181,4,Goal,0.9269999694824219,0.4779999923706055,0.39532870054244995,Denis Glushakov,h,2814,OpenPlay,2018,Head,9070,Spartak Moscow,Lokomotiv Moscow,2,1,2018-12-02 16:00:00,,None
+263182,7,SavedShot,0.6819999694824219,0.4929999923706055,0.031220391392707825,Fernando,h,1937,DirectFreekick,2018,RightFoot,9070,Spartak Moscow,Lokomotiv Moscow,2,1,2018-12-02 16:00:00,,Standard
+263183,11,SavedShot,0.86,0.720999984741211,0.02982986345887184,Dmitri Kombarov,h,2821,OpenPlay,2018,LeftFoot,9070,Spartak Moscow,Lokomotiv Moscow,2,1,2018-12-02 16:00:00,Sofiane Hanni,Chipped
+263184,11,MissedShots,0.745,0.5320000076293945,0.015830878168344498,Fernando,h,1937,FromCorner,2018,LeftFoot,9070,Spartak Moscow,Lokomotiv Moscow,2,1,2018-12-02 16:00:00,,None
+263185,11,MissedShots,0.8630000305175781,0.48900001525878906,0.0708509087562561,Giorgi Jikia,h,2834,FromCorner,2018,LeftFoot,9070,Spartak Moscow,Lokomotiv Moscow,2,1,2018-12-02 16:00:00,Fernando,Rebound
+263187,15,BlockedShot,0.8040000152587891,0.6809999847412109,0.030919738113880157,Fernando,h,1937,OpenPlay,2018,LeftFoot,9070,Spartak Moscow,Lokomotiv Moscow,2,1,2018-12-02 16:00:00,Luiz Adriano,Pass
+263190,23,BlockedShot,0.7680000305175781,0.435,0.03346569836139679,Nikolai Rasskazov,h,6378,OpenPlay,2018,LeftFoot,9070,Spartak Moscow,Lokomotiv Moscow,2,1,2018-12-02 16:00:00,Fernando,Pass
+263193,26,SavedShot,0.7880000305175782,0.34,0.03804536536335945,Lorenzo Melgarejo,h,2819,OpenPlay,2018,LeftFoot,9070,Spartak Moscow,Lokomotiv Moscow,2,1,2018-12-02 16:00:00,Denis Glushakov,HeadPass
+263194,27,BlockedShot,0.8159999847412109,0.35200000762939454,0.0497090108692646,Lorenzo Melgarejo,h,2819,OpenPlay,2018,LeftFoot,9070,Spartak Moscow,Lokomotiv Moscow,2,1,2018-12-02 16:00:00,Sofiane Hanni,Pass
+263198,34,MissedShots,0.7830000305175782,0.5709999847412109,0.04323964565992355,Fernando,h,1937,OpenPlay,2018,LeftFoot,9070,Spartak Moscow,Lokomotiv Moscow,2,1,2018-12-02 16:00:00,Zé Luís,None
+263199,36,Goal,0.9369999694824219,0.46799999237060547,0.4291796088218689,Luiz Adriano,h,1127,OpenPlay,2018,Head,9070,Spartak Moscow,Lokomotiv Moscow,2,1,2018-12-02 16:00:00,Sofiane Hanni,Cross
+263200,43,MissedShots,0.8519999694824218,0.2560000038146973,0.03888808190822601,Lorenzo Melgarejo,h,2819,OpenPlay,2018,LeftFoot,9070,Spartak Moscow,Lokomotiv Moscow,2,1,2018-12-02 16:00:00,Denis Glushakov,Pass
+263202,48,SavedShot,0.889000015258789,0.664000015258789,0.13825523853302002,Sofiane Hanni,h,6613,OpenPlay,2018,LeftFoot,9070,Spartak Moscow,Lokomotiv Moscow,2,1,2018-12-02 16:00:00,Luiz Adriano,TakeOn
+263205,64,SavedShot,0.8219999694824218,0.7130000305175781,0.04006172716617584,Dmitri Kombarov,h,2821,OpenPlay,2018,RightFoot,9070,Spartak Moscow,Lokomotiv Moscow,2,1,2018-12-02 16:00:00,Zé Luís,Pass
+263215,92,MissedShots,0.8190000152587891,0.720999984741211,0.03129084035754204,Dmitri Kombarov,h,2821,OpenPlay,2018,LeftFoot,9070,Spartak Moscow,Lokomotiv Moscow,2,1,2018-12-02 16:00:00,Artem Timofeev,Pass
+263216,96,SavedShot,0.89,0.3220000076293945,0.10718213021755219,Luiz Adriano,h,1127,OpenPlay,2018,RightFoot,9070,Spartak Moscow,Lokomotiv Moscow,2,1,2018-12-02 16:00:00,Zé Luís,Pass
+263186,15,SavedShot,0.7609999847412109,0.48700000762939455,0.025345344096422195,Grzegorz Krychowiak,a,2414,OpenPlay,2018,LeftFoot,9070,Spartak Moscow,Lokomotiv Moscow,2,1,2018-12-02 16:00:00,Aleksey Miranchuk,Pass
+263188,17,BlockedShot,0.7119999694824218,0.6,0.015174315311014652,Anton Miranchuk,a,4605,OpenPlay,2018,RightFoot,9070,Spartak Moscow,Lokomotiv Moscow,2,1,2018-12-02 16:00:00,Maciej Rybus,Pass
+263189,19,MissedShots,0.9319999694824219,0.674000015258789,0.06529808789491653,Anton Miranchuk,a,4605,OpenPlay,2018,LeftFoot,9070,Spartak Moscow,Lokomotiv Moscow,2,1,2018-12-02 16:00:00,Fedor Smolov,Pass
+263191,24,BlockedShot,0.7709999847412109,0.485,0.01508786715567112,Anton Miranchuk,a,4605,FromCorner,2018,RightFoot,9070,Spartak Moscow,Lokomotiv Moscow,2,1,2018-12-02 16:00:00,,Aerial
+263192,24,BlockedShot,0.7959999847412109,0.42900001525878906,0.03931368887424469,Aleksey Miranchuk,a,2711,OpenPlay,2018,LeftFoot,9070,Spartak Moscow,Lokomotiv Moscow,2,1,2018-12-02 16:00:00,Anton Miranchuk,Pass
+263195,28,SavedShot,0.7280000305175781,0.45799999237060546,0.017472829669713974,Grzegorz Krychowiak,a,2414,OpenPlay,2018,RightFoot,9070,Spartak Moscow,Lokomotiv Moscow,2,1,2018-12-02 16:00:00,Jefferson Farfán,Pass
+263196,30,MissedShots,0.9730000305175781,0.49599998474121093,0.815687358379364,Fedor Smolov,a,2925,OpenPlay,2018,RightFoot,9070,Spartak Moscow,Lokomotiv Moscow,2,1,2018-12-02 16:00:00,,None
+263197,34,SavedShot,0.7909999847412109,0.4779999923706055,0.03786489740014076,Igor Denisov,a,2749,OpenPlay,2018,RightFoot,9070,Spartak Moscow,Lokomotiv Moscow,2,1,2018-12-02 16:00:00,Anton Miranchuk,Pass
+263201,45,MissedShots,0.8130000305175781,0.6990000152587891,0.016701048240065575,Maciej Rybus,a,2856,OpenPlay,2018,LeftFoot,9070,Spartak Moscow,Lokomotiv Moscow,2,1,2018-12-02 16:00:00,,None
+263203,52,MissedShots,0.8130000305175781,0.6020000076293945,0.030643654987215996,Maciej Rybus,a,2856,OpenPlay,2018,RightFoot,9070,Spartak Moscow,Lokomotiv Moscow,2,1,2018-12-02 16:00:00,,None
+263204,63,MissedShots,0.835,0.7559999847412109,0.012652399949729443,Manuel Fernandes,a,2708,OpenPlay,2018,RightFoot,9070,Spartak Moscow,Lokomotiv Moscow,2,1,2018-12-02 16:00:00,Fedor Smolov,Pass
+263206,66,BlockedShot,0.9369999694824219,0.5940000152587891,0.364188551902771,Fedor Smolov,a,2925,OpenPlay,2018,RightFoot,9070,Spartak Moscow,Lokomotiv Moscow,2,1,2018-12-02 16:00:00,Anton Miranchuk,Pass
+263207,68,ShotOnPost,0.885,0.5,0.7542753219604492,Fedor Smolov,a,2925,Penalty,2018,RightFoot,9070,Spartak Moscow,Lokomotiv Moscow,2,1,2018-12-02 16:00:00,,Standard
+263208,74,MissedShots,0.730999984741211,0.605999984741211,0.011923928745090961,Manuel Fernandes,a,2708,OpenPlay,2018,RightFoot,9070,Spartak Moscow,Lokomotiv Moscow,2,1,2018-12-02 16:00:00,Dimitri Barinov,Pass
+263209,76,BlockedShot,0.9009999847412109,0.29200000762939454,0.05096186697483063,Eder,a,963,OpenPlay,2018,RightFoot,9070,Spartak Moscow,Lokomotiv Moscow,2,1,2018-12-02 16:00:00,Jefferson Farfán,Pass
+263210,76,MissedShots,0.7519999694824219,0.5129999923706055,0.020413832738995552,Maciej Rybus,a,2856,FromCorner,2018,RightFoot,9070,Spartak Moscow,Lokomotiv Moscow,2,1,2018-12-02 16:00:00,Aleksey Miranchuk,Pass
+263211,78,Goal,0.860999984741211,0.4929999923706055,0.2781917154788971,Jefferson Farfán,a,4299,OpenPlay,2018,RightFoot,9070,Spartak Moscow,Lokomotiv Moscow,2,1,2018-12-02 16:00:00,Dimitri Barinov,Chipped
+263212,83,BlockedShot,0.935,0.6780000305175782,0.05042317137122154,Fedor Smolov,a,2925,OpenPlay,2018,LeftFoot,9070,Spartak Moscow,Lokomotiv Moscow,2,1,2018-12-02 16:00:00,,BallRecovery
+263213,89,MissedShots,0.7480000305175781,0.42900001525878906,0.019502554088830948,Dimitri Barinov,a,2721,OpenPlay,2018,RightFoot,9070,Spartak Moscow,Lokomotiv Moscow,2,1,2018-12-02 16:00:00,Jefferson Farfán,Pass
+263214,91,BlockedShot,0.7809999847412109,0.3920000076293945,0.029586775228381157,Aleksey Miranchuk,a,2711,OpenPlay,2018,LeftFoot,9070,Spartak Moscow,Lokomotiv Moscow,2,1,2018-12-02 16:00:00,Vladislav Ignatjev,Pass

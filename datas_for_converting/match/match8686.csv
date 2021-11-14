@@ -1,0 +1,24 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+164579,2,Goal,0.81,0.485,0.07724083214998245,Nicolas de Preville,h,3244,OpenPlay,2017,RightFoot,8686,Bordeaux,Marseille,1,1,2017-11-19 20:00:00,,TakeOn
+164580,5,MissedShots,0.7930000305175782,0.555,0.02728131227195263,Otávio,h,6060,FromCorner,2017,RightFoot,8686,Bordeaux,Marseille,1,1,2017-11-19 20:00:00,,None
+164581,7,BlockedShot,0.735,0.44599998474121094,0.01504994835704565,Otávio,h,6060,SetPiece,2017,RightFoot,8686,Bordeaux,Marseille,1,1,2017-11-19 20:00:00,,Dispossessed
+164584,18,MissedShots,0.8619999694824219,0.575,0.06579246371984482,Younousse Sankhare,h,3474,OpenPlay,2017,LeftFoot,8686,Bordeaux,Marseille,1,1,2017-11-19 20:00:00,Francois Kamano,Cross
+164586,26,MissedShots,0.7830000305175782,0.639000015258789,0.01680660806596279,Nicolas de Preville,h,3244,OpenPlay,2017,RightFoot,8686,Bordeaux,Marseille,1,1,2017-11-19 20:00:00,,Aerial
+164593,52,MissedShots,0.5159999847412109,0.34299999237060547,0.008018478751182556,Lukas Lerager,h,6021,OpenPlay,2017,RightFoot,8686,Bordeaux,Marseille,1,1,2017-11-19 20:00:00,,BallRecovery
+164596,63,SavedShot,0.735999984741211,0.624000015258789,0.022985028102993965,Younousse Sankhare,h,3474,OpenPlay,2017,LeftFoot,8686,Bordeaux,Marseille,1,1,2017-11-19 20:00:00,Otávio,Pass
+164597,68,SavedShot,0.8580000305175781,0.5179999923706055,0.0232602059841156,Younousse Sankhare,h,3474,OpenPlay,2017,Head,8686,Bordeaux,Marseille,1,1,2017-11-19 20:00:00,Théo Pellenard,Aerial
+164599,84,MissedShots,0.845999984741211,0.5629999923706055,0.08252580463886261,Younousse Sankhare,h,3474,OpenPlay,2017,LeftFoot,8686,Bordeaux,Marseille,1,1,2017-11-19 20:00:00,Malcom,Pass
+164582,9,BlockedShot,0.8119999694824219,0.46,0.05547673627734184,Dimitri Payet,a,536,OpenPlay,2017,LeftFoot,8686,Bordeaux,Marseille,1,1,2017-11-19 20:00:00,Florian Thauvin,Pass
+164583,10,MissedShots,0.7680000305175781,0.7240000152587891,0.014407328329980373,Florian Thauvin,a,942,OpenPlay,2017,LeftFoot,8686,Bordeaux,Marseille,1,1,2017-11-19 20:00:00,Kostas Mitroglou,HeadPass
+164585,23,MissedShots,0.9009999847412109,0.43400001525878906,0.05936696380376816,Lucas Ocampos,a,1109,OpenPlay,2017,Head,8686,Bordeaux,Marseille,1,1,2017-11-19 20:00:00,Dimitri Payet,Cross
+164587,28,BlockedShot,0.9130000305175782,0.5459999847412109,0.10437669605016708,Kostas Mitroglou,a,6355,SetPiece,2017,Head,8686,Bordeaux,Marseille,1,1,2017-11-19 20:00:00,Dimitri Payet,Cross
+164588,37,SavedShot,0.700999984741211,0.48700000762939455,0.03998047485947609,Dimitri Payet,a,536,DirectFreekick,2017,RightFoot,8686,Bordeaux,Marseille,1,1,2017-11-19 20:00:00,,Standard
+164589,39,MissedShots,0.885,0.5420000076293945,0.06283225864171982,Kostas Mitroglou,a,6355,OpenPlay,2017,Head,8686,Bordeaux,Marseille,1,1,2017-11-19 20:00:00,Morgan Sanson,Cross
+164590,42,MissedShots,0.9719999694824218,0.44,0.09292960911989212,Adil Rami,a,2412,FromCorner,2017,OtherBodyPart,8686,Bordeaux,Marseille,1,1,2017-11-19 20:00:00,Florian Thauvin,Aerial
+164591,46,SavedShot,0.9219999694824219,0.14100000381469727,0.015378346666693687,Florian Thauvin,a,942,OpenPlay,2017,LeftFoot,8686,Bordeaux,Marseille,1,1,2017-11-19 20:00:00,,FormationChange
+164592,49,MissedShots,0.9330000305175781,0.41,0.31855541467666626,Florian Thauvin,a,942,OpenPlay,2017,RightFoot,8686,Bordeaux,Marseille,1,1,2017-11-19 20:00:00,Morgan Sanson,Cross
+164594,54,MissedShots,0.92,0.4879999923706055,0.051365286111831665,Kostas Mitroglou,a,6355,OpenPlay,2017,Head,8686,Bordeaux,Marseille,1,1,2017-11-19 20:00:00,Morgan Sanson,Aerial
+164595,55,BlockedShot,0.86,0.27299999237060546,0.024743301793932915,Florian Thauvin,a,942,OpenPlay,2017,LeftFoot,8686,Bordeaux,Marseille,1,1,2017-11-19 20:00:00,Adil Rami,TakeOn
+164598,69,BlockedShot,0.855999984741211,0.6990000152587891,0.04135806858539581,Lucas Ocampos,a,1109,OpenPlay,2017,RightFoot,8686,Bordeaux,Marseille,1,1,2017-11-19 20:00:00,Morgan Sanson,Pass
+164600,90,MissedShots,0.9030000305175782,0.534000015258789,0.08359163254499435,Kostas Mitroglou,a,6355,OpenPlay,2017,LeftFoot,8686,Bordeaux,Marseille,1,1,2017-11-19 20:00:00,Jordan Amavi,Cross
+164601,93,Goal,0.8780000305175781,0.5359999847412109,0.07534289360046387,Morgan Sanson,a,3696,SetPiece,2017,LeftFoot,8686,Bordeaux,Marseille,1,1,2017-11-19 20:00:00,,None

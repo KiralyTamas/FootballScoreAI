@@ -1,0 +1,30 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+386114,4,MissedShots,0.754000015258789,0.45799999237060546,0.02231787145137787,Axel Witsel,h,3059,OpenPlay,2020,RightFoot,15200,Borussia Dortmund,Bayern Munich,2,3,2020-11-07 17:30:00,Raphael Guerreiro,Pass
+386117,16,MissedShots,0.9069999694824219,0.7569999694824219,0.029790334403514862,Erling Haaland,h,8260,OpenPlay,2020,LeftFoot,15200,Borussia Dortmund,Bayern Munich,2,3,2020-11-07 17:30:00,Marco Reus,Pass
+386118,20,MissedShots,0.919000015258789,0.6120000076293945,0.5573378801345825,Erling Haaland,h,8260,OpenPlay,2020,LeftFoot,15200,Borussia Dortmund,Bayern Munich,2,3,2020-11-07 17:30:00,Giovanni Reyna,Throughball
+386119,23,BlockedShot,0.9059999847412109,0.6630000305175782,0.07339049130678177,Marco Reus,h,319,OpenPlay,2020,LeftFoot,15200,Borussia Dortmund,Bayern Munich,2,3,2020-11-07 17:30:00,Raphael Guerreiro,Pass
+386122,30,MissedShots,0.785,0.5029999923706054,0.033053357154130936,Marco Reus,h,319,FromCorner,2020,RightFoot,15200,Borussia Dortmund,Bayern Munich,2,3,2020-11-07 17:30:00,Raphael Guerreiro,Pass
+386125,36,BlockedShot,0.8019999694824219,0.7440000152587891,0.016859745606780052,Jadon Sancho,h,6345,OpenPlay,2020,RightFoot,15200,Borussia Dortmund,Bayern Munich,2,3,2020-11-07 17:30:00,Raphael Guerreiro,Pass
+386127,40,MissedShots,0.9419999694824219,0.3529999923706055,0.04323013126850128,Axel Witsel,h,3059,OpenPlay,2020,RightFoot,15200,Borussia Dortmund,Bayern Munich,2,3,2020-11-07 17:30:00,Jadon Sancho,Cross
+386128,44,Goal,0.9230000305175782,0.5279999923706055,0.5249667763710022,Marco Reus,h,319,OpenPlay,2020,RightFoot,15200,Borussia Dortmund,Bayern Munich,2,3,2020-11-07 17:30:00,Raphael Guerreiro,Pass
+386132,52,BlockedShot,0.9330000305175781,0.6790000152587891,0.05260053649544716,Erling Haaland,h,8260,OpenPlay,2020,LeftFoot,15200,Borussia Dortmund,Bayern Munich,2,3,2020-11-07 17:30:00,Marco Reus,CornerAwarded
+386133,62,SavedShot,0.9030000305175782,0.6580000305175782,0.056106213480234146,Giovanni Reyna,h,8191,OpenPlay,2020,RightFoot,15200,Borussia Dortmund,Bayern Munich,2,3,2020-11-07 17:30:00,,None
+386134,67,SavedShot,0.8919999694824219,0.41700000762939454,0.13921940326690674,Marco Reus,h,319,OpenPlay,2020,LeftFoot,15200,Borussia Dortmund,Bayern Munich,2,3,2020-11-07 17:30:00,Jude Bellingham,TakeOn
+386135,69,SavedShot,0.9080000305175782,0.3770000076293945,0.08655212819576263,Thorgan Hazard,h,213,OpenPlay,2020,RightFoot,15200,Borussia Dortmund,Bayern Munich,2,3,2020-11-07 17:30:00,Thomas Meunier,Pass
+386138,82,Goal,0.9269999694824219,0.6170000076293946,0.25403645634651184,Erling Haaland,h,8260,OpenPlay,2020,LeftFoot,15200,Borussia Dortmund,Bayern Munich,2,3,2020-11-07 17:30:00,Raphael Guerreiro,Chipped
+386139,86,MissedShots,0.8959999847412109,0.4929999923706055,0.3540830612182617,Marco Reus,h,319,OpenPlay,2020,LeftFoot,15200,Borussia Dortmund,Bayern Munich,2,3,2020-11-07 17:30:00,Raphael Guerreiro,Cross
+386141,95,MissedShots,0.9330000305175781,0.49900001525878906,0.06526622176170349,Jude Bellingham,h,8824,OpenPlay,2020,Head,15200,Borussia Dortmund,Bayern Munich,2,3,2020-11-07 17:30:00,Raphael Guerreiro,Aerial
+386113,0,MissedShots,0.9640000152587891,0.6170000076293946,0.37132540345191956,Robert Lewandowski,a,227,OpenPlay,2020,LeftFoot,15200,Borussia Dortmund,Bayern Munich,2,3,2020-11-07 17:30:00,Serge Gnabry,Pass
+386115,13,SavedShot,0.9230000305175782,0.47400001525878904,0.31970295310020447,Leon Goretzka,a,335,FromCorner,2020,Head,15200,Borussia Dortmund,Bayern Munich,2,3,2020-11-07 17:30:00,Jérôme Boateng,Cross
+386116,13,MissedShots,0.784000015258789,0.5829999923706055,0.02326781302690506,Bouna Sarr,a,3393,FromCorner,2020,LeftFoot,15200,Borussia Dortmund,Bayern Munich,2,3,2020-11-07 17:30:00,,None
+386120,27,SavedShot,0.845999984741211,0.3189999961853027,0.0320005938410759,Leon Goretzka,a,335,SetPiece,2020,RightFoot,15200,Borussia Dortmund,Bayern Munich,2,3,2020-11-07 17:30:00,,None
+386121,29,SavedShot,0.935,0.42200000762939455,0.07458506524562836,Kingsley Coman,a,226,SetPiece,2020,OtherBodyPart,15200,Borussia Dortmund,Bayern Munich,2,3,2020-11-07 17:30:00,Lucas Hernández,Cross
+386123,33,BlockedShot,0.7469999694824219,0.2989999961853027,0.04497624561190605,David Alaba,a,391,DirectFreekick,2020,LeftFoot,15200,Borussia Dortmund,Bayern Munich,2,3,2020-11-07 17:30:00,,Standard
+386124,33,BlockedShot,0.860999984741211,0.32599998474121095,0.039969924837350845,Serge Gnabry,a,993,SetPiece,2020,RightFoot,15200,Borussia Dortmund,Bayern Munich,2,3,2020-11-07 17:30:00,,None
+386126,37,SavedShot,0.855,0.49900001525878906,0.018743619322776794,Kingsley Coman,a,226,OpenPlay,2020,Head,15200,Borussia Dortmund,Bayern Munich,2,3,2020-11-07 17:30:00,Thomas Müller,Cross
+386130,47,Goal,0.895,0.5520000076293945,0.03628169372677803,Robert Lewandowski,a,227,OpenPlay,2020,Head,15200,Borussia Dortmund,Bayern Munich,2,3,2020-11-07 17:30:00,Lucas Hernández,Aerial
+386129,48,Goal,0.8059999847412109,0.49900001525878906,0.043241143226623535,David Alaba,a,391,SetPiece,2020,LeftFoot,15200,Borussia Dortmund,Bayern Munich,2,3,2020-11-07 17:30:00,Thomas Müller,Pass
+386131,50,ShotOnPost,0.7880000305175782,0.42400001525878905,0.04206263646483421,Kingsley Coman,a,226,OpenPlay,2020,RightFoot,15200,Borussia Dortmund,Bayern Munich,2,3,2020-11-07 17:30:00,Thomas Müller,Pass
+386136,73,MissedShots,0.885,0.6759999847412109,0.07548829168081284,Serge Gnabry,a,993,OpenPlay,2020,RightFoot,15200,Borussia Dortmund,Bayern Munich,2,3,2020-11-07 17:30:00,Thomas Müller,Pass
+386137,79,Goal,0.8530000305175781,0.41900001525878905,0.11872684210538864,Leroy Sané,a,337,OpenPlay,2020,LeftFoot,15200,Borussia Dortmund,Bayern Munich,2,3,2020-11-07 17:30:00,Robert Lewandowski,Pass
+386140,92,BlockedShot,0.865,0.41,0.0958356261253357,Corentin Tolisso,a,3603,OpenPlay,2020,RightFoot,15200,Borussia Dortmund,Bayern Munich,2,3,2020-11-07 17:30:00,Thomas Müller,Pass

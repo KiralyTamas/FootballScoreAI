@@ -1,0 +1,28 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+400106,1,BlockedShot,0.7630000305175781,0.56,0.02648235484957695,Ademola Lookman,h,5556,OpenPlay,2020,RightFoot,14607,Fulham,Manchester United,1,2,2021-01-20 20:15:00,Harrison Reed,BallRecovery
+400107,1,SavedShot,0.735999984741211,0.5690000152587891,0.019630437716841698,Ademola Lookman,h,5556,OpenPlay,2020,RightFoot,14607,Fulham,Manchester United,1,2,2021-01-20 20:15:00,Ivan Cavaleiro,Pass
+400108,4,Goal,0.9169999694824219,0.345,0.29270899295806885,Ademola Lookman,h,5556,OpenPlay,2020,RightFoot,14607,Fulham,Manchester United,1,2,2021-01-20 20:15:00,Franck Zambo,Chipped
+400115,41,SavedShot,0.845,0.47400001525878904,0.015296932309865952,Tosin Adarabioyo,h,5590,OpenPlay,2020,Head,14607,Fulham,Manchester United,1,2,2021-01-20 20:15:00,Kenny Tete,Cross
+400118,46,MissedShots,0.755,0.615,0.018185731023550034,Harrison Reed,h,910,OpenPlay,2020,RightFoot,14607,Fulham,Manchester United,1,2,2021-01-20 20:15:00,Ivan Cavaleiro,Pass
+400120,51,SavedShot,0.8530000305175781,0.3770000076293945,0.06016015633940697,Ademola Lookman,h,5556,OpenPlay,2020,RightFoot,14607,Fulham,Manchester United,1,2,2021-01-20 20:15:00,Ruben Loftus-Cheek,Pass
+400126,74,SavedShot,0.8769999694824219,0.41,0.07904334366321564,Ruben Loftus-Cheek,h,688,OpenPlay,2020,RightFoot,14607,Fulham,Manchester United,1,2,2021-01-20 20:15:00,Aboubakar Kamara,Pass
+400128,82,MissedShots,0.8469999694824218,0.4329999923706055,0.0922205001115799,Ruben Loftus-Cheek,h,688,OpenPlay,2020,RightFoot,14607,Fulham,Manchester United,1,2,2021-01-20 20:15:00,,None
+400129,83,BlockedShot,0.9030000305175782,0.6780000305175782,0.04959680885076523,Joe Bryan,h,6834,OpenPlay,2020,LeftFoot,14607,Fulham,Manchester United,1,2,2021-01-20 20:15:00,,None
+400130,83,MissedShots,0.7769999694824219,0.31,0.018587077036499977,Mario Lemina,h,1299,OpenPlay,2020,RightFoot,14607,Fulham,Manchester United,1,2,2021-01-20 20:15:00,Aboubakar Kamara,Pass
+400131,91,BlockedShot,0.9369999694824219,0.6819999694824219,0.04873738810420036,Ademola Lookman,h,5556,OpenPlay,2020,LeftFoot,14607,Fulham,Manchester United,1,2,2021-01-20 20:15:00,Mario Lemina,Chipped
+400132,92,MissedShots,0.909000015258789,0.605999984741211,0.03301962465047836,Aleksandar Mitrovic,h,773,FromCorner,2020,Head,14607,Fulham,Manchester United,1,2,2021-01-20 20:15:00,Kenny Tete,Cross
+400109,20,ShotOnPost,0.794000015258789,0.47900001525878905,0.04434269666671753,Bruno Fernandes,a,1228,OpenPlay,2020,LeftFoot,14607,Fulham,Manchester United,1,2,2021-01-20 20:15:00,Fred,Pass
+400110,20,Goal,0.93,0.5129999923706055,0.5428409576416016,Edinson Cavani,a,3294,OpenPlay,2020,LeftFoot,14607,Fulham,Manchester United,1,2,2021-01-20 20:15:00,,None
+400111,22,SavedShot,0.775,0.47900001525878905,0.03267478570342064,Bruno Fernandes,a,1228,OpenPlay,2020,RightFoot,14607,Fulham,Manchester United,1,2,2021-01-20 20:15:00,Fred,Pass
+400112,28,MissedShots,0.950999984741211,0.5770000076293945,0.2323756366968155,Anthony Martial,a,553,OpenPlay,2020,OtherBodyPart,14607,Fulham,Manchester United,1,2,2021-01-20 20:15:00,Aaron Wan-Bissaka,Foul
+400113,28,MissedShots,0.91,0.500999984741211,0.08259106427431107,Harry Maguire,a,1687,FromCorner,2020,Head,14607,Fulham,Manchester United,1,2,2021-01-20 20:15:00,Luke Shaw,Cross
+400114,33,MissedShots,0.7969999694824219,0.7330000305175781,0.05592872202396393,Bruno Fernandes,a,1228,DirectFreekick,2020,RightFoot,14607,Fulham,Manchester United,1,2,2021-01-20 20:15:00,,Standard
+400116,42,MissedShots,0.9130000305175782,0.519000015258789,0.053711943328380585,Anthony Martial,a,553,OpenPlay,2020,Head,14607,Fulham,Manchester United,1,2,2021-01-20 20:15:00,Luke Shaw,Aerial
+400117,45,BlockedShot,0.8690000152587891,0.355,0.05704725161194801,Mason Greenwood,a,7490,OpenPlay,2020,LeftFoot,14607,Fulham,Manchester United,1,2,2021-01-20 20:15:00,,None
+400119,50,MissedShots,0.9069999694824219,0.51,0.03419848531484604,Harry Maguire,a,1687,FromCorner,2020,Head,14607,Fulham,Manchester United,1,2,2021-01-20 20:15:00,,Aerial
+400121,53,BlockedShot,0.789000015258789,0.3579999923706055,0.029076755046844482,Bruno Fernandes,a,1228,OpenPlay,2020,RightFoot,14607,Fulham,Manchester United,1,2,2021-01-20 20:15:00,Paul Pogba,Pass
+400122,54,BlockedShot,0.9319999694824219,0.7030000305175781,0.05062418431043625,Luke Shaw,a,1006,OpenPlay,2020,LeftFoot,14607,Fulham,Manchester United,1,2,2021-01-20 20:15:00,,None
+400123,63,SavedShot,0.8980000305175782,0.5459999847412109,0.04912582039833069,Anthony Martial,a,553,OpenPlay,2020,Head,14607,Fulham,Manchester United,1,2,2021-01-20 20:15:00,Bruno Fernandes,Chipped
+400124,64,Goal,0.779000015258789,0.27899999618530275,0.016964862123131752,Paul Pogba,a,1740,OpenPlay,2020,LeftFoot,14607,Fulham,Manchester United,1,2,2021-01-20 20:15:00,,BallRecovery
+400125,65,SavedShot,0.9209999847412109,0.4759999847412109,0.3715931177139282,Edinson Cavani,a,3294,OpenPlay,2020,Head,14607,Fulham,Manchester United,1,2,2021-01-20 20:15:00,Bruno Fernandes,Cross
+400127,81,BlockedShot,0.855999984741211,0.5609999847412109,0.03091820701956749,Fred,a,6817,FromCorner,2020,RightFoot,14607,Fulham,Manchester United,1,2,2021-01-20 20:15:00,Harry Maguire,HeadPass

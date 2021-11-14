@@ -1,0 +1,20 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+125281,16,BlockedShot,0.914000015258789,0.7290000152587891,0.04841320589184761,Oleg Shatov,h,3062,OpenPlay,2016,LeftFoot,2605,Zenit St. Petersburg,FC Rostov,3,2,2016-08-12 20:30:00,Aleksandr Kokorin,Pass
+125282,42,MissedShots,0.8969999694824219,0.53,0.053039874881505966,Javi García,h,3061,OpenPlay,2016,Head,2605,Zenit St. Petersburg,FC Rostov,3,2,2016-08-12 20:30:00,Igor Smolnikov,Aerial
+125283,44,SavedShot,0.894000015258789,0.5479999923706055,0.04911309480667114,Javi García,h,3061,SetPiece,2016,Head,2605,Zenit St. Petersburg,FC Rostov,3,2,2016-08-12 20:30:00,Mauricio,Chipped
+125284,47,BlockedShot,0.745999984741211,0.5640000152587891,0.012474524788558483,Oleg Shatov,h,3062,OpenPlay,2016,RightFoot,2605,Zenit St. Petersburg,FC Rostov,3,2,2016-08-12 20:30:00,,None
+125285,49,Goal,0.885,0.5,0.7542753219604492,Giuliano,h,5467,Penalty,2016,RightFoot,2605,Zenit St. Petersburg,FC Rostov,3,2,2016-08-12 20:30:00,,Standard
+125286,52,BlockedShot,0.78,0.3770000076293945,0.020157283172011375,Igor Smolnikov,h,3055,OpenPlay,2016,RightFoot,2605,Zenit St. Petersburg,FC Rostov,3,2,2016-08-12 20:30:00,Javi García,Pass
+125287,54,MissedShots,0.7719999694824219,0.43,0.027205973863601685,Luka Djordjevic,h,3813,OpenPlay,2016,LeftFoot,2605,Zenit St. Petersburg,FC Rostov,3,2,2016-08-12 20:30:00,Giuliano,Pass
+125288,58,MissedShots,0.7769999694824219,0.39799999237060546,0.02154461480677128,Ezequiel Garay,h,3056,OpenPlay,2016,RightFoot,2605,Zenit St. Petersburg,FC Rostov,3,2,2016-08-12 20:30:00,Luka Djordjevic,Pass
+125289,61,MissedShots,0.8909999847412109,0.31,0.05629619583487511,Axel Witsel,h,3059,OpenPlay,2016,RightFoot,2605,Zenit St. Petersburg,FC Rostov,3,2,2016-08-12 20:30:00,Javi García,TakeOn
+125290,71,ShotOnPost,0.86,0.7140000152587891,0.024221720173954964,Yuri Zhirkov,h,3058,OpenPlay,2016,LeftFoot,2605,Zenit St. Petersburg,FC Rostov,3,2,2016-08-12 20:30:00,Igor Smolnikov,Cross
+125292,72,BlockedShot,0.9319999694824219,0.2979999923706055,0.05234328657388687,Luka Djordjevic,h,3813,OpenPlay,2016,RightFoot,2605,Zenit St. Petersburg,FC Rostov,3,2,2016-08-12 20:30:00,Giuliano,Pass
+125293,84,Goal,0.9469999694824218,0.55,0.40645942091941833,Luka Djordjevic,h,3813,OpenPlay,2016,Head,2605,Zenit St. Petersburg,FC Rostov,3,2,2016-08-12 20:30:00,Oleg Shatov,Cross
+125275,2,MissedShots,0.8980000305175782,0.46299999237060546,0.07731912285089493,Bastos,a,1595,SetPiece,2016,Head,2605,Zenit St. Petersburg,FC Rostov,3,2,2016-08-12 20:30:00,Timofei Kalachev,Cross
+125276,5,BlockedShot,0.855999984741211,0.31799999237060544,0.048601407557725906,Timofei Kalachev,a,2776,OpenPlay,2016,RightFoot,2605,Zenit St. Petersburg,FC Rostov,3,2,2016-08-12 20:30:00,Dmitriy Poloz,Pass
+125277,6,MissedShots,0.745999984741211,0.6359999847412109,0.015549766831099987,Fyodor Kudryashov,a,2770,FromCorner,2016,LeftFoot,2605,Zenit St. Petersburg,FC Rostov,3,2,2016-08-12 20:30:00,,BallTouch
+125278,7,MissedShots,0.6509999847412109,0.46,0.008255289867520332,Aleksandru Gatcan,a,3024,OpenPlay,2016,RightFoot,2605,Zenit St. Petersburg,FC Rostov,3,2,2016-08-12 20:30:00,,None
+125279,7,Goal,0.9719999694824218,0.5279999923706055,0.8653663396835327,Dmitriy Poloz,a,2775,OpenPlay,2016,LeftFoot,2605,Zenit St. Petersburg,FC Rostov,3,2,2016-08-12 20:30:00,Aleksandr Bukharov,Pass
+125280,13,Goal,0.9309999847412109,0.5790000152587891,0.617855429649353,Dmitriy Poloz,a,2775,OpenPlay,2016,RightFoot,2605,Zenit St. Petersburg,FC Rostov,3,2,2016-08-12 20:30:00,Aleksandr Bukharov,Pass
+125291,71,OwnGoal,0.04099999904632568,0.4620000076293945,0,Saeid Ezatolahi,a,2777,OpenPlay,2016,Head,2605,Zenit St. Petersburg,FC Rostov,3,2,2016-08-12 20:30:00,,None

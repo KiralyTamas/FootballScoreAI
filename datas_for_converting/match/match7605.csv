@@ -1,0 +1,29 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+175383,18,MissedShots,0.6790000152587891,0.46299999237060546,0.015278882347047329,Fabio Quagliarella,h,1230,OpenPlay,2017,RightFoot,7605,Sampdoria,Chievo,4,1,2017-10-29 14:00:00,Gianluca Caprari,Pass
+175384,19,BlockedShot,0.8919999694824219,0.7230000305175781,0.04313717037439346,Fabio Quagliarella,h,1230,OpenPlay,2017,LeftFoot,7605,Sampdoria,Chievo,4,1,2017-10-29 14:00:00,Karol Linetty,Pass
+175385,19,Goal,0.9519999694824218,0.6120000076293945,0.34249088168144226,Karol Linetty,h,1226,OpenPlay,2017,LeftFoot,7605,Sampdoria,Chievo,4,1,2017-10-29 14:00:00,,Rebound
+175388,25,Goal,0.6880000305175781,0.485,0.03428981080651283,Lucas Torreira,h,1227,DirectFreekick,2017,RightFoot,7605,Sampdoria,Chievo,4,1,2017-10-29 14:00:00,,Standard
+175390,28,BlockedShot,0.775,0.605,0.0136957298964262,Karol Linetty,h,1226,FromCorner,2017,LeftFoot,7605,Sampdoria,Chievo,4,1,2017-10-29 14:00:00,Dennis Praet,HeadPass
+175391,29,MissedShots,0.74,0.40599998474121096,0.015104551799595356,Karol Linetty,h,1226,FromCorner,2017,RightFoot,7605,Sampdoria,Chievo,4,1,2017-10-29 14:00:00,,None
+175396,43,Goal,0.975999984741211,0.524000015258789,0.9015140533447266,Duván Zapata,h,1148,OpenPlay,2017,LeftFoot,7605,Sampdoria,Chievo,4,1,2017-10-29 14:00:00,Fabio Quagliarella,Pass
+175398,47,SavedShot,0.93,0.355,0.11235062032938004,Gianluca Caprari,h,1170,OpenPlay,2017,RightFoot,7605,Sampdoria,Chievo,4,1,2017-10-29 14:00:00,Lucas Torreira,Chipped
+175399,48,BlockedShot,0.97,0.37400001525878906,0.09264237433671951,Dennis Praet,h,1234,OpenPlay,2017,RightFoot,7605,Sampdoria,Chievo,4,1,2017-10-29 14:00:00,,Interception
+175400,51,MissedShots,0.8019999694824219,0.3270000076293945,0.027095910161733627,Jacopo Sala,h,1221,OpenPlay,2017,RightFoot,7605,Sampdoria,Chievo,4,1,2017-10-29 14:00:00,Gianluca Caprari,Pass
+175401,54,MissedShots,0.6809999847412109,0.40700000762939453,0.012980697676539421,Duván Zapata,h,1148,OpenPlay,2017,RightFoot,7605,Sampdoria,Chievo,4,1,2017-10-29 14:00:00,Fabio Quagliarella,Pass
+175402,62,MissedShots,0.8919999694824219,0.46900001525878904,0.09319187700748444,Fabio Quagliarella,h,1230,FromCorner,2017,RightFoot,7605,Sampdoria,Chievo,4,1,2017-10-29 14:00:00,,None
+175403,64,SavedShot,0.855999984741211,0.4879999923706055,0.12177372723817825,Gastón Ramírez,h,952,OpenPlay,2017,LeftFoot,7605,Sampdoria,Chievo,4,1,2017-10-29 14:00:00,Fabio Quagliarella,Pass
+175405,84,Goal,0.784000015258789,0.47400001525878904,0.02430468238890171,Lucas Torreira,h,1227,FromCorner,2017,RightFoot,7605,Sampdoria,Chievo,4,1,2017-10-29 14:00:00,,None
+175406,91,SavedShot,0.9280000305175782,0.5179999923706055,0.14601737260818481,Fabio Quagliarella,h,1230,OpenPlay,2017,LeftFoot,7605,Sampdoria,Chievo,4,1,2017-10-29 14:00:00,Duván Zapata,Pass
+175379,0,SavedShot,0.7830000305175782,0.6719999694824219,0.025540363043546677,Roberto Inglese,a,1340,OpenPlay,2017,RightFoot,7605,Sampdoria,Chievo,4,1,2017-10-29 14:00:00,Massimo Gobbi,Pass
+175380,12,MissedShots,0.8640000152587891,0.3820000076293945,0.11863100528717041,Riccardo Meggiorini,a,1337,OpenPlay,2017,LeftFoot,7605,Sampdoria,Chievo,4,1,2017-10-29 14:00:00,Valter Birsa,Pass
+175381,15,MissedShots,0.9059999847412109,0.5,0.4522625207901001,Samuel Bastien,a,1343,OpenPlay,2017,LeftFoot,7605,Sampdoria,Chievo,4,1,2017-10-29 14:00:00,Riccardo Meggiorini,Pass
+175382,17,MissedShots,0.8719999694824219,0.6969999694824218,0.048658981919288635,Samuel Bastien,a,1343,OpenPlay,2017,RightFoot,7605,Sampdoria,Chievo,4,1,2017-10-29 14:00:00,,BallRecovery
+175386,22,MissedShots,0.8930000305175781,0.5179999923706055,0.2254461646080017,Valter Birsa,a,1336,OpenPlay,2017,Head,7605,Sampdoria,Chievo,4,1,2017-10-29 14:00:00,Roberto Inglese,Chipped
+175387,23,Goal,0.919000015258789,0.48900001525878906,0.04531132057309151,Fabrizio Cacciatore,a,1329,FromCorner,2017,Head,7605,Sampdoria,Chievo,4,1,2017-10-29 14:00:00,Valter Birsa,Aerial
+175389,27,SavedShot,0.9330000305175781,0.5529999923706055,0.4774916470050812,Riccardo Meggiorini,a,1337,OpenPlay,2017,LeftFoot,7605,Sampdoria,Chievo,4,1,2017-10-29 14:00:00,Massimo Gobbi,TakeOn
+175392,38,SavedShot,0.855,0.42700000762939455,0.048493776470422745,Roberto Inglese,a,1340,OpenPlay,2017,RightFoot,7605,Sampdoria,Chievo,4,1,2017-10-29 14:00:00,Fabrizio Cacciatore,Cross
+175393,38,MissedShots,0.82,0.545,0.035751454532146454,Massimo Gobbi,a,1332,FromCorner,2017,LeftFoot,7605,Sampdoria,Chievo,4,1,2017-10-29 14:00:00,Valter Birsa,Cross
+175394,40,MissedShots,0.8380000305175781,0.645,0.04160110279917717,Massimo Gobbi,a,1332,OpenPlay,2017,LeftFoot,7605,Sampdoria,Chievo,4,1,2017-10-29 14:00:00,,BallTouch
+175395,42,MissedShots,0.9269999694824219,0.39,0.2850642204284668,Lucas Castro,a,1333,OpenPlay,2017,RightFoot,7605,Sampdoria,Chievo,4,1,2017-10-29 14:00:00,Massimo Gobbi,Cross
+175397,46,SavedShot,0.884000015258789,0.639000015258789,0.11448327451944351,Roberto Inglese,a,1340,OpenPlay,2017,RightFoot,7605,Sampdoria,Chievo,4,1,2017-10-29 14:00:00,Massimo Gobbi,TakeOn
+175404,81,SavedShot,0.9419999694824219,0.580999984741211,0.1059299036860466,Lucas Castro,a,1333,OpenPlay,2017,Head,7605,Sampdoria,Chievo,4,1,2017-10-29 14:00:00,Fabrizio Cacciatore,Cross

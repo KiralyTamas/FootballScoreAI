@@ -1,0 +1,23 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+390153,2,SavedShot,0.9119999694824219,0.6079999923706054,0.3483099937438965,Raheem Sterling,h,618,OpenPlay,2020,RightFoot,14540,Manchester City,Fulham,2,0,2020-12-05 15:00:00,Riyad Mahrez,Pass
+390154,2,BlockedShot,0.8859999847412109,0.6020000076293945,0.07558631151914597,Riyad Mahrez,h,750,OpenPlay,2020,RightFoot,14540,Manchester City,Fulham,2,0,2020-12-05 15:00:00,,Rebound
+390155,4,Goal,0.9009999847412109,0.40299999237060546,0.35735684633255005,Raheem Sterling,h,618,OpenPlay,2020,RightFoot,14540,Manchester City,Fulham,2,0,2020-12-05 15:00:00,Kevin De Bruyne,Pass
+390158,10,MissedShots,0.775,0.3509999847412109,0.0312228724360466,João Cancelo,h,2379,OpenPlay,2020,LeftFoot,14540,Manchester City,Fulham,2,0,2020-12-05 15:00:00,Rodri,Pass
+390159,12,SavedShot,0.9280000305175782,0.30700000762939456,0.08067949116230011,Kevin De Bruyne,h,447,OpenPlay,2020,RightFoot,14540,Manchester City,Fulham,2,0,2020-12-05 15:00:00,Riyad Mahrez,Pass
+390160,15,MissedShots,0.8730000305175781,0.40900001525878904,0.10164341330528259,Ilkay Gündogan,h,314,OpenPlay,2020,RightFoot,14540,Manchester City,Fulham,2,0,2020-12-05 15:00:00,João Cancelo,Pass
+390161,23,MissedShots,0.7280000305175781,0.649000015258789,0.018446218222379684,Rodri,h,2496,OpenPlay,2020,RightFoot,14540,Manchester City,Fulham,2,0,2020-12-05 15:00:00,,BallRecovery
+390162,25,Goal,0.885,0.5,0.7611688375473022,Kevin De Bruyne,h,447,Penalty,2020,RightFoot,14540,Manchester City,Fulham,2,0,2020-12-05 15:00:00,,Standard
+390164,31,SavedShot,0.9,0.5920000076293945,0.3524428904056549,Raheem Sterling,h,618,OpenPlay,2020,RightFoot,14540,Manchester City,Fulham,2,0,2020-12-05 15:00:00,Riyad Mahrez,Chipped
+390165,44,BlockedShot,0.91,0.6609999847412109,0.08949042856693268,Raheem Sterling,h,618,OpenPlay,2020,LeftFoot,14540,Manchester City,Fulham,2,0,2020-12-05 15:00:00,Rodri,Pass
+390166,49,ShotOnPost,0.8859999847412109,0.5720000076293945,0.133670374751091,Kevin De Bruyne,h,447,OpenPlay,2020,LeftFoot,14540,Manchester City,Fulham,2,0,2020-12-05 15:00:00,Gabriel Jesus,Pass
+390167,49,MissedShots,0.8530000305175781,0.534000015258789,0.05768143758177757,Kevin De Bruyne,h,447,OpenPlay,2020,RightFoot,14540,Manchester City,Fulham,2,0,2020-12-05 15:00:00,,Aerial
+390168,56,SavedShot,0.89,0.5970000076293945,0.3009527623653412,Kevin De Bruyne,h,447,OpenPlay,2020,LeftFoot,14540,Manchester City,Fulham,2,0,2020-12-05 15:00:00,Riyad Mahrez,Pass
+390169,64,MissedShots,0.8590000152587891,0.4,0.04827902466058731,Kevin De Bruyne,h,447,FromCorner,2020,RightFoot,14540,Manchester City,Fulham,2,0,2020-12-05 15:00:00,Riyad Mahrez,Pass
+390170,69,MissedShots,0.9009999847412109,0.4759999847412109,0.10143961757421494,Rúben Dias,h,8961,FromCorner,2020,LeftFoot,14540,Manchester City,Fulham,2,0,2020-12-05 15:00:00,,None
+390173,76,MissedShots,0.9440000152587891,0.5670000076293945,0.43123775720596313,Rúben Dias,h,8961,SetPiece,2020,LeftFoot,14540,Manchester City,Fulham,2,0,2020-12-05 15:00:00,Kevin De Bruyne,Cross
+390156,6,BlockedShot,0.9030000305175782,0.3220000076293945,0.05761054903268814,Ademola Lookman,a,5556,OpenPlay,2020,RightFoot,14540,Manchester City,Fulham,2,0,2020-12-05 15:00:00,Franck Zambo,Pass
+390157,7,MissedShots,0.9490000152587891,0.5670000076293945,0.10653000324964523,Tosin Adarabioyo,a,5590,FromCorner,2020,Head,14540,Manchester City,Fulham,2,0,2020-12-05 15:00:00,Harrison Reed,Cross
+390163,30,MissedShots,0.9119999694824219,0.54,0.07506220787763596,Franck Zambo,a,6434,FromCorner,2020,Head,14540,Manchester City,Fulham,2,0,2020-12-05 15:00:00,Harrison Reed,Cross
+390171,74,MissedShots,0.6619999694824219,0.45599998474121095,0.006399763282388449,Ola Aina,a,725,OpenPlay,2020,LeftFoot,14540,Manchester City,Fulham,2,0,2020-12-05 15:00:00,,None
+390172,75,SavedShot,0.8419999694824218,0.27399999618530274,0.029956668615341187,Ivan Cavaleiro,a,3683,OpenPlay,2020,LeftFoot,14540,Manchester City,Fulham,2,0,2020-12-05 15:00:00,Franck Zambo,Pass
+390174,79,MissedShots,0.740999984741211,0.325,0.011884594336152077,Ivan Cavaleiro,a,3683,OpenPlay,2020,RightFoot,14540,Manchester City,Fulham,2,0,2020-12-05 15:00:00,Mario Lemina,Pass

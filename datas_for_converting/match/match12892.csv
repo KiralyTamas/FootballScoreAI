@@ -1,0 +1,12 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+338806,4,BlockedShot,0.815,0.750999984741211,0.016874682158231735,Dmitri Lienard,h,5978,OpenPlay,2019,LeftFoot,12892,Strasbourg,Saint-Etienne,2,1,2019-12-21 19:45:00,,None
+338808,21,Goal,0.8780000305175781,0.600999984741211,0.02406460791826248,Ludovic Ajorque,h,6905,OpenPlay,2019,Head,12892,Strasbourg,Saint-Etienne,2,1,2019-12-21 19:45:00,Anthony Caci,Cross
+338809,31,MissedShots,0.9059999847412109,0.595999984741211,0.04443880170583725,Lebo Mothiba,h,5800,OpenPlay,2019,OtherBodyPart,12892,Strasbourg,Saint-Etienne,2,1,2019-12-21 19:45:00,Anthony Caci,Aerial
+338810,59,SavedShot,0.8730000305175781,0.3870000076293945,0.09960540384054184,Joia Nuno Da Costa,h,5977,OpenPlay,2019,LeftFoot,12892,Strasbourg,Saint-Etienne,2,1,2019-12-21 19:45:00,Adrien Thomasson,Pass
+338811,61,Goal,0.8819999694824219,0.6270000076293946,0.3164204955101013,Adrien Thomasson,h,3549,OpenPlay,2019,RightFoot,12892,Strasbourg,Saint-Etienne,2,1,2019-12-21 19:45:00,Anthony Caci,Pass
+338807,17,BlockedShot,0.799000015258789,0.32799999237060545,0.07945327460765839,Ryad Boudebouz,a,3343,DirectFreekick,2019,LeftFoot,12892,Strasbourg,Saint-Etienne,2,1,2019-12-21 19:45:00,,Standard
+338812,72,Goal,0.885,0.5,0.7600951194763184,Ryad Boudebouz,a,3343,Penalty,2019,LeftFoot,12892,Strasbourg,Saint-Etienne,2,1,2019-12-21 19:45:00,,Standard
+338813,73,MissedShots,0.8030000305175782,0.17,0.011000539176166058,Ryad Boudebouz,a,3343,OpenPlay,2019,LeftFoot,12892,Strasbourg,Saint-Etienne,2,1,2019-12-21 19:45:00,,None
+338814,76,BlockedShot,0.915,0.5420000076293945,0.48098355531692505,Bilal Benkhedim,a,7568,OpenPlay,2019,RightFoot,12892,Strasbourg,Saint-Etienne,2,1,2019-12-21 19:45:00,,None
+338815,80,BlockedShot,0.8959999847412109,0.35700000762939454,0.066873699426651,Arnaud Nordin,a,5684,SetPiece,2019,RightFoot,12892,Strasbourg,Saint-Etienne,2,1,2019-12-21 19:45:00,Bilal Benkhedim,Chipped
+338816,94,BlockedShot,0.9169999694824219,0.44,0.06260757148265839,Charles Nathan Abi,a,7316,OpenPlay,2019,RightFoot,12892,Strasbourg,Saint-Etienne,2,1,2019-12-21 19:45:00,Bilal Benkhedim,Aerial

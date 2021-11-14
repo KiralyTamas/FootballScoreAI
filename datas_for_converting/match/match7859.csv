@@ -1,0 +1,29 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+215423,1,MissedShots,0.889000015258789,0.6480000305175782,0.062229450792074203,Jordan Veretout,h,677,OpenPlay,2017,RightFoot,7859,Fiorentina,Cagliari,0,1,2018-05-13 14:00:00,,None
+215424,3,MissedShots,0.73,0.5620000076293945,0.01393833663314581,Jordan Veretout,h,677,OpenPlay,2017,LeftFoot,7859,Fiorentina,Cagliari,0,1,2018-05-13 14:00:00,,None
+215425,7,MissedShots,0.8669999694824219,0.28200000762939453,0.028036009520292282,Valentin Eysseric,h,3515,SetPiece,2017,RightFoot,7859,Fiorentina,Cagliari,0,1,2018-05-13 14:00:00,,None
+215426,8,MissedShots,0.6869999694824219,0.22899999618530273,0.010478891432285309,Federico Chiesa,h,1433,OpenPlay,2017,RightFoot,7859,Fiorentina,Cagliari,0,1,2018-05-13 14:00:00,Valentin Eysseric,Pass
+215429,33,MissedShots,0.919000015258789,0.4379999923706055,0.07132035493850708,Nikola Milenkovic,h,6174,FromCorner,2017,Head,7859,Fiorentina,Cagliari,0,1,2018-05-13 14:00:00,Valentin Eysseric,Cross
+215430,34,BlockedShot,0.7809999847412109,0.47400001525878904,0.03704102337360382,Federico Chiesa,h,1433,OpenPlay,2017,LeftFoot,7859,Fiorentina,Cagliari,0,1,2018-05-13 14:00:00,Giovanni Simeone,BallTouch
+215433,42,MissedShots,0.96,0.7440000152587891,0.01802733913064003,Cristiano Biraghi,h,1164,OpenPlay,2017,LeftFoot,7859,Fiorentina,Cagliari,0,1,2018-05-13 14:00:00,Jordan Veretout,Cross
+215438,55,BlockedShot,0.7319999694824219,0.2929999923706055,0.03678377345204353,Jordan Veretout,h,677,DirectFreekick,2017,RightFoot,7859,Fiorentina,Cagliari,0,1,2018-05-13 14:00:00,,Standard
+215439,63,MissedShots,0.74,0.4129999923706055,0.019525296986103058,Diego Falcinelli,h,1360,OpenPlay,2017,LeftFoot,7859,Fiorentina,Cagliari,0,1,2018-05-13 14:00:00,Federico Chiesa,Pass
+215442,70,BlockedShot,0.830999984741211,0.44799999237060545,0.03754149004817009,Federico Chiesa,h,1433,FromCorner,2017,LeftFoot,7859,Fiorentina,Cagliari,0,1,2018-05-13 14:00:00,Cristiano Biraghi,Cross
+215443,71,MissedShots,0.889000015258789,0.5279999923706055,0.05731191486120224,Nikola Milenkovic,h,6174,FromCorner,2017,Head,7859,Fiorentina,Cagliari,0,1,2018-05-13 14:00:00,Milan Badelj,Cross
+215445,79,MissedShots,0.8830000305175781,0.3110000038146973,0.027457784861326218,Federico Chiesa,h,1433,OpenPlay,2017,LeftFoot,7859,Fiorentina,Cagliari,0,1,2018-05-13 14:00:00,Cristiano Biraghi,Cross
+215446,82,MissedShots,0.8680000305175781,0.45599998474121095,0.029173895716667175,Giovanni Simeone,h,1102,OpenPlay,2017,Head,7859,Fiorentina,Cagliari,0,1,2018-05-13 14:00:00,Cristiano Biraghi,Cross
+215447,86,MissedShots,0.7859999847412109,0.7809999847412109,0.01639007404446602,Federico Chiesa,h,1433,OpenPlay,2017,RightFoot,7859,Fiorentina,Cagliari,0,1,2018-05-13 14:00:00,Riccardo Saponara,Pass
+215422,0,MissedShots,0.7180000305175781,0.49700000762939456,0.01293087936937809,Simone Padoin,a,1403,OpenPlay,2017,RightFoot,7859,Fiorentina,Cagliari,0,1,2018-05-13 14:00:00,,None
+215427,22,MissedShots,0.759000015258789,0.3870000076293945,0.014023293741047382,Paolo Faragò,a,4912,SetPiece,2017,RightFoot,7859,Fiorentina,Cagliari,0,1,2018-05-13 14:00:00,,None
+215428,23,BlockedShot,0.7280000305175781,0.47900001525878905,0.018455957993865013,Alessandro Deiola,a,1634,OpenPlay,2017,LeftFoot,7859,Fiorentina,Cagliari,0,1,2018-05-13 14:00:00,Artur Ionita,Pass
+215431,36,Goal,0.98,0.534000015258789,0.7410970330238342,Leonardo Pavoletti,a,1104,SetPiece,2017,Head,7859,Fiorentina,Cagliari,0,1,2018-05-13 14:00:00,Charalampos Lykogiannis,Cross
+215432,41,MissedShots,0.7859999847412109,0.7069999694824218,0.05787360668182373,Charalampos Lykogiannis,a,6517,DirectFreekick,2017,LeftFoot,7859,Fiorentina,Cagliari,0,1,2018-05-13 14:00:00,,Standard
+215434,44,BlockedShot,0.7069999694824218,0.46799999237060547,0.015559992752969265,Paolo Faragò,a,4912,OpenPlay,2017,RightFoot,7859,Fiorentina,Cagliari,0,1,2018-05-13 14:00:00,,None
+215435,48,ShotOnPost,0.9380000305175781,0.4829999923706055,0.5039046406745911,Diego Farias,a,1605,OpenPlay,2017,Head,7859,Fiorentina,Cagliari,0,1,2018-05-13 14:00:00,Simone Padoin,Cross
+215436,49,MissedShots,0.9219999694824219,0.544000015258789,0.12472131103277206,Leonardo Pavoletti,a,1104,OpenPlay,2017,Head,7859,Fiorentina,Cagliari,0,1,2018-05-13 14:00:00,Paolo Faragò,Cross
+215437,49,BlockedShot,0.8180000305175781,0.4470000076293945,0.0778101310133934,Diego Farias,a,1605,OpenPlay,2017,LeftFoot,7859,Fiorentina,Cagliari,0,1,2018-05-13 14:00:00,Simone Padoin,Pass
+215440,64,MissedShots,0.9690000152587891,0.35200000762939454,0.05044257640838623,Alessandro Deiola,a,1634,OpenPlay,2017,RightFoot,7859,Fiorentina,Cagliari,0,1,2018-05-13 14:00:00,Simone Padoin,Cross
+215441,66,MissedShots,0.7669999694824219,0.634000015258789,0.010637949220836163,Simone Padoin,a,1403,SetPiece,2017,LeftFoot,7859,Fiorentina,Cagliari,0,1,2018-05-13 14:00:00,,Aerial
+215444,72,MissedShots,0.8859999847412109,0.5890000152587891,0.3636651337146759,Diego Farias,a,1605,OpenPlay,2017,RightFoot,7859,Fiorentina,Cagliari,0,1,2018-05-13 14:00:00,João Pedro,Throughball
+215448,88,MissedShots,0.8519999694824218,0.5620000076293945,0.0668669268488884,João Pedro,a,1592,SetPiece,2017,LeftFoot,7859,Fiorentina,Cagliari,0,1,2018-05-13 14:00:00,Leonardo Pavoletti,Pass
+215449,92,SavedShot,0.96,0.3290000152587891,0.07329439371824265,Paolo Faragò,a,4912,OpenPlay,2017,LeftFoot,7859,Fiorentina,Cagliari,0,1,2018-05-13 14:00:00,,None

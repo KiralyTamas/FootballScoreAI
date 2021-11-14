@@ -1,0 +1,29 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+160715,2,Goal,0.8819999694824219,0.59,0.36057618260383606,Alexandre Lacazette,h,3277,OpenPlay,2017,LeftFoot,7254,Arsenal,Huddersfield,5,0,2017-11-29 19:45:00,Aaron Ramsey,Pass
+160716,8,MissedShots,0.764000015258789,0.41,0.033622827380895615,Aaron Ramsey,h,504,OpenPlay,2017,RightFoot,7254,Arsenal,Huddersfield,5,0,2017-11-29 19:45:00,,None
+160718,26,BlockedShot,0.8390000152587891,0.5920000076293945,0.08789616823196411,Alexis Sánchez,h,498,OpenPlay,2017,RightFoot,7254,Arsenal,Huddersfield,5,0,2017-11-29 19:45:00,Mesut Özil,Pass
+160719,30,BlockedShot,0.99,0.7419999694824219,0.1252995729446411,Alexandre Lacazette,h,3277,OpenPlay,2017,RightFoot,7254,Arsenal,Huddersfield,5,0,2017-11-29 19:45:00,Granit Xhaka,Throughball
+160720,30,MissedShots,0.9690000152587891,0.524000015258789,0.7962373495101929,Sead Kolasinac,h,342,OpenPlay,2017,LeftFoot,7254,Arsenal,Huddersfield,5,0,2017-11-29 19:45:00,,Rebound
+160723,40,MissedShots,0.7190000152587891,0.28899999618530275,0.012965908274054527,Granit Xhaka,h,204,OpenPlay,2017,LeftFoot,7254,Arsenal,Huddersfield,5,0,2017-11-29 19:45:00,Héctor Bellerín,Pass
+160724,46,BlockedShot,0.88,0.47200000762939454,0.1281162053346634,Mesut Özil,h,499,OpenPlay,2017,LeftFoot,7254,Arsenal,Huddersfield,5,0,2017-11-29 19:45:00,Alexis Sánchez,Pass
+160726,50,BlockedShot,0.9340000152587891,0.42700000762939455,0.1550152599811554,Olivier Giroud,h,502,OpenPlay,2017,RightFoot,7254,Arsenal,Huddersfield,5,0,2017-11-29 19:45:00,Héctor Bellerín,Pass
+160727,50,BlockedShot,0.9069999694824219,0.44,0.055207960307598114,Sead Kolasinac,h,342,FromCorner,2017,Head,7254,Arsenal,Huddersfield,5,0,2017-11-29 19:45:00,Mesut Özil,Cross
+160730,57,ShotOnPost,0.955999984741211,0.6120000076293945,0.7293500900268555,Olivier Giroud,h,502,OpenPlay,2017,LeftFoot,7254,Arsenal,Huddersfield,5,0,2017-11-29 19:45:00,Aaron Ramsey,TakeOn
+160731,57,MissedShots,0.9740000152587891,0.6819999694824219,0.05684038624167442,Olivier Giroud,h,502,OpenPlay,2017,RightFoot,7254,Arsenal,Huddersfield,5,0,2017-11-29 19:45:00,,Rebound
+160732,60,MissedShots,0.8859999847412109,0.6869999694824219,0.09912816435098648,Alexis Sánchez,h,498,OpenPlay,2017,RightFoot,7254,Arsenal,Huddersfield,5,0,2017-11-29 19:45:00,Sead Kolasinac,TakeOn
+160733,67,Goal,0.9159999847412109,0.5670000076293945,0.4521491825580597,Olivier Giroud,h,502,OpenPlay,2017,LeftFoot,7254,Arsenal,Huddersfield,5,0,2017-11-29 19:45:00,Mesut Özil,Pass
+160734,68,Goal,0.9059999847412109,0.5540000152587891,0.1373065710067749,Alexis Sánchez,h,498,OpenPlay,2017,RightFoot,7254,Arsenal,Huddersfield,5,0,2017-11-29 19:45:00,Mesut Özil,Cross
+160735,71,Goal,0.9,0.66,0.39399048686027527,Mesut Özil,h,499,OpenPlay,2017,LeftFoot,7254,Arsenal,Huddersfield,5,0,2017-11-29 19:45:00,Aaron Ramsey,Throughball
+160736,75,BlockedShot,0.9419999694824219,0.6270000076293946,0.11936823278665543,Nacho Monreal,h,495,OpenPlay,2017,LeftFoot,7254,Arsenal,Huddersfield,5,0,2017-11-29 19:45:00,,TakeOn
+160737,79,MissedShots,0.7480000305175781,0.47400001525878904,0.024018071591854095,Granit Xhaka,h,204,OpenPlay,2017,LeftFoot,7254,Arsenal,Huddersfield,5,0,2017-11-29 19:45:00,Danny Welbeck,Pass
+160738,81,SavedShot,0.759000015258789,0.5279999923706055,0.029514016583561897,Granit Xhaka,h,204,OpenPlay,2017,LeftFoot,7254,Arsenal,Huddersfield,5,0,2017-11-29 19:45:00,Mesut Özil,Pass
+160739,82,MissedShots,0.9030000305175782,0.5629999923706055,0.1411307454109192,Olivier Giroud,h,502,OpenPlay,2017,LeftFoot,7254,Arsenal,Huddersfield,5,0,2017-11-29 19:45:00,Sead Kolasinac,Pass
+160740,86,Goal,0.935,0.4929999923706055,0.6281747221946716,Olivier Giroud,h,502,OpenPlay,2017,LeftFoot,7254,Arsenal,Huddersfield,5,0,2017-11-29 19:45:00,Sead Kolasinac,Pass
+160742,92,BlockedShot,0.7390000152587891,0.42900001525878906,0.05420927703380585,Granit Xhaka,h,204,DirectFreekick,2017,LeftFoot,7254,Arsenal,Huddersfield,5,0,2017-11-29 19:45:00,,Standard
+160717,21,MissedShots,0.9069999694824219,0.54,0.04145924374461174,Zanka,a,6030,SetPiece,2017,Head,7254,Arsenal,Huddersfield,5,0,2017-11-29 19:45:00,Chris Löwe,Aerial
+160721,37,BlockedShot,0.8719999694824219,0.6530000305175782,0.10953029245138168,Collin Quaner,a,6035,OpenPlay,2017,LeftFoot,7254,Arsenal,Huddersfield,5,0,2017-11-29 19:45:00,Steve Mounie,Throughball
+160722,38,SavedShot,0.8080000305175781,0.36900001525878906,0.037149205803871155,Steve Mounie,a,3800,OpenPlay,2017,LeftFoot,7254,Arsenal,Huddersfield,5,0,2017-11-29 19:45:00,Collin Quaner,Pass
+160725,50,SavedShot,0.915,0.34900001525878904,0.10658980160951614,Collin Quaner,a,6035,OpenPlay,2017,RightFoot,7254,Arsenal,Huddersfield,5,0,2017-11-29 19:45:00,Jonathan Hogg,TakeOn
+160728,52,BlockedShot,0.8819999694824219,0.5629999923706055,0.09988759458065033,Steve Mounie,a,3800,OpenPlay,2017,RightFoot,7254,Arsenal,Huddersfield,5,0,2017-11-29 19:45:00,Elias Kachunga,Pass
+160729,53,MissedShots,0.955999984741211,0.674000015258789,0.011833332479000092,Christopher Schindler,a,6031,FromCorner,2017,Head,7254,Arsenal,Huddersfield,5,0,2017-11-29 19:45:00,Aaron Mooy,Aerial
+160741,88,MissedShots,0.7969999694824219,0.3120000076293945,0.06926620006561279,Chris Löwe,a,6032,DirectFreekick,2017,LeftFoot,7254,Arsenal,Huddersfield,5,0,2017-11-29 19:45:00,,Standard

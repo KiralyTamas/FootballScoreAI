@@ -1,0 +1,24 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+215525,8,MissedShots,0.8019999694824219,0.3240000152587891,0.02116071619093418,Lee Seung-Woo,h,6285,OpenPlay,2017,RightFoot,7868,Verona,Udinese,0,1,2018-05-13 14:00:00,Alessio Cerci,Pass
+215529,29,MissedShots,0.855999984741211,0.5729999923706055,0.04870162531733513,Samuel Souprayen,h,1954,OpenPlay,2017,RightFoot,7868,Verona,Udinese,0,1,2018-05-13 14:00:00,Rômulo,Cross
+215530,30,SavedShot,0.8380000305175781,0.4779999923706055,0.07518014311790466,Lee Seung-Woo,h,6285,OpenPlay,2017,RightFoot,7868,Verona,Udinese,0,1,2018-05-13 14:00:00,Samuel Souprayen,Pass
+215532,34,BlockedShot,0.875999984741211,0.735999984741211,0.04741201177239418,Alessio Cerci,h,2006,OpenPlay,2017,LeftFoot,7868,Verona,Udinese,0,1,2018-05-13 14:00:00,Franco Zuculini,Pass
+215533,34,MissedShots,0.885,0.49599998474121093,0.41791149973869324,Lee Seung-Woo,h,6285,FromCorner,2017,RightFoot,7868,Verona,Udinese,0,1,2018-05-13 14:00:00,,None
+215534,38,BlockedShot,0.7759999847412109,0.32099998474121094,0.018758302554488182,Marco Fossati,h,6134,OpenPlay,2017,RightFoot,7868,Verona,Udinese,0,1,2018-05-13 14:00:00,Rômulo,Pass
+215536,54,MissedShots,0.8119999694824219,0.48200000762939454,0.0438721589744091,Antonio Caracciolo,h,6133,SetPiece,2017,RightFoot,7868,Verona,Udinese,0,1,2018-05-13 14:00:00,,None
+215537,54,MissedShots,0.8580000305175781,0.4520000076293945,0.017956798896193504,Jagos Vukovic,h,6518,SetPiece,2017,Head,7868,Verona,Udinese,0,1,2018-05-13 14:00:00,Antonio Caracciolo,Foul
+215539,59,BlockedShot,0.7169999694824218,0.3039999961853027,0.033855192363262177,Alessio Cerci,h,2006,DirectFreekick,2017,LeftFoot,7868,Verona,Udinese,0,1,2018-05-13 14:00:00,,Standard
+215544,82,MissedShots,0.96,0.59,0.07486532628536224,Antonio Caracciolo,h,6133,FromCorner,2017,Head,7868,Verona,Udinese,0,1,2018-05-13 14:00:00,Marco Fossati,Cross
+215522,1,MissedShots,0.9730000305175781,0.355,0.27421677112579346,Rodrigo de Paul,a,1145,OpenPlay,2017,RightFoot,7868,Verona,Udinese,0,1,2018-05-13 14:00:00,Antonin Barak,Pass
+215523,3,SavedShot,0.8809999847412109,0.24100000381469727,0.029263680800795555,Jens Stryger Larsen,a,6262,OpenPlay,2017,RightFoot,7868,Verona,Udinese,0,1,2018-05-13 14:00:00,Rodrigo de Paul,Pass
+215524,4,SavedShot,0.875999984741211,0.56,0.3489839434623718,Kevin Lasagna,a,1903,OpenPlay,2017,LeftFoot,7868,Verona,Udinese,0,1,2018-05-13 14:00:00,Jakub Jankto,Pass
+215526,16,MissedShots,0.9330000305175781,0.48400001525878905,0.4569381773471832,Kevin Lasagna,a,1903,OpenPlay,2017,Head,7868,Verona,Udinese,0,1,2018-05-13 14:00:00,Antonin Barak,Aerial
+215527,18,BlockedShot,0.9590000152587891,0.3970000076293945,0.09660084545612335,Kevin Lasagna,a,1903,OpenPlay,2017,LeftFoot,7868,Verona,Udinese,0,1,2018-05-13 14:00:00,Jens Stryger Larsen,Cross
+215528,19,Goal,0.935,0.4779999923706055,0.43406942486763,Antonin Barak,a,6208,FromCorner,2017,LeftFoot,7868,Verona,Udinese,0,1,2018-05-13 14:00:00,Jakub Jankto,Cross
+215531,33,SavedShot,0.855,0.35400001525878905,0.0683172345161438,Antonin Barak,a,6208,OpenPlay,2017,LeftFoot,7868,Verona,Udinese,0,1,2018-05-13 14:00:00,Rodrigo de Paul,Chipped
+215535,43,MissedShots,0.9530000305175781,0.585,0.0822848379611969,Bram Nuytinck,a,6206,FromCorner,2017,Head,7868,Verona,Udinese,0,1,2018-05-13 14:00:00,Rodrigo de Paul,Cross
+215538,56,MissedShots,0.9340000152587891,0.51,0.44726648926734924,Rodrigo de Paul,a,1145,OpenPlay,2017,LeftFoot,7868,Verona,Udinese,0,1,2018-05-13 14:00:00,Jens Stryger Larsen,Cross
+215540,60,BlockedShot,0.7340000152587891,0.6,0.02034221775829792,Rodrigo de Paul,a,1145,OpenPlay,2017,RightFoot,7868,Verona,Udinese,0,1,2018-05-13 14:00:00,,None
+215541,67,SavedShot,0.7430000305175781,0.4,0.022241318598389626,Emil Hallfredsson,a,1151,OpenPlay,2017,LeftFoot,7868,Verona,Udinese,0,1,2018-05-13 14:00:00,Jens Stryger Larsen,Pass
+215542,68,MissedShots,0.8109999847412109,0.605,0.028728442266583443,Jakub Jankto,a,1146,FromCorner,2017,LeftFoot,7868,Verona,Udinese,0,1,2018-05-13 14:00:00,,None
+215543,72,MissedShots,0.840999984741211,0.3609999847412109,0.0657237097620964,Rodrigo de Paul,a,1145,OpenPlay,2017,RightFoot,7868,Verona,Udinese,0,1,2018-05-13 14:00:00,Emil Hallfredsson,TakeOn

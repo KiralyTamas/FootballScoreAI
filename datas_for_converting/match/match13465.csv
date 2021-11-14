@@ -1,0 +1,35 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+374370,8,BlockedShot,0.720999984741211,0.37099998474121093,0.014942629262804985,Ernesto Torregrossa,h,7993,SetPiece,2019,LeftFoot,13465,Brescia,Sampdoria,1,1,2020-08-01 16:00:00,Stefano Sabelli,Pass
+374371,8,MissedShots,0.764000015258789,0.435,0.016921382397413254,Nikolas Spalek,h,7959,SetPiece,2019,RightFoot,13465,Brescia,Sampdoria,1,1,2020-08-01 16:00:00,,Rebound
+374374,17,BlockedShot,0.6840000152587891,0.64,0.010363630950450897,Sandro Tonali,h,7958,OpenPlay,2019,RightFoot,13465,Brescia,Sampdoria,1,1,2020-08-01 16:00:00,Nikolas Spalek,Pass
+374377,29,SavedShot,0.7119999694824218,0.5879999923706055,0.0186225064098835,Ernesto Torregrossa,h,7993,OpenPlay,2019,LeftFoot,13465,Brescia,Sampdoria,1,1,2020-08-01 16:00:00,Daniele Dessena,Pass
+374378,34,SavedShot,0.774000015258789,0.40900001525878904,0.027860362082719803,Jaromir Zmrhal,h,7962,OpenPlay,2019,LeftFoot,13465,Brescia,Sampdoria,1,1,2020-08-01 16:00:00,Florian Aye,Pass
+374380,36,SavedShot,0.9419999694824219,0.610999984741211,0.28589746356010437,Nikolas Spalek,h,7959,OpenPlay,2019,LeftFoot,13465,Brescia,Sampdoria,1,1,2020-08-01 16:00:00,Daniele Dessena,Cross
+374381,37,MissedShots,0.855,0.625,0.02168140560388565,Nikolas Spalek,h,7959,FromCorner,2019,LeftFoot,13465,Brescia,Sampdoria,1,1,2020-08-01 16:00:00,,Aerial
+374383,42,MissedShots,0.8490000152587891,0.485,0.017678694799542427,Florian Aye,h,7960,OpenPlay,2019,Head,13465,Brescia,Sampdoria,1,1,2020-08-01 16:00:00,Stefano Sabelli,Cross
+374384,46,BlockedShot,0.8269999694824218,0.515,0.1953325718641281,Jaromir Zmrhal,h,7962,DirectFreekick,2019,LeftFoot,13465,Brescia,Sampdoria,1,1,2020-08-01 16:00:00,,Standard
+374387,48,Goal,0.885,0.5,0.7612589001655579,Ernesto Torregrossa,h,7993,Penalty,2019,LeftFoot,13465,Brescia,Sampdoria,1,1,2020-08-01 16:00:00,,Standard
+374391,60,MissedShots,0.8640000152587891,0.6669999694824219,0.056979384273290634,Emanuele Ndoj,h,8121,OpenPlay,2019,RightFoot,13465,Brescia,Sampdoria,1,1,2020-08-01 16:00:00,Alessandro Semprini,Pass
+374393,64,MissedShots,0.9080000305175782,0.6730000305175782,0.07016769051551819,Jaromir Zmrhal,h,7962,OpenPlay,2019,LeftFoot,13465,Brescia,Sampdoria,1,1,2020-08-01 16:00:00,Alessandro Semprini,Pass
+374398,76,ShotOnPost,0.9209999847412109,0.580999984741211,0.04100500047206879,Jaromir Zmrhal,h,7962,OpenPlay,2019,Head,13465,Brescia,Sampdoria,1,1,2020-08-01 16:00:00,Stefano Sabelli,Aerial
+374400,89,MissedShots,0.764000015258789,0.6090000152587891,0.02522115968167782,Ernesto Torregrossa,h,7993,OpenPlay,2019,LeftFoot,13465,Brescia,Sampdoria,1,1,2020-08-01 16:00:00,Emanuele Ndoj,Pass
+374401,92,MissedShots,0.7219999694824218,0.48400001525878905,0.047554194927215576,Sandro Tonali,h,7958,DirectFreekick,2019,RightFoot,13465,Brescia,Sampdoria,1,1,2020-08-01 16:00:00,,Standard
+374402,95,BlockedShot,0.865999984741211,0.33599998474121096,0.050402525812387466,Ernesto Torregrossa,h,7993,OpenPlay,2019,LeftFoot,13465,Brescia,Sampdoria,1,1,2020-08-01 16:00:00,,None
+374369,4,BlockedShot,0.7859999847412109,0.2560000038146973,0.014739902690052986,Fabio Quagliarella,a,1230,OpenPlay,2019,RightFoot,13465,Brescia,Sampdoria,1,1,2020-08-01 16:00:00,Manolo Gabbiadini,Pass
+374372,12,MissedShots,0.895,0.515,0.09505919367074966,Gonzalo Maroni,a,8105,OpenPlay,2019,RightFoot,13465,Brescia,Sampdoria,1,1,2020-08-01 16:00:00,Fabio Quagliarella,Cross
+374373,14,MissedShots,0.7169999694824218,0.38799999237060545,0.01921091042459011,Manolo Gabbiadini,a,1383,OpenPlay,2019,LeftFoot,13465,Brescia,Sampdoria,1,1,2020-08-01 16:00:00,Gonzalo Maroni,Pass
+374375,24,BlockedShot,0.860999984741211,0.43400001525878906,0.08579370379447937,Ronaldo Vieira,a,7097,SetPiece,2019,RightFoot,13465,Brescia,Sampdoria,1,1,2020-08-01 16:00:00,Manolo Gabbiadini,Pass
+374376,26,MissedShots,0.885,0.5,0.7612988352775574,Fabio Quagliarella,a,1230,Penalty,2019,RightFoot,13465,Brescia,Sampdoria,1,1,2020-08-01 16:00:00,,Standard
+374379,34,MissedShots,0.725,0.38,0.016717633232474327,Manolo Gabbiadini,a,1383,OpenPlay,2019,LeftFoot,13465,Brescia,Sampdoria,1,1,2020-08-01 16:00:00,Fabio Quagliarella,Pass
+374382,40,Goal,0.8009999847412109,0.5329999923706055,0.04431536793708801,Mehdi Leris,a,6211,OpenPlay,2019,RightFoot,13465,Brescia,Sampdoria,1,1,2020-08-01 16:00:00,Tommaso Augello,Pass
+374385,45,BlockedShot,0.7190000152587891,0.555,0.022632498294115067,Gonzalo Maroni,a,8105,OpenPlay,2019,RightFoot,13465,Brescia,Sampdoria,1,1,2020-08-01 16:00:00,Tommaso Augello,Pass
+374386,45,MissedShots,0.7809999847412109,0.32599998474121095,0.022092703729867935,Mehdi Leris,a,6211,OpenPlay,2019,RightFoot,13465,Brescia,Sampdoria,1,1,2020-08-01 16:00:00,,Rebound
+374388,49,BlockedShot,0.8859999847412109,0.715999984741211,0.046442825347185135,Fabio Quagliarella,a,1230,OpenPlay,2019,RightFoot,13465,Brescia,Sampdoria,1,1,2020-08-01 16:00:00,Tommaso Augello,Pass
+374389,54,BlockedShot,0.91,0.6569999694824219,0.08518295735120773,Fabio Quagliarella,a,1230,OpenPlay,2019,LeftFoot,13465,Brescia,Sampdoria,1,1,2020-08-01 16:00:00,Gonzalo Maroni,Pass
+374390,55,SavedShot,0.9290000152587891,0.5,0.38544607162475586,Omar Colley,a,7096,FromCorner,2019,RightFoot,13465,Brescia,Sampdoria,1,1,2020-08-01 16:00:00,Manolo Gabbiadini,Cross
+374392,62,MissedShots,0.9259999847412109,0.735,0.019529564306139946,Manolo Gabbiadini,a,1383,OpenPlay,2019,LeftFoot,13465,Brescia,Sampdoria,1,1,2020-08-01 16:00:00,Mehdi Leris,Cross
+374394,64,BlockedShot,0.8590000152587891,0.4279999923706055,0.09545683860778809,Manolo Gabbiadini,a,1383,OpenPlay,2019,LeftFoot,13465,Brescia,Sampdoria,1,1,2020-08-01 16:00:00,Gonzalo Maroni,Pass
+374395,66,SavedShot,0.8780000305175781,0.59,0.07439225912094116,Fabio Quagliarella,a,1230,OpenPlay,2019,RightFoot,13465,Brescia,Sampdoria,1,1,2020-08-01 16:00:00,,None
+374396,72,SavedShot,0.7390000152587891,0.4979999923706055,0.022954454645514488,Karol Linetty,a,1226,OpenPlay,2019,LeftFoot,13465,Brescia,Sampdoria,1,1,2020-08-01 16:00:00,Morten Thorsby,Pass
+374397,73,SavedShot,0.8909999847412109,0.6719999694824219,0.06220172718167305,Fabio Quagliarella,a,1230,OpenPlay,2019,LeftFoot,13465,Brescia,Sampdoria,1,1,2020-08-01 16:00:00,Jakub Jankto,Pass
+374399,88,MissedShots,0.970999984741211,0.595999984741211,0.0745401531457901,Omar Colley,a,7096,SetPiece,2019,RightFoot,13465,Brescia,Sampdoria,1,1,2020-08-01 16:00:00,Manolo Gabbiadini,Cross

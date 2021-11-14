@@ -1,0 +1,29 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+441080,1,MissedShots,0.899000015258789,0.4279999923706055,0.12382422387599945,Ivan Toney,h,998,OpenPlay,2021,RightFoot,16477,Brentford,Norwich,1,2,2021-11-06 15:00:00,Mathias Jensen,Pass
+441083,13,SavedShot,0.9690000152587891,0.544000015258789,0.5963968634605408,Christian Nørgaard,h,7083,OpenPlay,2021,RightFoot,16477,Brentford,Norwich,1,2,2021-11-06 15:00:00,Ethan Pinnock,HeadPass
+441084,13,MissedShots,0.955999984741211,0.57,0.11206512898206711,Ethan Pinnock,h,9678,FromCorner,2021,Head,16477,Brentford,Norwich,1,2,2021-11-06 15:00:00,Mathias Jensen,Cross
+441085,16,BlockedShot,0.8130000305175781,0.47099998474121096,0.05206480622291565,Mathias Jensen,h,7166,OpenPlay,2021,RightFoot,16477,Brentford,Norwich,1,2,2021-11-06 15:00:00,Bryan Mbeumo,Pass
+441086,19,BlockedShot,0.9169999694824219,0.565,0.0435885451734066,Pontus Jansson,h,1801,OpenPlay,2021,Head,16477,Brentford,Norwich,1,2,2021-11-06 15:00:00,Charlie Goode,Pass
+441087,19,BlockedShot,0.8469999694824218,0.41,0.053197991102933884,Bryan Mbeumo,h,6552,OpenPlay,2021,LeftFoot,16477,Brentford,Norwich,1,2,2021-11-06 15:00:00,,Rebound
+441088,25,BlockedShot,0.8680000305175781,0.485,0.01536025945097208,Ethan Pinnock,h,9678,FromCorner,2021,Head,16477,Brentford,Norwich,1,2,2021-11-06 15:00:00,,Aerial
+441090,33,BlockedShot,0.899000015258789,0.534000015258789,0.018822114914655685,Ivan Toney,h,998,FromCorner,2021,Head,16477,Brentford,Norwich,1,2,2021-11-06 15:00:00,Mathias Jensen,Aerial
+441091,33,BlockedShot,0.805,0.7090000152587891,0.024148602038621902,Sergi Canos,h,1078,FromCorner,2021,RightFoot,16477,Brentford,Norwich,1,2,2021-11-06 15:00:00,,Rebound
+441095,52,SavedShot,0.925,0.3240000152587891,0.014103754423558712,Ethan Pinnock,h,9678,SetPiece,2021,Head,16477,Brentford,Norwich,1,2,2021-11-06 15:00:00,Mathias Jensen,Cross
+441096,55,MissedShots,0.924000015258789,0.5729999923706055,0.06754564493894577,Charlie Goode,h,9687,FromCorner,2021,Head,16477,Brentford,Norwich,1,2,2021-11-06 15:00:00,Mathias Jensen,Cross
+441097,55,SavedShot,0.965999984741211,0.475,0.7000659108161926,Christian Nørgaard,h,7083,FromCorner,2021,LeftFoot,16477,Brentford,Norwich,1,2,2021-11-06 15:00:00,Charlie Goode,Rebound
+441098,55,SavedShot,0.9219999694824219,0.40599998474121096,0.04504210874438286,Pontus Jansson,h,1801,OpenPlay,2021,Head,16477,Brentford,Norwich,1,2,2021-11-06 15:00:00,Charlie Goode,Aerial
+441099,59,Goal,0.9769999694824218,0.56,0.4926053285598755,Rico Henry,h,9679,OpenPlay,2021,LeftFoot,16477,Brentford,Norwich,1,2,2021-11-06 15:00:00,Saman Ghoddos,Cross
+441101,68,SavedShot,0.9180000305175782,0.29100000381469726,0.05548613518476486,Sergi Canos,h,1078,OpenPlay,2021,LeftFoot,16477,Brentford,Norwich,1,2,2021-11-06 15:00:00,Bryan Mbeumo,TakeOn
+441102,75,SavedShot,0.9059999847412109,0.45799999237060546,0.07256382703781128,Sergi Canos,h,1078,FromCorner,2021,RightFoot,16477,Brentford,Norwich,1,2,2021-11-06 15:00:00,Mathias Jensen,Cross
+441103,81,BlockedShot,0.905,0.705999984741211,0.048963762819767,Sergi Canos,h,1078,OpenPlay,2021,RightFoot,16477,Brentford,Norwich,1,2,2021-11-06 15:00:00,Mathias Jensen,Pass
+441105,87,MissedShots,0.980999984741211,0.5870000076293945,0.28805795311927795,Sergi Canos,h,1078,OpenPlay,2021,LeftFoot,16477,Brentford,Norwich,1,2,2021-11-06 15:00:00,Bryan Mbeumo,Chipped
+441106,93,MissedShots,0.8880000305175781,0.6719999694824219,0.018447669222950935,Charlie Goode,h,9687,OpenPlay,2021,RightFoot,16477,Brentford,Norwich,1,2,2021-11-06 15:00:00,,Aerial
+441081,5,Goal,0.8180000305175781,0.46599998474121096,0.05310719087719917,Mathias Normann,a,7470,OpenPlay,2021,LeftFoot,16477,Brentford,Norwich,1,2,2021-11-06 15:00:00,,None
+441082,11,SavedShot,0.855,0.7440000152587891,0.03594982251524925,Milot Rashica,a,6523,OpenPlay,2021,RightFoot,16477,Brentford,Norwich,1,2,2021-11-06 15:00:00,Pierre Lees-Melou,Pass
+441089,28,Goal,0.885,0.5,0.7611320614814758,Teemu Pukki,a,7696,Penalty,2021,RightFoot,16477,Brentford,Norwich,1,2,2021-11-06 15:00:00,,Standard
+441092,46,BlockedShot,0.81,0.649000015258789,0.024181026965379715,Pierre Lees-Melou,a,5619,FromCorner,2021,RightFoot,16477,Brentford,Norwich,1,2,2021-11-06 15:00:00,Milot Rashica,HeadPass
+441093,47,MissedShots,0.86,0.43099998474121093,0.12819816172122955,Teemu Pukki,a,7696,OpenPlay,2021,RightFoot,16477,Brentford,Norwich,1,2,2021-11-06 15:00:00,Brandon Williams,Pass
+441094,50,MissedShots,0.705999984741211,0.7140000152587891,0.01294147502630949,Mathias Normann,a,7470,OpenPlay,2021,RightFoot,16477,Brentford,Norwich,1,2,2021-11-06 15:00:00,Brandon Williams,Pass
+441100,61,SavedShot,0.72,0.764000015258789,0.029163677245378494,Milot Rashica,a,6523,DirectFreekick,2021,RightFoot,16477,Brentford,Norwich,1,2,2021-11-06 15:00:00,,Standard
+441104,83,SavedShot,0.7230000305175781,0.4279999923706055,0.021598350256681442,Milot Rashica,a,6523,OpenPlay,2021,RightFoot,16477,Brentford,Norwich,1,2,2021-11-06 15:00:00,Pierre Lees-Melou,TakeOn
+441107,95,MissedShots,0.845,0.47200000762939454,0.0916973426938057,Kenny McLean,a,7693,OpenPlay,2021,RightFoot,16477,Brentford,Norwich,1,2,2021-11-06 15:00:00,Pierre Lees-Melou,Pass

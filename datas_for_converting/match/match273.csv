@@ -1,0 +1,31 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+54861,1,MissedShots,0.889000015258789,0.4909999847412109,0.12775513529777527,Alex Oxlade-Chamberlain,h,966,OpenPlay,2015,LeftFoot,273,Arsenal,Newcastle United,1,0,2016-01-02 19:00:00,Héctor Bellerín,Pass
+54862,11,BlockedShot,0.754000015258789,0.47200000762939454,0.018516140058636665,Mathieu Flamini,h,895,OpenPlay,2015,RightFoot,273,Arsenal,Newcastle United,1,0,2016-01-02 19:00:00,Theo Walcott,Pass
+54866,35,MissedShots,0.6940000152587891,0.675,0.01277165673673153,Alex Oxlade-Chamberlain,h,966,OpenPlay,2015,RightFoot,273,Arsenal,Newcastle United,1,0,2016-01-02 19:00:00,Aaron Ramsey,Pass
+54867,36,BlockedShot,0.8959999847412109,0.7319999694824219,0.036888785660266876,Olivier Giroud,h,502,OpenPlay,2015,LeftFoot,273,Arsenal,Newcastle United,1,0,2016-01-02 19:00:00,Alex Oxlade-Chamberlain,Pass
+54868,36,MissedShots,0.9,0.5129999923706055,0.021549323573708534,Olivier Giroud,h,502,FromCorner,2015,Head,273,Arsenal,Newcastle United,1,0,2016-01-02 19:00:00,Mesut Özil,Aerial
+54874,47,MissedShots,0.945,0.5670000076293945,0.12761922180652618,Olivier Giroud,h,502,OpenPlay,2015,Head,273,Arsenal,Newcastle United,1,0,2016-01-02 19:00:00,Nacho Monreal,Cross
+54876,49,SavedShot,0.9230000305175782,0.6370000076293946,0.09839203953742981,Aaron Ramsey,h,504,OpenPlay,2015,RightFoot,273,Arsenal,Newcastle United,1,0,2016-01-02 19:00:00,Mesut Özil,Pass
+54877,58,MissedShots,0.9419999694824219,0.6659999847412109,0.07620228826999664,Olivier Giroud,h,502,OpenPlay,2015,LeftFoot,273,Arsenal,Newcastle United,1,0,2016-01-02 19:00:00,Laurent Koscielny,Pass
+54880,65,MissedShots,0.9019999694824219,0.5070000076293946,0.06758655607700348,Laurent Koscielny,h,494,FromCorner,2015,Head,273,Arsenal,Newcastle United,1,0,2016-01-02 19:00:00,Mesut Özil,Cross
+54881,71,Goal,0.9769999694824218,0.55,0.6043381690979004,Laurent Koscielny,h,494,FromCorner,2015,RightFoot,273,Arsenal,Newcastle United,1,0,2016-01-02 19:00:00,Olivier Giroud,HeadPass
+54883,76,MissedShots,0.815,0.5129999923706055,0.020703677088022232,Nacho Monreal,h,495,FromCorner,2015,Head,273,Arsenal,Newcastle United,1,0,2016-01-02 19:00:00,Per Mertesacker,HeadPass
+54884,78,MissedShots,0.875,0.4640000152587891,0.11232978850603104,Theo Walcott,h,503,OpenPlay,2015,LeftFoot,273,Arsenal,Newcastle United,1,0,2016-01-02 19:00:00,Olivier Giroud,BallTouch
+54887,87,SavedShot,0.919000015258789,0.3559999847412109,0.1002986878156662,Aaron Ramsey,h,504,OpenPlay,2015,RightFoot,273,Arsenal,Newcastle United,1,0,2016-01-02 19:00:00,Joel Campbell,Pass
+54888,89,MissedShots,0.9159999847412109,0.5829999923706055,0.3388688564300537,Aaron Ramsey,h,504,OpenPlay,2015,RightFoot,273,Arsenal,Newcastle United,1,0,2016-01-02 19:00:00,Mesut Özil,TakeOn
+54889,90,MissedShots,0.9069999694824219,0.3770000076293945,0.16643407940864563,Mesut Özil,h,499,OpenPlay,2015,LeftFoot,273,Arsenal,Newcastle United,1,0,2016-01-02 19:00:00,Aaron Ramsey,TakeOn
+54863,15,SavedShot,0.8580000305175781,0.45599998474121095,0.021595660597085953,Georginio Wijnaldum,a,771,OpenPlay,2015,Head,273,Arsenal,Newcastle United,1,0,2016-01-02 19:00:00,Chancel Mbemba,Cross
+54864,15,SavedShot,0.9069999694824219,0.6270000076293946,0.08469883352518082,Jack Colback,a,767,OpenPlay,2015,LeftFoot,273,Arsenal,Newcastle United,1,0,2016-01-02 19:00:00,Aleksandar Mitrovic,Pass
+54865,25,MissedShots,0.88,0.720999984741211,0.041008368134498596,Ayoze Pérez,a,770,OpenPlay,2015,RightFoot,273,Arsenal,Newcastle United,1,0,2016-01-02 19:00:00,Cheick Tioté,Pass
+54869,37,BlockedShot,0.7980000305175782,0.5470000076293945,0.045895181596279144,Aleksandar Mitrovic,a,773,OpenPlay,2015,RightFoot,273,Arsenal,Newcastle United,1,0,2016-01-02 19:00:00,,BallRecovery
+54870,41,SavedShot,0.9059999847412109,0.5609999847412109,0.09612841159105301,Aleksandar Mitrovic,a,773,OpenPlay,2015,RightFoot,273,Arsenal,Newcastle United,1,0,2016-01-02 19:00:00,,None
+54871,42,SavedShot,0.9440000152587891,0.355,0.07004626095294952,Georginio Wijnaldum,a,771,OpenPlay,2015,RightFoot,273,Arsenal,Newcastle United,1,0,2016-01-02 19:00:00,,None
+54872,46,BlockedShot,0.740999984741211,0.45299999237060545,0.015803491696715355,Daryl Janmaat,a,764,FromCorner,2015,LeftFoot,273,Arsenal,Newcastle United,1,0,2016-01-02 19:00:00,,None
+54873,47,SavedShot,0.8640000152587891,0.38299999237060545,0.310977041721344,Georginio Wijnaldum,a,771,OpenPlay,2015,RightFoot,273,Arsenal,Newcastle United,1,0,2016-01-02 19:00:00,Ayoze Pérez,Pass
+54875,48,MissedShots,0.950999984741211,0.5629999923706055,0.1434805542230606,Aleksandar Mitrovic,a,773,OpenPlay,2015,LeftFoot,273,Arsenal,Newcastle United,1,0,2016-01-02 19:00:00,Ayoze Pérez,Pass
+54878,63,BlockedShot,0.750999984741211,0.62,0.01693130098283291,Fabricio Coloccini,a,941,OpenPlay,2015,RightFoot,273,Arsenal,Newcastle United,1,0,2016-01-02 19:00:00,Aleksandar Mitrovic,Pass
+54879,64,MissedShots,0.9,0.47099998474121096,0.08419831842184067,Chancel Mbemba,a,849,OpenPlay,2015,Head,273,Arsenal,Newcastle United,1,0,2016-01-02 19:00:00,Moussa Sissoko,Cross
+54882,73,BlockedShot,0.759000015258789,0.5659999847412109,0.024387303739786148,Jack Colback,a,767,OpenPlay,2015,LeftFoot,273,Arsenal,Newcastle United,1,0,2016-01-02 19:00:00,Georginio Wijnaldum,Pass
+54885,80,MissedShots,0.925,0.5559999847412109,0.04537299647927284,Aleksandar Mitrovic,a,773,OpenPlay,2015,Head,273,Arsenal,Newcastle United,1,0,2016-01-02 19:00:00,Ayoze Pérez,Aerial
+54886,84,MissedShots,0.92,0.52,0.09920897334814072,Georginio Wijnaldum,a,771,FromCorner,2015,Head,273,Arsenal,Newcastle United,1,0,2016-01-02 19:00:00,Daryl Janmaat,Cross
+54890,93,SavedShot,0.865,0.38599998474121094,0.05365341901779175,Siem de Jong,a,774,OpenPlay,2015,RightFoot,273,Arsenal,Newcastle United,1,0,2016-01-02 19:00:00,Florian Thauvin,Cross

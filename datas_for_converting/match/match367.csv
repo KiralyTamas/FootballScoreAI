@@ -1,0 +1,34 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+59717,6,SavedShot,0.905,0.47400001525878904,0.4449591636657715,Yannick Bolasie,h,518,OpenPlay,2015,RightFoot,367,Crystal Palace,Liverpool,1,2,2016-03-06 17:30:00,,None
+59719,9,SavedShot,0.840999984741211,0.750999984741211,0.026181206107139587,Emmanuel Adebayor,h,521,OpenPlay,2015,RightFoot,367,Crystal Palace,Liverpool,1,2,2016-03-06 17:30:00,Yannick Bolasie,Pass
+59720,10,ShotOnPost,0.9469999694824218,0.5379999923706055,0.4923849403858185,Emmanuel Adebayor,h,521,OpenPlay,2015,Head,367,Crystal Palace,Liverpool,1,2,2016-03-06 17:30:00,Pape Souaré,Cross
+59721,24,MissedShots,0.8219999694824218,0.38,0.04748876020312309,Yohan Cabaye,h,516,OpenPlay,2015,RightFoot,367,Crystal Palace,Liverpool,1,2,2016-03-06 17:30:00,Wilfried Zaha,Pass
+59722,28,MissedShots,0.9369999694824219,0.6140000152587891,0.043609488755464554,Damien Delaney,h,511,SetPiece,2015,Head,367,Crystal Palace,Liverpool,1,2,2016-03-06 17:30:00,Yohan Cabaye,Cross
+59726,36,SavedShot,0.87,0.5920000076293945,0.03568315505981445,Scott Dann,h,512,SetPiece,2015,Head,367,Crystal Palace,Liverpool,1,2,2016-03-06 17:30:00,Yohan Cabaye,Chipped
+59728,44,MissedShots,0.7959999847412109,0.20200000762939452,0.011543144471943378,Joel Ward,h,510,OpenPlay,2015,RightFoot,367,Crystal Palace,Liverpool,1,2,2016-03-06 17:30:00,,None
+59729,44,MissedShots,0.87,0.45799999237060546,0.08287442475557327,Joe Ledley,h,517,OpenPlay,2015,RightFoot,367,Crystal Palace,Liverpool,1,2,2016-03-06 17:30:00,Joel Ward,Rebound
+59730,47,BlockedShot,0.8169999694824219,0.624000015258789,0.028301488608121872,Pape Souaré,h,513,FromCorner,2015,LeftFoot,367,Crystal Palace,Liverpool,1,2,2016-03-06 17:30:00,,None
+59731,47,BlockedShot,0.9259999847412109,0.639000015258789,0.07001873105764389,Mile Jedinak,h,515,FromCorner,2015,RightFoot,367,Crystal Palace,Liverpool,1,2,2016-03-06 17:30:00,,Rebound
+59733,47,Goal,0.845,0.45599998474121095,0.062284547835588455,Joe Ledley,h,517,FromCorner,2015,LeftFoot,367,Crystal Palace,Liverpool,1,2,2016-03-06 17:30:00,,Rebound
+59745,65,BlockedShot,0.7340000152587891,0.3840000152587891,0.021359948441386223,Yohan Cabaye,h,516,OpenPlay,2015,RightFoot,367,Crystal Palace,Liverpool,1,2,2016-03-06 17:30:00,Joe Ledley,Pass
+59757,75,MissedShots,0.9,0.534000015258789,0.057206589728593826,Scott Dann,h,512,FromCorner,2015,Head,367,Crystal Palace,Liverpool,1,2,2016-03-06 17:30:00,Jordon Mutch,Cross
+59760,80,BlockedShot,0.7609999847412109,0.52,0.024048952385783195,Mile Jedinak,h,515,OpenPlay,2015,RightFoot,367,Crystal Palace,Liverpool,1,2,2016-03-06 17:30:00,,None
+59718,8,BlockedShot,0.8080000305175781,0.3509999847412109,0.03000544011592865,Jordan Henderson,a,605,OpenPlay,2015,RightFoot,367,Crystal Palace,Liverpool,1,2,2016-03-06 17:30:00,Adam Lallana,Pass
+59723,29,MissedShots,0.785,0.6969999694824218,0.02166120335459709,Divock Origi,a,484,OpenPlay,2015,RightFoot,367,Crystal Palace,Liverpool,1,2,2016-03-06 17:30:00,Emre Can,Pass
+59724,32,BlockedShot,0.7780000305175782,0.36900001525878906,0.07216689735651016,James Milner,a,489,DirectFreekick,2015,RightFoot,367,Crystal Palace,Liverpool,1,2,2016-03-06 17:30:00,,Standard
+59725,33,MissedShots,0.9059999847412109,0.34900001525878904,0.05510253459215164,Dejan Lovren,a,602,FromCorner,2015,LeftFoot,367,Crystal Palace,Liverpool,1,2,2016-03-06 17:30:00,,None
+59727,42,BlockedShot,0.909000015258789,0.6859999847412109,0.05870337039232254,Roberto Firmino,a,482,OpenPlay,2015,RightFoot,367,Crystal Palace,Liverpool,1,2,2016-03-06 17:30:00,Divock Origi,Pass
+59734,54,BlockedShot,0.765,0.3509999847412109,0.021436791867017746,Divock Origi,a,484,OpenPlay,2015,LeftFoot,367,Crystal Palace,Liverpool,1,2,2016-03-06 17:30:00,Roberto Firmino,Pass
+59736,54,BlockedShot,0.84,0.4279999923706055,0.05507046729326248,Divock Origi,a,484,OpenPlay,2015,RightFoot,367,Crystal Palace,Liverpool,1,2,2016-03-06 17:30:00,Roberto Firmino,Chipped
+59737,55,BlockedShot,0.7269999694824218,0.48700000762939455,0.01353217102587223,Roberto Firmino,a,482,OpenPlay,2015,RightFoot,367,Crystal Palace,Liverpool,1,2,2016-03-06 17:30:00,James Milner,BallRecovery
+59740,60,BlockedShot,0.8019999694824219,0.3129999923706055,0.016172342002391815,Roberto Firmino,a,482,OpenPlay,2015,LeftFoot,367,Crystal Palace,Liverpool,1,2,2016-03-06 17:30:00,Adam Lallana,Chipped
+59743,64,SavedShot,0.7319999694824219,0.48400001525878905,0.017819121479988098,Roberto Firmino,a,482,OpenPlay,2015,LeftFoot,367,Crystal Palace,Liverpool,1,2,2016-03-06 17:30:00,Philippe Coutinho,Pass
+59746,67,MissedShots,0.9540000152587891,0.44799999237060545,0.5755639672279358,Divock Origi,a,484,OpenPlay,2015,LeftFoot,367,Crystal Palace,Liverpool,1,2,2016-03-06 17:30:00,Adam Lallana,Pass
+59752,71,Goal,0.8690000152587891,0.585,0.3567841351032257,Roberto Firmino,a,482,OpenPlay,2015,RightFoot,367,Crystal Palace,Liverpool,1,2,2016-03-06 17:30:00,,None
+59754,74,MissedShots,0.7419999694824219,0.7980000305175782,0.015613428317010403,Philippe Coutinho,a,488,OpenPlay,2015,RightFoot,367,Crystal Palace,Liverpool,1,2,2016-03-06 17:30:00,Alberto Moreno,Pass
+59759,79,SavedShot,0.8980000305175782,0.655,0.043951697647571564,Christian Benteke,a,606,FromCorner,2015,LeftFoot,367,Crystal Palace,Liverpool,1,2,2016-03-06 17:30:00,Dejan Lovren,HeadPass
+59761,86,ShotOnPost,0.7240000152587891,0.72,0.011728090234100819,Alberto Moreno,a,608,OpenPlay,2015,LeftFoot,367,Crystal Palace,Liverpool,1,2,2016-03-06 17:30:00,,Dispossessed
+59763,86,MissedShots,0.845999984741211,0.5320000076293945,0.06822307407855988,Philippe Coutinho,a,488,OpenPlay,2015,RightFoot,367,Crystal Palace,Liverpool,1,2,2016-03-06 17:30:00,,None
+59765,88,BlockedShot,0.754000015258789,0.6120000076293945,0.016976941376924515,Emre Can,a,604,OpenPlay,2015,LeftFoot,367,Crystal Palace,Liverpool,1,2,2016-03-06 17:30:00,Christian Benteke,Pass
+59769,92,SavedShot,0.835999984741211,0.6120000076293945,0.05918814241886139,Christian Benteke,a,606,OpenPlay,2015,RightFoot,367,Crystal Palace,Liverpool,1,2,2016-03-06 17:30:00,Philippe Coutinho,Pass
+59772,95,Goal,0.885,0.5,0.7611688375473022,Christian Benteke,a,606,Penalty,2015,RightFoot,367,Crystal Palace,Liverpool,1,2,2016-03-06 17:30:00,,Standard

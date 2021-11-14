@@ -1,0 +1,28 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+292787,2,MissedShots,0.7719999694824219,0.74,0.012397260405123234,Thorgan Hazard,h,213,OpenPlay,2018,LeftFoot,10584,Borussia M.Gladbach,Werder Bremen,1,1,2019-04-07 17:00:00,,None
+292788,13,MissedShots,0.725,0.49700000762939456,0.013898579403758049,Denis Zakaria,h,6147,OpenPlay,2018,RightFoot,10584,Borussia M.Gladbach,Werder Bremen,1,1,2019-04-07 17:00:00,,None
+292790,19,MissedShots,0.8690000152587891,0.6229999923706054,0.07715101540088654,Florian Neuhaus,h,7065,OpenPlay,2018,RightFoot,10584,Borussia M.Gladbach,Werder Bremen,1,1,2019-04-07 17:00:00,Alassane Pléa,Pass
+292791,22,ShotOnPost,0.9519999694824218,0.28100000381469725,0.021985024213790894,Patrick Herrmann,h,420,OpenPlay,2018,RightFoot,10584,Borussia M.Gladbach,Werder Bremen,1,1,2019-04-07 17:00:00,Denis Zakaria,Cross
+292792,27,MissedShots,0.8469999694824218,0.295,0.03217601031064987,Patrick Herrmann,h,420,OpenPlay,2018,RightFoot,10584,Borussia M.Gladbach,Werder Bremen,1,1,2019-04-07 17:00:00,Florian Neuhaus,Chipped
+292793,27,MissedShots,0.8619999694824219,0.664000015258789,0.04956161230802536,Alassane Pléa,h,3310,OpenPlay,2018,RightFoot,10584,Borussia M.Gladbach,Werder Bremen,1,1,2019-04-07 17:00:00,Denis Zakaria,Pass
+292794,37,MissedShots,0.8209999847412109,0.720999984741211,0.022845298051834106,Thorgan Hazard,h,213,OpenPlay,2018,RightFoot,10584,Borussia M.Gladbach,Werder Bremen,1,1,2019-04-07 17:00:00,,None
+292797,48,Goal,0.9690000152587891,0.3920000076293945,0.6694672703742981,Florian Neuhaus,h,7065,OpenPlay,2018,RightFoot,10584,Borussia M.Gladbach,Werder Bremen,1,1,2019-04-07 17:00:00,Nico Elvedi,TakeOn
+292798,51,MissedShots,0.8059999847412109,0.6509999847412109,0.04411717504262924,Alassane Pléa,h,3310,OpenPlay,2018,RightFoot,10584,Borussia M.Gladbach,Werder Bremen,1,1,2019-04-07 17:00:00,Thorgan Hazard,Pass
+292803,68,MissedShots,0.8109999847412109,0.5729999923706055,0.06599027663469315,Fabian Johnson,h,327,OpenPlay,2018,LeftFoot,10584,Borussia M.Gladbach,Werder Bremen,1,1,2019-04-07 17:00:00,Thorgan Hazard,BallTouch
+292806,73,MissedShots,0.89,0.425,0.1381203979253769,Florian Neuhaus,h,7065,OpenPlay,2018,RightFoot,10584,Borussia M.Gladbach,Werder Bremen,1,1,2019-04-07 17:00:00,Christoph Kramer,Throughball
+292807,77,MissedShots,0.8690000152587891,0.45,0.36694878339767456,Florian Neuhaus,h,7065,OpenPlay,2018,RightFoot,10584,Borussia M.Gladbach,Werder Bremen,1,1,2019-04-07 17:00:00,Fabian Johnson,Pass
+292810,84,MissedShots,0.9419999694824219,0.4909999847412109,0.4369378387928009,Matthias Ginter,h,315,FromCorner,2018,Head,10584,Borussia M.Gladbach,Werder Bremen,1,1,2019-04-07 17:00:00,Thorgan Hazard,Cross
+292812,88,SavedShot,0.774000015258789,0.3220000076293945,0.02211967296898365,Matthias Ginter,h,315,OpenPlay,2018,RightFoot,10584,Borussia M.Gladbach,Werder Bremen,1,1,2019-04-07 17:00:00,Denis Zakaria,Pass
+292813,91,SavedShot,0.87,0.6719999694824219,0.023801296949386597,Thorgan Hazard,h,213,OpenPlay,2018,RightFoot,10584,Borussia M.Gladbach,Werder Bremen,1,1,2019-04-07 17:00:00,Matthias Ginter,Cross
+292789,14,SavedShot,0.9069999694824219,0.35700000762939454,0.303623229265213,Johannes Eggestein,a,6084,OpenPlay,2018,LeftFoot,10584,Borussia M.Gladbach,Werder Bremen,1,1,2019-04-07 17:00:00,Max Kruse,Pass
+292795,41,BlockedShot,0.8109999847412109,0.7230000305175781,0.02455264702439308,Johannes Eggestein,a,6084,OpenPlay,2018,RightFoot,10584,Borussia M.Gladbach,Werder Bremen,1,1,2019-04-07 17:00:00,Milot Rashica,Pass
+292796,44,MissedShots,0.8959999847412109,0.5870000076293945,0.07826489955186844,Sebastian Langkamp,a,21,SetPiece,2018,RightFoot,10584,Borussia M.Gladbach,Werder Bremen,1,1,2019-04-07 17:00:00,Nuri Sahin,Chipped
+292799,61,MissedShots,0.7280000305175781,0.4620000076293945,0.018571682274341583,Maximilian Eggestein,a,125,OpenPlay,2018,RightFoot,10584,Borussia M.Gladbach,Werder Bremen,1,1,2019-04-07 17:00:00,Max Kruse,Pass
+292800,64,MissedShots,0.720999984741211,0.505,0.018082262948155403,Milot Rashica,a,6523,OpenPlay,2018,RightFoot,10584,Borussia M.Gladbach,Werder Bremen,1,1,2019-04-07 17:00:00,Niklas Moisander,Pass
+292801,67,SavedShot,0.8019999694824219,0.524000015258789,0.05091201141476631,Max Kruse,a,155,OpenPlay,2018,LeftFoot,10584,Borussia M.Gladbach,Werder Bremen,1,1,2019-04-07 17:00:00,Davy Klaassen,Pass
+292802,68,BlockedShot,0.909000015258789,0.43900001525878907,0.0636654794216156,Niklas Moisander,a,1936,FromCorner,2018,Head,10584,Borussia M.Gladbach,Werder Bremen,1,1,2019-04-07 17:00:00,Milot Rashica,Cross
+292804,70,SavedShot,0.8530000305175781,0.750999984741211,0.04404866322875023,Milot Rashica,a,6523,OpenPlay,2018,RightFoot,10584,Borussia M.Gladbach,Werder Bremen,1,1,2019-04-07 17:00:00,Maximilian Eggestein,Pass
+292805,70,SavedShot,0.8930000305175781,0.38599998474121094,0.300483375787735,Max Kruse,a,155,OpenPlay,2018,Head,10584,Borussia M.Gladbach,Werder Bremen,1,1,2019-04-07 17:00:00,,Rebound
+292808,78,Goal,0.875,0.524000015258789,0.03921721130609512,Davy Klaassen,a,6045,OpenPlay,2018,Head,10584,Borussia M.Gladbach,Werder Bremen,1,1,2019-04-07 17:00:00,Yuya Osako,Chipped
+292809,80,SavedShot,0.8519999694824218,0.35400001525878905,0.05998972803354263,Milot Rashica,a,6523,OpenPlay,2018,RightFoot,10584,Borussia M.Gladbach,Werder Bremen,1,1,2019-04-07 17:00:00,Max Kruse,Pass
+292811,88,BlockedShot,0.8240000152587891,0.539000015258789,0.06220981851220131,Davy Klaassen,a,6045,OpenPlay,2018,RightFoot,10584,Borussia M.Gladbach,Werder Bremen,1,1,2019-04-07 17:00:00,Kevin Möhwald,Pass

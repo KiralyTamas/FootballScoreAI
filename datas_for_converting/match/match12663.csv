@@ -1,0 +1,26 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+363734,10,MissedShots,0.88,0.34599998474121096,0.10057102143764496,Christopher Antwi-Adjei,h,7798,OpenPlay,2019,RightFoot,12663,Paderborn,Borussia Dortmund,1,6,2020-05-31 16:00:00,Dennis Srbeny,Pass
+363735,12,MissedShots,0.8669999694824219,0.3220000076293945,0.0504886768758297,Christopher Antwi-Adjei,h,7798,OpenPlay,2019,RightFoot,12663,Paderborn,Borussia Dortmund,1,6,2020-05-31 16:00:00,Sebastian Vasiliadis,Pass
+363738,28,MissedShots,0.7140000152587891,0.5359999847412109,0.01491723395884037,Gerrit Holtmann,h,5270,OpenPlay,2019,LeftFoot,12663,Paderborn,Borussia Dortmund,1,6,2020-05-31 16:00:00,Mohamed Dräger,Pass
+363740,40,MissedShots,0.875999984741211,0.735999984741211,0.0582025870680809,Christopher Antwi-Adjei,h,7798,OpenPlay,2019,LeftFoot,12663,Paderborn,Borussia Dortmund,1,6,2020-05-31 16:00:00,Gerrit Holtmann,Pass
+363743,47,MissedShots,0.769000015258789,0.7290000152587891,0.01997152902185917,Gerrit Holtmann,h,5270,OpenPlay,2019,LeftFoot,12663,Paderborn,Borussia Dortmund,1,6,2020-05-31 16:00:00,Uwe Hünemeier,Pass
+363749,64,BlockedShot,0.7380000305175781,0.654000015258789,0.047911688685417175,Uwe Hünemeier,h,4258,DirectFreekick,2019,RightFoot,12663,Paderborn,Borussia Dortmund,1,6,2020-05-31 16:00:00,,Standard
+363751,69,BlockedShot,0.9069999694824219,0.3220000076293945,0.03010581061244011,Mohamed Dräger,h,6476,OpenPlay,2019,RightFoot,12663,Paderborn,Borussia Dortmund,1,6,2020-05-31 16:00:00,Sven Michel,Chipped
+363752,71,Goal,0.885,0.5,0.7574514746665955,Uwe Hünemeier,h,4258,Penalty,2019,RightFoot,12663,Paderborn,Borussia Dortmund,1,6,2020-05-31 16:00:00,,Standard
+363754,75,BlockedShot,0.8469999694824218,0.4909999847412109,0.06011421978473663,Sebastian Vasiliadis,h,7797,SetPiece,2019,RightFoot,12663,Paderborn,Borussia Dortmund,1,6,2020-05-31 16:00:00,Christian Strohdiek,HeadPass
+363736,16,SavedShot,0.9330000305175781,0.31,0.2792878746986389,Thorgan Hazard,a,213,OpenPlay,2019,RightFoot,12663,Paderborn,Borussia Dortmund,1,6,2020-05-31 16:00:00,Lukasz Piszczek,Chipped
+363737,25,BlockedShot,0.8619999694824219,0.6,0.33972206711769104,Raphael Guerreiro,a,3455,OpenPlay,2019,LeftFoot,12663,Paderborn,Borussia Dortmund,1,6,2020-05-31 16:00:00,Julian Brandt,Pass
+363739,35,MissedShots,0.9130000305175782,0.5329999923706055,0.08589433878660202,Emre Can,a,604,FromCorner,2019,Head,12663,Paderborn,Borussia Dortmund,1,6,2020-05-31 16:00:00,Thorgan Hazard,Cross
+363741,43,MissedShots,0.8090000152587891,0.6120000076293945,0.0357888825237751,Emre Can,a,604,OpenPlay,2019,RightFoot,12663,Paderborn,Borussia Dortmund,1,6,2020-05-31 16:00:00,Jadon Sancho,Pass
+363742,44,MissedShots,0.8430000305175781,0.5609999847412109,0.08316871523857117,Julian Brandt,a,261,OpenPlay,2019,RightFoot,12663,Paderborn,Borussia Dortmund,1,6,2020-05-31 16:00:00,Achraf Hakimi,Pass
+363744,48,SavedShot,0.865,0.42400001525878905,0.3336459994316101,Achraf Hakimi,a,5197,OpenPlay,2019,RightFoot,12663,Paderborn,Borussia Dortmund,1,6,2020-05-31 16:00:00,Jadon Sancho,Pass
+363745,49,MissedShots,0.9169999694824219,0.45599998474121095,0.0877513736486435,Mats Hummels,a,373,FromCorner,2019,Head,12663,Paderborn,Borussia Dortmund,1,6,2020-05-31 16:00:00,Jadon Sancho,Cross
+363746,51,MissedShots,0.9430000305175781,0.47200000762939454,0.6097158789634705,Thorgan Hazard,a,213,OpenPlay,2019,RightFoot,12663,Paderborn,Borussia Dortmund,1,6,2020-05-31 16:00:00,Jadon Sancho,Pass
+363747,53,Goal,0.9640000152587891,0.5279999923706055,0.6380916833877563,Thorgan Hazard,a,213,OpenPlay,2019,RightFoot,12663,Paderborn,Borussia Dortmund,1,6,2020-05-31 16:00:00,,None
+363748,56,Goal,0.965,0.4779999923706055,0.8300506472587585,Jadon Sancho,a,6345,OpenPlay,2019,RightFoot,12663,Paderborn,Borussia Dortmund,1,6,2020-05-31 16:00:00,Julian Brandt,Pass
+363750,68,SavedShot,0.775,0.5529999923706055,0.042524419724941254,Emre Can,a,604,OpenPlay,2019,RightFoot,12663,Paderborn,Borussia Dortmund,1,6,2020-05-31 16:00:00,Julian Brandt,Pass
+363753,73,Goal,0.855999984741211,0.5729999923706055,0.09840572625398636,Jadon Sancho,a,6345,OpenPlay,2019,LeftFoot,12663,Paderborn,Borussia Dortmund,1,6,2020-05-31 16:00:00,Thorgan Hazard,Pass
+363755,84,Goal,0.8730000305175781,0.3729999923706055,0.10812406241893768,Achraf Hakimi,a,5197,OpenPlay,2019,RightFoot,12663,Paderborn,Borussia Dortmund,1,6,2020-05-31 16:00:00,Marcel Schmelzer,Pass
+363756,87,SavedShot,0.8880000305175781,0.2929999923706055,0.07226529717445374,Giovanni Reyna,a,8191,OpenPlay,2019,RightFoot,12663,Paderborn,Borussia Dortmund,1,6,2020-05-31 16:00:00,Jadon Sancho,Pass
+363757,88,Goal,0.9640000152587891,0.49,0.5560910105705261,Marcel Schmelzer,a,313,FromCorner,2019,RightFoot,12663,Paderborn,Borussia Dortmund,1,6,2020-05-31 16:00:00,Axel Witsel,Cross
+363758,90,Goal,0.8969999694824219,0.41200000762939454,0.2953760623931885,Jadon Sancho,a,6345,OpenPlay,2019,RightFoot,12663,Paderborn,Borussia Dortmund,1,6,2020-05-31 16:00:00,Mateu Morey,Pass

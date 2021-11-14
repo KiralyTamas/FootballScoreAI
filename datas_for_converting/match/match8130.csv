@@ -1,0 +1,25 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+198264,0,MissedShots,0.7480000305175781,0.580999984741211,0.013705638237297535,Sergio Mora,h,6154,SetPiece,2017,RightFoot,8130,Getafe,Deportivo La Coruna,3,0,2018-02-28 18:30:00,,None
+198265,6,MissedShots,0.9169999694824219,0.6430000305175781,0.0187913179397583,Jorge Molina,h,2155,FromCorner,2017,Head,8130,Getafe,Deportivo La Coruna,3,0,2018-02-28 18:30:00,Vitorino Antunes,Cross
+198266,10,BlockedShot,0.695,0.5029999923706054,0.013736776076257229,Mauro Arambarri,h,3264,OpenPlay,2017,RightFoot,8130,Getafe,Deportivo La Coruna,3,0,2018-02-28 18:30:00,Jorge Molina,Pass
+198267,18,SavedShot,0.735,0.6430000305175781,0.020533587783575058,Ángel,h,4136,OpenPlay,2017,RightFoot,8130,Getafe,Deportivo La Coruna,3,0,2018-02-28 18:30:00,Amath Diedhiou,Pass
+198268,24,MissedShots,0.7559999847412109,0.7280000305175781,0.018419239670038223,Sergio Mora,h,6154,OpenPlay,2017,RightFoot,8130,Getafe,Deportivo La Coruna,3,0,2018-02-28 18:30:00,,TakeOn
+198270,39,BlockedShot,0.9419999694824219,0.34200000762939453,0.10776299983263016,Amath Diedhiou,h,2532,OpenPlay,2017,RightFoot,8130,Getafe,Deportivo La Coruna,3,0,2018-02-28 18:30:00,Francisco Portillo,Throughball
+198271,39,Goal,0.995,0.5070000076293946,0.973183810710907,Ángel,h,4136,OpenPlay,2017,RightFoot,8130,Getafe,Deportivo La Coruna,3,0,2018-02-28 18:30:00,Amath Diedhiou,Rebound
+198275,52,BlockedShot,0.945,0.455,0.05812901258468628,Jorge Molina,h,2155,FromCorner,2017,Head,8130,Getafe,Deportivo La Coruna,3,0,2018-02-28 18:30:00,Damián Suárez,ShieldBallOpp
+198276,52,MissedShots,0.9,0.5879999923706055,0.04662672057747841,Jorge Molina,h,2155,FromCorner,2017,Head,8130,Getafe,Deportivo La Coruna,3,0,2018-02-28 18:30:00,Sergio Mora,Cross
+198277,52,SavedShot,0.7719999694824219,0.40599998474121096,0.046803250908851624,Amath Diedhiou,h,2532,OpenPlay,2017,RightFoot,8130,Getafe,Deportivo La Coruna,3,0,2018-02-28 18:30:00,Sergio Mora,Pass
+198279,66,MissedShots,0.784000015258789,0.6329999923706054,0.08573528379201889,Amath Diedhiou,h,2532,OpenPlay,2017,RightFoot,8130,Getafe,Deportivo La Coruna,3,0,2018-02-28 18:30:00,Jorge Molina,Pass
+198283,81,Goal,0.9180000305175782,0.6569999694824219,0.38905391097068787,Jorge Molina,h,2155,OpenPlay,2017,RightFoot,8130,Getafe,Deportivo La Coruna,3,0,2018-02-28 18:30:00,,None
+198286,87,SavedShot,0.9,0.49900001525878906,0.2433374524116516,Loïc Remy,h,690,SetPiece,2017,Head,8130,Getafe,Deportivo La Coruna,3,0,2018-02-28 18:30:00,Vitorino Antunes,Cross
+198287,91,MissedShots,0.784000015258789,0.6990000152587891,0.019726958125829697,Vitorino Antunes,h,4183,OpenPlay,2017,LeftFoot,8130,Getafe,Deportivo La Coruna,3,0,2018-02-28 18:30:00,,None
+198269,26,MissedShots,0.89,0.5520000076293945,0.07322930544614792,Adrián,a,2305,OpenPlay,2017,Head,8130,Getafe,Deportivo La Coruna,3,0,2018-02-28 18:30:00,Luisinho,Cross
+198272,43,OwnGoal,0.085,0.595999984741211,0,Eneko Bóveda,a,2393,OpenPlay,2017,LeftFoot,8130,Getafe,Deportivo La Coruna,3,0,2018-02-28 18:30:00,,TakeOn
+198273,45,MissedShots,0.78,0.33299999237060546,0.011944947764277458,Michael Krohn-Dehli,a,2443,OpenPlay,2017,LeftFoot,8130,Getafe,Deportivo La Coruna,3,0,2018-02-28 18:30:00,,Aerial
+198274,50,MissedShots,0.6709999847412109,0.634000015258789,0.00646789837628603,Luisinho,a,2500,OpenPlay,2017,LeftFoot,8130,Getafe,Deportivo La Coruna,3,0,2018-02-28 18:30:00,,None
+198278,65,BlockedShot,0.77,0.6359999847412109,0.02204395830631256,Luisinho,a,2500,FromCorner,2017,LeftFoot,8130,Getafe,Deportivo La Coruna,3,0,2018-02-28 18:30:00,,BallTouch
+198280,70,MissedShots,0.925,0.37,0.04819639027118683,Fabian Schär,a,76,FromCorner,2017,LeftFoot,8130,Getafe,Deportivo La Coruna,3,0,2018-02-28 18:30:00,Adrián,HeadPass
+198281,77,MissedShots,0.9080000305175782,0.5720000076293945,0.09075876325368881,Florin Andone,a,4068,OpenPlay,2017,Head,8130,Getafe,Deportivo La Coruna,3,0,2018-02-28 18:30:00,Adrián,Cross
+198282,79,SavedShot,0.775,0.7230000305175781,0.01518256962299347,Luisinho,a,2500,OpenPlay,2017,LeftFoot,8130,Getafe,Deportivo La Coruna,3,0,2018-02-28 18:30:00,Fede Cartabia,Pass
+198284,83,MissedShots,0.9169999694824219,0.6790000152587891,0.044111479073762894,Lucas Pérez,a,1700,OpenPlay,2017,LeftFoot,8130,Getafe,Deportivo La Coruna,3,0,2018-02-28 18:30:00,Celso Borges,Chipped
+198285,85,MissedShots,0.7830000305175782,0.255,0.013845803216099739,Lucas Pérez,a,1700,OpenPlay,2017,LeftFoot,8130,Getafe,Deportivo La Coruna,3,0,2018-02-28 18:30:00,Juanfran,Pass

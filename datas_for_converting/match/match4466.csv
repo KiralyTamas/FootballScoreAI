@@ -1,0 +1,29 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+21123,9,BlockedShot,0.784000015258789,0.7169999694824218,0.015447812154889107,Aleksandar Kolarov,h,621,OpenPlay,2014,LeftFoot,4466,Manchester City,West Ham,2,0,2015-04-19 13:30:00,,None
+21124,10,BlockedShot,0.745,0.4759999847412109,0.02027055434882641,David Silva,h,617,OpenPlay,2014,LeftFoot,4466,Manchester City,West Ham,2,0,2015-04-19 13:30:00,Fernando,Pass
+21125,11,SavedShot,0.88,0.385,0.08721564710140228,Sergio Agüero,h,619,OpenPlay,2014,RightFoot,4466,Manchester City,West Ham,2,0,2015-04-19 13:30:00,Jesús Navas,Pass
+21126,15,BlockedShot,0.765,0.4209999847412109,0.07185669243335724,Aleksandar Kolarov,h,621,DirectFreekick,2014,LeftFoot,4466,Manchester City,West Ham,2,0,2015-04-19 13:30:00,,Standard
+21127,16,MissedShots,0.8480000305175781,0.5479999923706055,0.057284802198410034,Sergio Agüero,h,619,FromCorner,2014,RightFoot,4466,Manchester City,West Ham,2,0,2015-04-19 13:30:00,,None
+21129,26,BlockedShot,0.909000015258789,0.5770000076293945,0.11143685132265091,David Silva,h,617,OpenPlay,2014,RightFoot,4466,Manchester City,West Ham,2,0,2015-04-19 13:30:00,Jesús Navas,Cross
+21133,30,MissedShots,0.8730000305175781,0.45599998474121095,0.03950128331780434,David Silva,h,617,OpenPlay,2014,Head,4466,Manchester City,West Ham,2,0,2015-04-19 13:30:00,Sergio Agüero,Cross
+21134,35,Goal,0.909000015258789,0.4370000076293945,0.5958654284477234,Sergio Agüero,h,619,OpenPlay,2014,RightFoot,4466,Manchester City,West Ham,2,0,2015-04-19 13:30:00,Jesús Navas,Pass
+21135,48,BlockedShot,0.9230000305175782,0.6270000076293946,0.33970770239830017,Sergio Agüero,h,619,OpenPlay,2014,RightFoot,4466,Manchester City,West Ham,2,0,2015-04-19 13:30:00,Yaya Touré,Pass
+21136,54,MissedShots,0.9069999694824219,0.37,0.1097850427031517,Sergio Agüero,h,619,OpenPlay,2014,RightFoot,4466,Manchester City,West Ham,2,0,2015-04-19 13:30:00,Jesús Navas,Cross
+21137,55,MissedShots,0.9359999847412109,0.72,0.07052721828222275,Aleksandar Kolarov,h,621,OpenPlay,2014,LeftFoot,4466,Manchester City,West Ham,2,0,2015-04-19 13:30:00,David Silva,Pass
+21138,61,MissedShots,0.894000015258789,0.34200000762939453,0.040256425738334656,David Silva,h,617,FromCorner,2014,LeftFoot,4466,Manchester City,West Ham,2,0,2015-04-19 13:30:00,Jesús Navas,Pass
+21140,76,BlockedShot,0.8480000305175781,0.43400001525878906,0.09927535057067871,Yaya Touré,h,878,OpenPlay,2014,RightFoot,4466,Manchester City,West Ham,2,0,2015-04-19 13:30:00,Frank Lampard,LayOff
+21142,82,BlockedShot,0.925,0.24899999618530275,0.04974551498889923,Yaya Touré,h,878,OpenPlay,2014,RightFoot,4466,Manchester City,West Ham,2,0,2015-04-19 13:30:00,Jesús Navas,Pass
+21143,83,MissedShots,0.9119999694824219,0.28299999237060547,0.07419443875551224,Yaya Touré,h,878,OpenPlay,2014,RightFoot,4466,Manchester City,West Ham,2,0,2015-04-19 13:30:00,Jesús Navas,Pass
+21147,89,MissedShots,0.835999984741211,0.41700000762939454,0.12084328383207321,Yaya Touré,h,878,OpenPlay,2014,LeftFoot,4466,Manchester City,West Ham,2,0,2015-04-19 13:30:00,Samir Nasri,Pass
+21148,93,SavedShot,0.8809999847412109,0.6969999694824218,0.10201519727706909,Edin Dzeko,h,1253,OpenPlay,2014,LeftFoot,4466,Manchester City,West Ham,2,0,2015-04-19 13:30:00,Yaya Touré,Pass
+21150,98,BlockedShot,0.8009999847412109,0.40299999237060546,0.04615108296275139,Yaya Touré,h,878,OpenPlay,2014,RightFoot,4466,Manchester City,West Ham,2,0,2015-04-19 13:30:00,Jesús Navas,Pass
+21128,17,OwnGoal,0.14,0.6120000076293945,0,James Collins,a,655,OpenPlay,2014,LeftFoot,4466,Manchester City,West Ham,2,0,2015-04-19 13:30:00,,None
+21130,27,SavedShot,0.9019999694824219,0.7569999694824219,0.028427911922335625,Carlton Cole,a,4383,OpenPlay,2014,LeftFoot,4466,Manchester City,West Ham,2,0,2015-04-19 13:30:00,Enner Valencia,BallRecovery
+21131,29,BlockedShot,0.7830000305175782,0.735999984741211,0.019729049876332283,Enner Valencia,a,539,SetPiece,2014,RightFoot,4466,Manchester City,West Ham,2,0,2015-04-19 13:30:00,Alexandre Song,Pass
+21132,29,SavedShot,0.7559999847412109,0.4329999923706055,0.02462809905409813,Enner Valencia,a,539,OpenPlay,2014,RightFoot,4466,Manchester City,West Ham,2,0,2015-04-19 13:30:00,Alexandre Song,Pass
+21139,62,MissedShots,0.8819999694824219,0.7019999694824218,0.007018832955509424,Carlton Cole,a,4383,OpenPlay,2014,Head,4466,Manchester City,West Ham,2,0,2015-04-19 13:30:00,Stewart Downing,Cross
+21141,78,BlockedShot,0.8480000305175781,0.43900001525878907,0.08675327152013779,Stewart Downing,a,1712,OpenPlay,2014,RightFoot,4466,Manchester City,West Ham,2,0,2015-04-19 13:30:00,Matthew Jarvis,Pass
+21144,86,MissedShots,0.9480000305175781,0.5879999923706055,0.2819610834121704,Enner Valencia,a,539,OpenPlay,2014,LeftFoot,4466,Manchester City,West Ham,2,0,2015-04-19 13:30:00,Aaron Cresswell,TakeOn
+21145,88,SavedShot,0.855,0.649000015258789,0.2460939586162567,Kevin Nolan,a,1028,OpenPlay,2014,RightFoot,4466,Manchester City,West Ham,2,0,2015-04-19 13:30:00,,None
+21146,88,BlockedShot,0.8859999847412109,0.27899999618530275,0.020324144512414932,Enner Valencia,a,539,OpenPlay,2014,RightFoot,4466,Manchester City,West Ham,2,0,2015-04-19 13:30:00,,Rebound
+21149,94,MissedShots,0.870999984741211,0.720999984741211,0.028170406818389893,Kevin Nolan,a,1028,SetPiece,2014,RightFoot,4466,Manchester City,West Ham,2,0,2015-04-19 13:30:00,,None

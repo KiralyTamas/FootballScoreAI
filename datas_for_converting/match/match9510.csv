@@ -1,0 +1,27 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+288233,3,MissedShots,0.8030000305175782,0.355,0.03311547636985779,Mohamed Salah,h,1250,OpenPlay,2018,LeftFoot,9510,Liverpool,Tottenham,2,1,2019-03-31 15:30:00,Sadio Mané,Pass
+288236,15,Goal,0.9219999694824219,0.5070000076293946,0.35757991671562195,Roberto Firmino,h,482,OpenPlay,2018,Head,9510,Liverpool,Tottenham,2,1,2019-03-31 15:30:00,Andrew Robertson,Cross
+288237,17,MissedShots,0.77,0.30700000762939456,0.023345785215497017,Trent Alexander-Arnold,h,1791,OpenPlay,2018,RightFoot,9510,Liverpool,Tottenham,2,1,2019-03-31 15:30:00,,None
+288238,19,MissedShots,0.8169999694824219,0.5329999923706055,0.07887472212314606,Sadio Mané,h,838,OpenPlay,2018,RightFoot,9510,Liverpool,Tottenham,2,1,2019-03-31 15:30:00,Georginio Wijnaldum,Pass
+288241,36,MissedShots,0.8090000152587891,0.59,0.05956375598907471,Sadio Mané,h,838,OpenPlay,2018,RightFoot,9510,Liverpool,Tottenham,2,1,2019-03-31 15:30:00,Roberto Firmino,Pass
+288244,48,MissedShots,0.95,0.5690000152587891,0.1106901541352272,Virgil van Dijk,h,833,FromCorner,2018,Head,9510,Liverpool,Tottenham,2,1,2019-03-31 15:30:00,James Milner,Cross
+288245,53,MissedShots,0.905,0.5279999923706055,0.05665664002299309,Roberto Firmino,h,482,OpenPlay,2018,Head,9510,Liverpool,Tottenham,2,1,2019-03-31 15:30:00,James Milner,Aerial
+288248,58,BlockedShot,0.8469999694824218,0.5220000076293946,0.12222795933485031,Mohamed Salah,h,1250,OpenPlay,2018,LeftFoot,9510,Liverpool,Tottenham,2,1,2019-03-31 15:30:00,Roberto Firmino,Pass
+288249,58,BlockedShot,0.78,0.4779999923706055,0.03980061411857605,Jordan Henderson,h,605,OpenPlay,2018,RightFoot,9510,Liverpool,Tottenham,2,1,2019-03-31 15:30:00,Roberto Firmino,Pass
+288250,68,MissedShots,0.7680000305175781,0.38299999237060545,0.030186567455530167,Mohamed Salah,h,1250,OpenPlay,2018,LeftFoot,9510,Liverpool,Tottenham,2,1,2019-03-31 15:30:00,Trent Alexander-Arnold,Pass
+288252,71,MissedShots,0.92,0.4490000152587891,0.05773027986288071,Mohamed Salah,h,1250,OpenPlay,2018,Head,9510,Liverpool,Tottenham,2,1,2019-03-31 15:30:00,Georginio Wijnaldum,Aerial
+288253,75,SavedShot,0.875,0.23700000762939452,0.019635355100035667,Trent Alexander-Arnold,h,1791,OpenPlay,2018,LeftFoot,9510,Liverpool,Tottenham,2,1,2019-03-31 15:30:00,James Milner,TakeOn
+288254,80,BlockedShot,0.74,0.519000015258789,0.057658471167087555,Divock Origi,h,484,DirectFreekick,2018,RightFoot,9510,Liverpool,Tottenham,2,1,2019-03-31 15:30:00,,Standard
+288257,89,SavedShot,0.9630000305175781,0.39099998474121095,0.046032700687646866,Mohamed Salah,h,1250,FromCorner,2018,Head,9510,Liverpool,Tottenham,2,1,2019-03-31 15:30:00,Trent Alexander-Arnold,Cross
+288234,6,MissedShots,0.82,0.720999984741211,0.020543178543448448,Lucas Moura,a,3293,FromCorner,2018,RightFoot,9510,Liverpool,Tottenham,2,1,2019-03-31 15:30:00,Kieran Trippier,Pass
+288235,10,MissedShots,0.7440000152587891,0.49700000762939456,0.01718718372285366,Moussa Sissoko,a,772,OpenPlay,2018,LeftFoot,9510,Liverpool,Tottenham,2,1,2019-03-31 15:30:00,Lucas Moura,Pass
+288239,32,MissedShots,0.7719999694824219,0.629000015258789,0.023828420788049698,Dele Alli,a,645,OpenPlay,2018,RightFoot,9510,Liverpool,Tottenham,2,1,2019-03-31 15:30:00,Christian Eriksen,Pass
+288240,33,BlockedShot,0.8719999694824219,0.33799999237060546,0.0478658452630043,Harry Kane,a,647,OpenPlay,2018,RightFoot,9510,Liverpool,Tottenham,2,1,2019-03-31 15:30:00,Christian Eriksen,BallRecovery
+288242,39,MissedShots,0.795,0.39799999237060546,0.031069695949554443,Lucas Moura,a,3293,OpenPlay,2018,RightFoot,9510,Liverpool,Tottenham,2,1,2019-03-31 15:30:00,Christian Eriksen,Pass
+288243,46,MissedShots,0.769000015258789,0.3089999961853027,0.020083848387002945,Christian Eriksen,a,646,OpenPlay,2018,RightFoot,9510,Liverpool,Tottenham,2,1,2019-03-31 15:30:00,Moussa Sissoko,Pass
+288246,55,SavedShot,0.8830000305175781,0.6930000305175781,0.042127836495637894,Harry Kane,a,647,OpenPlay,2018,LeftFoot,9510,Liverpool,Tottenham,2,1,2019-03-31 15:30:00,,None
+288247,55,BlockedShot,0.8780000305175781,0.46299999237060546,0.08111238479614258,Christian Eriksen,a,646,OpenPlay,2018,RightFoot,9510,Liverpool,Tottenham,2,1,2019-03-31 15:30:00,,Rebound
+288251,69,Goal,0.9359999847412109,0.49900001525878906,0.6031452417373657,Lucas Moura,a,3293,SetPiece,2018,RightFoot,9510,Liverpool,Tottenham,2,1,2019-03-31 15:30:00,Christian Eriksen,Pass
+288255,84,MissedShots,0.8569999694824219,0.575999984741211,0.12142864614725113,Moussa Sissoko,a,772,OpenPlay,2018,LeftFoot,9510,Liverpool,Tottenham,2,1,2019-03-31 15:30:00,Son Heung-Min,Pass
+288256,87,MissedShots,0.860999984741211,0.6969999694824218,0.043246570974588394,Dele Alli,a,645,OpenPlay,2018,RightFoot,9510,Liverpool,Tottenham,2,1,2019-03-31 15:30:00,Christian Eriksen,Chipped
+288258,89,OwnGoal,0.025,0.5270000076293946,0,Toby Alderweireld,a,639,FromCorner,2018,RightFoot,9510,Liverpool,Tottenham,2,1,2019-03-31 15:30:00,,Save

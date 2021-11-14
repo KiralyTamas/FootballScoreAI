@@ -1,0 +1,23 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+424100,5,MissedShots,0.8640000152587891,0.355,0.015078669413924217,George Baldock,h,7706,OpenPlay,2020,Head,14812,Sheffield United,Burnley,1,0,2021-05-23 15:00:00,,Aerial
+424105,14,MissedShots,0.965999984741211,0.6020000076293945,0.08096837997436523,David McGoldrick,h,7711,OpenPlay,2020,LeftFoot,14812,Sheffield United,Burnley,1,0,2021-05-23 15:00:00,George Baldock,Cross
+424106,23,Goal,0.7240000152587891,0.5670000076293945,0.020060213282704353,David McGoldrick,h,7711,OpenPlay,2020,RightFoot,14812,Sheffield United,Burnley,1,0,2021-05-23 15:00:00,Enda Stevens,Pass
+424107,26,SavedShot,0.7230000305175781,0.4759999847412109,0.0241007748991251,Ben Osborn,h,7714,OpenPlay,2020,LeftFoot,14812,Sheffield United,Burnley,1,0,2021-05-23 15:00:00,Aaron Ramsdale,Pass
+424108,35,BlockedShot,0.855999984741211,0.27600000381469725,0.04703974351286888,David McGoldrick,h,7711,OpenPlay,2020,RightFoot,14812,Sheffield United,Burnley,1,0,2021-05-23 15:00:00,,BallRecovery
+424109,35,ShotOnPost,0.9159999847412109,0.29200000762939454,0.04236947372555733,Chris Basham,h,7704,FromCorner,2020,RightFoot,14812,Sheffield United,Burnley,1,0,2021-05-23 15:00:00,,TakeOn
+424112,51,BlockedShot,0.8530000305175781,0.3029999923706055,0.05449648201465607,David McGoldrick,h,7711,OpenPlay,2020,RightFoot,14812,Sheffield United,Burnley,1,0,2021-05-23 15:00:00,,BallRecovery
+424113,51,MissedShots,0.865,0.5990000152587891,0.011673228815197945,David McGoldrick,h,7711,FromCorner,2020,Head,14812,Sheffield United,Burnley,1,0,2021-05-23 15:00:00,Oliver Norwood,Aerial
+424114,56,MissedShots,0.904000015258789,0.519000015258789,0.024282965809106827,John Egan,h,7703,FromCorner,2020,Head,14812,Sheffield United,Burnley,1,0,2021-05-23 15:00:00,Oliver Norwood,Aerial
+424116,59,MissedShots,0.76,0.6409999847412109,0.025339825078845024,Jack Robinson,h,8286,OpenPlay,2020,LeftFoot,14812,Sheffield United,Burnley,1,0,2021-05-23 15:00:00,Oliver Norwood,Pass
+424119,85,SavedShot,0.8059999847412109,0.47299999237060547,0.06616532802581787,Rhian Brewster,h,5569,OpenPlay,2020,RightFoot,14812,Sheffield United,Burnley,1,0,2021-05-23 15:00:00,David McGoldrick,Pass
+424120,88,MissedShots,0.9019999694824219,0.6519999694824219,0.008430561050772667,David McGoldrick,h,7711,SetPiece,2020,Head,14812,Sheffield United,Burnley,1,0,2021-05-23 15:00:00,Oliver Norwood,Aerial
+424099,2,SavedShot,0.8009999847412109,0.27399999618530274,0.01752336695790291,Johann Berg Gudmundsson,a,1663,OpenPlay,2020,LeftFoot,14812,Sheffield United,Burnley,1,0,2021-05-23 15:00:00,,None
+424101,8,BlockedShot,0.9569999694824218,0.4329999923706055,0.058126308023929596,Chris Wood,a,4456,FromCorner,2020,Head,14812,Sheffield United,Burnley,1,0,2021-05-23 15:00:00,Dwight McNeil,Aerial
+424102,9,SavedShot,0.84,0.23899999618530274,0.021520590409636497,Dwight McNeil,a,6756,OpenPlay,2020,LeftFoot,14812,Sheffield United,Burnley,1,0,2021-05-23 15:00:00,,None
+424103,10,MissedShots,0.9019999694824219,0.39799999237060546,0.07630160450935364,Jimmy Dunne,a,8481,FromCorner,2020,RightFoot,14812,Sheffield United,Burnley,1,0,2021-05-23 15:00:00,,None
+424104,10,BlockedShot,0.795,0.40799999237060547,0.024909833446145058,Jimmy Dunne,a,8481,FromCorner,2020,LeftFoot,14812,Sheffield United,Burnley,1,0,2021-05-23 15:00:00,Josh Brownhill,BallTouch
+424110,43,SavedShot,0.82,0.40400001525878904,0.05231071263551712,Dwight McNeil,a,6756,OpenPlay,2020,LeftFoot,14812,Sheffield United,Burnley,1,0,2021-05-23 15:00:00,Jack Cork,Pass
+424111,47,BlockedShot,0.924000015258789,0.35200000762939454,0.011174844577908516,Jimmy Dunne,a,8481,FromCorner,2020,Head,14812,Sheffield United,Burnley,1,0,2021-05-23 15:00:00,Ashley Westwood,Aerial
+424115,57,MissedShots,0.960999984741211,0.4159999847412109,0.08434498310089111,Jimmy Dunne,a,8481,FromCorner,2020,Head,14812,Sheffield United,Burnley,1,0,2021-05-23 15:00:00,Ashley Westwood,Cross
+424117,61,MissedShots,0.9530000305175781,0.5279999923706055,0.08654111623764038,James Tarkowski,a,1665,SetPiece,2020,Head,14812,Sheffield United,Burnley,1,0,2021-05-23 15:00:00,Ashley Westwood,Aerial
+424118,77,BlockedShot,0.9630000305175781,0.49700000762939456,0.12575483322143555,Jay Rodriguez,a,844,FromCorner,2020,Head,14812,Sheffield United,Burnley,1,0,2021-05-23 15:00:00,Jack Cork,Aerial

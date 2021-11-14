@@ -1,0 +1,33 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+168445,12,MissedShots,0.865,0.5609999847412109,0.3320172131061554,Raffael,h,210,OpenPlay,2017,LeftFoot,8371,Borussia M.Gladbach,Bayern Munich,2,1,2017-11-25 17:30:00,Lars Stindl,Pass
+168447,19,MissedShots,0.795,0.345,0.025936396792531013,Raffael,h,210,OpenPlay,2017,LeftFoot,8371,Borussia M.Gladbach,Bayern Munich,2,1,2017-11-25 17:30:00,,None
+168451,38,Goal,0.885,0.5,0.757696270942688,Thorgan Hazard,h,213,Penalty,2017,RightFoot,8371,Borussia M.Gladbach,Bayern Munich,2,1,2017-11-25 17:30:00,,Standard
+168454,43,BlockedShot,0.8730000305175781,0.710999984741211,0.07033069431781769,Lars Stindl,h,208,OpenPlay,2017,LeftFoot,8371,Borussia M.Gladbach,Bayern Munich,2,1,2017-11-25 17:30:00,Thorgan Hazard,TakeOn
+168455,43,Goal,0.965,0.46,0.657382607460022,Matthias Ginter,h,315,OpenPlay,2017,RightFoot,8371,Borussia M.Gladbach,Bayern Munich,2,1,2017-11-25 17:30:00,,Rebound
+168461,53,MissedShots,0.7769999694824219,0.629000015258789,0.019197043031454086,Patrick Herrmann,h,420,FromCorner,2017,LeftFoot,8371,Borussia M.Gladbach,Bayern Munich,2,1,2017-11-25 17:30:00,,None
+168472,91,MissedShots,0.8730000305175781,0.295,0.3115835189819336,Josip Drmic,h,209,OpenPlay,2017,RightFoot,8371,Borussia M.Gladbach,Bayern Munich,2,1,2017-11-25 17:30:00,Lars Stindl,Dispossessed
+168444,11,MissedShots,0.8490000152587891,0.5609999847412109,0.008491504937410355,Javi Martínez,a,225,SetPiece,2017,Head,8371,Borussia M.Gladbach,Bayern Munich,2,1,2017-11-25 17:30:00,Joshua Kimmich,Aerial
+168446,14,MissedShots,0.9280000305175782,0.3820000076293945,0.04846341907978058,Corentin Tolisso,a,3603,SetPiece,2017,Head,8371,Borussia M.Gladbach,Bayern Munich,2,1,2017-11-25 17:30:00,James Rodríguez,Cross
+168448,28,MissedShots,0.8490000152587891,0.635,0.05390636995434761,Arturo Vidal,a,222,OpenPlay,2017,LeftFoot,8371,Borussia M.Gladbach,Bayern Munich,2,1,2017-11-25 17:30:00,,None
+168449,28,SavedShot,0.7869999694824219,0.4370000076293945,0.02709954045712948,Sebastian Rudy,a,90,OpenPlay,2017,RightFoot,8371,Borussia M.Gladbach,Bayern Munich,2,1,2017-11-25 17:30:00,,Rebound
+168450,35,BlockedShot,0.7709999847412109,0.54,0.03194214031100273,Javi Martínez,a,225,OpenPlay,2017,LeftFoot,8371,Borussia M.Gladbach,Bayern Munich,2,1,2017-11-25 17:30:00,,Tackle
+168452,41,ShotOnPost,0.9580000305175781,0.5459999847412109,0.08955461531877518,Robert Lewandowski,a,227,OpenPlay,2017,RightFoot,8371,Borussia M.Gladbach,Bayern Munich,2,1,2017-11-25 17:30:00,Corentin Tolisso,GoodSkill
+168453,42,SavedShot,0.919000015258789,0.5659999847412109,0.034610725939273834,Robert Lewandowski,a,227,OpenPlay,2017,Head,8371,Borussia M.Gladbach,Bayern Munich,2,1,2017-11-25 17:30:00,Arturo Vidal,Aerial
+168456,45,MissedShots,0.779000015258789,0.664000015258789,0.06892473995685577,Robert Lewandowski,a,227,DirectFreekick,2017,RightFoot,8371,Borussia M.Gladbach,Bayern Munich,2,1,2017-11-25 17:30:00,,Standard
+168457,46,BlockedShot,0.835,0.545,0.030271168798208237,Robert Lewandowski,a,227,OpenPlay,2017,RightFoot,8371,Borussia M.Gladbach,Bayern Munich,2,1,2017-11-25 17:30:00,Marco Friedl,Cross
+168458,48,MissedShots,0.755,0.5070000076293946,0.015998179093003273,Sebastian Rudy,a,90,SetPiece,2017,LeftFoot,8371,Borussia M.Gladbach,Bayern Munich,2,1,2017-11-25 17:30:00,,None
+168459,50,SavedShot,0.8830000305175781,0.580999984741211,0.053650982677936554,Arturo Vidal,a,222,OpenPlay,2017,RightFoot,8371,Borussia M.Gladbach,Bayern Munich,2,1,2017-11-25 17:30:00,Kingsley Coman,HeadPass
+168460,51,MissedShots,0.779000015258789,0.32099998474121094,0.01969221793115139,Corentin Tolisso,a,3603,OpenPlay,2017,RightFoot,8371,Borussia M.Gladbach,Bayern Munich,2,1,2017-11-25 17:30:00,Arturo Vidal,Pass
+168462,59,MissedShots,0.8809999847412109,0.5970000076293945,0.010303682647645473,Mats Hummels,a,373,SetPiece,2017,Head,8371,Borussia M.Gladbach,Bayern Munich,2,1,2017-11-25 17:30:00,Joshua Kimmich,Aerial
+168463,61,SavedShot,0.91,0.5370000076293945,0.07851653546094894,Mats Hummels,a,373,FromCorner,2017,Head,8371,Borussia M.Gladbach,Bayern Munich,2,1,2017-11-25 17:30:00,Joshua Kimmich,Cross
+168464,62,MissedShots,0.784000015258789,0.555,0.0363580547273159,Javi Martínez,a,225,OpenPlay,2017,LeftFoot,8371,Borussia M.Gladbach,Bayern Munich,2,1,2017-11-25 17:30:00,Arturo Vidal,Pass
+168465,65,SavedShot,0.8240000152587891,0.28200000762939453,0.02151852659881115,Kingsley Coman,a,226,OpenPlay,2017,RightFoot,8371,Borussia M.Gladbach,Bayern Munich,2,1,2017-11-25 17:30:00,Sebastian Rudy,Pass
+168466,68,BlockedShot,0.7719999694824219,0.43599998474121093,0.029213352128863335,Robert Lewandowski,a,227,OpenPlay,2017,RightFoot,8371,Borussia M.Gladbach,Bayern Munich,2,1,2017-11-25 17:30:00,Niklas Süle,Pass
+168467,70,MissedShots,0.7169999694824218,0.6120000076293945,0.009037691168487072,Javi Martínez,a,225,OpenPlay,2017,RightFoot,8371,Borussia M.Gladbach,Bayern Munich,2,1,2017-11-25 17:30:00,,Aerial
+168468,73,Goal,0.7380000305175781,0.534000015258789,0.012689334340393543,Arturo Vidal,a,222,SetPiece,2017,LeftFoot,8371,Borussia M.Gladbach,Bayern Munich,2,1,2017-11-25 17:30:00,,None
+168469,81,MissedShots,0.879000015258789,0.5629999923706055,0.016948504373431206,Robert Lewandowski,a,227,OpenPlay,2017,Head,8371,Borussia M.Gladbach,Bayern Munich,2,1,2017-11-25 17:30:00,Marco Friedl,Aerial
+168470,84,SavedShot,0.7780000305175782,0.3820000076293945,0.02431044913828373,Robert Lewandowski,a,227,OpenPlay,2017,LeftFoot,8371,Borussia M.Gladbach,Bayern Munich,2,1,2017-11-25 17:30:00,Joshua Kimmich,Pass
+168471,85,BlockedShot,0.7919999694824219,0.5220000076293946,0.03715077415108681,Kingsley Coman,a,226,OpenPlay,2017,RightFoot,8371,Borussia M.Gladbach,Bayern Munich,2,1,2017-11-25 17:30:00,,None
+168473,91,BlockedShot,0.91,0.485,0.049449194222688675,Robert Lewandowski,a,227,OpenPlay,2017,OtherBodyPart,8371,Borussia M.Gladbach,Bayern Munich,2,1,2017-11-25 17:30:00,Kingsley Coman,Aerial
+168474,91,BlockedShot,0.950999984741211,0.5520000076293945,0.06893757730722427,Kwasi Okyere Wriedt,a,6356,OpenPlay,2017,Head,8371,Borussia M.Gladbach,Bayern Munich,2,1,2017-11-25 17:30:00,,Rebound
+168475,92,BlockedShot,0.7669999694824219,0.5,0.027881404384970665,Mats Hummels,a,373,OpenPlay,2017,LeftFoot,8371,Borussia M.Gladbach,Bayern Munich,2,1,2017-11-25 17:30:00,Corentin Tolisso,Pass

@@ -1,0 +1,22 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+207618,0,SavedShot,0.8690000152587891,0.7069999694824218,0.042530279606580734,Adnan Januzaj,h,323,OpenPlay,2017,RightFoot,8186,Real Sociedad,Girona,5,0,2018-04-08 16:30:00,,TakeOn
+207619,9,MissedShots,0.745,0.2539999961853027,0.019561903551220894,Adnan Januzaj,h,323,OpenPlay,2017,LeftFoot,8186,Real Sociedad,Girona,5,0,2018-04-08 16:30:00,Aritz Elustondo,Pass
+207620,10,Goal,0.754000015258789,0.19,0.011636344715952873,Sergio Canales,h,2571,OpenPlay,2017,LeftFoot,8186,Real Sociedad,Girona,5,0,2018-04-08 16:30:00,Aritz Elustondo,Pass
+207621,12,MissedShots,0.789000015258789,0.705,0.030551793053746223,Sergio Canales,h,2571,OpenPlay,2017,LeftFoot,8186,Real Sociedad,Girona,5,0,2018-04-08 16:30:00,,BallRecovery
+207622,16,MissedShots,0.9080000305175782,0.525,0.12894825637340546,Willian José,h,2361,OpenPlay,2017,Head,8186,Real Sociedad,Girona,5,0,2018-04-08 16:30:00,Kévin Rodrigues,Cross
+207623,22,MissedShots,0.975999984741211,0.5209999847412109,0.6476351022720337,Héctor Moreno,h,4059,SetPiece,2017,LeftFoot,8186,Real Sociedad,Girona,5,0,2018-04-08 16:30:00,Adnan Januzaj,Cross
+207626,34,Goal,0.95,0.649000015258789,0.5958007574081421,Adnan Januzaj,h,323,OpenPlay,2017,LeftFoot,8186,Real Sociedad,Girona,5,0,2018-04-08 16:30:00,Rubén Pardo,TakeOn
+207627,42,SavedShot,0.9319999694824219,0.45799999237060546,0.5824851989746094,Mikel Oyarzabal,h,2234,OpenPlay,2017,RightFoot,8186,Real Sociedad,Girona,5,0,2018-04-08 16:30:00,Adnan Januzaj,Pass
+207632,66,MissedShots,0.9269999694824219,0.5609999847412109,0.040924105793237686,Héctor Moreno,h,4059,FromCorner,2017,Head,8186,Real Sociedad,Girona,5,0,2018-04-08 16:30:00,Sergio Canales,Aerial
+207633,70,Goal,0.8819999694824219,0.445,0.5163566470146179,Mikel Oyarzabal,h,2234,OpenPlay,2017,RightFoot,8186,Real Sociedad,Girona,5,0,2018-04-08 16:30:00,David Zurutuza,Throughball
+207635,83,MissedShots,0.769000015258789,0.40200000762939453,0.017175929620862007,David Zurutuza,h,2230,SetPiece,2017,RightFoot,8186,Real Sociedad,Girona,5,0,2018-04-08 16:30:00,,None
+207636,84,Goal,0.9419999694824219,0.35700000762939454,0.4110725224018097,Mikel Oyarzabal,h,2234,OpenPlay,2017,LeftFoot,8186,Real Sociedad,Girona,5,0,2018-04-08 16:30:00,,None
+207637,87,Goal,0.9169999694824219,0.4909999847412109,0.48903796076774597,Juanmi,h,897,OpenPlay,2017,RightFoot,8186,Real Sociedad,Girona,5,0,2018-04-08 16:30:00,David Zurutuza,Chipped
+207624,30,MissedShots,0.924000015258789,0.5279999923706055,0.11261802911758423,Juanpe,a,6121,FromCorner,2017,Head,8186,Real Sociedad,Girona,5,0,2018-04-08 16:30:00,Álex Granell,Cross
+207625,32,BlockedShot,0.785,0.27899999618530275,0.016773266717791557,Pablo Maffeo,a,1003,OpenPlay,2017,RightFoot,8186,Real Sociedad,Girona,5,0,2018-04-08 16:30:00,Pere Pons,BallTouch
+207628,48,MissedShots,0.725,0.38,0.011057465337216854,Álex Granell,a,6116,OpenPlay,2017,LeftFoot,8186,Real Sociedad,Girona,5,0,2018-04-08 16:30:00,Portu,Pass
+207629,55,BlockedShot,0.7019999694824218,0.4779999923706055,0.04402153939008713,Álex Granell,a,6116,DirectFreekick,2017,LeftFoot,8186,Real Sociedad,Girona,5,0,2018-04-08 16:30:00,,Standard
+207630,59,MissedShots,0.8830000305175781,0.4,0.2949265241622925,Cristhian Stuani,a,1709,OpenPlay,2017,RightFoot,8186,Real Sociedad,Girona,5,0,2018-04-08 16:30:00,Pablo Maffeo,Throughball
+207631,63,BlockedShot,0.8619999694824219,0.48400001525878905,0.06643334776163101,Juanpe,a,6121,OpenPlay,2017,LeftFoot,8186,Real Sociedad,Girona,5,0,2018-04-08 16:30:00,,None
+207634,78,BlockedShot,0.799000015258789,0.75,0.01851995848119259,Johan Mojica,a,6242,OpenPlay,2017,LeftFoot,8186,Real Sociedad,Girona,5,0,2018-04-08 16:30:00,Aday Benítez,Pass
+207638,92,BlockedShot,0.8569999694824219,0.7080000305175781,0.028106316924095154,Borja,a,4070,FromCorner,2017,RightFoot,8186,Real Sociedad,Girona,5,0,2018-04-08 16:30:00,,None

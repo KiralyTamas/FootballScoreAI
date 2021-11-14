@@ -1,0 +1,28 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+222577,10,Goal,0.799000015258789,0.37599998474121094,0.08651378005743027,Gregoire Defrel,h,1468,OpenPlay,2018,RightFoot,9604,Sampdoria,Napoli,3,0,2018-09-02 18:30:00,Riccardo Saponara,Chipped
+222578,18,MissedShots,0.8369999694824218,0.5259999847412109,0.09334305673837662,Fabio Quagliarella,h,1230,OpenPlay,2018,RightFoot,9604,Sampdoria,Napoli,3,0,2018-09-02 18:30:00,Nicola Murru,Pass
+222579,20,BlockedShot,0.765,0.48,0.03589152544736862,Riccardo Saponara,h,1313,OpenPlay,2018,RightFoot,9604,Sampdoria,Napoli,3,0,2018-09-02 18:30:00,Edgar Barreto,Pass
+222582,31,Goal,0.9159999847412109,0.56,0.45075055956840515,Gregoire Defrel,h,1468,OpenPlay,2018,LeftFoot,9604,Sampdoria,Napoli,3,0,2018-09-02 18:30:00,Fabio Quagliarella,Pass
+222584,38,MissedShots,0.8580000305175781,0.49900001525878906,0.017556922510266304,Joachim Andersen,h,6314,FromCorner,2018,Head,9604,Sampdoria,Napoli,3,0,2018-09-02 18:30:00,Edgar Barreto,Cross
+222596,74,Goal,0.9,0.4420000076293945,0.07811600714921951,Fabio Quagliarella,h,1230,SetPiece,2018,RightFoot,9604,Sampdoria,Napoli,3,0,2018-09-02 18:30:00,Bartosz Bereszynski,Cross
+222597,77,MissedShots,0.7290000152587891,0.705,0.009020115248858929,Jacopo Sala,h,1221,SetPiece,2018,RightFoot,9604,Sampdoria,Napoli,3,0,2018-09-02 18:30:00,,None
+222599,81,MissedShots,0.7269999694824218,0.5979999923706054,0.02519657276570797,Karol Linetty,h,1226,OpenPlay,2018,RightFoot,9604,Sampdoria,Napoli,3,0,2018-09-02 18:30:00,Gastón Ramírez,Pass
+222601,86,BlockedShot,0.725,0.48900001525878906,0.033301979303359985,Fabio Quagliarella,h,1230,OpenPlay,2018,RightFoot,9604,Sampdoria,Napoli,3,0,2018-09-02 18:30:00,Karol Linetty,Chipped
+222575,0,MissedShots,0.8430000305175781,0.6229999923706054,0.3044876456260681,Lorenzo Insigne,a,1393,OpenPlay,2018,RightFoot,9604,Sampdoria,Napoli,3,0,2018-09-02 18:30:00,Allan,Throughball
+222576,1,BlockedShot,0.855,0.509000015258789,0.058952439576387405,Piotr Zielinski,a,1386,OpenPlay,2018,RightFoot,9604,Sampdoria,Napoli,3,0,2018-09-02 18:30:00,Simone Verdi,Chipped
+222580,22,MissedShots,0.7340000152587891,0.519000015258789,0.05415778234601021,Lorenzo Insigne,a,1393,DirectFreekick,2018,RightFoot,9604,Sampdoria,Napoli,3,0,2018-09-02 18:30:00,,Standard
+222581,25,SavedShot,0.8030000305175782,0.555,0.0476052463054657,Arkadiusz Milik,a,1583,OpenPlay,2018,LeftFoot,9604,Sampdoria,Napoli,3,0,2018-09-02 18:30:00,Mário Rui,Pass
+222583,33,SavedShot,0.685,0.5659999847412109,0.008325033821165562,Lorenzo Insigne,a,1393,OpenPlay,2018,RightFoot,9604,Sampdoria,Napoli,3,0,2018-09-02 18:30:00,,Dispossessed
+222585,43,BlockedShot,0.7809999847412109,0.6079999923706054,0.027108585461974144,Piotr Zielinski,a,1386,OpenPlay,2018,RightFoot,9604,Sampdoria,Napoli,3,0,2018-09-02 18:30:00,Lorenzo Insigne,BallTouch
+222586,46,BlockedShot,0.8419999694824218,0.22299999237060547,0.016907479614019394,Simone Verdi,a,1445,OpenPlay,2018,LeftFoot,9604,Sampdoria,Napoli,3,0,2018-09-02 18:30:00,,Dispossessed
+222587,49,SavedShot,0.855,0.524000015258789,0.016357723623514175,Arkadiusz Milik,a,1583,OpenPlay,2018,Head,9604,Sampdoria,Napoli,3,0,2018-09-02 18:30:00,Piotr Zielinski,Cross
+222588,50,MissedShots,0.8119999694824219,0.7280000305175781,0.02199222519993782,Allan,a,1379,FromCorner,2018,RightFoot,9604,Sampdoria,Napoli,3,0,2018-09-02 18:30:00,Dries Mertens,Pass
+222589,52,BlockedShot,0.9069999694824219,0.35200000762939454,0.07862015813589096,Arkadiusz Milik,a,1583,OpenPlay,2018,LeftFoot,9604,Sampdoria,Napoli,3,0,2018-09-02 18:30:00,Adam Ounas,Pass
+222590,52,BlockedShot,0.8109999847412109,0.44099998474121094,0.027706464752554893,Adam Ounas,a,3259,OpenPlay,2018,LeftFoot,9604,Sampdoria,Napoli,3,0,2018-09-02 18:30:00,,Rebound
+222591,52,MissedShots,0.9019999694824219,0.745999984741211,0.038134075701236725,Dries Mertens,a,1384,OpenPlay,2018,RightFoot,9604,Sampdoria,Napoli,3,0,2018-09-02 18:30:00,Amadou Diawara,Pass
+222592,55,SavedShot,0.889000015258789,0.6769999694824219,0.05385943129658699,Dries Mertens,a,1384,OpenPlay,2018,LeftFoot,9604,Sampdoria,Napoli,3,0,2018-09-02 18:30:00,,BallRecovery
+222593,57,BlockedShot,0.870999984741211,0.5359999847412109,0.057871222496032715,Piotr Zielinski,a,1386,OpenPlay,2018,RightFoot,9604,Sampdoria,Napoli,3,0,2018-09-02 18:30:00,Arkadiusz Milik,Cross
+222594,62,BlockedShot,0.7369999694824219,0.56,0.013014745898544788,Amadou Diawara,a,1380,OpenPlay,2018,LeftFoot,9604,Sampdoria,Napoli,3,0,2018-09-02 18:30:00,Dries Mertens,Interception
+222595,64,MissedShots,0.6619999694824219,0.8730000305175781,0.005762790329754353,Piotr Zielinski,a,1386,OpenPlay,2018,LeftFoot,9604,Sampdoria,Napoli,3,0,2018-09-02 18:30:00,,Foul
+222598,79,MissedShots,0.755,0.4229999923706055,0.020727964118123055,Arkadiusz Milik,a,1583,OpenPlay,2018,RightFoot,9604,Sampdoria,Napoli,3,0,2018-09-02 18:30:00,Dries Mertens,Pass
+222600,84,MissedShots,0.9280000305175782,0.40900001525878904,0.2674042880535126,Dries Mertens,a,1384,OpenPlay,2018,LeftFoot,9604,Sampdoria,Napoli,3,0,2018-09-02 18:30:00,Arkadiusz Milik,Cross

@@ -1,0 +1,26 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+204704,2,MissedShots,0.9590000152587891,0.40400001525878904,0.06486956775188446,Ángel Correa,h,2275,FromCorner,2017,RightFoot,8174,Atletico Madrid,Deportivo La Coruna,1,0,2018-04-01 19:45:00,Thomas Partey,Cross
+204705,9,MissedShots,0.6880000305175781,0.34900001525878904,0.01601511240005493,Koke,h,2269,OpenPlay,2017,RightFoot,8174,Atletico Madrid,Deportivo La Coruna,1,0,2018-04-01 19:45:00,Ángel Correa,Pass
+204706,12,BlockedShot,0.879000015258789,0.315,0.041358817368745804,Kevin Gameiro,h,2442,OpenPlay,2017,RightFoot,8174,Atletico Madrid,Deportivo La Coruna,1,0,2018-04-01 19:45:00,Koke,Chipped
+204707,16,BlockedShot,0.7440000152587891,0.595999984741211,0.02324393019080162,Kevin Gameiro,h,2442,OpenPlay,2017,RightFoot,8174,Atletico Madrid,Deportivo La Coruna,1,0,2018-04-01 19:45:00,Thomas Partey,Pass
+204708,17,BlockedShot,0.9519999694824218,0.48200000762939454,0.10472021996974945,Lucas Hernández,h,2276,FromCorner,2017,Head,8174,Atletico Madrid,Deportivo La Coruna,1,0,2018-04-01 19:45:00,Diego Godín,HeadPass
+204710,20,SavedShot,0.8,0.5329999923706055,0.04763128235936165,Ángel Correa,h,2275,OpenPlay,2017,LeftFoot,8174,Atletico Madrid,Deportivo La Coruna,1,0,2018-04-01 19:45:00,Saúl Ñíguez,Pass
+204715,33,Goal,0.885,0.5,0.7432776093482971,Kevin Gameiro,h,2442,Penalty,2017,RightFoot,8174,Atletico Madrid,Deportivo La Coruna,1,0,2018-04-01 19:45:00,,Standard
+204718,47,MissedShots,0.899000015258789,0.40599998474121096,0.027237804606556892,Saúl Ñíguez,h,2266,OpenPlay,2017,Head,8174,Atletico Madrid,Deportivo La Coruna,1,0,2018-04-01 19:45:00,Lucas Hernández,Aerial
+204719,49,MissedShots,0.779000015258789,0.27399999618530274,0.024578822776675224,Carlos Isaac,h,6659,OpenPlay,2017,RightFoot,8174,Atletico Madrid,Deportivo La Coruna,1,0,2018-04-01 19:45:00,Thomas Partey,Pass
+204720,49,BlockedShot,0.740999984741211,0.40400001525878904,0.025597164407372475,Saúl Ñíguez,h,2266,OpenPlay,2017,LeftFoot,8174,Atletico Madrid,Deportivo La Coruna,1,0,2018-04-01 19:45:00,Gabi,Pass
+204721,53,MissedShots,0.8119999694824219,0.28299999237060547,0.01923855021595955,Thomas Partey,h,2328,FromCorner,2017,RightFoot,8174,Atletico Madrid,Deportivo La Coruna,1,0,2018-04-01 19:45:00,,None
+204722,58,BlockedShot,0.98,0.31,0.07325306534767151,Saúl Ñíguez,h,2266,OpenPlay,2017,RightFoot,8174,Atletico Madrid,Deportivo La Coruna,1,0,2018-04-01 19:45:00,,BallRecovery
+204724,65,MissedShots,0.850999984741211,0.575999984741211,0.09292802959680557,Diego Costa,h,802,OpenPlay,2017,RightFoot,8174,Atletico Madrid,Deportivo La Coruna,1,0,2018-04-01 19:45:00,Koke,Pass
+204726,79,SavedShot,0.755,0.41,0.029487844556570053,Fernando Torres,h,2271,OpenPlay,2017,LeftFoot,8174,Atletico Madrid,Deportivo La Coruna,1,0,2018-04-01 19:45:00,,None
+204728,93,BlockedShot,0.8630000305175781,0.34,0.08294640481472015,Fernando Torres,h,2271,OpenPlay,2017,RightFoot,8174,Atletico Madrid,Deportivo La Coruna,1,0,2018-04-01 19:45:00,Koke,Pass
+204709,19,SavedShot,0.8959999847412109,0.605999984741211,0.07568851113319397,Lucas Pérez,a,1700,OpenPlay,2017,LeftFoot,8174,Atletico Madrid,Deportivo La Coruna,1,0,2018-04-01 19:45:00,,None
+204711,23,MissedShots,0.9530000305175781,0.6990000152587891,0.09411797672510147,Lucas Pérez,a,1700,OpenPlay,2017,LeftFoot,8174,Atletico Madrid,Deportivo La Coruna,1,0,2018-04-01 19:45:00,Emre Colak,Chipped
+204712,25,SavedShot,0.935,0.5979999923706054,0.28475961089134216,Lucas Pérez,a,1700,OpenPlay,2017,Head,8174,Atletico Madrid,Deportivo La Coruna,1,0,2018-04-01 19:45:00,Luisinho,Cross
+204713,26,BlockedShot,0.88,0.5129999923706055,0.1181868240237236,Lucas Pérez,a,1700,OpenPlay,2017,LeftFoot,8174,Atletico Madrid,Deportivo La Coruna,1,0,2018-04-01 19:45:00,Adrián,Pass
+204714,29,MissedShots,0.94,0.4809999847412109,0.08132251352071762,Sulley Muntari,a,3943,SetPiece,2017,Head,8174,Atletico Madrid,Deportivo La Coruna,1,0,2018-04-01 19:45:00,Lucas Pérez,Aerial
+204716,38,MissedShots,0.9619999694824218,0.524000015258789,0.0990542620420456,Sidnei,a,2314,FromCorner,2017,Head,8174,Atletico Madrid,Deportivo La Coruna,1,0,2018-04-01 19:45:00,Guilherme,Aerial
+204717,38,MissedShots,0.9740000152587891,0.39,0.143199160695076,Pedro Mosquera,a,2320,FromCorner,2017,Head,8174,Atletico Madrid,Deportivo La Coruna,1,0,2018-04-01 19:45:00,Sidnei,Rebound
+204723,63,BlockedShot,0.9419999694824219,0.5940000152587891,0.07699804753065109,Borja Valle,a,5188,OpenPlay,2017,Head,8174,Atletico Madrid,Deportivo La Coruna,1,0,2018-04-01 19:45:00,Adrián,Cross
+204725,79,MissedShots,0.899000015258789,0.6609999847412109,0.06746677309274673,Zakaria Bakkali,a,2538,OpenPlay,2017,LeftFoot,8174,Atletico Madrid,Deportivo La Coruna,1,0,2018-04-01 19:45:00,Lucas Pérez,Pass
+204727,83,MissedShots,0.884000015258789,0.72,0.031316086649894714,Zakaria Bakkali,a,2538,SetPiece,2017,RightFoot,8174,Atletico Madrid,Deportivo La Coruna,1,0,2018-04-01 19:45:00,,None

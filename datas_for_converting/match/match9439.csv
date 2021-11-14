@@ -1,0 +1,24 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+275323,0,Goal,0.9209999847412109,0.5029999923706054,0.3482462465763092,Sergio Agüero,h,619,OpenPlay,2018,Head,9439,Manchester City,Arsenal,3,1,2019-02-03 16:30:00,Aymeric Laporte,Chipped
+275324,4,SavedShot,0.7530000305175781,0.5359999847412109,0.01738591119647026,Raheem Sterling,h,618,FromCorner,2018,RightFoot,9439,Manchester City,Arsenal,3,1,2019-02-03 16:30:00,,None
+275326,17,BlockedShot,0.8690000152587891,0.38799999237060545,0.05552251264452934,Raheem Sterling,h,618,FromCorner,2018,RightFoot,9439,Manchester City,Arsenal,3,1,2019-02-03 16:30:00,,None
+275327,17,SavedShot,0.8859999847412109,0.61,0.0528913177549839,Nicolás Otamendi,h,611,FromCorner,2018,RightFoot,9439,Manchester City,Arsenal,3,1,2019-02-03 16:30:00,David Silva,Pass
+275328,27,MissedShots,0.7580000305175781,0.375,0.0166973564773798,Kevin De Bruyne,h,447,OpenPlay,2018,RightFoot,9439,Manchester City,Arsenal,3,1,2019-02-03 16:30:00,,None
+275332,43,Goal,0.9790000152587891,0.46799999237060547,0.9112765192985535,Sergio Agüero,h,619,OpenPlay,2018,RightFoot,9439,Manchester City,Arsenal,3,1,2019-02-03 16:30:00,Raheem Sterling,Pass
+275333,47,MissedShots,0.785,0.5590000152587891,0.04508572816848755,Bernardo Silva,h,3635,OpenPlay,2018,LeftFoot,9439,Manchester City,Arsenal,3,1,2019-02-03 16:30:00,Raheem Sterling,Pass
+275334,48,BlockedShot,0.745999984741211,0.34900001525878904,0.04875851795077324,David Silva,h,617,DirectFreekick,2018,LeftFoot,9439,Manchester City,Arsenal,3,1,2019-02-03 16:30:00,,Standard
+275335,50,SavedShot,0.8569999694824219,0.33599998474121096,0.05793970823287964,Kevin De Bruyne,h,447,OpenPlay,2018,RightFoot,9439,Manchester City,Arsenal,3,1,2019-02-03 16:30:00,Bernardo Silva,Pass
+275336,52,SavedShot,0.7930000305175782,0.38799999237060545,0.04356181621551514,Kevin De Bruyne,h,447,OpenPlay,2018,RightFoot,9439,Manchester City,Arsenal,3,1,2019-02-03 16:30:00,Bernardo Silva,Pass
+275337,55,SavedShot,0.925,0.664000015258789,0.09709964692592621,Kevin De Bruyne,h,447,OpenPlay,2018,LeftFoot,9439,Manchester City,Arsenal,3,1,2019-02-03 16:30:00,Raheem Sterling,Pass
+275338,60,Goal,0.965999984741211,0.509000015258789,0.8989467024803162,Sergio Agüero,h,619,OpenPlay,2018,OtherBodyPart,9439,Manchester City,Arsenal,3,1,2019-02-03 16:30:00,Raheem Sterling,Pass
+275339,66,SavedShot,0.8680000305175781,0.29100000381469726,0.0405692420899868,Bernardo Silva,h,3635,OpenPlay,2018,LeftFoot,9439,Manchester City,Arsenal,3,1,2019-02-03 16:30:00,,None
+275340,71,BlockedShot,0.875,0.55,0.12693610787391663,Kevin De Bruyne,h,447,OpenPlay,2018,RightFoot,9439,Manchester City,Arsenal,3,1,2019-02-03 16:30:00,David Silva,Pass
+275341,75,SavedShot,0.850999984741211,0.47900001525878905,0.03144587203860283,Sergio Agüero,h,619,SetPiece,2018,RightFoot,9439,Manchester City,Arsenal,3,1,2019-02-03 16:30:00,,Aerial
+275342,81,SavedShot,0.8619999694824219,0.39099998474121095,0.10345518589019775,David Silva,h,617,OpenPlay,2018,LeftFoot,9439,Manchester City,Arsenal,3,1,2019-02-03 16:30:00,Bernardo Silva,Pass
+275343,84,SavedShot,0.8440000152587891,0.54,0.06741812825202942,Gabriel Jesus,h,5543,OpenPlay,2018,RightFoot,9439,Manchester City,Arsenal,3,1,2019-02-03 16:30:00,Raheem Sterling,BallRecovery
+275344,86,BlockedShot,0.8059999847412109,0.3029999923706055,0.03416230157017708,Raheem Sterling,h,618,OpenPlay,2018,RightFoot,9439,Manchester City,Arsenal,3,1,2019-02-03 16:30:00,Bernardo Silva,Pass
+275345,89,MissedShots,0.7819999694824219,0.3629999923706055,0.03361882269382477,Riyad Mahrez,h,750,OpenPlay,2018,LeftFoot,9439,Manchester City,Arsenal,3,1,2019-02-03 16:30:00,David Silva,Pass
+275325,10,Goal,0.9740000152587891,0.48700000762939455,0.603093147277832,Laurent Koscielny,a,494,FromCorner,2018,Head,9439,Manchester City,Arsenal,3,1,2019-02-03 16:30:00,Nacho Monreal,Pass
+275329,38,SavedShot,0.8580000305175781,0.710999984741211,0.03713127225637436,Sead Kolasinac,a,342,OpenPlay,2018,LeftFoot,9439,Manchester City,Arsenal,3,1,2019-02-03 16:30:00,Matteo Guendouzi,Pass
+275330,38,BlockedShot,0.779000015258789,0.534000015258789,0.026109714061021805,Lucas Torreira,a,1227,OpenPlay,2018,RightFoot,9439,Manchester City,Arsenal,3,1,2019-02-03 16:30:00,Alexandre Lacazette,Pass
+275331,41,BlockedShot,0.754000015258789,0.33,0.03720778226852417,Pierre-Emerick Aubameyang,a,318,OpenPlay,2018,RightFoot,9439,Manchester City,Arsenal,3,1,2019-02-03 16:30:00,Lucas Torreira,Pass

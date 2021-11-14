@@ -1,0 +1,31 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+437699,9,SavedShot,0.8769999694824219,0.45799999237060546,0.07896115630865097,Robin Hack,h,6351,OpenPlay,2021,LeftFoot,17590,Arminia Bielefeld,Borussia Dortmund,1,3,2021-10-23 13:30:00,Edimilson Fernandes,Cross
+437702,13,BlockedShot,0.735999984741211,0.5320000076293945,0.01781204715371132,Robin Hack,h,6351,OpenPlay,2021,RightFoot,17590,Arminia Bielefeld,Borussia Dortmund,1,3,2021-10-23 13:30:00,Edimilson Fernandes,Pass
+437703,13,BlockedShot,0.7759999847412109,0.5120000076293946,0.03528160974383354,Fabian Kunze,h,8793,FromCorner,2021,RightFoot,17590,Arminia Bielefeld,Borussia Dortmund,1,3,2021-10-23 13:30:00,,Rebound
+437704,17,SavedShot,0.865,0.3609999847412109,0.06618700176477432,Janni Serra,h,9729,OpenPlay,2021,RightFoot,17590,Arminia Bielefeld,Borussia Dortmund,1,3,2021-10-23 13:30:00,,BallRecovery
+437705,25,MissedShots,0.785,0.3729999923706055,0.030370375141501427,Cédric Brunner,h,8794,OpenPlay,2021,RightFoot,17590,Arminia Bielefeld,Borussia Dortmund,1,3,2021-10-23 13:30:00,,BallRecovery
+437712,48,SavedShot,0.7780000305175782,0.7390000152587891,0.011051672510802746,Fabian Klos,h,8792,OpenPlay,2021,LeftFoot,17590,Arminia Bielefeld,Borussia Dortmund,1,3,2021-10-23 13:30:00,Alessandro Schöpf,Chipped
+437713,54,SavedShot,0.955,0.44299999237060544,0.12323416769504547,Guilherme Ramos,h,9731,FromCorner,2021,Head,17590,Arminia Bielefeld,Borussia Dortmund,1,3,2021-10-23 13:30:00,Alessandro Schöpf,Cross
+437715,59,BlockedShot,0.7880000305175782,0.29700000762939455,0.021097958087921143,Alessandro Schöpf,h,2638,FromCorner,2021,LeftFoot,17590,Arminia Bielefeld,Borussia Dortmund,1,3,2021-10-23 13:30:00,Edimilson Fernandes,Pass
+437716,59,BlockedShot,0.799000015258789,0.35400001525878905,0.029436536133289337,Robin Hack,h,6351,FromCorner,2021,RightFoot,17590,Arminia Bielefeld,Borussia Dortmund,1,3,2021-10-23 13:30:00,Edimilson Fernandes,Pass
+437718,67,SavedShot,0.9219999694824219,0.3220000076293945,0.047610558569431305,Patrick Wimmer,h,9730,OpenPlay,2021,RightFoot,17590,Arminia Bielefeld,Borussia Dortmund,1,3,2021-10-23 13:30:00,,None
+437719,68,BlockedShot,0.789000015258789,0.625999984741211,0.015371888875961304,Robin Hack,h,6351,OpenPlay,2021,RightFoot,17590,Arminia Bielefeld,Borussia Dortmund,1,3,2021-10-23 13:30:00,,Rebound
+437720,68,SavedShot,0.8230000305175781,0.6,0.020416224375367165,Jacob Laursen,h,8795,FromCorner,2021,Head,17590,Arminia Bielefeld,Borussia Dortmund,1,3,2021-10-23 13:30:00,Fabian Klos,HeadPass
+437723,78,BlockedShot,0.7769999694824219,0.3629999923706055,0.01878327503800392,Florian Krüger,h,9728,FromCorner,2021,RightFoot,17590,Arminia Bielefeld,Borussia Dortmund,1,3,2021-10-23 13:30:00,,None
+437724,78,MissedShots,0.8040000152587891,0.325,0.020704640075564384,Patrick Wimmer,h,9730,FromCorner,2021,RightFoot,17590,Arminia Bielefeld,Borussia Dortmund,1,3,2021-10-23 13:30:00,,None
+437725,79,BlockedShot,0.8719999694824219,0.51,0.109731025993824,Alessandro Schöpf,h,2638,OpenPlay,2021,LeftFoot,17590,Arminia Bielefeld,Borussia Dortmund,1,3,2021-10-23 13:30:00,Manuel Prietl,Pass
+437726,86,Goal,0.885,0.5,0.757696270942688,Fabian Klos,h,8792,Penalty,2021,RightFoot,17590,Arminia Bielefeld,Borussia Dortmund,1,3,2021-10-23 13:30:00,,Standard
+437697,6,SavedShot,0.710999984741211,0.47900001525878905,0.015533548779785633,Donyell Malen,a,9749,OpenPlay,2021,RightFoot,17590,Arminia Bielefeld,Borussia Dortmund,1,3,2021-10-23 13:30:00,Marco Reus,Pass
+437698,7,MissedShots,0.975999984741211,0.5459999847412109,0.5484336018562317,Donyell Malen,a,9749,FromCorner,2021,Head,17590,Arminia Bielefeld,Borussia Dortmund,1,3,2021-10-23 13:30:00,Thorgan Hazard,Cross
+437700,10,BlockedShot,0.7219999694824218,0.6419999694824219,0.013506668619811535,Emre Can,a,604,OpenPlay,2021,LeftFoot,17590,Arminia Bielefeld,Borussia Dortmund,1,3,2021-10-23 13:30:00,Donyell Malen,Pass
+437701,11,BlockedShot,0.7930000305175782,0.6890000152587891,0.020488152280449867,Thorgan Hazard,a,213,OpenPlay,2021,RightFoot,17590,Arminia Bielefeld,Borussia Dortmund,1,3,2021-10-23 13:30:00,,None
+437706,30,Goal,0.885,0.5,0.757696270942688,Emre Can,a,604,Penalty,2021,RightFoot,17590,Arminia Bielefeld,Borussia Dortmund,1,3,2021-10-23 13:30:00,,Standard
+437707,34,SavedShot,0.9180000305175782,0.27100000381469724,0.1840755045413971,Marius Wolf,a,2693,OpenPlay,2021,RightFoot,17590,Arminia Bielefeld,Borussia Dortmund,1,3,2021-10-23 13:30:00,Marco Reus,Pass
+437708,34,MissedShots,0.9230000305175782,0.5129999923706055,0.5467419624328613,Marco Reus,a,319,OpenPlay,2021,LeftFoot,17590,Arminia Bielefeld,Borussia Dortmund,1,3,2021-10-23 13:30:00,,Rebound
+437709,34,MissedShots,0.970999984741211,0.6569999694824219,0.08059456944465637,Thorgan Hazard,a,213,OpenPlay,2021,LeftFoot,17590,Arminia Bielefeld,Borussia Dortmund,1,3,2021-10-23 13:30:00,Marco Reus,None
+437710,43,SavedShot,0.9469999694824218,0.3370000076293945,0.09550342708826065,Julian Brandt,a,261,OpenPlay,2021,RightFoot,17590,Arminia Bielefeld,Borussia Dortmund,1,3,2021-10-23 13:30:00,Donyell Malen,Pass
+437711,44,Goal,0.8059999847412109,0.49900001525878906,0.03568518906831741,Mats Hummels,a,373,FromCorner,2021,RightFoot,17590,Arminia Bielefeld,Borussia Dortmund,1,3,2021-10-23 13:30:00,,None
+437714,56,MissedShots,0.9209999847412109,0.2720000076293945,0.06603783369064331,Marco Reus,a,319,OpenPlay,2021,RightFoot,17590,Arminia Bielefeld,Borussia Dortmund,1,3,2021-10-23 13:30:00,Julian Brandt,Pass
+437717,60,SavedShot,0.8059999847412109,0.4759999847412109,0.07446376979351044,Jude Bellingham,a,8824,OpenPlay,2021,RightFoot,17590,Arminia Bielefeld,Borussia Dortmund,1,3,2021-10-23 13:30:00,Marco Reus,Pass
+437721,71,BlockedShot,0.845999984741211,0.43,0.11361682415008545,Marco Reus,a,319,OpenPlay,2021,LeftFoot,17590,Arminia Bielefeld,Borussia Dortmund,1,3,2021-10-23 13:30:00,Marius Wolf,Pass
+437722,71,Goal,0.9640000152587891,0.605,0.13819238543510437,Jude Bellingham,a,8824,OpenPlay,2021,LeftFoot,17590,Arminia Bielefeld,Borussia Dortmund,1,3,2021-10-23 13:30:00,Marco Reus,TakeOn

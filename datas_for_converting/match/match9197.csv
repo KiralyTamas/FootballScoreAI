@@ -1,0 +1,22 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+232811,1,BlockedShot,0.8630000305175781,0.710999984741211,0.03996211290359497,Alexis Sánchez,h,498,OpenPlay,2018,RightFoot,9197,Manchester United,Leicester,2,1,2018-08-10 22:00:00,Luke Shaw,Pass
+232812,2,Goal,0.885,0.5,0.7611688375473022,Paul Pogba,h,1740,Penalty,2018,RightFoot,9197,Manchester United,Leicester,2,1,2018-08-10 22:00:00,,Standard
+232818,39,SavedShot,0.7240000152587891,0.655,0.018395768478512764,Paul Pogba,h,1740,OpenPlay,2018,RightFoot,9197,Manchester United,Leicester,2,1,2018-08-10 22:00:00,Alexis Sánchez,Pass
+232819,40,SavedShot,0.88,0.6530000305175782,0.08121494203805923,Luke Shaw,h,1006,OpenPlay,2018,RightFoot,9197,Manchester United,Leicester,2,1,2018-08-10 22:00:00,Juan Mata,Chipped
+232821,55,SavedShot,0.7809999847412109,0.33,0.028308825567364693,Matteo Darmian,h,557,OpenPlay,2018,RightFoot,9197,Manchester United,Leicester,2,1,2018-08-10 22:00:00,Alexis Sánchez,Pass
+232822,64,MissedShots,0.8130000305175781,0.4759999847412109,0.07612571865320206,Juan Mata,h,554,OpenPlay,2018,LeftFoot,9197,Manchester United,Leicester,2,1,2018-08-10 22:00:00,Alexis Sánchez,Pass
+232825,77,SavedShot,0.8880000305175781,0.45,0.42012929916381836,Romelu Lukaku,h,594,OpenPlay,2018,LeftFoot,9197,Manchester United,Leicester,2,1,2018-08-10 22:00:00,Alexis Sánchez,Pass
+232826,82,Goal,0.95,0.6469999694824219,0.08839321881532669,Luke Shaw,h,1006,OpenPlay,2018,LeftFoot,9197,Manchester United,Leicester,2,1,2018-08-10 22:00:00,Juan Mata,Chipped
+232813,14,SavedShot,0.755,0.5320000076293945,0.022416438907384872,Wilfred Ndidi,a,5545,OpenPlay,2018,RightFoot,9197,Manchester United,Leicester,2,1,2018-08-10 22:00:00,,None
+232814,24,BlockedShot,0.7809999847412109,0.3529999923706055,0.02415047399699688,Wilfred Ndidi,a,5545,OpenPlay,2018,RightFoot,9197,Manchester United,Leicester,2,1,2018-08-10 22:00:00,James Maddison,Pass
+232815,28,SavedShot,0.8880000305175781,0.4,0.08854089677333832,James Maddison,a,6818,OpenPlay,2018,RightFoot,9197,Manchester United,Leicester,2,1,2018-08-10 22:00:00,Ricardo Pereira,Pass
+232816,28,BlockedShot,0.715,0.4909999847412109,0.01378240343183279,Ricardo Pereira,a,3303,FromCorner,2018,RightFoot,9197,Manchester United,Leicester,2,1,2018-08-10 22:00:00,,None
+232817,31,BlockedShot,0.7290000152587891,0.5029999923706054,0.05116378888487816,James Maddison,a,6818,DirectFreekick,2018,RightFoot,9197,Manchester United,Leicester,2,1,2018-08-10 22:00:00,,Standard
+232820,49,BlockedShot,0.785,0.3220000076293945,0.024298327043652534,Kelechi Iheanacho,a,620,OpenPlay,2018,LeftFoot,9197,Manchester United,Leicester,2,1,2018-08-10 22:00:00,Daniel Amartey,Pass
+232823,74,SavedShot,0.9269999694824219,0.4620000076293945,0.11196519434452057,Demarai Gray,a,762,OpenPlay,2018,RightFoot,9197,Manchester United,Leicester,2,1,2018-08-10 22:00:00,Jamie Vardy,Cross
+232824,76,MissedShots,0.7240000152587891,0.6120000076293945,0.013329952023923397,Demarai Gray,a,762,OpenPlay,2018,RightFoot,9197,Manchester United,Leicester,2,1,2018-08-10 22:00:00,,None
+232827,88,BlockedShot,0.8080000305175781,0.47900001525878905,0.057485245168209076,Kelechi Iheanacho,a,620,OpenPlay,2018,LeftFoot,9197,Manchester United,Leicester,2,1,2018-08-10 22:00:00,Wilfred Ndidi,Pass
+232828,89,BlockedShot,0.7609999847412109,0.5790000152587891,0.019286030903458595,Demarai Gray,a,762,OpenPlay,2018,RightFoot,9197,Manchester United,Leicester,2,1,2018-08-10 22:00:00,Ben Chilwell,Pass
+232829,90,MissedShots,0.8959999847412109,0.5270000076293946,0.28438204526901245,Jamie Vardy,a,755,OpenPlay,2018,RightFoot,9197,Manchester United,Leicester,2,1,2018-08-10 22:00:00,Ricardo Pereira,Chipped
+232830,91,Goal,0.99,0.53,0.9466182589530945,Jamie Vardy,a,755,OpenPlay,2018,Head,9197,Manchester United,Leicester,2,1,2018-08-10 22:00:00,,None
+232831,94,MissedShots,0.9159999847412109,0.5420000076293945,0.08071506768465042,Kasper Schmeichel,a,745,FromCorner,2018,Head,9197,Manchester United,Leicester,2,1,2018-08-10 22:00:00,Ben Chilwell,Cross

@@ -1,0 +1,28 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+103148,0,MissedShots,0.8769999694824219,0.6179999923706054,0.03910595551133156,Jérémy Clément,h,3508,FromCorner,2016,RightFoot,2267,Saint-Etienne,Montpellier,3,1,2016-08-21 19:00:00,Nolan Roux,HeadPass
+103149,15,MissedShots,0.9159999847412109,0.45799999237060546,0.11118171364068985,Kévin Monnet-Paquet,h,3513,OpenPlay,2016,RightFoot,2267,Saint-Etienne,Montpellier,3,1,2016-08-21 19:00:00,Kevin Malcuit,Cross
+103150,16,MissedShots,0.8490000152587891,0.6819999694824219,0.039492011070251465,Kévin Monnet-Paquet,h,3513,OpenPlay,2016,RightFoot,2267,Saint-Etienne,Montpellier,3,1,2016-08-21 19:00:00,Jérémy Clément,Pass
+103151,19,MissedShots,0.88,0.14,0.04642925038933754,Oussama Tannane,h,3510,DirectFreekick,2016,LeftFoot,2267,Saint-Etienne,Montpellier,3,1,2016-08-21 19:00:00,,Standard
+103154,32,BlockedShot,0.7519999694824219,0.4520000076293945,0.010255251079797745,Dylan Saint-Louis,h,3750,OpenPlay,2016,RightFoot,2267,Saint-Etienne,Montpellier,3,1,2016-08-21 19:00:00,Kévin Monnet-Paquet,Chipped
+103156,38,MissedShots,0.7430000305175781,0.30700000762939456,0.017091207206249237,Nolan Roux,h,3512,OpenPlay,2016,RightFoot,2267,Saint-Etienne,Montpellier,3,1,2016-08-21 19:00:00,Jérémy Clément,Pass
+103159,46,Goal,0.9119999694824219,0.43400001525878906,0.3891534209251404,Kévin Monnet-Paquet,h,3513,OpenPlay,2016,LeftFoot,2267,Saint-Etienne,Montpellier,3,1,2016-08-21 19:00:00,Nolan Roux,HeadPass
+103160,49,Goal,0.9269999694824219,0.5070000076293946,0.38752543926239014,Dylan Saint-Louis,h,3750,SetPiece,2016,Head,2267,Saint-Etienne,Montpellier,3,1,2016-08-21 19:00:00,Oussama Tannane,Cross
+103161,53,MissedShots,0.9180000305175782,0.33,0.04169308394193649,Kévin Monnet-Paquet,h,3513,OpenPlay,2016,RightFoot,2267,Saint-Etienne,Montpellier,3,1,2016-08-21 19:00:00,Florentin Pogba,Cross
+103162,58,ShotOnPost,0.865,0.6780000305175782,0.05993982404470444,Kévin Monnet-Paquet,h,3513,OpenPlay,2016,RightFoot,2267,Saint-Etienne,Montpellier,3,1,2016-08-21 19:00:00,Dylan Saint-Louis,Chipped
+103165,63,SavedShot,0.81,0.14600000381469727,0.03574926033616066,Oussama Tannane,h,3510,DirectFreekick,2016,LeftFoot,2267,Saint-Etienne,Montpellier,3,1,2016-08-21 19:00:00,,Standard
+103166,64,SavedShot,0.955999984741211,0.41200000762939454,0.04946208372712135,Nolan Roux,h,3512,FromCorner,2016,Head,2267,Saint-Etienne,Montpellier,3,1,2016-08-21 19:00:00,Florentin Pogba,HeadPass
+103169,72,MissedShots,0.9080000305175782,0.6809999847412109,0.06237456575036049,Kévin Monnet-Paquet,h,3513,OpenPlay,2016,LeftFoot,2267,Saint-Etienne,Montpellier,3,1,2016-08-21 19:00:00,Fabien Lemoine,Chipped
+103171,84,Goal,0.885,0.37099998474121093,0.299557089805603,Robert Beric,h,3691,OpenPlay,2016,RightFoot,2267,Saint-Etienne,Montpellier,3,1,2016-08-21 19:00:00,Kévin Théophile-Catherine,Chipped
+103152,22,SavedShot,0.8369999694824218,0.49599998474121093,0.06617198884487152,Souleymane Camara,a,3590,OpenPlay,2016,RightFoot,2267,Saint-Etienne,Montpellier,3,1,2016-08-21 19:00:00,Anthony Vanden Borre,Chipped
+103153,22,Goal,0.9,0.5029999923706054,0.2928869128227234,Steve Mounie,a,3800,OpenPlay,2016,Head,2267,Saint-Etienne,Montpellier,3,1,2016-08-21 19:00:00,,Rebound
+103155,34,MissedShots,0.6430000305175781,0.525,0.011555005796253681,William Remy,a,3336,OpenPlay,2016,RightFoot,2267,Saint-Etienne,Montpellier,3,1,2016-08-21 19:00:00,,BallRecovery
+103157,40,MissedShots,0.6980000305175781,0.509000015258789,0.018969068303704262,Souleymane Camara,a,3590,OpenPlay,2016,RightFoot,2267,Saint-Etienne,Montpellier,3,1,2016-08-21 19:00:00,Morgan Sanson,Pass
+103158,44,MissedShots,0.8730000305175781,0.4420000076293945,0.05001000314950943,Steve Mounie,a,3800,OpenPlay,2016,Head,2267,Saint-Etienne,Montpellier,3,1,2016-08-21 19:00:00,Ryad Boudebouz,Cross
+103163,59,MissedShots,0.9219999694824219,0.34799999237060547,0.04222141578793526,Steve Mounie,a,3800,FromCorner,2016,RightFoot,2267,Saint-Etienne,Montpellier,3,1,2016-08-21 19:00:00,Jamel Saihi,HeadPass
+103164,62,MissedShots,0.905,0.4570000076293945,0.03785238042473793,Souleymane Camara,a,3590,OpenPlay,2016,Head,2267,Saint-Etienne,Montpellier,3,1,2016-08-21 19:00:00,Morgan Sanson,Aerial
+103167,68,BlockedShot,0.9309999847412109,0.6459999847412109,0.05079956352710724,Ryad Boudebouz,a,3343,OpenPlay,2016,LeftFoot,2267,Saint-Etienne,Montpellier,3,1,2016-08-21 19:00:00,Jérôme Roussillon,TakeOn
+103168,69,MissedShots,0.9209999847412109,0.5270000076293946,0.04664478451013565,Ellyes Skhiri,a,3347,FromCorner,2016,Head,2267,Saint-Etienne,Montpellier,3,1,2016-08-21 19:00:00,Ryad Boudebouz,Aerial
+103170,78,MissedShots,0.919000015258789,0.45099998474121095,0.08499212563037872,Jamel Saihi,a,3341,FromCorner,2016,Head,2267,Saint-Etienne,Montpellier,3,1,2016-08-21 19:00:00,Ryad Boudebouz,Cross
+103172,89,SavedShot,0.955999984741211,0.48200000762939454,0.48864465951919556,Ellyes Skhiri,a,3347,FromCorner,2016,Head,2267,Saint-Etienne,Montpellier,3,1,2016-08-21 19:00:00,Ryad Boudebouz,Cross
+103173,90,MissedShots,0.9359999847412109,0.48700000762939455,0.5567416548728943,Ellyes Skhiri,a,3347,FromCorner,2016,RightFoot,2267,Saint-Etienne,Montpellier,3,1,2016-08-21 19:00:00,,Rebound
+103174,91,MissedShots,0.71,0.524000015258789,0.012370306067168713,Ryad Boudebouz,a,3343,OpenPlay,2016,LeftFoot,2267,Saint-Etienne,Montpellier,3,1,2016-08-21 19:00:00,Jamel Saihi,Pass

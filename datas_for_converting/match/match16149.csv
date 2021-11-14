@@ -1,0 +1,32 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+424984,0,MissedShots,0.960999984741211,0.43400001525878906,0.1490613967180252,Pontus Almqvist,h,9061,OpenPlay,2021,RightFoot,16149,FC Rostov,Zenit St. Petersburg,2,4,2021-08-01 17:00:00,Denis Terentjev,Pass
+424987,12,MissedShots,0.7880000305175782,0.6120000076293945,0.03273945301771164,Pontus Almqvist,h,9061,OpenPlay,2021,LeftFoot,16149,FC Rostov,Zenit St. Petersburg,2,4,2021-08-01 17:00:00,Pavel Mamaev,HeadPass
+424989,21,SavedShot,0.9430000305175781,0.42900001525878906,0.11865516006946564,Pavel Mamaev,h,2924,OpenPlay,2021,RightFoot,16149,FC Rostov,Zenit St. Petersburg,2,4,2021-08-01 17:00:00,,None
+424994,31,MissedShots,0.9419999694824219,0.5129999923706055,0.5347304940223694,Nikolay Komlichenko,h,3015,OpenPlay,2021,RightFoot,16149,FC Rostov,Zenit St. Petersburg,2,4,2021-08-01 17:00:00,Igor Kalinin,Cross
+424998,38,MissedShots,0.86,0.525,0.019658681005239487,Dennis Hadzikadunic,h,7023,OpenPlay,2021,Head,16149,FC Rostov,Zenit St. Petersburg,2,4,2021-08-01 17:00:00,Pavel Mamaev,Cross
+425000,46,Goal,0.885,0.5,0.7542753219604492,Nikolay Komlichenko,h,3015,Penalty,2021,RightFoot,16149,FC Rostov,Zenit St. Petersburg,2,4,2021-08-01 17:00:00,,Standard
+425001,47,MissedShots,0.8769999694824219,0.625999984741211,0.05153288692235947,Nikolay Komlichenko,h,3015,OpenPlay,2021,RightFoot,16149,FC Rostov,Zenit St. Petersburg,2,4,2021-08-01 17:00:00,Dennis Hadzikadunic,HeadPass
+425002,49,BlockedShot,0.8169999694824219,0.44799999237060545,0.04427768662571907,Nikolay Komlichenko,h,3015,OpenPlay,2021,RightFoot,16149,FC Rostov,Zenit St. Petersburg,2,4,2021-08-01 17:00:00,,None
+425007,77,BlockedShot,0.8490000152587891,0.6120000076293945,0.05211508274078369,Pavel Mamaev,h,2924,SetPiece,2021,LeftFoot,16149,FC Rostov,Zenit St. Petersburg,2,4,2021-08-01 17:00:00,,None
+425008,77,MissedShots,0.7830000305175782,0.624000015258789,0.019097313284873962,Danil Glebov,h,6580,SetPiece,2021,RightFoot,16149,FC Rostov,Zenit St. Petersburg,2,4,2021-08-01 17:00:00,,None
+425009,84,BlockedShot,0.7909999847412109,0.4759999847412109,0.01651836931705475,Kirill Folmer,h,7865,FromCorner,2021,LeftFoot,16149,FC Rostov,Zenit St. Petersburg,2,4,2021-08-01 17:00:00,,Aerial
+425010,84,Goal,0.9269999694824219,0.544000015258789,0.4618338942527771,Maksim Osipenko,h,7663,FromCorner,2021,LeftFoot,16149,FC Rostov,Zenit St. Petersburg,2,4,2021-08-01 17:00:00,Kirill Folmer,Rebound
+425011,85,BlockedShot,0.774000015258789,0.6990000152587891,0.018764687702059746,Igor Kalinin,h,6598,OpenPlay,2021,LeftFoot,16149,FC Rostov,Zenit St. Petersburg,2,4,2021-08-01 17:00:00,Kirill Folmer,Pass
+424985,9,BlockedShot,0.815,0.5279999923706055,0.051230307668447495,Artem Dzyuba,a,3063,OpenPlay,2021,LeftFoot,16149,FC Rostov,Zenit St. Petersburg,2,4,2021-08-01 17:00:00,Sardar Azmoun,None
+424986,11,MissedShots,0.705999984741211,0.49599998474121093,0.017748557031154633,Aleksandr Erokhin,a,2772,OpenPlay,2021,RightFoot,16149,FC Rostov,Zenit St. Petersburg,2,4,2021-08-01 17:00:00,Wendel,Pass
+424988,15,MissedShots,0.875,0.4540000152587891,0.01597324013710022,Artem Dzyuba,a,3063,OpenPlay,2021,Head,16149,FC Rostov,Zenit St. Petersburg,2,4,2021-08-01 17:00:00,Yaroslav Rakitskiy,Aerial
+424990,24,MissedShots,0.9159999847412109,0.445,0.3294018805027008,Aleksandr Erokhin,a,2772,OpenPlay,2021,RightFoot,16149,FC Rostov,Zenit St. Petersburg,2,4,2021-08-01 17:00:00,Vyacheslav Karavayev,Cross
+424991,26,SavedShot,0.81,0.5879999923706055,0.051293496042490005,Aleksandr Erokhin,a,2772,OpenPlay,2021,RightFoot,16149,FC Rostov,Zenit St. Petersburg,2,4,2021-08-01 17:00:00,Sardar Azmoun,Pass
+424992,26,MissedShots,0.735999984741211,0.625999984741211,0.016930531710386276,Artem Dzyuba,a,3063,OpenPlay,2021,LeftFoot,16149,FC Rostov,Zenit St. Petersburg,2,4,2021-08-01 17:00:00,Wendel,Pass
+424993,28,Goal,0.919000015258789,0.5479999923706055,0.09956750273704529,Aleksandr Erokhin,a,2772,OpenPlay,2021,Head,16149,FC Rostov,Zenit St. Petersburg,2,4,2021-08-01 17:00:00,Daler Kuzyaev,Cross
+424995,33,SavedShot,0.7869999694824219,0.3770000076293945,0.04000205546617508,Wendel,a,8984,OpenPlay,2021,RightFoot,16149,FC Rostov,Zenit St. Petersburg,2,4,2021-08-01 17:00:00,,None
+424996,34,Goal,0.885,0.5,0.7542753219604492,Sardar Azmoun,a,2774,Penalty,2021,RightFoot,16149,FC Rostov,Zenit St. Petersburg,2,4,2021-08-01 17:00:00,,Standard
+424997,37,MissedShots,0.5279999923706055,0.44299999237060544,0.009602295234799385,Sardar Azmoun,a,2774,OpenPlay,2021,RightFoot,16149,FC Rostov,Zenit St. Petersburg,2,4,2021-08-01 17:00:00,Aleksandr Erokhin,Pass
+424999,40,MissedShots,0.985999984741211,0.54,0.7893274426460266,Aleksandr Erokhin,a,2772,OpenPlay,2021,Head,16149,FC Rostov,Zenit St. Petersburg,2,4,2021-08-01 17:00:00,Daler Kuzyaev,Aerial
+425003,66,BlockedShot,0.89,0.36900001525878906,0.061458319425582886,Daler Kuzyaev,a,2854,SetPiece,2021,RightFoot,16149,FC Rostov,Zenit St. Petersburg,2,4,2021-08-01 17:00:00,Artem Dzyuba,HeadPass
+425004,67,MissedShots,0.8419999694824218,0.5770000076293945,0.037700507789850235,Yaroslav Rakitskiy,a,7447,FromCorner,2021,LeftFoot,16149,FC Rostov,Zenit St. Petersburg,2,4,2021-08-01 17:00:00,Douglas Santos,Cross
+425005,74,BlockedShot,0.8619999694824219,0.6329999923706054,0.08271442353725433,Wendel,a,8984,OpenPlay,2021,RightFoot,16149,FC Rostov,Zenit St. Petersburg,2,4,2021-08-01 17:00:00,Artem Dzyuba,Pass
+425006,74,Goal,0.8419999694824218,0.37099998474121093,0.0755435973405838,Wendel,a,8984,OpenPlay,2021,RightFoot,16149,FC Rostov,Zenit St. Petersburg,2,4,2021-08-01 17:00:00,Aleksandr Erokhin,Pass
+425012,92,SavedShot,0.9819999694824219,0.64,0.07026085257530212,Daniil Krugovoy,a,6800,OpenPlay,2021,LeftFoot,16149,FC Rostov,Zenit St. Petersburg,2,4,2021-08-01 17:00:00,Artem Dzyuba,Chipped
+425013,94,SavedShot,0.9130000305175782,0.669000015258789,0.30072712898254395,Kirill Kravtsov,a,9421,OpenPlay,2021,LeftFoot,16149,FC Rostov,Zenit St. Petersburg,2,4,2021-08-01 17:00:00,Artem Dzyuba,HeadPass
+425014,94,Goal,0.8159999847412109,0.5570000076293945,0.05038934946060181,Aleksandr Erokhin,a,2772,OpenPlay,2021,RightFoot,16149,FC Rostov,Zenit St. Petersburg,2,4,2021-08-01 17:00:00,Aleksey Sutormin,Pass

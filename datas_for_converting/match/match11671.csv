@@ -1,0 +1,30 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+312913,0,SavedShot,0.7730000305175782,0.505,0.032616984099149704,Joshua King,h,465,OpenPlay,2019,RightFoot,11671,Bournemouth,Manchester City,1,3,2019-08-25 14:00:00,,BallRecovery
+312917,13,MissedShots,0.889000015258789,0.5820000076293945,0.11700116097927094,Nathan Aké,h,579,SetPiece,2019,LeftFoot,11671,Bournemouth,Manchester City,1,3,2019-08-25 14:00:00,Callum Wilson,TakeOn
+312924,36,SavedShot,0.909000015258789,0.5640000152587891,0.11443237960338593,Nathan Aké,h,579,OpenPlay,2019,LeftFoot,11671,Bournemouth,Manchester City,1,3,2019-08-25 14:00:00,Steve Cook,Pass
+312925,38,SavedShot,0.9540000152587891,0.46799999237060547,0.584547758102417,Adam Smith,h,825,OpenPlay,2019,LeftFoot,11671,Bournemouth,Manchester City,1,3,2019-08-25 14:00:00,,None
+312927,47,Goal,0.765,0.5459999847412109,0.076023168861866,Harry Wilson,h,5596,DirectFreekick,2019,LeftFoot,11671,Bournemouth,Manchester City,1,3,2019-08-25 14:00:00,,Standard
+312932,51,SavedShot,0.9019999694824219,0.595999984741211,0.37376928329467773,Callum Wilson,h,468,OpenPlay,2019,LeftFoot,11671,Bournemouth,Manchester City,1,3,2019-08-25 14:00:00,Harry Wilson,Throughball
+312934,54,BlockedShot,0.8669999694824219,0.4520000076293945,0.09146615117788315,Harry Wilson,h,5596,OpenPlay,2019,LeftFoot,11671,Bournemouth,Manchester City,1,3,2019-08-25 14:00:00,Callum Wilson,Pass
+312939,86,SavedShot,0.875,0.649000015258789,0.08005651831626892,Dominic Solanke,h,1679,OpenPlay,2019,LeftFoot,11671,Bournemouth,Manchester City,1,3,2019-08-25 14:00:00,Joshua King,Pass
+312940,90,MissedShots,0.884000015258789,0.56,0.014122102409601212,Dominic Solanke,h,1679,SetPiece,2019,Head,11671,Bournemouth,Manchester City,1,3,2019-08-25 14:00:00,Harry Wilson,Aerial
+312941,93,SavedShot,0.9480000305175781,0.5729999923706055,0.40941768884658813,Dominic Solanke,h,1679,OpenPlay,2019,LeftFoot,11671,Bournemouth,Manchester City,1,3,2019-08-25 14:00:00,,None
+312914,6,BlockedShot,0.85,0.5659999847412109,0.08133267611265182,Bernardo Silva,a,3635,OpenPlay,2019,LeftFoot,11671,Bournemouth,Manchester City,1,3,2019-08-25 14:00:00,Raheem Sterling,Pass
+312915,7,BlockedShot,0.7280000305175781,0.48200000762939454,0.023481545969843864,Kyle Walker,a,638,FromCorner,2019,RightFoot,11671,Bournemouth,Manchester City,1,3,2019-08-25 14:00:00,Oleksandr Zinchenko,Pass
+312916,7,BlockedShot,0.9619999694824218,0.4909999847412109,0.06197328492999077,Nicolás Otamendi,a,611,FromCorner,2019,Head,11671,Bournemouth,Manchester City,1,3,2019-08-25 14:00:00,Ilkay Gündogan,Card
+312918,14,MissedShots,0.8630000305175781,0.565,0.09829332679510117,Kevin De Bruyne,a,447,OpenPlay,2019,LeftFoot,11671,Bournemouth,Manchester City,1,3,2019-08-25 14:00:00,Oleksandr Zinchenko,Pass
+312919,14,Goal,0.9180000305175782,0.514000015258789,0.5008293986320496,Sergio Agüero,a,619,OpenPlay,2019,LeftFoot,11671,Bournemouth,Manchester City,1,3,2019-08-25 14:00:00,Kevin De Bruyne,None
+312920,19,MissedShots,0.894000015258789,0.48700000762939455,0.10641385614871979,Bernardo Silva,a,3635,OpenPlay,2019,Head,11671,Bournemouth,Manchester City,1,3,2019-08-25 14:00:00,Oleksandr Zinchenko,Cross
+312921,19,SavedShot,0.8880000305175781,0.4159999847412109,0.11255216598510742,David Silva,a,617,OpenPlay,2019,RightFoot,11671,Bournemouth,Manchester City,1,3,2019-08-25 14:00:00,Sergio Agüero,Pass
+312922,23,BlockedShot,0.784000015258789,0.40299999237060546,0.03763521835207939,Kevin De Bruyne,a,447,OpenPlay,2019,RightFoot,11671,Bournemouth,Manchester City,1,3,2019-08-25 14:00:00,Sergio Agüero,Pass
+312923,28,BlockedShot,0.8130000305175781,0.5370000076293945,0.06919331103563309,Sergio Agüero,a,619,OpenPlay,2019,LeftFoot,11671,Bournemouth,Manchester City,1,3,2019-08-25 14:00:00,Aymeric Laporte,Pass
+312926,42,Goal,0.9130000305175782,0.5570000076293945,0.44748368859291077,Raheem Sterling,a,618,OpenPlay,2019,RightFoot,11671,Bournemouth,Manchester City,1,3,2019-08-25 14:00:00,David Silva,Throughball
+312928,50,MissedShots,0.9209999847412109,0.5070000076293946,0.3931034803390503,Nicolás Otamendi,a,611,SetPiece,2019,Head,11671,Bournemouth,Manchester City,1,3,2019-08-25 14:00:00,Bernardo Silva,Cross
+312929,50,SavedShot,0.9380000305175781,0.6869999694824219,0.076772041618824,David Silva,a,617,OpenPlay,2019,LeftFoot,11671,Bournemouth,Manchester City,1,3,2019-08-25 14:00:00,Oleksandr Zinchenko,Pass
+312930,50,BlockedShot,0.915,0.4209999847412109,0.04531851410865784,Bernardo Silva,a,3635,OpenPlay,2019,Head,11671,Bournemouth,Manchester City,1,3,2019-08-25 14:00:00,Oleksandr Zinchenko,Aerial
+312931,50,BlockedShot,0.9590000152587891,0.51,0.18295417726039886,Raheem Sterling,a,618,OpenPlay,2019,RightFoot,11671,Bournemouth,Manchester City,1,3,2019-08-25 14:00:00,,Rebound
+312933,52,MissedShots,0.874000015258789,0.42400001525878905,0.11441930383443832,Kevin De Bruyne,a,447,OpenPlay,2019,RightFoot,11671,Bournemouth,Manchester City,1,3,2019-08-25 14:00:00,Sergio Agüero,Pass
+312935,58,BlockedShot,0.8169999694824219,0.445,0.07366181910037994,Bernardo Silva,a,3635,OpenPlay,2019,LeftFoot,11671,Bournemouth,Manchester City,1,3,2019-08-25 14:00:00,Kevin De Bruyne,Pass
+312936,63,Goal,0.9159999847412109,0.5279999923706055,0.5247834920883179,Sergio Agüero,a,619,OpenPlay,2019,RightFoot,11671,Bournemouth,Manchester City,1,3,2019-08-25 14:00:00,David Silva,Pass
+312937,67,BlockedShot,0.8869999694824219,0.519000015258789,0.07584100216627121,Rodri,a,2496,FromCorner,2019,RightFoot,11671,Bournemouth,Manchester City,1,3,2019-08-25 14:00:00,Aymeric Laporte,Pass
+312938,81,BlockedShot,0.8490000152587891,0.43400001525878906,0.11080509424209595,Sergio Agüero,a,619,OpenPlay,2019,RightFoot,11671,Bournemouth,Manchester City,1,3,2019-08-25 14:00:00,Riyad Mahrez,Pass

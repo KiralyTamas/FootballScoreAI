@@ -1,0 +1,29 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+45333,20,MissedShots,0.8090000152587891,0.55,0.03400546684861183,Germán Denis,h,1984,OpenPlay,2014,RightFoot,5027,Atalanta,Palermo,3,3,2014-12-21 14:00:00,,None
+45337,39,Goal,0.885,0.5,0.7612988352775574,Germán Denis,h,1984,Penalty,2014,RightFoot,5027,Atalanta,Palermo,3,3,2014-12-21 14:00:00,,Standard
+45339,42,BlockedShot,0.7069999694824218,0.275,0.007470293436199427,Davide Zappacosta,h,1178,OpenPlay,2014,RightFoot,5027,Atalanta,Palermo,3,3,2014-12-21 14:00:00,Guglielmo Stendardo,TakeOn
+45340,44,MissedShots,0.9159999847412109,0.685,0.049050044268369675,Maximiliano Moralez,h,2029,OpenPlay,2014,RightFoot,5027,Atalanta,Palermo,3,3,2014-12-21 14:00:00,,None
+45343,49,BlockedShot,0.8080000305175781,0.30200000762939455,0.019734827801585197,Germán Denis,h,1984,OpenPlay,2014,RightFoot,5027,Atalanta,Palermo,3,3,2014-12-21 14:00:00,Marco Sportiello,Pass
+45345,54,Goal,0.9,0.5709999847412109,0.28445640206336975,Maximiliano Moralez,h,2029,OpenPlay,2014,RightFoot,5027,Atalanta,Palermo,3,3,2014-12-21 14:00:00,,None
+45346,58,MissedShots,0.755,0.46299999237060546,0.01130099780857563,Carlos Carmona,h,1557,OpenPlay,2014,RightFoot,5027,Atalanta,Palermo,3,3,2014-12-21 14:00:00,,Aerial
+45347,66,SavedShot,0.825,0.445,0.048519354313611984,Maximiliano Moralez,h,2029,OpenPlay,2014,LeftFoot,5027,Atalanta,Palermo,3,3,2014-12-21 14:00:00,,None
+45348,67,ShotOnPost,0.8830000305175781,0.225,0.025716014206409454,Luca Cigarini,h,1238,OpenPlay,2014,RightFoot,5027,Atalanta,Palermo,3,3,2014-12-21 14:00:00,Davide Zappacosta,TakeOn
+45349,67,MissedShots,0.7030000305175781,0.47700000762939454,0.01429733820259571,Luca Cigarini,h,1238,OpenPlay,2014,RightFoot,5027,Atalanta,Palermo,3,3,2014-12-21 14:00:00,Germán Denis,Pass
+45350,68,BlockedShot,0.6780000305175782,0.39599998474121095,0.012188643217086792,Rolando Bianchi,h,3906,OpenPlay,2014,RightFoot,5027,Atalanta,Palermo,3,3,2014-12-21 14:00:00,Germán Denis,Pass
+45351,71,SavedShot,0.9130000305175782,0.425,0.20821404457092285,Rolando Bianchi,h,3906,OpenPlay,2014,Head,5027,Atalanta,Palermo,3,3,2014-12-21 14:00:00,Alejandro Gomez,Chipped
+45352,75,Goal,0.9330000305175781,0.43900001525878907,0.49841365218162537,Germán Denis,h,1984,OpenPlay,2014,RightFoot,5027,Atalanta,Palermo,3,3,2014-12-21 14:00:00,,None
+45330,5,Goal,0.8930000305175781,0.39599998474121095,0.0834045484662056,Luca Rigoni,a,1101,OpenPlay,2014,RightFoot,5027,Atalanta,Palermo,3,3,2014-12-21 14:00:00,Franco Vázquez,HeadPass
+45331,8,BlockedShot,0.7180000305175781,0.48,0.01843033730983734,Enzo Maresca,a,1835,OpenPlay,2014,RightFoot,5027,Atalanta,Palermo,3,3,2014-12-21 14:00:00,,None
+45332,15,Goal,0.7280000305175781,0.509000015258789,0.04279216378927231,Franco Vázquez,a,1836,OpenPlay,2014,LeftFoot,5027,Atalanta,Palermo,3,3,2014-12-21 14:00:00,Paulo Dybala,BallRecovery
+45334,25,BlockedShot,0.8719999694824219,0.3940000152587891,0.0818471908569336,Paulo Dybala,a,1294,SetPiece,2014,LeftFoot,5027,Atalanta,Palermo,3,3,2014-12-21 14:00:00,Edgar Barreto,Pass
+45335,31,BlockedShot,0.915,0.68,0.013947280123829842,Enzo Maresca,a,1835,SetPiece,2014,Head,5027,Atalanta,Palermo,3,3,2014-12-21 14:00:00,Achraf Lazaar,Cross
+45336,32,BlockedShot,0.97,0.38799999237060545,0.07710301131010056,Paulo Dybala,a,1294,FromCorner,2014,LeftFoot,5027,Atalanta,Palermo,3,3,2014-12-21 14:00:00,,None
+45338,41,BlockedShot,0.710999984741211,0.2539999961853027,0.015106473118066788,Michel Morganella,a,1267,OpenPlay,2014,RightFoot,5027,Atalanta,Palermo,3,3,2014-12-21 14:00:00,Enzo Maresca,Pass
+45341,45,Goal,0.925,0.5459999847412109,0.5059680342674255,Franco Vázquez,a,1836,OpenPlay,2014,LeftFoot,5027,Atalanta,Palermo,3,3,2014-12-21 14:00:00,Paulo Dybala,Pass
+45342,46,SavedShot,0.7959999847412109,0.7280000305175781,0.01951422542333603,Paulo Dybala,a,1294,SetPiece,2014,LeftFoot,5027,Atalanta,Palermo,3,3,2014-12-21 14:00:00,Franco Vázquez,Pass
+45344,51,MissedShots,0.74,0.48,0.01987580582499504,Edgar Barreto,a,1225,OpenPlay,2014,RightFoot,5027,Atalanta,Palermo,3,3,2014-12-21 14:00:00,,None
+45353,77,SavedShot,0.8019999694824219,0.779000015258789,0.015060769394040108,Franco Vázquez,a,1836,OpenPlay,2014,LeftFoot,5027,Atalanta,Palermo,3,3,2014-12-21 14:00:00,Achraf Lazaar,BallRecovery
+45354,77,MissedShots,0.899000015258789,0.544000015258789,0.05258168652653694,Ezequiel Muñoz,a,1095,FromCorner,2014,Head,5027,Atalanta,Palermo,3,3,2014-12-21 14:00:00,Paulo Dybala,Cross
+45355,78,BlockedShot,0.7619999694824219,0.39099998474121095,0.022745763882994652,Francesco Bolzoni,a,2002,OpenPlay,2014,RightFoot,5027,Atalanta,Palermo,3,3,2014-12-21 14:00:00,Francesco Della Rocca,Pass
+45356,84,MissedShots,0.78,0.7340000152587891,0.048922162503004074,Enzo Maresca,a,1835,DirectFreekick,2014,RightFoot,5027,Atalanta,Palermo,3,3,2014-12-21 14:00:00,,Standard
+45357,88,MissedShots,0.81,0.30100000381469727,0.024205781519412994,Paulo Dybala,a,1294,OpenPlay,2014,LeftFoot,5027,Atalanta,Palermo,3,3,2014-12-21 14:00:00,Franco Vázquez,Chipped

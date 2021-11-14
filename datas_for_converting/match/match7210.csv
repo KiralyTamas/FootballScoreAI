@@ -1,0 +1,26 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+159768,16,BlockedShot,0.9009999847412109,0.5879999923706055,0.11497252434492111,Benik Afobe,h,826,OpenPlay,2017,LeftFoot,7210,Bournemouth,Chelsea,0,1,2017-10-28 17:30:00,Charlie Daniels,Pass
+159779,47,MissedShots,0.71,0.44599998474121094,0.01553285215049982,Lewis Cook,h,1789,OpenPlay,2017,RightFoot,7210,Bournemouth,Chelsea,0,1,2017-10-28 17:30:00,Andrew Surman,Pass
+159782,56,BlockedShot,0.84,0.47400001525878904,0.0754791721701622,Jordon Ibe,h,481,OpenPlay,2017,LeftFoot,7210,Bournemouth,Chelsea,0,1,2017-10-28 17:30:00,Junior Stanislas,Pass
+159784,65,MissedShots,0.7040000152587891,0.455,0.01510311383754015,Jordon Ibe,h,481,OpenPlay,2017,RightFoot,7210,Bournemouth,Chelsea,0,1,2017-10-28 17:30:00,Lewis Cook,Pass
+159786,71,MissedShots,0.865,0.59,0.01842520385980606,Marc Pugh,h,466,OpenPlay,2017,Head,7210,Bournemouth,Chelsea,0,1,2017-10-28 17:30:00,Adam Smith,Cross
+159787,74,BlockedShot,0.9569999694824218,0.4370000076293945,0.13449940085411072,Callum Wilson,h,468,OpenPlay,2017,RightFoot,7210,Bournemouth,Chelsea,0,1,2017-10-28 17:30:00,Jordon Ibe,Pass
+159790,92,SavedShot,0.8430000305175781,0.5590000152587891,0.08104276657104492,Steve Cook,h,458,OpenPlay,2017,RightFoot,7210,Bournemouth,Chelsea,0,1,2017-10-28 17:30:00,Adam Smith,LayOff
+159766,7,BlockedShot,0.774000015258789,0.435,0.027380507439374924,Cesc Fàbregas,a,686,OpenPlay,2017,LeftFoot,7210,Bournemouth,Chelsea,0,1,2017-10-28 17:30:00,Eden Hazard,Pass
+159767,8,MissedShots,0.7830000305175782,0.509000015258789,0.03708948940038681,Pedro,a,687,OpenPlay,2017,LeftFoot,7210,Bournemouth,Chelsea,0,1,2017-10-28 17:30:00,Cesc Fàbregas,Pass
+159769,18,SavedShot,0.9740000152587891,0.425,0.12412688136100769,Álvaro Morata,a,1804,OpenPlay,2017,LeftFoot,7210,Bournemouth,Chelsea,0,1,2017-10-28 17:30:00,Eden Hazard,CornerAwarded
+159770,23,MissedShots,0.8880000305175781,0.5940000152587891,0.35252711176872253,Álvaro Morata,a,1804,OpenPlay,2017,RightFoot,7210,Bournemouth,Chelsea,0,1,2017-10-28 17:30:00,Eden Hazard,Pass
+159771,25,SavedShot,0.8930000305175781,0.5320000076293945,0.016597090288996696,Tiemoué Bakayoko,a,3429,FromCorner,2017,Head,7210,Bournemouth,Chelsea,0,1,2017-10-28 17:30:00,Cesc Fàbregas,Aerial
+159772,27,BlockedShot,0.8119999694824219,0.46099998474121096,0.03927002102136612,David Luiz,a,1676,FromCorner,2017,RightFoot,7210,Bournemouth,Chelsea,0,1,2017-10-28 17:30:00,Eden Hazard,Pass
+159773,30,BlockedShot,0.874000015258789,0.3089999961853027,0.04284535348415375,Davide Zappacosta,a,1178,OpenPlay,2017,RightFoot,7210,Bournemouth,Chelsea,0,1,2017-10-28 17:30:00,Eden Hazard,Pass
+159774,33,SavedShot,0.87,0.54,0.374174028635025,Álvaro Morata,a,1804,OpenPlay,2017,LeftFoot,7210,Bournemouth,Chelsea,0,1,2017-10-28 17:30:00,Eden Hazard,Pass
+159775,43,BlockedShot,0.9269999694824219,0.41200000762939454,0.1305336356163025,Cesc Fàbregas,a,686,OpenPlay,2017,RightFoot,7210,Bournemouth,Chelsea,0,1,2017-10-28 17:30:00,Pedro,Pass
+159776,43,BlockedShot,0.9440000152587891,0.435,0.14378473162651062,Cesc Fàbregas,a,686,OpenPlay,2017,LeftFoot,7210,Bournemouth,Chelsea,0,1,2017-10-28 17:30:00,,Rebound
+159777,43,BlockedShot,0.8809999847412109,0.5970000076293945,0.024903004989027977,Marcos Alonso,a,1621,OpenPlay,2017,Head,7210,Bournemouth,Chelsea,0,1,2017-10-28 17:30:00,,Aerial
+159778,43,MissedShots,0.899000015258789,0.5879999923706055,0.0305181834846735,Marcos Alonso,a,1621,OpenPlay,2017,Head,7210,Bournemouth,Chelsea,0,1,2017-10-28 17:30:00,Davide Zappacosta,Aerial
+159780,50,Goal,0.9259999847412109,0.6759999847412109,0.06099395453929901,Eden Hazard,a,701,OpenPlay,2017,LeftFoot,7210,Bournemouth,Chelsea,0,1,2017-10-28 17:30:00,Álvaro Morata,Chipped
+159781,53,MissedShots,0.815,0.6459999847412109,0.0710531622171402,Tiemoué Bakayoko,a,3429,OpenPlay,2017,LeftFoot,7210,Bournemouth,Chelsea,0,1,2017-10-28 17:30:00,,TakeOn
+159783,63,MissedShots,0.8719999694824219,0.46299999237060546,0.12308137118816376,Eden Hazard,a,701,OpenPlay,2017,RightFoot,7210,Bournemouth,Chelsea,0,1,2017-10-28 17:30:00,Pedro,Pass
+159785,67,SavedShot,0.7780000305175782,0.48900001525878906,0.051840640604496,Pedro,a,687,OpenPlay,2017,LeftFoot,7210,Bournemouth,Chelsea,0,1,2017-10-28 17:30:00,Álvaro Morata,LayOff
+159788,82,MissedShots,0.975,0.645,0.09968980401754379,Cesc Fàbregas,a,686,OpenPlay,2017,RightFoot,7210,Bournemouth,Chelsea,0,1,2017-10-28 17:30:00,Eden Hazard,Pass
+159789,87,MissedShots,0.835,0.6880000305175781,0.05198157951235771,Michy Batshuayi,a,1678,OpenPlay,2017,LeftFoot,7210,Bournemouth,Chelsea,0,1,2017-10-28 17:30:00,Willian,HeadPass

@@ -1,0 +1,26 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+35261,3,BlockedShot,0.9169999694824219,0.29100000381469726,0.04906775802373886,Duda,h,2345,OpenPlay,2014,LeftFoot,5701,Malaga,Celta Vigo,1,0,2014-12-13 21:00:00,,None
+35264,20,Goal,0.9030000305175782,0.5459999847412109,0.08640029281377792,Samu García,h,2300,OpenPlay,2014,Head,5701,Malaga,Celta Vigo,1,0,2014-12-13 21:00:00,Roque Santa Cruz,Cross
+35266,29,SavedShot,0.885,0.5320000076293945,0.05891157686710358,Ignacio Camacho,h,2336,SetPiece,2014,Head,5701,Malaga,Celta Vigo,1,0,2014-12-13 21:00:00,Duda,Chipped
+35267,32,SavedShot,0.8280000305175781,0.345,0.05375727266073227,Roque Santa Cruz,h,2341,OpenPlay,2014,LeftFoot,5701,Malaga,Celta Vigo,1,0,2014-12-13 21:00:00,Ignacio Camacho,HeadPass
+35269,45,MissedShots,0.845,0.5129999923706055,0.08377372473478317,Vitorino Antunes,h,4183,OpenPlay,2014,RightFoot,5701,Malaga,Celta Vigo,1,0,2014-12-13 21:00:00,,None
+35271,56,MissedShots,0.88,0.6469999694824219,0.07776038348674774,Roque Santa Cruz,h,2341,OpenPlay,2014,LeftFoot,5701,Malaga,Celta Vigo,1,0,2014-12-13 21:00:00,Vitorino Antunes,Chipped
+35275,72,MissedShots,0.8969999694824219,0.3160000038146973,0.07009055465459824,Recio,h,2337,OpenPlay,2014,RightFoot,5701,Malaga,Celta Vigo,1,0,2014-12-13 21:00:00,Sergi Darder,TakeOn
+35279,79,BlockedShot,0.855,0.46,0.10637690126895905,Samu Castillejo,h,2303,OpenPlay,2014,RightFoot,5701,Malaga,Celta Vigo,1,0,2014-12-13 21:00:00,Sergi Darder,Pass
+35282,85,MissedShots,0.8690000152587891,0.44400001525878907,0.036131568253040314,Roque Santa Cruz,h,2341,SetPiece,2014,LeftFoot,5701,Malaga,Celta Vigo,1,0,2014-12-13 21:00:00,Vitorino Antunes,Cross
+35283,89,SavedShot,0.8590000152587891,0.5120000076293946,0.3917555510997772,Arthur Boka,h,2439,OpenPlay,2014,LeftFoot,5701,Malaga,Celta Vigo,1,0,2014-12-13 21:00:00,Samu García,Pass
+35284,89,MissedShots,0.855,0.47900001525878905,0.14360806345939636,Arthur Boka,h,2439,OpenPlay,2014,RightFoot,5701,Malaga,Celta Vigo,1,0,2014-12-13 21:00:00,,Rebound
+35262,13,BlockedShot,0.8119999694824219,0.54,0.026614412665367126,Santi Mina,a,2384,OpenPlay,2014,RightFoot,5701,Malaga,Celta Vigo,1,0,2014-12-13 21:00:00,Augusto Fernández,Chipped
+35263,15,SavedShot,0.8880000305175781,0.31799999237060544,0.10752541571855545,Fabián Orellana,a,2285,OpenPlay,2014,RightFoot,5701,Malaga,Celta Vigo,1,0,2014-12-13 21:00:00,Augusto Fernández,Throughball
+35265,24,MissedShots,0.9169999694824219,0.5470000076293945,0.11565688997507095,Santi Mina,a,2384,SetPiece,2014,Head,5701,Malaga,Celta Vigo,1,0,2014-12-13 21:00:00,Michael Krohn-Dehli,Cross
+35268,45,SavedShot,0.855,0.715,0.03543437644839287,Santi Mina,a,2384,OpenPlay,2014,RightFoot,5701,Malaga,Celta Vigo,1,0,2014-12-13 21:00:00,Fabián Orellana,Pass
+35270,52,SavedShot,0.875999984741211,0.47400001525878904,0.05886472761631012,Charles,a,2339,OpenPlay,2014,Head,5701,Malaga,Celta Vigo,1,0,2014-12-13 21:00:00,Fabián Orellana,Cross
+35272,57,SavedShot,0.9640000152587891,0.635,0.012823367491364479,Santi Mina,a,2384,OpenPlay,2014,Head,5701,Malaga,Celta Vigo,1,0,2014-12-13 21:00:00,Hugo Mallo,Aerial
+35273,66,MissedShots,0.8930000305175781,0.47099998474121096,0.019202623516321182,Charles,a,2339,FromCorner,2014,Head,5701,Malaga,Celta Vigo,1,0,2014-12-13 21:00:00,Michael Krohn-Dehli,Aerial
+35274,70,MissedShots,0.7519999694824219,0.565,0.023786714300513268,Michael Krohn-Dehli,a,2443,OpenPlay,2014,RightFoot,5701,Malaga,Celta Vigo,1,0,2014-12-13 21:00:00,Álex López,Pass
+35276,73,SavedShot,0.8830000305175781,0.435,0.36421337723731995,Augusto Fernández,a,2267,OpenPlay,2014,RightFoot,5701,Malaga,Celta Vigo,1,0,2014-12-13 21:00:00,Michael Krohn-Dehli,Throughball
+35277,75,BlockedShot,0.8959999847412109,0.6530000305175782,0.059597358107566833,Charles,a,2339,OpenPlay,2014,RightFoot,5701,Malaga,Celta Vigo,1,0,2014-12-13 21:00:00,Jonny,BallRecovery
+35278,76,MissedShots,0.764000015258789,0.765,0.010760865174233913,Álex López,a,4039,OpenPlay,2014,RightFoot,5701,Malaga,Celta Vigo,1,0,2014-12-13 21:00:00,,None
+35280,81,SavedShot,0.9,0.46,0.08190387487411499,Charles,a,2339,OpenPlay,2014,RightFoot,5701,Malaga,Celta Vigo,1,0,2014-12-13 21:00:00,Hugo Mallo,Cross
+35281,83,SavedShot,0.9,0.46599998474121096,0.09380824863910675,Sergi Gómez,a,2282,SetPiece,2014,Head,5701,Malaga,Celta Vigo,1,0,2014-12-13 21:00:00,Nolito,Cross
+35285,92,SavedShot,0.8819999694824219,0.585,0.09251753985881805,Nolito,a,1732,OpenPlay,2014,LeftFoot,5701,Malaga,Celta Vigo,1,0,2014-12-13 21:00:00,Michael Krohn-Dehli,Pass

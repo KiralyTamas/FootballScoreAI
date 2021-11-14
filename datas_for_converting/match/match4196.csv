@@ -1,0 +1,27 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+110108,3,SavedShot,0.84,0.4759999847412109,0.07675867527723312,Robert Beric,h,3691,OpenPlay,2016,RightFoot,4196,Saint-Etienne,Metz,2,2,2017-03-12 14:00:00,Romain Hamouma,LayOff
+110109,3,MissedShots,0.8730000305175781,0.5320000076293945,0.03455552086234093,Robert Beric,h,3691,OpenPlay,2016,Head,4196,Saint-Etienne,Metz,2,2,2017-03-12 14:00:00,Henri Saivet,Chipped
+110113,35,MissedShots,0.795,0.710999984741211,0.02189149707555771,Henri Saivet,h,778,OpenPlay,2016,RightFoot,4196,Saint-Etienne,Metz,2,2,2017-03-12 14:00:00,Kévin Monnet-Paquet,Pass
+110114,41,SavedShot,0.8280000305175781,0.5259999847412109,0.0574009045958519,Romain Hamouma,h,3561,OpenPlay,2016,LeftFoot,4196,Saint-Etienne,Metz,2,2,2017-03-12 14:00:00,Kévin Théophile-Catherine,Pass
+110115,41,MissedShots,0.925,0.5790000152587891,0.42696815729141235,Kévin Monnet-Paquet,h,3513,OpenPlay,2016,LeftFoot,4196,Saint-Etienne,Metz,2,2,2017-03-12 14:00:00,,Rebound
+110116,52,Goal,0.8680000305175781,0.48900001525878906,0.35567137598991394,Robert Beric,h,3691,OpenPlay,2016,RightFoot,4196,Saint-Etienne,Metz,2,2,2017-03-12 14:00:00,Loic Perrin,Pass
+110118,56,SavedShot,0.8440000152587891,0.715,0.054545965045690536,Kévin Monnet-Paquet,h,3513,OpenPlay,2016,RightFoot,4196,Saint-Etienne,Metz,2,2,2017-03-12 14:00:00,Romain Hamouma,LayOff
+110120,63,SavedShot,0.8180000305175781,0.505,0.061565715819597244,Henri Saivet,h,778,OpenPlay,2016,LeftFoot,4196,Saint-Etienne,Metz,2,2,2017-03-12 14:00:00,Kévin Monnet-Paquet,Pass
+110123,69,BlockedShot,0.9259999847412109,0.4640000152587891,0.12158410251140594,Kévin Monnet-Paquet,h,3513,SetPiece,2016,LeftFoot,4196,Saint-Etienne,Metz,2,2,2017-03-12 14:00:00,Kévin Théophile-Catherine,Pass
+110124,70,SavedShot,0.8830000305175781,0.53,0.08152931928634644,Loic Perrin,h,3689,SetPiece,2016,RightFoot,4196,Saint-Etienne,Metz,2,2,2017-03-12 14:00:00,Jordan Veretout,Chipped
+110128,82,MissedShots,0.745,0.519000015258789,0.06388206034898758,Romain Hamouma,h,3561,DirectFreekick,2016,RightFoot,4196,Saint-Etienne,Metz,2,2,2017-03-12 14:00:00,,Standard
+110129,84,MissedShots,0.875,0.24600000381469728,0.01652316004037857,Kevin Malcuit,h,3632,OpenPlay,2016,RightFoot,4196,Saint-Etienne,Metz,2,2,2017-03-12 14:00:00,Romain Hamouma,Chipped
+110130,91,ShotOnPost,0.8930000305175781,0.46,0.35565486550331116,Romain Hamouma,h,3561,OpenPlay,2016,RightFoot,4196,Saint-Etienne,Metz,2,2,2017-03-12 14:00:00,Benjamin Corgnet,HeadPass
+110132,94,Goal,0.885,0.47,0.25261688232421875,Loic Perrin,h,3689,SetPiece,2016,Head,4196,Saint-Etienne,Metz,2,2,2017-03-12 14:00:00,Jordan Veretout,Chipped
+110107,0,Goal,0.740999984741211,0.6309999847412109,0.015241866931319237,Ismaila Sarr,a,5675,OpenPlay,2016,RightFoot,4196,Saint-Etienne,Metz,2,2,2017-03-12 14:00:00,Yann Jouffre,TakeOn
+110110,6,BlockedShot,0.7340000152587891,0.509000015258789,0.02162078209221363,Cheick Doukoure,a,4741,OpenPlay,2016,LeftFoot,4196,Saint-Etienne,Metz,2,2,2017-03-12 14:00:00,Yann Jouffre,Pass
+110111,26,MissedShots,0.7390000152587891,0.5070000076293946,0.26600977778434753,Cheick Diabaté,a,3577,OpenPlay,2016,LeftFoot,4196,Saint-Etienne,Metz,2,2,2017-03-12 14:00:00,,None
+110112,31,BlockedShot,0.9519999694824218,0.6419999694824219,0.016964048147201538,Ismaila Sarr,a,5675,FromCorner,2016,Head,4196,Saint-Etienne,Metz,2,2,2017-03-12 14:00:00,Yann Jouffre,Cross
+110117,54,SavedShot,0.899000015258789,0.325,0.059016574174165726,Renaud Cohade,a,3560,OpenPlay,2016,RightFoot,4196,Saint-Etienne,Metz,2,2,2017-03-12 14:00:00,Yann Jouffre,Pass
+110119,62,SavedShot,0.8680000305175781,0.4229999923706055,0.0296003557741642,Renaud Cohade,a,3560,FromCorner,2016,OtherBodyPart,4196,Saint-Etienne,Metz,2,2,2017-03-12 14:00:00,Benoit Assou-Ekotto,Cross
+110121,64,MissedShots,0.88,0.515,0.03204416483640671,Cheick Diabaté,a,3577,OpenPlay,2016,Head,4196,Saint-Etienne,Metz,2,2,2017-03-12 14:00:00,Iván Balliu,Aerial
+110122,66,Goal,0.9569999694824218,0.5670000076293945,0.09707177430391312,Simon Falette,a,5673,SetPiece,2016,LeftFoot,4196,Saint-Etienne,Metz,2,2,2017-03-12 14:00:00,Iván Balliu,Cross
+110125,73,MissedShots,0.9030000305175782,0.2560000038146973,0.04728376492857933,Cheick Diabaté,a,3577,OpenPlay,2016,RightFoot,4196,Saint-Etienne,Metz,2,2,2017-03-12 14:00:00,Opa Nguette,Pass
+110126,74,MissedShots,0.8630000305175781,0.5609999847412109,0.05171596631407738,Cheick Diabaté,a,3577,SetPiece,2016,RightFoot,4196,Saint-Etienne,Metz,2,2,2017-03-12 14:00:00,Renaud Cohade,Cross
+110127,77,MissedShots,0.785,0.365,0.02347911335527897,Cheick Doukoure,a,4741,SetPiece,2016,RightFoot,4196,Saint-Etienne,Metz,2,2,2017-03-12 14:00:00,Yann Jouffre,Pass
+110131,92,BlockedShot,0.965999984741211,0.435,0.7058616876602173,Opa Nguette,a,5676,OpenPlay,2016,RightFoot,4196,Saint-Etienne,Metz,2,2,2017-03-12 14:00:00,Thomas Didillon,TakeOn

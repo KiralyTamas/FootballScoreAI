@@ -1,0 +1,26 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+296128,8,MissedShots,0.710999984741211,0.20299999237060548,0.009432953782379627,Dani Alves,h,1288,OpenPlay,2018,LeftFoot,10972,Paris Saint Germain,Monaco,3,1,2019-04-21 20:00:00,Colin Dagba,Pass
+296129,14,Goal,0.9080000305175782,0.580999984741211,0.5799703001976013,Kylian Mbappe-Lottin,h,3423,OpenPlay,2018,RightFoot,10972,Paris Saint Germain,Monaco,3,1,2019-04-21 20:00:00,Moussa Diaby,Throughball
+296131,18,SavedShot,0.9590000152587891,0.645,0.3068966567516327,Kylian Mbappe-Lottin,h,3423,OpenPlay,2018,LeftFoot,10972,Paris Saint Germain,Monaco,3,1,2019-04-21 20:00:00,Marco Verratti,Pass
+296134,32,MissedShots,0.875999984741211,0.40400001525878904,0.33175405859947205,Kylian Mbappe-Lottin,h,3423,OpenPlay,2018,RightFoot,10972,Paris Saint Germain,Monaco,3,1,2019-04-21 20:00:00,Leandro Paredes,Throughball
+296135,37,Goal,0.875,0.5429999923706055,0.41110020875930786,Kylian Mbappe-Lottin,h,3423,OpenPlay,2018,RightFoot,10972,Paris Saint Germain,Monaco,3,1,2019-04-21 20:00:00,Dani Alves,Throughball
+296136,42,SavedShot,0.970999984741211,0.7030000305175781,0.07138819992542267,Kylian Mbappe-Lottin,h,3423,OpenPlay,2018,RightFoot,10972,Paris Saint Germain,Monaco,3,1,2019-04-21 20:00:00,Layvin Kurzawa,BallRecovery
+296139,51,ShotOnPost,0.955,0.6759999847412109,0.08508380502462387,Kylian Mbappe-Lottin,h,3423,OpenPlay,2018,LeftFoot,10972,Paris Saint Germain,Monaco,3,1,2019-04-21 20:00:00,Neymar,Pass
+296140,52,MissedShots,0.875,0.355,0.08855336904525757,Dani Alves,h,1288,OpenPlay,2018,RightFoot,10972,Paris Saint Germain,Monaco,3,1,2019-04-21 20:00:00,Colin Dagba,Pass
+296141,52,MissedShots,0.8880000305175781,0.345,0.051057592034339905,Dani Alves,h,1288,OpenPlay,2018,RightFoot,10972,Paris Saint Germain,Monaco,3,1,2019-04-21 20:00:00,,Rebound
+296142,54,Goal,0.935,0.515,0.6155601739883423,Kylian Mbappe-Lottin,h,3423,OpenPlay,2018,LeftFoot,10972,Paris Saint Germain,Monaco,3,1,2019-04-21 20:00:00,Dani Alves,Pass
+296127,6,SavedShot,0.91,0.66,0.1186373233795166,Rony Lopes,a,3362,OpenPlay,2018,LeftFoot,10972,Paris Saint Germain,Monaco,3,1,2019-04-21 20:00:00,Falcao,Throughball
+296130,17,BlockedShot,0.9380000305175781,0.7269999694824218,0.03230439871549606,Rony Lopes,a,3362,OpenPlay,2018,LeftFoot,10972,Paris Saint Germain,Monaco,3,1,2019-04-21 20:00:00,Jemerson,Chipped
+296132,25,BlockedShot,0.815,0.27399999618530274,0.021251613274216652,Benjamin Henrichs,a,435,OpenPlay,2018,RightFoot,10972,Paris Saint Germain,Monaco,3,1,2019-04-21 20:00:00,,None
+296133,26,MissedShots,0.8,0.6659999847412109,0.026424232870340347,Aleksandr Golovin,a,2897,OpenPlay,2018,LeftFoot,10972,Paris Saint Germain,Monaco,3,1,2019-04-21 20:00:00,Adrien Silva,TakeOn
+296137,43,SavedShot,0.8469999694824218,0.445,0.06696990877389908,Gelson Martins,a,7012,OpenPlay,2018,RightFoot,10972,Paris Saint Germain,Monaco,3,1,2019-04-21 20:00:00,,BallTouch
+296138,45,SavedShot,0.764000015258789,0.485,0.014891976490616798,Adrien Silva,a,6464,FromCorner,2018,RightFoot,10972,Paris Saint Germain,Monaco,3,1,2019-04-21 20:00:00,,Aerial
+296143,57,BlockedShot,0.7909999847412109,0.5670000076293945,0.03304814174771309,Benoit Badiashile Mukinayi,a,7240,SetPiece,2018,LeftFoot,10972,Paris Saint Germain,Monaco,3,1,2019-04-21 20:00:00,,BallRecovery
+296144,62,MissedShots,0.8590000152587891,0.6509999847412109,0.053792599588632584,Aleksandr Golovin,a,2897,OpenPlay,2018,LeftFoot,10972,Paris Saint Germain,Monaco,3,1,2019-04-21 20:00:00,Rony Lopes,BallRecovery
+296145,62,MissedShots,0.7040000152587891,0.44799999237060545,0.009924542158842087,Jemerson,a,3581,OpenPlay,2018,RightFoot,10972,Paris Saint Germain,Monaco,3,1,2019-04-21 20:00:00,Aleksandr Golovin,Pass
+296146,68,MissedShots,0.9019999694824219,0.5529999923706055,0.2807275652885437,Aleksandr Golovin,a,2897,OpenPlay,2018,Head,10972,Paris Saint Germain,Monaco,3,1,2019-04-21 20:00:00,Fode Toure,Cross
+296147,70,MissedShots,0.720999984741211,0.6090000152587891,0.011562032625079155,Adrien Silva,a,6464,OpenPlay,2018,RightFoot,10972,Paris Saint Germain,Monaco,3,1,2019-04-21 20:00:00,Rony Lopes,Pass
+296148,73,BlockedShot,0.8930000305175781,0.5320000076293945,0.115658700466156,Aleksandr Golovin,a,2897,OpenPlay,2018,RightFoot,10972,Paris Saint Germain,Monaco,3,1,2019-04-21 20:00:00,Carlos Vinicius,Pass
+296149,79,Goal,0.8730000305175781,0.4520000076293945,0.0766923651099205,Aleksandr Golovin,a,2897,OpenPlay,2018,RightFoot,10972,Paris Saint Germain,Monaco,3,1,2019-04-21 20:00:00,Carlos Vinicius,BlockedPass
+296150,82,MissedShots,0.7319999694824219,0.6270000076293946,0.012800149619579315,Rony Lopes,a,3362,OpenPlay,2018,LeftFoot,10972,Paris Saint Germain,Monaco,3,1,2019-04-21 20:00:00,Gelson Martins,Pass
+296151,88,BlockedShot,0.764000015258789,0.3060000038146973,0.05233699828386307,Rony Lopes,a,3362,DirectFreekick,2018,LeftFoot,10972,Paris Saint Germain,Monaco,3,1,2019-04-21 20:00:00,,Standard

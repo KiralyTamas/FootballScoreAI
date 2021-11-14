@@ -1,0 +1,27 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+321186,16,MissedShots,0.8590000152587891,0.33599998474121096,0.03511739894747734,Rodrigo,h,2381,OpenPlay,2019,LeftFoot,12069,Valencia,Leganes,1,1,2019-09-22 14:00:00,Daniel Wass,HeadPass
+321187,20,Goal,0.885,0.5,0.7432776093482971,Daniel Parejo,h,2378,Penalty,2019,RightFoot,12069,Valencia,Leganes,1,1,2019-09-22 14:00:00,,Standard
+321192,41,BlockedShot,0.774000015258789,0.38799999237060545,0.02291964367032051,Gonçalo Guedes,h,5682,SetPiece,2019,RightFoot,12069,Valencia,Leganes,1,1,2019-09-22 14:00:00,Daniel Parejo,Pass
+321195,46,MissedShots,0.8880000305175781,0.6409999847412109,0.07412730902433395,Gonçalo Guedes,h,5682,OpenPlay,2019,RightFoot,12069,Valencia,Leganes,1,1,2019-09-22 14:00:00,,Dispossessed
+321193,48,SavedShot,0.7980000305175782,0.18200000762939453,0.018581513315439224,Rodrigo,h,2381,OpenPlay,2019,LeftFoot,12069,Valencia,Leganes,1,1,2019-09-22 14:00:00,Francis Coquelin,Pass
+321194,49,MissedShots,0.78,0.44299999237060544,0.031515348702669144,Francis Coquelin,h,497,OpenPlay,2019,RightFoot,12069,Valencia,Leganes,1,1,2019-09-22 14:00:00,,None
+321197,51,BlockedShot,0.6919999694824219,0.509000015258789,0.040101129561662674,Daniel Parejo,h,2378,DirectFreekick,2019,RightFoot,12069,Valencia,Leganes,1,1,2019-09-22 14:00:00,,Standard
+321198,53,SavedShot,0.925,0.5709999847412109,0.09267700463533401,Maxi Gómez,h,6124,OpenPlay,2019,RightFoot,12069,Valencia,Leganes,1,1,2019-09-22 14:00:00,José Gayá,Cross
+321199,58,BlockedShot,0.8009999847412109,0.73,0.015987806022167206,Gonçalo Guedes,h,5682,OpenPlay,2019,RightFoot,12069,Valencia,Leganes,1,1,2019-09-22 14:00:00,Rodrigo,Chipped
+321200,61,MissedShots,0.7680000305175781,0.6819999694824219,0.013018873520195484,Jaume Costa,h,2539,OpenPlay,2019,LeftFoot,12069,Valencia,Leganes,1,1,2019-09-22 14:00:00,Lee Kang-In,Chipped
+321203,83,SavedShot,0.754000015258789,0.7,0.051310814917087555,Daniel Parejo,h,2378,DirectFreekick,2019,RightFoot,12069,Valencia,Leganes,1,1,2019-09-22 14:00:00,,Standard
+321204,83,BlockedShot,0.905,0.5529999923706055,0.45926856994628906,Ezequiel Garay,h,3056,SetPiece,2019,RightFoot,12069,Valencia,Leganes,1,1,2019-09-22 14:00:00,,Rebound
+321205,88,MissedShots,0.9030000305175782,0.5459999847412109,0.09139896184206009,Rodrigo,h,2381,SetPiece,2019,Head,12069,Valencia,Leganes,1,1,2019-09-22 14:00:00,Daniel Parejo,Cross
+321182,3,MissedShots,0.754000015258789,0.40400001525878904,0.027545370161533356,Óscar Rodríguez,a,6570,OpenPlay,2019,LeftFoot,12069,Valencia,Leganes,1,1,2019-09-22 14:00:00,Recio,HeadPass
+321183,5,SavedShot,0.9059999847412109,0.61,0.16906726360321045,Dimitrios Siovas,a,5064,FromCorner,2019,Head,12069,Valencia,Leganes,1,1,2019-09-22 14:00:00,Óscar Rodríguez,Cross
+321184,7,BlockedShot,0.799000015258789,0.6619999694824219,0.036024581640958786,Recio,a,2337,OpenPlay,2019,RightFoot,12069,Valencia,Leganes,1,1,2019-09-22 14:00:00,Guido Carrillo,TakeOn
+321185,8,MissedShots,0.875,0.8480000305175781,0.02236834540963173,Óscar Rodríguez,a,6570,FromCorner,2019,RightFoot,12069,Valencia,Leganes,1,1,2019-09-22 14:00:00,Martin Braithwaite,Pass
+321188,23,ShotOnPost,0.7959999847412109,0.5220000076293946,0.12720873951911926,Óscar Rodríguez,a,6570,DirectFreekick,2019,RightFoot,12069,Valencia,Leganes,1,1,2019-09-22 14:00:00,,Standard
+321189,25,MissedShots,0.935,0.534000015258789,0.3801831901073456,Martin Braithwaite,a,3211,FromCorner,2019,Head,12069,Valencia,Leganes,1,1,2019-09-22 14:00:00,Óscar Rodríguez,Cross
+321190,34,BlockedShot,0.855999984741211,0.4759999847412109,0.08248118311166763,Dimitrios Siovas,a,5064,OpenPlay,2019,LeftFoot,12069,Valencia,Leganes,1,1,2019-09-22 14:00:00,,TakeOn
+321191,34,Goal,0.9059999847412109,0.62,0.3803081810474396,Óscar Rodríguez,a,6570,OpenPlay,2019,LeftFoot,12069,Valencia,Leganes,1,1,2019-09-22 14:00:00,Guido Carrillo,None
+321196,47,SavedShot,0.94,0.3509999847412109,0.008530426770448685,Unai Bustinza,a,4107,SetPiece,2019,Head,12069,Valencia,Leganes,1,1,2019-09-22 14:00:00,Jonathan Silva,Aerial
+321201,80,BlockedShot,0.7390000152587891,0.44299999237060544,0.06297565251588821,Jonathan Silva,a,6567,DirectFreekick,2019,RightFoot,12069,Valencia,Leganes,1,1,2019-09-22 14:00:00,,Standard
+321202,80,BlockedShot,0.95,0.45,0.14179322123527527,Martin Braithwaite,a,3211,OpenPlay,2019,RightFoot,12069,Valencia,Leganes,1,1,2019-09-22 14:00:00,Unai Bustinza,Pass
+321206,90,MissedShots,0.7709999847412109,0.19200000762939454,0.016745029017329216,Óscar Rodríguez,a,6570,OpenPlay,2019,RightFoot,12069,Valencia,Leganes,1,1,2019-09-22 14:00:00,Martin Braithwaite,Pass
+321207,96,SavedShot,0.8719999694824219,0.6930000305175781,0.06616125255823135,Kévin Rodrigues,a,5153,OpenPlay,2019,LeftFoot,12069,Valencia,Leganes,1,1,2019-09-22 14:00:00,Óscar Rodríguez,Pass

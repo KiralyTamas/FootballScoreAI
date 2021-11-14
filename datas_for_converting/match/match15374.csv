@@ -1,0 +1,35 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+412528,7,MissedShots,0.764000015258789,0.37599998474121094,0.019602131098508835,Raphael Guerreiro,h,3455,OpenPlay,2020,LeftFoot,15374,Borussia Dortmund,Eintracht Frankfurt,1,2,2021-04-03 13:30:00,,None
+412530,10,OwnGoal,0.049000000953674315,0.5670000076293945,0,Nico Schulz,h,433,OpenPlay,2020,Head,15374,Borussia Dortmund,Eintracht Frankfurt,1,2,2021-04-03 13:30:00,,BallTouch
+412533,20,MissedShots,0.9059999847412109,0.34299999237060547,0.26950278878211975,Erling Haaland,h,8260,OpenPlay,2020,RightFoot,15374,Borussia Dortmund,Eintracht Frankfurt,1,2,2021-04-03 13:30:00,Raphael Guerreiro,Chipped
+412535,24,SavedShot,0.905,0.46099998474121096,0.4605250656604767,Erling Haaland,h,8260,OpenPlay,2020,LeftFoot,15374,Borussia Dortmund,Eintracht Frankfurt,1,2,2021-04-03 13:30:00,Thorgan Hazard,Throughball
+412536,24,MissedShots,0.7580000305175781,0.5,0.02613189071416855,Raphael Guerreiro,h,3455,OpenPlay,2020,LeftFoot,15374,Borussia Dortmund,Eintracht Frankfurt,1,2,2021-04-03 13:30:00,,Rebound
+412538,37,SavedShot,0.9019999694824219,0.56,0.017580479383468628,Mats Hummels,h,373,FromCorner,2020,Head,15374,Borussia Dortmund,Eintracht Frankfurt,1,2,2021-04-03 13:30:00,Thorgan Hazard,Aerial
+412539,43,Goal,0.950999984741211,0.5120000076293946,0.6347889304161072,Mats Hummels,h,373,FromCorner,2020,LeftFoot,15374,Borussia Dortmund,Eintracht Frankfurt,1,2,2021-04-03 13:30:00,Emre Can,Pass
+412541,48,BlockedShot,0.850999984741211,0.5129999923706055,0.09320907294750214,Thorgan Hazard,h,213,OpenPlay,2020,LeftFoot,15374,Borussia Dortmund,Eintracht Frankfurt,1,2,2021-04-03 13:30:00,Nico Schulz,Pass
+412544,57,MissedShots,0.9159999847412109,0.620999984741211,0.0673099160194397,Marco Reus,h,319,OpenPlay,2020,RightFoot,15374,Borussia Dortmund,Eintracht Frankfurt,1,2,2021-04-03 13:30:00,Thorgan Hazard,Cross
+412545,57,MissedShots,0.8980000305175782,0.63,0.07117832452058792,Marco Reus,h,319,OpenPlay,2020,LeftFoot,15374,Borussia Dortmund,Eintracht Frankfurt,1,2,2021-04-03 13:30:00,,None
+412546,59,SavedShot,0.860999984741211,0.54,0.10321983695030212,Raphael Guerreiro,h,3455,OpenPlay,2020,LeftFoot,15374,Borussia Dortmund,Eintracht Frankfurt,1,2,2021-04-03 13:30:00,Nico Schulz,Pass
+412547,68,MissedShots,0.9080000305175782,0.7,0.05016006901860237,Erling Haaland,h,8260,OpenPlay,2020,LeftFoot,15374,Borussia Dortmund,Eintracht Frankfurt,1,2,2021-04-03 13:30:00,Marco Reus,Chipped
+412548,69,BlockedShot,0.8090000152587891,0.3079999923706055,0.02434435859322548,Emre Can,h,604,OpenPlay,2020,LeftFoot,15374,Borussia Dortmund,Eintracht Frankfurt,1,2,2021-04-03 13:30:00,,None
+412549,70,MissedShots,0.7480000305175781,0.4209999847412109,0.019608432427048683,Emre Can,h,604,OpenPlay,2020,RightFoot,15374,Borussia Dortmund,Eintracht Frankfurt,1,2,2021-04-03 13:30:00,Marco Reus,Pass
+412552,77,MissedShots,0.7419999694824219,0.3390000152587891,0.021319303661584854,Raphael Guerreiro,h,3455,OpenPlay,2020,LeftFoot,15374,Borussia Dortmund,Eintracht Frankfurt,1,2,2021-04-03 13:30:00,Emre Can,Pass
+412555,82,MissedShots,0.799000015258789,0.5579999923706055,0.041664883494377136,Mahmoud Dahoud,h,205,OpenPlay,2020,RightFoot,15374,Borussia Dortmund,Eintracht Frankfurt,1,2,2021-04-03 13:30:00,,None
+412556,85,MissedShots,0.9059999847412109,0.44299999237060544,0.09345264732837677,Erling Haaland,h,8260,OpenPlay,2020,Head,15374,Borussia Dortmund,Eintracht Frankfurt,1,2,2021-04-03 13:30:00,Ansgar Knauff,Cross
+412558,88,MissedShots,0.915,0.5459999847412109,0.03161892294883728,Mats Hummels,h,373,FromCorner,2020,Head,15374,Borussia Dortmund,Eintracht Frankfurt,1,2,2021-04-03 13:30:00,Giovanni Reyna,Aerial
+412560,93,BlockedShot,0.875999984741211,0.4490000152587891,0.07929883152246475,Manuel Akanji,h,6490,SetPiece,2020,RightFoot,15374,Borussia Dortmund,Eintracht Frankfurt,1,2,2021-04-03 13:30:00,Ansgar Knauff,Chipped
+412561,93,SavedShot,0.875999984741211,0.41200000762939454,0.03550516813993454,Giovanni Reyna,h,8191,SetPiece,2020,RightFoot,15374,Borussia Dortmund,Eintracht Frankfurt,1,2,2021-04-03 13:30:00,Mats Hummels,Aerial
+412529,8,BlockedShot,0.8119999694824219,0.5,0.04592619836330414,Amin Younes,a,7289,OpenPlay,2020,RightFoot,15374,Borussia Dortmund,Eintracht Frankfurt,1,2,2021-04-03 13:30:00,André Silva,HeadPass
+412531,14,SavedShot,0.925,0.5120000076293946,0.08633685857057571,André Silva,a,6170,OpenPlay,2020,Head,15374,Borussia Dortmund,Eintracht Frankfurt,1,2,2021-04-03 13:30:00,Filip Kostic,Aerial
+412532,16,MissedShots,0.7880000305175782,0.31799999237060544,0.029727887362241745,Erik Durm,a,2640,OpenPlay,2020,LeftFoot,15374,Borussia Dortmund,Eintracht Frankfurt,1,2,2021-04-03 13:30:00,Sebastian Rode,Pass
+412534,24,SavedShot,0.7980000305175782,0.6029999923706054,0.051885608583688736,Djibril Sow,a,2624,OpenPlay,2020,RightFoot,15374,Borussia Dortmund,Eintracht Frankfurt,1,2,2021-04-03 13:30:00,,None
+412537,35,BlockedShot,0.82,0.534000015258789,0.08285435289144516,Filip Kostic,a,64,OpenPlay,2020,LeftFoot,15374,Borussia Dortmund,Eintracht Frankfurt,1,2,2021-04-03 13:30:00,Amin Younes,Pass
+412540,47,MissedShots,0.8419999694824218,0.45799999237060546,0.0658789724111557,Daichi Kamada,a,6145,OpenPlay,2020,RightFoot,15374,Borussia Dortmund,Eintracht Frankfurt,1,2,2021-04-03 13:30:00,Erik Durm,None
+412542,51,MissedShots,0.8040000152587891,0.64,0.032308414578437805,Filip Kostic,a,64,OpenPlay,2020,LeftFoot,15374,Borussia Dortmund,Eintracht Frankfurt,1,2,2021-04-03 13:30:00,,None
+412543,56,MissedShots,0.915,0.49900001525878906,0.1066683754324913,Daichi Kamada,a,6145,OpenPlay,2020,RightFoot,15374,Borussia Dortmund,Eintracht Frankfurt,1,2,2021-04-03 13:30:00,Filip Kostic,Cross
+412550,72,MissedShots,0.904000015258789,0.46900001525878904,0.10351275652647018,André Silva,a,6170,OpenPlay,2020,LeftFoot,15374,Borussia Dortmund,Eintracht Frankfurt,1,2,2021-04-03 13:30:00,Filip Kostic,Cross
+412551,74,MissedShots,0.789000015258789,0.4520000076293945,0.03428199887275696,Daichi Kamada,a,6145,OpenPlay,2020,RightFoot,15374,Borussia Dortmund,Eintracht Frankfurt,1,2,2021-04-03 13:30:00,Sebastian Rode,Pass
+412553,78,MissedShots,0.9209999847412109,0.34200000762939453,0.07213158905506134,Djibril Sow,a,2624,OpenPlay,2020,RightFoot,15374,Borussia Dortmund,Eintracht Frankfurt,1,2,2021-04-03 13:30:00,Daichi Kamada,Pass
+412554,80,MissedShots,0.9530000305175781,0.42700000762939455,0.13550300896167755,Luka Jovic,a,6228,OpenPlay,2020,Head,15374,Borussia Dortmund,Eintracht Frankfurt,1,2,2021-04-03 13:30:00,Filip Kostic,Cross
+412557,86,Goal,0.9590000152587891,0.4570000076293945,0.5799015760421753,André Silva,a,6170,OpenPlay,2020,Head,15374,Borussia Dortmund,Eintracht Frankfurt,1,2,2021-04-03 13:30:00,Filip Kostic,Cross
+412559,90,MissedShots,0.9030000305175782,0.6370000076293946,0.3326849043369293,Filip Kostic,a,64,OpenPlay,2020,LeftFoot,15374,Borussia Dortmund,Eintracht Frankfurt,1,2,2021-04-03 13:30:00,Luka Jovic,Pass

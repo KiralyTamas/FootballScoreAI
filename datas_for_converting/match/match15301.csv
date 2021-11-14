@@ -1,0 +1,25 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+400355,6,SavedShot,0.8030000305175782,0.385,0.00943973008543253,Amos Pieper,h,7320,SetPiece,2020,Head,15301,Arminia Bielefeld,Eintracht Frankfurt,1,5,2021-01-23 14:30:00,,Aerial
+400356,9,SavedShot,0.855999984741211,0.29200000762939454,0.03431731089949608,Ritsu Doan,h,8791,OpenPlay,2020,LeftFoot,15301,Arminia Bielefeld,Eintracht Frankfurt,1,5,2021-01-23 14:30:00,Marcel Hartel,Pass
+400361,22,MissedShots,0.9109999847412109,0.5329999923706055,0.10764551907777786,Reinhold Yabo,h,8958,OpenPlay,2020,RightFoot,15301,Arminia Bielefeld,Eintracht Frankfurt,1,5,2021-01-23 14:30:00,Fabian Klos,HeadPass
+400364,27,SavedShot,0.945,0.6179999923706054,0.07408929616212845,Fabian Klos,h,8792,SetPiece,2020,RightFoot,15301,Arminia Bielefeld,Eintracht Frankfurt,1,5,2021-01-23 14:30:00,,None
+400367,35,Goal,0.885,0.549000015258789,0.037018999457359314,Sergio Córdova,h,6096,OpenPlay,2020,Head,15301,Arminia Bielefeld,Eintracht Frankfurt,1,5,2021-01-23 14:30:00,Cédric Brunner,Aerial
+400371,50,OwnGoal,0.049000000953674315,0.515,0,Joakim Nilsson,h,8799,OpenPlay,2020,LeftFoot,15301,Arminia Bielefeld,Eintracht Frankfurt,1,5,2021-01-23 14:30:00,,OffsidePass
+400372,55,MissedShots,0.884000015258789,0.4490000152587891,0.014786365441977978,Amos Pieper,h,7320,SetPiece,2020,Head,15301,Arminia Bielefeld,Eintracht Frankfurt,1,5,2021-01-23 14:30:00,Ritsu Doan,Aerial
+400375,67,MissedShots,0.8680000305175781,0.6869999694824219,0.03631971403956413,Christian Gebauer,h,8796,OpenPlay,2020,RightFoot,15301,Arminia Bielefeld,Eintracht Frankfurt,1,5,2021-01-23 14:30:00,,None
+400376,68,BlockedShot,0.8480000305175781,0.27399999618530274,0.015666760504245758,Ritsu Doan,h,8791,OpenPlay,2020,LeftFoot,15301,Arminia Bielefeld,Eintracht Frankfurt,1,5,2021-01-23 14:30:00,Christian Gebauer,Rebound
+400357,11,BlockedShot,0.8119999694824219,0.5159999847412109,0.1569492667913437,Daichi Kamada,a,6145,DirectFreekick,2020,RightFoot,15301,Arminia Bielefeld,Eintracht Frankfurt,1,5,2021-01-23 14:30:00,,Standard
+400358,11,SavedShot,0.9580000305175781,0.3160000038146973,0.06093399599194527,Erik Durm,a,2640,SetPiece,2020,RightFoot,15301,Arminia Bielefeld,Eintracht Frankfurt,1,5,2021-01-23 14:30:00,Djibril Sow,HeadPass
+400359,12,SavedShot,0.7469999694824219,0.3089999961853027,0.019723234698176384,Filip Kostic,a,64,OpenPlay,2020,LeftFoot,15301,Arminia Bielefeld,Eintracht Frankfurt,1,5,2021-01-23 14:30:00,Tuta,Pass
+400360,20,MissedShots,0.915,0.504000015258789,0.37952813506126404,André Silva,a,6170,OpenPlay,2020,LeftFoot,15301,Arminia Bielefeld,Eintracht Frankfurt,1,5,2021-01-23 14:30:00,Erik Durm,Cross
+400362,24,Goal,0.9309999847412109,0.53,0.5648750066757202,André Silva,a,6170,OpenPlay,2020,LeftFoot,15301,Arminia Bielefeld,Eintracht Frankfurt,1,5,2021-01-23 14:30:00,,None
+400363,26,Goal,0.7290000152587891,0.28600000381469726,0.015734564512968063,Filip Kostic,a,64,FromCorner,2020,LeftFoot,15301,Arminia Bielefeld,Eintracht Frankfurt,1,5,2021-01-23 14:30:00,Amin Younes,Pass
+400365,32,BlockedShot,0.874000015258789,0.30100000381469727,0.06570883095264435,Erik Durm,a,2640,OpenPlay,2020,LeftFoot,15301,Arminia Bielefeld,Eintracht Frankfurt,1,5,2021-01-23 14:30:00,André Silva,Pass
+400366,32,Goal,0.88,0.524000015258789,0.478083074092865,André Silva,a,6170,OpenPlay,2020,LeftFoot,15301,Arminia Bielefeld,Eintracht Frankfurt,1,5,2021-01-23 14:30:00,Filip Kostic,Pass
+400368,40,MissedShots,0.9130000305175782,0.6329999923706054,0.1263505518436432,Amin Younes,a,7289,OpenPlay,2020,LeftFoot,15301,Arminia Bielefeld,Eintracht Frankfurt,1,5,2021-01-23 14:30:00,Filip Kostic,Pass
+400369,45,BlockedShot,0.8230000305175781,0.35900001525878905,0.01254151202738285,Filip Kostic,a,64,FromCorner,2020,LeftFoot,15301,Arminia Bielefeld,Eintracht Frankfurt,1,5,2021-01-23 14:30:00,Daichi Kamada,Chipped
+400370,48,MissedShots,0.9319999694824219,0.5070000076293946,0.05700365826487541,André Silva,a,6170,OpenPlay,2020,Head,15301,Arminia Bielefeld,Eintracht Frankfurt,1,5,2021-01-23 14:30:00,Filip Kostic,CornerAwarded
+400373,59,BlockedShot,0.8819999694824219,0.6719999694824219,0.08327701687812805,Amin Younes,a,7289,OpenPlay,2020,RightFoot,15301,Arminia Bielefeld,Eintracht Frankfurt,1,5,2021-01-23 14:30:00,Filip Kostic,Pass
+400374,60,BlockedShot,0.895,0.749000015258789,0.029480308294296265,Daichi Kamada,a,6145,FromCorner,2020,RightFoot,15301,Arminia Bielefeld,Eintracht Frankfurt,1,5,2021-01-23 14:30:00,Filip Kostic,Pass
+400377,74,Goal,0.8919999694824219,0.585,0.1340591162443161,Luka Jovic,a,6228,OpenPlay,2020,LeftFoot,15301,Arminia Bielefeld,Eintracht Frankfurt,1,5,2021-01-23 14:30:00,Daichi Kamada,Pass
+400378,77,SavedShot,0.9290000152587891,0.6880000305175781,0.3798152506351471,Filip Kostic,a,64,OpenPlay,2020,LeftFoot,15301,Arminia Bielefeld,Eintracht Frankfurt,1,5,2021-01-23 14:30:00,Luka Jovic,Throughball

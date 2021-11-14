@@ -1,0 +1,25 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+118171,2,MissedShots,0.9080000305175782,0.5279999923706055,0.11514617502689362,Robert Snodgrass,h,1691,OpenPlay,2016,LeftFoot,3385,West Ham,West Bromwich Albion,2,2,2017-02-11 15:00:00,Sofiane Feghouli,Cross
+118174,20,MissedShots,0.77,0.355,0.022566504776477814,Sofiane Feghouli,h,1674,OpenPlay,2016,RightFoot,3385,West Ham,West Bromwich Albion,2,2,2017-02-11 15:00:00,Mark Noble,Pass
+118178,41,BlockedShot,0.9690000152587891,0.5820000076293945,0.039600539952516556,Michail Antonio,h,531,FromCorner,2016,Head,3385,West Ham,West Bromwich Albion,2,2,2017-02-11 15:00:00,Robert Snodgrass,Aerial
+118179,42,BlockedShot,0.7869999694824219,0.39799999237060546,0.08850117027759552,Robert Snodgrass,h,1691,DirectFreekick,2016,LeftFoot,3385,West Ham,West Bromwich Albion,2,2,2017-02-11 15:00:00,,Standard
+118180,42,BlockedShot,0.7730000305175782,0.36900001525878906,0.016593854874372482,Mark Noble,h,533,SetPiece,2016,RightFoot,3385,West Ham,West Bromwich Albion,2,2,2017-02-11 15:00:00,Robert Snodgrass,Rebound
+118181,45,BlockedShot,0.9469999694824218,0.5320000076293945,0.06884811818599701,Michail Antonio,h,531,OpenPlay,2016,Head,3385,West Ham,West Bromwich Albion,2,2,2017-02-11 15:00:00,Robert Snodgrass,Aerial
+118182,48,BlockedShot,0.7480000305175781,0.37599998474121094,0.01673576422035694,Sofiane Feghouli,h,1674,OpenPlay,2016,LeftFoot,3385,West Ham,West Bromwich Albion,2,2,2017-02-11 15:00:00,Michail Antonio,None
+118183,62,SavedShot,0.774000015258789,0.625,0.024044916033744812,Manuel Lanzini,h,535,OpenPlay,2016,RightFoot,3385,West Ham,West Bromwich Albion,2,2,2017-02-11 15:00:00,Robert Snodgrass,Pass
+118184,62,Goal,0.935,0.5590000152587891,0.49269747734069824,Sofiane Feghouli,h,1674,OpenPlay,2016,LeftFoot,3385,West Ham,West Bromwich Albion,2,2,2017-02-11 15:00:00,,Rebound
+118185,68,BlockedShot,0.7169999694824218,0.36900001525878906,0.01440600398927927,Cheikhou Kouyaté,h,532,OpenPlay,2016,RightFoot,3385,West Ham,West Bromwich Albion,2,2,2017-02-11 15:00:00,Robert Snodgrass,Pass
+118186,71,BlockedShot,0.965,0.5990000152587891,0.09716575592756271,Manuel Lanzini,h,535,OpenPlay,2016,LeftFoot,3385,West Ham,West Bromwich Albion,2,2,2017-02-11 15:00:00,Sofiane Feghouli,Cross
+118187,73,SavedShot,0.8880000305175781,0.3240000152587891,0.059834908694028854,Jonathan Calleri,h,1672,OpenPlay,2016,RightFoot,3385,West Ham,West Bromwich Albion,2,2,2017-02-11 15:00:00,Pedro Obiang,Pass
+118188,76,BlockedShot,0.7669999694824219,0.4640000152587891,0.03153841197490692,Jonathan Calleri,h,1672,OpenPlay,2016,RightFoot,3385,West Ham,West Bromwich Albion,2,2,2017-02-11 15:00:00,Robert Snodgrass,BallRecovery
+118189,77,MissedShots,0.8830000305175781,0.6609999847412109,0.0570698045194149,Manuel Lanzini,h,535,OpenPlay,2016,LeftFoot,3385,West Ham,West Bromwich Albion,2,2,2017-02-11 15:00:00,,None
+118191,84,MissedShots,0.754000015258789,0.5059999847412109,0.021379252895712852,José Fonte,h,834,OpenPlay,2016,RightFoot,3385,West Ham,West Bromwich Albion,2,2,2017-02-11 15:00:00,,None
+118192,85,Goal,0.755,0.47200000762939454,0.02271885611116886,Manuel Lanzini,h,535,OpenPlay,2016,LeftFoot,3385,West Ham,West Bromwich Albion,2,2,2017-02-11 15:00:00,Sofiane Feghouli,Pass
+118172,5,Goal,0.9290000152587891,0.66,0.3246016800403595,Nacer Chadli,a,648,OpenPlay,2016,LeftFoot,3385,West Ham,West Bromwich Albion,2,2,2017-02-11 15:00:00,James Morrison,TakeOn
+118173,14,ShotOnPost,0.745999984741211,0.43099998474121093,0.033294133841991425,Salomón Rondón,a,813,OpenPlay,2016,RightFoot,3385,West Ham,West Bromwich Albion,2,2,2017-02-11 15:00:00,Matt Phillips,LayOff
+118175,28,MissedShots,0.9159999847412109,0.265,0.026999017223715782,James Morrison,a,990,FromCorner,2016,RightFoot,3385,West Ham,West Bromwich Albion,2,2,2017-02-11 15:00:00,,None
+118176,28,SavedShot,0.8690000152587891,0.6309999847412109,0.0937088206410408,Nacer Chadli,a,648,OpenPlay,2016,RightFoot,3385,West Ham,West Bromwich Albion,2,2,2017-02-11 15:00:00,Salomón Rondón,Pass
+118177,37,BlockedShot,0.9119999694824219,0.3240000152587891,0.04549579694867134,Chris Brunt,a,904,FromCorner,2016,LeftFoot,3385,West Ham,West Bromwich Albion,2,2,2017-02-11 15:00:00,,None
+118190,79,MissedShots,0.8469999694824218,0.725999984741211,0.02451508864760399,Salomón Rondón,a,813,OpenPlay,2016,RightFoot,3385,West Ham,West Bromwich Albion,2,2,2017-02-11 15:00:00,Jake Livermore,Pass
+118193,93,BlockedShot,0.9730000305175781,0.5640000152587891,0.12110479921102524,Jonny Evans,a,807,FromCorner,2016,Head,3385,West Ham,West Bromwich Albion,2,2,2017-02-11 15:00:00,Chris Brunt,Cross
+118194,93,Goal,0.9740000152587891,0.5570000076293945,0.10025430470705032,Gareth McAuley,a,806,FromCorner,2016,Head,3385,West Ham,West Bromwich Albion,2,2,2017-02-11 15:00:00,Jonny Evans,Aerial

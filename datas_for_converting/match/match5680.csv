@@ -1,0 +1,24 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+38379,3,MissedShots,0.97,0.4909999847412109,0.6811224222183228,Rodrigo,h,2381,OpenPlay,2014,OtherBodyPart,5680,Valencia,Sevilla,3,1,2015-01-25 20:00:00,Álvaro Negredo,Chipped
+38383,17,Goal,0.885,0.5,0.7432776093482971,Daniel Parejo,h,2378,Penalty,2014,RightFoot,5680,Valencia,Sevilla,3,1,2015-01-25 20:00:00,,Standard
+38386,25,SavedShot,0.9319999694824219,0.715,0.06298494338989258,José Gayá,h,2505,OpenPlay,2014,LeftFoot,5680,Valencia,Sevilla,3,1,2015-01-25 20:00:00,,None
+38387,31,Goal,0.865,0.565,0.4181444048881531,Daniel Parejo,h,2378,OpenPlay,2014,RightFoot,5680,Valencia,Sevilla,3,1,2015-01-25 20:00:00,Enzo Pérez,Chipped
+38390,42,SavedShot,0.7180000305175781,0.46799999237060547,0.024103617295622826,André Gomes,h,2383,OpenPlay,2014,LeftFoot,5680,Valencia,Sevilla,3,1,2015-01-25 20:00:00,João Cancelo,Pass
+38391,51,SavedShot,0.7269999694824218,0.31799999237060544,0.04298898205161095,Álvaro Negredo,h,1715,DirectFreekick,2014,LeftFoot,5680,Valencia,Sevilla,3,1,2015-01-25 20:00:00,,Standard
+38393,55,Goal,0.845999984741211,0.5629999923706055,0.0951511412858963,Javi Fuego,h,2377,OpenPlay,2014,LeftFoot,5680,Valencia,Sevilla,3,1,2015-01-25 20:00:00,Rodrigo,Pass
+38394,56,BlockedShot,0.915,0.664000015258789,0.14674225449562073,Rodrigo,h,2381,OpenPlay,2014,LeftFoot,5680,Valencia,Sevilla,3,1,2015-01-25 20:00:00,André Gomes,Throughball
+38395,56,SavedShot,0.9109999847412109,0.5520000076293945,0.1351519078016281,André Gomes,h,2383,OpenPlay,2014,RightFoot,5680,Valencia,Sevilla,3,1,2015-01-25 20:00:00,,None
+38396,57,MissedShots,0.9290000152587891,0.4470000076293945,0.04910774156451225,Álvaro Negredo,h,1715,FromCorner,2014,Head,5680,Valencia,Sevilla,3,1,2015-01-25 20:00:00,Daniel Parejo,Aerial
+38399,71,SavedShot,0.8090000152587891,0.605999984741211,0.06069435924291611,Rodrigo,h,2381,OpenPlay,2014,RightFoot,5680,Valencia,Sevilla,3,1,2015-01-25 20:00:00,André Gomes,Pass
+38400,87,BlockedShot,0.9019999694824219,0.3729999923706055,0.12257388234138489,Rodrigo,h,2381,OpenPlay,2014,LeftFoot,5680,Valencia,Sevilla,3,1,2015-01-25 20:00:00,Paco Alcácer,TakeOn
+38401,91,MissedShots,0.855,0.5790000152587891,0.08283106237649918,Rodrigo de Paul,h,1145,OpenPlay,2014,RightFoot,5680,Valencia,Sevilla,3,1,2015-01-25 20:00:00,Daniel Parejo,Cross
+38380,4,MissedShots,0.9319999694824219,0.47,0.14121630787849426,Vicente Iborra,a,2065,SetPiece,2014,Head,5680,Valencia,Sevilla,3,1,2015-01-25 20:00:00,Coke,Cross
+38381,14,SavedShot,0.915,0.47,0.05360924080014229,Grzegorz Krychowiak,a,2414,SetPiece,2014,Head,5680,Valencia,Sevilla,3,1,2015-01-25 20:00:00,,CornerAwarded
+38382,14,SavedShot,0.885,0.5629999923706055,0.037159036844968796,Vitolo,a,2511,FromCorner,2014,Head,5680,Valencia,Sevilla,3,1,2015-01-25 20:00:00,Gerard Deulofeu,Cross
+38384,19,SavedShot,0.91,0.24600000381469728,0.026009870693087578,Coke,a,2073,FromCorner,2014,RightFoot,5680,Valencia,Sevilla,3,1,2015-01-25 20:00:00,,None
+38385,24,MissedShots,0.7080000305175781,0.6079999923706054,0.011623909696936607,Éver Banega,a,1520,OpenPlay,2014,RightFoot,5680,Valencia,Sevilla,3,1,2015-01-25 20:00:00,Vitolo,BallRecovery
+38388,35,Goal,0.885,0.5,0.7432776093482971,Carlos Bacca,a,1125,Penalty,2014,RightFoot,5680,Valencia,Sevilla,3,1,2015-01-25 20:00:00,,Standard
+38389,40,SavedShot,0.885,0.5,0.7432776093482971,Carlos Bacca,a,1125,Penalty,2014,RightFoot,5680,Valencia,Sevilla,3,1,2015-01-25 20:00:00,,Standard
+38392,52,SavedShot,0.95,0.2929999923706055,0.0515485443174839,Gerard Deulofeu,a,591,OpenPlay,2014,RightFoot,5680,Valencia,Sevilla,3,1,2015-01-25 20:00:00,Carlos Bacca,TakeOn
+38397,66,BlockedShot,0.9469999694824218,0.3029999923706055,0.06883428990840912,Gerard Deulofeu,a,591,OpenPlay,2014,RightFoot,5680,Valencia,Sevilla,3,1,2015-01-25 20:00:00,Vicente Iborra,Pass
+38398,70,MissedShots,0.9030000305175782,0.42900001525878906,0.10226934403181076,Denis Suárez,a,2308,OpenPlay,2014,RightFoot,5680,Valencia,Sevilla,3,1,2015-01-25 20:00:00,Kevin Gameiro,Pass

@@ -1,0 +1,25 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+414628,1,BlockedShot,0.8680000305175781,0.37900001525878907,0.08178959786891937,Lucas Moura,h,3293,OpenPlay,2020,RightFoot,14742,Tottenham,Manchester United,1,3,2021-04-11 15:30:00,Son Heung-Min,Pass
+414629,2,MissedShots,0.855,0.515,0.06517811119556427,Son Heung-Min,h,453,FromCorner,2020,RightFoot,14742,Tottenham,Manchester United,1,3,2021-04-11 15:30:00,,None
+414631,39,Goal,0.9319999694824219,0.605,0.3861147463321686,Son Heung-Min,h,453,OpenPlay,2020,LeftFoot,14742,Tottenham,Manchester United,1,3,2021-04-11 15:30:00,Lucas Moura,Pass
+414632,47,MissedShots,0.8280000305175781,0.24799999237060547,0.028664372861385345,Harry Kane,h,647,OpenPlay,2020,RightFoot,14742,Tottenham,Manchester United,1,3,2021-04-11 15:30:00,Giovani Lo Celso,Pass
+414637,59,MissedShots,0.8969999694824219,0.38599998474121094,0.07614009827375412,Serge Aurier,h,3600,OpenPlay,2020,LeftFoot,14742,Tottenham,Manchester United,1,3,2021-04-11 15:30:00,Pierre-Emile Højbjerg,Chipped
+414638,59,SavedShot,0.895,0.6229999923706054,0.07067983597517014,Son Heung-Min,h,453,OpenPlay,2020,RightFoot,14742,Tottenham,Manchester United,1,3,2021-04-11 15:30:00,Serge Aurier,Rebound
+414642,70,MissedShots,0.8919999694824219,0.53,0.07448050379753113,Serge Aurier,h,3600,SetPiece,2020,Head,14742,Tottenham,Manchester United,1,3,2021-04-11 15:30:00,Son Heung-Min,Cross
+414644,72,SavedShot,0.9480000305175781,0.7290000152587891,0.04111490771174431,Harry Kane,h,647,OpenPlay,2020,RightFoot,14742,Tottenham,Manchester United,1,3,2021-04-11 15:30:00,Son Heung-Min,Pass
+414645,72,BlockedShot,0.8490000152587891,0.35400001525878905,0.03638985753059387,Moussa Sissoko,h,772,FromCorner,2020,RightFoot,14742,Tottenham,Manchester United,1,3,2021-04-11 15:30:00,,None
+414648,80,MissedShots,0.7469999694824219,0.34299999237060547,0.008669714443385601,Serge Aurier,h,3600,OpenPlay,2020,RightFoot,14742,Tottenham,Manchester United,1,3,2021-04-11 15:30:00,Erik Lamela,Chipped
+414649,83,MissedShots,0.9359999847412109,0.69,0.04141070321202278,Son Heung-Min,h,453,FromCorner,2020,RightFoot,14742,Tottenham,Manchester United,1,3,2021-04-11 15:30:00,,None
+414650,84,BlockedShot,0.7530000305175781,0.705999984741211,0.016550524160265923,Harry Kane,h,647,OpenPlay,2020,RightFoot,14742,Tottenham,Manchester United,1,3,2021-04-11 15:30:00,Sergio Reguilón,Pass
+414630,15,BlockedShot,0.8969999694824219,0.3529999923706055,0.087928906083107,Marcus Rashford,a,556,OpenPlay,2020,RightFoot,14742,Tottenham,Manchester United,1,3,2021-04-11 15:30:00,Edinson Cavani,Pass
+414633,48,SavedShot,0.955999984741211,0.3,0.04147118702530861,Aaron Wan-Bissaka,a,5584,OpenPlay,2020,RightFoot,14742,Tottenham,Manchester United,1,3,2021-04-11 15:30:00,Luke Shaw,Chipped
+414634,55,SavedShot,0.7559999847412109,0.46299999237060546,0.023106472566723824,Scott McTominay,a,5560,OpenPlay,2020,RightFoot,14742,Tottenham,Manchester United,1,3,2021-04-11 15:30:00,Aaron Wan-Bissaka,Pass
+414635,56,SavedShot,0.92,0.5940000152587891,0.11219047009944916,Edinson Cavani,a,3294,OpenPlay,2020,LeftFoot,14742,Tottenham,Manchester United,1,3,2021-04-11 15:30:00,Fred,Throughball
+414636,56,Goal,0.9540000152587891,0.5070000076293946,0.6365617513656616,Fred,a,6817,OpenPlay,2020,LeftFoot,14742,Tottenham,Manchester United,1,3,2021-04-11 15:30:00,,Rebound
+414639,62,SavedShot,0.764000015258789,0.5640000152587891,0.02332528680562973,Bruno Fernandes,a,1228,OpenPlay,2020,LeftFoot,14742,Tottenham,Manchester United,1,3,2021-04-11 15:30:00,,None
+414640,63,MissedShots,0.905,0.5570000076293945,0.054905135184526443,Paul Pogba,a,1740,FromCorner,2020,Head,14742,Tottenham,Manchester United,1,3,2021-04-11 15:30:00,Luke Shaw,Cross
+414641,66,BlockedShot,0.965999984741211,0.4759999847412109,0.7584046721458435,Paul Pogba,a,1740,OpenPlay,2020,RightFoot,14742,Tottenham,Manchester United,1,3,2021-04-11 15:30:00,Bruno Fernandes,Pass
+414643,71,BlockedShot,0.769000015258789,0.6140000152587891,0.02655484527349472,Fred,a,6817,OpenPlay,2020,LeftFoot,14742,Tottenham,Manchester United,1,3,2021-04-11 15:30:00,Edinson Cavani,LayOff
+414646,73,MissedShots,0.84,0.22700000762939454,0.014030037447810173,Mason Greenwood,a,7490,OpenPlay,2020,LeftFoot,14742,Tottenham,Manchester United,1,3,2021-04-11 15:30:00,Paul Pogba,Chipped
+414647,78,Goal,0.915,0.5370000076293945,0.28928661346435547,Edinson Cavani,a,3294,OpenPlay,2020,Head,14742,Tottenham,Manchester United,1,3,2021-04-11 15:30:00,Mason Greenwood,Cross
+414651,95,Goal,0.894000015258789,0.3629999923706055,0.10101698338985443,Mason Greenwood,a,7490,OpenPlay,2020,RightFoot,14742,Tottenham,Manchester United,1,3,2021-04-11 15:30:00,Paul Pogba,Pass

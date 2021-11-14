@@ -1,0 +1,24 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+301331,8,MissedShots,0.8019999694824219,0.42400001525878905,0.040969401597976685,Hamza Choudhury,h,6418,OpenPlay,2018,RightFoot,9572,Leicester,Chelsea,0,0,2019-05-12 14:00:00,,None
+301333,16,SavedShot,0.779000015258789,0.6669999694824219,0.018482349812984467,Ben Chilwell,h,782,OpenPlay,2018,LeftFoot,9572,Leicester,Chelsea,0,0,2019-05-12 14:00:00,Jamie Vardy,Pass
+301335,24,BlockedShot,0.759000015258789,0.45599998474121095,0.024490516632795334,James Maddison,h,6818,OpenPlay,2018,LeftFoot,9572,Leicester,Chelsea,0,0,2019-05-12 14:00:00,Marc Albrighton,Pass
+301336,25,SavedShot,0.735999984741211,0.625999984741211,0.017770031467080116,Youri Tielemans,h,5956,FromCorner,2018,RightFoot,9572,Leicester,Chelsea,0,0,2019-05-12 14:00:00,James Maddison,Pass
+301338,30,SavedShot,0.904000015258789,0.5420000076293945,0.09528151154518127,Jamie Vardy,h,755,SetPiece,2018,Head,9572,Leicester,Chelsea,0,0,2019-05-12 14:00:00,Ben Chilwell,Cross
+301342,46,BlockedShot,0.9940000152587891,0.6959999847412109,0.05237767472863197,Jamie Vardy,h,755,OpenPlay,2018,LeftFoot,9572,Leicester,Chelsea,0,0,2019-05-12 14:00:00,,BallRecovery
+301343,47,MissedShots,0.735,0.4620000076293945,0.01527759525924921,Youri Tielemans,h,5956,FromCorner,2018,RightFoot,9572,Leicester,Chelsea,0,0,2019-05-12 14:00:00,,None
+301347,56,MissedShots,0.9219999694824219,0.46299999237060546,0.04190005362033844,Wilfred Ndidi,h,5545,FromCorner,2018,Head,9572,Leicester,Chelsea,0,0,2019-05-12 14:00:00,James Maddison,Aerial
+301351,88,MissedShots,0.8040000152587891,0.5840000152587891,0.03875722736120224,Youri Tielemans,h,5956,OpenPlay,2018,RightFoot,9572,Leicester,Chelsea,0,0,2019-05-12 14:00:00,Harvey Barnes,Pass
+301329,2,SavedShot,0.91,0.585,0.09680933505296707,Ross Barkley,a,592,OpenPlay,2018,LeftFoot,9572,Leicester,Chelsea,0,0,2019-05-12 14:00:00,Jorginho,Chipped
+301330,6,MissedShots,0.924000015258789,0.5120000076293946,0.1294613629579544,Ruben Loftus-Cheek,a,688,OpenPlay,2018,OtherBodyPart,9572,Leicester,Chelsea,0,0,2019-05-12 14:00:00,Pedro,Aerial
+301332,13,SavedShot,0.8280000305175781,0.7030000305175781,0.030051762238144875,Willian,a,700,OpenPlay,2018,RightFoot,9572,Leicester,Chelsea,0,0,2019-05-12 14:00:00,Ruben Loftus-Cheek,Pass
+301334,17,SavedShot,0.8819999694824219,0.27100000381469724,0.031073180958628654,Pedro,a,687,OpenPlay,2018,RightFoot,9572,Leicester,Chelsea,0,0,2019-05-12 14:00:00,Jorginho,Chipped
+301337,28,MissedShots,0.8030000305175782,0.5520000076293945,0.0499027818441391,Gonzalo Higuaín,a,1293,OpenPlay,2018,RightFoot,9572,Leicester,Chelsea,0,0,2019-05-12 14:00:00,Willian,Pass
+301339,31,BlockedShot,0.9,0.455,0.1293266862630844,Pedro,a,687,OpenPlay,2018,LeftFoot,9572,Leicester,Chelsea,0,0,2019-05-12 14:00:00,Davide Zappacosta,Pass
+301340,39,MissedShots,0.8069999694824219,0.5159999847412109,0.05307590961456299,Ruben Loftus-Cheek,a,688,OpenPlay,2018,RightFoot,9572,Leicester,Chelsea,0,0,2019-05-12 14:00:00,,Dispossessed
+301341,45,MissedShots,0.9380000305175781,0.5420000076293945,0.5688024163246155,Gonzalo Higuaín,a,1293,OpenPlay,2018,LeftFoot,9572,Leicester,Chelsea,0,0,2019-05-12 14:00:00,Marcos Alonso,Pass
+301344,47,BlockedShot,0.7369999694824219,0.615,0.019322596490383148,Willian,a,700,OpenPlay,2018,RightFoot,9572,Leicester,Chelsea,0,0,2019-05-12 14:00:00,Ruben Loftus-Cheek,Pass
+301345,51,MissedShots,0.7130000305175781,0.6090000152587891,0.015369375236332417,Marcos Alonso,a,1621,OpenPlay,2018,LeftFoot,9572,Leicester,Chelsea,0,0,2019-05-12 14:00:00,Willian,Pass
+301346,52,MissedShots,0.87,0.66,0.06819427758455276,Ross Barkley,a,592,OpenPlay,2018,LeftFoot,9572,Leicester,Chelsea,0,0,2019-05-12 14:00:00,Willian,Pass
+301348,59,BlockedShot,0.7819999694824219,0.6090000152587891,0.024000341072678566,Ruben Loftus-Cheek,a,688,OpenPlay,2018,RightFoot,9572,Leicester,Chelsea,0,0,2019-05-12 14:00:00,Ross Barkley,Pass
+301349,63,MissedShots,0.784000015258789,0.385,0.029694316908717155,Pedro,a,687,OpenPlay,2018,LeftFoot,9572,Leicester,Chelsea,0,0,2019-05-12 14:00:00,Ruben Loftus-Cheek,Pass
+301350,74,SavedShot,0.7730000305175782,0.355,0.022266879677772522,Ross Barkley,a,592,OpenPlay,2018,RightFoot,9572,Leicester,Chelsea,0,0,2019-05-12 14:00:00,Eden Hazard,Pass

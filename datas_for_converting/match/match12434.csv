@@ -1,0 +1,30 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+317125,10,BlockedShot,0.91,0.2620000076293945,0.03918956592679024,Anthony Ujah,h,119,OpenPlay,2019,RightFoot,12434,Union Berlin,Werder Bremen,1,2,2019-09-14 13:30:00,Christopher Trimmel,Pass
+317126,13,Goal,0.885,0.5,0.75777667760849,Sebastian Andersson,h,7880,Penalty,2019,RightFoot,12434,Union Berlin,Werder Bremen,1,2,2019-09-14 13:30:00,,Standard
+317131,30,MissedShots,0.715999984741211,0.720999984741211,0.013596036471426487,Christopher Lenz,h,7876,OpenPlay,2019,LeftFoot,12434,Union Berlin,Werder Bremen,1,2,2019-09-14 13:30:00,Anthony Ujah,Pass
+317134,42,MissedShots,0.9269999694824219,0.28200000762939453,0.056245628744363785,Anthony Ujah,h,119,OpenPlay,2019,RightFoot,12434,Union Berlin,Werder Bremen,1,2,2019-09-14 13:30:00,Sebastian Andersson,HeadPass
+317136,47,MissedShots,0.8930000305175781,0.47200000762939454,0.02730400487780571,Marvin Friedrich,h,370,SetPiece,2019,Head,12434,Union Berlin,Werder Bremen,1,2,2019-09-14 13:30:00,Christopher Trimmel,Aerial
+317141,62,SavedShot,0.9219999694824219,0.4420000076293945,0.03351730480790138,Sebastian Andersson,h,7880,FromCorner,2019,Head,12434,Union Berlin,Werder Bremen,1,2,2019-09-14 13:30:00,Christopher Trimmel,Aerial
+317145,80,SavedShot,0.9619999694824218,0.575,0.5570971369743347,Marius Bülter,h,7879,SetPiece,2019,RightFoot,12434,Union Berlin,Werder Bremen,1,2,2019-09-14 13:30:00,Neven Subotic,Rebound
+317146,80,MissedShots,0.9059999847412109,0.5120000076293946,0.04850563406944275,Neven Subotic,h,312,SetPiece,2019,Head,12434,Union Berlin,Werder Bremen,1,2,2019-09-14 13:30:00,Christopher Trimmel,Aerial
+317147,80,SavedShot,0.8959999847412109,0.585,0.07962781935930252,Christian Gentner,h,60,FromCorner,2019,RightFoot,12434,Union Berlin,Werder Bremen,1,2,2019-09-14 13:30:00,,None
+317148,86,BlockedShot,0.9519999694824218,0.5690000152587891,0.09817784279584885,Sebastian Polter,h,7881,OpenPlay,2019,RightFoot,12434,Union Berlin,Werder Bremen,1,2,2019-09-14 13:30:00,Akaki Gogia,Cross
+317149,87,MissedShots,0.9219999694824219,0.45599998474121095,0.09558504074811935,Sebastian Polter,h,7881,FromCorner,2019,Head,12434,Union Berlin,Werder Bremen,1,2,2019-09-14 13:30:00,Christopher Trimmel,Cross
+317150,93,SavedShot,0.88,0.6480000305175782,0.06314803659915924,Suleiman Abdullahi,h,7878,OpenPlay,2019,LeftFoot,12434,Union Berlin,Werder Bremen,1,2,2019-09-14 13:30:00,Akaki Gogia,Pass
+317151,93,MissedShots,0.9169999694824219,0.4909999847412109,0.12996435165405273,Sebastian Andersson,h,7880,OpenPlay,2019,LeftFoot,12434,Union Berlin,Werder Bremen,1,2,2019-09-14 13:30:00,Akaki Gogia,Pass
+317123,4,Goal,0.885,0.5,0.75777667760849,Davy Klaassen,a,6045,Penalty,2019,RightFoot,12434,Union Berlin,Werder Bremen,1,2,2019-09-14 13:30:00,,Standard
+317124,8,BlockedShot,0.7859999847412109,0.295,0.02694188430905342,Johannes Eggestein,a,6084,OpenPlay,2019,RightFoot,12434,Union Berlin,Werder Bremen,1,2,2019-09-14 13:30:00,Yuya Osako,Pass
+317127,16,MissedShots,0.885,0.47400001525878904,0.04830971360206604,Johannes Eggestein,a,6084,OpenPlay,2019,Head,12434,Union Berlin,Werder Bremen,1,2,2019-09-14 13:30:00,Michael Lang,Chipped
+317128,21,BlockedShot,0.8040000152587891,0.4879999923706055,0.012769811786711216,Yuya Osako,a,135,SetPiece,2019,Head,12434,Union Berlin,Werder Bremen,1,2,2019-09-14 13:30:00,Nuri Sahin,Cross
+317129,21,SavedShot,0.8819999694824219,0.3089999961853027,0.0347817987203598,Michael Lang,a,7180,SetPiece,2019,RightFoot,12434,Union Berlin,Werder Bremen,1,2,2019-09-14 13:30:00,,Rebound
+317130,24,MissedShots,0.705999984741211,0.615,0.009075942449271679,Yuya Osako,a,135,OpenPlay,2019,RightFoot,12434,Union Berlin,Werder Bremen,1,2,2019-09-14 13:30:00,Marco Friedl,TakeOn
+317132,35,SavedShot,0.9690000152587891,0.7119999694824218,0.04715435579419136,Johannes Eggestein,a,6084,OpenPlay,2019,LeftFoot,12434,Union Berlin,Werder Bremen,1,2,2019-09-14 13:30:00,,None
+317133,36,MissedShots,0.8490000152587891,0.33799999237060546,0.03424372896552086,Christian Groß,a,7815,FromCorner,2019,LeftFoot,12434,Union Berlin,Werder Bremen,1,2,2019-09-14 13:30:00,Nuri Sahin,Cross
+317135,42,MissedShots,0.835,0.34,0.0469290167093277,Leonardo Bittencourt,a,262,OpenPlay,2019,LeftFoot,12434,Union Berlin,Werder Bremen,1,2,2019-09-14 13:30:00,Niclas Füllkrug,HeadPass
+317137,51,MissedShots,0.884000015258789,0.6459999847412109,0.10186767578125,Niclas Füllkrug,a,6098,OpenPlay,2019,RightFoot,12434,Union Berlin,Werder Bremen,1,2,2019-09-14 13:30:00,Yuya Osako,Pass
+317138,54,SavedShot,0.885,0.5,0.757696270942688,Davy Klaassen,a,6045,Penalty,2019,RightFoot,12434,Union Berlin,Werder Bremen,1,2,2019-09-14 13:30:00,,Standard
+317139,54,Goal,0.9319999694824219,0.524000015258789,0.11977671086788177,Niclas Füllkrug,a,6098,FromCorner,2019,Head,12434,Union Berlin,Werder Bremen,1,2,2019-09-14 13:30:00,Nuri Sahin,Cross
+317140,60,MissedShots,0.8769999694824219,0.2879999923706055,0.016616635024547577,Michael Lang,a,7180,SetPiece,2019,RightFoot,12434,Union Berlin,Werder Bremen,1,2,2019-09-14 13:30:00,Marco Friedl,Cross
+317142,63,SavedShot,0.9169999694824219,0.08199999809265136,0.0382392518222332,Nuri Sahin,a,2642,DirectFreekick,2019,LeftFoot,12434,Union Berlin,Werder Bremen,1,2,2019-09-14 13:30:00,,Standard
+317143,67,MissedShots,0.794000015258789,0.6790000152587891,0.031976617872714996,Yuya Osako,a,135,OpenPlay,2019,RightFoot,12434,Union Berlin,Werder Bremen,1,2,2019-09-14 13:30:00,Leonardo Bittencourt,Pass
+317144,73,SavedShot,0.8809999847412109,0.31799999237060544,0.06350328028202057,Johannes Eggestein,a,6084,OpenPlay,2019,RightFoot,12434,Union Berlin,Werder Bremen,1,2,2019-09-14 13:30:00,Leonardo Bittencourt,Pass

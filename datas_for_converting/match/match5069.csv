@@ -1,0 +1,33 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+42781,35,MissedShots,0.9590000152587891,0.629000015258789,0.04518556594848633,Rafael Márquez,h,2034,FromCorner,2014,RightFoot,5069,Verona,Cagliari,1,0,2014-10-04 17:00:00,Gustavo Campanharo,Cross
+42782,39,BlockedShot,0.8109999847412109,0.7230000305175781,0.01735425740480423,Juanito Gómez,h,1851,OpenPlay,2014,RightFoot,5069,Verona,Cagliari,1,0,2014-10-04 17:00:00,Rafael Márquez,Chipped
+42784,39,MissedShots,0.8240000152587891,0.5640000152587891,0.0668354257941246,Luca Toni,h,1955,OpenPlay,2014,RightFoot,5069,Verona,Cagliari,1,0,2014-10-04 17:00:00,Nicolás López,Pass
+42785,41,SavedShot,0.8230000305175781,0.515,0.021285172551870346,Nicolás López,h,2579,FromCorner,2014,LeftFoot,5069,Verona,Cagliari,1,0,2014-10-04 17:00:00,,Aerial
+42787,46,BlockedShot,0.8490000152587891,0.54,0.0682949498295784,Luca Toni,h,1955,OpenPlay,2014,LeftFoot,5069,Verona,Cagliari,1,0,2014-10-04 17:00:00,Artur Ionita,None
+42788,52,SavedShot,0.8830000305175781,0.305,0.05111844837665558,Gustavo Campanharo,h,3898,OpenPlay,2014,RightFoot,5069,Verona,Cagliari,1,0,2014-10-04 17:00:00,Nicolás López,Pass
+42791,67,BlockedShot,0.9059999847412109,0.6819999694824219,0.05357908084988594,Bosko Jankovic,h,1959,OpenPlay,2014,RightFoot,5069,Verona,Cagliari,1,0,2014-10-04 17:00:00,,None
+42792,70,ShotOnPost,0.735,0.720999984741211,0.017808035016059875,Bosko Jankovic,h,1959,OpenPlay,2014,RightFoot,5069,Verona,Cagliari,1,0,2014-10-04 17:00:00,Alessandro Agostini,Pass
+42793,70,SavedShot,0.7559999847412109,0.45299999237060545,0.022053346037864685,Panagiotis Tachtsidis,h,1401,OpenPlay,2014,LeftFoot,5069,Verona,Cagliari,1,0,2014-10-04 17:00:00,Vangelis Moras,Pass
+42794,71,MissedShots,0.8,0.625,0.03262617439031601,Luca Toni,h,1955,OpenPlay,2014,LeftFoot,5069,Verona,Cagliari,1,0,2014-10-04 17:00:00,,None
+42796,76,SavedShot,0.895,0.54,0.07984131574630737,Juanito Gómez,h,1851,OpenPlay,2014,Head,5069,Verona,Cagliari,1,0,2014-10-04 17:00:00,Emil Hallfredsson,Cross
+42797,81,ShotOnPost,0.9330000305175781,0.49900001525878906,0.4597778916358948,Luca Toni,h,1955,OpenPlay,2014,Head,5069,Verona,Cagliari,1,0,2014-10-04 17:00:00,Bosko Jankovic,Cross
+42799,88,Goal,0.7719999694824219,0.5990000152587891,0.02720847725868225,Panagiotis Tachtsidis,h,1401,OpenPlay,2014,LeftFoot,5069,Verona,Cagliari,1,0,2014-10-04 17:00:00,Emil Hallfredsson,BallTouch
+42770,2,SavedShot,0.9530000305175781,0.5359999847412109,0.4882076382637024,Víctor Ibarbo,a,947,OpenPlay,2014,Head,5069,Verona,Cagliari,1,0,2014-10-04 17:00:00,Danilo Avelar,Pass
+42771,6,SavedShot,0.924000015258789,0.65,0.324164479970932,Víctor Ibarbo,a,947,OpenPlay,2014,LeftFoot,5069,Verona,Cagliari,1,0,2014-10-04 17:00:00,Andrea Cossu,Throughball
+42772,7,BlockedShot,0.765,0.34799999237060547,0.02969779074192047,Daniele Dessena,a,1412,FromCorner,2014,RightFoot,5069,Verona,Cagliari,1,0,2014-10-04 17:00:00,Danilo Avelar,Pass
+42773,8,SavedShot,0.9369999694824219,0.27700000762939453,0.04728707671165466,Marco Sau,a,1406,OpenPlay,2014,RightFoot,5069,Verona,Cagliari,1,0,2014-10-04 17:00:00,Lorenzo Crisetig,Chipped
+42774,16,SavedShot,0.9480000305175781,0.39099998474121095,0.1427721083164215,Daniele Dessena,a,1412,OpenPlay,2014,LeftFoot,5069,Verona,Cagliari,1,0,2014-10-04 17:00:00,Andrea Cossu,TakeOn
+42775,23,BlockedShot,0.7190000152587891,0.49,0.014612107537686825,Lorenzo Crisetig,a,1356,OpenPlay,2014,LeftFoot,5069,Verona,Cagliari,1,0,2014-10-04 17:00:00,Marco Sau,Pass
+42776,24,MissedShots,0.87,0.504000015258789,0.03501514345407486,Albin Ekdal,a,411,FromCorner,2014,Head,5069,Verona,Cagliari,1,0,2014-10-04 17:00:00,Antonio Balzano,Cross
+42777,29,BlockedShot,0.895,0.385,0.06929206103086472,Marco Sau,a,1406,OpenPlay,2014,LeftFoot,5069,Verona,Cagliari,1,0,2014-10-04 17:00:00,Lorenzo Crisetig,Chipped
+42778,29,BlockedShot,0.8040000152587891,0.35900001525878905,0.03128146007657051,Daniele Dessena,a,1412,OpenPlay,2014,RightFoot,5069,Verona,Cagliari,1,0,2014-10-04 17:00:00,Marco Sau,None
+42779,30,MissedShots,0.935,0.539000015258789,0.3505403399467468,Luca Ceppitelli,a,1550,FromCorner,2014,Head,5069,Verona,Cagliari,1,0,2014-10-04 17:00:00,Lorenzo Crisetig,Cross
+42780,32,SavedShot,0.8919999694824219,0.28600000381469726,0.05033903941512108,Andrea Cossu,a,3936,OpenPlay,2014,RightFoot,5069,Verona,Cagliari,1,0,2014-10-04 17:00:00,Daniele Dessena,HeadPass
+42783,39,SavedShot,0.8880000305175781,0.285,0.065394327044487,Marco Sau,a,1406,OpenPlay,2014,RightFoot,5069,Verona,Cagliari,1,0,2014-10-04 17:00:00,Andrea Cossu,Pass
+42786,43,BlockedShot,0.7859999847412109,0.55,0.10039858520030975,Andrea Cossu,a,3936,DirectFreekick,2014,RightFoot,5069,Verona,Cagliari,1,0,2014-10-04 17:00:00,,Standard
+42789,62,MissedShots,0.94,0.45,0.1162252277135849,Luca Ceppitelli,a,1550,FromCorner,2014,Head,5069,Verona,Cagliari,1,0,2014-10-04 17:00:00,Lorenzo Crisetig,Cross
+42790,66,SavedShot,0.7959999847412109,0.715,0.013665069825947285,Danilo Avelar,a,1933,SetPiece,2014,LeftFoot,5069,Verona,Cagliari,1,0,2014-10-04 17:00:00,,None
+42795,75,MissedShots,0.759000015258789,0.6469999694824219,0.020358141511678696,Andrea Cossu,a,3936,OpenPlay,2014,RightFoot,5069,Verona,Cagliari,1,0,2014-10-04 17:00:00,Víctor Ibarbo,Pass
+42798,86,BlockedShot,0.7719999694824219,0.41900001525878905,0.02871553599834442,Albin Ekdal,a,411,OpenPlay,2014,RightFoot,5069,Verona,Cagliari,1,0,2014-10-04 17:00:00,Lorenzo Crisetig,Pass
+42800,89,MissedShots,0.8980000305175782,0.3609999847412109,0.06692112982273102,Samuele Longo,a,1874,OpenPlay,2014,RightFoot,5069,Verona,Cagliari,1,0,2014-10-04 17:00:00,Víctor Ibarbo,Chipped
+42801,94,MissedShots,0.9359999847412109,0.6309999847412109,0.01986541412770748,Danilo Avelar,a,1933,FromCorner,2014,Head,5069,Verona,Cagliari,1,0,2014-10-04 17:00:00,Diego Farias,Cross

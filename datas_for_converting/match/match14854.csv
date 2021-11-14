@@ -1,0 +1,23 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+385584,14,BlockedShot,0.730999984741211,0.44599998474121094,0.015520031563937664,Manu Trigueros,h,2301,FromCorner,2020,RightFoot,14854,Villarreal,Real Valladolid,2,0,2020-11-02 20:00:00,,None
+385585,17,SavedShot,0.7609999847412109,0.76,0.01013051439076662,Alfonso,h,2521,OpenPlay,2020,LeftFoot,14854,Villarreal,Real Valladolid,2,0,2020-11-02 20:00:00,,None
+385586,20,Goal,0.88,0.5320000076293945,0.08270210772752762,Samuel Chukwueze,h,7208,OpenPlay,2020,LeftFoot,14854,Villarreal,Real Valladolid,2,0,2020-11-02 20:00:00,Alfonso,Cross
+385587,35,BlockedShot,0.7919999694824219,0.6430000305175781,0.08973676711320877,Paco Alcácer,h,2380,DirectFreekick,2020,RightFoot,14854,Villarreal,Real Valladolid,2,0,2020-11-02 20:00:00,,Standard
+385588,36,Goal,0.9790000152587891,0.5129999923706055,0.6978323459625244,Pau Torres,h,6221,FromCorner,2020,LeftFoot,14854,Villarreal,Real Valladolid,2,0,2020-11-02 20:00:00,Paco Alcácer,HeadPass
+385589,41,ShotOnPost,0.85,0.634000015258789,0.0910174772143364,Gerard Moreno,h,2120,OpenPlay,2020,LeftFoot,14854,Villarreal,Real Valladolid,2,0,2020-11-02 20:00:00,Samuel Chukwueze,Chipped
+385591,53,SavedShot,0.845999984741211,0.549000015258789,0.10635238140821457,Moi Gómez,h,2198,OpenPlay,2020,LeftFoot,14854,Villarreal,Real Valladolid,2,0,2020-11-02 20:00:00,Gerard Moreno,Pass
+385593,60,MissedShots,0.8490000152587891,0.23100000381469726,0.026615703478455544,Gerard Moreno,h,2120,OpenPlay,2020,LeftFoot,14854,Villarreal,Real Valladolid,2,0,2020-11-02 20:00:00,Samuel Chukwueze,Pass
+385597,75,BlockedShot,0.9059999847412109,0.5479999923706055,0.07146099209785461,Paco Alcácer,h,2380,FromCorner,2020,Head,14854,Villarreal,Real Valladolid,2,0,2020-11-02 20:00:00,Moi Gómez,Cross
+385598,79,MissedShots,0.855999984741211,0.35200000762939454,0.07376215606927872,Gerard Moreno,h,2120,OpenPlay,2020,LeftFoot,14854,Villarreal,Real Valladolid,2,0,2020-11-02 20:00:00,Mario,Pass
+385601,83,SavedShot,0.9169999694824219,0.5570000076293945,0.5850117206573486,Takefusa Kubo,h,8001,OpenPlay,2020,LeftFoot,14854,Villarreal,Real Valladolid,2,0,2020-11-02 20:00:00,Carlos Bacca,Throughball
+385590,43,MissedShots,0.889000015258789,0.36400001525878906,0.07617267221212387,Waldo Rubio,a,7525,OpenPlay,2020,RightFoot,14854,Villarreal,Real Valladolid,2,0,2020-11-02 20:00:00,Fabián Orellana,Pass
+385592,59,MissedShots,0.909000015258789,0.48400001525878905,0.10940111428499222,Fabián Orellana,a,2285,OpenPlay,2020,Head,14854,Villarreal,Real Valladolid,2,0,2020-11-02 20:00:00,Raúl García,Cross
+385594,61,BlockedShot,0.879000015258789,0.6730000305175782,0.04841277003288269,Marcos de Sousa,a,8933,OpenPlay,2020,RightFoot,14854,Villarreal,Real Valladolid,2,0,2020-11-02 20:00:00,Shon Weissman,Pass
+385595,62,SavedShot,0.919000015258789,0.40400001525878904,0.09148217737674713,Shon Weissman,a,8761,OpenPlay,2020,RightFoot,14854,Villarreal,Real Valladolid,2,0,2020-11-02 20:00:00,,Rebound
+385596,67,BlockedShot,0.8290000152587891,0.3629999923706055,0.06413163244724274,Rubén Alcaraz,a,6917,OpenPlay,2020,RightFoot,14854,Villarreal,Real Valladolid,2,0,2020-11-02 20:00:00,,TakeOn
+385599,80,BlockedShot,0.8230000305175781,0.48400001525878905,0.0569794699549675,Shon Weissman,a,8761,OpenPlay,2020,RightFoot,14854,Villarreal,Real Valladolid,2,0,2020-11-02 20:00:00,,BallRecovery
+385600,81,BlockedShot,0.799000015258789,0.6480000305175782,0.031944889575242996,Kike Pérez,a,8470,OpenPlay,2020,LeftFoot,14854,Villarreal,Real Valladolid,2,0,2020-11-02 20:00:00,Toni Villa,Pass
+385602,85,ShotOnPost,0.9690000152587891,0.6,0.08274783939123154,Marcos de Sousa,a,8933,OpenPlay,2020,Head,14854,Villarreal,Real Valladolid,2,0,2020-11-02 20:00:00,Pablo Hervías,Cross
+385603,86,ShotOnPost,0.870999984741211,0.5420000076293945,0.09397829324007034,Marcos de Sousa,a,8933,OpenPlay,2020,LeftFoot,14854,Villarreal,Real Valladolid,2,0,2020-11-02 20:00:00,Fabián Orellana,Pass
+385604,92,BlockedShot,0.92,0.46299999237060546,0.08888321369886398,Joaquín Fernández,a,7233,SetPiece,2020,RightFoot,14854,Villarreal,Real Valladolid,2,0,2020-11-02 20:00:00,Pablo Hervías,CornerAwarded
+385605,93,MissedShots,0.865999984741211,0.62,0.05420764908194542,Kike Pérez,a,8470,FromCorner,2020,RightFoot,14854,Villarreal,Real Valladolid,2,0,2020-11-02 20:00:00,,None

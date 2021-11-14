@@ -1,0 +1,26 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+411815,3,Goal,0.8430000305175781,0.3240000152587891,0.037881650030612946,Deyovaisio Zeefuik,h,8805,OpenPlay,2020,RightFoot,15369,Hertha Berlin,Bayer Leverkusen,3,0,2021-03-21 14:30:00,Dodi Lukebakio,Pass
+411819,25,Goal,0.8630000305175781,0.425,0.3450160622596741,Matheus Cunha,h,7080,OpenPlay,2020,RightFoot,15369,Hertha Berlin,Bayer Leverkusen,3,0,2021-03-21 14:30:00,Dodi Lukebakio,Pass
+411820,27,BlockedShot,0.7680000305175781,0.5120000076293946,0.031169697642326355,Matteo Guendouzi,h,5759,OpenPlay,2020,RightFoot,15369,Hertha Berlin,Bayer Leverkusen,3,0,2021-03-21 14:30:00,Jhon Córdoba,Pass
+411822,32,BlockedShot,0.8819999694824219,0.534000015258789,0.40812408924102783,Jhon Córdoba,h,48,OpenPlay,2020,RightFoot,15369,Hertha Berlin,Bayer Leverkusen,3,0,2021-03-21 14:30:00,Deyovaisio Zeefuik,Pass
+411823,32,Goal,0.92,0.52,0.5805851817131042,Jhon Córdoba,h,48,OpenPlay,2020,LeftFoot,15369,Hertha Berlin,Bayer Leverkusen,3,0,2021-03-21 14:30:00,Matteo Guendouzi,Rebound
+411826,49,SavedShot,0.8590000152587891,0.6659999847412109,0.06148572266101837,Jhon Córdoba,h,48,OpenPlay,2020,LeftFoot,15369,Hertha Berlin,Bayer Leverkusen,3,0,2021-03-21 14:30:00,Matheus Cunha,Pass
+411827,49,SavedShot,0.8,0.6569999694824219,0.01990618370473385,Matheus Cunha,h,7080,OpenPlay,2020,RightFoot,15369,Hertha Berlin,Bayer Leverkusen,3,0,2021-03-21 14:30:00,,Rebound
+411828,50,SavedShot,0.3509999847412109,0.715,0.009880248457193375,Matheus Cunha,h,7080,OpenPlay,2020,RightFoot,15369,Hertha Berlin,Bayer Leverkusen,3,0,2021-03-21 14:30:00,,BallRecovery
+411831,65,SavedShot,0.8819999694824219,0.5659999847412109,0.4595766067504883,Matheus Cunha,h,7080,OpenPlay,2020,RightFoot,15369,Hertha Berlin,Bayer Leverkusen,3,0,2021-03-21 14:30:00,Dodi Lukebakio,TakeOn
+411832,65,SavedShot,0.9019999694824219,0.66,0.0949932411313057,Dodi Lukebakio,h,5706,OpenPlay,2020,LeftFoot,15369,Hertha Berlin,Bayer Leverkusen,3,0,2021-03-21 14:30:00,Matteo Guendouzi,Pass
+411833,66,MissedShots,0.9019999694824219,0.24299999237060546,0.018722284585237503,Maximilian Mittelstädt,h,419,FromCorner,2020,LeftFoot,15369,Hertha Berlin,Bayer Leverkusen,3,0,2021-03-21 14:30:00,,TakeOn
+411834,74,MissedShots,0.8330000305175781,0.3890000152587891,0.0681140199303627,Matheus Cunha,h,7080,OpenPlay,2020,RightFoot,15369,Hertha Berlin,Bayer Leverkusen,3,0,2021-03-21 14:30:00,,BallRecovery
+411839,87,SavedShot,0.8540000152587891,0.3270000076293945,0.10510023683309555,Krzysztof Piatek,h,7090,OpenPlay,2020,RightFoot,15369,Hertha Berlin,Bayer Leverkusen,3,0,2021-03-21 14:30:00,Matteo Guendouzi,Pass
+411816,10,MissedShots,0.9,0.5120000076293946,0.19066669046878815,Patrik Schick,a,1236,SetPiece,2020,Head,15369,Hertha Berlin,Bayer Leverkusen,3,0,2021-03-21 14:30:00,Kerem Demirbay,Cross
+411817,13,MissedShots,0.94,0.5629999923706055,0.22114187479019165,Patrik Schick,a,1236,OpenPlay,2020,Head,15369,Hertha Berlin,Bayer Leverkusen,3,0,2021-03-21 14:30:00,Jeremie Frimpong,Chipped
+411818,21,MissedShots,0.7290000152587891,0.25799999237060545,0.013089947402477264,Kerem Demirbay,a,5273,OpenPlay,2020,LeftFoot,15369,Hertha Berlin,Bayer Leverkusen,3,0,2021-03-21 14:30:00,Jeremie Frimpong,Pass
+411821,29,MissedShots,0.9630000305175781,0.4640000152587891,0.5001962780952454,Patrik Schick,a,1236,FromCorner,2020,Head,15369,Hertha Berlin,Bayer Leverkusen,3,0,2021-03-21 14:30:00,Leon Bailey,Cross
+411824,36,BlockedShot,0.8680000305175781,0.59,0.05952494964003563,Demarai Gray,a,762,OpenPlay,2020,LeftFoot,15369,Hertha Berlin,Bayer Leverkusen,3,0,2021-03-21 14:30:00,,None
+411825,38,MissedShots,0.6980000305175781,0.534000015258789,0.011659813113510609,Kerem Demirbay,a,5273,OpenPlay,2020,LeftFoot,15369,Hertha Berlin,Bayer Leverkusen,3,0,2021-03-21 14:30:00,Charles Aránguiz,Pass
+411829,53,SavedShot,0.9580000305175781,0.580999984741211,0.4393555223941803,Patrik Schick,a,1236,OpenPlay,2020,LeftFoot,15369,Hertha Berlin,Bayer Leverkusen,3,0,2021-03-21 14:30:00,Florian Wirtz,Pass
+411830,61,MissedShots,0.9330000305175781,0.53,0.1194576844573021,Edmond Tapsoba,a,8317,FromCorner,2020,Head,15369,Hertha Berlin,Bayer Leverkusen,3,0,2021-03-21 14:30:00,Leon Bailey,Cross
+411835,75,BlockedShot,0.8930000305175781,0.5270000076293946,0.02891720086336136,Lucas Alario,a,6338,FromCorner,2020,Head,15369,Hertha Berlin,Bayer Leverkusen,3,0,2021-03-21 14:30:00,Nadiem Amiri,Foul
+411836,75,BlockedShot,0.875999984741211,0.35400001525878905,0.023248624056577682,Charles Aránguiz,a,454,FromCorner,2020,LeftFoot,15369,Hertha Berlin,Bayer Leverkusen,3,0,2021-03-21 14:30:00,,Aerial
+411837,78,MissedShots,0.93,0.5220000076293946,0.34284067153930664,Patrik Schick,a,1236,OpenPlay,2020,LeftFoot,15369,Hertha Berlin,Bayer Leverkusen,3,0,2021-03-21 14:30:00,Karim Bellarabi,Cross
+411838,80,MissedShots,0.909000015258789,0.445,0.052356135100126266,Patrik Schick,a,1236,OpenPlay,2020,Head,15369,Hertha Berlin,Bayer Leverkusen,3,0,2021-03-21 14:30:00,Karim Bellarabi,Aerial

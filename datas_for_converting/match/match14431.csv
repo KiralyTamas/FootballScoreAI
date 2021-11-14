@@ -1,0 +1,23 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+415308,3,Goal,0.795,0.49900001525878906,0.296144962310791,Francois Kamano,h,3333,OpenPlay,2020,LeftFoot,14431,Lokomotiv Moscow,FC Rostov,4,1,2021-04-17 13:30:00,,BallTouch
+415309,5,Goal,0.7809999847412109,0.36400001525878906,0.038044121116399765,Rifat Zhemaletdinov,h,2712,OpenPlay,2020,RightFoot,14431,Lokomotiv Moscow,FC Rostov,4,1,2021-04-17 13:30:00,Vedran Corluka,TakeOn
+415311,19,BlockedShot,0.815,0.3870000076293945,0.057885102927684784,Rifat Zhemaletdinov,h,2712,OpenPlay,2020,RightFoot,14431,Lokomotiv Moscow,FC Rostov,4,1,2021-04-17 13:30:00,Francois Kamano,Pass
+415312,19,MissedShots,0.7930000305175782,0.495,0.051499661058187485,Rifat Zhemaletdinov,h,2712,OpenPlay,2020,RightFoot,14431,Lokomotiv Moscow,FC Rostov,4,1,2021-04-17 13:30:00,Grzegorz Krychowiak,Pass
+415318,53,SavedShot,0.8190000152587891,0.6509999847412109,0.050460778176784515,Grzegorz Krychowiak,h,2414,OpenPlay,2020,RightFoot,14431,Lokomotiv Moscow,FC Rostov,4,1,2021-04-17 13:30:00,Rifat Zhemaletdinov,Pass
+415319,55,MissedShots,0.745,0.4279999923706055,0.02313663437962532,Rifat Zhemaletdinov,h,2712,OpenPlay,2020,RightFoot,14431,Lokomotiv Moscow,FC Rostov,4,1,2021-04-17 13:30:00,Grzegorz Krychowiak,Pass
+415321,60,MissedShots,0.91,0.634000015258789,0.3192320466041565,Grzegorz Krychowiak,h,2414,OpenPlay,2020,LeftFoot,14431,Lokomotiv Moscow,FC Rostov,4,1,2021-04-17 13:30:00,Rifat Zhemaletdinov,Pass
+415322,61,MissedShots,0.8490000152587891,0.7659999847412109,0.025889163836836815,Francois Kamano,h,3333,OpenPlay,2020,RightFoot,14431,Lokomotiv Moscow,FC Rostov,4,1,2021-04-17 13:30:00,Fedor Smolov,Pass
+415323,64,Goal,0.885,0.5,0.7542738318443298,Grzegorz Krychowiak,h,2414,Penalty,2020,RightFoot,14431,Lokomotiv Moscow,FC Rostov,4,1,2021-04-17 13:30:00,,Standard
+415325,74,MissedShots,0.7819999694824219,0.585,0.020306486636400223,Maciej Rybus,h,2856,FromCorner,2020,LeftFoot,14431,Lokomotiv Moscow,FC Rostov,4,1,2021-04-17 13:30:00,,None
+415327,84,BlockedShot,0.9319999694824219,0.654000015258789,0.1157495528459549,Anton Miranchuk,h,4605,OpenPlay,2020,RightFoot,14431,Lokomotiv Moscow,FC Rostov,4,1,2021-04-17 13:30:00,Grzegorz Krychowiak,Pass
+415328,89,Goal,0.9730000305175781,0.5379999923706055,0.7861770391464233,Eder,h,963,OpenPlay,2020,RightFoot,14431,Lokomotiv Moscow,FC Rostov,4,1,2021-04-17 13:30:00,Grzegorz Krychowiak,Pass
+415307,3,BlockedShot,0.8669999694824219,0.524000015258789,0.07725569605827332,Pontus Almqvist,a,9061,OpenPlay,2020,RightFoot,14431,Lokomotiv Moscow,FC Rostov,4,1,2021-04-17 13:30:00,Denis Terentjev,Cross
+415310,10,BlockedShot,0.7769999694824219,0.575,0.03129175305366516,Armin Gigovic,a,9062,OpenPlay,2020,RightFoot,14431,Lokomotiv Moscow,FC Rostov,4,1,2021-04-17 13:30:00,Dmitriy Poloz,Pass
+415313,30,MissedShots,0.9119999694824219,0.24,0.020116036757826805,Denis Terentjev,a,2784,OpenPlay,2020,LeftFoot,14431,Lokomotiv Moscow,FC Rostov,4,1,2021-04-17 13:30:00,,None
+415314,32,MissedShots,0.92,0.43,0.10485871136188507,Kento Hashimoto,a,8610,FromCorner,2020,RightFoot,14431,Lokomotiv Moscow,FC Rostov,4,1,2021-04-17 13:30:00,,None
+415315,32,Goal,0.925,0.605999984741211,0.0863148644566536,Dennis Hadzikadunic,a,7023,FromCorner,2020,RightFoot,14431,Lokomotiv Moscow,FC Rostov,4,1,2021-04-17 13:30:00,Kento Hashimoto,Rebound
+415316,43,MissedShots,0.8859999847412109,0.5970000076293945,0.0680404007434845,Kento Hashimoto,a,8610,FromCorner,2020,LeftFoot,14431,Lokomotiv Moscow,FC Rostov,4,1,2021-04-17 13:30:00,,None
+415317,50,BlockedShot,0.8680000305175781,0.46,0.06679398566484451,Ali Sowe,a,9383,OpenPlay,2020,RightFoot,14431,Lokomotiv Moscow,FC Rostov,4,1,2021-04-17 13:30:00,,None
+415320,56,MissedShots,0.865,0.525,0.057678498327732086,Pontus Almqvist,a,9061,OpenPlay,2020,RightFoot,14431,Lokomotiv Moscow,FC Rostov,4,1,2021-04-17 13:30:00,Dennis Hadzikadunic,HeadPass
+415324,69,MissedShots,0.835,0.3509999847412109,0.04121524095535278,Dmitriy Poloz,a,2775,OpenPlay,2020,LeftFoot,14431,Lokomotiv Moscow,FC Rostov,4,1,2021-04-17 13:30:00,Sergey Pesjakov,Pass
+415326,78,SavedShot,0.8590000152587891,0.590999984741211,0.027503395453095436,Dennis Hadzikadunic,a,7023,SetPiece,2020,Head,14431,Lokomotiv Moscow,FC Rostov,4,1,2021-04-17 13:30:00,Nikolay Poyarkov,Chipped

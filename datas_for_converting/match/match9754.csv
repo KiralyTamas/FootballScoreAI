@@ -1,0 +1,26 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+254961,7,MissedShots,0.879000015258789,0.6719999694824219,0.050486549735069275,Gianluca Caprari,h,1170,OpenPlay,2018,LeftFoot,9754,Sampdoria,Chievo,2,0,2018-12-26 14:00:00,Joachim Andersen,Chipped
+254963,16,MissedShots,0.705,0.4620000076293945,0.013115806505084038,Nicola Murru,h,1400,FromCorner,2018,LeftFoot,9754,Sampdoria,Chievo,2,0,2018-12-26 14:00:00,,None
+254967,26,MissedShots,0.8859999847412109,0.5220000076293946,0.08451156318187714,Fabio Quagliarella,h,1230,OpenPlay,2018,LeftFoot,9754,Sampdoria,Chievo,2,0,2018-12-26 14:00:00,Nicola Murru,Cross
+254968,28,BlockedShot,0.7709999847412109,0.36900001525878906,0.03320913016796112,Karol Linetty,h,1226,FromCorner,2018,RightFoot,9754,Sampdoria,Chievo,2,0,2018-12-26 14:00:00,Jacopo Sala,Pass
+254972,34,MissedShots,0.7130000305175781,0.5870000076293945,0.010894041508436203,Gianluca Caprari,h,1170,OpenPlay,2018,RightFoot,9754,Sampdoria,Chievo,2,0,2018-12-26 14:00:00,,None
+254975,46,Goal,0.87,0.51,0.08034025132656097,Fabio Quagliarella,h,1230,SetPiece,2018,RightFoot,9754,Sampdoria,Chievo,2,0,2018-12-26 14:00:00,Gastón Ramírez,Chipped
+254974,47,SavedShot,0.7069999694824218,0.4209999847412109,0.014190567657351494,Dennis Praet,h,1234,OpenPlay,2018,RightFoot,9754,Sampdoria,Chievo,2,0,2018-12-26 14:00:00,Albin Ekdal,Pass
+254976,49,MissedShots,0.91,0.28100000381469725,0.05167050659656525,Fabio Quagliarella,h,1230,OpenPlay,2018,RightFoot,9754,Sampdoria,Chievo,2,0,2018-12-26 14:00:00,Jacopo Sala,Pass
+254977,58,Goal,0.95,0.6040000152587891,0.13638687133789062,Gastón Ramírez,h,952,OpenPlay,2018,RightFoot,9754,Sampdoria,Chievo,2,0,2018-12-26 14:00:00,Nicola Murru,Pass
+254978,72,SavedShot,0.7809999847412109,0.649000015258789,0.029742196202278137,Karol Linetty,h,1226,OpenPlay,2018,LeftFoot,9754,Sampdoria,Chievo,2,0,2018-12-26 14:00:00,Albin Ekdal,BallRecovery
+254980,81,BlockedShot,0.87,0.4329999923706055,0.05854596570134163,Gregoire Defrel,h,1468,SetPiece,2018,LeftFoot,9754,Sampdoria,Chievo,2,0,2018-12-26 14:00:00,Omar Colley,HeadPass
+254981,82,ShotOnPost,0.7919999694824219,0.595999984741211,0.09668376296758652,Fabio Quagliarella,h,1230,DirectFreekick,2018,RightFoot,9754,Sampdoria,Chievo,2,0,2018-12-26 14:00:00,,Standard
+254982,91,BlockedShot,0.865,0.48200000762939454,0.020014964044094086,Joachim Andersen,h,6314,FromCorner,2018,Head,9754,Sampdoria,Chievo,2,0,2018-12-26 14:00:00,Gastón Ramírez,Cross
+254983,91,BlockedShot,0.72,0.5459999847412109,0.016784269362688065,Nicola Murru,h,1400,FromCorner,2018,LeftFoot,9754,Sampdoria,Chievo,2,0,2018-12-26 14:00:00,,Rebound
+254959,3,MissedShots,0.5570000076293945,0.315,0.019327843561768532,Ivan Radovanovic,a,1341,DirectFreekick,2018,RightFoot,9754,Sampdoria,Chievo,2,0,2018-12-26 14:00:00,,Standard
+254960,4,MissedShots,0.7190000152587891,0.5309999847412109,0.015233710408210754,Ivan Radovanovic,a,1341,OpenPlay,2018,RightFoot,9754,Sampdoria,Chievo,2,0,2018-12-26 14:00:00,,Dispossessed
+254962,11,MissedShots,0.7319999694824219,0.3729999923706055,0.014440011233091354,Ivan Radovanovic,a,1341,OpenPlay,2018,RightFoot,9754,Sampdoria,Chievo,2,0,2018-12-26 14:00:00,Mehdi Leris,Pass
+254964,18,MissedShots,0.9,0.6409999847412109,0.06403840333223343,Riccardo Meggiorini,a,1337,OpenPlay,2018,LeftFoot,9754,Sampdoria,Chievo,2,0,2018-12-26 14:00:00,Pawel Jaroszynski,Chipped
+254965,23,MissedShots,0.8030000305175782,0.165,0.01633324660360813,Mehdi Leris,a,6211,OpenPlay,2018,LeftFoot,9754,Sampdoria,Chievo,2,0,2018-12-26 14:00:00,Ivan Radovanovic,Pass
+254966,25,SavedShot,0.8480000305175781,0.27899999618530275,0.03205126151442528,Sofian Kiyine,a,4942,OpenPlay,2018,LeftFoot,9754,Sampdoria,Chievo,2,0,2018-12-26 14:00:00,Mariusz Stepinski,Pass
+254969,29,MissedShots,0.735999984741211,0.5979999923706054,0.0165347121655941,Sofian Kiyine,a,4942,OpenPlay,2018,LeftFoot,9754,Sampdoria,Chievo,2,0,2018-12-26 14:00:00,Riccardo Meggiorini,Pass
+254970,33,BlockedShot,0.7480000305175781,0.4279999923706055,0.021059485152363777,Mehdi Leris,a,6211,OpenPlay,2018,LeftFoot,9754,Sampdoria,Chievo,2,0,2018-12-26 14:00:00,Sofian Kiyine,Pass
+254971,33,BlockedShot,0.7719999694824219,0.39599998474121095,0.0186931062489748,Mehdi Leris,a,6211,OpenPlay,2018,RightFoot,9754,Sampdoria,Chievo,2,0,2018-12-26 14:00:00,,Rebound
+254973,35,MissedShots,0.7959999847412109,0.355,0.013451277278363705,Ivan Radovanovic,a,1341,OpenPlay,2018,RightFoot,9754,Sampdoria,Chievo,2,0,2018-12-26 14:00:00,,Aerial
+254979,76,SavedShot,0.8830000305175781,0.5309999847412109,0.05591568350791931,Mattia Bani,a,6212,SetPiece,2018,Head,9754,Sampdoria,Chievo,2,0,2018-12-26 14:00:00,Emanuele Giaccherini,Cross

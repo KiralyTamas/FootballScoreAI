@@ -1,0 +1,40 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+27135,0,BlockedShot,0.740999984741211,0.48400001525878905,0.013131007552146912,Felix Kroos,h,120,OpenPlay,2014,LeftFoot,5379,Werder Bremen,Paderborn,4,0,2014-11-29 14:30:00,Levent Aycicek,HeadPass
+27137,6,MissedShots,0.93,0.7180000305175781,0.21637392044067383,Davie Selke,h,4280,OpenPlay,2014,RightFoot,5379,Werder Bremen,Paderborn,4,0,2014-11-29 14:30:00,Zlatko Junuzovic,TakeOn
+27138,6,SavedShot,0.9519999694824218,0.575,0.1376141607761383,Zlatko Junuzovic,h,301,OpenPlay,2014,LeftFoot,5379,Werder Bremen,Paderborn,4,0,2014-11-29 14:30:00,,Rebound
+27140,9,Goal,0.6980000305175781,0.46900001525878904,0.03944304212927818,Zlatko Junuzovic,h,301,DirectFreekick,2014,RightFoot,5379,Werder Bremen,Paderborn,4,0,2014-11-29 14:30:00,,Standard
+27142,21,SavedShot,0.919000015258789,0.5320000076293945,0.4926515817642212,Davie Selke,h,4280,OpenPlay,2014,RightFoot,5379,Werder Bremen,Paderborn,4,0,2014-11-29 14:30:00,Fin Bartels,Pass
+27143,23,MissedShots,0.9319999694824219,0.4229999923706055,0.0770677849650383,Sebastian Prödl,h,566,FromCorner,2014,Head,5379,Werder Bremen,Paderborn,4,0,2014-11-29 14:30:00,Zlatko Junuzovic,Cross
+27144,23,BlockedShot,0.9540000152587891,0.4909999847412109,0.14848101139068604,Davie Selke,h,4280,FromCorner,2014,RightFoot,5379,Werder Bremen,Paderborn,4,0,2014-11-29 14:30:00,Sebastian Prödl,Rebound
+27145,23,SavedShot,0.9630000305175781,0.4929999923706055,0.63230299949646,Alejandro Gálvez,h,112,FromCorner,2014,LeftFoot,5379,Werder Bremen,Paderborn,4,0,2014-11-29 14:30:00,,None
+27146,32,MissedShots,0.7630000305175781,0.38299999237060545,0.025718089193105698,Felix Kroos,h,120,FromCorner,2014,LeftFoot,5379,Werder Bremen,Paderborn,4,0,2014-11-29 14:30:00,Zlatko Junuzovic,Cross
+27147,33,MissedShots,0.7719999694824219,0.7480000305175781,0.020081372931599617,Zlatko Junuzovic,h,301,OpenPlay,2014,RightFoot,5379,Werder Bremen,Paderborn,4,0,2014-11-29 14:30:00,,Interception
+27151,45,BlockedShot,0.815,0.47900001525878905,0.0821022018790245,Fin Bartels,h,115,OpenPlay,2014,LeftFoot,5379,Werder Bremen,Paderborn,4,0,2014-11-29 14:30:00,Davie Selke,LayOff
+27152,47,ShotOnPost,0.7619999694824219,0.9,0.025737691670656204,Zlatko Junuzovic,h,301,DirectFreekick,2014,RightFoot,5379,Werder Bremen,Paderborn,4,0,2014-11-29 14:30:00,,Standard
+27153,47,Goal,0.9590000152587891,0.5270000076293946,0.5604670643806458,Davie Selke,h,4280,SetPiece,2014,Head,5379,Werder Bremen,Paderborn,4,0,2014-11-29 14:30:00,,Rebound
+27154,49,Goal,0.8469999694824218,0.5540000152587891,0.42182987928390503,Fin Bartels,h,115,OpenPlay,2014,RightFoot,5379,Werder Bremen,Paderborn,4,0,2014-11-29 14:30:00,,Aerial
+27155,51,MissedShots,0.86,0.5520000076293945,0.41369226574897766,Levent Aycicek,h,410,OpenPlay,2014,RightFoot,5379,Werder Bremen,Paderborn,4,0,2014-11-29 14:30:00,,TakeOn
+27156,58,SavedShot,0.7619999694824219,0.705,0.021478330716490746,Janek Sternberg,h,124,OpenPlay,2014,LeftFoot,5379,Werder Bremen,Paderborn,4,0,2014-11-29 14:30:00,Zlatko Junuzovic,Pass
+27161,66,BlockedShot,0.745999984741211,0.705,0.02208857238292694,Levent Aycicek,h,410,OpenPlay,2014,RightFoot,5379,Werder Bremen,Paderborn,4,0,2014-11-29 14:30:00,Zlatko Junuzovic,Pass
+27162,66,SavedShot,0.9269999694824219,0.6969999694824218,0.0770491287112236,Davie Selke,h,4280,OpenPlay,2014,LeftFoot,5379,Werder Bremen,Paderborn,4,0,2014-11-29 14:30:00,Felix Kroos,Pass
+27163,71,SavedShot,0.8530000305175781,0.715,0.06772679090499878,Zlatko Junuzovic,h,301,OpenPlay,2014,RightFoot,5379,Werder Bremen,Paderborn,4,0,2014-11-29 14:30:00,Fin Bartels,Chipped
+27164,73,BlockedShot,0.9169999694824219,0.6,0.7364826202392578,Levent Aycicek,h,410,OpenPlay,2014,RightFoot,5379,Werder Bremen,Paderborn,4,0,2014-11-29 14:30:00,,TakeOn
+27165,76,SavedShot,0.8080000305175781,0.5209999847412109,0.05162513628602028,Levent Aycicek,h,410,OpenPlay,2014,RightFoot,5379,Werder Bremen,Paderborn,4,0,2014-11-29 14:30:00,,None
+27167,79,Goal,0.88,0.395,0.12480637431144714,Levent Aycicek,h,410,OpenPlay,2014,RightFoot,5379,Werder Bremen,Paderborn,4,0,2014-11-29 14:30:00,Davie Selke,Pass
+27171,86,BlockedShot,0.8069999694824219,0.525,0.0785330981016159,Felix Kroos,h,120,OpenPlay,2014,RightFoot,5379,Werder Bremen,Paderborn,4,0,2014-11-29 14:30:00,Cedrick Makiadi,Pass
+27172,87,SavedShot,0.8230000305175781,0.5,0.048915501683950424,Sebastian Prödl,h,566,FromCorner,2014,RightFoot,5379,Werder Bremen,Paderborn,4,0,2014-11-29 14:30:00,Zlatko Junuzovic,Pass
+27136,5,MissedShots,0.710999984741211,0.6430000305175781,0.010962048545479774,Süleyman Koc,a,4265,OpenPlay,2014,RightFoot,5379,Werder Bremen,Paderborn,4,0,2014-11-29 14:30:00,Michael Heinloth,Chipped
+27139,8,BlockedShot,0.895,0.5279999923706055,0.05744950845837593,Rafa,a,4231,FromCorner,2014,Head,5379,Werder Bremen,Paderborn,4,0,2014-11-29 14:30:00,Süleyman Koc,Cross
+27141,18,SavedShot,0.8419999694824218,0.544000015258789,0.03265523910522461,Rafa,a,4231,SetPiece,2014,Head,5379,Werder Bremen,Paderborn,4,0,2014-11-29 14:30:00,Süleyman Koc,Chipped
+27148,37,MissedShots,0.879000015258789,0.6669999694824219,0.051320139318704605,Mario Vrancic,a,12,OpenPlay,2014,LeftFoot,5379,Werder Bremen,Paderborn,4,0,2014-11-29 14:30:00,Moritz Stoppelkamp,Pass
+27149,38,MissedShots,0.88,0.4129999923706055,0.06660454720258713,Marvin Bakalorz,a,4266,OpenPlay,2014,LeftFoot,5379,Werder Bremen,Paderborn,4,0,2014-11-29 14:30:00,,None
+27150,43,SavedShot,0.9069999694824219,0.4329999923706055,0.08314083516597748,Patrick Ziegler,a,4260,SetPiece,2014,RightFoot,5379,Werder Bremen,Paderborn,4,0,2014-11-29 14:30:00,Süleyman Koc,Chipped
+27157,61,BlockedShot,0.8419999694824218,0.500999984741211,0.08779169619083405,Moritz Stoppelkamp,a,4296,OpenPlay,2014,RightFoot,5379,Werder Bremen,Paderborn,4,0,2014-11-29 14:30:00,Lukas Rupp,Pass
+27158,61,MissedShots,0.8190000152587891,0.46599998474121096,0.03589736297726631,Moritz Stoppelkamp,a,4296,OpenPlay,2014,RightFoot,5379,Werder Bremen,Paderborn,4,0,2014-11-29 14:30:00,,Rebound
+27159,62,SavedShot,0.740999984741211,0.52,0.017235327512025833,Marvin Bakalorz,a,4266,OpenPlay,2014,RightFoot,5379,Werder Bremen,Paderborn,4,0,2014-11-29 14:30:00,Moritz Stoppelkamp,Pass
+27160,64,MissedShots,0.7330000305175781,0.69,0.014754877425730228,Moritz Stoppelkamp,a,4296,OpenPlay,2014,RightFoot,5379,Werder Bremen,Paderborn,4,0,2014-11-29 14:30:00,Marvin Bakalorz,Pass
+27166,78,MissedShots,0.9059999847412109,0.40799999237060547,0.016479168087244034,Christian Strohdiek,a,4268,SetPiece,2014,Head,5379,Werder Bremen,Paderborn,4,0,2014-11-29 14:30:00,Süleyman Koc,Aerial
+27168,82,BlockedShot,0.740999984741211,0.4540000152587891,0.06114191934466362,Alban Meha,a,4262,DirectFreekick,2014,RightFoot,5379,Werder Bremen,Paderborn,4,0,2014-11-29 14:30:00,,Standard
+27169,83,MissedShots,0.894000015258789,0.4490000152587891,0.04601172357797623,Stefan Kutschke,a,4297,OpenPlay,2014,Head,5379,Werder Bremen,Paderborn,4,0,2014-11-29 14:30:00,Florian Hartherz,Aerial
+27170,85,SavedShot,0.89,0.3529999923706055,0.2340250313282013,Elias Kachunga,a,248,OpenPlay,2014,RightFoot,5379,Werder Bremen,Paderborn,4,0,2014-11-29 14:30:00,Stefan Kutschke,None
+27173,88,MissedShots,0.6480000305175782,0.47900001525878905,0.02704809047281742,Alban Meha,a,4262,DirectFreekick,2014,RightFoot,5379,Werder Bremen,Paderborn,4,0,2014-11-29 14:30:00,,Standard

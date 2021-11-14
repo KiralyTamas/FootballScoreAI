@@ -1,0 +1,35 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+396237,1,BlockedShot,0.9669999694824218,0.6409999847412109,0.09097223728895187,Paul Pogba,h,1740,OpenPlay,2020,LeftFoot,14596,Manchester United,Aston Villa,2,1,2021-01-01 20:00:00,Bruno Fernandes,Pass
+396238,9,BlockedShot,0.7609999847412109,0.28899999618530275,0.01521929632872343,Bruno Fernandes,h,1228,OpenPlay,2020,RightFoot,14596,Manchester United,Aston Villa,2,1,2021-01-01 20:00:00,Anthony Martial,Pass
+396239,9,SavedShot,0.8119999694824219,0.5509999847412109,0.05471358448266983,Anthony Martial,h,553,OpenPlay,2020,RightFoot,14596,Manchester United,Aston Villa,2,1,2021-01-01 20:00:00,Bruno Fernandes,Pass
+396240,10,BlockedShot,0.904000015258789,0.4540000152587891,0.019923746585845947,Paul Pogba,h,1740,FromCorner,2020,Head,14596,Manchester United,Aston Villa,2,1,2021-01-01 20:00:00,Luke Shaw,Aerial
+396241,10,BlockedShot,0.750999984741211,0.49700000762939456,0.02399265021085739,Bruno Fernandes,h,1228,FromCorner,2020,RightFoot,14596,Manchester United,Aston Villa,2,1,2021-01-01 20:00:00,,Rebound
+396242,11,SavedShot,0.9080000305175782,0.4979999923706055,0.07821117341518402,Harry Maguire,h,1687,FromCorner,2020,Head,14596,Manchester United,Aston Villa,2,1,2021-01-01 20:00:00,Luke Shaw,Cross
+396245,15,MissedShots,0.79,0.6120000076293945,0.028892895206809044,Fred,h,6817,OpenPlay,2020,LeftFoot,14596,Manchester United,Aston Villa,2,1,2021-01-01 20:00:00,Aaron Wan-Bissaka,Pass
+396246,24,BlockedShot,0.8619999694824219,0.3820000076293945,0.06903478503227234,Marcus Rashford,h,556,OpenPlay,2020,RightFoot,14596,Manchester United,Aston Villa,2,1,2021-01-01 20:00:00,Paul Pogba,BallRecovery
+396247,25,MissedShots,0.8540000152587891,0.509000015258789,0.10221730172634125,Paul Pogba,h,1740,OpenPlay,2020,RightFoot,14596,Manchester United,Aston Villa,2,1,2021-01-01 20:00:00,Bruno Fernandes,Pass
+396249,36,MissedShots,0.8530000305175781,0.7440000152587891,0.02842175029218197,Bruno Fernandes,h,1228,OpenPlay,2020,RightFoot,14596,Manchester United,Aston Villa,2,1,2021-01-01 20:00:00,Luke Shaw,Pass
+396251,39,Goal,0.9330000305175781,0.44299999237060544,0.36964496970176697,Anthony Martial,h,553,OpenPlay,2020,Head,14596,Manchester United,Aston Villa,2,1,2021-01-01 20:00:00,Aaron Wan-Bissaka,Cross
+396255,55,SavedShot,0.8540000152587891,0.46599998474121096,0.1274557262659073,Marcus Rashford,h,556,OpenPlay,2020,RightFoot,14596,Manchester United,Aston Villa,2,1,2021-01-01 20:00:00,Paul Pogba,TakeOn
+396257,60,Goal,0.885,0.5,0.7611688375473022,Bruno Fernandes,h,1228,Penalty,2020,RightFoot,14596,Manchester United,Aston Villa,2,1,2021-01-01 20:00:00,,Standard
+396258,64,SavedShot,0.8080000305175781,0.4909999847412109,0.06149677559733391,Marcus Rashford,h,556,OpenPlay,2020,LeftFoot,14596,Manchester United,Aston Villa,2,1,2021-01-01 20:00:00,Bruno Fernandes,Chipped
+396259,70,SavedShot,0.9219999694824219,0.6809999847412109,0.0875110998749733,Anthony Martial,h,553,OpenPlay,2020,LeftFoot,14596,Manchester United,Aston Villa,2,1,2021-01-01 20:00:00,Bruno Fernandes,Pass
+396261,72,MissedShots,0.91,0.5579999923706055,0.4357741177082062,Paul Pogba,h,1740,OpenPlay,2020,RightFoot,14596,Manchester United,Aston Villa,2,1,2021-01-01 20:00:00,Luke Shaw,Pass
+396263,76,SavedShot,0.774000015258789,0.3509999847412109,0.018971668556332588,Bruno Fernandes,h,1228,FromCorner,2020,RightFoot,14596,Manchester United,Aston Villa,2,1,2021-01-01 20:00:00,,Tackle
+396264,76,MissedShots,0.784000015258789,0.34400001525878904,0.014292134903371334,Marcus Rashford,h,556,FromCorner,2020,RightFoot,14596,Manchester United,Aston Villa,2,1,2021-01-01 20:00:00,,Aerial
+396267,86,SavedShot,0.8690000152587891,0.6530000305175782,0.07729794830083847,Daniel James,h,5595,OpenPlay,2020,RightFoot,14596,Manchester United,Aston Villa,2,1,2021-01-01 20:00:00,Nemanja Matic,Pass
+396243,12,SavedShot,0.8969999694824219,0.66,0.036985475569963455,John McGinn,a,7723,OpenPlay,2020,LeftFoot,14596,Manchester United,Aston Villa,2,1,2021-01-01 20:00:00,Matthew Cash,Cross
+396244,13,BlockedShot,0.9230000305175782,0.305,0.020310021936893463,Ollie Watkins,a,8865,FromCorner,2020,RightFoot,14596,Manchester United,Aston Villa,2,1,2021-01-01 20:00:00,,Aerial
+396248,32,BlockedShot,0.7519999694824219,0.6530000305175782,0.014526369981467724,Anwar El Ghazi,a,5612,OpenPlay,2020,RightFoot,14596,Manchester United,Aston Villa,2,1,2021-01-01 20:00:00,,None
+396250,38,MissedShots,0.9569999694824218,0.19399999618530273,0.07196168601512909,Bertrand Traoré,a,695,DirectFreekick,2020,LeftFoot,14596,Manchester United,Aston Villa,2,1,2021-01-01 20:00:00,,Standard
+396252,50,MissedShots,0.909000015258789,0.28700000762939454,0.04362192377448082,Matthew Cash,a,8864,OpenPlay,2020,RightFoot,14596,Manchester United,Aston Villa,2,1,2021-01-01 20:00:00,Bertrand Traoré,Pass
+396253,51,SavedShot,0.9590000152587891,0.42900001525878906,0.3715932369232178,Ollie Watkins,a,8865,OpenPlay,2020,Head,14596,Manchester United,Aston Villa,2,1,2021-01-01 20:00:00,Jack Grealish,Cross
+396254,53,MissedShots,0.8719999694824219,0.7069999694824218,0.04517466947436333,Anwar El Ghazi,a,5612,OpenPlay,2020,RightFoot,14596,Manchester United,Aston Villa,2,1,2021-01-01 20:00:00,Ollie Watkins,Pass
+396256,57,Goal,0.9519999694824218,0.42400001525878905,0.512722373008728,Bertrand Traoré,a,695,SetPiece,2020,LeftFoot,14596,Manchester United,Aston Villa,2,1,2021-01-01 20:00:00,Jack Grealish,Pass
+396260,71,SavedShot,0.8440000152587891,0.695,0.03695753961801529,Anwar El Ghazi,a,5612,OpenPlay,2020,LeftFoot,14596,Manchester United,Aston Villa,2,1,2021-01-01 20:00:00,Bertrand Traoré,Pass
+396262,74,MissedShots,0.935,0.5120000076293946,0.06602199375629425,Ollie Watkins,a,8865,OpenPlay,2020,Head,14596,Manchester United,Aston Villa,2,1,2021-01-01 20:00:00,Jack Grealish,Aerial
+396265,82,MissedShots,0.9469999694824218,0.5070000076293946,0.08124493062496185,Tyrone Mings,a,1024,SetPiece,2020,Head,14596,Manchester United,Aston Villa,2,1,2021-01-01 20:00:00,Matthew Cash,Aerial
+396266,84,MissedShots,0.905,0.5420000076293945,0.07342579960823059,Keinan Davis,a,1053,OpenPlay,2020,Head,14596,Manchester United,Aston Villa,2,1,2021-01-01 20:00:00,Matthew Cash,Cross
+396268,92,SavedShot,0.7569999694824219,0.59,0.014871533028781414,Matthew Cash,a,8864,FromCorner,2020,RightFoot,14596,Manchester United,Aston Villa,2,1,2021-01-01 20:00:00,Jack Grealish,TakeOn
+396269,95,BlockedShot,0.91,0.49700000762939456,0.10007336735725403,Keinan Davis,a,1053,OpenPlay,2020,Head,14596,Manchester United,Aston Villa,2,1,2021-01-01 20:00:00,Ollie Watkins,Cross
+396270,95,BlockedShot,0.879000015258789,0.5129999923706055,0.07485020160675049,Keinan Davis,a,1053,OpenPlay,2020,LeftFoot,14596,Manchester United,Aston Villa,2,1,2021-01-01 20:00:00,,None

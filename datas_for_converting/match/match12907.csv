@@ -1,0 +1,31 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+354567,2,Goal,0.9309999847412109,0.6359999847412109,0.2928314208984375,Neymar,h,2099,OpenPlay,2019,LeftFoot,12907,Paris Saint Germain,Monaco,3,3,2020-01-12 20:00:00,Marco Verratti,Chipped
+354571,14,SavedShot,0.774000015258789,0.7809999847412109,0.03989829123020172,Neymar,h,2099,DirectFreekick,2019,RightFoot,12907,Paris Saint Germain,Monaco,3,3,2020-01-12 20:00:00,,Standard
+354572,19,MissedShots,0.9590000152587891,0.4279999923706055,0.4383803904056549,Kylian Mbappe-Lottin,h,3423,OpenPlay,2019,RightFoot,12907,Paris Saint Germain,Monaco,3,3,2020-01-12 20:00:00,Thomas Meunier,Cross
+354574,21,MissedShots,0.91,0.590999984741211,0.10600434988737106,Neymar,h,2099,OpenPlay,2019,RightFoot,12907,Paris Saint Germain,Monaco,3,3,2020-01-12 20:00:00,Kylian Mbappe-Lottin,Pass
+354575,23,BlockedShot,0.8980000305175782,0.6409999847412109,0.07538633048534393,Neymar,h,2099,OpenPlay,2019,RightFoot,12907,Paris Saint Germain,Monaco,3,3,2020-01-12 20:00:00,Ángel Di María,Pass
+354581,41,Goal,0.885,0.5,0.7600951194763184,Neymar,h,2099,Penalty,2019,RightFoot,12907,Paris Saint Germain,Monaco,3,3,2020-01-12 20:00:00,,Standard
+354585,53,SavedShot,0.8909999847412109,0.51,0.4399208426475525,Neymar,h,2099,OpenPlay,2019,RightFoot,12907,Paris Saint Germain,Monaco,3,3,2020-01-12 20:00:00,Ángel Di María,Pass
+354586,59,BlockedShot,0.799000015258789,0.6969999694824218,0.0310884527862072,Kylian Mbappe-Lottin,h,3423,OpenPlay,2019,RightFoot,12907,Paris Saint Germain,Monaco,3,3,2020-01-12 20:00:00,Neymar,Pass
+354590,75,SavedShot,0.850999984741211,0.7240000152587891,0.031006481498479843,Kylian Mbappe-Lottin,h,3423,OpenPlay,2019,RightFoot,12907,Paris Saint Germain,Monaco,3,3,2020-01-12 20:00:00,Neymar,Pass
+354591,76,MissedShots,0.8780000305175781,0.6419999694824219,0.07035700231790543,Neymar,h,2099,OpenPlay,2019,LeftFoot,12907,Paris Saint Germain,Monaco,3,3,2020-01-12 20:00:00,Mauro Icardi,Pass
+354592,84,MissedShots,0.9169999694824219,0.49599998474121093,0.3703954815864563,Marquinhos,h,3297,SetPiece,2019,Head,12907,Paris Saint Germain,Monaco,3,3,2020-01-12 20:00:00,Neymar,Aerial
+354595,94,MissedShots,0.9319999694824219,0.63,0.07619993388652802,Kylian Mbappe-Lottin,h,3423,OpenPlay,2019,RightFoot,12907,Paris Saint Germain,Monaco,3,3,2020-01-12 20:00:00,Neymar,Chipped
+354596,95,SavedShot,0.8730000305175781,0.47200000762939454,0.03177094832062721,Edinson Cavani,h,3294,OpenPlay,2019,Head,12907,Paris Saint Germain,Monaco,3,3,2020-01-12 20:00:00,Thomas Meunier,Chipped
+354568,6,BlockedShot,0.7830000305175782,0.740999984741211,0.01792987994849682,Aleksandr Golovin,a,2897,OpenPlay,2019,RightFoot,12907,Paris Saint Germain,Monaco,3,3,2020-01-12 20:00:00,Fode Toure,Pass
+354569,6,Goal,0.9519999694824218,0.41400001525878904,0.3721717894077301,Gelson Martins,a,7012,OpenPlay,2019,RightFoot,12907,Paris Saint Germain,Monaco,3,3,2020-01-12 20:00:00,Wissam Ben Yedder,BallTouch
+354570,12,Goal,0.8780000305175781,0.4379999923706055,0.11187508702278137,Wissam Ben Yedder,a,3210,OpenPlay,2019,RightFoot,12907,Paris Saint Germain,Monaco,3,3,2020-01-12 20:00:00,Keita,Pass
+354573,21,SavedShot,0.8830000305175781,0.625999984741211,0.3467024564743042,Keita,a,1210,OpenPlay,2019,LeftFoot,12907,Paris Saint Germain,Monaco,3,3,2020-01-12 20:00:00,Wissam Ben Yedder,Pass
+354576,23,OwnGoal,0.08399999618530274,0.47299999237060547,0,Fode Toure,a,5803,OpenPlay,2019,LeftFoot,12907,Paris Saint Germain,Monaco,3,3,2020-01-12 20:00:00,,BallTouch
+354577,30,ShotOnPost,0.9630000305175781,0.5970000076293945,0.06199338287115097,Kamil Glik,a,1800,FromCorner,2019,Head,12907,Paris Saint Germain,Monaco,3,3,2020-01-12 20:00:00,Cesc Fàbregas,Cross
+354578,32,BlockedShot,0.8480000305175781,0.29700000762939455,0.03385673090815544,Aleksandr Golovin,a,2897,OpenPlay,2019,LeftFoot,12907,Paris Saint Germain,Monaco,3,3,2020-01-12 20:00:00,Gelson Martins,Pass
+354579,36,SavedShot,0.8730000305175781,0.6730000305175782,0.06050259619951248,Aleksandr Golovin,a,2897,OpenPlay,2019,RightFoot,12907,Paris Saint Germain,Monaco,3,3,2020-01-12 20:00:00,Wissam Ben Yedder,Pass
+354580,36,MissedShots,0.8830000305175781,0.47,0.0851629376411438,Wissam Ben Yedder,a,3210,FromCorner,2019,RightFoot,12907,Paris Saint Germain,Monaco,3,3,2020-01-12 20:00:00,,None
+354582,47,BlockedShot,0.7919999694824219,0.6509999847412109,0.018666747957468033,Aleksandr Golovin,a,2897,SetPiece,2019,LeftFoot,12907,Paris Saint Germain,Monaco,3,3,2020-01-12 20:00:00,,None
+354583,47,MissedShots,0.9,0.59,0.07517653703689575,Aleksandr Golovin,a,2897,SetPiece,2019,RightFoot,12907,Paris Saint Germain,Monaco,3,3,2020-01-12 20:00:00,,None
+354584,48,MissedShots,0.7430000305175781,0.45799999237060546,0.02155568264424801,Tiemoué Bakayoko,a,3429,OpenPlay,2019,RightFoot,12907,Paris Saint Germain,Monaco,3,3,2020-01-12 20:00:00,Wissam Ben Yedder,Pass
+354587,68,MissedShots,0.919000015258789,0.39799999237060546,0.015184183605015278,Islam Slimani,a,1682,FromCorner,2019,Head,12907,Paris Saint Germain,Monaco,3,3,2020-01-12 20:00:00,Aleksandr Golovin,Aerial
+354588,69,BlockedShot,0.8669999694824219,0.3920000076293945,0.05866413936018944,Gelson Martins,a,7012,OpenPlay,2019,LeftFoot,12907,Paris Saint Germain,Monaco,3,3,2020-01-12 20:00:00,Wissam Ben Yedder,TakeOn
+354589,69,Goal,0.9469999694824218,0.47400001525878904,0.553653359413147,Islam Slimani,a,1682,OpenPlay,2019,RightFoot,12907,Paris Saint Germain,Monaco,3,3,2020-01-12 20:00:00,,None
+354593,86,BlockedShot,0.8469999694824218,0.3820000076293945,0.050103671848773956,Tiemoué Bakayoko,a,3429,SetPiece,2019,RightFoot,12907,Paris Saint Germain,Monaco,3,3,2020-01-12 20:00:00,,None
+354594,87,SavedShot,0.9540000152587891,0.624000015258789,0.03556235879659653,Islam Slimani,a,1682,FromCorner,2019,OtherBodyPart,12907,Paris Saint Germain,Monaco,3,3,2020-01-12 20:00:00,Aleksandr Golovin,Aerial

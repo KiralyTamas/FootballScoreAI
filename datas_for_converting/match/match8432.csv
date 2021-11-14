@@ -1,0 +1,23 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+189682,5,MissedShots,0.9169999694824219,0.6029999923706054,0.3674655258655548,Marius Wolf,h,2693,OpenPlay,2017,RightFoot,8432,Eintracht Frankfurt,Borussia M.Gladbach,2,0,2018-01-26 19:30:00,,None
+189683,18,BlockedShot,0.71,0.620999984741211,0.03977648913860321,Ante Rebic,h,1852,DirectFreekick,2017,RightFoot,8432,Eintracht Frankfurt,Borussia M.Gladbach,2,0,2018-01-26 19:30:00,,Standard
+189684,20,BlockedShot,0.8580000305175781,0.34299999237060547,0.05854613333940506,Marius Wolf,h,2693,OpenPlay,2017,RightFoot,8432,Eintracht Frankfurt,Borussia M.Gladbach,2,0,2018-01-26 19:30:00,Ante Rebic,Pass
+189685,35,MissedShots,0.799000015258789,0.6480000305175782,0.032025761902332306,Timothy Chandler,h,359,OpenPlay,2017,RightFoot,8432,Eintracht Frankfurt,Borussia M.Gladbach,2,0,2018-01-26 19:30:00,Sébastien Haller,Pass
+189687,42,Goal,0.9590000152587891,0.515,0.6625028848648071,Kevin-Prince Boateng,h,1819,OpenPlay,2017,LeftFoot,8432,Eintracht Frankfurt,Borussia M.Gladbach,2,0,2018-01-26 19:30:00,Timothy Chandler,Pass
+189690,48,BlockedShot,0.8540000152587891,0.29700000762939455,0.05230829864740372,Ante Rebic,h,1852,OpenPlay,2017,LeftFoot,8432,Eintracht Frankfurt,Borussia M.Gladbach,2,0,2018-01-26 19:30:00,Sébastien Haller,Pass
+189697,69,MissedShots,0.875,0.4279999923706055,0.025399066507816315,Kevin-Prince Boateng,h,1819,OpenPlay,2017,Head,8432,Eintracht Frankfurt,Borussia M.Gladbach,2,0,2018-01-26 19:30:00,Timothy Chandler,Aerial
+189703,91,Goal,0.8669999694824219,0.655,0.09878090769052505,Luka Jovic,h,6228,OpenPlay,2017,LeftFoot,8432,Eintracht Frankfurt,Borussia M.Gladbach,2,0,2018-01-26 19:30:00,Aymen Barkok,Pass
+189686,40,BlockedShot,0.749000015258789,0.4929999923706055,0.02121763303875923,Denis Zakaria,a,6147,SetPiece,2017,RightFoot,8432,Eintracht Frankfurt,Borussia M.Gladbach,2,0,2018-01-26 19:30:00,Thorgan Hazard,Pass
+189688,44,MissedShots,0.749000015258789,0.30100000381469727,0.00999839510768652,Thorgan Hazard,a,213,OpenPlay,2017,RightFoot,8432,Eintracht Frankfurt,Borussia M.Gladbach,2,0,2018-01-26 19:30:00,Tobias Sippel,Aerial
+189689,46,MissedShots,0.8980000305175782,0.425,0.07478894293308258,Patrick Herrmann,a,420,OpenPlay,2017,RightFoot,8432,Eintracht Frankfurt,Borussia M.Gladbach,2,0,2018-01-26 19:30:00,Michaël Cuisance,Cross
+189691,52,SavedShot,0.865,0.575,0.12566885352134705,Michaël Cuisance,a,6148,OpenPlay,2017,RightFoot,8432,Eintracht Frankfurt,Borussia M.Gladbach,2,0,2018-01-26 19:30:00,Thorgan Hazard,Pass
+189692,54,MissedShots,0.795,0.5540000152587891,0.036801766604185104,Michaël Cuisance,a,6148,OpenPlay,2017,LeftFoot,8432,Eintracht Frankfurt,Borussia M.Gladbach,2,0,2018-01-26 19:30:00,Lars Stindl,BallTouch
+189693,56,ShotOnPost,0.9169999694824219,0.3390000152587891,0.13313215970993042,Patrick Herrmann,a,420,OpenPlay,2017,RightFoot,8432,Eintracht Frankfurt,Borussia M.Gladbach,2,0,2018-01-26 19:30:00,Michaël Cuisance,Throughball
+189694,62,BlockedShot,0.7819999694824219,0.6530000305175782,0.024716047570109367,Lars Stindl,a,208,OpenPlay,2017,RightFoot,8432,Eintracht Frankfurt,Borussia M.Gladbach,2,0,2018-01-26 19:30:00,Michaël Cuisance,Pass
+189695,65,MissedShots,0.9,0.595999984741211,0.012385320849716663,Jannik Vestergaard,a,111,SetPiece,2017,Head,8432,Eintracht Frankfurt,Borussia M.Gladbach,2,0,2018-01-26 19:30:00,Thorgan Hazard,Aerial
+189696,67,MissedShots,0.7480000305175781,0.38,0.01648927666246891,Denis Zakaria,a,6147,OpenPlay,2017,RightFoot,8432,Eintracht Frankfurt,Borussia M.Gladbach,2,0,2018-01-26 19:30:00,Michaël Cuisance,BallRecovery
+189698,71,MissedShots,0.835,0.28299999237060547,0.029673291370272636,Thorgan Hazard,a,213,OpenPlay,2017,RightFoot,8432,Eintracht Frankfurt,Borussia M.Gladbach,2,0,2018-01-26 19:30:00,Christoph Kramer,Pass
+189699,76,SavedShot,0.909000015258789,0.625999984741211,0.10389671474695206,Denis Zakaria,a,6147,OpenPlay,2017,LeftFoot,8432,Eintracht Frankfurt,Borussia M.Gladbach,2,0,2018-01-26 19:30:00,Thorgan Hazard,Throughball
+189700,77,ShotOnPost,0.885,0.5,0.75777667760849,Thorgan Hazard,a,213,Penalty,2017,RightFoot,8432,Eintracht Frankfurt,Borussia M.Gladbach,2,0,2018-01-26 19:30:00,,Standard
+189701,85,BlockedShot,0.8180000305175781,0.5940000152587891,0.05191459506750107,Jonas Hofmann,a,320,OpenPlay,2017,LeftFoot,8432,Eintracht Frankfurt,Borussia M.Gladbach,2,0,2018-01-26 19:30:00,Thorgan Hazard,Pass
+189702,89,MissedShots,0.6990000152587891,0.35400001525878905,0.017564138397574425,Thorgan Hazard,a,213,SetPiece,2017,RightFoot,8432,Eintracht Frankfurt,Borussia M.Gladbach,2,0,2018-01-26 19:30:00,Michaël Cuisance,Pass

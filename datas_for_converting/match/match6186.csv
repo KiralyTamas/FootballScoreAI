@@ -1,0 +1,25 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+26,2,BlockedShot,0.9419999694824219,0.49700000762939456,0.10486782342195511,Sébastien Squillaci,h,3321,SetPiece,2014,LeftFoot,6186,SC Bastia,Marseille,3,3,2014-08-09 20:00:00,Floyd Ayité,Cross
+27,2,BlockedShot,0.8490000152587891,0.53,0.06897955387830734,Romaric,h,4724,SetPiece,2014,LeftFoot,6186,SC Bastia,Marseille,3,3,2014-08-09 20:00:00,,Rebound
+28,2,MissedShots,0.835999984741211,0.539000015258789,0.055217355489730835,Yannick Cahuzac,h,3325,SetPiece,2014,RightFoot,6186,SC Bastia,Marseille,3,3,2014-08-09 20:00:00,,Rebound
+30,7,Goal,0.7319999694824219,0.47700000762939454,0.014849529601633549,Christopher Maboulou,h,3659,OpenPlay,2014,RightFoot,6186,SC Bastia,Marseille,3,3,2014-08-09 20:00:00,,None
+32,14,BlockedShot,0.79,0.45299999237060545,0.034236226230859756,Brandão,h,3327,SetPiece,2014,LeftFoot,6186,SC Bastia,Marseille,3,3,2014-08-09 20:00:00,,BallTouch
+33,16,OwnGoal,0.11100000381469727,0.544000015258789,0,Romaric,h,4724,OpenPlay,2014,LeftFoot,6186,SC Bastia,Marseille,3,3,2014-08-09 20:00:00,,Foul
+35,23,BlockedShot,0.7480000305175781,0.4520000076293945,0.021018249914050102,Guillaume Gillet,h,3403,OpenPlay,2014,RightFoot,6186,SC Bastia,Marseille,3,3,2014-08-09 20:00:00,Ryad Boudebouz,Pass
+37,34,BlockedShot,0.7919999694824219,0.47900001525878905,0.033655159175395966,Guillaume Gillet,h,3403,SetPiece,2014,RightFoot,6186,SC Bastia,Marseille,3,3,2014-08-09 20:00:00,Ryad Boudebouz,Pass
+39,44,SavedShot,0.74,0.46099998474121096,0.014925157651305199,Brandão,h,3327,OpenPlay,2014,LeftFoot,6186,SC Bastia,Marseille,3,3,2014-08-09 20:00:00,Christopher Maboulou,HeadPass
+40,47,MissedShots,0.775,0.534000015258789,0.0914248526096344,Floyd Ayité,h,3328,DirectFreekick,2014,RightFoot,6186,SC Bastia,Marseille,3,3,2014-08-09 20:00:00,,Standard
+42,55,BlockedShot,0.7859999847412109,0.47700000762939454,0.037612996995449066,Floyd Ayité,h,3328,OpenPlay,2014,LeftFoot,6186,SC Bastia,Marseille,3,3,2014-08-09 20:00:00,Brandão,Pass
+43,59,MissedShots,0.8009999847412109,0.5279999923706055,0.040904540568590164,Junior Tallo,h,3368,OpenPlay,2014,LeftFoot,6186,SC Bastia,Marseille,3,3,2014-08-09 20:00:00,,None
+45,65,Goal,0.885,0.5,0.7600951194763184,Junior Tallo,h,3368,Penalty,2014,RightFoot,6186,SC Bastia,Marseille,3,3,2014-08-09 20:00:00,,Standard
+46,68,BlockedShot,0.8080000305175781,0.235,0.020107507705688477,Junior Tallo,h,3368,OpenPlay,2014,RightFoot,6186,SC Bastia,Marseille,3,3,2014-08-09 20:00:00,Brandão,Pass
+47,72,Goal,0.9540000152587891,0.59,0.11543141305446625,Christopher Maboulou,h,3659,OpenPlay,2014,RightFoot,6186,SC Bastia,Marseille,3,3,2014-08-09 20:00:00,,TakeOn
+29,5,MissedShots,0.7869999694824219,0.6090000152587891,0.03150894492864609,Benjamin Mendy,a,3389,OpenPlay,2014,RightFoot,6186,SC Bastia,Marseille,3,3,2014-08-09 20:00:00,Romain Alessandrini,Pass
+31,10,Goal,0.9309999847412109,0.54,0.3372057378292084,André-Pierre Gignac,a,4747,OpenPlay,2014,Head,6186,SC Bastia,Marseille,3,3,2014-08-09 20:00:00,Benjamin Mendy,Cross
+34,18,SavedShot,0.8069999694824219,0.20399999618530273,0.04615367203950882,Florian Thauvin,a,942,DirectFreekick,2014,LeftFoot,6186,SC Bastia,Marseille,3,3,2014-08-09 20:00:00,,Standard
+36,28,BlockedShot,0.730999984741211,0.629000015258789,0.02240082249045372,Florian Thauvin,a,942,OpenPlay,2014,LeftFoot,6186,SC Bastia,Marseille,3,3,2014-08-09 20:00:00,Benjamin Mendy,Pass
+38,44,SavedShot,0.784000015258789,0.5690000152587891,0.0423768013715744,Dimitri Payet,a,536,OpenPlay,2014,RightFoot,6186,SC Bastia,Marseille,3,3,2014-08-09 20:00:00,Romain Alessandrini,Pass
+41,50,BlockedShot,0.805,0.385,0.050437577068805695,André-Pierre Gignac,a,4747,OpenPlay,2014,LeftFoot,6186,SC Bastia,Marseille,3,3,2014-08-09 20:00:00,Dimitri Payet,Pass
+44,61,Goal,0.885,0.5,0.7600951194763184,André-Pierre Gignac,a,4747,Penalty,2014,RightFoot,6186,SC Bastia,Marseille,3,3,2014-08-09 20:00:00,,Standard
+48,79,MissedShots,0.8580000305175781,0.26899999618530274,0.013174828141927719,André-Pierre Gignac,a,4747,SetPiece,2014,RightFoot,6186,SC Bastia,Marseille,3,3,2014-08-09 20:00:00,,Aerial
+49,88,BlockedShot,0.7040000152587891,0.4520000076293945,0.014155379496514797,Giannelli Imbula,a,861,OpenPlay,2014,LeftFoot,6186,SC Bastia,Marseille,3,3,2014-08-09 20:00:00,Michy Batshuayi,Pass

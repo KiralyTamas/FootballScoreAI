@@ -1,0 +1,17 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+396449,3,Goal,0.8819999694824219,0.5470000076293945,0.08562929183244705,Jeffrey Schlupp,h,757,OpenPlay,2020,RightFoot,14604,Crystal Palace,Sheffield United,2,0,2021-01-02 15:00:00,,None
+396450,10,SavedShot,0.705,0.5129999923706055,0.01774437725543976,Andros Townsend,h,775,OpenPlay,2020,LeftFoot,14604,Crystal Palace,Sheffield United,2,0,2021-01-02 15:00:00,Luka Milivojevic,Pass
+396451,30,ShotOnPost,0.9669999694824218,0.6079999923706054,0.12536980211734772,Christian Benteke,h,606,OpenPlay,2020,RightFoot,14604,Crystal Palace,Sheffield United,2,0,2021-01-02 15:00:00,Wilfried Zaha,Pass
+396454,46,SavedShot,0.8780000305175781,0.53,0.04432335123419762,Wilfried Zaha,h,522,SetPiece,2020,Head,14604,Crystal Palace,Sheffield United,2,0,2021-01-02 15:00:00,Luka Milivojevic,Cross
+396455,50,Goal,0.7969999694824219,0.64,0.06407754123210907,Eberechi Eze,h,8706,OpenPlay,2020,RightFoot,14604,Crystal Palace,Sheffield United,2,0,2021-01-02 15:00:00,James McArthur,TakeOn
+396456,54,BlockedShot,0.9280000305175782,0.40599998474121096,0.022273041307926178,Wilfried Zaha,h,522,OpenPlay,2020,Head,14604,Crystal Palace,Sheffield United,2,0,2021-01-02 15:00:00,Andros Townsend,Aerial
+396458,75,BlockedShot,0.7080000305175781,0.44299999237060544,0.018111540004611015,Jordan Ayew,h,672,OpenPlay,2020,RightFoot,14604,Crystal Palace,Sheffield United,2,0,2021-01-02 15:00:00,Eberechi Eze,Pass
+396459,78,MissedShots,0.8530000305175781,0.56,0.09304200112819672,Andros Townsend,h,775,OpenPlay,2020,LeftFoot,14604,Crystal Palace,Sheffield United,2,0,2021-01-02 15:00:00,James McArthur,BallRecovery
+396461,83,BlockedShot,0.8680000305175781,0.54,0.12831711769104004,Andros Townsend,h,775,OpenPlay,2020,LeftFoot,14604,Crystal Palace,Sheffield United,2,0,2021-01-02 15:00:00,Wilfried Zaha,Pass
+396452,42,SavedShot,0.9590000152587891,0.2989999961853027,0.048733070492744446,Jayden Bogle,a,9205,OpenPlay,2020,RightFoot,14604,Crystal Palace,Sheffield United,2,0,2021-01-02 15:00:00,Ethan Ampadu,Chipped
+396453,44,BlockedShot,0.94,0.42700000762939455,0.10197020322084427,Chris Basham,a,7704,OpenPlay,2020,RightFoot,14604,Crystal Palace,Sheffield United,2,0,2021-01-02 15:00:00,Jayden Bogle,HeadPass
+396457,70,BlockedShot,0.7290000152587891,0.6719999694824219,0.011665845289826393,John Fleck,a,7709,FromCorner,2020,LeftFoot,14604,Crystal Palace,Sheffield United,2,0,2021-01-02 15:00:00,,TakeOn
+396460,82,BlockedShot,0.8530000305175781,0.6329999923706054,0.041544780135154724,David McGoldrick,a,7711,FromCorner,2020,RightFoot,14604,Crystal Palace,Sheffield United,2,0,2021-01-02 15:00:00,,None
+396462,86,MissedShots,0.725999984741211,0.6769999694824219,0.0074128760024905205,John Fleck,a,7709,OpenPlay,2020,LeftFoot,14604,Crystal Palace,Sheffield United,2,0,2021-01-02 15:00:00,,None
+396463,90,BlockedShot,0.905,0.3970000076293945,0.1034446656703949,Antwoine Hackford,a,9222,OpenPlay,2020,RightFoot,14604,Crystal Palace,Sheffield United,2,0,2021-01-02 15:00:00,Chris Basham,Pass
+396464,93,SavedShot,0.705,0.654000015258789,0.008386322297155857,David McGoldrick,a,7711,OpenPlay,2020,RightFoot,14604,Crystal Palace,Sheffield United,2,0,2021-01-02 15:00:00,John Fleck,Pass

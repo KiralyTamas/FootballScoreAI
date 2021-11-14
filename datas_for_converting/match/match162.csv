@@ -1,0 +1,41 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+59061,10,BlockedShot,0.9369999694824219,0.4759999847412109,0.12126920372247696,Virgil van Dijk,h,833,FromCorner,2015,Head,162,Southampton,Leicester,2,2,2015-10-17 18:00:00,James Ward-Prowse,Cross
+59062,11,BlockedShot,0.9480000305175781,0.5520000076293945,0.13790424168109894,Sadio Mané,h,838,OpenPlay,2015,Head,162,Southampton,Leicester,2,2,2015-10-17 18:00:00,Cédric Soares,Cross
+59063,11,MissedShots,0.925,0.6880000305175781,0.045793622732162476,Graziano Pellè,h,841,OpenPlay,2015,LeftFoot,162,Southampton,Leicester,2,2,2015-10-17 18:00:00,,Rebound
+59064,17,BlockedShot,0.7290000152587891,0.245,0.009097522124648094,Cédric Soares,h,847,OpenPlay,2015,RightFoot,162,Southampton,Leicester,2,2,2015-10-17 18:00:00,,None
+59065,20,Goal,0.95,0.43599998474121093,0.1142444908618927,José Fonte,h,834,FromCorner,2015,Head,162,Southampton,Leicester,2,2,2015-10-17 18:00:00,Dusan Tadic,Cross
+59068,35,SavedShot,0.815,0.3659999847412109,0.048066750168800354,Sadio Mané,h,838,OpenPlay,2015,LeftFoot,162,Southampton,Leicester,2,2,2015-10-17 18:00:00,Cédric Soares,Pass
+59069,36,ShotOnPost,0.9330000305175781,0.49900001525878906,0.11745093762874603,Graziano Pellè,h,841,FromCorner,2015,Head,162,Southampton,Leicester,2,2,2015-10-17 18:00:00,James Ward-Prowse,Cross
+59070,36,Goal,0.9769999694824218,0.45299999237060545,0.6934429407119751,Virgil van Dijk,h,833,FromCorner,2015,LeftFoot,162,Southampton,Leicester,2,2,2015-10-17 18:00:00,,Rebound
+59074,47,SavedShot,0.885,0.6580000305175782,0.08554617315530777,Dusan Tadic,h,840,OpenPlay,2015,RightFoot,162,Southampton,Leicester,2,2,2015-10-17 18:00:00,Ryan Bertrand,TakeOn
+59084,50,MissedShots,0.9130000305175782,0.3170000076293945,0.0706394761800766,Graziano Pellè,h,841,OpenPlay,2015,RightFoot,162,Southampton,Leicester,2,2,2015-10-17 18:00:00,James Ward-Prowse,Pass
+59091,63,MissedShots,0.875999984741211,0.33799999237060546,0.0874164029955864,Graziano Pellè,h,841,OpenPlay,2015,RightFoot,162,Southampton,Leicester,2,2,2015-10-17 18:00:00,Sadio Mané,Pass
+59099,78,SavedShot,0.720999984741211,0.6229999923706054,0.01722424291074276,Jay Rodriguez,h,844,OpenPlay,2015,RightFoot,162,Southampton,Leicester,2,2,2015-10-17 18:00:00,Victor Wanyama,Pass
+59107,82,MissedShots,0.6309999847412109,0.36900001525878906,0.006345066707581282,Sadio Mané,h,838,OpenPlay,2015,RightFoot,162,Southampton,Leicester,2,2,2015-10-17 18:00:00,José Fonte,TakeOn
+59058,4,MissedShots,0.9319999694824219,0.5129999923706055,0.45600220561027527,Jamie Vardy,a,755,OpenPlay,2015,LeftFoot,162,Southampton,Leicester,2,2,2015-10-17 18:00:00,Marc Albrighton,Cross
+59059,6,MissedShots,0.7559999847412109,0.6819999694824219,0.010631291195750237,N&#039;Golo Kanté,a,751,OpenPlay,2015,RightFoot,162,Southampton,Leicester,2,2,2015-10-17 18:00:00,,Aerial
+59060,6,MissedShots,0.915,0.4759999847412109,0.053946152329444885,Jamie Vardy,a,755,OpenPlay,2015,Head,162,Southampton,Leicester,2,2,2015-10-17 18:00:00,,None
+59066,22,SavedShot,0.9059999847412109,0.6079999923706054,0.013140968978404999,Shinji Okazaki,a,754,FromCorner,2015,Head,162,Southampton,Leicester,2,2,2015-10-17 18:00:00,Marc Albrighton,Aerial
+59067,22,BlockedShot,0.93,0.524000015258789,0.11548060923814774,Wes Morgan,a,748,FromCorner,2015,Head,162,Southampton,Leicester,2,2,2015-10-17 18:00:00,Marc Albrighton,Cross
+59071,37,MissedShots,0.769000015258789,0.3220000076293945,0.016037464141845703,Daniel Drinkwater,a,752,OpenPlay,2015,RightFoot,162,Southampton,Leicester,2,2,2015-10-17 18:00:00,,BallTouch
+59072,41,SavedShot,0.715,0.6980000305175781,0.008469652384519577,Daniel Drinkwater,a,752,OpenPlay,2015,RightFoot,162,Southampton,Leicester,2,2,2015-10-17 18:00:00,Jeffrey Schlupp,Pass
+59073,42,MissedShots,0.9209999847412109,0.40900001525878904,0.3363720178604126,Robert Huth,a,747,FromCorner,2015,RightFoot,162,Southampton,Leicester,2,2,2015-10-17 18:00:00,Shinji Okazaki,TakeOn
+59081,48,BlockedShot,0.8969999694824219,0.6179999923706054,0.049520719796419144,Jamie Vardy,a,755,OpenPlay,2015,RightFoot,162,Southampton,Leicester,2,2,2015-10-17 18:00:00,Danny Simpson,Cross
+59082,49,SavedShot,0.769000015258789,0.6680000305175782,0.01643250323832035,Jamie Vardy,a,755,OpenPlay,2015,RightFoot,162,Southampton,Leicester,2,2,2015-10-17 18:00:00,N&#039;Golo Kanté,TakeOn
+59083,49,BlockedShot,0.865,0.6370000076293946,0.04467679560184479,Jamie Vardy,a,755,OpenPlay,2015,RightFoot,162,Southampton,Leicester,2,2,2015-10-17 18:00:00,,None
+59086,52,MissedShots,0.8140000152587891,0.485,0.04523999243974686,Nathan Dyer,a,783,SetPiece,2015,RightFoot,162,Southampton,Leicester,2,2,2015-10-17 18:00:00,,None
+59087,53,BlockedShot,0.774000015258789,0.3290000152587891,0.01833939738571644,Riyad Mahrez,a,750,OpenPlay,2015,RightFoot,162,Southampton,Leicester,2,2,2015-10-17 18:00:00,Jamie Vardy,Pass
+59088,54,MissedShots,0.7040000152587891,0.4909999847412109,0.013111680746078491,Daniel Drinkwater,a,752,FromCorner,2015,RightFoot,162,Southampton,Leicester,2,2,2015-10-17 18:00:00,,None
+59089,60,BlockedShot,0.8519999694824218,0.555,0.05284520238637924,Nathan Dyer,a,783,OpenPlay,2015,RightFoot,162,Southampton,Leicester,2,2,2015-10-17 18:00:00,,None
+59090,60,MissedShots,0.8109999847412109,0.33799999237060546,0.015900231897830963,Riyad Mahrez,a,750,OpenPlay,2015,LeftFoot,162,Southampton,Leicester,2,2,2015-10-17 18:00:00,,Rebound
+59093,64,BlockedShot,0.7909999847412109,0.6930000305175781,0.06406117230653763,Marc Albrighton,a,753,DirectFreekick,2015,RightFoot,162,Southampton,Leicester,2,2,2015-10-17 18:00:00,,Standard
+59094,65,Goal,0.9330000305175781,0.47400001525878904,0.36959943175315857,Jamie Vardy,a,755,OpenPlay,2015,Head,162,Southampton,Leicester,2,2,2015-10-17 18:00:00,Nathan Dyer,Cross
+59096,66,MissedShots,0.914000015258789,0.2929999923706055,0.039703015238046646,Jamie Vardy,a,755,OpenPlay,2015,RightFoot,162,Southampton,Leicester,2,2,2015-10-17 18:00:00,Riyad Mahrez,Chipped
+59098,70,MissedShots,0.7709999847412109,0.3729999923706055,0.017602013424038887,Daniel Drinkwater,a,752,FromCorner,2015,RightFoot,162,Southampton,Leicester,2,2,2015-10-17 18:00:00,,None
+59100,80,BlockedShot,0.8630000305175781,0.3220000076293945,0.04146639257669449,Marc Albrighton,a,753,OpenPlay,2015,RightFoot,162,Southampton,Leicester,2,2,2015-10-17 18:00:00,,None
+59102,80,MissedShots,0.9030000305175782,0.5420000076293945,0.4264678359031677,Jamie Vardy,a,755,OpenPlay,2015,LeftFoot,162,Southampton,Leicester,2,2,2015-10-17 18:00:00,Riyad Mahrez,Pass
+59104,81,BlockedShot,0.795,0.38,0.018796561285853386,Marc Albrighton,a,753,OpenPlay,2015,RightFoot,162,Southampton,Leicester,2,2,2015-10-17 18:00:00,Nathan Dyer,TakeOn
+59108,87,SavedShot,0.9230000305175782,0.49900001525878906,0.052204784005880356,Jamie Vardy,a,755,OpenPlay,2015,Head,162,Southampton,Leicester,2,2,2015-10-17 18:00:00,Nathan Dyer,Aerial
+59111,90,SavedShot,0.8680000305175781,0.5629999923706055,0.032627206295728683,Robert Huth,a,747,SetPiece,2015,Head,162,Southampton,Leicester,2,2,2015-10-17 18:00:00,Marc Albrighton,Cross
+59112,90,Goal,0.8959999847412109,0.42700000762939455,0.4021027982234955,Jamie Vardy,a,755,OpenPlay,2015,RightFoot,162,Southampton,Leicester,2,2,2015-10-17 18:00:00,Riyad Mahrez,Throughball
+59114,93,MissedShots,0.8580000305175781,0.6120000076293945,0.05654626339673996,Robert Huth,a,747,SetPiece,2015,LeftFoot,162,Southampton,Leicester,2,2,2015-10-17 18:00:00,,None

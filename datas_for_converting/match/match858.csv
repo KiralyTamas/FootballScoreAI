@@ -1,0 +1,23 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+99027,6,BlockedShot,0.9330000305175781,0.5259999847412109,0.35899174213409424,Alejandro Gomez,h,1491,OpenPlay,2015,Head,858,Atalanta,AC Milan,2,1,2016-04-03 17:00:00,Mauricio Pinilla,Chipped
+99030,22,MissedShots,0.745999984741211,0.4520000076293945,0.016391946002840996,Luca Cigarini,h,1238,FromCorner,2015,RightFoot,858,Atalanta,AC Milan,2,1,2016-04-03 17:00:00,,None
+99033,41,BlockedShot,0.9280000305175782,0.4420000076293945,0.09112244099378586,Guglielmo Stendardo,h,1556,FromCorner,2015,Head,858,Atalanta,AC Milan,2,1,2016-04-03 17:00:00,Alessandro Diamanti,Cross
+99034,43,BlockedShot,0.9309999847412109,0.5259999847412109,0.09643040597438812,Alejandro Gomez,h,1491,OpenPlay,2015,LeftFoot,858,Atalanta,AC Milan,2,1,2016-04-03 17:00:00,,None
+99035,43,Goal,0.8819999694824219,0.555,0.08167930692434311,Mauricio Pinilla,h,1494,FromCorner,2015,RightFoot,858,Atalanta,AC Milan,2,1,2016-04-03 17:00:00,Andrea Masiello,HeadPass
+99036,53,MissedShots,0.8180000305175781,0.46700000762939453,0.06412363797426224,Jasmin Kurtic,h,1492,OpenPlay,2015,LeftFoot,858,Atalanta,AC Milan,2,1,2016-04-03 17:00:00,Mauricio Pinilla,Pass
+99037,61,Goal,0.8719999694824219,0.509000015258789,0.3891140818595886,Alejandro Gomez,h,1491,OpenPlay,2015,RightFoot,858,Atalanta,AC Milan,2,1,2016-04-03 17:00:00,Marten de Roon,Pass
+99040,73,BlockedShot,0.8769999694824219,0.6519999694824219,0.07513929158449173,Mauricio Pinilla,h,1494,OpenPlay,2015,RightFoot,858,Atalanta,AC Milan,2,1,2016-04-03 17:00:00,,None
+99043,78,SavedShot,0.825999984741211,0.6869999694824219,0.04245011508464813,Alessandro Diamanti,h,948,OpenPlay,2015,LeftFoot,858,Atalanta,AC Milan,2,1,2016-04-03 17:00:00,Mauricio Pinilla,Pass
+99046,94,SavedShot,0.9209999847412109,0.66,0.12548257410526276,Marco D&#039;Alessandro,h,1502,OpenPlay,2015,LeftFoot,858,Atalanta,AC Milan,2,1,2016-04-03 17:00:00,,TakeOn
+99025,2,BlockedShot,0.9230000305175782,0.5479999923706055,0.054100122302770615,Alessio Romagnoli,a,1119,OpenPlay,2015,Head,858,Atalanta,AC Milan,2,1,2016-04-03 17:00:00,Giacomo Bonaventura,Aerial
+99026,4,Goal,0.885,0.5,0.7612988352775574,Luiz Adriano,a,1127,Penalty,2015,RightFoot,858,Atalanta,AC Milan,2,1,2016-04-03 17:00:00,,Standard
+99028,9,MissedShots,0.9409999847412109,0.30200000762939455,0.06633420288562775,Mattia De Sciglio,a,1120,OpenPlay,2015,RightFoot,858,Atalanta,AC Milan,2,1,2016-04-03 17:00:00,Carlos Bacca,Pass
+99029,14,BlockedShot,0.73,0.58,0.02044943906366825,Luca Antonelli,a,1590,OpenPlay,2015,LeftFoot,858,Atalanta,AC Milan,2,1,2016-04-03 17:00:00,,None
+99031,24,MissedShots,0.7180000305175781,0.555,0.010157045908272266,Giacomo Bonaventura,a,1121,SetPiece,2015,RightFoot,858,Atalanta,AC Milan,2,1,2016-04-03 17:00:00,Riccardo Montolivo,Chipped
+99032,28,MissedShots,0.77,0.5529999923706055,0.037528812885284424,Andrea Bertolacci,a,1641,OpenPlay,2015,LeftFoot,858,Atalanta,AC Milan,2,1,2016-04-03 17:00:00,Riccardo Montolivo,Pass
+99038,66,SavedShot,0.8619999694824219,0.5529999923706055,0.07856450974941254,Jérémy Menez,a,2014,OpenPlay,2015,LeftFoot,858,Atalanta,AC Milan,2,1,2016-04-03 17:00:00,Mario Balotelli,Pass
+99039,71,MissedShots,0.9169999694824219,0.5179999923706055,0.31093528866767883,Carlos Bacca,a,1125,SetPiece,2015,Head,858,Atalanta,AC Milan,2,1,2016-04-03 17:00:00,Mario Balotelli,Chipped
+99041,74,SavedShot,0.7190000152587891,0.634000015258789,0.039651889353990555,Mario Balotelli,a,1817,DirectFreekick,2015,RightFoot,858,Atalanta,AC Milan,2,1,2016-04-03 17:00:00,,Standard
+99042,75,BlockedShot,0.805,0.58,0.013643546961247921,Jérémy Menez,a,2014,FromCorner,2015,RightFoot,858,Atalanta,AC Milan,2,1,2016-04-03 17:00:00,Carlos Bacca,HeadPass
+99044,80,BlockedShot,0.7930000305175782,0.43599998474121093,0.04478920251131058,Giacomo Bonaventura,a,1121,OpenPlay,2015,RightFoot,858,Atalanta,AC Milan,2,1,2016-04-03 17:00:00,Carlos Bacca,LayOff
+99045,84,MissedShots,0.894000015258789,0.49900001525878906,0.08666139096021652,Alessio Romagnoli,a,1119,SetPiece,2015,Head,858,Atalanta,AC Milan,2,1,2016-04-03 17:00:00,Mario Balotelli,Cross

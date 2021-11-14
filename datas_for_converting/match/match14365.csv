@@ -1,0 +1,27 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+391854,3,BlockedShot,0.68,0.4879999923706055,0.014009937644004822,Sébastien Thill,h,9013,OpenPlay,2020,LeftFoot,14365,FC Tambov,Rubin Kazan,0,1,2020-12-13 11:00:00,Vladimir Kabakhidze,Pass
+391858,13,BlockedShot,0.639000015258789,0.49700000762939456,0.0323004350066185,Sébastien Thill,h,9013,DirectFreekick,2020,Head,14365,FC Tambov,Rubin Kazan,0,1,2020-12-13 11:00:00,,Standard
+391859,15,SavedShot,0.825,0.629000015258789,0.04080309718847275,Aleksandre Karapetian,h,7658,OpenPlay,2020,LeftFoot,14365,FC Tambov,Rubin Kazan,0,1,2020-12-13 11:00:00,Sébastien Thill,Chipped
+391861,20,MissedShots,0.9259999847412109,0.500999984741211,0.05072631314396858,Aleksandre Karapetian,h,7658,OpenPlay,2020,Head,14365,FC Tambov,Rubin Kazan,0,1,2020-12-13 11:00:00,,Aerial
+391864,29,MissedShots,0.8909999847412109,0.5309999847412109,0.02851874940097332,Aleksandre Karapetian,h,7658,OpenPlay,2020,Head,14365,FC Tambov,Rubin Kazan,0,1,2020-12-13 11:00:00,Dmitrii Merenchukov,Aerial
+391865,33,MissedShots,0.7559999847412109,0.4329999923706055,0.021131150424480438,Vladimir Kabakhidze,h,8471,OpenPlay,2020,RightFoot,14365,FC Tambov,Rubin Kazan,0,1,2020-12-13 11:00:00,,None
+391878,87,MissedShots,0.8069999694824219,0.2879999923706055,0.01760191284120083,Nicholas Lawrence Anwan,h,9176,OpenPlay,2020,LeftFoot,14365,FC Tambov,Rubin Kazan,0,1,2020-12-13 11:00:00,Evgeni Shlyakov,Pass
+391853,0,MissedShots,0.865999984741211,0.38,0.09974545240402222,Khvicha Kvaratskhelia,a,7453,OpenPlay,2020,RightFoot,14365,FC Tambov,Rubin Kazan,0,1,2020-12-13 11:00:00,Djorde Despotovic,TakeOn
+391855,5,BlockedShot,0.764000015258789,0.27799999237060546,0.0167754627764225,Denis Makarov,a,8361,FromCorner,2020,RightFoot,14365,FC Tambov,Rubin Kazan,0,1,2020-12-13 11:00:00,Hwang In-Beom,Pass
+391856,9,MissedShots,0.76,0.49700000762939456,0.020001590251922607,Denis Makarov,a,8361,FromCorner,2020,LeftFoot,14365,FC Tambov,Rubin Kazan,0,1,2020-12-13 11:00:00,Darko Jevtic,Pass
+391857,12,SavedShot,0.9219999694824219,0.509000015258789,0.13627056777477264,Djorde Despotovic,a,7121,OpenPlay,2020,LeftFoot,14365,FC Tambov,Rubin Kazan,0,1,2020-12-13 11:00:00,Ilya Samoshnikov,Pass
+391860,19,Goal,0.9259999847412109,0.6619999694824219,0.30044111609458923,Ilya Samoshnikov,a,8362,OpenPlay,2020,RightFoot,14365,FC Tambov,Rubin Kazan,0,1,2020-12-13 11:00:00,Darko Jevtic,Throughball
+391862,21,BlockedShot,0.9169999694824219,0.66,0.09890227019786835,Khvicha Kvaratskhelia,a,7453,OpenPlay,2020,RightFoot,14365,FC Tambov,Rubin Kazan,0,1,2020-12-13 11:00:00,Darko Jevtic,Pass
+391863,27,BlockedShot,0.9009999847412109,0.43,0.13304203748703003,Denis Makarov,a,8361,OpenPlay,2020,LeftFoot,14365,FC Tambov,Rubin Kazan,0,1,2020-12-13 11:00:00,Darko Jevtic,Pass
+391866,36,BlockedShot,0.919000015258789,0.6419999694824219,0.06000998988747597,Khvicha Kvaratskhelia,a,7453,OpenPlay,2020,LeftFoot,14365,FC Tambov,Rubin Kazan,0,1,2020-12-13 11:00:00,Georgi Zotov,Cross
+391867,43,MissedShots,0.8819999694824219,0.6179999923706054,0.13381749391555786,Khvicha Kvaratskhelia,a,7453,OpenPlay,2020,RightFoot,14365,FC Tambov,Rubin Kazan,0,1,2020-12-13 11:00:00,Denis Makarov,Pass
+391868,47,MissedShots,0.764000015258789,0.49400001525878906,0.027988623827695847,Hwang In-Beom,a,8634,OpenPlay,2020,RightFoot,14365,FC Tambov,Rubin Kazan,0,1,2020-12-13 11:00:00,Djorde Despotovic,Pass
+391869,51,MissedShots,0.9390000152587891,0.6409999847412109,0.04450525715947151,Ilya Samoshnikov,a,8362,FromCorner,2020,RightFoot,14365,FC Tambov,Rubin Kazan,0,1,2020-12-13 11:00:00,Darko Jevtic,Cross
+391870,53,BlockedShot,0.8630000305175781,0.659000015258789,0.062364362180233,Khvicha Kvaratskhelia,a,7453,OpenPlay,2020,RightFoot,14365,FC Tambov,Rubin Kazan,0,1,2020-12-13 11:00:00,Denis Makarov,Pass
+391871,53,MissedShots,0.915,0.3840000152587891,0.09569372236728668,Djorde Despotovic,a,7121,OpenPlay,2020,LeftFoot,14365,FC Tambov,Rubin Kazan,0,1,2020-12-13 11:00:00,,Rebound
+391872,63,SavedShot,0.955999984741211,0.5570000076293945,0.5545739531517029,Djorde Despotovic,a,7121,OpenPlay,2020,LeftFoot,14365,FC Tambov,Rubin Kazan,0,1,2020-12-13 11:00:00,Oliver Abildgaard,HeadPass
+391873,64,MissedShots,0.7090000152587891,0.3110000038146973,0.008930887095630169,Denis Makarov,a,8361,OpenPlay,2020,LeftFoot,14365,FC Tambov,Rubin Kazan,0,1,2020-12-13 11:00:00,Darko Jevtic,Chipped
+391874,66,SavedShot,0.84,0.6120000076293945,0.10878010094165802,Denis Makarov,a,8361,OpenPlay,2020,LeftFoot,14365,FC Tambov,Rubin Kazan,0,1,2020-12-13 11:00:00,Hwang In-Beom,Pass
+391875,79,BlockedShot,0.8059999847412109,0.6959999847412109,0.03222709521651268,Aleksandr Zuev,a,2826,OpenPlay,2020,RightFoot,14365,FC Tambov,Rubin Kazan,0,1,2020-12-13 11:00:00,Hwang In-Beom,Pass
+391876,82,SavedShot,0.8819999694824219,0.35900001525878905,0.09304584562778473,Denis Makarov,a,8361,OpenPlay,2020,LeftFoot,14365,FC Tambov,Rubin Kazan,0,1,2020-12-13 11:00:00,Djorde Despotovic,Pass
+391877,85,MissedShots,0.755,0.4540000152587891,0.029870029538869858,Djorde Despotovic,a,7121,OpenPlay,2020,LeftFoot,14365,FC Tambov,Rubin Kazan,0,1,2020-12-13 11:00:00,Hwang In-Beom,Pass

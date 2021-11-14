@@ -1,0 +1,24 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+24415,5,BlockedShot,0.7340000152587891,0.47,0.015000740997493267,Roberto Firmino,h,482,OpenPlay,2014,RightFoot,5448,Hoffenheim,Augsburg,2,0,2014-08-23 14:30:00,,None
+24416,12,MissedShots,0.740999984741211,0.4640000152587891,0.011232679709792137,Kevin Volland,h,83,OpenPlay,2014,LeftFoot,5448,Hoffenheim,Augsburg,2,0,2014-08-23 14:30:00,,Aerial
+24417,17,MissedShots,0.91,0.4520000076293945,0.0988234356045723,Ádám Szalai,h,360,FromCorner,2014,LeftFoot,5448,Hoffenheim,Augsburg,2,0,2014-08-23 14:30:00,,None
+24419,29,MissedShots,0.815,0.5570000076293945,0.04581957310438156,Roberto Firmino,h,482,OpenPlay,2014,RightFoot,5448,Hoffenheim,Augsburg,2,0,2014-08-23 14:30:00,Niklas Süle,Pass
+24420,31,BlockedShot,0.7969999694824219,0.575,0.02798379771411419,Eugen Polanski,h,86,FromCorner,2014,LeftFoot,5448,Hoffenheim,Augsburg,2,0,2014-08-23 14:30:00,,None
+24421,32,SavedShot,0.9630000305175781,0.685,0.05930301174521446,Roberto Firmino,h,482,OpenPlay,2014,LeftFoot,5448,Hoffenheim,Augsburg,2,0,2014-08-23 14:30:00,Ádám Szalai,Pass
+24422,32,Goal,0.93,0.495,0.5666854381561279,Ádám Szalai,h,360,OpenPlay,2014,RightFoot,5448,Hoffenheim,Augsburg,2,0,2014-08-23 14:30:00,,Rebound
+24423,34,Goal,0.8969999694824219,0.51,0.5885300636291504,Tarik Elyounoussi,h,78,OpenPlay,2014,RightFoot,5448,Hoffenheim,Augsburg,2,0,2014-08-23 14:30:00,Roberto Firmino,Pass
+24426,46,MissedShots,0.7930000305175782,0.6759999847412109,0.04122311994433403,Jin-Su Kim,h,77,OpenPlay,2014,LeftFoot,5448,Hoffenheim,Augsburg,2,0,2014-08-23 14:30:00,Ádám Szalai,Pass
+24427,49,BlockedShot,0.779000015258789,0.305,0.060923781245946884,Sebastian Rudy,h,90,DirectFreekick,2014,RightFoot,5448,Hoffenheim,Augsburg,2,0,2014-08-23 14:30:00,,Standard
+24428,56,MissedShots,0.9,0.22700000762939454,0.0468120351433754,Kevin Volland,h,83,OpenPlay,2014,LeftFoot,5448,Hoffenheim,Augsburg,2,0,2014-08-23 14:30:00,Andreas Beck,Pass
+24413,2,MissedShots,0.71,0.46900001525878904,0.011677250266075134,Daniel Baier,a,268,OpenPlay,2014,RightFoot,5448,Hoffenheim,Augsburg,2,0,2014-08-23 14:30:00,,None
+24414,4,MissedShots,0.769000015258789,0.49900001525878906,0.020171532407402992,Daniel Baier,a,268,SetPiece,2014,LeftFoot,5448,Hoffenheim,Augsburg,2,0,2014-08-23 14:30:00,,None
+24418,23,MissedShots,0.825999984741211,0.33099998474121095,0.032447151839733124,Tim Matavz,a,275,OpenPlay,2014,RightFoot,5448,Hoffenheim,Augsburg,2,0,2014-08-23 14:30:00,Tobias Werner,Chipped
+24424,35,SavedShot,0.720999984741211,0.36,0.010908027179539204,Daniel Baier,a,268,OpenPlay,2014,RightFoot,5448,Hoffenheim,Augsburg,2,0,2014-08-23 14:30:00,Paul Verhaegh,Pass
+24425,40,MissedShots,0.725,0.6459999847412109,0.017929283902049065,Ragnar Klavan,a,265,SetPiece,2014,LeftFoot,5448,Hoffenheim,Augsburg,2,0,2014-08-23 14:30:00,Daniel Baier,Pass
+24429,60,BlockedShot,0.765,0.34200000762939453,0.018398037180304527,Markus Feulner,a,278,OpenPlay,2014,LeftFoot,5448,Hoffenheim,Augsburg,2,0,2014-08-23 14:30:00,,TakeOn
+24430,61,MissedShots,0.9309999847412109,0.575999984741211,0.037588030099868774,Tim Matavz,a,275,FromCorner,2014,Head,5448,Hoffenheim,Augsburg,2,0,2014-08-23 14:30:00,Paul Verhaegh,Aerial
+24431,63,BlockedShot,0.7480000305175781,0.524000015258789,0.017222508788108826,Markus Feulner,a,278,OpenPlay,2014,RightFoot,5448,Hoffenheim,Augsburg,2,0,2014-08-23 14:30:00,Halil Altintop,Pass
+24432,79,SavedShot,0.8919999694824219,0.5920000076293945,0.07225652039051056,Shawn Parker,a,2677,SetPiece,2014,RightFoot,5448,Hoffenheim,Augsburg,2,0,2014-08-23 14:30:00,,None
+24433,80,MissedShots,0.7959999847412109,0.6680000305175782,0.022300664335489273,Tobias Werner,a,397,OpenPlay,2014,LeftFoot,5448,Hoffenheim,Augsburg,2,0,2014-08-23 14:30:00,Shawn Parker,Pass
+24434,90,MissedShots,0.7219999694824218,0.3120000076293945,0.011003258638083935,Paul Verhaegh,a,264,OpenPlay,2014,RightFoot,5448,Hoffenheim,Augsburg,2,0,2014-08-23 14:30:00,Markus Feulner,Pass
+24435,91,MissedShots,0.700999984741211,0.5359999847412109,0.00887517724186182,Tobias Werner,a,397,OpenPlay,2014,RightFoot,5448,Hoffenheim,Augsburg,2,0,2014-08-23 14:30:00,,Aerial

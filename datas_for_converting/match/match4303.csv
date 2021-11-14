@@ -1,0 +1,27 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+122722,3,SavedShot,0.665,0.5270000076293946,0.010979222133755684,Mikhail Kostyukov,h,5385,OpenPlay,2016,RightFoot,4303,Amkar,Zenit St. Petersburg,1,0,2017-03-12 08:30:00,Pavel Komolov,Pass
+122726,9,MissedShots,0.7859999847412109,0.855999984741211,0.013994175009429455,Petar Zanev,h,2873,OpenPlay,2016,LeftFoot,4303,Amkar,Zenit St. Petersburg,1,0,2017-03-12 08:30:00,Pavel Komolov,Pass
+122730,32,Goal,0.8969999694824219,0.5359999847412109,0.359551340341568,Roland Gigolaev,h,2835,OpenPlay,2016,RightFoot,4303,Amkar,Zenit St. Petersburg,1,0,2017-03-12 08:30:00,Chuma Anene,HeadPass
+122734,43,SavedShot,0.87,0.415,0.36335355043411255,Pavel Komolov,h,2838,OpenPlay,2016,RightFoot,4303,Amkar,Zenit St. Petersburg,1,0,2017-03-12 08:30:00,Janusz Gol,Chipped
+122739,52,MissedShots,0.6840000152587891,0.485,0.013927709311246872,Roland Gigolaev,h,2835,OpenPlay,2016,LeftFoot,4303,Amkar,Zenit St. Petersburg,1,0,2017-03-12 08:30:00,Mikhail Kostyukov,BallRecovery
+122746,88,SavedShot,0.850999984741211,0.24899999618530275,0.032634396106004715,Branko Jovicic,h,3082,OpenPlay,2016,RightFoot,4303,Amkar,Zenit St. Petersburg,1,0,2017-03-12 08:30:00,David Khurtsidze,Pass
+122747,95,BlockedShot,0.8590000152587891,0.27,0.05642193183302879,David Khurtsidze,h,5474,OpenPlay,2016,RightFoot,4303,Amkar,Zenit St. Petersburg,1,0,2017-03-12 08:30:00,,TakeOn
+122723,3,BlockedShot,0.909000015258789,0.33299999237060546,0.08197320252656937,Artem Dzyuba,a,3063,OpenPlay,2016,RightFoot,4303,Amkar,Zenit St. Petersburg,1,0,2017-03-12 08:30:00,Giuliano,Pass
+122724,6,BlockedShot,0.9540000152587891,0.6,0.07370836287736893,Javi García,a,3061,SetPiece,2016,Head,4303,Amkar,Zenit St. Petersburg,1,0,2017-03-12 08:30:00,Oleg Shatov,Cross
+122725,7,MissedShots,0.754000015258789,0.34299999237060547,0.017936110496520996,Mauricio,a,3060,OpenPlay,2016,RightFoot,4303,Amkar,Zenit St. Petersburg,1,0,2017-03-12 08:30:00,Aleksandr Kokorin,Pass
+122727,14,SavedShot,0.975999984741211,0.40700000762939453,0.0722111389040947,Artem Dzyuba,a,3063,SetPiece,2016,Head,4303,Amkar,Zenit St. Petersburg,1,0,2017-03-12 08:30:00,Oleg Shatov,Cross
+122728,17,MissedShots,0.9269999694824219,0.5520000076293945,0.08783213049173355,Javi García,a,3061,FromCorner,2016,Head,4303,Amkar,Zenit St. Petersburg,1,0,2017-03-12 08:30:00,Oleg Shatov,Cross
+122729,20,BlockedShot,0.8980000305175782,0.26799999237060546,0.015945054590702057,Artem Dzyuba,a,3063,FromCorner,2016,RightFoot,4303,Amkar,Zenit St. Petersburg,1,0,2017-03-12 08:30:00,Oleg Shatov,Chipped
+122731,34,SavedShot,0.735999984741211,0.37900001525878907,0.04494870454072952,Mauricio,a,3060,DirectFreekick,2016,RightFoot,4303,Amkar,Zenit St. Petersburg,1,0,2017-03-12 08:30:00,,Standard
+122732,37,SavedShot,0.74,0.44299999237060544,0.01877446286380291,Giuliano,a,5467,OpenPlay,2016,RightFoot,4303,Amkar,Zenit St. Petersburg,1,0,2017-03-12 08:30:00,Luís Neto,Pass
+122733,40,SavedShot,0.705,0.610999984741211,0.03460507094860077,Oleg Shatov,a,3062,DirectFreekick,2016,RightFoot,4303,Amkar,Zenit St. Petersburg,1,0,2017-03-12 08:30:00,,Standard
+122735,48,BlockedShot,0.8690000152587891,0.6419999694824219,0.05045638605952263,Oleg Shatov,a,3062,OpenPlay,2016,RightFoot,4303,Amkar,Zenit St. Petersburg,1,0,2017-03-12 08:30:00,,None
+122736,48,BlockedShot,0.9219999694824219,0.57,0.1013622134923935,Giuliano,a,5467,OpenPlay,2016,LeftFoot,4303,Amkar,Zenit St. Petersburg,1,0,2017-03-12 08:30:00,,Rebound
+122737,49,BlockedShot,0.870999984741211,0.6759999847412109,0.0441213920712471,Yuri Zhirkov,a,3058,OpenPlay,2016,LeftFoot,4303,Amkar,Zenit St. Petersburg,1,0,2017-03-12 08:30:00,,None
+122738,49,MissedShots,0.6790000152587891,0.6370000076293946,0.011408725753426552,Domenico Criscito,a,3065,OpenPlay,2016,LeftFoot,4303,Amkar,Zenit St. Petersburg,1,0,2017-03-12 08:30:00,Luís Neto,Pass
+122740,55,SavedShot,0.73,0.36,0.015709497034549713,Mauricio,a,3060,FromCorner,2016,LeftFoot,4303,Amkar,Zenit St. Petersburg,1,0,2017-03-12 08:30:00,Giuliano,Pass
+122741,66,ShotOnPost,0.9019999694824219,0.42200000762939455,0.044897254556417465,Aleksandr Kokorin,a,3066,OpenPlay,2016,Head,4303,Amkar,Zenit St. Petersburg,1,0,2017-03-12 08:30:00,Alexander Anyukov,Cross
+122742,67,MissedShots,0.7680000305175781,0.519000015258789,0.028409624472260475,Yuri Zhirkov,a,3058,OpenPlay,2016,LeftFoot,4303,Amkar,Zenit St. Petersburg,1,0,2017-03-12 08:30:00,,None
+122743,73,MissedShots,0.870999984741211,0.5629999923706055,0.11319895088672638,Aleksandr Kokorin,a,3066,SetPiece,2016,LeftFoot,4303,Amkar,Zenit St. Petersburg,1,0,2017-03-12 08:30:00,Artem Dzyuba,LayOff
+122744,76,BlockedShot,0.8730000305175781,0.35700000762939454,0.05872588977217674,Alexander Anyukov,a,3077,OpenPlay,2016,LeftFoot,4303,Amkar,Zenit St. Petersburg,1,0,2017-03-12 08:30:00,Artem Dzyuba,LayOff
+122745,82,MissedShots,0.8330000305175781,0.43900001525878907,0.05499611422419548,Robert Mak,a,5468,OpenPlay,2016,RightFoot,4303,Amkar,Zenit St. Petersburg,1,0,2017-03-12 08:30:00,Alexander Anyukov,Pass

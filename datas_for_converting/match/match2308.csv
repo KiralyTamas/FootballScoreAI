@@ -1,0 +1,22 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+104522,2,MissedShots,0.7269999694824218,0.53,0.011350870132446289,Yoann Gourcuff,h,3229,SetPiece,2016,LeftFoot,2308,Rennes,Marseille,3,2,2016-09-21 23:00:00,,None
+104524,23,MissedShots,0.8180000305175781,0.6619999694824219,0.10115441679954529,Yoann Gourcuff,h,3229,DirectFreekick,2016,RightFoot,2308,Rennes,Marseille,3,2,2016-09-21 23:00:00,,Standard
+104527,40,Goal,0.7819999694824219,0.6759999847412109,0.022087976336479187,Giovanni Sio,h,3228,OpenPlay,2016,LeftFoot,2308,Rennes,Marseille,3,2,2016-09-21 23:00:00,,BallRecovery
+104529,46,ShotOnPost,0.9319999694824219,0.629000015258789,0.09933683276176453,Giovanni Sio,h,3228,OpenPlay,2016,LeftFoot,2308,Rennes,Marseille,3,2,2016-09-21 23:00:00,Paul-Georges Ntep,Pass
+104530,46,MissedShots,0.9030000305175782,0.37599998474121094,0.10291556268930435,Pedro Henrique,h,3225,OpenPlay,2016,RightFoot,2308,Rennes,Marseille,3,2,2016-09-21 23:00:00,Yoann Gourcuff,Pass
+104532,56,BlockedShot,0.7190000152587891,0.4909999847412109,0.0480230413377285,Paul-Georges Ntep,h,3230,DirectFreekick,2016,RightFoot,2308,Rennes,Marseille,3,2,2016-09-21 23:00:00,,Standard
+104533,60,MissedShots,0.9419999694824219,0.40200000762939453,0.13839690387248993,Giovanni Sio,h,3228,FromCorner,2016,Head,2308,Rennes,Marseille,3,2,2016-09-21 23:00:00,Pedro Henrique,Aerial
+104534,66,MissedShots,0.97,0.6759999847412109,0.04469676315784454,Kamil Grosicki,h,3231,OpenPlay,2016,RightFoot,2308,Rennes,Marseille,3,2,2016-09-21 23:00:00,Yoann Gourcuff,GoodSkill
+104535,67,MissedShots,0.6980000305175781,0.5029999923706054,0.014891653321683407,Mexer,h,3626,OpenPlay,2016,RightFoot,2308,Rennes,Marseille,3,2,2016-09-21 23:00:00,Ramy Bensebaini,Pass
+104537,79,SavedShot,0.965,0.34599998474121096,0.23780940473079681,Adrien Hunou,h,3795,OpenPlay,2016,RightFoot,2308,Rennes,Marseille,3,2,2016-09-21 23:00:00,Kamil Grosicki,Pass
+104538,80,SavedShot,0.7559999847412109,0.6469999694824219,0.013229887932538986,Yoann Gourcuff,h,3229,FromCorner,2016,RightFoot,2308,Rennes,Marseille,3,2,2016-09-21 23:00:00,,Aerial
+104540,85,Goal,0.885,0.5,0.7600951194763184,Kamil Grosicki,h,3231,Penalty,2016,RightFoot,2308,Rennes,Marseille,3,2,2016-09-21 23:00:00,,Standard
+104541,87,Goal,0.935,0.5109999847412109,0.4773167073726654,Adrien Hunou,h,3795,OpenPlay,2016,Head,2308,Rennes,Marseille,3,2,2016-09-21 23:00:00,Kamil Grosicki,Cross
+104523,15,BlockedShot,0.73,0.45099998474121095,0.01760176010429859,Zinedine Machach,a,3212,OpenPlay,2016,RightFoot,2308,Rennes,Marseille,3,2,2016-09-21 23:00:00,Clinton N&#039;Jie,Pass
+104525,27,BlockedShot,0.8419999694824218,0.33,0.04774286970496178,Florian Thauvin,a,942,OpenPlay,2016,LeftFoot,2308,Rennes,Marseille,3,2,2016-09-21 23:00:00,Franck Zambo,Pass
+104526,28,MissedShots,0.8059999847412109,0.42200000762939455,0.12709763646125793,Florian Thauvin,a,942,DirectFreekick,2016,LeftFoot,2308,Rennes,Marseille,3,2,2016-09-21 23:00:00,,Standard
+104528,43,Goal,0.885,0.5,0.7600951194763184,Bafétimbi Gomis,a,717,Penalty,2016,RightFoot,2308,Rennes,Marseille,3,2,2016-09-21 23:00:00,,Standard
+104531,49,Goal,0.865999984741211,0.47299999237060547,0.3735748827457428,Bafétimbi Gomis,a,717,OpenPlay,2016,RightFoot,2308,Rennes,Marseille,3,2,2016-09-21 23:00:00,Clinton N&#039;Jie,Pass
+104536,71,SavedShot,0.8419999694824218,0.575,0.08372698724269867,Clinton N&#039;Jie,a,960,OpenPlay,2016,RightFoot,2308,Rennes,Marseille,3,2,2016-09-21 23:00:00,Henri Bedimo,Pass
+104539,80,SavedShot,0.86,0.3029999923706055,0.05270129442214966,Bouna Sarr,a,3393,OpenPlay,2016,RightFoot,2308,Rennes,Marseille,3,2,2016-09-21 23:00:00,Rémy Cabella,Pass
+104542,91,BlockedShot,0.9219999694824219,0.36700000762939455,0.01896236650645733,Tomas Hubocan,a,3022,FromCorner,2016,Head,2308,Rennes,Marseille,3,2,2016-09-21 23:00:00,Bouna Sarr,Cross

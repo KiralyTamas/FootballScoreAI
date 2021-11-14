@@ -1,0 +1,30 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+392615,11,SavedShot,0.8569999694824219,0.6020000076293945,0.06962796300649643,Mateo Klimowicz,h,8809,OpenPlay,2020,LeftFoot,15244,VfB Stuttgart,Union Berlin,2,2,2020-12-15 19:30:00,Borna Sosa,Pass
+392616,12,SavedShot,0.9290000152587891,0.5820000076293945,0.06930685043334961,Konstantinos Mavropanos,h,6722,FromCorner,2020,Head,15244,VfB Stuttgart,Union Berlin,2,2,2020-12-15 19:30:00,Borna Sosa,Cross
+392617,15,MissedShots,0.925,0.4179999923706055,0.08463390916585922,Nicolás González,h,7074,OpenPlay,2020,LeftFoot,15244,VfB Stuttgart,Union Berlin,2,2,2020-12-15 19:30:00,Philipp Förster,Cross
+392618,19,BlockedShot,0.8390000152587891,0.3679999923706055,0.04424002766609192,Philipp Förster,h,9076,OpenPlay,2020,LeftFoot,15244,VfB Stuttgart,Union Berlin,2,2,2020-12-15 19:30:00,Silas Wamangituka,Pass
+392623,26,MissedShots,0.7780000305175782,0.610999984741211,0.024642234668135643,Nicolás González,h,7074,OpenPlay,2020,RightFoot,15244,VfB Stuttgart,Union Berlin,2,2,2020-12-15 19:30:00,Gonzalo Castro,Pass
+392625,29,MissedShots,0.8819999694824219,0.53,0.016466839239001274,Konstantinos Mavropanos,h,6722,SetPiece,2020,Head,15244,VfB Stuttgart,Union Berlin,2,2,2020-12-15 19:30:00,Gonzalo Castro,Aerial
+392630,47,ShotOnPost,0.919000015258789,0.5840000152587891,0.08861681818962097,Nicolás González,h,7074,OpenPlay,2020,LeftFoot,15244,VfB Stuttgart,Union Berlin,2,2,2020-12-15 19:30:00,Daniel Didavi,Chipped
+392631,47,MissedShots,0.865999984741211,0.3609999847412109,0.052077148109674454,Silas Wamangituka,h,8807,OpenPlay,2020,RightFoot,15244,VfB Stuttgart,Union Berlin,2,2,2020-12-15 19:30:00,,Rebound
+392632,50,MissedShots,0.9290000152587891,0.4929999923706055,0.609035074710846,Nicolás González,h,7074,OpenPlay,2020,Head,15244,VfB Stuttgart,Union Berlin,2,2,2020-12-15 19:30:00,Tanguy Coulibaly,Chipped
+392633,53,MissedShots,0.7809999847412109,0.5690000152587891,0.03309664875268936,Philipp Förster,h,9076,OpenPlay,2020,LeftFoot,15244,VfB Stuttgart,Union Berlin,2,2,2020-12-15 19:30:00,Gonzalo Castro,Pass
+392635,63,BlockedShot,0.8969999694824219,0.5459999847412109,0.40785372257232666,Gonzalo Castro,h,316,OpenPlay,2020,RightFoot,15244,VfB Stuttgart,Union Berlin,2,2,2020-12-15 19:30:00,Philipp Förster,Pass
+392636,63,SavedShot,0.9159999847412109,0.5259999847412109,0.48896440863609314,Gonzalo Castro,h,316,OpenPlay,2020,RightFoot,15244,VfB Stuttgart,Union Berlin,2,2,2020-12-15 19:30:00,,Rebound
+392639,84,Goal,0.9440000152587891,0.5790000152587891,0.09048625081777573,Sasa Kalajdzic,h,8812,FromCorner,2020,Head,15244,VfB Stuttgart,Union Berlin,2,2,2020-12-15 19:30:00,Philipp Klement,Cross
+392640,89,Goal,0.8780000305175781,0.46599998474121096,0.31096529960632324,Sasa Kalajdzic,h,8812,OpenPlay,2020,LeftFoot,15244,VfB Stuttgart,Union Berlin,2,2,2020-12-15 19:30:00,Daniel Didavi,Chipped
+392613,3,Goal,0.9159999847412109,0.6320000076293946,0.039836443960666656,Marvin Friedrich,a,370,SetPiece,2020,Head,15244,VfB Stuttgart,Union Berlin,2,2,2020-12-15 19:30:00,Christopher Trimmel,Chipped
+392614,6,MissedShots,0.9309999847412109,0.6809999847412109,0.03125399351119995,Marvin Friedrich,a,370,OpenPlay,2020,LeftFoot,15244,VfB Stuttgart,Union Berlin,2,2,2020-12-15 19:30:00,Sheraldo Becker,Cross
+392619,21,BlockedShot,0.8730000305175781,0.34599998474121096,0.11623028665781021,Taiwo Awoniyi,a,7814,OpenPlay,2020,LeftFoot,15244,VfB Stuttgart,Union Berlin,2,2,2020-12-15 19:30:00,Christopher Trimmel,BallRecovery
+392620,22,SavedShot,0.7609999847412109,0.40099998474121096,0.035462990403175354,Cedric Teuchert,a,6522,OpenPlay,2020,RightFoot,15244,VfB Stuttgart,Union Berlin,2,2,2020-12-15 19:30:00,Sheraldo Becker,BallRecovery
+392621,22,BlockedShot,0.9230000305175782,0.6859999847412109,0.06546936184167862,Sheraldo Becker,a,7882,OpenPlay,2020,RightFoot,15244,VfB Stuttgart,Union Berlin,2,2,2020-12-15 19:30:00,,Rebound
+392622,24,SavedShot,0.7230000305175781,0.649000015258789,0.022069083526730537,Sheraldo Becker,a,7882,OpenPlay,2020,RightFoot,15244,VfB Stuttgart,Union Berlin,2,2,2020-12-15 19:30:00,Christopher Lenz,Pass
+392624,27,MissedShots,0.875999984741211,0.6120000076293945,0.08934492617845535,Christopher Lenz,a,7876,OpenPlay,2020,LeftFoot,15244,VfB Stuttgart,Union Berlin,2,2,2020-12-15 19:30:00,,None
+392626,35,BlockedShot,0.705,0.38799999237060545,0.012937210500240326,Sebastian Griesbeck,a,8801,OpenPlay,2020,RightFoot,15244,VfB Stuttgart,Union Berlin,2,2,2020-12-15 19:30:00,,TakeOn
+392627,40,MissedShots,0.8669999694824219,0.5429999923706055,0.12804704904556274,Sheraldo Becker,a,7882,OpenPlay,2020,RightFoot,15244,VfB Stuttgart,Union Berlin,2,2,2020-12-15 19:30:00,,TakeOn
+392628,42,BlockedShot,0.884000015258789,0.40599998474121096,0.02442585676908493,Robin Knoche,a,161,OpenPlay,2020,Head,15244,VfB Stuttgart,Union Berlin,2,2,2020-12-15 19:30:00,Christopher Trimmel,Aerial
+392629,42,MissedShots,0.7769999694824219,0.40299999237060546,0.0426175631582737,Cedric Teuchert,a,6522,OpenPlay,2020,RightFoot,15244,VfB Stuttgart,Union Berlin,2,2,2020-12-15 19:30:00,Grischa Prömel,BallTouch
+392634,59,MissedShots,0.7469999694824219,0.649000015258789,0.014894316904246807,Niko Gießelmann,a,7056,FromCorner,2020,LeftFoot,15244,VfB Stuttgart,Union Berlin,2,2,2020-12-15 19:30:00,,None
+392637,76,Goal,0.9009999847412109,0.545,0.2667238116264343,Taiwo Awoniyi,a,7814,OpenPlay,2020,Head,15244,VfB Stuttgart,Union Berlin,2,2,2020-12-15 19:30:00,Christopher Lenz,Cross
+392638,80,MissedShots,0.87,0.57,0.00964439008384943,Marvin Friedrich,a,370,SetPiece,2020,Head,15244,VfB Stuttgart,Union Berlin,2,2,2020-12-15 19:30:00,Christopher Trimmel,Aerial
+392641,92,SavedShot,0.879000015258789,0.4809999847412109,0.11883067339658737,Akaki Gogia,a,7995,OpenPlay,2020,RightFoot,15244,VfB Stuttgart,Union Berlin,2,2,2020-12-15 19:30:00,Marius Bülter,Pass

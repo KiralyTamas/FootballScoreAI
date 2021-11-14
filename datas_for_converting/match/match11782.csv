@@ -1,0 +1,27 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+334490,8,MissedShots,0.785,0.36700000762939455,0.025356441736221313,Fred,h,6817,OpenPlay,2019,RightFoot,11782,Manchester United,Aston Villa,2,2,2019-12-01 16:30:00,,None
+334493,21,SavedShot,0.8919999694824219,0.3120000076293945,0.05068110302090645,Anthony Martial,h,553,OpenPlay,2019,RightFoot,11782,Manchester United,Aston Villa,2,2,2019-12-01 16:30:00,Fred,Pass
+334494,30,MissedShots,0.9069999694824219,0.5720000076293945,0.08053591102361679,Marcus Rashford,h,556,OpenPlay,2019,LeftFoot,11782,Manchester United,Aston Villa,2,2,2019-12-01 16:30:00,,None
+334496,41,ShotOnPost,0.955999984741211,0.524000015258789,0.4518415927886963,Marcus Rashford,h,556,FromCorner,2019,Head,11782,Manchester United,Aston Villa,2,2,2019-12-01 16:30:00,Andreas Pereira,Cross
+334500,49,BlockedShot,0.7759999847412109,0.44,0.030487339943647385,Anthony Martial,h,553,OpenPlay,2019,LeftFoot,11782,Manchester United,Aston Villa,2,2,2019-12-01 16:30:00,Andreas Pereira,Pass
+334501,51,MissedShots,0.7730000305175782,0.34700000762939454,0.01900021918118,Fred,h,6817,OpenPlay,2019,RightFoot,11782,Manchester United,Aston Villa,2,2,2019-12-01 16:30:00,Juan Mata,Pass
+334502,54,BlockedShot,0.8069999694824219,0.655,0.03280611336231232,Daniel James,h,5595,OpenPlay,2019,RightFoot,11782,Manchester United,Aston Villa,2,2,2019-12-01 16:30:00,Harry Maguire,Pass
+334503,57,SavedShot,0.9,0.3920000076293945,0.11581078171730042,Anthony Martial,h,553,OpenPlay,2019,LeftFoot,11782,Manchester United,Aston Villa,2,2,2019-12-01 16:30:00,,TakeOn
+334506,63,SavedShot,0.8730000305175781,0.3729999923706055,0.08318528532981873,Aaron Wan-Bissaka,h,5584,OpenPlay,2019,RightFoot,11782,Manchester United,Aston Villa,2,2,2019-12-01 16:30:00,Fred,Pass
+334507,63,Goal,0.98,0.5790000152587891,0.04739896208047867,Victor Lindelöf,h,6080,FromCorner,2019,Head,11782,Manchester United,Aston Villa,2,2,2019-12-01 16:30:00,,None
+334509,67,MissedShots,0.7719999694824219,0.4159999847412109,0.025441419333219528,Andreas Pereira,h,922,OpenPlay,2019,LeftFoot,11782,Manchester United,Aston Villa,2,2,2019-12-01 16:30:00,Aaron Wan-Bissaka,Pass
+334510,75,BlockedShot,0.8119999694824219,0.38,0.04335251450538635,Anthony Martial,h,553,OpenPlay,2019,LeftFoot,11782,Manchester United,Aston Villa,2,2,2019-12-01 16:30:00,Daniel James,Pass
+334511,77,MissedShots,0.9669999694824218,0.545,0.5664810538291931,Anthony Martial,h,553,OpenPlay,2019,LeftFoot,11782,Manchester United,Aston Villa,2,2,2019-12-01 16:30:00,,BallTouch
+334512,82,SavedShot,0.91,0.49599998474121093,0.06290695071220398,Fred,h,6817,OpenPlay,2019,Head,11782,Manchester United,Aston Villa,2,2,2019-12-01 16:30:00,Daniel James,Chipped
+334513,85,SavedShot,0.9890000152587891,0.33599998474121096,0.11329783499240875,Jesse Lingard,h,558,OpenPlay,2019,RightFoot,11782,Manchester United,Aston Villa,2,2,2019-12-01 16:30:00,Marcus Rashford,Throughball
+334515,92,MissedShots,0.924000015258789,0.5370000076293945,0.09945765882730484,Luke Shaw,h,1006,FromCorner,2019,Head,11782,Manchester United,Aston Villa,2,2,2019-12-01 16:30:00,Fred,Cross
+334491,10,SavedShot,0.779000015258789,0.669000015258789,0.019386934116482735,Wesley,a,7724,OpenPlay,2019,RightFoot,11782,Manchester United,Aston Villa,2,2,2019-12-01 16:30:00,Jack Grealish,Pass
+334492,10,Goal,0.8769999694824219,0.715,0.01950095407664776,Jack Grealish,a,675,OpenPlay,2019,RightFoot,11782,Manchester United,Aston Villa,2,2,2019-12-01 16:30:00,Anwar El Ghazi,Cross
+334495,36,BlockedShot,0.93,0.5379999923706055,0.09110650420188904,Wesley,a,7724,SetPiece,2019,RightFoot,11782,Manchester United,Aston Villa,2,2,2019-12-01 16:30:00,,None
+334497,41,OwnGoal,0.01,0.4929999923706055,0,Tom Heaton,a,1651,FromCorner,2019,OtherBodyPart,11782,Manchester United,Aston Villa,2,2,2019-12-01 16:30:00,,End
+334498,42,MissedShots,0.850999984741211,0.6669999694824219,0.022095486521720886,Jack Grealish,a,675,OpenPlay,2019,RightFoot,11782,Manchester United,Aston Villa,2,2,2019-12-01 16:30:00,Frederic Guilbert,Cross
+334499,43,ShotOnPost,0.8830000305175781,0.26399999618530273,0.03628608211874962,Trézéguet,a,7722,OpenPlay,2019,RightFoot,11782,Manchester United,Aston Villa,2,2,2019-12-01 16:30:00,John McGinn,Chipped
+334504,62,BlockedShot,0.8730000305175781,0.33599998474121096,0.06354283541440964,Trézéguet,a,7722,OpenPlay,2019,RightFoot,11782,Manchester United,Aston Villa,2,2,2019-12-01 16:30:00,John McGinn,Pass
+334505,62,MissedShots,0.9590000152587891,0.534000015258789,0.6617157459259033,Jack Grealish,a,675,OpenPlay,2019,LeftFoot,11782,Manchester United,Aston Villa,2,2,2019-12-01 16:30:00,,Rebound
+334508,65,Goal,0.8980000305175782,0.4570000076293945,0.40719276666641235,Tyrone Mings,a,1024,FromCorner,2019,LeftFoot,11782,Manchester United,Aston Villa,2,2,2019-12-01 16:30:00,Matt Targett,Throughball
+334514,90,MissedShots,0.755,0.3940000152587891,0.01823347806930542,Henri Lansbury,a,7727,FromCorner,2019,RightFoot,11782,Manchester United,Aston Villa,2,2,2019-12-01 16:30:00,John McGinn,BallTouch

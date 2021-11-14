@@ -1,0 +1,24 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+163554,0,SavedShot,0.7959999847412109,0.2620000076293945,0.01813388615846634,Bryan Pelé,h,4855,OpenPlay,2017,LeftFoot,8639,Troyes,Saint-Etienne,2,1,2017-10-01 14:00:00,Karim Azamoum,BallRecovery
+163556,8,MissedShots,0.925,0.5309999847412109,0.1082717552781105,Christophe Herelle,h,5998,FromCorner,2017,Head,8639,Troyes,Saint-Etienne,2,1,2017-10-01 14:00:00,Karim Azamoum,Cross
+163557,16,SavedShot,0.899000015258789,0.68,0.05758780613541603,Suk Hyun-Jun,h,6307,OpenPlay,2017,LeftFoot,8639,Troyes,Saint-Etienne,2,1,2017-10-01 14:00:00,Charles Traore,Pass
+163558,19,SavedShot,0.7559999847412109,0.22100000381469725,0.012416121549904346,Karim Azamoum,h,3440,OpenPlay,2017,RightFoot,8639,Troyes,Saint-Etienne,2,1,2017-10-01 14:00:00,,BallRecovery
+163563,37,MissedShots,0.75,0.3029999923706055,0.014696500264108181,Bryan Pelé,h,4855,OpenPlay,2017,LeftFoot,8639,Troyes,Saint-Etienne,2,1,2017-10-01 14:00:00,,BallRecovery
+163565,40,Goal,0.96,0.6120000076293945,0.3791612386703491,Bryan Pelé,h,4855,OpenPlay,2017,LeftFoot,8639,Troyes,Saint-Etienne,2,1,2017-10-01 14:00:00,Samuel Grandsir,Cross
+163566,43,SavedShot,0.6919999694824219,0.23899999618530274,0.008571246638894081,Saif-Eddine Khaoui,h,5737,OpenPlay,2017,LeftFoot,8639,Troyes,Saint-Etienne,2,1,2017-10-01 14:00:00,Bryan Pelé,Chipped
+163569,56,Goal,0.8180000305175781,0.46599998474121096,0.1672457754611969,Saif-Eddine Khaoui,h,5737,DirectFreekick,2017,LeftFoot,8639,Troyes,Saint-Etienne,2,1,2017-10-01 14:00:00,,Standard
+163572,68,SavedShot,0.8680000305175781,0.5129999923706055,0.040597688406705856,Adama Niane,h,4703,OpenPlay,2017,Head,8639,Troyes,Saint-Etienne,2,1,2017-10-01 14:00:00,Saif-Eddine Khaoui,Cross
+163555,3,MissedShots,0.740999984741211,0.47,0.017729222774505615,Ronael Pierre Gabriel,a,3517,OpenPlay,2017,RightFoot,8639,Troyes,Saint-Etienne,2,1,2017-10-01 14:00:00,,None
+163559,21,SavedShot,0.735,0.565,0.014727876521646976,Vincent Pajot,a,3507,OpenPlay,2017,LeftFoot,8639,Troyes,Saint-Etienne,2,1,2017-10-01 14:00:00,,None
+163560,22,MissedShots,0.9219999694824219,0.47,0.3187646269798279,Kévin Monnet-Paquet,a,3513,FromCorner,2017,Head,8639,Troyes,Saint-Etienne,2,1,2017-10-01 14:00:00,Hernani,Cross
+163561,25,MissedShots,0.799000015258789,0.3940000152587891,0.30259713530540466,Jonathan Bamba,a,3749,OpenPlay,2017,RightFoot,8639,Troyes,Saint-Etienne,2,1,2017-10-01 14:00:00,Rémy Cabella,BallRecovery
+163562,29,MissedShots,0.6830000305175781,0.720999984741211,0.026939278468489647,Hernani,a,5509,DirectFreekick,2017,RightFoot,8639,Troyes,Saint-Etienne,2,1,2017-10-01 14:00:00,,Standard
+163564,39,BlockedShot,0.710999984741211,0.46299999237060546,0.014781305566430092,Hernani,a,5509,OpenPlay,2017,RightFoot,8639,Troyes,Saint-Etienne,2,1,2017-10-01 14:00:00,Assane Diousse,Pass
+163567,48,MissedShots,0.9590000152587891,0.6,0.036124423146247864,Kévin Théophile-Catherine,a,3504,SetPiece,2017,Head,8639,Troyes,Saint-Etienne,2,1,2017-10-01 14:00:00,Hernani,Foul
+163568,52,Goal,0.8159999847412109,0.49400001525878906,0.05546433851122856,Hernani,a,5509,OpenPlay,2017,LeftFoot,8639,Troyes,Saint-Etienne,2,1,2017-10-01 14:00:00,Rémy Cabella,Pass
+163570,64,BlockedShot,0.784000015258789,0.6459999847412109,0.021485259756445885,Jonathan Bamba,a,3749,OpenPlay,2017,RightFoot,8639,Troyes,Saint-Etienne,2,1,2017-10-01 14:00:00,Rémy Cabella,Chipped
+163571,66,SavedShot,0.9069999694824219,0.47200000762939454,0.27659788727760315,Alexander Søderlund,a,3511,OpenPlay,2017,Head,8639,Troyes,Saint-Etienne,2,1,2017-10-01 14:00:00,Romain Hamouma,Cross
+163573,76,MissedShots,0.9,0.5540000152587891,0.08546405285596848,Romain Hamouma,a,3561,OpenPlay,2017,LeftFoot,8639,Troyes,Saint-Etienne,2,1,2017-10-01 14:00:00,Lois Diony,Cross
+163574,81,BlockedShot,0.950999984741211,0.385,0.024869831278920174,Lois Diony,a,5623,OpenPlay,2017,Head,8639,Troyes,Saint-Etienne,2,1,2017-10-01 14:00:00,Saidy Janko,Aerial
+163575,81,MissedShots,0.7780000305175782,0.6120000076293945,0.014884336851537228,Rémy Cabella,a,3390,FromCorner,2017,RightFoot,8639,Troyes,Saint-Etienne,2,1,2017-10-01 14:00:00,,Aerial
+163576,86,BlockedShot,0.9719999694824218,0.39,0.07358036935329437,Lois Diony,a,5623,SetPiece,2017,RightFoot,8639,Troyes,Saint-Etienne,2,1,2017-10-01 14:00:00,,None

@@ -1,0 +1,43 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+339744,0,MissedShots,0.8930000305175781,0.6179999923706054,0.5478144884109497,Miguel Almirón,h,7420,OpenPlay,2019,LeftFoot,11838,Newcastle United,Everton,1,2,2019-12-28 15:00:00,Joelinton,Throughball
+339745,4,SavedShot,0.8469999694824218,0.445,0.0928635224699974,Joelinton,h,87,OpenPlay,2019,RightFoot,11838,Newcastle United,Everton,1,2,2019-12-28 15:00:00,Isaac Hayden,Pass
+339755,17,SavedShot,0.8969999694824219,0.61,0.12527598440647125,Joelinton,h,87,OpenPlay,2019,LeftFoot,11838,Newcastle United,Everton,1,2,2019-12-28 15:00:00,Andy Carroll,TakeOn
+339756,26,MissedShots,0.6940000152587891,0.4329999923706055,0.00940929539501667,Jonjo Shelvey,h,769,OpenPlay,2019,RightFoot,11838,Newcastle United,Everton,1,2,2019-12-28 15:00:00,,Aerial
+339757,28,ShotOnPost,0.8959999847412109,0.5570000076293945,0.10871995240449905,Miguel Almirón,h,7420,OpenPlay,2019,LeftFoot,11838,Newcastle United,Everton,1,2,2019-12-28 15:00:00,Jetro Willems,Pass
+339758,30,MissedShots,0.79,0.5509999847412109,0.016541849821805954,Isaac Hayden,h,6062,FromCorner,2019,RightFoot,11838,Newcastle United,Everton,1,2,2019-12-28 15:00:00,,Aerial
+339759,31,BlockedShot,0.870999984741211,0.46099998474121096,0.09254195541143417,Andy Carroll,h,537,OpenPlay,2019,LeftFoot,11838,Newcastle United,Everton,1,2,2019-12-28 15:00:00,Jetro Willems,Pass
+339760,37,SavedShot,0.8540000152587891,0.3340000152587891,0.051249224692583084,Fabian Schär,h,76,OpenPlay,2019,RightFoot,11838,Newcastle United,Everton,1,2,2019-12-28 15:00:00,Florian Lejeune,Pass
+339761,37,BlockedShot,0.875999984741211,0.5429999923706055,0.013112420216202736,Andy Carroll,h,537,FromCorner,2019,Head,11838,Newcastle United,Everton,1,2,2019-12-28 15:00:00,Jonjo Shelvey,Aerial
+339762,42,BlockedShot,0.87,0.585,0.061834510415792465,Miguel Almirón,h,7420,OpenPlay,2019,LeftFoot,11838,Newcastle United,Everton,1,2,2019-12-28 15:00:00,Andy Carroll,BallTouch
+339763,42,MissedShots,0.8430000305175781,0.61,0.049206946045160294,Florian Lejeune,h,5073,OpenPlay,2019,RightFoot,11838,Newcastle United,Everton,1,2,2019-12-28 15:00:00,,None
+339764,43,MissedShots,0.8980000305175782,0.6659999847412109,0.10674001276493073,Miguel Almirón,h,7420,OpenPlay,2019,LeftFoot,11838,Newcastle United,Everton,1,2,2019-12-28 15:00:00,Joelinton,Chipped
+339772,55,Goal,0.935,0.485,0.10049512982368469,Fabian Schär,h,76,SetPiece,2019,RightFoot,11838,Newcastle United,Everton,1,2,2019-12-28 15:00:00,Andy Carroll,HeadPass
+339774,56,BlockedShot,0.86,0.6409999847412109,0.04439399018883705,Jetro Willems,h,6143,OpenPlay,2019,RightFoot,11838,Newcastle United,Everton,1,2,2019-12-28 15:00:00,Fabian Schär,TakeOn
+339775,57,MissedShots,0.7440000152587891,0.509000015258789,0.01367221213877201,Jetro Willems,h,6143,FromCorner,2019,RightFoot,11838,Newcastle United,Everton,1,2,2019-12-28 15:00:00,,Aerial
+339776,57,SavedShot,0.81,0.639000015258789,0.03237546235322952,Andy Carroll,h,537,OpenPlay,2019,LeftFoot,11838,Newcastle United,Everton,1,2,2019-12-28 15:00:00,Fabian Schär,Pass
+339779,70,BlockedShot,0.8859999847412109,0.664000015258789,0.05368852615356445,Andy Carroll,h,537,OpenPlay,2019,LeftFoot,11838,Newcastle United,Everton,1,2,2019-12-28 15:00:00,Jonjo Shelvey,HeadPass
+339780,72,MissedShots,0.904000015258789,0.4490000152587891,0.07180347293615341,Jonjo Shelvey,h,769,OpenPlay,2019,Head,11838,Newcastle United,Everton,1,2,2019-12-28 15:00:00,Jetro Willems,Cross
+339784,85,BlockedShot,0.8630000305175781,0.5509999847412109,0.021509751677513123,Andy Carroll,h,537,OpenPlay,2019,Head,11838,Newcastle United,Everton,1,2,2019-12-28 15:00:00,,Aerial
+339785,90,MissedShots,0.9080000305175782,0.6140000152587891,0.01885884255170822,Fabian Schär,h,76,OpenPlay,2019,Head,11838,Newcastle United,Everton,1,2,2019-12-28 15:00:00,DeAndre Yedlin,Aerial
+339746,10,BlockedShot,0.955999984741211,0.40700000762939453,0.07050621509552002,Moise Kean,a,1304,FromCorner,2019,Head,11838,Newcastle United,Everton,1,2,2019-12-28 15:00:00,Leighton Baines,Cross
+339747,10,SavedShot,0.8930000305175781,0.49700000762939456,0.08580493927001953,Mason Holgate,a,985,FromCorner,2019,RightFoot,11838,Newcastle United,Everton,1,2,2019-12-28 15:00:00,Richarlison,Pass
+339748,10,SavedShot,0.9619999694824218,0.6079999923706054,0.09526900202035904,Dominic Calvert-Lewin,a,5555,FromCorner,2019,LeftFoot,11838,Newcastle United,Everton,1,2,2019-12-28 15:00:00,,Rebound
+339749,10,MissedShots,0.9540000152587891,0.49700000762939456,0.08334402740001678,Michael Keane,a,1653,FromCorner,2019,Head,11838,Newcastle United,Everton,1,2,2019-12-28 15:00:00,Gylfi Sigurdsson,Aerial
+339750,11,MissedShots,0.8519999694824218,0.36900001525878906,0.020795030519366264,Theo Walcott,a,503,FromCorner,2019,RightFoot,11838,Newcastle United,Everton,1,2,2019-12-28 15:00:00,,Aerial
+339751,12,BlockedShot,0.7859999847412109,0.7040000152587891,0.058343250304460526,Gylfi Sigurdsson,a,714,DirectFreekick,2019,RightFoot,11838,Newcastle United,Everton,1,2,2019-12-28 15:00:00,,Standard
+339752,12,BlockedShot,0.789000015258789,0.68,0.015661094337701797,Gylfi Sigurdsson,a,714,SetPiece,2019,RightFoot,11838,Newcastle United,Everton,1,2,2019-12-28 15:00:00,,Rebound
+339753,12,Goal,0.9319999694824219,0.4420000076293945,0.5284039378166199,Dominic Calvert-Lewin,a,5555,SetPiece,2019,RightFoot,11838,Newcastle United,Everton,1,2,2019-12-28 15:00:00,,Rebound
+339754,15,MissedShots,0.8680000305175781,0.46799999237060547,0.1147303581237793,Theo Walcott,a,503,OpenPlay,2019,RightFoot,11838,Newcastle United,Everton,1,2,2019-12-28 15:00:00,Moise Kean,Pass
+339765,44,BlockedShot,0.759000015258789,0.585,0.028800729662179947,Richarlison,a,6026,OpenPlay,2019,RightFoot,11838,Newcastle United,Everton,1,2,2019-12-28 15:00:00,Dominic Calvert-Lewin,Pass
+339766,46,MissedShots,0.749000015258789,0.27100000381469724,0.019322440028190613,Djibril Sidibe,a,3357,OpenPlay,2019,RightFoot,11838,Newcastle United,Everton,1,2,2019-12-28 15:00:00,Gylfi Sigurdsson,Pass
+339767,48,SavedShot,0.8130000305175781,0.7630000305175781,0.023798584938049316,Richarlison,a,6026,OpenPlay,2019,RightFoot,11838,Newcastle United,Everton,1,2,2019-12-28 15:00:00,Dominic Calvert-Lewin,Pass
+339768,49,BlockedShot,0.9,0.455,0.0463881641626358,Dominic Calvert-Lewin,a,5555,OpenPlay,2019,Head,11838,Newcastle United,Everton,1,2,2019-12-28 15:00:00,Djibril Sidibe,Aerial
+339769,49,MissedShots,0.875,0.41200000762939454,0.034481391310691833,Moise Kean,a,1304,OpenPlay,2019,Head,11838,Newcastle United,Everton,1,2,2019-12-28 15:00:00,Djibril Sidibe,Cross
+339770,49,SavedShot,0.925,0.4329999923706055,0.4712498188018799,Moise Kean,a,1304,OpenPlay,2019,RightFoot,11838,Newcastle United,Everton,1,2,2019-12-28 15:00:00,Dominic Calvert-Lewin,BallTouch
+339771,50,SavedShot,0.9019999694824219,0.3320000076293945,0.125253826379776,Moise Kean,a,1304,OpenPlay,2019,RightFoot,11838,Newcastle United,Everton,1,2,2019-12-28 15:00:00,Michael Keane,BallRecovery
+339773,56,SavedShot,0.855,0.4209999847412109,0.07420811802148819,Moise Kean,a,1304,OpenPlay,2019,RightFoot,11838,Newcastle United,Everton,1,2,2019-12-28 15:00:00,Dominic Calvert-Lewin,BallTouch
+339777,59,SavedShot,0.9030000305175782,0.505,0.09335591644048691,Richarlison,a,6026,SetPiece,2019,LeftFoot,11838,Newcastle United,Everton,1,2,2019-12-28 15:00:00,Dominic Calvert-Lewin,HeadPass
+339778,63,Goal,0.9569999694824218,0.5179999923706055,0.7017195224761963,Dominic Calvert-Lewin,a,5555,OpenPlay,2019,LeftFoot,11838,Newcastle United,Everton,1,2,2019-12-28 15:00:00,Richarlison,Pass
+339781,77,BlockedShot,0.784000015258789,0.35400001525878905,0.03227245435118675,Djibril Sidibe,a,3357,OpenPlay,2019,LeftFoot,11838,Newcastle United,Everton,1,2,2019-12-28 15:00:00,Richarlison,Pass
+339782,82,MissedShots,0.88,0.5270000076293946,0.08388882875442505,Tom Davies,a,1042,FromCorner,2019,LeftFoot,11838,Newcastle United,Everton,1,2,2019-12-28 15:00:00,,None
+339783,82,MissedShots,0.9480000305175781,0.46900001525878904,0.07190120220184326,Yerry Mina,a,6521,FromCorner,2019,Head,11838,Newcastle United,Everton,1,2,2019-12-28 15:00:00,Tom Davies,Rebound

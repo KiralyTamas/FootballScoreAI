@@ -1,0 +1,28 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+421926,9,BlockedShot,0.7340000152587891,0.580999984741211,0.018202975392341614,Marco Richter,h,6357,OpenPlay,2020,RightFoot,15435,Augsburg,Werder Bremen,2,0,2021-05-15 13:30:00,Ruben Vargas,Pass
+421933,43,BlockedShot,0.7959999847412109,0.36900001525878906,0.030613776296377182,Florian Niederlechner,h,306,OpenPlay,2020,RightFoot,15435,Augsburg,Werder Bremen,2,0,2021-05-15 13:30:00,Marco Richter,Pass
+421934,45,SavedShot,0.9819999694824219,0.7469999694824219,0.03710714355111122,Marco Richter,h,6357,OpenPlay,2020,LeftFoot,15435,Augsburg,Werder Bremen,2,0,2021-05-15 13:30:00,,None
+421935,46,BlockedShot,0.955999984741211,0.6029999923706054,0.05470280721783638,André Hahn,h,412,FromCorner,2020,Head,15435,Augsburg,Werder Bremen,2,0,2021-05-15 13:30:00,Marco Richter,Cross
+421936,46,BlockedShot,0.9069999694824219,0.5,0.031511615961790085,Reece Oxford,h,543,FromCorner,2020,Head,15435,Augsburg,Werder Bremen,2,0,2021-05-15 13:30:00,Marco Richter,Aerial
+421937,52,MissedShots,0.785,0.6090000152587891,0.03056366555392742,Rani Khedira,h,5251,OpenPlay,2020,RightFoot,15435,Augsburg,Werder Bremen,2,0,2021-05-15 13:30:00,Florian Niederlechner,Pass
+421939,56,Goal,0.9059999847412109,0.4859999847412109,0.10114101320505142,Rani Khedira,h,5251,FromCorner,2020,LeftFoot,15435,Augsburg,Werder Bremen,2,0,2021-05-15 13:30:00,,None
+421942,68,MissedShots,0.905,0.549000015258789,0.3066992461681366,Florian Niederlechner,h,306,OpenPlay,2020,Head,15435,Augsburg,Werder Bremen,2,0,2021-05-15 13:30:00,André Hahn,Cross
+421945,77,SavedShot,0.8919999694824219,0.645,0.11400828510522842,Iago,h,8065,OpenPlay,2020,LeftFoot,15435,Augsburg,Werder Bremen,2,0,2021-05-15 13:30:00,André Hahn,Pass
+421946,77,BlockedShot,0.855,0.4329999923706055,0.13933098316192627,László Bénes,h,5258,OpenPlay,2020,LeftFoot,15435,Augsburg,Werder Bremen,2,0,2021-05-15 13:30:00,,Rebound
+421948,83,BlockedShot,0.7369999694824219,0.31799999237060544,0.009852108545601368,André Hahn,h,412,SetPiece,2020,RightFoot,15435,Augsburg,Werder Bremen,2,0,2021-05-15 13:30:00,,None
+421949,83,SavedShot,0.850999984741211,0.5820000076293945,0.09102176874876022,László Bénes,h,5258,OpenPlay,2020,LeftFoot,15435,Augsburg,Werder Bremen,2,0,2021-05-15 13:30:00,Daniel Caligiuri,Pass
+421950,89,Goal,0.885,0.5,0.75777667760849,Daniel Caligiuri,h,157,Penalty,2020,RightFoot,15435,Augsburg,Werder Bremen,2,0,2021-05-15 13:30:00,,Standard
+421925,7,MissedShots,0.8880000305175781,0.3820000076293945,0.07326914370059967,Niclas Füllkrug,a,6098,OpenPlay,2020,RightFoot,15435,Augsburg,Werder Bremen,2,0,2021-05-15 13:30:00,Joshua Sargent,HeadPass
+421927,20,BlockedShot,0.915,0.5990000152587891,0.08569646626710892,Joshua Sargent,a,7295,OpenPlay,2020,RightFoot,15435,Augsburg,Werder Bremen,2,0,2021-05-15 13:30:00,,None
+421928,20,MissedShots,0.850999984741211,0.425,0.013239000923931599,Davie Selke,a,4280,FromCorner,2020,Head,15435,Augsburg,Werder Bremen,2,0,2021-05-15 13:30:00,Ludwig Augustinsson,Cross
+421929,27,BlockedShot,0.8390000152587891,0.500999984741211,0.06637758016586304,Joshua Sargent,a,7295,OpenPlay,2020,RightFoot,15435,Augsburg,Werder Bremen,2,0,2021-05-15 13:30:00,,None
+421930,29,SavedShot,0.7569999694824219,0.575,0.020171232521533966,Christian Groß,a,7815,OpenPlay,2020,RightFoot,15435,Augsburg,Werder Bremen,2,0,2021-05-15 13:30:00,,None
+421931,34,SavedShot,0.8780000305175781,0.4640000152587891,0.034052323549985886,Davie Selke,a,4280,FromCorner,2020,Head,15435,Augsburg,Werder Bremen,2,0,2021-05-15 13:30:00,Ludwig Augustinsson,Cross
+421932,35,MissedShots,0.9330000305175781,0.4929999923706055,0.0929689034819603,Niclas Füllkrug,a,6098,OpenPlay,2020,Head,15435,Augsburg,Werder Bremen,2,0,2021-05-15 13:30:00,Theodor Gebre Selassie,Aerial
+421938,53,MissedShots,0.7680000305175781,0.345,0.01164182648062706,Ömer Toprak,a,184,OpenPlay,2020,RightFoot,15435,Augsburg,Werder Bremen,2,0,2021-05-15 13:30:00,,Aerial
+421940,58,BlockedShot,0.7959999847412109,0.6780000305175782,0.019183745607733727,Ludwig Augustinsson,a,6083,FromCorner,2020,LeftFoot,15435,Augsburg,Werder Bremen,2,0,2021-05-15 13:30:00,,None
+421941,66,SavedShot,0.9009999847412109,0.41,0.06996598839759827,Niclas Füllkrug,a,6098,OpenPlay,2020,RightFoot,15435,Augsburg,Werder Bremen,2,0,2021-05-15 13:30:00,Theodor Gebre Selassie,Cross
+421943,69,MissedShots,0.8919999694824219,0.509000015258789,0.02844882383942604,Joshua Sargent,a,7295,OpenPlay,2020,Head,15435,Augsburg,Werder Bremen,2,0,2021-05-15 13:30:00,Theodor Gebre Selassie,Aerial
+421944,71,ShotOnPost,0.77,0.4540000152587891,0.025949202477931976,Leonardo Bittencourt,a,262,OpenPlay,2020,RightFoot,15435,Augsburg,Werder Bremen,2,0,2021-05-15 13:30:00,Joshua Sargent,Pass
+421947,80,SavedShot,0.9080000305175782,0.629000015258789,0.03247220814228058,Niclas Füllkrug,a,6098,SetPiece,2020,Head,15435,Augsburg,Werder Bremen,2,0,2021-05-15 13:30:00,Ludwig Augustinsson,Cross
+421951,93,MissedShots,0.7809999847412109,0.45799999237060546,0.02920421212911606,Milot Rashica,a,6523,SetPiece,2020,RightFoot,15435,Augsburg,Werder Bremen,2,0,2021-05-15 13:30:00,Patrick Erras,BallTouch

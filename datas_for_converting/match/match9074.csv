@@ -1,0 +1,24 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+263244,5,MissedShots,0.96,0.6079999923706054,0.12247350066900253,Pavel Yakovlev,h,2995,OpenPlay,2018,RightFoot,9074,Krylya Sovetov Samara,FC Rostov,1,0,2018-12-08 09:30:00,Sergei Kornilenko,Pass
+263246,10,Goal,0.885,0.5,0.7542753219604492,Paul Anton,h,6575,Penalty,2018,RightFoot,9074,Krylya Sovetov Samara,FC Rostov,1,0,2018-12-08 09:30:00,,Standard
+263247,18,MissedShots,0.754000015258789,0.7419999694824219,0.014888289384543896,Denis Tkachuk,h,2979,OpenPlay,2018,LeftFoot,9074,Krylya Sovetov Samara,FC Rostov,1,0,2018-12-08 09:30:00,,None
+263248,21,BlockedShot,0.745999984741211,0.26799999237060546,0.014545192942023277,Paul Anton,h,6575,OpenPlay,2018,RightFoot,9074,Krylya Sovetov Samara,FC Rostov,1,0,2018-12-08 09:30:00,,None
+263251,38,BlockedShot,0.795,0.720999984741211,0.0271914005279541,Denis Tkachuk,h,2979,OpenPlay,2018,LeftFoot,9074,Krylya Sovetov Samara,FC Rostov,1,0,2018-12-08 09:30:00,Pavel Yakovlev,Pass
+263261,71,SavedShot,0.8640000152587891,0.7330000305175781,0.03513721004128456,Georgi Zotov,h,2725,OpenPlay,2018,RightFoot,9074,Krylya Sovetov Samara,FC Rostov,1,0,2018-12-08 09:30:00,Denis Tkachuk,Chipped
+263264,90,SavedShot,0.9019999694824219,0.6309999847412109,0.31719446182250977,Georgi Zotov,h,2725,OpenPlay,2018,LeftFoot,9074,Krylya Sovetov Samara,FC Rostov,1,0,2018-12-08 09:30:00,Nikita Chicherin,Pass
+263265,90,MissedShots,0.7290000152587891,0.5979999923706054,0.01572885923087597,Miral Samardzic,h,6268,OpenPlay,2018,RightFoot,9074,Krylya Sovetov Samara,FC Rostov,1,0,2018-12-08 09:30:00,Georgi Zotov,Pass
+263245,8,SavedShot,0.86,0.5479999923706055,0.08208921551704407,Eldor Shomurodov,a,5954,OpenPlay,2018,RightFoot,9074,Krylya Sovetov Samara,FC Rostov,1,0,2018-12-08 09:30:00,,BallRecovery
+263249,22,BlockedShot,0.8540000152587891,0.4279999923706055,0.061337243765592575,Artur Yusupov,a,3067,OpenPlay,2018,RightFoot,9074,Krylya Sovetov Samara,FC Rostov,1,0,2018-12-08 09:30:00,Eldor Shomurodov,Pass
+263250,38,SavedShot,0.93,0.47,0.12235604971647263,Eldor Shomurodov,a,5954,FromCorner,2018,RightFoot,9074,Krylya Sovetov Samara,FC Rostov,1,0,2018-12-08 09:30:00,,None
+263252,47,MissedShots,0.87,0.5829999923706055,0.022254012525081635,Eldor Shomurodov,a,5954,OpenPlay,2018,Head,9074,Krylya Sovetov Samara,FC Rostov,1,0,2018-12-08 09:30:00,Aleksandr Zuev,Cross
+263253,50,MissedShots,0.8830000305175781,0.5779999923706055,0.07757731527090073,Björn Sigurdarson,a,6599,OpenPlay,2018,LeftFoot,9074,Krylya Sovetov Samara,FC Rostov,1,0,2018-12-08 09:30:00,Dmitrii Skopintcev,Cross
+263254,52,MissedShots,0.9,0.67,0.009970994666218758,Sverrir Ingi Ingason,a,5104,FromCorner,2018,Head,9074,Krylya Sovetov Samara,FC Rostov,1,0,2018-12-08 09:30:00,Aleksandr Zuev,Cross
+263255,55,MissedShots,0.7419999694824219,0.5129999923706055,0.020125076174736023,Aleksandr Zuev,a,2826,OpenPlay,2018,RightFoot,9074,Krylya Sovetov Samara,FC Rostov,1,0,2018-12-08 09:30:00,Artur Yusupov,Pass
+263256,58,SavedShot,0.9059999847412109,0.534000015258789,0.08613930642604828,Björn Sigurdarson,a,6599,OpenPlay,2018,RightFoot,9074,Krylya Sovetov Samara,FC Rostov,1,0,2018-12-08 09:30:00,,Dispossessed
+263257,59,SavedShot,0.895,0.425,0.04636981710791588,Björn Sigurdarson,a,6599,OpenPlay,2018,Head,9074,Krylya Sovetov Samara,FC Rostov,1,0,2018-12-08 09:30:00,Dmitrii Skopintcev,Cross
+263258,65,BlockedShot,0.8230000305175781,0.6759999847412109,0.023836100473999977,Artur Yusupov,a,3067,OpenPlay,2018,RightFoot,9074,Krylya Sovetov Samara,FC Rostov,1,0,2018-12-08 09:30:00,Dmitrii Skopintcev,Pass
+263259,66,SavedShot,0.9490000152587891,0.47400001525878904,0.09121285378932953,Björn Sigurdarson,a,6599,OpenPlay,2018,RightFoot,9074,Krylya Sovetov Samara,FC Rostov,1,0,2018-12-08 09:30:00,,Aerial
+263260,68,BlockedShot,0.7340000152587891,0.34900001525878904,0.013102809898555279,Sverrir Ingi Ingason,a,5104,OpenPlay,2018,RightFoot,9074,Krylya Sovetov Samara,FC Rostov,1,0,2018-12-08 09:30:00,,Dispossessed
+263262,77,MissedShots,0.895,0.580999984741211,0.018969643861055374,Eldor Shomurodov,a,5954,OpenPlay,2018,Head,9074,Krylya Sovetov Samara,FC Rostov,1,0,2018-12-08 09:30:00,Sverrir Ingi Ingason,Aerial
+263263,88,MissedShots,0.91,0.44599998474121094,0.03208367899060249,Eldor Shomurodov,a,5954,OpenPlay,2018,Head,9074,Krylya Sovetov Samara,FC Rostov,1,0,2018-12-08 09:30:00,Sergey Parshivlyuk,Aerial
+263266,91,MissedShots,0.7909999847412109,0.669000015258789,0.02619532123208046,Aleksandr Zuev,a,2826,OpenPlay,2018,RightFoot,9074,Krylya Sovetov Samara,FC Rostov,1,0,2018-12-08 09:30:00,Björn Sigurdarson,Pass

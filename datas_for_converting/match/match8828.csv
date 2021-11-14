@@ -1,0 +1,26 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+198103,9,Goal,0.8719999694824219,0.3729999923706055,0.0635642558336258,Kylian Mbappe-Lottin,h,3423,OpenPlay,2017,LeftFoot,8828,Paris Saint Germain,Marseille,3,0,2018-02-25 20:00:00,,None
+198104,14,MissedShots,0.9,0.5420000076293945,0.048599161207675934,Neymar,h,2099,OpenPlay,2017,Head,8828,Paris Saint Germain,Marseille,3,0,2018-02-25 20:00:00,Dani Alves,Aerial
+198106,25,BlockedShot,0.8090000152587891,0.52,0.0870065689086914,Giovani Lo Celso,h,5681,OpenPlay,2017,LeftFoot,8828,Paris Saint Germain,Marseille,3,0,2018-02-25 20:00:00,,TakeOn
+198107,26,MissedShots,0.9230000305175782,0.580999984741211,0.4355926513671875,Neymar,h,2099,OpenPlay,2017,RightFoot,8828,Paris Saint Germain,Marseille,3,0,2018-02-25 20:00:00,Adrien Rabiot,Pass
+198109,36,MissedShots,0.7169999694824218,0.5179999923706055,0.01588408462703228,Neymar,h,2099,OpenPlay,2017,RightFoot,8828,Paris Saint Germain,Marseille,3,0,2018-02-25 20:00:00,,None
+198115,54,Goal,0.9259999847412109,0.6,0.12363500893115997,Edinson Cavani,h,3294,OpenPlay,2017,RightFoot,8828,Paris Saint Germain,Marseille,3,0,2018-02-25 20:00:00,Neymar,Cross
+198119,66,BlockedShot,0.7680000305175781,0.305,0.028950273990631104,Ángel Di María,h,3553,OpenPlay,2017,LeftFoot,8828,Paris Saint Germain,Marseille,3,0,2018-02-25 20:00:00,Thiago Motta,Pass
+198122,88,MissedShots,0.85,0.515,0.12101121246814728,Ángel Di María,h,3553,OpenPlay,2017,LeftFoot,8828,Paris Saint Germain,Marseille,3,0,2018-02-25 20:00:00,Julian Draxler,Pass
+198125,92,BlockedShot,0.8030000305175782,0.49,0.04692593589425087,Julian Draxler,h,152,OpenPlay,2017,RightFoot,8828,Paris Saint Germain,Marseille,3,0,2018-02-25 20:00:00,,None
+198101,2,SavedShot,0.88,0.5709999847412109,0.0311567559838295,Florian Thauvin,a,942,OpenPlay,2017,Head,8828,Paris Saint Germain,Marseille,3,0,2018-02-25 20:00:00,Jordan Amavi,Cross
+198102,7,BlockedShot,0.7269999694824218,0.5120000076293946,0.01404360681772232,Luiz Gustavo,a,387,OpenPlay,2017,LeftFoot,8828,Paris Saint Germain,Marseille,3,0,2018-02-25 20:00:00,,None
+198105,23,BlockedShot,0.710999984741211,0.3320000076293945,0.013586095534265041,Florian Thauvin,a,942,OpenPlay,2017,LeftFoot,8828,Paris Saint Germain,Marseille,3,0,2018-02-25 20:00:00,Hiroki Sakai,Pass
+198108,26,OwnGoal,0.029000000953674318,0.4909999847412109,0,Rolando,a,3397,OpenPlay,2017,RightFoot,8828,Paris Saint Germain,Marseille,3,0,2018-02-25 20:00:00,,None
+198110,38,MissedShots,0.889000015258789,0.41900001525878905,0.04152987524867058,Franck Zambo,a,6434,SetPiece,2017,Head,8828,Paris Saint Germain,Marseille,3,0,2018-02-25 20:00:00,Dimitri Payet,Cross
+198111,39,MissedShots,0.730999984741211,0.5579999923706055,0.01499379426240921,Jordan Amavi,a,961,FromCorner,2017,RightFoot,8828,Paris Saint Germain,Marseille,3,0,2018-02-25 20:00:00,,None
+198112,43,SavedShot,0.905,0.485,0.04696712642908096,Franck Zambo,a,6434,SetPiece,2017,Head,8828,Paris Saint Germain,Marseille,3,0,2018-02-25 20:00:00,Adil Rami,Aerial
+198113,44,MissedShots,0.7430000305175781,0.4329999923706055,0.016031265258789062,Dimitri Payet,a,536,OpenPlay,2017,LeftFoot,8828,Paris Saint Germain,Marseille,3,0,2018-02-25 20:00:00,Florian Thauvin,Pass
+198114,46,BlockedShot,0.850999984741211,0.3270000076293945,0.04382052272558212,Florian Thauvin,a,942,OpenPlay,2017,LeftFoot,8828,Paris Saint Germain,Marseille,3,0,2018-02-25 20:00:00,,BallRecovery
+198116,57,MissedShots,0.855,0.33,0.03273560106754303,Luiz Gustavo,a,387,SetPiece,2017,LeftFoot,8828,Paris Saint Germain,Marseille,3,0,2018-02-25 20:00:00,Rolando,HeadPass
+198117,62,SavedShot,0.895,0.52,0.03131640702486038,Rolando,a,3397,SetPiece,2017,Head,8828,Paris Saint Germain,Marseille,3,0,2018-02-25 20:00:00,Dimitri Payet,Aerial
+198118,62,BlockedShot,0.7430000305175781,0.504000015258789,0.016636131331324577,Morgan Sanson,a,3696,FromCorner,2017,RightFoot,8828,Paris Saint Germain,Marseille,3,0,2018-02-25 20:00:00,,None
+198120,80,BlockedShot,0.9719999694824218,0.6120000076293945,0.5575668215751648,Clinton N&#039;Jie,a,960,OpenPlay,2017,LeftFoot,8828,Paris Saint Germain,Marseille,3,0,2018-02-25 20:00:00,Dimitri Payet,TakeOn
+198121,82,BlockedShot,0.779000015258789,0.2610000038146973,0.009297659620642662,Bouna Sarr,a,3393,SetPiece,2017,RightFoot,8828,Paris Saint Germain,Marseille,3,0,2018-02-25 20:00:00,,Aerial
+198123,90,SavedShot,0.955999984741211,0.31,0.10522042959928513,Florian Thauvin,a,942,OpenPlay,2017,LeftFoot,8828,Paris Saint Germain,Marseille,3,0,2018-02-25 20:00:00,Franck Zambo,TakeOn
+198124,90,SavedShot,0.750999984741211,0.4909999847412109,0.015637142583727837,Luiz Gustavo,a,387,OpenPlay,2017,LeftFoot,8828,Paris Saint Germain,Marseille,3,0,2018-02-25 20:00:00,,None

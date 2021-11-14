@@ -1,0 +1,32 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+203774,1,MissedShots,0.825999984741211,0.72,0.017185015603899956,Petar Zanev,h,2873,OpenPlay,2017,LeftFoot,6654,Amkar,Lokomotiv Moscow,2,1,2018-03-31 00:00:00,Aleksandar Miljkovic,Cross
+203775,13,SavedShot,0.784000015258789,0.295,0.019343962892889977,Aleksandar Miljkovic,h,5381,OpenPlay,2017,RightFoot,6654,Amkar,Lokomotiv Moscow,2,1,2018-03-31 00:00:00,Aleksandr Ryazantsev,Pass
+203778,16,MissedShots,0.8909999847412109,0.6270000076293946,0.06039871647953987,Aaron Samuel,h,2885,OpenPlay,2017,LeftFoot,6654,Amkar,Lokomotiv Moscow,2,1,2018-03-31 00:00:00,Aleksandr Ryazantsev,Pass
+203779,23,SavedShot,0.750999984741211,0.5270000076293946,0.02188645303249359,Michael Gaschenkov,h,5935,OpenPlay,2017,RightFoot,6654,Amkar,Lokomotiv Moscow,2,1,2018-03-31 00:00:00,,None
+203782,34,MissedShots,0.9230000305175782,0.545,0.04239172860980034,Aaron Samuel,h,2885,OpenPlay,2017,Head,6654,Amkar,Lokomotiv Moscow,2,1,2018-03-31 00:00:00,Aleksandr Ryazantsev,Aerial
+203783,38,MissedShots,0.865,0.4520000076293945,0.015051662921905518,Brian Idowu,h,2832,FromCorner,2017,Head,6654,Amkar,Lokomotiv Moscow,2,1,2018-03-31 00:00:00,Aleksandr Ryazantsev,Cross
+203784,47,Goal,0.885,0.5,0.7542738318443298,Aaron Samuel,h,2885,Penalty,2017,LeftFoot,6654,Amkar,Lokomotiv Moscow,2,1,2018-03-31 00:00:00,,Standard
+203785,50,MissedShots,0.915,0.595999984741211,0.0900014340877533,Pavel Komolov,h,2838,OpenPlay,2017,LeftFoot,6654,Amkar,Lokomotiv Moscow,2,1,2018-03-31 00:00:00,Aaron Samuel,Cross
+203787,58,Goal,0.9819999694824219,0.56,0.5805535912513733,Aaron Samuel,h,2885,OpenPlay,2017,LeftFoot,6654,Amkar,Lokomotiv Moscow,2,1,2018-03-31 00:00:00,Petar Zanev,Cross
+203788,59,SavedShot,0.8119999694824219,0.759000015258789,0.023409342393279076,Aaron Samuel,h,2885,OpenPlay,2017,LeftFoot,6654,Amkar,Lokomotiv Moscow,2,1,2018-03-31 00:00:00,,Goal
+203792,63,MissedShots,0.875999984741211,0.7469999694824219,0.043246615678071976,Michael Gaschenkov,h,5935,OpenPlay,2017,LeftFoot,6654,Amkar,Lokomotiv Moscow,2,1,2018-03-31 00:00:00,Aaron Samuel,None
+203794,66,MissedShots,0.49700000762939456,0.33,0.008892456069588661,Janusz Gol,h,2837,OpenPlay,2017,RightFoot,6654,Amkar,Lokomotiv Moscow,2,1,2018-03-31 00:00:00,,Aerial
+203798,79,BlockedShot,0.8430000305175781,0.5359999847412109,0.010543584823608398,Saeid Ezatolahi,h,2777,FromCorner,2017,Head,6654,Amkar,Lokomotiv Moscow,2,1,2018-03-31 00:00:00,Aleksandr Ryazantsev,Cross
+203802,86,MissedShots,0.7819999694824219,0.4179999923706055,0.012398059479892254,Aleksandar Miljkovic,h,5381,SetPiece,2017,RightFoot,6654,Amkar,Lokomotiv Moscow,2,1,2018-03-31 00:00:00,,Aerial
+203803,92,ShotOnPost,0.8590000152587891,0.27899999618530275,0.04019443690776825,Aleksandar Miljkovic,h,5381,OpenPlay,2017,RightFoot,6654,Amkar,Lokomotiv Moscow,2,1,2018-03-31 00:00:00,Aleksandr Ryazantsev,Pass
+203773,0,MissedShots,0.7709999847412109,0.5820000076293945,0.026130635291337967,Manuel Fernandes,a,2708,OpenPlay,2017,RightFoot,6654,Amkar,Lokomotiv Moscow,2,1,2018-03-31 00:00:00,,None
+203776,13,BlockedShot,0.8169999694824219,0.6669999694824219,0.03448079526424408,Aleksey Miranchuk,a,2711,OpenPlay,2017,LeftFoot,6654,Amkar,Lokomotiv Moscow,2,1,2018-03-31 00:00:00,Anton Miranchuk,Pass
+203777,16,Goal,0.885,0.5,0.7542753219604492,Manuel Fernandes,a,2708,Penalty,2017,RightFoot,6654,Amkar,Lokomotiv Moscow,2,1,2018-03-31 00:00:00,,Standard
+203780,31,SavedShot,0.7530000305175781,0.2979999923706055,0.01768895424902439,Aleksey Miranchuk,a,2711,OpenPlay,2017,LeftFoot,6654,Amkar,Lokomotiv Moscow,2,1,2018-03-31 00:00:00,Anton Miranchuk,Pass
+203781,31,SavedShot,0.91,0.40099998474121096,0.027716124430298805,Ari,a,2930,OpenPlay,2017,Head,6654,Amkar,Lokomotiv Moscow,2,1,2018-03-31 00:00:00,Nemanja Pejcinovic,Aerial
+203786,53,MissedShots,0.7919999694824219,0.6370000076293946,0.03038255125284195,Aleksandr Kolomejtsev,a,2892,OpenPlay,2017,RightFoot,6654,Amkar,Lokomotiv Moscow,2,1,2018-03-31 00:00:00,Manuel Fernandes,Pass
+203789,59,SavedShot,0.7569999694824219,0.5570000076293945,0.020391015335917473,Jefferson Farfán,a,4299,OpenPlay,2017,RightFoot,6654,Amkar,Lokomotiv Moscow,2,1,2018-03-31 00:00:00,Maciej Rybus,Pass
+203790,61,MissedShots,0.7569999694824219,0.34200000762939453,0.012156208045780659,Vladislav Ignatjev,a,2894,SetPiece,2017,RightFoot,6654,Amkar,Lokomotiv Moscow,2,1,2018-03-31 00:00:00,,None
+203791,61,MissedShots,0.9119999694824219,0.415,0.046859242022037506,Saba Kverkvelia,a,2964,FromCorner,2017,Head,6654,Amkar,Lokomotiv Moscow,2,1,2018-03-31 00:00:00,Ari,Cross
+203793,65,BlockedShot,0.7919999694824219,0.48700000762939455,0.036632705479860306,Aleksey Miranchuk,a,2711,OpenPlay,2017,LeftFoot,6654,Amkar,Lokomotiv Moscow,2,1,2018-03-31 00:00:00,,None
+203795,67,MissedShots,0.825999984741211,0.5690000152587891,0.04782913252711296,Maciej Rybus,a,2856,SetPiece,2017,RightFoot,6654,Amkar,Lokomotiv Moscow,2,1,2018-03-31 00:00:00,,None
+203796,72,MissedShots,0.774000015258789,0.2,0.01407619845122099,Manuel Fernandes,a,2708,OpenPlay,2017,RightFoot,6654,Amkar,Lokomotiv Moscow,2,1,2018-03-31 00:00:00,Igor Denisov,Pass
+203797,75,SavedShot,0.7730000305175782,0.29100000381469726,0.015306642279028893,Aleksey Miranchuk,a,2711,OpenPlay,2017,LeftFoot,6654,Amkar,Lokomotiv Moscow,2,1,2018-03-31 00:00:00,Aleksandr Kolomejtsev,Pass
+203799,79,MissedShots,0.9969999694824219,0.610999984741211,0.0644279271364212,Jefferson Farfán,a,4299,OpenPlay,2017,LeftFoot,6654,Amkar,Lokomotiv Moscow,2,1,2018-03-31 00:00:00,Aleksandr Kolomejtsev,Pass
+203800,82,BlockedShot,0.8769999694824219,0.3629999923706055,0.06599944084882736,Eder,a,963,OpenPlay,2017,RightFoot,6654,Amkar,Lokomotiv Moscow,2,1,2018-03-31 00:00:00,Manuel Fernandes,Pass
+203801,83,BlockedShot,0.720999984741211,0.46,0.023322375491261482,Nemanja Pejcinovic,a,2706,FromCorner,2017,RightFoot,6654,Amkar,Lokomotiv Moscow,2,1,2018-03-31 00:00:00,Vladislav Ignatjev,Pass

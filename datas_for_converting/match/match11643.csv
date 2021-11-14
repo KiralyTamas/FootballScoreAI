@@ -1,0 +1,29 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+309897,15,MissedShots,0.8830000305175781,0.7130000305175781,0.05377916619181633,Andrew Robertson,h,1688,OpenPlay,2019,LeftFoot,11643,Liverpool,Norwich,4,1,2019-08-09 20:00:00,Divock Origi,Pass
+309898,18,Goal,0.9330000305175781,0.36700000762939455,0.3668168783187866,Mohamed Salah,h,1250,OpenPlay,2019,LeftFoot,11643,Liverpool,Norwich,4,1,2019-08-09 20:00:00,Roberto Firmino,Pass
+309901,27,Goal,0.9219999694824219,0.5109999847412109,0.10531551390886307,Virgil van Dijk,h,833,FromCorner,2019,Head,11643,Liverpool,Norwich,4,1,2019-08-09 20:00:00,Mohamed Salah,Cross
+309902,30,SavedShot,0.8780000305175781,0.555,0.11204415559768677,Roberto Firmino,h,482,OpenPlay,2019,LeftFoot,11643,Liverpool,Norwich,4,1,2019-08-09 20:00:00,Trent Alexander-Arnold,Cross
+309904,41,Goal,0.8909999847412109,0.53,0.25825226306915283,Divock Origi,h,484,OpenPlay,2019,Head,11643,Liverpool,Norwich,4,1,2019-08-09 20:00:00,Trent Alexander-Arnold,Chipped
+309905,46,BlockedShot,0.8480000305175781,0.6940000152587891,0.04572838544845581,Roberto Firmino,h,482,OpenPlay,2019,LeftFoot,11643,Liverpool,Norwich,4,1,2019-08-09 20:00:00,Andrew Robertson,Pass
+309906,47,SavedShot,0.875,0.53,0.1266910284757614,Jordan Henderson,h,605,OpenPlay,2019,RightFoot,11643,Liverpool,Norwich,4,1,2019-08-09 20:00:00,Divock Origi,Cross
+309907,47,ShotOnPost,0.9640000152587891,0.5420000076293945,0.6854050755500793,Roberto Firmino,h,482,OpenPlay,2019,LeftFoot,11643,Liverpool,Norwich,4,1,2019-08-09 20:00:00,Trent Alexander-Arnold,Pass
+309908,53,MissedShots,0.88,0.3390000152587891,0.07799225300550461,Mohamed Salah,h,1250,OpenPlay,2019,LeftFoot,11643,Liverpool,Norwich,4,1,2019-08-09 20:00:00,Fabinho,BallRecovery
+309909,54,BlockedShot,0.8490000152587891,0.4179999923706055,0.10552166402339935,Jordan Henderson,h,605,OpenPlay,2019,RightFoot,11643,Liverpool,Norwich,4,1,2019-08-09 20:00:00,Mohamed Salah,Pass
+309910,54,SavedShot,0.7269999694824218,0.5359999847412109,0.0147264264523983,Fabinho,h,3420,OpenPlay,2019,RightFoot,11643,Liverpool,Norwich,4,1,2019-08-09 20:00:00,,Rebound
+309911,57,MissedShots,0.78,0.6930000305175781,0.01307584997266531,Andrew Robertson,h,1688,SetPiece,2019,LeftFoot,11643,Liverpool,Norwich,4,1,2019-08-09 20:00:00,,None
+309914,70,BlockedShot,0.835999984741211,0.48200000762939454,0.09527646750211716,Roberto Firmino,h,482,OpenPlay,2019,RightFoot,11643,Liverpool,Norwich,4,1,2019-08-09 20:00:00,Mohamed Salah,Pass
+309915,72,MissedShots,0.735999984741211,0.37400001525878906,0.02203359641134739,Trent Alexander-Arnold,h,1791,OpenPlay,2019,RightFoot,11643,Liverpool,Norwich,4,1,2019-08-09 20:00:00,Joseph Gomez,Pass
+309917,84,SavedShot,0.8119999694824219,0.5270000076293946,0.15345871448516846,Trent Alexander-Arnold,h,1791,DirectFreekick,2019,RightFoot,11643,Liverpool,Norwich,4,1,2019-08-09 20:00:00,,Standard
+309892,4,MissedShots,0.8690000152587891,0.629000015258789,0.07037076354026794,Marco Stiepermann,a,7694,OpenPlay,2019,LeftFoot,11643,Liverpool,Norwich,4,1,2019-08-09 20:00:00,Teemu Pukki,Pass
+309893,6,OwnGoal,0.035999999046325684,0.4179999923706055,0,Grant Hanley,a,7690,OpenPlay,2019,RightFoot,11643,Liverpool,Norwich,4,1,2019-08-09 20:00:00,,None
+309894,9,MissedShots,0.84,0.6140000152587891,0.04457487910985947,Marco Stiepermann,a,7694,OpenPlay,2019,LeftFoot,11643,Liverpool,Norwich,4,1,2019-08-09 20:00:00,Teemu Pukki,Pass
+309895,14,BlockedShot,0.895,0.6780000305175782,0.09858032315969467,Teemu Pukki,a,7696,OpenPlay,2019,LeftFoot,11643,Liverpool,Norwich,4,1,2019-08-09 20:00:00,Jamal Lewis,Throughball
+309896,14,MissedShots,0.97,0.6719999694824219,0.05384041741490364,Teemu Pukki,a,7696,OpenPlay,2019,LeftFoot,11643,Liverpool,Norwich,4,1,2019-08-09 20:00:00,Todd Cantwell,Pass
+309899,24,SavedShot,0.8059999847412109,0.4779999923706055,0.04139561578631401,Emiliano Buendía,a,2203,OpenPlay,2019,LeftFoot,11643,Liverpool,Norwich,4,1,2019-08-09 20:00:00,Todd Cantwell,Pass
+309900,25,SavedShot,0.8030000305175782,0.49,0.054997265338897705,Marco Stiepermann,a,7694,OpenPlay,2019,LeftFoot,11643,Liverpool,Norwich,4,1,2019-08-09 20:00:00,Emiliano Buendía,Pass
+309903,34,MissedShots,0.9,0.4809999847412109,0.021541999652981758,Tom Trybull,a,7692,FromCorner,2019,Head,11643,Liverpool,Norwich,4,1,2019-08-09 20:00:00,Emiliano Buendía,Aerial
+309912,61,ShotOnPost,0.905,0.27,0.0486493855714798,Moritz Leitner,a,1217,OpenPlay,2019,RightFoot,11643,Liverpool,Norwich,4,1,2019-08-09 20:00:00,Todd Cantwell,Pass
+309913,63,Goal,0.909000015258789,0.38599998474121094,0.3120565712451935,Teemu Pukki,a,7696,OpenPlay,2019,RightFoot,11643,Liverpool,Norwich,4,1,2019-08-09 20:00:00,Emiliano Buendía,Throughball
+309916,79,SavedShot,0.754000015258789,0.7419999694824219,0.03860388323664665,Emiliano Buendía,a,2203,DirectFreekick,2019,RightFoot,11643,Liverpool,Norwich,4,1,2019-08-09 20:00:00,,Standard
+309918,90,SavedShot,0.7469999694824219,0.72,0.008998467586934566,Ben Godfrey,a,7689,OpenPlay,2019,RightFoot,11643,Liverpool,Norwich,4,1,2019-08-09 20:00:00,Jamal Lewis,Pass
+309919,90,BlockedShot,0.9390000152587891,0.6509999847412109,0.049240197986364365,Onel Hernández,a,7697,OpenPlay,2019,LeftFoot,11643,Liverpool,Norwich,4,1,2019-08-09 20:00:00,,Rebound

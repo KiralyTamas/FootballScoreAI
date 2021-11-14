@@ -1,0 +1,27 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+255548,1,MissedShots,0.8090000152587891,0.5629999923706055,0.11483170837163925,Mikael Ishak,h,7038,OpenPlay,2018,LeftFoot,10408,Nuernberg,Hoffenheim,1,3,2018-10-20 13:30:00,Hanno Behrens,Throughball
+255550,6,BlockedShot,0.865999984741211,0.620999984741211,0.07947518676519394,Eduard Löwen,h,7043,OpenPlay,2018,RightFoot,10408,Nuernberg,Hoffenheim,1,3,2018-10-20 13:30:00,Federico Palacios,Pass
+255551,17,Goal,0.885,0.5,0.757696270942688,Hanno Behrens,h,7035,Penalty,2018,RightFoot,10408,Nuernberg,Hoffenheim,1,3,2018-10-20 13:30:00,,Standard
+255556,34,MissedShots,0.8590000152587891,0.37599998474121094,0.07623119652271271,Mikael Ishak,h,7038,OpenPlay,2018,LeftFoot,10408,Nuernberg,Hoffenheim,1,3,2018-10-20 13:30:00,Eduard Löwen,Pass
+255570,84,BlockedShot,0.7119999694824218,0.34299999237060547,0.011174970306456089,Enrico Valentini,h,7104,OpenPlay,2018,LeftFoot,10408,Nuernberg,Hoffenheim,1,3,2018-10-20 13:30:00,Hanno Behrens,Pass
+255571,85,SavedShot,0.925,0.33599998474121096,0.06171994283795357,Törles Knöll,h,6298,OpenPlay,2018,RightFoot,10408,Nuernberg,Hoffenheim,1,3,2018-10-20 13:30:00,Hanno Behrens,Pass
+255572,89,MissedShots,0.7580000305175781,0.7019999694824218,0.009296354837715626,Eduard Löwen,h,7043,OpenPlay,2018,RightFoot,10408,Nuernberg,Hoffenheim,1,3,2018-10-20 13:30:00,,None
+255549,4,MissedShots,0.87,0.7230000305175781,0.021815750747919083,Nico Schulz,a,433,OpenPlay,2018,LeftFoot,10408,Nuernberg,Hoffenheim,1,3,2018-10-20 13:30:00,Reiss Nelson,Cross
+255552,22,SavedShot,0.7330000305175781,0.6459999847412109,0.01656547747552395,Andrej Kramaric,a,956,OpenPlay,2018,RightFoot,10408,Nuernberg,Hoffenheim,1,3,2018-10-20 13:30:00,Nico Schulz,Pass
+255553,23,MissedShots,0.914000015258789,0.4909999847412109,0.0954279974102974,Ermin Bicakcic,a,84,FromCorner,2018,Head,10408,Nuernberg,Hoffenheim,1,3,2018-10-20 13:30:00,Kerem Demirbay,Cross
+255554,24,SavedShot,0.765,0.5579999923706055,0.03219844028353691,Andrej Kramaric,a,956,OpenPlay,2018,RightFoot,10408,Nuernberg,Hoffenheim,1,3,2018-10-20 13:30:00,Reiss Nelson,TakeOn
+255555,30,SavedShot,0.8419999694824218,0.46,0.06526613235473633,Andrej Kramaric,a,956,OpenPlay,2018,RightFoot,10408,Nuernberg,Hoffenheim,1,3,2018-10-20 13:30:00,Reiss Nelson,Pass
+255557,36,SavedShot,0.9059999847412109,0.42200000762939455,0.07653804123401642,Pavel Kaderábek,a,74,SetPiece,2018,LeftFoot,10408,Nuernberg,Hoffenheim,1,3,2018-10-20 13:30:00,Joelinton,Cross
+255558,38,SavedShot,0.8019999694824219,0.26799999237060546,0.02091982215642929,Kerem Demirbay,a,5273,OpenPlay,2018,LeftFoot,10408,Nuernberg,Hoffenheim,1,3,2018-10-20 13:30:00,Joelinton,Pass
+255559,49,SavedShot,0.9290000152587891,0.5029999923706054,0.06559567898511887,Ermin Bicakcic,a,84,FromCorner,2018,Head,10408,Nuernberg,Hoffenheim,1,3,2018-10-20 13:30:00,Joelinton,HeadPass
+255560,49,Goal,0.909000015258789,0.48700000762939455,0.4782613515853882,Reiss Nelson,a,6492,OpenPlay,2018,RightFoot,10408,Nuernberg,Hoffenheim,1,3,2018-10-20 13:30:00,Pavel Kaderábek,Pass
+255561,51,MissedShots,0.8469999694824218,0.519000015258789,0.06985719501972198,Andrej Kramaric,a,956,OpenPlay,2018,RightFoot,10408,Nuernberg,Hoffenheim,1,3,2018-10-20 13:30:00,,None
+255562,56,Goal,0.9590000152587891,0.3509999847412109,0.3155883848667145,Reiss Nelson,a,6492,OpenPlay,2018,RightFoot,10408,Nuernberg,Hoffenheim,1,3,2018-10-20 13:30:00,Kerem Demirbay,BallTouch
+255563,58,MissedShots,0.865,0.4929999923706055,0.08523277938365936,Joelinton,a,87,OpenPlay,2018,RightFoot,10408,Nuernberg,Hoffenheim,1,3,2018-10-20 13:30:00,Nico Schulz,Cross
+255564,60,SavedShot,0.9590000152587891,0.5179999923706055,0.6717521548271179,Andrej Kramaric,a,956,OpenPlay,2018,LeftFoot,10408,Nuernberg,Hoffenheim,1,3,2018-10-20 13:30:00,Nico Schulz,Pass
+255565,66,Goal,0.9459999847412109,0.5840000152587891,0.06008584424853325,Ádám Szalai,a,360,OpenPlay,2018,Head,10408,Nuernberg,Hoffenheim,1,3,2018-10-20 13:30:00,Pavel Kaderábek,Aerial
+255566,70,SavedShot,0.7959999847412109,0.32799999237060545,0.03590431436896324,Joelinton,a,87,OpenPlay,2018,RightFoot,10408,Nuernberg,Hoffenheim,1,3,2018-10-20 13:30:00,Ádám Szalai,TakeOn
+255567,74,MissedShots,0.9169999694824219,0.32599998474121095,0.08465281873941422,Ádám Szalai,a,360,OpenPlay,2018,RightFoot,10408,Nuernberg,Hoffenheim,1,3,2018-10-20 13:30:00,Kerem Demirbay,Tackle
+255568,75,MissedShots,0.8119999694824219,0.40099998474121096,0.07082647830247879,Joelinton,a,87,OpenPlay,2018,RightFoot,10408,Nuernberg,Hoffenheim,1,3,2018-10-20 13:30:00,Ádám Szalai,Pass
+255569,81,BlockedShot,0.8209999847412109,0.5129999923706055,0.08578456193208694,Ádám Szalai,a,360,OpenPlay,2018,RightFoot,10408,Nuernberg,Hoffenheim,1,3,2018-10-20 13:30:00,Andrej Kramaric,Pass
+255573,91,SavedShot,0.8430000305175781,0.48700000762939455,0.10920193791389465,Andrej Kramaric,a,956,OpenPlay,2018,LeftFoot,10408,Nuernberg,Hoffenheim,1,3,2018-10-20 13:30:00,Ádám Szalai,Chipped

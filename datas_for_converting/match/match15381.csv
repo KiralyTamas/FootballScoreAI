@@ -1,0 +1,26 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+413108,2,MissedShots,0.7369999694824219,0.7140000152587891,0.014156467281281948,Wataru Endo,h,8808,OpenPlay,2020,RightFoot,15381,VfB Stuttgart,Werder Bremen,1,0,2021-04-04 13:30:00,Borna Sosa,Pass
+413110,5,MissedShots,0.789000015258789,0.33,0.02443782053887844,Mateo Klimowicz,h,8809,OpenPlay,2020,RightFoot,15381,VfB Stuttgart,Werder Bremen,1,0,2021-04-04 13:30:00,Philipp Förster,Pass
+413113,24,SavedShot,0.795,0.629000015258789,0.0350600890815258,Philipp Förster,h,9076,OpenPlay,2020,LeftFoot,15381,VfB Stuttgart,Werder Bremen,1,0,2021-04-04 13:30:00,Mateo Klimowicz,BallTouch
+413116,36,BlockedShot,0.8830000305175781,0.6859999847412109,0.049355555325746536,Gonzalo Castro,h,316,OpenPlay,2020,RightFoot,15381,VfB Stuttgart,Werder Bremen,1,0,2021-04-04 13:30:00,Borna Sosa,Pass
+413117,53,MissedShots,0.830999984741211,0.39599998474121095,0.039621662348508835,Borna Sosa,h,7075,FromCorner,2020,LeftFoot,15381,VfB Stuttgart,Werder Bremen,1,0,2021-04-04 13:30:00,,None
+413119,57,SavedShot,0.8809999847412109,0.62,0.0836581215262413,Mateo Klimowicz,h,8809,OpenPlay,2020,LeftFoot,15381,VfB Stuttgart,Werder Bremen,1,0,2021-04-04 13:30:00,Borna Sosa,Pass
+413120,60,BlockedShot,0.8859999847412109,0.335,0.05672277510166168,Philipp Förster,h,9076,OpenPlay,2020,LeftFoot,15381,VfB Stuttgart,Werder Bremen,1,0,2021-04-04 13:30:00,,None
+413122,67,BlockedShot,0.889000015258789,0.6419999694824219,0.08386467397212982,Borna Sosa,h,7075,OpenPlay,2020,LeftFoot,15381,VfB Stuttgart,Werder Bremen,1,0,2021-04-04 13:30:00,Wataru Endo,Pass
+413123,67,MissedShots,0.895,0.46900001525878904,0.01850585825741291,Konstantinos Mavropanos,h,6722,FromCorner,2020,Head,15381,VfB Stuttgart,Werder Bremen,1,0,2021-04-04 13:30:00,Borna Sosa,Aerial
+413125,80,MissedShots,0.8959999847412109,0.5059999847412109,0.044063568115234375,Sasa Kalajdzic,h,8812,OpenPlay,2020,Head,15381,VfB Stuttgart,Werder Bremen,1,0,2021-04-04 13:30:00,Borna Sosa,Aerial
+413127,84,SavedShot,0.7619999694824219,0.710999984741211,0.021274246275424957,Sasa Kalajdzic,h,8812,OpenPlay,2020,RightFoot,15381,VfB Stuttgart,Werder Bremen,1,0,2021-04-04 13:30:00,Borna Sosa,Pass
+413128,86,MissedShots,0.9330000305175781,0.46900001525878904,0.06080866605043411,Konstantinos Mavropanos,h,6722,FromCorner,2020,Head,15381,VfB Stuttgart,Werder Bremen,1,0,2021-04-04 13:30:00,Borna Sosa,Aerial
+413129,87,MissedShots,0.8519999694824218,0.47,0.09344759583473206,Daniel Didavi,h,300,OpenPlay,2020,LeftFoot,15381,VfB Stuttgart,Werder Bremen,1,0,2021-04-04 13:30:00,,None
+413130,88,MissedShots,0.875,0.6680000305175782,0.0703311562538147,Darko Churlinov,h,7790,OpenPlay,2020,RightFoot,15381,VfB Stuttgart,Werder Bremen,1,0,2021-04-04 13:30:00,Borna Sosa,Chipped
+413107,1,BlockedShot,0.745999984741211,0.475,0.018026238307356834,Kevin Möhwald,a,7044,OpenPlay,2020,RightFoot,15381,VfB Stuttgart,Werder Bremen,1,0,2021-04-04 13:30:00,Maximilian Eggestein,None
+413109,5,BlockedShot,0.7069999694824218,0.5770000076293945,0.01407007034868002,Milot Rashica,a,6523,OpenPlay,2020,RightFoot,15381,VfB Stuttgart,Werder Bremen,1,0,2021-04-04 13:30:00,Christian Groß,TakeOn
+413111,9,SavedShot,0.8080000305175781,0.6909999847412109,0.012079925276339054,Romano Schmid,a,9069,SetPiece,2020,LeftFoot,15381,VfB Stuttgart,Werder Bremen,1,0,2021-04-04 13:30:00,,Aerial
+413112,21,MissedShots,0.7909999847412109,0.610999984741211,0.030914662405848503,Ludwig Augustinsson,a,6083,OpenPlay,2020,LeftFoot,15381,VfB Stuttgart,Werder Bremen,1,0,2021-04-04 13:30:00,,None
+413114,30,SavedShot,0.7090000152587891,0.53,0.014783601276576519,Kevin Möhwald,a,7044,OpenPlay,2020,RightFoot,15381,VfB Stuttgart,Werder Bremen,1,0,2021-04-04 13:30:00,Romano Schmid,Pass
+413115,34,BlockedShot,0.94,0.7119999694824218,0.04215402156114578,Romano Schmid,a,9069,OpenPlay,2020,LeftFoot,15381,VfB Stuttgart,Werder Bremen,1,0,2021-04-04 13:30:00,Maximilian Eggestein,Chipped
+413118,54,MissedShots,0.85,0.5070000076293946,0.09781866520643234,Niclas Füllkrug,a,6098,OpenPlay,2020,RightFoot,15381,VfB Stuttgart,Werder Bremen,1,0,2021-04-04 13:30:00,Milot Rashica,Pass
+413121,65,MissedShots,0.8540000152587891,0.7080000305175781,0.0379767008125782,Romano Schmid,a,9069,OpenPlay,2020,RightFoot,15381,VfB Stuttgart,Werder Bremen,1,0,2021-04-04 13:30:00,Christian Groß,Pass
+413124,74,MissedShots,0.8059999847412109,0.4929999923706055,0.05754741281270981,Milot Rashica,a,6523,OpenPlay,2020,RightFoot,15381,VfB Stuttgart,Werder Bremen,1,0,2021-04-04 13:30:00,Maximilian Eggestein,Pass
+413126,80,OwnGoal,0.09600000381469727,0.549000015258789,0,Ludwig Augustinsson,a,6083,OpenPlay,2020,Head,15381,VfB Stuttgart,Werder Bremen,1,0,2021-04-04 13:30:00,,Aerial
+413131,90,MissedShots,0.8419999694824218,0.33599998474121096,0.037103451788425446,Yuya Osako,a,135,OpenPlay,2020,RightFoot,15381,VfB Stuttgart,Werder Bremen,1,0,2021-04-04 13:30:00,Eren Sami Dinkci,Pass

@@ -1,0 +1,21 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+87183,31,Goal,0.889000015258789,0.5359999847412109,0.12222038209438324,Tana,h,2359,OpenPlay,2015,RightFoot,1566,Las Palmas,Granada,4,1,2015-12-31 00:00:00,Jonathan Viera,Pass
+87186,49,Goal,0.925,0.5570000076293945,0.14197242259979248,Sergio Araujo,h,2365,OpenPlay,2015,LeftFoot,1566,Las Palmas,Granada,4,1,2015-12-31 00:00:00,Jonathan Viera,Pass
+87187,54,SavedShot,0.8569999694824219,0.38,0.10184471309185028,David Simón,h,2364,OpenPlay,2015,RightFoot,1566,Las Palmas,Granada,4,1,2015-12-31 00:00:00,Nabil El Zhar,Pass
+87190,64,BlockedShot,0.8959999847412109,0.664000015258789,0.05443830043077469,Jonathan Viera,h,2358,OpenPlay,2015,RightFoot,1566,Las Palmas,Granada,4,1,2015-12-31 00:00:00,Dani Castellano,Cross
+87192,67,MissedShots,0.7619999694824219,0.5640000152587891,0.03254256024956703,Tana,h,2359,OpenPlay,2015,RightFoot,1566,Las Palmas,Granada,4,1,2015-12-31 00:00:00,David García,Pass
+87195,79,Goal,0.885,0.5,0.7432776093482971,Jonathan Viera,h,2358,Penalty,2015,RightFoot,1566,Las Palmas,Granada,4,1,2015-12-31 00:00:00,,Standard
+87196,81,MissedShots,0.8580000305175781,0.27700000762939453,0.09096161276102066,Nabil El Zhar,h,2357,OpenPlay,2015,RightFoot,1566,Las Palmas,Granada,4,1,2015-12-31 00:00:00,Sergio Araujo,Pass
+87178,1,MissedShots,0.7769999694824219,0.5279999923706055,0.10856276005506516,Nicolás López,a,2579,OpenPlay,2015,LeftFoot,1566,Las Palmas,Granada,4,1,2015-12-31 00:00:00,Rubén Pérez,Throughball
+87179,9,BlockedShot,0.7440000152587891,0.615999984741211,0.021215898916125298,Edgar Méndez,a,2088,OpenPlay,2015,RightFoot,1566,Las Palmas,Granada,4,1,2015-12-31 00:00:00,Adalberto Peñaranda,Pass
+87180,13,SavedShot,0.905,0.375,0.0403372161090374,Jean-Sylvain Babin,a,2077,SetPiece,2015,Head,1566,Las Palmas,Granada,4,1,2015-12-31 00:00:00,Nicolás López,Chipped
+87181,14,BlockedShot,0.9,0.4,0.06713515520095825,Nicolás López,a,2579,OpenPlay,2015,LeftFoot,1566,Las Palmas,Granada,4,1,2015-12-31 00:00:00,Cristiano Biraghi,Cross
+87182,16,SavedShot,0.8340000152587891,0.66,0.08785907179117203,Edgar Méndez,a,2088,OpenPlay,2015,RightFoot,1566,Las Palmas,Granada,4,1,2015-12-31 00:00:00,,BallRecovery
+87184,47,MissedShots,0.759000015258789,0.6530000305175782,0.012840856797993183,Fran Rico,a,2084,SetPiece,2015,LeftFoot,1566,Las Palmas,Granada,4,1,2015-12-31 00:00:00,,None
+87185,48,BlockedShot,0.754000015258789,0.675,0.014114093035459518,Cristiano Biraghi,a,1164,OpenPlay,2015,LeftFoot,1566,Las Palmas,Granada,4,1,2015-12-31 00:00:00,,None
+87188,55,Goal,0.91,0.33099998474121095,0.200574591755867,Adalberto Peñaranda,a,1548,OpenPlay,2015,RightFoot,1566,Las Palmas,Granada,4,1,2015-12-31 00:00:00,Rubén Rochina,Pass
+87189,63,SavedShot,0.695,0.6370000076293946,0.009517905302345753,Rubén Rochina,a,2079,OpenPlay,2015,LeftFoot,1566,Las Palmas,Granada,4,1,2015-12-31 00:00:00,,None
+87191,65,SavedShot,0.7609999847412109,0.6509999847412109,0.016764255240559578,Rubén Rochina,a,2079,OpenPlay,2015,LeftFoot,1566,Las Palmas,Granada,4,1,2015-12-31 00:00:00,,None
+87193,71,BlockedShot,0.945,0.3529999923706055,0.10073601454496384,Dimitri Foulquier,a,2509,OpenPlay,2015,LeftFoot,1566,Las Palmas,Granada,4,1,2015-12-31 00:00:00,Rubén Rochina,TakeOn
+87194,72,MissedShots,0.6909999847412109,0.644000015258789,0.008586887270212173,Rubén Rochina,a,2079,OpenPlay,2015,LeftFoot,1566,Las Palmas,Granada,4,1,2015-12-31 00:00:00,,Aerial
+87197,91,OwnGoal,0.06699999809265136,0.42700000762939455,0,Lombán,a,2085,OpenPlay,2015,OtherBodyPart,1566,Las Palmas,Granada,4,1,2015-12-31 00:00:00,,Dispossessed

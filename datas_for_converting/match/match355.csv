@@ -1,0 +1,29 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+60504,2,BlockedShot,0.8530000305175781,0.5129999923706055,0.10350732505321503,Olivier Giroud,h,502,OpenPlay,2015,LeftFoot,355,Arsenal,Swansea,1,2,2016-03-02 23:45:00,Alexis Sánchez,Pass
+60506,2,MissedShots,0.735,0.5209999847412109,0.014027348719537258,Francis Coquelin,h,497,OpenPlay,2015,RightFoot,355,Arsenal,Swansea,1,2,2016-03-02 23:45:00,,Rebound
+60507,6,BlockedShot,0.899000015258789,0.4279999923706055,0.1229875311255455,Olivier Giroud,h,502,OpenPlay,2015,RightFoot,355,Arsenal,Swansea,1,2,2016-03-02 23:45:00,Héctor Bellerín,Pass
+60511,10,ShotOnPost,0.8480000305175781,0.615,0.0579434335231781,Alexis Sánchez,h,498,OpenPlay,2015,RightFoot,355,Arsenal,Swansea,1,2,2016-03-02 23:45:00,Mesut Özil,HeadPass
+60513,14,BlockedShot,0.815,0.26899999618530274,0.030522629618644714,Joel Campbell,h,506,OpenPlay,2015,LeftFoot,355,Arsenal,Swansea,1,2,2016-03-02 23:45:00,Olivier Giroud,LayOff
+60515,14,Goal,0.915,0.5979999923706054,0.3834626376628876,Joel Campbell,h,506,OpenPlay,2015,LeftFoot,355,Arsenal,Swansea,1,2,2016-03-02 23:45:00,Alexis Sánchez,Throughball
+60520,24,BlockedShot,0.8469999694824218,0.3659999847412109,0.06000959500670433,Mesut Özil,h,499,OpenPlay,2015,LeftFoot,355,Arsenal,Swansea,1,2,2016-03-02 23:45:00,Joel Campbell,Pass
+60521,24,SavedShot,0.75,0.3320000076293945,0.015992920845746994,Héctor Bellerín,h,492,OpenPlay,2015,RightFoot,355,Arsenal,Swansea,1,2,2016-03-02 23:45:00,,Rebound
+60524,29,MissedShots,0.7919999694824219,0.24700000762939453,0.02161293290555477,Joel Campbell,h,506,OpenPlay,2015,LeftFoot,355,Arsenal,Swansea,1,2,2016-03-02 23:45:00,Alexis Sánchez,Chipped
+60526,40,ShotOnPost,0.9,0.5120000076293946,0.3240130543708801,Olivier Giroud,h,502,FromCorner,2015,RightFoot,355,Arsenal,Swansea,1,2,2016-03-02 23:45:00,Per Mertesacker,LayOff
+60527,48,BlockedShot,0.9430000305175781,0.29100000381469726,0.05869029834866524,Alexis Sánchez,h,498,OpenPlay,2015,RightFoot,355,Arsenal,Swansea,1,2,2016-03-02 23:45:00,Joel Campbell,Pass
+60530,56,MissedShots,0.8630000305175781,0.5329999923706055,0.04600609838962555,Alexis Sánchez,h,498,FromCorner,2015,RightFoot,355,Arsenal,Swansea,1,2,2016-03-02 23:45:00,Mesut Özil,Cross
+60533,67,BlockedShot,0.7819999694824219,0.6359999847412109,0.07407896965742111,Alexis Sánchez,h,498,DirectFreekick,2015,RightFoot,355,Arsenal,Swansea,1,2,2016-03-02 23:45:00,,Standard
+60536,75,SavedShot,0.9,0.5829999923706055,0.03186691552400589,Olivier Giroud,h,502,FromCorner,2015,Head,355,Arsenal,Swansea,1,2,2016-03-02 23:45:00,Mesut Özil,Cross
+60537,79,MissedShots,0.8590000152587891,0.6120000076293945,0.07200215011835098,Nacho Monreal,h,495,OpenPlay,2015,LeftFoot,355,Arsenal,Swansea,1,2,2016-03-02 23:45:00,Olivier Giroud,Pass
+60541,87,SavedShot,0.9109999847412109,0.49599998474121093,0.03392387926578522,Theo Walcott,h,503,FromCorner,2015,Head,355,Arsenal,Swansea,1,2,2016-03-02 23:45:00,Mesut Özil,Aerial
+60542,92,MissedShots,0.8959999847412109,0.4829999923706055,0.04456048831343651,Danny Welbeck,h,501,OpenPlay,2015,Head,355,Arsenal,Swansea,1,2,2016-03-02 23:45:00,Theo Walcott,Chipped
+60517,16,BlockedShot,0.7819999694824219,0.40700000762939453,0.029146619141101837,Bafétimbi Gomis,a,717,OpenPlay,2015,RightFoot,355,Arsenal,Swansea,1,2,2016-03-02 23:45:00,Ki Sung-yueng,TakeOn
+60519,16,MissedShots,0.750999984741211,0.2610000038146973,0.0128132663667202,Kyle Naughton,a,718,FromCorner,2015,RightFoot,355,Arsenal,Swansea,1,2,2016-03-02 23:45:00,,None
+60522,25,MissedShots,0.7769999694824219,0.5420000076293945,0.03449971228837967,Leroy Fer,a,711,OpenPlay,2015,RightFoot,355,Arsenal,Swansea,1,2,2016-03-02 23:45:00,Wayne Routledge,Pass
+60523,27,BlockedShot,0.764000015258789,0.625,0.024153580889105797,Bafétimbi Gomis,a,717,OpenPlay,2015,RightFoot,355,Arsenal,Swansea,1,2,2016-03-02 23:45:00,Wayne Routledge,Pass
+60525,31,Goal,0.8130000305175781,0.515,0.32547032833099365,Wayne Routledge,a,719,OpenPlay,2015,RightFoot,355,Arsenal,Swansea,1,2,2016-03-02 23:45:00,Jack Cork,Throughball
+60528,50,BlockedShot,0.7659999847412109,0.6469999694824219,0.017390897497534752,Gylfi Sigurdsson,a,714,OpenPlay,2015,RightFoot,355,Arsenal,Swansea,1,2,2016-03-02 23:45:00,Wayne Routledge,Pass
+60529,54,MissedShots,0.7919999694824219,0.39099998474121095,0.032866220921278,André Ayew,a,713,OpenPlay,2015,LeftFoot,355,Arsenal,Swansea,1,2,2016-03-02 23:45:00,Kyle Naughton,Pass
+60531,61,BlockedShot,0.8969999694824219,0.730999984741211,0.04027390852570534,Bafétimbi Gomis,a,717,OpenPlay,2015,RightFoot,355,Arsenal,Swansea,1,2,2016-03-02 23:45:00,Wayne Routledge,Pass
+60532,64,MissedShots,0.9669999694824218,0.3340000152587891,0.5288505554199219,Gylfi Sigurdsson,a,714,OpenPlay,2015,RightFoot,355,Arsenal,Swansea,1,2,2016-03-02 23:45:00,André Ayew,TakeOn
+60535,73,Goal,0.960999984741211,0.5070000076293946,0.6455026865005493,Ashley Williams,a,709,SetPiece,2015,RightFoot,355,Arsenal,Swansea,1,2,2016-03-02 23:45:00,,None
+60548,95,MissedShots,0.47299999237060547,0.22600000381469726,0.006915039848536253,Bafétimbi Gomis,a,717,OpenPlay,2015,RightFoot,355,Arsenal,Swansea,1,2,2016-03-02 23:45:00,Wayne Routledge,Pass

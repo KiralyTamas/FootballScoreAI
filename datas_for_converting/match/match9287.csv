@@ -1,0 +1,29 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+249693,2,MissedShots,0.755,0.4929999923706055,0.022463690489530563,Paul Pogba,h,1740,OpenPlay,2018,RightFoot,9287,Manchester United,Everton,2,1,2018-10-28 15:00:00,Anthony Martial,Pass
+249696,18,SavedShot,0.9130000305175782,0.4929999923706055,0.12091393768787384,Juan Mata,h,554,SetPiece,2018,Head,9287,Manchester United,Everton,2,1,2018-10-28 15:00:00,Anthony Martial,Cross
+249697,22,SavedShot,0.7869999694824219,0.7609999847412109,0.018068453297019005,Anthony Martial,h,553,OpenPlay,2018,RightFoot,9287,Manchester United,Everton,2,1,2018-10-28 15:00:00,Nemanja Matic,Pass
+249698,26,SavedShot,0.885,0.5,0.7611688375473022,Paul Pogba,h,1740,Penalty,2018,RightFoot,9287,Manchester United,Everton,2,1,2018-10-28 15:00:00,,Standard
+249699,26,Goal,0.9019999694824219,0.5379999923706055,0.45065611600875854,Paul Pogba,h,1740,SetPiece,2018,RightFoot,9287,Manchester United,Everton,2,1,2018-10-28 15:00:00,,Rebound
+249700,29,SavedShot,0.88,0.6229999923706054,0.08387108147144318,Paul Pogba,h,1740,OpenPlay,2018,LeftFoot,9287,Manchester United,Everton,2,1,2018-10-28 15:00:00,Anthony Martial,Pass
+249701,34,MissedShots,0.7219999694824218,0.5029999923706054,0.019249869510531425,Fred,h,6817,OpenPlay,2018,RightFoot,9287,Manchester United,Everton,2,1,2018-10-28 15:00:00,Luke Shaw,Pass
+249707,48,Goal,0.8230000305175781,0.6880000305175781,0.04112807661294937,Anthony Martial,h,553,OpenPlay,2018,RightFoot,9287,Manchester United,Everton,2,1,2018-10-28 15:00:00,Paul Pogba,Pass
+249709,53,SavedShot,0.905,0.3120000076293945,0.4279908239841461,Marcus Rashford,h,556,OpenPlay,2018,RightFoot,9287,Manchester United,Everton,2,1,2018-10-28 15:00:00,Juan Mata,Throughball
+249710,56,SavedShot,0.8919999694824219,0.38799999237060545,0.1133086085319519,Paul Pogba,h,1740,OpenPlay,2018,RightFoot,9287,Manchester United,Everton,2,1,2018-10-28 15:00:00,Juan Mata,Pass
+249712,69,BlockedShot,0.7780000305175782,0.5790000152587891,0.03731747344136238,Fred,h,6817,OpenPlay,2018,LeftFoot,9287,Manchester United,Everton,2,1,2018-10-28 15:00:00,Anthony Martial,Pass
+249715,81,MissedShots,0.9169999694824219,0.5129999923706055,0.13653725385665894,Romelu Lukaku,h,594,OpenPlay,2018,Head,9287,Manchester United,Everton,2,1,2018-10-28 15:00:00,Paul Pogba,Cross
+249717,87,SavedShot,0.7419999694824219,0.5609999847412109,0.023939309641718864,Paul Pogba,h,1740,OpenPlay,2018,LeftFoot,9287,Manchester United,Everton,2,1,2018-10-28 15:00:00,Fred,Pass
+249719,93,SavedShot,0.9019999694824219,0.49900001525878906,0.6003462672233582,Anthony Martial,h,553,OpenPlay,2018,RightFoot,9287,Manchester United,Everton,2,1,2018-10-28 15:00:00,Fred,Pass
+249694,4,BlockedShot,0.8230000305175781,0.615999984741211,0.04517228901386261,André Gomes,a,2383,OpenPlay,2018,LeftFoot,9287,Manchester United,Everton,2,1,2018-10-28 15:00:00,,None
+249695,13,SavedShot,0.9,0.4620000076293945,0.05640567094087601,André Gomes,a,2383,FromCorner,2018,Head,9287,Manchester United,Everton,2,1,2018-10-28 15:00:00,Gylfi Sigurdsson,Cross
+249702,36,SavedShot,0.8619999694824219,0.48200000762939454,0.03187954053282738,Gylfi Sigurdsson,a,714,OpenPlay,2018,Head,9287,Manchester United,Everton,2,1,2018-10-28 15:00:00,Seamus Coleman,Chipped
+249703,43,SavedShot,0.8219999694824218,0.3940000152587891,0.04316416755318642,Theo Walcott,a,503,OpenPlay,2018,LeftFoot,9287,Manchester United,Everton,2,1,2018-10-28 15:00:00,Gylfi Sigurdsson,Pass
+249704,45,SavedShot,0.9069999694824219,0.27700000762939453,0.03799208998680115,Theo Walcott,a,503,OpenPlay,2018,RightFoot,9287,Manchester United,Everton,2,1,2018-10-28 15:00:00,Michael Keane,Pass
+249705,45,MissedShots,0.769000015258789,0.615999984741211,0.017751384526491165,Lucas Digne,a,1823,FromCorner,2018,RightFoot,9287,Manchester United,Everton,2,1,2018-10-28 15:00:00,,None
+249706,45,SavedShot,0.8190000152587891,0.40599998474121096,0.0459660105407238,Richarlison,a,6026,OpenPlay,2018,RightFoot,9287,Manchester United,Everton,2,1,2018-10-28 15:00:00,Idrissa Gueye,BallRecovery
+249708,50,MissedShots,0.9440000152587891,0.6530000305175782,0.4312836229801178,Bernard,a,7063,OpenPlay,2018,LeftFoot,9287,Manchester United,Everton,2,1,2018-10-28 15:00:00,Richarlison,TakeOn
+249711,65,MissedShots,0.89,0.4640000152587891,0.041771017014980316,André Gomes,a,2383,OpenPlay,2018,Head,9287,Manchester United,Everton,2,1,2018-10-28 15:00:00,Seamus Coleman,Cross
+249713,71,MissedShots,0.9019999694824219,0.355,0.07875832170248032,Seamus Coleman,a,585,OpenPlay,2018,RightFoot,9287,Manchester United,Everton,2,1,2018-10-28 15:00:00,Richarlison,Pass
+249714,76,Goal,0.885,0.5,0.7611688375473022,Gylfi Sigurdsson,a,714,Penalty,2018,RightFoot,9287,Manchester United,Everton,2,1,2018-10-28 15:00:00,,Standard
+249716,81,MissedShots,0.93,0.6990000152587891,0.0425071083009243,Richarlison,a,6026,OpenPlay,2018,LeftFoot,9287,Manchester United,Everton,2,1,2018-10-28 15:00:00,Lucas Digne,Chipped
+249718,92,MissedShots,0.8530000305175781,0.5629999923706055,0.02409602701663971,Dominic Calvert-Lewin,a,5555,OpenPlay,2018,OtherBodyPart,9287,Manchester United,Everton,2,1,2018-10-28 15:00:00,Lucas Digne,Cross
+249720,96,MissedShots,0.7659999847412109,0.6680000305175782,0.015560545027256012,Ademola Lookman,a,5556,FromCorner,2018,LeftFoot,9287,Manchester United,Everton,2,1,2018-10-28 15:00:00,,None

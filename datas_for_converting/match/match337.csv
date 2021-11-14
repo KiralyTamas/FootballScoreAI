@@ -1,0 +1,25 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+54959,1,MissedShots,0.8019999694824219,0.28299999237060547,0.010604691691696644,Nemanja Matic,h,697,SetPiece,2015,LeftFoot,337,Chelsea,Newcastle United,5,1,2016-02-13 21:30:00,,Aerial
+54960,4,Goal,0.95,0.34900001525878904,0.12240854650735855,Diego Costa,h,802,OpenPlay,2015,RightFoot,337,Chelsea,Newcastle United,5,1,2016-02-13 21:30:00,Willian,Throughball
+54961,8,Goal,0.784000015258789,0.47,0.04981701448559761,Pedro,h,687,OpenPlay,2015,LeftFoot,337,Chelsea,Newcastle United,5,1,2016-02-13 21:30:00,,BallRecovery
+54965,16,Goal,0.935,0.565,0.5805383920669556,Willian,h,700,OpenPlay,2015,LeftFoot,337,Chelsea,Newcastle United,5,1,2016-02-13 21:30:00,Diego Costa,Throughball
+54966,24,BlockedShot,0.855,0.45599998474121095,0.11817163228988647,Branislav Ivanovic,h,682,OpenPlay,2015,LeftFoot,337,Chelsea,Newcastle United,5,1,2016-02-13 21:30:00,Pedro,Pass
+54967,25,MissedShots,0.919000015258789,0.59,0.015653997659683228,Branislav Ivanovic,h,682,FromCorner,2015,Head,337,Chelsea,Newcastle United,5,1,2016-02-13 21:30:00,Willian,Aerial
+54968,31,MissedShots,0.9590000152587891,0.38799999237060545,0.034639228135347366,John Terry,h,917,FromCorner,2015,Head,337,Chelsea,Newcastle United,5,1,2016-02-13 21:30:00,Willian,Cross
+54970,36,SavedShot,0.8230000305175781,0.47200000762939454,0.09001874923706055,Pedro,h,687,OpenPlay,2015,LeftFoot,337,Chelsea,Newcastle United,5,1,2016-02-13 21:30:00,Diego Costa,Pass
+54972,46,SavedShot,0.779000015258789,0.69,0.0581686832010746,Willian,h,700,DirectFreekick,2015,RightFoot,337,Chelsea,Newcastle United,5,1,2016-02-13 21:30:00,,Standard
+54977,58,Goal,0.8630000305175781,0.580999984741211,0.39346346259117126,Pedro,h,687,OpenPlay,2015,RightFoot,337,Chelsea,Newcastle United,5,1,2016-02-13 21:30:00,Cesc Fàbregas,Throughball
+54978,78,BlockedShot,0.7859999847412109,0.500999984741211,0.03950393199920654,Bertrand Traoré,h,695,OpenPlay,2015,LeftFoot,337,Chelsea,Newcastle United,5,1,2016-02-13 21:30:00,,None
+54979,78,BlockedShot,0.764000015258789,0.49900001525878906,0.030761169269680977,Cesc Fàbregas,h,686,OpenPlay,2015,RightFoot,337,Chelsea,Newcastle United,5,1,2016-02-13 21:30:00,César Azpilicueta,Pass
+54980,78,MissedShots,0.7809999847412109,0.695,0.02652624249458313,Abdul Rahman Baba,h,684,OpenPlay,2015,RightFoot,337,Chelsea,Newcastle United,5,1,2016-02-13 21:30:00,Cesc Fàbregas,TakeOn
+54981,82,Goal,0.9290000152587891,0.46,0.515527606010437,Bertrand Traoré,h,695,OpenPlay,2015,LeftFoot,337,Chelsea,Newcastle United,5,1,2016-02-13 21:30:00,César Azpilicueta,Cross
+54962,10,BlockedShot,0.735999984741211,0.61,0.011990496888756752,Jonjo Shelvey,a,769,OpenPlay,2015,RightFoot,337,Chelsea,Newcastle United,5,1,2016-02-13 21:30:00,Andros Townsend,Pass
+54963,11,SavedShot,0.8019999694824219,0.715,0.01975320279598236,Andros Townsend,a,775,OpenPlay,2015,RightFoot,337,Chelsea,Newcastle United,5,1,2016-02-13 21:30:00,Georginio Wijnaldum,Pass
+54964,14,MissedShots,0.8730000305175781,0.41,0.009133376181125641,Moussa Sissoko,a,772,SetPiece,2015,Head,337,Chelsea,Newcastle United,5,1,2016-02-13 21:30:00,Jonjo Shelvey,Aerial
+54969,34,SavedShot,0.875,0.46,0.06488299369812012,Georginio Wijnaldum,a,771,OpenPlay,2015,RightFoot,337,Chelsea,Newcastle United,5,1,2016-02-13 21:30:00,Daryl Janmaat,Cross
+54971,44,BlockedShot,0.7440000152587891,0.6140000152587891,0.011908876709640026,Jonjo Shelvey,a,769,OpenPlay,2015,LeftFoot,337,Chelsea,Newcastle United,5,1,2016-02-13 21:30:00,,None
+54973,51,BlockedShot,0.9119999694824219,0.42900001525878906,0.07955329120159149,Aleksandar Mitrovic,a,773,OpenPlay,2015,RightFoot,337,Chelsea,Newcastle United,5,1,2016-02-13 21:30:00,Andros Townsend,Cross
+54974,51,BlockedShot,0.9069999694824219,0.5220000076293946,0.1278877556324005,Jonjo Shelvey,a,769,OpenPlay,2015,RightFoot,337,Chelsea,Newcastle United,5,1,2016-02-13 21:30:00,,Rebound
+54975,56,BlockedShot,0.8180000305175781,0.4470000076293945,0.05483977496623993,Jonjo Shelvey,a,769,OpenPlay,2015,RightFoot,337,Chelsea,Newcastle United,5,1,2016-02-13 21:30:00,Jack Colback,Pass
+54976,57,MissedShots,0.879000015258789,0.34200000762939453,0.0234305988997221,Aleksandar Mitrovic,a,773,OpenPlay,2015,RightFoot,337,Chelsea,Newcastle United,5,1,2016-02-13 21:30:00,,Aerial
+54982,89,Goal,0.7880000305175782,0.445,0.03745705634355545,Andros Townsend,a,775,OpenPlay,2015,LeftFoot,337,Chelsea,Newcastle United,5,1,2016-02-13 21:30:00,Jack Colback,Pass

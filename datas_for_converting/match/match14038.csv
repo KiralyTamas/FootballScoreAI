@@ -1,0 +1,13 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+376079,1,MissedShots,0.9259999847412109,0.5159999847412109,0.05016494169831276,Alexander Sobolev,h,5397,FromCorner,2020,Head,14038,Spartak Moscow,Arsenal Tula,2,1,2020-08-29 15:00:00,Roman Zobnin,Aerial
+376080,13,MissedShots,0.715,0.47299999237060547,0.04132113978266716,Jordan Larsson,h,7770,DirectFreekick,2020,LeftFoot,14038,Spartak Moscow,Arsenal Tula,2,1,2020-08-29 15:00:00,,Standard
+376083,40,Goal,0.8959999847412109,0.6140000152587891,0.432597279548645,Alexander Sobolev,h,5397,OpenPlay,2020,RightFoot,14038,Spartak Moscow,Arsenal Tula,2,1,2020-08-29 15:00:00,Zelimkhan Bakaev,TakeOn
+376085,45,BlockedShot,0.7880000305175782,0.6329999923706054,0.03791118413209915,Ayrton Lucas,h,7475,OpenPlay,2020,RightFoot,14038,Spartak Moscow,Arsenal Tula,2,1,2020-08-29 15:00:00,,None
+376084,47,Goal,0.9230000305175782,0.524000015258789,0.3514617085456848,Samuel Gigot,h,6773,SetPiece,2020,Head,14038,Spartak Moscow,Arsenal Tula,2,1,2020-08-29 15:00:00,Jordan Larsson,Cross
+376088,84,SavedShot,0.7330000305175781,0.4329999923706055,0.016436735168099403,Jordan Larsson,h,7770,OpenPlay,2020,LeftFoot,14038,Spartak Moscow,Arsenal Tula,2,1,2020-08-29 15:00:00,Oston Urunov,Pass
+376089,85,MissedShots,0.950999984741211,0.5070000076293946,0.07814905792474747,Samuel Gigot,h,6773,FromCorner,2020,Head,14038,Spartak Moscow,Arsenal Tula,2,1,2020-08-29 15:00:00,Roman Zobnin,Aerial
+376081,35,BlockedShot,0.7759999847412109,0.5929999923706055,0.026047775521874428,Vladislav Panteleev,a,7260,OpenPlay,2020,RightFoot,14038,Spartak Moscow,Arsenal Tula,2,1,2020-08-29 15:00:00,Daniil Lesovoy,Pass
+376082,35,Goal,0.9490000152587891,0.565,0.33063703775405884,Daniil Khlusevich,a,7183,FromCorner,2020,OtherBodyPart,14038,Spartak Moscow,Arsenal Tula,2,1,2020-08-29 15:00:00,Kings Kangwa,Cross
+376086,69,BlockedShot,0.750999984741211,0.639000015258789,0.017757495865225792,Kings Kangwa,a,7630,OpenPlay,2020,RightFoot,14038,Spartak Moscow,Arsenal Tula,2,1,2020-08-29 15:00:00,,None
+376087,71,SavedShot,0.7090000152587891,0.3729999923706055,0.034847501665353775,Igor Gorbatenko,a,3151,DirectFreekick,2020,LeftFoot,14038,Spartak Moscow,Arsenal Tula,2,1,2020-08-29 15:00:00,,Standard
+376090,92,MissedShots,0.8159999847412109,0.53,0.04566013813018799,Sergey Tkachev,a,2880,SetPiece,2020,LeftFoot,14038,Spartak Moscow,Arsenal Tula,2,1,2020-08-29 15:00:00,,None

@@ -1,0 +1,22 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+255324,5,BlockedShot,0.955999984741211,0.51,0.11372942477464676,Robert Lewandowski,h,227,OpenPlay,2018,Head,10391,Bayern Munich,Borussia M.Gladbach,0,3,2018-10-06 16:30:00,Arjen Robben,Aerial
+255325,5,BlockedShot,0.7519999694824219,0.624000015258789,0.014901285991072655,David Alaba,h,391,OpenPlay,2018,RightFoot,10391,Bayern Munich,Borussia M.Gladbach,0,3,2018-10-06 16:30:00,,Rebound
+255327,11,MissedShots,0.735999984741211,0.40599998474121096,0.015179632231593132,Thomas Müller,h,224,OpenPlay,2018,RightFoot,10391,Bayern Munich,Borussia M.Gladbach,0,3,2018-10-06 16:30:00,,BallRecovery
+255330,31,SavedShot,0.9590000152587891,0.38299999237060545,0.062355756759643555,Arjen Robben,h,392,OpenPlay,2018,LeftFoot,10391,Bayern Munich,Borussia M.Gladbach,0,3,2018-10-06 16:30:00,Thomas Müller,HeadPass
+255331,32,MissedShots,0.9259999847412109,0.625,0.049134209752082825,Mats Hummels,h,373,OpenPlay,2018,RightFoot,10391,Bayern Munich,Borussia M.Gladbach,0,3,2018-10-06 16:30:00,,Aerial
+255332,34,MissedShots,0.725999984741211,0.5729999923706055,0.016965551301836967,Leon Goretzka,h,335,OpenPlay,2018,RightFoot,10391,Bayern Munich,Borussia M.Gladbach,0,3,2018-10-06 16:30:00,Mats Hummels,Pass
+255333,34,SavedShot,0.92,0.6409999847412109,0.08036437630653381,Robert Lewandowski,h,227,OpenPlay,2018,LeftFoot,10391,Bayern Munich,Borussia M.Gladbach,0,3,2018-10-06 16:30:00,Leon Goretzka,Pass
+255334,40,MissedShots,0.909000015258789,0.435,0.05031872168183327,Thomas Müller,h,224,OpenPlay,2018,Head,10391,Bayern Munich,Borussia M.Gladbach,0,3,2018-10-06 16:30:00,,None
+255337,62,SavedShot,0.89,0.7169999694824218,0.028429480269551277,Franck Ribéry,h,329,OpenPlay,2018,RightFoot,10391,Bayern Munich,Borussia M.Gladbach,0,3,2018-10-06 16:30:00,James Rodríguez,Chipped
+255338,62,MissedShots,0.8980000305175782,0.44599998474121094,0.0737939104437828,James Rodríguez,h,2249,OpenPlay,2018,LeftFoot,10391,Bayern Munich,Borussia M.Gladbach,0,3,2018-10-06 16:30:00,Franck Ribéry,Chipped
+255339,69,BlockedShot,0.779000015258789,0.49900001525878906,0.025303373113274574,Thiago Alcántara,h,229,OpenPlay,2018,RightFoot,10391,Bayern Munich,Borussia M.Gladbach,0,3,2018-10-06 16:30:00,,None
+255341,79,BlockedShot,0.7440000152587891,0.46900001525878904,0.01889335736632347,James Rodríguez,h,2249,OpenPlay,2018,LeftFoot,10391,Bayern Munich,Borussia M.Gladbach,0,3,2018-10-06 16:30:00,Franck Ribéry,Pass
+255342,81,MissedShots,0.915,0.2520000076293945,0.02800619974732399,Serge Gnabry,h,993,OpenPlay,2018,LeftFoot,10391,Bayern Munich,Borussia M.Gladbach,0,3,2018-10-06 16:30:00,Leon Goretzka,TakeOn
+255343,85,MissedShots,0.795,0.675,0.019842620939016342,Renato Sanches,h,5228,OpenPlay,2018,RightFoot,10391,Bayern Munich,Borussia M.Gladbach,0,3,2018-10-06 16:30:00,Joshua Kimmich,Pass
+255326,9,Goal,0.759000015258789,0.664000015258789,0.021645622327923775,Alassane Pléa,a,3310,OpenPlay,2018,RightFoot,10391,Bayern Munich,Borussia M.Gladbach,0,3,2018-10-06 16:30:00,Jonas Hofmann,Pass
+255328,15,Goal,0.86,0.51,0.15769971907138824,Lars Stindl,a,208,OpenPlay,2018,RightFoot,10391,Bayern Munich,Borussia M.Gladbach,0,3,2018-10-06 16:30:00,Jonas Hofmann,TakeOn
+255329,22,MissedShots,0.7340000152587891,0.4540000152587891,0.02157200686633587,Alassane Pléa,a,3310,OpenPlay,2018,RightFoot,10391,Bayern Munich,Borussia M.Gladbach,0,3,2018-10-06 16:30:00,,BallRecovery
+255335,47,MissedShots,0.5409999847412109,0.629000015258789,0.009134463034570217,Jonas Hofmann,a,320,OpenPlay,2018,RightFoot,10391,Bayern Munich,Borussia M.Gladbach,0,3,2018-10-06 16:30:00,,BallRecovery
+255336,58,MissedShots,0.7440000152587891,0.2520000076293945,0.021021299064159393,Thorgan Hazard,a,213,OpenPlay,2018,RightFoot,10391,Bayern Munich,Borussia M.Gladbach,0,3,2018-10-06 16:30:00,Florian Neuhaus,Pass
+255340,69,MissedShots,0.789000015258789,0.36700000762939455,0.08753672242164612,Florian Neuhaus,a,7065,OpenPlay,2018,RightFoot,10391,Bayern Munich,Borussia M.Gladbach,0,3,2018-10-06 16:30:00,Alassane Pléa,Pass
+255344,87,Goal,0.915,0.5840000152587891,0.24044832587242126,Patrick Herrmann,a,420,FromCorner,2018,RightFoot,10391,Bayern Munich,Borussia M.Gladbach,0,3,2018-10-06 16:30:00,Christoph Kramer,Chipped

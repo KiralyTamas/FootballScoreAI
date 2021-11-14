@@ -1,0 +1,25 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+90106,0,MissedShots,0.7390000152587891,0.605,0.013734431006014347,Cristiano Ronaldo,h,2371,OpenPlay,2015,RightFoot,1650,Real Madrid,Atletico Madrid,0,1,2016-02-27 19:00:00,,None
+90108,16,MissedShots,0.865,0.49900001525878906,0.04367072507739067,Raphael Varane,h,2245,SetPiece,2015,Head,1650,Real Madrid,Atletico Madrid,0,1,2016-02-27 19:00:00,Toni Kroos,Cross
+90109,20,MissedShots,0.765,0.3270000076293945,0.02288772352039814,Cristiano Ronaldo,h,2371,OpenPlay,2015,LeftFoot,1650,Real Madrid,Atletico Madrid,0,1,2016-02-27 19:00:00,Luka Modric,Pass
+90111,31,SavedShot,0.765,0.7140000152587891,0.05350295826792717,Cristiano Ronaldo,h,2371,DirectFreekick,2015,RightFoot,1650,Real Madrid,Atletico Madrid,0,1,2016-02-27 19:00:00,,Standard
+90112,31,BlockedShot,0.8190000152587891,0.4779999923706055,0.033717524260282516,James Rodríguez,h,2249,SetPiece,2015,LeftFoot,1650,Real Madrid,Atletico Madrid,0,1,2016-02-27 19:00:00,Isco,Pass
+90113,31,MissedShots,0.879000015258789,0.345,0.0498429611325264,Karim Benzema,h,2370,SetPiece,2015,RightFoot,1650,Real Madrid,Atletico Madrid,0,1,2016-02-27 19:00:00,,Rebound
+90117,44,BlockedShot,0.755,0.624000015258789,0.016890890896320343,Toni Kroos,h,2369,FromCorner,2015,LeftFoot,1650,Real Madrid,Atletico Madrid,0,1,2016-02-27 19:00:00,,None
+90118,47,MissedShots,0.875,0.35700000762939454,0.06172913312911987,Cristiano Ronaldo,h,2371,OpenPlay,2015,RightFoot,1650,Real Madrid,Atletico Madrid,0,1,2016-02-27 19:00:00,,None
+90121,66,MissedShots,0.8769999694824219,0.6880000305175781,0.060675907880067825,Borja Mayoral,h,2252,OpenPlay,2015,LeftFoot,1650,Real Madrid,Atletico Madrid,0,1,2016-02-27 19:00:00,Luka Modric,TakeOn
+90122,67,SavedShot,0.9130000305175782,0.49900001525878906,0.350210040807724,Cristiano Ronaldo,h,2371,OpenPlay,2015,Head,1650,Real Madrid,Atletico Madrid,0,1,2016-02-27 19:00:00,Daniel Carvajal,Cross
+90123,70,MissedShots,0.9290000152587891,0.6270000076293946,0.07040613144636154,Borja Mayoral,h,2252,OpenPlay,2015,LeftFoot,1650,Real Madrid,Atletico Madrid,0,1,2016-02-27 19:00:00,Jesé,HeadPass
+90124,77,BlockedShot,0.8819999694824219,0.3370000076293945,0.06376917660236359,Luka Modric,h,2250,OpenPlay,2015,RightFoot,1650,Real Madrid,Atletico Madrid,0,1,2016-02-27 19:00:00,Daniel Carvajal,Pass
+90126,83,SavedShot,0.914000015258789,0.4570000076293945,0.045215412974357605,Cristiano Ronaldo,h,2371,OpenPlay,2015,Head,1650,Real Madrid,Atletico Madrid,0,1,2016-02-27 19:00:00,,Aerial
+90128,87,MissedShots,0.884000015258789,0.645,0.08815213292837143,Danilo,h,2244,OpenPlay,2015,LeftFoot,1650,Real Madrid,Atletico Madrid,0,1,2016-02-27 19:00:00,Jesé,Pass
+90129,93,BlockedShot,0.7219999694824218,0.6309999847412109,0.011478575877845287,Cristiano Ronaldo,h,2371,OpenPlay,2015,RightFoot,1650,Real Madrid,Atletico Madrid,0,1,2016-02-27 19:00:00,,None
+90107,9,MissedShots,0.740999984741211,0.4909999847412109,0.020247790962457657,Augusto Fernández,a,2267,OpenPlay,2015,LeftFoot,1650,Real Madrid,Atletico Madrid,0,1,2016-02-27 19:00:00,Antoine Griezmann,Pass
+90110,25,BlockedShot,0.9009999847412109,0.685,0.04943982511758804,Fernando Torres,a,2271,OpenPlay,2015,LeftFoot,1650,Real Madrid,Atletico Madrid,0,1,2016-02-27 19:00:00,Koke,Pass
+90114,39,SavedShot,0.7709999847412109,0.6630000305175782,0.022483596578240395,Antoine Griezmann,a,2270,OpenPlay,2015,LeftFoot,1650,Real Madrid,Atletico Madrid,0,1,2016-02-27 19:00:00,Saúl Ñíguez,Pass
+90115,41,SavedShot,0.9309999847412109,0.25299999237060544,0.03186973184347153,Koke,a,2269,OpenPlay,2015,RightFoot,1650,Real Madrid,Atletico Madrid,0,1,2016-02-27 19:00:00,Juanfran,Pass
+90116,42,MissedShots,0.9230000305175782,0.4640000152587891,0.10857386887073517,Diego Godín,a,2264,FromCorner,2015,Head,1650,Real Madrid,Atletico Madrid,0,1,2016-02-27 19:00:00,Koke,Cross
+90119,52,Goal,0.8819999694824219,0.5829999923706055,0.10828514397144318,Antoine Griezmann,a,2270,OpenPlay,2015,LeftFoot,1650,Real Madrid,Atletico Madrid,0,1,2016-02-27 19:00:00,Filipe Luis,Pass
+90120,65,SavedShot,0.935,0.36700000762939455,0.32325437664985657,Saúl Ñíguez,a,2266,OpenPlay,2015,LeftFoot,1650,Real Madrid,Atletico Madrid,0,1,2016-02-27 19:00:00,Antoine Griezmann,HeadPass
+90125,82,SavedShot,0.815,0.12300000190734864,0.011688079684972763,Saúl Ñíguez,a,2266,OpenPlay,2015,LeftFoot,1650,Real Madrid,Atletico Madrid,0,1,2016-02-27 19:00:00,,None
+90127,85,MissedShots,0.7880000305175782,0.21700000762939453,0.0195004902780056,Antoine Griezmann,a,2270,OpenPlay,2015,LeftFoot,1650,Real Madrid,Atletico Madrid,0,1,2016-02-27 19:00:00,,Dispossessed

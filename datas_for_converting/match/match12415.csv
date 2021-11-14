@@ -1,0 +1,26 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+312383,5,OwnGoal,0.04199999809265137,0.4779999923706055,0,Lewis Baker,h,4510,OpenPlay,2019,RightFoot,12415,Fortuna Duesseldorf,Bayer Leverkusen,1,3,2019-08-24 14:30:00,,TakeOn
+312385,14,BlockedShot,0.81,0.475,0.15141138434410095,Kaan Ayhan,h,347,DirectFreekick,2019,RightFoot,12415,Fortuna Duesseldorf,Bayer Leverkusen,1,3,2019-08-24 14:30:00,,Standard
+312387,22,SavedShot,0.8590000152587891,0.64,0.03393228352069855,Markus Suttner,h,379,OpenPlay,2019,LeftFoot,12415,Fortuna Duesseldorf,Bayer Leverkusen,1,3,2019-08-24 14:30:00,Matthias Zimmermann,Cross
+312389,26,SavedShot,0.75,0.655,0.018706200644373894,Rouwen Hennings,h,7060,OpenPlay,2019,LeftFoot,12415,Fortuna Duesseldorf,Bayer Leverkusen,1,3,2019-08-24 14:30:00,Markus Suttner,Pass
+312391,35,BlockedShot,0.8190000152587891,0.33599998474121096,0.05021445080637932,Kenan Karaman,h,98,OpenPlay,2019,LeftFoot,12415,Fortuna Duesseldorf,Bayer Leverkusen,1,3,2019-08-24 14:30:00,Erik Thommy,TakeOn
+312396,55,SavedShot,0.7669999694824219,0.6079999923706054,0.07310524582862854,Lewis Baker,h,4510,DirectFreekick,2019,RightFoot,12415,Fortuna Duesseldorf,Bayer Leverkusen,1,3,2019-08-24 14:30:00,,Standard
+312398,63,BlockedShot,0.9069999694824219,0.34299999237060547,0.013117502443492413,Dawid Kownacki,h,6190,FromCorner,2019,Head,12415,Fortuna Duesseldorf,Bayer Leverkusen,1,3,2019-08-24 14:30:00,Erik Thommy,Cross
+312400,69,SavedShot,0.7330000305175781,0.5179999923706055,0.013542329892516136,Adam Bodzek,h,7140,OpenPlay,2019,RightFoot,12415,Fortuna Duesseldorf,Bayer Leverkusen,1,3,2019-08-24 14:30:00,,None
+312401,75,MissedShots,0.73,0.5540000152587891,0.014499575830996037,Alfredo Morales,h,252,OpenPlay,2019,RightFoot,12415,Fortuna Duesseldorf,Bayer Leverkusen,1,3,2019-08-24 14:30:00,Niko Gießelmann,Pass
+312402,79,MissedShots,0.9469999694824218,0.4570000076293945,0.4397618770599365,Kaan Ayhan,h,347,SetPiece,2019,Head,12415,Fortuna Duesseldorf,Bayer Leverkusen,1,3,2019-08-24 14:30:00,Niko Gießelmann,Chipped
+312403,80,SavedShot,0.9340000152587891,0.25,0.03079887665808201,Dawid Kownacki,h,6190,OpenPlay,2019,RightFoot,12415,Fortuna Duesseldorf,Bayer Leverkusen,1,3,2019-08-24 14:30:00,Rouwen Hennings,Pass
+312404,81,Goal,0.9259999847412109,0.40299999237060546,0.23703841865062714,Alfredo Morales,h,252,OpenPlay,2019,RightFoot,12415,Fortuna Duesseldorf,Bayer Leverkusen,1,3,2019-08-24 14:30:00,,TakeOn
+312405,84,MissedShots,0.8069999694824219,0.6029999923706054,0.044046517461538315,Alfredo Morales,h,252,OpenPlay,2019,LeftFoot,12415,Fortuna Duesseldorf,Bayer Leverkusen,1,3,2019-08-24 14:30:00,Adam Bodzek,Pass
+312382,3,SavedShot,0.7930000305175782,0.38599998474121094,0.033041201531887054,Kevin Volland,a,83,OpenPlay,2019,LeftFoot,12415,Fortuna Duesseldorf,Bayer Leverkusen,1,3,2019-08-24 14:30:00,Kai Havertz,Pass
+312384,6,BlockedShot,0.9590000152587891,0.30700000762939456,0.07443694770336151,Karim Bellarabi,a,186,OpenPlay,2019,RightFoot,12415,Fortuna Duesseldorf,Bayer Leverkusen,1,3,2019-08-24 14:30:00,,Dispossessed
+312386,20,BlockedShot,0.9569999694824218,0.435,0.2151089906692505,Sven Bender,a,311,FromCorner,2019,Head,12415,Fortuna Duesseldorf,Bayer Leverkusen,1,3,2019-08-24 14:30:00,Kerem Demirbay,Aerial
+312388,24,MissedShots,0.8490000152587891,0.36900001525878906,0.06277275085449219,Kerem Demirbay,a,5273,OpenPlay,2019,LeftFoot,12415,Fortuna Duesseldorf,Bayer Leverkusen,1,3,2019-08-24 14:30:00,Kevin Volland,Pass
+312390,32,Goal,0.9309999847412109,0.43099998474121093,0.08630092442035675,Charles Aránguiz,a,454,SetPiece,2019,RightFoot,12415,Fortuna Duesseldorf,Bayer Leverkusen,1,3,2019-08-24 14:30:00,Kerem Demirbay,Chipped
+312392,38,Goal,0.9309999847412109,0.46,0.5773439407348633,Karim Bellarabi,a,186,OpenPlay,2019,LeftFoot,12415,Fortuna Duesseldorf,Bayer Leverkusen,1,3,2019-08-24 14:30:00,Kevin Volland,Pass
+312393,45,SavedShot,0.8969999694824219,0.3579999923706055,0.27698448300361633,Karim Bellarabi,a,186,OpenPlay,2019,RightFoot,12415,Fortuna Duesseldorf,Bayer Leverkusen,1,3,2019-08-24 14:30:00,Leon Bailey,Pass
+312394,52,BlockedShot,0.885,0.57,0.06605032086372375,Sven Bender,a,311,FromCorner,2019,RightFoot,12415,Fortuna Duesseldorf,Bayer Leverkusen,1,3,2019-08-24 14:30:00,,Foul
+312395,53,BlockedShot,0.7380000305175781,0.5359999847412109,0.05965215712785721,Kerem Demirbay,a,5273,DirectFreekick,2019,LeftFoot,12415,Fortuna Duesseldorf,Bayer Leverkusen,1,3,2019-08-24 14:30:00,,Standard
+312397,57,MissedShots,0.8569999694824219,0.769000015258789,0.03959187492728233,Kerem Demirbay,a,5273,OpenPlay,2019,LeftFoot,12415,Fortuna Duesseldorf,Bayer Leverkusen,1,3,2019-08-24 14:30:00,Wendell,Pass
+312399,63,SavedShot,0.9319999694824219,0.3240000152587891,0.26739415526390076,Karim Bellarabi,a,186,OpenPlay,2019,RightFoot,12415,Fortuna Duesseldorf,Bayer Leverkusen,1,3,2019-08-24 14:30:00,Kevin Volland,Pass
+312406,88,SavedShot,0.8519999694824218,0.33,0.06601627916097641,Lucas Alario,a,6338,OpenPlay,2019,RightFoot,12415,Fortuna Duesseldorf,Bayer Leverkusen,1,3,2019-08-24 14:30:00,Nadiem Amiri,Pass

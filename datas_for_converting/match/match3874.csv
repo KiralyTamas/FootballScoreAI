@@ -1,0 +1,32 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+133641,1,Goal,0.9530000305175781,0.46,0.5519655346870422,Marcel Sabitzer,h,5248,OpenPlay,2016,Head,3874,RasenBallsport Leipzig,Bayern Munich,4,5,2017-05-13 14:30:00,Emil Forsberg,Aerial
+133642,2,BlockedShot,0.9330000305175781,0.585,0.11212467402219772,Yussuf Poulsen,h,5250,OpenPlay,2016,RightFoot,3874,RasenBallsport Leipzig,Bayern Munich,4,5,2017-05-13 14:30:00,Timo Werner,Cross
+133643,3,BlockedShot,0.7709999847412109,0.735,0.020028196275234222,Naby Keita,h,5247,FromCorner,2016,RightFoot,3874,RasenBallsport Leipzig,Bayern Munich,4,5,2017-05-13 14:30:00,Marcel Sabitzer,Pass
+133644,3,MissedShots,0.8819999694824219,0.37400001525878906,0.08970433473587036,Marcel Sabitzer,h,5248,OpenPlay,2016,RightFoot,3874,RasenBallsport Leipzig,Bayern Munich,4,5,2017-05-13 14:30:00,Stefan Ilsanker,Pass
+133645,11,ShotOnPost,0.8969999694824219,0.710999984741211,0.10774938762187958,Timo Werner,h,65,OpenPlay,2016,RightFoot,3874,RasenBallsport Leipzig,Bayern Munich,4,5,2017-05-13 14:30:00,Yussuf Poulsen,Chipped
+133649,22,SavedShot,0.904000015258789,0.5940000152587891,0.106971375644207,Marcel Sabitzer,h,5248,OpenPlay,2016,LeftFoot,3874,RasenBallsport Leipzig,Bayern Munich,4,5,2017-05-13 14:30:00,Naby Keita,Pass
+133650,24,SavedShot,0.8930000305175781,0.42200000762939455,0.08027971535921097,Bernardo,h,5245,FromCorner,2016,LeftFoot,3874,RasenBallsport Leipzig,Bayern Munich,4,5,2017-05-13 14:30:00,Dayotchanculle Upamecano,HeadPass
+133652,26,MissedShots,0.745999984741211,0.5570000076293945,0.03479166328907013,Emil Forsberg,h,5249,OpenPlay,2016,RightFoot,3874,RasenBallsport Leipzig,Bayern Munich,4,5,2017-05-13 14:30:00,Yussuf Poulsen,Pass
+133653,28,Goal,0.885,0.5,0.75777667760849,Timo Werner,h,65,Penalty,2016,RightFoot,3874,RasenBallsport Leipzig,Bayern Munich,4,5,2017-05-13 14:30:00,,Standard
+133656,46,Goal,0.84,0.4929999923706055,0.10011467337608337,Yussuf Poulsen,h,5250,OpenPlay,2016,RightFoot,3874,RasenBallsport Leipzig,Bayern Munich,4,5,2017-05-13 14:30:00,Emil Forsberg,Pass
+133662,64,Goal,0.9690000152587891,0.664000015258789,0.08558948338031769,Timo Werner,h,65,OpenPlay,2016,RightFoot,3874,RasenBallsport Leipzig,Bayern Munich,4,5,2017-05-13 14:30:00,,TakeOn
+133646,13,SavedShot,0.9169999694824219,0.2979999923706055,0.04607808589935303,Arjen Robben,a,392,OpenPlay,2016,LeftFoot,3874,RasenBallsport Leipzig,Bayern Munich,4,5,2017-05-13 14:30:00,,None
+133647,16,Goal,0.885,0.5,0.75777667760849,Robert Lewandowski,a,227,Penalty,2016,RightFoot,3874,RasenBallsport Leipzig,Bayern Munich,4,5,2017-05-13 14:30:00,,Standard
+133648,20,MissedShots,0.865999984741211,0.24899999618530275,0.029182666912674904,Arjen Robben,a,392,OpenPlay,2016,LeftFoot,3874,RasenBallsport Leipzig,Bayern Munich,4,5,2017-05-13 14:30:00,Thiago Alcántara,Pass
+133651,24,SavedShot,0.9330000305175781,0.685,0.05835197865962982,Juan Bernat,a,414,OpenPlay,2016,LeftFoot,3874,RasenBallsport Leipzig,Bayern Munich,4,5,2017-05-13 14:30:00,Franck Ribéry,Pass
+133654,32,MissedShots,0.7719999694824219,0.42700000762939455,0.02467702515423298,Robert Lewandowski,a,227,OpenPlay,2016,RightFoot,3874,RasenBallsport Leipzig,Bayern Munich,4,5,2017-05-13 14:30:00,Franck Ribéry,Pass
+133655,45,MissedShots,0.720999984741211,0.5509999847412109,0.017364712432026863,David Alaba,a,391,OpenPlay,2016,LeftFoot,3874,RasenBallsport Leipzig,Bayern Munich,4,5,2017-05-13 14:30:00,Joshua Kimmich,Pass
+133657,48,BlockedShot,0.8519999694824218,0.645,0.06131232529878616,Douglas Costa,a,393,OpenPlay,2016,LeftFoot,3874,RasenBallsport Leipzig,Bayern Munich,4,5,2017-05-13 14:30:00,Arjen Robben,Pass
+133658,50,MissedShots,0.915,0.43900001525878907,0.35995563864707947,Robert Lewandowski,a,227,OpenPlay,2016,RightFoot,3874,RasenBallsport Leipzig,Bayern Munich,4,5,2017-05-13 14:30:00,Arjen Robben,Throughball
+133659,59,Goal,0.9540000152587891,0.46599998474121096,0.3990476131439209,Thiago Alcántara,a,229,FromCorner,2016,Head,3874,RasenBallsport Leipzig,Bayern Munich,4,5,2017-05-13 14:30:00,Xabi Alonso,HeadPass
+133660,61,BlockedShot,0.7880000305175782,0.305,0.019848236814141273,Arjen Robben,a,392,OpenPlay,2016,LeftFoot,3874,RasenBallsport Leipzig,Bayern Munich,4,5,2017-05-13 14:30:00,Philipp Lahm,Pass
+133661,62,BlockedShot,0.754000015258789,0.6,0.018832474946975708,Douglas Costa,a,393,OpenPlay,2016,LeftFoot,3874,RasenBallsport Leipzig,Bayern Munich,4,5,2017-05-13 14:30:00,,None
+133663,66,ShotOnPost,0.9380000305175781,0.4759999847412109,0.5672972798347473,Robert Lewandowski,a,227,OpenPlay,2016,RightFoot,3874,RasenBallsport Leipzig,Bayern Munich,4,5,2017-05-13 14:30:00,Philipp Lahm,Pass
+133664,74,SavedShot,0.8069999694824219,0.34799999237060547,0.0963653028011322,David Alaba,a,391,DirectFreekick,2016,LeftFoot,3874,RasenBallsport Leipzig,Bayern Munich,4,5,2017-05-13 14:30:00,,Standard
+133665,83,ShotOnPost,0.7930000305175782,0.2929999923706055,0.018702464178204536,Arjen Robben,a,392,SetPiece,2016,LeftFoot,3874,RasenBallsport Leipzig,Bayern Munich,4,5,2017-05-13 14:30:00,Thiago Alcántara,Pass
+133666,83,Goal,0.95,0.5220000076293946,0.5083140730857849,Robert Lewandowski,a,227,SetPiece,2016,Head,3874,RasenBallsport Leipzig,Bayern Munich,4,5,2017-05-13 14:30:00,,Rebound
+133667,84,MissedShots,0.865,0.49900001525878906,0.03326823562383652,Robert Lewandowski,a,227,OpenPlay,2016,Head,3874,RasenBallsport Leipzig,Bayern Munich,4,5,2017-05-13 14:30:00,Philipp Lahm,Cross
+133668,86,MissedShots,0.8119999694824219,0.805,0.046524859964847565,Douglas Costa,a,393,DirectFreekick,2016,LeftFoot,3874,RasenBallsport Leipzig,Bayern Munich,4,5,2017-05-13 14:30:00,,Standard
+133669,90,Goal,0.7480000305175781,0.4540000152587891,0.06618117541074753,David Alaba,a,391,DirectFreekick,2016,LeftFoot,3874,RasenBallsport Leipzig,Bayern Munich,4,5,2017-05-13 14:30:00,,Standard
+133670,93,SavedShot,0.8780000305175781,0.455,0.0407826192677021,Thomas Müller,a,224,OpenPlay,2016,Head,3874,RasenBallsport Leipzig,Bayern Munich,4,5,2017-05-13 14:30:00,Jérôme Boateng,Chipped
+133671,94,Goal,0.905,0.40700000762939453,0.4565119445323944,Arjen Robben,a,392,OpenPlay,2016,LeftFoot,3874,RasenBallsport Leipzig,Bayern Munich,4,5,2017-05-13 14:30:00,Thomas Müller,TakeOn

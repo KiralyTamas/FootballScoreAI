@@ -1,0 +1,31 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+257106,8,SavedShot,0.904000015258789,0.5070000076293946,0.08805162459611893,Maximilian Arnold,h,153,OpenPlay,2018,LeftFoot,10462,Wolfsburg,Hoffenheim,2,2,2018-12-08 14:30:00,Jérôme Roussillon,Cross
+257107,14,BlockedShot,0.750999984741211,0.6020000076293945,0.020792026072740555,Maximilian Arnold,h,153,OpenPlay,2018,LeftFoot,10462,Wolfsburg,Hoffenheim,2,2,2018-12-08 14:30:00,Daniel Ginczek,Pass
+257112,30,Goal,0.8690000152587891,0.3220000076293945,0.12047962099313736,Daniel Ginczek,h,426,OpenPlay,2018,RightFoot,10462,Wolfsburg,Hoffenheim,2,2,2018-12-08 14:30:00,Admir Mehmedi,Throughball
+257113,32,MissedShots,0.7290000152587891,0.46299999237060546,0.013545750640332699,Admir Mehmedi,h,194,OpenPlay,2018,RightFoot,10462,Wolfsburg,Hoffenheim,2,2,2018-12-08 14:30:00,,Aerial
+257114,43,MissedShots,0.899000015258789,0.40400001525878904,0.013339840807020664,Felix Uduokhai,h,6100,FromCorner,2018,Head,10462,Wolfsburg,Hoffenheim,2,2,2018-12-08 14:30:00,Admir Mehmedi,Aerial
+257116,51,SavedShot,0.72,0.45099998474121095,0.04856611043214798,Maximilian Arnold,h,153,DirectFreekick,2018,LeftFoot,10462,Wolfsburg,Hoffenheim,2,2,2018-12-08 14:30:00,,Standard
+257117,55,MissedShots,0.69,0.5370000076293945,0.016604356467723846,Jérôme Roussillon,h,3339,FromCorner,2018,LeftFoot,10462,Wolfsburg,Hoffenheim,2,2,2018-12-08 14:30:00,Paul Verhaegh,Pass
+257120,61,MissedShots,0.825,0.5320000076293945,0.12370563298463821,Wout Weghorst,h,7052,OpenPlay,2018,RightFoot,10462,Wolfsburg,Hoffenheim,2,2,2018-12-08 14:30:00,Yannick Gerhardt,BallTouch
+257133,86,BlockedShot,0.8180000305175781,0.38599998474121094,0.04853808507323265,Renato Steffen,h,6484,OpenPlay,2018,LeftFoot,10462,Wolfsburg,Hoffenheim,2,2,2018-12-08 14:30:00,Maximilian Arnold,Pass
+257134,92,MissedShots,0.7830000305175782,0.27100000381469724,0.0217618215829134,Renato Steffen,h,6484,OpenPlay,2018,LeftFoot,10462,Wolfsburg,Hoffenheim,2,2,2018-12-08 14:30:00,Yannick Gerhardt,Pass
+257105,3,Goal,0.875,0.355,0.05336477607488632,Ishak Belfodil,a,3834,OpenPlay,2018,RightFoot,10462,Wolfsburg,Hoffenheim,2,2,2018-12-08 14:30:00,Andrej Kramaric,Chipped
+257108,17,BlockedShot,0.850999984741211,0.4520000076293945,0.09586940705776215,Pavel Kaderábek,a,74,OpenPlay,2018,RightFoot,10462,Wolfsburg,Hoffenheim,2,2,2018-12-08 14:30:00,Kerem Demirbay,BallTouch
+257109,17,BlockedShot,0.7859999847412109,0.41900001525878905,0.03630634769797325,Kerem Demirbay,a,5273,OpenPlay,2018,RightFoot,10462,Wolfsburg,Hoffenheim,2,2,2018-12-08 14:30:00,,Rebound
+257110,22,MissedShots,0.9059999847412109,0.3820000076293945,0.14034292101860046,Joelinton,a,87,OpenPlay,2018,RightFoot,10462,Wolfsburg,Hoffenheim,2,2,2018-12-08 14:30:00,,BallRecovery
+257111,27,OwnGoal,0.034000000953674316,0.5579999923706055,0,Ermin Bicakcic,a,84,OpenPlay,2018,Head,10462,Wolfsburg,Hoffenheim,2,2,2018-12-08 14:30:00,,Challenge
+257115,48,MissedShots,0.8030000305175782,0.7019999694824218,0.018735401332378387,Andrej Kramaric,a,956,OpenPlay,2018,RightFoot,10462,Wolfsburg,Hoffenheim,2,2,2018-12-08 14:30:00,Ádám Szalai,HeadPass
+257118,56,BlockedShot,0.8190000152587891,0.5690000152587891,0.046385690569877625,Florian Grillitsch,a,116,OpenPlay,2018,RightFoot,10462,Wolfsburg,Hoffenheim,2,2,2018-12-08 14:30:00,,None
+257119,60,BlockedShot,0.7169999694824218,0.4370000076293945,0.017817849293351173,Joelinton,a,87,OpenPlay,2018,RightFoot,10462,Wolfsburg,Hoffenheim,2,2,2018-12-08 14:30:00,Florian Grillitsch,Pass
+257121,66,MissedShots,0.8569999694824219,0.46900001525878904,0.082699716091156,Ádám Szalai,a,360,OpenPlay,2018,RightFoot,10462,Wolfsburg,Hoffenheim,2,2,2018-12-08 14:30:00,Reiss Nelson,Pass
+257122,69,BlockedShot,0.7909999847412109,0.7669999694824219,0.0487687774002552,Andrej Kramaric,a,956,DirectFreekick,2018,RightFoot,10462,Wolfsburg,Hoffenheim,2,2,2018-12-08 14:30:00,,Standard
+257123,69,SavedShot,0.9390000152587891,0.549000015258789,0.0800095796585083,Ishak Belfodil,a,3834,SetPiece,2018,Head,10462,Wolfsburg,Hoffenheim,2,2,2018-12-08 14:30:00,Andrej Kramaric,None
+257124,70,BlockedShot,0.965999984741211,0.41900001525878905,0.2762892544269562,Pavel Kaderábek,a,74,OpenPlay,2018,Head,10462,Wolfsburg,Hoffenheim,2,2,2018-12-08 14:30:00,Joelinton,Cross
+257125,70,Goal,0.9940000152587891,0.52,0.9649989604949951,Andrej Kramaric,a,956,OpenPlay,2018,LeftFoot,10462,Wolfsburg,Hoffenheim,2,2,2018-12-08 14:30:00,Pavel Kaderábek,None
+257126,73,SavedShot,0.8009999847412109,0.4229999923706055,0.03856663405895233,Joelinton,a,87,OpenPlay,2018,LeftFoot,10462,Wolfsburg,Hoffenheim,2,2,2018-12-08 14:30:00,Florian Grillitsch,Pass
+257127,74,SavedShot,0.9019999694824219,0.40400001525878904,0.029562124982476234,Joelinton,a,87,OpenPlay,2018,Head,10462,Wolfsburg,Hoffenheim,2,2,2018-12-08 14:30:00,Nico Schulz,Aerial
+257128,75,MissedShots,0.9130000305175782,0.7530000305175781,0.0337446965277195,Nico Schulz,a,433,OpenPlay,2018,LeftFoot,10462,Wolfsburg,Hoffenheim,2,2,2018-12-08 14:30:00,Andrej Kramaric,Pass
+257129,77,BlockedShot,0.8159999847412109,0.695,0.033294957131147385,Joelinton,a,87,OpenPlay,2018,RightFoot,10462,Wolfsburg,Hoffenheim,2,2,2018-12-08 14:30:00,Reiss Nelson,TakeOn
+257130,79,SavedShot,0.7869999694824219,0.40599998474121096,0.032758407294750214,Ishak Belfodil,a,3834,OpenPlay,2018,RightFoot,10462,Wolfsburg,Hoffenheim,2,2,2018-12-08 14:30:00,Florian Grillitsch,Pass
+257131,80,BlockedShot,0.7519999694824219,0.5109999847412109,0.02366708219051361,Andrej Kramaric,a,956,OpenPlay,2018,LeftFoot,10462,Wolfsburg,Hoffenheim,2,2,2018-12-08 14:30:00,Reiss Nelson,TakeOn
+257132,85,BlockedShot,0.8590000152587891,0.6719999694824219,0.05285855382680893,Andrej Kramaric,a,956,OpenPlay,2018,RightFoot,10462,Wolfsburg,Hoffenheim,2,2,2018-12-08 14:30:00,Nico Schulz,Pass

@@ -1,0 +1,30 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+310441,17,MissedShots,0.899000015258789,0.3390000152587891,0.0490996316075325,Che Adams,h,7700,FromCorner,2019,LeftFoot,11658,Southampton,Liverpool,1,2,2019-08-17 15:00:00,,None
+310442,17,MissedShots,0.925,0.519000015258789,0.3552093505859375,Maya Yoshida,h,845,FromCorner,2019,LeftFoot,11658,Southampton,Liverpool,1,2,2019-08-17 15:00:00,Che Adams,CornerAwarded
+310443,20,SavedShot,0.955,0.4809999847412109,0.3893042206764221,Maya Yoshida,h,845,FromCorner,2019,Head,11658,Southampton,Liverpool,1,2,2019-08-17 15:00:00,James Ward-Prowse,Aerial
+310444,28,BlockedShot,0.8809999847412109,0.5329999923706055,0.13340546190738678,Yan Valery,h,7280,OpenPlay,2019,LeftFoot,11658,Southampton,Liverpool,1,2,2019-08-17 15:00:00,,TakeOn
+310446,37,MissedShots,0.905,0.4809999847412109,0.25897014141082764,Che Adams,h,7700,OpenPlay,2019,Head,11658,Southampton,Liverpool,1,2,2019-08-17 15:00:00,Oriol Romeu,Cross
+310448,47,MissedShots,0.8930000305175781,0.555,0.08488458395004272,Nathan Redmond,h,790,OpenPlay,2019,OtherBodyPart,11658,Southampton,Liverpool,1,2,2019-08-17 15:00:00,Jannik Vestergaard,End
+310450,52,BlockedShot,0.7559999847412109,0.605999984741211,0.022850213572382927,Pierre-Emile Højbjerg,h,343,OpenPlay,2019,RightFoot,11658,Southampton,Liverpool,1,2,2019-08-17 15:00:00,Nathan Redmond,Pass
+310451,52,BlockedShot,0.7980000305175782,0.5070000076293946,0.04092368483543396,Pierre-Emile Højbjerg,h,343,OpenPlay,2019,RightFoot,11658,Southampton,Liverpool,1,2,2019-08-17 15:00:00,,Rebound
+310458,66,MissedShots,0.784000015258789,0.4620000076293945,0.03980564326047897,Danny Ings,h,986,OpenPlay,2019,LeftFoot,11658,Southampton,Liverpool,1,2,2019-08-17 15:00:00,Nathan Redmond,TakeOn
+310460,72,SavedShot,0.7280000305175781,0.6969999694824218,0.009775537066161633,Pierre-Emile Højbjerg,h,343,OpenPlay,2019,RightFoot,11658,Southampton,Liverpool,1,2,2019-08-17 15:00:00,,BallRecovery
+310463,79,MissedShots,0.8030000305175782,0.49900001525878906,0.03216501697897911,Nathan Redmond,h,790,FromCorner,2019,RightFoot,11658,Southampton,Liverpool,1,2,2019-08-17 15:00:00,,None
+310464,82,Goal,0.8969999694824219,0.4809999847412109,0.07845669239759445,Danny Ings,h,986,OpenPlay,2019,RightFoot,11658,Southampton,Liverpool,1,2,2019-08-17 15:00:00,,None
+310465,85,MissedShots,0.9540000152587891,0.46099998474121096,0.5636340975761414,Danny Ings,h,986,OpenPlay,2019,RightFoot,11658,Southampton,Liverpool,1,2,2019-08-17 15:00:00,Yan Valery,Cross
+310466,91,BlockedShot,0.9619999694824218,0.575999984741211,0.08292409032583237,Danny Ings,h,986,SetPiece,2019,RightFoot,11658,Southampton,Liverpool,1,2,2019-08-17 15:00:00,James Ward-Prowse,End
+310438,3,SavedShot,0.8019999694824219,0.4490000152587891,0.04977000132203102,James Milner,a,489,OpenPlay,2019,RightFoot,11658,Southampton,Liverpool,1,2,2019-08-17 15:00:00,Sadio Mané,Pass
+310439,6,BlockedShot,0.7280000305175781,0.46,0.012998651713132858,James Milner,a,489,FromCorner,2019,RightFoot,11658,Southampton,Liverpool,1,2,2019-08-17 15:00:00,,Aerial
+310440,12,MissedShots,0.885,0.285,0.038645535707473755,Alex Oxlade-Chamberlain,a,966,OpenPlay,2019,RightFoot,11658,Southampton,Liverpool,1,2,2019-08-17 15:00:00,Mohamed Salah,Pass
+310445,32,MissedShots,0.9390000152587891,0.720999984741211,0.04174170270562172,Mohamed Salah,a,1250,OpenPlay,2019,LeftFoot,11658,Southampton,Liverpool,1,2,2019-08-17 15:00:00,Alex Oxlade-Chamberlain,Chipped
+310447,45,Goal,0.835,0.6459999847412109,0.04964648559689522,Sadio Mané,a,838,OpenPlay,2019,RightFoot,11658,Southampton,Liverpool,1,2,2019-08-17 15:00:00,James Milner,Pass
+310449,49,BlockedShot,0.8009999847412109,0.31,0.07119983434677124,Mohamed Salah,a,1250,DirectFreekick,2019,LeftFoot,11658,Southampton,Liverpool,1,2,2019-08-17 15:00:00,,Standard
+310452,54,MissedShots,0.7859999847412109,0.495,0.016476290300488472,James Milner,a,489,FromCorner,2019,RightFoot,11658,Southampton,Liverpool,1,2,2019-08-17 15:00:00,,Aerial
+310453,54,MissedShots,0.9030000305175782,0.43,0.10188479721546173,Joel Matip,a,332,FromCorner,2019,LeftFoot,11658,Southampton,Liverpool,1,2,2019-08-17 15:00:00,James Milner,Rebound
+310454,55,SavedShot,0.9230000305175782,0.35700000762939454,0.30078256130218506,Mohamed Salah,a,1250,OpenPlay,2019,LeftFoot,11658,Southampton,Liverpool,1,2,2019-08-17 15:00:00,Sadio Mané,Chipped
+310455,59,BlockedShot,0.7609999847412109,0.3659999847412109,0.02556823380291462,Alex Oxlade-Chamberlain,a,966,OpenPlay,2019,RightFoot,11658,Southampton,Liverpool,1,2,2019-08-17 15:00:00,Andrew Robertson,Pass
+310456,62,MissedShots,0.7909999847412109,0.395,0.040368158370256424,James Milner,a,489,OpenPlay,2019,RightFoot,11658,Southampton,Liverpool,1,2,2019-08-17 15:00:00,Trent Alexander-Arnold,Pass
+310457,64,MissedShots,0.875999984741211,0.5429999923706055,0.35860785841941833,Roberto Firmino,a,482,OpenPlay,2019,RightFoot,11658,Southampton,Liverpool,1,2,2019-08-17 15:00:00,Sadio Mané,Pass
+310459,70,Goal,0.835,0.505,0.08791559189558029,Roberto Firmino,a,482,OpenPlay,2019,RightFoot,11658,Southampton,Liverpool,1,2,2019-08-17 15:00:00,Sadio Mané,TakeOn
+310461,74,SavedShot,0.9319999694824219,0.575999984741211,0.24510692059993744,Sadio Mané,a,838,SetPiece,2019,Head,11658,Southampton,Liverpool,1,2,2019-08-17 15:00:00,Trent Alexander-Arnold,Chipped
+310462,76,SavedShot,0.8819999694824219,0.6730000305175782,0.08118458092212677,Andrew Robertson,a,1688,OpenPlay,2019,LeftFoot,11658,Southampton,Liverpool,1,2,2019-08-17 15:00:00,Sadio Mané,Pass

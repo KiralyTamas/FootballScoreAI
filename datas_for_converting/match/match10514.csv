@@ -1,0 +1,22 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+278849,13,BlockedShot,0.8540000152587891,0.5509999847412109,0.09166409075260162,Matheus Pereira,h,7153,OpenPlay,2018,LeftFoot,10514,Nuernberg,Werder Bremen,1,1,2019-02-02 14:30:00,Adam Zrelák,Pass
+278850,15,MissedShots,0.7219999694824218,0.610999984741211,0.014346896670758724,Matheus Pereira,h,7153,OpenPlay,2018,LeftFoot,10514,Nuernberg,Werder Bremen,1,1,2019-02-02 14:30:00,Adam Zrelák,Dispossessed
+278851,24,MissedShots,0.9009999847412109,0.5279999923706055,0.06658809632062912,Adam Zrelák,h,7242,FromCorner,2018,Head,10514,Nuernberg,Werder Bremen,1,1,2019-02-02 14:30:00,Enrico Valentini,Cross
+278854,46,BlockedShot,0.769000015258789,0.30100000381469727,0.011726749129593372,Federico Palacios,h,5309,SetPiece,2018,RightFoot,10514,Nuernberg,Werder Bremen,1,1,2019-02-02 14:30:00,,None
+278861,67,BlockedShot,0.8680000305175781,0.5179999923706055,0.06823834776878357,Hanno Behrens,h,7035,OpenPlay,2018,LeftFoot,10514,Nuernberg,Werder Bremen,1,1,2019-02-02 14:30:00,Enrico Valentini,Cross
+278862,67,BlockedShot,0.8669999694824219,0.46299999237060546,0.09211272746324539,Hanno Behrens,h,7035,OpenPlay,2018,RightFoot,10514,Nuernberg,Werder Bremen,1,1,2019-02-02 14:30:00,,TakeOn
+278863,72,SavedShot,0.9009999847412109,0.6969999694824218,0.04911226034164429,Matheus Pereira,h,7153,OpenPlay,2018,LeftFoot,10514,Nuernberg,Werder Bremen,1,1,2019-02-02 14:30:00,Sebastian Kerk,Chipped
+278864,72,MissedShots,0.9359999847412109,0.5459999847412109,0.5333825349807739,Hanno Behrens,h,7035,OpenPlay,2018,RightFoot,10514,Nuernberg,Werder Bremen,1,1,2019-02-02 14:30:00,,Rebound
+278865,74,MissedShots,0.905,0.33099998474121095,0.011052640154957771,Georg Margreitter,h,7031,FromCorner,2018,Head,10514,Nuernberg,Werder Bremen,1,1,2019-02-02 14:30:00,Enrico Valentini,Aerial
+278866,77,MissedShots,0.924000015258789,0.485,0.10907892882823944,Hanno Behrens,h,7035,FromCorner,2018,RightFoot,10514,Nuernberg,Werder Bremen,1,1,2019-02-02 14:30:00,Enrico Valentini,Cross
+278868,85,Goal,0.895,0.6140000152587891,0.07856512814760208,Mikael Ishak,h,7038,OpenPlay,2018,LeftFoot,10514,Nuernberg,Werder Bremen,1,1,2019-02-02 14:30:00,Matheus Pereira,Pass
+278852,38,BlockedShot,0.8619999694824219,0.28200000762939453,0.11108655482530594,Maximilian Eggestein,a,125,OpenPlay,2018,RightFoot,10514,Nuernberg,Werder Bremen,1,1,2019-02-02 14:30:00,Theodor Gebre Selassie,Throughball
+278853,41,BlockedShot,0.875,0.6780000305175782,0.07840690016746521,Ludwig Augustinsson,a,6083,OpenPlay,2018,LeftFoot,10514,Nuernberg,Werder Bremen,1,1,2019-02-02 14:30:00,,TakeOn
+278855,46,MissedShots,0.9259999847412109,0.43400001525878906,0.03244110941886902,Joshua Sargent,a,7295,FromCorner,2018,Head,10514,Nuernberg,Werder Bremen,1,1,2019-02-02 14:30:00,Ludwig Augustinsson,Aerial
+278856,58,SavedShot,0.7780000305175782,0.66,0.022479629144072533,Maximilian Eggestein,a,125,OpenPlay,2018,LeftFoot,10514,Nuernberg,Werder Bremen,1,1,2019-02-02 14:30:00,Johannes Eggestein,Pass
+278857,62,BlockedShot,0.7219999694824218,0.52,0.016088103875517845,Nuri Sahin,a,2642,OpenPlay,2018,LeftFoot,10514,Nuernberg,Werder Bremen,1,1,2019-02-02 14:30:00,,BallRecovery
+278858,62,MissedShots,0.9019999694824219,0.635,0.057619858533144,Ludwig Augustinsson,a,6083,OpenPlay,2018,LeftFoot,10514,Nuernberg,Werder Bremen,1,1,2019-02-02 14:30:00,Max Kruse,Cross
+278859,63,Goal,0.9669999694824218,0.45599998474121095,0.6694180965423584,Johannes Eggestein,a,6084,OpenPlay,2018,RightFoot,10514,Nuernberg,Werder Bremen,1,1,2019-02-02 14:30:00,,Rebound
+278860,65,BlockedShot,0.740999984741211,0.5179999923706055,0.030216708779335022,Davy Klaassen,a,6045,OpenPlay,2018,RightFoot,10514,Nuernberg,Werder Bremen,1,1,2019-02-02 14:30:00,Joshua Sargent,TakeOn
+278867,79,SavedShot,0.9059999847412109,0.57,0.0915491133928299,Theodor Gebre Selassie,a,110,FromCorner,2018,RightFoot,10514,Nuernberg,Werder Bremen,1,1,2019-02-02 14:30:00,Milos Veljkovic,HeadPass
+278869,88,BlockedShot,0.9069999694824219,0.7180000305175781,0.039186399430036545,Ludwig Augustinsson,a,6083,OpenPlay,2018,LeftFoot,10514,Nuernberg,Werder Bremen,1,1,2019-02-02 14:30:00,Davy Klaassen,TakeOn

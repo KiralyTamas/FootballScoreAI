@@ -1,0 +1,24 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+63910,40,SavedShot,0.8130000305175781,0.6780000305175782,0.028620779514312744,Jean Deza,h,3742,OpenPlay,2015,RightFoot,1972,Montpellier,SC Bastia,2,0,2015-10-24 22:00:00,Ryad Boudebouz,Pass
+63911,41,MissedShots,0.6840000152587891,0.500999984741211,0.016581941395998,Jean Deza,h,3742,SetPiece,2015,RightFoot,1972,Montpellier,SC Bastia,2,0,2015-10-24 22:00:00,Jonas Martin,Pass
+63915,53,BlockedShot,0.945,0.34400001525878904,0.01721692457795143,Hilton,h,3337,SetPiece,2015,Head,1972,Montpellier,SC Bastia,2,0,2015-10-24 22:00:00,Ryad Boudebouz,Cross
+63926,61,MissedShots,0.7030000305175781,0.695,0.015836499631404877,Casimir Ninga,h,3344,OpenPlay,2015,RightFoot,1972,Montpellier,SC Bastia,2,0,2015-10-24 22:00:00,Jérôme Roussillon,Pass
+63927,62,Goal,0.845999984741211,0.6170000076293946,0.07207772135734558,Ryad Boudebouz,h,3343,OpenPlay,2015,RightFoot,1972,Montpellier,SC Bastia,2,0,2015-10-24 22:00:00,Casimir Ninga,Pass
+63928,78,BlockedShot,0.785,0.2989999961853027,0.06130978837609291,Ryad Boudebouz,h,3343,DirectFreekick,2015,LeftFoot,1972,Montpellier,SC Bastia,2,0,2015-10-24 22:00:00,,Standard
+63930,78,BlockedShot,0.705999984741211,0.6480000305175782,0.01523494627326727,Mathieu Deplagne,h,3351,SetPiece,2015,LeftFoot,1972,Montpellier,SC Bastia,2,0,2015-10-24 22:00:00,Jonas Martin,Pass
+63931,82,MissedShots,0.8390000152587891,0.41,0.05723496899008751,Souleymane Camara,h,3590,OpenPlay,2015,LeftFoot,1972,Montpellier,SC Bastia,2,0,2015-10-24 22:00:00,Ramy Bensebaini,TakeOn
+63932,85,MissedShots,0.7469999694824219,0.685,0.015012813732028008,Casimir Ninga,h,3344,OpenPlay,2015,RightFoot,1972,Montpellier,SC Bastia,2,0,2015-10-24 22:00:00,Jonas Martin,TakeOn
+63936,87,Goal,0.8980000305175782,0.485,0.07027733325958252,Casimir Ninga,h,3344,FromCorner,2015,RightFoot,1972,Montpellier,SC Bastia,2,0,2015-10-24 22:00:00,Hilton,Cross
+63904,2,BlockedShot,0.870999984741211,0.7090000152587891,0.02852158434689045,Julian Palmieri,a,3546,FromCorner,2015,LeftFoot,1972,Montpellier,SC Bastia,2,0,2015-10-24 22:00:00,,None
+63905,3,BlockedShot,0.82,0.26799999237060546,0.01967114582657814,Floyd Ayité,a,3328,OpenPlay,2015,RightFoot,1972,Montpellier,SC Bastia,2,0,2015-10-24 22:00:00,Gaël Danic,Pass
+63906,6,MissedShots,0.915,0.46599998474121096,0.035698529332876205,Floyd Ayité,a,3328,FromCorner,2015,Head,1972,Montpellier,SC Bastia,2,0,2015-10-24 22:00:00,Gaël Danic,Aerial
+63907,13,MissedShots,0.8730000305175781,0.355,0.06794128566980362,Floyd Ayité,a,3328,OpenPlay,2015,LeftFoot,1972,Montpellier,SC Bastia,2,0,2015-10-24 22:00:00,Axel Ngando,Pass
+63908,25,BlockedShot,0.7369999694824219,0.46,0.020303435623645782,Floyd Ayité,a,3328,OpenPlay,2015,RightFoot,1972,Montpellier,SC Bastia,2,0,2015-10-24 22:00:00,Seko Fofana,Pass
+63909,32,SavedShot,0.8640000152587891,0.5279999923706055,0.03009120747447014,Julian Palmieri,a,3546,OpenPlay,2015,Head,1972,Montpellier,SC Bastia,2,0,2015-10-24 22:00:00,Gaël Danic,Cross
+63912,48,MissedShots,0.8069999694824219,0.37400001525878906,0.039921827614307404,Axel Ngando,a,3331,OpenPlay,2015,LeftFoot,1972,Montpellier,SC Bastia,2,0,2015-10-24 22:00:00,Floyd Ayité,Pass
+63913,50,BlockedShot,0.825,0.5170000076293946,0.18838436901569366,Gaël Danic,a,3329,DirectFreekick,2015,LeftFoot,1972,Montpellier,SC Bastia,2,0,2015-10-24 22:00:00,,Standard
+63914,50,MissedShots,0.774000015258789,0.7130000305175781,0.013078062795102596,Seko Fofana,a,1144,SetPiece,2015,LeftFoot,1972,Montpellier,SC Bastia,2,0,2015-10-24 22:00:00,Mathieu Peybernes,Rebound
+63917,54,MissedShots,0.8919999694824219,0.5359999847412109,0.3144664168357849,Seko Fofana,a,1144,OpenPlay,2015,RightFoot,1972,Montpellier,SC Bastia,2,0,2015-10-24 22:00:00,Mathieu Peybernes,Cross
+63922,54,BlockedShot,0.879000015258789,0.3629999923706055,0.05988822504878044,Floyd Ayité,a,3328,OpenPlay,2015,RightFoot,1972,Montpellier,SC Bastia,2,0,2015-10-24 22:00:00,Seko Fofana,Rebound
+63923,55,BlockedShot,0.799000015258789,0.6519999694824219,0.021395016461610794,Julian Palmieri,a,3546,FromCorner,2015,LeftFoot,1972,Montpellier,SC Bastia,2,0,2015-10-24 22:00:00,,None
+63924,55,MissedShots,0.885,0.5790000152587891,0.07850074023008347,Axel Ngando,a,3331,OpenPlay,2015,RightFoot,1972,Montpellier,SC Bastia,2,0,2015-10-24 22:00:00,,None

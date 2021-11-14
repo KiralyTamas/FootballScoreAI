@@ -1,0 +1,23 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+145726,5,BlockedShot,0.815,0.575,0.043438419699668884,Matteo Politano,h,1473,OpenPlay,2016,LeftFoot,3557,Sassuolo,Juventus,0,2,2017-01-29 17:00:00,Lorenzo Pellegrini,Pass
+145727,5,BlockedShot,0.7340000152587891,0.53,0.018543263897299767,Luca Mazzitelli,h,1477,OpenPlay,2016,RightFoot,3557,Sassuolo,Juventus,0,2,2017-01-29 17:00:00,Matteo Politano,Pass
+145735,29,MissedShots,0.8030000305175782,0.5870000076293945,0.034098125994205475,Lorenzo Pellegrini,h,1471,OpenPlay,2016,LeftFoot,3557,Sassuolo,Juventus,0,2,2017-01-29 17:00:00,Matteo Politano,Pass
+145736,42,MissedShots,0.909000015258789,0.42400001525878905,0.047608256340026855,Domenico Berardi,h,1612,SetPiece,2016,OtherBodyPart,3557,Sassuolo,Juventus,0,2,2017-01-29 17:00:00,Federico Peluso,Cross
+145737,45,SavedShot,0.765,0.639000015258789,0.014660035260021687,Lorenzo Pellegrini,h,1471,OpenPlay,2016,LeftFoot,3557,Sassuolo,Juventus,0,2,2017-01-29 17:00:00,,None
+145741,57,SavedShot,0.924000015258789,0.28899999618530275,0.05815167725086212,Matteo Politano,h,1473,OpenPlay,2016,RightFoot,3557,Sassuolo,Juventus,0,2,2017-01-29 17:00:00,Alessandro Matri,TakeOn
+145742,57,SavedShot,0.97,0.42700000762939455,0.40664932131767273,Alessandro Matri,h,1472,OpenPlay,2016,RightFoot,3557,Sassuolo,Juventus,0,2,2017-01-29 17:00:00,,Rebound
+145747,80,MissedShots,0.7730000305175782,0.5670000076293945,0.02434813603758812,Antonino Ragusa,h,1481,OpenPlay,2016,RightFoot,3557,Sassuolo,Juventus,0,2,2017-01-29 17:00:00,Gregoire Defrel,Pass
+145728,6,MissedShots,0.8059999847412109,0.32799999237060545,0.02355366386473179,Gonzalo Higuaín,a,1293,OpenPlay,2016,RightFoot,3557,Sassuolo,Juventus,0,2,2017-01-29 17:00:00,Juan Cuadrado,Pass
+145729,8,Goal,0.9230000305175782,0.5359999847412109,0.3701443374156952,Gonzalo Higuaín,a,1293,OpenPlay,2016,RightFoot,3557,Sassuolo,Juventus,0,2,2017-01-29 17:00:00,Alex Sandro,Cross
+145730,17,MissedShots,0.8730000305175781,0.5429999923706055,0.012502738274633884,Giorgio Chiellini,a,1576,SetPiece,2016,Head,3557,Sassuolo,Juventus,0,2,2017-01-29 17:00:00,Miralem Pjanic,Aerial
+145731,20,MissedShots,0.855999984741211,0.49900001525878906,0.07414945214986801,Gonzalo Higuaín,a,1293,OpenPlay,2016,RightFoot,3557,Sassuolo,Juventus,0,2,2017-01-29 17:00:00,Mario Mandzukic,Cross
+145732,24,Goal,0.8490000152587891,0.5479999923706055,0.09318070858716965,Sami Khedira,a,1292,OpenPlay,2016,RightFoot,3557,Sassuolo,Juventus,0,2,2017-01-29 17:00:00,Gonzalo Higuaín,Pass
+145733,29,BlockedShot,0.8109999847412109,0.580999984741211,0.13231723010540009,Miralem Pjanic,a,1290,DirectFreekick,2016,RightFoot,3557,Sassuolo,Juventus,0,2,2017-01-29 17:00:00,,Standard
+145734,29,SavedShot,0.82,0.645,0.025109920650720596,Miralem Pjanic,a,1290,SetPiece,2016,LeftFoot,3557,Sassuolo,Juventus,0,2,2017-01-29 17:00:00,,Rebound
+145738,46,MissedShots,0.8530000305175781,0.5029999923706054,0.12060626596212387,Juan Cuadrado,a,1089,OpenPlay,2016,RightFoot,3557,Sassuolo,Juventus,0,2,2017-01-29 17:00:00,Mario Mandzukic,Pass
+145739,53,ShotOnPost,0.7609999847412109,0.47200000762939454,0.03147237002849579,Paulo Dybala,a,1294,OpenPlay,2016,LeftFoot,3557,Sassuolo,Juventus,0,2,2017-01-29 17:00:00,Juan Cuadrado,Pass
+145740,56,SavedShot,0.7580000305175781,0.575999984741211,0.022234952077269554,Miralem Pjanic,a,1290,OpenPlay,2016,RightFoot,3557,Sassuolo,Juventus,0,2,2017-01-29 17:00:00,,None
+145743,63,MissedShots,0.8719999694824219,0.445,0.02055201679468155,Giorgio Chiellini,a,1576,FromCorner,2016,Head,3557,Sassuolo,Juventus,0,2,2017-01-29 17:00:00,Paulo Dybala,Cross
+145744,68,SavedShot,0.9359999847412109,0.39599998474121095,0.5014864206314087,Gonzalo Higuaín,a,1293,OpenPlay,2016,RightFoot,3557,Sassuolo,Juventus,0,2,2017-01-29 17:00:00,Juan Cuadrado,Throughball
+145745,68,MissedShots,0.9690000152587891,0.61,0.01797046884894371,Mario Mandzukic,a,1295,OpenPlay,2016,Head,3557,Sassuolo,Juventus,0,2,2017-01-29 17:00:00,Miralem Pjanic,Aerial
+145746,70,MissedShots,0.91,0.629000015258789,0.09463370591402054,Mario Mandzukic,a,1295,OpenPlay,2016,LeftFoot,3557,Sassuolo,Juventus,0,2,2017-01-29 17:00:00,Juan Cuadrado,Cross

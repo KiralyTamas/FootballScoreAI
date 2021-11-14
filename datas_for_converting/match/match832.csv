@@ -1,0 +1,29 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+98140,7,BlockedShot,0.8619999694824219,0.6880000305175781,0.037064652889966965,Mário Rui,h,1792,OpenPlay,2015,LeftFoot,832,Empoli,Sampdoria,1,1,2016-03-12 21:00:00,Massimo Maccarone,Pass
+98142,13,SavedShot,0.7919999694824219,0.33599998474121096,0.021721085533499718,Leandro Paredes,h,1248,OpenPlay,2015,RightFoot,832,Empoli,Sampdoria,1,1,2016-03-12 21:00:00,Piotr Zielinski,Pass
+98144,19,SavedShot,0.9630000305175781,0.6580000305175782,0.1127668097615242,Riccardo Saponara,h,1313,OpenPlay,2015,LeftFoot,832,Empoli,Sampdoria,1,1,2016-03-12 21:00:00,Piotr Zielinski,Throughball
+98145,19,MissedShots,0.965999984741211,0.41900001525878905,0.43680769205093384,Massimo Maccarone,h,1315,OpenPlay,2015,RightFoot,832,Empoli,Sampdoria,1,1,2016-03-12 21:00:00,,Rebound
+98146,22,ShotOnPost,0.7830000305175782,0.6480000305175782,0.2687791883945465,Manuel Pucciarelli,h,1318,OpenPlay,2015,LeftFoot,832,Empoli,Sampdoria,1,1,2016-03-12 21:00:00,Leandro Paredes,Throughball
+98149,36,SavedShot,0.7580000305175781,0.215,0.0125056691467762,Vincent Laurini,h,1306,OpenPlay,2015,RightFoot,832,Empoli,Sampdoria,1,1,2016-03-12 21:00:00,Leandro Paredes,Pass
+98152,46,SavedShot,0.86,0.6680000305175782,0.057076968252658844,Massimo Maccarone,h,1315,OpenPlay,2015,RightFoot,832,Empoli,Sampdoria,1,1,2016-03-12 21:00:00,Mário Rui,TakeOn
+98155,58,BlockedShot,0.8190000152587891,0.3120000076293945,0.03087220899760723,Levan Mchedlidze,h,1319,OpenPlay,2015,LeftFoot,832,Empoli,Sampdoria,1,1,2016-03-12 21:00:00,Manuel Pucciarelli,Pass
+98156,59,BlockedShot,0.8490000152587891,0.44099998474121094,0.07577063888311386,Manuel Pucciarelli,h,1318,OpenPlay,2015,RightFoot,832,Empoli,Sampdoria,1,1,2016-03-12 21:00:00,Levan Mchedlidze,Pass
+98159,73,MissedShots,0.8130000305175781,0.5070000076293946,0.03767821937799454,Piotr Zielinski,h,1386,FromCorner,2015,LeftFoot,832,Empoli,Sampdoria,1,1,2016-03-12 21:00:00,,None
+98160,76,MissedShots,0.909000015258789,0.44099998474121094,0.09797558188438416,Levan Mchedlidze,h,1319,OpenPlay,2015,LeftFoot,832,Empoli,Sampdoria,1,1,2016-03-12 21:00:00,Manuel Pucciarelli,Cross
+98161,79,BlockedShot,0.8180000305175781,0.46599998474121096,0.04450566694140434,Daniele Croce,h,1312,OpenPlay,2015,RightFoot,832,Empoli,Sampdoria,1,1,2016-03-12 21:00:00,Riccardo Saponara,Pass
+98162,81,Goal,0.9730000305175781,0.5609999847412109,0.5210387110710144,Vincent Laurini,h,1306,SetPiece,2015,Head,832,Empoli,Sampdoria,1,1,2016-03-12 21:00:00,Mário Rui,Cross
+98163,87,BlockedShot,0.865,0.6140000152587891,0.06316209584474564,Levan Mchedlidze,h,1319,OpenPlay,2015,RightFoot,832,Empoli,Sampdoria,1,1,2016-03-12 21:00:00,,None
+98164,88,BlockedShot,0.89,0.6659999847412109,0.06950948387384415,Manuel Pucciarelli,h,1318,OpenPlay,2015,RightFoot,832,Empoli,Sampdoria,1,1,2016-03-12 21:00:00,Levan Mchedlidze,Pass
+98139,4,BlockedShot,0.754000015258789,0.5609999847412109,0.06550510227680206,Fernando,a,1937,DirectFreekick,2015,RightFoot,832,Empoli,Sampdoria,1,1,2016-03-12 21:00:00,,Standard
+98141,12,MissedShots,0.7769999694824219,0.7819999694824219,0.015404823236167431,Fernando,a,1937,FromCorner,2015,RightFoot,832,Empoli,Sampdoria,1,1,2016-03-12 21:00:00,Ricardo Álvarez,Pass
+98143,14,SavedShot,0.88,0.2979999923706055,0.04369650408625603,Fabio Quagliarella,a,1230,OpenPlay,2015,RightFoot,832,Empoli,Sampdoria,1,1,2016-03-12 21:00:00,,None
+98147,25,SavedShot,0.8009999847412109,0.6769999694824219,0.027468927204608917,Roberto Soriano,a,1810,OpenPlay,2015,RightFoot,832,Empoli,Sampdoria,1,1,2016-03-12 21:00:00,Antonio Cassano,Pass
+98148,33,MissedShots,0.8530000305175781,0.3039999961853027,0.03825851529836655,Fabio Quagliarella,a,1230,OpenPlay,2015,LeftFoot,832,Empoli,Sampdoria,1,1,2016-03-12 21:00:00,,None
+98150,37,BlockedShot,0.749000015258789,0.6070000076293945,0.02183236926794052,Antonio Cassano,a,1939,OpenPlay,2015,RightFoot,832,Empoli,Sampdoria,1,1,2016-03-12 21:00:00,Ricardo Álvarez,Pass
+98151,41,Goal,0.9069999694824219,0.625,0.09990978986024857,Fabio Quagliarella,a,1230,OpenPlay,2015,RightFoot,832,Empoli,Sampdoria,1,1,2016-03-12 21:00:00,Antonio Cassano,Pass
+98153,49,MissedShots,0.899000015258789,0.500999984741211,0.0628209039568901,Andrea Ranocchia,a,1522,FromCorner,2015,Head,832,Empoli,Sampdoria,1,1,2016-03-12 21:00:00,Fernando,Cross
+98154,58,SavedShot,0.8619999694824219,0.4829999923706055,0.12293454259634018,Roberto Soriano,a,1810,OpenPlay,2015,LeftFoot,832,Empoli,Sampdoria,1,1,2016-03-12 21:00:00,Fabio Quagliarella,LayOff
+98157,66,MissedShots,0.8380000305175781,0.5629999923706055,0.09292656183242798,Fabio Quagliarella,a,1230,OpenPlay,2015,RightFoot,832,Empoli,Sampdoria,1,1,2016-03-12 21:00:00,Dodô,Pass
+98158,69,MissedShots,0.899000015258789,0.355,0.07690402120351791,Fabio Quagliarella,a,1230,OpenPlay,2015,RightFoot,832,Empoli,Sampdoria,1,1,2016-03-12 21:00:00,Ricardo Álvarez,Chipped
+98165,90,MissedShots,0.7580000305175781,0.5709999847412109,0.018450824543833733,Joaquín Correa,a,1809,OpenPlay,2015,RightFoot,832,Empoli,Sampdoria,1,1,2016-03-12 21:00:00,Roberto Soriano,TakeOn
+98166,93,SavedShot,0.7830000305175782,0.66,0.06861868500709534,Lazaros Christodoulopoulos,a,1940,DirectFreekick,2015,RightFoot,832,Empoli,Sampdoria,1,1,2016-03-12 21:00:00,,Standard

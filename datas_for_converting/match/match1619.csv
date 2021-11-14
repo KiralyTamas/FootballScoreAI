@@ -1,0 +1,20 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+89231,18,MissedShots,0.9019999694824219,0.6990000152587891,0.051743462681770325,Antoine Griezmann,h,2270,OpenPlay,2015,LeftFoot,1619,Atletico Madrid,Eibar,3,1,2016-02-06 19:00:00,Jesús Gámez,Chipped
+89233,22,MissedShots,0.7469999694824219,0.500999984741211,0.021591544151306152,Gabi,h,2268,OpenPlay,2015,RightFoot,1619,Atletico Madrid,Eibar,3,1,2016-02-06 19:00:00,Ángel Correa,Pass
+89235,33,MissedShots,0.8419999694824218,0.32,0.04625300318002701,Ángel Correa,h,2275,OpenPlay,2015,RightFoot,1619,Atletico Madrid,Eibar,3,1,2016-02-06 19:00:00,,Tackle
+89238,54,SavedShot,0.9680000305175781,0.4570000076293945,0.13577120006084442,Ángel Correa,h,2275,SetPiece,2015,Head,1619,Atletico Madrid,Eibar,3,1,2016-02-06 19:00:00,Saúl Ñíguez,HeadPass
+89239,54,BlockedShot,0.8290000152587891,0.6959999847412109,0.02430536225438118,Yannick Carrasco,h,2272,FromCorner,2015,RightFoot,1619,Atletico Madrid,Eibar,3,1,2016-02-06 19:00:00,,None
+89240,55,BlockedShot,0.840999984741211,0.6329999923706054,0.03989678621292114,Yannick Carrasco,h,2272,FromCorner,2015,LeftFoot,1619,Atletico Madrid,Eibar,3,1,2016-02-06 19:00:00,,None
+89241,55,Goal,0.99,0.5279999923706055,0.8357200026512146,Giménez,h,2278,FromCorner,2015,Head,1619,Atletico Madrid,Eibar,3,1,2016-02-06 19:00:00,Koke,Cross
+89242,62,Goal,0.93,0.485,0.06502018868923187,Saúl Ñíguez,h,2266,FromCorner,2015,Head,1619,Atletico Madrid,Eibar,3,1,2016-02-06 19:00:00,Koke,Aerial
+89243,69,MissedShots,0.8580000305175781,0.7130000305175781,0.03768613561987877,Yannick Carrasco,h,2272,OpenPlay,2015,RightFoot,1619,Atletico Madrid,Eibar,3,1,2016-02-06 19:00:00,Saúl Ñíguez,Pass
+89244,77,MissedShots,0.8830000305175781,0.40599998474121096,0.3922457695007324,Fernando Torres,h,2271,OpenPlay,2015,RightFoot,1619,Atletico Madrid,Eibar,3,1,2016-02-06 19:00:00,Óliver Torres,Chipped
+89245,79,BlockedShot,0.92,0.5379999923706055,0.14599056541919708,Fernando Torres,h,2271,OpenPlay,2015,LeftFoot,1619,Atletico Madrid,Eibar,3,1,2016-02-06 19:00:00,Óliver Torres,Pass
+89246,84,MissedShots,0.7609999847412109,0.595999984741211,0.030708320438861847,Fernando Torres,h,2271,OpenPlay,2015,RightFoot,1619,Atletico Madrid,Eibar,3,1,2016-02-06 19:00:00,Koke,Pass
+89247,90,Goal,0.965999984741211,0.524000015258789,0.7431265115737915,Fernando Torres,h,2271,OpenPlay,2015,RightFoot,1619,Atletico Madrid,Eibar,3,1,2016-02-06 19:00:00,Luciano Vietto,Pass
+89230,18,MissedShots,0.6780000305175782,0.5629999923706055,0.017249630764126778,Jota,a,2132,SetPiece,2015,LeftFoot,1619,Atletico Madrid,Eibar,3,1,2016-02-06 19:00:00,Dani García,Pass
+89232,21,MissedShots,0.9319999694824219,0.629000015258789,0.012711657211184502,Mauro Dos Santos,a,2126,FromCorner,2015,Head,1619,Atletico Madrid,Eibar,3,1,2016-02-06 19:00:00,Jota,Aerial
+89234,30,MissedShots,0.740999984741211,0.48700000762939455,0.0165585745126009,Adrián,a,2133,OpenPlay,2015,LeftFoot,1619,Atletico Madrid,Eibar,3,1,2016-02-06 19:00:00,,None
+89236,43,MissedShots,0.86,0.48,0.13379551470279694,Jota,a,2132,OpenPlay,2015,LeftFoot,1619,Atletico Madrid,Eibar,3,1,2016-02-06 19:00:00,Adrián,TakeOn
+89237,45,Goal,0.815,0.48700000762939455,0.06394778937101364,Keko,a,2131,OpenPlay,2015,RightFoot,1619,Atletico Madrid,Eibar,3,1,2016-02-06 19:00:00,Sergi Enrich,Pass
+89248,93,SavedShot,0.7959999847412109,0.759000015258789,0.05608705058693886,Saúl Berjón,a,2134,DirectFreekick,2015,RightFoot,1619,Atletico Madrid,Eibar,3,1,2016-02-06 19:00:00,,Standard

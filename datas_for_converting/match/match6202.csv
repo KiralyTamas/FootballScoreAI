@@ -1,0 +1,33 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+307,0,MissedShots,0.74,0.6680000305175782,0.016442038118839264,Giannelli Imbula,h,861,OpenPlay,2014,LeftFoot,6202,Marseille,Montpellier,0,2,2014-08-17 16:00:00,André Ayew,Pass
+308,7,MissedShots,0.700999984741211,0.5059999847412109,0.015957864001393318,Florian Thauvin,h,942,SetPiece,2014,LeftFoot,6202,Marseille,Montpellier,0,2,2014-08-17 16:00:00,Giannelli Imbula,Pass
+311,23,SavedShot,0.875,0.5179999923706055,0.07517240941524506,André-Pierre Gignac,h,4747,OpenPlay,2014,LeftFoot,6202,Marseille,Montpellier,0,2,2014-08-17 16:00:00,Giannelli Imbula,BallTouch
+312,23,BlockedShot,0.925,0.6580000305175782,0.060281720012426376,Florian Thauvin,h,942,OpenPlay,2014,LeftFoot,6202,Marseille,Montpellier,0,2,2014-08-17 16:00:00,,Foul
+313,32,SavedShot,0.894000015258789,0.25799999237060545,0.036765482276678085,Florian Thauvin,h,942,OpenPlay,2014,RightFoot,6202,Marseille,Montpellier,0,2,2014-08-17 16:00:00,Giannelli Imbula,Pass
+315,36,BlockedShot,0.8830000305175781,0.2989999961853027,0.04406187683343887,Brice Dja Djédjé,h,3605,OpenPlay,2014,RightFoot,6202,Marseille,Montpellier,0,2,2014-08-17 16:00:00,Florian Thauvin,Pass
+316,39,BlockedShot,0.805,0.36400001525878906,0.02510961703956127,Romain Alessandrini,h,3394,SetPiece,2014,LeftFoot,6202,Marseille,Montpellier,0,2,2014-08-17 16:00:00,,None
+317,41,MissedShots,0.899000015258789,0.5940000152587891,0.020927099511027336,Romain Alessandrini,h,3394,OpenPlay,2014,Head,6202,Marseille,Montpellier,0,2,2014-08-17 16:00:00,Florian Thauvin,Aerial
+319,45,MissedShots,0.7669999694824219,0.305,0.019178951159119606,Florian Thauvin,h,942,OpenPlay,2014,LeftFoot,6202,Marseille,Montpellier,0,2,2014-08-17 16:00:00,Romain Alessandrini,Pass
+321,56,MissedShots,0.7730000305175782,0.664000015258789,0.019148170948028564,Giannelli Imbula,h,861,OpenPlay,2014,LeftFoot,6202,Marseille,Montpellier,0,2,2014-08-17 16:00:00,Jacques-Alaixys Romao,TakeOn
+322,65,MissedShots,0.7819999694824219,0.7630000305175781,0.04554786533117294,Dimitri Payet,h,536,DirectFreekick,2014,RightFoot,6202,Marseille,Montpellier,0,2,2014-08-17 16:00:00,,Standard
+324,68,MissedShots,0.7419999694824219,0.6469999694824219,0.009998958557844162,Dimitri Payet,h,536,OpenPlay,2014,RightFoot,6202,Marseille,Montpellier,0,2,2014-08-17 16:00:00,,None
+325,70,SavedShot,0.899000015258789,0.315,0.21557338535785675,Dimitri Payet,h,536,OpenPlay,2014,RightFoot,6202,Marseille,Montpellier,0,2,2014-08-17 16:00:00,Michy Batshuayi,Pass
+326,70,BlockedShot,0.7880000305175782,0.3340000152587891,0.015630144625902176,Florian Thauvin,h,942,OpenPlay,2014,LeftFoot,6202,Marseille,Montpellier,0,2,2014-08-17 16:00:00,,None
+327,70,ShotOnPost,0.9059999847412109,0.6759999847412109,0.043180275708436966,Romain Alessandrini,h,3394,OpenPlay,2014,LeftFoot,6202,Marseille,Montpellier,0,2,2014-08-17 16:00:00,,None
+328,73,BlockedShot,0.8590000152587891,0.43400001525878906,0.0715712234377861,Romain Alessandrini,h,3394,OpenPlay,2014,RightFoot,6202,Marseille,Montpellier,0,2,2014-08-17 16:00:00,,End
+329,73,BlockedShot,0.9119999694824219,0.54,0.12572677433490753,Benjamin Mendy,h,3389,OpenPlay,2014,LeftFoot,6202,Marseille,Montpellier,0,2,2014-08-17 16:00:00,,Rebound
+331,75,MissedShots,0.889000015258789,0.5529999923706055,0.06784598529338837,André-Pierre Gignac,h,4747,OpenPlay,2014,RightFoot,6202,Marseille,Montpellier,0,2,2014-08-17 16:00:00,Benjamin Mendy,Cross
+332,75,SavedShot,0.885,0.425,0.02594343014061451,Nicolas N&#039;Koulou,h,3387,FromCorner,2014,Head,6202,Marseille,Montpellier,0,2,2014-08-17 16:00:00,Dimitri Payet,Cross
+334,78,MissedShots,0.764000015258789,0.6419999694824219,0.016610179096460342,André-Pierre Gignac,h,4747,FromCorner,2014,RightFoot,6202,Marseille,Montpellier,0,2,2014-08-17 16:00:00,,None
+337,91,MissedShots,0.7709999847412109,0.44799999237060545,0.0382319875061512,Michy Batshuayi,h,1678,OpenPlay,2014,LeftFoot,6202,Marseille,Montpellier,0,2,2014-08-17 16:00:00,Giannelli Imbula,TakeOn
+338,92,SavedShot,0.879000015258789,0.43099998474121093,0.10232120007276535,Jérémie Porsan-Clemente,h,3734,OpenPlay,2014,RightFoot,6202,Marseille,Montpellier,0,2,2014-08-17 16:00:00,Romain Alessandrini,Pass
+309,9,SavedShot,0.855,0.6040000152587891,0.07028453797101974,Benjamin Stambouli,a,3290,OpenPlay,2014,LeftFoot,6202,Marseille,Montpellier,0,2,2014-08-17 16:00:00,,Dispossessed
+310,17,Goal,0.8919999694824219,0.7290000152587891,0.043652765452861786,Anthony Mounier,a,1451,OpenPlay,2014,LeftFoot,6202,Marseille,Montpellier,0,2,2014-08-17 16:00:00,Abdelhamid El Kaoutari,Chipped
+314,34,MissedShots,0.6680000305175782,0.605999984741211,0.028793547302484512,Morgan Sanson,a,3696,DirectFreekick,2014,RightFoot,6202,Marseille,Montpellier,0,2,2014-08-17 16:00:00,,Standard
+318,42,MissedShots,0.9230000305175782,0.67,0.0505438894033432,Benjamin Stambouli,a,3290,FromCorner,2014,LeftFoot,6202,Marseille,Montpellier,0,2,2014-08-17 16:00:00,Mathieu Deplagne,Pass
+320,54,MissedShots,0.8919999694824219,0.39799999237060546,0.08297914266586304,Lucas Barrios,a,4694,OpenPlay,2014,RightFoot,6202,Marseille,Montpellier,0,2,2014-08-17 16:00:00,Mathieu Deplagne,Cross
+323,67,Goal,0.9580000305175781,0.46299999237060546,0.6609269976615906,Morgan Sanson,a,3696,OpenPlay,2014,RightFoot,6202,Marseille,Montpellier,0,2,2014-08-17 16:00:00,Anthony Mounier,Pass
+330,73,BlockedShot,0.7759999847412109,0.38599998474121094,0.08020748943090439,Paul Lasne,a,3741,OpenPlay,2014,LeftFoot,6202,Marseille,Montpellier,0,2,2014-08-17 16:00:00,Anthony Mounier,Pass
+333,76,MissedShots,0.919000015258789,0.46,0.3659919202327728,Morgan Sanson,a,3696,OpenPlay,2014,Head,6202,Marseille,Montpellier,0,2,2014-08-17 16:00:00,Mathieu Deplagne,Cross
+335,84,MissedShots,0.845999984741211,0.44400001525878907,0.15421736240386963,Souleymane Camara,a,3590,OpenPlay,2014,LeftFoot,6202,Marseille,Montpellier,0,2,2014-08-17 16:00:00,Jonas Martin,TakeOn
+336,90,BlockedShot,0.7330000305175781,0.3370000076293945,0.021932588890194893,Benjamin Stambouli,a,3290,OpenPlay,2014,RightFoot,6202,Marseille,Montpellier,0,2,2014-08-17 16:00:00,Jonas Martin,Pass

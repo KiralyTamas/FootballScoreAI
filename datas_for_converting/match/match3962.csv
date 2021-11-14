@@ -1,0 +1,37 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+140593,6,MissedShots,0.6780000305175782,0.22399999618530272,0.013261508196592331,Samu Castillejo,h,2303,OpenPlay,2016,LeftFoot,3962,Villarreal,Real Madrid,2,3,2017-02-26 19:45:00,Mario,Pass
+140594,10,SavedShot,0.8430000305175781,0.285,0.031038833782076836,Mario,h,2296,OpenPlay,2016,RightFoot,3962,Villarreal,Real Madrid,2,3,2017-02-26 19:45:00,Manu Trigueros,Pass
+140599,26,MissedShots,0.914000015258789,0.37400001525878906,0.026148898527026176,Jonathan dos Santos,h,2307,OpenPlay,2016,Head,3962,Villarreal,Real Madrid,2,3,2017-02-26 19:45:00,Mario,Cross
+140600,28,BlockedShot,0.815,0.5279999923706055,0.05800674110651016,Jonathan dos Santos,h,2307,OpenPlay,2016,RightFoot,3962,Villarreal,Real Madrid,2,3,2017-02-26 19:45:00,Manu Trigueros,Pass
+140601,29,MissedShots,0.9359999847412109,0.44299999237060544,0.5612577795982361,Samu Castillejo,h,2303,OpenPlay,2016,RightFoot,3962,Villarreal,Real Madrid,2,3,2017-02-26 19:45:00,Cédric Bakambu,Pass
+140602,31,SavedShot,0.965999984741211,0.7290000152587891,0.03382660076022148,Cédric Bakambu,h,2306,OpenPlay,2016,LeftFoot,3962,Villarreal,Real Madrid,2,3,2017-02-26 19:45:00,Bruno,Pass
+140606,49,Goal,0.8919999694824219,0.40599998474121096,0.04544299840927124,Manu Trigueros,h,2301,OpenPlay,2016,RightFoot,3962,Villarreal,Real Madrid,2,3,2017-02-26 19:45:00,,Aerial
+140607,55,Goal,0.8490000152587891,0.52,0.0978611558675766,Cédric Bakambu,h,2306,OpenPlay,2016,LeftFoot,3962,Villarreal,Real Madrid,2,3,2017-02-26 19:45:00,Bruno,Pass
+140612,61,MissedShots,0.925,0.33099998474121095,0.07433810085058212,Samu Castillejo,h,2303,OpenPlay,2016,LeftFoot,3962,Villarreal,Real Madrid,2,3,2017-02-26 19:45:00,,None
+140625,89,BlockedShot,0.92,0.46700000762939453,0.11743123829364777,Samu Castillejo,h,2303,OpenPlay,2016,Head,3962,Villarreal,Real Madrid,2,3,2017-02-26 19:45:00,Jaume Costa,Cross
+140626,89,MissedShots,0.91,0.3820000076293945,0.07938377559185028,Jonathan dos Santos,h,2307,OpenPlay,2016,RightFoot,3962,Villarreal,Real Madrid,2,3,2017-02-26 19:45:00,,Rebound
+140592,2,MissedShots,0.769000015258789,0.789000015258789,0.01947629824280739,Cristiano Ronaldo,a,2371,OpenPlay,2016,RightFoot,3962,Villarreal,Real Madrid,2,3,2017-02-26 19:45:00,Marcelo,Pass
+140595,13,BlockedShot,0.88,0.5109999847412109,0.023975377902388573,Karim Benzema,a,2370,OpenPlay,2016,Head,3962,Villarreal,Real Madrid,2,3,2017-02-26 19:45:00,Gareth Bale,Aerial
+140596,14,BlockedShot,0.9169999694824219,0.580999984741211,0.020250452682375908,Cristiano Ronaldo,a,2371,FromCorner,2016,Head,3962,Villarreal,Real Madrid,2,3,2017-02-26 19:45:00,Toni Kroos,Aerial
+140597,14,BlockedShot,0.925,0.7130000305175781,0.020594948902726173,Cristiano Ronaldo,a,2371,OpenPlay,2016,RightFoot,3962,Villarreal,Real Madrid,2,3,2017-02-26 19:45:00,Luka Modric,Cross
+140598,23,SavedShot,0.9719999694824218,0.42700000762939455,0.07802360504865646,Karim Benzema,a,2370,OpenPlay,2016,OtherBodyPart,3962,Villarreal,Real Madrid,2,3,2017-02-26 19:45:00,Marcelo,Aerial
+140603,32,MissedShots,0.94,0.445,0.14036065340042114,Gareth Bale,a,2251,OpenPlay,2016,Head,3962,Villarreal,Real Madrid,2,3,2017-02-26 19:45:00,Marcelo,Cross
+140604,36,SavedShot,0.9569999694824218,0.629000015258789,0.056969352066516876,Karim Benzema,a,2370,OpenPlay,2016,LeftFoot,3962,Villarreal,Real Madrid,2,3,2017-02-26 19:45:00,Daniel Carvajal,Cross
+140605,46,SavedShot,0.88,0.5329999923706055,0.11716987937688828,Karim Benzema,a,2370,OpenPlay,2016,RightFoot,3962,Villarreal,Real Madrid,2,3,2017-02-26 19:45:00,Gareth Bale,Pass
+140608,58,MissedShots,0.87,0.5029999923706054,0.05165033042430878,Cristiano Ronaldo,a,2371,OpenPlay,2016,Head,3962,Villarreal,Real Madrid,2,3,2017-02-26 19:45:00,Isco,Cross
+140609,60,ShotOnPost,0.885,0.5979999923706054,0.0648401752114296,Cristiano Ronaldo,a,2371,OpenPlay,2016,LeftFoot,3962,Villarreal,Real Madrid,2,3,2017-02-26 19:45:00,,None
+140610,60,BlockedShot,0.865,0.49700000762939456,0.07679136097431183,Karim Benzema,a,2370,OpenPlay,2016,RightFoot,3962,Villarreal,Real Madrid,2,3,2017-02-26 19:45:00,,Rebound
+140611,60,MissedShots,0.750999984741211,0.5590000152587891,0.014226219616830349,Marcelo,a,2257,FromCorner,2016,LeftFoot,3962,Villarreal,Real Madrid,2,3,2017-02-26 19:45:00,,Aerial
+140613,63,Goal,0.9430000305175781,0.515,0.5190407633781433,Gareth Bale,a,2251,OpenPlay,2016,Head,3962,Villarreal,Real Madrid,2,3,2017-02-26 19:45:00,Daniel Carvajal,Cross
+140614,65,MissedShots,0.850999984741211,0.455,0.07578010857105255,Cristiano Ronaldo,a,2371,OpenPlay,2016,RightFoot,3962,Villarreal,Real Madrid,2,3,2017-02-26 19:45:00,Karim Benzema,Pass
+140615,67,BlockedShot,0.7440000152587891,0.5609999847412109,0.021633025258779526,Gareth Bale,a,2251,OpenPlay,2016,LeftFoot,3962,Villarreal,Real Madrid,2,3,2017-02-26 19:45:00,Karim Benzema,Pass
+140616,70,MissedShots,0.7780000305175782,0.6229999923706054,0.027050530537962914,Toni Kroos,a,2369,OpenPlay,2016,LeftFoot,3962,Villarreal,Real Madrid,2,3,2017-02-26 19:45:00,Daniel Carvajal,Pass
+140617,73,Goal,0.885,0.5,0.7432776093482971,Cristiano Ronaldo,a,2371,Penalty,2016,RightFoot,3962,Villarreal,Real Madrid,2,3,2017-02-26 19:45:00,,Standard
+140618,78,BlockedShot,0.8919999694824219,0.4209999847412109,0.037781160324811935,Sergio Ramos,a,2246,FromCorner,2016,Head,3962,Villarreal,Real Madrid,2,3,2017-02-26 19:45:00,Marcelo,Cross
+140619,78,BlockedShot,0.9159999847412109,0.6140000152587891,0.046039145439863205,Cristiano Ronaldo,a,2371,FromCorner,2016,RightFoot,3962,Villarreal,Real Madrid,2,3,2017-02-26 19:45:00,Sergio Ramos,Cross
+140620,78,MissedShots,0.825,0.6430000305175781,0.04672478511929512,Marcelo,a,2257,FromCorner,2016,LeftFoot,3962,Villarreal,Real Madrid,2,3,2017-02-26 19:45:00,,Rebound
+140621,79,MissedShots,0.8919999694824219,0.48900001525878906,0.07249944657087326,Álvaro Morata,a,1804,FromCorner,2016,Head,3962,Villarreal,Real Madrid,2,3,2017-02-26 19:45:00,Marcelo,Cross
+140622,82,Goal,0.9169999694824219,0.49400001525878906,0.3782319724559784,Álvaro Morata,a,1804,OpenPlay,2016,Head,3962,Villarreal,Real Madrid,2,3,2017-02-26 19:45:00,Marcelo,Cross
+140623,86,BlockedShot,0.754000015258789,0.524000015258789,0.036467112600803375,Cristiano Ronaldo,a,2371,OpenPlay,2016,RightFoot,3962,Villarreal,Real Madrid,2,3,2017-02-26 19:45:00,Gareth Bale,BallTouch
+140624,88,MissedShots,0.9319999694824219,0.40400001525878904,0.06009851023554802,Sergio Ramos,a,2246,FromCorner,2016,Head,3962,Villarreal,Real Madrid,2,3,2017-02-26 19:45:00,Toni Kroos,Cross
+140627,93,MissedShots,0.9440000152587891,0.47,0.6138514876365662,Álvaro Morata,a,1804,OpenPlay,2016,LeftFoot,3962,Villarreal,Real Madrid,2,3,2017-02-26 19:45:00,Daniel Carvajal,Pass

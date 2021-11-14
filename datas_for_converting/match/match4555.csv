@@ -1,0 +1,25 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+19918,6,ShotOnPost,0.9340000152587891,0.4879999923706055,0.14282827079296112,Graziano Pellè,h,841,OpenPlay,2014,Head,4555,Southampton,Arsenal,2,0,2015-01-01 15:00:00,Dusan Tadic,Cross
+19920,7,SavedShot,0.93,0.580999984741211,0.09514863044023514,Graziano Pellè,h,841,OpenPlay,2014,RightFoot,4555,Southampton,Arsenal,2,0,2015-01-01 15:00:00,Ryan Bertrand,Foul
+19921,10,BlockedShot,0.7619999694824219,0.485,0.025427760556340218,Victor Wanyama,h,836,OpenPlay,2014,RightFoot,4555,Southampton,Arsenal,2,0,2015-01-01 15:00:00,Toby Alderweireld,Pass
+19926,33,Goal,0.9769999694824218,0.17700000762939452,0.02262859418988228,Sadio Mané,h,838,OpenPlay,2014,LeftFoot,4555,Southampton,Arsenal,2,0,2015-01-01 15:00:00,James Ward-Prowse,Chipped
+19927,39,SavedShot,0.895,0.4470000076293945,0.39429646730422974,James Ward-Prowse,h,843,OpenPlay,2014,LeftFoot,4555,Southampton,Arsenal,2,0,2015-01-01 15:00:00,Sadio Mané,Pass
+19928,39,MissedShots,0.94,0.53,0.15594083070755005,Toby Alderweireld,h,639,OpenPlay,2014,RightFoot,4555,Southampton,Arsenal,2,0,2015-01-01 15:00:00,,Rebound
+19930,45,BlockedShot,0.884000015258789,0.5329999923706055,0.07486958056688309,Graziano Pellè,h,841,OpenPlay,2014,Head,4555,Southampton,Arsenal,2,0,2015-01-01 15:00:00,Toby Alderweireld,Cross
+19932,55,Goal,0.9630000305175781,0.5529999923706055,0.6242020726203918,Dusan Tadic,h,840,OpenPlay,2014,LeftFoot,4555,Southampton,Arsenal,2,0,2015-01-01 15:00:00,,None
+19933,57,MissedShots,0.8159999847412109,0.42700000762939455,0.09074611216783524,Dusan Tadic,h,840,OpenPlay,2014,LeftFoot,4555,Southampton,Arsenal,2,0,2015-01-01 15:00:00,Toby Alderweireld,Chipped
+19934,60,ShotOnPost,0.9359999847412109,0.5690000152587891,0.13800077140331268,Graziano Pellè,h,841,OpenPlay,2014,LeftFoot,4555,Southampton,Arsenal,2,0,2015-01-01 15:00:00,Ryan Bertrand,Cross
+19935,60,MissedShots,0.89,0.5770000076293945,0.0989651158452034,James Ward-Prowse,h,843,OpenPlay,2014,RightFoot,4555,Southampton,Arsenal,2,0,2015-01-01 15:00:00,,Rebound
+19937,64,BlockedShot,0.899000015258789,0.425,0.5051374435424805,Graziano Pellè,h,841,OpenPlay,2014,RightFoot,4555,Southampton,Arsenal,2,0,2015-01-01 15:00:00,Dusan Tadic,Pass
+19939,69,SavedShot,0.9169999694824219,0.5329999923706055,0.12137174606323242,James Ward-Prowse,h,843,OpenPlay,2014,Head,4555,Southampton,Arsenal,2,0,2015-01-01 15:00:00,Dusan Tadic,Cross
+19919,7,SavedShot,0.7580000305175781,0.4470000076293945,0.02544415183365345,Alexis Sánchez,a,498,OpenPlay,2014,RightFoot,4555,Southampton,Arsenal,2,0,2015-01-01 15:00:00,Francis Coquelin,Pass
+19922,11,SavedShot,0.8069999694824219,0.37900001525878907,0.036913346499204636,Mathieu Debuchy,a,967,OpenPlay,2014,RightFoot,4555,Southampton,Arsenal,2,0,2015-01-01 15:00:00,,None
+19923,19,SavedShot,0.8819999694824219,0.5070000076293946,0.37339815497398376,Santiago Cazorla,a,965,OpenPlay,2014,RightFoot,4555,Southampton,Arsenal,2,0,2015-01-01 15:00:00,Tomas Rosicky,Pass
+19924,26,MissedShots,0.8480000305175781,0.4179999923706055,0.08176010847091675,Alex Oxlade-Chamberlain,a,966,OpenPlay,2014,RightFoot,4555,Southampton,Arsenal,2,0,2015-01-01 15:00:00,Alexis Sánchez,Pass
+19925,29,SavedShot,0.7340000152587891,0.30700000762939456,0.018387088552117348,Alexis Sánchez,a,498,OpenPlay,2014,RightFoot,4555,Southampton,Arsenal,2,0,2015-01-01 15:00:00,Calum Chambers,Pass
+19929,45,BlockedShot,0.845,0.6709999847412109,0.03924822807312012,Alexis Sánchez,a,498,OpenPlay,2014,RightFoot,4555,Southampton,Arsenal,2,0,2015-01-01 15:00:00,,None
+19931,54,SavedShot,0.899000015258789,0.5790000152587891,0.07423662394285202,Alexis Sánchez,a,498,OpenPlay,2014,RightFoot,4555,Southampton,Arsenal,2,0,2015-01-01 15:00:00,Alex Oxlade-Chamberlain,Cross
+19936,62,MissedShots,0.8980000305175782,0.695,0.06458868086338043,Kieran Gibbs,a,545,OpenPlay,2014,LeftFoot,4555,Southampton,Arsenal,2,0,2015-01-01 15:00:00,Santiago Cazorla,Pass
+19938,67,MissedShots,0.81,0.620999984741211,0.10996740311384201,Alexis Sánchez,a,498,DirectFreekick,2014,RightFoot,4555,Southampton,Arsenal,2,0,2015-01-01 15:00:00,,Standard
+19940,77,SavedShot,0.7430000305175781,0.5020000076293946,0.010610384866595268,Alex Oxlade-Chamberlain,a,966,OpenPlay,2014,RightFoot,4555,Southampton,Arsenal,2,0,2015-01-01 15:00:00,,Aerial
+19941,85,MissedShots,0.78,0.29600000381469727,0.014731078408658504,Santiago Cazorla,a,965,OpenPlay,2014,RightFoot,4555,Southampton,Arsenal,2,0,2015-01-01 15:00:00,,Dispossessed

@@ -1,0 +1,42 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+30841,0,MissedShots,0.47299999237060547,0.5070000076293946,0.0070863645523786545,Vieirinha,h,151,OpenPlay,2014,RightFoot,5249,Wolfsburg,Freiburg,3,0,2015-03-15 14:30:00,,BallRecovery
+30842,3,MissedShots,0.7169999694824218,0.49400001525878906,0.015060244128108025,Luiz Gustavo,h,387,OpenPlay,2014,LeftFoot,5249,Wolfsburg,Freiburg,3,0,2015-03-15 14:30:00,Josuha Guilavogui,BallRecovery
+30843,7,SavedShot,0.884000015258789,0.41200000762939454,0.10849834978580475,Josuha Guilavogui,h,150,OpenPlay,2014,RightFoot,5249,Wolfsburg,Freiburg,3,0,2015-03-15 14:30:00,Vieirinha,Pass
+30844,7,MissedShots,0.7869999694824219,0.7180000305175781,0.014451469294726849,Ricardo Rodríguez,h,308,OpenPlay,2014,LeftFoot,5249,Wolfsburg,Freiburg,3,0,2015-03-15 14:30:00,,Rebound
+30845,8,BlockedShot,0.86,0.53,0.10076788812875748,Kevin De Bruyne,h,447,OpenPlay,2014,LeftFoot,5249,Wolfsburg,Freiburg,3,0,2015-03-15 14:30:00,Daniel Caligiuri,Pass
+30846,9,MissedShots,0.735999984741211,0.40599998474121096,0.022279055789113045,Kevin De Bruyne,h,447,FromCorner,2014,RightFoot,5249,Wolfsburg,Freiburg,3,0,2015-03-15 14:30:00,Ricardo Rodríguez,Cross
+30847,13,MissedShots,0.9690000152587891,0.4209999847412109,0.14073647558689117,Bas Dost,h,158,OpenPlay,2014,RightFoot,5249,Wolfsburg,Freiburg,3,0,2015-03-15 14:30:00,Vieirinha,Pass
+30849,18,Goal,0.8490000152587891,0.5720000076293945,0.06605758517980576,Kevin De Bruyne,h,447,OpenPlay,2014,RightFoot,5249,Wolfsburg,Freiburg,3,0,2015-03-15 14:30:00,,None
+30853,24,SavedShot,0.6919999694824219,0.11600000381469727,0.021931489929556847,Ricardo Rodríguez,h,308,DirectFreekick,2014,LeftFoot,5249,Wolfsburg,Freiburg,3,0,2015-03-15 14:30:00,,Standard
+30854,25,MissedShots,0.9690000152587891,0.5629999923706055,0.15259237587451935,Bas Dost,h,158,OpenPlay,2014,LeftFoot,5249,Wolfsburg,Freiburg,3,0,2015-03-15 14:30:00,Daniel Caligiuri,Pass
+30856,29,MissedShots,0.7859999847412109,0.48900001525878906,0.054943207651376724,Kevin De Bruyne,h,447,OpenPlay,2014,RightFoot,5249,Wolfsburg,Freiburg,3,0,2015-03-15 14:30:00,Bas Dost,BallRecovery
+30860,42,SavedShot,0.8080000305175781,0.610999984741211,0.05045841634273529,Daniel Caligiuri,h,157,OpenPlay,2014,RightFoot,5249,Wolfsburg,Freiburg,3,0,2015-03-15 14:30:00,Ricardo Rodríguez,Pass
+30861,43,BlockedShot,0.904000015258789,0.6170000076293946,0.11510221660137177,Bas Dost,h,158,OpenPlay,2014,LeftFoot,5249,Wolfsburg,Freiburg,3,0,2015-03-15 14:30:00,Daniel Caligiuri,Pass
+30863,47,SavedShot,0.894000015258789,0.3089999961853027,0.0655350610613823,Vieirinha,h,151,OpenPlay,2014,RightFoot,5249,Wolfsburg,Freiburg,3,0,2015-03-15 14:30:00,Kevin De Bruyne,Pass
+30865,48,MissedShots,0.8169999694824219,0.2879999923706055,0.03422186151146889,Vieirinha,h,151,OpenPlay,2014,LeftFoot,5249,Wolfsburg,Freiburg,3,0,2015-03-15 14:30:00,Christian Träsch,Pass
+30866,50,MissedShots,0.7190000152587891,0.7440000152587891,0.008836344815790653,Ricardo Rodríguez,h,308,OpenPlay,2014,LeftFoot,5249,Wolfsburg,Freiburg,3,0,2015-03-15 14:30:00,Vieirinha,Chipped
+30868,53,BlockedShot,0.8669999694824219,0.66,0.044928792864084244,Ricardo Rodríguez,h,308,OpenPlay,2014,LeftFoot,5249,Wolfsburg,Freiburg,3,0,2015-03-15 14:30:00,Luiz Gustavo,Chipped
+30869,54,MissedShots,0.92,0.45599998474121095,0.0395776703953743,Josuha Guilavogui,h,150,FromCorner,2014,Head,5249,Wolfsburg,Freiburg,3,0,2015-03-15 14:30:00,Kevin De Bruyne,Aerial
+30870,54,MissedShots,0.9230000305175782,0.5429999923706055,0.04928158223628998,Robin Knoche,h,161,FromCorner,2014,Head,5249,Wolfsburg,Freiburg,3,0,2015-03-15 14:30:00,Kevin De Bruyne,Aerial
+30873,66,SavedShot,0.9230000305175782,0.7380000305175781,0.0507318414747715,Kevin De Bruyne,h,447,OpenPlay,2014,LeftFoot,5249,Wolfsburg,Freiburg,3,0,2015-03-15 14:30:00,Ricardo Rodríguez,Pass
+30874,69,MissedShots,0.82,0.6719999694824219,0.03963644057512283,Luiz Gustavo,h,387,OpenPlay,2014,LeftFoot,5249,Wolfsburg,Freiburg,3,0,2015-03-15 14:30:00,Kevin De Bruyne,Pass
+30875,73,BlockedShot,0.7330000305175781,0.7290000152587891,0.014627751894295216,Vieirinha,h,151,OpenPlay,2014,RightFoot,5249,Wolfsburg,Freiburg,3,0,2015-03-15 14:30:00,Luiz Gustavo,Pass
+30878,77,Goal,0.885,0.5,0.75777667760849,Ricardo Rodríguez,h,308,Penalty,2014,LeftFoot,5249,Wolfsburg,Freiburg,3,0,2015-03-15 14:30:00,,Standard
+30879,83,Goal,0.9330000305175781,0.5479999923706055,0.6241129040718079,Maximilian Arnold,h,153,OpenPlay,2014,LeftFoot,5249,Wolfsburg,Freiburg,3,0,2015-03-15 14:30:00,Kevin De Bruyne,Pass
+30880,86,MissedShots,0.8430000305175781,0.315,0.0918235257267952,Kevin De Bruyne,h,447,OpenPlay,2014,RightFoot,5249,Wolfsburg,Freiburg,3,0,2015-03-15 14:30:00,André Schürrle,Pass
+30848,16,SavedShot,0.860999984741211,0.555,0.051427632570266724,Mike Frantz,a,4246,OpenPlay,2014,LeftFoot,5249,Wolfsburg,Freiburg,3,0,2015-03-15 14:30:00,Jonathan Schmid,Cross
+30850,20,MissedShots,0.7759999847412109,0.7280000305175781,0.017752306535840034,Christian Günter,a,4243,OpenPlay,2014,RightFoot,5249,Wolfsburg,Freiburg,3,0,2015-03-15 14:30:00,Admir Mehmedi,TakeOn
+30851,22,BlockedShot,0.879000015258789,0.24700000762939453,0.030530862510204315,Oliver Sorg,a,348,OpenPlay,2014,RightFoot,5249,Wolfsburg,Freiburg,3,0,2015-03-15 14:30:00,Sascha Riether,Pass
+30852,23,MissedShots,0.9280000305175782,0.5370000076293945,0.053080227226018906,Stefan Mitrovic,a,4242,FromCorner,2014,Head,5249,Wolfsburg,Freiburg,3,0,2015-03-15 14:30:00,Jonathan Schmid,Aerial
+30855,28,BlockedShot,0.8209999847412109,0.73,0.02280266024172306,Mike Frantz,a,4246,OpenPlay,2014,RightFoot,5249,Wolfsburg,Freiburg,3,0,2015-03-15 14:30:00,Christian Günter,TakeOn
+30857,36,SavedShot,0.749000015258789,0.555,0.01883731409907341,Christian Günter,a,4243,OpenPlay,2014,LeftFoot,5249,Wolfsburg,Freiburg,3,0,2015-03-15 14:30:00,,None
+30858,36,SavedShot,0.9,0.669000015258789,0.03133127838373184,Marc Torrejón,a,4252,FromCorner,2014,RightFoot,5249,Wolfsburg,Freiburg,3,0,2015-03-15 14:30:00,Admir Mehmedi,HeadPass
+30859,36,MissedShots,0.965999984741211,0.5059999847412109,0.6554648876190186,Mike Frantz,a,4246,FromCorner,2014,RightFoot,5249,Wolfsburg,Freiburg,3,0,2015-03-15 14:30:00,,None
+30862,44,MissedShots,0.9769999694824218,0.295,0.04572132229804993,Felix Klaus,a,350,OpenPlay,2014,RightFoot,5249,Wolfsburg,Freiburg,3,0,2015-03-15 14:30:00,Admir Mehmedi,Pass
+30864,47,MissedShots,0.899000015258789,0.3120000076293945,0.0411929190158844,Felix Klaus,a,350,OpenPlay,2014,RightFoot,5249,Wolfsburg,Freiburg,3,0,2015-03-15 14:30:00,Mike Frantz,TakeOn
+30867,51,MissedShots,0.9180000305175782,0.49900001525878906,0.05013427510857582,Jonathan Schmid,a,81,OpenPlay,2014,Head,5249,Wolfsburg,Freiburg,3,0,2015-03-15 14:30:00,Sascha Riether,Aerial
+30871,54,MissedShots,0.85,0.41200000762939454,0.05601142719388008,Admir Mehmedi,a,194,OpenPlay,2014,LeftFoot,5249,Wolfsburg,Freiburg,3,0,2015-03-15 14:30:00,,None
+30872,56,BlockedShot,0.759000015258789,0.624000015258789,0.02143247239291668,Felix Klaus,a,350,SetPiece,2014,RightFoot,5249,Wolfsburg,Freiburg,3,0,2015-03-15 14:30:00,Christian Günter,Pass
+30876,74,SavedShot,0.8490000152587891,0.6359999847412109,0.051073066890239716,Oliver Sorg,a,348,OpenPlay,2014,LeftFoot,5249,Wolfsburg,Freiburg,3,0,2015-03-15 14:30:00,Jonathan Schmid,Pass
+30877,74,MissedShots,0.7340000152587891,0.33,0.02624880149960518,Admir Mehmedi,a,194,FromCorner,2014,LeftFoot,5249,Wolfsburg,Freiburg,3,0,2015-03-15 14:30:00,Sascha Riether,Pass
+30881,87,SavedShot,0.7959999847412109,0.639000015258789,0.037045255303382874,Dani Schahin,a,4289,OpenPlay,2014,LeftFoot,5249,Wolfsburg,Freiburg,3,0,2015-03-15 14:30:00,Jonathan Schmid,TakeOn

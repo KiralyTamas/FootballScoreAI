@@ -1,0 +1,26 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+203844,9,MissedShots,0.7019999694824218,0.6170000076293946,0.03350277245044708,Quincy Promes,h,2815,DirectFreekick,2017,RightFoot,6657,Spartak Moscow,Tosno,2,1,2018-03-31 00:00:00,,Standard
+203845,12,MissedShots,0.915,0.44299999237060544,0.09550429880619049,Zé Luís,h,2818,OpenPlay,2017,Head,6657,Spartak Moscow,Tosno,2,1,2018-03-31 00:00:00,Aleksandr Samedov,Cross
+203848,24,BlockedShot,0.909000015258789,0.42700000762939455,0.10000099986791611,Zé Luís,h,2818,OpenPlay,2017,RightFoot,6657,Spartak Moscow,Tosno,2,1,2018-03-31 00:00:00,,None
+203850,39,MissedShots,0.860999984741211,0.36900001525878906,0.056458476930856705,Luiz Adriano,h,1127,OpenPlay,2017,RightFoot,6657,Spartak Moscow,Tosno,2,1,2018-03-31 00:00:00,Dmitri Kombarov,Chipped
+203851,41,MissedShots,0.8080000305175781,0.6419999694824219,0.022095812484622,Quincy Promes,h,2815,FromCorner,2017,RightFoot,6657,Spartak Moscow,Tosno,2,1,2018-03-31 00:00:00,Luiz Adriano,None
+203852,45,Goal,0.720999984741211,0.325,0.03476664796471596,Fernando,h,1937,DirectFreekick,2017,RightFoot,6657,Spartak Moscow,Tosno,2,1,2018-03-31 00:00:00,,Standard
+203856,58,SavedShot,0.9169999694824219,0.4129999923706055,0.12839367985725403,Luiz Adriano,h,1127,FromCorner,2017,Head,6657,Spartak Moscow,Tosno,2,1,2018-03-31 00:00:00,Quincy Promes,Aerial
+203857,59,SavedShot,0.855,0.6990000152587891,0.049260109663009644,Quincy Promes,h,2815,OpenPlay,2017,RightFoot,6657,Spartak Moscow,Tosno,2,1,2018-03-31 00:00:00,Denis Glushakov,Pass
+203858,60,BlockedShot,0.8419999694824218,0.34200000762939453,0.06307638436555862,Luiz Adriano,h,1127,OpenPlay,2017,RightFoot,6657,Spartak Moscow,Tosno,2,1,2018-03-31 00:00:00,Quincy Promes,Pass
+203859,64,MissedShots,0.9159999847412109,0.43099998474121093,0.04456222802400589,Zé Luís,h,2818,OpenPlay,2017,Head,6657,Spartak Moscow,Tosno,2,1,2018-03-31 00:00:00,Dmitri Kombarov,Aerial
+203860,65,SavedShot,0.89,0.5520000076293945,0.31008151173591614,Luiz Adriano,h,1127,OpenPlay,2017,LeftFoot,6657,Spartak Moscow,Tosno,2,1,2018-03-31 00:00:00,Quincy Promes,Cross
+203863,74,BlockedShot,0.879000015258789,0.7,0.06447256356477737,Quincy Promes,h,2815,OpenPlay,2017,RightFoot,6657,Spartak Moscow,Tosno,2,1,2018-03-31 00:00:00,Zé Luís,Pass
+203864,74,Goal,0.8930000305175781,0.4759999847412109,0.41250094771385193,Luiz Adriano,h,1127,OpenPlay,2017,LeftFoot,6657,Spartak Moscow,Tosno,2,1,2018-03-31 00:00:00,Quincy Promes,Pass
+203866,81,BlockedShot,0.8009999847412109,0.779000015258789,0.00900803692638874,Fernando,h,1937,FromCorner,2017,RightFoot,6657,Spartak Moscow,Tosno,2,1,2018-03-31 00:00:00,Denis Glushakov,Chipped
+203868,85,MissedShots,0.919000015258789,0.4490000152587891,0.34251925349235535,Lorenzo Melgarejo,h,2819,OpenPlay,2017,RightFoot,6657,Spartak Moscow,Tosno,2,1,2018-03-31 00:00:00,Quincy Promes,Cross
+203846,16,MissedShots,0.9319999694824219,0.4490000152587891,0.05850524082779884,Pavel Pogrebnyak,a,2830,OpenPlay,2017,Head,6657,Spartak Moscow,Tosno,2,1,2018-03-31 00:00:00,Vagiz Galiulin,Aerial
+203847,18,MissedShots,0.6630000305175782,0.735999984741211,0.009056025184690952,Ilya Zhigulev,a,5479,OpenPlay,2017,RightFoot,6657,Spartak Moscow,Tosno,2,1,2018-03-31 00:00:00,Marko Poletanovic,Pass
+203849,33,BlockedShot,0.779000015258789,0.4129999923706055,0.02932358905673027,Marko Poletanovic,a,6265,OpenPlay,2017,LeftFoot,6657,Spartak Moscow,Tosno,2,1,2018-03-31 00:00:00,,None
+203853,46,MissedShots,0.7340000152587891,0.7809999847412109,0.011899139732122421,Marko Poletanovic,a,6265,OpenPlay,2017,RightFoot,6657,Spartak Moscow,Tosno,2,1,2018-03-31 00:00:00,Vagiz Galiulin,Pass
+203854,51,MissedShots,0.7780000305175782,0.295,0.03194629028439522,Ricardinho,a,6606,SetPiece,2017,RightFoot,6657,Spartak Moscow,Tosno,2,1,2018-03-31 00:00:00,,TakeOn
+203855,52,SavedShot,0.8859999847412109,0.29200000762939454,0.03754538297653198,Timofey Margasov,a,2785,OpenPlay,2017,LeftFoot,6657,Spartak Moscow,Tosno,2,1,2018-03-31 00:00:00,Rade Dugalic,Chipped
+203861,67,MissedShots,0.765,0.595999984741211,0.02596818469464779,Ricardinho,a,6606,OpenPlay,2017,RightFoot,6657,Spartak Moscow,Tosno,2,1,2018-03-31 00:00:00,Ilya Zhigulev,Pass
+203862,69,MissedShots,0.865,0.6630000305175782,0.05183400213718414,Pavel Pogrebnyak,a,2830,OpenPlay,2017,LeftFoot,6657,Spartak Moscow,Tosno,2,1,2018-03-31 00:00:00,Aleksandr Karnitski,Pass
+203865,79,Goal,0.885,0.5,0.7542753219604492,Pavel Pogrebnyak,a,2830,Penalty,2017,LeftFoot,6657,Spartak Moscow,Tosno,2,1,2018-03-31 00:00:00,,Standard
+203867,81,MissedShots,0.86,0.6969999694824218,0.03914321959018707,Marko Poletanovic,a,6265,OpenPlay,2017,RightFoot,6657,Spartak Moscow,Tosno,2,1,2018-03-31 00:00:00,Reziuan Mirzov,Pass

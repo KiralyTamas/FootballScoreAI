@@ -1,0 +1,28 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+129232,18,MissedShots,0.909000015258789,0.5129999923706055,0.12376000732183456,Sandro Wagner,h,11,OpenPlay,2016,Head,1385,Hoffenheim,Freiburg,2,1,2016-10-15 17:30:00,Andrej Kramaric,Cross
+129233,19,SavedShot,0.7119999694824218,0.6040000152587891,0.04173511266708374,Sebastian Rudy,h,90,DirectFreekick,2016,RightFoot,1385,Hoffenheim,Freiburg,2,1,2016-10-15 17:30:00,,Standard
+129234,21,MissedShots,0.905,0.5709999847412109,0.05271553993225098,Sandro Wagner,h,11,FromCorner,2016,Head,1385,Hoffenheim,Freiburg,2,1,2016-10-15 17:30:00,Sebastian Rudy,Cross
+129235,32,SavedShot,0.92,0.5629999923706055,0.1368529200553894,Lukas Rupp,h,62,OpenPlay,2016,LeftFoot,1385,Hoffenheim,Freiburg,2,1,2016-10-15 17:30:00,Pavel Kaderábek,Pass
+129236,33,Goal,0.9590000152587891,0.33299999237060546,0.5532186627388,Sandro Wagner,h,11,OpenPlay,2016,RightFoot,1385,Hoffenheim,Freiburg,2,1,2016-10-15 17:30:00,,TakeOn
+129240,41,MissedShots,0.9359999847412109,0.6179999923706054,0.013197806663811207,Niklas Süle,h,75,FromCorner,2016,Head,1385,Hoffenheim,Freiburg,2,1,2016-10-15 17:30:00,Kerem Demirbay,Aerial
+129241,42,MissedShots,0.88,0.4620000076293945,0.0918574184179306,Sandro Wagner,h,11,OpenPlay,2016,RightFoot,1385,Hoffenheim,Freiburg,2,1,2016-10-15 17:30:00,Jeremy Toljan,Cross
+129242,49,BlockedShot,0.89,0.534000015258789,0.11311405897140503,Kerem Demirbay,h,5273,OpenPlay,2016,RightFoot,1385,Hoffenheim,Freiburg,2,1,2016-10-15 17:30:00,,None
+129243,49,MissedShots,0.9269999694824219,0.45799999237060546,0.10465238988399506,Sandro Wagner,h,11,FromCorner,2016,Head,1385,Hoffenheim,Freiburg,2,1,2016-10-15 17:30:00,Sebastian Rudy,Cross
+129245,57,MissedShots,0.77,0.345,0.02942628599703312,Sebastian Rudy,h,90,OpenPlay,2016,RightFoot,1385,Hoffenheim,Freiburg,2,1,2016-10-15 17:30:00,Kevin Vogt,Pass
+129251,78,BlockedShot,0.7809999847412109,0.44299999237060544,0.0324239656329155,Andrej Kramaric,h,956,OpenPlay,2016,LeftFoot,1385,Hoffenheim,Freiburg,2,1,2016-10-15 17:30:00,Nadiem Amiri,Pass
+129252,80,Goal,0.885,0.5,0.75777667760849,Andrej Kramaric,h,956,Penalty,2016,RightFoot,1385,Hoffenheim,Freiburg,2,1,2016-10-15 17:30:00,,Standard
+129255,88,BlockedShot,0.9069999694824219,0.6780000305175782,0.0839032456278801,Andrej Kramaric,h,956,OpenPlay,2016,RightFoot,1385,Hoffenheim,Freiburg,2,1,2016-10-15 17:30:00,Nadiem Amiri,Pass
+129257,92,BlockedShot,0.879000015258789,0.5109999847412109,0.29696276783943176,Andrej Kramaric,h,956,SetPiece,2016,LeftFoot,1385,Hoffenheim,Freiburg,2,1,2016-10-15 17:30:00,Eugen Polanski,Chipped
+129231,14,MissedShots,0.84,0.7730000305175782,0.024159537628293037,Vincenzo Grifo,a,5266,OpenPlay,2016,RightFoot,1385,Hoffenheim,Freiburg,2,1,2016-10-15 17:30:00,Onur Bulut,Pass
+129237,35,BlockedShot,0.7559999847412109,0.4929999923706055,0.026087479665875435,Mike Frantz,a,4246,OpenPlay,2016,RightFoot,1385,Hoffenheim,Freiburg,2,1,2016-10-15 17:30:00,Maximilian Philipp,Pass
+129238,38,MissedShots,0.774000015258789,0.36700000762939455,0.02491922490298748,Aleksandar Ignjovski,a,297,OpenPlay,2016,RightFoot,1385,Hoffenheim,Freiburg,2,1,2016-10-15 17:30:00,Jonas Meffert,Pass
+129239,38,SavedShot,0.8230000305175781,0.5070000076293946,0.05372821167111397,Maximilian Philipp,a,4247,OpenPlay,2016,RightFoot,1385,Hoffenheim,Freiburg,2,1,2016-10-15 17:30:00,Christian Günter,Chipped
+129244,55,MissedShots,0.8390000152587891,0.34700000762939454,0.04397439584136009,Vincenzo Grifo,a,5266,OpenPlay,2016,LeftFoot,1385,Hoffenheim,Freiburg,2,1,2016-10-15 17:30:00,Onur Bulut,Pass
+129246,61,BlockedShot,0.769000015258789,0.44099998474121094,0.028257569298148155,Florian Niederlechner,a,306,OpenPlay,2016,LeftFoot,1385,Hoffenheim,Freiburg,2,1,2016-10-15 17:30:00,Nils Petersen,Chipped
+129247,73,MissedShots,0.8630000305175781,0.580999984741211,0.06173868849873543,Florian Niederlechner,a,306,OpenPlay,2016,RightFoot,1385,Hoffenheim,Freiburg,2,1,2016-10-15 17:30:00,,None
+129248,74,SavedShot,0.8919999694824219,0.6480000305175782,0.013577129691839218,Caglar Söyüncü,a,5264,FromCorner,2016,Head,1385,Hoffenheim,Freiburg,2,1,2016-10-15 17:30:00,,Aerial
+129249,75,SavedShot,0.8969999694824219,0.3160000038146973,0.041763026267290115,Florian Niederlechner,a,306,FromCorner,2016,RightFoot,1385,Hoffenheim,Freiburg,2,1,2016-10-15 17:30:00,,None
+129250,76,Goal,0.909000015258789,0.5070000076293946,0.4484173059463501,Florian Niederlechner,a,306,OpenPlay,2016,RightFoot,1385,Hoffenheim,Freiburg,2,1,2016-10-15 17:30:00,Caglar Söyüncü,Throughball
+129253,82,MissedShots,0.5209999847412109,0.5129999923706055,0.008062474429607391,Florian Niederlechner,a,306,OpenPlay,2016,RightFoot,1385,Hoffenheim,Freiburg,2,1,2016-10-15 17:30:00,Nicolas Höfler,Pass
+129254,84,SavedShot,0.9019999694824219,0.4470000076293945,0.01838882453739643,Janik Haberer,a,4271,FromCorner,2016,Head,1385,Hoffenheim,Freiburg,2,1,2016-10-15 17:30:00,Vincenzo Grifo,Aerial
+129256,91,SavedShot,0.935,0.355,0.06748019903898239,Nils Petersen,a,4248,SetPiece,2016,RightFoot,1385,Hoffenheim,Freiburg,2,1,2016-10-15 17:30:00,Vincenzo Grifo,Chipped

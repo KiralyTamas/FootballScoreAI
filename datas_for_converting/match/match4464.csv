@@ -1,0 +1,28 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+21529,3,MissedShots,0.7659999847412109,0.5070000076293946,0.02631472609937191,Steven N&#039;Zonzi,h,2413,OpenPlay,2014,RightFoot,4464,Stoke,Southampton,2,1,2015-04-18 15:00:00,Mame Biram Diouf,Pass
+21530,9,BlockedShot,0.7419999694824219,0.23299999237060548,0.013187135569751263,Geoff Cameron,h,859,OpenPlay,2014,RightFoot,4464,Stoke,Southampton,2,1,2015-04-18 15:00:00,Steven N&#039;Zonzi,Pass
+21531,13,BlockedShot,0.7240000152587891,0.635,0.01387765258550644,Marko Arnautovic,h,865,OpenPlay,2014,RightFoot,4464,Stoke,Southampton,2,1,2015-04-18 15:00:00,Stephen Ireland,BallRecovery
+21532,15,MissedShots,0.925,0.47200000762939454,0.1185082420706749,Ryan Shawcross,h,886,SetPiece,2014,Head,4464,Stoke,Southampton,2,1,2015-04-18 15:00:00,Marko Arnautovic,Cross
+21536,23,BlockedShot,0.745,0.509000015258789,0.06127683445811272,Marko Arnautovic,h,865,DirectFreekick,2014,RightFoot,4464,Stoke,Southampton,2,1,2015-04-18 15:00:00,,Standard
+21537,24,MissedShots,0.93,0.45,0.04696193337440491,Ryan Shawcross,h,886,FromCorner,2014,Head,4464,Stoke,Southampton,2,1,2015-04-18 15:00:00,Stephen Ireland,Aerial
+21540,41,MissedShots,0.875999984741211,0.4520000076293945,0.04560587555170059,Geoff Cameron,h,859,SetPiece,2014,Head,4464,Stoke,Southampton,2,1,2015-04-18 15:00:00,Marko Arnautovic,Chipped
+21541,41,MissedShots,0.9619999694824218,0.524000015258789,0.6336832046508789,Steven N&#039;Zonzi,h,2413,SetPiece,2014,RightFoot,4464,Stoke,Southampton,2,1,2015-04-18 15:00:00,Geoff Cameron,None
+21543,46,ShotOnPost,0.7419999694824219,0.33099998474121095,0.01622873917222023,Steven N&#039;Zonzi,h,2413,OpenPlay,2014,RightFoot,4464,Stoke,Southampton,2,1,2015-04-18 15:00:00,Geoff Cameron,Pass
+21544,46,Goal,0.919000015258789,0.5590000152587891,0.43995025753974915,Mame Biram Diouf,h,868,OpenPlay,2014,LeftFoot,4464,Stoke,Southampton,2,1,2015-04-18 15:00:00,,Rebound
+21545,52,MissedShots,0.96,0.600999984741211,0.051952995359897614,Mame Biram Diouf,h,868,FromCorner,2014,Head,4464,Stoke,Southampton,2,1,2015-04-18 15:00:00,Charlie Adam,Cross
+21548,59,MissedShots,0.74,0.43099998474121093,0.01907290145754814,Charlie Adam,h,873,OpenPlay,2014,LeftFoot,4464,Stoke,Southampton,2,1,2015-04-18 15:00:00,Jonathan Walters,Pass
+21553,83,BlockedShot,0.9180000305175782,0.45,0.13369446992874146,Jonathan Walters,h,863,SetPiece,2014,RightFoot,4464,Stoke,Southampton,2,1,2015-04-18 15:00:00,Ryan Shawcross,Pass
+21554,83,Goal,0.8969999694824219,0.3920000076293945,0.08332223445177078,Charlie Adam,h,873,SetPiece,2014,LeftFoot,4464,Stoke,Southampton,2,1,2015-04-18 15:00:00,,Rebound
+21555,90,MissedShots,0.9290000152587891,0.49,0.5791488885879517,Peter Crouch,h,872,OpenPlay,2014,RightFoot,4464,Stoke,Southampton,2,1,2015-04-18 15:00:00,Jonathan Walters,Pass
+21533,16,MissedShots,0.8930000305175781,0.40200000762939453,0.10861019045114517,Graziano Pellè,a,841,OpenPlay,2014,RightFoot,4464,Stoke,Southampton,2,1,2015-04-18 15:00:00,Sadio Mané,Pass
+21534,21,BlockedShot,0.9390000152587891,0.3840000152587891,0.029091348871588707,José Fonte,a,834,FromCorner,2014,Head,4464,Stoke,Southampton,2,1,2015-04-18 15:00:00,Steven Davis,Cross
+21535,21,Goal,0.980999984741211,0.5420000076293945,0.8148916959762573,Morgan Schneiderlin,a,551,FromCorner,2014,RightFoot,4464,Stoke,Southampton,2,1,2015-04-18 15:00:00,José Fonte,Rebound
+21538,30,SavedShot,0.8730000305175781,0.36700000762939455,0.12210547178983688,Graziano Pellè,a,841,OpenPlay,2014,LeftFoot,4464,Stoke,Southampton,2,1,2015-04-18 15:00:00,Sadio Mané,Pass
+21539,34,MissedShots,0.9209999847412109,0.2589999961853027,0.04515803977847099,Nathaniel Clyne,a,603,OpenPlay,2014,RightFoot,4464,Stoke,Southampton,2,1,2015-04-18 15:00:00,Sadio Mané,Pass
+21542,43,BlockedShot,0.7809999847412109,0.28,0.020814314484596252,Toby Alderweireld,a,639,OpenPlay,2014,RightFoot,4464,Stoke,Southampton,2,1,2015-04-18 15:00:00,Graziano Pellè,Pass
+21546,54,SavedShot,0.86,0.5420000076293945,0.015551713295280933,Morgan Schneiderlin,a,551,FromCorner,2014,Head,4464,Stoke,Southampton,2,1,2015-04-18 15:00:00,Steven Davis,Cross
+21547,57,BlockedShot,0.8019999694824219,0.6279999923706054,0.03436872363090515,Dusan Tadic,a,840,OpenPlay,2014,LeftFoot,4464,Stoke,Southampton,2,1,2015-04-18 15:00:00,Steven Davis,Pass
+21549,62,BlockedShot,0.8519999694824218,0.47099998474121096,0.09099900722503662,Dusan Tadic,a,840,OpenPlay,2014,RightFoot,4464,Stoke,Southampton,2,1,2015-04-18 15:00:00,Sadio Mané,Pass
+21550,62,SavedShot,0.8159999847412109,0.46900001525878904,0.06613029539585114,Dusan Tadic,a,840,OpenPlay,2014,RightFoot,4464,Stoke,Southampton,2,1,2015-04-18 15:00:00,Steven Davis,Pass
+21551,70,MissedShots,0.765,0.24,0.010882330127060413,Graziano Pellè,a,841,OpenPlay,2014,RightFoot,4464,Stoke,Southampton,2,1,2015-04-18 15:00:00,,None
+21552,71,BlockedShot,0.7969999694824219,0.6880000305175781,0.026184991002082825,James Ward-Prowse,a,843,OpenPlay,2014,RightFoot,4464,Stoke,Southampton,2,1,2015-04-18 15:00:00,Morgan Schneiderlin,Chipped

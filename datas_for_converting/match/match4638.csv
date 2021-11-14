@@ -1,0 +1,32 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+19685,6,BlockedShot,0.745,0.38799999237060545,0.017027486115694046,Santiago Cazorla,h,965,OpenPlay,2014,LeftFoot,4638,Arsenal,Queens Park Rangers,2,1,2014-12-26 17:30:00,Alexis Sánchez,Pass
+19686,7,BlockedShot,0.884000015258789,0.5790000152587891,0.08261120319366455,Danny Welbeck,h,501,OpenPlay,2014,LeftFoot,4638,Arsenal,Queens Park Rangers,2,1,2014-12-26 17:30:00,,None
+19687,8,SavedShot,0.885,0.5,0.7611688375473022,Alexis Sánchez,h,498,Penalty,2014,RightFoot,4638,Arsenal,Queens Park Rangers,2,1,2014-12-26 17:30:00,,Standard
+19689,24,MissedShots,0.7119999694824218,0.634000015258789,0.01349584385752678,Olivier Giroud,h,502,OpenPlay,2014,LeftFoot,4638,Arsenal,Queens Park Rangers,2,1,2014-12-26 17:30:00,Danny Welbeck,Pass
+19690,25,MissedShots,0.7290000152587891,0.710999984741211,0.014277027919888496,Alexis Sánchez,h,498,OpenPlay,2014,RightFoot,4638,Arsenal,Queens Park Rangers,2,1,2014-12-26 17:30:00,Tomas Rosicky,Pass
+19691,27,SavedShot,0.7780000305175782,0.395,0.07853397727012634,Olivier Giroud,h,502,DirectFreekick,2014,LeftFoot,4638,Arsenal,Queens Park Rangers,2,1,2014-12-26 17:30:00,,Standard
+19692,31,BlockedShot,0.8240000152587891,0.3240000152587891,0.03060227818787098,Olivier Giroud,h,502,OpenPlay,2014,LeftFoot,4638,Arsenal,Queens Park Rangers,2,1,2014-12-26 17:30:00,Alexis Sánchez,Pass
+19693,32,MissedShots,0.9119999694824219,0.5179999923706055,0.03378496319055557,Mathieu Debuchy,h,967,FromCorner,2014,Head,4638,Arsenal,Queens Park Rangers,2,1,2014-12-26 17:30:00,Santiago Cazorla,Aerial
+19694,36,Goal,0.92,0.46,0.3224426507949829,Alexis Sánchez,h,498,OpenPlay,2014,Head,4638,Arsenal,Queens Park Rangers,2,1,2014-12-26 17:30:00,Kieran Gibbs,Chipped
+19698,61,MissedShots,0.850999984741211,0.715,0.03366171941161156,Alexis Sánchez,h,498,OpenPlay,2014,RightFoot,4638,Arsenal,Queens Park Rangers,2,1,2014-12-26 17:30:00,Santiago Cazorla,Pass
+19700,64,Goal,0.8780000305175781,0.38,0.4075062572956085,Tomas Rosicky,h,4400,OpenPlay,2014,RightFoot,4638,Arsenal,Queens Park Rangers,2,1,2014-12-26 17:30:00,Alexis Sánchez,Pass
+19704,70,MissedShots,0.7819999694824219,0.25,0.04609194025397301,Santiago Cazorla,h,965,DirectFreekick,2014,LeftFoot,4638,Arsenal,Queens Park Rangers,2,1,2014-12-26 17:30:00,,Standard
+19705,71,MissedShots,0.8440000152587891,0.455,0.11237156391143799,Alexis Sánchez,h,498,OpenPlay,2014,RightFoot,4638,Arsenal,Queens Park Rangers,2,1,2014-12-26 17:30:00,Mathieu Debuchy,Pass
+19706,73,SavedShot,0.8590000152587891,0.46700000762939453,0.1263120025396347,Danny Welbeck,h,501,OpenPlay,2014,RightFoot,4638,Arsenal,Queens Park Rangers,2,1,2014-12-26 17:30:00,Alexis Sánchez,Pass
+19709,75,BlockedShot,0.8919999694824219,0.2989999961853027,0.058993659913539886,Mathieu Debuchy,h,967,OpenPlay,2014,RightFoot,4638,Arsenal,Queens Park Rangers,2,1,2014-12-26 17:30:00,Alexis Sánchez,Pass
+19688,22,BlockedShot,0.7830000305175782,0.17899999618530274,0.0079117426648736,Eduardo Vargas,a,85,OpenPlay,2014,RightFoot,4638,Arsenal,Queens Park Rangers,2,1,2014-12-26 17:30:00,Niko Kranjcar,Chipped
+19695,38,MissedShots,0.8880000305175781,0.40400001525878904,0.040990062057971954,Steven Caulker,a,953,SetPiece,2014,Head,4638,Arsenal,Queens Park Rangers,2,1,2014-12-26 17:30:00,Mauricio Isla,Chipped
+19696,41,BlockedShot,0.7619999694824219,0.24899999618530275,0.016579627990722656,Charlie Austin,a,848,OpenPlay,2014,RightFoot,4638,Arsenal,Queens Park Rangers,2,1,2014-12-26 17:30:00,Eduardo Vargas,Pass
+19697,48,BlockedShot,0.7669999694824219,0.7319999694824219,0.017832564190030098,Charlie Austin,a,848,OpenPlay,2014,RightFoot,4638,Arsenal,Queens Park Rangers,2,1,2014-12-26 17:30:00,Jordon Mutch,Pass
+19699,62,MissedShots,0.8030000305175782,0.7180000305175781,0.02178461290895939,Junior Hoilett,a,4395,OpenPlay,2014,RightFoot,4638,Arsenal,Queens Park Rangers,2,1,2014-12-26 17:30:00,Niko Kranjcar,Pass
+19701,65,BlockedShot,0.8769999694824219,0.7140000152587891,0.05114099755883217,Charlie Austin,a,848,OpenPlay,2014,RightFoot,4638,Arsenal,Queens Park Rangers,2,1,2014-12-26 17:30:00,Steven Caulker,Pass
+19702,66,MissedShots,0.7569999694824219,0.6630000305175782,0.010027585551142693,Niko Kranjcar,a,4397,OpenPlay,2014,RightFoot,4638,Arsenal,Queens Park Rangers,2,1,2014-12-26 17:30:00,,Aerial
+19703,68,SavedShot,0.840999984741211,0.26399999618530273,0.017922382801771164,Mauricio Isla,a,1402,OpenPlay,2014,LeftFoot,4638,Arsenal,Queens Park Rangers,2,1,2014-12-26 17:30:00,,None
+19707,73,MissedShots,0.7809999847412109,0.6569999694824219,0.014434603974223137,Niko Kranjcar,a,4397,OpenPlay,2014,RightFoot,4638,Arsenal,Queens Park Rangers,2,1,2014-12-26 17:30:00,,None
+19708,73,BlockedShot,0.8830000305175781,0.3890000152587891,0.08885589241981506,Bobby Zamora,a,4396,OpenPlay,2014,LeftFoot,4638,Arsenal,Queens Park Rangers,2,1,2014-12-26 17:30:00,Charlie Austin,Pass
+19710,78,Goal,0.885,0.5,0.7611320614814758,Charlie Austin,a,848,Penalty,2014,RightFoot,4638,Arsenal,Queens Park Rangers,2,1,2014-12-26 17:30:00,,Standard
+19711,87,MissedShots,0.730999984741211,0.5670000076293945,0.013086067512631416,Niko Kranjcar,a,4397,OpenPlay,2014,LeftFoot,4638,Arsenal,Queens Park Rangers,2,1,2014-12-26 17:30:00,Junior Hoilett,TakeOn
+19712,88,BlockedShot,0.754000015258789,0.5970000076293945,0.01076443400233984,Junior Hoilett,a,4395,OpenPlay,2014,RightFoot,4638,Arsenal,Queens Park Rangers,2,1,2014-12-26 17:30:00,,Aerial
+19713,89,BlockedShot,0.9319999694824219,0.395,0.03981517255306244,Eduardo Vargas,a,85,FromCorner,2014,Head,4638,Arsenal,Queens Park Rangers,2,1,2014-12-26 17:30:00,Niko Kranjcar,Cross
+19714,89,BlockedShot,0.860999984741211,0.515,0.06612711399793625,Eduardo Vargas,a,85,OpenPlay,2014,RightFoot,4638,Arsenal,Queens Park Rangers,2,1,2014-12-26 17:30:00,,None
+19715,94,MissedShots,0.7030000305175781,0.5029999923706054,0.03911178559064865,Niko Kranjcar,a,4397,DirectFreekick,2014,RightFoot,4638,Arsenal,Queens Park Rangers,2,1,2014-12-26 17:30:00,,Standard

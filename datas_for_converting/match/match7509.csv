@@ -1,0 +1,28 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+172939,6,Goal,0.885,0.5,0.7612988352775574,Andrej Galabinov,h,6201,Penalty,2017,RightFoot,7509,Genoa,Juventus,2,4,2017-08-26 17:00:00,,Standard
+172941,10,SavedShot,0.86,0.705,0.06147250905632973,Adel Taarabt,h,4450,OpenPlay,2017,RightFoot,7509,Genoa,Juventus,2,4,2017-08-26 17:00:00,Andrej Galabinov,Pass
+172947,32,MissedShots,0.9230000305175782,0.575,0.05563948675990105,Andrej Galabinov,h,6201,OpenPlay,2017,Head,7509,Genoa,Juventus,2,4,2017-08-26 17:00:00,Darko Lazovic,Aerial
+172948,34,MissedShots,0.9119999694824219,0.5070000076293946,0.13358570635318756,Andrej Galabinov,h,6201,OpenPlay,2017,Head,7509,Genoa,Juventus,2,4,2017-08-26 17:00:00,Goran Pandev,Cross
+172949,37,BlockedShot,0.745,0.43099998474121093,0.027121933177113533,Miguel Veloso,h,1098,OpenPlay,2017,RightFoot,7509,Genoa,Juventus,2,4,2017-08-26 17:00:00,Davide Biraschi,HeadPass
+172959,65,MissedShots,0.7959999847412109,0.705,0.024064017459750175,Diego Laxalt,h,1100,OpenPlay,2017,LeftFoot,7509,Genoa,Juventus,2,4,2017-08-26 17:00:00,Miguel Veloso,TakeOn
+172960,71,MissedShots,0.779000015258789,0.36700000762939455,0.023687848821282387,Miguel Veloso,h,1098,OpenPlay,2017,RightFoot,7509,Genoa,Juventus,2,4,2017-08-26 17:00:00,,None
+172962,83,SavedShot,0.895,0.6719999694824219,0.06177278608083725,Raffaele Palladino,h,1361,OpenPlay,2017,LeftFoot,7509,Genoa,Juventus,2,4,2017-08-26 17:00:00,Andrea Bertolacci,Pass
+172963,84,MissedShots,0.9019999694824219,0.455,0.06458891183137894,Gianluca Lapadula,h,1136,OpenPlay,2017,Head,7509,Genoa,Juventus,2,4,2017-08-26 17:00:00,Raffaele Palladino,Cross
+172938,0,OwnGoal,0.09199999809265137,0.590999984741211,0,Miralem Pjanic,a,1290,OpenPlay,2017,RightFoot,7509,Genoa,Juventus,2,4,2017-08-26 17:00:00,,Clearance
+172940,9,MissedShots,0.8880000305175781,0.4229999923706055,0.013034898787736893,Giorgio Chiellini,a,1576,FromCorner,2017,Head,7509,Genoa,Juventus,2,4,2017-08-26 17:00:00,Paulo Dybala,Aerial
+172942,12,BlockedShot,0.715,0.509000015258789,0.044255852699279785,Miralem Pjanic,a,1290,DirectFreekick,2017,RightFoot,7509,Genoa,Juventus,2,4,2017-08-26 17:00:00,,Standard
+172943,13,Goal,0.9,0.5320000076293945,0.3755216598510742,Paulo Dybala,a,1294,OpenPlay,2017,RightFoot,7509,Genoa,Juventus,2,4,2017-08-26 17:00:00,Miralem Pjanic,Pass
+172944,18,BlockedShot,0.735999984741211,0.585,0.05158019810914993,Miralem Pjanic,a,1290,DirectFreekick,2017,RightFoot,7509,Genoa,Juventus,2,4,2017-08-26 17:00:00,,Standard
+172945,20,SavedShot,0.7440000152587891,0.5109999847412109,0.019788896664977074,Paulo Dybala,a,1294,OpenPlay,2017,LeftFoot,7509,Genoa,Juventus,2,4,2017-08-26 17:00:00,,None
+172946,27,MissedShots,0.8630000305175781,0.435,0.1403324156999588,Gonzalo Higuaín,a,1293,OpenPlay,2017,RightFoot,7509,Genoa,Juventus,2,4,2017-08-26 17:00:00,Miralem Pjanic,TakeOn
+172950,41,SavedShot,0.8780000305175781,0.44099998474121094,0.07759517431259155,Paulo Dybala,a,1294,OpenPlay,2017,LeftFoot,7509,Genoa,Juventus,2,4,2017-08-26 17:00:00,Gonzalo Higuaín,Chipped
+172951,41,SavedShot,0.9719999694824218,0.595999984741211,0.09944431483745575,Mario Mandzukic,a,1295,OpenPlay,2017,LeftFoot,7509,Genoa,Juventus,2,4,2017-08-26 17:00:00,,Rebound
+172952,42,BlockedShot,0.8180000305175781,0.5670000076293945,0.05627383664250374,Gonzalo Higuaín,a,1293,OpenPlay,2017,LeftFoot,7509,Genoa,Juventus,2,4,2017-08-26 17:00:00,Paulo Dybala,Pass
+172953,42,MissedShots,0.815,0.53,0.04584113508462906,Mario Mandzukic,a,1295,OpenPlay,2017,LeftFoot,7509,Genoa,Juventus,2,4,2017-08-26 17:00:00,,Rebound
+172954,44,BlockedShot,0.9730000305175781,0.4329999923706055,0.09572944790124893,Mario Mandzukic,a,1295,OpenPlay,2017,RightFoot,7509,Genoa,Juventus,2,4,2017-08-26 17:00:00,,Foul
+172956,47,MissedShots,0.9159999847412109,0.29700000762939455,0.050174616277217865,Gonzalo Higuaín,a,1293,OpenPlay,2017,RightFoot,7509,Genoa,Juventus,2,4,2017-08-26 17:00:00,Paulo Dybala,Pass
+172955,48,Goal,0.885,0.5,0.7612988352775574,Paulo Dybala,a,1294,Penalty,2017,LeftFoot,7509,Genoa,Juventus,2,4,2017-08-26 17:00:00,,Standard
+172957,58,MissedShots,0.905,0.425,0.08477783203125,Gonzalo Higuaín,a,1293,OpenPlay,2017,RightFoot,7509,Genoa,Juventus,2,4,2017-08-26 17:00:00,Stephan Lichtsteiner,Cross
+172958,61,Goal,0.9159999847412109,0.40400001525878904,0.11319020390510559,Juan Cuadrado,a,1089,OpenPlay,2017,LeftFoot,7509,Genoa,Juventus,2,4,2017-08-26 17:00:00,Mario Mandzukic,TakeOn
+172961,75,BlockedShot,0.815,0.46700000762939453,0.06703035533428192,Miralem Pjanic,a,1290,OpenPlay,2017,RightFoot,7509,Genoa,Juventus,2,4,2017-08-26 17:00:00,,None
+172964,91,Goal,0.865,0.27899999618530275,0.04670365899801254,Paulo Dybala,a,1294,OpenPlay,2017,LeftFoot,7509,Genoa,Juventus,2,4,2017-08-26 17:00:00,Gonzalo Higuaín,Pass

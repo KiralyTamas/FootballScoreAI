@@ -1,0 +1,22 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+153567,18,MissedShots,0.88,0.485,0.07836168259382248,Giuseppe Bellusci,h,1308,SetPiece,2016,LeftFoot,3702,Empoli,Atalanta,0,1,2017-05-21 14:00:00,,None
+153568,24,BlockedShot,0.7609999847412109,0.6580000305175782,0.018829867243766785,Marcel Büchel,h,1325,OpenPlay,2016,LeftFoot,3702,Empoli,Atalanta,0,1,2017-05-21 14:00:00,Omar El Kaddouri,Pass
+153576,58,BlockedShot,0.88,0.575,0.08869341015815735,Omar El Kaddouri,h,1385,OpenPlay,2016,LeftFoot,3702,Empoli,Atalanta,0,1,2017-05-21 14:00:00,Massimo Maccarone,Pass
+153577,58,BlockedShot,0.955999984741211,0.565,0.5357764363288879,Omar El Kaddouri,h,1385,OpenPlay,2016,RightFoot,3702,Empoli,Atalanta,0,1,2017-05-21 14:00:00,,Rebound
+153578,67,BlockedShot,0.7809999847412109,0.47,0.013040292076766491,Assane Diousse,h,1326,OpenPlay,2016,LeftFoot,3702,Empoli,Atalanta,0,1,2017-05-21 14:00:00,,Aerial
+153580,72,MissedShots,0.7180000305175781,0.59,0.013535351492464542,Assane Diousse,h,1326,FromCorner,2016,LeftFoot,3702,Empoli,Atalanta,0,1,2017-05-21 14:00:00,,None
+153581,77,MissedShots,0.8640000152587891,0.525,0.02944578044116497,Massimo Maccarone,h,1315,OpenPlay,2016,Head,3702,Empoli,Atalanta,0,1,2017-05-21 14:00:00,Manuel Pasqual,Cross
+153583,87,SavedShot,0.745,0.3770000076293945,0.05232110992074013,Manuel Pasqual,h,1309,DirectFreekick,2016,LeftFoot,3702,Empoli,Atalanta,0,1,2017-05-21 14:00:00,,Standard
+153564,8,MissedShots,0.8959999847412109,0.6140000152587891,0.017393048852682114,Rafael Toloi,a,1484,FromCorner,2016,Head,3702,Empoli,Atalanta,0,1,2017-05-21 14:00:00,Alejandro Gomez,Cross
+153565,10,SavedShot,0.88,0.44599998474121094,0.01480897143483162,Jasmin Kurtic,a,1492,FromCorner,2016,Head,3702,Empoli,Atalanta,0,1,2017-05-21 14:00:00,Andrea Masiello,Aerial
+153566,12,Goal,0.8090000152587891,0.700999984741211,0.026874998584389687,Alejandro Gomez,a,1491,OpenPlay,2016,LeftFoot,3702,Empoli,Atalanta,0,1,2017-05-21 14:00:00,Remo Freuler,Pass
+153569,28,BlockedShot,0.8530000305175781,0.6469999694824219,0.048876360058784485,Remo Freuler,a,1488,SetPiece,2016,RightFoot,3702,Empoli,Atalanta,0,1,2017-05-21 14:00:00,Alejandro Gomez,Pass
+153570,28,SavedShot,0.8719999694824219,0.7330000305175781,0.021640503779053688,Remo Freuler,a,1488,SetPiece,2016,LeftFoot,3702,Empoli,Atalanta,0,1,2017-05-21 14:00:00,,Rebound
+153571,31,BlockedShot,0.8059999847412109,0.6270000076293946,0.06507275998592377,Andrea Petagna,a,1493,OpenPlay,2016,LeftFoot,3702,Empoli,Atalanta,0,1,2017-05-21 14:00:00,Alejandro Gomez,TakeOn
+153572,32,BlockedShot,0.7709999847412109,0.6530000305175782,0.030438821762800217,Andrea Masiello,a,1485,OpenPlay,2016,RightFoot,3702,Empoli,Atalanta,0,1,2017-05-21 14:00:00,,None
+153573,32,BlockedShot,0.8390000152587891,0.445,0.06992537528276443,Jasmin Kurtic,a,1492,OpenPlay,2016,LeftFoot,3702,Empoli,Atalanta,0,1,2017-05-21 14:00:00,,Rebound
+153574,51,SavedShot,0.860999984741211,0.4779999923706055,0.11075198650360107,Jasmin Kurtic,a,1492,OpenPlay,2016,RightFoot,3702,Empoli,Atalanta,0,1,2017-05-21 14:00:00,Alejandro Gomez,Pass
+153575,56,BlockedShot,0.8280000305175781,0.39,0.0731501430273056,Andrea Conti,a,1487,OpenPlay,2016,RightFoot,3702,Empoli,Atalanta,0,1,2017-05-21 14:00:00,Franck Kessié,Pass
+153579,71,BlockedShot,0.7780000305175782,0.3529999923706055,0.029084812849760056,Andrea Petagna,a,1493,OpenPlay,2016,LeftFoot,3702,Empoli,Atalanta,0,1,2017-05-21 14:00:00,Jasmin Kurtic,Pass
+153582,83,MissedShots,0.8909999847412109,0.42200000762939455,0.36830446124076843,Andrea Conti,a,1487,OpenPlay,2016,RightFoot,3702,Empoli,Atalanta,0,1,2017-05-21 14:00:00,Alberto Paloschi,Pass
+153584,93,SavedShot,0.9030000305175782,0.43099998474121093,0.4093923568725586,Alberto Paloschi,a,716,SetPiece,2016,RightFoot,3702,Empoli,Atalanta,0,1,2017-05-21 14:00:00,Remo Freuler,Pass

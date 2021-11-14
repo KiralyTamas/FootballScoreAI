@@ -1,0 +1,26 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+17254,3,SavedShot,0.9169999694824219,0.47,0.3339782953262329,Falcao,h,696,OpenPlay,2014,Head,4695,Manchester United,Everton,2,1,2014-10-05 12:00:00,Luke Shaw,Cross
+17255,6,MissedShots,0.899000015258789,0.5479999923706055,0.31430792808532715,Robin van Persie,h,4387,OpenPlay,2014,LeftFoot,4695,Manchester United,Everton,2,1,2014-10-05 12:00:00,Ángel Di María,Cross
+17256,11,BlockedShot,0.7030000305175781,0.5970000076293945,0.014934048987925053,Ángel Di María,h,3553,OpenPlay,2014,LeftFoot,4695,Manchester United,Everton,2,1,2014-10-05 12:00:00,Daley Blind,Pass
+17257,12,MissedShots,0.7569999694824219,0.51,0.019740445539355278,Daley Blind,h,548,OpenPlay,2014,LeftFoot,4695,Manchester United,Everton,2,1,2014-10-05 12:00:00,Juan Mata,BallTouch
+17258,18,MissedShots,0.8009999847412109,0.6940000152587891,0.023545226082205772,Falcao,h,696,OpenPlay,2014,RightFoot,4695,Manchester United,Everton,2,1,2014-10-05 12:00:00,Ángel Di María,Pass
+17259,23,BlockedShot,0.715999984741211,0.63,0.015282738953828812,Ángel Di María,h,3553,OpenPlay,2014,LeftFoot,4695,Manchester United,Everton,2,1,2014-10-05 12:00:00,Robin van Persie,Pass
+17260,24,MissedShots,0.7269999694824218,0.524000015258789,0.022899281233549118,Daley Blind,h,548,FromCorner,2014,LeftFoot,4695,Manchester United,Everton,2,1,2014-10-05 12:00:00,Juan Mata,Pass
+17261,26,Goal,0.85,0.534000015258789,0.09263689070940018,Ángel Di María,h,3553,OpenPlay,2014,RightFoot,4695,Manchester United,Everton,2,1,2014-10-05 12:00:00,Juan Mata,Pass
+17262,29,SavedShot,0.6780000305175782,0.40099998474121096,0.030035018920898438,Ángel Di María,h,3553,DirectFreekick,2014,LeftFoot,4695,Manchester United,Everton,2,1,2014-10-05 12:00:00,,Standard
+17264,41,MissedShots,0.9180000305175782,0.5309999847412109,0.09510038793087006,Falcao,h,696,FromCorner,2014,LeftFoot,4695,Manchester United,Everton,2,1,2014-10-05 12:00:00,Ángel Di María,Cross
+17266,45,BlockedShot,0.8859999847412109,0.49700000762939456,0.041492849588394165,Falcao,h,696,OpenPlay,2014,Head,4695,Manchester United,Everton,2,1,2014-10-05 12:00:00,Ángel Di María,Aerial
+17267,46,MissedShots,0.8040000152587891,0.25,0.01518299337476492,Ángel Di María,h,3553,FromCorner,2014,LeftFoot,4695,Manchester United,Everton,2,1,2014-10-05 12:00:00,,None
+17268,50,MissedShots,0.9169999694824219,0.5829999923706055,0.17694304883480072,Falcao,h,696,OpenPlay,2014,LeftFoot,4695,Manchester United,Everton,2,1,2014-10-05 12:00:00,Luke Shaw,TakeOn
+17271,61,MissedShots,0.7430000305175781,0.63,0.017392514273524284,Ángel Di María,h,3553,OpenPlay,2014,LeftFoot,4695,Manchester United,Everton,2,1,2014-10-05 12:00:00,Antonio Valencia,Pass
+17272,61,Goal,0.92,0.4420000076293945,0.4176936745643616,Falcao,h,696,OpenPlay,2014,RightFoot,4695,Manchester United,Everton,2,1,2014-10-05 12:00:00,Ángel Di María,Rebound
+17263,38,MissedShots,0.8769999694824219,0.6840000152587891,0.04047706723213196,Romelu Lukaku,a,594,OpenPlay,2014,LeftFoot,4695,Manchester United,Everton,2,1,2014-10-05 12:00:00,Leighton Baines,Chipped
+17265,48,SavedShot,0.885,0.5,0.7611688375473022,Leighton Baines,a,588,Penalty,2014,LeftFoot,4695,Manchester United,Everton,2,1,2014-10-05 12:00:00,,Standard
+17269,54,Goal,0.955,0.44299999237060544,0.46058526635169983,Steven Naismith,a,824,SetPiece,2014,Head,4695,Manchester United,Everton,2,1,2014-10-05 12:00:00,Leighton Baines,Cross
+17270,58,BlockedShot,0.9419999694824219,0.5879999923706055,0.06857841461896896,Phil Jagielka,a,587,FromCorner,2014,Head,4695,Manchester United,Everton,2,1,2014-10-05 12:00:00,Leighton Baines,Cross
+17273,86,BlockedShot,0.9059999847412109,0.534000015258789,0.03256918489933014,Steven Naismith,a,824,OpenPlay,2014,Head,4695,Manchester United,Everton,2,1,2014-10-05 12:00:00,Tyias Browning,Aerial
+17274,86,SavedShot,0.8530000305175781,0.41,0.052688829600811005,Leon Osman,a,891,FromCorner,2014,LeftFoot,4695,Manchester United,Everton,2,1,2014-10-05 12:00:00,,None
+17275,90,SavedShot,0.860999984741211,0.3609999847412109,0.23153631389141083,Leon Osman,a,891,OpenPlay,2014,RightFoot,4695,Manchester United,Everton,2,1,2014-10-05 12:00:00,Steven Naismith,Pass
+17276,93,BlockedShot,0.9280000305175782,0.575999984741211,0.4304875135421753,Gareth Barry,a,590,SetPiece,2014,LeftFoot,4695,Manchester United,Everton,2,1,2014-10-05 12:00:00,John Stones,HeadPass
+17277,93,SavedShot,0.805,0.5,0.03260602802038193,Bryan Oviedo,a,598,SetPiece,2014,LeftFoot,4695,Manchester United,Everton,2,1,2014-10-05 12:00:00,,Rebound
+17278,96,MissedShots,0.95,0.4209999847412109,0.03892223909497261,Romelu Lukaku,a,594,FromCorner,2014,Head,4695,Manchester United,Everton,2,1,2014-10-05 12:00:00,Leighton Baines,Aerial

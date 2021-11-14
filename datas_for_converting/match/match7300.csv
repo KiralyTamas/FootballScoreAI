@@ -1,0 +1,31 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+185267,5,Goal,0.825,0.435,0.1096920445561409,Marko Arnautovic,h,865,OpenPlay,2017,RightFoot,7300,West Ham,Newcastle United,2,3,2017-12-23 15:00:00,,BallRecovery
+185270,12,SavedShot,0.725,0.6120000076293945,0.010923754423856735,Michail Antonio,h,531,OpenPlay,2017,RightFoot,7300,West Ham,Newcastle United,2,3,2017-12-23 15:00:00,Winston Reid,Chipped
+185273,25,MissedShots,0.91,0.4929999923706055,0.08185430616140366,Michail Antonio,h,531,FromCorner,2017,Head,7300,West Ham,Newcastle United,2,3,2017-12-23 15:00:00,Aaron Cresswell,Cross
+185274,28,SavedShot,0.730999984741211,0.7090000152587891,0.016728663817048073,Arthur Masuaku,h,1760,OpenPlay,2017,LeftFoot,7300,West Ham,Newcastle United,2,3,2017-12-23 15:00:00,Aaron Cresswell,Pass
+185278,34,MissedShots,0.905,0.47299999237060547,0.273357093334198,Michail Antonio,h,531,OpenPlay,2017,Head,7300,West Ham,Newcastle United,2,3,2017-12-23 15:00:00,Marko Arnautovic,Cross
+185279,38,BlockedShot,0.6819999694824219,0.6370000076293946,0.010720856487751007,Aaron Cresswell,h,534,OpenPlay,2017,LeftFoot,7300,West Ham,Newcastle United,2,3,2017-12-23 15:00:00,Cheikhou Kouyaté,Pass
+185281,39,BlockedShot,0.88,0.30700000762939456,0.04138569533824921,Michail Antonio,h,531,OpenPlay,2017,RightFoot,7300,West Ham,Newcastle United,2,3,2017-12-23 15:00:00,Winston Reid,HeadPass
+185282,43,BlockedShot,0.895,0.47200000762939454,0.05242738127708435,Cheikhou Kouyaté,h,532,FromCorner,2017,Head,7300,West Ham,Newcastle United,2,3,2017-12-23 15:00:00,Aaron Cresswell,Cross
+185283,43,BlockedShot,0.7680000305175781,0.35200000762939454,0.016447177156805992,Pedro Obiang,h,542,FromCorner,2017,RightFoot,7300,West Ham,Newcastle United,2,3,2017-12-23 15:00:00,,None
+185284,49,MissedShots,0.825999984741211,0.41900001525878905,0.041868068277835846,Marko Arnautovic,h,865,OpenPlay,2017,LeftFoot,7300,West Ham,Newcastle United,2,3,2017-12-23 15:00:00,Michail Antonio,Chipped
+185286,55,SavedShot,0.885,0.5,0.7611688375473022,André Ayew,h,713,Penalty,2017,LeftFoot,7300,West Ham,Newcastle United,2,3,2017-12-23 15:00:00,,Standard
+185288,62,BlockedShot,0.82,0.4570000076293945,0.047375213354825974,Pedro Obiang,h,542,SetPiece,2017,RightFoot,7300,West Ham,Newcastle United,2,3,2017-12-23 15:00:00,,None
+185289,68,SavedShot,0.9630000305175781,0.43599998474121093,0.11807820945978165,Andy Carroll,h,537,FromCorner,2017,Head,7300,West Ham,Newcastle United,2,3,2017-12-23 15:00:00,Aaron Cresswell,Cross
+185290,68,Goal,0.955999984741211,0.48900001525878906,0.637208878993988,André Ayew,h,713,FromCorner,2017,RightFoot,7300,West Ham,Newcastle United,2,3,2017-12-23 15:00:00,,Rebound
+185292,78,MissedShots,0.8159999847412109,0.5279999923706055,0.038559239357709885,Pedro Obiang,h,542,OpenPlay,2017,LeftFoot,7300,West Ham,Newcastle United,2,3,2017-12-23 15:00:00,Andy Carroll,HeadPass
+185293,88,BlockedShot,0.8819999694824219,0.6430000305175781,0.058200616389513016,Andy Carroll,h,537,OpenPlay,2017,LeftFoot,7300,West Ham,Newcastle United,2,3,2017-12-23 15:00:00,Winston Reid,Chipped
+185294,89,BlockedShot,0.8159999847412109,0.5320000076293945,0.03298506885766983,Marko Arnautovic,h,865,OpenPlay,2017,LeftFoot,7300,West Ham,Newcastle United,2,3,2017-12-23 15:00:00,Angelo Ogbonna,TakeOn
+185295,94,BlockedShot,0.735,0.5920000076293945,0.0327754020690918,Angelo Ogbonna,h,528,OpenPlay,2017,LeftFoot,7300,West Ham,Newcastle United,2,3,2017-12-23 15:00:00,,TakeOn
+185296,94,MissedShots,0.8680000305175781,0.5420000076293945,0.012465467676520348,Angelo Ogbonna,h,528,FromCorner,2017,Head,7300,West Ham,Newcastle United,2,3,2017-12-23 15:00:00,Aaron Cresswell,Aerial
+185268,7,BlockedShot,0.7319999694824219,0.6959999847412109,0.03778865188360214,Dwight Gayle,a,743,DirectFreekick,2017,RightFoot,7300,West Ham,Newcastle United,2,3,2017-12-23 15:00:00,,Standard
+185269,9,Goal,0.745,0.7190000152587891,0.03902139887213707,Henri Saivet,a,778,DirectFreekick,2017,RightFoot,7300,West Ham,Newcastle United,2,3,2017-12-23 15:00:00,,Standard
+185271,16,ShotOnPost,0.9319999694824219,0.4909999847412109,0.5357736349105835,Dwight Gayle,a,743,OpenPlay,2017,LeftFoot,7300,West Ham,Newcastle United,2,3,2017-12-23 15:00:00,DeAndre Yedlin,Rebound
+185272,17,SavedShot,0.775,0.68,0.01737293414771557,Christian Atsu,a,2344,OpenPlay,2017,RightFoot,7300,West Ham,Newcastle United,2,3,2017-12-23 15:00:00,,None
+185275,32,BlockedShot,0.7580000305175781,0.48200000762939454,0.016638290137052536,DeAndre Yedlin,a,727,SetPiece,2017,RightFoot,7300,West Ham,Newcastle United,2,3,2017-12-23 15:00:00,,None
+185276,33,ShotOnPost,0.8090000152587891,0.31,0.023160750046372414,Matt Ritchie,a,461,OpenPlay,2017,LeftFoot,7300,West Ham,Newcastle United,2,3,2017-12-23 15:00:00,Dwight Gayle,Pass
+185277,33,MissedShots,0.8330000305175781,0.580999984741211,0.04713030159473419,Mohamed Diamé,a,4471,OpenPlay,2017,LeftFoot,7300,West Ham,Newcastle United,2,3,2017-12-23 15:00:00,,Rebound
+185280,38,MissedShots,0.87,0.415,0.09764862060546875,Dwight Gayle,a,743,OpenPlay,2017,RightFoot,7300,West Ham,Newcastle United,2,3,2017-12-23 15:00:00,Matt Ritchie,Pass
+185285,52,Goal,0.8959999847412109,0.4779999923706055,0.415891170501709,Mohamed Diamé,a,4471,OpenPlay,2017,RightFoot,7300,West Ham,Newcastle United,2,3,2017-12-23 15:00:00,Christian Atsu,Pass
+185287,60,Goal,0.9330000305175781,0.52,0.6826688647270203,Christian Atsu,a,2344,OpenPlay,2017,LeftFoot,7300,West Ham,Newcastle United,2,3,2017-12-23 15:00:00,Joselu,Pass
+185291,73,MissedShots,0.730999984741211,0.28100000381469725,0.015119461342692375,Matt Ritchie,a,461,OpenPlay,2017,LeftFoot,7300,West Ham,Newcastle United,2,3,2017-12-23 15:00:00,,BallRecovery

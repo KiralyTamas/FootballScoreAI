@@ -11,6 +11,7 @@ for (dirpath, dirnames, filenames) in os.walk(input("Mi a konvertálandó fájlo
 
 
 def convert():
+  error=input("Hova kerüljenek a hibás fájlok?")
   main_path=f
   for i in main_path:
     all_path=str(dirpath)+"\\"+str(i)
@@ -19,10 +20,19 @@ def convert():
       continue
     if "fixtures" in recall[0]:
       convert_fr(recall,"_")
+      os.remove(all_path)
     if "result" in recall[0]:
       convert_fr(recall,"_")
+      os.remove(all_path)
     if "match" in recall[0]:
-      convert_m(recall)
+      try:
+        convert_m(recall)
+        os.remove(all_path)
+      except IndexError:
+        os.replace(all_path,error)
+        if IndexError == True:
+          continue
     if "table" in recall[0]:
       convert_t(recall)
+      os.remove(all_path)
 convert()

@@ -1,0 +1,23 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+363070,4,SavedShot,0.9,0.365,0.08839187771081924,Marius Bülter,h,7879,OpenPlay,2019,RightFoot,12636,Union Berlin,Bayern Munich,0,2,2020-05-17 16:00:00,Grischa Prömel,Pass
+363071,6,MissedShots,0.845,0.345,0.053526621311903,Anthony Ujah,h,119,OpenPlay,2019,RightFoot,12636,Union Berlin,Bayern Munich,0,2,2020-05-17 16:00:00,Florian Hübner,Chipped
+363076,47,BlockedShot,0.865999984741211,0.46299999237060546,0.015221736393868923,Anthony Ujah,h,119,OpenPlay,2019,Head,12636,Union Berlin,Bayern Munich,0,2,2020-05-17 16:00:00,Christopher Trimmel,Aerial
+363077,47,BlockedShot,0.8569999694824219,0.6170000076293946,0.06057622283697128,Robert Andrich,h,7877,FromCorner,2019,RightFoot,12636,Union Berlin,Bayern Munich,0,2,2020-05-17 16:00:00,,TakeOn
+363078,47,MissedShots,0.7269999694824218,0.5820000076293945,0.01808577962219715,Grischa Prömel,h,4340,FromCorner,2019,LeftFoot,12636,Union Berlin,Bayern Munich,0,2,2020-05-17 16:00:00,,Rebound
+363083,55,MissedShots,0.7930000305175782,0.31799999237060544,0.02187362313270569,Grischa Prömel,h,4340,OpenPlay,2019,RightFoot,12636,Union Berlin,Bayern Munich,0,2,2020-05-17 16:00:00,,None
+363085,74,MissedShots,0.8030000305175782,0.40200000762939453,0.036382727324962616,Christian Gentner,h,60,OpenPlay,2019,LeftFoot,12636,Union Berlin,Bayern Munich,0,2,2020-05-17 16:00:00,,Dispossessed
+363086,77,MissedShots,0.815,0.6859999847412109,0.02760617434978485,Christian Gentner,h,60,OpenPlay,2019,LeftFoot,12636,Union Berlin,Bayern Munich,0,2,2020-05-17 16:00:00,,None
+363089,89,SavedShot,0.9269999694824219,0.6759999847412109,0.22819937765598297,Felix Kroos,h,120,OpenPlay,2019,LeftFoot,12636,Union Berlin,Bayern Munich,0,2,2020-05-17 16:00:00,Christopher Lenz,Pass
+363069,2,BlockedShot,0.7469999694824219,0.27600000381469725,0.019470499828457832,Robert Lewandowski,a,227,OpenPlay,2019,RightFoot,12636,Union Berlin,Bayern Munich,0,2,2020-05-17 16:00:00,Benjamin Pavard,Pass
+363072,14,BlockedShot,0.8480000305175781,0.6730000305175782,0.04493140056729317,Serge Gnabry,a,993,OpenPlay,2019,LeftFoot,12636,Union Berlin,Bayern Munich,0,2,2020-05-17 16:00:00,Alphonso Davies,Pass
+363073,16,MissedShots,0.865999984741211,0.5690000152587891,0.019277265295386314,Leon Goretzka,a,335,FromCorner,2019,Head,12636,Union Berlin,Bayern Munich,0,2,2020-05-17 16:00:00,Joshua Kimmich,Cross
+363074,39,Goal,0.885,0.5,0.75777667760849,Robert Lewandowski,a,227,Penalty,2019,RightFoot,12636,Union Berlin,Bayern Munich,0,2,2020-05-17 16:00:00,,Standard
+363075,45,BlockedShot,0.8830000305175781,0.37400001525878906,0.05941459909081459,Thomas Müller,a,224,OpenPlay,2019,RightFoot,12636,Union Berlin,Bayern Munich,0,2,2020-05-17 16:00:00,Alphonso Davies,Cross
+363080,46,BlockedShot,0.8419999694824218,0.48700000762939455,0.09294004738330841,Serge Gnabry,a,993,OpenPlay,2019,RightFoot,12636,Union Berlin,Bayern Munich,0,2,2020-05-17 16:00:00,,BallRecovery
+363079,48,MissedShots,0.8030000305175782,0.24899999618530275,0.024412421509623528,Benjamin Pavard,a,3363,OpenPlay,2019,RightFoot,12636,Union Berlin,Bayern Munich,0,2,2020-05-17 16:00:00,Thomas Müller,Pass
+363081,48,BlockedShot,0.91,0.28,0.058016590774059296,Leon Goretzka,a,335,OpenPlay,2019,RightFoot,12636,Union Berlin,Bayern Munich,0,2,2020-05-17 16:00:00,Thomas Müller,Pass
+363082,54,MissedShots,0.955999984741211,0.5029999923706054,0.08885850757360458,Benjamin Pavard,a,3363,FromCorner,2019,Head,12636,Union Berlin,Bayern Munich,0,2,2020-05-17 16:00:00,Joshua Kimmich,Aerial
+363084,62,BlockedShot,0.8540000152587891,0.6730000305175782,0.05789756774902344,Serge Gnabry,a,993,OpenPlay,2019,RightFoot,12636,Union Berlin,Bayern Munich,0,2,2020-05-17 16:00:00,Leon Goretzka,Pass
+363087,78,SavedShot,0.8980000305175782,0.6630000305175782,0.08609302341938019,Serge Gnabry,a,993,OpenPlay,2019,LeftFoot,12636,Union Berlin,Bayern Munich,0,2,2020-05-17 16:00:00,Alphonso Davies,Pass
+363088,79,Goal,0.9319999694824219,0.49400001525878906,0.06506093591451645,Benjamin Pavard,a,3363,FromCorner,2019,Head,12636,Union Berlin,Bayern Munich,0,2,2020-05-17 16:00:00,Joshua Kimmich,Aerial
+363090,93,MissedShots,0.5379999923706055,0.4879999923706055,0.019188620150089264,Joshua Kimmich,a,223,DirectFreekick,2019,RightFoot,12636,Union Berlin,Bayern Munich,0,2,2020-05-17 16:00:00,,Standard

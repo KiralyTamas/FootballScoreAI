@@ -1,0 +1,28 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+93885,2,BlockedShot,0.874000015258789,0.6179999923706054,0.0668317973613739,Paolo Sammarco,h,1866,OpenPlay,2015,LeftFoot,751,Frosinone,Atalanta,0,0,2016-01-23 21:00:00,,None
+93886,3,MissedShots,0.9009999847412109,0.5829999923706055,0.06454852223396301,Leonardo Blanchard,h,1860,SetPiece,2015,LeftFoot,751,Frosinone,Atalanta,0,0,2016-01-23 21:00:00,Daniel Pavlovic,Cross
+93888,14,MissedShots,0.705,0.43900001525878907,0.013368855230510235,Federico Dionisi,h,1867,OpenPlay,2015,RightFoot,751,Frosinone,Atalanta,0,0,2016-01-23 21:00:00,,BallRecovery
+93889,21,SavedShot,0.8969999694824219,0.34200000762939453,0.03914244472980499,Daniel Ciofani,h,1868,FromCorner,2015,RightFoot,751,Frosinone,Atalanta,0,0,2016-01-23 21:00:00,Paolo Sammarco,Cross
+93890,22,BlockedShot,0.855999984741211,0.4329999923706055,0.06327617913484573,Raman Chibsah,h,1872,OpenPlay,2015,RightFoot,751,Frosinone,Atalanta,0,0,2016-01-23 21:00:00,Luca Paganini,Cross
+93894,32,MissedShots,0.8919999694824219,0.629000015258789,0.3118344247341156,Federico Dionisi,h,1867,SetPiece,2015,RightFoot,751,Frosinone,Atalanta,0,0,2016-01-23 21:00:00,Arlind Ajeti,Pass
+93896,41,MissedShots,0.9059999847412109,0.4229999923706055,0.0934065729379654,Luca Paganini,h,1963,OpenPlay,2015,RightFoot,751,Frosinone,Atalanta,0,0,2016-01-23 21:00:00,,None
+93898,45,BlockedShot,0.8819999694824219,0.53,0.0628410279750824,Arlind Ajeti,h,1191,FromCorner,2015,LeftFoot,751,Frosinone,Atalanta,0,0,2016-01-23 21:00:00,Daniel Pavlovic,End
+93903,59,MissedShots,0.855,0.5529999923706055,0.03269452601671219,Arlind Ajeti,h,1191,SetPiece,2015,RightFoot,751,Frosinone,Atalanta,0,0,2016-01-23 21:00:00,Daniel Pavlovic,Cross
+93906,85,BlockedShot,0.8440000152587891,0.30100000381469727,0.03392020985484123,Federico Dionisi,h,1867,OpenPlay,2015,LeftFoot,751,Frosinone,Atalanta,0,0,2016-01-23 21:00:00,Danilo Soddimo,Pass
+93909,89,MissedShots,0.7859999847412109,0.355,0.018973561003804207,Danilo Soddimo,h,1871,FromCorner,2015,LeftFoot,751,Frosinone,Atalanta,0,0,2016-01-23 21:00:00,,None
+93887,10,MissedShots,0.740999984741211,0.485,0.02147621288895607,Gaetano Monachello,a,1928,OpenPlay,2015,LeftFoot,751,Frosinone,Atalanta,0,0,2016-01-23 21:00:00,Alejandro Gomez,Pass
+93891,24,MissedShots,0.6859999847412109,0.32599998474121095,0.008508582599461079,Alejandro Gomez,a,1491,OpenPlay,2015,RightFoot,751,Frosinone,Atalanta,0,0,2016-01-23 21:00:00,Andrea Masiello,TakeOn
+93892,26,MissedShots,0.8690000152587891,0.629000015258789,0.041593942791223526,Jasmin Kurtic,a,1492,OpenPlay,2015,RightFoot,751,Frosinone,Atalanta,0,0,2016-01-23 21:00:00,Giulio Migliaccio,Cross
+93893,30,MissedShots,0.7180000305175781,0.7180000305175781,0.008448217995464802,Boukary Dramé,a,1490,SetPiece,2015,LeftFoot,751,Frosinone,Atalanta,0,0,2016-01-23 21:00:00,,None
+93895,33,SavedShot,0.899000015258789,0.38599998474121094,0.07749192416667938,Gaetano Monachello,a,1928,OpenPlay,2015,LeftFoot,751,Frosinone,Atalanta,0,0,2016-01-23 21:00:00,Boukary Dramé,HeadPass
+93897,43,SavedShot,0.8590000152587891,0.705999984741211,0.03717795014381409,Gaetano Monachello,a,1928,OpenPlay,2015,LeftFoot,751,Frosinone,Atalanta,0,0,2016-01-23 21:00:00,Alejandro Gomez,Pass
+93899,46,MissedShots,0.7530000305175781,0.445,0.02234923653304577,Alejandro Gomez,a,1491,OpenPlay,2015,LeftFoot,751,Frosinone,Atalanta,0,0,2016-01-23 21:00:00,Marten de Roon,Pass
+93900,49,BlockedShot,0.9209999847412109,0.37099998474121093,0.046343784779310226,Giulio Migliaccio,a,1503,FromCorner,2015,RightFoot,751,Frosinone,Atalanta,0,0,2016-01-23 21:00:00,Alejandro Gomez,Cross
+93901,49,MissedShots,0.88,0.72,0.03122318536043167,Boukary Dramé,a,1490,FromCorner,2015,LeftFoot,751,Frosinone,Atalanta,0,0,2016-01-23 21:00:00,Alejandro Gomez,Cross
+93902,55,BlockedShot,0.825999984741211,0.5179999923706055,0.07358609139919281,Gaetano Monachello,a,1928,OpenPlay,2015,RightFoot,751,Frosinone,Atalanta,0,0,2016-01-23 21:00:00,Jasmin Kurtic,Pass
+93904,70,MissedShots,0.7119999694824218,0.52,0.014860248193144798,Alejandro Gomez,a,1491,OpenPlay,2015,RightFoot,751,Frosinone,Atalanta,0,0,2016-01-23 21:00:00,Boukary Dramé,Pass
+93905,84,SavedShot,0.8669999694824219,0.504000015258789,0.07676099240779877,Alejandro Gomez,a,1491,OpenPlay,2015,LeftFoot,751,Frosinone,Atalanta,0,0,2016-01-23 21:00:00,Jasmin Kurtic,Cross
+93907,85,MissedShots,0.9390000152587891,0.38799999237060545,0.3647371530532837,Alejandro Gomez,a,1491,OpenPlay,2015,RightFoot,751,Frosinone,Atalanta,0,0,2016-01-23 21:00:00,,None
+93908,87,MissedShots,0.8,0.3340000152587891,0.021876443177461624,Marten de Roon,a,1710,OpenPlay,2015,RightFoot,751,Frosinone,Atalanta,0,0,2016-01-23 21:00:00,Germán Denis,Pass
+93910,93,BlockedShot,0.725,0.48,0.0165883619338274,Alessandro Diamanti,a,948,OpenPlay,2015,LeftFoot,751,Frosinone,Atalanta,0,0,2016-01-23 21:00:00,Germán Denis,Pass
+93911,93,MissedShots,0.93,0.45599998474121095,0.11271151900291443,Andrea Conti,a,1487,OpenPlay,2015,RightFoot,751,Frosinone,Atalanta,0,0,2016-01-23 21:00:00,Alessandro Diamanti,Cross

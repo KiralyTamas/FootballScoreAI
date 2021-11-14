@@ -1,0 +1,22 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+62782,7,MissedShots,0.8780000305175781,0.4640000152587891,0.0379343144595623,Loic Perrin,h,3689,FromCorner,2015,Head,1947,Saint-Etienne,Nice,1,4,2015-09-27 23:00:00,,None
+62785,18,SavedShot,0.7780000305175782,0.33599998474121096,0.017338169738650322,Fabien Lemoine,h,3509,FromCorner,2015,RightFoot,1947,Saint-Etienne,Nice,1,4,2015-09-27 23:00:00,,None
+62786,18,Goal,0.93,0.5029999923706054,0.5369383692741394,Loic Perrin,h,3689,FromCorner,2015,RightFoot,1947,Saint-Etienne,Nice,1,4,2015-09-27 23:00:00,,Rebound
+62787,21,SavedShot,0.885,0.28899999618530275,0.2964138388633728,Robert Beric,h,3691,OpenPlay,2015,RightFoot,1947,Saint-Etienne,Nice,1,4,2015-09-27 23:00:00,Valentin Eysseric,Throughball
+62790,29,MissedShots,0.905,0.5259999847412109,0.2848171889781952,Robert Beric,h,3691,SetPiece,2015,Head,1947,Saint-Etienne,Nice,1,4,2015-09-27 23:00:00,Kevin Malcuit,Cross
+62793,42,BlockedShot,0.784000015258789,0.42700000762939455,0.03055189736187458,Robert Beric,h,3691,OpenPlay,2015,RightFoot,1947,Saint-Etienne,Nice,1,4,2015-09-27 23:00:00,,None
+62799,51,SavedShot,0.9159999847412109,0.4640000152587891,0.11548708379268646,Vincent Pajot,h,3507,OpenPlay,2015,Head,1947,Saint-Etienne,Nice,1,4,2015-09-27 23:00:00,Romain Hamouma,Cross
+62803,54,MissedShots,0.9230000305175782,0.5609999847412109,0.08307772874832153,Romain Hamouma,h,3561,SetPiece,2015,RightFoot,1947,Saint-Etienne,Nice,1,4,2015-09-27 23:00:00,Valentin Eysseric,Cross
+62805,72,MissedShots,0.9419999694824219,0.5029999923706054,0.12978263199329376,Jean-Christophe Bahebeck,h,1531,FromCorner,2015,Head,1947,Saint-Etienne,Nice,1,4,2015-09-27 23:00:00,Valentin Eysseric,Cross
+62810,79,BlockedShot,0.7730000305175782,0.5970000076293945,0.02705884538590908,Jean-Christophe Bahebeck,h,1531,OpenPlay,2015,LeftFoot,1947,Saint-Etienne,Nice,1,4,2015-09-27 23:00:00,Vincent Pajot,Pass
+62814,82,MissedShots,0.885,0.5,0.7600951194763184,Jean-Christophe Bahebeck,h,1531,Penalty,2015,RightFoot,1947,Saint-Etienne,Nice,1,4,2015-09-27 23:00:00,,Standard
+62815,92,SavedShot,0.8669999694824219,0.5679999923706055,0.07321815937757492,Jean-Christophe Bahebeck,h,1531,OpenPlay,2015,RightFoot,1947,Saint-Etienne,Nice,1,4,2015-09-27 23:00:00,,BallTouch
+62816,94,MissedShots,0.7230000305175781,0.53,0.014498098753392696,Fabien Lemoine,h,3509,FromCorner,2015,RightFoot,1947,Saint-Etienne,Nice,1,4,2015-09-27 23:00:00,,None
+62779,4,Goal,0.919000015258789,0.4929999923706055,0.38279083371162415,Vincent Koziello,a,3307,OpenPlay,2015,RightFoot,1947,Saint-Etienne,Nice,1,4,2015-09-27 23:00:00,Ricardo Pereira,Cross
+62784,11,MissedShots,0.685,0.46599998474121096,0.014764917083084583,Nampalys Mendy,a,1785,OpenPlay,2015,RightFoot,1947,Saint-Etienne,Nice,1,4,2015-09-27 23:00:00,,Interception
+62791,32,MissedShots,0.7519999694824219,0.22700000762939454,0.013833880424499512,Jérémy Pied,a,1784,OpenPlay,2015,RightFoot,1947,Saint-Etienne,Nice,1,4,2015-09-27 23:00:00,Jean Michael Seri,Pass
+62792,38,Goal,0.894000015258789,0.665,0.059403739869594574,Hatem Ben Arfa,a,3638,OpenPlay,2015,LeftFoot,1947,Saint-Etienne,Nice,1,4,2015-09-27 23:00:00,,None
+62794,45,Goal,0.9019999694824219,0.34200000762939453,0.16487672924995422,Hatem Ben Arfa,a,3638,OpenPlay,2015,RightFoot,1947,Saint-Etienne,Nice,1,4,2015-09-27 23:00:00,Vincent Koziello,TakeOn
+62801,52,Goal,0.8209999847412109,0.55,0.26706641912460327,Jean Michael Seri,a,3312,OpenPlay,2015,LeftFoot,1947,Saint-Etienne,Nice,1,4,2015-09-27 23:00:00,Valère Germain,Pass
+62806,75,SavedShot,0.784000015258789,0.34200000762939453,0.030349647626280785,Hatem Ben Arfa,a,3638,FromCorner,2015,LeftFoot,1947,Saint-Etienne,Nice,1,4,2015-09-27 23:00:00,Vincent Koziello,Pass
+62807,78,SavedShot,0.875,0.41700000762939454,0.12883134186267853,Hatem Ben Arfa,a,3638,OpenPlay,2015,LeftFoot,1947,Saint-Etienne,Nice,1,4,2015-09-27 23:00:00,Valère Germain,Pass

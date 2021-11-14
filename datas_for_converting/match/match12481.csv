@@ -1,0 +1,39 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+327044,6,MissedShots,0.765,0.549000015258789,0.020224586129188538,Gian-Luca Waldschmidt,h,294,OpenPlay,2019,RightFoot,12481,Freiburg,RasenBallsport Leipzig,2,1,2019-10-26 14:30:00,Lucas Höler,HeadPass
+327045,7,BlockedShot,0.7559999847412109,0.6270000076293946,0.022033408284187317,Lino Tempelmann,h,7811,OpenPlay,2019,LeftFoot,12481,Freiburg,RasenBallsport Leipzig,2,1,2019-10-26 14:30:00,Nicolas Höfler,Pass
+327055,34,BlockedShot,0.7919999694824219,0.740999984741211,0.021637098863720894,Vincenzo Grifo,h,5266,OpenPlay,2019,RightFoot,12481,Freiburg,RasenBallsport Leipzig,2,1,2019-10-26 14:30:00,Christian Günter,Pass
+327057,42,MissedShots,0.73,0.3629999923706055,0.013869145885109901,Lucas Höler,h,6475,FromCorner,2019,RightFoot,12481,Freiburg,RasenBallsport Leipzig,2,1,2019-10-26 14:30:00,,None
+327058,45,BlockedShot,0.845999984741211,0.754000015258789,0.026632556691765785,Vincenzo Grifo,h,5266,OpenPlay,2019,RightFoot,12481,Freiburg,RasenBallsport Leipzig,2,1,2019-10-26 14:30:00,Christian Günter,Pass
+327059,46,BlockedShot,0.89,0.54,0.09015212953090668,Lucas Höler,h,6475,OpenPlay,2019,LeftFoot,12481,Freiburg,RasenBallsport Leipzig,2,1,2019-10-26 14:30:00,Christian Günter,Cross
+327060,46,BlockedShot,0.9319999694824219,0.6580000305175782,0.06584478169679642,Lucas Höler,h,6475,OpenPlay,2019,LeftFoot,12481,Freiburg,RasenBallsport Leipzig,2,1,2019-10-26 14:30:00,,Rebound
+327061,46,Goal,0.9730000305175781,0.46099998474121096,0.7289106845855713,Nicolas Höfler,h,4250,OpenPlay,2019,LeftFoot,12481,Freiburg,RasenBallsport Leipzig,2,1,2019-10-26 14:30:00,,Rebound
+327065,74,MissedShots,0.86,0.705999984741211,0.05446118116378784,Christian Günter,h,4243,OpenPlay,2019,LeftFoot,12481,Freiburg,RasenBallsport Leipzig,2,1,2019-10-26 14:30:00,,None
+327069,85,MissedShots,0.7530000305175781,0.6459999847412109,0.012076188810169697,Christian Günter,h,4243,SetPiece,2019,LeftFoot,12481,Freiburg,RasenBallsport Leipzig,2,1,2019-10-26 14:30:00,,None
+327071,87,MissedShots,0.9619999694824218,0.42200000762939455,0.10078984498977661,Nils Petersen,h,4248,FromCorner,2019,RightFoot,12481,Freiburg,RasenBallsport Leipzig,2,1,2019-10-26 14:30:00,Vincenzo Grifo,Cross
+327075,89,Goal,0.825999984741211,0.41200000762939454,0.34805116057395935,Nils Petersen,h,4248,OpenPlay,2019,RightFoot,12481,Freiburg,RasenBallsport Leipzig,2,1,2019-10-26 14:30:00,Vincenzo Grifo,Throughball
+327078,94,SavedShot,0.9540000152587891,0.6669999694824219,0.33260536193847656,Nils Petersen,h,4248,OpenPlay,2019,LeftFoot,12481,Freiburg,RasenBallsport Leipzig,2,1,2019-10-26 14:30:00,,BallRecovery
+327079,95,BlockedShot,0.9269999694824219,0.3370000076293945,0.05441373959183693,Lucas Höler,h,6475,FromCorner,2019,LeftFoot,12481,Freiburg,RasenBallsport Leipzig,2,1,2019-10-26 14:30:00,,None
+327042,0,SavedShot,0.5159999847412109,0.5570000076293945,0.018516283482313156,Willi Orban,a,5257,DirectFreekick,2019,RightFoot,12481,Freiburg,RasenBallsport Leipzig,2,1,2019-10-26 14:30:00,,Standard
+327043,0,BlockedShot,0.8159999847412109,0.555,0.05825839191675186,Marcel Sabitzer,a,5248,OpenPlay,2019,RightFoot,12481,Freiburg,RasenBallsport Leipzig,2,1,2019-10-26 14:30:00,Amadou Haidara,Pass
+327046,9,BlockedShot,0.9569999694824218,0.4909999847412109,0.51515132188797,Willi Orban,a,5257,FromCorner,2019,RightFoot,12481,Freiburg,RasenBallsport Leipzig,2,1,2019-10-26 14:30:00,Timo Werner,Cross
+327047,12,SavedShot,0.749000015258789,0.6120000076293945,0.02220768667757511,Amadou Haidara,a,7501,OpenPlay,2019,LeftFoot,12481,Freiburg,RasenBallsport Leipzig,2,1,2019-10-26 14:30:00,Dayotchanculle Upamecano,TakeOn
+327048,15,SavedShot,0.9030000305175782,0.5520000076293945,0.04145275801420212,Marcel Sabitzer,a,5248,OpenPlay,2019,Head,12481,Freiburg,RasenBallsport Leipzig,2,1,2019-10-26 14:30:00,Diego Demme,Aerial
+327049,18,BlockedShot,0.835999984741211,0.6930000305175781,0.033483877778053284,Timo Werner,a,65,OpenPlay,2019,RightFoot,12481,Freiburg,RasenBallsport Leipzig,2,1,2019-10-26 14:30:00,Emil Forsberg,Pass
+327050,18,SavedShot,0.8009999847412109,0.26399999618530273,0.02274954877793789,Diego Demme,a,5246,OpenPlay,2019,RightFoot,12481,Freiburg,RasenBallsport Leipzig,2,1,2019-10-26 14:30:00,Amadou Haidara,Pass
+327051,22,SavedShot,0.7040000152587891,0.46,0.015274773351848125,Dayotchanculle Upamecano,a,5243,OpenPlay,2019,RightFoot,12481,Freiburg,RasenBallsport Leipzig,2,1,2019-10-26 14:30:00,Diego Demme,Pass
+327052,24,BlockedShot,0.9119999694824219,0.56,0.09251989424228668,Timo Werner,a,65,OpenPlay,2019,RightFoot,12481,Freiburg,RasenBallsport Leipzig,2,1,2019-10-26 14:30:00,,None
+327053,27,MissedShots,0.8059999847412109,0.6669999694824219,0.029272889718413353,Emil Forsberg,a,5249,OpenPlay,2019,RightFoot,12481,Freiburg,RasenBallsport Leipzig,2,1,2019-10-26 14:30:00,Ademola Lookman,Pass
+327054,33,MissedShots,0.72,0.46599998474121096,0.018029848113656044,Amadou Haidara,a,7501,OpenPlay,2019,RightFoot,12481,Freiburg,RasenBallsport Leipzig,2,1,2019-10-26 14:30:00,Marcel Sabitzer,Pass
+327056,37,BlockedShot,0.7869999694824219,0.4909999847412109,0.03978797420859337,Amadou Haidara,a,7501,OpenPlay,2019,RightFoot,12481,Freiburg,RasenBallsport Leipzig,2,1,2019-10-26 14:30:00,Timo Werner,Pass
+327062,47,BlockedShot,0.74,0.445,0.020734909921884537,Emil Forsberg,a,5249,OpenPlay,2019,RightFoot,12481,Freiburg,RasenBallsport Leipzig,2,1,2019-10-26 14:30:00,Marcel Sabitzer,Pass
+327063,47,BlockedShot,0.7530000305175781,0.51,0.0232998039573431,Ademola Lookman,a,5556,OpenPlay,2019,RightFoot,12481,Freiburg,RasenBallsport Leipzig,2,1,2019-10-26 14:30:00,Willi Orban,Pass
+327064,53,MissedShots,0.875,0.580999984741211,0.08955417573451996,Timo Werner,a,65,OpenPlay,2019,LeftFoot,12481,Freiburg,RasenBallsport Leipzig,2,1,2019-10-26 14:30:00,Marcel Halstenberg,Pass
+327066,79,BlockedShot,0.775,0.48900001525878906,0.041073959320783615,Amadou Haidara,a,7501,OpenPlay,2019,LeftFoot,12481,Freiburg,RasenBallsport Leipzig,2,1,2019-10-26 14:30:00,Christopher Nkunku,TakeOn
+327067,80,MissedShots,0.865,0.48400001525878905,0.06757596880197525,Yussuf Poulsen,a,5250,OpenPlay,2019,RightFoot,12481,Freiburg,RasenBallsport Leipzig,2,1,2019-10-26 14:30:00,Lukas Klostermann,Cross
+327068,82,BlockedShot,0.825999984741211,0.3820000076293945,0.043411772698163986,Christopher Nkunku,a,3300,OpenPlay,2019,RightFoot,12481,Freiburg,RasenBallsport Leipzig,2,1,2019-10-26 14:30:00,Dayotchanculle Upamecano,Pass
+327070,86,MissedShots,0.7290000152587891,0.59,0.013828967697918415,Matheus Cunha,a,7080,OpenPlay,2019,RightFoot,12481,Freiburg,RasenBallsport Leipzig,2,1,2019-10-26 14:30:00,,None
+327072,88,BlockedShot,0.914000015258789,0.425,0.08218783140182495,Willi Orban,a,5257,OpenPlay,2019,LeftFoot,12481,Freiburg,RasenBallsport Leipzig,2,1,2019-10-26 14:30:00,Christopher Nkunku,BallTouch
+327073,88,MissedShots,0.8219999694824218,0.6859999847412109,0.03104526177048683,Marcel Halstenberg,a,5254,OpenPlay,2019,LeftFoot,12481,Freiburg,RasenBallsport Leipzig,2,1,2019-10-26 14:30:00,,Rebound
+327074,88,MissedShots,0.935,0.49700000762939456,0.5753000974655151,Matheus Cunha,a,7080,OpenPlay,2019,RightFoot,12481,Freiburg,RasenBallsport Leipzig,2,1,2019-10-26 14:30:00,Marcel Halstenberg,Rebound
+327076,91,MissedShots,0.9440000152587891,0.40299999237060546,0.061682991683483124,Matheus Cunha,a,7080,FromCorner,2019,Head,12481,Freiburg,RasenBallsport Leipzig,2,1,2019-10-26 14:30:00,Christopher Nkunku,Cross
+327077,91,Goal,0.98,0.5479999923706055,0.7131816148757935,Lukas Klostermann,a,5358,FromCorner,2019,LeftFoot,12481,Freiburg,RasenBallsport Leipzig,2,1,2019-10-26 14:30:00,Matheus Cunha,Rebound

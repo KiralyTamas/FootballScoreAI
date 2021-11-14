@@ -1,0 +1,38 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+383160,6,SavedShot,0.8119999694824219,0.3390000152587891,0.054547328501939774,Jeremiah St. Juste,h,7813,OpenPlay,2020,LeftFoot,15178,Mainz 05,Borussia M.Gladbach,2,3,2020-10-24 13:30:00,Jean-Philippe Mateta,LayOff
+383162,8,MissedShots,0.855,0.37900001525878907,0.059065937995910645,Danny Latza,h,43,OpenPlay,2020,RightFoot,15178,Mainz 05,Borussia M.Gladbach,2,3,2020-10-24 13:30:00,,None
+383163,8,BlockedShot,0.835999984741211,0.5459999847412109,0.06794371455907822,Jean-Paul Boëtius,h,7107,OpenPlay,2020,RightFoot,15178,Mainz 05,Borussia M.Gladbach,2,3,2020-10-24 13:30:00,Jean-Philippe Mateta,Pass
+383167,18,SavedShot,0.86,0.49900001525878906,0.28853029012680054,Jean-Paul Boëtius,h,7107,OpenPlay,2020,RightFoot,15178,Mainz 05,Borussia M.Gladbach,2,3,2020-10-24 13:30:00,Jean-Philippe Mateta,BallTouch
+383168,22,ShotOnPost,0.895,0.5379999923706055,0.08748681098222733,Robin Quaison,h,1275,OpenPlay,2020,LeftFoot,15178,Mainz 05,Borussia M.Gladbach,2,3,2020-10-24 13:30:00,Danny Latza,Chipped
+383169,22,Goal,0.960999984741211,0.46700000762939453,0.6632265448570251,Jean-Philippe Mateta,h,5735,OpenPlay,2020,LeftFoot,15178,Mainz 05,Borussia M.Gladbach,2,3,2020-10-24 13:30:00,,Rebound
+383172,32,SavedShot,0.8540000152587891,0.4179999923706055,0.05959700047969818,Robin Quaison,h,1275,OpenPlay,2020,RightFoot,15178,Mainz 05,Borussia M.Gladbach,2,3,2020-10-24 13:30:00,Levin Öztunali,HeadPass
+383173,35,Goal,0.8730000305175781,0.37099998474121093,0.0428919680416584,Jean-Philippe Mateta,h,5735,OpenPlay,2020,RightFoot,15178,Mainz 05,Borussia M.Gladbach,2,3,2020-10-24 13:30:00,Levin Öztunali,Cross
+383175,42,BlockedShot,0.85,0.5120000076293946,0.10450131446123123,Jean-Paul Boëtius,h,7107,OpenPlay,2020,RightFoot,15178,Mainz 05,Borussia M.Gladbach,2,3,2020-10-24 13:30:00,Robin Quaison,Pass
+383181,51,SavedShot,0.8680000305175781,0.705,0.0600028894841671,Robin Quaison,h,1275,OpenPlay,2020,RightFoot,15178,Mainz 05,Borussia M.Gladbach,2,3,2020-10-24 13:30:00,,Dispossessed
+383182,53,BlockedShot,0.7519999694824219,0.5509999847412109,0.026070905849337578,Jean-Paul Boëtius,h,7107,OpenPlay,2020,LeftFoot,15178,Mainz 05,Borussia M.Gladbach,2,3,2020-10-24 13:30:00,Levin Öztunali,Pass
+383183,56,SavedShot,0.9330000305175781,0.5629999923706055,0.3323720693588257,Levin Öztunali,h,118,OpenPlay,2020,LeftFoot,15178,Mainz 05,Borussia M.Gladbach,2,3,2020-10-24 13:30:00,Pierre Kunde,TakeOn
+383185,58,BlockedShot,0.8,0.3609999847412109,0.035863954573869705,Pierre Kunde,h,7073,OpenPlay,2020,RightFoot,15178,Mainz 05,Borussia M.Gladbach,2,3,2020-10-24 13:30:00,Jeremiah St. Juste,Pass
+383186,68,MissedShots,0.8680000305175781,0.7169999694824218,0.049792539328336716,Daniel Brosinski,h,38,OpenPlay,2020,RightFoot,15178,Mainz 05,Borussia M.Gladbach,2,3,2020-10-24 13:30:00,Jean-Paul Boëtius,Pass
+383195,93,BlockedShot,0.7559999847412109,0.6029999923706054,0.026548419147729874,Robin Zentner,h,449,OpenPlay,2020,LeftFoot,15178,Mainz 05,Borussia M.Gladbach,2,3,2020-10-24 13:30:00,Luca Kilian,LayOff
+383159,4,SavedShot,0.71,0.2979999923706055,0.01131155900657177,Breel Embolo,a,5356,OpenPlay,2020,RightFoot,15178,Mainz 05,Borussia M.Gladbach,2,3,2020-10-24 13:30:00,,Interception
+383161,7,SavedShot,0.9030000305175782,0.29200000762939454,0.05264583230018616,Patrick Herrmann,a,420,OpenPlay,2020,RightFoot,15178,Mainz 05,Borussia M.Gladbach,2,3,2020-10-24 13:30:00,Rocco Reitz,Chipped
+383164,13,SavedShot,0.9059999847412109,0.48200000762939454,0.10414526611566544,Stefan Lainer,a,7831,SetPiece,2020,Head,15178,Mainz 05,Borussia M.Gladbach,2,3,2020-10-24 13:30:00,Oscar Wendt,Cross
+383165,14,BlockedShot,0.899000015258789,0.5609999847412109,0.03465960919857025,Breel Embolo,a,5356,OpenPlay,2020,Head,15178,Mainz 05,Borussia M.Gladbach,2,3,2020-10-24 13:30:00,Stefan Lainer,Aerial
+383166,14,Goal,0.92,0.49599998474121093,0.5076505541801453,Lars Stindl,a,208,OpenPlay,2020,LeftFoot,15178,Mainz 05,Borussia M.Gladbach,2,3,2020-10-24 13:30:00,,Rebound
+383170,29,MissedShots,0.8619999694824219,0.4,0.12001949548721313,Lars Stindl,a,208,OpenPlay,2020,RightFoot,15178,Mainz 05,Borussia M.Gladbach,2,3,2020-10-24 13:30:00,Patrick Herrmann,Pass
+383171,30,ShotOnPost,0.8119999694824219,0.5209999847412109,0.05832308530807495,Patrick Herrmann,a,420,OpenPlay,2020,RightFoot,15178,Mainz 05,Borussia M.Gladbach,2,3,2020-10-24 13:30:00,Rocco Reitz,Chipped
+383174,38,MissedShots,0.9430000305175781,0.4490000152587891,0.11879272013902664,Stefan Lainer,a,7831,FromCorner,2020,Head,15178,Mainz 05,Borussia M.Gladbach,2,3,2020-10-24 13:30:00,Patrick Herrmann,Cross
+383176,44,SavedShot,0.904000015258789,0.34900001525878904,0.32536134123802185,Patrick Herrmann,a,420,OpenPlay,2020,LeftFoot,15178,Mainz 05,Borussia M.Gladbach,2,3,2020-10-24 13:30:00,Lars Stindl,TakeOn
+383177,46,MissedShots,0.82,0.654000015258789,0.035751618444919586,Oscar Wendt,a,206,OpenPlay,2020,LeftFoot,15178,Mainz 05,Borussia M.Gladbach,2,3,2020-10-24 13:30:00,Breel Embolo,Pass
+383178,50,SavedShot,0.8190000152587891,0.46599998474121096,0.06919034570455551,Patrick Herrmann,a,420,OpenPlay,2020,LeftFoot,15178,Mainz 05,Borussia M.Gladbach,2,3,2020-10-24 13:30:00,Lars Stindl,TakeOn
+383179,50,BlockedShot,0.909000015258789,0.5640000152587891,0.0807039812207222,Breel Embolo,a,5356,OpenPlay,2020,RightFoot,15178,Mainz 05,Borussia M.Gladbach,2,3,2020-10-24 13:30:00,,None
+383180,50,MissedShots,0.8280000305175781,0.625,0.04211661219596863,Christoph Kramer,a,187,OpenPlay,2020,RightFoot,15178,Mainz 05,Borussia M.Gladbach,2,3,2020-10-24 13:30:00,,Rebound
+383184,58,SavedShot,0.8490000152587891,0.3509999847412109,0.028393438085913658,Alassane Pléa,a,3310,OpenPlay,2020,RightFoot,15178,Mainz 05,Borussia M.Gladbach,2,3,2020-10-24 13:30:00,Stefan Lainer,Cross
+383187,69,BlockedShot,0.8530000305175781,0.3089999961853027,0.04203929379582405,Stefan Lainer,a,7831,OpenPlay,2020,LeftFoot,15178,Mainz 05,Borussia M.Gladbach,2,3,2020-10-24 13:30:00,Patrick Herrmann,Pass
+383188,69,MissedShots,0.935,0.505,0.07273250073194504,Marcus Thuram,a,5992,FromCorner,2020,Head,15178,Mainz 05,Borussia M.Gladbach,2,3,2020-10-24 13:30:00,Alassane Pléa,Aerial
+383189,74,BlockedShot,0.91,0.6179999923706054,0.1981145143508911,Marcus Thuram,a,5992,OpenPlay,2020,LeftFoot,15178,Mainz 05,Borussia M.Gladbach,2,3,2020-10-24 13:30:00,Hannes Wolf,TakeOn
+383190,75,Goal,0.885,0.5,0.75777667760849,Jonas Hofmann,a,320,Penalty,2020,RightFoot,15178,Mainz 05,Borussia M.Gladbach,2,3,2020-10-24 13:30:00,,Standard
+383191,80,MissedShots,0.8880000305175781,0.5359999847412109,0.06959415227174759,Matthias Ginter,a,315,SetPiece,2020,Head,15178,Mainz 05,Borussia M.Gladbach,2,3,2020-10-24 13:30:00,Jonas Hofmann,Cross
+383192,82,Goal,0.9530000305175781,0.59,0.2703886926174164,Matthias Ginter,a,315,FromCorner,2020,Head,15178,Mainz 05,Borussia M.Gladbach,2,3,2020-10-24 13:30:00,Jonas Hofmann,Cross
+383193,86,SavedShot,0.9490000152587891,0.6790000152587891,0.07781975716352463,Alassane Pléa,a,3310,OpenPlay,2020,LeftFoot,15178,Mainz 05,Borussia M.Gladbach,2,3,2020-10-24 13:30:00,Hannes Wolf,Pass
+383194,86,SavedShot,0.774000015258789,0.34,0.021414753049612045,Stefan Lainer,a,7831,OpenPlay,2020,RightFoot,15178,Mainz 05,Borussia M.Gladbach,2,3,2020-10-24 13:30:00,,Rebound

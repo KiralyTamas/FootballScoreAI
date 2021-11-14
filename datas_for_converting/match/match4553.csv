@@ -1,0 +1,27 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+19740,3,SavedShot,0.755,0.42,0.029774978756904602,Yoan Gouffran,h,916,OpenPlay,2014,RightFoot,4553,Newcastle United,Burnley,3,3,2015-01-01 15:00:00,,TakeOn
+19741,3,MissedShots,0.8819999694824219,0.7530000305175781,0.021716462448239326,Ayoze Pérez,h,770,OpenPlay,2014,RightFoot,4553,Newcastle United,Burnley,3,3,2015-01-01 15:00:00,,Rebound
+19742,5,BlockedShot,0.860999984741211,0.58,0.0597735196352005,Yoan Gouffran,h,916,FromCorner,2014,LeftFoot,4553,Newcastle United,Burnley,3,3,2015-01-01 15:00:00,,None
+19743,7,MissedShots,0.9259999847412109,0.4259999847412109,0.24459907412528992,Emmanuel Rivière,h,777,OpenPlay,2014,Head,4553,Newcastle United,Burnley,3,3,2015-01-01 15:00:00,Daryl Janmaat,Cross
+19744,9,BlockedShot,0.7830000305175782,0.4420000076293945,0.022908713668584824,Yoan Gouffran,h,916,FromCorner,2014,RightFoot,4553,Newcastle United,Burnley,3,3,2015-01-01 15:00:00,,None
+19745,11,BlockedShot,0.879000015258789,0.720999984741211,0.03530135378241539,Moussa Sissoko,h,772,OpenPlay,2014,RightFoot,4553,Newcastle United,Burnley,3,3,2015-01-01 15:00:00,Ayoze Pérez,TakeOn
+19746,14,Goal,0.9490000152587891,0.46700000762939453,0.12909355759620667,Steven Taylor,h,765,FromCorner,2014,Head,4553,Newcastle United,Burnley,3,3,2015-01-01 15:00:00,Jack Colback,Cross
+19748,18,OwnGoal,0.12,0.6409999847412109,0,Paul Dummett,h,853,OpenPlay,2014,Head,4553,Newcastle United,Burnley,3,3,2015-01-01 15:00:00,,Clearance
+19750,25,Goal,0.740999984741211,0.4329999923706055,0.017888421192765236,Jack Colback,h,767,OpenPlay,2014,LeftFoot,4553,Newcastle United,Burnley,3,3,2015-01-01 15:00:00,Daryl Janmaat,Pass
+19760,77,MissedShots,0.9459999847412109,0.580999984741211,0.4696369171142578,Adam Armstrong,h,4419,OpenPlay,2014,RightFoot,4553,Newcastle United,Burnley,3,3,2015-01-01 15:00:00,Ayoze Pérez,Pass
+19761,77,Goal,0.9640000152587891,0.41200000762939454,0.4079233407974243,Moussa Sissoko,h,772,OpenPlay,2014,RightFoot,4553,Newcastle United,Burnley,3,3,2015-01-01 15:00:00,Adam Armstrong,Rebound
+19739,0,ShotOnPost,0.894000015258789,0.629000015258789,0.12296417355537415,Ashley Barnes,a,4422,OpenPlay,2014,RightFoot,4553,Newcastle United,Burnley,3,3,2015-01-01 15:00:00,Danny Ings,Throughball
+19747,16,MissedShots,0.7180000305175781,0.47900001525878905,0.013565702363848686,Scott Arfield,a,1659,OpenPlay,2014,RightFoot,4553,Newcastle United,Burnley,3,3,2015-01-01 15:00:00,,None
+19749,22,BlockedShot,0.7719999694824219,0.4640000152587891,0.027776332572102547,Ashley Barnes,a,4422,OpenPlay,2014,LeftFoot,4553,Newcastle United,Burnley,3,3,2015-01-01 15:00:00,,None
+19751,46,MissedShots,0.7419999694824219,0.40400001525878904,0.0185822956264019,Michael Kightly,a,1668,OpenPlay,2014,RightFoot,4553,Newcastle United,Burnley,3,3,2015-01-01 15:00:00,David Jones,Pass
+19752,46,MissedShots,0.9330000305175781,0.435,0.09784693270921707,George Boyd,a,1656,OpenPlay,2014,LeftFoot,4553,Newcastle United,Burnley,3,3,2015-01-01 15:00:00,Michael Kightly,Cross
+19753,47,ShotOnPost,0.7930000305175782,0.539000015258789,0.03588175028562546,Danny Ings,a,986,OpenPlay,2014,RightFoot,4553,Newcastle United,Burnley,3,3,2015-01-01 15:00:00,,None
+19754,47,ShotOnPost,0.9180000305175782,0.5020000076293946,0.41318294405937195,Ashley Barnes,a,4422,OpenPlay,2014,Head,4553,Newcastle United,Burnley,3,3,2015-01-01 15:00:00,,Aerial
+19755,53,BlockedShot,0.8130000305175781,0.46,0.05602557584643364,Scott Arfield,a,1659,OpenPlay,2014,RightFoot,4553,Newcastle United,Burnley,3,3,2015-01-01 15:00:00,Ashley Barnes,Pass
+19756,61,ShotOnPost,0.960999984741211,0.51,0.5108667612075806,Ben Mee,a,1654,FromCorner,2014,Head,4553,Newcastle United,Burnley,3,3,2015-01-01 15:00:00,David Jones,Cross
+19757,63,SavedShot,0.740999984741211,0.525,0.01668895035982132,George Boyd,a,1656,OpenPlay,2014,LeftFoot,4553,Newcastle United,Burnley,3,3,2015-01-01 15:00:00,David Jones,BallRecovery
+19758,65,Goal,0.9159999847412109,0.5479999923706055,0.07691185921430588,Danny Ings,a,986,OpenPlay,2014,Head,4553,Newcastle United,Burnley,3,3,2015-01-01 15:00:00,Michael Kightly,Cross
+19759,73,MissedShots,0.8959999847412109,0.48,0.10044772922992706,Ashley Barnes,a,4422,OpenPlay,2014,RightFoot,4553,Newcastle United,Burnley,3,3,2015-01-01 15:00:00,George Boyd,Cross
+19762,85,Goal,0.8730000305175781,0.6409999847412109,0.054245926439762115,George Boyd,a,1656,OpenPlay,2014,LeftFoot,4553,Newcastle United,Burnley,3,3,2015-01-01 15:00:00,,Dispossessed
+19763,89,BlockedShot,0.7769999694824219,0.730999984741211,0.04813946783542633,Kieran Trippier,a,652,DirectFreekick,2014,RightFoot,4553,Newcastle United,Burnley,3,3,2015-01-01 15:00:00,,Standard
+19764,90,SavedShot,0.9330000305175781,0.5559999847412109,0.06269015371799469,Danny Ings,a,986,OpenPlay,2014,Head,4553,Newcastle United,Burnley,3,3,2015-01-01 15:00:00,,None

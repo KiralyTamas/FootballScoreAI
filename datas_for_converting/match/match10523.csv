@@ -1,0 +1,27 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+279066,21,BlockedShot,0.7040000152587891,0.30700000762939456,0.013138385489583015,Philipp Lienhart,h,2611,OpenPlay,2018,RightFoot,10523,Freiburg,Wolfsburg,3,3,2019-02-09 14:30:00,Janik Haberer,Pass
+279067,25,MissedShots,0.7730000305175782,0.3509999847412109,0.02280464582145214,Janik Haberer,h,4271,OpenPlay,2018,RightFoot,10523,Freiburg,Wolfsburg,3,3,2019-02-09 14:30:00,Florian Niederlechner,Pass
+279069,36,Goal,0.855999984741211,0.4929999923706055,0.34172168374061584,Vincenzo Grifo,h,5266,OpenPlay,2018,RightFoot,10523,Freiburg,Wolfsburg,3,3,2019-02-09 14:30:00,Florian Niederlechner,Pass
+279076,64,MissedShots,0.8269999694824218,0.7019999694824218,0.028146127238869667,Vincenzo Grifo,h,5266,OpenPlay,2018,RightFoot,10523,Freiburg,Wolfsburg,3,3,2019-02-09 14:30:00,,None
+279077,69,Goal,0.965999984741211,0.5629999923706055,0.07341644167900085,Nils Petersen,h,4248,FromCorner,2018,Head,10523,Freiburg,Wolfsburg,3,3,2019-02-09 14:30:00,Vincenzo Grifo,Aerial
+279082,86,SavedShot,0.9390000152587891,0.47299999237060547,0.0738711804151535,Gian-Luca Waldschmidt,h,294,OpenPlay,2018,Head,10523,Freiburg,Wolfsburg,3,3,2019-02-09 14:30:00,,Aerial
+279083,86,BlockedShot,0.924000015258789,0.41200000762939454,0.08034826070070267,Lucas Höler,h,6475,OpenPlay,2018,LeftFoot,10523,Freiburg,Wolfsburg,3,3,2019-02-09 14:30:00,,Goal
+279084,86,Goal,0.9030000305175782,0.46799999237060547,0.1052808165550232,Gian-Luca Waldschmidt,h,294,OpenPlay,2018,LeftFoot,10523,Freiburg,Wolfsburg,3,3,2019-02-09 14:30:00,Nils Petersen,Pass
+279087,92,MissedShots,0.955999984741211,0.4179999923706055,0.043968189507722855,Philipp Lienhart,h,2611,FromCorner,2018,Head,10523,Freiburg,Wolfsburg,3,3,2019-02-09 14:30:00,Gian-Luca Waldschmidt,OffsidePass
+279088,95,MissedShots,0.8490000152587891,0.700999984741211,0.03592011332511902,Marco Terrazzino,h,5287,OpenPlay,2018,LeftFoot,10523,Freiburg,Wolfsburg,3,3,2019-02-09 14:30:00,Janik Haberer,Pass
+279063,6,BlockedShot,0.86,0.5609999847412109,0.07271299511194229,Wout Weghorst,a,7052,OpenPlay,2018,RightFoot,10523,Freiburg,Wolfsburg,3,3,2019-02-09 14:30:00,,None
+279064,8,BlockedShot,0.7859999847412109,0.455,0.03210369870066643,Wout Weghorst,a,7052,OpenPlay,2018,RightFoot,10523,Freiburg,Wolfsburg,3,3,2019-02-09 14:30:00,Yannick Gerhardt,HeadPass
+279065,10,Goal,0.865,0.5920000076293945,0.09193027019500732,Jérôme Roussillon,a,3339,OpenPlay,2018,LeftFoot,10523,Freiburg,Wolfsburg,3,3,2019-02-09 14:30:00,Josip Brekalo,Pass
+279068,32,MissedShots,0.8069999694824219,0.23600000381469727,0.024528920650482178,William,a,6229,OpenPlay,2018,RightFoot,10523,Freiburg,Wolfsburg,3,3,2019-02-09 14:30:00,Josuha Guilavogui,Pass
+279070,40,BlockedShot,0.905,0.36,0.07867805659770966,Josip Brekalo,a,5353,OpenPlay,2018,RightFoot,10523,Freiburg,Wolfsburg,3,3,2019-02-09 14:30:00,Yannick Gerhardt,BallTouch
+279071,41,MissedShots,0.9290000152587891,0.4129999923706055,0.0633225217461586,Yannick Gerhardt,a,140,FromCorner,2018,Head,10523,Freiburg,Wolfsburg,3,3,2019-02-09 14:30:00,Maximilian Arnold,Cross
+279072,48,BlockedShot,0.8069999694824219,0.764000015258789,0.015030072070658207,Jérôme Roussillon,a,3339,OpenPlay,2018,LeftFoot,10523,Freiburg,Wolfsburg,3,3,2019-02-09 14:30:00,,None
+279073,49,MissedShots,0.6880000305175781,0.5279999923706055,0.01521147321909666,Maximilian Arnold,a,153,OpenPlay,2018,LeftFoot,10523,Freiburg,Wolfsburg,3,3,2019-02-09 14:30:00,Yannick Gerhardt,Pass
+279074,59,SavedShot,0.9119999694824219,0.5429999923706055,0.05347100645303726,Renato Steffen,a,6484,OpenPlay,2018,Head,10523,Freiburg,Wolfsburg,3,3,2019-02-09 14:30:00,Jérôme Roussillon,Aerial
+279075,62,Goal,0.885,0.5,0.75777667760849,Wout Weghorst,a,7052,Penalty,2018,RightFoot,10523,Freiburg,Wolfsburg,3,3,2019-02-09 14:30:00,,Standard
+279078,71,MissedShots,0.9,0.49599998474121093,0.1054624542593956,Yannick Gerhardt,a,140,OpenPlay,2018,Head,10523,Freiburg,Wolfsburg,3,3,2019-02-09 14:30:00,Renato Steffen,Cross
+279079,73,Goal,0.91,0.4470000076293945,0.47281670570373535,Renato Steffen,a,6484,OpenPlay,2018,LeftFoot,10523,Freiburg,Wolfsburg,3,3,2019-02-09 14:30:00,Wout Weghorst,Throughball
+279080,79,BlockedShot,0.855,0.24600000381469728,0.03808477148413658,Yannick Gerhardt,a,140,OpenPlay,2018,LeftFoot,10523,Freiburg,Wolfsburg,3,3,2019-02-09 14:30:00,,None
+279081,84,MissedShots,0.784000015258789,0.34900001525878904,0.05207184702157974,Yannick Gerhardt,a,140,OpenPlay,2018,LeftFoot,10523,Freiburg,Wolfsburg,3,3,2019-02-09 14:30:00,Wout Weghorst,Pass
+279085,89,BlockedShot,0.735,0.67,0.01226763240993023,Jérôme Roussillon,a,3339,FromCorner,2018,LeftFoot,10523,Freiburg,Wolfsburg,3,3,2019-02-09 14:30:00,,Aerial
+279086,91,MissedShots,0.7759999847412109,0.4809999847412109,0.03081795945763588,Maximilian Arnold,a,153,OpenPlay,2018,RightFoot,10523,Freiburg,Wolfsburg,3,3,2019-02-09 14:30:00,,None

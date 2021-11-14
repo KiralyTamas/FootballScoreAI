@@ -1,0 +1,27 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+407007,10,BlockedShot,0.8,0.30100000381469727,0.024993261322379112,Quincy Promes,h,2815,OpenPlay,2020,LeftFoot,14378,Spartak Moscow,Rubin Kazan,0,2,2021-02-28 11:00:00,Roman Zobnin,Pass
+407009,21,BlockedShot,0.6869999694824219,0.34900001525878904,0.009508350864052773,Roman Zobnin,h,2750,OpenPlay,2020,RightFoot,14378,Spartak Moscow,Rubin Kazan,0,2,2021-02-28 11:00:00,,Aerial
+407010,27,SavedShot,0.7440000152587891,0.6940000152587891,0.012611184269189835,Ayrton Lucas,h,7475,OpenPlay,2020,RightFoot,14378,Spartak Moscow,Rubin Kazan,0,2,2021-02-28 11:00:00,Quincy Promes,Pass
+407011,33,SavedShot,0.9,0.52,0.04211314395070076,Ezequiel Ponce,h,2057,SetPiece,2020,Head,14378,Spartak Moscow,Rubin Kazan,0,2,2021-02-28 11:00:00,,Aerial
+407015,46,BlockedShot,0.7880000305175782,0.61,0.0287324246019125,Alexander Sobolev,h,5397,OpenPlay,2020,RightFoot,14378,Spartak Moscow,Rubin Kazan,0,2,2021-02-28 11:00:00,Quincy Promes,Pass
+407019,57,MissedShots,0.9330000305175781,0.53,0.11277510970830917,Ezequiel Ponce,h,2057,FromCorner,2020,Head,14378,Spartak Moscow,Rubin Kazan,0,2,2021-02-28 11:00:00,Quincy Promes,Cross
+407020,59,MissedShots,0.875999984741211,0.5509999847412109,0.03880467265844345,Alexander Sobolev,h,5397,OpenPlay,2020,Head,14378,Spartak Moscow,Rubin Kazan,0,2,2021-02-28 11:00:00,Ayrton Lucas,Cross
+407021,59,SavedShot,0.919000015258789,0.5629999923706055,0.04692257195711136,Samuel Gigot,h,6773,OpenPlay,2020,Head,14378,Spartak Moscow,Rubin Kazan,0,2,2021-02-28 11:00:00,Victor Moses,Chipped
+407023,71,MissedShots,0.87,0.46099998474121096,0.018283246085047722,Alexander Sobolev,h,5397,FromCorner,2020,Head,14378,Spartak Moscow,Rubin Kazan,0,2,2021-02-28 11:00:00,Victor Moses,Interception
+407025,82,BlockedShot,0.7140000152587891,0.46299999237060546,0.014710631221532822,Zelimkhan Bakaev,h,3131,OpenPlay,2020,LeftFoot,14378,Spartak Moscow,Rubin Kazan,0,2,2021-02-28 11:00:00,Samuel Gigot,Pass
+407026,83,SavedShot,0.88,0.48200000762939454,0.031131496652960777,Ezequiel Ponce,h,2057,OpenPlay,2020,Head,14378,Spartak Moscow,Rubin Kazan,0,2,2021-02-28 11:00:00,,None
+407030,89,MissedShots,0.8819999694824219,0.5790000152587891,0.024637214839458466,Ezequiel Ponce,h,2057,OpenPlay,2020,Head,14378,Spartak Moscow,Rubin Kazan,0,2,2021-02-28 11:00:00,Quincy Promes,Cross
+407031,90,SavedShot,0.9180000305175782,0.34200000762939453,0.010216127149760723,Alexander Sobolev,h,5397,OpenPlay,2020,Head,14378,Spartak Moscow,Rubin Kazan,0,2,2021-02-28 11:00:00,Alex Kral,Cross
+407006,3,BlockedShot,0.7680000305175781,0.605,0.02298097126185894,Khvicha Kvaratskhelia,a,7453,OpenPlay,2020,RightFoot,14378,Spartak Moscow,Rubin Kazan,0,2,2021-02-28 11:00:00,,None
+407008,18,SavedShot,0.9030000305175782,0.595999984741211,0.07777418941259384,Djorde Despotovic,a,7121,SetPiece,2020,RightFoot,14378,Spartak Moscow,Rubin Kazan,0,2,2021-02-28 11:00:00,,None
+407012,36,BlockedShot,0.8730000305175781,0.3129999923706055,0.042280737310647964,Denis Makarov,a,8361,SetPiece,2020,LeftFoot,14378,Spartak Moscow,Rubin Kazan,0,2,2021-02-28 11:00:00,Oleg Shatov,Chipped
+407013,43,SavedShot,0.725,0.6609999847412109,0.017418229952454567,Denis Makarov,a,8361,OpenPlay,2020,LeftFoot,14378,Spartak Moscow,Rubin Kazan,0,2,2021-02-28 11:00:00,Oliver Abildgaard,Pass
+407014,44,MissedShots,0.9119999694824219,0.509000015258789,0.09564325958490372,Djorde Despotovic,a,7121,FromCorner,2020,LeftFoot,14378,Spartak Moscow,Rubin Kazan,0,2,2021-02-28 11:00:00,Oleg Shatov,Cross
+407016,52,BlockedShot,0.88,0.34299999237060547,0.05413883551955223,Denis Makarov,a,8361,OpenPlay,2020,LeftFoot,14378,Spartak Moscow,Rubin Kazan,0,2,2021-02-28 11:00:00,,None
+407017,52,MissedShots,0.7880000305175782,0.3770000076293945,0.02147815190255642,Oleg Shatov,a,3062,OpenPlay,2020,RightFoot,14378,Spartak Moscow,Rubin Kazan,0,2,2021-02-28 11:00:00,,Rebound
+407018,52,Goal,0.8919999694824219,0.610999984741211,0.3560531735420227,Djorde Despotovic,a,7121,OpenPlay,2020,LeftFoot,14378,Spartak Moscow,Rubin Kazan,0,2,2021-02-28 11:00:00,Khvicha Kvaratskhelia,Throughball
+407022,64,BlockedShot,0.88,0.5459999847412109,0.12721213698387146,Djorde Despotovic,a,7121,OpenPlay,2020,LeftFoot,14378,Spartak Moscow,Rubin Kazan,0,2,2021-02-28 11:00:00,Khvicha Kvaratskhelia,Pass
+407024,76,MissedShots,0.8809999847412109,0.725999984741211,0.04970761388540268,Djorde Despotovic,a,7121,OpenPlay,2020,LeftFoot,14378,Spartak Moscow,Rubin Kazan,0,2,2021-02-28 11:00:00,,None
+407027,88,BlockedShot,0.7659999847412109,0.3770000076293945,0.031436022371053696,Soltmurad Bakaev,a,7678,OpenPlay,2020,RightFoot,14378,Spartak Moscow,Rubin Kazan,0,2,2021-02-28 11:00:00,Filip Uremovic,Pass
+407028,88,SavedShot,0.8190000152587891,0.48900001525878906,0.054324254393577576,Khvicha Kvaratskhelia,a,7453,OpenPlay,2020,RightFoot,14378,Spartak Moscow,Rubin Kazan,0,2,2021-02-28 11:00:00,,Rebound
+407029,88,Goal,0.9169999694824219,0.5670000076293945,0.38170385360717773,Djorde Despotovic,a,7121,OpenPlay,2020,LeftFoot,14378,Spartak Moscow,Rubin Kazan,0,2,2021-02-28 11:00:00,,Rebound

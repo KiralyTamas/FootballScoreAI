@@ -1,0 +1,31 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+331605,4,BlockedShot,0.9719999694824218,0.30700000762939456,0.05373204126954079,Vincenzo Grifo,h,5266,OpenPlay,2019,RightFoot,12496,Freiburg,Eintracht Frankfurt,1,0,2019-11-10 17:00:00,Roland Sallai,Pass
+331606,4,BlockedShot,0.8019999694824219,0.23899999618530274,0.02123865857720375,Vincenzo Grifo,h,5266,FromCorner,2019,RightFoot,12496,Freiburg,Eintracht Frankfurt,1,0,2019-11-10 17:00:00,Christian Günter,Pass
+331607,6,SavedShot,0.8819999694824219,0.6959999847412109,0.034695811569690704,Vincenzo Grifo,h,5266,FromCorner,2019,RightFoot,12496,Freiburg,Eintracht Frankfurt,1,0,2019-11-10 17:00:00,,None
+331608,7,SavedShot,0.850999984741211,0.3609999847412109,0.05889613926410675,Lucas Höler,h,6475,OpenPlay,2019,RightFoot,12496,Freiburg,Eintracht Frankfurt,1,0,2019-11-10 17:00:00,Vincenzo Grifo,Pass
+331611,22,MissedShots,0.7709999847412109,0.27700000762939453,0.05072766914963722,Vincenzo Grifo,h,5266,DirectFreekick,2019,RightFoot,12496,Freiburg,Eintracht Frankfurt,1,0,2019-11-10 17:00:00,,Standard
+331612,27,SavedShot,0.9390000152587891,0.325,0.07126936316490173,Roland Sallai,h,1277,OpenPlay,2019,RightFoot,12496,Freiburg,Eintracht Frankfurt,1,0,2019-11-10 17:00:00,Jonathan Schmid,Pass
+331613,32,BlockedShot,0.7559999847412109,0.5690000152587891,0.019678248092532158,Christian Günter,h,4243,OpenPlay,2019,LeftFoot,12496,Freiburg,Eintracht Frankfurt,1,0,2019-11-10 17:00:00,,None
+331618,47,SavedShot,0.8290000152587891,0.5279999923706055,0.008011343888938427,Robin Koch,h,6273,SetPiece,2019,Head,12496,Freiburg,Eintracht Frankfurt,1,0,2019-11-10 17:00:00,Vincenzo Grifo,Aerial
+331619,49,SavedShot,0.9640000152587891,0.4229999923706055,0.31030380725860596,Roland Sallai,h,1277,OpenPlay,2019,OtherBodyPart,12496,Freiburg,Eintracht Frankfurt,1,0,2019-11-10 17:00:00,Christian Günter,Cross
+331622,64,MissedShots,0.705999984741211,0.25,0.011349353939294815,Philipp Lienhart,h,2611,OpenPlay,2019,RightFoot,12496,Freiburg,Eintracht Frankfurt,1,0,2019-11-10 17:00:00,Nicolas Höfler,Pass
+331626,76,Goal,0.8680000305175781,0.3890000152587891,0.06510031968355179,Nils Petersen,h,4248,OpenPlay,2019,LeftFoot,12496,Freiburg,Eintracht Frankfurt,1,0,2019-11-10 17:00:00,Gian-Luca Waldschmidt,None
+331628,81,SavedShot,0.8380000305175781,0.24,0.03015650436282158,Christian Günter,h,4243,OpenPlay,2019,LeftFoot,12496,Freiburg,Eintracht Frankfurt,1,0,2019-11-10 17:00:00,Jonathan Schmid,Pass
+331633,93,MissedShots,0.865999984741211,0.5309999847412109,0.037874482572078705,Gian-Luca Waldschmidt,h,294,SetPiece,2019,Head,12496,Freiburg,Eintracht Frankfurt,1,0,2019-11-10 17:00:00,Christian Günter,Cross
+331609,11,SavedShot,0.9219999694824219,0.685,0.09123580902814865,Martin Hinteregger,a,2668,OpenPlay,2019,LeftFoot,12496,Freiburg,Eintracht Frankfurt,1,0,2019-11-10 17:00:00,David Abraham,TakeOn
+331610,11,ShotOnPost,0.825,0.47,0.05226811021566391,Erik Durm,a,2640,OpenPlay,2019,LeftFoot,12496,Freiburg,Eintracht Frankfurt,1,0,2019-11-10 17:00:00,,Rebound
+331614,34,SavedShot,0.8580000305175781,0.6480000305175782,0.08328698575496674,Martin Hinteregger,a,2668,OpenPlay,2019,LeftFoot,12496,Freiburg,Eintracht Frankfurt,1,0,2019-11-10 17:00:00,Bas Dost,Pass
+331615,36,MissedShots,0.7930000305175782,0.40900001525878904,0.025372350588440895,Erik Durm,a,2640,FromCorner,2019,RightFoot,12496,Freiburg,Eintracht Frankfurt,1,0,2019-11-10 17:00:00,,None
+331616,37,MissedShots,0.8959999847412109,0.654000015258789,0.07443312555551529,Gonçalo Paciência,a,7051,OpenPlay,2019,LeftFoot,12496,Freiburg,Eintracht Frankfurt,1,0,2019-11-10 17:00:00,Bas Dost,Pass
+331617,42,BlockedShot,0.8040000152587891,0.5029999923706054,0.0475260429084301,Gonçalo Paciência,a,7051,OpenPlay,2019,LeftFoot,12496,Freiburg,Eintracht Frankfurt,1,0,2019-11-10 17:00:00,,None
+331620,53,BlockedShot,0.8130000305175781,0.5529999923706055,0.04757726937532425,Erik Durm,a,2640,OpenPlay,2019,LeftFoot,12496,Freiburg,Eintracht Frankfurt,1,0,2019-11-10 17:00:00,Bas Dost,Pass
+331621,57,SavedShot,0.8569999694824219,0.735,0.0487917885184288,Filip Kostic,a,64,OpenPlay,2019,LeftFoot,12496,Freiburg,Eintracht Frankfurt,1,0,2019-11-10 17:00:00,Daichi Kamada,Pass
+331623,70,MissedShots,0.6790000152587891,0.7269999694824218,0.009862487204372883,Dominik Kohr,a,269,OpenPlay,2019,RightFoot,12496,Freiburg,Eintracht Frankfurt,1,0,2019-11-10 17:00:00,Filip Kostic,Pass
+331624,74,BlockedShot,0.71,0.47900001525878905,0.04456716775894165,Martin Hinteregger,a,2668,DirectFreekick,2019,LeftFoot,12496,Freiburg,Eintracht Frankfurt,1,0,2019-11-10 17:00:00,,Standard
+331625,74,BlockedShot,0.675,0.41,0.013026772066950798,Filip Kostic,a,64,SetPiece,2019,LeftFoot,12496,Freiburg,Eintracht Frankfurt,1,0,2019-11-10 17:00:00,Djibril Sow,Pass
+331627,79,SavedShot,0.715,0.49700000762939456,0.01401054672896862,Erik Durm,a,2640,FromCorner,2019,LeftFoot,12496,Freiburg,Eintracht Frankfurt,1,0,2019-11-10 17:00:00,,None
+331629,83,SavedShot,0.9490000152587891,0.4909999847412109,0.3528217673301697,Martin Hinteregger,a,2668,FromCorner,2019,Head,12496,Freiburg,Eintracht Frankfurt,1,0,2019-11-10 17:00:00,Djibril Sow,Chipped
+331630,83,MissedShots,0.9180000305175782,0.49700000762939456,0.11393295973539352,Bas Dost,a,158,FromCorner,2019,RightFoot,12496,Freiburg,Eintracht Frankfurt,1,0,2019-11-10 17:00:00,André Silva,HeadPass
+331631,85,SavedShot,0.7430000305175781,0.5179999923706055,0.02117752842605114,Dominik Kohr,a,269,OpenPlay,2019,RightFoot,12496,Freiburg,Eintracht Frankfurt,1,0,2019-11-10 17:00:00,Djibril Sow,TakeOn
+331632,91,MissedShots,0.85,0.5609999847412109,0.08289675414562225,Martin Hinteregger,a,2668,OpenPlay,2019,RightFoot,12496,Freiburg,Eintracht Frankfurt,1,0,2019-11-10 17:00:00,André Silva,LayOff
+331634,94,BlockedShot,0.845999984741211,0.34799999237060547,0.016932817175984383,Mijat Gacinovic,a,290,OpenPlay,2019,RightFoot,12496,Freiburg,Eintracht Frankfurt,1,0,2019-11-10 17:00:00,,Aerial

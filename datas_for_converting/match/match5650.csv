@@ -1,0 +1,25 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+37580,35,SavedShot,0.9119999694824219,0.3240000152587891,0.1542324721813202,Sergio Canales,h,2571,OpenPlay,2014,LeftFoot,5650,Real Sociedad,Barcelona,1,0,2015-01-04 20:00:00,Carlos Vela,TakeOn
+37583,40,MissedShots,0.754000015258789,0.21700000762939453,0.015689950436353683,Carlos Martínez,h,2512,OpenPlay,2014,RightFoot,5650,Real Sociedad,Barcelona,1,0,2015-01-04 20:00:00,Gonzalo Castro,BallTouch
+37587,56,MissedShots,0.78,0.6819999694824219,0.02988841012120247,Gonzalo Castro,h,2342,FromCorner,2014,LeftFoot,5650,Real Sociedad,Barcelona,1,0,2015-01-04 20:00:00,Esteban Granero,Pass
+37589,60,MissedShots,0.9269999694824219,0.46599998474121096,0.3950434625148773,Xabi Prieto,h,2233,OpenPlay,2014,Head,5650,Real Sociedad,Barcelona,1,0,2015-01-04 20:00:00,Alberto De la Bella,Cross
+37593,76,BlockedShot,0.749000015258789,0.6530000305175782,0.021428991109132767,Alberto De la Bella,h,2239,OpenPlay,2014,LeftFoot,5650,Real Sociedad,Barcelona,1,0,2015-01-04 20:00:00,,None
+37594,82,BlockedShot,0.795,0.6680000305175782,0.020698077976703644,Iñigo Martínez,h,2484,FromCorner,2014,RightFoot,5650,Real Sociedad,Barcelona,1,0,2015-01-04 20:00:00,,None
+37572,1,OwnGoal,0.08100000381469727,0.5359999847412109,0,Jordi Alba,a,2093,FromCorner,2014,Head,5650,Real Sociedad,Barcelona,1,0,2015-01-04 20:00:00,,CornerAwarded
+37573,2,BlockedShot,0.8780000305175781,0.55,0.06440561264753342,Munir,a,2106,OpenPlay,2014,LeftFoot,5650,Real Sociedad,Barcelona,1,0,2015-01-04 20:00:00,Jordi Alba,Cross
+37574,2,MissedShots,0.774000015258789,0.45599998474121095,0.020994044840335846,Martín Montoya,a,1950,OpenPlay,2014,RightFoot,5650,Real Sociedad,Barcelona,1,0,2015-01-04 20:00:00,Pedro,HeadPass
+37575,20,MissedShots,0.759000015258789,0.4179999923706055,0.07526785135269165,Xavi,a,4093,DirectFreekick,2014,RightFoot,5650,Real Sociedad,Barcelona,1,0,2015-01-04 20:00:00,,Standard
+37576,24,MissedShots,0.9590000152587891,0.674000015258789,0.055025048553943634,Pedro,a,687,OpenPlay,2014,LeftFoot,5650,Real Sociedad,Barcelona,1,0,2015-01-04 20:00:00,Luis Suárez,Pass
+37577,26,BlockedShot,0.96,0.3220000076293945,0.05302952229976654,Martín Montoya,a,1950,OpenPlay,2014,RightFoot,5650,Real Sociedad,Barcelona,1,0,2015-01-04 20:00:00,,None
+37578,27,BlockedShot,0.8619999694824219,0.7290000152587891,0.017208818346261978,Luis Suárez,a,2098,FromCorner,2014,RightFoot,5650,Real Sociedad,Barcelona,1,0,2015-01-04 20:00:00,Jeremy Mathieu,HeadPass
+37579,31,MissedShots,0.720999984741211,0.39099998474121095,0.016506996005773544,Javier Mascherano,a,2091,OpenPlay,2014,RightFoot,5650,Real Sociedad,Barcelona,1,0,2015-01-04 20:00:00,Sergio Busquets,Pass
+37581,36,BlockedShot,0.860999984741211,0.740999984741211,0.030581876635551453,Andrés Iniesta,a,2096,OpenPlay,2014,RightFoot,5650,Real Sociedad,Barcelona,1,0,2015-01-04 20:00:00,Xavi,Pass
+37582,38,BlockedShot,0.905,0.7469999694824219,0.04755670204758644,Luis Suárez,a,2098,OpenPlay,2014,LeftFoot,5650,Real Sociedad,Barcelona,1,0,2015-01-04 20:00:00,Jordi Alba,TakeOn
+37584,43,SavedShot,0.7219999694824218,0.5279999923706055,0.019070716574788094,Pedro,a,687,SetPiece,2014,RightFoot,5650,Real Sociedad,Barcelona,1,0,2015-01-04 20:00:00,Xavi,Pass
+37585,47,SavedShot,0.8159999847412109,0.8219999694824218,0.017039770260453224,Luis Suárez,a,2098,OpenPlay,2014,RightFoot,5650,Real Sociedad,Barcelona,1,0,2015-01-04 20:00:00,Lionel Messi,Pass
+37586,54,BlockedShot,0.784000015258789,0.3340000152587891,0.022328119724988937,Luis Suárez,a,2098,OpenPlay,2014,RightFoot,5650,Real Sociedad,Barcelona,1,0,2015-01-04 20:00:00,Martín Montoya,Pass
+37588,58,MissedShots,0.769000015258789,0.639000015258789,0.023562228307127953,Andrés Iniesta,a,2096,OpenPlay,2014,LeftFoot,5650,Real Sociedad,Barcelona,1,0,2015-01-04 20:00:00,Xavi,Pass
+37590,64,MissedShots,0.7280000305175781,0.5820000076293945,0.054233018308877945,Lionel Messi,a,2097,DirectFreekick,2014,LeftFoot,5650,Real Sociedad,Barcelona,1,0,2015-01-04 20:00:00,,Standard
+37591,66,SavedShot,0.87,0.5570000076293945,0.09162015467882156,Xavi,a,4093,OpenPlay,2014,RightFoot,5650,Real Sociedad,Barcelona,1,0,2015-01-04 20:00:00,Jordi Alba,Pass
+37592,70,MissedShots,0.8159999847412109,0.525,0.048288773745298386,Lionel Messi,a,2097,OpenPlay,2014,LeftFoot,5650,Real Sociedad,Barcelona,1,0,2015-01-04 20:00:00,Luis Suárez,Pass
+37595,86,SavedShot,0.9130000305175782,0.4540000152587891,0.24412848055362701,Luis Suárez,a,2098,FromCorner,2014,Head,5650,Real Sociedad,Barcelona,1,0,2015-01-04 20:00:00,Andrés Iniesta,Cross

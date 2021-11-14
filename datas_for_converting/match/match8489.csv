@@ -1,0 +1,21 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+200701,8,SavedShot,0.7040000152587891,0.46599998474121096,0.04172699153423309,Erik Thommy,h,2676,DirectFreekick,2017,RightFoot,8489,VfB Stuttgart,RasenBallsport Leipzig,0,0,2018-03-11 14:30:00,,Standard
+200703,24,BlockedShot,0.874000015258789,0.745,0.02248194068670273,Daniel Ginczek,h,426,SetPiece,2017,RightFoot,8489,VfB Stuttgart,RasenBallsport Leipzig,0,0,2018-03-11 14:30:00,,None
+200704,24,BlockedShot,0.7290000152587891,0.5329999923706055,0.013210399076342583,Dennis Aogo,h,334,SetPiece,2017,LeftFoot,8489,VfB Stuttgart,RasenBallsport Leipzig,0,0,2018-03-11 14:30:00,,Rebound
+200705,24,SavedShot,0.9590000152587891,0.4779999923706055,0.6662817597389221,Christian Gentner,h,60,SetPiece,2017,LeftFoot,8489,VfB Stuttgart,RasenBallsport Leipzig,0,0,2018-03-11 14:30:00,Benjamin Pavard,Pass
+200707,39,BlockedShot,0.7959999847412109,0.6459999847412109,0.020429903641343117,Dennis Aogo,h,334,SetPiece,2017,LeftFoot,8489,VfB Stuttgart,RasenBallsport Leipzig,0,0,2018-03-11 14:30:00,,None
+200710,57,MissedShots,0.8919999694824219,0.30100000381469727,0.009146930649876595,Andreas Beck,h,4270,OpenPlay,2017,Head,8489,VfB Stuttgart,RasenBallsport Leipzig,0,0,2018-03-11 14:30:00,Christian Gentner,BallTouch
+200712,62,BlockedShot,0.875,0.40400001525878904,0.06208938732743263,Daniel Ginczek,h,426,OpenPlay,2017,RightFoot,8489,VfB Stuttgart,RasenBallsport Leipzig,0,0,2018-03-11 14:30:00,Erik Thommy,Cross
+200713,62,BlockedShot,0.865999984741211,0.48,0.08814598619937897,Daniel Ginczek,h,426,OpenPlay,2017,LeftFoot,8489,VfB Stuttgart,RasenBallsport Leipzig,0,0,2018-03-11 14:30:00,,Rebound
+200714,62,BlockedShot,0.9169999694824219,0.62,0.11119399964809418,Christian Gentner,h,60,OpenPlay,2017,RightFoot,8489,VfB Stuttgart,RasenBallsport Leipzig,0,0,2018-03-11 14:30:00,Mario Gomez,Pass
+200715,67,MissedShots,0.78,0.3120000076293945,0.017766116186976433,Dennis Aogo,h,334,OpenPlay,2017,LeftFoot,8489,VfB Stuttgart,RasenBallsport Leipzig,0,0,2018-03-11 14:30:00,,None
+200716,79,MissedShots,0.88,0.534000015258789,0.05513475090265274,Mario Gomez,h,3887,OpenPlay,2017,Head,8489,VfB Stuttgart,RasenBallsport Leipzig,0,0,2018-03-11 14:30:00,Emiliano Insúa,Cross
+200719,84,MissedShots,0.8930000305175781,0.5579999923706055,0.031962450593709946,Daniel Ginczek,h,426,OpenPlay,2017,Head,8489,VfB Stuttgart,RasenBallsport Leipzig,0,0,2018-03-11 14:30:00,Chadrac Akolo,Aerial
+200702,10,MissedShots,0.8319999694824218,0.5359999847412109,0.05496818199753761,Bernardo,a,5245,SetPiece,2017,LeftFoot,8489,VfB Stuttgart,RasenBallsport Leipzig,0,0,2018-03-11 14:30:00,,None
+200706,31,SavedShot,0.8590000152587891,0.28299999237060547,0.027072196826338768,Naby Keita,a,5247,SetPiece,2017,RightFoot,8489,VfB Stuttgart,RasenBallsport Leipzig,0,0,2018-03-11 14:30:00,Timo Werner,Pass
+200708,46,SavedShot,0.835999984741211,0.47200000762939454,0.2225564867258072,Timo Werner,a,65,OpenPlay,2017,RightFoot,8489,VfB Stuttgart,RasenBallsport Leipzig,0,0,2018-03-11 14:30:00,Naby Keita,End
+200709,46,MissedShots,0.8859999847412109,0.45799999237060546,0.13517186045646667,Naby Keita,a,5247,OpenPlay,2017,RightFoot,8489,VfB Stuttgart,RasenBallsport Leipzig,0,0,2018-03-11 14:30:00,Yussuf Poulsen,TakeOn
+200711,58,SavedShot,0.8219999694824218,0.48700000762939455,0.06696376949548721,Yussuf Poulsen,a,5250,OpenPlay,2017,RightFoot,8489,VfB Stuttgart,RasenBallsport Leipzig,0,0,2018-03-11 14:30:00,Bernardo,Pass
+200717,80,BlockedShot,0.774000015258789,0.34799999237060547,0.020133081823587418,Naby Keita,a,5247,OpenPlay,2017,RightFoot,8489,VfB Stuttgart,RasenBallsport Leipzig,0,0,2018-03-11 14:30:00,Jean-Kevin Augustin,Pass
+200718,81,MissedShots,0.9290000152587891,0.5359999847412109,0.11185653507709503,Willi Orban,a,5257,FromCorner,2017,Head,8489,VfB Stuttgart,RasenBallsport Leipzig,0,0,2018-03-11 14:30:00,Naby Keita,Cross
+200720,86,MissedShots,0.7569999694824219,0.4759999847412109,0.02160227671265602,Naby Keita,a,5247,OpenPlay,2017,RightFoot,8489,VfB Stuttgart,RasenBallsport Leipzig,0,0,2018-03-11 14:30:00,,None

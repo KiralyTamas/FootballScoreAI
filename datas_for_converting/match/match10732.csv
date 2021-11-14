@@ -1,0 +1,31 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+260677,8,Goal,0.885,0.5,0.7600951194763184,Neymar,h,2099,Penalty,2018,RightFoot,10732,Paris Saint Germain,Lyon,5,0,2018-10-07 19:00:00,,Standard
+260682,26,BlockedShot,0.8730000305175781,0.5720000076293945,0.1384236365556717,Kylian Mbappe-Lottin,h,3423,OpenPlay,2018,RightFoot,10732,Paris Saint Germain,Lyon,5,0,2018-10-07 19:00:00,Edinson Cavani,Throughball
+260688,46,SavedShot,0.8780000305175781,0.6519999694824219,0.33113062381744385,Kylian Mbappe-Lottin,h,3423,OpenPlay,2018,RightFoot,10732,Paris Saint Germain,Lyon,5,0,2018-10-07 19:00:00,Neymar,Throughball
+260691,51,ShotOnPost,0.86,0.31,0.12381479144096375,Kylian Mbappe-Lottin,h,3423,OpenPlay,2018,RightFoot,10732,Paris Saint Germain,Lyon,5,0,2018-10-07 19:00:00,Ángel Di María,Throughball
+260692,59,SavedShot,0.879000015258789,0.44299999237060544,0.3979436755180359,Kylian Mbappe-Lottin,h,3423,OpenPlay,2018,RightFoot,10732,Paris Saint Germain,Lyon,5,0,2018-10-07 19:00:00,,None
+260694,60,Goal,0.875,0.4179999923706055,0.12206992506980896,Kylian Mbappe-Lottin,h,3423,OpenPlay,2018,LeftFoot,10732,Paris Saint Germain,Lyon,5,0,2018-10-07 19:00:00,,TakeOn
+260695,65,Goal,0.960999984741211,0.4540000152587891,0.6493789553642273,Kylian Mbappe-Lottin,h,3423,OpenPlay,2018,RightFoot,10732,Paris Saint Germain,Lyon,5,0,2018-10-07 19:00:00,Marquinhos,Pass
+260697,68,Goal,0.8480000305175781,0.5420000076293945,0.5302078127861023,Kylian Mbappe-Lottin,h,3423,OpenPlay,2018,RightFoot,10732,Paris Saint Germain,Lyon,5,0,2018-10-07 19:00:00,Neymar,Throughball
+260698,73,SavedShot,0.895,0.46700000762939453,0.5227351188659668,Thomas Meunier,h,5680,OpenPlay,2018,LeftFoot,10732,Paris Saint Germain,Lyon,5,0,2018-10-07 19:00:00,,None
+260699,73,BlockedShot,0.9230000305175782,0.40400001525878904,0.1369144320487976,Neymar,h,2099,OpenPlay,2018,RightFoot,10732,Paris Saint Germain,Lyon,5,0,2018-10-07 19:00:00,Kylian Mbappe-Lottin,Pass
+260700,73,Goal,0.9030000305175782,0.48,0.5054759979248047,Kylian Mbappe-Lottin,h,3423,OpenPlay,2018,RightFoot,10732,Paris Saint Germain,Lyon,5,0,2018-10-07 19:00:00,,Rebound
+260702,76,BlockedShot,0.9169999694824219,0.664000015258789,0.09428557008504868,Neymar,h,2099,OpenPlay,2018,LeftFoot,10732,Paris Saint Germain,Lyon,5,0,2018-10-07 19:00:00,Kylian Mbappe-Lottin,Pass
+260705,87,MissedShots,0.9430000305175781,0.415,0.13152553141117096,Neymar,h,2099,OpenPlay,2018,LeftFoot,10732,Paris Saint Germain,Lyon,5,0,2018-10-07 19:00:00,Kylian Mbappe-Lottin,Chipped
+260706,88,BlockedShot,0.8159999847412109,0.645,0.06110956892371178,Kylian Mbappe-Lottin,h,3423,OpenPlay,2018,LeftFoot,10732,Paris Saint Germain,Lyon,5,0,2018-10-07 19:00:00,Neymar,Pass
+260678,10,BlockedShot,0.92,0.43599998474121093,0.12253575772047043,Houssem Aouar,a,5733,OpenPlay,2018,RightFoot,10732,Paris Saint Germain,Lyon,5,0,2018-10-07 19:00:00,Rafael,Pass
+260679,10,SavedShot,0.909000015258789,0.415,0.08978116512298584,Tanguy NDombele Alvaro,a,5962,OpenPlay,2018,LeftFoot,10732,Paris Saint Germain,Lyon,5,0,2018-10-07 19:00:00,,Rebound
+260680,12,SavedShot,0.735,0.500999984741211,0.05723128095269203,Memphis Depay,a,555,DirectFreekick,2018,RightFoot,10732,Paris Saint Germain,Lyon,5,0,2018-10-07 19:00:00,,Standard
+260681,21,MissedShots,0.87,0.10899999618530273,0.038103945553302765,Bertrand Traoré,a,695,DirectFreekick,2018,LeftFoot,10732,Paris Saint Germain,Lyon,5,0,2018-10-07 19:00:00,,Standard
+260683,27,BlockedShot,0.8030000305175782,0.34599998474121096,0.028281744569540024,Tanguy NDombele Alvaro,a,5962,OpenPlay,2018,LeftFoot,10732,Paris Saint Germain,Lyon,5,0,2018-10-07 19:00:00,Bertrand Traoré,Pass
+260684,37,MissedShots,0.8180000305175781,0.44299999237060544,0.047093842178583145,Bertrand Traoré,a,695,OpenPlay,2018,LeftFoot,10732,Paris Saint Germain,Lyon,5,0,2018-10-07 19:00:00,Lucas Tousart,BallRecovery
+260685,41,MissedShots,0.9440000152587891,0.5609999847412109,0.39192894101142883,Jason Denayer,a,1039,SetPiece,2018,Head,10732,Paris Saint Germain,Lyon,5,0,2018-10-07 19:00:00,Memphis Depay,Cross
+260686,44,SavedShot,0.7709999847412109,0.6880000305175781,0.018650725483894348,Houssem Aouar,a,5733,OpenPlay,2018,RightFoot,10732,Paris Saint Germain,Lyon,5,0,2018-10-07 19:00:00,Ferland Mendy,Pass
+260687,45,BlockedShot,0.8159999847412109,0.6959999847412109,0.027859026566147804,Ferland Mendy,a,6233,OpenPlay,2018,RightFoot,10732,Paris Saint Germain,Lyon,5,0,2018-10-07 19:00:00,Maxwel Cornet,Pass
+260689,47,BlockedShot,0.8830000305175781,0.5770000076293945,0.09629080444574356,Memphis Depay,a,555,OpenPlay,2018,RightFoot,10732,Paris Saint Germain,Lyon,5,0,2018-10-07 19:00:00,Ferland Mendy,Pass
+260690,47,SavedShot,0.9359999847412109,0.5109999847412109,0.5768129229545593,Maxwel Cornet,a,3278,OpenPlay,2018,RightFoot,10732,Paris Saint Germain,Lyon,5,0,2018-10-07 19:00:00,,Rebound
+260693,60,SavedShot,0.730999984741211,0.25799999237060545,0.014513494446873665,Memphis Depay,a,555,OpenPlay,2018,RightFoot,10732,Paris Saint Germain,Lyon,5,0,2018-10-07 19:00:00,Tanguy NDombele Alvaro,Pass
+260696,67,BlockedShot,0.8490000152587891,0.41900001525878905,0.053479377180337906,Tanguy NDombele Alvaro,a,5962,FromCorner,2018,RightFoot,10732,Paris Saint Germain,Lyon,5,0,2018-10-07 19:00:00,,None
+260701,75,BlockedShot,0.8819999694824219,0.32799999237060545,0.06629463285207748,Bertrand Traoré,a,695,OpenPlay,2018,LeftFoot,10732,Paris Saint Germain,Lyon,5,0,2018-10-07 19:00:00,Léo Dubois,Pass
+260703,78,MissedShots,0.8019999694824219,0.6509999847412109,0.03456352278590202,Ferland Mendy,a,6233,OpenPlay,2018,LeftFoot,10732,Paris Saint Germain,Lyon,5,0,2018-10-07 19:00:00,Tanguy NDombele Alvaro,Pass
+260704,80,SavedShot,0.8090000152587891,0.515,0.037080470472574234,Memphis Depay,a,555,OpenPlay,2018,RightFoot,10732,Paris Saint Germain,Lyon,5,0,2018-10-07 19:00:00,Léo Dubois,None

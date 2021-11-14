@@ -1,0 +1,17 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+160298,10,MissedShots,0.97,0.40400001525878904,0.09456578642129898,Christopher Schindler,h,6031,FromCorner,2017,RightFoot,7221,Huddersfield,West Bromwich Albion,1,0,2017-11-04 15:00:00,,None
+160299,11,MissedShots,0.779000015258789,0.28899999618530275,0.015783563256263733,Rajiv van La Parra,h,6036,OpenPlay,2017,LeftFoot,7221,Huddersfield,West Bromwich Albion,1,0,2017-11-04 15:00:00,Florent Hadergjonaj,TakeOn
+160300,16,SavedShot,0.8040000152587891,0.6869999694824219,0.025001024827361107,Tom Ince,h,4454,OpenPlay,2017,RightFoot,7221,Huddersfield,West Bromwich Albion,1,0,2017-11-04 15:00:00,Aaron Mooy,Pass
+160302,31,MissedShots,0.8590000152587891,0.5120000076293946,0.06826061755418777,Tom Ince,h,4454,FromCorner,2017,LeftFoot,7221,Huddersfield,West Bromwich Albion,1,0,2017-11-04 15:00:00,,None
+160303,35,SavedShot,0.7830000305175782,0.34299999237060547,0.02527894265949726,Tom Ince,h,4454,OpenPlay,2017,LeftFoot,7221,Huddersfield,West Bromwich Albion,1,0,2017-11-04 15:00:00,Florent Hadergjonaj,Pass
+160305,38,BlockedShot,0.695,0.4470000076293945,0.01260591484606266,Florent Hadergjonaj,h,5215,OpenPlay,2017,RightFoot,7221,Huddersfield,West Bromwich Albion,1,0,2017-11-04 15:00:00,,BallRecovery
+160306,44,Goal,0.754000015258789,0.6,0.018939755856990814,Rajiv van La Parra,h,6036,OpenPlay,2017,RightFoot,7221,Huddersfield,West Bromwich Albion,1,0,2017-11-04 15:00:00,Scott Malone,Pass
+160301,21,BlockedShot,0.8640000152587891,0.6869999694824219,0.11683624237775803,Jay Rodriguez,a,844,OpenPlay,2017,RightFoot,7221,Huddersfield,West Bromwich Albion,1,0,2017-11-04 15:00:00,Hal Robson-Kanu,Throughball
+160304,35,SavedShot,0.7919999694824219,0.37599998474121094,0.02898230589926243,Jay Rodriguez,a,844,OpenPlay,2017,RightFoot,7221,Huddersfield,West Bromwich Albion,1,0,2017-11-04 15:00:00,Hal Robson-Kanu,Pass
+160307,69,BlockedShot,0.8219999694824218,0.52,0.024288084357976913,Jake Livermore,a,1689,FromCorner,2017,RightFoot,7221,Huddersfield,West Bromwich Albion,1,0,2017-11-04 15:00:00,Jonny Evans,HeadPass
+160308,70,BlockedShot,0.8340000152587891,0.7380000305175781,0.026436548680067062,Jay Rodriguez,a,844,OpenPlay,2017,LeftFoot,7221,Huddersfield,West Bromwich Albion,1,0,2017-11-04 15:00:00,Kieran Gibbs,Pass
+160309,73,MissedShots,0.909000015258789,0.5709999847412109,0.06252705305814743,Salomón Rondón,a,813,FromCorner,2017,Head,7221,Huddersfield,West Bromwich Albion,1,0,2017-11-04 15:00:00,Jonny Evans,Cross
+160310,76,MissedShots,0.6809999847412109,0.46900001525878904,0.01329335942864418,Jay Rodriguez,a,844,OpenPlay,2017,RightFoot,7221,Huddersfield,West Bromwich Albion,1,0,2017-11-04 15:00:00,Jake Livermore,Pass
+160311,79,BlockedShot,0.769000015258789,0.7559999847412109,0.015311424620449543,Kieran Gibbs,a,545,OpenPlay,2017,LeftFoot,7221,Huddersfield,West Bromwich Albion,1,0,2017-11-04 15:00:00,James McClean,Pass
+160312,91,SavedShot,0.924000015258789,0.39099998474121095,0.05277279391884804,James McClean,a,814,OpenPlay,2017,Head,7221,Huddersfield,West Bromwich Albion,1,0,2017-11-04 15:00:00,Gareth Barry,Cross
+160313,92,SavedShot,0.8080000305175781,0.5,0.041557427495718,Matt Phillips,a,1737,OpenPlay,2017,LeftFoot,7221,Huddersfield,West Bromwich Albion,1,0,2017-11-04 15:00:00,Ahmed Hegazy,Pass

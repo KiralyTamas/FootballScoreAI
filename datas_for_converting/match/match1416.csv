@@ -1,0 +1,25 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+84435,28,BlockedShot,0.81,0.415,0.035764578729867935,Javi Fuego,h,2377,SetPiece,2015,RightFoot,1416,Valencia,Deportivo La Coruna,1,1,2015-08-30 22:30:00,,None
+84438,44,Goal,0.9619999694824218,0.42900001525878906,0.4472061097621918,Álvaro Negredo,h,1715,FromCorner,2015,LeftFoot,1416,Valencia,Deportivo La Coruna,1,1,2015-08-30 22:30:00,Santi Mina,HeadPass
+84440,52,SavedShot,0.98,0.45799999237060546,0.6360612511634827,Danilo,h,2387,SetPiece,2015,Head,1416,Valencia,Deportivo La Coruna,1,1,2015-08-30 22:30:00,Rúben Vezo,HeadPass
+84441,52,BlockedShot,0.9119999694824219,0.3629999923706055,0.06521299481391907,Rodrigo,h,2381,SetPiece,2015,LeftFoot,1416,Valencia,Deportivo La Coruna,1,1,2015-08-30 22:30:00,,None
+84442,52,MissedShots,0.69,0.5,0.009924517013132572,Shkodran Mustafi,h,1699,OpenPlay,2015,LeftFoot,1416,Valencia,Deportivo La Coruna,1,1,2015-08-30 22:30:00,,None
+84443,58,MissedShots,0.7959999847412109,0.31799999237060544,0.029152516275644302,Danilo,h,2387,OpenPlay,2015,LeftFoot,1416,Valencia,Deportivo La Coruna,1,1,2015-08-30 22:30:00,Rodrigo de Paul,TakeOn
+84446,64,SavedShot,0.7619999694824219,0.6179999923706054,0.022517630830407143,Rodrigo de Paul,h,1145,OpenPlay,2015,RightFoot,1416,Valencia,Deportivo La Coruna,1,1,2015-08-30 22:30:00,Álvaro Negredo,BallTouch
+84447,73,BlockedShot,0.95,0.5690000152587891,0.41858911514282227,Rodrigo de Paul,h,1145,OpenPlay,2015,LeftFoot,1416,Valencia,Deportivo La Coruna,1,1,2015-08-30 22:30:00,Sofiane Feghouli,Cross
+84448,73,SavedShot,0.875,0.4620000076293945,0.03327566385269165,Rúben Vezo,h,2386,FromCorner,2015,OtherBodyPart,1416,Valencia,Deportivo La Coruna,1,1,2015-08-30 22:30:00,Rodrigo de Paul,Cross
+84449,76,SavedShot,0.7269999694824218,0.46700000762939453,0.021223273128271103,Paco Alcácer,h,2380,OpenPlay,2015,RightFoot,1416,Valencia,Deportivo La Coruna,1,1,2015-08-30 22:30:00,Rodrigo de Paul,Pass
+84451,87,MissedShots,0.909000015258789,0.5059999847412109,0.09135503321886063,Shkodran Mustafi,h,1699,FromCorner,2015,Head,1416,Valencia,Deportivo La Coruna,1,1,2015-08-30 22:30:00,Rodrigo de Paul,Cross
+84452,92,SavedShot,0.7919999694824219,0.4909999847412109,0.04543377831578255,Paco Alcácer,h,2380,OpenPlay,2015,LeftFoot,1416,Valencia,Deportivo La Coruna,1,1,2015-08-30 22:30:00,Sofiane Feghouli,Chipped
+84429,3,MissedShots,0.8959999847412109,0.3629999923706055,0.016788357868790627,Luis Alberto,a,1219,OpenPlay,2015,Head,1416,Valencia,Deportivo La Coruna,1,1,2015-08-30 22:30:00,Juanfran,Cross
+84430,3,MissedShots,0.9019999694824219,0.5879999923706055,0.3518769443035126,Luis Alberto,a,1219,OpenPlay,2015,RightFoot,1416,Valencia,Deportivo La Coruna,1,1,2015-08-30 22:30:00,Pedro Mosquera,Pass
+84431,12,BlockedShot,0.9269999694824219,0.52,0.07602297514677048,Alejandro Arribas,a,2315,SetPiece,2015,Head,1416,Valencia,Deportivo La Coruna,1,1,2015-08-30 22:30:00,Lucas Pérez,Aerial
+84432,24,BlockedShot,0.8930000305175781,0.40200000762939453,0.04691239446401596,Luis Alberto,a,1219,FromCorner,2015,RightFoot,1416,Valencia,Deportivo La Coruna,1,1,2015-08-30 22:30:00,Faycal Fajr,Cross
+84433,24,MissedShots,0.9630000305175781,0.6270000076293946,0.08596403151750565,Sidnei,a,2314,FromCorner,2015,LeftFoot,1416,Valencia,Deportivo La Coruna,1,1,2015-08-30 22:30:00,,Rebound
+84434,25,MissedShots,0.69,0.27700000762939453,0.008355366997420788,Lucas Pérez,a,1700,OpenPlay,2015,LeftFoot,1416,Valencia,Deportivo La Coruna,1,1,2015-08-30 22:30:00,,None
+84436,32,MissedShots,0.9019999694824219,0.41,0.11369375139474869,Juanfran,a,2316,OpenPlay,2015,RightFoot,1416,Valencia,Deportivo La Coruna,1,1,2015-08-30 22:30:00,Lucas Pérez,Pass
+84437,38,Goal,0.7769999694824219,0.3089999961853027,0.023756185546517372,Lucas Pérez,a,1700,OpenPlay,2015,LeftFoot,1416,Valencia,Deportivo La Coruna,1,1,2015-08-30 22:30:00,Juanfran,Pass
+84439,47,SavedShot,0.860999984741211,0.7630000305175781,0.029945557937026024,Lucas Pérez,a,1700,OpenPlay,2015,LeftFoot,1416,Valencia,Deportivo La Coruna,1,1,2015-08-30 22:30:00,Sidnei,Chipped
+84444,60,SavedShot,0.884000015258789,0.25299999237060544,0.03189309686422348,Juanfran,a,2316,OpenPlay,2015,LeftFoot,1416,Valencia,Deportivo La Coruna,1,1,2015-08-30 22:30:00,Pedro Mosquera,Chipped
+84445,61,BlockedShot,0.7680000305175781,0.43599998474121093,0.026923872530460358,Luisinho,a,2500,OpenPlay,2015,RightFoot,1416,Valencia,Deportivo La Coruna,1,1,2015-08-30 22:30:00,Lucas Pérez,Pass
+84450,78,MissedShots,0.68,0.69,0.010181665420532227,Luisinho,a,2500,OpenPlay,2015,LeftFoot,1416,Valencia,Deportivo La Coruna,1,1,2015-08-30 22:30:00,,Tackle

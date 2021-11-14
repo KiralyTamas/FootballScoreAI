@@ -1,0 +1,34 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+55985,15,BlockedShot,0.8080000305175781,0.6580000305175782,0.032041650265455246,Oscar,h,692,OpenPlay,2015,RightFoot,330,Chelsea,Manchester United,1,1,2016-02-07 20:00:00,Willian,Pass
+55989,25,MissedShots,0.9280000305175782,0.5690000152587891,0.07722637057304382,Diego Costa,h,802,FromCorner,2015,Head,330,Chelsea,Manchester United,1,1,2016-02-07 20:00:00,Willian,Cross
+55990,28,SavedShot,0.9169999694824219,0.43,0.061179473996162415,Nemanja Matic,h,697,FromCorner,2015,Head,330,Chelsea,Manchester United,1,1,2016-02-07 20:00:00,Willian,Cross
+55991,31,MissedShots,0.8959999847412109,0.32,0.05462358891963959,Diego Costa,h,802,OpenPlay,2015,RightFoot,330,Chelsea,Manchester United,1,1,2016-02-07 20:00:00,Oscar,Pass
+55992,32,MissedShots,0.9530000305175781,0.6669999694824219,0.08322194963693619,Oscar,h,692,OpenPlay,2015,LeftFoot,330,Chelsea,Manchester United,1,1,2016-02-07 20:00:00,César Azpilicueta,Pass
+55995,45,BlockedShot,0.9169999694824219,0.500999984741211,0.10692267119884491,John Terry,h,917,OpenPlay,2015,RightFoot,330,Chelsea,Manchester United,1,1,2016-02-07 20:00:00,,None
+55997,47,BlockedShot,0.7519999694824219,0.664000015258789,0.016221141442656517,Nemanja Matic,h,697,OpenPlay,2015,LeftFoot,330,Chelsea,Manchester United,1,1,2016-02-07 20:00:00,,BallTouch
+55998,47,MissedShots,0.705,0.4909999847412109,0.014658243395388126,Kurt Zouma,h,935,OpenPlay,2015,RightFoot,330,Chelsea,Manchester United,1,1,2016-02-07 20:00:00,John Terry,Pass
+56005,67,SavedShot,0.895,0.6029999923706054,0.05103473737835884,Branislav Ivanovic,h,682,OpenPlay,2015,LeftFoot,330,Chelsea,Manchester United,1,1,2016-02-07 20:00:00,César Azpilicueta,HeadPass
+56006,71,SavedShot,0.9330000305175781,0.33599998474121096,0.07391966879367828,Cesc Fàbregas,h,686,OpenPlay,2015,RightFoot,330,Chelsea,Manchester United,1,1,2016-02-07 20:00:00,Eden Hazard,Pass
+56007,72,BlockedShot,0.93,0.5359999847412109,0.10795683413743973,John Terry,h,917,FromCorner,2015,Head,330,Chelsea,Manchester United,1,1,2016-02-07 20:00:00,Cesc Fàbregas,Cross
+56009,85,MissedShots,0.8080000305175781,0.33299999237060546,0.01220848597586155,Pedro,h,687,OpenPlay,2015,RightFoot,330,Chelsea,Manchester United,1,1,2016-02-07 20:00:00,,Aerial
+56010,88,MissedShots,0.9469999694824218,0.524000015258789,0.1370450109243393,Diego Costa,h,802,SetPiece,2015,Head,330,Chelsea,Manchester United,1,1,2016-02-07 20:00:00,Willian,Cross
+56011,90,BlockedShot,0.895,0.5509999847412109,0.38602861762046814,Diego Costa,h,802,OpenPlay,2015,RightFoot,330,Chelsea,Manchester United,1,1,2016-02-07 20:00:00,Cesc Fàbregas,Pass
+56012,90,Goal,0.9769999694824218,0.5779999923706055,0.4758540391921997,Diego Costa,h,802,OpenPlay,2015,LeftFoot,330,Chelsea,Manchester United,1,1,2016-02-07 20:00:00,,Rebound
+56014,95,SavedShot,0.904000015258789,0.6609999847412109,0.1090935617685318,Diego Costa,h,802,OpenPlay,2015,RightFoot,330,Chelsea,Manchester United,1,1,2016-02-07 20:00:00,Eden Hazard,TakeOn
+55982,7,SavedShot,0.7319999694824219,0.580999984741211,0.014882548712193966,Cameron Borthwick-Jackson,a,1037,FromCorner,2015,LeftFoot,330,Chelsea,Manchester United,1,1,2016-02-07 20:00:00,,TakeOn
+55983,12,MissedShots,0.749000015258789,0.524000015258789,0.01388267707079649,Wayne Rooney,a,629,FromCorner,2015,RightFoot,330,Chelsea,Manchester United,1,1,2016-02-07 20:00:00,,Aerial
+55984,12,SavedShot,0.7380000305175781,0.6959999847412109,0.014190937392413616,Michael Carrick,a,654,OpenPlay,2015,RightFoot,330,Chelsea,Manchester United,1,1,2016-02-07 20:00:00,Marouane Fellaini,Pass
+55986,17,SavedShot,0.879000015258789,0.7269999694824218,0.03812727704644203,Anthony Martial,a,553,OpenPlay,2015,RightFoot,330,Chelsea,Manchester United,1,1,2016-02-07 20:00:00,Juan Mata,Pass
+55987,22,BlockedShot,0.909000015258789,0.5379999923706055,0.06992684304714203,Chris Smalling,a,628,FromCorner,2015,Head,330,Chelsea,Manchester United,1,1,2016-02-07 20:00:00,Daley Blind,Cross
+55988,23,BlockedShot,0.895,0.34,0.04844064638018608,Chris Smalling,a,628,FromCorner,2015,RightFoot,330,Chelsea,Manchester United,1,1,2016-02-07 20:00:00,,None
+55993,39,MissedShots,0.9259999847412109,0.49599998474121093,0.08243529498577118,Marouane Fellaini,a,630,FromCorner,2015,OtherBodyPart,330,Chelsea,Manchester United,1,1,2016-02-07 20:00:00,Daley Blind,Cross
+55994,44,BlockedShot,0.8080000305175781,0.46799999237060547,0.041225068271160126,Jesse Lingard,a,558,OpenPlay,2015,RightFoot,330,Chelsea,Manchester United,1,1,2016-02-07 20:00:00,Wayne Rooney,Pass
+55996,46,SavedShot,0.895,0.575,0.04013266786932945,Wayne Rooney,a,629,OpenPlay,2015,Head,330,Chelsea,Manchester United,1,1,2016-02-07 20:00:00,Juan Mata,Chipped
+55999,48,SavedShot,0.750999984741211,0.7,0.019144196063280106,Wayne Rooney,a,629,OpenPlay,2015,RightFoot,330,Chelsea,Manchester United,1,1,2016-02-07 20:00:00,Daley Blind,Pass
+56000,49,MissedShots,0.8919999694824219,0.669000015258789,0.06825216859579086,Anthony Martial,a,553,OpenPlay,2015,RightFoot,330,Chelsea,Manchester United,1,1,2016-02-07 20:00:00,Juan Mata,Pass
+56001,50,BlockedShot,0.7880000305175782,0.30100000381469727,0.021963410079479218,Jesse Lingard,a,558,OpenPlay,2015,RightFoot,330,Chelsea,Manchester United,1,1,2016-02-07 20:00:00,Juan Mata,Pass
+56002,52,SavedShot,0.8209999847412109,0.5540000152587891,0.04872192442417145,Jesse Lingard,a,558,OpenPlay,2015,RightFoot,330,Chelsea,Manchester United,1,1,2016-02-07 20:00:00,Anthony Martial,Pass
+56003,60,Goal,0.8730000305175781,0.48900001525878906,0.10420304536819458,Jesse Lingard,a,558,OpenPlay,2015,RightFoot,330,Chelsea,Manchester United,1,1,2016-02-07 20:00:00,Wayne Rooney,Pass
+56004,64,MissedShots,0.81,0.715,0.030664635822176933,Jesse Lingard,a,558,OpenPlay,2015,RightFoot,330,Chelsea,Manchester United,1,1,2016-02-07 20:00:00,Cameron Borthwick-Jackson,Pass
+56008,73,MissedShots,0.865999984741211,0.45599998474121095,0.08613637089729309,Wayne Rooney,a,629,OpenPlay,2015,RightFoot,330,Chelsea,Manchester United,1,1,2016-02-07 20:00:00,Matteo Darmian,Cross
+56013,93,MissedShots,0.9230000305175782,0.7240000152587891,0.03814541921019554,Wayne Rooney,a,629,OpenPlay,2015,RightFoot,330,Chelsea,Manchester United,1,1,2016-02-07 20:00:00,,TakeOn

@@ -1,0 +1,28 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+131653,2,Goal,0.919000015258789,0.7080000305175781,0.4036138951778412,Mark Uth,h,88,OpenPlay,2016,LeftFoot,3210,Hoffenheim,Borussia Dortmund,2,2,2016-12-16 19:30:00,Benjamin Hübner,TakeOn
+131654,4,BlockedShot,0.7269999694824218,0.5970000076293945,0.019805172458291054,Mark Uth,h,88,OpenPlay,2016,LeftFoot,3210,Hoffenheim,Borussia Dortmund,2,2,2016-12-16 19:30:00,Sandro Wagner,Pass
+131658,18,SavedShot,0.745999984741211,0.37400001525878906,0.017967218533158302,Kerem Demirbay,h,5273,OpenPlay,2016,LeftFoot,3210,Hoffenheim,Borussia Dortmund,2,2,2016-12-16 19:30:00,Mark Uth,BallRecovery
+131659,19,BlockedShot,0.9059999847412109,0.585,0.014838703908026218,Benjamin Hübner,h,251,FromCorner,2016,Head,3210,Hoffenheim,Borussia Dortmund,2,2,2016-12-16 19:30:00,Sebastian Rudy,Aerial
+131660,19,Goal,0.950999984741211,0.49700000762939456,0.4571821391582489,Sandro Wagner,h,11,FromCorner,2016,Head,3210,Hoffenheim,Borussia Dortmund,2,2,2016-12-16 19:30:00,Benjamin Hübner,Rebound
+131667,47,ShotOnPost,0.9209999847412109,0.4570000076293945,0.14590726792812347,Sandro Wagner,h,11,OpenPlay,2016,LeftFoot,3210,Hoffenheim,Borussia Dortmund,2,2,2016-12-16 19:30:00,Pavel Kaderábek,Pass
+131670,51,BlockedShot,0.8469999694824218,0.6930000305175781,0.03985194116830826,Kerem Demirbay,h,5273,OpenPlay,2016,LeftFoot,3210,Hoffenheim,Borussia Dortmund,2,2,2016-12-16 19:30:00,Jeremy Toljan,Pass
+131672,70,SavedShot,0.795,0.6759999847412109,0.025976313278079033,Sebastian Rudy,h,90,OpenPlay,2016,RightFoot,3210,Hoffenheim,Borussia Dortmund,2,2,2016-12-16 19:30:00,Niklas Süle,Pass
+131673,74,MissedShots,0.9030000305175782,0.715,0.04445500671863556,Jeremy Toljan,h,257,OpenPlay,2016,LeftFoot,3210,Hoffenheim,Borussia Dortmund,2,2,2016-12-16 19:30:00,Sandro Wagner,Pass
+131675,77,BlockedShot,0.769000015258789,0.5029999923706054,0.02495281770825386,Sandro Wagner,h,11,OpenPlay,2016,LeftFoot,3210,Hoffenheim,Borussia Dortmund,2,2,2016-12-16 19:30:00,Andrej Kramaric,Pass
+131677,88,SavedShot,0.89,0.509000015258789,0.31679677963256836,Andrej Kramaric,h,956,OpenPlay,2016,RightFoot,3210,Hoffenheim,Borussia Dortmund,2,2,2016-12-16 19:30:00,Pavel Kaderábek,Chipped
+131678,90,MissedShots,0.795,0.33599998474121096,0.020001154392957687,Andrej Kramaric,h,956,OpenPlay,2016,RightFoot,3210,Hoffenheim,Borussia Dortmund,2,2,2016-12-16 19:30:00,Pavel Kaderábek,HeadPass
+131679,92,MissedShots,0.7759999847412109,0.33599998474121096,0.018411224707961082,Baris Atik,h,2685,OpenPlay,2016,RightFoot,3210,Hoffenheim,Borussia Dortmund,2,2,2016-12-16 19:30:00,,None
+131655,5,MissedShots,0.9059999847412109,0.5520000076293945,0.03137511387467384,Marcel Schmelzer,a,313,OpenPlay,2016,Head,3210,Hoffenheim,Borussia Dortmund,2,2,2016-12-16 19:30:00,Matthias Ginter,Aerial
+131656,6,MissedShots,0.860999984741211,0.35200000762939454,0.06205172836780548,Pierre-Emerick Aubameyang,a,318,OpenPlay,2016,RightFoot,3210,Hoffenheim,Borussia Dortmund,2,2,2016-12-16 19:30:00,Marco Reus,Pass
+131657,10,Goal,0.855999984741211,0.5259999847412109,0.3656904995441437,Mario Götze,a,422,OpenPlay,2016,RightFoot,3210,Hoffenheim,Borussia Dortmund,2,2,2016-12-16 19:30:00,Ousmane Dembélé,Pass
+131661,26,BlockedShot,0.899000015258789,0.4520000076293945,0.05542585253715515,Marc Bartra,a,2453,FromCorner,2016,Head,3210,Hoffenheim,Borussia Dortmund,2,2,2016-12-16 19:30:00,Ousmane Dembélé,Cross
+131662,30,BlockedShot,0.9480000305175781,0.6630000305175782,0.00854826346039772,Matthias Ginter,a,315,SetPiece,2016,Head,3210,Hoffenheim,Borussia Dortmund,2,2,2016-12-16 19:30:00,Mario Götze,Aerial
+131663,30,BlockedShot,0.9690000152587891,0.35700000762939454,0.066134013235569,Ousmane Dembélé,a,3226,SetPiece,2016,RightFoot,3210,Hoffenheim,Borussia Dortmund,2,2,2016-12-16 19:30:00,,Rebound
+131664,30,BlockedShot,0.9569999694824218,0.33099998474121095,0.05552569404244423,Ousmane Dembélé,a,3226,OpenPlay,2016,RightFoot,3210,Hoffenheim,Borussia Dortmund,2,2,2016-12-16 19:30:00,,Rebound
+131665,31,MissedShots,0.914000015258789,0.5609999847412109,0.04144662618637085,Marcel Schmelzer,a,313,SetPiece,2016,Head,3210,Hoffenheim,Borussia Dortmund,2,2,2016-12-16 19:30:00,Marco Reus,Aerial
+131666,40,BlockedShot,0.7669999694824219,0.38299999237060545,0.07130426913499832,Marcel Schmelzer,a,313,DirectFreekick,2016,LeftFoot,3210,Hoffenheim,Borussia Dortmund,2,2,2016-12-16 19:30:00,,Standard
+131668,47,Goal,0.9030000305175782,0.3609999847412109,0.5683218836784363,Pierre-Emerick Aubameyang,a,318,OpenPlay,2016,RightFoot,3210,Hoffenheim,Borussia Dortmund,2,2,2016-12-16 19:30:00,Ousmane Dembélé,Throughball
+131669,49,SavedShot,0.8969999694824219,0.67,0.08839519321918488,Pierre-Emerick Aubameyang,a,318,OpenPlay,2016,RightFoot,3210,Hoffenheim,Borussia Dortmund,2,2,2016-12-16 19:30:00,Ousmane Dembélé,Pass
+131671,56,BlockedShot,0.7619999694824219,0.67,0.0156974159181118,Marcel Schmelzer,a,313,OpenPlay,2016,LeftFoot,3210,Hoffenheim,Borussia Dortmund,2,2,2016-12-16 19:30:00,,None
+131674,76,SavedShot,0.795,0.6329999923706054,0.01576409302651882,Pierre-Emerick Aubameyang,a,318,FromCorner,2016,RightFoot,3210,Hoffenheim,Borussia Dortmund,2,2,2016-12-16 19:30:00,,Aerial
+131676,86,MissedShots,0.730999984741211,0.6229999923706054,0.048370685428380966,Pierre-Emerick Aubameyang,a,318,DirectFreekick,2016,RightFoot,3210,Hoffenheim,Borussia Dortmund,2,2,2016-12-16 19:30:00,,Standard

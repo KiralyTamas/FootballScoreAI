@@ -1,0 +1,28 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+373050,3,BlockedShot,0.8809999847412109,0.3390000152587891,0.06284131109714508,Domenico Berardi,h,1612,OpenPlay,2019,LeftFoot,13435,Sassuolo,AC Milan,1,2,2020-07-21 19:45:00,,BallRecovery
+373051,4,BlockedShot,0.7340000152587891,0.585,0.01472636591643095,Domenico Berardi,h,1612,FromCorner,2019,RightFoot,13435,Sassuolo,AC Milan,1,2,2020-07-21 19:45:00,,None
+373052,5,MissedShots,0.7819999694824219,0.41,0.03270148113369942,Manuel Locatelli,h,1122,OpenPlay,2019,RightFoot,13435,Sassuolo,AC Milan,1,2,2020-07-21 19:45:00,Francesco Caputo,Pass
+373053,13,SavedShot,0.8480000305175781,0.41400001525878904,0.07982990890741348,Domenico Berardi,h,1612,OpenPlay,2019,LeftFoot,13435,Sassuolo,AC Milan,1,2,2020-07-21 19:45:00,Mert Müldür,Pass
+373059,30,MissedShots,0.805,0.509000015258789,0.054172322154045105,Giacomo Raspadori,h,7500,OpenPlay,2019,RightFoot,13435,Sassuolo,AC Milan,1,2,2020-07-21 19:45:00,Domenico Berardi,Pass
+373061,41,Goal,0.885,0.5,0.7612589001655579,Francesco Caputo,h,6980,Penalty,2019,RightFoot,13435,Sassuolo,AC Milan,1,2,2020-07-21 19:45:00,,Standard
+373064,45,BlockedShot,0.7340000152587891,0.46799999237060547,0.013271166943013668,Mehdi Bourabia,h,7003,OpenPlay,2019,RightFoot,13435,Sassuolo,AC Milan,1,2,2020-07-21 19:45:00,Manuel Locatelli,TakeOn
+373067,50,SavedShot,0.8690000152587891,0.27700000762939453,0.03808833286166191,Rogerio,h,6312,OpenPlay,2019,RightFoot,13435,Sassuolo,AC Milan,1,2,2020-07-21 19:45:00,Francesco Caputo,Pass
+373070,76,BlockedShot,0.8319999694824218,0.445,0.06496524065732956,Domenico Berardi,h,1612,OpenPlay,2019,LeftFoot,13435,Sassuolo,AC Milan,1,2,2020-07-21 19:45:00,Francesco Caputo,Pass
+373075,86,MissedShots,0.86,0.3320000076293945,0.03256751224398613,Domenico Berardi,h,1612,OpenPlay,2019,LeftFoot,13435,Sassuolo,AC Milan,1,2,2020-07-21 19:45:00,Georgios Kyriakopoulos,Cross
+373076,91,MissedShots,0.7930000305175782,0.5879999923706055,0.03308936208486557,Hamed Junior Traore,h,6986,OpenPlay,2019,RightFoot,13435,Sassuolo,AC Milan,1,2,2020-07-21 19:45:00,Filip Djuricic,Pass
+373054,14,SavedShot,0.799000015258789,0.664000015258789,0.028347697108983994,Ante Rebic,a,1852,OpenPlay,2019,RightFoot,13435,Sassuolo,AC Milan,1,2,2020-07-21 19:45:00,Alessio Romagnoli,Pass
+373055,16,MissedShots,0.750999984741211,0.639000015258789,0.05328809469938278,Zlatan Ibrahimovic,a,1741,DirectFreekick,2019,RightFoot,13435,Sassuolo,AC Milan,1,2,2020-07-21 19:45:00,,Standard
+373056,18,Goal,0.92,0.5359999847412109,0.3194824755191803,Zlatan Ibrahimovic,a,1741,OpenPlay,2019,Head,13435,Sassuolo,AC Milan,1,2,2020-07-21 19:45:00,Hakan Calhanoglu,Cross
+373057,21,BlockedShot,0.86,0.46599998474121096,0.11543068289756775,Zlatan Ibrahimovic,a,1741,OpenPlay,2019,LeftFoot,13435,Sassuolo,AC Milan,1,2,2020-07-21 19:45:00,Theo Hernández,Pass
+373058,22,MissedShots,0.9619999694824218,0.5790000152587891,0.09910210967063904,Franck Kessié,a,1489,FromCorner,2019,Head,13435,Sassuolo,AC Milan,1,2,2020-07-21 19:45:00,Hakan Calhanoglu,Cross
+373060,31,SavedShot,0.9230000305175782,0.5729999923706055,0.2892478406429291,Zlatan Ibrahimovic,a,1741,OpenPlay,2019,Head,13435,Sassuolo,AC Milan,1,2,2020-07-21 19:45:00,Ismael Bennacer,Cross
+373062,42,MissedShots,0.5270000076293946,0.4520000076293945,0.007841824553906918,Hakan Calhanoglu,a,189,OpenPlay,2019,RightFoot,13435,Sassuolo,AC Milan,1,2,2020-07-21 19:45:00,Zlatan Ibrahimovic,Pass
+373063,44,BlockedShot,0.84,0.34599998474121096,0.049546726047992706,Hakan Calhanoglu,a,189,OpenPlay,2019,RightFoot,13435,Sassuolo,AC Milan,1,2,2020-07-21 19:45:00,Alexis Saelemaekers,Pass
+373065,46,Goal,0.935,0.415,0.9035751819610596,Zlatan Ibrahimovic,a,1741,OpenPlay,2019,RightFoot,13435,Sassuolo,AC Milan,1,2,2020-07-21 19:45:00,Hakan Calhanoglu,TakeOn
+373066,48,BlockedShot,0.8109999847412109,0.3529999923706055,0.045345477759838104,Hakan Calhanoglu,a,189,OpenPlay,2019,RightFoot,13435,Sassuolo,AC Milan,1,2,2020-07-21 19:45:00,Alexis Saelemaekers,Pass
+373068,68,MissedShots,0.9069999694824219,0.24899999618530275,0.036636389791965485,Davide Calabria,a,1574,OpenPlay,2019,RightFoot,13435,Sassuolo,AC Milan,1,2,2020-07-21 19:45:00,Hakan Calhanoglu,Pass
+373069,73,ShotOnPost,0.7430000305175781,0.5640000152587891,0.02164527028799057,Ismael Bennacer,a,6981,OpenPlay,2019,LeftFoot,13435,Sassuolo,AC Milan,1,2,2020-07-21 19:45:00,Ante Rebic,Pass
+373071,80,SavedShot,0.8019999694824219,0.6659999847412109,0.03784424811601639,Franck Kessié,a,1489,OpenPlay,2019,RightFoot,13435,Sassuolo,AC Milan,1,2,2020-07-21 19:45:00,Giacomo Bonaventura,Pass
+373072,80,SavedShot,0.89,0.5459999847412109,0.3719785809516907,Giacomo Bonaventura,a,1121,OpenPlay,2019,LeftFoot,13435,Sassuolo,AC Milan,1,2,2020-07-21 19:45:00,,Rebound
+373073,80,SavedShot,0.9269999694824219,0.5429999923706055,0.496720552444458,Giacomo Bonaventura,a,1121,OpenPlay,2019,LeftFoot,13435,Sassuolo,AC Milan,1,2,2020-07-21 19:45:00,,Rebound
+373074,80,MissedShots,0.755,0.4,0.016506928950548172,Davide Calabria,a,1574,FromCorner,2019,RightFoot,13435,Sassuolo,AC Milan,1,2,2020-07-21 19:45:00,,None

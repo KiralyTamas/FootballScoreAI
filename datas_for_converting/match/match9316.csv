@@ -1,0 +1,24 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+250234,21,BlockedShot,0.9169999694824219,0.4129999923706055,0.10333359241485596,Alexandre Lacazette,h,3277,OpenPlay,2018,RightFoot,9316,Arsenal,Wolverhampton Wanderers,1,1,2018-11-11 16:30:00,Mesut Özil,Pass
+250235,21,BlockedShot,0.84,0.49599998474121093,0.056900061666965485,Alex Iwobi,h,500,OpenPlay,2018,RightFoot,9316,Arsenal,Wolverhampton Wanderers,1,1,2018-11-11 16:30:00,,None
+250238,29,BlockedShot,0.8219999694824218,0.46700000762939453,0.04191305488348007,Héctor Bellerín,h,492,FromCorner,2018,LeftFoot,9316,Arsenal,Wolverhampton Wanderers,1,1,2018-11-11 16:30:00,,None
+250240,51,BlockedShot,0.7440000152587891,0.2989999961853027,0.014490325003862381,Granit Xhaka,h,204,OpenPlay,2018,LeftFoot,9316,Arsenal,Wolverhampton Wanderers,1,1,2018-11-11 16:30:00,Alexandre Lacazette,Pass
+250241,53,MissedShots,0.7040000152587891,0.46299999237060546,0.013051715679466724,Lucas Torreira,h,1227,FromCorner,2018,RightFoot,9316,Arsenal,Wolverhampton Wanderers,1,1,2018-11-11 16:30:00,,None
+250242,59,SavedShot,0.7530000305175781,0.36400001525878906,0.02273683436214924,Lucas Torreira,h,1227,FromCorner,2018,RightFoot,9316,Arsenal,Wolverhampton Wanderers,1,1,2018-11-11 16:30:00,Mesut Özil,Pass
+250243,69,MissedShots,0.8590000152587891,0.4570000076293945,0.06355946511030197,Héctor Bellerín,h,492,OpenPlay,2018,LeftFoot,9316,Arsenal,Wolverhampton Wanderers,1,1,2018-11-11 16:30:00,,None
+250244,72,ShotOnPost,0.9390000152587891,0.4779999923706055,0.5592392086982727,Pierre-Emerick Aubameyang,h,318,OpenPlay,2018,RightFoot,9316,Arsenal,Wolverhampton Wanderers,1,1,2018-11-11 16:30:00,Héctor Bellerín,Pass
+250247,85,SavedShot,0.9019999694824219,0.5779999923706055,0.07633473724126816,Aaron Ramsey,h,504,OpenPlay,2018,RightFoot,9316,Arsenal,Wolverhampton Wanderers,1,1,2018-11-11 16:30:00,,None
+250248,85,Goal,0.7919999694824219,0.81,0.014283658936619759,Henrikh Mkhitaryan,h,317,FromCorner,2018,RightFoot,9316,Arsenal,Wolverhampton Wanderers,1,1,2018-11-11 16:30:00,Aaron Ramsey,Pass
+250230,10,MissedShots,0.6279999923706054,0.5109999847412109,0.013486512005329132,Raúl Jiménez,a,4105,OpenPlay,2018,RightFoot,9316,Arsenal,Wolverhampton Wanderers,1,1,2018-11-11 16:30:00,Conor Coady,BallRecovery
+250231,11,BlockedShot,0.8590000152587891,0.29200000762939454,0.0395277701318264,Hélder Costa,a,3428,OpenPlay,2018,LeftFoot,9316,Arsenal,Wolverhampton Wanderers,1,1,2018-11-11 16:30:00,Matt Doherty,Pass
+250232,12,Goal,0.93,0.46799999237060547,0.561194658279419,Ivan Cavaleiro,a,3683,OpenPlay,2018,RightFoot,9316,Arsenal,Wolverhampton Wanderers,1,1,2018-11-11 16:30:00,Raúl Jiménez,Pass
+250233,20,MissedShots,0.7240000152587891,0.3920000076293945,0.017567457631230354,Rúben Neves,a,6853,OpenPlay,2018,RightFoot,9316,Arsenal,Wolverhampton Wanderers,1,1,2018-11-11 16:30:00,João Moutinho,Pass
+250236,21,SavedShot,0.8690000152587891,0.40400001525878904,0.13491305708885193,Hélder Costa,a,3428,OpenPlay,2018,LeftFoot,9316,Arsenal,Wolverhampton Wanderers,1,1,2018-11-11 16:30:00,Ryan Bennett,BallRecovery
+250237,25,SavedShot,0.7659999847412109,0.295,0.021737951785326004,Hélder Costa,a,3428,OpenPlay,2018,LeftFoot,9316,Arsenal,Wolverhampton Wanderers,1,1,2018-11-11 16:30:00,Matt Doherty,Interception
+250239,35,MissedShots,0.799000015258789,0.4,0.0432906374335289,Raúl Jiménez,a,4105,OpenPlay,2018,RightFoot,9316,Arsenal,Wolverhampton Wanderers,1,1,2018-11-11 16:30:00,Matt Doherty,Pass
+250245,83,SavedShot,0.919000015258789,0.5920000076293945,0.5284727215766907,Diogo Jota,a,6854,OpenPlay,2018,LeftFoot,9316,Arsenal,Wolverhampton Wanderers,1,1,2018-11-11 16:30:00,Raúl Jiménez,Pass
+250246,85,MissedShots,0.925,0.5790000152587891,0.06140122562646866,Diogo Jota,a,6854,FromCorner,2018,Head,9316,Arsenal,Wolverhampton Wanderers,1,1,2018-11-11 16:30:00,João Moutinho,Cross
+250249,86,BlockedShot,0.735999984741211,0.5940000152587891,0.015089460648596287,Rúben Neves,a,6853,OpenPlay,2018,RightFoot,9316,Arsenal,Wolverhampton Wanderers,1,1,2018-11-11 16:30:00,Jonny,Pass
+250250,87,MissedShots,0.950999984741211,0.4370000076293945,0.060045525431632996,Diogo Jota,a,6854,FromCorner,2018,Head,9316,Arsenal,Wolverhampton Wanderers,1,1,2018-11-11 16:30:00,,Aerial
+250251,91,SavedShot,0.865,0.4470000076293945,0.3245626389980316,Adama Traoré,a,900,OpenPlay,2018,LeftFoot,9316,Arsenal,Wolverhampton Wanderers,1,1,2018-11-11 16:30:00,Willy Boly,TakeOn
+250252,94,ShotOnPost,0.785,0.375,0.04420126602053642,Morgan Gibbs-White,a,6857,OpenPlay,2018,RightFoot,9316,Arsenal,Wolverhampton Wanderers,1,1,2018-11-11 16:30:00,Adama Traoré,Pass

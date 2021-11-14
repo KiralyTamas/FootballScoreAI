@@ -1,0 +1,16 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+51674,7,MissedShots,0.865,0.46,0.07714270055294037,Charlie Adam,h,873,OpenPlay,2015,LeftFoot,89,Stoke,Liverpool,0,1,2015-08-09 19:00:00,,None
+51675,17,SavedShot,0.7519999694824219,0.6229999923706054,0.016048166900873184,Mame Biram Diouf,h,868,OpenPlay,2015,LeftFoot,89,Stoke,Liverpool,0,1,2015-08-09 19:00:00,Jonathan Walters,HeadPass
+51679,35,BlockedShot,0.8919999694824219,0.6430000305175781,0.06500013917684555,Ibrahim Afellay,h,864,OpenPlay,2015,LeftFoot,89,Stoke,Liverpool,0,1,2015-08-09 19:00:00,,None
+51680,35,MissedShots,0.889000015258789,0.5279999923706055,0.11027023196220398,Glen Johnson,h,944,OpenPlay,2015,LeftFoot,89,Stoke,Liverpool,0,1,2015-08-09 19:00:00,,Rebound
+51681,44,MissedShots,0.7609999847412109,0.5790000152587891,0.02054484933614731,Charlie Adam,h,873,OpenPlay,2015,LeftFoot,89,Stoke,Liverpool,0,1,2015-08-09 19:00:00,Mame Biram Diouf,Pass
+51682,45,MissedShots,0.7619999694824219,0.20700000762939452,0.010778586380183697,Marco van Ginkel,h,946,OpenPlay,2015,LeftFoot,89,Stoke,Liverpool,0,1,2015-08-09 19:00:00,Jonathan Walters,Pass
+51687,79,BlockedShot,0.86,0.41900001525878905,0.08865728229284286,Marco van Ginkel,h,946,OpenPlay,2015,LeftFoot,89,Stoke,Liverpool,0,1,2015-08-09 19:00:00,Jonathan Walters,Pass
+51676,18,BlockedShot,0.765,0.6170000076293946,0.020306408405303955,Adam Lallana,a,486,OpenPlay,2015,RightFoot,89,Stoke,Liverpool,0,1,2015-08-09 19:00:00,,None
+51677,20,BlockedShot,0.7519999694824219,0.59,0.02052902802824974,Philippe Coutinho,a,488,OpenPlay,2015,RightFoot,89,Stoke,Liverpool,0,1,2015-08-09 19:00:00,,BallRecovery
+51678,30,BlockedShot,0.865999984741211,0.24899999618530275,0.02810472436249256,Jordon Ibe,a,481,OpenPlay,2015,RightFoot,89,Stoke,Liverpool,0,1,2015-08-09 19:00:00,Nathaniel Clyne,Pass
+51683,62,SavedShot,0.9069999694824219,0.74,0.031959500163793564,Dejan Lovren,a,602,SetPiece,2015,LeftFoot,89,Stoke,Liverpool,0,1,2015-08-09 19:00:00,Martin Skrtel,Pass
+51684,66,BlockedShot,0.899000015258789,0.575,0.11668871343135834,Christian Benteke,a,606,OpenPlay,2015,RightFoot,89,Stoke,Liverpool,0,1,2015-08-09 19:00:00,Philippe Coutinho,Pass
+51685,67,SavedShot,0.9130000305175782,0.4909999847412109,0.08771864324808121,Martin Skrtel,a,607,FromCorner,2015,Head,89,Stoke,Liverpool,0,1,2015-08-09 19:00:00,James Milner,Cross
+51686,76,MissedShots,0.7019999694824218,0.4759999847412109,0.010916794650256634,Philippe Coutinho,a,488,OpenPlay,2015,RightFoot,89,Stoke,Liverpool,0,1,2015-08-09 19:00:00,,None
+51688,85,Goal,0.7269999694824218,0.5359999847412109,0.013649340718984604,Philippe Coutinho,a,488,OpenPlay,2015,RightFoot,89,Stoke,Liverpool,0,1,2015-08-09 19:00:00,Joseph Gomez,TakeOn

@@ -1,0 +1,31 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+283049,13,MissedShots,0.825999984741211,0.5179999923706055,0.04585797339677811,Tanguy NDombele Alvaro,h,5962,OpenPlay,2018,RightFoot,10872,Lyon,Paris Saint Germain,2,1,2019-02-03 20:00:00,Ferland Mendy,Cross
+283050,17,SavedShot,0.9009999847412109,0.5359999847412109,0.09846083074808121,Bertrand Traoré,h,695,OpenPlay,2018,LeftFoot,10872,Lyon,Paris Saint Germain,2,1,2019-02-03 20:00:00,Memphis Depay,Cross
+283051,18,MissedShots,0.9490000152587891,0.46,0.44796979427337646,Moussa Dembele,h,7142,OpenPlay,2018,Head,10872,Lyon,Paris Saint Germain,2,1,2019-02-03 20:00:00,Memphis Depay,Cross
+283052,19,SavedShot,0.7140000152587891,0.575,0.013636546209454536,Nabil Fekir,h,3667,OpenPlay,2018,LeftFoot,10872,Lyon,Paris Saint Germain,2,1,2019-02-03 20:00:00,,BallRecovery
+283053,23,SavedShot,0.8680000305175781,0.2989999961853027,0.041886139661073685,Bertrand Traoré,h,695,OpenPlay,2018,LeftFoot,10872,Lyon,Paris Saint Germain,2,1,2019-02-03 20:00:00,Jason Denayer,Pass
+283054,23,SavedShot,0.9440000152587891,0.5359999847412109,0.5643855333328247,Memphis Depay,h,555,OpenPlay,2018,RightFoot,10872,Lyon,Paris Saint Germain,2,1,2019-02-03 20:00:00,,Rebound
+283055,25,BlockedShot,0.935,0.3139999961853027,0.05792659893631935,Nabil Fekir,h,3667,OpenPlay,2018,RightFoot,10872,Lyon,Paris Saint Germain,2,1,2019-02-03 20:00:00,Tanguy NDombele Alvaro,Pass
+283056,29,SavedShot,0.9259999847412109,0.6669999694824219,0.32881325483322144,Nabil Fekir,h,3667,OpenPlay,2018,LeftFoot,10872,Lyon,Paris Saint Germain,2,1,2019-02-03 20:00:00,Houssem Aouar,Pass
+283057,32,Goal,0.9640000152587891,0.4929999923706055,0.5565064549446106,Moussa Dembele,h,7142,OpenPlay,2018,Head,10872,Lyon,Paris Saint Germain,2,1,2019-02-03 20:00:00,Léo Dubois,Aerial
+283058,38,MissedShots,0.94,0.30100000381469727,0.06475628167390823,Bertrand Traoré,h,695,OpenPlay,2018,RightFoot,10872,Lyon,Paris Saint Germain,2,1,2019-02-03 20:00:00,Moussa Dembele,Pass
+283059,39,SavedShot,0.91,0.48200000762939454,0.10331404954195023,Houssem Aouar,h,5733,OpenPlay,2018,Head,10872,Lyon,Paris Saint Germain,2,1,2019-02-03 20:00:00,Moussa Dembele,Cross
+283062,48,Goal,0.885,0.5,0.7600951194763184,Nabil Fekir,h,3667,Penalty,2018,LeftFoot,10872,Lyon,Paris Saint Germain,2,1,2019-02-03 20:00:00,,Standard
+283074,84,SavedShot,0.89,0.3340000152587891,0.28074243664741516,Moussa Dembele,h,7142,SetPiece,2018,RightFoot,10872,Lyon,Paris Saint Germain,2,1,2019-02-03 20:00:00,Marcelo,Throughball
+283076,92,SavedShot,0.8219999694824218,0.36700000762939455,0.069041408598423,Maxwel Cornet,h,3278,OpenPlay,2018,LeftFoot,10872,Lyon,Paris Saint Germain,2,1,2019-02-03 20:00:00,Memphis Depay,Pass
+283047,0,SavedShot,0.795,0.6140000152587891,0.06066329404711723,Kylian Mbappe-Lottin,a,3423,OpenPlay,2018,RightFoot,10872,Lyon,Paris Saint Germain,2,1,2019-02-03 20:00:00,,None
+283048,6,Goal,0.899000015258789,0.6409999847412109,0.30359408259391785,Ángel Di María,a,3553,OpenPlay,2018,LeftFoot,10872,Lyon,Paris Saint Germain,2,1,2019-02-03 20:00:00,Julian Draxler,Pass
+283060,42,BlockedShot,0.914000015258789,0.6090000152587891,0.11178532987833023,Ángel Di María,a,3553,OpenPlay,2018,LeftFoot,10872,Lyon,Paris Saint Germain,2,1,2019-02-03 20:00:00,Juan Bernat,Pass
+283061,43,MissedShots,0.8109999847412109,0.345,0.039050083607435226,Edinson Cavani,a,3294,OpenPlay,2018,RightFoot,10872,Lyon,Paris Saint Germain,2,1,2019-02-03 20:00:00,Marquinhos,Chipped
+283063,50,SavedShot,0.875999984741211,0.4209999847412109,0.06654120981693268,Julian Draxler,a,152,OpenPlay,2018,RightFoot,10872,Lyon,Paris Saint Germain,2,1,2019-02-03 20:00:00,,None
+283064,51,SavedShot,0.8959999847412109,0.6270000076293946,0.30726152658462524,Kylian Mbappe-Lottin,a,3423,SetPiece,2018,RightFoot,10872,Lyon,Paris Saint Germain,2,1,2019-02-03 20:00:00,Dani Alves,TakeOn
+283065,52,SavedShot,0.9730000305175781,0.41900001525878905,0.2893594205379486,Kylian Mbappe-Lottin,a,3423,FromCorner,2018,Head,10872,Lyon,Paris Saint Germain,2,1,2019-02-03 20:00:00,Thilo Kehrer,None
+283066,58,SavedShot,0.8330000305175781,0.7130000305175781,0.02267887257039547,Kylian Mbappe-Lottin,a,3423,OpenPlay,2018,RightFoot,10872,Lyon,Paris Saint Germain,2,1,2019-02-03 20:00:00,Ángel Di María,Chipped
+283067,61,BlockedShot,0.899000015258789,0.39799999237060546,0.06957089155912399,Dani Alves,a,1288,OpenPlay,2018,RightFoot,10872,Lyon,Paris Saint Germain,2,1,2019-02-03 20:00:00,,None
+283068,63,MissedShots,0.7680000305175781,0.6509999847412109,0.01904715597629547,Julian Draxler,a,152,OpenPlay,2018,LeftFoot,10872,Lyon,Paris Saint Germain,2,1,2019-02-03 20:00:00,,None
+283069,66,SavedShot,0.9030000305175782,0.5129999923706055,0.07669095695018768,Edinson Cavani,a,3294,OpenPlay,2018,Head,10872,Lyon,Paris Saint Germain,2,1,2019-02-03 20:00:00,Ángel Di María,Cross
+283070,68,BlockedShot,0.7709999847412109,0.39799999237060546,0.016791455447673798,Ángel Di María,a,3553,OpenPlay,2018,LeftFoot,10872,Lyon,Paris Saint Germain,2,1,2019-02-03 20:00:00,,TakeOn
+283071,71,SavedShot,0.955999984741211,0.68,0.056028977036476135,Kylian Mbappe-Lottin,a,3423,OpenPlay,2018,LeftFoot,10872,Lyon,Paris Saint Germain,2,1,2019-02-03 20:00:00,Ángel Di María,Pass
+283072,76,MissedShots,0.785,0.6959999847412109,0.03661138564348221,Ángel Di María,a,3553,OpenPlay,2018,LeftFoot,10872,Lyon,Paris Saint Germain,2,1,2019-02-03 20:00:00,Kylian Mbappe-Lottin,Pass
+283073,78,BlockedShot,0.8680000305175781,0.36900001525878906,0.06251262128353119,Eric Maxim Choupo-Moting,a,339,OpenPlay,2018,RightFoot,10872,Lyon,Paris Saint Germain,2,1,2019-02-03 20:00:00,Ángel Di María,Pass
+283075,87,BlockedShot,0.86,0.595999984741211,0.07697157561779022,Moussa Diaby,a,6556,OpenPlay,2018,LeftFoot,10872,Lyon,Paris Saint Germain,2,1,2019-02-03 20:00:00,Kylian Mbappe-Lottin,Pass

@@ -1,0 +1,28 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+429962,6,MissedShots,0.8040000152587891,0.504000015258789,0.042084597051143646,Julian Draxler,h,152,FromCorner,2021,LeftFoot,17863,Paris Saint Germain,Clermont Foot,4,0,2021-09-11 15:00:00,Kylian Mbappe-Lottin,Pass
+429963,10,SavedShot,0.8859999847412109,0.509000015258789,0.27162835001945496,Marquinhos,h,3297,SetPiece,2021,Head,17863,Paris Saint Germain,Clermont Foot,4,0,2021-09-11 15:00:00,Kylian Mbappe-Lottin,Chipped
+429966,19,Goal,0.9119999694824219,0.5,0.05838679522275925,Ander Herrera,h,552,OpenPlay,2021,Head,17863,Paris Saint Germain,Clermont Foot,4,0,2021-09-11 15:00:00,,None
+429968,23,BlockedShot,0.885,0.5120000076293946,0.13316194713115692,Danilo Pereira,h,9060,OpenPlay,2021,RightFoot,17863,Paris Saint Germain,Clermont Foot,4,0,2021-09-11 15:00:00,Achraf Hakimi,Pass
+429969,25,SavedShot,0.855,0.6869999694824219,0.05173720791935921,Kylian Mbappe-Lottin,h,3423,OpenPlay,2021,RightFoot,17863,Paris Saint Germain,Clermont Foot,4,0,2021-09-11 15:00:00,Idrissa Gueye,Pass
+429974,30,Goal,0.9619999694824218,0.4229999923706055,0.5430140495300293,Ander Herrera,h,552,OpenPlay,2021,RightFoot,17863,Paris Saint Germain,Clermont Foot,4,0,2021-09-11 15:00:00,,None
+429976,39,BlockedShot,0.8519999694824218,0.4879999923706055,0.1574363261461258,Julian Draxler,h,152,OpenPlay,2021,LeftFoot,17863,Paris Saint Germain,Clermont Foot,4,0,2021-09-11 15:00:00,,TakeOn
+429980,54,Goal,0.88,0.63,0.4840337038040161,Kylian Mbappe-Lottin,h,3423,OpenPlay,2021,LeftFoot,17863,Paris Saint Germain,Clermont Foot,4,0,2021-09-11 15:00:00,Julian Draxler,TakeOn
+429981,55,MissedShots,0.8009999847412109,0.3609999847412109,0.04709887504577637,Kylian Mbappe-Lottin,h,3423,OpenPlay,2021,RightFoot,17863,Paris Saint Germain,Clermont Foot,4,0,2021-09-11 15:00:00,Rafinha,Pass
+429983,63,MissedShots,0.8719999694824219,0.55,0.4778288006782532,Kylian Mbappe-Lottin,h,3423,OpenPlay,2021,RightFoot,17863,Paris Saint Germain,Clermont Foot,4,0,2021-09-11 15:00:00,Idrissa Gueye,Throughball
+429984,64,SavedShot,0.9159999847412109,0.40200000762939453,0.18938976526260376,Kylian Mbappe-Lottin,h,3423,OpenPlay,2021,RightFoot,17863,Paris Saint Germain,Clermont Foot,4,0,2021-09-11 15:00:00,Idrissa Gueye,TakeOn
+429985,64,Goal,0.960999984741211,0.5790000152587891,0.04005066305398941,Idrissa Gueye,h,668,OpenPlay,2021,Head,17863,Paris Saint Germain,Clermont Foot,4,0,2021-09-11 15:00:00,,Rebound
+429986,67,BlockedShot,0.7240000152587891,0.5370000076293945,0.017483847215771675,Idrissa Gueye,h,668,OpenPlay,2021,RightFoot,17863,Paris Saint Germain,Clermont Foot,4,0,2021-09-11 15:00:00,Rafinha,Pass
+429964,15,MissedShots,0.9030000305175782,0.34700000762939454,0.06528086215257645,Jason Berthomier,a,9644,OpenPlay,2021,RightFoot,17863,Paris Saint Germain,Clermont Foot,4,0,2021-09-11 15:00:00,,None
+429965,16,BlockedShot,0.8590000152587891,0.28399999618530275,0.02548184245824814,Johan Gastien,a,5778,OpenPlay,2021,RightFoot,17863,Paris Saint Germain,Clermont Foot,4,0,2021-09-11 15:00:00,,Rebound
+429967,22,MissedShots,0.889000015258789,0.5670000076293945,0.02202635444700718,Pierre-Yves Hamel,a,5762,OpenPlay,2021,Head,17863,Paris Saint Germain,Clermont Foot,4,0,2021-09-11 15:00:00,Jodel Dossou,Aerial
+429970,26,MissedShots,0.955999984741211,0.5270000076293946,0.5724923014640808,Pierre-Yves Hamel,a,5762,OpenPlay,2021,RightFoot,17863,Paris Saint Germain,Clermont Foot,4,0,2021-09-11 15:00:00,Jodel Dossou,Cross
+429971,27,SavedShot,0.9209999847412109,0.2539999961853027,0.036006856709718704,Jodel Dossou,a,9643,OpenPlay,2021,RightFoot,17863,Paris Saint Germain,Clermont Foot,4,0,2021-09-11 15:00:00,Salis Abdul Samed,TakeOn
+429972,28,MissedShots,0.8040000152587891,0.5059999847412109,0.05201246589422226,Jim Allevinah,a,9645,OpenPlay,2021,LeftFoot,17863,Paris Saint Germain,Clermont Foot,4,0,2021-09-11 15:00:00,Johan Gastien,Pass
+429973,29,MissedShots,0.6859999847412109,0.5220000076293946,0.008651415817439556,Vital N&#039;Simba,a,9641,SetPiece,2021,LeftFoot,17863,Paris Saint Germain,Clermont Foot,4,0,2021-09-11 15:00:00,,None
+429975,36,BlockedShot,0.7269999694824218,0.5720000076293945,0.04981229826807976,Jason Berthomier,a,9644,DirectFreekick,2021,LeftFoot,17863,Paris Saint Germain,Clermont Foot,4,0,2021-09-11 15:00:00,,Standard
+429977,42,BlockedShot,0.9269999694824219,0.6940000152587891,0.06469328701496124,Jim Allevinah,a,9645,OpenPlay,2021,LeftFoot,17863,Paris Saint Germain,Clermont Foot,4,0,2021-09-11 15:00:00,Johan Gastien,TakeOn
+429978,43,BlockedShot,0.7330000305175781,0.6890000152587891,0.013059167191386223,Jodel Dossou,a,9643,FromCorner,2021,RightFoot,17863,Paris Saint Germain,Clermont Foot,4,0,2021-09-11 15:00:00,,None
+429979,44,SavedShot,0.895,0.615,0.03190915286540985,Jim Allevinah,a,9645,OpenPlay,2021,Head,17863,Paris Saint Germain,Clermont Foot,4,0,2021-09-11 15:00:00,,Aerial
+429982,57,MissedShots,0.775,0.265,0.018521549180150032,Akim Zedadka,a,9639,FromCorner,2021,RightFoot,17863,Paris Saint Germain,Clermont Foot,4,0,2021-09-11 15:00:00,Jason Berthomier,Pass
+429987,69,BlockedShot,0.8869999694824219,0.4570000076293945,0.05867892876267433,Saif-Eddine Khaoui,a,5737,OpenPlay,2021,Head,17863,Paris Saint Germain,Clermont Foot,4,0,2021-09-11 15:00:00,Akim Zedadka,Cross
+429988,77,BlockedShot,0.745,0.5020000076293946,0.018332909792661667,Jordan Tell,a,5702,OpenPlay,2021,LeftFoot,17863,Paris Saint Germain,Clermont Foot,4,0,2021-09-11 15:00:00,Salis Abdul Samed,BallTouch

@@ -1,0 +1,28 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+168123,2,Goal,0.919000015258789,0.5179999923706055,0.0995272845029831,Yannick Gerhardt,h,140,OpenPlay,2017,RightFoot,8365,Wolfsburg,Freiburg,3,1,2017-11-18 14:30:00,,None
+168124,6,MissedShots,0.8080000305175781,0.4759999847412109,0.06584219634532928,Yunus Malli,h,45,OpenPlay,2017,LeftFoot,8365,Wolfsburg,Freiburg,3,1,2017-11-18 14:30:00,Yannick Gerhardt,None
+168126,27,BlockedShot,0.865999984741211,0.3609999847412109,0.07947131991386414,Yannick Gerhardt,h,140,OpenPlay,2017,RightFoot,8365,Wolfsburg,Freiburg,3,1,2017-11-18 14:30:00,Yunus Malli,HeadPass
+168127,28,Goal,0.8780000305175781,0.5179999923706055,0.47913047671318054,Yunus Malli,h,45,OpenPlay,2017,RightFoot,8365,Wolfsburg,Freiburg,3,1,2017-11-18 14:30:00,Daniel Didavi,Pass
+168128,37,BlockedShot,0.805,0.534000015258789,0.04822709038853645,Daniel Didavi,h,300,OpenPlay,2017,LeftFoot,8365,Wolfsburg,Freiburg,3,1,2017-11-18 14:30:00,,None
+168129,37,BlockedShot,0.705,0.5129999923706055,0.014368736185133457,Josuha Guilavogui,h,150,OpenPlay,2017,RightFoot,8365,Wolfsburg,Freiburg,3,1,2017-11-18 14:30:00,,Rebound
+168130,37,MissedShots,0.7819999694824219,0.41200000762939454,0.043368641287088394,Yunus Malli,h,45,OpenPlay,2017,RightFoot,8365,Wolfsburg,Freiburg,3,1,2017-11-18 14:30:00,Yannick Gerhardt,TakeOn
+168131,43,MissedShots,0.7580000305175781,0.49900001525878906,0.07641532272100449,Daniel Didavi,h,300,DirectFreekick,2017,LeftFoot,8365,Wolfsburg,Freiburg,3,1,2017-11-18 14:30:00,,Standard
+168132,44,SavedShot,0.875,0.47200000762939454,0.4778865873813629,Mario Gomez,h,3887,OpenPlay,2017,RightFoot,8365,Wolfsburg,Freiburg,3,1,2017-11-18 14:30:00,,None
+168135,52,SavedShot,0.8640000152587891,0.610999984741211,0.09607572853565216,Daniel Didavi,h,300,OpenPlay,2017,LeftFoot,8365,Wolfsburg,Freiburg,3,1,2017-11-18 14:30:00,Josuha Guilavogui,Pass
+168136,52,SavedShot,0.8969999694824219,0.44599998474121094,0.12368056923151016,Mario Gomez,h,3887,OpenPlay,2017,RightFoot,8365,Wolfsburg,Freiburg,3,1,2017-11-18 14:30:00,,Rebound
+168137,55,SavedShot,0.8130000305175781,0.45,0.07688601315021515,Mario Gomez,h,3887,OpenPlay,2017,RightFoot,8365,Wolfsburg,Freiburg,3,1,2017-11-18 14:30:00,Marcel Tisserand,Pass
+168138,58,MissedShots,0.755,0.315,0.028248542919754982,Daniel Didavi,h,300,OpenPlay,2017,LeftFoot,8365,Wolfsburg,Freiburg,3,1,2017-11-18 14:30:00,Yannick Gerhardt,Pass
+168144,69,Goal,0.899000015258789,0.48200000762939454,0.1405685395002365,Yunus Malli,h,45,OpenPlay,2017,RightFoot,8365,Wolfsburg,Freiburg,3,1,2017-11-18 14:30:00,Yannick Gerhardt,Pass
+168149,91,MissedShots,0.8419999694824218,0.355,0.06401409208774567,Mario Gomez,h,3887,OpenPlay,2017,LeftFoot,8365,Wolfsburg,Freiburg,3,1,2017-11-18 14:30:00,Paul Verhaegh,BallRecovery
+168125,19,BlockedShot,0.735,0.69,0.01604977250099182,Florian Kath,a,4344,OpenPlay,2017,LeftFoot,8365,Wolfsburg,Freiburg,3,1,2017-11-18 14:30:00,Julian Schuster,Pass
+168134,45,BlockedShot,0.769000015258789,0.2620000076293945,0.013869077898561954,Pascal Stenzel,a,326,OpenPlay,2017,LeftFoot,8365,Wolfsburg,Freiburg,3,1,2017-11-18 14:30:00,Janik Haberer,Pass
+168133,46,BlockedShot,0.6969999694824218,0.46700000762939453,0.039036013185977936,Julian Schuster,a,4245,DirectFreekick,2017,RightFoot,8365,Wolfsburg,Freiburg,3,1,2017-11-18 14:30:00,,Standard
+168139,61,BlockedShot,0.715,0.305,0.012177002616226673,Pascal Stenzel,a,326,FromCorner,2017,RightFoot,8365,Wolfsburg,Freiburg,3,1,2017-11-18 14:30:00,,None
+168140,64,SavedShot,0.86,0.3340000152587891,0.03719869256019592,Pascal Stenzel,a,326,FromCorner,2017,RightFoot,8365,Wolfsburg,Freiburg,3,1,2017-11-18 14:30:00,,None
+168141,65,SavedShot,0.740999984741211,0.46799999237060547,0.020652055740356445,Janik Haberer,a,4271,OpenPlay,2017,RightFoot,8365,Wolfsburg,Freiburg,3,1,2017-11-18 14:30:00,Florian Kath,Pass
+168142,66,MissedShots,0.7369999694824219,0.8019999694824219,0.009401835501194,Christian Günter,a,4243,OpenPlay,2017,LeftFoot,8365,Wolfsburg,Freiburg,3,1,2017-11-18 14:30:00,Marc-Oliver Kempf,Pass
+168143,67,Goal,0.87,0.3240000152587891,0.055561963468790054,Bartosz Kapustka,a,1786,OpenPlay,2017,RightFoot,8365,Wolfsburg,Freiburg,3,1,2017-11-18 14:30:00,Janik Haberer,Pass
+168145,77,MissedShots,0.7140000152587891,0.5420000076293945,0.00839265063405037,Nils Petersen,a,4248,OpenPlay,2017,RightFoot,8365,Wolfsburg,Freiburg,3,1,2017-11-18 14:30:00,Yoric Ravet,HeadPass
+168146,80,SavedShot,0.870999984741211,0.710999984741211,0.2806769907474518,Marco Terrazzino,a,5287,OpenPlay,2017,LeftFoot,8365,Wolfsburg,Freiburg,3,1,2017-11-18 14:30:00,Christian Günter,Throughball
+168147,84,SavedShot,0.8209999847412109,0.225,0.01709601655602455,Bartosz Kapustka,a,1786,OpenPlay,2017,LeftFoot,8365,Wolfsburg,Freiburg,3,1,2017-11-18 14:30:00,Marco Terrazzino,Pass
+168148,85,SavedShot,0.855,0.54,0.29360684752464294,Nils Petersen,a,4248,OpenPlay,2017,LeftFoot,8365,Wolfsburg,Freiburg,3,1,2017-11-18 14:30:00,Christian Günter,Pass

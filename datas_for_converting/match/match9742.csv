@@ -1,0 +1,24 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+254711,13,MissedShots,0.7290000152587891,0.500999984741211,0.020096439868211746,Seko Fofana,h,1144,OpenPlay,2018,RightFoot,9742,Udinese,Frosinone,1,1,2018-12-22 14:00:00,Bram Nuytinck,Pass
+254713,31,Goal,0.875,0.6370000076293946,0.03481433540582657,Rolando Mandragora,h,3821,OpenPlay,2018,LeftFoot,9742,Udinese,Frosinone,1,1,2018-12-22 14:00:00,Jens Stryger Larsen,Cross
+254715,46,MissedShots,0.7680000305175781,0.28700000762939454,0.020066792145371437,Rodrigo de Paul,h,1145,OpenPlay,2018,RightFoot,9742,Udinese,Frosinone,1,1,2018-12-22 14:00:00,Seko Fofana,Pass
+254716,46,MissedShots,0.7340000152587891,0.7030000305175781,0.014351471327245235,Rodrigo de Paul,h,1145,OpenPlay,2018,RightFoot,9742,Udinese,Frosinone,1,1,2018-12-22 14:00:00,Marco D&#039;Alessandro,Pass
+254721,55,MissedShots,0.8580000305175781,0.485,0.203314870595932,Rodrigo de Paul,h,1145,OpenPlay,2018,RightFoot,9742,Udinese,Frosinone,1,1,2018-12-22 14:00:00,,TakeOn
+254722,56,MissedShots,0.7340000152587891,0.674000015258789,0.02029101550579071,Rodrigo de Paul,h,1145,OpenPlay,2018,RightFoot,9742,Udinese,Frosinone,1,1,2018-12-22 14:00:00,Valon Behrami,Pass
+254725,70,MissedShots,0.89,0.44299999237060544,0.025731191039085388,Ignacio Pussetto,h,6997,OpenPlay,2018,Head,9742,Udinese,Frosinone,1,1,2018-12-22 14:00:00,Bram Nuytinck,Aerial
+254727,75,MissedShots,0.865,0.5590000152587891,0.010031583718955517,Kevin Lasagna,h,1903,SetPiece,2018,Head,9742,Udinese,Frosinone,1,1,2018-12-22 14:00:00,Rodrigo de Paul,Aerial
+254732,95,MissedShots,0.7859999847412109,0.32799999237060545,0.020583083853125572,Darwin Machís,h,4226,OpenPlay,2018,LeftFoot,9742,Udinese,Frosinone,1,1,2018-12-22 14:00:00,,None
+254710,10,SavedShot,0.87,0.5459999847412109,0.027295390143990517,Raman Chibsah,a,1872,OpenPlay,2018,Head,9742,Udinese,Frosinone,1,1,2018-12-22 14:00:00,Andrea Beghetto,Cross
+254712,20,MissedShots,0.8319999694824218,0.4540000152587891,0.015587872825562954,Luka Krajnc,a,1242,SetPiece,2018,Head,9742,Udinese,Frosinone,1,1,2018-12-22 14:00:00,Camillo Ciano,Cross
+254714,34,ShotOnPost,0.7219999694824218,0.4,0.013847543857991695,Camillo Ciano,a,7015,OpenPlay,2018,LeftFoot,9742,Udinese,Frosinone,1,1,2018-12-22 14:00:00,,BallRecovery
+254717,50,MissedShots,0.925,0.47400001525878904,0.05015682056546211,Luka Krajnc,a,1242,FromCorner,2018,Head,9742,Udinese,Frosinone,1,1,2018-12-22 14:00:00,Camillo Ciano,Aerial
+254718,50,BlockedShot,0.9269999694824219,0.49900001525878906,0.10592900961637497,Raman Chibsah,a,1872,FromCorner,2018,RightFoot,9742,Udinese,Frosinone,1,1,2018-12-22 14:00:00,,BallTouch
+254719,50,MissedShots,0.7419999694824219,0.3940000152587891,0.01916663907468319,Francesco Zampano,a,1161,FromCorner,2018,LeftFoot,9742,Udinese,Frosinone,1,1,2018-12-22 14:00:00,,Rebound
+254720,51,SavedShot,0.759000015258789,0.500999984741211,0.02506846934556961,Camillo Ciano,a,7015,OpenPlay,2018,LeftFoot,9742,Udinese,Frosinone,1,1,2018-12-22 14:00:00,Francesco Cassata,Pass
+254723,60,Goal,0.885,0.5,0.7612589001655579,Camillo Ciano,a,7015,Penalty,2018,LeftFoot,9742,Udinese,Frosinone,1,1,2018-12-22 14:00:00,,Standard
+254724,64,BlockedShot,0.889000015258789,0.69,0.029772905632853508,Andrea Beghetto,a,4934,OpenPlay,2018,LeftFoot,9742,Udinese,Frosinone,1,1,2018-12-22 14:00:00,Raman Chibsah,Cross
+254726,72,BlockedShot,0.8580000305175781,0.37099998474121093,0.07530654221773148,Andrea Pinamonti,a,4895,OpenPlay,2018,LeftFoot,9742,Udinese,Frosinone,1,1,2018-12-22 14:00:00,Francesco Cassata,Pass
+254728,80,MissedShots,0.8019999694824219,0.6630000305175782,0.02624780498445034,Camillo Ciano,a,7015,OpenPlay,2018,LeftFoot,9742,Udinese,Frosinone,1,1,2018-12-22 14:00:00,Andrea Pinamonti,Pass
+254729,85,SavedShot,0.759000015258789,0.639000015258789,0.01973075233399868,Raman Chibsah,a,1872,OpenPlay,2018,RightFoot,9742,Udinese,Frosinone,1,1,2018-12-22 14:00:00,Camillo Ciano,TakeOn
+254730,88,BlockedShot,0.8109999847412109,0.6040000152587891,0.04523645341396332,Joel Campbell,a,506,OpenPlay,2018,RightFoot,9742,Udinese,Frosinone,1,1,2018-12-22 14:00:00,Francesco Cassata,Pass
+254731,88,BlockedShot,0.7140000152587891,0.3940000152587891,0.010595554485917091,Edoardo Goldaniga,a,1264,OpenPlay,2018,RightFoot,9742,Udinese,Frosinone,1,1,2018-12-22 14:00:00,,Rebound

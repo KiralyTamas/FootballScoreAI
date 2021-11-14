@@ -1,0 +1,21 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+156112,4,BlockedShot,0.789000015258789,0.29200000762939454,0.0188438817858696,Luiz Adriano,h,1127,OpenPlay,2017,RightFoot,6549,Spartak Moscow,Anzhi Makhachkala,2,2,2017-09-23 17:00:00,Andrey Eshchenko,Pass
+156113,13,Goal,0.885,0.5,0.7542753219604492,Luiz Adriano,h,1127,Penalty,2017,RightFoot,6549,Spartak Moscow,Anzhi Makhachkala,2,2,2017-09-23 17:00:00,,Standard
+156114,29,MissedShots,0.805,0.38799999237060545,0.02926899492740631,Aleksandr Samedov,h,2710,FromCorner,2017,RightFoot,6549,Spartak Moscow,Anzhi Makhachkala,2,2,2017-09-23 17:00:00,Ivelin Popov,Cross
+156116,43,SavedShot,0.895,0.39099998474121095,0.34419625997543335,Luiz Adriano,h,1127,OpenPlay,2017,RightFoot,6549,Spartak Moscow,Anzhi Makhachkala,2,2,2017-09-23 17:00:00,Ivelin Popov,Pass
+156117,46,SavedShot,0.9619999694824218,0.59,0.0797719955444336,Zelimkhan Bakaev,h,3131,FromCorner,2017,RightFoot,6549,Spartak Moscow,Anzhi Makhachkala,2,2,2017-09-23 17:00:00,Ivelin Popov,Cross
+156118,46,MissedShots,0.7390000152587891,0.455,0.01905372552573681,Aleksandr Samedov,h,2710,FromCorner,2017,RightFoot,6549,Spartak Moscow,Anzhi Makhachkala,2,2,2017-09-23 17:00:00,,Rebound
+156120,63,MissedShots,0.9119999694824219,0.49700000762939456,0.07951716333627701,Serdar Tasci,h,2650,FromCorner,2017,Head,6549,Spartak Moscow,Anzhi Makhachkala,2,2,2017-09-23 17:00:00,Ivelin Popov,Cross
+156121,67,SavedShot,0.9019999694824219,0.5779999923706055,0.1069151908159256,Ivelin Popov,h,2817,OpenPlay,2017,RightFoot,6549,Spartak Moscow,Anzhi Makhachkala,2,2,2017-09-23 17:00:00,Zelimkhan Bakaev,Cross
+156123,76,BlockedShot,0.855,0.740999984741211,0.01801007241010666,Zelimkhan Bakaev,h,3131,OpenPlay,2017,LeftFoot,6549,Spartak Moscow,Anzhi Makhachkala,2,2,2017-09-23 17:00:00,Andrey Eshchenko,Cross
+156125,78,MissedShots,0.9130000305175782,0.36900001525878906,0.06193307414650917,Aleksandr Samedov,h,2710,OpenPlay,2017,RightFoot,6549,Spartak Moscow,Anzhi Makhachkala,2,2,2017-09-23 17:00:00,Giorgi Jikia,Cross
+156126,78,MissedShots,0.9409999847412109,0.5120000076293946,0.0579000823199749,Lorenzo Melgarejo,h,2819,OpenPlay,2017,Head,6549,Spartak Moscow,Anzhi Makhachkala,2,2,2017-09-23 17:00:00,Aleksandr Samedov,Rebound
+156128,82,BlockedShot,0.875999984741211,0.525,0.10580354928970337,Aleksandr Samedov,h,2710,OpenPlay,2017,RightFoot,6549,Spartak Moscow,Anzhi Makhachkala,2,2,2017-09-23 17:00:00,Lorenzo Melgarejo,LayOff
+156130,91,Goal,0.895,0.485,0.0849132314324379,Lorenzo Melgarejo,h,2819,OpenPlay,2017,LeftFoot,6549,Spartak Moscow,Anzhi Makhachkala,2,2,2017-09-23 17:00:00,,None
+156115,32,MissedShots,0.91,0.4809999847412109,0.06609968841075897,Thomas Phibel,a,3029,SetPiece,2017,Head,6549,Spartak Moscow,Anzhi Makhachkala,2,2,2017-09-23 17:00:00,Mikhail Bakayev,Chipped
+156119,59,SavedShot,0.7609999847412109,0.24600000381469728,0.01398733165115118,Oleg Danchenko,a,5893,OpenPlay,2017,LeftFoot,6549,Spartak Moscow,Anzhi Makhachkala,2,2,2017-09-23 17:00:00,Pavel Yakovlev,Pass
+156122,73,Goal,0.9230000305175782,0.545,0.2660837769508362,Miral Samardzic,a,6268,SetPiece,2017,Head,6549,Spartak Moscow,Anzhi Makhachkala,2,2,2017-09-23 17:00:00,Arsen Khubulov,Cross
+156124,77,Goal,0.8730000305175781,0.645,0.31831955909729004,Adlan Katsaev,a,4559,OpenPlay,2017,LeftFoot,6549,Spartak Moscow,Anzhi Makhachkala,2,2,2017-09-23 17:00:00,Oleg Danchenko,Pass
+156127,79,MissedShots,0.8640000152587891,0.21899999618530275,0.029802381992340088,Arsen Khubulov,a,2733,OpenPlay,2017,RightFoot,6549,Spartak Moscow,Anzhi Makhachkala,2,2,2017-09-23 17:00:00,,BallRecovery
+156129,89,MissedShots,0.919000015258789,0.285,0.0589233860373497,Arsen Khubulov,a,2733,OpenPlay,2017,RightFoot,6549,Spartak Moscow,Anzhi Makhachkala,2,2,2017-09-23 17:00:00,,BallRecovery
+156131,94,SavedShot,0.7219999694824218,0.500999984741211,0.010908512398600578,Guram Tetrashvili,a,5443,OpenPlay,2017,RightFoot,6549,Spartak Moscow,Anzhi Makhachkala,2,2,2017-09-23 17:00:00,,Aerial

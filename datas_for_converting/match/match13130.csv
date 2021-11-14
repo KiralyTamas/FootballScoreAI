@@ -1,0 +1,26 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+322001,21,BlockedShot,0.8209999847412109,0.3920000076293945,0.1356087028980255,Federico Chiesa,h,1433,DirectFreekick,2019,RightFoot,13130,Fiorentina,Sampdoria,2,1,2019-09-25 19:00:00,,Standard
+322002,21,BlockedShot,0.8390000152587891,0.43900001525878907,0.0530887134373188,Federico Chiesa,h,1433,SetPiece,2019,LeftFoot,13130,Fiorentina,Sampdoria,2,1,2019-09-25 19:00:00,,Rebound
+322003,25,MissedShots,0.9580000305175781,0.57,0.40678760409355164,Franck Ribéry,h,329,OpenPlay,2019,LeftFoot,13130,Fiorentina,Sampdoria,2,1,2019-09-25 19:00:00,Pol Lirola,Cross
+322005,28,SavedShot,0.7730000305175782,0.3820000076293945,0.025606179609894753,Federico Chiesa,h,1433,OpenPlay,2019,RightFoot,13130,Fiorentina,Sampdoria,2,1,2019-09-25 19:00:00,Dalbert,Pass
+322006,29,SavedShot,0.889000015258789,0.725,0.03825807943940163,Federico Chiesa,h,1433,OpenPlay,2019,LeftFoot,13130,Fiorentina,Sampdoria,2,1,2019-09-25 19:00:00,Dalbert,Pass
+322007,30,Goal,0.915,0.4929999923706055,0.33547818660736084,Germán Pezzella,h,2143,FromCorner,2019,Head,13130,Fiorentina,Sampdoria,2,1,2019-09-25 19:00:00,Franck Ribéry,Cross
+322008,43,MissedShots,0.8169999694824219,0.6370000076293946,0.1111103966832161,Erick Pulgar,h,1448,DirectFreekick,2019,RightFoot,13130,Fiorentina,Sampdoria,2,1,2019-09-25 19:00:00,,Standard
+322011,55,MissedShots,0.7230000305175781,0.4909999847412109,0.04814548417925835,Erick Pulgar,h,1448,DirectFreekick,2019,RightFoot,13130,Fiorentina,Sampdoria,2,1,2019-09-25 19:00:00,,Standard
+322012,56,Goal,0.850999984741211,0.4779999923706055,0.35127314925193787,Federico Chiesa,h,1433,OpenPlay,2019,RightFoot,13130,Fiorentina,Sampdoria,2,1,2019-09-25 19:00:00,Dalbert,Throughball
+322013,59,SavedShot,0.8719999694824219,0.6580000305175782,0.0566239170730114,Franck Ribéry,h,329,OpenPlay,2019,RightFoot,13130,Fiorentina,Sampdoria,2,1,2019-09-25 19:00:00,Dalbert,BallRecovery
+322014,66,BlockedShot,0.7919999694824219,0.5570000076293945,0.04814610630273819,Milan Badelj,h,1430,OpenPlay,2019,RightFoot,13130,Fiorentina,Sampdoria,2,1,2019-09-25 19:00:00,Franck Ribéry,Pass
+322015,67,MissedShots,0.9519999694824218,0.6759999847412109,0.03665243834257126,Federico Chiesa,h,1433,FromCorner,2019,RightFoot,13130,Fiorentina,Sampdoria,2,1,2019-09-25 19:00:00,Franck Ribéry,Cross
+322017,70,SavedShot,0.924000015258789,0.325,0.09973268955945969,Federico Chiesa,h,1433,OpenPlay,2019,RightFoot,13130,Fiorentina,Sampdoria,2,1,2019-09-25 19:00:00,Pol Lirola,Pass
+322018,76,MissedShots,0.8619999694824219,0.5170000076293946,0.03314288705587387,Nikola Milenkovic,h,6174,SetPiece,2019,Head,13130,Fiorentina,Sampdoria,2,1,2019-09-25 19:00:00,Erick Pulgar,Cross
+322021,79,SavedShot,0.925,0.2879999923706055,0.12173985689878464,Riccardo Sottil,h,6672,OpenPlay,2019,RightFoot,13130,Fiorentina,Sampdoria,2,1,2019-09-25 19:00:00,Gaetano Castrovilli,Throughball
+322022,80,MissedShots,0.9169999694824219,0.44799999237060545,0.028667695820331573,Martín Cáceres,h,1942,FromCorner,2019,Head,13130,Fiorentina,Sampdoria,2,1,2019-09-25 19:00:00,Erick Pulgar,Aerial
+322023,82,SavedShot,0.8040000152587891,0.6320000076293946,0.02541194297373295,Federico Chiesa,h,1433,SetPiece,2019,RightFoot,13130,Fiorentina,Sampdoria,2,1,2019-09-25 19:00:00,,None
+321999,1,BlockedShot,0.8640000152587891,0.46700000762939453,0.10469654202461243,Gianluca Caprari,a,1170,OpenPlay,2019,RightFoot,13130,Fiorentina,Sampdoria,2,1,2019-09-25 19:00:00,Fabio Depaoli,Pass
+322000,1,SavedShot,0.8680000305175781,0.4159999847412109,0.06947755813598633,Gianluca Caprari,a,1170,OpenPlay,2019,RightFoot,13130,Fiorentina,Sampdoria,2,1,2019-09-25 19:00:00,,Rebound
+322004,26,MissedShots,0.705,0.5659999847412109,0.009430130012333393,Gastón Ramírez,a,952,SetPiece,2019,LeftFoot,13130,Fiorentina,Sampdoria,2,1,2019-09-25 19:00:00,,None
+322009,50,ShotOnPost,0.7819999694824219,0.36900001525878906,0.023185843601822853,Emiliano Rigoni,a,6282,OpenPlay,2019,LeftFoot,13130,Fiorentina,Sampdoria,2,1,2019-09-25 19:00:00,,BallTouch
+322010,50,MissedShots,0.710999984741211,0.6809999847412109,0.013771730475127697,Federico Bonazzoli,a,2019,OpenPlay,2019,LeftFoot,13130,Fiorentina,Sampdoria,2,1,2019-09-25 19:00:00,Ronaldo Vieira,Pass
+322016,68,MissedShots,0.8580000305175781,0.6930000305175781,0.04034383222460747,Ronaldo Vieira,a,7097,OpenPlay,2019,RightFoot,13130,Fiorentina,Sampdoria,2,1,2019-09-25 19:00:00,Federico Bonazzoli,BallTouch
+322019,78,ShotOnPost,0.9490000152587891,0.575,0.29321980476379395,Federico Bonazzoli,a,2019,FromCorner,2019,Head,13130,Fiorentina,Sampdoria,2,1,2019-09-25 19:00:00,,None
+322020,78,Goal,0.960999984741211,0.575999984741211,0.13586640357971191,Federico Bonazzoli,a,2019,FromCorner,2019,LeftFoot,13130,Fiorentina,Sampdoria,2,1,2019-09-25 19:00:00,,Rebound

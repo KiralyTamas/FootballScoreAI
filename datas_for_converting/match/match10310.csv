@@ -1,0 +1,24 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+299321,16,BlockedShot,0.7569999694824219,0.7269999694824218,0.04771672189235687,Esteban Granero,h,2240,DirectFreekick,2018,RightFoot,10310,Espanyol,Atletico Madrid,3,0,2019-05-04 15:15:00,,Standard
+299322,16,SavedShot,0.7559999847412109,0.6759999847412109,0.013209374621510506,Esteban Granero,h,2240,SetPiece,2018,RightFoot,10310,Espanyol,Atletico Madrid,3,0,2019-05-04 15:15:00,Adrià Pedrosa,Rebound
+299323,34,MissedShots,0.7119999694824218,0.5070000076293946,0.010380182415246964,Sergi Darder,h,2621,SetPiece,2018,RightFoot,10310,Espanyol,Atletico Madrid,3,0,2019-05-04 15:15:00,,None
+299328,51,Goal,0.9269999694824219,0.3189999961853027,0.5065221190452576,Borja Iglesias,h,2543,OpenPlay,2018,RightFoot,10310,Espanyol,Atletico Madrid,3,0,2019-05-04 15:15:00,Óscar Melendo,Throughball
+299329,57,MissedShots,0.745,0.63,0.024448471143841743,Adrià Pedrosa,h,7174,FromCorner,2018,LeftFoot,10310,Espanyol,Atletico Madrid,3,0,2019-05-04 15:15:00,Esteban Granero,Pass
+299331,64,BlockedShot,0.8640000152587891,0.605,0.09398016333580017,Borja Iglesias,h,2543,OpenPlay,2018,RightFoot,10310,Espanyol,Atletico Madrid,3,0,2019-05-04 15:15:00,Óscar Melendo,Pass
+299332,64,SavedShot,0.7140000152587891,0.47200000762939454,0.02993980050086975,Sergi Darder,h,2621,OpenPlay,2018,RightFoot,10310,Espanyol,Atletico Madrid,3,0,2019-05-04 15:15:00,Mario Hermoso,Pass
+299333,65,MissedShots,0.889000015258789,0.5029999923706054,0.05646834895014763,Borja Iglesias,h,2543,FromCorner,2018,Head,10310,Espanyol,Atletico Madrid,3,0,2019-05-04 15:15:00,Esteban Granero,Cross
+299334,68,SavedShot,0.835,0.5820000076293945,0.09601863473653793,Borja Iglesias,h,2543,OpenPlay,2018,RightFoot,10310,Espanyol,Atletico Madrid,3,0,2019-05-04 15:15:00,Adrià Pedrosa,Pass
+299335,72,MissedShots,0.9690000152587891,0.34900001525878904,0.09991589933633804,Wu Lei,h,7398,OpenPlay,2018,RightFoot,10310,Espanyol,Atletico Madrid,3,0,2019-05-04 15:15:00,Óscar Melendo,Chipped
+299339,88,Goal,0.885,0.5,0.7432776093482971,Borja Iglesias,h,2543,Penalty,2018,RightFoot,10310,Espanyol,Atletico Madrid,3,0,2019-05-04 15:15:00,,Standard
+299317,2,SavedShot,0.92,0.27700000762939453,0.30035364627838135,Álvaro Morata,a,1804,OpenPlay,2018,RightFoot,10310,Espanyol,Atletico Madrid,3,0,2019-05-04 15:15:00,,BallRecovery
+299318,4,BlockedShot,0.87,0.6719999694824219,0.051466070115566254,Álvaro Morata,a,1804,OpenPlay,2018,RightFoot,10310,Espanyol,Atletico Madrid,3,0,2019-05-04 15:15:00,Antoine Griezmann,Pass
+299319,11,MissedShots,0.9330000305175781,0.5590000152587891,0.13879363238811493,Álvaro Morata,a,1804,OpenPlay,2018,Head,10310,Espanyol,Atletico Madrid,3,0,2019-05-04 15:15:00,Juanfran,Cross
+299320,12,MissedShots,0.9680000305175781,0.5840000152587891,0.056149229407310486,Stefan Savic,a,2263,FromCorner,2018,Head,10310,Espanyol,Atletico Madrid,3,0,2019-05-04 15:15:00,Saúl Ñíguez,HeadPass
+299324,37,SavedShot,0.895,0.485,0.06539956480264664,Saúl Ñíguez,a,2266,FromCorner,2018,Head,10310,Espanyol,Atletico Madrid,3,0,2019-05-04 15:15:00,Thomas Lemar,Cross
+299325,41,SavedShot,0.8019999694824219,0.2520000076293945,0.02071729116141796,Thomas Lemar,a,3425,SetPiece,2018,LeftFoot,10310,Espanyol,Atletico Madrid,3,0,2019-05-04 15:15:00,Juanfran,Pass
+299326,45,OwnGoal,0.03299999952316284,0.4779999923706055,0,Diego Godín,a,2264,OpenPlay,2018,RightFoot,10310,Espanyol,Atletico Madrid,3,0,2019-05-04 15:15:00,,Challenge
+299327,51,BlockedShot,0.8469999694824218,0.5579999923706055,0.060151971876621246,Antoine Griezmann,a,2270,SetPiece,2018,LeftFoot,10310,Espanyol,Atletico Madrid,3,0,2019-05-04 15:15:00,,None
+299330,62,MissedShots,0.9119999694824219,0.47299999237060547,0.0924515500664711,Álvaro Morata,a,1804,FromCorner,2018,Head,10310,Espanyol,Atletico Madrid,3,0,2019-05-04 15:15:00,Koke,Cross
+299336,80,BlockedShot,0.7559999847412109,0.45799999237060546,0.024449367076158524,Ángel Correa,a,2275,OpenPlay,2018,RightFoot,10310,Espanyol,Atletico Madrid,3,0,2019-05-04 15:15:00,Koke,Pass
+299337,82,BlockedShot,0.76,0.515,0.02991635352373123,Saúl Ñíguez,a,2266,OpenPlay,2018,RightFoot,10310,Espanyol,Atletico Madrid,3,0,2019-05-04 15:15:00,,TakeOn
+299338,86,BlockedShot,0.710999984741211,0.580999984741211,0.013488637283444405,Antoine Griezmann,a,2270,FromCorner,2018,LeftFoot,10310,Espanyol,Atletico Madrid,3,0,2019-05-04 15:15:00,,None

@@ -1,0 +1,24 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+1514,4,MissedShots,0.9030000305175782,0.3370000076293945,0.05049429088830948,Julien Faubert,h,4701,FromCorner,2014,RightFoot,6132,Bordeaux,Caen,1,1,2014-10-19 16:00:00,,None
+1515,4,MissedShots,0.8769999694824219,0.6880000305175781,0.04529424384236336,Grégory Sertic,h,3809,FromCorner,2014,RightFoot,6132,Bordeaux,Caen,1,1,2014-10-19 16:00:00,,TakeOn
+1517,20,BlockedShot,0.7930000305175782,0.38299999237060545,0.02000889554619789,Andre Biyogo Poko,h,3252,OpenPlay,2014,RightFoot,6132,Bordeaux,Caen,1,1,2014-10-19 16:00:00,Nicolas Maurice-Belay,HeadPass
+1518,21,Goal,0.885,0.5,0.7600951194763184,Cheick Diabaté,h,3577,Penalty,2014,RightFoot,6132,Bordeaux,Caen,1,1,2014-10-19 16:00:00,,Standard
+1521,36,BlockedShot,0.674000015258789,0.3629999923706055,0.02891312912106514,Grégory Sertic,h,3809,DirectFreekick,2014,RightFoot,6132,Bordeaux,Caen,1,1,2014-10-19 16:00:00,,Standard
+1523,41,BlockedShot,0.8580000305175781,0.6359999847412109,0.036338482052087784,Julien Faubert,h,4701,FromCorner,2014,RightFoot,6132,Bordeaux,Caen,1,1,2014-10-19 16:00:00,Grégory Sertic,Cross
+1527,57,BlockedShot,0.9059999847412109,0.46599998474121096,0.1404677778482437,Diego Rolan,h,3261,OpenPlay,2014,RightFoot,6132,Bordeaux,Caen,1,1,2014-10-19 16:00:00,Nicolas Maurice-Belay,Pass
+1528,62,BlockedShot,0.775,0.7280000305175781,0.050213634967803955,Grégory Sertic,h,3809,DirectFreekick,2014,RightFoot,6132,Bordeaux,Caen,1,1,2014-10-19 16:00:00,,Standard
+1530,64,MissedShots,0.8780000305175781,0.42900001525878906,0.07328124344348907,Julien Faubert,h,4701,FromCorner,2014,LeftFoot,6132,Bordeaux,Caen,1,1,2014-10-19 16:00:00,,None
+1532,71,MissedShots,0.9409999847412109,0.5420000076293945,0.1371927708387375,Diego Rolan,h,3261,OpenPlay,2014,LeftFoot,6132,Bordeaux,Caen,1,1,2014-10-19 16:00:00,Nicolas Maurice-Belay,Cross
+1534,85,MissedShots,0.7830000305175782,0.78,0.014005803503096104,Diego Rolan,h,3261,OpenPlay,2014,RightFoot,6132,Bordeaux,Caen,1,1,2014-10-19 16:00:00,Nicolas Maurice-Belay,Pass
+1536,89,MissedShots,0.865,0.2979999923706055,0.032810598611831665,Wahbi Khazri,h,734,OpenPlay,2014,RightFoot,6132,Bordeaux,Caen,1,1,2014-10-19 16:00:00,Emiliano Sala,Pass
+1516,7,ShotOnPost,0.9490000152587891,0.425,0.12803757190704346,Bangaly-Fodé Koita,a,4706,SetPiece,2014,Head,6132,Bordeaux,Caen,1,1,2014-10-19 16:00:00,Julien Féret,Cross
+1519,34,BlockedShot,0.815,0.6980000305175781,0.08096478134393692,Julien Féret,a,3527,DirectFreekick,2014,RightFoot,6132,Bordeaux,Caen,1,1,2014-10-19 16:00:00,,Standard
+1520,35,MissedShots,0.8130000305175781,0.48200000762939454,0.05866101384162903,N&#039;Golo Kanté,a,751,SetPiece,2014,LeftFoot,6132,Bordeaux,Caen,1,1,2014-10-19 16:00:00,Jordan Adeoti,HeadPass
+1522,38,SavedShot,0.9519999694824218,0.34,0.05436339229345322,Herve Bazile,a,3532,OpenPlay,2014,RightFoot,6132,Bordeaux,Caen,1,1,2014-10-19 16:00:00,Mathieu Duhamel,TakeOn
+1524,45,MissedShots,0.7019999694824218,0.4909999847412109,0.013094048015773296,Jordan Adeoti,a,3522,FromCorner,2014,LeftFoot,6132,Bordeaux,Caen,1,1,2014-10-19 16:00:00,,None
+1525,47,BlockedShot,0.91,0.625,0.06419823318719864,Mathieu Duhamel,a,4787,OpenPlay,2014,LeftFoot,6132,Bordeaux,Caen,1,1,2014-10-19 16:00:00,Herve Bazile,Cross
+1526,50,SavedShot,0.774000015258789,0.5259999847412109,0.02671894058585167,Mathieu Duhamel,a,4787,OpenPlay,2014,LeftFoot,6132,Bordeaux,Caen,1,1,2014-10-19 16:00:00,N&#039;Golo Kanté,Pass
+1529,63,MissedShots,0.7519999694824219,0.2539999961853027,0.011372750625014305,N&#039;Golo Kanté,a,751,OpenPlay,2014,RightFoot,6132,Bordeaux,Caen,1,1,2014-10-19 16:00:00,,None
+1531,69,MissedShots,0.92,0.55,0.05059922859072685,Mathieu Duhamel,a,4787,OpenPlay,2014,OtherBodyPart,6132,Bordeaux,Caen,1,1,2014-10-19 16:00:00,Herve Bazile,Aerial
+1533,76,Goal,0.9730000305175781,0.705,0.09327048808336258,Herve Bazile,a,3532,OpenPlay,2014,LeftFoot,6132,Bordeaux,Caen,1,1,2014-10-19 16:00:00,Julien Féret,Throughball
+1535,86,SavedShot,0.75,0.43400001525878906,0.021278206259012222,Lenny Nangis,a,3564,OpenPlay,2014,RightFoot,6132,Bordeaux,Caen,1,1,2014-10-19 16:00:00,N&#039;Golo Kanté,BlockedPass

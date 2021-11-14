@@ -1,0 +1,27 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+81911,10,MissedShots,0.95,0.295,0.048995714634656906,Julian Baumgartlinger,h,42,OpenPlay,2015,RightFoot,1244,Mainz 05,Darmstadt,0,0,2016-03-06 18:30:00,Giulio Donati,Pass
+81912,14,BlockedShot,0.8959999847412109,0.4329999923706055,0.12342961132526398,Jairo Samperio,h,46,OpenPlay,2015,RightFoot,1244,Mainz 05,Darmstadt,0,0,2016-03-06 18:30:00,Pablo De Blasis,Pass
+81916,27,MissedShots,0.945,0.31,0.0816747322678566,Pablo De Blasis,h,44,OpenPlay,2015,RightFoot,1244,Mainz 05,Darmstadt,0,0,2016-03-06 18:30:00,Jairo Samperio,Pass
+81917,30,MissedShots,0.874000015258789,0.549000015258789,0.03394181653857231,Pablo De Blasis,h,44,SetPiece,2015,Head,1244,Mainz 05,Darmstadt,0,0,2016-03-06 18:30:00,Fabian Frei,Cross
+81920,42,SavedShot,0.7730000305175782,0.6580000305175782,0.06644094735383987,Pablo De Blasis,h,44,DirectFreekick,2015,RightFoot,1244,Mainz 05,Darmstadt,0,0,2016-03-06 18:30:00,,Standard
+81922,54,SavedShot,0.9059999847412109,0.3840000152587891,0.3504246175289154,Jhon Córdoba,h,48,OpenPlay,2015,RightFoot,1244,Mainz 05,Darmstadt,0,0,2016-03-06 18:30:00,Yunus Malli,Throughball
+81923,56,BlockedShot,0.7880000305175782,0.5420000076293945,0.03603754937648773,Julian Baumgartlinger,h,42,OpenPlay,2015,RightFoot,1244,Mainz 05,Darmstadt,0,0,2016-03-06 18:30:00,Jhon Córdoba,Pass
+81926,63,SavedShot,0.965,0.37400001525878906,0.2639150619506836,Pablo De Blasis,h,44,SetPiece,2015,RightFoot,1244,Mainz 05,Darmstadt,0,0,2016-03-06 18:30:00,Jairo Samperio,Cross
+81931,81,SavedShot,0.7390000152587891,0.37099998474121093,0.013382462784647942,Danny Latza,h,43,OpenPlay,2015,RightFoot,1244,Mainz 05,Darmstadt,0,0,2016-03-06 18:30:00,,None
+81933,88,MissedShots,0.91,0.515,0.11974099278450012,Alexander Hack,h,52,SetPiece,2015,Head,1244,Mainz 05,Darmstadt,0,0,2016-03-06 18:30:00,Danny Latza,Cross
+81934,89,MissedShots,0.8090000152587891,0.43900001525878907,0.04672226309776306,Danny Latza,h,43,OpenPlay,2015,LeftFoot,1244,Mainz 05,Darmstadt,0,0,2016-03-06 18:30:00,,None
+81909,5,MissedShots,0.7480000305175781,0.47,0.014733665622770786,Sandro Wagner,a,11,OpenPlay,2015,RightFoot,1244,Mainz 05,Darmstadt,0,0,2016-03-06 18:30:00,Christian Mathenia,Aerial
+81910,9,MissedShots,0.7340000152587891,0.40099998474121096,0.05240809917449951,Konstantin Rausch,a,13,DirectFreekick,2015,LeftFoot,1244,Mainz 05,Darmstadt,0,0,2016-03-06 18:30:00,,Standard
+81913,15,SavedShot,0.9159999847412109,0.549000015258789,0.13595174252986908,Tobias Kempe,a,9,OpenPlay,2015,LeftFoot,1244,Mainz 05,Darmstadt,0,0,2016-03-06 18:30:00,Marcel Heller,TakeOn
+81914,17,SavedShot,0.765,0.40299999237060546,0.015980204567313194,Peter Niemeyer,a,299,SetPiece,2015,RightFoot,1244,Mainz 05,Darmstadt,0,0,2016-03-06 18:30:00,,None
+81915,20,MissedShots,0.769000015258789,0.36700000762939455,0.011046168394386768,Jérôme Gondorf,a,8,SetPiece,2015,RightFoot,1244,Mainz 05,Darmstadt,0,0,2016-03-06 18:30:00,,Aerial
+81918,34,BlockedShot,0.8690000152587891,0.6430000305175781,0.02209381014108658,Luca Caldirola,a,3,SetPiece,2015,RightFoot,1244,Mainz 05,Darmstadt,0,0,2016-03-06 18:30:00,Sandro Wagner,Aerial
+81919,34,BlockedShot,0.8690000152587891,0.6430000305175781,0.049245357513427734,Luca Caldirola,a,3,SetPiece,2015,LeftFoot,1244,Mainz 05,Darmstadt,0,0,2016-03-06 18:30:00,,Rebound
+81921,51,MissedShots,0.9059999847412109,0.46900001525878904,0.11230436712503433,Sandro Wagner,a,11,OpenPlay,2015,Head,1244,Mainz 05,Darmstadt,0,0,2016-03-06 18:30:00,Florian Jungwirth,Cross
+81924,59,MissedShots,0.7530000305175781,0.5540000152587891,0.01952727697789669,Sandro Wagner,a,11,OpenPlay,2015,RightFoot,1244,Mainz 05,Darmstadt,0,0,2016-03-06 18:30:00,,None
+81925,61,MissedShots,0.915,0.5940000152587891,0.30341973900794983,Konstantin Rausch,a,13,OpenPlay,2015,LeftFoot,1244,Mainz 05,Darmstadt,0,0,2016-03-06 18:30:00,Sandro Wagner,Chipped
+81927,65,MissedShots,0.875,0.5520000076293945,0.013484728522598743,Peter Niemeyer,a,299,SetPiece,2015,Head,1244,Mainz 05,Darmstadt,0,0,2016-03-06 18:30:00,Tobias Kempe,Aerial
+81928,69,BlockedShot,0.7730000305175782,0.315,0.02685689926147461,Peter Niemeyer,a,299,OpenPlay,2015,RightFoot,1244,Mainz 05,Darmstadt,0,0,2016-03-06 18:30:00,,TakeOn
+81929,76,SavedShot,0.9540000152587891,0.6730000305175782,0.060738030821084976,Mario Vrancic,a,12,OpenPlay,2015,LeftFoot,1244,Mainz 05,Darmstadt,0,0,2016-03-06 18:30:00,Tobias Kempe,TakeOn
+81930,80,MissedShots,0.845,0.5029999923706054,0.06659355759620667,Sandro Wagner,a,11,SetPiece,2015,LeftFoot,1244,Mainz 05,Darmstadt,0,0,2016-03-06 18:30:00,Slobodan Rajkovic,Chipped
+81932,81,MissedShots,0.93,0.48400001525878905,0.11922292411327362,Tobias Kempe,a,9,OpenPlay,2015,RightFoot,1244,Mainz 05,Darmstadt,0,0,2016-03-06 18:30:00,Marcel Heller,Chipped

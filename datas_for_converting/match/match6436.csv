@@ -1,0 +1,30 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+9092,3,MissedShots,0.9069999694824219,0.36900001525878906,0.009198741056025028,Maxim Votinov,h,4569,SetPiece,2014,Head,6436,Arsenal Tula,Rubin Kazan,0,0,2014-08-13 17:00:00,Sergey Ignatiev,Aerial
+9093,13,SavedShot,0.8130000305175781,0.48200000762939454,0.062355417758226395,Arthur Maloyan,h,4566,OpenPlay,2014,LeftFoot,6436,Arsenal Tula,Rubin Kazan,0,0,2014-08-13 17:00:00,Andrey Lyakh,Pass
+9094,13,MissedShots,0.9430000305175781,0.4909999847412109,0.41371268033981323,Sergei Maslov,h,4575,FromCorner,2014,Head,6436,Arsenal Tula,Rubin Kazan,0,0,2014-08-13 17:00:00,Sergey Ignatiev,Cross
+9100,27,MissedShots,0.7430000305175781,0.22799999237060548,0.03110668621957302,Sergey Ignatiev,h,4568,DirectFreekick,2014,LeftFoot,6436,Arsenal Tula,Rubin Kazan,0,0,2014-08-13 17:00:00,,Standard
+9101,36,SavedShot,0.905,0.4470000076293945,0.2771349847316742,Maxim Votinov,h,4569,OpenPlay,2014,Head,6436,Arsenal Tula,Rubin Kazan,0,0,2014-08-13 17:00:00,Arthur Maloyan,Cross
+9102,39,SavedShot,0.825999984741211,0.515,0.07256750017404556,Sergei Maslov,h,4575,OpenPlay,2014,LeftFoot,6436,Arsenal Tula,Rubin Kazan,0,0,2014-08-13 17:00:00,,TakeOn
+9103,39,SavedShot,0.7030000305175781,0.34,0.01312439888715744,Vladislav Ryzhkov,h,4572,OpenPlay,2014,RightFoot,6436,Arsenal Tula,Rubin Kazan,0,0,2014-08-13 17:00:00,Mladen Kascelan,Pass
+9107,57,BlockedShot,0.885,0.755,0.028085142374038696,Arthur Maloyan,h,4566,OpenPlay,2014,RightFoot,6436,Arsenal Tula,Rubin Kazan,0,0,2014-08-13 17:00:00,Maxim Votinov,Pass
+9108,57,BlockedShot,0.8590000152587891,0.625,0.05917659401893616,Arthur Maloyan,h,4566,OpenPlay,2014,RightFoot,6436,Arsenal Tula,Rubin Kazan,0,0,2014-08-13 17:00:00,Sergey Ignatiev,Pass
+9111,67,BlockedShot,0.7819999694824219,0.815,0.03333636745810509,Vladislav Ryzhkov,h,4572,DirectFreekick,2014,RightFoot,6436,Arsenal Tula,Rubin Kazan,0,0,2014-08-13 17:00:00,,Standard
+9115,80,MissedShots,0.855,0.6719999694824219,0.05040442571043968,Sergey Kuznetsov,h,4567,OpenPlay,2014,RightFoot,6436,Arsenal Tula,Rubin Kazan,0,0,2014-08-13 17:00:00,Evgeny Osipov,Pass
+9116,83,SavedShot,0.91,0.54,0.1010737419128418,Maxim Votinov,h,4569,SetPiece,2014,Head,6436,Arsenal Tula,Rubin Kazan,0,0,2014-08-13 17:00:00,Sergey Kuznetsov,Cross
+9117,84,BlockedShot,0.785,0.44799999237060545,0.03380610793828964,Arthur Maloyan,h,4566,OpenPlay,2014,LeftFoot,6436,Arsenal Tula,Rubin Kazan,0,0,2014-08-13 17:00:00,,None
+9120,93,BlockedShot,0.779000015258789,0.35900001525878905,0.06606291979551315,Sergey Ignatiev,h,4568,DirectFreekick,2014,LeftFoot,6436,Arsenal Tula,Rubin Kazan,0,0,2014-08-13 17:00:00,,Standard
+9095,16,BlockedShot,0.754000015258789,0.6990000152587891,0.015926962718367577,Maksim Kanunnikov,a,2969,OpenPlay,2014,RightFoot,6436,Arsenal Tula,Rubin Kazan,0,0,2014-08-13 17:00:00,Magomed Ozdoev,Pass
+9096,21,SavedShot,0.865,0.629000015258789,0.07959146797657013,Sardar Azmoun,a,2774,OpenPlay,2014,RightFoot,6436,Arsenal Tula,Rubin Kazan,0,0,2014-08-13 17:00:00,Gökdeniz Karadeniz,Pass
+9097,21,BlockedShot,0.8009999847412109,0.8469999694824218,0.010896417312324047,Maksim Kanunnikov,a,2969,OpenPlay,2014,RightFoot,6436,Arsenal Tula,Rubin Kazan,0,0,2014-08-13 17:00:00,Elmir Nabiullin,Pass
+9098,22,MissedShots,0.7090000152587891,0.67,0.011901352554559708,Pavel Mogilevets,a,2773,OpenPlay,2014,RightFoot,6436,Arsenal Tula,Rubin Kazan,0,0,2014-08-13 17:00:00,,BallRecovery
+9099,25,MissedShots,0.8919999694824219,0.45299999237060545,0.33160462975502014,Sardar Azmoun,a,2774,OpenPlay,2014,RightFoot,6436,Arsenal Tula,Rubin Kazan,0,0,2014-08-13 17:00:00,Gökdeniz Karadeniz,HeadPass
+9104,40,MissedShots,0.8680000305175781,0.725,0.03492147848010063,Maksim Kanunnikov,a,2969,OpenPlay,2014,RightFoot,6436,Arsenal Tula,Rubin Kazan,0,0,2014-08-13 17:00:00,Vladimir Dyadyun,Pass
+9105,41,MissedShots,0.7319999694824219,0.775,0.010704003274440765,Elmir Nabiullin,a,2985,OpenPlay,2014,LeftFoot,6436,Arsenal Tula,Rubin Kazan,0,0,2014-08-13 17:00:00,Pavel Mogilevets,Pass
+9106,45,MissedShots,0.8730000305175781,0.34700000762939454,0.054770682007074356,Sardar Azmoun,a,2774,OpenPlay,2014,RightFoot,6436,Arsenal Tula,Rubin Kazan,0,0,2014-08-13 17:00:00,,None
+9109,59,SavedShot,0.8130000305175781,0.275,0.020905256271362305,Oleg Kuzmin,a,2963,OpenPlay,2014,RightFoot,6436,Arsenal Tula,Rubin Kazan,0,0,2014-08-13 17:00:00,,None
+9110,59,MissedShots,0.8819999694824219,0.5720000076293945,0.020198877900838852,Maksim Kanunnikov,a,2969,OpenPlay,2014,Head,6436,Arsenal Tula,Rubin Kazan,0,0,2014-08-13 17:00:00,Gökdeniz Karadeniz,Aerial
+9112,69,BlockedShot,0.825999984741211,0.629000015258789,0.043416839092969894,Gökdeniz Karadeniz,a,2971,OpenPlay,2014,RightFoot,6436,Arsenal Tula,Rubin Kazan,0,0,2014-08-13 17:00:00,Sardar Azmoun,LayOff
+9113,71,SavedShot,0.72,0.45599998474121095,0.012881437316536903,Mubarak Wakaso,a,2362,OpenPlay,2014,LeftFoot,6436,Arsenal Tula,Rubin Kazan,0,0,2014-08-13 17:00:00,Gökdeniz Karadeniz,Pass
+9114,78,SavedShot,0.8819999694824219,0.38299999237060545,0.011288311332464218,Pavel Mogilevets,a,2773,FromCorner,2014,Head,6436,Arsenal Tula,Rubin Kazan,0,0,2014-08-13 17:00:00,Magomed Ozdoev,Aerial
+9118,87,SavedShot,0.975999984741211,0.38799999237060545,0.06770247220993042,Oleg Kuzmin,a,2963,OpenPlay,2014,RightFoot,6436,Arsenal Tula,Rubin Kazan,0,0,2014-08-13 17:00:00,Mubarak Wakaso,Cross
+9119,88,MissedShots,0.715,0.7330000305175781,0.02935968153178692,Magomed Ozdoev,a,2968,DirectFreekick,2014,RightFoot,6436,Arsenal Tula,Rubin Kazan,0,0,2014-08-13 17:00:00,,Standard

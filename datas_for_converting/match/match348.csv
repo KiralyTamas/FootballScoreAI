@@ -1,0 +1,21 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+59679,13,SavedShot,0.855,0.8040000152587891,0.05512910708785057,Memphis Depay,h,555,DirectFreekick,2015,RightFoot,348,Manchester United,Arsenal,3,2,2016-02-28 18:05:00,,Standard
+59682,28,Goal,0.909000015258789,0.5590000152587891,0.4400680661201477,Marcus Rashford,h,556,OpenPlay,2015,RightFoot,348,Manchester United,Arsenal,3,2,2016-02-28 18:05:00,,None
+59684,31,Goal,0.9290000152587891,0.48200000762939454,0.4395661950111389,Marcus Rashford,h,556,OpenPlay,2015,Head,348,Manchester United,Arsenal,3,2,2016-02-28 18:05:00,Jesse Lingard,Cross
+59688,34,MissedShots,0.785,0.6409999847412109,0.024519888684153557,Memphis Depay,h,555,OpenPlay,2015,RightFoot,348,Manchester United,Arsenal,3,2,2016-02-28 18:05:00,,None
+59695,55,BlockedShot,0.9019999694824219,0.655,0.05868944525718689,Morgan Schneiderlin,h,551,SetPiece,2015,RightFoot,348,Manchester United,Arsenal,3,2,2016-02-28 18:05:00,,None
+59697,60,SavedShot,0.7709999847412109,0.7230000305175781,0.022211747244000435,Memphis Depay,h,555,OpenPlay,2015,RightFoot,348,Manchester United,Arsenal,3,2,2016-02-28 18:05:00,Ander Herrera,Pass
+59701,64,Goal,0.8009999847412109,0.5220000076293946,0.05503924936056137,Ander Herrera,h,552,OpenPlay,2015,RightFoot,348,Manchester United,Arsenal,3,2,2016-02-28 18:05:00,Marcus Rashford,Pass
+59676,0,MissedShots,0.845,0.41,0.060091909021139145,Danny Welbeck,a,501,OpenPlay,2015,RightFoot,348,Manchester United,Arsenal,3,2,2016-02-28 18:05:00,,None
+59677,6,SavedShot,0.91,0.585,0.38608163595199585,Nacho Monreal,a,495,OpenPlay,2015,LeftFoot,348,Manchester United,Arsenal,3,2,2016-02-28 18:05:00,Mesut Özil,Throughball
+59678,9,MissedShots,0.879000015258789,0.40599998474121096,0.02517559751868248,Gabriel,a,493,SetPiece,2015,Head,348,Manchester United,Arsenal,3,2,2016-02-28 18:05:00,Mesut Özil,Cross
+59680,18,MissedShots,0.86,0.68,0.04531584680080414,Alexis Sánchez,a,498,OpenPlay,2015,RightFoot,348,Manchester United,Arsenal,3,2,2016-02-28 18:05:00,,None
+59689,39,Goal,0.909000015258789,0.46,0.212724968791008,Danny Welbeck,a,501,SetPiece,2015,Head,348,Manchester United,Arsenal,3,2,2016-02-28 18:05:00,Mesut Özil,Cross
+59690,45,BlockedShot,0.7659999847412109,0.3820000076293945,0.06590315699577332,Mesut Özil,a,499,DirectFreekick,2015,LeftFoot,348,Manchester United,Arsenal,3,2,2016-02-28 18:05:00,,Standard
+59691,45,BlockedShot,0.779000015258789,0.415,0.01915869675576687,Alexis Sánchez,a,498,SetPiece,2015,RightFoot,348,Manchester United,Arsenal,3,2,2016-02-28 18:05:00,,Rebound
+59693,46,MissedShots,0.9219999694824219,0.4,0.03852599114179611,Aaron Ramsey,a,504,FromCorner,2015,Head,348,Manchester United,Arsenal,3,2,2016-02-28 18:05:00,Mesut Özil,Cross
+59694,51,BlockedShot,0.8230000305175781,0.4279999923706055,0.05896839126944542,Alexis Sánchez,a,498,OpenPlay,2015,RightFoot,348,Manchester United,Arsenal,3,2,2016-02-28 18:05:00,Mesut Özil,Pass
+59704,68,SavedShot,0.9459999847412109,0.4759999847412109,0.4515397548675537,Danny Welbeck,a,501,OpenPlay,2015,RightFoot,348,Manchester United,Arsenal,3,2,2016-02-28 18:05:00,Alexis Sánchez,Cross
+59706,68,Goal,0.875,0.48700000762939455,0.07907198369503021,Mesut Özil,a,499,OpenPlay,2015,LeftFoot,348,Manchester United,Arsenal,3,2,2016-02-28 18:05:00,,Rebound
+59708,79,MissedShots,0.915,0.5779999923706055,0.02931573987007141,Olivier Giroud,a,502,OpenPlay,2015,Head,348,Manchester United,Arsenal,3,2,2016-02-28 18:05:00,Alexis Sánchez,Aerial
+59710,85,SavedShot,0.9540000152587891,0.4209999847412109,0.10859674215316772,Laurent Koscielny,a,494,SetPiece,2015,Head,348,Manchester United,Arsenal,3,2,2016-02-28 18:05:00,Mesut Özil,Cross

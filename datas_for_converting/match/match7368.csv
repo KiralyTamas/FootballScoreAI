@@ -1,0 +1,23 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+194243,3,MissedShots,0.9069999694824219,0.575,0.09360115975141525,Mame Biram Diouf,h,868,OpenPlay,2017,Head,7368,Stoke,Watford,0,0,2018-01-31 20:00:00,Charlie Adam,Throughball
+194245,25,BlockedShot,0.8819999694824219,0.645,0.1042594462633133,Charlie Adam,h,873,OpenPlay,2017,LeftFoot,7368,Stoke,Watford,0,0,2018-01-31 20:00:00,Xherdan Shaqiri,Pass
+194246,25,MissedShots,0.895,0.6680000305175782,0.09188329428434372,Eric Maxim Choupo-Moting,h,339,OpenPlay,2017,RightFoot,7368,Stoke,Watford,0,0,2018-01-31 20:00:00,,Rebound
+194250,47,SavedShot,0.7269999694824218,0.23600000381469727,0.030289556831121445,Charlie Adam,h,873,DirectFreekick,2017,LeftFoot,7368,Stoke,Watford,0,0,2018-01-31 20:00:00,,Standard
+194251,54,BlockedShot,0.774000015258789,0.6609999847412109,0.06213666871190071,Xherdan Shaqiri,h,888,DirectFreekick,2017,LeftFoot,7368,Stoke,Watford,0,0,2018-01-31 20:00:00,,Standard
+194252,54,BlockedShot,0.88,0.32,0.018291441723704338,Moritz Bauer,h,5453,SetPiece,2017,RightFoot,7368,Stoke,Watford,0,0,2018-01-31 20:00:00,,Aerial
+194254,57,MissedShots,0.879000015258789,0.575,0.08088934421539307,Joe Allen,h,480,OpenPlay,2017,LeftFoot,7368,Stoke,Watford,0,0,2018-01-31 20:00:00,,None
+194255,61,SavedShot,0.8690000152587891,0.5629999923706055,0.04215270280838013,Xherdan Shaqiri,h,888,OpenPlay,2017,LeftFoot,7368,Stoke,Watford,0,0,2018-01-31 20:00:00,,Aerial
+194256,61,SavedShot,0.9359999847412109,0.500999984741211,0.06873638182878494,Peter Crouch,h,872,OpenPlay,2017,Head,7368,Stoke,Watford,0,0,2018-01-31 20:00:00,Xherdan Shaqiri,Rebound
+194257,63,MissedShots,0.9569999694824218,0.4470000076293945,0.11870791018009186,Peter Crouch,h,872,OpenPlay,2017,RightFoot,7368,Stoke,Watford,0,0,2018-01-31 20:00:00,,None
+194263,89,SavedShot,0.87,0.495,0.023701336234807968,Ryan Shawcross,h,886,FromCorner,2017,Head,7368,Stoke,Watford,0,0,2018-01-31 20:00:00,Xherdan Shaqiri,Cross
+194242,0,SavedShot,0.8690000152587891,0.39,0.06157393008470535,Sebastian Prödl,a,566,SetPiece,2017,LeftFoot,7368,Stoke,Watford,0,0,2018-01-31 20:00:00,,None
+194244,14,MissedShots,0.78,0.43599998474121093,0.026642190292477608,Tom Cleverley,a,596,OpenPlay,2017,RightFoot,7368,Stoke,Watford,0,0,2018-01-31 20:00:00,Richarlison,Pass
+194247,35,MissedShots,0.9119999694824219,0.6,0.047264911234378815,Abdoulaye Doucouré,a,1726,SetPiece,2017,Head,7368,Stoke,Watford,0,0,2018-01-31 20:00:00,José Holebas,Cross
+194248,40,MissedShots,0.8059999847412109,0.5129999923706055,0.056306034326553345,Abdoulaye Doucouré,a,1726,OpenPlay,2017,LeftFoot,7368,Stoke,Watford,0,0,2018-01-31 20:00:00,Tom Cleverley,Pass
+194249,42,MissedShots,0.919000015258789,0.4520000076293945,0.10989799350500107,Richarlison,a,6026,OpenPlay,2017,RightFoot,7368,Stoke,Watford,0,0,2018-01-31 20:00:00,Gerard Deulofeu,Cross
+194253,56,BlockedShot,0.8619999694824219,0.38299999237060545,0.0815124362707138,Richarlison,a,6026,OpenPlay,2017,LeftFoot,7368,Stoke,Watford,0,0,2018-01-31 20:00:00,Gerard Deulofeu,Pass
+194258,68,BlockedShot,0.8859999847412109,0.47200000762939454,0.12257162481546402,Abdoulaye Doucouré,a,1726,OpenPlay,2017,LeftFoot,7368,Stoke,Watford,0,0,2018-01-31 20:00:00,Andre Gray,Pass
+194259,68,BlockedShot,0.865,0.59,0.06568098813295364,Troy Deeney,a,574,OpenPlay,2017,LeftFoot,7368,Stoke,Watford,0,0,2018-01-31 20:00:00,,Rebound
+194260,78,BlockedShot,0.795,0.649000015258789,0.029536211863160133,Roberto Pereyra,a,1723,OpenPlay,2017,RightFoot,7368,Stoke,Watford,0,0,2018-01-31 20:00:00,Abdoulaye Doucouré,Pass
+194261,83,SavedShot,0.8969999694824219,0.59,0.11544641852378845,Roberto Pereyra,a,1723,OpenPlay,2017,LeftFoot,7368,Stoke,Watford,0,0,2018-01-31 20:00:00,Abdoulaye Doucouré,Pass
+194262,84,MissedShots,0.81,0.5129999923706055,0.03239051252603531,Abdoulaye Doucouré,a,1726,FromCorner,2017,RightFoot,7368,Stoke,Watford,0,0,2018-01-31 20:00:00,Gerard Deulofeu,BallTouch

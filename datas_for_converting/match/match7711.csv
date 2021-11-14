@@ -1,0 +1,20 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+190286,6,MissedShots,0.775,0.49900001525878906,0.11630268394947052,Lorenzo Insigne,h,1393,OpenPlay,2017,RightFoot,7711,Napoli,Bologna,3,1,2018-01-28 14:00:00,Jorginho,TakeOn
+190287,8,MissedShots,0.7330000305175781,0.5609999847412109,0.014696180820465088,Dries Mertens,h,1384,OpenPlay,2017,LeftFoot,7711,Napoli,Bologna,3,1,2018-01-28 14:00:00,,None
+190288,16,MissedShots,0.885,0.6430000305175781,0.1226881593465805,José Callejón,h,1382,OpenPlay,2017,LeftFoot,7711,Napoli,Bologna,3,1,2018-01-28 14:00:00,Dries Mertens,Throughball
+190289,17,SavedShot,0.8959999847412109,0.48400001525878905,0.13168668746948242,Allan,h,1379,OpenPlay,2017,RightFoot,7711,Napoli,Bologna,3,1,2018-01-28 14:00:00,José Callejón,Pass
+190294,36,Goal,0.885,0.5,0.7612988352775574,Dries Mertens,h,1384,Penalty,2017,RightFoot,7711,Napoli,Bologna,3,1,2018-01-28 14:00:00,,Standard
+190295,48,BlockedShot,0.7980000305175782,0.725999984741211,0.05860334634780884,Dries Mertens,h,1384,DirectFreekick,2017,RightFoot,7711,Napoli,Bologna,3,1,2018-01-28 14:00:00,,Standard
+190296,55,SavedShot,0.86,0.685,0.04802354797720909,Marek Hamsik,h,1381,OpenPlay,2017,LeftFoot,7711,Napoli,Bologna,3,1,2018-01-28 14:00:00,Lorenzo Insigne,Pass
+190297,58,Goal,0.8580000305175781,0.7340000152587891,0.06128162145614624,Dries Mertens,h,1384,OpenPlay,2017,RightFoot,7711,Napoli,Bologna,3,1,2018-01-28 14:00:00,Lorenzo Insigne,Pass
+190301,72,MissedShots,0.8069999694824219,0.5670000076293945,0.058881208300590515,Allan,h,1379,OpenPlay,2017,RightFoot,7711,Napoli,Bologna,3,1,2018-01-28 14:00:00,Piotr Zielinski,Pass
+190284,0,Goal,0.955999984741211,0.46,0.6370107531547546,Rodrigo Palacio,a,1518,OpenPlay,2017,Head,7711,Napoli,Bologna,3,1,2018-01-28 14:00:00,Federico Di Francesco,Cross
+190285,4,OwnGoal,0.006000000238418579,0.534000015258789,0,Ibrahima Mbaye,a,1458,FromCorner,2017,LeftFoot,7711,Napoli,Bologna,3,1,2018-01-28 14:00:00,,Clearance
+190290,21,BlockedShot,0.904000015258789,0.6509999847412109,0.08247139304876328,Rodrigo Palacio,a,1518,OpenPlay,2017,RightFoot,7711,Napoli,Bologna,3,1,2018-01-28 14:00:00,Federico Di Francesco,Pass
+190291,21,BlockedShot,0.95,0.40700000762939453,0.12610968947410583,Blerim Dzemaili,a,1444,OpenPlay,2017,RightFoot,7711,Napoli,Bologna,3,1,2018-01-28 14:00:00,,Rebound
+190292,26,BlockedShot,0.7780000305175782,0.6509999847412109,0.020261304453015327,Adam Masina,a,1441,OpenPlay,2017,LeftFoot,7711,Napoli,Bologna,3,1,2018-01-28 14:00:00,Ibrahima Mbaye,Foul
+190293,26,SavedShot,0.93,0.5640000152587891,0.10629791766405106,Rodrigo Palacio,a,1518,OpenPlay,2017,RightFoot,7711,Napoli,Bologna,3,1,2018-01-28 14:00:00,Erick Pulgar,Chipped
+190298,59,SavedShot,0.759000015258789,0.4520000076293945,0.022633453831076622,Blerim Dzemaili,a,1444,OpenPlay,2017,RightFoot,7711,Napoli,Bologna,3,1,2018-01-28 14:00:00,Federico Di Francesco,Pass
+190299,63,MissedShots,0.905,0.47200000762939454,0.0682416632771492,Sebastien De Maio,a,1431,FromCorner,2017,Head,7711,Napoli,Bologna,3,1,2018-01-28 14:00:00,Erick Pulgar,Cross
+190300,71,SavedShot,0.6980000305175781,0.6790000152587891,0.007719692774116993,Erick Pulgar,a,1448,OpenPlay,2017,RightFoot,7711,Napoli,Bologna,3,1,2018-01-28 14:00:00,Ladislav Krejci,Pass
+190302,88,BlockedShot,0.7709999847412109,0.23100000381469726,0.03950626775622368,Erick Pulgar,a,1448,DirectFreekick,2017,RightFoot,7711,Napoli,Bologna,3,1,2018-01-28 14:00:00,,Standard

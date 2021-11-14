@@ -1,0 +1,32 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+259626,11,MissedShots,0.8009999847412109,0.34700000762939454,0.0232634749263525,Álex Granell,h,6116,FromCorner,2018,LeftFoot,10090,Girona,Atletico Madrid,1,1,2018-12-02 15:15:00,,None
+259627,15,BlockedShot,0.7319999694824219,0.6079999923706054,0.012282065115869045,Aleix García,h,1055,OpenPlay,2018,RightFoot,10090,Girona,Atletico Madrid,1,1,2018-12-02 15:15:00,,None
+259628,17,MissedShots,0.76,0.6370000076293946,0.06649363040924072,Aleix García,h,1055,DirectFreekick,2018,RightFoot,10090,Girona,Atletico Madrid,1,1,2018-12-02 15:15:00,,Standard
+259629,20,BlockedShot,0.730999984741211,0.6509999847412109,0.016434552147984505,Álex Granell,h,6116,OpenPlay,2018,LeftFoot,10090,Girona,Atletico Madrid,1,1,2018-12-02 15:15:00,Pedro Porro,Pass
+259630,22,BlockedShot,0.7780000305175782,0.32799999237060545,0.02373492531478405,Cristhian Stuani,h,1709,OpenPlay,2018,RightFoot,10090,Girona,Atletico Madrid,1,1,2018-12-02 15:15:00,Pedro Porro,Pass
+259632,26,MissedShots,0.885,0.55,0.08050867915153503,Cristhian Stuani,h,1709,FromCorner,2018,RightFoot,10090,Girona,Atletico Madrid,1,1,2018-12-02 15:15:00,,None
+259638,43,MissedShots,0.9490000152587891,0.655,0.008444294333457947,Cristhian Stuani,h,1709,SetPiece,2018,Head,10090,Girona,Atletico Madrid,1,1,2018-12-02 15:15:00,Aleix García,Aerial
+259639,43,MissedShots,0.9969999694824219,0.4329999923706055,0.016203761100769043,Bernardo,h,1716,SetPiece,2018,Head,10090,Girona,Atletico Madrid,1,1,2018-12-02 15:15:00,Cristhian Stuani,Rebound
+259640,46,Goal,0.885,0.5,0.7431496977806091,Cristhian Stuani,h,1709,Penalty,2018,RightFoot,10090,Girona,Atletico Madrid,1,1,2018-12-02 15:15:00,,Standard
+259642,52,SavedShot,0.9619999694824218,0.6759999847412109,0.07309301942586899,Álex Granell,h,6116,OpenPlay,2018,LeftFoot,10090,Girona,Atletico Madrid,1,1,2018-12-02 15:15:00,Patrick Roberts,Pass
+259643,54,MissedShots,0.7469999694824219,0.39099998474121095,0.06266728043556213,Álex Granell,h,6116,DirectFreekick,2018,LeftFoot,10090,Girona,Atletico Madrid,1,1,2018-12-02 15:15:00,,Standard
+259649,82,OwnGoal,0.14699999809265138,0.48700000762939455,0,Jonás Ramalho,h,6243,OpenPlay,2018,RightFoot,10090,Girona,Atletico Madrid,1,1,2018-12-02 15:15:00,,Dispossessed
+259650,89,SavedShot,0.8830000305175781,0.44099998474121094,0.051179829984903336,Jonás Ramalho,h,6243,SetPiece,2018,Head,10090,Girona,Atletico Madrid,1,1,2018-12-02 15:15:00,Álex Granell,Cross
+259654,95,BlockedShot,0.8590000152587891,0.725999984741211,0.030495068058371544,Valery Fernández,h,7246,OpenPlay,2018,RightFoot,10090,Girona,Atletico Madrid,1,1,2018-12-02 15:15:00,Borja,Pass
+259624,4,SavedShot,0.7440000152587891,0.6430000305175781,0.019548237323760986,Antoine Griezmann,a,2270,OpenPlay,2018,RightFoot,10090,Girona,Atletico Madrid,1,1,2018-12-02 15:15:00,Thomas Partey,Pass
+259625,5,MissedShots,0.97,0.4470000076293945,0.08439956605434418,Antoine Griezmann,a,2270,FromCorner,2018,Head,10090,Girona,Atletico Madrid,1,1,2018-12-02 15:15:00,Thomas Partey,Aerial
+259631,23,BlockedShot,0.8130000305175781,0.705,0.025289086624979973,Diego Costa,a,802,OpenPlay,2018,RightFoot,10090,Girona,Atletico Madrid,1,1,2018-12-02 15:15:00,Antoine Griezmann,Pass
+259633,28,MissedShots,0.730999984741211,0.3629999923706055,0.019460750743746758,Thomas Partey,a,2328,OpenPlay,2018,RightFoot,10090,Girona,Atletico Madrid,1,1,2018-12-02 15:15:00,Koke,Pass
+259634,29,BlockedShot,0.815,0.69,0.027838977053761482,Antoine Griezmann,a,2270,OpenPlay,2018,LeftFoot,10090,Girona,Atletico Madrid,1,1,2018-12-02 15:15:00,Thomas Lemar,Pass
+259635,29,BlockedShot,0.8019999694824219,0.6880000305175781,0.02523626945912838,Koke,a,2269,OpenPlay,2018,RightFoot,10090,Girona,Atletico Madrid,1,1,2018-12-02 15:15:00,Antoine Griezmann,Pass
+259636,32,ShotOnPost,0.915,0.5570000076293945,0.4813860356807709,Saúl Ñíguez,a,2266,OpenPlay,2018,LeftFoot,10090,Girona,Atletico Madrid,1,1,2018-12-02 15:15:00,Antoine Griezmann,Pass
+259637,35,MissedShots,0.9390000152587891,0.47,0.1360124796628952,Rodri,a,2496,FromCorner,2018,RightFoot,10090,Girona,Atletico Madrid,1,1,2018-12-02 15:15:00,Antoine Griezmann,Pass
+259641,48,MissedShots,0.725999984741211,0.54,0.018671514466404915,Thomas Partey,a,2328,OpenPlay,2018,RightFoot,10090,Girona,Atletico Madrid,1,1,2018-12-02 15:15:00,Rodri,Pass
+259644,65,BlockedShot,0.755,0.45799999237060546,0.02633558213710785,Antoine Griezmann,a,2270,OpenPlay,2018,LeftFoot,10090,Girona,Atletico Madrid,1,1,2018-12-02 15:15:00,Koke,Pass
+259645,73,MissedShots,0.6709999847412109,0.8530000305175781,0.008209177292883396,Ángel Correa,a,2275,OpenPlay,2018,RightFoot,10090,Girona,Atletico Madrid,1,1,2018-12-02 15:15:00,,BallRecovery
+259646,75,BlockedShot,0.855999984741211,0.27399999618530274,0.03017440065741539,Ángel Correa,a,2275,OpenPlay,2018,RightFoot,10090,Girona,Atletico Madrid,1,1,2018-12-02 15:15:00,Gelson Martins,Pass
+259647,76,SavedShot,0.9359999847412109,0.46799999237060547,0.5290973782539368,Saúl Ñíguez,a,2266,SetPiece,2018,LeftFoot,10090,Girona,Atletico Madrid,1,1,2018-12-02 15:15:00,Ángel Correa,HeadPass
+259648,78,MissedShots,0.9290000152587891,0.3240000152587891,0.057247623801231384,Gelson Martins,a,7012,OpenPlay,2018,RightFoot,10090,Girona,Atletico Madrid,1,1,2018-12-02 15:15:00,Ángel Correa,Pass
+259651,91,MissedShots,0.7219999694824218,0.605999984741211,0.016456149518489838,Thomas Partey,a,2328,OpenPlay,2018,RightFoot,10090,Girona,Atletico Madrid,1,1,2018-12-02 15:15:00,Antoine Griezmann,Pass
+259652,92,SavedShot,0.8959999847412109,0.3340000152587891,0.06769018620252609,Gelson Martins,a,7012,OpenPlay,2018,RightFoot,10090,Girona,Atletico Madrid,1,1,2018-12-02 15:15:00,,Dispossessed
+259653,94,BlockedShot,0.7719999694824219,0.45599998474121095,0.030940037220716476,Antoine Griezmann,a,2270,OpenPlay,2018,LeftFoot,10090,Girona,Atletico Madrid,1,1,2018-12-02 15:15:00,Thomas Partey,Pass

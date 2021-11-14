@@ -1,0 +1,31 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+95472,3,SavedShot,0.764000015258789,0.7380000305175781,0.008919505402445793,Nicola Sansone,h,1826,OpenPlay,2015,RightFoot,771,Sassuolo,Roma,0,2,2016-02-02 23:45:00,Domenico Berardi,Chipped
+95475,25,BlockedShot,0.7780000305175782,0.22200000762939454,0.01124387513846159,Domenico Berardi,h,1612,OpenPlay,2015,LeftFoot,771,Sassuolo,Roma,0,2,2016-02-02 23:45:00,Paolo Cannavaro,Chipped
+95476,27,MissedShots,0.9219999694824219,0.495,0.10775618255138397,Nicola Sansone,h,1826,OpenPlay,2015,RightFoot,771,Sassuolo,Roma,0,2,2016-02-02 23:45:00,Davide Biondini,Cross
+95480,36,MissedShots,0.7569999694824219,0.3120000076293945,0.010114653035998344,Domenico Berardi,h,1612,OpenPlay,2015,LeftFoot,771,Sassuolo,Roma,0,2,2016-02-02 23:45:00,Francesco Magnanelli,Chipped
+95481,37,SavedShot,0.7769999694824219,0.3220000076293945,0.018550612032413483,Marcello Trotta,h,1369,OpenPlay,2015,LeftFoot,771,Sassuolo,Roma,0,2,2016-02-02 23:45:00,Domenico Berardi,BallRecovery
+95484,48,SavedShot,0.755,0.59,0.0194691214710474,Nicola Sansone,h,1826,OpenPlay,2015,RightFoot,771,Sassuolo,Roma,0,2,2016-02-02 23:45:00,Marcello Trotta,TakeOn
+95486,51,SavedShot,0.8540000152587891,0.3,0.03418552875518799,Domenico Berardi,h,1612,OpenPlay,2015,LeftFoot,771,Sassuolo,Roma,0,2,2016-02-02 23:45:00,,None
+95487,53,MissedShots,0.7140000152587891,0.5309999847412109,0.015647346153855324,Alfred Duncan,h,1474,OpenPlay,2015,LeftFoot,771,Sassuolo,Roma,0,2,2016-02-02 23:45:00,Domenico Berardi,Pass
+95489,66,BlockedShot,0.8159999847412109,0.46299999237060546,0.05576223134994507,Davide Biondini,h,1467,OpenPlay,2015,RightFoot,771,Sassuolo,Roma,0,2,2016-02-02 23:45:00,Domenico Berardi,Pass
+95490,68,SavedShot,0.895,0.5029999923706054,0.06448958069086075,Domenico Berardi,h,1612,OpenPlay,2015,Head,771,Sassuolo,Roma,0,2,2016-02-02 23:45:00,Federico Peluso,Cross
+95491,74,BlockedShot,0.874000015258789,0.6580000305175782,0.05898795276880264,Nicola Sansone,h,1826,OpenPlay,2015,RightFoot,771,Sassuolo,Roma,0,2,2016-02-02 23:45:00,Alfred Duncan,Pass
+95495,84,SavedShot,0.8380000305175781,0.46700000762939453,0.05556213855743408,Francesco Acerbi,h,1463,OpenPlay,2015,LeftFoot,771,Sassuolo,Roma,0,2,2016-02-02 23:45:00,,None
+95496,85,BlockedShot,0.8859999847412109,0.725999984741211,0.0350361168384552,Matteo Politano,h,1473,OpenPlay,2015,LeftFoot,771,Sassuolo,Roma,0,2,2016-02-02 23:45:00,,None
+95497,85,MissedShots,0.6990000152587891,0.47200000762939454,0.014578009955585003,Paolo Cannavaro,h,1462,OpenPlay,2015,RightFoot,771,Sassuolo,Roma,0,2,2016-02-02 23:45:00,Federico Peluso,Pass
+95498,87,ShotOnPost,0.885,0.5,0.7612988352775574,Domenico Berardi,h,1612,Penalty,2015,LeftFoot,771,Sassuolo,Roma,0,2,2016-02-02 23:45:00,,Standard
+95499,92,BlockedShot,0.725999984741211,0.5120000076293946,0.04969936981797218,Nicola Sansone,h,1826,DirectFreekick,2015,RightFoot,771,Sassuolo,Roma,0,2,2016-02-02 23:45:00,,Standard
+95500,92,MissedShots,0.9519999694824218,0.549000015258789,0.07016468048095703,Federico Peluso,h,1464,FromCorner,2015,Head,771,Sassuolo,Roma,0,2,2016-02-02 23:45:00,Nicola Sansone,Aerial
+95473,10,Goal,0.7930000305175782,0.3129999923706055,0.02558012679219246,Mohamed Salah,a,1250,OpenPlay,2015,LeftFoot,771,Sassuolo,Roma,0,2,2016-02-02 23:45:00,Miralem Pjanic,Pass
+95474,22,BlockedShot,0.88,0.375,0.04277369752526283,Radja Nainggolan,a,1251,FromCorner,2015,RightFoot,771,Sassuolo,Roma,0,2,2016-02-02 23:45:00,Miralem Pjanic,Cross
+95477,30,MissedShots,0.87,0.41,0.455899715423584,Maicon,a,1824,OpenPlay,2015,RightFoot,771,Sassuolo,Roma,0,2,2016-02-02 23:45:00,Mohamed Salah,Pass
+95478,32,MissedShots,0.9719999694824218,0.4640000152587891,0.7852510213851929,Stephan El Shaarawy,a,1252,OpenPlay,2015,RightFoot,771,Sassuolo,Roma,0,2,2016-02-02 23:45:00,Mohamed Salah,Pass
+95479,35,BlockedShot,0.85,0.35200000762939454,0.08711855858564377,Mohamed Salah,a,1250,OpenPlay,2015,LeftFoot,771,Sassuolo,Roma,0,2,2016-02-02 23:45:00,,TakeOn
+95482,39,BlockedShot,0.7819999694824219,0.705,0.0194875318557024,Stephan El Shaarawy,a,1252,FromCorner,2015,RightFoot,771,Sassuolo,Roma,0,2,2016-02-02 23:45:00,Miralem Pjanic,Pass
+95483,40,BlockedShot,0.7619999694824219,0.4179999923706055,0.017894849181175232,Mohamed Salah,a,1250,FromCorner,2015,LeftFoot,771,Sassuolo,Roma,0,2,2016-02-02 23:45:00,,None
+95485,51,MissedShots,0.7630000305175781,0.5929999923706055,0.026593424379825592,Diego Perotti,a,1539,OpenPlay,2015,RightFoot,771,Sassuolo,Roma,0,2,2016-02-02 23:45:00,Norbert Gyömbér,Pass
+95488,54,SavedShot,0.919000015258789,0.3629999923706055,0.3714783489704132,Mohamed Salah,a,1250,OpenPlay,2015,LeftFoot,771,Sassuolo,Roma,0,2,2016-02-02 23:45:00,Miralem Pjanic,TakeOn
+95492,80,BlockedShot,0.9280000305175782,0.40599998474121096,0.13605594635009766,Radja Nainggolan,a,1251,OpenPlay,2015,RightFoot,771,Sassuolo,Roma,0,2,2016-02-02 23:45:00,Mohamed Salah,Pass
+95493,80,SavedShot,0.845,0.57,0.023745441809296608,Stephan El Shaarawy,a,1252,FromCorner,2015,RightFoot,771,Sassuolo,Roma,0,2,2016-02-02 23:45:00,,Aerial
+95494,83,SavedShot,0.8469999694824218,0.29100000381469726,0.04185185208916664,William Vainqueur,a,1944,OpenPlay,2015,LeftFoot,771,Sassuolo,Roma,0,2,2016-02-02 23:45:00,Norbert Gyömbér,Pass
+95501,93,Goal,0.9369999694824219,0.47400001525878904,0.5856276750564575,Stephan El Shaarawy,a,1252,OpenPlay,2015,RightFoot,771,Sassuolo,Roma,0,2,2016-02-02 23:45:00,Diego Perotti,Pass

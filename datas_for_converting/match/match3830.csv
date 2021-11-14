@@ -1,0 +1,25 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+134956,2,Goal,0.955999984741211,0.4370000076293945,0.14435161650180817,Marco Reus,h,319,OpenPlay,2016,RightFoot,3830,Borussia Dortmund,Eintracht Frankfurt,3,1,2017-04-15 14:30:00,Christian Pulisic,Pass
+134957,6,MissedShots,0.8080000305175781,0.5129999923706055,0.06934835761785507,Nuri Sahin,h,2642,OpenPlay,2016,LeftFoot,3830,Borussia Dortmund,Eintracht Frankfurt,3,1,2017-04-15 14:30:00,Christian Pulisic,Pass
+134959,16,BlockedShot,0.775,0.3629999923706055,0.03179482743144035,Shinji Kagawa,h,321,OpenPlay,2016,LeftFoot,3830,Borussia Dortmund,Eintracht Frankfurt,3,1,2017-04-15 14:30:00,Christian Pulisic,Pass
+134960,18,SavedShot,0.9290000152587891,0.6,0.4191513955593109,Shinji Kagawa,h,321,OpenPlay,2016,LeftFoot,3830,Borussia Dortmund,Eintracht Frankfurt,3,1,2017-04-15 14:30:00,Nuri Sahin,TakeOn
+134965,33,Goal,0.8159999847412109,0.345,0.04631543532013893,Sokratis,h,371,OpenPlay,2016,RightFoot,3830,Borussia Dortmund,Eintracht Frankfurt,3,1,2017-04-15 14:30:00,Sven Bender,TakeOn
+134966,46,MissedShots,0.8919999694824219,0.4779999923706055,0.0539950430393219,Sokratis,h,371,FromCorner,2016,Head,3830,Borussia Dortmund,Eintracht Frankfurt,3,1,2017-04-15 14:30:00,Marco Reus,Cross
+134967,48,BlockedShot,0.84,0.365,0.0705665722489357,Ousmane Dembélé,h,3226,OpenPlay,2016,RightFoot,3830,Borussia Dortmund,Eintracht Frankfurt,3,1,2017-04-15 14:30:00,,Tackle
+134968,56,BlockedShot,0.8680000305175781,0.3840000152587891,0.08488492667675018,Pierre-Emerick Aubameyang,h,318,OpenPlay,2016,RightFoot,3830,Borussia Dortmund,Eintracht Frankfurt,3,1,2017-04-15 14:30:00,,None
+134969,57,MissedShots,0.9369999694824219,0.48900001525878906,0.5094746351242065,Pierre-Emerick Aubameyang,h,318,OpenPlay,2016,RightFoot,3830,Borussia Dortmund,Eintracht Frankfurt,3,1,2017-04-15 14:30:00,Ousmane Dembélé,Cross
+134971,63,BlockedShot,0.909000015258789,0.3920000076293945,0.029088066890835762,Sokratis,h,371,FromCorner,2016,Head,3830,Borussia Dortmund,Eintracht Frankfurt,3,1,2017-04-15 14:30:00,Ousmane Dembélé,Cross
+134973,78,MissedShots,0.9290000152587891,0.47299999237060547,0.4127040505409241,Pierre-Emerick Aubameyang,h,318,OpenPlay,2016,Head,3830,Borussia Dortmund,Eintracht Frankfurt,3,1,2017-04-15 14:30:00,Marcel Schmelzer,Cross
+134974,83,SavedShot,0.750999984741211,0.764000015258789,0.037207119166851044,Gonzalo Castro,h,316,DirectFreekick,2016,RightFoot,3830,Borussia Dortmund,Eintracht Frankfurt,3,1,2017-04-15 14:30:00,,Standard
+134975,85,Goal,0.899000015258789,0.44299999237060544,0.541875422000885,Pierre-Emerick Aubameyang,h,318,OpenPlay,2016,RightFoot,3830,Borussia Dortmund,Eintracht Frankfurt,3,1,2017-04-15 14:30:00,Ousmane Dembélé,Pass
+134977,90,SavedShot,0.9680000305175781,0.6419999694824219,0.09790536761283875,Shinji Kagawa,h,321,OpenPlay,2016,LeftFoot,3830,Borussia Dortmund,Eintracht Frankfurt,3,1,2017-04-15 14:30:00,Ousmane Dembélé,Pass
+134978,91,SavedShot,0.7469999694824219,0.2610000038146973,0.02130446583032608,Ousmane Dembélé,h,3226,OpenPlay,2016,RightFoot,3830,Borussia Dortmund,Eintracht Frankfurt,3,1,2017-04-15 14:30:00,Gonzalo Castro,Pass
+134958,8,MissedShots,0.9069999694824219,0.5609999847412109,0.5905237793922424,Marco Fabián,a,2661,OpenPlay,2016,RightFoot,3830,Borussia Dortmund,Eintracht Frankfurt,3,1,2017-04-15 14:30:00,Branimir Hrgota,Pass
+134961,19,MissedShots,0.875999984741211,0.5709999847412109,0.0922347828745842,Mijat Gacinovic,a,290,OpenPlay,2016,LeftFoot,3830,Borussia Dortmund,Eintracht Frankfurt,3,1,2017-04-15 14:30:00,Marius Wolf,Pass
+134962,21,SavedShot,0.92,0.46,0.12321517616510391,Mijat Gacinovic,a,290,OpenPlay,2016,LeftFoot,3830,Borussia Dortmund,Eintracht Frankfurt,3,1,2017-04-15 14:30:00,Marius Wolf,Cross
+134963,22,MissedShots,0.9169999694824219,0.4540000152587891,0.08525652438402176,David Abraham,a,283,FromCorner,2016,Head,3830,Borussia Dortmund,Eintracht Frankfurt,3,1,2017-04-15 14:30:00,Bastian Oczipka,Cross
+134964,28,Goal,0.774000015258789,0.6619999694824219,0.02144402265548706,Marco Fabián,a,2661,OpenPlay,2016,RightFoot,3830,Borussia Dortmund,Eintracht Frankfurt,3,1,2017-04-15 14:30:00,Bastian Oczipka,Pass
+134970,58,BlockedShot,0.805,0.769000015258789,0.012346677482128143,Ante Rebic,a,1852,OpenPlay,2016,RightFoot,3830,Borussia Dortmund,Eintracht Frankfurt,3,1,2017-04-15 14:30:00,David Abraham,Chipped
+134972,68,MissedShots,0.7709999847412109,0.45799999237060546,0.031009623780846596,Marco Fabián,a,2661,OpenPlay,2016,RightFoot,3830,Borussia Dortmund,Eintracht Frankfurt,3,1,2017-04-15 14:30:00,Omar Mascarell,Pass
+134976,88,MissedShots,0.720999984741211,0.575,0.009409709833562374,Danny Blum,a,5236,OpenPlay,2016,LeftFoot,3830,Borussia Dortmund,Eintracht Frankfurt,3,1,2017-04-15 14:30:00,,None
+134979,92,MissedShots,0.7319999694824219,0.47400001525878904,0.015942951664328575,Mijat Gacinovic,a,290,OpenPlay,2016,LeftFoot,3830,Borussia Dortmund,Eintracht Frankfurt,3,1,2017-04-15 14:30:00,Marco Fabián,Pass

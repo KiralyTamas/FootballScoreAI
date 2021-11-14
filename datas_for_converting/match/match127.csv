@@ -1,0 +1,18 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+57906,6,MissedShots,0.755,0.34,0.0156059879809618,Marouane Fellaini,h,630,OpenPlay,2015,RightFoot,127,Manchester United,Liverpool,3,1,2015-09-12 20:30:00,Juan Mata,Pass
+57908,24,MissedShots,0.7119999694824218,0.725999984741211,0.013276834972202778,Memphis Depay,h,555,SetPiece,2015,RightFoot,127,Manchester United,Liverpool,3,1,2015-09-12 20:30:00,Michael Carrick,Pass
+57909,45,BlockedShot,0.7759999847412109,0.6,0.02260417304933071,Ashley Young,h,631,OpenPlay,2015,RightFoot,127,Manchester United,Liverpool,3,1,2015-09-12 20:30:00,Marouane Fellaini,Pass
+57910,48,Goal,0.8480000305175781,0.48200000762939454,0.08316557109355927,Daley Blind,h,548,SetPiece,2015,LeftFoot,127,Manchester United,Liverpool,3,1,2015-09-12 20:30:00,Juan Mata,Pass
+57911,49,BlockedShot,0.7859999847412109,0.5479999923706055,0.042228952050209045,Ashley Young,h,631,OpenPlay,2015,RightFoot,127,Manchester United,Liverpool,3,1,2015-09-12 20:30:00,Matteo Darmian,Pass
+57913,60,MissedShots,0.7619999694824219,0.5579999923706055,0.07201516628265381,Ashley Young,h,631,DirectFreekick,2015,RightFoot,127,Manchester United,Liverpool,3,1,2015-09-12 20:30:00,,Standard
+57916,69,Goal,0.885,0.5,0.7611688375473022,Ander Herrera,h,552,Penalty,2015,RightFoot,127,Manchester United,Liverpool,3,1,2015-09-12 20:30:00,,Standard
+57919,78,BlockedShot,0.785,0.3240000152587891,0.021042993292212486,Marouane Fellaini,h,630,OpenPlay,2015,LeftFoot,127,Manchester United,Liverpool,3,1,2015-09-12 20:30:00,,None
+57922,85,Goal,0.9130000305175782,0.6140000152587891,0.430955171585083,Anthony Martial,h,553,OpenPlay,2015,RightFoot,127,Manchester United,Liverpool,3,1,2015-09-12 20:30:00,Ashley Young,TakeOn
+57907,18,MissedShots,0.765,0.42700000762939455,0.012655655853450298,Nathaniel Clyne,a,603,OpenPlay,2015,RightFoot,127,Manchester United,Liverpool,3,1,2015-09-12 20:30:00,,Aerial
+57912,56,SavedShot,0.91,0.565,0.08566094189882278,Danny Ings,a,986,OpenPlay,2015,LeftFoot,127,Manchester United,Liverpool,3,1,2015-09-12 20:30:00,Dejan Lovren,HeadPass
+57914,63,MissedShots,0.9640000152587891,0.5459999847412109,0.13568395376205444,Martin Skrtel,a,607,FromCorner,2015,Head,127,Manchester United,Liverpool,3,1,2015-09-12 20:30:00,James Milner,Cross
+57915,63,BlockedShot,0.9730000305175781,0.4909999847412109,0.6088742017745972,Danny Ings,a,986,FromCorner,2015,Head,127,Manchester United,Liverpool,3,1,2015-09-12 20:30:00,Martin Skrtel,None
+57917,72,MissedShots,0.7709999847412109,0.789000015258789,0.03634397312998772,James Milner,a,489,DirectFreekick,2015,RightFoot,127,Manchester United,Liverpool,3,1,2015-09-12 20:30:00,,Standard
+57918,75,MissedShots,0.919000015258789,0.41900001525878905,0.05399452894926071,Christian Benteke,a,606,OpenPlay,2015,Head,127,Manchester United,Liverpool,3,1,2015-09-12 20:30:00,James Milner,Cross
+57920,82,SavedShot,0.8619999694824219,0.28700000762939454,0.027562396600842476,Jordon Ibe,a,481,OpenPlay,2015,LeftFoot,127,Manchester United,Liverpool,3,1,2015-09-12 20:30:00,Divock Origi,Pass
+57921,83,Goal,0.8730000305175781,0.5879999923706055,0.06493999809026718,Christian Benteke,a,606,FromCorner,2015,RightFoot,127,Manchester United,Liverpool,3,1,2015-09-12 20:30:00,,None

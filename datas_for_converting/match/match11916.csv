@@ -1,0 +1,31 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+353337,2,Goal,0.8669999694824219,0.51,0.09229376912117004,Dominic Calvert-Lewin,h,5555,OpenPlay,2019,RightFoot,11916,Everton,Manchester United,1,1,2020-03-01 14:00:00,,OffsidePass
+353338,4,SavedShot,0.875999984741211,0.6719999694824219,0.3294702172279358,Dominic Calvert-Lewin,h,5555,OpenPlay,2019,RightFoot,11916,Everton,Manchester United,1,1,2020-03-01 14:00:00,Michael Keane,Chipped
+353344,17,MissedShots,0.87,0.6309999847412109,0.12067687511444092,André Gomes,h,2383,OpenPlay,2019,RightFoot,11916,Everton,Manchester United,1,1,2020-03-01 14:00:00,,TakeOn
+353348,46,MissedShots,0.93,0.5059999847412109,0.42222127318382263,Richarlison,h,6026,OpenPlay,2019,Head,11916,Everton,Manchester United,1,1,2020-03-01 14:00:00,Leighton Baines,Cross
+353350,56,ShotOnPost,0.8069999694824219,0.7419999694824219,0.05776485800743103,Gylfi Sigurdsson,h,714,DirectFreekick,2019,RightFoot,11916,Everton,Manchester United,1,1,2020-03-01 14:00:00,,Standard
+353351,56,MissedShots,0.9340000152587891,0.5820000076293945,0.46394529938697815,Richarlison,h,6026,SetPiece,2019,RightFoot,11916,Everton,Manchester United,1,1,2020-03-01 14:00:00,,Rebound
+353354,64,BlockedShot,0.8190000152587891,0.5479999923706055,0.04827569052577019,Richarlison,h,6026,OpenPlay,2019,RightFoot,11916,Everton,Manchester United,1,1,2020-03-01 14:00:00,Dominic Calvert-Lewin,BallRecovery
+353355,68,SavedShot,0.9369999694824219,0.6809999847412109,0.11165337264537811,Dominic Calvert-Lewin,h,5555,OpenPlay,2019,LeftFoot,11916,Everton,Manchester United,1,1,2020-03-01 14:00:00,Tom Davies,Chipped
+353356,71,BlockedShot,0.7769999694824219,0.5670000076293945,0.08556106686592102,Gylfi Sigurdsson,h,714,DirectFreekick,2019,RightFoot,11916,Everton,Manchester United,1,1,2020-03-01 14:00:00,,Standard
+353358,83,MissedShots,0.95,0.55,0.0884721651673317,Dominic Calvert-Lewin,h,5555,SetPiece,2019,Head,11916,Everton,Manchester United,1,1,2020-03-01 14:00:00,Leighton Baines,Aerial
+353359,83,BlockedShot,0.84,0.6040000152587891,0.04344746842980385,Tom Davies,h,1042,SetPiece,2019,LeftFoot,11916,Everton,Manchester United,1,1,2020-03-01 14:00:00,,Rebound
+353360,83,BlockedShot,0.7319999694824219,0.49400001525878906,0.013385803438723087,Djibril Sidibe,h,3357,SetPiece,2019,RightFoot,11916,Everton,Manchester United,1,1,2020-03-01 14:00:00,,Rebound
+353361,87,BlockedShot,0.845999984741211,0.5609999847412109,0.05409279838204384,Gylfi Sigurdsson,h,714,FromCorner,2019,RightFoot,11916,Everton,Manchester United,1,1,2020-03-01 14:00:00,,None
+353362,87,SavedShot,0.9,0.54,0.036376480013132095,Moise Kean,h,1304,FromCorner,2019,Head,11916,Everton,Manchester United,1,1,2020-03-01 14:00:00,Gylfi Sigurdsson,Rebound
+353365,91,SavedShot,0.895,0.4779999923706055,0.4436896741390228,Gylfi Sigurdsson,h,714,OpenPlay,2019,RightFoot,11916,Everton,Manchester United,1,1,2020-03-01 14:00:00,Richarlison,Pass
+353366,94,MissedShots,0.9369999694824219,0.5720000076293945,0.03558466583490372,Richarlison,h,6026,FromCorner,2019,Head,11916,Everton,Manchester United,1,1,2020-03-01 14:00:00,Leighton Baines,Aerial
+353339,6,ShotOnPost,0.7909999847412109,0.5779999923706055,0.03244929388165474,Nemanja Matic,a,697,OpenPlay,2019,LeftFoot,11916,Everton,Manchester United,1,1,2020-03-01 14:00:00,,None
+353340,9,MissedShots,0.8380000305175781,0.555,0.06904260069131851,Anthony Martial,a,553,OpenPlay,2019,LeftFoot,11916,Everton,Manchester United,1,1,2020-03-01 14:00:00,Luke Shaw,Pass
+353341,10,SavedShot,0.779000015258789,0.3509999847412109,0.021306609734892845,Nemanja Matic,a,697,OpenPlay,2019,LeftFoot,11916,Everton,Manchester United,1,1,2020-03-01 14:00:00,Aaron Wan-Bissaka,Pass
+353342,11,BlockedShot,0.8059999847412109,0.5129999923706055,0.03356105089187622,Fred,a,6817,FromCorner,2019,RightFoot,11916,Everton,Manchester United,1,1,2020-03-01 14:00:00,,None
+353343,16,MissedShots,0.9030000305175782,0.5459999847412109,0.07140026241540909,Mason Greenwood,a,7490,OpenPlay,2019,Head,11916,Everton,Manchester United,1,1,2020-03-01 14:00:00,Fred,Cross
+353345,19,BlockedShot,0.775,0.6669999694824219,0.021774305030703545,Luke Shaw,a,1006,OpenPlay,2019,LeftFoot,11916,Everton,Manchester United,1,1,2020-03-01 14:00:00,Bruno Fernandes,Pass
+353346,28,BlockedShot,0.8209999847412109,0.6869999694824219,0.02874556928873062,Anthony Martial,a,553,OpenPlay,2019,RightFoot,11916,Everton,Manchester United,1,1,2020-03-01 14:00:00,Nemanja Matic,Pass
+353347,30,Goal,0.7390000152587891,0.625,0.017336202785372734,Bruno Fernandes,a,1228,OpenPlay,2019,RightFoot,11916,Everton,Manchester United,1,1,2020-03-01 14:00:00,Nemanja Matic,Pass
+353349,47,MissedShots,0.8159999847412109,0.750999984741211,0.023251527920365334,Bruno Fernandes,a,1228,OpenPlay,2019,RightFoot,11916,Everton,Manchester United,1,1,2020-03-01 14:00:00,Mason Greenwood,Pass
+353352,61,BlockedShot,0.89,0.69,0.04649335518479347,Bruno Fernandes,a,1228,FromCorner,2019,RightFoot,11916,Everton,Manchester United,1,1,2020-03-01 14:00:00,Luke Shaw,Pass
+353353,61,MissedShots,0.815,0.710999984741211,0.025553051382303238,Bruno Fernandes,a,1228,OpenPlay,2019,RightFoot,11916,Everton,Manchester United,1,1,2020-03-01 14:00:00,Luke Shaw,Pass
+353357,79,SavedShot,0.7859999847412109,0.55,0.042430657893419266,Bruno Fernandes,a,1228,OpenPlay,2019,LeftFoot,11916,Everton,Manchester United,1,1,2020-03-01 14:00:00,Odion Ighalo,LayOff
+353363,89,SavedShot,0.93,0.6079999923706054,0.11447327584028244,Bruno Fernandes,a,1228,OpenPlay,2019,RightFoot,11916,Everton,Manchester United,1,1,2020-03-01 14:00:00,Juan Mata,Pass
+353364,89,SavedShot,0.955999984741211,0.46599998474121096,0.6524890661239624,Odion Ighalo,a,573,OpenPlay,2019,LeftFoot,11916,Everton,Manchester United,1,1,2020-03-01 14:00:00,,Rebound

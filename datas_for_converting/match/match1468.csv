@@ -1,0 +1,28 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+85226,4,MissedShots,0.965999984741211,0.6509999847412109,0.07337778806686401,Ángel Correa,h,2275,OpenPlay,2015,LeftFoot,1468,Atletico Madrid,Real Madrid,1,1,2015-10-04 22:30:00,Óliver Torres,BallTouch
+85229,10,MissedShots,0.899000015258789,0.30700000762939456,0.04982668161392212,Ángel Correa,h,2275,OpenPlay,2015,RightFoot,1468,Atletico Madrid,Real Madrid,1,1,2015-10-04 22:30:00,Óliver Torres,Pass
+85230,14,MissedShots,0.805,0.37900001525878907,0.052267324179410934,Ángel Correa,h,2275,OpenPlay,2015,RightFoot,1468,Atletico Madrid,Real Madrid,1,1,2015-10-04 22:30:00,Antoine Griezmann,TakeOn
+85231,16,MissedShots,0.8880000305175781,0.46,0.026408672332763672,Fernando Torres,h,2271,OpenPlay,2015,Head,1468,Atletico Madrid,Real Madrid,1,1,2015-10-04 22:30:00,Juanfran,Aerial
+85232,21,SavedShot,0.885,0.5,0.7432776093482971,Antoine Griezmann,h,2270,Penalty,2015,LeftFoot,1468,Atletico Madrid,Real Madrid,1,1,2015-10-04 22:30:00,,Standard
+85233,22,MissedShots,0.9069999694824219,0.45599998474121095,0.026532797142863274,Giménez,h,2278,FromCorner,2015,Head,1468,Atletico Madrid,Real Madrid,1,1,2015-10-04 22:30:00,Gabi,Aerial
+85236,49,MissedShots,0.925,0.3160000038146973,0.05415881425142288,Fernando Torres,h,2271,OpenPlay,2015,RightFoot,1468,Atletico Madrid,Real Madrid,1,1,2015-10-04 22:30:00,Ángel Correa,Pass
+85238,51,BlockedShot,0.8319999694824218,0.4370000076293945,0.053399279713630676,Ángel Correa,h,2275,OpenPlay,2015,LeftFoot,1468,Atletico Madrid,Real Madrid,1,1,2015-10-04 22:30:00,,None
+85239,54,BlockedShot,0.7380000305175781,0.485,0.017075153067708015,Gabi,h,2268,OpenPlay,2015,RightFoot,1468,Atletico Madrid,Real Madrid,1,1,2015-10-04 22:30:00,,None
+85240,59,BlockedShot,0.8930000305175781,0.45599998474121095,0.07728084921836853,Fernando Torres,h,2271,SetPiece,2015,RightFoot,1468,Atletico Madrid,Real Madrid,1,1,2015-10-04 22:30:00,Giménez,HeadPass
+85241,59,BlockedShot,0.8530000305175781,0.55,0.06358296424150467,Diego Godín,h,2264,SetPiece,2015,RightFoot,1468,Atletico Madrid,Real Madrid,1,1,2015-10-04 22:30:00,,None
+85242,73,BlockedShot,0.8059999847412109,0.495,0.05120833218097687,Luciano Vietto,h,2274,OpenPlay,2015,RightFoot,1468,Atletico Madrid,Real Madrid,1,1,2015-10-04 22:30:00,Antoine Griezmann,Pass
+85245,80,MissedShots,0.92,0.42200000762939455,0.08723483979701996,Luciano Vietto,h,2274,OpenPlay,2015,Head,1468,Atletico Madrid,Real Madrid,1,1,2015-10-04 22:30:00,Yannick Carrasco,Cross
+85246,82,SavedShot,0.965999984741211,0.5690000152587891,0.10117553174495697,Antoine Griezmann,h,2270,OpenPlay,2015,LeftFoot,1468,Atletico Madrid,Real Madrid,1,1,2015-10-04 22:30:00,Jackson Martínez,Cross
+85247,82,Goal,0.975999984741211,0.5070000076293946,0.9191628694534302,Luciano Vietto,h,2274,OpenPlay,2015,RightFoot,1468,Atletico Madrid,Real Madrid,1,1,2015-10-04 22:30:00,,Rebound
+85248,89,BlockedShot,0.725,0.6619999694824219,0.014799859374761581,Gabi,h,2268,SetPiece,2015,RightFoot,1468,Atletico Madrid,Real Madrid,1,1,2015-10-04 22:30:00,Filipe Luis,Pass
+85249,90,SavedShot,0.8130000305175781,0.5359999847412109,0.051532454788684845,Jackson Martínez,h,2548,OpenPlay,2015,RightFoot,1468,Atletico Madrid,Real Madrid,1,1,2015-10-04 22:30:00,,None
+85250,91,BlockedShot,0.8880000305175781,0.48,0.017775269225239754,Giménez,h,2278,FromCorner,2015,Head,1468,Atletico Madrid,Real Madrid,1,1,2015-10-04 22:30:00,Gabi,Aerial
+85225,2,MissedShots,0.8880000305175781,0.5179999923706055,0.06932350993156433,Cristiano Ronaldo,a,2371,OpenPlay,2015,Head,1468,Atletico Madrid,Real Madrid,1,1,2015-10-04 22:30:00,Luka Modric,Cross
+85227,6,BlockedShot,0.77,0.3160000038146973,0.015069274231791496,Toni Kroos,a,2369,OpenPlay,2015,RightFoot,1468,Atletico Madrid,Real Madrid,1,1,2015-10-04 22:30:00,,None
+85228,8,Goal,0.9269999694824219,0.5129999923706055,0.42225366830825806,Karim Benzema,a,2370,OpenPlay,2015,Head,1468,Atletico Madrid,Real Madrid,1,1,2015-10-04 22:30:00,Daniel Carvajal,Cross
+85234,32,MissedShots,0.87,0.395,0.09752100706100464,Cristiano Ronaldo,a,2371,OpenPlay,2015,LeftFoot,1468,Atletico Madrid,Real Madrid,1,1,2015-10-04 22:30:00,Isco,Pass
+85235,37,MissedShots,0.7119999694824218,0.24700000762939453,0.031630028039216995,Cristiano Ronaldo,a,2371,DirectFreekick,2015,RightFoot,1468,Atletico Madrid,Real Madrid,1,1,2015-10-04 22:30:00,,Standard
+85237,50,MissedShots,0.8830000305175781,0.7169999694824218,0.04435240477323532,Cristiano Ronaldo,a,2371,OpenPlay,2015,LeftFoot,1468,Atletico Madrid,Real Madrid,1,1,2015-10-04 22:30:00,Marcelo,Pass
+85243,74,MissedShots,0.850999984741211,0.3,0.05646595358848572,Cristiano Ronaldo,a,2371,OpenPlay,2015,LeftFoot,1468,Atletico Madrid,Real Madrid,1,1,2015-10-04 22:30:00,Toni Kroos,Pass
+85244,77,MissedShots,0.7290000152587891,0.5070000076293946,0.022902684286236763,Luka Modric,a,2250,OpenPlay,2015,RightFoot,1468,Atletico Madrid,Real Madrid,1,1,2015-10-04 22:30:00,Mateo Kovacic,Pass
+85251,91,SavedShot,0.7380000305175781,0.6719999694824219,0.032498568296432495,Cristiano Ronaldo,a,2371,OpenPlay,2015,RightFoot,1468,Atletico Madrid,Real Madrid,1,1,2015-10-04 22:30:00,Luka Modric,Pass

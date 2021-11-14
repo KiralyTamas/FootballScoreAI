@@ -1,0 +1,34 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+31864,3,Goal,0.8180000305175781,0.4329999923706055,0.05995071306824684,Marc Vucinovic,h,4295,OpenPlay,2014,LeftFoot,5194,Paderborn,VfB Stuttgart,1,2,2015-05-23 14:30:00,Srdjan Lakic,Pass
+31871,30,SavedShot,0.91,0.5129999923706055,0.08107919245958328,Christian Strohdiek,h,4268,SetPiece,2014,Head,5194,Paderborn,VfB Stuttgart,1,2,2015-05-23 14:30:00,Mario Vrancic,Chipped
+31872,32,MissedShots,0.7759999847412109,0.8240000152587891,0.011763046495616436,Moritz Stoppelkamp,h,4296,OpenPlay,2014,RightFoot,5194,Paderborn,VfB Stuttgart,1,2,2015-05-23 14:30:00,,None
+31877,47,MissedShots,0.5920000076293945,0.14399999618530274,0.008466976694762707,Moritz Stoppelkamp,h,4296,OpenPlay,2014,RightFoot,5194,Paderborn,VfB Stuttgart,1,2,2015-05-23 14:30:00,Mario Vrancic,Pass
+31878,49,SavedShot,0.8769999694824219,0.720999984741211,0.03937557339668274,Moritz Stoppelkamp,h,4296,OpenPlay,2014,RightFoot,5194,Paderborn,VfB Stuttgart,1,2,2015-05-23 14:30:00,Lukas Rupp,Pass
+31883,62,MissedShots,0.905,0.44799999237060545,0.03330456092953682,Uwe Hünemeier,h,4258,SetPiece,2014,Head,5194,Paderborn,VfB Stuttgart,1,2,2015-05-23 14:30:00,Mario Vrancic,Aerial
+31885,65,BlockedShot,0.735,0.720999984741211,0.010210196487605572,Moritz Stoppelkamp,h,4296,OpenPlay,2014,RightFoot,5194,Paderborn,VfB Stuttgart,1,2,2015-05-23 14:30:00,,None
+31886,66,MissedShots,0.805,0.6859999847412109,0.028333229944109917,Elias Kachunga,h,248,OpenPlay,2014,RightFoot,5194,Paderborn,VfB Stuttgart,1,2,2015-05-23 14:30:00,Lukas Rupp,Pass
+31889,71,SavedShot,0.815,0.485,0.05976540222764015,Elias Kachunga,h,248,OpenPlay,2014,LeftFoot,5194,Paderborn,VfB Stuttgart,1,2,2015-05-23 14:30:00,Christian Strohdiek,TakeOn
+31891,75,BlockedShot,0.7919999694824219,0.43099998474121093,0.03361702337861061,Moritz Stoppelkamp,h,4296,OpenPlay,2014,RightFoot,5194,Paderborn,VfB Stuttgart,1,2,2015-05-23 14:30:00,Süleyman Koc,Pass
+31892,82,SavedShot,0.9059999847412109,0.4929999923706055,0.04826964810490608,Uwe Hünemeier,h,4258,SetPiece,2014,Head,5194,Paderborn,VfB Stuttgart,1,2,2015-05-23 14:30:00,Mario Vrancic,Aerial
+31893,87,BlockedShot,0.9619999694824218,0.605999984741211,0.0801522359251976,Elias Kachunga,h,248,SetPiece,2014,LeftFoot,5194,Paderborn,VfB Stuttgart,1,2,2015-05-23 14:30:00,Moritz Stoppelkamp,Chipped
+31894,87,BlockedShot,0.7759999847412109,0.72,0.017363132908940315,Lukas Rupp,h,62,SetPiece,2014,RightFoot,5194,Paderborn,VfB Stuttgart,1,2,2015-05-23 14:30:00,Uwe Hünemeier,Pass
+31895,87,MissedShots,0.76,0.3060000038146973,0.012783869169652462,Moritz Stoppelkamp,h,4296,SetPiece,2014,RightFoot,5194,Paderborn,VfB Stuttgart,1,2,2015-05-23 14:30:00,,Rebound
+31896,89,MissedShots,0.775,0.28100000381469725,0.01458458136767149,Jens Wemmer,h,4261,OpenPlay,2014,RightFoot,5194,Paderborn,VfB Stuttgart,1,2,2015-05-23 14:30:00,,None
+31865,4,BlockedShot,0.7580000305175781,0.6370000076293946,0.020956113934516907,Daniel Didavi,a,300,OpenPlay,2014,LeftFoot,5194,Paderborn,VfB Stuttgart,1,2,2015-05-23 14:30:00,Filip Kostic,TakeOn
+31866,12,BlockedShot,0.745,0.6309999847412109,0.01888381689786911,Daniel Didavi,a,300,OpenPlay,2014,RightFoot,5194,Paderborn,VfB Stuttgart,1,2,2015-05-23 14:30:00,Christian Gentner,Pass
+31867,12,MissedShots,0.919000015258789,0.4,0.06259825825691223,Martin Harnik,a,407,OpenPlay,2014,Head,5194,Paderborn,VfB Stuttgart,1,2,2015-05-23 14:30:00,Filip Kostic,Cross
+31868,14,MissedShots,0.8969999694824219,0.3240000152587891,0.050715237855911255,Daniel Didavi,a,300,OpenPlay,2014,LeftFoot,5194,Paderborn,VfB Stuttgart,1,2,2015-05-23 14:30:00,Christian Gentner,Pass
+31869,20,MissedShots,0.72,0.44,0.014163131825625896,Antonio Rüdiger,a,1822,OpenPlay,2014,RightFoot,5194,Paderborn,VfB Stuttgart,1,2,2015-05-23 14:30:00,Florian Klein,HeadPass
+31870,28,SavedShot,0.8480000305175781,0.4209999847412109,0.0872531533241272,Daniel Ginczek,a,426,OpenPlay,2014,LeftFoot,5194,Paderborn,VfB Stuttgart,1,2,2015-05-23 14:30:00,Filip Kostic,TakeOn
+31873,35,Goal,0.850999984741211,0.5479999923706055,0.06057494133710861,Daniel Didavi,a,300,OpenPlay,2014,LeftFoot,5194,Paderborn,VfB Stuttgart,1,2,2015-05-23 14:30:00,,None
+31874,37,MissedShots,0.9690000152587891,0.4420000076293945,0.551498532295227,Martin Harnik,a,407,OpenPlay,2014,RightFoot,5194,Paderborn,VfB Stuttgart,1,2,2015-05-23 14:30:00,Filip Kostic,Cross
+31875,41,BlockedShot,0.7580000305175781,0.5779999923706055,0.021749405190348625,Geoffroy Serey Dié,a,61,OpenPlay,2014,RightFoot,5194,Paderborn,VfB Stuttgart,1,2,2015-05-23 14:30:00,Daniel Ginczek,Pass
+31876,44,MissedShots,0.925,0.43099998474121093,0.4548828601837158,Daniel Ginczek,a,426,OpenPlay,2014,RightFoot,5194,Paderborn,VfB Stuttgart,1,2,2015-05-23 14:30:00,Daniel Schwaab,TakeOn
+31879,52,MissedShots,0.7769999694824219,0.735999984741211,0.012449660338461399,Daniel Didavi,a,300,OpenPlay,2014,LeftFoot,5194,Paderborn,VfB Stuttgart,1,2,2015-05-23 14:30:00,Daniel Ginczek,TakeOn
+31880,54,BlockedShot,0.8830000305175781,0.33099998474121095,0.06262805312871933,Daniel Ginczek,a,426,OpenPlay,2014,RightFoot,5194,Paderborn,VfB Stuttgart,1,2,2015-05-23 14:30:00,Martin Harnik,Pass
+31881,57,BlockedShot,0.9169999694824219,0.7019999694824218,0.04336632788181305,Filip Kostic,a,64,OpenPlay,2014,LeftFoot,5194,Paderborn,VfB Stuttgart,1,2,2015-05-23 14:30:00,Geoffroy Serey Dié,TakeOn
+31882,57,MissedShots,0.86,0.45099998474121095,0.0997256487607956,Christian Gentner,a,60,OpenPlay,2014,LeftFoot,5194,Paderborn,VfB Stuttgart,1,2,2015-05-23 14:30:00,Martin Harnik,Pass
+31884,64,MissedShots,0.9790000152587891,0.40299999237060546,0.14047981798648834,Martin Harnik,a,407,OpenPlay,2014,RightFoot,5194,Paderborn,VfB Stuttgart,1,2,2015-05-23 14:30:00,Filip Kostic,Pass
+31887,67,BlockedShot,0.6969999694824218,0.3390000152587891,0.010571056045591831,Geoffroy Serey Dié,a,61,FromCorner,2014,RightFoot,5194,Paderborn,VfB Stuttgart,1,2,2015-05-23 14:30:00,,TakeOn
+31888,69,BlockedShot,0.8169999694824219,0.4809999847412109,0.058959417045116425,Filip Kostic,a,64,OpenPlay,2014,LeftFoot,5194,Paderborn,VfB Stuttgart,1,2,2015-05-23 14:30:00,Alexandru Maxim,TakeOn
+31890,71,Goal,0.97,0.56,0.6571045517921448,Daniel Ginczek,a,426,OpenPlay,2014,LeftFoot,5194,Paderborn,VfB Stuttgart,1,2,2015-05-23 14:30:00,Alexandru Maxim,Pass

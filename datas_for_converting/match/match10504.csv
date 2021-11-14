@@ -1,0 +1,37 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+278582,1,BlockedShot,0.8519999694824218,0.4209999847412109,0.06647387892007828,Mike Frantz,h,4246,OpenPlay,2018,RightFoot,10504,Freiburg,Hoffenheim,2,4,2019-01-26 14:30:00,,None
+278583,6,MissedShots,0.8019999694824219,0.26799999237060546,0.019461341202259064,Lucas Höler,h,6475,OpenPlay,2018,RightFoot,10504,Freiburg,Hoffenheim,2,4,2019-01-26 14:30:00,Alexander Schwolow,Pass
+278586,21,BlockedShot,0.7759999847412109,0.29100000381469726,0.019227206707000732,Pascal Stenzel,h,326,OpenPlay,2018,RightFoot,10504,Freiburg,Hoffenheim,2,4,2019-01-26 14:30:00,Janik Haberer,Pass
+278587,22,MissedShots,0.9540000152587891,0.555,0.13661405444145203,Robin Koch,h,6273,FromCorner,2018,RightFoot,10504,Freiburg,Hoffenheim,2,4,2019-01-26 14:30:00,Nils Petersen,Chipped
+278589,27,MissedShots,0.8969999694824219,0.6659999847412109,0.05640964210033417,Lucas Höler,h,6475,OpenPlay,2018,LeftFoot,10504,Freiburg,Hoffenheim,2,4,2019-01-26 14:30:00,Robin Koch,Pass
+278592,37,SavedShot,0.899000015258789,0.5520000076293945,0.23851412534713745,Robin Koch,h,6273,SetPiece,2018,Head,10504,Freiburg,Hoffenheim,2,4,2019-01-26 14:30:00,Christian Günter,Chipped
+278593,39,BlockedShot,0.8330000305175781,0.68,0.031243205070495605,Janik Haberer,h,4271,OpenPlay,2018,RightFoot,10504,Freiburg,Hoffenheim,2,4,2019-01-26 14:30:00,Christian Günter,Pass
+278594,41,ShotOnPost,0.9440000152587891,0.45799999237060546,0.1273149847984314,Manuel Gulde,h,5292,FromCorner,2018,Head,10504,Freiburg,Hoffenheim,2,4,2019-01-26 14:30:00,Christian Günter,Cross
+278595,41,Goal,0.965999984741211,0.5029999923706054,0.7403948307037354,Lucas Höler,h,6475,FromCorner,2018,RightFoot,10504,Freiburg,Hoffenheim,2,4,2019-01-26 14:30:00,,Rebound
+278596,43,MissedShots,0.7980000305175782,0.645,0.028591016307473183,Christian Günter,h,4243,OpenPlay,2018,LeftFoot,10504,Freiburg,Hoffenheim,2,4,2019-01-26 14:30:00,Pascal Stenzel,TakeOn
+278599,51,BlockedShot,0.8809999847412109,0.5070000076293946,0.016587907448410988,Nils Petersen,h,4248,SetPiece,2018,Head,10504,Freiburg,Hoffenheim,2,4,2019-01-26 14:30:00,Dominique Heintz,Aerial
+278600,54,BlockedShot,0.75,0.28200000762939453,0.0168437659740448,Pascal Stenzel,h,326,OpenPlay,2018,RightFoot,10504,Freiburg,Hoffenheim,2,4,2019-01-26 14:30:00,Janik Haberer,Pass
+278606,72,SavedShot,0.9159999847412109,0.5220000076293946,0.08692803233861923,Nils Petersen,h,4248,OpenPlay,2018,RightFoot,10504,Freiburg,Hoffenheim,2,4,2019-01-26 14:30:00,Florian Niederlechner,Cross
+278607,75,BlockedShot,0.8130000305175781,0.44799999237060545,0.059387318789958954,Yoric Ravet,h,6272,OpenPlay,2018,LeftFoot,10504,Freiburg,Hoffenheim,2,4,2019-01-26 14:30:00,Nils Petersen,Pass
+278608,76,Goal,0.925,0.41700000762939454,0.06321022659540176,Florian Niederlechner,h,306,FromCorner,2018,Head,10504,Freiburg,Hoffenheim,2,4,2019-01-26 14:30:00,Christian Günter,Cross
+278610,78,SavedShot,0.769000015258789,0.34700000762939454,0.01823093742132187,Gian-Luca Waldschmidt,h,294,OpenPlay,2018,LeftFoot,10504,Freiburg,Hoffenheim,2,4,2019-01-26 14:30:00,,None
+278611,78,MissedShots,0.7969999694824219,0.49599998474121093,0.031192945316433907,Mike Frantz,h,4246,FromCorner,2018,LeftFoot,10504,Freiburg,Hoffenheim,2,4,2019-01-26 14:30:00,,None
+278612,78,SavedShot,0.9340000152587891,0.41200000762939454,0.0273515023291111,Manuel Gulde,h,5292,FromCorner,2018,Head,10504,Freiburg,Hoffenheim,2,4,2019-01-26 14:30:00,Gian-Luca Waldschmidt,Aerial
+278613,79,SavedShot,0.8959999847412109,0.23,0.037569232285022736,Florian Niederlechner,h,306,FromCorner,2018,RightFoot,10504,Freiburg,Hoffenheim,2,4,2019-01-26 14:30:00,Christian Günter,Pass
+278614,79,SavedShot,0.9280000305175782,0.6869999694824219,0.04725607484579086,Nils Petersen,h,4248,FromCorner,2018,LeftFoot,10504,Freiburg,Hoffenheim,2,4,2019-01-26 14:30:00,Yoric Ravet,Pass
+278584,9,BlockedShot,0.74,0.4129999923706055,0.017976680770516396,Kerem Demirbay,a,5273,OpenPlay,2018,LeftFoot,10504,Freiburg,Hoffenheim,2,4,2019-01-26 14:30:00,Andrej Kramaric,Pass
+278585,18,Goal,0.8690000152587891,0.4279999923706055,0.36566200852394104,Joelinton,a,87,OpenPlay,2018,LeftFoot,10504,Freiburg,Hoffenheim,2,4,2019-01-26 14:30:00,,BallRecovery
+278588,25,SavedShot,0.815,0.5509999847412109,0.07407967001199722,Dennis Geiger,a,6081,OpenPlay,2018,LeftFoot,10504,Freiburg,Hoffenheim,2,4,2019-01-26 14:30:00,Kerem Demirbay,Pass
+278590,32,MissedShots,0.764000015258789,0.590999984741211,0.02230902761220932,Florian Grillitsch,a,116,SetPiece,2018,RightFoot,10504,Freiburg,Hoffenheim,2,4,2019-01-26 14:30:00,Kerem Demirbay,Pass
+278591,36,SavedShot,0.9,0.6270000076293946,0.1925238072872162,Andrej Kramaric,a,956,OpenPlay,2018,LeftFoot,10504,Freiburg,Hoffenheim,2,4,2019-01-26 14:30:00,Dennis Geiger,TakeOn
+278597,45,SavedShot,0.7609999847412109,0.5309999847412109,0.027187054976820946,Joelinton,a,87,OpenPlay,2018,RightFoot,10504,Freiburg,Hoffenheim,2,4,2019-01-26 14:30:00,Andrej Kramaric,Pass
+278598,45,MissedShots,0.7930000305175782,0.44299999237060544,0.04018190875649452,Kerem Demirbay,a,5273,OpenPlay,2018,LeftFoot,10504,Freiburg,Hoffenheim,2,4,2019-01-26 14:30:00,Ádám Szalai,Pass
+278601,58,Goal,0.885,0.5,0.75777667760849,Andrej Kramaric,a,956,Penalty,2018,RightFoot,10504,Freiburg,Hoffenheim,2,4,2019-01-26 14:30:00,,Standard
+278602,62,SavedShot,0.9269999694824219,0.5790000152587891,0.13957639038562775,Ádám Szalai,a,360,OpenPlay,2018,LeftFoot,10504,Freiburg,Hoffenheim,2,4,2019-01-26 14:30:00,Nico Schulz,Pass
+278603,65,SavedShot,0.9059999847412109,0.515,0.25527501106262207,Benjamin Hübner,a,251,SetPiece,2018,Head,10504,Freiburg,Hoffenheim,2,4,2019-01-26 14:30:00,Kerem Demirbay,Cross
+278604,69,SavedShot,0.725,0.7,0.017956336960196495,Kerem Demirbay,a,5273,OpenPlay,2018,LeftFoot,10504,Freiburg,Hoffenheim,2,4,2019-01-26 14:30:00,Florian Grillitsch,Pass
+278605,71,Goal,0.9209999847412109,0.6,0.39677488803863525,Andrej Kramaric,a,956,OpenPlay,2018,LeftFoot,10504,Freiburg,Hoffenheim,2,4,2019-01-26 14:30:00,Kerem Demirbay,Pass
+278609,77,MissedShots,0.950999984741211,0.534000015258789,0.5498396158218384,Joelinton,a,87,OpenPlay,2018,LeftFoot,10504,Freiburg,Hoffenheim,2,4,2019-01-26 14:30:00,Nico Schulz,Cross
+278615,80,SavedShot,0.960999984741211,0.605999984741211,0.29267632961273193,Kerem Demirbay,a,5273,OpenPlay,2018,LeftFoot,10504,Freiburg,Hoffenheim,2,4,2019-01-26 14:30:00,Nico Schulz,TakeOn
+278616,80,MissedShots,0.8959999847412109,0.48700000762939455,0.13813751935958862,Joelinton,a,87,OpenPlay,2018,RightFoot,10504,Freiburg,Hoffenheim,2,4,2019-01-26 14:30:00,,Rebound
+278617,84,Goal,0.77,0.6480000305175782,0.023743761703372,Kerem Demirbay,a,5273,OpenPlay,2018,LeftFoot,10504,Freiburg,Hoffenheim,2,4,2019-01-26 14:30:00,Joelinton,Pass

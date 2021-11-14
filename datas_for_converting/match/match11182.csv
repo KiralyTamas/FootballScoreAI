@@ -1,0 +1,26 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+360517,28,MissedShots,0.8159999847412109,0.4879999923706055,0.01810450293123722,Dejan Radonjic,h,7644,OpenPlay,2019,Head,11182,Krylya Sovetov Samara,FC Orenburg,1,1,2020-02-28 15:30:00,Dmitri Kabutov,Chipped
+360518,31,MissedShots,0.745999984741211,0.6659999847412109,0.019663212820887566,Anton Zinkovskiy,h,7454,OpenPlay,2019,RightFoot,11182,Krylya Sovetov Samara,FC Orenburg,1,1,2020-02-28 15:30:00,Denis Popovic,Pass
+360519,35,SavedShot,0.750999984741211,0.6930000305175781,0.010785328224301338,Anton Zinkovskiy,h,7454,OpenPlay,2019,RightFoot,11182,Krylya Sovetov Samara,FC Orenburg,1,1,2020-02-28 15:30:00,Denis Popovic,Chipped
+360520,36,MissedShots,0.7180000305175781,0.4759999847412109,0.013668178580701351,Dmitri Kabutov,h,6603,FromCorner,2019,LeftFoot,11182,Krylya Sovetov Samara,FC Orenburg,1,1,2020-02-28 15:30:00,,None
+360521,40,SavedShot,0.9219999694824219,0.5029999923706054,0.1294449120759964,Dejan Radonjic,h,7644,OpenPlay,2019,Head,11182,Krylya Sovetov Samara,FC Orenburg,1,1,2020-02-28 15:30:00,Dmitri Kabutov,Cross
+360522,41,Goal,0.98,0.49900001525878906,0.9098349213600159,Denis Popovic,h,5488,OpenPlay,2019,Head,11182,Krylya Sovetov Samara,FC Orenburg,1,1,2020-02-28 15:30:00,Dejan Radonjic,Rebound
+360526,55,MissedShots,0.7380000305175781,0.34900001525878904,0.01878608576953411,Dmitri Kabutov,h,6603,OpenPlay,2019,RightFoot,11182,Krylya Sovetov Samara,FC Orenburg,1,1,2020-02-28 15:30:00,,BallRecovery
+360527,56,SavedShot,0.8859999847412109,0.5479999923706055,0.3495176136493683,Dejan Radonjic,h,7644,OpenPlay,2019,RightFoot,11182,Krylya Sovetov Samara,FC Orenburg,1,1,2020-02-28 15:30:00,Denis Popovic,Throughball
+360534,77,MissedShots,0.93,0.544000015258789,0.2864210605621338,Dejan Radonjic,h,7644,FromCorner,2019,Head,11182,Krylya Sovetov Samara,FC Orenburg,1,1,2020-02-28 15:30:00,Denis Popovic,Cross
+360514,5,MissedShots,0.93,0.5720000076293945,0.027033302932977676,Djorde Despotovic,a,7121,FromCorner,2019,Head,11182,Krylya Sovetov Samara,FC Orenburg,1,1,2020-02-28 15:30:00,Ricardo Alves,Aerial
+360515,7,MissedShots,0.7269999694824218,0.4929999923706055,0.016525153070688248,Mamadou Sylla,a,2433,OpenPlay,2019,RightFoot,11182,Krylya Sovetov Samara,FC Orenburg,1,1,2020-02-28 15:30:00,Islambek Kuat,BallRecovery
+360516,23,SavedShot,0.885,0.5,0.7542753219604492,Djorde Despotovic,a,7121,Penalty,2019,LeftFoot,11182,Krylya Sovetov Samara,FC Orenburg,1,1,2020-02-28 15:30:00,,Standard
+360523,44,BlockedShot,0.805,0.27399999618530274,0.017892198637127876,Ricardo Alves,a,7150,OpenPlay,2019,LeftFoot,11182,Krylya Sovetov Samara,FC Orenburg,1,1,2020-02-28 15:30:00,Andrey Malykh,Pass
+360524,52,BlockedShot,0.7390000152587891,0.49700000762939456,0.015332458540797234,Andrey Malykh,a,5423,FromCorner,2019,LeftFoot,11182,Krylya Sovetov Samara,FC Orenburg,1,1,2020-02-28 15:30:00,,None
+360525,52,BlockedShot,0.855,0.45,0.059754516929388046,Mamadou Sylla,a,2433,FromCorner,2019,LeftFoot,11182,Krylya Sovetov Samara,FC Orenburg,1,1,2020-02-28 15:30:00,Andrey Malykh,None
+360528,56,SavedShot,0.764000015258789,0.3770000076293945,0.018626149743795395,Ricardo Alves,a,7150,OpenPlay,2019,LeftFoot,11182,Krylya Sovetov Samara,FC Orenburg,1,1,2020-02-28 15:30:00,,Dispossessed
+360529,61,SavedShot,0.7419999694824219,0.7519999694824219,0.012438935227692127,Mikhail Sivakov,a,5424,OpenPlay,2019,RightFoot,11182,Krylya Sovetov Samara,FC Orenburg,1,1,2020-02-28 15:30:00,Sergey Terekhov,Pass
+360530,66,BlockedShot,0.7780000305175782,0.595999984741211,0.014882915653288364,Sergey Terekhov,a,5940,FromCorner,2019,LeftFoot,11182,Krylya Sovetov Samara,FC Orenburg,1,1,2020-02-28 15:30:00,,Aerial
+360531,66,SavedShot,0.9009999847412109,0.55,0.03428361192345619,Uros Radakovic,a,8028,FromCorner,2019,Head,11182,Krylya Sovetov Samara,FC Orenburg,1,1,2020-02-28 15:30:00,,Rebound
+360532,68,ShotOnPost,0.775,0.4470000076293945,0.027705561369657516,Ricardo Alves,a,7150,OpenPlay,2019,LeftFoot,11182,Krylya Sovetov Samara,FC Orenburg,1,1,2020-02-28 15:30:00,Timur Ayupov,Pass
+360533,70,MissedShots,0.754000015258789,0.505,0.02105080336332321,Andrea Chukanov,a,6777,OpenPlay,2019,RightFoot,11182,Krylya Sovetov Samara,FC Orenburg,1,1,2020-02-28 15:30:00,Sergey Terekhov,Pass
+360535,80,MissedShots,0.8019999694824219,0.3079999923706055,0.024242712184786797,Danijel Miskic,a,6890,OpenPlay,2019,RightFoot,11182,Krylya Sovetov Samara,FC Orenburg,1,1,2020-02-28 15:30:00,Ricardo Alves,Pass
+360536,86,SavedShot,0.9369999694824219,0.555,0.10359834879636765,Joel Fameyeh,a,7670,OpenPlay,2019,Head,11182,Krylya Sovetov Samara,FC Orenburg,1,1,2020-02-28 15:30:00,Sergey Terekhov,Cross
+360537,88,BlockedShot,0.9169999694824219,0.4759999847412109,0.0924881175160408,Joel Fameyeh,a,7670,FromCorner,2019,Head,11182,Krylya Sovetov Samara,FC Orenburg,1,1,2020-02-28 15:30:00,Sergey Terekhov,Cross
+360538,88,Goal,0.895,0.28600000381469726,0.03758205845952034,Ricardo Alves,a,7150,FromCorner,2019,LeftFoot,11182,Krylya Sovetov Samara,FC Orenburg,1,1,2020-02-28 15:30:00,,Rebound

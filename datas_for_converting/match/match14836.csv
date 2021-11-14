@@ -1,0 +1,26 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+383303,7,Goal,0.955,0.534000015258789,0.589887261390686,Anssumane Fati,h,7967,OpenPlay,2020,RightFoot,14836,Barcelona,Real Madrid,1,3,2020-10-24 14:00:00,Jordi Alba,Pass
+383304,12,BlockedShot,0.7909999847412109,0.759000015258789,0.011245024390518665,Philippe Coutinho,h,488,SetPiece,2020,RightFoot,14836,Barcelona,Real Madrid,1,3,2020-10-24 14:00:00,,None
+383305,14,SavedShot,0.7830000305175782,0.625999984741211,0.02778797037899494,Philippe Coutinho,h,488,OpenPlay,2020,RightFoot,14836,Barcelona,Real Madrid,1,3,2020-10-24 14:00:00,Sergiño Dest,Pass
+383306,18,SavedShot,0.7559999847412109,0.625999984741211,0.022679653018712997,Lionel Messi,h,2097,OpenPlay,2020,LeftFoot,14836,Barcelona,Real Madrid,1,3,2020-10-24 14:00:00,Frenkie de Jong,TakeOn
+383309,23,SavedShot,0.9490000152587891,0.41,0.3612532317638397,Lionel Messi,h,2097,OpenPlay,2020,RightFoot,14836,Barcelona,Real Madrid,1,3,2020-10-24 14:00:00,Anssumane Fati,TakeOn
+383314,51,MissedShots,0.895,0.285,0.034244902431964874,Anssumane Fati,h,7967,OpenPlay,2020,RightFoot,14836,Barcelona,Real Madrid,1,3,2020-10-24 14:00:00,Lionel Messi,Pass
+383315,53,MissedShots,0.9380000305175781,0.575,0.3284665048122406,Philippe Coutinho,h,488,OpenPlay,2020,Head,14836,Barcelona,Real Madrid,1,3,2020-10-24 14:00:00,Anssumane Fati,Cross
+383318,66,BlockedShot,0.8590000152587891,0.6869999694824219,0.035104963928461075,Philippe Coutinho,h,488,OpenPlay,2020,LeftFoot,14836,Barcelona,Real Madrid,1,3,2020-10-24 14:00:00,Frenkie de Jong,TakeOn
+383319,69,BlockedShot,0.9130000305175782,0.5209999847412109,0.09847911447286606,Philippe Coutinho,h,488,FromCorner,2020,RightFoot,14836,Barcelona,Real Madrid,1,3,2020-10-24 14:00:00,,None
+383320,78,BlockedShot,0.7380000305175781,0.48900001525878906,0.06436298787593842,Lionel Messi,h,2097,DirectFreekick,2020,LeftFoot,14836,Barcelona,Real Madrid,1,3,2020-10-24 14:00:00,,Standard
+383302,4,Goal,0.9069999694824219,0.38,0.35931167006492615,Federico Valverde,a,6241,OpenPlay,2020,RightFoot,14836,Barcelona,Real Madrid,1,3,2020-10-24 14:00:00,Karim Benzema,Throughball
+383307,22,BlockedShot,0.919000015258789,0.505,0.11006210744380951,Raphael Varane,a,2245,FromCorner,2020,Head,14836,Barcelona,Real Madrid,1,3,2020-10-24 14:00:00,Toni Kroos,Cross
+383308,22,SavedShot,0.93,0.57,0.0366031676530838,Sergio Ramos,a,2246,FromCorner,2020,Head,14836,Barcelona,Real Madrid,1,3,2020-10-24 14:00:00,Toni Kroos,Aerial
+383310,23,SavedShot,0.88,0.49700000762939456,0.3996749222278595,Karim Benzema,a,2370,OpenPlay,2020,RightFoot,14836,Barcelona,Real Madrid,1,3,2020-10-24 14:00:00,Toni Kroos,Pass
+383311,35,BlockedShot,0.855,0.49700000762939456,0.0961112529039383,Karim Benzema,a,2370,OpenPlay,2020,RightFoot,14836,Barcelona,Real Madrid,1,3,2020-10-24 14:00:00,Casemiro,Pass
+383312,47,MissedShots,0.9230000305175782,0.43599998474121093,0.03357986733317375,Sergio Ramos,a,2246,FromCorner,2020,Head,14836,Barcelona,Real Madrid,1,3,2020-10-24 14:00:00,Toni Kroos,Aerial
+383313,50,MissedShots,0.6980000305175781,0.4420000076293945,0.015052399598062038,Casemiro,a,2248,OpenPlay,2020,RightFoot,14836,Barcelona,Real Madrid,1,3,2020-10-24 14:00:00,Toni Kroos,Pass
+383316,56,MissedShots,0.8369999694824218,0.7080000305175781,0.030872050672769547,Karim Benzema,a,2370,OpenPlay,2020,RightFoot,14836,Barcelona,Real Madrid,1,3,2020-10-24 14:00:00,Vinícius Júnior,Pass
+383317,62,Goal,0.885,0.5,0.7432776093482971,Sergio Ramos,a,2246,Penalty,2020,RightFoot,14836,Barcelona,Real Madrid,1,3,2020-10-24 14:00:00,,Standard
+383321,85,SavedShot,0.8530000305175781,0.4570000076293945,0.10314057767391205,Toni Kroos,a,2369,OpenPlay,2020,RightFoot,14836,Barcelona,Real Madrid,1,3,2020-10-24 14:00:00,Lucas Vázquez,Pass
+383322,85,SavedShot,0.955,0.40200000762939453,0.40212148427963257,Toni Kroos,a,2369,OpenPlay,2020,RightFoot,14836,Barcelona,Real Madrid,1,3,2020-10-24 14:00:00,,Rebound
+383323,85,SavedShot,0.9309999847412109,0.590999984741211,0.190556600689888,Sergio Ramos,a,2246,FromCorner,2020,LeftFoot,14836,Barcelona,Real Madrid,1,3,2020-10-24 14:00:00,Lucas Vázquez,Chipped
+383324,85,MissedShots,0.9230000305175782,0.4490000152587891,0.0463336706161499,Raphael Varane,a,2245,FromCorner,2020,Head,14836,Barcelona,Real Madrid,1,3,2020-10-24 14:00:00,,Rebound
+383325,86,SavedShot,0.7609999847412109,0.4909999847412109,0.0335782989859581,Vinícius Júnior,a,7008,OpenPlay,2020,RightFoot,14836,Barcelona,Real Madrid,1,3,2020-10-24 14:00:00,Luka Modric,Pass
+383326,89,Goal,0.8680000305175781,0.4759999847412109,0.6585039496421814,Luka Modric,a,2250,OpenPlay,2020,RightFoot,14836,Barcelona,Real Madrid,1,3,2020-10-24 14:00:00,Rodrygo,TakeOn

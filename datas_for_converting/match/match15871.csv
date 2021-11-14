@@ -1,0 +1,22 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+388787,1,Goal,0.8640000152587891,0.5820000076293945,0.3062075674533844,Florian Thauvin,h,942,OpenPlay,2020,LeftFoot,15871,Marseille,Nantes,3,1,2020-11-28 16:00:00,Valentin Rongier,Throughball
+388788,6,SavedShot,0.8519999694824218,0.41700000762939454,0.08466917276382446,Michaël Cuisance,h,6148,OpenPlay,2020,LeftFoot,15871,Marseille,Nantes,3,1,2020-11-28 16:00:00,Dimitri Payet,Pass
+388789,6,SavedShot,0.975999984741211,0.605,0.3396374583244324,Darío Benedetto,h,7716,OpenPlay,2020,LeftFoot,15871,Marseille,Nantes,3,1,2020-11-28 16:00:00,,Rebound
+388790,9,SavedShot,0.9290000152587891,0.4540000152587891,0.38919156789779663,Darío Benedetto,h,7716,OpenPlay,2020,RightFoot,15871,Marseille,Nantes,3,1,2020-11-28 16:00:00,Hiroki Sakai,Cross
+388791,12,SavedShot,0.905,0.17600000381469727,0.0617305152118206,Florian Thauvin,h,942,DirectFreekick,2020,LeftFoot,15871,Marseille,Nantes,3,1,2020-11-28 16:00:00,,Standard
+388793,21,SavedShot,0.924000015258789,0.36700000762939455,0.3985053598880768,Dimitri Payet,h,536,OpenPlay,2020,RightFoot,15871,Marseille,Nantes,3,1,2020-11-28 16:00:00,Florian Thauvin,Pass
+388794,32,BlockedShot,0.8640000152587891,0.49400001525878906,0.021659890189766884,Álvaro González,h,2430,FromCorner,2020,Head,15871,Marseille,Nantes,3,1,2020-11-28 16:00:00,Dimitri Payet,Cross
+388795,34,Goal,0.8619999694824219,0.4470000076293945,0.1071062982082367,Dimitri Payet,h,536,OpenPlay,2020,RightFoot,15871,Marseille,Nantes,3,1,2020-11-28 16:00:00,Michaël Cuisance,Pass
+388798,44,MissedShots,0.8909999847412109,0.32799999237060545,0.14068426191806793,Michaël Cuisance,h,6148,OpenPlay,2020,LeftFoot,15871,Marseille,Nantes,3,1,2020-11-28 16:00:00,Florian Thauvin,TakeOn
+388800,47,SavedShot,0.7030000305175781,0.4809999847412109,0.01746176928281784,Boubacar Kamara,h,5789,OpenPlay,2020,RightFoot,15871,Marseille,Nantes,3,1,2020-11-28 16:00:00,Michaël Cuisance,Pass
+388801,48,MissedShots,0.85,0.6170000076293946,0.045741863548755646,Michaël Cuisance,h,6148,FromCorner,2020,LeftFoot,15871,Marseille,Nantes,3,1,2020-11-28 16:00:00,,None
+388802,52,MissedShots,0.955999984741211,0.5940000152587891,0.040686726570129395,Florian Thauvin,h,942,OpenPlay,2020,Head,15871,Marseille,Nantes,3,1,2020-11-28 16:00:00,Jordan Amavi,Aerial
+388803,59,Goal,0.885,0.5,0.7600294947624207,Darío Benedetto,h,7716,Penalty,2020,RightFoot,15871,Marseille,Nantes,3,1,2020-11-28 16:00:00,,Standard
+388804,70,MissedShots,0.9359999847412109,0.35,0.019723406061530113,Darío Benedetto,h,7716,SetPiece,2020,Head,15871,Marseille,Nantes,3,1,2020-11-28 16:00:00,Florian Thauvin,Cross
+388806,83,BlockedShot,0.735,0.3139999961853027,0.041621193289756775,Florian Thauvin,h,942,DirectFreekick,2020,LeftFoot,15871,Marseille,Nantes,3,1,2020-11-28 16:00:00,,Standard
+388792,21,BlockedShot,0.905,0.31799999237060544,0.03533272445201874,Abdoulaye Touré,a,3674,FromCorner,2020,RightFoot,15871,Marseille,Nantes,3,1,2020-11-28 16:00:00,Sébastien Corchia,Cross
+388796,40,ShotOnPost,0.9259999847412109,0.485,0.11418934911489487,Abdoulaye Touré,a,3674,FromCorner,2020,Head,15871,Marseille,Nantes,3,1,2020-11-28 16:00:00,Sébastien Corchia,Cross
+388797,40,SavedShot,0.8219999694824218,0.4759999847412109,0.055025260895490646,Imran Louza,a,7278,FromCorner,2020,LeftFoot,15871,Marseille,Nantes,3,1,2020-11-28 16:00:00,,Rebound
+388799,45,MissedShots,0.7290000152587891,0.6869999694824219,0.011918025091290474,Fabio,a,1752,OpenPlay,2020,RightFoot,15871,Marseille,Nantes,3,1,2020-11-28 16:00:00,Randal Kolo Muani,Pass
+388805,72,Goal,0.8119999694824219,0.5279999923706055,0.03441300988197327,Ludovic Blas,a,3475,FromCorner,2020,LeftFoot,15871,Marseille,Nantes,3,1,2020-11-28 16:00:00,Abdoul Kader Bamba,BallTouch
+388807,90,MissedShots,0.9690000152587891,0.59,0.07768749445676804,Marcus Coco,a,3479,OpenPlay,2020,RightFoot,15871,Marseille,Nantes,3,1,2020-11-28 16:00:00,Moses Simon,Cross

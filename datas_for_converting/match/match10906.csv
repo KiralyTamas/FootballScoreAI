@@ -1,0 +1,33 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+283913,12,ShotOnPost,0.904000015258789,0.5420000076293945,0.09265507012605667,Enzo Crivelli,h,3260,SetPiece,2018,Head,10906,Caen,Paris Saint Germain,1,2,2019-03-02 16:00:00,Saif-Eddine Khaoui,Cross
+283917,25,MissedShots,0.7959999847412109,0.345,0.020579708740115166,Casimir Ninga,h,3344,FromCorner,2018,RightFoot,10906,Caen,Paris Saint Germain,1,2,2019-03-02 16:00:00,,None
+283921,35,BlockedShot,0.6909999847412109,0.5329999923706055,0.010136331431567669,Ismael Diomande,h,3623,OpenPlay,2018,RightFoot,10906,Caen,Paris Saint Germain,1,2,2019-03-02 16:00:00,,None
+283929,55,Goal,0.9490000152587891,0.40900001525878904,0.46564263105392456,Casimir Ninga,h,3344,SetPiece,2018,RightFoot,10906,Caen,Paris Saint Germain,1,2,2019-03-02 16:00:00,Faycal Fajr,Throughball
+283930,57,BlockedShot,0.874000015258789,0.750999984741211,0.0879579558968544,Casimir Ninga,h,3344,OpenPlay,2018,RightFoot,10906,Caen,Paris Saint Germain,1,2,2019-03-02 16:00:00,,BallRecovery
+283936,88,SavedShot,0.8319999694824218,0.4420000076293945,0.007948423735797405,Casimir Ninga,h,3344,SetPiece,2018,Head,10906,Caen,Paris Saint Germain,1,2,2019-03-02 16:00:00,Faycal Fajr,Aerial
+283938,91,BlockedShot,0.755,0.48,0.02205139771103859,Yoel Armougom,h,6379,OpenPlay,2018,LeftFoot,10906,Caen,Paris Saint Germain,1,2,2019-03-02 16:00:00,,None
+283907,2,BlockedShot,0.9259999847412109,0.6630000305175782,0.05392313376069069,Thilo Kehrer,a,2674,FromCorner,2018,RightFoot,10906,Caen,Paris Saint Germain,1,2,2019-03-02 16:00:00,,None
+283908,2,ShotOnPost,0.9569999694824218,0.46599998474121096,0.5144433975219727,Layvin Kurzawa,a,3298,FromCorner,2018,LeftFoot,10906,Caen,Paris Saint Germain,1,2,2019-03-02 16:00:00,Ángel Di María,Cross
+283909,3,BlockedShot,0.9009999847412109,0.41900001525878905,0.08444881439208984,Layvin Kurzawa,a,3298,FromCorner,2018,LeftFoot,10906,Caen,Paris Saint Germain,1,2,2019-03-02 16:00:00,,None
+283910,3,BlockedShot,0.7809999847412109,0.3340000152587891,0.02482612244784832,Dani Alves,a,1288,FromCorner,2018,RightFoot,10906,Caen,Paris Saint Germain,1,2,2019-03-02 16:00:00,,Rebound
+283911,5,MissedShots,0.8480000305175781,0.32599998474121095,0.0426095649600029,Thomas Meunier,a,5680,OpenPlay,2018,LeftFoot,10906,Caen,Paris Saint Germain,1,2,2019-03-02 16:00:00,,None
+283912,9,BlockedShot,0.7780000305175782,0.785,0.013796544633805752,Ángel Di María,a,3553,OpenPlay,2018,LeftFoot,10906,Caen,Paris Saint Germain,1,2,2019-03-02 16:00:00,Kylian Mbappe-Lottin,Pass
+283914,15,MissedShots,0.9290000152587891,0.5159999847412109,0.11733189970254898,Christopher Nkunku,a,3300,OpenPlay,2018,RightFoot,10906,Caen,Paris Saint Germain,1,2,2019-03-02 16:00:00,Moussa Diaby,Cross
+283915,19,BlockedShot,0.885,0.745,0.029874615371227264,Kylian Mbappe-Lottin,a,3423,OpenPlay,2018,RightFoot,10906,Caen,Paris Saint Germain,1,2,2019-03-02 16:00:00,Ángel Di María,Pass
+283916,20,BlockedShot,0.8819999694824219,0.2929999923706055,0.04262343421578407,Ángel Di María,a,3553,OpenPlay,2018,LeftFoot,10906,Caen,Paris Saint Germain,1,2,2019-03-02 16:00:00,Christopher Nkunku,Pass
+283918,28,SavedShot,0.755,0.2560000038146973,0.01325120497494936,Leandro Paredes,a,1248,OpenPlay,2018,RightFoot,10906,Caen,Paris Saint Germain,1,2,2019-03-02 16:00:00,,BallRecovery
+283919,32,ShotOnPost,0.9369999694824219,0.47,0.06903499364852905,Marquinhos,a,3297,FromCorner,2018,Head,10906,Caen,Paris Saint Germain,1,2,2019-03-02 16:00:00,,None
+283920,32,MissedShots,0.9569999694824218,0.47200000762939454,0.10989485681056976,Marquinhos,a,3297,FromCorner,2018,Head,10906,Caen,Paris Saint Germain,1,2,2019-03-02 16:00:00,,Aerial
+283922,35,SavedShot,0.8919999694824219,0.415,0.413827121257782,Ángel Di María,a,3553,OpenPlay,2018,LeftFoot,10906,Caen,Paris Saint Germain,1,2,2019-03-02 16:00:00,Moussa Diaby,Pass
+283923,35,BlockedShot,0.9319999694824219,0.41,0.1525399386882782,Ángel Di María,a,3553,OpenPlay,2018,RightFoot,10906,Caen,Paris Saint Germain,1,2,2019-03-02 16:00:00,,Rebound
+283924,40,MissedShots,0.8530000305175781,0.48700000762939455,0.10074974596500397,Kylian Mbappe-Lottin,a,3423,OpenPlay,2018,RightFoot,10906,Caen,Paris Saint Germain,1,2,2019-03-02 16:00:00,Thomas Meunier,Pass
+283925,41,MissedShots,0.7469999694824219,0.46900001525878904,0.017035432159900665,Dani Alves,a,1288,FromCorner,2018,RightFoot,10906,Caen,Paris Saint Germain,1,2,2019-03-02 16:00:00,,None
+283926,43,MissedShots,0.9080000305175782,0.26799999237060546,0.03355124965310097,Kylian Mbappe-Lottin,a,3423,OpenPlay,2018,RightFoot,10906,Caen,Paris Saint Germain,1,2,2019-03-02 16:00:00,Dani Alves,Pass
+283927,48,BlockedShot,0.765,0.48900001525878906,0.027038363739848137,Ángel Di María,a,3553,OpenPlay,2018,LeftFoot,10906,Caen,Paris Saint Germain,1,2,2019-03-02 16:00:00,Dani Alves,Pass
+283928,53,MissedShots,0.7119999694824218,0.44599998474121094,0.014123239554464817,Christopher Nkunku,a,3300,OpenPlay,2018,RightFoot,10906,Caen,Paris Saint Germain,1,2,2019-03-02 16:00:00,Layvin Kurzawa,BallRecovery
+283931,58,Goal,0.885,0.5,0.7600951194763184,Kylian Mbappe-Lottin,a,3423,Penalty,2018,RightFoot,10906,Caen,Paris Saint Germain,1,2,2019-03-02 16:00:00,,Standard
+283932,60,ShotOnPost,0.9790000152587891,0.5690000152587891,0.41646304726600647,Ángel Di María,a,3553,OpenPlay,2018,Head,10906,Caen,Paris Saint Germain,1,2,2019-03-02 16:00:00,Thomas Meunier,Cross
+283933,82,SavedShot,0.81,0.46299999237060546,0.04524749517440796,Leandro Paredes,a,1248,OpenPlay,2018,RightFoot,10906,Caen,Paris Saint Germain,1,2,2019-03-02 16:00:00,Christopher Nkunku,Pass
+283934,86,BlockedShot,0.909000015258789,0.3920000076293945,0.09325166791677475,Thomas Meunier,a,5680,OpenPlay,2018,RightFoot,10906,Caen,Paris Saint Germain,1,2,2019-03-02 16:00:00,Kylian Mbappe-Lottin,BallTouch
+283935,86,Goal,0.985999984741211,0.5029999923706054,0.9668212532997131,Kylian Mbappe-Lottin,a,3423,OpenPlay,2018,RightFoot,10906,Caen,Paris Saint Germain,1,2,2019-03-02 16:00:00,,Rebound
+283937,90,MissedShots,0.7609999847412109,0.4929999923706055,0.03872714936733246,Christopher Nkunku,a,3300,OpenPlay,2018,RightFoot,10906,Caen,Paris Saint Germain,1,2,2019-03-02 16:00:00,,BallRecovery

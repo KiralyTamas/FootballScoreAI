@@ -1,0 +1,30 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+130233,20,Goal,0.879000015258789,0.4640000152587891,0.10547119379043579,Anthony Modeste,h,137,OpenPlay,2016,RightFoot,3226,FC Cologne,Bayer Leverkusen,1,1,2016-12-21 23:00:00,Frederik Sörensen,Cross
+130235,25,BlockedShot,0.8580000305175781,0.5829999923706055,0.10972215235233307,Konstantin Rausch,h,13,OpenPlay,2016,RightFoot,3226,FC Cologne,Bayer Leverkusen,1,1,2016-12-21 23:00:00,Jonas Hector,TakeOn
+130236,27,BlockedShot,0.925,0.42900001525878906,0.11535874009132385,Anthony Modeste,h,137,OpenPlay,2016,RightFoot,3226,FC Cologne,Bayer Leverkusen,1,1,2016-12-21 23:00:00,Pawel Olkowski,Cross
+130240,36,MissedShots,0.895,0.5979999923706054,0.041400957852602005,Artjoms Rudnevs,h,2666,SetPiece,2016,Head,3226,FC Cologne,Bayer Leverkusen,1,1,2016-12-21 23:00:00,Konstantin Rausch,Cross
+130241,36,SavedShot,0.685,0.7380000305175781,0.00714708399027586,Yuya Osako,h,135,OpenPlay,2016,RightFoot,3226,FC Cologne,Bayer Leverkusen,1,1,2016-12-21 23:00:00,Konstantin Rausch,TakeOn
+130246,53,BlockedShot,0.8930000305175781,0.4779999923706055,0.11382804811000824,Anthony Modeste,h,137,SetPiece,2016,LeftFoot,3226,FC Cologne,Bayer Leverkusen,1,1,2016-12-21 23:00:00,Dominique Heintz,Pass
+130247,54,BlockedShot,0.9330000305175781,0.595999984741211,0.05584316700696945,Anthony Modeste,h,137,FromCorner,2016,Head,3226,FC Cologne,Bayer Leverkusen,1,1,2016-12-21 23:00:00,Konstantin Rausch,Cross
+130248,61,BlockedShot,0.8590000152587891,0.5929999923706055,0.08596531301736832,Anthony Modeste,h,137,OpenPlay,2016,LeftFoot,3226,FC Cologne,Bayer Leverkusen,1,1,2016-12-21 23:00:00,Konstantin Rausch,Pass
+130252,79,BlockedShot,0.9530000305175781,0.355,0.04149029031395912,Frederik Sörensen,h,138,FromCorner,2016,RightFoot,3226,FC Cologne,Bayer Leverkusen,1,1,2016-12-21 23:00:00,Konstantin Rausch,Cross
+130253,83,BlockedShot,0.84,0.7580000305175781,0.026088951155543327,Anthony Modeste,h,137,OpenPlay,2016,RightFoot,3226,FC Cologne,Bayer Leverkusen,1,1,2016-12-21 23:00:00,Dominique Heintz,Pass
+130254,84,MissedShots,0.7580000305175781,0.4759999847412109,0.01930616796016693,Pawel Olkowski,h,128,OpenPlay,2016,LeftFoot,3226,FC Cologne,Bayer Leverkusen,1,1,2016-12-21 23:00:00,,Rebound
+130228,2,BlockedShot,0.95,0.27700000762939453,0.0501752607524395,Hakan Calhanoglu,a,189,OpenPlay,2016,RightFoot,3226,FC Cologne,Bayer Leverkusen,1,1,2016-12-21 23:00:00,,Interception
+130229,4,BlockedShot,0.7709999847412109,0.295,0.017262712121009827,Vladlen Yurchenko,a,198,OpenPlay,2016,RightFoot,3226,FC Cologne,Bayer Leverkusen,1,1,2016-12-21 23:00:00,Benjamin Henrichs,BallRecovery
+130230,4,MissedShots,0.7480000305175781,0.5829999923706055,0.015424460172653198,Kevin Kampl,a,188,OpenPlay,2016,LeftFoot,3226,FC Cologne,Bayer Leverkusen,1,1,2016-12-21 23:00:00,,Rebound
+130231,5,BlockedShot,0.789000015258789,0.6880000305175781,0.023107463493943214,Wendell,a,185,OpenPlay,2016,LeftFoot,3226,FC Cologne,Bayer Leverkusen,1,1,2016-12-21 23:00:00,Kevin Kampl,Pass
+130232,12,SavedShot,0.7809999847412109,0.6659999847412109,0.024888183921575546,Hakan Calhanoglu,a,189,OpenPlay,2016,LeftFoot,3226,FC Cologne,Bayer Leverkusen,1,1,2016-12-21 23:00:00,Wendell,Pass
+130234,23,SavedShot,0.7709999847412109,0.73,0.01698433607816696,Hakan Calhanoglu,a,189,OpenPlay,2016,RightFoot,3226,FC Cologne,Bayer Leverkusen,1,1,2016-12-21 23:00:00,Kai Havertz,Pass
+130237,30,BlockedShot,0.8719999694824219,0.46599998474121096,0.07291040569543839,Vladlen Yurchenko,a,198,SetPiece,2016,RightFoot,3226,FC Cologne,Bayer Leverkusen,1,1,2016-12-21 23:00:00,,None
+130238,30,MissedShots,0.935,0.4229999923706055,0.031254395842552185,Kai Havertz,a,5220,FromCorner,2016,Head,3226,FC Cologne,Bayer Leverkusen,1,1,2016-12-21 23:00:00,Julian Brandt,Aerial
+130239,30,MissedShots,0.92,0.55,0.13044656813144684,Hakan Calhanoglu,a,189,FromCorner,2016,LeftFoot,3226,FC Cologne,Bayer Leverkusen,1,1,2016-12-21 23:00:00,Kai Havertz,Rebound
+130242,42,SavedShot,0.92,0.5729999923706055,0.43293142318725586,Hakan Calhanoglu,a,189,OpenPlay,2016,RightFoot,3226,FC Cologne,Bayer Leverkusen,1,1,2016-12-21 23:00:00,Wendell,Pass
+130243,43,Goal,0.9540000152587891,0.649000015258789,0.3149559199810028,Wendell,a,185,OpenPlay,2016,LeftFoot,3226,FC Cologne,Bayer Leverkusen,1,1,2016-12-21 23:00:00,Kai Havertz,Throughball
+130244,46,SavedShot,0.8780000305175781,0.4520000076293945,0.0866566076874733,Admir Mehmedi,a,194,OpenPlay,2016,RightFoot,3226,FC Cologne,Bayer Leverkusen,1,1,2016-12-21 23:00:00,Vladlen Yurchenko,Chipped
+130245,48,BlockedShot,0.715999984741211,0.53,0.015910057350993156,Vladlen Yurchenko,a,198,OpenPlay,2016,RightFoot,3226,FC Cologne,Bayer Leverkusen,1,1,2016-12-21 23:00:00,Admir Mehmedi,Pass
+130249,68,MissedShots,0.879000015258789,0.3609999847412109,0.103481724858284,Kai Havertz,a,5220,OpenPlay,2016,RightFoot,3226,FC Cologne,Bayer Leverkusen,1,1,2016-12-21 23:00:00,Julian Brandt,Pass
+130250,75,BlockedShot,0.795,0.66,0.023333122953772545,Hakan Calhanoglu,a,189,OpenPlay,2016,RightFoot,3226,FC Cologne,Bayer Leverkusen,1,1,2016-12-21 23:00:00,Admir Mehmedi,Pass
+130251,76,SavedShot,0.8109999847412109,0.33,0.0307319313287735,Julian Brandt,a,261,OpenPlay,2016,LeftFoot,3226,FC Cologne,Bayer Leverkusen,1,1,2016-12-21 23:00:00,Benjamin Henrichs,Pass
+130255,85,BlockedShot,0.655,0.7340000152587891,0.023736124858260155,Hakan Calhanoglu,a,189,DirectFreekick,2016,RightFoot,3226,FC Cologne,Bayer Leverkusen,1,1,2016-12-21 23:00:00,,Standard
+130256,89,BlockedShot,0.8669999694824219,0.7119999694824218,0.04204024374485016,Wendell,a,185,OpenPlay,2016,LeftFoot,3226,FC Cologne,Bayer Leverkusen,1,1,2016-12-21 23:00:00,Julian Brandt,Pass

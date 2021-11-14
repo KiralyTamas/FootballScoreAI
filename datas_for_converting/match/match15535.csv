@@ -1,0 +1,19 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+391700,25,BlockedShot,0.895,0.46299999237060546,0.09339643269777298,Simone Zaza,h,1642,OpenPlay,2020,RightFoot,15535,Torino,Udinese,2,3,2020-12-12 17:00:00,Andrea Belotti,Cross
+391701,35,MissedShots,0.7959999847412109,0.725,0.05794240161776543,Andrea Belotti,h,1186,DirectFreekick,2020,RightFoot,15535,Torino,Udinese,2,3,2020-12-12 17:00:00,,Standard
+391704,57,SavedShot,0.6630000305175782,0.4759999847412109,0.00744355795904994,Lyanco,h,6252,OpenPlay,2020,RightFoot,15535,Torino,Udinese,2,3,2020-12-12 17:00:00,Tomás Rincón,BallTouch
+391706,61,BlockedShot,0.845999984741211,0.509000015258789,0.16287587583065033,Federico Bonazzoli,h,2019,OpenPlay,2020,LeftFoot,15535,Torino,Udinese,2,3,2020-12-12 17:00:00,Andrea Belotti,TakeOn
+391707,65,Goal,0.9480000305175781,0.4859999847412109,0.6132574081420898,Andrea Belotti,h,1186,OpenPlay,2020,LeftFoot,15535,Torino,Udinese,2,3,2020-12-12 17:00:00,Federico Bonazzoli,Pass
+391708,66,Goal,0.855,0.40299999237060546,0.07349999994039536,Federico Bonazzoli,h,2019,OpenPlay,2020,LeftFoot,15535,Torino,Udinese,2,3,2020-12-12 17:00:00,Andrea Belotti,Pass
+391711,72,BlockedShot,0.805,0.7430000305175781,0.017123496159911156,Ricardo Rodríguez,h,308,OpenPlay,2020,LeftFoot,15535,Torino,Udinese,2,3,2020-12-12 17:00:00,,BallTouch
+391712,83,ShotOnPost,0.74,0.38599998474121094,0.05077432841062546,Ricardo Rodríguez,h,308,DirectFreekick,2020,LeftFoot,15535,Torino,Udinese,2,3,2020-12-12 17:00:00,,Standard
+391696,7,MissedShots,0.865999984741211,0.39099998474121095,0.06424306333065033,Rodrigo de Paul,a,1145,OpenPlay,2020,RightFoot,15535,Torino,Udinese,2,3,2020-12-12 17:00:00,,None
+391697,16,MissedShots,0.92,0.59,0.03340931236743927,Marvin Zeegelaar,a,6303,OpenPlay,2020,Head,15535,Torino,Udinese,2,3,2020-12-12 17:00:00,Rodrigo de Paul,Aerial
+391698,22,BlockedShot,0.8719999694824219,0.33599998474121096,0.06304176151752472,Gerard Deulofeu,a,591,OpenPlay,2020,RightFoot,15535,Torino,Udinese,2,3,2020-12-12 17:00:00,Ignacio Pussetto,Pass
+391699,23,Goal,0.860999984741211,0.385,0.497008740901947,Ignacio Pussetto,a,6997,OpenPlay,2020,RightFoot,15535,Torino,Udinese,2,3,2020-12-12 17:00:00,Gerard Deulofeu,Throughball
+391702,46,BlockedShot,0.7869999694824219,0.35400001525878905,0.03387068212032318,Rodrigo de Paul,a,1145,OpenPlay,2020,RightFoot,15535,Torino,Udinese,2,3,2020-12-12 17:00:00,Ignacio Pussetto,Pass
+391703,53,Goal,0.8159999847412109,0.48400001525878905,0.07271047681570053,Rodrigo de Paul,a,1145,OpenPlay,2020,RightFoot,15535,Torino,Udinese,2,3,2020-12-12 17:00:00,Roberto Pereyra,Pass
+391705,58,BlockedShot,0.8690000152587891,0.6359999847412109,0.10090865939855576,Gerard Deulofeu,a,591,OpenPlay,2020,RightFoot,15535,Torino,Udinese,2,3,2020-12-12 17:00:00,Roberto Pereyra,Pass
+391709,68,Goal,0.8919999694824219,0.565,0.3830324113368988,Ilija Nestorovski,a,1272,OpenPlay,2020,LeftFoot,15535,Torino,Udinese,2,3,2020-12-12 17:00:00,Roberto Pereyra,Pass
+391710,70,BlockedShot,0.8719999694824219,0.649000015258789,0.07400637120008469,Ignacio Pussetto,a,6997,OpenPlay,2020,RightFoot,15535,Torino,Udinese,2,3,2020-12-12 17:00:00,Ilija Nestorovski,Chipped
+391713,88,MissedShots,0.875999984741211,0.6819999694824219,0.15183217823505402,Kevin Lasagna,a,1903,OpenPlay,2020,LeftFoot,15535,Torino,Udinese,2,3,2020-12-12 17:00:00,Ilija Nestorovski,Throughball

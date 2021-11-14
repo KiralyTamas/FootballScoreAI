@@ -1,0 +1,28 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+139898,10,MissedShots,0.7380000305175781,0.26600000381469724,0.008082685060799122,Uche,h,2564,OpenPlay,2016,RightFoot,3986,Granada,Atletico Madrid,0,1,2017-03-11 19:45:00,Gastón Silva,TakeOn
+139899,15,SavedShot,0.9380000305175781,0.57,0.1352177858352661,Adrián Ramos,h,324,OpenPlay,2016,Head,3986,Granada,Atletico Madrid,0,1,2017-03-11 19:45:00,Uche,Cross
+139901,29,BlockedShot,0.784000015258789,0.5590000152587891,0.03348551318049431,Andreas Pereira,h,922,OpenPlay,2016,RightFoot,3986,Granada,Atletico Madrid,0,1,2017-03-11 19:45:00,Adrián Ramos,Pass
+139905,51,MissedShots,0.6940000152587891,0.6120000076293945,0.01440881285816431,Mubarak Wakaso,h,2362,OpenPlay,2016,LeftFoot,3986,Granada,Atletico Madrid,0,1,2017-03-11 19:45:00,,TakeOn
+139906,52,SavedShot,0.9059999847412109,0.48,0.12991644442081451,Adrián Ramos,h,324,OpenPlay,2016,RightFoot,3986,Granada,Atletico Madrid,0,1,2017-03-11 19:45:00,Uche,Pass
+139910,59,MissedShots,0.7659999847412109,0.365,0.017941709607839584,Artem Kravets,h,2630,OpenPlay,2016,RightFoot,3986,Granada,Atletico Madrid,0,1,2017-03-11 19:45:00,,None
+139911,62,MissedShots,0.7040000152587891,0.7090000152587891,0.011512218974530697,Mubarak Wakaso,h,2362,OpenPlay,2016,LeftFoot,3986,Granada,Atletico Madrid,0,1,2017-03-11 19:45:00,Uche,Pass
+139912,64,MissedShots,0.8019999694824219,0.42900001525878906,0.042546313256025314,Dimitri Foulquier,h,2509,OpenPlay,2016,RightFoot,3986,Granada,Atletico Madrid,0,1,2017-03-11 19:45:00,,None
+139914,68,MissedShots,0.7909999847412109,0.629000015258789,0.028771767392754555,Héctor,h,2237,OpenPlay,2016,LeftFoot,3986,Granada,Atletico Madrid,0,1,2017-03-11 19:45:00,Andreas Pereira,Pass
+139917,74,BlockedShot,0.765,0.6,0.025262556970119476,Andreas Pereira,h,922,OpenPlay,2016,RightFoot,3986,Granada,Atletico Madrid,0,1,2017-03-11 19:45:00,Mubarak Wakaso,Pass
+139918,77,BlockedShot,0.8630000305175781,0.695,0.04187881574034691,Isaac Cuenca,h,2081,OpenPlay,2016,LeftFoot,3986,Granada,Atletico Madrid,0,1,2017-03-11 19:45:00,Uche,Chipped
+139923,92,BlockedShot,0.7269999694824218,0.5729999923706055,0.05438009276986122,Andreas Pereira,h,922,DirectFreekick,2016,RightFoot,3986,Granada,Atletico Madrid,0,1,2017-03-11 19:45:00,,Standard
+139897,4,MissedShots,0.935,0.505,0.49633651971817017,Yannick Carrasco,a,2272,OpenPlay,2016,Head,3986,Granada,Atletico Madrid,0,1,2017-03-11 19:45:00,Filipe Luis,Cross
+139900,21,MissedShots,0.7819999694824219,0.6959999847412109,0.02132219634950161,Koke,a,2269,OpenPlay,2016,RightFoot,3986,Granada,Atletico Madrid,0,1,2017-03-11 19:45:00,Yannick Carrasco,Pass
+139902,41,MissedShots,0.9,0.59,0.05679791048169136,Antoine Griezmann,a,2270,SetPiece,2016,Head,3986,Granada,Atletico Madrid,0,1,2017-03-11 19:45:00,Yannick Carrasco,Cross
+139903,48,BlockedShot,0.805,0.67,0.09089788049459457,Yannick Carrasco,a,2272,DirectFreekick,2016,RightFoot,3986,Granada,Atletico Madrid,0,1,2017-03-11 19:45:00,,Standard
+139904,49,SavedShot,0.7859999847412109,0.575,0.024427710101008415,Yannick Carrasco,a,2272,SetPiece,2016,RightFoot,3986,Granada,Atletico Madrid,0,1,2017-03-11 19:45:00,,None
+139907,53,MissedShots,0.8590000152587891,0.365,0.0665249302983284,Antoine Griezmann,a,2270,OpenPlay,2016,LeftFoot,3986,Granada,Atletico Madrid,0,1,2017-03-11 19:45:00,Nicolás Gaitán,Pass
+139908,58,BlockedShot,0.8119999694824219,0.38599998474121094,0.04305868595838547,Yannick Carrasco,a,2272,OpenPlay,2016,RightFoot,3986,Granada,Atletico Madrid,0,1,2017-03-11 19:45:00,Saúl Ñíguez,TakeOn
+139909,59,MissedShots,0.879000015258789,0.6509999847412109,0.06824017316102982,Ángel Correa,a,2275,OpenPlay,2016,RightFoot,3986,Granada,Atletico Madrid,0,1,2017-03-11 19:45:00,Yannick Carrasco,Pass
+139913,65,SavedShot,0.9319999694824219,0.3770000076293945,0.07926980406045914,Koke,a,2269,OpenPlay,2016,RightFoot,3986,Granada,Atletico Madrid,0,1,2017-03-11 19:45:00,Antoine Griezmann,HeadPass
+139915,69,SavedShot,0.7819999694824219,0.6270000076293946,0.02720623090863228,Ángel Correa,a,2275,OpenPlay,2016,RightFoot,3986,Granada,Atletico Madrid,0,1,2017-03-11 19:45:00,Yannick Carrasco,Pass
+139916,69,MissedShots,0.7480000305175781,0.4929999923706055,0.023764003068208694,Yannick Carrasco,a,2272,OpenPlay,2016,RightFoot,3986,Granada,Atletico Madrid,0,1,2017-03-11 19:45:00,Antoine Griezmann,Pass
+139919,79,SavedShot,0.8959999847412109,0.59,0.11234159767627716,Yannick Carrasco,a,2272,OpenPlay,2016,RightFoot,3986,Granada,Atletico Madrid,0,1,2017-03-11 19:45:00,Filipe Luis,Pass
+139920,83,Goal,0.9519999694824218,0.435,0.3690267503261566,Antoine Griezmann,a,2270,FromCorner,2016,Head,3986,Granada,Atletico Madrid,0,1,2017-03-11 19:45:00,Koke,Cross
+139921,88,SavedShot,0.8830000305175781,0.33599998474121096,0.07889898866415024,Ángel Correa,a,2275,OpenPlay,2016,RightFoot,3986,Granada,Atletico Madrid,0,1,2017-03-11 19:45:00,Antoine Griezmann,Pass
+139922,88,BlockedShot,0.9690000152587891,0.32599998474121095,0.07423973083496094,Sime Vrsaljko,a,1951,OpenPlay,2016,RightFoot,3986,Granada,Atletico Madrid,0,1,2017-03-11 19:45:00,Antoine Griezmann,Pass

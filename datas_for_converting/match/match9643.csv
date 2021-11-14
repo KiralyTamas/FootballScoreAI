@@ -1,0 +1,28 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+228608,5,SavedShot,0.7019999694824218,0.4809999847412109,0.013001387007534504,Francesco Zampano,h,1161,FromCorner,2018,LeftFoot,9643,Frosinone,Genoa,1,2,2018-09-30 13:00:00,,None
+228609,7,MissedShots,0.8919999694824219,0.38799999237060545,0.01193249225616455,Marco Capuano,h,1408,FromCorner,2018,Head,9643,Frosinone,Genoa,1,2,2018-09-30 13:00:00,Camillo Ciano,Aerial
+228612,23,BlockedShot,0.764000015258789,0.4229999923706055,0.01660703495144844,Raman Chibsah,h,1872,SetPiece,2018,RightFoot,9643,Frosinone,Genoa,1,2,2018-09-30 13:00:00,,None
+228616,40,Goal,0.885,0.5,0.7612988352775574,Camillo Ciano,h,7015,Penalty,2018,LeftFoot,9643,Frosinone,Genoa,1,2,2018-09-30 13:00:00,,Standard
+228617,42,BlockedShot,0.885,0.34799999237060547,0.05159233883023262,Francesco Zampano,h,1161,OpenPlay,2018,RightFoot,9643,Frosinone,Genoa,1,2,2018-09-30 13:00:00,Joel Campbell,Chipped
+228618,45,ShotOnPost,0.6969999694824218,0.46900001525878904,0.009151918813586235,Raman Chibsah,h,1872,SetPiece,2018,RightFoot,9643,Frosinone,Genoa,1,2,2018-09-30 13:00:00,,None
+228619,46,MissedShots,0.7240000152587891,0.3609999847412109,0.012121755629777908,Camillo Ciano,h,7015,OpenPlay,2018,LeftFoot,9643,Frosinone,Genoa,1,2,2018-09-30 13:00:00,Daniel Ciofani,HeadPass
+228620,47,MissedShots,0.7869999694824219,0.2610000038146973,0.013538144528865814,Camillo Ciano,h,7015,OpenPlay,2018,RightFoot,9643,Frosinone,Genoa,1,2,2018-09-30 13:00:00,Daniel Ciofani,HeadPass
+228621,50,MissedShots,0.8069999694824219,0.5940000152587891,0.03940880298614502,Joel Campbell,h,506,OpenPlay,2018,LeftFoot,9643,Frosinone,Genoa,1,2,2018-09-30 13:00:00,Daniel Ciofani,Pass
+228622,52,SavedShot,0.8719999694824219,0.629000015258789,0.05787850543856621,Joel Campbell,h,506,OpenPlay,2018,RightFoot,9643,Frosinone,Genoa,1,2,2018-09-30 13:00:00,Daniel Ciofani,BallTouch
+228623,62,BlockedShot,0.8030000305175782,0.36700000762939455,0.022464359179139137,Camillo Ciano,h,7015,OpenPlay,2018,LeftFoot,9643,Frosinone,Genoa,1,2,2018-09-30 13:00:00,Danilo Soddimo,Cross
+228624,70,SavedShot,0.7330000305175781,0.485,0.053633324801921844,Camillo Ciano,h,7015,DirectFreekick,2018,LeftFoot,9643,Frosinone,Genoa,1,2,2018-09-30 13:00:00,,Standard
+228626,73,BlockedShot,0.925,0.435,0.0932525098323822,Raman Chibsah,h,1872,OpenPlay,2018,Head,9643,Frosinone,Genoa,1,2,2018-09-30 13:00:00,Cristian Molinaro,Cross
+228627,76,MissedShots,0.9690000152587891,0.669000015258789,0.045837000012397766,Bartosz Salamon,h,1398,FromCorner,2018,RightFoot,9643,Frosinone,Genoa,1,2,2018-09-30 13:00:00,,None
+228629,81,BlockedShot,0.715,0.3340000152587891,0.012249518185853958,Raman Chibsah,h,1872,OpenPlay,2018,RightFoot,9643,Frosinone,Genoa,1,2,2018-09-30 13:00:00,Emil Hallfredsson,HeadPass
+228630,81,MissedShots,0.865999984741211,0.46,0.02832394279539585,Daniel Ciofani,h,1868,OpenPlay,2018,Head,9643,Frosinone,Genoa,1,2,2018-09-30 13:00:00,Rai Vloet,Cross
+228633,92,MissedShots,0.875999984741211,0.5270000076293946,0.04641735553741455,Bartosz Salamon,h,1398,SetPiece,2018,Head,9643,Frosinone,Genoa,1,2,2018-09-30 13:00:00,Camillo Ciano,Chipped
+228607,1,BlockedShot,0.700999984741211,0.775,0.011621537618339062,Domenico Criscito,a,3065,OpenPlay,2018,LeftFoot,9643,Frosinone,Genoa,1,2,2018-09-30 13:00:00,Oscar Hiljemark,Pass
+228610,9,MissedShots,0.705,0.8140000152587891,0.006984212435781956,Goran Pandev,a,1115,OpenPlay,2018,LeftFoot,9643,Frosinone,Genoa,1,2,2018-09-30 13:00:00,Domenico Criscito,TakeOn
+228611,14,SavedShot,0.855,0.7319999694824219,0.04269926995038986,Christian Kouamé,a,7091,OpenPlay,2018,RightFoot,9643,Frosinone,Genoa,1,2,2018-09-30 13:00:00,Ionut Radu,Pass
+228613,23,MissedShots,0.845,0.5279999923706055,0.05860802158713341,Rômulo,a,1849,OpenPlay,2018,LeftFoot,9643,Frosinone,Genoa,1,2,2018-09-30 13:00:00,Christian Kouamé,TakeOn
+228614,32,Goal,0.8319999694824218,0.43099998474121093,0.04621006175875664,Krzysztof Piatek,a,7090,OpenPlay,2018,RightFoot,9643,Frosinone,Genoa,1,2,2018-09-30 13:00:00,Christian Kouamé,HeadPass
+228615,35,Goal,0.9059999847412109,0.4520000076293945,0.44742223620414734,Krzysztof Piatek,a,7090,OpenPlay,2018,RightFoot,9643,Frosinone,Genoa,1,2,2018-09-30 13:00:00,Christian Kouamé,Pass
+228625,71,ShotOnPost,0.8640000152587891,0.295,0.047641728073358536,Christian Kouamé,a,7091,OpenPlay,2018,RightFoot,9643,Frosinone,Genoa,1,2,2018-09-30 13:00:00,,TakeOn
+228628,80,BlockedShot,0.8280000305175781,0.28200000762939453,0.03617822378873825,Christian Kouamé,a,7091,OpenPlay,2018,RightFoot,9643,Frosinone,Genoa,1,2,2018-09-30 13:00:00,Oscar Hiljemark,Pass
+228631,86,SavedShot,0.8719999694824219,0.645,0.08981115370988846,Oscar Hiljemark,a,1284,OpenPlay,2018,LeftFoot,9643,Frosinone,Genoa,1,2,2018-09-30 13:00:00,Christian Kouamé,Pass
+228632,88,MissedShots,0.905,0.54,0.29944613575935364,Luca Mazzitelli,a,1477,OpenPlay,2018,Head,9643,Frosinone,Genoa,1,2,2018-09-30 13:00:00,Christian Kouamé,Cross

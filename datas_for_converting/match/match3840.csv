@@ -1,0 +1,21 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+133411,20,MissedShots,0.8959999847412109,0.435,0.08111096173524857,André Hahn,h,412,OpenPlay,2016,RightFoot,3840,Borussia M.Gladbach,Borussia Dortmund,2,3,2017-04-22 17:30:00,Nico Elvedi,Cross
+133412,20,MissedShots,0.8490000152587891,0.46799999237060547,0.06113244965672493,Mahmoud Dahoud,h,205,OpenPlay,2016,LeftFoot,3840,Borussia M.Gladbach,Borussia Dortmund,2,3,2017-04-22 17:30:00,André Hahn,None
+133415,42,Goal,0.8780000305175781,0.6430000305175781,0.2624550759792328,Lars Stindl,h,208,OpenPlay,2016,LeftFoot,3840,Borussia M.Gladbach,Borussia Dortmund,2,3,2017-04-22 17:30:00,André Hahn,Pass
+133416,47,SavedShot,0.9530000305175781,0.28299999237060547,0.04630722850561142,André Hahn,h,412,OpenPlay,2016,RightFoot,3840,Borussia M.Gladbach,Borussia Dortmund,2,3,2017-04-22 17:30:00,,None
+133421,76,SavedShot,0.899000015258789,0.36900001525878906,0.3524075150489807,Patrick Herrmann,h,420,OpenPlay,2016,RightFoot,3840,Borussia M.Gladbach,Borussia Dortmund,2,3,2017-04-22 17:30:00,Lars Stindl,Throughball
+133423,83,BlockedShot,0.7180000305175781,0.48,0.019702760502696037,László Bénes,h,5258,OpenPlay,2016,LeftFoot,3840,Borussia M.Gladbach,Borussia Dortmund,2,3,2017-04-22 17:30:00,,TakeOn
+133426,88,MissedShots,0.9,0.39599998474121095,0.03202836960554123,Jannik Vestergaard,h,111,OpenPlay,2016,Head,3840,Borussia M.Gladbach,Borussia Dortmund,2,3,2017-04-22 17:30:00,László Bénes,Chipped
+133407,1,MissedShots,0.8,0.7719999694824219,0.050697989761829376,Marco Reus,a,319,DirectFreekick,2016,RightFoot,3840,Borussia M.Gladbach,Borussia Dortmund,2,3,2017-04-22 17:30:00,,Standard
+133408,1,MissedShots,0.8819999694824219,0.42400001525878905,0.03717455640435219,Marco Reus,a,319,OpenPlay,2016,Head,3840,Borussia M.Gladbach,Borussia Dortmund,2,3,2017-04-22 17:30:00,Ousmane Dembélé,Chipped
+133409,9,Goal,0.885,0.5,0.75777667760849,Marco Reus,a,319,Penalty,2016,RightFoot,3840,Borussia M.Gladbach,Borussia Dortmund,2,3,2017-04-22 17:30:00,,Standard
+133410,11,SavedShot,0.9159999847412109,0.585,0.1324947625398636,Ousmane Dembélé,a,3226,OpenPlay,2016,LeftFoot,3840,Borussia M.Gladbach,Borussia Dortmund,2,3,2017-04-22 17:30:00,Christian Pulisic,Pass
+133413,26,BlockedShot,0.925,0.5770000076293945,0.28799542784690857,Marco Reus,a,319,OpenPlay,2016,RightFoot,3840,Borussia M.Gladbach,Borussia Dortmund,2,3,2017-04-22 17:30:00,Christian Pulisic,TakeOn
+133414,27,BlockedShot,0.9390000152587891,0.6,0.028616994619369507,Matthias Ginter,a,315,FromCorner,2016,Head,3840,Borussia M.Gladbach,Borussia Dortmund,2,3,2017-04-22 17:30:00,Raphael Guerreiro,Foul
+133417,47,OwnGoal,0.06699999809265136,0.5779999923706055,0,Marcel Schmelzer,a,313,FromCorner,2016,LeftFoot,3840,Borussia M.Gladbach,Borussia Dortmund,2,3,2017-04-22 17:30:00,,CornerAwarded
+133418,58,Goal,0.9630000305175781,0.6719999694824219,0.2678084671497345,Pierre-Emerick Aubameyang,a,318,OpenPlay,2016,LeftFoot,3840,Borussia M.Gladbach,Borussia Dortmund,2,3,2017-04-22 17:30:00,Ousmane Dembélé,Throughball
+133419,61,SavedShot,0.88,0.49,0.1441366970539093,Christian Pulisic,a,2662,OpenPlay,2016,RightFoot,3840,Borussia M.Gladbach,Borussia Dortmund,2,3,2017-04-22 17:30:00,Ousmane Dembélé,Pass
+133420,62,SavedShot,0.9180000305175782,0.46700000762939453,0.041422076523303986,Sven Bender,a,311,FromCorner,2016,Head,3840,Borussia M.Gladbach,Borussia Dortmund,2,3,2017-04-22 17:30:00,Ousmane Dembélé,Aerial
+133422,82,ShotOnPost,0.8880000305175781,0.635,0.11895626783370972,Raphael Guerreiro,a,3455,OpenPlay,2016,LeftFoot,3840,Borussia M.Gladbach,Borussia Dortmund,2,3,2017-04-22 17:30:00,Mikel Merino,Throughball
+133424,84,MissedShots,0.63,0.03700000047683716,0.014190367422997952,Ousmane Dembélé,a,3226,OpenPlay,2016,RightFoot,3840,Borussia M.Gladbach,Borussia Dortmund,2,3,2017-04-22 17:30:00,Erik Durm,TakeOn
+133425,86,Goal,0.9030000305175782,0.5829999923706055,0.06005563586950302,Raphael Guerreiro,a,3455,SetPiece,2016,Head,3840,Borussia M.Gladbach,Borussia Dortmund,2,3,2017-04-22 17:30:00,Gonzalo Castro,Cross

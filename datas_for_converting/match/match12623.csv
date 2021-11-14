@@ -1,0 +1,27 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+361702,8,BlockedShot,0.7290000152587891,0.3220000076293945,0.011636463925242424,Marius Wolf,h,2693,OpenPlay,2019,RightFoot,12623,Hertha Berlin,Werder Bremen,2,2,2020-03-07 14:30:00,Maximilian Mittelstädt,LayOff
+361703,13,BlockedShot,0.875999984741211,0.695,0.046857960522174835,Matheus Cunha,h,7080,OpenPlay,2019,RightFoot,12623,Hertha Berlin,Werder Bremen,2,2,2020-03-07 14:30:00,,Interception
+361704,20,SavedShot,0.6890000152587891,0.6329999923706054,0.01805652678012848,Matheus Cunha,h,7080,OpenPlay,2019,RightFoot,12623,Hertha Berlin,Werder Bremen,2,2,2020-03-07 14:30:00,,BallRecovery
+361705,34,SavedShot,0.750999984741211,0.5920000076293945,0.020347991958260536,Matheus Cunha,h,7080,OpenPlay,2019,RightFoot,12623,Hertha Berlin,Werder Bremen,2,2,2020-03-07 14:30:00,Marvin Plattenhardt,Pass
+361706,34,BlockedShot,0.845,0.3129999923706055,0.020581431686878204,Vladimir Darida,h,27,OpenPlay,2019,RightFoot,12623,Hertha Berlin,Werder Bremen,2,2,2020-03-07 14:30:00,,Rebound
+361707,37,MissedShots,0.76,0.29700000762939455,0.015714013949036598,Krzysztof Piatek,h,7090,OpenPlay,2019,RightFoot,12623,Hertha Berlin,Werder Bremen,2,2,2020-03-07 14:30:00,Niklas Stark,Pass
+361708,38,BlockedShot,0.904000015258789,0.5990000152587891,0.10551124811172485,Vladimir Darida,h,27,OpenPlay,2019,LeftFoot,12623,Hertha Berlin,Werder Bremen,2,2,2020-03-07 14:30:00,Matheus Cunha,Pass
+361709,40,Goal,0.9309999847412109,0.539000015258789,0.06830981373786926,Niklas Stark,h,418,SetPiece,2019,Head,12623,Hertha Berlin,Werder Bremen,2,2,2020-03-07 14:30:00,Marvin Plattenhardt,Aerial
+361710,42,BlockedShot,0.8809999847412109,0.27700000762939453,0.030687667429447174,Krzysztof Piatek,h,7090,OpenPlay,2019,RightFoot,12623,Hertha Berlin,Werder Bremen,2,2,2020-03-07 14:30:00,Maximilian Mittelstädt,Chipped
+361712,45,MissedShots,0.884000015258789,0.46900001525878904,0.060078416019678116,Matheus Cunha,h,7080,OpenPlay,2019,Head,12623,Hertha Berlin,Werder Bremen,2,2,2020-03-07 14:30:00,Vladimir Darida,Cross
+361713,50,MissedShots,0.92,0.500999984741211,0.09648919850587845,Matheus Cunha,h,7080,OpenPlay,2019,RightFoot,12623,Hertha Berlin,Werder Bremen,2,2,2020-03-07 14:30:00,Marvin Plattenhardt,Cross
+361714,55,BlockedShot,0.7019999694824218,0.6480000305175782,0.010455755516886711,Matheus Cunha,h,7080,OpenPlay,2019,RightFoot,12623,Hertha Berlin,Werder Bremen,2,2,2020-03-07 14:30:00,,None
+361715,59,SavedShot,0.8469999694824218,0.7319999694824219,0.02939135581254959,Maximilian Mittelstädt,h,419,OpenPlay,2019,LeftFoot,12623,Hertha Berlin,Werder Bremen,2,2,2020-03-07 14:30:00,Marius Wolf,Pass
+361716,59,Goal,0.86,0.5329999923706055,0.07072442770004272,Matheus Cunha,h,7080,OpenPlay,2019,RightFoot,12623,Hertha Berlin,Werder Bremen,2,2,2020-03-07 14:30:00,,Rebound
+361717,62,BlockedShot,0.855999984741211,0.475,0.017168324440717697,Krzysztof Piatek,h,7090,OpenPlay,2019,Head,12623,Hertha Berlin,Werder Bremen,2,2,2020-03-07 14:30:00,Vladimir Darida,Aerial
+361720,74,MissedShots,0.7319999694824219,0.6859999847412109,0.01451984141021967,Matheus Cunha,h,7080,OpenPlay,2019,RightFoot,12623,Hertha Berlin,Werder Bremen,2,2,2020-03-07 14:30:00,Marvin Plattenhardt,Pass
+361721,75,MissedShots,0.7130000305175781,0.5359999847412109,0.010143732652068138,Matheus Cunha,h,7080,SetPiece,2019,LeftFoot,12623,Hertha Berlin,Werder Bremen,2,2,2020-03-07 14:30:00,,None
+361723,78,BlockedShot,0.875,0.5509999847412109,0.1101519912481308,Vladimir Darida,h,27,OpenPlay,2019,RightFoot,12623,Hertha Berlin,Werder Bremen,2,2,2020-03-07 14:30:00,Maximilian Mittelstädt,Pass
+361725,89,MissedShots,0.9290000152587891,0.4759999847412109,0.14232581853866577,Vedad Ibisevic,h,29,OpenPlay,2019,Head,12623,Hertha Berlin,Werder Bremen,2,2,2020-03-07 14:30:00,Vladimir Darida,Cross
+361700,2,Goal,0.8080000305175781,0.544000015258789,0.05472036823630333,Joshua Sargent,a,7295,OpenPlay,2019,LeftFoot,12623,Hertha Berlin,Werder Bremen,2,2,2020-03-07 14:30:00,Leonardo Bittencourt,Pass
+361701,5,Goal,0.965,0.5270000076293946,0.6333234906196594,Davy Klaassen,a,6045,OpenPlay,2019,Head,12623,Hertha Berlin,Werder Bremen,2,2,2020-03-07 14:30:00,Milot Rashica,Cross
+361711,43,MissedShots,0.54,0.48700000762939455,0.008441719226539135,Milot Rashica,a,6523,OpenPlay,2019,RightFoot,12623,Hertha Berlin,Werder Bremen,2,2,2020-03-07 14:30:00,Davy Klaassen,BallRecovery
+361718,64,MissedShots,0.9159999847412109,0.4490000152587891,0.2930159270763397,Milos Veljkovic,a,2691,FromCorner,2019,Head,12623,Hertha Berlin,Werder Bremen,2,2,2020-03-07 14:30:00,Niklas Moisander,Cross
+361719,73,MissedShots,0.9319999694824219,0.5120000076293946,0.4677780866622925,Joshua Sargent,a,7295,OpenPlay,2019,Head,12623,Hertha Berlin,Werder Bremen,2,2,2020-03-07 14:30:00,Ludwig Augustinsson,Cross
+361722,76,BlockedShot,0.7959999847412109,0.36700000762939455,0.0296249371021986,Joshua Sargent,a,7295,OpenPlay,2019,LeftFoot,12623,Hertha Berlin,Werder Bremen,2,2,2020-03-07 14:30:00,Maximilian Eggestein,None
+361724,84,SavedShot,0.8040000152587891,0.7119999694824218,0.024146683514118195,Davy Klaassen,a,6045,OpenPlay,2019,RightFoot,12623,Hertha Berlin,Werder Bremen,2,2,2020-03-07 14:30:00,Joshua Sargent,Pass

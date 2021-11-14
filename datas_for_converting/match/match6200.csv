@@ -1,0 +1,25 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+283,1,MissedShots,0.9630000305175781,0.35700000762939454,0.3339388370513916,Vincent Aboubakar,h,4889,FromCorner,2014,RightFoot,6200,Lorient,Nice,0,0,2014-08-16 19:00:00,,None
+285,26,MissedShots,0.7619999694824219,0.5259999847412109,0.024087687954306602,Vincent Aboubakar,h,4889,OpenPlay,2014,LeftFoot,6200,Lorient,Nice,0,0,2014-08-16 19:00:00,,None
+286,30,SavedShot,0.7719999694824219,0.44099998474121094,0.028331849724054337,Yann Jouffre,h,3629,OpenPlay,2014,LeftFoot,6200,Lorient,Nice,0,0,2014-08-16 19:00:00,Bryan Pelé,Pass
+289,40,SavedShot,0.8519999694824218,0.720999984741211,0.01451091282069683,Bryan Pelé,h,4855,OpenPlay,2014,LeftFoot,6200,Lorient,Nice,0,0,2014-08-16 19:00:00,,Aerial
+290,40,MissedShots,0.8690000152587891,0.500999984741211,0.02594432234764099,Lamine Koné,h,728,FromCorner,2014,Head,6200,Lorient,Nice,0,0,2014-08-16 19:00:00,Yann Jouffre,Cross
+295,57,MissedShots,0.7240000152587891,0.69,0.012508870102465153,Rafidine Abdullah,h,3571,OpenPlay,2014,RightFoot,6200,Lorient,Nice,0,0,2014-08-16 19:00:00,Bryan Pelé,Pass
+296,63,SavedShot,0.8930000305175781,0.25799999237060545,0.03210537135601044,Yann Jouffre,h,3629,OpenPlay,2014,RightFoot,6200,Lorient,Nice,0,0,2014-08-16 19:00:00,Bryan Pelé,Pass
+297,64,MissedShots,0.7440000152587891,0.8,0.009798845276236534,Sadio Diallo,h,3326,OpenPlay,2014,RightFoot,6200,Lorient,Nice,0,0,2014-08-16 19:00:00,Bryan Pelé,Pass
+298,67,SavedShot,0.795,0.4540000152587891,0.02546299248933792,Mathieu Coutadeur,h,4844,OpenPlay,2014,RightFoot,6200,Lorient,Nice,0,0,2014-08-16 19:00:00,Vincent Aboubakar,HeadPass
+299,67,MissedShots,0.9269999694824219,0.48200000762939454,0.11454930901527405,Bruno Ecuele Manga,h,4883,FromCorner,2014,Head,6200,Lorient,Nice,0,0,2014-08-16 19:00:00,Yann Jouffre,Cross
+300,69,SavedShot,0.745999984741211,0.695,0.017860855907201767,Raphael Guerreiro,h,3455,OpenPlay,2014,LeftFoot,6200,Lorient,Nice,0,0,2014-08-16 19:00:00,Rafidine Abdullah,Pass
+301,69,SavedShot,0.905,0.3920000076293945,0.34603530168533325,Yann Jouffre,h,3629,OpenPlay,2014,RightFoot,6200,Lorient,Nice,0,0,2014-08-16 19:00:00,Bryan Pelé,Pass
+302,75,MissedShots,0.84,0.575,0.0350923165678978,Vincent Aboubakar,h,4889,FromCorner,2014,RightFoot,6200,Lorient,Nice,0,0,2014-08-16 19:00:00,Rafidine Abdullah,Chipped
+305,83,MissedShots,0.715,0.68,0.013338778167963028,Raphael Guerreiro,h,3455,OpenPlay,2014,LeftFoot,6200,Lorient,Nice,0,0,2014-08-16 19:00:00,Sadio Diallo,Pass
+284,8,MissedShots,0.7780000305175782,0.775,0.016300557181239128,Franck Honorat,a,3314,OpenPlay,2014,RightFoot,6200,Lorient,Nice,0,0,2014-08-16 19:00:00,Niklas Hult,Pass
+287,30,SavedShot,0.7290000152587891,0.5629999923706055,0.018175158649683,Niklas Hult,a,3317,OpenPlay,2014,LeftFoot,6200,Lorient,Nice,0,0,2014-08-16 19:00:00,Jérémy Pied,Pass
+288,34,BlockedShot,0.7390000152587891,0.635,0.049759939312934875,Valentin Eysseric,a,3515,DirectFreekick,2014,RightFoot,6200,Lorient,Nice,0,0,2014-08-16 19:00:00,,Standard
+291,42,MissedShots,0.7390000152587891,0.7580000305175781,0.009312519803643227,Jordan Amavi,a,961,OpenPlay,2014,LeftFoot,6200,Lorient,Nice,0,0,2014-08-16 19:00:00,,None
+292,45,MissedShots,0.815,0.5459999847412109,0.06391192972660065,Alexy Bosetti,a,4758,OpenPlay,2014,LeftFoot,6200,Lorient,Nice,0,0,2014-08-16 19:00:00,Franck Honorat,TakeOn
+293,54,MissedShots,0.759000015258789,0.504000015258789,0.022998487576842308,Valentin Eysseric,a,3515,OpenPlay,2014,LeftFoot,6200,Lorient,Nice,0,0,2014-08-16 19:00:00,,None
+294,56,BlockedShot,0.7919999694824219,0.21,0.01765252649784088,Valentin Eysseric,a,3515,OpenPlay,2014,LeftFoot,6200,Lorient,Nice,0,0,2014-08-16 19:00:00,Jérémy Pied,Pass
+303,81,SavedShot,0.8930000305175781,0.855,0.04976002871990204,Alexy Bosetti,a,4758,DirectFreekick,2014,RightFoot,6200,Lorient,Nice,0,0,2014-08-16 19:00:00,,Standard
+304,82,MissedShots,0.5159999847412109,0.4420000076293945,0.0076088448986411095,Éric Bautheac,a,3361,OpenPlay,2014,RightFoot,6200,Lorient,Nice,0,0,2014-08-16 19:00:00,Niklas Hult,Pass
+306,84,MissedShots,0.8969999694824219,0.41,0.07128310203552246,Alexy Bosetti,a,4758,OpenPlay,2014,RightFoot,6200,Lorient,Nice,0,0,2014-08-16 19:00:00,Jérémy Pied,Cross

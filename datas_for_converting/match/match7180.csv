@@ -1,0 +1,25 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+160229,2,Goal,0.8590000152587891,0.4909999847412109,0.34066617488861084,Juan Mata,h,554,OpenPlay,2017,LeftFoot,7180,Manchester United,Crystal Palace,4,0,2017-09-30 15:00:00,Marcus Rashford,Pass
+160231,10,MissedShots,0.8080000305175781,0.61,0.04275800287723541,Nemanja Matic,h,697,OpenPlay,2017,LeftFoot,7180,Manchester United,Crystal Palace,4,0,2017-09-30 15:00:00,Marcus Rashford,Pass
+160232,12,BlockedShot,0.774000015258789,0.31,0.019436754286289215,Antonio Valencia,h,627,OpenPlay,2017,RightFoot,7180,Manchester United,Crystal Palace,4,0,2017-09-30 15:00:00,Marouane Fellaini,Pass
+160233,13,BlockedShot,0.7759999847412109,0.2989999961853027,0.023674020543694496,Antonio Valencia,h,627,OpenPlay,2017,RightFoot,7180,Manchester United,Crystal Palace,4,0,2017-09-30 15:00:00,Nemanja Matic,Pass
+160234,22,BlockedShot,0.899000015258789,0.5070000076293946,0.06220852583646774,Chris Smalling,h,628,FromCorner,2017,Head,7180,Manchester United,Crystal Palace,4,0,2017-09-30 15:00:00,Juan Mata,Cross
+160236,34,Goal,0.950999984741211,0.43900001525878907,0.464459091424942,Marouane Fellaini,h,630,OpenPlay,2017,RightFoot,7180,Manchester United,Crystal Palace,4,0,2017-09-30 15:00:00,Ashley Young,Cross
+160237,40,MissedShots,0.9340000152587891,0.43,0.08363065868616104,Chris Smalling,h,628,FromCorner,2017,Head,7180,Manchester United,Crystal Palace,4,0,2017-09-30 15:00:00,Henrikh Mkhitaryan,Cross
+160238,42,MissedShots,0.875,0.43900001525878907,0.03227946162223816,Romelu Lukaku,h,594,OpenPlay,2017,Head,7180,Manchester United,Crystal Palace,4,0,2017-09-30 15:00:00,Juan Mata,Cross
+160239,42,SavedShot,0.965999984741211,0.6480000305175782,0.061292730271816254,Marcus Rashford,h,556,OpenPlay,2017,RightFoot,7180,Manchester United,Crystal Palace,4,0,2017-09-30 15:00:00,Romelu Lukaku,Rebound
+160240,43,MissedShots,0.9080000305175782,0.7140000152587891,0.03302451968193054,Henrikh Mkhitaryan,h,317,FromCorner,2017,RightFoot,7180,Manchester United,Crystal Palace,4,0,2017-09-30 15:00:00,Juan Mata,Cross
+160241,45,BlockedShot,0.9290000152587891,0.595999984741211,0.1273149996995926,Romelu Lukaku,h,594,OpenPlay,2017,LeftFoot,7180,Manchester United,Crystal Palace,4,0,2017-09-30 15:00:00,Marcus Rashford,Cross
+160242,46,BlockedShot,0.8290000152587891,0.54,0.06646806746721268,Marcus Rashford,h,556,OpenPlay,2017,RightFoot,7180,Manchester United,Crystal Palace,4,0,2017-09-30 15:00:00,,None
+160243,48,Goal,0.9690000152587891,0.495,0.677701473236084,Marouane Fellaini,h,630,SetPiece,2017,Head,7180,Manchester United,Crystal Palace,4,0,2017-09-30 15:00:00,Marcus Rashford,Cross
+160245,57,SavedShot,0.855999984741211,0.685,0.0311515424400568,Ashley Young,h,631,FromCorner,2017,RightFoot,7180,Manchester United,Crystal Palace,4,0,2017-09-30 15:00:00,Henrikh Mkhitaryan,Pass
+160249,70,MissedShots,0.8690000152587891,0.5420000076293945,0.42855820059776306,Romelu Lukaku,h,594,OpenPlay,2017,LeftFoot,7180,Manchester United,Crystal Palace,4,0,2017-09-30 15:00:00,,BallTouch
+160250,73,MissedShots,0.840999984741211,0.620999984741211,0.0752728134393692,Jesse Lingard,h,558,OpenPlay,2017,RightFoot,7180,Manchester United,Crystal Palace,4,0,2017-09-30 15:00:00,Romelu Lukaku,Pass
+160251,80,SavedShot,0.9069999694824219,0.629000015258789,0.3018033504486084,Anthony Martial,h,553,OpenPlay,2017,LeftFoot,7180,Manchester United,Crystal Palace,4,0,2017-09-30 15:00:00,Ander Herrera,Pass
+160252,85,Goal,0.94,0.45799999237060546,0.6053531765937805,Romelu Lukaku,h,594,OpenPlay,2017,LeftFoot,7180,Manchester United,Crystal Palace,4,0,2017-09-30 15:00:00,Anthony Martial,Pass
+160230,7,MissedShots,0.924000015258789,0.47299999237060547,0.06269385665655136,Mamadou Sakho,a,485,SetPiece,2017,Head,7180,Manchester United,Crystal Palace,4,0,2017-09-30 15:00:00,Yohan Cabaye,Aerial
+160235,31,SavedShot,0.875,0.7269999694824218,0.03296279162168503,Bakary Sako,a,520,OpenPlay,2017,LeftFoot,7180,Manchester United,Crystal Palace,4,0,2017-09-30 15:00:00,Yohan Cabaye,Pass
+160244,55,MissedShots,0.8730000305175781,0.4909999847412109,0.03231264650821686,Jeffrey Schlupp,a,757,OpenPlay,2017,Head,7180,Manchester United,Crystal Palace,4,0,2017-09-30 15:00:00,Bakary Sako,Cross
+160246,63,BlockedShot,0.8,0.6819999694824219,0.026726242154836655,Jeffrey Schlupp,a,757,OpenPlay,2017,LeftFoot,7180,Manchester United,Crystal Palace,4,0,2017-09-30 15:00:00,Bakary Sako,Pass
+160247,67,MissedShots,0.7280000305175781,0.5479999923706055,0.015113702975213528,Yohan Cabaye,a,516,OpenPlay,2017,RightFoot,7180,Manchester United,Crystal Palace,4,0,2017-09-30 15:00:00,Luka Milivojevic,Pass
+160248,69,MissedShots,0.8919999694824219,0.5309999847412109,0.07451171427965164,Bakary Sako,a,520,OpenPlay,2017,RightFoot,7180,Manchester United,Crystal Palace,4,0,2017-09-30 15:00:00,Joel Ward,Cross

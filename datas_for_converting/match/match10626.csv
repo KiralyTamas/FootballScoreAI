@@ -1,0 +1,24 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+300729,12,MissedShots,0.9219999694824219,0.37099998474121093,0.09394272416830063,Christian Pulisic,h,2662,OpenPlay,2018,RightFoot,10626,Borussia Dortmund,Fortuna Duesseldorf,3,2,2019-05-11 14:30:00,Paco Alcácer,Pass
+300730,20,SavedShot,0.8519999694824218,0.549000015258789,0.06895382702350616,Raphael Guerreiro,h,3455,OpenPlay,2018,RightFoot,10626,Borussia Dortmund,Fortuna Duesseldorf,3,2,2019-05-11 14:30:00,,None
+300731,20,BlockedShot,0.9159999847412109,0.46900001525878904,0.45440277457237244,Christian Pulisic,h,2662,OpenPlay,2018,LeftFoot,10626,Borussia Dortmund,Fortuna Duesseldorf,3,2,2019-05-11 14:30:00,,Rebound
+300733,31,MissedShots,0.75,0.445,0.021355679258704185,Thomas Delaney,h,5230,OpenPlay,2018,LeftFoot,10626,Borussia Dortmund,Fortuna Duesseldorf,3,2,2019-05-11 14:30:00,Paco Alcácer,Pass
+300734,37,MissedShots,0.7430000305175781,0.5940000152587891,0.01526582334190607,Raphael Guerreiro,h,3455,OpenPlay,2018,RightFoot,10626,Borussia Dortmund,Fortuna Duesseldorf,3,2,2019-05-11 14:30:00,,None
+300735,40,Goal,0.9740000152587891,0.500999984741211,0.7430843114852905,Christian Pulisic,h,2662,OpenPlay,2018,Head,10626,Borussia Dortmund,Fortuna Duesseldorf,3,2,2019-05-11 14:30:00,Thomas Delaney,HeadPass
+300737,51,SavedShot,0.7609999847412109,0.6809999847412109,0.054589029401540756,Raphael Guerreiro,h,3455,DirectFreekick,2018,LeftFoot,10626,Borussia Dortmund,Fortuna Duesseldorf,3,2,2019-05-11 14:30:00,,Standard
+300738,52,BlockedShot,0.88,0.2979999923706055,0.0729236900806427,Thomas Delaney,h,5230,OpenPlay,2018,RightFoot,10626,Borussia Dortmund,Fortuna Duesseldorf,3,2,2019-05-11 14:30:00,Mario Götze,LayOff
+300739,52,Goal,0.8719999694824219,0.46299999237060546,0.0923231691122055,Thomas Delaney,h,5230,OpenPlay,2018,LeftFoot,10626,Borussia Dortmund,Fortuna Duesseldorf,3,2,2019-05-11 14:30:00,,Rebound
+300740,54,MissedShots,0.81,0.46299999237060546,0.06902487576007843,Jacob Bruun Larsen,h,5355,OpenPlay,2018,RightFoot,10626,Borussia Dortmund,Fortuna Duesseldorf,3,2,2019-05-11 14:30:00,Christian Pulisic,Pass
+300742,59,BlockedShot,0.9290000152587891,0.34900001525878904,0.08926847577095032,Mario Götze,h,422,OpenPlay,2018,RightFoot,10626,Borussia Dortmund,Fortuna Duesseldorf,3,2,2019-05-11 14:30:00,Christian Pulisic,Pass
+300743,59,BlockedShot,0.8719999694824219,0.4229999923706055,0.09922690689563751,Axel Witsel,h,3059,OpenPlay,2018,RightFoot,10626,Borussia Dortmund,Fortuna Duesseldorf,3,2,2019-05-11 14:30:00,,Rebound
+300745,91,MissedShots,0.885,0.68,0.06824753433465958,Marcel Schmelzer,h,313,OpenPlay,2018,LeftFoot,10626,Borussia Dortmund,Fortuna Duesseldorf,3,2,2019-05-11 14:30:00,Paco Alcácer,HeadPass
+300746,91,BlockedShot,0.909000015258789,0.715,0.053885288536548615,Paco Alcácer,h,2380,OpenPlay,2018,RightFoot,10626,Borussia Dortmund,Fortuna Duesseldorf,3,2,2019-05-11 14:30:00,,Rebound
+300747,91,Goal,0.865,0.46,0.10256781429052353,Mario Götze,h,422,OpenPlay,2018,RightFoot,10626,Borussia Dortmund,Fortuna Duesseldorf,3,2,2019-05-11 14:30:00,,Rebound
+300728,11,SavedShot,0.9059999847412109,0.4520000076293945,0.08982966095209122,Dodi Lukebakio,a,5706,OpenPlay,2018,LeftFoot,10626,Borussia Dortmund,Fortuna Duesseldorf,3,2,2019-05-11 14:30:00,Markus Suttner,Cross
+300732,26,MissedShots,0.919000015258789,0.5179999923706055,0.06638030707836151,Dawid Kownacki,a,6190,OpenPlay,2018,Head,10626,Borussia Dortmund,Fortuna Duesseldorf,3,2,2019-05-11 14:30:00,Matthias Zimmermann,Aerial
+300736,46,Goal,0.919000015258789,0.575,0.07143808156251907,Oliver Fink,a,7255,OpenPlay,2018,Head,10626,Borussia Dortmund,Fortuna Duesseldorf,3,2,2019-05-11 14:30:00,Markus Suttner,Cross
+300741,58,MissedShots,0.885,0.5,0.75777667760849,Dodi Lukebakio,a,5706,Penalty,2018,LeftFoot,10626,Borussia Dortmund,Fortuna Duesseldorf,3,2,2019-05-11 14:30:00,,Standard
+300744,81,MissedShots,0.9180000305175782,0.51,0.047147419303655624,Niko Gießelmann,a,7056,FromCorner,2018,Head,10626,Borussia Dortmund,Fortuna Duesseldorf,3,2,2019-05-11 14:30:00,Kevin Stöger,Aerial
+300748,94,Goal,0.919000015258789,0.5640000152587891,0.43485742807388306,Dawid Kownacki,a,6190,FromCorner,2018,RightFoot,10626,Borussia Dortmund,Fortuna Duesseldorf,3,2,2019-05-11 14:30:00,Kaan Ayhan,Throughball
+300749,95,BlockedShot,0.8880000305175781,0.5509999847412109,0.07584570348262787,Andre Hoffmann,a,436,OpenPlay,2018,LeftFoot,10626,Borussia Dortmund,Fortuna Duesseldorf,3,2,2019-05-11 14:30:00,Niko Gießelmann,Cross
+300750,97,MissedShots,0.97,0.4370000076293945,0.5344030261039734,Kenan Karaman,a,98,SetPiece,2018,RightFoot,10626,Borussia Dortmund,Fortuna Duesseldorf,3,2,2019-05-11 14:30:00,Kevin Stöger,Cross

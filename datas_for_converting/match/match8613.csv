@@ -1,0 +1,24 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+163230,5,MissedShots,0.905,0.4620000076293945,0.09004408121109009,Giovanni Sio,h,3228,OpenPlay,2017,Head,8613,Montpellier,Nantes,0,1,2017-09-09 19:00:00,Nordi Mukiele,Cross
+163232,15,SavedShot,0.895,0.40799999237060547,0.07389293611049652,Giovanni Sio,h,3228,OpenPlay,2017,LeftFoot,8613,Montpellier,Nantes,0,1,2017-09-09 19:00:00,Isaac Mbenza,Cross
+163235,30,MissedShots,0.825999984741211,0.32,0.03428652137517929,Giovanni Sio,h,3228,OpenPlay,2017,LeftFoot,8613,Montpellier,Nantes,0,1,2017-09-09 19:00:00,Kévin Berigaud,Pass
+163236,34,MissedShots,0.7340000152587891,0.40799999237060547,0.013445992022752762,Paul Lasne,h,3741,OpenPlay,2017,RightFoot,8613,Montpellier,Nantes,0,1,2017-09-09 19:00:00,,None
+163241,50,SavedShot,0.8109999847412109,0.7140000152587891,0.03067224845290184,Jonathan Ikone,h,5661,OpenPlay,2017,LeftFoot,8613,Montpellier,Nantes,0,1,2017-09-09 19:00:00,Ellyes Skhiri,TakeOn
+163243,65,BlockedShot,0.7190000152587891,0.425,0.015972120687365532,Ellyes Skhiri,h,3347,OpenPlay,2017,RightFoot,8613,Montpellier,Nantes,0,1,2017-09-09 19:00:00,Keagan Dolly,Pass
+163244,70,BlockedShot,0.76,0.27600000381469725,0.01728232391178608,Keagan Dolly,h,5663,OpenPlay,2017,LeftFoot,8613,Montpellier,Nantes,0,1,2017-09-09 19:00:00,Ellyes Skhiri,Pass
+163245,73,MissedShots,0.9130000305175782,0.580999984741211,0.06086474657058716,Casimir Ninga,h,3344,FromCorner,2017,LeftFoot,8613,Montpellier,Nantes,0,1,2017-09-09 19:00:00,Keagan Dolly,Cross
+163248,80,MissedShots,0.789000015258789,0.46099998474121096,0.04139390215277672,Giovanni Sio,h,3228,OpenPlay,2017,LeftFoot,8613,Montpellier,Nantes,0,1,2017-09-09 19:00:00,Casimir Ninga,Pass
+163250,89,BlockedShot,0.7419999694824219,0.42700000762939455,0.01936694234609604,Jérôme Roussillon,h,3339,SetPiece,2017,LeftFoot,8613,Montpellier,Nantes,0,1,2017-09-09 19:00:00,Keagan Dolly,Pass
+163251,90,SavedShot,0.7390000152587891,0.265,0.014381957240402699,Paul Lasne,h,3741,OpenPlay,2017,LeftFoot,8613,Montpellier,Nantes,0,1,2017-09-09 19:00:00,Nordi Mukiele,Pass
+163229,5,MissedShots,0.9059999847412109,0.40599998474121096,0.04808707535266876,Emiliano Sala,a,3406,OpenPlay,2017,Head,8613,Montpellier,Nantes,0,1,2017-09-09 19:00:00,Adrien Thomasson,Cross
+163231,9,MissedShots,0.745,0.46599998474121096,0.020416267216205597,Adrien Thomasson,a,3549,OpenPlay,2017,RightFoot,8613,Montpellier,Nantes,0,1,2017-09-09 19:00:00,Jules Iloki,LayOff
+163233,25,BlockedShot,0.88,0.745999984741211,0.03216232731938362,Lucas Lima,a,5713,OpenPlay,2017,LeftFoot,8613,Montpellier,Nantes,0,1,2017-09-09 19:00:00,Emiliano Sala,Pass
+163234,29,MissedShots,0.7180000305175781,0.4909999847412109,0.047517966479063034,Abdoulaye Touré,a,3674,DirectFreekick,2017,RightFoot,8613,Montpellier,Nantes,0,1,2017-09-09 19:00:00,,Standard
+163237,36,MissedShots,0.92,0.44299999237060544,0.11927486211061478,Adrien Thomasson,a,3549,OpenPlay,2017,Head,8613,Montpellier,Nantes,0,1,2017-09-09 19:00:00,Jules Iloki,Cross
+163238,36,BlockedShot,0.9740000152587891,0.625,0.07063547521829605,Emiliano Sala,a,3406,OpenPlay,2017,LeftFoot,8613,Montpellier,Nantes,0,1,2017-09-09 19:00:00,Adrien Thomasson,None
+163239,38,SavedShot,0.8059999847412109,0.21899999618530275,0.019374845549464226,Adrien Thomasson,a,3549,OpenPlay,2017,RightFoot,8613,Montpellier,Nantes,0,1,2017-09-09 19:00:00,Emiliano Sala,TakeOn
+163240,46,SavedShot,0.9169999694824219,0.5940000152587891,0.04433880001306534,Abdoulaye Touré,a,3674,FromCorner,2017,Head,8613,Montpellier,Nantes,0,1,2017-09-09 19:00:00,Lucas Lima,Cross
+163242,62,MissedShots,0.9719999694824218,0.4159999847412109,0.08801182359457016,Andrei Girotto,a,6112,FromCorner,2017,Head,8613,Montpellier,Nantes,0,1,2017-09-09 19:00:00,Lucas Lima,Cross
+163246,75,Goal,0.754000015258789,0.4279999923706055,0.06694938987493515,Diego Carlos,a,5712,DirectFreekick,2017,RightFoot,8613,Montpellier,Nantes,0,1,2017-09-09 19:00:00,,Standard
+163247,79,SavedShot,0.715,0.365,0.014911331236362457,Andrei Girotto,a,6112,OpenPlay,2017,RightFoot,8613,Montpellier,Nantes,0,1,2017-09-09 19:00:00,Adrien Thomasson,Pass
+163249,87,MissedShots,0.7659999847412109,0.7319999694824219,0.020002420991659164,Najib Gandi,a,6057,OpenPlay,2017,RightFoot,8613,Montpellier,Nantes,0,1,2017-09-09 19:00:00,Yassine El Ghanassy,Pass

@@ -1,0 +1,37 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+400420,11,BlockedShot,0.9280000305175782,0.3659999847412109,0.07410825788974762,Woo-Yeong Jeong,h,7267,OpenPlay,2020,RightFoot,15296,Freiburg,VfB Stuttgart,2,1,2021-01-23 14:30:00,Christian Günter,Pass
+400422,13,Goal,0.9030000305175782,0.575,0.5588310956954956,Ermedin Demirovic,h,6496,OpenPlay,2020,RightFoot,15296,Freiburg,VfB Stuttgart,2,1,2021-01-23 14:30:00,,Dispossessed
+400425,27,BlockedShot,0.874000015258789,0.5359999847412109,0.11493739485740662,Woo-Yeong Jeong,h,7267,OpenPlay,2020,RightFoot,15296,Freiburg,VfB Stuttgart,2,1,2021-01-23 14:30:00,Christian Günter,Pass
+400426,28,SavedShot,0.975,0.3970000076293945,0.04930831864476204,Ermedin Demirovic,h,6496,FromCorner,2020,RightFoot,15296,Freiburg,VfB Stuttgart,2,1,2021-01-23 14:30:00,Vincenzo Grifo,Cross
+400427,31,MissedShots,0.9390000152587891,0.34,0.02719438076019287,Keven Schlotterbeck,h,7401,SetPiece,2020,Head,15296,Freiburg,VfB Stuttgart,2,1,2021-01-23 14:30:00,Vincenzo Grifo,Chipped
+400431,36,Goal,0.875,0.5979999923706054,0.33091190457344055,Woo-Yeong Jeong,h,7267,OpenPlay,2020,LeftFoot,15296,Freiburg,VfB Stuttgart,2,1,2021-01-23 14:30:00,,None
+400432,39,MissedShots,0.8930000305175781,0.47099998474121096,0.11323501914739609,Jonathan Schmid,h,81,OpenPlay,2020,Head,15296,Freiburg,VfB Stuttgart,2,1,2021-01-23 14:30:00,Vincenzo Grifo,Cross
+400433,42,MissedShots,0.884000015258789,0.595999984741211,0.09112674742937088,Ermedin Demirovic,h,6496,OpenPlay,2020,RightFoot,15296,Freiburg,VfB Stuttgart,2,1,2021-01-23 14:30:00,Keven Schlotterbeck,Chipped
+400434,42,SavedShot,0.865,0.4640000152587891,0.11421427130699158,Janik Haberer,h,4271,OpenPlay,2020,RightFoot,15296,Freiburg,VfB Stuttgart,2,1,2021-01-23 14:30:00,Vincenzo Grifo,Pass
+400447,77,SavedShot,0.9590000152587891,0.7040000152587891,0.0605660118162632,Ermedin Demirovic,h,6496,OpenPlay,2020,LeftFoot,15296,Freiburg,VfB Stuttgart,2,1,2021-01-23 14:30:00,Lucas Höler,Pass
+400418,6,SavedShot,0.8969999694824219,0.55,0.43380576372146606,Daniel Didavi,a,300,OpenPlay,2020,LeftFoot,15296,Freiburg,VfB Stuttgart,2,1,2021-01-23 14:30:00,Silas Wamangituka,Pass
+400419,6,Goal,0.9469999694824218,0.5920000076293945,0.4517837464809418,Silas Wamangituka,a,8807,OpenPlay,2020,RightFoot,15296,Freiburg,VfB Stuttgart,2,1,2021-01-23 14:30:00,,None
+400421,12,SavedShot,0.7240000152587891,0.5670000076293945,0.02096611261367798,Marc-Oliver Kempf,a,4291,OpenPlay,2020,LeftFoot,15296,Freiburg,VfB Stuttgart,2,1,2021-01-23 14:30:00,Orel Mangala,Pass
+400423,14,MissedShots,0.924000015258789,0.6559999847412109,0.08361797034740448,Orel Mangala,a,6088,OpenPlay,2020,LeftFoot,15296,Freiburg,VfB Stuttgart,2,1,2021-01-23 14:30:00,Wataru Endo,Pass
+400424,19,MissedShots,0.544000015258789,0.48700000762939455,0.007748570293188095,Nicolás González,a,7074,OpenPlay,2020,LeftFoot,15296,Freiburg,VfB Stuttgart,2,1,2021-01-23 14:30:00,,BallRecovery
+400428,32,MissedShots,0.7669999694824219,0.43599998474121093,0.03136549890041351,Wataru Endo,a,8808,OpenPlay,2020,RightFoot,15296,Freiburg,VfB Stuttgart,2,1,2021-01-23 14:30:00,Gonzalo Castro,LayOff
+400429,35,MissedShots,0.715999984741211,0.28600000381469726,0.033865757286548615,Tanguy Coulibaly,a,8813,DirectFreekick,2020,LeftFoot,15296,Freiburg,VfB Stuttgart,2,1,2021-01-23 14:30:00,,Standard
+400430,36,SavedShot,0.8059999847412109,0.5,0.055572692304849625,Nicolás González,a,7074,OpenPlay,2020,LeftFoot,15296,Freiburg,VfB Stuttgart,2,1,2021-01-23 14:30:00,Tanguy Coulibaly,Pass
+400435,44,SavedShot,0.885,0.5,0.75777667760849,Nicolás González,a,7074,Penalty,2020,LeftFoot,15296,Freiburg,VfB Stuttgart,2,1,2021-01-23 14:30:00,,Standard
+400436,45,BlockedShot,0.7809999847412109,0.34,0.039621371775865555,Gonzalo Castro,a,316,OpenPlay,2020,RightFoot,15296,Freiburg,VfB Stuttgart,2,1,2021-01-23 14:30:00,Nicolás González,Pass
+400437,45,SavedShot,0.845999984741211,0.6359999847412109,0.03969459980726242,Orel Mangala,a,6088,FromCorner,2020,RightFoot,15296,Freiburg,VfB Stuttgart,2,1,2021-01-23 14:30:00,,None
+400438,46,SavedShot,0.86,0.5459999847412109,0.058468177914619446,Gonzalo Castro,a,316,OpenPlay,2020,RightFoot,15296,Freiburg,VfB Stuttgart,2,1,2021-01-23 14:30:00,Daniel Didavi,Cross
+400439,46,SavedShot,0.78,0.659000015258789,0.020913992077112198,Orel Mangala,a,6088,OpenPlay,2020,RightFoot,15296,Freiburg,VfB Stuttgart,2,1,2021-01-23 14:30:00,Silas Wamangituka,Pass
+400440,48,BlockedShot,0.7369999694824219,0.595999984741211,0.018363023176789284,Wataru Endo,a,8808,OpenPlay,2020,RightFoot,15296,Freiburg,VfB Stuttgart,2,1,2021-01-23 14:30:00,Daniel Didavi,Pass
+400441,48,MissedShots,0.7369999694824219,0.605999984741211,0.018965745344758034,Silas Wamangituka,a,8807,OpenPlay,2020,RightFoot,15296,Freiburg,VfB Stuttgart,2,1,2021-01-23 14:30:00,Wataru Endo,Pass
+400442,50,BlockedShot,0.795,0.5609999847412109,0.03659598156809807,Nicolás González,a,7074,OpenPlay,2020,LeftFoot,15296,Freiburg,VfB Stuttgart,2,1,2021-01-23 14:30:00,,None
+400443,54,MissedShots,0.8919999694824219,0.669000015258789,0.06206429377198219,Nicolás González,a,7074,OpenPlay,2020,LeftFoot,15296,Freiburg,VfB Stuttgart,2,1,2021-01-23 14:30:00,Daniel Didavi,Pass
+400444,60,MissedShots,0.8680000305175781,0.524000015258789,0.042833466082811356,Marc-Oliver Kempf,a,4291,SetPiece,2020,Head,15296,Freiburg,VfB Stuttgart,2,1,2021-01-23 14:30:00,Gonzalo Castro,Cross
+400445,64,MissedShots,0.710999984741211,0.6029999923706054,0.015442113392055035,Wataru Endo,a,8808,OpenPlay,2020,RightFoot,15296,Freiburg,VfB Stuttgart,2,1,2021-01-23 14:30:00,Tanguy Coulibaly,Pass
+400446,74,SavedShot,0.960999984741211,0.445,0.4852961301803589,Konstantinos Mavropanos,a,6722,OpenPlay,2020,RightFoot,15296,Freiburg,VfB Stuttgart,2,1,2021-01-23 14:30:00,Orel Mangala,Cross
+400448,78,BlockedShot,0.845,0.5359999847412109,0.07377880066633224,Mateo Klimowicz,a,8809,OpenPlay,2020,RightFoot,15296,Freiburg,VfB Stuttgart,2,1,2021-01-23 14:30:00,Orel Mangala,Pass
+400449,80,MissedShots,0.9269999694824219,0.539000015258789,0.10087215900421143,Sasa Kalajdzic,a,8812,OpenPlay,2020,Head,15296,Freiburg,VfB Stuttgart,2,1,2021-01-23 14:30:00,Marc-Oliver Kempf,Cross
+400450,84,SavedShot,0.7390000152587891,0.7519999694824219,0.015861960127949715,Nicolás González,a,7074,OpenPlay,2020,RightFoot,15296,Freiburg,VfB Stuttgart,2,1,2021-01-23 14:30:00,Erik Thommy,Pass
+400451,86,ShotOnPost,0.88,0.774000015258789,0.021483488380908966,Erik Thommy,a,2676,OpenPlay,2020,LeftFoot,15296,Freiburg,VfB Stuttgart,2,1,2021-01-23 14:30:00,Konstantinos Mavropanos,Chipped
+400452,89,BlockedShot,0.7880000305175782,0.6569999694824219,0.023450220003724098,Philipp Klement,a,409,OpenPlay,2020,LeftFoot,15296,Freiburg,VfB Stuttgart,2,1,2021-01-23 14:30:00,,None
+400453,89,MissedShots,0.8690000152587891,0.605,0.07654312998056412,Nicolás González,a,7074,OpenPlay,2020,LeftFoot,15296,Freiburg,VfB Stuttgart,2,1,2021-01-23 14:30:00,Philipp Klement,Pass

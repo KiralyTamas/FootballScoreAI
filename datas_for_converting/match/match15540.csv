@@ -1,0 +1,28 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+392860,4,MissedShots,0.9030000305175782,0.5370000076293945,0.42193567752838135,Cristiano Ronaldo,h,2371,OpenPlay,2020,LeftFoot,15540,Juventus,Atalanta,1,1,2020-12-16 17:30:00,Álvaro Morata,Pass
+392861,11,MissedShots,0.9159999847412109,0.5,0.48965296149253845,Álvaro Morata,h,1804,OpenPlay,2020,RightFoot,15540,Juventus,Atalanta,1,1,2020-12-16 17:30:00,Cristiano Ronaldo,BallTouch
+392863,28,Goal,0.7809999847412109,0.40900001525878904,0.030337592586874962,Federico Chiesa,h,1433,OpenPlay,2020,RightFoot,15540,Juventus,Atalanta,1,1,2020-12-16 17:30:00,Rodrigo Bentancur,Pass
+392869,47,SavedShot,0.925,0.645,0.3151991665363312,Álvaro Morata,h,1804,OpenPlay,2020,RightFoot,15540,Juventus,Atalanta,1,1,2020-12-16 17:30:00,Weston McKennie,Pass
+392870,54,MissedShots,0.895,0.45099998474121095,0.07117464393377304,Adrien Rabiot,h,3291,SetPiece,2020,Head,15540,Juventus,Atalanta,1,1,2020-12-16 17:30:00,Federico Chiesa,Cross
+392872,60,SavedShot,0.885,0.5,0.7612589001655579,Cristiano Ronaldo,h,2371,Penalty,2020,RightFoot,15540,Juventus,Atalanta,1,1,2020-12-16 17:30:00,,Standard
+392874,61,SavedShot,0.8540000152587891,0.48400001525878905,0.2927415072917938,Álvaro Morata,h,1804,OpenPlay,2020,RightFoot,15540,Juventus,Atalanta,1,1,2020-12-16 17:30:00,Weston McKennie,LayOff
+392875,62,SavedShot,0.9069999694824219,0.534000015258789,0.06962163746356964,Matthijs de Ligt,h,7902,FromCorner,2020,Head,15540,Juventus,Atalanta,1,1,2020-12-16 17:30:00,Juan Cuadrado,Cross
+392880,78,SavedShot,0.865999984741211,0.3039999961853027,0.047953784465789795,Danilo,h,2244,OpenPlay,2020,RightFoot,15540,Juventus,Atalanta,1,1,2020-12-16 17:30:00,Cristiano Ronaldo,Pass
+392881,78,SavedShot,0.905,0.46700000762939453,0.11195360124111176,Weston McKennie,h,5360,OpenPlay,2020,LeftFoot,15540,Juventus,Atalanta,1,1,2020-12-16 17:30:00,Álvaro Morata,Cross
+392883,84,BlockedShot,0.875999984741211,0.5279999923706055,0.082768514752388,Paulo Dybala,h,1294,OpenPlay,2020,LeftFoot,15540,Juventus,Atalanta,1,1,2020-12-16 17:30:00,Alex Sandro,Cross
+392884,84,MissedShots,0.7830000305175782,0.6759999847412109,0.017219893634319305,Cristiano Ronaldo,h,2371,OpenPlay,2020,RightFoot,15540,Juventus,Atalanta,1,1,2020-12-16 17:30:00,,Rebound
+392858,2,MissedShots,0.7319999694824219,0.325,0.040267251431941986,Ruslan Malinovskiy,a,7947,DirectFreekick,2020,LeftFoot,15540,Juventus,Atalanta,1,1,2020-12-16 17:30:00,,Standard
+392859,3,SavedShot,0.7619999694824219,0.6419999694824219,0.020146112889051437,Matteo Pessina,a,7013,OpenPlay,2020,LeftFoot,15540,Juventus,Atalanta,1,1,2020-12-16 17:30:00,Duván Zapata,Pass
+392862,16,BlockedShot,0.8519999694824218,0.6329999923706054,0.06670469790697098,Duván Zapata,a,1148,OpenPlay,2020,RightFoot,15540,Juventus,Atalanta,1,1,2020-12-16 17:30:00,Matteo Pessina,Pass
+392864,31,SavedShot,0.9480000305175781,0.625999984741211,0.30044686794281006,Duván Zapata,a,1148,OpenPlay,2020,LeftFoot,15540,Juventus,Atalanta,1,1,2020-12-16 17:30:00,Matteo Pessina,Pass
+392865,37,MissedShots,0.84,0.375,0.0461699403822422,Ruslan Malinovskiy,a,7947,OpenPlay,2020,LeftFoot,15540,Juventus,Atalanta,1,1,2020-12-16 17:30:00,Remo Freuler,BallRecovery
+392866,40,SavedShot,0.75,0.6409999847412109,0.052456654608249664,Ruslan Malinovskiy,a,7947,DirectFreekick,2020,LeftFoot,15540,Juventus,Atalanta,1,1,2020-12-16 17:30:00,,Standard
+392867,41,MissedShots,0.8419999694824218,0.12399999618530273,0.012259993702173233,Ruslan Malinovskiy,a,7947,FromCorner,2020,LeftFoot,15540,Juventus,Atalanta,1,1,2020-12-16 17:30:00,,None
+392868,43,MissedShots,0.775,0.5790000152587891,0.029201572760939598,Matteo Pessina,a,7013,OpenPlay,2020,LeftFoot,15540,Juventus,Atalanta,1,1,2020-12-16 17:30:00,Robin Gosens,Pass
+392871,56,Goal,0.789000015258789,0.4229999923706055,0.03246070444583893,Remo Freuler,a,1488,OpenPlay,2020,RightFoot,15540,Juventus,Atalanta,1,1,2020-12-16 17:30:00,,None
+392873,61,BlockedShot,0.8109999847412109,0.6229999923706054,0.03462506830692291,Duván Zapata,a,1148,OpenPlay,2020,RightFoot,15540,Juventus,Atalanta,1,1,2020-12-16 17:30:00,Hans Hateboer,Chipped
+392876,64,MissedShots,0.955999984741211,0.600999984741211,0.09139015525579453,Robin Gosens,a,6155,OpenPlay,2020,LeftFoot,15540,Juventus,Atalanta,1,1,2020-12-16 17:30:00,Hans Hateboer,Cross
+392877,72,SavedShot,0.8809999847412109,0.47200000762939454,0.015344747342169285,Cristian Romero,a,7218,FromCorner,2020,Head,15540,Juventus,Atalanta,1,1,2020-12-16 17:30:00,Robin Gosens,Aerial
+392878,72,BlockedShot,0.8640000152587891,0.5579999923706055,0.06671516597270966,Hans Hateboer,a,4941,OpenPlay,2020,RightFoot,15540,Juventus,Atalanta,1,1,2020-12-16 17:30:00,Alejandro Gomez,Cross
+392879,72,BlockedShot,0.8619999694824219,0.529000015258789,0.07771845906972885,Hans Hateboer,a,4941,OpenPlay,2020,RightFoot,15540,Juventus,Atalanta,1,1,2020-12-16 17:30:00,,Rebound
+392882,81,SavedShot,0.7980000305175782,0.6859999847412109,0.0213162861764431,Alejandro Gomez,a,1491,OpenPlay,2020,LeftFoot,15540,Juventus,Atalanta,1,1,2020-12-16 17:30:00,Luis Muriel,Pass

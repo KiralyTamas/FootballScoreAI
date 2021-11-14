@@ -1,0 +1,25 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+47638,2,MissedShots,0.7119999694824218,0.51,0.013602695427834988,Giacomo Bonaventura,h,1121,FromCorner,2014,RightFoot,4948,AC Milan,Cesena,2,0,2015-02-22 14:00:00,Adil Rami,None
+47642,21,Goal,0.7919999694824219,0.6819999694824219,0.021095888689160347,Giacomo Bonaventura,h,1121,OpenPlay,2014,RightFoot,4948,AC Milan,Cesena,2,0,2015-02-22 14:00:00,Jérémy Menez,Pass
+47645,43,BlockedShot,0.7169999694824218,0.5320000076293945,0.018096337094902992,Andrea Poli,h,1117,OpenPlay,2014,RightFoot,4948,AC Milan,Cesena,2,0,2015-02-22 14:00:00,Riccardo Montolivo,Pass
+47646,44,MissedShots,0.8040000152587891,0.71,0.034745991230010986,Riccardo Montolivo,h,1573,OpenPlay,2014,RightFoot,4948,AC Milan,Cesena,2,0,2015-02-22 14:00:00,Giacomo Bonaventura,TakeOn
+47648,46,MissedShots,0.76,0.5559999847412109,0.032556090503931046,Mattia Destro,h,1580,OpenPlay,2014,RightFoot,4948,AC Milan,Cesena,2,0,2015-02-22 14:00:00,Riccardo Montolivo,Pass
+47650,50,BlockedShot,0.8219999694824218,0.600999984741211,0.06243522837758064,Giacomo Bonaventura,h,1121,OpenPlay,2014,RightFoot,4948,AC Milan,Cesena,2,0,2015-02-22 14:00:00,Jérémy Menez,Pass
+47651,52,ShotOnPost,0.899000015258789,0.425,0.09508582204580307,Giacomo Bonaventura,h,1121,OpenPlay,2014,RightFoot,4948,AC Milan,Cesena,2,0,2015-02-22 14:00:00,Jérémy Menez,Cross
+47654,64,MissedShots,0.765,0.639000015258789,0.018399637192487717,Jérémy Menez,h,2014,OpenPlay,2014,RightFoot,4948,AC Milan,Cesena,2,0,2015-02-22 14:00:00,Giampaolo Pazzini,Chipped
+47655,66,BlockedShot,0.7859999847412109,0.7340000152587891,0.011577638797461987,Riccardo Montolivo,h,1573,SetPiece,2014,RightFoot,4948,AC Milan,Cesena,2,0,2015-02-22 14:00:00,,None
+47656,69,MissedShots,0.9,0.39,0.03504607453942299,Giampaolo Pazzini,h,1847,OpenPlay,2014,Head,4948,AC Milan,Cesena,2,0,2015-02-22 14:00:00,Jérémy Menez,Chipped
+47657,72,MissedShots,0.9180000305175782,0.26299999237060545,0.04616449773311615,Giampaolo Pazzini,h,1847,OpenPlay,2014,RightFoot,4948,AC Milan,Cesena,2,0,2015-02-22 14:00:00,Giacomo Bonaventura,Pass
+47658,79,MissedShots,0.8119999694824219,0.6909999847412109,0.03963775932788849,Jérémy Menez,h,2014,OpenPlay,2014,LeftFoot,4948,AC Milan,Cesena,2,0,2015-02-22 14:00:00,,None
+47660,89,Goal,0.885,0.5,0.7612988352775574,Giampaolo Pazzini,h,1847,Penalty,2014,RightFoot,4948,AC Milan,Cesena,2,0,2015-02-22 14:00:00,,Standard
+47661,94,MissedShots,0.9640000152587891,0.639000015258789,0.06498736888170242,Adil Rami,h,2412,SetPiece,2014,LeftFoot,4948,AC Milan,Cesena,2,0,2015-02-22 14:00:00,,None
+47639,7,BlockedShot,0.7919999694824219,0.39599998474121095,0.03172275424003601,Giuseppe De Feudis,a,3855,OpenPlay,2014,RightFoot,4948,AC Milan,Cesena,2,0,2015-02-22 14:00:00,Luigi Giorgi,Pass
+47640,9,BlockedShot,0.94,0.2929999923706055,0.10021074116230011,Milan Djuric,a,3856,OpenPlay,2014,RightFoot,4948,AC Milan,Cesena,2,0,2015-02-22 14:00:00,Gregoire Defrel,Chipped
+47641,17,SavedShot,0.755,0.47,0.025483716279268265,Gregoire Defrel,a,1468,OpenPlay,2014,LeftFoot,4948,AC Milan,Cesena,2,0,2015-02-22 14:00:00,Luigi Giorgi,Pass
+47643,26,BlockedShot,0.8159999847412109,0.5320000076293945,0.0444612093269825,Milan Djuric,a,3856,OpenPlay,2014,LeftFoot,4948,AC Milan,Cesena,2,0,2015-02-22 14:00:00,Gregoire Defrel,Chipped
+47644,34,BlockedShot,0.7619999694824219,0.5459999847412109,0.027504129335284233,Zé Eduardo,a,3860,OpenPlay,2014,RightFoot,4948,AC Milan,Cesena,2,0,2015-02-22 14:00:00,Gregoire Defrel,Pass
+47647,47,SavedShot,0.8859999847412109,0.6469999694824219,0.05281336233019829,Giuseppe De Feudis,a,3855,OpenPlay,2014,RightFoot,4948,AC Milan,Cesena,2,0,2015-02-22 14:00:00,Franco Brienza,Chipped
+47649,49,BlockedShot,0.93,0.3629999923706055,0.06657673418521881,Milan Djuric,a,3856,OpenPlay,2014,RightFoot,4948,AC Milan,Cesena,2,0,2015-02-22 14:00:00,Francesco Renzetti,Chipped
+47652,52,BlockedShot,0.7859999847412109,0.555,0.05832493305206299,Giuseppe De Feudis,a,3855,OpenPlay,2014,RightFoot,4948,AC Milan,Cesena,2,0,2015-02-22 14:00:00,Franco Brienza,LayOff
+47653,59,MissedShots,0.8219999694824218,0.639000015258789,0.041143715381622314,Giuseppe De Feudis,a,3855,OpenPlay,2014,RightFoot,4948,AC Milan,Cesena,2,0,2015-02-22 14:00:00,Luigi Giorgi,Pass
+47659,83,MissedShots,0.9219999694824219,0.629000015258789,0.04669109731912613,Daniele Capelli,a,3853,FromCorner,2014,RightFoot,4948,AC Milan,Cesena,2,0,2015-02-22 14:00:00,Carlos Carbonero,Cross

@@ -1,0 +1,35 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+21845,1,MissedShots,0.78,0.6140000152587891,0.02108703926205635,Leonardo Ulloa,h,756,OpenPlay,2014,RightFoot,4442,Leicester,West Ham,2,1,2015-04-04 15:00:00,Riyad Mahrez,Pass
+21846,11,Goal,0.774000015258789,0.5129999923706055,0.02973654307425022,Esteban Cambiasso,h,4440,OpenPlay,2014,LeftFoot,4442,Leicester,West Ham,2,1,2015-04-04 15:00:00,,None
+21848,14,SavedShot,0.885,0.5,0.7611688375473022,David Nugent,h,1753,Penalty,2014,RightFoot,4442,Leicester,West Ham,2,1,2015-04-04 15:00:00,,Standard
+21849,14,BlockedShot,0.7730000305175782,0.730999984741211,0.021682679653167725,Jeffrey Schlupp,h,757,OpenPlay,2014,LeftFoot,4442,Leicester,West Ham,2,1,2015-04-04 15:00:00,Esteban Cambiasso,Pass
+21854,32,BlockedShot,0.7519999694824219,0.575,0.01745019666850567,Riyad Mahrez,h,750,OpenPlay,2014,LeftFoot,4442,Leicester,West Ham,2,1,2015-04-04 15:00:00,Esteban Cambiasso,Pass
+21856,37,MissedShots,0.6919999694824219,0.634000015258789,0.011987529695034027,Matthew James,h,4441,OpenPlay,2014,RightFoot,4442,Leicester,West Ham,2,1,2015-04-04 15:00:00,Jeffrey Schlupp,Pass
+21857,47,MissedShots,0.8959999847412109,0.5070000076293946,0.019366292282938957,Robert Huth,h,747,FromCorner,2014,Head,4442,Leicester,West Ham,2,1,2015-04-04 15:00:00,Matthew James,Aerial
+21858,53,MissedShots,0.885,0.48,0.0646880716085434,Robert Huth,h,747,SetPiece,2014,Head,4442,Leicester,West Ham,2,1,2015-04-04 15:00:00,Esteban Cambiasso,Cross
+21859,60,MissedShots,0.9159999847412109,0.6880000305175781,0.1196952760219574,Jeffrey Schlupp,h,757,OpenPlay,2014,RightFoot,4442,Leicester,West Ham,2,1,2015-04-04 15:00:00,David Nugent,Throughball
+21860,67,MissedShots,0.9059999847412109,0.43099998474121093,0.05170988664031029,Jamie Vardy,h,755,OpenPlay,2014,Head,4442,Leicester,West Ham,2,1,2015-04-04 15:00:00,Leonardo Ulloa,HeadPass
+21861,68,MissedShots,0.865,0.55,0.10593835264444351,Jamie Vardy,h,755,OpenPlay,2014,LeftFoot,4442,Leicester,West Ham,2,1,2015-04-04 15:00:00,David Nugent,Pass
+21862,69,SavedShot,0.955999984741211,0.555,0.5496500134468079,Jamie Vardy,h,755,OpenPlay,2014,RightFoot,4442,Leicester,West Ham,2,1,2015-04-04 15:00:00,Leonardo Ulloa,HeadPass
+21868,76,BlockedShot,0.7090000152587891,0.425,0.01597932167351246,David Nugent,h,1753,OpenPlay,2014,RightFoot,4442,Leicester,West Ham,2,1,2015-04-04 15:00:00,Andrej Kramaric,Pass
+21870,82,BlockedShot,0.8880000305175781,0.5940000152587891,0.3317700922489166,Andrej Kramaric,h,956,OpenPlay,2014,LeftFoot,4442,Leicester,West Ham,2,1,2015-04-04 15:00:00,Jamie Vardy,Pass
+21871,82,SavedShot,0.9009999847412109,0.445,0.05917460471391678,Jamie Vardy,h,755,OpenPlay,2014,Head,4442,Leicester,West Ham,2,1,2015-04-04 15:00:00,Andrej Kramaric,Cross
+21873,85,MissedShots,0.9069999694824219,0.5129999923706055,0.04765871912240982,Andrej Kramaric,h,956,SetPiece,2014,Head,4442,Leicester,West Ham,2,1,2015-04-04 15:00:00,Matthew James,Aerial
+21874,85,BlockedShot,0.9330000305175781,0.47,0.08312158286571503,Wes Morgan,h,748,OpenPlay,2014,Head,4442,Leicester,West Ham,2,1,2015-04-04 15:00:00,Marc Albrighton,Aerial
+21875,85,MissedShots,0.905,0.5459999847412109,0.1328778862953186,Jamie Vardy,h,755,OpenPlay,2014,LeftFoot,4442,Leicester,West Ham,2,1,2015-04-04 15:00:00,Andrej Kramaric,Pass
+21876,85,Goal,0.9669999694824218,0.4929999923706055,0.7347716093063354,Andy King,h,784,OpenPlay,2014,RightFoot,4442,Leicester,West Ham,2,1,2015-04-04 15:00:00,Jamie Vardy,Rebound
+21878,93,SavedShot,0.8930000305175781,0.36700000762939455,0.35372665524482727,Jamie Vardy,h,755,OpenPlay,2014,RightFoot,4442,Leicester,West Ham,2,1,2015-04-04 15:00:00,Andrej Kramaric,Throughball
+21847,12,SavedShot,0.845,0.5179999923706055,0.05885627120733261,Cheikhou Kouyaté,a,532,OpenPlay,2014,LeftFoot,4442,Leicester,West Ham,2,1,2015-04-04 15:00:00,,None
+21850,15,SavedShot,0.9769999694824218,0.5879999923706055,0.23568537831306458,Kevin Nolan,a,1028,SetPiece,2014,LeftFoot,4442,Leicester,West Ham,2,1,2015-04-04 15:00:00,Diafra Sakho,TakeOn
+21851,16,SavedShot,0.925,0.29,0.05072726309299469,Diafra Sakho,a,656,OpenPlay,2014,RightFoot,4442,Leicester,West Ham,2,1,2015-04-04 15:00:00,Stewart Downing,Pass
+21852,25,MissedShots,0.915,0.49900001525878906,0.31165578961372375,Kevin Nolan,a,1028,OpenPlay,2014,Head,4442,Leicester,West Ham,2,1,2015-04-04 15:00:00,Stewart Downing,Cross
+21853,31,Goal,0.914000015258789,0.33599998474121096,0.26975250244140625,Cheikhou Kouyaté,a,532,OpenPlay,2014,RightFoot,4442,Leicester,West Ham,2,1,2015-04-04 15:00:00,Alexandre Song,Chipped
+21855,34,MissedShots,0.7580000305175781,0.26299999237060545,0.014573901891708374,Stewart Downing,a,1712,OpenPlay,2014,LeftFoot,4442,Leicester,West Ham,2,1,2015-04-04 15:00:00,Mark Noble,TakeOn
+21863,71,MissedShots,0.794000015258789,0.33599998474121096,0.04897463321685791,Stewart Downing,a,1712,OpenPlay,2014,LeftFoot,4442,Leicester,West Ham,2,1,2015-04-04 15:00:00,Diafra Sakho,Pass
+21864,72,ShotOnPost,0.8969999694824219,0.625,0.33690187335014343,Cheikhou Kouyaté,a,532,OpenPlay,2014,RightFoot,4442,Leicester,West Ham,2,1,2015-04-04 15:00:00,Diafra Sakho,Pass
+21865,72,MissedShots,0.8590000152587891,0.6559999847412109,0.059129733592271805,Alexandre Song,a,657,OpenPlay,2014,RightFoot,4442,Leicester,West Ham,2,1,2015-04-04 15:00:00,Mark Noble,Pass
+21866,75,SavedShot,0.7519999694824219,0.39,0.016951700672507286,Cheikhou Kouyaté,a,532,OpenPlay,2014,RightFoot,4442,Leicester,West Ham,2,1,2015-04-04 15:00:00,,None
+21867,76,MissedShots,0.9069999694824219,0.41700000762939454,0.014619936235249043,Diafra Sakho,a,656,FromCorner,2014,Head,4442,Leicester,West Ham,2,1,2015-04-04 15:00:00,Mark Noble,Aerial
+21869,82,SavedShot,0.909000015258789,0.49,0.3341872990131378,Carl Jenkinson,a,938,OpenPlay,2014,Head,4442,Leicester,West Ham,2,1,2015-04-04 15:00:00,Morgan Amalfitano,Cross
+21872,83,SavedShot,0.8209999847412109,0.44799999237060545,0.057170283049345016,Stewart Downing,a,1712,OpenPlay,2014,LeftFoot,4442,Leicester,West Ham,2,1,2015-04-04 15:00:00,Alexandre Song,Pass
+21877,91,MissedShots,0.96,0.5479999923706055,0.1263480931520462,Carlton Cole,a,4383,FromCorner,2014,Head,4442,Leicester,West Ham,2,1,2015-04-04 15:00:00,Nenê,Cross

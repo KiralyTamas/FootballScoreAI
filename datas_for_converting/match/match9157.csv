@@ -1,0 +1,31 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+298882,8,SavedShot,0.7440000152587891,0.7090000152587891,0.011556101031601429,Egor Sorokin,h,3105,OpenPlay,2018,LeftFoot,9157,Rubin Kazan,FC Orenburg,2,0,2019-05-03 14:30:00,,None
+298883,8,MissedShots,0.8859999847412109,0.6480000305175782,0.05162598937749863,Khoren Bayramyan,h,3162,OpenPlay,2018,RightFoot,9157,Rubin Kazan,FC Orenburg,2,0,2019-05-03 14:30:00,,Rebound
+298888,30,MissedShots,0.784000015258789,0.625999984741211,0.027121225371956825,Danil Stepanov,h,7304,OpenPlay,2018,RightFoot,9157,Rubin Kazan,FC Orenburg,2,0,2019-05-03 14:30:00,Dmitriy Poloz,Pass
+298890,34,MissedShots,0.9180000305175782,0.295,0.06024914234876633,Evgeny Bashkirov,h,5404,OpenPlay,2018,RightFoot,9157,Rubin Kazan,FC Orenburg,2,0,2019-05-03 14:30:00,Khoren Bayramyan,Pass
+298892,37,MissedShots,0.6580000305175782,0.46700000762939453,0.026794949546456337,Ruslan Kambolov,h,2975,DirectFreekick,2018,RightFoot,9157,Rubin Kazan,FC Orenburg,2,0,2019-05-03 14:30:00,,Standard
+298893,45,MissedShots,0.894000015258789,0.3970000076293945,0.10373629629611969,Vyacheslav Podberezkin,h,2988,OpenPlay,2018,RightFoot,9157,Rubin Kazan,FC Orenburg,2,0,2019-05-03 14:30:00,Khoren Bayramyan,BallTouch
+298894,51,MissedShots,0.879000015258789,0.669000015258789,0.008027885109186172,Igor Konovalov,h,3090,FromCorner,2018,Head,9157,Rubin Kazan,FC Orenburg,2,0,2019-05-03 14:30:00,Dmitriy Poloz,Cross
+298895,51,BlockedShot,0.875999984741211,0.44299999237060544,0.07397553324699402,Filip Uremovic,h,6797,FromCorner,2018,RightFoot,9157,Rubin Kazan,FC Orenburg,2,0,2019-05-03 14:30:00,,None
+298897,57,MissedShots,0.750999984741211,0.40700000762939453,0.019944168627262115,Igor Konovalov,h,3090,OpenPlay,2018,LeftFoot,9157,Rubin Kazan,FC Orenburg,2,0,2019-05-03 14:30:00,Dmitriy Poloz,Pass
+298899,64,BlockedShot,0.8030000305175782,0.5,0.05765984207391739,Igor Konovalov,h,3090,OpenPlay,2018,LeftFoot,9157,Rubin Kazan,FC Orenburg,2,0,2019-05-03 14:30:00,Evgeny Bashkirov,Pass
+298901,75,BlockedShot,0.8590000152587891,0.6140000152587891,0.09337792545557022,Khoren Bayramyan,h,3162,OpenPlay,2018,LeftFoot,9157,Rubin Kazan,FC Orenburg,2,0,2019-05-03 14:30:00,Evgeny Bashkirov,Pass
+298902,76,Goal,0.885,0.5,0.7542753219604492,Dmitriy Poloz,h,2775,Penalty,2018,RightFoot,9157,Rubin Kazan,FC Orenburg,2,0,2019-05-03 14:30:00,,Standard
+298909,90,BlockedShot,0.8830000305175781,0.33,0.07058936357498169,Pavel Mogilevets,h,2773,OpenPlay,2018,RightFoot,9157,Rubin Kazan,FC Orenburg,2,0,2019-05-03 14:30:00,Ibrahim Tsallagov,Pass
+298910,94,BlockedShot,0.75,0.6759999847412109,0.019135167822241783,Igor Kalinin,h,6598,OpenPlay,2018,LeftFoot,9157,Rubin Kazan,FC Orenburg,2,0,2019-05-03 14:30:00,Artur Sagitov,Pass
+298911,95,SavedShot,0.8669999694824219,0.6079999923706054,0.08482267707586288,Pavel Mogilevets,h,2773,OpenPlay,2018,RightFoot,9157,Rubin Kazan,FC Orenburg,2,0,2019-05-03 14:30:00,,BallRecovery
+298884,11,BlockedShot,0.735999984741211,0.6519999694824219,0.04169373959302902,Denis Popovic,a,5488,DirectFreekick,2018,RightFoot,9157,Rubin Kazan,FC Orenburg,2,0,2019-05-03 14:30:00,,Standard
+298885,20,BlockedShot,0.7319999694824219,0.3139999961853027,0.013185263611376286,Danijel Miskic,a,6890,OpenPlay,2018,RightFoot,9157,Rubin Kazan,FC Orenburg,2,0,2019-05-03 14:30:00,Aleksey Sutormin,Pass
+298886,24,MissedShots,0.7480000305175781,0.425,0.01940084435045719,Aleksey Sutormin,a,6774,OpenPlay,2018,LeftFoot,9157,Rubin Kazan,FC Orenburg,2,0,2019-05-03 14:30:00,Djorde Despotovic,BallTouch
+298887,25,SavedShot,0.9019999694824219,0.5879999923706055,0.043864618986845016,Vitali Shakhov,a,5896,SetPiece,2018,Head,9157,Rubin Kazan,FC Orenburg,2,0,2019-05-03 14:30:00,Denis Popovic,Chipped
+298889,31,SavedShot,0.870999984741211,0.53,0.03671018406748772,Danijel Miskic,a,6890,SetPiece,2018,Head,9157,Rubin Kazan,FC Orenburg,2,0,2019-05-03 14:30:00,Mikhail Sivakov,HeadPass
+298891,34,OwnGoal,0.09300000190734864,0.6090000152587891,0,Mikhail Sivakov,a,5424,OpenPlay,2018,RightFoot,9157,Rubin Kazan,FC Orenburg,2,0,2019-05-03 14:30:00,,None
+298896,54,MissedShots,0.8380000305175781,0.515,0.04877503216266632,Ricardo Alves,a,7150,FromCorner,2018,LeftFoot,9157,Rubin Kazan,FC Orenburg,2,0,2019-05-03 14:30:00,Denis Popovic,Pass
+298898,61,MissedShots,0.7980000305175782,0.28600000381469726,0.01832463964819908,Ricardo Alves,a,7150,OpenPlay,2018,LeftFoot,9157,Rubin Kazan,FC Orenburg,2,0,2019-05-03 14:30:00,Denis Popovic,Pass
+298900,67,MissedShots,0.8640000152587891,0.43400001525878906,0.06167536601424217,Djorde Despotovic,a,7121,OpenPlay,2018,LeftFoot,9157,Rubin Kazan,FC Orenburg,2,0,2019-05-03 14:30:00,,None
+298903,79,BlockedShot,0.8909999847412109,0.35400001525878905,0.02702232263982296,Danijel Miskic,a,6890,OpenPlay,2018,RightFoot,9157,Rubin Kazan,FC Orenburg,2,0,2019-05-03 14:30:00,,Aerial
+298904,79,MissedShots,0.919000015258789,0.4370000076293945,0.0532112792134285,Mikhail Sivakov,a,5424,FromCorner,2018,RightFoot,9157,Rubin Kazan,FC Orenburg,2,0,2019-05-03 14:30:00,,Aerial
+298905,86,MissedShots,0.9019999694824219,0.5,0.040436338633298874,Djorde Despotovic,a,7121,SetPiece,2018,Head,9157,Rubin Kazan,FC Orenburg,2,0,2019-05-03 14:30:00,Denis Popovic,Aerial
+298906,87,MissedShots,0.8019999694824219,0.485,0.02950466424226761,Ricardo Alves,a,7150,FromCorner,2018,LeftFoot,9157,Rubin Kazan,FC Orenburg,2,0,2019-05-03 14:30:00,,None
+298907,88,SavedShot,0.7569999694824219,0.549000015258789,0.015097374096512794,Aleksey Sutormin,a,6774,OpenPlay,2018,RightFoot,9157,Rubin Kazan,FC Orenburg,2,0,2019-05-03 14:30:00,,None
+298908,88,SavedShot,0.765,0.7559999847412109,0.013428326696157455,Aleksey Sutormin,a,6774,FromCorner,2018,RightFoot,9157,Rubin Kazan,FC Orenburg,2,0,2019-05-03 14:30:00,Ricardo Alves,Pass

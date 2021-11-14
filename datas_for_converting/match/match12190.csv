@@ -1,0 +1,29 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+337009,4,MissedShots,0.7809999847412109,0.6329999923706054,0.02702983282506466,Mikel Oyarzabal,h,2234,OpenPlay,2019,LeftFoot,12190,Real Sociedad,Barcelona,2,2,2019-12-14 15:00:00,Mikel Merino,Pass
+337011,11,Goal,0.885,0.5,0.7432776093482971,Mikel Oyarzabal,h,2234,Penalty,2019,LeftFoot,12190,Real Sociedad,Barcelona,2,2,2019-12-14 15:00:00,,Standard
+337013,17,MissedShots,0.740999984741211,0.52,0.02908489853143692,Martin Odegaard,h,2517,OpenPlay,2019,LeftFoot,12190,Real Sociedad,Barcelona,2,2,2019-12-14 15:00:00,Ander Guevara,Pass
+337014,32,BlockedShot,0.919000015258789,0.365,0.14856326580047607,Alexander Isak,h,5232,OpenPlay,2019,RightFoot,12190,Real Sociedad,Barcelona,2,2,2019-12-14 15:00:00,Mikel Oyarzabal,Throughball
+337015,33,MissedShots,0.8119999694824219,0.24899999618530275,0.03332187980413437,Martin Odegaard,h,2517,FromCorner,2019,LeftFoot,12190,Real Sociedad,Barcelona,2,2,2019-12-14 15:00:00,Ander Guevara,Pass
+337017,36,SavedShot,0.8690000152587891,0.5570000076293945,0.04053967446088791,Alexander Isak,h,5232,OpenPlay,2019,Head,12190,Real Sociedad,Barcelona,2,2,2019-12-14 15:00:00,Nacho Monreal,Cross
+337019,45,MissedShots,0.8109999847412109,0.6,0.017694098874926567,Mikel Merino,h,5304,OpenPlay,2019,LeftFoot,12190,Real Sociedad,Barcelona,2,2,2019-12-14 15:00:00,,Aerial
+337022,54,BlockedShot,0.789000015258789,0.5220000076293946,0.03700253367424011,Martin Odegaard,h,2517,OpenPlay,2019,LeftFoot,12190,Real Sociedad,Barcelona,2,2,2019-12-14 15:00:00,,Dispossessed
+337024,59,MissedShots,0.925,0.3039999961853027,0.05073251575231552,Adnan Januzaj,h,323,OpenPlay,2019,LeftFoot,12190,Real Sociedad,Barcelona,2,2,2019-12-14 15:00:00,Mikel Merino,Pass
+337025,61,Goal,0.935,0.515,0.533214807510376,Alexander Isak,h,5232,OpenPlay,2019,LeftFoot,12190,Real Sociedad,Barcelona,2,2,2019-12-14 15:00:00,,None
+337026,68,MissedShots,0.779000015258789,0.5590000152587891,0.05058405548334122,Martin Odegaard,h,2517,OpenPlay,2019,LeftFoot,12190,Real Sociedad,Barcelona,2,2,2019-12-14 15:00:00,Ander Guevara,Pass
+337027,69,BlockedShot,0.925,0.40900001525878904,0.11079957336187363,Willian José,h,2361,OpenPlay,2019,RightFoot,12190,Real Sociedad,Barcelona,2,2,2019-12-14 15:00:00,Martin Odegaard,Pass
+337028,70,SavedShot,0.9230000305175782,0.6079999923706054,0.059887535870075226,Mikel Merino,h,5304,OpenPlay,2019,Head,12190,Real Sociedad,Barcelona,2,2,2019-12-14 15:00:00,Martin Odegaard,Cross
+337029,70,SavedShot,0.975,0.4590000152587891,0.707653820514679,Willian José,h,2361,OpenPlay,2019,RightFoot,12190,Real Sociedad,Barcelona,2,2,2019-12-14 15:00:00,,Rebound
+337030,70,BlockedShot,0.9269999694824219,0.5979999923706054,0.08407757431268692,Mikel Merino,h,5304,OpenPlay,2019,LeftFoot,12190,Real Sociedad,Barcelona,2,2,2019-12-14 15:00:00,,None
+337031,70,MissedShots,0.8630000305175781,0.46900001525878904,0.08894065767526627,Willian José,h,2361,OpenPlay,2019,LeftFoot,12190,Real Sociedad,Barcelona,2,2,2019-12-14 15:00:00,Mikel Oyarzabal,Rebound
+337032,70,MissedShots,0.95,0.40200000762939453,0.09688187390565872,Willian José,h,2361,OpenPlay,2019,RightFoot,12190,Real Sociedad,Barcelona,2,2,2019-12-14 15:00:00,Mikel Oyarzabal,Chipped
+337034,77,MissedShots,0.815,0.5029999923706054,0.05955781042575836,Willian José,h,2361,OpenPlay,2019,LeftFoot,12190,Real Sociedad,Barcelona,2,2,2019-12-14 15:00:00,Martin Odegaard,Pass
+337036,80,BlockedShot,0.7190000152587891,0.5429999923706055,0.009929819963872433,Martin Odegaard,h,2517,OpenPlay,2019,LeftFoot,12190,Real Sociedad,Barcelona,2,2,2019-12-14 15:00:00,,Aerial
+337010,5,BlockedShot,0.9119999694824219,0.664000015258789,0.08281376212835312,Antoine Griezmann,a,2270,OpenPlay,2019,LeftFoot,12190,Real Sociedad,Barcelona,2,2,2019-12-14 15:00:00,Jordi Alba,Pass
+337012,14,SavedShot,0.794000015258789,0.5929999923706055,0.0445488803088665,Luis Suárez,a,2098,OpenPlay,2019,RightFoot,12190,Real Sociedad,Barcelona,2,2,2019-12-14 15:00:00,Antoine Griezmann,HeadPass
+337016,35,MissedShots,0.8640000152587891,0.524000015258789,0.021328948438167572,Lionel Messi,a,2097,OpenPlay,2019,Head,12190,Real Sociedad,Barcelona,2,2,2019-12-14 15:00:00,Sergi Roberto,Aerial
+337018,37,Goal,0.8919999694824219,0.5940000152587891,0.3684605658054352,Antoine Griezmann,a,2270,OpenPlay,2019,LeftFoot,12190,Real Sociedad,Barcelona,2,2,2019-12-14 15:00:00,Luis Suárez,Pass
+337020,48,Goal,0.895,0.5609999847412109,0.422536700963974,Luis Suárez,a,2098,OpenPlay,2019,RightFoot,12190,Real Sociedad,Barcelona,2,2,2019-12-14 15:00:00,Lionel Messi,Pass
+337021,51,SavedShot,0.8859999847412109,0.6719999694824219,0.07366583496332169,Antoine Griezmann,a,2270,OpenPlay,2019,LeftFoot,12190,Real Sociedad,Barcelona,2,2,2019-12-14 15:00:00,Clement Lenglet,Chipped
+337023,57,BlockedShot,0.9669999694824218,0.5940000152587891,0.0714280977845192,Gerard Piqué,a,2092,FromCorner,2019,Head,12190,Real Sociedad,Barcelona,2,2,2019-12-14 15:00:00,Lionel Messi,Cross
+337033,73,MissedShots,0.935,0.47400001525878904,0.07538485527038574,Clement Lenglet,a,5050,FromCorner,2019,Head,12190,Real Sociedad,Barcelona,2,2,2019-12-14 15:00:00,,Aerial
+337035,78,MissedShots,0.7959999847412109,0.28200000762939453,0.02297702617943287,Ivan Rakitic,a,2094,OpenPlay,2019,RightFoot,12190,Real Sociedad,Barcelona,2,2,2019-12-14 15:00:00,Lionel Messi,Pass

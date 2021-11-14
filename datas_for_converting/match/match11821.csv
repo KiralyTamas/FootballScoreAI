@@ -1,0 +1,29 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+339189,25,BlockedShot,0.8680000305175781,0.45099998474121095,0.1192019060254097,Troy Deeney,h,574,OpenPlay,2019,RightFoot,11821,Watford,Manchester United,2,0,2019-12-22 14:00:00,,None
+339190,32,BlockedShot,0.7959999847412109,0.56,0.04321782663464546,Troy Deeney,h,574,OpenPlay,2019,RightFoot,11821,Watford,Manchester United,2,0,2019-12-22 14:00:00,Will Hughes,Pass
+339192,39,MissedShots,0.8730000305175781,0.5570000076293945,0.03395652770996094,Abdoulaye Doucouré,h,1726,OpenPlay,2019,Head,11821,Watford,Manchester United,2,0,2019-12-22 14:00:00,Kiko Femenía,Cross
+339194,49,Goal,0.9159999847412109,0.37599998474121094,0.07426795363426208,Ismaila Sarr,h,5675,SetPiece,2019,RightFoot,11821,Watford,Manchester United,2,0,2019-12-22 14:00:00,Christian Kabasele,HeadPass
+339196,53,Goal,0.885,0.5,0.7611688375473022,Troy Deeney,h,574,Penalty,2019,RightFoot,11821,Watford,Manchester United,2,0,2019-12-22 14:00:00,,Standard
+339199,61,MissedShots,0.8019999694824219,0.43900001525878907,0.029282402247190475,Will Hughes,h,6104,FromCorner,2019,LeftFoot,11821,Watford,Manchester United,2,0,2019-12-22 14:00:00,,None
+339202,67,BlockedShot,0.9009999847412109,0.5570000076293945,0.14222142100334167,Ismaila Sarr,h,5675,OpenPlay,2019,RightFoot,11821,Watford,Manchester United,2,0,2019-12-22 14:00:00,Gerard Deulofeu,Pass
+339203,67,MissedShots,0.8959999847412109,0.47,0.13293501734733582,Troy Deeney,h,574,OpenPlay,2019,RightFoot,11821,Watford,Manchester United,2,0,2019-12-22 14:00:00,Adrian Mariappa,Cross
+339205,73,BlockedShot,0.9690000152587891,0.6480000305175782,0.11772105097770691,Gerard Deulofeu,h,591,OpenPlay,2019,LeftFoot,11821,Watford,Manchester United,2,0,2019-12-22 14:00:00,,TakeOn
+339206,73,BlockedShot,0.9080000305175782,0.5840000152587891,0.11366894096136093,Troy Deeney,h,574,OpenPlay,2019,RightFoot,11821,Watford,Manchester United,2,0,2019-12-22 14:00:00,,None
+339208,77,SavedShot,0.7480000305175781,0.545,0.02526717260479927,Kiko Femenía,h,5043,SetPiece,2019,RightFoot,11821,Watford,Manchester United,2,0,2019-12-22 14:00:00,Roberto Pereyra,TakeOn
+339187,5,MissedShots,0.850999984741211,0.41,0.08241192251443863,Anthony Martial,a,553,OpenPlay,2019,RightFoot,11821,Watford,Manchester United,2,0,2019-12-22 14:00:00,Daniel James,Pass
+339188,23,BlockedShot,0.8590000152587891,0.7569999694824219,0.027600163593888283,Jesse Lingard,a,558,OpenPlay,2019,RightFoot,11821,Watford,Manchester United,2,0,2019-12-22 14:00:00,Marcus Rashford,Pass
+339191,33,MissedShots,0.7819999694824219,0.37900001525878907,0.2977926433086395,Jesse Lingard,a,558,OpenPlay,2019,RightFoot,11821,Watford,Manchester United,2,0,2019-12-22 14:00:00,Anthony Martial,Throughball
+339193,42,BlockedShot,0.779000015258789,0.49700000762939456,0.03424643352627754,Scott McTominay,a,5560,OpenPlay,2019,RightFoot,11821,Watford,Manchester United,2,0,2019-12-22 14:00:00,Fred,Pass
+339195,51,SavedShot,0.9540000152587891,0.649000015258789,0.021232496947050095,Scott McTominay,a,5560,SetPiece,2019,Head,11821,Watford,Manchester United,2,0,2019-12-22 14:00:00,Fred,Cross
+339197,57,SavedShot,0.7709999847412109,0.45799999237060546,0.029106752946972847,Scott McTominay,a,5560,OpenPlay,2019,RightFoot,11821,Watford,Manchester United,2,0,2019-12-22 14:00:00,Fred,Pass
+339198,57,MissedShots,0.8190000152587891,0.5270000076293946,0.03172404319047928,Scott McTominay,a,5560,OpenPlay,2019,LeftFoot,11821,Watford,Manchester United,2,0,2019-12-22 14:00:00,,Rebound
+339200,66,BlockedShot,0.8859999847412109,0.6940000152587891,0.04424995556473732,Anthony Martial,a,553,OpenPlay,2019,RightFoot,11821,Watford,Manchester United,2,0,2019-12-22 14:00:00,Luke Shaw,Pass
+339201,67,MissedShots,0.8919999694824219,0.43400001525878906,0.052271340042352676,Mason Greenwood,a,7490,FromCorner,2019,Head,11821,Watford,Manchester United,2,0,2019-12-22 14:00:00,Marcus Rashford,Cross
+339204,71,SavedShot,0.925,0.8719999694824219,0.04659202694892883,Marcus Rashford,a,556,DirectFreekick,2019,RightFoot,11821,Watford,Manchester United,2,0,2019-12-22 14:00:00,,Standard
+339207,75,SavedShot,0.735999984741211,0.779000015258789,0.007588712032884359,Paul Pogba,a,1740,OpenPlay,2019,RightFoot,11821,Watford,Manchester United,2,0,2019-12-22 14:00:00,Marcus Rashford,Pass
+339209,80,SavedShot,0.9169999694824219,0.53,0.037655461579561234,Harry Maguire,a,1687,FromCorner,2019,Head,11821,Watford,Manchester United,2,0,2019-12-22 14:00:00,Juan Mata,Aerial
+339210,81,SavedShot,0.9430000305175781,0.6819999694824219,0.28485697507858276,Paul Pogba,a,1740,OpenPlay,2019,RightFoot,11821,Watford,Manchester United,2,0,2019-12-22 14:00:00,Anthony Martial,Throughball
+339211,84,MissedShots,0.8430000305175781,0.55,0.04699438810348511,Mason Greenwood,a,7490,OpenPlay,2019,LeftFoot,11821,Watford,Manchester United,2,0,2019-12-22 14:00:00,Paul Pogba,Chipped
+339212,89,SavedShot,0.9030000305175782,0.534000015258789,0.34271255135536194,Marcus Rashford,a,556,OpenPlay,2019,LeftFoot,11821,Watford,Manchester United,2,0,2019-12-22 14:00:00,Anthony Martial,TakeOn
+339213,90,SavedShot,0.8719999694824219,0.6880000305175781,0.07243549078702927,Anthony Martial,a,553,OpenPlay,2019,RightFoot,11821,Watford,Manchester United,2,0,2019-12-22 14:00:00,Fred,TakeOn
+339214,92,MissedShots,0.7769999694824219,0.3729999923706055,0.07235467433929443,Juan Mata,a,554,DirectFreekick,2019,LeftFoot,11821,Watford,Manchester United,2,0,2019-12-22 14:00:00,,Standard

@@ -1,0 +1,29 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+70773,24,BlockedShot,0.6890000152587891,0.5470000076293945,0.010406815446913242,Anton Bober,h,3045,OpenPlay,2015,RightFoot,2370,Mordovya,Ural,1,1,2015-08-02 18:00:00,Evgeni Lutsenko,HeadPass
+70775,33,SavedShot,0.9230000305175782,0.34,0.0908389464020729,Ruslan Mukhametshin,h,3036,OpenPlay,2015,RightFoot,2370,Mordovya,Ural,1,1,2015-08-02 18:00:00,Anton Bober,Pass
+70778,43,MissedShots,0.779000015258789,0.45799999237060546,0.028008602559566498,Anton Bober,h,3045,OpenPlay,2015,RightFoot,2370,Mordovya,Ural,1,1,2015-08-02 18:00:00,Ruslan Mukhametshin,Pass
+70780,56,MissedShots,0.6609999847412109,0.5659999847412109,0.026901643723249435,Ruslan Nakhushev,h,3030,DirectFreekick,2015,LeftFoot,2370,Mordovya,Ural,1,1,2015-08-02 18:00:00,,Standard
+70781,59,SavedShot,0.7659999847412109,0.27899999618530275,0.01657555252313614,Igor Shitov,h,3028,OpenPlay,2015,LeftFoot,2370,Mordovya,Ural,1,1,2015-08-02 18:00:00,Aslan Dudiev,Pass
+70784,62,BlockedShot,0.8469999694824218,0.18,0.045538052916526794,Ruslan Nakhushev,h,3030,DirectFreekick,2015,LeftFoot,2370,Mordovya,Ural,1,1,2015-08-02 18:00:00,,Standard
+70786,72,MissedShots,0.710999984741211,0.42900001525878906,0.014034805819392204,Dalibor Stevanovic,h,3033,OpenPlay,2015,RightFoot,2370,Mordovya,Ural,1,1,2015-08-02 18:00:00,Aslan Dudiev,Pass
+70787,74,SavedShot,0.925,0.5029999923706054,0.05211053416132927,Evgeni Lutsenko,h,3035,OpenPlay,2015,Head,2370,Mordovya,Ural,1,1,2015-08-02 18:00:00,,Aerial
+70788,76,SavedShot,0.865,0.445,0.025322945788502693,Dalibor Stevanovic,h,3033,SetPiece,2015,Head,2370,Mordovya,Ural,1,1,2015-08-02 18:00:00,Oleg Vlasov,Cross
+70790,78,MissedShots,0.850999984741211,0.23200000762939454,0.015508987009525299,Igor Shitov,h,3028,OpenPlay,2015,RightFoot,2370,Mordovya,Ural,1,1,2015-08-02 18:00:00,Ruslan Nakhushev,Chipped
+70791,86,SavedShot,0.75,0.2979999923706055,0.015376793220639229,Oleg Vlasov,h,3038,OpenPlay,2015,LeftFoot,2370,Mordovya,Ural,1,1,2015-08-02 18:00:00,Damien Le Tallec,Pass
+70794,90,Goal,0.889000015258789,0.664000015258789,0.048833925276994705,Evgeni Lutsenko,h,3035,OpenPlay,2015,LeftFoot,2370,Mordovya,Ural,1,1,2015-08-02 18:00:00,,None
+70767,2,BlockedShot,0.6869999694824219,0.55,0.031951695680618286,Vladimir Khozin,a,3123,DirectFreekick,2015,LeftFoot,2370,Mordovya,Ural,1,1,2015-08-02 18:00:00,,Standard
+70768,8,BlockedShot,0.8590000152587891,0.21700000762939453,0.022397970780730247,Nikita Burmistrov,a,2986,OpenPlay,2015,LeftFoot,2370,Mordovya,Ural,1,1,2015-08-02 18:00:00,Chisamba Lungu,Pass
+70769,15,SavedShot,0.889000015258789,0.6659999847412109,0.1108669564127922,Edgar Manucharyan,a,2799,OpenPlay,2015,LeftFoot,2370,Mordovya,Ural,1,1,2015-08-02 18:00:00,Pablo Fontanello,Throughball
+70770,18,BlockedShot,0.755,0.34700000762939454,0.01719411090016365,Aleksandr Sapeta,a,2796,OpenPlay,2015,LeftFoot,2370,Mordovya,Ural,1,1,2015-08-02 18:00:00,,Dispossessed
+70771,21,BlockedShot,0.7680000305175781,0.500999984741211,0.029867397621273994,Edgar Manucharyan,a,2799,OpenPlay,2015,RightFoot,2370,Mordovya,Ural,1,1,2015-08-02 18:00:00,Pablo Fontanello,Pass
+70772,23,BlockedShot,0.7040000152587891,0.44299999237060544,0.0174688920378685,Aleksandr Erokhin,a,2772,OpenPlay,2015,RightFoot,2370,Mordovya,Ural,1,1,2015-08-02 18:00:00,Aleksandr Martynovich,Pass
+70774,26,MissedShots,0.78,0.45,0.033370692282915115,Aleksandr Erokhin,a,2772,OpenPlay,2015,RightFoot,2370,Mordovya,Ural,1,1,2015-08-02 18:00:00,Vladimir Khozin,Pass
+70776,36,MissedShots,0.99,0.5820000076293945,0.03568110242486,Vladimir Khozin,a,3123,FromCorner,2015,Head,2370,Mordovya,Ural,1,1,2015-08-02 18:00:00,Edgar Manucharyan,Cross
+70777,40,Goal,0.9069999694824219,0.34200000762939453,0.09038197994232178,Edgar Manucharyan,a,2799,OpenPlay,2015,LeftFoot,2370,Mordovya,Ural,1,1,2015-08-02 18:00:00,Nikita Burmistrov,TakeOn
+70779,53,MissedShots,0.6969999694824218,0.7559999847412109,0.011416308581829071,Edgar Manucharyan,a,2799,OpenPlay,2015,LeftFoot,2370,Mordovya,Ural,1,1,2015-08-02 18:00:00,Roman Emelyanov,Tackle
+70782,60,BlockedShot,0.8540000152587891,0.32099998474121094,0.0810837373137474,Edgar Manucharyan,a,2799,OpenPlay,2015,LeftFoot,2370,Mordovya,Ural,1,1,2015-08-02 18:00:00,Chisamba Lungu,Pass
+70783,60,SavedShot,0.9119999694824219,0.5979999923706054,0.5125889778137207,Nikita Burmistrov,a,2986,OpenPlay,2015,Head,2370,Mordovya,Ural,1,1,2015-08-02 18:00:00,Denys Kulakov,Aerial
+70785,66,SavedShot,0.98,0.3820000076293945,0.10869788378477097,Denys Kulakov,a,2789,OpenPlay,2015,RightFoot,2370,Mordovya,Ural,1,1,2015-08-02 18:00:00,Aleksandr Erokhin,Pass
+70789,77,MissedShots,0.905,0.33,0.3515223264694214,Chisamba Lungu,a,2795,OpenPlay,2015,RightFoot,2370,Mordovya,Ural,1,1,2015-08-02 18:00:00,Aleksandr Stavpets,Pass
+70792,88,SavedShot,0.8480000305175781,0.745,0.0906626358628273,Aleksandr Erokhin,a,2772,OpenPlay,2015,RightFoot,2370,Mordovya,Ural,1,1,2015-08-02 18:00:00,Aleksandr Sapeta,Chipped
+70793,90,MissedShots,0.7280000305175781,0.6309999847412109,0.01667211204767227,Roman Emelyanov,a,2791,OpenPlay,2015,RightFoot,2370,Mordovya,Ural,1,1,2015-08-02 18:00:00,,None

@@ -1,0 +1,34 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+106743,5,SavedShot,0.7830000305175782,0.295,0.05921701714396477,Jimmy Durmaz,h,5705,DirectFreekick,2016,LeftFoot,4127,Toulouse,Saint-Etienne,0,3,2017-01-29 16:00:00,,Standard
+106745,9,MissedShots,0.9230000305175782,0.40900001525878904,0.0770035833120346,Alexis Blin,h,3207,SetPiece,2016,Head,4127,Toulouse,Saint-Etienne,0,3,2017-01-29 16:00:00,Óscar Trejo,Cross
+106746,13,MissedShots,0.899000015258789,0.6859999847412109,0.04793277010321617,Óscar Trejo,h,3208,OpenPlay,2016,LeftFoot,4127,Toulouse,Saint-Etienne,0,3,2017-01-29 16:00:00,,None
+106749,23,MissedShots,0.9330000305175781,0.519000015258789,0.06335560232400894,Issa Diop,h,3203,FromCorner,2016,Head,4127,Toulouse,Saint-Etienne,0,3,2017-01-29 16:00:00,Óscar Trejo,Aerial
+106754,34,SavedShot,0.7869999694824219,0.6819999694824219,0.022089151665568352,Corentin Jean,h,3445,OpenPlay,2016,RightFoot,4127,Toulouse,Saint-Etienne,0,3,2017-01-29 16:00:00,Óscar Trejo,Pass
+106758,42,SavedShot,0.7019999694824218,0.6120000076293945,0.008798138238489628,Corentin Jean,h,3445,OpenPlay,2016,RightFoot,4127,Toulouse,Saint-Etienne,0,3,2017-01-29 16:00:00,Somália,TakeOn
+106759,44,BlockedShot,0.9269999694824219,0.45599998474121095,0.13207696378231049,Martin Braithwaite,h,3211,OpenPlay,2016,RightFoot,4127,Toulouse,Saint-Etienne,0,3,2017-01-29 16:00:00,Kelvin Adou,Pass
+106764,57,ShotOnPost,0.8969999694824219,0.5029999923706054,0.06436794251203537,Martin Braithwaite,h,3211,SetPiece,2016,Head,4127,Toulouse,Saint-Etienne,0,3,2017-01-29 16:00:00,Jimmy Durmaz,Chipped
+106765,57,BlockedShot,0.855999984741211,0.47299999237060547,0.0765313133597374,Óscar Trejo,h,3208,SetPiece,2016,RightFoot,4127,Toulouse,Saint-Etienne,0,3,2017-01-29 16:00:00,,Rebound
+106766,61,BlockedShot,0.8969999694824219,0.750999984741211,0.03331474959850311,Óscar Trejo,h,3208,OpenPlay,2016,LeftFoot,4127,Toulouse,Saint-Etienne,0,3,2017-01-29 16:00:00,Jimmy Durmaz,Pass
+106772,77,MissedShots,0.805,0.35400001525878905,0.031079478561878204,Jessy Pi,h,3439,OpenPlay,2016,RightFoot,4127,Toulouse,Saint-Etienne,0,3,2017-01-29 16:00:00,Pavle Ninkov,Pass
+106773,82,BlockedShot,0.8959999847412109,0.315,0.05815679952502251,Martin Braithwaite,h,3211,OpenPlay,2016,RightFoot,4127,Toulouse,Saint-Etienne,0,3,2017-01-29 16:00:00,Jessy Pi,Pass
+106775,92,MissedShots,0.72,0.4809999847412109,0.009632810018956661,Alexis Blin,h,3207,OpenPlay,2016,RightFoot,4127,Toulouse,Saint-Etienne,0,3,2017-01-29 16:00:00,,Aerial
+106744,8,Goal,0.885,0.5,0.7600294947624207,Nolan Roux,a,3512,Penalty,2016,RightFoot,4127,Toulouse,Saint-Etienne,0,3,2017-01-29 16:00:00,,Standard
+106747,15,MissedShots,0.8909999847412109,0.504000015258789,0.027146829292178154,Loic Perrin,a,3689,SetPiece,2016,Head,4127,Toulouse,Saint-Etienne,0,3,2017-01-29 16:00:00,Jordan Veretout,Aerial
+106748,20,BlockedShot,0.8640000152587891,0.7230000305175781,0.04475112631917,Hamidou Keyta,a,5710,OpenPlay,2016,RightFoot,4127,Toulouse,Saint-Etienne,0,3,2017-01-29 16:00:00,Romain Hamouma,Pass
+106750,28,BlockedShot,0.8119999694824219,0.5979999923706054,0.05772921442985535,Nolan Roux,a,3512,OpenPlay,2016,RightFoot,4127,Toulouse,Saint-Etienne,0,3,2017-01-29 16:00:00,Romain Hamouma,Pass
+106751,28,MissedShots,0.9319999694824219,0.24399999618530274,0.045210789889097214,Kévin Monnet-Paquet,a,3513,OpenPlay,2016,RightFoot,4127,Toulouse,Saint-Etienne,0,3,2017-01-29 16:00:00,Jordan Veretout,Pass
+106752,29,SavedShot,0.84,0.7140000152587891,0.039315447211265564,Hamidou Keyta,a,5710,OpenPlay,2016,RightFoot,4127,Toulouse,Saint-Etienne,0,3,2017-01-29 16:00:00,Ole Selnaes,Pass
+106753,32,BlockedShot,0.9330000305175781,0.6619999694824219,0.08879514783620834,Florentin Pogba,a,3505,OpenPlay,2016,LeftFoot,4127,Toulouse,Saint-Etienne,0,3,2017-01-29 16:00:00,,BallTouch
+106755,35,SavedShot,0.8919999694824219,0.32799999237060545,0.08435417711734772,Romain Hamouma,a,3561,OpenPlay,2016,RightFoot,4127,Toulouse,Saint-Etienne,0,3,2017-01-29 16:00:00,Kévin Monnet-Paquet,Pass
+106756,35,BlockedShot,0.92,0.46299999237060546,0.4820648729801178,Nolan Roux,a,3512,OpenPlay,2016,RightFoot,4127,Toulouse,Saint-Etienne,0,3,2017-01-29 16:00:00,,Rebound
+106757,37,BlockedShot,0.8530000305175781,0.6880000305175781,0.05494439974427223,Nolan Roux,a,3512,OpenPlay,2016,RightFoot,4127,Toulouse,Saint-Etienne,0,3,2017-01-29 16:00:00,Florentin Pogba,Pass
+106760,52,MissedShots,0.8540000152587891,0.295,0.04362419992685318,Jordan Veretout,a,677,OpenPlay,2016,RightFoot,4127,Toulouse,Saint-Etienne,0,3,2017-01-29 16:00:00,Kévin Monnet-Paquet,Pass
+106761,53,BlockedShot,0.9,0.7440000152587891,0.04031602293252945,Hamidou Keyta,a,5710,OpenPlay,2016,RightFoot,4127,Toulouse,Saint-Etienne,0,3,2017-01-29 16:00:00,Ole Selnaes,Pass
+106762,54,Goal,0.925,0.45,0.2978449761867523,Kévin Monnet-Paquet,a,3513,OpenPlay,2016,Head,4127,Toulouse,Saint-Etienne,0,3,2017-01-29 16:00:00,Florentin Pogba,Cross
+106763,56,MissedShots,0.799000015258789,0.3890000152587891,0.04794382303953171,Jordan Veretout,a,677,OpenPlay,2016,RightFoot,4127,Toulouse,Saint-Etienne,0,3,2017-01-29 16:00:00,Hamidou Keyta,Pass
+106767,66,Goal,0.885,0.5,0.7600951194763184,Nolan Roux,a,3512,Penalty,2016,RightFoot,4127,Toulouse,Saint-Etienne,0,3,2017-01-29 16:00:00,,Standard
+106768,68,MissedShots,0.7919999694824219,0.76,0.017295848578214645,Nolan Roux,a,3512,OpenPlay,2016,RightFoot,4127,Toulouse,Saint-Etienne,0,3,2017-01-29 16:00:00,Hamidou Keyta,Pass
+106769,70,BlockedShot,0.88,0.3629999923706055,0.10500690340995789,Nolan Roux,a,3512,OpenPlay,2016,RightFoot,4127,Toulouse,Saint-Etienne,0,3,2017-01-29 16:00:00,Kévin Monnet-Paquet,Pass
+106770,70,MissedShots,0.9230000305175782,0.5,0.11117999255657196,Nolan Roux,a,3512,FromCorner,2016,Head,4127,Toulouse,Saint-Etienne,0,3,2017-01-29 16:00:00,Romain Hamouma,Cross
+106771,72,MissedShots,0.8930000305175781,0.3940000152587891,0.03212228789925575,Kévin Monnet-Paquet,a,3513,SetPiece,2016,Head,4127,Toulouse,Saint-Etienne,0,3,2017-01-29 16:00:00,Romain Hamouma,Cross
+106774,86,SavedShot,0.9490000152587891,0.2720000076293945,0.06303299218416214,Nolan Roux,a,3512,OpenPlay,2016,RightFoot,4127,Toulouse,Saint-Etienne,0,3,2017-01-29 16:00:00,Kévin Monnet-Paquet,Pass

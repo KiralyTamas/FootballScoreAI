@@ -1,0 +1,22 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+43066,4,MissedShots,0.8859999847412109,0.515,0.06151863932609558,Diego Perotti,h,1539,OpenPlay,2014,Head,5088,Genoa,Empoli,1,1,2014-10-20 19:45:00,Luca Antonelli,Cross
+43067,4,SavedShot,0.875999984741211,0.31799999237060544,0.04885261878371239,Diego Perotti,h,1539,OpenPlay,2014,RightFoot,5088,Genoa,Empoli,1,1,2014-10-20 19:45:00,Edenilson,Pass
+43070,11,MissedShots,0.7419999694824219,0.555,0.017111917957663536,Tomás Rincón,h,1099,OpenPlay,2014,LeftFoot,5088,Genoa,Empoli,1,1,2014-10-20 19:45:00,,None
+43071,13,Goal,0.8159999847412109,0.5229999923706055,0.06643597036600113,Andrea Bertolacci,h,1641,OpenPlay,2014,LeftFoot,5088,Genoa,Empoli,1,1,2014-10-20 19:45:00,Alessandro Matri,Pass
+43072,19,MissedShots,0.914000015258789,0.500999984741211,0.038604069501161575,Sebastien De Maio,h,1431,FromCorner,2014,Head,5088,Genoa,Empoli,1,1,2014-10-20 19:45:00,Diego Perotti,Aerial
+43075,33,MissedShots,0.9259999847412109,0.5529999923706055,0.1344459503889084,Alessandro Matri,h,1472,OpenPlay,2014,RightFoot,5088,Genoa,Empoli,1,1,2014-10-20 19:45:00,Iago Falque,Cross
+43076,47,BlockedShot,0.8390000152587891,0.664000015258789,0.05891202390193939,Tomás Rincón,h,1099,OpenPlay,2014,LeftFoot,5088,Genoa,Empoli,1,1,2014-10-20 19:45:00,,BallRecovery
+43077,48,MissedShots,0.735999984741211,0.445,0.015259448438882828,Tomás Rincón,h,1099,FromCorner,2014,RightFoot,5088,Genoa,Empoli,1,1,2014-10-20 19:45:00,,None
+43079,66,SavedShot,0.8230000305175781,0.4370000076293945,0.0725448802113533,Andrea Bertolacci,h,1641,OpenPlay,2014,LeftFoot,5088,Genoa,Empoli,1,1,2014-10-20 19:45:00,,BallRecovery
+43083,83,MissedShots,0.750999984741211,0.61,0.02787930890917778,Andrea Bertolacci,h,1641,FromCorner,2014,LeftFoot,5088,Genoa,Empoli,1,1,2014-10-20 19:45:00,Maxime Lestienne,Pass
+43084,87,MissedShots,0.8719999694824219,0.4470000076293945,0.08077587187290192,Edenilson,h,1097,OpenPlay,2014,RightFoot,5088,Genoa,Empoli,1,1,2014-10-20 19:45:00,,None
+43085,93,MissedShots,0.7630000305175781,0.5420000076293945,0.015257011167705059,Diego Perotti,h,1539,FromCorner,2014,RightFoot,5088,Genoa,Empoli,1,1,2014-10-20 19:45:00,Edenilson,HeadPass
+43065,1,SavedShot,0.92,0.700999984741211,0.04996025562286377,Simone Verdi,a,1445,OpenPlay,2014,LeftFoot,5088,Genoa,Empoli,1,1,2014-10-20 19:45:00,Mário Rui,Pass
+43068,5,BlockedShot,0.8819999694824219,0.720999984741211,0.03491748124361038,Massimo Maccarone,a,1315,OpenPlay,2014,RightFoot,5088,Genoa,Empoli,1,1,2014-10-20 19:45:00,Simone Verdi,Pass
+43069,10,SavedShot,0.8540000152587891,0.33599998474121096,0.04498693719506264,Simone Verdi,a,1445,OpenPlay,2014,LeftFoot,5088,Genoa,Empoli,1,1,2014-10-20 19:45:00,Massimo Maccarone,Chipped
+43073,24,MissedShots,0.9209999847412109,0.34,0.3401688039302826,Manuel Pucciarelli,a,1318,OpenPlay,2014,RightFoot,5088,Genoa,Empoli,1,1,2014-10-20 19:45:00,Simone Verdi,Throughball
+43074,27,MissedShots,0.81,0.8690000152587891,0.012734753079712391,Mário Rui,a,1792,OpenPlay,2014,RightFoot,5088,Genoa,Empoli,1,1,2014-10-20 19:45:00,Massimo Maccarone,Pass
+43078,62,BlockedShot,0.970999984741211,0.3940000152587891,0.07589191943407059,Massimo Maccarone,a,1315,OpenPlay,2014,RightFoot,5088,Genoa,Empoli,1,1,2014-10-20 19:45:00,Francesco Tavano,Cross
+43080,70,MissedShots,0.924000015258789,0.590999984741211,0.08453036844730377,Massimo Maccarone,a,1315,OpenPlay,2014,RightFoot,5088,Genoa,Empoli,1,1,2014-10-20 19:45:00,Francesco Tavano,Cross
+43081,74,SavedShot,0.905,0.25299999237060544,0.03315602242946625,Matías Vecino,a,1423,OpenPlay,2014,RightFoot,5088,Genoa,Empoli,1,1,2014-10-20 19:45:00,Francesco Tavano,HeadPass
+43082,76,Goal,0.98,0.505,0.8979946970939636,Lorenzo Tonelli,a,1394,FromCorner,2014,OtherBodyPart,5088,Genoa,Empoli,1,1,2014-10-20 19:45:00,Massimo Maccarone,HeadPass

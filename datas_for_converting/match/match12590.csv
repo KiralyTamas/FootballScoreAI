@@ -1,0 +1,33 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+357984,8,SavedShot,0.879000015258789,0.48200000762939454,0.2912367284297943,Gian-Luca Waldschmidt,h,294,OpenPlay,2019,Head,12590,Freiburg,Hoffenheim,1,0,2020-02-08 14:30:00,Nils Petersen,HeadPass
+357989,31,MissedShots,0.8209999847412109,0.705,0.028758669272065163,Lucas Höler,h,6475,OpenPlay,2019,RightFoot,12590,Freiburg,Hoffenheim,1,0,2020-02-08 14:30:00,Christian Günter,Pass
+357991,36,MissedShots,0.92,0.46900001525878904,0.12520386278629303,Lucas Höler,h,6475,SetPiece,2019,Head,12590,Freiburg,Hoffenheim,1,0,2020-02-08 14:30:00,Jonathan Schmid,Cross
+357992,39,Goal,0.885,0.5,0.757696270942688,Gian-Luca Waldschmidt,h,294,Penalty,2019,LeftFoot,12590,Freiburg,Hoffenheim,1,0,2020-02-08 14:30:00,,Standard
+357993,41,SavedShot,0.9390000152587891,0.6179999923706054,0.4059627056121826,Amir Abrashi,h,5265,OpenPlay,2019,RightFoot,12590,Freiburg,Hoffenheim,1,0,2020-02-08 14:30:00,Gian-Luca Waldschmidt,Throughball
+357995,46,SavedShot,0.8019999694824219,0.6790000152587891,0.03991788998246193,Amir Abrashi,h,5265,OpenPlay,2019,RightFoot,12590,Freiburg,Hoffenheim,1,0,2020-02-08 14:30:00,,BallTouch
+357998,53,BlockedShot,0.9009999847412109,0.325,0.04588453844189644,Manuel Gulde,h,5292,FromCorner,2019,RightFoot,12590,Freiburg,Hoffenheim,1,0,2020-02-08 14:30:00,,None
+357999,54,BlockedShot,0.9569999694824218,0.4129999923706055,0.033632051199674606,Manuel Gulde,h,5292,FromCorner,2019,Head,12590,Freiburg,Hoffenheim,1,0,2020-02-08 14:30:00,Christian Günter,Aerial
+358002,61,MissedShots,0.9280000305175782,0.57,0.06307004392147064,Kwon Chang-Hoon,h,5625,OpenPlay,2019,Head,12590,Freiburg,Hoffenheim,1,0,2020-02-08 14:30:00,Gian-Luca Waldschmidt,Aerial
+358003,63,SavedShot,0.8590000152587891,0.505,0.11278057843446732,Gian-Luca Waldschmidt,h,294,OpenPlay,2019,RightFoot,12590,Freiburg,Hoffenheim,1,0,2020-02-08 14:30:00,Jonathan Schmid,Pass
+358012,86,BlockedShot,0.8580000305175781,0.41,0.09610527753829956,Vincenzo Grifo,h,5266,OpenPlay,2019,LeftFoot,12590,Freiburg,Hoffenheim,1,0,2020-02-08 14:30:00,Lucas Höler,Pass
+358013,87,MissedShots,0.960999984741211,0.40299999237060546,0.24568410217761993,Manuel Gulde,h,5292,FromCorner,2019,Head,12590,Freiburg,Hoffenheim,1,0,2020-02-08 14:30:00,Christian Günter,Cross
+357985,12,BlockedShot,0.805,0.46599998474121096,0.04387470334768295,Sebastian Rudy,a,90,OpenPlay,2019,RightFoot,12590,Freiburg,Hoffenheim,1,0,2020-02-08 14:30:00,Pavel Kaderábek,HeadPass
+357986,16,BlockedShot,0.7419999694824219,0.4279999923706055,0.027910828590393066,Munas Dabbur,a,8140,OpenPlay,2019,RightFoot,12590,Freiburg,Hoffenheim,1,0,2020-02-08 14:30:00,Christoph Baumgartner,Pass
+357987,20,SavedShot,0.855999984741211,0.68,0.04678868129849434,Christoph Baumgartner,a,7422,OpenPlay,2019,RightFoot,12590,Freiburg,Hoffenheim,1,0,2020-02-08 14:30:00,Munas Dabbur,Pass
+357988,24,BlockedShot,0.865999984741211,0.5420000076293945,0.09792600572109222,Robert Skov,a,7867,OpenPlay,2019,RightFoot,12590,Freiburg,Hoffenheim,1,0,2020-02-08 14:30:00,Christoph Baumgartner,Pass
+357990,32,SavedShot,0.9019999694824219,0.38,0.32179808616638184,Munas Dabbur,a,8140,OpenPlay,2019,RightFoot,12590,Freiburg,Hoffenheim,1,0,2020-02-08 14:30:00,Christoph Baumgartner,Pass
+357994,43,MissedShots,0.75,0.6120000076293945,0.018211685121059418,Florian Grillitsch,a,116,OpenPlay,2019,RightFoot,12590,Freiburg,Hoffenheim,1,0,2020-02-08 14:30:00,Diadie Samassékou,Pass
+357996,47,MissedShots,0.9340000152587891,0.32799999237060545,0.05083495378494263,Pavel Kaderábek,a,74,OpenPlay,2019,RightFoot,12590,Freiburg,Hoffenheim,1,0,2020-02-08 14:30:00,Benjamin Hübner,Chipped
+357997,51,MissedShots,0.925,0.505,0.35792630910873413,Stefan Posch,a,5329,FromCorner,2019,Head,12590,Freiburg,Hoffenheim,1,0,2020-02-08 14:30:00,Robert Skov,Cross
+358000,57,BlockedShot,0.710999984741211,0.5690000152587891,0.018347006291151047,Robert Skov,a,7867,SetPiece,2019,LeftFoot,12590,Freiburg,Hoffenheim,1,0,2020-02-08 14:30:00,Sebastian Rudy,Pass
+358001,59,MissedShots,0.7959999847412109,0.5729999923706055,0.04078736528754234,Munas Dabbur,a,8140,OpenPlay,2019,RightFoot,12590,Freiburg,Hoffenheim,1,0,2020-02-08 14:30:00,Christoph Baumgartner,Pass
+358004,65,MissedShots,0.915,0.4570000076293945,0.08954363316297531,Ihlas Bebou,a,6271,OpenPlay,2019,Head,12590,Freiburg,Hoffenheim,1,0,2020-02-08 14:30:00,Pavel Kaderábek,Cross
+358005,67,SavedShot,0.86,0.6079999923706054,0.3131709694862366,Christoph Baumgartner,a,7422,OpenPlay,2019,RightFoot,12590,Freiburg,Hoffenheim,1,0,2020-02-08 14:30:00,Munas Dabbur,Pass
+358006,67,BlockedShot,0.9630000305175781,0.6040000152587891,0.37726637721061707,Christoph Baumgartner,a,7422,OpenPlay,2019,RightFoot,12590,Freiburg,Hoffenheim,1,0,2020-02-08 14:30:00,,Rebound
+358007,68,SavedShot,0.7080000305175781,0.47,0.0170650202780962,Ihlas Bebou,a,6271,OpenPlay,2019,RightFoot,12590,Freiburg,Hoffenheim,1,0,2020-02-08 14:30:00,Munas Dabbur,Pass
+358008,69,MissedShots,0.750999984741211,0.555,0.020315390080213547,Benjamin Hübner,a,251,OpenPlay,2019,LeftFoot,12590,Freiburg,Hoffenheim,1,0,2020-02-08 14:30:00,,None
+358009,70,MissedShots,0.8690000152587891,0.625,0.04845939204096794,Robert Skov,a,7867,OpenPlay,2019,LeftFoot,12590,Freiburg,Hoffenheim,1,0,2020-02-08 14:30:00,Ihlas Bebou,Cross
+358010,71,SavedShot,0.894000015258789,0.5690000152587891,0.023468319326639175,Christoph Baumgartner,a,7422,OpenPlay,2019,Head,12590,Freiburg,Hoffenheim,1,0,2020-02-08 14:30:00,Pavel Kaderábek,Aerial
+358011,73,BlockedShot,0.764000015258789,0.639000015258789,0.013717015273869038,Sebastian Rudy,a,90,FromCorner,2019,RightFoot,12590,Freiburg,Hoffenheim,1,0,2020-02-08 14:30:00,,Aerial
+358014,87,SavedShot,0.8430000305175781,0.3060000038146973,0.021177448332309723,Ihlas Bebou,a,6271,OpenPlay,2019,RightFoot,12590,Freiburg,Hoffenheim,1,0,2020-02-08 14:30:00,Pavel Kaderábek,HeadPass
+358015,88,BlockedShot,0.919000015258789,0.7119999694824218,0.03320056572556496,Christoph Baumgartner,a,7422,FromCorner,2019,RightFoot,12590,Freiburg,Hoffenheim,1,0,2020-02-08 14:30:00,,BallTouch

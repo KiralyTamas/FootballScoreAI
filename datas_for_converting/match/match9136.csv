@@ -1,0 +1,47 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+296276,6,MissedShots,0.8590000152587891,0.7519999694824219,0.027796320617198944,Cristian Ramírez,h,5477,OpenPlay,2018,RightFoot,9136,FC Krasnodar,Zenit St. Petersburg,2,3,2019-04-20 19:00:00,Mauricio Pereyra,Pass
+296284,17,MissedShots,0.7980000305175782,0.555,0.04041071981191635,Mauricio Pereyra,h,2922,OpenPlay,2018,RightFoot,9136,FC Krasnodar,Zenit St. Petersburg,2,3,2019-04-20 19:00:00,,None
+296288,20,BlockedShot,0.769000015258789,0.56,0.026625726372003555,Viktor Claesson,h,5478,OpenPlay,2018,RightFoot,9136,FC Krasnodar,Zenit St. Petersburg,2,3,2019-04-20 19:00:00,Mauricio Pereyra,Pass
+296289,23,BlockedShot,0.87,0.44099998474121094,0.08043333142995834,Sergei Petrov,h,2920,OpenPlay,2018,LeftFoot,9136,FC Krasnodar,Zenit St. Petersburg,2,3,2019-04-20 19:00:00,Daniil Utkin,Pass
+296290,24,BlockedShot,0.919000015258789,0.5070000076293946,0.49121540784835815,Viktor Claesson,h,5478,OpenPlay,2018,RightFoot,9136,FC Krasnodar,Zenit St. Petersburg,2,3,2019-04-20 19:00:00,Cristian Ramírez,Pass
+296291,24,Goal,0.9730000305175781,0.5420000076293945,0.7265106439590454,Ivan Ignatyev,h,6025,OpenPlay,2018,RightFoot,9136,FC Krasnodar,Zenit St. Petersburg,2,3,2019-04-20 19:00:00,,Rebound
+296292,27,SavedShot,0.9219999694824219,0.6120000076293945,0.34409818053245544,Viktor Claesson,h,5478,OpenPlay,2018,RightFoot,9136,FC Krasnodar,Zenit St. Petersburg,2,3,2019-04-20 19:00:00,Mauricio Pereyra,Pass
+296293,29,BlockedShot,0.8480000305175781,0.5270000076293946,0.07559654861688614,Mauricio Pereyra,h,2922,OpenPlay,2018,RightFoot,9136,FC Krasnodar,Zenit St. Petersburg,2,3,2019-04-20 19:00:00,,BallTouch
+296294,29,MissedShots,0.9280000305175782,0.539000015258789,0.09786152839660645,Daniil Utkin,h,7283,FromCorner,2018,Head,9136,FC Krasnodar,Zenit St. Petersburg,2,3,2019-04-20 19:00:00,Mauricio Pereyra,Cross
+296296,31,MissedShots,0.8919999694824219,0.415,0.07259531319141388,Ivan Ignatyev,h,6025,OpenPlay,2018,RightFoot,9136,FC Krasnodar,Zenit St. Petersburg,2,3,2019-04-20 19:00:00,Sergei Petrov,Chipped
+296297,35,MissedShots,0.7719999694824219,0.3340000152587891,0.01368493027985096,Sergei Petrov,h,2920,SetPiece,2018,RightFoot,9136,FC Krasnodar,Zenit St. Petersburg,2,3,2019-04-20 19:00:00,,None
+296298,35,MissedShots,0.7709999847412109,0.5579999923706055,0.028898634016513824,Viktor Claesson,h,5478,OpenPlay,2018,RightFoot,9136,FC Krasnodar,Zenit St. Petersburg,2,3,2019-04-20 19:00:00,,None
+296301,49,MissedShots,0.71,0.5579999923706055,0.015251676551997662,Daniil Utkin,h,7283,OpenPlay,2018,RightFoot,9136,FC Krasnodar,Zenit St. Petersburg,2,3,2019-04-20 19:00:00,Yuri Gazinskiy,Pass
+296303,51,BlockedShot,0.8530000305175781,0.544000015258789,0.09625347703695297,Daniil Utkin,h,7283,OpenPlay,2018,LeftFoot,9136,FC Krasnodar,Zenit St. Petersburg,2,3,2019-04-20 19:00:00,Wanderson,Pass
+296304,52,MissedShots,0.825,0.3340000152587891,0.037841107696294785,Wanderson,h,2450,OpenPlay,2018,RightFoot,9136,FC Krasnodar,Zenit St. Petersburg,2,3,2019-04-20 19:00:00,Viktor Claesson,Pass
+296308,62,SavedShot,0.8580000305175781,0.639000015258789,0.07042428851127625,Wanderson,h,2450,OpenPlay,2018,RightFoot,9136,FC Krasnodar,Zenit St. Petersburg,2,3,2019-04-20 19:00:00,Mauricio Pereyra,TakeOn
+296310,79,BlockedShot,0.8269999694824218,0.3060000038146973,0.031596839427948,Magomed-Shapi Suleymanov,h,5926,OpenPlay,2018,LeftFoot,9136,FC Krasnodar,Zenit St. Petersburg,2,3,2019-04-20 19:00:00,Mauricio Pereyra,Pass
+296311,79,SavedShot,0.850999984741211,0.40400001525878904,0.05291009321808815,Magomed-Shapi Suleymanov,h,5926,OpenPlay,2018,RightFoot,9136,FC Krasnodar,Zenit St. Petersburg,2,3,2019-04-20 19:00:00,,None
+296312,87,SavedShot,0.8690000152587891,0.5940000152587891,0.08011011779308319,Wanderson,h,2450,OpenPlay,2018,LeftFoot,9136,FC Krasnodar,Zenit St. Petersburg,2,3,2019-04-20 19:00:00,Viktor Claesson,Pass
+296314,90,Goal,0.7290000152587891,0.38799999237060545,0.016718443483114243,Mauricio Pereyra,h,2922,OpenPlay,2018,RightFoot,9136,FC Krasnodar,Zenit St. Petersburg,2,3,2019-04-20 19:00:00,Yuri Gazinskiy,Pass
+296316,95,MissedShots,0.8119999694824219,0.3609999847412109,0.033830154687166214,Wanderson,h,2450,OpenPlay,2018,RightFoot,9136,FC Krasnodar,Zenit St. Petersburg,2,3,2019-04-20 19:00:00,,None
+296271,2,SavedShot,0.8619999694824219,0.5529999923706055,0.3149929642677307,Artem Dzyuba,a,3063,OpenPlay,2018,LeftFoot,9136,FC Krasnodar,Zenit St. Petersburg,2,3,2019-04-20 19:00:00,Emiliano Rigoni,Pass
+296272,2,BlockedShot,0.965999984741211,0.5879999923706055,0.13133397698402405,Magomed Ozdoev,a,2968,OpenPlay,2018,LeftFoot,9136,FC Krasnodar,Zenit St. Petersburg,2,3,2019-04-20 19:00:00,,Rebound
+296273,2,SavedShot,0.754000015258789,0.31,0.014258957467973232,Igor Smolnikov,a,3055,OpenPlay,2018,RightFoot,9136,FC Krasnodar,Zenit St. Petersburg,2,3,2019-04-20 19:00:00,Wilmar Barrios,Pass
+296274,3,MissedShots,0.7709999847412109,0.395,0.017661189660429955,Wilmar Barrios,a,7448,FromCorner,2018,LeftFoot,9136,FC Krasnodar,Zenit St. Petersburg,2,3,2019-04-20 19:00:00,,None
+296275,3,BlockedShot,0.914000015258789,0.4879999923706055,0.12889330089092255,Sardar Azmoun,a,2774,FromCorner,2018,RightFoot,9136,FC Krasnodar,Zenit St. Petersburg,2,3,2019-04-20 19:00:00,Wilmar Barrios,Rebound
+296277,7,MissedShots,0.8730000305175781,0.33,0.0758407935500145,Sardar Azmoun,a,2774,OpenPlay,2018,RightFoot,9136,FC Krasnodar,Zenit St. Petersburg,2,3,2019-04-20 19:00:00,Sebastián Driussi,LayOff
+296278,10,MissedShots,0.95,0.47299999237060547,0.1479526162147522,Sardar Azmoun,a,2774,OpenPlay,2018,Head,9136,FC Krasnodar,Zenit St. Petersburg,2,3,2019-04-20 19:00:00,Yuri Zhirkov,Cross
+296279,11,MissedShots,0.9469999694824218,0.5279999923706055,0.12541738152503967,Sardar Azmoun,a,2774,FromCorner,2018,Head,9136,FC Krasnodar,Zenit St. Petersburg,2,3,2019-04-20 19:00:00,Sebastián Driussi,Cross
+296280,12,MissedShots,0.9269999694824219,0.43599998474121093,0.029512625187635422,Artem Dzyuba,a,3063,FromCorner,2018,Head,9136,FC Krasnodar,Zenit St. Petersburg,2,3,2019-04-20 19:00:00,Sebastián Driussi,Aerial
+296281,12,MissedShots,0.9359999847412109,0.5159999847412109,0.1428050845861435,Sardar Azmoun,a,2774,OpenPlay,2018,Head,9136,FC Krasnodar,Zenit St. Petersburg,2,3,2019-04-20 19:00:00,Yuri Zhirkov,Cross
+296282,13,MissedShots,0.9169999694824219,0.3340000152587891,0.010419505648314953,Emiliano Rigoni,a,6282,OpenPlay,2018,Head,9136,FC Krasnodar,Zenit St. Petersburg,2,3,2019-04-20 19:00:00,Igor Smolnikov,Cross
+296283,14,SavedShot,0.955999984741211,0.59,0.03858524560928345,Sardar Azmoun,a,2774,OpenPlay,2018,Head,9136,FC Krasnodar,Zenit St. Petersburg,2,3,2019-04-20 19:00:00,Emiliano Rigoni,Rebound
+296285,17,MissedShots,0.7290000152587891,0.7380000305175781,0.010046213865280151,Sebastián Driussi,a,5924,OpenPlay,2018,RightFoot,9136,FC Krasnodar,Zenit St. Petersburg,2,3,2019-04-20 19:00:00,Yuri Zhirkov,Pass
+296286,18,SavedShot,0.955999984741211,0.4,0.038211602717638016,Emiliano Rigoni,a,6282,OpenPlay,2018,Head,9136,FC Krasnodar,Zenit St. Petersburg,2,3,2019-04-20 19:00:00,Yuri Zhirkov,Chipped
+296287,18,Goal,0.9330000305175781,0.485,0.5813226699829102,Artem Dzyuba,a,3063,OpenPlay,2018,LeftFoot,9136,FC Krasnodar,Zenit St. Petersburg,2,3,2019-04-20 19:00:00,Emiliano Rigoni,Pass
+296295,30,MissedShots,0.914000015258789,0.4179999923706055,0.047445621341466904,Magomed Ozdoev,a,2968,FromCorner,2018,Head,9136,FC Krasnodar,Zenit St. Petersburg,2,3,2019-04-20 19:00:00,Emiliano Rigoni,Cross
+296299,36,ShotOnPost,0.8819999694824219,0.7,0.04749229922890663,Sardar Azmoun,a,2774,OpenPlay,2018,RightFoot,9136,FC Krasnodar,Zenit St. Petersburg,2,3,2019-04-20 19:00:00,Artem Dzyuba,TakeOn
+296300,36,SavedShot,0.8190000152587891,0.44299999237060544,0.03131953254342079,Artem Dzyuba,a,3063,OpenPlay,2018,RightFoot,9136,FC Krasnodar,Zenit St. Petersburg,2,3,2019-04-20 19:00:00,Sebastián Driussi,HeadPass
+296302,49,SavedShot,0.8569999694824219,0.754000015258789,0.021995937451720238,Artem Dzyuba,a,3063,OpenPlay,2018,RightFoot,9136,FC Krasnodar,Zenit St. Petersburg,2,3,2019-04-20 19:00:00,Emiliano Rigoni,Chipped
+296305,55,SavedShot,0.855999984741211,0.5690000152587891,0.07751348614692688,Emiliano Rigoni,a,6282,OpenPlay,2018,LeftFoot,9136,FC Krasnodar,Zenit St. Petersburg,2,3,2019-04-20 19:00:00,Yaroslav Rakitskiy,HeadPass
+296306,57,MissedShots,0.8680000305175781,0.4209999847412109,0.09890735894441605,Emiliano Rigoni,a,6282,OpenPlay,2018,RightFoot,9136,FC Krasnodar,Zenit St. Petersburg,2,3,2019-04-20 19:00:00,Sardar Azmoun,Pass
+296307,59,BlockedShot,0.94,0.519000015258789,0.12374567240476608,Sebastián Driussi,a,5924,OpenPlay,2018,LeftFoot,9136,FC Krasnodar,Zenit St. Petersburg,2,3,2019-04-20 19:00:00,,None
+296309,68,Goal,0.7480000305175781,0.610999984741211,0.05195716395974159,Yaroslav Rakitskiy,a,7447,DirectFreekick,2018,LeftFoot,9136,FC Krasnodar,Zenit St. Petersburg,2,3,2019-04-20 19:00:00,,Standard
+296313,89,BlockedShot,0.9030000305175782,0.5259999847412109,0.12985096871852875,Igor Smolnikov,a,3055,OpenPlay,2018,LeftFoot,9136,FC Krasnodar,Zenit St. Petersburg,2,3,2019-04-20 19:00:00,Sardar Azmoun,Foul
+296315,94,Goal,0.9290000152587891,0.47,0.051087141036987305,Artem Dzyuba,a,3063,FromCorner,2018,Head,9136,FC Krasnodar,Zenit St. Petersburg,2,3,2019-04-20 19:00:00,Christian Noboa,Aerial

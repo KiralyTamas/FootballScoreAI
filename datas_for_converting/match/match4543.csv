@@ -1,0 +1,35 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+23899,12,MissedShots,0.8680000305175781,0.54,0.03353308141231537,Romelu Lukaku,h,594,OpenPlay,2014,Head,4543,Everton,Leicester,2,2,2015-02-22 14:05:00,Leighton Baines,Chipped
+23900,17,SavedShot,0.8230000305175781,0.32,0.03328735753893852,Muhamed Besic,h,908,OpenPlay,2014,RightFoot,4543,Everton,Leicester,2,2,2015-02-22 14:05:00,Steven Naismith,Pass
+23901,23,MissedShots,0.784000015258789,0.73,0.05114077776670456,Ross Barkley,h,592,DirectFreekick,2014,RightFoot,4543,Everton,Leicester,2,2,2015-02-22 14:05:00,,Standard
+23902,25,MissedShots,0.915,0.44299999237060544,0.13792350888252258,Romelu Lukaku,h,594,OpenPlay,2014,RightFoot,4543,Everton,Leicester,2,2,2015-02-22 14:05:00,Seamus Coleman,Pass
+23905,30,BlockedShot,0.875999984741211,0.505,0.14273177087306976,Romelu Lukaku,h,594,OpenPlay,2014,RightFoot,4543,Everton,Leicester,2,2,2015-02-22 14:05:00,Aaron Lennon,Pass
+23906,30,MissedShots,0.855999984741211,0.4540000152587891,0.12299412488937378,Ross Barkley,h,592,OpenPlay,2014,LeftFoot,4543,Everton,Leicester,2,2,2015-02-22 14:05:00,,Rebound
+23912,49,BlockedShot,0.7619999694824219,0.49700000762939456,0.026773428544402122,Ross Barkley,h,592,OpenPlay,2014,LeftFoot,4543,Everton,Leicester,2,2,2015-02-22 14:05:00,James McCarthy,BallRecovery
+23914,56,Goal,0.874000015258789,0.645,0.07319244742393494,Steven Naismith,h,824,OpenPlay,2014,RightFoot,4543,Everton,Leicester,2,2,2015-02-22 14:05:00,Romelu Lukaku,Pass
+23916,64,MissedShots,0.764000015258789,0.3509999847412109,0.019846748560667038,Darron Gibson,h,921,OpenPlay,2014,RightFoot,4543,Everton,Leicester,2,2,2015-02-22 14:05:00,,BallRecovery
+23917,65,MissedShots,0.874000015258789,0.625999984741211,0.29554781317710876,Romelu Lukaku,h,594,OpenPlay,2014,RightFoot,4543,Everton,Leicester,2,2,2015-02-22 14:05:00,James McCarthy,HeadPass
+23918,67,BlockedShot,0.895,0.55,0.06036173552274704,Romelu Lukaku,h,594,FromCorner,2014,LeftFoot,4543,Everton,Leicester,2,2,2015-02-22 14:05:00,Leighton Baines,Cross
+23920,70,MissedShots,0.93,0.34900001525878904,0.2991972863674164,Romelu Lukaku,h,594,OpenPlay,2014,RightFoot,4543,Everton,Leicester,2,2,2015-02-22 14:05:00,Steven Naismith,Throughball
+23921,78,MissedShots,0.8059999847412109,0.2520000076293945,0.019342640414834023,Christian Atsu,h,2344,OpenPlay,2014,LeftFoot,4543,Everton,Leicester,2,2,2015-02-22 14:05:00,Darron Gibson,Pass
+23922,85,MissedShots,0.825,0.6780000305175782,0.030140962451696396,Leighton Baines,h,588,OpenPlay,2014,LeftFoot,4543,Everton,Leicester,2,2,2015-02-22 14:05:00,Christian Atsu,BallTouch
+23923,85,MissedShots,0.9269999694824219,0.46,0.5030317902565002,Romelu Lukaku,h,594,OpenPlay,2014,RightFoot,4543,Everton,Leicester,2,2,2015-02-22 14:05:00,Leighton Baines,Rebound
+23924,87,MissedShots,0.94,0.5459999847412109,0.12244608998298645,Romelu Lukaku,h,594,OpenPlay,2014,Head,4543,Everton,Leicester,2,2,2015-02-22 14:05:00,Christian Atsu,Cross
+23927,90,SavedShot,0.874000015258789,0.6969999694824218,0.04703925549983978,Christian Atsu,h,2344,OpenPlay,2014,LeftFoot,4543,Everton,Leicester,2,2,2015-02-22 14:05:00,Romelu Lukaku,Pass
+23928,90,BlockedShot,0.91,0.5520000076293945,0.06450831890106201,Romelu Lukaku,h,594,FromCorner,2014,Head,4543,Everton,Leicester,2,2,2015-02-22 14:05:00,Kevin Mirallas,Cross
+23896,2,BlockedShot,0.710999984741211,0.695,0.011795124039053917,Paul Konchesky,a,4439,OpenPlay,2014,LeftFoot,4543,Everton,Leicester,2,2,2015-02-22 14:05:00,Jeffrey Schlupp,Pass
+23897,2,SavedShot,0.9209999847412109,0.29700000762939455,0.06969829648733139,Jeffrey Schlupp,a,757,OpenPlay,2014,RightFoot,4543,Everton,Leicester,2,2,2015-02-22 14:05:00,Riyad Mahrez,LayOff
+23898,9,MissedShots,0.8130000305175781,0.305,0.025600789114832878,Danny Simpson,a,746,OpenPlay,2014,RightFoot,4543,Everton,Leicester,2,2,2015-02-22 14:05:00,,None
+23903,27,MissedShots,0.8390000152587891,0.6430000305175781,0.046990785747766495,Andrej Kramaric,a,956,OpenPlay,2014,RightFoot,4543,Everton,Leicester,2,2,2015-02-22 14:05:00,Matthew James,Pass
+23904,30,BlockedShot,0.9,0.6409999847412109,0.10086628794670105,Andrej Kramaric,a,956,OpenPlay,2014,RightFoot,4543,Everton,Leicester,2,2,2015-02-22 14:05:00,,TakeOn
+23907,35,MissedShots,0.8730000305175781,0.5879999923706055,0.10013794153928757,Jeffrey Schlupp,a,757,OpenPlay,2014,LeftFoot,4543,Everton,Leicester,2,2,2015-02-22 14:05:00,Esteban Cambiasso,TakeOn
+23908,46,BlockedShot,0.899000015258789,0.5770000076293945,0.09044231474399567,Jeffrey Schlupp,a,757,OpenPlay,2014,LeftFoot,4543,Everton,Leicester,2,2,2015-02-22 14:05:00,,None
+23909,46,SavedShot,0.7980000305175782,0.580999984741211,0.03506169095635414,Matthew James,a,4441,OpenPlay,2014,RightFoot,4543,Everton,Leicester,2,2,2015-02-22 14:05:00,Jeffrey Schlupp,Pass
+23910,46,MissedShots,0.9069999694824219,0.654000015258789,0.2897893786430359,Jeffrey Schlupp,a,757,OpenPlay,2014,LeftFoot,4543,Everton,Leicester,2,2,2015-02-22 14:05:00,,Rebound
+23911,48,MissedShots,0.9330000305175781,0.3240000152587891,0.03644599765539169,Riyad Mahrez,a,750,OpenPlay,2014,LeftFoot,4543,Everton,Leicester,2,2,2015-02-22 14:05:00,Matthew James,Cross
+23913,53,MissedShots,0.9219999694824219,0.4370000076293945,0.09854187816381454,Robert Huth,a,747,OpenPlay,2014,Head,4543,Everton,Leicester,2,2,2015-02-22 14:05:00,Matthew James,Cross
+23915,62,Goal,0.9569999694824218,0.509000015258789,0.6158408522605896,David Nugent,a,1753,OpenPlay,2014,RightFoot,4543,Everton,Leicester,2,2,2015-02-22 14:05:00,,None
+23919,69,Goal,0.909000015258789,0.575999984741211,0.40695467591285706,Esteban Cambiasso,a,4440,OpenPlay,2014,LeftFoot,4543,Everton,Leicester,2,2,2015-02-22 14:05:00,Jamie Vardy,Pass
+23925,87,OwnGoal,0.04300000190734863,0.46,0,Matt Upson,a,4438,OpenPlay,2014,Head,4543,Everton,Leicester,2,2,2015-02-22 14:05:00,,Clearance
+23926,89,MissedShots,0.8169999694824219,0.4540000152587891,0.05848509818315506,Andrej Kramaric,a,956,OpenPlay,2014,RightFoot,4543,Everton,Leicester,2,2,2015-02-22 14:05:00,David Nugent,Pass
+23929,93,BlockedShot,0.88,0.5840000152587891,0.018696444109082222,Robert Huth,a,747,FromCorner,2014,Head,4543,Everton,Leicester,2,2,2015-02-22 14:05:00,Matthew James,Cross

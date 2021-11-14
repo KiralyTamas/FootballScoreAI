@@ -1,0 +1,19 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+400274,0,MissedShots,0.8380000305175781,0.47400001525878904,0.07366535812616348,Jorge De Frutos,h,8107,OpenPlay,2020,LeftFoot,14976,Levante,Real Valladolid,2,2,2021-01-22 20:00:00,,Dispossessed
+400275,4,MissedShots,0.8969999694824219,0.5279999923706055,0.06755735725164413,Mickaël Malsa,h,8907,FromCorner,2020,Head,14976,Levante,Real Valladolid,2,2,2021-01-22 20:00:00,Jorge De Frutos,Cross
+400277,20,BlockedShot,0.9309999847412109,0.6459999847412109,0.019504209980368614,Roger,h,2566,FromCorner,2020,Head,14976,Levante,Real Valladolid,2,2,2021-01-22 20:00:00,Jorge De Frutos,Cross
+400278,30,BlockedShot,0.905,0.47,0.09409365803003311,Rúben Vezo,h,2386,FromCorner,2020,RightFoot,14976,Levante,Real Valladolid,2,2,2021-01-22 20:00:00,,None
+400281,47,SavedShot,0.91,0.7480000305175781,0.03539144620299339,Morales,h,2186,OpenPlay,2020,LeftFoot,14976,Levante,Real Valladolid,2,2,2021-01-22 20:00:00,,None
+400283,51,BlockedShot,0.8690000152587891,0.5420000076293945,0.0995340421795845,Dani Gómez,h,8774,OpenPlay,2020,LeftFoot,14976,Levante,Real Valladolid,2,2,2021-01-22 20:00:00,Morales,Pass
+400284,52,MissedShots,0.8530000305175781,0.504000015258789,0.06517260521650314,Jorge Miramón,h,6949,FromCorner,2020,LeftFoot,14976,Levante,Real Valladolid,2,2,2021-01-22 20:00:00,,None
+400285,59,MissedShots,0.879000015258789,0.5590000152587891,0.047920312732458115,Carlos Clerc,h,5101,FromCorner,2020,LeftFoot,14976,Levante,Real Valladolid,2,2,2021-01-22 20:00:00,Jorge De Frutos,Cross
+400286,61,Goal,0.8880000305175781,0.5279999923706055,0.40392446517944336,Dani Gómez,h,8774,OpenPlay,2020,RightFoot,14976,Levante,Real Valladolid,2,2,2021-01-22 20:00:00,Jorge De Frutos,Pass
+400289,78,BlockedShot,0.9630000305175781,0.5659999847412109,0.07439348846673965,Sergio León,h,5095,OpenPlay,2020,Head,14976,Levante,Real Valladolid,2,2,2021-01-22 20:00:00,Jorge Miramón,Aerial
+400290,82,Goal,0.9230000305175782,0.32,0.06620326638221741,Roger,h,2566,OpenPlay,2020,RightFoot,14976,Levante,Real Valladolid,2,2,2021-01-22 20:00:00,Nemanja Radoja,Pass
+400276,7,MissedShots,0.9119999694824219,0.41,0.317243367433548,Rubén Alcaraz,a,6917,OpenPlay,2020,RightFoot,14976,Levante,Real Valladolid,2,2,2021-01-22 20:00:00,Fabián Orellana,Chipped
+400279,33,MissedShots,0.77,0.5820000076293945,0.028839323669672012,Óscar Plano,a,6921,OpenPlay,2020,LeftFoot,14976,Levante,Real Valladolid,2,2,2021-01-22 20:00:00,,BallRecovery
+400280,41,SavedShot,0.9009999847412109,0.4229999923706055,0.06725041568279266,Fabián Orellana,a,2285,OpenPlay,2020,Head,14976,Levante,Real Valladolid,2,2,2021-01-22 20:00:00,Luis Pérez,Cross
+400282,48,MissedShots,0.8690000152587891,0.40099998474121096,0.054366178810596466,Rubén Alcaraz,a,6917,OpenPlay,2020,LeftFoot,14976,Levante,Real Valladolid,2,2,2021-01-22 20:00:00,Toni Villa,Cross
+400287,72,Goal,0.7330000305175781,0.519000015258789,0.016302259638905525,Rubén Alcaraz,a,6917,OpenPlay,2020,LeftFoot,14976,Levante,Real Valladolid,2,2,2021-01-22 20:00:00,Kuki Zalazar,BallRecovery
+400288,77,Goal,0.87,0.48,0.10807320475578308,Óscar Plano,a,6921,OpenPlay,2020,LeftFoot,14976,Levante,Real Valladolid,2,2,2021-01-22 20:00:00,Pablo Hervías,Pass
+400291,85,MissedShots,0.7190000152587891,0.30700000762939456,0.03902110829949379,Pablo Hervías,a,4054,DirectFreekick,2020,RightFoot,14976,Levante,Real Valladolid,2,2,2021-01-22 20:00:00,,Standard

@@ -1,0 +1,27 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+70818,0,BlockedShot,0.72,0.5370000076293945,0.012688412331044674,Sergei Kornilenko,h,3016,OpenPlay,2015,LeftFoot,2378,Krylya Sovetov Samara,Spartak Moscow,0,2,2015-08-09 20:00:00,,None
+70820,6,MissedShots,0.72,0.6709999847412109,0.012981909327208996,Aleksey Pomerko,h,2997,OpenPlay,2015,RightFoot,2378,Krylya Sovetov Samara,Spartak Moscow,0,2,2015-08-09 20:00:00,Ibrahim Tsallagov,Pass
+70821,8,SavedShot,0.8690000152587891,0.45599998474121095,0.07128071039915085,Sergei Kornilenko,h,3016,OpenPlay,2015,RightFoot,2378,Krylya Sovetov Samara,Spartak Moscow,0,2,2015-08-09 20:00:00,Taras Burlak,Cross
+70822,9,BlockedShot,0.8869999694824219,0.6469999694824219,0.052788905799388885,Berat Sadik,h,3012,OpenPlay,2015,RightFoot,2378,Krylya Sovetov Samara,Spartak Moscow,0,2,2015-08-09 20:00:00,,None
+70824,18,SavedShot,0.825999984741211,0.49900001525878906,0.007831075228750706,Taras Burlak,h,2993,SetPiece,2015,Head,2378,Krylya Sovetov Samara,Spartak Moscow,0,2,2015-08-09 20:00:00,Georgiy Gabulov,Aerial
+70826,23,SavedShot,0.94,0.2929999923706055,0.0452529601752758,Alan Chochiev,h,3000,OpenPlay,2015,RightFoot,2378,Krylya Sovetov Samara,Spartak Moscow,0,2,2015-08-09 20:00:00,Taras Burlak,TakeOn
+70833,65,MissedShots,0.72,0.545,0.01614173874258995,Alan Chochiev,h,3000,OpenPlay,2015,LeftFoot,2378,Krylya Sovetov Samara,Spartak Moscow,0,2,2015-08-09 20:00:00,Aleksey Pomerko,Pass
+70834,67,MissedShots,0.9059999847412109,0.7669999694824219,0.029218541458249092,Sergei Kornilenko,h,3016,OpenPlay,2015,LeftFoot,2378,Krylya Sovetov Samara,Spartak Moscow,0,2,2015-08-09 20:00:00,Alan Chochiev,Pass
+70835,71,MissedShots,0.9290000152587891,0.48,0.3306080400943756,Sergei Kornilenko,h,3016,OpenPlay,2015,LeftFoot,2378,Krylya Sovetov Samara,Spartak Moscow,0,2,2015-08-09 20:00:00,Aleksey Pomerko,Cross
+70836,74,MissedShots,0.7090000152587891,0.44799999237060545,0.009009052999317646,Georgiy Gabulov,h,3017,OpenPlay,2015,RightFoot,2378,Krylya Sovetov Samara,Spartak Moscow,0,2,2015-08-09 20:00:00,,None
+70837,77,SavedShot,0.7330000305175781,0.4640000152587891,0.01004849188029766,Berat Sadik,h,3012,OpenPlay,2015,LeftFoot,2378,Krylya Sovetov Samara,Spartak Moscow,0,2,2015-08-09 20:00:00,,Aerial
+70838,78,MissedShots,0.749000015258789,0.26799999237060546,0.007398434914648533,Taras Burlak,h,2993,OpenPlay,2015,RightFoot,2378,Krylya Sovetov Samara,Spartak Moscow,0,2,2015-08-09 20:00:00,Berat Sadik,Chipped
+70840,82,SavedShot,0.7519999694824219,0.5659999847412109,0.059330858290195465,Georgiy Gabulov,h,3017,DirectFreekick,2015,RightFoot,2378,Krylya Sovetov Samara,Spartak Moscow,0,2,2015-08-09 20:00:00,,Standard
+70843,92,BlockedShot,0.8540000152587891,0.7069999694824218,0.020680034533143044,Igor Gorbatenko,h,3151,OpenPlay,2015,RightFoot,2378,Krylya Sovetov Samara,Spartak Moscow,0,2,2015-08-09 20:00:00,,None
+70819,4,Goal,0.7190000152587891,0.580999984741211,0.040901049971580505,Quincy Promes,a,2815,DirectFreekick,2015,RightFoot,2378,Krylya Sovetov Samara,Spartak Moscow,0,2,2015-08-09 20:00:00,,Standard
+70823,12,MissedShots,0.7019999694824218,0.5329999923706055,0.01733408309519291,Ivelin Popov,a,2817,OpenPlay,2015,RightFoot,2378,Krylya Sovetov Samara,Spartak Moscow,0,2,2015-08-09 20:00:00,Roman Shirokov,Pass
+70825,19,MissedShots,0.695,0.45799999237060546,0.013863136060535908,Salvatore Bocchetti,a,2810,OpenPlay,2015,LeftFoot,2378,Krylya Sovetov Samara,Spartak Moscow,0,2,2015-08-09 20:00:00,Denis Glushakov,Pass
+70827,31,MissedShots,0.7819999694824219,0.5929999923706055,0.04147409275174141,Quincy Promes,a,2815,OpenPlay,2015,LeftFoot,2378,Krylya Sovetov Samara,Spartak Moscow,0,2,2015-08-09 20:00:00,,None
+70828,46,ShotOnPost,0.905,0.2989999961853027,0.06841837614774704,Quincy Promes,a,2815,OpenPlay,2015,RightFoot,2378,Krylya Sovetov Samara,Spartak Moscow,0,2,2015-08-09 20:00:00,Ivelin Popov,Pass
+70829,51,Goal,0.865999984741211,0.524000015258789,0.35581153631210327,Quincy Promes,a,2815,OpenPlay,2015,RightFoot,2378,Krylya Sovetov Samara,Spartak Moscow,0,2,2015-08-09 20:00:00,Yura Movsisyan,Pass
+70830,56,SavedShot,0.950999984741211,0.6040000152587891,0.17431586980819702,Salvatore Bocchetti,a,2810,SetPiece,2015,Head,2378,Krylya Sovetov Samara,Spartak Moscow,0,2,2015-08-09 20:00:00,Roman Shirokov,Cross
+70831,59,ShotOnPost,0.9130000305175782,0.4929999923706055,0.07644076645374298,Zé Luís,a,2818,OpenPlay,2015,Head,2378,Krylya Sovetov Samara,Spartak Moscow,0,2,2015-08-09 20:00:00,Denis Glushakov,Chipped
+70832,60,SavedShot,0.745,0.24200000762939453,0.019757218658924103,Quincy Promes,a,2815,OpenPlay,2015,RightFoot,2378,Krylya Sovetov Samara,Spartak Moscow,0,2,2015-08-09 20:00:00,Ivelin Popov,Pass
+70839,80,MissedShots,0.855999984741211,0.6179999923706054,0.11959227174520493,Zé Luís,a,2818,OpenPlay,2015,LeftFoot,2378,Krylya Sovetov Samara,Spartak Moscow,0,2,2015-08-09 20:00:00,Ivelin Popov,Pass
+70841,90,BlockedShot,0.7709999847412109,0.6909999847412109,0.02014261856675148,Dmitri Kombarov,a,2821,OpenPlay,2015,LeftFoot,2378,Krylya Sovetov Samara,Spartak Moscow,0,2,2015-08-09 20:00:00,,Interception
+70842,91,MissedShots,0.37900001525878907,0.46799999237060547,0.01596161350607872,Denis Glushakov,a,2814,DirectFreekick,2015,RightFoot,2378,Krylya Sovetov Samara,Spartak Moscow,0,2,2015-08-09 20:00:00,,Standard

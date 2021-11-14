@@ -1,0 +1,22 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+409150,16,MissedShots,0.76,0.23200000762939454,0.01531874667853117,Antonio Candreva,h,1517,OpenPlay,2020,RightFoot,15679,Sampdoria,Cagliari,2,2,2021-03-07 17:00:00,Adrien Silva,Pass
+409151,25,BlockedShot,0.715,0.65,0.013600504957139492,Fabio Quagliarella,h,1230,SetPiece,2020,RightFoot,15679,Sampdoria,Cagliari,2,2,2021-03-07 17:00:00,Antonio Candreva,Pass
+409152,34,MissedShots,0.759000015258789,0.53,0.03148595243692398,Antonio Candreva,h,1517,OpenPlay,2020,LeftFoot,15679,Sampdoria,Cagliari,2,2,2021-03-07 17:00:00,Keita,LayOff
+409154,44,MissedShots,0.9359999847412109,0.654000015258789,0.058163441717624664,Jakub Jankto,h,1146,OpenPlay,2020,RightFoot,15679,Sampdoria,Cagliari,2,2,2021-03-07 17:00:00,Adrien Silva,Chipped
+409157,58,MissedShots,0.784000015258789,0.5329999923706055,0.013652895577251911,Jakub Jankto,h,1146,SetPiece,2020,RightFoot,15679,Sampdoria,Cagliari,2,2,2021-03-07 17:00:00,,Aerial
+409158,58,MissedShots,0.870999984741211,0.4420000076293945,0.08369122445583344,Omar Colley,h,7096,SetPiece,2020,LeftFoot,15679,Sampdoria,Cagliari,2,2,2021-03-07 17:00:00,Jakub Jankto,Rebound
+409159,61,SavedShot,0.769000015258789,0.48700000762939455,0.025374894961714745,Gastón Ramírez,h,952,OpenPlay,2020,LeftFoot,15679,Sampdoria,Cagliari,2,2,2021-03-07 17:00:00,,Dispossessed
+409161,66,MissedShots,0.8,0.5359999847412109,0.05000543221831322,Gastón Ramírez,h,952,OpenPlay,2020,LeftFoot,15679,Sampdoria,Cagliari,2,2,2021-03-07 17:00:00,Fabio Quagliarella,Pass
+409162,73,SavedShot,0.92,0.5159999847412109,0.05366431176662445,Morten Thorsby,h,7939,OpenPlay,2020,Head,15679,Sampdoria,Cagliari,2,2,2021-03-07 17:00:00,,None
+409163,76,SavedShot,0.9209999847412109,0.2979999923706055,0.0415586456656456,Fabio Quagliarella,h,1230,FromCorner,2020,RightFoot,15679,Sampdoria,Cagliari,2,2,2021-03-07 17:00:00,Alex Ferrari,HeadPass
+409164,77,Goal,0.955,0.34700000762939454,0.0980324000120163,Bartosz Bereszynski,h,4907,OpenPlay,2020,RightFoot,15679,Sampdoria,Cagliari,2,2,2021-03-07 17:00:00,Gastón Ramírez,Throughball
+409165,79,Goal,0.795,0.6919999694824219,0.04408375918865204,Manolo Gabbiadini,h,1383,OpenPlay,2020,LeftFoot,15679,Sampdoria,Cagliari,2,2,2021-03-07 17:00:00,Fabio Quagliarella,Pass
+409147,10,BlockedShot,0.8590000152587891,0.720999984741211,0.03189397230744362,Charalampos Lykogiannis,a,6517,OpenPlay,2020,LeftFoot,15679,Sampdoria,Cagliari,2,2,2021-03-07 17:00:00,Nahitan Nández,Pass
+409148,10,SavedShot,0.895,0.62,0.3034728467464447,João Pedro,a,1592,OpenPlay,2020,RightFoot,15679,Sampdoria,Cagliari,2,2,2021-03-07 17:00:00,Leonardo Pavoletti,LayOff
+409149,10,Goal,0.9159999847412109,0.5529999923706055,0.4078601598739624,João Pedro,a,1592,OpenPlay,2020,RightFoot,15679,Sampdoria,Cagliari,2,2,2021-03-07 17:00:00,,Rebound
+409153,38,BlockedShot,0.9059999847412109,0.715,0.056992389261722565,Charalampos Lykogiannis,a,6517,OpenPlay,2020,LeftFoot,15679,Sampdoria,Cagliari,2,2,2021-03-07 17:00:00,Leonardo Pavoletti,Pass
+409155,46,BlockedShot,0.9130000305175782,0.38599998474121094,0.1972111314535141,João Pedro,a,1592,OpenPlay,2020,RightFoot,15679,Sampdoria,Cagliari,2,2,2021-03-07 17:00:00,,TakeOn
+409156,54,MissedShots,0.9430000305175781,0.40200000762939453,0.05543503910303116,João Pedro,a,1592,FromCorner,2020,Head,15679,Sampdoria,Cagliari,2,2,2021-03-07 17:00:00,Razvan Marin,Cross
+409160,63,SavedShot,0.8030000305175782,0.6309999847412109,0.01954985409975052,Radja Nainggolan,a,1251,OpenPlay,2020,LeftFoot,15679,Sampdoria,Cagliari,2,2,2021-03-07 17:00:00,,Aerial
+409166,94,BlockedShot,0.8230000305175781,0.6120000076293945,0.015469498001039028,Nahitan Nández,a,7953,OpenPlay,2020,RightFoot,15679,Sampdoria,Cagliari,2,2,2021-03-07 17:00:00,,Aerial
+409167,95,Goal,0.735,0.5820000076293945,0.015773136168718338,Radja Nainggolan,a,1251,OpenPlay,2020,RightFoot,15679,Sampdoria,Cagliari,2,2,2021-03-07 17:00:00,Leonardo Pavoletti,None

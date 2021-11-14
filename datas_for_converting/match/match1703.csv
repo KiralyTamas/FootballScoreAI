@@ -1,0 +1,17 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+91953,22,ShotOnPost,0.7669999694824219,0.6370000076293946,0.014692767523229122,Fabián Orellana,h,2285,SetPiece,2015,RightFoot,1703,Celta Vigo,Deportivo La Coruna,1,1,2016-04-03 00:05:00,,None
+91954,25,SavedShot,0.73,0.39099998474121095,0.013485684059560299,Iago Aspas,h,2290,OpenPlay,2015,LeftFoot,1703,Celta Vigo,Deportivo La Coruna,1,1,2016-04-03 00:05:00,,None
+91956,29,Goal,0.9030000305175782,0.7069999694824218,0.044558946043252945,Nolito,h,1732,OpenPlay,2015,RightFoot,1703,Celta Vigo,Deportivo La Coruna,1,1,2016-04-03 00:05:00,Fabián Orellana,BallTouch
+91957,53,BlockedShot,0.87,0.64,0.07465627789497375,Nolito,h,1732,OpenPlay,2015,RightFoot,1703,Celta Vigo,Deportivo La Coruna,1,1,2016-04-03 00:05:00,Iago Aspas,Pass
+91958,58,MissedShots,0.720999984741211,0.555,0.015364108607172966,Iago Aspas,h,2290,OpenPlay,2015,LeftFoot,1703,Celta Vigo,Deportivo La Coruna,1,1,2016-04-03 00:05:00,,BallRecovery
+91960,69,MissedShots,0.7559999847412109,0.48200000762939454,0.07857632637023926,Nolito,h,1732,DirectFreekick,2015,RightFoot,1703,Celta Vigo,Deportivo La Coruna,1,1,2016-04-03 00:05:00,,Standard
+91962,72,MissedShots,0.815,0.705,0.026213718578219414,Nolito,h,1732,OpenPlay,2015,RightFoot,1703,Celta Vigo,Deportivo La Coruna,1,1,2016-04-03 00:05:00,John Guidetti,Pass
+91963,82,BlockedShot,0.8969999694824219,0.27299999237060546,0.041506510227918625,Fabián Orellana,h,2285,OpenPlay,2015,LeftFoot,1703,Celta Vigo,Deportivo La Coruna,1,1,2016-04-03 00:05:00,,None
+91964,92,MissedShots,0.8590000152587891,0.695,0.05141550302505493,Nolito,h,1732,OpenPlay,2015,RightFoot,1703,Celta Vigo,Deportivo La Coruna,1,1,2016-04-03 00:05:00,John Guidetti,HeadPass
+91949,5,MissedShots,0.745999984741211,0.23299999237060548,0.017711205407977104,Lucas Pérez,a,1700,OpenPlay,2015,LeftFoot,1703,Celta Vigo,Deportivo La Coruna,1,1,2016-04-03 00:05:00,Faycal Fajr,Pass
+91950,13,BlockedShot,0.8130000305175781,0.495,0.06717084348201752,Luis Alberto,a,1219,OpenPlay,2015,RightFoot,1703,Celta Vigo,Deportivo La Coruna,1,1,2016-04-03 00:05:00,Lucas Pérez,TakeOn
+91951,18,MissedShots,0.955,0.445,0.13100022077560425,Sidnei,a,2314,SetPiece,2015,Head,1703,Celta Vigo,Deportivo La Coruna,1,1,2016-04-03 00:05:00,Fede Cartabia,Chipped
+91952,20,Goal,0.9740000152587891,0.5670000076293945,0.593792200088501,Celso Borges,a,2466,OpenPlay,2015,RightFoot,1703,Celta Vigo,Deportivo La Coruna,1,1,2016-04-03 00:05:00,Luis Alberto,Pass
+91955,29,SavedShot,0.754000015258789,0.28899999618530275,0.016841279342770576,Lucas Pérez,a,1700,OpenPlay,2015,LeftFoot,1703,Celta Vigo,Deportivo La Coruna,1,1,2016-04-03 00:05:00,,None
+91959,65,SavedShot,0.779000015258789,0.629000015258789,0.02473406493663788,Luis Alberto,a,1219,OpenPlay,2015,RightFoot,1703,Celta Vigo,Deportivo La Coruna,1,1,2016-04-03 00:05:00,Faycal Fajr,Pass
+91961,71,MissedShots,0.7219999694824218,0.28200000762939453,0.01315771508961916,Juanfran,a,2316,OpenPlay,2015,LeftFoot,1703,Celta Vigo,Deportivo La Coruna,1,1,2016-04-03 00:05:00,Celso Borges,Pass

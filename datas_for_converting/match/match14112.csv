@@ -1,0 +1,24 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+379603,3,Goal,0.8809999847412109,0.29,0.028833147138357162,Riyad Mahrez,h,750,FromCorner,2020,RightFoot,14112,Manchester City,Leicester,2,5,2020-09-27 15:30:00,,None
+379604,9,BlockedShot,0.8009999847412109,0.3129999923706055,0.03631013631820679,Fernandinho,h,614,OpenPlay,2020,RightFoot,14112,Manchester City,Leicester,2,5,2020-09-27 15:30:00,,None
+379605,12,MissedShots,0.774000015258789,0.5729999923706055,0.041562531143426895,Rodri,h,2496,OpenPlay,2020,RightFoot,14112,Manchester City,Leicester,2,5,2020-09-27 15:30:00,,None
+379606,16,SavedShot,0.9169999694824219,0.3079999923706055,0.07587076723575592,Raheem Sterling,h,618,OpenPlay,2020,RightFoot,14112,Manchester City,Leicester,2,5,2020-09-27 15:30:00,Riyad Mahrez,Pass
+379607,25,SavedShot,0.93,0.534000015258789,0.3673180639743805,Fernandinho,h,614,SetPiece,2020,Head,14112,Manchester City,Leicester,2,5,2020-09-27 15:30:00,Kevin De Bruyne,Chipped
+379609,45,MissedShots,0.8290000152587891,0.6609999847412109,0.04278971254825592,Kevin De Bruyne,h,447,OpenPlay,2020,LeftFoot,14112,Manchester City,Leicester,2,5,2020-09-27 15:30:00,Riyad Mahrez,BallRecovery
+379610,51,MissedShots,0.764000015258789,0.4829999923706055,0.0280032679438591,Riyad Mahrez,h,750,OpenPlay,2020,LeftFoot,14112,Manchester City,Leicester,2,5,2020-09-27 15:30:00,,BallRecovery
+379614,62,SavedShot,0.710999984741211,0.2670000076293945,0.008322987705469131,Kyle Walker,h,638,OpenPlay,2020,RightFoot,14112,Manchester City,Leicester,2,5,2020-09-27 15:30:00,Eric Garcia,Pass
+379615,63,ShotOnPost,0.8859999847412109,0.485,0.06408517062664032,Liam Delap,h,8868,OpenPlay,2020,Head,14112,Manchester City,Leicester,2,5,2020-09-27 15:30:00,Benjamin Mendy,Cross
+379616,67,MissedShots,0.9669999694824218,0.590999984741211,0.10772879421710968,Raheem Sterling,h,618,OpenPlay,2020,Head,14112,Manchester City,Leicester,2,5,2020-09-27 15:30:00,Kevin De Bruyne,Cross
+379619,80,BlockedShot,0.6830000305175781,0.40900001525878904,0.007921576499938965,Kyle Walker,h,638,OpenPlay,2020,RightFoot,14112,Manchester City,Leicester,2,5,2020-09-27 15:30:00,Kevin De Bruyne,Pass
+379620,80,MissedShots,0.8090000152587891,0.3189999961853027,0.02435465343296528,Kevin De Bruyne,h,447,OpenPlay,2020,RightFoot,14112,Manchester City,Leicester,2,5,2020-09-27 15:30:00,Ferrán Torres,Pass
+379621,83,BlockedShot,0.8190000152587891,0.5690000152587891,0.1546701043844223,Raheem Sterling,h,618,DirectFreekick,2020,RightFoot,14112,Manchester City,Leicester,2,5,2020-09-27 15:30:00,,Standard
+379622,83,Goal,0.9369999694824219,0.52,0.40184661746025085,Nathan Aké,h,579,FromCorner,2020,Head,14112,Manchester City,Leicester,2,5,2020-09-27 15:30:00,Riyad Mahrez,Cross
+379623,85,BlockedShot,0.8180000305175781,0.49900001525878906,0.04111245274543762,Riyad Mahrez,h,750,OpenPlay,2020,LeftFoot,14112,Manchester City,Leicester,2,5,2020-09-27 15:30:00,,None
+379625,90,MissedShots,0.749000015258789,0.3970000076293945,0.015601216815412045,Ferrán Torres,h,6441,OpenPlay,2020,RightFoot,14112,Manchester City,Leicester,2,5,2020-09-27 15:30:00,,BallRecovery
+379608,36,Goal,0.885,0.5,0.7611688375473022,Jamie Vardy,a,755,Penalty,2020,RightFoot,14112,Manchester City,Leicester,2,5,2020-09-27 15:30:00,,Standard
+379611,53,Goal,0.9630000305175781,0.42900001525878906,0.44324490427970886,Jamie Vardy,a,755,OpenPlay,2020,RightFoot,14112,Manchester City,Leicester,2,5,2020-09-27 15:30:00,Timothy Castagne,Cross
+379612,55,SavedShot,0.7569999694824219,0.4929999923706055,0.035278864204883575,Harvey Barnes,a,6681,OpenPlay,2020,RightFoot,14112,Manchester City,Leicester,2,5,2020-09-27 15:30:00,Dennis Praet,LayOff
+379613,57,Goal,0.885,0.5,0.7611688375473022,Jamie Vardy,a,755,Penalty,2020,RightFoot,14112,Manchester City,Leicester,2,5,2020-09-27 15:30:00,,Standard
+379617,72,SavedShot,0.8119999694824219,0.46900001525878904,0.07818348705768585,Harvey Barnes,a,6681,OpenPlay,2020,RightFoot,14112,Manchester City,Leicester,2,5,2020-09-27 15:30:00,Nampalys Mendy,Pass
+379618,76,Goal,0.76,0.7269999694824218,0.026997007429599762,James Maddison,a,6818,OpenPlay,2020,RightFoot,14112,Manchester City,Leicester,2,5,2020-09-27 15:30:00,Nampalys Mendy,Pass
+379624,87,Goal,0.885,0.5,0.7611688375473022,Youri Tielemans,a,5956,Penalty,2020,RightFoot,14112,Manchester City,Leicester,2,5,2020-09-27 15:30:00,,Standard

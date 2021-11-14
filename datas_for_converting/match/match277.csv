@@ -1,0 +1,23 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+56058,2,MissedShots,0.8109999847412109,0.45299999237060545,0.05394703522324562,Duncan Watmore,h,919,OpenPlay,2015,RightFoot,277,Sunderland,Aston Villa,3,1,2016-01-02 19:00:00,Fabio Borini,Pass
+56062,12,SavedShot,0.7930000305175782,0.46,0.043435294181108475,Duncan Watmore,h,919,OpenPlay,2015,LeftFoot,277,Sunderland,Aston Villa,3,1,2016-01-02 19:00:00,Fabio Borini,BallTouch
+56063,16,MissedShots,0.899000015258789,0.49,0.021099114790558815,Fabio Borini,h,737,FromCorner,2015,Head,277,Sunderland,Aston Villa,3,1,2016-01-02 19:00:00,Adam Johnson,Aerial
+56064,29,MissedShots,0.7369999694824219,0.715,0.012056480161845684,Patrick van Aanholt,h,730,OpenPlay,2015,LeftFoot,277,Sunderland,Aston Villa,3,1,2016-01-02 19:00:00,Yann M&#039;Vila,Clearance
+56067,45,MissedShots,0.7769999694824219,0.3320000076293945,0.06232556700706482,Patrick van Aanholt,h,730,DirectFreekick,2015,LeftFoot,277,Sunderland,Aston Villa,3,1,2016-01-02 19:00:00,,Standard
+56069,53,BlockedShot,0.8869999694824219,0.615,0.10624254494905472,Jermain Defoe,h,735,OpenPlay,2015,LeftFoot,277,Sunderland,Aston Villa,3,1,2016-01-02 19:00:00,Patrick van Aanholt,Pass
+56070,56,SavedShot,0.8569999694824219,0.544000015258789,0.09186256676912308,Jermain Defoe,h,735,OpenPlay,2015,RightFoot,277,Sunderland,Aston Villa,3,1,2016-01-02 19:00:00,Yann M&#039;Vila,Chipped
+56072,61,MissedShots,0.7909999847412109,0.649000015258789,0.03362833708524704,Patrick van Aanholt,h,730,OpenPlay,2015,LeftFoot,277,Sunderland,Aston Villa,3,1,2016-01-02 19:00:00,Lee Cattermole,Pass
+56074,66,BlockedShot,0.8880000305175781,0.38799999237060545,0.011749083176255226,John O&#039;Shea,h,729,FromCorner,2015,Head,277,Sunderland,Aston Villa,3,1,2016-01-02 19:00:00,Adam Johnson,Aerial
+56075,71,Goal,0.9169999694824219,0.700999984741211,0.04538166895508766,Jermain Defoe,h,735,OpenPlay,2015,LeftFoot,277,Sunderland,Aston Villa,3,1,2016-01-02 19:00:00,Adam Johnson,Chipped
+56076,84,BlockedShot,0.815,0.29399999618530276,0.026606013998389244,Yann M&#039;Vila,h,732,FromCorner,2015,RightFoot,277,Sunderland,Aston Villa,3,1,2016-01-02 19:00:00,Adam Johnson,Cross
+56077,84,SavedShot,0.8869999694824219,0.529000015258789,0.11182299256324768,Danny Graham,h,932,OpenPlay,2015,RightFoot,277,Sunderland,Aston Villa,3,1,2016-01-02 19:00:00,Billy Jones,HeadPass
+56079,91,Goal,0.9,0.485,0.14106851816177368,Jermain Defoe,h,735,OpenPlay,2015,RightFoot,277,Sunderland,Aston Villa,3,1,2016-01-02 19:00:00,Ola Toivonen,Pass
+56059,4,MissedShots,0.740999984741211,0.47,0.01784246414899826,Leandro Bacuna,a,674,OpenPlay,2015,LeftFoot,277,Sunderland,Aston Villa,3,1,2016-01-02 19:00:00,Carles Gil,TakeOn
+56060,5,MissedShots,0.784000015258789,0.5520000076293945,0.03713589534163475,Leandro Bacuna,a,674,OpenPlay,2015,LeftFoot,277,Sunderland,Aston Villa,3,1,2016-01-02 19:00:00,,BallRecovery
+56061,7,SavedShot,0.9080000305175782,0.6930000305175781,0.027210112661123276,Jordan Veretout,a,677,OpenPlay,2015,LeftFoot,277,Sunderland,Aston Villa,3,1,2016-01-02 19:00:00,Leandro Bacuna,Cross
+56065,29,OwnGoal,0.11399999618530274,0.41900001525878905,0,Micah Richards,a,665,OpenPlay,2015,RightFoot,277,Sunderland,Aston Villa,3,1,2016-01-02 19:00:00,,Aerial
+56066,33,SavedShot,0.8630000305175781,0.5029999923706054,0.028833135962486267,Rudy Gestede,a,671,OpenPlay,2015,Head,277,Sunderland,Aston Villa,3,1,2016-01-02 19:00:00,Aly Cissokho,Cross
+56068,50,MissedShots,0.8690000152587891,0.5479999923706055,0.030658235773444176,Rudy Gestede,a,671,OpenPlay,2015,Head,277,Sunderland,Aston Villa,3,1,2016-01-02 19:00:00,Jordan Veretout,Cross
+56071,59,MissedShots,0.7019999694824218,0.6680000305175782,0.013924337923526764,Carles Gil,a,670,OpenPlay,2015,LeftFoot,277,Sunderland,Aston Villa,3,1,2016-01-02 19:00:00,Rudy Gestede,Pass
+56073,62,Goal,0.91,0.5829999923706055,0.08419380336999893,Carles Gil,a,670,OpenPlay,2015,LeftFoot,277,Sunderland,Aston Villa,3,1,2016-01-02 19:00:00,Adama Traoré,Cross
+56078,89,MissedShots,0.8580000305175781,0.2929999923706055,0.039761804044246674,Rudy Gestede,a,671,OpenPlay,2015,RightFoot,277,Sunderland,Aston Villa,3,1,2016-01-02 19:00:00,Libor Kozák,Pass

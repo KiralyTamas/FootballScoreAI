@@ -1,0 +1,28 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+126761,8,MissedShots,0.7869999694824219,0.610999984741211,0.03482668101787567,Gheorghe Grozav,h,2860,OpenPlay,2016,LeftFoot,2722,FK Akhmat,Zenit St. Petersburg,2,1,2016-11-06 18:00:00,Bekim Balaj,HeadPass
+126764,21,MissedShots,0.8959999847412109,0.585,0.03853744640946388,Bekim Balaj,h,5462,OpenPlay,2016,Head,2722,FK Akhmat,Zenit St. Petersburg,2,1,2016-11-06 18:00:00,Milad Mohammadi,Cross
+126765,33,Goal,0.9569999694824218,0.4779999923706055,0.6335021257400513,Bekim Balaj,h,5462,OpenPlay,2016,RightFoot,2722,FK Akhmat,Zenit St. Petersburg,2,1,2016-11-06 18:00:00,Milad Mohammadi,Pass
+126766,34,SavedShot,0.745999984741211,0.355,0.016510862857103348,Daler Kuzyaev,h,2854,OpenPlay,2016,LeftFoot,2722,FK Akhmat,Zenit St. Petersburg,2,1,2016-11-06 18:00:00,,Goal
+126767,37,Goal,0.8690000152587891,0.674000015258789,0.05841098353266716,Bekim Balaj,h,5462,OpenPlay,2016,LeftFoot,2722,FK Akhmat,Zenit St. Petersburg,2,1,2016-11-06 18:00:00,Daler Kuzyaev,Pass
+126769,41,BlockedShot,0.7140000152587891,0.285,0.011243403889238834,Odise Roshi,h,5461,OpenPlay,2016,RightFoot,2722,FK Akhmat,Zenit St. Petersburg,2,1,2016-11-06 18:00:00,,None
+126771,53,SavedShot,0.8430000305175781,0.64,0.03265242278575897,Magomed Mitrishev,h,2867,SetPiece,2016,RightFoot,2722,FK Akhmat,Zenit St. Petersburg,2,1,2016-11-06 18:00:00,Rizvan Utsiev,TakeOn
+126772,54,MissedShots,0.9230000305175782,0.5029999923706054,0.13760294020175934,Gheorghe Grozav,h,2860,OpenPlay,2016,Head,2722,FK Akhmat,Zenit St. Petersburg,2,1,2016-11-06 18:00:00,Odise Roshi,Cross
+126775,63,BlockedShot,0.9330000305175781,0.44299999237060544,0.536891520023346,Andrey Semenov,h,2852,SetPiece,2016,RightFoot,2722,FK Akhmat,Zenit St. Petersburg,2,1,2016-11-06 18:00:00,Facundo Píriz,None
+126776,71,MissedShots,0.7369999694824219,0.750999984741211,0.03186827898025513,Gheorghe Grozav,h,2860,DirectFreekick,2016,RightFoot,2722,FK Akhmat,Zenit St. Petersburg,2,1,2016-11-06 18:00:00,,Standard
+126783,83,BlockedShot,0.9069999694824219,0.64,0.12930750846862793,Reziuan Mirzov,h,2869,OpenPlay,2016,RightFoot,2722,FK Akhmat,Zenit St. Petersburg,2,1,2016-11-06 18:00:00,Daler Kuzyaev,Pass
+126784,85,MissedShots,0.725,0.28299999237060547,0.03232720121741295,Odise Roshi,h,5461,DirectFreekick,2016,RightFoot,2722,FK Akhmat,Zenit St. Petersburg,2,1,2016-11-06 18:00:00,,Standard
+126762,9,SavedShot,0.8230000305175781,0.6120000076293945,0.039867423474788666,Axel Witsel,a,3059,OpenPlay,2016,RightFoot,2722,FK Akhmat,Zenit St. Petersburg,2,1,2016-11-06 18:00:00,,TakeOn
+126763,9,Goal,0.8969999694824219,0.6759999847412109,0.2824248969554901,Robert Mak,a,5468,OpenPlay,2016,RightFoot,2722,FK Akhmat,Zenit St. Petersburg,2,1,2016-11-06 18:00:00,,Rebound
+126768,40,SavedShot,0.875,0.5029999923706054,0.03926117718219757,Giuliano,a,5467,OpenPlay,2016,Head,2722,FK Akhmat,Zenit St. Petersburg,2,1,2016-11-06 18:00:00,Alexander Anyukov,Cross
+126770,52,SavedShot,0.965999984741211,0.565,0.5500226616859436,Axel Witsel,a,3059,FromCorner,2016,LeftFoot,2722,FK Akhmat,Zenit St. Petersburg,2,1,2016-11-06 18:00:00,,None
+126773,59,BlockedShot,0.7709999847412109,0.524000015258789,0.024726606905460358,Javi García,a,3061,OpenPlay,2016,RightFoot,2722,FK Akhmat,Zenit St. Petersburg,2,1,2016-11-06 18:00:00,Axel Witsel,BallTouch
+126774,60,MissedShots,0.9419999694824219,0.4620000076293945,0.11900004744529724,Artem Dzyuba,a,3063,FromCorner,2016,Head,2722,FK Akhmat,Zenit St. Petersburg,2,1,2016-11-06 18:00:00,Robert Mak,Cross
+126777,72,BlockedShot,0.8119999694824219,0.42900001525878906,0.04420871660113335,Giuliano,a,5467,OpenPlay,2016,LeftFoot,2722,FK Akhmat,Zenit St. Petersburg,2,1,2016-11-06 18:00:00,Alexander Anyukov,HeadPass
+126778,72,ShotOnPost,0.779000015258789,0.5320000076293945,0.03254808858036995,Axel Witsel,a,3059,OpenPlay,2016,RightFoot,2722,FK Akhmat,Zenit St. Petersburg,2,1,2016-11-06 18:00:00,,Rebound
+126779,76,MissedShots,0.85,0.45799999237060546,0.06217140704393387,Alexander Kerzhakov,a,4609,OpenPlay,2016,RightFoot,2722,FK Akhmat,Zenit St. Petersburg,2,1,2016-11-06 18:00:00,Aleksandr Kokorin,Cross
+126780,79,BlockedShot,0.7440000152587891,0.6990000152587891,0.014526761136949062,Evgeniy Chernov,a,5469,OpenPlay,2016,LeftFoot,2722,FK Akhmat,Zenit St. Petersburg,2,1,2016-11-06 18:00:00,Axel Witsel,Pass
+126781,80,BlockedShot,0.8430000305175781,0.61,0.05627744644880295,Robert Mak,a,5468,OpenPlay,2016,RightFoot,2722,FK Akhmat,Zenit St. Petersburg,2,1,2016-11-06 18:00:00,Domenico Criscito,Pass
+126782,83,BlockedShot,0.7919999694824219,0.7569999694824219,0.01386099774390459,Robert Mak,a,5468,FromCorner,2016,RightFoot,2722,FK Akhmat,Zenit St. Petersburg,2,1,2016-11-06 18:00:00,,None
+126785,85,MissedShots,0.885,0.5570000076293945,0.04551819711923599,Alexander Kerzhakov,a,4609,OpenPlay,2016,Head,2722,FK Akhmat,Zenit St. Petersburg,2,1,2016-11-06 18:00:00,Evgeniy Chernov,Cross
+126786,88,MissedShots,0.715999984741211,0.6370000076293946,0.036231666803359985,Mauricio,a,3060,DirectFreekick,2016,RightFoot,2722,FK Akhmat,Zenit St. Petersburg,2,1,2016-11-06 18:00:00,,Standard
+126787,90,SavedShot,0.7680000305175781,0.48200000762939454,0.02397478185594082,Axel Witsel,a,3059,OpenPlay,2016,RightFoot,2722,FK Akhmat,Zenit St. Petersburg,2,1,2016-11-06 18:00:00,Aleksandr Kokorin,Pass

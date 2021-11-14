@@ -1,0 +1,32 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+385297,5,Goal,0.84,0.41200000762939454,0.06810808926820755,Matheus Cunha,h,7080,OpenPlay,2020,LeftFoot,15192,Hertha Berlin,Wolfsburg,1,1,2020-11-01 17:00:00,Dodi Lukebakio,Pass
+385298,9,MissedShots,0.885,0.5590000152587891,0.06813902407884598,Jhon Córdoba,h,48,OpenPlay,2020,Head,15192,Hertha Berlin,Wolfsburg,1,1,2020-11-01 17:00:00,Maximilian Mittelstädt,Cross
+385302,28,BlockedShot,0.8069999694824219,0.3270000076293945,0.021427109837532043,Lucas Tousart,h,3743,FromCorner,2020,RightFoot,15192,Hertha Berlin,Wolfsburg,1,1,2020-11-01 17:00:00,,None
+385303,28,SavedShot,0.9009999847412109,0.41400001525878904,0.037466004490852356,Omar Alderete,h,8986,FromCorner,2020,Head,15192,Hertha Berlin,Wolfsburg,1,1,2020-11-01 17:00:00,Matheus Cunha,Chipped
+385304,31,MissedShots,0.970999984741211,0.6969999694824218,0.05108575150370598,Dodi Lukebakio,h,5706,OpenPlay,2020,LeftFoot,15192,Hertha Berlin,Wolfsburg,1,1,2020-11-01 17:00:00,,None
+385305,32,SavedShot,0.7709999847412109,0.255,0.018383344635367393,Peter Pekarík,h,443,OpenPlay,2020,RightFoot,15192,Hertha Berlin,Wolfsburg,1,1,2020-11-01 17:00:00,Dedryck Boyata,Pass
+385306,34,MissedShots,0.8290000152587891,0.37900001525878907,0.034612346440553665,Lucas Tousart,h,3743,FromCorner,2020,RightFoot,15192,Hertha Berlin,Wolfsburg,1,1,2020-11-01 17:00:00,Matheus Cunha,Cross
+385307,34,BlockedShot,0.8769999694824219,0.5220000076293946,0.09553558379411697,Dedryck Boyata,h,4468,FromCorner,2020,RightFoot,15192,Hertha Berlin,Wolfsburg,1,1,2020-11-01 17:00:00,Lucas Tousart,Rebound
+385308,39,MissedShots,0.7869999694824219,0.4129999923706055,0.030794864520430565,Peter Pekarík,h,443,OpenPlay,2020,RightFoot,15192,Hertha Berlin,Wolfsburg,1,1,2020-11-01 17:00:00,Jhon Córdoba,Pass
+385311,44,BlockedShot,0.8830000305175781,0.42400001525878905,0.012414890341460705,Dedryck Boyata,h,4468,SetPiece,2020,Head,15192,Hertha Berlin,Wolfsburg,1,1,2020-11-01 17:00:00,Maximilian Mittelstädt,Aerial
+385312,49,SavedShot,0.7369999694824219,0.5209999847412109,0.059531066566705704,Matheus Cunha,h,7080,DirectFreekick,2020,RightFoot,15192,Hertha Berlin,Wolfsburg,1,1,2020-11-01 17:00:00,,Standard
+385313,50,MissedShots,0.9169999694824219,0.24899999618530275,0.03490160033106804,Matheus Cunha,h,7080,OpenPlay,2020,RightFoot,15192,Hertha Berlin,Wolfsburg,1,1,2020-11-01 17:00:00,,None
+385315,52,SavedShot,0.8880000305175781,0.3509999847412109,0.11195071786642075,Dodi Lukebakio,h,5706,OpenPlay,2020,LeftFoot,15192,Hertha Berlin,Wolfsburg,1,1,2020-11-01 17:00:00,Jhon Córdoba,Chipped
+385316,63,BlockedShot,0.884000015258789,0.40599998474121096,0.02146240510046482,Dedryck Boyata,h,4468,FromCorner,2020,Head,15192,Hertha Berlin,Wolfsburg,1,1,2020-11-01 17:00:00,Matheus Cunha,Cross
+385317,63,BlockedShot,0.8809999847412109,0.4159999847412109,0.08227109163999557,Dedryck Boyata,h,4468,FromCorner,2020,LeftFoot,15192,Hertha Berlin,Wolfsburg,1,1,2020-11-01 17:00:00,,Rebound
+385318,65,BlockedShot,0.9080000305175782,0.36,0.0713229775428772,Niklas Stark,h,418,OpenPlay,2020,RightFoot,15192,Hertha Berlin,Wolfsburg,1,1,2020-11-01 17:00:00,,None
+385320,71,BlockedShot,0.889000015258789,0.37900001525878907,0.0988478735089302,Jhon Córdoba,h,48,OpenPlay,2020,RightFoot,15192,Hertha Berlin,Wolfsburg,1,1,2020-11-01 17:00:00,Matheus Cunha,Pass
+385321,72,MissedShots,0.7069999694824218,0.5,0.013448954559862614,Maximilian Mittelstädt,h,419,FromCorner,2020,LeftFoot,15192,Hertha Berlin,Wolfsburg,1,1,2020-11-01 17:00:00,,None
+385323,80,MissedShots,0.8919999694824219,0.5429999923706055,0.061133287847042084,Jhon Córdoba,h,48,OpenPlay,2020,Head,15192,Hertha Berlin,Wolfsburg,1,1,2020-11-01 17:00:00,Marvin Plattenhardt,Cross
+385324,83,MissedShots,0.9290000152587891,0.5609999847412109,0.2646966576576233,Dedryck Boyata,h,4468,FromCorner,2020,Head,15192,Hertha Berlin,Wolfsburg,1,1,2020-11-01 17:00:00,Matheus Cunha,Cross
+385296,4,BlockedShot,0.875999984741211,0.6270000076293946,0.048486802726984024,Wout Weghorst,a,7052,OpenPlay,2020,LeftFoot,15192,Hertha Berlin,Wolfsburg,1,1,2020-11-01 17:00:00,Josip Brekalo,Cross
+385299,16,SavedShot,0.795,0.43,0.04096635803580284,Josip Brekalo,a,5353,OpenPlay,2020,RightFoot,15192,Hertha Berlin,Wolfsburg,1,1,2020-11-01 17:00:00,Jérôme Roussillon,Pass
+385300,17,SavedShot,0.8,0.3890000152587891,0.032677289098501205,Yannick Gerhardt,a,140,OpenPlay,2020,LeftFoot,15192,Hertha Berlin,Wolfsburg,1,1,2020-11-01 17:00:00,Bote Baku,Pass
+385301,19,Goal,0.8180000305175781,0.4640000152587891,0.05425265058875084,Bote Baku,a,6708,OpenPlay,2020,LeftFoot,15192,Hertha Berlin,Wolfsburg,1,1,2020-11-01 17:00:00,Maximilian Philipp,TakeOn
+385309,40,MissedShots,0.7559999847412109,0.43900001525878907,0.02002769708633423,Xaver Schlager,a,7783,OpenPlay,2020,RightFoot,15192,Hertha Berlin,Wolfsburg,1,1,2020-11-01 17:00:00,,None
+385310,42,SavedShot,0.835999984741211,0.28100000381469725,0.028369620442390442,Jérôme Roussillon,a,3339,OpenPlay,2020,LeftFoot,15192,Hertha Berlin,Wolfsburg,1,1,2020-11-01 17:00:00,Wout Weghorst,Pass
+385314,51,BlockedShot,0.8,0.46099998474121096,0.047985758632421494,Yannick Gerhardt,a,140,OpenPlay,2020,LeftFoot,15192,Hertha Berlin,Wolfsburg,1,1,2020-11-01 17:00:00,Josip Brekalo,Pass
+385319,66,MissedShots,0.73,0.524000015258789,0.01526322029531002,Xaver Schlager,a,7783,FromCorner,2020,RightFoot,15192,Hertha Berlin,Wolfsburg,1,1,2020-11-01 17:00:00,,None
+385322,76,MissedShots,0.93,0.5540000152587891,0.06804631650447845,Wout Weghorst,a,7052,SetPiece,2020,Head,15192,Hertha Berlin,Wolfsburg,1,1,2020-11-01 17:00:00,Yannick Gerhardt,HeadPass
+385325,87,BlockedShot,0.785,0.555,0.0299052856862545,Xaver Schlager,a,7783,OpenPlay,2020,LeftFoot,15192,Hertha Berlin,Wolfsburg,1,1,2020-11-01 17:00:00,Wout Weghorst,Pass
+385326,90,MissedShots,0.7219999694824218,0.23399999618530273,0.011941518634557724,Felix Klaus,a,350,OpenPlay,2020,RightFoot,15192,Hertha Berlin,Wolfsburg,1,1,2020-11-01 17:00:00,Wout Weghorst,Pass

@@ -1,0 +1,26 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+77746,11,OwnGoal,0.07,0.40400001525878904,0,Bernd Leno,h,181,OpenPlay,2015,RightFoot,1091,Bayer Leverkusen,Augsburg,1,1,2015-10-04 19:30:00,,None
+77747,17,MissedShots,0.8290000152587891,0.45599998474121095,0.06128186732530594,Kevin Kampl,h,188,OpenPlay,2015,RightFoot,1091,Bayer Leverkusen,Augsburg,1,1,2015-10-04 19:30:00,Lars Bender,Pass
+77748,19,BlockedShot,0.870999984741211,0.27899999618530275,0.038425374776124954,Chicharito,h,191,OpenPlay,2015,LeftFoot,1091,Bayer Leverkusen,Augsburg,1,1,2015-10-04 19:30:00,Lars Bender,Pass
+77749,30,BlockedShot,0.755,0.705,0.04750306159257889,Hakan Calhanoglu,h,189,DirectFreekick,2015,RightFoot,1091,Bayer Leverkusen,Augsburg,1,1,2015-10-04 19:30:00,,Standard
+77750,38,ShotOnPost,0.785,0.45799999237060546,0.037335120141506195,Chicharito,h,191,OpenPlay,2015,RightFoot,1091,Bayer Leverkusen,Augsburg,1,1,2015-10-04 19:30:00,Wendell,Pass
+77751,38,Goal,0.9169999694824219,0.445,0.45698678493499756,Karim Bellarabi,h,186,OpenPlay,2015,RightFoot,1091,Bayer Leverkusen,Augsburg,1,1,2015-10-04 19:30:00,,Rebound
+77752,40,SavedShot,0.865,0.5,0.037668682634830475,Chicharito,h,191,SetPiece,2015,Head,1091,Bayer Leverkusen,Augsburg,1,1,2015-10-04 19:30:00,Hakan Calhanoglu,Cross
+77753,43,SavedShot,0.7769999694824219,0.5459999847412109,0.0316484272480011,Christoph Kramer,h,187,OpenPlay,2015,RightFoot,1091,Bayer Leverkusen,Augsburg,1,1,2015-10-04 19:30:00,Kevin Kampl,Pass
+77754,44,BlockedShot,0.799000015258789,0.6309999847412109,0.023651916533708572,Wendell,h,185,FromCorner,2015,LeftFoot,1091,Bayer Leverkusen,Augsburg,1,1,2015-10-04 19:30:00,Kyriakos Papadopoulos,None
+77755,46,MissedShots,0.755,0.624000015258789,0.019403021782636642,Hakan Calhanoglu,h,189,OpenPlay,2015,RightFoot,1091,Bayer Leverkusen,Augsburg,1,1,2015-10-04 19:30:00,Karim Bellarabi,Pass
+77756,48,MissedShots,0.879000015258789,0.610999984741211,0.09597628563642502,Hakan Calhanoglu,h,189,OpenPlay,2015,RightFoot,1091,Bayer Leverkusen,Augsburg,1,1,2015-10-04 19:30:00,Karim Bellarabi,Pass
+77757,49,SavedShot,0.8519999694824218,0.3060000038146973,0.03625695779919624,Lars Bender,h,421,OpenPlay,2015,LeftFoot,1091,Bayer Leverkusen,Augsburg,1,1,2015-10-04 19:30:00,Hakan Calhanoglu,Pass
+77758,53,SavedShot,0.875999984741211,0.59,0.011126570403575897,Lars Bender,h,421,SetPiece,2015,Head,1091,Bayer Leverkusen,Augsburg,1,1,2015-10-04 19:30:00,Hakan Calhanoglu,Aerial
+77759,53,MissedShots,0.7440000152587891,0.49700000762939456,0.021050579845905304,Karim Bellarabi,h,186,OpenPlay,2015,RightFoot,1091,Bayer Leverkusen,Augsburg,1,1,2015-10-04 19:30:00,,BallTouch
+77760,56,SavedShot,0.7980000305175782,0.4640000152587891,0.03084634803235531,Kevin Kampl,h,188,FromCorner,2015,RightFoot,1091,Bayer Leverkusen,Augsburg,1,1,2015-10-04 19:30:00,,None
+77761,70,MissedShots,0.885,0.5,0.75777667760849,Hakan Calhanoglu,h,189,Penalty,2015,RightFoot,1091,Bayer Leverkusen,Augsburg,1,1,2015-10-04 19:30:00,,Standard
+77762,72,SavedShot,0.7090000152587891,0.3820000076293945,0.03963034227490425,Hakan Calhanoglu,h,189,DirectFreekick,2015,RightFoot,1091,Bayer Leverkusen,Augsburg,1,1,2015-10-04 19:30:00,,Standard
+77763,73,BlockedShot,0.7859999847412109,0.2620000076293945,0.022162027657032013,Kevin Kampl,h,188,OpenPlay,2015,LeftFoot,1091,Bayer Leverkusen,Augsburg,1,1,2015-10-04 19:30:00,Karim Bellarabi,Pass
+77764,87,MissedShots,0.870999984741211,0.629000015258789,0.07743867486715317,Julian Brandt,h,261,OpenPlay,2015,LeftFoot,1091,Bayer Leverkusen,Augsburg,1,1,2015-10-04 19:30:00,Admir Mehmedi,Pass
+77765,90,BlockedShot,0.7880000305175782,0.2879999923706055,0.017187226563692093,Admir Mehmedi,h,194,OpenPlay,2015,LeftFoot,1091,Bayer Leverkusen,Augsburg,1,1,2015-10-04 19:30:00,Julian Brandt,BallRecovery
+77766,91,MissedShots,0.870999984741211,0.6229999923706054,0.06326843798160553,Kyriakos Papadopoulos,h,197,OpenPlay,2015,RightFoot,1091,Bayer Leverkusen,Augsburg,1,1,2015-10-04 19:30:00,,Rebound
+77767,94,SavedShot,0.91,0.3970000076293945,0.031807791441679,Lars Bender,h,421,FromCorner,2015,Head,1091,Bayer Leverkusen,Augsburg,1,1,2015-10-04 19:30:00,Admir Mehmedi,Cross
+77768,94,MissedShots,0.914000015258789,0.5309999847412109,0.04280848056077957,Kyriakos Papadopoulos,h,197,FromCorner,2015,Head,1091,Bayer Leverkusen,Augsburg,1,1,2015-10-04 19:30:00,,Rebound
+77744,1,MissedShots,0.8480000305175781,0.46,0.10546094924211502,Halil Altintop,a,280,OpenPlay,2015,RightFoot,1091,Bayer Leverkusen,Augsburg,1,1,2015-10-04 19:30:00,Ja-Cheol Koo,LayOff
+77745,3,MissedShots,0.725,0.655,0.013655704446136951,Daniel Baier,a,268,OpenPlay,2015,LeftFoot,1091,Bayer Leverkusen,Augsburg,1,1,2015-10-04 19:30:00,,Save

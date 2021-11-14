@@ -1,0 +1,25 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+14486,2,BlockedShot,0.720999984741211,0.575,0.018312184140086174,Jordan Henderson,h,605,OpenPlay,2014,RightFoot,4756,Liverpool,Southampton,2,1,2014-08-17 13:30:00,Steven Gerrard,Pass
+14487,6,MissedShots,0.7240000152587891,0.7169999694824218,0.010107333771884441,Daniel Sturridge,h,483,OpenPlay,2014,LeftFoot,4756,Liverpool,Southampton,2,1,2014-08-17 13:30:00,,None
+14488,8,SavedShot,0.965999984741211,0.5109999847412109,0.1425500065088272,Lucas Leiva,h,475,FromCorner,2014,LeftFoot,4756,Liverpool,Southampton,2,1,2014-08-17 13:30:00,Martin Skrtel,HeadPass
+14489,14,MissedShots,0.7290000152587891,0.6430000305175781,0.015638690441846848,Glen Johnson,h,944,OpenPlay,2014,LeftFoot,4756,Liverpool,Southampton,2,1,2014-08-17 13:30:00,Lucas Leiva,Pass
+14490,20,SavedShot,0.8530000305175781,0.695,0.040703341364860535,Raheem Sterling,h,618,OpenPlay,2014,LeftFoot,4756,Liverpool,Southampton,2,1,2014-08-17 13:30:00,Philippe Coutinho,Pass
+14491,22,Goal,0.855999984741211,0.49599998474121093,0.3114088177680969,Raheem Sterling,h,618,OpenPlay,2014,RightFoot,4756,Liverpool,Southampton,2,1,2014-08-17 13:30:00,Jordan Henderson,Throughball
+14493,27,MissedShots,0.7119999694824218,0.645,0.01261234749108553,Glen Johnson,h,944,FromCorner,2014,RightFoot,4756,Liverpool,Southampton,2,1,2014-08-17 13:30:00,,None
+14496,47,SavedShot,0.8159999847412109,0.3770000076293945,0.057601213455200195,Raheem Sterling,h,618,OpenPlay,2014,RightFoot,4756,Liverpool,Southampton,2,1,2014-08-17 13:30:00,Jordan Henderson,Pass
+14497,53,MissedShots,0.745,0.44299999237060544,0.025481052696704865,Raheem Sterling,h,618,OpenPlay,2014,RightFoot,4756,Liverpool,Southampton,2,1,2014-08-17 13:30:00,Philippe Coutinho,Pass
+14504,75,MissedShots,0.749000015258789,0.47200000762939454,0.02152997814118862,Jordan Henderson,h,605,OpenPlay,2014,RightFoot,4756,Liverpool,Southampton,2,1,2014-08-17 13:30:00,Joe Allen,Pass
+14505,76,BlockedShot,0.7880000305175782,0.47400001525878904,0.038692306727170944,Daniel Sturridge,h,483,OpenPlay,2014,LeftFoot,4756,Liverpool,Southampton,2,1,2014-08-17 13:30:00,Raheem Sterling,Pass
+14506,78,Goal,0.9569999694824218,0.485,0.6372838616371155,Daniel Sturridge,h,483,OpenPlay,2014,LeftFoot,4756,Liverpool,Southampton,2,1,2014-08-17 13:30:00,Raheem Sterling,HeadPass
+14492,26,MissedShots,0.9619999694824218,0.5920000076293945,0.09594620764255524,Graziano Pellè,a,841,OpenPlay,2014,RightFoot,4756,Liverpool,Southampton,2,1,2014-08-17 13:30:00,Morgan Schneiderlin,Cross
+14494,39,SavedShot,0.7390000152587891,0.6079999923706054,0.019021345302462578,James Ward-Prowse,a,843,OpenPlay,2014,RightFoot,4756,Liverpool,Southampton,2,1,2014-08-17 13:30:00,José Fonte,Pass
+14495,45,SavedShot,0.7609999847412109,0.674000015258789,0.015797056257724762,Morgan Schneiderlin,a,551,OpenPlay,2014,RightFoot,4756,Liverpool,Southampton,2,1,2014-08-17 13:30:00,,Dispossessed
+14498,54,MissedShots,0.769000015258789,0.4329999923706055,0.027281058952212334,Victor Wanyama,a,836,OpenPlay,2014,RightFoot,4756,Liverpool,Southampton,2,1,2014-08-17 13:30:00,Steven Davis,Pass
+14499,55,Goal,0.9009999847412109,0.38,0.33073893189430237,Nathaniel Clyne,a,603,OpenPlay,2014,RightFoot,4756,Liverpool,Southampton,2,1,2014-08-17 13:30:00,Dusan Tadic,Pass
+14500,58,MissedShots,0.94,0.33,0.04967418313026428,Steven Davis,a,883,FromCorner,2014,RightFoot,4756,Liverpool,Southampton,2,1,2014-08-17 13:30:00,,None
+14501,62,SavedShot,0.86,0.4370000076293945,0.33726951479911804,Steven Davis,a,883,OpenPlay,2014,RightFoot,4756,Liverpool,Southampton,2,1,2014-08-17 13:30:00,James Ward-Prowse,Pass
+14502,66,BlockedShot,0.730999984741211,0.629000015258789,0.015140397474169731,James Ward-Prowse,a,843,OpenPlay,2014,RightFoot,4756,Liverpool,Southampton,2,1,2014-08-17 13:30:00,José Fonte,BallRecovery
+14503,67,BlockedShot,0.8959999847412109,0.46799999237060547,0.09834232926368713,Graziano Pellè,a,841,OpenPlay,2014,RightFoot,4756,Liverpool,Southampton,2,1,2014-08-17 13:30:00,Nathaniel Clyne,None
+14507,85,SavedShot,0.8919999694824219,0.69,0.05837573483586311,James Ward-Prowse,a,843,OpenPlay,2014,RightFoot,4756,Liverpool,Southampton,2,1,2014-08-17 13:30:00,Graziano Pellè,LayOff
+14508,87,SavedShot,0.88,0.5609999847412109,0.08753733336925507,Morgan Schneiderlin,a,551,OpenPlay,2014,LeftFoot,4756,Liverpool,Southampton,2,1,2014-08-17 13:30:00,Graziano Pellè,LayOff
+14509,87,MissedShots,0.9469999694824218,0.500999984741211,0.4573957324028015,Shane Long,a,839,OpenPlay,2014,Head,4756,Liverpool,Southampton,2,1,2014-08-17 13:30:00,,Rebound

@@ -1,0 +1,23 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+410948,10,MissedShots,0.924000015258789,0.3060000038146973,0.06338269263505936,Vyacheslav Krotov,h,2910,OpenPlay,2020,RightFoot,14401,FC Ufa,Lokomotiv Moscow,0,1,2021-03-18 14:00:00,Oleg Ivanov,Pass
+410952,28,BlockedShot,0.935,0.5629999923706055,0.33983662724494934,Oleg Ivanov,h,2857,OpenPlay,2020,Head,14401,FC Ufa,Lokomotiv Moscow,0,1,2021-03-18 14:00:00,Vyacheslav Krotov,Cross
+410954,39,BlockedShot,0.9069999694824219,0.3509999847412109,0.06300757825374603,Gregory Morozov,h,2755,OpenPlay,2020,RightFoot,14401,FC Ufa,Lokomotiv Moscow,0,1,2021-03-18 14:00:00,,None
+410955,40,MissedShots,0.8730000305175781,0.34,0.15162283182144165,Oston Urunov,h,8365,OpenPlay,2020,RightFoot,14401,FC Ufa,Lokomotiv Moscow,0,1,2021-03-18 14:00:00,Filip Mrzljak,Throughball
+410957,55,MissedShots,0.779000015258789,0.49900001525878906,0.027848366647958755,Oleg Ivanov,h,2857,OpenPlay,2020,RightFoot,14401,FC Ufa,Lokomotiv Moscow,0,1,2021-03-18 14:00:00,Oston Urunov,Pass
+410962,75,BlockedShot,0.78,0.5720000076293945,0.030597684904932976,Oleg Ivanov,h,2857,OpenPlay,2020,RightFoot,14401,FC Ufa,Lokomotiv Moscow,0,1,2021-03-18 14:00:00,,None
+410966,81,MissedShots,0.7030000305175781,0.57,0.014184652827680111,Oston Urunov,h,8365,OpenPlay,2020,RightFoot,14401,FC Ufa,Lokomotiv Moscow,0,1,2021-03-18 14:00:00,Filip Mrzljak,Pass
+410968,92,BlockedShot,0.8780000305175781,0.6840000152587891,0.04511674866080284,Timur Zhamaletdinov,h,5458,OpenPlay,2020,RightFoot,14401,FC Ufa,Lokomotiv Moscow,0,1,2021-03-18 14:00:00,Oston Urunov,CornerAwarded
+410969,93,SavedShot,0.865,0.27399999618530274,0.02481369487941265,Timur Zhamaletdinov,h,5458,OpenPlay,2020,LeftFoot,14401,FC Ufa,Lokomotiv Moscow,0,1,2021-03-18 14:00:00,Filip Mrzljak,Pass
+410949,25,SavedShot,0.8569999694824219,0.55,0.29817113280296326,Francois Kamano,a,3333,OpenPlay,2020,RightFoot,14401,FC Ufa,Lokomotiv Moscow,0,1,2021-03-18 14:00:00,Vitali Lisakovich,LayOff
+410950,26,BlockedShot,0.7980000305175782,0.33099998474121095,0.018301116302609444,Francois Kamano,a,3333,FromCorner,2020,RightFoot,14401,FC Ufa,Lokomotiv Moscow,0,1,2021-03-18 14:00:00,,None
+410951,26,MissedShots,0.9519999694824218,0.5109999847412109,0.6532137393951416,Vitali Lisakovich,a,8622,OpenPlay,2020,LeftFoot,14401,FC Ufa,Lokomotiv Moscow,0,1,2021-03-18 14:00:00,Grzegorz Krychowiak,Pass
+410953,37,MissedShots,0.875,0.6830000305175781,0.04821202531456947,Rifat Zhemaletdinov,a,2712,OpenPlay,2020,LeftFoot,14401,FC Ufa,Lokomotiv Moscow,0,1,2021-03-18 14:00:00,,None
+410956,48,MissedShots,0.9540000152587891,0.5670000076293945,0.1090964749455452,Pablo,a,3265,FromCorner,2020,Head,14401,FC Ufa,Lokomotiv Moscow,0,1,2021-03-18 14:00:00,Maciej Rybus,Cross
+410958,56,MissedShots,0.8780000305175781,0.46599998474121096,0.01353311538696289,Pablo,a,3265,FromCorner,2020,Head,14401,FC Ufa,Lokomotiv Moscow,0,1,2021-03-18 14:00:00,Maciej Rybus,Aerial
+410959,61,BlockedShot,0.740999984741211,0.4209999847412109,0.01814754121005535,Rifat Zhemaletdinov,a,2712,OpenPlay,2020,RightFoot,14401,FC Ufa,Lokomotiv Moscow,0,1,2021-03-18 14:00:00,Grzegorz Krychowiak,Pass
+410960,65,BlockedShot,0.85,0.5,0.0999331921339035,Francois Kamano,a,3333,OpenPlay,2020,RightFoot,14401,FC Ufa,Lokomotiv Moscow,0,1,2021-03-18 14:00:00,Fedor Smolov,Pass
+410961,73,MissedShots,0.7880000305175782,0.37900001525878907,0.01964239589869976,Francois Kamano,a,3333,FromCorner,2020,RightFoot,14401,FC Ufa,Lokomotiv Moscow,0,1,2021-03-18 14:00:00,,None
+410963,78,BlockedShot,0.7819999694824219,0.6469999694824219,0.06669528037309647,Fedor Smolov,a,2925,DirectFreekick,2020,RightFoot,14401,FC Ufa,Lokomotiv Moscow,0,1,2021-03-18 14:00:00,,Standard
+410964,79,BlockedShot,0.8819999694824219,0.45799999237060546,0.025918535888195038,Eder,a,963,FromCorner,2020,Head,14401,FC Ufa,Lokomotiv Moscow,0,1,2021-03-18 14:00:00,Maciej Rybus,Cross
+410965,79,Goal,0.9619999694824218,0.4620000076293945,0.6238783001899719,Grzegorz Krychowiak,a,2414,FromCorner,2020,LeftFoot,14401,FC Ufa,Lokomotiv Moscow,0,1,2021-03-18 14:00:00,Eder,Rebound
+410967,90,MissedShots,0.7780000305175782,0.7580000305175781,0.010148901492357254,Fedor Smolov,a,2925,OpenPlay,2020,RightFoot,14401,FC Ufa,Lokomotiv Moscow,0,1,2021-03-18 14:00:00,Eder,TakeOn

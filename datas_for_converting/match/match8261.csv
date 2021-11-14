@@ -1,0 +1,19 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+165817,0,MissedShots,0.715,0.4759999847412109,0.014978076331317425,Vladimir Darida,h,27,OpenPlay,2017,LeftFoot,8261,Hertha Berlin,VfB Stuttgart,2,0,2017-08-19 14:30:00,Vedad Ibisevic,Pass
+165819,12,MissedShots,0.725,0.57,0.013239158317446709,Vladimir Darida,h,27,OpenPlay,2017,RightFoot,8261,Hertha Berlin,VfB Stuttgart,2,0,2017-08-19 14:30:00,,None
+165820,13,MissedShots,0.9319999694824219,0.4159999847412109,0.09769164025783539,Mathew Leckie,h,241,OpenPlay,2017,Head,8261,Hertha Berlin,VfB Stuttgart,2,0,2017-08-19 14:30:00,Mitchell Weiser,Cross
+165821,18,MissedShots,0.7440000152587891,0.425,0.016216279938817024,Mathew Leckie,h,241,OpenPlay,2017,RightFoot,8261,Hertha Berlin,VfB Stuttgart,2,0,2017-08-19 14:30:00,,None
+165822,23,BlockedShot,0.8019999694824219,0.48700000762939455,0.05284322798252106,Vedad Ibisevic,h,29,OpenPlay,2017,RightFoot,8261,Hertha Berlin,VfB Stuttgart,2,0,2017-08-19 14:30:00,Vladimir Darida,Pass
+165823,37,BlockedShot,0.759000015258789,0.7519999694824219,0.017869241535663605,Alexander Esswein,h,270,OpenPlay,2017,RightFoot,8261,Hertha Berlin,VfB Stuttgart,2,0,2017-08-19 14:30:00,Mathew Leckie,Pass
+165824,39,SavedShot,0.81,0.30700000762939456,0.023592643439769745,Alexander Esswein,h,270,OpenPlay,2017,LeftFoot,8261,Hertha Berlin,VfB Stuttgart,2,0,2017-08-19 14:30:00,Mitchell Weiser,Pass
+165825,45,Goal,0.9069999694824219,0.285,0.0461200550198555,Mathew Leckie,h,241,OpenPlay,2017,LeftFoot,8261,Hertha Berlin,VfB Stuttgart,2,0,2017-08-19 14:30:00,Vedad Ibisevic,TakeOn
+165830,60,BlockedShot,0.8590000152587891,0.519000015258789,0.048535339534282684,Vedad Ibisevic,h,29,OpenPlay,2017,Head,8261,Hertha Berlin,VfB Stuttgart,2,0,2017-08-19 14:30:00,Marvin Plattenhardt,Cross
+165831,61,Goal,0.95,0.5770000076293945,0.10546989738941193,Mathew Leckie,h,241,FromCorner,2017,LeftFoot,8261,Hertha Berlin,VfB Stuttgart,2,0,2017-08-19 14:30:00,,None
+165818,10,SavedShot,0.8159999847412109,0.25,0.02420004829764366,Chadrac Akolo,a,6089,OpenPlay,2017,RightFoot,8261,Hertha Berlin,VfB Stuttgart,2,0,2017-08-19 14:30:00,Christian Gentner,Pass
+165826,52,SavedShot,0.98,0.30100000381469727,0.042745836079120636,Simon Terodde,a,6090,OpenPlay,2017,RightFoot,8261,Hertha Berlin,VfB Stuttgart,2,0,2017-08-19 14:30:00,Chadrac Akolo,Pass
+165827,53,BlockedShot,0.8380000305175781,0.5179999923706055,0.07007109373807907,Chadrac Akolo,a,6089,OpenPlay,2017,RightFoot,8261,Hertha Berlin,VfB Stuttgart,2,0,2017-08-19 14:30:00,Takuma Asano,Pass
+165828,56,BlockedShot,0.8919999694824219,0.6020000076293945,0.07088804990053177,Josip Brekalo,a,5353,OpenPlay,2017,RightFoot,8261,Hertha Berlin,VfB Stuttgart,2,0,2017-08-19 14:30:00,,BallRecovery
+165829,56,BlockedShot,0.775,0.47,0.032085467129945755,Orel Mangala,a,6088,OpenPlay,2017,RightFoot,8261,Hertha Berlin,VfB Stuttgart,2,0,2017-08-19 14:30:00,,Rebound
+165832,73,ShotOnPost,0.8919999694824219,0.33599998474121096,0.26019808650016785,Takuma Asano,a,6087,OpenPlay,2017,RightFoot,8261,Hertha Berlin,VfB Stuttgart,2,0,2017-08-19 14:30:00,Benjamin Pavard,Chipped
+165833,80,MissedShots,0.93,0.4229999923706055,0.3224833905696869,Anastasios Donis,a,3962,OpenPlay,2017,RightFoot,8261,Hertha Berlin,VfB Stuttgart,2,0,2017-08-19 14:30:00,,None
+165834,86,MissedShots,0.8090000152587891,0.754000015258789,0.058990221470594406,Anastasios Donis,a,3962,DirectFreekick,2017,RightFoot,8261,Hertha Berlin,VfB Stuttgart,2,0,2017-08-19 14:30:00,,Standard

@@ -1,0 +1,35 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+104195,8,MissedShots,0.9069999694824219,0.44299999237060544,0.020141728222370148,Syam Ben Youssef,h,3523,FromCorner,2016,Head,2289,Caen,Paris Saint Germain,0,6,2016-09-16 22:45:00,Julien Féret,Aerial
+104196,8,MissedShots,0.8819999694824219,0.5359999847412109,0.04014522209763527,Damien Da Silva,h,3542,FromCorner,2016,Head,2289,Caen,Paris Saint Germain,0,6,2016-09-16 22:45:00,Ronny Rodelin,Cross
+104199,19,MissedShots,0.8180000305175781,0.32,0.029425974935293198,Ronny Rodelin,h,3526,FromCorner,2016,RightFoot,2289,Caen,Paris Saint Germain,0,6,2016-09-16 22:45:00,Herve Bazile,Cross
+104207,44,MissedShots,0.9,0.61,0.02441166713833809,Yann Karamoh,h,5700,OpenPlay,2016,Head,2289,Caen,Paris Saint Germain,0,6,2016-09-16 22:45:00,Romain Genevois,Aerial
+104210,54,MissedShots,0.7580000305175781,0.5979999923706054,0.06644940376281738,Ronny Rodelin,h,3526,DirectFreekick,2016,RightFoot,2289,Caen,Paris Saint Germain,0,6,2016-09-16 22:45:00,,Standard
+104213,58,BlockedShot,0.8130000305175781,0.2929999923706055,0.02549036405980587,Yann Karamoh,h,5700,OpenPlay,2016,RightFoot,2289,Caen,Paris Saint Germain,0,6,2016-09-16 22:45:00,Ronny Rodelin,Pass
+104214,60,MissedShots,0.755,0.7130000305175781,0.010174157097935677,Vincent Bessat,h,3525,SetPiece,2016,RightFoot,2289,Caen,Paris Saint Germain,0,6,2016-09-16 22:45:00,,None
+104216,63,BlockedShot,0.7680000305175781,0.33,0.011796312406659126,Ismael Diomande,h,3623,OpenPlay,2016,RightFoot,2289,Caen,Paris Saint Germain,0,6,2016-09-16 22:45:00,,None
+104220,74,SavedShot,0.91,0.495,0.2888883352279663,Ivan Santini,h,5701,OpenPlay,2016,Head,2289,Caen,Paris Saint Germain,0,6,2016-09-16 22:45:00,Vincent Bessat,Cross
+104221,74,MissedShots,0.9530000305175781,0.47400001525878904,0.625263512134552,Ivan Santini,h,5701,OpenPlay,2016,RightFoot,2289,Caen,Paris Saint Germain,0,6,2016-09-16 22:45:00,,Rebound
+104222,75,MissedShots,0.784000015258789,0.32599998474121095,0.020899664610624313,Ismael Diomande,h,3623,OpenPlay,2016,RightFoot,2289,Caen,Paris Saint Germain,0,6,2016-09-16 22:45:00,Ivan Santini,BallRecovery
+104226,85,BlockedShot,0.805,0.75,0.011878537014126778,Emmanuel Imorou,h,3622,OpenPlay,2016,LeftFoot,2289,Caen,Paris Saint Germain,0,6,2016-09-16 22:45:00,,None
+104227,89,MissedShots,0.759000015258789,0.47,0.012552611529827118,Ismael Diomande,h,3623,OpenPlay,2016,LeftFoot,2289,Caen,Paris Saint Germain,0,6,2016-09-16 22:45:00,Romain Genevois,HeadPass
+104194,3,MissedShots,0.889000015258789,0.5920000076293945,0.08223441988229752,Edinson Cavani,a,3294,OpenPlay,2016,RightFoot,2289,Caen,Paris Saint Germain,0,6,2016-09-16 22:45:00,Ángel Di María,Chipped
+104197,9,MissedShots,0.925,0.6040000152587891,0.07539667189121246,Edinson Cavani,a,3294,OpenPlay,2016,RightFoot,2289,Caen,Paris Saint Germain,0,6,2016-09-16 22:45:00,Ángel Di María,Cross
+104198,11,Goal,0.919000015258789,0.42700000762939455,0.32766398787498474,Edinson Cavani,a,3294,OpenPlay,2016,LeftFoot,2289,Caen,Paris Saint Germain,0,6,2016-09-16 22:45:00,Maxwell,Cross
+104200,22,Goal,0.885,0.5,0.7600951194763184,Edinson Cavani,a,3294,Penalty,2016,RightFoot,2289,Caen,Paris Saint Germain,0,6,2016-09-16 22:45:00,,Standard
+104201,23,SavedShot,0.7319999694824219,0.5259999847412109,0.028987359255552292,Adrien Rabiot,a,3291,OpenPlay,2016,LeftFoot,2289,Caen,Paris Saint Germain,0,6,2016-09-16 22:45:00,Lucas Moura,Pass
+104202,29,SavedShot,0.8680000305175781,0.2929999923706055,0.06226906180381775,Lucas Moura,a,3293,OpenPlay,2016,RightFoot,2289,Caen,Paris Saint Germain,0,6,2016-09-16 22:45:00,Ángel Di María,Pass
+104203,30,MissedShots,0.88,0.3120000076293945,0.06757733225822449,Ángel Di María,a,3553,OpenPlay,2016,LeftFoot,2289,Caen,Paris Saint Germain,0,6,2016-09-16 22:45:00,Thomas Meunier,Pass
+104204,33,BlockedShot,0.879000015258789,0.3940000152587891,0.33968812227249146,Lucas Moura,a,3293,OpenPlay,2016,RightFoot,2289,Caen,Paris Saint Germain,0,6,2016-09-16 22:45:00,Ángel Di María,Chipped
+104205,34,MissedShots,0.7930000305175782,0.66,0.019692273810505867,Presnel Kimpembe,a,3599,FromCorner,2016,LeftFoot,2289,Caen,Paris Saint Germain,0,6,2016-09-16 22:45:00,,None
+104206,37,Goal,0.9330000305175781,0.5359999847412109,0.5791246891021729,Edinson Cavani,a,3294,OpenPlay,2016,LeftFoot,2289,Caen,Paris Saint Germain,0,6,2016-09-16 22:45:00,Maxwell,Pass
+104208,45,Goal,0.875999984741211,0.445,0.4733317792415619,Edinson Cavani,a,3294,OpenPlay,2016,RightFoot,2289,Caen,Paris Saint Germain,0,6,2016-09-16 22:45:00,Thomas Meunier,Throughball
+104209,46,MissedShots,0.7719999694824219,0.5979999923706054,0.025882719084620476,Adrien Rabiot,a,3291,OpenPlay,2016,LeftFoot,2289,Caen,Paris Saint Germain,0,6,2016-09-16 22:45:00,Ángel Di María,Pass
+104211,55,MissedShots,0.765,0.73,0.020542113110423088,Blaise Matuidi,a,3296,OpenPlay,2016,LeftFoot,2289,Caen,Paris Saint Germain,0,6,2016-09-16 22:45:00,Marquinhos,Pass
+104212,56,MissedShots,0.8530000305175781,0.6630000305175782,0.03926272690296173,Maxwell,a,3289,FromCorner,2016,LeftFoot,2289,Caen,Paris Saint Germain,0,6,2016-09-16 22:45:00,Ángel Di María,Pass
+104215,63,BlockedShot,0.8680000305175781,0.44299999237060544,0.10500528663396835,Jean-Kevin Augustin,a,3299,OpenPlay,2016,LeftFoot,2289,Caen,Paris Saint Germain,0,6,2016-09-16 22:45:00,Lucas Moura,Pass
+104217,65,MissedShots,0.8730000305175781,0.3320000076293945,0.07569494843482971,Thomas Meunier,a,5680,OpenPlay,2016,RightFoot,2289,Caen,Paris Saint Germain,0,6,2016-09-16 22:45:00,Adrien Rabiot,Pass
+104218,66,Goal,0.750999984741211,0.4329999923706055,0.026458298787474632,Lucas Moura,a,3293,OpenPlay,2016,RightFoot,2289,Caen,Paris Saint Germain,0,6,2016-09-16 22:45:00,Jean-Kevin Augustin,Pass
+104219,68,MissedShots,0.825,0.5279999923706055,0.09323541074991226,Jesé,a,2256,OpenPlay,2016,RightFoot,2289,Caen,Paris Saint Germain,0,6,2016-09-16 22:45:00,Jean-Kevin Augustin,Pass
+104223,77,Goal,0.8180000305175781,0.49700000762939456,0.08892365545034409,Jean-Kevin Augustin,a,3299,OpenPlay,2016,RightFoot,2289,Caen,Paris Saint Germain,0,6,2016-09-16 22:45:00,Adrien Rabiot,Pass
+104224,82,BlockedShot,0.9319999694824219,0.3940000152587891,0.12035975605249405,Jean-Kevin Augustin,a,3299,OpenPlay,2016,RightFoot,2289,Caen,Paris Saint Germain,0,6,2016-09-16 22:45:00,Lucas Moura,Cross
+104225,83,BlockedShot,0.8019999694824219,0.4929999923706055,0.09133212268352509,Jesé,a,2256,OpenPlay,2016,RightFoot,2289,Caen,Paris Saint Germain,0,6,2016-09-16 22:45:00,Adrien Rabiot,Chipped

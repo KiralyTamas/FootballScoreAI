@@ -1,0 +1,23 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+113001,3,BlockedShot,0.8159999847412109,0.7559999847412109,0.02237209863960743,Jamie Vardy,h,755,OpenPlay,2016,RightFoot,483,Leicester,Swansea,2,1,2016-08-27 18:00:00,Marc Albrighton,TakeOn
+113002,10,MissedShots,0.8219999694824218,0.6329999923706054,0.12023470550775528,Riyad Mahrez,h,750,DirectFreekick,2016,LeftFoot,483,Leicester,Swansea,2,1,2016-08-27 18:00:00,,Standard
+113003,21,MissedShots,0.9330000305175781,0.4,0.06338974833488464,Daniel Drinkwater,h,752,OpenPlay,2016,Head,483,Leicester,Swansea,2,1,2016-08-27 18:00:00,Marc Albrighton,Cross
+113006,31,Goal,0.8930000305175781,0.38599998474121094,0.31012728810310364,Jamie Vardy,h,755,OpenPlay,2016,RightFoot,483,Leicester,Swansea,2,1,2016-08-27 18:00:00,Daniel Drinkwater,Throughball
+113008,43,SavedShot,0.764000015258789,0.6990000152587891,0.02709147520363331,Shinji Okazaki,h,754,OpenPlay,2016,RightFoot,483,Leicester,Swansea,2,1,2016-08-27 18:00:00,Daniel Amartey,HeadPass
+113010,51,Goal,0.9369999694824219,0.5220000076293946,0.38402602076530457,Wes Morgan,h,748,FromCorner,2016,RightFoot,483,Leicester,Swansea,2,1,2016-08-27 18:00:00,Robert Huth,BallTouch
+113012,55,SavedShot,0.885,0.5,0.7611688375473022,Riyad Mahrez,h,750,Penalty,2016,LeftFoot,483,Leicester,Swansea,2,1,2016-08-27 18:00:00,,Standard
+113013,55,SavedShot,0.9330000305175781,0.5729999923706055,0.4893098771572113,Shinji Okazaki,h,754,SetPiece,2016,RightFoot,483,Leicester,Swansea,2,1,2016-08-27 18:00:00,,Rebound
+113015,65,MissedShots,0.9719999694824218,0.5940000152587891,0.07602667063474655,Wes Morgan,h,748,SetPiece,2016,LeftFoot,483,Leicester,Swansea,2,1,2016-08-27 18:00:00,Marc Albrighton,Cross
+113016,66,MissedShots,0.7709999847412109,0.700999984741211,0.03043937310576439,Jamie Vardy,h,755,OpenPlay,2016,RightFoot,483,Leicester,Swansea,2,1,2016-08-27 18:00:00,Daniel Amartey,Pass
+113018,72,BlockedShot,0.8959999847412109,0.375,0.12396301329135895,Shinji Okazaki,h,754,OpenPlay,2016,RightFoot,483,Leicester,Swansea,2,1,2016-08-27 18:00:00,Riyad Mahrez,Pass
+113021,90,MissedShots,0.8519999694824218,0.44799999237060545,0.12729571759700775,Riyad Mahrez,h,750,OpenPlay,2016,LeftFoot,483,Leicester,Swansea,2,1,2016-08-27 18:00:00,Daniel Drinkwater,Pass
+113022,93,SavedShot,0.8190000152587891,0.5070000076293946,0.31677067279815674,Ahmed Musa,h,1681,OpenPlay,2016,LeftFoot,483,Leicester,Swansea,2,1,2016-08-27 18:00:00,Riyad Mahrez,TakeOn
+113004,24,SavedShot,0.745,0.6909999847412109,0.014956138096749783,Gylfi Sigurdsson,a,714,OpenPlay,2016,RightFoot,483,Leicester,Swansea,2,1,2016-08-27 18:00:00,Wayne Routledge,Pass
+113005,30,SavedShot,0.8640000152587891,0.6,0.09198539704084396,Gylfi Sigurdsson,a,714,OpenPlay,2016,LeftFoot,483,Leicester,Swansea,2,1,2016-08-27 18:00:00,Fernando Llorente,Pass
+113007,33,MissedShots,0.7959999847412109,0.6079999923706054,0.03716741129755974,Gylfi Sigurdsson,a,714,OpenPlay,2016,RightFoot,483,Leicester,Swansea,2,1,2016-08-27 18:00:00,Modou Barrow,Pass
+113009,51,BlockedShot,0.87,0.585,0.05949576571583748,Fernando Llorente,a,1728,OpenPlay,2016,LeftFoot,483,Leicester,Swansea,2,1,2016-08-27 18:00:00,Stephen Kingsley,Cross
+113011,54,MissedShots,0.7630000305175781,0.59,0.023287516087293625,Gylfi Sigurdsson,a,714,OpenPlay,2016,LeftFoot,483,Leicester,Swansea,2,1,2016-08-27 18:00:00,Jack Cork,Pass
+113014,59,MissedShots,0.7859999847412109,0.33,0.023888321593403816,Modou Barrow,a,720,OpenPlay,2016,LeftFoot,483,Leicester,Swansea,2,1,2016-08-27 18:00:00,Leroy Fer,Pass
+113017,70,MissedShots,0.894000015258789,0.3770000076293945,0.014731787145137787,Leroy Fer,a,711,FromCorner,2016,Head,483,Leicester,Swansea,2,1,2016-08-27 18:00:00,Ki Sung-yueng,Cross
+113019,73,MissedShots,0.7280000305175781,0.6459999847412109,0.01180035900324583,Leroy Fer,a,711,OpenPlay,2016,RightFoot,483,Leicester,Swansea,2,1,2016-08-27 18:00:00,Jefferson Montero,Pass
+113020,80,Goal,0.9119999694824219,0.57,0.05086764693260193,Leroy Fer,a,711,OpenPlay,2016,Head,483,Leicester,Swansea,2,1,2016-08-27 18:00:00,Modou Barrow,Aerial

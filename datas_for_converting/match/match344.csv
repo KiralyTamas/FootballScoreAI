@@ -1,0 +1,24 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+59881,9,MissedShots,0.9640000152587891,0.5329999923706055,0.5063007473945618,Shane Long,h,839,FromCorner,2015,Head,344,Southampton,Chelsea,1,2,2016-02-27 19:00:00,Virgil van Dijk,Aerial
+59883,12,BlockedShot,0.8219999694824218,0.5359999847412109,0.0713391900062561,Charlie Austin,h,848,OpenPlay,2015,RightFoot,344,Southampton,Chelsea,1,2,2016-02-27 19:00:00,Steven Davis,Pass
+59885,16,BlockedShot,0.789000015258789,0.6959999847412109,0.021255100145936012,Jordy Clasie,h,837,FromCorner,2015,RightFoot,344,Southampton,Chelsea,1,2,2016-02-27 19:00:00,Steven Davis,Pass
+59891,30,MissedShots,0.7859999847412109,0.44,0.03625000640749931,Charlie Austin,h,848,OpenPlay,2015,LeftFoot,344,Southampton,Chelsea,1,2,2016-02-27 19:00:00,Steven Davis,Pass
+59893,41,Goal,0.8959999847412109,0.35900001525878905,0.33169108629226685,Shane Long,h,839,OpenPlay,2015,RightFoot,344,Southampton,Chelsea,1,2,2016-02-27 19:00:00,,None
+59899,67,MissedShots,0.755,0.705999984741211,0.02122359722852707,Virgil van Dijk,h,833,OpenPlay,2015,RightFoot,344,Southampton,Chelsea,1,2,2016-02-27 19:00:00,Oriol Romeu,TakeOn
+59905,85,SavedShot,0.745,0.500999984741211,0.022683462128043175,Graziano Pellè,h,841,OpenPlay,2015,RightFoot,344,Southampton,Chelsea,1,2,2016-02-27 19:00:00,Sadio Mané,HeadPass
+59882,10,BlockedShot,0.93,0.6040000152587891,0.05678052082657814,Diego Costa,a,802,FromCorner,2015,RightFoot,344,Southampton,Chelsea,1,2,2016-02-27 19:00:00,Willian,Cross
+59887,26,SavedShot,0.7659999847412109,0.6659999847412109,0.016191286966204643,Oscar,a,692,OpenPlay,2015,RightFoot,344,Southampton,Chelsea,1,2,2016-02-27 19:00:00,Willian,Pass
+59890,29,MissedShots,0.7619999694824219,0.47,0.025355709716677666,Diego Costa,a,802,OpenPlay,2015,RightFoot,344,Southampton,Chelsea,1,2,2016-02-27 19:00:00,John Obi Mikel,TakeOn
+59892,40,MissedShots,0.794000015258789,0.3320000076293945,0.026632729917764664,Eden Hazard,a,701,OpenPlay,2015,RightFoot,344,Southampton,Chelsea,1,2,2016-02-27 19:00:00,John Obi Mikel,Pass
+59894,45,MissedShots,0.9030000305175782,0.585,0.022141803056001663,Cesc Fàbregas,a,686,OpenPlay,2015,Head,344,Southampton,Chelsea,1,2,2016-02-27 19:00:00,César Azpilicueta,Aerial
+59895,50,MissedShots,0.7919999694824219,0.3529999923706055,0.02326442487537861,Eden Hazard,a,701,OpenPlay,2015,LeftFoot,344,Southampton,Chelsea,1,2,2016-02-27 19:00:00,Willian,TakeOn
+59896,52,MissedShots,0.9580000305175781,0.49599998474121093,0.0591016560792923,John Obi Mikel,a,685,FromCorner,2015,Head,344,Southampton,Chelsea,1,2,2016-02-27 19:00:00,Gary Cahill,BallTouch
+59897,57,MissedShots,0.784000015258789,0.28600000381469726,0.017380185425281525,César Azpilicueta,a,681,OpenPlay,2015,RightFoot,344,Southampton,Chelsea,1,2,2016-02-27 19:00:00,,None
+59898,58,MissedShots,0.9169999694824219,0.5420000076293945,0.09781884402036667,Diego Costa,a,802,OpenPlay,2015,LeftFoot,344,Southampton,Chelsea,1,2,2016-02-27 19:00:00,Eden Hazard,Cross
+59900,74,Goal,0.8969999694824219,0.76,0.024022705852985382,Cesc Fàbregas,a,686,OpenPlay,2015,RightFoot,344,Southampton,Chelsea,1,2,2016-02-27 19:00:00,Diego Costa,Pass
+59901,77,BlockedShot,0.889000015258789,0.5220000076293946,0.12723389267921448,Diego Costa,a,802,OpenPlay,2015,LeftFoot,344,Southampton,Chelsea,1,2,2016-02-27 19:00:00,Willian,Pass
+59902,77,MissedShots,0.755,0.4329999923706055,0.017194118350744247,Kenedy,a,689,FromCorner,2015,RightFoot,344,Southampton,Chelsea,1,2,2016-02-27 19:00:00,,None
+59903,81,MissedShots,0.774000015258789,0.4909999847412109,0.031183553859591484,Willian,a,700,OpenPlay,2015,RightFoot,344,Southampton,Chelsea,1,2,2016-02-27 19:00:00,Oscar,Pass
+59904,84,SavedShot,0.7830000305175782,0.6170000076293946,0.030986042693257332,Oscar,a,692,OpenPlay,2015,RightFoot,344,Southampton,Chelsea,1,2,2016-02-27 19:00:00,Diego Costa,LayOff
+59906,86,BlockedShot,0.750999984741211,0.6040000152587891,0.01994829811155796,Kenedy,a,689,OpenPlay,2015,LeftFoot,344,Southampton,Chelsea,1,2,2016-02-27 19:00:00,Willian,Pass
+59908,88,Goal,0.919000015258789,0.45799999237060546,0.035799771547317505,Branislav Ivanovic,a,682,FromCorner,2015,Head,344,Southampton,Chelsea,1,2,2016-02-27 19:00:00,Willian,Aerial

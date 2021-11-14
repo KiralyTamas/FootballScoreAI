@@ -1,0 +1,26 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+291117,0,MissedShots,0.914000015258789,0.6229999923706054,0.012858167290687561,Djorde Despotovic,h,7121,FromCorner,2018,Head,9065,FC Orenburg,Krylya Sovetov Samara,3,1,2019-04-03 15:00:00,Sergey Terekhov,Aerial
+291120,7,Goal,0.885,0.5,0.7542753219604492,Aleksey Sutormin,h,6774,Penalty,2018,RightFoot,9065,FC Orenburg,Krylya Sovetov Samara,3,1,2019-04-03 15:00:00,,Standard
+291125,16,BlockedShot,0.860999984741211,0.46099998474121096,0.014967517927289009,Danijel Miskic,h,6890,FromCorner,2018,Head,9065,FC Orenburg,Krylya Sovetov Samara,3,1,2019-04-03 15:00:00,Denis Popovic,Cross
+291126,16,Goal,0.9630000305175781,0.5529999923706055,0.14542226493358612,Silvije Begic,h,6775,FromCorner,2018,RightFoot,9065,FC Orenburg,Krylya Sovetov Samara,3,1,2019-04-03 15:00:00,,Rebound
+291128,33,MissedShots,0.925,0.52,0.04824841767549515,Silvije Begic,h,6775,FromCorner,2018,Head,9065,FC Orenburg,Krylya Sovetov Samara,3,1,2019-04-03 15:00:00,Denis Popovic,Aerial
+291129,43,MissedShots,0.925,0.5309999847412109,0.044919561594724655,Djorde Despotovic,h,7121,FromCorner,2018,Head,9065,FC Orenburg,Krylya Sovetov Samara,3,1,2019-04-03 15:00:00,Sergey Terekhov,Aerial
+291130,48,MissedShots,0.93,0.38,0.039593275636434555,Djorde Despotovic,h,7121,OpenPlay,2018,Head,9065,FC Orenburg,Krylya Sovetov Samara,3,1,2019-04-03 15:00:00,Andrey Malykh,Cross
+291132,53,Goal,0.9159999847412109,0.47200000762939454,0.08231227099895477,Mikhail Sivakov,h,5424,FromCorner,2018,Head,9065,FC Orenburg,Krylya Sovetov Samara,3,1,2019-04-03 15:00:00,Denis Popovic,Cross
+291134,57,BlockedShot,0.904000015258789,0.28,0.05705743283033371,Aleksey Sutormin,h,6774,OpenPlay,2018,RightFoot,9065,FC Orenburg,Krylya Sovetov Samara,3,1,2019-04-03 15:00:00,Andrey Malykh,Pass
+291135,58,MissedShots,0.9369999694824219,0.6020000076293945,0.06426503509283066,Sergey Terekhov,h,5940,OpenPlay,2018,Head,9065,FC Orenburg,Krylya Sovetov Samara,3,1,2019-04-03 15:00:00,Aleksey Sutormin,Cross
+291138,75,MissedShots,0.8490000152587891,0.5979999923706054,0.07099500298500061,Djorde Despotovic,h,7121,OpenPlay,2018,RightFoot,9065,FC Orenburg,Krylya Sovetov Samara,3,1,2019-04-03 15:00:00,Sergey Terekhov,BallRecovery
+291118,2,SavedShot,0.8909999847412109,0.5420000076293945,0.3977307677268982,Ramil Sheydaev,a,3087,OpenPlay,2018,LeftFoot,9065,FC Orenburg,Krylya Sovetov Samara,3,1,2019-04-03 15:00:00,,None
+291119,2,MissedShots,0.885,0.47900001525878905,0.35184067487716675,Aleksandr Samedov,a,2710,OpenPlay,2018,RightFoot,9065,FC Orenburg,Krylya Sovetov Samara,3,1,2019-04-03 15:00:00,,Rebound
+291121,9,MissedShots,0.73,0.7630000305175781,0.0123898321762681,Anton Zinkovskiy,a,7454,OpenPlay,2018,RightFoot,9065,FC Orenburg,Krylya Sovetov Samara,3,1,2019-04-03 15:00:00,Vitaliy Denisov,Pass
+291122,10,BlockedShot,0.8880000305175781,0.5940000152587891,0.06658485531806946,Maksim Kanunnikov,a,2969,OpenPlay,2018,RightFoot,9065,FC Orenburg,Krylya Sovetov Samara,3,1,2019-04-03 15:00:00,,None
+291123,11,Goal,0.885,0.5,0.7542753219604492,Ramil Sheydaev,a,3087,Penalty,2018,RightFoot,9065,FC Orenburg,Krylya Sovetov Samara,3,1,2019-04-03 15:00:00,,Standard
+291124,13,BlockedShot,0.885,0.5329999923706055,0.39690813422203064,Ramil Sheydaev,a,3087,OpenPlay,2018,LeftFoot,9065,FC Orenburg,Krylya Sovetov Samara,3,1,2019-04-03 15:00:00,Anton Zinkovskiy,Pass
+291127,31,SavedShot,0.745,0.7169999694824218,0.01414213515818119,Anton Zinkovskiy,a,7454,OpenPlay,2018,RightFoot,9065,FC Orenburg,Krylya Sovetov Samara,3,1,2019-04-03 15:00:00,Taras Burlak,Pass
+291131,50,SavedShot,0.93,0.555,0.3653879463672638,Maksim Kanunnikov,a,2969,OpenPlay,2018,LeftFoot,9065,FC Orenburg,Krylya Sovetov Samara,3,1,2019-04-03 15:00:00,Georgi Zotov,Cross
+291133,56,SavedShot,0.6809999847412109,0.43400001525878906,0.008375179953873158,Roman Shishkin,a,2704,OpenPlay,2018,RightFoot,9065,FC Orenburg,Krylya Sovetov Samara,3,1,2019-04-03 15:00:00,Aleksandr Samedov,Pass
+291136,59,MissedShots,0.8719999694824219,0.27100000381469724,0.03354943171143532,Ramil Sheydaev,a,3087,OpenPlay,2018,RightFoot,9065,FC Orenburg,Krylya Sovetov Samara,3,1,2019-04-03 15:00:00,Aleksandr Samedov,Pass
+291137,71,MissedShots,0.9169999694824219,0.4909999847412109,0.0643199160695076,Miral Samardzic,a,6268,FromCorner,2018,OtherBodyPart,9065,FC Orenburg,Krylya Sovetov Samara,3,1,2019-04-03 15:00:00,Aleksandr Samedov,Cross
+291139,83,MissedShots,0.845999984741211,0.7659999847412109,0.033097751438617706,Anton Zinkovskiy,a,7454,FromCorner,2018,RightFoot,9065,FC Orenburg,Krylya Sovetov Samara,3,1,2019-04-03 15:00:00,Paul Anton,Pass
+291140,85,MissedShots,0.93,0.539000015258789,0.10337526351213455,Taras Burlak,a,2993,FromCorner,2018,Head,9065,FC Orenburg,Krylya Sovetov Samara,3,1,2019-04-03 15:00:00,Aleksandr Samedov,Cross
+291141,90,BlockedShot,0.7290000152587891,0.62,0.015444680117070675,Vitaliy Denisov,a,2707,FromCorner,2018,LeftFoot,9065,FC Orenburg,Krylya Sovetov Samara,3,1,2019-04-03 15:00:00,Miral Samardzic,Pass

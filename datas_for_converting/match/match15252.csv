@@ -1,0 +1,28 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+394598,3,MissedShots,0.765,0.41400001525878904,0.02223101258277893,Baptiste Santamaria,h,5654,OpenPlay,2020,RightFoot,15252,Freiburg,Hertha Berlin,4,1,2020-12-20 14:30:00,,None
+394599,6,Goal,0.9230000305175782,0.5379999923706055,0.3310958445072174,Vincenzo Grifo,h,5266,OpenPlay,2020,Head,15252,Freiburg,Hertha Berlin,4,1,2020-12-20 14:30:00,Jonathan Schmid,Cross
+394600,9,MissedShots,0.92,0.5459999847412109,0.13716162741184235,Roland Sallai,h,1277,OpenPlay,2020,Head,15252,Freiburg,Hertha Berlin,4,1,2020-12-20 14:30:00,Jonathan Schmid,Cross
+394601,12,MissedShots,0.8390000152587891,0.7609999847412109,0.03186187148094177,Roland Sallai,h,1277,OpenPlay,2020,RightFoot,15252,Freiburg,Hertha Berlin,4,1,2020-12-20 14:30:00,Christian Günter,Pass
+394602,20,BlockedShot,0.7980000305175782,0.4520000076293945,0.053050197660923004,Roland Sallai,h,1277,OpenPlay,2020,LeftFoot,15252,Freiburg,Hertha Berlin,4,1,2020-12-20 14:30:00,Vincenzo Grifo,Pass
+394605,44,SavedShot,0.855999984741211,0.5670000076293945,0.30871859192848206,Vincenzo Grifo,h,5266,OpenPlay,2020,RightFoot,15252,Freiburg,Hertha Berlin,4,1,2020-12-20 14:30:00,Ermedin Demirovic,Pass
+394611,58,Goal,0.8530000305175781,0.5429999923706055,0.07116010040044785,Ermedin Demirovic,h,6496,OpenPlay,2020,RightFoot,15252,Freiburg,Hertha Berlin,4,1,2020-12-20 14:30:00,,None
+394612,65,SavedShot,0.77,0.3729999923706055,0.03194117546081543,Woo-Yeong Jeong,h,7267,OpenPlay,2020,LeftFoot,15252,Freiburg,Hertha Berlin,4,1,2020-12-20 14:30:00,Jonathan Schmid,Pass
+394613,65,SavedShot,0.92,0.5529999923706055,0.08627893775701523,Manuel Gulde,h,5292,FromCorner,2020,Head,15252,Freiburg,Hertha Berlin,4,1,2020-12-20 14:30:00,Vincenzo Grifo,Cross
+394614,65,BlockedShot,0.9309999847412109,0.5529999923706055,0.04694917052984238,Lucas Höler,h,6475,FromCorner,2020,Head,15252,Freiburg,Hertha Berlin,4,1,2020-12-20 14:30:00,,Rebound
+394615,66,Goal,0.9569999694824218,0.5770000076293945,0.10615159571170807,Manuel Gulde,h,5292,FromCorner,2020,Head,15252,Freiburg,Hertha Berlin,4,1,2020-12-20 14:30:00,Vincenzo Grifo,Cross
+394616,68,MissedShots,0.955999984741211,0.5179999923706055,0.7094737887382507,Lucas Höler,h,6475,OpenPlay,2020,RightFoot,15252,Freiburg,Hertha Berlin,4,1,2020-12-20 14:30:00,Christian Günter,Pass
+394617,72,SavedShot,0.8780000305175781,0.710999984741211,0.06379639357328415,Vincenzo Grifo,h,5266,OpenPlay,2020,RightFoot,15252,Freiburg,Hertha Berlin,4,1,2020-12-20 14:30:00,Woo-Yeong Jeong,Pass
+394618,76,SavedShot,0.5940000152587891,0.6,0.009580225683748722,Baptiste Santamaria,h,5654,OpenPlay,2020,RightFoot,15252,Freiburg,Hertha Berlin,4,1,2020-12-20 14:30:00,,BallRecovery
+394619,78,MissedShots,0.9359999847412109,0.425,0.13386966288089752,Lucas Höler,h,6475,OpenPlay,2020,RightFoot,15252,Freiburg,Hertha Berlin,4,1,2020-12-20 14:30:00,Woo-Yeong Jeong,Cross
+394621,83,MissedShots,0.9330000305175781,0.5420000076293945,0.07024245709180832,Nils Petersen,h,4248,SetPiece,2020,Head,15252,Freiburg,Hertha Berlin,4,1,2020-12-20 14:30:00,Lucas Höler,Aerial
+394624,93,Goal,0.885,0.5,0.75777667760849,Nils Petersen,h,4248,Penalty,2020,RightFoot,15252,Freiburg,Hertha Berlin,4,1,2020-12-20 14:30:00,,Standard
+394603,35,BlockedShot,0.870999984741211,0.6469999694824219,0.06309390813112259,Maximilian Mittelstädt,a,419,OpenPlay,2020,RightFoot,15252,Freiburg,Hertha Berlin,4,1,2020-12-20 14:30:00,Dodi Lukebakio,TakeOn
+394604,40,SavedShot,0.75,0.395,0.018323561176657677,Vladimir Darida,a,27,OpenPlay,2020,LeftFoot,15252,Freiburg,Hertha Berlin,4,1,2020-12-20 14:30:00,Dodi Lukebakio,TakeOn
+394606,50,BlockedShot,0.93,0.605,0.043661367148160934,Krzysztof Piatek,a,7090,FromCorner,2020,Head,15252,Freiburg,Hertha Berlin,4,1,2020-12-20 14:30:00,Vladimir Darida,Cross
+394607,50,ShotOnPost,0.9459999847412109,0.4929999923706055,0.08123131841421127,Niklas Stark,a,418,FromCorner,2020,Head,15252,Freiburg,Hertha Berlin,4,1,2020-12-20 14:30:00,,Rebound
+394608,51,Goal,0.98,0.445,0.6026769280433655,Dodi Lukebakio,a,5706,OpenPlay,2020,LeftFoot,15252,Freiburg,Hertha Berlin,4,1,2020-12-20 14:30:00,,None
+394609,55,ShotOnPost,0.9780000305175781,0.325,0.040419675409793854,Javairo Dilrosun,a,7122,OpenPlay,2020,LeftFoot,15252,Freiburg,Hertha Berlin,4,1,2020-12-20 14:30:00,Matteo Guendouzi,TakeOn
+394610,56,MissedShots,0.925,0.5020000076293946,0.14330266416072845,Krzysztof Piatek,a,7090,OpenPlay,2020,RightFoot,15252,Freiburg,Hertha Berlin,4,1,2020-12-20 14:30:00,Vladimir Darida,Pass
+394620,80,SavedShot,0.9419999694824219,0.5979999923706054,0.01967734470963478,Krzysztof Piatek,a,7090,FromCorner,2020,Head,15252,Freiburg,Hertha Berlin,4,1,2020-12-20 14:30:00,Vladimir Darida,Aerial
+394622,84,MissedShots,0.710999984741211,0.505,0.011573847383260727,Vladimir Darida,a,27,OpenPlay,2020,LeftFoot,15252,Freiburg,Hertha Berlin,4,1,2020-12-20 14:30:00,Matteo Guendouzi,Pass
+394623,86,MissedShots,0.9059999847412109,0.5670000076293945,0.017861882224678993,Jordan Torunarigha,a,5238,FromCorner,2020,Head,15252,Freiburg,Hertha Berlin,4,1,2020-12-20 14:30:00,Vladimir Darida,Aerial

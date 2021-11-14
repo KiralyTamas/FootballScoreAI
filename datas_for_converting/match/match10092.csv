@@ -1,0 +1,22 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+259591,2,MissedShots,0.86,0.519000015258789,0.06244334578514099,Karim Benzema,h,2370,OpenPlay,2018,LeftFoot,10092,Real Madrid,Valencia,2,0,2018-12-01 19:45:00,Gareth Bale,Cross
+259593,13,SavedShot,0.8209999847412109,0.75,0.02778569608926773,Gareth Bale,h,2251,OpenPlay,2018,RightFoot,10092,Real Madrid,Valencia,2,0,2018-12-01 19:45:00,Luka Modric,Chipped
+259594,23,BlockedShot,0.8080000305175781,0.4879999923706055,0.07135719805955887,Dani Ceballos,h,2446,OpenPlay,2018,RightFoot,10092,Real Madrid,Valencia,2,0,2018-12-01 19:45:00,Lucas Vázquez,BallTouch
+259596,28,SavedShot,0.9530000305175781,0.605999984741211,0.09796446561813354,Gareth Bale,h,2251,OpenPlay,2018,LeftFoot,10092,Real Madrid,Valencia,2,0,2018-12-01 19:45:00,,None
+259599,36,MissedShots,0.835,0.32799999237060545,0.054270148277282715,Karim Benzema,h,2370,OpenPlay,2018,RightFoot,10092,Real Madrid,Valencia,2,0,2018-12-01 19:45:00,Luka Modric,Pass
+259600,37,MissedShots,0.82,0.7719999694824219,0.023120861500501633,Gareth Bale,h,2251,OpenPlay,2018,LeftFoot,10092,Real Madrid,Valencia,2,0,2018-12-01 19:45:00,Sergio Reguilón,Pass
+259603,53,MissedShots,0.925,0.6090000152587891,0.08729805052280426,Karim Benzema,h,2370,OpenPlay,2018,Head,10092,Real Madrid,Valencia,2,0,2018-12-01 19:45:00,Lucas Vázquez,Cross
+259604,54,MissedShots,0.7859999847412109,0.3370000076293945,0.032638829201459885,Luka Modric,h,2250,OpenPlay,2018,RightFoot,10092,Real Madrid,Valencia,2,0,2018-12-01 19:45:00,Gareth Bale,Pass
+259605,57,BlockedShot,0.85,0.6179999923706054,0.09653789550065994,Gareth Bale,h,2251,OpenPlay,2018,RightFoot,10092,Real Madrid,Valencia,2,0,2018-12-01 19:45:00,Karim Benzema,TakeOn
+259608,66,MissedShots,0.8130000305175781,0.34599998474121096,0.050854314118623734,Daniel Carvajal,h,2260,OpenPlay,2018,LeftFoot,10092,Real Madrid,Valencia,2,0,2018-12-01 19:45:00,,None
+259609,72,BlockedShot,0.91,0.5920000076293945,0.12758861482143402,Marco Asensio,h,2117,OpenPlay,2018,LeftFoot,10092,Real Madrid,Valencia,2,0,2018-12-01 19:45:00,Marcos Llorente,Pass
+259610,73,BlockedShot,0.835999984741211,0.47,0.09267905354499817,Lucas Vázquez,h,2253,OpenPlay,2018,RightFoot,10092,Real Madrid,Valencia,2,0,2018-12-01 19:45:00,Daniel Carvajal,Pass
+259611,82,Goal,0.9119999694824219,0.5,0.14240875840187073,Lucas Vázquez,h,2253,OpenPlay,2018,LeftFoot,10092,Real Madrid,Valencia,2,0,2018-12-01 19:45:00,Karim Benzema,Pass
+259592,7,OwnGoal,0.035999999046325684,0.55,0,Daniel Wass,a,2284,OpenPlay,2018,Head,10092,Real Madrid,Valencia,2,0,2018-12-01 19:45:00,,Challenge
+259595,27,MissedShots,0.805,0.515,0.053584955632686615,Kevin Gameiro,a,2442,OpenPlay,2018,RightFoot,10092,Real Madrid,Valencia,2,0,2018-12-01 19:45:00,Francis Coquelin,HeadPass
+259597,30,SavedShot,0.7230000305175781,0.654000015258789,0.015521083027124405,Daniel Parejo,a,2378,OpenPlay,2018,RightFoot,10092,Real Madrid,Valencia,2,0,2018-12-01 19:45:00,José Gayá,Pass
+259598,33,BlockedShot,0.845999984741211,0.6819999694824219,0.038761626929044724,Gonçalo Guedes,a,5682,OpenPlay,2018,LeftFoot,10092,Real Madrid,Valencia,2,0,2018-12-01 19:45:00,,None
+259601,50,SavedShot,0.909000015258789,0.4370000076293945,0.07491110265254974,Kevin Gameiro,a,2442,OpenPlay,2018,LeftFoot,10092,Real Madrid,Valencia,2,0,2018-12-01 19:45:00,Carlos Soler,Cross
+259602,52,MissedShots,0.88,0.3920000076293945,0.23994311690330505,Santi Mina,a,2384,OpenPlay,2018,RightFoot,10092,Real Madrid,Valencia,2,0,2018-12-01 19:45:00,Daniel Parejo,Chipped
+259606,64,MissedShots,0.875,0.4520000076293945,0.05251167714595795,Francis Coquelin,a,497,SetPiece,2018,Head,10092,Real Madrid,Valencia,2,0,2018-12-01 19:45:00,Daniel Parejo,Cross
+259607,64,MissedShots,0.9719999694824218,0.580999984741211,0.5266913175582886,Gabriel,a,493,SetPiece,2018,LeftFoot,10092,Real Madrid,Valencia,2,0,2018-12-01 19:45:00,Francis Coquelin,Rebound

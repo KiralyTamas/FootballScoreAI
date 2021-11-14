@@ -1,0 +1,38 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+149326,10,BlockedShot,0.8430000305175781,0.3890000152587891,0.06143477186560631,Diego Falcinelli,h,1360,OpenPlay,2016,RightFoot,3623,Crotone,Fiorentina,0,1,2017-03-19 14:00:00,,BallRecovery
+149327,12,BlockedShot,0.705999984741211,0.49599998474121093,0.010900700464844704,Aleksandar Tonev,h,1359,OpenPlay,2016,RightFoot,3623,Crotone,Fiorentina,0,1,2017-03-19 14:00:00,Diego Falcinelli,LayOff
+149328,15,MissedShots,0.95,0.425,0.31003478169441223,Diego Falcinelli,h,1360,FromCorner,2016,Head,3623,Crotone,Fiorentina,0,1,2017-03-19 14:00:00,Andrea Barberis,Cross
+149329,17,BlockedShot,0.725,0.37900001525878907,0.043074630200862885,Lorenzo Crisetig,h,1356,DirectFreekick,2016,LeftFoot,3623,Crotone,Fiorentina,0,1,2017-03-19 14:00:00,,Standard
+149330,17,MissedShots,0.745999984741211,0.43599998474121093,0.014426926150918007,Andrea Barberis,h,1372,SetPiece,2016,RightFoot,3623,Crotone,Fiorentina,0,1,2017-03-19 14:00:00,,Rebound
+149331,18,MissedShots,0.9540000152587891,0.325,0.06409776210784912,Diego Falcinelli,h,1360,OpenPlay,2016,RightFoot,3623,Crotone,Fiorentina,0,1,2017-03-19 14:00:00,Marcus Rohden,Pass
+149344,46,MissedShots,0.715,0.33599998474121096,0.01558777317404747,Marcus Rohden,h,1364,OpenPlay,2016,RightFoot,3623,Crotone,Fiorentina,0,1,2017-03-19 14:00:00,Aleksandar Tonev,Pass
+149346,49,MissedShots,0.8909999847412109,0.34200000762939453,0.07392849028110504,Diego Falcinelli,h,1360,OpenPlay,2016,RightFoot,3623,Crotone,Fiorentina,0,1,2017-03-19 14:00:00,Marcus Rohden,Pass
+149349,57,MissedShots,0.8019999694824219,0.24200000762939453,0.014744709245860577,Aleandro Rosi,h,1352,OpenPlay,2016,RightFoot,3623,Crotone,Fiorentina,0,1,2017-03-19 14:00:00,,None
+149350,60,ShotOnPost,0.855,0.48200000762939454,0.07308145612478256,Diego Falcinelli,h,1360,OpenPlay,2016,LeftFoot,3623,Crotone,Fiorentina,0,1,2017-03-19 14:00:00,,None
+149353,71,SavedShot,0.8419999694824218,0.4759999847412109,0.06646806001663208,Marcello Trotta,h,1369,OpenPlay,2016,RightFoot,3623,Crotone,Fiorentina,0,1,2017-03-19 14:00:00,,None
+149325,1,MissedShots,0.9569999694824218,0.6430000305175781,0.3164888918399811,Cristian Tello,a,1421,OpenPlay,2016,RightFoot,3623,Crotone,Fiorentina,0,1,2017-03-19 14:00:00,Josip Ilicic,Throughball
+149332,22,SavedShot,0.8880000305175781,0.509000015258789,0.12211842089891434,Nikola Kalinic,a,1425,OpenPlay,2016,RightFoot,3623,Crotone,Fiorentina,0,1,2017-03-19 14:00:00,Josip Ilicic,Pass
+149333,23,BlockedShot,0.815,0.6020000076293945,0.05203456059098244,Josip Ilicic,a,1426,OpenPlay,2016,LeftFoot,3623,Crotone,Fiorentina,0,1,2017-03-19 14:00:00,Borja Valero,Pass
+149334,28,SavedShot,0.7319999694824219,0.43599998474121093,0.05099467933177948,Josip Ilicic,a,1426,DirectFreekick,2016,LeftFoot,3623,Crotone,Fiorentina,0,1,2017-03-19 14:00:00,,Standard
+149335,30,ShotOnPost,0.855,0.3240000152587891,0.063703253865242,Josip Ilicic,a,1426,OpenPlay,2016,LeftFoot,3623,Crotone,Fiorentina,0,1,2017-03-19 14:00:00,Cristian Tello,TakeOn
+149336,30,BlockedShot,0.8969999694824219,0.3139999961853027,0.05964767187833786,Federico Chiesa,a,1433,OpenPlay,2016,LeftFoot,3623,Crotone,Fiorentina,0,1,2017-03-19 14:00:00,Josip Ilicic,Pass
+149337,31,MissedShots,0.8969999694824219,0.4909999847412109,0.2268247753381729,Nikola Kalinic,a,1425,OpenPlay,2016,Head,3623,Crotone,Fiorentina,0,1,2017-03-19 14:00:00,Federico Chiesa,Cross
+149338,33,SavedShot,0.7680000305175781,0.325,0.020208073779940605,Matías Vecino,a,1423,OpenPlay,2016,RightFoot,3623,Crotone,Fiorentina,0,1,2017-03-19 14:00:00,Josip Ilicic,Pass
+149339,36,SavedShot,0.7190000152587891,0.42400001525878905,0.015004483982920647,Federico Chiesa,a,1433,OpenPlay,2016,RightFoot,3623,Crotone,Fiorentina,0,1,2017-03-19 14:00:00,Borja Valero,Pass
+149340,38,MissedShots,0.7819999694824219,0.3920000076293945,0.023876836523413658,Cristian Tello,a,1421,OpenPlay,2016,RightFoot,3623,Crotone,Fiorentina,0,1,2017-03-19 14:00:00,Federico Chiesa,Pass
+149341,39,BlockedShot,0.8959999847412109,0.40099998474121096,0.11313921213150024,Nikola Kalinic,a,1425,OpenPlay,2016,LeftFoot,3623,Crotone,Fiorentina,0,1,2017-03-19 14:00:00,Josip Ilicic,Pass
+149342,39,SavedShot,0.89,0.33,0.06256195902824402,Nikola Kalinic,a,1425,OpenPlay,2016,RightFoot,3623,Crotone,Fiorentina,0,1,2017-03-19 14:00:00,Federico Chiesa,Interception
+149343,41,MissedShots,0.795,0.6270000076293946,0.027040140703320503,Milan Badelj,a,1430,OpenPlay,2016,LeftFoot,3623,Crotone,Fiorentina,0,1,2017-03-19 14:00:00,Borja Valero,Pass
+149345,48,BlockedShot,0.8109999847412109,0.415,0.04960502311587334,Matías Vecino,a,1423,OpenPlay,2016,RightFoot,3623,Crotone,Fiorentina,0,1,2017-03-19 14:00:00,Federico Chiesa,Pass
+149347,53,SavedShot,0.7559999847412109,0.5029999923706054,0.02699374035000801,Matías Vecino,a,1423,OpenPlay,2016,RightFoot,3623,Crotone,Fiorentina,0,1,2017-03-19 14:00:00,Borja Valero,Pass
+149348,54,MissedShots,0.815,0.645,0.02947602979838848,Cristian Tello,a,1421,OpenPlay,2016,RightFoot,3623,Crotone,Fiorentina,0,1,2017-03-19 14:00:00,Nikola Kalinic,Pass
+149351,64,SavedShot,0.8880000305175781,0.6969999694824218,0.08328612148761749,Cristian Tello,a,1421,OpenPlay,2016,RightFoot,3623,Crotone,Fiorentina,0,1,2017-03-19 14:00:00,Federico Chiesa,TakeOn
+149352,68,MissedShots,0.774000015258789,0.6659999847412109,0.01767965592443943,Riccardo Saponara,a,1313,OpenPlay,2016,RightFoot,3623,Crotone,Fiorentina,0,1,2017-03-19 14:00:00,Cristian Tello,Pass
+149354,72,SavedShot,0.9519999694824218,0.46,0.5642537474632263,Nikola Kalinic,a,1425,OpenPlay,2016,RightFoot,3623,Crotone,Fiorentina,0,1,2017-03-19 14:00:00,Maximiliano Olivera,Cross
+149355,72,MissedShots,0.9769999694824218,0.41,0.12254869192838669,Nikola Kalinic,a,1425,OpenPlay,2016,RightFoot,3623,Crotone,Fiorentina,0,1,2017-03-19 14:00:00,,Rebound
+149356,75,BlockedShot,0.8880000305175781,0.705,0.05040886998176575,Riccardo Saponara,a,1313,OpenPlay,2016,RightFoot,3623,Crotone,Fiorentina,0,1,2017-03-19 14:00:00,Maximiliano Olivera,Pass
+149357,79,MissedShots,0.8530000305175781,0.4640000152587891,0.09791065007448196,Nikola Kalinic,a,1425,OpenPlay,2016,LeftFoot,3623,Crotone,Fiorentina,0,1,2017-03-19 14:00:00,Khouma Babacar,Pass
+149358,84,SavedShot,0.8959999847412109,0.48,0.2437528669834137,Nikola Kalinic,a,1425,OpenPlay,2016,Head,3623,Crotone,Fiorentina,0,1,2017-03-19 14:00:00,Matías Vecino,Cross
+149359,85,MissedShots,0.879000015258789,0.500999984741211,0.0824289470911026,Khouma Babacar,a,1434,OpenPlay,2016,RightFoot,3623,Crotone,Fiorentina,0,1,2017-03-19 14:00:00,Maximiliano Olivera,Cross
+149360,89,Goal,0.9019999694824219,0.5690000152587891,0.3067941963672638,Nikola Kalinic,a,1425,OpenPlay,2016,RightFoot,3623,Crotone,Fiorentina,0,1,2017-03-19 14:00:00,Riccardo Saponara,Chipped
+149361,91,MissedShots,0.805,0.4540000152587891,0.061414267867803574,Riccardo Saponara,a,1313,OpenPlay,2016,RightFoot,3623,Crotone,Fiorentina,0,1,2017-03-19 14:00:00,Cristian Tello,Pass

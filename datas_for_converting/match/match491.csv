@@ -1,0 +1,33 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+113249,6,MissedShots,0.755,0.40099998474121096,0.019879866391420364,Paul Pogba,h,1740,OpenPlay,2016,RightFoot,491,Manchester United,Manchester City,1,2,2016-09-10 15:30:00,Henrikh Mkhitaryan,Pass
+113251,12,BlockedShot,0.7709999847412109,0.544000015258789,0.028963230550289154,Zlatan Ibrahimovic,h,1741,OpenPlay,2016,RightFoot,491,Manchester United,Manchester City,1,2,2016-09-10 15:30:00,Marouane Fellaini,Pass
+113253,25,BlockedShot,0.805,0.365,0.03212806582450867,Zlatan Ibrahimovic,h,1741,OpenPlay,2016,RightFoot,491,Manchester United,Manchester City,1,2,2016-09-10 15:30:00,,None
+113258,41,Goal,0.875,0.6409999847412109,0.0556044839322567,Zlatan Ibrahimovic,h,1741,SetPiece,2016,RightFoot,491,Manchester United,Manchester City,1,2,2016-09-10 15:30:00,,None
+113259,45,SavedShot,0.97,0.6040000152587891,0.16976606845855713,Zlatan Ibrahimovic,h,1741,OpenPlay,2016,Head,491,Manchester United,Manchester City,1,2,2016-09-10 15:30:00,Wayne Rooney,Cross
+113261,45,MissedShots,0.9219999694824219,0.500999984741211,0.10646097362041473,Zlatan Ibrahimovic,h,1741,OpenPlay,2016,LeftFoot,491,Manchester United,Manchester City,1,2,2016-09-10 15:30:00,Marcus Rashford,Cross
+113260,46,BlockedShot,0.8519999694824218,0.5570000076293945,0.35045573115348816,Zlatan Ibrahimovic,h,1741,OpenPlay,2016,LeftFoot,491,Manchester United,Manchester City,1,2,2016-09-10 15:30:00,Jesse Lingard,Pass
+113262,46,BlockedShot,0.7609999847412109,0.5929999923706055,0.022746404632925987,Marcus Rashford,h,556,OpenPlay,2016,RightFoot,491,Manchester United,Manchester City,1,2,2016-09-10 15:30:00,Paul Pogba,Pass
+113263,47,MissedShots,0.8190000152587891,0.5159999847412109,0.03776733949780464,Zlatan Ibrahimovic,h,1741,OpenPlay,2016,RightFoot,491,Manchester United,Manchester City,1,2,2016-09-10 15:30:00,Wayne Rooney,Cross
+113266,62,MissedShots,0.705999984741211,0.3920000076293945,0.00930935051292181,Wayne Rooney,h,629,OpenPlay,2016,RightFoot,491,Manchester United,Manchester City,1,2,2016-09-10 15:30:00,Ander Herrera,Chipped
+113268,65,MissedShots,0.8219999694824218,0.45799999237060546,0.05586393550038338,Zlatan Ibrahimovic,h,1741,OpenPlay,2016,RightFoot,491,Manchester United,Manchester City,1,2,2016-09-10 15:30:00,Marouane Fellaini,HeadPass
+113269,69,BlockedShot,0.865,0.6580000305175782,0.04646595939993858,Marcus Rashford,h,556,OpenPlay,2016,RightFoot,491,Manchester United,Manchester City,1,2,2016-09-10 15:30:00,Daley Blind,Chipped
+113279,91,MissedShots,0.7969999694824219,0.605999984741211,0.026725953444838524,Zlatan Ibrahimovic,h,1741,OpenPlay,2016,LeftFoot,491,Manchester United,Manchester City,1,2,2016-09-10 15:30:00,Marouane Fellaini,Pass
+113280,92,BlockedShot,0.8180000305175781,0.49700000762939456,0.04798884689807892,Zlatan Ibrahimovic,h,1741,OpenPlay,2016,RightFoot,491,Manchester United,Manchester City,1,2,2016-09-10 15:30:00,,None
+113250,9,MissedShots,0.794000015258789,0.7390000152587891,0.053100164979696274,Aleksandar Kolarov,a,621,DirectFreekick,2016,LeftFoot,491,Manchester United,Manchester City,1,2,2016-09-10 15:30:00,,Standard
+113252,14,Goal,0.8209999847412109,0.5459999847412109,0.3126935362815857,Kevin De Bruyne,a,447,OpenPlay,2016,RightFoot,491,Manchester United,Manchester City,1,2,2016-09-10 15:30:00,Kelechi Iheanacho,TakeOn
+113254,29,MissedShots,0.7659999847412109,0.3340000152587891,0.026315590366721153,Bacary Sagna,a,625,OpenPlay,2016,RightFoot,491,Manchester United,Manchester City,1,2,2016-09-10 15:30:00,,None
+113255,31,BlockedShot,0.8109999847412109,0.37400001525878906,0.05368625372648239,Raheem Sterling,a,618,OpenPlay,2016,LeftFoot,491,Manchester United,Manchester City,1,2,2016-09-10 15:30:00,Kevin De Bruyne,Pass
+113256,35,ShotOnPost,0.8859999847412109,0.2979999923706055,0.06514014303684235,Kevin De Bruyne,a,447,OpenPlay,2016,LeftFoot,491,Manchester United,Manchester City,1,2,2016-09-10 15:30:00,Kelechi Iheanacho,Dispossessed
+113257,35,Goal,0.95,0.5029999923706054,0.6606621146202087,Kelechi Iheanacho,a,620,OpenPlay,2016,LeftFoot,491,Manchester United,Manchester City,1,2,2016-09-10 15:30:00,,Rebound
+113264,57,BlockedShot,0.7709999847412109,0.580999984741211,0.03464196249842644,Nolito,a,1732,OpenPlay,2016,RightFoot,491,Manchester United,Manchester City,1,2,2016-09-10 15:30:00,Fernandinho,Pass
+113265,60,SavedShot,0.9419999694824219,0.695,0.07506860047578812,Kevin De Bruyne,a,447,OpenPlay,2016,LeftFoot,491,Manchester United,Manchester City,1,2,2016-09-10 15:30:00,Fernandinho,Pass
+113267,63,BlockedShot,0.8619999694824219,0.7480000305175781,0.037645164877176285,Aleksandar Kolarov,a,621,OpenPlay,2016,LeftFoot,491,Manchester United,Manchester City,1,2,2016-09-10 15:30:00,David Silva,Pass
+113270,71,SavedShot,0.8830000305175781,0.48200000762939454,0.05704902857542038,Fernandinho,a,614,FromCorner,2016,RightFoot,491,Manchester United,Manchester City,1,2,2016-09-10 15:30:00,Kevin De Bruyne,Cross
+113271,71,SavedShot,0.9819999694824219,0.41900001525878905,0.12361122667789459,Nicolás Otamendi,a,611,FromCorner,2016,RightFoot,491,Manchester United,Manchester City,1,2,2016-09-10 15:30:00,,Rebound
+113272,72,SavedShot,0.879000015258789,0.505,0.031655073165893555,Fernandinho,a,614,FromCorner,2016,Head,491,Manchester United,Manchester City,1,2,2016-09-10 15:30:00,Kevin De Bruyne,Cross
+113273,74,ShotOnPost,0.9169999694824219,0.34900001525878904,0.10284723341464996,Kevin De Bruyne,a,447,OpenPlay,2016,RightFoot,491,Manchester United,Manchester City,1,2,2016-09-10 15:30:00,Leroy Sané,Pass
+113274,75,MissedShots,0.8330000305175781,0.500999984741211,0.09015192836523056,David Silva,a,617,OpenPlay,2016,LeftFoot,491,Manchester United,Manchester City,1,2,2016-09-10 15:30:00,Kevin De Bruyne,Pass
+113275,78,MissedShots,0.7830000305175782,0.675,0.06423894315958023,Kevin De Bruyne,a,447,DirectFreekick,2016,RightFoot,491,Manchester United,Manchester City,1,2,2016-09-10 15:30:00,,Standard
+113276,80,MissedShots,0.87,0.715,0.052691973745822906,Nolito,a,1732,OpenPlay,2016,RightFoot,491,Manchester United,Manchester City,1,2,2016-09-10 15:30:00,Kevin De Bruyne,Pass
+113277,85,BlockedShot,0.8119999694824219,0.49900001525878906,0.0446697436273098,Fernandinho,a,614,OpenPlay,2016,RightFoot,491,Manchester United,Manchester City,1,2,2016-09-10 15:30:00,Kevin De Bruyne,TakeOn
+113278,88,MissedShots,0.9119999694824219,0.30100000381469727,0.051101963967084885,Kevin De Bruyne,a,447,SetPiece,2016,RightFoot,491,Manchester United,Manchester City,1,2,2016-09-10 15:30:00,Nicolás Otamendi,TakeOn

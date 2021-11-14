@@ -1,0 +1,26 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+222101,5,MissedShots,0.9,0.61,0.29431816935539246,Marco Asensio,h,2117,OpenPlay,2018,LeftFoot,9982,Real Madrid,Leganes,4,1,2018-09-01 18:45:00,Marcelo,Chipped
+222102,16,Goal,0.9,0.45799999237060546,0.3881218433380127,Gareth Bale,h,2251,OpenPlay,2018,RightFoot,9982,Real Madrid,Leganes,4,1,2018-09-01 18:45:00,Daniel Carvajal,HeadPass
+222103,21,BlockedShot,0.7430000305175781,0.48700000762939455,0.028982646763324738,Toni Kroos,h,2369,OpenPlay,2018,RightFoot,9982,Real Madrid,Leganes,4,1,2018-09-01 18:45:00,,None
+222104,21,BlockedShot,0.8190000152587891,0.43099998474121093,0.09025782346725464,Marco Asensio,h,2117,OpenPlay,2018,LeftFoot,9982,Real Madrid,Leganes,4,1,2018-09-01 18:45:00,Daniel Carvajal,TakeOn
+222107,31,SavedShot,0.9119999694824219,0.6179999923706054,0.02384687028825283,Gareth Bale,h,2251,OpenPlay,2018,Head,9982,Real Madrid,Leganes,4,1,2018-09-01 18:45:00,Daniel Carvajal,Aerial
+222109,40,MissedShots,0.730999984741211,0.355,0.019030198454856873,Gareth Bale,h,2251,OpenPlay,2018,LeftFoot,9982,Real Madrid,Leganes,4,1,2018-09-01 18:45:00,Toni Kroos,Pass
+222110,41,SavedShot,0.9640000152587891,0.34700000762939454,0.025589795783162117,Karim Benzema,h,2370,OpenPlay,2018,RightFoot,9982,Real Madrid,Leganes,4,1,2018-09-01 18:45:00,Marco Asensio,Cross
+222111,42,MissedShots,0.894000015258789,0.6,0.027287444099783897,Raphael Varane,h,2245,FromCorner,2018,Head,9982,Real Madrid,Leganes,4,1,2018-09-01 18:45:00,Toni Kroos,Cross
+222112,46,SavedShot,0.970999984741211,0.28,0.02803988941013813,Marco Asensio,h,2117,FromCorner,2018,LeftFoot,9982,Real Madrid,Leganes,4,1,2018-09-01 18:45:00,Marcelo,Cross
+222113,47,Goal,0.9109999847412109,0.4859999847412109,0.12392491102218628,Karim Benzema,h,2370,OpenPlay,2018,Head,9982,Real Madrid,Leganes,4,1,2018-09-01 18:45:00,Marco Asensio,Cross
+222115,57,BlockedShot,0.865,0.6370000076293946,0.08357018977403641,Karim Benzema,h,2370,OpenPlay,2018,RightFoot,9982,Real Madrid,Leganes,4,1,2018-09-01 18:45:00,,BallTouch
+222116,57,MissedShots,0.8209999847412109,0.5359999847412109,0.06051384657621384,Toni Kroos,h,2369,OpenPlay,2018,RightFoot,9982,Real Madrid,Leganes,4,1,2018-09-01 18:45:00,Daniel Carvajal,Chipped
+222117,60,Goal,0.84,0.41200000762939454,0.0765368863940239,Karim Benzema,h,2370,OpenPlay,2018,RightFoot,9982,Real Madrid,Leganes,4,1,2018-09-01 18:45:00,Luka Modric,Pass
+222119,65,Goal,0.885,0.5,0.7431496977806091,Sergio Ramos,h,2246,Penalty,2018,RightFoot,9982,Real Madrid,Leganes,4,1,2018-09-01 18:45:00,,Standard
+222121,71,MissedShots,0.875,0.325,0.04696078598499298,Gareth Bale,h,2251,OpenPlay,2018,LeftFoot,9982,Real Madrid,Leganes,4,1,2018-09-01 18:45:00,Marco Asensio,Cross
+222123,76,MissedShots,0.8490000152587891,0.445,0.11100171506404877,Gareth Bale,h,2251,OpenPlay,2018,LeftFoot,9982,Real Madrid,Leganes,4,1,2018-09-01 18:45:00,Marco Asensio,Pass
+222124,92,SavedShot,0.899000015258789,0.47,0.13978269696235657,Isco,h,2255,OpenPlay,2018,RightFoot,9982,Real Madrid,Leganes,4,1,2018-09-01 18:45:00,Lucas Vázquez,Pass
+222105,23,Goal,0.885,0.5,0.7432776093482971,Guido Carrillo,a,3424,Penalty,2018,RightFoot,9982,Real Madrid,Leganes,4,1,2018-09-01 18:45:00,,Standard
+222106,27,SavedShot,0.76,0.524000015258789,0.05520127713680267,Michael Santos,a,5145,OpenPlay,2018,RightFoot,9982,Real Madrid,Leganes,4,1,2018-09-01 18:45:00,,BallRecovery
+222108,37,BlockedShot,0.7169999694824218,0.42700000762939455,0.015671774744987488,Nabil El Zhar,a,2357,OpenPlay,2018,RightFoot,9982,Real Madrid,Leganes,4,1,2018-09-01 18:45:00,Eraso,Pass
+222114,53,BlockedShot,0.87,0.5479999923706055,0.013577896170318127,Michael Santos,a,5145,FromCorner,2018,Head,9982,Real Madrid,Leganes,4,1,2018-09-01 18:45:00,Eraso,Aerial
+222118,63,MissedShots,0.9080000305175782,0.41900001525878905,0.0754600241780281,Michael Santos,a,5145,OpenPlay,2018,Head,9982,Real Madrid,Leganes,4,1,2018-09-01 18:45:00,Jonathan Silva,Cross
+222120,67,SavedShot,0.7919999694824219,0.7,0.02167796529829502,Eraso,a,2409,OpenPlay,2018,RightFoot,9982,Real Madrid,Leganes,4,1,2018-09-01 18:45:00,Jonathan Silva,Pass
+222122,74,BlockedShot,0.7619999694824219,0.33,0.013841092586517334,Youssef En-Nesyri,a,5169,OpenPlay,2018,LeftFoot,9982,Real Madrid,Leganes,4,1,2018-09-01 18:45:00,Mikel Vesga,Pass
+222125,92,MissedShots,0.9130000305175782,0.5159999847412109,0.06286248564720154,Youssef En-Nesyri,a,5169,OpenPlay,2018,Head,9982,Real Madrid,Leganes,4,1,2018-09-01 18:45:00,Jonathan Silva,Aerial

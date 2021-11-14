@@ -1,0 +1,26 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+221564,5,BlockedShot,0.7169999694824218,0.5129999923706055,0.012578865513205528,André Hahn,h,412,OpenPlay,2018,LeftFoot,10349,Augsburg,Borussia M.Gladbach,1,1,2018-09-01 13:30:00,,None
+221565,5,MissedShots,0.8130000305175781,0.47299999237060547,0.04229727014899254,Marco Richter,h,6357,OpenPlay,2018,RightFoot,10349,Augsburg,Borussia M.Gladbach,1,1,2018-09-01 13:30:00,Michael Gregoritsch,Rebound
+221566,11,Goal,0.9119999694824219,0.534000015258789,0.338941752910614,Michael Gregoritsch,h,171,OpenPlay,2018,LeftFoot,10349,Augsburg,Borussia M.Gladbach,1,1,2018-09-01 13:30:00,Philipp Max,Cross
+221568,16,SavedShot,0.935,0.674000015258789,0.10028085112571716,Marco Richter,h,6357,OpenPlay,2018,LeftFoot,10349,Augsburg,Borussia M.Gladbach,1,1,2018-09-01 13:30:00,,TakeOn
+221569,20,MissedShots,0.8719999694824219,0.7469999694824219,0.03701242059469223,Michael Gregoritsch,h,171,OpenPlay,2018,LeftFoot,10349,Augsburg,Borussia M.Gladbach,1,1,2018-09-01 13:30:00,Philipp Max,Pass
+221570,43,BlockedShot,0.8690000152587891,0.415,0.06439564377069473,André Hahn,h,412,FromCorner,2018,RightFoot,10349,Augsburg,Borussia M.Gladbach,1,1,2018-09-01 13:30:00,Martin Hinteregger,None
+221571,44,MissedShots,0.9219999694824219,0.47200000762939454,0.10602500289678574,Michael Gregoritsch,h,171,FromCorner,2018,Head,10349,Augsburg,Borussia M.Gladbach,1,1,2018-09-01 13:30:00,Jonathan Schmid,Cross
+221572,46,SavedShot,0.7580000305175781,0.5870000076293945,0.032331615686416626,Marco Richter,h,6357,OpenPlay,2018,RightFoot,10349,Augsburg,Borussia M.Gladbach,1,1,2018-09-01 13:30:00,André Hahn,BallRecovery
+221573,47,SavedShot,0.9719999694824218,0.475,0.6193940043449402,Michael Gregoritsch,h,171,OpenPlay,2018,LeftFoot,10349,Augsburg,Borussia M.Gladbach,1,1,2018-09-01 13:30:00,,Foul
+221574,49,BlockedShot,0.86,0.4329999923706055,0.07203658670186996,Michael Gregoritsch,h,171,OpenPlay,2018,RightFoot,10349,Augsburg,Borussia M.Gladbach,1,1,2018-09-01 13:30:00,Rani Khedira,Cross
+221575,54,BlockedShot,0.7719999694824219,0.395,0.03680964559316635,Ja-Cheol Koo,h,271,OpenPlay,2018,LeftFoot,10349,Augsburg,Borussia M.Gladbach,1,1,2018-09-01 13:30:00,,None
+221576,58,MissedShots,0.9169999694824219,0.545,0.08614102751016617,Michael Gregoritsch,h,171,FromCorner,2018,Head,10349,Augsburg,Borussia M.Gladbach,1,1,2018-09-01 13:30:00,Jonathan Schmid,Cross
+221577,59,SavedShot,0.7430000305175781,0.8019999694824219,0.013419756665825844,Philipp Max,h,267,OpenPlay,2018,LeftFoot,10349,Augsburg,Borussia M.Gladbach,1,1,2018-09-01 13:30:00,,Dispossessed
+221578,65,SavedShot,0.899000015258789,0.544000015258789,0.10570400953292847,Michael Gregoritsch,h,171,OpenPlay,2018,Head,10349,Augsburg,Borussia M.Gladbach,1,1,2018-09-01 13:30:00,Philipp Max,Cross
+221583,82,SavedShot,0.855,0.23100000381469726,0.024412164464592934,Caiuby,h,272,OpenPlay,2018,RightFoot,10349,Augsburg,Borussia M.Gladbach,1,1,2018-09-01 13:30:00,Jonathan Schmid,BallTouch
+221584,86,BlockedShot,0.7380000305175781,0.38799999237060545,0.02059030719101429,Caiuby,h,272,OpenPlay,2018,LeftFoot,10349,Augsburg,Borussia M.Gladbach,1,1,2018-09-01 13:30:00,Jonathan Schmid,Pass
+221585,91,BlockedShot,0.924000015258789,0.425,0.024469077587127686,Martin Hinteregger,h,2668,FromCorner,2018,Head,10349,Augsburg,Borussia M.Gladbach,1,1,2018-09-01 13:30:00,Philipp Max,Aerial
+221586,92,MissedShots,0.9159999847412109,0.40900001525878904,0.01579589769244194,Caiuby,h,272,FromCorner,2018,Head,10349,Augsburg,Borussia M.Gladbach,1,1,2018-09-01 13:30:00,Philipp Max,Aerial
+221562,1,BlockedShot,0.9069999694824219,0.6329999923706054,0.06818349659442902,Thorgan Hazard,a,213,SetPiece,2018,LeftFoot,10349,Augsburg,Borussia M.Gladbach,1,1,2018-09-01 13:30:00,Tobias Strobl,Chipped
+221563,1,BlockedShot,0.8530000305175781,0.40299999237060546,0.04900915548205376,Jonas Hofmann,a,320,FromCorner,2018,RightFoot,10349,Augsburg,Borussia M.Gladbach,1,1,2018-09-01 13:30:00,Thorgan Hazard,Pass
+221567,16,BlockedShot,0.9469999694824218,0.485,0.5815062522888184,Fabian Johnson,a,327,OpenPlay,2018,LeftFoot,10349,Augsburg,Borussia M.Gladbach,1,1,2018-09-01 13:30:00,Thorgan Hazard,Pass
+221579,66,BlockedShot,0.9,0.43900001525878907,0.07989002764225006,Thorgan Hazard,a,213,OpenPlay,2018,RightFoot,10349,Augsburg,Borussia M.Gladbach,1,1,2018-09-01 13:30:00,Fabian Johnson,Cross
+221580,67,Goal,0.9690000152587891,0.435,0.41037240624427795,Alassane Pléa,a,3310,FromCorner,2018,Head,10349,Augsburg,Borussia M.Gladbach,1,1,2018-09-01 13:30:00,Tobias Strobl,Chipped
+221581,71,MissedShots,0.73,0.47900001525878905,0.022525327280163765,Thorgan Hazard,a,213,OpenPlay,2018,LeftFoot,10349,Augsburg,Borussia M.Gladbach,1,1,2018-09-01 13:30:00,Jonas Hofmann,Pass
+221582,81,BlockedShot,0.86,0.52,0.10040100663900375,Florian Neuhaus,a,7065,OpenPlay,2018,RightFoot,10349,Augsburg,Borussia M.Gladbach,1,1,2018-09-01 13:30:00,Alassane Pléa,Pass

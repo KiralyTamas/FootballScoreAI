@@ -1,0 +1,37 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+409599,15,MissedShots,0.7269999694824218,0.5590000152587891,0.011164003983139992,Marco Richter,h,6357,SetPiece,2020,LeftFoot,15362,Augsburg,Borussia M.Gladbach,3,1,2021-03-12 19:30:00,,None
+409602,28,MissedShots,0.8480000305175781,0.4829999923706055,0.07099692523479462,László Bénes,h,5258,OpenPlay,2020,LeftFoot,15362,Augsburg,Borussia M.Gladbach,3,1,2021-03-12 19:30:00,,None
+409604,35,MissedShots,0.7019999694824218,0.5259999847412109,0.013325469568371773,Felix Uduokhai,h,6100,OpenPlay,2020,LeftFoot,15362,Augsburg,Borussia M.Gladbach,3,1,2021-03-12 19:30:00,Marco Richter,Pass
+409605,36,BlockedShot,0.955999984741211,0.5609999847412109,0.1428454965353012,André Hahn,h,412,OpenPlay,2020,LeftFoot,15362,Augsburg,Borussia M.Gladbach,3,1,2021-03-12 19:30:00,Felix Uduokhai,Pass
+409609,51,Goal,0.97,0.5570000076293945,0.1329519897699356,Ruben Vargas,h,7810,FromCorner,2020,Head,15362,Augsburg,Borussia M.Gladbach,3,1,2021-03-12 19:30:00,Daniel Caligiuri,Cross
+409615,65,MissedShots,0.8869999694824219,0.335,0.07562553137540817,Marco Richter,h,6357,OpenPlay,2020,RightFoot,15362,Augsburg,Borussia M.Gladbach,3,1,2021-03-12 19:30:00,Daniel Caligiuri,Pass
+409616,65,MissedShots,0.9340000152587891,0.67,0.07947104424238205,Ruben Vargas,h,7810,OpenPlay,2020,LeftFoot,15362,Augsburg,Borussia M.Gladbach,3,1,2021-03-12 19:30:00,Tobias Strobl,Chipped
+409624,73,MissedShots,0.904000015258789,0.65,0.10087471455335617,Marco Richter,h,6357,OpenPlay,2020,LeftFoot,15362,Augsburg,Borussia M.Gladbach,3,1,2021-03-12 19:30:00,Ruben Vargas,Pass
+409625,75,Goal,0.9169999694824219,0.5770000076293945,0.13246938586235046,Marco Richter,h,6357,OpenPlay,2020,RightFoot,15362,Augsburg,Borussia M.Gladbach,3,1,2021-03-12 19:30:00,,TakeOn
+409629,88,Goal,0.9019999694824219,0.610999984741211,0.3888406753540039,André Hahn,h,412,OpenPlay,2020,RightFoot,15362,Augsburg,Borussia M.Gladbach,3,1,2021-03-12 19:30:00,Marco Richter,Pass
+409595,2,MissedShots,0.7809999847412109,0.3770000076293945,0.02702500857412815,Lars Stindl,a,208,OpenPlay,2020,RightFoot,15362,Augsburg,Borussia M.Gladbach,3,1,2021-03-12 19:30:00,Valentino Lazaro,Pass
+409596,4,SavedShot,0.8719999694824219,0.3729999923706055,0.06703194230794907,Florian Neuhaus,a,7065,OpenPlay,2020,RightFoot,15362,Augsburg,Borussia M.Gladbach,3,1,2021-03-12 19:30:00,Marcus Thuram,HeadPass
+409597,12,MissedShots,0.9590000152587891,0.7340000152587891,0.04090944677591324,Marcus Thuram,a,5992,OpenPlay,2020,LeftFoot,15362,Augsburg,Borussia M.Gladbach,3,1,2021-03-12 19:30:00,Alassane Pléa,Pass
+409598,14,MissedShots,0.899000015258789,0.68,0.05966874584555626,Lars Stindl,a,208,OpenPlay,2020,RightFoot,15362,Augsburg,Borussia M.Gladbach,3,1,2021-03-12 19:30:00,Alassane Pléa,Chipped
+409600,17,BlockedShot,0.905,0.51,0.027783554047346115,Matthias Ginter,a,315,FromCorner,2020,Head,15362,Augsburg,Borussia M.Gladbach,3,1,2021-03-12 19:30:00,Jonas Hofmann,Aerial
+409601,18,BlockedShot,0.8590000152587891,0.38799999237060545,0.10425851494073868,Valentino Lazaro,a,6352,OpenPlay,2020,RightFoot,15362,Augsburg,Borussia M.Gladbach,3,1,2021-03-12 19:30:00,Marcus Thuram,Pass
+409603,31,MissedShots,0.9030000305175782,0.6270000076293946,0.0183420330286026,Stefan Lainer,a,7831,FromCorner,2020,Head,15362,Augsburg,Borussia M.Gladbach,3,1,2021-03-12 19:30:00,Valentino Lazaro,Chipped
+409606,37,MissedShots,0.885,0.5,0.75777667760849,Lars Stindl,a,208,Penalty,2020,RightFoot,15362,Augsburg,Borussia M.Gladbach,3,1,2021-03-12 19:30:00,,Standard
+409607,39,MissedShots,0.8680000305175781,0.39099998474121095,0.08403872698545456,Lars Stindl,a,208,OpenPlay,2020,RightFoot,15362,Augsburg,Borussia M.Gladbach,3,1,2021-03-12 19:30:00,Jonas Hofmann,Pass
+409608,41,SavedShot,0.9269999694824219,0.5879999923706055,0.43731972575187683,Valentino Lazaro,a,6352,OpenPlay,2020,RightFoot,15362,Augsburg,Borussia M.Gladbach,3,1,2021-03-12 19:30:00,,None
+409610,52,SavedShot,0.879000015258789,0.674000015258789,0.05065359175205231,Marcus Thuram,a,5992,OpenPlay,2020,RightFoot,15362,Augsburg,Borussia M.Gladbach,3,1,2021-03-12 19:30:00,Lars Stindl,Pass
+409611,52,MissedShots,0.9269999694824219,0.42700000762939455,0.03195942938327789,Valentino Lazaro,a,6352,OpenPlay,2020,Head,15362,Augsburg,Borussia M.Gladbach,3,1,2021-03-12 19:30:00,,Rebound
+409612,59,MissedShots,0.9080000305175782,0.49599998474121093,0.03821016848087311,Marcus Thuram,a,5992,FromCorner,2020,Head,15362,Augsburg,Borussia M.Gladbach,3,1,2021-03-12 19:30:00,,Aerial
+409613,62,SavedShot,0.7709999847412109,0.7190000152587891,0.018800072371959686,Marcus Thuram,a,5992,OpenPlay,2020,RightFoot,15362,Augsburg,Borussia M.Gladbach,3,1,2021-03-12 19:30:00,Florian Neuhaus,Pass
+409614,64,MissedShots,0.7680000305175781,0.649000015258789,0.02138521336019039,Alassane Pléa,a,3310,OpenPlay,2020,RightFoot,15362,Augsburg,Borussia M.Gladbach,3,1,2021-03-12 19:30:00,Lars Stindl,Pass
+409617,67,MissedShots,0.8669999694824219,0.73,0.03163434565067291,Oscar Wendt,a,206,OpenPlay,2020,LeftFoot,15362,Augsburg,Borussia M.Gladbach,3,1,2021-03-12 19:30:00,,None
+409618,67,Goal,0.85,0.54,0.08173476159572601,Florian Neuhaus,a,7065,OpenPlay,2020,RightFoot,15362,Augsburg,Borussia M.Gladbach,3,1,2021-03-12 19:30:00,Oscar Wendt,Pass
+409619,69,MissedShots,0.675,0.3160000038146973,0.011881479993462563,Jonas Hofmann,a,320,OpenPlay,2020,RightFoot,15362,Augsburg,Borussia M.Gladbach,3,1,2021-03-12 19:30:00,Stefan Lainer,Pass
+409620,70,BlockedShot,0.925,0.6459999847412109,0.0711425244808197,Alassane Pléa,a,3310,OpenPlay,2020,LeftFoot,15362,Augsburg,Borussia M.Gladbach,3,1,2021-03-12 19:30:00,Marcus Thuram,Chipped
+409621,71,SavedShot,0.8730000305175781,0.3529999923706055,0.05005662888288498,Florian Neuhaus,a,7065,FromCorner,2020,RightFoot,15362,Augsburg,Borussia M.Gladbach,3,1,2021-03-12 19:30:00,Matthias Ginter,Pass
+409622,71,MissedShots,0.9169999694824219,0.5329999923706055,0.09336213022470474,Matthias Ginter,a,315,FromCorner,2020,Head,15362,Augsburg,Borussia M.Gladbach,3,1,2021-03-12 19:30:00,Jonas Hofmann,Cross
+409623,73,SavedShot,0.9690000152587891,0.6270000076293946,0.028109855949878693,Lars Stindl,a,208,SetPiece,2020,Head,15362,Augsburg,Borussia M.Gladbach,3,1,2021-03-12 19:30:00,Oscar Wendt,Cross
+409626,82,BlockedShot,0.8819999694824219,0.664000015258789,0.03177208453416824,Alassane Pléa,a,3310,OpenPlay,2020,RightFoot,15362,Augsburg,Borussia M.Gladbach,3,1,2021-03-12 19:30:00,Stefan Lainer,Cross
+409627,83,BlockedShot,0.8219999694824218,0.6630000305175782,0.0308974701911211,Alassane Pléa,a,3310,OpenPlay,2020,RightFoot,15362,Augsburg,Borussia M.Gladbach,3,1,2021-03-12 19:30:00,Lars Stindl,Pass
+409628,83,MissedShots,0.8109999847412109,0.509000015258789,0.05382881313562393,Florian Neuhaus,a,7065,OpenPlay,2020,RightFoot,15362,Augsburg,Borussia M.Gladbach,3,1,2021-03-12 19:30:00,Alassane Pléa,Pass
+409630,89,MissedShots,0.885,0.5590000152587891,0.03809778019785881,Florian Neuhaus,a,7065,OpenPlay,2020,Head,15362,Augsburg,Borussia M.Gladbach,3,1,2021-03-12 19:30:00,Breel Embolo,Cross

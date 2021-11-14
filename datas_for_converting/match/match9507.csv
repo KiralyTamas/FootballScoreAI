@@ -1,0 +1,11 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+290914,29,Goal,0.8680000305175781,0.585,0.10785716027021408,Aaron Ramsey,h,504,OpenPlay,2018,LeftFoot,9507,Arsenal,Newcastle United,2,0,2019-04-01 20:00:00,,TakeOn
+290916,37,BlockedShot,0.8090000152587891,0.3820000076293945,0.044220488518476486,Aaron Ramsey,h,504,OpenPlay,2018,RightFoot,9507,Arsenal,Newcastle United,2,0,2019-04-01 20:00:00,Alexandre Lacazette,Pass
+290917,45,BlockedShot,0.8680000305175781,0.53,0.3617500066757202,Alexandre Lacazette,h,3277,OpenPlay,2018,RightFoot,9507,Arsenal,Newcastle United,2,0,2019-04-01 20:00:00,Sead Kolasinac,Pass
+290918,63,MissedShots,0.9130000305175782,0.5570000076293945,0.023427821695804596,Sokratis,h,371,FromCorner,2018,Head,9507,Arsenal,Newcastle United,2,0,2019-04-01 20:00:00,Mesut Özil,Aerial
+290919,72,SavedShot,0.8619999694824219,0.34599998474121096,0.06941953301429749,Pierre-Emerick Aubameyang,h,318,OpenPlay,2018,RightFoot,9507,Arsenal,Newcastle United,2,0,2019-04-01 20:00:00,Mesut Özil,Pass
+290921,82,Goal,0.835999984741211,0.5070000076293946,0.31126153469085693,Alexandre Lacazette,h,3277,OpenPlay,2018,RightFoot,9507,Arsenal,Newcastle United,2,0,2019-04-01 20:00:00,Pierre-Emerick Aubameyang,HeadPass
+290923,92,BlockedShot,0.879000015258789,0.4209999847412109,0.12664197385311127,Henrikh Mkhitaryan,h,317,OpenPlay,2018,LeftFoot,9507,Arsenal,Newcastle United,2,0,2019-04-01 20:00:00,Alexandre Lacazette,Pass
+290915,30,SavedShot,0.9169999694824219,0.7269999694824218,0.019328579306602478,Salomón Rondón,a,813,OpenPlay,2018,RightFoot,9507,Arsenal,Newcastle United,2,0,2019-04-01 20:00:00,Matt Ritchie,Aerial
+290920,79,MissedShots,0.754000015258789,0.40400001525878904,0.019153015688061714,Ki Sung-yueng,a,723,OpenPlay,2018,RightFoot,9507,Arsenal,Newcastle United,2,0,2019-04-01 20:00:00,Salomón Rondón,Pass
+290922,83,MissedShots,0.49900001525878906,0.5,0.005662949755787849,Salomón Rondón,a,813,OpenPlay,2018,RightFoot,9507,Arsenal,Newcastle United,2,0,2019-04-01 20:00:00,,BlockedPass

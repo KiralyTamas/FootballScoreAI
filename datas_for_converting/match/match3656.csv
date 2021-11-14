@@ -1,0 +1,30 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+228986,2,MissedShots,0.8130000305175781,0.44299999237060544,0.0188303105533123,Federico Chiesa,h,1433,OpenPlay,2016,RightFoot,3656,Fiorentina,Empoli,1,2,2017-04-15 14:00:00,,Aerial
+228987,5,SavedShot,0.8630000305175781,0.345,0.05718404799699783,Federico Chiesa,h,1433,OpenPlay,2016,RightFoot,3656,Fiorentina,Empoli,1,2,2017-04-15 14:00:00,,TakeOn
+228988,5,MissedShots,0.9369999694824219,0.5459999847412109,0.5152154564857483,Cristian Tello,h,1421,OpenPlay,2016,RightFoot,3656,Fiorentina,Empoli,1,2,2017-04-15 14:00:00,,Rebound
+228989,6,SavedShot,0.7709999847412109,0.5979999923706054,0.014536049216985703,Borja Valero,h,1422,FromCorner,2016,RightFoot,3656,Fiorentina,Empoli,1,2,2017-04-15 14:00:00,,Aerial
+228993,16,MissedShots,0.7559999847412109,0.48,0.026128390803933144,Matías Vecino,h,1423,OpenPlay,2016,RightFoot,3656,Fiorentina,Empoli,1,2,2017-04-15 14:00:00,Riccardo Saponara,Pass
+228994,17,MissedShots,0.9309999847412109,0.2560000038146973,0.03723584860563278,Nikola Kalinic,h,1425,OpenPlay,2016,RightFoot,3656,Fiorentina,Empoli,1,2,2017-04-15 14:00:00,Riccardo Saponara,Chipped
+228995,29,SavedShot,0.7980000305175782,0.34900001525878904,0.02768697962164879,Matías Vecino,h,1423,OpenPlay,2016,RightFoot,3656,Fiorentina,Empoli,1,2,2017-04-15 14:00:00,,None
+228999,37,BlockedShot,0.8009999847412109,0.7030000305175781,0.020756546407938004,Federico Bernardeschi,h,1424,OpenPlay,2016,LeftFoot,3656,Fiorentina,Empoli,1,2,2017-04-15 14:00:00,Cristian Tello,Pass
+229000,42,MissedShots,0.84,0.7169999694824218,0.027432242408394814,Davide Astori,h,1419,OpenPlay,2016,LeftFoot,3656,Fiorentina,Empoli,1,2,2017-04-15 14:00:00,,None
+229002,45,SavedShot,0.749000015258789,0.4540000152587891,0.019830428063869476,Federico Bernardeschi,h,1424,OpenPlay,2016,LeftFoot,3656,Fiorentina,Empoli,1,2,2017-04-15 14:00:00,Federico Chiesa,Pass
+229004,51,SavedShot,0.8880000305175781,0.5370000076293945,0.11021938920021057,Federico Bernardeschi,h,1424,OpenPlay,2016,LeftFoot,3656,Fiorentina,Empoli,1,2,2017-04-15 14:00:00,Cristian Tello,Pass
+229005,53,MissedShots,0.9,0.38,0.07447677105665207,Federico Chiesa,h,1433,SetPiece,2016,RightFoot,3656,Fiorentina,Empoli,1,2,2017-04-15 14:00:00,Federico Bernardeschi,Chipped
+229006,59,SavedShot,0.779000015258789,0.63,0.019103193655610085,Cristian Tello,h,1421,OpenPlay,2016,RightFoot,3656,Fiorentina,Empoli,1,2,2017-04-15 14:00:00,Borja Valero,Chipped
+229007,62,MissedShots,0.7809999847412109,0.27600000381469725,0.019253766164183617,Josip Ilicic,h,1426,OpenPlay,2016,RightFoot,3656,Fiorentina,Empoli,1,2,2017-04-15 14:00:00,Matías Vecino,Pass
+229008,63,Goal,0.9159999847412109,0.5720000076293945,0.12071056663990021,Cristian Tello,h,1421,OpenPlay,2016,RightFoot,3656,Fiorentina,Empoli,1,2,2017-04-15 14:00:00,Borja Valero,Pass
+229010,70,MissedShots,0.8169999694824219,0.7080000305175781,0.021548384800553322,Josip Ilicic,h,1426,OpenPlay,2016,LeftFoot,3656,Fiorentina,Empoli,1,2,2017-04-15 14:00:00,Cristian Tello,Pass
+229011,71,MissedShots,0.9459999847412109,0.30100000381469727,0.05085928738117218,Federico Chiesa,h,1433,OpenPlay,2016,RightFoot,3656,Fiorentina,Empoli,1,2,2017-04-15 14:00:00,,None
+229012,73,ShotOnPost,0.7190000152587891,0.30700000762939456,0.03460641950368881,Josip Ilicic,h,1426,DirectFreekick,2016,LeftFoot,3656,Fiorentina,Empoli,1,2,2017-04-15 14:00:00,,Standard
+228990,7,BlockedShot,0.9209999847412109,0.34900001525878904,0.06187416613101959,Rade Krunic,a,1311,OpenPlay,2016,RightFoot,3656,Fiorentina,Empoli,1,2,2017-04-15 14:00:00,Daniele Croce,Chipped
+228991,8,BlockedShot,0.885,0.48,0.041346143931150436,Giuseppe Bellusci,a,1308,FromCorner,2016,Head,3656,Fiorentina,Empoli,1,2,2017-04-15 14:00:00,Omar El Kaddouri,Cross
+228992,8,MissedShots,0.895,0.45099998474121095,0.10344801843166351,Mame Thiam,a,4938,FromCorner,2016,LeftFoot,3656,Fiorentina,Empoli,1,2,2017-04-15 14:00:00,Levan Mchedlidze,Rebound
+228996,30,MissedShots,0.765,0.8040000152587891,0.008981937542557716,Levan Mchedlidze,a,1319,OpenPlay,2016,LeftFoot,3656,Fiorentina,Empoli,1,2,2017-04-15 14:00:00,,None
+228997,33,MissedShots,0.91,0.45,0.06688886135816574,Levan Mchedlidze,a,1319,FromCorner,2016,Head,3656,Fiorentina,Empoli,1,2,2017-04-15 14:00:00,Omar El Kaddouri,Cross
+228998,36,Goal,0.925,0.524000015258789,0.5311778783798218,Omar El Kaddouri,a,1385,OpenPlay,2016,LeftFoot,3656,Fiorentina,Empoli,1,2,2017-04-15 14:00:00,,None
+229001,44,BlockedShot,0.764000015258789,0.3320000076293945,0.024807900190353394,Rade Krunic,a,1311,OpenPlay,2016,RightFoot,3656,Fiorentina,Empoli,1,2,2017-04-15 14:00:00,Mame Thiam,Pass
+229003,46,SavedShot,0.860999984741211,0.735,0.03770343214273453,Daniele Croce,a,1312,OpenPlay,2016,RightFoot,3656,Fiorentina,Empoli,1,2,2017-04-15 14:00:00,Mame Thiam,Pass
+229009,69,SavedShot,0.9269999694824219,0.4279999923706055,0.0729140192270279,Mame Thiam,a,4938,FromCorner,2016,Head,3656,Fiorentina,Empoli,1,2,2017-04-15 14:00:00,Omar El Kaddouri,Cross
+229013,85,BlockedShot,0.899000015258789,0.40299999237060546,0.3673754334449768,Mame Thiam,a,4938,OpenPlay,2016,LeftFoot,3656,Fiorentina,Empoli,1,2,2017-04-15 14:00:00,Marco Zambelli,Throughball
+229014,92,Goal,0.885,0.5,0.7612988352775574,Manuel Pasqual,a,1309,Penalty,2016,LeftFoot,3656,Fiorentina,Empoli,1,2,2017-04-15 14:00:00,,Standard

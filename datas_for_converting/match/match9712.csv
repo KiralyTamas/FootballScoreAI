@@ -1,0 +1,22 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+253802,9,Goal,0.94,0.46599998474121096,0.5851937532424927,Dennis Praet,h,1234,OpenPlay,2018,RightFoot,9712,Sampdoria,Bologna,4,1,2018-12-01 19:30:00,Gianluca Caprari,Pass
+253805,24,Goal,0.8419999694824218,0.46799999237060547,0.07375159114599228,Fabio Quagliarella,h,1230,OpenPlay,2018,RightFoot,9712,Sampdoria,Bologna,4,1,2018-12-01 19:30:00,,BlockedPass
+253807,39,Goal,0.8419999694824218,0.6370000076293946,0.13170252740383148,Gastón Ramírez,h,952,OpenPlay,2018,LeftFoot,9712,Sampdoria,Bologna,4,1,2018-12-01 19:30:00,Gianluca Caprari,Throughball
+253808,42,MissedShots,0.615,0.4929999923706055,0.010234776884317398,Fabio Quagliarella,h,1230,OpenPlay,2018,RightFoot,9712,Sampdoria,Bologna,4,1,2018-12-01 19:30:00,Gianluca Caprari,None
+253809,44,MissedShots,0.8530000305175781,0.515,0.10004604607820511,Gianluca Caprari,h,1170,OpenPlay,2018,RightFoot,9712,Sampdoria,Bologna,4,1,2018-12-01 19:30:00,Fabio Quagliarella,Cross
+253810,47,BlockedShot,0.7759999847412109,0.46599998474121096,0.03183078020811081,Dennis Praet,h,1234,OpenPlay,2018,RightFoot,9712,Sampdoria,Bologna,4,1,2018-12-01 19:30:00,Fabio Quagliarella,Pass
+253814,67,Goal,0.92,0.48200000762939454,0.553860604763031,Fabio Quagliarella,h,1230,OpenPlay,2018,LeftFoot,9712,Sampdoria,Bologna,4,1,2018-12-01 19:30:00,Karol Linetty,Pass
+253816,79,SavedShot,0.754000015258789,0.47200000762939454,0.022851504385471344,Gastón Ramírez,h,952,OpenPlay,2018,LeftFoot,9712,Sampdoria,Bologna,4,1,2018-12-01 19:30:00,,None
+253818,85,SavedShot,0.8009999847412109,0.5920000076293945,0.06159588694572449,Fabio Quagliarella,h,1230,OpenPlay,2018,RightFoot,9712,Sampdoria,Bologna,4,1,2018-12-01 19:30:00,Gregoire Defrel,Pass
+253821,92,BlockedShot,0.865,0.580999984741211,0.10053344070911407,Jakub Jankto,h,1146,OpenPlay,2018,LeftFoot,9712,Sampdoria,Bologna,4,1,2018-12-01 19:30:00,Gastón Ramírez,BallTouch
+253801,7,BlockedShot,0.7759999847412109,0.34900001525878904,0.023703359067440033,Federico Mattiello,a,1546,OpenPlay,2018,LeftFoot,9712,Sampdoria,Bologna,4,1,2018-12-01 19:30:00,Mattias Svanberg,Pass
+253803,15,SavedShot,0.875,0.5629999923706055,0.06614065170288086,Federico Santander,a,6972,OpenPlay,2018,LeftFoot,9712,Sampdoria,Bologna,4,1,2018-12-01 19:30:00,,BallTouch
+253804,16,Goal,0.9730000305175781,0.524000015258789,0.5956984162330627,Andrea Poli,a,1117,FromCorner,2018,RightFoot,9712,Sampdoria,Bologna,4,1,2018-12-01 19:30:00,Mattias Svanberg,Cross
+253806,37,BlockedShot,0.7580000305175781,0.7769999694824219,0.013710820116102695,Ladislav Krejci,a,1447,OpenPlay,2018,LeftFoot,9712,Sampdoria,Bologna,4,1,2018-12-01 19:30:00,Diego Falcinelli,Pass
+253811,55,MissedShots,0.895,0.4420000076293945,0.04231063276529312,Diego Falcinelli,a,1360,OpenPlay,2018,Head,9712,Sampdoria,Bologna,4,1,2018-12-01 19:30:00,Erick Pulgar,Aerial
+253812,59,MissedShots,0.855999984741211,0.5709999847412109,0.013399622403085232,Federico Santander,a,6972,OpenPlay,2018,Head,9712,Sampdoria,Bologna,4,1,2018-12-01 19:30:00,Federico Mattiello,Cross
+253813,63,MissedShots,0.9209999847412109,0.615,0.04194914177060127,Ladislav Krejci,a,1447,OpenPlay,2018,LeftFoot,9712,Sampdoria,Bologna,4,1,2018-12-01 19:30:00,Federico Santander,HeadPass
+253815,73,MissedShots,0.8119999694824219,0.6419999694824219,0.026976384222507477,Mattias Svanberg,a,6974,OpenPlay,2018,RightFoot,9712,Sampdoria,Bologna,4,1,2018-12-01 19:30:00,,None
+253817,82,MissedShots,0.9669999694824218,0.6020000076293945,0.043759625405073166,Mattias Svanberg,a,6974,OpenPlay,2018,Head,9712,Sampdoria,Bologna,4,1,2018-12-01 19:30:00,Federico Mattiello,Aerial
+253819,85,SavedShot,0.9130000305175782,0.4909999847412109,0.0622844435274601,Federico Santander,a,6972,OpenPlay,2018,Head,9712,Sampdoria,Bologna,4,1,2018-12-01 19:30:00,Rodrigo Palacio,Aerial
+253820,89,BlockedShot,0.7609999847412109,0.6419999694824219,0.058450281620025635,Federico Santander,a,6972,DirectFreekick,2018,RightFoot,9712,Sampdoria,Bologna,4,1,2018-12-01 19:30:00,,Standard

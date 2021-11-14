@@ -1,0 +1,31 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+421846,3,MissedShots,0.9280000305175782,0.8590000152587891,0.05408930778503418,Vincenzo Grifo,h,5266,DirectFreekick,2020,RightFoot,15431,Freiburg,Bayern Munich,2,2,2021-05-15 13:30:00,,Standard
+421851,20,MissedShots,0.75,0.6309999847412109,0.023137863725423813,Vincenzo Grifo,h,5266,OpenPlay,2020,RightFoot,15431,Freiburg,Bayern Munich,2,2,2021-05-15 13:30:00,Baptiste Santamaria,Pass
+421853,28,Goal,0.965,0.5720000076293945,0.11852923035621643,Manuel Gulde,h,5292,FromCorner,2020,Head,15431,Freiburg,Bayern Munich,2,2,2021-05-15 13:30:00,Vincenzo Grifo,Cross
+421855,36,BlockedShot,0.8019999694824219,0.47099998474121096,0.06399799883365631,Vincenzo Grifo,h,5266,OpenPlay,2020,RightFoot,15431,Freiburg,Bayern Munich,2,2,2021-05-15 13:30:00,Nils Petersen,Pass
+421860,53,MissedShots,0.8969999694824219,0.580999984741211,0.10315487533807755,Ermedin Demirovic,h,6496,OpenPlay,2020,LeftFoot,15431,Freiburg,Bayern Munich,2,2,2021-05-15 13:30:00,Christian Günter,Pass
+421862,61,BlockedShot,0.875,0.47900001525878905,0.047245386987924576,Lucas Höler,h,6475,OpenPlay,2020,Head,15431,Freiburg,Bayern Munich,2,2,2021-05-15 13:30:00,Lukas Kübler,Cross
+421864,70,BlockedShot,0.9159999847412109,0.6170000076293946,0.1875944286584854,Lucas Höler,h,6475,OpenPlay,2020,RightFoot,15431,Freiburg,Bayern Munich,2,2,2021-05-15 13:30:00,Jonathan Schmid,Chipped
+421865,72,SavedShot,0.875999984741211,0.38299999237060545,0.0961204394698143,Janik Haberer,h,4271,OpenPlay,2020,LeftFoot,15431,Freiburg,Bayern Munich,2,2,2021-05-15 13:30:00,Woo-Yeong Jeong,TakeOn
+421866,76,SavedShot,0.919000015258789,0.5109999847412109,0.10781440138816833,Manuel Gulde,h,5292,FromCorner,2020,LeftFoot,15431,Freiburg,Bayern Munich,2,2,2021-05-15 13:30:00,,None
+421868,78,MissedShots,0.710999984741211,0.45099998474121095,0.017747696489095688,Janik Haberer,h,4271,OpenPlay,2020,RightFoot,15431,Freiburg,Bayern Munich,2,2,2021-05-15 13:30:00,Vincenzo Grifo,Pass
+421869,78,MissedShots,0.7569999694824219,0.33599998474121096,0.020987357944250107,Yannik Keitel,h,8206,OpenPlay,2020,RightFoot,15431,Freiburg,Bayern Munich,2,2,2021-05-15 13:30:00,Vincenzo Grifo,Pass
+421871,80,Goal,0.9009999847412109,0.68,0.053064167499542236,Christian Günter,h,4243,OpenPlay,2020,LeftFoot,15431,Freiburg,Bayern Munich,2,2,2021-05-15 13:30:00,Vincenzo Grifo,Pass
+421874,87,MissedShots,0.7330000305175781,0.4540000152587891,0.05596614629030228,Vincenzo Grifo,h,5266,DirectFreekick,2020,RightFoot,15431,Freiburg,Bayern Munich,2,2,2021-05-15 13:30:00,,Standard
+421875,89,MissedShots,0.875999984741211,0.485,0.014904594980180264,Janik Haberer,h,4271,SetPiece,2020,Head,15431,Freiburg,Bayern Munich,2,2,2021-05-15 13:30:00,Christian Günter,Aerial
+421847,8,MissedShots,0.7969999694824219,0.29700000762939455,0.023720363155007362,Leroy Sané,a,337,OpenPlay,2020,LeftFoot,15431,Freiburg,Bayern Munich,2,2,2021-05-15 13:30:00,Thomas Müller,Pass
+421848,15,BlockedShot,0.6819999694824219,0.355,0.011346650309860706,Joshua Kimmich,a,223,OpenPlay,2020,RightFoot,15431,Freiburg,Bayern Munich,2,2,2021-05-15 13:30:00,Thomas Müller,Pass
+421849,15,BlockedShot,0.9,0.5270000076293946,0.0218129213899374,Thomas Müller,a,224,FromCorner,2020,Head,15431,Freiburg,Bayern Munich,2,2,2021-05-15 13:30:00,Joshua Kimmich,Aerial
+421850,19,MissedShots,0.8280000305175781,0.509000015258789,0.059850145131349564,Robert Lewandowski,a,227,OpenPlay,2020,RightFoot,15431,Freiburg,Bayern Munich,2,2,2021-05-15 13:30:00,,None
+421852,25,Goal,0.885,0.5,0.75777667760849,Robert Lewandowski,a,227,Penalty,2020,RightFoot,15431,Freiburg,Bayern Munich,2,2,2021-05-15 13:30:00,,Standard
+421854,30,MissedShots,0.735999984741211,0.45799999237060546,0.019813086837530136,Serge Gnabry,a,993,OpenPlay,2020,RightFoot,15431,Freiburg,Bayern Munich,2,2,2021-05-15 13:30:00,Thomas Müller,Pass
+421856,45,BlockedShot,0.7959999847412109,0.6120000076293945,0.034026362001895905,Serge Gnabry,a,993,OpenPlay,2020,RightFoot,15431,Freiburg,Bayern Munich,2,2,2021-05-15 13:30:00,Alphonso Davies,Pass
+421857,46,BlockedShot,0.815,0.43,0.03361284360289574,Serge Gnabry,a,993,FromCorner,2020,RightFoot,15431,Freiburg,Bayern Munich,2,2,2021-05-15 13:30:00,Thomas Müller,Pass
+421858,47,SavedShot,0.7480000305175781,0.285,0.026426615193486214,Leroy Sané,a,337,FromCorner,2020,LeftFoot,15431,Freiburg,Bayern Munich,2,2,2021-05-15 13:30:00,Serge Gnabry,Pass
+421859,52,Goal,0.955,0.5209999847412109,0.6562832593917847,Leroy Sané,a,337,OpenPlay,2020,LeftFoot,15431,Freiburg,Bayern Munich,2,2,2021-05-15 13:30:00,Thomas Müller,Pass
+421861,56,BlockedShot,0.8330000305175781,0.5179999923706055,0.08606936782598495,Robert Lewandowski,a,227,OpenPlay,2020,RightFoot,15431,Freiburg,Bayern Munich,2,2,2021-05-15 13:30:00,Serge Gnabry,BallRecovery
+421863,65,MissedShots,0.835,0.27899999618530275,0.03577635437250137,Leroy Sané,a,337,OpenPlay,2020,LeftFoot,15431,Freiburg,Bayern Munich,2,2,2021-05-15 13:30:00,Robert Lewandowski,Pass
+421867,76,SavedShot,0.8959999847412109,0.45799999237060546,0.5244747400283813,Robert Lewandowski,a,227,OpenPlay,2020,LeftFoot,15431,Freiburg,Bayern Munich,2,2,2021-05-15 13:30:00,Serge Gnabry,Pass
+421870,80,MissedShots,0.9690000152587891,0.3970000076293945,0.03868643566966057,David Alaba,a,391,FromCorner,2020,Head,15431,Freiburg,Bayern Munich,2,2,2021-05-15 13:30:00,,None
+421872,83,SavedShot,0.9259999847412109,0.5879999923706055,0.0938466340303421,Robert Lewandowski,a,227,OpenPlay,2020,Head,15431,Freiburg,Bayern Munich,2,2,2021-05-15 13:30:00,Joshua Kimmich,Cross
+421873,85,BlockedShot,0.8680000305175781,0.5779999923706055,0.06881944835186005,Robert Lewandowski,a,227,OpenPlay,2020,RightFoot,15431,Freiburg,Bayern Munich,2,2,2021-05-15 13:30:00,Kingsley Coman,Chipped

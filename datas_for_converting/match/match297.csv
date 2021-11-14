@@ -1,0 +1,27 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+55575,2,BlockedShot,0.705999984741211,0.38799999237060545,0.008674629963934422,Jordan Veretout,h,677,OpenPlay,2015,RightFoot,297,Aston Villa,Leicester,1,1,2016-01-16 21:30:00,,TakeOn
+55579,19,SavedShot,0.9169999694824219,0.33799999237060546,0.07084629684686661,Libor Kozák,h,1026,OpenPlay,2015,RightFoot,297,Aston Villa,Leicester,1,1,2016-01-16 21:30:00,,BallRecovery
+55580,27,MissedShots,0.8619999694824219,0.5709999847412109,0.05831290781497955,Ashley Westwood,h,669,OpenPlay,2015,RightFoot,297,Aston Villa,Leicester,1,1,2016-01-16 21:30:00,Leandro Bacuna,Cross
+55585,39,SavedShot,0.74,0.7480000305175781,0.010981385596096516,Aly Cissokho,h,666,OpenPlay,2015,LeftFoot,297,Aston Villa,Leicester,1,1,2016-01-16 21:30:00,,None
+55586,43,MissedShots,0.8219999694824218,0.3320000076293945,0.039563555270433426,Idrissa Gueye,h,668,OpenPlay,2015,RightFoot,297,Aston Villa,Leicester,1,1,2016-01-16 21:30:00,Jordan Veretout,TakeOn
+55588,51,SavedShot,0.89,0.720999984741211,0.043735433369874954,Aly Cissokho,h,666,OpenPlay,2015,LeftFoot,297,Aston Villa,Leicester,1,1,2016-01-16 21:30:00,Ashley Westwood,Pass
+55589,51,BlockedShot,0.865,0.3029999923706055,0.041019558906555176,Leandro Bacuna,h,674,OpenPlay,2015,RightFoot,297,Aston Villa,Leicester,1,1,2016-01-16 21:30:00,,TakeOn
+55590,52,MissedShots,0.705,0.3920000076293945,0.01266129408031702,Idrissa Gueye,h,668,FromCorner,2015,RightFoot,297,Aston Villa,Leicester,1,1,2016-01-16 21:30:00,,None
+55591,55,BlockedShot,0.850999984741211,0.48400001525878905,0.06392286717891693,Jordan Ayew,h,672,OpenPlay,2015,RightFoot,297,Aston Villa,Leicester,1,1,2016-01-16 21:30:00,Leandro Bacuna,Cross
+55593,65,SavedShot,0.8680000305175781,0.3820000076293945,0.06602836400270462,Leandro Bacuna,h,674,OpenPlay,2015,LeftFoot,297,Aston Villa,Leicester,1,1,2016-01-16 21:30:00,Jordan Ayew,Pass
+55595,67,MissedShots,0.945,0.5070000076293946,0.10054673254489899,Libor Kozák,h,1026,SetPiece,2015,Head,297,Aston Villa,Leicester,1,1,2016-01-16 21:30:00,Jordan Veretout,Aerial
+55596,74,Goal,0.8480000305175781,0.39599998474121095,0.052407100796699524,Rudy Gestede,h,671,OpenPlay,2015,LeftFoot,297,Aston Villa,Leicester,1,1,2016-01-16 21:30:00,,BallTouch
+55598,82,BlockedShot,0.7340000152587891,0.39,0.013943396508693695,Idrissa Gueye,h,668,OpenPlay,2015,RightFoot,297,Aston Villa,Leicester,1,1,2016-01-16 21:30:00,Libor Kozák,Pass
+55599,85,MissedShots,0.905,0.46599998474121096,0.0827421173453331,Libor Kozák,h,1026,SetPiece,2015,RightFoot,297,Aston Villa,Leicester,1,1,2016-01-16 21:30:00,Rudy Gestede,HeadPass
+55576,12,MissedShots,0.845999984741211,0.5629999923706055,0.020226813852787018,Jamie Vardy,a,755,SetPiece,2015,Head,297,Aston Villa,Leicester,1,1,2016-01-16 21:30:00,Marc Albrighton,Cross
+55577,14,SavedShot,0.7819999694824219,0.8240000152587891,0.03381842374801636,Marc Albrighton,a,753,DirectFreekick,2015,RightFoot,297,Aston Villa,Leicester,1,1,2016-01-16 21:30:00,,Standard
+55578,16,BlockedShot,0.7380000305175781,0.46,0.019091743975877762,Marc Albrighton,a,753,OpenPlay,2015,RightFoot,297,Aston Villa,Leicester,1,1,2016-01-16 21:30:00,Shinji Okazaki,TakeOn
+55581,27,SavedShot,0.855999984741211,0.6469999694824219,0.030603790655732155,Jamie Vardy,a,755,OpenPlay,2015,RightFoot,297,Aston Villa,Leicester,1,1,2016-01-16 21:30:00,Kasper Schmeichel,Pass
+55582,27,Goal,0.9730000305175781,0.4470000076293945,0.6498208045959473,Shinji Okazaki,a,754,OpenPlay,2015,RightFoot,297,Aston Villa,Leicester,1,1,2016-01-16 21:30:00,,Rebound
+55583,31,BlockedShot,0.9259999847412109,0.44299999237060544,0.14617645740509033,Riyad Mahrez,a,750,OpenPlay,2015,LeftFoot,297,Aston Villa,Leicester,1,1,2016-01-16 21:30:00,Jamie Vardy,Pass
+55584,32,SavedShot,0.885,0.5,0.7611688375473022,Riyad Mahrez,a,750,Penalty,2015,LeftFoot,297,Aston Villa,Leicester,1,1,2016-01-16 21:30:00,,Standard
+55587,45,MissedShots,0.7319999694824219,0.6270000076293946,0.019741391763091087,Marc Albrighton,a,753,OpenPlay,2015,RightFoot,297,Aston Villa,Leicester,1,1,2016-01-16 21:30:00,Daniel Drinkwater,BallRecovery
+55592,57,SavedShot,0.750999984741211,0.5029999923706054,0.02912994474172592,Daniel Drinkwater,a,752,FromCorner,2015,RightFoot,297,Aston Villa,Leicester,1,1,2016-01-16 21:30:00,Christian Fuchs,Pass
+55594,66,MissedShots,0.9209999847412109,0.49900001525878906,0.399800181388855,Daniel Drinkwater,a,752,OpenPlay,2015,RightFoot,297,Aston Villa,Leicester,1,1,2016-01-16 21:30:00,Jamie Vardy,Cross
+55597,79,MissedShots,0.784000015258789,0.7030000305175781,0.01029916014522314,Daniel Drinkwater,a,752,FromCorner,2015,LeftFoot,297,Aston Villa,Leicester,1,1,2016-01-16 21:30:00,Jamie Vardy,HeadPass
+55600,90,MissedShots,0.9230000305175782,0.6930000305175781,0.11526315659284592,Jamie Vardy,a,755,OpenPlay,2015,LeftFoot,297,Aston Villa,Leicester,1,1,2016-01-16 21:30:00,Daniel Drinkwater,Throughball

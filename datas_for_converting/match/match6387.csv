@@ -1,0 +1,23 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+9951,13,SavedShot,0.9230000305175782,0.4879999923706055,0.10145297646522522,João Carlos,h,4589,FromCorner,2014,Head,6387,Spartak Moscow,Lokomotiv Moscow,1,1,2014-10-26 10:30:00,Jurado,Cross
+9953,25,MissedShots,0.8430000305175781,0.485,0.12807431817054749,Quincy Promes,h,2815,OpenPlay,2014,RightFoot,6387,Spartak Moscow,Lokomotiv Moscow,1,1,2014-10-26 10:30:00,Rómulo,Throughball
+9955,30,BlockedShot,0.6930000305175781,0.37099998474121093,0.010265162214636803,Rómulo,h,2813,OpenPlay,2014,RightFoot,6387,Spartak Moscow,Lokomotiv Moscow,1,1,2014-10-26 10:30:00,Quincy Promes,Pass
+9957,36,BlockedShot,0.795,0.6859999847412109,0.019864970818161964,Evgeni Makeev,h,2812,OpenPlay,2014,RightFoot,6387,Spartak Moscow,Lokomotiv Moscow,1,1,2014-10-26 10:30:00,Jurado,Pass
+9958,45,MissedShots,0.7819999694824219,0.58,0.08319846540689468,Jurado,h,582,DirectFreekick,2014,RightFoot,6387,Spartak Moscow,Lokomotiv Moscow,1,1,2014-10-26 10:30:00,,Standard
+9959,54,MissedShots,0.8959999847412109,0.5470000076293945,0.015469387173652649,João Carlos,h,4589,FromCorner,2014,Head,6387,Spartak Moscow,Lokomotiv Moscow,1,1,2014-10-26 10:30:00,Jurado,Aerial
+9962,65,MissedShots,0.745,0.445,0.016273995861411095,Rómulo,h,2813,OpenPlay,2014,RightFoot,6387,Spartak Moscow,Lokomotiv Moscow,1,1,2014-10-26 10:30:00,Quincy Promes,Pass
+9963,69,MissedShots,0.775,0.44799999237060545,0.029490822926163673,Rómulo,h,2813,OpenPlay,2014,RightFoot,6387,Spartak Moscow,Lokomotiv Moscow,1,1,2014-10-26 10:30:00,,None
+9968,86,Goal,0.91,0.5179999923706055,0.24507707357406616,Roman Shirokov,h,2891,OpenPlay,2014,Head,6387,Spartak Moscow,Lokomotiv Moscow,1,1,2014-10-26 10:30:00,Quincy Promes,Cross
+9969,88,SavedShot,0.8859999847412109,0.5629999923706055,0.08635295927524567,Yura Movsisyan,h,3127,OpenPlay,2014,Head,6387,Spartak Moscow,Lokomotiv Moscow,1,1,2014-10-26 10:30:00,Juan Insaurralde,Pass
+9949,5,MissedShots,0.7809999847412109,0.39599998474121095,0.07664049416780472,Vitaliy Denisov,a,2707,DirectFreekick,2014,LeftFoot,6387,Spartak Moscow,Lokomotiv Moscow,1,1,2014-10-26 10:30:00,,Standard
+9950,8,MissedShots,0.745,0.6020000076293945,0.05136769637465477,Aleksandr Samedov,a,2710,DirectFreekick,2014,RightFoot,6387,Spartak Moscow,Lokomotiv Moscow,1,1,2014-10-26 10:30:00,,Standard
+9952,16,SavedShot,0.7930000305175782,0.6370000076293946,0.01259701419621706,Mbark Boussoufa,a,3191,OpenPlay,2014,LeftFoot,6387,Spartak Moscow,Lokomotiv Moscow,1,1,2014-10-26 10:30:00,Aleksandr Samedov,TakeOn
+9954,29,MissedShots,0.905,0.315,0.05688732862472534,Renat Yanbayev,a,2717,OpenPlay,2014,RightFoot,6387,Spartak Moscow,Lokomotiv Moscow,1,1,2014-10-26 10:30:00,Aleksandr Samedov,BallTouch
+9956,31,MissedShots,0.7759999847412109,0.664000015258789,0.017185747623443604,Aleksandr Samedov,a,2710,OpenPlay,2014,RightFoot,6387,Spartak Moscow,Lokomotiv Moscow,1,1,2014-10-26 10:30:00,Maicón,Pass
+9960,63,MissedShots,0.8469999694824218,0.19299999237060547,0.020610276609659195,Taras Mykhalyk,a,2709,OpenPlay,2014,RightFoot,6387,Spartak Moscow,Lokomotiv Moscow,1,1,2014-10-26 10:30:00,Mbark Boussoufa,Pass
+9961,64,MissedShots,0.88,0.5370000076293945,0.08802279084920883,Maicón,a,3121,OpenPlay,2014,RightFoot,6387,Spartak Moscow,Lokomotiv Moscow,1,1,2014-10-26 10:30:00,Aleksandr Samedov,Cross
+9964,78,BlockedShot,0.7930000305175782,0.6120000076293945,0.03107263706624508,Mbark Boussoufa,a,3191,OpenPlay,2014,RightFoot,6387,Spartak Moscow,Lokomotiv Moscow,1,1,2014-10-26 10:30:00,,None
+9965,78,BlockedShot,0.9209999847412109,0.66,0.08456604927778244,Manuel Fernandes,a,2708,OpenPlay,2014,RightFoot,6387,Spartak Moscow,Lokomotiv Moscow,1,1,2014-10-26 10:30:00,Mbark Boussoufa,Pass
+9966,80,MissedShots,0.7980000305175782,0.5209999847412109,0.04727623984217644,Aleksandr Samedov,a,2710,OpenPlay,2014,LeftFoot,6387,Spartak Moscow,Lokomotiv Moscow,1,1,2014-10-26 10:30:00,Mbark Boussoufa,Pass
+9967,83,Goal,0.894000015258789,0.6659999847412109,0.06094170734286308,Manuel Fernandes,a,2708,OpenPlay,2014,RightFoot,6387,Spartak Moscow,Lokomotiv Moscow,1,1,2014-10-26 10:30:00,Roman Pavlyuchenko,Chipped
+9970,90,BlockedShot,0.710999984741211,0.5690000152587891,0.03847917169332504,Roman Pavlyuchenko,a,2734,DirectFreekick,2014,RightFoot,6387,Spartak Moscow,Lokomotiv Moscow,1,1,2014-10-26 10:30:00,,Standard

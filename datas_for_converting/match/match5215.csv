@@ -1,0 +1,31 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+32016,3,BlockedShot,0.7980000305175782,0.3509999847412109,0.027691975235939026,Roberto Firmino,h,482,OpenPlay,2014,RightFoot,5215,Hoffenheim,Bayern Munich,0,2,2015-04-18 14:30:00,,None
+32017,4,BlockedShot,0.7430000305175781,0.6609999847412109,0.01912030018866062,Jeremy Toljan,h,257,OpenPlay,2014,RightFoot,5215,Hoffenheim,Bayern Munich,0,2,2015-04-18 14:30:00,Roberto Firmino,Pass
+32023,29,SavedShot,0.825999984741211,0.4759999847412109,0.3135891258716583,Anthony Modeste,h,137,OpenPlay,2014,RightFoot,5215,Hoffenheim,Bayern Munich,0,2,2015-04-18 14:30:00,,None
+32026,43,MissedShots,0.9,0.48,0.17978790402412415,Kevin Volland,h,83,OpenPlay,2014,Head,5215,Hoffenheim,Bayern Munich,0,2,2015-04-18 14:30:00,Eugen Polanski,Chipped
+32030,51,MissedShots,0.825,0.345,0.04363252595067024,Kevin Volland,h,83,OpenPlay,2014,LeftFoot,5215,Hoffenheim,Bayern Munich,0,2,2015-04-18 14:30:00,Roberto Firmino,Pass
+32033,62,MissedShots,0.740999984741211,0.40299999237060546,0.02037627063691616,Kevin Volland,h,83,OpenPlay,2014,LeftFoot,5215,Hoffenheim,Bayern Munich,0,2,2015-04-18 14:30:00,Pirmin Schwegler,Pass
+32035,71,MissedShots,0.8719999694824219,0.8159999847412109,0.010729813016951084,Jeremy Toljan,h,257,OpenPlay,2014,RightFoot,5215,Hoffenheim,Bayern Munich,0,2,2015-04-18 14:30:00,,Aerial
+32040,83,MissedShots,0.7619999694824219,0.6880000305175781,0.05372404307126999,Sebastian Rudy,h,90,DirectFreekick,2014,RightFoot,5215,Hoffenheim,Bayern Munich,0,2,2015-04-18 14:30:00,,Standard
+32045,92,OwnGoal,0.03799999952316284,0.46599998474121096,0,Andreas Beck,h,4270,OpenPlay,2014,LeftFoot,5215,Hoffenheim,Bayern Munich,0,2,2015-04-18 14:30:00,,None
+32018,6,BlockedShot,0.7180000305175781,0.544000015258789,0.020106907933950424,Robert Lewandowski,a,227,OpenPlay,2014,RightFoot,5215,Hoffenheim,Bayern Munich,0,2,2015-04-18 14:30:00,Sebastian Rode,Pass
+32019,6,MissedShots,0.879000015258789,0.3820000076293945,0.06987173110246658,Mitchell Weiser,a,28,OpenPlay,2014,RightFoot,5215,Hoffenheim,Bayern Munich,0,2,2015-04-18 14:30:00,,None
+32020,8,BlockedShot,0.750999984741211,0.539000015258789,0.02367378957569599,Sebastian Rode,a,228,OpenPlay,2014,LeftFoot,5215,Hoffenheim,Bayern Munich,0,2,2015-04-18 14:30:00,Rafinha,TakeOn
+32021,16,MissedShots,0.8180000305175781,0.29700000762939455,0.020401744171977043,Sebastian Rode,a,228,FromCorner,2014,RightFoot,5215,Hoffenheim,Bayern Munich,0,2,2015-04-18 14:30:00,,None
+32022,17,MissedShots,0.9159999847412109,0.48700000762939455,0.05800990015268326,Robert Lewandowski,a,227,OpenPlay,2014,Head,5215,Hoffenheim,Bayern Munich,0,2,2015-04-18 14:30:00,Mitchell Weiser,Aerial
+32024,37,SavedShot,0.8090000152587891,0.33,0.02992914617061615,Thomas Müller,a,224,OpenPlay,2014,RightFoot,5215,Hoffenheim,Bayern Munich,0,2,2015-04-18 14:30:00,Rafinha,Pass
+32025,37,Goal,0.85,0.5320000076293945,0.09238039702177048,Sebastian Rode,a,228,OpenPlay,2014,RightFoot,5215,Hoffenheim,Bayern Munich,0,2,2015-04-18 14:30:00,Robert Lewandowski,TakeOn
+32027,47,ShotOnPost,0.8490000152587891,0.6840000152587891,0.0497821569442749,Robert Lewandowski,a,227,OpenPlay,2014,RightFoot,5215,Hoffenheim,Bayern Munich,0,2,2015-04-18 14:30:00,Sebastian Rode,Pass
+32028,48,BlockedShot,0.7780000305175782,0.664000015258789,0.030717384070158005,Mario Götze,a,422,OpenPlay,2014,RightFoot,5215,Hoffenheim,Bayern Munich,0,2,2015-04-18 14:30:00,Rafinha,Pass
+32029,49,BlockedShot,0.8319999694824218,0.3729999923706055,0.06399139016866684,Mario Götze,a,422,OpenPlay,2014,LeftFoot,5215,Hoffenheim,Bayern Munich,0,2,2015-04-18 14:30:00,Mitchell Weiser,Pass
+32031,59,SavedShot,0.9159999847412109,0.710999984741211,0.06575002521276474,Thiago Alcántara,a,229,OpenPlay,2014,LeftFoot,5215,Hoffenheim,Bayern Munich,0,2,2015-04-18 14:30:00,Robert Lewandowski,TakeOn
+32032,59,SavedShot,0.9230000305175782,0.48900001525878906,0.5183382630348206,Thomas Müller,a,224,OpenPlay,2014,RightFoot,5215,Hoffenheim,Bayern Munich,0,2,2015-04-18 14:30:00,,Rebound
+32034,64,BlockedShot,0.9059999847412109,0.38599998474121094,0.117547407746315,Mitchell Weiser,a,28,OpenPlay,2014,LeftFoot,5215,Hoffenheim,Bayern Munich,0,2,2015-04-18 14:30:00,Thomas Müller,Pass
+32036,72,BlockedShot,0.89,0.295,0.0617586188018322,Robert Lewandowski,a,227,OpenPlay,2014,RightFoot,5215,Hoffenheim,Bayern Munich,0,2,2015-04-18 14:30:00,Dante,Chipped
+32037,73,BlockedShot,0.8230000305175781,0.5129999923706055,0.07987404614686966,Jérôme Boateng,a,220,OpenPlay,2014,RightFoot,5215,Hoffenheim,Bayern Munich,0,2,2015-04-18 14:30:00,Mario Götze,Pass
+32038,73,BlockedShot,0.85,0.674000015258789,0.055520348250865936,Mario Götze,a,422,OpenPlay,2014,RightFoot,5215,Hoffenheim,Bayern Munich,0,2,2015-04-18 14:30:00,Sebastian Rode,Pass
+32039,75,BlockedShot,0.8090000152587891,0.3240000152587891,0.01591995544731617,Thomas Müller,a,224,OpenPlay,2014,RightFoot,5215,Hoffenheim,Bayern Munich,0,2,2015-04-18 14:30:00,Thiago Alcántara,Chipped
+32041,85,SavedShot,0.784000015258789,0.754000015258789,0.02230129949748516,Sebastian Rode,a,228,OpenPlay,2014,RightFoot,5215,Hoffenheim,Bayern Munich,0,2,2015-04-18 14:30:00,Robert Lewandowski,Pass
+32042,88,BlockedShot,0.8880000305175781,0.3160000038146973,0.0692240372300148,Robert Lewandowski,a,227,OpenPlay,2014,RightFoot,5215,Hoffenheim,Bayern Munich,0,2,2015-04-18 14:30:00,Mitchell Weiser,Pass
+32043,88,BlockedShot,0.89,0.365,0.08395322412252426,Robert Lewandowski,a,227,OpenPlay,2014,RightFoot,5215,Hoffenheim,Bayern Munich,0,2,2015-04-18 14:30:00,,Rebound
+32044,89,MissedShots,0.7140000152587891,0.69,0.015374199487268925,Jérôme Boateng,a,220,OpenPlay,2014,LeftFoot,5215,Hoffenheim,Bayern Munich,0,2,2015-04-18 14:30:00,,Interception

@@ -1,0 +1,26 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+287664,1,MissedShots,0.9280000305175782,0.5329999923706055,0.131811261177063,Florian Thauvin,h,942,OpenPlay,2018,Head,10933,Marseille,Angers,2,2,2019-03-30 16:00:00,Jordan Amavi,Cross
+287665,3,Goal,0.9469999694824218,0.4640000152587891,0.5230225920677185,Mario Balotelli,h,1817,OpenPlay,2018,RightFoot,10933,Marseille,Angers,2,2,2019-03-30 16:00:00,Lucas Ocampos,Cross
+287667,10,SavedShot,0.8219999694824218,0.22799999237060548,0.02560323476791382,Florian Thauvin,h,942,OpenPlay,2018,LeftFoot,10933,Marseille,Angers,2,2,2019-03-30 16:00:00,Valère Germain,Pass
+287668,15,Goal,0.8280000305175781,0.34700000762939454,0.05626406893134117,Mario Balotelli,h,1817,OpenPlay,2018,RightFoot,10933,Marseille,Angers,2,2,2019-03-30 16:00:00,,None
+287671,28,MissedShots,0.885,0.43599998474121093,0.020167255774140358,Mario Balotelli,h,1817,OpenPlay,2018,Head,10933,Marseille,Angers,2,2,2019-03-30 16:00:00,Maxime Lopez,Aerial
+287675,45,BlockedShot,0.8059999847412109,0.25799999237060545,0.027982929721474648,Florian Thauvin,h,942,OpenPlay,2018,LeftFoot,10933,Marseille,Angers,2,2,2019-03-30 16:00:00,Morgan Sanson,Pass
+287676,46,MissedShots,0.7469999694824219,0.31799999237060544,0.02317192777991295,Bouna Sarr,h,3393,OpenPlay,2018,LeftFoot,10933,Marseille,Angers,2,2,2019-03-30 16:00:00,Maxime Lopez,Chipped
+287678,52,MissedShots,0.925,0.5670000076293945,0.0298155527561903,Mario Balotelli,h,1817,FromCorner,2018,Head,10933,Marseille,Angers,2,2,2019-03-30 16:00:00,Florian Thauvin,Aerial
+287679,52,SavedShot,0.975,0.6419999694824219,0.02618747390806675,Valère Germain,h,3309,FromCorner,2018,Head,10933,Marseille,Angers,2,2,2019-03-30 16:00:00,Mario Balotelli,Rebound
+287685,85,SavedShot,0.9159999847412109,0.34200000762939453,0.0942310094833374,Kevin Strootman,h,1256,OpenPlay,2018,LeftFoot,10933,Marseille,Angers,2,2,2019-03-30 16:00:00,Jordan Amavi,Pass
+287686,86,MissedShots,0.965999984741211,0.6569999694824219,0.012464231811463833,Adil Rami,h,2412,FromCorner,2018,Head,10933,Marseille,Angers,2,2,2019-03-30 16:00:00,Dimitri Payet,Cross
+287666,8,MissedShots,0.92,0.5429999923706055,0.0820845514535904,Romain Thomas,a,3488,SetPiece,2018,Head,10933,Marseille,Angers,2,2,2019-03-30 16:00:00,Thomas Mangani,Chipped
+287669,21,BlockedShot,0.7919999694824219,0.29100000381469726,0.018304746598005295,Jeff Reine-Adelaide,a,1056,OpenPlay,2018,LeftFoot,10933,Marseille,Angers,2,2,2019-03-30 16:00:00,,BallRecovery
+287670,27,BlockedShot,0.875,0.2560000038146973,0.02910720929503441,Flavien Tait,a,5655,OpenPlay,2018,RightFoot,10933,Marseille,Angers,2,2,2019-03-30 16:00:00,Jeff Reine-Adelaide,Pass
+287672,28,MissedShots,0.8780000305175781,0.35700000762939454,0.2362324446439743,Jeff Reine-Adelaide,a,1056,OpenPlay,2018,RightFoot,10933,Marseille,Angers,2,2,2019-03-30 16:00:00,,None
+287673,35,Goal,0.885,0.5,0.7600951194763184,Thomas Mangani,a,3490,Penalty,2018,LeftFoot,10933,Marseille,Angers,2,2,2019-03-30 16:00:00,,Standard
+287674,38,MissedShots,0.7930000305175782,0.52,0.04419373348355293,Angelo Fulgini,a,6019,OpenPlay,2018,RightFoot,10933,Marseille,Angers,2,2,2019-03-30 16:00:00,Jeff Reine-Adelaide,Pass
+287677,48,MissedShots,0.7469999694824219,0.3970000076293945,0.017048997804522514,Baptiste Santamaria,a,5654,OpenPlay,2018,RightFoot,10933,Marseille,Angers,2,2,2019-03-30 16:00:00,Angelo Fulgini,None
+287680,53,SavedShot,0.7630000305175781,0.3629999923706055,0.0180673711001873,Angelo Fulgini,a,6019,OpenPlay,2018,RightFoot,10933,Marseille,Angers,2,2,2019-03-30 16:00:00,Thomas Mangani,BallTouch
+287681,65,MissedShots,0.7280000305175781,0.36,0.04419759660959244,Thomas Mangani,a,3490,DirectFreekick,2018,LeftFoot,10933,Marseille,Angers,2,2,2019-03-30 16:00:00,,Standard
+287682,76,Goal,0.885,0.5,0.7600951194763184,Thomas Mangani,a,3490,Penalty,2018,LeftFoot,10933,Marseille,Angers,2,2,2019-03-30 16:00:00,,Standard
+287683,81,MissedShots,0.9459999847412109,0.39,0.07163707166910172,Cristian,a,7173,OpenPlay,2018,RightFoot,10933,Marseille,Angers,2,2,2019-03-30 16:00:00,Thomas Mangani,Cross
+287684,85,SavedShot,0.6940000152587891,0.44,0.019261285662651062,Thomas Mangani,a,3490,FromCorner,2018,LeftFoot,10933,Marseille,Angers,2,2,2019-03-30 16:00:00,Pierrick Capelle,Pass
+287687,90,ShotOnPost,0.9159999847412109,0.5609999847412109,0.07132676243782043,Romain Thomas,a,3488,FromCorner,2018,Head,10933,Marseille,Angers,2,2,2019-03-30 16:00:00,Flavien Tait,Cross
+287688,92,MissedShots,0.7730000305175782,0.764000015258789,0.01338460948318243,Flavien Tait,a,5655,OpenPlay,2018,RightFoot,10933,Marseille,Angers,2,2,2019-03-30 16:00:00,Thomas Mangani,Pass

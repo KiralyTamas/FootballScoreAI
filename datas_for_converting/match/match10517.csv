@@ -1,0 +1,25 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+279089,4,BlockedShot,0.899000015258789,0.43400001525878906,0.12488417327404022,James Rodríguez,h,2249,OpenPlay,2018,RightFoot,10517,Bayern Munich,Schalke 04,3,1,2019-02-09 17:30:00,Kingsley Coman,Pass
+279090,5,MissedShots,0.7480000305175781,0.7569999694824219,0.014301023446023464,David Alaba,h,391,OpenPlay,2018,LeftFoot,10517,Bayern Munich,Schalke 04,3,1,2019-02-09 17:30:00,James Rodríguez,Pass
+279092,17,SavedShot,0.8859999847412109,0.36900001525878906,0.35143351554870605,Serge Gnabry,h,993,OpenPlay,2018,RightFoot,10517,Bayern Munich,Schalke 04,3,1,2019-02-09 17:30:00,Robert Lewandowski,Throughball
+279093,19,MissedShots,0.855999984741211,0.2539999961853027,0.026328785344958305,Serge Gnabry,h,993,OpenPlay,2018,RightFoot,10517,Bayern Munich,Schalke 04,3,1,2019-02-09 17:30:00,James Rodríguez,HeadPass
+279095,26,Goal,0.8530000305175781,0.4779999923706055,0.3205552399158478,Robert Lewandowski,h,227,OpenPlay,2018,RightFoot,10517,Bayern Munich,Schalke 04,3,1,2019-02-09 17:30:00,James Rodríguez,Pass
+279096,29,SavedShot,0.8159999847412109,0.37099998474121093,0.056098826229572296,James Rodríguez,h,2249,OpenPlay,2018,LeftFoot,10517,Bayern Munich,Schalke 04,3,1,2019-02-09 17:30:00,Robert Lewandowski,Pass
+279097,30,MissedShots,0.9359999847412109,0.534000015258789,0.06342688202857971,Mats Hummels,h,373,FromCorner,2018,Head,10517,Bayern Munich,Schalke 04,3,1,2019-02-09 17:30:00,James Rodríguez,Aerial
+279100,36,BlockedShot,0.8119999694824219,0.4909999847412109,0.08212392777204514,Kingsley Coman,h,226,OpenPlay,2018,RightFoot,10517,Bayern Munich,Schalke 04,3,1,2019-02-09 17:30:00,Thiago Alcántara,TakeOn
+279101,38,BlockedShot,0.9119999694824219,0.6530000305175782,0.03867878019809723,Robert Lewandowski,h,227,FromCorner,2018,RightFoot,10517,Bayern Munich,Schalke 04,3,1,2019-02-09 17:30:00,James Rodríguez,Cross
+279102,45,MissedShots,0.874000015258789,0.799000015258789,0.06605906039476395,James Rodríguez,h,2249,DirectFreekick,2018,LeftFoot,10517,Bayern Munich,Schalke 04,3,1,2019-02-09 17:30:00,,Standard
+279103,45,MissedShots,0.955999984741211,0.34900001525878904,0.12433026731014252,Leon Goretzka,h,335,OpenPlay,2018,RightFoot,10517,Bayern Munich,Schalke 04,3,1,2019-02-09 17:30:00,Serge Gnabry,TakeOn
+279107,56,MissedShots,0.8730000305175781,0.53,0.09009341895580292,Robert Lewandowski,h,227,OpenPlay,2018,RightFoot,10517,Bayern Munich,Schalke 04,3,1,2019-02-09 17:30:00,Kingsley Coman,Cross
+279108,56,Goal,0.904000015258789,0.47,0.043389949947595596,Serge Gnabry,h,993,OpenPlay,2018,Head,10517,Bayern Munich,Schalke 04,3,1,2019-02-09 17:30:00,Robert Lewandowski,Rebound
+279110,73,MissedShots,0.9,0.53,0.4960132837295532,Robert Lewandowski,h,227,OpenPlay,2018,RightFoot,10517,Bayern Munich,Schalke 04,3,1,2019-02-09 17:30:00,James Rodríguez,Pass
+279111,74,BlockedShot,0.909000015258789,0.6530000305175782,0.3907805383205414,Robert Lewandowski,h,227,OpenPlay,2018,RightFoot,10517,Bayern Munich,Schalke 04,3,1,2019-02-09 17:30:00,,BallRecovery
+279112,82,MissedShots,0.8490000152587891,0.355,0.07386529445648193,Leon Goretzka,h,335,OpenPlay,2018,RightFoot,10517,Bayern Munich,Schalke 04,3,1,2019-02-09 17:30:00,Thiago Alcántara,Pass
+279091,10,OwnGoal,0.12699999809265136,0.555,0,Jeffrey Bruma,a,5327,OpenPlay,2018,RightFoot,10517,Bayern Munich,Schalke 04,3,1,2019-02-09 17:30:00,,None
+279094,24,Goal,0.8230000305175781,0.3940000152587891,0.5347591638565063,Ahmed Kutucu,a,7309,OpenPlay,2018,RightFoot,10517,Bayern Munich,Schalke 04,3,1,2019-02-09 17:30:00,Weston McKennie,Throughball
+279098,31,BlockedShot,0.9280000305175782,0.43599998474121093,0.05384274944663048,Weston McKennie,a,5360,SetPiece,2018,Head,10517,Bayern Munich,Schalke 04,3,1,2019-02-09 17:30:00,Bastian Oczipka,Aerial
+279099,34,SavedShot,0.89,0.68,0.05644741654396057,Yevhen Konoplyanka,a,2068,OpenPlay,2018,RightFoot,10517,Bayern Munich,Schalke 04,3,1,2019-02-09 17:30:00,Ahmed Kutucu,Pass
+279104,52,SavedShot,0.8930000305175781,0.580999984741211,0.08617543429136276,Yevhen Konoplyanka,a,2068,OpenPlay,2018,RightFoot,10517,Bayern Munich,Schalke 04,3,1,2019-02-09 17:30:00,Weston McKennie,Pass
+279105,52,SavedShot,0.965999984741211,0.5359999847412109,0.6963891386985779,Weston McKennie,a,5360,OpenPlay,2018,RightFoot,10517,Bayern Munich,Schalke 04,3,1,2019-02-09 17:30:00,,Rebound
+279106,53,ShotOnPost,0.870999984741211,0.5520000076293945,0.013131313025951385,Jeffrey Bruma,a,5327,FromCorner,2018,Head,10517,Bayern Munich,Schalke 04,3,1,2019-02-09 17:30:00,Daniel Caligiuri,Aerial
+279109,69,MissedShots,0.7709999847412109,0.29200000762939454,0.016924187541007996,Daniel Caligiuri,a,157,OpenPlay,2018,LeftFoot,10517,Bayern Munich,Schalke 04,3,1,2019-02-09 17:30:00,Amine Harit,Pass

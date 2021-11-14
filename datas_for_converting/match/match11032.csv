@@ -1,0 +1,30 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+307343,19,MissedShots,0.8909999847412109,0.4129999923706055,0.07177002727985382,Dmitri Kabutov,h,6603,OpenPlay,2019,LeftFoot,11032,Krylya Sovetov Samara,Arsenal Tula,2,3,2019-07-20 13:30:00,Anton Zinkovskiy,Cross
+307346,28,MissedShots,0.7119999694824218,0.42700000762939455,0.03866538405418396,Dmitri Kombarov,h,2821,DirectFreekick,2019,LeftFoot,11032,Krylya Sovetov Samara,Arsenal Tula,2,3,2019-07-20 13:30:00,,Standard
+307351,42,Goal,0.9169999694824219,0.5359999847412109,0.08539912849664688,Alexander Sobolev,h,5397,OpenPlay,2019,RightFoot,11032,Krylya Sovetov Samara,Arsenal Tula,2,3,2019-07-20 13:30:00,Paul Anton,Cross
+307352,44,MissedShots,0.9319999694824219,0.425,0.04460938647389412,Alexander Sobolev,h,5397,OpenPlay,2019,Head,11032,Krylya Sovetov Samara,Arsenal Tula,2,3,2019-07-20 13:30:00,Dmitri Kombarov,Chipped
+307357,55,MissedShots,0.909000015258789,0.5609999847412109,0.12213478982448578,Dejan Radonjic,h,7644,SetPiece,2019,RightFoot,11032,Krylya Sovetov Samara,Arsenal Tula,2,3,2019-07-20 13:30:00,Alexander Sobolev,Pass
+307358,55,Goal,0.9619999694824218,0.43900001525878907,0.6027716398239136,Taras Burlak,h,2993,SetPiece,2019,RightFoot,11032,Krylya Sovetov Samara,Arsenal Tula,2,3,2019-07-20 13:30:00,Dejan Radonjic,Rebound
+307361,77,BlockedShot,0.889000015258789,0.5940000152587891,0.03200819715857506,Dejan Radonjic,h,7644,OpenPlay,2019,Head,11032,Krylya Sovetov Samara,Arsenal Tula,2,3,2019-07-20 13:30:00,Srdjan Mijailovic,Cross
+307362,80,SavedShot,0.759000015258789,0.6519999694824219,0.05188041925430298,Dmitri Kabutov,h,6603,DirectFreekick,2019,RightFoot,11032,Krylya Sovetov Samara,Arsenal Tula,2,3,2019-07-20 13:30:00,,Standard
+307363,81,SavedShot,0.98,0.49900001525878906,0.15745070576667786,Alexander Sobolev,h,5397,FromCorner,2019,Head,11032,Krylya Sovetov Samara,Arsenal Tula,2,3,2019-07-20 13:30:00,Dmitri Kabutov,Cross
+307364,88,MissedShots,0.91,0.475,0.02746695652604103,Taras Burlak,h,2993,FromCorner,2019,Head,11032,Krylya Sovetov Samara,Arsenal Tula,2,3,2019-07-20 13:30:00,Dmitri Kabutov,Aerial
+307336,1,SavedShot,0.705,0.5529999923706055,0.012665560469031334,Evans Kangwa,a,6275,OpenPlay,2019,LeftFoot,11032,Krylya Sovetov Samara,Arsenal Tula,2,3,2019-07-20 13:30:00,Sergey Tkachev,Pass
+307337,2,MissedShots,0.7119999694824218,0.22899999618530273,0.009698576293885708,Sergey Tkachev,a,2880,OpenPlay,2019,LeftFoot,11032,Krylya Sovetov Samara,Arsenal Tula,2,3,2019-07-20 13:30:00,Evans Kangwa,Pass
+307338,9,SavedShot,0.7390000152587891,0.7319999694824219,0.011936554685235023,Igor Gorbatenko,a,3151,OpenPlay,2019,LeftFoot,11032,Krylya Sovetov Samara,Arsenal Tula,2,3,2019-07-20 13:30:00,,BallRecovery
+307339,12,BlockedShot,0.745,0.35400001525878905,0.04608512669801712,Sergey Tkachev,a,2880,DirectFreekick,2019,LeftFoot,11032,Krylya Sovetov Samara,Arsenal Tula,2,3,2019-07-20 13:30:00,,Standard
+307340,12,MissedShots,0.7319999694824219,0.5520000076293945,0.0129963718354702,Igor Gorbatenko,a,3151,SetPiece,2019,LeftFoot,11032,Krylya Sovetov Samara,Arsenal Tula,2,3,2019-07-20 13:30:00,,Rebound
+307341,16,BlockedShot,0.6719999694824219,0.6229999923706054,0.009048026986420155,Igor Gorbatenko,a,3151,OpenPlay,2019,LeftFoot,11032,Krylya Sovetov Samara,Arsenal Tula,2,3,2019-07-20 13:30:00,,None
+307342,17,MissedShots,0.9069999694824219,0.42400001525878905,0.03915543854236603,Alexandru Tudorie,a,7629,FromCorner,2019,Head,11032,Krylya Sovetov Samara,Arsenal Tula,2,3,2019-07-20 13:30:00,Daniil Lesovoy,Cross
+307344,21,Goal,0.8959999847412109,0.445,0.10337268561124802,Sergey Tkachev,a,2880,OpenPlay,2019,RightFoot,11032,Krylya Sovetov Samara,Arsenal Tula,2,3,2019-07-20 13:30:00,Kirill Kombarov,Cross
+307345,23,Goal,0.875,0.5990000152587891,0.1037173718214035,Evans Kangwa,a,6275,OpenPlay,2019,RightFoot,11032,Krylya Sovetov Samara,Arsenal Tula,2,3,2019-07-20 13:30:00,Sergey Tkachev,Pass
+307347,32,SavedShot,0.7919999694824219,0.8159999847412109,0.01968436688184738,Daniil Lesovoy,a,6793,OpenPlay,2019,RightFoot,11032,Krylya Sovetov Samara,Arsenal Tula,2,3,2019-07-20 13:30:00,Goran Causic,Pass
+307348,34,MissedShots,0.8680000305175781,0.620999984741211,0.023380862548947334,Víctor Álvarez,a,2111,FromCorner,2019,LeftFoot,11032,Krylya Sovetov Samara,Arsenal Tula,2,3,2019-07-20 13:30:00,Igor Gorbatenko,Chipped
+307349,36,MissedShots,0.8980000305175782,0.165,0.04038061574101448,Alexandru Tudorie,a,7629,OpenPlay,2019,RightFoot,11032,Krylya Sovetov Samara,Arsenal Tula,2,3,2019-07-20 13:30:00,Igor Gorbatenko,Chipped
+307350,37,BlockedShot,0.7430000305175781,0.30700000762939456,0.017206743359565735,Goran Causic,a,5092,OpenPlay,2019,RightFoot,11032,Krylya Sovetov Samara,Arsenal Tula,2,3,2019-07-20 13:30:00,Sergey Tkachev,Pass
+307353,48,BlockedShot,0.8219999694824218,0.37900001525878907,0.028615981340408325,Daniil Lesovoy,a,6793,FromCorner,2019,LeftFoot,11032,Krylya Sovetov Samara,Arsenal Tula,2,3,2019-07-20 13:30:00,,None
+307354,48,BlockedShot,0.8119999694824219,0.48900001525878906,0.07420724630355835,Goran Causic,a,5092,OpenPlay,2019,RightFoot,11032,Krylya Sovetov Samara,Arsenal Tula,2,3,2019-07-20 13:30:00,Kirill Kombarov,Pass
+307355,48,MissedShots,0.835999984741211,0.6959999847412109,0.07105627655982971,Alexandru Tudorie,a,7629,OpenPlay,2019,RightFoot,11032,Krylya Sovetov Samara,Arsenal Tula,2,3,2019-07-20 13:30:00,Evans Kangwa,Pass
+307356,51,Goal,0.9780000305175781,0.5629999923706055,0.5388176441192627,Alexandru Tudorie,a,7629,FromCorner,2019,RightFoot,11032,Krylya Sovetov Samara,Arsenal Tula,2,3,2019-07-20 13:30:00,Maksim Belyaev,HeadPass
+307359,65,SavedShot,0.7859999847412109,0.8619999694824219,0.011844650842249393,Daniil Lesovoy,a,6793,OpenPlay,2019,RightFoot,11032,Krylya Sovetov Samara,Arsenal Tula,2,3,2019-07-20 13:30:00,,None
+307360,76,MissedShots,0.884000015258789,0.4929999923706055,0.07206610590219498,Evgeni Lutsenko,a,3035,OpenPlay,2019,Head,11032,Krylya Sovetov Samara,Arsenal Tula,2,3,2019-07-20 13:30:00,Kirill Kombarov,Cross

@@ -1,0 +1,25 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+24030,4,SavedShot,0.7530000305175781,0.34400001525878904,0.014618000015616417,Paddy McNair,h,559,OpenPlay,2014,RightFoot,4531,Manchester United,Burnley,3,1,2015-02-11 19:45:00,,None
+24031,5,Goal,0.9569999694824218,0.545,0.08801417797803879,Chris Smalling,h,628,FromCorner,2014,Head,4531,Manchester United,Burnley,3,1,2015-02-11 19:45:00,Falcao,Aerial
+24041,47,Goal,0.950999984741211,0.5690000152587891,0.3300262689590454,Chris Smalling,h,628,FromCorner,2014,Head,4531,Manchester United,Burnley,3,1,2015-02-11 19:45:00,Ángel Di María,Cross
+24043,50,MissedShots,0.8480000305175781,0.6959999847412109,0.046515461057424545,Marcos Rojo,h,550,OpenPlay,2014,RightFoot,4531,Manchester United,Burnley,3,1,2015-02-11 19:45:00,Wayne Rooney,Pass
+24044,55,SavedShot,0.8180000305175781,0.715,0.03660768270492554,Adnan Januzaj,h,323,OpenPlay,2014,LeftFoot,4531,Manchester United,Burnley,3,1,2015-02-11 19:45:00,Jonny Evans,TakeOn
+24046,65,BlockedShot,0.8069999694824219,0.28,0.030318286269903183,Ángel Di María,h,3553,OpenPlay,2014,LeftFoot,4531,Manchester United,Burnley,3,1,2015-02-11 19:45:00,Paddy McNair,Pass
+24047,65,MissedShots,0.7,0.26899999618530274,0.014177246019244194,Ángel Di María,h,3553,SetPiece,2014,LeftFoot,4531,Manchester United,Burnley,3,1,2015-02-11 19:45:00,Chris Smalling,Pass
+24049,81,Goal,0.885,0.5,0.7611688375473022,Robin van Persie,h,4387,Penalty,2014,LeftFoot,4531,Manchester United,Burnley,3,1,2015-02-11 19:45:00,,Standard
+24050,86,SavedShot,0.8919999694824219,0.5720000076293945,0.13275623321533203,Ángel Di María,h,3553,OpenPlay,2014,LeftFoot,4531,Manchester United,Burnley,3,1,2015-02-11 19:45:00,Paddy McNair,Pass
+24051,86,BlockedShot,0.9280000305175782,0.69,0.036609336733818054,Adnan Januzaj,h,323,OpenPlay,2014,LeftFoot,4531,Manchester United,Burnley,3,1,2015-02-11 19:45:00,,Rebound
+24052,92,MissedShots,0.9159999847412109,0.674000015258789,0.1352098435163498,James Wilson,h,992,OpenPlay,2014,LeftFoot,4531,Manchester United,Burnley,3,1,2015-02-11 19:45:00,Robin van Persie,Throughball
+24029,2,MissedShots,0.955999984741211,0.534000015258789,0.13184937834739685,Michael Keane,a,1653,FromCorner,2014,Head,4531,Manchester United,Burnley,3,1,2015-02-11 19:45:00,Kieran Trippier,Cross
+24032,8,SavedShot,0.9359999847412109,0.67,0.05509606748819351,Michael Kightly,a,1668,OpenPlay,2014,RightFoot,4531,Manchester United,Burnley,3,1,2015-02-11 19:45:00,Danny Ings,Chipped
+24033,11,Goal,0.9490000152587891,0.509000015258789,0.4918366074562073,Danny Ings,a,986,OpenPlay,2014,Head,4531,Manchester United,Burnley,3,1,2015-02-11 19:45:00,Kieran Trippier,Cross
+24034,15,BlockedShot,0.9340000152587891,0.5120000076293946,0.1300135850906372,Danny Ings,a,986,FromCorner,2014,RightFoot,4531,Manchester United,Burnley,3,1,2015-02-11 19:45:00,Kieran Trippier,Cross
+24035,16,MissedShots,0.799000015258789,0.6309999847412109,0.01339672226458788,Danny Ings,a,986,FromCorner,2014,LeftFoot,4531,Manchester United,Burnley,3,1,2015-02-11 19:45:00,Ben Mee,HeadPass
+24036,17,MissedShots,0.784000015258789,0.4779999923706055,0.03298376500606537,Ashley Barnes,a,4422,OpenPlay,2014,RightFoot,4531,Manchester United,Burnley,3,1,2015-02-11 19:45:00,Danny Ings,Pass
+24037,24,BlockedShot,0.7759999847412109,0.5609999847412109,0.021048052236437798,Michael Kightly,a,1668,FromCorner,2014,RightFoot,4531,Manchester United,Burnley,3,1,2015-02-11 19:45:00,,None
+24038,28,MissedShots,0.9380000305175781,0.5070000076293946,0.12477580457925797,Jason Shackell,a,4421,FromCorner,2014,Head,4531,Manchester United,Burnley,3,1,2015-02-11 19:45:00,Kieran Trippier,Cross
+24039,36,MissedShots,0.9319999694824219,0.4620000076293945,0.13114573061466217,Ashley Barnes,a,4422,OpenPlay,2014,Head,4531,Manchester United,Burnley,3,1,2015-02-11 19:45:00,Kieran Trippier,Cross
+24040,42,MissedShots,0.9459999847412109,0.5729999923706055,0.11791184544563293,Ashley Barnes,a,4422,OpenPlay,2014,LeftFoot,4531,Manchester United,Burnley,3,1,2015-02-11 19:45:00,Michael Kightly,Chipped
+24042,47,SavedShot,0.9369999694824219,0.524000015258789,0.5368367433547974,Danny Ings,a,986,OpenPlay,2014,RightFoot,4531,Manchester United,Burnley,3,1,2015-02-11 19:45:00,George Boyd,Pass
+24045,60,BlockedShot,0.8669999694824219,0.7580000305175781,0.026130378246307373,Michael Kightly,a,1668,OpenPlay,2014,RightFoot,4531,Manchester United,Burnley,3,1,2015-02-11 19:45:00,Ben Mee,Pass
+24048,79,BlockedShot,0.905,0.5820000076293945,0.037647146731615067,Michael Kightly,a,1668,FromCorner,2014,RightFoot,4531,Manchester United,Burnley,3,1,2015-02-11 19:45:00,,Aerial

@@ -1,0 +1,22 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+369438,13,BlockedShot,0.730999984741211,0.3820000076293945,0.052324432879686356,Daniel Parejo,h,2378,DirectFreekick,2019,RightFoot,12368,Valencia,Real Valladolid,2,1,2020-07-07 17:30:00,,Standard
+369439,14,MissedShots,0.9359999847412109,0.44799999237060545,0.117943175137043,Geoffrey Kondogbia,h,1516,FromCorner,2019,Head,12368,Valencia,Real Valladolid,2,1,2020-07-07 17:30:00,Daniel Parejo,Cross
+369440,18,MissedShots,0.7080000305175781,0.48700000762939455,0.009136215783655643,Geoffrey Kondogbia,h,1516,OpenPlay,2019,LeftFoot,12368,Valencia,Real Valladolid,2,1,2020-07-07 17:30:00,Daniel Parejo,Chipped
+369441,21,SavedShot,0.7190000152587891,0.5479999923706055,0.015135381370782852,Geoffrey Kondogbia,h,1516,OpenPlay,2019,LeftFoot,12368,Valencia,Real Valladolid,2,1,2020-07-07 17:30:00,,BallRecovery
+369444,29,Goal,0.955,0.5159999847412109,0.6688684225082397,Maxi Gómez,h,6124,OpenPlay,2019,RightFoot,12368,Valencia,Real Valladolid,2,1,2020-07-07 17:30:00,Kevin Gameiro,Pass
+369445,34,BlockedShot,0.725999984741211,0.42200000762939455,0.02432793192565441,Maxi Gómez,h,6124,OpenPlay,2019,RightFoot,12368,Valencia,Real Valladolid,2,1,2020-07-07 17:30:00,Kevin Gameiro,Pass
+369447,41,BlockedShot,0.774000015258789,0.42400001525878905,0.03762989491224289,Gonçalo Guedes,h,5682,OpenPlay,2019,RightFoot,12368,Valencia,Real Valladolid,2,1,2020-07-07 17:30:00,Maxi Gómez,Pass
+369450,52,SavedShot,0.9269999694824219,0.47299999237060547,0.11619880795478821,Maxi Gómez,h,6124,FromCorner,2019,Head,12368,Valencia,Real Valladolid,2,1,2020-07-07 17:30:00,Daniel Parejo,Cross
+369453,67,MissedShots,0.8819999694824219,0.5270000076293946,0.0781126543879509,Manu Vallejo,h,7834,OpenPlay,2019,RightFoot,12368,Valencia,Real Valladolid,2,1,2020-07-07 17:30:00,Alessandro Florenzi,Cross
+369458,88,Goal,0.8190000152587891,0.295,0.02727719023823738,Lee Kang-In,h,7313,OpenPlay,2019,LeftFoot,12368,Valencia,Real Valladolid,2,1,2020-07-07 17:30:00,Geoffrey Kondogbia,Pass
+369442,25,SavedShot,0.9290000152587891,0.6669999694824219,0.05691564455628395,Waldo Rubio,a,7525,OpenPlay,2019,RightFoot,12368,Valencia,Real Valladolid,2,1,2020-07-07 17:30:00,Nacho,Chipped
+369443,28,MissedShots,0.95,0.3770000076293945,0.044597119092941284,Víctor García,a,8500,OpenPlay,2019,Head,12368,Valencia,Real Valladolid,2,1,2020-07-07 17:30:00,Waldo Rubio,Cross
+369446,36,MissedShots,0.7930000305175782,0.6819999694824219,0.02331504039466381,Kike Pérez,a,8470,OpenPlay,2019,LeftFoot,12368,Valencia,Real Valladolid,2,1,2020-07-07 17:30:00,Waldo Rubio,Pass
+369448,46,BlockedShot,0.764000015258789,0.735,0.009968648664653301,Waldo Rubio,a,7525,OpenPlay,2019,RightFoot,12368,Valencia,Real Valladolid,2,1,2020-07-07 17:30:00,Kike Pérez,Chipped
+369449,46,Goal,0.889000015258789,0.4540000152587891,0.09505852311849594,Víctor García,a,8500,OpenPlay,2019,RightFoot,12368,Valencia,Real Valladolid,2,1,2020-07-07 17:30:00,,Rebound
+369451,57,MissedShots,0.745999984741211,0.5879999923706055,0.03756561130285263,Waldo Rubio,a,7525,OpenPlay,2019,RightFoot,12368,Valencia,Real Valladolid,2,1,2020-07-07 17:30:00,Víctor García,Pass
+369452,65,MissedShots,0.4829999923706055,0.789000015258789,0.0069865575060248375,Kike Pérez,a,8470,OpenPlay,2019,LeftFoot,12368,Valencia,Real Valladolid,2,1,2020-07-07 17:30:00,,BallRecovery
+369454,79,SavedShot,0.7980000305175782,0.18600000381469728,0.01060357317328453,Pablo Hervías,a,4054,OpenPlay,2019,LeftFoot,12368,Valencia,Real Valladolid,2,1,2020-07-07 17:30:00,Rubén Alcaraz,Chipped
+369455,85,BlockedShot,0.9109999847412109,0.5170000076293946,0.062291499227285385,Kiko Olivas,a,6915,OpenPlay,2019,Head,12368,Valencia,Real Valladolid,2,1,2020-07-07 17:30:00,Rubén Alcaraz,Aerial
+369456,85,SavedShot,0.9369999694824219,0.6220000076293946,0.020268695428967476,Pablo Hervías,a,4054,OpenPlay,2019,Head,12368,Valencia,Real Valladolid,2,1,2020-07-07 17:30:00,,Rebound
+369457,86,SavedShot,0.8,0.4129999923706055,0.04168020933866501,Rubén Alcaraz,a,6917,OpenPlay,2019,RightFoot,12368,Valencia,Real Valladolid,2,1,2020-07-07 17:30:00,Sergi Guardiola,Pass

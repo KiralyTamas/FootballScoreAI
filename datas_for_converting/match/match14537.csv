@@ -1,0 +1,22 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+389946,2,Goal,0.75,0.4370000076293945,0.02193276956677437,Robbie Brady,h,789,OpenPlay,2020,RightFoot,14537,Burnley,Everton,1,1,2020-12-05 12:30:00,Ashley Westwood,BallRecovery
+389948,9,BlockedShot,0.8440000152587891,0.625,0.06604751944541931,Chris Wood,h,4456,OpenPlay,2020,RightFoot,14537,Burnley,Everton,1,1,2020-12-05 12:30:00,Matthew Lowton,Chipped
+389951,21,MissedShots,0.755,0.505,0.03217042237520218,Josh Brownhill,h,8323,OpenPlay,2020,RightFoot,14537,Burnley,Everton,1,1,2020-12-05 12:30:00,Robbie Brady,Pass
+389954,40,SavedShot,0.8780000305175781,0.534000015258789,0.3798440098762512,Chris Wood,h,4456,OpenPlay,2020,LeftFoot,14537,Burnley,Everton,1,1,2020-12-05 12:30:00,Dwight McNeil,Throughball
+389958,66,BlockedShot,0.84,0.48900001525878906,0.024571675807237625,Robbie Brady,h,789,FromCorner,2020,LeftFoot,14537,Burnley,Everton,1,1,2020-12-05 12:30:00,,Aerial
+389960,77,BlockedShot,0.905,0.615,0.1104392558336258,Josh Brownhill,h,8323,SetPiece,2020,LeftFoot,14537,Burnley,Everton,1,1,2020-12-05 12:30:00,Chris Wood,TakeOn
+389964,82,SavedShot,0.915,0.509000015258789,0.0390201210975647,Chris Wood,h,4456,FromCorner,2020,Head,14537,Burnley,Everton,1,1,2020-12-05 12:30:00,Dwight McNeil,Aerial
+389966,91,MissedShots,0.8159999847412109,0.5479999923706055,0.0564083606004715,Dwight McNeil,h,6756,OpenPlay,2020,LeftFoot,14537,Burnley,Everton,1,1,2020-12-05 12:30:00,Ashley Barnes,BallTouch
+389947,6,BlockedShot,0.7919999694824219,0.3220000076293945,0.01971408538520336,James Rodríguez,a,2249,OpenPlay,2020,LeftFoot,14537,Burnley,Everton,1,1,2020-12-05 12:30:00,Abdoulaye Doucouré,Pass
+389949,12,SavedShot,0.9619999694824218,0.4779999923706055,0.6143262982368469,Dominic Calvert-Lewin,a,5555,OpenPlay,2020,RightFoot,14537,Burnley,Everton,1,1,2020-12-05 12:30:00,Alex Iwobi,Cross
+389950,17,SavedShot,0.9019999694824219,0.7319999694824219,0.02686682902276516,Richarlison,a,6026,OpenPlay,2020,LeftFoot,14537,Burnley,Everton,1,1,2020-12-05 12:30:00,James Rodríguez,Chipped
+389952,30,MissedShots,0.735999984741211,0.48,0.015473222360014915,André Gomes,a,2383,FromCorner,2020,RightFoot,14537,Burnley,Everton,1,1,2020-12-05 12:30:00,,None
+389953,35,MissedShots,0.799000015258789,0.6469999694824219,0.028148189187049866,Richarlison,a,6026,OpenPlay,2020,LeftFoot,14537,Burnley,Everton,1,1,2020-12-05 12:30:00,Allan,Pass
+389955,47,Goal,0.965,0.5270000076293946,0.7117443084716797,Dominic Calvert-Lewin,a,5555,OpenPlay,2020,RightFoot,14537,Burnley,Everton,1,1,2020-12-05 12:30:00,Richarlison,Pass
+389956,48,BlockedShot,0.8580000305175781,0.3609999847412109,0.094173863530159,Dominic Calvert-Lewin,a,5555,OpenPlay,2020,LeftFoot,14537,Burnley,Everton,1,1,2020-12-05 12:30:00,André Gomes,Pass
+389957,50,SavedShot,0.7930000305175782,0.445,0.045186106115579605,James Rodríguez,a,2249,OpenPlay,2020,LeftFoot,14537,Burnley,Everton,1,1,2020-12-05 12:30:00,Abdoulaye Doucouré,LayOff
+389959,68,BlockedShot,0.8490000152587891,0.34599998474121096,0.05294191837310791,James Rodríguez,a,2249,OpenPlay,2020,LeftFoot,14537,Burnley,Everton,1,1,2020-12-05 12:30:00,Alex Iwobi,Pass
+389961,79,BlockedShot,0.8430000305175781,0.6469999694824219,0.05170174315571785,Alex Iwobi,a,500,OpenPlay,2020,RightFoot,14537,Burnley,Everton,1,1,2020-12-05 12:30:00,Richarlison,Pass
+389962,79,MissedShots,0.7719999694824219,0.48700000762939455,0.028309931978583336,André Gomes,a,2383,OpenPlay,2020,LeftFoot,14537,Burnley,Everton,1,1,2020-12-05 12:30:00,,None
+389963,81,SavedShot,0.91,0.7319999694824219,0.1606021374464035,Dominic Calvert-Lewin,a,5555,OpenPlay,2020,LeftFoot,14537,Burnley,Everton,1,1,2020-12-05 12:30:00,Richarlison,Pass
+389965,90,SavedShot,0.89,0.4779999923706055,0.43219903111457825,Gylfi Sigurdsson,a,714,OpenPlay,2020,RightFoot,14537,Burnley,Everton,1,1,2020-12-05 12:30:00,James Rodríguez,Throughball

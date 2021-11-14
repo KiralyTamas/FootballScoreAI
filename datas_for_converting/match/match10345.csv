@@ -1,0 +1,23 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+220745,19,SavedShot,0.9719999694824218,0.6930000305175781,0.2558864951133728,Thomas Delaney,h,5230,OpenPlay,2018,LeftFoot,10345,Borussia Dortmund,RasenBallsport Leipzig,4,1,2018-08-26 19:00:00,Marco Reus,Pass
+220746,19,BlockedShot,0.845999984741211,0.545,0.05889126658439636,Marco Reus,h,319,OpenPlay,2018,LeftFoot,10345,Borussia Dortmund,RasenBallsport Leipzig,4,1,2018-08-26 19:00:00,Thomas Delaney,None
+220747,20,Goal,0.9019999694824219,0.5179999923706055,0.2608135938644409,Mahmoud Dahoud,h,205,OpenPlay,2018,Head,10345,Borussia Dortmund,RasenBallsport Leipzig,4,1,2018-08-26 19:00:00,Marcel Schmelzer,Cross
+220752,42,SavedShot,0.919000015258789,0.5520000076293945,0.26741522550582886,Thomas Delaney,h,5230,FromCorner,2018,Head,10345,Borussia Dortmund,RasenBallsport Leipzig,4,1,2018-08-26 19:00:00,Christian Pulisic,Cross
+220753,42,Goal,0.960999984741211,0.5690000152587891,0.5291277766227722,Axel Witsel,h,3059,FromCorner,2018,RightFoot,10345,Borussia Dortmund,RasenBallsport Leipzig,4,1,2018-08-26 19:00:00,,Rebound
+220754,48,BlockedShot,0.754000015258789,0.2929999923706055,0.028643490746617317,Mahmoud Dahoud,h,205,OpenPlay,2018,RightFoot,10345,Borussia Dortmund,RasenBallsport Leipzig,4,1,2018-08-26 19:00:00,Lukasz Piszczek,Pass
+220757,54,MissedShots,0.9030000305175782,0.53,0.023704146966338158,Thomas Delaney,h,5230,FromCorner,2018,Head,10345,Borussia Dortmund,RasenBallsport Leipzig,4,1,2018-08-26 19:00:00,Christian Pulisic,Aerial
+220758,56,MissedShots,0.899000015258789,0.47,0.49713245034217834,Mahmoud Dahoud,h,205,OpenPlay,2018,RightFoot,10345,Borussia Dortmund,RasenBallsport Leipzig,4,1,2018-08-26 19:00:00,Marco Reus,Pass
+220763,89,BlockedShot,0.7680000305175781,0.42400001525878905,0.028175286948680878,Mahmoud Dahoud,h,205,OpenPlay,2018,RightFoot,10345,Borussia Dortmund,RasenBallsport Leipzig,4,1,2018-08-26 19:00:00,Marco Reus,Pass
+220764,90,Goal,0.9030000305175782,0.645,0.15323466062545776,Marco Reus,h,319,OpenPlay,2018,LeftFoot,10345,Borussia Dortmund,RasenBallsport Leipzig,4,1,2018-08-26 19:00:00,Jadon Sancho,Throughball
+220743,0,Goal,0.8930000305175781,0.4640000152587891,0.42736124992370605,Jean-Kevin Augustin,a,3299,OpenPlay,2018,RightFoot,10345,Borussia Dortmund,RasenBallsport Leipzig,4,1,2018-08-26 19:00:00,,None
+220744,1,MissedShots,0.925,0.5459999847412109,0.0705796629190445,Yussuf Poulsen,a,5250,OpenPlay,2018,Head,10345,Borussia Dortmund,RasenBallsport Leipzig,4,1,2018-08-26 19:00:00,Marcel Sabitzer,HeadPass
+220748,26,MissedShots,0.9740000152587891,0.565,0.11290767043828964,Yussuf Poulsen,a,5250,OpenPlay,2018,Head,10345,Borussia Dortmund,RasenBallsport Leipzig,4,1,2018-08-26 19:00:00,,Aerial
+220749,27,SavedShot,0.875,0.645,0.3391774594783783,Jean-Kevin Augustin,a,3299,OpenPlay,2018,RightFoot,10345,Borussia Dortmund,RasenBallsport Leipzig,4,1,2018-08-26 19:00:00,Emil Forsberg,Throughball
+220750,35,SavedShot,0.7969999694824219,0.7569999694824219,0.02177424542605877,Emil Forsberg,a,5249,OpenPlay,2018,RightFoot,10345,Borussia Dortmund,RasenBallsport Leipzig,4,1,2018-08-26 19:00:00,Diego Demme,Pass
+220751,39,OwnGoal,0.13,0.40900001525878904,0,Marcel Sabitzer,a,5248,SetPiece,2018,Head,10345,Borussia Dortmund,RasenBallsport Leipzig,4,1,2018-08-26 19:00:00,,Foul
+220755,49,SavedShot,0.9390000152587891,0.3039999961853027,0.02096053585410118,Lukas Klostermann,a,5358,OpenPlay,2018,RightFoot,10345,Borussia Dortmund,RasenBallsport Leipzig,4,1,2018-08-26 19:00:00,Timo Werner,Cross
+220756,52,SavedShot,0.7469999694824219,0.25,0.03799443319439888,Emil Forsberg,a,5249,DirectFreekick,2018,RightFoot,10345,Borussia Dortmund,RasenBallsport Leipzig,4,1,2018-08-26 19:00:00,,Standard
+220759,58,BlockedShot,0.8280000305175781,0.28299999237060547,0.01946362666785717,Diego Demme,a,5246,OpenPlay,2018,RightFoot,10345,Borussia Dortmund,RasenBallsport Leipzig,4,1,2018-08-26 19:00:00,,None
+220760,66,MissedShots,0.93,0.49700000762939456,0.09655298292636871,Emil Forsberg,a,5249,OpenPlay,2018,RightFoot,10345,Borussia Dortmund,RasenBallsport Leipzig,4,1,2018-08-26 19:00:00,Lukas Klostermann,Cross
+220761,84,SavedShot,0.875,0.6840000152587891,0.28329965472221375,Timo Werner,a,65,OpenPlay,2018,LeftFoot,10345,Borussia Dortmund,RasenBallsport Leipzig,4,1,2018-08-26 19:00:00,Emil Forsberg,Throughball
+220762,85,SavedShot,0.860999984741211,0.645,0.03261221572756767,Bruma,a,2235,OpenPlay,2018,LeftFoot,10345,Borussia Dortmund,RasenBallsport Leipzig,4,1,2018-08-26 19:00:00,Matheus Cunha,Chipped

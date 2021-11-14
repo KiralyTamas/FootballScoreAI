@@ -1,0 +1,29 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+307190,11,BlockedShot,0.7609999847412109,0.61,0.014349691569805145,Anton Zinkovskiy,h,7454,OpenPlay,2019,LeftFoot,11027,Krylya Sovetov Samara,CSKA Moscow,2,0,2019-07-14 13:30:00,Alexander Sobolev,HeadPass
+307195,15,BlockedShot,0.9280000305175782,0.3340000152587891,0.08497979491949081,Dmitri Kabutov,h,6603,OpenPlay,2019,RightFoot,11027,Krylya Sovetov Samara,CSKA Moscow,2,0,2019-07-14 13:30:00,Alexander Sobolev,Pass
+307196,31,SavedShot,0.7919999694824219,0.68,0.012580033391714096,Paul Anton,h,6575,OpenPlay,2019,RightFoot,11027,Krylya Sovetov Samara,CSKA Moscow,2,0,2019-07-14 13:30:00,Maxim Karpov,Chipped
+307199,50,Goal,0.8630000305175781,0.5259999847412109,0.04818709194660187,Alexander Sobolev,h,5397,OpenPlay,2019,RightFoot,11027,Krylya Sovetov Samara,CSKA Moscow,2,0,2019-07-14 13:30:00,Dmitri Kabutov,Aerial
+307201,56,BlockedShot,0.89,0.649000015258789,0.08934973180294037,Paul Anton,h,6575,OpenPlay,2019,LeftFoot,11027,Krylya Sovetov Samara,CSKA Moscow,2,0,2019-07-14 13:30:00,Alexander Sobolev,Pass
+307202,57,Goal,0.885,0.5,0.7542753219604492,Alexander Sobolev,h,5397,Penalty,2019,RightFoot,11027,Krylya Sovetov Samara,CSKA Moscow,2,0,2019-07-14 13:30:00,,Standard
+307209,71,SavedShot,0.7609999847412109,0.375,0.025501798838377,Srdjan Mijailovic,h,5405,OpenPlay,2019,RightFoot,11027,Krylya Sovetov Samara,CSKA Moscow,2,0,2019-07-14 13:30:00,,TakeOn
+307210,72,SavedShot,0.909000015258789,0.6329999923706054,0.12734000384807587,Artem Timofeev,h,3026,OpenPlay,2019,LeftFoot,11027,Krylya Sovetov Samara,CSKA Moscow,2,0,2019-07-14 13:30:00,Radu Ginsari,Pass
+307211,72,SavedShot,0.735999984741211,0.6079999923706054,0.05272415280342102,Anton Zinkovskiy,h,7454,OpenPlay,2019,RightFoot,11027,Krylya Sovetov Samara,CSKA Moscow,2,0,2019-07-14 13:30:00,,TakeOn
+307189,9,BlockedShot,0.745,0.585,0.02001352794468403,Arnór Sigurdsson,a,7136,OpenPlay,2019,RightFoot,11027,Krylya Sovetov Samara,CSKA Moscow,2,0,2019-07-14 13:30:00,Ivan Oblyakov,Pass
+307191,11,BlockedShot,0.9269999694824219,0.30100000381469727,0.05842684954404831,Ilzat Akhmetov,a,2978,OpenPlay,2019,RightFoot,11027,Krylya Sovetov Samara,CSKA Moscow,2,0,2019-07-14 13:30:00,Fedor Chalov,Pass
+307192,12,BlockedShot,0.8109999847412109,0.40400001525878904,0.04475235566496849,Ivan Oblyakov,a,5442,OpenPlay,2019,RightFoot,11027,Krylya Sovetov Samara,CSKA Moscow,2,0,2019-07-14 13:30:00,Fedor Chalov,BallTouch
+307193,12,BlockedShot,0.7930000305175782,0.3320000076293945,0.018333613872528076,Nikola Vlasic,a,6276,OpenPlay,2019,RightFoot,11027,Krylya Sovetov Samara,CSKA Moscow,2,0,2019-07-14 13:30:00,,Rebound
+307194,12,MissedShots,0.840999984741211,0.4329999923706055,0.07906372845172882,Arnór Sigurdsson,a,7136,OpenPlay,2019,RightFoot,11027,Krylya Sovetov Samara,CSKA Moscow,2,0,2019-07-14 13:30:00,Mario Fernandes,Pass
+307197,35,MissedShots,0.9159999847412109,0.4759999847412109,0.0839400514960289,Hördur Bjorgvin Magnusson,a,3924,FromCorner,2019,Head,11027,Krylya Sovetov Samara,CSKA Moscow,2,0,2019-07-14 13:30:00,Nikola Vlasic,Cross
+307198,41,MissedShots,0.8569999694824219,0.575,0.014269523322582245,Fedor Chalov,a,5454,OpenPlay,2019,Head,11027,Krylya Sovetov Samara,CSKA Moscow,2,0,2019-07-14 13:30:00,Arnór Sigurdsson,Cross
+307200,54,MissedShots,0.8880000305175781,0.27399999618530274,0.03757935389876366,Nikola Vlasic,a,6276,OpenPlay,2019,LeftFoot,11027,Krylya Sovetov Samara,CSKA Moscow,2,0,2019-07-14 13:30:00,Ilzat Akhmetov,Pass
+307203,59,MissedShots,0.749000015258789,0.3529999923706055,0.012431015260517597,Kristijan Bistrovic,a,6585,OpenPlay,2019,RightFoot,11027,Krylya Sovetov Samara,CSKA Moscow,2,0,2019-07-14 13:30:00,Mario Fernandes,Pass
+307204,63,SavedShot,0.730999984741211,0.5479999923706055,0.014816158451139927,Ivan Oblyakov,a,5442,OpenPlay,2019,LeftFoot,11027,Krylya Sovetov Samara,CSKA Moscow,2,0,2019-07-14 13:30:00,Kristijan Bistrovic,Pass
+307205,65,BlockedShot,0.855999984741211,0.4,0.08478782325983047,Jaka Bijol,a,6807,OpenPlay,2019,LeftFoot,11027,Krylya Sovetov Samara,CSKA Moscow,2,0,2019-07-14 13:30:00,Mario Fernandes,Pass
+307206,67,MissedShots,0.8780000305175781,0.485,0.061201173812150955,Jaka Bijol,a,6807,OpenPlay,2019,RightFoot,11027,Krylya Sovetov Samara,CSKA Moscow,2,0,2019-07-14 13:30:00,Nikola Vlasic,HeadPass
+307207,69,BlockedShot,0.8519999694824218,0.455,0.09291397780179977,Jaka Bijol,a,6807,OpenPlay,2019,LeftFoot,11027,Krylya Sovetov Samara,CSKA Moscow,2,0,2019-07-14 13:30:00,Mario Fernandes,Pass
+307208,69,MissedShots,0.9319999694824219,0.5029999923706054,0.09582329541444778,Jaka Bijol,a,6807,OpenPlay,2019,Head,11027,Krylya Sovetov Samara,CSKA Moscow,2,0,2019-07-14 13:30:00,Hördur Bjorgvin Magnusson,Aerial
+307212,73,BlockedShot,0.815,0.6229999923706054,0.026572877541184425,Nikola Vlasic,a,6276,OpenPlay,2019,RightFoot,11027,Krylya Sovetov Samara,CSKA Moscow,2,0,2019-07-14 13:30:00,,None
+307213,81,SavedShot,0.78,0.7140000152587891,0.04984825477004051,Ivan Oblyakov,a,5442,DirectFreekick,2019,LeftFoot,11027,Krylya Sovetov Samara,CSKA Moscow,2,0,2019-07-14 13:30:00,,Standard
+307214,92,BlockedShot,0.8059999847412109,0.345,0.03238691762089729,Fedor Chalov,a,5454,OpenPlay,2019,RightFoot,11027,Krylya Sovetov Samara,CSKA Moscow,2,0,2019-07-14 13:30:00,Nikola Vlasic,BallRecovery
+307215,93,MissedShots,0.9440000152587891,0.5359999847412109,0.06516294926404953,Jaka Bijol,a,6807,FromCorner,2019,Head,11027,Krylya Sovetov Samara,CSKA Moscow,2,0,2019-07-14 13:30:00,Ivan Oblyakov,Aerial
+307216,94,BlockedShot,0.8369999694824218,0.43099998474121093,0.057685233652591705,Jaka Bijol,a,6807,OpenPlay,2019,LeftFoot,11027,Krylya Sovetov Samara,CSKA Moscow,2,0,2019-07-14 13:30:00,,BallTouch

@@ -1,0 +1,20 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+106515,11,Goal,0.9569999694824218,0.5170000076293946,0.5565348267555237,Opa Nguette,h,5676,FromCorner,2016,RightFoot,3268,Metz,Guingamp,2,2,2016-12-21 23:50:00,Thibaut Vion,HeadPass
+106516,34,MissedShots,0.7240000152587891,0.4640000152587891,0.019187049940228462,Georges Mandjeck,h,5674,OpenPlay,2016,RightFoot,3268,Metz,Guingamp,2,2,2016-12-21 23:50:00,Ismaila Sarr,Pass
+106522,63,MissedShots,0.845999984741211,0.5279999923706055,0.09038384258747101,Cheick Doukoure,h,4741,OpenPlay,2016,LeftFoot,3268,Metz,Guingamp,2,2,2016-12-21 23:50:00,Renaud Cohade,Pass
+106524,69,BlockedShot,0.745999984741211,0.38599998474121094,0.022456487640738487,Thibaut Vion,h,4859,OpenPlay,2016,RightFoot,3268,Metz,Guingamp,2,2,2016-12-21 23:50:00,Georges Mandjeck,Pass
+106527,78,SavedShot,0.8590000152587891,0.48900001525878906,0.028279531747102737,Thibaut Vion,h,4859,OpenPlay,2016,Head,3268,Metz,Guingamp,2,2,2016-12-21 23:50:00,Jonathan Rivierez,Cross
+106528,82,SavedShot,0.7909999847412109,0.3729999923706055,0.02903137542307377,Florent Mollet,h,5677,OpenPlay,2016,RightFoot,3268,Metz,Guingamp,2,2,2016-12-21 23:50:00,Gauthier Hein,Pass
+106530,89,SavedShot,0.8530000305175781,0.425,0.30121129751205444,Habib Diallo,h,5769,OpenPlay,2016,RightFoot,3268,Metz,Guingamp,2,2,2016-12-21 23:50:00,Gauthier Hein,Pass
+106531,89,MissedShots,0.815,0.6469999694824219,0.034896060824394226,Gauthier Hein,h,5727,OpenPlay,2016,LeftFoot,3268,Metz,Guingamp,2,2,2016-12-21 23:50:00,,Rebound
+106532,91,MissedShots,0.889000015258789,0.6619999694824219,0.04460074007511139,Gauthier Hein,h,5727,FromCorner,2016,LeftFoot,3268,Metz,Guingamp,2,2,2016-12-21 23:50:00,Habib Diallo,Pass
+106517,48,Goal,0.945,0.425,0.41745835542678833,Jimmy Briand,a,3477,FromCorner,2016,RightFoot,3268,Metz,Guingamp,2,2,2016-12-21 23:50:00,Benjamin Angoua,HeadPass
+106518,53,MissedShots,0.9290000152587891,0.4540000152587891,0.3466390073299408,Moustapha Diallo,a,3575,OpenPlay,2016,Head,3268,Metz,Guingamp,2,2,2016-12-21 23:50:00,Fernando Marçal,Cross
+106519,55,BlockedShot,0.845,0.45799999237060546,0.052645716816186905,Jimmy Briand,a,3477,OpenPlay,2016,RightFoot,3268,Metz,Guingamp,2,2,2016-12-21 23:50:00,Yannis Salibur,Cross
+106520,55,SavedShot,0.8140000152587891,0.76,0.022273996844887733,Alexandre Mendy,a,3580,OpenPlay,2016,RightFoot,3268,Metz,Guingamp,2,2,2016-12-21 23:50:00,Jimmy Briand,Pass
+106521,58,SavedShot,0.99,0.395,0.04452156648039818,Alexandre Mendy,a,3580,OpenPlay,2016,RightFoot,3268,Metz,Guingamp,2,2,2016-12-21 23:50:00,Jordan Ikoko,Cross
+106523,67,BlockedShot,0.7340000152587891,0.515,0.015301442705094814,Thibault Giresse,a,3476,OpenPlay,2016,LeftFoot,3268,Metz,Guingamp,2,2,2016-12-21 23:50:00,,None
+106525,73,Goal,0.8669999694824219,0.5870000076293945,0.2865002751350403,Jimmy Briand,a,3477,OpenPlay,2016,RightFoot,3268,Metz,Guingamp,2,2,2016-12-21 23:50:00,Fernando Marçal,Cross
+106526,76,BlockedShot,0.9019999694824219,0.405,0.09437040984630585,Thibault Giresse,a,3476,OpenPlay,2016,LeftFoot,3268,Metz,Guingamp,2,2,2016-12-21 23:50:00,Fernando Marçal,Cross
+106529,86,MissedShots,0.879000015258789,0.5459999847412109,0.39099034667015076,Yannis Salibur,a,3473,OpenPlay,2016,RightFoot,3268,Metz,Guingamp,2,2,2016-12-21 23:50:00,Fernando Marçal,Pass
+106533,91,OwnGoal,0.125,0.46,0,Moustapha Diallo,a,3575,FromCorner,2016,OtherBodyPart,3268,Metz,Guingamp,2,2,2016-12-21 23:50:00,,CornerAwarded

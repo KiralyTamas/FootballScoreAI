@@ -1,0 +1,25 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+164932,0,SavedShot,0.9080000305175782,0.4520000076293945,0.10719390213489532,Stéphane Bahoken,h,5980,OpenPlay,2017,RightFoot,8694,Strasbourg,Rennes,2,1,2017-11-18 19:00:00,Jérémy Blayac,Cross
+164933,1,MissedShots,0.805,0.35900001525878905,0.02376442588865757,Jonas Martin,h,3346,FromCorner,2017,RightFoot,8694,Strasbourg,Rennes,2,1,2017-11-18 19:00:00,,None
+164935,12,MissedShots,0.754000015258789,0.580999984741211,0.030834589153528214,Ernest Seka,h,5986,OpenPlay,2017,RightFoot,8694,Strasbourg,Rennes,2,1,2017-11-18 19:00:00,,TakeOn
+164938,27,BlockedShot,0.6909999847412109,0.48200000762939454,0.009350496344268322,Ernest Seka,h,5986,OpenPlay,2017,RightFoot,8694,Strasbourg,Rennes,2,1,2017-11-18 19:00:00,,Aerial
+164939,27,Goal,0.85,0.47400001525878904,0.31063663959503174,Jérémy Blayac,h,5983,OpenPlay,2017,LeftFoot,8694,Strasbourg,Rennes,2,1,2017-11-18 19:00:00,Ernest Seka,Rebound
+164941,34,SavedShot,0.749000015258789,0.4909999847412109,0.02320770174264908,Dmitri Lienard,h,5978,OpenPlay,2017,LeftFoot,8694,Strasbourg,Rennes,2,1,2017-11-18 19:00:00,,TakeOn
+164942,43,MissedShots,0.905,0.4209999847412109,0.10143578052520752,Jérémy Blayac,h,5983,OpenPlay,2017,RightFoot,8694,Strasbourg,Rennes,2,1,2017-11-18 19:00:00,Anthony Goncalves,Cross
+164943,43,SavedShot,0.9219999694824219,0.59,0.3805476725101471,Stéphane Bahoken,h,5980,OpenPlay,2017,RightFoot,8694,Strasbourg,Rennes,2,1,2017-11-18 19:00:00,Jérémy Blayac,Rebound
+164944,46,MissedShots,0.925,0.5940000152587891,0.0589420311152935,Ernest Seka,h,5986,FromCorner,2017,Head,8694,Strasbourg,Rennes,2,1,2017-11-18 19:00:00,Dmitri Lienard,Cross
+164947,55,MissedShots,0.925,0.44299999237060544,0.08957620710134506,Yoann Salmier,h,5976,FromCorner,2017,Head,8694,Strasbourg,Rennes,2,1,2017-11-18 19:00:00,Dmitri Lienard,Cross
+164951,81,Goal,0.9059999847412109,0.5279999923706055,0.31367284059524536,Stéphane Bahoken,h,5980,OpenPlay,2017,Head,8694,Strasbourg,Rennes,2,1,2017-11-18 19:00:00,Dmitri Lienard,Cross
+164934,8,SavedShot,0.855999984741211,0.5120000076293946,0.06992881745100021,Brandon,a,6004,OpenPlay,2017,RightFoot,8694,Strasbourg,Rennes,2,1,2017-11-18 19:00:00,Adrien Hunou,Chipped
+164936,13,MissedShots,0.92,0.509000015258789,0.06162681803107262,Adrien Hunou,a,3795,OpenPlay,2017,Head,8694,Strasbourg,Rennes,2,1,2017-11-18 19:00:00,Brandon,Aerial
+164937,25,MissedShots,0.9530000305175781,0.5590000152587891,0.12555983662605286,Benjamin André,a,3223,FromCorner,2017,RightFoot,8694,Strasbourg,Rennes,2,1,2017-11-18 19:00:00,James Edward Lea Siliki,Cross
+164940,29,MissedShots,0.9130000305175782,0.7319999694824219,0.04281476140022278,Morgan Amalfitano,a,3364,SetPiece,2017,LeftFoot,8694,Strasbourg,Rennes,2,1,2017-11-18 19:00:00,Hamari Traore,Chipped
+164945,46,SavedShot,0.7859999847412109,0.44099998474121094,0.03755253925919533,Adrien Hunou,a,3795,OpenPlay,2017,RightFoot,8694,Strasbourg,Rennes,2,1,2017-11-18 19:00:00,Firmin Ndombe Mubele,Pass
+164946,49,SavedShot,0.8190000152587891,0.45799999237060546,0.0607617124915123,James Edward Lea Siliki,a,5770,OpenPlay,2017,LeftFoot,8694,Strasbourg,Rennes,2,1,2017-11-18 19:00:00,Adrien Hunou,Pass
+164948,61,MissedShots,0.7330000305175781,0.3029999923706055,0.009328457526862621,Hamari Traore,a,3239,SetPiece,2017,RightFoot,8694,Strasbourg,Rennes,2,1,2017-11-18 19:00:00,,None
+164949,63,MissedShots,0.7759999847412109,0.6780000305175782,0.018376335501670837,Firmin Ndombe Mubele,a,5687,OpenPlay,2017,RightFoot,8694,Strasbourg,Rennes,2,1,2017-11-18 19:00:00,,None
+164950,70,BlockedShot,0.84,0.31,0.035889994353055954,Jordan Tell,a,5702,OpenPlay,2017,RightFoot,8694,Strasbourg,Rennes,2,1,2017-11-18 19:00:00,Hamari Traore,Pass
+164952,85,BlockedShot,0.779000015258789,0.30100000381469727,0.058644849807024,James Edward Lea Siliki,a,5770,DirectFreekick,2017,LeftFoot,8694,Strasbourg,Rennes,2,1,2017-11-18 19:00:00,,Standard
+164953,85,MissedShots,0.9269999694824219,0.43099998474121093,0.07977547496557236,Benjamin André,a,3223,FromCorner,2017,Head,8694,Strasbourg,Rennes,2,1,2017-11-18 19:00:00,James Edward Lea Siliki,Cross
+164954,87,Goal,0.935,0.6680000305175782,0.07835059612989426,Adrien Hunou,a,3795,OpenPlay,2017,RightFoot,8694,Strasbourg,Rennes,2,1,2017-11-18 19:00:00,James Edward Lea Siliki,Throughball
+164955,94,BlockedShot,0.775,0.7290000152587891,0.017749516293406487,Mexer,a,3626,OpenPlay,2017,RightFoot,8694,Strasbourg,Rennes,2,1,2017-11-18 19:00:00,Benjamin André,Pass

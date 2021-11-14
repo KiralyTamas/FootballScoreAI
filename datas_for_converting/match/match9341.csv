@@ -1,0 +1,27 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+250815,8,MissedShots,0.9269999694824219,0.705,0.06664280593395233,Roberto Pereyra,h,1723,OpenPlay,2018,RightFoot,9341,Watford,Manchester City,1,2,2018-12-04 20:00:00,Troy Deeney,TakeOn
+250819,21,SavedShot,0.720999984741211,0.4540000152587891,0.010500308126211166,Nathaniel Chalobah,h,1677,OpenPlay,2018,RightFoot,9341,Watford,Manchester City,1,2,2018-12-04 20:00:00,,Aerial
+250822,31,SavedShot,0.9169999694824219,0.45,0.34277045726776123,Troy Deeney,h,574,OpenPlay,2018,RightFoot,9341,Watford,Manchester City,1,2,2018-12-04 20:00:00,Abdoulaye Doucouré,Chipped
+250827,54,BlockedShot,0.784000015258789,0.6669999694824219,0.019011499360203743,Abdoulaye Doucouré,h,1726,OpenPlay,2018,RightFoot,9341,Watford,Manchester City,1,2,2018-12-04 20:00:00,Isaac Success,Pass
+250830,67,MissedShots,0.8190000152587891,0.3340000152587891,0.02208828739821911,Isaac Success,h,1724,OpenPlay,2018,LeftFoot,9341,Watford,Manchester City,1,2,2018-12-04 20:00:00,,None
+250832,70,SavedShot,0.865,0.5,0.013135749846696854,Isaac Success,h,1724,SetPiece,2018,Head,9341,Watford,Manchester City,1,2,2018-12-04 20:00:00,José Holebas,Aerial
+250833,73,SavedShot,0.8630000305175781,0.585,0.09713853150606155,Abdoulaye Doucouré,h,1726,OpenPlay,2018,RightFoot,9341,Watford,Manchester City,1,2,2018-12-04 20:00:00,Troy Deeney,Pass
+250835,84,BlockedShot,0.9580000305175781,0.515,0.6107393503189087,Abdoulaye Doucouré,h,1726,OpenPlay,2018,RightFoot,9341,Watford,Manchester City,1,2,2018-12-04 20:00:00,Andre Gray,None
+250836,84,Goal,0.9790000152587891,0.5329999923706055,0.8048046827316284,Abdoulaye Doucouré,h,1726,OpenPlay,2018,RightFoot,9341,Watford,Manchester City,1,2,2018-12-04 20:00:00,,Rebound
+250837,86,SavedShot,0.9259999847412109,0.4929999923706055,0.112037792801857,Troy Deeney,h,574,FromCorner,2018,Head,9341,Watford,Manchester City,1,2,2018-12-04 20:00:00,José Holebas,Cross
+250838,92,BlockedShot,0.9030000305175782,0.3820000076293945,0.06466139853000641,Abdoulaye Doucouré,h,1726,OpenPlay,2018,RightFoot,9341,Watford,Manchester City,1,2,2018-12-04 20:00:00,Andre Gray,BallTouch
+250813,1,BlockedShot,0.8590000152587891,0.625,0.056131716817617416,Gabriel Jesus,a,5543,OpenPlay,2018,RightFoot,9341,Watford,Manchester City,1,2,2018-12-04 20:00:00,Leroy Sané,Pass
+250814,1,MissedShots,0.7609999847412109,0.5420000076293945,0.01980922557413578,David Silva,a,617,OpenPlay,2018,LeftFoot,9341,Watford,Manchester City,1,2,2018-12-04 20:00:00,,Rebound
+250816,10,SavedShot,0.865,0.624000015258789,0.31309565901756287,Leroy Sané,a,337,OpenPlay,2018,LeftFoot,9341,Watford,Manchester City,1,2,2018-12-04 20:00:00,,BallRecovery
+250817,18,SavedShot,0.899000015258789,0.44299999237060544,0.41101574897766113,Riyad Mahrez,a,750,OpenPlay,2018,LeftFoot,9341,Watford,Manchester City,1,2,2018-12-04 20:00:00,Fernandinho,Throughball
+250818,18,SavedShot,0.8859999847412109,0.4470000076293945,0.09836973249912262,Bernardo Silva,a,3635,OpenPlay,2018,LeftFoot,9341,Watford,Manchester City,1,2,2018-12-04 20:00:00,,Rebound
+250820,30,SavedShot,0.9769999694824218,0.5979999923706054,0.2136758714914322,Gabriel Jesus,a,5543,OpenPlay,2018,RightFoot,9341,Watford,Manchester City,1,2,2018-12-04 20:00:00,David Silva,TakeOn
+250821,30,MissedShots,0.9259999847412109,0.43900001525878907,0.03292060270905495,John Stones,a,586,FromCorner,2018,Head,9341,Watford,Manchester City,1,2,2018-12-04 20:00:00,Leroy Sané,Aerial
+250823,36,BlockedShot,0.745,0.27899999618530275,0.013050044886767864,Kyle Walker,a,638,OpenPlay,2018,RightFoot,9341,Watford,Manchester City,1,2,2018-12-04 20:00:00,Riyad Mahrez,Pass
+250824,39,Goal,0.9290000152587891,0.575,0.2866051197052002,Leroy Sané,a,337,OpenPlay,2018,OtherBodyPart,9341,Watford,Manchester City,1,2,2018-12-04 20:00:00,Riyad Mahrez,Cross
+250825,41,MissedShots,0.9459999847412109,0.33599998474121096,0.12621021270751953,Riyad Mahrez,a,750,OpenPlay,2018,RightFoot,9341,Watford,Manchester City,1,2,2018-12-04 20:00:00,Bernardo Silva,Chipped
+250826,50,Goal,0.8959999847412109,0.44,0.3849458694458008,Riyad Mahrez,a,750,OpenPlay,2018,LeftFoot,9341,Watford,Manchester City,1,2,2018-12-04 20:00:00,Gabriel Jesus,Pass
+250828,59,BlockedShot,0.855,0.33,0.06829531490802765,Riyad Mahrez,a,750,OpenPlay,2018,LeftFoot,9341,Watford,Manchester City,1,2,2018-12-04 20:00:00,Fernandinho,Pass
+250829,62,MissedShots,0.9719999694824218,0.6580000305175782,0.049031540751457214,Bernardo Silva,a,3635,FromCorner,2018,RightFoot,9341,Watford,Manchester City,1,2,2018-12-04 20:00:00,,None
+250831,68,MissedShots,0.8430000305175781,0.5940000152587891,0.40890586376190186,Gabriel Jesus,a,5543,OpenPlay,2018,LeftFoot,9341,Watford,Manchester City,1,2,2018-12-04 20:00:00,Riyad Mahrez,Throughball
+250834,81,SavedShot,0.8109999847412109,0.46299999237060546,0.07881470769643784,Riyad Mahrez,a,750,OpenPlay,2018,LeftFoot,9341,Watford,Manchester City,1,2,2018-12-04 20:00:00,Ilkay Gündogan,Pass

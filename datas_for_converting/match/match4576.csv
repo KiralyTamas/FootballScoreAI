@@ -1,0 +1,36 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+19245,2,MissedShots,0.825,0.53,0.05820170417428017,Jan Vertonghen,h,640,SetPiece,2014,RightFoot,4576,Tottenham,Sunderland,2,1,2015-01-17 15:00:00,,BallTouch
+19248,6,BlockedShot,0.8530000305175781,0.33599998474121096,0.06207330524921417,Christian Eriksen,h,646,OpenPlay,2014,LeftFoot,4576,Tottenham,Sunderland,2,1,2015-01-17 15:00:00,,None
+19249,17,SavedShot,0.8290000152587891,0.495,0.07512275129556656,Christian Eriksen,h,646,OpenPlay,2014,LeftFoot,4576,Tottenham,Sunderland,2,1,2015-01-17 15:00:00,,None
+19250,26,SavedShot,0.7380000305175781,0.5279999923706055,0.026434725150465965,Christian Eriksen,h,646,OpenPlay,2014,LeftFoot,4576,Tottenham,Sunderland,2,1,2015-01-17 15:00:00,Nacer Chadli,LayOff
+19253,34,BlockedShot,0.7680000305175781,0.515,0.025150422006845474,Nacer Chadli,h,648,OpenPlay,2014,RightFoot,4576,Tottenham,Sunderland,2,1,2015-01-17 15:00:00,Danny Rose,Pass
+19254,37,MissedShots,0.8519999694824218,0.6930000305175781,0.038640085607767105,Danny Rose,h,641,OpenPlay,2014,RightFoot,4576,Tottenham,Sunderland,2,1,2015-01-17 15:00:00,,None
+19255,45,BlockedShot,0.720999984741211,0.3120000076293945,0.012452654540538788,Kyle Walker,h,638,FromCorner,2014,RightFoot,4576,Tottenham,Sunderland,2,1,2015-01-17 15:00:00,,None
+19256,45,SavedShot,0.745999984741211,0.43900001525878907,0.020273271948099136,Harry Kane,h,647,OpenPlay,2014,RightFoot,4576,Tottenham,Sunderland,2,1,2015-01-17 15:00:00,Danny Rose,Pass
+19259,45,MissedShots,0.7719999694824219,0.7469999694824219,0.016148414462804794,Danny Rose,h,641,OpenPlay,2014,LeftFoot,4576,Tottenham,Sunderland,2,1,2015-01-17 15:00:00,Christian Eriksen,Pass
+19257,46,ShotOnPost,0.7909999847412109,0.32799999237060545,0.024407897144556046,Harry Kane,h,647,OpenPlay,2014,RightFoot,4576,Tottenham,Sunderland,2,1,2015-01-17 15:00:00,Christian Eriksen,Pass
+19260,46,BlockedShot,0.9369999694824219,0.27399999618530274,0.04617445915937424,Christian Eriksen,h,646,OpenPlay,2014,RightFoot,4576,Tottenham,Sunderland,2,1,2015-01-17 15:00:00,Harry Kane,Pass
+19258,47,SavedShot,0.830999984741211,0.674000015258789,0.026914019137620926,Danny Rose,h,641,OpenPlay,2014,LeftFoot,4576,Tottenham,Sunderland,2,1,2015-01-17 15:00:00,,Rebound
+19261,49,BlockedShot,0.875999984741211,0.31,0.054254110902547836,Harry Kane,h,647,OpenPlay,2014,RightFoot,4576,Tottenham,Sunderland,2,1,2015-01-17 15:00:00,Kyle Walker,Pass
+19262,55,MissedShots,0.8140000152587891,0.37099998474121093,0.05399858579039574,Christian Eriksen,h,646,OpenPlay,2014,RightFoot,4576,Tottenham,Sunderland,2,1,2015-01-17 15:00:00,,TakeOn
+19264,57,BlockedShot,0.785,0.715,0.016954179853200912,Nacer Chadli,h,648,OpenPlay,2014,RightFoot,4576,Tottenham,Sunderland,2,1,2015-01-17 15:00:00,Mousa Dembélé,BallRecovery
+19265,58,BlockedShot,0.9130000305175782,0.28600000381469726,0.03191888704895973,Harry Kane,h,647,SetPiece,2014,RightFoot,4576,Tottenham,Sunderland,2,1,2015-01-17 15:00:00,Christian Eriksen,Pass
+19266,61,MissedShots,0.7580000305175781,0.33099998474121095,0.018963148817420006,Harry Kane,h,647,OpenPlay,2014,RightFoot,4576,Tottenham,Sunderland,2,1,2015-01-17 15:00:00,Eric Dier,Pass
+19267,65,BlockedShot,0.749000015258789,0.3559999847412109,0.009985117241740227,Mousa Dembélé,h,642,OpenPlay,2014,LeftFoot,4576,Tottenham,Sunderland,2,1,2015-01-17 15:00:00,Danny Rose,Chipped
+19268,66,SavedShot,0.8519999694824218,0.5379999923706055,0.07081758230924606,Nacer Chadli,h,648,OpenPlay,2014,LeftFoot,4576,Tottenham,Sunderland,2,1,2015-01-17 15:00:00,,None
+19269,72,SavedShot,0.7619999694824219,0.5170000076293946,0.03798675537109375,Emmanuel Adebayor,h,521,OpenPlay,2014,LeftFoot,4576,Tottenham,Sunderland,2,1,2015-01-17 15:00:00,,TakeOn
+19270,73,BlockedShot,0.894000015258789,0.2520000076293945,0.02214028500020504,Christian Eriksen,h,646,OpenPlay,2014,RightFoot,4576,Tottenham,Sunderland,2,1,2015-01-17 15:00:00,Benjamin Stambouli,Chipped
+19271,78,MissedShots,0.730999984741211,0.3609999847412109,0.01602786034345627,Andros Townsend,h,775,OpenPlay,2014,LeftFoot,4576,Tottenham,Sunderland,2,1,2015-01-17 15:00:00,Christian Eriksen,Pass
+19272,79,BlockedShot,0.905,0.6719999694824219,0.06557750701904297,Danny Rose,h,641,OpenPlay,2014,RightFoot,4576,Tottenham,Sunderland,2,1,2015-01-17 15:00:00,Christian Eriksen,TakeOn
+19275,84,BlockedShot,0.7719999694824219,0.6179999923706054,0.024169575423002243,Nacer Chadli,h,648,OpenPlay,2014,LeftFoot,4576,Tottenham,Sunderland,2,1,2015-01-17 15:00:00,Andros Townsend,Pass
+19276,84,MissedShots,0.76,0.27100000381469724,0.015528511255979538,Kyle Walker,h,638,OpenPlay,2014,RightFoot,4576,Tottenham,Sunderland,2,1,2015-01-17 15:00:00,Christian Eriksen,Pass
+19277,87,Goal,0.815,0.515,0.06187841668725014,Christian Eriksen,h,646,OpenPlay,2014,RightFoot,4576,Tottenham,Sunderland,2,1,2015-01-17 15:00:00,Andros Townsend,Pass
+19246,2,OwnGoal,0.15,0.4909999847412109,0,John O&#039;Shea,a,729,SetPiece,2014,OtherBodyPart,4576,Tottenham,Sunderland,2,1,2015-01-17 15:00:00,,None
+19247,4,BlockedShot,0.9259999847412109,0.46700000762939453,0.04887838289141655,Jack Rodwell,a,733,FromCorner,2014,Head,4576,Tottenham,Sunderland,2,1,2015-01-17 15:00:00,Sebastian Larsson,Aerial
+19251,27,MissedShots,0.9619999694824218,0.529000015258789,0.5693316459655762,Steven Fletcher,a,930,OpenPlay,2014,LeftFoot,4576,Tottenham,Sunderland,2,1,2015-01-17 15:00:00,Billy Jones,Cross
+19252,30,Goal,0.7619999694824219,0.534000015258789,0.07420174777507782,Sebastian Larsson,a,740,DirectFreekick,2014,RightFoot,4576,Tottenham,Sunderland,2,1,2015-01-17 15:00:00,,Standard
+19263,56,BlockedShot,0.8730000305175781,0.34700000762939454,0.05296051502227783,Jermain Defoe,a,735,OpenPlay,2014,RightFoot,4576,Tottenham,Sunderland,2,1,2015-01-17 15:00:00,Adam Johnson,Chipped
+19273,80,SavedShot,0.7140000152587891,0.525,0.016390183940529823,Adam Johnson,a,929,OpenPlay,2014,LeftFoot,4576,Tottenham,Sunderland,2,1,2015-01-17 15:00:00,Connor Wickham,Pass
+19274,80,SavedShot,0.9109999847412109,0.585,0.3467531204223633,Danny Graham,a,932,OpenPlay,2014,LeftFoot,4576,Tottenham,Sunderland,2,1,2015-01-17 15:00:00,,Rebound
+19278,92,SavedShot,0.8680000305175781,0.51,0.0838334932923317,Danny Graham,a,932,OpenPlay,2014,RightFoot,4576,Tottenham,Sunderland,2,1,2015-01-17 15:00:00,Patrick van Aanholt,Pass
+19279,94,MissedShots,0.7190000152587891,0.4929999923706055,0.009105167351663113,Santiago Vergini,a,2192,SetPiece,2014,RightFoot,4576,Tottenham,Sunderland,2,1,2015-01-17 15:00:00,,Aerial

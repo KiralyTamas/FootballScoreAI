@@ -1,0 +1,31 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+74546,7,BlockedShot,0.8019999694824219,0.5220000076293946,0.03871232643723488,Roman Shirokov,h,2891,OpenPlay,2015,LeftFoot,2458,Spartak Moscow,Ural,0,1,2015-11-01 20:30:00,Aleksandr Zuev,Pass
+74547,15,BlockedShot,0.8969999694824219,0.28299999237060547,0.039964064955711365,Quincy Promes,h,2815,OpenPlay,2015,RightFoot,2458,Spartak Moscow,Ural,0,1,2015-11-01 20:30:00,Ivelin Popov,Chipped
+74548,16,BlockedShot,0.89,0.705,0.03802737593650818,Roman Shirokov,h,2891,SetPiece,2015,RightFoot,2458,Spartak Moscow,Ural,0,1,2015-11-01 20:30:00,,None
+74552,35,MissedShots,0.634000015258789,0.3,0.022306539118289948,Quincy Promes,h,2815,DirectFreekick,2015,RightFoot,2458,Spartak Moscow,Ural,0,1,2015-11-01 20:30:00,,Standard
+74553,46,MissedShots,0.874000015258789,0.3039999961853027,0.015678614377975464,Ivelin Popov,h,2817,SetPiece,2015,RightFoot,2458,Spartak Moscow,Ural,0,1,2015-11-01 20:30:00,,Aerial
+74554,48,SavedShot,0.9230000305175782,0.519000015258789,0.09902564436197281,Serdar Tasci,h,2650,FromCorner,2015,Head,2458,Spartak Moscow,Ural,0,1,2015-11-01 20:30:00,Quincy Promes,Cross
+74558,52,SavedShot,0.764000015258789,0.40099998474121096,0.02075430378317833,Denis Davydov,h,3130,OpenPlay,2015,RightFoot,2458,Spartak Moscow,Ural,0,1,2015-11-01 20:30:00,,TakeOn
+74559,54,MissedShots,0.8859999847412109,0.4540000152587891,0.05111118406057358,Zé Luís,h,2818,OpenPlay,2015,Head,2458,Spartak Moscow,Ural,0,1,2015-11-01 20:30:00,Quincy Promes,Cross
+74562,66,MissedShots,0.6780000305175782,0.485,0.030325522646307945,Quincy Promes,h,2815,DirectFreekick,2015,RightFoot,2458,Spartak Moscow,Ural,0,1,2015-11-01 20:30:00,,Standard
+74565,72,MissedShots,0.845999984741211,0.42200000762939455,0.07237301021814346,Ivelin Popov,h,2817,OpenPlay,2015,RightFoot,2458,Spartak Moscow,Ural,0,1,2015-11-01 20:30:00,Aras Özbiliz,Pass
+74567,77,MissedShots,0.9740000152587891,0.59,0.058940738439559937,Quincy Promes,h,2815,FromCorner,2015,Head,2458,Spartak Moscow,Ural,0,1,2015-11-01 20:30:00,Aras Özbiliz,Cross
+74570,80,SavedShot,0.850999984741211,0.46700000762939453,0.06474193930625916,Ivelin Popov,h,2817,OpenPlay,2015,RightFoot,2458,Spartak Moscow,Ural,0,1,2015-11-01 20:30:00,Zé Luís,Pass
+74572,88,BlockedShot,0.7859999847412109,0.32099998474121094,0.017837047576904297,Sergey Parshivlyuk,h,2828,OpenPlay,2015,RightFoot,2458,Spartak Moscow,Ural,0,1,2015-11-01 20:30:00,Aras Özbiliz,Pass
+74573,89,MissedShots,0.740999984741211,0.36900001525878906,0.014132501557469368,Sergey Parshivlyuk,h,2828,FromCorner,2015,RightFoot,2458,Spartak Moscow,Ural,0,1,2015-11-01 20:30:00,,None
+74574,91,BlockedShot,0.8419999694824218,0.41,0.05934954434633255,Zé Luís,h,2818,OpenPlay,2015,LeftFoot,2458,Spartak Moscow,Ural,0,1,2015-11-01 20:30:00,Ivelin Popov,Pass
+74575,93,SavedShot,0.87,0.500999984741211,0.0698351114988327,Ivelin Popov,h,2817,OpenPlay,2015,RightFoot,2458,Spartak Moscow,Ural,0,1,2015-11-01 20:30:00,,None
+74549,20,ShotOnPost,0.874000015258789,0.4929999923706055,0.11990120261907578,Edgar Manucharyan,a,2799,OpenPlay,2015,RightFoot,2458,Spartak Moscow,Ural,0,1,2015-11-01 20:30:00,Chisamba Lungu,Pass
+74550,24,SavedShot,0.9130000305175782,0.4420000076293945,0.4294663071632385,Gerson Acevedo,a,2874,OpenPlay,2015,LeftFoot,2458,Spartak Moscow,Ural,0,1,2015-11-01 20:30:00,Vyacheslav Podberezkin,Pass
+74551,31,MissedShots,0.700999984741211,0.4370000076293945,0.013823447749018669,Aleksandr Sapeta,a,2796,OpenPlay,2015,RightFoot,2458,Spartak Moscow,Ural,0,1,2015-11-01 20:30:00,Gerson Acevedo,Pass
+74555,49,BlockedShot,0.720999984741211,0.49400001525878906,0.016414528712630272,Gerson Acevedo,a,2874,OpenPlay,2015,RightFoot,2458,Spartak Moscow,Ural,0,1,2015-11-01 20:30:00,Edgar Manucharyan,Pass
+74556,51,BlockedShot,0.91,0.3320000076293945,0.07750366628170013,Edgar Manucharyan,a,2799,OpenPlay,2015,LeftFoot,2458,Spartak Moscow,Ural,0,1,2015-11-01 20:30:00,Chisamba Lungu,Pass
+74557,52,MissedShots,0.955,0.3509999847412109,0.01811175048351288,Aleksandr Martynovich,a,2790,OpenPlay,2015,Head,2458,Spartak Moscow,Ural,0,1,2015-11-01 20:30:00,Edgar Manucharyan,Aerial
+74560,58,ShotOnPost,0.775,0.5640000152587891,0.026930343359708786,Vyacheslav Podberezkin,a,2988,OpenPlay,2015,RightFoot,2458,Spartak Moscow,Ural,0,1,2015-11-01 20:30:00,Chisamba Lungu,Pass
+74561,59,SavedShot,0.87,0.7530000305175781,0.022766759619116783,Aleksandr Sapeta,a,2796,OpenPlay,2015,RightFoot,2458,Spartak Moscow,Ural,0,1,2015-11-01 20:30:00,Aleksandr Dantsev,Pass
+74563,67,MissedShots,0.7859999847412109,0.6659999847412109,0.01798202656209469,Gerson Acevedo,a,2874,OpenPlay,2015,LeftFoot,2458,Spartak Moscow,Ural,0,1,2015-11-01 20:30:00,Aleksandr Dantsev,Pass
+74564,69,BlockedShot,0.8159999847412109,0.5609999847412109,0.04310457408428192,Gerson Acevedo,a,2874,OpenPlay,2015,RightFoot,2458,Spartak Moscow,Ural,0,1,2015-11-01 20:30:00,Vyacheslav Podberezkin,Pass
+74566,77,SavedShot,0.8680000305175781,0.6120000076293945,0.3416331112384796,Gerson Acevedo,a,2874,OpenPlay,2015,RightFoot,2458,Spartak Moscow,Ural,0,1,2015-11-01 20:30:00,Chisamba Lungu,Pass
+74568,78,MissedShots,0.750999984741211,0.5429999923706055,0.01824415661394596,Gerson Acevedo,a,2874,OpenPlay,2015,RightFoot,2458,Spartak Moscow,Ural,0,1,2015-11-01 20:30:00,Edgar Manucharyan,Pass
+74569,79,Goal,0.86,0.524000015258789,0.31971073150634766,Gerson Acevedo,a,2874,OpenPlay,2015,RightFoot,2458,Spartak Moscow,Ural,0,1,2015-11-01 20:30:00,Aleksandr Sapeta,TakeOn
+74571,83,MissedShots,0.8619999694824219,0.8090000152587891,0.02818344160914421,Edgar Manucharyan,a,2799,OpenPlay,2015,LeftFoot,2458,Spartak Moscow,Ural,0,1,2015-11-01 20:30:00,Konstantin Yaroshenko,HeadPass

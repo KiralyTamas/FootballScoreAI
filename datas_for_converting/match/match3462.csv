@@ -1,0 +1,27 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+121298,14,MissedShots,0.8680000305175781,0.5209999847412109,0.10846590995788574,Dusan Tadic,h,840,OpenPlay,2016,LeftFoot,3462,Southampton,Manchester City,0,3,2017-04-15 17:30:00,Manolo Gabbiadini,Pass
+121300,34,MissedShots,0.8859999847412109,0.27,0.015519168227910995,Cédric Soares,h,847,OpenPlay,2016,RightFoot,3462,Southampton,Manchester City,0,3,2017-04-15 17:30:00,,Aerial
+121301,35,MissedShots,0.9219999694824219,0.40900001525878904,0.07990118861198425,Steven Davis,h,883,OpenPlay,2016,Head,3462,Southampton,Manchester City,0,3,2017-04-15 17:30:00,James Ward-Prowse,Cross
+121304,38,BlockedShot,0.774000015258789,0.5879999923706055,0.02586556412279606,Pierre-Emile Højbjerg,h,343,OpenPlay,2016,RightFoot,3462,Southampton,Manchester City,0,3,2017-04-15 17:30:00,,None
+121310,51,MissedShots,0.7819999694824219,0.765,0.04316099360585213,James Ward-Prowse,h,843,DirectFreekick,2016,RightFoot,3462,Southampton,Manchester City,0,3,2017-04-15 17:30:00,,Standard
+121316,72,SavedShot,0.9259999847412109,0.4420000076293945,0.2511614263057709,Maya Yoshida,h,845,FromCorner,2016,Head,3462,Southampton,Manchester City,0,3,2017-04-15 17:30:00,Dusan Tadic,Cross
+121317,73,BlockedShot,0.895,0.46599998474121096,0.07853171229362488,Maya Yoshida,h,845,SetPiece,2016,Head,3462,Southampton,Manchester City,0,3,2017-04-15 17:30:00,Dusan Tadic,Cross
+121320,83,BlockedShot,0.8069999694824219,0.725999984741211,0.014146965928375721,Sofiane Boufal,h,1734,OpenPlay,2016,RightFoot,3462,Southampton,Manchester City,0,3,2017-04-15 17:30:00,Dusan Tadic,Pass
+121295,3,MissedShots,0.9480000305175781,0.4159999847412109,0.10638606548309326,Sergio Agüero,a,619,OpenPlay,2016,RightFoot,3462,Southampton,Manchester City,0,3,2017-04-15 17:30:00,Gaël Clichy,Cross
+121296,3,MissedShots,0.9319999694824219,0.33599998474121096,0.08304250985383987,Sergio Agüero,a,619,OpenPlay,2016,RightFoot,3462,Southampton,Manchester City,0,3,2017-04-15 17:30:00,Kevin De Bruyne,Pass
+121297,8,MissedShots,0.8440000152587891,0.6229999923706054,0.03538263961672783,Sergio Agüero,a,619,FromCorner,2016,RightFoot,3462,Southampton,Manchester City,0,3,2017-04-15 17:30:00,Kevin De Bruyne,Cross
+121299,27,BlockedShot,0.850999984741211,0.33099998474121095,0.05008333548903465,Kevin De Bruyne,a,447,OpenPlay,2016,LeftFoot,3462,Southampton,Manchester City,0,3,2017-04-15 17:30:00,David Silva,Pass
+121302,35,MissedShots,0.9540000152587891,0.425,0.49987655878067017,David Silva,a,617,OpenPlay,2016,RightFoot,3462,Southampton,Manchester City,0,3,2017-04-15 17:30:00,,None
+121303,37,MissedShots,0.955999984741211,0.3820000076293945,0.034875109791755676,Yaya Touré,a,878,FromCorner,2016,Head,3462,Southampton,Manchester City,0,3,2017-04-15 17:30:00,,None
+121305,44,MissedShots,0.7759999847412109,0.6930000305175781,0.017427818849682808,David Silva,a,617,OpenPlay,2016,LeftFoot,3462,Southampton,Manchester City,0,3,2017-04-15 17:30:00,,None
+121306,47,BlockedShot,0.73,0.4370000076293945,0.01743553951382637,Fernandinho,a,614,OpenPlay,2016,RightFoot,3462,Southampton,Manchester City,0,3,2017-04-15 17:30:00,Yaya Touré,Pass
+121307,47,BlockedShot,0.7859999847412109,0.40400001525878904,0.03381992131471634,Sergio Agüero,a,619,OpenPlay,2016,LeftFoot,3462,Southampton,Manchester City,0,3,2017-04-15 17:30:00,,Dispossessed
+121308,47,SavedShot,0.7569999694824219,0.509000015258789,0.017981067299842834,Yaya Touré,a,878,OpenPlay,2016,LeftFoot,3462,Southampton,Manchester City,0,3,2017-04-15 17:30:00,,Rebound
+121309,47,BlockedShot,0.8230000305175781,0.620999984741211,0.05139247328042984,Sergio Agüero,a,619,OpenPlay,2016,RightFoot,3462,Southampton,Manchester City,0,3,2017-04-15 17:30:00,David Silva,Pass
+121311,54,SavedShot,0.749000015258789,0.4209999847412109,0.01349963340908289,Jesús Navas,a,616,SetPiece,2016,RightFoot,3462,Southampton,Manchester City,0,3,2017-04-15 17:30:00,,None
+121312,54,Goal,0.925,0.5059999847412109,0.3445639908313751,Vincent Kompany,a,612,FromCorner,2016,Head,3462,Southampton,Manchester City,0,3,2017-04-15 17:30:00,David Silva,Cross
+121313,60,BlockedShot,0.92,0.585,0.09488789737224579,Vincent Kompany,a,612,FromCorner,2016,RightFoot,3462,Southampton,Manchester City,0,3,2017-04-15 17:30:00,,None
+121314,61,MissedShots,0.740999984741211,0.4,0.021592160686850548,Kevin De Bruyne,a,447,OpenPlay,2016,RightFoot,3462,Southampton,Manchester City,0,3,2017-04-15 17:30:00,Leroy Sané,Pass
+121315,64,BlockedShot,0.865999984741211,0.500999984741211,0.1000533327460289,David Silva,a,617,OpenPlay,2016,LeftFoot,3462,Southampton,Manchester City,0,3,2017-04-15 17:30:00,,None
+121318,76,Goal,0.9130000305175782,0.53,0.634732723236084,Leroy Sané,a,337,OpenPlay,2016,LeftFoot,3462,Southampton,Manchester City,0,3,2017-04-15 17:30:00,Kevin De Bruyne,Pass
+121319,79,Goal,0.9769999694824218,0.5570000076293945,0.5854580998420715,Sergio Agüero,a,619,OpenPlay,2016,Head,3462,Southampton,Manchester City,0,3,2017-04-15 17:30:00,Kevin De Bruyne,Cross

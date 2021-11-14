@@ -1,0 +1,24 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+351479,0,BlockedShot,0.8619999694824219,0.5370000076293945,0.07719450443983078,Danny Ings,h,986,OpenPlay,2019,RightFoot,11851,Southampton,Tottenham,1,0,2020-01-01 15:00:00,,None
+351482,12,SavedShot,0.904000015258789,0.6140000152587891,0.10699128359556198,Nathan Redmond,h,790,OpenPlay,2019,LeftFoot,11851,Southampton,Tottenham,1,0,2020-01-01 15:00:00,Stuart Armstrong,Pass
+351483,16,Goal,0.914000015258789,0.4640000152587891,0.4444800019264221,Danny Ings,h,986,OpenPlay,2019,LeftFoot,11851,Southampton,Tottenham,1,0,2020-01-01 15:00:00,Jack Stephens,TakeOn
+351485,22,BlockedShot,0.8190000152587891,0.73,0.029582105576992035,Moussa Djenepo,h,7701,OpenPlay,2019,RightFoot,11851,Southampton,Tottenham,1,0,2020-01-01 15:00:00,Ryan Bertrand,Pass
+351486,23,BlockedShot,0.7930000305175782,0.4759999847412109,0.05351296812295914,Stuart Armstrong,h,6893,OpenPlay,2019,RightFoot,11851,Southampton,Tottenham,1,0,2020-01-01 15:00:00,Nathan Redmond,Pass
+351487,25,MissedShots,0.7530000305175781,0.40099998474121096,0.029177488759160042,Stuart Armstrong,h,6893,OpenPlay,2019,RightFoot,11851,Southampton,Tottenham,1,0,2020-01-01 15:00:00,,None
+351489,31,BlockedShot,0.9530000305175781,0.4209999847412109,0.13172248005867004,Nathan Redmond,h,790,OpenPlay,2019,RightFoot,11851,Southampton,Tottenham,1,0,2020-01-01 15:00:00,Stuart Armstrong,Cross
+351490,31,MissedShots,0.925,0.47200000762939454,0.10596738755702972,Moussa Djenepo,h,7701,FromCorner,2019,Head,11851,Southampton,Tottenham,1,0,2020-01-01 15:00:00,James Ward-Prowse,Cross
+351496,45,MissedShots,0.8680000305175781,0.565,0.07663258165121078,Nathan Redmond,h,790,OpenPlay,2019,RightFoot,11851,Southampton,Tottenham,1,0,2020-01-01 15:00:00,Cédric Soares,Cross
+351494,46,SavedShot,0.9319999694824219,0.57,0.12192829698324203,Stuart Armstrong,h,6893,OpenPlay,2019,Head,11851,Southampton,Tottenham,1,0,2020-01-01 15:00:00,Nathan Redmond,Cross
+351497,54,BlockedShot,0.745,0.6140000152587891,0.022195128723978996,Ryan Bertrand,h,835,OpenPlay,2019,LeftFoot,11851,Southampton,Tottenham,1,0,2020-01-01 15:00:00,Pierre-Emile Højbjerg,Pass
+351499,85,MissedShots,0.9469999694824218,0.48200000762939454,0.31254005432128906,Shane Long,h,839,FromCorner,2019,Head,11851,Southampton,Tottenham,1,0,2020-01-01 15:00:00,James Ward-Prowse,Aerial
+351480,4,SavedShot,0.805,0.5070000076293946,0.0467112734913826,Harry Kane,a,647,OpenPlay,2019,RightFoot,11851,Southampton,Tottenham,1,0,2020-01-01 15:00:00,,None
+351481,5,SavedShot,0.9119999694824219,0.605999984741211,0.08320769667625427,Dele Alli,a,645,OpenPlay,2019,Head,11851,Southampton,Tottenham,1,0,2020-01-01 15:00:00,Harry Kane,Throughball
+351484,19,BlockedShot,0.7530000305175781,0.7330000305175781,0.039561331272125244,Christian Eriksen,a,646,DirectFreekick,2019,RightFoot,11851,Southampton,Tottenham,1,0,2020-01-01 15:00:00,,Standard
+351488,26,BlockedShot,0.8090000152587891,0.5070000076293946,0.0557020902633667,Giovani Lo Celso,a,5681,OpenPlay,2019,LeftFoot,11851,Southampton,Tottenham,1,0,2020-01-01 15:00:00,Harry Kane,Pass
+351491,36,SavedShot,0.9059999847412109,0.44299999237060544,0.08776022493839264,Harry Kane,a,647,SetPiece,2019,RightFoot,11851,Southampton,Tottenham,1,0,2020-01-01 15:00:00,Christian Eriksen,Chipped
+351492,37,SavedShot,0.775,0.4490000152587891,0.030082546174526215,Harry Kane,a,647,OpenPlay,2019,RightFoot,11851,Southampton,Tottenham,1,0,2020-01-01 15:00:00,Serge Aurier,Pass
+351493,38,MissedShots,0.965,0.4420000076293945,0.5639585256576538,Jan Vertonghen,a,640,FromCorner,2019,LeftFoot,11851,Southampton,Tottenham,1,0,2020-01-01 15:00:00,Dele Alli,Pass
+351495,47,MissedShots,0.8269999694824218,0.7090000152587891,0.026745745912194252,Lucas Moura,a,3293,OpenPlay,2019,RightFoot,11851,Southampton,Tottenham,1,0,2020-01-01 15:00:00,,None
+351498,68,SavedShot,0.9019999694824219,0.5790000152587891,0.01781083270907402,Jan Vertonghen,a,640,SetPiece,2019,Head,11851,Southampton,Tottenham,1,0,2020-01-01 15:00:00,Giovani Lo Celso,Aerial
+351500,86,BlockedShot,0.8469999694824218,0.485,0.059760089963674545,Lucas Moura,a,3293,OpenPlay,2019,RightFoot,11851,Southampton,Tottenham,1,0,2020-01-01 15:00:00,,None
+351501,86,BlockedShot,0.865999984741211,0.4909999847412109,0.07093993574380875,Lucas Moura,a,3293,OpenPlay,2019,LeftFoot,11851,Southampton,Tottenham,1,0,2020-01-01 15:00:00,,Rebound

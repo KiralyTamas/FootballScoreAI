@@ -1,0 +1,31 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+428552,2,OwnGoal,0.14300000190734863,0.5609999847412109,0,Iago,h,8065,OpenPlay,2021,LeftFoot,17537,Augsburg,Bayer Leverkusen,1,4,2021-08-28 13:30:00,,None
+428556,13,OwnGoal,0.07,0.5129999923706055,0,Florian Niederlechner,h,306,FromCorner,2021,Head,17537,Augsburg,Bayer Leverkusen,1,4,2021-08-28 13:30:00,,None
+428557,14,SavedShot,0.8059999847412109,0.6020000076293945,0.09005321562290192,André Hahn,h,412,OpenPlay,2021,LeftFoot,17537,Augsburg,Bayer Leverkusen,1,4,2021-08-28 13:30:00,Florian Niederlechner,Throughball
+428559,25,MissedShots,0.9419999694824219,0.644000015258789,0.012919528409838676,André Hahn,h,412,FromCorner,2021,Head,17537,Augsburg,Bayer Leverkusen,1,4,2021-08-28 13:30:00,Daniel Caligiuri,Aerial
+428562,29,Goal,0.9840000152587891,0.47,0.7976353764533997,Florian Niederlechner,h,306,OpenPlay,2021,RightFoot,17537,Augsburg,Bayer Leverkusen,1,4,2021-08-28 13:30:00,,None
+428563,30,MissedShots,0.8969999694824219,0.7390000152587891,0.03429848328232765,Florian Niederlechner,h,306,OpenPlay,2021,RightFoot,17537,Augsburg,Bayer Leverkusen,1,4,2021-08-28 13:30:00,,None
+428566,38,SavedShot,0.8480000305175781,0.5279999923706055,0.07776135951280594,Ruben Vargas,h,7810,OpenPlay,2021,RightFoot,17537,Augsburg,Bayer Leverkusen,1,4,2021-08-28 13:30:00,Iago,Pass
+428567,38,BlockedShot,0.875,0.555,0.07909620553255081,Ruben Vargas,h,7810,OpenPlay,2021,RightFoot,17537,Augsburg,Bayer Leverkusen,1,4,2021-08-28 13:30:00,,Rebound
+428568,39,BlockedShot,0.6969999694824218,0.48200000762939454,0.010963818058371544,Niklas Dorsch,h,6411,OpenPlay,2021,RightFoot,17537,Augsburg,Bayer Leverkusen,1,4,2021-08-28 13:30:00,,None
+428569,49,BlockedShot,0.7559999847412109,0.5209999847412109,0.022754350677132607,Daniel Caligiuri,h,157,OpenPlay,2021,LeftFoot,17537,Augsburg,Bayer Leverkusen,1,4,2021-08-28 13:30:00,Florian Niederlechner,BallRecovery
+428570,51,BlockedShot,0.8169999694824219,0.754000015258789,0.02105233445763588,Ruben Vargas,h,7810,OpenPlay,2021,RightFoot,17537,Augsburg,Bayer Leverkusen,1,4,2021-08-28 13:30:00,Carlos Gruezo,Pass
+428572,53,MissedShots,0.914000015258789,0.504000015258789,0.3462410271167755,Daniel Caligiuri,h,157,OpenPlay,2021,LeftFoot,17537,Augsburg,Bayer Leverkusen,1,4,2021-08-28 13:30:00,André Hahn,Cross
+428574,59,MissedShots,0.86,0.4279999923706055,0.034566592425107956,Felix Uduokhai,h,6100,SetPiece,2021,Head,17537,Augsburg,Bayer Leverkusen,1,4,2021-08-28 13:30:00,Niklas Dorsch,Chipped
+428575,60,MissedShots,0.8809999847412109,0.43900001525878907,0.07325437664985657,Florian Niederlechner,h,306,OpenPlay,2021,RightFoot,17537,Augsburg,Bayer Leverkusen,1,4,2021-08-28 13:30:00,André Hahn,Cross
+428578,83,MissedShots,0.86,0.455,0.028894569724798203,Mads Pedersen,h,7809,FromCorner,2021,RightFoot,17537,Augsburg,Bayer Leverkusen,1,4,2021-08-28 13:30:00,,Aerial
+428579,86,SavedShot,0.8580000305175781,0.7440000152587891,0.07036097347736359,Mads Pedersen,h,7809,OpenPlay,2021,LeftFoot,17537,Augsburg,Bayer Leverkusen,1,4,2021-08-28 13:30:00,Ruben Vargas,Chipped
+428553,11,MissedShots,0.914000015258789,0.45799999237060546,0.12294922769069672,Patrik Schick,a,1236,OpenPlay,2021,RightFoot,17537,Augsburg,Bayer Leverkusen,1,4,2021-08-28 13:30:00,Jeremie Frimpong,Cross
+428554,12,BlockedShot,0.8690000152587891,0.3940000152587891,0.08785859495401382,Kerem Demirbay,a,5273,OpenPlay,2021,LeftFoot,17537,Augsburg,Bayer Leverkusen,1,4,2021-08-28 13:30:00,,None
+428555,13,MissedShots,0.835999984741211,0.14800000190734863,0.025470398366451263,Kerem Demirbay,a,5273,FromCorner,2021,LeftFoot,17537,Augsburg,Bayer Leverkusen,1,4,2021-08-28 13:30:00,Charles Aránguiz,Pass
+428558,21,MissedShots,0.8419999694824218,0.649000015258789,0.06529217958450317,Paulinho,a,7067,OpenPlay,2021,RightFoot,17537,Augsburg,Bayer Leverkusen,1,4,2021-08-28 13:30:00,,BallRecovery
+428560,26,SavedShot,0.855999984741211,0.32299999237060545,0.14405769109725952,Paulinho,a,7067,OpenPlay,2021,RightFoot,17537,Augsburg,Bayer Leverkusen,1,4,2021-08-28 13:30:00,Moussa Diaby,Throughball
+428561,27,BlockedShot,0.7930000305175782,0.44599998474121094,0.05293276533484459,Kerem Demirbay,a,5273,OpenPlay,2021,LeftFoot,17537,Augsburg,Bayer Leverkusen,1,4,2021-08-28 13:30:00,Paulinho,Pass
+428564,35,BlockedShot,0.874000015258789,0.65,0.03763429448008537,Paulinho,a,7067,SetPiece,2021,LeftFoot,17537,Augsburg,Bayer Leverkusen,1,4,2021-08-28 13:30:00,Kerem Demirbay,Pass
+428565,35,SavedShot,0.8819999694824219,0.40900001525878904,0.021729599684476852,Odilon Kossounou,a,9714,FromCorner,2021,Head,17537,Augsburg,Bayer Leverkusen,1,4,2021-08-28 13:30:00,Kerem Demirbay,Cross
+428571,53,MissedShots,0.894000015258789,0.5,0.08768167346715927,Odilon Kossounou,a,9714,SetPiece,2021,Head,17537,Augsburg,Bayer Leverkusen,1,4,2021-08-28 13:30:00,Kerem Demirbay,Cross
+428573,57,MissedShots,0.8590000152587891,0.4129999923706055,0.3597427308559418,Patrik Schick,a,1236,OpenPlay,2021,RightFoot,17537,Augsburg,Bayer Leverkusen,1,4,2021-08-28 13:30:00,Moussa Diaby,Pass
+428576,74,Goal,0.8440000152587891,0.51,0.18605661392211914,Patrik Schick,a,1236,OpenPlay,2021,LeftFoot,17537,Augsburg,Bayer Leverkusen,1,4,2021-08-28 13:30:00,Florian Wirtz,TakeOn
+428577,80,Goal,0.9,0.16,0.3102327883243561,Florian Wirtz,a,8397,OpenPlay,2021,RightFoot,17537,Augsburg,Bayer Leverkusen,1,4,2021-08-28 13:30:00,Kerem Demirbay,TakeOn
+428580,87,ShotOnPost,0.9459999847412109,0.345,0.36303311586380005,Patrik Schick,a,1236,OpenPlay,2021,RightFoot,17537,Augsburg,Bayer Leverkusen,1,4,2021-08-28 13:30:00,Charles Aránguiz,Aerial
+428581,88,SavedShot,0.8540000152587891,0.3529999923706055,0.2560289204120636,Amine Adli,a,8211,OpenPlay,2021,LeftFoot,17537,Augsburg,Bayer Leverkusen,1,4,2021-08-28 13:30:00,Florian Wirtz,Pass

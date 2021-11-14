@@ -1,0 +1,26 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+315589,3,MissedShots,0.82,0.5220000076293946,0.055567096918821335,Robert Lewandowski,h,227,OpenPlay,2019,RightFoot,12425,Bayern Munich,Mainz 05,6,1,2019-08-31 14:30:00,,None
+315591,28,MissedShots,0.9,0.635,0.29846587777137756,Ivan Perisic,h,448,OpenPlay,2019,LeftFoot,12425,Bayern Munich,Mainz 05,6,1,2019-08-31 14:30:00,Kingsley Coman,Pass
+315593,33,SavedShot,0.81,0.3920000076293945,0.12122397869825363,David Alaba,h,391,DirectFreekick,2019,LeftFoot,12425,Bayern Munich,Mainz 05,6,1,2019-08-31 14:30:00,,Standard
+315594,35,Goal,0.919000015258789,0.3940000152587891,0.0750303789973259,Benjamin Pavard,h,3363,OpenPlay,2019,RightFoot,12425,Bayern Munich,Mainz 05,6,1,2019-08-31 14:30:00,Ivan Perisic,Cross
+315595,37,SavedShot,0.7219999694824218,0.48400001525878905,0.025246895849704742,Joshua Kimmich,h,223,FromCorner,2019,RightFoot,12425,Bayern Munich,Mainz 05,6,1,2019-08-31 14:30:00,Thiago Alcántara,Pass
+315596,39,MissedShots,0.9519999694824218,0.435,0.05899178236722946,Niklas Süle,h,75,FromCorner,2019,Head,12425,Bayern Munich,Mainz 05,6,1,2019-08-31 14:30:00,Philippe Coutinho,Aerial
+315598,44,Goal,0.7709999847412109,0.40200000762939453,0.0785275250673294,David Alaba,h,391,DirectFreekick,2019,LeftFoot,12425,Bayern Munich,Mainz 05,6,1,2019-08-31 14:30:00,,Standard
+315599,46,MissedShots,0.9119999694824219,0.4329999923706055,0.47520631551742554,Thiago Alcántara,h,229,OpenPlay,2019,RightFoot,12425,Bayern Munich,Mainz 05,6,1,2019-08-31 14:30:00,,None
+315600,53,Goal,0.9259999847412109,0.5529999923706055,0.13796789944171906,Ivan Perisic,h,448,OpenPlay,2019,Head,12425,Bayern Munich,Mainz 05,6,1,2019-08-31 14:30:00,Benjamin Pavard,Cross
+315603,61,BlockedShot,0.9219999694824219,0.44299999237060544,0.5361416339874268,Robert Lewandowski,h,227,OpenPlay,2019,RightFoot,12425,Bayern Munich,Mainz 05,6,1,2019-08-31 14:30:00,Kingsley Coman,Pass
+315604,63,Goal,0.9319999694824219,0.555,0.30200543999671936,Kingsley Coman,h,226,FromCorner,2019,RightFoot,12425,Bayern Munich,Mainz 05,6,1,2019-08-31 14:30:00,Joshua Kimmich,Cross
+315606,73,MissedShots,0.9590000152587891,0.3920000076293945,0.12244784086942673,Robert Lewandowski,h,227,OpenPlay,2019,RightFoot,12425,Bayern Munich,Mainz 05,6,1,2019-08-31 14:30:00,Alphonso Davies,Cross
+315608,77,Goal,0.875999984741211,0.51,0.12551844120025635,Robert Lewandowski,h,227,OpenPlay,2019,RightFoot,12425,Bayern Munich,Mainz 05,6,1,2019-08-31 14:30:00,Thomas Müller,Cross
+315609,79,Goal,0.955999984741211,0.52,0.7245714068412781,Alphonso Davies,h,7345,OpenPlay,2019,LeftFoot,12425,Bayern Munich,Mainz 05,6,1,2019-08-31 14:30:00,Thomas Müller,Pass
+315610,81,MissedShots,0.9219999694824219,0.524000015258789,0.13305066525936127,Robert Lewandowski,h,227,OpenPlay,2019,RightFoot,12425,Bayern Munich,Mainz 05,6,1,2019-08-31 14:30:00,David Alaba,Cross
+315611,82,MissedShots,0.7519999694824219,0.6270000076293946,0.02746659331023693,Robert Lewandowski,h,227,FromCorner,2019,RightFoot,12425,Bayern Munich,Mainz 05,6,1,2019-08-31 14:30:00,Michaël Cuisance,Pass
+315612,86,BlockedShot,0.799000015258789,0.355,0.03194741904735565,Michaël Cuisance,h,6148,OpenPlay,2019,LeftFoot,12425,Bayern Munich,Mainz 05,6,1,2019-08-31 14:30:00,Kingsley Coman,Pass
+315613,90,SavedShot,0.7219999694824218,0.36700000762939455,0.016588618978857994,Joshua Kimmich,h,223,OpenPlay,2019,RightFoot,12425,Bayern Munich,Mainz 05,6,1,2019-08-31 14:30:00,Thomas Müller,Pass
+315590,5,Goal,0.9319999694824219,0.5129999923706055,0.45514070987701416,Jean-Paul Boëtius,a,7107,OpenPlay,2019,Head,12425,Bayern Munich,Mainz 05,6,1,2019-08-31 14:30:00,Ronael Pierre Gabriel,Cross
+315592,31,SavedShot,0.865,0.3840000152587891,0.09552884101867676,Karim Onisiwo,a,2631,OpenPlay,2019,RightFoot,12425,Bayern Munich,Mainz 05,6,1,2019-08-31 14:30:00,Danny Latza,Pass
+315597,41,BlockedShot,0.7609999847412109,0.46599998474121096,0.02524854987859726,Bote Baku,a,6708,OpenPlay,2019,RightFoot,12425,Bayern Munich,Mainz 05,6,1,2019-08-31 14:30:00,Edimilson Fernandes,Pass
+315601,58,BlockedShot,0.775,0.5879999923706055,0.030707793310284615,Pierre Kunde,a,7073,OpenPlay,2019,LeftFoot,12425,Bayern Munich,Mainz 05,6,1,2019-08-31 14:30:00,Edimilson Fernandes,Pass
+315602,58,SavedShot,0.9519999694824218,0.47,0.06264575570821762,Moussa Niakhate,a,5989,FromCorner,2019,Head,12425,Bayern Munich,Mainz 05,6,1,2019-08-31 14:30:00,Alexander Hack,BallTouch
+315605,73,SavedShot,0.7240000152587891,0.33799999237060546,0.041261039674282074,Pierre Kunde,a,7073,DirectFreekick,2019,RightFoot,12425,Bayern Munich,Mainz 05,6,1,2019-08-31 14:30:00,,Standard
+315607,74,MissedShots,0.6880000305175781,0.48200000762939454,0.009937780909240246,Edimilson Fernandes,a,1673,OpenPlay,2019,RightFoot,12425,Bayern Munich,Mainz 05,6,1,2019-08-31 14:30:00,Moussa Niakhate,Pass

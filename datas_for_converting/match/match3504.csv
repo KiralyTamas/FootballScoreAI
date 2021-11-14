@@ -1,0 +1,29 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+121820,0,BlockedShot,0.9130000305175782,0.4470000076293945,0.11058289557695389,Patrick Bamford,h,822,OpenPlay,2016,LeftFoot,3504,Middlesbrough,Southampton,1,2,2017-05-13 15:00:00,Álvaro Negredo,Chipped
+121823,25,BlockedShot,0.7680000305175781,0.41200000762939454,0.07298436760902405,Álvaro Negredo,h,1715,DirectFreekick,2016,LeftFoot,3504,Middlesbrough,Southampton,1,2,2017-05-13 15:00:00,,Standard
+121824,25,MissedShots,0.94,0.41200000762939454,0.02518445812165737,George Friend,h,1708,FromCorner,2016,Head,3504,Middlesbrough,Southampton,1,2,2017-05-13 15:00:00,Adam Forshaw,Aerial
+121829,45,MissedShots,0.7480000305175781,0.49900001525878906,0.02143339440226555,Adam Forshaw,h,1711,OpenPlay,2016,LeftFoot,3504,Middlesbrough,Southampton,1,2,2017-05-13 15:00:00,Marten de Roon,Pass
+121832,47,BlockedShot,0.8169999694824219,0.4540000152587891,0.033266764134168625,Adam Forshaw,h,1711,OpenPlay,2016,LeftFoot,3504,Middlesbrough,Southampton,1,2,2017-05-13 15:00:00,Marten de Roon,HeadPass
+121834,52,MissedShots,0.8809999847412109,0.445,0.013303147628903389,Ben Gibson,h,1707,FromCorner,2016,Head,3504,Middlesbrough,Southampton,1,2,2017-05-13 15:00:00,Adam Forshaw,Aerial
+121835,54,MissedShots,0.9059999847412109,0.42700000762939455,0.35702255368232727,Patrick Bamford,h,822,OpenPlay,2016,LeftFoot,3504,Middlesbrough,Southampton,1,2,2017-05-13 15:00:00,Álvaro Negredo,HeadPass
+121838,65,BlockedShot,0.775,0.545,0.03334375470876694,Viktor Fischer,h,1713,OpenPlay,2016,RightFoot,3504,Middlesbrough,Southampton,1,2,2017-05-13 15:00:00,Álvaro Negredo,Pass
+121840,68,BlockedShot,0.85,0.46299999237060546,0.0881611779332161,Álvaro Negredo,h,1715,OpenPlay,2016,LeftFoot,3504,Middlesbrough,Southampton,1,2,2017-05-13 15:00:00,Patrick Bamford,Pass
+121841,68,MissedShots,0.8219999694824218,0.6419999694824219,0.0417206846177578,Marten de Roon,h,1710,OpenPlay,2016,RightFoot,3504,Middlesbrough,Southampton,1,2,2017-05-13 15:00:00,Adam Clayton,Pass
+121842,71,BlockedShot,0.919000015258789,0.6580000305175782,0.01585225574672222,George Friend,h,1708,OpenPlay,2016,Head,3504,Middlesbrough,Southampton,1,2,2017-05-13 15:00:00,Fabio,Aerial
+121843,71,Goal,0.9540000152587891,0.525,0.4797074496746063,Patrick Bamford,h,822,FromCorner,2016,Head,3504,Middlesbrough,Southampton,1,2,2017-05-13 15:00:00,Viktor Fischer,Cross
+121845,90,SavedShot,0.7609999847412109,0.42900001525878906,0.02728371135890484,Calum Chambers,h,508,SetPiece,2016,LeftFoot,3504,Middlesbrough,Southampton,1,2,2017-05-13 15:00:00,Ben Gibson,LayOff
+121847,92,SavedShot,0.855,0.4370000076293945,0.009003007784485817,Patrick Bamford,h,822,SetPiece,2016,Head,3504,Middlesbrough,Southampton,1,2,2017-05-13 15:00:00,Viktor Fischer,Aerial
+121821,19,MissedShots,0.905,0.48200000762939454,0.025505954399704933,Martín Cáceres,a,1942,FromCorner,2016,Head,3504,Middlesbrough,Southampton,1,2,2017-05-13 15:00:00,Sofiane Boufal,Aerial
+121822,22,MissedShots,0.8480000305175781,0.6759999847412109,0.04205840080976486,Ryan Bertrand,a,835,OpenPlay,2016,RightFoot,3504,Middlesbrough,Southampton,1,2,2017-05-13 15:00:00,,None
+121825,33,BlockedShot,0.799000015258789,0.35200000762939454,0.08508778363466263,Ryan Bertrand,a,835,DirectFreekick,2016,LeftFoot,3504,Middlesbrough,Southampton,1,2,2017-05-13 15:00:00,,Standard
+121826,37,BlockedShot,0.7240000152587891,0.495,0.04844693839550018,Pierre-Emile Højbjerg,a,343,DirectFreekick,2016,RightFoot,3504,Middlesbrough,Southampton,1,2,2017-05-13 15:00:00,,Standard
+121827,37,SavedShot,0.8690000152587891,0.509000015258789,0.013847658410668373,Maya Yoshida,a,845,SetPiece,2016,Head,3504,Middlesbrough,Southampton,1,2,2017-05-13 15:00:00,,Rebound
+121828,41,Goal,0.88,0.47200000762939454,0.08189444988965988,Jay Rodriguez,a,844,OpenPlay,2016,RightFoot,3504,Middlesbrough,Southampton,1,2,2017-05-13 15:00:00,Shane Long,Cross
+121831,46,BlockedShot,0.93,0.4129999923706055,0.05457985773682594,Shane Long,a,839,OpenPlay,2016,Head,3504,Middlesbrough,Southampton,1,2,2017-05-13 15:00:00,Ryan Bertrand,Aerial
+121830,47,SavedShot,0.740999984741211,0.435,0.055899180471897125,Sofiane Boufal,a,1734,DirectFreekick,2016,RightFoot,3504,Middlesbrough,Southampton,1,2,2017-05-13 15:00:00,,Standard
+121833,49,BlockedShot,0.7519999694824219,0.6719999694824219,0.021344272419810295,Oriol Romeu,a,842,OpenPlay,2016,RightFoot,3504,Middlesbrough,Southampton,1,2,2017-05-13 15:00:00,,BallRecovery
+121836,56,Goal,0.8959999847412109,0.62,0.10899263620376587,Nathan Redmond,a,790,OpenPlay,2016,RightFoot,3504,Middlesbrough,Southampton,1,2,2017-05-13 15:00:00,Jay Rodriguez,Pass
+121837,63,ShotOnPost,0.885,0.5,0.7611688375473022,Shane Long,a,839,Penalty,2016,RightFoot,3504,Middlesbrough,Southampton,1,2,2017-05-13 15:00:00,,Standard
+121839,67,MissedShots,0.95,0.674000015258789,0.09409719705581665,Nathan Redmond,a,790,OpenPlay,2016,LeftFoot,3504,Middlesbrough,Southampton,1,2,2017-05-13 15:00:00,Shane Long,Pass
+121844,86,MissedShots,0.89,0.43099998474121093,0.05171385779976845,Jay Rodriguez,a,844,SetPiece,2016,Head,3504,Middlesbrough,Southampton,1,2,2017-05-13 15:00:00,Ryan Bertrand,Cross
+121846,91,MissedShots,0.8430000305175781,0.45599998474121095,0.08172565698623657,Jay Rodriguez,a,844,OpenPlay,2016,RightFoot,3504,Middlesbrough,Southampton,1,2,2017-05-13 15:00:00,Steven Davis,Pass

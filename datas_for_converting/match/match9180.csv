@@ -1,0 +1,33 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+304484,1,SavedShot,0.9340000152587891,0.509000015258789,0.42747125029563904,Miguel Cardoso,h,2583,OpenPlay,2018,Head,9180,Dinamo Moscow,Arsenal Tula,3,3,2019-05-26 11:00:00,Joãozinho,Cross
+304485,1,Goal,0.985,0.5059999847412109,0.9674813747406006,Miguel Cardoso,h,2583,OpenPlay,2018,LeftFoot,9180,Dinamo Moscow,Arsenal Tula,3,3,2019-05-26 11:00:00,,Rebound
+304486,6,BlockedShot,0.8180000305175781,0.395,0.057359058409929276,Evgeni Lutsenko,h,3035,OpenPlay,2018,RightFoot,9180,Dinamo Moscow,Arsenal Tula,3,3,2019-05-26 11:00:00,,None
+304489,10,BlockedShot,0.7419999694824219,0.3120000076293945,0.01446603238582611,Joãozinho,h,2928,OpenPlay,2018,LeftFoot,9180,Dinamo Moscow,Arsenal Tula,3,3,2019-05-26 11:00:00,Artur Yusupov,Pass
+304491,26,MissedShots,0.785,0.46,0.03711295500397682,Kirill Panchenko,h,2887,OpenPlay,2018,RightFoot,9180,Dinamo Moscow,Arsenal Tula,3,3,2019-05-26 11:00:00,Miguel Cardoso,Pass
+304492,27,SavedShot,0.8090000152587891,0.5570000076293945,0.04571470990777016,Evgeni Markov,h,5900,OpenPlay,2018,RightFoot,9180,Dinamo Moscow,Arsenal Tula,3,3,2019-05-26 11:00:00,Joãozinho,Pass
+304493,28,Goal,0.7880000305175782,0.4329999923706055,0.04114249721169472,Kirill Panchenko,h,2887,OpenPlay,2018,RightFoot,9180,Dinamo Moscow,Arsenal Tula,3,3,2019-05-26 11:00:00,Evgeni Markov,LayOff
+304495,38,MissedShots,0.7390000152587891,0.34900001525878904,0.022972963750362396,Miguel Cardoso,h,2583,OpenPlay,2018,RightFoot,9180,Dinamo Moscow,Arsenal Tula,3,3,2019-05-26 11:00:00,Artur Yusupov,Pass
+304496,40,BlockedShot,0.7390000152587891,0.4779999923706055,0.02567305788397789,Tetteh,h,6612,OpenPlay,2018,RightFoot,9180,Dinamo Moscow,Arsenal Tula,3,3,2019-05-26 11:00:00,,None
+304497,40,SavedShot,0.7519999694824219,0.4759999847412109,0.02123509719967842,Tetteh,h,6612,OpenPlay,2018,LeftFoot,9180,Dinamo Moscow,Arsenal Tula,3,3,2019-05-26 11:00:00,,Rebound
+304498,46,BlockedShot,0.7619999694824219,0.39599998474121095,0.02882934920489788,Miguel Cardoso,h,2583,OpenPlay,2018,LeftFoot,9180,Dinamo Moscow,Arsenal Tula,3,3,2019-05-26 11:00:00,Kirill Panchenko,Pass
+304499,49,SavedShot,0.9319999694824219,0.3340000152587891,0.10196732729673386,Evgeni Markov,h,5900,OpenPlay,2018,RightFoot,9180,Dinamo Moscow,Arsenal Tula,3,3,2019-05-26 11:00:00,Artur Yusupov,TakeOn
+304501,54,SavedShot,0.825,0.3029999923706055,0.02984527498483658,Artur Yusupov,h,3067,OpenPlay,2018,LeftFoot,9180,Dinamo Moscow,Arsenal Tula,3,3,2019-05-26 11:00:00,Aleksei Kozlov,Pass
+304503,59,Goal,0.94,0.534000015258789,0.1501990109682083,Kirill Panchenko,h,2887,OpenPlay,2018,LeftFoot,9180,Dinamo Moscow,Arsenal Tula,3,3,2019-05-26 11:00:00,Evgeni Markov,Pass
+304504,71,SavedShot,0.779000015258789,0.24,0.020717060193419456,Aleksei Kozlov,h,3021,OpenPlay,2018,RightFoot,9180,Dinamo Moscow,Arsenal Tula,3,3,2019-05-26 11:00:00,Vladimir Rykov,Pass
+304510,84,MissedShots,0.905,0.435,0.055957041680812836,Evgeni Markov,h,5900,OpenPlay,2018,Head,9180,Dinamo Moscow,Arsenal Tula,3,3,2019-05-26 11:00:00,Miguel Cardoso,Cross
+304511,85,MissedShots,0.9319999694824219,0.6469999694824219,0.06230005621910095,Joãozinho,h,2928,OpenPlay,2018,RightFoot,9180,Dinamo Moscow,Arsenal Tula,3,3,2019-05-26 11:00:00,Evgeni Markov,Rebound
+304512,86,MissedShots,0.7340000152587891,0.5790000152587891,0.013924464583396912,Kirill Panchenko,h,2887,OpenPlay,2018,LeftFoot,9180,Dinamo Moscow,Arsenal Tula,3,3,2019-05-26 11:00:00,Vladimir Moskvichev,TakeOn
+304513,89,MissedShots,0.9159999847412109,0.534000015258789,0.07987663149833679,Vladimir Rykov,h,3053,FromCorner,2018,Head,9180,Dinamo Moscow,Arsenal Tula,3,3,2019-05-26 11:00:00,Joãozinho,Cross
+304514,91,MissedShots,0.9369999694824219,0.49599998474121093,0.3990989923477173,Roman Evgeniev,h,7196,FromCorner,2018,Head,9180,Dinamo Moscow,Arsenal Tula,3,3,2019-05-26 11:00:00,Joãozinho,Cross
+304487,7,MissedShots,0.7809999847412109,0.629000015258789,0.021540028974413872,Igor Gorbatenko,a,3151,OpenPlay,2018,LeftFoot,9180,Dinamo Moscow,Arsenal Tula,3,3,2019-05-26 11:00:00,Evans Kangwa,Pass
+304488,9,BlockedShot,0.7519999694824219,0.63,0.01847238652408123,Reziuan Mirzov,a,2869,OpenPlay,2018,RightFoot,9180,Dinamo Moscow,Arsenal Tula,3,3,2019-05-26 11:00:00,Zelimkhan Bakaev,Pass
+304490,15,Goal,0.905,0.425,0.06376394629478455,Gia Grigalava,a,5368,SetPiece,2018,Head,9180,Dinamo Moscow,Arsenal Tula,3,3,2019-05-26 11:00:00,Igor Gorbatenko,Cross
+304494,33,MissedShots,0.6859999847412109,0.44,0.012373734265565872,Igor Gorbatenko,a,3151,OpenPlay,2018,LeftFoot,9180,Dinamo Moscow,Arsenal Tula,3,3,2019-05-26 11:00:00,Sergey Tkachev,Pass
+304500,51,Goal,0.885,0.5,0.7542753219604492,Reziuan Mirzov,a,2869,Penalty,2018,RightFoot,9180,Dinamo Moscow,Arsenal Tula,3,3,2019-05-26 11:00:00,,Standard
+304502,57,BlockedShot,0.740999984741211,0.6630000305175782,0.017221227288246155,Sergey Tkachev,a,2880,OpenPlay,2018,LeftFoot,9180,Dinamo Moscow,Arsenal Tula,3,3,2019-05-26 11:00:00,Igor Gorbatenko,Pass
+304505,72,MissedShots,0.73,0.6869999694824219,0.01459934376180172,Víctor Álvarez,a,2111,OpenPlay,2018,LeftFoot,9180,Dinamo Moscow,Arsenal Tula,3,3,2019-05-26 11:00:00,Zelimkhan Bakaev,Pass
+304506,81,BlockedShot,0.889000015258789,0.769000015258789,0.01863197796046734,Reziuan Mirzov,a,2869,FromCorner,2018,RightFoot,9180,Dinamo Moscow,Arsenal Tula,3,3,2019-05-26 11:00:00,,None
+304507,81,BlockedShot,0.710999984741211,0.555,0.014510818757116795,Igor Gorbatenko,a,3151,FromCorner,2018,RightFoot,9180,Dinamo Moscow,Arsenal Tula,3,3,2019-05-26 11:00:00,,Rebound
+304508,81,MissedShots,0.9369999694824219,0.6029999923706054,0.040470190346241,Kirill Kombarov,a,3128,FromCorner,2018,Head,9180,Dinamo Moscow,Arsenal Tula,3,3,2019-05-26 11:00:00,Sergey Tkachev,Cross
+304509,83,Goal,0.7709999847412109,0.52,0.010925105772912502,Igor Gorbatenko,a,3151,OpenPlay,2018,LeftFoot,9180,Dinamo Moscow,Arsenal Tula,3,3,2019-05-26 11:00:00,Kirill Kombarov,Chipped
+304515,92,MissedShots,0.6790000152587891,0.34299999237060547,0.009380415081977844,Kirill Kombarov,a,3128,OpenPlay,2018,RightFoot,9180,Dinamo Moscow,Arsenal Tula,3,3,2019-05-26 11:00:00,Daniil Lesovoy,Pass

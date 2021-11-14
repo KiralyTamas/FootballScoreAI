@@ -1,0 +1,14 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+396923,58,MissedShots,0.799000015258789,0.6079999923706054,0.026675866916775703,Florian Lejeune,h,5073,SetPiece,2020,RightFoot,14937,Alaves,Atletico Madrid,1,2,2021-01-03 15:15:00,,None
+396926,79,ShotOnPost,0.9030000305175782,0.4540000152587891,0.03410427272319794,Florian Lejeune,h,5073,SetPiece,2020,Head,14937,Alaves,Atletico Madrid,1,2,2021-01-03 15:15:00,Lucas Pérez,Aerial
+396927,80,MissedShots,0.905,0.515,0.04819640517234802,Alberto Rodríguez,h,5124,FromCorner,2020,RightFoot,14937,Alaves,Atletico Madrid,1,2,2021-01-03 15:15:00,,Aerial
+396931,95,SavedShot,0.874000015258789,0.46299999237060546,0.04592223837971687,Florian Lejeune,h,5073,OpenPlay,2020,Head,14937,Alaves,Atletico Madrid,1,2,2021-01-03 15:15:00,Adrián Marín,Cross
+396919,5,SavedShot,0.85,0.695,0.03594289347529411,Yannick Carrasco,a,2272,OpenPlay,2020,LeftFoot,14937,Alaves,Atletico Madrid,1,2,2021-01-03 15:15:00,Luis Suárez,Pass
+396920,17,BlockedShot,0.9230000305175782,0.53,0.05293266847729683,Felipe,a,7921,FromCorner,2020,Head,14937,Alaves,Atletico Madrid,1,2,2021-01-03 15:15:00,Yannick Carrasco,Aerial
+396921,40,Goal,0.815,0.5059999847412109,0.13049545884132385,Marcos Llorente,a,2518,OpenPlay,2020,LeftFoot,14937,Alaves,Atletico Madrid,1,2,2021-01-03 15:15:00,Luis Suárez,TakeOn
+396922,50,BlockedShot,0.8419999694824218,0.33099998474121095,0.06429052352905273,Ángel Correa,a,2275,OpenPlay,2020,RightFoot,14937,Alaves,Atletico Madrid,1,2,2021-01-03 15:15:00,Yannick Carrasco,BallTouch
+396924,69,MissedShots,0.894000015258789,0.615,0.3578198552131653,Luis Suárez,a,2098,OpenPlay,2020,RightFoot,14937,Alaves,Atletico Madrid,1,2,2021-01-03 15:15:00,Yannick Carrasco,Throughball
+396925,74,SavedShot,0.8119999694824219,0.4929999923706055,0.15687775611877441,Thomas Lemar,a,3425,DirectFreekick,2020,LeftFoot,14937,Alaves,Atletico Madrid,1,2,2021-01-03 15:15:00,,Standard
+396928,83,OwnGoal,0.12100000381469726,0.435,0,Felipe,a,7921,OpenPlay,2020,RightFoot,14937,Alaves,Atletico Madrid,1,2,2021-01-03 15:15:00,,BallTouch
+396929,89,Goal,0.9880000305175781,0.47,0.9594773650169373,Luis Suárez,a,2098,OpenPlay,2020,RightFoot,14937,Alaves,Atletico Madrid,1,2,2021-01-03 15:15:00,João Félix,Pass
+396930,91,MissedShots,0.8909999847412109,0.5120000076293946,0.5611488223075867,João Félix,a,7892,OpenPlay,2020,LeftFoot,14937,Alaves,Atletico Madrid,1,2,2021-01-03 15:15:00,Luis Suárez,Pass

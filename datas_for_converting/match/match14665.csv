@@ -1,0 +1,23 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+404843,0,BlockedShot,0.769000015258789,0.6179999923706054,0.019388249143958092,Cédric Soares,h,847,OpenPlay,2020,RightFoot,14665,Arsenal,Leeds,4,2,2021-02-14 16:30:00,Emile Smith-Rowe,Pass
+404844,0,BlockedShot,0.89,0.605999984741211,0.09611799567937851,Martin Odegaard,h,2517,OpenPlay,2020,LeftFoot,14665,Arsenal,Leeds,4,2,2021-02-14 16:30:00,Cédric Soares,Pass
+404845,0,MissedShots,0.8519999694824218,0.5720000076293945,0.04965781792998314,Emile Smith-Rowe,h,7230,OpenPlay,2020,RightFoot,14665,Arsenal,Leeds,4,2,2021-02-14 16:30:00,Martin Odegaard,Rebound
+404846,3,MissedShots,0.805,0.49900001525878906,0.04891037568449974,Héctor Bellerín,h,492,OpenPlay,2020,LeftFoot,14665,Arsenal,Leeds,4,2,2021-02-14 16:30:00,Pierre-Emerick Aubameyang,Pass
+404848,12,Goal,0.865999984741211,0.67,0.05215832591056824,Pierre-Emerick Aubameyang,h,318,OpenPlay,2020,RightFoot,14665,Arsenal,Leeds,4,2,2021-02-14 16:30:00,Granit Xhaka,Pass
+404851,27,BlockedShot,0.894000015258789,0.5029999923706054,0.4337241053581238,Pierre-Emerick Aubameyang,h,318,OpenPlay,2020,RightFoot,14665,Arsenal,Leeds,4,2,2021-02-14 16:30:00,David Luiz,Pass
+404852,40,Goal,0.885,0.5,0.7611688375473022,Pierre-Emerick Aubameyang,h,318,Penalty,2020,RightFoot,14665,Arsenal,Leeds,4,2,2021-02-14 16:30:00,,Standard
+404853,44,Goal,0.965,0.35,0.10207337886095047,Héctor Bellerín,h,492,OpenPlay,2020,RightFoot,14665,Arsenal,Leeds,4,2,2021-02-14 16:30:00,Dani Ceballos,Pass
+404854,46,BlockedShot,0.8,0.634000015258789,0.028364786878228188,Bukayo Saka,h,7322,OpenPlay,2020,LeftFoot,14665,Arsenal,Leeds,4,2,2021-02-14 16:30:00,Pierre-Emerick Aubameyang,TakeOn
+404855,46,Goal,0.975,0.47400001525878904,0.7557888627052307,Pierre-Emerick Aubameyang,h,318,OpenPlay,2020,Head,14665,Arsenal,Leeds,4,2,2021-02-14 16:30:00,Emile Smith-Rowe,Pass
+404862,75,ShotOnPost,0.850999984741211,0.500999984741211,0.12414440512657166,Pierre-Emerick Aubameyang,h,318,OpenPlay,2020,RightFoot,14665,Arsenal,Leeds,4,2,2021-02-14 16:30:00,Granit Xhaka,Pass
+404863,75,BlockedShot,0.774000015258789,0.3129999923706055,0.020000958815217018,Martin Odegaard,h,2517,OpenPlay,2020,LeftFoot,14665,Arsenal,Leeds,4,2,2021-02-14 16:30:00,Héctor Bellerín,Pass
+404864,86,SavedShot,0.7380000305175781,0.6079999923706054,0.0194120891392231,Cédric Soares,h,847,OpenPlay,2020,RightFoot,14665,Arsenal,Leeds,4,2,2021-02-14 16:30:00,,BallRecovery
+404847,11,SavedShot,0.9319999694824219,0.5629999923706055,0.05294867232441902,Patrick Bamford,a,822,OpenPlay,2020,Head,14665,Arsenal,Leeds,4,2,2021-02-14 16:30:00,Jack Harrison,Aerial
+404849,18,MissedShots,0.785,0.575,0.027325015515089035,Mateusz Klich,a,4381,OpenPlay,2020,RightFoot,14665,Arsenal,Leeds,4,2,2021-02-14 16:30:00,Raphinha,Pass
+404850,25,SavedShot,0.9009999847412109,0.6459999847412109,0.07704517245292664,Jack Harrison,a,8720,OpenPlay,2020,LeftFoot,14665,Arsenal,Leeds,4,2,2021-02-14 16:30:00,Raphinha,Pass
+404856,48,SavedShot,0.745999984741211,0.6880000305175781,0.010234605520963669,Raphinha,a,8026,OpenPlay,2020,RightFoot,14665,Arsenal,Leeds,4,2,2021-02-14 16:30:00,Ezgjan Alioski,HeadPass
+404857,51,BlockedShot,0.835999984741211,0.6859999847412109,0.025152724236249924,Stuart Dallas,a,8718,OpenPlay,2020,LeftFoot,14665,Arsenal,Leeds,4,2,2021-02-14 16:30:00,,None
+404858,57,BlockedShot,0.7269999694824218,0.645,0.011645732447504997,Raphinha,a,8026,OpenPlay,2020,LeftFoot,14665,Arsenal,Leeds,4,2,2021-02-14 16:30:00,Patrick Bamford,Pass
+404859,57,Goal,0.9540000152587891,0.5029999923706054,0.08363763242959976,Pascal Struijk,a,8717,FromCorner,2020,Head,14665,Arsenal,Leeds,4,2,2021-02-14 16:30:00,Raphinha,Aerial
+404860,65,MissedShots,0.8290000152587891,0.6430000305175781,0.05351409316062927,Raphinha,a,8026,OpenPlay,2020,LeftFoot,14665,Arsenal,Leeds,4,2,2021-02-14 16:30:00,Tyler Roberts,Pass
+404861,68,Goal,0.9180000305175782,0.51,0.42923617362976074,Hélder Costa,a,3428,OpenPlay,2020,RightFoot,14665,Arsenal,Leeds,4,2,2021-02-14 16:30:00,Tyler Roberts,Pass

@@ -1,0 +1,22 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+316675,6,BlockedShot,0.7780000305175782,0.720999984741211,0.016329912468791008,Dimitri Payet,h,536,OpenPlay,2019,RightFoot,12745,Marseille,Saint-Etienne,1,0,2019-09-01 20:00:00,Jordan Amavi,Pass
+316677,26,MissedShots,0.7369999694824219,0.325,0.014072272926568985,Bouna Sarr,h,3393,OpenPlay,2019,RightFoot,12745,Marseille,Saint-Etienne,1,0,2019-09-01 20:00:00,,BallRecovery
+316678,32,Goal,0.8969999694824219,0.4640000152587891,0.4283379316329956,Darío Benedetto,h,7716,OpenPlay,2019,RightFoot,12745,Marseille,Saint-Etienne,1,0,2019-09-01 20:00:00,Morgan Sanson,Pass
+316679,35,BlockedShot,0.7819999694824219,0.500999984741211,0.04738953337073326,Dimitri Payet,h,536,OpenPlay,2019,LeftFoot,12745,Marseille,Saint-Etienne,1,0,2019-09-01 20:00:00,Morgan Sanson,Pass
+316681,39,BlockedShot,0.8019999694824219,0.31799999237060544,0.020256685093045235,Bouna Sarr,h,3393,OpenPlay,2019,LeftFoot,12745,Marseille,Saint-Etienne,1,0,2019-09-01 20:00:00,Dimitri Payet,Chipped
+316684,54,MissedShots,0.745,0.7119999694824218,0.023510213941335678,Darío Benedetto,h,7716,OpenPlay,2019,RightFoot,12745,Marseille,Saint-Etienne,1,0,2019-09-01 20:00:00,Dimitri Payet,Pass
+316686,57,BlockedShot,0.9309999847412109,0.40200000762939453,0.1335243135690689,Darío Benedetto,h,7716,OpenPlay,2019,RightFoot,12745,Marseille,Saint-Etienne,1,0,2019-09-01 20:00:00,Hiroki Sakai,Pass
+316693,85,SavedShot,0.85,0.6509999847412109,0.06963861733675003,Jordan Amavi,h,961,OpenPlay,2019,RightFoot,12745,Marseille,Saint-Etienne,1,0,2019-09-01 20:00:00,,BallRecovery
+316695,94,BlockedShot,0.825,0.4779999923706055,0.0924973115324974,Florian Thauvin,h,942,OpenPlay,2019,LeftFoot,12745,Marseille,Saint-Etienne,1,0,2019-09-01 20:00:00,Dimitri Payet,TakeOn
+316676,7,MissedShots,0.9690000152587891,0.5770000076293945,0.06681648641824722,Loic Perrin,a,3689,SetPiece,2019,Head,12745,Marseille,Saint-Etienne,1,0,2019-09-01 20:00:00,,None
+316680,37,MissedShots,0.8209999847412109,0.28399999618530275,0.021143056452274323,Wahbi Khazri,a,734,OpenPlay,2019,RightFoot,12745,Marseille,Saint-Etienne,1,0,2019-09-01 20:00:00,Zaydou Youssef,TakeOn
+316682,45,BlockedShot,0.86,0.455,0.06446745991706848,Sergi Palencia,a,6946,OpenPlay,2019,LeftFoot,12745,Marseille,Saint-Etienne,1,0,2019-09-01 20:00:00,Wahbi Khazri,None
+316683,50,MissedShots,0.8469999694824218,0.7080000305175781,0.04116896539926529,Miguel Trauco,a,7751,OpenPlay,2019,RightFoot,12745,Marseille,Saint-Etienne,1,0,2019-09-01 20:00:00,Zaydou Youssef,TakeOn
+316685,55,BlockedShot,0.8590000152587891,0.44099998474121094,0.06428060680627823,Yann M&#039;Vila,a,732,OpenPlay,2019,RightFoot,12745,Marseille,Saint-Etienne,1,0,2019-09-01 20:00:00,,Dispossessed
+316687,62,BlockedShot,0.855,0.44,0.07497598230838776,Wahbi Khazri,a,734,OpenPlay,2019,LeftFoot,12745,Marseille,Saint-Etienne,1,0,2019-09-01 20:00:00,Sergi Palencia,Pass
+316688,62,BlockedShot,0.8959999847412109,0.629000015258789,0.06390195339918137,Denis Bouanga,a,3781,OpenPlay,2019,RightFoot,12745,Marseille,Saint-Etienne,1,0,2019-09-01 20:00:00,,Rebound
+316689,62,SavedShot,0.865,0.36700000762939455,0.022858737036585808,Ryad Boudebouz,a,3343,FromCorner,2019,LeftFoot,12745,Marseille,Saint-Etienne,1,0,2019-09-01 20:00:00,,Aerial
+316690,71,MissedShots,0.7580000305175781,0.6179999923706054,0.013688227161765099,Yohan Cabaye,a,516,SetPiece,2019,LeftFoot,12745,Marseille,Saint-Etienne,1,0,2019-09-01 20:00:00,,None
+316691,77,SavedShot,0.789000015258789,0.27399999618530274,0.01746371202170849,Zaydou Youssef,a,5773,OpenPlay,2019,LeftFoot,12745,Marseille,Saint-Etienne,1,0,2019-09-01 20:00:00,Wahbi Khazri,Pass
+316692,80,SavedShot,0.915,0.705,0.04237942397594452,Denis Bouanga,a,3781,OpenPlay,2019,LeftFoot,12745,Marseille,Saint-Etienne,1,0,2019-09-01 20:00:00,Miguel Trauco,Chipped
+316694,93,BlockedShot,0.8019999694824219,0.38599998474121094,0.03600224852561951,Wahbi Khazri,a,734,OpenPlay,2019,LeftFoot,12745,Marseille,Saint-Etienne,1,0,2019-09-01 20:00:00,Ryad Boudebouz,Pass

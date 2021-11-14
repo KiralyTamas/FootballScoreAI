@@ -1,0 +1,33 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+372452,5,BlockedShot,0.860999984741211,0.5940000152587891,0.11601214855909348,Son Heung-Min,h,453,OpenPlay,2019,RightFoot,12010,Tottenham,Leicester,3,0,2020-07-19 15:00:00,Harry Kane,Challenge
+372455,9,MissedShots,0.865999984741211,0.5629999923706055,0.029921654611825943,Toby Alderweireld,h,639,SetPiece,2019,Head,12010,Tottenham,Leicester,3,0,2020-07-19 15:00:00,Son Heung-Min,Cross
+372464,28,BlockedShot,0.860999984741211,0.29399999618530276,0.0474020279943943,Harry Kane,h,647,OpenPlay,2019,RightFoot,12010,Tottenham,Leicester,3,0,2020-07-19 15:00:00,Giovani Lo Celso,Pass
+372465,29,SavedShot,0.8530000305175781,0.42700000762939455,0.08296632766723633,Son Heung-Min,h,453,OpenPlay,2019,RightFoot,12010,Tottenham,Leicester,3,0,2020-07-19 15:00:00,Harry Winks,Chipped
+372467,36,Goal,0.895,0.6519999694824219,0.33916592597961426,Harry Kane,h,647,OpenPlay,2019,LeftFoot,12010,Tottenham,Leicester,3,0,2020-07-19 15:00:00,Lucas Moura,Pass
+372468,39,Goal,0.8909999847412109,0.740999984741211,0.05010642111301422,Harry Kane,h,647,OpenPlay,2019,RightFoot,12010,Tottenham,Leicester,3,0,2020-07-19 15:00:00,Lucas Moura,Pass
+372472,52,BlockedShot,0.8190000152587891,0.53,0.10134761035442352,Harry Kane,h,647,OpenPlay,2019,LeftFoot,12010,Tottenham,Leicester,3,0,2020-07-19 15:00:00,Lucas Moura,Pass
+372453,5,OwnGoal,0.14,0.40599998474121096,0,James Justin,a,7753,OpenPlay,2019,RightFoot,12010,Tottenham,Leicester,3,0,2020-07-19 15:00:00,,OffsideProvoked
+372454,7,MissedShots,0.915,0.525,0.10110711306333542,Jamie Vardy,a,755,OpenPlay,2019,Head,12010,Tottenham,Leicester,3,0,2020-07-19 15:00:00,James Justin,Cross
+372456,12,BlockedShot,0.9069999694824219,0.51,0.10460004210472107,Jamie Vardy,a,755,OpenPlay,2019,LeftFoot,12010,Tottenham,Leicester,3,0,2020-07-19 15:00:00,Luke Thomas,Cross
+372457,13,BlockedShot,0.845999984741211,0.31,0.03716735541820526,James Justin,a,7753,OpenPlay,2019,LeftFoot,12010,Tottenham,Leicester,3,0,2020-07-19 15:00:00,Jonny Evans,HeadPass
+372458,16,BlockedShot,0.865,0.645,0.07171423733234406,Ayoze Pérez,a,770,OpenPlay,2019,LeftFoot,12010,Tottenham,Leicester,3,0,2020-07-19 15:00:00,,TakeOn
+372459,18,BlockedShot,0.9469999694824218,0.6329999923706054,0.03154747933149338,Jamie Vardy,a,755,OpenPlay,2019,Head,12010,Tottenham,Leicester,3,0,2020-07-19 15:00:00,Harvey Barnes,Cross
+372460,19,BlockedShot,0.9,0.5420000076293945,0.055179715156555176,Wes Morgan,a,748,FromCorner,2019,Head,12010,Tottenham,Leicester,3,0,2020-07-19 15:00:00,Youri Tielemans,Cross
+372461,19,BlockedShot,0.9740000152587891,0.515,0.13529959321022034,Jamie Vardy,a,755,FromCorner,2019,RightFoot,12010,Tottenham,Leicester,3,0,2020-07-19 15:00:00,,Clearance
+372462,19,SavedShot,0.9640000152587891,0.534000015258789,0.15140831470489502,Jamie Vardy,a,755,FromCorner,2019,RightFoot,12010,Tottenham,Leicester,3,0,2020-07-19 15:00:00,,Rebound
+372463,24,SavedShot,0.8690000152587891,0.455,0.06360927224159241,Ayoze Pérez,a,770,OpenPlay,2019,LeftFoot,12010,Tottenham,Leicester,3,0,2020-07-19 15:00:00,Luke Thomas,Cross
+372466,36,BlockedShot,0.885,0.549000015258789,0.023331811651587486,Jamie Vardy,a,755,OpenPlay,2019,Head,12010,Tottenham,Leicester,3,0,2020-07-19 15:00:00,Luke Thomas,Aerial
+372469,42,SavedShot,0.7559999847412109,0.3659999847412109,0.01861896738409996,Ayoze Pérez,a,770,OpenPlay,2019,RightFoot,12010,Tottenham,Leicester,3,0,2020-07-19 15:00:00,Youri Tielemans,Pass
+372470,45,MissedShots,0.7319999694824219,0.46599998474121096,0.01145712286233902,Wilfred Ndidi,a,5545,OpenPlay,2019,LeftFoot,12010,Tottenham,Leicester,3,0,2020-07-19 15:00:00,,None
+372471,48,BlockedShot,0.870999984741211,0.35200000762939454,0.07074782252311707,Demarai Gray,a,762,OpenPlay,2019,RightFoot,12010,Tottenham,Leicester,3,0,2020-07-19 15:00:00,Youri Tielemans,Pass
+372473,57,SavedShot,0.71,0.5540000152587891,0.04088820144534111,Demarai Gray,a,762,DirectFreekick,2019,RightFoot,12010,Tottenham,Leicester,3,0,2020-07-19 15:00:00,,Standard
+372474,58,MissedShots,0.9209999847412109,0.54,0.03919001296162605,Wes Morgan,a,748,FromCorner,2019,Head,12010,Tottenham,Leicester,3,0,2020-07-19 15:00:00,Youri Tielemans,Aerial
+372475,63,SavedShot,0.7859999847412109,0.5520000076293945,0.035068951547145844,Harvey Barnes,a,6681,OpenPlay,2019,RightFoot,12010,Tottenham,Leicester,3,0,2020-07-19 15:00:00,Jonny Evans,Pass
+372476,67,MissedShots,0.745,0.4420000076293945,0.016111671924591064,James Justin,a,7753,FromCorner,2019,RightFoot,12010,Tottenham,Leicester,3,0,2020-07-19 15:00:00,,None
+372477,70,BlockedShot,0.735999984741211,0.37400001525878906,0.012558357790112495,Dennis Praet,a,1234,OpenPlay,2019,RightFoot,12010,Tottenham,Leicester,3,0,2020-07-19 15:00:00,Demarai Gray,Pass
+372478,75,MissedShots,0.78,0.34299999237060547,0.02273113839328289,Demarai Gray,a,762,OpenPlay,2019,RightFoot,12010,Tottenham,Leicester,3,0,2020-07-19 15:00:00,Kelechi Iheanacho,Pass
+372479,78,MissedShots,0.749000015258789,0.6430000305175781,0.014933389611542225,Dennis Praet,a,1234,OpenPlay,2019,LeftFoot,12010,Tottenham,Leicester,3,0,2020-07-19 15:00:00,Nampalys Mendy,Pass
+372480,86,BlockedShot,0.7290000152587891,0.645,0.0421719066798687,Demarai Gray,a,762,DirectFreekick,2019,RightFoot,12010,Tottenham,Leicester,3,0,2020-07-19 15:00:00,,Standard
+372481,87,SavedShot,0.75,0.40099998474121096,0.028752751648426056,Kelechi Iheanacho,a,620,OpenPlay,2019,LeftFoot,12010,Tottenham,Leicester,3,0,2020-07-19 15:00:00,James Justin,TakeOn
+372482,87,MissedShots,0.9590000152587891,0.41,0.07191499322652817,George Hirst,a,8563,FromCorner,2019,Head,12010,Tottenham,Leicester,3,0,2020-07-19 15:00:00,Demarai Gray,Cross
+372483,90,MissedShots,0.8130000305175781,0.27100000381469724,0.021223096176981926,George Hirst,a,8563,OpenPlay,2019,RightFoot,12010,Tottenham,Leicester,3,0,2020-07-19 15:00:00,Demarai Gray,Pass

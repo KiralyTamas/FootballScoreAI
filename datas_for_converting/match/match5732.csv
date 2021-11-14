@@ -1,0 +1,21 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+34399,20,MissedShots,0.8819999694824219,0.6020000076293945,0.014733219519257545,Víctor Álvarez,h,2111,OpenPlay,2014,Head,5732,Espanyol,Villarreal,1,1,2014-11-09 16:00:00,Sergio García,Aerial
+34404,34,MissedShots,0.8040000152587891,0.515,0.03654647246003151,Sergio García,h,4060,OpenPlay,2014,LeftFoot,5732,Espanyol,Villarreal,1,1,2014-11-09 16:00:00,Víctor Álvarez,Chipped
+34405,47,SavedShot,0.8109999847412109,0.6309999847412109,0.03335803747177124,Diego Colotto,h,4061,OpenPlay,2014,RightFoot,5732,Espanyol,Villarreal,1,1,2014-11-09 16:00:00,Lucas Vázquez,Pass
+34406,49,SavedShot,0.835,0.505,0.06980705261230469,Abraham,h,2431,OpenPlay,2014,OtherBodyPart,5732,Espanyol,Villarreal,1,1,2014-11-09 16:00:00,Víctor Sánchez,Pass
+34407,54,SavedShot,0.89,0.26600000381469724,0.031528789550065994,Lucas Vázquez,h,2253,OpenPlay,2014,RightFoot,5732,Espanyol,Villarreal,1,1,2014-11-09 16:00:00,Víctor Sánchez,Pass
+34408,55,MissedShots,0.8009999847412109,0.36900001525878906,0.02431490086019039,Víctor Sánchez,h,2113,SetPiece,2014,RightFoot,5732,Espanyol,Villarreal,1,1,2014-11-09 16:00:00,,None
+34409,57,MissedShots,0.8930000305175781,0.44,0.06625718623399734,Felipe Caicedo,h,2116,OpenPlay,2014,Head,5732,Espanyol,Villarreal,1,1,2014-11-09 16:00:00,Lucas Vázquez,Cross
+34414,63,MissedShots,0.924000015258789,0.33599998474121096,0.11619000881910324,Diego Colotto,h,4061,SetPiece,2014,RightFoot,5732,Espanyol,Villarreal,1,1,2014-11-09 16:00:00,Fuentes,Cross
+34416,71,MissedShots,0.825999984741211,0.38,0.0519188828766346,Abraham,h,2431,OpenPlay,2014,RightFoot,5732,Espanyol,Villarreal,1,1,2014-11-09 16:00:00,Cristhian Stuani,Pass
+34417,90,Goal,0.985999984741211,0.575,0.4748426079750061,Diego Colotto,h,4061,OpenPlay,2014,LeftFoot,5732,Espanyol,Villarreal,1,1,2014-11-09 16:00:00,,None
+34418,92,MissedShots,0.544000015258789,0.4929999923706055,0.0068201893009245396,Abraham,h,2431,OpenPlay,2014,RightFoot,5732,Espanyol,Villarreal,1,1,2014-11-09 16:00:00,,None
+34400,25,Goal,0.9530000305175781,0.45,0.5589890480041504,Mario,a,2296,OpenPlay,2014,RightFoot,5732,Espanyol,Villarreal,1,1,2014-11-09 16:00:00,Denis Cheryshev,HeadPass
+34401,28,SavedShot,0.8580000305175781,0.3340000152587891,0.06750179827213287,Mario,a,2296,OpenPlay,2014,RightFoot,5732,Espanyol,Villarreal,1,1,2014-11-09 16:00:00,,None
+34402,28,SavedShot,0.95,0.5690000152587891,0.5325676798820496,Luciano Vietto,a,2274,OpenPlay,2014,RightFoot,5732,Espanyol,Villarreal,1,1,2014-11-09 16:00:00,,BallTouch
+34403,28,MissedShots,0.7959999847412109,0.34900001525878904,0.03079221211373806,Manu Trigueros,a,2301,OpenPlay,2014,RightFoot,5732,Espanyol,Villarreal,1,1,2014-11-09 16:00:00,,Rebound
+34410,58,MissedShots,0.9480000305175781,0.445,0.06840589642524719,Mario,a,2296,FromCorner,2014,Head,5732,Espanyol,Villarreal,1,1,2014-11-09 16:00:00,Manu Trigueros,Aerial
+34411,60,BlockedShot,0.8430000305175781,0.41,0.13186243176460266,Ikechukwu Uche,a,2349,OpenPlay,2014,RightFoot,5732,Espanyol,Villarreal,1,1,2014-11-09 16:00:00,Jonathan dos Santos,Throughball
+34412,61,MissedShots,0.7480000305175781,0.580999984741211,0.017170419916510582,Denis Cheryshev,a,2494,FromCorner,2014,LeftFoot,5732,Espanyol,Villarreal,1,1,2014-11-09 16:00:00,,None
+34413,62,SavedShot,0.8319999694824218,0.6480000305175782,0.31794679164886475,Ikechukwu Uche,a,2349,OpenPlay,2014,LeftFoot,5732,Espanyol,Villarreal,1,1,2014-11-09 16:00:00,,None
+34415,69,BlockedShot,0.8859999847412109,0.5529999923706055,0.4150278568267822,Luciano Vietto,a,2274,OpenPlay,2014,LeftFoot,5732,Espanyol,Villarreal,1,1,2014-11-09 16:00:00,Giovani dos Santos,Pass

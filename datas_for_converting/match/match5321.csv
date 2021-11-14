@@ -1,0 +1,40 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+28089,10,MissedShots,0.7240000152587891,0.585,0.013979250565171242,Pirmin Schwegler,h,80,OpenPlay,2014,RightFoot,5321,Hoffenheim,Eintracht Frankfurt,3,2,2014-12-12 19:30:00,,None
+28091,16,MissedShots,0.8180000305175781,0.664000015258789,0.03385032340884209,Anthony Modeste,h,137,OpenPlay,2014,RightFoot,5321,Hoffenheim,Eintracht Frankfurt,3,2,2014-12-12 19:30:00,Tarik Elyounoussi,Pass
+28092,18,SavedShot,0.8690000152587891,0.5790000152587891,0.023125559091567993,Anthony Modeste,h,137,OpenPlay,2014,Head,5321,Hoffenheim,Eintracht Frankfurt,3,2,2014-12-12 19:30:00,Andreas Beck,Cross
+28093,22,MissedShots,0.8480000305175781,0.5179999923706055,0.046207211911678314,Anthony Modeste,h,137,OpenPlay,2014,RightFoot,5321,Hoffenheim,Eintracht Frankfurt,3,2,2014-12-12 19:30:00,Tarik Elyounoussi,Cross
+28095,29,BlockedShot,0.7169999694824218,0.5729999923706055,0.015294340439140797,Anthony Modeste,h,137,OpenPlay,2014,RightFoot,5321,Hoffenheim,Eintracht Frankfurt,3,2,2014-12-12 19:30:00,Kevin Volland,Pass
+28096,33,MissedShots,0.7080000305175781,0.6020000076293945,0.04032881185412407,Pirmin Schwegler,h,80,DirectFreekick,2014,RightFoot,5321,Hoffenheim,Eintracht Frankfurt,3,2,2014-12-12 19:30:00,,Standard
+28097,35,MissedShots,0.8590000152587891,0.29700000762939455,0.032947883009910583,Tarik Elyounoussi,h,78,OpenPlay,2014,RightFoot,5321,Hoffenheim,Eintracht Frankfurt,3,2,2014-12-12 19:30:00,Roberto Firmino,Pass
+28100,42,Goal,0.8959999847412109,0.620999984741211,0.3357066512107849,Kevin Volland,h,83,OpenPlay,2014,LeftFoot,5321,Hoffenheim,Eintracht Frankfurt,3,2,2014-12-12 19:30:00,Roberto Firmino,Pass
+28101,45,MissedShots,0.919000015258789,0.5179999923706055,0.10423123836517334,Anthony Modeste,h,137,FromCorner,2014,Head,5321,Hoffenheim,Eintracht Frankfurt,3,2,2014-12-12 19:30:00,Pirmin Schwegler,Cross
+28102,47,BlockedShot,0.9069999694824219,0.615,0.07453110069036484,Kevin Volland,h,83,SetPiece,2014,RightFoot,5321,Hoffenheim,Eintracht Frankfurt,3,2,2014-12-12 19:30:00,Pirmin Schwegler,Chipped
+28103,49,SavedShot,0.7380000305175781,0.3509999847412109,0.02509717456996441,Kevin Volland,h,83,OpenPlay,2014,LeftFoot,5321,Hoffenheim,Eintracht Frankfurt,3,2,2014-12-12 19:30:00,Pirmin Schwegler,Pass
+28110,64,SavedShot,0.8859999847412109,0.4490000152587891,0.11529386788606644,Ádám Szalai,h,360,OpenPlay,2014,LeftFoot,5321,Hoffenheim,Eintracht Frankfurt,3,2,2014-12-12 19:30:00,Kevin Volland,Pass
+28111,64,BlockedShot,0.8290000152587891,0.54,0.041404932737350464,Kevin Volland,h,83,FromCorner,2014,LeftFoot,5321,Hoffenheim,Eintracht Frankfurt,3,2,2014-12-12 19:30:00,Roberto Firmino,Pass
+28112,64,SavedShot,0.9219999694824219,0.6309999847412109,0.065770722925663,Pirmin Schwegler,h,80,FromCorner,2014,RightFoot,5321,Hoffenheim,Eintracht Frankfurt,3,2,2014-12-12 19:30:00,Kevin Volland,HeadPass
+28113,64,Goal,0.9740000152587891,0.48900001525878906,0.8628186583518982,Ádám Szalai,h,360,FromCorner,2014,RightFoot,5321,Hoffenheim,Eintracht Frankfurt,3,2,2014-12-12 19:30:00,,Rebound
+28115,69,MissedShots,0.675,0.565,0.009953577071428299,Eugen Polanski,h,86,SetPiece,2014,RightFoot,5321,Hoffenheim,Eintracht Frankfurt,3,2,2014-12-12 19:30:00,Pirmin Schwegler,BallTouch
+28116,71,MissedShots,0.92,0.5879999923706055,0.4394752085208893,Tarik Elyounoussi,h,78,OpenPlay,2014,LeftFoot,5321,Hoffenheim,Eintracht Frankfurt,3,2,2014-12-12 19:30:00,Roberto Firmino,Throughball
+28117,75,ShotOnPost,0.8880000305175781,0.6509999847412109,0.29436254501342773,Tarik Elyounoussi,h,78,OpenPlay,2014,LeftFoot,5321,Hoffenheim,Eintracht Frankfurt,3,2,2014-12-12 19:30:00,Roberto Firmino,Pass
+28122,86,SavedShot,0.9630000305175781,0.41,0.09876067191362381,Ádám Szalai,h,360,FromCorner,2014,RightFoot,5321,Hoffenheim,Eintracht Frankfurt,3,2,2014-12-12 19:30:00,,None
+28123,86,Goal,0.9690000152587891,0.48200000762939454,0.7132912874221802,Roberto Firmino,h,482,FromCorner,2014,LeftFoot,5321,Hoffenheim,Eintracht Frankfurt,3,2,2014-12-12 19:30:00,Ádám Szalai,Pass
+28090,11,SavedShot,0.8809999847412109,0.44799999237060545,0.07824070751667023,Alexander Meier,a,356,OpenPlay,2014,RightFoot,5321,Hoffenheim,Eintracht Frankfurt,3,2,2014-12-12 19:30:00,Timothy Chandler,Cross
+28094,24,MissedShots,0.879000015258789,0.2989999961853027,0.04491400346159935,Haris Seferovic,a,291,OpenPlay,2014,LeftFoot,5321,Hoffenheim,Eintracht Frankfurt,3,2,2014-12-12 19:30:00,,None
+28098,37,BlockedShot,0.745999984741211,0.5790000152587891,0.021792953833937645,Takashi Inui,a,452,OpenPlay,2014,RightFoot,5321,Hoffenheim,Eintracht Frankfurt,3,2,2014-12-12 19:30:00,Haris Seferovic,Pass
+28099,42,BlockedShot,0.8830000305175781,0.24600000381469728,0.03028443269431591,Timothy Chandler,a,359,OpenPlay,2014,LeftFoot,5321,Hoffenheim,Eintracht Frankfurt,3,2,2014-12-12 19:30:00,Stefan Aigner,Pass
+28104,53,MissedShots,0.8290000152587891,0.5529999923706055,0.06585986167192459,Alexander Meier,a,356,OpenPlay,2014,RightFoot,5321,Hoffenheim,Eintracht Frankfurt,3,2,2014-12-12 19:30:00,Haris Seferovic,Pass
+28105,54,MissedShots,0.8040000152587891,0.2560000038146973,0.016084300354123116,Haris Seferovic,a,291,OpenPlay,2014,LeftFoot,5321,Hoffenheim,Eintracht Frankfurt,3,2,2014-12-12 19:30:00,Makoto Hasebe,BallRecovery
+28106,57,Goal,0.9159999847412109,0.47200000762939454,0.36515021324157715,Stefan Aigner,a,288,OpenPlay,2014,LeftFoot,5321,Hoffenheim,Eintracht Frankfurt,3,2,2014-12-12 19:30:00,Bastian Oczipka,Chipped
+28107,59,BlockedShot,0.8859999847412109,0.3529999923706055,0.061616864055395126,Haris Seferovic,a,291,OpenPlay,2014,LeftFoot,5321,Hoffenheim,Eintracht Frankfurt,3,2,2014-12-12 19:30:00,Marc Stendera,Pass
+28108,59,ShotOnPost,0.700999984741211,0.5259999847412109,0.013041920959949493,Timothy Chandler,a,359,FromCorner,2014,RightFoot,5321,Hoffenheim,Eintracht Frankfurt,3,2,2014-12-12 19:30:00,,None
+28109,60,BlockedShot,0.9119999694824219,0.5129999923706055,0.05469461902976036,Stefan Aigner,a,288,OpenPlay,2014,Head,5321,Hoffenheim,Eintracht Frankfurt,3,2,2014-12-12 19:30:00,Haris Seferovic,Aerial
+28114,68,MissedShots,0.860999984741211,0.425,0.11411909013986588,Marco Russ,a,293,OpenPlay,2014,RightFoot,5321,Hoffenheim,Eintracht Frankfurt,3,2,2014-12-12 19:30:00,Takashi Inui,Throughball
+28118,76,SavedShot,0.93,0.43599998474121093,0.430334210395813,Haris Seferovic,a,291,OpenPlay,2014,LeftFoot,5321,Hoffenheim,Eintracht Frankfurt,3,2,2014-12-12 19:30:00,Lucas Piazon,Pass
+28119,76,Goal,0.965999984741211,0.44099998474121094,0.5980034470558167,Haris Seferovic,a,291,OpenPlay,2014,RightFoot,5321,Hoffenheim,Eintracht Frankfurt,3,2,2014-12-12 19:30:00,,Rebound
+28120,82,SavedShot,0.8109999847412109,0.4929999923706055,0.0609423890709877,Alexander Meier,a,356,OpenPlay,2014,RightFoot,5321,Hoffenheim,Eintracht Frankfurt,3,2,2014-12-12 19:30:00,Lucas Piazon,Pass
+28121,83,MissedShots,0.8069999694824219,0.6090000152587891,0.028391918167471886,Bastian Oczipka,a,285,FromCorner,2014,LeftFoot,5321,Hoffenheim,Eintracht Frankfurt,3,2,2014-12-12 19:30:00,,None
+28124,91,SavedShot,0.8880000305175781,0.39799999237060546,0.03516821190714836,Sonny Kittel,a,2649,OpenPlay,2014,LeftFoot,5321,Hoffenheim,Eintracht Frankfurt,3,2,2014-12-12 19:30:00,,Aerial
+28125,91,BlockedShot,0.960999984741211,0.3160000038146973,0.05680372193455696,Sonny Kittel,a,2649,OpenPlay,2014,RightFoot,5321,Hoffenheim,Eintracht Frankfurt,3,2,2014-12-12 19:30:00,Haris Seferovic,Pass
+28126,91,BlockedShot,0.8590000152587891,0.5720000076293945,0.04201069846749306,Haris Seferovic,a,291,FromCorner,2014,RightFoot,5321,Hoffenheim,Eintracht Frankfurt,3,2,2014-12-12 19:30:00,Lucas Piazon,Cross
+28127,91,SavedShot,0.95,0.5279999923706055,0.5928326845169067,Marco Russ,a,293,FromCorner,2014,RightFoot,5321,Hoffenheim,Eintracht Frankfurt,3,2,2014-12-12 19:30:00,Haris Seferovic,Rebound

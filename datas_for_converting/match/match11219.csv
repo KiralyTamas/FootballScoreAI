@@ -1,0 +1,29 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+367941,12,MissedShots,0.909000015258789,0.605,0.07582695782184601,Aleksandr Kokorin,h,3066,OpenPlay,2019,RightFoot,11219,PFC Sochi,Dinamo Moscow,1,1,2020-07-01 17:00:00,Timofey Margasov,Cross
+367943,16,MissedShots,0.40400001525878904,0.5429999923706055,0.0064107319340109825,Ibrahim Tsallagov,h,2990,OpenPlay,2019,RightFoot,11219,PFC Sochi,Dinamo Moscow,1,1,2020-07-01 17:00:00,,BallRecovery
+367947,35,BlockedShot,0.765,0.38,0.01643652468919754,Ibrahim Tsallagov,h,2990,FromCorner,2019,RightFoot,11219,PFC Sochi,Dinamo Moscow,1,1,2020-07-01 17:00:00,,None
+367953,46,SavedShot,0.7380000305175781,0.315,0.03875952959060669,Nikita Burmistrov,h,2986,DirectFreekick,2019,LeftFoot,11219,PFC Sochi,Dinamo Moscow,1,1,2020-07-01 17:00:00,,Standard
+367955,48,BlockedShot,0.9019999694824219,0.24899999618530275,0.022063851356506348,Timofey Margasov,h,2785,OpenPlay,2019,RightFoot,11219,PFC Sochi,Dinamo Moscow,1,1,2020-07-01 17:00:00,Aleksandr Kokorin,Chipped
+367956,49,MissedShots,0.7230000305175781,0.6419999694824219,0.0123886838555336,Ibrahim Tsallagov,h,2990,OpenPlay,2019,RightFoot,11219,PFC Sochi,Dinamo Moscow,1,1,2020-07-01 17:00:00,,None
+367960,58,MissedShots,0.6669999694824219,0.8,0.00936462078243494,Ibrahim Tsallagov,h,2990,OpenPlay,2019,RightFoot,11219,PFC Sochi,Dinamo Moscow,1,1,2020-07-01 17:00:00,Andrey Mostovoy,Pass
+367962,73,BlockedShot,0.745,0.639000015258789,0.04696988686919212,Aleksandr Kokorin,h,3066,DirectFreekick,2019,RightFoot,11219,PFC Sochi,Dinamo Moscow,1,1,2020-07-01 17:00:00,,Standard
+367963,81,SavedShot,0.8669999694824219,0.845,0.04324207827448845,Christian Noboa,h,2771,DirectFreekick,2019,RightFoot,11219,PFC Sochi,Dinamo Moscow,1,1,2020-07-01 17:00:00,,Standard
+367964,85,BlockedShot,0.7319999694824219,0.3990000152587891,0.015148021280765533,Ivan Miladinovic,h,7656,OpenPlay,2019,RightFoot,11219,PFC Sochi,Dinamo Moscow,1,1,2020-07-01 17:00:00,Dmitriy Poloz,Pass
+367965,89,MissedShots,0.8680000305175781,0.24100000381469727,0.029292190447449684,Nikita Burmistrov,h,2986,OpenPlay,2019,LeftFoot,11219,PFC Sochi,Dinamo Moscow,1,1,2020-07-01 17:00:00,Timofey Margasov,Pass
+367966,91,Goal,0.885,0.5,0.7542718052864075,Aleksandr Kokorin,h,3066,Penalty,2019,RightFoot,11219,PFC Sochi,Dinamo Moscow,1,1,2020-07-01 17:00:00,,Standard
+367967,93,BlockedShot,0.700999984741211,0.55,0.011145778000354767,Christian Noboa,h,2771,OpenPlay,2019,RightFoot,11219,PFC Sochi,Dinamo Moscow,1,1,2020-07-01 17:00:00,Dmitriy Poloz,Pass
+367940,0,SavedShot,0.7330000305175781,0.2720000076293945,0.010668663308024406,Kirill Panchenko,a,2887,OpenPlay,2019,RightFoot,11219,PFC Sochi,Dinamo Moscow,1,1,2020-07-01 17:00:00,Joãozinho,HeadPass
+367942,13,SavedShot,0.8,0.6669999694824219,0.02739812061190605,Sly,a,2907,OpenPlay,2019,RightFoot,11219,PFC Sochi,Dinamo Moscow,1,1,2020-07-01 17:00:00,Artur Yusupov,Pass
+367944,18,MissedShots,0.8980000305175782,0.47,0.04424125701189041,Toni Sunjic,a,57,OpenPlay,2019,Head,11219,PFC Sochi,Dinamo Moscow,1,1,2020-07-01 17:00:00,Konstantin Rausch,Aerial
+367945,20,MissedShots,0.8680000305175781,0.42400001525878905,0.09903223067522049,Sly,a,2907,OpenPlay,2019,RightFoot,11219,PFC Sochi,Dinamo Moscow,1,1,2020-07-01 17:00:00,Artur Yusupov,Pass
+367946,33,MissedShots,0.715,0.3729999923706055,0.012056084349751472,Kirill Panchenko,a,2887,OpenPlay,2019,RightFoot,11219,PFC Sochi,Dinamo Moscow,1,1,2020-07-01 17:00:00,Joãozinho,Pass
+367948,37,SavedShot,0.765,0.34400001525878904,0.0209918525069952,Joãozinho,a,2928,OpenPlay,2019,LeftFoot,11219,PFC Sochi,Dinamo Moscow,1,1,2020-07-01 17:00:00,Toni Sunjic,Pass
+367949,37,BlockedShot,0.8909999847412109,0.725999984741211,0.028228536248207092,Dmitrii Skopintcev,a,5526,OpenPlay,2019,RightFoot,11219,PFC Sochi,Dinamo Moscow,1,1,2020-07-01 17:00:00,Joãozinho,Rebound
+367950,39,SavedShot,0.7869999694824219,0.37599998474121094,0.028394879773259163,Kirill Panchenko,a,2887,OpenPlay,2019,LeftFoot,11219,PFC Sochi,Dinamo Moscow,1,1,2020-07-01 17:00:00,Joãozinho,Pass
+367951,43,BlockedShot,0.7480000305175781,0.3029999923706055,0.040585048496723175,Konstantin Rausch,a,13,DirectFreekick,2019,LeftFoot,11219,PFC Sochi,Dinamo Moscow,1,1,2020-07-01 17:00:00,,Standard
+367952,44,SavedShot,0.7859999847412109,0.6480000305175782,0.022827744483947754,Kirill Panchenko,a,2887,OpenPlay,2019,RightFoot,11219,PFC Sochi,Dinamo Moscow,1,1,2020-07-01 17:00:00,Sly,LayOff
+367954,47,MissedShots,0.8859999847412109,0.56,0.08824384212493896,Nikolay Komlichenko,a,3015,OpenPlay,2019,RightFoot,11219,PFC Sochi,Dinamo Moscow,1,1,2020-07-01 17:00:00,Joãozinho,Cross
+367957,50,BlockedShot,0.6959999847412109,0.6780000305175782,0.011631564237177372,Dmitrii Skopintcev,a,5526,OpenPlay,2019,LeftFoot,11219,PFC Sochi,Dinamo Moscow,1,1,2020-07-01 17:00:00,Joãozinho,Pass
+367958,50,BlockedShot,0.725999984741211,0.750999984741211,0.008664486929774284,Sly,a,2907,OpenPlay,2019,RightFoot,11219,PFC Sochi,Dinamo Moscow,1,1,2020-07-01 17:00:00,Dmitrii Skopintcev,Rebound
+367959,56,Goal,0.885,0.5,0.7542753219604492,Nikolay Komlichenko,a,3015,Penalty,2019,RightFoot,11219,PFC Sochi,Dinamo Moscow,1,1,2020-07-01 17:00:00,,Standard
+367961,63,MissedShots,0.7969999694824219,0.6969999694824218,0.027532262727618217,Dmitrii Skopintcev,a,5526,OpenPlay,2019,LeftFoot,11219,PFC Sochi,Dinamo Moscow,1,1,2020-07-01 17:00:00,Sly,Pass

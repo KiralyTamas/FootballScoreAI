@@ -1,0 +1,19 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+233088,28,BlockedShot,0.750999984741211,0.415,0.013661169447004795,Marc Albrighton,h,753,SetPiece,2018,RightFoot,9210,Leicester,Wolverhampton Wanderers,2,0,2018-08-18 17:00:00,,None
+233089,28,BlockedShot,0.789000015258789,0.415,0.021702025085687637,Wilfred Ndidi,h,5545,SetPiece,2018,RightFoot,9210,Leicester,Wolverhampton Wanderers,2,0,2018-08-18 17:00:00,,Rebound
+233091,44,Goal,0.795,0.4209999847412109,0.05299698933959007,James Maddison,h,6818,OpenPlay,2018,RightFoot,9210,Leicester,Wolverhampton Wanderers,2,0,2018-08-18 17:00:00,Ricardo Pereira,Pass
+233095,51,MissedShots,0.7880000305175782,0.34200000762939453,0.0528365857899189,Demarai Gray,h,762,OpenPlay,2018,LeftFoot,9210,Leicester,Wolverhampton Wanderers,2,0,2018-08-18 17:00:00,Wilfred Ndidi,TakeOn
+233101,93,SavedShot,0.8980000305175782,0.7240000152587891,0.05450846999883652,Ben Chilwell,h,782,OpenPlay,2018,LeftFoot,9210,Leicester,Wolverhampton Wanderers,2,0,2018-08-18 17:00:00,Kelechi Iheanacho,TakeOn
+233102,93,MissedShots,0.754000015258789,0.52,0.027434080839157104,Wilfred Ndidi,h,5545,OpenPlay,2018,LeftFoot,9210,Leicester,Wolverhampton Wanderers,2,0,2018-08-18 17:00:00,Ben Chilwell,Pass
+233085,2,ShotOnPost,0.805,0.3139999961853027,0.0212334506213665,João Moutinho,a,3422,OpenPlay,2018,RightFoot,9210,Leicester,Wolverhampton Wanderers,2,0,2018-08-18 17:00:00,Jonny,Pass
+233086,3,BlockedShot,0.9319999694824219,0.4570000076293945,0.5460527539253235,Matt Doherty,a,6852,OpenPlay,2018,LeftFoot,9210,Leicester,Wolverhampton Wanderers,2,0,2018-08-18 17:00:00,,None
+233087,20,ShotOnPost,0.779000015258789,0.6619999694824219,0.023502111434936523,Raúl Jiménez,a,4105,OpenPlay,2018,RightFoot,9210,Leicester,Wolverhampton Wanderers,2,0,2018-08-18 17:00:00,Jonny,Pass
+233090,28,OwnGoal,0.08100000381469727,0.42400001525878905,0,Matt Doherty,a,6852,OpenPlay,2018,Head,9210,Leicester,Wolverhampton Wanderers,2,0,2018-08-18 17:00:00,,Challenge
+233092,47,MissedShots,0.8230000305175781,0.4759999847412109,0.06723164021968842,Hélder Costa,a,3428,OpenPlay,2018,LeftFoot,9210,Leicester,Wolverhampton Wanderers,2,0,2018-08-18 17:00:00,Diogo Jota,Pass
+233093,47,BlockedShot,0.9540000152587891,0.3609999847412109,0.057841140776872635,Raúl Jiménez,a,4105,OpenPlay,2018,RightFoot,9210,Leicester,Wolverhampton Wanderers,2,0,2018-08-18 17:00:00,,None
+233094,47,MissedShots,0.7269999694824218,0.47200000762939454,0.013763264752924442,Rúben Neves,a,6853,OpenPlay,2018,RightFoot,9210,Leicester,Wolverhampton Wanderers,2,0,2018-08-18 17:00:00,João Moutinho,Pass
+233096,57,SavedShot,0.9359999847412109,0.3220000076293945,0.09331347793340683,Raúl Jiménez,a,4105,OpenPlay,2018,RightFoot,9210,Leicester,Wolverhampton Wanderers,2,0,2018-08-18 17:00:00,João Moutinho,Throughball
+233097,70,MissedShots,0.9290000152587891,0.4209999847412109,0.07624749094247818,Léo Bonatini,a,6855,OpenPlay,2018,RightFoot,9210,Leicester,Wolverhampton Wanderers,2,0,2018-08-18 17:00:00,Adama Traoré,Cross
+233098,76,MissedShots,0.889000015258789,0.44299999237060544,0.04475022107362747,Léo Bonatini,a,6855,OpenPlay,2018,Head,9210,Leicester,Wolverhampton Wanderers,2,0,2018-08-18 17:00:00,Adama Traoré,Cross
+233099,79,ShotOnPost,0.9540000152587891,0.655,0.14017827808856964,Jonny,a,2280,OpenPlay,2018,LeftFoot,9210,Leicester,Wolverhampton Wanderers,2,0,2018-08-18 17:00:00,Raúl Jiménez,TakeOn
+233100,84,SavedShot,0.754000015258789,0.7030000305175781,0.009374790824949741,Rúben Neves,a,6853,OpenPlay,2018,RightFoot,9210,Leicester,Wolverhampton Wanderers,2,0,2018-08-18 17:00:00,,None

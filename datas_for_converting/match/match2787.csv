@@ -1,0 +1,25 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+137701,0,Goal,0.9009999847412109,0.500999984741211,0.10121922194957733,Ryan Babel,h,5176,OpenPlay,2016,Head,2787,Deportivo La Coruna,Sevilla,2,3,2016-11-19 16:00:00,Juanfran,Cross
+137705,33,SavedShot,0.909000015258789,0.5970000076293945,0.03581743314862251,Florin Andone,h,4068,OpenPlay,2016,Head,2787,Deportivo La Coruna,Sevilla,2,3,2016-11-19 16:00:00,Luisinho,Aerial
+137707,41,Goal,0.9269999694824219,0.3629999923706055,0.18943503499031067,Florin Andone,h,4068,OpenPlay,2016,LeftFoot,2787,Deportivo La Coruna,Sevilla,2,3,2016-11-19 16:00:00,Ryan Babel,TakeOn
+137712,60,MissedShots,0.8540000152587891,0.31,0.05592015013098717,Bruno Gama,h,5084,OpenPlay,2016,RightFoot,2787,Deportivo La Coruna,Sevilla,2,3,2016-11-19 16:00:00,Emre Colak,Pass
+137702,4,MissedShots,0.8530000305175781,0.7030000305175781,0.03998379036784172,Sergio Escudero,a,2064,OpenPlay,2016,LeftFoot,2787,Deportivo La Coruna,Sevilla,2,3,2016-11-19 16:00:00,Pablo Sarabia,Pass
+137703,26,BlockedShot,0.7809999847412109,0.6270000076293946,0.02485882304608822,Luciano Vietto,a,2274,OpenPlay,2016,LeftFoot,2787,Deportivo La Coruna,Sevilla,2,3,2016-11-19 16:00:00,,None
+137704,28,SavedShot,0.8619999694824219,0.46700000762939453,0.41291332244873047,Pablo Sarabia,a,2199,OpenPlay,2016,LeftFoot,2787,Deportivo La Coruna,Sevilla,2,3,2016-11-19 16:00:00,Ganso,Throughball
+137706,40,MissedShots,0.9169999694824219,0.49700000762939456,0.12492570281028748,Steven N&#039;Zonzi,a,2413,SetPiece,2016,Head,2787,Deportivo La Coruna,Sevilla,2,3,2016-11-19 16:00:00,Pablo Sarabia,Cross
+137708,43,Goal,0.885,0.6329999923706054,0.08387326449155807,Steven N&#039;Zonzi,a,2413,OpenPlay,2016,LeftFoot,2787,Deportivo La Coruna,Sevilla,2,3,2016-11-19 16:00:00,Sergio Escudero,Pass
+137709,47,MissedShots,0.8040000152587891,0.6809999847412109,0.025475263595581055,Sergio Escudero,a,2064,OpenPlay,2016,LeftFoot,2787,Deportivo La Coruna,Sevilla,2,3,2016-11-19 16:00:00,Vitolo,Pass
+137710,53,BlockedShot,0.749000015258789,0.39,0.013050268404185772,Sergio Escudero,a,2064,SetPiece,2016,RightFoot,2787,Deportivo La Coruna,Sevilla,2,3,2016-11-19 16:00:00,,None
+137711,59,MissedShots,0.7080000305175781,0.605999984741211,0.011072201654314995,Nico Pareja,a,2062,OpenPlay,2016,RightFoot,2787,Deportivo La Coruna,Sevilla,2,3,2016-11-19 16:00:00,,None
+137713,63,BlockedShot,0.7080000305175781,0.425,0.013336021453142166,Sergio Escudero,a,2064,FromCorner,2016,LeftFoot,2787,Deportivo La Coruna,Sevilla,2,3,2016-11-19 16:00:00,,None
+137714,63,BlockedShot,0.6890000152587891,0.4159999847412109,0.013494129292666912,Sergio Escudero,a,2064,FromCorner,2016,LeftFoot,2787,Deportivo La Coruna,Sevilla,2,3,2016-11-19 16:00:00,,Rebound
+137715,68,BlockedShot,0.7530000305175781,0.285,0.017979802563786507,Gabriel Mercado,a,5051,OpenPlay,2016,RightFoot,2787,Deportivo La Coruna,Sevilla,2,3,2016-11-19 16:00:00,Ganso,Pass
+137716,75,BlockedShot,0.9130000305175782,0.53,0.08112955838441849,Luciano Vietto,a,2274,FromCorner,2016,RightFoot,2787,Deportivo La Coruna,Sevilla,2,3,2016-11-19 16:00:00,Franco Vázquez,Cross
+137717,86,BlockedShot,0.855,0.36900001525878906,0.05443115904927254,Gabriel Mercado,a,5051,OpenPlay,2016,RightFoot,2787,Deportivo La Coruna,Sevilla,2,3,2016-11-19 16:00:00,Wissam Ben Yedder,Pass
+137718,86,BlockedShot,0.789000015258789,0.3770000076293945,0.0405716598033905,Luciano Vietto,a,2274,OpenPlay,2016,RightFoot,2787,Deportivo La Coruna,Sevilla,2,3,2016-11-19 16:00:00,Gabriel Mercado,LayOff
+137719,86,BlockedShot,0.875999984741211,0.34799999237060547,0.05796116590499878,Wissam Ben Yedder,a,3210,OpenPlay,2016,LeftFoot,2787,Deportivo La Coruna,Sevilla,2,3,2016-11-19 16:00:00,Mariano,Pass
+137720,86,Goal,0.915,0.5640000152587891,0.45011425018310547,Vitolo,a,2511,OpenPlay,2016,RightFoot,2787,Deportivo La Coruna,Sevilla,2,3,2016-11-19 16:00:00,,Rebound
+137721,88,SavedShot,0.91,0.5479999923706055,0.0524006225168705,Steven N&#039;Zonzi,a,2413,OpenPlay,2016,Head,2787,Deportivo La Coruna,Sevilla,2,3,2016-11-19 16:00:00,,None
+137722,91,SavedShot,0.884000015258789,0.46299999237060546,0.08189607411623001,Nico Pareja,a,2062,FromCorner,2016,LeftFoot,2787,Deportivo La Coruna,Sevilla,2,3,2016-11-19 16:00:00,,None
+137723,91,Goal,0.9680000305175781,0.5370000076293945,0.6612994074821472,Gabriel Mercado,a,5051,FromCorner,2016,RightFoot,2787,Deportivo La Coruna,Sevilla,2,3,2016-11-19 16:00:00,,Rebound
+137724,94,SavedShot,0.9440000152587891,0.6229999923706054,0.10830643028020859,Luciano Vietto,a,2274,OpenPlay,2016,RightFoot,2787,Deportivo La Coruna,Sevilla,2,3,2016-11-19 16:00:00,,End

@@ -1,0 +1,32 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+429923,7,BlockedShot,0.8690000152587891,0.555,0.09376304596662521,Wilfred Ndidi,h,5545,OpenPlay,2021,RightFoot,16409,Leicester,Manchester City,0,1,2021-09-11 14:00:00,James Maddison,Pass
+429924,10,MissedShots,0.9590000152587891,0.4179999923706055,0.03875558450818062,Jannik Vestergaard,h,111,FromCorner,2021,Head,16409,Leicester,Manchester City,0,1,2021-09-11 14:00:00,Marc Albrighton,Aerial
+429934,46,ShotOnPost,0.89,0.5840000152587891,0.035141315311193466,Harvey Barnes,h,6681,OpenPlay,2021,Head,16409,Leicester,Manchester City,0,1,2021-09-11 14:00:00,Jamie Vardy,Cross
+429945,75,SavedShot,0.8769999694824219,0.5729999923706055,0.4863051772117615,Ademola Lookman,h,5556,OpenPlay,2021,RightFoot,16409,Leicester,Manchester City,0,1,2021-09-11 14:00:00,Kelechi Iheanacho,Pass
+429947,82,MissedShots,0.9119999694824219,0.53,0.08871732652187347,Kelechi Iheanacho,h,620,OpenPlay,2021,Head,16409,Leicester,Manchester City,0,1,2021-09-11 14:00:00,Marc Albrighton,Cross
+429948,84,BlockedShot,0.865,0.6170000076293946,0.057417336851358414,Ademola Lookman,h,5556,OpenPlay,2021,LeftFoot,16409,Leicester,Manchester City,0,1,2021-09-11 14:00:00,,BlockedPass
+429920,5,SavedShot,0.9430000305175781,0.44299999237060544,0.3739932179450989,Gabriel Jesus,a,5543,OpenPlay,2021,Head,16409,Leicester,Manchester City,0,1,2021-09-11 14:00:00,Bernardo Silva,Chipped
+429921,5,BlockedShot,0.919000015258789,0.47299999237060547,0.11009354889392853,Bernardo Silva,a,3635,OpenPlay,2021,RightFoot,16409,Leicester,Manchester City,0,1,2021-09-11 14:00:00,,None
+429922,5,BlockedShot,0.894000015258789,0.47400001525878904,0.11576133221387863,Ilkay Gündogan,a,314,OpenPlay,2021,RightFoot,16409,Leicester,Manchester City,0,1,2021-09-11 14:00:00,,Rebound
+429925,13,BlockedShot,0.8619999694824219,0.5359999847412109,0.06868986040353775,Ilkay Gündogan,a,314,OpenPlay,2021,LeftFoot,16409,Leicester,Manchester City,0,1,2021-09-11 14:00:00,Bernardo Silva,Cross
+429926,18,SavedShot,0.8480000305175781,0.5990000152587891,0.0659160315990448,Bernardo Silva,a,3635,OpenPlay,2021,LeftFoot,16409,Leicester,Manchester City,0,1,2021-09-11 14:00:00,,BallRecovery
+429927,20,MissedShots,0.8630000305175781,0.5729999923706055,0.07702667266130447,Jack Grealish,a,675,SetPiece,2021,RightFoot,16409,Leicester,Manchester City,0,1,2021-09-11 14:00:00,Ilkay Gündogan,Pass
+429928,27,SavedShot,0.875,0.5409999847412109,0.08317490667104721,Ferrán Torres,a,6441,OpenPlay,2021,LeftFoot,16409,Leicester,Manchester City,0,1,2021-09-11 14:00:00,,None
+429929,41,BlockedShot,0.774000015258789,0.6659999847412109,0.018429165706038475,João Cancelo,a,2379,SetPiece,2021,RightFoot,16409,Leicester,Manchester City,0,1,2021-09-11 14:00:00,Aymeric Laporte,Pass
+429930,41,BlockedShot,0.9169999694824219,0.5220000076293946,0.11415305733680725,Ferrán Torres,a,6441,OpenPlay,2021,RightFoot,16409,Leicester,Manchester City,0,1,2021-09-11 14:00:00,Rúben Dias,HeadPass
+429931,41,BlockedShot,0.9030000305175782,0.32599998474121095,0.05119900777935982,Ilkay Gündogan,a,314,OpenPlay,2021,RightFoot,16409,Leicester,Manchester City,0,1,2021-09-11 14:00:00,,Rebound
+429932,42,SavedShot,0.7719999694824219,0.40299999237060546,0.027082471176981926,Ilkay Gündogan,a,314,OpenPlay,2021,LeftFoot,16409,Leicester,Manchester City,0,1,2021-09-11 14:00:00,Jack Grealish,Pass
+429933,44,SavedShot,0.9080000305175782,0.32599998474121095,0.037700191140174866,Gabriel Jesus,a,5543,OpenPlay,2021,RightFoot,16409,Leicester,Manchester City,0,1,2021-09-11 14:00:00,Jack Grealish,Cross
+429935,52,BlockedShot,0.8859999847412109,0.5070000076293946,0.015569490380585194,Kyle Walker,a,638,FromCorner,2021,Head,16409,Leicester,Manchester City,0,1,2021-09-11 14:00:00,Ilkay Gündogan,Aerial
+429936,54,MissedShots,0.8619999694824219,0.40900001525878904,0.12454564869403839,Ferrán Torres,a,6441,OpenPlay,2021,RightFoot,16409,Leicester,Manchester City,0,1,2021-09-11 14:00:00,Ilkay Gündogan,Throughball
+429937,55,MissedShots,0.9340000152587891,0.44799999237060545,0.061767857521772385,Ilkay Gündogan,a,314,OpenPlay,2021,Head,16409,Leicester,Manchester City,0,1,2021-09-11 14:00:00,João Cancelo,Aerial
+429938,57,MissedShots,0.7859999847412109,0.750999984741211,0.013457737863063812,Jack Grealish,a,675,OpenPlay,2021,RightFoot,16409,Leicester,Manchester City,0,1,2021-09-11 14:00:00,,None
+429939,61,BlockedShot,0.8590000152587891,0.5120000076293946,0.10458897054195404,Ferrán Torres,a,6441,OpenPlay,2021,LeftFoot,16409,Leicester,Manchester City,0,1,2021-09-11 14:00:00,Bernardo Silva,Pass
+429940,61,BlockedShot,0.8180000305175781,0.6930000305175781,0.02340095303952694,João Cancelo,a,2379,OpenPlay,2021,RightFoot,16409,Leicester,Manchester City,0,1,2021-09-11 14:00:00,Jack Grealish,Pass
+429941,61,Goal,0.9690000152587891,0.5690000152587891,0.5579059720039368,Bernardo Silva,a,3635,OpenPlay,2021,LeftFoot,16409,Leicester,Manchester City,0,1,2021-09-11 14:00:00,,Rebound
+429942,71,BlockedShot,0.8730000305175781,0.6270000076293946,0.07955072075128555,Ilkay Gündogan,a,314,OpenPlay,2021,RightFoot,16409,Leicester,Manchester City,0,1,2021-09-11 14:00:00,,None
+429943,71,SavedShot,0.8440000152587891,0.3139999961853027,0.05446777120232582,Kyle Walker,a,638,OpenPlay,2021,RightFoot,16409,Leicester,Manchester City,0,1,2021-09-11 14:00:00,Rúben Dias,BallRecovery
+429944,72,MissedShots,0.9109999847412109,0.57,0.0889868438243866,Aymeric Laporte,a,2498,FromCorner,2021,LeftFoot,16409,Leicester,Manchester City,0,1,2021-09-11 14:00:00,Rúben Dias,Pass
+429946,77,MissedShots,0.9590000152587891,0.585,0.12711143493652344,Raheem Sterling,a,618,OpenPlay,2021,RightFoot,16409,Leicester,Manchester City,0,1,2021-09-11 14:00:00,Jack Grealish,Chipped
+429949,90,MissedShots,0.9,0.35400001525878905,0.10124219954013824,Fernandinho,a,614,OpenPlay,2021,RightFoot,16409,Leicester,Manchester City,0,1,2021-09-11 14:00:00,Raheem Sterling,Pass
+429950,91,SavedShot,0.9030000305175782,0.6859999847412109,0.28640496730804443,Bernardo Silva,a,3635,OpenPlay,2021,RightFoot,16409,Leicester,Manchester City,0,1,2021-09-11 14:00:00,Ilkay Gündogan,Pass

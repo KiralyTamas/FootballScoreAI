@@ -1,0 +1,30 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+407437,6,BlockedShot,0.8859999847412109,0.6869999694824219,0.05517853423953056,Mason Mount,h,7768,OpenPlay,2020,RightFoot,14685,Chelsea,Manchester United,0,0,2021-02-28 16:30:00,Hakim Ziyech,Pass
+407440,14,SavedShot,0.7869999694824219,0.33099998474121095,0.02255094051361084,Hakim Ziyech,h,8992,OpenPlay,2020,LeftFoot,14685,Chelsea,Manchester United,0,0,2021-02-28 16:30:00,Callum Hudson-Odoi,Pass
+407441,21,MissedShots,0.86,0.33,0.05832311138510704,Callum Hudson-Odoi,h,6456,OpenPlay,2020,RightFoot,14685,Chelsea,Manchester United,0,0,2021-02-28 16:30:00,César Azpilicueta,Pass
+407442,31,MissedShots,0.725,0.46700000762939453,0.016087369993329048,Olivier Giroud,h,502,OpenPlay,2020,LeftFoot,14685,Chelsea,Manchester United,0,0,2021-02-28 16:30:00,,BallRecovery
+407443,35,MissedShots,0.95,0.47200000762939454,0.5464611649513245,Olivier Giroud,h,502,OpenPlay,2020,Head,14685,Chelsea,Manchester United,0,0,2021-02-28 16:30:00,Callum Hudson-Odoi,Cross
+407446,48,SavedShot,0.8680000305175781,0.5429999923706055,0.10592465847730637,Hakim Ziyech,h,8992,OpenPlay,2020,LeftFoot,14685,Chelsea,Manchester United,0,0,2021-02-28 16:30:00,Ben Chilwell,Pass
+407447,48,BlockedShot,0.8780000305175781,0.40599998474121096,0.07267902791500092,Reece James,h,8067,OpenPlay,2020,RightFoot,14685,Chelsea,Manchester United,0,0,2021-02-28 16:30:00,,Rebound
+407449,53,BlockedShot,0.7909999847412109,0.28100000381469725,0.018233761191368103,Hakim Ziyech,h,8992,OpenPlay,2020,LeftFoot,14685,Chelsea,Manchester United,0,0,2021-02-28 16:30:00,Reece James,TakeOn
+407450,58,BlockedShot,0.7580000305175781,0.61,0.020219024270772934,N&#039;Golo Kanté,h,751,OpenPlay,2020,RightFoot,14685,Chelsea,Manchester United,0,0,2021-02-28 16:30:00,Mateo Kovacic,TakeOn
+407454,62,BlockedShot,0.9469999694824218,0.355,0.09678921103477478,Mason Mount,h,7768,OpenPlay,2020,RightFoot,14685,Chelsea,Manchester United,0,0,2021-02-28 16:30:00,Hakim Ziyech,TakeOn
+407455,62,BlockedShot,0.7619999694824219,0.6270000076293946,0.021266261115670204,Ben Chilwell,h,782,OpenPlay,2020,LeftFoot,14685,Chelsea,Manchester United,0,0,2021-02-28 16:30:00,Hakim Ziyech,Pass
+407458,73,SavedShot,0.7319999694824219,0.4929999923706055,0.018064066767692566,Mateo Kovacic,h,2254,OpenPlay,2020,RightFoot,14685,Chelsea,Manchester United,0,0,2021-02-28 16:30:00,Hakim Ziyech,Pass
+407459,74,SavedShot,0.769000015258789,0.4540000152587891,0.028303707018494606,César Azpilicueta,h,681,OpenPlay,2020,LeftFoot,14685,Chelsea,Manchester United,0,0,2021-02-28 16:30:00,Hakim Ziyech,Pass
+407460,79,MissedShots,0.8419999694824218,0.48,0.016900191083550453,Andreas Christensen,h,200,SetPiece,2020,Head,14685,Chelsea,Manchester United,0,0,2021-02-28 16:30:00,Mason Mount,Cross
+407461,84,SavedShot,0.9009999847412109,0.754000015258789,0.03617040812969208,Timo Werner,h,65,OpenPlay,2020,LeftFoot,14685,Chelsea,Manchester United,0,0,2021-02-28 16:30:00,N&#039;Golo Kanté,Pass
+407462,84,MissedShots,0.795,0.2979999923706055,0.02508298121392727,Christian Pulisic,h,2662,OpenPlay,2020,RightFoot,14685,Chelsea,Manchester United,0,0,2021-02-28 16:30:00,Andreas Christensen,Pass
+407463,92,BlockedShot,0.725999984741211,0.4209999847412109,0.010778195224702358,Mason Mount,h,7768,SetPiece,2020,RightFoot,14685,Chelsea,Manchester United,0,0,2021-02-28 16:30:00,,None
+407464,92,SavedShot,0.7119999694824218,0.5420000076293945,0.011755791492760181,Mateo Kovacic,h,2254,SetPiece,2020,RightFoot,14685,Chelsea,Manchester United,0,0,2021-02-28 16:30:00,,Rebound
+407438,11,BlockedShot,0.749000015258789,0.5279999923706055,0.02516351267695427,Bruno Fernandes,a,1228,OpenPlay,2020,RightFoot,14685,Chelsea,Manchester United,0,0,2021-02-28 16:30:00,Scott McTominay,Pass
+407439,13,SavedShot,0.7330000305175781,0.5179999923706055,0.053305767476558685,Marcus Rashford,a,556,DirectFreekick,2020,RightFoot,14685,Chelsea,Manchester United,0,0,2021-02-28 16:30:00,,Standard
+407444,40,BlockedShot,0.7919999694824219,0.7290000152587891,0.022565031424164772,Bruno Fernandes,a,1228,OpenPlay,2020,RightFoot,14685,Chelsea,Manchester United,0,0,2021-02-28 16:30:00,Luke Shaw,Pass
+407445,45,BlockedShot,0.7659999847412109,0.6840000152587891,0.017454808577895164,Mason Greenwood,a,7490,OpenPlay,2020,RightFoot,14685,Chelsea,Manchester United,0,0,2021-02-28 16:30:00,Marcus Rashford,Pass
+407448,51,BlockedShot,0.785,0.48400001525878905,0.03718450292944908,Daniel James,a,5595,OpenPlay,2020,RightFoot,14685,Chelsea,Manchester United,0,0,2021-02-28 16:30:00,Marcus Rashford,Pass
+407451,59,MissedShots,0.8119999694824219,0.5690000152587891,0.05676652491092682,Mason Greenwood,a,7490,OpenPlay,2020,LeftFoot,14685,Chelsea,Manchester United,0,0,2021-02-28 16:30:00,Daniel James,Pass
+407452,60,SavedShot,0.86,0.3770000076293945,0.06342530250549316,Scott McTominay,a,5560,OpenPlay,2020,RightFoot,14685,Chelsea,Manchester United,0,0,2021-02-28 16:30:00,Aaron Wan-Bissaka,Pass
+407453,62,SavedShot,0.87,0.7080000305175781,0.03189979866147041,Marcus Rashford,a,556,SetPiece,2020,RightFoot,14685,Chelsea,Manchester United,0,0,2021-02-28 16:30:00,,None
+407456,64,BlockedShot,0.7480000305175781,0.3340000152587891,0.016048870980739594,Scott McTominay,a,5560,OpenPlay,2020,RightFoot,14685,Chelsea,Manchester United,0,0,2021-02-28 16:30:00,Luke Shaw,Pass
+407457,67,MissedShots,0.7730000305175782,0.6229999923706054,0.019558336585760117,Fred,a,6817,OpenPlay,2020,RightFoot,14685,Chelsea,Manchester United,0,0,2021-02-28 16:30:00,Luke Shaw,Pass
+407465,92,SavedShot,0.735,0.6229999923706054,0.016167284920811653,Fred,a,6817,OpenPlay,2020,LeftFoot,14685,Chelsea,Manchester United,0,0,2021-02-28 16:30:00,Bruno Fernandes,Pass

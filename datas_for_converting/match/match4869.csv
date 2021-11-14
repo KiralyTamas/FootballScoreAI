@@ -1,0 +1,35 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+49456,1,BlockedShot,0.8390000152587891,0.4370000076293945,0.08310747146606445,Borja Valero,h,1422,OpenPlay,2014,LeftFoot,4869,Fiorentina,Cagliari,1,3,2015-04-26 17:00:00,Mohamed Salah,Pass
+49462,18,MissedShots,0.749000015258789,0.25799999237060545,0.011122423224151134,Alessandro Diamanti,h,948,OpenPlay,2014,LeftFoot,4869,Fiorentina,Cagliari,1,3,2015-04-26 17:00:00,,None
+49463,22,MissedShots,0.98,0.40799999237060547,0.16068868339061737,Mohamed Salah,h,1250,OpenPlay,2014,Head,4869,Fiorentina,Cagliari,1,3,2015-04-26 17:00:00,Manuel Pasqual,Cross
+49468,30,BlockedShot,0.769000015258789,0.33099998474121095,0.012200145050883293,Alessandro Diamanti,h,948,OpenPlay,2014,LeftFoot,4869,Fiorentina,Cagliari,1,3,2015-04-26 17:00:00,Manuel Pasqual,Chipped
+49469,31,MissedShots,0.9169999694824219,0.45599998474121095,0.07958774268627167,Borja Valero,h,1422,OpenPlay,2014,Head,4869,Fiorentina,Cagliari,1,3,2015-04-26 17:00:00,Manuel Pasqual,Cross
+49470,32,MissedShots,0.9230000305175782,0.61,0.0466582216322422,Alberto Gilardino,h,1552,OpenPlay,2014,Head,4869,Fiorentina,Cagliari,1,3,2015-04-26 17:00:00,Manuel Pasqual,Cross
+49471,37,BlockedShot,0.8190000152587891,0.26600000381469724,0.02290983870625496,Alessandro Diamanti,h,948,OpenPlay,2014,LeftFoot,4869,Fiorentina,Cagliari,1,3,2015-04-26 17:00:00,Borja Valero,Pass
+49472,39,MissedShots,0.795,0.6140000152587891,0.030978310853242874,David Pizarro,h,3886,OpenPlay,2014,LeftFoot,4869,Fiorentina,Cagliari,1,3,2015-04-26 17:00:00,,None
+49473,45,MissedShots,0.9519999694824218,0.3390000152587891,0.06577537208795547,Alessandro Diamanti,h,948,OpenPlay,2014,RightFoot,4869,Fiorentina,Cagliari,1,3,2015-04-26 17:00:00,Nenad Tomovic,Pass
+49475,54,SavedShot,0.9209999847412109,0.5170000076293946,0.3508533537387848,Alberto Gilardino,h,1552,OpenPlay,2014,Head,4869,Fiorentina,Cagliari,1,3,2015-04-26 17:00:00,Juan Vargas,Cross
+49477,60,MissedShots,0.95,0.55,0.14354096353054047,José Basanta,h,3885,SetPiece,2014,Head,4869,Fiorentina,Cagliari,1,3,2015-04-26 17:00:00,Joaquín,Cross
+49480,69,MissedShots,0.975999984741211,0.6930000305175781,0.03473449870944023,Juan Vargas,h,2448,OpenPlay,2014,LeftFoot,4869,Fiorentina,Cagliari,1,3,2015-04-26 17:00:00,José Basanta,Chipped
+49482,72,BlockedShot,0.8530000305175781,0.615999984741211,0.043911635875701904,Juan Vargas,h,2448,SetPiece,2014,LeftFoot,4869,Fiorentina,Cagliari,1,3,2015-04-26 17:00:00,Stefan Savic,HeadPass
+49483,73,MissedShots,0.8009999847412109,0.799000015258789,0.012514330446720123,Juan Vargas,h,2448,OpenPlay,2014,LeftFoot,4869,Fiorentina,Cagliari,1,3,2015-04-26 17:00:00,Stefan Savic,TakeOn
+49484,73,Goal,0.924000015258789,0.5179999923706055,0.42642685770988464,Alberto Gilardino,h,1552,OpenPlay,2014,LeftFoot,4869,Fiorentina,Cagliari,1,3,2015-04-26 17:00:00,Juan Vargas,Rebound
+49485,75,MissedShots,0.7909999847412109,0.3290000152587891,0.022960102185606956,Mohamed Salah,h,1250,OpenPlay,2014,LeftFoot,4869,Fiorentina,Cagliari,1,3,2015-04-26 17:00:00,Stefan Savic,Pass
+49486,79,BlockedShot,0.8109999847412109,0.44099998474121094,0.04231657832860947,Mohamed Salah,h,1250,OpenPlay,2014,LeftFoot,4869,Fiorentina,Cagliari,1,3,2015-04-26 17:00:00,Alberto Gilardino,BallTouch
+49487,82,BlockedShot,0.740999984741211,0.695,0.040995389223098755,David Pizarro,h,3886,DirectFreekick,2014,RightFoot,4869,Fiorentina,Cagliari,1,3,2015-04-26 17:00:00,,Standard
+49488,83,MissedShots,0.965999984741211,0.54,0.5009000897407532,Mario Gomez,h,3887,FromCorner,2014,Head,4869,Fiorentina,Cagliari,1,3,2015-04-26 17:00:00,Joaquín,Cross
+49457,4,SavedShot,0.7130000305175781,0.41,0.013740910217165947,Albin Ekdal,a,411,OpenPlay,2014,RightFoot,4869,Fiorentina,Cagliari,1,3,2015-04-26 17:00:00,Diego Farias,Pass
+49458,4,MissedShots,0.8369999694824218,0.6140000152587891,0.05077352002263069,João Pedro,a,1592,OpenPlay,2014,RightFoot,4869,Fiorentina,Cagliari,1,3,2015-04-26 17:00:00,Duje Cop,Pass
+49459,6,Goal,0.9530000305175781,0.48200000762939454,0.631085216999054,Duje Cop,a,2340,OpenPlay,2014,RightFoot,4869,Fiorentina,Cagliari,1,3,2015-04-26 17:00:00,Diego Farias,Pass
+49460,16,BlockedShot,0.909000015258789,0.66,0.08676453679800034,Diego Farias,a,1605,OpenPlay,2014,RightFoot,4869,Fiorentina,Cagliari,1,3,2015-04-26 17:00:00,Duje Cop,TakeOn
+49461,17,MissedShots,0.789000015258789,0.67,0.01796649396419525,João Pedro,a,1592,FromCorner,2014,RightFoot,4869,Fiorentina,Cagliari,1,3,2015-04-26 17:00:00,,None
+49464,26,BlockedShot,0.8819999694824219,0.6619999694824219,0.1051967442035675,Paul-José M&#039;Poku,a,1912,OpenPlay,2014,LeftFoot,4869,Fiorentina,Cagliari,1,3,2015-04-26 17:00:00,Diego Farias,Pass
+49465,27,BlockedShot,0.8169999694824219,0.4909999847412109,0.03593136742711067,Diego Farias,a,1605,FromCorner,2014,RightFoot,4869,Fiorentina,Cagliari,1,3,2015-04-26 17:00:00,Paul-José M&#039;Poku,Cross
+49466,27,MissedShots,0.9280000305175782,0.45599998474121095,0.05290056765079498,Modibo Diakité,a,1807,FromCorner,2014,Head,4869,Fiorentina,Cagliari,1,3,2015-04-26 17:00:00,Danilo Avelar,Aerial
+49467,29,MissedShots,0.87,0.36700000762939455,0.3333399295806885,Duje Cop,a,2340,OpenPlay,2014,RightFoot,4869,Fiorentina,Cagliari,1,3,2015-04-26 17:00:00,Paul-José M&#039;Poku,Throughball
+49474,47,MissedShots,0.889000015258789,0.5220000076293946,0.024512534961104393,Luca Ceppitelli,a,1550,SetPiece,2014,Head,4869,Fiorentina,Cagliari,1,3,2015-04-26 17:00:00,Danilo Avelar,Aerial
+49476,58,Goal,0.905,0.355,0.1000731885433197,Duje Cop,a,2340,OpenPlay,2014,RightFoot,4869,Fiorentina,Cagliari,1,3,2015-04-26 17:00:00,Diego Farias,LayOff
+49478,63,SavedShot,0.8730000305175781,0.595999984741211,0.11030387133359909,Diego Farias,a,1605,OpenPlay,2014,RightFoot,4869,Fiorentina,Cagliari,1,3,2015-04-26 17:00:00,Paul-José M&#039;Poku,Pass
+49479,63,BlockedShot,0.919000015258789,0.4640000152587891,0.5527873635292053,Duje Cop,a,2340,OpenPlay,2014,LeftFoot,4869,Fiorentina,Cagliari,1,3,2015-04-26 17:00:00,,Rebound
+49481,70,SavedShot,0.7419999694824219,0.48,0.0218789204955101,João Pedro,a,1592,OpenPlay,2014,RightFoot,4869,Fiorentina,Cagliari,1,3,2015-04-26 17:00:00,Marco Sau,Pass
+49489,91,Goal,0.9230000305175782,0.664000015258789,0.08372911065816879,Diego Farias,a,1605,OpenPlay,2014,RightFoot,4869,Fiorentina,Cagliari,1,3,2015-04-26 17:00:00,Zeljko Brkic,GoodSkill

@@ -1,0 +1,22 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+295912,2,BlockedShot,0.8130000305175781,0.29399999618530276,0.02528589963912964,Gian-Luca Waldschmidt,h,294,OpenPlay,2018,LeftFoot,10601,Freiburg,Borussia Dortmund,0,4,2019-04-21 14:30:00,Pascal Stenzel,Pass
+295914,13,MissedShots,0.715,0.7380000305175781,0.01260844524949789,Christian Günter,h,4243,OpenPlay,2018,LeftFoot,10601,Freiburg,Borussia Dortmund,0,4,2019-04-21 14:30:00,Gian-Luca Waldschmidt,Pass
+295919,23,BlockedShot,0.8730000305175781,0.4,0.08042614161968231,Vincenzo Grifo,h,5266,OpenPlay,2018,RightFoot,10601,Freiburg,Borussia Dortmund,0,4,2019-04-21 14:30:00,Florian Niederlechner,Pass
+295920,25,SavedShot,0.7880000305175782,0.28,0.0199462678283453,Gian-Luca Waldschmidt,h,294,OpenPlay,2018,LeftFoot,10601,Freiburg,Borussia Dortmund,0,4,2019-04-21 14:30:00,Pascal Stenzel,Pass
+295921,27,MissedShots,0.9230000305175782,0.5359999847412109,0.13059304654598236,Florian Niederlechner,h,306,SetPiece,2018,Head,10601,Freiburg,Borussia Dortmund,0,4,2019-04-21 14:30:00,Vincenzo Grifo,Cross
+295922,45,BlockedShot,0.8469999694824218,0.6790000152587891,0.04107249528169632,Christian Günter,h,4243,OpenPlay,2018,LeftFoot,10601,Freiburg,Borussia Dortmund,0,4,2019-04-21 14:30:00,Nicolas Höfler,Pass
+295925,64,BlockedShot,0.9169999694824219,0.23,0.0222073495388031,Pascal Stenzel,h,326,OpenPlay,2018,RightFoot,10601,Freiburg,Borussia Dortmund,0,4,2019-04-21 14:30:00,,None
+295926,70,MissedShots,0.885,0.5790000152587891,0.09820084273815155,Gian-Luca Waldschmidt,h,294,OpenPlay,2018,LeftFoot,10601,Freiburg,Borussia Dortmund,0,4,2019-04-21 14:30:00,Christian Günter,Pass
+295927,72,MissedShots,0.7759999847412109,0.4,0.026449812576174736,Jérôme Gondorf,h,8,OpenPlay,2018,RightFoot,10601,Freiburg,Borussia Dortmund,0,4,2019-04-21 14:30:00,Pascal Stenzel,Pass
+295929,82,SavedShot,0.8980000305175782,0.4779999923706055,0.0664878711104393,Gian-Luca Waldschmidt,h,294,FromCorner,2018,LeftFoot,10601,Freiburg,Borussia Dortmund,0,4,2019-04-21 14:30:00,Vincenzo Grifo,Cross
+295930,83,BlockedShot,0.750999984741211,0.6780000305175782,0.012992579489946365,Dominique Heintz,h,129,OpenPlay,2018,LeftFoot,10601,Freiburg,Borussia Dortmund,0,4,2019-04-21 14:30:00,Vincenzo Grifo,Pass
+295913,11,Goal,0.9619999694824218,0.5120000076293946,0.7136724591255188,Jadon Sancho,a,6345,OpenPlay,2018,RightFoot,10601,Freiburg,Borussia Dortmund,0,4,2019-04-21 14:30:00,Marco Reus,Pass
+295915,18,SavedShot,0.725999984741211,0.7140000152587891,0.014123901724815369,Marco Reus,a,319,SetPiece,2018,RightFoot,10601,Freiburg,Borussia Dortmund,0,4,2019-04-21 14:30:00,Raphael Guerreiro,Pass
+295916,18,BlockedShot,0.789000015258789,0.635,0.047151461243629456,Jadon Sancho,a,6345,SetPiece,2018,RightFoot,10601,Freiburg,Borussia Dortmund,0,4,2019-04-21 14:30:00,Raphael Guerreiro,TakeOn
+295917,19,BlockedShot,0.7709999847412109,0.40599998474121096,0.03559916466474533,Axel Witsel,a,3059,OpenPlay,2018,RightFoot,10601,Freiburg,Borussia Dortmund,0,4,2019-04-21 14:30:00,Raphael Guerreiro,Pass
+295918,20,MissedShots,0.7269999694824218,0.5279999923706055,0.014956762082874775,Marius Wolf,a,2693,FromCorner,2018,RightFoot,10601,Freiburg,Borussia Dortmund,0,4,2019-04-21 14:30:00,,None
+295923,53,BlockedShot,0.735,0.3729999923706055,0.02324492484331131,Axel Witsel,a,3059,OpenPlay,2018,RightFoot,10601,Freiburg,Borussia Dortmund,0,4,2019-04-21 14:30:00,Abdou Diallo,Pass
+295924,53,Goal,0.92,0.35700000762939454,0.3578268587589264,Marco Reus,a,319,OpenPlay,2018,RightFoot,10601,Freiburg,Borussia Dortmund,0,4,2019-04-21 14:30:00,Raphael Guerreiro,Throughball
+295928,78,Goal,0.955999984741211,0.4779999923706055,0.8393385410308838,Mario Götze,a,422,OpenPlay,2018,RightFoot,10601,Freiburg,Borussia Dortmund,0,4,2019-04-21 14:30:00,Marco Reus,Pass
+295931,84,SavedShot,0.9159999847412109,0.3509999847412109,0.11292802542448044,Christian Pulisic,a,2662,OpenPlay,2018,RightFoot,10601,Freiburg,Borussia Dortmund,0,4,2019-04-21 14:30:00,Manuel Akanji,Pass
+295932,86,Goal,0.885,0.5,0.75777667760849,Paco Alcácer,a,2380,Penalty,2018,RightFoot,10601,Freiburg,Borussia Dortmund,0,4,2019-04-21 14:30:00,,Standard

@@ -1,0 +1,29 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+101601,19,BlockedShot,0.835,0.585,0.06796150654554367,Sergio Pellissier,h,1347,OpenPlay,2015,RightFoot,902,Chievo,Fiorentina,0,0,2016-04-30 22:45:00,Roberto Inglese,LayOff
+101603,24,MissedShots,0.830999984741211,0.5459999847412109,0.06535923480987549,Roberto Inglese,h,1340,OpenPlay,2015,LeftFoot,902,Chievo,Fiorentina,0,0,2016-04-30 22:45:00,Sergio Pellissier,BallTouch
+101606,37,SavedShot,0.7140000152587891,0.4829999923706055,0.01535859052091837,Perparim Hetemaj,h,1334,OpenPlay,2015,RightFoot,902,Chievo,Fiorentina,0,0,2016-04-30 22:45:00,Simone Pepe,Pass
+101610,49,SavedShot,0.885,0.6609999847412109,0.2534596025943756,Sergio Pellissier,h,1347,OpenPlay,2015,LeftFoot,902,Chievo,Fiorentina,0,0,2016-04-30 22:45:00,Fabrizio Cacciatore,Pass
+101613,57,ShotOnPost,0.7190000152587891,0.34,0.010582562536001205,Nicola Rigoni,h,1335,OpenPlay,2015,RightFoot,902,Chievo,Fiorentina,0,0,2016-04-30 22:45:00,,None
+101620,72,MissedShots,0.904000015258789,0.5990000152587891,0.1136508360505104,Antonio Floro Flores,h,1338,OpenPlay,2015,LeftFoot,902,Chievo,Fiorentina,0,0,2016-04-30 22:45:00,Sergio Pellissier,Pass
+101622,78,SavedShot,0.9109999847412109,0.500999984741211,0.48438024520874023,Antonio Floro Flores,h,1338,OpenPlay,2015,RightFoot,902,Chievo,Fiorentina,0,0,2016-04-30 22:45:00,Valter Birsa,Pass
+101623,88,SavedShot,0.9459999847412109,0.66,0.06291470676660538,Antonio Floro Flores,h,1338,OpenPlay,2015,LeftFoot,902,Chievo,Fiorentina,0,0,2016-04-30 22:45:00,Sergio Pellissier,Chipped
+101597,6,BlockedShot,0.805,0.41,0.0399719662964344,Nikola Kalinic,a,1425,OpenPlay,2015,LeftFoot,902,Chievo,Fiorentina,0,0,2016-04-30 22:45:00,Marcos Alonso,Chipped
+101598,11,BlockedShot,0.875999984741211,0.36900001525878906,0.045404672622680664,Cristian Tello,a,1421,OpenPlay,2015,RightFoot,902,Chievo,Fiorentina,0,0,2016-04-30 22:45:00,Nikola Kalinic,Chipped
+101599,12,SavedShot,0.6980000305175781,0.345,0.03213191404938698,Matías Fernández,a,1622,DirectFreekick,2015,RightFoot,902,Chievo,Fiorentina,0,0,2016-04-30 22:45:00,,Standard
+101600,18,MissedShots,0.8130000305175781,0.705999984741211,0.01719873771071434,Cristian Tello,a,1421,SetPiece,2015,RightFoot,902,Chievo,Fiorentina,0,0,2016-04-30 22:45:00,,None
+101602,20,MissedShots,0.8109999847412109,0.6909999847412109,0.029161084443330765,Mauro Zárate,a,939,OpenPlay,2015,RightFoot,902,Chievo,Fiorentina,0,0,2016-04-30 22:45:00,Borja Valero,TakeOn
+101604,24,MissedShots,0.7630000305175781,0.3559999847412109,0.019663777202367783,Matías Fernández,a,1622,OpenPlay,2015,RightFoot,902,Chievo,Fiorentina,0,0,2016-04-30 22:45:00,Marcos Alonso,Pass
+101605,33,SavedShot,0.825,0.44299999237060544,0.0708744153380394,Nikola Kalinic,a,1425,OpenPlay,2015,RightFoot,902,Chievo,Fiorentina,0,0,2016-04-30 22:45:00,Nenad Tomovic,Pass
+101607,38,BlockedShot,0.8119999694824219,0.3390000152587891,0.020607978105545044,Cristian Tello,a,1421,OpenPlay,2015,LeftFoot,902,Chievo,Fiorentina,0,0,2016-04-30 22:45:00,Borja Valero,Chipped
+101608,40,MissedShots,0.7669999694824219,0.40900001525878904,0.02370610274374485,Milan Badelj,a,1430,OpenPlay,2015,RightFoot,902,Chievo,Fiorentina,0,0,2016-04-30 22:45:00,Cristian Tello,TakeOn
+101609,46,MissedShots,0.805,0.3129999923706055,0.027361325919628143,Cristian Tello,a,1421,OpenPlay,2015,LeftFoot,902,Chievo,Fiorentina,0,0,2016-04-30 22:45:00,Matías Fernández,Pass
+101611,51,ShotOnPost,0.795,0.774000015258789,0.045577485114336014,Mauro Zárate,a,939,DirectFreekick,2015,RightFoot,902,Chievo,Fiorentina,0,0,2016-04-30 22:45:00,,Standard
+101612,51,MissedShots,0.9369999694824219,0.5770000076293945,0.12746721506118774,Marcos Alonso,a,1621,SetPiece,2015,RightFoot,902,Chievo,Fiorentina,0,0,2016-04-30 22:45:00,,Rebound
+101614,58,MissedShots,0.9409999847412109,0.32099998474121094,0.03521745651960373,Marcos Alonso,a,1621,FromCorner,2015,LeftFoot,902,Chievo,Fiorentina,0,0,2016-04-30 22:45:00,Mauro Zárate,Cross
+101615,60,BlockedShot,0.8719999694824219,0.43599998474121093,0.10424616187810898,Nikola Kalinic,a,1425,OpenPlay,2015,RightFoot,902,Chievo,Fiorentina,0,0,2016-04-30 22:45:00,Mauro Zárate,Pass
+101616,60,MissedShots,0.8980000305175782,0.46599998474121096,0.064126156270504,Marcos Alonso,a,1621,FromCorner,2015,Head,902,Chievo,Fiorentina,0,0,2016-04-30 22:45:00,Borja Valero,Cross
+101617,62,SavedShot,0.755,0.7119999694824218,0.016372721642255783,Mauro Zárate,a,939,OpenPlay,2015,RightFoot,902,Chievo,Fiorentina,0,0,2016-04-30 22:45:00,Milan Badelj,Pass
+101618,67,BlockedShot,0.8230000305175781,0.43900001525878907,0.0794253721833229,Mauro Zárate,a,939,OpenPlay,2015,RightFoot,902,Chievo,Fiorentina,0,0,2016-04-30 22:45:00,Federico Bernardeschi,TakeOn
+101619,68,MissedShots,0.735999984741211,0.46599998474121096,0.015434319153428078,Matías Fernández,a,1622,FromCorner,2015,RightFoot,902,Chievo,Fiorentina,0,0,2016-04-30 22:45:00,,None
+101621,77,SavedShot,0.730999984741211,0.725,0.00890269223600626,Marcos Alonso,a,1621,OpenPlay,2015,RightFoot,902,Chievo,Fiorentina,0,0,2016-04-30 22:45:00,Federico Bernardeschi,Chipped
+101624,91,SavedShot,0.875999984741211,0.29100000381469726,0.04065319895744324,Mauro Zárate,a,939,OpenPlay,2015,LeftFoot,902,Chievo,Fiorentina,0,0,2016-04-30 22:45:00,Josip Ilicic,Pass

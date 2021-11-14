@@ -1,0 +1,29 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+198572,4,Goal,0.955999984741211,0.649000015258789,0.32536017894744873,Denis Zakaria,h,6147,OpenPlay,2017,RightFoot,8478,Borussia M.Gladbach,Werder Bremen,2,2,2018-03-02 19:30:00,,None
+198573,8,SavedShot,0.730999984741211,0.5659999847412109,0.01971707120537758,Thorgan Hazard,h,213,SetPiece,2017,RightFoot,8478,Borussia M.Gladbach,Werder Bremen,2,2,2018-03-02 19:30:00,Jonas Hofmann,Pass
+198576,31,MissedShots,0.955999984741211,0.5890000152587891,0.4829229712486267,Thorgan Hazard,h,213,OpenPlay,2017,LeftFoot,8478,Borussia M.Gladbach,Werder Bremen,2,2,2018-03-02 19:30:00,Lars Stindl,Pass
+198579,37,MissedShots,0.7830000305175782,0.5259999847412109,0.016588950529694557,Raúl Bobadilla,h,273,OpenPlay,2017,LeftFoot,8478,Borussia M.Gladbach,Werder Bremen,2,2,2018-03-02 19:30:00,,Aerial
+198580,41,SavedShot,0.9480000305175781,0.46299999237060546,0.6050565838813782,Raúl Bobadilla,h,273,OpenPlay,2017,RightFoot,8478,Borussia M.Gladbach,Werder Bremen,2,2,2018-03-02 19:30:00,,None
+198583,46,MissedShots,0.9169999694824219,0.509000015258789,0.08898059278726578,Nico Elvedi,h,212,SetPiece,2017,Head,8478,Borussia M.Gladbach,Werder Bremen,2,2,2018-03-02 19:30:00,Michaël Cuisance,Chipped
+198585,49,BlockedShot,0.9740000152587891,0.42,0.13365963101387024,Jonas Hofmann,h,320,OpenPlay,2017,Head,8478,Borussia M.Gladbach,Werder Bremen,2,2,2018-03-02 19:30:00,Thorgan Hazard,Cross
+198586,51,MissedShots,0.9390000152587891,0.45799999237060546,0.06318987905979156,Matthias Ginter,h,315,FromCorner,2017,Head,8478,Borussia M.Gladbach,Werder Bremen,2,2,2018-03-02 19:30:00,Jonas Hofmann,Aerial
+198593,65,SavedShot,0.9069999694824219,0.26399999618530273,0.05496685206890106,Raúl Bobadilla,h,273,OpenPlay,2017,RightFoot,8478,Borussia M.Gladbach,Werder Bremen,2,2,2018-03-02 19:30:00,,None
+198594,68,SavedShot,0.889000015258789,0.6959999847412109,0.060013700276613235,Raúl Bobadilla,h,273,OpenPlay,2017,LeftFoot,8478,Borussia M.Gladbach,Werder Bremen,2,2,2018-03-02 19:30:00,Christoph Kramer,Pass
+198574,15,BlockedShot,0.7709999847412109,0.5509999847412109,0.021292081102728844,Marco Friedl,a,5340,FromCorner,2017,LeftFoot,8478,Borussia M.Gladbach,Werder Bremen,2,2,2018-03-02 19:30:00,,None
+198575,15,BlockedShot,0.889000015258789,0.5109999847412109,0.11017404496669769,Ludwig Augustinsson,a,6083,FromCorner,2017,LeftFoot,8478,Borussia M.Gladbach,Werder Bremen,2,2,2018-03-02 19:30:00,Marco Friedl,Rebound
+198577,32,OwnGoal,0.035,0.590999984741211,0,Niklas Moisander,a,1936,OpenPlay,2017,RightFoot,8478,Borussia M.Gladbach,Werder Bremen,2,2,2018-03-02 19:30:00,,None
+198578,37,MissedShots,0.879000015258789,0.5770000076293945,0.11303889006376266,Philipp Bargfrede,a,114,OpenPlay,2017,LeftFoot,8478,Borussia M.Gladbach,Werder Bremen,2,2,2018-03-02 19:30:00,,TakeOn
+198581,44,BlockedShot,0.87,0.6079999923706054,0.08319069445133209,Ludwig Augustinsson,a,6083,OpenPlay,2017,LeftFoot,8478,Borussia M.Gladbach,Werder Bremen,2,2,2018-03-02 19:30:00,Ishak Belfodil,Pass
+198582,45,MissedShots,0.7190000152587891,0.525,0.04884834215044975,Thomas Delaney,a,5230,DirectFreekick,2017,LeftFoot,8478,Borussia M.Gladbach,Werder Bremen,2,2,2018-03-02 19:30:00,,Standard
+198584,48,MissedShots,0.9290000152587891,0.44299999237060544,0.2872905433177948,Thomas Delaney,a,5230,OpenPlay,2017,RightFoot,8478,Borussia M.Gladbach,Werder Bremen,2,2,2018-03-02 19:30:00,Marco Friedl,Chipped
+198587,56,SavedShot,0.9369999694824219,0.41900001525878905,0.2757240831851959,Aron Jóhannsson,a,430,OpenPlay,2017,Head,8478,Borussia M.Gladbach,Werder Bremen,2,2,2018-03-02 19:30:00,Ludwig Augustinsson,Cross
+198588,56,MissedShots,0.9219999694824219,0.5609999847412109,0.11056338250637054,Maximilian Eggestein,a,125,OpenPlay,2017,Head,8478,Borussia M.Gladbach,Werder Bremen,2,2,2018-03-02 19:30:00,Ludwig Augustinsson,Cross
+198589,58,Goal,0.9019999694824219,0.4540000152587891,0.04107390344142914,Thomas Delaney,a,5230,FromCorner,2017,OtherBodyPart,8478,Borussia M.Gladbach,Werder Bremen,2,2,2018-03-02 19:30:00,Max Kruse,Cross
+198590,60,SavedShot,0.8590000152587891,0.3609999847412109,0.06339272111654282,Aron Jóhannsson,a,430,OpenPlay,2017,RightFoot,8478,Borussia M.Gladbach,Werder Bremen,2,2,2018-03-02 19:30:00,Max Kruse,Pass
+198591,60,BlockedShot,0.8019999694824219,0.500999984741211,0.04297154024243355,Thomas Delaney,a,5230,OpenPlay,2017,LeftFoot,8478,Borussia M.Gladbach,Werder Bremen,2,2,2018-03-02 19:30:00,,BallTouch
+198592,61,SavedShot,0.9159999847412109,0.35400001525878905,0.09354808181524277,Aron Jóhannsson,a,430,OpenPlay,2017,RightFoot,8478,Borussia M.Gladbach,Werder Bremen,2,2,2018-03-02 19:30:00,,TakeOn
+198595,70,MissedShots,0.904000015258789,0.5640000152587891,0.04837949201464653,Thomas Delaney,a,5230,OpenPlay,2017,Head,8478,Borussia M.Gladbach,Werder Bremen,2,2,2018-03-02 19:30:00,Philipp Bargfrede,Chipped
+198596,77,Goal,0.9230000305175782,0.4520000076293945,0.5208410024642944,Aron Jóhannsson,a,430,OpenPlay,2017,RightFoot,8478,Borussia M.Gladbach,Werder Bremen,2,2,2018-03-02 19:30:00,Jérôme Gondorf,Pass
+198597,80,MissedShots,0.8680000305175781,0.5690000152587891,0.052747052162885666,Ishak Belfodil,a,3834,OpenPlay,2017,RightFoot,8478,Borussia M.Gladbach,Werder Bremen,2,2,2018-03-02 19:30:00,Maximilian Eggestein,Cross
+198598,89,SavedShot,0.7440000152587891,0.6419999694824219,0.01623208075761795,Aron Jóhannsson,a,430,OpenPlay,2017,RightFoot,8478,Borussia M.Gladbach,Werder Bremen,2,2,2018-03-02 19:30:00,Ishak Belfodil,Pass
+198599,90,MissedShots,0.965999984741211,0.40099998474121096,0.07569810748100281,Ishak Belfodil,a,3834,OpenPlay,2017,Head,8478,Borussia M.Gladbach,Werder Bremen,2,2,2018-03-02 19:30:00,Thomas Delaney,Cross

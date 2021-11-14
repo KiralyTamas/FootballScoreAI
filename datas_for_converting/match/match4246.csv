@@ -1,0 +1,16 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+111834,6,BlockedShot,0.894000015258789,0.5820000076293945,0.02397846058011055,Henri Saivet,h,778,SetPiece,2016,Head,4246,Saint-Etienne,Rennes,1,1,2017-04-23 16:00:00,Jordan Veretout,BallTouch
+111839,17,BlockedShot,0.769000015258789,0.3890000152587891,0.07264632731676102,Henri Saivet,h,778,DirectFreekick,2016,RightFoot,4246,Saint-Etienne,Rennes,1,1,2017-04-23 16:00:00,,Standard
+111841,39,Goal,0.9430000305175781,0.5109999847412109,0.6163809895515442,Robert Beric,h,3691,OpenPlay,2016,RightFoot,4246,Saint-Etienne,Rennes,1,1,2017-04-23 16:00:00,Romain Hamouma,Pass
+111843,56,SavedShot,0.7380000305175781,0.37,0.02048841118812561,Benjamin Corgnet,h,3514,OpenPlay,2016,RightFoot,4246,Saint-Etienne,Rennes,1,1,2017-04-23 16:00:00,Jordan Veretout,Pass
+111845,72,BlockedShot,0.735999984741211,0.62,0.020946120843291283,Ole Selnaes,h,3519,OpenPlay,2016,LeftFoot,4246,Saint-Etienne,Rennes,1,1,2017-04-23 16:00:00,Jordan Veretout,Pass
+111846,92,MissedShots,0.8880000305175781,0.5690000152587891,0.013697555288672447,Lamine Ghezali,h,5685,FromCorner,2016,Head,4246,Saint-Etienne,Rennes,1,1,2017-04-23 16:00:00,Jordan Veretout,Aerial
+111847,94,BlockedShot,0.749000015258789,0.5279999923706055,0.01733805052936077,Digbo Maiga,h,5686,FromCorner,2016,RightFoot,4246,Saint-Etienne,Rennes,1,1,2017-04-23 16:00:00,,None
+111848,94,MissedShots,0.7469999694824219,0.34900001525878904,0.018582642078399658,Digbo Maiga,h,5686,FromCorner,2016,RightFoot,4246,Saint-Etienne,Rennes,1,1,2017-04-23 16:00:00,,Rebound
+111835,12,MissedShots,0.735999984741211,0.3029999923706055,0.01587875559926033,Pedro Mendes,a,3221,OpenPlay,2016,RightFoot,4246,Saint-Etienne,Rennes,1,1,2017-04-23 16:00:00,Benjamin André,Pass
+111836,13,ShotOnPost,0.8780000305175781,0.544000015258789,0.08479950577020645,Giovanni Sio,a,3228,OpenPlay,2016,LeftFoot,4246,Saint-Etienne,Rennes,1,1,2017-04-23 16:00:00,Yoann Gourcuff,None
+111837,13,BlockedShot,0.805,0.3060000038146973,0.026008857414126396,Sanjin Prcic,a,1932,FromCorner,2016,RightFoot,4246,Saint-Etienne,Rennes,1,1,2017-04-23 16:00:00,Yoann Gourcuff,Pass
+111838,13,BlockedShot,0.860999984741211,0.610999984741211,0.06192699819803238,Giovanni Sio,a,3228,FromCorner,2016,RightFoot,4246,Saint-Etienne,Rennes,1,1,2017-04-23 16:00:00,,Rebound
+111840,30,SavedShot,0.9030000305175782,0.49400001525878906,0.11846332252025604,Giovanni Sio,a,3228,OpenPlay,2016,Head,4246,Saint-Etienne,Rennes,1,1,2017-04-23 16:00:00,Ludovic Baal,Cross
+111842,44,Goal,0.935,0.5220000076293946,0.2152516096830368,Mexer,a,3626,FromCorner,2016,Head,4246,Saint-Etienne,Rennes,1,1,2017-04-23 16:00:00,Yoann Gourcuff,Aerial
+111844,67,BlockedShot,0.7809999847412109,0.3340000152587891,0.04752815142273903,Firmin Ndombe Mubele,a,5687,OpenPlay,2016,LeftFoot,4246,Saint-Etienne,Rennes,1,1,2017-04-23 16:00:00,Pedro Mendes,TakeOn

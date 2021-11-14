@@ -1,0 +1,32 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+303158,8,BlockedShot,0.8719999694824219,0.63,0.10980390757322311,Gervinho,h,1943,OpenPlay,2018,RightFoot,9943,Parma Calcio 1913,Fiorentina,1,0,2019-05-19 13:00:00,Fabio Ceravolo,Pass
+303162,16,SavedShot,0.8369999694824218,0.575999984741211,0.06895213574171066,Antonino Barillà,h,6990,OpenPlay,2018,RightFoot,9943,Parma Calcio 1913,Fiorentina,1,0,2019-05-19 13:00:00,Fabio Ceravolo,Pass
+303163,22,MissedShots,0.899000015258789,0.5029999923706054,0.09763322025537491,Riccardo Gagliolo,h,1896,SetPiece,2018,Head,9943,Parma Calcio 1913,Fiorentina,1,0,2019-05-19 13:00:00,Leo Stulac,Cross
+303164,23,MissedShots,0.745,0.47200000762939454,0.01873074658215046,Leo Stulac,h,6991,OpenPlay,2018,RightFoot,9943,Parma Calcio 1913,Fiorentina,1,0,2019-05-19 13:00:00,,None
+303166,34,MissedShots,0.5459999847412109,0.6079999923706054,0.007929867133498192,Juraj Kucka,h,1123,OpenPlay,2018,RightFoot,9943,Parma Calcio 1913,Fiorentina,1,0,2019-05-19 13:00:00,Leo Stulac,Pass
+303168,38,BlockedShot,0.7919999694824219,0.2929999923706055,0.018190672621130943,Juraj Kucka,h,1123,OpenPlay,2018,RightFoot,9943,Parma Calcio 1913,Fiorentina,1,0,2019-05-19 13:00:00,,None
+303169,39,ShotOnPost,0.9180000305175782,0.5179999923706055,0.09604457765817642,Riccardo Gagliolo,h,1896,FromCorner,2018,Head,9943,Parma Calcio 1913,Fiorentina,1,0,2019-05-19 13:00:00,Mattia Sprocati,Cross
+303170,39,SavedShot,0.7759999847412109,0.3529999923706055,0.014075469225645065,Mattia Sprocati,h,6993,FromCorner,2018,LeftFoot,9943,Parma Calcio 1913,Fiorentina,1,0,2019-05-19 13:00:00,,Aerial
+303173,47,MissedShots,0.7240000152587891,0.375,0.0423131100833416,Leo Stulac,h,6991,DirectFreekick,2018,RightFoot,9943,Parma Calcio 1913,Fiorentina,1,0,2019-05-19 13:00:00,,Standard
+303177,66,BlockedShot,0.9669999694824218,0.42200000762939455,0.04763711988925934,Juraj Kucka,h,1123,FromCorner,2018,Head,9943,Parma Calcio 1913,Fiorentina,1,0,2019-05-19 13:00:00,Mattia Sprocati,Aerial
+303178,66,MissedShots,0.8059999847412109,0.5770000076293945,0.04191930592060089,Leo Stulac,h,6991,FromCorner,2018,RightFoot,9943,Parma Calcio 1913,Fiorentina,1,0,2019-05-19 13:00:00,,Rebound
+303179,66,MissedShots,0.9459999847412109,0.32,0.05355093255639076,Juraj Kucka,h,1123,FromCorner,2018,RightFoot,9943,Parma Calcio 1913,Fiorentina,1,0,2019-05-19 13:00:00,Leo Stulac,Rebound
+303155,0,BlockedShot,0.9009999847412109,0.3770000076293945,0.09922084957361221,Marco Benassi,a,1183,OpenPlay,2018,LeftFoot,9943,Parma Calcio 1913,Fiorentina,1,0,2019-05-19 13:00:00,Kevin Mirallas,Pass
+303156,2,BlockedShot,0.8190000152587891,0.31799999237060544,0.030514739453792572,Marco Benassi,a,1183,OpenPlay,2018,RightFoot,9943,Parma Calcio 1913,Fiorentina,1,0,2019-05-19 13:00:00,,None
+303157,6,MissedShots,0.9359999847412109,0.68,0.07164232432842255,Federico Chiesa,a,1433,OpenPlay,2018,LeftFoot,9943,Parma Calcio 1913,Fiorentina,1,0,2019-05-19 13:00:00,Giovanni Simeone,Pass
+303159,12,MissedShots,0.7319999694824219,0.6730000305175782,0.01678771898150444,Jordan Veretout,a,677,OpenPlay,2018,RightFoot,9943,Parma Calcio 1913,Fiorentina,1,0,2019-05-19 13:00:00,Gerson,Pass
+303160,13,BlockedShot,0.850999984741211,0.44799999237060545,0.09206601977348328,Kevin Mirallas,a,595,OpenPlay,2018,LeftFoot,9943,Parma Calcio 1913,Fiorentina,1,0,2019-05-19 13:00:00,Marco Benassi,Pass
+303161,14,MissedShots,0.7709999847412109,0.5979999923706054,0.02632547728717327,Cristiano Biraghi,a,1164,OpenPlay,2018,RightFoot,9943,Parma Calcio 1913,Fiorentina,1,0,2019-05-19 13:00:00,Kevin Mirallas,BallTouch
+303165,25,MissedShots,0.7190000152587891,0.505,0.01614576391875744,Kevin Mirallas,a,595,OpenPlay,2018,RightFoot,9943,Parma Calcio 1913,Fiorentina,1,0,2019-05-19 13:00:00,Federico Chiesa,Pass
+303167,37,MissedShots,0.855,0.635,0.05502398684620857,Giovanni Simeone,a,1102,OpenPlay,2018,LeftFoot,9943,Parma Calcio 1913,Fiorentina,1,0,2019-05-19 13:00:00,,None
+303171,43,BlockedShot,0.8959999847412109,0.4909999847412109,0.05743378773331642,Vitor Hugo,a,6171,FromCorner,2018,Head,9943,Parma Calcio 1913,Fiorentina,1,0,2019-05-19 13:00:00,Jordan Veretout,Cross
+303172,44,MissedShots,0.8580000305175781,0.56,0.071705162525177,Giovanni Simeone,a,1102,OpenPlay,2018,RightFoot,9943,Parma Calcio 1913,Fiorentina,1,0,2019-05-19 13:00:00,,None
+303174,48,SavedShot,0.879000015258789,0.3129999923706055,0.05368877574801445,Marco Benassi,a,1183,OpenPlay,2018,LeftFoot,9943,Parma Calcio 1913,Fiorentina,1,0,2019-05-19 13:00:00,Federico Chiesa,Tackle
+303175,49,MissedShots,0.9159999847412109,0.534000015258789,0.08555705100297928,Nikola Milenkovic,a,6174,FromCorner,2018,Head,9943,Parma Calcio 1913,Fiorentina,1,0,2019-05-19 13:00:00,Jordan Veretout,Cross
+303176,55,BlockedShot,0.92,0.585,0.05240515619516373,Vitor Hugo,a,6171,FromCorner,2018,Head,9943,Parma Calcio 1913,Fiorentina,1,0,2019-05-19 13:00:00,Jordan Veretout,Cross
+303180,70,SavedShot,0.9330000305175781,0.33,0.07915189117193222,Federico Chiesa,a,1433,OpenPlay,2018,LeftFoot,9943,Parma Calcio 1913,Fiorentina,1,0,2019-05-19 13:00:00,Bryan Dabo,Pass
+303181,77,MissedShots,0.7909999847412109,0.7169999694824218,0.022884426638484,Luis Muriel,a,1229,OpenPlay,2018,RightFoot,9943,Parma Calcio 1913,Fiorentina,1,0,2019-05-19 13:00:00,Vitor Hugo,Pass
+303182,78,ShotOnPost,0.9630000305175781,0.435,0.40265077352523804,Nikola Milenkovic,a,6174,FromCorner,2018,RightFoot,9943,Parma Calcio 1913,Fiorentina,1,0,2019-05-19 13:00:00,Jordan Veretout,Cross
+303183,79,OwnGoal,0.08300000190734863,0.415,0,Gerson,a,1258,SetPiece,2018,Head,9943,Parma Calcio 1913,Fiorentina,1,0,2019-05-19 13:00:00,,Aerial
+303184,91,BlockedShot,0.769000015258789,0.3770000076293945,0.025069307535886765,Luis Muriel,a,1229,OpenPlay,2018,RightFoot,9943,Parma Calcio 1913,Fiorentina,1,0,2019-05-19 13:00:00,Jordan Veretout,Pass
+303185,92,MissedShots,0.8880000305175781,0.5270000076293946,0.02421601489186287,Nikola Milenkovic,a,6174,OpenPlay,2018,Head,9943,Parma Calcio 1913,Fiorentina,1,0,2019-05-19 13:00:00,Alban Lafont,Aerial

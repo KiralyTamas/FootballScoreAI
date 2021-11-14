@@ -1,0 +1,31 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+167697,4,ShotOnPost,0.9080000305175782,0.40400001525878904,0.06071658805012703,John Brooks,h,22,SetPiece,2017,LeftFoot,8356,Wolfsburg,Hertha Berlin,3,3,2017-11-05 17:00:00,Daniel Didavi,Cross
+167698,7,MissedShots,0.749000015258789,0.3189999961853027,0.01344960555434227,Maximilian Arnold,h,153,OpenPlay,2017,LeftFoot,8356,Wolfsburg,Hertha Berlin,3,3,2017-11-05 17:00:00,,None
+167700,19,ShotOnPost,0.885,0.5,0.75777667760849,Mario Gomez,h,3887,Penalty,2017,RightFoot,8356,Wolfsburg,Hertha Berlin,3,3,2017-11-05 17:00:00,,Standard
+167701,21,SavedShot,0.765,0.5940000152587891,0.022773217409849167,Yunus Malli,h,45,OpenPlay,2017,RightFoot,8356,Wolfsburg,Hertha Berlin,3,3,2017-11-05 17:00:00,Josuha Guilavogui,Pass
+167702,23,SavedShot,0.715,0.5370000076293945,0.012990889139473438,Mario Gomez,h,3887,OpenPlay,2017,RightFoot,8356,Wolfsburg,Hertha Berlin,3,3,2017-11-05 17:00:00,,Tackle
+167703,26,BlockedShot,0.8590000152587891,0.5529999923706055,0.06652002781629562,Yunus Malli,h,45,OpenPlay,2017,LeftFoot,8356,Wolfsburg,Hertha Berlin,3,3,2017-11-05 17:00:00,,OffsidePass
+167704,32,MissedShots,0.9169999694824219,0.4420000076293945,0.12346947193145752,Daniel Didavi,h,300,OpenPlay,2017,RightFoot,8356,Wolfsburg,Hertha Berlin,3,3,2017-11-05 17:00:00,Paul Verhaegh,Pass
+167705,39,MissedShots,0.9009999847412109,0.6990000152587891,0.05864054709672928,Yunus Malli,h,45,OpenPlay,2017,RightFoot,8356,Wolfsburg,Hertha Berlin,3,3,2017-11-05 17:00:00,Mario Gomez,TakeOn
+167706,40,Goal,0.9269999694824219,0.5590000152587891,0.293834388256073,Yunus Malli,h,45,OpenPlay,2017,Head,8356,Wolfsburg,Hertha Berlin,3,3,2017-11-05 17:00:00,Divock Origi,Chipped
+167707,42,MissedShots,0.8519999694824218,0.735999984741211,0.029578981921076775,Divock Origi,h,484,OpenPlay,2017,RightFoot,8356,Wolfsburg,Hertha Berlin,3,3,2017-11-05 17:00:00,Maximilian Arnold,Pass
+167708,43,Goal,0.8419999694824218,0.48900001525878906,0.35199984908103943,Mario Gomez,h,3887,OpenPlay,2017,RightFoot,8356,Wolfsburg,Hertha Berlin,3,3,2017-11-05 17:00:00,Daniel Didavi,Throughball
+167709,51,MissedShots,0.8,0.39099998474121095,0.10691890865564346,Daniel Didavi,h,300,DirectFreekick,2017,LeftFoot,8356,Wolfsburg,Hertha Berlin,3,3,2017-11-05 17:00:00,,Standard
+167712,55,MissedShots,0.7869999694824219,0.4759999847412109,0.030992776155471802,Josuha Guilavogui,h,150,OpenPlay,2017,RightFoot,8356,Wolfsburg,Hertha Berlin,3,3,2017-11-05 17:00:00,Yunus Malli,HeadPass
+167714,56,MissedShots,0.76,0.710999984741211,0.014381347224116325,Marcel Tisserand,h,3216,OpenPlay,2017,RightFoot,8356,Wolfsburg,Hertha Berlin,3,3,2017-11-05 17:00:00,Yunus Malli,Pass
+167715,59,SavedShot,0.8580000305175781,0.5270000076293946,0.10787978023290634,Daniel Didavi,h,300,OpenPlay,2017,RightFoot,8356,Wolfsburg,Hertha Berlin,3,3,2017-11-05 17:00:00,Mario Gomez,LayOff
+167716,59,Goal,0.9469999694824218,0.4620000076293945,0.15221774578094482,Divock Origi,h,484,FromCorner,2017,OtherBodyPart,8356,Wolfsburg,Hertha Berlin,3,3,2017-11-05 17:00:00,Robin Knoche,HeadPass
+167717,64,BlockedShot,0.870999984741211,0.33099998474121095,0.06052825599908829,Divock Origi,h,484,OpenPlay,2017,RightFoot,8356,Wolfsburg,Hertha Berlin,3,3,2017-11-05 17:00:00,Mario Gomez,Pass
+167718,71,SavedShot,0.7130000305175781,0.47,0.02463276870548725,Yunus Malli,h,45,OpenPlay,2017,RightFoot,8356,Wolfsburg,Hertha Berlin,3,3,2017-11-05 17:00:00,Josuha Guilavogui,Pass
+167721,75,SavedShot,0.7809999847412109,0.3509999847412109,0.029745517298579216,Daniel Didavi,h,300,OpenPlay,2017,LeftFoot,8356,Wolfsburg,Hertha Berlin,3,3,2017-11-05 17:00:00,Divock Origi,Pass
+167725,89,MissedShots,0.8909999847412109,0.4909999847412109,0.08169761300086975,Mario Gomez,h,3887,OpenPlay,2017,Head,8356,Wolfsburg,Hertha Berlin,3,3,2017-11-05 17:00:00,Jakub Blaszczykowski,Cross
+167696,0,Goal,0.89,0.38799999237060545,0.3498866558074951,Vedad Ibisevic,a,29,OpenPlay,2017,RightFoot,8356,Wolfsburg,Hertha Berlin,3,3,2017-11-05 17:00:00,Valentino Lazaro,Pass
+167699,16,MissedShots,0.735999984741211,0.395,0.0264920424669981,Salomon Kalou,a,26,OpenPlay,2017,RightFoot,8356,Wolfsburg,Hertha Berlin,3,3,2017-11-05 17:00:00,Valentino Lazaro,Pass
+167710,52,Goal,0.9159999847412109,0.5670000076293945,0.03879415616393089,Karim Rekik,a,3388,SetPiece,2017,Head,8356,Wolfsburg,Hertha Berlin,3,3,2017-11-05 17:00:00,Marvin Plattenhardt,Aerial
+167711,53,BlockedShot,0.775,0.754000015258789,0.03171088546514511,Valentino Lazaro,a,6352,OpenPlay,2017,RightFoot,8356,Wolfsburg,Hertha Berlin,3,3,2017-11-05 17:00:00,Mitchell Weiser,Pass
+167713,56,SavedShot,0.730999984741211,0.6020000076293945,0.015060655772686005,Arne Maier,a,5298,OpenPlay,2017,RightFoot,8356,Wolfsburg,Hertha Berlin,3,3,2017-11-05 17:00:00,Vedad Ibisevic,Pass
+167719,73,SavedShot,0.9619999694824218,0.3340000152587891,0.0601646862924099,Vedad Ibisevic,a,29,OpenPlay,2017,RightFoot,8356,Wolfsburg,Hertha Berlin,3,3,2017-11-05 17:00:00,Arne Maier,Pass
+167720,74,BlockedShot,0.8480000305175781,0.6669999694824219,0.0329631082713604,Alexander Esswein,a,270,FromCorner,2017,RightFoot,8356,Wolfsburg,Hertha Berlin,3,3,2017-11-05 17:00:00,Sebastian Langkamp,None
+167722,82,SavedShot,0.9080000305175782,0.44299999237060544,0.4329771101474762,Davie Selke,a,4280,OpenPlay,2017,RightFoot,8356,Wolfsburg,Hertha Berlin,3,3,2017-11-05 17:00:00,Per Skjelbred,Pass
+167723,82,Goal,0.9769999694824218,0.54,0.8054483532905579,Davie Selke,a,4280,OpenPlay,2017,LeftFoot,8356,Wolfsburg,Hertha Berlin,3,3,2017-11-05 17:00:00,,Rebound
+167724,88,MissedShots,0.885,0.5,0.04054618626832962,Davie Selke,a,4280,OpenPlay,2017,Head,8356,Wolfsburg,Hertha Berlin,3,3,2017-11-05 17:00:00,Mitchell Weiser,Aerial

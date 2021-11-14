@@ -1,0 +1,21 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+187419,3,SavedShot,0.919000015258789,0.4809999847412109,0.3477460443973541,Dwight Gayle,h,743,OpenPlay,2017,Head,7345,Newcastle United,Swansea,1,1,2018-01-13 15:00:00,Paul Dummett,Cross
+187420,8,MissedShots,0.775,0.625,0.025759829208254814,Mohamed Diamé,h,4471,OpenPlay,2017,LeftFoot,7345,Newcastle United,Swansea,1,1,2018-01-13 15:00:00,,BallRecovery
+187421,11,MissedShots,0.9269999694824219,0.5070000076293946,0.38166195154190063,Dwight Gayle,h,743,OpenPlay,2017,Head,7345,Newcastle United,Swansea,1,1,2018-01-13 15:00:00,Ayoze Pérez,Chipped
+187423,17,SavedShot,0.8830000305175781,0.255,0.03274044021964073,Ayoze Pérez,h,770,OpenPlay,2017,RightFoot,7345,Newcastle United,Swansea,1,1,2018-01-13 15:00:00,Dwight Gayle,Pass
+187424,21,MissedShots,0.9290000152587891,0.5870000076293945,0.13116449117660522,Paul Dummett,h,853,OpenPlay,2017,LeftFoot,7345,Newcastle United,Swansea,1,1,2018-01-13 15:00:00,Matt Ritchie,Pass
+187425,25,SavedShot,0.9159999847412109,0.549000015258789,0.3335295617580414,Ayoze Pérez,h,770,OpenPlay,2017,RightFoot,7345,Newcastle United,Swansea,1,1,2018-01-13 15:00:00,Matt Ritchie,Chipped
+187426,32,MissedShots,0.8280000305175781,0.5459999847412109,0.1887587606906891,Jonjo Shelvey,h,769,DirectFreekick,2017,RightFoot,7345,Newcastle United,Swansea,1,1,2018-01-13 15:00:00,,Standard
+187430,48,MissedShots,0.855999984741211,0.6519999694824219,0.05729138106107712,Dwight Gayle,h,743,OpenPlay,2017,LeftFoot,7345,Newcastle United,Swansea,1,1,2018-01-13 15:00:00,Ayoze Pérez,Pass
+187434,67,BlockedShot,0.8919999694824219,0.6790000152587891,0.10049229115247726,Ayoze Pérez,h,770,OpenPlay,2017,RightFoot,7345,Newcastle United,Swansea,1,1,2018-01-13 15:00:00,Jonjo Shelvey,Chipped
+187435,67,Goal,0.965,0.35700000762939454,0.10824665427207947,Joselu,h,866,OpenPlay,2017,RightFoot,7345,Newcastle United,Swansea,1,1,2018-01-13 15:00:00,,Rebound
+187436,71,MissedShots,0.9080000305175782,0.5059999847412109,0.11467678099870682,Christian Atsu,h,2344,OpenPlay,2017,Head,7345,Newcastle United,Swansea,1,1,2018-01-13 15:00:00,Matt Ritchie,Cross
+187437,75,MissedShots,0.735999984741211,0.4909999847412109,0.01611151359975338,Mohamed Diamé,h,4471,OpenPlay,2017,RightFoot,7345,Newcastle United,Swansea,1,1,2018-01-13 15:00:00,,None
+187422,14,MissedShots,0.8880000305175781,0.5420000076293945,0.09139592945575714,Oliver McBurnie,a,1736,OpenPlay,2017,RightFoot,7345,Newcastle United,Swansea,1,1,2018-01-13 15:00:00,Martin Olsson,Cross
+187427,34,BlockedShot,0.8119999694824219,0.37900001525878907,0.038052480667829514,Ki Sung-yueng,a,723,OpenPlay,2017,RightFoot,7345,Newcastle United,Swansea,1,1,2018-01-13 15:00:00,Nathan Dyer,Pass
+187428,35,BlockedShot,0.9330000305175781,0.4929999923706055,0.08574220538139343,Mike van der Hoorn,a,1702,FromCorner,2017,LeftFoot,7345,Newcastle United,Swansea,1,1,2018-01-13 15:00:00,Kyle Bartley,Foul
+187429,46,MissedShots,0.8980000305175782,0.34799999237060547,0.011062747798860073,Kyle Bartley,a,964,FromCorner,2017,Head,7345,Newcastle United,Swansea,1,1,2018-01-13 15:00:00,Ki Sung-yueng,Aerial
+187431,59,SavedShot,0.8780000305175781,0.515,0.044876668602228165,Jordan Ayew,a,672,OpenPlay,2017,Head,7345,Newcastle United,Swansea,1,1,2018-01-13 15:00:00,Mike van der Hoorn,Cross
+187432,59,Goal,0.9119999694824219,0.4570000076293945,0.29063016176223755,Jordan Ayew,a,672,OpenPlay,2017,Head,7345,Newcastle United,Swansea,1,1,2018-01-13 15:00:00,,Rebound
+187433,66,SavedShot,0.945,0.585,0.04706628993153572,Oliver McBurnie,a,1736,SetPiece,2017,Head,7345,Newcastle United,Swansea,1,1,2018-01-13 15:00:00,Jordan Ayew,Aerial
+187438,92,BlockedShot,0.8069999694824219,0.51,0.29998961091041565,Wilfried Bony,a,622,OpenPlay,2017,LeftFoot,7345,Newcastle United,Swansea,1,1,2018-01-13 15:00:00,,None

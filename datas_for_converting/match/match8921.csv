@@ -1,0 +1,24 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+213863,4,BlockedShot,0.7230000305175781,0.34,0.010710828006267548,Léo Dubois,h,3412,OpenPlay,2017,LeftFoot,8921,Nantes,Montpellier,0,2,2018-05-06 16:00:00,Adrien Thomasson,LayOff
+213864,13,MissedShots,0.915,0.695,0.053881097584962845,Prejuce Nakoulma,h,5715,OpenPlay,2017,LeftFoot,8921,Nantes,Montpellier,0,2,2018-05-06 16:00:00,Emiliano Sala,HeadPass
+213865,24,SavedShot,0.915,0.5820000076293945,0.08416041731834412,Kalifa Coulibaly,h,6232,OpenPlay,2017,Head,8921,Nantes,Montpellier,0,2,2018-05-06 16:00:00,Lucas Lima,Cross
+213867,27,SavedShot,0.835999984741211,0.4570000076293945,0.03459285944700241,Emiliano Sala,h,3406,OpenPlay,2017,RightFoot,8921,Nantes,Montpellier,0,2,2018-05-06 16:00:00,Léo Dubois,Cross
+213870,32,MissedShots,0.8519999694824218,0.705,0.03602547571063042,Kalifa Coulibaly,h,6232,OpenPlay,2017,RightFoot,8921,Nantes,Montpellier,0,2,2018-05-06 16:00:00,Lucas Lima,Pass
+213871,41,MissedShots,0.885,0.5,0.7600951194763184,Emiliano Sala,h,3406,Penalty,2017,RightFoot,8921,Nantes,Montpellier,0,2,2018-05-06 16:00:00,,Standard
+213872,42,MissedShots,0.8919999694824219,0.5720000076293945,0.014240854419767857,Emiliano Sala,h,3406,SetPiece,2017,Head,8921,Nantes,Montpellier,0,2,2018-05-06 16:00:00,Léo Dubois,Aerial
+213878,49,MissedShots,0.785,0.5690000152587891,0.023883679881691933,Lucas Lima,h,5713,FromCorner,2017,LeftFoot,8921,Nantes,Montpellier,0,2,2018-05-06 16:00:00,,None
+213881,76,BlockedShot,0.7380000305175781,0.45099998474121095,0.015619836747646332,Léo Dubois,h,3412,OpenPlay,2017,RightFoot,8921,Nantes,Montpellier,0,2,2018-05-06 16:00:00,Abdoulaye Touré,Pass
+213883,83,MissedShots,0.759000015258789,0.53,0.07493439316749573,Valentin Rongier,h,3673,DirectFreekick,2017,RightFoot,8921,Nantes,Montpellier,0,2,2018-05-06 16:00:00,,Standard
+213884,86,MissedShots,0.7780000305175782,0.3270000076293945,0.015548411756753922,Valentin Rongier,h,3673,OpenPlay,2017,RightFoot,8921,Nantes,Montpellier,0,2,2018-05-06 16:00:00,Kalifa Coulibaly,Pass
+213866,25,SavedShot,0.6769999694824219,0.46799999237060547,0.008554692380130291,Casimir Ninga,a,3344,OpenPlay,2017,RightFoot,8921,Nantes,Montpellier,0,2,2018-05-06 16:00:00,,None
+213868,30,MissedShots,0.8590000152587891,0.27299999237060546,0.03950738161802292,Keagan Dolly,a,5663,OpenPlay,2017,LeftFoot,8921,Nantes,Montpellier,0,2,2018-05-06 16:00:00,Ellyes Skhiri,TakeOn
+213869,30,MissedShots,0.860999984741211,0.4570000076293945,0.078207828104496,Casimir Ninga,a,3344,OpenPlay,2017,RightFoot,8921,Nantes,Montpellier,0,2,2018-05-06 16:00:00,Keagan Dolly,Rebound
+213873,44,BlockedShot,0.9159999847412109,0.3220000076293945,0.008580753579735756,Junior Sambia,a,6239,OpenPlay,2017,Head,8921,Nantes,Montpellier,0,2,2018-05-06 16:00:00,Keagan Dolly,Cross
+213874,44,SavedShot,0.7580000305175781,0.509000015258789,0.01852177456021309,Paul Lasne,a,3741,OpenPlay,2017,LeftFoot,8921,Nantes,Montpellier,0,2,2018-05-06 16:00:00,,Rebound
+213875,45,MissedShots,0.8,0.4809999847412109,0.05126946046948433,Casimir Ninga,a,3344,OpenPlay,2017,RightFoot,8921,Nantes,Montpellier,0,2,2018-05-06 16:00:00,Ellyes Skhiri,Pass
+213876,46,SavedShot,0.7530000305175781,0.35700000762939454,0.018977977335453033,Paul Lasne,a,3741,OpenPlay,2017,RightFoot,8921,Nantes,Montpellier,0,2,2018-05-06 16:00:00,Casimir Ninga,Pass
+213877,46,SavedShot,0.7869999694824219,0.64,0.028452031314373016,Keagan Dolly,a,5663,OpenPlay,2017,RightFoot,8921,Nantes,Montpellier,0,2,2018-05-06 16:00:00,Ambroise Oyongo,Pass
+213879,50,Goal,0.860999984741211,0.624000015258789,0.0700126364827156,Keagan Dolly,a,5663,OpenPlay,2017,LeftFoot,8921,Nantes,Montpellier,0,2,2018-05-06 16:00:00,Ellyes Skhiri,Pass
+213880,62,Goal,0.740999984741211,0.6229999923706054,0.025140007957816124,Isaac Mbenza,a,5662,OpenPlay,2017,RightFoot,8921,Nantes,Montpellier,0,2,2018-05-06 16:00:00,Nicolas Cozza,Pass
+213882,79,MissedShots,0.735999984741211,0.48200000762939454,0.05767865106463432,Junior Sambia,a,6239,DirectFreekick,2017,RightFoot,8921,Nantes,Montpellier,0,2,2018-05-06 16:00:00,,Standard
+213885,89,SavedShot,0.8159999847412109,0.3139999961853027,0.030045036226511,Isaac Mbenza,a,5662,OpenPlay,2017,RightFoot,8921,Nantes,Montpellier,0,2,2018-05-06 16:00:00,,None

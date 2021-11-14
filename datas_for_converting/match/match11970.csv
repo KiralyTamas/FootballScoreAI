@@ -1,0 +1,35 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+369214,5,MissedShots,0.9030000305175782,0.3320000076293945,0.058815859258174896,Che Adams,h,7700,OpenPlay,2019,RightFoot,11970,Southampton,Manchester City,1,0,2020-07-05 18:00:00,,None
+369215,7,BlockedShot,0.6990000152587891,0.575999984741211,0.03614966571331024,Nathan Redmond,h,790,DirectFreekick,2019,RightFoot,11970,Southampton,Manchester City,1,0,2020-07-05 18:00:00,,Standard
+369216,15,Goal,0.6309999847412109,0.425,0.009221605025231838,Che Adams,h,7700,OpenPlay,2019,RightFoot,11970,Southampton,Manchester City,1,0,2020-07-05 18:00:00,Stuart Armstrong,BallRecovery
+369223,32,MissedShots,0.774000015258789,0.5570000076293945,0.04243176430463791,Nathan Redmond,h,790,OpenPlay,2019,RightFoot,11970,Southampton,Manchester City,1,0,2020-07-05 18:00:00,,BallRecovery
+369224,34,SavedShot,0.874000015258789,0.7319999694824219,0.04317309334874153,Nathan Redmond,h,790,OpenPlay,2019,RightFoot,11970,Southampton,Manchester City,1,0,2020-07-05 18:00:00,Jack Stephens,Chipped
+369227,43,MissedShots,0.9080000305175782,0.475,0.33409741520881653,Danny Ings,h,986,OpenPlay,2019,LeftFoot,11970,Southampton,Manchester City,1,0,2020-07-05 18:00:00,Kyle Walker-Peters,Chipped
+369239,74,SavedShot,0.8169999694824219,0.485,0.0719737559556961,Stuart Armstrong,h,6893,OpenPlay,2019,RightFoot,11970,Southampton,Manchester City,1,0,2020-07-05 18:00:00,Danny Ings,BallTouch
+369240,75,SavedShot,0.8159999847412109,0.72,0.03290148824453354,Stuart Armstrong,h,6893,OpenPlay,2019,RightFoot,11970,Southampton,Manchester City,1,0,2020-07-05 18:00:00,Nathan Redmond,Pass
+369217,22,MissedShots,0.9390000152587891,0.285,0.04399656876921654,João Cancelo,a,2379,OpenPlay,2019,RightFoot,11970,Southampton,Manchester City,1,0,2020-07-05 18:00:00,Bernardo Silva,Chipped
+369218,22,MissedShots,0.9690000152587891,0.57,0.5273067951202393,Gabriel Jesus,a,5543,OpenPlay,2019,LeftFoot,11970,Southampton,Manchester City,1,0,2020-07-05 18:00:00,João Cancelo,Rebound
+369219,29,SavedShot,0.889000015258789,0.6759999847412109,0.059277258813381195,Raheem Sterling,a,618,OpenPlay,2019,LeftFoot,11970,Southampton,Manchester City,1,0,2020-07-05 18:00:00,Gabriel Jesus,Pass
+369220,29,ShotOnPost,0.779000015258789,0.5479999923706055,0.028346024453639984,Fernandinho,a,614,OpenPlay,2019,RightFoot,11970,Southampton,Manchester City,1,0,2020-07-05 18:00:00,,BallRecovery
+369221,29,SavedShot,0.9319999694824219,0.49700000762939456,0.0592898465692997,David Silva,a,617,OpenPlay,2019,Head,11970,Southampton,Manchester City,1,0,2020-07-05 18:00:00,Bernardo Silva,Aerial
+369222,29,MissedShots,0.8909999847412109,0.615,0.06492442637681961,Raheem Sterling,a,618,OpenPlay,2019,RightFoot,11970,Southampton,Manchester City,1,0,2020-07-05 18:00:00,,Rebound
+369225,36,SavedShot,0.980999984741211,0.3509999847412109,0.2647170424461365,Riyad Mahrez,a,750,OpenPlay,2019,LeftFoot,11970,Southampton,Manchester City,1,0,2020-07-05 18:00:00,João Cancelo,Pass
+369226,36,BlockedShot,0.8530000305175781,0.3609999847412109,0.05886771157383919,Riyad Mahrez,a,750,OpenPlay,2019,LeftFoot,11970,Southampton,Manchester City,1,0,2020-07-05 18:00:00,Bernardo Silva,Pass
+369228,47,MissedShots,0.9230000305175782,0.445,0.08277249336242676,Gabriel Jesus,a,5543,FromCorner,2019,Head,11970,Southampton,Manchester City,1,0,2020-07-05 18:00:00,Riyad Mahrez,Cross
+369229,49,BlockedShot,0.88,0.45,0.09759632498025894,Aymeric Laporte,a,2498,OpenPlay,2019,LeftFoot,11970,Southampton,Manchester City,1,0,2020-07-05 18:00:00,Fernandinho,Pass
+369230,49,SavedShot,0.9359999847412109,0.49900001525878906,0.4235836863517761,Gabriel Jesus,a,5543,OpenPlay,2019,Head,11970,Southampton,Manchester City,1,0,2020-07-05 18:00:00,,Aerial
+369231,50,BlockedShot,0.700999984741211,0.6020000076293945,0.017599673941731453,Oleksandr Zinchenko,a,2958,FromCorner,2019,LeftFoot,11970,Southampton,Manchester City,1,0,2020-07-05 18:00:00,Bernardo Silva,Pass
+369232,53,SavedShot,0.95,0.5529999923706055,0.7254676222801208,David Silva,a,617,OpenPlay,2019,LeftFoot,11970,Southampton,Manchester City,1,0,2020-07-05 18:00:00,Oleksandr Zinchenko,TakeOn
+369233,54,BlockedShot,0.914000015258789,0.585,0.0857006385922432,Gabriel Jesus,a,5543,OpenPlay,2019,RightFoot,11970,Southampton,Manchester City,1,0,2020-07-05 18:00:00,João Cancelo,Cross
+369234,55,BlockedShot,0.8530000305175781,0.5790000152587891,0.07026579231023788,Gabriel Jesus,a,5543,OpenPlay,2019,RightFoot,11970,Southampton,Manchester City,1,0,2020-07-05 18:00:00,David Silva,Pass
+369235,56,BlockedShot,0.815,0.52,0.0453617163002491,Bernardo Silva,a,3635,OpenPlay,2019,RightFoot,11970,Southampton,Manchester City,1,0,2020-07-05 18:00:00,David Silva,Pass
+369236,64,BlockedShot,0.8969999694824219,0.625,0.06242388114333153,Bernardo Silva,a,3635,OpenPlay,2019,LeftFoot,11970,Southampton,Manchester City,1,0,2020-07-05 18:00:00,,None
+369237,65,SavedShot,0.9230000305175782,0.4759999847412109,0.3317849934101105,Gabriel Jesus,a,5543,FromCorner,2019,Head,11970,Southampton,Manchester City,1,0,2020-07-05 18:00:00,Oleksandr Zinchenko,Cross
+369238,73,MissedShots,0.870999984741211,0.6020000076293945,0.07985734194517136,Kevin De Bruyne,a,447,OpenPlay,2019,RightFoot,11970,Southampton,Manchester City,1,0,2020-07-05 18:00:00,David Silva,Pass
+369241,76,MissedShots,0.8019999694824219,0.3370000076293945,0.01223151944577694,Kevin De Bruyne,a,447,OpenPlay,2019,RightFoot,11970,Southampton,Manchester City,1,0,2020-07-05 18:00:00,Bernardo Silva,Chipped
+369242,78,BlockedShot,0.740999984741211,0.5640000152587891,0.01850299723446369,Fernandinho,a,614,OpenPlay,2019,RightFoot,11970,Southampton,Manchester City,1,0,2020-07-05 18:00:00,,None
+369243,80,BlockedShot,0.8859999847412109,0.5370000076293945,0.052248138934373856,David Silva,a,617,OpenPlay,2019,LeftFoot,11970,Southampton,Manchester City,1,0,2020-07-05 18:00:00,,Aerial
+369244,83,MissedShots,0.7040000152587891,0.5690000152587891,0.012864643707871437,Aymeric Laporte,a,2498,OpenPlay,2019,LeftFoot,11970,Southampton,Manchester City,1,0,2020-07-05 18:00:00,,None
+369245,91,BlockedShot,0.9259999847412109,0.6780000305175782,0.05138213559985161,Bernardo Silva,a,3635,OpenPlay,2019,LeftFoot,11970,Southampton,Manchester City,1,0,2020-07-05 18:00:00,,None
+369246,92,MissedShots,0.9280000305175782,0.66,0.05877227708697319,Bernardo Silva,a,3635,OpenPlay,2019,LeftFoot,11970,Southampton,Manchester City,1,0,2020-07-05 18:00:00,Kevin De Bruyne,Chipped
+369247,96,BlockedShot,0.7809999847412109,0.5790000152587891,0.08765389770269394,Kevin De Bruyne,a,447,DirectFreekick,2019,RightFoot,11970,Southampton,Manchester City,1,0,2020-07-05 18:00:00,,Standard

@@ -1,0 +1,20 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+117275,33,Goal,0.865,0.48700000762939455,0.1102769523859024,Romelu Lukaku,h,594,OpenPlay,2016,LeftFoot,3348,Everton,Manchester City,4,0,2017-01-15 17:30:00,Kevin Mirallas,Pass
+117281,46,Goal,0.8630000305175781,0.355,0.08535270392894745,Kevin Mirallas,h,595,OpenPlay,2016,RightFoot,3348,Everton,Manchester City,4,0,2017-01-15 17:30:00,Ross Barkley,Pass
+117286,78,Goal,0.92,0.3579999923706055,0.11491608619689941,Tom Davies,h,1042,OpenPlay,2016,RightFoot,3348,Everton,Manchester City,4,0,2017-01-15 17:30:00,Ross Barkley,Pass
+117288,84,MissedShots,0.955999984741211,0.664000015258789,0.10039778798818588,Romelu Lukaku,h,594,OpenPlay,2016,LeftFoot,3348,Everton,Manchester City,4,0,2017-01-15 17:30:00,Ross Barkley,Pass
+117289,87,BlockedShot,0.81,0.5220000076293946,0.05301958695054054,Romelu Lukaku,h,594,OpenPlay,2016,RightFoot,3348,Everton,Manchester City,4,0,2017-01-15 17:30:00,Ross Barkley,TakeOn
+117291,93,Goal,0.955999984741211,0.34700000762939454,0.10856463015079498,Ademola Lookman,h,5556,OpenPlay,2016,RightFoot,3348,Everton,Manchester City,4,0,2017-01-15 17:30:00,Seamus Coleman,Pass
+117273,24,SavedShot,0.915,0.3840000152587891,0.12437641620635986,Raheem Sterling,a,618,OpenPlay,2016,RightFoot,3348,Everton,Manchester City,4,0,2017-01-15 17:30:00,Kevin De Bruyne,Throughball
+117274,28,BlockedShot,0.7519999694824219,0.40599998474121096,0.059986412525177,Kevin De Bruyne,a,447,DirectFreekick,2016,RightFoot,3348,Everton,Manchester City,4,0,2017-01-15 17:30:00,,Standard
+117276,37,MissedShots,0.7419999694824219,0.5629999923706055,0.015724724158644676,Raheem Sterling,a,618,FromCorner,2016,LeftFoot,3348,Everton,Manchester City,4,0,2017-01-15 17:30:00,,None
+117280,45,MissedShots,0.7190000152587891,0.519000015258789,0.01657259836792946,Kevin De Bruyne,a,447,OpenPlay,2016,RightFoot,3348,Everton,Manchester City,4,0,2017-01-15 17:30:00,Raheem Sterling,Pass
+117277,46,BlockedShot,0.93,0.3139999961853027,0.009226550348103046,Bacary Sagna,a,625,OpenPlay,2016,Head,3348,Everton,Manchester City,4,0,2017-01-15 17:30:00,Gaël Clichy,Cross
+117278,47,BlockedShot,0.8169999694824219,0.5509999847412109,0.06323835253715515,Yaya Touré,a,878,OpenPlay,2016,LeftFoot,3348,Everton,Manchester City,4,0,2017-01-15 17:30:00,,TakeOn
+117279,47,BlockedShot,0.8059999847412109,0.7090000152587891,0.020608043298125267,Raheem Sterling,a,618,FromCorner,2016,RightFoot,3348,Everton,Manchester City,4,0,2017-01-15 17:30:00,Kevin De Bruyne,Pass
+117282,53,SavedShot,0.9169999694824219,0.41700000762939454,0.026923879981040955,John Stones,a,586,SetPiece,2016,Head,3348,Everton,Manchester City,4,0,2017-01-15 17:30:00,David Silva,Aerial
+117283,68,MissedShots,0.9159999847412109,0.40599998474121096,0.03864290937781334,Nicolás Otamendi,a,611,FromCorner,2016,Head,3348,Everton,Manchester City,4,0,2017-01-15 17:30:00,Kevin De Bruyne,Cross
+117284,71,MissedShots,0.8109999847412109,0.2620000076293945,0.018481872975826263,Sergio Agüero,a,619,OpenPlay,2016,RightFoot,3348,Everton,Manchester City,4,0,2017-01-15 17:30:00,David Silva,Pass
+117285,77,SavedShot,0.7630000305175781,0.7269999694824218,0.04373255744576454,Yaya Touré,a,878,DirectFreekick,2016,RightFoot,3348,Everton,Manchester City,4,0,2017-01-15 17:30:00,,Standard
+117287,79,SavedShot,0.9259999847412109,0.3089999961853027,0.0841040313243866,Sergio Agüero,a,619,OpenPlay,2016,RightFoot,3348,Everton,Manchester City,4,0,2017-01-15 17:30:00,,TakeOn
+117290,90,BlockedShot,0.795,0.5590000152587891,0.04766742140054703,Sergio Agüero,a,619,OpenPlay,2016,RightFoot,3348,Everton,Manchester City,4,0,2017-01-15 17:30:00,David Silva,Pass

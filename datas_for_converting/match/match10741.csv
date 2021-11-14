@@ -1,0 +1,25 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+260900,3,Goal,0.885,0.5,0.7600951194763184,Wahbi Khazri,h,734,Penalty,2018,RightFoot,10741,Saint-Etienne,Rennes,1,1,2018-10-21 15:00:00,,Standard
+260901,10,BlockedShot,0.7069999694824218,0.710999984741211,0.009578239172697067,Wahbi Khazri,h,734,OpenPlay,2018,RightFoot,10741,Saint-Etienne,Rennes,1,1,2018-10-21 15:00:00,,TakeOn
+260909,32,MissedShots,0.885,0.47200000762939454,0.05441834032535553,Robert Beric,h,3691,OpenPlay,2018,OtherBodyPart,10741,Saint-Etienne,Rennes,1,1,2018-10-21 15:00:00,Yannis Salibur,Aerial
+260911,41,SavedShot,0.905,0.5220000076293946,0.461477667093277,Wahbi Khazri,h,734,OpenPlay,2018,RightFoot,10741,Saint-Etienne,Rennes,1,1,2018-10-21 15:00:00,Assane Diousse,TakeOn
+260912,43,MissedShots,0.8630000305175781,0.45799999237060546,0.06669605523347855,Wahbi Khazri,h,734,OpenPlay,2018,RightFoot,10741,Saint-Etienne,Rennes,1,1,2018-10-21 15:00:00,Mathieu Debuchy,Cross
+260913,49,MissedShots,0.93,0.595999984741211,0.24029110372066498,Rémy Cabella,h,3390,OpenPlay,2018,Head,10741,Saint-Etienne,Rennes,1,1,2018-10-21 15:00:00,Yannis Salibur,Cross
+260918,68,MissedShots,0.8119999694824219,0.629000015258789,0.11267046630382538,Lois Diony,h,5623,OpenPlay,2018,RightFoot,10741,Saint-Etienne,Rennes,1,1,2018-10-21 15:00:00,Assane Diousse,Throughball
+260921,84,BlockedShot,0.789000015258789,0.40400001525878904,0.034927286207675934,Yannis Salibur,h,3473,OpenPlay,2018,RightFoot,10741,Saint-Etienne,Rennes,1,1,2018-10-21 15:00:00,Wahbi Khazri,Pass
+260923,93,MissedShots,0.9630000305175781,0.38,0.02712993696331978,Lois Diony,h,5623,FromCorner,2018,Head,10741,Saint-Etienne,Rennes,1,1,2018-10-21 15:00:00,Wahbi Khazri,Cross
+260902,12,MissedShots,0.799000015258789,0.39799999237060546,0.033373262733221054,Ismaila Sarr,a,5675,OpenPlay,2018,RightFoot,10741,Saint-Etienne,Rennes,1,1,2018-10-21 15:00:00,Benjamin André,Pass
+260903,18,BlockedShot,0.7269999694824218,0.5479999923706055,0.018077963963150978,Benjamin André,a,3223,OpenPlay,2018,LeftFoot,10741,Saint-Etienne,Rennes,1,1,2018-10-21 15:00:00,Hamari Traore,Pass
+260904,22,BlockedShot,0.75,0.34900001525878904,0.05305091291666031,Hatem Ben Arfa,a,3638,DirectFreekick,2018,LeftFoot,10741,Saint-Etienne,Rennes,1,1,2018-10-21 15:00:00,,Standard
+260905,27,MissedShots,0.7609999847412109,0.649000015258789,0.020561208948493004,Hatem Ben Arfa,a,3638,OpenPlay,2018,LeftFoot,10741,Saint-Etienne,Rennes,1,1,2018-10-21 15:00:00,Clément Grenier,Pass
+260906,29,MissedShots,0.9030000305175782,0.5770000076293945,0.015146560966968536,Ramy Bensebaini,a,3349,FromCorner,2018,Head,10741,Saint-Etienne,Rennes,1,1,2018-10-21 15:00:00,Benjamin Bourigeaud,Aerial
+260907,30,SavedShot,0.855999984741211,0.5279999923706055,0.392208069562912,Hatem Ben Arfa,a,3638,OpenPlay,2018,RightFoot,10741,Saint-Etienne,Rennes,1,1,2018-10-21 15:00:00,Clément Grenier,TakeOn
+260908,30,MissedShots,0.8619999694824219,0.345,0.04732232168316841,Benjamin Bourigeaud,a,4773,OpenPlay,2018,RightFoot,10741,Saint-Etienne,Rennes,1,1,2018-10-21 15:00:00,,Rebound
+260910,33,Goal,0.9309999847412109,0.31,0.04903578758239746,Ismaila Sarr,a,5675,OpenPlay,2018,RightFoot,10741,Saint-Etienne,Rennes,1,1,2018-10-21 15:00:00,,None
+260914,53,SavedShot,0.750999984741211,0.534000015258789,0.021347634494304657,Ismaila Sarr,a,5675,OpenPlay,2018,RightFoot,10741,Saint-Etienne,Rennes,1,1,2018-10-21 15:00:00,Ramy Bensebaini,Pass
+260915,54,MissedShots,0.950999984741211,0.5029999923706054,0.4676302671432495,Ramy Bensebaini,a,3349,FromCorner,2018,Head,10741,Saint-Etienne,Rennes,1,1,2018-10-21 15:00:00,Mehdi Zeffane,Cross
+260916,56,SavedShot,0.935,0.695,0.060034602880477905,Hatem Ben Arfa,a,3638,OpenPlay,2018,LeftFoot,10741,Saint-Etienne,Rennes,1,1,2018-10-21 15:00:00,Benjamin Bourigeaud,BallRecovery
+260917,65,ShotOnPost,0.885,0.5,0.7600951194763184,Hatem Ben Arfa,a,3638,Penalty,2018,LeftFoot,10741,Saint-Etienne,Rennes,1,1,2018-10-21 15:00:00,,Standard
+260919,75,MissedShots,0.765,0.8440000152587891,0.030060479417443275,Clément Grenier,a,3568,DirectFreekick,2018,RightFoot,10741,Saint-Etienne,Rennes,1,1,2018-10-21 15:00:00,,Standard
+260920,77,SavedShot,0.7269999694824218,0.5179999923706055,0.018325544893741608,M&#039;Baye Niang,a,1126,OpenPlay,2018,LeftFoot,10741,Saint-Etienne,Rennes,1,1,2018-10-21 15:00:00,Clément Grenier,Pass
+260922,89,MissedShots,0.730999984741211,0.38599998474121094,0.04824377968907356,Benjamin Bourigeaud,a,4773,DirectFreekick,2018,RightFoot,10741,Saint-Etienne,Rennes,1,1,2018-10-21 15:00:00,,Standard

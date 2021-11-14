@@ -1,0 +1,31 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+439484,1,MissedShots,0.740999984741211,0.46599998474121096,0.02047227881848812,Robin Hack,h,6351,OpenPlay,2021,RightFoot,17597,Arminia Bielefeld,Mainz 05,1,2,2021-10-30 13:30:00,Alessandro Schöpf,Pass
+439485,2,SavedShot,0.8669999694824219,0.4859999847412109,0.13862131536006927,Bryan Lasme,h,9727,OpenPlay,2021,RightFoot,17597,Arminia Bielefeld,Mainz 05,1,2,2021-10-30 13:30:00,,TakeOn
+439486,5,BlockedShot,0.8269999694824218,0.24600000381469728,0.02452675811946392,Edimilson Fernandes,h,1673,OpenPlay,2021,LeftFoot,17597,Arminia Bielefeld,Mainz 05,1,2,2021-10-30 13:30:00,Alessandro Schöpf,Pass
+439487,5,SavedShot,0.7580000305175781,0.42900001525878906,0.023425471037626266,Manuel Prietl,h,8789,OpenPlay,2021,RightFoot,17597,Arminia Bielefeld,Mainz 05,1,2,2021-10-30 13:30:00,Edimilson Fernandes,Pass
+439490,13,BlockedShot,0.7930000305175782,0.3870000076293945,0.0341913104057312,Alessandro Schöpf,h,2638,OpenPlay,2021,RightFoot,17597,Arminia Bielefeld,Mainz 05,1,2,2021-10-30 13:30:00,Robin Hack,Pass
+439492,23,MissedShots,0.75,0.4229999923706055,0.018325788900256157,Andrés Andrade,h,9995,OpenPlay,2021,LeftFoot,17597,Arminia Bielefeld,Mainz 05,1,2,2021-10-30 13:30:00,,None
+439496,27,BlockedShot,0.750999984741211,0.36900001525878906,0.022822119295597076,Robin Hack,h,6351,FromCorner,2021,RightFoot,17597,Arminia Bielefeld,Mainz 05,1,2,2021-10-30 13:30:00,Edimilson Fernandes,Pass
+439498,33,MissedShots,0.865,0.555,0.009990866295993328,Fabian Klos,h,8792,SetPiece,2021,Head,17597,Arminia Bielefeld,Mainz 05,1,2,2021-10-30 13:30:00,Alessandro Schöpf,Aerial
+439502,41,Goal,0.8440000152587891,0.534000015258789,0.05866966024041176,Jacob Laursen,h,8795,OpenPlay,2021,RightFoot,17597,Arminia Bielefeld,Mainz 05,1,2,2021-10-30 13:30:00,Manuel Prietl,HeadPass
+439503,46,SavedShot,0.705,0.6409999847412109,0.012416701763868332,Jacob Laursen,h,8795,FromCorner,2021,RightFoot,17597,Arminia Bielefeld,Mainz 05,1,2,2021-10-30 13:30:00,,None
+439507,66,SavedShot,0.7240000152587891,0.500999984741211,0.01904973015189171,Edimilson Fernandes,h,1673,OpenPlay,2021,RightFoot,17597,Arminia Bielefeld,Mainz 05,1,2,2021-10-30 13:30:00,Patrick Wimmer,Pass
+439510,81,BlockedShot,0.7419999694824219,0.5279999923706055,0.02182612754404545,Alessandro Schöpf,h,2638,OpenPlay,2021,RightFoot,17597,Arminia Bielefeld,Mainz 05,1,2,2021-10-30 13:30:00,Patrick Wimmer,Pass
+439511,82,BlockedShot,0.9,0.435,0.07766402512788773,Patrick Wimmer,h,9730,OpenPlay,2021,LeftFoot,17597,Arminia Bielefeld,Mainz 05,1,2,2021-10-30 13:30:00,,None
+439513,94,BlockedShot,0.7069999694824218,0.43200000762939456,0.015894049778580666,Patrick Wimmer,h,9730,OpenPlay,2021,RightFoot,17597,Arminia Bielefeld,Mainz 05,1,2,2021-10-30 13:30:00,Alessandro Schöpf,Pass
+439488,9,MissedShots,0.9169999694824219,0.5120000076293946,0.3412276804447174,Karim Onisiwo,a,2631,OpenPlay,2021,Head,17597,Arminia Bielefeld,Mainz 05,1,2,2021-10-30 13:30:00,Aarón Martín,Cross
+439489,11,MissedShots,0.735999984741211,0.415,0.01173322182148695,Silvan Widmer,a,1139,SetPiece,2021,RightFoot,17597,Arminia Bielefeld,Mainz 05,1,2,2021-10-30 13:30:00,,None
+439491,21,MissedShots,0.81,0.504000015258789,0.05124666169285774,Aarón Martín,a,5133,OpenPlay,2021,LeftFoot,17597,Arminia Bielefeld,Mainz 05,1,2,2021-10-30 13:30:00,,None
+439493,24,SavedShot,0.8640000152587891,0.365,0.056203242391347885,Karim Onisiwo,a,2631,OpenPlay,2021,RightFoot,17597,Arminia Bielefeld,Mainz 05,1,2,2021-10-30 13:30:00,Dominik Kohr,Pass
+439494,24,Goal,0.9359999847412109,0.4209999847412109,0.4103968143463135,Jae-Sung Lee,a,9783,OpenPlay,2021,RightFoot,17597,Arminia Bielefeld,Mainz 05,1,2,2021-10-30 13:30:00,,Rebound
+439495,26,MissedShots,0.8730000305175781,0.49,0.1253436654806137,Karim Onisiwo,a,2631,OpenPlay,2021,RightFoot,17597,Arminia Bielefeld,Mainz 05,1,2,2021-10-30 13:30:00,Jean-Paul Boëtius,Pass
+439497,31,MissedShots,0.9830000305175781,0.33799999237060546,0.08089891076087952,Karim Onisiwo,a,2631,OpenPlay,2021,RightFoot,17597,Arminia Bielefeld,Mainz 05,1,2,2021-10-30 13:30:00,Jonathan Burkardt,Pass
+439499,36,MissedShots,0.899000015258789,0.46599998474121096,0.44083645939826965,Karim Onisiwo,a,2631,OpenPlay,2021,LeftFoot,17597,Arminia Bielefeld,Mainz 05,1,2,2021-10-30 13:30:00,Jean-Paul Boëtius,Pass
+439500,40,BlockedShot,0.899000015258789,0.524000015258789,0.13867782056331635,Jonathan Burkardt,a,7108,OpenPlay,2021,RightFoot,17597,Arminia Bielefeld,Mainz 05,1,2,2021-10-30 13:30:00,Karim Onisiwo,Pass
+439501,40,SavedShot,0.9640000152587891,0.46,0.6702929735183716,Silvan Widmer,a,1139,OpenPlay,2021,RightFoot,17597,Arminia Bielefeld,Mainz 05,1,2,2021-10-30 13:30:00,,Rebound
+439504,48,BlockedShot,0.870999984741211,0.4570000076293945,0.09116387367248535,Dominik Kohr,a,269,OpenPlay,2021,RightFoot,17597,Arminia Bielefeld,Mainz 05,1,2,2021-10-30 13:30:00,Jonathan Burkardt,BallTouch
+439505,48,MissedShots,0.8680000305175781,0.6140000152587891,0.06595409661531448,Jean-Paul Boëtius,a,7107,OpenPlay,2021,RightFoot,17597,Arminia Bielefeld,Mainz 05,1,2,2021-10-30 13:30:00,Jonathan Burkardt,None
+439506,56,MissedShots,0.945,0.45799999237060546,0.12796874344348907,Alexander Hack,a,52,FromCorner,2021,Head,17597,Arminia Bielefeld,Mainz 05,1,2,2021-10-30 13:30:00,Aarón Martín,Cross
+439508,67,Goal,0.855,0.6029999923706054,0.3375919759273529,Jonathan Burkardt,a,7108,OpenPlay,2021,RightFoot,17597,Arminia Bielefeld,Mainz 05,1,2,2021-10-30 13:30:00,,BallRecovery
+439509,75,BlockedShot,0.8909999847412109,0.43599998474121093,0.12493982911109924,Jonathan Burkardt,a,7108,OpenPlay,2021,RightFoot,17597,Arminia Bielefeld,Mainz 05,1,2,2021-10-30 13:30:00,Silvan Widmer,Pass
+439512,93,MissedShots,0.4279999923706055,0.894000015258789,0.015375376679003239,Alexander Hack,a,52,DirectFreekick,2021,LeftFoot,17597,Arminia Bielefeld,Mainz 05,1,2,2021-10-30 13:30:00,,Standard

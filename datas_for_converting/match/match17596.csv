@@ -1,0 +1,25 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+437622,1,MissedShots,0.9219999694824219,0.4640000152587891,0.5372766852378845,Robert Lewandowski,h,227,OpenPlay,2021,RightFoot,17596,Bayern Munich,Hoffenheim,4,0,2021-10-23 13:30:00,Thomas Müller,TakeOn
+437624,12,BlockedShot,0.9309999847412109,0.6090000152587891,0.14089253544807434,Robert Lewandowski,h,227,OpenPlay,2021,RightFoot,17596,Bayern Munich,Hoffenheim,4,0,2021-10-23 13:30:00,Thomas Müller,TakeOn
+437625,15,Goal,0.93,0.34700000762939454,0.2787270247936249,Serge Gnabry,h,993,OpenPlay,2021,RightFoot,17596,Bayern Munich,Hoffenheim,4,0,2021-10-23 13:30:00,Jamal Musiala,Pass
+437626,23,BlockedShot,0.759000015258789,0.41,0.032342296093702316,Thomas Müller,h,224,OpenPlay,2021,LeftFoot,17596,Bayern Munich,Hoffenheim,4,0,2021-10-23 13:30:00,,None
+437627,29,Goal,0.754000015258789,0.44599998474121094,0.03195953741669655,Robert Lewandowski,h,227,OpenPlay,2021,RightFoot,17596,Bayern Munich,Hoffenheim,4,0,2021-10-23 13:30:00,Thomas Müller,Dispossessed
+437629,42,SavedShot,0.89,0.4470000076293945,0.5022872090339661,Robert Lewandowski,h,227,OpenPlay,2021,RightFoot,17596,Bayern Munich,Hoffenheim,4,0,2021-10-23 13:30:00,,None
+437631,45,SavedShot,0.9,0.37799999237060544,0.3069755434989929,Serge Gnabry,h,993,OpenPlay,2021,LeftFoot,17596,Bayern Munich,Hoffenheim,4,0,2021-10-23 13:30:00,Thomas Müller,Pass
+437634,51,MissedShots,0.8009999847412109,0.6079999923706054,0.029870981350541115,Jamal Musiala,h,8418,SetPiece,2021,RightFoot,17596,Bayern Munich,Hoffenheim,4,0,2021-10-23 13:30:00,Joshua Kimmich,Pass
+437635,52,MissedShots,0.735999984741211,0.3920000076293945,0.02674875594675541,Marcel Sabitzer,h,5248,OpenPlay,2021,RightFoot,17596,Bayern Munich,Hoffenheim,4,0,2021-10-23 13:30:00,Jamal Musiala,Pass
+437636,65,MissedShots,0.7609999847412109,0.29100000381469726,0.01676219329237938,Eric Maxim Choupo-Moting,h,339,OpenPlay,2021,RightFoot,17596,Bayern Munich,Hoffenheim,4,0,2021-10-23 13:30:00,Benjamin Pavard,Pass
+437640,74,MissedShots,0.884000015258789,0.4159999847412109,0.09974885731935501,Kingsley Coman,h,226,OpenPlay,2021,LeftFoot,17596,Bayern Munich,Hoffenheim,4,0,2021-10-23 13:30:00,Joshua Kimmich,None
+437641,80,SavedShot,0.945,0.6480000305175782,0.01270920131355524,Eric Maxim Choupo-Moting,h,339,FromCorner,2021,Head,17596,Bayern Munich,Hoffenheim,4,0,2021-10-23 13:30:00,Joshua Kimmich,Aerial
+437642,81,Goal,0.9330000305175781,0.44099998474121094,0.5061609148979187,Eric Maxim Choupo-Moting,h,339,FromCorner,2021,RightFoot,17596,Bayern Munich,Hoffenheim,4,0,2021-10-23 13:30:00,Dayotchanculle Upamecano,None
+437643,86,Goal,0.92,0.34700000762939454,0.35646766424179077,Kingsley Coman,h,226,OpenPlay,2021,RightFoot,17596,Bayern Munich,Hoffenheim,4,0,2021-10-23 13:30:00,Dayotchanculle Upamecano,Throughball
+437644,87,MissedShots,0.8809999847412109,0.43,0.43255454301834106,Robert Lewandowski,h,227,OpenPlay,2021,LeftFoot,17596,Bayern Munich,Hoffenheim,4,0,2021-10-23 13:30:00,,BallRecovery
+437623,10,MissedShots,0.9580000305175781,0.43900001525878907,0.07809720188379288,Andrej Kramaric,a,956,OpenPlay,2021,Head,17596,Bayern Munich,Hoffenheim,4,0,2021-10-23 13:30:00,David Raum,Aerial
+437628,39,MissedShots,0.7930000305175782,0.649000015258789,0.028282109647989273,David Raum,a,9724,OpenPlay,2021,LeftFoot,17596,Bayern Munich,Hoffenheim,4,0,2021-10-23 13:30:00,Dennis Geiger,Pass
+437630,43,BlockedShot,0.8190000152587891,0.34900001525878904,0.07008533179759979,Georginio Rutter,a,6937,OpenPlay,2021,RightFoot,17596,Bayern Munich,Hoffenheim,4,0,2021-10-23 13:30:00,Jacob Bruun Larsen,Pass
+437632,48,BlockedShot,0.84,0.4209999847412109,0.061622682958841324,Georginio Rutter,a,6937,OpenPlay,2021,LeftFoot,17596,Bayern Munich,Hoffenheim,4,0,2021-10-23 13:30:00,Andrej Kramaric,BallTouch
+437633,49,MissedShots,0.9059999847412109,0.35700000762939454,0.0367402620613575,Ihlas Bebou,a,6271,OpenPlay,2021,RightFoot,17596,Bayern Munich,Hoffenheim,4,0,2021-10-23 13:30:00,,Aerial
+437637,68,SavedShot,0.9340000152587891,0.385,0.05556897446513176,Robert Skov,a,7867,OpenPlay,2021,LeftFoot,17596,Bayern Munich,Hoffenheim,4,0,2021-10-23 13:30:00,Stefan Posch,Chipped
+437638,70,MissedShots,0.784000015258789,0.4159999847412109,0.03176525980234146,Robert Skov,a,7867,OpenPlay,2021,LeftFoot,17596,Bayern Munich,Hoffenheim,4,0,2021-10-23 13:30:00,Sebastian Rudy,Pass
+437639,70,MissedShots,0.895,0.6780000305175782,0.06787919253110886,Georginio Rutter,a,6937,OpenPlay,2021,LeftFoot,17596,Bayern Munich,Hoffenheim,4,0,2021-10-23 13:30:00,David Raum,Pass
+437645,89,SavedShot,0.8969999694824219,0.44299999237060544,0.01642439141869545,Stefan Posch,a,5329,FromCorner,2021,Head,17596,Bayern Munich,Hoffenheim,4,0,2021-10-23 13:30:00,David Raum,Aerial

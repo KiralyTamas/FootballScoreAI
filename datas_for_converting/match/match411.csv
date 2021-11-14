@@ -1,0 +1,26 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+56462,9,MissedShots,0.92,0.509000015258789,0.4063909947872162,Robert Huth,h,747,SetPiece,2015,Head,411,Leicester,West Ham,2,2,2016-04-17 16:30:00,Marc Albrighton,Cross
+56463,10,MissedShots,0.74,0.485,0.01709710620343685,Daniel Drinkwater,h,752,OpenPlay,2015,RightFoot,411,Leicester,West Ham,2,2,2016-04-17 16:30:00,Riyad Mahrez,Pass
+56464,17,Goal,0.895,0.6120000076293945,0.1312885731458664,Jamie Vardy,h,755,OpenPlay,2015,LeftFoot,411,Leicester,West Ham,2,2,2016-04-17 16:30:00,N&#039;Golo Kanté,Pass
+56471,52,MissedShots,0.955,0.4879999923706055,0.6030736565589905,Robert Huth,h,747,OpenPlay,2015,Head,411,Leicester,West Ham,2,2,2016-04-17 16:30:00,Christian Fuchs,Cross
+56481,88,MissedShots,0.9030000305175782,0.4640000152587891,0.03394265100359917,Robert Huth,h,747,OpenPlay,2015,Head,411,Leicester,West Ham,2,2,2016-04-17 16:30:00,Christian Fuchs,Aerial
+56483,94,Goal,0.885,0.5,0.7611688375473022,Leonardo Ulloa,h,756,Penalty,2015,RightFoot,411,Leicester,West Ham,2,2,2016-04-17 16:30:00,,Standard
+56459,1,SavedShot,0.8769999694824219,0.43900001525878907,0.043332334607839584,Cheikhou Kouyaté,a,532,SetPiece,2015,Head,411,Leicester,West Ham,2,2,2016-04-17 16:30:00,Dimitri Payet,Chipped
+56460,2,MissedShots,0.9159999847412109,0.6730000305175782,0.07299129664897919,Dimitri Payet,a,536,OpenPlay,2015,LeftFoot,411,Leicester,West Ham,2,2,2016-04-17 16:30:00,Emmanuel Emenike,Pass
+56461,6,MissedShots,0.8969999694824219,0.6120000076293945,0.02830057218670845,Michail Antonio,a,531,SetPiece,2015,Head,411,Leicester,West Ham,2,2,2016-04-17 16:30:00,Dimitri Payet,Cross
+56465,25,BlockedShot,0.7759999847412109,0.3770000076293945,0.02200431562960148,Victor Moses,a,541,OpenPlay,2015,LeftFoot,411,Leicester,West Ham,2,2,2016-04-17 16:30:00,Emmanuel Emenike,Pass
+56466,43,MissedShots,0.894000015258789,0.5820000076293945,0.04570729285478592,Cheikhou Kouyaté,a,532,OpenPlay,2015,Head,411,Leicester,West Ham,2,2,2016-04-17 16:30:00,Pedro Obiang,Cross
+56467,44,MissedShots,0.785,0.54,0.03502444922924042,Michail Antonio,a,531,OpenPlay,2015,LeftFoot,411,Leicester,West Ham,2,2,2016-04-17 16:30:00,Victor Moses,Pass
+56468,48,BlockedShot,0.7380000305175781,0.40400001525878904,0.01855110004544258,Victor Moses,a,541,OpenPlay,2015,RightFoot,411,Leicester,West Ham,2,2,2016-04-17 16:30:00,Emmanuel Emenike,Pass
+56469,49,MissedShots,0.905,0.5120000076293946,0.07183638215065002,Andy Carroll,a,537,FromCorner,2015,Head,411,Leicester,West Ham,2,2,2016-04-17 16:30:00,Dimitri Payet,Cross
+56470,51,SavedShot,0.7619999694824219,0.48200000762939454,0.021698104217648506,Cheikhou Kouyaté,a,532,OpenPlay,2015,RightFoot,411,Leicester,West Ham,2,2,2016-04-17 16:30:00,Emmanuel Emenike,Pass
+56472,55,BlockedShot,0.775,0.7559999847412109,0.016802525147795677,Aaron Cresswell,a,534,OpenPlay,2015,LeftFoot,411,Leicester,West Ham,2,2,2016-04-17 16:30:00,Michail Antonio,Pass
+56473,61,ShotOnPost,0.9480000305175781,0.46599998474121096,0.13560350239276886,Winston Reid,a,529,FromCorner,2015,RightFoot,411,Leicester,West Ham,2,2,2016-04-17 16:30:00,Dimitri Payet,Cross
+56474,66,MissedShots,0.7380000305175781,0.76,0.012649066746234894,Manuel Lanzini,a,535,OpenPlay,2015,RightFoot,411,Leicester,West Ham,2,2,2016-04-17 16:30:00,Dimitri Payet,Pass
+56475,72,MissedShots,0.8230000305175781,0.705,0.0253565963357687,Emmanuel Emenike,a,538,OpenPlay,2015,RightFoot,411,Leicester,West Ham,2,2,2016-04-17 16:30:00,,None
+56476,78,MissedShots,0.74,0.5420000076293945,0.056774962693452835,Dimitri Payet,a,536,DirectFreekick,2015,RightFoot,411,Leicester,West Ham,2,2,2016-04-17 16:30:00,,Standard
+56477,81,MissedShots,0.899000015258789,0.3940000152587891,0.019676517695188522,Cheikhou Kouyaté,a,532,OpenPlay,2015,Head,411,Leicester,West Ham,2,2,2016-04-17 16:30:00,Aaron Cresswell,Aerial
+56478,81,MissedShots,0.9569999694824218,0.3920000076293945,0.08966618776321411,Enner Valencia,a,539,OpenPlay,2015,RightFoot,411,Leicester,West Ham,2,2,2016-04-17 16:30:00,Cheikhou Kouyaté,Rebound
+56479,83,Goal,0.885,0.5,0.7611688375473022,Andy Carroll,a,537,Penalty,2015,LeftFoot,411,Leicester,West Ham,2,2,2016-04-17 16:30:00,,Standard
+56480,85,Goal,0.8430000305175781,0.6659999847412109,0.043442439287900925,Aaron Cresswell,a,534,OpenPlay,2015,LeftFoot,411,Leicester,West Ham,2,2,2016-04-17 16:30:00,,None
+56482,90,MissedShots,0.8080000305175781,0.36900001525878906,0.049368180334568024,Emmanuel Emenike,a,538,OpenPlay,2015,RightFoot,411,Leicester,West Ham,2,2,2016-04-17 16:30:00,,None

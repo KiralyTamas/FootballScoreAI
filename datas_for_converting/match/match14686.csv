@@ -1,0 +1,17 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+407650,8,Goal,0.9580000305175781,0.3940000152587891,0.6845400929450989,Richarlison,h,6026,OpenPlay,2020,RightFoot,14686,Everton,Southampton,1,0,2021-03-01 20:00:00,Gylfi Sigurdsson,TakeOn
+407652,35,MissedShots,0.9119999694824219,0.4809999847412109,0.39793410897254944,Richarlison,h,6026,SetPiece,2020,RightFoot,14686,Everton,Southampton,1,0,2021-03-01 20:00:00,Gylfi Sigurdsson,Cross
+407653,38,BlockedShot,0.86,0.425,0.0980251133441925,Dominic Calvert-Lewin,h,5555,OpenPlay,2020,LeftFoot,14686,Everton,Southampton,1,0,2021-03-01 20:00:00,Gylfi Sigurdsson,Pass
+407654,47,BlockedShot,0.7609999847412109,0.5429999923706055,0.07259847968816757,Gylfi Sigurdsson,h,714,DirectFreekick,2020,RightFoot,14686,Everton,Southampton,1,0,2021-03-01 20:00:00,,Standard
+407655,57,BlockedShot,0.9059999847412109,0.46599998474121096,0.08564359694719315,Ben Godfrey,h,7689,SetPiece,2020,LeftFoot,14686,Everton,Southampton,1,0,2021-03-01 20:00:00,,None
+407656,59,MissedShots,0.8719999694824219,0.515,0.04320763051509857,Michael Keane,h,1653,SetPiece,2020,Head,14686,Everton,Southampton,1,0,2021-03-01 20:00:00,Lucas Digne,Cross
+407658,65,BlockedShot,0.9,0.47900001525878905,0.03858835622668266,Richarlison,h,6026,SetPiece,2020,Head,14686,Everton,Southampton,1,0,2021-03-01 20:00:00,Gylfi Sigurdsson,CornerAwarded
+407651,17,MissedShots,0.8009999847412109,0.21799999237060547,0.01379955094307661,Nathan Redmond,a,790,FromCorner,2020,RightFoot,14686,Everton,Southampton,1,0,2021-03-01 20:00:00,,None
+407657,61,MissedShots,0.9169999694824219,0.3770000076293945,0.020174667239189148,Mohammed Salisu,a,6923,FromCorner,2020,Head,14686,Everton,Southampton,1,0,2021-03-01 20:00:00,James Ward-Prowse,Cross
+407659,71,MissedShots,0.8859999847412109,0.6840000152587891,0.037251222878694534,Nathan Redmond,a,790,FromCorner,2020,RightFoot,14686,Everton,Southampton,1,0,2021-03-01 20:00:00,,None
+407660,75,BlockedShot,0.82,0.37,0.017416540533304214,Nathan Tella,a,8456,FromCorner,2020,RightFoot,14686,Everton,Southampton,1,0,2021-03-01 20:00:00,,Aerial
+407661,83,MissedShots,0.8730000305175781,0.35200000762939454,0.06498685479164124,Moussa Djenepo,a,7701,OpenPlay,2020,RightFoot,14686,Everton,Southampton,1,0,2021-03-01 20:00:00,Stuart Armstrong,Pass
+407662,89,BlockedShot,0.8630000305175781,0.45,0.06903280317783356,Moussa Djenepo,a,7701,FromCorner,2020,RightFoot,14686,Everton,Southampton,1,0,2021-03-01 20:00:00,,TakeOn
+407663,89,BlockedShot,0.7419999694824219,0.4879999923706055,0.021529605612158775,Stuart Armstrong,a,6893,FromCorner,2020,LeftFoot,14686,Everton,Southampton,1,0,2021-03-01 20:00:00,,Rebound
+407664,89,SavedShot,0.9,0.5479999923706055,0.3869786858558655,Jannik Vestergaard,a,111,FromCorner,2020,LeftFoot,14686,Everton,Southampton,1,0,2021-03-01 20:00:00,,Rebound
+407665,94,BlockedShot,0.9119999694824219,0.61,0.07053029537200928,Danny Ings,a,986,OpenPlay,2020,LeftFoot,14686,Everton,Southampton,1,0,2021-03-01 20:00:00,,None

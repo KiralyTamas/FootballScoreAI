@@ -1,0 +1,25 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+285392,5,MissedShots,0.7240000152587891,0.5690000152587891,0.015301109291613102,Edimilson Fernandes,h,1673,OpenPlay,2018,LeftFoot,9839,Fiorentina,Lazio,1,1,2019-03-10 19:30:00,Gerson,Pass
+285393,12,MissedShots,0.7269999694824218,0.34799999237060547,0.017484281212091446,Luis Muriel,h,1229,OpenPlay,2018,RightFoot,9839,Fiorentina,Lazio,1,1,2019-03-10 19:30:00,Edimilson Fernandes,Pass
+285394,16,BlockedShot,0.77,0.37900001525878907,0.023207101970911026,Nikola Milenkovic,h,6174,OpenPlay,2018,RightFoot,9839,Fiorentina,Lazio,1,1,2019-03-10 19:30:00,Jordan Veretout,Pass
+285398,28,BlockedShot,0.7369999694824219,0.6909999847412109,0.04012969881296158,Jordan Veretout,h,677,DirectFreekick,2018,RightFoot,9839,Fiorentina,Lazio,1,1,2019-03-10 19:30:00,,Standard
+285401,40,MissedShots,0.9209999847412109,0.41200000762939454,0.09090074896812439,Marco Benassi,h,1183,OpenPlay,2018,RightFoot,9839,Fiorentina,Lazio,1,1,2019-03-10 19:30:00,Federico Ceccherini,Cross
+285406,56,BlockedShot,0.7630000305175781,0.28299999237060547,0.019793402403593063,Kevin Mirallas,h,595,OpenPlay,2018,LeftFoot,9839,Fiorentina,Lazio,1,1,2019-03-10 19:30:00,,TakeOn
+285407,58,MissedShots,0.7680000305175781,0.49900001525878906,0.01503900159150362,Kevin Mirallas,h,595,FromCorner,2018,RightFoot,9839,Fiorentina,Lazio,1,1,2019-03-10 19:30:00,,Aerial
+285408,60,Goal,0.9280000305175782,0.40599998474121096,0.09151846170425415,Luis Muriel,h,1229,OpenPlay,2018,LeftFoot,9839,Fiorentina,Lazio,1,1,2019-03-10 19:30:00,Kevin Mirallas,Cross
+285409,63,MissedShots,0.8859999847412109,0.47,0.3020178973674774,Kevin Mirallas,h,595,OpenPlay,2018,RightFoot,9839,Fiorentina,Lazio,1,1,2019-03-10 19:30:00,Giovanni Simeone,Cross
+285412,70,BlockedShot,0.7730000305175782,0.6359999847412109,0.019590303301811218,Gerson,h,1258,OpenPlay,2018,LeftFoot,9839,Fiorentina,Lazio,1,1,2019-03-10 19:30:00,Cristiano Biraghi,Pass
+285413,74,BlockedShot,0.8269999694824218,0.5790000152587891,0.054324712604284286,Giovanni Simeone,h,1102,OpenPlay,2018,RightFoot,9839,Fiorentina,Lazio,1,1,2019-03-10 19:30:00,,None
+285414,76,MissedShots,0.8880000305175781,0.5370000076293945,0.035251762717962265,Giovanni Simeone,h,1102,OpenPlay,2018,Head,9839,Fiorentina,Lazio,1,1,2019-03-10 19:30:00,Jordan Veretout,Aerial
+285415,92,BlockedShot,0.8219999694824218,0.6419999694824219,0.04533994942903519,Gerson,h,1258,OpenPlay,2018,LeftFoot,9839,Fiorentina,Lazio,1,1,2019-03-10 19:30:00,Giovanni Simeone,Pass
+285395,20,SavedShot,0.875,0.44,0.3678762912750244,Ciro Immobile,a,1209,OpenPlay,2018,RightFoot,9839,Fiorentina,Lazio,1,1,2019-03-10 19:30:00,Sergej Milinkovic-Savic,Throughball
+285396,22,Goal,0.784000015258789,0.6029999923706054,0.031091436743736267,Ciro Immobile,a,1209,OpenPlay,2018,RightFoot,9839,Fiorentina,Lazio,1,1,2019-03-10 19:30:00,Joaquín Correa,Pass
+285397,25,BlockedShot,0.7559999847412109,0.40900001525878904,0.022825216874480247,Luis Alberto,a,1219,OpenPlay,2018,RightFoot,9839,Fiorentina,Lazio,1,1,2019-03-10 19:30:00,Adam Marusic,Pass
+285399,29,SavedShot,0.86,0.28,0.06344722211360931,Sergej Milinkovic-Savic,a,1543,OpenPlay,2018,RightFoot,9839,Fiorentina,Lazio,1,1,2019-03-10 19:30:00,Joaquín Correa,LayOff
+285400,38,SavedShot,0.9259999847412109,0.675,0.09051648527383804,Joaquín Correa,a,1809,OpenPlay,2018,LeftFoot,9839,Fiorentina,Lazio,1,1,2019-03-10 19:30:00,Ciro Immobile,Pass
+285402,43,SavedShot,0.8730000305175781,0.3390000152587891,0.32184749841690063,Ciro Immobile,a,1209,OpenPlay,2018,RightFoot,9839,Fiorentina,Lazio,1,1,2019-03-10 19:30:00,Patric,Throughball
+285403,46,MissedShots,0.799000015258789,0.34200000762939453,0.038144465535879135,Sergej Milinkovic-Savic,a,1543,OpenPlay,2018,RightFoot,9839,Fiorentina,Lazio,1,1,2019-03-10 19:30:00,Adam Marusic,Pass
+285404,47,BlockedShot,0.7619999694824219,0.40599998474121096,0.029651949182152748,Sergej Milinkovic-Savic,a,1543,OpenPlay,2018,RightFoot,9839,Fiorentina,Lazio,1,1,2019-03-10 19:30:00,Joaquín Correa,Pass
+285405,48,MissedShots,0.8930000305175781,0.495,0.018277209252119064,Stefan Radu,a,1542,FromCorner,2018,Head,9839,Fiorentina,Lazio,1,1,2019-03-10 19:30:00,Luis Alberto,Aerial
+285410,64,BlockedShot,0.735,0.4540000152587891,0.017746862024068832,Ciro Immobile,a,1209,OpenPlay,2018,RightFoot,9839,Fiorentina,Lazio,1,1,2019-03-10 19:30:00,,BallRecovery
+285411,68,SavedShot,0.77,0.4209999847412109,0.02752159908413887,Adam Marusic,a,6176,OpenPlay,2018,LeftFoot,9839,Fiorentina,Lazio,1,1,2019-03-10 19:30:00,Joaquín Correa,TakeOn

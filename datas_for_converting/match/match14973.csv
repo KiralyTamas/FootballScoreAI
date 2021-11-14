@@ -1,0 +1,23 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+401083,0,MissedShots,0.845,0.38,0.07520511001348495,João Félix,h,7892,OpenPlay,2020,RightFoot,14973,Atletico Madrid,Valencia,3,1,2021-01-24 20:00:00,Luis Suárez,TakeOn
+401084,5,SavedShot,0.9080000305175782,0.5159999847412109,0.03466680645942688,Giménez,h,2278,FromCorner,2020,Head,14973,Atletico Madrid,Valencia,3,1,2021-01-24 20:00:00,Koke,Aerial
+401087,22,Goal,0.9730000305175781,0.580999984741211,0.2598614990711212,João Félix,h,7892,FromCorner,2020,RightFoot,14973,Atletico Madrid,Valencia,3,1,2021-01-24 20:00:00,Thomas Lemar,Cross
+401088,33,BlockedShot,0.7419999694824219,0.580999984741211,0.015334630385041237,Marcos Llorente,h,2518,OpenPlay,2020,LeftFoot,14973,Atletico Madrid,Valencia,3,1,2021-01-24 20:00:00,,None
+401090,46,BlockedShot,0.725,0.5420000076293945,0.05506971850991249,João Félix,h,7892,DirectFreekick,2020,RightFoot,14973,Atletico Madrid,Valencia,3,1,2021-01-24 20:00:00,,Standard
+401091,47,BlockedShot,0.9019999694824219,0.38599998474121094,0.08655750751495361,Luis Suárez,h,2098,OpenPlay,2020,RightFoot,14973,Atletico Madrid,Valencia,3,1,2021-01-24 20:00:00,João Félix,BallTouch
+401092,47,BlockedShot,0.905,0.4809999847412109,0.08255364745855331,Giménez,h,2278,FromCorner,2020,Head,14973,Atletico Madrid,Valencia,3,1,2021-01-24 20:00:00,Koke,Cross
+401093,50,MissedShots,0.850999984741211,0.34700000762939454,0.04717068746685982,Yannick Carrasco,h,2272,OpenPlay,2020,LeftFoot,14973,Atletico Madrid,Valencia,3,1,2021-01-24 20:00:00,Stefan Savic,Pass
+401094,51,BlockedShot,0.8469999694824218,0.3659999847412109,0.06990916281938553,Yannick Carrasco,h,2272,OpenPlay,2020,RightFoot,14973,Atletico Madrid,Valencia,3,1,2021-01-24 20:00:00,Thomas Lemar,TakeOn
+401095,52,MissedShots,0.915,0.5870000076293945,0.055141281336545944,Mario Hermoso,h,6136,FromCorner,2020,Head,14973,Atletico Madrid,Valencia,3,1,2021-01-24 20:00:00,Yannick Carrasco,Cross
+401096,53,Goal,0.93,0.6880000305175781,0.21506018936634064,Luis Suárez,h,2098,OpenPlay,2020,RightFoot,14973,Atletico Madrid,Valencia,3,1,2021-01-24 20:00:00,João Félix,Pass
+401098,66,MissedShots,0.8230000305175781,0.41900001525878905,0.06472951918840408,Marcos Llorente,h,2518,OpenPlay,2020,LeftFoot,14973,Atletico Madrid,Valencia,3,1,2021-01-24 20:00:00,Ángel Correa,Pass
+401100,71,Goal,0.9169999694824219,0.41,0.4318842887878418,Ángel Correa,h,2275,OpenPlay,2020,RightFoot,14973,Atletico Madrid,Valencia,3,1,2021-01-24 20:00:00,Marcos Llorente,Pass
+401103,86,SavedShot,0.935,0.4329999923706055,0.5599693059921265,Ángel Correa,h,2275,OpenPlay,2020,LeftFoot,14973,Atletico Madrid,Valencia,3,1,2021-01-24 20:00:00,Lucas Torreira,Pass
+401085,8,SavedShot,0.975999984741211,0.6459999847412109,0.08304941654205322,Manu Vallejo,a,7834,OpenPlay,2020,LeftFoot,14973,Atletico Madrid,Valencia,3,1,2021-01-24 20:00:00,Carlos Soler,TakeOn
+401086,10,Goal,0.74,0.445,0.021052494645118713,Uros Racic,a,7330,OpenPlay,2020,LeftFoot,14973,Atletico Madrid,Valencia,3,1,2021-01-24 20:00:00,José Gayá,Pass
+401089,39,SavedShot,0.9080000305175782,0.605999984741211,0.013770133256912231,Mouctar Diakhaby,a,5666,FromCorner,2020,Head,14973,Atletico Madrid,Valencia,3,1,2021-01-24 20:00:00,Carlos Soler,Aerial
+401097,65,MissedShots,0.7630000305175781,0.40400001525878904,0.024753307923674583,Gonçalo Guedes,a,5682,OpenPlay,2020,RightFoot,14973,Atletico Madrid,Valencia,3,1,2021-01-24 20:00:00,Thierry Correia,Pass
+401099,66,SavedShot,0.9209999847412109,0.27100000381469724,0.03380028158426285,Maxi Gómez,a,6124,OpenPlay,2020,RightFoot,14973,Atletico Madrid,Valencia,3,1,2021-01-24 20:00:00,Thierry Correia,Pass
+401101,80,BlockedShot,0.870999984741211,0.7,0.03583057224750519,Gonçalo Guedes,a,5682,OpenPlay,2020,LeftFoot,14973,Atletico Madrid,Valencia,3,1,2021-01-24 20:00:00,,None
+401102,80,MissedShots,0.74,0.5309999847412109,0.013676447793841362,José Gayá,a,2505,FromCorner,2020,RightFoot,14973,Atletico Madrid,Valencia,3,1,2021-01-24 20:00:00,,Aerial
+401104,88,BlockedShot,0.7880000305175782,0.6029999923706054,0.02431628666818142,José Gayá,a,2505,FromCorner,2020,LeftFoot,14973,Atletico Madrid,Valencia,3,1,2021-01-24 20:00:00,,None

@@ -1,0 +1,17 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+103762,12,Goal,0.845,0.509000015258789,0.04940060153603554,João Moutinho,h,3422,OpenPlay,2016,RightFoot,2278,Monaco,Paris Saint Germain,3,1,2016-08-28 22:45:00,Djibril Sidibe,Cross
+103763,14,MissedShots,0.7390000152587891,0.7480000305175781,0.017173435539007187,Bernardo Silva,h,3635,OpenPlay,2016,LeftFoot,2278,Monaco,Paris Saint Germain,3,1,2016-08-28 22:45:00,Jemerson,TakeOn
+103764,15,MissedShots,0.895,0.4520000076293945,0.11083655804395676,Valère Germain,h,3309,OpenPlay,2016,RightFoot,2278,Monaco,Paris Saint Germain,3,1,2016-08-28 22:45:00,Djibril Sidibe,Cross
+103766,36,MissedShots,0.8769999694824219,0.6020000076293945,0.11177399009466171,Bernardo Silva,h,3635,OpenPlay,2016,LeftFoot,2278,Monaco,Paris Saint Germain,3,1,2016-08-28 22:45:00,Fabinho,Pass
+103767,45,BlockedShot,0.765,0.5579999923706055,0.011806373484432697,Bernardo Silva,h,3635,SetPiece,2016,LeftFoot,2278,Monaco,Paris Saint Germain,3,1,2016-08-28 22:45:00,,Aerial
+103768,46,Goal,0.885,0.5,0.7600951194763184,Fabinho,h,3420,Penalty,2016,RightFoot,2278,Monaco,Paris Saint Germain,3,1,2016-08-28 22:45:00,,Standard
+103769,53,BlockedShot,0.7609999847412109,0.40299999237060546,0.02550710365176201,Tiemoué Bakayoko,h,3429,OpenPlay,2016,RightFoot,2278,Monaco,Paris Saint Germain,3,1,2016-08-28 22:45:00,Benjamin Mendy,Pass
+103770,53,MissedShots,0.740999984741211,0.6419999694824219,0.024903396144509315,Benjamin Mendy,h,3389,OpenPlay,2016,LeftFoot,2278,Monaco,Paris Saint Germain,3,1,2016-08-28 22:45:00,,TakeOn
+103772,56,BlockedShot,0.8530000305175781,0.61,0.09777294844388962,Bernardo Silva,h,3635,OpenPlay,2016,LeftFoot,2278,Monaco,Paris Saint Germain,3,1,2016-08-28 22:45:00,Valère Germain,Pass
+103761,10,BlockedShot,0.8130000305175781,0.475,0.056672319769859314,Ángel Di María,a,3553,OpenPlay,2016,LeftFoot,2278,Monaco,Paris Saint Germain,3,1,2016-08-28 22:45:00,Serge Aurier,Pass
+103765,22,MissedShots,0.87,0.37099998474121093,0.35317835211753845,Edinson Cavani,a,3294,OpenPlay,2016,RightFoot,2278,Monaco,Paris Saint Germain,3,1,2016-08-28 22:45:00,Serge Aurier,Throughball
+103771,54,MissedShots,0.9690000152587891,0.649000015258789,0.27985867857933044,Layvin Kurzawa,a,3298,OpenPlay,2016,LeftFoot,2278,Monaco,Paris Saint Germain,3,1,2016-08-28 22:45:00,Lucas Moura,Pass
+103773,62,Goal,0.9169999694824219,0.5359999847412109,0.28877022862434387,Edinson Cavani,a,3294,FromCorner,2016,Head,2278,Monaco,Paris Saint Germain,3,1,2016-08-28 22:45:00,Serge Aurier,HeadPass
+103774,67,BlockedShot,0.94,0.45,0.1015084907412529,Edinson Cavani,a,3294,OpenPlay,2016,RightFoot,2278,Monaco,Paris Saint Germain,3,1,2016-08-28 22:45:00,Thomas Meunier,Cross
+103775,73,BlockedShot,0.825,0.7090000152587891,0.03722372651100159,Blaise Matuidi,a,3296,FromCorner,2016,LeftFoot,2278,Monaco,Paris Saint Germain,3,1,2016-08-28 22:45:00,Ángel Di María,Pass
+103776,79,OwnGoal,0.15300000190734864,0.6419999694824219,0,Serge Aurier,a,3600,OpenPlay,2016,LeftFoot,2278,Monaco,Paris Saint Germain,3,1,2016-08-28 22:45:00,,None

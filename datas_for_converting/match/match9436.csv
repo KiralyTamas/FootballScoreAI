@@ -1,0 +1,16 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+275106,2,Goal,0.865,0.6170000076293946,0.06331896781921387,Sadio Mané,h,838,OpenPlay,2018,RightFoot,9436,Liverpool,Leicester,1,1,2019-01-30 20:00:00,,None
+275107,5,SavedShot,0.93,0.6859999847412109,0.06912234425544739,Roberto Firmino,h,482,OpenPlay,2018,RightFoot,9436,Liverpool,Leicester,1,1,2019-01-30 20:00:00,Mohamed Salah,TakeOn
+275108,5,MissedShots,0.9219999694824219,0.445,0.08131208270788193,Sadio Mané,h,838,FromCorner,2018,Head,9436,Liverpool,Leicester,1,1,2019-01-30 20:00:00,Xherdan Shaqiri,Cross
+275110,35,BlockedShot,0.830999984741211,0.425,0.08458790183067322,Mohamed Salah,h,1250,OpenPlay,2018,LeftFoot,9436,Liverpool,Leicester,1,1,2019-01-30 20:00:00,Sadio Mané,Pass
+275115,73,SavedShot,0.885,0.6530000305175782,0.0692431628704071,Roberto Firmino,h,482,OpenPlay,2018,RightFoot,9436,Liverpool,Leicester,1,1,2019-01-30 20:00:00,Jordan Henderson,TakeOn
+275116,74,MissedShots,0.915,0.46599998474121096,0.08327621966600418,Joel Matip,h,332,FromCorner,2018,Head,9436,Liverpool,Leicester,1,1,2019-01-30 20:00:00,Adam Lallana,Cross
+275117,76,MissedShots,0.775,0.655,0.013003416359424591,Andrew Robertson,h,1688,OpenPlay,2018,LeftFoot,9436,Liverpool,Leicester,1,1,2019-01-30 20:00:00,Sadio Mané,Chipped
+275118,81,BlockedShot,0.775,0.7419999694824219,0.04523651674389839,Mohamed Salah,h,1250,DirectFreekick,2018,LeftFoot,9436,Liverpool,Leicester,1,1,2019-01-30 20:00:00,,Standard
+275119,86,MissedShots,0.765,0.3270000076293945,0.03573237359523773,Daniel Sturridge,h,483,OpenPlay,2018,LeftFoot,9436,Liverpool,Leicester,1,1,2019-01-30 20:00:00,,Dispossessed
+275120,93,MissedShots,0.9130000305175782,0.6,0.031502943485975266,Sadio Mané,h,838,FromCorner,2018,Head,9436,Liverpool,Leicester,1,1,2019-01-30 20:00:00,Adam Lallana,Cross
+275109,24,MissedShots,0.9480000305175781,0.53,0.4469139277935028,James Maddison,a,6818,OpenPlay,2018,Head,9436,Liverpool,Leicester,1,1,2019-01-30 20:00:00,Marc Albrighton,Cross
+275111,46,BlockedShot,0.86,0.4540000152587891,0.06830135732889175,Wilfred Ndidi,a,5545,SetPiece,2018,RightFoot,9436,Liverpool,Leicester,1,1,2019-01-30 20:00:00,,None
+275112,46,Goal,0.909000015258789,0.509000015258789,0.45089980959892273,Harry Maguire,a,1687,SetPiece,2018,RightFoot,9436,Liverpool,Leicester,1,1,2019-01-30 20:00:00,Ben Chilwell,HeadPass
+275113,52,MissedShots,0.9490000152587891,0.5220000076293946,0.10014878958463669,Wilfred Ndidi,a,5545,SetPiece,2018,LeftFoot,9436,Liverpool,Leicester,1,1,2019-01-30 20:00:00,,None
+275114,72,SavedShot,0.855999984741211,0.705,0.060936540365219116,Demarai Gray,a,762,OpenPlay,2018,LeftFoot,9436,Liverpool,Leicester,1,1,2019-01-30 20:00:00,Jamie Vardy,Pass

@@ -1,0 +1,15 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+117497,7,Goal,0.879000015258789,0.44299999237060544,0.03462248295545578,Georginio Wijnaldum,h,771,OpenPlay,2016,Head,3162,Liverpool,Manchester City,1,0,2016-12-31 21:30:00,Adam Lallana,Cross
+117499,25,MissedShots,0.7809999847412109,0.40799999237060547,0.04041717201471329,Georginio Wijnaldum,h,771,OpenPlay,2016,LeftFoot,3162,Liverpool,Manchester City,1,0,2016-12-31 21:30:00,Adam Lallana,Pass
+117500,29,MissedShots,0.8219999694824218,0.6719999694824219,0.044827770441770554,Emre Can,h,604,OpenPlay,2016,RightFoot,3162,Liverpool,Manchester City,1,0,2016-12-31 21:30:00,Adam Lallana,Pass
+117504,45,MissedShots,0.89,0.4540000152587891,0.1024480015039444,Nathaniel Clyne,h,603,OpenPlay,2016,LeftFoot,3162,Liverpool,Manchester City,1,0,2016-12-31 21:30:00,Roberto Firmino,Cross
+117509,81,BlockedShot,0.8290000152587891,0.28299999237060547,0.034509919583797455,Divock Origi,h,484,OpenPlay,2016,RightFoot,3162,Liverpool,Manchester City,1,0,2016-12-31 21:30:00,Roberto Firmino,Pass
+117496,1,BlockedShot,0.775,0.3920000076293945,0.07512719929218292,Aleksandar Kolarov,a,621,DirectFreekick,2016,LeftFoot,3162,Liverpool,Manchester City,1,0,2016-12-31 21:30:00,,Standard
+117498,10,MissedShots,0.8159999847412109,0.37099998474121093,0.04766528308391571,Sergio Agüero,a,619,OpenPlay,2016,RightFoot,3162,Liverpool,Manchester City,1,0,2016-12-31 21:30:00,Raheem Sterling,TakeOn
+117501,38,MissedShots,0.879000015258789,0.745999984741211,0.024036578834056854,Aleksandar Kolarov,a,621,OpenPlay,2016,LeftFoot,3162,Liverpool,Manchester City,1,0,2016-12-31 21:30:00,David Silva,Chipped
+117502,41,BlockedShot,0.784000015258789,0.4640000152587891,0.03151791915297508,Kevin De Bruyne,a,447,OpenPlay,2016,LeftFoot,3162,Liverpool,Manchester City,1,0,2016-12-31 21:30:00,,TakeOn
+117503,45,BlockedShot,0.8219999694824218,0.27,0.022524811327457428,Raheem Sterling,a,618,OpenPlay,2016,LeftFoot,3162,Liverpool,Manchester City,1,0,2016-12-31 21:30:00,,None
+117505,53,SavedShot,0.7669999694824219,0.46299999237060546,0.027987442910671234,Sergio Agüero,a,619,OpenPlay,2016,LeftFoot,3162,Liverpool,Manchester City,1,0,2016-12-31 21:30:00,David Silva,Pass
+117506,54,MissedShots,0.8159999847412109,0.415,0.04757486283779144,David Silva,a,617,OpenPlay,2016,LeftFoot,3162,Liverpool,Manchester City,1,0,2016-12-31 21:30:00,Fernandinho,Pass
+117507,56,MissedShots,0.97,0.33,0.04877687245607376,Raheem Sterling,a,618,OpenPlay,2016,RightFoot,3162,Liverpool,Manchester City,1,0,2016-12-31 21:30:00,Yaya Touré,Chipped
+117508,58,SavedShot,0.769000015258789,0.505,0.027234362438321114,Aleksandar Kolarov,a,621,FromCorner,2016,LeftFoot,3162,Liverpool,Manchester City,1,0,2016-12-31 21:30:00,Kevin De Bruyne,Cross

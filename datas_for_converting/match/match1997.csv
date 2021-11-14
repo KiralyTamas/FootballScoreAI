@@ -1,0 +1,24 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+64232,8,SavedShot,0.919000015258789,0.3029999923706055,0.06096956878900528,Rafael,h,3270,OpenPlay,2015,LeftFoot,1997,Lyon,Saint-Etienne,3,0,2015-11-09 00:00:00,Mathieu Valbuena,Pass
+64233,18,MissedShots,0.9430000305175781,0.5559999847412109,0.11272149533033371,Claudio Beauvue,h,2502,OpenPlay,2015,RightFoot,1997,Lyon,Saint-Etienne,3,0,2015-11-09 00:00:00,Jérémy Morel,Cross
+64235,35,MissedShots,0.8290000152587891,0.18200000762939453,0.01489573810249567,Mathieu Valbuena,h,3186,OpenPlay,2015,RightFoot,1997,Lyon,Saint-Etienne,3,0,2015-11-09 00:00:00,Claudio Beauvue,Pass
+64236,37,SavedShot,0.9080000305175782,0.5929999923706055,0.29512283205986023,Jordan Ferri,h,3275,OpenPlay,2015,LeftFoot,1997,Lyon,Saint-Etienne,3,0,2015-11-09 00:00:00,Jérémy Morel,Cross
+64237,37,SavedShot,0.860999984741211,0.405,0.06362400203943253,Mathieu Valbuena,h,3186,OpenPlay,2015,LeftFoot,1997,Lyon,Saint-Etienne,3,0,2015-11-09 00:00:00,,Rebound
+64238,39,BlockedShot,0.8669999694824219,0.26399999618530273,0.028940390795469284,Rafael,h,3270,OpenPlay,2015,RightFoot,1997,Lyon,Saint-Etienne,3,0,2015-11-09 00:00:00,Jordan Ferri,Pass
+64239,40,Goal,0.9009999847412109,0.665,0.30149298906326294,Alexandre Lacazette,h,3277,OpenPlay,2015,RightFoot,1997,Lyon,Saint-Etienne,3,0,2015-11-09 00:00:00,Jérémy Morel,TakeOn
+64242,44,BlockedShot,0.8030000305175782,0.735999984741211,0.024618813768029213,Sergi Darder,h,2621,FromCorner,2015,RightFoot,1997,Lyon,Saint-Etienne,3,0,2015-11-09 00:00:00,Mathieu Valbuena,Cross
+64243,46,MissedShots,0.9130000305175782,0.534000015258789,0.12888848781585693,Claudio Beauvue,h,2502,OpenPlay,2015,Head,1997,Lyon,Saint-Etienne,3,0,2015-11-09 00:00:00,Sergi Darder,Cross
+64246,51,BlockedShot,0.7430000305175781,0.335,0.016542108729481697,Samuel Umtiti,h,3567,FromCorner,2015,LeftFoot,1997,Lyon,Saint-Etienne,3,0,2015-11-09 00:00:00,,Dispossessed
+64247,52,MissedShots,0.81,0.4540000152587891,0.0821283683180809,Alexandre Lacazette,h,3277,OpenPlay,2015,RightFoot,1997,Lyon,Saint-Etienne,3,0,2015-11-09 00:00:00,Mathieu Valbuena,TakeOn
+64255,55,BlockedShot,0.845,0.575,0.05413522198796272,Corentin Tolisso,h,3603,SetPiece,2015,RightFoot,1997,Lyon,Saint-Etienne,3,0,2015-11-09 00:00:00,Alexandre Lacazette,HeadPass
+64256,58,SavedShot,0.845,0.32099998474121094,0.06864050775766373,Rafael,h,3270,OpenPlay,2015,RightFoot,1997,Lyon,Saint-Etienne,3,0,2015-11-09 00:00:00,Jordan Ferri,LayOff
+64260,58,Goal,0.894000015258789,0.515,0.4130469858646393,Alexandre Lacazette,h,3277,OpenPlay,2015,LeftFoot,1997,Lyon,Saint-Etienne,3,0,2015-11-09 00:00:00,,Rebound
+64266,82,SavedShot,0.870999984741211,0.6320000076293946,0.10005583614110947,Claudio Beauvue,h,2502,OpenPlay,2015,RightFoot,1997,Lyon,Saint-Etienne,3,0,2015-11-09 00:00:00,Jordan Ferri,Pass
+64267,83,MissedShots,0.9569999694824218,0.29600000381469727,0.07364411652088165,Christophe Jallet,h,3566,OpenPlay,2015,RightFoot,1997,Lyon,Saint-Etienne,3,0,2015-11-09 00:00:00,Alexandre Lacazette,Pass
+64268,92,Goal,0.9390000152587891,0.33599998474121096,0.5184049010276794,Alexandre Lacazette,h,3277,OpenPlay,2015,RightFoot,1997,Lyon,Saint-Etienne,3,0,2015-11-09 00:00:00,Jordan Ferri,TakeOn
+64234,27,BlockedShot,0.7469999694824219,0.6359999847412109,0.05374303087592125,Florentin Pogba,a,3505,DirectFreekick,2015,LeftFoot,1997,Lyon,Saint-Etienne,3,0,2015-11-09 00:00:00,,Standard
+64240,43,BlockedShot,0.7930000305175782,0.5709999847412109,0.028187863528728485,Romain Hamouma,a,3561,SetPiece,2015,RightFoot,1997,Lyon,Saint-Etienne,3,0,2015-11-09 00:00:00,,None
+64241,43,MissedShots,0.7959999847412109,0.6730000305175782,0.017192045226693153,Benoit Assou-Ekotto,a,3516,SetPiece,2015,LeftFoot,1997,Lyon,Saint-Etienne,3,0,2015-11-09 00:00:00,,Rebound
+64244,49,MissedShots,0.774000015258789,0.769000015258789,0.016844121739268303,Romain Hamouma,a,3561,OpenPlay,2015,RightFoot,1997,Lyon,Saint-Etienne,3,0,2015-11-09 00:00:00,Jérémy Clément,Pass
+64262,62,SavedShot,0.73,0.7180000305175781,0.010723083280026913,Romain Hamouma,a,3561,OpenPlay,2015,RightFoot,1997,Lyon,Saint-Etienne,3,0,2015-11-09 00:00:00,Pierre-Yves Polomat,Pass
+64263,63,BlockedShot,0.8180000305175781,0.46,0.06065211445093155,Robert Beric,a,3691,OpenPlay,2015,RightFoot,1997,Lyon,Saint-Etienne,3,0,2015-11-09 00:00:00,Nolan Roux,Pass

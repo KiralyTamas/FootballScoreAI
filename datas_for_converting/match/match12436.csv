@@ -1,0 +1,28 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+317492,3,MissedShots,0.909000015258789,0.34,0.06184978038072586,Lukas Klostermann,h,5358,OpenPlay,2019,RightFoot,12436,RasenBallsport Leipzig,Bayern Munich,1,1,2019-09-14 16:30:00,Timo Werner,Pass
+317496,26,SavedShot,0.78,0.5129999923706055,0.031923096626996994,Timo Werner,h,65,OpenPlay,2019,LeftFoot,12436,RasenBallsport Leipzig,Bayern Munich,1,1,2019-09-14 16:30:00,Emil Forsberg,Pass
+317499,40,BlockedShot,0.8619999694824219,0.6359999847412109,0.054149746894836426,Marcel Sabitzer,h,5248,OpenPlay,2019,RightFoot,12436,RasenBallsport Leipzig,Bayern Munich,1,1,2019-09-14 16:30:00,Yussuf Poulsen,BallRecovery
+317500,47,Goal,0.885,0.5,0.75777667760849,Emil Forsberg,h,5249,Penalty,2019,RightFoot,12436,RasenBallsport Leipzig,Bayern Munich,1,1,2019-09-14 16:30:00,,Standard
+317501,48,BlockedShot,0.8969999694824219,0.625999984741211,0.09133237600326538,Marcel Halstenberg,h,5254,OpenPlay,2019,LeftFoot,12436,RasenBallsport Leipzig,Bayern Munich,1,1,2019-09-14 16:30:00,Yussuf Poulsen,Pass
+317502,49,SavedShot,0.9430000305175781,0.28100000381469725,0.044769831001758575,Nordi Mukiele,h,5659,OpenPlay,2019,RightFoot,12436,RasenBallsport Leipzig,Bayern Munich,1,1,2019-09-14 16:30:00,Marcel Sabitzer,Pass
+317505,53,BlockedShot,0.7869999694824219,0.6370000076293946,0.03473925217986107,Timo Werner,h,65,OpenPlay,2019,RightFoot,12436,RasenBallsport Leipzig,Bayern Munich,1,1,2019-09-14 16:30:00,,TakeOn
+317506,58,MissedShots,0.9119999694824219,0.40299999237060546,0.11858571320772171,Timo Werner,h,65,OpenPlay,2019,RightFoot,12436,RasenBallsport Leipzig,Bayern Munich,1,1,2019-09-14 16:30:00,Nordi Mukiele,Pass
+317507,59,SavedShot,0.720999984741211,0.42200000762939455,0.018558800220489502,Marcel Sabitzer,h,5248,OpenPlay,2019,RightFoot,12436,RasenBallsport Leipzig,Bayern Munich,1,1,2019-09-14 16:30:00,Diego Demme,Pass
+317510,64,MissedShots,0.915,0.2979999923706055,0.19810181856155396,Timo Werner,h,65,OpenPlay,2019,RightFoot,12436,RasenBallsport Leipzig,Bayern Munich,1,1,2019-09-14 16:30:00,Yussuf Poulsen,Pass
+317511,65,BlockedShot,0.7959999847412109,0.6370000076293946,0.030253715813159943,Timo Werner,h,65,OpenPlay,2019,RightFoot,12436,RasenBallsport Leipzig,Bayern Munich,1,1,2019-09-14 16:30:00,Yussuf Poulsen,Pass
+317515,83,SavedShot,0.705,0.5429999923706055,0.011220382526516914,Konrad Laimer,h,6109,OpenPlay,2019,LeftFoot,12436,RasenBallsport Leipzig,Bayern Munich,1,1,2019-09-14 16:30:00,Marcel Sabitzer,HeadPass
+317516,88,SavedShot,0.92,0.3060000038146973,0.20101122558116913,Timo Werner,h,65,OpenPlay,2019,RightFoot,12436,RasenBallsport Leipzig,Bayern Munich,1,1,2019-09-14 16:30:00,Nordi Mukiele,Pass
+317491,2,Goal,0.850999984741211,0.4640000152587891,0.3081737458705902,Robert Lewandowski,a,227,OpenPlay,2019,RightFoot,12436,RasenBallsport Leipzig,Bayern Munich,1,1,2019-09-14 16:30:00,Thomas Müller,Pass
+317493,11,MissedShots,0.9269999694824219,0.62,0.1022249087691307,Thomas Müller,a,224,OpenPlay,2019,RightFoot,12436,RasenBallsport Leipzig,Bayern Munich,1,1,2019-09-14 16:30:00,,None
+317494,11,SavedShot,0.9259999847412109,0.6659999847412109,0.07737527787685394,Robert Lewandowski,a,227,OpenPlay,2019,RightFoot,12436,RasenBallsport Leipzig,Bayern Munich,1,1,2019-09-14 16:30:00,,Rebound
+317495,14,MissedShots,0.9080000305175782,0.5209999847412109,0.3602328598499298,Robert Lewandowski,a,227,OpenPlay,2019,Head,12436,RasenBallsport Leipzig,Bayern Munich,1,1,2019-09-14 16:30:00,Joshua Kimmich,Cross
+317497,29,SavedShot,0.7919999694824219,0.5729999923706055,0.04988568648695946,Serge Gnabry,a,993,OpenPlay,2019,RightFoot,12436,RasenBallsport Leipzig,Bayern Munich,1,1,2019-09-14 16:30:00,Robert Lewandowski,Pass
+317498,32,SavedShot,0.7780000305175782,0.6519999694824219,0.031561966985464096,Robert Lewandowski,a,227,OpenPlay,2019,RightFoot,12436,RasenBallsport Leipzig,Bayern Munich,1,1,2019-09-14 16:30:00,Joshua Kimmich,Pass
+317503,51,MissedShots,0.9159999847412109,0.3370000076293945,0.07957127690315247,Kingsley Coman,a,226,OpenPlay,2019,RightFoot,12436,RasenBallsport Leipzig,Bayern Munich,1,1,2019-09-14 16:30:00,Joshua Kimmich,Pass
+317504,52,MissedShots,0.9330000305175781,0.5359999847412109,0.05898837372660637,Niklas Süle,a,75,FromCorner,2019,Head,12436,RasenBallsport Leipzig,Bayern Munich,1,1,2019-09-14 16:30:00,Joshua Kimmich,Aerial
+317508,63,SavedShot,0.8490000152587891,0.515,0.09675344079732895,Corentin Tolisso,a,3603,OpenPlay,2019,RightFoot,12436,RasenBallsport Leipzig,Bayern Munich,1,1,2019-09-14 16:30:00,Alphonso Davies,Pass
+317509,64,MissedShots,0.9440000152587891,0.49700000762939456,0.07863278687000275,Robert Lewandowski,a,227,FromCorner,2019,Head,12436,RasenBallsport Leipzig,Bayern Munich,1,1,2019-09-14 16:30:00,Joshua Kimmich,Aerial
+317512,74,MissedShots,0.7019999694824218,0.3370000076293945,0.012045148760080338,Niklas Süle,a,75,FromCorner,2019,RightFoot,12436,RasenBallsport Leipzig,Bayern Munich,1,1,2019-09-14 16:30:00,,None
+317513,75,BlockedShot,0.720999984741211,0.710999984741211,0.009249137714505196,Lucas Hernández,a,2276,FromCorner,2019,LeftFoot,12436,RasenBallsport Leipzig,Bayern Munich,1,1,2019-09-14 16:30:00,Thiago Alcántara,HeadPass
+317514,76,SavedShot,0.7569999694824219,0.31,0.016241436824202538,Kingsley Coman,a,226,OpenPlay,2019,LeftFoot,12436,RasenBallsport Leipzig,Bayern Munich,1,1,2019-09-14 16:30:00,Corentin Tolisso,Chipped
+317517,91,SavedShot,0.9730000305175781,0.43,0.3973733186721802,Niklas Süle,a,75,SetPiece,2019,Head,12436,RasenBallsport Leipzig,Bayern Munich,1,1,2019-09-14 16:30:00,Joshua Kimmich,Chipped

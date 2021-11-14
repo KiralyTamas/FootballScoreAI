@@ -1,0 +1,23 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+3254,5,BlockedShot,0.7759999847412109,0.3089999961853027,0.058987557888031006,Paul Lasne,h,3741,DirectFreekick,2014,LeftFoot,5969,Montpellier,Lille,1,2,2015-02-07 19:00:00,,Standard
+3257,16,BlockedShot,0.8540000152587891,0.345,0.07726879417896271,Lucas Barrios,h,4694,OpenPlay,2014,LeftFoot,5969,Montpellier,Lille,1,2,2015-02-07 19:00:00,Morgan Sanson,Pass
+3258,21,SavedShot,0.6980000305175781,0.6619999694824219,0.01084075402468443,Lucas Barrios,h,4694,OpenPlay,2014,RightFoot,5969,Montpellier,Lille,1,2,2015-02-07 19:00:00,Kévin Berigaud,LayOff
+3259,25,SavedShot,0.754000015258789,0.7140000152587891,0.01697533205151558,Kévin Berigaud,h,3342,OpenPlay,2014,RightFoot,5969,Montpellier,Lille,1,2,2015-02-07 19:00:00,Joris Marveaux,Pass
+3260,25,MissedShots,0.8630000305175781,0.3290000152587891,0.017813632264733315,Paul Lasne,h,3741,OpenPlay,2014,Head,5969,Montpellier,Lille,1,2,2015-02-07 19:00:00,,None
+3261,28,SavedShot,0.955999984741211,0.3290000152587891,0.09668946266174316,Lucas Barrios,h,4694,OpenPlay,2014,RightFoot,5969,Montpellier,Lille,1,2,2015-02-07 19:00:00,Joris Marveaux,Throughball
+3262,32,SavedShot,0.7119999694824218,0.3820000076293945,0.03987378999590874,Kévin Berigaud,h,3342,DirectFreekick,2014,RightFoot,5969,Montpellier,Lille,1,2,2015-02-07 19:00:00,,Standard
+3263,39,BlockedShot,0.855,0.6909999847412109,0.0403677336871624,Morgan Sanson,h,3696,OpenPlay,2014,RightFoot,5969,Montpellier,Lille,1,2,2015-02-07 19:00:00,Paul Lasne,Pass
+3264,39,SavedShot,0.879000015258789,0.46,0.04628284275531769,Lucas Barrios,h,4694,OpenPlay,2014,Head,5969,Montpellier,Lille,1,2,2015-02-07 19:00:00,Bryan Dabo,Cross
+3269,66,SavedShot,0.93,0.46,0.05991247668862343,Souleymane Camara,h,3590,FromCorner,2014,Head,5969,Montpellier,Lille,1,2,2015-02-07 19:00:00,Daniel Congré,HeadPass
+3270,71,MissedShots,0.905,0.4229999923706055,0.016670724377036095,Souleymane Camara,h,3590,FromCorner,2014,Head,5969,Montpellier,Lille,1,2,2015-02-07 19:00:00,Morgan Sanson,Aerial
+3274,91,BlockedShot,0.86,0.31799999237060544,0.02132347971200943,Bryan Dabo,h,3340,OpenPlay,2014,RightFoot,5969,Montpellier,Lille,1,2,2015-02-07 19:00:00,Morgan Sanson,Cross
+3275,92,Goal,0.955999984741211,0.39,0.08386924117803574,Bryan Dabo,h,3340,FromCorner,2014,RightFoot,5969,Montpellier,Lille,1,2,2015-02-07 19:00:00,Lucas Barrios,HeadPass
+3255,8,SavedShot,0.8590000152587891,0.4470000076293945,0.11082892119884491,Idrissa Gueye,a,668,OpenPlay,2014,RightFoot,5969,Montpellier,Lille,1,2,2015-02-07 19:00:00,,TakeOn
+3256,8,Goal,0.95,0.575,0.48929330706596375,Nolan Roux,a,3512,OpenPlay,2014,LeftFoot,5969,Montpellier,Lille,1,2,2015-02-07 19:00:00,,Rebound
+3265,45,MissedShots,0.8619999694824219,0.48200000762939454,0.12159589678049088,Rony Lopes,a,3362,OpenPlay,2014,LeftFoot,5969,Montpellier,Lille,1,2,2015-02-07 19:00:00,Kevin Koubemba,Pass
+3266,52,SavedShot,0.9290000152587891,0.524000015258789,0.44453710317611694,Rony Lopes,a,3362,OpenPlay,2014,RightFoot,5969,Montpellier,Lille,1,2,2015-02-07 19:00:00,Sébastien Corchia,Cross
+3267,52,Goal,0.9690000152587891,0.5029999923706054,0.859775722026825,Rony Lopes,a,3362,OpenPlay,2014,LeftFoot,5969,Montpellier,Lille,1,2,2015-02-07 19:00:00,,Rebound
+3268,61,MissedShots,0.8719999694824219,0.28299999237060547,0.059029869735240936,Jonathan Delaplace,a,3668,OpenPlay,2014,RightFoot,5969,Montpellier,Lille,1,2,2015-02-07 19:00:00,Idrissa Gueye,Pass
+3271,85,MissedShots,0.8580000305175781,0.6619999694824219,0.07062175124883652,Idrissa Gueye,a,668,OpenPlay,2014,RightFoot,5969,Montpellier,Lille,1,2,2015-02-07 19:00:00,Divock Origi,Pass
+3272,87,BlockedShot,0.8490000152587891,0.6959999847412109,0.05588735267519951,Divock Origi,a,484,OpenPlay,2014,RightFoot,5969,Montpellier,Lille,1,2,2015-02-07 19:00:00,Idrissa Gueye,Pass
+3273,87,SavedShot,0.895,0.5940000152587891,0.4501103460788727,Kevin Koubemba,a,4700,OpenPlay,2014,LeftFoot,5969,Montpellier,Lille,1,2,2015-02-07 19:00:00,Divock Origi,TakeOn

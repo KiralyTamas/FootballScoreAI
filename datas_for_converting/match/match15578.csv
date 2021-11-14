@@ -1,0 +1,23 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+397157,18,SavedShot,0.5820000076293945,0.685,0.010987228713929653,Radja Nainggolan,h,1251,OpenPlay,2020,RightFoot,15578,Cagliari,Benevento,1,2,2021-01-06 11:30:00,,BallRecovery
+397158,19,MissedShots,0.9019999694824219,0.5629999923706055,0.04840945824980736,Leonardo Pavoletti,h,1104,FromCorner,2020,Head,15578,Cagliari,Benevento,1,2,2021-01-06 11:30:00,Razvan Marin,Cross
+397159,19,Goal,0.950999984741211,0.4570000076293945,0.5718856453895569,João Pedro,h,1592,FromCorner,2020,RightFoot,15578,Cagliari,Benevento,1,2,2021-01-06 11:30:00,Leonardo Pavoletti,Rebound
+397160,28,MissedShots,0.7719999694824219,0.4279999923706055,0.01991276443004608,Radja Nainggolan,h,1251,FromCorner,2020,RightFoot,15578,Cagliari,Benevento,1,2,2021-01-06 11:30:00,,None
+397161,29,MissedShots,0.749000015258789,0.40400001525878904,0.015935754403471947,Radja Nainggolan,h,1251,FromCorner,2020,RightFoot,15578,Cagliari,Benevento,1,2,2021-01-06 11:30:00,,None
+397162,35,MissedShots,0.8190000152587891,0.4640000152587891,0.035912539809942245,Radja Nainggolan,h,1251,FromCorner,2020,RightFoot,15578,Cagliari,Benevento,1,2,2021-01-06 11:30:00,Razvan Marin,Cross
+397167,49,BlockedShot,0.7719999694824219,0.44599998474121094,0.011905670166015625,Radja Nainggolan,h,1251,OpenPlay,2020,RightFoot,15578,Cagliari,Benevento,1,2,2021-01-06 11:30:00,Leonardo Pavoletti,Aerial
+397168,53,MissedShots,0.919000015258789,0.47,0.09323868155479431,Luca Ceppitelli,h,1550,FromCorner,2020,Head,15578,Cagliari,Benevento,1,2,2021-01-06 11:30:00,Razvan Marin,Cross
+397169,59,SavedShot,0.795,0.35400001525878905,0.02264486439526081,Riccardo Sottil,h,6672,OpenPlay,2020,RightFoot,15578,Cagliari,Benevento,1,2,2021-01-06 11:30:00,Gabriele Zappa,Pass
+397173,79,MissedShots,0.8069999694824219,0.590999984741211,0.03885410726070404,Razvan Marin,h,8856,OpenPlay,2020,RightFoot,15578,Cagliari,Benevento,1,2,2021-01-06 11:30:00,Radja Nainggolan,Pass
+397174,85,SavedShot,0.9130000305175782,0.49,0.26488327980041504,Leonardo Pavoletti,h,1104,OpenPlay,2020,Head,15578,Cagliari,Benevento,1,2,2021-01-06 11:30:00,Gastón Pereiro,Chipped
+397177,95,SavedShot,0.870999984741211,0.40099998474121096,0.060626208782196045,Giovanni Simeone,h,1102,OpenPlay,2020,RightFoot,15578,Cagliari,Benevento,1,2,2021-01-06 11:30:00,,None
+397156,14,MissedShots,0.87,0.34200000762939453,0.3094809949398041,Marco Sau,a,1406,OpenPlay,2020,RightFoot,15578,Cagliari,Benevento,1,2,2021-01-06 11:30:00,Gianluca Lapadula,Throughball
+397163,37,MissedShots,0.865,0.515,0.057084571570158005,Roberto Insigne,a,1617,OpenPlay,2020,LeftFoot,15578,Cagliari,Benevento,1,2,2021-01-06 11:30:00,Artur Ionita,HeadPass
+397164,40,Goal,0.9069999694824219,0.40700000762939453,0.35116714239120483,Marco Sau,a,1406,OpenPlay,2020,RightFoot,15578,Cagliari,Benevento,1,2,2021-01-06 11:30:00,Pasquale Schiattarella,Throughball
+397165,43,Goal,0.92,0.46799999237060547,0.05739574134349823,Alessandro Tuia,a,8884,SetPiece,2020,Head,15578,Cagliari,Benevento,1,2,2021-01-06 11:30:00,Roberto Insigne,Aerial
+397166,47,SavedShot,0.895,0.5120000076293946,0.08778747916221619,Kamil Glik,a,1800,SetPiece,2020,Head,15578,Cagliari,Benevento,1,2,2021-01-06 11:30:00,Marco Sau,Cross
+397170,64,BlockedShot,0.8109999847412109,0.385,0.0567052885890007,Riccardo Improta,a,8883,OpenPlay,2020,LeftFoot,15578,Cagliari,Benevento,1,2,2021-01-06 11:30:00,Marco Sau,BallTouch
+397171,65,MissedShots,0.9530000305175781,0.34,0.011930304579436779,Riccardo Improta,a,8883,FromCorner,2020,Head,15578,Cagliari,Benevento,1,2,2021-01-06 11:30:00,Marco Sau,Aerial
+397172,78,SavedShot,0.9630000305175781,0.669000015258789,0.16086840629577637,Gianluca Caprari,a,1170,OpenPlay,2020,LeftFoot,15578,Cagliari,Benevento,1,2,2021-01-06 11:30:00,Pasquale Schiattarella,TakeOn
+397175,89,BlockedShot,0.8730000305175781,0.6840000152587891,0.06115437299013138,Gianluca Caprari,a,1170,OpenPlay,2020,RightFoot,15578,Cagliari,Benevento,1,2,2021-01-06 11:30:00,Pasquale Schiattarella,Chipped
+397176,89,BlockedShot,0.8540000152587891,0.46599998474121096,0.08567727357149124,Bryan Dabo,a,3340,OpenPlay,2020,RightFoot,15578,Cagliari,Benevento,1,2,2021-01-06 11:30:00,,Rebound

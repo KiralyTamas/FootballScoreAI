@@ -1,0 +1,21 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+89044,0,Goal,0.965,0.4879999923706055,0.6349060535430908,Carlos Carmona,h,2214,OpenPlay,2015,LeftFoot,1598,Sporting Gijon,Real Sociedad,5,1,2016-01-22 23:30:00,,None
+89045,8,Goal,0.9869999694824219,0.5279999923706055,0.9371732473373413,Dani Ndi,h,2497,OpenPlay,2015,Head,1598,Sporting Gijon,Real Sociedad,5,1,2016-01-22 23:30:00,Carlos Carmona,HeadPass
+89046,18,BlockedShot,0.740999984741211,0.5670000076293945,0.016515681520104408,Rachid,h,2220,FromCorner,2015,RightFoot,1598,Sporting Gijon,Real Sociedad,5,1,2016-01-22 23:30:00,,None
+89047,21,BlockedShot,0.97,0.25299999237060544,0.07731972634792328,Carlos Carmona,h,2214,OpenPlay,2015,RightFoot,1598,Sporting Gijon,Real Sociedad,5,1,2016-01-22 23:30:00,Jony,Chipped
+89051,43,Goal,0.9669999694824218,0.61,0.6893758773803711,Antonio Sanabria,h,2217,OpenPlay,2015,LeftFoot,1598,Sporting Gijon,Real Sociedad,5,1,2016-01-22 23:30:00,Sergio Álvarez,TakeOn
+89052,46,MissedShots,0.919000015258789,0.44299999237060544,0.4291204810142517,Antonio Sanabria,h,2217,OpenPlay,2015,LeftFoot,1598,Sporting Gijon,Real Sociedad,5,1,2016-01-22 23:30:00,Jony,BallTouch
+89055,52,SavedShot,0.87,0.41700000762939454,0.1236228197813034,Carlos Carmona,h,2214,OpenPlay,2015,RightFoot,1598,Sporting Gijon,Real Sociedad,5,1,2016-01-22 23:30:00,Jony,Pass
+89056,52,Goal,0.94,0.5320000076293945,0.7910665273666382,Antonio Sanabria,h,2217,OpenPlay,2015,RightFoot,1598,Sporting Gijon,Real Sociedad,5,1,2016-01-22 23:30:00,,TakeOn
+89060,77,SavedShot,0.8930000305175781,0.5640000152587891,0.08207117021083832,Rachid,h,2220,FromCorner,2015,RightFoot,1598,Sporting Gijon,Real Sociedad,5,1,2016-01-22 23:30:00,,None
+89061,80,Goal,0.9,0.5940000152587891,0.3424855172634125,Antonio Sanabria,h,2217,OpenPlay,2015,RightFoot,1598,Sporting Gijon,Real Sociedad,5,1,2016-01-22 23:30:00,Alen Halilovic,Pass
+89063,87,MissedShots,0.7069999694824218,0.24799999237060547,0.013137132860720158,Carlos Carmona,h,2214,OpenPlay,2015,RightFoot,1598,Sporting Gijon,Real Sociedad,5,1,2016-01-22 23:30:00,Antonio Sanabria,LayOff
+89048,27,MissedShots,0.8040000152587891,0.38599998474121094,0.05994519218802452,Carlos Vela,a,2416,OpenPlay,2015,LeftFoot,1598,Sporting Gijon,Real Sociedad,5,1,2016-01-22 23:30:00,Markel Bergara,TakeOn
+89049,36,SavedShot,0.975999984741211,0.5770000076293945,0.3623335063457489,Aritz Elustondo,a,2228,SetPiece,2015,Head,1598,Sporting Gijon,Real Sociedad,5,1,2016-01-22 23:30:00,Carlos Vela,Cross
+89050,36,Goal,0.8719999694824219,0.40599998474121096,0.06074688211083412,Carlos Vela,a,2416,OpenPlay,2015,LeftFoot,1598,Sporting Gijon,Real Sociedad,5,1,2016-01-22 23:30:00,,None
+89053,48,BlockedShot,0.9269999694824219,0.5029999923706054,0.08207343518733978,Jonathas,a,2480,OpenPlay,2015,RightFoot,1598,Sporting Gijon,Real Sociedad,5,1,2016-01-22 23:30:00,Xabi Prieto,Cross
+89054,48,MissedShots,0.985999984741211,0.42700000762939455,0.11167736351490021,Carlos Vela,a,2416,OpenPlay,2015,RightFoot,1598,Sporting Gijon,Real Sociedad,5,1,2016-01-22 23:30:00,,Rebound
+89057,54,MissedShots,0.8859999847412109,0.6270000076293946,0.054630640894174576,Héctor,a,2237,FromCorner,2015,LeftFoot,1598,Sporting Gijon,Real Sociedad,5,1,2016-01-22 23:30:00,Xabi Prieto,Pass
+89058,60,BlockedShot,0.7290000152587891,0.639000015258789,0.04894543066620827,Asier Illarramendi,a,2232,DirectFreekick,2015,RightFoot,1598,Sporting Gijon,Real Sociedad,5,1,2016-01-22 23:30:00,,Standard
+89059,69,SavedShot,0.7340000152587891,0.5570000076293945,0.01911727897822857,Jonathas,a,2480,OpenPlay,2015,RightFoot,1598,Sporting Gijon,Real Sociedad,5,1,2016-01-22 23:30:00,Mikel Oyarzabal,Pass
+89062,86,MissedShots,0.9130000305175782,0.485,0.04254598915576935,Jonathas,a,2480,FromCorner,2015,Head,1598,Sporting Gijon,Real Sociedad,5,1,2016-01-22 23:30:00,Carlos Vela,Aerial

@@ -1,0 +1,35 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+137953,8,MissedShots,0.8719999694824219,0.759000015258789,0.03558431193232536,Pablo Fornals,h,2335,OpenPlay,2016,RightFoot,2797,Malaga,Deportivo La Coruna,4,3,2016-11-26 16:00:00,Gonzalo Castro,TakeOn
+137954,10,MissedShots,0.7719999694824219,0.4279999923706055,0.08871430903673172,Juanpi,h,2343,DirectFreekick,2016,LeftFoot,2797,Malaga,Deportivo La Coruna,4,3,2016-11-26 16:00:00,,Standard
+137957,20,Goal,0.885,0.5,0.7432776093482971,Michael Santos,h,5145,Penalty,2016,RightFoot,2797,Malaga,Deportivo La Coruna,4,3,2016-11-26 16:00:00,,Standard
+137961,36,BlockedShot,0.799000015258789,0.5640000152587891,0.03610416501760483,Sandro Ramírez,h,2537,OpenPlay,2016,RightFoot,2797,Malaga,Deportivo La Coruna,4,3,2016-11-26 16:00:00,Ignacio Camacho,Pass
+137962,39,Goal,0.765,0.534000015258789,0.08629847317934036,Sandro Ramírez,h,2537,DirectFreekick,2016,RightFoot,2797,Malaga,Deportivo La Coruna,4,3,2016-11-26 16:00:00,,Standard
+137964,45,BlockedShot,0.9230000305175782,0.6580000305175782,0.08533976972103119,Pablo Fornals,h,2335,OpenPlay,2016,LeftFoot,2797,Malaga,Deportivo La Coruna,4,3,2016-11-26 16:00:00,,None
+137966,49,MissedShots,0.745999984741211,0.625999984741211,0.02767954394221306,Juanpi,h,2343,OpenPlay,2016,LeftFoot,2797,Malaga,Deportivo La Coruna,4,3,2016-11-26 16:00:00,Ignacio Camacho,Pass
+137969,55,Goal,0.8859999847412109,0.4520000076293945,0.12975217401981354,Michael Santos,h,5145,OpenPlay,2016,RightFoot,2797,Malaga,Deportivo La Coruna,4,3,2016-11-26 16:00:00,Pablo Fornals,Pass
+137970,61,MissedShots,0.855999984741211,0.785,0.031046509742736816,Youssef En-Nesyri,h,5169,OpenPlay,2016,LeftFoot,2797,Malaga,Deportivo La Coruna,4,3,2016-11-26 16:00:00,Gonzalo Castro,BallRecovery
+137985,91,Goal,0.7480000305175781,0.580999984741211,0.01663970574736595,Javi Ontiveros,h,2578,OpenPlay,2016,RightFoot,2797,Malaga,Deportivo La Coruna,4,3,2016-11-26 16:00:00,Gonzalo Castro,TakeOn
+137952,3,Goal,0.885,0.5,0.7432776093482971,Celso Borges,a,2466,Penalty,2016,RightFoot,2797,Malaga,Deportivo La Coruna,4,3,2016-11-26 16:00:00,,Standard
+137955,11,SavedShot,0.8280000305175781,0.36700000762939455,0.06277675181627274,Bruno Gama,a,5084,OpenPlay,2016,LeftFoot,2797,Malaga,Deportivo La Coruna,4,3,2016-11-26 16:00:00,,None
+137956,16,MissedShots,0.860999984741211,0.36700000762939455,0.1308244913816452,Florin Andone,a,4068,OpenPlay,2016,RightFoot,2797,Malaga,Deportivo La Coruna,4,3,2016-11-26 16:00:00,Juanfran,Throughball
+137958,25,MissedShots,0.7130000305175781,0.43099998474121093,0.01135089062154293,Guilherme,a,1891,OpenPlay,2016,RightFoot,2797,Malaga,Deportivo La Coruna,4,3,2016-11-26 16:00:00,,None
+137959,29,BlockedShot,0.8640000152587891,0.5779999923706055,0.033298783004283905,Luisinho,a,2500,SetPiece,2016,LeftFoot,2797,Malaga,Deportivo La Coruna,4,3,2016-11-26 16:00:00,Faycal Fajr,Cross
+137960,29,MissedShots,0.710999984741211,0.415,0.01167334895581007,Juanfran,a,2316,SetPiece,2016,RightFoot,2797,Malaga,Deportivo La Coruna,4,3,2016-11-26 16:00:00,,Rebound
+137963,45,MissedShots,0.8880000305175781,0.28200000762939453,0.034969087690114975,Bruno Gama,a,5084,OpenPlay,2016,RightFoot,2797,Malaga,Deportivo La Coruna,4,3,2016-11-26 16:00:00,Faycal Fajr,Pass
+137965,48,BlockedShot,0.7280000305175781,0.500999984741211,0.014426876790821552,Celso Borges,a,2466,OpenPlay,2016,RightFoot,2797,Malaga,Deportivo La Coruna,4,3,2016-11-26 16:00:00,,None
+137967,52,MissedShots,0.6819999694824219,0.4779999923706055,0.00970388576388359,Guilherme,a,1891,OpenPlay,2016,RightFoot,2797,Malaga,Deportivo La Coruna,4,3,2016-11-26 16:00:00,,None
+137968,54,MissedShots,0.919000015258789,0.25299999237060544,0.03552261367440224,Florin Andone,a,4068,OpenPlay,2016,RightFoot,2797,Malaga,Deportivo La Coruna,4,3,2016-11-26 16:00:00,,None
+137971,62,SavedShot,0.895,0.5840000152587891,0.3139496445655823,Marlos Moreno,a,5083,OpenPlay,2016,RightFoot,2797,Malaga,Deportivo La Coruna,4,3,2016-11-26 16:00:00,Bruno Gama,Throughball
+137972,62,BlockedShot,0.9,0.5779999923706055,0.06492683291435242,Florin Andone,a,4068,OpenPlay,2016,RightFoot,2797,Malaga,Deportivo La Coruna,4,3,2016-11-26 16:00:00,Marlos Moreno,HeadPass
+137973,66,BlockedShot,0.81,0.43400001525878906,0.019456876441836357,Faycal Fajr,a,2319,OpenPlay,2016,RightFoot,2797,Malaga,Deportivo La Coruna,4,3,2016-11-26 16:00:00,,Aerial
+137974,66,BlockedShot,0.86,0.5459999847412109,0.09468115866184235,Florin Andone,a,4068,OpenPlay,2016,RightFoot,2797,Malaga,Deportivo La Coruna,4,3,2016-11-26 16:00:00,Marlos Moreno,Pass
+137975,69,MissedShots,0.93,0.3189999961853027,0.012637108564376831,Guilherme,a,1891,FromCorner,2016,Head,2797,Malaga,Deportivo La Coruna,4,3,2016-11-26 16:00:00,Carles Gil,Cross
+137976,69,SavedShot,0.8669999694824219,0.32799999237060545,0.049411166459321976,Florin Andone,a,4068,OpenPlay,2016,RightFoot,2797,Malaga,Deportivo La Coruna,4,3,2016-11-26 16:00:00,Marlos Moreno,Pass
+137977,71,Goal,0.924000015258789,0.515,0.3448655307292938,Florin Andone,a,4068,OpenPlay,2016,Head,2797,Malaga,Deportivo La Coruna,4,3,2016-11-26 16:00:00,Carles Gil,Cross
+137978,77,SavedShot,0.874000015258789,0.524000015258789,0.047474611550569534,Celso Borges,a,2466,OpenPlay,2016,Head,2797,Malaga,Deportivo La Coruna,4,3,2016-11-26 16:00:00,Juanfran,Cross
+137979,77,SavedShot,0.8240000152587891,0.43599998474121093,0.07189836353063583,Florin Andone,a,4068,OpenPlay,2016,RightFoot,2797,Malaga,Deportivo La Coruna,4,3,2016-11-26 16:00:00,Bruno Gama,TakeOn
+137980,79,BlockedShot,0.8119999694824219,0.46599998474121096,0.15351057052612305,Guilherme,a,1891,DirectFreekick,2016,RightFoot,2797,Malaga,Deportivo La Coruna,4,3,2016-11-26 16:00:00,,Standard
+137981,79,BlockedShot,0.81,0.625999984741211,0.025627847760915756,Bruno Gama,a,5084,SetPiece,2016,LeftFoot,2797,Malaga,Deportivo La Coruna,4,3,2016-11-26 16:00:00,,Rebound
+137982,81,Goal,0.9369999694824219,0.5379999923706055,0.33498892188072205,Celso Borges,a,2466,SetPiece,2016,OtherBodyPart,2797,Malaga,Deportivo La Coruna,4,3,2016-11-26 16:00:00,,None
+137983,88,MissedShots,0.740999984741211,0.775,0.008355443365871906,Luisinho,a,2500,OpenPlay,2016,LeftFoot,2797,Malaga,Deportivo La Coruna,4,3,2016-11-26 16:00:00,Carles Gil,Chipped
+137984,88,MissedShots,0.904000015258789,0.415,0.08002141118049622,Florin Andone,a,4068,OpenPlay,2016,RightFoot,2797,Malaga,Deportivo La Coruna,4,3,2016-11-26 16:00:00,Juanfran,Cross

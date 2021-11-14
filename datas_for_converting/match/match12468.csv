@@ -1,0 +1,30 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+325404,0,Goal,0.7480000305175781,0.54,0.025798577815294266,Marius Bülter,h,7879,OpenPlay,2019,RightFoot,12468,Union Berlin,Freiburg,2,0,2019-10-19 14:30:00,Christopher Lenz,TakeOn
+325406,9,ShotOnPost,0.795,0.37,0.04700931906700134,Marcus Ingvartsen,h,7883,OpenPlay,2019,LeftFoot,12468,Union Berlin,Freiburg,2,0,2019-10-19 14:30:00,Robert Andrich,BallTouch
+325413,40,MissedShots,0.815,0.620999984741211,0.05285292863845825,Christopher Lenz,h,7876,OpenPlay,2019,LeftFoot,12468,Union Berlin,Freiburg,2,0,2019-10-19 14:30:00,Christian Gentner,Chipped
+325414,44,SavedShot,0.8969999694824219,0.545,0.22613300383090973,Marcus Ingvartsen,h,7883,OpenPlay,2019,Head,12468,Union Berlin,Freiburg,2,0,2019-10-19 14:30:00,Christian Gentner,Cross
+325415,53,BlockedShot,0.885,0.455,0.01665269210934639,Sebastian Andersson,h,7880,SetPiece,2019,Head,12468,Union Berlin,Freiburg,2,0,2019-10-19 14:30:00,Robert Andrich,Aerial
+325416,53,BlockedShot,0.8630000305175781,0.40700000762939453,0.0685773640871048,Marcus Ingvartsen,h,7883,SetPiece,2019,LeftFoot,12468,Union Berlin,Freiburg,2,0,2019-10-19 14:30:00,,BallTouch
+325417,54,MissedShots,0.8930000305175781,0.40599998474121096,0.08572675287723541,Christian Gentner,h,60,OpenPlay,2019,LeftFoot,12468,Union Berlin,Freiburg,2,0,2019-10-19 14:30:00,Marius Bülter,Cross
+325418,55,MissedShots,0.784000015258789,0.3240000152587891,0.030080411583185196,Michael Parensen,h,7996,OpenPlay,2019,RightFoot,12468,Union Berlin,Freiburg,2,0,2019-10-19 14:30:00,Christopher Trimmel,Pass
+325419,56,BlockedShot,0.865,0.6869999694824219,0.06107637286186218,Marius Bülter,h,7879,OpenPlay,2019,LeftFoot,12468,Union Berlin,Freiburg,2,0,2019-10-19 14:30:00,,None
+325420,60,MissedShots,0.8969999694824219,0.5640000152587891,0.01902315579354763,Keven Schlotterbeck,h,7401,SetPiece,2019,Head,12468,Union Berlin,Freiburg,2,0,2019-10-19 14:30:00,Christopher Trimmel,Aerial
+325421,61,MissedShots,0.75,0.6940000152587891,0.017062297090888023,Christian Gentner,h,60,OpenPlay,2019,RightFoot,12468,Union Berlin,Freiburg,2,0,2019-10-19 14:30:00,,None
+325422,67,BlockedShot,0.745,0.639000015258789,0.02351958490908146,Robert Andrich,h,7877,OpenPlay,2019,RightFoot,12468,Union Berlin,Freiburg,2,0,2019-10-19 14:30:00,Christopher Lenz,Pass
+325423,68,ShotOnPost,0.92,0.5659999847412109,0.026184532791376114,Marvin Friedrich,h,370,FromCorner,2019,Head,12468,Union Berlin,Freiburg,2,0,2019-10-19 14:30:00,Christopher Trimmel,Aerial
+325427,80,SavedShot,0.955999984741211,0.53,0.6766886115074158,Sebastian Andersson,h,7880,OpenPlay,2019,RightFoot,12468,Union Berlin,Freiburg,2,0,2019-10-19 14:30:00,Christopher Lenz,Pass
+325428,83,Goal,0.78,0.33599998474121096,0.031620729714632034,Marcus Ingvartsen,h,7883,OpenPlay,2019,LeftFoot,12468,Union Berlin,Freiburg,2,0,2019-10-19 14:30:00,Robert Andrich,Pass
+325431,89,BlockedShot,0.7519999694824219,0.45599998474121095,0.04018901288509369,Joshua Mees,h,7885,OpenPlay,2019,RightFoot,12468,Union Berlin,Freiburg,2,0,2019-10-19 14:30:00,Anthony Ujah,Pass
+325432,92,SavedShot,0.730999984741211,0.4929999923706055,0.02858862280845642,Joshua Mees,h,7885,OpenPlay,2019,LeftFoot,12468,Union Berlin,Freiburg,2,0,2019-10-19 14:30:00,Robert Andrich,Pass
+325405,8,BlockedShot,0.9719999694824218,0.41900001525878905,0.09280941635370255,Nicolas Höfler,a,4250,FromCorner,2019,RightFoot,12468,Union Berlin,Freiburg,2,0,2019-10-19 14:30:00,Christian Günter,Cross
+325407,12,SavedShot,0.7669999694824219,0.27899999618530275,0.01754593476653099,Philipp Lienhart,a,2611,OpenPlay,2019,RightFoot,12468,Union Berlin,Freiburg,2,0,2019-10-19 14:30:00,Amir Abrashi,Pass
+325408,13,SavedShot,0.850999984741211,0.754000015258789,0.025748692452907562,Lucas Höler,a,6475,OpenPlay,2019,RightFoot,12468,Union Berlin,Freiburg,2,0,2019-10-19 14:30:00,Christian Günter,Pass
+325409,14,SavedShot,0.8380000305175781,0.7780000305175782,0.02077428065240383,Christian Günter,a,4243,OpenPlay,2019,LeftFoot,12468,Union Berlin,Freiburg,2,0,2019-10-19 14:30:00,Nicolas Höfler,Chipped
+325410,28,MissedShots,0.8519999694824218,0.5670000076293945,0.016605282202363014,Gian-Luca Waldschmidt,a,294,OpenPlay,2019,Head,12468,Union Berlin,Freiburg,2,0,2019-10-19 14:30:00,Amir Abrashi,Cross
+325411,35,BlockedShot,0.855999984741211,0.6940000152587891,0.040234606713056564,Gian-Luca Waldschmidt,a,294,OpenPlay,2019,LeftFoot,12468,Union Berlin,Freiburg,2,0,2019-10-19 14:30:00,Christian Günter,Pass
+325412,38,SavedShot,0.8169999694824219,0.6940000152587891,0.02976272627711296,Jonathan Schmid,a,81,FromCorner,2019,RightFoot,12468,Union Berlin,Freiburg,2,0,2019-10-19 14:30:00,Christian Günter,Pass
+325424,73,BlockedShot,0.865999984741211,0.44299999237060544,0.08951335400342941,Nils Petersen,a,4248,OpenPlay,2019,RightFoot,12468,Union Berlin,Freiburg,2,0,2019-10-19 14:30:00,Vincenzo Grifo,Pass
+325425,74,BlockedShot,0.8590000152587891,0.5129999923706055,0.08861075341701508,Nils Petersen,a,4248,OpenPlay,2019,LeftFoot,12468,Union Berlin,Freiburg,2,0,2019-10-19 14:30:00,Janik Haberer,Pass
+325426,75,BlockedShot,0.840999984741211,0.35900001525878905,0.03383428975939751,Vincenzo Grifo,a,5266,OpenPlay,2019,RightFoot,12468,Union Berlin,Freiburg,2,0,2019-10-19 14:30:00,Jonathan Schmid,Cross
+325429,84,MissedShots,0.9069999694824219,0.4759999847412109,0.05771460011601448,Robin Koch,a,6273,OpenPlay,2019,Head,12468,Union Berlin,Freiburg,2,0,2019-10-19 14:30:00,Christian Günter,Aerial
+325430,88,MissedShots,0.874000015258789,0.47,0.05242447555065155,Nils Petersen,a,4248,OpenPlay,2019,RightFoot,12468,Union Berlin,Freiburg,2,0,2019-10-19 14:30:00,Janik Haberer,Cross

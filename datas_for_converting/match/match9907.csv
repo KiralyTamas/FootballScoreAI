@@ -1,0 +1,26 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+297590,6,Goal,0.764000015258789,0.3,0.009066418744623661,Radja Nainggolan,h,1251,FromCorner,2018,RightFoot,9907,Inter,Juventus,1,1,2019-04-27 19:30:00,Matteo Politano,Chipped
+297592,11,SavedShot,0.8919999694824219,0.6809999847412109,0.07694872468709946,Mauro Icardi,h,1513,OpenPlay,2018,LeftFoot,9907,Inter,Juventus,1,1,2019-04-27 19:30:00,Matías Vecino,Pass
+297593,11,SavedShot,0.965,0.485,0.5273595452308655,Stefan de Vrij,h,1541,FromCorner,2018,Head,9907,Inter,Juventus,1,1,2019-04-27 19:30:00,Marcelo Brozovic,Cross
+297594,16,MissedShots,0.7809999847412109,0.41900001525878905,0.021490778774023056,Radja Nainggolan,h,1251,FromCorner,2018,RightFoot,9907,Inter,Juventus,1,1,2019-04-27 19:30:00,,None
+297595,16,SavedShot,0.8619999694824219,0.69,0.031984180212020874,Ivan Perisic,h,448,FromCorner,2018,RightFoot,9907,Inter,Juventus,1,1,2019-04-27 19:30:00,Radja Nainggolan,TakeOn
+297597,21,MissedShots,0.9430000305175781,0.7519999694824219,0.028013847768306732,Ivan Perisic,h,448,SetPiece,2018,LeftFoot,9907,Inter,Juventus,1,1,2019-04-27 19:30:00,,None
+297598,23,MissedShots,0.725999984741211,0.605,0.01817469671368599,Ivan Perisic,h,448,OpenPlay,2018,RightFoot,9907,Inter,Juventus,1,1,2019-04-27 19:30:00,Mauro Icardi,Pass
+297599,28,BlockedShot,0.92,0.47400001525878904,0.10002368688583374,Mauro Icardi,h,1513,FromCorner,2018,RightFoot,9907,Inter,Juventus,1,1,2019-04-27 19:30:00,Stefan de Vrij,BallTouch
+297600,29,MissedShots,0.9319999694824219,0.485,0.06065043434500694,Mauro Icardi,h,1513,FromCorner,2018,Head,9907,Inter,Juventus,1,1,2019-04-27 19:30:00,Matteo Politano,Aerial
+297603,54,MissedShots,0.9119999694824219,0.285,0.05550730973482132,Danilo D&#039;Ambrosio,h,1523,OpenPlay,2018,RightFoot,9907,Inter,Juventus,1,1,2019-04-27 19:30:00,,TakeOn
+297604,56,MissedShots,0.7530000305175781,0.33299999237060546,0.018071457743644714,Ivan Perisic,h,448,SetPiece,2018,LeftFoot,9907,Inter,Juventus,1,1,2019-04-27 19:30:00,Marcelo Brozovic,Pass
+297608,69,SavedShot,0.9219999694824219,0.635,0.33933138847351074,Ivan Perisic,h,448,OpenPlay,2018,RightFoot,9907,Inter,Juventus,1,1,2019-04-27 19:30:00,Mauro Icardi,Pass
+297611,79,SavedShot,0.9059999847412109,0.25,0.03355313464999199,João Mário,h,1512,OpenPlay,2018,RightFoot,9907,Inter,Juventus,1,1,2019-04-27 19:30:00,Borja Valero,Pass
+297612,80,MissedShots,0.8909999847412109,0.639000015258789,0.0119917131960392,Ivan Perisic,h,448,FromCorner,2018,Head,9907,Inter,Juventus,1,1,2019-04-27 19:30:00,João Mário,Cross
+297613,83,MissedShots,0.7619999694824219,0.5629999923706055,0.024165267124772072,Lautaro Martínez,h,7006,OpenPlay,2018,LeftFoot,9907,Inter,Juventus,1,1,2019-04-27 19:30:00,Matías Vecino,Pass
+297589,0,SavedShot,0.705,0.4640000152587891,0.013209238648414612,Leonardo Bonucci,a,1287,OpenPlay,2018,RightFoot,9907,Inter,Juventus,1,1,2019-04-27 19:30:00,,BallRecovery
+297591,9,MissedShots,0.8069999694824219,0.624000015258789,0.03436455503106117,Giorgio Chiellini,a,1576,OpenPlay,2018,RightFoot,9907,Inter,Juventus,1,1,2019-04-27 19:30:00,,None
+297596,17,MissedShots,0.745,0.48400001525878905,0.01864653080701828,Federico Bernardeschi,a,1424,OpenPlay,2018,LeftFoot,9907,Inter,Juventus,1,1,2019-04-27 19:30:00,Cristiano Ronaldo,Pass
+297601,30,MissedShots,0.735,0.675,0.014904443174600601,Cristiano Ronaldo,a,2371,OpenPlay,2018,RightFoot,9907,Inter,Juventus,1,1,2019-04-27 19:30:00,Alex Sandro,Pass
+297602,34,MissedShots,0.74,0.295,0.015362818725407124,João Cancelo,a,2379,FromCorner,2018,RightFoot,9907,Inter,Juventus,1,1,2019-04-27 19:30:00,Juan Cuadrado,Pass
+297605,58,MissedShots,0.8619999694824219,0.27399999618530274,0.03105972893536091,Juan Cuadrado,a,1089,OpenPlay,2018,RightFoot,9907,Inter,Juventus,1,1,2019-04-27 19:30:00,,None
+297606,60,BlockedShot,0.9030000305175782,0.5179999923706055,0.3591742217540741,Cristiano Ronaldo,a,2371,OpenPlay,2018,RightFoot,9907,Inter,Juventus,1,1,2019-04-27 19:30:00,João Cancelo,Cross
+297607,61,Goal,0.84,0.32599998474121095,0.038683272898197174,Cristiano Ronaldo,a,2371,OpenPlay,2018,LeftFoot,9907,Inter,Juventus,1,1,2019-04-27 19:30:00,Miralem Pjanic,Pass
+297609,76,SavedShot,0.825,0.36900001525878906,0.02594858594238758,Miralem Pjanic,a,1290,OpenPlay,2018,RightFoot,9907,Inter,Juventus,1,1,2019-04-27 19:30:00,Leonardo Spinazzola,Cross
+297610,78,MissedShots,0.7969999694824219,0.385,0.02983527071774006,Emre Can,a,604,OpenPlay,2018,RightFoot,9907,Inter,Juventus,1,1,2019-04-27 19:30:00,Juan Cuadrado,Pass

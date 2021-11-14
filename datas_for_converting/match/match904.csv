@@ -1,0 +1,20 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+101738,6,BlockedShot,0.7330000305175781,0.41700000762939454,0.05013371631503105,Aleksandar Trajkovski,h,1837,DirectFreekick,2015,RightFoot,904,Palermo,Sampdoria,2,0,2016-05-01 17:00:00,,Standard
+101740,11,SavedShot,0.8919999694824219,0.575,0.03157757595181465,Oscar Hiljemark,h,1284,OpenPlay,2015,Head,904,Palermo,Sampdoria,2,0,2016-05-01 17:00:00,,None
+101742,18,Goal,0.895,0.5729999923706055,0.3851293623447418,Franco Vázquez,h,1836,OpenPlay,2015,LeftFoot,904,Palermo,Sampdoria,2,0,2016-05-01 17:00:00,Alberto Gilardino,Tackle
+101748,39,SavedShot,0.8919999694824219,0.769000015258789,0.032011181116104126,Michel Morganella,h,1267,OpenPlay,2015,RightFoot,904,Palermo,Sampdoria,2,0,2016-05-01 17:00:00,Alberto Gilardino,Pass
+101749,57,BlockedShot,0.7630000305175781,0.3970000076293945,0.06673180311918259,Enzo Maresca,h,1835,DirectFreekick,2015,RightFoot,904,Palermo,Sampdoria,2,0,2016-05-01 17:00:00,,Standard
+101750,66,MissedShots,0.8830000305175781,0.42700000762939455,0.09416187554597855,Enzo Maresca,h,1835,OpenPlay,2015,RightFoot,904,Palermo,Sampdoria,2,0,2016-05-01 17:00:00,Alberto Gilardino,HeadPass
+101751,72,MissedShots,0.9009999847412109,0.28700000762939454,0.031235646456480026,Franco Vázquez,h,1836,FromCorner,2015,LeftFoot,904,Palermo,Sampdoria,2,0,2016-05-01 17:00:00,,None
+101752,74,BlockedShot,0.8680000305175781,0.43200000762939456,0.16950704157352448,Franco Vázquez,h,1836,OpenPlay,2015,LeftFoot,904,Palermo,Sampdoria,2,0,2016-05-01 17:00:00,Andrea Rispoli,TakeOn
+101753,74,SavedShot,0.9080000305175782,0.590999984741211,0.3881612718105316,Alberto Gilardino,h,1552,OpenPlay,2015,LeftFoot,904,Palermo,Sampdoria,2,0,2016-05-01 17:00:00,Franco Vázquez,Pass
+101754,77,MissedShots,0.8959999847412109,0.145,0.0481705367565155,Franco Vázquez,h,1836,DirectFreekick,2015,LeftFoot,904,Palermo,Sampdoria,2,0,2016-05-01 17:00:00,,Standard
+101739,9,MissedShots,0.9490000152587891,0.3820000076293945,0.08939682692289352,Fabio Quagliarella,a,1230,OpenPlay,2015,RightFoot,904,Palermo,Sampdoria,2,0,2016-05-01 17:00:00,Ricardo Álvarez,Chipped
+101741,16,SavedShot,0.9159999847412109,0.3679999923706055,0.06670556217432022,Fabio Quagliarella,a,1230,OpenPlay,2015,RightFoot,904,Palermo,Sampdoria,2,0,2016-05-01 17:00:00,Lorenzo De Silvestri,Cross
+101743,23,SavedShot,0.955999984741211,0.7580000305175781,0.03616710752248764,Ricardo Álvarez,a,1231,OpenPlay,2015,LeftFoot,904,Palermo,Sampdoria,2,0,2016-05-01 17:00:00,Fernando,Pass
+101744,23,BlockedShot,0.9109999847412109,0.43200000762939456,0.1039331778883934,Lorenzo De Silvestri,a,1193,OpenPlay,2015,LeftFoot,904,Palermo,Sampdoria,2,0,2016-05-01 17:00:00,,Rebound
+101745,24,BlockedShot,0.8080000305175781,0.3290000152587891,0.028128400444984436,Roberto Soriano,a,1810,FromCorner,2015,RightFoot,904,Palermo,Sampdoria,2,0,2016-05-01 17:00:00,Fernando,Cross
+101746,32,BlockedShot,0.7519999694824219,0.7480000305175781,0.015968604013323784,Ricardo Álvarez,a,1231,OpenPlay,2015,LeftFoot,904,Palermo,Sampdoria,2,0,2016-05-01 17:00:00,Andrea Ranocchia,Pass
+101747,35,SavedShot,0.7709999847412109,0.28200000762939453,0.021063916385173798,Ricardo Álvarez,a,1231,OpenPlay,2015,LeftFoot,904,Palermo,Sampdoria,2,0,2016-05-01 17:00:00,,TakeOn
+101755,84,OwnGoal,0.03,0.4759999847412109,0,Nenad Krsticic,a,1808,OpenPlay,2015,RightFoot,904,Palermo,Sampdoria,2,0,2016-05-01 17:00:00,,None
+101756,86,MissedShots,0.909000015258789,0.5620000076293945,0.08915085345506668,Luis Muriel,a,1229,SetPiece,2015,Head,904,Palermo,Sampdoria,2,0,2016-05-01 17:00:00,Antonio Cassano,Cross

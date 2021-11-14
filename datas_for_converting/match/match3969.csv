@@ -1,0 +1,24 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+140960,12,Goal,0.8209999847412109,0.5590000152587891,0.061559636145830154,Florin Andone,h,4068,OpenPlay,2016,RightFoot,3969,Deportivo La Coruna,Atletico Madrid,1,1,2017-03-02 19:45:00,,BallRecovery
+140961,19,MissedShots,0.740999984741211,0.355,0.01932128518819809,Emre Colak,h,5080,OpenPlay,2016,LeftFoot,3969,Deportivo La Coruna,Atletico Madrid,1,1,2017-03-02 19:45:00,,None
+140962,22,BlockedShot,0.7380000305175781,0.6079999923706054,0.024580473080277443,Pedro Mosquera,h,2320,OpenPlay,2016,LeftFoot,3969,Deportivo La Coruna,Atletico Madrid,1,1,2017-03-02 19:45:00,,BallTouch
+140963,22,MissedShots,0.784000015258789,0.23100000381469726,0.02537962608039379,Juanfran,h,2316,OpenPlay,2016,RightFoot,3969,Deportivo La Coruna,Atletico Madrid,1,1,2017-03-02 19:45:00,Celso Borges,Pass
+140964,28,MissedShots,0.8930000305175781,0.33,0.0730011910200119,Gaël Kakuta,h,2549,OpenPlay,2016,RightFoot,3969,Deportivo La Coruna,Atletico Madrid,1,1,2017-03-02 19:45:00,Pedro Mosquera,Pass
+140966,35,MissedShots,0.9319999694824219,0.4279999923706055,0.13826212286949158,Celso Borges,h,2466,OpenPlay,2016,Head,3969,Deportivo La Coruna,Atletico Madrid,1,1,2017-03-02 19:45:00,Emre Colak,Cross
+140967,37,MissedShots,0.905,0.3029999923706055,0.08999312669038773,Florin Andone,h,4068,OpenPlay,2016,RightFoot,3969,Deportivo La Coruna,Atletico Madrid,1,1,2017-03-02 19:45:00,,TakeOn
+140968,37,BlockedShot,0.775,0.47,0.03738231956958771,Celso Borges,h,2466,OpenPlay,2016,LeftFoot,3969,Deportivo La Coruna,Atletico Madrid,1,1,2017-03-02 19:45:00,,Rebound
+140971,44,SavedShot,0.9390000152587891,0.345,0.03786919265985489,Pedro Mosquera,h,2320,FromCorner,2016,LeftFoot,3969,Deportivo La Coruna,Atletico Madrid,1,1,2017-03-02 19:45:00,Emre Colak,Cross
+140973,58,BlockedShot,0.925,0.40900001525878904,0.05998853221535683,Florin Andone,h,4068,FromCorner,2016,Head,3969,Deportivo La Coruna,Atletico Madrid,1,1,2017-03-02 19:45:00,Emre Colak,Cross
+140977,69,MissedShots,0.9530000305175781,0.485,0.5812516808509827,Florin Andone,h,4068,OpenPlay,2016,Head,3969,Deportivo La Coruna,Atletico Madrid,1,1,2017-03-02 19:45:00,Faycal Fajr,Cross
+140978,72,BlockedShot,0.9619999694824218,0.3529999923706055,0.0679493173956871,Emre Colak,h,5080,OpenPlay,2016,LeftFoot,3969,Deportivo La Coruna,Atletico Madrid,1,1,2017-03-02 19:45:00,,None
+140979,74,MissedShots,0.765,0.4640000152587891,0.023739492520689964,Faycal Fajr,h,2319,SetPiece,2016,RightFoot,3969,Deportivo La Coruna,Atletico Madrid,1,1,2017-03-02 19:45:00,Emre Colak,Pass
+140958,1,SavedShot,0.720999984741211,0.3120000076293945,0.013402130454778671,Gabi,a,2268,OpenPlay,2016,RightFoot,3969,Deportivo La Coruna,Atletico Madrid,1,1,2017-03-02 19:45:00,Thomas Partey,Pass
+140959,9,MissedShots,0.659000015258789,0.24700000762939453,0.01015156414359808,Giménez,a,2278,OpenPlay,2016,RightFoot,3969,Deportivo La Coruna,Atletico Madrid,1,1,2017-03-02 19:45:00,Diego Godín,Pass
+140965,32,SavedShot,0.8180000305175781,0.47,0.05094122886657715,Ángel Correa,a,2275,OpenPlay,2016,RightFoot,3969,Deportivo La Coruna,Atletico Madrid,1,1,2017-03-02 19:45:00,Thomas Partey,Pass
+140969,38,BlockedShot,0.7759999847412109,0.63,0.026365084573626518,Thomas Partey,a,2328,OpenPlay,2016,RightFoot,3969,Deportivo La Coruna,Atletico Madrid,1,1,2017-03-02 19:45:00,Filipe Luis,Pass
+140970,40,BlockedShot,0.879000015258789,0.27600000381469725,0.04053421691060066,Sime Vrsaljko,a,1951,OpenPlay,2016,RightFoot,3969,Deportivo La Coruna,Atletico Madrid,1,1,2017-03-02 19:45:00,Thomas Partey,Pass
+140972,46,MissedShots,0.7609999847412109,0.6630000305175782,0.019512386992573738,Gabi,a,2268,SetPiece,2016,RightFoot,3969,Deportivo La Coruna,Atletico Madrid,1,1,2017-03-02 19:45:00,Koke,Pass
+140974,60,BlockedShot,0.81,0.3509999847412109,0.10469796508550644,Antoine Griezmann,a,2270,DirectFreekick,2016,LeftFoot,3969,Deportivo La Coruna,Atletico Madrid,1,1,2017-03-02 19:45:00,,Standard
+140975,67,ShotOnPost,0.7440000152587891,0.7730000305175782,0.013504664413630962,Filipe Luis,a,2265,OpenPlay,2016,LeftFoot,3969,Deportivo La Coruna,Atletico Madrid,1,1,2017-03-02 19:45:00,Nicolás Gaitán,Pass
+140976,67,Goal,0.7169999694824218,0.49700000762939456,0.017155732959508896,Antoine Griezmann,a,2270,OpenPlay,2016,LeftFoot,3969,Deportivo La Coruna,Atletico Madrid,1,1,2017-03-02 19:45:00,Yannick Carrasco,Pass
+140980,79,SavedShot,0.89,0.35900001525878905,0.07473298907279968,Fernando Torres,a,2271,OpenPlay,2016,RightFoot,3969,Deportivo La Coruna,Atletico Madrid,1,1,2017-03-02 19:45:00,Nicolás Gaitán,Pass

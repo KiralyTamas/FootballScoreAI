@@ -1,0 +1,25 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+294674,1,BlockedShot,0.72,0.5779999923706055,0.012130510993301868,Nicolas Pallois,h,3670,OpenPlay,2018,LeftFoot,10917,Nantes,Paris Saint Germain,3,2,2019-04-17 18:00:00,,None
+294675,11,SavedShot,0.895,0.5209999847412109,0.2553727328777313,Kalifa Coulibaly,h,6232,OpenPlay,2018,Head,10917,Nantes,Paris Saint Germain,3,2,2019-04-17 18:00:00,Charles Traore,Cross
+294677,15,SavedShot,0.8830000305175781,0.42900001525878906,0.11562784761190414,Nicolas Pallois,h,3670,SetPiece,2018,Head,10917,Nantes,Paris Saint Germain,3,2,2019-04-17 18:00:00,Valentin Rongier,Cross
+294679,21,Goal,0.935,0.53,0.12336379289627075,Diego Carlos,h,5712,FromCorner,2018,Head,10917,Nantes,Paris Saint Germain,3,2,2019-04-17 18:00:00,Valentin Rongier,Cross
+294682,43,MissedShots,0.8969999694824219,0.629000015258789,0.08884146809577942,Samuel Moutoussamy,h,6018,OpenPlay,2018,RightFoot,10917,Nantes,Paris Saint Germain,3,2,2019-04-17 18:00:00,Kalifa Coulibaly,Pass
+294683,43,Goal,0.965999984741211,0.4620000076293945,0.692965030670166,Majeed Waris,h,3461,OpenPlay,2018,RightFoot,10917,Nantes,Paris Saint Germain,3,2,2019-04-17 18:00:00,Samuel Moutoussamy,Rebound
+294684,51,Goal,0.9630000305175781,0.5420000076293945,0.12647011876106262,Diego Carlos,h,5712,FromCorner,2018,LeftFoot,10917,Nantes,Paris Saint Germain,3,2,2019-04-17 18:00:00,,None
+294685,57,MissedShots,0.6680000305175782,0.3629999923706055,0.17340441048145294,Kalifa Coulibaly,h,6232,OpenPlay,2018,RightFoot,10917,Nantes,Paris Saint Germain,3,2,2019-04-17 18:00:00,,Challenge
+294687,67,SavedShot,0.9719999694824218,0.395,0.17451678216457367,Majeed Waris,h,3461,OpenPlay,2018,RightFoot,10917,Nantes,Paris Saint Germain,3,2,2019-04-17 18:00:00,Valentin Rongier,TakeOn
+294688,67,MissedShots,0.8780000305175781,0.4759999847412109,0.032679926604032516,Diego Carlos,h,5712,FromCorner,2018,Head,10917,Nantes,Paris Saint Germain,3,2,2019-04-17 18:00:00,Valentin Rongier,Cross
+294690,71,BlockedShot,0.7330000305175781,0.6419999694824219,0.04612034186720848,Valentin Rongier,h,3673,DirectFreekick,2018,RightFoot,10917,Nantes,Paris Saint Germain,3,2,2019-04-17 18:00:00,,Standard
+294691,71,MissedShots,0.73,0.6270000076293946,0.012175682000815868,Valentin Rongier,h,3673,SetPiece,2018,RightFoot,10917,Nantes,Paris Saint Germain,3,2,2019-04-17 18:00:00,,Rebound
+294692,73,SavedShot,0.9690000152587891,0.3060000038146973,0.04842909052968025,Nicolas Pallois,h,3670,SetPiece,2018,RightFoot,10917,Nantes,Paris Saint Germain,3,2,2019-04-17 18:00:00,Valentin Rongier,Chipped
+294693,74,BlockedShot,0.9059999847412109,0.225,0.03560558333992958,Samuel Moutoussamy,h,6018,OpenPlay,2018,LeftFoot,10917,Nantes,Paris Saint Germain,3,2,2019-04-17 18:00:00,Kalifa Coulibaly,Chipped
+294695,85,SavedShot,0.9069999694824219,0.6780000305175782,0.11280929297208786,Nicolas Pallois,h,3670,OpenPlay,2018,LeftFoot,10917,Nantes,Paris Saint Germain,3,2,2019-04-17 18:00:00,Majeed Waris,Pass
+294676,13,BlockedShot,0.8440000152587891,0.7090000152587891,0.030994271859526634,Eric Maxim Choupo-Moting,a,339,OpenPlay,2018,RightFoot,10917,Nantes,Paris Saint Germain,3,2,2019-04-17 18:00:00,Stanley N&#039;Soki,TakeOn
+294678,18,Goal,0.715999984741211,0.29100000381469726,0.014034111984074116,Dani Alves,a,1288,OpenPlay,2018,RightFoot,10917,Nantes,Paris Saint Germain,3,2,2019-04-17 18:00:00,Leandro Paredes,Pass
+294680,34,BlockedShot,0.945,0.35200000762939454,0.08662281930446625,Moussa Diaby,a,6556,OpenPlay,2018,RightFoot,10917,Nantes,Paris Saint Germain,3,2,2019-04-17 18:00:00,Julian Draxler,Pass
+294681,38,SavedShot,0.9119999694824219,0.18600000381469728,0.02180572599172592,Moussa Diaby,a,6556,OpenPlay,2018,RightFoot,10917,Nantes,Paris Saint Germain,3,2,2019-04-17 18:00:00,Leandro Paredes,Pass
+294686,60,MissedShots,0.9219999694824219,0.42700000762939455,0.09125581383705139,Christopher Nkunku,a,3300,OpenPlay,2018,Head,10917,Nantes,Paris Saint Germain,3,2,2019-04-17 18:00:00,Eric Maxim Choupo-Moting,Cross
+294689,69,SavedShot,0.9159999847412109,0.49700000762939456,0.06351570785045624,Layvin Kurzawa,a,3298,OpenPlay,2018,Head,10917,Nantes,Paris Saint Germain,3,2,2019-04-17 18:00:00,Colin Dagba,Aerial
+294694,77,SavedShot,0.9209999847412109,0.455,0.09199123084545135,Eric Maxim Choupo-Moting,a,339,OpenPlay,2018,RightFoot,10917,Nantes,Paris Saint Germain,3,2,2019-04-17 18:00:00,Metehan Guclu,BallTouch
+294696,87,SavedShot,0.899000015258789,0.5690000152587891,0.13180842995643616,Metehan Guclu,a,7560,OpenPlay,2018,Head,10917,Nantes,Paris Saint Germain,3,2,2019-04-17 18:00:00,Dani Alves,Throughball
+294697,88,Goal,0.8769999694824219,0.3629999923706055,0.07383155822753906,Metehan Guclu,a,7560,OpenPlay,2018,RightFoot,10917,Nantes,Paris Saint Germain,3,2,2019-04-17 18:00:00,Colin Dagba,Pass

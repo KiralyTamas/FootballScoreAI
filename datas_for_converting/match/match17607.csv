@@ -1,0 +1,23 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+441028,2,MissedShots,0.8490000152587891,0.42400001525878905,0.06535587459802628,Sebastian Polter,h,7881,OpenPlay,2021,RightFoot,17607,Bochum,Hoffenheim,2,0,2021-11-06 14:30:00,,None
+441032,35,MissedShots,0.8480000305175781,0.38799999237060545,0.057221606373786926,Danny Blum,h,5236,OpenPlay,2021,RightFoot,17607,Bochum,Hoffenheim,2,0,2021-11-06 14:30:00,,None
+441037,61,SavedShot,0.8119999694824219,0.48700000762939455,0.15724828839302063,Eduard Löwen,h,7043,DirectFreekick,2021,RightFoot,17607,Bochum,Hoffenheim,2,0,2021-11-06 14:30:00,,Standard
+441038,64,BlockedShot,0.8969999694824219,0.5970000076293945,0.09222184121608734,Milos Pantovic,h,378,OpenPlay,2021,LeftFoot,17607,Bochum,Hoffenheim,2,0,2021-11-06 14:30:00,Takuma Asano,BallTouch
+441039,65,Goal,0.9309999847412109,0.4879999923706055,0.41792386770248413,Soma Novothny,h,9830,OpenPlay,2021,Head,17607,Bochum,Hoffenheim,2,0,2021-11-06 14:30:00,Milos Pantovic,Chipped
+441040,68,MissedShots,0.8240000152587891,0.27,0.03055165335536003,Gerrit Holtmann,h,5270,OpenPlay,2021,LeftFoot,17607,Bochum,Hoffenheim,2,0,2021-11-06 14:30:00,Anthony Losilla,Pass
+441041,71,BlockedShot,0.695,0.40700000762939453,0.015622460283339024,Konstantinos Stafylidis,h,368,OpenPlay,2021,LeftFoot,17607,Bochum,Hoffenheim,2,0,2021-11-06 14:30:00,,BallRecovery
+441042,75,MissedShots,0.885,0.5,0.75777667760849,Manuel Riemann,h,9702,Penalty,2021,RightFoot,17607,Bochum,Hoffenheim,2,0,2021-11-06 14:30:00,,Standard
+441043,77,SavedShot,0.9,0.44299999237060544,0.08369332551956177,Anthony Losilla,h,9705,SetPiece,2021,RightFoot,17607,Bochum,Hoffenheim,2,0,2021-11-06 14:30:00,Eduard Löwen,Chipped
+441047,90,ShotOnPost,0.885,0.5840000152587891,0.09934854507446289,Takuma Asano,h,6087,OpenPlay,2021,LeftFoot,17607,Bochum,Hoffenheim,2,0,2021-11-06 14:30:00,,None
+441048,92,ShotOnPost,0.8590000152587891,0.53,0.24589064717292786,Gerrit Holtmann,h,5270,OpenPlay,2021,LeftFoot,17607,Bochum,Hoffenheim,2,0,2021-11-06 14:30:00,Eduard Löwen,BallRecovery
+441049,96,Goal,0.41,0.9080000305175782,0.10147098451852798,Milos Pantovic,h,378,OpenPlay,2021,LeftFoot,17607,Bochum,Hoffenheim,2,0,2021-11-06 14:30:00,Gerrit Holtmann,BallRecovery
+441029,15,MissedShots,0.8209999847412109,0.33599998474121096,0.03511642664670944,Andrej Kramaric,a,956,OpenPlay,2021,LeftFoot,17607,Bochum,Hoffenheim,2,0,2021-11-06 14:30:00,Florian Grillitsch,Pass
+441030,18,MissedShots,0.8919999694824219,0.5540000152587891,0.37273213267326355,Ihlas Bebou,a,6271,OpenPlay,2021,RightFoot,17607,Bochum,Hoffenheim,2,0,2021-11-06 14:30:00,Andrej Kramaric,Pass
+441031,27,MissedShots,0.7190000152587891,0.4759999847412109,0.015470968559384346,Florian Grillitsch,a,116,OpenPlay,2021,RightFoot,17607,Bochum,Hoffenheim,2,0,2021-11-06 14:30:00,,BallRecovery
+441033,52,SavedShot,0.6409999847412109,0.645,0.010454072616994381,Florian Grillitsch,a,116,SetPiece,2021,RightFoot,17607,Bochum,Hoffenheim,2,0,2021-11-06 14:30:00,Robert Skov,Pass
+441034,53,MissedShots,0.8169999694824219,0.5529999923706055,0.020453624427318573,Angelo Stiller,a,9725,FromCorner,2021,LeftFoot,17607,Bochum,Hoffenheim,2,0,2021-11-06 14:30:00,,Aerial
+441035,56,MissedShots,0.8919999694824219,0.6780000305175782,0.05325793847441673,Robert Skov,a,7867,OpenPlay,2021,LeftFoot,17607,Bochum,Hoffenheim,2,0,2021-11-06 14:30:00,Christoph Baumgartner,Pass
+441036,57,MissedShots,0.750999984741211,0.29200000762939454,0.012325507588684559,Sebastian Rudy,a,90,FromCorner,2021,RightFoot,17607,Bochum,Hoffenheim,2,0,2021-11-06 14:30:00,,Aerial
+441044,81,BlockedShot,0.8469999694824218,0.5670000076293945,0.05741627886891365,Andrej Kramaric,a,956,OpenPlay,2021,RightFoot,17607,Bochum,Hoffenheim,2,0,2021-11-06 14:30:00,Georginio Rutter,BallTouch
+441045,82,BlockedShot,0.8209999847412109,0.62,0.04378454387187958,Munas Dabbur,a,8140,OpenPlay,2021,RightFoot,17607,Bochum,Hoffenheim,2,0,2021-11-06 14:30:00,Andrej Kramaric,BallRecovery
+441046,83,BlockedShot,0.7680000305175781,0.36400001525878906,0.021622363477945328,Ihlas Bebou,a,6271,OpenPlay,2021,LeftFoot,17607,Bochum,Hoffenheim,2,0,2021-11-06 14:30:00,,Rebound

@@ -1,0 +1,23 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+295818,3,BlockedShot,0.9469999694824218,0.46,0.1284666359424591,Kurt Zouma,h,935,FromCorner,2018,OtherBodyPart,9542,Everton,Manchester United,4,0,2019-04-21 13:30:00,Gylfi Sigurdsson,Cross
+295819,10,SavedShot,0.9130000305175782,0.54,0.08349284529685974,Richarlison,h,6026,FromCorner,2018,RightFoot,9542,Everton,Manchester United,4,0,2019-04-21 13:30:00,Idrissa Gueye,Cross
+295820,10,MissedShots,0.9440000152587891,0.575,0.4509306848049164,Richarlison,h,6026,FromCorner,2018,LeftFoot,9542,Everton,Manchester United,4,0,2019-04-21 13:30:00,,Rebound
+295821,12,Goal,0.9330000305175781,0.48900001525878906,0.08968695998191833,Richarlison,h,6026,OpenPlay,2018,LeftFoot,9542,Everton,Manchester United,4,0,2019-04-21 13:30:00,Dominic Calvert-Lewin,Aerial
+295822,14,BlockedShot,0.7919999694824219,0.7030000305175781,0.016484251245856285,Lucas Digne,h,1823,FromCorner,2018,LeftFoot,9542,Everton,Manchester United,4,0,2019-04-21 13:30:00,,None
+295823,17,MissedShots,0.909000015258789,0.5279999923706055,0.027801504358649254,Dominic Calvert-Lewin,h,5555,FromCorner,2018,Head,9542,Everton,Manchester United,4,0,2019-04-21 13:30:00,Lucas Digne,Aerial
+295825,21,MissedShots,0.784000015258789,0.27700000762939453,0.024254055693745613,Richarlison,h,6026,OpenPlay,2018,LeftFoot,9542,Everton,Manchester United,4,0,2019-04-21 13:30:00,Gylfi Sigurdsson,Pass
+295827,27,Goal,0.740999984741211,0.610999984741211,0.03988010063767433,Gylfi Sigurdsson,h,714,OpenPlay,2018,RightFoot,9542,Everton,Manchester United,4,0,2019-04-21 13:30:00,Idrissa Gueye,Pass
+295828,33,BlockedShot,0.89,0.40700000762939453,0.012469248846173286,Richarlison,h,6026,FromCorner,2018,Head,9542,Everton,Manchester United,4,0,2019-04-21 13:30:00,Gylfi Sigurdsson,Aerial
+295829,40,SavedShot,0.86,0.30700000762939456,0.06699313968420029,Richarlison,h,6026,OpenPlay,2018,RightFoot,9542,Everton,Manchester United,4,0,2019-04-21 13:30:00,Morgan Schneiderlin,Pass
+295830,54,BlockedShot,0.799000015258789,0.5729999923706055,0.05426843836903572,Gylfi Sigurdsson,h,714,OpenPlay,2018,LeftFoot,9542,Everton,Manchester United,4,0,2019-04-21 13:30:00,Dominic Calvert-Lewin,Pass
+295831,55,Goal,0.789000015258789,0.695,0.01659390516579151,Lucas Digne,h,1823,FromCorner,2018,LeftFoot,9542,Everton,Manchester United,4,0,2019-04-21 13:30:00,,None
+295832,63,Goal,0.899000015258789,0.645,0.4159577488899231,Theo Walcott,h,503,OpenPlay,2018,RightFoot,9542,Everton,Manchester United,4,0,2019-04-21 13:30:00,Gylfi Sigurdsson,Throughball
+295835,73,SavedShot,0.8590000152587891,0.43,0.09956727176904678,Theo Walcott,h,503,OpenPlay,2018,RightFoot,9542,Everton,Manchester United,4,0,2019-04-21 13:30:00,Lucas Digne,Cross
+295837,80,SavedShot,0.8819999694824219,0.33099998474121095,0.031197980046272278,Seamus Coleman,h,585,OpenPlay,2018,LeftFoot,9542,Everton,Manchester United,4,0,2019-04-21 13:30:00,,Aerial
+295817,1,BlockedShot,0.7719999694824219,0.705999984741211,0.014905366115272045,Diogo Dalot,a,7281,OpenPlay,2018,RightFoot,9542,Everton,Manchester United,4,0,2019-04-21 13:30:00,,None
+295824,18,MissedShots,0.905,0.649000015258789,0.057515036314725876,Marcus Rashford,a,556,OpenPlay,2018,RightFoot,9542,Everton,Manchester United,4,0,2019-04-21 13:30:00,Paul Pogba,Chipped
+295826,23,MissedShots,0.7080000305175781,0.37099998474121093,0.03621457517147064,Marcus Rashford,a,556,DirectFreekick,2018,RightFoot,9542,Everton,Manchester United,4,0,2019-04-21 13:30:00,,Standard
+295833,69,MissedShots,0.8769999694824219,0.53,0.10200832039117813,Anthony Martial,a,553,OpenPlay,2018,RightFoot,9542,Everton,Manchester United,4,0,2019-04-21 13:30:00,Paul Pogba,Pass
+295834,71,MissedShots,0.78,0.3160000038146973,0.014932439662516117,Marcus Rashford,a,556,OpenPlay,2018,RightFoot,9542,Everton,Manchester United,4,0,2019-04-21 13:30:00,,BallRecovery
+295836,74,MissedShots,0.835,0.5820000076293945,0.06599002331495285,Nemanja Matic,a,697,OpenPlay,2018,LeftFoot,9542,Everton,Manchester United,4,0,2019-04-21 13:30:00,Paul Pogba,Pass
+295838,85,SavedShot,0.775,0.664000015258789,0.014416461810469627,Anthony Martial,a,553,OpenPlay,2018,RightFoot,9542,Everton,Manchester United,4,0,2019-04-21 13:30:00,Paul Pogba,Pass

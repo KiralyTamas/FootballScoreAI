@@ -1,0 +1,26 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+98014,9,MissedShots,0.755,0.4829999923706055,0.021686233580112457,Isaac Cofie,h,1112,OpenPlay,2015,RightFoot,836,Carpi,Frosinone,2,1,2016-03-13 18:00:00,,None
+98015,10,MissedShots,0.7419999694824219,0.5990000152587891,0.01629299856722355,Isaac Cofie,h,1112,OpenPlay,2015,RightFoot,836,Carpi,Frosinone,2,1,2016-03-13 18:00:00,Matteo Mancosu,Pass
+98016,26,Goal,0.96,0.39799999237060546,0.4042043089866638,Raffaele Bianco,h,1900,OpenPlay,2015,RightFoot,836,Carpi,Frosinone,2,1,2016-03-13 18:00:00,Lorenzo Lollo,Throughball
+98021,36,MissedShots,0.8680000305175781,0.5179999923706055,0.09987883269786835,Antonio Di Gaudio,h,1905,OpenPlay,2015,LeftFoot,836,Carpi,Frosinone,2,1,2016-03-13 18:00:00,,None
+98024,39,MissedShots,0.7930000305175782,0.6930000305175781,0.030852848663926125,Gaetano Letizia,h,1972,OpenPlay,2015,RightFoot,836,Carpi,Frosinone,2,1,2016-03-13 18:00:00,Isaac Cofie,Pass
+98028,47,BlockedShot,0.785,0.5879999923706055,0.015604013577103615,Raffaele Bianco,h,1900,FromCorner,2015,RightFoot,836,Carpi,Frosinone,2,1,2016-03-13 18:00:00,,Aerial
+98029,48,MissedShots,0.7,0.39299999237060546,0.01245040725916624,Lorenzo Lollo,h,1973,FromCorner,2015,RightFoot,836,Carpi,Frosinone,2,1,2016-03-13 18:00:00,,None
+98030,54,MissedShots,0.8490000152587891,0.4640000152587891,0.3404295742511749,Matteo Mancosu,h,1981,OpenPlay,2015,RightFoot,836,Carpi,Frosinone,2,1,2016-03-13 18:00:00,Antonio Di Gaudio,Pass
+98033,68,SavedShot,0.7180000305175781,0.40900001525878904,0.010025248862802982,Riccardo Gagliolo,h,1896,SetPiece,2015,LeftFoot,836,Carpi,Frosinone,2,1,2016-03-13 18:00:00,,None
+98035,86,BlockedShot,0.7880000305175782,0.69,0.023688746616244316,Antonio Di Gaudio,h,1905,OpenPlay,2015,RightFoot,836,Carpi,Frosinone,2,1,2016-03-13 18:00:00,Gaetano Letizia,Pass
+98036,89,Goal,0.885,0.5,0.7612589001655579,Jonathan de Guzmán,h,1350,Penalty,2015,RightFoot,836,Carpi,Frosinone,2,1,2016-03-13 18:00:00,,Standard
+98037,90,ShotOnPost,0.7869999694824219,0.5170000076293946,0.047296132892370224,Marco Crimi,h,1902,OpenPlay,2015,RightFoot,836,Carpi,Frosinone,2,1,2016-03-13 18:00:00,Kevin Lasagna,Pass
+98017,31,BlockedShot,0.8119999694824219,0.645,0.02688627690076828,Federico Dionisi,a,1867,OpenPlay,2015,RightFoot,836,Carpi,Frosinone,2,1,2016-03-13 18:00:00,Paolo Sammarco,Cross
+98018,31,SavedShot,0.9309999847412109,0.48200000762939454,0.3439471423625946,Daniel Ciofani,a,1868,OpenPlay,2015,Head,836,Carpi,Frosinone,2,1,2016-03-13 18:00:00,Daniel Pavlovic,Cross
+98019,34,MissedShots,0.8640000152587891,0.6709999847412109,0.043444979935884476,Federico Dionisi,a,1867,OpenPlay,2015,RightFoot,836,Carpi,Frosinone,2,1,2016-03-13 18:00:00,,None
+98020,36,MissedShots,0.755,0.40400001525878904,0.028822077438235283,Mirko Gori,a,1864,OpenPlay,2015,LeftFoot,836,Carpi,Frosinone,2,1,2016-03-13 18:00:00,,TakeOn
+98022,38,BlockedShot,0.865999984741211,0.585,0.061117492616176605,Daniel Ciofani,a,1868,OpenPlay,2015,LeftFoot,836,Carpi,Frosinone,2,1,2016-03-13 18:00:00,,None
+98023,38,MissedShots,0.815,0.47400001525878904,0.05714729428291321,Federico Dionisi,a,1867,OpenPlay,2015,RightFoot,836,Carpi,Frosinone,2,1,2016-03-13 18:00:00,Daniel Ciofani,Pass
+98025,41,MissedShots,0.779000015258789,0.5120000076293946,0.042396318167448044,Paolo Sammarco,a,1866,OpenPlay,2015,RightFoot,836,Carpi,Frosinone,2,1,2016-03-13 18:00:00,Daniel Ciofani,LayOff
+98027,45,SavedShot,0.895,0.5590000152587891,0.02933354116976261,Daniel Ciofani,a,1868,OpenPlay,2015,Head,836,Carpi,Frosinone,2,1,2016-03-13 18:00:00,Alessandro Frara,Aerial
+98026,49,MissedShots,0.7759999847412109,0.485,0.03083825670182705,Oliver Kragl,a,1863,OpenPlay,2015,LeftFoot,836,Carpi,Frosinone,2,1,2016-03-13 18:00:00,,None
+98031,61,BlockedShot,0.91,0.5520000076293945,0.03374075889587402,Alessandro Frara,a,1865,OpenPlay,2015,Head,836,Carpi,Frosinone,2,1,2016-03-13 18:00:00,Mirko Gori,Aerial
+98032,65,MissedShots,0.7580000305175781,0.6,0.01939556561410427,Alessandro Frara,a,1865,OpenPlay,2015,RightFoot,836,Carpi,Frosinone,2,1,2016-03-13 18:00:00,Danilo Soddimo,Pass
+98034,70,Goal,0.935,0.42700000762939455,0.5092049837112427,Federico Dionisi,a,1867,SetPiece,2015,LeftFoot,836,Carpi,Frosinone,2,1,2016-03-13 18:00:00,,None
+98038,91,SavedShot,0.9059999847412109,0.7030000305175781,0.048362426459789276,Danilo Soddimo,a,1871,OpenPlay,2015,LeftFoot,836,Carpi,Frosinone,2,1,2016-03-13 18:00:00,Massimiliano Carlini,Pass

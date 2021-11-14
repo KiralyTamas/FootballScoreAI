@@ -1,0 +1,28 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+119403,5,MissedShots,0.8059999847412109,0.5670000076293945,0.044244591146707535,Diego Costa,h,802,OpenPlay,2016,RightFoot,3448,Chelsea,Manchester City,2,1,2017-04-05 20:00:00,Eden Hazard,Pass
+119404,9,Goal,0.8859999847412109,0.40599998474121096,0.10260564088821411,Eden Hazard,h,701,OpenPlay,2016,RightFoot,3448,Chelsea,Manchester City,2,1,2017-04-05 20:00:00,César Azpilicueta,Pass
+119409,21,BlockedShot,0.8519999694824218,0.46,0.10415605455636978,Cesc Fàbregas,h,686,OpenPlay,2016,LeftFoot,3448,Chelsea,Manchester City,2,1,2017-04-05 20:00:00,Eden Hazard,Pass
+119413,34,SavedShot,0.885,0.5,0.7611688375473022,Eden Hazard,h,701,Penalty,2016,RightFoot,3448,Chelsea,Manchester City,2,1,2017-04-05 20:00:00,,Standard
+119414,34,Goal,0.9359999847412109,0.49900001525878906,0.604162871837616,Eden Hazard,h,701,SetPiece,2016,RightFoot,3448,Chelsea,Manchester City,2,1,2017-04-05 20:00:00,,Rebound
+119418,52,BlockedShot,0.7380000305175781,0.605999984741211,0.019904039800167084,N&#039;Golo Kanté,h,751,OpenPlay,2016,RightFoot,3448,Chelsea,Manchester City,2,1,2017-04-05 20:00:00,Gary Cahill,Pass
+119420,66,SavedShot,0.8030000305175782,0.30100000381469727,0.03147553652524948,Pedro,h,687,OpenPlay,2016,LeftFoot,3448,Chelsea,Manchester City,2,1,2017-04-05 20:00:00,Eden Hazard,Pass
+119422,71,BlockedShot,0.7609999847412109,0.6859999847412109,0.05011916160583496,David Luiz,h,1676,DirectFreekick,2016,RightFoot,3448,Chelsea,Manchester City,2,1,2017-04-05 20:00:00,,Standard
+119423,75,MissedShots,0.8530000305175781,0.5129999923706055,0.09858100116252899,Eden Hazard,h,701,OpenPlay,2016,RightFoot,3448,Chelsea,Manchester City,2,1,2017-04-05 20:00:00,Pedro,Pass
+119427,85,MissedShots,0.860999984741211,0.51,0.01277768611907959,Gary Cahill,h,699,FromCorner,2016,Head,3448,Chelsea,Manchester City,2,1,2017-04-05 20:00:00,Willian,Aerial
+119405,12,BlockedShot,0.8480000305175781,0.6459999847412109,0.08757476508617401,Sergio Agüero,a,619,OpenPlay,2016,RightFoot,3448,Chelsea,Manchester City,2,1,2017-04-05 20:00:00,Leroy Sané,Pass
+119406,15,MissedShots,0.7580000305175781,0.325,0.016718469560146332,Fabian Delph,a,876,OpenPlay,2016,LeftFoot,3448,Chelsea,Manchester City,2,1,2017-04-05 20:00:00,Jesús Navas,Pass
+119407,18,SavedShot,0.7469999694824219,0.415,0.019359882920980453,Fernandinho,a,614,OpenPlay,2016,RightFoot,3448,Chelsea,Manchester City,2,1,2017-04-05 20:00:00,Sergio Agüero,Pass
+119408,20,SavedShot,0.815,0.48400001525878905,0.059510737657547,Sergio Agüero,a,619,OpenPlay,2016,RightFoot,3448,Chelsea,Manchester City,2,1,2017-04-05 20:00:00,David Silva,Pass
+119410,25,SavedShot,0.9030000305175782,0.6909999847412109,0.04713799059391022,David Silva,a,617,OpenPlay,2016,LeftFoot,3448,Chelsea,Manchester City,2,1,2017-04-05 20:00:00,,BallRecovery
+119411,25,Goal,0.9169999694824219,0.49700000762939456,0.4934113621711731,Sergio Agüero,a,619,OpenPlay,2016,RightFoot,3448,Chelsea,Manchester City,2,1,2017-04-05 20:00:00,,Rebound
+119412,27,SavedShot,0.860999984741211,0.6419999694824219,0.31597182154655457,Leroy Sané,a,337,OpenPlay,2016,RightFoot,3448,Chelsea,Manchester City,2,1,2017-04-05 20:00:00,David Silva,Throughball
+119415,35,BlockedShot,0.8119999694824219,0.48700000762939455,0.05355122312903404,Sergio Agüero,a,619,OpenPlay,2016,LeftFoot,3448,Chelsea,Manchester City,2,1,2017-04-05 20:00:00,David Silva,Pass
+119416,36,BlockedShot,0.785,0.6759999847412109,0.013973523862659931,Fabian Delph,a,876,FromCorner,2016,LeftFoot,3448,Chelsea,Manchester City,2,1,2017-04-05 20:00:00,,Aerial
+119417,50,MissedShots,0.904000015258789,0.5520000076293945,0.3373314142227173,Fernandinho,a,614,SetPiece,2016,RightFoot,3448,Chelsea,Manchester City,2,1,2017-04-05 20:00:00,Fabian Delph,Chipped
+119419,64,SavedShot,0.92,0.5279999923706055,0.09646805375814438,John Stones,a,586,FromCorner,2016,Head,3448,Chelsea,Manchester City,2,1,2017-04-05 20:00:00,David Silva,Cross
+119421,68,MissedShots,0.905,0.38,0.009661736898124218,John Stones,a,586,SetPiece,2016,Head,3448,Chelsea,Manchester City,2,1,2017-04-05 20:00:00,David Silva,Aerial
+119424,79,BlockedShot,0.765,0.25799999237060545,0.014375457540154457,Fernandinho,a,614,OpenPlay,2016,RightFoot,3448,Chelsea,Manchester City,2,1,2017-04-05 20:00:00,Raheem Sterling,Pass
+119425,79,MissedShots,0.9069999694824219,0.500999984741211,0.029072608798742294,John Stones,a,586,FromCorner,2016,Head,3448,Chelsea,Manchester City,2,1,2017-04-05 20:00:00,David Silva,Aerial
+119426,79,MissedShots,0.9519999694824218,0.29700000762939455,0.0462358258664608,Sergio Agüero,a,619,FromCorner,2016,RightFoot,3448,Chelsea,Manchester City,2,1,2017-04-05 20:00:00,,Rebound
+119428,90,SavedShot,0.965999984741211,0.41,0.09569472074508667,Sergio Agüero,a,619,OpenPlay,2016,RightFoot,3448,Chelsea,Manchester City,2,1,2017-04-05 20:00:00,Nolito,Chipped
+119429,91,MissedShots,0.9530000305175781,0.5179999923706055,0.5499556064605713,John Stones,a,586,FromCorner,2016,RightFoot,3448,Chelsea,Manchester City,2,1,2017-04-05 20:00:00,Vincent Kompany,HeadPass

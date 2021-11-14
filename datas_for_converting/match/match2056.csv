@@ -1,0 +1,27 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+65440,1,BlockedShot,0.725,0.43400001525878906,0.017028959468007088,Fabien Lemoine,h,3509,OpenPlay,2015,RightFoot,2056,Saint-Etienne,Angers,1,0,2015-12-20 17:00:00,Jérémy Clément,Pass
+65441,5,MissedShots,0.870999984741211,0.33099998474121095,0.037082478404045105,Neal Maupay,h,3621,FromCorner,2015,RightFoot,2056,Saint-Etienne,Angers,1,0,2015-12-20 17:00:00,Romain Hamouma,Pass
+65443,8,MissedShots,0.7380000305175781,0.6229999923706054,0.018560172989964485,Romain Hamouma,h,3561,OpenPlay,2015,RightFoot,2056,Saint-Etienne,Angers,1,0,2015-12-20 17:00:00,Jonathan Brison,Pass
+65445,27,MissedShots,0.905,0.4540000152587891,0.06285654753446579,Nolan Roux,h,3512,FromCorner,2015,Head,2056,Saint-Etienne,Angers,1,0,2015-12-20 17:00:00,Valentin Eysseric,Cross
+65446,33,BlockedShot,0.9,0.40200000762939453,0.09356816112995148,Romain Hamouma,h,3561,OpenPlay,2015,RightFoot,2056,Saint-Etienne,Angers,1,0,2015-12-20 17:00:00,Nolan Roux,Rebound
+65447,33,MissedShots,0.749000015258789,0.4229999923706055,0.01769249327480793,Fabien Lemoine,h,3509,OpenPlay,2015,RightFoot,2056,Saint-Etienne,Angers,1,0,2015-12-20 17:00:00,,None
+65448,39,BlockedShot,0.7340000152587891,0.46,0.055656954646110535,Valentin Eysseric,h,3515,DirectFreekick,2015,RightFoot,2056,Saint-Etienne,Angers,1,0,2015-12-20 17:00:00,,Standard
+65449,44,BlockedShot,0.9019999694824219,0.4109999847412109,0.03377697989344597,Moustapha Bayal Sall,h,3506,FromCorner,2015,Head,2056,Saint-Etienne,Angers,1,0,2015-12-20 17:00:00,Valentin Eysseric,Cross
+65450,45,MissedShots,0.919000015258789,0.524000015258789,0.04463629052042961,Romain Hamouma,h,3561,FromCorner,2015,Head,2056,Saint-Etienne,Angers,1,0,2015-12-20 17:00:00,Valentin Eysseric,Aerial
+65452,49,MissedShots,0.7240000152587891,0.5070000076293946,0.05067766085267067,Valentin Eysseric,h,3515,DirectFreekick,2015,RightFoot,2056,Saint-Etienne,Angers,1,0,2015-12-20 17:00:00,,Standard
+65453,52,SavedShot,0.8969999694824219,0.48700000762939455,0.3295278251171112,Nolan Roux,h,3512,OpenPlay,2015,RightFoot,2056,Saint-Etienne,Angers,1,0,2015-12-20 17:00:00,Kevin Malcuit,Cross
+65455,59,MissedShots,0.7930000305175782,0.555,0.11288608610630035,Valentin Eysseric,h,3515,DirectFreekick,2015,RightFoot,2056,Saint-Etienne,Angers,1,0,2015-12-20 17:00:00,,Standard
+65456,60,Goal,0.845999984741211,0.605999984741211,0.04636194184422493,Benjamin Corgnet,h,3514,FromCorner,2015,LeftFoot,2056,Saint-Etienne,Angers,1,0,2015-12-20 17:00:00,,None
+65459,76,MissedShots,0.9690000152587891,0.3509999847412109,0.13225057721138,Valentin Eysseric,h,3515,OpenPlay,2015,RightFoot,2056,Saint-Etienne,Angers,1,0,2015-12-20 17:00:00,Benjamin Corgnet,Throughball
+65464,85,BlockedShot,0.7559999847412109,0.625999984741211,0.06056051701307297,Valentin Eysseric,h,3515,DirectFreekick,2015,RightFoot,2056,Saint-Etienne,Angers,1,0,2015-12-20 17:00:00,,Standard
+65442,6,MissedShots,0.7240000152587891,0.7669999694824219,0.00899797398597002,Thomas Mangani,a,3490,OpenPlay,2015,LeftFoot,2056,Saint-Etienne,Angers,1,0,2015-12-20 17:00:00,,None
+65444,15,BlockedShot,0.779000015258789,0.6869999694824219,0.017110995948314667,Thomas Mangani,a,3490,OpenPlay,2015,LeftFoot,2056,Saint-Etienne,Angers,1,0,2015-12-20 17:00:00,,None
+65451,47,MissedShots,0.7480000305175781,0.35900001525878905,0.01864207722246647,Billy Ketkeophomphone,a,3494,OpenPlay,2015,RightFoot,2056,Saint-Etienne,Angers,1,0,2015-12-20 17:00:00,Gilles Sunu,Pass
+65454,57,SavedShot,0.8490000152587891,0.3170000076293945,0.032605793327093124,Billy Ketkeophomphone,a,3494,SetPiece,2015,RightFoot,2056,Saint-Etienne,Angers,1,0,2015-12-20 17:00:00,,None
+65457,62,BlockedShot,0.855999984741211,0.49900001525878906,0.024842077866196632,Cheikh Ndoye,a,3492,OpenPlay,2015,Head,2056,Saint-Etienne,Angers,1,0,2015-12-20 17:00:00,Yoann Andreu,Cross
+65458,64,MissedShots,0.9069999694824219,0.53,0.09723816812038422,Cheikh Ndoye,a,3492,OpenPlay,2015,Head,2056,Saint-Etienne,Angers,1,0,2015-12-20 17:00:00,Thomas Mangani,Cross
+65460,77,MissedShots,0.905,0.565,0.07575502246618271,Gilles Sunu,a,3493,OpenPlay,2015,Head,2056,Saint-Etienne,Angers,1,0,2015-12-20 17:00:00,Yoann Andreu,Cross
+65461,79,BlockedShot,0.8919999694824219,0.33799999237060546,0.0621643029153347,Gilles Sunu,a,3493,OpenPlay,2015,LeftFoot,2056,Saint-Etienne,Angers,1,0,2015-12-20 17:00:00,Billy Ketkeophomphone,Pass
+65462,81,SavedShot,0.805,0.6780000305175782,0.023874806240200996,Pierrick Capelle,a,3495,OpenPlay,2015,LeftFoot,2056,Saint-Etienne,Angers,1,0,2015-12-20 17:00:00,Olivier Auriac,Pass
+65463,83,BlockedShot,0.7919999694824219,0.754000015258789,0.014558935537934303,Yoann Andreu,a,3489,OpenPlay,2015,RightFoot,2056,Saint-Etienne,Angers,1,0,2015-12-20 17:00:00,,None
+65465,88,ShotOnPost,0.8009999847412109,0.5729999923706055,0.045332279056310654,Slimane Sissoko,a,3717,OpenPlay,2015,LeftFoot,2056,Saint-Etienne,Angers,1,0,2015-12-20 17:00:00,Pierrick Capelle,Pass

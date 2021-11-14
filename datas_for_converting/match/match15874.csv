@@ -1,0 +1,36 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+388982,9,OwnGoal,0.05,0.45799999237060546,0,Timothee Pembele,h,8701,FromCorner,2020,Head,15874,Paris Saint Germain,Bordeaux,2,2,2020-11-28 20:00:00,,None
+388983,12,SavedShot,0.8680000305175781,0.33,0.2159949094057083,Alessandro Florenzi,h,1254,OpenPlay,2020,RightFoot,15874,Paris Saint Germain,Bordeaux,2,2,2020-11-28 20:00:00,Rafinha,Pass
+388984,12,MissedShots,0.965,0.615,0.032641757279634476,Leandro Paredes,h,1248,FromCorner,2020,Head,15874,Paris Saint Germain,Bordeaux,2,2,2020-11-28 20:00:00,Neymar,Cross
+388985,13,SavedShot,0.93,0.695,0.050290994346141815,Mitchel Bakker,h,8310,OpenPlay,2020,LeftFoot,15874,Paris Saint Germain,Bordeaux,2,2,2020-11-28 20:00:00,Neymar,Pass
+388986,19,MissedShots,0.7880000305175782,0.5920000076293945,0.03328613191843033,Kylian Mbappe-Lottin,h,3423,OpenPlay,2020,RightFoot,15874,Paris Saint Germain,Bordeaux,2,2,2020-11-28 20:00:00,Mitchel Bakker,Pass
+388987,26,Goal,0.885,0.5,0.7600951194763184,Neymar,h,2099,Penalty,2020,RightFoot,15874,Paris Saint Germain,Bordeaux,2,2,2020-11-28 20:00:00,,Standard
+388988,27,SavedShot,0.7909999847412109,0.5609999847412109,0.03898152709007263,Neymar,h,2099,OpenPlay,2020,LeftFoot,15874,Paris Saint Germain,Bordeaux,2,2,2020-11-28 20:00:00,Kylian Mbappe-Lottin,Pass
+388989,27,Goal,0.9130000305175782,0.425,0.3917994499206543,Moise Kean,h,1304,OpenPlay,2020,RightFoot,15874,Paris Saint Germain,Bordeaux,2,2,2020-11-28 20:00:00,,Rebound
+388990,33,SavedShot,0.89,0.61,0.3416024148464203,Kylian Mbappe-Lottin,h,3423,OpenPlay,2020,LeftFoot,15874,Paris Saint Germain,Bordeaux,2,2,2020-11-28 20:00:00,Rafinha,Pass
+388991,34,SavedShot,0.8859999847412109,0.6580000305175782,0.08682126551866531,Kylian Mbappe-Lottin,h,3423,OpenPlay,2020,RightFoot,15874,Paris Saint Germain,Bordeaux,2,2,2020-11-28 20:00:00,Presnel Kimpembe,Pass
+388993,42,SavedShot,0.7969999694824219,0.3120000076293945,0.03416285663843155,Rafinha,h,2100,OpenPlay,2020,LeftFoot,15874,Paris Saint Germain,Bordeaux,2,2,2020-11-28 20:00:00,,None
+388994,42,MissedShots,0.91,0.355,0.014936480671167374,Rafinha,h,2100,OpenPlay,2020,Head,15874,Paris Saint Germain,Bordeaux,2,2,2020-11-28 20:00:00,,Rebound
+388999,53,BlockedShot,0.8519999694824218,0.49700000762939456,0.10764022171497345,Neymar,h,2099,OpenPlay,2020,RightFoot,15874,Paris Saint Germain,Bordeaux,2,2,2020-11-28 20:00:00,Kylian Mbappe-Lottin,Pass
+389005,69,MissedShots,0.9419999694824219,0.5109999847412109,0.27585694193840027,Moise Kean,h,1304,FromCorner,2020,Head,15874,Paris Saint Germain,Bordeaux,2,2,2020-11-28 20:00:00,Ángel Di María,Aerial
+389008,76,SavedShot,0.9030000305175782,0.48200000762939454,0.04401547834277153,Neymar,h,2099,SetPiece,2020,Head,15874,Paris Saint Germain,Bordeaux,2,2,2020-11-28 20:00:00,,None
+389010,82,BlockedShot,0.9030000305175782,0.6990000152587891,0.05354206636548042,Neymar,h,2099,OpenPlay,2020,RightFoot,15874,Paris Saint Germain,Bordeaux,2,2,2020-11-28 20:00:00,Pablo Sarabia,Pass
+389013,86,MissedShots,0.9119999694824219,0.6780000305175782,0.06372218579053879,Kylian Mbappe-Lottin,h,3423,OpenPlay,2020,LeftFoot,15874,Paris Saint Germain,Bordeaux,2,2,2020-11-28 20:00:00,Neymar,Pass
+388980,5,BlockedShot,0.89,0.41,0.10950165241956711,Hatem Ben Arfa,a,3638,OpenPlay,2020,LeftFoot,15874,Paris Saint Germain,Bordeaux,2,2,2020-11-28 20:00:00,Toma Basic,Pass
+388981,6,MissedShots,0.8190000152587891,0.5359999847412109,0.04130534082651138,Paul Baysse,a,3305,FromCorner,2020,LeftFoot,15874,Paris Saint Germain,Bordeaux,2,2,2020-11-28 20:00:00,,None
+388992,35,SavedShot,0.8969999694824219,0.35900001525878905,0.058477334678173065,Mehdi Zerkane,a,8166,OpenPlay,2020,RightFoot,15874,Paris Saint Germain,Bordeaux,2,2,2020-11-28 20:00:00,Hwang Ui-Jo,BallTouch
+388995,44,MissedShots,0.750999984741211,0.6020000076293945,0.017362438142299652,Toma Basic,a,6902,OpenPlay,2020,LeftFoot,15874,Paris Saint Germain,Bordeaux,2,2,2020-11-28 20:00:00,,None
+388996,46,MissedShots,0.874000015258789,0.749000015258789,0.02357393503189087,Hwang Ui-Jo,a,7746,OpenPlay,2020,RightFoot,15874,Paris Saint Germain,Bordeaux,2,2,2020-11-28 20:00:00,Paul Baysse,Chipped
+388997,49,BlockedShot,0.8719999694824219,0.644000015258789,0.053075458854436874,Hwang Ui-Jo,a,7746,OpenPlay,2020,RightFoot,15874,Paris Saint Germain,Bordeaux,2,2,2020-11-28 20:00:00,,Foul
+388998,50,MissedShots,0.9069999694824219,0.5720000076293945,0.0494408942759037,Loris Benito,a,7745,FromCorner,2020,Head,15874,Paris Saint Germain,Bordeaux,2,2,2020-11-28 20:00:00,Hatem Ben Arfa,Cross
+389000,54,BlockedShot,0.825999984741211,0.41700000762939454,0.047065526247024536,Josh Maja,a,5587,OpenPlay,2020,RightFoot,15874,Paris Saint Germain,Bordeaux,2,2,2020-11-28 20:00:00,,None
+389001,57,MissedShots,0.9490000152587891,0.7390000152587891,0.025666488334536552,Hwang Ui-Jo,a,7746,OpenPlay,2020,RightFoot,15874,Paris Saint Germain,Bordeaux,2,2,2020-11-28 20:00:00,Hatem Ben Arfa,TakeOn
+389002,59,Goal,0.7959999847412109,0.4379999923706055,0.07040759921073914,Yacine Adli,a,6762,OpenPlay,2020,RightFoot,15874,Paris Saint Germain,Bordeaux,2,2,2020-11-28 20:00:00,Hatem Ben Arfa,Pass
+389003,65,MissedShots,0.8630000305175781,0.3870000076293945,0.08421225100755692,Remi Oudin,a,6884,OpenPlay,2020,LeftFoot,15874,Paris Saint Germain,Bordeaux,2,2,2020-11-28 20:00:00,Josh Maja,Pass
+389004,68,MissedShots,0.919000015258789,0.30200000762939455,0.04773707687854767,Nicolas de Preville,a,3244,OpenPlay,2020,RightFoot,15874,Paris Saint Germain,Bordeaux,2,2,2020-11-28 20:00:00,Youssouf Sabaly,Pass
+389006,70,BlockedShot,0.905,0.5629999923706055,0.1247464194893837,Remi Oudin,a,6884,OpenPlay,2020,LeftFoot,15874,Paris Saint Germain,Bordeaux,2,2,2020-11-28 20:00:00,Hatem Ben Arfa,Pass
+389007,73,BlockedShot,0.779000015258789,0.69,0.010310575366020203,Nicolas de Preville,a,3244,SetPiece,2020,LeftFoot,15874,Paris Saint Germain,Bordeaux,2,2,2020-11-28 20:00:00,,Aerial
+389009,79,SavedShot,0.5509999847412109,0.5,0.008623464964330196,Josh Maja,a,5587,OpenPlay,2020,RightFoot,15874,Paris Saint Germain,Bordeaux,2,2,2020-11-28 20:00:00,Yacine Adli,Pass
+389011,85,SavedShot,0.8119999694824219,0.620999984741211,0.2375795543193817,Nicolas de Preville,a,3244,OpenPlay,2020,LeftFoot,15874,Paris Saint Germain,Bordeaux,2,2,2020-11-28 20:00:00,Hatem Ben Arfa,Pass
+389012,85,BlockedShot,0.784000015258789,0.645,0.026851005852222443,Jimmy Briand,a,3477,OpenPlay,2020,RightFoot,15874,Paris Saint Germain,Bordeaux,2,2,2020-11-28 20:00:00,Remi Oudin,BallTouch
+389014,88,MissedShots,0.8390000152587891,0.47,0.10081835091114044,Hatem Ben Arfa,a,3638,OpenPlay,2020,LeftFoot,15874,Paris Saint Germain,Bordeaux,2,2,2020-11-28 20:00:00,Nicolas de Preville,Pass

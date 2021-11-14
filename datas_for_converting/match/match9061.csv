@@ -1,0 +1,29 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+245331,8,MissedShots,0.710999984741211,0.6419999694824219,0.012981504201889038,Pavel Dolgov,h,3069,OpenPlay,2018,RightFoot,9061,Anzhi Makhachkala,Rubin Kazan,1,1,2018-11-24 16:00:00,Adlan Katsaev,Pass
+245332,11,MissedShots,0.7680000305175781,0.34200000762939453,0.015547110699117184,Konstantin Savichev,h,5541,FromCorner,2018,RightFoot,9061,Anzhi Makhachkala,Rubin Kazan,1,1,2018-11-24 16:00:00,,None
+245337,35,BlockedShot,0.88,0.54,0.11187178641557693,Igor Chaykovsky,h,6304,OpenPlay,2018,LeftFoot,9061,Anzhi Makhachkala,Rubin Kazan,1,1,2018-11-24 16:00:00,Vladislav Kulik,Throughball
+245338,35,Goal,0.935,0.5629999923706055,0.4418664276599884,Pavel Dolgov,h,3069,OpenPlay,2018,LeftFoot,9061,Anzhi Makhachkala,Rubin Kazan,1,1,2018-11-24 16:00:00,Igor Chaykovsky,TakeOn
+245343,50,MissedShots,0.7719999694824219,0.5220000076293946,0.029728110879659653,Gael Ondoua,h,6814,OpenPlay,2018,LeftFoot,9061,Anzhi Makhachkala,Rubin Kazan,1,1,2018-11-24 16:00:00,Konstantin Savichev,Pass
+245355,84,MissedShots,0.7630000305175781,0.43099998474121093,0.01754669100046158,Gael Ondoua,h,6814,FromCorner,2018,LeftFoot,9061,Anzhi Makhachkala,Rubin Kazan,1,1,2018-11-24 16:00:00,,None
+245333,14,BlockedShot,0.8219999694824218,0.6329999923706054,0.045074641704559326,Dmitriy Poloz,a,2775,OpenPlay,2018,LeftFoot,9061,Anzhi Makhachkala,Rubin Kazan,1,1,2018-11-24 16:00:00,Filip Uremovic,Pass
+245334,23,BlockedShot,0.7719999694824219,0.33099998474121095,0.05553325265645981,Sardar Azmoun,a,2774,DirectFreekick,2018,RightFoot,9061,Anzhi Makhachkala,Rubin Kazan,1,1,2018-11-24 16:00:00,,Standard
+245335,24,BlockedShot,0.749000015258789,0.6780000305175782,0.01376800611615181,Igor Konovalov,a,3090,OpenPlay,2018,LeftFoot,9061,Anzhi Makhachkala,Rubin Kazan,1,1,2018-11-24 16:00:00,,None
+245336,26,Goal,0.919000015258789,0.5259999847412109,0.14484484493732452,Igor Kalinin,a,6598,OpenPlay,2018,RightFoot,9061,Anzhi Makhachkala,Rubin Kazan,1,1,2018-11-24 16:00:00,Khoren Bayramyan,Pass
+245339,43,BlockedShot,0.7909999847412109,0.48,0.03865623474121094,Igor Konovalov,a,3090,OpenPlay,2018,RightFoot,9061,Anzhi Makhachkala,Rubin Kazan,1,1,2018-11-24 16:00:00,,None
+245340,44,BlockedShot,0.8019999694824219,0.6680000305175782,0.02793373540043831,Dmitriy Poloz,a,2775,OpenPlay,2018,RightFoot,9061,Anzhi Makhachkala,Rubin Kazan,1,1,2018-11-24 16:00:00,Igor Kalinin,Tackle
+245341,44,MissedShots,0.8590000152587891,0.4520000076293945,0.08819269388914108,Filip Uremovic,a,6797,OpenPlay,2018,RightFoot,9061,Anzhi Makhachkala,Rubin Kazan,1,1,2018-11-24 16:00:00,Khoren Bayramyan,Pass
+245342,46,MissedShots,0.7980000305175782,0.37900001525878907,0.03374490886926651,Ibrahim Tsallagov,a,2990,OpenPlay,2018,LeftFoot,9061,Anzhi Makhachkala,Rubin Kazan,1,1,2018-11-24 16:00:00,,None
+245344,58,MissedShots,0.9459999847412109,0.5940000152587891,0.057122085243463516,Sardar Azmoun,a,2774,FromCorner,2018,Head,9061,Anzhi Makhachkala,Rubin Kazan,1,1,2018-11-24 16:00:00,Dmitriy Poloz,Cross
+245345,59,MissedShots,0.7019999694824218,0.3770000076293945,0.012107609771192074,Dmitriy Poloz,a,2775,OpenPlay,2018,RightFoot,9061,Anzhi Makhachkala,Rubin Kazan,1,1,2018-11-24 16:00:00,Sardar Azmoun,Pass
+245346,62,MissedShots,0.8219999694824218,0.445,0.025339500978589058,Ruslan Kambolov,a,2975,OpenPlay,2018,RightFoot,9061,Anzhi Makhachkala,Rubin Kazan,1,1,2018-11-24 16:00:00,Sardar Azmoun,Chipped
+245347,64,BlockedShot,0.755,0.4470000076293945,0.02147165685892105,Sardar Azmoun,a,2774,OpenPlay,2018,RightFoot,9061,Anzhi Makhachkala,Rubin Kazan,1,1,2018-11-24 16:00:00,Vladimir Granat,TakeOn
+245348,65,BlockedShot,0.8290000152587891,0.5609999847412109,0.04109395667910576,Igor Kalinin,a,6598,FromCorner,2018,RightFoot,9061,Anzhi Makhachkala,Rubin Kazan,1,1,2018-11-24 16:00:00,,None
+245349,65,BlockedShot,0.9490000152587891,0.55,0.12633368372917175,Sardar Azmoun,a,2774,FromCorner,2018,RightFoot,9061,Anzhi Makhachkala,Rubin Kazan,1,1,2018-11-24 16:00:00,,None
+245350,65,MissedShots,0.965,0.534000015258789,0.13351881504058838,Reza Shekari,a,6583,FromCorner,2018,Head,9061,Anzhi Makhachkala,Rubin Kazan,1,1,2018-11-24 16:00:00,Khoren Bayramyan,Cross
+245351,65,BlockedShot,0.965,0.534000015258789,0.1529914289712906,Reza Shekari,a,6583,FromCorner,2018,RightFoot,9061,Anzhi Makhachkala,Rubin Kazan,1,1,2018-11-24 16:00:00,,Rebound
+245352,65,MissedShots,0.7909999847412109,0.41,0.015754252672195435,Ruslan Kambolov,a,2975,FromCorner,2018,LeftFoot,9061,Anzhi Makhachkala,Rubin Kazan,1,1,2018-11-24 16:00:00,,Aerial
+245353,79,BlockedShot,0.7819999694824219,0.36700000762939455,0.02754461020231247,Sardar Azmoun,a,2774,OpenPlay,2018,RightFoot,9061,Anzhi Makhachkala,Rubin Kazan,1,1,2018-11-24 16:00:00,Reza Shekari,Pass
+245354,79,MissedShots,0.774000015258789,0.32799999237060545,0.0167094673961401,Ruslan Kambolov,a,2975,OpenPlay,2018,RightFoot,9061,Anzhi Makhachkala,Rubin Kazan,1,1,2018-11-24 16:00:00,Sardar Azmoun,Pass
+245356,85,MissedShots,0.9159999847412109,0.35700000762939454,0.08952764421701431,Reza Shekari,a,6583,OpenPlay,2018,RightFoot,9061,Anzhi Makhachkala,Rubin Kazan,1,1,2018-11-24 16:00:00,Khoren Bayramyan,Pass
+245357,88,MissedShots,0.754000015258789,0.515,0.01779414713382721,Ruslan Kambolov,a,2975,OpenPlay,2018,RightFoot,9061,Anzhi Makhachkala,Rubin Kazan,1,1,2018-11-24 16:00:00,Reza Shekari,Pass
+245358,89,MissedShots,0.8009999847412109,0.6,0.03897378221154213,Sardar Azmoun,a,2774,OpenPlay,2018,RightFoot,9061,Anzhi Makhachkala,Rubin Kazan,1,1,2018-11-24 16:00:00,Khoren Bayramyan,Pass

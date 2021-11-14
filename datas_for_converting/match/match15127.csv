@@ -1,0 +1,28 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+420812,0,BlockedShot,0.764000015258789,0.5829999923706055,0.02133925072848797,Etienne Capoue,h,572,OpenPlay,2020,RightFoot,15127,Villarreal,Celta Vigo,2,4,2021-05-09 16:30:00,,None
+420816,16,SavedShot,0.884000015258789,0.3609999847412109,0.0682322233915329,Fernando Niño,h,8271,OpenPlay,2020,RightFoot,15127,Villarreal,Celta Vigo,2,4,2021-05-09 16:30:00,Manu Trigueros,Pass
+420819,24,Goal,0.9290000152587891,0.5159999847412109,0.4102034866809845,Moi Gómez,h,2198,OpenPlay,2020,Head,15127,Villarreal,Celta Vigo,2,4,2021-05-09 16:30:00,Rubén Peña,Chipped
+420821,28,SavedShot,0.8909999847412109,0.7,0.03132391348481178,Yeremi Pino,h,9024,OpenPlay,2020,RightFoot,15127,Villarreal,Celta Vigo,2,4,2021-05-09 16:30:00,Raúl Albiol,TakeOn
+420823,35,BlockedShot,0.889000015258789,0.345,0.055622756481170654,Manu Trigueros,h,2301,OpenPlay,2020,LeftFoot,15127,Villarreal,Celta Vigo,2,4,2021-05-09 16:30:00,,None
+420824,35,SavedShot,0.9169999694824219,0.6769999694824219,0.0536685436964035,Estupiñán,h,5136,OpenPlay,2020,LeftFoot,15127,Villarreal,Celta Vigo,2,4,2021-05-09 16:30:00,Fernando Niño,Pass
+420825,44,MissedShots,0.97,0.53,0.6262099742889404,Ramiro Funes Mori,h,597,SetPiece,2020,RightFoot,15127,Villarreal,Celta Vigo,2,4,2021-05-09 16:30:00,Raúl Albiol,HeadPass
+420828,48,BlockedShot,0.8809999847412109,0.6129999923706054,0.08690513670444489,Alberto Moreno,h,608,OpenPlay,2020,LeftFoot,15127,Villarreal,Celta Vigo,2,4,2021-05-09 16:30:00,Yeremi Pino,Pass
+420829,48,MissedShots,0.795,0.4809999847412109,0.025442220270633698,Etienne Capoue,h,572,OpenPlay,2020,RightFoot,15127,Villarreal,Celta Vigo,2,4,2021-05-09 16:30:00,,Rebound
+420832,66,MissedShots,0.8690000152587891,0.605999984741211,0.04437500610947609,Yeremi Pino,h,9024,OpenPlay,2020,LeftFoot,15127,Villarreal,Celta Vigo,2,4,2021-05-09 16:30:00,Gerard Moreno,HeadPass
+420833,74,MissedShots,0.8959999847412109,0.7269999694824218,0.038590721786022186,Alberto Moreno,h,608,OpenPlay,2020,LeftFoot,15127,Villarreal,Celta Vigo,2,4,2021-05-09 16:30:00,Manu Trigueros,Pass
+420834,75,SavedShot,0.85,0.48400001525878905,0.0610639862716198,Raba,h,5199,OpenPlay,2020,LeftFoot,15127,Villarreal,Celta Vigo,2,4,2021-05-09 16:30:00,,None
+420835,86,Goal,0.885,0.5,0.7432776093482971,Gerard Moreno,h,2120,Penalty,2020,LeftFoot,15127,Villarreal,Celta Vigo,2,4,2021-05-09 16:30:00,,Standard
+420836,91,SavedShot,0.8909999847412109,0.47200000762939454,0.04844018816947937,Ramiro Funes Mori,h,597,OpenPlay,2020,Head,15127,Villarreal,Celta Vigo,2,4,2021-05-09 16:30:00,Manu Trigueros,Chipped
+420837,93,MissedShots,0.925,0.415,0.09286510944366455,Raba,h,5199,OpenPlay,2020,Head,15127,Villarreal,Celta Vigo,2,4,2021-05-09 16:30:00,Gerard Moreno,Cross
+420838,94,MissedShots,0.915,0.495,0.10336655378341675,Gerard Moreno,h,2120,FromCorner,2020,Head,15127,Villarreal,Celta Vigo,2,4,2021-05-09 16:30:00,Manu Trigueros,Cross
+420813,4,SavedShot,0.955999984741211,0.39799999237060546,0.019761618226766586,Brais Méndez,a,6227,FromCorner,2020,Head,15127,Villarreal,Celta Vigo,2,4,2021-05-09 16:30:00,Denis Suárez,Aerial
+420814,10,MissedShots,0.85,0.5570000076293945,0.06793245673179626,Nolito,a,1732,OpenPlay,2020,RightFoot,15127,Villarreal,Celta Vigo,2,4,2021-05-09 16:30:00,Augusto Solari,None
+420815,12,MissedShots,0.7719999694824219,0.5420000076293945,0.02980094589293003,Denis Suárez,a,2308,OpenPlay,2020,RightFoot,15127,Villarreal,Celta Vigo,2,4,2021-05-09 16:30:00,Santi Mina,Pass
+420817,18,Goal,0.9119999694824219,0.4779999923706055,0.125540092587471,Santi Mina,a,2384,OpenPlay,2020,Head,15127,Villarreal,Celta Vigo,2,4,2021-05-09 16:30:00,Aarón Martín,Cross
+420818,22,SavedShot,0.8009999847412109,0.235,0.024012235924601555,Fran Beltrán,a,6931,OpenPlay,2020,RightFoot,15127,Villarreal,Celta Vigo,2,4,2021-05-09 16:30:00,,BallRecovery
+420820,27,MissedShots,0.785,0.6029999923706054,0.02871892601251602,Brais Méndez,a,6227,OpenPlay,2020,LeftFoot,15127,Villarreal,Celta Vigo,2,4,2021-05-09 16:30:00,,None
+420822,33,Goal,0.885,0.5,0.7432776093482971,Santi Mina,a,2384,Penalty,2020,RightFoot,15127,Villarreal,Celta Vigo,2,4,2021-05-09 16:30:00,,Standard
+420827,46,MissedShots,0.475,0.4909999847412109,0.008732249960303307,Santi Mina,a,2384,OpenPlay,2020,RightFoot,15127,Villarreal,Celta Vigo,2,4,2021-05-09 16:30:00,,None
+420826,47,Goal,0.885,0.5,0.7432776093482971,Brais Méndez,a,6227,Penalty,2020,LeftFoot,15127,Villarreal,Celta Vigo,2,4,2021-05-09 16:30:00,,Standard
+420830,56,Goal,0.865,0.43900001525878907,0.09593664854764938,Augusto Solari,a,9305,OpenPlay,2020,RightFoot,15127,Villarreal,Celta Vigo,2,4,2021-05-09 16:30:00,Aarón Martín,Cross
+420831,64,MissedShots,0.8230000305175781,0.6819999694824219,0.09301581978797913,Santi Mina,a,2384,OpenPlay,2020,RightFoot,15127,Villarreal,Celta Vigo,2,4,2021-05-09 16:30:00,Brais Méndez,Pass

@@ -1,0 +1,27 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+420340,9,MissedShots,0.8430000305175781,0.495,0.07257688045501709,Sadio Mané,h,838,OpenPlay,2020,RightFoot,14780,Liverpool,Southampton,2,0,2021-05-08 19:15:00,Trent Alexander-Arnold,Chipped
+420341,18,SavedShot,0.965999984741211,0.3840000152587891,0.3509260416030884,Mohamed Salah,h,1250,OpenPlay,2020,RightFoot,14780,Liverpool,Southampton,2,0,2021-05-08 19:15:00,Sadio Mané,Pass
+420342,18,MissedShots,0.914000015258789,0.56,0.07088425010442734,Nathaniel Phillips,h,8228,FromCorner,2020,Head,14780,Liverpool,Southampton,2,0,2021-05-08 19:15:00,Trent Alexander-Arnold,Cross
+420344,24,SavedShot,0.875,0.5729999923706055,0.36032432317733765,Diogo Jota,h,6854,OpenPlay,2020,RightFoot,14780,Liverpool,Southampton,2,0,2021-05-08 19:15:00,Sadio Mané,Pass
+420345,24,SavedShot,0.9159999847412109,0.285,0.043992504477500916,Mohamed Salah,h,1250,FromCorner,2020,LeftFoot,14780,Liverpool,Southampton,2,0,2021-05-08 19:15:00,Trent Alexander-Arnold,Pass
+420346,25,ShotOnPost,0.9069999694824219,0.4540000152587891,0.022516461089253426,Georginio Wijnaldum,h,771,FromCorner,2020,Head,14780,Liverpool,Southampton,2,0,2021-05-08 19:15:00,Trent Alexander-Arnold,Aerial
+420351,30,Goal,0.960999984741211,0.545,0.5736967921257019,Sadio Mané,h,838,OpenPlay,2020,Head,14780,Liverpool,Southampton,2,0,2021-05-08 19:15:00,Mohamed Salah,Aerial
+420352,35,BlockedShot,0.865,0.49900001525878906,0.09852144867181778,Mohamed Salah,h,1250,OpenPlay,2020,LeftFoot,14780,Liverpool,Southampton,2,0,2021-05-08 19:15:00,,None
+420353,35,BlockedShot,0.774000015258789,0.49400001525878906,0.043759141117334366,Thiago Alcántara,h,229,OpenPlay,2020,RightFoot,14780,Liverpool,Southampton,2,0,2021-05-08 19:15:00,,None
+420356,48,SavedShot,0.9430000305175781,0.7190000152587891,0.059014692902565,Diogo Jota,h,6854,OpenPlay,2020,LeftFoot,14780,Liverpool,Southampton,2,0,2021-05-08 19:15:00,Andrew Robertson,Pass
+420357,49,MissedShots,0.9219999694824219,0.46799999237060547,0.27846211194992065,Nathaniel Phillips,h,8228,FromCorner,2020,Head,14780,Liverpool,Southampton,2,0,2021-05-08 19:15:00,Trent Alexander-Arnold,Cross
+420358,68,BlockedShot,0.8569999694824219,0.5940000152587891,0.09498687833547592,Mohamed Salah,h,1250,OpenPlay,2020,LeftFoot,14780,Liverpool,Southampton,2,0,2021-05-08 19:15:00,Sadio Mané,Pass
+420363,77,MissedShots,0.9059999847412109,0.4229999923706055,0.13208463788032532,Diogo Jota,h,6854,OpenPlay,2020,RightFoot,14780,Liverpool,Southampton,2,0,2021-05-08 19:15:00,Mohamed Salah,Pass
+420364,89,Goal,0.8069999694824219,0.504000015258789,0.061921849846839905,Thiago Alcántara,h,229,OpenPlay,2020,RightFoot,14780,Liverpool,Southampton,2,0,2021-05-08 19:15:00,Roberto Firmino,Pass
+420339,2,MissedShots,0.8880000305175781,0.4929999923706055,0.04517819359898567,Jannik Vestergaard,a,111,FromCorner,2020,Head,14780,Liverpool,Southampton,2,0,2021-05-08 19:15:00,James Ward-Prowse,Cross
+420343,20,MissedShots,0.899000015258789,0.7609999847412109,0.02350449003279209,Nathan Redmond,a,790,OpenPlay,2020,RightFoot,14780,Liverpool,Southampton,2,0,2021-05-08 19:15:00,James Ward-Prowse,Chipped
+420347,26,BlockedShot,0.7580000305175781,0.7030000305175781,0.01394966896623373,Stuart Armstrong,a,6893,OpenPlay,2020,RightFoot,14780,Liverpool,Southampton,2,0,2021-05-08 19:15:00,Nathan Tella,Pass
+420348,27,MissedShots,0.7519999694824219,0.649000015258789,0.018340447917580605,Nathan Redmond,a,790,OpenPlay,2020,RightFoot,14780,Liverpool,Southampton,2,0,2021-05-08 19:15:00,Theo Walcott,Pass
+420349,29,SavedShot,0.884000015258789,0.5540000152587891,0.4779469966888428,Che Adams,a,7700,OpenPlay,2020,RightFoot,14780,Liverpool,Southampton,2,0,2021-05-08 19:15:00,Nathan Tella,Pass
+420350,29,SavedShot,0.8009999847412109,0.5159999847412109,0.0491502620279789,Nathan Redmond,a,790,OpenPlay,2020,RightFoot,14780,Liverpool,Southampton,2,0,2021-05-08 19:15:00,,BallRecovery
+420354,37,MissedShots,0.874000015258789,0.7380000305175781,0.01953776367008686,Nathan Redmond,a,790,OpenPlay,2020,RightFoot,14780,Liverpool,Southampton,2,0,2021-05-08 19:15:00,Theo Walcott,Chipped
+420355,43,SavedShot,0.91,0.5359999847412109,0.3015120327472687,Nathan Tella,a,8456,OpenPlay,2020,Head,14780,Liverpool,Southampton,2,0,2021-05-08 19:15:00,Nathan Redmond,Cross
+420359,68,BlockedShot,0.8119999694824219,0.37099998474121093,0.025172671303153038,Kyle Walker-Peters,a,885,OpenPlay,2020,LeftFoot,14780,Liverpool,Southampton,2,0,2021-05-08 19:15:00,Nathan Redmond,Chipped
+420360,68,SavedShot,0.735,0.44099998474121094,0.010490775108337402,James Ward-Prowse,a,843,OpenPlay,2020,RightFoot,14780,Liverpool,Southampton,2,0,2021-05-08 19:15:00,,Aerial
+420361,70,SavedShot,0.8490000152587891,0.52,0.0549185536801815,Ibrahima Diallo,a,6736,OpenPlay,2020,LeftFoot,14780,Liverpool,Southampton,2,0,2021-05-08 19:15:00,Michael Obafemi,HeadPass
+420362,76,SavedShot,0.795,0.30700000762939456,0.18920107185840607,Che Adams,a,7700,OpenPlay,2020,RightFoot,14780,Liverpool,Southampton,2,0,2021-05-08 19:15:00,,BallRecovery

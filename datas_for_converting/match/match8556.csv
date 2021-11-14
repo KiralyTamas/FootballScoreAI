@@ -1,0 +1,26 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+214721,1,BlockedShot,0.7959999847412109,0.37099998474121093,0.0345698706805706,James Rodríguez,h,2249,OpenPlay,2017,LeftFoot,8556,Bayern Munich,VfB Stuttgart,1,4,2018-05-12 14:30:00,,BallRecovery
+214722,2,MissedShots,0.8419999694824218,0.415,0.07442841678857803,Robert Lewandowski,h,227,OpenPlay,2017,LeftFoot,8556,Bayern Munich,VfB Stuttgart,1,4,2018-05-12 14:30:00,Thomas Müller,Pass
+214725,12,MissedShots,0.925,0.425,0.03706825152039528,Robert Lewandowski,h,227,OpenPlay,2017,Head,8556,Bayern Munich,VfB Stuttgart,1,4,2018-05-12 14:30:00,James Rodríguez,Aerial
+214726,20,Goal,0.875999984741211,0.4929999923706055,0.3639824092388153,Corentin Tolisso,h,3603,OpenPlay,2017,RightFoot,8556,Bayern Munich,VfB Stuttgart,1,4,2018-05-12 14:30:00,Robert Lewandowski,TakeOn
+214727,25,SavedShot,0.9,0.6430000305175781,0.07508359104394913,Robert Lewandowski,h,227,OpenPlay,2017,RightFoot,8556,Bayern Munich,VfB Stuttgart,1,4,2018-05-12 14:30:00,Mats Hummels,Pass
+214729,32,SavedShot,0.965999984741211,0.44799999237060545,0.5587419867515564,Robert Lewandowski,h,227,OpenPlay,2017,Head,8556,Bayern Munich,VfB Stuttgart,1,4,2018-05-12 14:30:00,Franck Ribéry,Cross
+214730,35,SavedShot,0.905,0.5309999847412109,0.10112704336643219,Corentin Tolisso,h,3603,OpenPlay,2017,RightFoot,8556,Bayern Munich,VfB Stuttgart,1,4,2018-05-12 14:30:00,Niklas Süle,HeadPass
+214731,36,SavedShot,0.9230000305175782,0.42200000762939455,0.06688443571329117,Niklas Süle,h,75,FromCorner,2017,Head,8556,Bayern Munich,VfB Stuttgart,1,4,2018-05-12 14:30:00,James Rodríguez,Cross
+214733,45,MissedShots,0.77,0.5070000076293946,0.02988402359187603,James Rodríguez,h,2249,OpenPlay,2017,LeftFoot,8556,Bayern Munich,VfB Stuttgart,1,4,2018-05-12 14:30:00,Thiago Alcántara,Pass
+214734,46,SavedShot,0.9209999847412109,0.34900001525878904,0.05441883206367493,Javi Martínez,h,225,OpenPlay,2017,RightFoot,8556,Bayern Munich,VfB Stuttgart,1,4,2018-05-12 14:30:00,Thomas Müller,HeadPass
+214738,58,BlockedShot,0.77,0.4909999847412109,0.020505813881754875,Franck Ribéry,h,329,SetPiece,2017,RightFoot,8556,Bayern Munich,VfB Stuttgart,1,4,2018-05-12 14:30:00,,None
+214739,61,MissedShots,0.85,0.6270000076293946,0.05425216257572174,Robert Lewandowski,h,227,OpenPlay,2017,LeftFoot,8556,Bayern Munich,VfB Stuttgart,1,4,2018-05-12 14:30:00,Thiago Alcántara,BlockedPass
+214740,66,SavedShot,0.975999984741211,0.33099998474121095,0.00908610038459301,Joshua Kimmich,h,223,OpenPlay,2017,Head,8556,Bayern Munich,VfB Stuttgart,1,4,2018-05-12 14:30:00,Franck Ribéry,Cross
+214741,69,MissedShots,0.915,0.6179999923706054,0.03573153167963028,Robert Lewandowski,h,227,OpenPlay,2017,Head,8556,Bayern Munich,VfB Stuttgart,1,4,2018-05-12 14:30:00,James Rodríguez,Cross
+214742,73,SavedShot,0.9159999847412109,0.6940000152587891,0.277967631816864,Thiago Alcántara,h,229,OpenPlay,2017,RightFoot,8556,Bayern Munich,VfB Stuttgart,1,4,2018-05-12 14:30:00,,BallRecovery
+214743,77,BlockedShot,0.8830000305175781,0.654000015258789,0.06346601992845535,Sandro Wagner,h,11,OpenPlay,2017,LeftFoot,8556,Bayern Munich,VfB Stuttgart,1,4,2018-05-12 14:30:00,Javi Martínez,Pass
+214744,80,MissedShots,0.9269999694824219,0.649000015258789,0.03412448614835739,Robert Lewandowski,h,227,OpenPlay,2017,LeftFoot,8556,Bayern Munich,VfB Stuttgart,1,4,2018-05-12 14:30:00,Javi Martínez,Cross
+214745,88,MissedShots,0.904000015258789,0.40599998474121096,0.03408785164356232,Sebastian Rudy,h,90,OpenPlay,2017,Head,8556,Bayern Munich,VfB Stuttgart,1,4,2018-05-12 14:30:00,Javi Martínez,Aerial
+214723,4,Goal,0.9209999847412109,0.56,0.594458281993866,Daniel Ginczek,a,426,OpenPlay,2017,RightFoot,8556,Bayern Munich,VfB Stuttgart,1,4,2018-05-12 14:30:00,Anastasios Donis,Pass
+214724,8,SavedShot,0.76,0.4,0.019146887585520744,Orel Mangala,a,6088,OpenPlay,2017,RightFoot,8556,Bayern Munich,VfB Stuttgart,1,4,2018-05-12 14:30:00,Erik Thommy,TakeOn
+214728,25,SavedShot,0.845999984741211,0.41,0.24134549498558044,Daniel Ginczek,a,426,OpenPlay,2017,RightFoot,8556,Bayern Munich,VfB Stuttgart,1,4,2018-05-12 14:30:00,Orel Mangala,Pass
+214732,41,Goal,0.875,0.33599998474121096,0.4671950042247772,Anastasios Donis,a,3962,OpenPlay,2017,RightFoot,8556,Bayern Munich,VfB Stuttgart,1,4,2018-05-12 14:30:00,,BallRecovery
+214735,51,Goal,0.8969999694824219,0.49700000762939456,0.3607066869735718,Chadrac Akolo,a,6089,OpenPlay,2017,Head,8556,Bayern Munich,VfB Stuttgart,1,4,2018-05-12 14:30:00,Emiliano Insúa,Cross
+214736,54,SavedShot,0.9290000152587891,0.5179999923706055,0.44867292046546936,Erik Thommy,a,2676,OpenPlay,2017,Head,8556,Bayern Munich,VfB Stuttgart,1,4,2018-05-12 14:30:00,Anastasios Donis,Cross
+214737,54,Goal,0.935,0.5459999847412109,0.5942740440368652,Daniel Ginczek,a,426,OpenPlay,2017,LeftFoot,8556,Bayern Munich,VfB Stuttgart,1,4,2018-05-12 14:30:00,,Rebound

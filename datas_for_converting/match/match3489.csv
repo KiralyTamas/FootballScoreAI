@@ -1,0 +1,23 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+121189,12,MissedShots,0.764000015258789,0.3890000152587891,0.06574156880378723,Chris Brunt,h,904,DirectFreekick,2016,LeftFoot,3489,West Bromwich Albion,Leicester,0,1,2017-04-29 15:00:00,,Standard
+121190,17,SavedShot,0.9540000152587891,0.3629999923706055,0.014249616302549839,Chris Brunt,h,904,OpenPlay,2016,Head,3489,West Bromwich Albion,Leicester,0,1,2017-04-29 15:00:00,Jonny Evans,Aerial
+121191,26,SavedShot,0.825,0.69,0.033195577561855316,Nacer Chadli,h,648,OpenPlay,2016,LeftFoot,3489,West Bromwich Albion,Leicester,0,1,2017-04-29 15:00:00,Chris Brunt,Pass
+121192,32,MissedShots,0.725999984741211,0.5970000076293945,0.01796852797269821,Nacer Chadli,h,648,SetPiece,2016,RightFoot,3489,West Bromwich Albion,Leicester,0,1,2017-04-29 15:00:00,Chris Brunt,Pass
+121193,36,BlockedShot,0.8430000305175781,0.5870000076293945,0.08459538221359253,Salomón Rondón,h,813,SetPiece,2016,RightFoot,3489,West Bromwich Albion,Leicester,0,1,2017-04-29 15:00:00,Gareth McAuley,TakeOn
+121194,38,BlockedShot,0.879000015258789,0.62,0.06512010097503662,Chris Brunt,h,904,OpenPlay,2016,RightFoot,3489,West Bromwich Albion,Leicester,0,1,2017-04-29 15:00:00,James Morrison,Chipped
+121197,46,MissedShots,0.9730000305175781,0.605999984741211,0.03196389228105545,Salomón Rondón,h,813,FromCorner,2016,Head,3489,West Bromwich Albion,Leicester,0,1,2017-04-29 15:00:00,Nacer Chadli,Cross
+121198,47,SavedShot,0.784000015258789,0.415,0.03571923077106476,Salomón Rondón,h,813,OpenPlay,2016,RightFoot,3489,West Bromwich Albion,Leicester,0,1,2017-04-29 15:00:00,Chris Brunt,HeadPass
+121199,49,BlockedShot,0.875,0.27899999618530275,0.028766432777047157,Chris Brunt,h,904,OpenPlay,2016,LeftFoot,3489,West Bromwich Albion,Leicester,0,1,2017-04-29 15:00:00,James Morrison,Pass
+121200,49,MissedShots,0.725999984741211,0.4759999847412109,0.018263906240463257,Claudio Yacob,h,808,OpenPlay,2016,RightFoot,3489,West Bromwich Albion,Leicester,0,1,2017-04-29 15:00:00,,Rebound
+121201,55,BlockedShot,0.9640000152587891,0.5629999923706055,0.12448125332593918,Craig Dawson,h,804,FromCorner,2016,Head,3489,West Bromwich Albion,Leicester,0,1,2017-04-29 15:00:00,Nacer Chadli,Cross
+121203,62,MissedShots,0.7930000305175782,0.6730000305175782,0.07141100615262985,Nacer Chadli,h,648,DirectFreekick,2016,RightFoot,3489,West Bromwich Albion,Leicester,0,1,2017-04-29 15:00:00,,Standard
+121204,77,SavedShot,0.91,0.495,0.08151952177286148,James Morrison,h,990,OpenPlay,2016,Head,3489,West Bromwich Albion,Leicester,0,1,2017-04-29 15:00:00,James McClean,Cross
+121206,84,MissedShots,0.9219999694824219,0.5179999923706055,0.09967253357172012,Salomón Rondón,h,813,OpenPlay,2016,Head,3489,West Bromwich Albion,Leicester,0,1,2017-04-29 15:00:00,Chris Brunt,Cross
+121207,86,BlockedShot,0.7519999694824219,0.500999984741211,0.02028960920870304,James McClean,h,814,OpenPlay,2016,LeftFoot,3489,West Bromwich Albion,Leicester,0,1,2017-04-29 15:00:00,Nacer Chadli,Pass
+121208,92,MissedShots,0.919000015258789,0.6170000076293946,0.01666867546737194,James McClean,h,814,OpenPlay,2016,Head,3489,West Bromwich Albion,Leicester,0,1,2017-04-29 15:00:00,Gareth McAuley,Aerial
+121187,1,MissedShots,0.754000015258789,0.4229999923706055,0.01385782565921545,Daniel Drinkwater,a,752,FromCorner,2016,LeftFoot,3489,West Bromwich Albion,Leicester,0,1,2017-04-29 15:00:00,,Aerial
+121188,5,BlockedShot,0.7440000152587891,0.47400001525878904,0.020806685090065002,Wilfred Ndidi,a,5545,OpenPlay,2016,RightFoot,3489,West Bromwich Albion,Leicester,0,1,2017-04-29 15:00:00,Shinji Okazaki,LayOff
+121195,42,MissedShots,0.865999984741211,0.41900001525878905,0.05528166517615318,Wilfred Ndidi,a,5545,FromCorner,2016,LeftFoot,3489,West Bromwich Albion,Leicester,0,1,2017-04-29 15:00:00,,TakeOn
+121196,42,Goal,0.865,0.345,0.32152238488197327,Jamie Vardy,a,755,OpenPlay,2016,RightFoot,3489,West Bromwich Albion,Leicester,0,1,2017-04-29 15:00:00,Shinji Okazaki,Throughball
+121202,59,ShotOnPost,0.8809999847412109,0.2979999923706055,0.08636239916086197,Riyad Mahrez,a,750,OpenPlay,2016,LeftFoot,3489,West Bromwich Albion,Leicester,0,1,2017-04-29 15:00:00,Daniel Drinkwater,TakeOn
+121205,79,MissedShots,0.9069999694824219,0.3139999961853027,0.07283320277929306,Riyad Mahrez,a,750,OpenPlay,2016,LeftFoot,3489,West Bromwich Albion,Leicester,0,1,2017-04-29 15:00:00,Jamie Vardy,Pass

@@ -1,0 +1,32 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+58372,1,Goal,0.8069999694824219,0.5229999923706055,0.05386405438184738,James Milner,h,489,OpenPlay,2015,LeftFoot,145,Liverpool,Aston Villa,3,2,2015-09-26 18:00:00,Philippe Coutinho,Pass
+58373,4,SavedShot,0.9459999847412109,0.3290000152587891,0.01292456779628992,Emre Can,h,604,SetPiece,2015,Head,145,Liverpool,Aston Villa,3,2,2015-09-26 18:00:00,Alberto Moreno,Cross
+58375,7,SavedShot,0.8069999694824219,0.4879999923706055,0.06639450043439865,Danny Ings,h,986,OpenPlay,2015,RightFoot,145,Liverpool,Aston Villa,3,2,2015-09-26 18:00:00,Emre Can,Pass
+58376,8,MissedShots,0.8430000305175781,0.6040000152587891,0.0789279118180275,Danny Ings,h,986,OpenPlay,2015,RightFoot,145,Liverpool,Aston Villa,3,2,2015-09-26 18:00:00,James Milner,TakeOn
+58377,12,SavedShot,0.9309999847412109,0.7609999847412109,0.04700985178351402,Alberto Moreno,h,608,OpenPlay,2015,LeftFoot,145,Liverpool,Aston Villa,3,2,2015-09-26 18:00:00,,None
+58378,19,MissedShots,0.8430000305175781,0.8040000152587891,0.0260896198451519,Philippe Coutinho,h,488,OpenPlay,2015,RightFoot,145,Liverpool,Aston Villa,3,2,2015-09-26 18:00:00,Alberto Moreno,Pass
+58380,36,BlockedShot,0.749000015258789,0.65,0.018054528161883354,Philippe Coutinho,h,488,OpenPlay,2015,RightFoot,145,Liverpool,Aston Villa,3,2,2015-09-26 18:00:00,Alberto Moreno,Pass
+58384,48,BlockedShot,0.8469999694824218,0.51,0.09164845198392868,Philippe Coutinho,h,488,OpenPlay,2015,RightFoot,145,Liverpool,Aston Villa,3,2,2015-09-26 18:00:00,Danny Ings,BallTouch
+58386,51,SavedShot,0.8669999694824219,0.6769999694824219,0.0669165551662445,James Milner,h,489,OpenPlay,2015,LeftFoot,145,Liverpool,Aston Villa,3,2,2015-09-26 18:00:00,Philippe Coutinho,Pass
+58387,51,BlockedShot,0.955999984741211,0.3770000076293945,0.10294182598590851,Nathaniel Clyne,h,603,OpenPlay,2015,RightFoot,145,Liverpool,Aston Villa,3,2,2015-09-26 18:00:00,,Rebound
+58388,51,BlockedShot,0.8880000305175781,0.5929999923706055,0.020228447392582893,Martin Skrtel,h,607,FromCorner,2015,Head,145,Liverpool,Aston Villa,3,2,2015-09-26 18:00:00,James Milner,Cross
+58389,53,SavedShot,0.779000015258789,0.735999984741211,0.047874223440885544,Philippe Coutinho,h,488,DirectFreekick,2015,RightFoot,145,Liverpool,Aston Villa,3,2,2015-09-26 18:00:00,,Standard
+58390,58,Goal,0.894000015258789,0.6909999847412109,0.13487644493579865,Daniel Sturridge,h,483,OpenPlay,2015,LeftFoot,145,Liverpool,Aston Villa,3,2,2015-09-26 18:00:00,James Milner,Throughball
+58391,61,BlockedShot,0.845,0.48200000762939454,0.08445210009813309,Philippe Coutinho,h,488,OpenPlay,2015,RightFoot,145,Liverpool,Aston Villa,3,2,2015-09-26 18:00:00,,BallRecovery
+58392,63,SavedShot,0.865999984741211,0.43599998474121093,0.12142416834831238,Daniel Sturridge,h,483,OpenPlay,2015,RightFoot,145,Liverpool,Aston Villa,3,2,2015-09-26 18:00:00,Nathaniel Clyne,Pass
+58394,66,Goal,0.8530000305175781,0.5370000076293945,0.35565197467803955,Daniel Sturridge,h,483,OpenPlay,2015,RightFoot,145,Liverpool,Aston Villa,3,2,2015-09-26 18:00:00,Philippe Coutinho,Pass
+58396,73,SavedShot,0.7290000152587891,0.5609999847412109,0.04931453987956047,Philippe Coutinho,h,488,DirectFreekick,2015,RightFoot,145,Liverpool,Aston Villa,3,2,2015-09-26 18:00:00,,Standard
+58397,76,SavedShot,0.805,0.42900001525878906,0.055057380348443985,Philippe Coutinho,h,488,OpenPlay,2015,RightFoot,145,Liverpool,Aston Villa,3,2,2015-09-26 18:00:00,Nathaniel Clyne,Pass
+58400,83,BlockedShot,0.8730000305175781,0.5629999923706055,0.12358880043029785,Danny Ings,h,986,OpenPlay,2015,RightFoot,145,Liverpool,Aston Villa,3,2,2015-09-26 18:00:00,Daniel Sturridge,Pass
+58401,84,BlockedShot,0.8480000305175781,0.5259999847412109,0.0922895297408104,Daniel Sturridge,h,483,OpenPlay,2015,LeftFoot,145,Liverpool,Aston Villa,3,2,2015-09-26 18:00:00,,BallRecovery
+58402,85,SavedShot,0.879000015258789,0.5820000076293945,0.14066989719867706,Daniel Sturridge,h,483,OpenPlay,2015,RightFoot,145,Liverpool,Aston Villa,3,2,2015-09-26 18:00:00,Danny Ings,Throughball
+58374,6,MissedShots,0.915,0.46599998474121096,0.046088337898254395,Rudy Gestede,a,671,OpenPlay,2015,Head,145,Liverpool,Aston Villa,3,2,2015-09-26 18:00:00,Jordan Amavi,Aerial
+58379,21,MissedShots,0.8390000152587891,0.46799999237060547,0.05588744953274727,Rudy Gestede,a,671,OpenPlay,2015,RightFoot,145,Liverpool,Aston Villa,3,2,2015-09-26 18:00:00,,None
+58381,40,BlockedShot,0.835999984741211,0.4759999847412109,0.06870287656784058,Ashley Westwood,a,669,OpenPlay,2015,RightFoot,145,Liverpool,Aston Villa,3,2,2015-09-26 18:00:00,Scott Sinclair,Pass
+58382,41,MissedShots,0.8980000305175782,0.5690000152587891,0.0438353605568409,Micah Richards,a,665,FromCorner,2015,Head,145,Liverpool,Aston Villa,3,2,2015-09-26 18:00:00,Ashley Westwood,Cross
+58383,42,SavedShot,0.7340000152587891,0.45599998474121095,0.016032680869102478,Scott Sinclair,a,679,OpenPlay,2015,RightFoot,145,Liverpool,Aston Villa,3,2,2015-09-26 18:00:00,,None
+58385,50,MissedShots,0.850999984741211,0.475,0.018619678914546967,Scott Sinclair,a,679,OpenPlay,2015,Head,145,Liverpool,Aston Villa,3,2,2015-09-26 18:00:00,Alan Hutton,Cross
+58393,65,Goal,0.9630000305175781,0.5459999847412109,0.5228405594825745,Rudy Gestede,a,671,OpenPlay,2015,RightFoot,145,Liverpool,Aston Villa,3,2,2015-09-26 18:00:00,Alan Hutton,Cross
+58395,70,Goal,0.9059999847412109,0.4470000076293945,0.05170569568872452,Rudy Gestede,a,671,OpenPlay,2015,Head,145,Liverpool,Aston Villa,3,2,2015-09-26 18:00:00,Jordan Amavi,Aerial
+58398,77,MissedShots,0.9030000305175782,0.5220000076293946,0.040945570915937424,Micah Richards,a,665,SetPiece,2015,Head,145,Liverpool,Aston Villa,3,2,2015-09-26 18:00:00,Jordan Veretout,Aerial
+58399,80,SavedShot,0.8040000152587891,0.3320000076293945,0.02739609405398369,Idrissa Gueye,a,668,OpenPlay,2015,LeftFoot,145,Liverpool,Aston Villa,3,2,2015-09-26 18:00:00,,None

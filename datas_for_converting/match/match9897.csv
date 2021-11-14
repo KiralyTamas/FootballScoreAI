@@ -1,0 +1,24 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+295066,3,MissedShots,0.715999984741211,0.49,0.013867873698472977,Blerim Dzemaili,h,1444,FromCorner,2018,RightFoot,9897,Bologna,Sampdoria,3,0,2019-04-20 14:00:00,,None
+295069,12,MissedShots,0.755,0.784000015258789,0.008625796996057034,Nicola Sansone,h,1826,OpenPlay,2018,RightFoot,9897,Bologna,Sampdoria,3,0,2019-04-20 14:00:00,Erick Pulgar,Chipped
+295070,19,MissedShots,0.970999984741211,0.5690000152587891,0.0632319375872612,Danilo,h,1140,FromCorner,2018,Head,9897,Bologna,Sampdoria,3,0,2019-04-20 14:00:00,Erick Pulgar,Aerial
+295072,24,SavedShot,0.749000015258789,0.37599998474121094,0.022042298689484596,Riccardo Orsolini,h,6160,OpenPlay,2018,LeftFoot,9897,Bologna,Sampdoria,3,0,2019-04-20 14:00:00,Roberto Soriano,Pass
+295073,24,MissedShots,0.9059999847412109,0.38799999237060545,0.3202391266822815,Roberto Soriano,h,1810,OpenPlay,2018,RightFoot,9897,Bologna,Sampdoria,3,0,2019-04-20 14:00:00,,Rebound
+295074,33,SavedShot,0.8219999694824218,0.20200000762939452,0.016409002244472504,Riccardo Orsolini,h,6160,OpenPlay,2018,LeftFoot,9897,Bologna,Sampdoria,3,0,2019-04-20 14:00:00,Erick Pulgar,TakeOn
+295075,41,MissedShots,0.9209999847412109,0.509000015258789,0.36963629722595215,Roberto Soriano,h,1810,OpenPlay,2018,Head,9897,Bologna,Sampdoria,3,0,2019-04-20 14:00:00,Ladislav Krejci,Cross
+295078,53,SavedShot,0.764000015258789,0.6,0.06800366938114166,Erick Pulgar,h,1448,DirectFreekick,2018,RightFoot,9897,Bologna,Sampdoria,3,0,2019-04-20 14:00:00,,Standard
+295080,61,BlockedShot,0.7240000152587891,0.42400001525878905,0.016570627689361572,Blerim Dzemaili,h,1444,SetPiece,2018,RightFoot,9897,Bologna,Sampdoria,3,0,2019-04-20 14:00:00,Erick Pulgar,Pass
+295081,68,Goal,0.9340000152587891,0.9259999847412109,0.035627901554107666,Erick Pulgar,h,1448,DirectFreekick,2018,RightFoot,9897,Bologna,Sampdoria,3,0,2019-04-20 14:00:00,,Standard
+295087,82,Goal,0.8619999694824219,0.34299999237060547,0.07236656546592712,Riccardo Orsolini,h,6160,OpenPlay,2018,LeftFoot,9897,Bologna,Sampdoria,3,0,2019-04-20 14:00:00,Ladislav Krejci,Chipped
+295067,8,MissedShots,0.789000015258789,0.3579999923706055,0.024332476779818535,Albin Ekdal,a,411,OpenPlay,2018,RightFoot,9897,Bologna,Sampdoria,3,0,2019-04-20 14:00:00,Jacopo Sala,Pass
+295068,11,MissedShots,0.7559999847412109,0.67,0.050834909081459045,Fabio Quagliarella,a,1230,DirectFreekick,2018,RightFoot,9897,Bologna,Sampdoria,3,0,2019-04-20 14:00:00,,Standard
+295071,20,BlockedShot,0.9009999847412109,0.42400001525878905,0.12060651183128357,Albin Ekdal,a,411,OpenPlay,2018,LeftFoot,9897,Bologna,Sampdoria,3,0,2019-04-20 14:00:00,Dennis Praet,Pass
+295076,43,MissedShots,0.8530000305175781,0.49900001525878906,0.07819537073373795,Fabio Quagliarella,a,1230,OpenPlay,2018,RightFoot,9897,Bologna,Sampdoria,3,0,2019-04-20 14:00:00,Jacopo Sala,Chipped
+295077,45,SavedShot,0.895,0.6719999694824219,0.07187218219041824,Fabio Quagliarella,a,1230,OpenPlay,2018,RightFoot,9897,Bologna,Sampdoria,3,0,2019-04-20 14:00:00,Karol Linetty,Pass
+295079,53,OwnGoal,0.02,0.4759999847412109,0,Lorenzo Tonelli,a,1394,SetPiece,2018,LeftFoot,9897,Bologna,Sampdoria,3,0,2019-04-20 14:00:00,,Save
+295082,70,BlockedShot,0.8690000152587891,0.5159999847412109,0.08204815536737442,Albin Ekdal,a,411,OpenPlay,2018,RightFoot,9897,Bologna,Sampdoria,3,0,2019-04-20 14:00:00,,BallTouch
+295083,70,MissedShots,0.7169999694824218,0.7440000152587891,0.007189135067164898,Nicola Murru,a,1400,OpenPlay,2018,LeftFoot,9897,Bologna,Sampdoria,3,0,2019-04-20 14:00:00,,Rebound
+295084,71,MissedShots,0.700999984741211,0.6329999923706054,0.00872791651636362,Joachim Andersen,a,6314,OpenPlay,2018,RightFoot,9897,Bologna,Sampdoria,3,0,2019-04-20 14:00:00,Nicola Murru,Pass
+295085,72,MissedShots,0.875,0.29399999618530276,0.09073846787214279,Fabio Quagliarella,a,1230,OpenPlay,2018,RightFoot,9897,Bologna,Sampdoria,3,0,2019-04-20 14:00:00,Riccardo Saponara,Throughball
+295086,76,SavedShot,0.725,0.3529999923706055,0.010909372940659523,Gregoire Defrel,a,1468,OpenPlay,2018,LeftFoot,9897,Bologna,Sampdoria,3,0,2019-04-20 14:00:00,Jacopo Sala,Pass
+295088,89,BlockedShot,0.9430000305175781,0.6359999847412109,0.09338967502117157,Gianluca Caprari,a,1170,OpenPlay,2018,LeftFoot,9897,Bologna,Sampdoria,3,0,2019-04-20 14:00:00,Fabio Quagliarella,Pass

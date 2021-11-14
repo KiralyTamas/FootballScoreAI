@@ -1,0 +1,23 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+110531,9,BlockedShot,0.86,0.720999984741211,0.056219663470983505,Dalbert,h,5699,OpenPlay,2016,LeftFoot,4256,Nice,Paris Saint Germain,3,1,2017-04-30 20:00:00,Valentin Eysseric,Pass
+110533,19,MissedShots,0.91,0.44299999237060544,0.3345007002353668,Mario Balotelli,h,1817,SetPiece,2016,RightFoot,4256,Nice,Paris Saint Germain,3,1,2017-04-30 20:00:00,Jean Michael Seri,Chipped
+110534,25,Goal,0.799000015258789,0.4209999847412109,0.05128594487905502,Mario Balotelli,h,1817,OpenPlay,2016,LeftFoot,4256,Nice,Paris Saint Germain,3,1,2017-04-30 20:00:00,Ricardo Pereira,TakeOn
+110537,38,BlockedShot,0.889000015258789,0.5840000152587891,0.1242915689945221,Arnaud Souquet,h,5647,OpenPlay,2016,LeftFoot,4256,Nice,Paris Saint Germain,3,1,2017-04-30 20:00:00,Younès Belhanda,Pass
+110540,47,Goal,0.8369999694824218,0.27399999618530274,0.036815907806158066,Ricardo Pereira,h,3303,OpenPlay,2016,LeftFoot,4256,Nice,Paris Saint Germain,3,1,2017-04-30 20:00:00,Younès Belhanda,Pass
+110551,91,Goal,0.9640000152587891,0.5459999847412109,0.5767152905464172,Anastasios Donis,h,3962,OpenPlay,2016,Head,4256,Nice,Paris Saint Germain,3,1,2017-04-30 20:00:00,,None
+110530,4,SavedShot,0.745,0.20399999618530273,0.010975224897265434,Ángel Di María,a,3553,OpenPlay,2016,LeftFoot,4256,Nice,Paris Saint Germain,3,1,2017-04-30 20:00:00,Serge Aurier,Pass
+110532,16,MissedShots,0.9359999847412109,0.605999984741211,0.04614291340112686,Edinson Cavani,a,3294,FromCorner,2016,Head,4256,Nice,Paris Saint Germain,3,1,2017-04-30 20:00:00,Ángel Di María,Cross
+110535,27,MissedShots,0.86,0.7069999694824218,0.034729186445474625,Ángel Di María,a,3553,OpenPlay,2016,LeftFoot,4256,Nice,Paris Saint Germain,3,1,2017-04-30 20:00:00,,BallTouch
+110536,33,MissedShots,0.68,0.5109999847412109,0.01525032613426447,Ángel Di María,a,3553,OpenPlay,2016,LeftFoot,4256,Nice,Paris Saint Germain,3,1,2017-04-30 20:00:00,Blaise Matuidi,Pass
+110538,44,BlockedShot,0.840999984741211,0.6359999847412109,0.04606706276535988,Marco Verratti,a,3552,OpenPlay,2016,RightFoot,4256,Nice,Paris Saint Germain,3,1,2017-04-30 20:00:00,Julian Draxler,Pass
+110539,44,MissedShots,0.8040000152587891,0.49400001525878906,0.04352012276649475,Thiago Motta,a,3292,OpenPlay,2016,RightFoot,4256,Nice,Paris Saint Germain,3,1,2017-04-30 20:00:00,,Rebound
+110541,56,SavedShot,0.9630000305175781,0.41200000762939454,0.2710025906562805,Edinson Cavani,a,3294,FromCorner,2016,Head,4256,Nice,Paris Saint Germain,3,1,2017-04-30 20:00:00,Ángel Di María,Cross
+110542,63,BlockedShot,0.909000015258789,0.47900001525878905,0.049321722239255905,Thiago Silva,a,3288,FromCorner,2016,OtherBodyPart,4256,Nice,Paris Saint Germain,3,1,2017-04-30 20:00:00,Ángel Di María,Cross
+110543,63,Goal,0.965999984741211,0.485,0.5636359453201294,Marquinhos,a,3297,FromCorner,2016,Head,4256,Nice,Paris Saint Germain,3,1,2017-04-30 20:00:00,Thiago Silva,Rebound
+110544,70,SavedShot,0.8030000305175782,0.4470000076293945,0.018303044140338898,Thomas Meunier,a,5680,FromCorner,2016,LeftFoot,4256,Nice,Paris Saint Germain,3,1,2017-04-30 20:00:00,,Aerial
+110545,71,MissedShots,0.8830000305175781,0.5840000152587891,0.03146877884864807,Edinson Cavani,a,3294,OpenPlay,2016,Head,4256,Nice,Paris Saint Germain,3,1,2017-04-30 20:00:00,Ángel Di María,Cross
+110546,74,SavedShot,0.8930000305175781,0.44299999237060544,0.042057525366544724,Thiago Silva,a,3288,FromCorner,2016,Head,4256,Nice,Paris Saint Germain,3,1,2017-04-30 20:00:00,Julian Draxler,Cross
+110547,75,BlockedShot,0.8859999847412109,0.55,0.09700862318277359,Thiago Motta,a,3292,FromCorner,2016,LeftFoot,4256,Nice,Paris Saint Germain,3,1,2017-04-30 20:00:00,,Rebound
+110548,75,MissedShots,0.764000015258789,0.40400001525878904,0.01822488196194172,Ángel Di María,a,3553,FromCorner,2016,LeftFoot,4256,Nice,Paris Saint Germain,3,1,2017-04-30 20:00:00,,None
+110549,83,MissedShots,0.745999984741211,0.4229999923706055,0.018239803612232208,Thomas Meunier,a,5680,OpenPlay,2016,RightFoot,4256,Nice,Paris Saint Germain,3,1,2017-04-30 20:00:00,,None
+110550,84,MissedShots,0.8830000305175781,0.3629999923706055,0.045243773609399796,Lucas Moura,a,3293,OpenPlay,2016,RightFoot,4256,Nice,Paris Saint Germain,3,1,2017-04-30 20:00:00,Ángel Di María,Cross

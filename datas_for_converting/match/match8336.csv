@@ -1,0 +1,36 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+168252,24,MissedShots,0.785,0.775,0.01528887078166008,Ante Rebic,h,1852,OpenPlay,2017,RightFoot,8336,Eintracht Frankfurt,Borussia Dortmund,2,2,2017-10-21 14:30:00,Jetro Willems,Pass
+168253,30,SavedShot,0.799000015258789,0.445,0.2512831687927246,Marius Wolf,h,2693,OpenPlay,2017,RightFoot,8336,Eintracht Frankfurt,Borussia Dortmund,2,2,2017-10-21 14:30:00,Ante Rebic,HeadPass
+168254,33,MissedShots,0.87,0.5870000076293945,0.07653778791427612,Sébastien Haller,h,6144,OpenPlay,2017,LeftFoot,8336,Eintracht Frankfurt,Borussia Dortmund,2,2,2017-10-21 14:30:00,Marius Wolf,Pass
+168257,46,SavedShot,0.769000015258789,0.37,0.020390164107084274,Carlos Salcedo,h,1417,OpenPlay,2017,LeftFoot,8336,Eintracht Frankfurt,Borussia Dortmund,2,2,2017-10-21 14:30:00,,None
+168259,47,BlockedShot,0.874000015258789,0.485,0.07200770825147629,Sébastien Haller,h,6144,OpenPlay,2017,LeftFoot,8336,Eintracht Frankfurt,Borussia Dortmund,2,2,2017-10-21 14:30:00,,None
+168260,47,BlockedShot,0.9019999694824219,0.6630000305175782,0.06714270263910294,Ante Rebic,h,1852,OpenPlay,2017,LeftFoot,8336,Eintracht Frankfurt,Borussia Dortmund,2,2,2017-10-21 14:30:00,Jetro Willems,Pass
+168262,49,MissedShots,0.7019999694824218,0.5279999923706055,0.015956571325659752,Kevin-Prince Boateng,h,1819,OpenPlay,2017,RightFoot,8336,Eintracht Frankfurt,Borussia Dortmund,2,2,2017-10-21 14:30:00,Mijat Gacinovic,Pass
+168265,53,BlockedShot,0.9059999847412109,0.6759999847412109,0.08072609454393387,Ante Rebic,h,1852,OpenPlay,2017,LeftFoot,8336,Eintracht Frankfurt,Borussia Dortmund,2,2,2017-10-21 14:30:00,Mijat Gacinovic,Pass
+168267,62,MissedShots,0.9230000305175782,0.6079999923706054,0.47566357254981995,Ante Rebic,h,1852,OpenPlay,2017,LeftFoot,8336,Eintracht Frankfurt,Borussia Dortmund,2,2,2017-10-21 14:30:00,Mijat Gacinovic,BallTouch
+168268,63,Goal,0.885,0.5,0.75777667760849,Sébastien Haller,h,6144,Penalty,2017,RightFoot,8336,Eintracht Frankfurt,Borussia Dortmund,2,2,2017-10-21 14:30:00,,Standard
+168270,67,Goal,0.88,0.4209999847412109,0.3753177523612976,Marius Wolf,h,2693,OpenPlay,2017,RightFoot,8336,Eintracht Frankfurt,Borussia Dortmund,2,2,2017-10-21 14:30:00,Mijat Gacinovic,Throughball
+168271,69,SavedShot,0.9280000305175782,0.48700000762939455,0.41988447308540344,Mijat Gacinovic,h,290,OpenPlay,2017,Head,8336,Eintracht Frankfurt,Borussia Dortmund,2,2,2017-10-21 14:30:00,Ante Rebic,Cross
+168272,72,SavedShot,0.7859999847412109,0.7330000305175781,0.01828116551041603,Ante Rebic,h,1852,OpenPlay,2017,RightFoot,8336,Eintracht Frankfurt,Borussia Dortmund,2,2,2017-10-21 14:30:00,Carlos Salcedo,Chipped
+168275,77,SavedShot,0.9059999847412109,0.59,0.08307050913572311,Sébastien Haller,h,6144,FromCorner,2017,LeftFoot,8336,Eintracht Frankfurt,Borussia Dortmund,2,2,2017-10-21 14:30:00,Ante Rebic,HeadPass
+168277,85,MissedShots,0.76,0.72,0.012081646360456944,Kevin-Prince Boateng,h,1819,OpenPlay,2017,RightFoot,8336,Eintracht Frankfurt,Borussia Dortmund,2,2,2017-10-21 14:30:00,,None
+168247,4,BlockedShot,0.8780000305175781,0.7469999694824219,0.013380123302340508,Maximilian Philipp,a,4247,SetPiece,2017,RightFoot,8336,Eintracht Frankfurt,Borussia Dortmund,2,2,2017-10-21 14:30:00,,Aerial
+168248,10,BlockedShot,0.89,0.3060000038146973,0.018097056075930595,Maximilian Philipp,a,4247,SetPiece,2017,RightFoot,8336,Eintracht Frankfurt,Borussia Dortmund,2,2,2017-10-21 14:30:00,,Aerial
+168249,17,BlockedShot,0.865,0.669000015258789,0.050059251487255096,Mario Götze,a,422,OpenPlay,2017,RightFoot,8336,Eintracht Frankfurt,Borussia Dortmund,2,2,2017-10-21 14:30:00,Maximilian Philipp,Pass
+168250,17,MissedShots,0.805,0.285,0.0197896845638752,Marc Bartra,a,2453,OpenPlay,2017,RightFoot,8336,Eintracht Frankfurt,Borussia Dortmund,2,2,2017-10-21 14:30:00,,None
+168251,17,Goal,0.9330000305175781,0.5540000152587891,0.5015954375267029,Nuri Sahin,a,2642,OpenPlay,2017,LeftFoot,8336,Eintracht Frankfurt,Borussia Dortmund,2,2,2017-10-21 14:30:00,Marc Bartra,Rebound
+168255,37,BlockedShot,0.7769999694824219,0.3129999923706055,0.019175797700881958,Mario Götze,a,422,FromCorner,2017,RightFoot,8336,Eintracht Frankfurt,Borussia Dortmund,2,2,2017-10-21 14:30:00,,BallTouch
+168256,41,MissedShots,0.8959999847412109,0.5720000076293945,0.11100544035434723,Pierre-Emerick Aubameyang,a,318,OpenPlay,2017,LeftFoot,8336,Eintracht Frankfurt,Borussia Dortmund,2,2,2017-10-21 14:30:00,,None
+168258,47,MissedShots,0.8619999694824219,0.48,0.1109204962849617,Gonzalo Castro,a,316,OpenPlay,2017,RightFoot,8336,Eintracht Frankfurt,Borussia Dortmund,2,2,2017-10-21 14:30:00,Pierre-Emerick Aubameyang,Pass
+168261,49,SavedShot,0.8040000152587891,0.6759999847412109,0.03293309733271599,Maximilian Philipp,a,4247,OpenPlay,2017,RightFoot,8336,Eintracht Frankfurt,Borussia Dortmund,2,2,2017-10-21 14:30:00,Jeremy Toljan,Pass
+168263,50,MissedShots,0.9219999694824219,0.4,0.1286376267671585,Pierre-Emerick Aubameyang,a,318,OpenPlay,2017,RightFoot,8336,Eintracht Frankfurt,Borussia Dortmund,2,2,2017-10-21 14:30:00,Mario Götze,Pass
+168264,52,SavedShot,0.9069999694824219,0.6659999847412109,0.28345751762390137,Pierre-Emerick Aubameyang,a,318,OpenPlay,2017,RightFoot,8336,Eintracht Frankfurt,Borussia Dortmund,2,2,2017-10-21 14:30:00,Gonzalo Castro,Pass
+168266,56,Goal,0.8490000152587891,0.5940000152587891,0.09315583854913712,Maximilian Philipp,a,4247,OpenPlay,2017,LeftFoot,8336,Eintracht Frankfurt,Borussia Dortmund,2,2,2017-10-21 14:30:00,Mario Götze,Pass
+168269,65,SavedShot,0.89,0.3920000076293945,0.1140732690691948,Christian Pulisic,a,2662,OpenPlay,2017,RightFoot,8336,Eintracht Frankfurt,Borussia Dortmund,2,2,2017-10-21 14:30:00,Maximilian Philipp,Pass
+168273,74,BlockedShot,0.8690000152587891,0.710999984741211,0.03785397857427597,Maximilian Philipp,a,4247,OpenPlay,2017,LeftFoot,8336,Eintracht Frankfurt,Borussia Dortmund,2,2,2017-10-21 14:30:00,Mario Götze,Pass
+168274,75,MissedShots,0.715999984741211,0.49900001525878906,0.014087128452956676,Christian Pulisic,a,2662,FromCorner,2017,RightFoot,8336,Eintracht Frankfurt,Borussia Dortmund,2,2,2017-10-21 14:30:00,,None
+168276,82,MissedShots,0.7759999847412109,0.6909999847412109,0.0218316949903965,Maximilian Philipp,a,4247,OpenPlay,2017,RightFoot,8336,Eintracht Frankfurt,Borussia Dortmund,2,2,2017-10-21 14:30:00,Nuri Sahin,Pass
+168278,89,SavedShot,0.9740000152587891,0.6480000305175782,0.059525325894355774,Jadon Sancho,a,6345,OpenPlay,2017,LeftFoot,8336,Eintracht Frankfurt,Borussia Dortmund,2,2,2017-10-21 14:30:00,Jeremy Toljan,Chipped
+168279,89,BlockedShot,0.95,0.41900001525878905,0.4561219811439514,Nuri Sahin,a,2642,OpenPlay,2017,LeftFoot,8336,Eintracht Frankfurt,Borussia Dortmund,2,2,2017-10-21 14:30:00,,Rebound
+168280,89,BlockedShot,0.784000015258789,0.6840000152587891,0.018848884850740433,Dan-Axel Zagadou,a,6103,OpenPlay,2017,LeftFoot,8336,Eintracht Frankfurt,Borussia Dortmund,2,2,2017-10-21 14:30:00,,None
+168281,91,MissedShots,0.8119999694824219,0.23700000762939452,0.020617034286260605,Christian Pulisic,a,2662,OpenPlay,2017,RightFoot,8336,Eintracht Frankfurt,Borussia Dortmund,2,2,2017-10-21 14:30:00,Jadon Sancho,Pass

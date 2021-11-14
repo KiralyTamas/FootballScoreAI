@@ -1,0 +1,25 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+138337,1,Goal,0.9430000305175781,0.4929999923706055,0.42101895809173584,Willian José,h,2361,FromCorner,2016,Head,3175,Real Sociedad,Valencia,3,2,2016-12-10 19:15:00,Xabi Prieto,HeadPass
+138338,6,MissedShots,0.8730000305175781,0.7269999694824218,0.07230635732412338,David Zurutuza,h,2230,OpenPlay,2016,RightFoot,3175,Real Sociedad,Valencia,3,2,2016-12-10 19:15:00,,TakeOn
+138341,23,Goal,0.885,0.47200000762939454,0.04859909787774086,Willian José,h,2361,FromCorner,2016,Head,3175,Real Sociedad,Valencia,3,2,2016-12-10 19:15:00,Carlos Vela,Cross
+138344,32,BlockedShot,0.8230000305175781,0.5420000076293945,0.08424811065196991,Xabi Prieto,h,2233,OpenPlay,2016,RightFoot,3175,Real Sociedad,Valencia,3,2,2016-12-10 19:15:00,Willian José,Pass
+138346,40,MissedShots,0.649000015258789,0.34799999237060547,0.0113888680934906,Willian José,h,2361,OpenPlay,2016,RightFoot,3175,Real Sociedad,Valencia,3,2,2016-12-10 19:15:00,,Dispossessed
+138347,50,MissedShots,0.9119999694824219,0.5059999847412109,0.13755027949810028,Juanmi,h,897,OpenPlay,2016,Head,3175,Real Sociedad,Valencia,3,2,2016-12-10 19:15:00,Carlos Martínez,Cross
+138348,59,SavedShot,0.885,0.5,0.7432776093482971,Carlos Vela,h,2416,Penalty,2016,LeftFoot,3175,Real Sociedad,Valencia,3,2,2016-12-10 19:15:00,,Standard
+138350,68,BlockedShot,0.9130000305175782,0.19200000762939454,0.0749896988272667,Carlos Vela,h,2416,DirectFreekick,2016,LeftFoot,3175,Real Sociedad,Valencia,3,2,2016-12-10 19:15:00,,Standard
+138352,74,MissedShots,0.9230000305175782,0.7719999694824219,0.03977604955434799,Sergio Canales,h,2571,OpenPlay,2016,LeftFoot,3175,Real Sociedad,Valencia,3,2,2016-12-10 19:15:00,Carlos Vela,Pass
+138353,74,BlockedShot,0.909000015258789,0.34599998474121096,0.309302419424057,David Zurutuza,h,2230,OpenPlay,2016,RightFoot,3175,Real Sociedad,Valencia,3,2,2016-12-10 19:15:00,,Rebound
+138354,82,MissedShots,0.9080000305175782,0.455,0.1059916689991951,Raúl Navas,h,4130,SetPiece,2016,Head,3175,Real Sociedad,Valencia,3,2,2016-12-10 19:15:00,Sergio Canales,Cross
+138355,87,SavedShot,0.879000015258789,0.66,0.07547225803136826,David Zurutuza,h,2230,OpenPlay,2016,LeftFoot,3175,Real Sociedad,Valencia,3,2,2016-12-10 19:15:00,Yuri,Pass
+138356,88,BlockedShot,0.8819999694824219,0.715,0.05158614739775658,Yuri,h,2229,OpenPlay,2016,RightFoot,3175,Real Sociedad,Valencia,3,2,2016-12-10 19:15:00,Xabi Prieto,Pass
+138357,89,MissedShots,0.745999984741211,0.2979999923706055,0.019668690860271454,Sergio Canales,h,2571,OpenPlay,2016,LeftFoot,3175,Real Sociedad,Valencia,3,2,2016-12-10 19:15:00,Xabi Prieto,Pass
+138358,90,Goal,0.9319999694824219,0.5529999923706055,0.5203436017036438,Juanmi,h,897,OpenPlay,2016,LeftFoot,3175,Real Sociedad,Valencia,3,2,2016-12-10 19:15:00,Carlos Vela,Pass
+138339,11,SavedShot,0.9069999694824219,0.7019999694824218,0.050203029066324234,Martín Montoya,a,1950,OpenPlay,2016,RightFoot,3175,Real Sociedad,Valencia,3,2,2016-12-10 19:15:00,Daniel Parejo,TakeOn
+138340,12,BlockedShot,0.9459999847412109,0.6179999923706054,0.06185564026236534,Mario Suárez,a,576,FromCorner,2016,RightFoot,3175,Real Sociedad,Valencia,3,2,2016-12-10 19:15:00,Daniel Parejo,Foul
+138342,27,BlockedShot,0.875999984741211,0.6780000305175782,0.03390021249651909,Rodrigo,a,2381,OpenPlay,2016,LeftFoot,3175,Real Sociedad,Valencia,3,2,2016-12-10 19:15:00,Martín Montoya,Chipped
+138343,29,BlockedShot,0.754000015258789,0.745,0.010784897953271866,Fede Cartabia,a,2318,OpenPlay,2016,LeftFoot,3175,Real Sociedad,Valencia,3,2,2016-12-10 19:15:00,Rodrigo,Pass
+138345,35,Goal,0.885,0.5,0.7432776093482971,Daniel Parejo,a,2378,Penalty,2016,RightFoot,3175,Real Sociedad,Valencia,3,2,2016-12-10 19:15:00,,Standard
+138349,65,MissedShots,0.8490000152587891,0.5990000152587891,0.05480269342660904,Mario Suárez,a,576,SetPiece,2016,LeftFoot,3175,Real Sociedad,Valencia,3,2,2016-12-10 19:15:00,,None
+138351,69,BlockedShot,0.89,0.5670000076293945,0.053674910217523575,Mario Suárez,a,576,SetPiece,2016,Head,3175,Real Sociedad,Valencia,3,2,2016-12-10 19:15:00,Daniel Parejo,Chipped
+138359,92,BlockedShot,0.8730000305175781,0.5109999847412109,0.24166901409626007,Zakaria Bakkali,a,2538,OpenPlay,2016,RightFoot,3175,Real Sociedad,Valencia,3,2,2016-12-10 19:15:00,Daniel Parejo,Chipped
+138360,92,Goal,0.9319999694824219,0.4620000076293945,0.43936267495155334,Zakaria Bakkali,a,2538,OpenPlay,2016,RightFoot,3175,Real Sociedad,Valencia,3,2,2016-12-10 19:15:00,,Rebound

@@ -1,0 +1,31 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+152370,1,MissedShots,0.785,0.3629999923706055,0.07666371017694473,Josip Ilicic,h,1426,DirectFreekick,2016,LeftFoot,3084,Fiorentina,Sassuolo,2,1,2016-12-12 22:00:00,,Standard
+152372,9,BlockedShot,0.7240000152587891,0.54,0.04796333611011505,Josip Ilicic,h,1426,DirectFreekick,2016,LeftFoot,3084,Fiorentina,Sassuolo,2,1,2016-12-12 22:00:00,,Standard
+152373,9,Goal,0.9269999694824219,0.415,0.3294622302055359,Nikola Kalinic,h,1425,SetPiece,2016,RightFoot,3084,Fiorentina,Sassuolo,2,1,2016-12-12 22:00:00,Milan Badelj,Chipped
+152382,32,MissedShots,0.8669999694824219,0.3,0.05781257525086403,Josip Ilicic,h,1426,OpenPlay,2016,RightFoot,3084,Fiorentina,Sassuolo,2,1,2016-12-12 22:00:00,Federico Chiesa,Pass
+152383,36,BlockedShot,0.925,0.3340000152587891,0.07629778981208801,Nikola Kalinic,h,1425,OpenPlay,2016,RightFoot,3084,Fiorentina,Sassuolo,2,1,2016-12-12 22:00:00,Milan Badelj,Pass
+152384,39,Goal,0.924000015258789,0.4879999923706055,0.13757576048374176,Nikola Kalinic,h,1425,OpenPlay,2016,RightFoot,3084,Fiorentina,Sassuolo,2,1,2016-12-12 22:00:00,Federico Chiesa,Cross
+152387,45,MissedShots,0.884000015258789,0.27100000381469724,0.05313136428594589,Federico Chiesa,h,1433,OpenPlay,2016,RightFoot,3084,Fiorentina,Sassuolo,2,1,2016-12-12 22:00:00,Josip Ilicic,Pass
+152389,71,MissedShots,0.9219999694824219,0.669000015258789,0.36289578676223755,Cristian Tello,h,1421,OpenPlay,2016,RightFoot,3084,Fiorentina,Sassuolo,2,1,2016-12-12 22:00:00,Matías Vecino,BallRecovery
+152393,82,SavedShot,0.9480000305175781,0.6630000305175782,0.0900014117360115,Cristian Tello,h,1421,OpenPlay,2016,LeftFoot,3084,Fiorentina,Sassuolo,2,1,2016-12-12 22:00:00,Federico Bernardeschi,Pass
+152394,83,MissedShots,0.8159999847412109,0.3370000076293945,0.023153584450483322,Federico Chiesa,h,1433,FromCorner,2016,RightFoot,3084,Fiorentina,Sassuolo,2,1,2016-12-12 22:00:00,,None
+152395,85,SavedShot,0.9130000305175782,0.2520000076293945,0.03893209621310234,Federico Chiesa,h,1433,OpenPlay,2016,RightFoot,3084,Fiorentina,Sassuolo,2,1,2016-12-12 22:00:00,Nikola Kalinic,Chipped
+152396,86,MissedShots,0.8109999847412109,0.4420000076293945,0.03384137898683548,Milan Badelj,h,1430,FromCorner,2016,RightFoot,3084,Fiorentina,Sassuolo,2,1,2016-12-12 22:00:00,,None
+152397,89,SavedShot,0.8719999694824219,0.295,0.3177540898323059,Carlos Salcedo,h,1417,OpenPlay,2016,RightFoot,3084,Fiorentina,Sassuolo,2,1,2016-12-12 22:00:00,Nikola Kalinic,Throughball
+152398,91,SavedShot,0.99,0.6930000305175781,0.06149708479642868,Nikola Kalinic,h,1425,OpenPlay,2016,RightFoot,3084,Fiorentina,Sassuolo,2,1,2016-12-12 22:00:00,Matías Vecino,Pass
+152371,4,MissedShots,0.7680000305175781,0.41200000762939454,0.023185772821307182,Lorenzo Pellegrini,a,1471,OpenPlay,2016,RightFoot,3084,Fiorentina,Sassuolo,2,1,2016-12-12 22:00:00,Gregoire Defrel,None
+152374,12,MissedShots,0.85,0.5609999847412109,0.05880267173051834,Gregoire Defrel,a,1468,OpenPlay,2016,RightFoot,3084,Fiorentina,Sassuolo,2,1,2016-12-12 22:00:00,Antonino Ragusa,BallRecovery
+152375,14,BlockedShot,0.8269999694824218,0.46599998474121096,0.0360012948513031,Lorenzo Pellegrini,a,1471,OpenPlay,2016,LeftFoot,3084,Fiorentina,Sassuolo,2,1,2016-12-12 22:00:00,Federico Ricci,HeadPass
+152376,15,BlockedShot,0.784000015258789,0.6170000076293946,0.0815093070268631,Lorenzo Pellegrini,a,1471,DirectFreekick,2016,RightFoot,3084,Fiorentina,Sassuolo,2,1,2016-12-12 22:00:00,,Standard
+152377,15,BlockedShot,0.795,0.3340000152587891,0.017329085618257523,Marcello Gazzola,a,1478,SetPiece,2016,RightFoot,3084,Fiorentina,Sassuolo,2,1,2016-12-12 22:00:00,,Rebound
+152378,16,SavedShot,0.9690000152587891,0.4520000076293945,0.09294260293245316,Francesco Acerbi,a,1463,FromCorner,2016,Head,3084,Fiorentina,Sassuolo,2,1,2016-12-12 22:00:00,Gregoire Defrel,Aerial
+152379,16,MissedShots,0.85,0.3770000076293945,0.042776815593242645,Federico Ricci,a,1470,FromCorner,2016,LeftFoot,3084,Fiorentina,Sassuolo,2,1,2016-12-12 22:00:00,Francesco Magnanelli,HeadPass
+152380,20,BlockedShot,0.895,0.4540000152587891,0.03300425410270691,Francesco Acerbi,a,1463,SetPiece,2016,Head,3084,Fiorentina,Sassuolo,2,1,2016-12-12 22:00:00,,Aerial
+152381,28,MissedShots,0.960999984741211,0.6780000305175782,0.058693304657936096,Stefano Sensi,a,1465,OpenPlay,2016,LeftFoot,3084,Fiorentina,Sassuolo,2,1,2016-12-12 22:00:00,Antonino Ragusa,Pass
+152385,41,BlockedShot,0.7609999847412109,0.39799999237060546,0.014916883781552315,Marcello Gazzola,a,1478,OpenPlay,2016,RightFoot,3084,Fiorentina,Sassuolo,2,1,2016-12-12 22:00:00,,None
+152386,41,SavedShot,0.9069999694824219,0.39,0.07330505549907684,Federico Ricci,a,1470,OpenPlay,2016,RightFoot,3084,Fiorentina,Sassuolo,2,1,2016-12-12 22:00:00,,Rebound
+152388,67,MissedShots,0.9009999847412109,0.5459999847412109,0.08425429463386536,Federico Peluso,a,1464,SetPiece,2016,Head,3084,Fiorentina,Sassuolo,2,1,2016-12-12 22:00:00,Federico Ricci,Cross
+152390,75,BlockedShot,0.91,0.500999984741211,0.47173166275024414,Lorenzo Pellegrini,a,1471,FromCorner,2016,RightFoot,3084,Fiorentina,Sassuolo,2,1,2016-12-12 22:00:00,Pietro Iemmello,Pass
+152391,75,BlockedShot,0.9259999847412109,0.5670000076293945,0.12058842927217484,Lorenzo Pellegrini,a,1471,FromCorner,2016,LeftFoot,3084,Fiorentina,Sassuolo,2,1,2016-12-12 22:00:00,Federico Peluso,Rebound
+152392,75,Goal,0.8809999847412109,0.46099998474121096,0.09069203585386276,Francesco Acerbi,a,1463,FromCorner,2016,LeftFoot,3084,Fiorentina,Sassuolo,2,1,2016-12-12 22:00:00,,Rebound
+152399,92,SavedShot,0.7609999847412109,0.5329999923706055,0.024166978895664215,Federico Ricci,a,1470,OpenPlay,2016,LeftFoot,3084,Fiorentina,Sassuolo,2,1,2016-12-12 22:00:00,,None

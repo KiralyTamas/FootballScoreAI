@@ -1,0 +1,31 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+238633,1,MissedShots,0.9569999694824218,0.41200000762939454,0.06992597877979279,Roman Eremenko,h,2884,FromCorner,2018,Head,9028,Spartak Moscow,Arsenal Tula,2,3,2018-10-21 13:30:00,Fernando,Cross
+238634,1,MissedShots,0.965999984741211,0.5279999923706055,0.4679567217826843,Salvatore Bocchetti,h,2810,FromCorner,2018,LeftFoot,9028,Spartak Moscow,Arsenal Tula,2,3,2018-10-21 13:30:00,Roman Eremenko,Tackle
+238635,1,BlockedShot,0.9919999694824219,0.61,0.05559514835476875,Zé Luís,h,2818,FromCorner,2018,LeftFoot,9028,Spartak Moscow,Arsenal Tula,2,3,2018-10-21 13:30:00,Roman Eremenko,None
+238636,2,MissedShots,0.93,0.38,0.020152287557721138,Salvatore Bocchetti,h,2810,FromCorner,2018,Head,9028,Spartak Moscow,Arsenal Tula,2,3,2018-10-21 13:30:00,Dmitri Kombarov,Chipped
+238638,12,Goal,0.925,0.45799999237060546,0.4975849688053131,Zé Luís,h,2818,OpenPlay,2018,LeftFoot,9028,Spartak Moscow,Arsenal Tula,2,3,2018-10-21 13:30:00,Luiz Adriano,Pass
+238639,19,SavedShot,0.8190000152587891,0.26600000381469724,0.030501119792461395,Roman Eremenko,h,2884,OpenPlay,2018,RightFoot,9028,Spartak Moscow,Arsenal Tula,2,3,2018-10-21 13:30:00,,None
+238641,22,MissedShots,0.7919999694824219,0.6719999694824219,0.021027449518442154,Luiz Adriano,h,1127,OpenPlay,2018,RightFoot,9028,Spartak Moscow,Arsenal Tula,2,3,2018-10-21 13:30:00,Marko Petkovic,Cross
+238642,30,MissedShots,0.7319999694824219,0.7380000305175781,0.03202185034751892,Fernando,h,1937,DirectFreekick,2018,RightFoot,9028,Spartak Moscow,Arsenal Tula,2,3,2018-10-21 13:30:00,,Standard
+238646,35,MissedShots,0.7559999847412109,0.40599998474121096,0.020734962075948715,Fernando,h,1937,OpenPlay,2018,RightFoot,9028,Spartak Moscow,Arsenal Tula,2,3,2018-10-21 13:30:00,,BallTouch
+238647,40,SavedShot,0.7930000305175782,0.28899999618530275,0.05636614188551903,Fernando,h,1937,DirectFreekick,2018,RightFoot,9028,Spartak Moscow,Arsenal Tula,2,3,2018-10-21 13:30:00,,Standard
+238648,46,Goal,0.9009999847412109,0.47200000762939454,0.5920906662940979,Zé Luís,h,2818,OpenPlay,2018,LeftFoot,9028,Spartak Moscow,Arsenal Tula,2,3,2018-10-21 13:30:00,,None
+238650,52,BlockedShot,0.705999984741211,0.6809999847412109,0.011561388149857521,Fernando,h,1937,SetPiece,2018,RightFoot,9028,Spartak Moscow,Arsenal Tula,2,3,2018-10-21 13:30:00,Dmitri Kombarov,Pass
+238654,71,MissedShots,0.7780000305175782,0.3029999923706055,0.012101893313229084,Mikhail Ignatov,h,6614,OpenPlay,2018,RightFoot,9028,Spartak Moscow,Arsenal Tula,2,3,2018-10-21 13:30:00,Marko Petkovic,TakeOn
+238655,75,MissedShots,0.850999984741211,0.5309999847412109,0.01784025877714157,Zé Luís,h,2818,OpenPlay,2018,Head,9028,Spartak Moscow,Arsenal Tula,2,3,2018-10-21 13:30:00,Marko Petkovic,Cross
+238656,78,MissedShots,0.7090000152587891,0.33799999237060546,0.012500554323196411,Ilya Kutepov,h,2811,OpenPlay,2018,RightFoot,9028,Spartak Moscow,Arsenal Tula,2,3,2018-10-21 13:30:00,Fernando,Pass
+238657,84,SavedShot,0.92,0.6759999847412109,0.043410524725914,Roman Zobnin,h,2750,OpenPlay,2018,RightFoot,9028,Spartak Moscow,Arsenal Tula,2,3,2018-10-21 13:30:00,Zé Luís,Chipped
+238660,91,SavedShot,0.8630000305175781,0.645,0.06596779078245163,Roman Zobnin,h,2750,OpenPlay,2018,RightFoot,9028,Spartak Moscow,Arsenal Tula,2,3,2018-10-21 13:30:00,Sofiane Hanni,Pass
+238662,94,MissedShots,0.7780000305175782,0.40799999237060547,0.01447342149913311,Mikhail Ignatov,h,6614,OpenPlay,2018,RightFoot,9028,Spartak Moscow,Arsenal Tula,2,3,2018-10-21 13:30:00,Roman Zobnin,Chipped
+238637,4,MissedShots,0.879000015258789,0.5320000076293945,0.04643295332789421,Gia Grigalava,a,5368,SetPiece,2018,Head,9028,Spartak Moscow,Arsenal Tula,2,3,2018-10-21 13:30:00,Kirill Kombarov,Cross
+238640,22,SavedShot,0.8490000152587891,0.27399999618530274,0.02621048130095005,Daniil Lesovoy,a,6793,OpenPlay,2018,LeftFoot,9028,Spartak Moscow,Arsenal Tula,2,3,2018-10-21 13:30:00,Luka Djordjevic,Dispossessed
+238643,31,SavedShot,0.7659999847412109,0.33599998474121096,0.021249299868941307,Georgi Kostadinov,a,6792,OpenPlay,2018,RightFoot,9028,Spartak Moscow,Arsenal Tula,2,3,2018-10-21 13:30:00,Abdul Mohammed,Pass
+238644,34,SavedShot,0.885,0.5,0.7542753219604492,Ognjen Ozegovic,a,7143,Penalty,2018,RightFoot,9028,Spartak Moscow,Arsenal Tula,2,3,2018-10-21 13:30:00,,Standard
+238645,34,Goal,0.96,0.534000015258789,0.670332670211792,Ognjen Ozegovic,a,7143,SetPiece,2018,LeftFoot,9028,Spartak Moscow,Arsenal Tula,2,3,2018-10-21 13:30:00,,Rebound
+238649,47,Goal,0.8980000305175782,0.355,0.24591505527496338,Daniil Lesovoy,a,6793,OpenPlay,2018,RightFoot,9028,Spartak Moscow,Arsenal Tula,2,3,2018-10-21 13:30:00,Abdul Mohammed,Throughball
+238651,60,MissedShots,0.7519999694824219,0.6990000152587891,0.04168129339814186,Kirill Kombarov,a,3128,DirectFreekick,2018,RightFoot,9028,Spartak Moscow,Arsenal Tula,2,3,2018-10-21 13:30:00,,Standard
+238652,64,Goal,0.9530000305175781,0.6140000152587891,0.507649838924408,Reziuan Mirzov,a,2869,OpenPlay,2018,RightFoot,9028,Spartak Moscow,Arsenal Tula,2,3,2018-10-21 13:30:00,Luka Djordjevic,TakeOn
+238653,69,BlockedShot,0.8680000305175781,0.35900001525878905,0.09181072562932968,Luka Djordjevic,a,3813,OpenPlay,2018,LeftFoot,9028,Spartak Moscow,Arsenal Tula,2,3,2018-10-21 13:30:00,Kirill Kombarov,TakeOn
+238658,87,MissedShots,0.9,0.3129999923706055,0.07979411631822586,Igor Gorbatenko,a,3151,OpenPlay,2018,LeftFoot,9028,Spartak Moscow,Arsenal Tula,2,3,2018-10-21 13:30:00,Kirill Kombarov,Pass
+238659,90,BlockedShot,0.8680000305175781,0.415,0.13167549669742584,Sergey Tkachev,a,2880,OpenPlay,2018,LeftFoot,9028,Spartak Moscow,Arsenal Tula,2,3,2018-10-21 13:30:00,Evans Kangwa,Pass
+238661,93,MissedShots,0.6859999847412109,0.42700000762939455,0.01303938403725624,Abdul Mohammed,a,6901,OpenPlay,2018,RightFoot,9028,Spartak Moscow,Arsenal Tula,2,3,2018-10-21 13:30:00,Sergey Tkachev,Pass

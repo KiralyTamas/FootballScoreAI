@@ -1,0 +1,30 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+424072,5,SavedShot,0.9490000152587891,0.3370000076293945,0.11425195634365082,Gabriel Jesus,h,5543,OpenPlay,2020,RightFoot,14811,Manchester City,Everton,5,0,2021-05-23 15:00:00,Kevin De Bruyne,Throughball
+424073,7,MissedShots,0.9159999847412109,0.5479999923706055,0.10734514147043228,John Stones,h,586,SetPiece,2020,Head,14811,Manchester City,Everton,5,0,2021-05-23 15:00:00,Riyad Mahrez,Cross
+424074,10,Goal,0.7680000305175781,0.62,0.02420051582157612,Kevin De Bruyne,h,447,OpenPlay,2020,RightFoot,14811,Manchester City,Everton,5,0,2021-05-23 15:00:00,Riyad Mahrez,Pass
+424075,13,Goal,0.8859999847412109,0.5970000076293945,0.411928653717041,Gabriel Jesus,h,5543,OpenPlay,2020,RightFoot,14811,Manchester City,Everton,5,0,2021-05-23 15:00:00,Kevin De Bruyne,Pass
+424076,22,MissedShots,0.8630000305175781,0.355,0.027450280264019966,Riyad Mahrez,h,750,SetPiece,2020,LeftFoot,14811,Manchester City,Everton,5,0,2021-05-23 15:00:00,Kevin De Bruyne,Cross
+424077,22,SavedShot,0.9130000305175782,0.6990000152587891,0.05079907178878784,Kevin De Bruyne,h,447,SetPiece,2020,RightFoot,14811,Manchester City,Everton,5,0,2021-05-23 15:00:00,Gabriel Jesus,BallTouch
+424082,40,BlockedShot,0.8690000152587891,0.635,0.06847094744443893,Oleksandr Zinchenko,h,2958,OpenPlay,2020,LeftFoot,14811,Manchester City,Everton,5,0,2021-05-23 15:00:00,,None
+424084,42,ShotOnPost,0.7959999847412109,0.555,0.05394935980439186,Riyad Mahrez,h,750,OpenPlay,2020,LeftFoot,14811,Manchester City,Everton,5,0,2021-05-23 15:00:00,Raheem Sterling,Pass
+424086,51,BlockedShot,0.86,0.4620000076293945,0.12700651586055756,Phil Foden,h,6055,OpenPlay,2020,LeftFoot,14811,Manchester City,Everton,5,0,2021-05-23 15:00:00,Gabriel Jesus,Pass
+424087,51,SavedShot,0.8419999694824218,0.5359999847412109,0.03999857231974602,Rúben Dias,h,8961,FromCorner,2020,RightFoot,14811,Manchester City,Everton,5,0,2021-05-23 15:00:00,Kevin De Bruyne,Cross
+424088,52,Goal,0.9109999847412109,0.45299999237060545,0.5188062787055969,Phil Foden,h,6055,OpenPlay,2020,RightFoot,14811,Manchester City,Everton,5,0,2021-05-23 15:00:00,Raheem Sterling,Pass
+424089,57,MissedShots,0.8690000152587891,0.5829999923706055,0.12129976600408554,Rodri,h,2496,OpenPlay,2020,LeftFoot,14811,Manchester City,Everton,5,0,2021-05-23 15:00:00,Raheem Sterling,Pass
+424090,67,MissedShots,0.865,0.37099998474121093,0.11755884438753128,Gabriel Jesus,h,5543,OpenPlay,2020,RightFoot,14811,Manchester City,Everton,5,0,2021-05-23 15:00:00,Raheem Sterling,Pass
+424091,70,Goal,0.885,0.4640000152587891,0.4454546272754669,Sergio Agüero,h,619,OpenPlay,2020,RightFoot,14811,Manchester City,Everton,5,0,2021-05-23 15:00:00,Fernandinho,BallRecovery
+424092,75,Goal,0.8819999694824219,0.4979999923706055,0.1570996642112732,Sergio Agüero,h,619,OpenPlay,2020,Head,14811,Manchester City,Everton,5,0,2021-05-23 15:00:00,Fernandinho,Cross
+424093,80,SavedShot,0.9259999847412109,0.29600000381469727,0.054634347558021545,Sergio Agüero,h,619,OpenPlay,2020,RightFoot,14811,Manchester City,Everton,5,0,2021-05-23 15:00:00,,None
+424094,83,SavedShot,0.9069999694824219,0.44299999237060544,0.057114385068416595,Sergio Agüero,h,619,FromCorner,2020,Head,14811,Manchester City,Everton,5,0,2021-05-23 15:00:00,Kevin De Bruyne,Cross
+424095,83,BlockedShot,0.7580000305175781,0.5529999923706055,0.021765638142824173,Oleksandr Zinchenko,h,2958,FromCorner,2020,RightFoot,14811,Manchester City,Everton,5,0,2021-05-23 15:00:00,Fernandinho,Pass
+424096,84,MissedShots,0.8119999694824219,0.5270000076293946,0.07700560241937637,Fernandinho,h,614,OpenPlay,2020,RightFoot,14811,Manchester City,Everton,5,0,2021-05-23 15:00:00,Kevin De Bruyne,Pass
+424097,87,BlockedShot,0.8580000305175781,0.6890000152587891,0.06071529537439346,Raheem Sterling,h,618,OpenPlay,2020,RightFoot,14811,Manchester City,Everton,5,0,2021-05-23 15:00:00,Fernandinho,Pass
+424098,90,SavedShot,0.855,0.590999984741211,0.22669462859630585,Raheem Sterling,h,618,OpenPlay,2020,LeftFoot,14811,Manchester City,Everton,5,0,2021-05-23 15:00:00,Kevin De Bruyne,Pass
+424070,3,SavedShot,0.745999984741211,0.33799999237060546,0.016037670895457268,Gylfi Sigurdsson,a,714,OpenPlay,2020,LeftFoot,14811,Manchester City,Everton,5,0,2021-05-23 15:00:00,Mason Holgate,Pass
+424071,4,SavedShot,0.8819999694824219,0.31,0.0740649551153183,Dominic Calvert-Lewin,a,5555,OpenPlay,2020,RightFoot,14811,Manchester City,Everton,5,0,2021-05-23 15:00:00,Gylfi Sigurdsson,Pass
+424078,32,BlockedShot,0.865,0.46,0.10400882363319397,Richarlison,a,6026,OpenPlay,2020,RightFoot,14811,Manchester City,Everton,5,0,2021-05-23 15:00:00,Allan,Pass
+424079,35,SavedShot,0.885,0.5,0.7611688375473022,Gylfi Sigurdsson,a,714,Penalty,2020,RightFoot,14811,Manchester City,Everton,5,0,2021-05-23 15:00:00,,Standard
+424080,36,BlockedShot,0.9669999694824218,0.655,0.05695817619562149,Richarlison,a,6026,SetPiece,2020,LeftFoot,14811,Manchester City,Everton,5,0,2021-05-23 15:00:00,,Rebound
+424081,37,MissedShots,0.7480000305175781,0.664000015258789,0.01428695023059845,Lucas Digne,a,1823,FromCorner,2020,LeftFoot,14811,Manchester City,Everton,5,0,2021-05-23 15:00:00,,None
+424083,42,BlockedShot,0.8230000305175781,0.495,0.08202260732650757,Richarlison,a,6026,OpenPlay,2020,RightFoot,14811,Manchester City,Everton,5,0,2021-05-23 15:00:00,,TakeOn
+424085,48,MissedShots,0.6919999694824219,0.5129999923706055,0.007382675539702177,Gylfi Sigurdsson,a,714,OpenPlay,2020,RightFoot,14811,Manchester City,Everton,5,0,2021-05-23 15:00:00,Abdoulaye Doucouré,None

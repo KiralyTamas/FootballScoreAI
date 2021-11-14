@@ -1,0 +1,22 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+100750,13,MissedShots,0.695,0.504000015258789,0.01796969398856163,Lucas Castro,h,1333,OpenPlay,2015,RightFoot,705,Chievo,Atalanta,1,0,2015-12-13 18:00:00,Perparim Hetemaj,Pass
+100752,27,MissedShots,0.715,0.5179999923706055,0.014068201184272766,Perparim Hetemaj,h,1334,OpenPlay,2015,RightFoot,705,Chievo,Atalanta,1,0,2015-12-13 18:00:00,Ivan Radovanovic,Pass
+100753,29,BlockedShot,0.8080000305175781,0.7069999694824218,0.02498306892812252,Valter Birsa,h,1336,OpenPlay,2015,LeftFoot,705,Chievo,Atalanta,1,0,2015-12-13 18:00:00,Alberto Paloschi,Pass
+100757,42,BlockedShot,0.6809999847412109,0.76,0.008728927932679653,Ivan Radovanovic,h,1341,OpenPlay,2015,RightFoot,705,Chievo,Atalanta,1,0,2015-12-13 18:00:00,Perparim Hetemaj,Pass
+100759,47,MissedShots,0.975999984741211,0.655,0.08852974325418472,Massimo Gobbi,h,1332,OpenPlay,2015,RightFoot,705,Chievo,Atalanta,1,0,2015-12-13 18:00:00,Riccardo Meggiorini,TakeOn
+100760,54,BlockedShot,0.75,0.275,0.018194522708654404,Riccardo Meggiorini,h,1337,OpenPlay,2015,LeftFoot,705,Chievo,Atalanta,1,0,2015-12-13 18:00:00,Fabrizio Cacciatore,Pass
+100761,59,BlockedShot,0.82,0.6519999694824219,0.031946804374456406,Alberto Paloschi,h,716,OpenPlay,2015,RightFoot,705,Chievo,Atalanta,1,0,2015-12-13 18:00:00,Perparim Hetemaj,TakeOn
+100762,61,MissedShots,0.9290000152587891,0.4979999923706055,0.05844040960073471,Lucas Castro,h,1333,FromCorner,2015,Head,705,Chievo,Atalanta,1,0,2015-12-13 18:00:00,Valter Birsa,Aerial
+100763,62,MissedShots,0.725,0.3340000152587891,0.012744775041937828,Valter Birsa,h,1336,OpenPlay,2015,LeftFoot,705,Chievo,Atalanta,1,0,2015-12-13 18:00:00,Lucas Castro,BallRecovery
+100764,67,SavedShot,0.885,0.5,0.7612988352775574,Alberto Paloschi,h,716,Penalty,2015,RightFoot,705,Chievo,Atalanta,1,0,2015-12-13 18:00:00,,Standard
+100765,70,BlockedShot,0.8859999847412109,0.7040000152587891,0.050747424364089966,Perparim Hetemaj,h,1334,OpenPlay,2015,LeftFoot,705,Chievo,Atalanta,1,0,2015-12-13 18:00:00,Riccardo Meggiorini,Pass
+100766,73,SavedShot,0.705,0.61,0.036596592515707016,Ivan Radovanovic,h,1341,DirectFreekick,2015,RightFoot,705,Chievo,Atalanta,1,0,2015-12-13 18:00:00,,Standard
+100767,73,BlockedShot,0.7669999694824219,0.5120000076293946,0.02008010260760784,Ivan Radovanovic,h,1341,FromCorner,2015,RightFoot,705,Chievo,Atalanta,1,0,2015-12-13 18:00:00,,None
+100768,75,Goal,0.9269999694824219,0.6580000305175782,0.0822567567229271,Valter Birsa,h,1336,OpenPlay,2015,LeftFoot,705,Chievo,Atalanta,1,0,2015-12-13 18:00:00,Riccardo Meggiorini,Pass
+100769,79,MissedShots,0.9269999694824219,0.41200000762939454,0.33224818110466003,Roberto Inglese,h,1340,OpenPlay,2015,RightFoot,705,Chievo,Atalanta,1,0,2015-12-13 18:00:00,Lucas Castro,Cross
+100751,18,MissedShots,0.7759999847412109,0.48200000762939454,0.034375596791505814,Marten de Roon,a,1710,OpenPlay,2015,LeftFoot,705,Chievo,Atalanta,1,0,2015-12-13 18:00:00,,BallRecovery
+100754,37,SavedShot,0.735999984741211,0.36900001525878906,0.014350919984281063,Alejandro Gomez,a,1491,OpenPlay,2015,LeftFoot,705,Chievo,Atalanta,1,0,2015-12-13 18:00:00,Cristian Raimondi,LayOff
+100755,37,SavedShot,0.8969999694824219,0.6469999694824219,0.012783358804881573,Gabriel Paletta,a,1118,OpenPlay,2015,Head,705,Chievo,Atalanta,1,0,2015-12-13 18:00:00,Maximiliano Moralez,Aerial
+100756,38,MissedShots,0.749000015258789,0.43400001525878906,0.017794957384467125,Alejandro Gomez,a,1491,OpenPlay,2015,LeftFoot,705,Chievo,Atalanta,1,0,2015-12-13 18:00:00,,None
+100758,45,MissedShots,0.8730000305175781,0.4470000076293945,0.01855378970503807,Germán Denis,a,1984,OpenPlay,2015,Head,705,Chievo,Atalanta,1,0,2015-12-13 18:00:00,Cristian Raimondi,Aerial
+100770,92,BlockedShot,0.7330000305175781,0.45599998474121095,0.010448110289871693,Alejandro Gomez,a,1491,OpenPlay,2015,RightFoot,705,Chievo,Atalanta,1,0,2015-12-13 18:00:00,,Aerial

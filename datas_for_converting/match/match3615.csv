@@ -1,0 +1,22 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+148853,2,BlockedShot,0.835,0.735999984741211,0.027690624818205833,Marek Hamsik,h,1381,OpenPlay,2016,LeftFoot,3615,Napoli,Crotone,3,0,2017-03-12 14:00:00,Jorginho,Pass
+148854,10,SavedShot,0.8780000305175781,0.68,0.05579739436507225,Lorenzo Insigne,h,1393,OpenPlay,2016,RightFoot,3615,Napoli,Crotone,3,0,2017-03-12 14:00:00,Marek Hamsik,Interception
+148855,13,BlockedShot,0.89,0.45599998474121095,0.0888005718588829,Lorenzo Insigne,h,1393,OpenPlay,2016,RightFoot,3615,Napoli,Crotone,3,0,2017-03-12 14:00:00,,None
+148856,16,MissedShots,0.8830000305175781,0.7469999694824219,0.03371981531381607,Ivan Strinic,h,1378,OpenPlay,2016,LeftFoot,3615,Napoli,Crotone,3,0,2017-03-12 14:00:00,Lorenzo Insigne,Pass
+148858,31,Goal,0.885,0.5,0.7612988352775574,Lorenzo Insigne,h,1393,Penalty,2016,RightFoot,3615,Napoli,Crotone,3,0,2017-03-12 14:00:00,,Standard
+148859,40,SavedShot,0.9330000305175781,0.6090000152587891,0.3660842776298523,José Callejón,h,1382,OpenPlay,2016,LeftFoot,3615,Napoli,Crotone,3,0,2017-03-12 14:00:00,Lorenzo Insigne,Throughball
+148860,42,MissedShots,0.919000015258789,0.305,0.0755351334810257,Marko Rog,h,1390,OpenPlay,2016,RightFoot,3615,Napoli,Crotone,3,0,2017-03-12 14:00:00,José Callejón,Pass
+148863,50,MissedShots,0.95,0.46299999237060546,0.45122459530830383,Leonardo Pavoletti,h,1104,FromCorner,2016,Head,3615,Napoli,Crotone,3,0,2017-03-12 14:00:00,Kalidou Koulibaly,Cross
+148864,51,MissedShots,0.8230000305175781,0.5690000152587891,0.07453828305006027,Leonardo Pavoletti,h,1104,OpenPlay,2016,RightFoot,3615,Napoli,Crotone,3,0,2017-03-12 14:00:00,Lorenzo Insigne,Pass
+148865,65,Goal,0.885,0.5,0.7612988352775574,Dries Mertens,h,1384,Penalty,2016,RightFoot,3615,Napoli,Crotone,3,0,2017-03-12 14:00:00,,Standard
+148866,69,Goal,0.8719999694824219,0.47900001525878905,0.34814515709877014,Lorenzo Insigne,h,1393,OpenPlay,2016,RightFoot,3615,Napoli,Crotone,3,0,2017-03-12 14:00:00,Jorginho,Chipped
+148869,77,SavedShot,0.8780000305175781,0.524000015258789,0.21573537588119507,Dries Mertens,h,1384,OpenPlay,2016,RightFoot,3615,Napoli,Crotone,3,0,2017-03-12 14:00:00,Ivan Strinic,TakeOn
+148871,83,MissedShots,0.98,0.6719999694824219,0.09267536550760269,Dries Mertens,h,1384,OpenPlay,2016,LeftFoot,3615,Napoli,Crotone,3,0,2017-03-12 14:00:00,Jorginho,Chipped
+148872,85,BlockedShot,0.725,0.5320000076293945,0.019489282742142677,Piotr Zielinski,h,1386,FromCorner,2016,RightFoot,3615,Napoli,Crotone,3,0,2017-03-12 14:00:00,Marek Hamsik,Pass
+148873,87,MissedShots,0.879000015258789,0.39099998474121095,0.1116388663649559,Dries Mertens,h,1384,OpenPlay,2016,RightFoot,3615,Napoli,Crotone,3,0,2017-03-12 14:00:00,Vlad Chiriches,Pass
+148857,19,MissedShots,0.8440000152587891,0.6809999847412109,0.04242713004350662,Marcello Trotta,a,1369,OpenPlay,2016,LeftFoot,3615,Napoli,Crotone,3,0,2017-03-12 14:00:00,Marcus Rohden,Pass
+148861,47,SavedShot,0.8880000305175781,0.674000015258789,0.09911677986383438,Diego Falcinelli,a,1360,OpenPlay,2016,LeftFoot,3615,Napoli,Crotone,3,0,2017-03-12 14:00:00,Adrian Stoian,Throughball
+148862,48,SavedShot,0.91,0.3160000038146973,0.033364929258823395,Noe Dussenne,a,1366,FromCorner,2016,RightFoot,3615,Napoli,Crotone,3,0,2017-03-12 14:00:00,Marcus Rohden,Chipped
+148867,70,MissedShots,0.7809999847412109,0.629000015258789,0.023892559111118317,Diego Falcinelli,a,1360,OpenPlay,2016,LeftFoot,3615,Napoli,Crotone,3,0,2017-03-12 14:00:00,,Dispossessed
+148868,73,MissedShots,0.710999984741211,0.4,0.0392087958753109,Leonardo Capezzi,a,1358,DirectFreekick,2016,RightFoot,3615,Napoli,Crotone,3,0,2017-03-12 14:00:00,,Standard
+148870,79,MissedShots,0.6940000152587891,0.49700000762939456,0.009210523217916489,Leonardo Capezzi,a,1358,OpenPlay,2016,RightFoot,3615,Napoli,Crotone,3,0,2017-03-12 14:00:00,Boadu Maxwell Acosty,Pass

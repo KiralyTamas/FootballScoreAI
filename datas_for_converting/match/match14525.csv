@@ -1,0 +1,25 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+389671,29,Goal,0.9180000305175782,0.57,0.06681899726390839,Gabriel,h,5613,FromCorner,2020,Head,14525,Arsenal,Wolverhampton Wanderers,1,2,2020-11-29 19:15:00,Willian,Cross
+389676,44,MissedShots,0.6980000305175781,0.4929999923706055,0.037314701825380325,David Luiz,h,1676,DirectFreekick,2020,RightFoot,14525,Arsenal,Wolverhampton Wanderers,1,2,2020-11-29 19:15:00,,Standard
+389678,45,SavedShot,0.9269999694824219,0.2989999961853027,0.09030137956142426,Pierre-Emerick Aubameyang,h,318,OpenPlay,2020,RightFoot,14525,Arsenal,Wolverhampton Wanderers,1,2,2020-11-29 19:15:00,David Luiz,Throughball
+389681,49,MissedShots,0.9069999694824219,0.4879999923706055,0.43396851420402527,Bukayo Saka,h,7322,OpenPlay,2020,LeftFoot,14525,Arsenal,Wolverhampton Wanderers,1,2,2020-11-29 19:15:00,Héctor Bellerín,Pass
+389680,51,MissedShots,0.9230000305175782,0.46099998474121096,0.04294586554169655,Pierre-Emerick Aubameyang,h,318,OpenPlay,2020,Head,14525,Arsenal,Wolverhampton Wanderers,1,2,2020-11-29 19:15:00,,None
+389684,56,MissedShots,0.7780000305175782,0.664000015258789,0.06392315775156021,Willian,h,700,DirectFreekick,2020,RightFoot,14525,Arsenal,Wolverhampton Wanderers,1,2,2020-11-29 19:15:00,,Standard
+389686,63,MissedShots,0.95,0.47,0.12252183258533478,Rob Holding,h,1749,FromCorner,2020,Head,14525,Arsenal,Wolverhampton Wanderers,1,2,2020-11-29 19:15:00,Bukayo Saka,Chipped
+389687,72,BlockedShot,0.865,0.6880000305175781,0.039909329265356064,Pierre-Emerick Aubameyang,h,318,OpenPlay,2020,RightFoot,14525,Arsenal,Wolverhampton Wanderers,1,2,2020-11-29 19:15:00,,BallRecovery
+389688,73,MissedShots,0.8930000305175781,0.3840000152587891,0.056917089968919754,Reiss Nelson,h,6492,OpenPlay,2020,RightFoot,14525,Arsenal,Wolverhampton Wanderers,1,2,2020-11-29 19:15:00,Bukayo Saka,Cross
+389689,79,BlockedShot,0.8530000305175781,0.6940000152587891,0.03627850115299225,Joe Willock,h,6630,OpenPlay,2020,RightFoot,14525,Arsenal,Wolverhampton Wanderers,1,2,2020-11-29 19:15:00,,None
+389690,80,BlockedShot,0.8169999694824219,0.6559999847412109,0.024100320413708687,Pierre-Emerick Aubameyang,h,318,FromCorner,2020,RightFoot,14525,Arsenal,Wolverhampton Wanderers,1,2,2020-11-29 19:15:00,,None
+389691,81,MissedShots,0.935,0.5129999923706055,0.06555362045764923,Pierre-Emerick Aubameyang,h,318,OpenPlay,2020,Head,14525,Arsenal,Wolverhampton Wanderers,1,2,2020-11-29 19:15:00,,Aerial
+389692,92,BlockedShot,0.8580000305175781,0.6880000305175781,0.03794800490140915,Kieran Tierney,h,8089,OpenPlay,2020,LeftFoot,14525,Arsenal,Wolverhampton Wanderers,1,2,2020-11-29 19:15:00,Bukayo Saka,BallTouch
+389669,26,ShotOnPost,0.95,0.515,0.5809821486473083,Leander Dendoncker,a,7236,OpenPlay,2020,Head,14525,Arsenal,Wolverhampton Wanderers,1,2,2020-11-29 19:15:00,Adama Traoré,Cross
+389670,26,Goal,0.9290000152587891,0.5209999847412109,0.5303441882133484,Pedro Neto,a,6382,OpenPlay,2020,RightFoot,14525,Arsenal,Wolverhampton Wanderers,1,2,2020-11-29 19:15:00,,Rebound
+389672,32,BlockedShot,0.8719999694824219,0.3559999847412109,0.06989496946334839,Fabio Silva,a,8778,OpenPlay,2020,RightFoot,14525,Arsenal,Wolverhampton Wanderers,1,2,2020-11-29 19:15:00,Adama Traoré,Pass
+389673,33,SavedShot,0.9280000305175782,0.5179999923706055,0.11279367655515671,Leander Dendoncker,a,7236,FromCorner,2020,Head,14525,Arsenal,Wolverhampton Wanderers,1,2,2020-11-29 19:15:00,Pedro Neto,Cross
+389674,41,SavedShot,0.81,0.6270000076293946,0.03635600209236145,Pedro Neto,a,6382,OpenPlay,2020,LeftFoot,14525,Arsenal,Wolverhampton Wanderers,1,2,2020-11-29 19:15:00,Adama Traoré,Pass
+389675,41,Goal,0.9109999847412109,0.5120000076293946,0.4168865978717804,Daniel Podence,a,8291,OpenPlay,2020,RightFoot,14525,Arsenal,Wolverhampton Wanderers,1,2,2020-11-29 19:15:00,,TakeOn
+389677,45,SavedShot,0.9080000305175782,0.46900001525878904,0.14654725790023804,Fabio Silva,a,8778,OpenPlay,2020,RightFoot,14525,Arsenal,Wolverhampton Wanderers,1,2,2020-11-29 19:15:00,Nélson Semedo,Pass
+389679,48,MissedShots,0.93,0.36,0.11097031086683273,Adama Traoré,a,900,OpenPlay,2020,RightFoot,14525,Arsenal,Wolverhampton Wanderers,1,2,2020-11-29 19:15:00,Fabio Silva,Pass
+389682,50,BlockedShot,0.9309999847412109,0.5459999847412109,0.15103398263454437,Fabio Silva,a,8778,OpenPlay,2020,RightFoot,14525,Arsenal,Wolverhampton Wanderers,1,2,2020-11-29 19:15:00,Pedro Neto,Pass
+389683,51,BlockedShot,0.8130000305175781,0.5129999923706055,0.06538800895214081,João Moutinho,a,3422,OpenPlay,2020,RightFoot,14525,Arsenal,Wolverhampton Wanderers,1,2,2020-11-29 19:15:00,Pedro Neto,Pass
+389685,59,BlockedShot,0.9119999694824219,0.6419999694824219,0.0938229039311409,Daniel Podence,a,8291,OpenPlay,2020,LeftFoot,14525,Arsenal,Wolverhampton Wanderers,1,2,2020-11-29 19:15:00,,BallRecovery

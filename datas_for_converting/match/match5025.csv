@@ -1,0 +1,29 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+45544,14,Goal,0.894000015258789,0.529000015258789,0.4103532135486603,Pedro Obiang,h,542,OpenPlay,2014,LeftFoot,5025,Sampdoria,Udinese,2,2,2014-12-21 14:00:00,,None
+45546,25,MissedShots,0.725,0.5229999923706055,0.014507628977298737,Vasco Regini,h,1224,FromCorner,2014,LeftFoot,5025,Sampdoria,Udinese,2,2,2014-12-21 14:00:00,,None
+45549,34,SavedShot,0.9459999847412109,0.6680000305175782,0.09634052962064743,Éder,h,1514,OpenPlay,2014,LeftFoot,5025,Sampdoria,Udinese,2,2,2014-12-21 14:00:00,Pedro Obiang,Throughball
+45550,43,BlockedShot,0.845999984741211,0.5459999847412109,0.05070563033223152,Roberto Soriano,h,1810,OpenPlay,2014,RightFoot,5025,Sampdoria,Udinese,2,2,2014-12-21 14:00:00,Lorenzo De Silvestri,Cross
+45551,45,MissedShots,0.7719999694824219,0.46599998474121096,0.020915860310196877,Djamel Mesbah,h,1365,FromCorner,2014,RightFoot,5025,Sampdoria,Udinese,2,2,2014-12-21 14:00:00,,None
+45552,46,MissedShots,0.81,0.49,0.055173229426145554,Manolo Gabbiadini,h,1383,OpenPlay,2014,LeftFoot,5025,Sampdoria,Udinese,2,2,2014-12-21 14:00:00,Stefano Okaka,LayOff
+45553,49,BlockedShot,0.899000015258789,0.6480000305175782,0.040893036872148514,Lorenzo De Silvestri,h,1193,FromCorner,2014,RightFoot,5025,Sampdoria,Udinese,2,2,2014-12-21 14:00:00,Manolo Gabbiadini,Cross
+45554,50,MissedShots,0.7319999694824219,0.5570000076293945,0.020874137058854103,Éder,h,1514,OpenPlay,2014,RightFoot,5025,Sampdoria,Udinese,2,2,2014-12-21 14:00:00,Roberto Soriano,LayOff
+45556,59,Goal,0.8969999694824219,0.46299999237060546,0.06726230680942535,Manolo Gabbiadini,h,1383,OpenPlay,2014,Head,5025,Sampdoria,Udinese,2,2,2014-12-21 14:00:00,Lorenzo De Silvestri,Cross
+45557,61,MissedShots,0.730999984741211,0.66,0.013355650007724762,Roberto Soriano,h,1810,FromCorner,2014,RightFoot,5025,Sampdoria,Udinese,2,2,2014-12-21 14:00:00,,None
+45558,61,MissedShots,0.92,0.6469999694824219,0.049737561494112015,Stefano Okaka,h,1763,FromCorner,2014,RightFoot,5025,Sampdoria,Udinese,2,2,2014-12-21 14:00:00,Roberto Soriano,Foul
+45559,63,SavedShot,0.76,0.7040000152587891,0.013650605455040932,Roberto Soriano,h,1810,OpenPlay,2014,RightFoot,5025,Sampdoria,Udinese,2,2,2014-12-21 14:00:00,,None
+45560,67,BlockedShot,0.6880000305175781,0.6179999923706054,0.011313390918076038,Manolo Gabbiadini,h,1383,OpenPlay,2014,LeftFoot,5025,Sampdoria,Udinese,2,2,2014-12-21 14:00:00,Pedro Obiang,Pass
+45561,69,BlockedShot,0.8030000305175782,0.4829999923706055,0.05183855816721916,Manolo Gabbiadini,h,1383,OpenPlay,2014,LeftFoot,5025,Sampdoria,Udinese,2,2,2014-12-21 14:00:00,Pedro Obiang,Pass
+45562,69,BlockedShot,0.745,0.4420000076293945,0.016152093186974525,Roberto Soriano,h,1810,FromCorner,2014,LeftFoot,5025,Sampdoria,Udinese,2,2,2014-12-21 14:00:00,,None
+45563,69,MissedShots,0.8190000152587891,0.3770000076293945,0.04134093597531319,Lorenzo De Silvestri,h,1193,FromCorner,2014,RightFoot,5025,Sampdoria,Udinese,2,2,2014-12-21 14:00:00,,Rebound
+45564,71,BlockedShot,0.8040000152587891,0.49,0.04609216749668121,Djamel Mesbah,h,1365,OpenPlay,2014,LeftFoot,5025,Sampdoria,Udinese,2,2,2014-12-21 14:00:00,Manolo Gabbiadini,Pass
+45565,76,SavedShot,0.740999984741211,0.59,0.015643266960978508,Éder,h,1514,OpenPlay,2014,RightFoot,5025,Sampdoria,Udinese,2,2,2014-12-21 14:00:00,Angelo Palombo,Pass
+45568,88,MissedShots,0.92,0.4979999923706055,0.12458436191082001,Fabrizio Cacciatore,h,1329,SetPiece,2014,Head,5025,Sampdoria,Udinese,2,2,2014-12-21 14:00:00,Manolo Gabbiadini,Cross
+45570,91,BlockedShot,0.9059999847412109,0.685,0.023911498486995697,Djamel Mesbah,h,1365,OpenPlay,2014,RightFoot,5025,Sampdoria,Udinese,2,2,2014-12-21 14:00:00,Fabrizio Cacciatore,Cross
+45543,6,MissedShots,0.8590000152587891,0.515,0.10623559355735779,Alexandre Geijo,a,3878,OpenPlay,2014,RightFoot,5025,Sampdoria,Udinese,2,2,2014-12-21 14:00:00,Silvan Widmer,Pass
+45545,20,MissedShots,0.8530000305175781,0.509000015258789,0.08185835182666779,Panagiotis Kone,a,1561,OpenPlay,2014,RightFoot,5025,Sampdoria,Udinese,2,2,2014-12-21 14:00:00,Cyril Théréau,Pass
+45547,30,Goal,0.955999984741211,0.580999984741211,0.4789714217185974,Alexandre Geijo,a,3878,OpenPlay,2014,RightFoot,5025,Sampdoria,Udinese,2,2,2014-12-21 14:00:00,Panagiotis Kone,Pass
+45548,33,Goal,0.8930000305175781,0.4620000076293945,0.04819942265748978,Danilo,a,1140,FromCorner,2014,Head,5025,Sampdoria,Udinese,2,2,2014-12-21 14:00:00,Panagiotis Kone,Cross
+45555,59,SavedShot,0.8969999694824219,0.5220000076293946,0.4131535291671753,Emmanuel Badu,a,1150,OpenPlay,2014,LeftFoot,5025,Sampdoria,Udinese,2,2,2014-12-21 14:00:00,Giovanni Pasquale,Pass
+45566,79,ShotOnPost,0.8930000305175781,0.5229999923706055,0.24027210474014282,Alexandre Geijo,a,3878,OpenPlay,2014,Head,5025,Sampdoria,Udinese,2,2,2014-12-21 14:00:00,Silvan Widmer,Cross
+45567,83,SavedShot,0.759000015258789,0.305,0.013583793304860592,Silvan Widmer,a,1139,OpenPlay,2014,LeftFoot,5025,Sampdoria,Udinese,2,2,2014-12-21 14:00:00,,None
+45569,90,MissedShots,0.8680000305175781,0.6719999694824219,0.10527772456407547,Antonio Di Natale,a,1888,OpenPlay,2014,RightFoot,5025,Sampdoria,Udinese,2,2,2014-12-21 14:00:00,Bruno Fernandes,Chipped

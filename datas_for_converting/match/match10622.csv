@@ -1,0 +1,24 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+300022,7,BlockedShot,0.9219999694824219,0.7759999847412109,0.04699474945664406,Vincenzo Grifo,h,5266,OpenPlay,2018,RightFoot,10622,Freiburg,Fortuna Duesseldorf,1,1,2019-05-05 14:30:00,,TakeOn
+300023,8,Goal,0.885,0.5,0.75777667760849,Vincenzo Grifo,h,5266,Penalty,2018,RightFoot,10622,Freiburg,Fortuna Duesseldorf,1,1,2019-05-05 14:30:00,,Standard
+300024,9,BlockedShot,0.915,0.40200000762939453,0.18088437616825104,Vincenzo Grifo,h,5266,OpenPlay,2018,RightFoot,10622,Freiburg,Fortuna Duesseldorf,1,1,2019-05-05 14:30:00,Nicolas Höfler,TakeOn
+300026,18,BlockedShot,0.774000015258789,0.7419999694824219,0.04802539199590683,Vincenzo Grifo,h,5266,DirectFreekick,2018,RightFoot,10622,Freiburg,Fortuna Duesseldorf,1,1,2019-05-05 14:30:00,,Standard
+300027,26,BlockedShot,0.870999984741211,0.3039999961853027,0.1092306524515152,Vincenzo Grifo,h,5266,OpenPlay,2018,RightFoot,10622,Freiburg,Fortuna Duesseldorf,1,1,2019-05-05 14:30:00,,BallRecovery
+300037,79,BlockedShot,0.9069999694824219,0.825999984741211,0.06264761090278625,Vincenzo Grifo,h,5266,DirectFreekick,2018,RightFoot,10622,Freiburg,Fortuna Duesseldorf,1,1,2019-05-05 14:30:00,,Standard
+300038,80,MissedShots,0.730999984741211,0.5579999923706055,0.014197669923305511,Nicolas Höfler,h,4250,OpenPlay,2018,RightFoot,10622,Freiburg,Fortuna Duesseldorf,1,1,2019-05-05 14:30:00,,None
+300039,84,SavedShot,0.715,0.325,0.014995511621236801,Roland Sallai,h,1277,SetPiece,2018,RightFoot,10622,Freiburg,Fortuna Duesseldorf,1,1,2019-05-05 14:30:00,Nicolas Höfler,Pass
+300040,84,MissedShots,0.7219999694824218,0.66,0.013013183139264584,Jérôme Gondorf,h,8,FromCorner,2018,LeftFoot,10622,Freiburg,Fortuna Duesseldorf,1,1,2019-05-05 14:30:00,,None
+300042,88,SavedShot,0.67,0.43599998474121093,0.008532507345080376,Vincenzo Grifo,h,5266,OpenPlay,2018,LeftFoot,10622,Freiburg,Fortuna Duesseldorf,1,1,2019-05-05 14:30:00,,Aerial
+300020,3,SavedShot,0.7530000305175781,0.76,0.03827228769659996,Kevin Stöger,a,7058,DirectFreekick,2018,LeftFoot,10622,Freiburg,Fortuna Duesseldorf,1,1,2019-05-05 14:30:00,,Standard
+300021,4,MissedShots,0.8369999694824218,0.23899999618530274,0.02419782429933548,Benito Raman,a,7059,OpenPlay,2018,RightFoot,10622,Freiburg,Fortuna Duesseldorf,1,1,2019-05-05 14:30:00,Adam Bodzek,Pass
+300025,16,MissedShots,0.919000015258789,0.48200000762939454,0.06449015438556671,Kenan Karaman,a,98,OpenPlay,2018,OtherBodyPart,10622,Freiburg,Fortuna Duesseldorf,1,1,2019-05-05 14:30:00,Dawid Kownacki,Aerial
+300028,30,Goal,0.879000015258789,0.664000015258789,0.07828282564878464,Dawid Kownacki,a,6190,OpenPlay,2018,LeftFoot,10622,Freiburg,Fortuna Duesseldorf,1,1,2019-05-05 14:30:00,Kevin Stöger,Pass
+300029,43,BlockedShot,0.9069999694824219,0.585,0.11864233016967773,Rouwen Hennings,a,7060,OpenPlay,2018,LeftFoot,10622,Freiburg,Fortuna Duesseldorf,1,1,2019-05-05 14:30:00,Kenan Karaman,Pass
+300030,43,MissedShots,0.72,0.5779999923706055,0.0120269525796175,Andre Hoffmann,a,436,OpenPlay,2018,RightFoot,10622,Freiburg,Fortuna Duesseldorf,1,1,2019-05-05 14:30:00,,Rebound
+300031,48,MissedShots,0.735,0.27299999237060546,0.03751727566123009,Kevin Stöger,a,7058,DirectFreekick,2018,LeftFoot,10622,Freiburg,Fortuna Duesseldorf,1,1,2019-05-05 14:30:00,,Standard
+300032,51,MissedShots,0.7769999694824219,0.26399999618530273,0.019207274541258812,Matthias Zimmermann,a,2629,OpenPlay,2018,RightFoot,10622,Freiburg,Fortuna Duesseldorf,1,1,2019-05-05 14:30:00,Adam Bodzek,Pass
+300033,61,BlockedShot,0.8580000305175781,0.3770000076293945,0.08757366240024567,Kevin Stöger,a,7058,OpenPlay,2018,LeftFoot,10622,Freiburg,Fortuna Duesseldorf,1,1,2019-05-05 14:30:00,Adam Bodzek,TakeOn
+300034,62,MissedShots,0.850999984741211,0.634000015258789,0.035794954746961594,Kevin Stöger,a,7058,FromCorner,2018,LeftFoot,10622,Freiburg,Fortuna Duesseldorf,1,1,2019-05-05 14:30:00,Markus Suttner,Cross
+300035,65,SavedShot,0.86,0.5479999923706055,0.3528154492378235,Rouwen Hennings,a,7060,OpenPlay,2018,RightFoot,10622,Freiburg,Fortuna Duesseldorf,1,1,2019-05-05 14:30:00,Adam Bodzek,Pass
+300036,74,MissedShots,0.915,0.6969999694824218,0.02816573716700077,Markus Suttner,a,379,OpenPlay,2018,LeftFoot,10622,Freiburg,Fortuna Duesseldorf,1,1,2019-05-05 14:30:00,Matthias Zimmermann,Cross
+300041,85,BlockedShot,0.7130000305175781,0.41200000762939454,0.016145695000886917,Dodi Lukebakio,a,5706,OpenPlay,2018,LeftFoot,10622,Freiburg,Fortuna Duesseldorf,1,1,2019-05-05 14:30:00,Kevin Stöger,Pass

@@ -1,0 +1,25 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+207525,11,MissedShots,0.9159999847412109,0.47,0.039715856313705444,Manuel Gulde,h,5292,FromCorner,2017,Head,8514,Freiburg,Wolfsburg,0,2,2018-04-07 13:30:00,Pascal Stenzel,Aerial
+207526,12,BlockedShot,0.8780000305175781,0.7390000152587891,0.03613459691405296,Christian Günter,h,4243,OpenPlay,2017,LeftFoot,8514,Freiburg,Wolfsburg,0,2,2018-04-07 13:30:00,Nils Petersen,Pass
+207527,19,MissedShots,0.9290000152587891,0.5629999923706055,0.09025081992149353,Manuel Gulde,h,5292,FromCorner,2017,Head,8514,Freiburg,Wolfsburg,0,2,2018-04-07 13:30:00,Christian Günter,Cross
+207528,20,BlockedShot,0.7330000305175781,0.6120000076293945,0.018550477921962738,Florian Kath,h,4344,OpenPlay,2017,LeftFoot,8514,Freiburg,Wolfsburg,0,2,2018-04-07 13:30:00,Vincent Sierro,Pass
+207530,27,MissedShots,0.76,0.6370000076293946,0.02158164046704769,Florian Kath,h,4344,OpenPlay,2017,LeftFoot,8514,Freiburg,Wolfsburg,0,2,2018-04-07 13:30:00,Vincent Sierro,Pass
+207531,43,BlockedShot,0.8019999694824219,0.3840000152587891,0.024492904543876648,Robin Koch,h,6273,OpenPlay,2017,RightFoot,8514,Freiburg,Wolfsburg,0,2,2018-04-07 13:30:00,Nils Petersen,HeadPass
+207534,55,MissedShots,0.8569999694824219,0.6090000152587891,0.06264001131057739,Vincent Sierro,h,5311,OpenPlay,2017,LeftFoot,8514,Freiburg,Wolfsburg,0,2,2018-04-07 13:30:00,Janik Haberer,Pass
+207538,68,BlockedShot,0.7619999694824219,0.635,0.021830374374985695,Florian Kath,h,4344,OpenPlay,2017,RightFoot,8514,Freiburg,Wolfsburg,0,2,2018-04-07 13:30:00,Vincent Sierro,Pass
+207539,69,BlockedShot,0.794000015258789,0.39099998474121095,0.03298993408679962,Pascal Stenzel,h,326,OpenPlay,2017,RightFoot,8514,Freiburg,Wolfsburg,0,2,2018-04-07 13:30:00,Manuel Gulde,TakeOn
+207541,84,MissedShots,0.765,0.5129999923706055,0.014227870851755142,Tim Kleindienst,h,6142,OpenPlay,2017,RightFoot,8514,Freiburg,Wolfsburg,0,2,2018-04-07 13:30:00,Nils Petersen,HeadPass
+207542,85,MissedShots,0.92,0.41900001525878905,0.048346538096666336,Tim Kleindienst,h,6142,OpenPlay,2017,Head,8514,Freiburg,Wolfsburg,0,2,2018-04-07 13:30:00,Janik Haberer,Aerial
+207545,90,BlockedShot,0.8780000305175781,0.4759999847412109,0.04046880453824997,Tim Kleindienst,h,6142,OpenPlay,2017,Head,8514,Freiburg,Wolfsburg,0,2,2018-04-07 13:30:00,,Aerial
+207546,93,SavedShot,0.885,0.5,0.75777667760849,Nils Petersen,h,4248,Penalty,2017,RightFoot,8514,Freiburg,Wolfsburg,0,2,2018-04-07 13:30:00,,Standard
+207523,1,MissedShots,0.749000015258789,0.3129999923706055,0.01536090299487114,Ignacio Camacho,a,2336,OpenPlay,2017,RightFoot,8514,Freiburg,Wolfsburg,0,2,2018-04-07 13:30:00,Daniel Didavi,Foul
+207524,1,Goal,0.784000015258789,0.48700000762939455,0.03612128645181656,Daniel Didavi,a,300,OpenPlay,2017,LeftFoot,8514,Freiburg,Wolfsburg,0,2,2018-04-07 13:30:00,,None
+207529,20,BlockedShot,0.7069999694824218,0.21799999237060547,0.01754281483590603,Josip Brekalo,a,5353,OpenPlay,2017,LeftFoot,8514,Freiburg,Wolfsburg,0,2,2018-04-07 13:30:00,Daniel Didavi,Pass
+207532,49,MissedShots,0.905,0.47299999237060547,0.07386495918035507,Ignacio Camacho,a,2336,FromCorner,2017,Head,8514,Freiburg,Wolfsburg,0,2,2018-04-07 13:30:00,Maximilian Arnold,Cross
+207533,55,MissedShots,0.7469999694824219,0.7019999694824218,0.0236594807356596,Yunus Malli,a,45,OpenPlay,2017,RightFoot,8514,Freiburg,Wolfsburg,0,2,2018-04-07 13:30:00,Daniel Didavi,Pass
+207535,57,MissedShots,0.7519999694824219,0.539000015258789,0.030390122905373573,Maximilian Arnold,a,153,OpenPlay,2017,LeftFoot,8514,Freiburg,Wolfsburg,0,2,2018-04-07 13:30:00,Daniel Didavi,Pass
+207536,66,BlockedShot,0.8669999694824219,0.4640000152587891,0.11500624567270279,Yunus Malli,a,45,OpenPlay,2017,LeftFoot,8514,Freiburg,Wolfsburg,0,2,2018-04-07 13:30:00,Paul Verhaegh,Pass
+207537,66,BlockedShot,0.7559999847412109,0.5370000076293945,0.07440260052680969,William,a,6229,OpenPlay,2017,RightFoot,8514,Freiburg,Wolfsburg,0,2,2018-04-07 13:30:00,,TakeOn
+207540,82,Goal,0.8969999694824219,0.425,0.12320952117443085,Daniel Didavi,a,300,OpenPlay,2017,LeftFoot,8514,Freiburg,Wolfsburg,0,2,2018-04-07 13:30:00,Divock Origi,Pass
+207543,86,MissedShots,0.7619999694824219,0.7180000305175781,0.048026200383901596,Yunus Malli,a,45,DirectFreekick,2017,RightFoot,8514,Freiburg,Wolfsburg,0,2,2018-04-07 13:30:00,,Standard
+207544,88,MissedShots,0.8809999847412109,0.36900001525878906,0.12168718874454498,Yunus Malli,a,45,OpenPlay,2017,RightFoot,8514,Freiburg,Wolfsburg,0,2,2018-04-07 13:30:00,Maximilian Arnold,Pass

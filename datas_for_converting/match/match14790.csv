@@ -1,0 +1,25 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+421500,5,SavedShot,0.895,0.754000015258789,0.028716573491692543,Mason Mount,h,7768,OpenPlay,2020,RightFoot,14790,Chelsea,Arsenal,0,1,2021-05-12 19:15:00,Christian Pulisic,Pass
+421501,10,MissedShots,0.8519999694824218,0.4540000152587891,0.3444143533706665,Kai Havertz,h,5220,OpenPlay,2020,LeftFoot,14790,Chelsea,Arsenal,0,1,2021-05-12 19:15:00,,BallRecovery
+421504,21,BlockedShot,0.9,0.455,0.11849754303693771,Mason Mount,h,7768,OpenPlay,2020,RightFoot,14790,Chelsea,Arsenal,0,1,2021-05-12 19:15:00,Christian Pulisic,Pass
+421505,27,SavedShot,0.9,0.6480000305175782,0.07066275924444199,Mason Mount,h,7768,OpenPlay,2020,LeftFoot,14790,Chelsea,Arsenal,0,1,2021-05-12 19:15:00,Kai Havertz,Pass
+421506,31,BlockedShot,0.9269999694824219,0.425,0.0318695493042469,Kurt Zouma,h,935,FromCorner,2020,Head,14790,Chelsea,Arsenal,0,1,2021-05-12 19:15:00,Mason Mount,Rebound
+421507,31,MissedShots,0.9519999694824218,0.425,0.04813574627041817,Christian Pulisic,h,2662,FromCorner,2020,Head,14790,Chelsea,Arsenal,0,1,2021-05-12 19:15:00,,Aerial
+421508,36,MissedShots,0.94,0.5870000076293945,0.06814807653427124,Kai Havertz,h,5220,FromCorner,2020,Head,14790,Chelsea,Arsenal,0,1,2021-05-12 19:15:00,Mason Mount,Cross
+421509,36,BlockedShot,0.9080000305175782,0.43099998474121093,0.019585728645324707,Thiago Silva,h,3288,FromCorner,2020,Head,14790,Chelsea,Arsenal,0,1,2021-05-12 19:15:00,Kurt Zouma,Aerial
+421510,54,MissedShots,0.8180000305175781,0.31799999237060544,0.026243798434734344,Callum Hudson-Odoi,h,6456,OpenPlay,2020,RightFoot,14790,Chelsea,Arsenal,0,1,2021-05-12 19:15:00,Reece James,Pass
+421511,60,MissedShots,0.93,0.49900001525878906,0.11791668087244034,Kai Havertz,h,5220,FromCorner,2020,Head,14790,Chelsea,Arsenal,0,1,2021-05-12 19:15:00,Mason Mount,Cross
+421513,66,MissedShots,0.685,0.5990000152587891,0.012761907652020454,Kurt Zouma,h,935,OpenPlay,2020,RightFoot,14790,Chelsea,Arsenal,0,1,2021-05-12 19:15:00,Jorginho,Pass
+421514,68,MissedShots,0.805,0.555,0.04369828850030899,Olivier Giroud,h,502,OpenPlay,2020,LeftFoot,14790,Chelsea,Arsenal,0,1,2021-05-12 19:15:00,Mason Mount,BallRecovery
+421517,80,MissedShots,0.8919999694824219,0.48700000762939455,0.06329552084207535,Olivier Giroud,h,502,OpenPlay,2020,Head,14790,Chelsea,Arsenal,0,1,2021-05-12 19:15:00,Reece James,Cross
+421518,85,SavedShot,0.879000015258789,0.42700000762939455,0.10152611136436462,Christian Pulisic,h,2662,OpenPlay,2020,RightFoot,14790,Chelsea,Arsenal,0,1,2021-05-12 19:15:00,Callum Hudson-Odoi,Cross
+421519,89,SavedShot,0.865,0.585,0.024572789669036865,Kurt Zouma,h,935,OpenPlay,2020,Head,14790,Chelsea,Arsenal,0,1,2021-05-12 19:15:00,Hakim Ziyech,Chipped
+421520,89,ShotOnPost,0.9740000152587891,0.40299999237060546,0.360645592212677,Olivier Giroud,h,502,OpenPlay,2020,RightFoot,14790,Chelsea,Arsenal,0,1,2021-05-12 19:15:00,,Rebound
+421521,92,BlockedShot,0.7759999847412109,0.639000015258789,0.022844288498163223,Kurt Zouma,h,935,OpenPlay,2020,RightFoot,14790,Chelsea,Arsenal,0,1,2021-05-12 19:15:00,Callum Hudson-Odoi,Pass
+421522,95,BlockedShot,0.7969999694824219,0.295,0.018868621438741684,Hakim Ziyech,h,8992,OpenPlay,2020,LeftFoot,14790,Chelsea,Arsenal,0,1,2021-05-12 19:15:00,Reece James,Pass
+421523,95,BlockedShot,0.8430000305175781,0.3629999923706055,0.05656857416033745,Christian Pulisic,h,2662,OpenPlay,2020,RightFoot,14790,Chelsea,Arsenal,0,1,2021-05-12 19:15:00,Jorginho,Pass
+421502,12,BlockedShot,0.705,0.475,0.011241499334573746,Martin Odegaard,a,2517,OpenPlay,2020,LeftFoot,14790,Chelsea,Arsenal,0,1,2021-05-12 19:15:00,,None
+421503,15,Goal,0.925,0.514000015258789,0.5526368021965027,Emile Smith-Rowe,a,7230,OpenPlay,2020,LeftFoot,14790,Chelsea,Arsenal,0,1,2021-05-12 19:15:00,Pierre-Emerick Aubameyang,Pass
+421512,65,SavedShot,0.8680000305175781,0.3579999923706055,0.06586146354675293,Héctor Bellerín,a,492,OpenPlay,2020,RightFoot,14790,Chelsea,Arsenal,0,1,2021-05-12 19:15:00,Martin Odegaard,Pass
+421515,70,MissedShots,0.8480000305175781,0.40400001525878904,0.052204664796590805,Martin Odegaard,a,2517,OpenPlay,2020,LeftFoot,14790,Chelsea,Arsenal,0,1,2021-05-12 19:15:00,Kieran Tierney,Cross
+421516,75,BlockedShot,0.7219999694824218,0.6079999923706054,0.010098137892782688,Kieran Tierney,a,8089,SetPiece,2020,LeftFoot,14790,Chelsea,Arsenal,0,1,2021-05-12 19:15:00,,None

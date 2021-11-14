@@ -1,0 +1,28 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+321490,25,SavedShot,0.925,0.5729999923706055,0.023813549429178238,Jordan Ayew,h,672,FromCorner,2019,Head,11697,Crystal Palace,Wolverhampton Wanderers,1,1,2019-09-22 13:00:00,Luka Milivojevic,Aerial
+321495,45,MissedShots,0.8130000305175781,0.4570000076293945,0.05151611566543579,Joel Ward,h,510,OpenPlay,2019,RightFoot,11697,Crystal Palace,Wolverhampton Wanderers,1,1,2019-09-22 13:00:00,James McArthur,Pass
+321498,55,BlockedShot,0.7619999694824219,0.37,0.02873871847987175,Luka Milivojevic,h,5549,OpenPlay,2019,RightFoot,11697,Crystal Palace,Wolverhampton Wanderers,1,1,2019-09-22 13:00:00,,None
+321499,57,BlockedShot,0.9119999694824219,0.6780000305175782,0.07762686908245087,Jeffrey Schlupp,h,757,OpenPlay,2019,LeftFoot,11697,Crystal Palace,Wolverhampton Wanderers,1,1,2019-09-22 13:00:00,James McArthur,BallTouch
+321500,57,BlockedShot,0.755,0.6090000152587891,0.027466706931591034,Cheikhou Kouyaté,h,532,OpenPlay,2019,RightFoot,11697,Crystal Palace,Wolverhampton Wanderers,1,1,2019-09-22 13:00:00,,None
+321503,62,SavedShot,0.885,0.27,0.052911486476659775,Wilfried Zaha,h,522,OpenPlay,2019,RightFoot,11697,Crystal Palace,Wolverhampton Wanderers,1,1,2019-09-22 13:00:00,,BallRecovery
+321504,69,MissedShots,0.825999984741211,0.3220000076293945,0.02890094742178917,Wilfried Zaha,h,522,SetPiece,2019,RightFoot,11697,Crystal Palace,Wolverhampton Wanderers,1,1,2019-09-22 13:00:00,Gary Cahill,Pass
+321505,71,MissedShots,0.7609999847412109,0.4879999923706055,0.03693268075585365,Luka Milivojevic,h,5549,OpenPlay,2019,LeftFoot,11697,Crystal Palace,Wolverhampton Wanderers,1,1,2019-09-22 13:00:00,,None
+321506,77,SavedShot,0.8959999847412109,0.5259999847412109,0.1373102068901062,Christian Benteke,h,606,OpenPlay,2019,RightFoot,11697,Crystal Palace,Wolverhampton Wanderers,1,1,2019-09-22 13:00:00,Jeffrey Schlupp,Pass
+321508,88,BlockedShot,0.8019999694824219,0.33599998474121096,0.0815337672829628,Patrick van Aanholt,h,730,DirectFreekick,2019,LeftFoot,11697,Crystal Palace,Wolverhampton Wanderers,1,1,2019-09-22 13:00:00,,Standard
+321509,88,MissedShots,0.7219999694824218,0.38,0.011683600954711437,Gary Cahill,h,699,SetPiece,2019,RightFoot,11697,Crystal Palace,Wolverhampton Wanderers,1,1,2019-09-22 13:00:00,,Rebound
+321510,90,MissedShots,0.9630000305175781,0.7480000305175781,0.03675293177366257,Cheikhou Kouyaté,h,532,FromCorner,2019,RightFoot,11697,Crystal Palace,Wolverhampton Wanderers,1,1,2019-09-22 13:00:00,James McCarthy,Pass
+321512,93,SavedShot,0.899000015258789,0.4159999847412109,0.3905423879623413,Jeffrey Schlupp,h,757,OpenPlay,2019,LeftFoot,11697,Crystal Palace,Wolverhampton Wanderers,1,1,2019-09-22 13:00:00,Christian Benteke,Pass
+321487,9,BlockedShot,0.7780000305175782,0.62,0.027108142152428627,Diogo Jota,a,6854,OpenPlay,2019,LeftFoot,11697,Crystal Palace,Wolverhampton Wanderers,1,1,2019-09-22 13:00:00,Raúl Jiménez,Pass
+321488,9,BlockedShot,0.9440000152587891,0.46599998474121096,0.42726513743400574,Leander Dendoncker,a,7236,FromCorner,2019,RightFoot,11697,Crystal Palace,Wolverhampton Wanderers,1,1,2019-09-22 13:00:00,João Moutinho,Cross
+321489,20,BlockedShot,0.7609999847412109,0.4759999847412109,0.026637857779860497,Adama Traoré,a,900,OpenPlay,2019,LeftFoot,11697,Crystal Palace,Wolverhampton Wanderers,1,1,2019-09-22 13:00:00,,BallRecovery
+321491,28,SavedShot,0.9519999694824218,0.4520000076293945,0.44921353459358215,Matt Doherty,a,6852,OpenPlay,2019,Head,11697,Crystal Palace,Wolverhampton Wanderers,1,1,2019-09-22 13:00:00,Raúl Jiménez,Chipped
+321492,28,MissedShots,0.784000015258789,0.415,0.02191435918211937,Adama Traoré,a,900,FromCorner,2019,RightFoot,11697,Crystal Palace,Wolverhampton Wanderers,1,1,2019-09-22 13:00:00,,None
+321493,31,BlockedShot,0.769000015258789,0.4329999923706055,0.018474992364645004,Jonny,a,2280,SetPiece,2019,RightFoot,11697,Crystal Palace,Wolverhampton Wanderers,1,1,2019-09-22 13:00:00,,None
+321494,37,SavedShot,0.8680000305175781,0.3770000076293945,0.08832190930843353,Diogo Jota,a,6854,OpenPlay,2019,RightFoot,11697,Crystal Palace,Wolverhampton Wanderers,1,1,2019-09-22 13:00:00,Raúl Jiménez,Pass
+321496,45,OwnGoal,0.10399999618530273,0.45,0,Leander Dendoncker,a,7236,OpenPlay,2019,OtherBodyPart,11697,Crystal Palace,Wolverhampton Wanderers,1,1,2019-09-22 13:00:00,,None
+321497,51,MissedShots,0.9030000305175782,0.4470000076293945,0.0330098494887352,Raúl Jiménez,a,4105,OpenPlay,2019,Head,11697,Crystal Palace,Wolverhampton Wanderers,1,1,2019-09-22 13:00:00,Adama Traoré,Aerial
+321501,57,BlockedShot,0.8230000305175781,0.6819999694824219,0.05312337353825569,Diogo Jota,a,6854,OpenPlay,2019,LeftFoot,11697,Crystal Palace,Wolverhampton Wanderers,1,1,2019-09-22 13:00:00,Raúl Jiménez,Pass
+321502,62,SavedShot,0.879000015258789,0.549000015258789,0.0771179273724556,Raúl Jiménez,a,4105,OpenPlay,2019,RightFoot,11697,Crystal Palace,Wolverhampton Wanderers,1,1,2019-09-22 13:00:00,Jonny,Cross
+321507,80,BlockedShot,0.8830000305175781,0.32,0.035524122416973114,Adama Traoré,a,900,OpenPlay,2019,RightFoot,11697,Crystal Palace,Wolverhampton Wanderers,1,1,2019-09-22 13:00:00,Diogo Jota,Cross
+321511,93,MissedShots,0.750999984741211,0.355,0.017901761457324028,Rúben Neves,a,6853,OpenPlay,2019,RightFoot,11697,Crystal Palace,Wolverhampton Wanderers,1,1,2019-09-22 13:00:00,Adama Traoré,Pass
+321513,94,Goal,0.9519999694824218,0.5570000076293945,0.4801110029220581,Diogo Jota,a,6854,OpenPlay,2019,RightFoot,11697,Crystal Palace,Wolverhampton Wanderers,1,1,2019-09-22 13:00:00,Adama Traoré,Cross

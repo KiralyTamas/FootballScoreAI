@@ -1,0 +1,27 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+204472,2,MissedShots,0.89,0.6780000305175782,0.07529732584953308,Thomas Müller,h,224,OpenPlay,2017,LeftFoot,8502,Bayern Munich,Borussia Dortmund,6,0,2018-03-31 14:30:00,David Alaba,TakeOn
+204475,4,Goal,0.8780000305175781,0.445,0.344487726688385,Robert Lewandowski,h,227,OpenPlay,2017,RightFoot,8502,Bayern Munich,Borussia Dortmund,6,0,2018-03-31 14:30:00,Thomas Müller,Pass
+204477,8,MissedShots,0.9309999847412109,0.46900001525878904,0.4287283420562744,James Rodríguez,h,2249,OpenPlay,2017,LeftFoot,8502,Bayern Munich,Borussia Dortmund,6,0,2018-03-31 14:30:00,Thomas Müller,Cross
+204479,13,Goal,0.9169999694824219,0.509000015258789,0.5290701389312744,James Rodríguez,h,2249,OpenPlay,2017,LeftFoot,8502,Bayern Munich,Borussia Dortmund,6,0,2018-03-31 14:30:00,David Alaba,Pass
+204482,18,MissedShots,0.7380000305175781,0.35900001525878905,0.016748368740081787,Arjen Robben,h,392,OpenPlay,2017,LeftFoot,8502,Bayern Munich,Borussia Dortmund,6,0,2018-03-31 14:30:00,Thomas Müller,Pass
+204484,22,Goal,0.9230000305175782,0.42700000762939455,0.5627694725990295,Thomas Müller,h,224,OpenPlay,2017,RightFoot,8502,Bayern Munich,Borussia Dortmund,6,0,2018-03-31 14:30:00,James Rodríguez,Chipped
+204485,42,MissedShots,0.850999984741211,0.28299999237060547,0.04956066980957985,Arjen Robben,h,392,OpenPlay,2017,LeftFoot,8502,Bayern Munich,Borussia Dortmund,6,0,2018-03-31 14:30:00,Robert Lewandowski,Pass
+204486,43,SavedShot,0.9740000152587891,0.61,0.17717750370502472,Franck Ribéry,h,329,OpenPlay,2017,RightFoot,8502,Bayern Munich,Borussia Dortmund,6,0,2018-03-31 14:30:00,James Rodríguez,TakeOn
+204487,43,Goal,0.985999984741211,0.5070000076293946,0.8697832822799683,Robert Lewandowski,h,227,OpenPlay,2017,RightFoot,8502,Bayern Munich,Borussia Dortmund,6,0,2018-03-31 14:30:00,Franck Ribéry,BallTouch
+204488,45,Goal,0.9119999694824219,0.5690000152587891,0.4296626150608063,Franck Ribéry,h,329,OpenPlay,2017,RightFoot,8502,Bayern Munich,Borussia Dortmund,6,0,2018-03-31 14:30:00,James Rodríguez,Pass
+204489,53,MissedShots,0.835999984741211,0.6880000305175781,0.04591987282037735,Rafinha,h,221,OpenPlay,2017,RightFoot,8502,Bayern Munich,Borussia Dortmund,6,0,2018-03-31 14:30:00,Franck Ribéry,Pass
+204490,60,SavedShot,0.8859999847412109,0.295,0.06709136068820953,Arjen Robben,h,392,OpenPlay,2017,LeftFoot,8502,Bayern Munich,Borussia Dortmund,6,0,2018-03-31 14:30:00,Javi Martínez,Pass
+204491,61,BlockedShot,0.8730000305175781,0.41900001525878905,0.11891353130340576,James Rodríguez,h,2249,OpenPlay,2017,RightFoot,8502,Bayern Munich,Borussia Dortmund,6,0,2018-03-31 14:30:00,Thomas Müller,Pass
+204493,69,MissedShots,0.9119999694824219,0.48700000762939455,0.05285969749093056,Mats Hummels,h,373,FromCorner,2017,OtherBodyPart,8502,Bayern Munich,Borussia Dortmund,6,0,2018-03-31 14:30:00,Arjen Robben,Cross
+204494,73,BlockedShot,0.745,0.525,0.021063420921564102,Thomas Müller,h,224,OpenPlay,2017,RightFoot,8502,Bayern Munich,Borussia Dortmund,6,0,2018-03-31 14:30:00,,None
+204495,73,SavedShot,0.8080000305175781,0.500999984741211,0.08101397007703781,Robert Lewandowski,h,227,OpenPlay,2017,RightFoot,8502,Bayern Munich,Borussia Dortmund,6,0,2018-03-31 14:30:00,Thiago Alcántara,Pass
+204497,86,Goal,0.9669999694824218,0.5179999923706055,0.7291116714477539,Robert Lewandowski,h,227,OpenPlay,2017,RightFoot,8502,Bayern Munich,Borussia Dortmund,6,0,2018-03-31 14:30:00,,None
+204473,3,BlockedShot,0.9459999847412109,0.42200000762939455,0.12800569832324982,Michy Batshuayi,a,1678,OpenPlay,2017,Head,8502,Bayern Munich,Borussia Dortmund,6,0,2018-03-31 14:30:00,Christian Pulisic,Cross
+204474,3,MissedShots,0.8209999847412109,0.48700000762939455,0.04422805458307266,Mario Götze,a,422,FromCorner,2017,RightFoot,8502,Bayern Munich,Borussia Dortmund,6,0,2018-03-31 14:30:00,,None
+204476,7,SavedShot,0.799000015258789,0.5059999847412109,0.048688746988773346,André Schürrle,a,154,OpenPlay,2017,RightFoot,8502,Bayern Munich,Borussia Dortmund,6,0,2018-03-31 14:30:00,Gonzalo Castro,Pass
+204478,12,MissedShots,0.8880000305175781,0.580999984741211,0.06340260803699493,André Schürrle,a,154,OpenPlay,2017,RightFoot,8502,Bayern Munich,Borussia Dortmund,6,0,2018-03-31 14:30:00,Lukasz Piszczek,Cross
+204480,16,BlockedShot,0.85,0.649000015258789,0.053022172302007675,Mario Götze,a,422,OpenPlay,2017,RightFoot,8502,Bayern Munich,Borussia Dortmund,6,0,2018-03-31 14:30:00,André Schürrle,Pass
+204481,16,MissedShots,0.764000015258789,0.5259999847412109,0.013797571882605553,Mahmoud Dahoud,a,205,OpenPlay,2017,RightFoot,8502,Bayern Munich,Borussia Dortmund,6,0,2018-03-31 14:30:00,,Rebound
+204483,19,SavedShot,0.7819999694824219,0.4520000076293945,0.03769878298044205,Christian Pulisic,a,2662,OpenPlay,2017,RightFoot,8502,Bayern Munich,Borussia Dortmund,6,0,2018-03-31 14:30:00,Mahmoud Dahoud,Pass
+204492,66,ShotOnPost,0.7959999847412109,0.565,0.04616120457649231,Mario Götze,a,422,OpenPlay,2017,LeftFoot,8502,Bayern Munich,Borussia Dortmund,6,0,2018-03-31 14:30:00,Mahmoud Dahoud,Pass
+204496,78,SavedShot,0.81,0.46900001525878904,0.05077110975980759,Lukasz Piszczek,a,310,OpenPlay,2017,LeftFoot,8502,Bayern Munich,Borussia Dortmund,6,0,2018-03-31 14:30:00,André Schürrle,Pass

@@ -1,0 +1,32 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+304593,7,Goal,0.7469999694824219,0.23399999618530273,0.032380618155002594,Ricardo Alves,h,7150,DirectFreekick,2018,LeftFoot,9184,FC Orenburg,Spartak Moscow,2,0,2019-05-26 11:00:00,,Standard
+304594,10,SavedShot,0.8030000305175782,0.9019999694824219,0.02719697915017605,Denis Popovic,h,5488,DirectFreekick,2018,RightFoot,9184,FC Orenburg,Spartak Moscow,2,0,2019-05-26 11:00:00,,Standard
+304595,16,SavedShot,0.7530000305175781,0.43099998474121093,0.025969456881284714,Ricardo Alves,h,7150,OpenPlay,2018,LeftFoot,9184,FC Orenburg,Spartak Moscow,2,0,2019-05-26 11:00:00,Andrey Malykh,Pass
+304599,34,MissedShots,0.7190000152587891,0.59,0.01654498092830181,Sergey Terekhov,h,5940,OpenPlay,2018,LeftFoot,9184,FC Orenburg,Spartak Moscow,2,0,2019-05-26 11:00:00,Denis Popovic,Pass
+304601,35,SavedShot,0.805,0.415,0.05423465371131897,Djorde Despotovic,h,7121,OpenPlay,2018,LeftFoot,9184,FC Orenburg,Spartak Moscow,2,0,2019-05-26 11:00:00,Ricardo Alves,Pass
+304605,48,SavedShot,0.8340000152587891,0.610999984741211,0.06345313042402267,Ricardo Alves,h,7150,OpenPlay,2018,LeftFoot,9184,FC Orenburg,Spartak Moscow,2,0,2019-05-26 11:00:00,Sergey Terekhov,Pass
+304606,48,SavedShot,0.9030000305175782,0.25,0.038351014256477356,Danijel Miskic,h,6890,FromCorner,2018,RightFoot,9184,FC Orenburg,Spartak Moscow,2,0,2019-05-26 11:00:00,Ricardo Alves,Pass
+304607,53,MissedShots,0.7980000305175782,0.784000015258789,0.01642090640962124,Aleksey Sutormin,h,6774,OpenPlay,2018,RightFoot,9184,FC Orenburg,Spartak Moscow,2,0,2019-05-26 11:00:00,,None
+304608,55,SavedShot,0.8969999694824219,0.46900001525878904,0.40602579712867737,Djorde Despotovic,h,7121,OpenPlay,2018,RightFoot,9184,FC Orenburg,Spartak Moscow,2,0,2019-05-26 11:00:00,Aleksey Sutormin,Pass
+304609,57,SavedShot,0.8830000305175781,0.7,0.05943194031715393,Aleksey Sutormin,h,6774,OpenPlay,2018,RightFoot,9184,FC Orenburg,Spartak Moscow,2,0,2019-05-26 11:00:00,Djorde Despotovic,Pass
+304612,62,MissedShots,0.850999984741211,0.5220000076293946,0.07264386117458344,Aleksey Sutormin,h,6774,OpenPlay,2018,RightFoot,9184,FC Orenburg,Spartak Moscow,2,0,2019-05-26 11:00:00,Djorde Despotovic,Cross
+304619,75,BlockedShot,0.6869999694824219,0.44,0.01837591640651226,Danijel Miskic,h,6890,OpenPlay,2018,RightFoot,9184,FC Orenburg,Spartak Moscow,2,0,2019-05-26 11:00:00,Vitali Shakhov,Pass
+304620,84,MissedShots,0.9569999694824218,0.40400001525878904,0.14134544134140015,Djorde Despotovic,h,7121,OpenPlay,2018,RightFoot,9184,FC Orenburg,Spartak Moscow,2,0,2019-05-26 11:00:00,Sergey Terekhov,Cross
+304623,93,Goal,0.935,0.524000015258789,0.9604030251502991,Artem Kulishev,h,6780,OpenPlay,2018,RightFoot,9184,FC Orenburg,Spartak Moscow,2,0,2019-05-26 11:00:00,,BallRecovery
+304596,19,MissedShots,0.7869999694824219,0.27299999237060546,0.01752512902021408,Ayaz Guliev,a,5444,OpenPlay,2018,RightFoot,9184,FC Orenburg,Spartak Moscow,2,0,2019-05-26 11:00:00,,None
+304597,22,BlockedShot,0.75,0.5520000076293945,0.017939351499080658,Lorenzo Melgarejo,a,2819,OpenPlay,2018,LeftFoot,9184,FC Orenburg,Spartak Moscow,2,0,2019-05-26 11:00:00,,BallRecovery
+304598,33,SavedShot,0.8380000305175781,0.375,0.05061342194676399,Lorenzo Melgarejo,a,2819,OpenPlay,2018,LeftFoot,9184,FC Orenburg,Spartak Moscow,2,0,2019-05-26 11:00:00,Ayaz Guliev,Pass
+304600,35,SavedShot,0.7859999847412109,0.8019999694824219,0.015400352887809277,Ayrton Lucas,a,7475,OpenPlay,2018,LeftFoot,9184,FC Orenburg,Spartak Moscow,2,0,2019-05-26 11:00:00,Nail Umiarov,Pass
+304602,38,SavedShot,0.8690000152587891,0.539000015258789,0.011381890624761581,Roman Zobnin,a,2750,SetPiece,2018,Head,9184,FC Orenburg,Spartak Moscow,2,0,2019-05-26 11:00:00,Ayrton Lucas,Aerial
+304603,42,SavedShot,0.8880000305175781,0.6909999847412109,0.05984660983085632,Ayrton Lucas,a,7475,OpenPlay,2018,LeftFoot,9184,FC Orenburg,Spartak Moscow,2,0,2019-05-26 11:00:00,,TakeOn
+304604,45,BlockedShot,0.830999984741211,0.6840000152587891,0.03537709638476372,Alexander Tashaev,a,2753,OpenPlay,2018,RightFoot,9184,FC Orenburg,Spartak Moscow,2,0,2019-05-26 11:00:00,Zé Luís,Pass
+304610,59,BlockedShot,0.8330000305175781,0.4329999923706055,0.04269687086343765,Giorgi Jikia,a,2834,FromCorner,2018,LeftFoot,9184,FC Orenburg,Spartak Moscow,2,0,2019-05-26 11:00:00,,None
+304611,61,MissedShots,0.7090000152587891,0.54,0.009939362294971943,Andrey Eshchenko,a,3023,SetPiece,2018,RightFoot,9184,FC Orenburg,Spartak Moscow,2,0,2019-05-26 11:00:00,,None
+304613,63,BlockedShot,0.8009999847412109,0.5790000152587891,0.03640391677618027,George Melkadze,a,2822,OpenPlay,2018,RightFoot,9184,FC Orenburg,Spartak Moscow,2,0,2019-05-26 11:00:00,Ayrton Lucas,Pass
+304614,65,SavedShot,0.6709999847412109,0.5359999847412109,0.009905609302222729,Nail Umiarov,a,7476,OpenPlay,2018,RightFoot,9184,FC Orenburg,Spartak Moscow,2,0,2019-05-26 11:00:00,,None
+304615,68,SavedShot,0.865,0.5670000076293945,0.07878416776657104,Maksim Glushenkov,a,7477,OpenPlay,2018,LeftFoot,9184,FC Orenburg,Spartak Moscow,2,0,2019-05-26 11:00:00,Zé Luís,Pass
+304616,71,BlockedShot,0.885,0.41200000762939454,0.38410890102386475,Andrey Eshchenko,a,3023,OpenPlay,2018,LeftFoot,9184,FC Orenburg,Spartak Moscow,2,0,2019-05-26 11:00:00,,Aerial
+304617,74,BlockedShot,0.6869999694824219,0.345,0.011717083863914013,Ilya Gaponov,a,7191,OpenPlay,2018,RightFoot,9184,FC Orenburg,Spartak Moscow,2,0,2019-05-26 11:00:00,Roman Zobnin,Pass
+304618,75,BlockedShot,0.8380000305175781,0.31799999237060544,0.03221377357840538,Maksim Glushenkov,a,7477,OpenPlay,2018,LeftFoot,9184,FC Orenburg,Spartak Moscow,2,0,2019-05-26 11:00:00,Roman Zobnin,Chipped
+304621,85,BlockedShot,0.7369999694824219,0.37599998474121094,0.01604372449219227,Maksim Glushenkov,a,7477,OpenPlay,2018,LeftFoot,9184,FC Orenburg,Spartak Moscow,2,0,2019-05-26 11:00:00,Andrey Eshchenko,Pass
+304622,91,MissedShots,0.7959999847412109,0.5540000152587891,0.006801315117627382,Zé Luís,a,2818,OpenPlay,2018,Head,9184,FC Orenburg,Spartak Moscow,2,0,2019-05-26 11:00:00,Giorgi Jikia,Aerial

@@ -1,0 +1,21 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+74642,7,SavedShot,0.89,0.8619999694824219,0.0425441600382328,Aleksey Ionov,h,2751,DirectFreekick,2015,RightFoot,2482,Dinamo Moscow,Lokomotiv Moscow,2,2,2015-11-30 20:00:00,,Standard
+74647,34,Goal,0.885,0.5,0.7542753219604492,Vitali Djakov,h,2757,Penalty,2015,RightFoot,2482,Dinamo Moscow,Lokomotiv Moscow,2,2,2015-11-30 20:00:00,,Standard
+74655,78,SavedShot,0.884000015258789,0.5420000076293945,0.015450146980583668,Vitali Djakov,h,2757,SetPiece,2015,Head,2482,Dinamo Moscow,Lokomotiv Moscow,2,2,2015-11-30 20:00:00,Aleksey Ionov,Aerial
+74656,86,BlockedShot,0.7440000152587891,0.46099998474121096,0.015674838796257973,Maksim Kuzmin,h,2762,FromCorner,2015,RightFoot,2482,Dinamo Moscow,Lokomotiv Moscow,2,2,2015-11-30 20:00:00,,None
+74657,86,BlockedShot,0.749000015258789,0.4929999923706055,0.02175588719546795,Maksim Kuzmin,h,2762,FromCorner,2015,LeftFoot,2482,Dinamo Moscow,Lokomotiv Moscow,2,2,2015-11-30 20:00:00,Tomas Hubocan,Rebound
+74658,89,BlockedShot,0.7930000305175782,0.46,0.03912276402115822,Roman Zobnin,h,2750,OpenPlay,2015,RightFoot,2482,Dinamo Moscow,Lokomotiv Moscow,2,2,2015-11-30 20:00:00,Anton Sosnin,BallRecovery
+74659,91,SavedShot,0.9330000305175781,0.4279999923706055,0.04621831700205803,Roman Zobnin,h,2750,FromCorner,2015,Head,2482,Dinamo Moscow,Lokomotiv Moscow,2,2,2015-11-30 20:00:00,Tomas Hubocan,HeadPass
+74660,91,Goal,0.975999984741211,0.46,0.753917396068573,Vitali Djakov,h,2757,FromCorner,2015,LeftFoot,2482,Dinamo Moscow,Lokomotiv Moscow,2,2,2015-11-30 20:00:00,,Rebound
+74641,1,MissedShots,0.7630000305175781,0.3029999923706055,0.014256511814892292,Aleksandr Samedov,a,2710,OpenPlay,2015,RightFoot,2482,Dinamo Moscow,Lokomotiv Moscow,2,2,2015-11-30 20:00:00,,None
+74643,18,BlockedShot,0.8080000305175781,0.5070000076293946,0.04150891676545143,Alan Kasaev,a,2893,SetPiece,2015,RightFoot,2482,Dinamo Moscow,Lokomotiv Moscow,2,2,2015-11-30 20:00:00,,None
+74644,20,SavedShot,0.6890000152587891,0.7019999694824218,0.010433935560286045,Oumar Niasse,a,599,OpenPlay,2015,RightFoot,2482,Dinamo Moscow,Lokomotiv Moscow,2,2,2015-11-30 20:00:00,,Tackle
+74645,24,BlockedShot,0.7909999847412109,0.6229999923706054,0.03046099655330181,Oumar Niasse,a,599,OpenPlay,2015,RightFoot,2482,Dinamo Moscow,Lokomotiv Moscow,2,2,2015-11-30 20:00:00,Aleksandr Kolomejtsev,Pass
+74646,28,MissedShots,0.7709999847412109,0.649000015258789,0.019782472401857376,Delvin N&#039;Dinga,a,2714,OpenPlay,2015,RightFoot,2482,Dinamo Moscow,Lokomotiv Moscow,2,2,2015-11-30 20:00:00,,None
+74648,38,MissedShots,0.8109999847412109,0.4909999847412109,0.04376209154725075,Aleksandr Samedov,a,2710,OpenPlay,2015,LeftFoot,2482,Dinamo Moscow,Lokomotiv Moscow,2,2,2015-11-30 20:00:00,,None
+74649,48,Goal,0.865999984741211,0.36900001525878906,0.460996150970459,Aleksandr Samedov,a,2710,OpenPlay,2015,RightFoot,2482,Dinamo Moscow,Lokomotiv Moscow,2,2,2015-11-30 20:00:00,Oumar Niasse,Pass
+74650,60,BlockedShot,0.8819999694824219,0.715,0.06704384833574295,Alan Kasaev,a,2893,OpenPlay,2015,RightFoot,2482,Dinamo Moscow,Lokomotiv Moscow,2,2,2015-11-30 20:00:00,Aleksey Miranchuk,Pass
+74651,67,MissedShots,0.9280000305175782,0.48400001525878905,0.12617750465869904,Oumar Niasse,a,599,OpenPlay,2015,RightFoot,2482,Dinamo Moscow,Lokomotiv Moscow,2,2,2015-11-30 20:00:00,Vitaliy Denisov,Cross
+74652,69,BlockedShot,0.764000015258789,0.6990000152587891,0.0148926405236125,Oumar Niasse,a,599,OpenPlay,2015,RightFoot,2482,Dinamo Moscow,Lokomotiv Moscow,2,2,2015-11-30 20:00:00,,None
+74653,69,ShotOnPost,0.9059999847412109,0.49700000762939456,0.3040792942047119,Maicón,a,3121,OpenPlay,2015,Head,2482,Dinamo Moscow,Lokomotiv Moscow,2,2,2015-11-30 20:00:00,Renat Yanbayev,Cross
+74654,75,Goal,0.9540000152587891,0.35900001525878905,0.10032398998737335,Maicón,a,3121,OpenPlay,2015,RightFoot,2482,Dinamo Moscow,Lokomotiv Moscow,2,2,2015-11-30 20:00:00,Oumar Niasse,TakeOn

@@ -1,0 +1,31 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+46886,15,SavedShot,0.7040000152587891,0.5609999847412109,0.011349758133292198,Alessandro Diamanti,h,948,OpenPlay,2014,LeftFoot,4929,Fiorentina,Atalanta,3,2,2015-02-08 11:30:00,Nenad Tomovic,GoodSkill
+46887,17,Goal,0.89,0.5129999923706055,0.07364867627620697,José Basanta,h,3885,SetPiece,2014,Head,4929,Fiorentina,Atalanta,3,2,2015-02-08 11:30:00,Matías Fernández,Cross
+46888,29,MissedShots,0.775,0.40700000762939453,0.02907312661409378,Alessandro Diamanti,h,948,OpenPlay,2014,LeftFoot,4929,Fiorentina,Atalanta,3,2,2015-02-08 11:30:00,Borja Valero,Pass
+46890,36,SavedShot,0.8419999694824218,0.539000015258789,0.08822551369667053,Borja Valero,h,1422,OpenPlay,2014,RightFoot,4929,Fiorentina,Atalanta,3,2,2015-02-08 11:30:00,Mario Gomez,Pass
+46891,40,BlockedShot,0.73,0.5690000152587891,0.0495893731713295,Manuel Pasqual,h,1309,DirectFreekick,2014,LeftFoot,4929,Fiorentina,Atalanta,3,2,2015-02-08 11:30:00,,Standard
+46892,41,MissedShots,0.8830000305175781,0.539000015258789,0.08197161555290222,José Basanta,h,3885,FromCorner,2014,LeftFoot,4929,Fiorentina,Atalanta,3,2,2015-02-08 11:30:00,Mario Gomez,HeadPass
+46895,45,MissedShots,0.9080000305175782,0.5770000076293945,0.061223436146974564,Mario Gomez,h,3887,OpenPlay,2014,Head,4929,Fiorentina,Atalanta,3,2,2015-02-08 11:30:00,Alessandro Diamanti,Cross
+46896,48,SavedShot,0.7580000305175781,0.4179999923706055,0.024313613772392273,Alessandro Diamanti,h,948,OpenPlay,2014,LeftFoot,4929,Fiorentina,Atalanta,3,2,2015-02-08 11:30:00,Matías Fernández,Pass
+46897,49,SavedShot,0.850999984741211,0.5709999847412109,0.1006605327129364,Alessandro Diamanti,h,948,OpenPlay,2014,LeftFoot,4929,Fiorentina,Atalanta,3,2,2015-02-08 11:30:00,Borja Valero,TakeOn
+46898,51,MissedShots,0.750999984741211,0.40400001525878904,0.0188590195029974,Alessandro Diamanti,h,948,OpenPlay,2014,LeftFoot,4929,Fiorentina,Atalanta,3,2,2015-02-08 11:30:00,Nenad Tomovic,Pass
+46899,66,SavedShot,0.8490000152587891,0.285,0.02711920626461506,Alessandro Diamanti,h,948,OpenPlay,2014,LeftFoot,4929,Fiorentina,Atalanta,3,2,2015-02-08 11:30:00,Mohamed Salah,Pass
+46901,70,BlockedShot,0.9480000305175781,0.7580000305175781,0.033395085483789444,Matías Fernández,h,1622,FromCorner,2014,RightFoot,4929,Fiorentina,Atalanta,3,2,2015-02-08 11:30:00,Manuel Pasqual,Pass
+46902,75,Goal,0.9330000305175781,0.38799999237060545,0.4328160285949707,Alessandro Diamanti,h,948,OpenPlay,2014,LeftFoot,4929,Fiorentina,Atalanta,3,2,2015-02-08 11:30:00,,TakeOn
+46905,85,BlockedShot,0.764000015258789,0.61,0.020657645538449287,David Pizarro,h,3886,OpenPlay,2014,RightFoot,4929,Fiorentina,Atalanta,3,2,2015-02-08 11:30:00,,None
+46906,85,BlockedShot,0.865,0.5179999923706055,0.09476032108068466,Mario Gomez,h,3887,OpenPlay,2014,RightFoot,4929,Fiorentina,Atalanta,3,2,2015-02-08 11:30:00,Mohamed Salah,Pass
+46908,87,BlockedShot,0.8859999847412109,0.5659999847412109,0.09676001220941544,Mohamed Salah,h,1250,OpenPlay,2014,LeftFoot,4929,Fiorentina,Atalanta,3,2,2015-02-08 11:30:00,Mario Gomez,BallTouch
+46909,88,Goal,0.9719999694824218,0.500999984741211,0.6900268793106079,Manuel Pasqual,h,1309,OpenPlay,2014,LeftFoot,4929,Fiorentina,Atalanta,3,2,2015-02-08 11:30:00,Matías Fernández,Cross
+46910,93,BlockedShot,0.8180000305175781,0.4470000076293945,0.1493014246225357,Mario Gomez,h,3887,OpenPlay,2014,LeftFoot,4929,Fiorentina,Atalanta,3,2,2015-02-08 11:30:00,Mohamed Salah,TakeOn
+46881,2,MissedShots,0.905,0.355,0.015213405713438988,Maximiliano Moralez,a,2029,OpenPlay,2014,Head,4929,Fiorentina,Atalanta,3,2,2015-02-08 11:30:00,Andrea Masiello,Cross
+46882,5,BlockedShot,0.8419999694824218,0.3729999923706055,0.05679808557033539,Davide Zappacosta,a,1178,OpenPlay,2014,LeftFoot,4929,Fiorentina,Atalanta,3,2,2015-02-08 11:30:00,,BallRecovery
+46883,8,Goal,0.9769999694824218,0.43900001525878907,0.5106815099716187,Davide Zappacosta,a,1178,OpenPlay,2014,Head,4929,Fiorentina,Atalanta,3,2,2015-02-08 11:30:00,Alejandro Gomez,Cross
+46884,13,MissedShots,0.7759999847412109,0.7190000152587891,0.020820261910557747,Gianpaolo Bellini,a,1983,OpenPlay,2014,LeftFoot,4929,Fiorentina,Atalanta,3,2,2015-02-08 11:30:00,,None
+46885,13,SavedShot,0.87,0.7280000305175781,0.04416261240839958,Alejandro Gomez,a,1491,OpenPlay,2014,LeftFoot,4929,Fiorentina,Atalanta,3,2,2015-02-08 11:30:00,Maximiliano Moralez,Pass
+46889,33,MissedShots,0.7909999847412109,0.69,0.024082902818918228,Alejandro Gomez,a,1491,OpenPlay,2014,RightFoot,4929,Fiorentina,Atalanta,3,2,2015-02-08 11:30:00,Maximiliano Moralez,Pass
+46893,42,SavedShot,0.855999984741211,0.28100000381469725,0.05963962897658348,Davide Zappacosta,a,1178,OpenPlay,2014,RightFoot,4929,Fiorentina,Atalanta,3,2,2015-02-08 11:30:00,Germán Denis,Pass
+46894,44,MissedShots,0.955999984741211,0.3940000152587891,0.044615719467401505,Maximiliano Moralez,a,2029,FromCorner,2014,Head,4929,Fiorentina,Atalanta,3,2,2015-02-08 11:30:00,Alejandro Gomez,Cross
+46900,67,MissedShots,0.9690000152587891,0.38599998474121094,0.026139693334698677,Maximiliano Moralez,a,2029,FromCorner,2014,Head,4929,Fiorentina,Atalanta,3,2,2015-02-08 11:30:00,Alejandro Gomez,Cross
+46903,77,BlockedShot,0.855,0.705999984741211,0.03735555708408356,Maximiliano Moralez,a,2029,OpenPlay,2014,RightFoot,4929,Fiorentina,Atalanta,3,2,2015-02-08 11:30:00,Davide Zappacosta,Pass
+46904,82,Goal,0.97,0.5420000076293945,0.6107161641120911,Richmond Boakye,a,3928,OpenPlay,2014,LeftFoot,4929,Fiorentina,Atalanta,3,2,2015-02-08 11:30:00,Davide Zappacosta,Cross
+46907,86,MissedShots,0.9130000305175782,0.5770000076293945,0.07782445102930069,Mauricio Pinilla,a,1494,OpenPlay,2014,Head,4929,Fiorentina,Atalanta,3,2,2015-02-08 11:30:00,Andrea Masiello,Cross

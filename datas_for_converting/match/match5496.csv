@@ -1,0 +1,28 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+36893,4,Goal,0.9359999847412109,0.524000015258789,0.4360007345676422,Lionel Messi,h,2097,OpenPlay,2014,Head,5496,Barcelona,Deportivo La Coruna,2,2,2015-05-23 17:30:00,Rafinha,Chipped
+36894,14,SavedShot,0.865999984741211,0.515,0.035014767199754715,Lionel Messi,h,2097,OpenPlay,2014,Head,5496,Barcelona,Deportivo La Coruna,2,2,2015-05-23 17:30:00,,None
+36895,16,SavedShot,0.795,0.46,0.0535583421587944,Lionel Messi,h,2097,OpenPlay,2014,LeftFoot,5496,Barcelona,Deportivo La Coruna,2,2,2015-05-23 17:30:00,Neymar,Pass
+36896,16,SavedShot,0.935,0.5320000076293945,0.5878289937973022,Pedro,h,687,OpenPlay,2014,LeftFoot,5496,Barcelona,Deportivo La Coruna,2,2,2015-05-23 17:30:00,,Rebound
+36897,16,MissedShots,0.8059999847412109,0.44400001525878907,0.03503839299082756,Lionel Messi,h,2097,FromCorner,2014,LeftFoot,5496,Barcelona,Deportivo La Coruna,2,2,2015-05-23 17:30:00,,None
+36899,23,SavedShot,0.9159999847412109,0.6790000152587891,0.07451346516609192,Neymar,h,2099,OpenPlay,2014,LeftFoot,5496,Barcelona,Deportivo La Coruna,2,2,2015-05-23 17:30:00,Lionel Messi,Chipped
+36900,25,MissedShots,0.705,0.29100000381469726,0.01698259823024273,Marc Bartra,h,2453,OpenPlay,2014,RightFoot,5496,Barcelona,Deportivo La Coruna,2,2,2015-05-23 17:30:00,Xavi,Pass
+36901,34,MissedShots,0.86,0.7090000152587891,0.054747000336647034,Jeremy Mathieu,h,2101,OpenPlay,2014,LeftFoot,5496,Barcelona,Deportivo La Coruna,2,2,2015-05-23 17:30:00,,None
+36902,34,BlockedShot,0.8159999847412109,0.6780000305175782,0.04684768617153168,Rafinha,h,2100,OpenPlay,2014,LeftFoot,5496,Barcelona,Deportivo La Coruna,2,2,2015-05-23 17:30:00,,None
+36903,34,MissedShots,0.74,0.700999984741211,0.01431274227797985,Thomas Vermaelen,h,1635,OpenPlay,2014,LeftFoot,5496,Barcelona,Deportivo La Coruna,2,2,2015-05-23 17:30:00,,Rebound
+36904,42,BlockedShot,0.7980000305175782,0.42,0.050763893872499466,Xavi,h,4093,OpenPlay,2014,RightFoot,5496,Barcelona,Deportivo La Coruna,2,2,2015-05-23 17:30:00,Neymar,Pass
+36905,43,MissedShots,0.9169999694824219,0.445,0.08457382023334503,Marc Bartra,h,2453,FromCorner,2014,Head,5496,Barcelona,Deportivo La Coruna,2,2,2015-05-23 17:30:00,Xavi,Cross
+36907,58,MissedShots,0.745999984741211,0.49400001525878906,0.07039222866296768,Xavi,h,4093,DirectFreekick,2014,RightFoot,5496,Barcelona,Deportivo La Coruna,2,2,2015-05-23 17:30:00,,Standard
+36908,58,Goal,0.9209999847412109,0.425,0.4858507513999939,Lionel Messi,h,2097,OpenPlay,2014,RightFoot,5496,Barcelona,Deportivo La Coruna,2,2,2015-05-23 17:30:00,Neymar,Pass
+36913,72,SavedShot,0.8530000305175781,0.725,0.31533652544021606,Xavi,h,4093,OpenPlay,2014,RightFoot,5496,Barcelona,Deportivo La Coruna,2,2,2015-05-23 17:30:00,,Dispossessed
+36918,87,MissedShots,0.7730000305175782,0.7040000152587891,0.017293740063905716,Neymar,h,2099,OpenPlay,2014,RightFoot,5496,Barcelona,Deportivo La Coruna,2,2,2015-05-23 17:30:00,Adriano,Pass
+36919,94,MissedShots,0.889000015258789,0.634000015258789,0.09038857370615005,Adriano,h,2454,OpenPlay,2014,RightFoot,5496,Barcelona,Deportivo La Coruna,2,2,2015-05-23 17:30:00,Pedro,Pass
+36898,20,BlockedShot,0.889000015258789,0.3089999961853027,0.05379954352974892,Lucas Pérez,a,1700,OpenPlay,2014,LeftFoot,5496,Barcelona,Deportivo La Coruna,2,2,2015-05-23 17:30:00,Álex Bergantiños,Pass
+36906,46,MissedShots,0.9180000305175782,0.4640000152587891,0.0937490165233612,Ivan Cavaleiro,a,3683,OpenPlay,2014,LeftFoot,5496,Barcelona,Deportivo La Coruna,2,2,2015-05-23 17:30:00,Lucas Pérez,Cross
+36909,63,BlockedShot,0.795,0.2879999923706055,0.02010774426162243,Lucas Pérez,a,1700,OpenPlay,2014,LeftFoot,5496,Barcelona,Deportivo La Coruna,2,2,2015-05-23 17:30:00,Ivan Cavaleiro,Pass
+36910,63,MissedShots,0.7959999847412109,0.28100000381469725,0.013221926987171173,Celso Borges,a,2466,OpenPlay,2014,RightFoot,5496,Barcelona,Deportivo La Coruna,2,2,2015-05-23 17:30:00,Lucas Pérez,HeadPass
+36911,66,Goal,0.8469999694824218,0.46599998474121096,0.05961843207478523,Lucas Pérez,a,1700,OpenPlay,2014,LeftFoot,5496,Barcelona,Deportivo La Coruna,2,2,2015-05-23 17:30:00,,None
+36912,69,ShotOnPost,0.8819999694824219,0.19299999237060547,0.06900009512901306,Haris Medunjanin,a,2590,DirectFreekick,2014,LeftFoot,5496,Barcelona,Deportivo La Coruna,2,2,2015-05-23 17:30:00,,Standard
+36914,74,BlockedShot,0.765,0.4620000076293945,0.024824878200888634,Oriol Riera,a,2323,OpenPlay,2014,RightFoot,5496,Barcelona,Deportivo La Coruna,2,2,2015-05-23 17:30:00,Celso Borges,Pass
+36915,75,BlockedShot,0.81,0.46700000762939453,0.14993509650230408,Haris Medunjanin,a,2590,DirectFreekick,2014,LeftFoot,5496,Barcelona,Deportivo La Coruna,2,2,2015-05-23 17:30:00,,Standard
+36916,75,BlockedShot,0.85,0.49,0.07347042113542557,Haris Medunjanin,a,2590,SetPiece,2014,LeftFoot,5496,Barcelona,Deportivo La Coruna,2,2,2015-05-23 17:30:00,,Rebound
+36917,75,Goal,0.850999984741211,0.51,0.07449048012495041,Diogo Salomão,a,4145,SetPiece,2014,LeftFoot,5496,Barcelona,Deportivo La Coruna,2,2,2015-05-23 17:30:00,,Rebound

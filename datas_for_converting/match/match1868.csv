@@ -1,0 +1,35 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+137553,6,Goal,0.9059999847412109,0.45799999237060546,0.4684861898422241,Karim Benzema,h,2370,OpenPlay,2016,RightFoot,1868,Real Madrid,Athletic Club,2,1,2016-10-23 22:45:00,Isco,Pass
+137554,7,SavedShot,0.7390000152587891,0.59,0.026112670078873634,Toni Kroos,h,2369,OpenPlay,2016,RightFoot,1868,Real Madrid,Athletic Club,2,1,2016-10-23 22:45:00,,Dispossessed
+137555,9,MissedShots,0.7340000152587891,0.6079999923706054,0.023489680141210556,Cristiano Ronaldo,h,2371,OpenPlay,2016,RightFoot,1868,Real Madrid,Athletic Club,2,1,2016-10-23 22:45:00,Toni Kroos,BallRecovery
+137556,15,MissedShots,0.9019999694824219,0.41700000762939454,0.07182527333498001,Gareth Bale,h,2251,OpenPlay,2016,Head,1868,Real Madrid,Athletic Club,2,1,2016-10-23 22:45:00,Marcelo,Cross
+137558,17,MissedShots,0.9469999694824218,0.6680000305175782,0.0726998895406723,Cristiano Ronaldo,h,2371,OpenPlay,2016,RightFoot,1868,Real Madrid,Athletic Club,2,1,2016-10-23 22:45:00,Isco,Chipped
+137561,31,BlockedShot,0.8180000305175781,0.83,0.045539744198322296,Cristiano Ronaldo,h,2371,DirectFreekick,2016,RightFoot,1868,Real Madrid,Athletic Club,2,1,2016-10-23 22:45:00,,Standard
+137562,33,MissedShots,0.87,0.415,0.028065329417586327,Gareth Bale,h,2251,OpenPlay,2016,Head,1868,Real Madrid,Athletic Club,2,1,2016-10-23 22:45:00,Daniel Carvajal,Cross
+137565,40,SavedShot,0.855,0.265,0.03002874366939068,Daniel Carvajal,h,2260,OpenPlay,2016,RightFoot,1868,Real Madrid,Athletic Club,2,1,2016-10-23 22:45:00,Karim Benzema,Pass
+137566,42,BlockedShot,0.9719999694824218,0.49700000762939456,0.1676367074251175,Cristiano Ronaldo,h,2371,OpenPlay,2016,RightFoot,1868,Real Madrid,Athletic Club,2,1,2016-10-23 22:45:00,Gareth Bale,Pass
+137567,44,SavedShot,0.97,0.415,0.32611656188964844,Cristiano Ronaldo,h,2371,OpenPlay,2016,RightFoot,1868,Real Madrid,Athletic Club,2,1,2016-10-23 22:45:00,Toni Kroos,BallRecovery
+137569,55,BlockedShot,0.750999984741211,0.5829999923706055,0.010886783711612225,Toni Kroos,h,2369,OpenPlay,2016,LeftFoot,1868,Real Madrid,Athletic Club,2,1,2016-10-23 22:45:00,Marcelo,Chipped
+137571,59,SavedShot,0.92,0.5479999923706055,0.12804178893566132,Karim Benzema,h,2370,OpenPlay,2016,Head,1868,Real Madrid,Athletic Club,2,1,2016-10-23 22:45:00,Isco,Cross
+137572,63,MissedShots,0.7319999694824219,0.5479999923706055,0.02212679758667946,Cristiano Ronaldo,h,2371,OpenPlay,2016,LeftFoot,1868,Real Madrid,Athletic Club,2,1,2016-10-23 22:45:00,Toni Kroos,Pass
+137573,64,MissedShots,0.91,0.534000015258789,0.09273282438516617,Cristiano Ronaldo,h,2371,OpenPlay,2016,RightFoot,1868,Real Madrid,Athletic Club,2,1,2016-10-23 22:45:00,Gareth Bale,Cross
+137574,66,MissedShots,0.9080000305175782,0.545,0.0718473568558693,Cristiano Ronaldo,h,2371,SetPiece,2016,Head,1868,Real Madrid,Athletic Club,2,1,2016-10-23 22:45:00,Toni Kroos,Chipped
+137575,69,MissedShots,0.78,0.47,0.03508122265338898,Cristiano Ronaldo,h,2371,OpenPlay,2016,RightFoot,1868,Real Madrid,Athletic Club,2,1,2016-10-23 22:45:00,Karim Benzema,Pass
+137576,71,BlockedShot,0.8430000305175781,0.43099998474121093,0.024197690188884735,Mateo Kovacic,h,2254,OpenPlay,2016,Head,1868,Real Madrid,Athletic Club,2,1,2016-10-23 22:45:00,Lucas Vázquez,Chipped
+137577,71,MissedShots,0.9230000305175782,0.495,0.11105576157569885,Cristiano Ronaldo,h,2371,OpenPlay,2016,RightFoot,1868,Real Madrid,Athletic Club,2,1,2016-10-23 22:45:00,Mateo Kovacic,Foul
+137578,76,MissedShots,0.9,0.6409999847412109,0.2790893018245697,Gareth Bale,h,2251,OpenPlay,2016,LeftFoot,1868,Real Madrid,Athletic Club,2,1,2016-10-23 22:45:00,Toni Kroos,Chipped
+137579,79,MissedShots,0.9069999694824219,0.5359999847412109,0.12487654387950897,Álvaro Morata,h,1804,OpenPlay,2016,RightFoot,1868,Real Madrid,Athletic Club,2,1,2016-10-23 22:45:00,Lucas Vázquez,Pass
+137580,80,MissedShots,0.730999984741211,0.5979999923706054,0.012866772711277008,Mateo Kovacic,h,2254,OpenPlay,2016,RightFoot,1868,Real Madrid,Athletic Club,2,1,2016-10-23 22:45:00,,None
+137581,82,SavedShot,0.9130000305175782,0.524000015258789,0.3747657835483551,Álvaro Morata,h,1804,OpenPlay,2016,RightFoot,1868,Real Madrid,Athletic Club,2,1,2016-10-23 22:45:00,Gareth Bale,Cross
+137582,82,Goal,0.98,0.53,0.8986583352088928,Álvaro Morata,h,1804,OpenPlay,2016,RightFoot,1868,Real Madrid,Athletic Club,2,1,2016-10-23 22:45:00,,Rebound
+137584,93,SavedShot,0.86,0.445,0.41689711809158325,Cristiano Ronaldo,h,2371,OpenPlay,2016,RightFoot,1868,Real Madrid,Athletic Club,2,1,2016-10-23 22:45:00,Lucas Vázquez,Pass
+137551,1,MissedShots,0.735999984741211,0.45799999237060546,0.016221322119235992,Mikel Rico,a,2406,FromCorner,2016,LeftFoot,1868,Real Madrid,Athletic Club,2,1,2016-10-23 22:45:00,,None
+137552,4,SavedShot,0.8009999847412109,0.30700000762939456,0.024630190804600716,Iñaki Williams,a,2399,OpenPlay,2016,RightFoot,1868,Real Madrid,Athletic Club,2,1,2016-10-23 22:45:00,Eraso,Pass
+137557,16,MissedShots,0.9169999694824219,0.5629999923706055,0.0841551274061203,Sabin,a,2499,OpenPlay,2016,Head,1868,Real Madrid,Athletic Club,2,1,2016-10-23 22:45:00,Íñigo Lekue,Cross
+137559,22,MissedShots,0.8730000305175781,0.285,0.03984919190406799,Eraso,a,2409,OpenPlay,2016,LeftFoot,1868,Real Madrid,Athletic Club,2,1,2016-10-23 22:45:00,Íñigo Lekue,Pass
+137560,26,Goal,0.9130000305175782,0.4620000076293945,0.5002247095108032,Sabin,a,2499,OpenPlay,2016,RightFoot,1868,Real Madrid,Athletic Club,2,1,2016-10-23 22:45:00,Eraso,Pass
+137563,34,BlockedShot,0.799000015258789,0.54,0.018054844811558723,Iñaki Williams,a,2399,OpenPlay,2016,RightFoot,1868,Real Madrid,Athletic Club,2,1,2016-10-23 22:45:00,,Aerial
+137564,38,MissedShots,0.7959999847412109,0.710999984741211,0.023434782400727272,Sabin,a,2499,OpenPlay,2016,RightFoot,1868,Real Madrid,Athletic Club,2,1,2016-10-23 22:45:00,Eraso,Pass
+137568,51,MissedShots,0.84,0.46599998474121096,0.3356853425502777,Iñaki Williams,a,2399,OpenPlay,2016,RightFoot,1868,Real Madrid,Athletic Club,2,1,2016-10-23 22:45:00,Mikel Rico,Throughball
+137570,56,MissedShots,0.8109999847412109,0.5609999847412109,0.03708910942077637,Mikel Rico,a,2406,FromCorner,2016,RightFoot,1868,Real Madrid,Athletic Club,2,1,2016-10-23 22:45:00,,None
+137583,84,SavedShot,0.9440000152587891,0.31,0.3014904260635376,Iñaki Williams,a,2399,OpenPlay,2016,RightFoot,1868,Real Madrid,Athletic Club,2,1,2016-10-23 22:45:00,,None

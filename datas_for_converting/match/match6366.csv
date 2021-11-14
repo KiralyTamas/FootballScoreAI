@@ -1,0 +1,23 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+11033,7,Goal,0.92,0.6769999694824219,0.07879184186458588,Sergey Kuznetsov,h,4567,OpenPlay,2014,RightFoot,6366,Arsenal Tula,Amkar,4,0,2014-11-23 13:00:00,Arthur Maloyan,Pass
+11034,14,MissedShots,0.870999984741211,0.6909999847412109,0.04112069308757782,Lukás Tesák,h,4597,OpenPlay,2014,LeftFoot,6366,Arsenal Tula,Amkar,4,0,2014-11-23 13:00:00,Sergei Maslov,Chipped
+11037,34,BlockedShot,0.8680000305175781,0.3120000076293945,0.05987376719713211,Aleksandr Kutjin,h,4577,OpenPlay,2014,LeftFoot,6366,Arsenal Tula,Amkar,4,0,2014-11-23 13:00:00,Sergey Kuznetsov,Pass
+11038,41,MissedShots,0.7809999847412109,0.3529999923706055,0.03326261416077614,Aleksandr Kutjin,h,4577,OpenPlay,2014,RightFoot,6366,Arsenal Tula,Amkar,4,0,2014-11-23 13:00:00,,None
+11039,49,MissedShots,0.6819999694824219,0.37,0.028765114024281502,Evgeny Osipov,h,3115,DirectFreekick,2014,RightFoot,6366,Arsenal Tula,Amkar,4,0,2014-11-23 13:00:00,,Standard
+11040,51,Goal,0.895,0.4640000152587891,0.052688077092170715,Evgeny Osipov,h,3115,SetPiece,2014,Head,6366,Arsenal Tula,Amkar,4,0,2014-11-23 13:00:00,Lukás Tesák,Chipped
+11041,55,Goal,0.8630000305175781,0.585999984741211,0.298401802778244,Aleksandr Kutjin,h,4577,OpenPlay,2014,RightFoot,6366,Arsenal Tula,Amkar,4,0,2014-11-23 13:00:00,Sergei Sukharev,Chipped
+11042,59,MissedShots,0.9069999694824219,0.46799999237060547,0.34415096044540405,Sergey Kuznetsov,h,4567,OpenPlay,2014,Head,6366,Arsenal Tula,Amkar,4,0,2014-11-23 13:00:00,Aleksandr Kutjin,Pass
+11043,60,MissedShots,0.8069999694824219,0.3920000076293945,0.060556862503290176,Mladen Kascelan,h,4564,OpenPlay,2014,RightFoot,6366,Arsenal Tula,Amkar,4,0,2014-11-23 13:00:00,Aleksandr Kutjin,Pass
+11044,66,Goal,0.874000015258789,0.2989999961853027,0.04922178015112877,Sergey Kuznetsov,h,4567,OpenPlay,2014,RightFoot,6366,Arsenal Tula,Amkar,4,0,2014-11-23 13:00:00,Aleksandr Kutjin,Pass
+11046,73,BlockedShot,0.8030000305175782,0.509000015258789,0.03834805637598038,Aleksandr Makarenko,h,4574,SetPiece,2014,LeftFoot,6366,Arsenal Tula,Amkar,4,0,2014-11-23 13:00:00,,None
+11049,79,MissedShots,0.955999984741211,0.48,0.6247901320457458,Sergey Kuznetsov,h,4567,OpenPlay,2014,RightFoot,6366,Arsenal Tula,Amkar,4,0,2014-11-23 13:00:00,Aleksandr Kutjin,Cross
+11051,87,SavedShot,0.7069999694824218,0.605999984741211,0.035433586686849594,Evgeny Osipov,h,3115,DirectFreekick,2014,LeftFoot,6366,Arsenal Tula,Amkar,4,0,2014-11-23 13:00:00,,Standard
+11054,90,MissedShots,0.8590000152587891,0.735,0.061020735651254654,Vladislav Ryzhkov,h,4572,OpenPlay,2014,RightFoot,6366,Arsenal Tula,Amkar,4,0,2014-11-23 13:00:00,Sergei Sukharev,Chipped
+11035,15,MissedShots,0.8269999694824218,0.8590000152587891,0.01463245041668415,Petar Zanev,a,2873,OpenPlay,2014,RightFoot,6366,Arsenal Tula,Amkar,4,0,2014-11-23 13:00:00,David Dzakhov,Pass
+11036,23,MissedShots,0.905,0.355,0.058732785284519196,Aleksandr Kolomejtsev,a,2892,OpenPlay,2014,RightFoot,6366,Arsenal Tula,Amkar,4,0,2014-11-23 13:00:00,Sergei Balanovich,Cross
+11045,68,MissedShots,0.905,0.515,0.07843569666147232,Sergei Balanovich,a,2840,OpenPlay,2014,Head,6366,Arsenal Tula,Amkar,4,0,2014-11-23 13:00:00,Petar Zanev,Cross
+11047,76,MissedShots,0.7580000305175781,0.6070000076293945,0.019955705851316452,Aleksandr Kolomejtsev,a,2892,OpenPlay,2014,LeftFoot,6366,Arsenal Tula,Amkar,4,0,2014-11-23 13:00:00,Alexey Nikitin,Pass
+11048,78,MissedShots,0.7919999694824219,0.6990000152587891,0.01824682205915451,Branko Jovicic,a,3082,OpenPlay,2014,RightFoot,6366,Arsenal Tula,Amkar,4,0,2014-11-23 13:00:00,,BallTouch
+11050,85,SavedShot,0.895,0.745999984741211,0.03934535011649132,Petar Zanev,a,2873,OpenPlay,2014,LeftFoot,6366,Arsenal Tula,Amkar,4,0,2014-11-23 13:00:00,Sergei Balanovich,Pass
+11052,88,ShotOnPost,0.9119999694824219,0.5279999923706055,0.08830390870571136,Sergei Balanovich,a,2840,OpenPlay,2014,RightFoot,6366,Arsenal Tula,Amkar,4,0,2014-11-23 13:00:00,,None
+11053,89,SavedShot,0.7290000152587891,0.26299999237060545,0.03152305632829666,Soslan Takasov,a,4614,DirectFreekick,2014,RightFoot,6366,Arsenal Tula,Amkar,4,0,2014-11-23 13:00:00,,Standard

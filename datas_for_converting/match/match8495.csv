@@ -1,0 +1,29 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+201332,5,Goal,0.9119999694824219,0.664000015258789,0.052297405898571014,Kevin-Prince Boateng,h,1819,FromCorner,2017,LeftFoot,8495,Eintracht Frankfurt,Mainz 05,3,0,2018-03-17 14:30:00,,None
+201333,12,BlockedShot,0.76,0.29700000762939455,0.04995877668261528,Jetro Willems,h,6143,DirectFreekick,2017,LeftFoot,8495,Eintracht Frankfurt,Mainz 05,3,0,2018-03-17 14:30:00,,Standard
+201334,12,BlockedShot,0.8109999847412109,0.4470000076293945,0.034486543387174606,Jetro Willems,h,6143,SetPiece,2017,LeftFoot,8495,Eintracht Frankfurt,Mainz 05,3,0,2018-03-17 14:30:00,,Rebound
+201336,19,MissedShots,0.7830000305175782,0.29399999618530276,0.023876089602708817,Marius Wolf,h,2693,OpenPlay,2017,RightFoot,8495,Eintracht Frankfurt,Mainz 05,3,0,2018-03-17 14:30:00,Luka Jovic,BallRecovery
+201337,22,Goal,0.9590000152587891,0.5359999847412109,0.656157374382019,Luka Jovic,h,6228,OpenPlay,2017,RightFoot,8495,Eintracht Frankfurt,Mainz 05,3,0,2018-03-17 14:30:00,Ante Rebic,Pass
+201343,39,MissedShots,0.9280000305175782,0.46099998474121096,0.1286112517118454,Kevin-Prince Boateng,h,1819,OpenPlay,2017,RightFoot,8495,Eintracht Frankfurt,Mainz 05,3,0,2018-03-17 14:30:00,Danny da Costa,Pass
+201344,40,Goal,0.7859999847412109,0.575,0.05010529235005379,Ante Rebic,h,1852,OpenPlay,2017,RightFoot,8495,Eintracht Frankfurt,Mainz 05,3,0,2018-03-17 14:30:00,Marius Wolf,Pass
+201345,50,BlockedShot,0.8340000152587891,0.64,0.09149681776762009,Luka Jovic,h,6228,OpenPlay,2017,LeftFoot,8495,Eintracht Frankfurt,Mainz 05,3,0,2018-03-17 14:30:00,Simon Falette,Chipped
+201346,52,SavedShot,0.9130000305175782,0.585,0.13950607180595398,Luka Jovic,h,6228,OpenPlay,2017,RightFoot,8495,Eintracht Frankfurt,Mainz 05,3,0,2018-03-17 14:30:00,,TakeOn
+201348,58,SavedShot,0.884000015258789,0.509000015258789,0.12698183953762054,Luka Jovic,h,6228,OpenPlay,2017,LeftFoot,8495,Eintracht Frankfurt,Mainz 05,3,0,2018-03-17 14:30:00,Ante Rebic,LayOff
+201349,60,MissedShots,0.915,0.475,0.4706012010574341,Luka Jovic,h,6228,OpenPlay,2017,RightFoot,8495,Eintracht Frankfurt,Mainz 05,3,0,2018-03-17 14:30:00,Marius Wolf,Cross
+201350,61,BlockedShot,0.8830000305175781,0.649000015258789,0.0655410960316658,Luka Jovic,h,6228,OpenPlay,2017,LeftFoot,8495,Eintracht Frankfurt,Mainz 05,3,0,2018-03-17 14:30:00,Danny da Costa,Cross
+201352,67,ShotOnPost,0.8619999694824219,0.485,0.12294651567935944,Luka Jovic,h,6228,OpenPlay,2017,RightFoot,8495,Eintracht Frankfurt,Mainz 05,3,0,2018-03-17 14:30:00,Danny da Costa,Pass
+201353,68,SavedShot,0.8769999694824219,0.66,0.08737077564001083,Jetro Willems,h,6143,OpenPlay,2017,LeftFoot,8495,Eintracht Frankfurt,Mainz 05,3,0,2018-03-17 14:30:00,Marius Wolf,Pass
+201355,84,MissedShots,0.6630000305175782,0.7469999694824219,0.016971200704574585,Mijat Gacinovic,h,290,OpenPlay,2017,LeftFoot,8495,Eintracht Frankfurt,Mainz 05,3,0,2018-03-17 14:30:00,Luka Jovic,Pass
+201330,2,BlockedShot,0.7880000305175782,0.524000015258789,0.06437701731920242,Anthony Ujah,a,119,OpenPlay,2017,RightFoot,8495,Eintracht Frankfurt,Mainz 05,3,0,2018-03-17 14:30:00,Alexandru Maxim,LayOff
+201331,2,MissedShots,0.7930000305175782,0.5,0.032873764634132385,Anthony Ujah,a,119,OpenPlay,2017,LeftFoot,8495,Eintracht Frankfurt,Mainz 05,3,0,2018-03-17 14:30:00,,Rebound
+201335,17,MissedShots,0.7240000152587891,0.5129999923706055,0.01473546028137207,Daniel Brosinski,a,38,FromCorner,2017,RightFoot,8495,Eintracht Frankfurt,Mainz 05,3,0,2018-03-17 14:30:00,,None
+201338,27,BlockedShot,0.8109999847412109,0.3629999923706055,0.026736821979284286,Robin Quaison,a,1275,OpenPlay,2017,RightFoot,8495,Eintracht Frankfurt,Mainz 05,3,0,2018-03-17 14:30:00,,None
+201339,30,MissedShots,0.710999984741211,0.5520000076293945,0.04416561499238014,Daniel Brosinski,a,38,DirectFreekick,2017,RightFoot,8495,Eintracht Frankfurt,Mainz 05,3,0,2018-03-17 14:30:00,,Standard
+201340,34,BlockedShot,0.8809999847412109,0.634000015258789,0.03208821639418602,Robin Quaison,a,1275,OpenPlay,2017,RightFoot,8495,Eintracht Frankfurt,Mainz 05,3,0,2018-03-17 14:30:00,,Aerial
+201341,35,SavedShot,0.9390000152587891,0.49599998474121093,0.07383476197719574,Anthony Ujah,a,119,FromCorner,2017,Head,8495,Eintracht Frankfurt,Mainz 05,3,0,2018-03-17 14:30:00,Alexandru Maxim,Aerial
+201342,38,MissedShots,0.7569999694824219,0.4179999923706055,0.02219260483980179,Alexandru Maxim,a,63,OpenPlay,2017,LeftFoot,8495,Eintracht Frankfurt,Mainz 05,3,0,2018-03-17 14:30:00,Daniel Brosinski,Pass
+201347,52,MissedShots,0.8859999847412109,0.54,0.06540025025606155,Anthony Ujah,a,119,OpenPlay,2017,Head,8495,Eintracht Frankfurt,Mainz 05,3,0,2018-03-17 14:30:00,Abdou Diallo,Cross
+201351,65,BlockedShot,0.87,0.3890000152587891,0.0754345953464508,Levin Öztunali,a,118,OpenPlay,2017,LeftFoot,8495,Eintracht Frankfurt,Mainz 05,3,0,2018-03-17 14:30:00,Daniel Brosinski,Pass
+201354,81,MissedShots,0.720999984741211,0.6419999694824219,0.013753775507211685,Karim Onisiwo,a,2631,OpenPlay,2017,RightFoot,8495,Eintracht Frankfurt,Mainz 05,3,0,2018-03-17 14:30:00,Yoshinori Muto,Pass
+201356,85,MissedShots,0.7080000305175781,0.4779999923706055,0.012683196924626827,Suat Serdar,a,307,OpenPlay,2017,RightFoot,8495,Eintracht Frankfurt,Mainz 05,3,0,2018-03-17 14:30:00,Danny Latza,Pass
+201357,86,MissedShots,0.9419999694824219,0.30100000381469727,0.05100466310977936,Suat Serdar,a,307,OpenPlay,2017,RightFoot,8495,Eintracht Frankfurt,Mainz 05,3,0,2018-03-17 14:30:00,Levin Öztunali,Pass

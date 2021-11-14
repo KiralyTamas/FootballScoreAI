@@ -1,0 +1,23 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+275841,5,MissedShots,0.9,0.3840000152587891,0.06918348371982574,Henrikh Mkhitaryan,h,317,OpenPlay,2018,LeftFoot,9466,Arsenal,Southampton,2,0,2019-02-24 14:05:00,Alex Iwobi,Cross
+275842,5,Goal,0.9530000305175781,0.505,0.6298804879188538,Alexandre Lacazette,h,3277,OpenPlay,2018,RightFoot,9466,Arsenal,Southampton,2,0,2019-02-24 14:05:00,Henrikh Mkhitaryan,None
+275843,9,MissedShots,0.730999984741211,0.6619999694824219,0.01594064198434353,Granit Xhaka,h,204,OpenPlay,2018,LeftFoot,9466,Arsenal,Southampton,2,0,2019-02-24 14:05:00,Alex Iwobi,Pass
+275844,12,MissedShots,0.909000015258789,0.544000015258789,0.06887055933475494,Sokratis,h,371,FromCorner,2018,Head,9466,Arsenal,Southampton,2,0,2019-02-24 14:05:00,Lucas Torreira,Cross
+275847,16,Goal,0.88,0.41900001525878905,0.37394750118255615,Henrikh Mkhitaryan,h,317,OpenPlay,2018,RightFoot,9466,Arsenal,Southampton,2,0,2019-02-24 14:05:00,,None
+275848,18,BlockedShot,0.8930000305175781,0.705,0.0638144463300705,Sead Kolasinac,h,342,OpenPlay,2018,LeftFoot,9466,Arsenal,Southampton,2,0,2019-02-24 14:05:00,Alex Iwobi,Pass
+275849,25,BlockedShot,0.9130000305175782,0.6090000152587891,0.18587735295295715,Alexandre Lacazette,h,3277,OpenPlay,2018,RightFoot,9466,Arsenal,Southampton,2,0,2019-02-24 14:05:00,Granit Xhaka,TakeOn
+275850,37,BlockedShot,0.775,0.5029999923706054,0.03226567432284355,Alex Iwobi,h,500,OpenPlay,2018,RightFoot,9466,Arsenal,Southampton,2,0,2019-02-24 14:05:00,,None
+275851,37,SavedShot,0.9290000152587891,0.41900001525878905,0.02269827388226986,Alexandre Lacazette,h,3277,FromCorner,2018,Head,9466,Arsenal,Southampton,2,0,2019-02-24 14:05:00,Granit Xhaka,Aerial
+275852,39,MissedShots,0.93,0.47200000762939454,0.6357208490371704,Alexandre Lacazette,h,3277,OpenPlay,2018,LeftFoot,9466,Arsenal,Southampton,2,0,2019-02-24 14:05:00,Sead Kolasinac,Pass
+275853,41,SavedShot,0.8590000152587891,0.505,0.11971571296453476,Alexandre Lacazette,h,3277,OpenPlay,2018,LeftFoot,9466,Arsenal,Southampton,2,0,2019-02-24 14:05:00,Sead Kolasinac,Pass
+275859,86,BlockedShot,0.8780000305175781,0.47,0.1329614520072937,Pierre-Emerick Aubameyang,h,318,OpenPlay,2018,RightFoot,9466,Arsenal,Southampton,2,0,2019-02-24 14:05:00,Mesut Özil,TakeOn
+275840,5,SavedShot,0.9380000305175781,0.38599998474121094,0.2939092516899109,Nathan Redmond,a,790,OpenPlay,2018,LeftFoot,9466,Arsenal,Southampton,2,0,2019-02-24 14:05:00,Jan Bednarek,Chipped
+275845,13,BlockedShot,0.9459999847412109,0.48700000762939455,0.0890902429819107,Stuart Armstrong,a,6893,OpenPlay,2018,Head,9466,Arsenal,Southampton,2,0,2019-02-24 14:05:00,Nathan Redmond,HeadPass
+275846,13,SavedShot,0.895,0.7090000152587891,0.04858744516968727,Matt Targett,a,884,OpenPlay,2018,LeftFoot,9466,Arsenal,Southampton,2,0,2019-02-24 14:05:00,Stuart Armstrong,Pass
+275854,51,MissedShots,0.815,0.5359999847412109,0.051316529512405396,James Ward-Prowse,a,843,OpenPlay,2018,RightFoot,9466,Arsenal,Southampton,2,0,2019-02-24 14:05:00,,BallRecovery
+275855,71,MissedShots,0.745999984741211,0.38599998474121094,0.009776285849511623,Pierre-Emile Højbjerg,a,343,SetPiece,2018,RightFoot,9466,Arsenal,Southampton,2,0,2019-02-24 14:05:00,,Aerial
+275856,71,BlockedShot,0.865999984741211,0.5070000076293946,0.020583249628543854,Jannik Vestergaard,a,111,SetPiece,2018,Head,9466,Arsenal,Southampton,2,0,2019-02-24 14:05:00,Pierre-Emile Højbjerg,None
+275857,71,SavedShot,0.8830000305175781,0.5459999847412109,0.015127941034734249,Charlie Austin,a,848,FromCorner,2018,Head,9466,Arsenal,Southampton,2,0,2019-02-24 14:05:00,Nathan Redmond,Aerial
+275858,75,BlockedShot,0.8969999694824219,0.40200000762939453,0.05145381763577461,James Ward-Prowse,a,843,OpenPlay,2018,RightFoot,9466,Arsenal,Southampton,2,0,2019-02-24 14:05:00,Pierre-Emile Højbjerg,Cross
+275860,88,SavedShot,0.7830000305175782,0.615,0.014982867054641247,Matt Targett,a,884,FromCorner,2018,LeftFoot,9466,Arsenal,Southampton,2,0,2019-02-24 14:05:00,,Aerial
+275861,92,MissedShots,0.7759999847412109,0.3240000152587891,0.01833973452448845,Mohamed Elyounoussi,a,6894,OpenPlay,2018,RightFoot,9466,Arsenal,Southampton,2,0,2019-02-24 14:05:00,Pierre-Emile Højbjerg,Pass

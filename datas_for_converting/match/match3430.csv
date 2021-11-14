@@ -1,0 +1,23 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+119054,20,SavedShot,0.9159999847412109,0.5829999923706055,0.09579320251941681,Mesut Özil,h,499,OpenPlay,2016,RightFoot,3430,Arsenal,Manchester City,2,2,2017-04-02 16:00:00,Alexis Sánchez,Pass
+119055,23,MissedShots,0.805,0.5729999923706055,0.029569251462817192,Nacho Monreal,h,495,FromCorner,2016,RightFoot,3430,Arsenal,Manchester City,2,2,2017-04-02 16:00:00,,None
+119056,29,MissedShots,0.8119999694824219,0.715,0.025015652179718018,Alexis Sánchez,h,498,OpenPlay,2016,RightFoot,3430,Arsenal,Manchester City,2,2,2017-04-02 16:00:00,Mesut Özil,Pass
+119058,39,Goal,0.919000015258789,0.5029999923706054,0.4358574450016022,Theo Walcott,h,503,FromCorner,2016,RightFoot,3430,Arsenal,Manchester City,2,2,2017-04-02 16:00:00,Shkodran Mustafi,HeadPass
+119060,46,MissedShots,0.8680000305175781,0.6519999694824219,0.033555228263139725,Theo Walcott,h,503,OpenPlay,2016,RightFoot,3430,Arsenal,Manchester City,2,2,2017-04-02 16:00:00,Alexis Sánchez,Chipped
+119061,47,MissedShots,0.9230000305175782,0.3579999923706055,0.03231658786535263,Gabriel,h,493,SetPiece,2016,Head,3430,Arsenal,Manchester City,2,2,2017-04-02 16:00:00,Mesut Özil,Chipped
+119063,52,Goal,0.9290000152587891,0.5309999847412109,0.0532052107155323,Shkodran Mustafi,h,1699,FromCorner,2016,Head,3430,Arsenal,Manchester City,2,2,2017-04-02 16:00:00,Mesut Özil,Aerial
+119069,87,MissedShots,0.870999984741211,0.2620000076293945,0.03318483382463455,Alex Iwobi,h,500,OpenPlay,2016,RightFoot,3430,Arsenal,Manchester City,2,2,2017-04-02 16:00:00,Héctor Bellerín,Pass
+119050,4,Goal,0.9219999694824219,0.655,0.4771053194999695,Leroy Sané,a,337,OpenPlay,2016,LeftFoot,3430,Arsenal,Manchester City,2,2,2017-04-02 16:00:00,Kevin De Bruyne,TakeOn
+119051,9,ShotOnPost,0.769000015258789,0.47,0.03305264562368393,Kevin De Bruyne,a,447,OpenPlay,2016,RightFoot,3430,Arsenal,Manchester City,2,2,2017-04-02 16:00:00,David Silva,Pass
+119052,9,SavedShot,0.899000015258789,0.40299999237060546,0.10619295388460159,David Silva,a,617,OpenPlay,2016,LeftFoot,3430,Arsenal,Manchester City,2,2,2017-04-02 16:00:00,,Rebound
+119053,19,BlockedShot,0.7519999694824219,0.42700000762939455,0.016693878918886185,Fernandinho,a,614,FromCorner,2016,RightFoot,3430,Arsenal,Manchester City,2,2,2017-04-02 16:00:00,,None
+119057,37,MissedShots,0.91,0.5720000076293945,0.016996750608086586,John Stones,a,586,FromCorner,2016,Head,3430,Arsenal,Manchester City,2,2,2017-04-02 16:00:00,David Silva,Aerial
+119059,41,Goal,0.9630000305175781,0.33799999237060546,0.07902823388576508,Sergio Agüero,a,619,OpenPlay,2016,RightFoot,3430,Arsenal,Manchester City,2,2,2017-04-02 16:00:00,David Silva,Pass
+119062,51,MissedShots,0.9459999847412109,0.425,0.3574305772781372,Sergio Agüero,a,619,OpenPlay,2016,Head,3430,Arsenal,Manchester City,2,2,2017-04-02 16:00:00,Jesús Navas,Cross
+119064,57,SavedShot,0.774000015258789,0.54,0.015318570658564568,Fernandinho,a,614,FromCorner,2016,RightFoot,3430,Arsenal,Manchester City,2,2,2017-04-02 16:00:00,,Aerial
+119065,65,SavedShot,0.9369999694824219,0.435,0.09984516352415085,Sergio Agüero,a,619,FromCorner,2016,Head,3430,Arsenal,Manchester City,2,2,2017-04-02 16:00:00,Jesús Navas,Cross
+119066,66,MissedShots,0.9019999694824219,0.705,0.053381115198135376,Leroy Sané,a,337,OpenPlay,2016,LeftFoot,3430,Arsenal,Manchester City,2,2,2017-04-02 16:00:00,Sergio Agüero,Pass
+119067,84,MissedShots,0.799000015258789,0.355,0.025580132380127907,David Silva,a,617,FromCorner,2016,LeftFoot,3430,Arsenal,Manchester City,2,2,2017-04-02 16:00:00,Yaya Touré,Pass
+119068,85,BlockedShot,0.7969999694824219,0.355,0.025747723877429962,Kevin De Bruyne,a,447,OpenPlay,2016,LeftFoot,3430,Arsenal,Manchester City,2,2,2017-04-02 16:00:00,Sergio Agüero,Pass
+119070,88,BlockedShot,0.845999984741211,0.515,0.05873764306306839,Sergio Agüero,a,619,OpenPlay,2016,LeftFoot,3430,Arsenal,Manchester City,2,2,2017-04-02 16:00:00,Jesús Navas,Cross
+119071,89,MissedShots,0.8590000152587891,0.305,0.03860624507069588,Jesús Navas,a,616,OpenPlay,2016,LeftFoot,3430,Arsenal,Manchester City,2,2,2017-04-02 16:00:00,Pablo Zabaleta,Pass

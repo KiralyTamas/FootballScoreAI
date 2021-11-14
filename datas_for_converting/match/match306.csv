@@ -1,0 +1,26 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+52289,33,SavedShot,0.8930000305175781,0.49900001525878906,0.04117501154541969,John O&#039;Shea,h,729,OpenPlay,2015,Head,306,Sunderland,Bournemouth,1,1,2016-01-23 19:00:00,Billy Jones,HeadPass
+52291,40,BlockedShot,0.765,0.6419999694824219,0.023192251101136208,Fabio Borini,h,737,OpenPlay,2015,LeftFoot,306,Sunderland,Bournemouth,1,1,2016-01-23 19:00:00,Adam Johnson,Pass
+52292,44,SavedShot,0.7759999847412109,0.4929999923706055,0.03272157534956932,Fabio Borini,h,737,OpenPlay,2015,RightFoot,306,Sunderland,Bournemouth,1,1,2016-01-23 19:00:00,Yann M&#039;Vila,Pass
+52293,45,Goal,0.935,0.6840000152587891,0.1079639419913292,Patrick van Aanholt,h,730,OpenPlay,2015,LeftFoot,306,Sunderland,Bournemouth,1,1,2016-01-23 19:00:00,Fabio Borini,Throughball
+52295,53,SavedShot,0.7080000305175781,0.47400001525878904,0.011426649056375027,Adam Johnson,h,929,OpenPlay,2015,LeftFoot,306,Sunderland,Bournemouth,1,1,2016-01-23 19:00:00,,None
+52296,55,MissedShots,0.735999984741211,0.6020000076293945,0.0163936298340559,Jermain Defoe,h,735,OpenPlay,2015,RightFoot,306,Sunderland,Bournemouth,1,1,2016-01-23 19:00:00,Lee Cattermole,Chipped
+52297,57,SavedShot,0.9069999694824219,0.4779999923706055,0.25077322125434875,Billy Jones,h,742,FromCorner,2015,Head,306,Sunderland,Bournemouth,1,1,2016-01-23 19:00:00,Adam Johnson,Cross
+52300,72,BlockedShot,0.86,0.45,0.06789878010749817,Duncan Watmore,h,919,SetPiece,2015,LeftFoot,306,Sunderland,Bournemouth,1,1,2016-01-23 19:00:00,,None
+52301,72,BlockedShot,0.8830000305175781,0.345,0.049257926642894745,Yann M&#039;Vila,h,732,SetPiece,2015,RightFoot,306,Sunderland,Bournemouth,1,1,2016-01-23 19:00:00,,Rebound
+52304,87,BlockedShot,0.7280000305175781,0.4620000076293945,0.014676008373498917,Jermain Defoe,h,735,OpenPlay,2015,RightFoot,306,Sunderland,Bournemouth,1,1,2016-01-23 19:00:00,Lee Cattermole,Chipped
+52281,5,SavedShot,0.8209999847412109,0.45599998474121095,0.03910719230771065,Charlie Daniels,a,459,SetPiece,2015,RightFoot,306,Sunderland,Bournemouth,1,1,2016-01-23 19:00:00,Steve Cook,HeadPass
+52282,12,Goal,0.91,0.45,0.10821405798196793,Benik Afobe,a,826,OpenPlay,2015,Head,306,Sunderland,Bournemouth,1,1,2016-01-23 19:00:00,Junior Stanislas,Cross
+52283,16,BlockedShot,0.8140000152587891,0.5059999847412109,0.10604070127010345,Adam Smith,a,825,OpenPlay,2015,LeftFoot,306,Sunderland,Bournemouth,1,1,2016-01-23 19:00:00,,TakeOn
+52284,18,MissedShots,0.8780000305175781,0.5070000076293946,0.053890638053417206,Andrew Surman,a,460,FromCorner,2015,LeftFoot,306,Sunderland,Bournemouth,1,1,2016-01-23 19:00:00,Junior Stanislas,Cross
+52285,21,SavedShot,0.9,0.32799999237060545,0.091766357421875,Junior Stanislas,a,463,OpenPlay,2015,RightFoot,306,Sunderland,Bournemouth,1,1,2016-01-23 19:00:00,Benik Afobe,Pass
+52286,24,SavedShot,0.88,0.28299999237060547,0.05262079834938049,Junior Stanislas,a,463,OpenPlay,2015,RightFoot,306,Sunderland,Bournemouth,1,1,2016-01-23 19:00:00,Dan Gosling,Pass
+52287,25,SavedShot,0.8390000152587891,0.4,0.08468254655599594,Benik Afobe,a,826,OpenPlay,2015,RightFoot,306,Sunderland,Bournemouth,1,1,2016-01-23 19:00:00,Junior Stanislas,Pass
+52288,27,MissedShots,0.71,0.49599998474121093,0.017282919958233833,Steve Cook,a,458,OpenPlay,2015,RightFoot,306,Sunderland,Bournemouth,1,1,2016-01-23 19:00:00,Adam Smith,Pass
+52290,39,MissedShots,0.8530000305175781,0.66,0.07157823443412781,Marc Pugh,a,466,OpenPlay,2015,RightFoot,306,Sunderland,Bournemouth,1,1,2016-01-23 19:00:00,Benik Afobe,Pass
+52294,48,MissedShots,0.81,0.4929999923706055,0.06170905753970146,Junior Stanislas,a,463,OpenPlay,2015,RightFoot,306,Sunderland,Bournemouth,1,1,2016-01-23 19:00:00,Dan Gosling,Pass
+52298,62,MissedShots,0.87,0.5059999847412109,0.023789657279849052,Matt Ritchie,a,461,OpenPlay,2015,Head,306,Sunderland,Bournemouth,1,1,2016-01-23 19:00:00,Junior Stanislas,Aerial
+52299,65,MissedShots,0.7440000152587891,0.4229999923706055,0.016841823235154152,Harry Arter,a,881,OpenPlay,2015,LeftFoot,306,Sunderland,Bournemouth,1,1,2016-01-23 19:00:00,,None
+52302,79,BlockedShot,0.7709999847412109,0.5990000152587891,0.022643812000751495,Matt Ritchie,a,461,OpenPlay,2015,LeftFoot,306,Sunderland,Bournemouth,1,1,2016-01-23 19:00:00,Junior Stanislas,Pass
+52303,82,MissedShots,0.9219999694824219,0.46599998474121096,0.5097990036010742,Lewis Grabban,a,467,OpenPlay,2015,RightFoot,306,Sunderland,Bournemouth,1,1,2016-01-23 19:00:00,Junior Stanislas,Throughball
+52305,92,BlockedShot,0.7119999694824218,0.3990000152587891,0.008547619916498661,Adam Smith,a,825,OpenPlay,2015,LeftFoot,306,Sunderland,Bournemouth,1,1,2016-01-23 19:00:00,Harry Arter,Chipped

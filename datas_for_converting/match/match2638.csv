@@ -1,0 +1,20 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+123207,5,MissedShots,0.7980000305175782,0.24700000762939453,0.019044306129217148,Aleksey Pugin,h,4542,OpenPlay,2016,RightFoot,2638,Tom Tomsk,Arsenal Tula,1,0,2016-09-17 15:00:00,Lukás Droppa,Pass
+123208,11,MissedShots,0.875,0.3120000076293945,0.031143805012106895,Aleksey Pugin,h,4542,FromCorner,2016,RightFoot,2638,Tom Tomsk,Arsenal Tula,1,0,2016-09-17 15:00:00,,None
+123213,25,Goal,0.955999984741211,0.544000015258789,0.14228186011314392,Vitali Djakov,h,2757,FromCorner,2016,LeftFoot,2638,Tom Tomsk,Arsenal Tula,1,0,2016-09-17 15:00:00,Maksim Bordachev,HeadPass
+123217,58,MissedShots,0.965,0.395,0.03701924532651901,Vitali Djakov,h,2757,FromCorner,2016,Head,2638,Tom Tomsk,Arsenal Tula,1,0,2016-09-17 15:00:00,Valeriu Ciuperca,Cross
+123221,69,BlockedShot,0.6469999694824219,0.29700000762939455,0.023079857230186462,Vitali Djakov,h,2757,DirectFreekick,2016,RightFoot,2638,Tom Tomsk,Arsenal Tula,1,0,2016-09-17 15:00:00,,Standard
+123222,70,SavedShot,0.9159999847412109,0.4370000076293945,0.060294702649116516,Sergey Samodin,h,3037,FromCorner,2016,Head,2638,Tom Tomsk,Arsenal Tula,1,0,2016-09-17 15:00:00,Valeriu Ciuperca,Cross
+123224,76,SavedShot,0.9219999694824219,0.3509999847412109,0.10043065994977951,Aleksey Pugin,h,4542,OpenPlay,2016,RightFoot,2638,Tom Tomsk,Arsenal Tula,1,0,2016-09-17 15:00:00,Kirill Kombarov,Pass
+123209,15,BlockedShot,0.870999984741211,0.37900001525878907,0.0799502283334732,Vladislav Ryzhkov,a,4572,OpenPlay,2016,RightFoot,2638,Tom Tomsk,Arsenal Tula,1,0,2016-09-17 15:00:00,Ruslan Mukhametshin,Pass
+123210,18,MissedShots,0.6580000305175782,0.26799999237060546,0.006595493759959936,Vladislav Ryzhkov,a,4572,OpenPlay,2016,RightFoot,2638,Tom Tomsk,Arsenal Tula,1,0,2016-09-17 15:00:00,Lukás Tesák,Chipped
+123211,19,BlockedShot,0.7669999694824219,0.42200000762939455,0.02401983179152012,Vadim Steklov,a,4539,OpenPlay,2016,RightFoot,2638,Tom Tomsk,Arsenal Tula,1,0,2016-09-17 15:00:00,Vladislav Ryzhkov,Pass
+123212,20,SavedShot,0.6040000152587891,0.47900001525878905,0.0219428613781929,Lukás Tesák,a,4597,DirectFreekick,2016,LeftFoot,2638,Tom Tomsk,Arsenal Tula,1,0,2016-09-17 15:00:00,,Standard
+123214,29,BlockedShot,0.879000015258789,0.27299999237060546,0.03752090781927109,Ruslan Mukhametshin,a,3036,OpenPlay,2016,RightFoot,2638,Tom Tomsk,Arsenal Tula,1,0,2016-09-17 15:00:00,Vladislav Ryzhkov,Pass
+123215,30,MissedShots,0.9540000152587891,0.585,0.037709277123212814,Jherson Vergara,a,5373,OpenPlay,2016,Head,2638,Tom Tomsk,Arsenal Tula,1,0,2016-09-17 15:00:00,Lukás Tesák,Aerial
+123216,45,SavedShot,0.7930000305175782,0.3089999961853027,0.020537009462714195,Felicio Brown Forbes,a,3099,OpenPlay,2016,RightFoot,2638,Tom Tomsk,Arsenal Tula,1,0,2016-09-17 15:00:00,Aleksandr Gorbatyuk,TakeOn
+123218,64,MissedShots,0.7719999694824219,0.28,0.016144225373864174,Kantemir Berkhamov,a,5374,OpenPlay,2016,RightFoot,2638,Tom Tomsk,Arsenal Tula,1,0,2016-09-17 15:00:00,,None
+123219,64,MissedShots,0.785,0.575,0.03139030933380127,Aleksandr Sheshukov,a,2716,OpenPlay,2016,RightFoot,2638,Tom Tomsk,Arsenal Tula,1,0,2016-09-17 15:00:00,,None
+123220,64,MissedShots,0.9019999694824219,0.3039999961853027,0.04386162757873535,Felicio Brown Forbes,a,3099,OpenPlay,2016,RightFoot,2638,Tom Tomsk,Arsenal Tula,1,0,2016-09-17 15:00:00,Aleksandr Sheshukov,Rebound
+123223,72,MissedShots,0.885,0.24399999618530274,0.02876679226756096,Felicio Brown Forbes,a,3099,OpenPlay,2016,LeftFoot,2638,Tom Tomsk,Arsenal Tula,1,0,2016-09-17 15:00:00,,None
+123225,87,MissedShots,0.7040000152587891,0.315,0.01174953393638134,Vadim Steklov,a,4539,FromCorner,2016,RightFoot,2638,Tom Tomsk,Arsenal Tula,1,0,2016-09-17 15:00:00,,None

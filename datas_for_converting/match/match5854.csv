@@ -1,0 +1,27 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+7351,18,SavedShot,0.9459999847412109,0.5929999923706055,0.03652636706829071,Serge Gakpe,h,1581,OpenPlay,2014,Head,5854,Nantes,Paris Saint Germain,0,2,2015-05-03 20:00:00,Alejandro Bedoya,Aerial
+7353,21,BlockedShot,0.7819999694824219,0.44,0.030461644753813744,Rémi Gomis,h,3404,OpenPlay,2014,RightFoot,5854,Nantes,Paris Saint Germain,0,2,2015-05-03 20:00:00,,None
+7354,21,MissedShots,0.8969999694824219,0.529000015258789,0.08537086844444275,Johan Audel,h,3409,OpenPlay,2014,LeftFoot,5854,Nantes,Paris Saint Germain,0,2,2015-05-03 20:00:00,Lucas Deaux,HeadPass
+7355,21,MissedShots,0.764000015258789,0.3770000076293945,0.023969879373908043,Jordan Veretout,h,677,OpenPlay,2014,RightFoot,5854,Nantes,Paris Saint Germain,0,2,2015-05-03 20:00:00,Serge Gakpe,Pass
+7356,30,SavedShot,0.915,0.47400001525878904,0.056212492287158966,Johan Audel,h,3409,SetPiece,2014,Head,5854,Nantes,Paris Saint Germain,0,2,2015-05-03 20:00:00,Alejandro Bedoya,Aerial
+7358,38,MissedShots,0.9159999847412109,0.5179999923706055,0.09560485929250717,Oswaldo Vizcarrondo,h,3401,FromCorner,2014,Head,5854,Nantes,Paris Saint Germain,0,2,2015-05-03 20:00:00,Jordan Veretout,Cross
+7359,40,SavedShot,0.8730000305175781,0.35900001525878905,0.009617196395993233,Alejandro Bedoya,h,3405,OpenPlay,2014,Head,5854,Nantes,Paris Saint Germain,0,2,2015-05-03 20:00:00,Johan Audel,Cross
+7361,46,MissedShots,0.7440000152587891,0.7930000305175782,0.00660736532881856,Vincent Bessat,h,3525,OpenPlay,2014,LeftFoot,5854,Nantes,Paris Saint Germain,0,2,2015-05-03 20:00:00,Jordan Veretout,Chipped
+7364,79,BlockedShot,0.7169999694824218,0.5109999847412109,0.015541685745120049,Papy Djilobodji,h,1071,SetPiece,2014,LeftFoot,5854,Nantes,Paris Saint Germain,0,2,2015-05-03 20:00:00,Jordan Veretout,Pass
+7365,88,BlockedShot,0.7040000152587891,0.47400001525878904,0.010867207311093807,Yacine Bammou,h,3410,OpenPlay,2014,LeftFoot,5854,Nantes,Paris Saint Germain,0,2,2015-05-03 20:00:00,Georges-Kévin Nkoudou,BallRecovery
+7369,93,MissedShots,0.8919999694824219,0.48,0.04875538870692253,Alejandro Bedoya,h,3405,OpenPlay,2014,Head,5854,Nantes,Paris Saint Germain,0,2,2015-05-03 20:00:00,Vincent Bessat,Aerial
+7370,93,BlockedShot,0.8919999694824219,0.4979999923706055,0.09819291532039642,Georges-Kévin Nkoudou,h,1729,OpenPlay,2014,RightFoot,5854,Nantes,Paris Saint Germain,0,2,2015-05-03 20:00:00,Alejandro Bedoya,Rebound
+7345,2,BlockedShot,0.8059999847412109,0.445,0.02625248022377491,Zlatan Ibrahimovic,a,1741,OpenPlay,2014,LeftFoot,5854,Nantes,Paris Saint Germain,0,2,2015-05-03 20:00:00,Maxwell,Cross
+7346,2,Goal,0.935,0.4370000076293945,0.11317411810159683,Edinson Cavani,a,3294,OpenPlay,2014,RightFoot,5854,Nantes,Paris Saint Germain,0,2,2015-05-03 20:00:00,Gregory Van der Wiel,BallTouch
+7347,11,SavedShot,0.8919999694824219,0.32099998474121094,0.30960360169410706,Edinson Cavani,a,3294,OpenPlay,2014,RightFoot,5854,Nantes,Paris Saint Germain,0,2,2015-05-03 20:00:00,Javier Pastore,Throughball
+7348,12,BlockedShot,0.9790000152587891,0.61,0.04432252421975136,Zlatan Ibrahimovic,a,1741,FromCorner,2014,LeftFoot,5854,Nantes,Paris Saint Germain,0,2,2015-05-03 20:00:00,Thiago Motta,Cross
+7349,12,BlockedShot,0.924000015258789,0.47400001525878904,0.120517298579216,Javier Pastore,a,3295,FromCorner,2014,LeftFoot,5854,Nantes,Paris Saint Germain,0,2,2015-05-03 20:00:00,Edinson Cavani,HeadPass
+7350,13,SavedShot,0.8880000305175781,0.6040000152587891,0.37583115696907043,Edinson Cavani,a,3294,OpenPlay,2014,LeftFoot,5854,Nantes,Paris Saint Germain,0,2,2015-05-03 20:00:00,Zlatan Ibrahimovic,Throughball
+7352,20,SavedShot,0.9130000305175782,0.4,0.15298448503017426,Javier Pastore,a,3295,OpenPlay,2014,RightFoot,5854,Nantes,Paris Saint Germain,0,2,2015-05-03 20:00:00,Gregory Van der Wiel,TakeOn
+7357,30,Goal,0.845999984741211,0.49,0.3524555265903473,Blaise Matuidi,a,3296,OpenPlay,2014,LeftFoot,5854,Nantes,Paris Saint Germain,0,2,2015-05-03 20:00:00,Zlatan Ibrahimovic,Throughball
+7360,43,SavedShot,0.774000015258789,0.6170000076293946,0.04152664542198181,Zlatan Ibrahimovic,a,1741,OpenPlay,2014,RightFoot,5854,Nantes,Paris Saint Germain,0,2,2015-05-03 20:00:00,Blaise Matuidi,TakeOn
+7362,55,BlockedShot,0.8669999694824219,0.5690000152587891,0.12406062334775925,Javier Pastore,a,3295,OpenPlay,2014,LeftFoot,5854,Nantes,Paris Saint Germain,0,2,2015-05-03 20:00:00,Zlatan Ibrahimovic,Pass
+7363,66,MissedShots,0.89,0.2989999961853027,0.08807355165481567,Edinson Cavani,a,3294,OpenPlay,2014,RightFoot,5854,Nantes,Paris Saint Germain,0,2,2015-05-03 20:00:00,Gregory Van der Wiel,Chipped
+7366,90,BlockedShot,0.735,0.47400001525878904,0.024810751900076866,Adrien Rabiot,a,3291,OpenPlay,2014,LeftFoot,5854,Nantes,Paris Saint Germain,0,2,2015-05-03 20:00:00,Zlatan Ibrahimovic,Pass
+7367,92,MissedShots,0.7419999694824219,0.7419999694824219,0.02352818101644516,Yohan Cabaye,a,516,OpenPlay,2014,RightFoot,5854,Nantes,Paris Saint Germain,0,2,2015-05-03 20:00:00,Adrien Rabiot,Pass
+7368,92,SavedShot,0.8469999694824218,0.47200000762939454,0.41561752557754517,Edinson Cavani,a,3294,OpenPlay,2014,RightFoot,5854,Nantes,Paris Saint Germain,0,2,2015-05-03 20:00:00,Thiago Motta,Throughball

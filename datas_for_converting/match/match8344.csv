@@ -1,0 +1,22 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+168703,10,SavedShot,0.7080000305175781,0.5540000152587891,0.008544660173356533,Thilo Kehrer,h,2674,OpenPlay,2017,RightFoot,8344,Schalke 04,Wolfsburg,1,1,2017-10-28 14:30:00,Amine Harit,Chipped
+168704,17,SavedShot,0.855999984741211,0.53,0.023926299065351486,Franco Di Santo,h,341,OpenPlay,2017,Head,8344,Schalke 04,Wolfsburg,1,1,2017-10-28 14:30:00,Bastian Oczipka,Cross
+168705,25,SavedShot,0.9230000305175782,0.5359999847412109,0.06121209263801575,Naldo,h,147,SetPiece,2017,Head,8344,Schalke 04,Wolfsburg,1,1,2017-10-28 14:30:00,Franco Di Santo,Aerial
+168707,28,SavedShot,0.8169999694824219,0.33,0.052901491522789,Amine Harit,h,5717,OpenPlay,2017,RightFoot,8344,Schalke 04,Wolfsburg,1,1,2017-10-28 14:30:00,Nabil Bentaleb,Pass
+168708,30,SavedShot,0.8240000152587891,0.6659999847412109,0.059520695358514786,Thilo Kehrer,h,2674,OpenPlay,2017,RightFoot,8344,Schalke 04,Wolfsburg,1,1,2017-10-28 14:30:00,Amine Harit,Pass
+168709,42,Goal,0.885,0.5,0.75777667760849,Nabil Bentaleb,h,914,Penalty,2017,LeftFoot,8344,Schalke 04,Wolfsburg,1,1,2017-10-28 14:30:00,,Standard
+168710,44,BlockedShot,0.8530000305175781,0.48900001525878906,0.10762923955917358,Franco Di Santo,h,341,OpenPlay,2017,RightFoot,8344,Schalke 04,Wolfsburg,1,1,2017-10-28 14:30:00,Amine Harit,Pass
+168711,46,BlockedShot,0.8480000305175781,0.23,0.028464190661907196,Daniel Caligiuri,h,157,OpenPlay,2017,LeftFoot,8344,Schalke 04,Wolfsburg,1,1,2017-10-28 14:30:00,Nabil Bentaleb,Chipped
+168712,56,MissedShots,0.7769999694824219,0.3729999923706055,0.07708511501550674,Bastian Oczipka,h,285,DirectFreekick,2017,LeftFoot,8344,Schalke 04,Wolfsburg,1,1,2017-10-28 14:30:00,,Standard
+168716,72,MissedShots,0.8069999694824219,0.5329999923706055,0.06376390159130096,Amine Harit,h,5717,OpenPlay,2017,RightFoot,8344,Schalke 04,Wolfsburg,1,1,2017-10-28 14:30:00,,None
+168718,75,BlockedShot,0.7759999847412109,0.6959999847412109,0.026399953290820122,Bastian Oczipka,h,285,OpenPlay,2017,LeftFoot,8344,Schalke 04,Wolfsburg,1,1,2017-10-28 14:30:00,Nabil Bentaleb,Pass
+168719,81,MissedShots,0.8719999694824219,0.43400001525878906,0.1151537150144577,Fabian Reese,h,390,OpenPlay,2017,RightFoot,8344,Schalke 04,Wolfsburg,1,1,2017-10-28 14:30:00,Guido Burgstaller,Pass
+168720,83,SavedShot,0.7269999694824218,0.49700000762939456,0.02468758076429367,Yevhen Konoplyanka,h,2068,OpenPlay,2017,RightFoot,8344,Schalke 04,Wolfsburg,1,1,2017-10-28 14:30:00,Weston McKennie,BallRecovery
+168721,87,MissedShots,0.909000015258789,0.5059999847412109,0.034164801239967346,Naldo,h,147,FromCorner,2017,Head,8344,Schalke 04,Wolfsburg,1,1,2017-10-28 14:30:00,Bastian Oczipka,Aerial
+168702,10,BlockedShot,0.5420000076293945,0.31799999237060544,0.012316622771322727,Mario Gomez,a,3887,OpenPlay,2017,RightFoot,8344,Schalke 04,Wolfsburg,1,1,2017-10-28 14:30:00,Maximilian Arnold,BallRecovery
+168706,28,BlockedShot,0.754000015258789,0.445,0.030400842428207397,Yunus Malli,a,45,SetPiece,2017,LeftFoot,8344,Schalke 04,Wolfsburg,1,1,2017-10-28 14:30:00,Mario Gomez,LayOff
+168713,59,MissedShots,0.885,0.5,0.75777667760849,Mario Gomez,a,3887,Penalty,2017,RightFoot,8344,Schalke 04,Wolfsburg,1,1,2017-10-28 14:30:00,,Standard
+168714,62,MissedShots,0.6890000152587891,0.44,0.011398187838494778,Maximilian Arnold,a,153,OpenPlay,2017,LeftFoot,8344,Schalke 04,Wolfsburg,1,1,2017-10-28 14:30:00,,BallRecovery
+168715,67,MissedShots,0.904000015258789,0.15600000381469725,0.03103475086390972,Daniel Didavi,a,300,FromCorner,2017,LeftFoot,8344,Schalke 04,Wolfsburg,1,1,2017-10-28 14:30:00,Maximilian Arnold,Pass
+168717,73,SavedShot,0.835,0.3920000076293945,0.05394171550869942,Maximilian Arnold,a,153,OpenPlay,2017,LeftFoot,8344,Schalke 04,Wolfsburg,1,1,2017-10-28 14:30:00,Jakub Blaszczykowski,Pass
+168722,92,Goal,0.955,0.595999984741211,0.08256775885820389,Divock Origi,a,484,OpenPlay,2017,LeftFoot,8344,Schalke 04,Wolfsburg,1,1,2017-10-28 14:30:00,Mario Gomez,HeadPass

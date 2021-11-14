@@ -1,0 +1,23 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+150611,6,MissedShots,0.789000015258789,0.625999984741211,0.030919190496206284,Alejandro Gomez,h,1491,OpenPlay,2016,RightFoot,3650,Atalanta,Sassuolo,1,1,2017-04-08 17:00:00,,BallRecovery
+150612,7,SavedShot,0.8819999694824219,0.6040000152587891,0.10108067840337753,Andrea Petagna,h,1493,OpenPlay,2016,LeftFoot,3650,Atalanta,Sassuolo,1,1,2017-04-08 17:00:00,Leonardo Spinazzola,Pass
+150613,10,ShotOnPost,0.9630000305175781,0.35700000762939454,0.07330687344074249,Alejandro Gomez,h,1491,OpenPlay,2016,LeftFoot,3650,Atalanta,Sassuolo,1,1,2017-04-08 17:00:00,Andrea Conti,Pass
+150616,29,SavedShot,0.845,0.59,0.07403559237718582,Andrea Petagna,h,1493,OpenPlay,2016,LeftFoot,3650,Atalanta,Sassuolo,1,1,2017-04-08 17:00:00,Bryan Cristante,Pass
+150618,36,MissedShots,0.8219999694824218,0.44,0.05855175480246544,Alejandro Gomez,h,1491,OpenPlay,2016,LeftFoot,3650,Atalanta,Sassuolo,1,1,2017-04-08 17:00:00,Leonardo Spinazzola,Pass
+150619,38,MissedShots,0.6840000152587891,0.6519999694824219,0.013785775750875473,Leonardo Spinazzola,h,1500,OpenPlay,2016,RightFoot,3650,Atalanta,Sassuolo,1,1,2017-04-08 17:00:00,Andrea Masiello,Pass
+150620,47,MissedShots,0.9669999694824218,0.40299999237060546,0.18629221618175507,Andrea Masiello,h,1485,FromCorner,2016,Head,3650,Atalanta,Sassuolo,1,1,2017-04-08 17:00:00,Bryan Cristante,HeadPass
+150621,57,BlockedShot,0.845,0.5570000076293945,0.054211363196372986,Alberto Grassi,h,1504,FromCorner,2016,LeftFoot,3650,Atalanta,Sassuolo,1,1,2017-04-08 17:00:00,,None
+150623,67,MissedShots,0.9519999694824218,0.4159999847412109,0.09810759872198105,Andrea Conti,h,1487,OpenPlay,2016,Head,3650,Atalanta,Sassuolo,1,1,2017-04-08 17:00:00,Alejandro Gomez,Cross
+150624,72,Goal,0.935,0.52,0.4662817716598511,Bryan Cristante,h,1168,SetPiece,2016,Head,3650,Atalanta,Sassuolo,1,1,2017-04-08 17:00:00,Alejandro Gomez,Cross
+150625,73,SavedShot,0.9,0.38799999237060545,0.0783962830901146,Alberto Grassi,h,1504,OpenPlay,2016,RightFoot,3650,Atalanta,Sassuolo,1,1,2017-04-08 17:00:00,,None
+150626,77,SavedShot,0.8780000305175781,0.5940000152587891,0.415746808052063,Mattia Caldara,h,1486,SetPiece,2016,RightFoot,3650,Atalanta,Sassuolo,1,1,2017-04-08 17:00:00,Andrea Petagna,Throughball
+150627,84,BlockedShot,0.8080000305175781,0.5540000152587891,0.03268815949559212,Alberto Grassi,h,1504,FromCorner,2016,RightFoot,3650,Atalanta,Sassuolo,1,1,2017-04-08 17:00:00,,None
+150628,88,MissedShots,0.8919999694824219,0.38599998474121094,0.019212106242775917,Andrea Petagna,h,1493,OpenPlay,2016,Head,3650,Atalanta,Sassuolo,1,1,2017-04-08 17:00:00,Marco D&#039;Alessandro,Cross
+150629,88,SavedShot,0.93,0.5570000076293945,0.1419060081243515,Anthony Mounier,h,1451,OpenPlay,2016,LeftFoot,3650,Atalanta,Sassuolo,1,1,2017-04-08 17:00:00,Andrea Petagna,Rebound
+150630,89,BlockedShot,0.8530000305175781,0.3120000076293945,0.0437222458422184,Andrea Petagna,h,1493,SetPiece,2016,LeftFoot,3650,Atalanta,Sassuolo,1,1,2017-04-08 17:00:00,Alejandro Gomez,Chipped
+150631,90,MissedShots,0.91,0.595999984741211,0.024274291470646858,Anthony Mounier,h,1451,OpenPlay,2016,Head,3650,Atalanta,Sassuolo,1,1,2017-04-08 17:00:00,Marco D&#039;Alessandro,Aerial
+150632,92,SavedShot,0.8919999694824219,0.47299999237060547,0.09156472235918045,Alberto Grassi,h,1504,OpenPlay,2016,RightFoot,3650,Atalanta,Sassuolo,1,1,2017-04-08 17:00:00,Marco D&#039;Alessandro,Cross
+150614,19,SavedShot,0.7619999694824219,0.39599998474121095,0.06582049280405045,Domenico Berardi,a,1612,DirectFreekick,2016,LeftFoot,3650,Atalanta,Sassuolo,1,1,2017-04-08 17:00:00,,Standard
+150615,21,BlockedShot,0.7569999694824219,0.3240000152587891,0.01905638538300991,Stefano Sensi,a,1465,OpenPlay,2016,LeftFoot,3650,Atalanta,Sassuolo,1,1,2017-04-08 17:00:00,Domenico Berardi,Pass
+150617,35,Goal,0.904000015258789,0.615,0.6504733562469482,Lorenzo Pellegrini,a,1471,OpenPlay,2016,LeftFoot,3650,Atalanta,Sassuolo,1,1,2017-04-08 17:00:00,,TakeOn
+150622,66,MissedShots,0.8830000305175781,0.635,0.34792599081993103,Antonino Ragusa,a,1481,OpenPlay,2016,LeftFoot,3650,Atalanta,Sassuolo,1,1,2017-04-08 17:00:00,Alfred Duncan,Throughball

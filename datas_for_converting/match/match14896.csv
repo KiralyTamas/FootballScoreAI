@@ -1,0 +1,25 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+391287,6,Goal,0.8819999694824219,0.34900001525878904,0.25362277030944824,Shon Weissman,h,8761,OpenPlay,2020,RightFoot,14896,Real Valladolid,Osasuna,3,2,2020-12-11 20:00:00,Óscar Plano,Pass
+391289,19,BlockedShot,0.9080000305175782,0.40099998474121096,0.12190565466880798,Fabián Orellana,h,2285,OpenPlay,2020,RightFoot,14896,Real Valladolid,Osasuna,3,2,2020-12-11 20:00:00,Saidy Janko,Pass
+391292,37,MissedShots,0.8419999694824218,0.3609999847412109,0.05603048950433731,Óscar Plano,h,6921,OpenPlay,2020,RightFoot,14896,Real Valladolid,Osasuna,3,2,2020-12-11 20:00:00,Fabián Orellana,Pass
+391297,48,MissedShots,0.8680000305175781,0.48700000762939455,0.03189549595117569,Óscar Plano,h,6921,FromCorner,2020,LeftFoot,14896,Real Valladolid,Osasuna,3,2,2020-12-11 20:00:00,,Aerial
+391298,50,BlockedShot,0.965,0.6519999694824219,0.058818407356739044,Óscar Plano,h,6921,OpenPlay,2020,LeftFoot,14896,Real Valladolid,Osasuna,3,2,2020-12-11 20:00:00,,None
+391299,52,SavedShot,0.779000015258789,0.5870000076293945,0.04704374819993973,Marcos de Sousa,h,8933,OpenPlay,2020,RightFoot,14896,Real Valladolid,Osasuna,3,2,2020-12-11 20:00:00,Shon Weissman,Pass
+391300,55,Goal,0.885,0.5,0.7432776093482971,Fabián Orellana,h,2285,Penalty,2020,RightFoot,14896,Real Valladolid,Osasuna,3,2,2020-12-11 20:00:00,,Standard
+391301,59,MissedShots,0.97,0.5929999923706055,0.09197217226028442,Shon Weissman,h,8761,OpenPlay,2020,RightFoot,14896,Real Valladolid,Osasuna,3,2,2020-12-11 20:00:00,Nacho,Cross
+391303,70,SavedShot,0.8519999694824218,0.705,0.03191646561026573,Marcos de Sousa,h,8933,OpenPlay,2020,RightFoot,14896,Real Valladolid,Osasuna,3,2,2020-12-11 20:00:00,Óscar Plano,Pass
+391304,75,Goal,0.9230000305175782,0.5509999847412109,0.32823091745376587,Shon Weissman,h,8761,OpenPlay,2020,Head,14896,Real Valladolid,Osasuna,3,2,2020-12-11 20:00:00,Pablo Hervías,Cross
+391305,81,SavedShot,0.9180000305175782,0.44799999237060545,0.11276601999998093,Shon Weissman,h,8761,SetPiece,2020,Head,14896,Real Valladolid,Osasuna,3,2,2020-12-11 20:00:00,Pablo Hervías,Cross
+391288,17,SavedShot,0.955999984741211,0.42400001525878905,0.3324781358242035,Ante Budimir,a,1235,OpenPlay,2020,LeftFoot,14896,Real Valladolid,Osasuna,3,2,2020-12-11 20:00:00,,Aerial
+391290,22,MissedShots,0.795,0.5629999923706055,0.029632309451699257,Jon Moncayola,a,7857,FromCorner,2020,RightFoot,14896,Real Valladolid,Osasuna,3,2,2020-12-11 20:00:00,Jonathan Calleri,None
+391291,26,Goal,0.91,0.4779999923706055,0.20475848019123077,Ante Budimir,a,1235,OpenPlay,2020,Head,14896,Real Valladolid,Osasuna,3,2,2020-12-11 20:00:00,Oier,Chipped
+391293,41,BlockedShot,0.8680000305175781,0.5070000076293946,0.06512173265218735,Jonathan Calleri,a,1672,SetPiece,2020,RightFoot,14896,Real Valladolid,Osasuna,3,2,2020-12-11 20:00:00,Nacho Vidal,Foul
+391294,41,BlockedShot,0.8690000152587891,0.624000015258789,0.05760643631219864,Oier,a,5128,SetPiece,2020,LeftFoot,14896,Real Valladolid,Osasuna,3,2,2020-12-11 20:00:00,,None
+391295,42,Goal,0.845,0.475,0.0686730444431305,Roberto Torres,a,5093,OpenPlay,2020,LeftFoot,14896,Real Valladolid,Osasuna,3,2,2020-12-11 20:00:00,,None
+391296,45,SavedShot,0.9440000152587891,0.49700000762939456,0.12084599584341049,Jonathan Calleri,a,1672,SetPiece,2020,Head,14896,Real Valladolid,Osasuna,3,2,2020-12-11 20:00:00,,None
+391302,61,SavedShot,0.874000015258789,0.4779999923706055,0.051544513553380966,Jonathan Calleri,a,1672,OpenPlay,2020,Head,14896,Real Valladolid,Osasuna,3,2,2020-12-11 20:00:00,Rubén García,Cross
+391306,86,BlockedShot,0.735999984741211,0.44299999237060544,0.015376649796962738,Darko Brasanac,a,5037,OpenPlay,2020,RightFoot,14896,Real Valladolid,Osasuna,3,2,2020-12-11 20:00:00,,None
+391307,87,BlockedShot,0.8440000152587891,0.7090000152587891,0.04115327075123787,Ante Budimir,a,1235,OpenPlay,2020,LeftFoot,14896,Real Valladolid,Osasuna,3,2,2020-12-11 20:00:00,Enric Gallego,HeadPass
+391308,90,MissedShots,0.89,0.5029999923706054,0.053210847079753876,Enric Gallego,a,7349,OpenPlay,2020,Head,14896,Real Valladolid,Osasuna,3,2,2020-12-11 20:00:00,David García,Chipped
+391309,92,SavedShot,0.91,0.555,0.08493950963020325,Jonathan Calleri,a,1672,OpenPlay,2020,Head,14896,Real Valladolid,Osasuna,3,2,2020-12-11 20:00:00,Roberto Torres,Cross
+391310,93,MissedShots,0.8959999847412109,0.639000015258789,0.2086881399154663,Jonathan Calleri,a,1672,OpenPlay,2020,LeftFoot,14896,Real Valladolid,Osasuna,3,2,2020-12-11 20:00:00,Aridane Hernández,Chipped

@@ -1,0 +1,31 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+279715,14,MissedShots,0.899000015258789,0.4470000076293945,0.05994808301329613,Florian Neuhaus,h,7065,OpenPlay,2018,Head,10548,Borussia M.Gladbach,Bayern Munich,1,5,2019-03-02 17:30:00,Oscar Wendt,Cross
+279716,18,BlockedShot,0.7880000305175782,0.7440000152587891,0.015103441663086414,Thorgan Hazard,h,213,OpenPlay,2018,RightFoot,10548,Borussia M.Gladbach,Bayern Munich,1,5,2019-03-02 17:30:00,Jonas Hofmann,Pass
+279717,20,BlockedShot,0.8930000305175781,0.5309999847412109,0.05365137383341789,Matthias Ginter,h,315,FromCorner,2018,Head,10548,Borussia M.Gladbach,Bayern Munich,1,5,2019-03-02 17:30:00,Jonas Hofmann,Cross
+279719,23,BlockedShot,0.759000015258789,0.585,0.022345688194036484,Thorgan Hazard,h,213,OpenPlay,2018,RightFoot,10548,Borussia M.Gladbach,Bayern Munich,1,5,2019-03-02 17:30:00,Lars Stindl,Pass
+279723,33,MissedShots,0.8959999847412109,0.6229999923706054,0.08260490000247955,Lars Stindl,h,208,OpenPlay,2018,LeftFoot,10548,Borussia M.Gladbach,Bayern Munich,1,5,2019-03-02 17:30:00,Thorgan Hazard,Pass
+279724,36,Goal,0.9230000305175782,0.6309999847412109,0.0840190052986145,Lars Stindl,h,208,OpenPlay,2018,LeftFoot,10548,Borussia M.Gladbach,Bayern Munich,1,5,2019-03-02 17:30:00,Thorgan Hazard,Pass
+279726,41,SavedShot,0.8809999847412109,0.38299999237060545,0.05209023505449295,Alassane Pléa,h,3310,OpenPlay,2018,RightFoot,10548,Borussia M.Gladbach,Bayern Munich,1,5,2019-03-02 17:30:00,Michael Lang,Cross
+279729,50,BlockedShot,0.7569999694824219,0.43099998474121093,0.02524411492049694,Florian Neuhaus,h,7065,OpenPlay,2018,RightFoot,10548,Borussia M.Gladbach,Bayern Munich,1,5,2019-03-02 17:30:00,Thorgan Hazard,TakeOn
+279730,51,MissedShots,0.7909999847412109,0.435,0.10895370692014694,Oscar Wendt,h,206,DirectFreekick,2018,LeftFoot,10548,Borussia M.Gladbach,Bayern Munich,1,5,2019-03-02 17:30:00,,Standard
+279732,58,BlockedShot,0.7859999847412109,0.36700000762939455,0.025934817269444466,Alassane Pléa,h,3310,OpenPlay,2018,RightFoot,10548,Borussia M.Gladbach,Bayern Munich,1,5,2019-03-02 17:30:00,Michael Lang,Pass
+279734,67,MissedShots,0.865999984741211,0.31799999237060544,0.05291437730193138,Denis Zakaria,h,6147,OpenPlay,2018,RightFoot,10548,Borussia M.Gladbach,Bayern Munich,1,5,2019-03-02 17:30:00,Lars Stindl,Pass
+279710,0,SavedShot,0.875,0.5320000076293945,0.40220892429351807,Robert Lewandowski,a,227,OpenPlay,2018,LeftFoot,10548,Borussia M.Gladbach,Bayern Munich,1,5,2019-03-02 17:30:00,Thomas Müller,Throughball
+279711,1,Goal,0.9530000305175781,0.5029999923706054,0.48343104124069214,Javi Martínez,a,225,FromCorner,2018,Head,10548,Borussia M.Gladbach,Bayern Munich,1,5,2019-03-02 17:30:00,James Rodríguez,Cross
+279712,8,BlockedShot,0.9309999847412109,0.18299999237060546,0.06955378502607346,James Rodríguez,a,2249,DirectFreekick,2018,LeftFoot,10548,Borussia M.Gladbach,Bayern Munich,1,5,2019-03-02 17:30:00,,Standard
+279713,10,SavedShot,0.9330000305175781,0.54,0.46095213294029236,Thomas Müller,a,224,OpenPlay,2018,RightFoot,10548,Borussia M.Gladbach,Bayern Munich,1,5,2019-03-02 17:30:00,Serge Gnabry,Cross
+279714,10,Goal,0.985999984741211,0.524000015258789,0.9646368026733398,Thomas Müller,a,224,OpenPlay,2018,RightFoot,10548,Borussia M.Gladbach,Bayern Munich,1,5,2019-03-02 17:30:00,,Rebound
+279718,21,SavedShot,0.8390000152587891,0.4229999923706055,0.07074777036905289,Robert Lewandowski,a,227,OpenPlay,2018,RightFoot,10548,Borussia M.Gladbach,Bayern Munich,1,5,2019-03-02 17:30:00,,None
+279720,25,MissedShots,0.865999984741211,0.415,0.12306735664606094,Robert Lewandowski,a,227,OpenPlay,2018,RightFoot,10548,Borussia M.Gladbach,Bayern Munich,1,5,2019-03-02 17:30:00,Thomas Müller,Pass
+279721,29,SavedShot,0.915,0.7480000305175781,0.04421316459774971,Serge Gnabry,a,993,OpenPlay,2018,LeftFoot,10548,Borussia M.Gladbach,Bayern Munich,1,5,2019-03-02 17:30:00,James Rodríguez,Pass
+279722,32,SavedShot,0.8680000305175781,0.6079999923706054,0.46609362959861755,Serge Gnabry,a,993,OpenPlay,2018,RightFoot,10548,Borussia M.Gladbach,Bayern Munich,1,5,2019-03-02 17:30:00,Robert Lewandowski,Throughball
+279725,40,SavedShot,0.925,0.5359999847412109,0.04902154952287674,Javi Martínez,a,225,FromCorner,2018,Head,10548,Borussia M.Gladbach,Bayern Munich,1,5,2019-03-02 17:30:00,James Rodríguez,Aerial
+279727,45,MissedShots,0.8480000305175781,0.3940000152587891,0.08287131786346436,James Rodríguez,a,2249,OpenPlay,2018,LeftFoot,10548,Borussia M.Gladbach,Bayern Munich,1,5,2019-03-02 17:30:00,Robert Lewandowski,Pass
+279728,46,Goal,0.9069999694824219,0.47200000762939454,0.5037310719490051,Robert Lewandowski,a,227,OpenPlay,2018,RightFoot,10548,Borussia M.Gladbach,Bayern Munich,1,5,2019-03-02 17:30:00,Thiago Alcántara,TakeOn
+279731,52,SavedShot,0.87,0.509000015258789,0.13376304507255554,James Rodríguez,a,2249,OpenPlay,2018,LeftFoot,10548,Borussia M.Gladbach,Bayern Munich,1,5,2019-03-02 17:30:00,Serge Gnabry,Pass
+279733,60,BlockedShot,0.92,0.4620000076293945,0.14826427400112152,Robert Lewandowski,a,227,OpenPlay,2018,LeftFoot,10548,Borussia M.Gladbach,Bayern Munich,1,5,2019-03-02 17:30:00,Thiago Alcántara,Pass
+279735,72,BlockedShot,0.9290000152587891,0.45,0.6152809858322144,Robert Lewandowski,a,227,OpenPlay,2018,RightFoot,10548,Borussia M.Gladbach,Bayern Munich,1,5,2019-03-02 17:30:00,Thomas Müller,Throughball
+279736,73,SavedShot,0.925,0.5329999923706055,0.40601038932800293,Robert Lewandowski,a,227,OpenPlay,2018,Head,10548,Borussia M.Gladbach,Bayern Munich,1,5,2019-03-02 17:30:00,Joshua Kimmich,Cross
+279737,74,Goal,0.9680000305175781,0.5420000076293945,0.5415196418762207,Serge Gnabry,a,993,OpenPlay,2018,RightFoot,10548,Borussia M.Gladbach,Bayern Munich,1,5,2019-03-02 17:30:00,,BallTouch
+279738,88,SavedShot,0.8490000152587891,0.3160000038146973,0.06173352524638176,Woo-Yeong Jeong,a,7267,OpenPlay,2018,LeftFoot,10548,Borussia M.Gladbach,Bayern Munich,1,5,2019-03-02 17:30:00,Robert Lewandowski,Pass
+279739,90,Goal,0.885,0.5,0.75777667760849,Robert Lewandowski,a,227,Penalty,2018,RightFoot,10548,Borussia M.Gladbach,Bayern Munich,1,5,2019-03-02 17:30:00,,Standard

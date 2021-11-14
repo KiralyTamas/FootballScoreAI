@@ -1,0 +1,31 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+302897,2,Goal,0.7719999694824219,0.3340000152587891,0.02328522875905037,Ángel Di María,h,3553,OpenPlay,2018,LeftFoot,11009,Paris Saint Germain,Dijon,4,0,2019-05-18 19:00:00,Julian Draxler,Pass
+302898,3,Goal,0.9690000152587891,0.509000015258789,0.6499230265617371,Edinson Cavani,h,3294,OpenPlay,2018,Head,11009,Paris Saint Germain,Dijon,4,0,2019-05-18 19:00:00,Ángel Di María,Chipped
+302899,9,MissedShots,0.8919999694824219,0.345,0.06482335925102234,Ángel Di María,h,3553,OpenPlay,2018,LeftFoot,11009,Paris Saint Germain,Dijon,4,0,2019-05-18 19:00:00,Kylian Mbappe-Lottin,Cross
+302900,9,MissedShots,0.9569999694824218,0.6930000305175781,0.07229700684547424,Kylian Mbappe-Lottin,h,3423,OpenPlay,2018,LeftFoot,11009,Paris Saint Germain,Dijon,4,0,2019-05-18 19:00:00,Julian Draxler,Pass
+302903,18,MissedShots,0.9009999847412109,0.6179999923706054,0.12976081669330597,Kylian Mbappe-Lottin,h,3423,OpenPlay,2018,LeftFoot,11009,Paris Saint Germain,Dijon,4,0,2019-05-18 19:00:00,Edinson Cavani,Pass
+302904,23,BlockedShot,0.9030000305175782,0.669000015258789,0.011319734156131744,Thilo Kehrer,h,2674,FromCorner,2018,Head,11009,Paris Saint Germain,Dijon,4,0,2019-05-18 19:00:00,Julian Draxler,Cross
+302905,24,ShotOnPost,0.9719999694824218,0.5659999847412109,0.37030279636383057,Loïc Mbe Soh,h,7577,FromCorner,2018,Head,11009,Paris Saint Germain,Dijon,4,0,2019-05-18 19:00:00,Thomas Meunier,Aerial
+302906,24,MissedShots,0.6869999694824219,0.4229999923706055,0.013458517380058765,Dani Alves,h,1288,OpenPlay,2018,RightFoot,11009,Paris Saint Germain,Dijon,4,0,2019-05-18 19:00:00,,Rebound
+302910,35,BlockedShot,0.9569999694824218,0.42900001525878906,0.5828837156295776,Edinson Cavani,h,3294,OpenPlay,2018,RightFoot,11009,Paris Saint Germain,Dijon,4,0,2019-05-18 19:00:00,Layvin Kurzawa,Pass
+302911,35,Goal,0.9830000305175781,0.4929999923706055,0.9682853817939758,Kylian Mbappe-Lottin,h,3423,OpenPlay,2018,RightFoot,11009,Paris Saint Germain,Dijon,4,0,2019-05-18 19:00:00,,Rebound
+302912,39,BlockedShot,0.8819999694824219,0.645,0.11180997639894485,Kylian Mbappe-Lottin,h,3423,OpenPlay,2018,RightFoot,11009,Paris Saint Germain,Dijon,4,0,2019-05-18 19:00:00,Layvin Kurzawa,TakeOn
+302915,55,Goal,0.889000015258789,0.6140000152587891,0.5083978176116943,Kylian Mbappe-Lottin,h,3423,OpenPlay,2018,RightFoot,11009,Paris Saint Germain,Dijon,4,0,2019-05-18 19:00:00,Leandro Paredes,Throughball
+302916,57,SavedShot,0.8959999847412109,0.28700000762939454,0.06447973847389221,Thomas Meunier,h,5680,OpenPlay,2018,RightFoot,11009,Paris Saint Germain,Dijon,4,0,2019-05-18 19:00:00,Kylian Mbappe-Lottin,Pass
+302917,57,MissedShots,0.9830000305175781,0.595999984741211,0.03572593256831169,Kylian Mbappe-Lottin,h,3423,FromCorner,2018,Head,11009,Paris Saint Germain,Dijon,4,0,2019-05-18 19:00:00,Ángel Di María,Cross
+302918,64,MissedShots,0.7559999847412109,0.38,0.06155294179916382,Ángel Di María,h,3553,DirectFreekick,2018,LeftFoot,11009,Paris Saint Germain,Dijon,4,0,2019-05-18 19:00:00,,Standard
+302920,74,MissedShots,0.89,0.33099998474121095,0.11614412069320679,Kylian Mbappe-Lottin,h,3423,OpenPlay,2018,RightFoot,11009,Paris Saint Germain,Dijon,4,0,2019-05-18 19:00:00,Julian Draxler,Pass
+302925,87,SavedShot,0.9269999694824219,0.34200000762939453,0.38702863454818726,Kylian Mbappe-Lottin,h,3423,OpenPlay,2018,RightFoot,11009,Paris Saint Germain,Dijon,4,0,2019-05-18 19:00:00,Dani Alves,Throughball
+302901,17,BlockedShot,0.7909999847412109,0.37099998474121093,0.03213125467300415,Wesley Said,a,3799,OpenPlay,2018,LeftFoot,11009,Paris Saint Germain,Dijon,4,0,2019-05-18 19:00:00,Mickaël Alphonse,Pass
+302902,18,BlockedShot,0.8919999694824219,0.5629999923706055,0.03611839562654495,Júlio Tavares,a,5622,OpenPlay,2018,Head,11009,Paris Saint Germain,Dijon,4,0,2019-05-18 19:00:00,Oussama Haddadi,Aerial
+302907,33,BlockedShot,0.7430000305175781,0.54,0.017778335139155388,Kwon Chang-Hoon,a,5625,OpenPlay,2018,LeftFoot,11009,Paris Saint Germain,Dijon,4,0,2019-05-18 19:00:00,Júlio Tavares,TakeOn
+302908,34,SavedShot,0.9180000305175782,0.7019999694824218,0.06316745281219482,Wesley Said,a,3799,OpenPlay,2018,LeftFoot,11009,Paris Saint Germain,Dijon,4,0,2019-05-18 19:00:00,Oussama Haddadi,TakeOn
+302909,34,MissedShots,0.909000015258789,0.62,0.021087782457470894,Cédric Yambéré,a,3257,FromCorner,2018,Head,11009,Paris Saint Germain,Dijon,4,0,2019-05-18 19:00:00,Florent Balmont,Cross
+302913,44,BlockedShot,0.7919999694824219,0.6519999694824219,0.025693614035844803,Wesley Said,a,3799,OpenPlay,2018,RightFoot,11009,Paris Saint Germain,Dijon,4,0,2019-05-18 19:00:00,Kwon Chang-Hoon,Pass
+302914,51,MissedShots,0.8780000305175781,0.6990000152587891,0.08144088089466095,Kwon Chang-Hoon,a,5625,OpenPlay,2018,LeftFoot,11009,Paris Saint Germain,Dijon,4,0,2019-05-18 19:00:00,Júlio Tavares,Chipped
+302919,69,MissedShots,0.8540000152587891,0.5540000152587891,0.013712345622479916,Wesley Lautoa,a,3677,OpenPlay,2018,Head,11009,Paris Saint Germain,Dijon,4,0,2019-05-18 19:00:00,Kwon Chang-Hoon,Cross
+302921,77,MissedShots,0.8469999694824218,0.5479999923706055,0.08821764588356018,Naim Sliti,a,5608,OpenPlay,2018,RightFoot,11009,Paris Saint Germain,Dijon,4,0,2019-05-18 19:00:00,Wesley Said,Pass
+302922,80,SavedShot,0.91,0.29700000762939455,0.053100161254405975,Wesley Said,a,3799,OpenPlay,2018,LeftFoot,11009,Paris Saint Germain,Dijon,4,0,2019-05-18 19:00:00,Mickaël Alphonse,Pass
+302923,82,MissedShots,0.759000015258789,0.44,0.053932156413793564,Naim Sliti,a,5608,OpenPlay,2018,RightFoot,11009,Paris Saint Germain,Dijon,4,0,2019-05-18 19:00:00,Kwon Chang-Hoon,Pass
+302924,86,SavedShot,0.9590000152587891,0.445,0.0715293139219284,Wesley Lautoa,a,3677,FromCorner,2018,Head,11009,Paris Saint Germain,Dijon,4,0,2019-05-18 19:00:00,Naim Sliti,Aerial
+302926,89,MissedShots,0.8690000152587891,0.575999984741211,0.0267948005348444,Júlio Tavares,a,5622,OpenPlay,2018,Head,11009,Paris Saint Germain,Dijon,4,0,2019-05-18 19:00:00,Mickaël Alphonse,Aerial

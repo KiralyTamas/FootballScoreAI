@@ -1,0 +1,25 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+397250,4,BlockedShot,0.9569999694824218,0.38599998474121094,0.02933686040341854,Manuel Lazzari,h,6180,OpenPlay,2020,Head,15580,Lazio,Fiorentina,2,1,2021-01-06 14:00:00,Francesco Acerbi,Aerial
+397251,5,Goal,0.9569999694824218,0.4570000076293945,0.633158802986145,Felipe Caicedo,h,2116,OpenPlay,2020,RightFoot,15580,Lazio,Fiorentina,2,1,2021-01-06 14:00:00,,Rebound
+397252,7,ShotOnPost,0.970999984741211,0.5929999923706055,0.3923119008541107,Adam Marusic,h,6176,OpenPlay,2020,Head,15580,Lazio,Fiorentina,2,1,2021-01-06 14:00:00,Luiz Felipe,Aerial
+397253,9,BlockedShot,0.8480000305175781,0.27299999237060546,0.06206636130809784,Manuel Lazzari,h,6180,OpenPlay,2020,RightFoot,15580,Lazio,Fiorentina,2,1,2021-01-06 14:00:00,Felipe Caicedo,Pass
+397254,12,MissedShots,0.7019999694824218,0.509000015258789,0.017275622114539146,Sergej Milinkovic-Savic,h,1543,OpenPlay,2020,RightFoot,15580,Lazio,Fiorentina,2,1,2021-01-06 14:00:00,Adam Marusic,Pass
+397258,30,BlockedShot,0.91,0.6419999694824219,0.07799746096134186,Adam Marusic,h,6176,OpenPlay,2020,LeftFoot,15580,Lazio,Fiorentina,2,1,2021-01-06 14:00:00,Felipe Caicedo,TakeOn
+397259,33,BlockedShot,0.8,0.6880000305175781,0.07158777862787247,Sergej Milinkovic-Savic,h,1543,DirectFreekick,2020,RightFoot,15580,Lazio,Fiorentina,2,1,2021-01-06 14:00:00,,Standard
+397260,35,BlockedShot,0.7980000305175782,0.5459999847412109,0.04475647583603859,Sergej Milinkovic-Savic,h,1543,OpenPlay,2020,RightFoot,15580,Lazio,Fiorentina,2,1,2021-01-06 14:00:00,Luis Alberto,Pass
+397264,63,MissedShots,0.6909999847412109,0.7230000305175781,0.010670679621398449,Luis Alberto,h,1219,SetPiece,2020,RightFoot,15580,Lazio,Fiorentina,2,1,2021-01-06 14:00:00,Adam Marusic,Pass
+397266,74,BlockedShot,0.9730000305175781,0.6609999847412109,0.07391559332609177,Adam Marusic,h,6176,OpenPlay,2020,LeftFoot,15580,Lazio,Fiorentina,2,1,2021-01-06 14:00:00,Jean-Daniel Akpa-Akpro,Chipped
+397267,74,Goal,0.9730000305175781,0.41,0.4326140284538269,Ciro Immobile,h,1209,FromCorner,2020,RightFoot,15580,Lazio,Fiorentina,2,1,2021-01-06 14:00:00,,None
+397269,77,MissedShots,0.735,0.6780000305175782,0.017996057868003845,Ciro Immobile,h,1209,OpenPlay,2020,RightFoot,15580,Lazio,Fiorentina,2,1,2021-01-06 14:00:00,Luis Alberto,Pass
+397271,85,SavedShot,0.879000015258789,0.6869999694824219,0.07379775494337082,Ciro Immobile,h,1209,OpenPlay,2020,RightFoot,15580,Lazio,Fiorentina,2,1,2021-01-06 14:00:00,Jean-Daniel Akpa-Akpro,Pass
+397255,20,SavedShot,0.9540000152587891,0.5690000152587891,0.11366669833660126,Gaetano Castrovilli,a,7909,OpenPlay,2020,RightFoot,15580,Lazio,Fiorentina,2,1,2021-01-06 14:00:00,Cristiano Biraghi,Cross
+397256,27,SavedShot,0.835,0.7230000305175781,0.02533666417002678,Dusan Vlahovic,a,7084,OpenPlay,2020,LeftFoot,15580,Lazio,Fiorentina,2,1,2021-01-06 14:00:00,Gaetano Castrovilli,Pass
+397257,27,BlockedShot,0.8719999694824219,0.3940000152587891,0.011737816035747528,Lucas Martínez Quarta,a,9019,FromCorner,2020,Head,15580,Lazio,Fiorentina,2,1,2021-01-06 14:00:00,Cristiano Biraghi,Aerial
+397261,46,MissedShots,0.9290000152587891,0.4759999847412109,0.15581010282039642,Lucas Martínez Quarta,a,9019,FromCorner,2020,Head,15580,Lazio,Fiorentina,2,1,2021-01-06 14:00:00,Cristiano Biraghi,End
+397262,51,SavedShot,0.9630000305175781,0.49599998474121093,0.5328999161720276,Igor Julio,a,7943,FromCorner,2020,LeftFoot,15580,Lazio,Fiorentina,2,1,2021-01-06 14:00:00,Cristiano Biraghi,Cross
+397263,60,BlockedShot,0.874000015258789,0.4279999923706055,0.012673219665884972,Lucas Martínez Quarta,a,9019,FromCorner,2020,Head,15580,Lazio,Fiorentina,2,1,2021-01-06 14:00:00,Cristiano Biraghi,Aerial
+397265,70,MissedShots,0.8719999694824219,0.539000015258789,0.04049999266862869,Giacomo Bonaventura,a,1121,SetPiece,2020,Head,15580,Lazio,Fiorentina,2,1,2021-01-06 14:00:00,Cristiano Biraghi,Cross
+397268,77,BlockedShot,0.8980000305175782,0.3990000152587891,0.047177284955978394,Gaetano Castrovilli,a,7909,FromCorner,2020,LeftFoot,15580,Lazio,Fiorentina,2,1,2021-01-06 14:00:00,Cristiano Biraghi,Cross
+397270,83,BlockedShot,0.950999984741211,0.6819999694824219,0.059918422251939774,Dusan Vlahovic,a,7084,OpenPlay,2020,LeftFoot,15580,Lazio,Fiorentina,2,1,2021-01-06 14:00:00,Christian Kouamé,Pass
+397272,87,Goal,0.885,0.5,0.7612988352775574,Dusan Vlahovic,a,7084,Penalty,2020,LeftFoot,15580,Lazio,Fiorentina,2,1,2021-01-06 14:00:00,,Standard
+397273,93,SavedShot,0.7340000152587891,0.56,0.011811518110334873,Sofyan Amrabat,a,7927,SetPiece,2020,RightFoot,15580,Lazio,Fiorentina,2,1,2021-01-06 14:00:00,,None

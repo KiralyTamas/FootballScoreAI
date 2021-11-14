@@ -1,0 +1,32 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+369874,18,BlockedShot,0.9,0.544000015258789,0.3364656865596771,Leandro Trossard,h,7698,OpenPlay,2019,RightFoot,11976,Brighton,Liverpool,1,3,2020-07-08 19:15:00,,None
+369876,26,SavedShot,0.9640000152587891,0.5790000152587891,0.4836772382259369,Neal Maupay,h,3621,OpenPlay,2019,LeftFoot,11976,Brighton,Liverpool,1,3,2020-07-08 19:15:00,Leandro Trossard,Cross
+369878,33,BlockedShot,0.855,0.4279999923706055,0.08414210379123688,Neal Maupay,h,3621,OpenPlay,2019,LeftFoot,11976,Brighton,Liverpool,1,3,2020-07-08 19:15:00,Davy Pröpper,Pass
+369879,34,BlockedShot,0.850999984741211,0.5870000076293945,0.08696000277996063,Leandro Trossard,h,7698,OpenPlay,2019,RightFoot,11976,Brighton,Liverpool,1,3,2020-07-08 19:15:00,Neal Maupay,Pass
+369880,36,MissedShots,0.815,0.5629999923706055,0.03525110334157944,Dale Stephens,h,6051,FromCorner,2019,LeftFoot,11976,Brighton,Liverpool,1,3,2020-07-08 19:15:00,,None
+369882,44,Goal,0.895,0.505,0.2812747359275818,Leandro Trossard,h,7698,OpenPlay,2019,RightFoot,11976,Brighton,Liverpool,1,3,2020-07-08 19:15:00,Tariq Lamptey,Cross
+369884,48,MissedShots,0.7019999694824218,0.32599998474121095,0.012434895150363445,Tariq Lamptey,h,8226,OpenPlay,2019,RightFoot,11976,Brighton,Liverpool,1,3,2020-07-08 19:15:00,Alexis Mac Allister,Pass
+369888,59,MissedShots,0.909000015258789,0.40799999237060547,0.047498881816864014,Davy Pröpper,h,6050,FromCorner,2019,Head,11976,Brighton,Liverpool,1,3,2020-07-08 19:15:00,Pascal Groß,Cross
+369889,59,MissedShots,0.9359999847412109,0.54,0.5220364332199097,Dan Burn,h,7382,FromCorner,2019,LeftFoot,11976,Brighton,Liverpool,1,3,2020-07-08 19:15:00,Davy Pröpper,Rebound
+369891,73,MissedShots,0.9619999694824218,0.5070000076293946,0.1365634948015213,Lewis Dunk,h,6048,FromCorner,2019,Head,11976,Brighton,Liverpool,1,3,2020-07-08 19:15:00,Aaron Mooy,Cross
+369894,84,MissedShots,0.8919999694824219,0.49599998474121093,0.3336651623249054,Leandro Trossard,h,7698,OpenPlay,2019,RightFoot,11976,Brighton,Liverpool,1,3,2020-07-08 19:15:00,Dale Stephens,Throughball
+369896,86,MissedShots,0.9390000152587891,0.685,0.029430026188492775,Aaron Connolly,h,7991,OpenPlay,2019,LeftFoot,11976,Brighton,Liverpool,1,3,2020-07-08 19:15:00,Yves Bissouma,TakeOn
+369869,3,BlockedShot,0.835,0.37099998474121093,0.04902297258377075,Roberto Firmino,a,482,OpenPlay,2019,RightFoot,11976,Brighton,Liverpool,1,3,2020-07-08 19:15:00,,None
+369870,5,Goal,0.9059999847412109,0.42200000762939455,0.4088112413883209,Mohamed Salah,a,1250,OpenPlay,2019,LeftFoot,11976,Brighton,Liverpool,1,3,2020-07-08 19:15:00,Naby Keita,Pass
+369871,7,Goal,0.774000015258789,0.46799999237060547,0.04412608966231346,Jordan Henderson,a,605,OpenPlay,2019,RightFoot,11976,Brighton,Liverpool,1,3,2020-07-08 19:15:00,Mohamed Salah,BallTouch
+369872,10,BlockedShot,0.8430000305175781,0.755,0.04868381470441818,Neco Williams,a,8204,OpenPlay,2019,RightFoot,11976,Brighton,Liverpool,1,3,2020-07-08 19:15:00,Trent Alexander-Arnold,Chipped
+369873,13,SavedShot,0.9419999694824219,0.32799999237060545,0.1358691155910492,Mohamed Salah,a,1250,OpenPlay,2019,RightFoot,11976,Brighton,Liverpool,1,3,2020-07-08 19:15:00,Naby Keita,Throughball
+369875,26,MissedShots,0.8690000152587891,0.28,0.02482341229915619,Alex Oxlade-Chamberlain,a,966,FromCorner,2019,RightFoot,11976,Brighton,Liverpool,1,3,2020-07-08 19:15:00,,None
+369877,30,SavedShot,0.905,0.500999984741211,0.14412297308444977,Roberto Firmino,a,482,OpenPlay,2019,RightFoot,11976,Brighton,Liverpool,1,3,2020-07-08 19:15:00,Alex Oxlade-Chamberlain,Throughball
+369881,38,MissedShots,0.8690000152587891,0.325,0.07043718546628952,Mohamed Salah,a,1250,OpenPlay,2019,LeftFoot,11976,Brighton,Liverpool,1,3,2020-07-08 19:15:00,Naby Keita,Pass
+369883,46,BlockedShot,0.8630000305175781,0.6880000305175781,0.06118977069854736,Alex Oxlade-Chamberlain,a,966,OpenPlay,2019,RightFoot,11976,Brighton,Liverpool,1,3,2020-07-08 19:15:00,Roberto Firmino,Pass
+369885,53,SavedShot,0.9269999694824219,0.3840000152587891,0.4285259246826172,Mohamed Salah,a,1250,OpenPlay,2019,LeftFoot,11976,Brighton,Liverpool,1,3,2020-07-08 19:15:00,Naby Keita,Pass
+369886,56,BlockedShot,0.835,0.48900001525878906,0.09088905900716782,Alex Oxlade-Chamberlain,a,966,OpenPlay,2019,RightFoot,11976,Brighton,Liverpool,1,3,2020-07-08 19:15:00,Mohamed Salah,Pass
+369887,58,SavedShot,0.8690000152587891,0.28100000381469725,0.03264148533344269,Jordan Henderson,a,605,OpenPlay,2019,RightFoot,11976,Brighton,Liverpool,1,3,2020-07-08 19:15:00,Andrew Robertson,Chipped
+369890,62,BlockedShot,0.950999984741211,0.6409999847412109,0.18928200006484985,Mohamed Salah,a,1250,OpenPlay,2019,LeftFoot,11976,Brighton,Liverpool,1,3,2020-07-08 19:15:00,Fabinho,TakeOn
+369892,74,BlockedShot,0.8190000152587891,0.5620000076293945,0.06418515741825104,Jordan Henderson,a,605,OpenPlay,2019,RightFoot,11976,Brighton,Liverpool,1,3,2020-07-08 19:15:00,Sadio Mané,Pass
+369893,75,Goal,0.9330000305175781,0.375,0.02376178652048111,Mohamed Salah,a,1250,FromCorner,2019,Head,11976,Brighton,Liverpool,1,3,2020-07-08 19:15:00,Andrew Robertson,Cross
+369895,85,MissedShots,0.965999984741211,0.5570000076293945,0.10482092201709747,Georginio Wijnaldum,a,771,SetPiece,2019,Head,11976,Brighton,Liverpool,1,3,2020-07-08 19:15:00,Virgil van Dijk,Aerial
+369897,92,MissedShots,0.8480000305175781,0.63,0.07825472205877304,Sadio Mané,a,838,OpenPlay,2019,RightFoot,11976,Brighton,Liverpool,1,3,2020-07-08 19:15:00,Andrew Robertson,Pass
+369898,93,SavedShot,0.9619999694824218,0.6220000076293946,0.43784600496292114,Mohamed Salah,a,1250,OpenPlay,2019,RightFoot,11976,Brighton,Liverpool,1,3,2020-07-08 19:15:00,,None
+369899,95,MissedShots,0.93,0.4109999847412109,0.17894607782363892,Mohamed Salah,a,1250,OpenPlay,2019,Head,11976,Brighton,Liverpool,1,3,2020-07-08 19:15:00,Andrew Robertson,Cross

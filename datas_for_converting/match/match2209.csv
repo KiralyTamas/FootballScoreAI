@@ -1,0 +1,22 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+67782,10,Goal,0.92,0.4909999847412109,0.5563153028488159,Valère Germain,h,3309,OpenPlay,2015,RightFoot,2209,Nice,Reims,2,0,2016-04-22 22:30:00,Hatem Ben Arfa,Throughball
+67783,14,SavedShot,0.88,0.5359999847412109,0.04944077506661415,Valère Germain,h,3309,SetPiece,2015,Head,2209,Nice,Reims,2,0,2016-04-22 22:30:00,Hatem Ben Arfa,Chipped
+67785,34,SavedShot,0.9,0.355,0.3092682659626007,Hatem Ben Arfa,h,3638,OpenPlay,2015,LeftFoot,2209,Nice,Reims,2,0,2016-04-22 22:30:00,Valère Germain,HeadPass
+67786,37,BlockedShot,0.9359999847412109,0.67,0.11234831809997559,Hatem Ben Arfa,h,3638,OpenPlay,2015,LeftFoot,2209,Nice,Reims,2,0,2016-04-22 22:30:00,Jean Michael Seri,TakeOn
+67787,40,MissedShots,0.875999984741211,0.639000015258789,0.092915840446949,Alassane Pléa,h,3310,OpenPlay,2015,LeftFoot,2209,Nice,Reims,2,0,2016-04-22 22:30:00,Hatem Ben Arfa,Pass
+67789,48,BlockedShot,0.845999984741211,0.524000015258789,0.0262247696518898,Vincent Koziello,h,3307,FromCorner,2015,RightFoot,2209,Nice,Reims,2,0,2016-04-22 22:30:00,,Aerial
+67790,49,MissedShots,0.8230000305175781,0.43099998474121093,0.07351461052894592,Alassane Pléa,h,3310,OpenPlay,2015,RightFoot,2209,Nice,Reims,2,0,2016-04-22 22:30:00,Vincent Koziello,Chipped
+67791,55,Goal,0.885,0.5,0.7600951194763184,Hatem Ben Arfa,h,3638,Penalty,2015,LeftFoot,2209,Nice,Reims,2,0,2016-04-22 22:30:00,,Standard
+67799,89,SavedShot,0.769000015258789,0.39599998474121095,0.02848191000521183,Jean Michael Seri,h,3312,OpenPlay,2015,RightFoot,2209,Nice,Reims,2,0,2016-04-22 22:30:00,Valère Germain,Pass
+67800,93,BlockedShot,0.8380000305175781,0.4909999847412109,0.0772072821855545,Remi Walter,h,3306,OpenPlay,2015,RightFoot,2209,Nice,Reims,2,0,2016-04-22 22:30:00,,None
+67781,3,SavedShot,0.805,0.5220000076293946,0.04748484119772911,Gaëtan Charbonnier,a,3243,OpenPlay,2015,RightFoot,2209,Nice,Reims,2,0,2016-04-22 22:30:00,Nicolas de Preville,Pass
+67784,28,MissedShots,0.755,0.710999984741211,0.009867551736533642,Atila Turan,a,3596,OpenPlay,2015,LeftFoot,2209,Nice,Reims,2,0,2016-04-22 22:30:00,,Aerial
+67788,43,BlockedShot,0.925,0.7030000305175781,0.03040342964231968,Atila Turan,a,3596,OpenPlay,2015,LeftFoot,2209,Nice,Reims,2,0,2016-04-22 22:30:00,Hamari Traore,Cross
+67792,61,MissedShots,0.88,0.40400001525878904,0.2845149338245392,Nicolas de Preville,a,3244,OpenPlay,2015,Head,2209,Nice,Reims,2,0,2016-04-22 22:30:00,Gaëtan Charbonnier,Chipped
+67793,70,BlockedShot,0.865,0.41200000762939454,0.07207512855529785,Nicolas de Preville,a,3244,OpenPlay,2015,LeftFoot,2209,Nice,Reims,2,0,2016-04-22 22:30:00,Gaëtan Charbonnier,Challenge
+67794,70,SavedShot,0.88,0.37599998474121094,0.054986193776130676,Nicolas de Preville,a,3244,OpenPlay,2015,RightFoot,2209,Nice,Reims,2,0,2016-04-22 22:30:00,,None
+67795,76,MissedShots,0.9009999847412109,0.37599998474121094,0.03701695054769516,Grejohn Kyei,a,3663,OpenPlay,2015,RightFoot,2209,Nice,Reims,2,0,2016-04-22 22:30:00,Hamari Traore,Cross
+67796,85,SavedShot,0.88,0.6409999847412109,0.08950577676296234,Grejohn Kyei,a,3663,OpenPlay,2015,RightFoot,2209,Nice,Reims,2,0,2016-04-22 22:30:00,Gaëtan Charbonnier,Throughball
+67797,85,MissedShots,0.9230000305175782,0.48200000762939454,0.05132031813263893,Grejohn Kyei,a,3663,FromCorner,2015,Head,2209,Nice,Reims,2,0,2016-04-22 22:30:00,Nicolas de Preville,Aerial
+67798,85,MissedShots,0.745,0.4470000076293945,0.017981821671128273,Nicolas de Preville,a,3244,OpenPlay,2015,LeftFoot,2209,Nice,Reims,2,0,2016-04-22 22:30:00,,BallRecovery
+67801,94,SavedShot,0.8580000305175781,0.3920000076293945,0.09077134728431702,Nicolas de Preville,a,3244,OpenPlay,2015,RightFoot,2209,Nice,Reims,2,0,2016-04-22 22:30:00,Prince Oniangué,TakeOn

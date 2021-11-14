@@ -1,0 +1,31 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+257338,1,SavedShot,0.7180000305175781,0.4929999923706055,0.015411745756864548,Kevin Kampl,h,188,OpenPlay,2018,LeftFoot,10465,RasenBallsport Leipzig,Mainz 05,4,1,2018-12-16 14:30:00,,BallRecovery
+257340,3,BlockedShot,0.91,0.32799999237060545,0.06752695888280869,Marcel Sabitzer,h,5248,OpenPlay,2018,RightFoot,10465,RasenBallsport Leipzig,Mainz 05,4,1,2018-12-16 14:30:00,Lukas Klostermann,BallTouch
+257341,4,MissedShots,0.9390000152587891,0.49700000762939456,0.43116429448127747,Marcel Halstenberg,h,5254,FromCorner,2018,Head,10465,RasenBallsport Leipzig,Mainz 05,4,1,2018-12-16 14:30:00,Kevin Kampl,Cross
+257343,12,SavedShot,0.9159999847412109,0.5770000076293945,0.019176553934812546,Willi Orban,h,5257,FromCorner,2018,Head,10465,RasenBallsport Leipzig,Mainz 05,4,1,2018-12-16 14:30:00,Kevin Kampl,Aerial
+257344,13,Goal,0.8919999694824219,0.44299999237060544,0.0835539698600769,Yussuf Poulsen,h,5250,OpenPlay,2018,RightFoot,10465,RasenBallsport Leipzig,Mainz 05,4,1,2018-12-16 14:30:00,Kevin Kampl,Cross
+257345,18,Goal,0.9630000305175781,0.5179999923706055,0.7445797324180603,Yussuf Poulsen,h,5250,OpenPlay,2018,LeftFoot,10465,RasenBallsport Leipzig,Mainz 05,4,1,2018-12-16 14:30:00,Timo Werner,Pass
+257346,21,MissedShots,0.8590000152587891,0.639000015258789,0.09616702795028687,Kevin Kampl,h,188,OpenPlay,2018,RightFoot,10465,RasenBallsport Leipzig,Mainz 05,4,1,2018-12-16 14:30:00,Yussuf Poulsen,Pass
+257348,29,BlockedShot,0.8919999694824219,0.5570000076293945,0.13880184292793274,Yussuf Poulsen,h,5250,OpenPlay,2018,LeftFoot,10465,RasenBallsport Leipzig,Mainz 05,4,1,2018-12-16 14:30:00,Marcel Halstenberg,Throughball
+257355,48,MissedShots,0.9319999694824219,0.47,0.4392154812812805,Willi Orban,h,5257,OpenPlay,2018,Head,10465,RasenBallsport Leipzig,Mainz 05,4,1,2018-12-16 14:30:00,Diego Demme,Cross
+257356,54,BlockedShot,0.7930000305175782,0.31,0.07058067619800568,Marcel Sabitzer,h,5248,DirectFreekick,2018,RightFoot,10465,RasenBallsport Leipzig,Mainz 05,4,1,2018-12-16 14:30:00,,Standard
+257357,57,MissedShots,0.9569999694824218,0.735,0.033197108656167984,Marcel Sabitzer,h,5248,SetPiece,2018,LeftFoot,10465,RasenBallsport Leipzig,Mainz 05,4,1,2018-12-16 14:30:00,,None
+257358,62,MissedShots,0.9540000152587891,0.5779999923706055,0.38360795378685,Willi Orban,h,5257,SetPiece,2018,LeftFoot,10465,RasenBallsport Leipzig,Mainz 05,4,1,2018-12-16 14:30:00,Marcel Halstenberg,Chipped
+257359,70,SavedShot,0.9069999694824219,0.23600000381469727,0.036468617618083954,Timo Werner,h,65,OpenPlay,2018,RightFoot,10465,RasenBallsport Leipzig,Mainz 05,4,1,2018-12-16 14:30:00,Marcel Sabitzer,Pass
+257361,73,Goal,0.9230000305175782,0.42700000762939455,0.8078768253326416,Timo Werner,h,65,OpenPlay,2018,RightFoot,10465,RasenBallsport Leipzig,Mainz 05,4,1,2018-12-16 14:30:00,Diego Demme,TakeOn
+257362,76,MissedShots,0.9019999694824219,0.3629999923706055,0.030542325228452682,Timo Werner,h,65,SetPiece,2018,RightFoot,10465,RasenBallsport Leipzig,Mainz 05,4,1,2018-12-16 14:30:00,,Aerial
+257363,76,MissedShots,0.9169999694824219,0.5709999847412109,0.1170232743024826,Dayotchanculle Upamecano,h,5243,SetPiece,2018,RightFoot,10465,RasenBallsport Leipzig,Mainz 05,4,1,2018-12-16 14:30:00,Timo Werner,Rebound
+257365,81,MissedShots,0.9780000305175781,0.46599998474121096,0.8668014407157898,Konrad Laimer,h,6109,OpenPlay,2018,RightFoot,10465,RasenBallsport Leipzig,Mainz 05,4,1,2018-12-16 14:30:00,,None
+257367,87,Goal,0.8730000305175781,0.6669999694824219,0.09724293649196625,Timo Werner,h,65,OpenPlay,2018,RightFoot,10465,RasenBallsport Leipzig,Mainz 05,4,1,2018-12-16 14:30:00,Yussuf Poulsen,TakeOn
+257339,2,SavedShot,0.8109999847412109,0.4929999923706055,0.056816257536411285,Danny Latza,a,43,OpenPlay,2018,RightFoot,10465,RasenBallsport Leipzig,Mainz 05,4,1,2018-12-16 14:30:00,Jean-Philippe Mateta,BallTouch
+257342,8,SavedShot,0.909000015258789,0.4779999923706055,0.2704795300960541,Stefan Bell,a,40,SetPiece,2018,Head,10465,RasenBallsport Leipzig,Mainz 05,4,1,2018-12-16 14:30:00,Aarón Martín,Cross
+257347,24,BlockedShot,0.799000015258789,0.6969999694824218,0.022204125300049782,Robin Quaison,a,1275,OpenPlay,2018,RightFoot,10465,RasenBallsport Leipzig,Mainz 05,4,1,2018-12-16 14:30:00,Danny Latza,Pass
+257349,32,MissedShots,0.9130000305175782,0.47,0.09476971626281738,Jean-Philippe Mateta,a,5735,FromCorner,2018,RightFoot,10465,RasenBallsport Leipzig,Mainz 05,4,1,2018-12-16 14:30:00,Moussa Niakhate,BallTouch
+257350,32,SavedShot,0.94,0.6469999694824219,0.07173371315002441,Karim Onisiwo,a,2631,FromCorner,2018,LeftFoot,10465,RasenBallsport Leipzig,Mainz 05,4,1,2018-12-16 14:30:00,,Rebound
+257351,32,MissedShots,0.855999984741211,0.4779999923706055,0.07599660754203796,Jean-Philippe Gbamin,a,4764,FromCorner,2018,RightFoot,10465,RasenBallsport Leipzig,Mainz 05,4,1,2018-12-16 14:30:00,,Rebound
+257352,37,Goal,0.9430000305175781,0.5029999923706054,0.4864354133605957,Karim Onisiwo,a,2631,OpenPlay,2018,Head,10465,RasenBallsport Leipzig,Mainz 05,4,1,2018-12-16 14:30:00,Levin Öztunali,Cross
+257353,40,BlockedShot,0.9030000305175782,0.46599998474121096,0.034893155097961426,Jean-Philippe Mateta,a,5735,FromCorner,2018,Head,10465,RasenBallsport Leipzig,Mainz 05,4,1,2018-12-16 14:30:00,Aarón Martín,BallTouch
+257354,40,SavedShot,0.8680000305175781,0.3320000076293945,0.047642782330513,Jean-Philippe Mateta,a,5735,OpenPlay,2018,RightFoot,10465,RasenBallsport Leipzig,Mainz 05,4,1,2018-12-16 14:30:00,,Tackle
+257360,72,MissedShots,0.7480000305175781,0.4879999923706055,0.06772620975971222,Daniel Brosinski,a,38,DirectFreekick,2018,RightFoot,10465,RasenBallsport Leipzig,Mainz 05,4,1,2018-12-16 14:30:00,,Standard
+257364,80,MissedShots,0.730999984741211,0.47299999237060547,0.011510228738188744,Stefan Bell,a,40,OpenPlay,2018,RightFoot,10465,RasenBallsport Leipzig,Mainz 05,4,1,2018-12-16 14:30:00,,None
+257366,83,MissedShots,0.91,0.4640000152587891,0.11705635488033295,Jean-Philippe Mateta,a,5735,OpenPlay,2018,Head,10465,RasenBallsport Leipzig,Mainz 05,4,1,2018-12-16 14:30:00,Daniel Brosinski,Cross

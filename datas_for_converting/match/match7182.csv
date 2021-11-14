@@ -1,0 +1,25 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+160352,16,BlockedShot,0.879000015258789,0.4640000152587891,0.08892249315977097,Matt Phillips,h,1737,OpenPlay,2017,LeftFoot,7182,West Bromwich Albion,Watford,2,2,2017-09-30 15:00:00,,None
+160353,17,Goal,0.9769999694824218,0.6090000152587891,0.3279774785041809,Salomón Rondón,h,813,OpenPlay,2017,LeftFoot,7182,West Bromwich Albion,Watford,2,2,2017-09-30 15:00:00,Grzegorz Krychowiak,TakeOn
+160354,20,Goal,0.9869999694824219,0.47200000762939454,0.7728390097618103,Jonny Evans,h,807,FromCorner,2017,Head,7182,West Bromwich Albion,Watford,2,2,2017-09-30 15:00:00,,None
+160355,27,MissedShots,0.879000015258789,0.7169999694824218,0.05148515850305557,Jay Rodriguez,h,844,OpenPlay,2017,LeftFoot,7182,West Bromwich Albion,Watford,2,2,2017-09-30 15:00:00,Chris Brunt,Pass
+160357,31,MissedShots,0.97,0.544000015258789,0.49134886264801025,Ahmed Hegazy,h,3979,FromCorner,2017,Head,7182,West Bromwich Albion,Watford,2,2,2017-09-30 15:00:00,Chris Brunt,Cross
+160365,49,SavedShot,0.87,0.7090000152587891,0.027121856808662415,Matt Phillips,h,1737,FromCorner,2017,RightFoot,7182,West Bromwich Albion,Watford,2,2,2017-09-30 15:00:00,,None
+160369,61,MissedShots,0.705,0.5279999923706055,0.017070509493350983,Jay Rodriguez,h,844,OpenPlay,2017,RightFoot,7182,West Bromwich Albion,Watford,2,2,2017-09-30 15:00:00,,BallRecovery
+160372,72,SavedShot,0.759000015258789,0.44099998474121094,0.030248984694480896,James McClean,h,814,OpenPlay,2017,LeftFoot,7182,West Bromwich Albion,Watford,2,2,2017-09-30 15:00:00,Hal Robson-Kanu,Pass
+160374,91,BlockedShot,0.8490000152587891,0.495,0.13194142282009125,James McClean,h,814,OpenPlay,2017,LeftFoot,7182,West Bromwich Albion,Watford,2,2,2017-09-30 15:00:00,Hal Robson-Kanu,Pass
+160356,29,SavedShot,0.94,0.6759999847412109,0.01729005202651024,Richarlison,a,6026,OpenPlay,2017,Head,7182,West Bromwich Albion,Watford,2,2,2017-09-30 15:00:00,Adrian Mariappa,Chipped
+160358,32,MissedShots,0.919000015258789,0.5670000076293945,0.10686998814344406,Richarlison,a,6026,OpenPlay,2017,RightFoot,7182,West Bromwich Albion,Watford,2,2,2017-09-30 15:00:00,Troy Deeney,Pass
+160359,32,MissedShots,0.96,0.47200000762939454,0.6505359411239624,André Carrillo,a,6230,OpenPlay,2017,Head,7182,West Bromwich Albion,Watford,2,2,2017-09-30 15:00:00,Richarlison,Rebound
+160360,35,MissedShots,0.9159999847412109,0.4540000152587891,0.11107031255960464,Adrian Mariappa,a,524,SetPiece,2017,Head,7182,West Bromwich Albion,Watford,2,2,2017-09-30 15:00:00,Tom Cleverley,Cross
+160361,36,Goal,0.8519999694824218,0.6409999847412109,0.06545217335224152,Abdoulaye Doucouré,a,1726,OpenPlay,2017,LeftFoot,7182,West Bromwich Albion,Watford,2,2,2017-09-30 15:00:00,Richarlison,Pass
+160362,40,BlockedShot,0.7390000152587891,0.4470000076293945,0.017880037426948547,Etienne Capoue,a,572,OpenPlay,2017,RightFoot,7182,West Bromwich Albion,Watford,2,2,2017-09-30 15:00:00,Tom Cleverley,Pass
+160363,40,MissedShots,0.92,0.5520000076293945,0.03956480324268341,Richarlison,a,6026,OpenPlay,2017,Head,7182,West Bromwich Albion,Watford,2,2,2017-09-30 15:00:00,Etienne Capoue,Aerial
+160364,44,MissedShots,0.769000015258789,0.705999984741211,0.01143614575266838,Richarlison,a,6026,OpenPlay,2017,RightFoot,7182,West Bromwich Albion,Watford,2,2,2017-09-30 15:00:00,Tom Cleverley,Chipped
+160366,52,BlockedShot,0.7609999847412109,0.585,0.02268834598362446,Etienne Capoue,a,572,OpenPlay,2017,LeftFoot,7182,West Bromwich Albion,Watford,2,2,2017-09-30 15:00:00,,None
+160367,55,BlockedShot,0.7140000152587891,0.5979999923706054,0.013185817748308182,Etienne Capoue,a,572,OpenPlay,2017,RightFoot,7182,West Bromwich Albion,Watford,2,2,2017-09-30 15:00:00,,None
+160368,60,BlockedShot,0.805,0.63,0.03729516640305519,Richarlison,a,6026,OpenPlay,2017,RightFoot,7182,West Bromwich Albion,Watford,2,2,2017-09-30 15:00:00,Abdoulaye Doucouré,Pass
+160370,63,BlockedShot,0.8,0.5420000076293945,0.04545382410287857,Roberto Pereyra,a,1723,OpenPlay,2017,RightFoot,7182,West Bromwich Albion,Watford,2,2,2017-09-30 15:00:00,Abdoulaye Doucouré,Pass
+160371,70,MissedShots,0.9159999847412109,0.40400001525878904,0.03453914448618889,Richarlison,a,6026,OpenPlay,2017,Head,7182,West Bromwich Albion,Watford,2,2,2017-09-30 15:00:00,Abdoulaye Doucouré,Chipped
+160373,79,BlockedShot,0.855999984741211,0.425,0.060543742030858994,Andre Gray,a,1660,OpenPlay,2017,RightFoot,7182,West Bromwich Albion,Watford,2,2,2017-09-30 15:00:00,,BallTouch
+160375,94,Goal,0.94,0.4779999923706055,0.46033239364624023,Richarlison,a,6026,SetPiece,2017,Head,7182,West Bromwich Albion,Watford,2,2,2017-09-30 15:00:00,José Holebas,Cross

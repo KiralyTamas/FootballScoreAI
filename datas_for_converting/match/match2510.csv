@@ -1,0 +1,33 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+74187,11,MissedShots,0.8419999694824218,0.705999984741211,0.015147000551223755,Batraz Khadartsev,h,2956,OpenPlay,2015,RightFoot,2510,Anzhi Makhachkala,Spartak Moscow,0,4,2016-03-18 20:30:00,Lorenzo Ebecilio,Chipped
+74189,21,MissedShots,0.8090000152587891,0.825999984741211,0.012761448509991169,Bernard Berisha,h,2946,OpenPlay,2015,RightFoot,2510,Anzhi Makhachkala,Spartak Moscow,0,4,2016-03-18 20:30:00,,None
+74197,34,MissedShots,0.73,0.2520000076293945,0.010549252852797508,Batraz Khadartsev,h,2956,OpenPlay,2015,RightFoot,2510,Anzhi Makhachkala,Spartak Moscow,0,4,2016-03-18 20:30:00,Jonathan Mensah,Pass
+74199,47,SavedShot,0.7559999847412109,0.4929999923706055,0.02475947141647339,Yannick Boli,h,2948,OpenPlay,2015,RightFoot,2510,Anzhi Makhachkala,Spartak Moscow,0,4,2016-03-18 20:30:00,Islamnur Abdulavov,Pass
+74200,47,BlockedShot,0.945,0.675,0.03255728259682655,Bernard Berisha,h,2946,OpenPlay,2015,LeftFoot,2510,Anzhi Makhachkala,Spartak Moscow,0,4,2016-03-18 20:30:00,,Rebound
+74201,51,MissedShots,0.659000015258789,0.6759999847412109,0.007480204105377197,Lorenzo Ebecilio,h,2943,OpenPlay,2015,RightFoot,2510,Anzhi Makhachkala,Spartak Moscow,0,4,2016-03-18 20:30:00,Jonathan Mensah,Pass
+74203,59,MissedShots,0.9580000305175781,0.33599998474121096,0.044211167842149734,Islamnur Abdulavov,h,2947,OpenPlay,2015,RightFoot,2510,Anzhi Makhachkala,Spartak Moscow,0,4,2016-03-18 20:30:00,Kamil Agalarov,Chipped
+74208,71,BlockedShot,0.675,0.5429999923706055,0.02949148789048195,Lorenzo Ebecilio,h,2943,DirectFreekick,2015,RightFoot,2510,Anzhi Makhachkala,Spartak Moscow,0,4,2016-03-18 20:30:00,,Standard
+74214,88,BlockedShot,0.874000015258789,0.2620000076293945,0.034531816840171814,Islamnur Abdulavov,h,2947,OpenPlay,2015,RightFoot,2510,Anzhi Makhachkala,Spartak Moscow,0,4,2016-03-18 20:30:00,Shamil Gasanov,Pass
+74215,89,MissedShots,0.9290000152587891,0.44799999237060545,0.03959455341100693,Alexander Zhirov,h,2939,FromCorner,2015,Head,2510,Anzhi Makhachkala,Spartak Moscow,0,4,2016-03-18 20:30:00,Lorenzo Ebecilio,Aerial
+74216,92,MissedShots,0.7730000305175782,0.664000015258789,0.012202308513224125,Alexander Zhirov,h,2939,OpenPlay,2015,LeftFoot,2510,Anzhi Makhachkala,Spartak Moscow,0,4,2016-03-18 20:30:00,Anvar Gazimagomedov,Pass
+74185,2,SavedShot,0.7380000305175781,0.6669999694824219,0.015194850042462349,Dmitri Kombarov,a,2821,OpenPlay,2015,LeftFoot,2510,Anzhi Makhachkala,Spartak Moscow,0,4,2016-03-18 20:30:00,Ivelin Popov,Pass
+74186,3,Goal,0.9419999694824219,0.4,0.04703931137919426,Zé Luís,a,2818,FromCorner,2015,Head,2510,Anzhi Makhachkala,Spartak Moscow,0,4,2016-03-18 20:30:00,Quincy Promes,Cross
+74188,14,SavedShot,0.7330000305175781,0.37400001525878906,0.018701648339629173,Rómulo,a,2813,OpenPlay,2015,RightFoot,2510,Anzhi Makhachkala,Spartak Moscow,0,4,2016-03-18 20:30:00,,None
+74190,24,ShotOnPost,0.93,0.38599998474121094,0.05159467086195946,Alexandr Zotov,a,2820,OpenPlay,2015,Head,2510,Anzhi Makhachkala,Spartak Moscow,0,4,2016-03-18 20:30:00,Quincy Promes,Cross
+74191,24,MissedShots,0.9309999847412109,0.47900001525878905,0.4464639723300934,Ivelin Popov,a,2817,OpenPlay,2015,Head,2510,Anzhi Makhachkala,Spartak Moscow,0,4,2016-03-18 20:30:00,,Rebound
+74192,28,SavedShot,0.695,0.7419999694824219,0.012402107939124107,Quincy Promes,a,2815,OpenPlay,2015,RightFoot,2510,Anzhi Makhachkala,Spartak Moscow,0,4,2016-03-18 20:30:00,Zé Luís,Pass
+74193,29,BlockedShot,0.720999984741211,0.455,0.019376659765839577,Ivelin Popov,a,2817,OpenPlay,2015,RightFoot,2510,Anzhi Makhachkala,Spartak Moscow,0,4,2016-03-18 20:30:00,Dmitri Kombarov,Pass
+74194,30,MissedShots,0.885,0.5459999847412109,0.050935808569192886,Rómulo,a,2813,SetPiece,2015,Head,2510,Anzhi Makhachkala,Spartak Moscow,0,4,2016-03-18 20:30:00,Dmitri Kombarov,Cross
+74195,30,Goal,0.965999984741211,0.39,0.014756586402654648,Denis Glushakov,a,2814,SetPiece,2015,Head,2510,Anzhi Makhachkala,Spartak Moscow,0,4,2016-03-18 20:30:00,Rómulo,Rebound
+74196,33,MissedShots,0.740999984741211,0.3509999847412109,0.02184639871120453,Ivelin Popov,a,2817,OpenPlay,2015,RightFoot,2510,Anzhi Makhachkala,Spartak Moscow,0,4,2016-03-18 20:30:00,Denis Glushakov,Pass
+74198,40,BlockedShot,0.855999984741211,0.485,0.12360519170761108,Quincy Promes,a,2815,OpenPlay,2015,RightFoot,2510,Anzhi Makhachkala,Spartak Moscow,0,4,2016-03-18 20:30:00,Ivelin Popov,Pass
+74202,56,SavedShot,0.7040000152587891,0.515,0.03734852001070976,Quincy Promes,a,2815,DirectFreekick,2015,RightFoot,2510,Anzhi Makhachkala,Spartak Moscow,0,4,2016-03-18 20:30:00,,Standard
+74204,64,MissedShots,0.769000015258789,0.740999984741211,0.017176801338791847,Quincy Promes,a,2815,OpenPlay,2015,RightFoot,2510,Anzhi Makhachkala,Spartak Moscow,0,4,2016-03-18 20:30:00,Jano Ananidze,Pass
+74205,64,MissedShots,0.9290000152587891,0.6990000152587891,0.03370872512459755,Zé Luís,a,2818,FromCorner,2015,LeftFoot,2510,Anzhi Makhachkala,Spartak Moscow,0,4,2016-03-18 20:30:00,Dmitri Kombarov,Cross
+74206,65,SavedShot,0.7269999694824218,0.27399999618530274,0.013253419660031796,Alexandr Zotov,a,2820,OpenPlay,2015,RightFoot,2510,Anzhi Makhachkala,Spartak Moscow,0,4,2016-03-18 20:30:00,,None
+74207,66,Goal,0.9359999847412109,0.5829999923706055,0.3982696831226349,Quincy Promes,a,2815,OpenPlay,2015,LeftFoot,2510,Anzhi Makhachkala,Spartak Moscow,0,4,2016-03-18 20:30:00,Jano Ananidze,Chipped
+74209,79,SavedShot,0.9409999847412109,0.7180000305175781,0.10574272274971008,Dmitri Kombarov,a,2821,OpenPlay,2015,LeftFoot,2510,Anzhi Makhachkala,Spartak Moscow,0,4,2016-03-18 20:30:00,Quincy Promes,TakeOn
+74210,81,BlockedShot,0.725,0.5529999923706055,0.024205407127738,Quincy Promes,a,2815,OpenPlay,2015,RightFoot,2510,Anzhi Makhachkala,Spartak Moscow,0,4,2016-03-18 20:30:00,Dmitri Kombarov,Pass
+74211,82,SavedShot,0.865,0.28600000381469726,0.055340494960546494,Lorenzo Melgarejo,a,2819,OpenPlay,2015,LeftFoot,2510,Anzhi Makhachkala,Spartak Moscow,0,4,2016-03-18 20:30:00,Alexandr Zotov,Pass
+74212,82,MissedShots,0.875999984741211,0.6909999847412109,0.028115594759583473,Zé Luís,a,2818,OpenPlay,2015,LeftFoot,2510,Anzhi Makhachkala,Spartak Moscow,0,4,2016-03-18 20:30:00,,Rebound
+74213,84,Goal,0.87,0.500999984741211,0.12415637075901031,Zé Luís,a,2818,OpenPlay,2015,LeftFoot,2510,Anzhi Makhachkala,Spartak Moscow,0,4,2016-03-18 20:30:00,Lorenzo Melgarejo,Cross

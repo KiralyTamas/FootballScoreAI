@@ -1,0 +1,25 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+7371,4,BlockedShot,0.8540000152587891,0.4909999847412109,0.341846764087677,Javier Pastore,h,3295,OpenPlay,2014,RightFoot,5878,Paris Saint Germain,Reims,3,2,2015-05-23 20:00:00,Lucas Moura,Pass
+7372,12,SavedShot,0.9330000305175781,0.695,0.0557805672287941,Edinson Cavani,h,3294,OpenPlay,2014,LeftFoot,5878,Paris Saint Germain,Reims,3,2,2015-05-23 20:00:00,Javier Pastore,Pass
+7373,20,BlockedShot,0.7719999694824219,0.41700000762939454,0.08086729794740677,Edinson Cavani,h,3294,DirectFreekick,2014,RightFoot,5878,Paris Saint Germain,Reims,3,2,2015-05-23 20:00:00,,Standard
+7374,26,MissedShots,0.95,0.17399999618530274,0.021696381270885468,Javier Pastore,h,3295,OpenPlay,2014,RightFoot,5878,Paris Saint Germain,Reims,3,2,2015-05-23 20:00:00,Thiago Silva,HeadPass
+7376,29,Goal,0.845999984741211,0.54,0.3259533643722534,Edinson Cavani,h,3294,OpenPlay,2014,LeftFoot,5878,Paris Saint Germain,Reims,3,2,2015-05-23 20:00:00,Marco Verratti,Throughball
+7377,32,BlockedShot,0.894000015258789,0.5309999847412109,0.13757194578647614,Edinson Cavani,h,3294,OpenPlay,2014,LeftFoot,5878,Paris Saint Germain,Reims,3,2,2015-05-23 20:00:00,Lucas Moura,Pass
+7378,32,MissedShots,0.8469999694824218,0.6370000076293946,0.05702928081154823,Javier Pastore,h,3295,OpenPlay,2014,RightFoot,5878,Paris Saint Germain,Reims,3,2,2015-05-23 20:00:00,,Rebound
+7380,36,MissedShots,0.840999984741211,0.19899999618530273,0.025228142738342285,Gregory Van der Wiel,h,3287,OpenPlay,2014,RightFoot,5878,Paris Saint Germain,Reims,3,2,2015-05-23 20:00:00,Thiago Motta,Chipped
+7381,37,BlockedShot,0.860999984741211,0.3529999923706055,0.07530004531145096,Gregory Van der Wiel,h,3287,OpenPlay,2014,LeftFoot,5878,Paris Saint Germain,Reims,3,2,2015-05-23 20:00:00,Javier Pastore,Pass
+7382,41,MissedShots,0.899000015258789,0.5990000152587891,0.31023159623146057,Edinson Cavani,h,3294,OpenPlay,2014,LeftFoot,5878,Paris Saint Germain,Reims,3,2,2015-05-23 20:00:00,Javier Pastore,Chipped
+7383,44,Goal,0.8440000152587891,0.66,0.06250311434268951,Adrien Rabiot,h,3291,OpenPlay,2014,LeftFoot,5878,Paris Saint Germain,Reims,3,2,2015-05-23 20:00:00,Lucas Moura,Pass
+7387,60,SavedShot,0.8719999694824219,0.799000015258789,0.029575154185295105,Edinson Cavani,h,3294,OpenPlay,2014,RightFoot,5878,Paris Saint Germain,Reims,3,2,2015-05-23 20:00:00,Adrien Rabiot,Pass
+7391,81,MissedShots,0.8690000152587891,0.6040000152587891,0.0431303046643734,Adrien Rabiot,h,3291,OpenPlay,2014,RightFoot,5878,Paris Saint Germain,Reims,3,2,2015-05-23 20:00:00,,Aerial
+7392,82,Goal,0.9230000305175782,0.46799999237060547,0.5108692646026611,Edinson Cavani,h,3294,OpenPlay,2014,LeftFoot,5878,Paris Saint Germain,Reims,3,2,2015-05-23 20:00:00,Ezequiel Lavezzi,Pass
+7375,28,SavedShot,0.7340000152587891,0.3120000076293945,0.016410604119300842,Antoine Conte,a,3238,OpenPlay,2014,RightFoot,5878,Paris Saint Germain,Reims,3,2,2015-05-23 20:00:00,Prince Oniangué,Pass
+7379,33,MissedShots,0.779000015258789,0.32599998474121095,0.02250853180885315,Prince Oniangué,a,3556,OpenPlay,2014,RightFoot,5878,Paris Saint Germain,Reims,3,2,2015-05-23 20:00:00,Antoine Conte,Pass
+7384,52,BlockedShot,0.7319999694824219,0.3659999847412109,0.009532450698316097,Gaëtan Charbonnier,a,3243,OpenPlay,2014,RightFoot,5878,Paris Saint Germain,Reims,3,2,2015-05-23 20:00:00,,None
+7385,53,Goal,0.960999984741211,0.475,0.5156722068786621,Aissa Mandi,a,3237,FromCorner,2014,Head,5878,Paris Saint Germain,Reims,3,2,2015-05-23 20:00:00,Franck Signorino,Cross
+7386,55,SavedShot,0.9330000305175781,0.6409999847412109,0.35165151953697205,Gaëtan Charbonnier,a,3243,OpenPlay,2014,LeftFoot,5878,Paris Saint Germain,Reims,3,2,2015-05-23 20:00:00,,None
+7388,62,MissedShots,0.7869999694824219,0.5870000076293945,0.033367328345775604,Benjamin Moukandjo,a,3570,OpenPlay,2014,RightFoot,5878,Paris Saint Germain,Reims,3,2,2015-05-23 20:00:00,Diego,Pass
+7389,68,BlockedShot,0.904000015258789,0.3340000152587891,0.09579096734523773,Grejohn Kyei,a,3663,OpenPlay,2014,RightFoot,5878,Paris Saint Germain,Reims,3,2,2015-05-23 20:00:00,Gaëtan Charbonnier,Throughball
+7390,71,MissedShots,0.87,0.585,0.36432066559791565,Diego,a,3242,OpenPlay,2014,RightFoot,5878,Paris Saint Germain,Reims,3,2,2015-05-23 20:00:00,,None
+7393,88,Goal,0.93,0.6040000152587891,0.0973161980509758,Grejohn Kyei,a,3663,OpenPlay,2014,LeftFoot,5878,Paris Saint Germain,Reims,3,2,2015-05-23 20:00:00,Omenuke Mfulu,Pass
+7394,90,MissedShots,0.8690000152587891,0.5309999847412109,0.03758758679032326,Grejohn Kyei,a,3663,OpenPlay,2014,Head,5878,Paris Saint Germain,Reims,3,2,2015-05-23 20:00:00,Odaïr Fortes,Cross

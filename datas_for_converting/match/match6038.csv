@@ -1,0 +1,23 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+4915,13,ShotOnPost,0.7380000305175781,0.235,0.021646665409207344,Fabinho,h,3420,OpenPlay,2014,RightFoot,6038,Monaco,Lens,2,0,2014-12-02 20:00:00,João Moutinho,TakeOn
+4916,14,BlockedShot,0.9769999694824218,0.605999984741211,0.07325828820466995,Dimitar Berbatov,h,4727,SetPiece,2014,RightFoot,6038,Monaco,Lens,2,0,2014-12-02 20:00:00,,None
+4917,15,SavedShot,0.8519999694824218,0.6580000305175782,0.05243489891290665,João Moutinho,h,3422,OpenPlay,2014,RightFoot,6038,Monaco,Lens,2,0,2014-12-02 20:00:00,Jérémy Toulalan,Chipped
+4926,47,BlockedShot,0.8669999694824219,0.5129999923706055,0.07456234097480774,Anthony Martial,h,553,SetPiece,2014,RightFoot,6038,Monaco,Lens,2,0,2014-12-02 20:00:00,João Moutinho,HeadPass
+4928,56,SavedShot,0.9180000305175782,0.725,0.04518110677599907,Aymen Abdennour,h,2374,OpenPlay,2014,LeftFoot,6038,Monaco,Lens,2,0,2014-12-02 20:00:00,Dimitar Berbatov,Pass
+4929,60,MissedShots,0.7669999694824219,0.7559999847412109,0.018094344064593315,Dimitar Berbatov,h,4727,OpenPlay,2014,RightFoot,6038,Monaco,Lens,2,0,2014-12-02 20:00:00,Elderson Echiéjilé,Pass
+4930,63,Goal,0.885,0.5,0.7600951194763184,Dimitar Berbatov,h,4727,Penalty,2014,RightFoot,6038,Monaco,Lens,2,0,2014-12-02 20:00:00,,Standard
+4936,92,Goal,0.7680000305175781,0.6530000305175782,0.030289556831121445,Yannick Carrasco,h,2272,OpenPlay,2014,RightFoot,6038,Monaco,Lens,2,0,2014-12-02 20:00:00,João Moutinho,TakeOn
+4918,16,BlockedShot,0.8530000305175781,0.43400001525878906,0.04911227151751518,Yoann Touzghar,a,4770,OpenPlay,2014,RightFoot,6038,Monaco,Lens,2,0,2014-12-02 20:00:00,Benjamin Bourigeaud,Cross
+4919,17,SavedShot,0.785,0.48,0.03780115395784378,Benjamin Bourigeaud,a,4773,OpenPlay,2014,RightFoot,6038,Monaco,Lens,2,0,2014-12-02 20:00:00,Pierrick Valdivia,Pass
+4920,18,BlockedShot,0.8140000152587891,0.7419999694824219,0.06365048885345459,Benjamin Bourigeaud,a,4773,DirectFreekick,2014,RightFoot,6038,Monaco,Lens,2,0,2014-12-02 20:00:00,,Standard
+4921,26,MissedShots,0.7340000152587891,0.7069999694824218,0.03876812383532524,Jean-Philippe Gbamin,a,4764,DirectFreekick,2014,RightFoot,6038,Monaco,Lens,2,0,2014-12-02 20:00:00,,Standard
+4922,36,BlockedShot,0.76,0.5479999923706055,0.07446305453777313,Jean-Philippe Gbamin,a,4764,DirectFreekick,2014,RightFoot,6038,Monaco,Lens,2,0,2014-12-02 20:00:00,,Standard
+4923,37,BlockedShot,0.7619999694824219,0.23399999618530273,0.008958063088357449,Benjamin Bourigeaud,a,4773,OpenPlay,2014,RightFoot,6038,Monaco,Lens,2,0,2014-12-02 20:00:00,Pierrick Valdivia,Chipped
+4924,41,MissedShots,0.9369999694824219,0.2539999961853027,0.03840460255742073,Wylan Cyprien,a,4768,OpenPlay,2014,RightFoot,6038,Monaco,Lens,2,0,2014-12-02 20:00:00,Alharbi El Jadeyaoui,Chipped
+4925,42,BlockedShot,0.7340000152587891,0.669000015258789,0.01889760047197342,Adamo Coulibaly,a,4772,OpenPlay,2014,RightFoot,6038,Monaco,Lens,2,0,2014-12-02 20:00:00,Pierrick Valdivia,Pass
+4927,52,MissedShots,0.850999984741211,0.755,0.026216544210910797,Adamo Coulibaly,a,4772,OpenPlay,2014,RightFoot,6038,Monaco,Lens,2,0,2014-12-02 20:00:00,Alharbi El Jadeyaoui,Pass
+4931,65,MissedShots,0.8880000305175781,0.5420000076293945,0.0243280790746212,Yoann Touzghar,a,4770,OpenPlay,2014,Head,6038,Monaco,Lens,2,0,2014-12-02 20:00:00,Pierrick Valdivia,Aerial
+4932,68,SavedShot,0.885,0.5,0.7600951194763184,Pierrick Valdivia,a,4769,Penalty,2014,LeftFoot,6038,Monaco,Lens,2,0,2014-12-02 20:00:00,,Standard
+4933,69,MissedShots,0.914000015258789,0.48700000762939455,0.5240368843078613,Pierrick Valdivia,a,4769,SetPiece,2014,LeftFoot,6038,Monaco,Lens,2,0,2014-12-02 20:00:00,,Rebound
+4934,71,MissedShots,0.874000015258789,0.3609999847412109,0.008689196780323982,Yoann Touzghar,a,4770,OpenPlay,2014,Head,6038,Monaco,Lens,2,0,2014-12-02 20:00:00,Alharbi El Jadeyaoui,Aerial
+4935,84,SavedShot,0.7859999847412109,0.664000015258789,0.018377412110567093,Alharbi El Jadeyaoui,a,4778,FromCorner,2014,LeftFoot,6038,Monaco,Lens,2,0,2014-12-02 20:00:00,,None

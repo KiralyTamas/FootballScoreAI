@@ -1,0 +1,22 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+204539,16,SavedShot,0.9669999694824218,0.40200000762939453,0.27371177077293396,Ishak Belfodil,h,3834,OpenPlay,2017,Head,8504,Werder Bremen,Eintracht Frankfurt,2,1,2018-04-01 14:30:00,Thomas Delaney,HeadPass
+204541,27,Goal,0.9059999847412109,0.5709999847412109,0.1254671961069107,Zlatko Junuzovic,h,301,OpenPlay,2017,RightFoot,8504,Werder Bremen,Eintracht Frankfurt,2,1,2018-04-01 14:30:00,Thomas Delaney,Pass
+204542,30,MissedShots,0.7519999694824219,0.66,0.010517263785004616,Marco Friedl,h,5340,FromCorner,2017,RightFoot,8504,Werder Bremen,Eintracht Frankfurt,2,1,2018-04-01 14:30:00,Max Kruse,Chipped
+204547,44,BlockedShot,0.9209999847412109,0.325,0.03757248446345329,Zlatko Junuzovic,h,301,SetPiece,2017,RightFoot,8504,Werder Bremen,Eintracht Frankfurt,2,1,2018-04-01 14:30:00,Max Kruse,Pass
+204548,45,SavedShot,0.9130000305175782,0.4779999923706055,0.3876365125179291,Ishak Belfodil,h,3834,SetPiece,2017,RightFoot,8504,Werder Bremen,Eintracht Frankfurt,2,1,2018-04-01 14:30:00,Max Kruse,Cross
+204552,66,MissedShots,0.9290000152587891,0.69,0.08427587151527405,Thomas Delaney,h,5230,OpenPlay,2017,LeftFoot,8504,Werder Bremen,Eintracht Frankfurt,2,1,2018-04-01 14:30:00,Ishak Belfodil,Pass
+204553,70,BlockedShot,0.8380000305175781,0.3609999847412109,0.06928952038288116,Ishak Belfodil,h,3834,OpenPlay,2017,LeftFoot,8504,Werder Bremen,Eintracht Frankfurt,2,1,2018-04-01 14:30:00,Max Kruse,Pass
+204556,81,BlockedShot,0.9,0.7019999694824218,0.06559331715106964,Zlatko Junuzovic,h,301,OpenPlay,2017,LeftFoot,8504,Werder Bremen,Eintracht Frankfurt,2,1,2018-04-01 14:30:00,Max Kruse,Pass
+204557,81,SavedShot,0.9259999847412109,0.624000015258789,0.013804431073367596,Niklas Moisander,h,1936,FromCorner,2017,Head,8504,Werder Bremen,Eintracht Frankfurt,2,1,2018-04-01 14:30:00,Zlatko Junuzovic,Aerial
+204538,3,SavedShot,0.8209999847412109,0.3340000152587891,0.03436101973056793,Marius Wolf,a,2693,OpenPlay,2017,RightFoot,8504,Werder Bremen,Eintracht Frankfurt,2,1,2018-04-01 14:30:00,,None
+204540,26,SavedShot,0.8130000305175781,0.68,0.03661094233393669,Ante Rebic,a,1852,OpenPlay,2017,RightFoot,8504,Werder Bremen,Eintracht Frankfurt,2,1,2018-04-01 14:30:00,Luka Jovic,HeadPass
+204543,35,BlockedShot,0.725999984741211,0.5720000076293945,0.050392791628837585,Jonathan de Guzmán,a,1350,DirectFreekick,2017,RightFoot,8504,Werder Bremen,Eintracht Frankfurt,2,1,2018-04-01 14:30:00,,Standard
+204544,36,SavedShot,0.91,0.39,0.07595076411962509,Marco Russ,a,293,FromCorner,2017,RightFoot,8504,Werder Bremen,Eintracht Frankfurt,2,1,2018-04-01 14:30:00,,None
+204545,37,MissedShots,0.865,0.28,0.0337776318192482,Marius Wolf,a,2693,OpenPlay,2017,RightFoot,8504,Werder Bremen,Eintracht Frankfurt,2,1,2018-04-01 14:30:00,,None
+204546,41,SavedShot,0.9119999694824219,0.6079999923706054,0.044734664261341095,Marco Fabián,a,2661,OpenPlay,2017,Head,8504,Werder Bremen,Eintracht Frankfurt,2,1,2018-04-01 14:30:00,Timothy Chandler,Cross
+204549,48,BlockedShot,0.8969999694824219,0.3129999923706055,0.060087237507104874,Marco Fabián,a,2661,OpenPlay,2017,LeftFoot,8504,Werder Bremen,Eintracht Frankfurt,2,1,2018-04-01 14:30:00,Danny da Costa,Pass
+204550,52,Goal,0.875999984741211,0.4779999923706055,0.10208592563867569,Luka Jovic,a,6228,OpenPlay,2017,LeftFoot,8504,Werder Bremen,Eintracht Frankfurt,2,1,2018-04-01 14:30:00,Kevin-Prince Boateng,Pass
+204551,55,SavedShot,0.8719999694824219,0.6630000305175782,0.24294769763946533,Luka Jovic,a,6228,OpenPlay,2017,LeftFoot,8504,Werder Bremen,Eintracht Frankfurt,2,1,2018-04-01 14:30:00,Marco Fabián,Pass
+204554,77,MissedShots,0.9719999694824218,0.3820000076293945,0.06220496818423271,Danny da Costa,a,249,OpenPlay,2017,RightFoot,8504,Werder Bremen,Eintracht Frankfurt,2,1,2018-04-01 14:30:00,Taleb Tawatha,Cross
+204555,78,OwnGoal,0.12800000190734864,0.41900001525878905,0,David Abraham,a,283,OpenPlay,2017,Head,8504,Werder Bremen,Eintracht Frankfurt,2,1,2018-04-01 14:30:00,,None
+204558,88,MissedShots,0.91,0.575999984741211,0.07888536900281906,David Abraham,a,283,SetPiece,2017,Head,8504,Werder Bremen,Eintracht Frankfurt,2,1,2018-04-01 14:30:00,Jonathan de Guzmán,Cross

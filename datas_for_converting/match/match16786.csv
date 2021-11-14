@@ -1,0 +1,30 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+431649,1,SavedShot,0.9580000305175781,0.5129999923706055,0.15261735022068024,Leonardo Mancuso,h,9852,OpenPlay,2021,LeftFoot,16786,Empoli,Sampdoria,0,3,2021-09-19 10:30:00,Patrick Cutrone,Pass
+431653,24,BlockedShot,0.765,0.4329999923706055,0.025716381147503853,Nedim Bajrami,h,9851,OpenPlay,2021,RightFoot,16786,Empoli,Sampdoria,0,3,2021-09-19 10:30:00,Sebastiano Luperto,Pass
+431656,36,BlockedShot,0.7469999694824219,0.6959999847412109,0.008313316851854324,Sebastiano Luperto,h,1639,OpenPlay,2021,LeftFoot,16786,Empoli,Sampdoria,0,3,2021-09-19 10:30:00,Petar Stojanovic,Chipped
+431657,39,MissedShots,0.9319999694824219,0.41900001525878905,0.32918766140937805,Leonardo Mancuso,h,9852,OpenPlay,2021,RightFoot,16786,Empoli,Sampdoria,0,3,2021-09-19 10:30:00,Riccardo Marchizza,Cross
+431658,40,BlockedShot,0.8880000305175781,0.29700000762939455,0.04012911021709442,Patrick Cutrone,h,4918,OpenPlay,2021,RightFoot,16786,Empoli,Sampdoria,0,3,2021-09-19 10:30:00,Nedim Bajrami,Chipped
+431667,53,MissedShots,0.9119999694824219,0.4470000076293945,0.08243798464536667,Leonardo Mancuso,h,9852,OpenPlay,2021,RightFoot,16786,Empoli,Sampdoria,0,3,2021-09-19 10:30:00,,None
+431668,68,MissedShots,0.7,0.49700000762939456,0.03819520026445389,Nedim Bajrami,h,9851,DirectFreekick,2021,RightFoot,16786,Empoli,Sampdoria,0,3,2021-09-19 10:30:00,,Standard
+431670,74,SavedShot,0.795,0.2570000076293945,0.015781056135892868,Szymon Zurkowski,h,7910,OpenPlay,2021,RightFoot,16786,Empoli,Sampdoria,0,3,2021-09-19 10:30:00,Federico Di Francesco,Pass
+431671,74,BlockedShot,0.8530000305175781,0.32599998474121095,0.03361866995692253,Szymon Zurkowski,h,7910,OpenPlay,2021,LeftFoot,16786,Empoli,Sampdoria,0,3,2021-09-19 10:30:00,Nedim Bajrami,Chipped
+431672,77,SavedShot,0.85,0.47299999237060547,0.08712138235569,Andrea Pinamonti,h,4895,OpenPlay,2021,RightFoot,16786,Empoli,Sampdoria,0,3,2021-09-19 10:30:00,Nedim Bajrami,Pass
+431673,80,SavedShot,0.7859999847412109,0.2589999961853027,0.009944859892129898,Szymon Zurkowski,h,7910,OpenPlay,2021,RightFoot,16786,Empoli,Sampdoria,0,3,2021-09-19 10:30:00,,None
+431674,83,BlockedShot,0.91,0.3189999961853027,0.009092840366065502,Andrea La Mantia,h,7972,FromCorner,2021,Head,16786,Empoli,Sampdoria,0,3,2021-09-19 10:30:00,Filippo Bandinelli,Cross
+431675,84,BlockedShot,0.79,0.44,0.03934561088681221,Szymon Zurkowski,h,7910,OpenPlay,2021,RightFoot,16786,Empoli,Sampdoria,0,3,2021-09-19 10:30:00,Andrea Pinamonti,Pass
+431676,85,MissedShots,0.8280000305175781,0.4929999923706055,0.028028162196278572,Andrea Pinamonti,h,4895,OpenPlay,2021,RightFoot,16786,Empoli,Sampdoria,0,3,2021-09-19 10:30:00,Andrea La Mantia,HeadPass
+431677,90,MissedShots,0.8380000305175781,0.7280000305175781,0.02773432433605194,Andrea Pinamonti,h,4895,OpenPlay,2021,RightFoot,16786,Empoli,Sampdoria,0,3,2021-09-19 10:30:00,Riccardo Marchizza,Pass
+431650,8,MissedShots,0.6919999694824219,0.5220000076293946,0.014190766029059887,Antonio Candreva,a,1517,OpenPlay,2021,RightFoot,16786,Empoli,Sampdoria,0,3,2021-09-19 10:30:00,Mikkel Damsgaard,Pass
+431651,11,BlockedShot,0.7469999694824219,0.6580000305175782,0.01843683049082756,Fabio Quagliarella,a,1230,SetPiece,2021,RightFoot,16786,Empoli,Sampdoria,0,3,2021-09-19 10:30:00,Antonio Candreva,Pass
+431652,13,SavedShot,0.9259999847412109,0.6780000305175782,0.10204226523637772,Antonio Candreva,a,1517,OpenPlay,2021,RightFoot,16786,Empoli,Sampdoria,0,3,2021-09-19 10:30:00,Francesco Caputo,TakeOn
+431654,30,Goal,0.865,0.455,0.3616501986980438,Francesco Caputo,a,6980,OpenPlay,2021,LeftFoot,16786,Empoli,Sampdoria,0,3,2021-09-19 10:30:00,Antonio Candreva,Throughball
+431655,33,MissedShots,0.7430000305175781,0.4759999847412109,0.02670961245894432,Mikkel Damsgaard,a,8859,OpenPlay,2021,RightFoot,16786,Empoli,Sampdoria,0,3,2021-09-19 10:30:00,,None
+431659,41,SavedShot,0.855999984741211,0.6780000305175782,0.19368945062160492,Francesco Caputo,a,6980,OpenPlay,2021,LeftFoot,16786,Empoli,Sampdoria,0,3,2021-09-19 10:30:00,Fabio Quagliarella,TakeOn
+431660,41,BlockedShot,0.7569999694824219,0.5940000152587891,0.028867362067103386,Fabio Quagliarella,a,1230,OpenPlay,2021,RightFoot,16786,Empoli,Sampdoria,0,3,2021-09-19 10:30:00,Antonio Candreva,Pass
+431661,42,MissedShots,0.919000015258789,0.509000015258789,0.10001053661108017,Francesco Caputo,a,6980,FromCorner,2021,Head,16786,Empoli,Sampdoria,0,3,2021-09-19 10:30:00,Antonio Candreva,Cross
+431662,43,MissedShots,0.8530000305175781,0.5979999923706054,0.09799220412969589,Fabio Quagliarella,a,1230,OpenPlay,2021,LeftFoot,16786,Empoli,Sampdoria,0,3,2021-09-19 10:30:00,Francesco Caputo,Pass
+431663,46,SavedShot,0.889000015258789,0.674000015258789,0.058962129056453705,Mikkel Damsgaard,a,8859,OpenPlay,2021,RightFoot,16786,Empoli,Sampdoria,0,3,2021-09-19 10:30:00,Francesco Caputo,HeadPass
+431664,47,SavedShot,0.8540000152587891,0.38,0.044058699160814285,Mikkel Damsgaard,a,8859,FromCorner,2021,RightFoot,16786,Empoli,Sampdoria,0,3,2021-09-19 10:30:00,Antonio Candreva,Pass
+431665,49,ShotOnPost,0.95,0.48,0.11668132990598679,Francesco Caputo,a,6980,FromCorner,2021,RightFoot,16786,Empoli,Sampdoria,0,3,2021-09-19 10:30:00,,BallTouch
+431666,51,Goal,0.8880000305175781,0.4370000076293945,0.12393037974834442,Francesco Caputo,a,6980,OpenPlay,2021,LeftFoot,16786,Empoli,Sampdoria,0,3,2021-09-19 10:30:00,Bartosz Bereszynski,Pass
+431669,69,Goal,0.8530000305175781,0.7119999694824218,0.061431579291820526,Antonio Candreva,a,1517,OpenPlay,2021,RightFoot,16786,Empoli,Sampdoria,0,3,2021-09-19 10:30:00,Fabio Quagliarella,Chipped

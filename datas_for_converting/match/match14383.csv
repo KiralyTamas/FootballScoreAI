@@ -1,0 +1,25 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+406416,10,SavedShot,0.889000015258789,0.37099998474121093,0.07295668870210648,Roman Minaev,h,8370,OpenPlay,2020,RightFoot,14383,FC Tambov,FC Rotor Volgograd,1,3,2021-02-26 16:00:00,Artyom Arkhipov,Pass
+406417,10,MissedShots,0.6359999847412109,0.5670000076293945,0.01050674356520176,Farkhod Vasiev,h,5507,FromCorner,2020,LeftFoot,14383,FC Tambov,FC Rotor Volgograd,1,3,2021-02-26 16:00:00,,None
+406419,13,MissedShots,0.9119999694824219,0.3340000152587891,0.08453083038330078,Artyom Arkhipov,h,9362,OpenPlay,2020,RightFoot,14383,FC Tambov,FC Rotor Volgograd,1,3,2021-02-26 16:00:00,Roman Minaev,Pass
+406420,14,MissedShots,0.9459999847412109,0.5870000076293945,0.02733578532934189,Aleksandr Denisov,h,5379,FromCorner,2020,Head,14383,FC Tambov,FC Rotor Volgograd,1,3,2021-02-26 16:00:00,Vladislav Karapuzov,Aerial
+406421,17,SavedShot,0.8640000152587891,0.3529999923706055,0.06606987118721008,Roman Minaev,h,8370,OpenPlay,2020,LeftFoot,14383,FC Tambov,FC Rotor Volgograd,1,3,2021-02-26 16:00:00,Vladislav Karapuzov,Pass
+406422,19,MissedShots,0.749000015258789,0.46,0.021018769592046738,Vladimir Kabakhidze,h,8471,OpenPlay,2020,RightFoot,14383,FC Tambov,FC Rotor Volgograd,1,3,2021-02-26 16:00:00,,BallRecovery
+406423,25,MissedShots,0.955,0.3920000076293945,0.03535813093185425,Artyom Arkhipov,h,9362,FromCorner,2020,OtherBodyPart,14383,FC Tambov,FC Rotor Volgograd,1,3,2021-02-26 16:00:00,Vladislav Karapuzov,Cross
+406425,40,Goal,0.9669999694824218,0.5729999923706055,0.399301677942276,Artyom Arkhipov,h,9362,OpenPlay,2020,Head,14383,FC Tambov,FC Rotor Volgograd,1,3,2021-02-26 16:00:00,Azer Aliev,Cross
+406429,50,MissedShots,0.6969999694824218,0.4370000076293945,0.034244365990161896,Yuri Bavin,h,3085,DirectFreekick,2020,RightFoot,14383,FC Tambov,FC Rotor Volgograd,1,3,2021-02-26 16:00:00,,Standard
+406430,53,OwnGoal,0.03200000047683716,0.5120000076293946,0,Zurab Gigashvili,h,9175,OpenPlay,2020,RightFoot,14383,FC Tambov,FC Rotor Volgograd,1,3,2021-02-26 16:00:00,,TakeOn
+406433,69,BlockedShot,0.9009999847412109,0.4809999847412109,0.08787135779857635,Kirill Klimov,h,9051,SetPiece,2020,LeftFoot,14383,FC Tambov,FC Rotor Volgograd,1,3,2021-02-26 16:00:00,Tigran Avanesyan,HeadPass
+406437,82,SavedShot,0.779000015258789,0.4909999847412109,0.035238638520240784,Evgeni Chabanov,h,9364,OpenPlay,2020,RightFoot,14383,FC Tambov,FC Rotor Volgograd,1,3,2021-02-26 16:00:00,Anton Terekhov,Pass
+406414,5,SavedShot,0.9280000305175782,0.44599998474121094,0.11514071375131607,Sergei Makarov,a,3168,OpenPlay,2020,LeftFoot,14383,FC Tambov,FC Rotor Volgograd,1,3,2021-02-26 16:00:00,Sergey Serchenkov,None
+406415,7,BlockedShot,0.8859999847412109,0.265,0.021591203287243843,Sergei Makarov,a,3168,OpenPlay,2020,RightFoot,14383,FC Tambov,FC Rotor Volgograd,1,3,2021-02-26 16:00:00,Dmitriy Shomko,Cross
+406418,12,SavedShot,0.88,0.6930000305175781,0.04458286240696907,Zuriko Davitashvili,a,7652,OpenPlay,2020,RightFoot,14383,FC Tambov,FC Rotor Volgograd,1,3,2021-02-26 16:00:00,,None
+406424,29,SavedShot,0.904000015258789,0.629000015258789,0.014464547857642174,Zuriko Davitashvili,a,7652,OpenPlay,2020,Head,14383,FC Tambov,FC Rotor Volgograd,1,3,2021-02-26 16:00:00,Sergey Serchenkov,Cross
+406426,45,MissedShots,0.9640000152587891,0.39799999237060546,0.016443680971860886,Andrés Ponce,a,1811,FromCorner,2020,Head,14383,FC Tambov,FC Rotor Volgograd,1,3,2021-02-26 16:00:00,Evgeni Pesegov,Aerial
+406427,46,MissedShots,0.7130000305175781,0.534000015258789,0.014854165725409985,Sergey Serchenkov,a,2805,OpenPlay,2020,LeftFoot,14383,FC Tambov,FC Rotor Volgograd,1,3,2021-02-26 16:00:00,Aleksey Shchetkin,Pass
+406428,48,SavedShot,0.8769999694824219,0.639000015258789,0.0566602386534214,Dmitriy Shomko,a,9370,SetPiece,2020,RightFoot,14383,FC Tambov,FC Rotor Volgograd,1,3,2021-02-26 16:00:00,Azat Bayryev,HeadPass
+406431,57,Goal,0.8419999694824218,0.5590000152587891,0.07856682687997818,Andrés Ponce,a,1811,OpenPlay,2020,Head,14383,FC Tambov,FC Rotor Volgograd,1,3,2021-02-26 16:00:00,Nikolay Kipiani,BallRecovery
+406432,64,MissedShots,0.9290000152587891,0.65,0.11218568682670593,Zuriko Davitashvili,a,7652,OpenPlay,2020,LeftFoot,14383,FC Tambov,FC Rotor Volgograd,1,3,2021-02-26 16:00:00,,TakeOn
+406434,70,BlockedShot,0.8959999847412109,0.34299999237060547,0.12053021788597107,Andrés Ponce,a,1811,OpenPlay,2020,RightFoot,14383,FC Tambov,FC Rotor Volgograd,1,3,2021-02-26 16:00:00,Nikolay Kipiani,Pass
+406435,70,SavedShot,0.9480000305175781,0.5,0.14769168198108673,Andrés Ponce,a,1811,OpenPlay,2020,RightFoot,14383,FC Tambov,FC Rotor Volgograd,1,3,2021-02-26 16:00:00,Evgeni Pesegov,Cross
+406436,70,Goal,0.9480000305175781,0.56,0.5053260922431946,Nikolay Kipiani,a,3198,FromCorner,2020,RightFoot,14383,FC Tambov,FC Rotor Volgograd,1,3,2021-02-26 16:00:00,,Rebound

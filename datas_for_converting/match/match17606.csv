@@ -1,0 +1,37 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+442020,15,MissedShots,0.9690000152587891,0.42700000762939455,0.06244496628642082,Branimir Hrgota,h,216,FromCorner,2021,Head,17606,Greuther Fuerth,Eintracht Frankfurt,1,2,2021-11-07 18:30:00,,None
+442021,23,BlockedShot,0.895,0.6659999847412109,0.04137134924530983,Branimir Hrgota,h,216,FromCorner,2021,RightFoot,17606,Greuther Fuerth,Eintracht Frankfurt,1,2,2021-11-07 18:30:00,Max Christiansen,Tackle
+442022,23,MissedShots,0.8880000305175781,0.37599998474121094,0.042453449219465256,Julian Green,h,4323,FromCorner,2021,RightFoot,17606,Greuther Fuerth,Eintracht Frankfurt,1,2,2021-11-07 18:30:00,Branimir Hrgota,Cross
+442024,35,BlockedShot,0.8130000305175781,0.6090000152587891,0.044489555060863495,Cedric Itten,h,9954,OpenPlay,2021,RightFoot,17606,Greuther Fuerth,Eintracht Frankfurt,1,2,2021-11-07 18:30:00,Julian Green,Pass
+442025,39,MissedShots,0.9109999847412109,0.4779999923706055,0.111416295170784,Cedric Itten,h,9954,OpenPlay,2021,RightFoot,17606,Greuther Fuerth,Eintracht Frankfurt,1,2,2021-11-07 18:30:00,Marco Meyerhöfer,Cross
+442026,43,BlockedShot,0.9630000305175781,0.575999984741211,0.10435628145933151,Paul Seguin,h,2625,OpenPlay,2021,RightFoot,17606,Greuther Fuerth,Eintracht Frankfurt,1,2,2021-11-07 18:30:00,Jetro Willems,Cross
+442027,43,MissedShots,0.9,0.615,0.08359891176223755,Branimir Hrgota,h,216,OpenPlay,2021,RightFoot,17606,Greuther Fuerth,Eintracht Frankfurt,1,2,2021-11-07 18:30:00,,Rebound
+442028,47,BlockedShot,0.8819999694824219,0.6079999923706054,0.07348794490098953,Jetro Willems,h,6143,OpenPlay,2021,LeftFoot,17606,Greuther Fuerth,Eintracht Frankfurt,1,2,2021-11-07 18:30:00,,None
+442029,47,MissedShots,0.904000015258789,0.36400001525878906,0.07245850563049316,Jamie Leweling,h,9718,OpenPlay,2021,LeftFoot,17606,Greuther Fuerth,Eintracht Frankfurt,1,2,2021-11-07 18:30:00,,Rebound
+442030,49,BlockedShot,0.8119999694824219,0.26600000381469724,0.014522235840559006,Jamie Leweling,h,9718,OpenPlay,2021,LeftFoot,17606,Greuther Fuerth,Eintracht Frankfurt,1,2,2021-11-07 18:30:00,Branimir Hrgota,Cross
+442035,55,BlockedShot,0.835,0.625,0.11892589926719666,Branimir Hrgota,h,216,OpenPlay,2021,RightFoot,17606,Greuther Fuerth,Eintracht Frankfurt,1,2,2021-11-07 18:30:00,Julian Green,TakeOn
+442036,56,MissedShots,0.779000015258789,0.725,0.013122695498168468,Julian Green,h,4323,OpenPlay,2021,RightFoot,17606,Greuther Fuerth,Eintracht Frankfurt,1,2,2021-11-07 18:30:00,,Rebound
+442038,59,BlockedShot,0.7980000305175782,0.6140000152587891,0.03383004665374756,Jetro Willems,h,6143,OpenPlay,2021,RightFoot,17606,Greuther Fuerth,Eintracht Frankfurt,1,2,2021-11-07 18:30:00,Branimir Hrgota,Pass
+442042,74,MissedShots,0.8969999694824219,0.5209999847412109,0.09032729268074036,Cedric Itten,h,9954,OpenPlay,2021,LeftFoot,17606,Greuther Fuerth,Eintracht Frankfurt,1,2,2021-11-07 18:30:00,Jetro Willems,Cross
+442045,77,MissedShots,0.894000015258789,0.6840000152587891,0.03196666017174721,Gian-Luca Itter,h,5300,OpenPlay,2021,LeftFoot,17606,Greuther Fuerth,Eintracht Frankfurt,1,2,2021-11-07 18:30:00,Marco Meyerhöfer,Cross
+442047,86,SavedShot,0.909000015258789,0.555,0.4487351179122925,Timothy Tillman,h,7042,OpenPlay,2021,RightFoot,17606,Greuther Fuerth,Eintracht Frankfurt,1,2,2021-11-07 18:30:00,Gian-Luca Itter,Pass
+442048,86,BlockedShot,0.8109999847412109,0.5459999847412109,0.04453384876251221,Branimir Hrgota,h,216,OpenPlay,2021,RightFoot,17606,Greuther Fuerth,Eintracht Frankfurt,1,2,2021-11-07 18:30:00,,Rebound
+442049,90,BlockedShot,0.835,0.7040000152587891,0.047502074390649796,Timothy Tillman,h,7042,FromCorner,2021,RightFoot,17606,Greuther Fuerth,Eintracht Frankfurt,1,2,2021-11-07 18:30:00,Branimir Hrgota,TakeOn
+442050,90,BlockedShot,0.754000015258789,0.529000015258789,0.02102506347000599,Adrian Fein,h,8976,FromCorner,2021,RightFoot,17606,Greuther Fuerth,Eintracht Frankfurt,1,2,2021-11-07 18:30:00,,BallTouch
+442051,91,Goal,0.9890000152587891,0.47299999237060547,0.9694207906723022,Cedric Itten,h,9954,FromCorner,2021,OtherBodyPart,17606,Greuther Fuerth,Eintracht Frankfurt,1,2,2021-11-07 18:30:00,,None
+442019,13,SavedShot,0.76,0.8780000305175781,0.008001359179615974,Filip Kostic,a,64,OpenPlay,2021,LeftFoot,17606,Greuther Fuerth,Eintracht Frankfurt,1,2,2021-11-07 18:30:00,,None
+442023,28,BlockedShot,0.7119999694824218,0.49599998474121093,0.04565596580505371,Martin Hinteregger,a,2668,DirectFreekick,2021,LeftFoot,17606,Greuther Fuerth,Eintracht Frankfurt,1,2,2021-11-07 18:30:00,,Standard
+442031,51,SavedShot,0.794000015258789,0.34599998474121096,0.03131925314664841,Jesper Lindstrom,a,9752,OpenPlay,2021,LeftFoot,17606,Greuther Fuerth,Eintracht Frankfurt,1,2,2021-11-07 18:30:00,Tuta,Chipped
+442032,51,BlockedShot,0.7809999847412109,0.42400001525878905,0.0333939790725708,Kristijan Jakic,a,9986,OpenPlay,2021,RightFoot,17606,Greuther Fuerth,Eintracht Frankfurt,1,2,2021-11-07 18:30:00,Djibril Sow,Pass
+442033,52,BlockedShot,0.7969999694824219,0.5270000076293946,0.04240788146853447,Kristijan Jakic,a,9986,OpenPlay,2021,RightFoot,17606,Greuther Fuerth,Eintracht Frankfurt,1,2,2021-11-07 18:30:00,,None
+442034,52,MissedShots,0.7880000305175782,0.47299999237060547,0.028910472989082336,Djibril Sow,a,2624,OpenPlay,2021,RightFoot,17606,Greuther Fuerth,Eintracht Frankfurt,1,2,2021-11-07 18:30:00,,Rebound
+442037,56,MissedShots,0.845999984741211,0.715999984741211,0.03079896792769432,Filip Kostic,a,64,OpenPlay,2021,LeftFoot,17606,Greuther Fuerth,Eintracht Frankfurt,1,2,2021-11-07 18:30:00,Daichi Kamada,Pass
+442039,63,MissedShots,0.7440000152587891,0.47700000762939454,0.019477851688861847,Kristijan Jakic,a,9986,OpenPlay,2021,RightFoot,17606,Greuther Fuerth,Eintracht Frankfurt,1,2,2021-11-07 18:30:00,Jesper Lindstrom,Pass
+442040,68,MissedShots,0.9030000305175782,0.3290000152587891,0.024711530655622482,Almamy Touré,a,3431,OpenPlay,2021,RightFoot,17606,Greuther Fuerth,Eintracht Frankfurt,1,2,2021-11-07 18:30:00,,Aerial
+442041,73,MissedShots,0.8919999694824219,0.6459999847412109,0.11616795510053635,Ragnar Ache,a,8869,OpenPlay,2021,LeftFoot,17606,Greuther Fuerth,Eintracht Frankfurt,1,2,2021-11-07 18:30:00,,BallRecovery
+442043,74,Goal,0.8719999694824219,0.5359999847412109,0.3719121217727661,Sebastian Rode,a,228,OpenPlay,2021,RightFoot,17606,Greuther Fuerth,Eintracht Frankfurt,1,2,2021-11-07 18:30:00,Daichi Kamada,Pass
+442044,76,BlockedShot,0.8440000152587891,0.44299999237060544,0.013804152607917786,Ragnar Ache,a,8869,FromCorner,2021,Head,17606,Greuther Fuerth,Eintracht Frankfurt,1,2,2021-11-07 18:30:00,,Aerial
+442046,80,MissedShots,0.74,0.6179999923706054,0.012900691479444504,Daichi Kamada,a,6145,FromCorner,2021,RightFoot,17606,Greuther Fuerth,Eintracht Frankfurt,1,2,2021-11-07 18:30:00,,Aerial
+442052,92,BlockedShot,0.7819999694824219,0.64,0.02292868308722973,Filip Kostic,a,64,OpenPlay,2021,LeftFoot,17606,Greuther Fuerth,Eintracht Frankfurt,1,2,2021-11-07 18:30:00,,None
+442053,93,MissedShots,0.9119999694824219,0.6079999923706054,0.027166515588760376,Evan Ndicka,a,7049,OpenPlay,2021,Head,17606,Greuther Fuerth,Eintracht Frankfurt,1,2,2021-11-07 18:30:00,Filip Kostic,Goal
+442054,93,Goal,0.9569999694824218,0.40700000762939453,0.43805748224258423,Santos Borré,a,5113,OpenPlay,2021,RightFoot,17606,Greuther Fuerth,Eintracht Frankfurt,1,2,2021-11-07 18:30:00,Evan Ndicka,None

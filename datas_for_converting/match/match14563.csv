@@ -1,0 +1,26 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+393450,0,BlockedShot,0.7519999694824219,0.3240000152587891,0.01773761212825775,Trent Alexander-Arnold,h,1791,OpenPlay,2020,RightFoot,14563,Liverpool,Tottenham,2,1,2020-12-16 20:00:00,Curtis Jones,Pass
+393451,10,SavedShot,0.8769999694824219,0.42200000762939455,0.033449240028858185,Roberto Firmino,h,482,SetPiece,2020,Head,14563,Liverpool,Tottenham,2,1,2020-12-16 20:00:00,Andrew Robertson,Cross
+393452,20,SavedShot,0.8540000152587891,0.5059999847412109,0.09567765146493912,Mohamed Salah,h,1250,OpenPlay,2020,LeftFoot,14563,Liverpool,Tottenham,2,1,2020-12-16 20:00:00,Andrew Robertson,Pass
+393453,25,Goal,0.845,0.545,0.07410649955272675,Mohamed Salah,h,1250,OpenPlay,2020,LeftFoot,14563,Liverpool,Tottenham,2,1,2020-12-16 20:00:00,,Dispossessed
+393454,28,SavedShot,0.8469999694824218,0.55,0.09059268236160278,Curtis Jones,h,6665,OpenPlay,2020,RightFoot,14563,Liverpool,Tottenham,2,1,2020-12-16 20:00:00,,BallRecovery
+393455,32,SavedShot,0.8469999694824218,0.545,0.09345164149999619,Sadio Mané,h,838,OpenPlay,2020,RightFoot,14563,Liverpool,Tottenham,2,1,2020-12-16 20:00:00,Georginio Wijnaldum,Chipped
+393457,34,SavedShot,0.88,0.40700000762939453,0.1036134585738182,Roberto Firmino,h,482,OpenPlay,2020,RightFoot,14563,Liverpool,Tottenham,2,1,2020-12-16 20:00:00,Trent Alexander-Arnold,Pass
+393458,40,SavedShot,0.85,0.5540000152587891,0.09288404136896133,Sadio Mané,h,838,OpenPlay,2020,RightFoot,14563,Liverpool,Tottenham,2,1,2020-12-16 20:00:00,Andrew Robertson,Pass
+393460,49,BlockedShot,0.8530000305175781,0.7,0.032232873141765594,Curtis Jones,h,6665,OpenPlay,2020,RightFoot,14563,Liverpool,Tottenham,2,1,2020-12-16 20:00:00,Roberto Firmino,Pass
+393463,54,MissedShots,0.905,0.675,0.059218648821115494,Sadio Mané,h,838,SetPiece,2020,LeftFoot,14563,Liverpool,Tottenham,2,1,2020-12-16 20:00:00,Trent Alexander-Arnold,Chipped
+393464,56,SavedShot,0.7669999694824219,0.5070000076293946,0.02792428247630596,Mohamed Salah,h,1250,OpenPlay,2020,LeftFoot,14563,Liverpool,Tottenham,2,1,2020-12-16 20:00:00,Roberto Firmino,Pass
+393467,66,SavedShot,0.85,0.504000015258789,0.09628960490226746,Roberto Firmino,h,482,OpenPlay,2020,RightFoot,14563,Liverpool,Tottenham,2,1,2020-12-16 20:00:00,Sadio Mané,Pass
+393468,68,SavedShot,0.8830000305175781,0.3390000152587891,0.11884616315364838,Mohamed Salah,h,1250,OpenPlay,2020,RightFoot,14563,Liverpool,Tottenham,2,1,2020-12-16 20:00:00,Rhys Williams,Throughball
+393469,69,BlockedShot,0.8719999694824219,0.34200000762939453,0.06002546474337578,Roberto Firmino,h,482,OpenPlay,2020,LeftFoot,14563,Liverpool,Tottenham,2,1,2020-12-16 20:00:00,Mohamed Salah,Pass
+393470,72,BlockedShot,0.9430000305175781,0.6659999847412109,0.07499817758798599,Sadio Mané,h,838,OpenPlay,2020,LeftFoot,14563,Liverpool,Tottenham,2,1,2020-12-16 20:00:00,Curtis Jones,Pass
+393472,82,BlockedShot,0.879000015258789,0.315,0.03859841823577881,Curtis Jones,h,6665,OpenPlay,2020,LeftFoot,14563,Liverpool,Tottenham,2,1,2020-12-16 20:00:00,Sadio Mané,Chipped
+393474,89,Goal,0.925,0.4879999923706055,0.1081855446100235,Roberto Firmino,h,482,FromCorner,2020,Head,14563,Liverpool,Tottenham,2,1,2020-12-16 20:00:00,Andrew Robertson,Cross
+393456,32,Goal,0.8719999694824219,0.575999984741211,0.3481656014919281,Son Heung-Min,a,453,OpenPlay,2020,RightFoot,14563,Liverpool,Tottenham,2,1,2020-12-16 20:00:00,Giovani Lo Celso,Throughball
+393459,45,MissedShots,0.9280000305175782,0.64,0.34351450204849243,Steven Bergwijn,a,8300,OpenPlay,2020,RightFoot,14563,Liverpool,Tottenham,2,1,2020-12-16 20:00:00,,None
+393461,49,MissedShots,0.7819999694824219,0.9119999694824219,0.00920929666608572,Harry Kane,a,647,OpenPlay,2020,LeftFoot,14563,Liverpool,Tottenham,2,1,2020-12-16 20:00:00,,BallRecovery
+393462,51,MissedShots,0.789000015258789,0.34900001525878904,0.02612917311489582,Harry Kane,a,647,OpenPlay,2020,RightFoot,14563,Liverpool,Tottenham,2,1,2020-12-16 20:00:00,Giovani Lo Celso,Pass
+393465,62,ShotOnPost,0.905,0.6719999694824219,0.28153833746910095,Steven Bergwijn,a,8300,OpenPlay,2020,RightFoot,14563,Liverpool,Tottenham,2,1,2020-12-16 20:00:00,Son Heung-Min,HeadPass
+393466,62,MissedShots,0.9419999694824219,0.5129999923706055,0.4327799081802368,Harry Kane,a,647,FromCorner,2020,Head,14563,Liverpool,Tottenham,2,1,2020-12-16 20:00:00,Son Heung-Min,Cross
+393471,78,MissedShots,0.86,0.7230000305175781,0.032084450125694275,Harry Kane,a,647,OpenPlay,2020,RightFoot,14563,Liverpool,Tottenham,2,1,2020-12-16 20:00:00,Toby Alderweireld,Chipped
+393473,88,SavedShot,0.7290000152587891,0.36,0.04267985373735428,Eric Dier,a,643,DirectFreekick,2020,RightFoot,14563,Liverpool,Tottenham,2,1,2020-12-16 20:00:00,,Standard

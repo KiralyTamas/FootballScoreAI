@@ -1,0 +1,33 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+133334,13,MissedShots,0.9290000152587891,0.595999984741211,0.01796187460422516,Thomas Delaney,h,5230,FromCorner,2016,Head,3871,Werder Bremen,Hoffenheim,3,5,2017-05-13 14:30:00,Max Kruse,Aerial
+133335,17,BlockedShot,0.8730000305175781,0.48700000762939455,0.054353781044483185,Zlatko Junuzovic,h,301,OpenPlay,2016,RightFoot,3871,Werder Bremen,Hoffenheim,3,5,2017-05-13 14:30:00,Theodor Gebre Selassie,HeadPass
+133337,28,MissedShots,0.8059999847412109,0.49700000762939456,0.055017441511154175,Serge Gnabry,h,993,OpenPlay,2016,LeftFoot,3871,Werder Bremen,Hoffenheim,3,5,2017-05-13 14:30:00,Maximilian Eggestein,BallRecovery
+133338,29,MissedShots,0.9409999847412109,0.31799999237060544,0.02448558248579502,Zlatko Junuzovic,h,301,OpenPlay,2016,RightFoot,3871,Werder Bremen,Hoffenheim,3,5,2017-05-13 14:30:00,Thomas Delaney,Cross
+133339,36,BlockedShot,0.8780000305175781,0.4540000152587891,0.030342627316713333,Serge Gnabry,h,993,OpenPlay,2016,Head,3871,Werder Bremen,Hoffenheim,3,5,2017-05-13 14:30:00,Max Kruse,Aerial
+133347,58,SavedShot,0.6840000152587891,0.3390000152587891,0.008403954096138477,Zlatko Junuzovic,h,301,OpenPlay,2016,RightFoot,3871,Werder Bremen,Hoffenheim,3,5,2017-05-13 14:30:00,Philipp Bargfrede,Pass
+133348,58,Goal,0.9459999847412109,0.48200000762939454,0.48630571365356445,Theodor Gebre Selassie,h,110,OpenPlay,2016,Head,3871,Werder Bremen,Hoffenheim,3,5,2017-05-13 14:30:00,Max Kruse,Cross
+133349,61,SavedShot,0.8130000305175781,0.57,0.017554767429828644,Max Kruse,h,155,OpenPlay,2016,RightFoot,3871,Werder Bremen,Hoffenheim,3,5,2017-05-13 14:30:00,Theodor Gebre Selassie,Chipped
+133350,62,SavedShot,0.855999984741211,0.5329999923706055,0.017510464414954185,Theodor Gebre Selassie,h,110,FromCorner,2016,Head,3871,Werder Bremen,Hoffenheim,3,5,2017-05-13 14:30:00,Zlatko Junuzovic,Cross
+133351,63,SavedShot,0.8280000305175781,0.31,0.04785486310720444,Zlatko Junuzovic,h,301,OpenPlay,2016,LeftFoot,3871,Werder Bremen,Hoffenheim,3,5,2017-05-13 14:30:00,,TakeOn
+133352,65,BlockedShot,0.8440000152587891,0.32099998474121094,0.03822057321667671,Thomas Delaney,h,5230,OpenPlay,2016,LeftFoot,3871,Werder Bremen,Hoffenheim,3,5,2017-05-13 14:30:00,Robert Bauer,Pass
+133353,73,BlockedShot,0.9159999847412109,0.48200000762939454,0.11680739372968674,Milos Veljkovic,h,2691,FromCorner,2016,RightFoot,3871,Werder Bremen,Hoffenheim,3,5,2017-05-13 14:30:00,Robert Bauer,Pass
+133355,76,MissedShots,0.7030000305175781,0.3659999847412109,0.008283788338303566,Zlatko Junuzovic,h,301,OpenPlay,2016,RightFoot,3871,Werder Bremen,Hoffenheim,3,5,2017-05-13 14:30:00,Max Kruse,Pass
+133356,81,MissedShots,0.8009999847412109,0.524000015258789,0.019392741844058037,Fin Bartels,h,115,OpenPlay,2016,RightFoot,3871,Werder Bremen,Hoffenheim,3,5,2017-05-13 14:30:00,Max Kruse,Chipped
+133357,85,Goal,0.889000015258789,0.435,0.27587416768074036,Philipp Bargfrede,h,114,OpenPlay,2016,RightFoot,3871,Werder Bremen,Hoffenheim,3,5,2017-05-13 14:30:00,Robert Bauer,Cross
+133359,89,Goal,0.9230000305175782,0.3940000152587891,0.22948822379112244,Robert Bauer,h,237,FromCorner,2016,RightFoot,3871,Werder Bremen,Hoffenheim,3,5,2017-05-13 14:30:00,Philipp Bargfrede,Chipped
+133329,3,BlockedShot,0.754000015258789,0.7780000305175782,0.008898583240807056,Steven Zuber,a,254,OpenPlay,2016,RightFoot,3871,Werder Bremen,Hoffenheim,3,5,2017-05-13 14:30:00,,TakeOn
+133330,6,Goal,0.8390000152587891,0.5109999847412109,0.09050793945789337,Ádám Szalai,a,360,OpenPlay,2016,LeftFoot,3871,Werder Bremen,Hoffenheim,3,5,2017-05-13 14:30:00,Mark Uth,Pass
+133331,8,MissedShots,0.894000015258789,0.6270000076293946,0.026840828359127045,Mark Uth,a,88,OpenPlay,2016,Head,3871,Werder Bremen,Hoffenheim,3,5,2017-05-13 14:30:00,Kerem Demirbay,Chipped
+133332,9,BlockedShot,0.8109999847412109,0.7440000152587891,0.02700626663863659,Sebastian Rudy,a,90,OpenPlay,2016,LeftFoot,3871,Werder Bremen,Hoffenheim,3,5,2017-05-13 14:30:00,,None
+133333,10,Goal,0.925,0.67,0.07318022847175598,Andrej Kramaric,a,956,OpenPlay,2016,RightFoot,3871,Werder Bremen,Hoffenheim,3,5,2017-05-13 14:30:00,Ádám Szalai,Chipped
+133336,25,SavedShot,0.649000015258789,0.49599998474121093,0.011560515500605106,Mark Uth,a,88,OpenPlay,2016,LeftFoot,3871,Werder Bremen,Hoffenheim,3,5,2017-05-13 14:30:00,Sebastian Rudy,Pass
+133340,38,MissedShots,0.9469999694824218,0.6179999923706054,0.03433973714709282,Ádám Szalai,a,360,FromCorner,2016,Head,3871,Werder Bremen,Hoffenheim,3,5,2017-05-13 14:30:00,Kerem Demirbay,Cross
+133341,39,Goal,0.8419999694824218,0.5690000152587891,0.0938878133893013,Steven Zuber,a,254,OpenPlay,2016,RightFoot,3871,Werder Bremen,Hoffenheim,3,5,2017-05-13 14:30:00,Pavel Kaderábek,Pass
+133342,47,MissedShots,0.9469999694824218,0.34799999237060547,0.015243656001985073,Mark Uth,a,88,FromCorner,2016,Head,3871,Werder Bremen,Hoffenheim,3,5,2017-05-13 14:30:00,Sebastian Rudy,Cross
+133343,48,Goal,0.865,0.655,0.07015800476074219,Andrej Kramaric,a,956,OpenPlay,2016,RightFoot,3871,Werder Bremen,Hoffenheim,3,5,2017-05-13 14:30:00,Steven Zuber,Pass
+133344,49,MissedShots,0.750999984741211,0.33599998474121096,0.01928745210170746,Mark Uth,a,88,OpenPlay,2016,LeftFoot,3871,Werder Bremen,Hoffenheim,3,5,2017-05-13 14:30:00,,BallRecovery
+133345,50,SavedShot,0.8569999694824219,0.5670000076293945,0.08592084795236588,Andrej Kramaric,a,956,OpenPlay,2016,RightFoot,3871,Werder Bremen,Hoffenheim,3,5,2017-05-13 14:30:00,,None
+133346,50,Goal,0.9219999694824219,0.54,0.09922447800636292,Ermin Bicakcic,a,84,FromCorner,2016,Head,3871,Werder Bremen,Hoffenheim,3,5,2017-05-13 14:30:00,Kerem Demirbay,Cross
+133354,75,MissedShots,0.769000015258789,0.48,0.03000999055802822,Sebastian Rudy,a,90,OpenPlay,2016,LeftFoot,3871,Werder Bremen,Hoffenheim,3,5,2017-05-13 14:30:00,Nadiem Amiri,Pass
+133358,86,SavedShot,0.8569999694824219,0.34,0.30826953053474426,Andrej Kramaric,a,956,OpenPlay,2016,RightFoot,3871,Werder Bremen,Hoffenheim,3,5,2017-05-13 14:30:00,Kerem Demirbay,Chipped
+133360,92,SavedShot,0.749000015258789,0.3579999923706055,0.017535800114274025,Sandro Wagner,a,11,OpenPlay,2016,LeftFoot,3871,Werder Bremen,Hoffenheim,3,5,2017-05-13 14:30:00,,None

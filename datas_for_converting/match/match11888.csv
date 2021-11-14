@@ -1,0 +1,32 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+352573,17,MissedShots,0.8090000152587891,0.4759999847412109,0.049136534333229065,Andreas Pereira,h,922,OpenPlay,2019,RightFoot,11888,Manchester United,Wolverhampton Wanderers,0,0,2020-02-01 17:30:00,,None
+352575,24,MissedShots,0.735999984741211,0.6619999694824219,0.014309939928352833,Harry Maguire,h,1687,OpenPlay,2019,RightFoot,11888,Manchester United,Wolverhampton Wanderers,0,0,2020-02-01 17:30:00,,BallRecovery
+352577,32,MissedShots,0.7609999847412109,0.21299999237060546,0.01028718426823616,Bruno Fernandes,h,1228,OpenPlay,2019,RightFoot,11888,Manchester United,Wolverhampton Wanderers,0,0,2020-02-01 17:30:00,Victor Lindelöf,HeadPass
+352579,39,SavedShot,0.8130000305175781,0.46900001525878904,0.05104486271739006,Bruno Fernandes,h,1228,OpenPlay,2019,RightFoot,11888,Manchester United,Wolverhampton Wanderers,0,0,2020-02-01 17:30:00,,None
+352580,39,BlockedShot,0.7859999847412109,0.5820000076293945,0.02600577287375927,Bruno Fernandes,h,1228,OpenPlay,2019,RightFoot,11888,Manchester United,Wolverhampton Wanderers,0,0,2020-02-01 17:30:00,Anthony Martial,Pass
+352582,57,SavedShot,0.7240000152587891,0.5220000076293946,0.04823361709713936,Bruno Fernandes,h,1228,DirectFreekick,2019,RightFoot,11888,Manchester United,Wolverhampton Wanderers,0,0,2020-02-01 17:30:00,,Standard
+352583,59,MissedShots,0.789000015258789,0.4470000076293945,0.039785511791706085,Juan Mata,h,554,OpenPlay,2019,LeftFoot,11888,Manchester United,Wolverhampton Wanderers,0,0,2020-02-01 17:30:00,Aaron Wan-Bissaka,Pass
+352584,65,BlockedShot,0.7919999694824219,0.6079999923706054,0.03264620527625084,Fred,h,6817,OpenPlay,2019,LeftFoot,11888,Manchester United,Wolverhampton Wanderers,0,0,2020-02-01 17:30:00,Luke Shaw,Pass
+352586,67,SavedShot,0.7290000152587891,0.38599998474121094,0.020461397245526314,Bruno Fernandes,h,1228,OpenPlay,2019,RightFoot,11888,Manchester United,Wolverhampton Wanderers,0,0,2020-02-01 17:30:00,Harry Maguire,Pass
+352588,71,SavedShot,0.9169999694824219,0.7069999694824218,0.04794243350625038,Andreas Pereira,h,922,OpenPlay,2019,RightFoot,11888,Manchester United,Wolverhampton Wanderers,0,0,2020-02-01 17:30:00,,None
+352590,73,MissedShots,0.8669999694824219,0.5020000076293946,0.06951027363538742,Mason Greenwood,h,7490,OpenPlay,2019,RightFoot,11888,Manchester United,Wolverhampton Wanderers,0,0,2020-02-01 17:30:00,Luke Shaw,Cross
+352591,77,SavedShot,0.755,0.3120000076293945,0.01840927265584469,Mason Greenwood,h,7490,OpenPlay,2019,LeftFoot,11888,Manchester United,Wolverhampton Wanderers,0,0,2020-02-01 17:30:00,Fred,Pass
+352595,86,BlockedShot,0.879000015258789,0.4640000152587891,0.015398237854242325,Victor Lindelöf,h,6080,SetPiece,2019,Head,11888,Manchester United,Wolverhampton Wanderers,0,0,2020-02-01 17:30:00,Fred,Aerial
+352596,86,MissedShots,0.9530000305175781,0.3820000076293945,0.360303670167923,Harry Maguire,h,1687,SetPiece,2019,RightFoot,11888,Manchester United,Wolverhampton Wanderers,0,0,2020-02-01 17:30:00,,Rebound
+352597,87,MissedShots,0.9319999694824219,0.6120000076293945,0.016595305874943733,Victor Lindelöf,h,6080,FromCorner,2019,Head,11888,Manchester United,Wolverhampton Wanderers,0,0,2020-02-01 17:30:00,,Aerial
+352599,93,MissedShots,0.9219999694824219,0.500999984741211,0.37155982851982117,Diogo Dalot,h,7281,OpenPlay,2019,Head,11888,Manchester United,Wolverhampton Wanderers,0,0,2020-02-01 17:30:00,Aaron Wan-Bissaka,Cross
+352569,3,BlockedShot,0.9119999694824219,0.4909999847412109,0.053718194365501404,Romain Saiss,a,3491,SetPiece,2019,Head,11888,Manchester United,Wolverhampton Wanderers,0,0,2020-02-01 17:30:00,João Moutinho,Aerial
+352570,4,MissedShots,0.885,0.54,0.08595309406518936,Romain Saiss,a,3491,FromCorner,2019,LeftFoot,11888,Manchester United,Wolverhampton Wanderers,0,0,2020-02-01 17:30:00,,None
+352571,5,SavedShot,0.9369999694824219,0.6730000305175782,0.0913083404302597,Diogo Jota,a,6854,OpenPlay,2019,LeftFoot,11888,Manchester United,Wolverhampton Wanderers,0,0,2020-02-01 17:30:00,,TakeOn
+352572,12,BlockedShot,0.899000015258789,0.48900001525878906,0.07582271099090576,Diogo Jota,a,6854,OpenPlay,2019,Head,11888,Manchester United,Wolverhampton Wanderers,0,0,2020-02-01 17:30:00,Adama Traoré,Cross
+352574,19,SavedShot,0.9109999847412109,0.634000015258789,0.011435183696448803,Matt Doherty,a,6852,FromCorner,2019,Head,11888,Manchester United,Wolverhampton Wanderers,0,0,2020-02-01 17:30:00,João Moutinho,Aerial
+352576,29,MissedShots,0.725,0.4929999923706055,0.04896115884184837,Rúben Neves,a,6853,DirectFreekick,2019,RightFoot,11888,Manchester United,Wolverhampton Wanderers,0,0,2020-02-01 17:30:00,,Standard
+352578,34,MissedShots,0.8630000305175781,0.3320000076293945,0.05603310838341713,Adama Traoré,a,900,OpenPlay,2019,RightFoot,11888,Manchester United,Wolverhampton Wanderers,0,0,2020-02-01 17:30:00,Diogo Jota,Pass
+352581,52,SavedShot,0.9259999847412109,0.580999984741211,0.1006120964884758,Diogo Jota,a,6854,OpenPlay,2019,LeftFoot,11888,Manchester United,Wolverhampton Wanderers,0,0,2020-02-01 17:30:00,,None
+352585,66,BlockedShot,0.845,0.415,0.07175424695014954,Adama Traoré,a,900,OpenPlay,2019,RightFoot,11888,Manchester United,Wolverhampton Wanderers,0,0,2020-02-01 17:30:00,Diogo Jota,Pass
+352587,68,SavedShot,0.9359999847412109,0.3220000076293945,0.099483922123909,Raúl Jiménez,a,4105,OpenPlay,2019,RightFoot,11888,Manchester United,Wolverhampton Wanderers,0,0,2020-02-01 17:30:00,Adama Traoré,Pass
+352589,72,MissedShots,0.8109999847412109,0.73,0.021941008046269417,João Moutinho,a,3422,OpenPlay,2019,RightFoot,11888,Manchester United,Wolverhampton Wanderers,0,0,2020-02-01 17:30:00,,BallRecovery
+352592,78,MissedShots,0.9230000305175782,0.5029999923706054,0.35071903467178345,Romain Saiss,a,3491,SetPiece,2019,Head,11888,Manchester United,Wolverhampton Wanderers,0,0,2020-02-01 17:30:00,João Moutinho,Cross
+352593,84,BlockedShot,0.9530000305175781,0.4,0.3155226707458496,Matt Doherty,a,6852,OpenPlay,2019,RightFoot,11888,Manchester United,Wolverhampton Wanderers,0,0,2020-02-01 17:30:00,Daniel Podence,Cross
+352594,84,BlockedShot,0.9230000305175782,0.5279999923706055,0.04612597078084946,Romain Saiss,a,3491,FromCorner,2019,Head,11888,Manchester United,Wolverhampton Wanderers,0,0,2020-02-01 17:30:00,João Moutinho,Aerial
+352598,92,BlockedShot,0.8730000305175781,0.5179999923706055,0.11271605640649796,Daniel Podence,a,8291,OpenPlay,2019,LeftFoot,11888,Manchester United,Wolverhampton Wanderers,0,0,2020-02-01 17:30:00,Pedro Neto,Pass

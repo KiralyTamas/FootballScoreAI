@@ -1,0 +1,28 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+189937,2,MissedShots,0.9130000305175782,0.34200000762939453,0.3106944262981415,Julian Draxler,h,152,OpenPlay,2017,RightFoot,8790,Paris Saint Germain,Montpellier,4,0,2018-01-27 19:00:00,Ángel Di María,TakeOn
+189940,10,Goal,0.9590000152587891,0.515,0.6666241884231567,Edinson Cavani,h,3294,OpenPlay,2017,LeftFoot,8790,Paris Saint Germain,Montpellier,4,0,2018-01-27 19:00:00,Adrien Rabiot,Pass
+189941,12,SavedShot,0.889000015258789,0.4,0.3018518388271332,Julian Draxler,h,152,OpenPlay,2017,RightFoot,8790,Paris Saint Germain,Montpellier,4,0,2018-01-27 19:00:00,Neymar,Chipped
+189946,36,MissedShots,0.8909999847412109,0.5790000152587891,0.046007685363292694,Julian Draxler,h,152,OpenPlay,2017,Head,8790,Paris Saint Germain,Montpellier,4,0,2018-01-27 19:00:00,Ángel Di María,Pass
+189947,38,BlockedShot,0.85,0.5820000076293945,0.0832231268286705,Julian Draxler,h,152,OpenPlay,2017,RightFoot,8790,Paris Saint Germain,Montpellier,4,0,2018-01-27 19:00:00,,None
+189948,39,Goal,0.885,0.5,0.7600951194763184,Neymar,h,2099,Penalty,2017,RightFoot,8790,Paris Saint Germain,Montpellier,4,0,2018-01-27 19:00:00,,Standard
+189949,43,SavedShot,0.875999984741211,0.4329999923706055,0.09842357784509659,Neymar,h,2099,OpenPlay,2017,RightFoot,8790,Paris Saint Germain,Montpellier,4,0,2018-01-27 19:00:00,,None
+189950,46,SavedShot,0.7809999847412109,0.35700000762939454,0.03746837377548218,Giovani Lo Celso,h,5681,OpenPlay,2017,LeftFoot,8790,Paris Saint Germain,Montpellier,4,0,2018-01-27 19:00:00,Ángel Di María,Pass
+189957,69,Goal,0.879000015258789,0.47,0.458328515291214,Ángel Di María,h,3553,OpenPlay,2017,LeftFoot,8790,Paris Saint Germain,Montpellier,4,0,2018-01-27 19:00:00,Thomas Meunier,Pass
+189959,81,Goal,0.9540000152587891,0.5070000076293946,0.892040491104126,Neymar,h,2099,OpenPlay,2017,LeftFoot,8790,Paris Saint Germain,Montpellier,4,0,2018-01-27 19:00:00,Edinson Cavani,Pass
+189963,90,MissedShots,0.9290000152587891,0.4809999847412109,0.5941126346588135,Edinson Cavani,h,3294,OpenPlay,2017,RightFoot,8790,Paris Saint Germain,Montpellier,4,0,2018-01-27 19:00:00,Ángel Di María,Pass
+189938,7,SavedShot,0.635,0.2589999961853027,0.02202155441045761,Junior Sambia,a,6239,DirectFreekick,2017,RightFoot,8790,Paris Saint Germain,Montpellier,4,0,2018-01-27 19:00:00,,Standard
+189939,9,BlockedShot,0.735,0.5629999923706055,0.018209056928753853,Paul Lasne,a,3741,OpenPlay,2017,LeftFoot,8790,Paris Saint Germain,Montpellier,4,0,2018-01-27 19:00:00,Junior Sambia,Pass
+189942,24,SavedShot,0.7469999694824219,0.3770000076293945,0.019570939242839813,Junior Sambia,a,6239,OpenPlay,2017,LeftFoot,8790,Paris Saint Germain,Montpellier,4,0,2018-01-27 19:00:00,Isaac Mbenza,Pass
+189943,31,BlockedShot,0.7859999847412109,0.4,0.0294013824313879,Ellyes Skhiri,a,3347,OpenPlay,2017,RightFoot,8790,Paris Saint Germain,Montpellier,4,0,2018-01-27 19:00:00,,None
+189944,32,MissedShots,0.7230000305175781,0.47299999237060547,0.014510965906083584,Paul Lasne,a,3741,FromCorner,2017,RightFoot,8790,Paris Saint Germain,Montpellier,4,0,2018-01-27 19:00:00,,None
+189945,34,BlockedShot,0.6469999694824219,0.5029999923706054,0.026622062548995018,Junior Sambia,a,6239,DirectFreekick,2017,RightFoot,8790,Paris Saint Germain,Montpellier,4,0,2018-01-27 19:00:00,,Standard
+189951,49,MissedShots,0.74,0.7169999694824218,0.013349814340472221,Isaac Mbenza,a,5662,OpenPlay,2017,RightFoot,8790,Paris Saint Germain,Montpellier,4,0,2018-01-27 19:00:00,Paul Lasne,Pass
+189952,53,BlockedShot,0.77,0.73,0.018155382946133614,Isaac Mbenza,a,5662,FromCorner,2017,RightFoot,8790,Paris Saint Germain,Montpellier,4,0,2018-01-27 19:00:00,Junior Sambia,Pass
+189953,57,BlockedShot,0.8119999694824219,0.19399999618530273,0.045273277908563614,Junior Sambia,a,6239,DirectFreekick,2017,RightFoot,8790,Paris Saint Germain,Montpellier,4,0,2018-01-27 19:00:00,,Standard
+189954,58,BlockedShot,0.7830000305175782,0.40299999237060546,0.030071459710597992,Paul Lasne,a,3741,FromCorner,2017,RightFoot,8790,Paris Saint Germain,Montpellier,4,0,2018-01-27 19:00:00,Junior Sambia,Pass
+189955,66,SavedShot,0.8030000305175782,0.32799999237060545,0.027690880000591278,Junior Sambia,a,6239,OpenPlay,2017,RightFoot,8790,Paris Saint Germain,Montpellier,4,0,2018-01-27 19:00:00,Nordi Mukiele,Pass
+189956,66,MissedShots,0.909000015258789,0.41200000762939454,0.31559062004089355,Souleymane Camara,a,3590,OpenPlay,2017,RightFoot,8790,Paris Saint Germain,Montpellier,4,0,2018-01-27 19:00:00,,Rebound
+189958,79,MissedShots,0.7530000305175781,0.624000015258789,0.01685173809528351,Souleymane Camara,a,3590,OpenPlay,2017,LeftFoot,8790,Paris Saint Germain,Montpellier,4,0,2018-01-27 19:00:00,Ellyes Skhiri,Pass
+189960,83,MissedShots,0.9369999694824219,0.6029999923706054,0.04838613420724869,Souleymane Camara,a,3590,FromCorner,2017,Head,8790,Paris Saint Germain,Montpellier,4,0,2018-01-27 19:00:00,Keagan Dolly,Cross
+189961,84,MissedShots,0.8859999847412109,0.3970000076293945,0.018876759335398674,Pedro Mendes,a,3221,FromCorner,2017,Head,8790,Paris Saint Germain,Montpellier,4,0,2018-01-27 19:00:00,Keagan Dolly,Cross
+189962,88,MissedShots,0.76,0.5429999923706055,0.02453751116991043,Keagan Dolly,a,5663,OpenPlay,2017,LeftFoot,8790,Paris Saint Germain,Montpellier,4,0,2018-01-27 19:00:00,Casimir Ninga,Pass

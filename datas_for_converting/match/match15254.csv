@@ -1,0 +1,19 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+393856,17,MissedShots,0.7390000152587891,0.40299999237060546,0.015316999517381191,Alessandro Schöpf,h,2638,FromCorner,2020,LeftFoot,15254,Schalke 04,Arminia Bielefeld,0,1,2020-12-19 14:30:00,,None
+393859,21,SavedShot,0.8169999694824219,0.4909999847412109,0.08508145809173584,Benito Raman,h,7059,OpenPlay,2020,LeftFoot,15254,Schalke 04,Arminia Bielefeld,0,1,2020-12-19 14:30:00,,TakeOn
+393860,22,MissedShots,0.7480000305175781,0.625,0.018220026046037674,Suat Serdar,h,307,OpenPlay,2020,RightFoot,15254,Schalke 04,Arminia Bielefeld,0,1,2020-12-19 14:30:00,,Tackle
+393862,37,MissedShots,0.9830000305175781,0.4,0.06110033392906189,Hamza Mendyl,h,5728,OpenPlay,2020,LeftFoot,15254,Schalke 04,Arminia Bielefeld,0,1,2020-12-19 14:30:00,Benito Raman,Cross
+393864,41,BlockedShot,0.8090000152587891,0.4490000152587891,0.05114910006523132,Nassim Boujellab,h,7522,OpenPlay,2020,RightFoot,15254,Schalke 04,Arminia Bielefeld,0,1,2020-12-19 14:30:00,Benjamin Stambouli,Pass
+393867,45,SavedShot,0.7080000305175781,0.31799999237060544,0.009432741440832615,Nassim Boujellab,h,7522,OpenPlay,2020,RightFoot,15254,Schalke 04,Arminia Bielefeld,0,1,2020-12-19 14:30:00,,None
+393869,55,MissedShots,0.8830000305175781,0.4759999847412109,0.019589656963944435,Salif Sané,h,96,SetPiece,2020,Head,15254,Schalke 04,Arminia Bielefeld,0,1,2020-12-19 14:30:00,Bastian Oczipka,Aerial
+393871,76,MissedShots,0.7319999694824219,0.43900001525878907,0.019296247512102127,Ozan Kabak,h,7376,OpenPlay,2020,RightFoot,15254,Schalke 04,Arminia Bielefeld,0,1,2020-12-19 14:30:00,Amine Harit,Pass
+393872,82,BlockedShot,0.845999984741211,0.45799999237060546,0.05933750048279762,Ahmed Kutucu,h,7309,OpenPlay,2020,LeftFoot,15254,Schalke 04,Arminia Bielefeld,0,1,2020-12-19 14:30:00,,None
+393855,11,MissedShots,0.805,0.44299999237060544,0.05065925791859627,Manuel Prietl,a,8789,OpenPlay,2020,LeftFoot,15254,Schalke 04,Arminia Bielefeld,0,1,2020-12-19 14:30:00,Sergio Córdova,BallTouch
+393857,18,MissedShots,0.9069999694824219,0.4470000076293945,0.04640394449234009,Ritsu Doan,a,8791,OpenPlay,2020,Head,15254,Schalke 04,Arminia Bielefeld,0,1,2020-12-19 14:30:00,Sergio Córdova,Chipped
+393858,18,MissedShots,0.9290000152587891,0.5670000076293945,0.13627152144908905,Christian Gebauer,a,8796,OpenPlay,2020,RightFoot,15254,Schalke 04,Arminia Bielefeld,0,1,2020-12-19 14:30:00,Ritsu Doan,Rebound
+393861,23,BlockedShot,0.9590000152587891,0.5220000076293946,0.13641615211963654,Cédric Brunner,a,8794,FromCorner,2020,Head,15254,Schalke 04,Arminia Bielefeld,0,1,2020-12-19 14:30:00,Ritsu Doan,Cross
+393863,38,SavedShot,0.7809999847412109,0.629000015258789,0.02447676658630371,Christian Gebauer,a,8796,OpenPlay,2020,RightFoot,15254,Schalke 04,Arminia Bielefeld,0,1,2020-12-19 14:30:00,,None
+393865,43,ShotOnPost,0.8859999847412109,0.4279999923706055,0.29425564408302307,Sergio Córdova,a,6096,OpenPlay,2020,RightFoot,15254,Schalke 04,Arminia Bielefeld,0,1,2020-12-19 14:30:00,Cédric Brunner,Chipped
+393866,47,SavedShot,0.8690000152587891,0.49,0.04872593656182289,Mike van der Hoorn,a,1702,SetPiece,2020,Head,15254,Schalke 04,Arminia Bielefeld,0,1,2020-12-19 14:30:00,Ritsu Doan,Cross
+393868,52,Goal,0.904000015258789,0.4570000076293945,0.10521530359983444,Fabian Klos,a,8792,OpenPlay,2020,Head,15254,Schalke 04,Arminia Bielefeld,0,1,2020-12-19 14:30:00,Nathan de Medina,Cross
+393870,70,MissedShots,0.8809999847412109,0.31799999237060544,0.06378873437643051,Sergio Córdova,a,6096,OpenPlay,2020,RightFoot,15254,Schalke 04,Arminia Bielefeld,0,1,2020-12-19 14:30:00,Sven Schipplock,Pass

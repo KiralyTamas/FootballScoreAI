@@ -1,0 +1,27 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+17593,16,Goal,0.784000015258789,0.5279999923706055,0.05033857747912407,Charlie Austin,h,848,OpenPlay,2014,RightFoot,4718,Queens Park Rangers,Aston Villa,2,0,2014-10-27 20:00:00,Bobby Zamora,LayOff
+17595,20,BlockedShot,0.740999984741211,0.5459999847412109,0.024916084483265877,Leroy Fer,h,711,OpenPlay,2014,RightFoot,4718,Queens Park Rangers,Aston Villa,2,0,2014-10-27 20:00:00,Eduardo Vargas,Pass
+17596,20,MissedShots,0.75,0.710999984741211,0.013376973569393158,Yun Suk-Young,h,4393,OpenPlay,2014,RightFoot,4718,Queens Park Rangers,Aston Villa,2,0,2014-10-27 20:00:00,,Rebound
+17600,34,MissedShots,0.8019999694824219,0.305,0.027754807844758034,Sandro,h,817,OpenPlay,2014,RightFoot,4718,Queens Park Rangers,Aston Villa,2,0,2014-10-27 20:00:00,Mauricio Isla,Pass
+17605,66,ShotOnPost,0.815,0.7230000305175781,0.029505809769034386,Junior Hoilett,h,4395,OpenPlay,2014,RightFoot,4718,Queens Park Rangers,Aston Villa,2,0,2014-10-27 20:00:00,Mauricio Isla,Pass
+17606,68,Goal,0.9380000305175781,0.455,0.13522908091545105,Charlie Austin,h,848,OpenPlay,2014,RightFoot,4718,Queens Park Rangers,Aston Villa,2,0,2014-10-27 20:00:00,Eduardo Vargas,Cross
+17607,75,SavedShot,0.879000015258789,0.5979999923706054,0.3290177881717682,Eduardo Vargas,h,85,OpenPlay,2014,RightFoot,4718,Queens Park Rangers,Aston Villa,2,0,2014-10-27 20:00:00,Junior Hoilett,Chipped
+17608,77,MissedShots,0.725,0.38799999237060545,0.021011918783187866,Karl Henry,h,4394,OpenPlay,2014,RightFoot,4718,Queens Park Rangers,Aston Villa,2,0,2014-10-27 20:00:00,Leroy Fer,Pass
+17609,77,BlockedShot,0.8730000305175781,0.629000015258789,0.07568155229091644,Charlie Austin,h,848,OpenPlay,2014,RightFoot,4718,Queens Park Rangers,Aston Villa,2,0,2014-10-27 20:00:00,,None
+17613,81,SavedShot,0.7619999694824219,0.3240000152587891,0.025910979136824608,Leroy Fer,h,711,OpenPlay,2014,LeftFoot,4718,Queens Park Rangers,Aston Villa,2,0,2014-10-27 20:00:00,Mauricio Isla,Pass
+17615,91,BlockedShot,0.8130000305175781,0.4929999923706055,0.08425980061292648,Armand Traore,h,4431,OpenPlay,2014,LeftFoot,4718,Queens Park Rangers,Aston Villa,2,0,2014-10-27 20:00:00,Mauricio Isla,Pass
+17590,3,SavedShot,0.8419999694824218,0.5629999923706055,0.02673744596540928,Ashley Westwood,a,669,OpenPlay,2014,RightFoot,4718,Queens Park Rangers,Aston Villa,2,0,2014-10-27 20:00:00,,Aerial
+17591,12,BlockedShot,0.8730000305175781,0.635,0.06770551949739456,Gabriel Agbonlahor,a,890,OpenPlay,2014,LeftFoot,4718,Queens Park Rangers,Aston Villa,2,0,2014-10-27 20:00:00,Andreas Weimann,HeadPass
+17592,14,SavedShot,0.7190000152587891,0.52,0.013616029173135757,Carlos Sánchez,a,667,OpenPlay,2014,RightFoot,4718,Queens Park Rangers,Aston Villa,2,0,2014-10-27 20:00:00,,None
+17594,19,MissedShots,0.8580000305175781,0.45,0.05768260359764099,Christian Benteke,a,606,OpenPlay,2014,Head,4718,Queens Park Rangers,Aston Villa,2,0,2014-10-27 20:00:00,Ashley Westwood,Throughball
+17597,22,BlockedShot,0.8780000305175781,0.705,0.04344462975859642,Christian Benteke,a,606,OpenPlay,2014,RightFoot,4718,Queens Park Rangers,Aston Villa,2,0,2014-10-27 20:00:00,Andreas Weimann,Pass
+17598,30,SavedShot,0.9080000305175782,0.45099998474121095,0.0679839700460434,Andreas Weimann,a,4427,OpenPlay,2014,Head,4718,Queens Park Rangers,Aston Villa,2,0,2014-10-27 20:00:00,Aly Cissokho,Cross
+17599,33,BlockedShot,0.8519999694824218,0.4229999923706055,0.05693837255239487,Andreas Weimann,a,4427,OpenPlay,2014,LeftFoot,4718,Queens Park Rangers,Aston Villa,2,0,2014-10-27 20:00:00,,None
+17601,38,SavedShot,0.85,0.66,0.042014073580503464,Christian Benteke,a,606,OpenPlay,2014,RightFoot,4718,Queens Park Rangers,Aston Villa,2,0,2014-10-27 20:00:00,Andreas Weimann,Dispossessed
+17602,54,MissedShots,0.9569999694824218,0.43099998474121093,0.5331647396087646,Ciaran Clark,a,875,SetPiece,2014,RightFoot,4718,Queens Park Rangers,Aston Villa,2,0,2014-10-27 20:00:00,Christian Benteke,HeadPass
+17603,56,BlockedShot,0.6980000305175781,0.47400001525878904,0.011811641044914722,Carlos Sánchez,a,667,OpenPlay,2014,RightFoot,4718,Queens Park Rangers,Aston Villa,2,0,2014-10-27 20:00:00,,None
+17604,59,BlockedShot,0.8209999847412109,0.3029999923706055,0.027510078623890877,Andreas Weimann,a,4427,OpenPlay,2014,LeftFoot,4718,Queens Park Rangers,Aston Villa,2,0,2014-10-27 20:00:00,Ashley Westwood,Pass
+17610,79,MissedShots,0.9119999694824219,0.45599998474121095,0.032118383795022964,Christian Benteke,a,606,FromCorner,2014,Head,4718,Queens Park Rangers,Aston Villa,2,0,2014-10-27 20:00:00,,Aerial
+17611,79,SavedShot,0.8159999847412109,0.4520000076293945,0.05204055458307266,Tom Cleverley,a,596,OpenPlay,2014,RightFoot,4718,Queens Park Rangers,Aston Villa,2,0,2014-10-27 20:00:00,,BallTouch
+17612,79,SavedShot,0.9259999847412109,0.5279999923706055,0.1541285365819931,Ciaran Clark,a,875,OpenPlay,2014,LeftFoot,4718,Queens Park Rangers,Aston Villa,2,0,2014-10-27 20:00:00,,Rebound
+17614,88,MissedShots,0.705,0.5829999923706055,0.008217819966375828,Christian Benteke,a,606,OpenPlay,2014,RightFoot,4718,Queens Park Rangers,Aston Villa,2,0,2014-10-27 20:00:00,Darren Bent,HeadPass

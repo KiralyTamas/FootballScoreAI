@@ -1,0 +1,29 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+57065,6,Goal,0.835,0.629000015258789,0.06257480382919312,Tom Cleverley,h,596,OpenPlay,2015,LeftFoot,429,Everton,Bournemouth,2,1,2016-04-30 18:00:00,Ross Barkley,TakeOn
+57067,17,BlockedShot,0.93,0.7069999694824218,0.05368615314364433,Ross Barkley,h,592,OpenPlay,2015,LeftFoot,429,Everton,Bournemouth,2,1,2016-04-30 18:00:00,Leighton Baines,Pass
+57069,25,MissedShots,0.7619999694824219,0.5209999847412109,0.028429612517356873,Tom Cleverley,h,596,OpenPlay,2015,RightFoot,429,Everton,Bournemouth,2,1,2016-04-30 18:00:00,James McCarthy,Pass
+57073,36,MissedShots,0.8480000305175781,0.43599998474121093,0.08619171380996704,Ross Barkley,h,592,OpenPlay,2015,RightFoot,429,Everton,Bournemouth,2,1,2016-04-30 18:00:00,Oumar Niasse,Pass
+57074,36,SavedShot,0.85,0.5629999923706055,0.35173413157463074,Ross Barkley,h,592,OpenPlay,2015,RightFoot,429,Everton,Bournemouth,2,1,2016-04-30 18:00:00,Oumar Niasse,Throughball
+57075,43,BlockedShot,0.8519999694824218,0.8180000305175781,0.020709289237856865,Leighton Baines,h,588,OpenPlay,2015,LeftFoot,429,Everton,Bournemouth,2,1,2016-04-30 18:00:00,Oumar Niasse,Pass
+57076,43,MissedShots,0.895,0.5640000152587891,0.0566052682697773,Oumar Niasse,h,599,FromCorner,2015,RightFoot,429,Everton,Bournemouth,2,1,2016-04-30 18:00:00,Leighton Baines,Cross
+57078,53,BlockedShot,0.795,0.7090000152587891,0.018639253452420235,Ross Barkley,h,592,OpenPlay,2015,RightFoot,429,Everton,Bournemouth,2,1,2016-04-30 18:00:00,Leighton Baines,Pass
+57082,63,Goal,0.9159999847412109,0.6,0.11867880821228027,Leighton Baines,h,588,OpenPlay,2015,LeftFoot,429,Everton,Bournemouth,2,1,2016-04-30 18:00:00,Tom Cleverley,Pass
+57083,64,SavedShot,0.754000015258789,0.46,0.02901998721063137,Aaron Lennon,h,593,OpenPlay,2015,RightFoot,429,Everton,Bournemouth,2,1,2016-04-30 18:00:00,Darron Gibson,Pass
+57084,65,SavedShot,0.9209999847412109,0.27700000762939453,0.05855722352862358,Tony Hibbert,h,1031,OpenPlay,2015,RightFoot,429,Everton,Bournemouth,2,1,2016-04-30 18:00:00,Ross Barkley,Pass
+57088,70,MissedShots,0.8159999847412109,0.51,0.06798333674669266,Tom Cleverley,h,596,OpenPlay,2015,RightFoot,429,Everton,Bournemouth,2,1,2016-04-30 18:00:00,Ross Barkley,Pass
+57066,8,Goal,0.9390000152587891,0.5670000076293945,0.47047773003578186,Marc Pugh,a,466,OpenPlay,2015,RightFoot,429,Everton,Bournemouth,2,1,2016-04-30 18:00:00,Joshua King,Pass
+57068,19,BlockedShot,0.759000015258789,0.45799999237060546,0.02182634174823761,Matt Ritchie,a,461,OpenPlay,2015,LeftFoot,429,Everton,Bournemouth,2,1,2016-04-30 18:00:00,Simon Francis,Pass
+57070,26,BlockedShot,0.7559999847412109,0.47400001525878904,0.02067132294178009,Matt Ritchie,a,461,OpenPlay,2015,LeftFoot,429,Everton,Bournemouth,2,1,2016-04-30 18:00:00,Joshua King,Pass
+57071,27,BlockedShot,0.7730000305175782,0.625,0.0232535507529974,Matt Ritchie,a,461,OpenPlay,2015,LeftFoot,429,Everton,Bournemouth,2,1,2016-04-30 18:00:00,Callum Wilson,Pass
+57072,28,MissedShots,0.9030000305175782,0.37099998474121093,0.011325821280479431,Simon Francis,a,456,FromCorner,2015,Head,429,Everton,Bournemouth,2,1,2016-04-30 18:00:00,Harry Arter,Aerial
+57077,47,MissedShots,0.8980000305175782,0.2560000038146973,0.05768430605530739,Joshua King,a,465,OpenPlay,2015,RightFoot,429,Everton,Bournemouth,2,1,2016-04-30 18:00:00,Callum Wilson,LayOff
+57079,58,MissedShots,0.774000015258789,0.4540000152587891,0.044821932911872864,Joshua King,a,465,OpenPlay,2015,RightFoot,429,Everton,Bournemouth,2,1,2016-04-30 18:00:00,Callum Wilson,LayOff
+57080,59,MissedShots,0.92,0.3139999961853027,0.0514659620821476,Callum Wilson,a,468,OpenPlay,2015,RightFoot,429,Everton,Bournemouth,2,1,2016-04-30 18:00:00,Simon Francis,Chipped
+57081,62,SavedShot,0.7759999847412109,0.32,0.05890059471130371,Matt Ritchie,a,461,DirectFreekick,2015,LeftFoot,429,Everton,Bournemouth,2,1,2016-04-30 18:00:00,,Standard
+57085,69,BlockedShot,0.865,0.5279999923706055,0.06612531840801239,Benik Afobe,a,826,OpenPlay,2015,LeftFoot,429,Everton,Bournemouth,2,1,2016-04-30 18:00:00,Simon Francis,Cross
+57086,69,BlockedShot,0.845999984741211,0.6909999847412109,0.03612499311566353,Junior Stanislas,a,463,OpenPlay,2015,RightFoot,429,Everton,Bournemouth,2,1,2016-04-30 18:00:00,,Rebound
+57087,70,BlockedShot,0.789000015258789,0.48900001525878906,0.04723607748746872,Matt Ritchie,a,461,OpenPlay,2015,LeftFoot,429,Everton,Bournemouth,2,1,2016-04-30 18:00:00,Benik Afobe,LayOff
+57089,76,MissedShots,0.855999984741211,0.720999984741211,0.0321706160902977,Junior Stanislas,a,463,OpenPlay,2015,RightFoot,429,Everton,Bournemouth,2,1,2016-04-30 18:00:00,Andrew Surman,Pass
+57090,77,MissedShots,0.9369999694824219,0.4929999923706055,0.4536605775356293,Benik Afobe,a,826,OpenPlay,2015,Head,429,Everton,Bournemouth,2,1,2016-04-30 18:00:00,Callum Wilson,Cross
+57091,81,BlockedShot,0.784000015258789,0.6880000305175781,0.01328106876462698,Junior Stanislas,a,463,OpenPlay,2015,RightFoot,429,Everton,Bournemouth,2,1,2016-04-30 18:00:00,Charlie Daniels,TakeOn
+57092,88,MissedShots,0.7719999694824219,0.35200000762939454,0.01934889703989029,Matt Ritchie,a,461,OpenPlay,2015,LeftFoot,429,Everton,Bournemouth,2,1,2016-04-30 18:00:00,Benik Afobe,Pass

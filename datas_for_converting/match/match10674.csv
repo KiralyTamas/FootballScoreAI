@@ -1,0 +1,22 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+221794,7,SavedShot,0.785,0.8,0.012832611799240112,Renaud Ripart,h,6864,OpenPlay,2018,RightFoot,10674,Nimes,Paris Saint Germain,2,4,2018-09-01 15:00:00,Gaetan Paquiez,Pass
+221797,17,MissedShots,0.8909999847412109,0.35700000762939454,0.00787442922592163,Moustapha Diallo,h,3575,SetPiece,2018,Head,10674,Nimes,Paris Saint Germain,2,4,2018-09-01 15:00:00,Téji Savanier,Aerial
+221800,46,SavedShot,0.8980000305175782,0.6359999847412109,0.08614365756511688,Baptiste Guillaume,h,3724,OpenPlay,2018,LeftFoot,10674,Nimes,Paris Saint Germain,2,4,2018-09-01 15:00:00,Theo Valls,Pass
+221801,51,MissedShots,0.7269999694824218,0.9740000152587891,0.020866835489869118,Téji Savanier,h,6863,DirectFreekick,2018,RightFoot,10674,Nimes,Paris Saint Germain,2,4,2018-09-01 15:00:00,,Standard
+221802,54,SavedShot,0.7719999694824219,0.44799999237060545,0.029763495549559593,Theo Valls,h,6866,OpenPlay,2018,LeftFoot,10674,Nimes,Paris Saint Germain,2,4,2018-09-01 15:00:00,Sofiane Alakouch,Pass
+221804,62,Goal,0.8119999694824219,0.5220000076293946,0.0661998987197876,Antonin Bobichon,h,6869,OpenPlay,2018,RightFoot,10674,Nimes,Paris Saint Germain,2,4,2018-09-01 15:00:00,Sada Thioub,Pass
+221805,70,Goal,0.885,0.5,0.7600294947624207,Téji Savanier,h,6863,Penalty,2018,RightFoot,10674,Nimes,Paris Saint Germain,2,4,2018-09-01 15:00:00,,Standard
+221806,73,ShotOnPost,0.8930000305175781,0.3160000038146973,0.05280538275837898,Sofiane Alakouch,h,6860,OpenPlay,2018,RightFoot,10674,Nimes,Paris Saint Germain,2,4,2018-09-01 15:00:00,,None
+221807,74,BlockedShot,0.730999984741211,0.710999984741211,0.012902617454528809,Clement Depres,h,6867,OpenPlay,2018,RightFoot,10674,Nimes,Paris Saint Germain,2,4,2018-09-01 15:00:00,Renaud Ripart,Pass
+221808,76,SavedShot,0.8230000305175781,0.7609999847412109,0.023185912519693375,Renaud Ripart,h,6864,OpenPlay,2018,RightFoot,10674,Nimes,Paris Saint Germain,2,4,2018-09-01 15:00:00,Sada Thioub,Pass
+221810,81,BlockedShot,0.759000015258789,0.4159999847412109,0.021622374653816223,Téji Savanier,h,6863,OpenPlay,2018,LeftFoot,10674,Nimes,Paris Saint Germain,2,4,2018-09-01 15:00:00,Sada Thioub,Pass
+221811,85,MissedShots,0.884000015258789,0.3129999923706055,0.047721005976200104,Renaud Ripart,h,6864,FromCorner,2018,LeftFoot,10674,Nimes,Paris Saint Germain,2,4,2018-09-01 15:00:00,Anthony Briancon,Pass
+221812,89,BlockedShot,0.7319999694824219,0.6229999923706054,0.018669020384550095,Umut Bozok,h,6865,OpenPlay,2018,RightFoot,10674,Nimes,Paris Saint Germain,2,4,2018-09-01 15:00:00,Clement Depres,Pass
+221813,89,MissedShots,0.95,0.34799999237060547,0.014486823230981827,Renaud Ripart,h,6864,FromCorner,2018,Head,10674,Nimes,Paris Saint Germain,2,4,2018-09-01 15:00:00,Téji Savanier,Cross
+221795,10,BlockedShot,0.8580000305175781,0.53,0.12084712833166122,Kylian Mbappe-Lottin,a,3423,OpenPlay,2018,LeftFoot,10674,Nimes,Paris Saint Germain,2,4,2018-09-01 15:00:00,Neymar,Throughball
+221796,10,MissedShots,0.9219999694824219,0.42700000762939455,0.24119819700717926,Kylian Mbappe-Lottin,a,3423,FromCorner,2018,RightFoot,10674,Nimes,Paris Saint Germain,2,4,2018-09-01 15:00:00,Neymar,Cross
+221798,35,Goal,0.9580000305175781,0.504000015258789,0.7094628810882568,Neymar,a,2099,OpenPlay,2018,LeftFoot,10674,Nimes,Paris Saint Germain,2,4,2018-09-01 15:00:00,Thomas Meunier,Pass
+221799,39,Goal,0.995,0.005,0.012869561091065407,Ángel Di María,a,3553,FromCorner,2018,LeftFoot,10674,Nimes,Paris Saint Germain,2,4,2018-09-01 15:00:00,,CornerAwarded
+221803,58,SavedShot,0.894000015258789,0.455,0.48850733041763306,Kylian Mbappe-Lottin,a,3423,OpenPlay,2018,RightFoot,10674,Nimes,Paris Saint Germain,2,4,2018-09-01 15:00:00,Thomas Meunier,Pass
+221809,76,Goal,0.8930000305175781,0.39599998474121095,0.5106534957885742,Kylian Mbappe-Lottin,a,3423,OpenPlay,2018,RightFoot,10674,Nimes,Paris Saint Germain,2,4,2018-09-01 15:00:00,Presnel Kimpembe,Throughball
+221814,91,Goal,0.9009999847412109,0.5,0.4682842493057251,Edinson Cavani,a,3294,OpenPlay,2018,RightFoot,10674,Nimes,Paris Saint Germain,2,4,2018-09-01 15:00:00,Kylian Mbappe-Lottin,BallTouch

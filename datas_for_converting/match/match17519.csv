@@ -1,0 +1,40 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+425712,15,MissedShots,0.885,0.59,0.03222905099391937,Mateo Klimowicz,h,8809,OpenPlay,2021,Head,17519,VfB Stuttgart,Greuther Fuerth,5,1,2021-08-14 13:30:00,Borna Sosa,Cross
+425713,15,BlockedShot,0.9440000152587891,0.3529999923706055,0.07221972197294235,Hamadi Al Ghaddioui,h,8810,OpenPlay,2021,RightFoot,17519,VfB Stuttgart,Greuther Fuerth,5,1,2021-08-14 13:30:00,Mateo Klimowicz,Rebound
+425714,29,Goal,0.9369999694824219,0.3890000152587891,0.38835400342941284,Wataru Endo,h,8808,OpenPlay,2021,RightFoot,17519,VfB Stuttgart,Greuther Fuerth,5,1,2021-08-14 13:30:00,Philipp Förster,Throughball
+425715,31,MissedShots,0.789000015258789,0.585,0.09546960145235062,Mateo Klimowicz,h,8809,OpenPlay,2021,LeftFoot,17519,VfB Stuttgart,Greuther Fuerth,5,1,2021-08-14 13:30:00,Roberto Massimo,BallRecovery
+425716,32,BlockedShot,0.8109999847412109,0.5159999847412109,0.09294857829809189,Mateo Klimowicz,h,8809,OpenPlay,2021,RightFoot,17519,VfB Stuttgart,Greuther Fuerth,5,1,2021-08-14 13:30:00,,TakeOn
+425717,32,SavedShot,0.975,0.539000015258789,0.5141758918762207,Marc-Oliver Kempf,h,4291,FromCorner,2021,LeftFoot,17519,VfB Stuttgart,Greuther Fuerth,5,1,2021-08-14 13:30:00,Philipp Klement,Cross
+425718,34,BlockedShot,0.8069999694824219,0.3170000076293945,0.03586744889616966,Philipp Förster,h,9076,OpenPlay,2021,LeftFoot,17519,VfB Stuttgart,Greuther Fuerth,5,1,2021-08-14 13:30:00,Marc-Oliver Kempf,Pass
+425719,34,SavedShot,0.9590000152587891,0.41900001525878905,0.09365548938512802,Hamadi Al Ghaddioui,h,8810,OpenPlay,2021,Head,17519,VfB Stuttgart,Greuther Fuerth,5,1,2021-08-14 13:30:00,Borna Sosa,Chipped
+425720,35,Goal,0.9309999847412109,0.6840000152587891,0.075652115046978,Philipp Klement,h,409,OpenPlay,2021,LeftFoot,17519,VfB Stuttgart,Greuther Fuerth,5,1,2021-08-14 13:30:00,Mateo Klimowicz,Pass
+425724,51,BlockedShot,0.8190000152587891,0.5429999923706055,0.08588316291570663,Philipp Förster,h,9076,OpenPlay,2021,LeftFoot,17519,VfB Stuttgart,Greuther Fuerth,5,1,2021-08-14 13:30:00,Borna Sosa,Pass
+425725,54,Goal,0.935,0.49200000762939455,0.4167224168777466,Marc-Oliver Kempf,h,4291,FromCorner,2021,Head,17519,VfB Stuttgart,Greuther Fuerth,5,1,2021-08-14 13:30:00,Borna Sosa,Cross
+425726,56,MissedShots,0.7830000305175782,0.6709999847412109,0.04195902869105339,Philipp Klement,h,409,OpenPlay,2021,LeftFoot,17519,VfB Stuttgart,Greuther Fuerth,5,1,2021-08-14 13:30:00,Wataru Endo,Pass
+425727,58,SavedShot,0.884000015258789,0.575,0.36352160573005676,Philipp Förster,h,9076,OpenPlay,2021,LeftFoot,17519,VfB Stuttgart,Greuther Fuerth,5,1,2021-08-14 13:30:00,Mateo Klimowicz,Pass
+425728,58,SavedShot,0.91,0.7219999694824218,0.02853715419769287,Borna Sosa,h,7075,OpenPlay,2021,LeftFoot,17519,VfB Stuttgart,Greuther Fuerth,5,1,2021-08-14 13:30:00,,Rebound
+425729,60,SavedShot,0.7959999847412109,0.30100000381469727,0.03751721978187561,Roberto Massimo,h,8806,OpenPlay,2021,LeftFoot,17519,VfB Stuttgart,Greuther Fuerth,5,1,2021-08-14 13:30:00,Philipp Förster,Pass
+425730,60,Goal,0.925,0.5079999923706054,0.06760489195585251,Hamadi Al Ghaddioui,h,8810,OpenPlay,2021,Head,17519,VfB Stuttgart,Greuther Fuerth,5,1,2021-08-14 13:30:00,Borna Sosa,Aerial
+425731,63,BlockedShot,0.8830000305175781,0.5609999847412109,0.07025845348834991,Konstantinos Mavropanos,h,6722,FromCorner,2021,RightFoot,17519,VfB Stuttgart,Greuther Fuerth,5,1,2021-08-14 13:30:00,Waldemar Anton,HeadPass
+425732,63,MissedShots,0.9259999847412109,0.47,0.06719032675027847,Waldemar Anton,h,106,FromCorner,2021,RightFoot,17519,VfB Stuttgart,Greuther Fuerth,5,1,2021-08-14 13:30:00,Philipp Förster,Aerial
+425733,65,SavedShot,0.874000015258789,0.66,0.2601410746574402,Mohamed Sankoh,h,9494,OpenPlay,2021,LeftFoot,17519,VfB Stuttgart,Greuther Fuerth,5,1,2021-08-14 13:30:00,Marc-Oliver Kempf,BallRecovery
+425734,69,MissedShots,0.8919999694824219,0.575,0.05196041241288185,Marc-Oliver Kempf,h,4291,FromCorner,2021,LeftFoot,17519,VfB Stuttgart,Greuther Fuerth,5,1,2021-08-14 13:30:00,Philipp Klement,Cross
+425735,71,SavedShot,0.8480000305175781,0.7130000305175781,0.05397408828139305,Daniel Didavi,h,300,OpenPlay,2021,LeftFoot,17519,VfB Stuttgart,Greuther Fuerth,5,1,2021-08-14 13:30:00,Philipp Klement,Pass
+425736,72,BlockedShot,0.75,0.34299999237060547,0.01834532432258129,Philipp Förster,h,9076,OpenPlay,2021,LeftFoot,17519,VfB Stuttgart,Greuther Fuerth,5,1,2021-08-14 13:30:00,Erik Thommy,Pass
+425738,74,SavedShot,0.7980000305175782,0.395,0.05098344758152962,Erik Thommy,h,2676,OpenPlay,2021,LeftFoot,17519,VfB Stuttgart,Greuther Fuerth,5,1,2021-08-14 13:30:00,Roberto Massimo,Pass
+425739,75,Goal,0.9290000152587891,0.524000015258789,0.19524505734443665,Marc-Oliver Kempf,h,4291,FromCorner,2021,Head,17519,VfB Stuttgart,Greuther Fuerth,5,1,2021-08-14 13:30:00,Borna Sosa,Aerial
+425740,77,SavedShot,0.9319999694824219,0.6359999847412109,0.3103404939174652,Roberto Massimo,h,8806,OpenPlay,2021,RightFoot,17519,VfB Stuttgart,Greuther Fuerth,5,1,2021-08-14 13:30:00,Daniel Didavi,TakeOn
+425741,79,MissedShots,0.8590000152587891,0.43099998474121093,0.09492833912372589,Roberto Massimo,h,8806,OpenPlay,2021,RightFoot,17519,VfB Stuttgart,Greuther Fuerth,5,1,2021-08-14 13:30:00,Philipp Förster,Pass
+425742,81,BlockedShot,0.8730000305175781,0.3189999961853027,0.06930217891931534,Philipp Förster,h,9076,OpenPlay,2021,RightFoot,17519,VfB Stuttgart,Greuther Fuerth,5,1,2021-08-14 13:30:00,Erik Thommy,BallTouch
+425743,83,MissedShots,0.8490000152587891,0.5609999847412109,0.3174035847187042,Roberto Massimo,h,8806,OpenPlay,2021,LeftFoot,17519,VfB Stuttgart,Greuther Fuerth,5,1,2021-08-14 13:30:00,Daniel Didavi,Pass
+425744,85,MissedShots,0.86,0.4329999923706055,0.12185948342084885,Philipp Förster,h,9076,OpenPlay,2021,RightFoot,17519,VfB Stuttgart,Greuther Fuerth,5,1,2021-08-14 13:30:00,Erik Thommy,Pass
+425745,87,MissedShots,0.7830000305175782,0.6619999694824219,0.042982328683137894,Philipp Förster,h,9076,OpenPlay,2021,LeftFoot,17519,VfB Stuttgart,Greuther Fuerth,5,1,2021-08-14 13:30:00,Roberto Massimo,LayOff
+425746,90,SavedShot,0.8780000305175781,0.68,0.10514678061008453,Daniel Didavi,h,300,OpenPlay,2021,LeftFoot,17519,VfB Stuttgart,Greuther Fuerth,5,1,2021-08-14 13:30:00,Wataru Endo,TakeOn
+425709,5,MissedShots,0.8730000305175781,0.6029999923706054,0.06951043009757996,Branimir Hrgota,a,216,OpenPlay,2021,RightFoot,17519,VfB Stuttgart,Greuther Fuerth,5,1,2021-08-14 13:30:00,,None
+425710,9,BlockedShot,0.8090000152587891,0.5129999923706055,0.049579404294490814,Branimir Hrgota,a,216,OpenPlay,2021,LeftFoot,17519,VfB Stuttgart,Greuther Fuerth,5,1,2021-08-14 13:30:00,,None
+425711,10,BlockedShot,0.8009999847412109,0.6759999847412109,0.014964528381824493,Gian-Luca Itter,a,5300,FromCorner,2021,LeftFoot,17519,VfB Stuttgart,Greuther Fuerth,5,1,2021-08-14 13:30:00,,Aerial
+425722,45,BlockedShot,0.9419999694824219,0.36,0.29962819814682007,Håvard Nielsen,a,5269,OpenPlay,2021,RightFoot,17519,VfB Stuttgart,Greuther Fuerth,5,1,2021-08-14 13:30:00,,TakeOn
+425721,46,SavedShot,0.7469999694824219,0.5220000076293946,0.020294908434152603,Julian Green,a,4323,OpenPlay,2021,RightFoot,17519,VfB Stuttgart,Greuther Fuerth,5,1,2021-08-14 13:30:00,Paul Seguin,Pass
+425723,49,SavedShot,0.9459999847412109,0.44299999237060544,0.08798202872276306,Håvard Nielsen,a,5269,OpenPlay,2021,Head,17519,VfB Stuttgart,Greuther Fuerth,5,1,2021-08-14 13:30:00,Gian-Luca Itter,Aerial
+425737,72,SavedShot,0.8059999847412109,0.5159999847412109,0.048527609556913376,Branimir Hrgota,a,216,OpenPlay,2021,LeftFoot,17519,VfB Stuttgart,Greuther Fuerth,5,1,2021-08-14 13:30:00,Adrian Fein,Pass
+425747,92,Goal,0.9590000152587891,0.395,0.7241724729537964,Jamie Leweling,a,9718,OpenPlay,2021,RightFoot,17519,VfB Stuttgart,Greuther Fuerth,5,1,2021-08-14 13:30:00,Dickson Abiama,TakeOn

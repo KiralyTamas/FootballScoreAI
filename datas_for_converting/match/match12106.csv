@@ -1,0 +1,15 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+325262,9,MissedShots,0.909000015258789,0.5729999923706055,0.05816257372498512,Sergio Álvarez,h,2212,FromCorner,2019,RightFoot,12106,Eibar,Barcelona,0,3,2019-10-19 12:00:00,Fabián Orellana,Cross
+325263,11,MissedShots,0.8530000305175781,0.48700000762939455,0.09579765051603317,Pedro León,h,2197,OpenPlay,2019,LeftFoot,12106,Eibar,Barcelona,0,3,2019-10-19 12:00:00,José Ángel,Pass
+325265,14,MissedShots,0.7569999694824219,0.7,0.013696469366550446,José Ángel,h,5126,OpenPlay,2019,LeftFoot,12106,Eibar,Barcelona,0,3,2019-10-19 12:00:00,,BallRecovery
+325267,54,MissedShots,0.7880000305175782,0.6880000305175781,0.024470491334795952,Papakouly Diop,h,2112,OpenPlay,2019,RightFoot,12106,Eibar,Barcelona,0,3,2019-10-19 12:00:00,Fabián Orellana,Pass
+325272,75,BlockedShot,0.769000015258789,0.5690000152587891,0.020669545978307724,Papakouly Diop,h,2112,OpenPlay,2019,RightFoot,12106,Eibar,Barcelona,0,3,2019-10-19 12:00:00,,None
+325261,4,MissedShots,0.52,0.4279999923706055,0.0059268781915307045,Luis Suárez,a,2098,OpenPlay,2019,RightFoot,12106,Eibar,Barcelona,0,3,2019-10-19 12:00:00,Clement Lenglet,TakeOn
+325264,12,Goal,0.8969999694824219,0.6229999923706054,0.27734601497650146,Antoine Griezmann,a,2270,OpenPlay,2019,LeftFoot,12106,Eibar,Barcelona,0,3,2019-10-19 12:00:00,Clement Lenglet,Chipped
+325266,34,BlockedShot,0.8690000152587891,0.3240000152587891,0.06195489689707756,Luis Suárez,a,2098,OpenPlay,2019,LeftFoot,12106,Eibar,Barcelona,0,3,2019-10-19 12:00:00,Frenkie de Jong,Pass
+325268,55,SavedShot,0.86,0.485,0.10949649661779404,Luis Suárez,a,2098,OpenPlay,2019,RightFoot,12106,Eibar,Barcelona,0,3,2019-10-19 12:00:00,Frenkie de Jong,Pass
+325269,57,Goal,0.9209999847412109,0.5570000076293945,0.5285720825195312,Lionel Messi,a,2097,OpenPlay,2019,LeftFoot,12106,Eibar,Barcelona,0,3,2019-10-19 12:00:00,Antoine Griezmann,Pass
+325270,65,Goal,0.9019999694824219,0.5670000076293945,0.46326786279678345,Luis Suárez,a,2098,OpenPlay,2019,RightFoot,12106,Eibar,Barcelona,0,3,2019-10-19 12:00:00,Lionel Messi,Pass
+325271,69,BlockedShot,0.9290000152587891,0.38,0.1183638796210289,Lionel Messi,a,2097,OpenPlay,2019,RightFoot,12106,Eibar,Barcelona,0,3,2019-10-19 12:00:00,Antoine Griezmann,Pass
+325273,82,MissedShots,0.7440000152587891,0.5129999923706055,0.06873660534620285,Lionel Messi,a,2097,DirectFreekick,2019,LeftFoot,12106,Eibar,Barcelona,0,3,2019-10-19 12:00:00,,Standard
+325274,84,MissedShots,0.855999984741211,0.5979999923706054,0.09167454391717911,Luis Suárez,a,2098,OpenPlay,2019,RightFoot,12106,Eibar,Barcelona,0,3,2019-10-19 12:00:00,Lionel Messi,Pass

@@ -1,0 +1,37 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+363238,10,ShotOnPost,0.8680000305175781,0.43900001525878907,0.05879800021648407,Robert Lewandowski,h,227,FromCorner,2019,LeftFoot,12638,Bayern Munich,Eintracht Frankfurt,5,2,2020-05-23 16:30:00,Thomas Müller,Pass
+363239,10,MissedShots,0.794000015258789,0.6170000076293946,0.03555002436041832,David Alaba,h,391,FromCorner,2019,LeftFoot,12638,Bayern Munich,Eintracht Frankfurt,5,2,2020-05-23 16:30:00,,Rebound
+363240,11,SavedShot,0.874000015258789,0.49,0.3767458498477936,Ivan Perisic,h,448,OpenPlay,2019,RightFoot,12638,Bayern Munich,Eintracht Frankfurt,5,2,2020-05-23 16:30:00,Joshua Kimmich,Throughball
+363241,13,SavedShot,0.9490000152587891,0.4759999847412109,0.490477979183197,Benjamin Pavard,h,3363,FromCorner,2019,Head,12638,Bayern Munich,Eintracht Frankfurt,5,2,2020-05-23 16:30:00,Joshua Kimmich,Cross
+363242,15,MissedShots,0.9540000152587891,0.534000015258789,0.08273778855800629,Benjamin Pavard,h,3363,FromCorner,2019,Head,12638,Bayern Munich,Eintracht Frankfurt,5,2,2020-05-23 16:30:00,Joshua Kimmich,Aerial
+363243,16,Goal,0.8830000305175781,0.515,0.3187641203403473,Leon Goretzka,h,335,OpenPlay,2019,RightFoot,12638,Bayern Munich,Eintracht Frankfurt,5,2,2020-05-23 16:30:00,Thomas Müller,Cross
+363245,18,MissedShots,0.7430000305175781,0.715,0.0170112494379282,Joshua Kimmich,h,223,OpenPlay,2019,RightFoot,12638,Bayern Munich,Eintracht Frankfurt,5,2,2020-05-23 16:30:00,Alphonso Davies,Pass
+363247,20,SavedShot,0.8019999694824219,0.7080000305175781,0.03100149892270565,Ivan Perisic,h,448,OpenPlay,2019,LeftFoot,12638,Bayern Munich,Eintracht Frankfurt,5,2,2020-05-23 16:30:00,Kingsley Coman,Pass
+363248,23,MissedShots,0.755,0.3609999847412109,0.02378532476723194,Joshua Kimmich,h,223,OpenPlay,2019,RightFoot,12638,Bayern Munich,Eintracht Frankfurt,5,2,2020-05-23 16:30:00,Kingsley Coman,Pass
+363250,34,BlockedShot,0.8209999847412109,0.4520000076293945,0.06631238758563995,Kingsley Coman,h,226,OpenPlay,2019,RightFoot,12638,Bayern Munich,Eintracht Frankfurt,5,2,2020-05-23 16:30:00,Jérôme Boateng,Pass
+363251,36,BlockedShot,0.9319999694824219,0.46099998474121096,0.11281409859657288,Robert Lewandowski,h,227,FromCorner,2019,RightFoot,12638,Bayern Munich,Eintracht Frankfurt,5,2,2020-05-23 16:30:00,Joshua Kimmich,Cross
+363252,36,SavedShot,0.7519999694824219,0.3189999961853027,0.03329736739397049,David Alaba,h,391,FromCorner,2019,LeftFoot,12638,Bayern Munich,Eintracht Frankfurt,5,2,2020-05-23 16:30:00,,TakeOn
+363253,37,MissedShots,0.9319999694824219,0.4520000076293945,0.11103866249322891,Robert Lewandowski,h,227,FromCorner,2019,Head,12638,Bayern Munich,Eintracht Frankfurt,5,2,2020-05-23 16:30:00,Joshua Kimmich,Cross
+363254,40,Goal,0.9419999694824219,0.54,0.5198546051979065,Thomas Müller,h,224,OpenPlay,2019,LeftFoot,12638,Bayern Munich,Eintracht Frankfurt,5,2,2020-05-23 16:30:00,Alphonso Davies,Cross
+363255,45,Goal,0.9290000152587891,0.485,0.5097231268882751,Robert Lewandowski,h,227,OpenPlay,2019,Head,12638,Bayern Munich,Eintracht Frankfurt,5,2,2020-05-23 16:30:00,Kingsley Coman,Cross
+363256,48,SavedShot,0.7240000152587891,0.5329999923706055,0.021358845755457878,Ivan Perisic,h,448,OpenPlay,2019,LeftFoot,12638,Bayern Munich,Eintracht Frankfurt,5,2,2020-05-23 16:30:00,Thomas Müller,Pass
+363257,49,MissedShots,0.9209999847412109,0.5940000152587891,0.07105179876089096,Ivan Perisic,h,448,OpenPlay,2019,Head,12638,Bayern Munich,Eintracht Frankfurt,5,2,2020-05-23 16:30:00,Thomas Müller,Cross
+363260,60,Goal,0.9,0.43900001525878907,0.44767525792121887,Alphonso Davies,h,7345,OpenPlay,2019,RightFoot,12638,Bayern Munich,Eintracht Frankfurt,5,2,2020-05-23 16:30:00,,None
+363261,61,MissedShots,0.794000015258789,0.6459999847412109,0.042059797793626785,Ivan Perisic,h,448,OpenPlay,2019,LeftFoot,12638,Bayern Munich,Eintracht Frankfurt,5,2,2020-05-23 16:30:00,Kingsley Coman,Pass
+363262,64,SavedShot,0.9469999694824218,0.34,0.13403792679309845,Kingsley Coman,h,226,OpenPlay,2019,RightFoot,12638,Bayern Munich,Eintracht Frankfurt,5,2,2020-05-23 16:30:00,Serge Gnabry,Throughball
+363263,65,BlockedShot,0.745,0.36400001525878906,0.018148809671401978,Leon Goretzka,h,335,OpenPlay,2019,RightFoot,12638,Bayern Munich,Eintracht Frankfurt,5,2,2020-05-23 16:30:00,Kingsley Coman,Pass
+363268,82,BlockedShot,0.850999984741211,0.28200000762939453,0.03711136057972908,Joshua Kimmich,h,223,OpenPlay,2019,RightFoot,12638,Bayern Munich,Eintracht Frankfurt,5,2,2020-05-23 16:30:00,Kingsley Coman,Pass
+363271,86,MissedShots,0.7530000305175781,0.46099998474121096,0.033358607441186905,Michaël Cuisance,h,6148,OpenPlay,2019,LeftFoot,12638,Bayern Munich,Eintracht Frankfurt,5,2,2020-05-23 16:30:00,Leon Goretzka,Pass
+363237,3,BlockedShot,0.8019999694824219,0.38599998474121094,0.041171845048666,André Silva,a,6170,OpenPlay,2019,LeftFoot,12638,Bayern Munich,Eintracht Frankfurt,5,2,2020-05-23 16:30:00,Mijat Gacinovic,BallRecovery
+363244,17,MissedShots,0.769000015258789,0.6930000305175781,0.015586983412504196,Sebastian Rode,a,228,OpenPlay,2019,RightFoot,12638,Bayern Munich,Eintracht Frankfurt,5,2,2020-05-23 16:30:00,,None
+363246,19,MissedShots,0.975999984741211,0.6170000076293946,0.055252477526664734,André Silva,a,6170,OpenPlay,2019,RightFoot,12638,Bayern Munich,Eintracht Frankfurt,5,2,2020-05-23 16:30:00,Mijat Gacinovic,Cross
+363249,32,MissedShots,0.76,0.7630000305175781,0.014304515905678272,Martin Hinteregger,a,2668,OpenPlay,2019,LeftFoot,12638,Bayern Munich,Eintracht Frankfurt,5,2,2020-05-23 16:30:00,Filip Kostic,Pass
+363258,51,Goal,0.9330000305175781,0.509000015258789,0.12506461143493652,Martin Hinteregger,a,2668,FromCorner,2019,LeftFoot,12638,Bayern Munich,Eintracht Frankfurt,5,2,2020-05-23 16:30:00,Sebastian Rode,Cross
+363259,54,Goal,0.9469999694824218,0.515,0.13165521621704102,Martin Hinteregger,a,2668,FromCorner,2019,Head,12638,Bayern Munich,Eintracht Frankfurt,5,2,2020-05-23 16:30:00,Sebastian Rode,Cross
+363264,67,SavedShot,0.905,0.504000015258789,0.38773202896118164,Mijat Gacinovic,a,290,OpenPlay,2019,LeftFoot,12638,Bayern Munich,Eintracht Frankfurt,5,2,2020-05-23 16:30:00,André Silva,Pass
+363265,67,MissedShots,0.9769999694824218,0.5940000152587891,0.0964900329709053,André Silva,a,6170,OpenPlay,2019,LeftFoot,12638,Bayern Munich,Eintracht Frankfurt,5,2,2020-05-23 16:30:00,,Rebound
+363266,73,OwnGoal,0.049000000953674315,0.4929999923706055,0,Martin Hinteregger,a,2668,OpenPlay,2019,LeftFoot,12638,Bayern Munich,Eintracht Frankfurt,5,2,2020-05-23 16:30:00,,Dispossessed
+363267,74,MissedShots,0.9,0.38799999237060545,0.04682834818959236,Danny da Costa,a,249,OpenPlay,2019,RightFoot,12638,Bayern Munich,Eintracht Frankfurt,5,2,2020-05-23 16:30:00,Almamy Touré,Cross
+363269,82,ShotOnPost,0.874000015258789,0.685,0.07854784280061722,Filip Kostic,a,64,OpenPlay,2019,LeftFoot,12638,Bayern Munich,Eintracht Frankfurt,5,2,2020-05-23 16:30:00,Djibril Sow,BallRecovery
+363270,83,SavedShot,0.8590000152587891,0.325,0.05735258385539055,Almamy Touré,a,3431,OpenPlay,2019,LeftFoot,12638,Bayern Munich,Eintracht Frankfurt,5,2,2020-05-23 16:30:00,Bas Dost,Pass
+363272,89,BlockedShot,0.75,0.610999984741211,0.017767569050192833,Djibril Sow,a,2624,OpenPlay,2019,RightFoot,12638,Bayern Munich,Eintracht Frankfurt,5,2,2020-05-23 16:30:00,Timothy Chandler,Pass

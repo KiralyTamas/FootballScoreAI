@@ -1,0 +1,24 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+95504,7,SavedShot,0.750999984741211,0.3920000076293945,0.019564928486943245,Luis Muriel,h,1229,OpenPlay,2015,LeftFoot,778,Sampdoria,Torino,2,2,2016-02-03 23:45:00,Jacopo Sala,Tackle
+95507,21,SavedShot,0.725,0.6229999923706054,0.042895957827568054,Joaquín Correa,h,1809,DirectFreekick,2015,RightFoot,778,Sampdoria,Torino,2,2,2016-02-03 23:45:00,,Standard
+95511,27,BlockedShot,0.7480000305175781,0.4229999923706055,0.020330997183918953,David Ivan,h,1646,OpenPlay,2015,RightFoot,778,Sampdoria,Torino,2,2,2016-02-03 23:45:00,Joaquín Correa,LayOff
+95514,55,MissedShots,0.7580000305175781,0.2929999923706055,0.04546213522553444,Lazaros Christodoulopoulos,h,1940,DirectFreekick,2015,RightFoot,778,Sampdoria,Torino,2,2,2016-02-03 23:45:00,,Standard
+95515,60,MissedShots,0.7630000305175781,0.26299999237060545,0.01958317868411541,Luis Muriel,h,1229,OpenPlay,2015,RightFoot,778,Sampdoria,Torino,2,2,2016-02-03 23:45:00,Joaquín Correa,Pass
+95518,65,Goal,0.935,0.5029999923706054,0.43028518557548523,Luis Muriel,h,1229,FromCorner,2015,Head,778,Sampdoria,Torino,2,2,2016-02-03 23:45:00,Dodô,Cross
+95520,73,MissedShots,0.9119999694824219,0.6759999847412109,0.07627689093351364,Joaquín Correa,h,1809,OpenPlay,2015,LeftFoot,778,Sampdoria,Torino,2,2,2016-02-03 23:45:00,Luis Muriel,Pass
+95522,83,Goal,0.745999984741211,0.5259999847412109,0.0211972463876009,Roberto Soriano,h,1810,OpenPlay,2015,RightFoot,778,Sampdoria,Torino,2,2,2016-02-03 23:45:00,Luis Muriel,Pass
+95523,87,MissedShots,0.8219999694824218,0.47200000762939454,0.08303440362215042,Roberto Soriano,h,1810,OpenPlay,2015,LeftFoot,778,Sampdoria,Torino,2,2,2016-02-03 23:45:00,Luis Muriel,Pass
+95502,3,SavedShot,0.7119999694824218,0.5979999923706054,0.013701699674129486,Josef Martínez,a,1198,OpenPlay,2015,LeftFoot,778,Sampdoria,Torino,2,2,2016-02-03 23:45:00,Alessandro Gazzi,HeadPass
+95503,3,SavedShot,0.9030000305175782,0.5770000076293945,0.08010637015104294,Josef Martínez,a,1198,FromCorner,2015,RightFoot,778,Sampdoria,Torino,2,2,2016-02-03 23:45:00,Afriyie Acquah,Chipped
+95505,10,MissedShots,0.7959999847412109,0.6709999847412109,0.01982864737510681,Gastón Silva,a,1934,OpenPlay,2015,RightFoot,778,Sampdoria,Torino,2,2,2016-02-03 23:45:00,Josef Martínez,Chipped
+95506,14,BlockedShot,0.7390000152587891,0.28299999237060547,0.02305433340370655,Davide Zappacosta,a,1178,OpenPlay,2015,RightFoot,778,Sampdoria,Torino,2,2,2016-02-03 23:45:00,Nikola Maksimovic,TakeOn
+95508,22,SavedShot,0.8040000152587891,0.500999984741211,0.05152405425906181,Afriyie Acquah,a,1192,OpenPlay,2015,RightFoot,778,Sampdoria,Torino,2,2,2016-02-03 23:45:00,Emiliano Moretti,BallRecovery
+95509,25,MissedShots,0.8280000305175781,0.6969999694824218,0.025077594444155693,Marco Benassi,a,1183,OpenPlay,2015,RightFoot,778,Sampdoria,Torino,2,2,2016-02-03 23:45:00,Emiliano Moretti,TakeOn
+95510,26,MissedShots,0.815,0.4979999923706055,0.06767034530639648,Andrea Belotti,a,1186,OpenPlay,2015,RightFoot,778,Sampdoria,Torino,2,2,2016-02-03 23:45:00,Josef Martínez,Pass
+95512,46,MissedShots,0.779000015258789,0.35,0.02085520513355732,Davide Zappacosta,a,1178,OpenPlay,2015,LeftFoot,778,Sampdoria,Torino,2,2,2016-02-03 23:45:00,Josef Martínez,TakeOn
+95513,49,MissedShots,0.8680000305175781,0.4329999923706055,0.06503816694021225,Josef Martínez,a,1198,OpenPlay,2015,RightFoot,778,Sampdoria,Torino,2,2,2016-02-03 23:45:00,Marco Benassi,Cross
+95516,61,SavedShot,0.9009999847412109,0.544000015258789,0.08504573255777359,Daniele Baselli,a,1182,OpenPlay,2015,Head,778,Sampdoria,Torino,2,2,2016-02-03 23:45:00,Marco Benassi,Cross
+95517,64,BlockedShot,0.654000015258789,0.39,0.01253417693078518,Kamil Glik,a,1800,FromCorner,2015,RightFoot,778,Sampdoria,Torino,2,2,2016-02-03 23:45:00,,Tackle
+95519,70,Goal,0.975999984741211,0.515,0.7885308265686035,Andrea Belotti,a,1186,OpenPlay,2015,LeftFoot,778,Sampdoria,Torino,2,2,2016-02-03 23:45:00,,None
+95521,78,MissedShots,0.9159999847412109,0.5609999847412109,0.11227361857891083,Andrea Belotti,a,1186,OpenPlay,2015,RightFoot,778,Sampdoria,Torino,2,2,2016-02-03 23:45:00,Daniele Baselli,Cross
+95524,93,Goal,0.9490000152587891,0.49700000762939456,0.47998496890068054,Andrea Belotti,a,1186,OpenPlay,2015,Head,778,Sampdoria,Torino,2,2,2016-02-03 23:45:00,Ciro Immobile,Cross

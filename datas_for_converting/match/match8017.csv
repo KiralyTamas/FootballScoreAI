@@ -1,0 +1,25 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+172085,7,MissedShots,0.8959999847412109,0.515,0.0798456072807312,Claudio Beauvue,h,2502,OpenPlay,2017,LeftFoot,8017,Leganes,Villarreal,3,1,2017-12-03 11:00:00,Tito,Cross
+172088,13,BlockedShot,0.875,0.534000015258789,0.0835871547460556,Alexander Szymanowski,h,5068,OpenPlay,2017,LeftFoot,8017,Leganes,Villarreal,3,1,2017-12-03 11:00:00,Gabriel Pires,HeadPass
+172091,26,BlockedShot,0.799000015258789,0.355,0.028430813923478127,Gabriel Pires,h,5067,OpenPlay,2017,LeftFoot,8017,Leganes,Villarreal,3,1,2017-12-03 11:00:00,Eraso,Pass
+172094,41,SavedShot,0.879000015258789,0.4779999923706055,0.11842180788516998,Claudio Beauvue,h,2502,OpenPlay,2017,RightFoot,8017,Leganes,Villarreal,3,1,2017-12-03 11:00:00,Gabriel Pires,Pass
+172095,42,MissedShots,0.955,0.7230000305175781,0.04843005910515785,Gabriel Pires,h,5067,OpenPlay,2017,LeftFoot,8017,Leganes,Villarreal,3,1,2017-12-03 11:00:00,Diego Rico,Pass
+172097,45,MissedShots,0.92,0.5159999847412109,0.12103982269763947,Diego Rico,h,5065,SetPiece,2017,Head,8017,Leganes,Villarreal,3,1,2017-12-03 11:00:00,Raúl García,Cross
+172098,50,BlockedShot,0.765,0.38799999237060545,0.022288015112280846,Nabil El Zhar,h,2357,OpenPlay,2017,RightFoot,8017,Leganes,Villarreal,3,1,2017-12-03 11:00:00,Eraso,Pass
+172101,63,MissedShots,0.92,0.48700000762939455,0.06960238516330719,Diego Rico,h,5065,SetPiece,2017,RightFoot,8017,Leganes,Villarreal,3,1,2017-12-03 11:00:00,Raúl García,Aerial
+172104,71,Goal,0.8069999694824219,0.7869999694824219,0.018898559734225273,Diego Rico,h,5065,OpenPlay,2017,LeftFoot,8017,Leganes,Villarreal,3,1,2017-12-03 11:00:00,Nordin Amrabat,Pass
+172105,80,Goal,0.865999984741211,0.4,0.1108374148607254,Nabil El Zhar,h,2357,OpenPlay,2017,LeftFoot,8017,Leganes,Villarreal,3,1,2017-12-03 11:00:00,Gabriel Pires,Pass
+172106,84,SavedShot,0.9719999694824218,0.845,0.06576825678348541,Naranjo,h,5209,DirectFreekick,2017,RightFoot,8017,Leganes,Villarreal,3,1,2017-12-03 11:00:00,,Standard
+172108,92,Goal,0.9009999847412109,0.4759999847412109,0.46141287684440613,Gabriel Pires,h,5067,OpenPlay,2017,LeftFoot,8017,Leganes,Villarreal,3,1,2017-12-03 11:00:00,Nordin Amrabat,Pass
+172086,11,BlockedShot,0.9569999694824218,0.73,0.04328843578696251,Cédric Bakambu,a,2306,OpenPlay,2017,LeftFoot,8017,Leganes,Villarreal,3,1,2017-12-03 11:00:00,,None
+172087,11,MissedShots,0.9869999694824219,0.36700000762939455,0.014568420127034187,Rodri,a,2496,FromCorner,2017,Head,8017,Leganes,Villarreal,3,1,2017-12-03 11:00:00,Manu Trigueros,Cross
+172089,22,MissedShots,0.7980000305175782,0.3820000076293945,0.033100731670856476,Pablo Fornals,a,2335,OpenPlay,2017,LeftFoot,8017,Leganes,Villarreal,3,1,2017-12-03 11:00:00,Mario,Pass
+172090,23,MissedShots,0.769000015258789,0.46599998474121096,0.03176066279411316,Cédric Bakambu,a,2306,OpenPlay,2017,RightFoot,8017,Leganes,Villarreal,3,1,2017-12-03 11:00:00,,Dispossessed
+172092,36,MissedShots,0.705,0.6730000305175782,0.01639690063893795,Manu Trigueros,a,2301,SetPiece,2017,RightFoot,8017,Leganes,Villarreal,3,1,2017-12-03 11:00:00,Raba,Pass
+172093,38,SavedShot,0.7019999694824218,0.555,0.01785844750702381,Pablo Fornals,a,2335,OpenPlay,2017,LeftFoot,8017,Leganes,Villarreal,3,1,2017-12-03 11:00:00,Roberto Soriano,Pass
+172096,44,MissedShots,0.740999984741211,0.705,0.008759901858866215,Pablo Fornals,a,2335,SetPiece,2017,RightFoot,8017,Leganes,Villarreal,3,1,2017-12-03 11:00:00,,Aerial
+172099,57,SavedShot,0.88,0.36,0.29370352625846863,Cédric Bakambu,a,2306,OpenPlay,2017,RightFoot,8017,Leganes,Villarreal,3,1,2017-12-03 11:00:00,Roberto Soriano,Pass
+172100,59,Goal,0.775,0.37099998474121093,0.35711944103240967,Raba,a,5199,OpenPlay,2017,RightFoot,8017,Leganes,Villarreal,3,1,2017-12-03 11:00:00,Manu Trigueros,TakeOn
+172102,66,BlockedShot,0.9069999694824219,0.6,0.03546924889087677,Cédric Bakambu,a,2306,FromCorner,2017,Head,8017,Leganes,Villarreal,3,1,2017-12-03 11:00:00,Raba,Cross
+172103,67,MissedShots,0.8980000305175782,0.40099998474121096,0.031642455607652664,Álvaro González,a,2430,FromCorner,2017,Head,8017,Leganes,Villarreal,3,1,2017-12-03 11:00:00,Raba,Cross
+172107,90,SavedShot,0.94,0.655,0.0651281550526619,Cédric Bakambu,a,2306,OpenPlay,2017,LeftFoot,8017,Leganes,Villarreal,3,1,2017-12-03 11:00:00,Mario González,HeadPass

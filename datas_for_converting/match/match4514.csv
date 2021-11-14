@@ -1,0 +1,23 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+23569,6,SavedShot,0.9230000305175782,0.4779999923706055,0.3921774625778198,James Ward-Prowse,h,843,OpenPlay,2014,RightFoot,4514,Southampton,Swansea,0,1,2015-02-01 16:00:00,Nathaniel Clyne,Cross
+23571,17,MissedShots,0.785,0.5029999923706054,0.03594117984175682,Harrison Reed,h,910,OpenPlay,2014,RightFoot,4514,Southampton,Swansea,0,1,2015-02-01 16:00:00,,None
+23572,24,MissedShots,0.845999984741211,0.48700000762939455,0.0824861153960228,Ryan Bertrand,h,835,OpenPlay,2014,LeftFoot,4514,Southampton,Swansea,0,1,2015-02-01 16:00:00,Eljero Elia,Pass
+23573,30,MissedShots,0.9390000152587891,0.4570000076293945,0.1229841485619545,Dusan Tadic,h,840,OpenPlay,2014,LeftFoot,4514,Southampton,Swansea,0,1,2015-02-01 16:00:00,Eljero Elia,Cross
+23574,35,MissedShots,0.8730000305175781,0.4540000152587891,0.02339738979935646,Steven Davis,h,883,FromCorner,2014,Head,4514,Southampton,Swansea,0,1,2015-02-01 16:00:00,James Ward-Prowse,Cross
+23575,42,BlockedShot,0.8119999694824219,0.4929999923706055,0.03693319484591484,José Fonte,h,834,FromCorner,2014,RightFoot,4514,Southampton,Swansea,0,1,2015-02-01 16:00:00,,None
+23578,59,SavedShot,0.91,0.52,0.11409948021173477,James Ward-Prowse,h,843,OpenPlay,2014,Head,4514,Southampton,Swansea,0,1,2015-02-01 16:00:00,Eljero Elia,Cross
+23579,60,SavedShot,0.7909999847412109,0.5279999923706055,0.04724928364157677,James Ward-Prowse,h,843,OpenPlay,2014,RightFoot,4514,Southampton,Swansea,0,1,2015-02-01 16:00:00,Dusan Tadic,LayOff
+23581,70,BlockedShot,0.889000015258789,0.629000015258789,0.03178079426288605,José Fonte,h,834,SetPiece,2014,LeftFoot,4514,Southampton,Swansea,0,1,2015-02-01 16:00:00,James Ward-Prowse,Cross
+23582,75,BlockedShot,0.8619999694824219,0.5209999847412109,0.08165260404348373,Graziano Pellè,h,841,OpenPlay,2014,RightFoot,4514,Southampton,Swansea,0,1,2015-02-01 16:00:00,Dusan Tadic,HeadPass
+23583,76,BlockedShot,0.7569999694824219,0.7809999847412109,0.011907805688679218,Ryan Bertrand,h,835,OpenPlay,2014,LeftFoot,4514,Southampton,Swansea,0,1,2015-02-01 16:00:00,,BallRecovery
+23584,77,SavedShot,0.7609999847412109,0.45,0.026348061859607697,Sadio Mané,h,838,OpenPlay,2014,RightFoot,4514,Southampton,Swansea,0,1,2015-02-01 16:00:00,Steven Davis,BallRecovery
+23587,83,BlockedShot,0.8119999694824219,0.5479999923706055,0.043949227780103683,Steven Davis,h,883,OpenPlay,2014,RightFoot,4514,Southampton,Swansea,0,1,2015-02-01 16:00:00,,None
+23588,86,BlockedShot,0.925,0.5629999923706055,0.47188860177993774,Sadio Mané,h,838,OpenPlay,2014,LeftFoot,4514,Southampton,Swansea,0,1,2015-02-01 16:00:00,,None
+23589,86,BlockedShot,0.9580000305175781,0.6780000305175782,0.04925883188843727,Sadio Mané,h,838,OpenPlay,2014,RightFoot,4514,Southampton,Swansea,0,1,2015-02-01 16:00:00,,Rebound
+23590,93,MissedShots,0.885,0.47900001525878905,0.07801131904125214,Graziano Pellè,h,841,OpenPlay,2014,RightFoot,4514,Southampton,Swansea,0,1,2015-02-01 16:00:00,Ryan Seager,None
+23570,12,MissedShots,0.840999984741211,0.53,0.08547568321228027,Bafétimbi Gomis,a,717,OpenPlay,2014,LeftFoot,4514,Southampton,Swansea,0,1,2015-02-01 16:00:00,Jonjo Shelvey,Pass
+23576,54,MissedShots,0.8490000152587891,0.44,0.021716414019465446,Federico Fernández,a,708,SetPiece,2014,Head,4514,Southampton,Swansea,0,1,2015-02-01 16:00:00,Jonjo Shelvey,Cross
+23577,58,ShotOnPost,0.7530000305175781,0.38,0.019290203228592873,Jonjo Shelvey,a,769,OpenPlay,2014,RightFoot,4514,Southampton,Swansea,0,1,2015-02-01 16:00:00,Nathan Dyer,BallRecovery
+23580,64,BlockedShot,0.7930000305175782,0.3770000076293945,0.08829925209283829,Jonjo Shelvey,a,769,DirectFreekick,2014,RightFoot,4514,Southampton,Swansea,0,1,2015-02-01 16:00:00,,Standard
+23585,80,BlockedShot,0.7580000305175781,0.455,0.026575474068522453,Bafétimbi Gomis,a,717,OpenPlay,2014,LeftFoot,4514,Southampton,Swansea,0,1,2015-02-01 16:00:00,Tom Carroll,Pass
+23586,82,Goal,0.750999984741211,0.4129999923706055,0.021200286224484444,Jonjo Shelvey,a,769,OpenPlay,2014,RightFoot,4514,Southampton,Swansea,0,1,2015-02-01 16:00:00,Modou Barrow,Pass

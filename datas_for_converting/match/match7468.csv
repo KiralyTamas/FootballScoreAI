@@ -1,0 +1,23 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+210252,17,MissedShots,0.7119999694824218,0.5879999923706055,0.012690683826804161,Chris Brunt,h,904,OpenPlay,2017,RightFoot,7468,West Bromwich Albion,Liverpool,2,2,2018-04-21 00:00:00,,None
+210253,21,SavedShot,0.8690000152587891,0.28600000381469726,0.029993830248713493,Matt Phillips,h,1737,OpenPlay,2017,LeftFoot,7468,West Bromwich Albion,Liverpool,2,2,2018-04-21 00:00:00,Jay Rodriguez,Pass
+210256,36,MissedShots,0.9690000152587891,0.6509999847412109,0.04336545243859291,James McClean,h,814,OpenPlay,2017,LeftFoot,7468,West Bromwich Albion,Liverpool,2,2,2018-04-21 00:00:00,Jake Livermore,Cross
+210258,43,MissedShots,0.4620000076293945,0.4490000152587891,0.00700369430705905,Nyom,h,565,OpenPlay,2017,RightFoot,7468,West Bromwich Albion,Liverpool,2,2,2018-04-21 00:00:00,,BallRecovery
+210259,49,MissedShots,0.8119999694824219,0.6759999847412109,0.030893713235855103,James McClean,h,814,OpenPlay,2017,LeftFoot,7468,West Bromwich Albion,Liverpool,2,2,2018-04-21 00:00:00,Matt Phillips,Pass
+210260,55,MissedShots,0.88,0.515,0.049636658281087875,Ahmed Hegazy,h,3979,SetPiece,2017,Head,7468,West Bromwich Albion,Liverpool,2,2,2018-04-21 00:00:00,Chris Brunt,Chipped
+210262,69,MissedShots,0.8319999694824218,0.4929999923706055,0.06309811025857925,Craig Dawson,h,804,SetPiece,2017,RightFoot,7468,West Bromwich Albion,Liverpool,2,2,2018-04-21 00:00:00,,BallTouch
+210263,69,SavedShot,0.9169999694824219,0.495,0.1336323618888855,Salomón Rondón,h,813,SetPiece,2017,RightFoot,7468,West Bromwich Albion,Liverpool,2,2,2018-04-21 00:00:00,,Rebound
+210265,78,SavedShot,0.9280000305175782,0.56,0.11537516117095947,Craig Dawson,h,804,FromCorner,2017,LeftFoot,7468,West Bromwich Albion,Liverpool,2,2,2018-04-21 00:00:00,Jay Rodriguez,Pass
+210266,78,Goal,0.9730000305175781,0.52,0.8289392590522766,Jake Livermore,h,1689,FromCorner,2017,RightFoot,7468,West Bromwich Albion,Liverpool,2,2,2018-04-21 00:00:00,,Rebound
+210268,85,SavedShot,0.87,0.3509999847412109,0.050164807587862015,Salomón Rondón,h,813,OpenPlay,2017,RightFoot,7468,West Bromwich Albion,Liverpool,2,2,2018-04-21 00:00:00,,None
+210269,87,Goal,0.92,0.5370000076293945,0.05624215304851532,Salomón Rondón,h,813,SetPiece,2017,Head,7468,West Bromwich Albion,Liverpool,2,2,2018-04-21 00:00:00,Chris Brunt,Aerial
+210270,91,BlockedShot,0.93,0.4909999847412109,0.07972122728824615,Matt Phillips,h,1737,OpenPlay,2017,Head,7468,West Bromwich Albion,Liverpool,2,2,2018-04-21 00:00:00,Salomón Rondón,Aerial
+210250,3,Goal,0.9159999847412109,0.5540000152587891,0.44797009229660034,Danny Ings,a,986,FromCorner,2017,LeftFoot,7468,West Bromwich Albion,Liverpool,2,2,2018-04-21 00:00:00,Georginio Wijnaldum,Pass
+210251,10,BlockedShot,0.9230000305175782,0.32599998474121095,0.07582557201385498,Mohamed Salah,a,1250,OpenPlay,2017,LeftFoot,7468,West Bromwich Albion,Liverpool,2,2,2018-04-21 00:00:00,Joseph Gomez,TakeOn
+210254,23,MissedShots,0.89,0.455,0.0799713060259819,Danny Ings,a,986,OpenPlay,2017,Head,7468,West Bromwich Albion,Liverpool,2,2,2018-04-21 00:00:00,James Milner,Cross
+210255,25,MissedShots,0.74,0.37400001525878906,0.04911540076136589,Mohamed Salah,a,1250,DirectFreekick,2017,LeftFoot,7468,West Bromwich Albion,Liverpool,2,2,2018-04-21 00:00:00,,Standard
+210257,41,SavedShot,0.91,0.4909999847412109,0.4882661700248718,Danny Ings,a,986,OpenPlay,2017,LeftFoot,7468,West Bromwich Albion,Liverpool,2,2,2018-04-21 00:00:00,,BallTouch
+210261,62,BlockedShot,0.8090000152587891,0.53,0.06671994179487228,Mohamed Salah,a,1250,OpenPlay,2017,LeftFoot,7468,West Bromwich Albion,Liverpool,2,2,2018-04-21 00:00:00,James Milner,Pass
+210264,71,Goal,0.9,0.605999984741211,0.35695356130599976,Mohamed Salah,a,1250,OpenPlay,2017,LeftFoot,7468,West Bromwich Albion,Liverpool,2,2,2018-04-21 00:00:00,Alex Oxlade-Chamberlain,Pass
+210267,85,MissedShots,0.9319999694824219,0.6430000305175781,0.026339130476117134,Roberto Firmino,a,482,OpenPlay,2017,Head,7468,West Bromwich Albion,Liverpool,2,2,2018-04-21 00:00:00,Alex Oxlade-Chamberlain,Cross
+210271,92,MissedShots,0.7980000305175782,0.534000015258789,0.04813573881983757,James Milner,a,489,OpenPlay,2017,LeftFoot,7468,West Bromwich Albion,Liverpool,2,2,2018-04-21 00:00:00,Alex Oxlade-Chamberlain,Pass

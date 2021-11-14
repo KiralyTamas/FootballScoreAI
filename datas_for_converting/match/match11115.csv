@@ -1,0 +1,29 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+323827,4,BlockedShot,0.785,0.7019999694824218,0.020618358626961708,Sergey Terekhov,h,5940,OpenPlay,2019,LeftFoot,11115,FC Orenburg,Dinamo Moscow,2,0,2019-10-05 12:00:00,Joel Fameyeh,Pass
+323828,19,SavedShot,0.740999984741211,0.42200000762939455,0.034099381417036057,Georgi Zotov,h,2725,OpenPlay,2019,RightFoot,11115,FC Orenburg,Dinamo Moscow,2,0,2019-10-05 12:00:00,,BallRecovery
+323829,20,BlockedShot,0.8090000152587891,0.3920000076293945,0.024018460884690285,Djorde Despotovic,h,7121,FromCorner,2019,RightFoot,11115,FC Orenburg,Dinamo Moscow,2,0,2019-10-05 12:00:00,Andrey Malykh,Pass
+323830,20,MissedShots,0.8059999847412109,0.36900001525878906,0.03224753215909004,Djorde Despotovic,h,7121,FromCorner,2019,LeftFoot,11115,FC Orenburg,Dinamo Moscow,2,0,2019-10-05 12:00:00,,Rebound
+323831,23,BlockedShot,0.875999984741211,0.5629999923706055,0.08043576031923294,Uros Radakovic,h,8028,OpenPlay,2019,RightFoot,11115,FC Orenburg,Dinamo Moscow,2,0,2019-10-05 12:00:00,,None
+323839,43,BlockedShot,0.81,0.6909999847412109,0.07222317904233932,Ricardo Alves,h,7150,DirectFreekick,2019,LeftFoot,11115,FC Orenburg,Dinamo Moscow,2,0,2019-10-05 12:00:00,,Standard
+323840,44,MissedShots,0.9219999694824219,0.4929999923706055,0.04590931534767151,Uros Radakovic,h,8028,FromCorner,2019,Head,11115,FC Orenburg,Dinamo Moscow,2,0,2019-10-05 12:00:00,Ricardo Alves,Aerial
+323841,46,MissedShots,0.765,0.59,0.024321118369698524,Sergey Terekhov,h,5940,FromCorner,2019,LeftFoot,11115,FC Orenburg,Dinamo Moscow,2,0,2019-10-05 12:00:00,Djorde Despotovic,Pass
+323843,47,MissedShots,0.7680000305175781,0.7169999694824218,0.017654666677117348,Georgi Zotov,h,2725,OpenPlay,2019,RightFoot,11115,FC Orenburg,Dinamo Moscow,2,0,2019-10-05 12:00:00,Timur Ayupov,Pass
+323844,50,SavedShot,0.7580000305175781,0.6459999847412109,0.022141054272651672,Joel Fameyeh,h,7670,OpenPlay,2019,RightFoot,11115,FC Orenburg,Dinamo Moscow,2,0,2019-10-05 12:00:00,Sergey Terekhov,Pass
+323845,50,BlockedShot,0.8719999694824219,0.38,0.2955988943576813,Andrey Malykh,h,5423,OpenPlay,2019,RightFoot,11115,FC Orenburg,Dinamo Moscow,2,0,2019-10-05 12:00:00,,Rebound
+323846,54,MissedShots,0.7580000305175781,0.31799999237060544,0.018885761499404907,Andrey Malykh,h,5423,OpenPlay,2019,LeftFoot,11115,FC Orenburg,Dinamo Moscow,2,0,2019-10-05 12:00:00,Timur Ayupov,Pass
+323847,55,MissedShots,0.9059999847412109,0.6140000152587891,0.35076257586479187,Artem Kulishev,h,6780,OpenPlay,2019,RightFoot,11115,FC Orenburg,Dinamo Moscow,2,0,2019-10-05 12:00:00,,None
+323848,60,Goal,0.955,0.5990000152587891,0.27744346857070923,Artem Kulishev,h,6780,OpenPlay,2019,Head,11115,FC Orenburg,Dinamo Moscow,2,0,2019-10-05 12:00:00,Sergey Terekhov,Cross
+323851,84,MissedShots,0.9230000305175782,0.51,0.0719427689909935,Uros Radakovic,h,8028,OpenPlay,2019,Head,11115,FC Orenburg,Dinamo Moscow,2,0,2019-10-05 12:00:00,Ricardo Alves,Aerial
+323852,87,Goal,0.9409999847412109,0.53,0.43430179357528687,Uros Radakovic,h,8028,FromCorner,2019,LeftFoot,11115,FC Orenburg,Dinamo Moscow,2,0,2019-10-05 12:00:00,Ricardo Alves,Cross
+323826,1,BlockedShot,0.7090000152587891,0.5070000076293946,0.010025775991380215,Charles Kaboré,a,2921,SetPiece,2019,RightFoot,11115,FC Orenburg,Dinamo Moscow,2,0,2019-10-05 12:00:00,,None
+323832,27,MissedShots,0.9309999847412109,0.43599998474121093,0.051417071372270584,Sebastian Szymanski,a,7631,OpenPlay,2019,Head,11115,FC Orenburg,Dinamo Moscow,2,0,2019-10-05 12:00:00,Gregory Morozov,Aerial
+323833,31,BlockedShot,0.7519999694824219,0.5120000076293946,0.02183571271598339,Kirill Panchenko,a,2887,OpenPlay,2019,RightFoot,11115,FC Orenburg,Dinamo Moscow,2,0,2019-10-05 12:00:00,Artur Yusupov,Pass
+323834,33,BlockedShot,0.6669999694824219,0.5529999923706055,0.010795158334076405,Roman Evgeniev,a,7196,OpenPlay,2019,RightFoot,11115,FC Orenburg,Dinamo Moscow,2,0,2019-10-05 12:00:00,Toni Sunjic,Pass
+323835,33,SavedShot,0.764000015258789,0.4809999847412109,0.019745387136936188,Sebastian Szymanski,a,7631,OpenPlay,2019,LeftFoot,11115,FC Orenburg,Dinamo Moscow,2,0,2019-10-05 12:00:00,,Rebound
+323836,33,SavedShot,0.845,0.46900001525878904,0.048770129680633545,Sergey Parshivlyuk,a,2828,OpenPlay,2019,RightFoot,11115,FC Orenburg,Dinamo Moscow,2,0,2019-10-05 12:00:00,Artur Yusupov,Chipped
+323837,41,SavedShot,0.7880000305175782,0.6930000305175781,0.01805092766880989,Gregory Morozov,a,2755,OpenPlay,2019,LeftFoot,11115,FC Orenburg,Dinamo Moscow,2,0,2019-10-05 12:00:00,Sebastian Szymanski,Pass
+323838,41,SavedShot,0.9359999847412109,0.634000015258789,0.3107050359249115,Kirill Panchenko,a,2887,OpenPlay,2019,LeftFoot,11115,FC Orenburg,Dinamo Moscow,2,0,2019-10-05 12:00:00,,Rebound
+323842,46,MissedShots,0.8,0.6270000076293946,0.07872354239225388,Kirill Panchenko,a,2887,OpenPlay,2019,RightFoot,11115,FC Orenburg,Dinamo Moscow,2,0,2019-10-05 12:00:00,Sly,Chipped
+323849,62,MissedShots,0.840999984741211,0.3039999961853027,0.03289225324988365,Sebastian Szymanski,a,7631,OpenPlay,2019,LeftFoot,11115,FC Orenburg,Dinamo Moscow,2,0,2019-10-05 12:00:00,,None
+323850,71,BlockedShot,0.8090000152587891,0.5059999847412109,0.042478159070014954,Vyacheslav Grulev,a,6611,OpenPlay,2019,LeftFoot,11115,FC Orenburg,Dinamo Moscow,2,0,2019-10-05 12:00:00,,None
+323853,92,BlockedShot,0.7869999694824219,0.6,0.08368636667728424,Kirill Panchenko,a,2887,DirectFreekick,2019,RightFoot,11115,FC Orenburg,Dinamo Moscow,2,0,2019-10-05 12:00:00,,Standard

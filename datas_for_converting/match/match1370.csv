@@ -1,0 +1,27 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+128773,3,MissedShots,0.6990000152587891,0.44799999237060545,0.012833351269364357,Jeremy Toljan,h,257,FromCorner,2016,RightFoot,1370,Hoffenheim,Schalke 04,2,1,2016-09-25 17:30:00,,None
+128775,7,MissedShots,0.9219999694824219,0.6270000076293946,0.35080990195274353,Andrej Kramaric,h,956,OpenPlay,2016,RightFoot,1370,Hoffenheim,Schalke 04,2,1,2016-09-25 17:30:00,Kerem Demirbay,Throughball
+128776,16,Goal,0.915,0.48400001525878905,0.29818129539489746,Andrej Kramaric,h,956,OpenPlay,2016,Head,1370,Hoffenheim,Schalke 04,2,1,2016-09-25 17:30:00,Pavel Kaderábek,Cross
+128777,19,MissedShots,0.6559999847412109,0.504000015258789,0.010206909850239754,Sebastian Rudy,h,90,OpenPlay,2016,RightFoot,1370,Hoffenheim,Schalke 04,2,1,2016-09-25 17:30:00,,BallRecovery
+128781,40,Goal,0.9630000305175781,0.534000015258789,0.7183353304862976,Lukas Rupp,h,62,OpenPlay,2016,LeftFoot,1370,Hoffenheim,Schalke 04,2,1,2016-09-25 17:30:00,Kerem Demirbay,Pass
+128782,43,MissedShots,0.740999984741211,0.5109999847412109,0.028448794037103653,Andrej Kramaric,h,956,OpenPlay,2016,RightFoot,1370,Hoffenheim,Schalke 04,2,1,2016-09-25 17:30:00,Pavel Kaderábek,BallRecovery
+128786,54,MissedShots,0.7340000152587891,0.45599998474121095,0.02042272873222828,Mark Uth,h,88,OpenPlay,2016,LeftFoot,1370,Hoffenheim,Schalke 04,2,1,2016-09-25 17:30:00,Andrej Kramaric,HeadPass
+128788,59,BlockedShot,0.784000015258789,0.549000015258789,0.05319938436150551,Mark Uth,h,88,OpenPlay,2016,RightFoot,1370,Hoffenheim,Schalke 04,2,1,2016-09-25 17:30:00,Kerem Demirbay,Chipped
+128789,59,MissedShots,0.785,0.375,0.02874290756881237,Andrej Kramaric,h,956,OpenPlay,2016,LeftFoot,1370,Hoffenheim,Schalke 04,2,1,2016-09-25 17:30:00,Kerem Demirbay,Rebound
+128792,72,ShotOnPost,0.795,0.629000015258789,0.04550052434206009,Nadiem Amiri,h,82,OpenPlay,2016,LeftFoot,1370,Hoffenheim,Schalke 04,2,1,2016-09-25 17:30:00,,None
+128793,75,MissedShots,0.7219999694824218,0.5059999847412109,0.021349932998418808,Kerem Demirbay,h,5273,OpenPlay,2016,LeftFoot,1370,Hoffenheim,Schalke 04,2,1,2016-09-25 17:30:00,Eduardo Vargas,Pass
+128794,78,BlockedShot,0.845999984741211,0.3160000038146973,0.048901211470365524,Eduardo Vargas,h,85,OpenPlay,2016,RightFoot,1370,Hoffenheim,Schalke 04,2,1,2016-09-25 17:30:00,Nadiem Amiri,Chipped
+128795,83,BlockedShot,0.845999984741211,0.42200000762939455,0.12729842960834503,Nadiem Amiri,h,82,OpenPlay,2016,LeftFoot,1370,Hoffenheim,Schalke 04,2,1,2016-09-25 17:30:00,Eduardo Vargas,BallRecovery
+128796,83,MissedShots,0.9369999694824219,0.69,0.11710841208696365,Kerem Demirbay,h,5273,OpenPlay,2016,LeftFoot,1370,Hoffenheim,Schalke 04,2,1,2016-09-25 17:30:00,,Rebound
+128774,3,Goal,0.9690000152587891,0.539000015258789,0.6167458295822144,Eric Maxim Choupo-Moting,a,339,OpenPlay,2016,Head,1370,Hoffenheim,Schalke 04,2,1,2016-09-25 17:30:00,Breel Embolo,Cross
+128778,27,SavedShot,0.8109999847412109,0.4470000076293945,0.05634717270731926,Leon Goretzka,a,335,OpenPlay,2016,LeftFoot,1370,Hoffenheim,Schalke 04,2,1,2016-09-25 17:30:00,Eric Maxim Choupo-Moting,Pass
+128779,32,ShotOnPost,0.9230000305175782,0.5670000076293945,0.0580095499753952,Klaas-Jan Huntelaar,a,340,FromCorner,2016,Head,1370,Hoffenheim,Schalke 04,2,1,2016-09-25 17:30:00,Abdul Rahman Baba,Chipped
+128780,39,MissedShots,0.6909999847412109,0.5940000152587891,0.011933044530451298,Nabil Bentaleb,a,914,OpenPlay,2016,LeftFoot,1370,Hoffenheim,Schalke 04,2,1,2016-09-25 17:30:00,Eric Maxim Choupo-Moting,Pass
+128783,45,MissedShots,0.7119999694824218,0.435,0.016202125698328018,Benjamin Stambouli,a,3290,OpenPlay,2016,LeftFoot,1370,Hoffenheim,Schalke 04,2,1,2016-09-25 17:30:00,Sascha Riether,Pass
+128784,45,MissedShots,0.48900001525878906,0.49700000762939456,0.006875642575323582,Klaas-Jan Huntelaar,a,340,SetPiece,2016,RightFoot,1370,Hoffenheim,Schalke 04,2,1,2016-09-25 17:30:00,,Start
+128785,50,SavedShot,0.9640000152587891,0.66,0.09436702728271484,Eric Maxim Choupo-Moting,a,339,OpenPlay,2016,RightFoot,1370,Hoffenheim,Schalke 04,2,1,2016-09-25 17:30:00,Nabil Bentaleb,Throughball
+128787,56,SavedShot,0.8219999694824218,0.4209999847412109,0.04257664456963539,Breel Embolo,a,5356,OpenPlay,2016,RightFoot,1370,Hoffenheim,Schalke 04,2,1,2016-09-25 17:30:00,Abdul Rahman Baba,Pass
+128790,61,SavedShot,0.8480000305175781,0.4540000152587891,0.00980822741985321,Nabil Bentaleb,a,914,OpenPlay,2016,Head,1370,Hoffenheim,Schalke 04,2,1,2016-09-25 17:30:00,Sascha Riether,Aerial
+128791,68,BlockedShot,0.9419999694824219,0.41200000762939454,0.026487665250897408,Eric Maxim Choupo-Moting,a,339,FromCorner,2016,Head,1370,Hoffenheim,Schalke 04,2,1,2016-09-25 17:30:00,Max Meyer,Aerial
+128797,87,BlockedShot,0.8490000152587891,0.39799999237060546,0.06492210179567337,Breel Embolo,a,5356,OpenPlay,2016,RightFoot,1370,Hoffenheim,Schalke 04,2,1,2016-09-25 17:30:00,Alessandro Schöpf,Pass
+128798,87,MissedShots,0.9619999694824218,0.710999984741211,0.04280359297990799,Nabil Bentaleb,a,914,OpenPlay,2016,LeftFoot,1370,Hoffenheim,Schalke 04,2,1,2016-09-25 17:30:00,Franco Di Santo,Chipped

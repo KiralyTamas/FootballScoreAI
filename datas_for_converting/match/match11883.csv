@@ -1,0 +1,34 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+352503,0,MissedShots,0.8019999694824219,0.3820000076293945,0.03430549427866936,Harry Wilson,h,5596,OpenPlay,2019,LeftFoot,11883,Bournemouth,Aston Villa,2,1,2020-02-01 15:00:00,,None
+352504,5,BlockedShot,0.92,0.41900001525878905,0.0802704468369484,Callum Wilson,h,468,SetPiece,2019,Head,11883,Bournemouth,Aston Villa,2,1,2020-02-01 15:00:00,Ryan Fraser,Cross
+352505,7,SavedShot,0.730999984741211,0.6730000305175782,0.01152919139713049,Philip Billing,h,6034,OpenPlay,2019,LeftFoot,11883,Bournemouth,Aston Villa,2,1,2020-02-01 15:00:00,,None
+352506,12,BlockedShot,0.7390000152587891,0.445,0.018646763637661934,Jefferson Lerma,h,2182,OpenPlay,2019,RightFoot,11883,Bournemouth,Aston Villa,2,1,2020-02-01 15:00:00,Adam Smith,Pass
+352507,12,SavedShot,0.875,0.725999984741211,0.05518165975809097,Ryan Fraser,h,1683,OpenPlay,2019,RightFoot,11883,Bournemouth,Aston Villa,2,1,2020-02-01 15:00:00,,TakeOn
+352509,21,SavedShot,0.715,0.509000015258789,0.04403803125023842,Harry Wilson,h,5596,DirectFreekick,2019,LeftFoot,11883,Bournemouth,Aston Villa,2,1,2020-02-01 15:00:00,,Standard
+352511,27,MissedShots,0.9169999694824219,0.5129999923706055,0.5055474042892456,Dan Gosling,h,462,OpenPlay,2019,RightFoot,11883,Bournemouth,Aston Villa,2,1,2020-02-01 15:00:00,Harry Wilson,Pass
+352515,36,Goal,0.9059999847412109,0.4420000076293945,0.407668799161911,Philip Billing,h,6034,SetPiece,2019,LeftFoot,11883,Bournemouth,Aston Villa,2,1,2020-02-01 15:00:00,Dan Gosling,HeadPass
+352516,43,BlockedShot,0.74,0.6170000076293946,0.050172701478004456,Harry Wilson,h,5596,DirectFreekick,2019,LeftFoot,11883,Bournemouth,Aston Villa,2,1,2020-02-01 15:00:00,,Standard
+352517,43,SavedShot,0.7859999847412109,0.7230000305175781,0.01340116560459137,Ryan Fraser,h,1683,SetPiece,2019,RightFoot,11883,Bournemouth,Aston Villa,2,1,2020-02-01 15:00:00,,Rebound
+352518,43,Goal,0.9359999847412109,0.4640000152587891,0.5839566588401794,Nathan Aké,h,579,SetPiece,2019,LeftFoot,11883,Bournemouth,Aston Villa,2,1,2020-02-01 15:00:00,,Rebound
+352520,48,ShotOnPost,0.76,0.6270000076293946,0.02001211605966091,Jefferson Lerma,h,2182,OpenPlay,2019,RightFoot,11883,Bournemouth,Aston Villa,2,1,2020-02-01 15:00:00,,None
+352522,62,MissedShots,0.9269999694824219,0.5220000076293946,0.1475699543952942,Callum Wilson,h,468,OpenPlay,2019,LeftFoot,11883,Bournemouth,Aston Villa,2,1,2020-02-01 15:00:00,Philip Billing,Pass
+352533,80,BlockedShot,0.9,0.500999984741211,0.0982009693980217,Callum Wilson,h,468,SetPiece,2019,Head,11883,Bournemouth,Aston Villa,2,1,2020-02-01 15:00:00,Ryan Fraser,Cross
+352534,80,BlockedShot,0.785,0.6120000076293945,0.020868569612503052,Harry Wilson,h,5596,SetPiece,2019,LeftFoot,11883,Bournemouth,Aston Villa,2,1,2020-02-01 15:00:00,Philip Billing,HeadPass
+352535,93,MissedShots,0.9369999694824219,0.5120000076293946,0.6683903932571411,Ryan Fraser,h,1683,OpenPlay,2019,LeftFoot,11883,Bournemouth,Aston Villa,2,1,2020-02-01 15:00:00,Callum Wilson,Pass
+352508,20,MissedShots,0.8119999694824219,0.740999984741211,0.0207081101834774,Jack Grealish,a,675,OpenPlay,2019,RightFoot,11883,Bournemouth,Aston Villa,2,1,2020-02-01 15:00:00,Mbwana Samatta,BallRecovery
+352510,25,MissedShots,0.8869999694824219,0.4179999923706055,0.07194719463586807,Frederic Guilbert,a,3253,OpenPlay,2019,LeftFoot,11883,Bournemouth,Aston Villa,2,1,2020-02-01 15:00:00,Anwar El Ghazi,Cross
+352512,28,ShotOnPost,0.865999984741211,0.75,0.0294948723167181,Jack Grealish,a,675,OpenPlay,2019,RightFoot,11883,Bournemouth,Aston Villa,2,1,2020-02-01 15:00:00,Douglas Luiz,Pass
+352513,31,BlockedShot,0.8809999847412109,0.6419999694824219,0.06915681809186935,Jack Grealish,a,675,OpenPlay,2019,RightFoot,11883,Bournemouth,Aston Villa,2,1,2020-02-01 15:00:00,Anwar El Ghazi,BallRecovery
+352514,33,BlockedShot,0.9480000305175781,0.40200000762939453,0.09917876869440079,Mbwana Samatta,a,8287,OpenPlay,2019,RightFoot,11883,Bournemouth,Aston Villa,2,1,2020-02-01 15:00:00,,None
+352519,45,SavedShot,0.9780000305175781,0.6819999694824219,0.052830711007118225,Jack Grealish,a,675,OpenPlay,2019,RightFoot,11883,Bournemouth,Aston Villa,2,1,2020-02-01 15:00:00,Mbwana Samatta,TakeOn
+352521,52,MissedShots,0.95,0.5029999923706054,0.12868665158748627,Björn Engels,a,7152,SetPiece,2019,Head,11883,Bournemouth,Aston Villa,2,1,2020-02-01 15:00:00,Kortney Hause,Aerial
+352523,63,BlockedShot,0.9019999694824219,0.5670000076293945,0.06681034713983536,Matt Targett,a,884,OpenPlay,2019,LeftFoot,11883,Bournemouth,Aston Villa,2,1,2020-02-01 15:00:00,Jack Grealish,Cross
+352524,63,MissedShots,0.8169999694824219,0.500999984741211,0.04136638715863228,Marvelous Nakamba,a,8040,FromCorner,2019,LeftFoot,11883,Bournemouth,Aston Villa,2,1,2020-02-01 15:00:00,Jack Grealish,Pass
+352525,67,MissedShots,0.7609999847412109,0.39599998474121095,0.02149372175335884,Marvelous Nakamba,a,8040,OpenPlay,2019,LeftFoot,11883,Bournemouth,Aston Villa,2,1,2020-02-01 15:00:00,Jack Grealish,Pass
+352526,69,BlockedShot,0.8469999694824218,0.5220000076293946,0.09015224128961563,Keinan Davis,a,1053,OpenPlay,2019,RightFoot,11883,Bournemouth,Aston Villa,2,1,2020-02-01 15:00:00,Jack Grealish,Pass
+352527,69,Goal,0.935,0.4779999923706055,0.47586047649383545,Mbwana Samatta,a,8287,OpenPlay,2019,Head,11883,Bournemouth,Aston Villa,2,1,2020-02-01 15:00:00,,Rebound
+352528,72,MissedShots,0.91,0.6819999694824219,0.05327527970075607,Jack Grealish,a,675,OpenPlay,2019,LeftFoot,11883,Bournemouth,Aston Villa,2,1,2020-02-01 15:00:00,Douglas Luiz,Pass
+352529,73,SavedShot,0.9169999694824219,0.66,0.05688029155135155,Keinan Davis,a,1053,OpenPlay,2019,LeftFoot,11883,Bournemouth,Aston Villa,2,1,2020-02-01 15:00:00,Jack Grealish,BallRecovery
+352530,73,SavedShot,0.905,0.57,0.05925392359495163,Mbwana Samatta,a,8287,OpenPlay,2019,Head,11883,Bournemouth,Aston Villa,2,1,2020-02-01 15:00:00,Frederic Guilbert,Cross
+352531,76,MissedShots,0.925,0.49700000762939456,0.053086984902620316,Keinan Davis,a,1053,OpenPlay,2019,Head,11883,Bournemouth,Aston Villa,2,1,2020-02-01 15:00:00,Björn Engels,Aerial
+352532,78,MissedShots,0.92,0.505,0.0622684471309185,Tyrone Mings,a,1024,SetPiece,2019,Head,11883,Bournemouth,Aston Villa,2,1,2020-02-01 15:00:00,Matt Targett,Aerial

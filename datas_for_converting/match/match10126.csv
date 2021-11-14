@@ -1,0 +1,27 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+279782,2,SavedShot,0.9359999847412109,0.3139999961853027,0.04777192696928978,Samuel Chukwueze,h,7208,OpenPlay,2018,LeftFoot,10126,Villarreal,Real Madrid,2,2,2019-01-03 20:30:00,Pablo Fornals,Chipped
+279783,3,Goal,0.8530000305175781,0.664000015258789,0.04314477741718292,Santiago Cazorla,h,965,OpenPlay,2018,RightFoot,10126,Villarreal,Real Madrid,2,2,2019-01-03 20:30:00,Samuel Chukwueze,Pass
+279787,15,BlockedShot,0.7719999694824219,0.40799999237060547,0.01833292469382286,Miguel Layún,h,1016,OpenPlay,2018,LeftFoot,10126,Villarreal,Real Madrid,2,2,2019-01-03 20:30:00,Santiago Cazorla,Chipped
+279789,21,SavedShot,0.8690000152587891,0.5220000076293946,0.01215341966599226,Gerard Moreno,h,2120,SetPiece,2018,Head,10126,Villarreal,Real Madrid,2,2,2019-01-03 20:30:00,Santiago Cazorla,Aerial
+279791,26,BlockedShot,0.8519999694824218,0.3920000076293945,0.060480449348688126,Samuel Chukwueze,h,7208,OpenPlay,2018,LeftFoot,10126,Villarreal,Real Madrid,2,2,2019-01-03 20:30:00,Santiago Cazorla,Pass
+279792,30,BlockedShot,0.745,0.6509999847412109,0.014182041399180889,Samuel Chukwueze,h,7208,OpenPlay,2018,LeftFoot,10126,Villarreal,Real Madrid,2,2,2019-01-03 20:30:00,,None
+279795,46,BlockedShot,0.75,0.36900001525878906,0.020294276997447014,Pablo Fornals,h,2335,OpenPlay,2018,RightFoot,10126,Villarreal,Real Madrid,2,2,2019-01-03 20:30:00,Miguel Layún,Pass
+279798,61,MissedShots,0.91,0.43599998474121093,0.02193078026175499,Víctor Ruiz,h,2298,FromCorner,2018,Head,10126,Villarreal,Real Madrid,2,2,2019-01-03 20:30:00,Santiago Cazorla,Aerial
+279799,63,MissedShots,0.745999984741211,0.54,0.01826385408639908,Gerard Moreno,h,2120,OpenPlay,2018,LeftFoot,10126,Villarreal,Real Madrid,2,2,2019-01-03 20:30:00,,None
+279803,69,BlockedShot,0.895,0.534000015258789,0.11175748705863953,Samuel Chukwueze,h,7208,OpenPlay,2018,LeftFoot,10126,Villarreal,Real Madrid,2,2,2019-01-03 20:30:00,Karl Toko Ekambi,Pass
+279804,69,MissedShots,0.9219999694824219,0.5479999923706055,0.09861236810684204,Álvaro González,h,2430,FromCorner,2018,Head,10126,Villarreal,Real Madrid,2,2,2019-01-03 20:30:00,Santiago Cazorla,Cross
+279805,81,Goal,0.9719999694824218,0.46799999237060547,0.5522168874740601,Santiago Cazorla,h,965,OpenPlay,2018,Head,10126,Villarreal,Real Madrid,2,2,2019-01-03 20:30:00,Pablo Fornals,Chipped
+279784,6,Goal,0.93,0.5070000076293946,0.40607279539108276,Karim Benzema,a,2370,OpenPlay,2018,Head,10126,Villarreal,Real Madrid,2,2,2019-01-03 20:30:00,Lucas Vázquez,Chipped
+279785,9,MissedShots,0.8590000152587891,0.415,0.027140673249959946,Karim Benzema,a,2370,OpenPlay,2018,Head,10126,Villarreal,Real Madrid,2,2,2019-01-03 20:30:00,Marcelo,Chipped
+279786,14,SavedShot,0.9669999694824218,0.6519999694824219,0.1045665293931961,Lucas Vázquez,a,2253,OpenPlay,2018,LeftFoot,10126,Villarreal,Real Madrid,2,2,2019-01-03 20:30:00,Karim Benzema,Throughball
+279788,19,Goal,0.91,0.5770000076293945,0.025406645610928535,Raphael Varane,a,2245,SetPiece,2018,Head,10126,Villarreal,Real Madrid,2,2,2019-01-03 20:30:00,Toni Kroos,Aerial
+279790,25,SavedShot,0.730999984741211,0.750999984741211,0.019639398902654648,Gareth Bale,a,2251,OpenPlay,2018,LeftFoot,10126,Villarreal,Real Madrid,2,2,2019-01-03 20:30:00,Casemiro,Pass
+279793,32,BlockedShot,0.875,0.705,0.04668581858277321,Karim Benzema,a,2370,OpenPlay,2018,RightFoot,10126,Villarreal,Real Madrid,2,2,2019-01-03 20:30:00,Gareth Bale,Pass
+279794,32,SavedShot,0.7980000305175782,0.5690000152587891,0.04998040944337845,Toni Kroos,a,2369,OpenPlay,2018,LeftFoot,10126,Villarreal,Real Madrid,2,2,2019-01-03 20:30:00,,Rebound
+279796,49,BlockedShot,0.715,0.3120000076293945,0.021686380729079247,Lucas Vázquez,a,2253,OpenPlay,2018,RightFoot,10126,Villarreal,Real Madrid,2,2,2019-01-03 20:30:00,Isco,Pass
+279797,49,MissedShots,0.8109999847412109,0.5420000076293945,0.06022040173411369,Karim Benzema,a,2370,OpenPlay,2018,RightFoot,10126,Villarreal,Real Madrid,2,2,2019-01-03 20:30:00,,Rebound
+279800,64,SavedShot,0.8959999847412109,0.4909999847412109,0.4444434642791748,Lucas Vázquez,a,2253,OpenPlay,2018,RightFoot,10126,Villarreal,Real Madrid,2,2,2019-01-03 20:30:00,,TakeOn
+279801,66,BlockedShot,0.835999984741211,0.49700000762939456,0.054876312613487244,Federico Valverde,a,6241,FromCorner,2018,RightFoot,10126,Villarreal,Real Madrid,2,2,2019-01-03 20:30:00,,None
+279802,67,BlockedShot,0.865,0.6530000305175782,0.08371009677648544,Marcelo,a,2257,OpenPlay,2018,RightFoot,10126,Villarreal,Real Madrid,2,2,2019-01-03 20:30:00,Raphael Varane,TakeOn
+279806,83,BlockedShot,0.745,0.5540000152587891,0.021493729203939438,Isco,a,2255,OpenPlay,2018,LeftFoot,10126,Villarreal,Real Madrid,2,2,2019-01-03 20:30:00,Federico Valverde,Pass
+279807,84,SavedShot,0.85,0.3509999847412109,0.03689524903893471,Isco,a,2255,OpenPlay,2018,RightFoot,10126,Villarreal,Real Madrid,2,2,2019-01-03 20:30:00,Daniel Carvajal,Chipped

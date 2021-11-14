@@ -1,0 +1,14 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+141151,33,BlockedShot,0.8169999694824219,0.5329999923706055,0.05453276261687279,Gabriel Pires,h,5067,OpenPlay,2016,RightFoot,3935,Leganes,Sporting Gijon,0,2,2017-02-12 15:15:00,,None
+141152,39,MissedShots,0.9280000305175782,0.539000015258789,0.07698491960763931,Alberto Bueno,h,4119,OpenPlay,2016,Head,3935,Leganes,Sporting Gijon,0,2,2017-02-12 15:15:00,Samu García,Aerial
+141153,54,BlockedShot,0.710999984741211,0.675,0.038251012563705444,Alberto Bueno,h,4119,DirectFreekick,2016,RightFoot,3935,Leganes,Sporting Gijon,0,2,2017-02-12 15:15:00,,Standard
+141154,54,MissedShots,0.8209999847412109,0.27,0.02240838296711445,Samu García,h,2300,SetPiece,2016,RightFoot,3935,Leganes,Sporting Gijon,0,2,2017-02-12 15:15:00,Alberto Bueno,Pass
+141155,61,MissedShots,0.8430000305175781,0.5370000076293945,0.0673711821436882,Samu García,h,2300,OpenPlay,2016,LeftFoot,3935,Leganes,Sporting Gijon,0,2,2017-02-12 15:15:00,,None
+141158,79,BlockedShot,0.9380000305175781,0.35200000762939454,0.06248364970088005,Guerrero,h,2218,OpenPlay,2016,RightFoot,3935,Leganes,Sporting Gijon,0,2,2017-02-12 15:15:00,,None
+141159,80,SavedShot,0.909000015258789,0.37900001525878907,0.037652596831321716,Unai Bustinza,h,4107,SetPiece,2016,Head,3935,Leganes,Sporting Gijon,0,2,2017-02-12 15:15:00,Rubén Pérez,Cross
+141162,93,SavedShot,0.7830000305175782,0.3940000152587891,0.02861616015434265,Nabil El Zhar,h,2357,OpenPlay,2016,RightFoot,3935,Leganes,Sporting Gijon,0,2,2017-02-12 15:15:00,Gabriel Pires,Pass
+141163,93,SavedShot,0.875999984741211,0.7290000152587891,0.03303707763552666,Darwin Machís,h,4226,OpenPlay,2016,LeftFoot,3935,Leganes,Sporting Gijon,0,2,2017-02-12 15:15:00,Guerrero,Pass
+141156,65,Goal,0.789000015258789,0.63,0.03293664753437042,Roberto Canella,a,2457,FromCorner,2016,LeftFoot,3935,Leganes,Sporting Gijon,0,2,2017-02-12 15:15:00,Burgui,Pass
+141157,68,BlockedShot,0.8280000305175781,0.6930000305175781,0.019175240769982338,Moi Gómez,a,2198,OpenPlay,2016,RightFoot,3935,Leganes,Sporting Gijon,0,2,2017-02-12 15:15:00,,Aerial
+141160,82,Goal,0.9030000305175782,0.6940000152587891,0.07485606521368027,Burgui,a,2432,OpenPlay,2016,RightFoot,3935,Leganes,Sporting Gijon,0,2,2017-02-12 15:15:00,,BallRecovery
+141161,86,BlockedShot,0.705,0.48700000762939455,0.0454675555229187,Carlos Carmona,a,2214,DirectFreekick,2016,RightFoot,3935,Leganes,Sporting Gijon,0,2,2017-02-12 15:15:00,,Standard

@@ -1,0 +1,31 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+40145,16,MissedShots,0.9,0.509000015258789,0.1023116484284401,Lionel Messi,h,2097,OpenPlay,2014,Head,5600,Barcelona,Real Madrid,2,1,2015-03-22 23:00:00,Neymar,Cross
+40146,18,Goal,0.9219999694824219,0.52,0.06706695258617401,Jeremy Mathieu,h,2101,SetPiece,2014,Head,5600,Barcelona,Real Madrid,2,1,2015-03-22 23:00:00,Lionel Messi,Aerial
+40147,22,BlockedShot,0.7530000305175781,0.6480000305175782,0.060140110552310944,Lionel Messi,h,2097,DirectFreekick,2014,LeftFoot,5600,Barcelona,Real Madrid,2,1,2015-03-22 23:00:00,,Standard
+40148,23,MissedShots,0.740999984741211,0.5529999923706055,0.027370763942599297,Jordi Alba,h,2093,FromCorner,2014,LeftFoot,5600,Barcelona,Real Madrid,2,1,2015-03-22 23:00:00,Lionel Messi,Pass
+40150,30,MissedShots,0.8859999847412109,0.3529999923706055,0.05341678112745285,Luis Suárez,h,2098,FromCorner,2014,RightFoot,5600,Barcelona,Real Madrid,2,1,2015-03-22 23:00:00,Gerard Piqué,None
+40151,30,SavedShot,0.9540000152587891,0.5259999847412109,0.5818371176719666,Neymar,h,2099,FromCorner,2014,LeftFoot,5600,Barcelona,Real Madrid,2,1,2015-03-22 23:00:00,Luis Suárez,Rebound
+40154,40,MissedShots,0.865,0.5420000076293945,0.0659409686923027,Gerard Piqué,h,2092,OpenPlay,2014,RightFoot,5600,Barcelona,Real Madrid,2,1,2015-03-22 23:00:00,Neymar,HeadPass
+40158,55,Goal,0.88,0.3340000152587891,0.10925023257732391,Luis Suárez,h,2098,OpenPlay,2014,RightFoot,5600,Barcelona,Real Madrid,2,1,2015-03-22 23:00:00,Dani Alves,Throughball
+40161,66,MissedShots,0.8119999694824219,0.475,0.12566903233528137,Neymar,h,2099,OpenPlay,2014,RightFoot,5600,Barcelona,Real Madrid,2,1,2015-03-22 23:00:00,Javier Mascherano,TakeOn
+40162,70,BlockedShot,0.865,0.4209999847412109,0.09478987008333206,Neymar,h,2099,OpenPlay,2014,RightFoot,5600,Barcelona,Real Madrid,2,1,2015-03-22 23:00:00,Luis Suárez,TakeOn
+40163,72,MissedShots,0.794000015258789,0.475,0.048044539988040924,Lionel Messi,h,2097,OpenPlay,2014,LeftFoot,5600,Barcelona,Real Madrid,2,1,2015-03-22 23:00:00,Dani Alves,Pass
+40164,73,MissedShots,0.9059999847412109,0.37200000762939456,0.34277263283729553,Neymar,h,2099,OpenPlay,2014,RightFoot,5600,Barcelona,Real Madrid,2,1,2015-03-22 23:00:00,Lionel Messi,Pass
+40165,76,BlockedShot,0.9069999694824219,0.625,0.10938195884227753,Lionel Messi,h,2097,OpenPlay,2014,RightFoot,5600,Barcelona,Real Madrid,2,1,2015-03-22 23:00:00,Neymar,Pass
+40167,83,MissedShots,0.9009999847412109,0.720999984741211,0.04519324377179146,Luis Suárez,h,2098,OpenPlay,2014,LeftFoot,5600,Barcelona,Real Madrid,2,1,2015-03-22 23:00:00,Javier Mascherano,TakeOn
+40168,85,SavedShot,0.865,0.5940000152587891,0.3717484772205353,Jordi Alba,h,2093,OpenPlay,2014,LeftFoot,5600,Barcelona,Real Madrid,2,1,2015-03-22 23:00:00,Lionel Messi,Throughball
+40169,86,MissedShots,0.9069999694824219,0.669000015258789,0.024223778396844864,Luis Suárez,h,2098,FromCorner,2014,RightFoot,5600,Barcelona,Real Madrid,2,1,2015-03-22 23:00:00,,Aerial
+40170,86,SavedShot,0.875,0.6079999923706054,0.09804566204547882,Lionel Messi,h,2097,OpenPlay,2014,LeftFoot,5600,Barcelona,Real Madrid,2,1,2015-03-22 23:00:00,Jordi Alba,Pass
+40141,7,MissedShots,0.8330000305175781,0.285,0.0283962469547987,Karim Benzema,a,2370,OpenPlay,2014,RightFoot,5600,Barcelona,Real Madrid,2,1,2015-03-22 23:00:00,Gareth Bale,Pass
+40142,11,ShotOnPost,0.9790000152587891,0.4229999923706055,0.3730444014072418,Cristiano Ronaldo,a,2371,OpenPlay,2014,RightFoot,5600,Barcelona,Real Madrid,2,1,2015-03-22 23:00:00,Karim Benzema,Cross
+40143,12,BlockedShot,0.835,0.7069999694824218,0.03220611438155174,Isco,a,2255,FromCorner,2014,RightFoot,5600,Barcelona,Real Madrid,2,1,2015-03-22 23:00:00,Toni Kroos,Pass
+40144,12,MissedShots,0.9359999847412109,0.5720000076293945,0.06527508795261383,Sergio Ramos,a,2246,OpenPlay,2014,Head,5600,Barcelona,Real Madrid,2,1,2015-03-22 23:00:00,Toni Kroos,Aerial
+40149,25,BlockedShot,0.8180000305175781,0.5070000076293946,0.04902150481939316,Marcelo,a,2257,OpenPlay,2014,RightFoot,5600,Barcelona,Real Madrid,2,1,2015-03-22 23:00:00,Pepe,TakeOn
+40152,30,Goal,0.879000015258789,0.4620000076293945,0.4177817702293396,Cristiano Ronaldo,a,2371,OpenPlay,2014,RightFoot,5600,Barcelona,Real Madrid,2,1,2015-03-22 23:00:00,Karim Benzema,Pass
+40153,33,MissedShots,0.75,0.544000015258789,0.0238330140709877,Luka Modric,a,2250,OpenPlay,2014,RightFoot,5600,Barcelona,Real Madrid,2,1,2015-03-22 23:00:00,Marcelo,Pass
+40155,42,SavedShot,0.775,0.7280000305175781,0.012175184674561024,Cristiano Ronaldo,a,2371,OpenPlay,2014,RightFoot,5600,Barcelona,Real Madrid,2,1,2015-03-22 23:00:00,Gareth Bale,Chipped
+40156,42,MissedShots,0.905,0.4779999923706055,0.44939395785331726,Gareth Bale,a,2251,FromCorner,2014,RightFoot,5600,Barcelona,Real Madrid,2,1,2015-03-22 23:00:00,Karim Benzema,Pass
+40157,48,SavedShot,0.9059999847412109,0.39799999237060546,0.13529536128044128,Karim Benzema,a,2370,OpenPlay,2014,RightFoot,5600,Barcelona,Real Madrid,2,1,2015-03-22 23:00:00,Cristiano Ronaldo,Pass
+40159,57,BlockedShot,0.9269999694824219,0.6959999847412109,0.059334129095077515,Marcelo,a,2257,OpenPlay,2014,LeftFoot,5600,Barcelona,Real Madrid,2,1,2015-03-22 23:00:00,Isco,Pass
+40160,57,MissedShots,0.9030000305175782,0.5070000076293946,0.029100365936756134,Cristiano Ronaldo,a,2371,FromCorner,2014,Head,5600,Barcelona,Real Madrid,2,1,2015-03-22 23:00:00,Isco,Aerial
+40166,77,SavedShot,0.7930000305175782,0.6469999694824219,0.024211538955569267,Karim Benzema,a,2370,OpenPlay,2014,RightFoot,5600,Barcelona,Real Madrid,2,1,2015-03-22 23:00:00,Luka Modric,Pass

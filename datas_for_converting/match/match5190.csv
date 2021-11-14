@@ -1,0 +1,21 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+31339,7,Goal,0.8690000152587891,0.6170000076293946,0.07203901559114456,Anthony Modeste,h,137,OpenPlay,2014,RightFoot,5190,Hoffenheim,Hertha Berlin,2,1,2015-05-23 14:30:00,Roberto Firmino,Chipped
+31341,19,BlockedShot,0.8530000305175781,0.33099998474121095,0.06398605555295944,Kevin Volland,h,83,OpenPlay,2014,LeftFoot,5190,Hoffenheim,Hertha Berlin,2,1,2015-05-23 14:30:00,Eugen Polanski,Pass
+31343,39,MissedShots,0.855,0.7559999847412109,0.029198789969086647,Eugen Polanski,h,86,OpenPlay,2014,LeftFoot,5190,Hoffenheim,Hertha Berlin,2,1,2015-05-23 14:30:00,Jeremy Toljan,Pass
+31344,46,SavedShot,0.759000015258789,0.14300000190734863,0.018354078754782677,Kevin Volland,h,83,OpenPlay,2014,LeftFoot,5190,Hoffenheim,Hertha Berlin,2,1,2015-05-23 14:30:00,Roberto Firmino,Pass
+31345,50,BlockedShot,0.715999984741211,0.580999984741211,0.019215252250432968,Pirmin Schwegler,h,80,OpenPlay,2014,LeftFoot,5190,Hoffenheim,Hertha Berlin,2,1,2015-05-23 14:30:00,,OffsidePass
+31346,51,BlockedShot,0.9030000305175782,0.69,0.07382845133543015,Anthony Modeste,h,137,OpenPlay,2014,LeftFoot,5190,Hoffenheim,Hertha Berlin,2,1,2015-05-23 14:30:00,Jeremy Toljan,Pass
+31347,56,BlockedShot,0.7709999847412109,0.355,0.0681442990899086,David Abraham,h,283,DirectFreekick,2014,RightFoot,5190,Hoffenheim,Hertha Berlin,2,1,2015-05-23 14:30:00,,Standard
+31348,59,MissedShots,0.72,0.649000015258789,0.021511472761631012,Jeremy Toljan,h,257,OpenPlay,2014,RightFoot,5190,Hoffenheim,Hertha Berlin,2,1,2015-05-23 14:30:00,,TakeOn
+31349,64,SavedShot,0.6969999694824218,0.33299999237060546,0.014089520089328289,Eugen Polanski,h,86,OpenPlay,2014,LeftFoot,5190,Hoffenheim,Hertha Berlin,2,1,2015-05-23 14:30:00,Kevin Volland,Pass
+31350,67,BlockedShot,0.7809999847412109,0.34900001525878904,0.029058873653411865,Sebastian Rudy,h,90,OpenPlay,2014,LeftFoot,5190,Hoffenheim,Hertha Berlin,2,1,2015-05-23 14:30:00,Andreas Beck,Pass
+31351,67,MissedShots,0.7069999694824218,0.5540000152587891,0.019259709864854813,Eugen Polanski,h,86,OpenPlay,2014,LeftFoot,5190,Hoffenheim,Hertha Berlin,2,1,2015-05-23 14:30:00,Roberto Firmino,Pass
+31353,74,MissedShots,0.7240000152587891,0.31799999237060544,0.03917498514056206,Kevin Volland,h,83,DirectFreekick,2014,LeftFoot,5190,Hoffenheim,Hertha Berlin,2,1,2015-05-23 14:30:00,,Standard
+31354,78,BlockedShot,0.855,0.7090000152587891,0.03561058267951012,Eugen Polanski,h,86,OpenPlay,2014,LeftFoot,5190,Hoffenheim,Hertha Berlin,2,1,2015-05-23 14:30:00,Roberto Firmino,Pass
+31355,79,BlockedShot,0.7819999694824219,0.6719999694824219,0.06876349449157715,David Abraham,h,283,DirectFreekick,2014,RightFoot,5190,Hoffenheim,Hertha Berlin,2,1,2015-05-23 14:30:00,,Standard
+31356,79,SavedShot,0.7680000305175781,0.639000015258789,0.015314443036913872,David Abraham,h,283,SetPiece,2014,RightFoot,5190,Hoffenheim,Hertha Berlin,2,1,2015-05-23 14:30:00,,Rebound
+31357,79,Goal,0.9569999694824218,0.3729999923706055,0.3343772292137146,Roberto Firmino,h,482,SetPiece,2014,RightFoot,5190,Hoffenheim,Hertha Berlin,2,1,2015-05-23 14:30:00,,Rebound
+31338,2,MissedShots,0.754000015258789,0.4,0.06465361267328262,Marvin Plattenhardt,a,23,DirectFreekick,2014,LeftFoot,5190,Hoffenheim,Hertha Berlin,2,1,2015-05-23 14:30:00,,Standard
+31340,12,MissedShots,0.895,0.5570000076293945,0.23024848103523254,Salomon Kalou,a,26,OpenPlay,2014,Head,5190,Hoffenheim,Hertha Berlin,2,1,2015-05-23 14:30:00,Peter Pekarík,Cross
+31342,31,MissedShots,0.950999984741211,0.395,0.027973834425210953,Genki Haraguchi,a,35,OpenPlay,2014,Head,5190,Hoffenheim,Hertha Berlin,2,1,2015-05-23 14:30:00,Peter Pekarík,Aerial
+31352,71,Goal,0.904000015258789,0.37599998474121094,0.16266904771327972,Roy Beerens,a,36,OpenPlay,2014,RightFoot,5190,Hoffenheim,Hertha Berlin,2,1,2015-05-23 14:30:00,,TakeOn

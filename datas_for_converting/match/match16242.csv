@@ -1,0 +1,22 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+440908,19,Goal,0.9,0.47900001525878905,0.28662213683128357,Vladislav Sarveli,h,9591,OpenPlay,2021,Head,16242,Krylya Sovetov Samara,Khimki,3,0,2021-11-06 13:30:00,Anton Zinkovskiy,Cross
+440909,23,ShotOnPost,0.860999984741211,0.685,0.062476783990859985,Anton Zinkovskiy,h,7454,OpenPlay,2021,RightFoot,16242,Krylya Sovetov Samara,Khimki,3,0,2021-11-06 13:30:00,Yuri Gorshkov,Pass
+440911,34,BlockedShot,0.894000015258789,0.54,0.11058562994003296,Ivan Sergeev,h,9590,OpenPlay,2021,RightFoot,16242,Krylya Sovetov Samara,Khimki,3,0,2021-11-06 13:30:00,Anton Zinkovskiy,Cross
+440912,38,Goal,0.885,0.5,0.7542753219604492,Ivan Sergeev,h,9590,Penalty,2021,RightFoot,16242,Krylya Sovetov Samara,Khimki,3,0,2021-11-06 13:30:00,,Standard
+440917,70,Goal,0.8780000305175781,0.3370000076293945,0.09250123053789139,Roman Ezhov,h,9592,OpenPlay,2021,LeftFoot,16242,Krylya Sovetov Samara,Khimki,3,0,2021-11-06 13:30:00,Vladislav Sarveli,Pass
+440918,80,BlockedShot,0.8540000152587891,0.6730000305175782,0.049530744552612305,Sergei Pinyaev,h,9594,OpenPlay,2021,RightFoot,16242,Krylya Sovetov Samara,Khimki,3,0,2021-11-06 13:30:00,,None
+440919,83,BlockedShot,0.8480000305175781,0.5029999923706054,0.11187735199928284,Ivan Sergeev,h,9590,OpenPlay,2021,RightFoot,16242,Krylya Sovetov Samara,Khimki,3,0,2021-11-06 13:30:00,Denis Yakuba,Pass
+440920,83,MissedShots,0.9259999847412109,0.39599998474121095,0.032664574682712555,Glenn Bijl,h,9947,FromCorner,2021,Head,16242,Krylya Sovetov Samara,Khimki,3,0,2021-11-06 13:30:00,Maksim Glushenkov,Cross
+440924,88,MissedShots,0.76,0.6329999923706054,0.07442320138216019,Sergei Pinyaev,h,9594,OpenPlay,2021,RightFoot,16242,Krylya Sovetov Samara,Khimki,3,0,2021-11-06 13:30:00,Glenn Bijl,Pass
+440925,90,MissedShots,0.9219999694824219,0.39099998474121095,0.028819091618061066,Ivan Sergeev,h,9590,FromCorner,2021,Head,16242,Krylya Sovetov Samara,Khimki,3,0,2021-11-06 13:30:00,Maksim Glushenkov,Cross
+440926,91,BlockedShot,0.7269999694824218,0.49700000762939456,0.017176635563373566,Danil Prutsev,h,8714,OpenPlay,2021,RightFoot,16242,Krylya Sovetov Samara,Khimki,3,0,2021-11-06 13:30:00,,None
+440906,4,BlockedShot,0.7619999694824219,0.46599998474121096,0.022868840023875237,Denis Glushakov,a,2814,OpenPlay,2021,RightFoot,16242,Krylya Sovetov Samara,Khimki,3,0,2021-11-06 13:30:00,Reziuan Mirzov,Pass
+440907,13,MissedShots,0.8159999847412109,0.39299999237060546,0.04950845241546631,Ilya Kukharchuk,a,8599,OpenPlay,2021,LeftFoot,16242,Krylya Sovetov Samara,Khimki,3,0,2021-11-06 13:30:00,Reziuan Mirzov,Pass
+440910,28,SavedShot,0.904000015258789,0.40400001525878904,0.35758858919143677,Denis Glushakov,a,2814,OpenPlay,2021,RightFoot,16242,Krylya Sovetov Samara,Khimki,3,0,2021-11-06 13:30:00,Kirill Bozhenov,Throughball
+440913,53,MissedShots,0.9219999694824219,0.38099998474121094,0.059840187430381775,Ilya Kukharchuk,a,8599,OpenPlay,2021,RightFoot,16242,Krylya Sovetov Samara,Khimki,3,0,2021-11-06 13:30:00,Brian Idowu,Cross
+440914,65,MissedShots,0.8959999847412109,0.6580000305175782,0.08021394908428192,Reziuan Mirzov,a,2869,OpenPlay,2021,RightFoot,16242,Krylya Sovetov Samara,Khimki,3,0,2021-11-06 13:30:00,Brian Idowu,Pass
+440915,67,BlockedShot,0.840999984741211,0.5270000076293946,0.06275219470262527,Denis Glushakov,a,2814,OpenPlay,2021,LeftFoot,16242,Krylya Sovetov Samara,Khimki,3,0,2021-11-06 13:30:00,Aleksandr Filin,Pass
+440916,69,ShotOnPost,0.759000015258789,0.5709999847412109,0.02230987697839737,Kirill Bozhenov,a,8598,OpenPlay,2021,RightFoot,16242,Krylya Sovetov Samara,Khimki,3,0,2021-11-06 13:30:00,Denis Glushakov,Pass
+440921,85,SavedShot,0.9419999694824219,0.654000015258789,0.031089123338460922,Besard Sabovic,a,9574,SetPiece,2021,RightFoot,16242,Krylya Sovetov Samara,Khimki,3,0,2021-11-06 13:30:00,Denis Glushakov,Cross
+440922,87,SavedShot,0.6519999694824219,0.695,0.023594392463564873,Besard Sabovic,a,9574,DirectFreekick,2021,RightFoot,16242,Krylya Sovetov Samara,Khimki,3,0,2021-11-06 13:30:00,,Standard
+440923,88,SavedShot,0.7019999694824218,0.5979999923706054,0.03438353165984154,Denis Glushakov,a,2814,DirectFreekick,2021,RightFoot,16242,Krylya Sovetov Samara,Khimki,3,0,2021-11-06 13:30:00,,Standard

@@ -1,0 +1,31 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+53244,2,Goal,0.9490000152587891,0.655,0.10851027816534042,Mousa Dembélé,h,642,OpenPlay,2015,LeftFoot,190,Tottenham,Aston Villa,3,1,2015-11-03 00:00:00,Danny Rose,TakeOn
+53247,23,SavedShot,0.8859999847412109,0.6509999847412109,0.1281132996082306,Harry Kane,h,647,OpenPlay,2015,RightFoot,190,Tottenham,Aston Villa,3,1,2015-11-03 00:00:00,Eric Dier,Throughball
+53248,24,MissedShots,0.879000015258789,0.6669999694824219,0.04183158650994301,Danny Rose,h,641,FromCorner,2015,LeftFoot,190,Tottenham,Aston Villa,3,1,2015-11-03 00:00:00,Christian Eriksen,Pass
+53249,25,MissedShots,0.750999984741211,0.68,0.021124403923749924,Mousa Dembélé,h,642,OpenPlay,2015,LeftFoot,190,Tottenham,Aston Villa,3,1,2015-11-03 00:00:00,Erik Lamela,Pass
+53251,42,BlockedShot,0.8669999694824219,0.53,0.041688449680805206,Harry Kane,h,647,SetPiece,2015,Head,190,Tottenham,Aston Villa,3,1,2015-11-03 00:00:00,Christian Eriksen,Chipped
+53252,45,Goal,0.85,0.46599998474121096,0.04336566478013992,Dele Alli,h,645,OpenPlay,2015,RightFoot,190,Tottenham,Aston Villa,3,1,2015-11-03 00:00:00,,Aerial
+53253,48,BlockedShot,0.765,0.76,0.018013780936598778,Danny Rose,h,641,OpenPlay,2015,LeftFoot,190,Tottenham,Aston Villa,3,1,2015-11-03 00:00:00,Harry Kane,Chipped
+53254,51,BlockedShot,0.8159999847412109,0.47,0.08212735503911972,Eric Dier,h,643,OpenPlay,2015,RightFoot,190,Tottenham,Aston Villa,3,1,2015-11-03 00:00:00,Erik Lamela,Pass
+53255,52,MissedShots,0.94,0.610999984741211,0.04748434200882912,Danny Rose,h,641,OpenPlay,2015,Head,190,Tottenham,Aston Villa,3,1,2015-11-03 00:00:00,Erik Lamela,Cross
+53256,53,BlockedShot,0.730999984741211,0.5129999923706055,0.019430574029684067,Dele Alli,h,645,OpenPlay,2015,RightFoot,190,Tottenham,Aston Villa,3,1,2015-11-03 00:00:00,,Foul
+53260,60,BlockedShot,0.769000015258789,0.764000015258789,0.039560649544000626,Christian Eriksen,h,646,DirectFreekick,2015,RightFoot,190,Tottenham,Aston Villa,3,1,2015-11-03 00:00:00,,Standard
+53262,70,MissedShots,0.745,0.610999984741211,0.05357370898127556,Christian Eriksen,h,646,DirectFreekick,2015,RightFoot,190,Tottenham,Aston Villa,3,1,2015-11-03 00:00:00,,Standard
+53265,77,SavedShot,0.830999984741211,0.3340000152587891,0.05726952105760574,Erik Lamela,h,644,OpenPlay,2015,LeftFoot,190,Tottenham,Aston Villa,3,1,2015-11-03 00:00:00,Dele Alli,Pass
+53270,88,BlockedShot,0.8969999694824219,0.2989999961853027,0.029716603457927704,Erik Lamela,h,644,FromCorner,2015,LeftFoot,190,Tottenham,Aston Villa,3,1,2015-11-03 00:00:00,Christian Eriksen,Pass
+53271,88,BlockedShot,0.8930000305175781,0.2979999923706055,0.044138599187135696,Erik Lamela,h,644,FromCorner,2015,LeftFoot,190,Tottenham,Aston Villa,3,1,2015-11-03 00:00:00,,Rebound
+53272,90,SavedShot,0.7380000305175781,0.44299999237060544,0.0248049795627594,Josh Onomah,h,661,OpenPlay,2015,RightFoot,190,Tottenham,Aston Villa,3,1,2015-11-03 00:00:00,Christian Eriksen,Pass
+53273,92,Goal,0.8669999694824219,0.575,0.34429559111595154,Harry Kane,h,647,OpenPlay,2015,RightFoot,190,Tottenham,Aston Villa,3,1,2015-11-03 00:00:00,Erik Lamela,Pass
+53245,10,SavedShot,0.8580000305175781,0.6669999694824219,0.05232008174061775,Scott Sinclair,a,679,OpenPlay,2015,RightFoot,190,Tottenham,Aston Villa,3,1,2015-11-03 00:00:00,Kieran Richardson,TakeOn
+53246,10,MissedShots,0.86,0.745,0.029858030378818512,Jack Grealish,a,675,OpenPlay,2015,LeftFoot,190,Tottenham,Aston Villa,3,1,2015-11-03 00:00:00,,Rebound
+53250,28,BlockedShot,0.7569999694824219,0.38299999237060545,0.013544769026339054,Jack Grealish,a,675,SetPiece,2015,RightFoot,190,Tottenham,Aston Villa,3,1,2015-11-03 00:00:00,,None
+53257,54,BlockedShot,0.7830000305175782,0.5579999923706055,0.024394461885094643,Jack Grealish,a,675,SetPiece,2015,RightFoot,190,Tottenham,Aston Villa,3,1,2015-11-03 00:00:00,,None
+53258,56,BlockedShot,0.7969999694824219,0.7440000152587891,0.010388496331870556,Scott Sinclair,a,679,OpenPlay,2015,RightFoot,190,Tottenham,Aston Villa,3,1,2015-11-03 00:00:00,,None
+53259,56,BlockedShot,0.715,0.3039999961853027,0.008559837006032467,Alan Hutton,a,663,OpenPlay,2015,RightFoot,190,Tottenham,Aston Villa,3,1,2015-11-03 00:00:00,Leandro Bacuna,Pass
+53261,65,MissedShots,0.95,0.36900001525878906,0.011638710275292397,Ciaran Clark,a,875,FromCorner,2015,Head,190,Tottenham,Aston Villa,3,1,2015-11-03 00:00:00,Leandro Bacuna,Aerial
+53263,72,BlockedShot,0.845,0.4,0.08060652017593384,Rudy Gestede,a,671,OpenPlay,2015,RightFoot,190,Tottenham,Aston Villa,3,1,2015-11-03 00:00:00,Carles Gil,Pass
+53264,74,BlockedShot,0.794000015258789,0.51,0.020451553165912628,Rudy Gestede,a,671,OpenPlay,2015,RightFoot,190,Tottenham,Aston Villa,3,1,2015-11-03 00:00:00,Alan Hutton,Cross
+53266,78,ShotOnPost,0.769000015258789,0.5509999847412109,0.024722518399357796,Leandro Bacuna,a,674,OpenPlay,2015,RightFoot,190,Tottenham,Aston Villa,3,1,2015-11-03 00:00:00,Jordan Ayew,Pass
+53267,78,Goal,0.7480000305175781,0.5709999847412109,0.013537016697227955,Jordan Ayew,a,672,OpenPlay,2015,RightFoot,190,Tottenham,Aston Villa,3,1,2015-11-03 00:00:00,,None
+53268,82,MissedShots,0.8959999847412109,0.39,0.01479113195091486,Rudy Gestede,a,671,OpenPlay,2015,Head,190,Tottenham,Aston Villa,3,1,2015-11-03 00:00:00,Leandro Bacuna,Aerial
+53269,84,MissedShots,0.769000015258789,0.654000015258789,0.02246037684381008,Jordan Ayew,a,672,OpenPlay,2015,RightFoot,190,Tottenham,Aston Villa,3,1,2015-11-03 00:00:00,Kieran Richardson,Pass

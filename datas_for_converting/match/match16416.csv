@@ -1,0 +1,39 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+431005,19,MissedShots,0.9069999694824219,0.6430000305175781,0.05949641391634941,Miguel Almirón,h,7420,OpenPlay,2021,LeftFoot,16416,Newcastle United,Leeds,1,1,2021-09-17 19:00:00,,None
+431006,23,MissedShots,0.9069999694824219,0.45599998474121095,0.12072322517633438,Miguel Almirón,h,7420,OpenPlay,2021,RightFoot,16416,Newcastle United,Leeds,1,1,2021-09-17 19:00:00,Allan Saint-Maximin,Pass
+431007,23,SavedShot,0.9230000305175782,0.5729999923706055,0.4241398274898529,Joelinton,h,87,OpenPlay,2021,RightFoot,16416,Newcastle United,Leeds,1,1,2021-09-17 19:00:00,Miguel Almirón,Rebound
+431010,30,MissedShots,0.7530000305175781,0.509000015258789,0.02468726597726345,Joe Willock,h,6630,OpenPlay,2021,RightFoot,16416,Newcastle United,Leeds,1,1,2021-09-17 19:00:00,Miguel Almirón,Pass
+431012,34,BlockedShot,0.8,0.514000015258789,0.04549515247344971,Matt Ritchie,h,461,OpenPlay,2021,RightFoot,16416,Newcastle United,Leeds,1,1,2021-09-17 19:00:00,Miguel Almirón,Pass
+431013,42,SavedShot,0.8209999847412109,0.549000015258789,0.04454684257507324,Sean Longstaff,h,7078,OpenPlay,2021,RightFoot,16416,Newcastle United,Leeds,1,1,2021-09-17 19:00:00,Miguel Almirón,Pass
+431014,43,Goal,0.8640000152587891,0.4329999923706055,0.07882536947727203,Allan Saint-Maximin,h,101,OpenPlay,2021,RightFoot,16416,Newcastle United,Leeds,1,1,2021-09-17 19:00:00,Joelinton,Pass
+431019,53,MissedShots,0.76,0.5409999847412109,0.024303874000906944,Joelinton,h,87,OpenPlay,2021,RightFoot,16416,Newcastle United,Leeds,1,1,2021-09-17 19:00:00,Allan Saint-Maximin,Pass
+431020,58,BlockedShot,0.875,0.7330000305175781,0.03603654354810715,Allan Saint-Maximin,h,101,OpenPlay,2021,RightFoot,16416,Newcastle United,Leeds,1,1,2021-09-17 19:00:00,Joelinton,Pass
+431021,58,SavedShot,0.9290000152587891,0.7230000305175781,0.03569245710968971,Allan Saint-Maximin,h,101,OpenPlay,2021,LeftFoot,16416,Newcastle United,Leeds,1,1,2021-09-17 19:00:00,,Rebound
+431022,58,SavedShot,0.8540000152587891,0.5029999923706054,0.01573801040649414,Jamaal Lascelles,h,766,FromCorner,2021,Head,16416,Newcastle United,Leeds,1,1,2021-09-17 19:00:00,Matt Ritchie,Cross
+431024,65,MissedShots,0.68,0.42400001525878905,0.014035040512681007,Sean Longstaff,h,7078,OpenPlay,2021,RightFoot,16416,Newcastle United,Leeds,1,1,2021-09-17 19:00:00,Isaac Hayden,Pass
+431025,69,MissedShots,0.7340000152587891,0.4490000152587891,0.015217183157801628,Sean Longstaff,h,7078,OpenPlay,2021,RightFoot,16416,Newcastle United,Leeds,1,1,2021-09-17 19:00:00,,None
+431028,73,MissedShots,0.86,0.3160000038146973,0.037566643208265305,Ryan Fraser,h,1683,OpenPlay,2021,RightFoot,16416,Newcastle United,Leeds,1,1,2021-09-17 19:00:00,Joe Willock,Pass
+431029,73,SavedShot,0.8230000305175781,0.54,0.05083353444933891,Allan Saint-Maximin,h,101,OpenPlay,2021,LeftFoot,16416,Newcastle United,Leeds,1,1,2021-09-17 19:00:00,Sean Longstaff,Pass
+431032,81,MissedShots,0.91,0.47099998474121096,0.07912570238113403,Jamaal Lascelles,h,766,FromCorner,2021,Head,16416,Newcastle United,Leeds,1,1,2021-09-17 19:00:00,Matt Ritchie,Cross
+431034,82,SavedShot,0.8669999694824219,0.395,0.12270787358283997,Allan Saint-Maximin,h,101,OpenPlay,2021,LeftFoot,16416,Newcastle United,Leeds,1,1,2021-09-17 19:00:00,,BallRecovery
+430998,2,MissedShots,0.8619999694824219,0.3320000076293945,0.03080081380903721,Patrick Bamford,a,822,OpenPlay,2021,RightFoot,16416,Newcastle United,Leeds,1,1,2021-09-17 19:00:00,Mateusz Klich,Chipped
+430999,11,SavedShot,0.9069999694824219,0.4929999923706055,0.1370043158531189,Raphinha,a,8026,OpenPlay,2021,RightFoot,16416,Newcastle United,Leeds,1,1,2021-09-17 19:00:00,Rodrigo,Pass
+431000,12,Goal,0.7580000305175781,0.15199999809265136,0.012392091564834118,Raphinha,a,8026,OpenPlay,2021,LeftFoot,16416,Newcastle United,Leeds,1,1,2021-09-17 19:00:00,Patrick Bamford,Pass
+431001,17,SavedShot,0.7780000305175782,0.355,0.026776617392897606,Mateusz Klich,a,4381,OpenPlay,2021,RightFoot,16416,Newcastle United,Leeds,1,1,2021-09-17 19:00:00,Raphinha,Pass
+431002,18,MissedShots,0.91,0.524000015258789,0.039439063519239426,Patrick Bamford,a,822,FromCorner,2021,OtherBodyPart,16416,Newcastle United,Leeds,1,1,2021-09-17 19:00:00,Mateusz Klich,Aerial
+431003,19,MissedShots,0.735999984741211,0.5940000152587891,0.018384965136647224,Júnior Firpo,a,6485,FromCorner,2021,LeftFoot,16416,Newcastle United,Leeds,1,1,2021-09-17 19:00:00,,Rebound
+431004,19,SavedShot,0.8590000152587891,0.20899999618530274,0.02877936139702797,Raphinha,a,8026,OpenPlay,2021,LeftFoot,16416,Newcastle United,Leeds,1,1,2021-09-17 19:00:00,Liam Cooper,BallTouch
+431008,24,MissedShots,0.805,0.4640000152587891,0.06095097213983536,Rodrigo,a,2381,OpenPlay,2021,LeftFoot,16416,Newcastle United,Leeds,1,1,2021-09-17 19:00:00,Daniel James,None
+431009,28,MissedShots,0.7959999847412109,0.40400001525878904,0.039582476019859314,Kalvin Phillips,a,8719,OpenPlay,2021,RightFoot,16416,Newcastle United,Leeds,1,1,2021-09-17 19:00:00,Rodrigo,Pass
+431011,33,SavedShot,0.8230000305175781,0.44299999237060544,0.07542289048433304,Mateusz Klich,a,4381,OpenPlay,2021,RightFoot,16416,Newcastle United,Leeds,1,1,2021-09-17 19:00:00,Raphinha,Pass
+431015,48,BlockedShot,0.894000015258789,0.42700000762939455,0.11673812568187714,Raphinha,a,8026,OpenPlay,2021,LeftFoot,16416,Newcastle United,Leeds,1,1,2021-09-17 19:00:00,Júnior Firpo,Cross
+431016,48,BlockedShot,0.870999984741211,0.545,0.1090012714266777,Daniel James,a,5595,OpenPlay,2021,RightFoot,16416,Newcastle United,Leeds,1,1,2021-09-17 19:00:00,Raphinha,Pass
+431017,48,MissedShots,0.9290000152587891,0.625,0.3179137408733368,Júnior Firpo,a,6485,OpenPlay,2021,LeftFoot,16416,Newcastle United,Leeds,1,1,2021-09-17 19:00:00,,Rebound
+431018,49,MissedShots,0.909000015258789,0.66,0.038143038749694824,Daniel James,a,5595,OpenPlay,2021,RightFoot,16416,Newcastle United,Leeds,1,1,2021-09-17 19:00:00,Stuart Dallas,Cross
+431023,59,SavedShot,0.845,0.505,0.09091848880052567,Mateusz Klich,a,4381,OpenPlay,2021,RightFoot,16416,Newcastle United,Leeds,1,1,2021-09-17 19:00:00,Júnior Firpo,Pass
+431026,71,SavedShot,0.855999984741211,0.45799999237060546,0.12600179016590118,Patrick Bamford,a,822,OpenPlay,2021,RightFoot,16416,Newcastle United,Leeds,1,1,2021-09-17 19:00:00,Rodrigo,Throughball
+431027,72,MissedShots,0.8859999847412109,0.63,0.06694568693637848,Patrick Bamford,a,822,OpenPlay,2021,RightFoot,16416,Newcastle United,Leeds,1,1,2021-09-17 19:00:00,,None
+431030,76,SavedShot,0.8280000305175781,0.45,0.07419919222593307,Rodrigo,a,2381,OpenPlay,2021,LeftFoot,16416,Newcastle United,Leeds,1,1,2021-09-17 19:00:00,Tyler Roberts,Pass
+431031,77,BlockedShot,0.7190000152587891,0.66,0.011043437756597996,Mateusz Klich,a,4381,OpenPlay,2021,RightFoot,16416,Newcastle United,Leeds,1,1,2021-09-17 19:00:00,,None
+431033,82,BlockedShot,0.7859999847412109,0.6370000076293946,0.02576519548892975,Rodrigo,a,2381,OpenPlay,2021,RightFoot,16416,Newcastle United,Leeds,1,1,2021-09-17 19:00:00,Júnior Firpo,Pass
+431035,88,SavedShot,0.759000015258789,0.3770000076293945,0.01912512630224228,Mateusz Klich,a,4381,OpenPlay,2021,LeftFoot,16416,Newcastle United,Leeds,1,1,2021-09-17 19:00:00,Tyler Roberts,Pass

@@ -1,0 +1,22 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+53598,1,MissedShots,0.855,0.5320000076293945,0.05402613803744316,Joel Campbell,h,506,OpenPlay,2015,LeftFoot,310,Arsenal,Chelsea,0,1,2016-01-24 20:00:00,Theo Walcott,Chipped
+53600,9,MissedShots,0.860999984741211,0.47299999237060547,0.10673076659440994,Mathieu Flamini,h,895,OpenPlay,2015,RightFoot,310,Arsenal,Chelsea,0,1,2016-01-24 20:00:00,Joel Campbell,Pass
+53603,15,MissedShots,0.7190000152587891,0.524000015258789,0.015906067565083504,Olivier Giroud,h,502,OpenPlay,2015,LeftFoot,310,Arsenal,Chelsea,0,1,2016-01-24 20:00:00,Theo Walcott,Pass
+53607,35,MissedShots,0.78,0.51,0.03639129176735878,Aaron Ramsey,h,504,OpenPlay,2015,LeftFoot,310,Arsenal,Chelsea,0,1,2016-01-24 20:00:00,Mesut Özil,Pass
+53610,45,MissedShots,0.915,0.5270000076293946,0.4799308478832245,Mathieu Flamini,h,895,OpenPlay,2015,RightFoot,310,Arsenal,Chelsea,0,1,2016-01-24 20:00:00,Aaron Ramsey,Throughball
+53613,62,MissedShots,0.9080000305175782,0.41900001525878905,0.1181277334690094,Aaron Ramsey,h,504,SetPiece,2015,LeftFoot,310,Arsenal,Chelsea,0,1,2016-01-24 20:00:00,Laurent Koscielny,Pass
+53614,62,BlockedShot,0.9069999694824219,0.48700000762939455,0.108197420835495,Gabriel,h,493,SetPiece,2015,RightFoot,310,Arsenal,Chelsea,0,1,2016-01-24 20:00:00,Theo Walcott,BallTouch
+53616,86,MissedShots,0.9009999847412109,0.40700000762939453,0.07827240228652954,Alex Oxlade-Chamberlain,h,966,OpenPlay,2015,RightFoot,310,Arsenal,Chelsea,0,1,2016-01-24 20:00:00,Héctor Bellerín,Cross
+53617,86,SavedShot,0.915,0.47400001525878904,0.12094985693693161,Mathieu Flamini,h,895,OpenPlay,2015,RightFoot,310,Arsenal,Chelsea,0,1,2016-01-24 20:00:00,Alex Oxlade-Chamberlain,Rebound
+53599,1,SavedShot,0.9,0.75,0.03500683605670929,Oscar,a,692,OpenPlay,2015,RightFoot,310,Arsenal,Chelsea,0,1,2016-01-24 20:00:00,,BallRecovery
+53601,14,MissedShots,0.8819999694824219,0.355,0.06112183630466461,Willian,a,700,OpenPlay,2015,RightFoot,310,Arsenal,Chelsea,0,1,2016-01-24 20:00:00,,None
+53602,14,SavedShot,0.9130000305175782,0.4370000076293945,0.3952115476131439,Willian,a,700,OpenPlay,2015,RightFoot,310,Arsenal,Chelsea,0,1,2016-01-24 20:00:00,,Rebound
+53604,22,Goal,0.9619999694824218,0.46599998474121096,0.5911078453063965,Diego Costa,a,802,OpenPlay,2015,RightFoot,310,Arsenal,Chelsea,0,1,2016-01-24 20:00:00,Branislav Ivanovic,Cross
+53605,27,MissedShots,0.9519999694824218,0.6609999847412109,0.08099286258220673,Diego Costa,a,802,OpenPlay,2015,LeftFoot,310,Arsenal,Chelsea,0,1,2016-01-24 20:00:00,,None
+53606,31,BlockedShot,0.875999984741211,0.33,0.06666421890258789,Cesc Fàbregas,a,686,OpenPlay,2015,RightFoot,310,Arsenal,Chelsea,0,1,2016-01-24 20:00:00,César Azpilicueta,Pass
+53608,41,SavedShot,0.955999984741211,0.3129999923706055,0.07393024116754532,Diego Costa,a,802,OpenPlay,2015,RightFoot,310,Arsenal,Chelsea,0,1,2016-01-24 20:00:00,Willian,Pass
+53609,42,BlockedShot,0.9130000305175782,0.435,0.020264172926545143,Branislav Ivanovic,a,682,FromCorner,2015,Head,310,Arsenal,Chelsea,0,1,2016-01-24 20:00:00,Willian,Aerial
+53611,46,BlockedShot,0.764000015258789,0.565,0.017108384519815445,Oscar,a,692,SetPiece,2015,RightFoot,310,Arsenal,Chelsea,0,1,2016-01-24 20:00:00,,None
+53612,54,BlockedShot,0.9259999847412109,0.5879999923706055,0.06660390645265579,Nemanja Matic,a,697,FromCorner,2015,Head,310,Arsenal,Chelsea,0,1,2016-01-24 20:00:00,Cesc Fàbregas,Cross
+53615,69,SavedShot,0.7909999847412109,0.700999984741211,0.023461584001779556,Cesc Fàbregas,a,686,OpenPlay,2015,RightFoot,310,Arsenal,Chelsea,0,1,2016-01-24 20:00:00,Oscar,Pass
+53618,93,MissedShots,0.8969999694824219,0.32,0.08046599477529526,Willian,a,700,OpenPlay,2015,RightFoot,310,Arsenal,Chelsea,0,1,2016-01-24 20:00:00,Eden Hazard,Pass

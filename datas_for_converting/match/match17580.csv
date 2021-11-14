@@ -1,0 +1,25 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+436994,1,BlockedShot,0.8430000305175781,0.28600000381469726,0.03048519976437092,Andi Zeqiri,h,9099,OpenPlay,2021,LeftFoot,17580,Augsburg,Arminia Bielefeld,1,1,2021-10-17 15:30:00,,None
+436995,1,MissedShots,0.8130000305175781,0.44799999237060545,0.03726188465952873,Daniel Caligiuri,h,157,FromCorner,2021,LeftFoot,17580,Augsburg,Arminia Bielefeld,1,1,2021-10-17 15:30:00,,None
+436996,7,SavedShot,0.945,0.39799999237060546,0.05487034097313881,Tobias Strobl,h,79,FromCorner,2021,Head,17580,Augsburg,Arminia Bielefeld,1,1,2021-10-17 15:30:00,Daniel Caligiuri,Cross
+436997,7,BlockedShot,0.825999984741211,0.3509999847412109,0.04268820583820343,Arne Maier,h,5298,FromCorner,2021,RightFoot,17580,Augsburg,Arminia Bielefeld,1,1,2021-10-17 15:30:00,,Rebound
+436999,16,MissedShots,0.799000015258789,0.33099998474121095,0.04511982947587967,Ruben Vargas,h,7810,OpenPlay,2021,RightFoot,17580,Augsburg,Arminia Bielefeld,1,1,2021-10-17 15:30:00,Mads Pedersen,Pass
+437000,17,SavedShot,0.86,0.28600000381469726,0.03725958243012428,Daniel Caligiuri,h,157,OpenPlay,2021,LeftFoot,17580,Augsburg,Arminia Bielefeld,1,1,2021-10-17 15:30:00,Andi Zeqiri,Pass
+437001,18,Goal,0.92,0.4640000152587891,0.3135836124420166,Reece Oxford,h,543,FromCorner,2021,Head,17580,Augsburg,Arminia Bielefeld,1,1,2021-10-17 15:30:00,Daniel Caligiuri,Cross
+437002,26,SavedShot,0.825,0.504000015258789,0.0250565093010664,André Hahn,h,412,SetPiece,2021,Head,17580,Augsburg,Arminia Bielefeld,1,1,2021-10-17 15:30:00,Mads Pedersen,Chipped
+437003,36,BlockedShot,0.825,0.28299999237060547,0.05425822362303734,Andi Zeqiri,h,9099,OpenPlay,2021,LeftFoot,17580,Augsburg,Arminia Bielefeld,1,1,2021-10-17 15:30:00,Arne Maier,Pass
+437008,54,MissedShots,0.750999984741211,0.6179999923706054,0.0252536591142416,Mads Pedersen,h,7809,OpenPlay,2021,LeftFoot,17580,Augsburg,Arminia Bielefeld,1,1,2021-10-17 15:30:00,,None
+437011,67,SavedShot,0.8980000305175782,0.649000015258789,0.0984806939959526,Arne Maier,h,5298,OpenPlay,2021,LeftFoot,17580,Augsburg,Arminia Bielefeld,1,1,2021-10-17 15:30:00,Daniel Caligiuri,Pass
+437013,80,MissedShots,0.909000015258789,0.2979999923706055,0.03747503086924553,André Hahn,h,412,FromCorner,2021,RightFoot,17580,Augsburg,Arminia Bielefeld,1,1,2021-10-17 15:30:00,,None
+437014,84,SavedShot,0.750999984741211,0.585999984741211,0.06443536281585693,Daniel Caligiuri,h,157,DirectFreekick,2021,RightFoot,17580,Augsburg,Arminia Bielefeld,1,1,2021-10-17 15:30:00,,Standard
+437015,85,MissedShots,0.9530000305175781,0.575,0.049370281398296356,Robert Gumny,h,8803,FromCorner,2021,Head,17580,Augsburg,Arminia Bielefeld,1,1,2021-10-17 15:30:00,Arne Maier,Aerial
+436998,15,MissedShots,0.6669999694824219,0.6909999847412109,0.01435992680490017,Robin Hack,a,6351,SetPiece,2021,RightFoot,17580,Augsburg,Arminia Bielefeld,1,1,2021-10-17 15:30:00,Jacob Laursen,Pass
+437004,39,MissedShots,0.755,0.495,0.02200651355087757,Manuel Prietl,a,8789,OpenPlay,2021,LeftFoot,17580,Augsburg,Arminia Bielefeld,1,1,2021-10-17 15:30:00,,None
+437005,44,BlockedShot,0.7340000152587891,0.3629999923706055,0.018156420439481735,Cédric Brunner,a,8794,OpenPlay,2021,RightFoot,17580,Augsburg,Arminia Bielefeld,1,1,2021-10-17 15:30:00,Fabian Kunze,Pass
+437006,44,MissedShots,0.725999984741211,0.6659999847412109,0.015507224015891552,Manuel Prietl,a,8789,OpenPlay,2021,LeftFoot,17580,Augsburg,Arminia Bielefeld,1,1,2021-10-17 15:30:00,Fabian Kunze,Pass
+437007,50,MissedShots,0.705,0.5829999923706055,0.04028373584151268,Robin Hack,a,6351,DirectFreekick,2021,LeftFoot,17580,Augsburg,Arminia Bielefeld,1,1,2021-10-17 15:30:00,,Standard
+437009,58,BlockedShot,0.850999984741211,0.3039999961853027,0.0396728552877903,Robin Hack,a,6351,OpenPlay,2021,RightFoot,17580,Augsburg,Arminia Bielefeld,1,1,2021-10-17 15:30:00,Alessandro Schöpf,Pass
+437010,58,MissedShots,0.9540000152587891,0.38,0.015780210494995117,Janni Serra,a,9729,FromCorner,2021,Head,17580,Augsburg,Arminia Bielefeld,1,1,2021-10-17 15:30:00,,Aerial
+437012,76,Goal,0.7969999694824219,0.5609999847412109,0.03780009225010872,Jacob Laursen,a,8795,OpenPlay,2021,LeftFoot,17580,Augsburg,Arminia Bielefeld,1,1,2021-10-17 15:30:00,,None
+437016,86,MissedShots,0.8030000305175782,0.41200000762939454,0.040665410459041595,Fabian Kunze,a,8793,OpenPlay,2021,RightFoot,17580,Augsburg,Arminia Bielefeld,1,1,2021-10-17 15:30:00,,None
+437017,91,SavedShot,0.9109999847412109,0.5640000152587891,0.041632335633039474,Fabian Klos,a,8792,OpenPlay,2021,Head,17580,Augsburg,Arminia Bielefeld,1,1,2021-10-17 15:30:00,Alessandro Schöpf,Aerial

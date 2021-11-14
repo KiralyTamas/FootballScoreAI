@@ -1,0 +1,23 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+391124,16,Goal,0.97,0.425,0.35884639620780945,Florian Grillitsch,h,116,OpenPlay,2020,Head,15222,Hoffenheim,Augsburg,3,1,2020-12-07 19:30:00,Christoph Baumgartner,Chipped
+391125,19,MissedShots,0.8530000305175781,0.3579999923706055,0.07117655873298645,Florian Grillitsch,h,116,OpenPlay,2020,RightFoot,15222,Hoffenheim,Augsburg,3,1,2020-12-07 19:30:00,Ihlas Bebou,Pass
+391126,22,SavedShot,0.89,0.3139999961853027,0.03202585130929947,Sebastian Rudy,h,90,OpenPlay,2020,RightFoot,15222,Hoffenheim,Augsburg,3,1,2020-12-07 19:30:00,Ryan Sessegnon,Cross
+391127,22,MissedShots,0.7480000305175781,0.425,0.022610589861869812,Diadie Samassékou,h,7868,OpenPlay,2020,RightFoot,15222,Hoffenheim,Augsburg,3,1,2020-12-07 19:30:00,,Rebound
+391128,24,SavedShot,0.9,0.47,0.13956721127033234,Christoph Baumgartner,h,7422,OpenPlay,2020,RightFoot,15222,Hoffenheim,Augsburg,3,1,2020-12-07 19:30:00,Sebastian Rudy,Pass
+391129,25,MissedShots,0.825999984741211,0.33799999237060546,0.048972237855196,Andrej Kramaric,h,956,OpenPlay,2020,LeftFoot,15222,Hoffenheim,Augsburg,3,1,2020-12-07 19:30:00,Christoph Baumgartner,Pass
+391132,37,SavedShot,0.935,0.53,0.1128835678100586,Andrej Kramaric,h,956,FromCorner,2020,Head,15222,Hoffenheim,Augsburg,3,1,2020-12-07 19:30:00,Sebastian Rudy,Cross
+391135,45,Goal,0.8440000152587891,0.34400001525878904,0.2424159198999405,Florian Grillitsch,h,116,OpenPlay,2020,LeftFoot,15222,Hoffenheim,Augsburg,3,1,2020-12-07 19:30:00,Ihlas Bebou,TakeOn
+391136,49,Goal,0.8590000152587891,0.43599998474121093,0.3630068898200989,Ihlas Bebou,h,6271,OpenPlay,2020,LeftFoot,15222,Hoffenheim,Augsburg,3,1,2020-12-07 19:30:00,Andrej Kramaric,Pass
+391139,63,SavedShot,0.8680000305175781,0.32,0.06876172125339508,Sebastian Rudy,h,90,OpenPlay,2020,RightFoot,15222,Hoffenheim,Augsburg,3,1,2020-12-07 19:30:00,Ihlas Bebou,Pass
+391123,11,MissedShots,0.765,0.6659999847412109,0.05974733829498291,Daniel Caligiuri,a,157,DirectFreekick,2020,RightFoot,15222,Hoffenheim,Augsburg,3,1,2020-12-07 19:30:00,,Standard
+391130,30,Goal,0.95,0.42900001525878906,0.057021722197532654,Daniel Caligiuri,a,157,OpenPlay,2020,Head,15222,Hoffenheim,Augsburg,3,1,2020-12-07 19:30:00,Michael Gregoritsch,Aerial
+391131,36,MissedShots,0.91,0.590999984741211,0.05361449345946312,Florian Niederlechner,a,306,FromCorner,2020,RightFoot,15222,Hoffenheim,Augsburg,3,1,2020-12-07 19:30:00,Daniel Caligiuri,Cross
+391133,41,BlockedShot,0.8090000152587891,0.75,0.022102786228060722,Tobias Strobl,a,79,OpenPlay,2020,RightFoot,15222,Hoffenheim,Augsburg,3,1,2020-12-07 19:30:00,Felix Uduokhai,Pass
+391134,43,SavedShot,0.93,0.6840000152587891,0.05582257732748985,Florian Niederlechner,a,306,OpenPlay,2020,LeftFoot,15222,Hoffenheim,Augsburg,3,1,2020-12-07 19:30:00,Michael Gregoritsch,Pass
+391137,60,MissedShots,0.69,0.529000015258789,0.012442396022379398,Carlos Gruezo,a,69,FromCorner,2020,LeftFoot,15222,Hoffenheim,Augsburg,3,1,2020-12-07 19:30:00,,None
+391138,62,MissedShots,0.8,0.575,0.03142435848712921,Ruben Vargas,a,7810,OpenPlay,2020,RightFoot,15222,Hoffenheim,Augsburg,3,1,2020-12-07 19:30:00,,None
+391140,65,MissedShots,0.89,0.61,0.10290364176034927,Daniel Caligiuri,a,157,OpenPlay,2020,RightFoot,15222,Hoffenheim,Augsburg,3,1,2020-12-07 19:30:00,Ruben Vargas,TakeOn
+391141,78,BlockedShot,0.899000015258789,0.7,0.029444744810461998,Florian Niederlechner,a,306,SetPiece,2020,LeftFoot,15222,Hoffenheim,Augsburg,3,1,2020-12-07 19:30:00,Daniel Caligiuri,Pass
+391142,81,MissedShots,0.9469999694824218,0.61,0.24979904294013977,Marco Richter,a,6357,OpenPlay,2020,LeftFoot,15222,Hoffenheim,Augsburg,3,1,2020-12-07 19:30:00,Tobias Strobl,Cross
+391143,87,BlockedShot,0.9119999694824219,0.4329999923706055,0.07542366534471512,Florian Niederlechner,a,306,OpenPlay,2020,LeftFoot,15222,Hoffenheim,Augsburg,3,1,2020-12-07 19:30:00,Marco Richter,Cross
+391144,88,BlockedShot,0.779000015258789,0.48,0.0433175303041935,Carlos Gruezo,a,69,OpenPlay,2020,LeftFoot,15222,Hoffenheim,Augsburg,3,1,2020-12-07 19:30:00,,TakeOn

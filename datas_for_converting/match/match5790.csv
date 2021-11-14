@@ -1,0 +1,34 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+32881,17,MissedShots,0.7669999694824219,0.40400001525878904,0.07969953119754791,Nolito,h,1732,DirectFreekick,2014,RightFoot,5790,Celta Vigo,Real Sociedad,2,2,2014-09-13 21:00:00,,Standard
+32883,22,MissedShots,0.8690000152587891,0.5070000076293946,0.38457655906677246,Álex López,h,4039,OpenPlay,2014,RightFoot,5790,Celta Vigo,Real Sociedad,2,2,2014-09-13 21:00:00,,None
+32886,27,Goal,0.9569999694824218,0.47200000762939454,0.59697425365448,Fabián Orellana,h,2285,OpenPlay,2014,Head,5790,Celta Vigo,Real Sociedad,2,2,2014-09-13 21:00:00,Michael Krohn-Dehli,Cross
+32887,37,BlockedShot,0.865,0.6680000305175782,0.06890303641557693,Nolito,h,1732,OpenPlay,2014,LeftFoot,5790,Celta Vigo,Real Sociedad,2,2,2014-09-13 21:00:00,,None
+32888,38,MissedShots,0.745999984741211,0.6480000305175782,0.024574412032961845,Michael Krohn-Dehli,h,2443,OpenPlay,2014,LeftFoot,5790,Celta Vigo,Real Sociedad,2,2,2014-09-13 21:00:00,Joaquín Larrivey,LayOff
+32889,40,BlockedShot,0.8640000152587891,0.3129999923706055,0.09696641564369202,Michael Krohn-Dehli,h,2443,OpenPlay,2014,RightFoot,5790,Celta Vigo,Real Sociedad,2,2,2014-09-13 21:00:00,Joaquín Larrivey,LayOff
+32890,41,MissedShots,0.9059999847412109,0.4909999847412109,0.032784998416900635,Joaquín Larrivey,h,4038,FromCorner,2014,Head,5790,Celta Vigo,Real Sociedad,2,2,2014-09-13 21:00:00,Fabián Orellana,Aerial
+32891,45,SavedShot,0.8690000152587891,0.71,0.04810502752661705,Nolito,h,1732,OpenPlay,2014,RightFoot,5790,Celta Vigo,Real Sociedad,2,2,2014-09-13 21:00:00,Fabián Orellana,Pass
+32892,47,ShotOnPost,0.9269999694824219,0.4929999923706055,0.4669947922229767,Joaquín Larrivey,h,4038,OpenPlay,2014,RightFoot,5790,Celta Vigo,Real Sociedad,2,2,2014-09-13 21:00:00,Jonny,Cross
+32893,47,Goal,0.9969999694824219,0.5020000076293946,0.9762798547744751,Joaquín Larrivey,h,4038,OpenPlay,2014,LeftFoot,5790,Celta Vigo,Real Sociedad,2,2,2014-09-13 21:00:00,,Rebound
+32894,52,SavedShot,0.765,0.42900001525878906,0.044858988374471664,Michael Krohn-Dehli,h,2443,OpenPlay,2014,LeftFoot,5790,Celta Vigo,Real Sociedad,2,2,2014-09-13 21:00:00,Nemanja Radoja,Pass
+32895,55,SavedShot,0.8969999694824219,0.500999984741211,0.09628328680992126,Joaquín Larrivey,h,4038,SetPiece,2014,Head,5790,Celta Vigo,Real Sociedad,2,2,2014-09-13 21:00:00,Fabián Orellana,Cross
+32905,87,SavedShot,0.8780000305175781,0.49599998474121093,0.39286381006240845,Fabián Orellana,h,2285,OpenPlay,2014,Head,5790,Celta Vigo,Real Sociedad,2,2,2014-09-13 21:00:00,,None
+32909,91,OwnGoal,0.04699999809265137,0.48700000762939455,0,Jonny,h,2280,OpenPlay,2014,OtherBodyPart,5790,Celta Vigo,Real Sociedad,2,2,2014-09-13 21:00:00,,Challenge
+32878,10,BlockedShot,0.835999984741211,0.715,0.031125923618674278,Sergio Canales,a,2571,OpenPlay,2014,LeftFoot,5790,Celta Vigo,Real Sociedad,2,2,2014-09-13 21:00:00,Esteban Granero,Pass
+32879,10,SavedShot,0.895,0.539000015258789,0.3120265305042267,Xabi Prieto,a,2233,OpenPlay,2014,RightFoot,5790,Celta Vigo,Real Sociedad,2,2,2014-09-13 21:00:00,Esteban Granero,Chipped
+32880,15,MissedShots,0.76,0.3659999847412109,0.023213019594550133,Carlos Vela,a,2416,OpenPlay,2014,LeftFoot,5790,Celta Vigo,Real Sociedad,2,2,2014-09-13 21:00:00,Markel Bergara,Pass
+32882,19,MissedShots,0.9209999847412109,0.43099998474121093,0.028178079053759575,Elustondo,a,2404,FromCorner,2014,Head,5790,Celta Vigo,Real Sociedad,2,2,2014-09-13 21:00:00,Rubén Pardo,Aerial
+32884,26,BlockedShot,0.8140000152587891,0.3089999961853027,0.04394202306866646,Carlos Vela,a,2416,OpenPlay,2014,LeftFoot,5790,Celta Vigo,Real Sociedad,2,2,2014-09-13 21:00:00,Rubén Pardo,Pass
+32885,27,BlockedShot,0.7119999694824218,0.5279999923706055,0.01913941651582718,Rubén Pardo,a,2242,FromCorner,2014,RightFoot,5790,Celta Vigo,Real Sociedad,2,2,2014-09-13 21:00:00,Xabi Prieto,Pass
+32896,68,SavedShot,0.815,0.2989999961853027,0.020589467138051987,Gonzalo Castro,a,2342,OpenPlay,2014,LeftFoot,5790,Celta Vigo,Real Sociedad,2,2,2014-09-13 21:00:00,,None
+32897,68,Goal,0.9459999847412109,0.4540000152587891,0.5255604982376099,Imanol Agirretxe,a,2535,OpenPlay,2014,RightFoot,5790,Celta Vigo,Real Sociedad,2,2,2014-09-13 21:00:00,,Rebound
+32898,77,BlockedShot,0.7390000152587891,0.59,0.014984820038080215,Alberto De la Bella,a,2239,OpenPlay,2014,RightFoot,5790,Celta Vigo,Real Sociedad,2,2,2014-09-13 21:00:00,,None
+32899,78,SavedShot,0.9109999847412109,0.7519999694824219,0.03649390861392021,Gonzalo Castro,a,2342,OpenPlay,2014,LeftFoot,5790,Celta Vigo,Real Sociedad,2,2,2014-09-13 21:00:00,Imanol Agirretxe,Pass
+32900,80,MissedShots,0.48700000762939455,0.6709999847412109,0.007515608333051205,Iñigo Martínez,a,2484,OpenPlay,2014,LeftFoot,5790,Celta Vigo,Real Sociedad,2,2,2014-09-13 21:00:00,Esteban Granero,Pass
+32901,81,MissedShots,0.8819999694824219,0.504000015258789,0.06486312299966812,Gonzalo Castro,a,2342,OpenPlay,2014,Head,5790,Celta Vigo,Real Sociedad,2,2,2014-09-13 21:00:00,Iñigo Martínez,Cross
+32902,82,ShotOnPost,0.7630000305175781,0.5309999847412109,0.02483571320772171,Esteban Granero,a,2240,OpenPlay,2014,RightFoot,5790,Celta Vigo,Real Sociedad,2,2,2014-09-13 21:00:00,Sergio Canales,Pass
+32903,86,BlockedShot,0.755,0.5770000076293945,0.01832253485918045,Gonzalo Castro,a,2342,FromCorner,2014,LeftFoot,5790,Celta Vigo,Real Sociedad,2,2,2014-09-13 21:00:00,,None
+32904,86,BlockedShot,0.755,0.5770000076293945,0.02664959244430065,Gonzalo Castro,a,2342,FromCorner,2014,LeftFoot,5790,Celta Vigo,Real Sociedad,2,2,2014-09-13 21:00:00,,Rebound
+32906,88,MissedShots,0.8690000152587891,0.47400001525878904,0.04584869369864464,Esteban Granero,a,2240,OpenPlay,2014,Head,5790,Celta Vigo,Real Sociedad,2,2,2014-09-13 21:00:00,Zaldúa,Cross
+32907,88,MissedShots,0.884000015258789,0.7180000305175781,0.03898385539650917,Gonzalo Castro,a,2342,OpenPlay,2014,LeftFoot,5790,Celta Vigo,Real Sociedad,2,2,2014-09-13 21:00:00,Imanol Agirretxe,BallTouch
+32908,90,MissedShots,0.725,0.47900001525878905,0.018245210871100426,Gaztañaga,a,4182,SetPiece,2014,RightFoot,5790,Celta Vigo,Real Sociedad,2,2,2014-09-13 21:00:00,Imanol Agirretxe,LayOff
+32910,92,SavedShot,0.874000015258789,0.37900001525878907,0.01091314759105444,Gonzalo Castro,a,2342,OpenPlay,2014,Head,5790,Celta Vigo,Real Sociedad,2,2,2014-09-13 21:00:00,Alberto De la Bella,Aerial

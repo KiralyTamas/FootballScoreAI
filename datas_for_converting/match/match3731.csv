@@ -1,0 +1,21 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+131124,22,SavedShot,0.8959999847412109,0.5129999923706055,0.05055619403719902,Guido Burgstaller,h,5302,OpenPlay,2016,Head,3731,Schalke 04,Eintracht Frankfurt,0,1,2017-01-27 22:30:00,,None
+131125,23,SavedShot,0.8530000305175781,0.425,0.03079330362379551,Eric Maxim Choupo-Moting,h,339,SetPiece,2016,Head,3731,Schalke 04,Eintracht Frankfurt,0,1,2017-01-27 22:30:00,Johannes Geis,Chipped
+131127,38,BlockedShot,0.8530000305175781,0.7240000152587891,0.02935381792485714,Sead Kolasinac,h,342,FromCorner,2016,RightFoot,3731,Schalke 04,Eintracht Frankfurt,0,1,2017-01-27 22:30:00,Johannes Geis,Cross
+131128,38,MissedShots,0.8690000152587891,0.655,0.05540313199162483,Sead Kolasinac,h,342,FromCorner,2016,LeftFoot,3731,Schalke 04,Eintracht Frankfurt,0,1,2017-01-27 22:30:00,,Rebound
+131129,40,MissedShots,0.895,0.28200000762939453,0.05097930505871773,Eric Maxim Choupo-Moting,h,339,OpenPlay,2016,LeftFoot,3731,Schalke 04,Eintracht Frankfurt,0,1,2017-01-27 22:30:00,Leon Goretzka,LayOff
+131130,41,BlockedShot,0.9069999694824219,0.6179999923706054,0.07255525141954422,Sead Kolasinac,h,342,OpenPlay,2016,LeftFoot,3731,Schalke 04,Eintracht Frankfurt,0,1,2017-01-27 22:30:00,Eric Maxim Choupo-Moting,Rebound
+131133,48,MissedShots,0.8919999694824219,0.5259999847412109,0.08100845664739609,Benedikt Höwedes,h,333,SetPiece,2016,Head,3731,Schalke 04,Eintracht Frankfurt,0,1,2017-01-27 22:30:00,Johannes Geis,Cross
+131134,53,MissedShots,0.8530000305175781,0.45599998474121095,0.020158736035227776,Guido Burgstaller,h,5302,OpenPlay,2016,LeftFoot,3731,Schalke 04,Eintracht Frankfurt,0,1,2017-01-27 22:30:00,Sead Kolasinac,Aerial
+131135,54,MissedShots,0.9219999694824219,0.545,0.09607090801000595,Guido Burgstaller,h,5302,OpenPlay,2016,RightFoot,3731,Schalke 04,Eintracht Frankfurt,0,1,2017-01-27 22:30:00,Nabil Bentaleb,Chipped
+131136,56,MissedShots,0.8830000305175781,0.48200000762939454,0.05216348171234131,Naldo,h,147,SetPiece,2016,Head,3731,Schalke 04,Eintracht Frankfurt,0,1,2017-01-27 22:30:00,Donis Avdijaj,Chipped
+131138,70,MissedShots,0.8690000152587891,0.6,0.06082247570157051,Guido Burgstaller,h,5302,OpenPlay,2016,LeftFoot,3731,Schalke 04,Eintracht Frankfurt,0,1,2017-01-27 22:30:00,,None
+131140,85,BlockedShot,0.8230000305175781,0.29700000762939455,0.026597511023283005,Eric Maxim Choupo-Moting,h,339,OpenPlay,2016,RightFoot,3731,Schalke 04,Eintracht Frankfurt,0,1,2017-01-27 22:30:00,,None
+131121,14,BlockedShot,0.895,0.2929999923706055,0.0393722802400589,Branimir Hrgota,a,216,OpenPlay,2016,LeftFoot,3731,Schalke 04,Eintracht Frankfurt,0,1,2017-01-27 22:30:00,Aymen Barkok,Pass
+131122,20,MissedShots,0.889000015258789,0.6959999847412109,0.04646904394030571,Branimir Hrgota,a,216,SetPiece,2016,LeftFoot,3731,Schalke 04,Eintracht Frankfurt,0,1,2017-01-27 22:30:00,Makoto Hasebe,Chipped
+131123,21,MissedShots,0.7440000152587891,0.425,0.020842699334025383,Mijat Gacinovic,a,290,OpenPlay,2016,RightFoot,3731,Schalke 04,Eintracht Frankfurt,0,1,2017-01-27 22:30:00,Aymen Barkok,Pass
+131126,32,Goal,0.875999984741211,0.48700000762939455,0.10280006378889084,Alexander Meier,a,356,SetPiece,2016,RightFoot,3731,Schalke 04,Eintracht Frankfurt,0,1,2017-01-27 22:30:00,Makoto Hasebe,Pass
+131131,42,BlockedShot,0.835,0.375,0.08533842861652374,Branimir Hrgota,a,216,OpenPlay,2016,LeftFoot,3731,Schalke 04,Eintracht Frankfurt,0,1,2017-01-27 22:30:00,Omar Mascarell,TakeOn
+131132,45,MissedShots,0.8769999694824219,0.42200000762939455,0.04617123305797577,Alexander Meier,a,356,OpenPlay,2016,Head,3731,Schalke 04,Eintracht Frankfurt,0,1,2017-01-27 22:30:00,Timothy Chandler,Cross
+131137,66,MissedShots,0.875999984741211,0.46900001525878904,0.057363007217645645,Alexander Meier,a,356,SetPiece,2016,RightFoot,3731,Schalke 04,Eintracht Frankfurt,0,1,2017-01-27 22:30:00,Mijat Gacinovic,Cross
+131139,73,MissedShots,0.6919999694824219,0.5829999923706055,0.0177095215767622,Mijat Gacinovic,a,290,OpenPlay,2016,RightFoot,3731,Schalke 04,Eintracht Frankfurt,0,1,2017-01-27 22:30:00,,TakeOn

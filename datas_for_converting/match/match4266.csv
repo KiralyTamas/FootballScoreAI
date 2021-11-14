@@ -1,0 +1,27 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+111227,17,MissedShots,0.8530000305175781,0.5879999923706055,0.06110229343175888,Romain Hamouma,h,3561,OpenPlay,2016,LeftFoot,4266,Saint-Etienne,Bordeaux,2,2,2017-05-05 19:45:00,Vincent Pajot,HeadPass
+111228,17,BlockedShot,0.855999984741211,0.525,0.1825597733259201,Romain Hamouma,h,3561,OpenPlay,2016,RightFoot,4266,Saint-Etienne,Bordeaux,2,2,2017-05-05 19:45:00,Ole Selnaes,TakeOn
+111229,18,MissedShots,0.9059999847412109,0.40299999237060546,0.03190034255385399,Kévin Monnet-Paquet,h,3513,FromCorner,2016,Head,4266,Saint-Etienne,Bordeaux,2,2,2017-05-05 19:45:00,Jordan Veretout,Cross
+111231,35,MissedShots,0.9130000305175782,0.48700000762939455,0.10520822554826736,Robert Beric,h,3691,OpenPlay,2016,RightFoot,4266,Saint-Etienne,Bordeaux,2,2,2017-05-05 19:45:00,Kévin Monnet-Paquet,HeadPass
+111232,36,MissedShots,0.935,0.6,0.09266157448291779,Romain Hamouma,h,3561,OpenPlay,2016,RightFoot,4266,Saint-Etienne,Bordeaux,2,2,2017-05-05 19:45:00,Digbo Maiga,Cross
+111236,44,Goal,0.8959999847412109,0.509000015258789,0.43543577194213867,Robert Beric,h,3691,OpenPlay,2016,RightFoot,4266,Saint-Etienne,Bordeaux,2,2,2017-05-05 19:45:00,Romain Hamouma,Pass
+111237,45,SavedShot,0.915,0.28899999618530275,0.04991501569747925,Jordan Veretout,h,677,OpenPlay,2016,RightFoot,4266,Saint-Etienne,Bordeaux,2,2,2017-05-05 19:45:00,Robert Beric,Pass
+111239,50,SavedShot,0.8109999847412109,0.515,0.04645940288901329,Kévin Monnet-Paquet,h,3513,OpenPlay,2016,RightFoot,4266,Saint-Etienne,Bordeaux,2,2,2017-05-05 19:45:00,Kevin Malcuit,Pass
+111240,50,MissedShots,0.91,0.5259999847412109,0.08118985593318939,Loic Perrin,h,3689,FromCorner,2016,Head,4266,Saint-Etienne,Bordeaux,2,2,2017-05-05 19:45:00,Jordan Veretout,Cross
+111241,53,SavedShot,0.9669999694824218,0.34799999237060547,0.06320889294147491,Robert Beric,h,3691,OpenPlay,2016,RightFoot,4266,Saint-Etienne,Bordeaux,2,2,2017-05-05 19:45:00,Romain Hamouma,Pass
+111242,63,Goal,0.9830000305175781,0.49900001525878906,0.9107614159584045,Vincent Pajot,h,3507,FromCorner,2016,RightFoot,4266,Saint-Etienne,Bordeaux,2,2,2017-05-05 19:45:00,,None
+111244,73,MissedShots,0.8930000305175781,0.4279999923706055,0.015266862697899342,Kévin Monnet-Paquet,h,3513,SetPiece,2016,Head,4266,Saint-Etienne,Bordeaux,2,2,2017-05-05 19:45:00,Jordan Veretout,Aerial
+111245,75,BlockedShot,0.805,0.6140000152587891,0.0367245152592659,Romain Hamouma,h,3561,OpenPlay,2016,RightFoot,4266,Saint-Etienne,Bordeaux,2,2,2017-05-05 19:45:00,Jordan Veretout,Pass
+111248,86,MissedShots,0.769000015258789,0.31,0.02026352286338806,Jordan Veretout,h,677,OpenPlay,2016,RightFoot,4266,Saint-Etienne,Bordeaux,2,2,2017-05-05 19:45:00,Kevin Malcuit,Pass
+111249,93,BlockedShot,0.94,0.5709999847412109,0.1074485331773758,Robert Beric,h,3691,OpenPlay,2016,RightFoot,4266,Saint-Etienne,Bordeaux,2,2,2017-05-05 19:45:00,Romain Hamouma,Cross
+111224,10,MissedShots,0.8690000152587891,0.43900001525878907,0.06326329708099365,Adam Ounas,a,3259,OpenPlay,2016,LeftFoot,4266,Saint-Etienne,Bordeaux,2,2,2017-05-05 19:45:00,Jérémy Toulalan,Cross
+111225,15,BlockedShot,0.915,0.5370000076293945,0.03451277315616608,Igor Lewczuk,a,5667,FromCorner,2016,Head,4266,Saint-Etienne,Bordeaux,2,2,2017-05-05 19:45:00,Malcom,Aerial
+111226,15,BlockedShot,0.914000015258789,0.4209999847412109,0.018308697268366814,Younousse Sankhare,a,3474,FromCorner,2016,Head,4266,Saint-Etienne,Bordeaux,2,2,2017-05-05 19:45:00,Malcom,Aerial
+111230,34,SavedShot,0.8130000305175781,0.6990000152587891,0.028422879055142403,Adam Ounas,a,3259,OpenPlay,2016,RightFoot,4266,Saint-Etienne,Bordeaux,2,2,2017-05-05 19:45:00,Younousse Sankhare,Pass
+111233,37,SavedShot,0.9690000152587891,0.35700000762939454,0.10821843147277832,Adam Ounas,a,3259,OpenPlay,2016,LeftFoot,4266,Saint-Etienne,Bordeaux,2,2,2017-05-05 19:45:00,Youssouf Sabaly,TakeOn
+111234,39,BlockedShot,0.884000015258789,0.6780000305175782,0.06459242105484009,Malcom,a,3262,OpenPlay,2016,LeftFoot,4266,Saint-Etienne,Bordeaux,2,2,2017-05-05 19:45:00,Younousse Sankhare,Pass
+111235,41,Goal,0.885,0.5,0.7600951194763184,Adam Ounas,a,3259,Penalty,2016,LeftFoot,4266,Saint-Etienne,Bordeaux,2,2,2017-05-05 19:45:00,,Standard
+111238,49,Goal,0.97,0.534000015258789,0.8443939089775085,Gaetan Laborde,a,3746,SetPiece,2016,LeftFoot,4266,Saint-Etienne,Bordeaux,2,2,2017-05-05 19:45:00,Jaroslav Plasil,Pass
+111243,69,MissedShots,0.86,0.49900001525878906,0.009674043394625187,Igor Lewczuk,a,5667,SetPiece,2016,Head,4266,Saint-Etienne,Bordeaux,2,2,2017-05-05 19:45:00,Malcom,Aerial
+111246,81,SavedShot,0.9169999694824219,0.75,0.033495742827653885,Younousse Sankhare,a,3474,OpenPlay,2016,LeftFoot,4266,Saint-Etienne,Bordeaux,2,2,2017-05-05 19:45:00,Francois Kamano,Pass
+111247,83,MissedShots,0.894000015258789,0.509000015258789,0.09149397909641266,Francois Kamano,a,3333,FromCorner,2016,LeftFoot,4266,Saint-Etienne,Bordeaux,2,2,2017-05-05 19:45:00,Diego Rolan,Chipped

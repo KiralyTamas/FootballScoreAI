@@ -1,0 +1,15 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+64599,0,MissedShots,0.7680000305175781,0.705,0.016484498977661133,Yannis Salibur,h,3473,OpenPlay,2015,LeftFoot,2026,Guingamp,Reims,1,2,2015-12-02 22:00:00,Younousse Sankhare,BallRecovery
+64600,4,BlockedShot,0.8130000305175781,0.715,0.020957492291927338,Yannis Salibur,h,3473,OpenPlay,2015,LeftFoot,2026,Guingamp,Reims,1,2,2015-12-02 22:00:00,,None
+64602,5,BlockedShot,0.8580000305175781,0.45799999237060546,0.04333418980240822,Christophe Kerbrat,h,3470,FromCorner,2015,LeftFoot,2026,Guingamp,Reims,1,2,2015-12-02 22:00:00,Yannis Salibur,Cross
+64603,6,BlockedShot,0.9330000305175781,0.565,0.1067725270986557,Moustapha Diallo,h,3575,FromCorner,2015,RightFoot,2026,Guingamp,Reims,1,2,2015-12-02 22:00:00,,None
+64609,47,Goal,0.62,0.6140000152587891,0.022870484739542007,Yannis Salibur,h,3473,DirectFreekick,2015,LeftFoot,2026,Guingamp,Reims,1,2,2015-12-02 22:00:00,,Standard
+64611,48,SavedShot,0.8019999694824219,0.28899999618530275,0.022705258801579475,Younousse Sankhare,h,3474,OpenPlay,2015,LeftFoot,2026,Guingamp,Reims,1,2,2015-12-02 22:00:00,Moustapha Diallo,Pass
+64622,90,BlockedShot,0.7859999847412109,0.5479999923706055,0.1039176732301712,Mana Dembele,h,3704,DirectFreekick,2015,RightFoot,2026,Guingamp,Reims,1,2,2015-12-02 22:00:00,,Standard
+64623,91,MissedShots,0.9330000305175781,0.5179999923706055,0.39986246824264526,Jérémy Sorbon,h,3618,SetPiece,2015,Head,2026,Guingamp,Reims,1,2,2015-12-02 22:00:00,Nicolas Benezet,Aerial
+64604,13,SavedShot,0.865,0.47400001525878904,0.3227698802947998,Antoine Devaux,a,3240,OpenPlay,2015,RightFoot,2026,Guingamp,Reims,1,2,2015-12-02 22:00:00,Odaïr Fortes,Pass
+64606,13,Goal,0.905,0.39,0.3264833390712738,David Ngog,a,3245,OpenPlay,2015,RightFoot,2026,Guingamp,Reims,1,2,2015-12-02 22:00:00,,Rebound
+64610,46,MissedShots,0.8569999694824219,0.4420000076293945,0.04077904671430588,Nicolas de Preville,a,3244,SetPiece,2015,RightFoot,2026,Guingamp,Reims,1,2,2015-12-02 22:00:00,Alexis Peuget,Cross
+64616,53,Goal,0.8919999694824219,0.43900001525878907,0.1194455698132515,David Ngog,a,3245,OpenPlay,2015,LeftFoot,2026,Guingamp,Reims,1,2,2015-12-02 22:00:00,Nicolas de Preville,Pass
+64618,64,MissedShots,0.945,0.3890000152587891,0.14844216406345367,Antoine Devaux,a,3240,OpenPlay,2015,RightFoot,2026,Guingamp,Reims,1,2,2015-12-02 22:00:00,David Ngog,Pass
+64619,75,SavedShot,0.7319999694824219,0.4909999847412109,0.020307203754782677,Prince Oniangué,a,3556,OpenPlay,2015,RightFoot,2026,Guingamp,Reims,1,2,2015-12-02 22:00:00,Alexis Peuget,Pass

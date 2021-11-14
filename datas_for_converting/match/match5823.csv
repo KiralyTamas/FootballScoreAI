@@ -1,0 +1,24 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+33208,9,MissedShots,0.87,0.7319999694824219,0.03214992955327034,Isaac Cuenca,h,2081,OpenPlay,2014,RightFoot,5823,Deportivo La Coruna,Almeria,0,1,2014-09-28 16:00:00,Hélder Postiga,Pass
+33211,24,MissedShots,0.91,0.31,0.06374911963939667,Isaac Cuenca,h,2081,OpenPlay,2014,RightFoot,5823,Deportivo La Coruna,Almeria,0,1,2014-09-28 16:00:00,Juanfran,Pass
+33212,27,BlockedShot,0.8859999847412109,0.16399999618530273,0.05928512290120125,Haris Medunjanin,h,2590,DirectFreekick,2014,LeftFoot,5823,Deportivo La Coruna,Almeria,0,1,2014-09-28 16:00:00,,Standard
+33213,27,ShotOnPost,0.915,0.5979999923706054,0.401673823595047,Sidnei,h,2314,SetPiece,2014,RightFoot,5823,Deportivo La Coruna,Almeria,0,1,2014-09-28 16:00:00,Luis Fariña,Rebound
+33215,41,MissedShots,0.9569999694824218,0.534000015258789,0.13483411073684692,Hélder Postiga,h,4184,FromCorner,2014,Head,5823,Deportivo La Coruna,Almeria,0,1,2014-09-28 16:00:00,Haris Medunjanin,Cross
+33218,44,BlockedShot,0.925,0.45,0.1348475068807602,Luis Fariña,h,2602,OpenPlay,2014,RightFoot,5823,Deportivo La Coruna,Almeria,0,1,2014-09-28 16:00:00,Juanfran,Pass
+33219,46,BlockedShot,0.7169999694824218,0.7069999694824218,0.014055658131837845,Luisinho,h,2500,OpenPlay,2014,LeftFoot,5823,Deportivo La Coruna,Almeria,0,1,2014-09-28 16:00:00,Haris Medunjanin,Pass
+33223,62,SavedShot,0.970999984741211,0.5479999923706055,0.14048589766025543,Hélder Postiga,h,4184,SetPiece,2014,Head,5823,Deportivo La Coruna,Almeria,0,1,2014-09-28 16:00:00,Haris Medunjanin,Cross
+33206,3,MissedShots,0.8109999847412109,0.44799999237060545,0.040494341403245926,Edgar Méndez,a,2088,SetPiece,2014,RightFoot,5823,Deportivo La Coruna,Almeria,0,1,2014-09-28 16:00:00,,None
+33207,9,MissedShots,0.6630000305175782,0.6559999847412109,0.009770883247256279,Thomas Partey,a,2328,OpenPlay,2014,RightFoot,5823,Deportivo La Coruna,Almeria,0,1,2014-09-28 16:00:00,,BallRecovery
+33209,15,SavedShot,0.845,0.7330000305175781,0.014174836687743664,Edgar Méndez,a,2088,OpenPlay,2014,RightFoot,5823,Deportivo La Coruna,Almeria,0,1,2014-09-28 16:00:00,Ximo Navarro,Cross
+33210,20,MissedShots,0.6919999694824219,0.26899999618530274,0.014427951537072659,Jonathan,a,4050,OpenPlay,2014,RightFoot,5823,Deportivo La Coruna,Almeria,0,1,2014-09-28 16:00:00,Ramón Azeez,Pass
+33214,38,SavedShot,0.794000015258789,0.4209999847412109,0.03574705868959427,Tomer Hemed,a,4046,OpenPlay,2014,RightFoot,5823,Deportivo La Coruna,Almeria,0,1,2014-09-28 16:00:00,Ramón Azeez,Pass
+33216,43,SavedShot,0.7559999847412109,0.7469999694824219,0.014500506222248077,Thomas Partey,a,2328,OpenPlay,2014,RightFoot,5823,Deportivo La Coruna,Almeria,0,1,2014-09-28 16:00:00,Sebastián Dubarbier,Pass
+33217,43,MissedShots,0.895,0.44,0.21327213943004608,Ramón Azeez,a,4051,OpenPlay,2014,Head,5823,Deportivo La Coruna,Almeria,0,1,2014-09-28 16:00:00,,Rebound
+33220,48,MissedShots,0.8130000305175781,0.39099998474121095,0.04552145302295685,Thomas Partey,a,2328,OpenPlay,2014,RightFoot,5823,Deportivo La Coruna,Almeria,0,1,2014-09-28 16:00:00,Jonathan,Pass
+33221,52,MissedShots,0.8630000305175781,0.275,0.03425035625696182,Jonathan,a,4050,OpenPlay,2014,RightFoot,5823,Deportivo La Coruna,Almeria,0,1,2014-09-28 16:00:00,,None
+33222,58,BlockedShot,0.8580000305175781,0.5829999923706055,0.06159069761633873,Jonathan,a,4050,SetPiece,2014,RightFoot,5823,Deportivo La Coruna,Almeria,0,1,2014-09-28 16:00:00,,None
+33224,68,BlockedShot,0.7709999847412109,0.56,0.02776297926902771,Tomer Hemed,a,4046,OpenPlay,2014,RightFoot,5823,Deportivo La Coruna,Almeria,0,1,2014-09-28 16:00:00,Ramón Azeez,Pass
+33225,83,SavedShot,0.765,0.56,0.027385422959923744,Thievy,a,2554,OpenPlay,2014,LeftFoot,5823,Deportivo La Coruna,Almeria,0,1,2014-09-28 16:00:00,Verza,Pass
+33226,86,SavedShot,0.8209999847412109,0.5609999847412109,0.05187711492180824,Ramón Azeez,a,4051,OpenPlay,2014,LeftFoot,5823,Deportivo La Coruna,Almeria,0,1,2014-09-28 16:00:00,Fernando Soriano,Pass
+33227,90,BlockedShot,0.7580000305175781,0.5670000076293945,0.07643695920705795,Fernando Soriano,a,4048,DirectFreekick,2014,RightFoot,5823,Deportivo La Coruna,Almeria,0,1,2014-09-28 16:00:00,,Standard
+33228,91,Goal,0.855,0.7019999694824218,0.05723002552986145,Edgar Méndez,a,2088,OpenPlay,2014,RightFoot,5823,Deportivo La Coruna,Almeria,0,1,2014-09-28 16:00:00,Ramón Azeez,Pass

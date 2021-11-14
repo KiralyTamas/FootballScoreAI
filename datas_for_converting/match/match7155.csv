@@ -1,0 +1,29 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+159470,0,BlockedShot,0.9690000152587891,0.33299999237060546,0.05597058683633804,Eric Maxim Choupo-Moting,h,339,OpenPlay,2017,RightFoot,7155,Stoke,Manchester United,2,2,2017-09-09 17:30:00,Jesé,Chipped
+159471,2,MissedShots,0.91,0.27700000762939453,0.024044722318649292,Jesé,h,2256,OpenPlay,2017,RightFoot,7155,Stoke,Manchester United,2,2,2017-09-09 17:30:00,Jack Butland,Pass
+159472,16,MissedShots,0.735999984741211,0.62,0.013629388064146042,Eric Maxim Choupo-Moting,h,339,OpenPlay,2017,RightFoot,7155,Stoke,Manchester United,2,2,2017-09-09 17:30:00,,None
+159475,26,SavedShot,0.750999984741211,0.355,0.017054041847586632,Xherdan Shaqiri,h,888,OpenPlay,2017,LeftFoot,7155,Stoke,Manchester United,2,2,2017-09-09 17:30:00,Mame Biram Diouf,Pass
+159477,27,SavedShot,0.7559999847412109,0.5920000076293945,0.02235940285027027,Xherdan Shaqiri,h,888,OpenPlay,2017,LeftFoot,7155,Stoke,Manchester United,2,2,2017-09-09 17:30:00,Eric Maxim Choupo-Moting,Pass
+159479,42,Goal,0.9369999694824219,0.49900001525878906,0.49720320105552673,Eric Maxim Choupo-Moting,h,339,OpenPlay,2017,RightFoot,7155,Stoke,Manchester United,2,2,2017-09-09 17:30:00,Mame Biram Diouf,Cross
+159485,48,MissedShots,0.9390000152587891,0.4329999923706055,0.09664946794509888,Eric Maxim Choupo-Moting,h,339,FromCorner,2017,Head,7155,Stoke,Manchester United,2,2,2017-09-09 17:30:00,Xherdan Shaqiri,Cross
+159488,61,SavedShot,0.9359999847412109,0.5790000152587891,0.3756958842277527,Jesé,h,2256,OpenPlay,2017,RightFoot,7155,Stoke,Manchester United,2,2,2017-09-09 17:30:00,Erik Pieters,Cross
+159489,62,Goal,0.9590000152587891,0.5609999847412109,0.38630926609039307,Eric Maxim Choupo-Moting,h,339,FromCorner,2017,Head,7155,Stoke,Manchester United,2,2,2017-09-09 17:30:00,Xherdan Shaqiri,Cross
+159491,69,MissedShots,0.7290000152587891,0.725999984741211,0.010363128036260605,Eric Maxim Choupo-Moting,h,339,OpenPlay,2017,RightFoot,7155,Stoke,Manchester United,2,2,2017-09-09 17:30:00,Erik Pieters,TakeOn
+159473,17,BlockedShot,0.9269999694824219,0.4229999923706055,0.13392753899097443,Paul Pogba,a,1740,OpenPlay,2017,RightFoot,7155,Stoke,Manchester United,2,2,2017-09-09 17:30:00,Romelu Lukaku,Pass
+159474,23,SavedShot,0.905,0.355,0.11706984788179398,Marcus Rashford,a,556,OpenPlay,2017,RightFoot,7155,Stoke,Manchester United,2,2,2017-09-09 17:30:00,Eric Bailly,Throughball
+159476,26,SavedShot,0.9,0.715,0.0435849130153656,Marcus Rashford,a,556,OpenPlay,2017,RightFoot,7155,Stoke,Manchester United,2,2,2017-09-09 17:30:00,Paul Pogba,Pass
+159478,30,MissedShots,0.7769999694824219,0.345,0.022772789001464844,Nemanja Matic,a,697,FromCorner,2017,LeftFoot,7155,Stoke,Manchester United,2,2,2017-09-09 17:30:00,Antonio Valencia,Pass
+159480,45,BlockedShot,0.9630000305175781,0.46799999237060547,0.22505860030651093,Paul Pogba,a,1740,FromCorner,2017,Head,7155,Stoke,Manchester United,2,2,2017-09-09 17:30:00,Nemanja Matic,Goal
+159481,45,Goal,0.965999984741211,0.48,0.10754168778657913,Marcus Rashford,a,556,FromCorner,2017,Head,7155,Stoke,Manchester United,2,2,2017-09-09 17:30:00,Paul Pogba,None
+159483,46,BlockedShot,0.8419999694824218,0.669000015258789,0.04379400983452797,Marcus Rashford,a,556,OpenPlay,2017,RightFoot,7155,Stoke,Manchester United,2,2,2017-09-09 17:30:00,Paul Pogba,Pass
+159482,47,SavedShot,0.9159999847412109,0.28700000762939454,0.0427582710981369,Romelu Lukaku,a,594,OpenPlay,2017,RightFoot,7155,Stoke,Manchester United,2,2,2017-09-09 17:30:00,Antonio Valencia,Chipped
+159484,47,SavedShot,0.7430000305175781,0.6880000305175781,0.020514097064733505,Paul Pogba,a,1740,FromCorner,2017,RightFoot,7155,Stoke,Manchester United,2,2,2017-09-09 17:30:00,Ander Herrera,Pass
+159486,56,SavedShot,0.8590000152587891,0.5320000076293945,0.3564733862876892,Romelu Lukaku,a,594,OpenPlay,2017,LeftFoot,7155,Stoke,Manchester United,2,2,2017-09-09 17:30:00,Henrikh Mkhitaryan,Throughball
+159487,56,Goal,0.9030000305175782,0.4929999923706055,0.4147232472896576,Romelu Lukaku,a,594,OpenPlay,2017,RightFoot,7155,Stoke,Manchester United,2,2,2017-09-09 17:30:00,,Rebound
+159490,66,MissedShots,0.759000015258789,0.53,0.02265181578695774,Antonio Valencia,a,627,FromCorner,2017,RightFoot,7155,Stoke,Manchester United,2,2,2017-09-09 17:30:00,,TakeOn
+159492,75,SavedShot,0.7140000152587891,0.4520000076293945,0.016129715368151665,Paul Pogba,a,1740,OpenPlay,2017,LeftFoot,7155,Stoke,Manchester United,2,2,2017-09-09 17:30:00,Henrikh Mkhitaryan,Pass
+159493,80,MissedShots,0.9219999694824219,0.46799999237060547,0.37267231941223145,Romelu Lukaku,a,594,OpenPlay,2017,LeftFoot,7155,Stoke,Manchester United,2,2,2017-09-09 17:30:00,Anthony Martial,Cross
+159494,83,MissedShots,0.735999984741211,0.544000015258789,0.015327510423958302,Matteo Darmian,a,557,FromCorner,2017,RightFoot,7155,Stoke,Manchester United,2,2,2017-09-09 17:30:00,,None
+159495,90,BlockedShot,0.775,0.285,0.05064614117145538,Romelu Lukaku,a,594,DirectFreekick,2017,LeftFoot,7155,Stoke,Manchester United,2,2,2017-09-09 17:30:00,,Standard
+159496,90,BlockedShot,0.7680000305175781,0.29100000381469726,0.012684132903814316,Romelu Lukaku,a,594,SetPiece,2017,LeftFoot,7155,Stoke,Manchester United,2,2,2017-09-09 17:30:00,,Rebound
+159497,93,MissedShots,0.8959999847412109,0.38799999237060545,0.09649912267923355,Paul Pogba,a,1740,OpenPlay,2017,LeftFoot,7155,Stoke,Manchester United,2,2,2017-09-09 17:30:00,Anthony Martial,Pass

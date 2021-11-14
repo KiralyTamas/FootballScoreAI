@@ -1,0 +1,27 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+279580,8,MissedShots,0.755,0.45599998474121095,0.022895922884345055,Michael Gregoritsch,h,171,OpenPlay,2018,LeftFoot,10550,Augsburg,Borussia Dortmund,2,1,2019-03-01 19:30:00,Dong-Won Ji,BallRecovery
+279581,14,SavedShot,0.9019999694824219,0.750999984741211,0.0329049676656723,Philipp Max,h,267,OpenPlay,2018,LeftFoot,10550,Augsburg,Borussia Dortmund,2,1,2019-03-01 19:30:00,,None
+279583,17,SavedShot,0.8819999694824219,0.7419999694824219,0.032921187579631805,Georg Teigl,h,5259,OpenPlay,2018,RightFoot,10550,Augsburg,Borussia Dortmund,2,1,2019-03-01 19:30:00,Michael Gregoritsch,Pass
+279585,23,BlockedShot,0.909000015258789,0.5159999847412109,0.10203003883361816,Dong-Won Ji,h,276,OpenPlay,2018,LeftFoot,10550,Augsburg,Borussia Dortmund,2,1,2019-03-01 19:30:00,André Hahn,Cross
+279586,23,Goal,0.92,0.5279999923706055,0.4798876643180847,Dong-Won Ji,h,276,OpenPlay,2018,LeftFoot,10550,Augsburg,Borussia Dortmund,2,1,2019-03-01 19:30:00,,Rebound
+279589,34,BlockedShot,0.774000015258789,0.6930000305175781,0.026710068807005882,Michael Gregoritsch,h,171,OpenPlay,2018,LeftFoot,10550,Augsburg,Borussia Dortmund,2,1,2019-03-01 19:30:00,Georg Teigl,Pass
+279593,46,MissedShots,0.8690000152587891,0.425,0.07174350321292877,Dong-Won Ji,h,276,OpenPlay,2018,LeftFoot,10550,Augsburg,Borussia Dortmund,2,1,2019-03-01 19:30:00,Jonathan Schmid,Cross
+279594,66,Goal,0.9019999694824219,0.595999984741211,0.11281934380531311,Dong-Won Ji,h,276,OpenPlay,2018,LeftFoot,10550,Augsburg,Borussia Dortmund,2,1,2019-03-01 19:30:00,,BallRecovery
+279604,93,BlockedShot,0.8330000305175781,0.47299999237060547,0.12807875871658325,Sergio Córdova,h,6096,OpenPlay,2018,RightFoot,10550,Augsburg,Borussia Dortmund,2,1,2019-03-01 19:30:00,,Dispossessed
+279579,7,SavedShot,0.9619999694824218,0.5459999847412109,0.6216014623641968,Marco Reus,a,319,OpenPlay,2018,RightFoot,10550,Augsburg,Borussia Dortmund,2,1,2019-03-01 19:30:00,Jacob Bruun Larsen,Pass
+279582,14,BlockedShot,0.8480000305175781,0.475,0.12138044834136963,Jadon Sancho,a,6345,OpenPlay,2018,RightFoot,10550,Augsburg,Borussia Dortmund,2,1,2019-03-01 19:30:00,Achraf Hakimi,Pass
+279584,19,SavedShot,0.909000015258789,0.4779999923706055,0.04938431829214096,Manuel Akanji,a,6490,SetPiece,2018,OtherBodyPart,10550,Augsburg,Borussia Dortmund,2,1,2019-03-01 19:30:00,Marco Reus,Aerial
+279587,29,BlockedShot,0.855999984741211,0.43599998474121093,0.08088632673025131,Axel Witsel,a,3059,OpenPlay,2018,RightFoot,10550,Augsburg,Borussia Dortmund,2,1,2019-03-01 19:30:00,Mario Götze,Pass
+279588,30,MissedShots,0.885,0.544000015258789,0.053101491183042526,Marco Reus,a,319,OpenPlay,2018,Head,10550,Augsburg,Borussia Dortmund,2,1,2019-03-01 19:30:00,Abdou Diallo,Cross
+279590,40,MissedShots,0.9330000305175781,0.495,0.5560587048530579,Thomas Delaney,a,5230,SetPiece,2018,LeftFoot,10550,Augsburg,Borussia Dortmund,2,1,2019-03-01 19:30:00,,None
+279591,41,SavedShot,0.905,0.48,0.4162531793117523,Jacob Bruun Larsen,a,5355,OpenPlay,2018,RightFoot,10550,Augsburg,Borussia Dortmund,2,1,2019-03-01 19:30:00,Mario Götze,Throughball
+279592,45,MissedShots,0.9740000152587891,0.639000015258789,0.061761632561683655,Abdou Diallo,a,4804,SetPiece,2018,LeftFoot,10550,Augsburg,Borussia Dortmund,2,1,2019-03-01 19:30:00,Axel Witsel,None
+279595,68,SavedShot,0.8030000305175782,0.655,0.03280722722411156,Jacob Bruun Larsen,a,5355,OpenPlay,2018,RightFoot,10550,Augsburg,Borussia Dortmund,2,1,2019-03-01 19:30:00,Mario Götze,Pass
+279596,70,MissedShots,0.889000015258789,0.7440000152587891,0.024281149730086327,Raphael Guerreiro,a,3455,OpenPlay,2018,LeftFoot,10550,Augsburg,Borussia Dortmund,2,1,2019-03-01 19:30:00,Mario Götze,None
+279597,73,MissedShots,0.914000015258789,0.5070000076293946,0.04154924675822258,Dan-Axel Zagadou,a,6103,FromCorner,2018,Head,10550,Augsburg,Borussia Dortmund,2,1,2019-03-01 19:30:00,Jadon Sancho,Aerial
+279598,74,SavedShot,0.8830000305175781,0.5629999923706055,0.30218419432640076,Paco Alcácer,a,2380,OpenPlay,2018,LeftFoot,10550,Augsburg,Borussia Dortmund,2,1,2019-03-01 19:30:00,Mario Götze,Throughball
+279599,75,MissedShots,0.7980000305175782,0.6719999694824219,0.014898874796926975,Abdou Diallo,a,4804,FromCorner,2018,LeftFoot,10550,Augsburg,Borussia Dortmund,2,1,2019-03-01 19:30:00,,Aerial
+279600,79,SavedShot,0.924000015258789,0.67,0.07018981128931046,Jadon Sancho,a,6345,OpenPlay,2018,RightFoot,10550,Augsburg,Borussia Dortmund,2,1,2019-03-01 19:30:00,Paco Alcácer,Pass
+279601,80,Goal,0.875999984741211,0.54,0.3289148807525635,Paco Alcácer,a,2380,OpenPlay,2018,RightFoot,10550,Augsburg,Borussia Dortmund,2,1,2019-03-01 19:30:00,Mario Götze,Pass
+279602,85,BlockedShot,0.89,0.6759999847412109,0.04909922927618027,Mario Götze,a,422,OpenPlay,2018,RightFoot,10550,Augsburg,Borussia Dortmund,2,1,2019-03-01 19:30:00,Abdou Diallo,TakeOn
+279603,86,SavedShot,0.7809999847412109,0.5879999923706055,0.030102694407105446,Mario Götze,a,422,OpenPlay,2018,RightFoot,10550,Augsburg,Borussia Dortmund,2,1,2019-03-01 19:30:00,Paco Alcácer,Pass

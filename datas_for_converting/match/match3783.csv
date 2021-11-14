@@ -1,0 +1,26 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+133382,10,Goal,0.879000015258789,0.5179999923706055,0.41653940081596375,Branimir Hrgota,h,216,OpenPlay,2016,LeftFoot,3783,Eintracht Frankfurt,Freiburg,1,2,2017-03-05 14:30:00,,None
+133385,22,MissedShots,0.909000015258789,0.45,0.33020713925361633,Danny Blum,h,5236,OpenPlay,2016,LeftFoot,3783,Eintracht Frankfurt,Freiburg,1,2,2017-03-05 14:30:00,Taleb Tawatha,Chipped
+133387,31,BlockedShot,0.7240000152587891,0.675,0.018020574003458023,Bastian Oczipka,h,285,SetPiece,2016,LeftFoot,3783,Eintracht Frankfurt,Freiburg,1,2,2017-03-05 14:30:00,Makoto Hasebe,Pass
+133388,40,MissedShots,0.9259999847412109,0.31799999237060544,0.013382740318775177,Timothy Chandler,h,359,SetPiece,2016,Head,3783,Eintracht Frankfurt,Freiburg,1,2,2017-03-05 14:30:00,Danny Blum,Cross
+133389,47,SavedShot,0.96,0.3240000152587891,0.05473250150680542,Danny Blum,h,5236,OpenPlay,2016,RightFoot,3783,Eintracht Frankfurt,Freiburg,1,2,2017-03-05 14:30:00,Omar Mascarell,Pass
+133390,48,MissedShots,0.93,0.5979999923706054,0.0753910019993782,Ante Rebic,h,1852,SetPiece,2016,Head,3783,Eintracht Frankfurt,Freiburg,1,2,2017-03-05 14:30:00,Makoto Hasebe,Cross
+133395,59,BlockedShot,0.8030000305175782,0.30100000381469727,0.02320878393948078,Danny Blum,h,5236,OpenPlay,2016,LeftFoot,3783,Eintracht Frankfurt,Freiburg,1,2,2017-03-05 14:30:00,Ante Rebic,Pass
+133396,61,MissedShots,0.924000015258789,0.5429999923706055,0.10123530775308609,Branimir Hrgota,h,216,FromCorner,2016,Head,3783,Eintracht Frankfurt,Freiburg,1,2,2017-03-05 14:30:00,Makoto Hasebe,Cross
+133397,66,MissedShots,0.7759999847412109,0.4520000076293945,0.029279999434947968,Aymen Barkok,h,5235,OpenPlay,2016,RightFoot,3783,Eintracht Frankfurt,Freiburg,1,2,2017-03-05 14:30:00,,None
+133399,75,BlockedShot,0.749000015258789,0.48700000762939455,0.020026644691824913,Omar Mascarell,h,2456,OpenPlay,2016,RightFoot,3783,Eintracht Frankfurt,Freiburg,1,2,2017-03-05 14:30:00,,None
+133400,78,BlockedShot,0.7140000152587891,0.5420000076293945,0.01707184500992298,Shani Tarashaj,h,5290,OpenPlay,2016,RightFoot,3783,Eintracht Frankfurt,Freiburg,1,2,2017-03-05 14:30:00,Branimir Hrgota,Pass
+133403,90,BlockedShot,0.8190000152587891,0.4909999847412109,0.049352873116731644,Danny Blum,h,5236,OpenPlay,2016,LeftFoot,3783,Eintracht Frankfurt,Freiburg,1,2,2017-03-05 14:30:00,,None
+133404,92,SavedShot,0.9059999847412109,0.43900001525878907,0.4507300555706024,Alexander Meier,h,356,OpenPlay,2016,RightFoot,3783,Eintracht Frankfurt,Freiburg,1,2,2017-03-05 14:30:00,Omar Mascarell,TakeOn
+133405,93,MissedShots,0.7780000305175782,0.385,0.020112233236432076,Danny Blum,h,5236,FromCorner,2016,LeftFoot,3783,Eintracht Frankfurt,Freiburg,1,2,2017-03-05 14:30:00,,None
+133406,95,MissedShots,0.7930000305175782,0.4209999847412109,0.10796898603439331,Branimir Hrgota,h,216,DirectFreekick,2016,LeftFoot,3783,Eintracht Frankfurt,Freiburg,1,2,2017-03-05 14:30:00,,Standard
+133383,14,MissedShots,0.705999984741211,0.37099998474121093,0.010717404074966908,Janik Haberer,a,4271,OpenPlay,2016,RightFoot,3783,Eintracht Frankfurt,Freiburg,1,2,2017-03-05 14:30:00,,None
+133384,16,MissedShots,0.8619999694824219,0.44299999237060544,0.040898557752370834,Janik Haberer,a,4271,SetPiece,2016,Head,3783,Eintracht Frankfurt,Freiburg,1,2,2017-03-05 14:30:00,Vincenzo Grifo,Chipped
+133386,24,Goal,0.9630000305175781,0.5940000152587891,0.9010503888130188,Florian Niederlechner,a,306,OpenPlay,2016,LeftFoot,3783,Eintracht Frankfurt,Freiburg,1,2,2017-03-05 14:30:00,Nicolas Höfler,TakeOn
+133391,54,BlockedShot,0.7819999694824219,0.5420000076293945,0.034679338335990906,Julian Schuster,a,4245,OpenPlay,2016,LeftFoot,3783,Eintracht Frankfurt,Freiburg,1,2,2017-03-05 14:30:00,Janik Haberer,Pass
+133392,54,BlockedShot,0.8619999694824219,0.710999984741211,0.035403452813625336,Christian Günter,a,4243,OpenPlay,2016,LeftFoot,3783,Eintracht Frankfurt,Freiburg,1,2,2017-03-05 14:30:00,Vincenzo Grifo,Pass
+133393,55,SavedShot,0.8009999847412109,0.6840000152587891,0.025084415450692177,Vincenzo Grifo,a,5266,OpenPlay,2016,RightFoot,3783,Eintracht Frankfurt,Freiburg,1,2,2017-03-05 14:30:00,Christian Günter,Pass
+133394,58,Goal,0.9159999847412109,0.5729999923706055,0.4337174594402313,Florian Niederlechner,a,306,OpenPlay,2016,RightFoot,3783,Eintracht Frankfurt,Freiburg,1,2,2017-03-05 14:30:00,Vincenzo Grifo,Throughball
+133398,70,MissedShots,0.7959999847412109,0.34200000762939453,0.034726332873106,Nicolas Höfler,a,4250,OpenPlay,2016,RightFoot,3783,Eintracht Frankfurt,Freiburg,1,2,2017-03-05 14:30:00,Janik Haberer,Pass
+133401,83,BlockedShot,0.899000015258789,0.6530000305175782,0.09317051619291306,Florian Niederlechner,a,306,OpenPlay,2016,LeftFoot,3783,Eintracht Frankfurt,Freiburg,1,2,2017-03-05 14:30:00,Mike Frantz,Pass
+133402,88,MissedShots,0.769000015258789,0.8159999847412109,0.03242206573486328,Nils Petersen,a,4248,OpenPlay,2016,LeftFoot,3783,Eintracht Frankfurt,Freiburg,1,2,2017-03-05 14:30:00,Christian Günter,BallRecovery

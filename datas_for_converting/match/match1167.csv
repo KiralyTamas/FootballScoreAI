@@ -1,0 +1,32 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+79886,5,BlockedShot,0.9159999847412109,0.6090000152587891,0.03949875757098198,Emir Spahic,h,165,FromCorner,2015,Head,1167,Hamburger SV,Augsburg,0,1,2015-12-19 18:30:00,Ivo Ilicevic,Cross
+79887,5,BlockedShot,0.860999984741211,0.4420000076293945,0.07487638294696808,Johan Djourou,h,302,FromCorner,2015,LeftFoot,1167,Hamburger SV,Augsburg,0,1,2015-12-19 18:30:00,,Rebound
+79888,12,MissedShots,0.8719999694824219,0.6359999847412109,0.3275650143623352,Nicolai Müller,h,170,OpenPlay,2015,LeftFoot,1167,Hamburger SV,Augsburg,0,1,2015-12-19 18:30:00,Matthias Ostrzolek,Throughball
+79889,18,SavedShot,0.8490000152587891,0.515,0.2902436852455139,Ivo Ilicevic,h,172,OpenPlay,2015,RightFoot,1167,Hamburger SV,Augsburg,0,1,2015-12-19 18:30:00,Lewis Holtby,Chipped
+79890,24,MissedShots,0.9330000305175781,0.40200000762939453,0.05896800011396408,Johan Djourou,h,302,SetPiece,2015,Head,1167,Hamburger SV,Augsburg,0,1,2015-12-19 18:30:00,Lewis Holtby,Chipped
+79891,25,MissedShots,0.85,0.5179999923706055,0.09663032740354538,Aaron Hunt,h,174,OpenPlay,2015,LeftFoot,1167,Hamburger SV,Augsburg,0,1,2015-12-19 18:30:00,Matthias Ostrzolek,Pass
+79894,30,BlockedShot,0.865999984741211,0.46,0.06874807924032211,Nicolai Müller,h,170,SetPiece,2015,RightFoot,1167,Hamburger SV,Augsburg,0,1,2015-12-19 18:30:00,Johan Djourou,HeadPass
+79898,47,BlockedShot,0.74,0.6430000305175781,0.0503152497112751,Pierre-Michel Lasogga,h,173,DirectFreekick,2015,RightFoot,1167,Hamburger SV,Augsburg,0,1,2015-12-19 18:30:00,,Standard
+79901,57,MissedShots,0.935,0.6840000152587891,0.07209357619285583,Aaron Hunt,h,174,OpenPlay,2015,LeftFoot,1167,Hamburger SV,Augsburg,0,1,2015-12-19 18:30:00,Matthias Ostrzolek,Pass
+79907,68,MissedShots,0.7240000152587891,0.48200000762939454,0.013464966788887978,Pierre-Michel Lasogga,h,173,OpenPlay,2015,RightFoot,1167,Hamburger SV,Augsburg,0,1,2015-12-19 18:30:00,,None
+79912,86,MissedShots,0.7880000305175782,0.555,0.033973243087530136,Michael Gregoritsch,h,171,OpenPlay,2015,LeftFoot,1167,Hamburger SV,Augsburg,0,1,2015-12-19 18:30:00,,None
+79913,88,BlockedShot,0.8380000305175781,0.3129999923706055,0.031278345733881,Ivica Olic,h,303,OpenPlay,2015,LeftFoot,1167,Hamburger SV,Augsburg,0,1,2015-12-19 18:30:00,Sven Schipplock,Pass
+79914,89,BlockedShot,0.9009999847412109,0.5570000076293945,0.04092682898044586,Johan Djourou,h,302,FromCorner,2015,RightFoot,1167,Hamburger SV,Augsburg,0,1,2015-12-19 18:30:00,Ivo Ilicevic,Aerial
+79915,90,SavedShot,0.8980000305175782,0.685,0.0483446903526783,Ivica Olic,h,303,OpenPlay,2015,RightFoot,1167,Hamburger SV,Augsburg,0,1,2015-12-19 18:30:00,,None
+79885,2,SavedShot,0.7930000305175782,0.46,0.01769699901342392,Alexander Esswein,a,270,OpenPlay,2015,LeftFoot,1167,Hamburger SV,Augsburg,0,1,2015-12-19 18:30:00,Raúl Bobadilla,Aerial
+79892,28,MissedShots,0.9259999847412109,0.49700000762939456,0.11629124730825424,Raúl Bobadilla,a,273,FromCorner,2015,Head,1167,Hamburger SV,Augsburg,0,1,2015-12-19 18:30:00,Daniel Baier,Cross
+79893,29,MissedShots,0.9380000305175781,0.53,0.09116671979427338,Caiuby,a,272,OpenPlay,2015,Head,1167,Hamburger SV,Augsburg,0,1,2015-12-19 18:30:00,Alexander Esswein,Aerial
+79895,32,ShotOnPost,0.9590000152587891,0.5609999847412109,0.5220778584480286,Dong-Won Ji,a,276,OpenPlay,2015,OtherBodyPart,1167,Hamburger SV,Augsburg,0,1,2015-12-19 18:30:00,Alexander Esswein,Pass
+79896,40,ShotOnPost,0.7880000305175782,0.544000015258789,0.03663374483585358,Markus Feulner,a,278,OpenPlay,2015,LeftFoot,1167,Hamburger SV,Augsburg,0,1,2015-12-19 18:30:00,,None
+79897,42,SavedShot,0.845,0.7559999847412109,0.02630803734064102,Caiuby,a,272,OpenPlay,2015,LeftFoot,1167,Hamburger SV,Augsburg,0,1,2015-12-19 18:30:00,Dong-Won Ji,Pass
+79899,50,SavedShot,0.87,0.6930000305175781,0.05026094987988472,Philipp Max,a,267,OpenPlay,2015,LeftFoot,1167,Hamburger SV,Augsburg,0,1,2015-12-19 18:30:00,Raúl Bobadilla,Pass
+79900,54,MissedShots,0.92,0.6809999847412109,0.06478391587734222,Caiuby,a,272,OpenPlay,2015,RightFoot,1167,Hamburger SV,Augsburg,0,1,2015-12-19 18:30:00,,Tackle
+79902,59,SavedShot,0.9259999847412109,0.41200000762939454,0.059752803295850754,Hong Jeong-ho,a,406,FromCorner,2015,Head,1167,Hamburger SV,Augsburg,0,1,2015-12-19 18:30:00,Daniel Baier,Cross
+79903,61,MissedShots,0.7880000305175782,0.7319999694824219,0.01790417730808258,Raúl Bobadilla,a,273,OpenPlay,2015,RightFoot,1167,Hamburger SV,Augsburg,0,1,2015-12-19 18:30:00,Philipp Max,Pass
+79904,65,BlockedShot,0.7819999694824219,0.7440000152587891,0.015275832265615463,Caiuby,a,272,OpenPlay,2015,RightFoot,1167,Hamburger SV,Augsburg,0,1,2015-12-19 18:30:00,Daniel Baier,Chipped
+79905,66,SavedShot,0.9069999694824219,0.3920000076293945,0.21939851343631744,Markus Feulner,a,278,OpenPlay,2015,RightFoot,1167,Hamburger SV,Augsburg,0,1,2015-12-19 18:30:00,Daniel Baier,TakeOn
+79906,67,BlockedShot,0.8130000305175781,0.6719999694824219,0.02961389534175396,Raúl Bobadilla,a,273,OpenPlay,2015,RightFoot,1167,Hamburger SV,Augsburg,0,1,2015-12-19 18:30:00,Alexander Esswein,Pass
+79908,73,MissedShots,0.81,0.23600000381469727,0.05647040903568268,Philipp Max,a,267,DirectFreekick,2015,LeftFoot,1167,Hamburger SV,Augsburg,0,1,2015-12-19 18:30:00,,Standard
+79909,74,MissedShots,0.895,0.4759999847412109,0.4481363296508789,Markus Feulner,a,278,OpenPlay,2015,RightFoot,1167,Hamburger SV,Augsburg,0,1,2015-12-19 18:30:00,Raúl Bobadilla,Pass
+79910,75,SavedShot,0.915,0.59,0.12447630614042282,Raúl Bobadilla,a,273,OpenPlay,2015,RightFoot,1167,Hamburger SV,Augsburg,0,1,2015-12-19 18:30:00,Alexander Esswein,Pass
+79911,75,Goal,0.9280000305175782,0.47299999237060547,0.6050379276275635,Jan Morávek,a,367,OpenPlay,2015,Head,1167,Hamburger SV,Augsburg,0,1,2015-12-19 18:30:00,,None

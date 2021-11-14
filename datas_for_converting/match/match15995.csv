@@ -1,0 +1,22 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+403987,12,MissedShots,0.725,0.580999984741211,0.010687408968806267,Valentin Rongier,h,3673,SetPiece,2020,RightFoot,15995,Marseille,Paris Saint Germain,0,2,2021-02-07 20:00:00,,None
+403988,16,MissedShots,0.8169999694824219,0.5159999847412109,0.04110584035515785,Boubacar Kamara,h,5789,FromCorner,2020,RightFoot,15995,Marseille,Paris Saint Germain,0,2,2021-02-07 20:00:00,,None
+403989,21,SavedShot,0.8159999847412109,0.43400001525878906,0.05307145416736603,Valentin Rongier,h,3673,OpenPlay,2020,RightFoot,15995,Marseille,Paris Saint Germain,0,2,2021-02-07 20:00:00,Hiroki Sakai,Pass
+403990,22,SavedShot,0.7519999694824219,0.68,0.014180818572640419,Pape Alassane Gueye,h,8696,OpenPlay,2020,LeftFoot,15995,Marseille,Paris Saint Germain,0,2,2021-02-07 20:00:00,,BallRecovery
+403993,36,BlockedShot,0.9030000305175782,0.27700000762939453,0.036588285118341446,Florian Thauvin,h,942,OpenPlay,2020,LeftFoot,15995,Marseille,Paris Saint Germain,0,2,2021-02-07 20:00:00,Boubacar Kamara,Pass
+403996,49,SavedShot,0.775,0.3120000076293945,0.017892582342028618,Boubacar Kamara,h,5789,OpenPlay,2020,RightFoot,15995,Marseille,Paris Saint Germain,0,2,2021-02-07 20:00:00,Florian Thauvin,BallRecovery
+403997,50,BlockedShot,0.9569999694824218,0.585,0.12083196640014648,Valère Germain,h,3309,OpenPlay,2020,Head,15995,Marseille,Paris Saint Germain,0,2,2021-02-07 20:00:00,Florian Thauvin,Cross
+403998,55,MissedShots,0.93,0.445,0.04460644721984863,Duje Caleta-Car,h,7007,FromCorner,2020,Head,15995,Marseille,Paris Saint Germain,0,2,2021-02-07 20:00:00,Dimitri Payet,Aerial
+403999,60,BlockedShot,0.9009999847412109,0.47299999237060547,0.02496403641998768,Pape Alassane Gueye,h,8696,FromCorner,2020,Head,15995,Marseille,Paris Saint Germain,0,2,2021-02-07 20:00:00,Boubacar Kamara,Aerial
+404000,73,MissedShots,0.785,0.475,0.028667153790593147,Dimitri Payet,h,536,OpenPlay,2020,LeftFoot,15995,Marseille,Paris Saint Germain,0,2,2021-02-07 20:00:00,Hiroki Sakai,BallRecovery
+404003,83,BlockedShot,0.7169999694824218,0.35200000762939454,0.009486851282417774,Pape Alassane Gueye,h,8696,OpenPlay,2020,LeftFoot,15995,Marseille,Paris Saint Germain,0,2,2021-02-07 20:00:00,Luis Henrique,Pass
+404005,84,SavedShot,0.875999984741211,0.23899999618530274,0.024041859433054924,Luis Henrique,h,8980,OpenPlay,2020,RightFoot,15995,Marseille,Paris Saint Germain,0,2,2021-02-07 20:00:00,Dimitri Payet,Pass
+403985,5,MissedShots,0.9480000305175781,0.5579999923706055,0.07743300497531891,Mauro Icardi,a,1513,SetPiece,2020,Head,15995,Marseille,Paris Saint Germain,0,2,2021-02-07 20:00:00,Ángel Di María,Aerial
+403986,8,Goal,0.925,0.6719999694824219,0.3054260015487671,Kylian Mbappe-Lottin,a,3423,OpenPlay,2020,LeftFoot,15995,Marseille,Paris Saint Germain,0,2,2021-02-07 20:00:00,Ángel Di María,TakeOn
+403991,23,Goal,0.9590000152587891,0.40900001525878904,0.062962107360363,Mauro Icardi,a,1513,OpenPlay,2020,OtherBodyPart,15995,Marseille,Paris Saint Germain,0,2,2021-02-07 20:00:00,Alessandro Florenzi,Aerial
+403992,31,ShotOnPost,0.750999984741211,0.48200000762939454,0.03031855821609497,Leandro Paredes,a,1248,OpenPlay,2020,RightFoot,15995,Marseille,Paris Saint Germain,0,2,2021-02-07 20:00:00,,BlockedPass
+403994,46,MissedShots,0.924000015258789,0.5029999923706054,0.14748960733413696,Mauro Icardi,a,1513,OpenPlay,2020,RightFoot,15995,Marseille,Paris Saint Germain,0,2,2021-02-07 20:00:00,Kylian Mbappe-Lottin,Pass
+403995,48,MissedShots,0.9180000305175782,0.504000015258789,0.062155649065971375,Mauro Icardi,a,1513,OpenPlay,2020,Head,15995,Marseille,Paris Saint Germain,0,2,2021-02-07 20:00:00,Alessandro Florenzi,Aerial
+404001,74,MissedShots,0.7269999694824218,0.49700000762939456,0.02319168485701084,Neymar,a,2099,OpenPlay,2020,RightFoot,15995,Marseille,Paris Saint Germain,0,2,2021-02-07 20:00:00,Marco Verratti,Pass
+404002,76,MissedShots,0.8390000152587891,0.6120000076293945,0.10508006066083908,Marco Verratti,a,3552,OpenPlay,2020,RightFoot,15995,Marseille,Paris Saint Germain,0,2,2021-02-07 20:00:00,,TakeOn
+404004,84,MissedShots,0.894000015258789,0.4129999923706055,0.41643014550209045,Neymar,a,2099,OpenPlay,2020,RightFoot,15995,Marseille,Paris Saint Germain,0,2,2021-02-07 20:00:00,Pablo Sarabia,Pass

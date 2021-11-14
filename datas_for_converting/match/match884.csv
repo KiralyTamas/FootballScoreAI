@@ -1,0 +1,26 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+100473,0,BlockedShot,0.9590000152587891,0.6020000076293945,0.07211951911449432,Ivaylo Chochev,h,1271,OpenPlay,2015,Head,884,Palermo,Atalanta,2,2,2016-04-20 22:45:00,Aljaz Struna,Cross
+100474,1,Goal,0.885,0.5,0.7612988352775574,Franco Vázquez,h,1836,Penalty,2015,LeftFoot,884,Palermo,Atalanta,2,2,2016-04-20 22:45:00,,Standard
+100480,45,BlockedShot,0.915,0.40900001525878904,0.09654372930526733,Aleksandar Trajkovski,h,1837,OpenPlay,2015,LeftFoot,884,Palermo,Atalanta,2,2,2016-04-20 22:45:00,Aljaz Struna,Cross
+100482,56,BlockedShot,0.9569999694824218,0.6819999694824219,0.057580895721912384,Franco Vázquez,h,1836,OpenPlay,2015,LeftFoot,884,Palermo,Atalanta,2,2,2016-04-20 22:45:00,Aleksandar Trajkovski,Pass
+100484,62,MissedShots,0.9590000152587891,0.4909999847412109,0.12358517199754715,Giancarlo Gonzalez,h,1534,FromCorner,2015,RightFoot,884,Palermo,Atalanta,2,2,2016-04-20 22:45:00,,BallTouch
+100485,75,BlockedShot,0.884000015258789,0.45599998474121095,0.0789155662059784,Mato Jajalo,h,1273,SetPiece,2015,LeftFoot,884,Palermo,Atalanta,2,2,2016-04-20 22:45:00,Giancarlo Gonzalez,HeadPass
+100486,75,Goal,0.955999984741211,0.44799999237060545,0.6140651106834412,Aljaz Struna,h,1840,SetPiece,2015,RightFoot,884,Palermo,Atalanta,2,2,2016-04-20 22:45:00,,Rebound
+100487,77,BlockedShot,0.7780000305175782,0.649000015258789,0.02383681759238243,Robin Quaison,h,1275,OpenPlay,2015,RightFoot,884,Palermo,Atalanta,2,2,2016-04-20 22:45:00,,Dispossessed
+100488,81,BlockedShot,0.7090000152587891,0.6140000152587891,0.013759233057498932,Achraf Lazaar,h,1838,OpenPlay,2015,LeftFoot,884,Palermo,Atalanta,2,2,2016-04-20 22:45:00,Oscar Hiljemark,Pass
+100489,84,SavedShot,0.82,0.7559999847412109,0.05923590064048767,Aleksandar Trajkovski,h,1837,DirectFreekick,2015,RightFoot,884,Palermo,Atalanta,2,2,2016-04-20 22:45:00,,Standard
+100490,84,MissedShots,0.9619999694824218,0.43400001525878906,0.5898699164390564,Mato Jajalo,h,1273,SetPiece,2015,RightFoot,884,Palermo,Atalanta,2,2,2016-04-20 22:45:00,,Rebound
+100491,86,BlockedShot,0.795,0.6430000305175781,0.03419250249862671,Franco Vázquez,h,1836,OpenPlay,2015,LeftFoot,884,Palermo,Atalanta,2,2,2016-04-20 22:45:00,Alberto Gilardino,LayOff
+100492,86,MissedShots,0.9319999694824219,0.5420000076293945,0.07629355043172836,Giancarlo Gonzalez,h,1534,FromCorner,2015,Head,884,Palermo,Atalanta,2,2,2016-04-20 22:45:00,Roberto Vitiello,Chipped
+100493,86,MissedShots,0.935,0.46599998474121096,0.1404367983341217,Alberto Gilardino,h,1552,FromCorner,2015,LeftFoot,884,Palermo,Atalanta,2,2,2016-04-20 22:45:00,Giancarlo Gonzalez,Rebound
+100475,9,MissedShots,0.9359999847412109,0.5359999847412109,0.053755711764097214,Gabriel Paletta,a,1118,FromCorner,2015,Head,884,Palermo,Atalanta,2,2,2016-04-20 22:45:00,Alejandro Gomez,Interception
+100476,10,Goal,0.885,0.5,0.7612988352775574,Marco Borriello,a,1405,Penalty,2015,LeftFoot,884,Palermo,Atalanta,2,2,2016-04-20 22:45:00,,Standard
+100477,18,SavedShot,0.8319999694824218,0.2620000076293945,0.023517366498708725,Cristian Raimondi,a,1499,OpenPlay,2015,LeftFoot,884,Palermo,Atalanta,2,2,2016-04-20 22:45:00,Gabriel Paletta,Pass
+100478,19,MissedShots,0.905,0.4370000076293945,0.2648923099040985,Cristian Raimondi,a,1499,OpenPlay,2015,Head,884,Palermo,Atalanta,2,2,2016-04-20 22:45:00,Alejandro Gomez,Cross
+100479,44,MissedShots,0.750999984741211,0.40599998474121096,0.01605083793401718,Luca Cigarini,a,1238,OpenPlay,2015,LeftFoot,884,Palermo,Atalanta,2,2,2016-04-20 22:45:00,Marco Borriello,HeadPass
+100481,54,Goal,0.89,0.40599998474121096,0.037377241998910904,Gabriel Paletta,a,1118,SetPiece,2015,Head,884,Palermo,Atalanta,2,2,2016-04-20 22:45:00,Luca Cigarini,Cross
+100483,58,MissedShots,0.9490000152587891,0.555,0.4419877529144287,Boukary Dramé,a,1490,OpenPlay,2015,Head,884,Palermo,Atalanta,2,2,2016-04-20 22:45:00,Alessandro Diamanti,Cross
+100494,89,BlockedShot,0.805,0.5870000076293945,0.11894579231739044,Alessandro Diamanti,a,948,DirectFreekick,2015,LeftFoot,884,Palermo,Atalanta,2,2,2016-04-20 22:45:00,,Standard
+100495,90,BlockedShot,0.740999984741211,0.6370000076293946,0.048497218638658524,Alessandro Diamanti,a,948,DirectFreekick,2015,LeftFoot,884,Palermo,Atalanta,2,2,2016-04-20 22:45:00,,Standard
+100496,91,SavedShot,0.8219999694824218,0.7130000305175781,0.11190273612737656,Marco Borriello,a,1405,OpenPlay,2015,LeftFoot,884,Palermo,Atalanta,2,2,2016-04-20 22:45:00,Alejandro Gomez,Throughball
+100497,93,MissedShots,0.9469999694824218,0.5659999847412109,0.3753945529460907,Remo Freuler,a,1488,OpenPlay,2015,LeftFoot,884,Palermo,Atalanta,2,2,2016-04-20 22:45:00,Andrea Conti,Cross

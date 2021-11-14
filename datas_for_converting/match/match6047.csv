@@ -1,0 +1,16 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+2674,29,BlockedShot,0.8109999847412109,0.3170000076293945,0.09212418645620346,Javier Pastore,h,3295,OpenPlay,2014,LeftFoot,6047,Paris Saint Germain,Nantes,2,1,2014-12-06 16:00:00,Adrien Rabiot,TakeOn
+2675,30,BlockedShot,0.730999984741211,0.524000015258789,0.01957685686647892,Adrien Rabiot,h,3291,OpenPlay,2014,LeftFoot,6047,Paris Saint Germain,Nantes,2,1,2014-12-06 16:00:00,Javier Pastore,Pass
+2676,33,Goal,0.9169999694824219,0.46900001525878904,0.5064999461174011,Zlatan Ibrahimovic,h,1741,OpenPlay,2014,LeftFoot,6047,Paris Saint Germain,Nantes,2,1,2014-12-06 16:00:00,Lucas Moura,Pass
+2677,37,SavedShot,0.8780000305175781,0.75,0.0359962023794651,Adrien Rabiot,h,3291,OpenPlay,2014,LeftFoot,6047,Paris Saint Germain,Nantes,2,1,2014-12-06 16:00:00,Zlatan Ibrahimovic,TakeOn
+2678,42,BlockedShot,0.8719999694824219,0.2979999923706055,0.041029997169971466,Ezequiel Lavezzi,h,3643,OpenPlay,2014,RightFoot,6047,Paris Saint Germain,Nantes,2,1,2014-12-06 16:00:00,Javier Pastore,Pass
+2679,44,SavedShot,0.9269999694824219,0.515,0.40724095702171326,Thiago Silva,h,3288,SetPiece,2014,Head,6047,Paris Saint Germain,Nantes,2,1,2014-12-06 16:00:00,Ezequiel Lavezzi,Cross
+2680,47,Goal,0.7730000305175782,0.3609999847412109,0.06953901052474976,Zlatan Ibrahimovic,h,1741,DirectFreekick,2014,RightFoot,6047,Paris Saint Germain,Nantes,2,1,2014-12-06 16:00:00,,Standard
+2681,53,MissedShots,0.9180000305175782,0.47200000762939454,0.10799941420555115,Adrien Rabiot,h,3291,FromCorner,2014,RightFoot,6047,Paris Saint Germain,Nantes,2,1,2014-12-06 16:00:00,,None
+2682,62,MissedShots,0.799000015258789,0.41700000762939454,0.030204910784959793,Lucas Moura,h,3293,OpenPlay,2014,RightFoot,6047,Paris Saint Germain,Nantes,2,1,2014-12-06 16:00:00,Zlatan Ibrahimovic,HeadPass
+2683,65,BlockedShot,0.8959999847412109,0.6040000152587891,0.08583015948534012,Lucas Digne,h,1823,OpenPlay,2014,RightFoot,6047,Paris Saint Germain,Nantes,2,1,2014-12-06 16:00:00,Serge Aurier,Cross
+2684,68,MissedShots,0.935,0.47200000762939454,0.4448396861553192,Ezequiel Lavezzi,h,3643,OpenPlay,2014,RightFoot,6047,Paris Saint Germain,Nantes,2,1,2014-12-06 16:00:00,Serge Aurier,Cross
+2687,91,MissedShots,0.745,0.315,0.019302092492580414,Clément Chantôme,h,3258,OpenPlay,2014,RightFoot,6047,Paris Saint Germain,Nantes,2,1,2014-12-06 16:00:00,Adrien Rabiot,Pass
+2673,7,Goal,0.7240000152587891,0.325,0.015325536020100117,Alejandro Bedoya,a,3405,OpenPlay,2014,RightFoot,6047,Paris Saint Germain,Nantes,2,1,2014-12-06 16:00:00,,TakeOn
+2685,72,MissedShots,0.8880000305175781,0.5879999923706055,0.0279926098883152,Alejandro Bedoya,a,3405,FromCorner,2014,Head,6047,Paris Saint Germain,Nantes,2,1,2014-12-06 16:00:00,Yacine Bammou,Cross
+2686,75,SavedShot,0.8540000152587891,0.39799999237060546,0.10967352241277695,Lucas Deaux,a,3740,OpenPlay,2014,RightFoot,6047,Paris Saint Germain,Nantes,2,1,2014-12-06 16:00:00,Serge Gakpe,Pass

@@ -1,0 +1,26 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+187378,7,BlockedShot,0.8109999847412109,0.4929999923706055,0.05933145806193352,Bakary Sako,h,520,OpenPlay,2017,LeftFoot,7341,Crystal Palace,Burnley,1,0,2018-01-13 15:00:00,Wilfried Zaha,Pass
+187379,8,BlockedShot,0.7340000152587891,0.355,0.018993088975548744,Luka Milivojevic,h,5549,FromCorner,2017,RightFoot,7341,Crystal Palace,Burnley,1,0,2018-01-13 15:00:00,Patrick van Aanholt,Cross
+187380,20,Goal,0.92,0.7180000305175781,0.03762299194931984,Bakary Sako,h,520,OpenPlay,2017,LeftFoot,7341,Crystal Palace,Burnley,1,0,2018-01-13 15:00:00,Christian Benteke,Chipped
+187381,26,BlockedShot,0.95,0.595999984741211,0.11730344593524933,Bakary Sako,h,520,OpenPlay,2017,LeftFoot,7341,Crystal Palace,Burnley,1,0,2018-01-13 15:00:00,Wilfried Zaha,Cross
+187382,26,MissedShots,0.915,0.51,0.29491880536079407,Christian Benteke,h,606,FromCorner,2017,Head,7341,Crystal Palace,Burnley,1,0,2018-01-13 15:00:00,Luka Milivojevic,Cross
+187386,41,BlockedShot,0.8269999694824218,0.5329999923706055,0.05232462286949158,Martin Kelly,h,525,SetPiece,2017,LeftFoot,7341,Crystal Palace,Burnley,1,0,2018-01-13 15:00:00,,None
+187387,42,BlockedShot,0.950999984741211,0.7030000305175781,0.050181251019239426,Martin Kelly,h,525,SetPiece,2017,RightFoot,7341,Crystal Palace,Burnley,1,0,2018-01-13 15:00:00,,BlockedPass
+187388,42,MissedShots,0.7930000305175782,0.625,0.019901229068636894,Patrick van Aanholt,h,730,SetPiece,2017,LeftFoot,7341,Crystal Palace,Burnley,1,0,2018-01-13 15:00:00,,Rebound
+187389,42,SavedShot,0.9359999847412109,0.47299999237060547,0.5932726263999939,Christian Benteke,h,606,SetPiece,2017,RightFoot,7341,Crystal Palace,Burnley,1,0,2018-01-13 15:00:00,Patrick van Aanholt,Rebound
+187390,43,MissedShots,0.95,0.6430000305175781,0.06575048714876175,Bakary Sako,h,520,OpenPlay,2017,LeftFoot,7341,Crystal Palace,Burnley,1,0,2018-01-13 15:00:00,Timothy Fosu-Mensah,Cross
+187392,52,MissedShots,0.89,0.595999984741211,0.040209248661994934,Bakary Sako,h,520,OpenPlay,2017,Head,7341,Crystal Palace,Burnley,1,0,2018-01-13 15:00:00,Timothy Fosu-Mensah,Cross
+187394,56,MissedShots,0.9130000305175782,0.595999984741211,0.07041633874177933,Christian Benteke,h,606,OpenPlay,2017,Head,7341,Crystal Palace,Burnley,1,0,2018-01-13 15:00:00,Bakary Sako,Cross
+187395,56,BlockedShot,0.9290000152587891,0.37099998474121093,0.09878859668970108,Wilfried Zaha,h,522,OpenPlay,2017,RightFoot,7341,Crystal Palace,Burnley,1,0,2018-01-13 15:00:00,Christian Benteke,Rebound
+187397,68,MissedShots,0.925,0.48400001525878905,0.07813624292612076,Christian Benteke,h,606,OpenPlay,2017,Head,7341,Crystal Palace,Burnley,1,0,2018-01-13 15:00:00,Bakary Sako,Aerial
+187398,71,MissedShots,0.84,0.524000015258789,0.01927248015999794,Bakary Sako,h,520,SetPiece,2017,Head,7341,Crystal Palace,Burnley,1,0,2018-01-13 15:00:00,Luka Milivojevic,Cross
+187399,82,BlockedShot,0.9290000152587891,0.6619999694824219,0.20221665501594543,James McArthur,h,633,OpenPlay,2017,RightFoot,7341,Crystal Palace,Burnley,1,0,2018-01-13 15:00:00,Wilfried Zaha,TakeOn
+187401,89,MissedShots,0.894000015258789,0.36,0.04001151770353317,Christian Benteke,h,606,OpenPlay,2017,RightFoot,7341,Crystal Palace,Burnley,1,0,2018-01-13 15:00:00,,Aerial
+187383,31,BlockedShot,0.8059999847412109,0.5120000076293946,0.049721550196409225,Ashley Barnes,a,4422,OpenPlay,2017,RightFoot,7341,Crystal Palace,Burnley,1,0,2018-01-13 15:00:00,Sam Vokes,HeadPass
+187384,36,MissedShots,0.92,0.544000015258789,0.32427000999450684,Sam Vokes,a,1661,SetPiece,2017,Head,7341,Crystal Palace,Burnley,1,0,2018-01-13 15:00:00,Johann Berg Gudmundsson,Cross
+187385,39,SavedShot,0.8090000152587891,0.49900001525878906,0.03723667562007904,Ashley Barnes,a,4422,SetPiece,2017,LeftFoot,7341,Crystal Palace,Burnley,1,0,2018-01-13 15:00:00,James Tarkowski,HeadPass
+187391,51,MissedShots,0.9180000305175782,0.57,0.07200118154287338,Ashley Barnes,a,4422,OpenPlay,2017,Head,7341,Crystal Palace,Burnley,1,0,2018-01-13 15:00:00,Johann Berg Gudmundsson,Cross
+187393,55,MissedShots,0.9309999847412109,0.4129999923706055,0.07973997294902802,Sam Vokes,a,1661,OpenPlay,2017,Head,7341,Crystal Palace,Burnley,1,0,2018-01-13 15:00:00,Steven Defour,Cross
+187396,61,MissedShots,0.8169999694824219,0.5540000152587891,0.04573938995599747,Jack Cork,a,712,OpenPlay,2017,RightFoot,7341,Crystal Palace,Burnley,1,0,2018-01-13 15:00:00,,None
+187400,83,SavedShot,0.88,0.509000015258789,0.2772930860519409,Ashley Barnes,a,4422,OpenPlay,2017,RightFoot,7341,Crystal Palace,Burnley,1,0,2018-01-13 15:00:00,Steven Defour,Chipped
+187402,91,MissedShots,0.875999984741211,0.4929999923706055,0.021846920251846313,Sam Vokes,a,1661,OpenPlay,2017,Head,7341,Crystal Palace,Burnley,1,0,2018-01-13 15:00:00,Steven Defour,Aerial

@@ -1,0 +1,30 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+150427,4,Goal,0.7880000305175782,0.3920000076293945,0.030037423595786095,Bruno Fernandes,h,1228,OpenPlay,2016,RightFoot,3643,Sampdoria,Fiorentina,2,2,2017-04-09 11:30:00,,None
+150428,7,MissedShots,0.7780000305175782,0.5420000076293945,0.04227815195918083,Fabio Quagliarella,h,1230,OpenPlay,2016,LeftFoot,3643,Sampdoria,Fiorentina,2,2,2017-04-09 11:30:00,Bruno Fernandes,Pass
+150430,20,MissedShots,0.9269999694824219,0.6780000305175782,0.0365397147834301,Patrik Schick,h,1236,OpenPlay,2016,LeftFoot,3643,Sampdoria,Fiorentina,2,2,2017-04-09 11:30:00,Fabio Quagliarella,Cross
+150431,21,SavedShot,0.9169999694824219,0.5720000076293945,0.4475831985473633,Bruno Fernandes,h,1228,OpenPlay,2016,LeftFoot,3643,Sampdoria,Fiorentina,2,2,2017-04-09 11:30:00,Patrik Schick,Pass
+150432,21,MissedShots,0.759000015258789,0.5370000076293945,0.033418212085962296,Lucas Torreira,h,1227,OpenPlay,2016,RightFoot,3643,Sampdoria,Fiorentina,2,2,2017-04-09 11:30:00,Dodô,Pass
+150434,31,MissedShots,0.565,0.6840000152587891,0.007781386375427246,Fabio Quagliarella,h,1230,OpenPlay,2016,RightFoot,3643,Sampdoria,Fiorentina,2,2,2017-04-09 11:30:00,,None
+150435,34,BlockedShot,0.8069999694824219,0.34900001525878904,0.047032926231622696,Fabio Quagliarella,h,1230,OpenPlay,2016,RightFoot,3643,Sampdoria,Fiorentina,2,2,2017-04-09 11:30:00,Bruno Fernandes,BallRecovery
+150440,53,SavedShot,0.7680000305175781,0.47200000762939454,0.03772834315896034,Edgar Barreto,h,1225,OpenPlay,2016,RightFoot,3643,Sampdoria,Fiorentina,2,2,2017-04-09 11:30:00,Bruno Fernandes,Pass
+150444,62,MissedShots,0.8430000305175781,0.3729999923706055,0.0634024366736412,Bruno Fernandes,h,1228,OpenPlay,2016,RightFoot,3643,Sampdoria,Fiorentina,2,2,2017-04-09 11:30:00,Patrik Schick,TakeOn
+150447,70,Goal,0.9019999694824219,0.674000015258789,0.07059993594884872,Ricardo Álvarez,h,1231,OpenPlay,2016,LeftFoot,3643,Sampdoria,Fiorentina,2,2,2017-04-09 11:30:00,Patrik Schick,Pass
+150429,19,MissedShots,0.7919999694824219,0.3579999923706055,0.08120933920145035,Federico Bernardeschi,a,1424,DirectFreekick,2016,LeftFoot,3643,Sampdoria,Fiorentina,2,2,2017-04-09 11:30:00,,Standard
+150433,22,MissedShots,0.765,0.305,0.014744251035153866,Khouma Babacar,a,1434,OpenPlay,2016,RightFoot,3643,Sampdoria,Fiorentina,2,2,2017-04-09 11:30:00,Carlos Sánchez,BallRecovery
+150436,39,SavedShot,0.895,0.29200000762939454,0.015433043241500854,Cristian Tello,a,1421,OpenPlay,2016,LeftFoot,3643,Sampdoria,Fiorentina,2,2,2017-04-09 11:30:00,,Aerial
+150437,40,BlockedShot,0.805,0.4540000152587891,0.03181010112166405,Federico Bernardeschi,a,1424,FromCorner,2016,LeftFoot,3643,Sampdoria,Fiorentina,2,2,2017-04-09 11:30:00,,None
+150438,43,MissedShots,0.9009999847412109,0.5779999923706055,0.060349248349666595,Federico Bernardeschi,a,1424,SetPiece,2016,Head,3643,Sampdoria,Fiorentina,2,2,2017-04-09 11:30:00,Josip Ilicic,Cross
+150439,45,MissedShots,0.9459999847412109,0.524000015258789,0.4401135742664337,Carlos Sánchez,a,667,FromCorner,2016,Head,3643,Sampdoria,Fiorentina,2,2,2017-04-09 11:30:00,Federico Bernardeschi,Cross
+150441,55,ShotOnPost,0.894000015258789,0.2670000076293945,0.029219096526503563,Cristian Tello,a,1421,OpenPlay,2016,RightFoot,3643,Sampdoria,Fiorentina,2,2,2017-04-09 11:30:00,Milan Badelj,TakeOn
+150442,58,BlockedShot,0.815,0.48700000762939455,0.05803413689136505,Khouma Babacar,a,1434,OpenPlay,2016,RightFoot,3643,Sampdoria,Fiorentina,2,2,2017-04-09 11:30:00,Cristian Tello,Pass
+150443,59,Goal,0.9730000305175781,0.5990000152587891,0.015924885869026184,Gonzalo Rodríguez,a,1418,FromCorner,2016,Head,3643,Sampdoria,Fiorentina,2,2,2017-04-09 11:30:00,Borja Valero,Aerial
+150445,67,BlockedShot,0.76,0.5779999923706055,0.025037631392478943,Federico Bernardeschi,a,1424,OpenPlay,2016,LeftFoot,3643,Sampdoria,Fiorentina,2,2,2017-04-09 11:30:00,Milan Badelj,Pass
+150446,68,MissedShots,0.9690000152587891,0.6480000305175782,0.012382271699607372,Davide Astori,a,1419,FromCorner,2016,Head,3643,Sampdoria,Fiorentina,2,2,2017-04-09 11:30:00,Borja Valero,Cross
+150448,71,MissedShots,0.9159999847412109,0.42700000762939455,0.11753261834383011,Nikola Kalinic,a,1425,OpenPlay,2016,LeftFoot,3643,Sampdoria,Fiorentina,2,2,2017-04-09 11:30:00,Cristian Tello,Pass
+150449,72,MissedShots,0.8009999847412109,0.5540000152587891,0.03914880007505417,Milan Badelj,a,1430,OpenPlay,2016,RightFoot,3643,Sampdoria,Fiorentina,2,2,2017-04-09 11:30:00,,None
+150450,78,ShotOnPost,0.925,0.539000015258789,0.0983801856637001,Nikola Kalinic,a,1425,OpenPlay,2016,Head,3643,Sampdoria,Fiorentina,2,2,2017-04-09 11:30:00,Cristian Tello,Cross
+150451,79,BlockedShot,0.915,0.62,0.08858954161405563,Federico Bernardeschi,a,1424,OpenPlay,2016,LeftFoot,3643,Sampdoria,Fiorentina,2,2,2017-04-09 11:30:00,Federico Chiesa,Pass
+150452,88,Goal,0.779000015258789,0.5709999847412109,0.030018990859389305,Khouma Babacar,a,1434,OpenPlay,2016,RightFoot,3643,Sampdoria,Fiorentina,2,2,2017-04-09 11:30:00,Riccardo Saponara,Pass
+150453,91,BlockedShot,0.86,0.6969999694824218,0.04284832999110222,Federico Chiesa,a,1433,OpenPlay,2016,RightFoot,3643,Sampdoria,Fiorentina,2,2,2017-04-09 11:30:00,Milan Badelj,Chipped
+150454,91,MissedShots,0.7680000305175781,0.49700000762939456,0.020794637501239777,Riccardo Saponara,a,1313,OpenPlay,2016,RightFoot,3643,Sampdoria,Fiorentina,2,2,2017-04-09 11:30:00,,Rebound
+150455,93,SavedShot,0.9169999694824219,0.6719999694824219,0.28766050934791565,Khouma Babacar,a,1434,OpenPlay,2016,RightFoot,3643,Sampdoria,Fiorentina,2,2,2017-04-09 11:30:00,Milan Badelj,Chipped

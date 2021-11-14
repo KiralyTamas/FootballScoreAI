@@ -1,0 +1,31 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+18251,11,Goal,0.8519999694824218,0.46599998474121096,0.08978572487831116,Wayne Rooney,h,629,OpenPlay,2014,RightFoot,4616,Manchester United,Liverpool,3,0,2014-12-14 13:30:00,Antonio Valencia,Pass
+18255,39,MissedShots,0.9009999847412109,0.610999984741211,0.039374131709337234,Robin van Persie,h,4387,OpenPlay,2014,Head,4616,Manchester United,Liverpool,3,0,2014-12-14 13:30:00,Ashley Young,Cross
+18256,39,Goal,0.970999984741211,0.44599998474121094,0.569312334060669,Juan Mata,h,554,OpenPlay,2014,Head,4616,Manchester United,Liverpool,3,0,2014-12-14 13:30:00,Robin van Persie,Rebound
+18261,51,SavedShot,0.8690000152587891,0.605999984741211,0.11087855696678162,Wayne Rooney,h,629,OpenPlay,2014,LeftFoot,4616,Manchester United,Liverpool,3,0,2014-12-14 13:30:00,Robin van Persie,Pass
+18262,54,MissedShots,0.7119999694824218,0.509000015258789,0.02089843899011612,James Wilson,h,992,OpenPlay,2014,LeftFoot,4616,Manchester United,Liverpool,3,0,2014-12-14 13:30:00,Juan Mata,Pass
+18267,63,MissedShots,0.914000015258789,0.42200000762939455,0.47795841097831726,Robin van Persie,h,4387,OpenPlay,2014,LeftFoot,4616,Manchester United,Liverpool,3,0,2014-12-14 13:30:00,Antonio Valencia,Pass
+18271,70,Goal,0.885,0.375,0.3498042821884155,Robin van Persie,h,4387,OpenPlay,2014,LeftFoot,4616,Manchester United,Liverpool,3,0,2014-12-14 13:30:00,Juan Mata,Pass
+18272,80,SavedShot,0.77,0.705999984741211,0.016997510567307472,Robin van Persie,h,4387,OpenPlay,2014,LeftFoot,4616,Manchester United,Liverpool,3,0,2014-12-14 13:30:00,Ander Herrera,Pass
+18276,86,SavedShot,0.8540000152587891,0.5579999923706055,0.06821437180042267,Robin van Persie,h,4387,OpenPlay,2014,LeftFoot,4616,Manchester United,Liverpool,3,0,2014-12-14 13:30:00,,TakeOn
+18277,89,BlockedShot,0.735999984741211,0.555,0.053574852645397186,Falcao,h,696,DirectFreekick,2014,RightFoot,4616,Manchester United,Liverpool,3,0,2014-12-14 13:30:00,,Standard
+18278,89,BlockedShot,0.7819999694824219,0.5179999923706055,0.022238655015826225,Falcao,h,696,SetPiece,2014,RightFoot,4616,Manchester United,Liverpool,3,0,2014-12-14 13:30:00,,Rebound
+18249,1,BlockedShot,0.9430000305175781,0.45599998474121095,0.1354808211326599,Dejan Lovren,a,602,FromCorner,2014,RightFoot,4616,Manchester United,Liverpool,3,0,2014-12-14 13:30:00,Philippe Coutinho,HeadPass
+18250,11,SavedShot,0.9269999694824219,0.5979999923706054,0.3842390477657318,Raheem Sterling,a,618,OpenPlay,2014,LeftFoot,4616,Manchester United,Liverpool,3,0,2014-12-14 13:30:00,Adam Lallana,Throughball
+18252,17,SavedShot,0.735,0.5629999923706055,0.018050452694296837,Steven Gerrard,a,4408,OpenPlay,2014,RightFoot,4616,Manchester United,Liverpool,3,0,2014-12-14 13:30:00,Raheem Sterling,Pass
+18253,22,SavedShot,0.960999984741211,0.654000015258789,0.06969720125198364,Raheem Sterling,a,618,OpenPlay,2014,LeftFoot,4616,Manchester United,Liverpool,3,0,2014-12-14 13:30:00,Alberto Moreno,TakeOn
+18254,33,BlockedShot,0.7819999694824219,0.5920000076293945,0.028195539489388466,Joe Allen,a,480,FromCorner,2014,RightFoot,4616,Manchester United,Liverpool,3,0,2014-12-14 13:30:00,Philippe Coutinho,Pass
+18257,41,SavedShot,0.9,0.5420000076293945,0.08769188076257706,Raheem Sterling,a,618,OpenPlay,2014,Head,4616,Manchester United,Liverpool,3,0,2014-12-14 13:30:00,Jordan Henderson,Cross
+18258,45,MissedShots,0.7140000152587891,0.54,0.013629347085952759,Alberto Moreno,a,608,FromCorner,2014,LeftFoot,4616,Manchester United,Liverpool,3,0,2014-12-14 13:30:00,,None
+18259,46,MissedShots,0.895,0.5590000152587891,0.04708921164274216,Jordan Henderson,a,605,OpenPlay,2014,Head,4616,Manchester United,Liverpool,3,0,2014-12-14 13:30:00,Raheem Sterling,Cross
+18260,50,SavedShot,0.8859999847412109,0.6,0.26436683535575867,Raheem Sterling,a,618,OpenPlay,2014,LeftFoot,4616,Manchester United,Liverpool,3,0,2014-12-14 13:30:00,,None
+18263,55,BlockedShot,0.7030000305175781,0.7240000152587891,0.009689639322459698,Mario Balotelli,a,1817,OpenPlay,2014,RightFoot,4616,Manchester United,Liverpool,3,0,2014-12-14 13:30:00,Dejan Lovren,Pass
+18264,56,BlockedShot,0.7080000305175781,0.40400001525878904,0.03820035979151726,Mario Balotelli,a,1817,DirectFreekick,2014,RightFoot,4616,Manchester United,Liverpool,3,0,2014-12-14 13:30:00,,Standard
+18265,59,BlockedShot,0.7240000152587891,0.6780000305175782,0.009890095330774784,Dejan Lovren,a,602,OpenPlay,2014,LeftFoot,4616,Manchester United,Liverpool,3,0,2014-12-14 13:30:00,Steven Gerrard,Pass
+18266,59,BlockedShot,0.775,0.6880000305175781,0.014732735231518745,Raheem Sterling,a,618,OpenPlay,2014,RightFoot,4616,Manchester United,Liverpool,3,0,2014-12-14 13:30:00,Alberto Moreno,Pass
+18268,66,SavedShot,0.905,0.4329999923706055,0.11563686281442642,Mario Balotelli,a,1817,OpenPlay,2014,RightFoot,4616,Manchester United,Liverpool,3,0,2014-12-14 13:30:00,Raheem Sterling,Pass
+18269,66,MissedShots,0.8209999847412109,0.4640000152587891,0.019479991868138313,Kolo Touré,a,476,FromCorner,2014,RightFoot,4616,Manchester United,Liverpool,3,0,2014-12-14 13:30:00,Steven Gerrard,HeadPass
+18270,66,BlockedShot,0.9540000152587891,0.5479999923706055,0.14400163292884827,Mario Balotelli,a,1817,FromCorner,2014,RightFoot,4616,Manchester United,Liverpool,3,0,2014-12-14 13:30:00,Kolo Touré,Rebound
+18273,81,SavedShot,0.9,0.455,0.12061841785907745,Mario Balotelli,a,1817,OpenPlay,2014,RightFoot,4616,Manchester United,Liverpool,3,0,2014-12-14 13:30:00,Jordan Henderson,Pass
+18274,83,MissedShots,0.7140000152587891,0.5120000076293946,0.011558405123651028,Mario Balotelli,a,1817,OpenPlay,2014,RightFoot,4616,Manchester United,Liverpool,3,0,2014-12-14 13:30:00,Raheem Sterling,Pass
+18275,84,SavedShot,0.9180000305175782,0.43400001525878906,0.34169912338256836,Mario Balotelli,a,1817,OpenPlay,2014,RightFoot,4616,Manchester United,Liverpool,3,0,2014-12-14 13:30:00,Lazar Markovic,Throughball

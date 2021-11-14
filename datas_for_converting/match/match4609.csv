@@ -1,0 +1,23 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+17717,0,MissedShots,0.9330000305175781,0.4929999923706055,0.14455761015415192,Danny Ings,h,986,OpenPlay,2014,Head,4609,Burnley,Southampton,1,0,2014-12-13 15:00:00,George Boyd,Cross
+17719,2,MissedShots,0.7730000305175782,0.46700000762939453,0.031854938715696335,Danny Ings,h,986,OpenPlay,2014,RightFoot,4609,Burnley,Southampton,1,0,2014-12-13 15:00:00,Ashley Barnes,Pass
+17723,35,BlockedShot,0.735,0.5420000076293945,0.05368955433368683,Kieran Trippier,h,652,DirectFreekick,2014,RightFoot,4609,Burnley,Southampton,1,0,2014-12-13 15:00:00,,Standard
+17724,35,MissedShots,0.759000015258789,0.52,0.01676829531788826,Kieran Trippier,h,652,SetPiece,2014,RightFoot,4609,Burnley,Southampton,1,0,2014-12-13 15:00:00,,Rebound
+17725,36,BlockedShot,0.750999984741211,0.46599998474121096,0.04765662923455238,Danny Ings,h,986,OpenPlay,2014,RightFoot,4609,Burnley,Southampton,1,0,2014-12-13 15:00:00,Ashley Barnes,BallRecovery
+17732,66,SavedShot,0.774000015258789,0.48700000762939455,0.031057167798280716,Danny Ings,h,986,OpenPlay,2014,LeftFoot,4609,Burnley,Southampton,1,0,2014-12-13 15:00:00,Kieran Trippier,Pass
+17733,72,Goal,0.9109999847412109,0.6559999847412109,0.07147423177957535,Ashley Barnes,h,4422,OpenPlay,2014,RightFoot,4609,Burnley,Southampton,1,0,2014-12-13 15:00:00,Danny Ings,BlockedPass
+17718,1,MissedShots,0.9280000305175782,0.7140000152587891,0.049206096678972244,Jake Hesketh,a,1755,OpenPlay,2014,RightFoot,4609,Burnley,Southampton,1,0,2014-12-13 15:00:00,Dusan Tadic,Pass
+17720,8,SavedShot,0.779000015258789,0.634000015258789,0.03459484130144119,Jake Hesketh,a,1755,OpenPlay,2014,LeftFoot,4609,Burnley,Southampton,1,0,2014-12-13 15:00:00,Sadio Mané,LayOff
+17721,21,MissedShots,0.7880000305175782,0.6530000305175782,0.023242730647325516,Ryan Bertrand,a,835,FromCorner,2014,LeftFoot,4609,Burnley,Southampton,1,0,2014-12-13 15:00:00,Steven Davis,Pass
+17722,29,BlockedShot,0.8630000305175781,0.37099998474121093,0.040456824004650116,Victor Wanyama,a,836,OpenPlay,2014,RightFoot,4609,Burnley,Southampton,1,0,2014-12-13 15:00:00,Nathaniel Clyne,Cross
+17726,39,SavedShot,0.7290000152587891,0.5329999923706055,0.014468471519649029,James Ward-Prowse,a,843,OpenPlay,2014,LeftFoot,4609,Burnley,Southampton,1,0,2014-12-13 15:00:00,,None
+17727,57,MissedShots,0.8690000152587891,0.600999984741211,0.08969469368457794,Sadio Mané,a,838,OpenPlay,2014,RightFoot,4609,Burnley,Southampton,1,0,2014-12-13 15:00:00,Steven Davis,Pass
+17728,59,SavedShot,0.885,0.5,0.7611688375473022,Dusan Tadic,a,840,Penalty,2014,LeftFoot,4609,Burnley,Southampton,1,0,2014-12-13 15:00:00,,Standard
+17729,60,MissedShots,0.7869999694824219,0.31799999237060544,0.02049705944955349,Dusan Tadic,a,840,FromCorner,2014,LeftFoot,4609,Burnley,Southampton,1,0,2014-12-13 15:00:00,Steven Davis,Pass
+17730,63,MissedShots,0.7519999694824219,0.2520000076293945,0.00926738977432251,Dusan Tadic,a,840,OpenPlay,2014,LeftFoot,4609,Burnley,Southampton,1,0,2014-12-13 15:00:00,James Ward-Prowse,Chipped
+17731,63,MissedShots,0.9280000305175782,0.36900001525878906,0.07826275378465652,Graziano Pellè,a,841,OpenPlay,2014,RightFoot,4609,Burnley,Southampton,1,0,2014-12-13 15:00:00,Dusan Tadic,Rebound
+17734,74,SavedShot,0.9180000305175782,0.47900001525878905,0.11967259645462036,José Fonte,a,834,SetPiece,2014,Head,4609,Burnley,Southampton,1,0,2014-12-13 15:00:00,James Ward-Prowse,Cross
+17735,80,MissedShots,0.7340000152587891,0.36400001525878906,0.04518510401248932,James Ward-Prowse,a,843,DirectFreekick,2014,RightFoot,4609,Burnley,Southampton,1,0,2014-12-13 15:00:00,,Standard
+17736,86,MissedShots,0.7659999847412109,0.3139999961853027,0.020700303837656975,Nathaniel Clyne,a,603,FromCorner,2014,RightFoot,4609,Burnley,Southampton,1,0,2014-12-13 15:00:00,Steven Davis,Pass
+17737,90,MissedShots,0.8169999694824219,0.529000015258789,0.034453973174095154,Shane Long,a,839,OpenPlay,2014,RightFoot,4609,Burnley,Southampton,1,0,2014-12-13 15:00:00,Graziano Pellè,HeadPass
+17738,93,MissedShots,0.9309999847412109,0.539000015258789,0.37285757064819336,Victor Wanyama,a,836,OpenPlay,2014,Head,4609,Burnley,Southampton,1,0,2014-12-13 15:00:00,James Ward-Prowse,Cross

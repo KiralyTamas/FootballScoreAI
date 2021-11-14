@@ -1,0 +1,23 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+53299,1,Goal,0.995,0.995,0.012513753958046436,Junior Stanislas,h,463,FromCorner,2015,RightFoot,236,Bournemouth,Manchester United,2,1,2015-12-12 21:30:00,,CornerAwarded
+53303,13,MissedShots,0.745999984741211,0.3270000076293945,0.045647259801626205,Junior Stanislas,h,463,DirectFreekick,2015,RightFoot,236,Bournemouth,Manchester United,2,1,2015-12-12 21:30:00,,Standard
+53307,27,SavedShot,0.775,0.6580000305175782,0.020854772999882698,Junior Stanislas,h,463,FromCorner,2015,RightFoot,236,Bournemouth,Manchester United,2,1,2015-12-12 21:30:00,Harry Arter,Pass
+53308,33,MissedShots,0.9130000305175782,0.5770000076293945,0.1271367222070694,Joshua King,h,465,OpenPlay,2015,LeftFoot,236,Bournemouth,Manchester United,2,1,2015-12-12 21:30:00,Junior Stanislas,Pass
+53309,41,SavedShot,0.8009999847412109,0.40799999237060547,0.038560524582862854,Matt Ritchie,h,461,OpenPlay,2015,LeftFoot,236,Bournemouth,Manchester United,2,1,2015-12-12 21:30:00,Joshua King,Pass
+53310,46,MissedShots,0.8380000305175781,0.4909999847412109,0.013465090654790401,Matt Ritchie,h,461,OpenPlay,2015,Head,236,Bournemouth,Manchester United,2,1,2015-12-12 21:30:00,Joshua King,Cross
+53311,53,SavedShot,0.9430000305175781,0.31,0.09722565859556198,Simon Francis,h,456,OpenPlay,2015,RightFoot,236,Bournemouth,Manchester United,2,1,2015-12-12 21:30:00,Steve Cook,TakeOn
+53312,53,Goal,0.9059999847412109,0.46599998474121096,0.09234989434480667,Joshua King,h,465,FromCorner,2015,RightFoot,236,Bournemouth,Manchester United,2,1,2015-12-12 21:30:00,Matt Ritchie,Pass
+53316,70,MissedShots,0.91,0.435,0.4522455632686615,Glenn Murray,h,882,OpenPlay,2015,LeftFoot,236,Bournemouth,Manchester United,2,1,2015-12-12 21:30:00,Dan Gosling,TakeOn
+53317,72,MissedShots,0.935,0.47200000762939454,0.11968638747930527,Glenn Murray,h,882,FromCorner,2015,LeftFoot,236,Bournemouth,Manchester United,2,1,2015-12-12 21:30:00,,None
+53320,79,MissedShots,0.7809999847412109,0.655,0.030633747577667236,Harry Arter,h,881,OpenPlay,2015,LeftFoot,236,Bournemouth,Manchester United,2,1,2015-12-12 21:30:00,Dan Gosling,Pass
+53300,4,SavedShot,0.9230000305175782,0.5379999923706055,0.5325153470039368,Marouane Fellaini,a,630,SetPiece,2015,LeftFoot,236,Bournemouth,Manchester United,2,1,2015-12-12 21:30:00,,None
+53301,4,SavedShot,0.895,0.5479999923706055,0.0182428490370512,Paddy McNair,a,559,SetPiece,2015,Head,236,Bournemouth,Manchester United,2,1,2015-12-12 21:30:00,,Rebound
+53302,5,MissedShots,0.935,0.45599998474121095,0.09428558498620987,Paddy McNair,a,559,FromCorner,2015,RightFoot,236,Bournemouth,Manchester United,2,1,2015-12-12 21:30:00,Daley Blind,Error
+53304,17,MissedShots,0.8190000152587891,0.47400001525878904,0.2261379510164261,Anthony Martial,a,553,OpenPlay,2015,RightFoot,236,Bournemouth,Manchester United,2,1,2015-12-12 21:30:00,,BallRecovery
+53305,23,SavedShot,0.899000015258789,0.590999984741211,0.08023686707019806,Memphis Depay,a,555,OpenPlay,2015,RightFoot,236,Bournemouth,Manchester United,2,1,2015-12-12 21:30:00,Michael Carrick,Chipped
+53306,23,Goal,0.9590000152587891,0.49900001525878906,0.6941581964492798,Marouane Fellaini,a,630,OpenPlay,2015,RightFoot,236,Bournemouth,Manchester United,2,1,2015-12-12 21:30:00,,Rebound
+53313,55,SavedShot,0.88,0.5320000076293945,0.07406526058912277,Marouane Fellaini,a,630,OpenPlay,2015,RightFoot,236,Bournemouth,Manchester United,2,1,2015-12-12 21:30:00,,None
+53314,59,BlockedShot,0.895,0.6270000076293946,0.06138459965586662,Marouane Fellaini,a,630,OpenPlay,2015,RightFoot,236,Bournemouth,Manchester United,2,1,2015-12-12 21:30:00,,None
+53315,60,BlockedShot,0.9069999694824219,0.48700000762939455,0.10668767243623734,Marouane Fellaini,a,630,FromCorner,2015,LeftFoot,236,Bournemouth,Manchester United,2,1,2015-12-12 21:30:00,,None
+53318,73,BlockedShot,0.8219999694824218,0.5179999923706055,0.05011232569813728,Michael Carrick,a,654,SetPiece,2015,RightFoot,236,Bournemouth,Manchester United,2,1,2015-12-12 21:30:00,,None
+53319,76,MissedShots,0.875,0.555,0.09526737034320831,Anthony Martial,a,553,OpenPlay,2015,LeftFoot,236,Bournemouth,Manchester United,2,1,2015-12-12 21:30:00,,TakeOn

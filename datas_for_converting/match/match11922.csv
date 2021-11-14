@@ -1,0 +1,25 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+353292,12,BlockedShot,0.91,0.34799999237060547,0.11673308908939362,Jarrod Bowen,h,1776,OpenPlay,2019,RightFoot,11922,West Ham,Southampton,3,1,2020-02-29 15:00:00,Michail Antonio,Pass
+353293,14,Goal,0.9459999847412109,0.590999984741211,0.42005065083503723,Jarrod Bowen,h,1776,OpenPlay,2019,LeftFoot,11922,West Ham,Southampton,3,1,2020-02-29 15:00:00,Pablo Fornals,Pass
+353294,18,SavedShot,0.9130000305175782,0.5070000076293946,0.1256534457206726,Sébastien Haller,h,6144,OpenPlay,2019,Head,11922,West Ham,Southampton,3,1,2020-02-29 15:00:00,Michail Antonio,Cross
+353295,22,SavedShot,0.7859999847412109,0.5270000076293946,0.04294866696000099,Jarrod Bowen,h,1776,OpenPlay,2019,LeftFoot,11922,West Ham,Southampton,3,1,2020-02-29 15:00:00,Declan Rice,Pass
+353299,36,MissedShots,0.9230000305175782,0.5220000076293946,0.31250813603401184,Issa Diop,h,3203,FromCorner,2019,Head,11922,West Ham,Southampton,3,1,2020-02-29 15:00:00,Aaron Cresswell,Cross
+353300,37,BlockedShot,0.7780000305175782,0.3729999923706055,0.021328089758753777,Declan Rice,h,5553,OpenPlay,2019,RightFoot,11922,West Ham,Southampton,3,1,2020-02-29 15:00:00,Sébastien Haller,Pass
+353301,39,Goal,0.9930000305175781,0.4370000076293945,0.5951558351516724,Sébastien Haller,h,6144,OpenPlay,2019,RightFoot,11922,West Ham,Southampton,3,1,2020-02-29 15:00:00,Michail Antonio,Aerial
+353305,52,SavedShot,0.8969999694824219,0.754000015258789,0.04442374035716057,Pablo Fornals,h,2335,OpenPlay,2019,RightFoot,11922,West Ham,Southampton,3,1,2020-02-29 15:00:00,Mark Noble,Chipped
+353306,53,Goal,0.8959999847412109,0.5179999923706055,0.4197350740432739,Michail Antonio,h,531,OpenPlay,2019,RightFoot,11922,West Ham,Southampton,3,1,2020-02-29 15:00:00,Pablo Fornals,Throughball
+353307,60,SavedShot,0.8619999694824219,0.5529999923706055,0.5259534120559692,Michail Antonio,h,531,OpenPlay,2019,RightFoot,11922,West Ham,Southampton,3,1,2020-02-29 15:00:00,Sébastien Haller,Throughball
+353308,62,MissedShots,0.9019999694824219,0.44,0.03706696256995201,Sébastien Haller,h,6144,OpenPlay,2019,Head,11922,West Ham,Southampton,3,1,2020-02-29 15:00:00,,Aerial
+353310,67,MissedShots,0.8880000305175781,0.5029999923706054,0.06308288872241974,Angelo Ogbonna,h,528,FromCorner,2019,LeftFoot,11922,West Ham,Southampton,3,1,2020-02-29 15:00:00,Jarrod Bowen,Cross
+353311,69,MissedShots,0.775,0.654000015258789,0.026494046673178673,Pablo Fornals,h,2335,OpenPlay,2019,RightFoot,11922,West Ham,Southampton,3,1,2020-02-29 15:00:00,Michail Antonio,BallTouch
+353312,71,MissedShots,0.7480000305175781,0.36400001525878906,0.03568345680832863,Jarrod Bowen,h,1776,OpenPlay,2019,LeftFoot,11922,West Ham,Southampton,3,1,2020-02-29 15:00:00,,None
+353296,27,BlockedShot,0.8519999694824218,0.34200000762939453,0.03448822349309921,Pierre-Emile Højbjerg,a,343,FromCorner,2019,RightFoot,11922,West Ham,Southampton,3,1,2020-02-29 15:00:00,,None
+353297,30,Goal,0.8830000305175781,0.43900001525878907,0.3876991271972656,Michael Obafemi,a,6504,OpenPlay,2019,RightFoot,11922,West Ham,Southampton,3,1,2020-02-29 15:00:00,James Ward-Prowse,Pass
+353298,34,MissedShots,0.904000015258789,0.5209999847412109,0.1347547471523285,William Smallbone,a,8224,OpenPlay,2019,LeftFoot,11922,West Ham,Southampton,3,1,2020-02-29 15:00:00,Sofiane Boufal,Pass
+353302,41,BlockedShot,0.765,0.485,0.02368328347802162,Stuart Armstrong,a,6893,OpenPlay,2019,LeftFoot,11922,West Ham,Southampton,3,1,2020-02-29 15:00:00,James Ward-Prowse,BallTouch
+353303,43,BlockedShot,0.88,0.645,0.0415235310792923,Shane Long,a,839,FromCorner,2019,RightFoot,11922,West Ham,Southampton,3,1,2020-02-29 15:00:00,Sofiane Boufal,BallTouch
+353304,47,MissedShots,0.914000015258789,0.505,0.08605068922042847,Michael Obafemi,a,6504,OpenPlay,2019,Head,11922,West Ham,Southampton,3,1,2020-02-29 15:00:00,Pierre-Emile Højbjerg,Cross
+353309,64,SavedShot,0.7609999847412109,0.4640000152587891,0.01716618239879608,Ryan Bertrand,a,835,SetPiece,2019,LeftFoot,11922,West Ham,Southampton,3,1,2020-02-29 15:00:00,,None
+353313,76,BlockedShot,0.9069999694824219,0.445,0.058262523263692856,Pierre-Emile Højbjerg,a,343,FromCorner,2019,Head,11922,West Ham,Southampton,3,1,2020-02-29 15:00:00,Ryan Bertrand,Cross
+353314,76,MissedShots,0.7559999847412109,0.5420000076293945,0.024915816262364388,Stuart Armstrong,a,6893,FromCorner,2019,RightFoot,11922,West Ham,Southampton,3,1,2020-02-29 15:00:00,,Rebound
+353315,85,BlockedShot,0.8480000305175781,0.3659999847412109,0.061480678617954254,Danny Ings,a,986,OpenPlay,2019,RightFoot,11922,West Ham,Southampton,3,1,2020-02-29 15:00:00,James Ward-Prowse,Pass

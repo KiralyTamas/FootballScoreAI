@@ -1,0 +1,15 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+328859,29,BlockedShot,0.784000015258789,0.5659999847412109,0.0332074910402298,Konstantin Rausch,h,13,OpenPlay,2019,RightFoot,11141,Dinamo Moscow,FK Akhmat,1,1,2019-11-02 11:00:00,,None
+328860,30,SavedShot,0.885,0.5,0.7542753219604492,Kirill Panchenko,h,2887,Penalty,2019,RightFoot,11141,Dinamo Moscow,FK Akhmat,1,1,2019-11-02 11:00:00,,Standard
+328861,31,MissedShots,0.9830000305175781,0.5820000076293945,0.0640307292342186,Ivan Ordets,h,7632,FromCorner,2019,Head,11141,Dinamo Moscow,FK Akhmat,1,1,2019-11-02 11:00:00,Konstantin Rausch,Cross
+328864,64,BlockedShot,0.8619999694824219,0.629000015258789,0.045554276555776596,Sebastian Szymanski,h,7631,OpenPlay,2019,LeftFoot,11141,Dinamo Moscow,FK Akhmat,1,1,2019-11-02 11:00:00,Maximilian Philipp,Cross
+328867,92,Goal,0.9419999694824219,0.5329999923706055,0.12148887664079666,Ivan Ordets,h,7632,FromCorner,2019,Head,11141,Dinamo Moscow,FK Akhmat,1,1,2019-11-02 11:00:00,Konstantin Rausch,Cross
+328854,9,BlockedShot,0.8030000305175782,0.38599998474121094,0.028871046379208565,Denis Glushakov,a,2814,FromCorner,2019,RightFoot,11141,Dinamo Moscow,FK Akhmat,1,1,2019-11-02 11:00:00,Ismael,Cross
+328855,12,BlockedShot,0.71,0.43900001525878907,0.01224693562835455,Bernard Berisha,a,2946,OpenPlay,2019,RightFoot,11141,Dinamo Moscow,FK Akhmat,1,1,2019-11-02 11:00:00,Andrés Ponce,HeadPass
+328856,15,SavedShot,0.7759999847412109,0.7240000152587891,0.016324063763022423,Denis Glushakov,a,2814,OpenPlay,2019,LeftFoot,11141,Dinamo Moscow,FK Akhmat,1,1,2019-11-02 11:00:00,Ismael,TakeOn
+328857,21,SavedShot,0.755,0.5629999923706055,0.02365366369485855,Evgeny Kharin,a,7123,OpenPlay,2019,LeftFoot,11141,Dinamo Moscow,FK Akhmat,1,1,2019-11-02 11:00:00,Andrey Semenov,Pass
+328858,23,SavedShot,0.9319999694824219,0.500999984741211,0.07451119273900986,Anton Shvets,a,4199,SetPiece,2019,Head,11141,Dinamo Moscow,FK Akhmat,1,1,2019-11-02 11:00:00,Ismael,Aerial
+328862,42,Goal,0.885,0.5,0.7542753219604492,Andrés Ponce,a,1811,Penalty,2019,RightFoot,11141,Dinamo Moscow,FK Akhmat,1,1,2019-11-02 11:00:00,,Standard
+328863,52,MissedShots,0.7080000305175781,0.605,0.01512675080448389,Ismael,a,6024,OpenPlay,2019,RightFoot,11141,Dinamo Moscow,FK Akhmat,1,1,2019-11-02 11:00:00,Evgeny Kharin,Pass
+328865,65,MissedShots,0.725999984741211,0.69,0.012921025045216084,Roland Gigolaev,a,2835,OpenPlay,2019,LeftFoot,11141,Dinamo Moscow,FK Akhmat,1,1,2019-11-02 11:00:00,Anton Shvets,TakeOn
+328866,87,SavedShot,0.8809999847412109,0.5370000076293945,0.5210710167884827,Magomed Mitrishev,a,2867,OpenPlay,2019,LeftFoot,11141,Dinamo Moscow,FK Akhmat,1,1,2019-11-02 11:00:00,Andrés Ponce,Pass

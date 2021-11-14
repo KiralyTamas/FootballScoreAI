@@ -1,0 +1,31 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+114284,0,Goal,0.885,0.629000015258789,0.46954724192619324,Pedro,h,687,OpenPlay,2016,LeftFoot,550,Chelsea,Manchester United,4,0,2016-10-23 19:00:00,Marcos Alonso,TakeOn
+114286,9,MissedShots,0.885,0.51,0.037476010620594025,Eden Hazard,h,701,OpenPlay,2016,Head,550,Chelsea,Manchester United,4,0,2016-10-23 19:00:00,César Azpilicueta,Aerial
+114287,13,MissedShots,0.84,0.45099998474121095,0.040289901196956635,Eden Hazard,h,701,FromCorner,2016,RightFoot,550,Chelsea,Manchester United,4,0,2016-10-23 19:00:00,Pedro,Cross
+114288,20,Goal,0.9530000305175781,0.509000015258789,0.5926910042762756,Gary Cahill,h,699,FromCorner,2016,RightFoot,550,Chelsea,Manchester United,4,0,2016-10-23 19:00:00,,None
+114290,26,BlockedShot,0.9630000305175781,0.44299999237060544,0.14678038656711578,Diego Costa,h,802,OpenPlay,2016,RightFoot,550,Chelsea,Manchester United,4,0,2016-10-23 19:00:00,Eden Hazard,Cross
+114296,47,BlockedShot,0.8880000305175781,0.5929999923706055,0.07220018655061722,Diego Costa,h,802,SetPiece,2016,RightFoot,550,Chelsea,Manchester United,4,0,2016-10-23 19:00:00,,None
+114297,47,BlockedShot,0.765,0.43900001525878907,0.018854964524507523,N&#039;Golo Kanté,h,751,FromCorner,2016,RightFoot,550,Chelsea,Manchester United,4,0,2016-10-23 19:00:00,,None
+114298,48,MissedShots,0.7709999847412109,0.49700000762939456,0.02870347537100315,Pedro,h,687,OpenPlay,2016,LeftFoot,550,Chelsea,Manchester United,4,0,2016-10-23 19:00:00,,None
+114299,55,BlockedShot,0.860999984741211,0.575,0.12577565014362335,Eden Hazard,h,701,OpenPlay,2016,LeftFoot,550,Chelsea,Manchester United,4,0,2016-10-23 19:00:00,Victor Moses,Pass
+114301,61,Goal,0.8880000305175781,0.615999984741211,0.10082238912582397,Eden Hazard,h,701,OpenPlay,2016,RightFoot,550,Chelsea,Manchester United,4,0,2016-10-23 19:00:00,Nemanja Matic,Pass
+114304,69,Goal,0.9059999847412109,0.44099998474121094,0.4652068316936493,N&#039;Golo Kanté,h,751,OpenPlay,2016,RightFoot,550,Chelsea,Manchester United,4,0,2016-10-23 19:00:00,Pedro,TakeOn
+114307,73,SavedShot,0.889000015258789,0.6730000305175782,0.06255482882261276,Diego Costa,h,802,OpenPlay,2016,LeftFoot,550,Chelsea,Manchester United,4,0,2016-10-23 19:00:00,N&#039;Golo Kanté,BallRecovery
+114310,87,BlockedShot,0.865,0.34900001525878904,0.05310351401567459,Victor Moses,h,541,OpenPlay,2016,LeftFoot,550,Chelsea,Manchester United,4,0,2016-10-23 19:00:00,Willian,TakeOn
+114311,89,SavedShot,0.7530000305175781,0.43400001525878906,0.037908703088760376,Nathaniel Chalobah,h,1677,OpenPlay,2016,RightFoot,550,Chelsea,Manchester United,4,0,2016-10-23 19:00:00,N&#039;Golo Kanté,Pass
+114285,7,MissedShots,0.9619999694824218,0.5579999923706055,0.06571310013532639,Zlatan Ibrahimovic,a,1741,OpenPlay,2016,Head,550,Chelsea,Manchester United,4,0,2016-10-23 19:00:00,Antonio Valencia,Aerial
+114289,22,BlockedShot,0.8619999694824219,0.5279999923706055,0.03720514848828316,Marcus Rashford,a,556,OpenPlay,2016,RightFoot,550,Chelsea,Manchester United,4,0,2016-10-23 19:00:00,Zlatan Ibrahimovic,HeadPass
+114291,27,SavedShot,0.7280000305175781,0.575999984741211,0.013845756649971008,Ander Herrera,a,552,OpenPlay,2016,LeftFoot,550,Chelsea,Manchester United,4,0,2016-10-23 19:00:00,Marouane Fellaini,Pass
+114292,27,SavedShot,0.9590000152587891,0.39799999237060546,0.0969204530119896,Jesse Lingard,a,558,OpenPlay,2016,RightFoot,550,Chelsea,Manchester United,4,0,2016-10-23 19:00:00,,Rebound
+114293,43,BlockedShot,0.72,0.31799999237060544,0.010890129022300243,Ander Herrera,a,552,OpenPlay,2016,RightFoot,550,Chelsea,Manchester United,4,0,2016-10-23 19:00:00,Jesse Lingard,Pass
+114294,45,BlockedShot,0.92,0.3890000152587891,0.06045395880937576,Ander Herrera,a,552,OpenPlay,2016,RightFoot,550,Chelsea,Manchester United,4,0,2016-10-23 19:00:00,Antonio Valencia,Cross
+114295,46,MissedShots,0.850999984741211,0.4809999847412109,0.04862457886338234,Marcus Rashford,a,556,OpenPlay,2016,RightFoot,550,Chelsea,Manchester United,4,0,2016-10-23 19:00:00,Antonio Valencia,Cross
+114300,57,SavedShot,0.7330000305175781,0.5990000152587891,0.016128629446029663,Jesse Lingard,a,558,OpenPlay,2016,RightFoot,550,Chelsea,Manchester United,4,0,2016-10-23 19:00:00,Ander Herrera,Pass
+114302,66,MissedShots,0.9159999847412109,0.43400001525878906,0.0962265282869339,Marcos Rojo,a,550,SetPiece,2016,Head,550,Chelsea,Manchester United,4,0,2016-10-23 19:00:00,Juan Mata,Cross
+114303,66,MissedShots,0.6859999847412109,0.6630000305175782,0.0075584338046610355,Ander Herrera,a,552,OpenPlay,2016,LeftFoot,550,Chelsea,Manchester United,4,0,2016-10-23 19:00:00,,BallRecovery
+114305,71,MissedShots,0.685,0.6990000152587891,0.007582877762615681,Paul Pogba,a,1740,OpenPlay,2016,RightFoot,550,Chelsea,Manchester United,4,0,2016-10-23 19:00:00,Anthony Martial,Pass
+114306,72,MissedShots,0.909000015258789,0.44799999237060545,0.08443772047758102,Zlatan Ibrahimovic,a,1741,SetPiece,2016,RightFoot,550,Chelsea,Manchester United,4,0,2016-10-23 19:00:00,Daley Blind,Cross
+114308,80,SavedShot,0.8769999694824219,0.6,0.05201326310634613,Zlatan Ibrahimovic,a,1741,OpenPlay,2016,RightFoot,550,Chelsea,Manchester United,4,0,2016-10-23 19:00:00,Juan Mata,Chipped
+114309,84,BlockedShot,0.6869999694824219,0.66,0.00796330813318491,Paul Pogba,a,1740,OpenPlay,2016,RightFoot,550,Chelsea,Manchester United,4,0,2016-10-23 19:00:00,Anthony Martial,Pass
+114312,90,BlockedShot,0.92,0.5690000152587891,0.12632322311401367,Zlatan Ibrahimovic,a,1741,OpenPlay,2016,LeftFoot,550,Chelsea,Manchester United,4,0,2016-10-23 19:00:00,Marcos Rojo,Pass
+114313,92,SavedShot,0.7340000152587891,0.6580000305175782,0.012259969487786293,Marcos Rojo,a,550,OpenPlay,2016,LeftFoot,550,Chelsea,Manchester United,4,0,2016-10-23 19:00:00,Ander Herrera,Pass

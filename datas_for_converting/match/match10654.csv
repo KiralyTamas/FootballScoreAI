@@ -1,0 +1,29 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+218080,3,MissedShots,0.785,0.37099998474121093,0.015016850084066391,Étienne Didot,h,3215,FromCorner,2018,RightFoot,10654,Guingamp,Paris Saint Germain,1,3,2018-08-18 18:00:00,,Aerial
+218081,3,BlockedShot,0.8130000305175781,0.35900001525878905,0.03599454462528229,Ludovic Blas,h,3475,OpenPlay,2018,LeftFoot,10654,Guingamp,Paris Saint Germain,1,3,2018-08-18 18:00:00,Nicolas Benezet,Pass
+218083,13,MissedShots,0.8969999694824219,0.565,0.10168388485908508,Nicolas Benezet,h,3574,OpenPlay,2018,RightFoot,10654,Guingamp,Paris Saint Germain,1,3,2018-08-18 18:00:00,Marcus Thuram,CornerAwarded
+218084,13,SavedShot,0.9059999847412109,0.500999984741211,0.48531678318977356,Nolan Roux,h,3512,OpenPlay,2018,RightFoot,10654,Guingamp,Paris Saint Germain,1,3,2018-08-18 18:00:00,Nicolas Benezet,None
+218085,13,SavedShot,0.779000015258789,0.39599998474121095,0.029597189277410507,Ludovic Blas,h,3475,FromCorner,2018,LeftFoot,10654,Guingamp,Paris Saint Germain,1,3,2018-08-18 18:00:00,Nicolas Benezet,Pass
+218086,15,BlockedShot,0.750999984741211,0.625,0.018238801509141922,Ludovic Blas,h,3475,OpenPlay,2018,LeftFoot,10654,Guingamp,Paris Saint Germain,1,3,2018-08-18 18:00:00,Pedro Rebocho,Pass
+218088,19,Goal,0.885,0.5459999847412109,0.3959980309009552,Nolan Roux,h,3512,OpenPlay,2018,RightFoot,10654,Guingamp,Paris Saint Germain,1,3,2018-08-18 18:00:00,Marcus Coco,Pass
+218089,22,MissedShots,0.85,0.5,0.06903738528490067,Nolan Roux,h,3512,OpenPlay,2018,RightFoot,10654,Guingamp,Paris Saint Germain,1,3,2018-08-18 18:00:00,Marcus Thuram,Cross
+218091,30,BlockedShot,0.8219999694824218,0.5609999847412109,0.06367815285921097,Étienne Didot,h,3215,OpenPlay,2018,RightFoot,10654,Guingamp,Paris Saint Germain,1,3,2018-08-18 18:00:00,Nolan Roux,Pass
+218092,31,BlockedShot,0.805,0.44099998474121094,0.059649430215358734,Étienne Didot,h,3215,OpenPlay,2018,RightFoot,10654,Guingamp,Paris Saint Germain,1,3,2018-08-18 18:00:00,,None
+218094,47,MissedShots,0.8769999694824219,0.7169999694824218,0.07818469405174255,Marcus Thuram,h,5992,OpenPlay,2018,RightFoot,10654,Guingamp,Paris Saint Germain,1,3,2018-08-18 18:00:00,,TakeOn
+218082,4,MissedShots,0.779000015258789,0.27,0.020821643993258476,Ángel Di María,a,3553,OpenPlay,2018,LeftFoot,10654,Guingamp,Paris Saint Germain,1,3,2018-08-18 18:00:00,Christopher Nkunku,Pass
+218087,15,BlockedShot,0.9619999694824218,0.6040000152587891,0.12163816392421722,Ángel Di María,a,3553,OpenPlay,2018,LeftFoot,10654,Guingamp,Paris Saint Germain,1,3,2018-08-18 18:00:00,Timothy Weah,Pass
+218090,24,MissedShots,0.955999984741211,0.41200000762939454,0.08099686354398727,Thiago Silva,a,3288,FromCorner,2018,Head,10654,Guingamp,Paris Saint Germain,1,3,2018-08-18 18:00:00,Ángel Di María,Cross
+218095,45,SavedShot,0.7340000152587891,0.41200000762939454,0.019121462479233742,Neymar,a,2099,OpenPlay,2018,RightFoot,10654,Guingamp,Paris Saint Germain,1,3,2018-08-18 18:00:00,Ángel Di María,Pass
+218093,46,MissedShots,0.7419999694824219,0.695,0.015101089142262936,Christopher Nkunku,a,3300,OpenPlay,2018,RightFoot,10654,Guingamp,Paris Saint Germain,1,3,2018-08-18 18:00:00,Adrien Rabiot,Pass
+218096,46,SavedShot,0.925,0.6519999694824219,0.07549287378787994,Ángel Di María,a,3553,OpenPlay,2018,LeftFoot,10654,Guingamp,Paris Saint Germain,1,3,2018-08-18 18:00:00,Neymar,Pass
+218097,46,MissedShots,0.9159999847412109,0.6409999847412109,0.0658489465713501,Ángel Di María,a,3553,OpenPlay,2018,RightFoot,10654,Guingamp,Paris Saint Germain,1,3,2018-08-18 18:00:00,,Rebound
+218098,52,Goal,0.885,0.5,0.7600951194763184,Neymar,a,2099,Penalty,2018,RightFoot,10654,Guingamp,Paris Saint Germain,1,3,2018-08-18 18:00:00,,Standard
+218099,54,SavedShot,0.845999984741211,0.4,0.05935148894786835,Ángel Di María,a,3553,OpenPlay,2018,RightFoot,10654,Guingamp,Paris Saint Germain,1,3,2018-08-18 18:00:00,,None
+218100,57,MissedShots,0.88,0.720999984741211,0.03677820786833763,Ángel Di María,a,3553,OpenPlay,2018,LeftFoot,10654,Guingamp,Paris Saint Germain,1,3,2018-08-18 18:00:00,Antoine Bernede,Pass
+218101,59,BlockedShot,0.870999984741211,0.38299999237060545,0.07451671361923218,Kylian Mbappe-Lottin,a,3423,OpenPlay,2018,RightFoot,10654,Guingamp,Paris Saint Germain,1,3,2018-08-18 18:00:00,Neymar,Pass
+218102,62,MissedShots,0.7440000152587891,0.40599998474121096,0.020513752475380898,Neymar,a,2099,OpenPlay,2018,RightFoot,10654,Guingamp,Paris Saint Germain,1,3,2018-08-18 18:00:00,Adrien Rabiot,Pass
+218103,67,BlockedShot,0.7390000152587891,0.5270000076293946,0.059400688856840134,Ángel Di María,a,3553,DirectFreekick,2018,LeftFoot,10654,Guingamp,Paris Saint Germain,1,3,2018-08-18 18:00:00,,Standard
+218104,78,BlockedShot,0.9469999694824218,0.655,0.04052494838833809,Ángel Di María,a,3553,FromCorner,2018,LeftFoot,10654,Guingamp,Paris Saint Germain,1,3,2018-08-18 18:00:00,Neymar,Cross
+218105,81,Goal,0.889000015258789,0.575,0.3731935918331146,Kylian Mbappe-Lottin,a,3423,OpenPlay,2018,RightFoot,10654,Guingamp,Paris Saint Germain,1,3,2018-08-18 18:00:00,Ángel Di María,Pass
+218106,86,MissedShots,0.9290000152587891,0.48700000762939455,0.4625411033630371,Thiago Silva,a,3288,SetPiece,2018,Head,10654,Guingamp,Paris Saint Germain,1,3,2018-08-18 18:00:00,Neymar,Cross
+218107,89,Goal,0.9159999847412109,0.649000015258789,0.34302815794944763,Kylian Mbappe-Lottin,a,3423,OpenPlay,2018,RightFoot,10654,Guingamp,Paris Saint Germain,1,3,2018-08-18 18:00:00,Neymar,TakeOn

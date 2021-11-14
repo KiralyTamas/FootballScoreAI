@@ -1,0 +1,30 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+363679,12,MissedShots,0.7609999847412109,0.2670000076293945,0.01430600043386221,Benjamin Pavard,h,3363,OpenPlay,2019,RightFoot,12655,Bayern Munich,Fortuna Duesseldorf,5,0,2020-05-30 16:30:00,,BallRecovery
+363680,13,BlockedShot,0.774000015258789,0.5570000076293945,0.028099488466978073,Thomas Müller,h,224,OpenPlay,2019,RightFoot,12655,Bayern Munich,Fortuna Duesseldorf,5,0,2020-05-30 16:30:00,,None
+363681,14,MissedShots,0.9290000152587891,0.475,0.14355196058750153,Benjamin Pavard,h,3363,OpenPlay,2019,RightFoot,12655,Bayern Munich,Fortuna Duesseldorf,5,0,2020-05-30 16:30:00,Serge Gnabry,Pass
+363683,23,BlockedShot,0.7169999694824218,0.34900001525878904,0.01202213391661644,Leon Goretzka,h,335,OpenPlay,2019,RightFoot,12655,Bayern Munich,Fortuna Duesseldorf,5,0,2020-05-30 16:30:00,Thomas Müller,TakeOn
+363684,27,SavedShot,0.889000015258789,0.42700000762939455,0.09082724899053574,Thomas Müller,h,224,OpenPlay,2019,RightFoot,12655,Bayern Munich,Fortuna Duesseldorf,5,0,2020-05-30 16:30:00,Robert Lewandowski,Cross
+363685,28,Goal,0.9290000152587891,0.4809999847412109,0.11953027546405792,Benjamin Pavard,h,3363,FromCorner,2019,Head,12655,Bayern Munich,Fortuna Duesseldorf,5,0,2020-05-30 16:30:00,Joshua Kimmich,Cross
+363687,37,MissedShots,0.779000015258789,0.62,0.05489972233772278,Serge Gnabry,h,993,OpenPlay,2019,RightFoot,12655,Bayern Munich,Fortuna Duesseldorf,5,0,2020-05-30 16:30:00,Alphonso Davies,TakeOn
+363688,42,BlockedShot,0.850999984741211,0.43,0.11627848446369171,Joshua Kimmich,h,223,OpenPlay,2019,RightFoot,12655,Bayern Munich,Fortuna Duesseldorf,5,0,2020-05-30 16:30:00,Serge Gnabry,Pass
+363689,42,Goal,0.909000015258789,0.44299999237060544,0.5274289846420288,Robert Lewandowski,h,227,OpenPlay,2019,RightFoot,12655,Bayern Munich,Fortuna Duesseldorf,5,0,2020-05-30 16:30:00,Thomas Müller,Pass
+363690,49,Goal,0.9359999847412109,0.4759999847412109,0.6228424906730652,Robert Lewandowski,h,227,OpenPlay,2019,RightFoot,12655,Bayern Munich,Fortuna Duesseldorf,5,0,2020-05-30 16:30:00,Serge Gnabry,Pass
+363691,50,MissedShots,0.845,0.28600000381469726,0.03879452496767044,Michaël Cuisance,h,6148,OpenPlay,2019,RightFoot,12655,Bayern Munich,Fortuna Duesseldorf,5,0,2020-05-30 16:30:00,Robert Lewandowski,BallRecovery
+363692,51,BlockedShot,0.8480000305175781,0.27399999618530274,0.044297412037849426,Serge Gnabry,h,993,OpenPlay,2019,LeftFoot,12655,Bayern Munich,Fortuna Duesseldorf,5,0,2020-05-30 16:30:00,Kingsley Coman,Pass
+363693,51,Goal,0.905,0.5509999847412109,0.5074086785316467,Alphonso Davies,h,7345,OpenPlay,2019,RightFoot,12655,Bayern Munich,Fortuna Duesseldorf,5,0,2020-05-30 16:30:00,,TakeOn
+363694,54,MissedShots,0.8780000305175781,0.5609999847412109,0.03332875669002533,Robert Lewandowski,h,227,OpenPlay,2019,Head,12655,Bayern Munich,Fortuna Duesseldorf,5,0,2020-05-30 16:30:00,Alphonso Davies,Cross
+363695,55,SavedShot,0.7169999694824218,0.3920000076293945,0.014719336293637753,Benjamin Pavard,h,3363,OpenPlay,2019,RightFoot,12655,Bayern Munich,Fortuna Duesseldorf,5,0,2020-05-30 16:30:00,,None
+363699,62,MissedShots,0.92,0.3729999923706055,0.31988513469696045,Thomas Müller,h,224,OpenPlay,2019,RightFoot,12655,Bayern Munich,Fortuna Duesseldorf,5,0,2020-05-30 16:30:00,David Alaba,Pass
+363702,66,MissedShots,0.725999984741211,0.165,0.026436615735292435,Michaël Cuisance,h,6148,DirectFreekick,2019,LeftFoot,12655,Bayern Munich,Fortuna Duesseldorf,5,0,2020-05-30 16:30:00,,Standard
+363703,69,SavedShot,0.8719999694824219,0.41700000762939454,0.16725853085517883,Serge Gnabry,h,993,OpenPlay,2019,RightFoot,12655,Bayern Munich,Fortuna Duesseldorf,5,0,2020-05-30 16:30:00,Leon Goretzka,TakeOn
+363704,69,SavedShot,0.9,0.36400001525878906,0.06996194273233414,Robert Lewandowski,h,227,OpenPlay,2019,RightFoot,12655,Bayern Munich,Fortuna Duesseldorf,5,0,2020-05-30 16:30:00,,Rebound
+363705,73,BlockedShot,0.7519999694824219,0.47400001525878904,0.02226492203772068,Leon Goretzka,h,335,OpenPlay,2019,RightFoot,12655,Bayern Munich,Fortuna Duesseldorf,5,0,2020-05-30 16:30:00,,None
+363706,81,BlockedShot,0.8980000305175782,0.47,0.06519166380167007,Leon Goretzka,h,335,FromCorner,2019,LeftFoot,12655,Bayern Munich,Fortuna Duesseldorf,5,0,2020-05-30 16:30:00,Ivan Perisic,Cross
+363678,3,SavedShot,0.8090000152587891,0.385,0.03687262907624245,Alfredo Morales,a,252,OpenPlay,2019,RightFoot,12655,Bayern Munich,Fortuna Duesseldorf,5,0,2020-05-30 16:30:00,Kenan Karaman,Pass
+363682,14,OwnGoal,0.030999999046325683,0.475,0,Zanka,a,6030,OpenPlay,2019,OtherBodyPart,12655,Bayern Munich,Fortuna Duesseldorf,5,0,2020-05-30 16:30:00,,Dispossessed
+363686,32,BlockedShot,0.894000015258789,0.509000015258789,0.27803128957748413,Kenan Karaman,a,98,OpenPlay,2019,LeftFoot,12655,Bayern Munich,Fortuna Duesseldorf,5,0,2020-05-30 16:30:00,Erik Thommy,Cross
+363696,59,MissedShots,0.9690000152587891,0.5840000152587891,0.3140730559825897,Andre Hoffmann,a,436,SetPiece,2019,Head,12655,Bayern Munich,Fortuna Duesseldorf,5,0,2020-05-30 16:30:00,Matthias Zimmermann,Cross
+363697,60,BlockedShot,0.894000015258789,0.27100000381469724,0.036239735782146454,Kenan Karaman,a,98,OpenPlay,2019,RightFoot,12655,Bayern Munich,Fortuna Duesseldorf,5,0,2020-05-30 16:30:00,Steven Skrzybski,Pass
+363698,60,MissedShots,0.745,0.5820000076293945,0.012607238255441189,Erik Thommy,a,2676,OpenPlay,2019,RightFoot,12655,Bayern Munich,Fortuna Duesseldorf,5,0,2020-05-30 16:30:00,,None
+363700,63,BlockedShot,0.8959999847412109,0.779000015258789,0.022108236327767372,Valon Berisha,a,7178,OpenPlay,2019,RightFoot,12655,Bayern Munich,Fortuna Duesseldorf,5,0,2020-05-30 16:30:00,Niko Gießelmann,Pass
+363701,64,SavedShot,0.799000015258789,0.6309999847412109,0.023651916533708572,Niko Gießelmann,a,7056,FromCorner,2019,LeftFoot,12655,Bayern Munich,Fortuna Duesseldorf,5,0,2020-05-30 16:30:00,,None

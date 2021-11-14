@@ -1,0 +1,28 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+360417,7,BlockedShot,0.875,0.7559999847412109,0.031882449984550476,Renan Lodi,h,7891,OpenPlay,2019,LeftFoot,12264,Atletico Madrid,Villarreal,3,1,2020-02-23 20:00:00,Thomas Partey,Chipped
+360419,21,BlockedShot,0.735999984741211,0.5670000076293945,0.01923312246799469,Thomas Partey,h,2328,OpenPlay,2019,RightFoot,12264,Atletico Madrid,Villarreal,3,1,2020-02-23 20:00:00,Ángel Correa,Pass
+360420,25,BlockedShot,0.8130000305175781,0.6469999694824219,0.10879220813512802,Ángel Correa,h,2275,DirectFreekick,2019,RightFoot,12264,Atletico Madrid,Villarreal,3,1,2020-02-23 20:00:00,,Standard
+360422,28,SavedShot,0.9219999694824219,0.5379999923706055,0.3052245080471039,Álvaro Morata,h,1804,FromCorner,2019,RightFoot,12264,Atletico Madrid,Villarreal,3,1,2020-02-23 20:00:00,Koke,Cross
+360423,28,SavedShot,0.965,0.5509999847412109,0.4364108741283417,Vitolo,h,2511,FromCorner,2019,Head,12264,Atletico Madrid,Villarreal,3,1,2020-02-23 20:00:00,,Rebound
+360424,33,SavedShot,0.8580000305175781,0.5370000076293945,0.012540338560938835,Felipe,h,7921,FromCorner,2019,Head,12264,Atletico Madrid,Villarreal,3,1,2020-02-23 20:00:00,Renan Lodi,Aerial
+360425,35,SavedShot,0.919000015258789,0.485,0.10501746088266373,Álvaro Morata,h,1804,OpenPlay,2019,Head,12264,Atletico Madrid,Villarreal,3,1,2020-02-23 20:00:00,Sime Vrsaljko,Cross
+360426,39,Goal,0.909000015258789,0.41200000762939454,0.4049571454524994,Ángel Correa,h,2275,OpenPlay,2019,RightFoot,12264,Atletico Madrid,Villarreal,3,1,2020-02-23 20:00:00,Sime Vrsaljko,Throughball
+360428,51,SavedShot,0.774000015258789,0.715999984741211,0.02219742350280285,Álvaro Morata,h,1804,OpenPlay,2019,RightFoot,12264,Atletico Madrid,Villarreal,3,1,2020-02-23 20:00:00,Thomas Partey,Pass
+360429,56,MissedShots,0.755,0.4879999923706055,0.02114706300199032,Thomas Partey,h,2328,OpenPlay,2019,RightFoot,12264,Atletico Madrid,Villarreal,3,1,2020-02-23 20:00:00,,None
+360430,60,BlockedShot,0.8169999694824219,0.605999984741211,0.04974939301609993,João Félix,h,7892,OpenPlay,2019,LeftFoot,12264,Atletico Madrid,Villarreal,3,1,2020-02-23 20:00:00,Koke,Pass
+360433,63,Goal,0.9269999694824219,0.4879999923706055,0.4699050486087799,Koke,h,2269,OpenPlay,2019,Head,12264,Atletico Madrid,Villarreal,3,1,2020-02-23 20:00:00,Ángel Correa,Pass
+360434,65,MissedShots,0.735,0.3729999923706055,0.020469283685088158,Saúl Ñíguez,h,2266,OpenPlay,2019,LeftFoot,12264,Atletico Madrid,Villarreal,3,1,2020-02-23 20:00:00,Álvaro Morata,Pass
+360435,69,BlockedShot,0.7619999694824219,0.45799999237060546,0.04054750129580498,João Félix,h,7892,OpenPlay,2019,RightFoot,12264,Atletico Madrid,Villarreal,3,1,2020-02-23 20:00:00,Stefan Savic,BallRecovery
+360437,73,Goal,0.8180000305175781,0.6270000076293946,0.06246732175350189,João Félix,h,7892,OpenPlay,2019,LeftFoot,12264,Atletico Madrid,Villarreal,3,1,2020-02-23 20:00:00,Koke,Interception
+360440,79,BlockedShot,0.9019999694824219,0.6759999847412109,0.10860108584165573,João Félix,h,7892,OpenPlay,2019,RightFoot,12264,Atletico Madrid,Villarreal,3,1,2020-02-23 20:00:00,Koke,TakeOn
+360441,90,SavedShot,0.7930000305175782,0.6020000076293945,0.09322579205036163,João Félix,h,7892,OpenPlay,2019,RightFoot,12264,Atletico Madrid,Villarreal,3,1,2020-02-23 20:00:00,Thomas Partey,Pass
+360418,15,Goal,0.8130000305175781,0.4279999923706055,0.04897788539528847,Paco Alcácer,a,2380,OpenPlay,2019,RightFoot,12264,Atletico Madrid,Villarreal,3,1,2020-02-23 20:00:00,,None
+360421,27,MissedShots,0.9440000152587891,0.2979999923706055,0.06350722908973694,Paco Alcácer,a,2380,OpenPlay,2019,RightFoot,12264,Atletico Madrid,Villarreal,3,1,2020-02-23 20:00:00,Rubén Peña,Pass
+360427,47,SavedShot,0.7419999694824219,0.5209999847412109,0.020553091540932655,Moi Gómez,a,2198,OpenPlay,2019,LeftFoot,12264,Atletico Madrid,Villarreal,3,1,2020-02-23 20:00:00,,BallTouch
+360431,61,SavedShot,0.9,0.6680000305175782,0.07246927917003632,Alberto Moreno,a,608,OpenPlay,2019,LeftFoot,12264,Atletico Madrid,Villarreal,3,1,2020-02-23 20:00:00,Santiago Cazorla,Pass
+360432,62,MissedShots,0.9159999847412109,0.4640000152587891,0.0619572252035141,Gerard Moreno,a,2120,OpenPlay,2019,Head,12264,Atletico Madrid,Villarreal,3,1,2020-02-23 20:00:00,Rubén Peña,Aerial
+360436,71,BlockedShot,0.8059999847412109,0.4909999847412109,0.05158195644617081,Moi Gómez,a,2198,OpenPlay,2019,RightFoot,12264,Atletico Madrid,Villarreal,3,1,2020-02-23 20:00:00,Samuel Chukwueze,Pass
+360438,76,SavedShot,0.799000015258789,0.445,0.04893587902188301,Javi Ontiveros,a,2578,OpenPlay,2019,RightFoot,12264,Atletico Madrid,Villarreal,3,1,2020-02-23 20:00:00,Samuel Chukwueze,Pass
+360439,77,MissedShots,0.5620000076293945,0.39799999237060546,0.005923895165324211,Manu Trigueros,a,2301,OpenPlay,2019,RightFoot,12264,Atletico Madrid,Villarreal,3,1,2020-02-23 20:00:00,,BallRecovery
+360442,90,MissedShots,0.8859999847412109,0.695,0.03924600034952164,Javi Ontiveros,a,2578,OpenPlay,2019,RightFoot,12264,Atletico Madrid,Villarreal,3,1,2020-02-23 20:00:00,Samuel Chukwueze,Pass
+360443,92,MissedShots,0.8219999694824218,0.6680000305175782,0.027068695053458214,Paco Alcácer,a,2380,OpenPlay,2019,LeftFoot,12264,Atletico Madrid,Villarreal,3,1,2020-02-23 20:00:00,Santiago Cazorla,Pass

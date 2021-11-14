@@ -1,0 +1,28 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+275601,3,Goal,0.91,0.5829999923706055,0.44335541129112244,Raheem Sterling,h,618,SetPiece,2018,RightFoot,9454,Manchester City,Chelsea,6,0,2019-02-10 16:00:00,,None
+275602,7,MissedShots,0.9690000152587891,0.42900001525878906,0.45226138830184937,Sergio Agüero,h,619,OpenPlay,2018,RightFoot,9454,Manchester City,Chelsea,6,0,2019-02-10 16:00:00,Bernardo Silva,Cross
+275604,12,Goal,0.75,0.6370000076293946,0.021623006090521812,Sergio Agüero,h,619,OpenPlay,2018,RightFoot,9454,Manchester City,Chelsea,6,0,2019-02-10 16:00:00,Oleksandr Zinchenko,Pass
+275605,18,Goal,0.9259999847412109,0.5420000076293945,0.4806283116340637,Sergio Agüero,h,619,SetPiece,2018,LeftFoot,9454,Manchester City,Chelsea,6,0,2019-02-10 16:00:00,,Aerial
+275607,24,Goal,0.7919999694824219,0.6079999923706054,0.0659559965133667,Ilkay Gündogan,h,314,OpenPlay,2018,RightFoot,9454,Manchester City,Chelsea,6,0,2019-02-10 16:00:00,,TakeOn
+275613,50,ShotOnPost,0.9330000305175781,0.5279999923706055,0.40978601574897766,Sergio Agüero,h,619,OpenPlay,2018,Head,9454,Manchester City,Chelsea,6,0,2019-02-10 16:00:00,Kevin De Bruyne,Aerial
+275616,55,Goal,0.885,0.5,0.7611688375473022,Sergio Agüero,h,619,Penalty,2018,RightFoot,9454,Manchester City,Chelsea,6,0,2019-02-10 16:00:00,,Standard
+275617,57,SavedShot,0.77,0.605,0.07151439040899277,Kevin De Bruyne,h,447,DirectFreekick,2018,RightFoot,9454,Manchester City,Chelsea,6,0,2019-02-10 16:00:00,,Standard
+275618,59,MissedShots,0.909000015258789,0.6669999694824219,0.09676435589790344,Sergio Agüero,h,619,OpenPlay,2018,LeftFoot,9454,Manchester City,Chelsea,6,0,2019-02-10 16:00:00,Raheem Sterling,Pass
+275619,62,BlockedShot,0.7980000305175782,0.505,0.06506583094596863,Kevin De Bruyne,h,447,OpenPlay,2018,LeftFoot,9454,Manchester City,Chelsea,6,0,2019-02-10 16:00:00,John Stones,Pass
+275621,66,SavedShot,0.705,0.6079999923706054,0.016388051211833954,Fernandinho,h,614,OpenPlay,2018,RightFoot,9454,Manchester City,Chelsea,6,0,2019-02-10 16:00:00,Ilkay Gündogan,Pass
+275622,71,MissedShots,0.85,0.30700000762939456,0.05390338599681854,Riyad Mahrez,h,750,OpenPlay,2018,LeftFoot,9454,Manchester City,Chelsea,6,0,2019-02-10 16:00:00,Gabriel Jesus,Pass
+275623,73,SavedShot,0.919000015258789,0.575,0.4662114083766937,Gabriel Jesus,h,5543,OpenPlay,2018,LeftFoot,9454,Manchester City,Chelsea,6,0,2019-02-10 16:00:00,Raheem Sterling,Pass
+275624,75,MissedShots,0.9530000305175781,0.425,0.04775426164269447,Gabriel Jesus,h,5543,FromCorner,2018,Head,9454,Manchester City,Chelsea,6,0,2019-02-10 16:00:00,Ilkay Gündogan,Aerial
+275626,79,Goal,0.9319999694824219,0.48700000762939455,0.5897974371910095,Raheem Sterling,h,618,OpenPlay,2018,LeftFoot,9454,Manchester City,Chelsea,6,0,2019-02-10 16:00:00,Oleksandr Zinchenko,Pass
+275600,1,BlockedShot,0.8109999847412109,0.62,0.046635471284389496,Gonzalo Higuaín,a,1293,OpenPlay,2018,RightFoot,9454,Manchester City,Chelsea,6,0,2019-02-10 16:00:00,Jorginho,TakeOn
+275603,11,BlockedShot,0.919000015258789,0.6659999847412109,0.08137966692447662,Eden Hazard,a,701,OpenPlay,2018,LeftFoot,9454,Manchester City,Chelsea,6,0,2019-02-10 16:00:00,David Luiz,TakeOn
+275606,20,MissedShots,0.8190000152587891,0.6519999694824219,0.05669290944933891,Ross Barkley,a,592,OpenPlay,2018,RightFoot,9454,Manchester City,Chelsea,6,0,2019-02-10 16:00:00,Eden Hazard,TakeOn
+275608,27,SavedShot,0.865999984741211,0.48900001525878906,0.3102191686630249,Pedro,a,687,OpenPlay,2018,LeftFoot,9454,Manchester City,Chelsea,6,0,2019-02-10 16:00:00,Gonzalo Higuaín,Pass
+275609,28,SavedShot,0.8719999694824219,0.3390000152587891,0.07288181036710739,Pedro,a,687,OpenPlay,2018,LeftFoot,9454,Manchester City,Chelsea,6,0,2019-02-10 16:00:00,Eden Hazard,Pass
+275610,29,BlockedShot,0.8880000305175781,0.6079999923706054,0.05217713490128517,Gonzalo Higuaín,a,1293,OpenPlay,2018,RightFoot,9454,Manchester City,Chelsea,6,0,2019-02-10 16:00:00,Marcos Alonso,Cross
+275611,30,BlockedShot,0.8059999847412109,0.45599998474121095,0.05972851812839508,Gonzalo Higuaín,a,1293,OpenPlay,2018,RightFoot,9454,Manchester City,Chelsea,6,0,2019-02-10 16:00:00,Ross Barkley,Pass
+275612,37,SavedShot,0.7559999847412109,0.33,0.01068049855530262,Gonzalo Higuaín,a,1293,OpenPlay,2018,RightFoot,9454,Manchester City,Chelsea,6,0,2019-02-10 16:00:00,Pedro,HeadPass
+275614,51,BlockedShot,0.875999984741211,0.7480000305175781,0.03028765320777893,Ross Barkley,a,592,OpenPlay,2018,RightFoot,9454,Manchester City,Chelsea,6,0,2019-02-10 16:00:00,Eden Hazard,Pass
+275615,51,MissedShots,0.7480000305175781,0.46799999237060547,0.013472139835357666,Jorginho,a,1389,OpenPlay,2018,RightFoot,9454,Manchester City,Chelsea,6,0,2019-02-10 16:00:00,,None
+275620,63,MissedShots,0.8959999847412109,0.7169999694824218,0.04895610734820366,Eden Hazard,a,701,OpenPlay,2018,LeftFoot,9454,Manchester City,Chelsea,6,0,2019-02-10 16:00:00,N&#039;Golo Kanté,Pass
+275625,77,SavedShot,0.8159999847412109,0.37900001525878907,0.11875621974468231,Emerson,a,1245,DirectFreekick,2018,LeftFoot,9454,Manchester City,Chelsea,6,0,2019-02-10 16:00:00,,Standard

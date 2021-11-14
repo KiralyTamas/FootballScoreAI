@@ -1,0 +1,21 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+416256,8,SavedShot,0.749000015258789,0.4370000076293945,0.015521477907896042,Manuel Prietl,h,8789,OpenPlay,2020,RightFoot,15408,Arminia Bielefeld,Schalke 04,1,0,2021-04-20 18:30:00,Ritsu Doan,TakeOn
+416257,12,BlockedShot,0.9030000305175782,0.4470000076293945,0.09314015507698059,Ritsu Doan,h,8791,OpenPlay,2020,RightFoot,15408,Arminia Bielefeld,Schalke 04,1,0,2021-04-20 18:30:00,,None
+416258,17,MissedShots,0.8159999847412109,0.5359999847412109,0.043303441256284714,Ritsu Doan,h,8791,OpenPlay,2020,LeftFoot,15408,Arminia Bielefeld,Schalke 04,1,0,2021-04-20 18:30:00,Fabian Klos,HeadPass
+416260,28,MissedShots,0.9340000152587891,0.43099998474121093,0.37871915102005005,Andreas Voglsammer,h,9128,SetPiece,2020,RightFoot,15408,Arminia Bielefeld,Schalke 04,1,0,2021-04-20 18:30:00,Arne Maier,Cross
+416261,34,MissedShots,0.8490000152587891,0.43900001525878907,0.1207602396607399,Fabian Klos,h,8792,OpenPlay,2020,RightFoot,15408,Arminia Bielefeld,Schalke 04,1,0,2021-04-20 18:30:00,Ritsu Doan,BallTouch
+416262,34,SavedShot,0.9269999694824219,0.5109999847412109,0.6377806067466736,Andreas Voglsammer,h,9128,OpenPlay,2020,LeftFoot,15408,Arminia Bielefeld,Schalke 04,1,0,2021-04-20 18:30:00,Fabian Klos,Rebound
+416264,49,Goal,0.725,0.5129999923706055,0.012564698234200478,Fabian Klos,h,8792,OpenPlay,2020,LeftFoot,15408,Arminia Bielefeld,Schalke 04,1,0,2021-04-20 18:30:00,Amos Pieper,TakeOn
+416267,54,BlockedShot,0.7480000305175781,0.5709999847412109,0.022257721051573753,Manuel Prietl,h,8789,SetPiece,2020,LeftFoot,15408,Arminia Bielefeld,Schalke 04,1,0,2021-04-20 18:30:00,,TakeOn
+416268,55,MissedShots,0.9630000305175781,0.6709999847412109,0.010600891895592213,Fabian Klos,h,8792,FromCorner,2020,Head,15408,Arminia Bielefeld,Schalke 04,1,0,2021-04-20 18:30:00,Ritsu Doan,Cross
+416269,57,MissedShots,0.7440000152587891,0.34299999237060547,0.05028991401195526,Ritsu Doan,h,8791,DirectFreekick,2020,LeftFoot,15408,Arminia Bielefeld,Schalke 04,1,0,2021-04-20 18:30:00,,Standard
+416270,61,BlockedShot,0.8130000305175781,0.4420000076293945,0.06466879695653915,Manuel Prietl,h,8789,OpenPlay,2020,LeftFoot,15408,Arminia Bielefeld,Schalke 04,1,0,2021-04-20 18:30:00,Ritsu Doan,Pass
+416271,79,SavedShot,0.885,0.5,0.757696270942688,Fabian Klos,h,8792,Penalty,2020,RightFoot,15408,Arminia Bielefeld,Schalke 04,1,0,2021-04-20 18:30:00,,Standard
+416272,79,BlockedShot,0.9119999694824219,0.38799999237060545,0.09225398302078247,Ritsu Doan,h,8791,SetPiece,2020,LeftFoot,15408,Arminia Bielefeld,Schalke 04,1,0,2021-04-20 18:30:00,,Rebound
+416273,86,BlockedShot,0.86,0.38,0.08950524777173996,Fabian Klos,h,8792,OpenPlay,2020,RightFoot,15408,Arminia Bielefeld,Schalke 04,1,0,2021-04-20 18:30:00,Christian Gebauer,Pass
+416274,87,SavedShot,0.8569999694824219,0.6320000076293946,0.05614989995956421,Amos Pieper,h,7320,SetPiece,2020,RightFoot,15408,Arminia Bielefeld,Schalke 04,1,0,2021-04-20 18:30:00,Mike van der Hoorn,Pass
+416259,19,BlockedShot,0.775,0.26399999618530273,0.04964139685034752,Gonçalo Paciência,a,7051,DirectFreekick,2020,RightFoot,15408,Arminia Bielefeld,Schalke 04,1,0,2021-04-20 18:30:00,,Standard
+416263,45,MissedShots,0.755,0.2879999923706055,0.011257551610469818,Mehmet Can Aydin,a,9427,OpenPlay,2020,RightFoot,15408,Arminia Bielefeld,Schalke 04,1,0,2021-04-20 18:30:00,,None
+416265,53,BlockedShot,0.7569999694824219,0.605999984741211,0.06585822254419327,Klaas-Jan Huntelaar,a,340,DirectFreekick,2020,RightFoot,15408,Arminia Bielefeld,Schalke 04,1,0,2021-04-20 18:30:00,,Standard
+416266,53,MissedShots,0.91,0.44099998474121094,0.06515718996524811,Shkodran Mustafi,a,1699,FromCorner,2020,Head,15408,Arminia Bielefeld,Schalke 04,1,0,2021-04-20 18:30:00,Mark Uth,Cross
+416275,92,MissedShots,0.9540000152587891,0.649000015258789,0.06020735949277878,Sead Kolasinac,a,342,OpenPlay,2020,LeftFoot,15408,Arminia Bielefeld,Schalke 04,1,0,2021-04-20 18:30:00,Mark Uth,None

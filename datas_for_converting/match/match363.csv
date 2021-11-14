@@ -1,0 +1,33 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+59812,4,SavedShot,0.7909999847412109,0.485,0.016940290108323097,James McCarthy,h,589,FromCorner,2015,LeftFoot,363,Everton,West Ham,2,3,2016-03-05 19:00:00,,Aerial
+59814,5,BlockedShot,0.899000015258789,0.40200000762939453,0.07652011513710022,Kevin Mirallas,h,595,FromCorner,2015,LeftFoot,363,Everton,West Ham,2,3,2016-03-05 19:00:00,,None
+59817,12,Goal,0.9369999694824219,0.6780000305175782,0.07464125752449036,Romelu Lukaku,h,594,OpenPlay,2015,LeftFoot,363,Everton,West Ham,2,3,2016-03-05 19:00:00,Bryan Oviedo,Pass
+59824,22,BlockedShot,0.8059999847412109,0.5120000076293946,0.061957474797964096,Romelu Lukaku,h,594,OpenPlay,2015,RightFoot,363,Everton,West Ham,2,3,2016-03-05 19:00:00,,None
+59830,24,MissedShots,0.9030000305175782,0.5320000076293945,0.02144792675971985,John Stones,h,586,FromCorner,2015,Head,363,Everton,West Ham,2,3,2016-03-05 19:00:00,Ross Barkley,Aerial
+59831,24,SavedShot,0.855,0.3039999961853027,0.02678069658577442,Ross Barkley,h,592,FromCorner,2015,LeftFoot,363,Everton,West Ham,2,3,2016-03-05 19:00:00,,None
+59832,24,BlockedShot,0.745,0.595999984741211,0.017431823536753654,Kevin Mirallas,h,595,FromCorner,2015,RightFoot,363,Everton,West Ham,2,3,2016-03-05 19:00:00,John Stones,BallTouch
+59834,30,SavedShot,0.7980000305175782,0.28600000381469726,0.029836416244506836,Romelu Lukaku,h,594,OpenPlay,2015,LeftFoot,363,Everton,West Ham,2,3,2016-03-05 19:00:00,Aaron Lennon,Pass
+59845,45,BlockedShot,0.8919999694824219,0.61,0.030265748500823975,Romelu Lukaku,h,594,OpenPlay,2015,Head,363,Everton,West Ham,2,3,2016-03-05 19:00:00,Bryan Oviedo,Cross
+59847,50,BlockedShot,0.7419999694824219,0.645,0.023176666349172592,Bryan Oviedo,h,598,OpenPlay,2015,LeftFoot,363,Everton,West Ham,2,3,2016-03-05 19:00:00,James McCarthy,Pass
+59848,55,Goal,0.909000015258789,0.49900001525878906,0.4555887281894684,Aaron Lennon,h,593,OpenPlay,2015,RightFoot,363,Everton,West Ham,2,3,2016-03-05 19:00:00,Romelu Lukaku,Pass
+59850,68,SavedShot,0.885,0.5,0.7611688375473022,Romelu Lukaku,h,594,Penalty,2015,LeftFoot,363,Everton,West Ham,2,3,2016-03-05 19:00:00,,Standard
+59851,71,SavedShot,0.8480000305175781,0.495,0.4222930371761322,Romelu Lukaku,h,594,OpenPlay,2015,LeftFoot,363,Everton,West Ham,2,3,2016-03-05 19:00:00,,None
+59855,80,SavedShot,0.7430000305175781,0.3659999847412109,0.04960344731807709,Ross Barkley,h,592,DirectFreekick,2015,RightFoot,363,Everton,West Ham,2,3,2016-03-05 19:00:00,,Standard
+59857,83,MissedShots,0.78,0.3940000152587891,0.022601518779993057,Muhamed Besic,h,908,OpenPlay,2015,RightFoot,363,Everton,West Ham,2,3,2016-03-05 19:00:00,Romelu Lukaku,Pass
+59815,10,MissedShots,0.7580000305175781,0.4470000076293945,0.026393648236989975,Dimitri Payet,a,536,OpenPlay,2015,RightFoot,363,Everton,West Ham,2,3,2016-03-05 19:00:00,Manuel Lanzini,Pass
+59820,16,BlockedShot,0.7769999694824219,0.3390000152587891,0.022384148091077805,Michail Antonio,a,531,OpenPlay,2015,RightFoot,363,Everton,West Ham,2,3,2016-03-05 19:00:00,Mark Noble,Pass
+59821,16,SavedShot,0.88,0.515,0.050466932356357574,Cheikhou Kouyaté,a,532,SetPiece,2015,Head,363,Everton,West Ham,2,3,2016-03-05 19:00:00,Dimitri Payet,Chipped
+59822,19,MissedShots,0.7830000305175782,0.5770000076293945,0.028490284457802773,Mark Noble,a,533,OpenPlay,2015,RightFoot,363,Everton,West Ham,2,3,2016-03-05 19:00:00,Manuel Lanzini,Pass
+59826,23,MissedShots,0.775,0.47200000762939454,0.030404765158891678,Michail Antonio,a,531,OpenPlay,2015,LeftFoot,363,Everton,West Ham,2,3,2016-03-05 19:00:00,Manuel Lanzini,Pass
+59833,29,MissedShots,0.9359999847412109,0.544000015258789,0.11853216588497162,Angelo Ogbonna,a,528,FromCorner,2015,RightFoot,363,Everton,West Ham,2,3,2016-03-05 19:00:00,Dimitri Payet,Cross
+59839,41,SavedShot,0.94,0.52,0.5073409080505371,Emmanuel Emenike,a,538,OpenPlay,2015,RightFoot,363,Everton,West Ham,2,3,2016-03-05 19:00:00,Aaron Cresswell,Cross
+59843,42,BlockedShot,0.8859999847412109,0.27700000762939453,0.09444117546081543,Emmanuel Emenike,a,538,OpenPlay,2015,RightFoot,363,Everton,West Ham,2,3,2016-03-05 19:00:00,Dimitri Payet,Throughball
+59844,45,MissedShots,0.81,0.695,0.07539190351963043,Dimitri Payet,a,536,DirectFreekick,2015,RightFoot,363,Everton,West Ham,2,3,2016-03-05 19:00:00,,Standard
+59846,49,MissedShots,0.9369999694824219,0.5070000076293946,0.13102327287197113,Michail Antonio,a,531,SetPiece,2015,Head,363,Everton,West Ham,2,3,2016-03-05 19:00:00,Dimitri Payet,Cross
+59849,64,MissedShots,0.8040000152587891,0.35,0.03157954290509224,Michail Antonio,a,531,OpenPlay,2015,LeftFoot,363,Everton,West Ham,2,3,2016-03-05 19:00:00,,BallRecovery
+59852,77,BlockedShot,0.73,0.644000015258789,0.01024631131440401,Manuel Lanzini,a,535,OpenPlay,2015,RightFoot,363,Everton,West Ham,2,3,2016-03-05 19:00:00,Aaron Cresswell,Pass
+59853,77,BlockedShot,0.924000015258789,0.725,0.017234142869710922,Dimitri Payet,a,536,OpenPlay,2015,RightFoot,363,Everton,West Ham,2,3,2016-03-05 19:00:00,Michail Antonio,Cross
+59854,77,Goal,0.9490000152587891,0.48900001525878906,0.45229676365852356,Michail Antonio,a,531,FromCorner,2015,Head,363,Everton,West Ham,2,3,2016-03-05 19:00:00,Mark Noble,Cross
+59856,80,Goal,0.9409999847412109,0.48,0.45779842138290405,Diafra Sakho,a,656,OpenPlay,2015,Head,363,Everton,West Ham,2,3,2016-03-05 19:00:00,Dimitri Payet,Cross
+59858,87,BlockedShot,0.845,0.509000015258789,0.07695409655570984,Andy Carroll,a,537,OpenPlay,2015,LeftFoot,363,Everton,West Ham,2,3,2016-03-05 19:00:00,,Dispossessed
+59859,89,Goal,0.9390000152587891,0.4640000152587891,0.5899272561073303,Dimitri Payet,a,536,OpenPlay,2015,RightFoot,363,Everton,West Ham,2,3,2016-03-05 19:00:00,Diafra Sakho,Pass

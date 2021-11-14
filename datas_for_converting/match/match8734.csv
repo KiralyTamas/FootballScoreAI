@@ -1,0 +1,23 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+179634,26,SavedShot,0.9230000305175782,0.5670000076293945,0.02755802311003208,Christopher Jullien,h,4345,FromCorner,2017,Head,8734,Toulouse,Caen,2,0,2017-12-09 19:00:00,Andy Delort,Aerial
+179636,33,MissedShots,0.88,0.425,0.3640538156032562,Andy Delort,h,3530,OpenPlay,2017,RightFoot,8734,Toulouse,Caen,2,0,2017-12-09 19:00:00,Giannelli Imbula,Throughball
+179640,45,BlockedShot,0.755,0.3579999923706055,0.057258184999227524,Giannelli Imbula,h,861,DirectFreekick,2017,LeftFoot,8734,Toulouse,Caen,2,0,2017-12-09 19:00:00,,Standard
+179641,46,MissedShots,0.9180000305175782,0.47900001525878905,0.04398227110505104,Issa Diop,h,3203,FromCorner,2017,Head,8734,Toulouse,Caen,2,0,2017-12-09 19:00:00,Max Gradel,Aerial
+179648,60,MissedShots,0.9009999847412109,0.5629999923706055,0.10838298499584198,Ola Toivonen,h,739,OpenPlay,2017,LeftFoot,8734,Toulouse,Caen,2,0,2017-12-09 19:00:00,,None
+179649,68,BlockedShot,0.745,0.49599998474121093,0.016895892098546028,Corentin Jean,h,3445,FromCorner,2017,RightFoot,8734,Toulouse,Caen,2,0,2017-12-09 19:00:00,,None
+179650,68,MissedShots,0.96,0.4,0.08727337419986725,Ola Toivonen,h,739,OpenPlay,2017,Head,8734,Toulouse,Caen,2,0,2017-12-09 19:00:00,Corentin Jean,Cross
+179651,71,SavedShot,0.8719999694824219,0.4540000152587891,0.12509003281593323,Giannelli Imbula,h,861,OpenPlay,2017,RightFoot,8734,Toulouse,Caen,2,0,2017-12-09 19:00:00,Ola Toivonen,LayOff
+179652,73,Goal,0.885,0.5,0.7600951194763184,Max Gradel,h,464,Penalty,2017,RightFoot,8734,Toulouse,Caen,2,0,2017-12-09 19:00:00,,Standard
+179654,82,MissedShots,0.950999984741211,0.43900001525878907,0.13883531093597412,Andy Delort,h,3530,OpenPlay,2017,RightFoot,8734,Toulouse,Caen,2,0,2017-12-09 19:00:00,Corentin Jean,Cross
+179633,23,SavedShot,0.8530000305175781,0.43099998474121093,0.05545662343502045,Ivan Santini,a,5701,OpenPlay,2017,RightFoot,8734,Toulouse,Caen,2,0,2017-12-09 19:00:00,Jordan N&#039;Kololo,Cross
+179635,29,MissedShots,0.8719999694824219,0.485,0.04411141201853752,Ivan Santini,a,5701,OpenPlay,2017,Head,8734,Toulouse,Caen,2,0,2017-12-09 19:00:00,Jordan N&#039;Kololo,Cross
+179637,35,MissedShots,0.6919999694824219,0.27700000762939453,0.011093398556113243,Julien Féret,a,3527,OpenPlay,2017,RightFoot,8734,Toulouse,Caen,2,0,2017-12-09 19:00:00,Youssef Ait Bennasser,BallRecovery
+179638,36,BlockedShot,0.8490000152587891,0.485,0.3450496196746826,Ivan Santini,a,5701,OpenPlay,2017,RightFoot,8734,Toulouse,Caen,2,0,2017-12-09 19:00:00,Youssef Ait Bennasser,Throughball
+179639,41,SavedShot,0.8819999694824219,0.585,0.012584701180458069,Alexander Djiku,a,3322,FromCorner,2017,Head,8734,Toulouse,Caen,2,0,2017-12-09 19:00:00,Julien Féret,Aerial
+179642,45,BlockedShot,0.899000015258789,0.3039999961853027,0.05253882706165314,Jordan N&#039;Kololo,a,3537,OpenPlay,2017,RightFoot,8734,Toulouse,Caen,2,0,2017-12-09 19:00:00,Ronny Rodelin,Pass
+179643,46,MissedShots,0.889000015258789,0.5529999923706055,0.08160897344350815,Alexander Djiku,a,3322,FromCorner,2017,RightFoot,8734,Toulouse,Caen,2,0,2017-12-09 19:00:00,Jordan N&#039;Kololo,HeadPass
+179644,51,MissedShots,0.7519999694824219,0.5720000076293945,0.02203303575515747,Jan Repas,a,6279,OpenPlay,2017,RightFoot,8734,Toulouse,Caen,2,0,2017-12-09 19:00:00,Jordan N&#039;Kololo,Pass
+179645,58,ShotOnPost,0.8930000305175781,0.47,0.31775641441345215,Jordan N&#039;Kololo,a,3537,OpenPlay,2017,RightFoot,8734,Toulouse,Caen,2,0,2017-12-09 19:00:00,Ronny Rodelin,Cross
+179646,59,MissedShots,0.754000015258789,0.6020000076293945,0.024517295882105827,Ivan Santini,a,5701,OpenPlay,2017,RightFoot,8734,Toulouse,Caen,2,0,2017-12-09 19:00:00,Jan Repas,Pass
+179647,60,OwnGoal,0.07800000190734863,0.415,0,Damien Da Silva,a,3542,OpenPlay,2017,RightFoot,8734,Toulouse,Caen,2,0,2017-12-09 19:00:00,,Clearance
+179653,80,SavedShot,0.909000015258789,0.515,0.08359773457050323,Christian Kouakou,a,3533,FromCorner,2017,Head,8734,Toulouse,Caen,2,0,2017-12-09 19:00:00,Julien Féret,Cross

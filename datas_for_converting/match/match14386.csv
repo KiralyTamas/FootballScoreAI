@@ -1,0 +1,40 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+409065,1,Goal,0.9259999847412109,0.4520000076293945,0.11131163686513901,Alexander Sobolev,h,5397,OpenPlay,2020,Head,14386,Spartak Moscow,FC Krasnodar,6,1,2021-03-07 16:00:00,Nail Umiarov,Cross
+409066,3,MissedShots,0.76,0.6959999847412109,0.02152649499475956,Ayrton Lucas,h,7475,OpenPlay,2020,LeftFoot,14386,Spartak Moscow,FC Krasnodar,6,1,2021-03-07 16:00:00,Nail Umiarov,Pass
+409067,7,Goal,0.915,0.595999984741211,0.3722458779811859,Quincy Promes,h,2815,OpenPlay,2020,RightFoot,14386,Spartak Moscow,FC Krasnodar,6,1,2021-03-07 16:00:00,Jordan Larsson,Throughball
+409071,11,BlockedShot,0.909000015258789,0.5359999847412109,0.1364654302597046,Ayrton Lucas,h,7475,OpenPlay,2020,RightFoot,14386,Spartak Moscow,FC Krasnodar,6,1,2021-03-07 16:00:00,Victor Moses,Chipped
+409072,11,BlockedShot,0.845,0.39599998474121095,0.04232681915163994,Alex Kral,h,8017,OpenPlay,2020,RightFoot,14386,Spartak Moscow,FC Krasnodar,6,1,2021-03-07 16:00:00,,Rebound
+409073,11,MissedShots,0.9569999694824218,0.5479999923706055,0.5827727913856506,Jordan Larsson,h,7770,OpenPlay,2020,Head,14386,Spartak Moscow,FC Krasnodar,6,1,2021-03-07 16:00:00,Nail Umiarov,Cross
+409074,18,SavedShot,0.7280000305175781,0.67,0.014465847052633762,Giorgi Jikia,h,2834,OpenPlay,2020,LeftFoot,14386,Spartak Moscow,FC Krasnodar,6,1,2021-03-07 16:00:00,,None
+409085,44,MissedShots,0.8540000152587891,0.6969999694824218,0.061307840049266815,Alexander Sobolev,h,5397,OpenPlay,2020,RightFoot,14386,Spartak Moscow,FC Krasnodar,6,1,2021-03-07 16:00:00,Pavel Maslov,Chipped
+409086,45,BlockedShot,0.8530000305175781,0.34,0.06495621800422668,Jordan Larsson,h,7770,OpenPlay,2020,RightFoot,14386,Spartak Moscow,FC Krasnodar,6,1,2021-03-07 16:00:00,Alex Kral,Pass
+409087,45,MissedShots,0.9059999847412109,0.415,0.03458466753363609,Samuel Gigot,h,6773,FromCorner,2020,Head,14386,Spartak Moscow,FC Krasnodar,6,1,2021-03-07 16:00:00,Quincy Promes,Cross
+409090,48,SavedShot,0.8209999847412109,0.5770000076293945,0.05270811542868614,Quincy Promes,h,2815,OpenPlay,2020,RightFoot,14386,Spartak Moscow,FC Krasnodar,6,1,2021-03-07 16:00:00,Jordan Larsson,None
+409092,56,MissedShots,0.9319999694824219,0.6659999847412109,0.055813223123550415,Alexander Sobolev,h,5397,OpenPlay,2020,LeftFoot,14386,Spartak Moscow,FC Krasnodar,6,1,2021-03-07 16:00:00,Victor Moses,Cross
+409093,60,Goal,0.8159999847412109,0.545,0.3541863262653351,Alexander Sobolev,h,5397,OpenPlay,2020,RightFoot,14386,Spartak Moscow,FC Krasnodar,6,1,2021-03-07 16:00:00,Quincy Promes,Pass
+409094,62,Goal,0.8440000152587891,0.4640000152587891,0.27487173676490784,Jordan Larsson,h,7770,OpenPlay,2020,LeftFoot,14386,Spartak Moscow,FC Krasnodar,6,1,2021-03-07 16:00:00,Nail Umiarov,Pass
+409095,64,BlockedShot,0.7980000305175782,0.34799999237060547,0.03841007873415947,Victor Moses,h,541,OpenPlay,2020,RightFoot,14386,Spartak Moscow,FC Krasnodar,6,1,2021-03-07 16:00:00,Alexander Sobolev,Chipped
+409096,74,Goal,0.9540000152587891,0.5059999847412109,0.14348696172237396,Ezequiel Ponce,h,2057,SetPiece,2020,Head,14386,Spartak Moscow,FC Krasnodar,6,1,2021-03-07 16:00:00,Alex Kral,Cross
+409097,76,BlockedShot,0.9109999847412109,0.6370000076293946,0.28515055775642395,Jordan Larsson,h,7770,OpenPlay,2020,LeftFoot,14386,Spartak Moscow,FC Krasnodar,6,1,2021-03-07 16:00:00,Ezequiel Ponce,Pass
+409099,81,SavedShot,0.8680000305175781,0.4490000152587891,0.09887168556451797,Nail Umiarov,h,7476,OpenPlay,2020,RightFoot,14386,Spartak Moscow,FC Krasnodar,6,1,2021-03-07 16:00:00,Ayrton Lucas,Chipped
+409100,81,SavedShot,0.8530000305175781,0.27600000381469725,0.05595392733812332,Victor Moses,h,541,OpenPlay,2020,LeftFoot,14386,Spartak Moscow,FC Krasnodar,6,1,2021-03-07 16:00:00,Jorrit Hendrix,Chipped
+409101,82,Goal,0.9259999847412109,0.47200000762939454,0.5801721215248108,Jordan Larsson,h,7770,OpenPlay,2020,LeftFoot,14386,Spartak Moscow,FC Krasnodar,6,1,2021-03-07 16:00:00,,Rebound
+409102,85,SavedShot,0.8090000152587891,0.45599998474121095,0.06947939842939377,Jordan Larsson,h,7770,OpenPlay,2020,LeftFoot,14386,Spartak Moscow,FC Krasnodar,6,1,2021-03-07 16:00:00,Ilya Kutepov,Pass
+409103,91,SavedShot,0.9330000305175781,0.5579999923706055,0.058004166930913925,Ezequiel Ponce,h,2057,OpenPlay,2020,Head,14386,Spartak Moscow,FC Krasnodar,6,1,2021-03-07 16:00:00,Zelimkhan Bakaev,Aerial
+409068,9,MissedShots,0.875999984741211,0.40900001525878904,0.015143372118473053,Ari,a,2930,OpenPlay,2020,Head,14386,Spartak Moscow,FC Krasnodar,6,1,2021-03-07 16:00:00,Aleksey Ionov,Cross
+409069,10,BlockedShot,0.84,0.3110000038146973,0.04409868270158768,Wanderson,a,2450,OpenPlay,2020,RightFoot,14386,Spartak Moscow,FC Krasnodar,6,1,2021-03-07 16:00:00,Yuri Gazinskiy,Pass
+409070,10,BlockedShot,0.865999984741211,0.6819999694824219,0.06136954948306084,Viktor Claesson,a,5478,OpenPlay,2020,RightFoot,14386,Spartak Moscow,FC Krasnodar,6,1,2021-03-07 16:00:00,Tonny Vilhena,Pass
+409075,21,SavedShot,0.9019999694824219,0.2989999961853027,0.05632562190294266,Wanderson,a,2450,OpenPlay,2020,RightFoot,14386,Spartak Moscow,FC Krasnodar,6,1,2021-03-07 16:00:00,Viktor Claesson,Pass
+409076,21,ShotOnPost,0.935,0.40599998474121096,0.3187749683856964,Aleksey Ionov,a,2751,OpenPlay,2020,RightFoot,14386,Spartak Moscow,FC Krasnodar,6,1,2021-03-07 16:00:00,,TakeOn
+409077,26,BlockedShot,0.86,0.3129999923706055,0.03543270006775856,Magomed-Shapi Suleymanov,a,5926,OpenPlay,2020,LeftFoot,14386,Spartak Moscow,FC Krasnodar,6,1,2021-03-07 16:00:00,Rémy Cabella,Pass
+409078,26,MissedShots,0.749000015258789,0.5179999923706055,0.012831638567149639,Yuri Gazinskiy,a,2929,OpenPlay,2020,RightFoot,14386,Spartak Moscow,FC Krasnodar,6,1,2021-03-07 16:00:00,Rémy Cabella,Pass
+409079,27,MissedShots,0.9119999694824219,0.5690000152587891,0.1483551412820816,Magomed-Shapi Suleymanov,a,5926,OpenPlay,2020,LeftFoot,14386,Spartak Moscow,FC Krasnodar,6,1,2021-03-07 16:00:00,Rémy Cabella,Pass
+409080,31,MissedShots,0.785,0.355,0.022827185690402985,Tonny Vilhena,a,7648,OpenPlay,2020,RightFoot,14386,Spartak Moscow,FC Krasnodar,6,1,2021-03-07 16:00:00,Rémy Cabella,Pass
+409081,34,BlockedShot,0.91,0.700999984741211,0.06505176424980164,Evgeniy Chernov,a,5469,OpenPlay,2020,LeftFoot,14386,Spartak Moscow,FC Krasnodar,6,1,2021-03-07 16:00:00,Viktor Claesson,Pass
+409082,34,SavedShot,0.9,0.46599998474121096,0.018837517127394676,Wanderson,a,2450,FromCorner,2020,Head,14386,Spartak Moscow,FC Krasnodar,6,1,2021-03-07 16:00:00,Magomed-Shapi Suleymanov,Aerial
+409083,37,BlockedShot,0.879000015258789,0.5820000076293945,0.07800550758838654,Tonny Vilhena,a,7648,OpenPlay,2020,LeftFoot,14386,Spartak Moscow,FC Krasnodar,6,1,2021-03-07 16:00:00,Aleksey Ionov,BallTouch
+409084,37,BlockedShot,0.8130000305175781,0.505,0.029397232457995415,Viktor Claesson,a,5478,OpenPlay,2020,RightFoot,14386,Spartak Moscow,FC Krasnodar,6,1,2021-03-07 16:00:00,,Rebound
+409088,47,BlockedShot,0.960999984741211,0.580999984741211,0.26539671421051025,Rémy Cabella,a,3390,OpenPlay,2020,Head,14386,Spartak Moscow,FC Krasnodar,6,1,2021-03-07 16:00:00,Aleksey Ionov,KeeperPickup
+409089,47,SavedShot,0.97,0.49,0.7441519498825073,Tonny Vilhena,a,7648,OpenPlay,2020,LeftFoot,14386,Spartak Moscow,FC Krasnodar,6,1,2021-03-07 16:00:00,,Rebound
+409091,55,Goal,0.765,0.4540000152587891,0.017158258706331253,Yuri Gazinskiy,a,2929,OpenPlay,2020,LeftFoot,14386,Spartak Moscow,FC Krasnodar,6,1,2021-03-07 16:00:00,,None
+409098,78,MissedShots,0.7959999847412109,0.3220000076293945,0.025351373478770256,Magomed-Shapi Suleymanov,a,5926,OpenPlay,2020,LeftFoot,14386,Spartak Moscow,FC Krasnodar,6,1,2021-03-07 16:00:00,Daniil Utkin,Pass

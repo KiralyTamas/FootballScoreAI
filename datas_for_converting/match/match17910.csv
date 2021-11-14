@@ -1,0 +1,26 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+435259,7,BlockedShot,0.8580000305175781,0.49900001525878906,0.07434964179992676,Kamaldeen Sulemana,h,9630,OpenPlay,2021,RightFoot,17910,Rennes,Paris Saint Germain,2,0,2021-10-03 11:00:00,,None
+435260,8,BlockedShot,0.8080000305175781,0.29700000762939455,0.01701371744275093,Benjamin Bourigeaud,h,4773,OpenPlay,2021,LeftFoot,17910,Rennes,Paris Saint Germain,2,0,2021-10-03 11:00:00,Kamaldeen Sulemana,Chipped
+435261,9,SavedShot,0.9,0.355,0.06632568687200546,Gaetan Laborde,h,3746,OpenPlay,2021,LeftFoot,17910,Rennes,Paris Saint Germain,2,0,2021-10-03 11:00:00,,None
+435262,16,MissedShots,0.7290000152587891,0.40400001525878904,0.0192082691937685,Jonas Martin,h,3346,OpenPlay,2021,RightFoot,17910,Rennes,Paris Saint Germain,2,0,2021-10-03 11:00:00,Flavien Tait,Pass
+435263,20,MissedShots,0.8030000305175782,0.23299999237060548,0.021695110946893692,Kamaldeen Sulemana,h,9630,OpenPlay,2021,LeftFoot,17910,Rennes,Paris Saint Germain,2,0,2021-10-03 11:00:00,Hamari Traore,Pass
+435269,41,BlockedShot,0.9490000152587891,0.624000015258789,0.07494115084409714,Martin Terrier,h,5611,FromCorner,2021,LeftFoot,17910,Rennes,Paris Saint Germain,2,0,2021-10-03 11:00:00,Warmed Omari,None
+435270,44,Goal,0.9230000305175782,0.44299999237060544,0.3525558114051819,Gaetan Laborde,h,3746,OpenPlay,2021,RightFoot,17910,Rennes,Paris Saint Germain,2,0,2021-10-03 11:00:00,Kamaldeen Sulemana,Cross
+435271,45,Goal,0.8830000305175781,0.53,0.10182978957891464,Flavien Tait,h,5655,OpenPlay,2021,RightFoot,17910,Rennes,Paris Saint Germain,2,0,2021-10-03 11:00:00,Gaetan Laborde,Cross
+435272,61,MissedShots,0.8080000305175781,0.7169999694824218,0.03578018769621849,Kamaldeen Sulemana,h,9630,OpenPlay,2021,RightFoot,17910,Rennes,Paris Saint Germain,2,0,2021-10-03 11:00:00,Flavien Tait,Pass
+435277,76,SavedShot,0.7980000305175782,0.3039999961853027,0.03305593878030777,Hamari Traore,h,3239,OpenPlay,2021,RightFoot,17910,Rennes,Paris Saint Germain,2,0,2021-10-03 11:00:00,Sehrou Guirassy,Pass
+435278,88,MissedShots,0.7619999694824219,0.3220000076293945,0.03199905529618263,Gaetan Laborde,h,3746,OpenPlay,2021,LeftFoot,17910,Rennes,Paris Saint Germain,2,0,2021-10-03 11:00:00,Baptiste Santamaria,Pass
+435281,91,MissedShots,0.8690000152587891,0.4909999847412109,0.049444299191236496,Gaetan Laborde,h,3746,OpenPlay,2021,Head,17910,Rennes,Paris Saint Germain,2,0,2021-10-03 11:00:00,Baptiste Santamaria,Cross
+435258,6,BlockedShot,0.8519999694824218,0.46700000762939453,0.09309399873018265,Lionel Messi,a,2097,OpenPlay,2021,RightFoot,17910,Rennes,Paris Saint Germain,2,0,2021-10-03 11:00:00,Achraf Hakimi,Pass
+435264,22,MissedShots,0.924000015258789,0.5929999923706055,0.40918245911598206,Neymar,a,2099,OpenPlay,2021,LeftFoot,17910,Rennes,Paris Saint Germain,2,0,2021-10-03 11:00:00,,BallTouch
+435265,24,MissedShots,0.9069999694824219,0.645,0.3373933434486389,Kylian Mbappe-Lottin,a,3423,OpenPlay,2021,LeftFoot,17910,Rennes,Paris Saint Germain,2,0,2021-10-03 11:00:00,Lionel Messi,Throughball
+435266,26,MissedShots,0.7869999694824219,0.605,0.032118845731019974,Idrissa Gueye,a,668,OpenPlay,2021,RightFoot,17910,Rennes,Paris Saint Germain,2,0,2021-10-03 11:00:00,Lionel Messi,Pass
+435267,30,ShotOnPost,0.774000015258789,0.43900001525878907,0.08677644282579422,Lionel Messi,a,2097,DirectFreekick,2021,LeftFoot,17910,Rennes,Paris Saint Germain,2,0,2021-10-03 11:00:00,,Standard
+435268,31,BlockedShot,0.919000015258789,0.6029999923706054,0.12047961354255676,Lionel Messi,a,2097,OpenPlay,2021,LeftFoot,17910,Rennes,Paris Saint Germain,2,0,2021-10-03 11:00:00,Kylian Mbappe-Lottin,Pass
+435273,62,MissedShots,0.7530000305175781,0.764000015258789,0.00967160239815712,Kylian Mbappe-Lottin,a,3423,OpenPlay,2021,RightFoot,17910,Rennes,Paris Saint Germain,2,0,2021-10-03 11:00:00,Neymar,Pass
+435274,64,MissedShots,0.825,0.735,0.022055024281144142,Kylian Mbappe-Lottin,a,3423,OpenPlay,2021,RightFoot,17910,Rennes,Paris Saint Germain,2,0,2021-10-03 11:00:00,Lionel Messi,Pass
+435275,69,MissedShots,0.9,0.6580000305175782,0.07086241990327835,Kylian Mbappe-Lottin,a,3423,OpenPlay,2021,LeftFoot,17910,Rennes,Paris Saint Germain,2,0,2021-10-03 11:00:00,Nuno Mendes,Pass
+435276,73,MissedShots,0.795,0.5479999923706055,0.11765385419130325,Lionel Messi,a,2097,DirectFreekick,2021,LeftFoot,17910,Rennes,Paris Saint Germain,2,0,2021-10-03 11:00:00,,Standard
+435279,88,MissedShots,0.8469999694824218,0.7319999694824219,0.02759159542620182,Ángel Di María,a,3553,OpenPlay,2021,LeftFoot,17910,Rennes,Paris Saint Germain,2,0,2021-10-03 11:00:00,Ander Herrera,Pass
+435280,90,MissedShots,0.8119999694824219,0.5420000076293945,0.05513080582022667,Lionel Messi,a,2097,OpenPlay,2021,LeftFoot,17910,Rennes,Paris Saint Germain,2,0,2021-10-03 11:00:00,Ángel Di María,Pass
+435282,93,BlockedShot,0.735999984741211,0.3770000076293945,0.015812762081623077,Ángel Di María,a,3553,SetPiece,2021,LeftFoot,17910,Rennes,Paris Saint Germain,2,0,2021-10-03 11:00:00,,TakeOn

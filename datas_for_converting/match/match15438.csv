@@ -1,0 +1,26 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+423631,4,Goal,0.9130000305175782,0.6580000305175782,0.1182284951210022,Erling Haaland,h,8260,OpenPlay,2020,LeftFoot,15438,Borussia Dortmund,Bayer Leverkusen,3,1,2021-05-22 13:30:00,Reinier,Throughball
+423640,43,BlockedShot,0.860999984741211,0.44,0.10691629350185394,Marco Reus,h,319,OpenPlay,2020,RightFoot,15438,Borussia Dortmund,Bayer Leverkusen,3,1,2021-05-22 13:30:00,Erling Haaland,Pass
+423641,50,Goal,0.8440000152587891,0.8019999694824219,0.056496791541576385,Marco Reus,h,319,DirectFreekick,2020,RightFoot,15438,Borussia Dortmund,Bayer Leverkusen,3,1,2021-05-22 13:30:00,,Standard
+423642,55,MissedShots,0.8290000152587891,0.40299999237060546,0.03390989452600479,Lukasz Piszczek,h,310,OpenPlay,2020,Head,15438,Borussia Dortmund,Bayer Leverkusen,3,1,2021-05-22 13:30:00,Julian Brandt,Chipped
+423643,59,MissedShots,0.7730000305175782,0.59,0.027648231014609337,Jude Bellingham,h,8824,OpenPlay,2020,LeftFoot,15438,Borussia Dortmund,Bayer Leverkusen,3,1,2021-05-22 13:30:00,Nico Schulz,Pass
+423647,68,MissedShots,0.860999984741211,0.615,0.10660426318645477,Jude Bellingham,h,8824,OpenPlay,2020,RightFoot,15438,Borussia Dortmund,Bayer Leverkusen,3,1,2021-05-22 13:30:00,Reinier,Pass
+423649,71,MissedShots,0.8819999694824219,0.590999984741211,0.12711219489574432,Erling Haaland,h,8260,OpenPlay,2020,LeftFoot,15438,Borussia Dortmund,Bayer Leverkusen,3,1,2021-05-22 13:30:00,Nico Schulz,Pass
+423652,81,BlockedShot,0.8690000152587891,0.4809999847412109,0.17899954319000244,Jadon Sancho,h,6345,OpenPlay,2020,RightFoot,15438,Borussia Dortmund,Bayer Leverkusen,3,1,2021-05-22 13:30:00,,TakeOn
+423653,83,Goal,0.9440000152587891,0.43099998474121093,0.8738992810249329,Erling Haaland,h,8260,OpenPlay,2020,LeftFoot,15438,Borussia Dortmund,Bayer Leverkusen,3,1,2021-05-22 13:30:00,,TakeOn
+423632,21,MissedShots,0.9119999694824219,0.41,0.06763546913862228,Paulinho,a,7067,OpenPlay,2020,Head,15438,Borussia Dortmund,Bayer Leverkusen,3,1,2021-05-22 13:30:00,Karim Bellarabi,Cross
+423633,25,BlockedShot,0.795,0.6969999694824218,0.02046073228120804,Demarai Gray,a,762,OpenPlay,2020,RightFoot,15438,Borussia Dortmund,Bayer Leverkusen,3,1,2021-05-22 13:30:00,Florian Wirtz,Pass
+423634,26,BlockedShot,0.7730000305175782,0.2520000076293945,0.01688682846724987,Karim Bellarabi,a,186,OpenPlay,2020,RightFoot,15438,Borussia Dortmund,Bayer Leverkusen,3,1,2021-05-22 13:30:00,Florian Wirtz,Pass
+423635,29,MissedShots,0.7759999847412109,0.805,0.01541815884411335,Demarai Gray,a,762,OpenPlay,2020,RightFoot,15438,Borussia Dortmund,Bayer Leverkusen,3,1,2021-05-22 13:30:00,Sven Bender,Pass
+423636,34,SavedShot,0.924000015258789,0.43099998474121093,0.11907895654439926,Paulinho,a,7067,OpenPlay,2020,RightFoot,15438,Borussia Dortmund,Bayer Leverkusen,3,1,2021-05-22 13:30:00,Karim Bellarabi,Pass
+423637,37,BlockedShot,0.7869999694824219,0.26799999237060546,0.019179029390215874,Paulinho,a,7067,OpenPlay,2020,RightFoot,15438,Borussia Dortmund,Bayer Leverkusen,3,1,2021-05-22 13:30:00,Charles Aránguiz,Pass
+423638,40,SavedShot,0.8219999694824218,0.6909999847412109,0.028637811541557312,Kerem Demirbay,a,5273,OpenPlay,2020,LeftFoot,15438,Borussia Dortmund,Bayer Leverkusen,3,1,2021-05-22 13:30:00,,None
+423639,41,SavedShot,0.8030000305175782,0.25799999237060545,0.01872183568775654,Karim Bellarabi,a,186,OpenPlay,2020,RightFoot,15438,Borussia Dortmund,Bayer Leverkusen,3,1,2021-05-22 13:30:00,Florian Wirtz,Pass
+423644,63,SavedShot,0.9219999694824219,0.40099998474121096,0.0442245677113533,Sven Bender,a,311,FromCorner,2020,Head,15438,Borussia Dortmund,Bayer Leverkusen,3,1,2021-05-22 13:30:00,Demarai Gray,Cross
+423645,64,SavedShot,0.9490000152587891,0.315,0.23505905270576477,Demarai Gray,a,762,OpenPlay,2020,RightFoot,15438,Borussia Dortmund,Bayer Leverkusen,3,1,2021-05-22 13:30:00,,None
+423646,65,MissedShots,0.8719999694824219,0.25799999237060545,0.031786758452653885,Karim Bellarabi,a,186,OpenPlay,2020,LeftFoot,15438,Borussia Dortmund,Bayer Leverkusen,3,1,2021-05-22 13:30:00,Florian Wirtz,Pass
+423648,69,SavedShot,0.9269999694824219,0.32799999237060545,0.08530859649181366,Karim Bellarabi,a,186,OpenPlay,2020,RightFoot,15438,Borussia Dortmund,Bayer Leverkusen,3,1,2021-05-22 13:30:00,Demarai Gray,Pass
+423650,77,BlockedShot,0.855999984741211,0.6170000076293946,0.028904525563120842,Kerem Demirbay,a,5273,OpenPlay,2020,RightFoot,15438,Borussia Dortmund,Bayer Leverkusen,3,1,2021-05-22 13:30:00,Patrik Schick,HeadPass
+423651,78,MissedShots,0.9130000305175782,0.624000015258789,0.04359828308224678,Patrik Schick,a,1236,FromCorner,2020,LeftFoot,15438,Borussia Dortmund,Bayer Leverkusen,3,1,2021-05-22 13:30:00,Moussa Diaby,Cross
+423654,84,MissedShots,0.8090000152587891,0.6419999694824219,0.03688199818134308,Kerem Demirbay,a,5273,OpenPlay,2020,LeftFoot,15438,Borussia Dortmund,Bayer Leverkusen,3,1,2021-05-22 13:30:00,Demarai Gray,Pass
+423655,88,Goal,0.885,0.5,0.75777667760849,Lars Bender,a,421,Penalty,2020,RightFoot,15438,Borussia Dortmund,Bayer Leverkusen,3,1,2021-05-22 13:30:00,,Standard

@@ -1,0 +1,32 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+409291,2,MissedShots,0.779000015258789,0.740999984741211,0.013369263149797916,Khvicha Kvaratskhelia,h,7453,OpenPlay,2020,RightFoot,14390,Rubin Kazan,Zenit St. Petersburg,2,1,2021-03-08 13:30:00,Ilya Samoshnikov,TakeOn
+409295,8,SavedShot,0.8190000152587891,0.754000015258789,0.011154034174978733,Ilya Samoshnikov,h,8362,OpenPlay,2020,RightFoot,14390,Rubin Kazan,Zenit St. Petersburg,2,1,2021-03-08 13:30:00,Darko Jevtic,Chipped
+409298,18,SavedShot,0.8519999694824218,0.6329999923706054,0.051150254905223846,Khvicha Kvaratskhelia,h,7453,OpenPlay,2020,LeftFoot,14390,Rubin Kazan,Zenit St. Petersburg,2,1,2021-03-08 13:30:00,Denis Makarov,None
+409299,21,BlockedShot,0.8190000152587891,0.57,0.03460600972175598,Djorde Despotovic,h,7121,OpenPlay,2020,LeftFoot,14390,Rubin Kazan,Zenit St. Petersburg,2,1,2021-03-08 13:30:00,Darko Jevtic,HeadPass
+409301,33,BlockedShot,0.840999984741211,0.415,0.06280721724033356,Darko Jevtic,h,8360,OpenPlay,2020,RightFoot,14390,Rubin Kazan,Zenit St. Petersburg,2,1,2021-03-08 13:30:00,Soltmurad Bakaev,BallTouch
+409302,40,Goal,0.885,0.5,0.7542753219604492,Djorde Despotovic,h,7121,Penalty,2020,LeftFoot,14390,Rubin Kazan,Zenit St. Petersburg,2,1,2021-03-08 13:30:00,,Standard
+409306,47,BlockedShot,0.7959999847412109,0.36700000762939455,0.05585474148392677,Denis Makarov,h,8361,OpenPlay,2020,LeftFoot,14390,Rubin Kazan,Zenit St. Petersburg,2,1,2021-03-08 13:30:00,,TakeOn
+409314,84,MissedShots,0.865999984741211,0.33099998474121095,0.017416007816791534,Khvicha Kvaratskhelia,h,7453,SetPiece,2020,RightFoot,14390,Rubin Kazan,Zenit St. Petersburg,2,1,2021-03-08 13:30:00,,Aerial
+409315,84,MissedShots,0.925,0.51,0.04973610118031502,Filip Uremovic,h,6797,FromCorner,2020,Head,14390,Rubin Kazan,Zenit St. Petersburg,2,1,2021-03-08 13:30:00,Georgi Zotov,Aerial
+409317,86,MissedShots,0.7909999847412109,0.6079999923706054,0.03843981772661209,Denis Makarov,h,8361,OpenPlay,2020,RightFoot,14390,Rubin Kazan,Zenit St. Petersburg,2,1,2021-03-08 13:30:00,,TakeOn
+409319,91,Goal,0.8930000305175781,0.6179999923706054,0.19786563515663147,Denis Makarov,h,8361,OpenPlay,2020,LeftFoot,14390,Rubin Kazan,Zenit St. Petersburg,2,1,2021-03-08 13:30:00,Djorde Despotovic,TakeOn
+409292,3,MissedShots,0.8880000305175781,0.6530000305175782,0.011370467953383923,Sardar Azmoun,a,2774,OpenPlay,2020,Head,14390,Rubin Kazan,Zenit St. Petersburg,2,1,2021-03-08 13:30:00,Magomed Ozdoev,Aerial
+409293,5,ShotOnPost,0.875999984741211,0.47400001525878904,0.08594132214784622,Sardar Azmoun,a,2774,OpenPlay,2020,RightFoot,14390,Rubin Kazan,Zenit St. Petersburg,2,1,2021-03-08 13:30:00,,None
+409294,8,SavedShot,0.775,0.6659999847412109,0.0193370021879673,Wendel,a,8984,OpenPlay,2020,RightFoot,14390,Rubin Kazan,Zenit St. Petersburg,2,1,2021-03-08 13:30:00,Magomed Ozdoev,Pass
+409296,13,SavedShot,0.805,0.33599998474121096,0.027146635577082634,Vyacheslav Karavayev,a,5538,OpenPlay,2020,RightFoot,14390,Rubin Kazan,Zenit St. Petersburg,2,1,2021-03-08 13:30:00,,None
+409297,18,ShotOnPost,0.9580000305175781,0.524000015258789,0.5610785484313965,Sardar Azmoun,a,2774,OpenPlay,2020,Head,14390,Rubin Kazan,Zenit St. Petersburg,2,1,2021-03-08 13:30:00,Wendel,Chipped
+409300,27,MissedShots,0.925,0.5479999923706055,0.03683258220553398,Dejan Lovren,a,602,FromCorner,2020,Head,14390,Rubin Kazan,Zenit St. Petersburg,2,1,2021-03-08 13:30:00,Yaroslav Rakitskiy,Aerial
+409303,46,MissedShots,0.9719999694824218,0.49,0.866090714931488,Sardar Azmoun,a,2774,OpenPlay,2020,LeftFoot,14390,Rubin Kazan,Zenit St. Petersburg,2,1,2021-03-08 13:30:00,Magomed Ozdoev,Pass
+409304,48,SavedShot,0.9169999694824219,0.4759999847412109,0.085580974817276,Sardar Azmoun,a,2774,OpenPlay,2020,Head,14390,Rubin Kazan,Zenit St. Petersburg,2,1,2021-03-08 13:30:00,Yaroslav Rakitskiy,Cross
+409305,49,BlockedShot,0.7130000305175781,0.4490000152587891,0.0131477490067482,Dejan Lovren,a,602,OpenPlay,2020,RightFoot,14390,Rubin Kazan,Zenit St. Petersburg,2,1,2021-03-08 13:30:00,,BallTouch
+409307,53,BlockedShot,0.7680000305175781,0.6880000305175781,0.0160878486931324,Wendel,a,8984,OpenPlay,2020,RightFoot,14390,Rubin Kazan,Zenit St. Petersburg,2,1,2021-03-08 13:30:00,Wilmar Barrios,HeadPass
+409308,55,SavedShot,0.845,0.639000015258789,0.05832343548536301,Wendel,a,8984,OpenPlay,2020,RightFoot,14390,Rubin Kazan,Zenit St. Petersburg,2,1,2021-03-08 13:30:00,Daler Kuzyaev,Pass
+409309,57,BlockedShot,0.7530000305175781,0.47099998474121096,0.021825339645147324,Magomed Ozdoev,a,2968,OpenPlay,2020,LeftFoot,14390,Rubin Kazan,Zenit St. Petersburg,2,1,2021-03-08 13:30:00,Yaroslav Rakitskiy,Pass
+409310,67,MissedShots,0.879000015258789,0.32599998474121095,0.044484350830316544,Daler Kuzyaev,a,2854,OpenPlay,2020,RightFoot,14390,Rubin Kazan,Zenit St. Petersburg,2,1,2021-03-08 13:30:00,Magomed Ozdoev,Pass
+409311,74,Goal,0.92,0.48,0.12227426469326019,Sardar Azmoun,a,2774,SetPiece,2020,Head,14390,Rubin Kazan,Zenit St. Petersburg,2,1,2021-03-08 13:30:00,Yaroslav Rakitskiy,Cross
+409312,81,BlockedShot,0.92,0.4759999847412109,0.08471834659576416,Sardar Azmoun,a,2774,FromCorner,2020,LeftFoot,14390,Rubin Kazan,Zenit St. Petersburg,2,1,2021-03-08 13:30:00,Daniil Krugovoy,Challenge
+409313,83,MissedShots,0.7319999694824219,0.6040000152587891,0.01106939185410738,Douglas Santos,a,5286,SetPiece,2020,LeftFoot,14390,Rubin Kazan,Zenit St. Petersburg,2,1,2021-03-08 13:30:00,,None
+409316,85,SavedShot,0.7480000305175781,0.5170000076293946,0.01695377193391323,Wendel,a,8984,OpenPlay,2020,RightFoot,14390,Rubin Kazan,Zenit St. Petersburg,2,1,2021-03-08 13:30:00,Daler Kuzyaev,Pass
+409318,90,BlockedShot,0.865999984741211,0.355,0.06692306697368622,Wendel,a,8984,OpenPlay,2020,RightFoot,14390,Rubin Kazan,Zenit St. Petersburg,2,1,2021-03-08 13:30:00,Aleksey Sutormin,Pass
+409320,96,BlockedShot,0.9069999694824219,0.4759999847412109,0.070836640894413,Aleksandr Erokhin,a,2772,OpenPlay,2020,LeftFoot,14390,Rubin Kazan,Zenit St. Petersburg,2,1,2021-03-08 13:30:00,Dejan Lovren,Aerial
+409321,98,SavedShot,0.885,0.5,0.7542718052864075,Artem Dzyuba,a,3063,Penalty,2020,RightFoot,14390,Rubin Kazan,Zenit St. Petersburg,2,1,2021-03-08 13:30:00,,Standard

@@ -1,0 +1,29 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+312354,6,BlockedShot,0.7290000152587891,0.5370000076293945,0.01637548767030239,Christoph Baumgartner,h,7422,OpenPlay,2019,RightFoot,12414,Hoffenheim,Werder Bremen,3,2,2019-08-24 14:30:00,Ihlas Bebou,Pass
+312362,45,MissedShots,0.9,0.485,0.03352123498916626,Christoph Baumgartner,h,7422,OpenPlay,2019,Head,12414,Hoffenheim,Werder Bremen,3,2,2019-08-24 14:30:00,Pavel Kaderábek,Aerial
+312364,50,BlockedShot,0.9340000152587891,0.6120000076293945,0.03830830380320549,Stefan Posch,h,5329,FromCorner,2019,Head,12414,Hoffenheim,Werder Bremen,3,2,2019-08-24 14:30:00,Dennis Geiger,Cross
+312365,53,Goal,0.93,0.4329999923706055,0.03601200133562088,Ermin Bicakcic,h,84,FromCorner,2019,Head,12414,Hoffenheim,Werder Bremen,3,2,2019-08-24 14:30:00,Dennis Geiger,Aerial
+312368,58,Goal,0.8819999694824219,0.47099998474121096,0.40480494499206543,Ihlas Bebou,h,6271,OpenPlay,2019,RightFoot,12414,Hoffenheim,Werder Bremen,3,2,2019-08-24 14:30:00,Robert Skov,BallTouch
+312371,65,MissedShots,0.7719999694824219,0.39,0.033160243183374405,Robert Skov,h,7867,OpenPlay,2019,LeftFoot,12414,Hoffenheim,Werder Bremen,3,2,2019-08-24 14:30:00,Ihlas Bebou,Pass
+312375,77,BlockedShot,0.865,0.445,0.11716567724943161,Florian Grillitsch,h,116,OpenPlay,2019,RightFoot,12414,Hoffenheim,Werder Bremen,3,2,2019-08-24 14:30:00,Ishak Belfodil,Pass
+312379,86,Goal,0.9069999694824219,0.48900001525878906,0.282260924577713,Pavel Kaderábek,h,74,FromCorner,2019,Head,12414,Hoffenheim,Werder Bremen,3,2,2019-08-24 14:30:00,Dennis Geiger,Cross
+312380,88,MissedShots,0.9180000305175782,0.445,0.048801589757204056,Florian Grillitsch,h,116,SetPiece,2019,Head,12414,Hoffenheim,Werder Bremen,3,2,2019-08-24 14:30:00,Konstantinos Stafylidis,Aerial
+312381,92,BlockedShot,0.845999984741211,0.25799999237060545,0.040550705045461655,Leonardo Bittencourt,h,262,OpenPlay,2019,LeftFoot,12414,Hoffenheim,Werder Bremen,3,2,2019-08-24 14:30:00,Ihlas Bebou,BallRecovery
+312355,7,MissedShots,0.715,0.4909999847412109,0.02098630554974079,Yuya Osako,a,135,OpenPlay,2019,LeftFoot,12414,Hoffenheim,Werder Bremen,3,2,2019-08-24 14:30:00,Nuri Sahin,Pass
+312356,21,BlockedShot,0.830999984741211,0.7230000305175781,0.028632501140236855,Niclas Füllkrug,a,6098,OpenPlay,2019,RightFoot,12414,Hoffenheim,Werder Bremen,3,2,2019-08-24 14:30:00,Nuri Sahin,Pass
+312357,37,BlockedShot,0.9180000305175782,0.315,0.05888574942946434,Johannes Eggestein,a,6084,OpenPlay,2019,RightFoot,12414,Hoffenheim,Werder Bremen,3,2,2019-08-24 14:30:00,Maximilian Eggestein,BallRecovery
+312358,37,SavedShot,0.925,0.48200000762939454,0.05508723855018616,Niclas Füllkrug,a,6098,FromCorner,2019,Head,12414,Hoffenheim,Werder Bremen,3,2,2019-08-24 14:30:00,Nuri Sahin,Aerial
+312359,41,BlockedShot,0.774000015258789,0.5070000076293946,0.03068172186613083,Kevin Möhwald,a,7044,OpenPlay,2019,RightFoot,12414,Hoffenheim,Werder Bremen,3,2,2019-08-24 14:30:00,Yuya Osako,Pass
+312360,41,Goal,0.92,0.4809999847412109,0.04851602762937546,Niclas Füllkrug,a,6098,FromCorner,2019,Head,12414,Hoffenheim,Werder Bremen,3,2,2019-08-24 14:30:00,Nuri Sahin,Aerial
+312361,44,MissedShots,0.8030000305175782,0.3110000038146973,0.01719314232468605,Johannes Eggestein,a,6084,SetPiece,2019,RightFoot,12414,Hoffenheim,Werder Bremen,3,2,2019-08-24 14:30:00,,None
+312363,46,BlockedShot,0.740999984741211,0.624000015258789,0.01144398283213377,Kevin Möhwald,a,7044,SetPiece,2019,RightFoot,12414,Hoffenheim,Werder Bremen,3,2,2019-08-24 14:30:00,,None
+312366,55,BlockedShot,0.9530000305175781,0.675,0.06636520475149155,Johannes Eggestein,a,6084,OpenPlay,2019,LeftFoot,12414,Hoffenheim,Werder Bremen,3,2,2019-08-24 14:30:00,Yuya Osako,Pass
+312367,55,SavedShot,0.759000015258789,0.5329999923706055,0.01457388699054718,Maximilian Eggestein,a,125,FromCorner,2019,RightFoot,12414,Hoffenheim,Werder Bremen,3,2,2019-08-24 14:30:00,,Aerial
+312369,59,BlockedShot,0.8780000305175781,0.33299999237060546,0.05046211928129196,Maximilian Eggestein,a,125,OpenPlay,2019,RightFoot,12414,Hoffenheim,Werder Bremen,3,2,2019-08-24 14:30:00,,Dispossessed
+312370,60,BlockedShot,0.9169999694824219,0.504000015258789,0.046206600964069366,Niclas Füllkrug,a,6098,FromCorner,2019,Head,12414,Hoffenheim,Werder Bremen,3,2,2019-08-24 14:30:00,Nuri Sahin,Aerial
+312372,70,MissedShots,0.8530000305175781,0.39799999237060546,0.0671963095664978,Davy Klaassen,a,6045,OpenPlay,2019,RightFoot,12414,Hoffenheim,Werder Bremen,3,2,2019-08-24 14:30:00,Maximilian Eggestein,Pass
+312373,70,SavedShot,0.8959999847412109,0.4759999847412109,0.10267193615436554,Yuya Osako,a,135,OpenPlay,2019,RightFoot,12414,Hoffenheim,Werder Bremen,3,2,2019-08-24 14:30:00,Davy Klaassen,Rebound
+312374,70,MissedShots,0.9290000152587891,0.4229999923706055,0.0384945273399353,Niclas Füllkrug,a,6098,OpenPlay,2019,Head,12414,Hoffenheim,Werder Bremen,3,2,2019-08-24 14:30:00,,None
+312376,78,BlockedShot,0.899000015258789,0.355,0.062342412769794464,Maximilian Eggestein,a,125,OpenPlay,2019,LeftFoot,12414,Hoffenheim,Werder Bremen,3,2,2019-08-24 14:30:00,Yuya Osako,Chipped
+312377,78,MissedShots,0.7909999847412109,0.28899999618530275,0.01889892667531967,Kevin Möhwald,a,7044,OpenPlay,2019,RightFoot,12414,Hoffenheim,Werder Bremen,3,2,2019-08-24 14:30:00,Maximilian Eggestein,Pass
+312378,80,Goal,0.855,0.46099998474121096,0.10968676954507828,Yuya Osako,a,135,OpenPlay,2019,RightFoot,12414,Hoffenheim,Werder Bremen,3,2,2019-08-24 14:30:00,Davy Klaassen,TakeOn

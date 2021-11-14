@@ -1,0 +1,34 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+321433,4,MissedShots,0.7269999694824218,0.639000015258789,0.014250433072447777,Thiago Mendes,h,6011,OpenPlay,2019,RightFoot,12761,Lyon,Paris Saint Germain,0,1,2019-09-22 19:00:00,Youssouf Kone,Pass
+321437,13,MissedShots,0.7680000305175781,0.754000015258789,0.01570592075586319,Memphis Depay,h,555,OpenPlay,2019,RightFoot,12761,Lyon,Paris Saint Germain,0,1,2019-09-22 19:00:00,Youssouf Kone,Pass
+321439,17,MissedShots,0.745,0.7580000305175781,0.01200552936643362,Youssouf Kone,h,3367,OpenPlay,2019,LeftFoot,12761,Lyon,Paris Saint Germain,0,1,2019-09-22 19:00:00,,Dispossessed
+321440,20,MissedShots,0.8059999847412109,0.695,0.045393120497465134,Moussa Dembele,h,7142,OpenPlay,2019,RightFoot,12761,Lyon,Paris Saint Germain,0,1,2019-09-22 19:00:00,Jeff Reine-Adelaide,Pass
+321442,22,MissedShots,0.8280000305175781,0.6329999923706054,0.0500095896422863,Memphis Depay,h,555,OpenPlay,2019,LeftFoot,12761,Lyon,Paris Saint Germain,0,1,2019-09-22 19:00:00,Moussa Dembele,Pass
+321451,42,MissedShots,0.7430000305175781,0.545,0.02060539461672306,Thiago Mendes,h,6011,FromCorner,2019,RightFoot,12761,Lyon,Paris Saint Germain,0,1,2019-09-22 19:00:00,Moussa Dembele,Pass
+321452,45,MissedShots,0.7340000152587891,0.5990000152587891,0.01971304975450039,Moussa Dembele,h,7142,OpenPlay,2019,LeftFoot,12761,Lyon,Paris Saint Germain,0,1,2019-09-22 19:00:00,Jeff Reine-Adelaide,Pass
+321453,48,MissedShots,0.9430000305175781,0.41200000762939454,0.09557454288005829,Houssem Aouar,h,5733,OpenPlay,2019,RightFoot,12761,Lyon,Paris Saint Germain,0,1,2019-09-22 19:00:00,Youssouf Kone,Cross
+321455,55,BlockedShot,0.7680000305175781,0.5029999923706054,0.02580009400844574,Thiago Mendes,h,6011,OpenPlay,2019,RightFoot,12761,Lyon,Paris Saint Germain,0,1,2019-09-22 19:00:00,Houssem Aouar,Pass
+321459,70,MissedShots,0.9059999847412109,0.59,0.030953040346503258,Houssem Aouar,h,5733,OpenPlay,2019,Head,12761,Lyon,Paris Saint Germain,0,1,2019-09-22 19:00:00,Léo Dubois,Aerial
+321464,93,BlockedShot,0.8530000305175781,0.55,0.030417827889323235,Moussa Dembele,h,7142,SetPiece,2019,LeftFoot,12761,Lyon,Paris Saint Germain,0,1,2019-09-22 19:00:00,,Aerial
+321465,93,MissedShots,0.7390000152587891,0.6140000152587891,0.013035672716796398,Youssouf Kone,h,3367,SetPiece,2019,LeftFoot,12761,Lyon,Paris Saint Germain,0,1,2019-09-22 19:00:00,,Rebound
+321434,7,BlockedShot,0.76,0.40900001525878904,0.009967457503080368,Ángel Di María,a,3553,FromCorner,2019,LeftFoot,12761,Lyon,Paris Saint Germain,0,1,2019-09-22 19:00:00,Neymar,Chipped
+321435,9,BlockedShot,0.9259999847412109,0.674000015258789,0.07007946819067001,Neymar,a,2099,OpenPlay,2019,LeftFoot,12761,Lyon,Paris Saint Germain,0,1,2019-09-22 19:00:00,Idrissa Gueye,Pass
+321436,12,SavedShot,0.8909999847412109,0.3029999923706055,0.047610435634851456,Eric Maxim Choupo-Moting,a,339,OpenPlay,2019,RightFoot,12761,Lyon,Paris Saint Germain,0,1,2019-09-22 19:00:00,Ángel Di María,Pass
+321438,15,BlockedShot,0.875,0.3120000076293945,0.0537283830344677,Ángel Di María,a,3553,OpenPlay,2019,LeftFoot,12761,Lyon,Paris Saint Germain,0,1,2019-09-22 19:00:00,Eric Maxim Choupo-Moting,BallTouch
+321441,21,SavedShot,0.8780000305175781,0.53,0.3565136194229126,Neymar,a,2099,OpenPlay,2019,RightFoot,12761,Lyon,Paris Saint Germain,0,1,2019-09-22 19:00:00,,TakeOn
+321443,22,SavedShot,0.8540000152587891,0.759000015258789,0.02585916593670845,Ángel Di María,a,3553,OpenPlay,2019,RightFoot,12761,Lyon,Paris Saint Germain,0,1,2019-09-22 19:00:00,Juan Bernat,Pass
+321444,29,BlockedShot,0.899000015258789,0.47900001525878905,0.03646140173077583,Marquinhos,a,3297,OpenPlay,2019,Head,12761,Lyon,Paris Saint Germain,0,1,2019-09-22 19:00:00,Neymar,Foul
+321445,29,MissedShots,0.8069999694824219,0.72,0.011918730102479458,Ander Herrera,a,552,OpenPlay,2019,RightFoot,12761,Lyon,Paris Saint Germain,0,1,2019-09-22 19:00:00,,Aerial
+321446,31,BlockedShot,0.7609999847412109,0.395,0.021993210539221764,Ángel Di María,a,3553,OpenPlay,2019,LeftFoot,12761,Lyon,Paris Saint Germain,0,1,2019-09-22 19:00:00,Thomas Meunier,Pass
+321447,32,BlockedShot,0.9530000305175781,0.5570000076293945,0.10961542278528214,Eric Maxim Choupo-Moting,a,339,OpenPlay,2019,LeftFoot,12761,Lyon,Paris Saint Germain,0,1,2019-09-22 19:00:00,,None
+321448,37,BlockedShot,0.8490000152587891,0.6969999694824218,0.026601724326610565,Neymar,a,2099,FromCorner,2019,RightFoot,12761,Lyon,Paris Saint Germain,0,1,2019-09-22 19:00:00,Ander Herrera,LayOff
+321449,40,SavedShot,0.7169999694824218,0.5329999923706055,0.04659367352724075,Neymar,a,2099,DirectFreekick,2019,RightFoot,12761,Lyon,Paris Saint Germain,0,1,2019-09-22 19:00:00,,Standard
+321450,41,BlockedShot,0.7919999694824219,0.40099998474121096,0.03355010598897934,Ángel Di María,a,3553,FromCorner,2019,LeftFoot,12761,Lyon,Paris Saint Germain,0,1,2019-09-22 19:00:00,,TakeOn
+321454,51,SavedShot,0.889000015258789,0.759000015258789,0.030922511592507362,Neymar,a,2099,OpenPlay,2019,RightFoot,12761,Lyon,Paris Saint Germain,0,1,2019-09-22 19:00:00,Idrissa Gueye,Pass
+321456,58,MissedShots,0.9440000152587891,0.46599998474121096,0.07058873772621155,Abdou Diallo,a,4804,FromCorner,2019,Head,12761,Lyon,Paris Saint Germain,0,1,2019-09-22 19:00:00,Neymar,Aerial
+321457,60,BlockedShot,0.7909999847412109,0.66,0.02781909517943859,Idrissa Gueye,a,668,OpenPlay,2019,RightFoot,12761,Lyon,Paris Saint Germain,0,1,2019-09-22 19:00:00,Juan Bernat,Pass
+321458,68,SavedShot,0.7569999694824219,0.649000015258789,0.021364428102970123,Neymar,a,2099,OpenPlay,2019,RightFoot,12761,Lyon,Paris Saint Germain,0,1,2019-09-22 19:00:00,Idrissa Gueye,Pass
+321460,71,MissedShots,0.9619999694824218,0.68,0.06016577035188675,Ángel Di María,a,3553,OpenPlay,2019,LeftFoot,12761,Lyon,Paris Saint Germain,0,1,2019-09-22 19:00:00,Eric Maxim Choupo-Moting,Pass
+321461,81,BlockedShot,0.81,0.7119999694824218,0.0246775820851326,Neymar,a,2099,OpenPlay,2019,LeftFoot,12761,Lyon,Paris Saint Germain,0,1,2019-09-22 19:00:00,Idrissa Gueye,Pass
+321462,83,MissedShots,0.935,0.4,0.07731394469738007,Eric Maxim Choupo-Moting,a,339,OpenPlay,2019,Head,12761,Lyon,Paris Saint Germain,0,1,2019-09-22 19:00:00,Thomas Meunier,Cross
+321463,86,Goal,0.8830000305175781,0.6179999923706054,0.09378521889448166,Neymar,a,2099,OpenPlay,2019,LeftFoot,12761,Lyon,Paris Saint Germain,0,1,2019-09-22 19:00:00,Ángel Di María,Pass

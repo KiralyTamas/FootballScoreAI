@@ -1,0 +1,31 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+115328,0,BlockedShot,0.8180000305175781,0.355,0.03408392146229744,Josh Sims,h,5565,OpenPlay,2016,LeftFoot,2715,Southampton,Everton,1,0,2016-11-27 20:30:00,Pierre-Emile Højbjerg,TakeOn
+115329,0,Goal,0.9830000305175781,0.53,0.8260823488235474,Charlie Austin,h,848,OpenPlay,2016,Head,2715,Southampton,Everton,1,0,2016-11-27 20:30:00,Josh Sims,Pass
+115330,13,MissedShots,0.7380000305175781,0.4640000152587891,0.009945283643901348,Pierre-Emile Højbjerg,h,343,SetPiece,2016,RightFoot,2715,Southampton,Everton,1,0,2016-11-27 20:30:00,,Aerial
+115331,16,SavedShot,0.9159999847412109,0.49400001525878906,0.3777198791503906,Josh Sims,h,5565,OpenPlay,2016,Head,2715,Southampton,Everton,1,0,2016-11-27 20:30:00,Nathan Redmond,Cross
+115332,19,MissedShots,0.7340000152587891,0.47400001525878904,0.02322717010974884,Pierre-Emile Højbjerg,h,343,OpenPlay,2016,RightFoot,2715,Southampton,Everton,1,0,2016-11-27 20:30:00,James Ward-Prowse,Pass
+115333,23,MissedShots,0.7880000305175782,0.7,0.02787385880947113,Nathan Redmond,h,790,OpenPlay,2016,RightFoot,2715,Southampton,Everton,1,0,2016-11-27 20:30:00,Virgil van Dijk,Pass
+115334,24,SavedShot,0.8680000305175781,0.605999984741211,0.10599390417337418,Charlie Austin,h,848,OpenPlay,2016,RightFoot,2715,Southampton,Everton,1,0,2016-11-27 20:30:00,Pierre-Emile Højbjerg,Pass
+115338,36,BlockedShot,0.93,0.515,0.1151176244020462,Virgil van Dijk,h,833,FromCorner,2016,Head,2715,Southampton,Everton,1,0,2016-11-27 20:30:00,James Ward-Prowse,Cross
+115339,38,MissedShots,0.965999984741211,0.639000015258789,0.020878925919532776,Pierre-Emile Højbjerg,h,343,OpenPlay,2016,Head,2715,Southampton,Everton,1,0,2016-11-27 20:30:00,Cédric Soares,Cross
+115342,48,ShotOnPost,0.9769999694824218,0.35200000762939454,0.05167901888489723,Pierre-Emile Højbjerg,h,343,FromCorner,2016,RightFoot,2715,Southampton,Everton,1,0,2016-11-27 20:30:00,Virgil van Dijk,TakeOn
+115343,49,SavedShot,0.774000015258789,0.38599998474121094,0.03593247011303902,Josh Sims,h,5565,OpenPlay,2016,RightFoot,2715,Southampton,Everton,1,0,2016-11-27 20:30:00,,None
+115346,57,SavedShot,0.909000015258789,0.5320000076293945,0.11594433337450027,Charlie Austin,h,848,OpenPlay,2016,Head,2715,Southampton,Everton,1,0,2016-11-27 20:30:00,Cédric Soares,Cross
+115348,72,MissedShots,0.845999984741211,0.669000015258789,0.05833979696035385,Nathan Redmond,h,790,OpenPlay,2016,RightFoot,2715,Southampton,Everton,1,0,2016-11-27 20:30:00,,None
+115349,77,SavedShot,0.730999984741211,0.4809999847412109,0.023487361147999763,James Ward-Prowse,h,843,OpenPlay,2016,RightFoot,2715,Southampton,Everton,1,0,2016-11-27 20:30:00,,BallRecovery
+115350,77,MissedShots,0.925,0.505,0.5683054327964783,James Ward-Prowse,h,843,OpenPlay,2016,RightFoot,2715,Southampton,Everton,1,0,2016-11-27 20:30:00,Charlie Austin,Pass
+115351,79,BlockedShot,0.935,0.59,0.32236239314079285,James Ward-Prowse,h,843,OpenPlay,2016,RightFoot,2715,Southampton,Everton,1,0,2016-11-27 20:30:00,Cédric Soares,Cross
+115355,89,BlockedShot,0.840999984741211,0.41900001525878905,0.0886448323726654,James Ward-Prowse,h,843,OpenPlay,2016,RightFoot,2715,Southampton,Everton,1,0,2016-11-27 20:30:00,Jordy Clasie,Pass
+115335,25,MissedShots,0.8619999694824219,0.47,0.08515404164791107,Idrissa Gueye,a,668,OpenPlay,2016,RightFoot,2715,Southampton,Everton,1,0,2016-11-27 20:30:00,Seamus Coleman,Pass
+115336,31,MissedShots,0.7930000305175782,0.2929999923706055,0.022339852526783943,Yannick Bolasie,a,518,OpenPlay,2016,RightFoot,2715,Southampton,Everton,1,0,2016-11-27 20:30:00,Idrissa Gueye,Pass
+115337,33,MissedShots,0.9690000152587891,0.3970000076293945,0.059711866080760956,Gareth Barry,a,590,SetPiece,2016,Head,2715,Southampton,Everton,1,0,2016-11-27 20:30:00,Leighton Baines,Cross
+115340,42,MissedShots,0.92,0.500999984741211,0.04934249073266983,Ross Barkley,a,592,OpenPlay,2016,Head,2715,Southampton,Everton,1,0,2016-11-27 20:30:00,Yannick Bolasie,Aerial
+115341,44,MissedShots,0.7619999694824219,0.44099998474121094,0.020241649821400642,Idrissa Gueye,a,668,FromCorner,2016,RightFoot,2715,Southampton,Everton,1,0,2016-11-27 20:30:00,Ross Barkley,Pass
+115344,52,MissedShots,0.7880000305175782,0.29700000762939455,0.059637587517499924,Romelu Lukaku,a,594,DirectFreekick,2016,LeftFoot,2715,Southampton,Everton,1,0,2016-11-27 20:30:00,,Standard
+115345,54,MissedShots,0.8019999694824219,0.34599998474121096,0.030396385118365288,Yannick Bolasie,a,518,OpenPlay,2016,RightFoot,2715,Southampton,Everton,1,0,2016-11-27 20:30:00,Aaron Lennon,Pass
+115347,69,MissedShots,0.835999984741211,0.7630000305175781,0.02283359505236149,Yannick Bolasie,a,518,OpenPlay,2016,RightFoot,2715,Southampton,Everton,1,0,2016-11-27 20:30:00,Ross Barkley,Pass
+115352,81,BlockedShot,0.8919999694824219,0.415,0.0985809788107872,Seamus Coleman,a,585,OpenPlay,2016,LeftFoot,2715,Southampton,Everton,1,0,2016-11-27 20:30:00,Kevin Mirallas,Pass
+115353,84,MissedShots,0.9119999694824219,0.5029999923706054,0.038072407245635986,Enner Valencia,a,539,OpenPlay,2016,Head,2715,Southampton,Everton,1,0,2016-11-27 20:30:00,Seamus Coleman,Aerial
+115354,88,MissedShots,0.9159999847412109,0.565,0.03332144021987915,Enner Valencia,a,539,OpenPlay,2016,Head,2715,Southampton,Everton,1,0,2016-11-27 20:30:00,Kevin Mirallas,Aerial
+115356,90,MissedShots,0.884000015258789,0.675,0.06172195076942444,Kevin Mirallas,a,595,OpenPlay,2016,LeftFoot,2715,Southampton,Everton,1,0,2016-11-27 20:30:00,Romelu Lukaku,TakeOn
+115357,92,SavedShot,0.815,0.43900001525878907,0.03381959721446037,Gareth Barry,a,590,OpenPlay,2016,LeftFoot,2715,Southampton,Everton,1,0,2016-11-27 20:30:00,Yannick Bolasie,HeadPass

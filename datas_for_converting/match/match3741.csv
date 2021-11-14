@@ -1,0 +1,25 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+132089,14,BlockedShot,0.9030000305175782,0.4209999847412109,0.018514372408390045,Frederik Sörensen,h,138,SetPiece,2016,Head,3741,FC Cologne,Wolfsburg,1,0,2017-02-04 14:30:00,Konstantin Rausch,Aerial
+132090,15,MissedShots,0.7809999847412109,0.4759999847412109,0.02470078505575657,Marco Höger,h,427,FromCorner,2016,LeftFoot,3741,FC Cologne,Wolfsburg,1,0,2017-02-04 14:30:00,,None
+132092,24,SavedShot,0.6809999847412109,0.605999984741211,0.011031977832317352,Yuya Osako,h,135,OpenPlay,2016,RightFoot,3741,FC Cologne,Wolfsburg,1,0,2017-02-04 14:30:00,Leonardo Bittencourt,BallRecovery
+132093,26,MissedShots,0.7319999694824219,0.7440000152587891,0.011782132089138031,Anthony Modeste,h,137,OpenPlay,2016,LeftFoot,3741,FC Cologne,Wolfsburg,1,0,2017-02-04 14:30:00,Konstantin Rausch,BallTouch
+132094,37,MissedShots,0.8190000152587891,0.43099998474121093,0.052975475788116455,Yuya Osako,h,135,OpenPlay,2016,RightFoot,3741,FC Cologne,Wolfsburg,1,0,2017-02-04 14:30:00,Anthony Modeste,Pass
+132096,46,ShotOnPost,0.9969999694824219,0.004000000059604645,0.010834518820047379,Konstantin Rausch,h,13,FromCorner,2016,LeftFoot,3741,FC Cologne,Wolfsburg,1,0,2017-02-04 14:30:00,,None
+132098,53,MissedShots,0.9319999694824219,0.3160000038146973,0.0514395609498024,Anthony Modeste,h,137,OpenPlay,2016,RightFoot,3741,FC Cologne,Wolfsburg,1,0,2017-02-04 14:30:00,Pawel Olkowski,Chipped
+132102,67,BlockedShot,0.7819999694824219,0.6780000305175782,0.01818913407623768,Jonas Hector,h,131,OpenPlay,2016,RightFoot,3741,FC Cologne,Wolfsburg,1,0,2017-02-04 14:30:00,,None
+132107,77,BlockedShot,0.955,0.5820000076293945,0.15064826607704163,Anthony Modeste,h,137,OpenPlay,2016,Head,3741,FC Cologne,Wolfsburg,1,0,2017-02-04 14:30:00,Simon Zoller,Cross
+132108,78,BlockedShot,0.81,0.524000015258789,0.04983293637633324,Yuya Osako,h,135,OpenPlay,2016,RightFoot,3741,FC Cologne,Wolfsburg,1,0,2017-02-04 14:30:00,,None
+132109,79,BlockedShot,0.8469999694824218,0.705999984741211,0.03647284209728241,Salih Özcan,h,5294,OpenPlay,2016,RightFoot,3741,FC Cologne,Wolfsburg,1,0,2017-02-04 14:30:00,Konstantin Rausch,Pass
+132110,80,Goal,0.885,0.5,0.75777667760849,Anthony Modeste,h,137,Penalty,2016,RightFoot,3741,FC Cologne,Wolfsburg,1,0,2017-02-04 14:30:00,,Standard
+132088,7,MissedShots,0.7319999694824219,0.4329999923706055,0.017372308298945427,Paul Seguin,a,2625,OpenPlay,2016,RightFoot,3741,FC Cologne,Wolfsburg,1,0,2017-02-04 14:30:00,Mario Gomez,Pass
+132091,19,BlockedShot,0.88,0.4329999923706055,0.09200611710548401,Yunus Malli,a,45,OpenPlay,2016,RightFoot,3741,FC Cologne,Wolfsburg,1,0,2017-02-04 14:30:00,,Dispossessed
+132095,44,BlockedShot,0.7319999694824219,0.715,0.015525425784289837,Ricardo Rodríguez,a,308,OpenPlay,2016,LeftFoot,3741,FC Cologne,Wolfsburg,1,0,2017-02-04 14:30:00,Josuha Guilavogui,Pass
+132097,48,MissedShots,0.8,0.64,0.03027786873281002,Yannick Gerhardt,a,140,OpenPlay,2016,LeftFoot,3741,FC Cologne,Wolfsburg,1,0,2017-02-04 14:30:00,,None
+132099,60,MissedShots,0.9290000152587891,0.415,0.06496232002973557,Luiz Gustavo,a,387,FromCorner,2016,Head,3741,FC Cologne,Wolfsburg,1,0,2017-02-04 14:30:00,Ricardo Rodríguez,Cross
+132100,62,BlockedShot,0.9390000152587891,0.33599998474121096,0.08081363886594772,Mario Gomez,a,3887,OpenPlay,2016,RightFoot,3741,FC Cologne,Wolfsburg,1,0,2017-02-04 14:30:00,Vieirinha,TakeOn
+132101,63,MissedShots,0.72,0.5879999923706055,0.010249313898384571,Maximilian Arnold,a,153,SetPiece,2016,LeftFoot,3741,FC Cologne,Wolfsburg,1,0,2017-02-04 14:30:00,,None
+132103,70,SavedShot,0.8109999847412109,0.4879999923706055,0.05124271661043167,Maximilian Arnold,a,153,OpenPlay,2016,LeftFoot,3741,FC Cologne,Wolfsburg,1,0,2017-02-04 14:30:00,,None
+132104,71,MissedShots,0.7630000305175781,0.40099998474121096,0.030375298112630844,Yannick Gerhardt,a,140,OpenPlay,2016,LeftFoot,3741,FC Cologne,Wolfsburg,1,0,2017-02-04 14:30:00,Mario Gomez,LayOff
+132105,73,BlockedShot,0.9159999847412109,0.635,0.09875723719596863,Maximilian Arnold,a,153,OpenPlay,2016,LeftFoot,3741,FC Cologne,Wolfsburg,1,0,2017-02-04 14:30:00,Yunus Malli,Pass
+132106,76,BlockedShot,0.7759999847412109,0.539000015258789,0.09369103610515594,Yunus Malli,a,45,DirectFreekick,2016,RightFoot,3741,FC Cologne,Wolfsburg,1,0,2017-02-04 14:30:00,,Standard
+132111,82,BlockedShot,0.7809999847412109,0.534000015258789,0.03557850793004036,Paul Seguin,a,2625,OpenPlay,2016,RightFoot,3741,FC Cologne,Wolfsburg,1,0,2017-02-04 14:30:00,Josuha Guilavogui,Pass

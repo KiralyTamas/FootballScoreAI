@@ -1,0 +1,16 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+199045,8,SavedShot,0.8769999694824219,0.38,0.3418634831905365,Timo Werner,h,65,OpenPlay,2017,RightFoot,8475,RasenBallsport Leipzig,Borussia Dortmund,1,1,2018-03-03 17:30:00,,BallRecovery
+199048,20,BlockedShot,0.695,0.5540000152587891,0.009569322690367699,Naby Keita,h,5247,OpenPlay,2017,RightFoot,8475,RasenBallsport Leipzig,Borussia Dortmund,1,1,2018-03-03 17:30:00,,None
+199049,28,Goal,0.884000015258789,0.6819999694824219,0.3056590259075165,Jean-Kevin Augustin,h,3299,OpenPlay,2017,RightFoot,8475,RasenBallsport Leipzig,Borussia Dortmund,1,1,2018-03-03 17:30:00,Naby Keita,Throughball
+199051,55,BlockedShot,0.8009999847412109,0.3240000152587891,0.02011401392519474,Kevin Kampl,h,188,FromCorner,2017,RightFoot,8475,RasenBallsport Leipzig,Borussia Dortmund,1,1,2018-03-03 17:30:00,,None
+199052,55,SavedShot,0.774000015258789,0.3820000076293945,0.028226744383573532,Kevin Kampl,h,188,FromCorner,2017,LeftFoot,8475,RasenBallsport Leipzig,Borussia Dortmund,1,1,2018-03-03 17:30:00,,Rebound
+199053,61,BlockedShot,0.86,0.34900001525878904,0.05924892798066139,Marcel Sabitzer,h,5248,OpenPlay,2017,LeftFoot,8475,RasenBallsport Leipzig,Borussia Dortmund,1,1,2018-03-03 17:30:00,Timo Werner,TakeOn
+199055,65,BlockedShot,0.8780000305175781,0.3220000076293945,0.05235137790441513,Marcel Sabitzer,h,5248,OpenPlay,2017,RightFoot,8475,RasenBallsport Leipzig,Borussia Dortmund,1,1,2018-03-03 17:30:00,Kevin Kampl,Pass
+199056,75,BlockedShot,0.88,0.3089999961853027,0.044715456664562225,Timo Werner,h,65,OpenPlay,2017,LeftFoot,8475,RasenBallsport Leipzig,Borussia Dortmund,1,1,2018-03-03 17:30:00,Marcel Sabitzer,Pass
+199057,75,MissedShots,0.855,0.47299999237060547,0.09893748909235,Naby Keita,h,5247,OpenPlay,2017,RightFoot,8475,RasenBallsport Leipzig,Borussia Dortmund,1,1,2018-03-03 17:30:00,Konrad Laimer,Pass
+199058,85,MissedShots,0.9569999694824218,0.675,0.061791110783815384,Bruma,h,2235,OpenPlay,2017,RightFoot,8475,RasenBallsport Leipzig,Borussia Dortmund,1,1,2018-03-03 17:30:00,Naby Keita,Pass
+199059,91,MissedShots,0.7219999694824218,0.6029999923706054,0.015342511236667633,Yussuf Poulsen,h,5250,OpenPlay,2017,RightFoot,8475,RasenBallsport Leipzig,Borussia Dortmund,1,1,2018-03-03 17:30:00,Lukas Klostermann,Pass
+199046,9,SavedShot,0.8669999694824219,0.5220000076293946,0.11228185892105103,Michy Batshuayi,a,1678,OpenPlay,2017,RightFoot,8475,RasenBallsport Leipzig,Borussia Dortmund,1,1,2018-03-03 17:30:00,André Schürrle,Pass
+199047,9,MissedShots,0.860999984741211,0.3220000076293945,0.036853574216365814,Marco Reus,a,319,OpenPlay,2017,RightFoot,8475,RasenBallsport Leipzig,Borussia Dortmund,1,1,2018-03-03 17:30:00,,Rebound
+199050,37,Goal,0.9359999847412109,0.5879999923706055,0.5961759686470032,Marco Reus,a,319,OpenPlay,2017,LeftFoot,8475,RasenBallsport Leipzig,Borussia Dortmund,1,1,2018-03-03 17:30:00,Mahmoud Dahoud,TakeOn
+199054,62,MissedShots,0.975999984741211,0.5059999847412109,0.9191989302635193,Michy Batshuayi,a,1678,OpenPlay,2017,LeftFoot,8475,RasenBallsport Leipzig,Borussia Dortmund,1,1,2018-03-03 17:30:00,Mahmoud Dahoud,Pass

@@ -1,0 +1,27 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+60290,11,SavedShot,0.919000015258789,0.3220000076293945,0.3116060793399811,Salomón Rondón,h,813,OpenPlay,2015,RightFoot,346,West Bromwich Albion,Crystal Palace,3,2,2016-02-27 21:30:00,Saido Berahino,Throughball
+60292,11,Goal,0.955999984741211,0.5259999847412109,0.6637314558029175,Craig Gardner,h,812,OpenPlay,2015,LeftFoot,346,West Bromwich Albion,Crystal Palace,3,2,2016-02-27 21:30:00,,Rebound
+60293,14,MissedShots,0.7240000152587891,0.580999984741211,0.010586792603135109,Craig Gardner,h,812,SetPiece,2015,RightFoot,346,West Bromwich Albion,Crystal Palace,3,2,2016-02-27 21:30:00,,None
+60294,14,MissedShots,0.8490000152587891,0.750999984741211,0.036695338785648346,Craig Gardner,h,812,OpenPlay,2015,RightFoot,346,West Bromwich Albion,Crystal Palace,3,2,2016-02-27 21:30:00,,BallTouch
+60296,19,Goal,0.925,0.515,0.44089990854263306,Craig Dawson,h,804,SetPiece,2015,Head,346,West Bromwich Albion,Crystal Palace,3,2,2016-02-27 21:30:00,Craig Gardner,Cross
+60297,24,MissedShots,0.779000015258789,0.775,0.021935170516371727,Craig Gardner,h,812,OpenPlay,2015,RightFoot,346,West Bromwich Albion,Crystal Palace,3,2,2016-02-27 21:30:00,Saido Berahino,Pass
+60298,30,Goal,0.8930000305175781,0.49900001525878906,0.49142763018608093,Saido Berahino,h,811,OpenPlay,2015,LeftFoot,346,West Bromwich Albion,Crystal Palace,3,2,2016-02-27 21:30:00,Stéphane Sessegnon,Throughball
+60300,47,BlockedShot,0.7330000305175781,0.34200000762939453,0.04232790321111679,Craig Gardner,h,812,DirectFreekick,2015,RightFoot,346,West Bromwich Albion,Crystal Palace,3,2,2016-02-27 21:30:00,,Standard
+60304,47,MissedShots,0.92,0.5329999923706055,0.12244018167257309,Craig Gardner,h,812,OpenPlay,2015,Head,346,West Bromwich Albion,Crystal Palace,3,2,2016-02-27 21:30:00,Darren Fletcher,Cross
+60306,50,ShotOnPost,0.8280000305175781,0.6659999847412109,0.05557412654161453,Saido Berahino,h,811,OpenPlay,2015,RightFoot,346,West Bromwich Albion,Crystal Palace,3,2,2016-02-27 21:30:00,Stéphane Sessegnon,Pass
+60308,70,SavedShot,0.830999984741211,0.3920000076293945,0.08448244631290436,Stéphane Sessegnon,h,810,OpenPlay,2015,RightFoot,346,West Bromwich Albion,Crystal Palace,3,2,2016-02-27 21:30:00,Saido Berahino,Pass
+60295,17,MissedShots,0.9169999694824219,0.40599998474121096,0.039614781737327576,Connor Wickham,a,519,FromCorner,2015,Head,346,West Bromwich Albion,Crystal Palace,3,2,2016-02-27 21:30:00,Yohan Cabaye,Cross
+60299,38,MissedShots,0.865999984741211,0.500999984741211,0.024801330640912056,Jordon Mutch,a,632,OpenPlay,2015,Head,346,West Bromwich Albion,Crystal Palace,3,2,2016-02-27 21:30:00,Martin Kelly,Cross
+60305,47,Goal,0.9790000152587891,0.585,0.5876371264457703,Connor Wickham,a,519,OpenPlay,2015,LeftFoot,346,West Bromwich Albion,Crystal Palace,3,2,2016-02-27 21:30:00,Damien Delaney,TakeOn
+60301,49,BlockedShot,0.8830000305175781,0.7230000305175781,0.03032919019460678,Jordon Mutch,a,632,SetPiece,2015,RightFoot,346,West Bromwich Albion,Crystal Palace,3,2,2016-02-27 21:30:00,,None
+60302,49,MissedShots,0.8969999694824219,0.68,0.04883069545030594,Jordon Mutch,a,632,SetPiece,2015,LeftFoot,346,West Bromwich Albion,Crystal Palace,3,2,2016-02-27 21:30:00,,None
+60303,49,BlockedShot,0.855,0.524000015258789,0.07383030652999878,Joe Ledley,a,517,SetPiece,2015,RightFoot,346,West Bromwich Albion,Crystal Palace,3,2,2016-02-27 21:30:00,,Rebound
+60307,56,BlockedShot,0.8490000152587891,0.7559999847412109,0.014483288861811161,Jordon Mutch,a,632,FromCorner,2015,RightFoot,346,West Bromwich Albion,Crystal Palace,3,2,2016-02-27 21:30:00,Yohan Cabaye,HeadPass
+60309,72,MissedShots,0.7559999847412109,0.625999984741211,0.012571155093610287,Joe Ledley,a,517,OpenPlay,2015,LeftFoot,346,West Bromwich Albion,Crystal Palace,3,2,2016-02-27 21:30:00,,None
+60310,75,BlockedShot,0.8019999694824219,0.44599998474121094,0.05241215601563454,Yohan Cabaye,a,516,OpenPlay,2015,RightFoot,346,West Bromwich Albion,Crystal Palace,3,2,2016-02-27 21:30:00,Jordon Mutch,Pass
+60311,76,MissedShots,0.8669999694824219,0.3579999923706055,0.06442496925592422,Yohan Cabaye,a,516,OpenPlay,2015,RightFoot,346,West Bromwich Albion,Crystal Palace,3,2,2016-02-27 21:30:00,Wilfried Zaha,Pass
+60312,79,Goal,0.885,0.645,0.05763034150004387,Connor Wickham,a,519,SetPiece,2015,LeftFoot,346,West Bromwich Albion,Crystal Palace,3,2,2016-02-27 21:30:00,,None
+60313,81,MissedShots,0.9419999694824219,0.6930000305175781,0.05854180082678795,Connor Wickham,a,519,OpenPlay,2015,LeftFoot,346,West Bromwich Albion,Crystal Palace,3,2,2016-02-27 21:30:00,Jordon Mutch,Pass
+60314,82,BlockedShot,0.915,0.509000015258789,0.09225951135158539,Scott Dann,a,512,FromCorner,2015,Head,346,West Bromwich Albion,Crystal Palace,3,2,2016-02-27 21:30:00,Jordon Mutch,Cross
+60315,85,MissedShots,0.7669999694824219,0.41,0.01676316373050213,Joel Ward,a,510,SetPiece,2015,RightFoot,346,West Bromwich Albion,Crystal Palace,3,2,2016-02-27 21:30:00,,None
+60316,88,MissedShots,0.7190000152587891,0.485,0.04585054889321327,Dwight Gayle,a,743,DirectFreekick,2015,RightFoot,346,West Bromwich Albion,Crystal Palace,3,2,2016-02-27 21:30:00,,Standard

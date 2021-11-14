@@ -1,0 +1,31 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+386638,2,BlockedShot,0.8530000305175781,0.5779999923706055,0.34265270829200745,Josip Brekalo,h,5353,OpenPlay,2020,RightFoot,15201,Wolfsburg,Hoffenheim,2,1,2020-11-08 14:30:00,Jérôme Roussillon,Pass
+386639,4,Goal,0.8830000305175781,0.629000015258789,0.10168685019016266,Renato Steffen,h,6484,OpenPlay,2020,LeftFoot,15201,Wolfsburg,Hoffenheim,2,1,2020-11-08 14:30:00,Maximilian Philipp,Pass
+386641,21,MissedShots,0.7530000305175781,0.30100000381469727,0.010464804247021675,Josip Brekalo,h,5353,SetPiece,2020,RightFoot,15201,Wolfsburg,Hoffenheim,2,1,2020-11-08 14:30:00,,None
+386642,25,SavedShot,0.835999984741211,0.5929999923706055,0.06410379707813263,Renato Steffen,h,6484,OpenPlay,2020,RightFoot,15201,Wolfsburg,Hoffenheim,2,1,2020-11-08 14:30:00,Xaver Schlager,TakeOn
+386643,25,BlockedShot,0.8419999694824218,0.549000015258789,0.3113003373146057,Wout Weghorst,h,7052,OpenPlay,2020,RightFoot,15201,Wolfsburg,Hoffenheim,2,1,2020-11-08 14:30:00,,Rebound
+386644,25,Goal,0.885,0.4329999923706055,0.40884023904800415,Wout Weghorst,h,7052,OpenPlay,2020,RightFoot,15201,Wolfsburg,Hoffenheim,2,1,2020-11-08 14:30:00,Renato Steffen,Pass
+386645,29,MissedShots,0.7069999694824218,0.5209999847412109,0.01656574010848999,Maximilian Arnold,h,153,OpenPlay,2020,LeftFoot,15201,Wolfsburg,Hoffenheim,2,1,2020-11-08 14:30:00,Maximilian Philipp,Pass
+386650,50,SavedShot,0.7759999847412109,0.6270000076293946,0.04721670597791672,Josip Brekalo,h,5353,OpenPlay,2020,RightFoot,15201,Wolfsburg,Hoffenheim,2,1,2020-11-08 14:30:00,Jérôme Roussillon,TakeOn
+386651,53,SavedShot,0.8680000305175781,0.5279999923706055,0.013703961856663227,Wout Weghorst,h,7052,FromCorner,2020,Head,15201,Wolfsburg,Hoffenheim,2,1,2020-11-08 14:30:00,Josip Brekalo,Aerial
+386652,54,SavedShot,0.874000015258789,0.6459999847412109,0.20243899524211884,Jérôme Roussillon,h,3339,SetPiece,2020,LeftFoot,15201,Wolfsburg,Hoffenheim,2,1,2020-11-08 14:30:00,Maximilian Arnold,Pass
+386656,74,MissedShots,0.7319999694824219,0.4540000152587891,0.01740628108382225,Xaver Schlager,h,7783,OpenPlay,2020,LeftFoot,15201,Wolfsburg,Hoffenheim,2,1,2020-11-08 14:30:00,Joao Victor,Pass
+386659,81,SavedShot,0.8519999694824218,0.29100000381469726,0.330899715423584,Wout Weghorst,h,7052,OpenPlay,2020,RightFoot,15201,Wolfsburg,Hoffenheim,2,1,2020-11-08 14:30:00,,BallRecovery
+386660,83,MissedShots,0.885,0.5,0.75777667760849,Wout Weghorst,h,7052,Penalty,2020,RightFoot,15201,Wolfsburg,Hoffenheim,2,1,2020-11-08 14:30:00,,Standard
+386665,89,BlockedShot,0.8380000305175781,0.6880000305175781,0.04745256155729294,Joao Victor,h,7784,OpenPlay,2020,RightFoot,15201,Wolfsburg,Hoffenheim,2,1,2020-11-08 14:30:00,Admir Mehmedi,Pass
+386640,13,MissedShots,0.9119999694824219,0.41200000762939454,0.05972667410969734,Ishak Belfodil,a,3834,OpenPlay,2020,Head,15201,Wolfsburg,Hoffenheim,2,1,2020-11-08 14:30:00,Christoph Baumgartner,Cross
+386646,39,MissedShots,0.8619999694824219,0.5770000076293945,0.30571648478507996,Ishak Belfodil,a,3834,OpenPlay,2020,RightFoot,15201,Wolfsburg,Hoffenheim,2,1,2020-11-08 14:30:00,Florian Grillitsch,Pass
+386648,45,MissedShots,0.894000015258789,0.4879999923706055,0.09263964742422104,Florian Grillitsch,a,116,OpenPlay,2020,Head,15201,Wolfsburg,Hoffenheim,2,1,2020-11-08 14:30:00,Sebastian Rudy,Cross
+386647,47,BlockedShot,0.9530000305175781,0.595999984741211,0.07834181934595108,Christoph Baumgartner,a,7422,OpenPlay,2020,LeftFoot,15201,Wolfsburg,Hoffenheim,2,1,2020-11-08 14:30:00,,None
+386649,47,MissedShots,0.904000015258789,0.4570000076293945,0.03876699134707451,Florian Grillitsch,a,116,SetPiece,2020,Head,15201,Wolfsburg,Hoffenheim,2,1,2020-11-08 14:30:00,Sebastian Rudy,Aerial
+386653,66,MissedShots,0.7730000305175782,0.6079999923706054,0.07817765325307846,Munas Dabbur,a,8140,DirectFreekick,2020,RightFoot,15201,Wolfsburg,Hoffenheim,2,1,2020-11-08 14:30:00,,Standard
+386654,71,BlockedShot,0.8719999694824219,0.49900001525878906,0.05239515006542206,Sargis Adamyan,a,7900,OpenPlay,2020,RightFoot,15201,Wolfsburg,Hoffenheim,2,1,2020-11-08 14:30:00,Melayro Bogarde,Cross
+386655,72,SavedShot,0.8809999847412109,0.45099998474121095,0.21839764714241028,Munas Dabbur,a,8140,OpenPlay,2020,Head,15201,Wolfsburg,Hoffenheim,2,1,2020-11-08 14:30:00,Sebastian Rudy,Cross
+386657,78,MissedShots,0.91,0.46299999237060546,0.05663835257291794,Sargis Adamyan,a,7900,OpenPlay,2020,Head,15201,Wolfsburg,Hoffenheim,2,1,2020-11-08 14:30:00,Ihlas Bebou,Aerial
+386658,79,MissedShots,0.919000015258789,0.605999984741211,0.22922475636005402,Mijat Gacinovic,a,290,OpenPlay,2020,RightFoot,15201,Wolfsburg,Hoffenheim,2,1,2020-11-08 14:30:00,Christoph Baumgartner,Cross
+386661,84,SavedShot,0.86,0.7559999847412109,0.022583387792110443,Sargis Adamyan,a,7900,OpenPlay,2020,RightFoot,15201,Wolfsburg,Hoffenheim,2,1,2020-11-08 14:30:00,,BallRecovery
+386662,85,SavedShot,0.96,0.6179999923706054,0.2469957172870636,Sargis Adamyan,a,7900,OpenPlay,2020,LeftFoot,15201,Wolfsburg,Hoffenheim,2,1,2020-11-08 14:30:00,Mijat Gacinovic,HeadPass
+386663,86,Goal,0.9459999847412109,0.4129999923706055,0.27626535296440125,Sargis Adamyan,a,7900,OpenPlay,2020,RightFoot,15201,Wolfsburg,Hoffenheim,2,1,2020-11-08 14:30:00,Kevin Vogt,Chipped
+386664,87,MissedShots,0.7880000305175782,0.710999984741211,0.021910468116402626,Christoph Baumgartner,a,7422,OpenPlay,2020,RightFoot,15201,Wolfsburg,Hoffenheim,2,1,2020-11-08 14:30:00,Klauss,Pass
+386666,91,BlockedShot,0.805,0.36400001525878906,0.10146935284137726,Christoph Baumgartner,a,7422,DirectFreekick,2020,RightFoot,15201,Wolfsburg,Hoffenheim,2,1,2020-11-08 14:30:00,,Standard
+386667,93,SavedShot,0.885,0.5,0.757696270942688,Munas Dabbur,a,8140,Penalty,2020,RightFoot,15201,Wolfsburg,Hoffenheim,2,1,2020-11-08 14:30:00,,Standard

@@ -1,0 +1,27 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+401564,6,MissedShots,0.7580000305175781,0.595999984741211,0.03308713808655739,Marcus Ingvartsen,h,7883,OpenPlay,2020,LeftFoot,15307,Union Berlin,Borussia M.Gladbach,1,1,2021-01-30 14:30:00,Cedric Teuchert,LayOff
+401568,30,Goal,0.9,0.45799999237060546,0.06274444609880447,Robin Knoche,h,161,SetPiece,2020,Head,15307,Union Berlin,Borussia M.Gladbach,1,1,2021-01-30 14:30:00,Marcus Ingvartsen,Chipped
+401571,37,MissedShots,0.7140000152587891,0.7019999694824218,0.01861979439854622,Nico Schlotterbeck,h,7485,OpenPlay,2020,LeftFoot,15307,Union Berlin,Borussia M.Gladbach,1,1,2021-01-30 14:30:00,Robert Andrich,Pass
+401572,46,MissedShots,0.9290000152587891,0.46099998474121096,0.05350744351744652,Nico Schlotterbeck,h,7485,FromCorner,2020,Head,15307,Union Berlin,Borussia M.Gladbach,1,1,2021-01-30 14:30:00,Marcus Ingvartsen,Aerial
+401573,46,BlockedShot,0.7680000305175781,0.5790000152587891,0.039428576827049255,Marvin Friedrich,h,370,OpenPlay,2020,LeftFoot,15307,Union Berlin,Borussia M.Gladbach,1,1,2021-01-30 14:30:00,,Interception
+401574,49,SavedShot,0.9690000152587891,0.7190000152587891,0.056982751935720444,Cedric Teuchert,h,6522,OpenPlay,2020,LeftFoot,15307,Union Berlin,Borussia M.Gladbach,1,1,2021-01-30 14:30:00,Niko Gießelmann,Chipped
+401575,54,MissedShots,0.855,0.25799999237060545,0.05804796889424324,Cedric Teuchert,h,6522,OpenPlay,2020,RightFoot,15307,Union Berlin,Borussia M.Gladbach,1,1,2021-01-30 14:30:00,Taiwo Awoniyi,Pass
+401576,57,BlockedShot,0.9130000305175782,0.44799999237060545,0.11287760734558105,Taiwo Awoniyi,h,7814,OpenPlay,2020,RightFoot,15307,Union Berlin,Borussia M.Gladbach,1,1,2021-01-30 14:30:00,Christian Gentner,Cross
+401578,60,MissedShots,0.975999984741211,0.26399999618530273,0.029249338433146477,Robert Andrich,h,7877,FromCorner,2020,RightFoot,15307,Union Berlin,Borussia M.Gladbach,1,1,2021-01-30 14:30:00,,None
+401580,72,BlockedShot,0.8480000305175781,0.519000015258789,0.09258632361888885,Marcus Ingvartsen,h,7883,OpenPlay,2020,RightFoot,15307,Union Berlin,Borussia M.Gladbach,1,1,2021-01-30 14:30:00,Marvin Friedrich,Pass
+401581,80,BlockedShot,0.8209999847412109,0.4879999923706055,0.06283824145793915,Robert Andrich,h,7877,OpenPlay,2020,RightFoot,15307,Union Berlin,Borussia M.Gladbach,1,1,2021-01-30 14:30:00,Joel Pohjanpalo,Pass
+401582,80,MissedShots,0.8930000305175781,0.36,0.0660058781504631,Julian Ryerson,h,7997,OpenPlay,2020,RightFoot,15307,Union Berlin,Borussia M.Gladbach,1,1,2021-01-30 14:30:00,,Rebound
+401585,92,MissedShots,0.8569999694824219,0.48200000762939454,0.009767644107341766,Robin Knoche,h,161,SetPiece,2020,Head,15307,Union Berlin,Borussia M.Gladbach,1,1,2021-01-30 14:30:00,Marcus Ingvartsen,Aerial
+401563,1,SavedShot,0.9409999847412109,0.3270000076293945,0.06983301788568497,Stefan Lainer,a,7831,OpenPlay,2020,RightFoot,15307,Union Berlin,Borussia M.Gladbach,1,1,2021-01-30 14:30:00,Christoph Kramer,Pass
+401565,14,MissedShots,0.899000015258789,0.48700000762939455,0.02255857177078724,Matthias Ginter,a,315,FromCorner,2020,Head,15307,Union Berlin,Borussia M.Gladbach,1,1,2021-01-30 14:30:00,Jonas Hofmann,Aerial
+401566,21,MissedShots,0.8069999694824219,0.6170000076293946,0.015657983720302582,Ramy Bensebaini,a,3349,OpenPlay,2020,LeftFoot,15307,Union Berlin,Borussia M.Gladbach,1,1,2021-01-30 14:30:00,,Aerial
+401567,27,BlockedShot,0.875,0.49599998474121093,0.02788563072681427,Marcus Thuram,a,5992,OpenPlay,2020,Head,15307,Union Berlin,Borussia M.Gladbach,1,1,2021-01-30 14:30:00,Ramy Bensebaini,Dispossessed
+401569,33,MissedShots,0.92,0.48900001525878906,0.05244532600045204,Marcus Thuram,a,5992,FromCorner,2020,Head,15307,Union Berlin,Borussia M.Gladbach,1,1,2021-01-30 14:30:00,Stefan Lainer,Aerial
+401570,33,MissedShots,0.9230000305175782,0.53,0.04948371648788452,Marcus Thuram,a,5992,FromCorner,2020,Head,15307,Union Berlin,Borussia M.Gladbach,1,1,2021-01-30 14:30:00,Jonas Hofmann,Aerial
+401577,58,Goal,0.784000015258789,0.66,0.03483378514647484,Alassane Pléa,a,3310,OpenPlay,2020,RightFoot,15307,Union Berlin,Borussia M.Gladbach,1,1,2021-01-30 14:30:00,Jonas Hofmann,LayOff
+401579,63,SavedShot,0.85,0.46700000762939453,0.07082526385784149,Marcus Thuram,a,5992,OpenPlay,2020,RightFoot,15307,Union Berlin,Borussia M.Gladbach,1,1,2021-01-30 14:30:00,,None
+401583,89,BlockedShot,0.8159999847412109,0.654000015258789,0.030649278312921524,Alassane Pléa,a,3310,OpenPlay,2020,RightFoot,15307,Union Berlin,Borussia M.Gladbach,1,1,2021-01-30 14:30:00,,TakeOn
+401584,91,MissedShots,0.88,0.72,0.03884781897068024,Marcus Thuram,a,5992,OpenPlay,2020,RightFoot,15307,Union Berlin,Borussia M.Gladbach,1,1,2021-01-30 14:30:00,,None
+401586,94,SavedShot,0.924000015258789,0.48700000762939455,0.054661862552165985,Marcus Thuram,a,5992,FromCorner,2020,Head,15307,Union Berlin,Borussia M.Gladbach,1,1,2021-01-30 14:30:00,Lars Stindl,Aerial
+401587,95,MissedShots,0.924000015258789,0.46700000762939453,0.05581154301762581,Marcus Thuram,a,5992,FromCorner,2020,Head,15307,Union Berlin,Borussia M.Gladbach,1,1,2021-01-30 14:30:00,,None
+401588,96,MissedShots,0.9259999847412109,0.5129999923706055,0.05701566860079765,Ramy Bensebaini,a,3349,FromCorner,2020,Head,15307,Union Berlin,Borussia M.Gladbach,1,1,2021-01-30 14:30:00,Lars Stindl,Aerial

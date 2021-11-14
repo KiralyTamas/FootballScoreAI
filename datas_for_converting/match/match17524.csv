@@ -1,0 +1,25 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+426479,1,MissedShots,0.8830000305175781,0.4859999847412109,0.0668739452958107,Mark Uth,h,88,OpenPlay,2021,Head,17524,FC Cologne,Hertha Berlin,3,1,2021-08-15 15:30:00,Jan Thielmann,Cross
+426483,11,MissedShots,0.9059999847412109,0.62,0.09117446094751358,Anthony Modeste,h,137,OpenPlay,2021,LeftFoot,17524,FC Cologne,Hertha Berlin,3,1,2021-08-15 15:30:00,Florian Kainz,Pass
+426486,17,BlockedShot,0.8780000305175781,0.5879999923706055,0.0802939161658287,Mark Uth,h,88,OpenPlay,2021,LeftFoot,17524,FC Cologne,Hertha Berlin,3,1,2021-08-15 15:30:00,Florian Kainz,Pass
+426487,20,MissedShots,0.8859999847412109,0.4640000152587891,0.0596902035176754,Timo Hübers,h,6403,SetPiece,2021,Head,17524,FC Cologne,Hertha Berlin,3,1,2021-08-15 15:30:00,Mark Uth,Cross
+426489,40,Goal,0.9180000305175782,0.485,0.3367064595222473,Anthony Modeste,h,137,OpenPlay,2021,Head,17524,FC Cologne,Hertha Berlin,3,1,2021-08-15 15:30:00,Jan Thielmann,Cross
+426490,44,MissedShots,0.8730000305175781,0.47200000762939454,0.03809220343828201,Anthony Modeste,h,137,OpenPlay,2021,Head,17524,FC Cologne,Hertha Berlin,3,1,2021-08-15 15:30:00,Benno Schmitz,Cross
+426491,45,SavedShot,0.86,0.6730000305175782,0.04043225944042206,Florian Kainz,h,5231,OpenPlay,2021,RightFoot,17524,FC Cologne,Hertha Berlin,3,1,2021-08-15 15:30:00,Jan Thielmann,Chipped
+426492,47,SavedShot,0.945,0.43099998474121093,0.06395119428634644,Ellyes Skhiri,h,3347,SetPiece,2021,Head,17524,FC Cologne,Hertha Berlin,3,1,2021-08-15 15:30:00,Mark Uth,Aerial
+426493,49,BlockedShot,0.7340000152587891,0.4879999923706055,0.018592163920402527,Ellyes Skhiri,h,3347,OpenPlay,2021,RightFoot,17524,FC Cologne,Hertha Berlin,3,1,2021-08-15 15:30:00,Mark Uth,Pass
+426494,51,Goal,0.9640000152587891,0.5329999923706055,0.5620737075805664,Florian Kainz,h,5231,OpenPlay,2021,Head,17524,FC Cologne,Hertha Berlin,3,1,2021-08-15 15:30:00,,None
+426496,54,Goal,0.885,0.43099998474121093,0.11726445704698563,Florian Kainz,h,5231,OpenPlay,2021,LeftFoot,17524,FC Cologne,Hertha Berlin,3,1,2021-08-15 15:30:00,Benno Schmitz,Pass
+426497,64,MissedShots,0.894000015258789,0.4420000076293945,0.056240227073431015,Anthony Modeste,h,137,OpenPlay,2021,Head,17524,FC Cologne,Hertha Berlin,3,1,2021-08-15 15:30:00,Benno Schmitz,Cross
+426501,85,BlockedShot,0.8530000305175781,0.3629999923706055,0.07995434105396271,Louis Schaub,h,7897,OpenPlay,2021,LeftFoot,17524,FC Cologne,Hertha Berlin,3,1,2021-08-15 15:30:00,Kingsley Ehizibue,Pass
+426502,85,MissedShots,0.7269999694824218,0.500999984741211,0.015580291859805584,Ellyes Skhiri,h,3347,OpenPlay,2021,RightFoot,17524,FC Cologne,Hertha Berlin,3,1,2021-08-15 15:30:00,,Rebound
+426480,4,SavedShot,0.9380000305175781,0.595999984741211,0.08484651148319244,Matheus Cunha,a,7080,SetPiece,2021,Head,17524,FC Cologne,Hertha Berlin,3,1,2021-08-15 15:30:00,Marvin Plattenhardt,Cross
+426481,4,Goal,0.9769999694824218,0.46,0.8883572220802307,Stevan Jovetic,a,1524,SetPiece,2021,RightFoot,17524,FC Cologne,Hertha Berlin,3,1,2021-08-15 15:30:00,Matheus Cunha,Pass
+426482,9,SavedShot,0.8769999694824219,0.54,0.08848416805267334,Suat Serdar,a,307,OpenPlay,2021,RightFoot,17524,FC Cologne,Hertha Berlin,3,1,2021-08-15 15:30:00,Stevan Jovetic,Cross
+426484,14,BlockedShot,0.8580000305175781,0.53,0.1853400468826294,Santiago Ascacibar,a,6289,OpenPlay,2021,LeftFoot,17524,FC Cologne,Hertha Berlin,3,1,2021-08-15 15:30:00,Suat Serdar,TakeOn
+426485,14,MissedShots,0.8919999694824219,0.629000015258789,0.08889833092689514,Matheus Cunha,a,7080,OpenPlay,2021,RightFoot,17524,FC Cologne,Hertha Berlin,3,1,2021-08-15 15:30:00,,Rebound
+426488,25,SavedShot,0.735,0.68,0.022188914939761162,Stevan Jovetic,a,1524,OpenPlay,2021,RightFoot,17524,FC Cologne,Hertha Berlin,3,1,2021-08-15 15:30:00,Kevin-Prince Boateng,Pass
+426495,54,BlockedShot,0.7869999694824219,0.365,0.025310777127742767,Lucas Tousart,a,3743,OpenPlay,2021,LeftFoot,17524,FC Cologne,Hertha Berlin,3,1,2021-08-15 15:30:00,Santiago Ascacibar,BallTouch
+426498,67,MissedShots,0.8490000152587891,0.19100000381469726,0.05570991337299347,Marvin Plattenhardt,a,23,DirectFreekick,2021,LeftFoot,17524,FC Cologne,Hertha Berlin,3,1,2021-08-15 15:30:00,,Standard
+426499,78,MissedShots,0.95,0.5159999847412109,0.5597718358039856,Dodi Lukebakio,a,5706,OpenPlay,2021,Head,17524,FC Cologne,Hertha Berlin,3,1,2021-08-15 15:30:00,Lukas Klünter,Cross
+426500,80,SavedShot,0.9290000152587891,0.48400001525878905,0.1253662407398224,Márton Dárdai,a,8398,SetPiece,2021,Head,17524,FC Cologne,Hertha Berlin,3,1,2021-08-15 15:30:00,Marvin Plattenhardt,Cross

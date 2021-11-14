@@ -1,0 +1,29 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+14307,23,BlockedShot,0.6890000152587891,0.6270000076293946,0.010727036744356155,Andrey Lyakh,h,4565,OpenPlay,2014,RightFoot,6444,Arsenal Tula,Dinamo Moscow,1,2,2014-08-17 13:00:00,Andrey Vasilyev,Pass
+14308,27,SavedShot,0.894000015258789,0.46,0.06630567461252213,Maxim Votinov,h,4569,OpenPlay,2014,Head,6444,Arsenal Tula,Dinamo Moscow,1,2,2014-08-17 13:00:00,Mladen Kascelan,Cross
+14315,46,Goal,0.9319999694824219,0.46599998474121096,0.3394519090652466,Ivan Ershov,h,4561,OpenPlay,2014,Head,6444,Arsenal Tula,Dinamo Moscow,1,2,2014-08-17 13:00:00,Sergey Ignatiev,Cross
+14317,53,MissedShots,0.855,0.24899999618530275,0.017663294449448586,Arthur Maloyan,h,4566,OpenPlay,2014,LeftFoot,6444,Arsenal Tula,Dinamo Moscow,1,2,2014-08-17 13:00:00,Evgeny Osipov,Chipped
+14319,58,SavedShot,0.9219999694824219,0.33599998474121096,0.32357779145240784,Arthur Maloyan,h,4566,OpenPlay,2014,RightFoot,6444,Arsenal Tula,Dinamo Moscow,1,2,2014-08-17 13:00:00,Sergey Kuznetsov,Throughball
+14320,59,BlockedShot,0.875,0.49900001525878906,0.05196511372923851,Evgeny Osipov,h,3115,FromCorner,2014,LeftFoot,6444,Arsenal Tula,Dinamo Moscow,1,2,2014-08-17 13:00:00,Sergey Ignatiev,Cross
+14321,59,BlockedShot,0.8859999847412109,0.6029999923706054,0.06722671538591385,Vladislav Ryzhkov,h,4572,FromCorner,2014,RightFoot,6444,Arsenal Tula,Dinamo Moscow,1,2,2014-08-17 13:00:00,,Rebound
+14323,65,SavedShot,0.885,0.6930000305175781,0.03721369057893753,Sergey Ignatiev,h,4568,OpenPlay,2014,LeftFoot,6444,Arsenal Tula,Dinamo Moscow,1,2,2014-08-17 13:00:00,Ivan Ershov,Chipped
+14327,77,BlockedShot,0.8730000305175781,0.37799999237060544,0.059486206620931625,Vladislav Ryzhkov,h,4572,OpenPlay,2014,RightFoot,6444,Arsenal Tula,Dinamo Moscow,1,2,2014-08-17 13:00:00,Arthur Maloyan,Pass
+14329,85,MissedShots,0.755,0.7080000305175781,0.04143492877483368,Sergey Ignatiev,h,4568,DirectFreekick,2014,LeftFoot,6444,Arsenal Tula,Dinamo Moscow,1,2,2014-08-17 13:00:00,,Standard
+14330,90,MissedShots,0.75,0.38799999237060545,0.01704658940434456,Ivan Ershov,h,4561,OpenPlay,2014,LeftFoot,6444,Arsenal Tula,Dinamo Moscow,1,2,2014-08-17 13:00:00,Aleksey Bazanov,Pass
+14303,5,BlockedShot,0.735,0.385,0.015580489300191402,Igor Denisov,a,2749,OpenPlay,2014,LeftFoot,6444,Arsenal Tula,Dinamo Moscow,1,2,2014-08-17 13:00:00,,Dispossessed
+14304,8,MissedShots,0.855999984741211,0.775,0.012635868042707443,Alexander Buttner,a,3188,OpenPlay,2014,LeftFoot,6444,Arsenal Tula,Dinamo Moscow,1,2,2014-08-17 13:00:00,Igor Denisov,Chipped
+14305,11,MissedShots,0.74,0.41700000762939454,0.01733766309916973,William Vainqueur,a,1944,OpenPlay,2014,RightFoot,6444,Arsenal Tula,Dinamo Moscow,1,2,2014-08-17 13:00:00,Kevin Kurányi,BallTouch
+14306,14,MissedShots,0.950999984741211,0.28600000381469726,0.03639540076255798,Mathieu Valbuena,a,3186,OpenPlay,2014,RightFoot,6444,Arsenal Tula,Dinamo Moscow,1,2,2014-08-17 13:00:00,Aleksey Ionov,Pass
+14309,30,BlockedShot,0.865999984741211,0.555,0.14578451216220856,Yuri Zhirkov,a,3058,OpenPlay,2014,RightFoot,6444,Arsenal Tula,Dinamo Moscow,1,2,2014-08-17 13:00:00,,TakeOn
+14310,30,Goal,0.9080000305175782,0.5120000076293946,0.027006221935153008,Douglas,a,3183,FromCorner,2014,Head,6444,Arsenal Tula,Dinamo Moscow,1,2,2014-08-17 13:00:00,Mathieu Valbuena,Aerial
+14311,35,SavedShot,0.750999984741211,0.47700000762939454,0.02664174512028694,Igor Denisov,a,2749,FromCorner,2014,RightFoot,6444,Arsenal Tula,Dinamo Moscow,1,2,2014-08-17 13:00:00,William Vainqueur,Pass
+14312,40,MissedShots,0.7959999847412109,0.54,0.03312370553612709,Yuri Zhirkov,a,3058,OpenPlay,2014,LeftFoot,6444,Arsenal Tula,Dinamo Moscow,1,2,2014-08-17 13:00:00,Aleksey Ionov,Cross
+14313,43,BlockedShot,0.715999984741211,0.5120000076293946,0.01869547739624977,William Vainqueur,a,1944,OpenPlay,2014,RightFoot,6444,Arsenal Tula,Dinamo Moscow,1,2,2014-08-17 13:00:00,,BallRecovery
+14314,45,Goal,0.9380000305175781,0.5020000076293946,0.5450761914253235,Kevin Kurányi,a,255,SetPiece,2014,RightFoot,6444,Arsenal Tula,Dinamo Moscow,1,2,2014-08-17 13:00:00,Mathieu Valbuena,Cross
+14316,48,MissedShots,0.7169999694824218,0.6780000305175782,0.014023231342434883,Alexander Buttner,a,3188,OpenPlay,2014,LeftFoot,6444,Arsenal Tula,Dinamo Moscow,1,2,2014-08-17 13:00:00,Mathieu Valbuena,Pass
+14318,55,ShotOnPost,0.8980000305175782,0.28100000381469725,0.07974863052368164,Mathieu Valbuena,a,3186,OpenPlay,2014,RightFoot,6444,Arsenal Tula,Dinamo Moscow,1,2,2014-08-17 13:00:00,Kevin Kurányi,Pass
+14322,61,SavedShot,0.9269999694824219,0.45799999237060546,0.5823631882667542,Aleksey Ionov,a,2751,OpenPlay,2014,RightFoot,6444,Arsenal Tula,Dinamo Moscow,1,2,2014-08-17 13:00:00,Yuri Zhirkov,Pass
+14324,66,MissedShots,0.8730000305175781,0.48700000762939455,0.3781275749206543,Mathieu Valbuena,a,3186,OpenPlay,2014,RightFoot,6444,Arsenal Tula,Dinamo Moscow,1,2,2014-08-17 13:00:00,Igor Denisov,Pass
+14325,68,MissedShots,0.9730000305175781,0.5690000152587891,0.46004417538642883,Balázs Dzsudzsák,a,3187,OpenPlay,2014,Head,6444,Arsenal Tula,Dinamo Moscow,1,2,2014-08-17 13:00:00,Mathieu Valbuena,Cross
+14326,71,SavedShot,0.9119999694824219,0.6459999847412109,0.05847741290926933,Balázs Dzsudzsák,a,3187,OpenPlay,2014,LeftFoot,6444,Arsenal Tula,Dinamo Moscow,1,2,2014-08-17 13:00:00,Stanislav Manolev,Cross
+14328,84,SavedShot,0.9169999694824219,0.6730000305175782,0.23135393857955933,Aleksandr Kokorin,a,3066,OpenPlay,2014,RightFoot,6444,Arsenal Tula,Dinamo Moscow,1,2,2014-08-17 13:00:00,Mathieu Valbuena,Pass

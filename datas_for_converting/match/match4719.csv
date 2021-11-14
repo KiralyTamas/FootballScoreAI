@@ -1,0 +1,31 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+15147,5,MissedShots,0.7240000152587891,0.29700000762939455,0.014030666090548038,Aaron Ramsey,h,504,OpenPlay,2014,RightFoot,4719,Arsenal,Manchester City,2,2,2014-09-13 12:45:00,Mathieu Flamini,Pass
+15148,6,SavedShot,0.7630000305175781,0.3039999961853027,0.018192904070019722,Alexis Sánchez,h,498,OpenPlay,2014,RightFoot,4719,Arsenal,Manchester City,2,2,2014-09-13 12:45:00,Aaron Ramsey,Pass
+15149,10,MissedShots,0.9059999847412109,0.645,0.08899009972810745,Danny Welbeck,h,501,OpenPlay,2014,LeftFoot,4719,Arsenal,Manchester City,2,2,2014-09-13 12:45:00,Mesut Özil,Pass
+15150,11,ShotOnPost,0.8630000305175781,0.4209999847412109,0.35186564922332764,Danny Welbeck,h,501,OpenPlay,2014,RightFoot,4719,Arsenal,Manchester City,2,2,2014-09-13 12:45:00,,None
+15151,14,SavedShot,0.765,0.3529999923706055,0.020129408687353134,Aaron Ramsey,h,504,OpenPlay,2014,RightFoot,4719,Arsenal,Manchester City,2,2,2014-09-13 12:45:00,,Dispossessed
+15157,36,MissedShots,0.769000015258789,0.6930000305175781,0.05249480530619621,Alexis Sánchez,h,498,DirectFreekick,2014,RightFoot,4719,Arsenal,Manchester City,2,2,2014-09-13 12:45:00,,Standard
+15158,38,MissedShots,0.755,0.6619999694824219,0.02011694945394993,Mesut Özil,h,499,OpenPlay,2014,LeftFoot,4719,Arsenal,Manchester City,2,2,2014-09-13 12:45:00,Aaron Ramsey,Pass
+15159,40,MissedShots,0.7680000305175781,0.3820000076293945,0.015484161674976349,Mesut Özil,h,499,SetPiece,2014,LeftFoot,4719,Arsenal,Manchester City,2,2,2014-09-13 12:45:00,,None
+15160,46,SavedShot,0.905,0.7030000305175781,0.05142014101147652,Danny Welbeck,h,501,OpenPlay,2014,RightFoot,4719,Arsenal,Manchester City,2,2,2014-09-13 12:45:00,Alexis Sánchez,Pass
+15163,62,Goal,0.965999984741211,0.38299999237060545,0.34306594729423523,Jack Wilshere,h,1036,OpenPlay,2014,RightFoot,4719,Arsenal,Manchester City,2,2,2014-09-13 12:45:00,Aaron Ramsey,Pass
+15166,66,MissedShots,0.9,0.28899999618530275,0.051047373563051224,Mathieu Debuchy,h,967,OpenPlay,2014,RightFoot,4719,Arsenal,Manchester City,2,2,2014-09-13 12:45:00,Mesut Özil,Pass
+15167,69,SavedShot,0.8880000305175781,0.3529999923706055,0.2858157753944397,Danny Welbeck,h,501,OpenPlay,2014,LeftFoot,4719,Arsenal,Manchester City,2,2,2014-09-13 12:45:00,Mathieu Debuchy,HeadPass
+15169,73,Goal,0.895,0.5790000152587891,0.3185811936855316,Alexis Sánchez,h,498,OpenPlay,2014,RightFoot,4719,Arsenal,Manchester City,2,2,2014-09-13 12:45:00,Jack Wilshere,HeadPass
+15170,76,MissedShots,0.909000015258789,0.4470000076293945,0.43078532814979553,Aaron Ramsey,h,504,OpenPlay,2014,RightFoot,4719,Arsenal,Manchester City,2,2,2014-09-13 12:45:00,Jack Wilshere,Throughball
+15173,86,MissedShots,0.784000015258789,0.705,0.016019616276025772,Danny Welbeck,h,501,OpenPlay,2014,RightFoot,4719,Arsenal,Manchester City,2,2,2014-09-13 12:45:00,,None
+15152,25,MissedShots,0.7759999847412109,0.39799999237060546,0.025006527081131935,James Milner,a,489,OpenPlay,2014,RightFoot,4719,Arsenal,Manchester City,2,2,2014-09-13 12:45:00,Sergio Agüero,Pass
+15153,27,Goal,0.9159999847412109,0.4540000152587891,0.6079733371734619,Sergio Agüero,a,619,OpenPlay,2014,RightFoot,4719,Arsenal,Manchester City,2,2,2014-09-13 12:45:00,Jesús Navas,Pass
+15154,30,BlockedShot,0.7440000152587891,0.5029999923706054,0.022104518488049507,Frank Lampard,a,4418,OpenPlay,2014,RightFoot,4719,Arsenal,Manchester City,2,2,2014-09-13 12:45:00,David Silva,Pass
+15155,31,SavedShot,0.9490000152587891,0.3820000076293945,0.36680370569229126,David Silva,a,617,OpenPlay,2014,RightFoot,4719,Arsenal,Manchester City,2,2,2014-09-13 12:45:00,Pablo Zabaleta,Pass
+15156,31,SavedShot,0.92,0.3340000152587891,0.07973729819059372,Sergio Agüero,a,619,OpenPlay,2014,LeftFoot,4719,Arsenal,Manchester City,2,2,2014-09-13 12:45:00,,None
+15161,54,MissedShots,0.7909999847412109,0.33799999237060546,0.02957507036626339,Sergio Agüero,a,619,OpenPlay,2014,LeftFoot,4719,Arsenal,Manchester City,2,2,2014-09-13 12:45:00,Samir Nasri,Pass
+15162,58,MissedShots,0.904000015258789,0.6309999847412109,0.36003732681274414,Gaël Clichy,a,613,OpenPlay,2014,LeftFoot,4719,Arsenal,Manchester City,2,2,2014-09-13 12:45:00,David Silva,Throughball
+15164,64,SavedShot,0.7919999694824219,0.5459999847412109,0.040227897465229034,Sergio Agüero,a,619,OpenPlay,2014,RightFoot,4719,Arsenal,Manchester City,2,2,2014-09-13 12:45:00,Gaël Clichy,Pass
+15165,64,SavedShot,0.8859999847412109,0.255,0.03293907269835472,Jesús Navas,a,616,OpenPlay,2014,RightFoot,4719,Arsenal,Manchester City,2,2,2014-09-13 12:45:00,David Silva,Pass
+15168,71,SavedShot,0.7919999694824219,0.6840000152587891,0.021220320835709572,Samir Nasri,a,877,OpenPlay,2014,RightFoot,4719,Arsenal,Manchester City,2,2,2014-09-13 12:45:00,David Silva,Pass
+15171,82,Goal,0.909000015258789,0.524000015258789,0.07639114558696747,Martín Demichelis,a,623,FromCorner,2014,Head,4719,Arsenal,Manchester City,2,2,2014-09-13 12:45:00,Aleksandar Kolarov,Cross
+15172,85,BlockedShot,0.92,0.695,0.06427711993455887,David Silva,a,617,OpenPlay,2014,LeftFoot,4719,Arsenal,Manchester City,2,2,2014-09-13 12:45:00,Gaël Clichy,Pass
+15174,87,ShotOnPost,0.9030000305175782,0.6780000305175782,0.054230108857154846,Aleksandar Kolarov,a,621,OpenPlay,2014,LeftFoot,4719,Arsenal,Manchester City,2,2,2014-09-13 12:45:00,,None
+15175,93,SavedShot,0.8919999694824219,0.4370000076293945,0.3925369381904602,Edin Dzeko,a,1253,OpenPlay,2014,LeftFoot,4719,Arsenal,Manchester City,2,2,2014-09-13 12:45:00,David Silva,Pass
+15176,96,MissedShots,0.935,0.45599998474121095,0.135275200009346,Vincent Kompany,a,612,SetPiece,2014,Head,4719,Arsenal,Manchester City,2,2,2014-09-13 12:45:00,David Silva,Cross

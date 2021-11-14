@@ -1,0 +1,32 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+168092,2,MissedShots,0.9330000305175781,0.5779999923706055,0.11053114384412766,Florian Niederlechner,h,306,OpenPlay,2017,Head,8333,Freiburg,Hertha Berlin,1,1,2017-10-22 14:30:00,Christian Günter,Cross
+168096,10,MissedShots,0.8159999847412109,0.4929999923706055,0.03913550078868866,Marco Terrazzino,h,5287,SetPiece,2017,RightFoot,8333,Freiburg,Hertha Berlin,1,1,2017-10-22 14:30:00,Christian Günter,Pass
+168097,20,MissedShots,0.7480000305175781,0.32799999237060545,0.01263982243835926,Pascal Stenzel,h,326,FromCorner,2017,RightFoot,8333,Freiburg,Hertha Berlin,1,1,2017-10-22 14:30:00,,Aerial
+168098,26,MissedShots,0.9669999694824218,0.6519999694824219,0.013625454157590866,Nicolas Höfler,h,4250,FromCorner,2017,Head,8333,Freiburg,Hertha Berlin,1,1,2017-10-22 14:30:00,Julian Schuster,Cross
+168099,28,BlockedShot,0.879000015258789,0.7319999694824219,0.025606876239180565,Florian Niederlechner,h,306,FromCorner,2017,LeftFoot,8333,Freiburg,Hertha Berlin,1,1,2017-10-22 14:30:00,,None
+168101,32,BlockedShot,0.81,0.515,0.06164126470685005,Florian Niederlechner,h,306,OpenPlay,2017,LeftFoot,8333,Freiburg,Hertha Berlin,1,1,2017-10-22 14:30:00,Mike Frantz,HeadPass
+168102,33,BlockedShot,0.9290000152587891,0.49700000762939456,0.5697039365768433,Janik Haberer,h,4271,OpenPlay,2017,RightFoot,8333,Freiburg,Hertha Berlin,1,1,2017-10-22 14:30:00,Marco Terrazzino,Pass
+168103,34,SavedShot,0.8119999694824219,0.4570000076293945,0.03815256804227829,Christian Günter,h,4243,FromCorner,2017,RightFoot,8333,Freiburg,Hertha Berlin,1,1,2017-10-22 14:30:00,Julian Schuster,Pass
+168104,39,SavedShot,0.9719999694824218,0.655,0.0752078965306282,Marco Terrazzino,h,5287,OpenPlay,2017,LeftFoot,8333,Freiburg,Hertha Berlin,1,1,2017-10-22 14:30:00,Christian Günter,Pass
+168105,44,SavedShot,0.9330000305175781,0.34200000762939453,0.0784217044711113,Pascal Stenzel,h,326,OpenPlay,2017,RightFoot,8333,Freiburg,Hertha Berlin,1,1,2017-10-22 14:30:00,Marco Terrazzino,Pass
+168106,50,Goal,0.885,0.5,0.75777667760849,Janik Haberer,h,4271,Penalty,2017,RightFoot,8333,Freiburg,Hertha Berlin,1,1,2017-10-22 14:30:00,,Standard
+168109,68,SavedShot,0.75,0.47,0.02831169217824936,Mike Frantz,h,4246,OpenPlay,2017,RightFoot,8333,Freiburg,Hertha Berlin,1,1,2017-10-22 14:30:00,Florian Niederlechner,Pass
+168110,68,SavedShot,0.9330000305175781,0.515,0.5895249843597412,Janik Haberer,h,4271,OpenPlay,2017,LeftFoot,8333,Freiburg,Hertha Berlin,1,1,2017-10-22 14:30:00,,Rebound
+168111,72,BlockedShot,0.840999984741211,0.5220000076293946,0.08894861489534378,Mike Frantz,h,4246,OpenPlay,2017,RightFoot,8333,Freiburg,Hertha Berlin,1,1,2017-10-22 14:30:00,Marco Terrazzino,Pass
+168112,72,MissedShots,0.855999984741211,0.3609999847412109,0.08049167692661285,Florian Niederlechner,h,306,OpenPlay,2017,LeftFoot,8333,Freiburg,Hertha Berlin,1,1,2017-10-22 14:30:00,Philipp Lienhart,Pass
+168113,74,BlockedShot,0.715999984741211,0.610999984741211,0.017748119309544563,Caglar Söyüncü,h,5264,OpenPlay,2017,RightFoot,8333,Freiburg,Hertha Berlin,1,1,2017-10-22 14:30:00,Florian Niederlechner,Pass
+168115,77,SavedShot,0.9119999694824219,0.7380000305175781,0.04619811475276947,Marco Terrazzino,h,5287,OpenPlay,2017,LeftFoot,8333,Freiburg,Hertha Berlin,1,1,2017-10-22 14:30:00,Mike Frantz,Pass
+168120,89,SavedShot,0.794000015258789,0.47299999237060547,0.12087526172399521,Julian Schuster,h,4245,DirectFreekick,2017,RightFoot,8333,Freiburg,Hertha Berlin,1,1,2017-10-22 14:30:00,,Standard
+168121,91,BlockedShot,0.8380000305175781,0.35900001525878905,0.07627377659082413,Nils Petersen,h,4248,OpenPlay,2017,RightFoot,8333,Freiburg,Hertha Berlin,1,1,2017-10-22 14:30:00,Florian Niederlechner,Pass
+168122,92,MissedShots,0.705999984741211,0.4759999847412109,0.02405500039458275,Mike Frantz,h,4246,OpenPlay,2017,RightFoot,8333,Freiburg,Hertha Berlin,1,1,2017-10-22 14:30:00,Florian Niederlechner,Dispossessed
+168093,3,SavedShot,0.9219999694824219,0.34900001525878904,0.08102061599493027,Vedad Ibisevic,a,29,OpenPlay,2017,RightFoot,8333,Freiburg,Hertha Berlin,1,1,2017-10-22 14:30:00,Mathew Leckie,Pass
+168094,3,MissedShots,0.899000015258789,0.6880000305175781,0.008359848521649837,Salomon Kalou,a,26,OpenPlay,2017,Head,8333,Freiburg,Hertha Berlin,1,1,2017-10-22 14:30:00,Mitchell Weiser,Cross
+168095,6,MissedShots,0.904000015258789,0.8719999694824219,0.012139242142438889,Marvin Plattenhardt,a,23,OpenPlay,2017,LeftFoot,8333,Freiburg,Hertha Berlin,1,1,2017-10-22 14:30:00,,None
+168100,30,BlockedShot,0.8569999694824219,0.7090000152587891,0.01601533591747284,Mathew Leckie,a,241,SetPiece,2017,RightFoot,8333,Freiburg,Hertha Berlin,1,1,2017-10-22 14:30:00,Mitchell Weiser,Cross
+168107,55,BlockedShot,0.7119999694824218,0.7630000305175781,0.011905592866241932,Marvin Plattenhardt,a,23,OpenPlay,2017,LeftFoot,8333,Freiburg,Hertha Berlin,1,1,2017-10-22 14:30:00,Ondrej Duda,Pass
+168108,58,MissedShots,0.78,0.27,0.05299849063158035,Marvin Plattenhardt,a,23,DirectFreekick,2017,LeftFoot,8333,Freiburg,Hertha Berlin,1,1,2017-10-22 14:30:00,,Standard
+168114,76,MissedShots,0.885,0.5,0.75777667760849,Salomon Kalou,a,26,Penalty,2017,RightFoot,8333,Freiburg,Hertha Berlin,1,1,2017-10-22 14:30:00,,Standard
+168116,80,Goal,0.885,0.5,0.75777667760849,Salomon Kalou,a,26,Penalty,2017,RightFoot,8333,Freiburg,Hertha Berlin,1,1,2017-10-22 14:30:00,,Standard
+168117,81,BlockedShot,0.7809999847412109,0.48200000762939454,0.031469233334064484,Davie Selke,a,4280,OpenPlay,2017,RightFoot,8333,Freiburg,Hertha Berlin,1,1,2017-10-22 14:30:00,,TakeOn
+168118,82,SavedShot,0.8519999694824218,0.5420000076293945,0.0889371782541275,Valentino Lazaro,a,6352,OpenPlay,2017,RightFoot,8333,Freiburg,Hertha Berlin,1,1,2017-10-22 14:30:00,Mitchell Weiser,Pass
+168119,82,MissedShots,0.745,0.36400001525878906,0.013463742099702358,Arne Maier,a,5298,OpenPlay,2017,RightFoot,8333,Freiburg,Hertha Berlin,1,1,2017-10-22 14:30:00,,Rebound

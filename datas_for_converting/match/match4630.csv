@@ -1,0 +1,27 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+19765,4,BlockedShot,0.7859999847412109,0.3120000076293945,0.01752890646457672,Dean Marney,h,1658,OpenPlay,2014,RightFoot,4630,Burnley,Liverpool,0,1,2014-12-26 15:00:00,George Boyd,Pass
+19767,9,MissedShots,0.754000015258789,0.485,0.02619769610464573,Danny Ings,h,986,OpenPlay,2014,LeftFoot,4630,Burnley,Liverpool,0,1,2014-12-26 15:00:00,Dean Marney,Pass
+19769,13,ShotOnPost,0.785,0.620999984741211,0.02630222775042057,Danny Ings,h,986,OpenPlay,2014,RightFoot,4630,Burnley,Liverpool,0,1,2014-12-26 15:00:00,,None
+19770,13,MissedShots,0.9,0.645,0.06172773241996765,Ashley Barnes,h,4422,OpenPlay,2014,RightFoot,4630,Burnley,Liverpool,0,1,2014-12-26 15:00:00,,Rebound
+19771,21,MissedShots,0.925,0.49900001525878906,0.06678833067417145,Ashley Barnes,h,4422,OpenPlay,2014,Head,4630,Burnley,Liverpool,0,1,2014-12-26 15:00:00,Dean Marney,Aerial
+19774,35,BlockedShot,0.789000015258789,0.634000015258789,0.02007320150732994,Scott Arfield,h,1659,FromCorner,2014,RightFoot,4630,Burnley,Liverpool,0,1,2014-12-26 15:00:00,,None
+19775,35,MissedShots,0.8730000305175781,0.5129999923706055,0.08447810262441635,Michael Keane,h,1653,OpenPlay,2014,RightFoot,4630,Burnley,Liverpool,0,1,2014-12-26 15:00:00,Jason Shackell,HeadPass
+19776,38,MissedShots,0.7980000305175782,0.44400001525878907,0.0412273071706295,George Boyd,h,1656,OpenPlay,2014,LeftFoot,4630,Burnley,Liverpool,0,1,2014-12-26 15:00:00,,None
+19777,40,MissedShots,0.7909999847412109,0.46299999237060546,0.04143808037042618,Ashley Barnes,h,4422,OpenPlay,2014,RightFoot,4630,Burnley,Liverpool,0,1,2014-12-26 15:00:00,George Boyd,Pass
+19778,44,MissedShots,0.775,0.41700000762939454,0.02343711070716381,Dean Marney,h,1658,OpenPlay,2014,LeftFoot,4630,Burnley,Liverpool,0,1,2014-12-26 15:00:00,George Boyd,Pass
+19781,63,BlockedShot,0.8430000305175781,0.2520000076293945,0.023571686819195747,George Boyd,h,1656,OpenPlay,2014,LeftFoot,4630,Burnley,Liverpool,0,1,2014-12-26 15:00:00,,None
+19782,67,MissedShots,0.950999984741211,0.38599998474121094,0.040025342255830765,Michael Keane,h,1653,FromCorner,2014,Head,4630,Burnley,Liverpool,0,1,2014-12-26 15:00:00,Kieran Trippier,Cross
+19785,76,MissedShots,0.7559999847412109,0.45,0.02764216624200344,Danny Ings,h,986,OpenPlay,2014,LeftFoot,4630,Burnley,Liverpool,0,1,2014-12-26 15:00:00,George Boyd,TakeOn
+19786,78,BlockedShot,0.855,0.34,0.03503772243857384,Scott Arfield,h,1659,FromCorner,2014,LeftFoot,4630,Burnley,Liverpool,0,1,2014-12-26 15:00:00,,None
+19787,78,MissedShots,0.8119999694824219,0.4279999923706055,0.0328059047460556,Ben Mee,h,1654,FromCorner,2014,LeftFoot,4630,Burnley,Liverpool,0,1,2014-12-26 15:00:00,,None
+19789,87,MissedShots,0.8119999694824219,0.40400001525878904,0.045412130653858185,George Boyd,h,1656,OpenPlay,2014,RightFoot,4630,Burnley,Liverpool,0,1,2014-12-26 15:00:00,Kieran Trippier,Pass
+19766,4,MissedShots,0.905,0.7119999694824218,0.04275806248188019,Raheem Sterling,a,618,OpenPlay,2014,LeftFoot,4630,Burnley,Liverpool,0,1,2014-12-26 15:00:00,Philippe Coutinho,Pass
+19768,13,SavedShot,0.8140000152587891,0.27899999618530275,0.022357122972607613,Philippe Coutinho,a,488,OpenPlay,2014,RightFoot,4630,Burnley,Liverpool,0,1,2014-12-26 15:00:00,Raheem Sterling,Pass
+19772,24,BlockedShot,0.909000015258789,0.3559999847412109,0.04019765183329582,Philippe Coutinho,a,488,FromCorner,2014,LeftFoot,4630,Burnley,Liverpool,0,1,2014-12-26 15:00:00,Steven Gerrard,Cross
+19773,29,SavedShot,0.8119999694824219,0.6469999694824219,0.11616969853639603,Adam Lallana,a,486,OpenPlay,2014,LeftFoot,4630,Burnley,Liverpool,0,1,2014-12-26 15:00:00,Steven Gerrard,Throughball
+19779,57,BlockedShot,0.8009999847412109,0.66,0.02928214892745018,Philippe Coutinho,a,488,OpenPlay,2014,RightFoot,4630,Burnley,Liverpool,0,1,2014-12-26 15:00:00,Steven Gerrard,Pass
+19780,61,Goal,0.8819999694824219,0.6140000152587891,0.5797697901725769,Raheem Sterling,a,618,OpenPlay,2014,LeftFoot,4630,Burnley,Liverpool,0,1,2014-12-26 15:00:00,Philippe Coutinho,TakeOn
+19783,70,BlockedShot,0.7880000305175782,0.6909999847412109,0.02999093569815159,Lazar Markovic,a,4406,OpenPlay,2014,RightFoot,4630,Burnley,Liverpool,0,1,2014-12-26 15:00:00,,Interception
+19784,71,BlockedShot,0.8230000305175781,0.35200000762939454,0.06961123645305634,Philippe Coutinho,a,488,OpenPlay,2014,RightFoot,4630,Burnley,Liverpool,0,1,2014-12-26 15:00:00,Steven Gerrard,TakeOn
+19788,81,BlockedShot,0.87,0.42,0.11559220403432846,Adam Lallana,a,486,OpenPlay,2014,RightFoot,4630,Burnley,Liverpool,0,1,2014-12-26 15:00:00,Raheem Sterling,Pass
+19790,88,MissedShots,0.7930000305175782,0.7090000152587891,0.021354226395487785,Raheem Sterling,a,618,OpenPlay,2014,RightFoot,4630,Burnley,Liverpool,0,1,2014-12-26 15:00:00,Rickie Lambert,Pass

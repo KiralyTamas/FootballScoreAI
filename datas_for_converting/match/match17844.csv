@@ -1,0 +1,19 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+427407,11,BlockedShot,0.6940000152587891,0.4909999847412109,0.01589847356081009,Wahbi Khazri,h,734,OpenPlay,2021,RightFoot,17844,Saint-Etienne,Lille,1,1,2021-08-21 19:00:00,Denis Bouanga,Pass
+427408,16,MissedShots,0.9569999694824218,0.575,0.13285402953624725,Denis Bouanga,h,3781,OpenPlay,2021,Head,17844,Saint-Etienne,Lille,1,1,2021-08-21 19:00:00,Romain Hamouma,Cross
+427410,33,BlockedShot,0.7290000152587891,0.3129999923706055,0.012896978296339512,Wahbi Khazri,h,734,FromCorner,2021,RightFoot,17844,Saint-Etienne,Lille,1,1,2021-08-21 19:00:00,,None
+427413,48,MissedShots,0.7380000305175781,0.215,0.012788926251232624,Yvann Maçon,h,8314,OpenPlay,2021,RightFoot,17844,Saint-Etienne,Lille,1,1,2021-08-21 19:00:00,Mahdi Camara,Pass
+427414,50,MissedShots,0.8430000305175781,0.63,0.053888995200395584,Romain Hamouma,h,3561,OpenPlay,2021,RightFoot,17844,Saint-Etienne,Lille,1,1,2021-08-21 19:00:00,Timothée Kolodziejczak,Pass
+427417,60,SavedShot,0.7519999694824219,0.5740000152587891,0.021256674081087112,Mahdi Camara,h,6452,OpenPlay,2021,RightFoot,17844,Saint-Etienne,Lille,1,1,2021-08-21 19:00:00,Romain Hamouma,TakeOn
+427418,65,MissedShots,0.9169999694824219,0.6909999847412109,0.04833319038152695,Denis Bouanga,h,3781,OpenPlay,2021,LeftFoot,17844,Saint-Etienne,Lille,1,1,2021-08-21 19:00:00,Arnaud Nordin,None
+427419,69,MissedShots,0.77,0.62,0.02092350646853447,Wahbi Khazri,h,734,OpenPlay,2021,RightFoot,17844,Saint-Etienne,Lille,1,1,2021-08-21 19:00:00,,TakeOn
+427421,84,Goal,0.9430000305175781,0.555,0.11452233046293259,Saidou Sow,h,8691,FromCorner,2021,Head,17844,Saint-Etienne,Lille,1,1,2021-08-21 19:00:00,Arnaud Nordin,Cross
+427423,90,MissedShots,0.925,0.4209999847412109,0.043431349098682404,Jean-Phillipe Krasso,h,8690,FromCorner,2021,OtherBodyPart,17844,Saint-Etienne,Lille,1,1,2021-08-21 19:00:00,Arnaud Nordin,Cross
+427409,24,BlockedShot,0.9430000305175781,0.41,0.13507725298404694,Burak Yilmaz,a,8637,OpenPlay,2021,LeftFoot,17844,Saint-Etienne,Lille,1,1,2021-08-21 19:00:00,Timothy Weah,Pass
+427411,37,Goal,0.8830000305175781,0.40700000762939453,0.07600154727697372,Burak Yilmaz,a,8637,OpenPlay,2021,LeftFoot,17844,Saint-Etienne,Lille,1,1,2021-08-21 19:00:00,,None
+427412,47,SavedShot,0.8169999694824219,0.6630000305175782,0.043442048132419586,Jonathan Bamba,a,3749,OpenPlay,2021,RightFoot,17844,Saint-Etienne,Lille,1,1,2021-08-21 19:00:00,Burak Yilmaz,Pass
+427415,54,SavedShot,0.9209999847412109,0.40700000762939453,0.31621524691581726,Jonathan Christian David,a,8636,OpenPlay,2021,RightFoot,17844,Saint-Etienne,Lille,1,1,2021-08-21 19:00:00,Xeka,Chipped
+427416,57,SavedShot,0.7669999694824219,0.754000015258789,0.042401738464832306,Burak Yilmaz,a,8637,DirectFreekick,2021,RightFoot,17844,Saint-Etienne,Lille,1,1,2021-08-21 19:00:00,,Standard
+427420,83,SavedShot,0.904000015258789,0.7,0.06292224675416946,Yusuf Yazici,a,7756,OpenPlay,2021,LeftFoot,17844,Saint-Etienne,Lille,1,1,2021-08-21 19:00:00,Burak Yilmaz,Pass
+427422,88,SavedShot,0.95,0.585,0.4581896960735321,Burak Yilmaz,a,8637,OpenPlay,2021,LeftFoot,17844,Saint-Etienne,Lille,1,1,2021-08-21 19:00:00,,None
+427424,93,MissedShots,0.879000015258789,0.27899999618530275,0.06234773248434067,Burak Yilmaz,a,8637,OpenPlay,2021,RightFoot,17844,Saint-Etienne,Lille,1,1,2021-08-21 19:00:00,Jonathan Ikone,Pass

@@ -1,0 +1,18 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+201139,15,MissedShots,0.950999984741211,0.3609999847412109,0.06385912001132965,Nils Petersen,h,4248,OpenPlay,2017,LeftFoot,8497,Freiburg,VfB Stuttgart,1,2,2018-03-16 19:30:00,,None
+201141,41,MissedShots,0.755,0.710999984741211,0.01774168200790882,Marco Terrazzino,h,5287,OpenPlay,2017,LeftFoot,8497,Freiburg,VfB Stuttgart,1,2,2018-03-16 19:30:00,Lucas Höler,Pass
+201142,45,BlockedShot,0.8480000305175781,0.34200000762939453,0.05269378051161766,Janik Haberer,h,4271,OpenPlay,2017,RightFoot,8497,Freiburg,VfB Stuttgart,1,2,2018-03-16 19:30:00,Lucas Höler,Pass
+201144,52,Goal,0.865999984741211,0.28100000381469725,0.02889357879757881,Nils Petersen,h,4248,OpenPlay,2017,RightFoot,8497,Freiburg,VfB Stuttgart,1,2,2018-03-16 19:30:00,Nicolas Höfler,Pass
+201147,69,SavedShot,0.865,0.29100000381469726,0.03552129492163658,Florian Kath,h,4344,OpenPlay,2017,RightFoot,8497,Freiburg,VfB Stuttgart,1,2,2018-03-16 19:30:00,Lukas Kübler,Pass
+201150,75,BlockedShot,0.9069999694824219,0.33299999237060546,0.05403144657611847,Nils Petersen,h,4248,OpenPlay,2017,RightFoot,8497,Freiburg,VfB Stuttgart,1,2,2018-03-16 19:30:00,Florian Kath,Pass
+201151,78,BlockedShot,0.7130000305175781,0.5129999923706055,0.04606805369257927,Marco Terrazzino,h,5287,DirectFreekick,2017,RightFoot,8497,Freiburg,VfB Stuttgart,1,2,2018-03-16 19:30:00,,Standard
+201136,3,Goal,0.9130000305175782,0.504000015258789,0.3262229859828949,Mario Gomez,a,3887,SetPiece,2017,Head,8497,Freiburg,VfB Stuttgart,1,2,2018-03-16 19:30:00,Dennis Aogo,Chipped
+201137,8,SavedShot,0.765,0.620999984741211,0.029956035315990448,Christian Gentner,a,60,OpenPlay,2017,LeftFoot,8497,Freiburg,VfB Stuttgart,1,2,2018-03-16 19:30:00,Emiliano Insúa,Pass
+201138,12,SavedShot,0.8180000305175781,0.56,0.07263313233852386,Mario Gomez,a,3887,OpenPlay,2017,RightFoot,8497,Freiburg,VfB Stuttgart,1,2,2018-03-16 19:30:00,,BallTouch
+201140,37,MissedShots,0.9219999694824219,0.4420000076293945,0.12188182771205902,Daniel Ginczek,a,426,OpenPlay,2017,Head,8497,Freiburg,VfB Stuttgart,1,2,2018-03-16 19:30:00,Erik Thommy,Cross
+201143,45,BlockedShot,0.7219999694824218,0.51,0.019144127145409584,Dennis Aogo,a,334,OpenPlay,2017,LeftFoot,8497,Freiburg,VfB Stuttgart,1,2,2018-03-16 19:30:00,,None
+201145,54,BlockedShot,0.7769999694824219,0.6329999923706054,0.020383289083838463,Mario Gomez,a,3887,OpenPlay,2017,LeftFoot,8497,Freiburg,VfB Stuttgart,1,2,2018-03-16 19:30:00,Daniel Ginczek,Chipped
+201146,58,MissedShots,0.960999984741211,0.6370000076293946,0.012594271451234818,Christian Gentner,a,60,FromCorner,2017,Head,8497,Freiburg,VfB Stuttgart,1,2,2018-03-16 19:30:00,Erik Thommy,Aerial
+201148,74,SavedShot,0.9519999694824218,0.500999984741211,0.5732784271240234,Mario Gomez,a,3887,OpenPlay,2017,RightFoot,8497,Freiburg,VfB Stuttgart,1,2,2018-03-16 19:30:00,Andreas Beck,Cross
+201149,74,Goal,0.9869999694824219,0.500999984741211,0.9628942608833313,Mario Gomez,a,3887,OpenPlay,2017,LeftFoot,8497,Freiburg,VfB Stuttgart,1,2,2018-03-16 19:30:00,,Rebound
+201152,86,MissedShots,0.77,0.534000015258789,0.03696076571941376,Christian Gentner,a,60,OpenPlay,2017,RightFoot,8497,Freiburg,VfB Stuttgart,1,2,2018-03-16 19:30:00,Emiliano Insúa,Pass

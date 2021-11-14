@@ -1,0 +1,26 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+285417,11,MissedShots,0.885,0.5,0.7432776093482971,Rubén Alcaraz,h,6917,Penalty,2018,RightFoot,10218,Real Valladolid,Real Madrid,1,4,2019-03-10 19:45:00,,Standard
+285420,28,Goal,0.9630000305175781,0.46099998474121096,0.7044625878334045,Anuar Mohamed,h,6918,OpenPlay,2018,LeftFoot,10218,Real Valladolid,Real Madrid,1,4,2019-03-10 19:45:00,Sergi Guardiola,Pass
+285425,42,SavedShot,0.9180000305175782,0.3160000038146973,0.05296797677874565,Anuar Mohamed,h,6918,OpenPlay,2018,RightFoot,10218,Real Valladolid,Real Madrid,1,4,2019-03-10 19:45:00,Míchel,Chipped
+285427,48,MissedShots,0.9290000152587891,0.605999984741211,0.3015838861465454,Anuar Mohamed,h,6918,OpenPlay,2018,RightFoot,10218,Real Valladolid,Real Madrid,1,4,2019-03-10 19:45:00,Míchel,Chipped
+285432,62,MissedShots,0.91,0.29700000762939455,0.037026822566986084,Keko,h,2131,OpenPlay,2018,LeftFoot,10218,Real Valladolid,Real Madrid,1,4,2019-03-10 19:45:00,Fernando Calero,Chipped
+285433,66,BlockedShot,0.7380000305175781,0.3120000076293945,0.046461816877126694,Daniele Verde,h,2044,DirectFreekick,2018,LeftFoot,10218,Real Valladolid,Real Madrid,1,4,2019-03-10 19:45:00,,Standard
+285435,76,ShotOnPost,0.9,0.35700000762939454,0.03911861032247543,Sergi Guardiola,h,5212,FromCorner,2018,LeftFoot,10218,Real Valladolid,Real Madrid,1,4,2019-03-10 19:45:00,Daniele Verde,Cross
+285436,84,MissedShots,0.855999984741211,0.4640000152587891,0.023689771071076393,Duje Cop,h,2340,OpenPlay,2018,Head,10218,Real Valladolid,Real Madrid,1,4,2019-03-10 19:45:00,Nacho,Chipped
+285439,87,MissedShots,0.7519999694824219,0.639000015258789,0.013912375085055828,Daniele Verde,h,2044,OpenPlay,2018,LeftFoot,10218,Real Valladolid,Real Madrid,1,4,2019-03-10 19:45:00,Sergi Guardiola,TakeOn
+285440,89,MissedShots,0.885,0.5329999923706055,0.06724809110164642,Sergi Guardiola,h,5212,OpenPlay,2018,Head,10218,Real Valladolid,Real Madrid,1,4,2019-03-10 19:45:00,Antoñito,Cross
+285416,9,MissedShots,0.8880000305175781,0.4370000076293945,0.014956304803490639,Raphael Varane,a,2245,FromCorner,2018,Head,10218,Real Valladolid,Real Madrid,1,4,2019-03-10 19:45:00,Toni Kroos,Aerial
+285418,22,MissedShots,0.8590000152587891,0.6609999847412109,0.05050331726670265,Karim Benzema,a,2370,OpenPlay,2018,LeftFoot,10218,Real Valladolid,Real Madrid,1,4,2019-03-10 19:45:00,Luka Modric,Pass
+285419,27,MissedShots,0.840999984741211,0.6,0.0718265250325203,Sergio Reguilón,a,7187,OpenPlay,2018,RightFoot,10218,Real Valladolid,Real Madrid,1,4,2019-03-10 19:45:00,Dani Ceballos,Pass
+285421,32,BlockedShot,0.909000015258789,0.49400001525878906,0.11856703460216522,Karim Benzema,a,2370,OpenPlay,2018,RightFoot,10218,Real Valladolid,Real Madrid,1,4,2019-03-10 19:45:00,Álvaro Odriozola,Pass
+285422,33,MissedShots,0.9059999847412109,0.44299999237060544,0.02219153195619583,Casemiro,a,2248,FromCorner,2018,Head,10218,Real Valladolid,Real Madrid,1,4,2019-03-10 19:45:00,Toni Kroos,Aerial
+285423,33,Goal,0.9719999694824218,0.54,0.682127058506012,Raphael Varane,a,2245,FromCorner,2018,RightFoot,10218,Real Valladolid,Real Madrid,1,4,2019-03-10 19:45:00,Nacho,Rebound
+285424,36,MissedShots,0.904000015258789,0.47,0.02689795009791851,Casemiro,a,2248,FromCorner,2018,Head,10218,Real Valladolid,Real Madrid,1,4,2019-03-10 19:45:00,Toni Kroos,Aerial
+285426,44,SavedShot,0.7069999694824218,0.49900001525878906,0.01435016468167305,Casemiro,a,2248,OpenPlay,2018,RightFoot,10218,Real Valladolid,Real Madrid,1,4,2019-03-10 19:45:00,,BallRecovery
+285428,50,Goal,0.885,0.5,0.7432776093482971,Karim Benzema,a,2370,Penalty,2018,RightFoot,10218,Real Valladolid,Real Madrid,1,4,2019-03-10 19:45:00,,Standard
+285429,56,SavedShot,0.909000015258789,0.539000015258789,0.34243279695510864,Dani Ceballos,a,2446,OpenPlay,2018,RightFoot,10218,Real Valladolid,Real Madrid,1,4,2019-03-10 19:45:00,Marco Asensio,Chipped
+285430,58,BlockedShot,0.8519999694824218,0.6120000076293945,0.05881612375378609,Dani Ceballos,a,2446,SetPiece,2018,RightFoot,10218,Real Valladolid,Real Madrid,1,4,2019-03-10 19:45:00,Nacho,BallTouch
+285431,58,Goal,0.9209999847412109,0.545,0.0996956080198288,Karim Benzema,a,2370,FromCorner,2018,Head,10218,Real Valladolid,Real Madrid,1,4,2019-03-10 19:45:00,Toni Kroos,Cross
+285434,71,BlockedShot,0.7130000305175781,0.5459999847412109,0.03109181858599186,Casemiro,a,2248,OpenPlay,2018,RightFoot,10218,Real Valladolid,Real Madrid,1,4,2019-03-10 19:45:00,Sergio Reguilón,TakeOn
+285437,84,Goal,0.875,0.62,0.3133576512336731,Luka Modric,a,2250,OpenPlay,2018,RightFoot,10218,Real Valladolid,Real Madrid,1,4,2019-03-10 19:45:00,Karim Benzema,TakeOn
+285438,86,BlockedShot,0.7959999847412109,0.3160000038146973,0.03537283465266228,Marco Asensio,a,2117,OpenPlay,2018,LeftFoot,10218,Real Valladolid,Real Madrid,1,4,2019-03-10 19:45:00,Karim Benzema,Pass

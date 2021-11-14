@@ -1,0 +1,24 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+339546,6,MissedShots,0.789000015258789,0.39099998474121095,0.022859837859869003,Max Meyer,h,338,FromCorner,2019,RightFoot,11826,Crystal Palace,West Ham,2,1,2019-12-26 15:00:00,Jordan Ayew,BallTouch
+339547,30,MissedShots,0.9530000305175781,0.48700000762939455,0.6219152808189392,Jordan Ayew,h,672,OpenPlay,2019,RightFoot,11826,Crystal Palace,West Ham,2,1,2019-12-26 15:00:00,,None
+339550,39,BlockedShot,0.9669999694824218,0.59,0.09934184700250626,Cheikhou Kouyaté,h,532,OpenPlay,2019,LeftFoot,11826,Crystal Palace,West Ham,2,1,2019-12-26 15:00:00,,None
+339552,52,SavedShot,0.8980000305175782,0.31,0.05678517743945122,Jordan Ayew,h,672,OpenPlay,2019,RightFoot,11826,Crystal Palace,West Ham,2,1,2019-12-26 15:00:00,,BallRecovery
+339553,53,MissedShots,0.7559999847412109,0.5690000152587891,0.017290202900767326,Luka Milivojevic,h,5549,FromCorner,2019,LeftFoot,11826,Crystal Palace,West Ham,2,1,2019-12-26 15:00:00,,None
+339554,55,MissedShots,0.855999984741211,0.634000015258789,0.07005348056554794,Luka Milivojevic,h,5549,OpenPlay,2019,RightFoot,11826,Crystal Palace,West Ham,2,1,2019-12-26 15:00:00,Patrick van Aanholt,Pass
+339556,59,MissedShots,0.9530000305175781,0.6659999847412109,0.062278032302856445,Patrick van Aanholt,h,730,OpenPlay,2019,LeftFoot,11826,Crystal Palace,West Ham,2,1,2019-12-26 15:00:00,Wilfried Zaha,TakeOn
+339558,65,MissedShots,0.9059999847412109,0.5309999847412109,0.02412230335175991,James Tomkins,h,530,FromCorner,2019,Head,11826,Crystal Palace,West Ham,2,1,2019-12-26 15:00:00,Luka Milivojevic,Aerial
+339559,67,Goal,0.909000015258789,0.4570000076293945,0.41889333724975586,Cheikhou Kouyaté,h,532,OpenPlay,2019,RightFoot,11826,Crystal Palace,West Ham,2,1,2019-12-26 15:00:00,Jordan Ayew,HeadPass
+339561,73,MissedShots,0.9390000152587891,0.67,0.08461391180753708,Wilfried Zaha,h,522,OpenPlay,2019,LeftFoot,11826,Crystal Palace,West Ham,2,1,2019-12-26 15:00:00,Max Meyer,TakeOn
+339564,76,SavedShot,0.8680000305175781,0.4490000152587891,0.2993074953556061,Connor Wickham,h,519,OpenPlay,2019,RightFoot,11826,Crystal Palace,West Ham,2,1,2019-12-26 15:00:00,Jordan Ayew,Pass
+339566,85,BlockedShot,0.9030000305175782,0.5059999847412109,0.04853084310889244,Cheikhou Kouyaté,h,532,OpenPlay,2019,Head,11826,Crystal Palace,West Ham,2,1,2019-12-26 15:00:00,,Aerial
+339568,89,Goal,0.8969999694824219,0.43099998474121093,0.3159564733505249,Jordan Ayew,h,672,OpenPlay,2019,RightFoot,11826,Crystal Palace,West Ham,2,1,2019-12-26 15:00:00,Connor Wickham,TakeOn
+339548,33,SavedShot,0.7880000305175782,0.765,0.020066039636731148,Michail Antonio,a,531,OpenPlay,2019,RightFoot,11826,Crystal Palace,West Ham,2,1,2019-12-26 15:00:00,Aaron Cresswell,Pass
+339549,36,MissedShots,0.784000015258789,0.5720000076293945,0.03503229841589928,Michail Antonio,a,531,OpenPlay,2019,RightFoot,11826,Crystal Palace,West Ham,2,1,2019-12-26 15:00:00,Pablo Fornals,Pass
+339551,42,BlockedShot,0.905,0.5790000152587891,0.015607520006597042,Declan Rice,a,5553,FromCorner,2019,Head,11826,Crystal Palace,West Ham,2,1,2019-12-26 15:00:00,Robert Snodgrass,Aerial
+339555,56,Goal,0.874000015258789,0.44,0.3482877314090729,Robert Snodgrass,a,1691,OpenPlay,2019,LeftFoot,11826,Crystal Palace,West Ham,2,1,2019-12-26 15:00:00,Michail Antonio,Throughball
+339557,63,BlockedShot,0.8569999694824219,0.6329999923706054,0.08569477498531342,Michail Antonio,a,531,OpenPlay,2019,LeftFoot,11826,Crystal Palace,West Ham,2,1,2019-12-26 15:00:00,Manuel Lanzini,Pass
+339560,72,MissedShots,0.8930000305175781,0.5429999923706055,0.023393472656607628,Sébastien Haller,a,6144,SetPiece,2019,Head,11826,Crystal Palace,West Ham,2,1,2019-12-26 15:00:00,Mark Noble,Aerial
+339562,75,MissedShots,0.7719999694824219,0.385,0.022798767313361168,Declan Rice,a,5553,OpenPlay,2019,RightFoot,11826,Crystal Palace,West Ham,2,1,2019-12-26 15:00:00,,None
+339563,75,MissedShots,0.8819999694824219,0.4909999847412109,0.08992189913988113,Michail Antonio,a,531,OpenPlay,2019,LeftFoot,11826,Crystal Palace,West Ham,2,1,2019-12-26 15:00:00,Manuel Lanzini,HeadPass
+339565,77,MissedShots,0.8859999847412109,0.445,0.031081099063158035,Robert Snodgrass,a,1691,OpenPlay,2019,Head,11826,Crystal Palace,West Ham,2,1,2019-12-26 15:00:00,Manuel Lanzini,Aerial
+339567,86,BlockedShot,0.8880000305175781,0.524000015258789,0.1244545504450798,Robert Snodgrass,a,1691,OpenPlay,2019,LeftFoot,11826,Crystal Palace,West Ham,2,1,2019-12-26 15:00:00,Aaron Cresswell,Pass

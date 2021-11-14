@@ -1,0 +1,36 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+159342,5,SavedShot,0.9619999694824218,0.6869999694824219,0.05649062246084213,Jamie Vardy,h,755,OpenPlay,2017,RightFoot,7176,Leicester,Liverpool,2,3,2017-09-23 17:30:00,Shinji Okazaki,Pass
+159343,5,MissedShots,0.925,0.5609999847412109,0.43400606513023376,Riyad Mahrez,h,750,OpenPlay,2017,LeftFoot,7176,Leicester,Liverpool,2,3,2017-09-23 17:30:00,,Rebound
+159347,14,BlockedShot,0.764000015258789,0.3529999923706055,0.023702532052993774,Wilfred Ndidi,h,5545,OpenPlay,2017,RightFoot,7176,Leicester,Liverpool,2,3,2017-09-23 17:30:00,Andy King,TakeOn
+159349,17,SavedShot,0.7330000305175781,0.17899999618530274,0.011830954812467098,Shinji Okazaki,h,754,OpenPlay,2017,RightFoot,7176,Leicester,Liverpool,2,3,2017-09-23 17:30:00,Jamie Vardy,Card
+159356,47,SavedShot,0.9159999847412109,0.620999984741211,0.03520926460623741,Jamie Vardy,h,755,SetPiece,2017,Head,7176,Leicester,Liverpool,2,3,2017-09-23 17:30:00,Riyad Mahrez,Cross
+159357,47,MissedShots,0.93,0.509000015258789,0.1174873635172844,Wilfred Ndidi,h,5545,FromCorner,2017,Head,7176,Leicester,Liverpool,2,3,2017-09-23 17:30:00,Marc Albrighton,Cross
+159358,47,Goal,0.9890000152587891,0.5309999847412109,0.9616047739982605,Shinji Okazaki,h,754,FromCorner,2017,RightFoot,7176,Leicester,Liverpool,2,3,2017-09-23 17:30:00,Harry Maguire,Rebound
+159367,66,BlockedShot,0.924000015258789,0.6120000076293945,0.09001254290342331,Jamie Vardy,h,755,OpenPlay,2017,LeftFoot,7176,Leicester,Liverpool,2,3,2017-09-23 17:30:00,Marc Albrighton,Pass
+159369,68,SavedShot,0.9069999694824219,0.30100000381469727,0.022644873708486557,Demarai Gray,h,762,OpenPlay,2017,RightFoot,7176,Leicester,Liverpool,2,3,2017-09-23 17:30:00,Marc Albrighton,Cross
+159370,68,Goal,0.9590000152587891,0.5590000152587891,0.5088122487068176,Jamie Vardy,h,755,OpenPlay,2017,Head,7176,Leicester,Liverpool,2,3,2017-09-23 17:30:00,,Rebound
+159371,72,SavedShot,0.885,0.5,0.7611688375473022,Jamie Vardy,h,755,Penalty,2017,RightFoot,7176,Leicester,Liverpool,2,3,2017-09-23 17:30:00,,Standard
+159375,83,BlockedShot,0.7659999847412109,0.355,0.013708647340536118,Wilfred Ndidi,h,5545,SetPiece,2017,RightFoot,7176,Leicester,Liverpool,2,3,2017-09-23 17:30:00,,None
+159344,12,BlockedShot,0.8180000305175781,0.6990000152587891,0.024701569229364395,Philippe Coutinho,a,488,OpenPlay,2017,RightFoot,7176,Leicester,Liverpool,2,3,2017-09-23 17:30:00,Alberto Moreno,Pass
+159345,12,ShotOnPost,0.7519999694824219,0.29100000381469726,0.014641489833593369,Emre Can,a,604,OpenPlay,2017,RightFoot,7176,Leicester,Liverpool,2,3,2017-09-23 17:30:00,Mohamed Salah,Pass
+159346,12,MissedShots,0.8969999694824219,0.500999984741211,0.39188554883003235,Mohamed Salah,a,1250,OpenPlay,2017,LeftFoot,7176,Leicester,Liverpool,2,3,2017-09-23 17:30:00,,Rebound
+159348,14,Goal,0.97,0.40599998474121096,0.09316682815551758,Mohamed Salah,a,1250,OpenPlay,2017,Head,7176,Leicester,Liverpool,2,3,2017-09-23 17:30:00,Philippe Coutinho,Cross
+159350,22,Goal,0.7480000305175781,0.585,0.058446042239665985,Philippe Coutinho,a,488,DirectFreekick,2017,RightFoot,7176,Leicester,Liverpool,2,3,2017-09-23 17:30:00,,Standard
+159351,24,BlockedShot,0.7809999847412109,0.2929999923706055,0.018453428521752357,Roberto Firmino,a,482,OpenPlay,2017,LeftFoot,7176,Leicester,Liverpool,2,3,2017-09-23 17:30:00,,None
+159352,24,BlockedShot,0.8130000305175781,0.6969999694824218,0.01833624392747879,Alberto Moreno,a,608,OpenPlay,2017,LeftFoot,7176,Leicester,Liverpool,2,3,2017-09-23 17:30:00,,Rebound
+159353,31,BlockedShot,0.8009999847412109,0.7090000152587891,0.030709773302078247,Alberto Moreno,a,608,OpenPlay,2017,LeftFoot,7176,Leicester,Liverpool,2,3,2017-09-23 17:30:00,Philippe Coutinho,Pass
+159354,32,SavedShot,0.8730000305175781,0.5320000076293945,0.024458743631839752,Georginio Wijnaldum,a,771,FromCorner,2017,Head,7176,Leicester,Liverpool,2,3,2017-09-23 17:30:00,Alberto Moreno,Cross
+159355,42,MissedShots,0.9019999694824219,0.66,0.09231598675251007,Roberto Firmino,a,482,OpenPlay,2017,LeftFoot,7176,Leicester,Liverpool,2,3,2017-09-23 17:30:00,Emre Can,Pass
+159359,46,SavedShot,0.9030000305175782,0.74,0.03805254399776459,Philippe Coutinho,a,488,OpenPlay,2017,RightFoot,7176,Leicester,Liverpool,2,3,2017-09-23 17:30:00,Emre Can,HeadPass
+159360,55,MissedShots,0.904000015258789,0.48200000762939454,0.06955529004335403,Dejan Lovren,a,602,FromCorner,2017,Head,7176,Leicester,Liverpool,2,3,2017-09-23 17:30:00,Philippe Coutinho,Cross
+159361,56,MissedShots,0.96,0.595999984741211,0.05892976000905037,Emre Can,a,604,OpenPlay,2017,Head,7176,Leicester,Liverpool,2,3,2017-09-23 17:30:00,Jordan Henderson,Chipped
+159362,60,BlockedShot,0.799000015258789,0.7030000305175781,0.02507619373500347,Philippe Coutinho,a,488,OpenPlay,2017,RightFoot,7176,Leicester,Liverpool,2,3,2017-09-23 17:30:00,Jordan Henderson,Pass
+159363,60,MissedShots,0.7290000152587891,0.45599998474121095,0.02059471234679222,Roberto Firmino,a,482,OpenPlay,2017,RightFoot,7176,Leicester,Liverpool,2,3,2017-09-23 17:30:00,Jordan Henderson,Pass
+159364,65,BlockedShot,0.875,0.4179999923706055,0.10949684679508209,Mohamed Salah,a,1250,OpenPlay,2017,RightFoot,7176,Leicester,Liverpool,2,3,2017-09-23 17:30:00,Philippe Coutinho,Pass
+159365,66,BlockedShot,0.9119999694824219,0.6719999694824219,0.10561007261276245,Philippe Coutinho,a,488,OpenPlay,2017,RightFoot,7176,Leicester,Liverpool,2,3,2017-09-23 17:30:00,,TakeOn
+159366,66,BlockedShot,0.9059999847412109,0.5879999923706055,0.1302306354045868,Mohamed Salah,a,1250,OpenPlay,2017,LeftFoot,7176,Leicester,Liverpool,2,3,2017-09-23 17:30:00,Alberto Moreno,Pass
+159368,67,Goal,0.8580000305175781,0.5629999923706055,0.4272966980934143,Jordan Henderson,a,605,OpenPlay,2017,RightFoot,7176,Leicester,Liverpool,2,3,2017-09-23 17:30:00,Daniel Sturridge,Pass
+159372,74,MissedShots,0.8190000152587891,0.35700000762939454,0.04206729680299759,Daniel Sturridge,a,483,OpenPlay,2017,LeftFoot,7176,Leicester,Liverpool,2,3,2017-09-23 17:30:00,Philippe Coutinho,TakeOn
+159373,79,MissedShots,0.8880000305175781,0.7569999694824219,0.03771640732884407,Alex Oxlade-Chamberlain,a,966,OpenPlay,2017,RightFoot,7176,Leicester,Liverpool,2,3,2017-09-23 17:30:00,Daniel Sturridge,Pass
+159374,81,SavedShot,0.745,0.6120000076293945,0.02405281737446785,Daniel Sturridge,a,483,OpenPlay,2017,LeftFoot,7176,Leicester,Liverpool,2,3,2017-09-23 17:30:00,Alex Oxlade-Chamberlain,Pass
+159376,84,MissedShots,0.865999984741211,0.6409999847412109,0.07930419594049454,Georginio Wijnaldum,a,771,OpenPlay,2017,RightFoot,7176,Leicester,Liverpool,2,3,2017-09-23 17:30:00,Alex Oxlade-Chamberlain,Pass

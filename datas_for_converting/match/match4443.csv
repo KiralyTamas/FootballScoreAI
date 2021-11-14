@@ -1,0 +1,26 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+22073,3,BlockedShot,0.8059999847412109,0.6990000152587891,0.02671068347990513,Ashley Young,h,631,OpenPlay,2014,RightFoot,4443,Manchester United,Aston Villa,3,1,2015-04-04 15:00:00,Daley Blind,Pass
+22075,9,BlockedShot,0.9030000305175782,0.4909999847412109,0.46815457940101624,Juan Mata,h,554,OpenPlay,2014,LeftFoot,4443,Manchester United,Aston Villa,3,1,2015-04-04 15:00:00,,None
+22076,9,MissedShots,0.855999984741211,0.28200000762939453,0.05225033313035965,Wayne Rooney,h,629,OpenPlay,2014,RightFoot,4443,Manchester United,Aston Villa,3,1,2015-04-04 15:00:00,,TakeOn
+22078,22,SavedShot,0.730999984741211,0.7369999694824219,0.011232790537178516,Marcos Rojo,h,550,OpenPlay,2014,LeftFoot,4443,Manchester United,Aston Villa,3,1,2015-04-04 15:00:00,Ashley Young,Pass
+22079,26,MissedShots,0.915,0.4520000076293945,0.11019817739725113,Wayne Rooney,h,629,OpenPlay,2014,RightFoot,4443,Manchester United,Aston Villa,3,1,2015-04-04 15:00:00,Antonio Valencia,Cross
+22080,40,BlockedShot,0.865,0.7519999694824219,0.02917410060763359,Ashley Young,h,631,OpenPlay,2014,RightFoot,4443,Manchester United,Aston Villa,3,1,2015-04-04 15:00:00,Michael Carrick,Pass
+22081,41,SavedShot,0.7709999847412109,0.6480000305175782,0.022205514833331108,Daley Blind,h,548,OpenPlay,2014,RightFoot,4443,Manchester United,Aston Villa,3,1,2015-04-04 15:00:00,,Interception
+22082,42,Goal,0.8680000305175781,0.6480000305175782,0.06592071801424026,Ander Herrera,h,552,OpenPlay,2014,LeftFoot,4443,Manchester United,Aston Villa,3,1,2015-04-04 15:00:00,Daley Blind,Pass
+22083,45,BlockedShot,0.9109999847412109,0.4209999847412109,0.0804121270775795,Wayne Rooney,h,629,FromCorner,2014,RightFoot,4443,Manchester United,Aston Villa,3,1,2015-04-04 15:00:00,Daley Blind,Pass
+22084,45,SavedShot,0.9159999847412109,0.5479999923706055,0.03911612927913666,Marcos Rojo,h,550,FromCorner,2014,Head,4443,Manchester United,Aston Villa,3,1,2015-04-04 15:00:00,,Rebound
+22085,46,MissedShots,0.9130000305175782,0.52,0.06556080281734467,Marouane Fellaini,h,630,OpenPlay,2014,Head,4443,Manchester United,Aston Villa,3,1,2015-04-04 15:00:00,Antonio Valencia,Aerial
+22087,51,MissedShots,0.79,0.695,0.019540581852197647,Ashley Young,h,631,OpenPlay,2014,RightFoot,4443,Manchester United,Aston Villa,3,1,2015-04-04 15:00:00,Juan Mata,Chipped
+22088,55,MissedShots,0.7380000305175781,0.44799999237060545,0.05495811253786087,Juan Mata,h,554,DirectFreekick,2014,LeftFoot,4443,Manchester United,Aston Villa,3,1,2015-04-04 15:00:00,,Standard
+22089,61,SavedShot,0.955999984741211,0.55,0.5301632881164551,Marouane Fellaini,h,630,OpenPlay,2014,Head,4443,Manchester United,Aston Villa,3,1,2015-04-04 15:00:00,Antonio Valencia,Cross
+22090,68,MissedShots,0.8480000305175781,0.4329999923706055,0.060379575937986374,Wayne Rooney,h,629,OpenPlay,2014,RightFoot,4443,Manchester United,Aston Villa,3,1,2015-04-04 15:00:00,,TakeOn
+22091,71,MissedShots,0.7980000305175782,0.685,0.03183737024664879,Daley Blind,h,548,FromCorner,2014,LeftFoot,4443,Manchester United,Aston Villa,3,1,2015-04-04 15:00:00,Ander Herrera,Pass
+22092,71,MissedShots,0.8880000305175781,0.5740000152587891,0.10910311341285706,Marouane Fellaini,h,630,OpenPlay,2014,RightFoot,4443,Manchester United,Aston Villa,3,1,2015-04-04 15:00:00,Daley Blind,Rebound
+22094,78,Goal,0.8530000305175781,0.544000015258789,0.07159209996461868,Wayne Rooney,h,629,OpenPlay,2014,RightFoot,4443,Manchester United,Aston Villa,3,1,2015-04-04 15:00:00,Ángel Di María,Cross
+22096,84,MissedShots,0.9459999847412109,0.705999984741211,0.04588453471660614,Falcao,h,696,FromCorner,2014,LeftFoot,4443,Manchester United,Aston Villa,3,1,2015-04-04 15:00:00,Wayne Rooney,Pass
+22097,91,Goal,0.845999984741211,0.45299999237060545,0.09582000970840454,Ander Herrera,h,552,OpenPlay,2014,RightFoot,4443,Manchester United,Aston Villa,3,1,2015-04-04 15:00:00,Juan Mata,Pass
+22074,5,BlockedShot,0.92,0.68,0.05933014303445816,Gabriel Agbonlahor,a,890,SetPiece,2014,LeftFoot,4443,Manchester United,Aston Villa,3,1,2015-04-04 15:00:00,Christian Benteke,HeadPass
+22077,15,SavedShot,0.7219999694824218,0.6480000305175782,0.014575455337762833,Christian Benteke,a,606,OpenPlay,2014,RightFoot,4443,Manchester United,Aston Villa,3,1,2015-04-04 15:00:00,Gabriel Agbonlahor,Pass
+22086,48,MissedShots,0.895,0.5629999923706055,0.10995620489120483,Christian Benteke,a,606,OpenPlay,2014,RightFoot,4443,Manchester United,Aston Villa,3,1,2015-04-04 15:00:00,Andreas Weimann,Pass
+22093,75,MissedShots,0.9640000152587891,0.5329999923706055,0.06511545926332474,Jores Okore,a,676,SetPiece,2014,Head,4443,Manchester United,Aston Villa,3,1,2015-04-04 15:00:00,Leandro Bacuna,BallTouch
+22095,79,Goal,0.91,0.4259999847412109,0.06280981004238129,Christian Benteke,a,606,FromCorner,2014,RightFoot,4443,Manchester United,Aston Villa,3,1,2015-04-04 15:00:00,Joe Cole,Cross

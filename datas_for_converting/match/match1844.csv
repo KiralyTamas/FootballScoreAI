@@ -1,0 +1,33 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+136564,2,BlockedShot,0.7519999694824219,0.674000015258789,0.014263377524912357,José Gayá,h,2505,OpenPlay,2016,LeftFoot,1844,Valencia,Atletico Madrid,0,2,2016-10-02 14:00:00,João Cancelo,TakeOn
+136571,28,MissedShots,0.784000015258789,0.685,0.02399754337966442,Mario Suárez,h,576,OpenPlay,2016,LeftFoot,1844,Valencia,Atletico Madrid,0,2,2016-10-02 14:00:00,Nani,Pass
+136572,30,BlockedShot,0.7390000152587891,0.3340000152587891,0.025066304951906204,João Cancelo,h,2379,FromCorner,2016,RightFoot,1844,Valencia,Atletico Madrid,0,2,2016-10-02 14:00:00,,TakeOn
+136573,36,SavedShot,0.865,0.6969999694824218,0.04134825989603996,José Gayá,h,2505,OpenPlay,2016,LeftFoot,1844,Valencia,Atletico Madrid,0,2,2016-10-02 14:00:00,Rodrigo,Pass
+136575,45,SavedShot,0.8959999847412109,0.3820000076293945,0.09381256997585297,Rodrigo,h,2381,OpenPlay,2016,RightFoot,1844,Valencia,Atletico Madrid,0,2,2016-10-02 14:00:00,Nani,Pass
+136577,53,BlockedShot,0.8780000305175781,0.42700000762939455,0.10155397653579712,Santi Mina,h,2384,OpenPlay,2016,RightFoot,1844,Valencia,Atletico Madrid,0,2,2016-10-02 14:00:00,Martín Montoya,Pass
+136578,54,MissedShots,0.915,0.43099998474121093,0.06828334927558899,Nani,h,4536,FromCorner,2016,Head,1844,Valencia,Atletico Madrid,0,2,2016-10-02 14:00:00,Daniel Parejo,Cross
+136579,58,BlockedShot,0.7130000305175781,0.63,0.04298776015639305,Nani,h,4536,DirectFreekick,2016,RightFoot,1844,Valencia,Atletico Madrid,0,2,2016-10-02 14:00:00,,Standard
+136580,61,MissedShots,0.85,0.700999984741211,0.033178046345710754,Rodrigo,h,2381,OpenPlay,2016,LeftFoot,1844,Valencia,Atletico Madrid,0,2,2016-10-02 14:00:00,Nani,Pass
+136585,72,BlockedShot,0.865,0.19399999618530273,0.016885792836546898,Nani,h,4536,OpenPlay,2016,LeftFoot,1844,Valencia,Atletico Madrid,0,2,2016-10-02 14:00:00,,None
+136587,73,SavedShot,0.764000015258789,0.3629999923706055,0.02278381772339344,Nani,h,4536,OpenPlay,2016,RightFoot,1844,Valencia,Atletico Madrid,0,2,2016-10-02 14:00:00,Mario Suárez,TakeOn
+136588,76,SavedShot,0.7969999694824219,0.2979999923706055,0.07340599596500397,Daniel Parejo,h,2378,DirectFreekick,2016,RightFoot,1844,Valencia,Atletico Madrid,0,2,2016-10-02 14:00:00,,Standard
+136593,88,SavedShot,0.9230000305175782,0.48700000762939455,0.35149452090263367,Eliaquim Mangala,h,626,OpenPlay,2016,Head,1844,Valencia,Atletico Madrid,0,2,2016-10-02 14:00:00,Zakaria Bakkali,Chipped
+136594,90,MissedShots,0.9069999694824219,0.5129999923706055,0.09639834612607956,Santi Mina,h,2384,OpenPlay,2016,Head,1844,Valencia,Atletico Madrid,0,2,2016-10-02 14:00:00,Zakaria Bakkali,Cross
+136565,6,SavedShot,0.87,0.519000015258789,0.10719934105873108,Saúl Ñíguez,a,2266,OpenPlay,2016,LeftFoot,1844,Valencia,Atletico Madrid,0,2,2016-10-02 14:00:00,Kevin Gameiro,Pass
+136566,14,BlockedShot,0.755,0.45799999237060546,0.037041522562503815,Antoine Griezmann,a,2270,OpenPlay,2016,LeftFoot,1844,Valencia,Atletico Madrid,0,2,2016-10-02 14:00:00,,TakeOn
+136567,17,BlockedShot,0.7680000305175781,0.40599998474121096,0.026623094454407692,Ángel Correa,a,2275,OpenPlay,2016,LeftFoot,1844,Valencia,Atletico Madrid,0,2,2016-10-02 14:00:00,Juanfran,Pass
+136568,22,MissedShots,0.8959999847412109,0.52,0.04222112521529198,Antoine Griezmann,a,2270,OpenPlay,2016,Head,1844,Valencia,Atletico Madrid,0,2,2016-10-02 14:00:00,Koke,Aerial
+136569,25,SavedShot,0.8080000305175781,0.7069999694824218,0.026183143258094788,Antoine Griezmann,a,2270,OpenPlay,2016,LeftFoot,1844,Valencia,Atletico Madrid,0,2,2016-10-02 14:00:00,Saúl Ñíguez,Pass
+136570,26,SavedShot,0.855999984741211,0.8280000305175781,0.012872274033725262,Koke,a,2269,FromCorner,2016,RightFoot,1844,Valencia,Atletico Madrid,0,2,2016-10-02 14:00:00,,Aerial
+136574,43,SavedShot,0.885,0.5,0.7432776093482971,Antoine Griezmann,a,2270,Penalty,2016,LeftFoot,1844,Valencia,Atletico Madrid,0,2,2016-10-02 14:00:00,,Standard
+136576,52,SavedShot,0.8119999694824219,0.6840000152587891,0.02996918186545372,Filipe Luis,a,2265,OpenPlay,2016,LeftFoot,1844,Valencia,Atletico Madrid,0,2,2016-10-02 14:00:00,Antoine Griezmann,Pass
+136581,62,SavedShot,0.9259999847412109,0.6669999694824219,0.06505905091762543,Fernando Torres,a,2271,OpenPlay,2016,LeftFoot,1844,Valencia,Atletico Madrid,0,2,2016-10-02 14:00:00,Yannick Carrasco,Pass
+136582,62,Goal,0.9219999694824219,0.42900001525878906,0.4360290467739105,Antoine Griezmann,a,2270,OpenPlay,2016,LeftFoot,1844,Valencia,Atletico Madrid,0,2,2016-10-02 14:00:00,Kevin Gameiro,Pass
+136583,67,SavedShot,0.895,0.6329999923706054,0.29629841446876526,Kevin Gameiro,a,2442,OpenPlay,2016,RightFoot,1844,Valencia,Atletico Madrid,0,2,2016-10-02 14:00:00,Antoine Griezmann,TakeOn
+136584,68,SavedShot,0.885,0.5,0.7432776093482971,Gabi,a,2268,Penalty,2016,RightFoot,1844,Valencia,Atletico Madrid,0,2,2016-10-02 14:00:00,,Standard
+136586,72,MissedShots,0.8519999694824218,0.3629999923706055,0.07859785109758377,Kevin Gameiro,a,2442,OpenPlay,2016,RightFoot,1844,Valencia,Atletico Madrid,0,2,2016-10-02 14:00:00,Antoine Griezmann,Pass
+136589,80,ShotOnPost,0.765,0.534000015258789,0.03417122736573219,Gabi,a,2268,OpenPlay,2016,RightFoot,1844,Valencia,Atletico Madrid,0,2,2016-10-02 14:00:00,Tiago,Pass
+136590,82,MissedShots,0.5459999847412109,0.3629999923706055,0.007672372739762068,Koke,a,2269,OpenPlay,2016,RightFoot,1844,Valencia,Atletico Madrid,0,2,2016-10-02 14:00:00,,None
+136591,84,BlockedShot,0.8119999694824219,0.5070000076293946,0.07196888327598572,Yannick Carrasco,a,2272,OpenPlay,2016,RightFoot,1844,Valencia,Atletico Madrid,0,2,2016-10-02 14:00:00,Filipe Luis,Pass
+136592,84,MissedShots,0.8919999694824219,0.46,0.0681433454155922,Fernando Torres,a,2271,FromCorner,2016,Head,1844,Valencia,Atletico Madrid,0,2,2016-10-02 14:00:00,Juanfran,Cross
+136595,92,Goal,0.935,0.43900001525878907,0.4668761193752289,Kevin Gameiro,a,2442,OpenPlay,2016,LeftFoot,1844,Valencia,Atletico Madrid,0,2,2016-10-02 14:00:00,Juanfran,TakeOn

@@ -1,0 +1,22 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+156601,6,Goal,0.7769999694824219,0.45099998474121095,0.02710503526031971,Artur Yusupov,h,3067,OpenPlay,2017,RightFoot,6539,FC Rostov,Arsenal Tula,2,2,2017-09-09 14:30:00,Aleksey Ionov,Pass
+156602,8,ShotOnPost,0.7390000152587891,0.08199999809265136,0.009006589651107788,Sergey Parshivlyuk,h,2828,OpenPlay,2017,LeftFoot,6539,FC Rostov,Arsenal Tula,2,2,2017-09-09 14:30:00,,None
+156605,33,BlockedShot,0.78,0.575999984741211,0.029820790514349937,Pavel Mogilevets,h,2773,OpenPlay,2017,LeftFoot,6539,FC Rostov,Arsenal Tula,2,2,2017-09-09 14:30:00,Artur Yusupov,Pass
+156607,38,BlockedShot,0.8430000305175781,0.33,0.045027151703834534,Timofei Kalachev,h,2776,OpenPlay,2017,LeftFoot,6539,FC Rostov,Arsenal Tula,2,2,2017-09-09 14:30:00,Pavel Mogilevets,Pass
+156608,38,MissedShots,0.7809999847412109,0.5870000076293945,0.029700815677642822,Igor Kireev,h,2783,OpenPlay,2017,RightFoot,6539,FC Rostov,Arsenal Tula,2,2,2017-09-09 14:30:00,Artur Yusupov,Pass
+156610,42,MissedShots,0.860999984741211,0.615,0.06672530621290207,Igor Kireev,h,2783,OpenPlay,2017,RightFoot,6539,FC Rostov,Arsenal Tula,2,2,2017-09-09 14:30:00,,Tackle
+156612,55,MissedShots,0.7819999694824219,0.6880000305175781,0.017673222348093987,Igor Kireev,h,2783,OpenPlay,2017,RightFoot,6539,FC Rostov,Arsenal Tula,2,2,2017-09-09 14:30:00,Aleksey Ionov,Pass
+156614,67,MissedShots,0.955,0.385,0.08581144362688065,Aleksandr Bukharov,h,2778,OpenPlay,2017,LeftFoot,6539,FC Rostov,Arsenal Tula,2,2,2017-09-09 14:30:00,Timofei Kalachev,Chipped
+156616,71,BlockedShot,0.9280000305175782,0.6509999847412109,0.058021560311317444,Pavel Mogilevets,h,2773,OpenPlay,2017,RightFoot,6539,FC Rostov,Arsenal Tula,2,2,2017-09-09 14:30:00,,None
+156617,73,MissedShots,0.8090000152587891,0.6869999694824219,0.029521869495511055,Khoren Bayramyan,h,3162,OpenPlay,2017,RightFoot,6539,FC Rostov,Arsenal Tula,2,2,2017-09-09 14:30:00,,TakeOn
+156620,84,Goal,0.885,0.5,0.7542753219604492,Timofei Kalachev,h,2776,Penalty,2017,RightFoot,6539,FC Rostov,Arsenal Tula,2,2,2017-09-09 14:30:00,,Standard
+156621,87,MissedShots,0.7819999694824219,0.3579999923706055,0.0233727116137743,Aleksandr Zuev,h,2826,OpenPlay,2017,RightFoot,6539,FC Rostov,Arsenal Tula,2,2,2017-09-09 14:30:00,,None
+156603,14,MissedShots,0.7830000305175782,0.34,0.20345810055732727,Ilya Maksimov,a,2945,OpenPlay,2017,RightFoot,6539,FC Rostov,Arsenal Tula,2,2,2017-09-09 14:30:00,,Interception
+156604,31,Goal,0.95,0.5120000076293946,0.5681362152099609,Luka Djordjevic,a,3813,OpenPlay,2017,RightFoot,6539,FC Rostov,Arsenal Tula,2,2,2017-09-09 14:30:00,Víctor Álvarez,Pass
+156606,38,SavedShot,0.865,0.655,0.021870438009500504,Maksim Belyaev,a,4631,SetPiece,2017,Head,6539,FC Rostov,Arsenal Tula,2,2,2017-09-09 14:30:00,Goran Causic,Chipped
+156609,40,MissedShots,0.874000015258789,0.6609999847412109,0.007622267119586468,Igor Shevchenko,a,4552,OpenPlay,2017,Head,6539,FC Rostov,Arsenal Tula,2,2,2017-09-09 14:30:00,Alexandru Bourceanu,Cross
+156611,52,SavedShot,0.89,0.6930000305175781,0.0462099090218544,Ilya Maksimov,a,2945,OpenPlay,2017,LeftFoot,6539,FC Rostov,Arsenal Tula,2,2,2017-09-09 14:30:00,,None
+156613,62,MissedShots,0.765,0.3659999847412109,0.017762811854481697,Mihail Aleksandrov,a,5370,OpenPlay,2017,RightFoot,6539,FC Rostov,Arsenal Tula,2,2,2017-09-09 14:30:00,Ilya Maksimov,Pass
+156615,69,Goal,0.9319999694824219,0.545,0.13685984909534454,Luka Djordjevic,a,3813,OpenPlay,2017,Head,6539,FC Rostov,Arsenal Tula,2,2,2017-09-09 14:30:00,Víctor Álvarez,Cross
+156618,75,BlockedShot,0.884000015258789,0.525,0.11863597482442856,Luka Djordjevic,a,3813,OpenPlay,2017,LeftFoot,6539,FC Rostov,Arsenal Tula,2,2,2017-09-09 14:30:00,,None
+156619,75,MissedShots,0.7269999694824218,0.765,0.010457702912390232,Víctor Álvarez,a,2111,OpenPlay,2017,LeftFoot,6539,FC Rostov,Arsenal Tula,2,2,2017-09-09 14:30:00,Igor Gorbatenko,Pass

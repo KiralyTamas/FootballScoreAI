@@ -1,0 +1,29 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+388713,10,MissedShots,0.710999984741211,0.6179999923706054,0.04035935550928116,Gonzalo Castro,h,316,DirectFreekick,2020,RightFoot,15220,VfB Stuttgart,Bayern Munich,1,3,2020-11-28 14:30:00,,Standard
+388715,19,Goal,0.8859999847412109,0.5259999847412109,0.37178564071655273,Tanguy Coulibaly,h,8813,OpenPlay,2020,LeftFoot,15220,VfB Stuttgart,Bayern Munich,1,3,2020-11-28 14:30:00,Silas Wamangituka,Pass
+388718,29,MissedShots,0.81,0.5309999847412109,0.037076517939567566,Orel Mangala,h,6088,FromCorner,2020,LeftFoot,15220,VfB Stuttgart,Bayern Munich,1,3,2020-11-28 14:30:00,,None
+388720,34,MissedShots,0.874000015258789,0.5570000076293945,0.11885382980108261,Philipp Förster,h,9076,OpenPlay,2020,LeftFoot,15220,VfB Stuttgart,Bayern Munich,1,3,2020-11-28 14:30:00,Borna Sosa,Pass
+388721,35,SavedShot,0.93,0.3609999847412109,0.3706856369972229,Philipp Förster,h,9076,OpenPlay,2020,LeftFoot,15220,VfB Stuttgart,Bayern Munich,1,3,2020-11-28 14:30:00,Silas Wamangituka,BallRecovery
+388722,35,MissedShots,0.9380000305175781,0.28299999237060547,0.06314749270677567,Silas Wamangituka,h,8807,OpenPlay,2020,RightFoot,15220,VfB Stuttgart,Bayern Munich,1,3,2020-11-28 14:30:00,Gonzalo Castro,None
+388727,48,MissedShots,0.8909999847412109,0.40299999237060546,0.03781886398792267,Silas Wamangituka,h,8807,OpenPlay,2020,RightFoot,15220,VfB Stuttgart,Bayern Munich,1,3,2020-11-28 14:30:00,,Aerial
+388729,59,SavedShot,0.7080000305175781,0.4520000076293945,0.01554973516613245,Wataru Endo,h,8808,OpenPlay,2020,RightFoot,15220,VfB Stuttgart,Bayern Munich,1,3,2020-11-28 14:30:00,Mateo Klimowicz,Pass
+388731,71,BlockedShot,0.884000015258789,0.3940000152587891,0.08134644478559494,Orel Mangala,h,6088,OpenPlay,2020,RightFoot,15220,VfB Stuttgart,Bayern Munich,1,3,2020-11-28 14:30:00,Silas Wamangituka,Pass
+388732,75,MissedShots,0.785,0.6769999694824219,0.02454148419201374,Borna Sosa,h,7075,OpenPlay,2020,RightFoot,15220,VfB Stuttgart,Bayern Munich,1,3,2020-11-28 14:30:00,Silas Wamangituka,Pass
+388733,84,MissedShots,0.875,0.26799999237060546,0.03514685854315758,Waldemar Anton,h,106,OpenPlay,2020,RightFoot,15220,VfB Stuttgart,Bayern Munich,1,3,2020-11-28 14:30:00,Silas Wamangituka,Pass
+388734,85,BlockedShot,0.8480000305175781,0.605,0.06388448923826218,Mateo Klimowicz,h,8809,OpenPlay,2020,LeftFoot,15220,VfB Stuttgart,Bayern Munich,1,3,2020-11-28 14:30:00,Silas Wamangituka,Pass
+388735,85,SavedShot,0.855,0.3370000076293945,0.045448075979948044,Sasa Kalajdzic,h,8812,OpenPlay,2020,RightFoot,15220,VfB Stuttgart,Bayern Munich,1,3,2020-11-28 14:30:00,Waldemar Anton,OffsidePass
+388737,89,MissedShots,0.8130000305175781,0.38799999237060545,0.0453513003885746,Wataru Endo,h,8808,OpenPlay,2020,RightFoot,15220,VfB Stuttgart,Bayern Munich,1,3,2020-11-28 14:30:00,Mateo Klimowicz,Pass
+388738,90,BlockedShot,0.8380000305175781,0.7019999694824218,0.03566339239478111,Silas Wamangituka,h,8807,OpenPlay,2020,RightFoot,15220,VfB Stuttgart,Bayern Munich,1,3,2020-11-28 14:30:00,Roberto Massimo,Pass
+388711,2,ShotOnPost,0.9269999694824219,0.5520000076293945,0.3748619556427002,Robert Lewandowski,a,227,OpenPlay,2020,Head,15220,VfB Stuttgart,Bayern Munich,1,3,2020-11-28 14:30:00,Kingsley Coman,Cross
+388712,5,MissedShots,0.895,0.4829999923706055,0.05043645203113556,Leon Goretzka,a,335,OpenPlay,2020,Head,15220,VfB Stuttgart,Bayern Munich,1,3,2020-11-28 14:30:00,,None
+388714,15,MissedShots,0.7659999847412109,0.43099998474121093,0.023797720670700073,Benjamin Pavard,a,3363,OpenPlay,2020,RightFoot,15220,VfB Stuttgart,Bayern Munich,1,3,2020-11-28 14:30:00,,None
+388716,23,SavedShot,0.805,0.29700000762939455,0.02207477018237114,Benjamin Pavard,a,3363,OpenPlay,2020,RightFoot,15220,VfB Stuttgart,Bayern Munich,1,3,2020-11-28 14:30:00,Kingsley Coman,Pass
+388717,25,MissedShots,0.7280000305175781,0.28600000381469726,0.011083444580435753,Benjamin Pavard,a,3363,OpenPlay,2020,RightFoot,15220,VfB Stuttgart,Bayern Munich,1,3,2020-11-28 14:30:00,,None
+388719,33,SavedShot,0.9109999847412109,0.26299999237060545,0.027407212182879448,Serge Gnabry,a,993,OpenPlay,2020,RightFoot,15220,VfB Stuttgart,Bayern Munich,1,3,2020-11-28 14:30:00,Kingsley Coman,Cross
+388723,37,Goal,0.8490000152587891,0.6379999923706055,0.05265319347381592,Kingsley Coman,a,226,OpenPlay,2020,RightFoot,15220,VfB Stuttgart,Bayern Munich,1,3,2020-11-28 14:30:00,Thomas Müller,Pass
+388724,42,SavedShot,0.8640000152587891,0.32299999237060545,0.04473495855927467,Serge Gnabry,a,993,OpenPlay,2020,RightFoot,15220,VfB Stuttgart,Bayern Munich,1,3,2020-11-28 14:30:00,Thomas Müller,Pass
+388725,42,BlockedShot,0.855999984741211,0.38,0.0754782035946846,Kingsley Coman,a,226,OpenPlay,2020,LeftFoot,15220,VfB Stuttgart,Bayern Munich,1,3,2020-11-28 14:30:00,Corentin Tolisso,Pass
+388726,45,Goal,0.7680000305175781,0.45799999237060546,0.028595156967639923,Robert Lewandowski,a,227,OpenPlay,2020,RightFoot,15220,VfB Stuttgart,Bayern Munich,1,3,2020-11-28 14:30:00,Kingsley Coman,Pass
+388728,54,MissedShots,0.7630000305175781,0.6469999694824219,0.04239414259791374,Kingsley Coman,a,226,OpenPlay,2020,RightFoot,15220,VfB Stuttgart,Bayern Munich,1,3,2020-11-28 14:30:00,Thomas Müller,TakeOn
+388730,69,MissedShots,0.825,0.345,0.047620438039302826,Leroy Sané,a,337,OpenPlay,2020,LeftFoot,15220,VfB Stuttgart,Bayern Munich,1,3,2020-11-28 14:30:00,Leon Goretzka,Pass
+388736,86,Goal,0.8530000305175781,0.3870000076293945,0.08789725601673126,Douglas Costa,a,393,OpenPlay,2020,LeftFoot,15220,VfB Stuttgart,Bayern Munich,1,3,2020-11-28 14:30:00,Leroy Sané,TakeOn

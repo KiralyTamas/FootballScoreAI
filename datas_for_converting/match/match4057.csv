@@ -1,0 +1,24 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+142906,0,OwnGoal,0.01399999976158142,0.43900001525878907,0,Diego Alves,h,2373,OpenPlay,2016,LeftFoot,4057,Valencia,Real Sociedad,2,3,2017-04-26 19:30:00,,None
+142907,2,MissedShots,0.795,0.32799999237060545,0.026811303570866585,Nani,h,4536,OpenPlay,2016,LeftFoot,4057,Valencia,Real Sociedad,2,3,2017-04-26 19:30:00,Munir,Pass
+142908,4,MissedShots,0.9269999694824219,0.765,0.029121438041329384,Simone Zaza,h,1642,OpenPlay,2016,LeftFoot,4057,Valencia,Real Sociedad,2,3,2017-04-26 19:30:00,Carlos Soler,Chipped
+142910,21,BlockedShot,0.805,0.6719999694824219,0.026879265904426575,Fabián Orellana,h,2285,OpenPlay,2016,RightFoot,4057,Valencia,Real Sociedad,2,3,2017-04-26 19:30:00,Nani,BallTouch
+142912,25,MissedShots,0.7619999694824219,0.505,0.024470863863825798,Enzo Pérez,h,2376,OpenPlay,2016,RightFoot,4057,Valencia,Real Sociedad,2,3,2017-04-26 19:30:00,,BallRecovery
+142917,50,MissedShots,0.6980000305175781,0.48200000762939454,0.042387235909700394,Nani,h,4536,DirectFreekick,2016,RightFoot,4057,Valencia,Real Sociedad,2,3,2017-04-26 19:30:00,,Standard
+142919,57,BlockedShot,0.7190000152587891,0.68,0.009111594408750534,Carlos Soler,h,2478,OpenPlay,2016,RightFoot,4057,Valencia,Real Sociedad,2,3,2017-04-26 19:30:00,Nani,Pass
+142920,63,SavedShot,0.825999984741211,0.5179999923706055,0.057679422199726105,Ezequiel Garay,h,3056,SetPiece,2016,RightFoot,4057,Valencia,Real Sociedad,2,3,2017-04-26 19:30:00,Simone Zaza,BallTouch
+142922,67,Goal,0.885,0.5,0.7432776093482971,Nani,h,4536,Penalty,2016,RightFoot,4057,Valencia,Real Sociedad,2,3,2017-04-26 19:30:00,,Standard
+142923,71,Goal,0.9690000152587891,0.5459999847412109,0.549826443195343,Simone Zaza,h,1642,OpenPlay,2016,LeftFoot,4057,Valencia,Real Sociedad,2,3,2017-04-26 19:30:00,João Cancelo,Cross
+142924,74,MissedShots,0.9480000305175781,0.46299999237060546,0.4824913442134857,Simone Zaza,h,1642,SetPiece,2016,Head,4057,Valencia,Real Sociedad,2,3,2017-04-26 19:30:00,Fabián Orellana,Cross
+142925,77,BlockedShot,0.8209999847412109,0.5570000076293945,0.16432736814022064,Fabián Orellana,h,2285,DirectFreekick,2016,RightFoot,4057,Valencia,Real Sociedad,2,3,2017-04-26 19:30:00,,Standard
+142926,77,BlockedShot,0.7809999847412109,0.37900001525878907,0.018533550202846527,Martín Montoya,h,1950,SetPiece,2016,RightFoot,4057,Valencia,Real Sociedad,2,3,2017-04-26 19:30:00,,Rebound
+142927,89,BlockedShot,0.909000015258789,0.4779999923706055,0.12138471752405167,Martín Montoya,h,1950,SetPiece,2016,Head,4057,Valencia,Real Sociedad,2,3,2017-04-26 19:30:00,Fabián Orellana,Cross
+142928,90,BlockedShot,0.835999984741211,0.34,0.033461909741163254,Ezequiel Garay,h,3056,SetPiece,2016,RightFoot,4057,Valencia,Real Sociedad,2,3,2017-04-26 19:30:00,,None
+142909,16,MissedShots,0.889000015258789,0.46,0.05034056305885315,Iñigo Martínez,a,2484,FromCorner,2016,Head,4057,Valencia,Real Sociedad,2,3,2017-04-26 19:30:00,Sergio Canales,Cross
+142911,23,MissedShots,0.8830000305175781,0.305,0.067863330245018,Sergio Canales,a,2571,OpenPlay,2016,LeftFoot,4057,Valencia,Real Sociedad,2,3,2017-04-26 19:30:00,Xabi Prieto,Pass
+142913,29,Goal,0.885,0.5,0.7432776093482971,Willian José,a,2361,Penalty,2016,RightFoot,4057,Valencia,Real Sociedad,2,3,2017-04-26 19:30:00,,Standard
+142914,31,BlockedShot,0.8090000152587891,0.28100000381469725,0.056881777942180634,Sergio Canales,a,2571,OpenPlay,2016,LeftFoot,4057,Valencia,Real Sociedad,2,3,2017-04-26 19:30:00,Iñigo Martínez,Chipped
+142915,39,MissedShots,0.9359999847412109,0.524000015258789,0.1341886967420578,Juanmi,a,897,FromCorner,2016,Head,4057,Valencia,Real Sociedad,2,3,2017-04-26 19:30:00,Álvaro Odriozola,Cross
+142916,45,MissedShots,0.9119999694824219,0.5420000076293945,0.11465353518724442,Willian José,a,2361,SetPiece,2016,Head,4057,Valencia,Real Sociedad,2,3,2017-04-26 19:30:00,Sergio Canales,Cross
+142918,55,MissedShots,0.7919999694824219,0.6,0.042143918573856354,Juanmi,a,897,OpenPlay,2016,RightFoot,4057,Valencia,Real Sociedad,2,3,2017-04-26 19:30:00,Mikel Oyarzabal,Pass
+142921,64,Goal,0.8859999847412109,0.4759999847412109,0.4787232577800751,Mikel Oyarzabal,a,2234,OpenPlay,2016,RightFoot,4057,Valencia,Real Sociedad,2,3,2017-04-26 19:30:00,Álvaro Odriozola,Pass

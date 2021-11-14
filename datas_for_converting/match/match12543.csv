@@ -1,0 +1,33 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+337960,6,MissedShots,0.7809999847412109,0.3120000076293945,0.011504190042614937,Nuri Sahin,h,2642,OpenPlay,2019,LeftFoot,12543,Werder Bremen,Mainz 05,0,5,2019-12-17 17:30:00,,Aerial
+337961,7,SavedShot,0.95,0.605,0.1002667099237442,Yuya Osako,h,135,OpenPlay,2019,RightFoot,12543,Werder Bremen,Mainz 05,0,5,2019-12-17 17:30:00,,BallRecovery
+337964,14,OwnGoal,0.01100000023841858,0.44599998474121094,0,Jiri Pavlenka,h,6082,OpenPlay,2019,OtherBodyPart,12543,Werder Bremen,Mainz 05,0,5,2019-12-17 17:30:00,,Clearance
+337965,16,BlockedShot,0.769000015258789,0.6669999694824219,0.01983417570590973,Milot Rashica,h,6523,OpenPlay,2019,RightFoot,12543,Werder Bremen,Mainz 05,0,5,2019-12-17 17:30:00,Davy Klaassen,Pass
+337969,26,MissedShots,0.765,0.5620000076293945,0.014783183112740517,Niklas Moisander,h,1936,FromCorner,2019,LeftFoot,12543,Werder Bremen,Mainz 05,0,5,2019-12-17 17:30:00,,Aerial
+337975,39,MissedShots,0.9359999847412109,0.39,0.048113249242305756,Leonardo Bittencourt,h,262,OpenPlay,2019,Head,12543,Werder Bremen,Mainz 05,0,5,2019-12-17 17:30:00,Milot Rashica,Cross
+337976,41,ShotOnPost,0.7469999694824219,0.3940000152587891,0.017656130716204643,Leonardo Bittencourt,h,262,OpenPlay,2019,RightFoot,12543,Werder Bremen,Mainz 05,0,5,2019-12-17 17:30:00,Milot Rashica,Pass
+337977,42,BlockedShot,0.8809999847412109,0.43599998474121093,0.028419043868780136,Leonardo Bittencourt,h,262,FromCorner,2019,Head,12543,Werder Bremen,Mainz 05,0,5,2019-12-17 17:30:00,Ludwig Augustinsson,Cross
+337980,47,SavedShot,0.759000015258789,0.47,0.022142209112644196,Johannes Eggestein,h,6084,OpenPlay,2019,RightFoot,12543,Werder Bremen,Mainz 05,0,5,2019-12-17 17:30:00,Leonardo Bittencourt,BallTouch
+337982,61,BlockedShot,0.8880000305175781,0.43400001525878906,0.03917694091796875,Leonardo Bittencourt,h,262,OpenPlay,2019,Head,12543,Werder Bremen,Mainz 05,0,5,2019-12-17 17:30:00,Ludwig Augustinsson,Aerial
+337983,62,SavedShot,0.8919999694824219,0.5429999923706055,0.016799885779619217,Leonardo Bittencourt,h,262,FromCorner,2019,Head,12543,Werder Bremen,Mainz 05,0,5,2019-12-17 17:30:00,Ludwig Augustinsson,Aerial
+337984,63,BlockedShot,0.850999984741211,0.47299999237060547,0.047167956829071045,Yuya Osako,h,135,OpenPlay,2019,LeftFoot,12543,Werder Bremen,Mainz 05,0,5,2019-12-17 17:30:00,Ludwig Augustinsson,Cross
+337988,82,SavedShot,0.9230000305175782,0.6580000305175782,0.07865382730960846,Fin Bartels,h,115,OpenPlay,2019,LeftFoot,12543,Werder Bremen,Mainz 05,0,5,2019-12-17 17:30:00,Milot Rashica,Pass
+337989,84,SavedShot,0.7730000305175782,0.415,0.028085339814424515,Fin Bartels,h,115,OpenPlay,2019,RightFoot,12543,Werder Bremen,Mainz 05,0,5,2019-12-17 17:30:00,Claudio Pizarro,Pass
+337990,88,MissedShots,0.8690000152587891,0.39799999237060546,0.016286663711071014,Fin Bartels,h,115,OpenPlay,2019,Head,12543,Werder Bremen,Mainz 05,0,5,2019-12-17 17:30:00,Leonardo Bittencourt,Cross
+337962,8,SavedShot,0.8530000305175781,0.5690000152587891,0.09453117102384567,Ádám Szalai,a,360,OpenPlay,2019,LeftFoot,12543,Werder Bremen,Mainz 05,0,5,2019-12-17 17:30:00,Jean-Paul Boëtius,Pass
+337963,9,Goal,0.855,0.40400001525878904,0.07663954794406891,Robin Quaison,a,1275,OpenPlay,2019,RightFoot,12543,Werder Bremen,Mainz 05,0,5,2019-12-17 17:30:00,Levin Öztunali,Pass
+337966,18,Goal,0.8769999694824219,0.45799999237060546,0.4984634220600128,Robin Quaison,a,1275,OpenPlay,2019,RightFoot,12543,Werder Bremen,Mainz 05,0,5,2019-12-17 17:30:00,Jean-Paul Boëtius,Throughball
+337967,22,BlockedShot,0.7619999694824219,0.46599998474121096,0.032247260212898254,Robin Quaison,a,1275,OpenPlay,2019,RightFoot,12543,Werder Bremen,Mainz 05,0,5,2019-12-17 17:30:00,Ádám Szalai,Pass
+337968,23,MissedShots,0.935,0.445,0.05907326191663742,Alexander Hack,a,52,FromCorner,2019,Head,12543,Werder Bremen,Mainz 05,0,5,2019-12-17 17:30:00,Moussa Niakhate,HeadPass
+337970,28,BlockedShot,0.774000015258789,0.3320000076293945,0.04636645317077637,Levin Öztunali,a,118,OpenPlay,2019,LeftFoot,12543,Werder Bremen,Mainz 05,0,5,2019-12-17 17:30:00,Bote Baku,Chipped
+337971,29,SavedShot,0.87,0.43599998474121093,0.12753140926361084,Ádám Szalai,a,360,OpenPlay,2019,LeftFoot,12543,Werder Bremen,Mainz 05,0,5,2019-12-17 17:30:00,Daniel Brosinski,Pass
+337972,37,BlockedShot,0.7859999847412109,0.555,0.05399189889431,Robin Quaison,a,1275,OpenPlay,2019,RightFoot,12543,Werder Bremen,Mainz 05,0,5,2019-12-17 17:30:00,Daniel Brosinski,Pass
+337973,37,MissedShots,0.9530000305175781,0.5979999923706054,0.0345287099480629,Ádám Szalai,a,360,FromCorner,2019,Head,12543,Werder Bremen,Mainz 05,0,5,2019-12-17 17:30:00,Aarón Martín,Aerial
+337974,37,Goal,0.9719999694824218,0.4329999923706055,0.5506118535995483,Robin Quaison,a,1275,FromCorner,2019,RightFoot,12543,Werder Bremen,Mainz 05,0,5,2019-12-17 17:30:00,Ádám Szalai,None
+337978,43,BlockedShot,0.9169999694824219,0.34,0.10201893001794815,Ádám Szalai,a,360,OpenPlay,2019,RightFoot,12543,Werder Bremen,Mainz 05,0,5,2019-12-17 17:30:00,Levin Öztunali,Pass
+337979,46,MissedShots,0.7369999694824219,0.509000015258789,0.059761129319667816,Daniel Brosinski,a,38,DirectFreekick,2019,RightFoot,12543,Werder Bremen,Mainz 05,0,5,2019-12-17 17:30:00,,Standard
+337981,58,SavedShot,0.845,0.7119999694824218,0.06969811022281647,Levin Öztunali,a,118,OpenPlay,2019,LeftFoot,12543,Werder Bremen,Mainz 05,0,5,2019-12-17 17:30:00,Pierre Kunde,TakeOn
+337985,65,BlockedShot,0.7859999847412109,0.48700000762939455,0.05906042456626892,Bote Baku,a,6708,OpenPlay,2019,RightFoot,12543,Werder Bremen,Mainz 05,0,5,2019-12-17 17:30:00,Levin Öztunali,TakeOn
+337986,76,MissedShots,0.9269999694824219,0.5459999847412109,0.0982108786702156,Pierre Kunde,a,7073,FromCorner,2019,RightFoot,12543,Werder Bremen,Mainz 05,0,5,2019-12-17 17:30:00,Aarón Martín,Cross
+337987,80,Goal,0.860999984741211,0.62,0.13403058052062988,Jean-Philippe Mateta,a,5735,OpenPlay,2019,LeftFoot,12543,Werder Bremen,Mainz 05,0,5,2019-12-17 17:30:00,Jean-Paul Boëtius,Throughball
+337991,91,SavedShot,0.8219999694824218,0.62,0.08576572686433792,Jean-Philippe Mateta,a,5735,OpenPlay,2019,RightFoot,12543,Werder Bremen,Mainz 05,0,5,2019-12-17 17:30:00,Jean-Paul Boëtius,Chipped

@@ -1,0 +1,32 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+256943,30,BlockedShot,0.7380000305175781,0.4809999847412109,0.020647933706641197,Hanno Behrens,h,7035,OpenPlay,2018,RightFoot,10453,Nuernberg,Bayer Leverkusen,1,1,2018-12-03 19:30:00,Yuya Kubo,Pass
+256944,30,BlockedShot,0.7769999694824219,0.7880000305175782,0.016048790886998177,Virgil Misidjan,h,7154,OpenPlay,2018,RightFoot,10453,Nuernberg,Bayer Leverkusen,1,1,2018-12-03 19:30:00,Tim Leibold,Pass
+256945,30,MissedShots,0.7290000152587891,0.5359999847412109,0.017586246132850647,Yuya Kubo,h,7039,OpenPlay,2018,LeftFoot,10453,Nuernberg,Bayer Leverkusen,1,1,2018-12-03 19:30:00,,Rebound
+256946,37,SavedShot,0.8090000152587891,0.524000015258789,0.041595038026571274,Yuya Kubo,h,7039,SetPiece,2018,RightFoot,10453,Nuernberg,Bayer Leverkusen,1,1,2018-12-03 19:30:00,,None
+256947,42,MissedShots,0.7709999847412109,0.6880000305175781,0.020256895571947098,Sebastian Kerk,h,4346,OpenPlay,2018,LeftFoot,10453,Nuernberg,Bayer Leverkusen,1,1,2018-12-03 19:30:00,Tim Leibold,Pass
+256948,45,MissedShots,0.9230000305175782,0.4490000152587891,0.09402699768543243,Georg Margreitter,h,7031,SetPiece,2018,OtherBodyPart,10453,Nuernberg,Bayer Leverkusen,1,1,2018-12-03 19:30:00,Sebastian Kerk,Cross
+256952,52,SavedShot,0.92,0.49599998474121093,0.06481318920850754,Georg Margreitter,h,7031,SetPiece,2018,Head,10453,Nuernberg,Bayer Leverkusen,1,1,2018-12-03 19:30:00,,Aerial
+256953,55,BlockedShot,0.93,0.48200000762939454,0.05555315315723419,Patrick Erras,h,7040,FromCorner,2018,Head,10453,Nuernberg,Bayer Leverkusen,1,1,2018-12-03 19:30:00,Sebastian Kerk,Goal
+256954,56,Goal,0.8580000305175781,0.4329999923706055,0.02721226215362549,Georg Margreitter,h,7031,FromCorner,2018,LeftFoot,10453,Nuernberg,Bayer Leverkusen,1,1,2018-12-03 19:30:00,,Aerial
+256962,80,BlockedShot,0.8109999847412109,0.46599998474121096,0.05125192552804947,Tim Leibold,h,7033,OpenPlay,2018,RightFoot,10453,Nuernberg,Bayer Leverkusen,1,1,2018-12-03 19:30:00,Mikael Ishak,Pass
+256967,87,SavedShot,0.960999984741211,0.345,0.26673731207847595,Adam Zrelák,h,7242,SetPiece,2018,RightFoot,10453,Nuernberg,Bayer Leverkusen,1,1,2018-12-03 19:30:00,Hanno Behrens,HeadPass
+256937,5,MissedShots,0.7580000305175781,0.415,0.019982071593403816,Karim Bellarabi,a,186,OpenPlay,2018,RightFoot,10453,Nuernberg,Bayer Leverkusen,1,1,2018-12-03 19:30:00,,None
+256938,8,SavedShot,0.9640000152587891,0.3039999961853027,0.10737141966819763,Karim Bellarabi,a,186,OpenPlay,2018,RightFoot,10453,Nuernberg,Bayer Leverkusen,1,1,2018-12-03 19:30:00,Julian Brandt,Throughball
+256939,9,ShotOnPost,0.915,0.6179999923706054,0.047219689935445786,Sven Bender,a,311,FromCorner,2018,LeftFoot,10453,Nuernberg,Bayer Leverkusen,1,1,2018-12-03 19:30:00,Julian Brandt,Cross
+256940,9,MissedShots,0.9780000305175781,0.42400001525878905,0.4878254234790802,Kevin Volland,a,83,FromCorner,2018,RightFoot,10453,Nuernberg,Bayer Leverkusen,1,1,2018-12-03 19:30:00,,Rebound
+256941,16,BlockedShot,0.7380000305175781,0.3129999923706055,0.01769132912158966,Karim Bellarabi,a,186,OpenPlay,2018,RightFoot,10453,Nuernberg,Bayer Leverkusen,1,1,2018-12-03 19:30:00,Julian Brandt,Pass
+256942,28,Goal,0.915,0.5870000076293945,0.09012379497289658,Kai Havertz,a,5220,OpenPlay,2018,LeftFoot,10453,Nuernberg,Bayer Leverkusen,1,1,2018-12-03 19:30:00,,None
+256949,46,BlockedShot,0.8969999694824219,0.4929999923706055,0.02113323286175728,Lars Bender,a,421,FromCorner,2018,Head,10453,Nuernberg,Bayer Leverkusen,1,1,2018-12-03 19:30:00,Julian Brandt,Aerial
+256950,48,MissedShots,0.955,0.3340000152587891,0.05359615013003349,Kevin Volland,a,83,OpenPlay,2018,RightFoot,10453,Nuernberg,Bayer Leverkusen,1,1,2018-12-03 19:30:00,Karim Bellarabi,Cross
+256951,49,SavedShot,0.8440000152587891,0.519000015258789,0.1251268982887268,Julian Brandt,a,261,OpenPlay,2018,RightFoot,10453,Nuernberg,Bayer Leverkusen,1,1,2018-12-03 19:30:00,Karim Bellarabi,Pass
+256955,62,MissedShots,0.9380000305175781,0.7180000305175781,0.04597065597772598,Julian Brandt,a,261,OpenPlay,2018,LeftFoot,10453,Nuernberg,Bayer Leverkusen,1,1,2018-12-03 19:30:00,,None
+256956,64,SavedShot,0.73,0.3609999847412109,0.015253902412950993,Dominik Kohr,a,269,OpenPlay,2018,RightFoot,10453,Nuernberg,Bayer Leverkusen,1,1,2018-12-03 19:30:00,Karim Bellarabi,Pass
+256957,65,SavedShot,0.795,0.6759999847412109,0.025863293558359146,Wendell,a,185,OpenPlay,2018,RightFoot,10453,Nuernberg,Bayer Leverkusen,1,1,2018-12-03 19:30:00,Leon Bailey,Pass
+256958,74,SavedShot,0.785,0.5840000152587891,0.023142453283071518,Kevin Volland,a,83,SetPiece,2018,LeftFoot,10453,Nuernberg,Bayer Leverkusen,1,1,2018-12-03 19:30:00,,None
+256959,74,MissedShots,0.6809999847412109,0.415,0.011819358915090561,Karim Bellarabi,a,186,FromCorner,2018,RightFoot,10453,Nuernberg,Bayer Leverkusen,1,1,2018-12-03 19:30:00,,None
+256960,78,BlockedShot,0.8340000152587891,0.5509999847412109,0.06543587148189545,Kai Havertz,a,5220,SetPiece,2018,RightFoot,10453,Nuernberg,Bayer Leverkusen,1,1,2018-12-03 19:30:00,Leon Bailey,Pass
+256961,79,BlockedShot,0.9330000305175781,0.5220000076293946,0.06348033249378204,Lars Bender,a,421,FromCorner,2018,Head,10453,Nuernberg,Bayer Leverkusen,1,1,2018-12-03 19:30:00,Leon Bailey,Aerial
+256963,82,BlockedShot,0.7340000152587891,0.36400001525878906,0.04832068085670471,Leon Bailey,a,5221,DirectFreekick,2018,LeftFoot,10453,Nuernberg,Bayer Leverkusen,1,1,2018-12-03 19:30:00,,Standard
+256964,83,MissedShots,0.6309999847412109,0.42200000762939455,0.0071222493425011635,Karim Bellarabi,a,186,SetPiece,2018,RightFoot,10453,Nuernberg,Bayer Leverkusen,1,1,2018-12-03 19:30:00,,None
+256965,83,MissedShots,0.8009999847412109,0.395,0.03873606026172638,Kai Havertz,a,5220,OpenPlay,2018,RightFoot,10453,Nuernberg,Bayer Leverkusen,1,1,2018-12-03 19:30:00,Leon Bailey,Pass
+256966,85,MissedShots,0.8619999694824219,0.47900001525878905,0.10083933919668198,Kevin Volland,a,83,OpenPlay,2018,LeftFoot,10453,Nuernberg,Bayer Leverkusen,1,1,2018-12-03 19:30:00,Lucas Alario,Pass

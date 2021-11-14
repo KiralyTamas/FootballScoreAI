@@ -1,0 +1,33 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+322839,13,MissedShots,0.8080000305175781,0.3060000038146973,0.07441975176334381,Lucas Digne,h,1823,DirectFreekick,2019,LeftFoot,11711,Everton,Manchester City,1,3,2019-09-28 16:30:00,,Standard
+322840,22,BlockedShot,0.8630000305175781,0.524000015258789,0.10399112105369568,Gylfi Sigurdsson,h,714,OpenPlay,2019,LeftFoot,11711,Everton,Manchester City,1,3,2019-09-28 16:30:00,Lucas Digne,Pass
+322842,24,SavedShot,0.784000015258789,0.580999984741211,0.03141313046216965,Gylfi Sigurdsson,h,714,OpenPlay,2019,RightFoot,11711,Everton,Manchester City,1,3,2019-09-28 16:30:00,Alex Iwobi,Pass
+322845,32,BlockedShot,0.9540000152587891,0.39,0.08072824776172638,Seamus Coleman,h,585,OpenPlay,2019,RightFoot,11711,Everton,Manchester City,1,3,2019-09-28 16:30:00,Alex Iwobi,BallRecovery
+322846,32,Goal,0.9930000305175781,0.509000015258789,0.7962033152580261,Dominic Calvert-Lewin,h,5555,OpenPlay,2019,Head,11711,Everton,Manchester City,1,3,2019-09-28 16:30:00,Seamus Coleman,TakeOn
+322849,38,SavedShot,0.9030000305175782,0.5570000076293945,0.02734208293259144,Richarlison,h,6026,SetPiece,2019,Head,11711,Everton,Manchester City,1,3,2019-09-28 16:30:00,Gylfi Sigurdsson,Aerial
+322855,50,MissedShots,0.8980000305175782,0.44299999237060544,0.07230187952518463,Richarlison,h,6026,SetPiece,2019,Head,11711,Everton,Manchester City,1,3,2019-09-28 16:30:00,Gylfi Sigurdsson,Cross
+322856,53,SavedShot,0.95,0.49900001525878906,0.5414450764656067,Yerry Mina,h,6521,SetPiece,2019,Head,11711,Everton,Manchester City,1,3,2019-09-28 16:30:00,Lucas Digne,Cross
+322862,75,SavedShot,0.9069999694824219,0.5820000076293945,0.4227568805217743,Dominic Calvert-Lewin,h,5555,OpenPlay,2019,RightFoot,11711,Everton,Manchester City,1,3,2019-09-28 16:30:00,Gylfi Sigurdsson,Throughball
+322863,78,SavedShot,0.9119999694824219,0.53,0.031303636729717255,Yerry Mina,h,6521,FromCorner,2019,Head,11711,Everton,Manchester City,1,3,2019-09-28 16:30:00,Gylfi Sigurdsson,Aerial
+322864,78,MissedShots,0.9819999694824219,0.575999984741211,0.13294033706188202,Dominic Calvert-Lewin,h,5555,FromCorner,2019,LeftFoot,11711,Everton,Manchester City,1,3,2019-09-28 16:30:00,,Rebound
+322865,82,SavedShot,0.9209999847412109,0.49,0.04785792902112007,Yerry Mina,h,6521,FromCorner,2019,Head,11711,Everton,Manchester City,1,3,2019-09-28 16:30:00,Gylfi Sigurdsson,Aerial
+322836,0,SavedShot,0.7559999847412109,0.3129999923706055,0.013975250534713268,Riyad Mahrez,a,750,OpenPlay,2019,LeftFoot,11711,Everton,Manchester City,1,3,2019-09-28 16:30:00,Nicolás Otamendi,TakeOn
+322837,11,ShotOnPost,0.97,0.5329999923706055,0.7683050632476807,Ilkay Gündogan,a,314,OpenPlay,2019,LeftFoot,11711,Everton,Manchester City,1,3,2019-09-28 16:30:00,Riyad Mahrez,Pass
+322838,11,SavedShot,0.980999984741211,0.35200000762939454,0.11884996294975281,Riyad Mahrez,a,750,OpenPlay,2019,RightFoot,11711,Everton,Manchester City,1,3,2019-09-28 16:30:00,Kevin De Bruyne,Throughball
+322841,23,Goal,0.960999984741211,0.5259999847412109,0.5766323804855347,Gabriel Jesus,a,5543,OpenPlay,2019,Head,11711,Everton,Manchester City,1,3,2019-09-28 16:30:00,Kevin De Bruyne,Chipped
+322843,28,SavedShot,0.914000015258789,0.31,0.1170450747013092,Riyad Mahrez,a,750,OpenPlay,2019,RightFoot,11711,Everton,Manchester City,1,3,2019-09-28 16:30:00,Raheem Sterling,Chipped
+322844,32,SavedShot,0.8159999847412109,0.545,0.06605932116508484,Riyad Mahrez,a,750,OpenPlay,2019,LeftFoot,11711,Everton,Manchester City,1,3,2019-09-28 16:30:00,Raheem Sterling,Pass
+322847,35,MissedShots,0.9209999847412109,0.42200000762939455,0.09339812397956848,Gabriel Jesus,a,5543,OpenPlay,2019,Head,11711,Everton,Manchester City,1,3,2019-09-28 16:30:00,Oleksandr Zinchenko,Cross
+322848,37,BlockedShot,0.7669999694824219,0.5890000152587891,0.0276291873306036,Kevin De Bruyne,a,447,OpenPlay,2019,RightFoot,11711,Everton,Manchester City,1,3,2019-09-28 16:30:00,Rodri,Pass
+322850,43,MissedShots,0.9030000305175782,0.69,0.06237158924341202,Gabriel Jesus,a,5543,OpenPlay,2019,LeftFoot,11711,Everton,Manchester City,1,3,2019-09-28 16:30:00,Riyad Mahrez,Pass
+322853,46,BlockedShot,0.8919999694824219,0.5820000076293945,0.11379850655794144,Ilkay Gündogan,a,314,OpenPlay,2019,RightFoot,11711,Everton,Manchester City,1,3,2019-09-28 16:30:00,Raheem Sterling,Pass
+322851,47,BlockedShot,0.935,0.555,0.0669671818614006,Gabriel Jesus,a,5543,OpenPlay,2019,Head,11711,Everton,Manchester City,1,3,2019-09-28 16:30:00,Raheem Sterling,Aerial
+322852,48,SavedShot,0.8180000305175781,0.4570000076293945,0.06638476997613907,Ilkay Gündogan,a,314,OpenPlay,2019,RightFoot,11711,Everton,Manchester City,1,3,2019-09-28 16:30:00,Rodri,Pass
+322854,48,MissedShots,0.955,0.34599998474121096,0.09866870194673538,Kevin De Bruyne,a,447,OpenPlay,2019,RightFoot,11711,Everton,Manchester City,1,3,2019-09-28 16:30:00,Riyad Mahrez,TakeOn
+322857,59,MissedShots,0.905,0.49700000762939456,0.4367481470108032,Raheem Sterling,a,618,OpenPlay,2019,RightFoot,11711,Everton,Manchester City,1,3,2019-09-28 16:30:00,Riyad Mahrez,Throughball
+322858,68,BlockedShot,0.8419999694824218,0.5159999847412109,0.06650042533874512,Raheem Sterling,a,618,OpenPlay,2019,RightFoot,11711,Everton,Manchester City,1,3,2019-09-28 16:30:00,,None
+322859,68,SavedShot,0.9180000305175782,0.519000015258789,0.11281706392765045,Raheem Sterling,a,618,OpenPlay,2019,RightFoot,11711,Everton,Manchester City,1,3,2019-09-28 16:30:00,Kyle Walker,Cross
+322860,70,Goal,0.784000015258789,0.33,0.06621593981981277,Riyad Mahrez,a,750,DirectFreekick,2019,LeftFoot,11711,Everton,Manchester City,1,3,2019-09-28 16:30:00,,Standard
+322861,73,MissedShots,0.755,0.545,0.04038470983505249,Sergio Agüero,a,619,OpenPlay,2019,RightFoot,11711,Everton,Manchester City,1,3,2019-09-28 16:30:00,Fernandinho,TakeOn
+322866,83,MissedShots,0.9690000152587891,0.3120000076293945,0.07120515406131744,Sergio Agüero,a,619,OpenPlay,2019,RightFoot,11711,Everton,Manchester City,1,3,2019-09-28 16:30:00,Riyad Mahrez,BallTouch
+322867,83,Goal,0.925,0.5570000076293945,0.12424661219120026,Raheem Sterling,a,618,OpenPlay,2019,LeftFoot,11711,Everton,Manchester City,1,3,2019-09-28 16:30:00,,None

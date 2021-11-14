@@ -1,0 +1,27 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+140393,0,Goal,0.89,0.4929999923706055,0.05788018926978111,David López,h,1857,FromCorner,2016,Head,3991,Espanyol,Las Palmas,4,3,2017-03-10 19:45:00,Jurado,Cross
+140398,29,SavedShot,0.925,0.3240000152587891,0.12963585555553436,Gerard Moreno,h,2120,OpenPlay,2016,LeftFoot,3991,Espanyol,Las Palmas,4,3,2017-03-10 19:45:00,Felipe Caicedo,Throughball
+140399,29,MissedShots,0.845,0.32599998474121095,0.05726034939289093,Pablo Piatti,h,2382,OpenPlay,2016,LeftFoot,3991,Espanyol,Las Palmas,4,3,2017-03-10 19:45:00,Gerard Moreno,Pass
+140402,39,MissedShots,0.765,0.41700000762939454,0.024458404630422592,David López,h,1857,OpenPlay,2016,RightFoot,3991,Espanyol,Las Palmas,4,3,2017-03-10 19:45:00,Pablo Piatti,Pass
+140403,45,Goal,0.8619999694824219,0.48900001525878906,0.10258045792579651,Gerard Moreno,h,2120,OpenPlay,2016,LeftFoot,3991,Espanyol,Las Palmas,4,3,2017-03-10 19:45:00,Pablo Piatti,Pass
+140404,46,BlockedShot,0.7069999694824218,0.595999984741211,0.018179433420300484,Marc Roca,h,5086,OpenPlay,2016,LeftFoot,3991,Espanyol,Las Palmas,4,3,2017-03-10 19:45:00,Felipe Caicedo,Pass
+140406,52,Goal,0.885,0.5,0.7432776093482971,Pablo Piatti,h,2382,Penalty,2016,LeftFoot,3991,Espanyol,Las Palmas,4,3,2017-03-10 19:45:00,,Standard
+140408,59,SavedShot,0.805,0.62,0.050341904163360596,Felipe Caicedo,h,2116,OpenPlay,2016,LeftFoot,3991,Espanyol,Las Palmas,4,3,2017-03-10 19:45:00,Aarón Martín,Pass
+140409,61,MissedShots,0.725,0.29700000762939455,0.01757964678108692,Gerard Moreno,h,2120,OpenPlay,2016,LeftFoot,3991,Espanyol,Las Palmas,4,3,2017-03-10 19:45:00,Javi López,Pass
+140410,69,MissedShots,0.895,0.46299999237060546,0.048018377274274826,Gerard Moreno,h,2120,OpenPlay,2016,Head,3991,Espanyol,Las Palmas,4,3,2017-03-10 19:45:00,Aarón Martín,Aerial
+140412,73,Goal,0.855,0.555,0.38884472846984863,Jurado,h,582,OpenPlay,2016,RightFoot,3991,Espanyol,Las Palmas,4,3,2017-03-10 19:45:00,Gerard Moreno,Throughball
+140414,80,MissedShots,0.89,0.45599998474121095,0.023433975875377655,Gerard Moreno,h,2120,OpenPlay,2016,Head,3991,Espanyol,Las Palmas,4,3,2017-03-10 19:45:00,Jurado,Aerial
+140394,11,BlockedShot,0.8530000305175781,0.435,0.07739674299955368,Vicente Gómez,a,2363,OpenPlay,2016,LeftFoot,3991,Espanyol,Las Palmas,4,3,2017-03-10 19:45:00,Alen Halilovic,Pass
+140395,17,MissedShots,0.8819999694824219,0.41200000762939454,0.09072258323431015,Kevin-Prince Boateng,a,1819,OpenPlay,2016,RightFoot,3991,Espanyol,Las Palmas,4,3,2017-03-10 19:45:00,David Simón,Pass
+140396,19,MissedShots,0.765,0.28700000762939454,0.01608528196811676,Alen Halilovic,a,2215,OpenPlay,2016,LeftFoot,3991,Espanyol,Las Palmas,4,3,2017-03-10 19:45:00,Vicente Gómez,TakeOn
+140397,25,SavedShot,0.855,0.6409999847412109,0.06061050668358803,Jonathan Viera,a,2358,OpenPlay,2016,LeftFoot,3991,Espanyol,Las Palmas,4,3,2017-03-10 19:45:00,Kevin-Prince Boateng,Pass
+140400,30,Goal,0.695,0.48,0.014590459875762463,Mauricio Lemos,a,2354,OpenPlay,2016,RightFoot,3991,Espanyol,Las Palmas,4,3,2017-03-10 19:45:00,Kevin-Prince Boateng,Pass
+140401,34,SavedShot,0.8080000305175781,0.3060000038146973,0.02738213539123535,Alen Halilovic,a,2215,OpenPlay,2016,LeftFoot,3991,Espanyol,Las Palmas,4,3,2017-03-10 19:45:00,Kevin-Prince Boateng,Pass
+140405,48,Goal,0.8880000305175781,0.46299999237060546,0.059341996908187866,Mauricio Lemos,a,2354,SetPiece,2016,Head,3991,Espanyol,Las Palmas,4,3,2017-03-10 19:45:00,Jonathan Viera,Chipped
+140407,55,BlockedShot,0.9059999847412109,0.5129999923706055,0.04410726949572563,Kevin-Prince Boateng,a,1819,OpenPlay,2016,Head,3991,Espanyol,Las Palmas,4,3,2017-03-10 19:45:00,Hélder Lopes,Aerial
+140411,71,MissedShots,0.9119999694824219,0.23700000762939452,0.028811145573854446,David Simón,a,2364,OpenPlay,2016,RightFoot,3991,Espanyol,Las Palmas,4,3,2017-03-10 19:45:00,Jesé,Pass
+140413,77,MissedShots,0.749000015258789,0.55,0.07079219818115234,Mauricio Lemos,a,2354,DirectFreekick,2016,RightFoot,3991,Espanyol,Las Palmas,4,3,2017-03-10 19:45:00,,Standard
+140415,83,BlockedShot,0.8930000305175781,0.43099998474121093,0.07001464813947678,Kevin-Prince Boateng,a,1819,OpenPlay,2016,RightFoot,3991,Espanyol,Las Palmas,4,3,2017-03-10 19:45:00,David Simón,HeadPass
+140416,83,Goal,0.9690000152587891,0.5420000076293945,0.5836684703826904,Mateo García,a,5055,OpenPlay,2016,LeftFoot,3991,Espanyol,Las Palmas,4,3,2017-03-10 19:45:00,Alen Halilovic,Chipped
+140417,89,BlockedShot,0.7919999694824219,0.48,0.030366361141204834,Hernán,a,2429,FromCorner,2016,RightFoot,3991,Espanyol,Las Palmas,4,3,2017-03-10 19:45:00,,None
+140418,89,MissedShots,0.8180000305175781,0.46599998474121096,0.03698373958468437,David García,a,2352,FromCorner,2016,RightFoot,3991,Espanyol,Las Palmas,4,3,2017-03-10 19:45:00,Mateo García,Cross

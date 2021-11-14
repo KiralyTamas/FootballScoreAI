@@ -1,0 +1,18 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+296085,23,BlockedShot,0.909000015258789,0.44299999237060544,0.0877695381641388,Samuel Chukwueze,h,7208,OpenPlay,2018,LeftFoot,10286,Villarreal,Leganes,2,1,2019-04-21 17:30:00,,None
+296086,24,BlockedShot,0.9030000305175782,0.5590000152587891,0.08834012597799301,Ramiro Funes Mori,h,597,FromCorner,2018,LeftFoot,10286,Villarreal,Leganes,2,1,2019-04-21 17:30:00,,None
+296087,32,BlockedShot,0.8619999694824219,0.355,0.022670326754450798,Pablo Fornals,h,2335,FromCorner,2018,RightFoot,10286,Villarreal,Leganes,2,1,2019-04-21 17:30:00,,Aerial
+296088,41,SavedShot,0.845999984741211,0.5709999847412109,0.25026318430900574,Karl Toko Ekambi,h,5657,OpenPlay,2018,RightFoot,10286,Villarreal,Leganes,2,1,2019-04-21 17:30:00,Samuel Chukwueze,Pass
+296090,55,MissedShots,0.7859999847412109,0.23299999237060548,0.01923145167529583,Samuel Chukwueze,h,7208,OpenPlay,2018,LeftFoot,10286,Villarreal,Leganes,2,1,2019-04-21 17:30:00,Pablo Fornals,Pass
+296091,63,SavedShot,0.9259999847412109,0.5309999847412109,0.13778485357761383,Karl Toko Ekambi,h,5657,OpenPlay,2018,Head,10286,Villarreal,Leganes,2,1,2019-04-21 17:30:00,Xavier Quintillá,Cross
+296092,63,Goal,0.9669999694824218,0.445,0.14855793118476868,Carlos Bacca,h,1125,OpenPlay,2018,RightFoot,10286,Villarreal,Leganes,2,1,2019-04-21 17:30:00,,Rebound
+296093,66,MissedShots,0.835,0.3029999923706055,0.04317805916070938,Samuel Chukwueze,h,7208,OpenPlay,2018,LeftFoot,10286,Villarreal,Leganes,2,1,2019-04-21 17:30:00,Carlos Bacca,Pass
+296094,67,BlockedShot,0.745,0.495,0.02962227165699005,Samuel Chukwueze,h,7208,OpenPlay,2018,LeftFoot,10286,Villarreal,Leganes,2,1,2019-04-21 17:30:00,Vicente Iborra,Pass
+296097,79,Goal,0.8780000305175781,0.674000015258789,0.07084649801254272,Karl Toko Ekambi,h,5657,OpenPlay,2018,RightFoot,10286,Villarreal,Leganes,2,1,2019-04-21 17:30:00,Santiago Cazorla,Pass
+296099,88,SavedShot,0.8230000305175781,0.48700000762939455,0.05047193169593811,Alfonso,h,2521,SetPiece,2018,RightFoot,10286,Villarreal,Leganes,2,1,2019-04-21 17:30:00,,None
+296083,5,MissedShots,0.87,0.46,0.0663541778922081,Guido Carrillo,a,3424,OpenPlay,2018,RightFoot,10286,Villarreal,Leganes,2,1,2019-04-21 17:30:00,Nyom,Cross
+296084,5,BlockedShot,0.86,0.4540000152587891,0.08338455110788345,Martin Braithwaite,a,3211,OpenPlay,2018,RightFoot,10286,Villarreal,Leganes,2,1,2019-04-21 17:30:00,Guido Carrillo,BallTouch
+296089,45,SavedShot,0.909000015258789,0.5459999847412109,0.05789972096681595,Kenneth Omeruo,a,7119,SetPiece,2018,Head,10286,Villarreal,Leganes,2,1,2019-04-21 17:30:00,Dimitrios Siovas,HeadPass
+296095,77,MissedShots,0.9130000305175782,0.47200000762939454,0.12132014334201813,Sabin,a,2499,SetPiece,2018,Head,10286,Villarreal,Leganes,2,1,2019-04-21 17:30:00,Gerard Gumbau,Cross
+296096,77,MissedShots,0.8859999847412109,0.485,0.026965519413352013,Martin Braithwaite,a,3211,SetPiece,2018,Head,10286,Villarreal,Leganes,2,1,2019-04-21 17:30:00,Kenneth Omeruo,Aerial
+296098,86,Goal,0.885,0.5,0.7432776093482971,Nabil El Zhar,a,2357,Penalty,2018,RightFoot,10286,Villarreal,Leganes,2,1,2019-04-21 17:30:00,,Standard

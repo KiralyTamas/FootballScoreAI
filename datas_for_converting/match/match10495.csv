@@ -1,0 +1,31 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+278449,12,BlockedShot,0.850999984741211,0.395,0.07450293749570847,Virgil Misidjan,h,7154,OpenPlay,2018,RightFoot,10495,Nuernberg,Hertha Berlin,1,3,2019-01-20 14:30:00,Tim Leibold,Pass
+278450,12,MissedShots,0.7909999847412109,0.710999984741211,0.0203402079641819,Eduard Löwen,h,7043,OpenPlay,2018,LeftFoot,10495,Nuernberg,Hertha Berlin,1,3,2019-01-20 14:30:00,,BallTouch
+278452,16,BlockedShot,0.815,0.549000015258789,0.046246495097875595,Ondrej Petrák,h,7034,OpenPlay,2018,LeftFoot,10495,Nuernberg,Hertha Berlin,1,3,2019-01-20 14:30:00,,None
+278454,40,BlockedShot,0.8780000305175781,0.705999984741211,0.043431609869003296,Hanno Behrens,h,7035,OpenPlay,2018,RightFoot,10495,Nuernberg,Hertha Berlin,1,3,2019-01-20 14:30:00,Tim Leibold,Pass
+278455,41,MissedShots,0.8909999847412109,0.6869999694824219,0.02996840327978134,Eduard Löwen,h,7043,FromCorner,2018,LeftFoot,10495,Nuernberg,Hertha Berlin,1,3,2019-01-20 14:30:00,Ewerton,HeadPass
+278456,41,Goal,0.965999984741211,0.48400001525878905,0.7210757732391357,Hanno Behrens,h,7035,FromCorner,2018,RightFoot,10495,Nuernberg,Hertha Berlin,1,3,2019-01-20 14:30:00,Eduard Löwen,Rebound
+278459,48,BlockedShot,0.8809999847412109,0.40400001525878904,0.04533323273062706,Mikael Ishak,h,7038,FromCorner,2018,RightFoot,10495,Nuernberg,Hertha Berlin,1,3,2019-01-20 14:30:00,Enrico Valentini,Cross
+278460,48,MissedShots,0.7140000152587891,0.43900001525878907,0.01636563055217266,Virgil Misidjan,h,7154,FromCorner,2018,RightFoot,10495,Nuernberg,Hertha Berlin,1,3,2019-01-20 14:30:00,,Rebound
+278462,52,SavedShot,0.7119999694824218,0.7319999694824219,0.03152325004339218,Eduard Löwen,h,7043,DirectFreekick,2018,RightFoot,10495,Nuernberg,Hertha Berlin,1,3,2019-01-20 14:30:00,,Standard
+278465,60,MissedShots,0.8930000305175781,0.49700000762939456,0.030556654557585716,Georg Margreitter,h,7031,SetPiece,2018,Head,10495,Nuernberg,Hertha Berlin,1,3,2019-01-20 14:30:00,Enrico Valentini,Aerial
+278469,72,BlockedShot,0.8009999847412109,0.40299999237060546,0.047822996973991394,Hanno Behrens,h,7035,OpenPlay,2018,RightFoot,10495,Nuernberg,Hertha Berlin,1,3,2019-01-20 14:30:00,Enrico Valentini,Pass
+278471,74,SavedShot,0.750999984741211,0.6519999694824219,0.012981376610696316,Virgil Misidjan,h,7154,OpenPlay,2018,RightFoot,10495,Nuernberg,Hertha Berlin,1,3,2019-01-20 14:30:00,Tim Leibold,Pass
+278472,77,BlockedShot,0.7719999694824219,0.784000015258789,0.007396833971142769,Tim Leibold,h,7033,OpenPlay,2018,LeftFoot,10495,Nuernberg,Hertha Berlin,1,3,2019-01-20 14:30:00,,None
+278473,77,MissedShots,0.8019999694824219,0.28899999618530275,0.01871032640337944,Virgil Misidjan,h,7154,OpenPlay,2018,RightFoot,10495,Nuernberg,Hertha Berlin,1,3,2019-01-20 14:30:00,Mikael Ishak,Pass
+278451,14,Goal,0.8390000152587891,0.52,0.3133235275745392,Vedad Ibisevic,a,29,OpenPlay,2018,RightFoot,10495,Nuernberg,Hertha Berlin,1,3,2019-01-20 14:30:00,Davie Selke,Pass
+278453,28,SavedShot,0.84,0.29200000762939454,0.04125611111521721,Ondrej Duda,a,5240,OpenPlay,2018,LeftFoot,10495,Nuernberg,Hertha Berlin,1,3,2019-01-20 14:30:00,Arne Maier,Pass
+278457,42,BlockedShot,0.705999984741211,0.48700000762939455,0.015144092962145805,Marko Grujic,a,1669,OpenPlay,2018,RightFoot,10495,Nuernberg,Hertha Berlin,1,3,2019-01-20 14:30:00,Arne Maier,Pass
+278458,44,MissedShots,0.8190000152587891,0.5459999847412109,0.05610208213329315,Marko Grujic,a,1669,OpenPlay,2018,LeftFoot,10495,Nuernberg,Hertha Berlin,1,3,2019-01-20 14:30:00,Vedad Ibisevic,Pass
+278461,49,Goal,0.8569999694824219,0.46299999237060546,0.11176758259534836,Ondrej Duda,a,5240,OpenPlay,2018,RightFoot,10495,Nuernberg,Hertha Berlin,1,3,2019-01-20 14:30:00,Vedad Ibisevic,LayOff
+278463,55,MissedShots,0.7169999694824218,0.24600000381469728,0.030784910544753075,Valentino Lazaro,a,6352,DirectFreekick,2018,RightFoot,10495,Nuernberg,Hertha Berlin,1,3,2019-01-20 14:30:00,,Standard
+278464,58,MissedShots,0.960999984741211,0.6459999847412109,0.081876240670681,Vedad Ibisevic,a,29,OpenPlay,2018,LeftFoot,10495,Nuernberg,Hertha Berlin,1,3,2019-01-20 14:30:00,Valentino Lazaro,Chipped
+278466,65,MissedShots,0.8959999847412109,0.44,0.015852633863687515,Niklas Stark,a,418,FromCorner,2018,Head,10495,Nuernberg,Hertha Berlin,1,3,2019-01-20 14:30:00,Marvin Plattenhardt,Aerial
+278467,66,SavedShot,0.8159999847412109,0.47200000762939454,0.0753621906042099,Ondrej Duda,a,5240,OpenPlay,2018,RightFoot,10495,Nuernberg,Hertha Berlin,1,3,2019-01-20 14:30:00,Arne Maier,Pass
+278468,69,Goal,0.88,0.41,0.36389923095703125,Ondrej Duda,a,5240,OpenPlay,2018,RightFoot,10495,Nuernberg,Hertha Berlin,1,3,2019-01-20 14:30:00,Davie Selke,Pass
+278470,72,SavedShot,0.8719999694824219,0.5570000076293945,0.1458349972963333,Arne Maier,a,5298,OpenPlay,2018,RightFoot,10495,Nuernberg,Hertha Berlin,1,3,2019-01-20 14:30:00,Marvin Plattenhardt,TakeOn
+278474,78,SavedShot,0.855999984741211,0.5059999847412109,0.36471399664878845,Vedad Ibisevic,a,29,OpenPlay,2018,RightFoot,10495,Nuernberg,Hertha Berlin,1,3,2019-01-20 14:30:00,Ondrej Duda,Pass
+278475,80,ShotOnPost,0.8680000305175781,0.5029999923706054,0.4469425678253174,Davie Selke,a,4280,OpenPlay,2018,RightFoot,10495,Nuernberg,Hertha Berlin,1,3,2019-01-20 14:30:00,Arne Maier,TakeOn
+278476,80,MissedShots,0.88,0.7240000152587891,0.0459013357758522,Marvin Plattenhardt,a,23,OpenPlay,2018,LeftFoot,10495,Nuernberg,Hertha Berlin,1,3,2019-01-20 14:30:00,Vladimir Darida,Pass
+278477,83,SavedShot,0.879000015258789,0.3120000076293945,0.10275494307279587,Davie Selke,a,4280,OpenPlay,2018,RightFoot,10495,Nuernberg,Hertha Berlin,1,3,2019-01-20 14:30:00,Vladimir Darida,Pass
+278478,83,BlockedShot,0.8159999847412109,0.5070000076293946,0.03701844438910484,Vladimir Darida,a,27,FromCorner,2018,LeftFoot,10495,Nuernberg,Hertha Berlin,1,3,2019-01-20 14:30:00,Niklas Stark,BallTouch

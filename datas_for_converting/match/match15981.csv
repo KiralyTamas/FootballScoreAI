@@ -1,0 +1,34 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+402711,4,SavedShot,0.905,0.580999984741211,0.35869231820106506,Pablo Sarabia,h,2199,OpenPlay,2020,LeftFoot,15981,Paris Saint Germain,Nimes,3,0,2021-02-03 20:00:00,Idrissa Gueye,BallRecovery
+402712,5,MissedShots,0.955,0.524000015258789,0.08494318276643753,Moise Kean,h,1304,FromCorner,2020,Head,15981,Paris Saint Germain,Nimes,3,0,2021-02-03 20:00:00,Ángel Di María,Aerial
+402713,6,BlockedShot,0.850999984741211,0.4809999847412109,0.07223396748304367,Kylian Mbappe-Lottin,h,3423,OpenPlay,2020,RightFoot,15981,Paris Saint Germain,Nimes,3,0,2021-02-03 20:00:00,,None
+402714,10,ShotOnPost,0.874000015258789,0.44599998474121094,0.018603183329105377,Moise Kean,h,1304,OpenPlay,2020,Head,15981,Paris Saint Germain,Nimes,3,0,2021-02-03 20:00:00,Colin Dagba,Aerial
+402715,11,MissedShots,0.9309999847412109,0.4,0.08369506150484085,Kylian Mbappe-Lottin,h,3423,SetPiece,2020,RightFoot,15981,Paris Saint Germain,Nimes,3,0,2021-02-03 20:00:00,Ángel Di María,Chipped
+402716,17,Goal,0.855,0.5420000076293945,0.3554507791996002,Ángel Di María,h,3553,OpenPlay,2020,LeftFoot,15981,Paris Saint Germain,Nimes,3,0,2021-02-03 20:00:00,,BallRecovery
+402717,21,SavedShot,0.7919999694824219,0.38,0.043093353509902954,Leandro Paredes,h,1248,OpenPlay,2020,RightFoot,15981,Paris Saint Germain,Nimes,3,0,2021-02-03 20:00:00,Ángel Di María,Pass
+402718,22,BlockedShot,0.884000015258789,0.46599998474121096,0.08466231822967529,Thilo Kehrer,h,2674,SetPiece,2020,RightFoot,15981,Paris Saint Germain,Nimes,3,0,2021-02-03 20:00:00,,CornerAwarded
+402719,22,ShotOnPost,0.955,0.5,0.12598803639411926,Thilo Kehrer,h,2674,FromCorner,2020,Head,15981,Paris Saint Germain,Nimes,3,0,2021-02-03 20:00:00,Presnel Kimpembe,HeadPass
+402721,33,MissedShots,0.89,0.16799999237060548,0.02552693895995617,Colin Dagba,h,6907,OpenPlay,2020,RightFoot,15981,Paris Saint Germain,Nimes,3,0,2021-02-03 20:00:00,Idrissa Gueye,Pass
+402722,35,Goal,0.9159999847412109,0.475,0.33587029576301575,Pablo Sarabia,h,2199,OpenPlay,2020,Head,15981,Paris Saint Germain,Nimes,3,0,2021-02-03 20:00:00,Ángel Di María,Cross
+402726,42,MissedShots,0.87,0.7630000305175781,0.048677992075681686,Ángel Di María,h,3553,OpenPlay,2020,LeftFoot,15981,Paris Saint Germain,Nimes,3,0,2021-02-03 20:00:00,Kylian Mbappe-Lottin,TakeOn
+402736,67,Goal,0.799000015258789,0.6790000152587891,0.041054900735616684,Kylian Mbappe-Lottin,h,3423,OpenPlay,2020,RightFoot,15981,Paris Saint Germain,Nimes,3,0,2021-02-03 20:00:00,Leandro Paredes,Pass
+402738,71,SavedShot,0.6890000152587891,0.6,0.013382853008806705,Leandro Paredes,h,1248,OpenPlay,2020,RightFoot,15981,Paris Saint Germain,Nimes,3,0,2021-02-03 20:00:00,Rafinha,Pass
+402720,31,MissedShots,0.799000015258789,0.625,0.012223413214087486,Birger Meling,a,8656,FromCorner,2020,LeftFoot,15981,Paris Saint Germain,Nimes,3,0,2021-02-03 20:00:00,Zinedine Ferhat,Chipped
+402723,36,BlockedShot,0.8669999694824219,0.735,0.02335999347269535,Birger Meling,a,8656,OpenPlay,2020,LeftFoot,15981,Paris Saint Germain,Nimes,3,0,2021-02-03 20:00:00,,None
+402724,38,SavedShot,0.9630000305175781,0.5059999847412109,0.5053644776344299,Lamine Fomba,a,7913,FromCorner,2020,Head,15981,Paris Saint Germain,Nimes,3,0,2021-02-03 20:00:00,,None
+402725,39,SavedShot,0.825999984741211,0.5429999923706055,0.044988639652729034,Adrián Cubas,a,4904,FromCorner,2020,RightFoot,15981,Paris Saint Germain,Nimes,3,0,2021-02-03 20:00:00,Lamine Fomba,None
+402727,46,BlockedShot,0.8669999694824219,0.325,0.061629027128219604,Renaud Ripart,a,6864,OpenPlay,2020,RightFoot,15981,Paris Saint Germain,Nimes,3,0,2021-02-03 20:00:00,Lucas Deaux,Pass
+402728,48,SavedShot,0.7559999847412109,0.6680000305175782,0.014399006962776184,Renaud Ripart,a,6864,OpenPlay,2020,LeftFoot,15981,Paris Saint Germain,Nimes,3,0,2021-02-03 20:00:00,Adrián Cubas,BallRecovery
+402729,50,SavedShot,0.9,0.4329999923706055,0.04626436531543732,Anthony Briancon,a,6861,FromCorner,2020,Head,15981,Paris Saint Germain,Nimes,3,0,2021-02-03 20:00:00,Zinedine Ferhat,Cross
+402730,54,BlockedShot,0.7669999694824219,0.6869999694824219,0.01626543141901493,Haris Duljevic,a,7774,OpenPlay,2020,RightFoot,15981,Paris Saint Germain,Nimes,3,0,2021-02-03 20:00:00,Lucas Deaux,Pass
+402731,54,BlockedShot,0.76,0.27100000381469724,0.007950926199555397,Zinedine Ferhat,a,7773,OpenPlay,2020,LeftFoot,15981,Paris Saint Germain,Nimes,3,0,2021-02-03 20:00:00,Lucas Deaux,Chipped
+402732,61,MissedShots,0.9459999847412109,0.445,0.3237467110157013,Haris Duljevic,a,7774,OpenPlay,2020,RightFoot,15981,Paris Saint Germain,Nimes,3,0,2021-02-03 20:00:00,Renaud Ripart,Cross
+402733,63,BlockedShot,0.750999984741211,0.6719999694824219,0.015622916631400585,Zinedine Ferhat,a,7773,OpenPlay,2020,RightFoot,15981,Paris Saint Germain,Nimes,3,0,2021-02-03 20:00:00,Patrick Burner,TakeOn
+402734,63,BlockedShot,0.815,0.49700000762939456,0.05972016230225563,Lamine Fomba,a,7913,OpenPlay,2020,RightFoot,15981,Paris Saint Germain,Nimes,3,0,2021-02-03 20:00:00,Haris Duljevic,Pass
+402735,65,SavedShot,0.889000015258789,0.4520000076293945,0.0468016043305397,Haris Duljevic,a,7774,OpenPlay,2020,Head,15981,Paris Saint Germain,Nimes,3,0,2021-02-03 20:00:00,,None
+402737,68,MissedShots,0.874000015258789,0.585,0.019997049123048782,Birger Meling,a,8656,OpenPlay,2020,Head,15981,Paris Saint Germain,Nimes,3,0,2021-02-03 20:00:00,Zinedine Ferhat,Cross
+402739,73,MissedShots,0.850999984741211,0.3970000076293945,0.08148109912872314,Renaud Ripart,a,6864,OpenPlay,2020,LeftFoot,15981,Paris Saint Germain,Nimes,3,0,2021-02-03 20:00:00,Birger Meling,Pass
+402740,86,SavedShot,0.955,0.6020000076293945,0.3298130929470062,Moussa Koné,a,8318,OpenPlay,2020,RightFoot,15981,Paris Saint Germain,Nimes,3,0,2021-02-03 20:00:00,Marco Ludivin Majouga,Pass
+402741,86,MissedShots,0.8969999694824219,0.24399999618530274,0.032110199332237244,Yassin Benrahou,a,7557,OpenPlay,2020,LeftFoot,15981,Paris Saint Germain,Nimes,3,0,2021-02-03 20:00:00,Marco Ludivin Majouga,Pass
+402742,88,BlockedShot,0.8780000305175781,0.6120000076293945,0.052328020334243774,Moussa Koné,a,8318,OpenPlay,2020,RightFoot,15981,Paris Saint Germain,Nimes,3,0,2021-02-03 20:00:00,Marco Ludivin Majouga,Chipped
+402743,89,MissedShots,0.8540000152587891,0.29200000762939454,0.04094218835234642,Patrick Burner,a,5650,OpenPlay,2020,RightFoot,15981,Paris Saint Germain,Nimes,3,0,2021-02-03 20:00:00,Yassin Benrahou,Pass

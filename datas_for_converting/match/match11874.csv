@@ -1,0 +1,24 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+352328,10,MissedShots,0.9330000305175781,0.42900001525878906,0.23532521724700928,Matt Doherty,h,6852,FromCorner,2019,Head,11874,Wolverhampton Wanderers,Liverpool,1,2,2020-01-23 20:00:00,Rúben Neves,Cross
+352331,37,MissedShots,0.86,0.6120000076293945,0.05457521229982376,Raúl Jiménez,h,4105,OpenPlay,2019,RightFoot,11874,Wolverhampton Wanderers,Liverpool,1,2,2020-01-23 20:00:00,,None
+352332,42,BlockedShot,0.8230000305175781,0.524000015258789,0.051581867039203644,Raúl Jiménez,h,4105,OpenPlay,2019,RightFoot,11874,Wolverhampton Wanderers,Liverpool,1,2,2020-01-23 20:00:00,Romain Saiss,BallTouch
+352335,47,BlockedShot,0.9030000305175782,0.6680000305175782,0.1053861603140831,Pedro Neto,h,6382,OpenPlay,2019,LeftFoot,11874,Wolverhampton Wanderers,Liverpool,1,2,2020-01-23 20:00:00,Raúl Jiménez,Pass
+352337,50,Goal,0.9059999847412109,0.46,0.3125332295894623,Raúl Jiménez,h,4105,OpenPlay,2019,Head,11874,Wolverhampton Wanderers,Liverpool,1,2,2020-01-23 20:00:00,Adama Traoré,Cross
+352340,64,SavedShot,0.9059999847412109,0.28899999618530275,0.05136397108435631,Adama Traoré,h,900,OpenPlay,2019,RightFoot,11874,Wolverhampton Wanderers,Liverpool,1,2,2020-01-23 20:00:00,Raúl Jiménez,Pass
+352341,67,SavedShot,0.9640000152587891,0.355,0.31488028168678284,Raúl Jiménez,h,4105,OpenPlay,2019,RightFoot,11874,Wolverhampton Wanderers,Liverpool,1,2,2020-01-23 20:00:00,Adama Traoré,Throughball
+352344,73,MissedShots,0.755,0.4,0.029287708923220634,Adama Traoré,h,900,OpenPlay,2019,RightFoot,11874,Wolverhampton Wanderers,Liverpool,1,2,2020-01-23 20:00:00,Romain Saiss,TakeOn
+352345,80,MissedShots,0.9590000152587891,0.54,0.14334724843502045,Diogo Jota,h,6854,SetPiece,2019,Head,11874,Wolverhampton Wanderers,Liverpool,1,2,2020-01-23 20:00:00,João Moutinho,Cross
+352348,91,MissedShots,0.9440000152587891,0.544000015258789,0.5561398267745972,Diogo Jota,h,6854,OpenPlay,2019,LeftFoot,11874,Wolverhampton Wanderers,Liverpool,1,2,2020-01-23 20:00:00,Raúl Jiménez,Pass
+352326,6,BlockedShot,0.7980000305175782,0.3270000076293945,0.07502423971891403,Trent Alexander-Arnold,a,1791,DirectFreekick,2019,RightFoot,11874,Wolverhampton Wanderers,Liverpool,1,2,2020-01-23 20:00:00,,Standard
+352327,7,Goal,0.9259999847412109,0.43099998474121093,0.07365551590919495,Jordan Henderson,a,605,FromCorner,2019,Head,11874,Wolverhampton Wanderers,Liverpool,1,2,2020-01-23 20:00:00,Trent Alexander-Arnold,Cross
+352329,17,BlockedShot,0.8969999694824219,0.495,0.10965202748775482,Mohamed Salah,a,1250,OpenPlay,2019,LeftFoot,11874,Wolverhampton Wanderers,Liverpool,1,2,2020-01-23 20:00:00,Sadio Mané,Cross
+352330,18,BlockedShot,0.7809999847412109,0.33599998474121096,0.03592102974653244,Mohamed Salah,a,1250,OpenPlay,2019,LeftFoot,11874,Wolverhampton Wanderers,Liverpool,1,2,2020-01-23 20:00:00,Roberto Firmino,BallRecovery
+352333,46,BlockedShot,0.865,0.5529999923706055,0.14727406203746796,Mohamed Salah,a,1250,OpenPlay,2019,LeftFoot,11874,Wolverhampton Wanderers,Liverpool,1,2,2020-01-23 20:00:00,Roberto Firmino,TakeOn
+352334,46,SavedShot,0.899000015258789,0.674000015258789,0.07639669626951218,Mohamed Salah,a,1250,OpenPlay,2019,LeftFoot,11874,Wolverhampton Wanderers,Liverpool,1,2,2020-01-23 20:00:00,,BallRecovery
+352336,50,SavedShot,0.8819999694824219,0.67,0.06839510053396225,Mohamed Salah,a,1250,OpenPlay,2019,RightFoot,11874,Wolverhampton Wanderers,Liverpool,1,2,2020-01-23 20:00:00,,None
+352338,59,BlockedShot,0.825,0.43900001525878907,0.05560074746608734,Takumi Minamino,a,8239,SetPiece,2019,RightFoot,11874,Wolverhampton Wanderers,Liverpool,1,2,2020-01-23 20:00:00,Mohamed Salah,Pass
+352339,59,SavedShot,0.9030000305175782,0.3609999847412109,0.3046787679195404,Roberto Firmino,a,482,SetPiece,2019,LeftFoot,11874,Wolverhampton Wanderers,Liverpool,1,2,2020-01-23 20:00:00,,Rebound
+352342,69,MissedShots,0.8780000305175781,0.5729999923706055,0.10550512373447418,Mohamed Salah,a,1250,OpenPlay,2019,LeftFoot,11874,Wolverhampton Wanderers,Liverpool,1,2,2020-01-23 20:00:00,Jordan Henderson,Pass
+352343,71,BlockedShot,0.919000015258789,0.5770000076293945,0.10595817118883133,Roberto Firmino,a,482,OpenPlay,2019,RightFoot,11874,Wolverhampton Wanderers,Liverpool,1,2,2020-01-23 20:00:00,Andrew Robertson,Cross
+352346,81,SavedShot,0.9059999847412109,0.6090000152587891,0.33718442916870117,Roberto Firmino,a,482,OpenPlay,2019,LeftFoot,11874,Wolverhampton Wanderers,Liverpool,1,2,2020-01-23 20:00:00,,TakeOn
+352347,83,Goal,0.875,0.4540000152587891,0.11193666607141495,Roberto Firmino,a,482,OpenPlay,2019,LeftFoot,11874,Wolverhampton Wanderers,Liverpool,1,2,2020-01-23 20:00:00,Jordan Henderson,Pass

@@ -1,0 +1,21 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+364302,10,MissedShots,0.8580000305175781,0.5220000076293946,0.09916619956493378,Michaël Cuisance,h,6148,OpenPlay,2019,LeftFoot,12673,Bayern Munich,Borussia M.Gladbach,2,1,2020-06-13 16:30:00,Ivan Perisic,Pass
+364303,17,SavedShot,0.909000015258789,0.4540000152587891,0.06208261474967003,Serge Gnabry,h,993,OpenPlay,2019,Head,12673,Bayern Munich,Borussia M.Gladbach,2,1,2020-06-13 16:30:00,Michaël Cuisance,Chipped
+364304,21,SavedShot,0.899000015258789,0.524000015258789,0.4549560546875,Lucas Hernández,h,2276,OpenPlay,2019,RightFoot,12673,Bayern Munich,Borussia M.Gladbach,2,1,2020-06-13 16:30:00,,None
+364307,25,Goal,0.7880000305175782,0.26,0.22131530940532684,Joshua Zirkzee,h,8044,OpenPlay,2019,RightFoot,12673,Bayern Munich,Borussia M.Gladbach,2,1,2020-06-13 16:30:00,,None
+364309,36,OwnGoal,0.06300000190734863,0.4929999923706055,0,Benjamin Pavard,h,3363,OpenPlay,2019,RightFoot,12673,Bayern Munich,Borussia M.Gladbach,2,1,2020-06-13 16:30:00,,Challenge
+364310,38,MissedShots,0.919000015258789,0.4909999847412109,0.1279936283826828,Michaël Cuisance,h,6148,OpenPlay,2019,Head,12673,Bayern Munich,Borussia M.Gladbach,2,1,2020-06-13 16:30:00,Lucas Hernández,Cross
+364313,60,BlockedShot,0.8669999694824219,0.30100000381469727,0.05609256774187088,Serge Gnabry,h,993,OpenPlay,2019,RightFoot,12673,Bayern Munich,Borussia M.Gladbach,2,1,2020-06-13 16:30:00,Michaël Cuisance,TakeOn
+364314,63,MissedShots,0.915,0.509000015258789,0.09784484654664993,Benjamin Pavard,h,3363,FromCorner,2019,Head,12673,Bayern Munich,Borussia M.Gladbach,2,1,2020-06-13 16:30:00,Joshua Kimmich,Cross
+364315,65,SavedShot,0.860999984741211,0.5779999923706055,0.05680351331830025,Serge Gnabry,h,993,OpenPlay,2019,RightFoot,12673,Bayern Munich,Borussia M.Gladbach,2,1,2020-06-13 16:30:00,Joshua Kimmich,HeadPass
+364316,79,MissedShots,0.7330000305175781,0.519000015258789,0.023352324962615967,Kwasi Okyere Wriedt,h,6356,OpenPlay,2019,LeftFoot,12673,Bayern Munich,Borussia M.Gladbach,2,1,2020-06-13 16:30:00,Kingsley Coman,HeadPass
+364317,85,Goal,0.9540000152587891,0.47,0.5791739821434021,Leon Goretzka,h,335,OpenPlay,2019,RightFoot,12673,Bayern Munich,Borussia M.Gladbach,2,1,2020-06-13 16:30:00,Benjamin Pavard,Cross
+364301,1,BlockedShot,0.879000015258789,0.5929999923706055,0.059033773839473724,Marcus Thuram,a,5992,SetPiece,2019,LeftFoot,12673,Bayern Munich,Borussia M.Gladbach,2,1,2020-06-13 16:30:00,Matthias Ginter,HeadPass
+364305,24,SavedShot,0.91,0.5790000152587891,0.23132923245429993,Breel Embolo,a,5356,OpenPlay,2019,Head,12673,Bayern Munich,Borussia M.Gladbach,2,1,2020-06-13 16:30:00,Lars Stindl,Cross
+364306,24,MissedShots,0.9719999694824218,0.565,0.5964617133140564,Breel Embolo,a,5356,OpenPlay,2019,LeftFoot,12673,Bayern Munich,Borussia M.Gladbach,2,1,2020-06-13 16:30:00,,Rebound
+364308,30,BlockedShot,0.8909999847412109,0.7440000152587891,0.029766511172056198,Breel Embolo,a,5356,OpenPlay,2019,RightFoot,12673,Bayern Munich,Borussia M.Gladbach,2,1,2020-06-13 16:30:00,Florian Neuhaus,Pass
+364311,47,MissedShots,0.740999984741211,0.3840000152587891,0.015972120687365532,Stefan Lainer,a,7831,OpenPlay,2019,RightFoot,12673,Bayern Munich,Borussia M.Gladbach,2,1,2020-06-13 16:30:00,Florian Neuhaus,Pass
+364312,52,SavedShot,0.89,0.38,0.11346720159053802,Patrick Herrmann,a,420,OpenPlay,2019,RightFoot,12673,Bayern Munich,Borussia M.Gladbach,2,1,2020-06-13 16:30:00,Breel Embolo,Pass
+364318,87,MissedShots,0.8059999847412109,0.5620000076293945,0.05436386168003082,Florian Neuhaus,a,7065,OpenPlay,2019,RightFoot,12673,Bayern Munich,Borussia M.Gladbach,2,1,2020-06-13 16:30:00,Lars Stindl,LayOff
+364319,88,MissedShots,0.6869999694824219,0.37099998474121093,0.008251894265413284,Lars Stindl,a,208,OpenPlay,2019,RightFoot,12673,Bayern Munich,Borussia M.Gladbach,2,1,2020-06-13 16:30:00,Tony Jantschke,BallRecovery
+364320,91,BlockedShot,0.7090000152587891,0.32,0.01332367118448019,Stefan Lainer,a,7831,OpenPlay,2019,LeftFoot,12673,Bayern Munich,Borussia M.Gladbach,2,1,2020-06-13 16:30:00,,TakeOn

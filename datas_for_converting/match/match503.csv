@@ -1,0 +1,23 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+113537,7,MissedShots,0.909000015258789,0.4329999923706055,0.09640620648860931,Daniel Amartey,h,759,FromCorner,2016,LeftFoot,503,Leicester,Burnley,3,0,2016-09-17 18:00:00,,None
+113538,9,MissedShots,0.9159999847412109,0.5879999923706055,0.07333022356033325,Jamie Vardy,h,755,OpenPlay,2016,Head,503,Leicester,Burnley,3,0,2016-09-17 18:00:00,Christian Fuchs,Cross
+113541,24,SavedShot,0.94,0.315,0.0383518822491169,Riyad Mahrez,h,750,OpenPlay,2016,RightFoot,503,Leicester,Burnley,3,0,2016-09-17 18:00:00,Danny Simpson,TakeOn
+113543,36,MissedShots,0.93,0.515,0.40390124917030334,Riyad Mahrez,h,750,OpenPlay,2016,Head,503,Leicester,Burnley,3,0,2016-09-17 18:00:00,Christian Fuchs,Cross
+113544,41,SavedShot,0.789000015258789,0.5820000076293945,0.02749277465045452,Islam Slimani,h,1682,OpenPlay,2016,RightFoot,503,Leicester,Burnley,3,0,2016-09-17 18:00:00,Jamie Vardy,Pass
+113545,45,Goal,0.9580000305175781,0.5,0.5802055597305298,Islam Slimani,h,1682,SetPiece,2016,Head,503,Leicester,Burnley,3,0,2016-09-17 18:00:00,Christian Fuchs,Cross
+113546,47,Goal,0.95,0.5129999923706055,0.5754384994506836,Islam Slimani,h,1682,OpenPlay,2016,Head,503,Leicester,Burnley,3,0,2016-09-17 18:00:00,Jamie Vardy,Pass
+113548,61,SavedShot,0.745999984741211,0.6469999694824219,0.01845720410346985,Marc Albrighton,h,753,OpenPlay,2016,RightFoot,503,Leicester,Burnley,3,0,2016-09-17 18:00:00,Jamie Vardy,TakeOn
+113549,67,BlockedShot,0.7659999847412109,0.48,0.019740916788578033,Riyad Mahrez,h,750,FromCorner,2016,LeftFoot,503,Leicester,Burnley,3,0,2016-09-17 18:00:00,,None
+113550,67,BlockedShot,0.8030000305175782,0.6619999694824219,0.02683054655790329,Riyad Mahrez,h,750,FromCorner,2016,LeftFoot,503,Leicester,Burnley,3,0,2016-09-17 18:00:00,Christian Fuchs,Pass
+113551,67,SavedShot,0.9730000305175781,0.6659999847412109,0.045808348804712296,Daniel Amartey,h,759,FromCorner,2016,LeftFoot,503,Leicester,Burnley,3,0,2016-09-17 18:00:00,,None
+113552,67,BlockedShot,0.825,0.6909999847412109,0.03154810145497322,Christian Fuchs,h,749,FromCorner,2016,RightFoot,503,Leicester,Burnley,3,0,2016-09-17 18:00:00,,Rebound
+113553,68,BlockedShot,0.7959999847412109,0.3320000076293945,0.026774464175105095,Daniel Drinkwater,h,752,FromCorner,2016,RightFoot,503,Leicester,Burnley,3,0,2016-09-17 18:00:00,Christian Fuchs,Cross
+113554,72,BlockedShot,0.779000015258789,0.634000015258789,0.022194109857082367,Marc Albrighton,h,753,SetPiece,2016,RightFoot,503,Leicester,Burnley,3,0,2016-09-17 18:00:00,Riyad Mahrez,Pass
+113539,18,MissedShots,0.7019999694824218,0.5940000152587891,0.012216377072036266,Jeff Hendrick,a,1746,OpenPlay,2016,RightFoot,503,Leicester,Burnley,3,0,2016-09-17 18:00:00,Ben Mee,BallRecovery
+113540,20,BlockedShot,0.775,0.5590000152587891,0.02095060423016548,George Boyd,a,1656,SetPiece,2016,LeftFoot,503,Leicester,Burnley,3,0,2016-09-17 18:00:00,,None
+113542,36,SavedShot,0.924000015258789,0.575,0.3133757710456848,Steven Defour,a,1657,OpenPlay,2016,Head,503,Leicester,Burnley,3,0,2016-09-17 18:00:00,Scott Arfield,HeadPass
+113547,49,MissedShots,0.8580000305175781,0.22399999618530272,0.021293846890330315,Andre Gray,a,1660,OpenPlay,2016,RightFoot,503,Leicester,Burnley,3,0,2016-09-17 18:00:00,Matthew Lowton,Pass
+113555,77,OwnGoal,0.04400000095367432,0.56,0,Ben Mee,a,1654,OpenPlay,2016,LeftFoot,503,Leicester,Burnley,3,0,2016-09-17 18:00:00,,Challenge
+113556,80,SavedShot,0.710999984741211,0.38,0.037758294492959976,Johann Berg Gudmundsson,a,1663,DirectFreekick,2016,LeftFoot,503,Leicester,Burnley,3,0,2016-09-17 18:00:00,,Standard
+113557,83,MissedShots,0.9059999847412109,0.57,0.04826526716351509,Sam Vokes,a,1661,OpenPlay,2016,Head,503,Leicester,Burnley,3,0,2016-09-17 18:00:00,Stephen Ward,Aerial
+113558,91,MissedShots,0.7130000305175781,0.355,0.010663016699254513,Sam Vokes,a,1661,OpenPlay,2016,LeftFoot,503,Leicester,Burnley,3,0,2016-09-17 18:00:00,Jeff Hendrick,TakeOn

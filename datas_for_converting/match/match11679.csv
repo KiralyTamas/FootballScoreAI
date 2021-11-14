@@ -1,0 +1,27 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+315874,8,BlockedShot,0.8540000152587891,0.46900001525878904,0.02045612968504429,Isaac Hayden,h,6062,OpenPlay,2019,Head,11679,Newcastle United,Watford,1,1,2019-08-31 15:00:00,Sean Longstaff,Cross
+315877,25,BlockedShot,0.7969999694824219,0.5579999923706055,0.012160114012658596,Jetro Willems,h,6143,FromCorner,2019,LeftFoot,11679,Newcastle United,Watford,1,1,2019-08-31 15:00:00,Christian Atsu,Chipped
+315878,35,BlockedShot,0.87,0.45799999237060546,0.03229285776615143,Joelinton,h,87,FromCorner,2019,RightFoot,11679,Newcastle United,Watford,1,1,2019-08-31 15:00:00,Jamaal Lascelles,Aerial
+315879,35,BlockedShot,0.8669999694824219,0.455,0.07596243172883987,Joelinton,h,87,FromCorner,2019,RightFoot,11679,Newcastle United,Watford,1,1,2019-08-31 15:00:00,,Rebound
+315882,40,Goal,0.9159999847412109,0.45099998474121095,0.4245673418045044,Fabian Schär,h,76,OpenPlay,2019,LeftFoot,11679,Newcastle United,Watford,1,1,2019-08-31 15:00:00,Isaac Hayden,Aerial
+315883,46,SavedShot,0.8540000152587891,0.735,0.030765175819396973,Christian Atsu,h,2344,OpenPlay,2019,LeftFoot,11679,Newcastle United,Watford,1,1,2019-08-31 15:00:00,Miguel Almirón,Pass
+315884,48,MissedShots,0.71,0.6609999847412109,0.034599483013153076,Sean Longstaff,h,7078,DirectFreekick,2019,RightFoot,11679,Newcastle United,Watford,1,1,2019-08-31 15:00:00,,Standard
+315885,54,MissedShots,0.8980000305175782,0.549000015258789,0.15047714114189148,Fabian Schär,h,76,SetPiece,2019,Head,11679,Newcastle United,Watford,1,1,2019-08-31 15:00:00,Sean Longstaff,Cross
+315886,56,BlockedShot,0.8980000305175782,0.5420000076293945,0.13000982999801636,Miguel Almirón,h,7420,OpenPlay,2019,LeftFoot,11679,Newcastle United,Watford,1,1,2019-08-31 15:00:00,Christian Atsu,Pass
+315887,58,SavedShot,0.725999984741211,0.4759999847412109,0.019757764413952827,Isaac Hayden,h,6062,OpenPlay,2019,RightFoot,11679,Newcastle United,Watford,1,1,2019-08-31 15:00:00,Sean Longstaff,Pass
+315888,62,SavedShot,0.725999984741211,0.46,0.017474647611379623,Sean Longstaff,h,7078,OpenPlay,2019,RightFoot,11679,Newcastle United,Watford,1,1,2019-08-31 15:00:00,Christian Atsu,Pass
+315890,63,SavedShot,0.6990000152587891,0.6329999923706054,0.01156613975763321,Paul Dummett,h,853,OpenPlay,2019,LeftFoot,11679,Newcastle United,Watford,1,1,2019-08-31 15:00:00,,BallTouch
+315897,86,MissedShots,0.9730000305175781,0.3220000076293945,0.08367183804512024,Yoshinori Muto,h,47,OpenPlay,2019,RightFoot,11679,Newcastle United,Watford,1,1,2019-08-31 15:00:00,Joelinton,Pass
+315872,1,BlockedShot,0.7219999694824218,0.549000015258789,0.015847763046622276,Tom Cleverley,a,596,OpenPlay,2019,RightFoot,11679,Newcastle United,Watford,1,1,2019-08-31 15:00:00,Roberto Pereyra,Pass
+315873,1,Goal,0.91,0.4209999847412109,0.37029799818992615,Will Hughes,a,6104,OpenPlay,2019,RightFoot,11679,Newcastle United,Watford,1,1,2019-08-31 15:00:00,,Rebound
+315875,8,MissedShots,0.8119999694824219,0.5690000152587891,0.06095423176884651,Kiko Femenía,a,5043,OpenPlay,2019,RightFoot,11679,Newcastle United,Watford,1,1,2019-08-31 15:00:00,,None
+315876,14,MissedShots,0.8859999847412109,0.4159999847412109,0.10447587072849274,Andre Gray,a,1660,OpenPlay,2019,RightFoot,11679,Newcastle United,Watford,1,1,2019-08-31 15:00:00,Roberto Pereyra,Chipped
+315880,39,BlockedShot,0.870999984741211,0.40599998474121096,0.04344821348786354,Abdoulaye Doucouré,a,1726,FromCorner,2019,RightFoot,11679,Newcastle United,Watford,1,1,2019-08-31 15:00:00,Kiko Femenía,Cross
+315881,39,BlockedShot,0.9459999847412109,0.4159999847412109,0.10615364462137222,Craig Dawson,a,804,FromCorner,2019,RightFoot,11679,Newcastle United,Watford,1,1,2019-08-31 15:00:00,,None
+315889,63,MissedShots,0.8619999694824219,0.6459999847412109,0.11979587376117706,Tom Cleverley,a,596,OpenPlay,2019,LeftFoot,11679,Newcastle United,Watford,1,1,2019-08-31 15:00:00,Will Hughes,Throughball
+315891,78,SavedShot,0.9059999847412109,0.5540000152587891,0.09479810297489166,Isaac Success,a,1724,OpenPlay,2019,Head,11679,Newcastle United,Watford,1,1,2019-08-31 15:00:00,Tom Cleverley,Cross
+315892,78,MissedShots,0.9,0.49,0.02180294319987297,Craig Dawson,a,804,FromCorner,2019,Head,11679,Newcastle United,Watford,1,1,2019-08-31 15:00:00,Tom Cleverley,Aerial
+315893,78,MissedShots,0.9159999847412109,0.615,0.08184975385665894,Nathaniel Chalobah,a,1677,FromCorner,2019,LeftFoot,11679,Newcastle United,Watford,1,1,2019-08-31 15:00:00,,Rebound
+315894,84,BlockedShot,0.775,0.6370000076293946,0.02365291491150856,Tom Cleverley,a,596,OpenPlay,2019,RightFoot,11679,Newcastle United,Watford,1,1,2019-08-31 15:00:00,,Dispossessed
+315895,85,SavedShot,0.8080000305175781,0.48700000762939455,0.05467768758535385,Roberto Pereyra,a,1723,OpenPlay,2019,RightFoot,11679,Newcastle United,Watford,1,1,2019-08-31 15:00:00,Isaac Success,Pass
+315896,86,BlockedShot,0.730999984741211,0.43,0.016697606071829796,Daryl Janmaat,a,764,OpenPlay,2019,RightFoot,11679,Newcastle United,Watford,1,1,2019-08-31 15:00:00,Roberto Pereyra,Pass

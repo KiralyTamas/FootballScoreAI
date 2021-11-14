@@ -1,0 +1,22 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+119275,4,BlockedShot,0.7719999694824219,0.5879999923706055,0.03000827506184578,Phil Jagielka,h,587,FromCorner,2016,RightFoot,3416,Everton,West Bromwich Albion,3,0,2017-03-11 15:00:00,,TakeOn
+119276,8,MissedShots,0.759000015258789,0.62,0.02373870648443699,Ross Barkley,h,592,OpenPlay,2016,LeftFoot,3416,Everton,West Bromwich Albion,3,0,2017-03-11 15:00:00,Romelu Lukaku,LayOff
+119277,15,MissedShots,0.894000015258789,0.31799999237060544,0.062375105917453766,Romelu Lukaku,h,594,OpenPlay,2016,RightFoot,3416,Everton,West Bromwich Albion,3,0,2017-03-11 15:00:00,Gareth Barry,Pass
+119278,20,BlockedShot,0.8159999847412109,0.6079999923706054,0.038491930812597275,Tom Davies,h,1042,OpenPlay,2016,RightFoot,3416,Everton,West Bromwich Albion,3,0,2017-03-11 15:00:00,Kevin Mirallas,Pass
+119280,28,MissedShots,0.9280000305175782,0.4570000076293945,0.0518108606338501,Romelu Lukaku,h,594,FromCorner,2016,Head,3416,Everton,West Bromwich Albion,3,0,2017-03-11 15:00:00,Leighton Baines,Aerial
+119281,30,SavedShot,0.775,0.4329999923706055,0.02962425723671913,Ross Barkley,h,592,FromCorner,2016,LeftFoot,3416,Everton,West Bromwich Albion,3,0,2017-03-11 15:00:00,Gareth Barry,Pass
+119282,36,MissedShots,0.7269999694824218,0.6329999923706054,0.016221173107624054,Ross Barkley,h,592,OpenPlay,2016,RightFoot,3416,Everton,West Bromwich Albion,3,0,2017-03-11 15:00:00,Morgan Schneiderlin,Pass
+119284,38,SavedShot,0.84,0.38599998474121094,0.05308494344353676,Ross Barkley,h,592,OpenPlay,2016,RightFoot,3416,Everton,West Bromwich Albion,3,0,2017-03-11 15:00:00,,None
+119285,38,Goal,0.925,0.46599998474121096,0.49031394720077515,Kevin Mirallas,h,595,OpenPlay,2016,RightFoot,3416,Everton,West Bromwich Albion,3,0,2017-03-11 15:00:00,,Rebound
+119287,45,Goal,0.9390000152587891,0.4179999923706055,0.4800298511981964,Morgan Schneiderlin,h,551,OpenPlay,2016,RightFoot,3416,Everton,West Bromwich Albion,3,0,2017-03-11 15:00:00,Romelu Lukaku,Pass
+119289,60,MissedShots,0.970999984741211,0.67,0.06871392577886581,Ross Barkley,h,592,OpenPlay,2016,LeftFoot,3416,Everton,West Bromwich Albion,3,0,2017-03-11 15:00:00,Kevin Mirallas,Cross
+119290,73,BlockedShot,0.7980000305175782,0.45799999237060546,0.12086841464042664,Romelu Lukaku,h,594,DirectFreekick,2016,LeftFoot,3416,Everton,West Bromwich Albion,3,0,2017-03-11 15:00:00,,Standard
+119291,81,Goal,0.955,0.4640000152587891,0.5547152757644653,Romelu Lukaku,h,594,OpenPlay,2016,Head,3416,Everton,West Bromwich Albion,3,0,2017-03-11 15:00:00,Ross Barkley,Cross
+119292,86,BlockedShot,0.7609999847412109,0.4179999923706055,0.03307341784238815,Ross Barkley,h,592,OpenPlay,2016,LeftFoot,3416,Everton,West Bromwich Albion,3,0,2017-03-11 15:00:00,Romelu Lukaku,Pass
+119293,86,BlockedShot,0.88,0.47400001525878904,0.1084105595946312,Tom Davies,h,1042,OpenPlay,2016,RightFoot,3416,Everton,West Bromwich Albion,3,0,2017-03-11 15:00:00,,Rebound
+119295,90,ShotOnPost,0.815,0.33799999237060546,0.043347593396902084,Idrissa Gueye,h,668,OpenPlay,2016,LeftFoot,3416,Everton,West Bromwich Albion,3,0,2017-03-11 15:00:00,Seamus Coleman,Pass
+119279,24,BlockedShot,0.7380000305175781,0.45799999237060546,0.022149708122015,Nacer Chadli,a,648,OpenPlay,2016,RightFoot,3416,Everton,West Bromwich Albion,3,0,2017-03-11 15:00:00,Claudio Yacob,Pass
+119283,37,SavedShot,0.7809999847412109,0.32799999237060545,0.022150350734591484,Nacer Chadli,a,648,OpenPlay,2016,LeftFoot,3416,Everton,West Bromwich Albion,3,0,2017-03-11 15:00:00,Craig Dawson,Pass
+119286,41,MissedShots,0.8419999694824218,0.26399999618530273,0.025771085172891617,Jake Livermore,a,1689,OpenPlay,2016,LeftFoot,3416,Everton,West Bromwich Albion,3,0,2017-03-11 15:00:00,Nacer Chadli,Pass
+119288,51,SavedShot,0.8090000152587891,0.6020000076293945,0.03496468812227249,Nacer Chadli,a,648,OpenPlay,2016,LeftFoot,3416,Everton,West Bromwich Albion,3,0,2017-03-11 15:00:00,Hal Robson-Kanu,TakeOn
+119294,89,BlockedShot,0.755,0.4329999923706055,0.02228470891714096,James Morrison,a,990,OpenPlay,2016,RightFoot,3416,Everton,West Bromwich Albion,3,0,2017-03-11 15:00:00,Chris Brunt,Pass

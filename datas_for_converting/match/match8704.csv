@@ -1,0 +1,27 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+165296,5,MissedShots,0.8209999847412109,0.49700000762939456,0.06336592137813568,Keita,h,1210,OpenPlay,2017,RightFoot,8704,Monaco,Paris Saint Germain,1,2,2017-11-26 20:00:00,Youri Tielemans,Pass
+165301,25,BlockedShot,0.7559999847412109,0.42200000762939455,0.010903575457632542,Youri Tielemans,h,5956,SetPiece,2017,RightFoot,8704,Monaco,Paris Saint Germain,1,2,2017-11-26 20:00:00,,Aerial
+165302,26,MissedShots,0.794000015258789,0.295,0.06513894349336624,Falcao,h,696,DirectFreekick,2017,RightFoot,8704,Monaco,Paris Saint Germain,1,2,2017-11-26 20:00:00,,Standard
+165303,41,BlockedShot,0.8069999694824219,0.47,0.051855579018592834,Falcao,h,696,OpenPlay,2017,LeftFoot,8704,Monaco,Paris Saint Germain,1,2,2017-11-26 20:00:00,João Moutinho,Pass
+165311,69,MissedShots,0.7630000305175781,0.385,0.017751386389136314,Falcao,h,696,OpenPlay,2017,RightFoot,8704,Monaco,Paris Saint Germain,1,2,2017-11-26 20:00:00,Rony Lopes,BallRecovery
+165312,70,BlockedShot,0.8669999694824219,0.3270000076293945,0.05226432904601097,Rachid Ghezzal,h,3276,OpenPlay,2017,LeftFoot,8704,Monaco,Paris Saint Germain,1,2,2017-11-26 20:00:00,João Moutinho,Pass
+165315,80,Goal,0.8069999694824219,0.705,0.07285045087337494,João Moutinho,h,3422,DirectFreekick,2017,RightFoot,8704,Monaco,Paris Saint Germain,1,2,2017-11-26 20:00:00,,Standard
+165318,85,SavedShot,0.8109999847412109,0.5109999847412109,0.04548898711800575,Falcao,h,696,OpenPlay,2017,RightFoot,8704,Monaco,Paris Saint Germain,1,2,2017-11-26 20:00:00,,None
+165295,1,MissedShots,0.9119999694824219,0.6519999694824219,0.5145859718322754,Kylian Mbappe-Lottin,a,3423,OpenPlay,2017,LeftFoot,8704,Monaco,Paris Saint Germain,1,2,2017-11-26 20:00:00,Neymar,TakeOn
+165297,7,MissedShots,0.9209999847412109,0.44299999237060544,0.13696306943893433,Edinson Cavani,a,3294,OpenPlay,2017,RightFoot,8704,Monaco,Paris Saint Germain,1,2,2017-11-26 20:00:00,Kylian Mbappe-Lottin,Pass
+165298,7,MissedShots,0.9690000152587891,0.5579999923706055,0.6211788654327393,Julian Draxler,a,152,OpenPlay,2017,RightFoot,8704,Monaco,Paris Saint Germain,1,2,2017-11-26 20:00:00,Edinson Cavani,Rebound
+165299,14,BlockedShot,0.7719999694824219,0.6170000076293946,0.022344574332237244,Neymar,a,2099,OpenPlay,2017,LeftFoot,8704,Monaco,Paris Saint Germain,1,2,2017-11-26 20:00:00,,None
+165300,18,Goal,0.9590000152587891,0.5270000076293946,0.6735408902168274,Edinson Cavani,a,3294,OpenPlay,2017,RightFoot,8704,Monaco,Paris Saint Germain,1,2,2017-11-26 20:00:00,Julian Draxler,Pass
+165304,41,SavedShot,0.895,0.6840000152587891,0.09220089018344879,Julian Draxler,a,152,OpenPlay,2017,LeftFoot,8704,Monaco,Paris Saint Germain,1,2,2017-11-26 20:00:00,Kylian Mbappe-Lottin,Pass
+165305,47,ShotOnPost,0.8519999694824218,0.435,0.09746094793081284,Neymar,a,2099,OpenPlay,2017,RightFoot,8704,Monaco,Paris Saint Germain,1,2,2017-11-26 20:00:00,Edinson Cavani,Pass
+165306,48,SavedShot,0.8540000152587891,0.34599998474121096,0.26396623253822327,Kylian Mbappe-Lottin,a,3423,OpenPlay,2017,RightFoot,8704,Monaco,Paris Saint Germain,1,2,2017-11-26 20:00:00,Neymar,Pass
+165307,49,MissedShots,0.6659999847412109,0.4279999923706055,0.008591356687247753,Dani Alves,a,1288,FromCorner,2017,RightFoot,8704,Monaco,Paris Saint Germain,1,2,2017-11-26 20:00:00,Adrien Rabiot,HeadPass
+165308,51,Goal,0.885,0.5,0.7600951194763184,Neymar,a,2099,Penalty,2017,RightFoot,8704,Monaco,Paris Saint Germain,1,2,2017-11-26 20:00:00,,Standard
+165309,67,MissedShots,0.7680000305175781,0.5309999847412109,0.03590453416109085,Adrien Rabiot,a,3291,OpenPlay,2017,RightFoot,8704,Monaco,Paris Saint Germain,1,2,2017-11-26 20:00:00,Julian Draxler,Pass
+165310,68,MissedShots,0.8969999694824219,0.32599998474121095,0.2603724002838135,Kylian Mbappe-Lottin,a,3423,OpenPlay,2017,RightFoot,8704,Monaco,Paris Saint Germain,1,2,2017-11-26 20:00:00,Edinson Cavani,Pass
+165313,72,MissedShots,0.870999984741211,0.40599998474121096,0.4238832890987396,Kylian Mbappe-Lottin,a,3423,OpenPlay,2017,RightFoot,8704,Monaco,Paris Saint Germain,1,2,2017-11-26 20:00:00,Neymar,Throughball
+165314,74,MissedShots,0.9230000305175782,0.5359999847412109,0.43114030361175537,Edinson Cavani,a,3294,OpenPlay,2017,Head,8704,Monaco,Paris Saint Germain,1,2,2017-11-26 20:00:00,Neymar,Chipped
+165316,83,BlockedShot,0.9419999694824219,0.3529999923706055,0.041888944804668427,Thiago Silva,a,3288,FromCorner,2017,RightFoot,8704,Monaco,Paris Saint Germain,1,2,2017-11-26 20:00:00,Ángel Di María,Cross
+165317,83,MissedShots,0.9880000305175781,0.3189999961853027,0.05089632421731949,Thiago Silva,a,3288,FromCorner,2017,RightFoot,8704,Monaco,Paris Saint Germain,1,2,2017-11-26 20:00:00,,Rebound
+165319,88,SavedShot,0.7219999694824218,0.49400001525878906,0.04960455000400543,Ángel Di María,a,3553,DirectFreekick,2017,LeftFoot,8704,Monaco,Paris Saint Germain,1,2,2017-11-26 20:00:00,,Standard
+165320,92,MissedShots,0.73,0.33599998474121096,0.012641603127121925,Dani Alves,a,1288,OpenPlay,2017,RightFoot,8704,Monaco,Paris Saint Germain,1,2,2017-11-26 20:00:00,Neymar,Chipped

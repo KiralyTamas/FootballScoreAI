@@ -1,0 +1,22 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+94787,5,ShotOnPost,0.9330000305175781,0.5359999847412109,0.36268213391304016,Mattia Destro,h,1580,FromCorner,2015,Head,769,Bologna,Sampdoria,3,2,2016-01-31 18:00:00,Anthony Mounier,Cross
+94788,11,Goal,0.93,0.46700000762939453,0.12023703753948212,Anthony Mounier,h,1451,OpenPlay,2015,LeftFoot,769,Bologna,Sampdoria,3,2,2016-01-31 18:00:00,Godfred Donsah,Cross
+94789,22,SavedShot,0.9269999694824219,0.23700000762939452,0.04605182632803917,Godfred Donsah,h,1452,OpenPlay,2015,RightFoot,769,Bologna,Sampdoria,3,2,2016-01-31 18:00:00,,None
+94790,23,Goal,0.81,0.5309999847412109,0.0667843222618103,Godfred Donsah,h,1452,OpenPlay,2015,RightFoot,769,Bologna,Sampdoria,3,2,2016-01-31 18:00:00,,BallRecovery
+94793,46,SavedShot,0.8830000305175781,0.475,0.12823188304901123,Mattia Destro,h,1580,OpenPlay,2015,RightFoot,769,Bologna,Sampdoria,3,2,2016-01-31 18:00:00,Godfred Donsah,Cross
+94804,85,BlockedShot,0.9230000305175782,0.6630000305175782,0.011824852786958218,Mattia Destro,h,1580,FromCorner,2015,Head,769,Bologna,Sampdoria,3,2,2016-01-31 18:00:00,Matteo Brighi,Cross
+94805,86,Goal,0.885,0.5,0.7612988352775574,Mattia Destro,h,1580,Penalty,2015,RightFoot,769,Bologna,Sampdoria,3,2,2016-01-31 18:00:00,,Standard
+94791,25,MissedShots,0.7830000305175782,0.5059999847412109,0.02424328774213791,Edgar Barreto,a,1225,FromCorner,2015,LeftFoot,769,Bologna,Sampdoria,3,2,2016-01-31 18:00:00,Andrea Ranocchia,None
+94792,25,MissedShots,0.71,0.525,0.010881070047616959,Luis Muriel,a,1229,OpenPlay,2015,LeftFoot,769,Bologna,Sampdoria,3,2,2016-01-31 18:00:00,Andrea Ranocchia,BallRecovery
+94794,52,BlockedShot,0.895,0.555,0.11360961943864822,Roberto Soriano,a,1810,OpenPlay,2015,LeftFoot,769,Bologna,Sampdoria,3,2,2016-01-31 18:00:00,Luis Muriel,Pass
+94795,52,MissedShots,0.93,0.42900001525878906,0.07755197584629059,Roberto Soriano,a,1810,FromCorner,2015,Head,769,Bologna,Sampdoria,3,2,2016-01-31 18:00:00,Fernando,Cross
+94796,53,Goal,0.8859999847412109,0.3139999961853027,0.03726210072636604,Luis Muriel,a,1229,OpenPlay,2015,RightFoot,769,Bologna,Sampdoria,3,2,2016-01-31 18:00:00,,None
+94797,54,MissedShots,0.7419999694824219,0.36700000762939455,0.01832943968474865,Roberto Soriano,a,1810,OpenPlay,2015,RightFoot,769,Bologna,Sampdoria,3,2,2016-01-31 18:00:00,Fernando,Pass
+94798,55,SavedShot,0.7919999694824219,0.4370000076293945,0.040961965918540955,Luis Muriel,a,1229,OpenPlay,2015,RightFoot,769,Bologna,Sampdoria,3,2,2016-01-31 18:00:00,Joaquín Correa,Pass
+94799,68,SavedShot,0.7759999847412109,0.29,0.05241723358631134,Fernando,a,1937,DirectFreekick,2015,RightFoot,769,Bologna,Sampdoria,3,2,2016-01-31 18:00:00,,Standard
+94800,74,MissedShots,0.7609999847412109,0.40799999237060547,0.02280508354306221,Fernando,a,1937,OpenPlay,2015,RightFoot,769,Bologna,Sampdoria,3,2,2016-01-31 18:00:00,Niklas Moisander,Pass
+94801,77,MissedShots,0.875,0.46799999237060547,0.07616643607616425,Luis Muriel,a,1229,OpenPlay,2015,RightFoot,769,Bologna,Sampdoria,3,2,2016-01-31 18:00:00,Jacopo Sala,Cross
+94802,79,SavedShot,0.925,0.485,0.4502301514148712,Joaquín Correa,a,1809,OpenPlay,2015,RightFoot,769,Bologna,Sampdoria,3,2,2016-01-31 18:00:00,Dodô,Cross
+94803,79,Goal,0.9640000152587891,0.49700000762939456,0.7626107931137085,Joaquín Correa,a,1809,OpenPlay,2015,RightFoot,769,Bologna,Sampdoria,3,2,2016-01-31 18:00:00,,Rebound
+94806,89,MissedShots,0.7669999694824219,0.3770000076293945,0.015005622059106827,David Ivan,a,1646,SetPiece,2015,RightFoot,769,Bologna,Sampdoria,3,2,2016-01-31 18:00:00,,None
+94807,93,SavedShot,0.8180000305175781,0.6819999694824219,0.08760679513216019,Fernando,a,1937,DirectFreekick,2015,RightFoot,769,Bologna,Sampdoria,3,2,2016-01-31 18:00:00,,Standard

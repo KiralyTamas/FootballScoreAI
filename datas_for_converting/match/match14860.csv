@@ -1,0 +1,25 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+386668,1,MissedShots,0.7290000152587891,0.46,0.015436569228768349,Martín Zubimendi,h,7526,FromCorner,2020,RightFoot,14860,Real Sociedad,Granada,2,0,2020-11-08 15:15:00,,None
+386669,2,MissedShots,0.97,0.42700000762939455,0.416262686252594,Adnan Januzaj,h,323,OpenPlay,2020,Head,14860,Real Sociedad,Granada,2,0,2020-11-08 15:15:00,Nacho Monreal,Cross
+386670,9,SavedShot,0.855,0.29100000381469726,0.04350729659199715,Adnan Januzaj,h,323,OpenPlay,2020,LeftFoot,14860,Real Sociedad,Granada,2,0,2020-11-08 15:15:00,Martín Zubimendi,Chipped
+386671,11,SavedShot,0.9619999694824218,0.735,0.041774168610572815,Mikel Oyarzabal,h,2234,OpenPlay,2020,LeftFoot,14860,Real Sociedad,Granada,2,0,2020-11-08 15:15:00,Willian José,Pass
+386672,17,MissedShots,0.8219999694824218,0.375,0.05122889205813408,Adnan Januzaj,h,323,OpenPlay,2020,RightFoot,14860,Real Sociedad,Granada,2,0,2020-11-08 15:15:00,,BallTouch
+386673,21,SavedShot,0.8530000305175781,0.2610000038146973,0.02757861651480198,David Silva,h,617,OpenPlay,2020,LeftFoot,14860,Real Sociedad,Granada,2,0,2020-11-08 15:15:00,Adnan Januzaj,Pass
+386674,21,BlockedShot,0.8690000152587891,0.4859999847412109,0.029993494972586632,Robin Le Normand,h,7276,FromCorner,2020,Head,14860,Real Sociedad,Granada,2,0,2020-11-08 15:15:00,Mikel Oyarzabal,Cross
+386675,21,Goal,0.9740000152587891,0.43400001525878906,0.5667102932929993,Nacho Monreal,h,495,FromCorner,2020,LeftFoot,14860,Real Sociedad,Granada,2,0,2020-11-08 15:15:00,,Rebound
+386676,23,SavedShot,0.795,0.7140000152587891,0.02789698727428913,Mikel Oyarzabal,h,2234,OpenPlay,2020,LeftFoot,14860,Real Sociedad,Granada,2,0,2020-11-08 15:15:00,Nacho Monreal,Pass
+386677,24,SavedShot,0.835999984741211,0.5209999847412109,0.3597559630870819,Adnan Januzaj,h,323,OpenPlay,2020,LeftFoot,14860,Real Sociedad,Granada,2,0,2020-11-08 15:15:00,Willian José,Throughball
+386678,24,BlockedShot,0.860999984741211,0.645,0.06917758285999298,Adnan Januzaj,h,323,OpenPlay,2020,LeftFoot,14860,Real Sociedad,Granada,2,0,2020-11-08 15:15:00,,Rebound
+386679,26,Goal,0.885,0.5,0.7432776093482971,Mikel Oyarzabal,h,2234,Penalty,2020,LeftFoot,14860,Real Sociedad,Granada,2,0,2020-11-08 15:15:00,,Standard
+386680,47,BlockedShot,0.7090000152587891,0.425,0.017164934426546097,Aritz Elustondo,h,2228,OpenPlay,2020,RightFoot,14860,Real Sociedad,Granada,2,0,2020-11-08 15:15:00,Nacho Monreal,Pass
+386681,53,SavedShot,0.885,0.5,0.7432776093482971,Willian José,h,2361,Penalty,2020,RightFoot,14860,Real Sociedad,Granada,2,0,2020-11-08 15:15:00,,Standard
+386682,53,MissedShots,0.9130000305175782,0.7290000152587891,0.02871282584965229,Mikel Oyarzabal,h,2234,SetPiece,2020,LeftFoot,14860,Real Sociedad,Granada,2,0,2020-11-08 15:15:00,,Rebound
+386683,57,MissedShots,0.965999984741211,0.4370000076293945,0.14873678982257843,David Silva,h,617,OpenPlay,2020,LeftFoot,14860,Real Sociedad,Granada,2,0,2020-11-08 15:15:00,Zaldúa,Pass
+386684,58,MissedShots,0.9640000152587891,0.3240000152587891,0.08086919784545898,David Silva,h,617,OpenPlay,2020,RightFoot,14860,Real Sociedad,Granada,2,0,2020-11-08 15:15:00,Adnan Januzaj,Pass
+386685,60,MissedShots,0.76,0.585,0.023323385044932365,Nacho Monreal,h,495,OpenPlay,2020,LeftFoot,14860,Real Sociedad,Granada,2,0,2020-11-08 15:15:00,,None
+386686,63,MissedShots,0.9459999847412109,0.5690000152587891,0.10919339209794998,Aritz Elustondo,h,2228,FromCorner,2020,Head,14860,Real Sociedad,Granada,2,0,2020-11-08 15:15:00,Martín Merquelanz,Cross
+386687,70,SavedShot,0.9290000152587891,0.39099998474121095,0.13835783302783966,Willian José,h,2361,OpenPlay,2020,RightFoot,14860,Real Sociedad,Granada,2,0,2020-11-08 15:15:00,Aritz Elustondo,Pass
+386688,73,MissedShots,0.730999984741211,0.6329999923706054,0.024235447868704796,Jon Guridi,h,5179,OpenPlay,2020,LeftFoot,14860,Real Sociedad,Granada,2,0,2020-11-08 15:15:00,Martín Merquelanz,Pass
+386689,80,BlockedShot,0.9019999694824219,0.5540000152587891,0.08091328293085098,Willian José,h,2361,OpenPlay,2020,Head,14860,Real Sociedad,Granada,2,0,2020-11-08 15:15:00,Aihen Muñoz,Cross
+386690,87,MissedShots,0.7080000305175781,0.67,0.03775683045387268,Darwin Machís,a,4226,DirectFreekick,2020,RightFoot,14860,Real Sociedad,Granada,2,0,2020-11-08 15:15:00,,Standard
+386691,94,SavedShot,0.885,0.5,0.7428922057151794,Darwin Machís,a,4226,Penalty,2020,RightFoot,14860,Real Sociedad,Granada,2,0,2020-11-08 15:15:00,,Standard

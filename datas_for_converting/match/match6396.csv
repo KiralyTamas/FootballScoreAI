@@ -1,0 +1,29 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+11194,7,BlockedShot,0.7630000305175781,0.24700000762939453,0.013507376424968243,Timofei Kalachev,h,2776,OpenPlay,2014,RightFoot,6396,FC Rostov,Rubin Kazan,1,2,2014-09-13 18:00:00,Maksim Grigoriev,Pass
+11195,8,Goal,0.9069999694824219,0.515,0.11037301272153854,Maksim Grigoriev,h,3167,OpenPlay,2014,Head,6396,FC Rostov,Rubin Kazan,1,2,2014-09-13 18:00:00,Timofei Kalachev,Cross
+11199,17,MissedShots,0.87,0.53,0.03395393490791321,Maksim Grigoriev,h,3167,OpenPlay,2014,Head,6396,FC Rostov,Rubin Kazan,1,2,2014-09-13 18:00:00,Timofei Kalachev,Cross
+11202,22,BlockedShot,0.8230000305175781,0.504000015258789,0.03747973591089249,Dmitriy Poloz,h,2775,OpenPlay,2014,LeftFoot,6396,FC Rostov,Rubin Kazan,1,2,2014-09-13 18:00:00,Moussa Doumbia,Cross
+11203,24,MissedShots,0.76,0.5209999847412109,0.024298181757330894,Timofei Kalachev,h,2776,OpenPlay,2014,RightFoot,6396,FC Rostov,Rubin Kazan,1,2,2014-09-13 18:00:00,Dmitri Torbinski,Pass
+11206,31,BlockedShot,0.7869999694824219,0.5320000076293945,0.03710687905550003,Moussa Doumbia,h,2782,OpenPlay,2014,RightFoot,6396,FC Rostov,Rubin Kazan,1,2,2014-09-13 18:00:00,Dmitri Torbinski,Pass
+11207,32,MissedShots,0.7719999694824219,0.735,0.013044583611190319,Moussa Doumbia,h,2782,OpenPlay,2014,RightFoot,6396,FC Rostov,Rubin Kazan,1,2,2014-09-13 18:00:00,Aleksandru Gatcan,Pass
+11208,36,OwnGoal,0.04,0.525,0,Vitali Djakov,h,2757,OpenPlay,2014,RightFoot,6396,FC Rostov,Rubin Kazan,1,2,2014-09-13 18:00:00,,None
+11212,66,MissedShots,0.885,0.6459999847412109,0.24783527851104736,Aleksandr Bukharov,h,2778,OpenPlay,2014,RightFoot,6396,FC Rostov,Rubin Kazan,1,2,2014-09-13 18:00:00,Maksim Grigoriev,Pass
+11216,80,BlockedShot,0.8440000152587891,0.28200000762939453,0.027775852009654045,Timofei Kalachev,h,2776,OpenPlay,2014,RightFoot,6396,FC Rostov,Rubin Kazan,1,2,2014-09-13 18:00:00,,None
+11217,81,MissedShots,0.8619999694824219,0.5920000076293945,0.05708092823624611,Maksim Grigoriev,h,3167,OpenPlay,2014,RightFoot,6396,FC Rostov,Rubin Kazan,1,2,2014-09-13 18:00:00,,None
+11220,90,SavedShot,0.845,0.6359999847412109,0.05424611270427704,Aleksandr Bukharov,h,2778,OpenPlay,2014,RightFoot,6396,FC Rostov,Rubin Kazan,1,2,2014-09-13 18:00:00,Dmitri Torbinski,Pass
+11193,1,MissedShots,0.915,0.41200000762939454,0.09646713733673096,Blagoy Georgiev,a,3102,OpenPlay,2014,RightFoot,6396,FC Rostov,Rubin Kazan,1,2,2014-09-13 18:00:00,Magomed Ozdoev,Cross
+11196,10,Goal,0.96,0.48200000762939454,0.5675001740455627,Igor Portnyagin,a,2970,OpenPlay,2014,Head,6396,FC Rostov,Rubin Kazan,1,2,2014-09-13 18:00:00,Gökdeniz Karadeniz,Cross
+11197,14,MissedShots,0.8980000305175782,0.6719999694824219,0.03686234727501869,Igor Portnyagin,a,2970,FromCorner,2014,RightFoot,6396,FC Rostov,Rubin Kazan,1,2,2014-09-13 18:00:00,Carlos Eduardo,Cross
+11198,16,ShotOnPost,0.7659999847412109,0.40099998474121096,0.05639384686946869,Magomed Ozdoev,a,2968,OpenPlay,2014,RightFoot,6396,FC Rostov,Rubin Kazan,1,2,2014-09-13 18:00:00,Carlos Eduardo,BallRecovery
+11200,19,SavedShot,0.95,0.3120000076293945,0.11678563058376312,Igor Portnyagin,a,2970,OpenPlay,2014,RightFoot,6396,FC Rostov,Rubin Kazan,1,2,2014-09-13 18:00:00,Maksim Kanunnikov,Throughball
+11201,22,MissedShots,0.76,0.485,0.031671345233917236,Gökdeniz Karadeniz,a,2971,OpenPlay,2014,RightFoot,6396,FC Rostov,Rubin Kazan,1,2,2014-09-13 18:00:00,Magomed Ozdoev,HeadPass
+11204,26,SavedShot,0.870999984741211,0.4370000076293945,0.07287613302469254,Maksim Kanunnikov,a,2969,OpenPlay,2014,LeftFoot,6396,FC Rostov,Rubin Kazan,1,2,2014-09-13 18:00:00,Magomed Ozdoev,Cross
+11205,29,MissedShots,0.740999984741211,0.47900001525878905,0.016454657539725304,Carlos Eduardo,a,3103,OpenPlay,2014,LeftFoot,6396,FC Rostov,Rubin Kazan,1,2,2014-09-13 18:00:00,Igor Portnyagin,Pass
+11209,41,SavedShot,0.7680000305175781,0.41200000762939454,0.032341696321964264,Magomed Ozdoev,a,2968,OpenPlay,2014,LeftFoot,6396,FC Rostov,Rubin Kazan,1,2,2014-09-13 18:00:00,Ruslan Kambolov,Pass
+11210,57,BlockedShot,0.8719999694824219,0.4879999923706055,0.09046532213687897,Igor Portnyagin,a,2970,OpenPlay,2014,LeftFoot,6396,FC Rostov,Rubin Kazan,1,2,2014-09-13 18:00:00,Gökdeniz Karadeniz,HeadPass
+11211,64,SavedShot,0.955999984741211,0.6609999847412109,0.06088799238204956,Igor Portnyagin,a,2970,OpenPlay,2014,LeftFoot,6396,FC Rostov,Rubin Kazan,1,2,2014-09-13 18:00:00,Carlos Eduardo,Chipped
+11213,69,SavedShot,0.9580000305175781,0.6780000305175782,0.08318159729242325,Carlos Eduardo,a,3103,OpenPlay,2014,LeftFoot,6396,FC Rostov,Rubin Kazan,1,2,2014-09-13 18:00:00,Gökdeniz Karadeniz,Pass
+11214,70,BlockedShot,0.915,0.3240000152587891,0.05074230208992958,Carlos Eduardo,a,3103,OpenPlay,2014,LeftFoot,6396,FC Rostov,Rubin Kazan,1,2,2014-09-13 18:00:00,Blagoy Georgiev,Cross
+11215,78,SavedShot,0.9009999847412109,0.43099998474121093,0.14521043002605438,Carlos Eduardo,a,3103,OpenPlay,2014,RightFoot,6396,FC Rostov,Rubin Kazan,1,2,2014-09-13 18:00:00,,None
+11218,86,MissedShots,0.9740000152587891,0.27,0.050963032990694046,Maksim Kanunnikov,a,2969,OpenPlay,2014,RightFoot,6396,FC Rostov,Rubin Kazan,1,2,2014-09-13 18:00:00,Sardar Azmoun,Pass
+11219,88,MissedShots,0.875,0.7140000152587891,0.04586652293801308,Sardar Azmoun,a,2774,OpenPlay,2014,RightFoot,6396,FC Rostov,Rubin Kazan,1,2,2014-09-13 18:00:00,Carlos Eduardo,Pass

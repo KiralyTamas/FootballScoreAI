@@ -1,0 +1,24 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+168800,5,MissedShots,0.7390000152587891,0.5940000152587891,0.014440897852182388,Marvin Bakalorz,h,4266,OpenPlay,2017,LeftFoot,8347,Hannover 96,Borussia Dortmund,4,2,2017-10-28 14:30:00,,None
+168801,15,MissedShots,0.919000015258789,0.4879999923706055,0.11444046348333359,Julian Korb,h,203,OpenPlay,2017,RightFoot,8347,Hannover 96,Borussia Dortmund,4,2,2017-10-28 14:30:00,,BallTouch
+168802,19,Goal,0.885,0.5,0.75777667760849,Jonathas,h,2480,Penalty,2017,RightFoot,8347,Hannover 96,Borussia Dortmund,4,2,2017-10-28 14:30:00,,Standard
+168807,39,Goal,0.8909999847412109,0.575999984741211,0.4404523968696594,Ihlas Bebou,h,6271,OpenPlay,2017,LeftFoot,8347,Hannover 96,Borussia Dortmund,4,2,2017-10-28 14:30:00,Jonathas,Pass
+168808,47,MissedShots,0.8419999694824218,0.5829999923706055,0.15260173380374908,Felix Klaus,h,350,OpenPlay,2017,RightFoot,8347,Hannover 96,Borussia Dortmund,4,2,2017-10-28 14:30:00,Ihlas Bebou,TakeOn
+168810,59,Goal,0.7559999847412109,0.555,0.07180555909872055,Felix Klaus,h,350,DirectFreekick,2017,RightFoot,8347,Hannover 96,Borussia Dortmund,4,2,2017-10-28 14:30:00,,Standard
+168812,62,SavedShot,0.8959999847412109,0.6430000305175781,0.11910787224769592,Felix Klaus,h,350,OpenPlay,2017,LeftFoot,8347,Hannover 96,Borussia Dortmund,4,2,2017-10-28 14:30:00,Ihlas Bebou,Pass
+168815,72,MissedShots,0.855999984741211,0.54,0.059499382972717285,Ihlas Bebou,h,6271,SetPiece,2017,RightFoot,8347,Hannover 96,Borussia Dortmund,4,2,2017-10-28 14:30:00,Jonathas,HeadPass
+168817,75,SavedShot,0.860999984741211,0.6990000152587891,0.282671719789505,Ihlas Bebou,h,6271,OpenPlay,2017,RightFoot,8347,Hannover 96,Borussia Dortmund,4,2,2017-10-28 14:30:00,Marvin Bakalorz,HeadPass
+168819,85,Goal,0.8440000152587891,0.5509999847412109,0.12702471017837524,Ihlas Bebou,h,6271,OpenPlay,2017,RightFoot,8347,Hannover 96,Borussia Dortmund,4,2,2017-10-28 14:30:00,Martin Harnik,BallRecovery
+168820,88,SavedShot,0.9219999694824219,0.46,0.13859423995018005,Martin Harnik,h,407,OpenPlay,2017,RightFoot,8347,Hannover 96,Borussia Dortmund,4,2,2017-10-28 14:30:00,Niclas Füllkrug,Cross
+168821,89,MissedShots,0.725999984741211,0.7719999694824219,0.013516834005713463,Waldemar Anton,h,106,FromCorner,2017,RightFoot,8347,Hannover 96,Borussia Dortmund,4,2,2017-10-28 14:30:00,Pirmin Schwegler,Pass
+168822,90,MissedShots,0.795,0.6359999847412109,0.04866513982415199,Niclas Füllkrug,h,6098,OpenPlay,2017,LeftFoot,8347,Hannover 96,Borussia Dortmund,4,2,2017-10-28 14:30:00,Julian Korb,Pass
+168803,26,BlockedShot,0.7709999847412109,0.3970000076293945,0.02578757144510746,Andriy Yarmolenko,a,6274,OpenPlay,2017,LeftFoot,8347,Hannover 96,Borussia Dortmund,4,2,2017-10-28 14:30:00,Gonzalo Castro,Pass
+168804,26,MissedShots,0.799000015258789,0.6730000305175782,0.011965944431722164,Nuri Sahin,a,2642,FromCorner,2017,LeftFoot,8347,Hannover 96,Borussia Dortmund,4,2,2017-10-28 14:30:00,Marc Bartra,HeadPass
+168805,26,Goal,0.8880000305175781,0.505,0.10936801880598068,Dan-Axel Zagadou,a,6103,FromCorner,2017,LeftFoot,8347,Hannover 96,Borussia Dortmund,4,2,2017-10-28 14:30:00,,Rebound
+168806,35,MissedShots,0.9159999847412109,0.4370000076293945,0.4358382225036621,Andriy Yarmolenko,a,6274,OpenPlay,2017,RightFoot,8347,Hannover 96,Borussia Dortmund,4,2,2017-10-28 14:30:00,Christian Pulisic,Pass
+168809,51,Goal,0.85,0.38599998474121094,0.052289076149463654,Andriy Yarmolenko,a,6274,OpenPlay,2017,LeftFoot,8347,Hannover 96,Borussia Dortmund,4,2,2017-10-28 14:30:00,,None
+168811,62,SavedShot,0.9540000152587891,0.6430000305175781,0.09871237725019455,Christian Pulisic,a,2662,OpenPlay,2017,RightFoot,8347,Hannover 96,Borussia Dortmund,4,2,2017-10-28 14:30:00,Nuri Sahin,Throughball
+168813,64,BlockedShot,0.8190000152587891,0.455,0.06058257073163986,Shinji Kagawa,a,321,OpenPlay,2017,LeftFoot,8347,Hannover 96,Borussia Dortmund,4,2,2017-10-28 14:30:00,Andriy Yarmolenko,Pass
+168814,64,SavedShot,0.845,0.6780000305175782,0.0428616963326931,Nuri Sahin,a,2642,OpenPlay,2017,LeftFoot,8347,Hannover 96,Borussia Dortmund,4,2,2017-10-28 14:30:00,Mario Götze,Pass
+168816,74,MissedShots,0.8580000305175781,0.345,0.0074589429423213005,Pierre-Emerick Aubameyang,a,318,OpenPlay,2017,Head,8347,Hannover 96,Borussia Dortmund,4,2,2017-10-28 14:30:00,Marcel Schmelzer,Aerial
+168818,77,MissedShots,0.654000015258789,0.4759999847412109,0.011274200864136219,Marc Bartra,a,2453,OpenPlay,2017,RightFoot,8347,Hannover 96,Borussia Dortmund,4,2,2017-10-28 14:30:00,Marcel Schmelzer,Pass

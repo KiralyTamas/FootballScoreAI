@@ -1,0 +1,23 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+41375,3,BlockedShot,0.764000015258789,0.34900001525878904,0.01626504771411419,Juanfran,h,2316,OpenPlay,2014,RightFoot,5632,Deportivo La Coruna,Celta Vigo,0,2,2015-02-21 21:00:00,,None
+41376,3,SavedShot,0.8630000305175781,0.4370000076293945,0.07285284250974655,Lucas Pérez,h,1700,OpenPlay,2014,LeftFoot,5632,Deportivo La Coruna,Celta Vigo,0,2,2015-02-21 21:00:00,,None
+41378,8,MissedShots,0.8919999694824219,0.42,0.06733550876379013,Ivan Cavaleiro,h,3683,FromCorner,2014,RightFoot,5632,Deportivo La Coruna,Celta Vigo,0,2,2015-02-21 21:00:00,Celso Borges,Pass
+41379,9,MissedShots,0.7219999694824218,0.4779999923706055,0.010329961776733398,Lucas Pérez,h,1700,OpenPlay,2014,LeftFoot,5632,Deportivo La Coruna,Celta Vigo,0,2,2015-02-21 21:00:00,,Aerial
+41381,18,SavedShot,0.735,0.46900001525878904,0.01949731446802616,Oriol Riera,h,2323,OpenPlay,2014,RightFoot,5632,Deportivo La Coruna,Celta Vigo,0,2,2015-02-21 21:00:00,José Rodríguez,TakeOn
+41384,34,MissedShots,0.6780000305175782,0.54,0.03503354638814926,Celso Borges,h,2466,DirectFreekick,2014,RightFoot,5632,Deportivo La Coruna,Celta Vigo,0,2,2015-02-21 21:00:00,,Standard
+41387,59,MissedShots,0.765,0.48200000762939454,0.02860742062330246,Lucas Pérez,h,1700,OpenPlay,2014,LeftFoot,5632,Deportivo La Coruna,Celta Vigo,0,2,2015-02-21 21:00:00,Ivan Cavaleiro,Pass
+41388,60,BlockedShot,0.8690000152587891,0.47200000762939454,0.07127100974321365,Celso Borges,h,2466,OpenPlay,2014,LeftFoot,5632,Deportivo La Coruna,Celta Vigo,0,2,2015-02-21 21:00:00,Lucas Pérez,BallTouch
+41389,70,SavedShot,0.8419999694824218,0.38299999237060545,0.03325833007693291,Lucas Pérez,h,1700,OpenPlay,2014,LeftFoot,5632,Deportivo La Coruna,Celta Vigo,0,2,2015-02-21 21:00:00,Celso Borges,HeadPass
+41390,70,SavedShot,0.879000015258789,0.545,0.07131769508123398,Hélder Costa,h,3428,OpenPlay,2014,RightFoot,5632,Deportivo La Coruna,Celta Vigo,0,2,2015-02-21 21:00:00,,None
+41391,70,ShotOnPost,0.9619999694824218,0.46599998474121096,0.6477686166763306,Oriol Riera,h,2323,OpenPlay,2014,LeftFoot,5632,Deportivo La Coruna,Celta Vigo,0,2,2015-02-21 21:00:00,,Rebound
+41392,73,MissedShots,0.7559999847412109,0.4829999923706055,0.025827109813690186,Lucas Pérez,h,1700,OpenPlay,2014,LeftFoot,5632,Deportivo La Coruna,Celta Vigo,0,2,2015-02-21 21:00:00,Oriol Riera,Pass
+41393,77,BlockedShot,0.7809999847412109,0.7559999847412109,0.01833142153918743,Oriol Riera,h,2323,OpenPlay,2014,RightFoot,5632,Deportivo La Coruna,Celta Vigo,0,2,2015-02-21 21:00:00,Álex Bergantiños,Pass
+41395,83,MissedShots,0.7330000305175781,0.41,0.011066536419093609,Celso Borges,h,2466,OpenPlay,2014,RightFoot,5632,Deportivo La Coruna,Celta Vigo,0,2,2015-02-21 21:00:00,,None
+41377,6,SavedShot,0.7919999694824219,0.3340000152587891,0.0174894817173481,Augusto Fernández,a,2267,SetPiece,2014,RightFoot,5632,Deportivo La Coruna,Celta Vigo,0,2,2015-02-21 21:00:00,,None
+41380,15,SavedShot,0.7680000305175781,0.6229999923706054,0.01870822347700596,Fabián Orellana,a,2285,OpenPlay,2014,RightFoot,5632,Deportivo La Coruna,Celta Vigo,0,2,2015-02-21 21:00:00,Nolito,Chipped
+41382,28,MissedShots,0.7180000305175781,0.615,0.011184526607394218,Augusto Fernández,a,2267,OpenPlay,2014,LeftFoot,5632,Deportivo La Coruna,Celta Vigo,0,2,2015-02-21 21:00:00,,None
+41383,30,MissedShots,0.835999984741211,0.74,0.025811057537794113,Nolito,a,1732,OpenPlay,2014,RightFoot,5632,Deportivo La Coruna,Celta Vigo,0,2,2015-02-21 21:00:00,Fabián Orellana,Pass
+41385,41,MissedShots,0.8219999694824218,0.6769999694824219,0.03479229658842087,Fabián Orellana,a,2285,FromCorner,2014,RightFoot,5632,Deportivo La Coruna,Celta Vigo,0,2,2015-02-21 21:00:00,Nolito,Pass
+41386,45,Goal,0.990999984741211,0.5309999847412109,0.9747211337089539,Charles,a,2339,OpenPlay,2014,Head,5632,Deportivo La Coruna,Celta Vigo,0,2,2015-02-21 21:00:00,Fabián Orellana,Cross
+41394,81,Goal,0.94,0.5470000076293945,0.7847809195518494,Joaquín Larrivey,a,4038,OpenPlay,2014,LeftFoot,5632,Deportivo La Coruna,Celta Vigo,0,2,2015-02-21 21:00:00,,TakeOn
+41396,87,SavedShot,0.89,0.27899999618530275,0.059905651956796646,Michael Krohn-Dehli,a,2443,OpenPlay,2014,RightFoot,5632,Deportivo La Coruna,Celta Vigo,0,2,2015-02-21 21:00:00,Nolito,Pass

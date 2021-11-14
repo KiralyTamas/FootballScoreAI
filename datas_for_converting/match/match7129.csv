@@ -1,0 +1,23 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+158995,2,ShotOnPost,0.9719999694824218,0.7319999694824219,0.04000203683972359,Jordan Ayew,h,672,OpenPlay,2017,RightFoot,7129,Swansea,Manchester United,0,4,2017-08-19 12:30:00,,None
+159001,33,MissedShots,0.9319999694824219,0.5070000076293946,0.06142551451921463,Kyle Bartley,h,964,FromCorner,2017,Head,7129,Swansea,Manchester United,0,4,2017-08-19 12:30:00,Tom Carroll,Aerial
+159007,57,MissedShots,0.735,0.57,0.016458755359053612,Leroy Fer,h,711,OpenPlay,2017,LeftFoot,7129,Swansea,Manchester United,0,4,2017-08-19 12:30:00,,None
+159008,60,MissedShots,0.879000015258789,0.5459999847412109,0.17404508590698242,Tammy Abraham,h,702,OpenPlay,2017,Head,7129,Swansea,Manchester United,0,4,2017-08-19 12:30:00,Tom Carroll,Cross
+159016,91,MissedShots,0.7380000305175781,0.45,0.012232868000864983,Jordan Ayew,h,672,OpenPlay,2017,RightFoot,7129,Swansea,Manchester United,0,4,2017-08-19 12:30:00,,None
+158996,3,MissedShots,0.8619999694824219,0.605999984741211,0.06472040712833405,Romelu Lukaku,a,594,OpenPlay,2017,RightFoot,7129,Swansea,Manchester United,0,4,2017-08-19 12:30:00,,None
+158997,6,MissedShots,0.7780000305175782,0.6170000076293946,0.03099007159471512,Marcus Rashford,a,556,OpenPlay,2017,RightFoot,7129,Swansea,Manchester United,0,4,2017-08-19 12:30:00,Henrikh Mkhitaryan,TakeOn
+158998,9,ShotOnPost,0.9469999694824218,0.4759999847412109,0.5364757180213928,Phil Jones,a,951,SetPiece,2017,OtherBodyPart,7129,Swansea,Manchester United,0,4,2017-08-19 12:30:00,Juan Mata,Cross
+158999,19,BlockedShot,0.845999984741211,0.545,0.0721064880490303,Romelu Lukaku,a,594,OpenPlay,2017,LeftFoot,7129,Swansea,Manchester United,0,4,2017-08-19 12:30:00,Paul Pogba,Chipped
+159000,28,SavedShot,0.6809999847412109,0.6880000305175781,0.01256141159683466,Marcus Rashford,a,556,OpenPlay,2017,RightFoot,7129,Swansea,Manchester United,0,4,2017-08-19 12:30:00,Henrikh Mkhitaryan,Pass
+159002,35,SavedShot,0.87,0.4909999847412109,0.38928383588790894,Marcus Rashford,a,556,OpenPlay,2017,RightFoot,7129,Swansea,Manchester United,0,4,2017-08-19 12:30:00,,None
+159003,41,MissedShots,0.894000015258789,0.4179999923706055,0.08496411144733429,Juan Mata,a,554,OpenPlay,2017,LeftFoot,7129,Swansea,Manchester United,0,4,2017-08-19 12:30:00,,None
+159004,44,SavedShot,0.92,0.46700000762939453,0.28765204548835754,Paul Pogba,a,1740,FromCorner,2017,Head,7129,Swansea,Manchester United,0,4,2017-08-19 12:30:00,Daley Blind,Cross
+159005,44,Goal,0.9930000305175781,0.5179999923706055,0.9705453515052795,Eric Bailly,a,1739,FromCorner,2017,RightFoot,7129,Swansea,Manchester United,0,4,2017-08-19 12:30:00,,Rebound
+159006,55,SavedShot,0.7909999847412109,0.664000015258789,0.03253873810172081,Marcus Rashford,a,556,OpenPlay,2017,RightFoot,7129,Swansea,Manchester United,0,4,2017-08-19 12:30:00,Juan Mata,Pass
+159009,61,BlockedShot,0.7569999694824219,0.3940000152587891,0.02587578445672989,Henrikh Mkhitaryan,a,317,OpenPlay,2017,LeftFoot,7129,Swansea,Manchester United,0,4,2017-08-19 12:30:00,Paul Pogba,Pass
+159010,67,MissedShots,0.7430000305175781,0.6580000305175782,0.017878737300634384,Henrikh Mkhitaryan,a,317,OpenPlay,2017,RightFoot,7129,Swansea,Manchester United,0,4,2017-08-19 12:30:00,Marcus Rashford,Pass
+159011,73,MissedShots,0.745999984741211,0.59,0.056630078703165054,Paul Pogba,a,1740,DirectFreekick,2017,RightFoot,7129,Swansea,Manchester United,0,4,2017-08-19 12:30:00,,Standard
+159012,77,BlockedShot,0.785,0.43599998474121093,0.04942985996603966,Anthony Martial,a,553,OpenPlay,2017,RightFoot,7129,Swansea,Manchester United,0,4,2017-08-19 12:30:00,Romelu Lukaku,LayOff
+159013,79,Goal,0.895,0.5459999847412109,0.4402121305465698,Romelu Lukaku,a,594,OpenPlay,2017,LeftFoot,7129,Swansea,Manchester United,0,4,2017-08-19 12:30:00,Henrikh Mkhitaryan,Pass
+159014,81,Goal,0.9209999847412109,0.3920000076293945,0.4890369474887848,Paul Pogba,a,1740,OpenPlay,2017,RightFoot,7129,Swansea,Manchester United,0,4,2017-08-19 12:30:00,Henrikh Mkhitaryan,Throughball
+159015,83,Goal,0.86,0.5320000076293945,0.12848462164402008,Anthony Martial,a,553,OpenPlay,2017,RightFoot,7129,Swansea,Manchester United,0,4,2017-08-19 12:30:00,Paul Pogba,Pass

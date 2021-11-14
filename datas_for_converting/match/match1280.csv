@@ -1,0 +1,26 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+82627,6,MissedShots,0.7090000152587891,0.4279999923706055,0.042422104626894,Johannes Geis,h,336,DirectFreekick,2015,RightFoot,1280,Schalke 04,Borussia Dortmund,2,2,2016-04-10 17:30:00,,Standard
+82630,32,ShotOnPost,0.764000015258789,0.31,0.021181704476475716,Leroy Sané,h,337,OpenPlay,2015,LeftFoot,1280,Schalke 04,Borussia Dortmund,2,2,2016-04-10 17:30:00,Klaas-Jan Huntelaar,Pass
+82633,39,MissedShots,0.8680000305175781,0.2620000076293945,0.11119227111339569,Júnior Caiçara,h,345,OpenPlay,2015,RightFoot,1280,Schalke 04,Borussia Dortmund,2,2,2016-04-10 17:30:00,Younès Belhanda,Throughball
+82634,43,MissedShots,0.705,0.3340000152587891,0.0194042157381773,Johannes Geis,h,336,OpenPlay,2015,RightFoot,1280,Schalke 04,Borussia Dortmund,2,2,2016-04-10 17:30:00,,BallRecovery
+82635,46,MissedShots,0.889000015258789,0.5459999847412109,0.015834808349609375,Klaas-Jan Huntelaar,h,340,FromCorner,2015,Head,1280,Schalke 04,Borussia Dortmund,2,2,2016-04-10 17:30:00,Johannes Geis,Aerial
+82637,50,BlockedShot,0.8009999847412109,0.40599998474121096,0.03360506519675255,Pierre-Emile Højbjerg,h,343,OpenPlay,2015,RightFoot,1280,Schalke 04,Borussia Dortmund,2,2,2016-04-10 17:30:00,Júnior Caiçara,Pass
+82638,50,Goal,0.9130000305175782,0.4540000152587891,0.08451725542545319,Leroy Sané,h,337,OpenPlay,2015,LeftFoot,1280,Schalke 04,Borussia Dortmund,2,2,2016-04-10 17:30:00,,None
+82643,65,Goal,0.885,0.5,0.75777667760849,Klaas-Jan Huntelaar,h,340,Penalty,2015,RightFoot,1280,Schalke 04,Borussia Dortmund,2,2,2016-04-10 17:30:00,,Standard
+82646,73,BlockedShot,0.845999984741211,0.8319999694824218,0.04838278144598007,Johannes Geis,h,336,DirectFreekick,2015,RightFoot,1280,Schalke 04,Borussia Dortmund,2,2,2016-04-10 17:30:00,,Standard
+82650,90,MissedShots,0.89,0.524000015258789,0.09843180328607559,Max Meyer,h,338,OpenPlay,2015,LeftFoot,1280,Schalke 04,Borussia Dortmund,2,2,2016-04-10 17:30:00,Eric Maxim Choupo-Moting,Cross
+82626,3,SavedShot,0.9030000305175782,0.46,0.04236850515007973,Christian Pulisic,a,2662,OpenPlay,2015,Head,1280,Schalke 04,Borussia Dortmund,2,2,2016-04-10 17:30:00,Erik Durm,Aerial
+82628,20,BlockedShot,0.8780000305175781,0.3840000152587891,0.056145209819078445,Moritz Leitner,a,1217,OpenPlay,2015,RightFoot,1280,Schalke 04,Borussia Dortmund,2,2,2016-04-10 17:30:00,Matthias Ginter,Chipped
+82629,22,MissedShots,0.9369999694824219,0.34700000762939454,0.12063167989253998,Christian Pulisic,a,2662,OpenPlay,2015,RightFoot,1280,Schalke 04,Borussia Dortmund,2,2,2016-04-10 17:30:00,Sven Bender,TakeOn
+82631,33,BlockedShot,0.735999984741211,0.6669999694824219,0.014392642304301262,Moritz Leitner,a,1217,OpenPlay,2015,RightFoot,1280,Schalke 04,Borussia Dortmund,2,2,2016-04-10 17:30:00,Adrián Ramos,Pass
+82632,35,MissedShots,0.889000015258789,0.32,0.008300711400806904,Matthias Ginter,a,315,OpenPlay,2015,Head,1280,Schalke 04,Borussia Dortmund,2,2,2016-04-10 17:30:00,Mats Hummels,Aerial
+82636,48,Goal,0.8290000152587891,0.375,0.08401162177324295,Shinji Kagawa,a,321,OpenPlay,2015,RightFoot,1280,Schalke 04,Borussia Dortmund,2,2,2016-04-10 17:30:00,Moritz Leitner,Pass
+82639,52,SavedShot,0.7419999694824219,0.6819999694824219,0.04578480124473572,Henrikh Mkhitaryan,a,317,DirectFreekick,2015,RightFoot,1280,Schalke 04,Borussia Dortmund,2,2,2016-04-10 17:30:00,,Standard
+82640,55,Goal,0.9330000305175781,0.509000015258789,0.44064685702323914,Matthias Ginter,a,315,SetPiece,2015,Head,1280,Schalke 04,Borussia Dortmund,2,2,2016-04-10 17:30:00,,None
+82641,62,BlockedShot,0.8930000305175781,0.6619999694824219,0.08952830731868744,Henrikh Mkhitaryan,a,317,OpenPlay,2015,RightFoot,1280,Schalke 04,Borussia Dortmund,2,2,2016-04-10 17:30:00,Shinji Kagawa,Pass
+82642,62,MissedShots,0.700999984741211,0.53,0.0130310645326972,Erik Durm,a,2640,FromCorner,2015,RightFoot,1280,Schalke 04,Borussia Dortmund,2,2,2016-04-10 17:30:00,,None
+82644,70,SavedShot,0.919000015258789,0.4640000152587891,0.5117824077606201,Shinji Kagawa,a,321,OpenPlay,2015,RightFoot,1280,Schalke 04,Borussia Dortmund,2,2,2016-04-10 17:30:00,Christian Pulisic,Pass
+82645,70,BlockedShot,0.8669999694824219,0.48700000762939455,0.08976759016513824,Henrikh Mkhitaryan,a,317,OpenPlay,2015,LeftFoot,1280,Schalke 04,Borussia Dortmund,2,2,2016-04-10 17:30:00,Adrián Ramos,Rebound
+82647,81,BlockedShot,0.8969999694824219,0.6,0.11931232362985611,Pierre-Emerick Aubameyang,a,318,OpenPlay,2015,LeftFoot,1280,Schalke 04,Borussia Dortmund,2,2,2016-04-10 17:30:00,Sokratis,Pass
+82648,82,BlockedShot,0.9730000305175781,0.315,0.03723564371466637,Sokratis,a,371,FromCorner,2015,RightFoot,1280,Schalke 04,Borussia Dortmund,2,2,2016-04-10 17:30:00,Pierre-Emerick Aubameyang,BallTouch
+82649,87,BlockedShot,0.754000015258789,0.55,0.07060438394546509,Pierre-Emerick Aubameyang,a,318,DirectFreekick,2015,RightFoot,1280,Schalke 04,Borussia Dortmund,2,2,2016-04-10 17:30:00,,Standard

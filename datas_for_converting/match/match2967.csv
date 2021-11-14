@@ -1,0 +1,22 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+124926,2,SavedShot,0.805,0.3340000152587891,0.01863114908337593,Andrey Malykh,h,5423,OpenPlay,2016,LeftFoot,2967,FC Orenburg,Krylya Sovetov Samara,1,0,2016-10-31 18:00:00,,TakeOn
+124929,9,MissedShots,0.895,0.5,0.07194413989782333,Igor Koronov,h,5433,OpenPlay,2016,Head,2967,FC Orenburg,Krylya Sovetov Samara,1,0,2016-10-31 18:00:00,Pavel Nekhajchik,Cross
+124930,11,SavedShot,0.72,0.3189999961853027,0.0074494075961411,Andrey Malykh,h,5423,OpenPlay,2016,LeftFoot,2967,FC Orenburg,Krylya Sovetov Samara,1,0,2016-10-31 18:00:00,Blagoy Georgiev,TakeOn
+124931,17,MissedShots,0.6680000305175782,0.515,0.011468210257589817,Andrey Malykh,h,5423,FromCorner,2016,LeftFoot,2967,FC Orenburg,Krylya Sovetov Samara,1,0,2016-10-31 18:00:00,,None
+124934,28,MissedShots,0.7959999847412109,0.7440000152587891,0.014497256837785244,Vadim Afonin,h,5427,FromCorner,2016,RightFoot,2967,FC Orenburg,Krylya Sovetov Samara,1,0,2016-10-31 18:00:00,,None
+124935,35,BlockedShot,0.7130000305175781,0.43400001525878906,0.011953548528254032,Aleksey Pomerko,h,2997,OpenPlay,2016,RightFoot,2967,FC Orenburg,Krylya Sovetov Samara,1,0,2016-10-31 18:00:00,,None
+124936,36,MissedShots,0.7909999847412109,0.5159999847412109,0.022194838151335716,Vladimir Poluyakhtov,h,5426,OpenPlay,2016,RightFoot,2967,FC Orenburg,Krylya Sovetov Samara,1,0,2016-10-31 18:00:00,Ade,HeadPass
+124937,37,MissedShots,0.8690000152587891,0.590999984741211,0.013269159942865372,Pavel Nekhajchik,h,5430,OpenPlay,2016,Head,2967,FC Orenburg,Krylya Sovetov Samara,1,0,2016-10-31 18:00:00,Blagoy Georgiev,Aerial
+124939,47,SavedShot,0.855,0.42200000762939455,0.08478646725416183,Aleksey Pomerko,h,2997,OpenPlay,2016,LeftFoot,2967,FC Orenburg,Krylya Sovetov Samara,1,0,2016-10-31 18:00:00,Igor Koronov,Pass
+124940,61,Goal,0.8969999694824219,0.47900001525878905,0.13384951651096344,Artem Deljkin,h,5506,OpenPlay,2016,LeftFoot,2967,FC Orenburg,Krylya Sovetov Samara,1,0,2016-10-31 18:00:00,Sergey Breev,Pass
+124941,80,SavedShot,0.7440000152587891,0.6659999847412109,0.022099025547504425,Blagoy Georgiev,h,3102,OpenPlay,2016,RightFoot,2967,FC Orenburg,Krylya Sovetov Samara,1,0,2016-10-31 18:00:00,Vladimir Poluyakhtov,Pass
+124942,81,MissedShots,0.9380000305175781,0.42700000762939455,0.07874295115470886,Artem Deljkin,h,5506,FromCorner,2016,Head,2967,FC Orenburg,Krylya Sovetov Samara,1,0,2016-10-31 18:00:00,Igor Koronov,Cross
+124943,81,MissedShots,0.985999984741211,0.5520000076293945,0.14615193009376526,Ade,h,5425,FromCorner,2016,RightFoot,2967,FC Orenburg,Krylya Sovetov Samara,1,0,2016-10-31 18:00:00,Artem Deljkin,None
+124944,83,BlockedShot,0.8619999694824219,0.6719999694824219,0.06077681854367256,Sergey Breev,h,5439,OpenPlay,2016,RightFoot,2967,FC Orenburg,Krylya Sovetov Samara,1,0,2016-10-31 18:00:00,Vadim Afonin,Pass
+124927,4,SavedShot,0.7609999847412109,0.29700000762939455,0.04433503374457359,Yohan Mollo,a,2998,DirectFreekick,2016,RightFoot,2967,FC Orenburg,Krylya Sovetov Samara,1,0,2016-10-31 18:00:00,,Standard
+124928,6,MissedShots,0.7680000305175781,0.27299999237060546,0.012372976168990135,Alan Chochiev,a,3000,OpenPlay,2016,RightFoot,2967,FC Orenburg,Krylya Sovetov Samara,1,0,2016-10-31 18:00:00,,None
+124932,23,SavedShot,0.9230000305175782,0.6880000305175781,0.06683239340782166,Milan Rodic,a,2994,OpenPlay,2016,LeftFoot,2967,FC Orenburg,Krylya Sovetov Samara,1,0,2016-10-31 18:00:00,Dmitriy Yatchenko,Pass
+124933,24,MissedShots,0.9459999847412109,0.5120000076293946,0.14245542883872986,Sheldon Bateau,a,3002,OpenPlay,2016,Head,2967,FC Orenburg,Krylya Sovetov Samara,1,0,2016-10-31 18:00:00,Dmitriy Yatchenko,Cross
+124938,44,BlockedShot,0.9330000305175781,0.6370000076293946,0.02070717141032219,Alan Chochiev,a,3000,SetPiece,2016,Head,2967,FC Orenburg,Krylya Sovetov Samara,1,0,2016-10-31 18:00:00,Cristian Pasquato,Cross
+124945,86,MissedShots,0.9259999847412109,0.48200000762939454,0.051734816282987595,Milan Rodic,a,2994,OpenPlay,2016,Head,2967,FC Orenburg,Krylya Sovetov Samara,1,0,2016-10-31 18:00:00,Yohan Mollo,Aerial
+124946,89,MissedShots,0.95,0.5829999923706055,0.0772784873843193,Jerry Mbakogu,a,1907,OpenPlay,2016,Head,2967,FC Orenburg,Krylya Sovetov Samara,1,0,2016-10-31 18:00:00,Yohan Mollo,Cross

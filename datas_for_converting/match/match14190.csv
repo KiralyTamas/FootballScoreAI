@@ -1,0 +1,28 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+379673,10,Goal,0.9740000152587891,0.3770000076293945,0.02045534737408161,Nils Petersen,h,4248,FromCorner,2020,Head,14190,Freiburg,Wolfsburg,1,1,2020-09-27 16:00:00,Vincenzo Grifo,Cross
+379675,24,SavedShot,0.75,0.4490000152587891,0.06733319908380508,Vincenzo Grifo,h,5266,DirectFreekick,2020,RightFoot,14190,Freiburg,Wolfsburg,1,1,2020-09-27 16:00:00,,Standard
+379676,26,BlockedShot,0.8540000152587891,0.3129999923706055,0.03582009673118591,Jonathan Schmid,h,81,SetPiece,2020,RightFoot,14190,Freiburg,Wolfsburg,1,1,2020-09-27 16:00:00,Christian Günter,Pass
+379677,27,BlockedShot,0.8869999694824219,0.6170000076293946,0.0923578068614006,Christian Günter,h,4243,OpenPlay,2020,RightFoot,14190,Freiburg,Wolfsburg,1,1,2020-09-27 16:00:00,,None
+379678,27,MissedShots,0.8640000152587891,0.509000015258789,0.10471092909574509,Vincenzo Grifo,h,5266,OpenPlay,2020,RightFoot,14190,Freiburg,Wolfsburg,1,1,2020-09-27 16:00:00,,Rebound
+379679,29,BlockedShot,0.9419999694824219,0.6930000305175781,0.029345259070396423,Philipp Lienhart,h,2611,OpenPlay,2020,LeftFoot,14190,Freiburg,Wolfsburg,1,1,2020-09-27 16:00:00,,Aerial
+379683,56,SavedShot,0.7559999847412109,0.4209999847412109,0.02313249744474888,Roland Sallai,h,1277,OpenPlay,2020,LeftFoot,14190,Freiburg,Wolfsburg,1,1,2020-09-27 16:00:00,Baptiste Santamaria,Pass
+379684,60,MissedShots,0.7619999694824219,0.6669999694824219,0.020292995497584343,Christian Günter,h,4243,OpenPlay,2020,LeftFoot,14190,Freiburg,Wolfsburg,1,1,2020-09-27 16:00:00,Nicolas Höfler,Pass
+379685,60,MissedShots,0.8819999694824219,0.4909999847412109,0.0872095376253128,Lucas Höler,h,6475,OpenPlay,2020,RightFoot,14190,Freiburg,Wolfsburg,1,1,2020-09-27 16:00:00,Christian Günter,None
+379686,63,BlockedShot,0.870999984741211,0.43599998474121093,0.046440497040748596,Lucas Höler,h,6475,FromCorner,2020,LeftFoot,14190,Freiburg,Wolfsburg,1,1,2020-09-27 16:00:00,Vincenzo Grifo,Cross
+379687,63,SavedShot,0.7669999694824219,0.61,0.02665482461452484,Baptiste Santamaria,h,5654,FromCorner,2020,LeftFoot,14190,Freiburg,Wolfsburg,1,1,2020-09-27 16:00:00,,Rebound
+379688,68,MissedShots,0.7769999694824219,0.40900001525878904,0.08577527850866318,Jonathan Schmid,h,81,DirectFreekick,2020,RightFoot,14190,Freiburg,Wolfsburg,1,1,2020-09-27 16:00:00,,Standard
+379689,73,SavedShot,0.755,0.6079999923706054,0.013674349524080753,Dominique Heintz,h,129,FromCorner,2020,LeftFoot,14190,Freiburg,Wolfsburg,1,1,2020-09-27 16:00:00,,Aerial
+379690,73,BlockedShot,0.8469999694824218,0.34799999237060547,0.04621824249625206,Baptiste Santamaria,h,5654,FromCorner,2020,RightFoot,14190,Freiburg,Wolfsburg,1,1,2020-09-27 16:00:00,Vincenzo Grifo,Pass
+379691,75,BlockedShot,0.9280000305175782,0.49700000762939456,0.06337614357471466,Nils Petersen,h,4248,FromCorner,2020,Head,14190,Freiburg,Wolfsburg,1,1,2020-09-27 16:00:00,Nicolas Höfler,Aerial
+379692,76,SavedShot,0.9280000305175782,0.525,0.05711054801940918,Baptiste Santamaria,h,5654,FromCorner,2020,Head,14190,Freiburg,Wolfsburg,1,1,2020-09-27 16:00:00,Christian Günter,Aerial
+379693,78,MissedShots,0.755,0.705999984741211,0.011929113417863846,Christian Günter,h,4243,OpenPlay,2020,LeftFoot,14190,Freiburg,Wolfsburg,1,1,2020-09-27 16:00:00,,None
+379696,90,SavedShot,0.895,0.625,0.08172201365232468,Lucas Höler,h,6475,OpenPlay,2020,RightFoot,14190,Freiburg,Wolfsburg,1,1,2020-09-27 16:00:00,,BallRecovery
+379697,91,MissedShots,0.76,0.56,0.02199970930814743,Baptiste Santamaria,h,5654,OpenPlay,2020,LeftFoot,14190,Freiburg,Wolfsburg,1,1,2020-09-27 16:00:00,,None
+379671,5,MissedShots,0.9280000305175782,0.2589999961853027,0.034751635044813156,Joao Victor,a,7784,OpenPlay,2020,RightFoot,14190,Freiburg,Wolfsburg,1,1,2020-09-27 16:00:00,Yunus Malli,Pass
+379672,7,MissedShots,0.84,0.4379999923706055,0.07807768881320953,Daniel Ginczek,a,426,OpenPlay,2020,RightFoot,14190,Freiburg,Wolfsburg,1,1,2020-09-27 16:00:00,Yunus Malli,Pass
+379674,11,MissedShots,0.759000015258789,0.4420000076293945,0.021439075469970703,Maximilian Arnold,a,153,OpenPlay,2020,RightFoot,14190,Freiburg,Wolfsburg,1,1,2020-09-27 16:00:00,,Dispossessed
+379680,41,Goal,0.8130000305175781,0.525,0.15786992013454437,Josip Brekalo,a,5353,DirectFreekick,2020,RightFoot,14190,Freiburg,Wolfsburg,1,1,2020-09-27 16:00:00,,Standard
+379681,43,BlockedShot,0.9380000305175781,0.6719999694824219,0.0689157247543335,Joao Victor,a,7784,OpenPlay,2020,LeftFoot,14190,Freiburg,Wolfsburg,1,1,2020-09-27 16:00:00,,BallTouch
+379682,47,SavedShot,0.745,0.46099998474121096,0.01987711898982525,Yannick Gerhardt,a,140,OpenPlay,2020,RightFoot,14190,Freiburg,Wolfsburg,1,1,2020-09-27 16:00:00,Joao Victor,Pass
+379694,85,MissedShots,0.6669999694824219,0.5820000076293945,0.012370985932648182,Josip Brekalo,a,5353,OpenPlay,2020,RightFoot,14190,Freiburg,Wolfsburg,1,1,2020-09-27 16:00:00,Josuha Guilavogui,Pass
+379695,89,MissedShots,0.879000015258789,0.6090000152587891,0.02013976313173771,Wout Weghorst,a,7052,OpenPlay,2020,Head,14190,Freiburg,Wolfsburg,1,1,2020-09-27 16:00:00,Jérôme Roussillon,Cross

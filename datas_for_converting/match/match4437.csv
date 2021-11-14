@@ -1,0 +1,29 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+23008,20,MissedShots,0.9169999694824219,0.325,0.11919394880533218,Sergio Agüero,h,619,OpenPlay,2014,RightFoot,4437,Manchester City,Southampton,2,0,2015-05-24 15:00:00,David Silva,Throughball
+23009,23,SavedShot,0.8180000305175781,0.6309999847412109,0.04774995148181915,Yaya Touré,h,878,OpenPlay,2014,RightFoot,4437,Manchester City,Southampton,2,0,2015-05-24 15:00:00,James Milner,LayOff
+23010,23,SavedShot,0.935,0.47200000762939454,0.568877100944519,Sergio Agüero,h,619,OpenPlay,2014,RightFoot,4437,Manchester City,Southampton,2,0,2015-05-24 15:00:00,,Rebound
+23011,23,MissedShots,0.9630000305175781,0.34700000762939454,0.05858692526817322,Sergio Agüero,h,619,OpenPlay,2014,RightFoot,4437,Manchester City,Southampton,2,0,2015-05-24 15:00:00,,Rebound
+23012,30,Goal,0.91,0.4779999923706055,0.13906650245189667,Frank Lampard,h,4418,OpenPlay,2014,LeftFoot,4437,Manchester City,Southampton,2,0,2015-05-24 15:00:00,James Milner,Pass
+23013,32,SavedShot,0.875,0.415,0.3744441866874695,Sergio Agüero,h,619,OpenPlay,2014,RightFoot,4437,Manchester City,Southampton,2,0,2015-05-24 15:00:00,David Silva,Throughball
+23014,34,MissedShots,0.6990000152587891,0.6619999694824219,0.01345464400947094,Aleksandar Kolarov,h,621,OpenPlay,2014,LeftFoot,4437,Manchester City,Southampton,2,0,2015-05-24 15:00:00,Fernandinho,Pass
+23017,37,MissedShots,0.7559999847412109,0.49,0.010799731127917767,Aleksandar Kolarov,h,621,FromCorner,2014,LeftFoot,4437,Manchester City,Southampton,2,0,2015-05-24 15:00:00,Yaya Touré,HeadPass
+23020,56,SavedShot,0.955999984741211,0.5829999923706055,0.06238619610667229,Frank Lampard,h,4418,OpenPlay,2014,Head,4437,Manchester City,Southampton,2,0,2015-05-24 15:00:00,James Milner,Aerial
+23022,69,MissedShots,0.7719999694824219,0.5379999923706055,0.04195152595639229,David Silva,h,617,OpenPlay,2014,LeftFoot,4437,Manchester City,Southampton,2,0,2015-05-24 15:00:00,,None
+23026,75,MissedShots,0.8590000152587891,0.37400001525878906,0.08872608840465546,Sergio Agüero,h,619,OpenPlay,2014,RightFoot,4437,Manchester City,Southampton,2,0,2015-05-24 15:00:00,Wilfried Bony,Pass
+23028,82,MissedShots,0.720999984741211,0.42700000762939455,0.02400227077305317,Wilfried Bony,h,622,OpenPlay,2014,RightFoot,4437,Manchester City,Southampton,2,0,2015-05-24 15:00:00,Eliaquim Mangala,Pass
+23030,86,BlockedShot,0.9259999847412109,0.655,0.05660503730177879,Sergio Agüero,h,619,FromCorner,2014,LeftFoot,4437,Manchester City,Southampton,2,0,2015-05-24 15:00:00,,None
+23031,86,BlockedShot,0.8769999694824219,0.29399999618530276,0.029073825106024742,Jesús Navas,h,616,FromCorner,2014,RightFoot,4437,Manchester City,Southampton,2,0,2015-05-24 15:00:00,,None
+23032,87,Goal,0.9890000152587891,0.48,0.8675147891044617,Sergio Agüero,h,619,FromCorner,2014,Head,4437,Manchester City,Southampton,2,0,2015-05-24 15:00:00,Eliaquim Mangala,HeadPass
+23005,10,MissedShots,0.9319999694824219,0.49400001525878906,0.07740303128957748,José Fonte,a,834,SetPiece,2014,Head,4437,Manchester City,Southampton,2,0,2015-05-24 15:00:00,Steven Davis,Aerial
+23006,13,MissedShots,0.85,0.47700000762939454,0.02374771609902382,Graziano Pellè,a,841,OpenPlay,2014,OtherBodyPart,4437,Manchester City,Southampton,2,0,2015-05-24 15:00:00,Shane Long,Cross
+23007,19,SavedShot,0.89,0.6559999847412109,0.09085594862699509,Shane Long,a,839,OpenPlay,2014,RightFoot,4437,Manchester City,Southampton,2,0,2015-05-24 15:00:00,,TakeOn
+23015,36,MissedShots,0.9119999694824219,0.4379999923706055,0.06178067997097969,Shane Long,a,839,OpenPlay,2014,LeftFoot,4437,Manchester City,Southampton,2,0,2015-05-24 15:00:00,Nathaniel Clyne,End
+23016,36,BlockedShot,0.7380000305175781,0.44,0.014742509461939335,Sadio Mané,a,838,OpenPlay,2014,RightFoot,4437,Manchester City,Southampton,2,0,2015-05-24 15:00:00,Steven Davis,TakeOn
+23018,44,MissedShots,0.8569999694824219,0.5020000076293946,0.06448106467723846,Graziano Pellè,a,841,OpenPlay,2014,LeftFoot,4437,Manchester City,Southampton,2,0,2015-05-24 15:00:00,Shane Long,None
+23019,45,MissedShots,0.9059999847412109,0.5940000152587891,0.073343425989151,Graziano Pellè,a,841,OpenPlay,2014,LeftFoot,4437,Manchester City,Southampton,2,0,2015-05-24 15:00:00,,None
+23021,66,SavedShot,0.765,0.435,0.03565779700875282,Shane Long,a,839,OpenPlay,2014,RightFoot,4437,Manchester City,Southampton,2,0,2015-05-24 15:00:00,,TakeOn
+23023,71,BlockedShot,0.7280000305175781,0.40200000762939453,0.017638569697737694,James Ward-Prowse,a,843,OpenPlay,2014,RightFoot,4437,Manchester City,Southampton,2,0,2015-05-24 15:00:00,Graziano Pellè,Pass
+23024,71,SavedShot,0.9159999847412109,0.4370000076293945,0.2524324357509613,Sadio Mané,a,838,OpenPlay,2014,Head,4437,Manchester City,Southampton,2,0,2015-05-24 15:00:00,Ryan Bertrand,Cross
+23025,72,SavedShot,0.86,0.7,0.04225144535303116,Shane Long,a,839,OpenPlay,2014,LeftFoot,4437,Manchester City,Southampton,2,0,2015-05-24 15:00:00,Victor Wanyama,TakeOn
+23027,77,BlockedShot,0.7630000305175781,0.5620000076293945,0.011618375778198242,Eljero Elia,a,4367,OpenPlay,2014,RightFoot,4437,Manchester City,Southampton,2,0,2015-05-24 15:00:00,,Aerial
+23029,83,MissedShots,0.7169999694824218,0.4779999923706055,0.009900281205773354,Graziano Pellè,a,841,OpenPlay,2014,LeftFoot,4437,Manchester City,Southampton,2,0,2015-05-24 15:00:00,,Aerial

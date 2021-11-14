@@ -1,0 +1,30 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+351825,0,MissedShots,0.8590000152587891,0.509000015258789,0.022023426368832588,Anwar El Ghazi,h,5612,OpenPlay,2019,Head,11856,Aston Villa,Manchester City,1,6,2020-01-12 16:30:00,Ahmed Elmohamady,Cross
+351835,40,MissedShots,0.8619999694824219,0.7130000305175781,0.0401177816092968,Anwar El Ghazi,h,5612,OpenPlay,2019,RightFoot,11856,Aston Villa,Manchester City,1,6,2020-01-12 16:30:00,Conor Hourihane,Pass
+351849,85,BlockedShot,0.96,0.3139999961853027,0.05888154357671738,Trézéguet,h,7722,OpenPlay,2019,RightFoot,11856,Aston Villa,Manchester City,1,6,2020-01-12 16:30:00,Jack Grealish,TakeOn
+351850,85,BlockedShot,0.89,0.5279999923706055,0.0594557449221611,Anwar El Ghazi,h,5612,FromCorner,2019,RightFoot,11856,Aston Villa,Manchester City,1,6,2020-01-12 16:30:00,Trézéguet,Cross
+351851,86,MissedShots,0.889000015258789,0.5359999847412109,0.04516158625483513,Anwar El Ghazi,h,5612,OpenPlay,2019,Head,11856,Aston Villa,Manchester City,1,6,2020-01-12 16:30:00,Ahmed Elmohamady,Aerial
+351852,86,MissedShots,0.95,0.715,0.13884104788303375,Jack Grealish,h,675,OpenPlay,2019,RightFoot,11856,Aston Villa,Manchester City,1,6,2020-01-12 16:30:00,,TakeOn
+351853,90,Goal,0.885,0.5,0.7611688375473022,Anwar El Ghazi,h,5612,Penalty,2019,RightFoot,11856,Aston Villa,Manchester City,1,6,2020-01-12 16:30:00,,Standard
+351826,7,MissedShots,0.7190000152587891,0.39,0.015168231911957264,João Cancelo,a,2379,OpenPlay,2019,RightFoot,11856,Aston Villa,Manchester City,1,6,2020-01-12 16:30:00,Benjamin Mendy,Pass
+351827,15,SavedShot,0.9169999694824219,0.3160000038146973,0.06266994774341583,Sergio Agüero,a,619,OpenPlay,2019,RightFoot,11856,Aston Villa,Manchester City,1,6,2020-01-12 16:30:00,David Silva,Pass
+351828,17,Goal,0.9030000305175782,0.38599998474121094,0.10478560626506805,Riyad Mahrez,a,750,OpenPlay,2019,LeftFoot,11856,Aston Villa,Manchester City,1,6,2020-01-12 16:30:00,Sergio Agüero,TakeOn
+351829,18,MissedShots,0.789000015258789,0.7030000305175781,0.02142949588596821,Rodri,a,2496,OpenPlay,2019,RightFoot,11856,Aston Villa,Manchester City,1,6,2020-01-12 16:30:00,David Silva,Pass
+351830,23,Goal,0.895,0.46900001525878904,0.43489089608192444,Riyad Mahrez,a,750,OpenPlay,2019,LeftFoot,11856,Aston Villa,Manchester City,1,6,2020-01-12 16:30:00,Gabriel Jesus,BallTouch
+351831,25,MissedShots,0.8880000305175781,0.54,0.13635453581809998,Gabriel Jesus,a,5543,OpenPlay,2019,RightFoot,11856,Aston Villa,Manchester City,1,6,2020-01-12 16:30:00,Benjamin Mendy,Pass
+351832,27,Goal,0.7909999847412109,0.3609999847412109,0.04185071587562561,Sergio Agüero,a,619,OpenPlay,2019,RightFoot,11856,Aston Villa,Manchester City,1,6,2020-01-12 16:30:00,Kevin De Bruyne,Pass
+351833,34,MissedShots,0.9219999694824219,0.32099998474121094,0.07949377596378326,Sergio Agüero,a,619,OpenPlay,2019,RightFoot,11856,Aston Villa,Manchester City,1,6,2020-01-12 16:30:00,João Cancelo,BallTouch
+351834,36,MissedShots,0.7519999694824219,0.39799999237060546,0.058934979140758514,David Silva,a,617,DirectFreekick,2019,LeftFoot,11856,Aston Villa,Manchester City,1,6,2020-01-12 16:30:00,,Standard
+351836,43,MissedShots,0.8090000152587891,0.534000015258789,0.08914814889431,David Silva,a,617,OpenPlay,2019,LeftFoot,11856,Aston Villa,Manchester City,1,6,2020-01-12 16:30:00,,None
+351837,45,Goal,0.9259999847412109,0.585,0.3828146159648895,Gabriel Jesus,a,5543,OpenPlay,2019,LeftFoot,11856,Aston Villa,Manchester City,1,6,2020-01-12 16:30:00,Kevin De Bruyne,Cross
+351838,54,BlockedShot,0.9569999694824218,0.54,0.14139017462730408,Sergio Agüero,a,619,FromCorner,2019,RightFoot,11856,Aston Villa,Manchester City,1,6,2020-01-12 16:30:00,Riyad Mahrez,Cross
+351839,55,SavedShot,0.8280000305175781,0.6580000305175782,0.0456196665763855,Sergio Agüero,a,619,OpenPlay,2019,RightFoot,11856,Aston Villa,Manchester City,1,6,2020-01-12 16:30:00,Kevin De Bruyne,BallRecovery
+351840,56,Goal,0.899000015258789,0.5109999847412109,0.541598916053772,Sergio Agüero,a,619,OpenPlay,2019,RightFoot,11856,Aston Villa,Manchester City,1,6,2020-01-12 16:30:00,David Silva,TakeOn
+351841,63,SavedShot,0.955999984741211,0.6580000305175782,0.10448436439037323,David Silva,a,617,FromCorner,2019,LeftFoot,11856,Aston Villa,Manchester City,1,6,2020-01-12 16:30:00,Sergio Agüero,Throughball
+351842,63,BlockedShot,0.9230000305175782,0.5709999847412109,0.4109269678592682,Gabriel Jesus,a,5543,FromCorner,2019,RightFoot,11856,Aston Villa,Manchester City,1,6,2020-01-12 16:30:00,,Rebound
+351843,68,BlockedShot,0.835,0.5479999923706055,0.09212643653154373,Riyad Mahrez,a,750,OpenPlay,2019,LeftFoot,11856,Aston Villa,Manchester City,1,6,2020-01-12 16:30:00,David Silva,Pass
+351844,70,SavedShot,0.7619999694824219,0.3120000076293945,0.022879794239997864,João Cancelo,a,2379,OpenPlay,2019,RightFoot,11856,Aston Villa,Manchester City,1,6,2020-01-12 16:30:00,Rodri,Pass
+351845,72,MissedShots,0.8130000305175781,0.47200000762939454,0.0819249078631401,Phil Foden,a,6055,OpenPlay,2019,LeftFoot,11856,Aston Villa,Manchester City,1,6,2020-01-12 16:30:00,David Silva,Pass
+351846,77,SavedShot,0.95,0.32599998474121095,0.09424981474876404,Gabriel Jesus,a,5543,OpenPlay,2019,RightFoot,11856,Aston Villa,Manchester City,1,6,2020-01-12 16:30:00,Phil Foden,Pass
+351847,77,MissedShots,0.92,0.5879999923706055,0.42002972960472107,Gabriel Jesus,a,5543,FromCorner,2019,RightFoot,11856,Aston Villa,Manchester City,1,6,2020-01-12 16:30:00,,None
+351848,80,Goal,0.8909999847412109,0.34900001525878904,0.41147246956825256,Sergio Agüero,a,619,OpenPlay,2019,RightFoot,11856,Aston Villa,Manchester City,1,6,2020-01-12 16:30:00,Riyad Mahrez,Throughball

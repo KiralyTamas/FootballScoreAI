@@ -1,0 +1,28 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+387444,5,MissedShots,0.77,0.5779999923706055,0.025668764486908913,Ezequiel Ponce,h,2057,OpenPlay,2020,LeftFoot,14341,Spartak Moscow,Dinamo Moscow,1,1,2020-11-21 16:00:00,,BallRecovery
+387450,20,BlockedShot,0.8809999847412109,0.3240000152587891,0.0303556639701128,Victor Moses,h,541,OpenPlay,2020,LeftFoot,14341,Spartak Moscow,Dinamo Moscow,1,1,2020-11-21 16:00:00,Ayrton Lucas,Cross
+387451,20,BlockedShot,0.7830000305175782,0.36900001525878906,0.020307503640651703,Roman Zobnin,h,2750,OpenPlay,2020,RightFoot,14341,Spartak Moscow,Dinamo Moscow,1,1,2020-11-21 16:00:00,Jordan Larsson,Pass
+387452,25,BlockedShot,0.8440000152587891,0.485,0.0814862847328186,Ezequiel Ponce,h,2057,OpenPlay,2020,RightFoot,14341,Spartak Moscow,Dinamo Moscow,1,1,2020-11-21 16:00:00,Aleksandr Kokorin,Pass
+387454,43,SavedShot,0.8319999694824218,0.24100000381469727,0.01654694974422455,Roman Zobnin,h,2750,OpenPlay,2020,RightFoot,14341,Spartak Moscow,Dinamo Moscow,1,1,2020-11-21 16:00:00,Pavel Maslov,Pass
+387456,47,MissedShots,0.7390000152587891,0.40900001525878904,0.018530743196606636,Alex Kral,h,8017,OpenPlay,2020,LeftFoot,14341,Spartak Moscow,Dinamo Moscow,1,1,2020-11-21 16:00:00,Roman Zobnin,Pass
+387457,51,SavedShot,0.7530000305175781,0.6079999923706054,0.020251300185918808,Ayrton Lucas,h,7475,OpenPlay,2020,RightFoot,14341,Spartak Moscow,Dinamo Moscow,1,1,2020-11-21 16:00:00,Alex Kral,Pass
+387458,52,MissedShots,0.7669999694824219,0.6329999923706054,0.01819511130452156,Roman Zobnin,h,2750,OpenPlay,2020,RightFoot,14341,Spartak Moscow,Dinamo Moscow,1,1,2020-11-21 16:00:00,Giorgi Jikia,Pass
+387461,64,SavedShot,0.889000015258789,0.624000015258789,0.09836690127849579,Roman Zobnin,h,2750,OpenPlay,2020,RightFoot,14341,Spartak Moscow,Dinamo Moscow,1,1,2020-11-21 16:00:00,Jordan Larsson,Pass
+387466,84,SavedShot,0.8819999694824219,0.3940000152587891,0.35493022203445435,Roman Zobnin,h,2750,OpenPlay,2020,RightFoot,14341,Spartak Moscow,Dinamo Moscow,1,1,2020-11-21 16:00:00,,TakeOn
+387467,84,Goal,0.925,0.39799999237060546,0.35669296979904175,Roman Zobnin,h,2750,OpenPlay,2020,RightFoot,14341,Spartak Moscow,Dinamo Moscow,1,1,2020-11-21 16:00:00,,Rebound
+387443,3,SavedShot,0.9209999847412109,0.5720000076293945,0.052850741893053055,Roman Neustädter,a,346,OpenPlay,2020,Head,14341,Spartak Moscow,Dinamo Moscow,1,1,2020-11-21 16:00:00,Ivan Ordets,HeadPass
+387445,7,MissedShots,0.93,0.34,0.048635512590408325,Daniil Fomin,a,5536,OpenPlay,2020,RightFoot,14341,Spartak Moscow,Dinamo Moscow,1,1,2020-11-21 16:00:00,Daniil Lesovoy,Cross
+387446,11,BlockedShot,0.805,0.685,0.020071523264050484,Daniil Lesovoy,a,6793,OpenPlay,2020,RightFoot,14341,Spartak Moscow,Dinamo Moscow,1,1,2020-11-21 16:00:00,Nikola Moro,Chipped
+387447,14,MissedShots,0.8519999694824218,0.3509999847412109,0.04889807477593422,Nikola Moro,a,8626,OpenPlay,2020,RightFoot,14341,Spartak Moscow,Dinamo Moscow,1,1,2020-11-21 16:00:00,,None
+387448,17,SavedShot,0.745,0.5520000076293945,0.01939406245946884,Daniil Fomin,a,5536,OpenPlay,2020,RightFoot,14341,Spartak Moscow,Dinamo Moscow,1,1,2020-11-21 16:00:00,,BallRecovery
+387449,17,SavedShot,0.9319999694824219,0.37099998474121093,0.07475689798593521,Clinton N&#039;Jie,a,960,OpenPlay,2020,RightFoot,14341,Spartak Moscow,Dinamo Moscow,1,1,2020-11-21 16:00:00,Daniil Fomin,Rebound
+387453,41,SavedShot,0.9209999847412109,0.23,0.030230458825826645,Clinton N&#039;Jie,a,960,OpenPlay,2020,RightFoot,14341,Spartak Moscow,Dinamo Moscow,1,1,2020-11-21 16:00:00,Nikola Moro,Pass
+387455,45,ShotOnPost,0.7119999694824218,0.38299999237060545,0.01272282749414444,Nikola Moro,a,8626,OpenPlay,2020,RightFoot,14341,Spartak Moscow,Dinamo Moscow,1,1,2020-11-21 16:00:00,Daniil Lesovoy,Pass
+387459,57,BlockedShot,0.7669999694824219,0.5820000076293945,0.01904422976076603,Dmitrii Skopintcev,a,5526,OpenPlay,2020,LeftFoot,14341,Spartak Moscow,Dinamo Moscow,1,1,2020-11-21 16:00:00,Nikolay Komlichenko,Pass
+387460,63,SavedShot,0.88,0.6419999694824219,0.04863608255982399,Dmitrii Skopintcev,a,5526,OpenPlay,2020,LeftFoot,14341,Spartak Moscow,Dinamo Moscow,1,1,2020-11-21 16:00:00,Daniil Lesovoy,Cross
+387462,67,MissedShots,0.7080000305175781,0.47299999237060547,0.012515554204583168,Nikolay Komlichenko,a,3015,OpenPlay,2020,RightFoot,14341,Spartak Moscow,Dinamo Moscow,1,1,2020-11-21 16:00:00,Guillermo Varela,BallRecovery
+387463,70,MissedShots,0.7480000305175781,0.40700000762939453,0.022194206714630127,Vyacheslav Grulev,a,6611,OpenPlay,2020,RightFoot,14341,Spartak Moscow,Dinamo Moscow,1,1,2020-11-21 16:00:00,Nikola Moro,Pass
+387464,76,SavedShot,0.9459999847412109,0.7230000305175781,0.04812552407383919,Dmitrii Skopintcev,a,5526,OpenPlay,2020,LeftFoot,14341,Spartak Moscow,Dinamo Moscow,1,1,2020-11-21 16:00:00,Daniil Lesovoy,Pass
+387465,78,Goal,0.6830000305175781,0.4159999847412109,0.008965102024376392,Dmitrii Skopintcev,a,5526,OpenPlay,2020,LeftFoot,14341,Spartak Moscow,Dinamo Moscow,1,1,2020-11-21 16:00:00,,None
+387468,86,SavedShot,0.7169999694824218,0.35400001525878905,0.008149255998432636,Nikola Moro,a,8626,OpenPlay,2020,RightFoot,14341,Spartak Moscow,Dinamo Moscow,1,1,2020-11-21 16:00:00,Daniil Lesovoy,Chipped
+387469,91,SavedShot,0.7480000305175781,0.735999984741211,0.015100021846592426,Daniil Fomin,a,5536,OpenPlay,2020,LeftFoot,14341,Spartak Moscow,Dinamo Moscow,1,1,2020-11-21 16:00:00,Dmitrii Skopintcev,Pass

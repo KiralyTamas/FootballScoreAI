@@ -1,0 +1,25 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+129627,15,MissedShots,0.7519999694824219,0.6079999923706054,0.013196378946304321,Michael Gregoritsch,h,171,SetPiece,2016,LeftFoot,2807,Hamburger SV,Borussia Dortmund,2,5,2016-11-05 18:30:00,,None
+129629,24,MissedShots,0.7319999694824219,0.5670000076293945,0.009637347422540188,Gotoku Sakai,h,164,SetPiece,2016,RightFoot,2807,Hamburger SV,Borussia Dortmund,2,5,2016-11-05 18:30:00,,Aerial
+129632,32,MissedShots,0.915,0.49700000762939456,0.09720668196678162,Emir Spahic,h,165,FromCorner,2016,Head,2807,Hamburger SV,Borussia Dortmund,2,5,2016-11-05 18:30:00,Michael Gregoritsch,Cross
+129633,40,MissedShots,0.9219999694824219,0.37900001525878907,0.03314865380525589,Nicolai Müller,h,170,OpenPlay,2016,Head,2807,Hamburger SV,Borussia Dortmund,2,5,2016-11-05 18:30:00,Dennis Diekmeier,Cross
+129634,45,SavedShot,0.9080000305175782,0.5629999923706055,0.05061117932200432,Nicolai Müller,h,170,OpenPlay,2016,Head,2807,Hamburger SV,Borussia Dortmund,2,5,2016-11-05 18:30:00,Dennis Diekmeier,Aerial
+129635,45,SavedShot,0.9230000305175782,0.870999984741211,0.015872014686465263,Nicolai Müller,h,170,OpenPlay,2016,LeftFoot,2807,Hamburger SV,Borussia Dortmund,2,5,2016-11-05 18:30:00,Michael Gregoritsch,Pass
+129638,50,BlockedShot,0.755,0.524000015258789,0.0253047663718462,Gotoku Sakai,h,164,OpenPlay,2016,RightFoot,2807,Hamburger SV,Borussia Dortmund,2,5,2016-11-05 18:30:00,,TakeOn
+129639,54,Goal,0.8390000152587891,0.605999984741211,0.22499577701091766,Nicolai Müller,h,170,OpenPlay,2016,LeftFoot,2807,Hamburger SV,Borussia Dortmund,2,5,2016-11-05 18:30:00,Gian-Luca Waldschmidt,HeadPass
+129640,57,MissedShots,0.9619999694824218,0.5879999923706055,0.08069451153278351,Gian-Luca Waldschmidt,h,294,FromCorner,2016,LeftFoot,2807,Hamburger SV,Borussia Dortmund,2,5,2016-11-05 18:30:00,Michael Gregoritsch,Cross
+129641,63,SavedShot,0.9290000152587891,0.6819999694824219,0.05833332985639572,Gian-Luca Waldschmidt,h,294,OpenPlay,2016,LeftFoot,2807,Hamburger SV,Borussia Dortmund,2,5,2016-11-05 18:30:00,Douglas Santos,Pass
+129642,63,SavedShot,0.764000015258789,0.34200000762939453,0.0184859000146389,Gotoku Sakai,h,164,OpenPlay,2016,LeftFoot,2807,Hamburger SV,Borussia Dortmund,2,5,2016-11-05 18:30:00,Gideon Jung,Pass
+129644,80,Goal,0.779000015258789,0.42700000762939455,0.0337173230946064,Nicolai Müller,h,170,OpenPlay,2016,RightFoot,2807,Hamburger SV,Borussia Dortmund,2,5,2016-11-05 18:30:00,Albin Ekdal,Pass
+129647,87,MissedShots,0.705,0.5370000076293945,0.0420670285820961,Michael Gregoritsch,h,171,DirectFreekick,2016,LeftFoot,2807,Hamburger SV,Borussia Dortmund,2,5,2016-11-05 18:30:00,,Standard
+129648,89,MissedShots,0.7290000152587891,0.4620000076293945,0.012990619987249374,Nicolai Müller,h,170,OpenPlay,2016,RightFoot,2807,Hamburger SV,Borussia Dortmund,2,5,2016-11-05 18:30:00,Gotoku Sakai,TakeOn
+129625,3,SavedShot,0.8859999847412109,0.5479999923706055,0.3951663374900818,Emre Mor,a,5272,OpenPlay,2016,LeftFoot,2807,Hamburger SV,Borussia Dortmund,2,5,2016-11-05 18:30:00,Christian Pulisic,Pass
+129626,3,Goal,0.9619999694824218,0.46599998474121096,0.6728380918502808,Pierre-Emerick Aubameyang,a,318,OpenPlay,2016,LeftFoot,2807,Hamburger SV,Borussia Dortmund,2,5,2016-11-05 18:30:00,,Rebound
+129628,22,Goal,0.915,0.4929999923706055,0.5350131392478943,Pierre-Emerick Aubameyang,a,318,OpenPlay,2016,RightFoot,2807,Hamburger SV,Borussia Dortmund,2,5,2016-11-05 18:30:00,Emre Mor,Pass
+129630,26,MissedShots,0.8780000305175781,0.5629999923706055,0.10259833186864853,Christian Pulisic,a,2662,OpenPlay,2016,RightFoot,2807,Hamburger SV,Borussia Dortmund,2,5,2016-11-05 18:30:00,Pierre-Emerick Aubameyang,BallTouch
+129631,26,Goal,0.8580000305175781,0.5779999923706055,0.20520742237567902,Pierre-Emerick Aubameyang,a,318,OpenPlay,2016,LeftFoot,2807,Hamburger SV,Borussia Dortmund,2,5,2016-11-05 18:30:00,Marc Bartra,BallRecovery
+129636,47,Goal,0.8480000305175781,0.32599998474121095,0.0679643526673317,Pierre-Emerick Aubameyang,a,318,OpenPlay,2016,RightFoot,2807,Hamburger SV,Borussia Dortmund,2,5,2016-11-05 18:30:00,Christian Pulisic,Pass
+129637,49,MissedShots,0.9340000152587891,0.6630000305175782,0.34155845642089844,Pierre-Emerick Aubameyang,a,318,OpenPlay,2016,RightFoot,2807,Hamburger SV,Borussia Dortmund,2,5,2016-11-05 18:30:00,,TakeOn
+129643,75,Goal,0.8780000305175781,0.4329999923706055,0.4884850084781647,Ousmane Dembélé,a,3226,OpenPlay,2016,LeftFoot,2807,Hamburger SV,Borussia Dortmund,2,5,2016-11-05 18:30:00,Pierre-Emerick Aubameyang,Throughball
+129645,83,MissedShots,0.88,0.5509999847412109,0.2989501357078552,André Schürrle,a,154,OpenPlay,2016,RightFoot,2807,Hamburger SV,Borussia Dortmund,2,5,2016-11-05 18:30:00,Pierre-Emerick Aubameyang,Cross
+129646,85,MissedShots,0.905,0.5320000076293945,0.043940719217061996,Matthias Ginter,a,315,SetPiece,2016,OtherBodyPart,2807,Hamburger SV,Borussia Dortmund,2,5,2016-11-05 18:30:00,Gonzalo Castro,Aerial

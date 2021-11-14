@@ -1,0 +1,19 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+35760,15,BlockedShot,0.8680000305175781,0.24600000381469728,0.028376776725053787,Gerard Deulofeu,h,591,OpenPlay,2014,RightFoot,5782,Sevilla,Villarreal,2,1,2014-10-26 18:00:00,Kevin Gameiro,Pass
+35762,23,SavedShot,0.889000015258789,0.30700000762939456,0.05528748035430908,Coke,h,2073,OpenPlay,2014,LeftFoot,5782,Sevilla,Villarreal,2,1,2014-10-26 18:00:00,Gerard Deulofeu,Pass
+35764,34,BlockedShot,0.7619999694824219,0.36900001525878906,0.014168418012559414,Coke,h,2073,SetPiece,2014,RightFoot,5782,Sevilla,Villarreal,2,1,2014-10-26 18:00:00,,None
+35768,47,BlockedShot,0.8630000305175781,0.33099998474121095,0.045837175101041794,Kevin Gameiro,h,2442,OpenPlay,2014,RightFoot,5782,Sevilla,Villarreal,2,1,2014-10-26 18:00:00,Gerard Deulofeu,Pass
+35771,63,SavedShot,0.78,0.7680000305175781,0.020457876846194267,Benoît Trémoulinas,h,2510,OpenPlay,2014,LeftFoot,5782,Sevilla,Villarreal,2,1,2014-10-26 18:00:00,Denis Suárez,Pass
+35773,76,MissedShots,0.855999984741211,0.26399999618530273,0.05055704712867737,Aleix Vidal,h,2103,OpenPlay,2014,RightFoot,5782,Sevilla,Villarreal,2,1,2014-10-26 18:00:00,Iago Aspas,Pass
+35775,87,Goal,0.8780000305175781,0.46299999237060546,0.07215898483991623,Denis Suárez,h,2308,OpenPlay,2014,LeftFoot,5782,Sevilla,Villarreal,2,1,2014-10-26 18:00:00,,None
+35776,92,Goal,0.885,0.5,0.7432776093482971,Carlos Bacca,h,1125,Penalty,2014,RightFoot,5782,Sevilla,Villarreal,2,1,2014-10-26 18:00:00,,Standard
+35759,6,MissedShots,0.8040000152587891,0.29399999618530276,0.024519797414541245,Denis Cheryshev,a,2494,OpenPlay,2014,LeftFoot,5782,Sevilla,Villarreal,2,1,2014-10-26 18:00:00,Moi Gómez,Pass
+35761,18,MissedShots,0.765,0.5990000152587891,0.02254876308143139,Bruno,a,2302,OpenPlay,2014,LeftFoot,5782,Sevilla,Villarreal,2,1,2014-10-26 18:00:00,Ikechukwu Uche,Pass
+35763,29,SavedShot,0.8140000152587891,0.47900001525878905,0.05441153794527054,Giovani dos Santos,a,4101,OpenPlay,2014,RightFoot,5782,Sevilla,Villarreal,2,1,2014-10-26 18:00:00,Manu Trigueros,Pass
+35765,43,SavedShot,0.7119999694824218,0.47099998474121096,0.04852668195962906,Manu Trigueros,a,2301,DirectFreekick,2014,RightFoot,5782,Sevilla,Villarreal,2,1,2014-10-26 18:00:00,,Standard
+35766,43,SavedShot,0.93,0.39,0.39305463433265686,Ikechukwu Uche,a,2349,SetPiece,2014,RightFoot,5782,Sevilla,Villarreal,2,1,2014-10-26 18:00:00,,Rebound
+35767,45,BlockedShot,0.7559999847412109,0.7519999694824219,0.0431048758327961,Manu Trigueros,a,2301,DirectFreekick,2014,RightFoot,5782,Sevilla,Villarreal,2,1,2014-10-26 18:00:00,,Standard
+35769,52,MissedShots,0.9519999694824218,0.41,0.0527532733976841,Giovani dos Santos,a,4101,OpenPlay,2014,Head,5782,Sevilla,Villarreal,2,1,2014-10-26 18:00:00,Mario,Aerial
+35770,54,MissedShots,0.8490000152587891,0.5479999923706055,0.35756030678749084,Ikechukwu Uche,a,2349,OpenPlay,2014,RightFoot,5782,Sevilla,Villarreal,2,1,2014-10-26 18:00:00,Moi Gómez,Throughball
+35772,68,MissedShots,0.7240000152587891,0.4279999923706055,0.015485739335417747,Luciano Vietto,a,2274,OpenPlay,2014,RightFoot,5782,Sevilla,Villarreal,2,1,2014-10-26 18:00:00,Manu Trigueros,BallRecovery
+35774,78,Goal,0.8919999694824219,0.5940000152587891,0.3730083703994751,Luciano Vietto,a,2274,OpenPlay,2014,LeftFoot,5782,Sevilla,Villarreal,2,1,2014-10-26 18:00:00,Cani,Throughball

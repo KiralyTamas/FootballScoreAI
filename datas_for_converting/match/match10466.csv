@@ -1,0 +1,25 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+256889,10,MissedShots,0.755,0.5770000076293945,0.017636703327298164,Emiliano Insúa,h,59,FromCorner,2018,LeftFoot,10466,VfB Stuttgart,Hertha Berlin,2,1,2018-12-15 14:30:00,,None
+256891,20,BlockedShot,0.755,0.639000015258789,0.01860390417277813,Nicolás González,h,7074,OpenPlay,2018,LeftFoot,10466,VfB Stuttgart,Hertha Berlin,2,1,2018-12-15 14:30:00,Chadrac Akolo,TakeOn
+256897,41,MissedShots,0.8769999694824219,0.9380000305175781,0.007845140062272549,Nicolás González,h,7074,OpenPlay,2018,LeftFoot,10466,VfB Stuttgart,Hertha Berlin,2,1,2018-12-15 14:30:00,Timo Baumgartl,Chipped
+256898,47,MissedShots,0.755,0.534000015258789,0.02112681046128273,Gonzalo Castro,h,316,FromCorner,2018,LeftFoot,10466,VfB Stuttgart,Hertha Berlin,2,1,2018-12-15 14:30:00,,BallTouch
+256900,56,MissedShots,0.82,0.705,0.02504042163491249,Chadrac Akolo,h,6089,OpenPlay,2018,RightFoot,10466,VfB Stuttgart,Hertha Berlin,2,1,2018-12-15 14:30:00,,None
+256903,63,Goal,0.97,0.47900001525878905,0.6507259011268616,Mario Gomez,h,3887,OpenPlay,2018,RightFoot,10466,VfB Stuttgart,Hertha Berlin,2,1,2018-12-15 14:30:00,Nicolás González,HeadPass
+256904,73,SavedShot,0.9069999694824219,0.515,0.31026309728622437,Chadrac Akolo,h,6089,OpenPlay,2018,Head,10466,VfB Stuttgart,Hertha Berlin,2,1,2018-12-15 14:30:00,Emiliano Insúa,Cross
+256905,75,Goal,0.9130000305175782,0.5640000152587891,0.2773324251174927,Mario Gomez,h,3887,OpenPlay,2018,Head,10466,VfB Stuttgart,Hertha Berlin,2,1,2018-12-15 14:30:00,Christian Gentner,Cross
+256909,89,SavedShot,0.8859999847412109,0.62,0.10949525237083435,Borna Sosa,h,7075,OpenPlay,2018,RightFoot,10466,VfB Stuttgart,Hertha Berlin,2,1,2018-12-15 14:30:00,Mario Gomez,Pass
+256888,8,MissedShots,0.909000015258789,0.664000015258789,0.09524097293615341,Maximilian Mittelstädt,a,419,OpenPlay,2018,LeftFoot,10466,VfB Stuttgart,Hertha Berlin,2,1,2018-12-15 14:30:00,,TakeOn
+256890,13,MissedShots,0.8769999694824219,0.75,0.02915709838271141,Maximilian Mittelstädt,a,419,OpenPlay,2018,LeftFoot,10466,VfB Stuttgart,Hertha Berlin,2,1,2018-12-15 14:30:00,Vedad Ibisevic,Pass
+256892,25,MissedShots,0.865999984741211,0.6530000305175782,0.009289023466408253,Maximilian Mittelstädt,a,419,OpenPlay,2018,Head,10466,VfB Stuttgart,Hertha Berlin,2,1,2018-12-15 14:30:00,Mathew Leckie,Aerial
+256893,28,MissedShots,0.909000015258789,0.5179999923706055,0.488434761762619,Vedad Ibisevic,a,29,OpenPlay,2018,RightFoot,10466,VfB Stuttgart,Hertha Berlin,2,1,2018-12-15 14:30:00,,None
+256894,30,BlockedShot,0.865,0.7319999694824219,0.031753506511449814,Davie Selke,a,4280,OpenPlay,2018,RightFoot,10466,VfB Stuttgart,Hertha Berlin,2,1,2018-12-15 14:30:00,Per Skjelbred,Pass
+256895,30,MissedShots,0.9130000305175782,0.44,0.10144185274839401,Mathew Leckie,a,241,OpenPlay,2018,Head,10466,VfB Stuttgart,Hertha Berlin,2,1,2018-12-15 14:30:00,Maximilian Mittelstädt,Cross
+256896,37,Goal,0.9119999694824219,0.595999984741211,0.4078984260559082,Maximilian Mittelstädt,a,419,OpenPlay,2018,LeftFoot,10466,VfB Stuttgart,Hertha Berlin,2,1,2018-12-15 14:30:00,,None
+256899,52,MissedShots,0.7440000152587891,0.4929999923706055,0.03008926287293434,Maximilian Mittelstädt,a,419,OpenPlay,2018,LeftFoot,10466,VfB Stuttgart,Hertha Berlin,2,1,2018-12-15 14:30:00,,BallRecovery
+256901,57,SavedShot,0.8959999847412109,0.5279999923706055,0.11808909475803375,Vedad Ibisevic,a,29,OpenPlay,2018,Head,10466,VfB Stuttgart,Hertha Berlin,2,1,2018-12-15 14:30:00,Marvin Plattenhardt,Cross
+256902,57,MissedShots,0.8030000305175782,0.5129999923706055,0.03399529680609703,Vladimir Darida,a,27,FromCorner,2018,RightFoot,10466,VfB Stuttgart,Hertha Berlin,2,1,2018-12-15 14:30:00,,None
+256906,87,BlockedShot,0.8380000305175781,0.6430000305175781,0.051775794476270676,Pascal Köpke,a,7029,OpenPlay,2018,RightFoot,10466,VfB Stuttgart,Hertha Berlin,2,1,2018-12-15 14:30:00,Davie Selke,HeadPass
+256907,87,SavedShot,0.919000015258789,0.515,0.05163154751062393,Davie Selke,a,4280,OpenPlay,2018,Head,10466,VfB Stuttgart,Hertha Berlin,2,1,2018-12-15 14:30:00,Maximilian Mittelstädt,Aerial
+256908,88,MissedShots,0.764000015258789,0.33599998474121096,0.015987427905201912,Valentino Lazaro,a,6352,FromCorner,2018,RightFoot,10466,VfB Stuttgart,Hertha Berlin,2,1,2018-12-15 14:30:00,,None
+256910,89,MissedShots,0.72,0.34299999237060547,0.013832570053637028,Ondrej Duda,a,5240,OpenPlay,2018,RightFoot,10466,VfB Stuttgart,Hertha Berlin,2,1,2018-12-15 14:30:00,Davie Selke,LayOff
+256911,91,MissedShots,0.9319999694824219,0.67,0.05857514962553978,Davie Selke,a,4280,OpenPlay,2018,LeftFoot,10466,VfB Stuttgart,Hertha Berlin,2,1,2018-12-15 14:30:00,Maximilian Mittelstädt,Pass

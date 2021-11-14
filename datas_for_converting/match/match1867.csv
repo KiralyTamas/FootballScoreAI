@@ -1,0 +1,23 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+136746,7,BlockedShot,0.89,0.5479999923706055,0.033093295991420746,Roberto Soriano,h,1810,OpenPlay,2016,Head,1867,Villarreal,Las Palmas,2,1,2016-10-23 20:30:00,Mario,Aerial
+136747,8,ShotOnPost,0.8119999694824219,0.36700000762939455,0.030459385365247726,Jonathan dos Santos,h,2307,OpenPlay,2016,RightFoot,1867,Villarreal,Las Palmas,2,1,2016-10-23 20:30:00,,Rebound
+136752,33,MissedShots,0.705,0.3920000076293945,0.01506673451513052,Manu Trigueros,h,2301,OpenPlay,2016,RightFoot,1867,Villarreal,Las Palmas,2,1,2016-10-23 20:30:00,Nicola Sansone,Pass
+136754,41,BlockedShot,0.875999984741211,0.24399999618530274,0.026928843930363655,Mario,h,2296,OpenPlay,2016,RightFoot,1867,Villarreal,Las Palmas,2,1,2016-10-23 20:30:00,Víctor Ruiz,Chipped
+136755,41,MissedShots,0.88,0.515,0.09130485355854034,Manu Trigueros,h,2301,OpenPlay,2016,RightFoot,1867,Villarreal,Las Palmas,2,1,2016-10-23 20:30:00,,Rebound
+136756,47,BlockedShot,0.765,0.5540000152587891,0.027894066646695137,Jonathan dos Santos,h,2307,OpenPlay,2016,RightFoot,1867,Villarreal,Las Palmas,2,1,2016-10-23 20:30:00,Cédric Bakambu,Pass
+136757,47,BlockedShot,0.805,0.5309999847412109,0.043850839138031006,Jonathan dos Santos,h,2307,OpenPlay,2016,LeftFoot,1867,Villarreal,Las Palmas,2,1,2016-10-23 20:30:00,,Rebound
+136758,50,MissedShots,0.8540000152587891,0.44799999237060545,0.07655322551727295,Manu Trigueros,h,2301,OpenPlay,2016,LeftFoot,1867,Villarreal,Las Palmas,2,1,2016-10-23 20:30:00,Roberto Soriano,Pass
+136759,51,SavedShot,0.7730000305175782,0.5720000076293945,0.02662169560790062,Manu Trigueros,h,2301,OpenPlay,2016,LeftFoot,1867,Villarreal,Las Palmas,2,1,2016-10-23 20:30:00,,None
+136761,56,SavedShot,0.8530000305175781,0.3270000076293945,0.043429866433143616,Mario,h,2296,OpenPlay,2016,RightFoot,1867,Villarreal,Las Palmas,2,1,2016-10-23 20:30:00,Roberto Soriano,Pass
+136762,63,Goal,0.885,0.5,0.7432776093482971,Nicola Sansone,h,1826,Penalty,2016,RightFoot,1867,Villarreal,Las Palmas,2,1,2016-10-23 20:30:00,,Standard
+136764,76,MissedShots,0.9080000305175782,0.4640000152587891,0.09998851269483566,Cédric Bakambu,h,2306,OpenPlay,2016,RightFoot,1867,Villarreal,Las Palmas,2,1,2016-10-23 20:30:00,Samu Castillejo,Cross
+136765,82,MissedShots,0.74,0.4759999847412109,0.01601019874215126,Roberto Soriano,h,1810,OpenPlay,2016,RightFoot,1867,Villarreal,Las Palmas,2,1,2016-10-23 20:30:00,,None
+136766,91,Goal,0.88,0.44299999237060544,0.40315505862236023,Cédric Bakambu,h,2306,OpenPlay,2016,RightFoot,1867,Villarreal,Las Palmas,2,1,2016-10-23 20:30:00,Roberto Soriano,Throughball
+136748,15,BlockedShot,0.7730000305175782,0.43599998474121093,0.03010699339210987,David García,a,2352,OpenPlay,2016,RightFoot,1867,Villarreal,Las Palmas,2,1,2016-10-23 20:30:00,Jonathan Viera,Pass
+136749,23,SavedShot,0.8530000305175781,0.38299999237060545,0.06543843448162079,Jonathan Viera,a,2358,OpenPlay,2016,RightFoot,1867,Villarreal,Las Palmas,2,1,2016-10-23 20:30:00,Sergio Araujo,Pass
+136750,26,MissedShots,0.95,0.4909999847412109,0.144575297832489,Kevin-Prince Boateng,a,1819,OpenPlay,2016,RightFoot,1867,Villarreal,Las Palmas,2,1,2016-10-23 20:30:00,Míchel Macedo,Pass
+136751,30,Goal,0.8830000305175781,0.5279999923706055,0.0962381437420845,Kevin-Prince Boateng,a,1819,OpenPlay,2016,RightFoot,1867,Villarreal,Las Palmas,2,1,2016-10-23 20:30:00,Tana,Chipped
+136753,36,MissedShots,0.784000015258789,0.3120000076293945,0.019008414819836617,Tana,a,2359,OpenPlay,2016,LeftFoot,1867,Villarreal,Las Palmas,2,1,2016-10-23 20:30:00,Míchel Macedo,HeadPass
+136760,56,SavedShot,0.9259999847412109,0.67,0.0902770608663559,Tana,a,2359,OpenPlay,2016,LeftFoot,1867,Villarreal,Las Palmas,2,1,2016-10-23 20:30:00,Dani Castellano,Pass
+136763,75,SavedShot,0.9330000305175781,0.7019999694824218,0.04233216494321823,Dani Castellano,a,2355,OpenPlay,2016,LeftFoot,1867,Villarreal,Las Palmas,2,1,2016-10-23 20:30:00,Kevin-Prince Boateng,Pass
+136767,95,MissedShots,0.97,0.6,0.047723833471536636,Pedro Bigas,a,2353,OpenPlay,2016,Head,1867,Villarreal,Las Palmas,2,1,2016-10-23 20:30:00,Tyronne,Chipped

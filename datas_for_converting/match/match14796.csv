@@ -1,0 +1,31 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+423341,8,BlockedShot,0.8330000305175781,0.3160000038146973,0.030387327075004578,Matthew Lowton,h,1652,OpenPlay,2020,RightFoot,14796,Burnley,Liverpool,0,3,2021-05-19 19:15:00,Chris Wood,Pass
+423344,25,MissedShots,0.9169999694824219,0.3920000076293945,0.288066029548645,Chris Wood,h,4456,OpenPlay,2020,RightFoot,14796,Burnley,Liverpool,0,3,2021-05-19 19:15:00,Matthew Lowton,Chipped
+423348,37,BlockedShot,0.92,0.30700000762939456,0.0476219616830349,Josh Brownhill,h,8323,OpenPlay,2020,RightFoot,14796,Burnley,Liverpool,0,3,2021-05-19 19:15:00,Will Norris,Chipped
+423349,38,SavedShot,0.7959999847412109,0.6780000305175782,0.019692437723279,Dwight McNeil,h,6756,OpenPlay,2020,LeftFoot,14796,Burnley,Liverpool,0,3,2021-05-19 19:15:00,Ashley Westwood,Pass
+423350,38,MissedShots,0.7480000305175781,0.24799999237060547,0.012386740185320377,Matthew Lowton,h,1652,OpenPlay,2020,RightFoot,14796,Burnley,Liverpool,0,3,2021-05-19 19:15:00,,BallRecovery
+423356,45,SavedShot,0.8669999694824219,0.6840000152587891,0.045729245990514755,Chris Wood,h,4456,OpenPlay,2020,RightFoot,14796,Burnley,Liverpool,0,3,2021-05-19 19:15:00,Josh Brownhill,Pass
+423360,63,SavedShot,0.799000015258789,0.42200000762939455,0.049578480422496796,Josh Brownhill,h,8323,OpenPlay,2020,RightFoot,14796,Burnley,Liverpool,0,3,2021-05-19 19:15:00,Chris Wood,Pass
+423361,64,BlockedShot,0.9109999847412109,0.47200000762939454,0.05838869512081146,Chris Wood,h,4456,OpenPlay,2020,Head,14796,Burnley,Liverpool,0,3,2021-05-19 19:15:00,Johann Berg Gudmundsson,Aerial
+423363,68,BlockedShot,0.9819999694824219,0.575,0.2727097272872925,Ben Mee,h,1654,FromCorner,2020,Head,14796,Burnley,Liverpool,0,3,2021-05-19 19:15:00,Dwight McNeil,Cross
+423365,72,MissedShots,0.9619999694824218,0.615999984741211,0.012487133964896202,Ben Mee,h,1654,FromCorner,2020,Head,14796,Burnley,Liverpool,0,3,2021-05-19 19:15:00,Dwight McNeil,Aerial
+423338,1,BlockedShot,0.8590000152587891,0.6419999694824219,0.1442815065383911,Mohamed Salah,a,1250,OpenPlay,2020,LeftFoot,14796,Burnley,Liverpool,0,3,2021-05-19 19:15:00,Andrew Robertson,Throughball
+423339,2,BlockedShot,0.7680000305175781,0.30700000762939456,0.019617917016148567,Trent Alexander-Arnold,a,1791,OpenPlay,2020,RightFoot,14796,Burnley,Liverpool,0,3,2021-05-19 19:15:00,Roberto Firmino,Pass
+423340,2,MissedShots,0.9530000305175781,0.5259999847412109,0.6368748545646667,Sadio Mané,a,838,OpenPlay,2020,LeftFoot,14796,Burnley,Liverpool,0,3,2021-05-19 19:15:00,,Rebound
+423342,14,BlockedShot,0.87,0.74,0.03261050954461098,Andrew Robertson,a,1688,OpenPlay,2020,LeftFoot,14796,Burnley,Liverpool,0,3,2021-05-19 19:15:00,Georginio Wijnaldum,Pass
+423343,15,MissedShots,0.9219999694824219,0.5059999847412109,0.14440883696079254,Roberto Firmino,a,482,OpenPlay,2020,RightFoot,14796,Burnley,Liverpool,0,3,2021-05-19 19:15:00,Sadio Mané,Pass
+423345,28,MissedShots,0.9290000152587891,0.3890000152587891,0.3844989836215973,Thiago Alcántara,a,229,OpenPlay,2020,RightFoot,14796,Burnley,Liverpool,0,3,2021-05-19 19:15:00,Mohamed Salah,Throughball
+423346,29,MissedShots,0.909000015258789,0.5770000076293945,0.2997320294380188,Mohamed Salah,a,1250,OpenPlay,2020,LeftFoot,14796,Burnley,Liverpool,0,3,2021-05-19 19:15:00,Andrew Robertson,Chipped
+423347,36,MissedShots,0.7230000305175781,0.6990000152587891,0.034969262778759,Trent Alexander-Arnold,a,1791,DirectFreekick,2020,RightFoot,14796,Burnley,Liverpool,0,3,2021-05-19 19:15:00,,Standard
+423351,39,BlockedShot,0.889000015258789,0.45599998474121095,0.11985155194997787,Sadio Mané,a,838,OpenPlay,2020,RightFoot,14796,Burnley,Liverpool,0,3,2021-05-19 19:15:00,Mohamed Salah,Pass
+423352,39,BlockedShot,0.9290000152587891,0.27,0.03176763281226158,Trent Alexander-Arnold,a,1791,OpenPlay,2020,RightFoot,14796,Burnley,Liverpool,0,3,2021-05-19 19:15:00,,Rebound
+423353,40,MissedShots,0.9030000305175782,0.4759999847412109,0.07355093210935593,Nathaniel Phillips,a,8228,FromCorner,2020,Head,14796,Burnley,Liverpool,0,3,2021-05-19 19:15:00,Trent Alexander-Arnold,Cross
+423354,40,MissedShots,0.899000015258789,0.500999984741211,0.1033591777086258,Nathaniel Phillips,a,8228,FromCorner,2020,RightFoot,14796,Burnley,Liverpool,0,3,2021-05-19 19:15:00,Rhys Williams,HeadPass
+423355,42,Goal,0.8719999694824219,0.47,0.079051673412323,Roberto Firmino,a,482,OpenPlay,2020,RightFoot,14796,Burnley,Liverpool,0,3,2021-05-19 19:15:00,Andrew Robertson,Cross
+423357,49,MissedShots,0.905,0.3629999923706055,0.11021332442760468,Mohamed Salah,a,1250,OpenPlay,2020,LeftFoot,14796,Burnley,Liverpool,0,3,2021-05-19 19:15:00,Sadio Mané,Pass
+423358,51,Goal,0.9159999847412109,0.4879999923706055,0.05718934163451195,Nathaniel Phillips,a,8228,FromCorner,2020,Head,14796,Burnley,Liverpool,0,3,2021-05-19 19:15:00,Sadio Mané,Chipped
+423359,53,BlockedShot,0.77,0.40299999237060546,0.028975505381822586,Thiago Alcántara,a,229,OpenPlay,2020,RightFoot,14796,Burnley,Liverpool,0,3,2021-05-19 19:15:00,Sadio Mané,Pass
+423362,64,MissedShots,0.8690000152587891,0.4909999847412109,0.3372555077075958,Mohamed Salah,a,1250,OpenPlay,2020,LeftFoot,14796,Burnley,Liverpool,0,3,2021-05-19 19:15:00,Roberto Firmino,Pass
+423364,69,BlockedShot,0.754000015258789,0.5429999923706055,0.026917707175016403,Fabinho,a,3420,OpenPlay,2020,RightFoot,14796,Burnley,Liverpool,0,3,2021-05-19 19:15:00,Roberto Firmino,Pass
+423366,85,BlockedShot,0.765,0.5509999847412109,0.033716101199388504,Sadio Mané,a,838,OpenPlay,2020,LeftFoot,14796,Burnley,Liverpool,0,3,2021-05-19 19:15:00,Trent Alexander-Arnold,Pass
+423367,87,Goal,0.895,0.6619999694824219,0.05061464384198189,Alex Oxlade-Chamberlain,a,966,FromCorner,2020,LeftFoot,14796,Burnley,Liverpool,0,3,2021-05-19 19:15:00,Andrew Robertson,Pass

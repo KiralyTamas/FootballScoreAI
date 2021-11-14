@@ -1,0 +1,35 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+301266,3,ShotOnPost,0.784000015258789,0.6609999847412109,0.022592779248952866,Luka Milivojevic,h,5549,OpenPlay,2018,RightFoot,9574,Crystal Palace,Bournemouth,5,3,2019-05-12 14:00:00,Max Meyer,Pass
+301267,17,MissedShots,0.715999984741211,0.6419999694824219,0.018320241943001747,Andros Townsend,h,775,OpenPlay,2018,LeftFoot,9574,Crystal Palace,Bournemouth,5,3,2019-05-12 14:00:00,Luka Milivojevic,Pass
+301269,23,Goal,0.9530000305175781,0.509000015258789,0.6179579496383667,Michy Batshuayi,h,1678,OpenPlay,2018,RightFoot,9574,Crystal Palace,Bournemouth,5,3,2019-05-12 14:00:00,,None
+301270,28,BlockedShot,0.8490000152587891,0.6940000152587891,0.053999267518520355,Max Meyer,h,338,OpenPlay,2018,LeftFoot,9574,Crystal Palace,Bournemouth,5,3,2019-05-12 14:00:00,Luka Milivojevic,Tackle
+301271,28,MissedShots,0.765,0.62,0.021443909034132957,Luka Milivojevic,h,5549,OpenPlay,2018,RightFoot,9574,Crystal Palace,Bournemouth,5,3,2019-05-12 14:00:00,,Rebound
+301272,31,MissedShots,0.895,0.325,0.07814028859138489,Aaron Wan-Bissaka,h,5584,OpenPlay,2018,RightFoot,9574,Crystal Palace,Bournemouth,5,3,2019-05-12 14:00:00,Wilfried Zaha,Pass
+301273,31,Goal,0.9569999694824218,0.5159999847412109,0.6747599244117737,Michy Batshuayi,h,1678,OpenPlay,2018,RightFoot,9574,Crystal Palace,Bournemouth,5,3,2019-05-12 14:00:00,Aaron Wan-Bissaka,Rebound
+301274,36,SavedShot,0.885,0.6780000305175782,0.26716482639312744,Wilfried Zaha,h,522,OpenPlay,2018,RightFoot,9574,Crystal Palace,Bournemouth,5,3,2019-05-12 14:00:00,James McArthur,Pass
+301276,40,MissedShots,0.7469999694824219,0.6940000152587891,0.02601538598537445,Max Meyer,h,338,OpenPlay,2018,RightFoot,9574,Crystal Palace,Bournemouth,5,3,2019-05-12 14:00:00,Andros Townsend,Pass
+301279,49,SavedShot,0.874000015258789,0.2670000076293945,0.05171388015151024,Andros Townsend,h,775,OpenPlay,2018,LeftFoot,9574,Crystal Palace,Bournemouth,5,3,2019-05-12 14:00:00,Luka Milivojevic,Pass
+301280,51,SavedShot,0.88,0.48400001525878905,0.13162560760974884,James McArthur,h,633,OpenPlay,2018,LeftFoot,9574,Crystal Palace,Bournemouth,5,3,2019-05-12 14:00:00,Max Meyer,Pass
+301281,52,MissedShots,0.855,0.2670000076293945,0.08716817200183868,Wilfried Zaha,h,522,OpenPlay,2018,RightFoot,9574,Crystal Palace,Bournemouth,5,3,2019-05-12 14:00:00,Andros Townsend,Pass
+301286,64,Goal,0.9369999694824219,0.5790000152587891,0.5060897469520569,Patrick van Aanholt,h,730,OpenPlay,2018,LeftFoot,9574,Crystal Palace,Bournemouth,5,3,2019-05-12 14:00:00,Wilfried Zaha,Pass
+301289,70,MissedShots,0.8109999847412109,0.53,0.07423577457666397,Max Meyer,h,338,OpenPlay,2018,RightFoot,9574,Crystal Palace,Bournemouth,5,3,2019-05-12 14:00:00,Wilfried Zaha,Pass
+301293,76,SavedShot,0.8690000152587891,0.6790000152587891,0.07047605514526367,Wilfried Zaha,h,522,OpenPlay,2018,RightFoot,9574,Crystal Palace,Bournemouth,5,3,2019-05-12 14:00:00,Max Meyer,Pass
+301294,79,Goal,0.88,0.41200000762939454,0.14008693397045135,Andros Townsend,h,775,OpenPlay,2018,LeftFoot,9574,Crystal Palace,Bournemouth,5,3,2019-05-12 14:00:00,Wilfried Zaha,Pass
+301298,95,BlockedShot,0.865,0.49900001525878906,0.07107837498188019,James McArthur,h,633,OpenPlay,2018,LeftFoot,9574,Crystal Palace,Bournemouth,5,3,2019-05-12 14:00:00,,Aerial
+301268,17,MissedShots,0.7980000305175782,0.46,0.045376770198345184,Joshua King,a,465,OpenPlay,2018,LeftFoot,9574,Crystal Palace,Bournemouth,5,3,2019-05-12 14:00:00,Jordon Ibe,Pass
+301275,36,OwnGoal,0.075,0.46,0,Jack Simpson,a,6410,OpenPlay,2018,RightFoot,9574,Crystal Palace,Bournemouth,5,3,2019-05-12 14:00:00,,Save
+301277,44,Goal,0.735,0.649000015258789,0.011057407595217228,Jefferson Lerma,a,2182,OpenPlay,2018,RightFoot,9574,Crystal Palace,Bournemouth,5,3,2019-05-12 14:00:00,Nathaniel Clyne,Pass
+301278,48,BlockedShot,0.8080000305175781,0.7530000305175781,0.017320897430181503,Ryan Fraser,a,1683,OpenPlay,2018,RightFoot,9574,Crystal Palace,Bournemouth,5,3,2019-05-12 14:00:00,Nathaniel Clyne,Pass
+301282,54,MissedShots,0.92,0.49700000762939456,0.10228588432073593,Nathan Aké,a,579,FromCorner,2018,Head,9574,Crystal Palace,Bournemouth,5,3,2019-05-12 14:00:00,Ryan Fraser,Cross
+301283,56,Goal,0.8180000305175781,0.4209999847412109,0.05322861671447754,Jordon Ibe,a,481,OpenPlay,2018,RightFoot,9574,Crystal Palace,Bournemouth,5,3,2019-05-12 14:00:00,Adam Smith,Pass
+301284,60,SavedShot,0.8480000305175781,0.415,0.0737253800034523,Jordon Ibe,a,481,OpenPlay,2018,LeftFoot,9574,Crystal Palace,Bournemouth,5,3,2019-05-12 14:00:00,Ryan Fraser,TakeOn
+301285,63,MissedShots,0.7969999694824219,0.7380000305175781,0.011153038591146469,Ryan Fraser,a,1683,OpenPlay,2018,RightFoot,9574,Crystal Palace,Bournemouth,5,3,2019-05-12 14:00:00,Steve Cook,Chipped
+301287,66,MissedShots,0.960999984741211,0.5609999847412109,0.1425950676202774,Callum Wilson,a,468,OpenPlay,2018,LeftFoot,9574,Crystal Palace,Bournemouth,5,3,2019-05-12 14:00:00,Joshua King,Pass
+301288,69,SavedShot,0.715999984741211,0.49599998474121093,0.044521212577819824,Ryan Fraser,a,1683,DirectFreekick,2018,RightFoot,9574,Crystal Palace,Bournemouth,5,3,2019-05-12 14:00:00,,Standard
+301290,71,SavedShot,0.919000015258789,0.3579999923706055,0.2671959400177002,Lys Mousset,a,1748,OpenPlay,2018,RightFoot,9574,Crystal Palace,Bournemouth,5,3,2019-05-12 14:00:00,Joshua King,Pass
+301291,72,MissedShots,0.9119999694824219,0.5270000076293946,0.03158273920416832,Chris Mepham,a,7384,FromCorner,2018,Head,9574,Crystal Palace,Bournemouth,5,3,2019-05-12 14:00:00,Ryan Fraser,Aerial
+301292,72,Goal,0.98,0.5520000076293945,0.6724614500999451,Joshua King,a,465,FromCorner,2018,LeftFoot,9574,Crystal Palace,Bournemouth,5,3,2019-05-12 14:00:00,Chris Mepham,Rebound
+301295,81,SavedShot,0.8680000305175781,0.34200000762939453,0.07124967873096466,Lys Mousset,a,1748,OpenPlay,2018,RightFoot,9574,Crystal Palace,Bournemouth,5,3,2019-05-12 14:00:00,Jefferson Lerma,Pass
+301296,83,MissedShots,0.7219999694824218,0.5579999923706055,0.012776428833603859,Adam Smith,a,825,OpenPlay,2018,RightFoot,9574,Crystal Palace,Bournemouth,5,3,2019-05-12 14:00:00,Chris Mepham,BallRecovery
+301297,90,BlockedShot,0.860999984741211,0.6780000305175782,0.03785677254199982,Joshua King,a,465,OpenPlay,2018,RightFoot,9574,Crystal Palace,Bournemouth,5,3,2019-05-12 14:00:00,Sam Surridge,Pass
+301299,96,SavedShot,0.8859999847412109,0.5509999847412109,0.3249534070491791,Sam Surridge,a,5602,OpenPlay,2018,LeftFoot,9574,Crystal Palace,Bournemouth,5,3,2019-05-12 14:00:00,Nathan Aké,Pass

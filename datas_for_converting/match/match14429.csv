@@ -1,0 +1,30 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+415366,6,MissedShots,0.745,0.32799999237060545,0.013401457108557224,Kristoffer Olsson,h,7479,OpenPlay,2020,RightFoot,14429,FC Krasnodar,Zenit St. Petersburg,2,2,2021-04-17 16:00:00,,None
+415367,6,Goal,0.9269999694824219,0.5529999923706055,0.44964513182640076,Aleksey Ionov,h,2751,OpenPlay,2020,LeftFoot,14429,FC Krasnodar,Zenit St. Petersburg,2,2,2021-04-17 16:00:00,Kristoffer Olsson,Rebound
+415372,17,SavedShot,0.7919999694824219,0.6179999923706054,0.036408670246601105,Rémy Cabella,h,3390,OpenPlay,2020,LeftFoot,14429,FC Krasnodar,Zenit St. Petersburg,2,2,2021-04-17 16:00:00,Aleksey Ionov,HeadPass
+415373,18,MissedShots,0.9230000305175782,0.47299999237060547,0.043564241379499435,Aleksandr Martynovich,h,2790,FromCorner,2020,Head,14429,FC Krasnodar,Zenit St. Petersburg,2,2,2021-04-17 16:00:00,Rémy Cabella,Aerial
+415374,21,MissedShots,0.8169999694824219,0.6809999847412109,0.03812423348426819,Wanderson,h,2450,OpenPlay,2020,RightFoot,14429,FC Krasnodar,Zenit St. Petersburg,2,2,2021-04-17 16:00:00,Rémy Cabella,Pass
+415379,37,MissedShots,0.870999984741211,0.3370000076293945,0.06594971567392349,Igor Smolnikov,h,3055,OpenPlay,2020,LeftFoot,14429,FC Krasnodar,Zenit St. Petersburg,2,2,2021-04-17 16:00:00,,None
+415385,57,SavedShot,0.919000015258789,0.56,0.1303814798593521,Rémy Cabella,h,3390,OpenPlay,2020,RightFoot,14429,FC Krasnodar,Zenit St. Petersburg,2,2,2021-04-17 16:00:00,Aleksey Ionov,Cross
+415386,59,Goal,0.9080000305175782,0.35200000762939454,0.373093843460083,Aleksey Ionov,h,2751,OpenPlay,2020,LeftFoot,14429,FC Krasnodar,Zenit St. Petersburg,2,2,2021-04-17 16:00:00,Yuri Gazinskiy,TakeOn
+415387,65,MissedShots,0.765,0.7819999694824219,0.014183453284204006,Wanderson,h,2450,OpenPlay,2020,RightFoot,14429,FC Krasnodar,Zenit St. Petersburg,2,2,2021-04-17 16:00:00,,Dispossessed
+415388,67,SavedShot,0.8080000305175781,0.46299999237060546,0.07622599601745605,Viktor Claesson,h,5478,OpenPlay,2020,RightFoot,14429,FC Krasnodar,Zenit St. Petersburg,2,2,2021-04-17 16:00:00,Rémy Cabella,Pass
+415392,76,MissedShots,0.8619999694824219,0.49900001525878906,0.10078921914100647,Tonny Vilhena,h,7648,OpenPlay,2020,RightFoot,14429,FC Krasnodar,Zenit St. Petersburg,2,2,2021-04-17 16:00:00,,None
+415368,9,MissedShots,0.8969999694824219,0.515,0.06066138297319412,Sardar Azmoun,a,2774,OpenPlay,2020,Head,14429,FC Krasnodar,Zenit St. Petersburg,2,2,2021-04-17 16:00:00,Vyacheslav Karavayev,Cross
+415369,13,BlockedShot,0.8059999847412109,0.33099998474121095,0.031415581703186035,Malcom,a,3262,OpenPlay,2020,LeftFoot,14429,FC Krasnodar,Zenit St. Petersburg,2,2,2021-04-17 16:00:00,Wilmar Barrios,Pass
+415370,17,SavedShot,0.7959999847412109,0.5029999923706054,0.04724575951695442,Daler Kuzyaev,a,2854,OpenPlay,2020,RightFoot,14429,FC Krasnodar,Zenit St. Petersburg,2,2,2021-04-17 16:00:00,Artem Dzyuba,TakeOn
+415371,17,MissedShots,0.875999984741211,0.5120000076293946,0.0798201709985733,Sardar Azmoun,a,2774,OpenPlay,2020,LeftFoot,14429,FC Krasnodar,Zenit St. Petersburg,2,2,2021-04-17 16:00:00,Artem Dzyuba,Cross
+415375,22,MissedShots,0.6959999847412109,0.595999984741211,0.012497511692345142,Yaroslav Rakitskiy,a,7447,OpenPlay,2020,LeftFoot,14429,FC Krasnodar,Zenit St. Petersburg,2,2,2021-04-17 16:00:00,Malcom,Pass
+415376,24,BlockedShot,0.9059999847412109,0.34900001525878904,0.07705692201852798,Artem Dzyuba,a,3063,OpenPlay,2020,RightFoot,14429,FC Krasnodar,Zenit St. Petersburg,2,2,2021-04-17 16:00:00,Wendel,Pass
+415377,26,MissedShots,0.885,0.7019999694824218,0.03399164229631424,Artem Dzyuba,a,3063,OpenPlay,2020,LeftFoot,14429,FC Krasnodar,Zenit St. Petersburg,2,2,2021-04-17 16:00:00,Daler Kuzyaev,Pass
+415378,30,SavedShot,0.795,0.49400001525878906,0.04778364673256874,Daler Kuzyaev,a,2854,OpenPlay,2020,RightFoot,14429,FC Krasnodar,Zenit St. Petersburg,2,2,2021-04-17 16:00:00,Artem Dzyuba,LayOff
+415381,45,BlockedShot,0.7559999847412109,0.3270000076293945,0.014994291588664055,Malcom,a,3262,OpenPlay,2020,RightFoot,14429,FC Krasnodar,Zenit St. Petersburg,2,2,2021-04-17 16:00:00,Wendel,BallTouch
+415380,46,SavedShot,0.855,0.4779999923706055,0.08131208270788193,Wendel,a,8984,OpenPlay,2020,RightFoot,14429,FC Krasnodar,Zenit St. Petersburg,2,2,2021-04-17 16:00:00,Sardar Azmoun,Pass
+415382,48,MissedShots,0.9169999694824219,0.485,0.042848438024520874,Sardar Azmoun,a,2774,FromCorner,2020,Head,14429,FC Krasnodar,Zenit St. Petersburg,2,2,2021-04-17 16:00:00,,Aerial
+415383,51,MissedShots,0.730999984741211,0.625999984741211,0.015123828314244747,Wendel,a,8984,OpenPlay,2020,RightFoot,14429,FC Krasnodar,Zenit St. Petersburg,2,2,2021-04-17 16:00:00,Douglas Santos,Pass
+415384,55,MissedShots,0.8859999847412109,0.385,0.07319356501102448,Artem Dzyuba,a,3063,OpenPlay,2020,LeftFoot,14429,FC Krasnodar,Zenit St. Petersburg,2,2,2021-04-17 16:00:00,Malcom,Pass
+415389,68,MissedShots,0.905,0.3160000038146973,0.06062207370996475,Andrey Mostovoy,a,7680,OpenPlay,2020,LeftFoot,14429,FC Krasnodar,Zenit St. Petersburg,2,2,2021-04-17 16:00:00,Daler Kuzyaev,Pass
+415390,73,SavedShot,0.870999984741211,0.7319999694824219,0.04251615330576897,Wendel,a,8984,OpenPlay,2020,RightFoot,14429,FC Krasnodar,Zenit St. Petersburg,2,2,2021-04-17 16:00:00,Sebastián Driussi,LayOff
+415391,74,Goal,0.8830000305175781,0.36400001525878906,0.2767927348613739,Sardar Azmoun,a,2774,OpenPlay,2020,RightFoot,14429,FC Krasnodar,Zenit St. Petersburg,2,2,2021-04-17 16:00:00,Yaroslav Rakitskiy,Chipped
+415393,85,Goal,0.885,0.485,0.3027248978614807,Andrey Mostovoy,a,7680,OpenPlay,2020,RightFoot,14429,FC Krasnodar,Zenit St. Petersburg,2,2,2021-04-17 16:00:00,Douglas Santos,Chipped
+415394,95,BlockedShot,0.9069999694824219,0.5429999923706055,0.1121097058057785,Sardar Azmoun,a,2774,OpenPlay,2020,RightFoot,14429,FC Krasnodar,Zenit St. Petersburg,2,2,2021-04-17 16:00:00,Magomed Ozdoev,Cross

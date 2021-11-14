@@ -1,0 +1,29 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+155708,17,SavedShot,0.71,0.345,0.012258199043571949,Dimitri Barinov,h,2721,OpenPlay,2017,RightFoot,6528,Lokomotiv Moscow,Ural,2,1,2017-08-26 18:00:00,,BallRecovery
+155710,20,SavedShot,0.9469999694824218,0.4909999847412109,0.12693282961845398,Anton Miranchuk,h,4605,FromCorner,2017,Head,6528,Lokomotiv Moscow,Ural,2,1,2017-08-26 18:00:00,Manuel Fernandes,Cross
+155711,20,Goal,0.995999984741211,0.5820000076293945,0.06511962413787842,Jefferson Farfán,h,4299,FromCorner,2017,RightFoot,6528,Lokomotiv Moscow,Ural,2,1,2017-08-26 18:00:00,,Rebound
+155712,22,BlockedShot,0.7480000305175781,0.7569999694824219,0.014355207793414593,Manuel Fernandes,h,2708,OpenPlay,2017,RightFoot,6528,Lokomotiv Moscow,Ural,2,1,2017-08-26 18:00:00,,Dispossessed
+155713,29,SavedShot,0.754000015258789,0.5629999923706055,0.02909703366458416,Aleksey Miranchuk,h,2711,OpenPlay,2017,LeftFoot,6528,Lokomotiv Moscow,Ural,2,1,2017-08-26 18:00:00,Anton Miranchuk,TakeOn
+155714,30,MissedShots,0.93,0.48400001525878905,0.05479351431131363,Anton Miranchuk,h,4605,FromCorner,2017,Head,6528,Lokomotiv Moscow,Ural,2,1,2017-08-26 18:00:00,Manuel Fernandes,Aerial
+155716,31,OwnGoal,0.015,0.47,0,Guilherme,h,2703,OpenPlay,2017,RightFoot,6528,Lokomotiv Moscow,Ural,2,1,2017-08-26 18:00:00,,Save
+155719,41,MissedShots,0.9369999694824219,0.44,0.11703698337078094,Nemanja Pejcinovic,h,2706,OpenPlay,2017,Head,6528,Lokomotiv Moscow,Ural,2,1,2017-08-26 18:00:00,Manuel Fernandes,Cross
+155720,43,MissedShots,0.8640000152587891,0.5509999847412109,0.02542061358690262,Anton Miranchuk,h,4605,OpenPlay,2017,Head,6528,Lokomotiv Moscow,Ural,2,1,2017-08-26 18:00:00,Maciej Rybus,Chipped
+155721,47,MissedShots,0.7340000152587891,0.41900001525878905,0.01518174633383751,Igor Denisov,h,2749,OpenPlay,2017,RightFoot,6528,Lokomotiv Moscow,Ural,2,1,2017-08-26 18:00:00,,None
+155722,54,SavedShot,0.7080000305175781,0.3129999923706055,0.009739273227751255,Igor Denisov,h,2749,OpenPlay,2017,RightFoot,6528,Lokomotiv Moscow,Ural,2,1,2017-08-26 18:00:00,,None
+155723,55,Goal,0.965999984741211,0.41700000762939454,0.48389583826065063,Aleksey Miranchuk,h,2711,OpenPlay,2017,RightFoot,6528,Lokomotiv Moscow,Ural,2,1,2017-08-26 18:00:00,,None
+155724,57,BlockedShot,0.740999984741211,0.43,0.025053268298506737,Dimitri Barinov,h,2721,OpenPlay,2017,RightFoot,6528,Lokomotiv Moscow,Ural,2,1,2017-08-26 18:00:00,,None
+155727,64,BlockedShot,0.885,0.4,0.07160039991140366,Anton Miranchuk,h,4605,OpenPlay,2017,RightFoot,6528,Lokomotiv Moscow,Ural,2,1,2017-08-26 18:00:00,Aleksey Miranchuk,Chipped
+155728,72,SavedShot,0.9269999694824219,0.23899999618530274,0.05744263157248497,Manuel Fernandes,h,2708,OpenPlay,2017,LeftFoot,6528,Lokomotiv Moscow,Ural,2,1,2017-08-26 18:00:00,Dimitri Barinov,TakeOn
+155730,78,SavedShot,0.7559999847412109,0.45799999237060546,0.03018302470445633,Manuel Fernandes,h,2708,OpenPlay,2017,LeftFoot,6528,Lokomotiv Moscow,Ural,2,1,2017-08-26 18:00:00,Jefferson Farfán,Pass
+155707,14,BlockedShot,0.735,0.669000015258789,0.013529655523598194,Yuri Bavin,a,3085,OpenPlay,2017,RightFoot,6528,Lokomotiv Moscow,Ural,2,1,2017-08-26 18:00:00,Eric Bicfalvi,Pass
+155709,18,SavedShot,0.9459999847412109,0.4209999847412109,0.11092250794172287,Gregor Balazic,a,5494,SetPiece,2017,Head,6528,Lokomotiv Moscow,Ural,2,1,2017-08-26 18:00:00,Nikolay Dimitrov,Cross
+155715,31,SavedShot,0.785,0.3920000076293945,0.03067183494567871,Eric Bicfalvi,a,5483,OpenPlay,2017,RightFoot,6528,Lokomotiv Moscow,Ural,2,1,2017-08-26 18:00:00,Giorgi Chanturia,Pass
+155717,34,BlockedShot,0.7780000305175782,0.47900001525878905,0.031845707446336746,Giorgi Chanturia,a,5412,OpenPlay,2017,LeftFoot,6528,Lokomotiv Moscow,Ural,2,1,2017-08-26 18:00:00,Eric Bicfalvi,Pass
+155718,36,BlockedShot,0.7340000152587891,0.6179999923706054,0.014142400585114956,Roman Emelyanov,a,2791,OpenPlay,2017,RightFoot,6528,Lokomotiv Moscow,Ural,2,1,2017-08-26 18:00:00,Mikhail Merkulov,Pass
+155725,63,BlockedShot,0.7830000305175782,0.24899999618530275,0.014041641727089882,Roman Emelyanov,a,2791,OpenPlay,2017,LeftFoot,6528,Lokomotiv Moscow,Ural,2,1,2017-08-26 18:00:00,,Dispossessed
+155726,63,MissedShots,0.9269999694824219,0.485,0.09625286608934402,Giorgi Chanturia,a,5412,OpenPlay,2017,Head,6528,Lokomotiv Moscow,Ural,2,1,2017-08-26 18:00:00,Nikolay Dimitrov,Cross
+155729,77,BlockedShot,0.815,0.44599998474121094,0.04243401810526848,Roman Emelyanov,a,2791,OpenPlay,2017,RightFoot,6528,Lokomotiv Moscow,Ural,2,1,2017-08-26 18:00:00,Denys Kulakov,Pass
+155731,81,BlockedShot,0.9230000305175782,0.545,0.11593577265739441,Maksim Grigoriev,a,3167,FromCorner,2017,RightFoot,6528,Lokomotiv Moscow,Ural,2,1,2017-08-26 18:00:00,,None
+155732,88,MissedShots,0.860999984741211,0.2879999923706055,0.02349630370736122,Denys Kulakov,a,2789,OpenPlay,2017,RightFoot,6528,Lokomotiv Moscow,Ural,2,1,2017-08-26 18:00:00,Nikolay Dimitrov,CornerAwarded
+155733,88,BlockedShot,0.9230000305175782,0.5070000076293946,0.10127062350511551,Roman Emelyanov,a,2791,OpenPlay,2017,LeftFoot,6528,Lokomotiv Moscow,Ural,2,1,2017-08-26 18:00:00,Denys Kulakov,None
+155734,89,BlockedShot,0.885,0.6309999847412109,0.06549162417650223,Roman Emelyanov,a,2791,OpenPlay,2017,LeftFoot,6528,Lokomotiv Moscow,Ural,2,1,2017-08-26 18:00:00,Mikhail Merkulov,Pass

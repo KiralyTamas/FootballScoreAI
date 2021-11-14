@@ -1,0 +1,31 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+252086,42,ShotOnPost,0.749000015258789,0.6140000152587891,0.01633724384009838,Antonin Barak,h,6208,OpenPlay,2018,LeftFoot,9656,Udinese,Juventus,0,2,2018-10-06 16:00:00,Rodrigo de Paul,Pass
+252087,43,BlockedShot,0.789000015258789,0.39099998474121095,0.030655506998300552,Seko Fofana,h,1144,OpenPlay,2018,RightFoot,9656,Udinese,Juventus,0,2,2018-10-06 16:00:00,Valon Behrami,Pass
+252088,49,MissedShots,0.9059999847412109,0.4540000152587891,0.04374866932630539,Samir,h,1142,SetPiece,2018,OtherBodyPart,9656,Udinese,Juventus,0,2,2018-10-06 16:00:00,Rodrigo de Paul,Aerial
+252089,49,BlockedShot,0.96,0.5590000152587891,0.6069921255111694,Kevin Lasagna,h,1903,SetPiece,2018,LeftFoot,9656,Udinese,Juventus,0,2,2018-10-06 16:00:00,Samir,Rebound
+252092,60,MissedShots,0.7559999847412109,0.48700000762939455,0.02199471928179264,Antonin Barak,h,6208,OpenPlay,2018,LeftFoot,9656,Udinese,Juventus,0,2,2018-10-06 16:00:00,Rodrigo de Paul,Pass
+252096,72,SavedShot,0.7069999694824218,0.48,0.011274307034909725,Ignacio Pussetto,h,6997,OpenPlay,2018,RightFoot,9656,Udinese,Juventus,0,2,2018-10-06 16:00:00,Rodrigo de Paul,Pass
+252100,81,BlockedShot,0.6969999694824218,0.44299999237060544,0.009342229925096035,Kevin Lasagna,h,1903,OpenPlay,2018,LeftFoot,9656,Udinese,Juventus,0,2,2018-10-06 16:00:00,Ignacio Pussetto,Dispossessed
+252104,89,BlockedShot,0.8080000305175781,0.27,0.01906070113182068,Jens Stryger Larsen,h,6262,OpenPlay,2018,LeftFoot,9656,Udinese,Juventus,0,2,2018-10-06 16:00:00,Rodrigo de Paul,Pass
+252105,90,SavedShot,0.7380000305175781,0.28899999618530275,0.009946908801794052,Rodrigo de Paul,h,1145,OpenPlay,2018,RightFoot,9656,Udinese,Juventus,0,2,2018-10-06 16:00:00,Jens Stryger Larsen,Pass
+252076,6,BlockedShot,0.8159999847412109,0.2929999923706055,0.027146413922309875,Cristiano Ronaldo,a,2371,OpenPlay,2018,RightFoot,9656,Udinese,Juventus,0,2,2018-10-06 16:00:00,Rodrigo Bentancur,Pass
+252077,8,MissedShots,0.9219999694824219,0.4370000076293945,0.10219010710716248,Blaise Matuidi,a,3296,OpenPlay,2018,LeftFoot,9656,Udinese,Juventus,0,2,2018-10-06 16:00:00,João Cancelo,BallTouch
+252078,16,MissedShots,0.8969999694824219,0.575,0.03873047977685928,Cristiano Ronaldo,a,2371,OpenPlay,2018,Head,9656,Udinese,Juventus,0,2,2018-10-06 16:00:00,Rodrigo Bentancur,Chipped
+252079,18,BlockedShot,0.9130000305175782,0.3290000152587891,0.07279115170240402,Cristiano Ronaldo,a,2371,OpenPlay,2018,RightFoot,9656,Udinese,Juventus,0,2,2018-10-06 16:00:00,Paulo Dybala,Pass
+252080,18,MissedShots,0.745,0.3129999923706055,0.01118141133338213,Miralem Pjanic,a,1290,OpenPlay,2018,RightFoot,9656,Udinese,Juventus,0,2,2018-10-06 16:00:00,,Rebound
+252081,21,MissedShots,0.8719999694824219,0.42700000762939455,0.022562818601727486,Cristiano Ronaldo,a,2371,SetPiece,2018,Head,9656,Udinese,Juventus,0,2,2018-10-06 16:00:00,Miralem Pjanic,Cross
+252082,32,Goal,0.9530000305175781,0.48900001525878906,0.5958577990531921,Rodrigo Bentancur,a,6108,OpenPlay,2018,Head,9656,Udinese,Juventus,0,2,2018-10-06 16:00:00,João Cancelo,Cross
+252083,35,SavedShot,0.93,0.48200000762939454,0.5762732625007629,Mario Mandzukic,a,1295,OpenPlay,2018,RightFoot,9656,Udinese,Juventus,0,2,2018-10-06 16:00:00,João Cancelo,Pass
+252084,36,BlockedShot,0.8080000305175781,0.49700000762939456,0.039002396166324615,João Cancelo,a,2379,FromCorner,2018,RightFoot,9656,Udinese,Juventus,0,2,2018-10-06 16:00:00,Miralem Pjanic,Pass
+252085,36,Goal,0.8780000305175781,0.6430000305175781,0.08091488480567932,Cristiano Ronaldo,a,2371,OpenPlay,2018,LeftFoot,9656,Udinese,Juventus,0,2,2018-10-06 16:00:00,Mario Mandzukic,Pass
+252090,54,MissedShots,0.875,0.415,0.12882673740386963,Paulo Dybala,a,1294,OpenPlay,2018,LeftFoot,9656,Udinese,Juventus,0,2,2018-10-06 16:00:00,,TakeOn
+252091,58,BlockedShot,0.855,0.625,0.035868074744939804,Paulo Dybala,a,1294,FromCorner,2018,RightFoot,9656,Udinese,Juventus,0,2,2018-10-06 16:00:00,Miralem Pjanic,Cross
+252093,66,SavedShot,0.8530000305175781,0.47700000762939454,0.10481593757867813,Cristiano Ronaldo,a,2371,OpenPlay,2018,LeftFoot,9656,Udinese,Juventus,0,2,2018-10-06 16:00:00,Mario Mandzukic,Pass
+252094,69,SavedShot,0.8530000305175781,0.31,0.04687613248825073,Federico Bernardeschi,a,1424,OpenPlay,2018,LeftFoot,9656,Udinese,Juventus,0,2,2018-10-06 16:00:00,Cristiano Ronaldo,Pass
+252095,71,MissedShots,0.9119999694824219,0.32,0.13565406203269958,Mario Mandzukic,a,1295,OpenPlay,2018,RightFoot,9656,Udinese,Juventus,0,2,2018-10-06 16:00:00,Federico Bernardeschi,Throughball
+252097,73,SavedShot,0.9030000305175782,0.46799999237060547,0.5251899361610413,Cristiano Ronaldo,a,2371,OpenPlay,2018,RightFoot,9656,Udinese,Juventus,0,2,2018-10-06 16:00:00,Mario Mandzukic,Pass
+252098,75,BlockedShot,0.8190000152587891,0.46,0.09153250604867935,Federico Bernardeschi,a,1424,OpenPlay,2018,LeftFoot,9656,Udinese,Juventus,0,2,2018-10-06 16:00:00,João Cancelo,Pass
+252099,75,MissedShots,0.9230000305175782,0.2620000076293945,0.029068076983094215,Mario Mandzukic,a,1295,OpenPlay,2018,RightFoot,9656,Udinese,Juventus,0,2,2018-10-06 16:00:00,,Rebound
+252101,84,SavedShot,0.7959999847412109,0.44299999237060544,0.0599605031311512,João Cancelo,a,2379,OpenPlay,2018,RightFoot,9656,Udinese,Juventus,0,2,2018-10-06 16:00:00,Miralem Pjanic,Pass
+252102,84,MissedShots,0.875,0.6659999847412109,0.03733934462070465,Emre Can,a,604,OpenPlay,2018,LeftFoot,9656,Udinese,Juventus,0,2,2018-10-06 16:00:00,,Rebound
+252103,87,BlockedShot,0.845999984741211,0.3029999923706055,0.058329515159130096,Federico Bernardeschi,a,1424,OpenPlay,2018,LeftFoot,9656,Udinese,Juventus,0,2,2018-10-06 16:00:00,João Cancelo,Pass

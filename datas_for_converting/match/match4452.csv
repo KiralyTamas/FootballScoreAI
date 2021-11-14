@@ -1,0 +1,27 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+20978,4,MissedShots,0.9519999694824218,0.4979999923706055,0.08186069130897522,Steven Fletcher,h,930,FromCorner,2014,Head,4452,Sunderland,Crystal Palace,1,4,2015-04-11 15:00:00,Jordi Gómez,Aerial
+20979,10,BlockedShot,0.8009999847412109,0.5979999923706054,0.03757074475288391,Steven Fletcher,h,930,OpenPlay,2014,LeftFoot,4452,Sunderland,Crystal Palace,1,4,2015-04-11 15:00:00,,None
+20983,26,MissedShots,0.8859999847412109,0.2720000076293945,0.041212961077690125,Steven Fletcher,h,930,SetPiece,2014,LeftFoot,4452,Sunderland,Crystal Palace,1,4,2015-04-11 15:00:00,Jordi Gómez,Chipped
+20985,38,MissedShots,0.7340000152587891,0.6140000152587891,0.020078931003808975,Patrick van Aanholt,h,730,OpenPlay,2014,RightFoot,4452,Sunderland,Crystal Palace,1,4,2015-04-11 15:00:00,Jordi Gómez,Pass
+20986,43,SavedShot,0.88,0.5529999923706055,0.08263701945543289,Steven Fletcher,h,930,OpenPlay,2014,LeftFoot,4452,Sunderland,Crystal Palace,1,4,2015-04-11 15:00:00,Patrick van Aanholt,Cross
+20987,47,BlockedShot,0.735999984741211,0.5670000076293945,0.017453301697969437,Connor Wickham,h,519,OpenPlay,2014,RightFoot,4452,Sunderland,Crystal Palace,1,4,2015-04-11 15:00:00,Patrick van Aanholt,Pass
+20998,81,BlockedShot,0.8440000152587891,0.6959999847412109,0.03552898392081261,Jermain Defoe,h,735,OpenPlay,2014,RightFoot,4452,Sunderland,Crystal Palace,1,4,2015-04-11 15:00:00,,BallRecovery
+20999,86,MissedShots,0.7090000152587891,0.4929999923706055,0.011088227853178978,Jermain Defoe,h,735,OpenPlay,2014,RightFoot,4452,Sunderland,Crystal Palace,1,4,2015-04-11 15:00:00,Connor Wickham,Pass
+21000,87,MissedShots,0.720999984741211,0.3160000038146973,0.010783709585666656,Adam Johnson,h,929,OpenPlay,2014,LeftFoot,4452,Sunderland,Crystal Palace,1,4,2015-04-11 15:00:00,Jack Rodwell,Pass
+21001,89,Goal,0.9019999694824219,0.5279999923706055,0.12596288323402405,Connor Wickham,h,519,OpenPlay,2014,RightFoot,4452,Sunderland,Crystal Palace,1,4,2015-04-11 15:00:00,Patrick van Aanholt,Pass
+21002,91,SavedShot,0.8530000305175781,0.5709999847412109,0.05339852347970009,Patrick van Aanholt,h,730,OpenPlay,2014,LeftFoot,4452,Sunderland,Crystal Palace,1,4,2015-04-11 15:00:00,,None
+21003,92,BlockedShot,0.874000015258789,0.5640000152587891,0.0995028093457222,Jermain Defoe,h,735,OpenPlay,2014,RightFoot,4452,Sunderland,Crystal Palace,1,4,2015-04-11 15:00:00,Connor Wickham,Pass
+20980,12,BlockedShot,0.765,0.27399999618530274,0.04461256042122841,Mile Jedinak,a,515,DirectFreekick,2014,RightFoot,4452,Sunderland,Crystal Palace,1,4,2015-04-11 15:00:00,,Standard
+20981,14,MissedShots,0.8140000152587891,0.7419999694824219,0.018249517306685448,Jason Puncheon,a,514,OpenPlay,2014,RightFoot,4452,Sunderland,Crystal Palace,1,4,2015-04-11 15:00:00,,None
+20982,14,BlockedShot,0.845,0.675,0.03236095979809761,Glenn Murray,a,882,OpenPlay,2014,RightFoot,4452,Sunderland,Crystal Palace,1,4,2015-04-11 15:00:00,,Rebound
+20984,37,BlockedShot,0.765,0.7190000152587891,0.015565303154289722,Yannick Bolasie,a,518,OpenPlay,2014,RightFoot,4452,Sunderland,Crystal Palace,1,4,2015-04-11 15:00:00,Glenn Murray,TakeOn
+20989,47,BlockedShot,0.875999984741211,0.2520000076293945,0.03251189738512039,Yannick Bolasie,a,518,OpenPlay,2014,LeftFoot,4452,Sunderland,Crystal Palace,1,4,2015-04-11 15:00:00,Wilfried Zaha,Pass
+20990,47,Goal,0.9630000305175781,0.55,0.5229200720787048,Glenn Murray,a,882,OpenPlay,2014,Head,4452,Sunderland,Crystal Palace,1,4,2015-04-11 15:00:00,,Rebound
+20988,48,BlockedShot,0.965999984741211,0.3770000076293945,0.05645837262272835,Wilfried Zaha,a,522,OpenPlay,2014,RightFoot,4452,Sunderland,Crystal Palace,1,4,2015-04-11 15:00:00,Yannick Bolasie,Cross
+20991,50,Goal,0.919000015258789,0.615,0.3357082009315491,Yannick Bolasie,a,518,OpenPlay,2014,RightFoot,4452,Sunderland,Crystal Palace,1,4,2015-04-11 15:00:00,Glenn Murray,HeadPass
+20992,52,Goal,0.9019999694824219,0.6179999923706054,0.31758347153663635,Yannick Bolasie,a,518,OpenPlay,2014,RightFoot,4452,Sunderland,Crystal Palace,1,4,2015-04-11 15:00:00,Mile Jedinak,Chipped
+20993,59,MissedShots,0.8819999694824219,0.36900001525878906,0.07808730006217957,Glenn Murray,a,882,OpenPlay,2014,RightFoot,4452,Sunderland,Crystal Palace,1,4,2015-04-11 15:00:00,,None
+20994,61,Goal,0.9369999694824219,0.4540000152587891,0.708535373210907,Yannick Bolasie,a,518,OpenPlay,2014,RightFoot,4452,Sunderland,Crystal Palace,1,4,2015-04-11 15:00:00,Glenn Murray,TakeOn
+20995,65,SavedShot,0.9009999847412109,0.5640000152587891,0.15061311423778534,James McArthur,a,633,OpenPlay,2014,RightFoot,4452,Sunderland,Crystal Palace,1,4,2015-04-11 15:00:00,Yannick Bolasie,Pass
+20996,65,MissedShots,0.8009999847412109,0.715,0.021427514031529427,Martin Kelly,a,525,OpenPlay,2014,RightFoot,4452,Sunderland,Crystal Palace,1,4,2015-04-11 15:00:00,,None
+20997,72,BlockedShot,0.88,0.30200000762939455,0.030826065689325333,Joel Ward,a,510,SetPiece,2014,LeftFoot,4452,Sunderland,Crystal Palace,1,4,2015-04-11 15:00:00,Jason Puncheon,Pass

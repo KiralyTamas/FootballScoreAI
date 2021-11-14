@@ -1,0 +1,16 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+385282,21,SavedShot,0.9419999694824219,0.6730000305175782,0.11525857448577881,Mason Greenwood,h,7490,OpenPlay,2020,LeftFoot,14500,Manchester United,Arsenal,0,1,2020-11-01 16:30:00,Marcus Rashford,Throughball
+385285,45,BlockedShot,0.7030000305175781,0.4829999923706055,0.009800851345062256,Bruno Fernandes,h,1228,OpenPlay,2020,RightFoot,14500,Manchester United,Arsenal,0,1,2020-11-01 16:30:00,Scott McTominay,Aerial
+385286,47,MissedShots,0.8969999694824219,0.504000015258789,0.059058256447315216,Harry Maguire,h,1687,FromCorner,2020,Head,14500,Manchester United,Arsenal,0,1,2020-11-01 16:30:00,Bruno Fernandes,Cross
+385288,54,MissedShots,0.9280000305175782,0.455,0.12575098872184753,Harry Maguire,h,1687,SetPiece,2020,Head,14500,Manchester United,Arsenal,0,1,2020-11-01 16:30:00,Luke Shaw,Cross
+385292,75,MissedShots,0.725,0.6959999847412109,0.013567895628511906,Harry Maguire,h,1687,OpenPlay,2020,RightFoot,14500,Manchester United,Arsenal,0,1,2020-11-01 16:30:00,Nemanja Matic,Pass
+385293,77,BlockedShot,0.875999984741211,0.38599998474121094,0.01329941675066948,Harry Maguire,h,1687,OpenPlay,2020,Head,14500,Manchester United,Arsenal,0,1,2020-11-01 16:30:00,Luke Shaw,Aerial
+385294,78,BlockedShot,0.7930000305175782,0.3529999923706055,0.030072467401623726,Marcus Rashford,h,556,OpenPlay,2020,RightFoot,14500,Manchester United,Arsenal,0,1,2020-11-01 16:30:00,Paul Pogba,Pass
+385295,92,SavedShot,0.7809999847412109,0.47,0.027305038645863533,Nemanja Matic,h,697,OpenPlay,2020,RightFoot,14500,Manchester United,Arsenal,0,1,2020-11-01 16:30:00,Harry Maguire,HeadPass
+385281,11,MissedShots,0.775,0.7180000305175781,0.009454341605305672,Bukayo Saka,a,7322,FromCorner,2020,LeftFoot,14500,Manchester United,Arsenal,0,1,2020-11-01 16:30:00,Alexandre Lacazette,HeadPass
+385283,38,ShotOnPost,0.8530000305175781,0.3820000076293945,0.056378450244665146,Willian,a,700,OpenPlay,2020,RightFoot,14500,Manchester United,Arsenal,0,1,2020-11-01 16:30:00,Pierre-Emerick Aubameyang,Pass
+385284,43,MissedShots,0.8819999694824219,0.53,0.05805268511176109,Bukayo Saka,a,7322,OpenPlay,2020,Head,14500,Manchester United,Arsenal,0,1,2020-11-01 16:30:00,Héctor Bellerín,Cross
+385287,51,MissedShots,0.8119999694824219,0.49400001525878906,0.06419678032398224,Pierre-Emerick Aubameyang,a,318,OpenPlay,2020,RightFoot,14500,Manchester United,Arsenal,0,1,2020-11-01 16:30:00,Alexandre Lacazette,Pass
+385289,57,SavedShot,0.73,0.5870000076293945,0.015543725341558456,Thomas Partey,a,2328,OpenPlay,2020,RightFoot,14500,Manchester United,Arsenal,0,1,2020-11-01 16:30:00,Kieran Tierney,Pass
+385290,64,MissedShots,0.7809999847412109,0.519000015258789,0.033277478069067,Mohamed Elneny,a,496,OpenPlay,2020,RightFoot,14500,Manchester United,Arsenal,0,1,2020-11-01 16:30:00,,None
+385291,68,Goal,0.885,0.5,0.7611688375473022,Pierre-Emerick Aubameyang,a,318,Penalty,2020,RightFoot,14500,Manchester United,Arsenal,0,1,2020-11-01 16:30:00,,Standard

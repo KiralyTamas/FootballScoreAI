@@ -1,0 +1,21 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+367764,5,MissedShots,0.7190000152587891,0.4,0.014374380931258202,Dale Stephens,h,6051,OpenPlay,2019,RightFoot,11956,Brighton,Manchester United,0,3,2020-06-30 19:15:00,,BallTouch
+367771,31,BlockedShot,0.895,0.32,0.07415380328893661,Alexis Mac Allister,h,8379,OpenPlay,2019,RightFoot,11956,Brighton,Manchester United,0,3,2020-06-30 19:15:00,,TakeOn
+367774,59,MissedShots,0.915,0.7030000305175781,0.032341327518224716,Leandro Trossard,h,7698,SetPiece,2019,LeftFoot,11956,Brighton,Manchester United,0,3,2020-06-30 19:15:00,Alexis Mac Allister,Pass
+367775,60,MissedShots,0.9119999694824219,0.675,0.031237507238984108,Leandro Trossard,h,7698,OpenPlay,2019,RightFoot,11956,Brighton,Manchester United,0,3,2020-06-30 19:15:00,Alexis Mac Allister,Cross
+367777,68,SavedShot,0.8059999847412109,0.5629999923706055,0.05339200794696808,Aaron Connolly,h,7991,OpenPlay,2019,RightFoot,11956,Brighton,Manchester United,0,3,2020-06-30 19:15:00,Leandro Trossard,Pass
+367778,69,MissedShots,0.8019999694824219,0.5309999847412109,0.03339432179927826,Leandro Trossard,h,7698,OpenPlay,2019,LeftFoot,11956,Brighton,Manchester United,0,3,2020-06-30 19:15:00,,None
+367779,75,MissedShots,0.905,0.46900001525878904,0.023503102362155914,Shane Duffy,h,6047,FromCorner,2019,Head,11956,Brighton,Manchester United,0,3,2020-06-30 19:15:00,Alexis Mac Allister,Aerial
+367780,75,SavedShot,0.865,0.629000015258789,0.04773322492837906,Neal Maupay,h,3621,OpenPlay,2019,LeftFoot,11956,Brighton,Manchester United,0,3,2020-06-30 19:15:00,,None
+367765,11,ShotOnPost,0.765,0.46099998474121096,0.025499464944005013,Bruno Fernandes,a,1228,OpenPlay,2019,RightFoot,11956,Brighton,Manchester United,0,3,2020-06-30 19:15:00,Paul Pogba,Pass
+367766,11,BlockedShot,0.8780000305175781,0.3940000152587891,0.0688159242272377,Paul Pogba,a,1740,OpenPlay,2019,RightFoot,11956,Brighton,Manchester United,0,3,2020-06-30 19:15:00,,Rebound
+367767,15,Goal,0.8859999847412109,0.38299999237060545,0.10042428970336914,Mason Greenwood,a,7490,OpenPlay,2019,LeftFoot,11956,Brighton,Manchester United,0,3,2020-06-30 19:15:00,Aaron Wan-Bissaka,Pass
+367768,20,MissedShots,0.7959999847412109,0.68,0.07122059911489487,Bruno Fernandes,a,1228,DirectFreekick,2019,RightFoot,11956,Brighton,Manchester United,0,3,2020-06-30 19:15:00,,Standard
+367769,22,MissedShots,0.9119999694824219,0.40799999237060547,0.03914982080459595,Harry Maguire,a,1687,FromCorner,2019,Head,11956,Brighton,Manchester United,0,3,2020-06-30 19:15:00,Bruno Fernandes,Cross
+367770,28,Goal,0.8180000305175781,0.4540000152587891,0.07461951673030853,Bruno Fernandes,a,1228,OpenPlay,2019,RightFoot,11956,Brighton,Manchester United,0,3,2020-06-30 19:15:00,Paul Pogba,Pass
+367772,38,MissedShots,0.8030000305175782,0.7240000152587891,0.035460129380226135,Marcus Rashford,a,556,OpenPlay,2019,RightFoot,11956,Brighton,Manchester United,0,3,2020-06-30 19:15:00,Harry Maguire,Pass
+367773,49,Goal,0.9219999694824219,0.40700000762939453,0.5109179019927979,Bruno Fernandes,a,1228,OpenPlay,2019,RightFoot,11956,Brighton,Manchester United,0,3,2020-06-30 19:15:00,Mason Greenwood,Chipped
+367776,65,BlockedShot,0.899000015258789,0.5059999847412109,0.07323729991912842,Brandon Williams,a,8075,OpenPlay,2019,Head,11956,Brighton,Manchester United,0,3,2020-06-30 19:15:00,Aaron Wan-Bissaka,Cross
+367781,83,SavedShot,0.7680000305175781,0.5359999847412109,0.02776728756725788,Scott McTominay,a,5560,OpenPlay,2019,RightFoot,11956,Brighton,Manchester United,0,3,2020-06-30 19:15:00,,None
+367782,85,SavedShot,0.879000015258789,0.629000015258789,0.1048520877957344,Daniel James,a,5595,OpenPlay,2019,RightFoot,11956,Brighton,Manchester United,0,3,2020-06-30 19:15:00,Brandon Williams,Chipped
+367783,85,SavedShot,0.8909999847412109,0.6880000305175781,0.07882040739059448,Daniel James,a,5595,OpenPlay,2019,RightFoot,11956,Brighton,Manchester United,0,3,2020-06-30 19:15:00,Andreas Pereira,Pass

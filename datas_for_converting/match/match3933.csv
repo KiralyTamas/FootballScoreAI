@@ -1,0 +1,28 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+140909,1,MissedShots,0.8019999694824219,0.35700000762939454,0.03645676374435425,Fernando Torres,h,2271,OpenPlay,2016,RightFoot,3933,Atletico Madrid,Leganes,2,0,2017-02-04 17:30:00,Antoine Griezmann,Chipped
+140910,6,MissedShots,0.7469999694824219,0.3920000076293945,0.019235318526625633,Saúl Ñíguez,h,2266,OpenPlay,2016,LeftFoot,3933,Atletico Madrid,Leganes,2,0,2017-02-04 17:30:00,,BallTouch
+140911,8,BlockedShot,0.7819999694824219,0.4779999923706055,0.058034054934978485,Antoine Griezmann,h,2270,OpenPlay,2016,LeftFoot,3933,Atletico Madrid,Leganes,2,0,2017-02-04 17:30:00,,TakeOn
+140913,14,SavedShot,0.885,0.5,0.7432776093482971,Antoine Griezmann,h,2270,Penalty,2016,LeftFoot,3933,Atletico Madrid,Leganes,2,0,2017-02-04 17:30:00,,Standard
+140914,14,Goal,0.9569999694824218,0.48200000762939454,0.6689558029174805,Fernando Torres,h,2271,SetPiece,2016,RightFoot,3933,Atletico Madrid,Leganes,2,0,2017-02-04 17:30:00,,Rebound
+140915,19,MissedShots,0.8959999847412109,0.6170000076293946,0.07573287189006805,Fernando Torres,h,2271,OpenPlay,2016,LeftFoot,3933,Atletico Madrid,Leganes,2,0,2017-02-04 17:30:00,Filipe Luis,Cross
+140921,49,MissedShots,0.8009999847412109,0.5940000152587891,0.11728239059448242,Koke,h,2269,DirectFreekick,2016,RightFoot,3933,Atletico Madrid,Leganes,2,0,2017-02-04 17:30:00,,Standard
+140922,50,Goal,0.8619999694824219,0.46,0.3887370228767395,Fernando Torres,h,2271,OpenPlay,2016,RightFoot,3933,Atletico Madrid,Leganes,2,0,2017-02-04 17:30:00,Ángel Correa,Throughball
+140929,75,MissedShots,0.8590000152587891,0.36700000762939455,0.0976802259683609,Ángel Correa,h,2275,OpenPlay,2016,LeftFoot,3933,Atletico Madrid,Leganes,2,0,2017-02-04 17:30:00,Juanfran,Pass
+140930,79,BlockedShot,0.82,0.504000015258789,0.0934167355298996,Fernando Torres,h,2271,OpenPlay,2016,RightFoot,3933,Atletico Madrid,Leganes,2,0,2017-02-04 17:30:00,Juanfran,Pass
+140932,88,BlockedShot,0.7480000305175781,0.735,0.043165504932403564,Yannick Carrasco,h,2272,DirectFreekick,2016,RightFoot,3933,Atletico Madrid,Leganes,2,0,2017-02-04 17:30:00,,Standard
+140933,88,SavedShot,0.7709999847412109,0.66,0.022948844358325005,Yannick Carrasco,h,2272,FromCorner,2016,RightFoot,3933,Atletico Madrid,Leganes,2,0,2017-02-04 17:30:00,Filipe Luis,Pass
+140912,12,MissedShots,0.8490000152587891,0.20700000762939452,0.025052666664123535,Alberto Bueno,a,4119,OpenPlay,2016,RightFoot,3933,Atletico Madrid,Leganes,2,0,2017-02-04 17:30:00,Guerrero,HeadPass
+140916,25,BlockedShot,0.8669999694824219,0.6869999694824219,0.09539670497179031,Alexander Szymanowski,a,5068,OpenPlay,2016,LeftFoot,3933,Atletico Madrid,Leganes,2,0,2017-02-04 17:30:00,Diego Rico,Throughball
+140917,26,BlockedShot,0.835999984741211,0.5670000076293945,0.028824469074606895,Alberto Bueno,a,4119,FromCorner,2016,LeftFoot,3933,Atletico Madrid,Leganes,2,0,2017-02-04 17:30:00,Dimitrios Siovas,HeadPass
+140918,32,MissedShots,0.8180000305175781,0.5770000076293945,0.02400585077702999,Guerrero,a,2218,SetPiece,2016,Head,3933,Atletico Madrid,Leganes,2,0,2017-02-04 17:30:00,Alexander Szymanowski,Chipped
+140919,37,MissedShots,0.8680000305175781,0.23100000381469726,0.022349568083882332,Víctor Díaz,a,5117,OpenPlay,2016,RightFoot,3933,Atletico Madrid,Leganes,2,0,2017-02-04 17:30:00,Guerrero,Pass
+140920,38,MissedShots,0.745999984741211,0.34599998474121096,0.010201440192759037,Unai López,a,4091,OpenPlay,2016,RightFoot,3933,Atletico Madrid,Leganes,2,0,2017-02-04 17:30:00,,Aerial
+140923,66,MissedShots,0.9009999847412109,0.5640000152587891,0.07948402315378189,Unai Bustinza,a,4107,SetPiece,2016,Head,3933,Atletico Madrid,Leganes,2,0,2017-02-04 17:30:00,Alexander Szymanowski,Cross
+140924,67,BlockedShot,0.85,0.5220000076293946,0.08254168927669525,Alberto Bueno,a,4119,OpenPlay,2016,LeftFoot,3933,Atletico Madrid,Leganes,2,0,2017-02-04 17:30:00,Alexander Szymanowski,Pass
+140925,68,MissedShots,0.8809999847412109,0.549000015258789,0.014655045233666897,Pablo Insúa,a,4037,FromCorner,2016,Head,3933,Atletico Madrid,Leganes,2,0,2017-02-04 17:30:00,Alberto Bueno,Aerial
+140926,68,BlockedShot,0.8819999694824219,0.54,0.10301749408245087,Pablo Insúa,a,4037,FromCorner,2016,RightFoot,3933,Atletico Madrid,Leganes,2,0,2017-02-04 17:30:00,,Rebound
+140927,68,BlockedShot,0.8519999694824218,0.5359999847412109,0.0769834890961647,Víctor Díaz,a,5117,FromCorner,2016,LeftFoot,3933,Atletico Madrid,Leganes,2,0,2017-02-04 17:30:00,,Rebound
+140928,71,MissedShots,0.8090000152587891,0.31,0.021929744631052017,Samu García,a,2300,OpenPlay,2016,RightFoot,3933,Atletico Madrid,Leganes,2,0,2017-02-04 17:30:00,Alexander Szymanowski,Pass
+140931,85,SavedShot,0.9330000305175781,0.43099998474121093,0.12412702292203903,Samu García,a,2300,OpenPlay,2016,Head,3933,Atletico Madrid,Leganes,2,0,2017-02-04 17:30:00,Darwin Machís,Cross
+140934,90,BlockedShot,0.735,0.735,0.011150190606713295,Diego Rico,a,5065,OpenPlay,2016,LeftFoot,3933,Atletico Madrid,Leganes,2,0,2017-02-04 17:30:00,Darwin Machís,Pass
+140935,91,SavedShot,0.72,0.47,0.01615784503519535,Darwin Machís,a,4226,OpenPlay,2016,RightFoot,3933,Atletico Madrid,Leganes,2,0,2017-02-04 17:30:00,Alberto Bueno,Pass

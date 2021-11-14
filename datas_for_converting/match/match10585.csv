@@ -1,0 +1,29 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+291923,9,BlockedShot,0.875999984741211,0.4470000076293945,0.07201433926820755,Mathew Leckie,h,241,OpenPlay,2018,LeftFoot,10585,Hertha Berlin,Fortuna Duesseldorf,1,2,2019-04-06 14:30:00,Maximilian Mittelstädt,Cross
+291924,9,MissedShots,0.9590000152587891,0.3340000152587891,0.03544799983501434,Mathew Leckie,h,241,FromCorner,2018,RightFoot,10585,Hertha Berlin,Fortuna Duesseldorf,1,2,2019-04-06 14:30:00,Ondrej Duda,Cross
+291926,20,MissedShots,0.740999984741211,0.3509999847412109,0.010441852733492851,Mathew Leckie,h,241,OpenPlay,2018,RightFoot,10585,Hertha Berlin,Fortuna Duesseldorf,1,2,2019-04-06 14:30:00,Marko Grujic,Chipped
+291928,23,BlockedShot,0.8030000305175782,0.6140000152587891,0.027538079768419266,Salomon Kalou,h,26,OpenPlay,2018,RightFoot,10585,Hertha Berlin,Fortuna Duesseldorf,1,2,2019-04-06 14:30:00,Mathew Leckie,TakeOn
+291934,40,Goal,0.955999984741211,0.475,0.6230504512786865,Marko Grujic,h,1669,OpenPlay,2018,RightFoot,10585,Hertha Berlin,Fortuna Duesseldorf,1,2,2019-04-06 14:30:00,Ondrej Duda,Pass
+291935,56,SavedShot,0.9159999847412109,0.485,0.37418824434280396,Ondrej Duda,h,5240,OpenPlay,2018,RightFoot,10585,Hertha Berlin,Fortuna Duesseldorf,1,2,2019-04-06 14:30:00,Valentino Lazaro,Cross
+291936,56,MissedShots,0.9669999694824218,0.5940000152587891,0.3879595994949341,Mathew Leckie,h,241,OpenPlay,2018,LeftFoot,10585,Hertha Berlin,Fortuna Duesseldorf,1,2,2019-04-06 14:30:00,,Rebound
+291937,58,MissedShots,0.775,0.5259999847412109,0.030023830011487007,Ondrej Duda,h,5240,OpenPlay,2018,RightFoot,10585,Hertha Berlin,Fortuna Duesseldorf,1,2,2019-04-06 14:30:00,Mathew Leckie,Pass
+291944,80,SavedShot,0.909000015258789,0.8159999847412109,0.06684508174657822,Valentino Lazaro,h,6352,DirectFreekick,2018,RightFoot,10585,Hertha Berlin,Fortuna Duesseldorf,1,2,2019-04-06 14:30:00,,Standard
+291945,80,MissedShots,0.9259999847412109,0.5609999847412109,0.08857903629541397,Marko Grujic,h,1669,FromCorner,2018,Head,10585,Hertha Berlin,Fortuna Duesseldorf,1,2,2019-04-06 14:30:00,Valentino Lazaro,Cross
+291946,82,MissedShots,0.9069999694824219,0.5179999923706055,0.28557857871055603,Salomon Kalou,h,26,OpenPlay,2018,Head,10585,Hertha Berlin,Fortuna Duesseldorf,1,2,2019-04-06 14:30:00,Valentino Lazaro,Cross
+291948,90,MissedShots,0.8859999847412109,0.5070000076293946,0.030598225072026253,Pal Dardai,h,5317,OpenPlay,2018,Head,10585,Hertha Berlin,Fortuna Duesseldorf,1,2,2019-04-06 14:30:00,Maximilian Mittelstädt,Aerial
+291949,92,MissedShots,0.8640000152587891,0.549000015258789,0.01321456115692854,Niklas Stark,h,418,OpenPlay,2018,Head,10585,Hertha Berlin,Fortuna Duesseldorf,1,2,2019-04-06 14:30:00,Pal Dardai,Aerial
+291922,2,SavedShot,0.735,0.33799999237060546,0.271596223115921,Dodi Lukebakio,a,5706,OpenPlay,2018,RightFoot,10585,Hertha Berlin,Fortuna Duesseldorf,1,2,2019-04-06 14:30:00,Benito Raman,Throughball
+291925,13,MissedShots,0.9019999694824219,0.575,0.036420855671167374,Rouwen Hennings,a,7060,OpenPlay,2018,Head,10585,Hertha Berlin,Fortuna Duesseldorf,1,2,2019-04-06 14:30:00,Kevin Stöger,Aerial
+291927,22,MissedShots,0.8219999694824218,0.23700000762939452,0.023615309968590736,Matthias Zimmermann,a,2629,OpenPlay,2018,RightFoot,10585,Hertha Berlin,Fortuna Duesseldorf,1,2,2019-04-06 14:30:00,Rouwen Hennings,Pass
+291929,25,MissedShots,0.885,0.57,0.2980094254016876,Dodi Lukebakio,a,5706,OpenPlay,2018,RightFoot,10585,Hertha Berlin,Fortuna Duesseldorf,1,2,2019-04-06 14:30:00,Kevin Stöger,Chipped
+291930,28,MissedShots,0.91,0.595999984741211,0.11007965356111526,Benito Raman,a,7059,OpenPlay,2018,LeftFoot,10585,Hertha Berlin,Fortuna Duesseldorf,1,2,2019-04-06 14:30:00,Kevin Stöger,Pass
+291931,28,MissedShots,0.95,0.48900001525878906,0.580892026424408,Marcin Kaminski,a,6085,FromCorner,2018,LeftFoot,10585,Hertha Berlin,Fortuna Duesseldorf,1,2,2019-04-06 14:30:00,,None
+291932,29,SavedShot,0.92,0.5709999847412109,0.42322272062301636,Dodi Lukebakio,a,5706,OpenPlay,2018,LeftFoot,10585,Hertha Berlin,Fortuna Duesseldorf,1,2,2019-04-06 14:30:00,Rouwen Hennings,Pass
+291933,34,Goal,0.8690000152587891,0.40799999237060547,0.11528509855270386,Benito Raman,a,7059,OpenPlay,2018,LeftFoot,10585,Hertha Berlin,Fortuna Duesseldorf,1,2,2019-04-06 14:30:00,Rouwen Hennings,Pass
+291938,60,SavedShot,0.9,0.485,0.1007780060172081,Benito Raman,a,7059,OpenPlay,2018,LeftFoot,10585,Hertha Berlin,Fortuna Duesseldorf,1,2,2019-04-06 14:30:00,Oliver Fink,Cross
+291939,60,Goal,0.9319999694824219,0.5029999923706054,0.5766820311546326,Benito Raman,a,7059,OpenPlay,2018,RightFoot,10585,Hertha Berlin,Fortuna Duesseldorf,1,2,2019-04-06 14:30:00,,Rebound
+291940,67,BlockedShot,0.9,0.66,0.03889363259077072,Niko Gießelmann,a,7056,SetPiece,2018,LeftFoot,10585,Hertha Berlin,Fortuna Duesseldorf,1,2,2019-04-06 14:30:00,Kevin Stöger,Pass
+291941,69,BlockedShot,0.904000015258789,0.3240000152587891,0.0678112581372261,Takashi Usami,a,5291,OpenPlay,2018,RightFoot,10585,Hertha Berlin,Fortuna Duesseldorf,1,2,2019-04-06 14:30:00,Rouwen Hennings,Chipped
+291942,71,MissedShots,0.8719999694824219,0.31,0.030622059479355812,Benito Raman,a,7059,SetPiece,2018,RightFoot,10585,Hertha Berlin,Fortuna Duesseldorf,1,2,2019-04-06 14:30:00,Kevin Stöger,Pass
+291943,74,SavedShot,0.8009999847412109,0.42700000762939455,0.055594753473997116,Benito Raman,a,7059,OpenPlay,2018,LeftFoot,10585,Hertha Berlin,Fortuna Duesseldorf,1,2,2019-04-06 14:30:00,Kevin Stöger,Pass
+291947,89,SavedShot,0.874000015258789,0.705,0.05642117187380791,Takashi Usami,a,5291,OpenPlay,2018,LeftFoot,10585,Hertha Berlin,Fortuna Duesseldorf,1,2,2019-04-06 14:30:00,Kevin Stöger,Pass

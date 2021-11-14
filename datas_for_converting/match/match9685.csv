@@ -1,0 +1,29 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+253058,16,SavedShot,0.7859999847412109,0.5890000152587891,0.03282478079199791,Dennis Praet,h,1234,OpenPlay,2018,RightFoot,9685,Sampdoria,Torino,1,4,2018-11-04 14:00:00,Karol Linetty,Pass
+253060,21,MissedShots,0.8969999694824219,0.6830000305175781,0.05569245666265488,Gianluca Caprari,h,1170,OpenPlay,2018,RightFoot,9685,Sampdoria,Torino,1,4,2018-11-04 14:00:00,Riccardo Saponara,Pass
+253062,32,SavedShot,0.925,0.36900001525878906,0.02848164550960064,Fabio Quagliarella,h,1230,SetPiece,2018,Head,9685,Sampdoria,Torino,1,4,2018-11-04 14:00:00,Gianluca Caprari,Cross
+253063,38,BlockedShot,0.8180000305175781,0.5379999923706055,0.059964362531900406,Riccardo Saponara,h,1313,OpenPlay,2018,RightFoot,9685,Sampdoria,Torino,1,4,2018-11-04 14:00:00,Dennis Praet,Pass
+253065,45,MissedShots,0.775,0.48700000762939455,0.013660524040460587,Riccardo Saponara,h,1313,OpenPlay,2018,RightFoot,9685,Sampdoria,Torino,1,4,2018-11-04 14:00:00,Fabio Quagliarella,HeadPass
+253068,50,BlockedShot,0.759000015258789,0.6430000305175781,0.057095177471637726,Fabio Quagliarella,h,1230,DirectFreekick,2018,RightFoot,9685,Sampdoria,Torino,1,4,2018-11-04 14:00:00,,Standard
+253070,58,MissedShots,0.749000015258789,0.45,0.02482544630765915,Gianluca Caprari,h,1170,OpenPlay,2018,LeftFoot,9685,Sampdoria,Torino,1,4,2018-11-04 14:00:00,Dennis Praet,TakeOn
+253073,64,SavedShot,0.885,0.5,0.7612988352775574,Fabio Quagliarella,h,1230,Penalty,2018,RightFoot,9685,Sampdoria,Torino,1,4,2018-11-04 14:00:00,,Standard
+253074,64,Goal,0.965,0.54,0.9619730710983276,Fabio Quagliarella,h,1230,SetPiece,2018,LeftFoot,9685,Sampdoria,Torino,1,4,2018-11-04 14:00:00,,TakeOn
+253077,78,MissedShots,0.774000015258789,0.415,0.01846141926944256,Fabio Quagliarella,h,1230,OpenPlay,2018,RightFoot,9685,Sampdoria,Torino,1,4,2018-11-04 14:00:00,Dawid Kownacki,HeadPass
+253079,89,MissedShots,0.8430000305175781,0.40400001525878904,0.080570749938488,Fabio Quagliarella,h,1230,OpenPlay,2018,RightFoot,9685,Sampdoria,Torino,1,4,2018-11-04 14:00:00,Dawid Kownacki,Pass
+253081,91,MissedShots,0.885,0.3120000076293945,0.06447197496891022,Dennis Praet,h,1234,OpenPlay,2018,RightFoot,9685,Sampdoria,Torino,1,4,2018-11-04 14:00:00,Dawid Kownacki,Pass
+253082,92,SavedShot,0.8930000305175781,0.5209999847412109,0.03195052966475487,Lorenzo Tonelli,h,1394,SetPiece,2018,Head,9685,Sampdoria,Torino,1,4,2018-11-04 14:00:00,Dennis Praet,Aerial
+253055,6,MissedShots,0.9109999847412109,0.4640000152587891,0.051439180970191956,Andrea Belotti,a,1186,OpenPlay,2018,Head,9685,Sampdoria,Torino,1,4,2018-11-04 14:00:00,Lorenzo De Silvestri,Aerial
+253056,11,MissedShots,0.8959999847412109,0.715,0.048082880675792694,Ola Aina,a,725,OpenPlay,2018,LeftFoot,9685,Sampdoria,Torino,1,4,2018-11-04 14:00:00,Daniele Baselli,BallTouch
+253057,11,Goal,0.9230000305175782,0.505,0.06469610333442688,Andrea Belotti,a,1186,OpenPlay,2018,Head,9685,Sampdoria,Torino,1,4,2018-11-04 14:00:00,Lorenzo De Silvestri,Aerial
+253059,19,MissedShots,0.8230000305175781,0.6619999694824219,0.03740857541561127,Iago Falque,a,1185,OpenPlay,2018,RightFoot,9685,Sampdoria,Torino,1,4,2018-11-04 14:00:00,Ola Aina,Pass
+253061,28,MissedShots,0.7280000305175781,0.3820000076293945,0.022756733000278473,Iago Falque,a,1185,OpenPlay,2018,LeftFoot,9685,Sampdoria,Torino,1,4,2018-11-04 14:00:00,Armando Izzo,Pass
+253064,42,Goal,0.885,0.5,0.7612988352775574,Andrea Belotti,a,1186,Penalty,2018,RightFoot,9685,Sampdoria,Torino,1,4,2018-11-04 14:00:00,,Standard
+253066,46,MissedShots,0.8109999847412109,0.31799999237060544,0.042454153299331665,Iago Falque,a,1185,OpenPlay,2018,LeftFoot,9685,Sampdoria,Torino,1,4,2018-11-04 14:00:00,Soualiho Meité,Pass
+253067,46,MissedShots,0.8290000152587891,0.38799999237060545,0.06236175075173378,Andrea Belotti,a,1186,OpenPlay,2018,RightFoot,9685,Sampdoria,Torino,1,4,2018-11-04 14:00:00,Lorenzo De Silvestri,HeadPass
+253069,55,Goal,0.8690000152587891,0.505,0.08174121379852295,Iago Falque,a,1185,OpenPlay,2018,LeftFoot,9685,Sampdoria,Torino,1,4,2018-11-04 14:00:00,Ola Aina,HeadPass
+253071,59,SavedShot,0.720999984741211,0.43400001525878906,0.018038395792245865,Tomás Rincón,a,1099,OpenPlay,2018,RightFoot,9685,Sampdoria,Torino,1,4,2018-11-04 14:00:00,,BallRecovery
+253072,61,SavedShot,0.865,0.6430000305175781,0.05471835285425186,Daniele Baselli,a,1182,OpenPlay,2018,RightFoot,9685,Sampdoria,Torino,1,4,2018-11-04 14:00:00,Soualiho Meité,TakeOn
+253075,70,SavedShot,0.865,0.4520000076293945,0.11313636600971222,Andrea Belotti,a,1186,OpenPlay,2018,LeftFoot,9685,Sampdoria,Torino,1,4,2018-11-04 14:00:00,Ola Aina,Cross
+253076,77,Goal,0.9840000152587891,0.48200000762939454,0.6471468210220337,Armando Izzo,a,1096,FromCorner,2018,LeftFoot,9685,Sampdoria,Torino,1,4,2018-11-04 14:00:00,Andrea Belotti,BallTouch
+253078,83,MissedShots,0.7809999847412109,0.62,0.04225196689367294,Alex Berenguer,a,5091,OpenPlay,2018,RightFoot,9685,Sampdoria,Torino,1,4,2018-11-04 14:00:00,Soualiho Meité,Pass
+253080,89,BlockedShot,0.685,0.5709999847412109,0.019512159749865532,Simone Zaza,a,1642,OpenPlay,2018,LeftFoot,9685,Sampdoria,Torino,1,4,2018-11-04 14:00:00,Salvatore Sirigu,TakeOn

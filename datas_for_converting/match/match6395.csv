@@ -1,0 +1,27 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+9993,4,SavedShot,0.8590000152587891,0.2539999961853027,0.021682748571038246,Hulk,h,3064,OpenPlay,2014,LeftFoot,6395,Zenit St. Petersburg,Dinamo Moscow,3,2,2014-09-13 15:30:00,Danny,Chipped
+9994,5,MissedShots,0.67,0.32799999237060545,0.025816550478339195,Hulk,h,3064,DirectFreekick,2014,LeftFoot,6395,Zenit St. Petersburg,Dinamo Moscow,3,2,2014-09-13 15:30:00,,Standard
+9997,19,MissedShots,0.8540000152587891,0.7069999694824218,0.03722133859992027,Andrey Arshavin,h,3177,SetPiece,2014,RightFoot,6395,Zenit St. Petersburg,Dinamo Moscow,3,2,2014-09-13 15:30:00,Danny,TakeOn
+9998,23,BlockedShot,0.649000015258789,0.405,0.025051884353160858,Hulk,h,3064,DirectFreekick,2014,LeftFoot,6395,Zenit St. Petersburg,Dinamo Moscow,3,2,2014-09-13 15:30:00,,Standard
+9999,27,SavedShot,0.8819999694824219,0.7340000152587891,0.037923384457826614,Domenico Criscito,h,3065,OpenPlay,2014,RightFoot,6395,Zenit St. Petersburg,Dinamo Moscow,3,2,2014-09-13 15:30:00,Andrey Arshavin,TakeOn
+10001,31,SavedShot,0.7959999847412109,0.31,0.02119447849690914,Axel Witsel,h,3059,OpenPlay,2014,LeftFoot,6395,Zenit St. Petersburg,Dinamo Moscow,3,2,2014-09-13 15:30:00,Andrey Arshavin,LayOff
+10002,39,Goal,0.88,0.40599998474121096,0.141915962100029,Andrey Arshavin,h,3177,OpenPlay,2014,RightFoot,6395,Zenit St. Petersburg,Dinamo Moscow,3,2,2014-09-13 15:30:00,Hulk,Pass
+10005,51,MissedShots,0.7980000305175782,0.345,0.038456991314888,Pavel Mogilevets,h,2773,OpenPlay,2014,RightFoot,6395,Zenit St. Petersburg,Dinamo Moscow,3,2,2014-09-13 15:30:00,,BallRecovery
+10010,71,BlockedShot,0.845,0.6659999847412109,0.053323183208703995,Salomón Rondón,h,813,OpenPlay,2014,LeftFoot,6395,Zenit St. Petersburg,Dinamo Moscow,3,2,2014-09-13 15:30:00,Hulk,Pass
+10012,78,SavedShot,0.950999984741211,0.66,0.0919288620352745,Salomón Rondón,h,813,OpenPlay,2014,LeftFoot,6395,Zenit St. Petersburg,Dinamo Moscow,3,2,2014-09-13 15:30:00,Hulk,Pass
+10013,78,BlockedShot,0.850999984741211,0.26600000381469724,0.019321737810969353,Pavel Mogilevets,h,2773,FromCorner,2014,RightFoot,6395,Zenit St. Petersburg,Dinamo Moscow,3,2,2014-09-13 15:30:00,,None
+10014,78,MissedShots,0.8869999694824219,0.6279999923706054,0.30276891589164734,Ezequiel Garay,h,3056,FromCorner,2014,RightFoot,6395,Zenit St. Petersburg,Dinamo Moscow,3,2,2014-09-13 15:30:00,,Rebound
+10016,88,Goal,0.95,0.36700000762939455,0.3294091522693634,Igor Smolnikov,h,3055,OpenPlay,2014,RightFoot,6395,Zenit St. Petersburg,Dinamo Moscow,3,2,2014-09-13 15:30:00,Danny,Throughball
+10017,92,BlockedShot,0.860999984741211,0.345,0.07336104661226273,Pavel Mogilevets,h,2773,OpenPlay,2014,RightFoot,6395,Zenit St. Petersburg,Dinamo Moscow,3,2,2014-09-13 15:30:00,Salomón Rondón,Pass
+9995,11,MissedShots,0.889000015258789,0.35700000762939454,0.05468960478901863,Stanislav Manolev,a,2738,OpenPlay,2014,RightFoot,6395,Zenit St. Petersburg,Dinamo Moscow,3,2,2014-09-13 15:30:00,William Vainqueur,Chipped
+9996,17,Goal,0.845999984741211,0.33099998474121095,0.03691478818655014,Mathieu Valbuena,a,3186,OpenPlay,2014,RightFoot,6395,Zenit St. Petersburg,Dinamo Moscow,3,2,2014-09-13 15:30:00,Aleksey Ionov,Pass
+10000,27,OwnGoal,0.04400000095367432,0.48,0,Douglas,a,3183,OpenPlay,2014,OtherBodyPart,6395,Zenit St. Petersburg,Dinamo Moscow,3,2,2014-09-13 15:30:00,,Save
+10003,48,MissedShots,0.855,0.605,0.056458376348018646,Vladimir Granat,a,2827,SetPiece,2014,LeftFoot,6395,Zenit St. Petersburg,Dinamo Moscow,3,2,2014-09-13 15:30:00,,None
+10004,50,BlockedShot,0.914000015258789,0.4109999847412109,0.03909682109951973,Christopher Samba,a,2746,FromCorner,2014,Head,6395,Zenit St. Petersburg,Dinamo Moscow,3,2,2014-09-13 15:30:00,Mathieu Valbuena,Cross
+10006,58,SavedShot,0.865,0.5779999923706055,0.05985048785805702,Aleksandr Kokorin,a,3066,OpenPlay,2014,RightFoot,6395,Zenit St. Petersburg,Dinamo Moscow,3,2,2014-09-13 15:30:00,Vladimir Granat,Cross
+10007,64,MissedShots,0.904000015258789,0.6719999694824219,0.040281638503074646,Aleksey Ionov,a,2751,OpenPlay,2014,LeftFoot,6395,Zenit St. Petersburg,Dinamo Moscow,3,2,2014-09-13 15:30:00,William Vainqueur,Cross
+10008,68,SavedShot,0.915,0.4909999847412109,0.08573354035615921,Douglas,a,3183,FromCorner,2014,Head,6395,Zenit St. Petersburg,Dinamo Moscow,3,2,2014-09-13 15:30:00,Mathieu Valbuena,Cross
+10009,69,MissedShots,0.7390000152587891,0.4420000076293945,0.013911969028413296,William Vainqueur,a,1944,OpenPlay,2014,RightFoot,6395,Zenit St. Petersburg,Dinamo Moscow,3,2,2014-09-13 15:30:00,Christopher Samba,TakeOn
+10011,72,SavedShot,0.9169999694824219,0.6020000076293945,0.047603312879800797,Kevin Kurányi,a,255,OpenPlay,2014,Head,6395,Zenit St. Petersburg,Dinamo Moscow,3,2,2014-09-13 15:30:00,Mathieu Valbuena,Cross
+10015,81,Goal,0.9269999694824219,0.485,0.12482123076915741,Christopher Samba,a,2746,SetPiece,2014,Head,6395,Zenit St. Petersburg,Dinamo Moscow,3,2,2014-09-13 15:30:00,Mathieu Valbuena,Cross
+10018,93,MissedShots,0.7330000305175781,0.545,0.017665879800915718,Mathieu Valbuena,a,3186,OpenPlay,2014,RightFoot,6395,Zenit St. Petersburg,Dinamo Moscow,3,2,2014-09-13 15:30:00,,None

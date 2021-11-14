@@ -1,0 +1,23 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+65143,25,BlockedShot,0.6980000305175781,0.51,0.016936548054218292,Nicolas Maurice-Belay,h,3731,OpenPlay,2015,LeftFoot,2037,Bordeaux,Guingamp,1,0,2015-12-06 20:00:00,Adam Ounas,Pass
+65144,28,MissedShots,0.845999984741211,0.6409999847412109,0.0627710223197937,Cheick Diabaté,h,3577,OpenPlay,2015,RightFoot,2037,Bordeaux,Guingamp,1,0,2015-12-06 20:00:00,Wahbi Khazri,Pass
+65145,30,MissedShots,0.950999984741211,0.6270000076293946,0.012645880691707134,Henri Saivet,h,778,SetPiece,2015,Head,2037,Bordeaux,Guingamp,1,0,2015-12-06 20:00:00,Wahbi Khazri,Aerial
+65146,31,BlockedShot,0.7169999694824218,0.6279999923706054,0.019023573026061058,Wahbi Khazri,h,734,OpenPlay,2015,RightFoot,2037,Bordeaux,Guingamp,1,0,2015-12-06 20:00:00,Cédric Yambéré,Pass
+65147,42,SavedShot,0.78,0.43900001525878907,0.0432727076113224,Adam Ounas,h,3259,OpenPlay,2015,LeftFoot,2037,Bordeaux,Guingamp,1,0,2015-12-06 20:00:00,Frederic Guilbert,HeadPass
+65149,52,MissedShots,0.945,0.3089999961853027,0.021027354523539543,Adam Ounas,h,3259,OpenPlay,2015,RightFoot,2037,Bordeaux,Guingamp,1,0,2015-12-06 20:00:00,Wahbi Khazri,Cross
+65150,59,SavedShot,0.840999984741211,0.16,0.01884082704782486,Adam Ounas,h,3259,OpenPlay,2015,LeftFoot,2037,Bordeaux,Guingamp,1,0,2015-12-06 20:00:00,Jaroslav Plasil,Pass
+65151,61,MissedShots,0.9540000152587891,0.5259999847412109,0.11585225909948349,Cheick Diabaté,h,3577,OpenPlay,2015,Head,2037,Bordeaux,Guingamp,1,0,2015-12-06 20:00:00,Adam Ounas,Aerial
+65152,61,Goal,0.9530000305175781,0.509000015258789,0.13529959321022034,Cédric Yambéré,h,3257,FromCorner,2015,Head,2037,Bordeaux,Guingamp,1,0,2015-12-06 20:00:00,Wahbi Khazri,Cross
+65153,65,MissedShots,0.8969999694824219,0.644000015258789,0.09680899232625961,Wahbi Khazri,h,734,OpenPlay,2015,RightFoot,2037,Bordeaux,Guingamp,1,0,2015-12-06 20:00:00,Nicolas Maurice-Belay,Pass
+65154,65,MissedShots,0.95,0.3110000038146973,0.010385732166469097,Andre Biyogo Poko,h,3252,FromCorner,2015,Head,2037,Bordeaux,Guingamp,1,0,2015-12-06 20:00:00,Wahbi Khazri,Cross
+65156,72,BlockedShot,0.769000015258789,0.33799999237060546,0.06164774298667908,Henri Saivet,h,778,DirectFreekick,2015,RightFoot,2037,Bordeaux,Guingamp,1,0,2015-12-06 20:00:00,,Standard
+65157,72,MissedShots,0.749000015258789,0.725999984741211,0.016596851870417595,Wahbi Khazri,h,734,OpenPlay,2015,RightFoot,2037,Bordeaux,Guingamp,1,0,2015-12-06 20:00:00,Nicolas Maurice-Belay,Pass
+65163,92,SavedShot,0.8069999694824219,0.3270000076293945,0.06524442881345749,Cheick Diabaté,h,3577,OpenPlay,2015,LeftFoot,2037,Bordeaux,Guingamp,1,0,2015-12-06 20:00:00,Diego Rolan,TakeOn
+65142,7,MissedShots,0.710999984741211,0.565,0.011495021171867847,Younousse Sankhare,a,3474,OpenPlay,2015,LeftFoot,2037,Bordeaux,Guingamp,1,0,2015-12-06 20:00:00,,None
+65148,50,BlockedShot,0.764000015258789,0.27,0.014749106019735336,Ludovic Blas,a,3475,OpenPlay,2015,LeftFoot,2037,Bordeaux,Guingamp,1,0,2015-12-06 20:00:00,Nicolas Benezet,Pass
+65155,69,BlockedShot,0.7330000305175781,0.5279999923706055,0.024824360385537148,Mana Dembele,a,3704,OpenPlay,2015,RightFoot,2037,Bordeaux,Guingamp,1,0,2015-12-06 20:00:00,Sloan Privat,LayOff
+65158,73,SavedShot,0.955999984741211,0.6179999923706054,0.358744353055954,Nicolas Benezet,a,3574,OpenPlay,2015,RightFoot,2037,Bordeaux,Guingamp,1,0,2015-12-06 20:00:00,Sloan Privat,Pass
+65159,83,MissedShots,0.7709999847412109,0.67,0.010870303027331829,Ludovic Blas,a,3475,OpenPlay,2015,RightFoot,2037,Bordeaux,Guingamp,1,0,2015-12-06 20:00:00,,Aerial
+65160,87,MissedShots,0.955999984741211,0.5879999923706055,0.0436631515622139,Mana Dembele,a,3704,OpenPlay,2015,Head,2037,Bordeaux,Guingamp,1,0,2015-12-06 20:00:00,Jeremy Livolant,Aerial
+65161,90,SavedShot,0.7169999694824218,0.5990000152587891,0.04320121929049492,Ludovic Blas,a,3475,DirectFreekick,2015,LeftFoot,2037,Bordeaux,Guingamp,1,0,2015-12-06 20:00:00,,Standard
+65162,91,BlockedShot,0.7819999694824219,0.365,0.024113118648529053,Nill de Pauw,a,3702,OpenPlay,2015,LeftFoot,2037,Bordeaux,Guingamp,1,0,2015-12-06 20:00:00,,None

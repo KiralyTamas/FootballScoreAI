@@ -1,0 +1,22 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+384020,10,Goal,0.925,0.4540000152587891,0.495968222618103,Gaetano Castrovilli,h,7909,OpenPlay,2020,LeftFoot,15469,Fiorentina,Udinese,3,2,2020-10-25 17:00:00,Cristiano Biraghi,Pass
+384022,16,MissedShots,0.755,0.7380000305175781,0.01960342563688755,José Callejón,h,1382,OpenPlay,2020,RightFoot,15469,Fiorentina,Udinese,3,2,2020-10-25 17:00:00,Sofyan Amrabat,Pass
+384023,20,Goal,0.965,0.54,0.5572955012321472,Nikola Milenkovic,h,6174,SetPiece,2020,Head,15469,Fiorentina,Udinese,3,2,2020-10-25 17:00:00,Gaetano Castrovilli,Chipped
+384029,43,MissedShots,0.874000015258789,0.5690000152587891,0.02374921552836895,José Callejón,h,1382,OpenPlay,2020,Head,15469,Fiorentina,Udinese,3,2,2020-10-25 17:00:00,Giacomo Bonaventura,End
+384031,50,Goal,0.8569999694824219,0.534000015258789,0.10772594809532166,Gaetano Castrovilli,h,7909,OpenPlay,2020,RightFoot,15469,Fiorentina,Udinese,3,2,2020-10-25 17:00:00,Cristiano Biraghi,Pass
+384019,7,BlockedShot,0.76,0.6980000305175781,0.01576673425734043,Kevin Lasagna,a,1903,OpenPlay,2020,LeftFoot,15469,Fiorentina,Udinese,3,2,2020-10-25 17:00:00,,BallRecovery
+384021,13,SavedShot,0.9719999694824218,0.515,0.9100422859191895,Kevin Lasagna,a,1903,OpenPlay,2020,OtherBodyPart,15469,Fiorentina,Udinese,3,2,2020-10-25 17:00:00,,None
+384024,23,BlockedShot,0.8169999694824219,0.710999984741211,0.018686624243855476,Tolgay Arslan,a,4348,FromCorner,2020,RightFoot,15469,Fiorentina,Udinese,3,2,2020-10-25 17:00:00,,None
+384025,34,MissedShots,0.7909999847412109,0.7,0.013766196556389332,Thomas Ouwejan,a,8922,FromCorner,2020,LeftFoot,15469,Fiorentina,Udinese,3,2,2020-10-25 17:00:00,,Aerial
+384026,35,SavedShot,0.94,0.649000015258789,0.2505210340023041,Kevin Lasagna,a,1903,OpenPlay,2020,LeftFoot,15469,Fiorentina,Udinese,3,2,2020-10-25 17:00:00,Stefano Okaka,Pass
+384027,35,MissedShots,0.76,0.5209999847412109,0.01756870746612549,Rodrigo de Paul,a,1145,OpenPlay,2020,RightFoot,15469,Fiorentina,Udinese,3,2,2020-10-25 17:00:00,,None
+384028,42,Goal,0.9590000152587891,0.5070000076293946,0.638857901096344,Stefano Okaka,a,1763,OpenPlay,2020,Head,15469,Fiorentina,Udinese,3,2,2020-10-25 17:00:00,,None
+384030,49,MissedShots,0.9269999694824219,0.545,0.04849092289805412,Sebastien De Maio,a,1431,FromCorner,2020,Head,15469,Fiorentina,Udinese,3,2,2020-10-25 17:00:00,,Aerial
+384032,58,BlockedShot,0.9069999694824219,0.6780000305175782,0.029145751148462296,Sebastien De Maio,a,1431,OpenPlay,2020,RightFoot,15469,Fiorentina,Udinese,3,2,2020-10-25 17:00:00,Nahuel Molina,Cross
+384033,60,SavedShot,0.9309999847412109,0.500999984741211,0.4253935217857361,Stefano Okaka,a,1763,FromCorner,2020,RightFoot,15469,Fiorentina,Udinese,3,2,2020-10-25 17:00:00,Rodrigo de Paul,Cross
+384034,61,MissedShots,0.8,0.7030000305175781,0.014045811258256435,Roberto Pereyra,a,1723,FromCorner,2020,RightFoot,15469,Fiorentina,Udinese,3,2,2020-10-25 17:00:00,,Aerial
+384035,71,SavedShot,0.83,0.7319999694824219,0.025233417749404907,Gerard Deulofeu,a,591,OpenPlay,2020,RightFoot,15469,Fiorentina,Udinese,3,2,2020-10-25 17:00:00,Samir,Pass
+384036,72,MissedShots,0.924000015258789,0.549000015258789,0.09045727550983429,Samir,a,1142,FromCorner,2020,Head,15469,Fiorentina,Udinese,3,2,2020-10-25 17:00:00,Rodrigo de Paul,Cross
+384037,82,BlockedShot,0.7119999694824218,0.4159999847412109,0.00864986702799797,Walace,a,5226,OpenPlay,2020,RightFoot,15469,Fiorentina,Udinese,3,2,2020-10-25 17:00:00,,None
+384038,85,Goal,0.9459999847412109,0.49400001525878906,0.1574283242225647,Stefano Okaka,a,1763,OpenPlay,2020,Head,15469,Fiorentina,Udinese,3,2,2020-10-25 17:00:00,Fernando Forestieri,Cross
+384039,91,MissedShots,0.7680000305175781,0.37900001525878907,0.022044319659471512,Rodrigo de Paul,a,1145,OpenPlay,2020,RightFoot,15469,Fiorentina,Udinese,3,2,2020-10-25 17:00:00,Nahuel Molina,Pass

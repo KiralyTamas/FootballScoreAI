@@ -1,0 +1,34 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+79754,1,SavedShot,0.8530000305175781,0.8419999694824218,0.04729130119085312,Nadiem Amiri,h,82,DirectFreekick,2015,RightFoot,1160,Hoffenheim,Hannover 96,1,0,2015-12-12 18:30:00,,Standard
+79756,11,BlockedShot,0.9119999694824219,0.544000015258789,0.09733717888593674,Kevin Volland,h,83,FromCorner,2015,LeftFoot,1160,Hoffenheim,Hannover 96,1,0,2015-12-12 18:30:00,Nadiem Amiri,Pass
+79757,11,MissedShots,0.8209999847412109,0.6780000305175782,0.009458593092858791,Tobias Strobl,h,79,FromCorner,2015,LeftFoot,1160,Hoffenheim,Hannover 96,1,0,2015-12-12 18:30:00,Nadiem Amiri,Chipped
+79761,29,Goal,0.89,0.42400001525878905,0.42975205183029175,Jonathan Schmid,h,81,OpenPlay,2015,Head,1160,Hoffenheim,Hannover 96,1,0,2015-12-12 18:30:00,Kevin Volland,Chipped
+79769,53,MissedShots,0.889000015258789,0.59,0.11929760873317719,Kevin Volland,h,83,OpenPlay,2015,LeftFoot,1160,Hoffenheim,Hannover 96,1,0,2015-12-12 18:30:00,Nadiem Amiri,Pass
+79772,60,SavedShot,0.91,0.6680000305175782,0.29373374581336975,Kevin Volland,h,83,OpenPlay,2015,LeftFoot,1160,Hoffenheim,Hannover 96,1,0,2015-12-12 18:30:00,Jonathan Schmid,Pass
+79773,60,BlockedShot,0.7659999847412109,0.509000015258789,0.030081341043114662,Pirmin Schwegler,h,80,OpenPlay,2015,RightFoot,1160,Hoffenheim,Hannover 96,1,0,2015-12-12 18:30:00,,Rebound
+79776,66,MissedShots,0.750999984741211,0.31799999237060544,0.04687152057886124,Nadiem Amiri,h,82,OpenPlay,2015,RightFoot,1160,Hoffenheim,Hannover 96,1,0,2015-12-12 18:30:00,Eduardo Vargas,BallRecovery
+79781,78,SavedShot,0.855999984741211,0.5879999923706055,0.07619184255599976,Nadiem Amiri,h,82,OpenPlay,2015,RightFoot,1160,Hoffenheim,Hannover 96,1,0,2015-12-12 18:30:00,Eduardo Vargas,Chipped
+79782,82,SavedShot,0.950999984741211,0.3579999923706055,0.10496769100427628,Pirmin Schwegler,h,80,OpenPlay,2015,RightFoot,1160,Hoffenheim,Hannover 96,1,0,2015-12-12 18:30:00,Tarik Elyounoussi,Pass
+79783,85,MissedShots,0.9059999847412109,0.46599998474121096,0.06708467751741409,Fabian Schär,h,76,SetPiece,2015,Head,1160,Hoffenheim,Hannover 96,1,0,2015-12-12 18:30:00,Jonathan Schmid,Chipped
+79784,88,MissedShots,0.9069999694824219,0.575,0.10955118387937546,Jonathan Schmid,h,81,OpenPlay,2015,LeftFoot,1160,Hoffenheim,Hannover 96,1,0,2015-12-12 18:30:00,Eugen Polanski,Chipped
+79785,90,MissedShots,0.8680000305175781,0.5790000152587891,0.1045549139380455,Eugen Polanski,h,86,OpenPlay,2015,LeftFoot,1160,Hoffenheim,Hannover 96,1,0,2015-12-12 18:30:00,Eduardo Vargas,Pass
+79786,92,MissedShots,0.710999984741211,0.155,0.025049692019820213,Eduardo Vargas,h,85,OpenPlay,2015,RightFoot,1160,Hoffenheim,Hannover 96,1,0,2015-12-12 18:30:00,Jin-Su Kim,BallRecovery
+79755,4,MissedShots,0.7919999694824219,0.435,0.017076030373573303,Kenan Karaman,a,98,FromCorner,2015,RightFoot,1160,Hoffenheim,Hannover 96,1,0,2015-12-12 18:30:00,,Aerial
+79758,13,MissedShots,0.870999984741211,0.5459999847412109,0.3013317883014679,Leon Andreasen,a,99,OpenPlay,2015,LeftFoot,1160,Hoffenheim,Hannover 96,1,0,2015-12-12 18:30:00,Allan Saint-Maximin,Chipped
+79759,14,ShotOnPost,0.9469999694824218,0.3920000076293945,0.016244210302829742,Ceyhun Gülselam,a,97,FromCorner,2015,Head,1160,Hoffenheim,Hannover 96,1,0,2015-12-12 18:30:00,Leon Andreasen,Aerial
+79760,24,BlockedShot,0.8009999847412109,0.36900001525878906,0.032870762050151825,Salif Sané,a,96,OpenPlay,2015,LeftFoot,1160,Hoffenheim,Hannover 96,1,0,2015-12-12 18:30:00,,None
+79762,30,MissedShots,0.9230000305175782,0.425,0.08696340024471283,Kenan Karaman,a,98,OpenPlay,2015,RightFoot,1160,Hoffenheim,Hannover 96,1,0,2015-12-12 18:30:00,Miiko Albornoz,Cross
+79763,34,MissedShots,0.8919999694824219,0.38599998474121094,0.00905426312237978,Marcelo,a,93,SetPiece,2015,Head,1160,Hoffenheim,Hannover 96,1,0,2015-12-12 18:30:00,Leon Andreasen,Aerial
+79764,36,MissedShots,0.9269999694824219,0.5940000152587891,0.018027907237410545,Ceyhun Gülselam,a,97,FromCorner,2015,Head,1160,Hoffenheim,Hannover 96,1,0,2015-12-12 18:30:00,Miiko Albornoz,Aerial
+79765,44,SavedShot,0.9230000305175782,0.54,0.41010090708732605,Leon Andreasen,a,99,OpenPlay,2015,RightFoot,1160,Hoffenheim,Hannover 96,1,0,2015-12-12 18:30:00,Miiko Albornoz,Cross
+79766,44,SavedShot,0.8969999694824219,0.5670000076293945,0.039788827300071716,Leon Andreasen,a,99,OpenPlay,2015,Head,1160,Hoffenheim,Hannover 96,1,0,2015-12-12 18:30:00,Edgar Prib,Chipped
+79767,47,MissedShots,0.919000015258789,0.4,0.017377736046910286,Kenan Karaman,a,98,SetPiece,2015,Head,1160,Hoffenheim,Hannover 96,1,0,2015-12-12 18:30:00,Leon Andreasen,Aerial
+79768,49,BlockedShot,0.9230000305175782,0.5479999923706055,0.05785504728555679,Ceyhun Gülselam,a,97,SetPiece,2015,Head,1160,Hoffenheim,Hannover 96,1,0,2015-12-12 18:30:00,Miiko Albornoz,Aerial
+79770,54,BlockedShot,0.8730000305175781,0.39599998474121095,0.05002811551094055,Salif Sané,a,96,OpenPlay,2015,LeftFoot,1160,Hoffenheim,Hannover 96,1,0,2015-12-12 18:30:00,Kenan Karaman,Cross
+79771,59,MissedShots,0.7390000152587891,0.3529999923706055,0.01873001456260681,Edgar Prib,a,100,OpenPlay,2015,LeftFoot,1160,Hoffenheim,Hannover 96,1,0,2015-12-12 18:30:00,Leon Andreasen,Pass
+79774,62,BlockedShot,0.8819999694824219,0.6309999847412109,0.06598149985074997,Allan Saint-Maximin,a,101,OpenPlay,2015,RightFoot,1160,Hoffenheim,Hannover 96,1,0,2015-12-12 18:30:00,Miiko Albornoz,Pass
+79775,62,MissedShots,0.745,0.5529999923706055,0.02073528617620468,Salif Sané,a,96,OpenPlay,2015,LeftFoot,1160,Hoffenheim,Hannover 96,1,0,2015-12-12 18:30:00,,Rebound
+79777,67,BlockedShot,0.94,0.6840000152587891,0.0517452135682106,Kenan Karaman,a,98,OpenPlay,2015,LeftFoot,1160,Hoffenheim,Hannover 96,1,0,2015-12-12 18:30:00,Allan Saint-Maximin,BallRecovery
+79778,68,MissedShots,0.94,0.52,0.08321648836135864,Salif Sané,a,96,FromCorner,2015,Head,1160,Hoffenheim,Hannover 96,1,0,2015-12-12 18:30:00,,Aerial
+79779,74,MissedShots,0.8959999847412109,0.6020000076293945,0.024426929652690887,Christian Schulz,a,94,FromCorner,2015,Head,1160,Hoffenheim,Hannover 96,1,0,2015-12-12 18:30:00,Leon Andreasen,Cross
+79780,75,BlockedShot,0.9030000305175782,0.5690000152587891,0.07850994169712067,Mevlüt Erdinc,a,104,OpenPlay,2015,LeftFoot,1160,Hoffenheim,Hannover 96,1,0,2015-12-12 18:30:00,Kenan Karaman,Cross

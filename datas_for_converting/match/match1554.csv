@@ -1,0 +1,24 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+87000,1,MissedShots,0.915,0.45799999237060546,0.12182650715112686,Carlos Vela,h,2416,OpenPlay,2015,Head,1554,Real Sociedad,Villarreal,0,2,2015-12-20 21:15:00,Bruma,Cross
+87002,20,SavedShot,0.9259999847412109,0.6759999847412109,0.06964264810085297,Bruma,h,2235,OpenPlay,2015,LeftFoot,1554,Real Sociedad,Villarreal,0,2,2015-12-20 21:15:00,Yuri,TakeOn
+87004,34,MissedShots,0.9330000305175781,0.72,0.039911169558763504,Yuri,h,2229,OpenPlay,2015,LeftFoot,1554,Real Sociedad,Villarreal,0,2,2015-12-20 21:15:00,Esteban Granero,Chipped
+87005,36,MissedShots,0.9259999847412109,0.47200000762939454,0.37789151072502136,Imanol Agirretxe,h,2535,OpenPlay,2015,RightFoot,1554,Real Sociedad,Villarreal,0,2,2015-12-20 21:15:00,Sergio Canales,Cross
+87006,37,MissedShots,0.8159999847412109,0.649000015258789,0.03501349315047264,Bruma,h,2235,OpenPlay,2015,RightFoot,1554,Real Sociedad,Villarreal,0,2,2015-12-20 21:15:00,Esteban Granero,TakeOn
+87008,48,MissedShots,0.7559999847412109,0.7130000305175781,0.018006857484579086,Sergio Canales,h,2571,OpenPlay,2015,LeftFoot,1554,Real Sociedad,Villarreal,0,2,2015-12-20 21:15:00,Esteban Granero,Pass
+87009,52,SavedShot,0.9030000305175782,0.47400001525878904,0.07676224410533905,Aritz Elustondo,h,2228,FromCorner,2015,Head,1554,Real Sociedad,Villarreal,0,2,2015-12-20 21:15:00,Esteban Granero,Cross
+87010,52,MissedShots,0.7180000305175781,0.415,0.013964901678264141,Asier Illarramendi,h,2232,FromCorner,2015,RightFoot,1554,Real Sociedad,Villarreal,0,2,2015-12-20 21:15:00,,None
+87011,58,BlockedShot,0.8640000152587891,0.38,0.056934062391519547,Carlos Vela,h,2416,OpenPlay,2015,LeftFoot,1554,Real Sociedad,Villarreal,0,2,2015-12-20 21:15:00,,None
+87012,59,MissedShots,0.96,0.6140000152587891,0.04435812309384346,Imanol Agirretxe,h,2535,FromCorner,2015,Head,1554,Real Sociedad,Villarreal,0,2,2015-12-20 21:15:00,Sergio Canales,Cross
+87013,63,MissedShots,0.7119999694824218,0.5729999923706055,0.016862506046891212,Sergio Canales,h,2571,OpenPlay,2015,LeftFoot,1554,Real Sociedad,Villarreal,0,2,2015-12-20 21:15:00,Carlos Vela,Pass
+87015,67,MissedShots,0.6990000152587891,0.3320000076293945,0.009316448122262955,Xabi Prieto,h,2233,OpenPlay,2015,RightFoot,1554,Real Sociedad,Villarreal,0,2,2015-12-20 21:15:00,,None
+87016,74,MissedShots,0.8769999694824219,0.5870000076293945,0.02661120519042015,Imanol Agirretxe,h,2535,OpenPlay,2015,Head,1554,Real Sociedad,Villarreal,0,2,2015-12-20 21:15:00,Xabi Prieto,Cross
+87017,85,BlockedShot,0.7440000152587891,0.6930000305175781,0.013799551874399185,Sergio Canales,h,2571,OpenPlay,2015,LeftFoot,1554,Real Sociedad,Villarreal,0,2,2015-12-20 21:15:00,Asier Illarramendi,Tackle
+87018,85,MissedShots,0.7919999694824219,0.40599998474121096,0.026212500408291817,Carlos Vela,h,2416,FromCorner,2015,LeftFoot,1554,Real Sociedad,Villarreal,0,2,2015-12-20 21:15:00,,None
+87022,93,ShotOnPost,0.9009999847412109,0.46599998474121096,0.07733745127916336,Diego Reyes,h,2236,OpenPlay,2015,RightFoot,1554,Real Sociedad,Villarreal,0,2,2015-12-20 21:15:00,Jonathas,None
+87001,3,SavedShot,0.9519999694824218,0.68,0.053763166069984436,Cédric Bakambu,a,2306,OpenPlay,2015,LeftFoot,1554,Real Sociedad,Villarreal,0,2,2015-12-20 21:15:00,Roberto Soldado,Chipped
+87003,26,Goal,0.8180000305175781,0.6229999923706054,0.04921390861272812,Denis Suárez,a,2308,OpenPlay,2015,RightFoot,1554,Real Sociedad,Villarreal,0,2,2015-12-20 21:15:00,Cédric Bakambu,Tackle
+87007,45,MissedShots,0.8119999694824219,0.3390000152587891,0.040022287517786026,Roberto Soldado,a,2311,OpenPlay,2015,RightFoot,1554,Real Sociedad,Villarreal,0,2,2015-12-20 21:15:00,Jonathan dos Santos,Pass
+87014,65,SavedShot,0.8080000305175781,0.46799999237060547,0.0661715567111969,Tomás Pina,a,2482,OpenPlay,2015,RightFoot,1554,Real Sociedad,Villarreal,0,2,2015-12-20 21:15:00,Jonathan dos Santos,Pass
+87019,87,Goal,0.905,0.6120000076293945,0.4830094575881958,Denis Suárez,a,2308,OpenPlay,2015,RightFoot,1554,Real Sociedad,Villarreal,0,2,2015-12-20 21:15:00,Cédric Bakambu,BallRecovery
+87020,91,SavedShot,0.884000015258789,0.7019999694824218,0.08249969035387039,Samu Castillejo,a,2303,OpenPlay,2015,LeftFoot,1554,Real Sociedad,Villarreal,0,2,2015-12-20 21:15:00,Nahuel,Chipped
+87021,91,MissedShots,0.8140000152587891,0.7630000305175781,0.02296478860080242,Denis Suárez,a,2308,FromCorner,2015,RightFoot,1554,Real Sociedad,Villarreal,0,2,2015-12-20 21:15:00,Samu Castillejo,Pass

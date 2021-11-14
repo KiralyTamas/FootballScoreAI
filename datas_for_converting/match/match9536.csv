@@ -1,0 +1,23 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+293551,1,MissedShots,0.795,0.5159999847412109,0.043282583355903625,Yves Bissouma,h,5609,OpenPlay,2018,LeftFoot,9536,Brighton,Bournemouth,0,5,2019-04-13 15:00:00,Florin Andone,Pass
+293556,37,MissedShots,0.7469999694824219,0.39099998474121095,0.018084485083818436,Dale Stephens,h,6051,OpenPlay,2018,RightFoot,9536,Brighton,Bournemouth,0,5,2019-04-13 15:00:00,Yves Bissouma,Pass
+293559,56,BlockedShot,0.7909999847412109,0.40599998474121096,0.04010409861803055,Jürgen Locadia,h,6542,OpenPlay,2018,LeftFoot,9536,Brighton,Bournemouth,0,5,2019-04-13 15:00:00,Davy Pröpper,Pass
+293560,58,BlockedShot,0.7930000305175782,0.575,0.014157423749566078,Bernardo,h,5245,OpenPlay,2018,RightFoot,9536,Brighton,Bournemouth,0,5,2019-04-13 15:00:00,,Aerial
+293561,58,BlockedShot,0.7619999694824219,0.41,0.014976444654166698,Yves Bissouma,h,5609,OpenPlay,2018,RightFoot,9536,Brighton,Bournemouth,0,5,2019-04-13 15:00:00,,None
+293564,75,MissedShots,0.73,0.6229999923706054,0.01611834019422531,Jürgen Locadia,h,6542,OpenPlay,2018,LeftFoot,9536,Brighton,Bournemouth,0,5,2019-04-13 15:00:00,Dale Stephens,Pass
+293570,89,BlockedShot,0.8040000152587891,0.6819999694824219,0.016556639224290848,Lewis Dunk,h,6048,OpenPlay,2018,RightFoot,9536,Brighton,Bournemouth,0,5,2019-04-13 15:00:00,,None
+293571,90,SavedShot,0.9019999694824219,0.4570000076293945,0.04345083236694336,Bernardo,h,5245,FromCorner,2018,Head,9536,Brighton,Bournemouth,0,5,2019-04-13 15:00:00,Shane Duffy,HeadPass
+293552,4,MissedShots,0.9419999694824219,0.49,0.5436666011810303,Joshua King,a,465,OpenPlay,2018,RightFoot,9536,Brighton,Bournemouth,0,5,2019-04-13 15:00:00,Ryan Fraser,Cross
+293553,14,MissedShots,0.96,0.500999984741211,0.1498614251613617,Joshua King,a,465,OpenPlay,2018,Head,9536,Brighton,Bournemouth,0,5,2019-04-13 15:00:00,Nathan Aké,Aerial
+293554,32,Goal,0.8959999847412109,0.524000015258789,0.4296959340572357,Dan Gosling,a,462,OpenPlay,2018,RightFoot,9536,Brighton,Bournemouth,0,5,2019-04-13 15:00:00,Callum Wilson,Pass
+293555,35,MissedShots,0.76,0.5429999923706055,0.016733162105083466,Dan Gosling,a,462,SetPiece,2018,RightFoot,9536,Brighton,Bournemouth,0,5,2019-04-13 15:00:00,,None
+293557,43,SavedShot,0.7119999694824218,0.5309999847412109,0.019771743565797806,Steve Cook,a,458,OpenPlay,2018,RightFoot,9536,Brighton,Bournemouth,0,5,2019-04-13 15:00:00,Jefferson Lerma,Pass
+293558,54,Goal,0.7880000305175782,0.49,0.07158956676721573,Ryan Fraser,a,1683,OpenPlay,2018,RightFoot,9536,Brighton,Bournemouth,0,5,2019-04-13 15:00:00,Callum Wilson,Pass
+293562,61,MissedShots,0.8530000305175781,0.7140000152587891,0.05681141838431358,Joshua King,a,465,OpenPlay,2018,RightFoot,9536,Brighton,Bournemouth,0,5,2019-04-13 15:00:00,Ryan Fraser,Pass
+293563,73,Goal,0.9330000305175781,0.4570000076293945,0.6286708116531372,David Brooks,a,6820,OpenPlay,2018,LeftFoot,9536,Brighton,Bournemouth,0,5,2019-04-13 15:00:00,Ryan Fraser,Throughball
+293565,81,Goal,0.9119999694824219,0.6459999847412109,0.1085285171866417,Callum Wilson,a,468,OpenPlay,2018,LeftFoot,9536,Brighton,Bournemouth,0,5,2019-04-13 15:00:00,Ryan Fraser,TakeOn
+293566,85,BlockedShot,0.93,0.3089999961853027,0.08437922596931458,Dominic Solanke,a,1679,OpenPlay,2018,RightFoot,9536,Brighton,Bournemouth,0,5,2019-04-13 15:00:00,David Brooks,Pass
+293567,86,BlockedShot,0.7630000305175781,0.5070000076293946,0.036182254552841187,Dominic Solanke,a,1679,OpenPlay,2018,RightFoot,9536,Brighton,Bournemouth,0,5,2019-04-13 15:00:00,Jefferson Lerma,BallRecovery
+293568,86,BlockedShot,0.8690000152587891,0.5070000076293946,0.13011229038238525,Dan Gosling,a,462,OpenPlay,2018,RightFoot,9536,Brighton,Bournemouth,0,5,2019-04-13 15:00:00,David Brooks,Pass
+293569,88,SavedShot,0.9419999694824219,0.6669999694824219,0.09466610848903656,Dominic Solanke,a,1679,OpenPlay,2018,LeftFoot,9536,Brighton,Bournemouth,0,5,2019-04-13 15:00:00,David Brooks,Pass
+293572,91,Goal,0.8930000305175781,0.595999984741211,0.3981761336326599,Junior Stanislas,a,463,OpenPlay,2018,RightFoot,9536,Brighton,Bournemouth,0,5,2019-04-13 15:00:00,David Brooks,Pass

@@ -1,0 +1,32 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+408689,13,SavedShot,0.8969999694824219,0.5820000076293945,0.03506419435143471,Robert Lewandowski,h,227,OpenPlay,2020,Head,15351,Bayern Munich,Borussia Dortmund,4,2,2021-03-06 17:30:00,Leon Goretzka,Aerial
+408690,16,MissedShots,0.9930000305175781,0.4209999847412109,0.05268172174692154,Leroy Sané,h,337,OpenPlay,2020,Head,15351,Bayern Munich,Borussia Dortmund,4,2,2021-03-06 17:30:00,Joshua Kimmich,Cross
+408691,18,MissedShots,0.88,0.43900001525878907,0.039883196353912354,Robert Lewandowski,h,227,OpenPlay,2020,Head,15351,Bayern Munich,Borussia Dortmund,4,2,2021-03-06 17:30:00,Niklas Süle,Cross
+408692,18,MissedShots,0.925,0.38799999237060545,0.10473264008760452,Robert Lewandowski,h,227,OpenPlay,2020,LeftFoot,15351,Bayern Munich,Borussia Dortmund,4,2,2021-03-06 17:30:00,Leon Goretzka,Pass
+408693,19,BlockedShot,0.769000015258789,0.595999984741211,0.023528166115283966,Leon Goretzka,h,335,OpenPlay,2020,LeftFoot,15351,Bayern Munich,Borussia Dortmund,4,2,2021-03-06 17:30:00,Kingsley Coman,Pass
+408694,20,MissedShots,0.93,0.6719999694824219,0.042059481143951416,Thomas Müller,h,224,OpenPlay,2020,LeftFoot,15351,Bayern Munich,Borussia Dortmund,4,2,2021-03-06 17:30:00,,Rebound
+408695,25,MissedShots,0.9209999847412109,0.30700000762939456,0.07654975354671478,Leroy Sané,h,337,OpenPlay,2020,RightFoot,15351,Bayern Munich,Borussia Dortmund,4,2,2021-03-06 17:30:00,Joshua Kimmich,TakeOn
+408696,25,Goal,0.965999984741211,0.53,0.6567861437797546,Robert Lewandowski,h,227,OpenPlay,2020,RightFoot,15351,Bayern Munich,Borussia Dortmund,4,2,2021-03-06 17:30:00,Leroy Sané,Rebound
+408697,28,SavedShot,0.9269999694824219,0.7469999694824219,0.03578325733542442,Kingsley Coman,h,226,OpenPlay,2020,LeftFoot,15351,Bayern Munich,Borussia Dortmund,4,2,2021-03-06 17:30:00,Thomas Müller,Pass
+408698,30,MissedShots,0.8880000305175781,0.45099998474121095,0.05612117424607277,Kingsley Coman,h,226,OpenPlay,2020,Head,15351,Bayern Munich,Borussia Dortmund,4,2,2021-03-06 17:30:00,Niklas Süle,Cross
+408699,32,BlockedShot,0.8880000305175781,0.4470000076293945,0.09493990242481232,Robert Lewandowski,h,227,OpenPlay,2020,RightFoot,15351,Bayern Munich,Borussia Dortmund,4,2,2021-03-06 17:30:00,Leroy Sané,Pass
+408700,38,MissedShots,0.8640000152587891,0.4129999923706055,0.077370785176754,Robert Lewandowski,h,227,OpenPlay,2020,RightFoot,15351,Bayern Munich,Borussia Dortmund,4,2,2021-03-06 17:30:00,Leon Goretzka,Pass
+408701,43,Goal,0.885,0.5,0.75777667760849,Robert Lewandowski,h,227,Penalty,2020,RightFoot,15351,Bayern Munich,Borussia Dortmund,4,2,2021-03-06 17:30:00,,Standard
+408702,45,MissedShots,0.764000015258789,0.5870000076293945,0.014440201222896576,David Alaba,h,391,FromCorner,2020,LeftFoot,15351,Bayern Munich,Borussia Dortmund,4,2,2021-03-06 17:30:00,,Aerial
+408704,47,SavedShot,0.759000015258789,0.5179999923706055,0.025188105180859566,Joshua Kimmich,h,223,OpenPlay,2020,RightFoot,15351,Bayern Munich,Borussia Dortmund,4,2,2021-03-06 17:30:00,Kingsley Coman,Pass
+408705,58,MissedShots,0.895,0.47,0.037990059703588486,Niklas Süle,h,75,OpenPlay,2020,Head,15351,Bayern Munich,Borussia Dortmund,4,2,2021-03-06 17:30:00,Alphonso Davies,Aerial
+408706,61,MissedShots,0.82,0.4520000076293945,0.05454546585679054,Robert Lewandowski,h,227,OpenPlay,2020,RightFoot,15351,Bayern Munich,Borussia Dortmund,4,2,2021-03-06 17:30:00,Leroy Sané,Pass
+408707,73,SavedShot,0.8140000152587891,0.5070000076293946,0.05332999676465988,Serge Gnabry,h,993,OpenPlay,2020,LeftFoot,15351,Bayern Munich,Borussia Dortmund,4,2,2021-03-06 17:30:00,Robert Lewandowski,Pass
+408708,77,MissedShots,0.7519999694824219,0.5620000076293945,0.019548801705241203,Serge Gnabry,h,993,OpenPlay,2020,LeftFoot,15351,Bayern Munich,Borussia Dortmund,4,2,2021-03-06 17:30:00,Thomas Müller,Pass
+408709,80,BlockedShot,0.789000015258789,0.7069999694824218,0.019992142915725708,Joshua Kimmich,h,223,FromCorner,2020,RightFoot,15351,Bayern Munich,Borussia Dortmund,4,2,2021-03-06 17:30:00,Serge Gnabry,Pass
+408710,81,MissedShots,0.9119999694824219,0.53,0.033952582627534866,Niklas Süle,h,75,FromCorner,2020,Head,15351,Bayern Munich,Borussia Dortmund,4,2,2021-03-06 17:30:00,Joshua Kimmich,Aerial
+408711,84,BlockedShot,0.8580000305175781,0.575,0.08708889782428741,Leon Goretzka,h,335,OpenPlay,2020,RightFoot,15351,Bayern Munich,Borussia Dortmund,4,2,2021-03-06 17:30:00,Thomas Müller,Pass
+408712,84,BlockedShot,0.950999984741211,0.5670000076293945,0.07884315401315689,Thomas Müller,h,224,OpenPlay,2020,Head,15351,Bayern Munich,Borussia Dortmund,4,2,2021-03-06 17:30:00,Niklas Süle,Aerial
+408713,85,BlockedShot,0.865999984741211,0.4759999847412109,0.10769516974687576,Joshua Kimmich,h,223,OpenPlay,2020,RightFoot,15351,Bayern Munich,Borussia Dortmund,4,2,2021-03-06 17:30:00,Thomas Müller,Pass
+408715,87,Goal,0.8469999694824218,0.45799999237060546,0.0687529444694519,Leon Goretzka,h,335,OpenPlay,2020,RightFoot,15351,Bayern Munich,Borussia Dortmund,4,2,2021-03-06 17:30:00,,None
+408716,89,Goal,0.805,0.4809999847412109,0.06182139366865158,Robert Lewandowski,h,227,OpenPlay,2020,RightFoot,15351,Bayern Munich,Borussia Dortmund,4,2,2021-03-06 17:30:00,Alphonso Davies,Pass
+408717,91,SavedShot,0.79,0.32299999237060545,0.030168281868100166,Niklas Süle,h,75,OpenPlay,2020,RightFoot,15351,Bayern Munich,Borussia Dortmund,4,2,2021-03-06 17:30:00,Leon Goretzka,Pass
+408687,1,Goal,0.7830000305175782,0.549000015258789,0.03846222907304764,Erling Haaland,a,8260,OpenPlay,2020,LeftFoot,15351,Bayern Munich,Borussia Dortmund,4,2,2021-03-06 17:30:00,Thomas Delaney,BlockedPass
+408688,8,Goal,0.9569999694824218,0.5540000152587891,0.6495645642280579,Erling Haaland,a,8260,OpenPlay,2020,LeftFoot,15351,Bayern Munich,Borussia Dortmund,4,2,2021-03-06 17:30:00,Thorgan Hazard,Pass
+408703,46,MissedShots,0.914000015258789,0.33099998474121095,0.0293411947786808,Thorgan Hazard,a,213,OpenPlay,2020,RightFoot,15351,Bayern Munich,Borussia Dortmund,4,2,2021-03-06 17:30:00,Nico Schulz,Cross
+408714,86,SavedShot,0.5259999847412109,0.485,0.00626059016212821,Steffen Tigges,a,9227,OpenPlay,2020,LeftFoot,15351,Bayern Munich,Borussia Dortmund,4,2,2021-03-06 17:30:00,Thomas Meunier,BallRecovery

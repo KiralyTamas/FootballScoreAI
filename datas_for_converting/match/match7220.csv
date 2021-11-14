@@ -1,0 +1,21 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+160253,21,SavedShot,0.895,0.5870000076293945,0.35908758640289307,Leighton Baines,h,588,OpenPlay,2017,LeftFoot,7220,Everton,Watford,3,2,2017-11-05 16:30:00,Wayne Rooney,Pass
+160254,26,MissedShots,0.6759999847412109,0.620999984741211,0.014424018561840057,Tom Davies,h,1042,OpenPlay,2017,RightFoot,7220,Everton,Watford,3,2,2017-11-05 16:30:00,Wayne Rooney,Pass
+160256,39,MissedShots,0.825999984741211,0.36900001525878906,0.03624085709452629,Tom Davies,h,1042,SetPiece,2017,RightFoot,7220,Everton,Watford,3,2,2017-11-05 16:30:00,,None
+160263,52,SavedShot,0.89,0.40700000762939453,0.3790684938430786,Gylfi Sigurdsson,h,714,OpenPlay,2017,RightFoot,7220,Everton,Watford,3,2,2017-11-05 16:30:00,Oumar Niasse,Pass
+160265,66,Goal,0.9409999847412109,0.4570000076293945,0.5977783799171448,Oumar Niasse,h,599,OpenPlay,2017,LeftFoot,7220,Everton,Watford,3,2,2017-11-05 16:30:00,,TakeOn
+160266,72,BlockedShot,0.8380000305175781,0.33599998474121096,0.04248301312327385,Jonjoe Kenny,h,1084,OpenPlay,2017,RightFoot,7220,Everton,Watford,3,2,2017-11-05 16:30:00,Oumar Niasse,Pass
+160267,73,Goal,0.9669999694824218,0.5709999847412109,0.3457963466644287,Dominic Calvert-Lewin,h,5555,FromCorner,2017,Head,7220,Everton,Watford,3,2,2017-11-05 16:30:00,Leighton Baines,Cross
+160270,90,Goal,0.885,0.5,0.7611688375473022,Leighton Baines,h,588,Penalty,2017,LeftFoot,7220,Everton,Watford,3,2,2017-11-05 16:30:00,,Standard
+160272,102,BlockedShot,0.8830000305175781,0.33099998474121095,0.04355336353182793,Oumar Niasse,h,599,OpenPlay,2017,RightFoot,7220,Everton,Watford,3,2,2017-11-05 16:30:00,Jordan Pickford,Pass
+160255,28,MissedShots,0.7230000305175781,0.49599998474121093,0.013131555169820786,Kiko Femenía,a,5043,OpenPlay,2017,RightFoot,7220,Everton,Watford,3,2,2017-11-05 16:30:00,,None
+160257,39,MissedShots,0.879000015258789,0.6990000152587891,0.1804225593805313,Richarlison,a,6026,OpenPlay,2017,LeftFoot,7220,Everton,Watford,3,2,2017-11-05 16:30:00,Andre Gray,Pass
+160258,41,BlockedShot,0.764000015258789,0.7090000152587891,0.014279771596193314,José Holebas,a,568,OpenPlay,2017,LeftFoot,7220,Everton,Watford,3,2,2017-11-05 16:30:00,Richarlison,Pass
+160259,41,SavedShot,0.7659999847412109,0.575,0.018983598798513412,Abdoulaye Doucouré,a,1726,OpenPlay,2017,RightFoot,7220,Everton,Watford,3,2,2017-11-05 16:30:00,,Rebound
+160260,45,Goal,0.9730000305175781,0.585,0.7384432554244995,Richarlison,a,6026,OpenPlay,2017,RightFoot,7220,Everton,Watford,3,2,2017-11-05 16:30:00,Andre Gray,TakeOn
+160261,46,BlockedShot,0.85,0.6959999847412109,0.04875633865594864,Richarlison,a,6026,OpenPlay,2017,RightFoot,7220,Everton,Watford,3,2,2017-11-05 16:30:00,Tom Cleverley,Pass
+160262,49,MissedShots,0.7809999847412109,0.7530000305175781,0.01249103806912899,José Holebas,a,568,OpenPlay,2017,LeftFoot,7220,Everton,Watford,3,2,2017-11-05 16:30:00,Abdoulaye Doucouré,Chipped
+160264,63,Goal,0.9290000152587891,0.485,0.21884992718696594,Christian Kabasele,a,1725,FromCorner,2017,Head,7220,Everton,Watford,3,2,2017-11-05 16:30:00,José Holebas,Aerial
+160268,82,MissedShots,0.9,0.53,0.02014445699751377,Richarlison,a,6026,FromCorner,2017,Head,7220,Everton,Watford,3,2,2017-11-05 16:30:00,José Holebas,Aerial
+160269,88,MissedShots,0.92,0.445,0.028936350718140602,Adrian Mariappa,a,524,FromCorner,2017,Head,7220,Everton,Watford,3,2,2017-11-05 16:30:00,José Holebas,Aerial
+160271,100,MissedShots,0.885,0.5,0.7611688375473022,Tom Cleverley,a,596,Penalty,2017,RightFoot,7220,Everton,Watford,3,2,2017-11-05 16:30:00,,Standard

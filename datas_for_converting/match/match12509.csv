@@ -1,0 +1,25 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+332000,3,MissedShots,0.9009999847412109,0.5659999847412109,0.03866888955235481,Marcus Ingvartsen,h,7883,FromCorner,2019,LeftFoot,12509,Union Berlin,Borussia M.Gladbach,2,0,2019-11-23 14:30:00,,Aerial
+332005,14,Goal,0.93,0.4179999923706055,0.31017735600471497,Anthony Ujah,h,119,OpenPlay,2019,Head,12509,Union Berlin,Borussia M.Gladbach,2,0,2019-11-23 14:30:00,Marcus Ingvartsen,Cross
+332006,20,ShotOnPost,0.8190000152587891,0.4490000152587891,0.06946384161710739,Marcus Ingvartsen,h,7883,OpenPlay,2019,RightFoot,12509,Union Berlin,Borussia M.Gladbach,2,0,2019-11-23 14:30:00,,None
+332007,26,MissedShots,0.7340000152587891,0.54,0.0233077984303236,Marcus Ingvartsen,h,7883,OpenPlay,2019,LeftFoot,12509,Union Berlin,Borussia M.Gladbach,2,0,2019-11-23 14:30:00,,None
+332008,30,SavedShot,0.889000015258789,0.29200000762939454,0.06925398111343384,Sebastian Andersson,h,7880,OpenPlay,2019,RightFoot,12509,Union Berlin,Borussia M.Gladbach,2,0,2019-11-23 14:30:00,Anthony Ujah,Challenge
+332009,32,SavedShot,0.9169999694824219,0.555,0.02959473617374897,Sebastian Andersson,h,7880,FromCorner,2019,Head,12509,Union Berlin,Borussia M.Gladbach,2,0,2019-11-23 14:30:00,Christopher Trimmel,Aerial
+332012,42,BlockedShot,0.78,0.485,0.019488830119371414,Felix Kroos,h,120,OpenPlay,2019,RightFoot,12509,Union Berlin,Borussia M.Gladbach,2,0,2019-11-23 14:30:00,,Aerial
+332013,47,BlockedShot,0.9380000305175781,0.3970000076293945,0.04111950471997261,Christian Gentner,h,60,OpenPlay,2019,Head,12509,Union Berlin,Borussia M.Gladbach,2,0,2019-11-23 14:30:00,Christopher Lenz,Aerial
+332014,49,SavedShot,0.8640000152587891,0.3120000076293945,0.06287472695112228,Sebastian Andersson,h,7880,OpenPlay,2019,RightFoot,12509,Union Berlin,Borussia M.Gladbach,2,0,2019-11-23 14:30:00,Christopher Lenz,Pass
+332016,54,SavedShot,0.885,0.46099998474121096,0.0528813973069191,Sebastian Andersson,h,7880,OpenPlay,2019,Head,12509,Union Berlin,Borussia M.Gladbach,2,0,2019-11-23 14:30:00,Neven Subotic,Chipped
+332023,90,Goal,0.97,0.4929999923706055,0.78074711561203,Sebastian Andersson,h,7880,OpenPlay,2019,Head,12509,Union Berlin,Borussia M.Gladbach,2,0,2019-11-23 14:30:00,,None
+332001,5,MissedShots,0.7959999847412109,0.5129999923706055,0.03058425709605217,Denis Zakaria,a,6147,FromCorner,2019,RightFoot,12509,Union Berlin,Borussia M.Gladbach,2,0,2019-11-23 14:30:00,Florian Neuhaus,HeadPass
+332002,8,MissedShots,0.8719999694824219,0.285,0.041546646505594254,Patrick Herrmann,a,420,OpenPlay,2019,RightFoot,12509,Union Berlin,Borussia M.Gladbach,2,0,2019-11-23 14:30:00,Alassane Pléa,Chipped
+332003,9,SavedShot,0.894000015258789,0.47200000762939454,0.04957707226276398,Marcus Thuram,a,5992,OpenPlay,2019,Head,12509,Union Berlin,Borussia M.Gladbach,2,0,2019-11-23 14:30:00,Stefan Lainer,Chipped
+332004,11,ShotOnPost,0.89,0.44099998474121094,0.22621308267116547,Patrick Herrmann,a,420,OpenPlay,2019,Head,12509,Union Berlin,Borussia M.Gladbach,2,0,2019-11-23 14:30:00,Alassane Pléa,Cross
+332010,34,MissedShots,0.8819999694824219,0.4329999923706055,0.01238822191953659,Stefan Lainer,a,7831,SetPiece,2019,Head,12509,Union Berlin,Borussia M.Gladbach,2,0,2019-11-23 14:30:00,Patrick Herrmann,Aerial
+332011,37,SavedShot,0.8430000305175781,0.46299999237060546,0.39852991700172424,Alassane Pléa,a,3310,OpenPlay,2019,RightFoot,12509,Union Berlin,Borussia M.Gladbach,2,0,2019-11-23 14:30:00,Patrick Herrmann,Pass
+332015,50,BlockedShot,0.779000015258789,0.6020000076293945,0.030801381915807724,Denis Zakaria,a,6147,OpenPlay,2019,RightFoot,12509,Union Berlin,Borussia M.Gladbach,2,0,2019-11-23 14:30:00,Oscar Wendt,Pass
+332017,57,MissedShots,0.7530000305175781,0.740999984741211,0.016142988577485085,Marcus Thuram,a,5992,OpenPlay,2019,RightFoot,12509,Union Berlin,Borussia M.Gladbach,2,0,2019-11-23 14:30:00,Florian Neuhaus,Pass
+332018,73,MissedShots,0.8590000152587891,0.3029999923706055,0.04007705673575401,Patrick Herrmann,a,420,OpenPlay,2019,RightFoot,12509,Union Berlin,Borussia M.Gladbach,2,0,2019-11-23 14:30:00,Tobias Strobl,Chipped
+332019,78,MissedShots,0.86,0.6909999847412109,0.03775501251220703,Patrick Herrmann,a,420,OpenPlay,2019,RightFoot,12509,Union Berlin,Borussia M.Gladbach,2,0,2019-11-23 14:30:00,Stefan Lainer,Chipped
+332020,80,BlockedShot,0.6990000152587891,0.3370000076293945,0.01359839178621769,Matthias Ginter,a,315,OpenPlay,2019,RightFoot,12509,Union Berlin,Borussia M.Gladbach,2,0,2019-11-23 14:30:00,Patrick Herrmann,Pass
+332021,81,BlockedShot,0.7959999847412109,0.38,0.03512882441282272,Stefan Lainer,a,7831,OpenPlay,2019,LeftFoot,12509,Union Berlin,Borussia M.Gladbach,2,0,2019-11-23 14:30:00,Lars Stindl,Pass
+332022,85,BlockedShot,0.7730000305175782,0.6370000076293946,0.025797605514526367,Denis Zakaria,a,6147,OpenPlay,2019,RightFoot,12509,Union Berlin,Borussia M.Gladbach,2,0,2019-11-23 14:30:00,Patrick Herrmann,Pass

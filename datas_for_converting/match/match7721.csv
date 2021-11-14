@@ -1,0 +1,21 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+195639,10,SavedShot,0.8590000152587891,0.505,0.009598172269761562,Mattia Destro,h,1580,SetPiece,2017,Head,7721,Bologna,Fiorentina,1,2,2018-02-04 14:00:00,Erick Pulgar,Aerial
+195640,14,BlockedShot,0.895,0.41700000762939454,0.11840355396270752,Blerim Dzemaili,h,1444,OpenPlay,2017,LeftFoot,7721,Bologna,Fiorentina,1,2,2018-02-04 14:00:00,Mattia Destro,Pass
+195641,14,MissedShots,0.8930000305175781,0.5109999847412109,0.04052343964576721,Mattia Destro,h,1580,FromCorner,2017,Head,7721,Bologna,Fiorentina,1,2,2018-02-04 14:00:00,,None
+195643,19,SavedShot,0.7580000305175781,0.48900001525878906,0.020331382751464844,Blerim Dzemaili,h,1444,OpenPlay,2017,RightFoot,7721,Bologna,Fiorentina,1,2,2018-02-04 14:00:00,Andrea Poli,Pass
+195650,40,OwnGoal,0.006000000238418579,0.53,0,Antonio Mirante,h,1609,FromCorner,2017,OtherBodyPart,7721,Bologna,Fiorentina,1,2,2018-02-04 14:00:00,,None
+195651,43,SavedShot,0.8719999694824219,0.62,0.07357699424028397,Mattia Destro,h,1580,OpenPlay,2017,LeftFoot,7721,Bologna,Fiorentina,1,2,2018-02-04 14:00:00,Godfred Donsah,Pass
+195652,43,Goal,0.995,0.995,0.010854662396013737,Erick Pulgar,h,1448,FromCorner,2017,RightFoot,7721,Bologna,Fiorentina,1,2,2018-02-04 14:00:00,,None
+195655,69,MissedShots,0.9619999694824218,0.6669999694824219,0.0682893842458725,Riccardo Orsolini,h,6160,OpenPlay,2017,LeftFoot,7721,Bologna,Fiorentina,1,2,2018-02-04 14:00:00,Adam Masina,BallTouch
+195657,74,MissedShots,0.9359999847412109,0.27700000762939453,0.040117766708135605,Rodrigo Palacio,h,1518,OpenPlay,2017,RightFoot,7721,Bologna,Fiorentina,1,2,2018-02-04 14:00:00,,None
+195658,92,MissedShots,0.7730000305175782,0.37099998474121093,0.017849350348114967,Federico Di Francesco,h,1449,FromCorner,2017,RightFoot,7721,Bologna,Fiorentina,1,2,2018-02-04 14:00:00,,None
+195642,16,MissedShots,0.87,0.35900001525878905,0.07816936820745468,Federico Chiesa,a,1433,OpenPlay,2017,LeftFoot,7721,Bologna,Fiorentina,1,2,2018-02-04 14:00:00,Gil Dias,Pass
+195644,20,SavedShot,0.7719999694824219,0.26799999237060546,0.018620526418089867,Marco Benassi,a,1183,OpenPlay,2017,RightFoot,7721,Bologna,Fiorentina,1,2,2018-02-04 14:00:00,,TakeOn
+195645,23,BlockedShot,0.750999984741211,0.41200000762939454,0.02002715691924095,Federico Chiesa,a,1433,OpenPlay,2017,LeftFoot,7721,Bologna,Fiorentina,1,2,2018-02-04 14:00:00,Marco Benassi,Pass
+195646,23,BlockedShot,0.8230000305175781,0.705,0.020540008321404457,Jordan Veretout,a,677,OpenPlay,2017,RightFoot,7721,Bologna,Fiorentina,1,2,2018-02-04 14:00:00,,Rebound
+195647,30,BlockedShot,0.855999984741211,0.5320000076293945,0.10043002665042877,Federico Chiesa,a,1433,OpenPlay,2017,RightFoot,7721,Bologna,Fiorentina,1,2,2018-02-04 14:00:00,Milan Badelj,Pass
+195648,35,MissedShots,0.78,0.3039999961853027,0.02069137431681156,Marco Benassi,a,1183,OpenPlay,2017,RightFoot,7721,Bologna,Fiorentina,1,2,2018-02-04 14:00:00,Milan Badelj,Pass
+195649,39,SavedShot,0.8959999847412109,0.34900001525878904,0.07664300501346588,Gil Dias,a,3769,OpenPlay,2017,LeftFoot,7721,Bologna,Fiorentina,1,2,2018-02-04 14:00:00,Vincent Laurini,Pass
+195653,51,SavedShot,0.865999984741211,0.6079999923706054,0.07228317856788635,Giovanni Simeone,a,1102,OpenPlay,2017,RightFoot,7721,Bologna,Fiorentina,1,2,2018-02-04 14:00:00,Marco Benassi,HeadPass
+195654,66,SavedShot,0.7719999694824219,0.6,0.02672959677875042,Marco Benassi,a,1183,OpenPlay,2017,RightFoot,7721,Bologna,Fiorentina,1,2,2018-02-04 14:00:00,,Dispossessed
+195656,70,Goal,0.9119999694824219,0.4329999923706055,0.4082164466381073,Federico Chiesa,a,1433,OpenPlay,2017,LeftFoot,7721,Bologna,Fiorentina,1,2,2018-02-04 14:00:00,Milan Badelj,TakeOn

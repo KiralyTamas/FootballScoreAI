@@ -1,0 +1,22 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+173786,8,MissedShots,0.7919999694824219,0.5940000152587891,0.0973261296749115,Paulo Dybala,h,1294,DirectFreekick,2017,LeftFoot,7545,Juventus,Fiorentina,1,0,2017-09-20 19:45:00,,Standard
+173787,22,BlockedShot,0.764000015258789,0.515,0.02631153166294098,Paulo Dybala,h,1294,OpenPlay,2017,LeftFoot,7545,Juventus,Fiorentina,1,0,2017-09-20 19:45:00,Mario Mandzukic,Pass
+173790,35,BlockedShot,0.7090000152587891,0.45599998474121095,0.011645306833088398,Rodrigo Bentancur,h,6108,OpenPlay,2017,RightFoot,7545,Juventus,Fiorentina,1,0,2017-09-20 19:45:00,,None
+173791,42,BlockedShot,0.76,0.5659999847412109,0.026511317119002342,Gonzalo Higuaín,h,1293,OpenPlay,2017,RightFoot,7545,Juventus,Fiorentina,1,0,2017-09-20 19:45:00,Rodrigo Bentancur,Pass
+173793,51,Goal,0.9319999694824219,0.5629999923706055,0.2684803307056427,Mario Mandzukic,h,1295,OpenPlay,2017,Head,7545,Juventus,Fiorentina,1,0,2017-09-20 19:45:00,Juan Cuadrado,Cross
+173797,66,BlockedShot,0.8640000152587891,0.5570000076293945,0.09155195951461792,Paulo Dybala,h,1294,SetPiece,2017,LeftFoot,7545,Juventus,Fiorentina,1,0,2017-09-20 19:45:00,Juan Cuadrado,Pass
+173798,67,BlockedShot,0.9730000305175781,0.5990000152587891,0.3158269226551056,Mario Mandzukic,h,1295,OpenPlay,2017,LeftFoot,7545,Juventus,Fiorentina,1,0,2017-09-20 19:45:00,Juan Cuadrado,Cross
+173799,69,SavedShot,0.805,0.29100000381469726,0.03104500286281109,Juan Cuadrado,h,1089,OpenPlay,2017,LeftFoot,7545,Juventus,Fiorentina,1,0,2017-09-20 19:45:00,Stefano Sturaro,Pass
+173800,71,SavedShot,0.8030000305175782,0.23899999618530274,0.022034484893083572,Juan Cuadrado,h,1089,OpenPlay,2017,RightFoot,7545,Juventus,Fiorentina,1,0,2017-09-20 19:45:00,Mario Mandzukic,Pass
+173801,75,SavedShot,0.9680000305175781,0.6270000076293946,0.03346952423453331,Mario Mandzukic,h,1295,OpenPlay,2017,Head,7545,Juventus,Fiorentina,1,0,2017-09-20 19:45:00,Juan Cuadrado,Cross
+173802,84,SavedShot,0.895,0.33599998474121096,0.07852622121572495,Miralem Pjanic,h,1290,OpenPlay,2017,RightFoot,7545,Juventus,Fiorentina,1,0,2017-09-20 19:45:00,Blaise Matuidi,Pass
+173806,93,MissedShots,0.45299999237060545,0.3320000076293945,0.0073052020743489265,Miralem Pjanic,h,1290,OpenPlay,2017,RightFoot,7545,Juventus,Fiorentina,1,0,2017-09-20 19:45:00,,Interception
+173788,24,MissedShots,0.74,0.5629999923706055,0.05571971833705902,Jordan Veretout,a,677,DirectFreekick,2017,RightFoot,7545,Juventus,Fiorentina,1,0,2017-09-20 19:45:00,,Standard
+173789,34,BlockedShot,0.789000015258789,0.2720000076293945,0.011077512986958027,Vincent Laurini,a,1306,OpenPlay,2017,RightFoot,7545,Juventus,Fiorentina,1,0,2017-09-20 19:45:00,,Aerial
+173792,47,BlockedShot,0.7240000152587891,0.4229999923706055,0.020156269893050194,Marco Benassi,a,1183,OpenPlay,2017,RightFoot,7545,Juventus,Fiorentina,1,0,2017-09-20 19:45:00,Milan Badelj,Pass
+173794,53,MissedShots,0.7269999694824218,0.6569999694824219,0.012530392967164516,Giovanni Simeone,a,1102,OpenPlay,2017,RightFoot,7545,Juventus,Fiorentina,1,0,2017-09-20 19:45:00,,BlockedPass
+173795,60,MissedShots,0.685,0.5379999923706055,0.013195055536925793,Jordan Veretout,a,677,OpenPlay,2017,LeftFoot,7545,Juventus,Fiorentina,1,0,2017-09-20 19:45:00,Federico Chiesa,Pass
+173796,61,MissedShots,0.7380000305175781,0.675,0.016293758526444435,Cyril Théréau,a,1147,OpenPlay,2017,RightFoot,7545,Juventus,Fiorentina,1,0,2017-09-20 19:45:00,Giovanni Simeone,Pass
+173803,86,BlockedShot,0.8440000152587891,0.36,0.04435756057500839,Gil Dias,a,3769,OpenPlay,2017,LeftFoot,7545,Juventus,Fiorentina,1,0,2017-09-20 19:45:00,,None
+173804,89,MissedShots,0.870999984741211,0.36,0.06676036864519119,Gil Dias,a,3769,OpenPlay,2017,LeftFoot,7545,Juventus,Fiorentina,1,0,2017-09-20 19:45:00,Giovanni Simeone,Pass
+173805,89,MissedShots,0.9080000305175782,0.46299999237060546,0.26369598507881165,Giovanni Simeone,a,1102,FromCorner,2017,Head,7545,Juventus,Fiorentina,1,0,2017-09-20 19:45:00,Jordan Veretout,Cross

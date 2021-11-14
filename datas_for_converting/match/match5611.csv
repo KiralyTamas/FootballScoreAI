@@ -1,0 +1,16 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+41238,2,MissedShots,0.9469999694824218,0.30700000762939456,0.06101906672120094,David Barral,h,2087,OpenPlay,2014,RightFoot,5611,Levante,Malaga,4,1,2015-02-07 19:00:00,,BallRecovery
+41239,3,MissedShots,0.865999984741211,0.3120000076293945,0.04582205414772034,Jordi Xumetra,h,2181,OpenPlay,2014,RightFoot,5611,Levante,Malaga,4,1,2015-02-07 19:00:00,,None
+41240,8,BlockedShot,0.725,0.4520000076293945,0.01967053860425949,Jordi Xumetra,h,2181,OpenPlay,2014,RightFoot,5611,Levante,Malaga,4,1,2015-02-07 19:00:00,David Barral,Pass
+41241,11,SavedShot,0.805,0.754000015258789,0.021830890327692032,Morales,h,2186,OpenPlay,2014,RightFoot,5611,Levante,Malaga,4,1,2015-02-07 19:00:00,Kalu Uche,Pass
+41243,25,Goal,0.82,0.7119999694824218,0.08407306671142578,David Barral,h,2087,DirectFreekick,2014,RightFoot,5611,Levante,Malaga,4,1,2015-02-07 19:00:00,,Standard
+41244,29,SavedShot,0.9430000305175781,0.4909999847412109,0.54108726978302,Kalu Uche,h,4074,OpenPlay,2014,Head,5611,Levante,Malaga,4,1,2015-02-07 19:00:00,Morales,Cross
+41245,36,Goal,0.885,0.5,0.7432776093482971,David Barral,h,2087,Penalty,2014,RightFoot,5611,Levante,Malaga,4,1,2015-02-07 19:00:00,,Standard
+41246,39,MissedShots,0.889000015258789,0.375,0.01946292445063591,Kalu Uche,h,4074,OpenPlay,2014,Head,5611,Levante,Malaga,4,1,2015-02-07 19:00:00,Iván López,Pass
+41249,61,Goal,0.885,0.5,0.7432776093482971,David Barral,h,2087,Penalty,2014,RightFoot,5611,Levante,Malaga,4,1,2015-02-07 19:00:00,,Standard
+41250,74,Goal,0.9619999694824218,0.49700000762939456,0.7554418444633484,Kalu Uche,h,4074,OpenPlay,2014,RightFoot,5611,Levante,Malaga,4,1,2015-02-07 19:00:00,Toño,Pass
+41251,78,BlockedShot,0.8919999694824219,0.295,0.051719870418310165,David Barral,h,2087,OpenPlay,2014,RightFoot,5611,Levante,Malaga,4,1,2015-02-07 19:00:00,,None
+41242,23,Goal,0.96,0.38,0.3625614047050476,Juanmi,a,897,OpenPlay,2014,RightFoot,5611,Levante,Malaga,4,1,2015-02-07 19:00:00,,None
+41247,53,MissedShots,0.720999984741211,0.47400001525878904,0.014996856451034546,Sergio Sánchez,a,4077,OpenPlay,2014,LeftFoot,5611,Levante,Malaga,4,1,2015-02-07 19:00:00,Samu García,BallTouch
+41248,58,SavedShot,0.909000015258789,0.52,0.042706701904535294,Juanmi,a,897,OpenPlay,2014,Head,5611,Levante,Malaga,4,1,2015-02-07 19:00:00,Nordin Amrabat,Aerial
+41252,85,SavedShot,0.8530000305175781,0.435,0.028805004432797432,Ignacio Camacho,a,2336,SetPiece,2014,Head,5611,Levante,Malaga,4,1,2015-02-07 19:00:00,Fernando Tissone,Cross

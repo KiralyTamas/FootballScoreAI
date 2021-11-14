@@ -1,0 +1,29 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+169168,5,SavedShot,0.9180000305175782,0.7080000305175781,0.037624068558216095,Florin Andone,h,4068,OpenPlay,2017,RightFoot,7886,Deportivo La Coruna,Real Madrid,0,3,2017-08-20 21:15:00,Celso Borges,Pass
+169169,7,SavedShot,0.88,0.35700000762939454,0.21493284404277802,Florin Andone,h,4068,OpenPlay,2017,RightFoot,7886,Deportivo La Coruna,Real Madrid,0,3,2017-08-20 21:15:00,Juanfran,Pass
+169170,7,MissedShots,0.9590000152587891,0.5309999847412109,0.08798898756504059,Zakaria Bakkali,h,2538,FromCorner,2017,Head,7886,Deportivo La Coruna,Real Madrid,0,3,2017-08-20 21:15:00,Fede Cartabia,Aerial
+169172,15,MissedShots,0.7619999694824219,0.64,0.016687307506799698,Guilherme,h,1891,SetPiece,2017,RightFoot,7886,Deportivo La Coruna,Real Madrid,0,3,2017-08-20 21:15:00,,Tackle
+169177,36,MissedShots,0.9390000152587891,0.5320000076293945,0.14826641976833344,Florin Andone,h,4068,OpenPlay,2017,Head,7886,Deportivo La Coruna,Real Madrid,0,3,2017-08-20 21:15:00,Luisinho,Cross
+169178,41,SavedShot,0.87,0.47200000762939454,0.023210009559988976,Florin Andone,h,4068,OpenPlay,2017,Head,7886,Deportivo La Coruna,Real Madrid,0,3,2017-08-20 21:15:00,Juanfran,Aerial
+169180,47,BlockedShot,0.749000015258789,0.4779999923706055,0.020592350512742996,Guilherme,h,1891,OpenPlay,2017,RightFoot,7886,Deportivo La Coruna,Real Madrid,0,3,2017-08-20 21:15:00,Zakaria Bakkali,Pass
+169183,58,BlockedShot,0.9230000305175782,0.5970000076293945,0.04989544302225113,Florin Andone,h,4068,FromCorner,2017,Head,7886,Deportivo La Coruna,Real Madrid,0,3,2017-08-20 21:15:00,Bruno Gama,Cross
+169186,63,ShotOnPost,0.9390000152587891,0.26799999237060546,0.06003238633275032,Guilherme,h,1891,OpenPlay,2017,RightFoot,7886,Deportivo La Coruna,Real Madrid,0,3,2017-08-20 21:15:00,,TakeOn
+169190,76,MissedShots,0.735999984741211,0.8180000305175781,0.008878680877387524,Luisinho,h,2500,OpenPlay,2017,LeftFoot,7886,Deportivo La Coruna,Real Madrid,0,3,2017-08-20 21:15:00,Guilherme,Pass
+169192,84,SavedShot,0.8180000305175781,0.615999984741211,0.07123751193284988,Florin Andone,h,4068,OpenPlay,2017,RightFoot,7886,Deportivo La Coruna,Real Madrid,0,3,2017-08-20 21:15:00,Borja Valle,Pass
+169194,88,SavedShot,0.885,0.5,0.7432776093482971,Florin Andone,h,4068,Penalty,2017,RightFoot,7886,Deportivo La Coruna,Real Madrid,0,3,2017-08-20 21:15:00,,Standard
+169167,0,BlockedShot,0.865999984741211,0.41900001525878905,0.013299312442541122,Gareth Bale,a,2251,OpenPlay,2017,Head,7886,Deportivo La Coruna,Real Madrid,0,3,2017-08-20 21:15:00,Sergio Ramos,Aerial
+169171,8,BlockedShot,0.8640000152587891,0.6459999847412109,0.06281505525112152,Toni Kroos,a,2369,OpenPlay,2017,RightFoot,7886,Deportivo La Coruna,Real Madrid,0,3,2017-08-20 21:15:00,Karim Benzema,Pass
+169173,17,MissedShots,0.9069999694824219,0.62,0.073629230260849,Toni Kroos,a,2369,OpenPlay,2017,RightFoot,7886,Deportivo La Coruna,Real Madrid,0,3,2017-08-20 21:15:00,,None
+169174,19,SavedShot,0.8019999694824219,0.43099998474121093,0.0445098839700222,Luka Modric,a,2250,OpenPlay,2017,RightFoot,7886,Deportivo La Coruna,Real Madrid,0,3,2017-08-20 21:15:00,Marcelo,Pass
+169175,19,Goal,0.9719999694824218,0.515,0.9237724542617798,Gareth Bale,a,2251,OpenPlay,2017,LeftFoot,7886,Deportivo La Coruna,Real Madrid,0,3,2017-08-20 21:15:00,Karim Benzema,Pass
+169176,26,Goal,0.9619999694824218,0.4370000076293945,0.599267840385437,Casemiro,a,2248,OpenPlay,2017,RightFoot,7886,Deportivo La Coruna,Real Madrid,0,3,2017-08-20 21:15:00,Marcelo,Pass
+169179,45,SavedShot,0.8819999694824219,0.6229999923706054,0.09611555188894272,Toni Kroos,a,2369,OpenPlay,2017,RightFoot,7886,Deportivo La Coruna,Real Madrid,0,3,2017-08-20 21:15:00,Karim Benzema,Pass
+169181,50,BlockedShot,0.7230000305175781,0.4329999923706055,0.018028831109404564,Toni Kroos,a,2369,OpenPlay,2017,RightFoot,7886,Deportivo La Coruna,Real Madrid,0,3,2017-08-20 21:15:00,Casemiro,BallRecovery
+169182,54,BlockedShot,0.895,0.5579999923706055,0.11049868166446686,Luka Modric,a,2250,OpenPlay,2017,LeftFoot,7886,Deportivo La Coruna,Real Madrid,0,3,2017-08-20 21:15:00,,Dispossessed
+169184,60,SavedShot,0.6840000152587891,0.5820000076293945,0.03569676727056503,Gareth Bale,a,2251,DirectFreekick,2017,LeftFoot,7886,Deportivo La Coruna,Real Madrid,0,3,2017-08-20 21:15:00,,Standard
+169185,61,Goal,0.8230000305175781,0.5259999847412109,0.09067423641681671,Toni Kroos,a,2369,OpenPlay,2017,RightFoot,7886,Deportivo La Coruna,Real Madrid,0,3,2017-08-20 21:15:00,Gareth Bale,Pass
+169187,67,SavedShot,0.8690000152587891,0.6869999694824219,0.09174841642379761,Marcelo,a,2257,OpenPlay,2017,RightFoot,7886,Deportivo La Coruna,Real Madrid,0,3,2017-08-20 21:15:00,Karim Benzema,TakeOn
+169188,68,MissedShots,0.6959999847412109,0.33,0.018308915197849274,Gareth Bale,a,2251,OpenPlay,2017,LeftFoot,7886,Deportivo La Coruna,Real Madrid,0,3,2017-08-20 21:15:00,Karim Benzema,Pass
+169189,75,MissedShots,0.8819999694824219,0.655,0.06986327469348907,Marcelo,a,2257,OpenPlay,2017,RightFoot,7886,Deportivo La Coruna,Real Madrid,0,3,2017-08-20 21:15:00,,None
+169191,77,MissedShots,0.8159999847412109,0.5059999847412109,0.08135566860437393,Luka Modric,a,2250,OpenPlay,2017,RightFoot,7886,Deportivo La Coruna,Real Madrid,0,3,2017-08-20 21:15:00,Gareth Bale,Pass
+169193,86,SavedShot,0.7619999694824219,0.31799999237060544,0.058625079691410065,Marco Asensio,a,2117,DirectFreekick,2017,LeftFoot,7886,Deportivo La Coruna,Real Madrid,0,3,2017-08-20 21:15:00,,Standard

@@ -1,0 +1,25 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+431893,3,BlockedShot,0.8059999847412109,0.46799999237060547,0.0348985381424427,Konstantinos Mavropanos,h,6722,FromCorner,2021,RightFoot,17558,VfB Stuttgart,Bayer Leverkusen,1,3,2021-09-19 13:30:00,,None
+431894,3,MissedShots,0.855,0.5709999847412109,0.06871332228183746,Hiroki Ito,h,9715,FromCorner,2021,RightFoot,17558,VfB Stuttgart,Bayer Leverkusen,1,3,2021-09-19 13:30:00,,Rebound
+431896,31,MissedShots,0.879000015258789,0.38799999237060545,0.028602201491594315,Orel Mangala,h,6088,SetPiece,2021,RightFoot,17558,VfB Stuttgart,Bayer Leverkusen,1,3,2021-09-19 13:30:00,Borna Sosa,Cross
+431897,37,SavedShot,0.8969999694824219,0.5409999847412109,0.08357615768909454,Konstantinos Mavropanos,h,6722,SetPiece,2021,Head,17558,VfB Stuttgart,Bayer Leverkusen,1,3,2021-09-19 13:30:00,Omar Marmoush,Cross
+431898,37,Goal,0.9680000305175781,0.534000015258789,0.7227062582969666,Orel Mangala,h,6088,SetPiece,2021,LeftFoot,17558,VfB Stuttgart,Bayer Leverkusen,1,3,2021-09-19 13:30:00,,Rebound
+431899,39,BlockedShot,0.8669999694824219,0.4590000152587891,0.06627514213323593,Tanguy Coulibaly,h,8813,OpenPlay,2021,RightFoot,17558,VfB Stuttgart,Bayer Leverkusen,1,3,2021-09-19 13:30:00,Roberto Massimo,Cross
+431900,43,SavedShot,0.6669999694824219,0.5609999847412109,0.01205920334905386,Marc-Oliver Kempf,h,4291,OpenPlay,2021,LeftFoot,17558,VfB Stuttgart,Bayer Leverkusen,1,3,2021-09-19 13:30:00,Konstantinos Mavropanos,Pass
+431901,46,BlockedShot,0.8869999694824219,0.7040000152587891,0.042536843568086624,Borna Sosa,h,7075,OpenPlay,2021,LeftFoot,17558,VfB Stuttgart,Bayer Leverkusen,1,3,2021-09-19 13:30:00,Atakan Karazor,BallTouch
+431902,50,SavedShot,0.950999984741211,0.5720000076293945,0.1209496483206749,Omar Marmoush,h,8393,OpenPlay,2021,Head,17558,VfB Stuttgart,Bayer Leverkusen,1,3,2021-09-19 13:30:00,Borna Sosa,Cross
+431903,53,MissedShots,0.7430000305175781,0.7269999694824218,0.016746729612350464,Omar Marmoush,h,8393,OpenPlay,2021,RightFoot,17558,VfB Stuttgart,Bayer Leverkusen,1,3,2021-09-19 13:30:00,Atakan Karazor,Pass
+431905,58,SavedShot,0.8780000305175781,0.69,0.01744401827454567,Marc-Oliver Kempf,h,4291,SetPiece,2021,Head,17558,VfB Stuttgart,Bayer Leverkusen,1,3,2021-09-19 13:30:00,Hiroki Ito,Chipped
+431907,60,MissedShots,0.779000015258789,0.415,0.027646774426102638,Pascal Stenzel,h,326,OpenPlay,2021,RightFoot,17558,VfB Stuttgart,Bayer Leverkusen,1,3,2021-09-19 13:30:00,,None
+431911,73,MissedShots,0.785,0.4570000076293945,0.013297147117555141,Wataru Endo,h,8808,FromCorner,2021,LeftFoot,17558,VfB Stuttgart,Bayer Leverkusen,1,3,2021-09-19 13:30:00,Konstantinos Mavropanos,HeadPass
+431912,78,MissedShots,0.9519999694824218,0.6029999923706054,0.10885562747716904,Omar Marmoush,h,8393,OpenPlay,2021,RightFoot,17558,VfB Stuttgart,Bayer Leverkusen,1,3,2021-09-19 13:30:00,Borna Sosa,Pass
+431913,86,SavedShot,0.77,0.645,0.02090500108897686,Omer Faruk Beyaz,h,9987,OpenPlay,2021,LeftFoot,17558,VfB Stuttgart,Bayer Leverkusen,1,3,2021-09-19 13:30:00,Philipp Klement,Pass
+431914,94,MissedShots,0.7969999694824219,0.6359999847412109,0.030497727915644646,Philipp Klement,h,409,OpenPlay,2021,RightFoot,17558,VfB Stuttgart,Bayer Leverkusen,1,3,2021-09-19 13:30:00,Borna Sosa,Pass
+431915,95,MissedShots,0.8619999694824219,0.5170000076293946,0.06386195868253708,Marc-Oliver Kempf,h,4291,OpenPlay,2021,RightFoot,17558,VfB Stuttgart,Bayer Leverkusen,1,3,2021-09-19 13:30:00,,None
+431892,1,Goal,0.9159999847412109,0.4640000152587891,0.1242416501045227,Robert Andrich,a,7877,OpenPlay,2021,Head,17558,VfB Stuttgart,Bayer Leverkusen,1,3,2021-09-19 13:30:00,Mitchel Bakker,Cross
+431895,18,Goal,0.960999984741211,0.49200000762939455,0.7673512101173401,Patrik Schick,a,1236,OpenPlay,2021,RightFoot,17558,VfB Stuttgart,Bayer Leverkusen,1,3,2021-09-19 13:30:00,Florian Wirtz,Pass
+431904,54,SavedShot,0.884000015258789,0.3129999923706055,0.06682730466127396,Moussa Diaby,a,6556,OpenPlay,2021,RightFoot,17558,VfB Stuttgart,Bayer Leverkusen,1,3,2021-09-19 13:30:00,Jeremie Frimpong,Pass
+431906,59,MissedShots,0.8959999847412109,0.3240000152587891,0.14862926304340363,Moussa Diaby,a,6556,OpenPlay,2021,LeftFoot,17558,VfB Stuttgart,Bayer Leverkusen,1,3,2021-09-19 13:30:00,Florian Wirtz,Throughball
+431908,66,BlockedShot,0.835999984741211,0.6719999694824219,0.028317131102085114,Florian Wirtz,a,8397,FromCorner,2021,RightFoot,17558,VfB Stuttgart,Bayer Leverkusen,1,3,2021-09-19 13:30:00,,None
+431909,68,MissedShots,0.955,0.435,0.06193551421165466,Mitchel Bakker,a,8310,FromCorner,2021,Head,17558,VfB Stuttgart,Bayer Leverkusen,1,3,2021-09-19 13:30:00,Kerem Demirbay,Aerial
+431910,69,Goal,0.874000015258789,0.5609999847412109,0.39602234959602356,Florian Wirtz,a,8397,OpenPlay,2021,LeftFoot,17558,VfB Stuttgart,Bayer Leverkusen,1,3,2021-09-19 13:30:00,,BallRecovery

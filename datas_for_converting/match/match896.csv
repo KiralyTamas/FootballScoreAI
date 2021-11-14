@@ -1,0 +1,22 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+101009,10,SavedShot,0.7240000152587891,0.23899999618530274,0.010270659811794758,Alessandro Diamanti,h,948,OpenPlay,2015,LeftFoot,896,Atalanta,Chievo,1,0,2016-04-24 17:00:00,Marco Borriello,Pass
+101010,15,MissedShots,0.81,0.24399999618530274,0.015911737456917763,Alessandro Diamanti,h,948,OpenPlay,2015,LeftFoot,896,Atalanta,Chievo,1,0,2016-04-24 17:00:00,,None
+101012,25,SavedShot,0.7280000305175781,0.325,0.015567504800856113,Rafael Toloi,h,1484,OpenPlay,2015,RightFoot,896,Atalanta,Chievo,1,0,2016-04-24 17:00:00,Alessandro Diamanti,Pass
+101014,37,MissedShots,0.7519999694824219,0.35900001525878905,0.015170126222074032,Luca Cigarini,h,1238,FromCorner,2015,RightFoot,896,Atalanta,Chievo,1,0,2016-04-24 17:00:00,,None
+101017,54,Goal,0.9359999847412109,0.54,0.5686090588569641,Marco Borriello,h,1405,OpenPlay,2015,LeftFoot,896,Atalanta,Chievo,1,0,2016-04-24 17:00:00,,None
+101020,58,BlockedShot,0.8290000152587891,0.5479999923706055,0.08592858165502548,Alessandro Diamanti,h,948,OpenPlay,2015,RightFoot,896,Atalanta,Chievo,1,0,2016-04-24 17:00:00,Luca Cigarini,Pass
+101021,59,BlockedShot,0.8440000152587891,0.36700000762939455,0.05268818885087967,Marco Borriello,h,1405,SetPiece,2015,LeftFoot,896,Atalanta,Chievo,1,0,2016-04-24 17:00:00,Alessandro Diamanti,TakeOn
+101023,64,SavedShot,0.8059999847412109,0.36900001525878906,0.02344314567744732,Alessandro Diamanti,h,948,SetPiece,2015,LeftFoot,896,Atalanta,Chievo,1,0,2016-04-24 17:00:00,Marco Sportiello,Pass
+101024,70,MissedShots,0.7919999694824219,0.25299999237060544,0.022230684757232666,Andrea Masiello,h,1485,OpenPlay,2015,RightFoot,896,Atalanta,Chievo,1,0,2016-04-24 17:00:00,,None
+101025,72,SavedShot,0.840999984741211,0.425,0.07724228501319885,Marco Borriello,h,1405,OpenPlay,2015,LeftFoot,896,Atalanta,Chievo,1,0,2016-04-24 17:00:00,,None
+101028,86,BlockedShot,0.774000015258789,0.29399999618530276,0.05237528309226036,Luca Cigarini,h,1238,DirectFreekick,2015,RightFoot,896,Atalanta,Chievo,1,0,2016-04-24 17:00:00,,Standard
+101011,21,MissedShots,0.759000015258789,0.28200000762939453,0.044022731482982635,Valter Birsa,a,1336,DirectFreekick,2015,LeftFoot,896,Atalanta,Chievo,1,0,2016-04-24 17:00:00,,Standard
+101013,27,MissedShots,0.779000015258789,0.29399999618530276,0.019938500598073006,Valter Birsa,a,1336,OpenPlay,2015,LeftFoot,896,Atalanta,Chievo,1,0,2016-04-24 17:00:00,Antonio Floro Flores,LayOff
+101015,41,BlockedShot,0.91,0.355,0.08807443082332611,Antonio Floro Flores,a,1338,OpenPlay,2015,RightFoot,896,Atalanta,Chievo,1,0,2016-04-24 17:00:00,Fabrizio Cacciatore,Pass
+101016,41,MissedShots,0.9109999847412109,0.5479999923706055,0.06913050264120102,Lucas Castro,a,1333,FromCorner,2015,Head,896,Atalanta,Chievo,1,0,2016-04-24 17:00:00,Valter Birsa,Cross
+101018,55,BlockedShot,0.6730000305175782,0.46599998474121096,0.012215233407914639,Ivan Radovanovic,a,1341,OpenPlay,2015,RightFoot,896,Atalanta,Chievo,1,0,2016-04-24 17:00:00,Valter Birsa,Pass
+101019,55,BlockedShot,0.7830000305175782,0.32099998474121094,0.017680825665593147,Riccardo Meggiorini,a,1337,OpenPlay,2015,LeftFoot,896,Atalanta,Chievo,1,0,2016-04-24 17:00:00,Fabrizio Cacciatore,Chipped
+101022,63,SavedShot,0.8109999847412109,0.5070000076293946,0.04999679699540138,Valter Birsa,a,1336,OpenPlay,2015,LeftFoot,896,Atalanta,Chievo,1,0,2016-04-24 17:00:00,Fabrizio Cacciatore,Pass
+101026,81,SavedShot,0.7340000152587891,0.585,0.01831221580505371,Ivan Radovanovic,a,1341,OpenPlay,2015,RightFoot,896,Atalanta,Chievo,1,0,2016-04-24 17:00:00,Massimo Gobbi,Pass
+101027,84,MissedShots,0.7530000305175781,0.32,0.016118962317705154,Simone Pepe,a,1171,OpenPlay,2015,RightFoot,896,Atalanta,Chievo,1,0,2016-04-24 17:00:00,Sergio Pellissier,LayOff
+101029,87,MissedShots,0.7090000152587891,0.6020000076293945,0.011727174744009972,Ivan Radovanovic,a,1341,OpenPlay,2015,RightFoot,896,Atalanta,Chievo,1,0,2016-04-24 17:00:00,,None

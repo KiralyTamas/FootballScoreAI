@@ -1,0 +1,21 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+385422,13,MissedShots,0.789000015258789,0.65,0.027509763836860657,Tommaso Augello,h,7938,OpenPlay,2020,LeftFoot,15481,Sampdoria,Genoa,1,1,2020-11-01 19:45:00,Albin Ekdal,BallTouch
+385423,20,MissedShots,0.9369999694824219,0.695,0.059219859540462494,Lorenzo Tonelli,h,1394,OpenPlay,2020,LeftFoot,15481,Sampdoria,Genoa,1,1,2020-11-01 19:45:00,Fabio Quagliarella,HeadPass
+385424,22,Goal,0.8109999847412109,0.28100000381469725,0.01778978854417801,Jakub Jankto,h,1146,OpenPlay,2020,LeftFoot,15481,Sampdoria,Genoa,1,1,2020-11-01 19:45:00,Gastón Ramírez,TakeOn
+385428,36,MissedShots,0.935,0.51,0.12339559197425842,Morten Thorsby,h,7939,FromCorner,2020,Head,15481,Sampdoria,Genoa,1,1,2020-11-01 19:45:00,Mikkel Damsgaard,Cross
+385434,70,SavedShot,0.8280000305175781,0.35900001525878905,0.04735640808939934,Keita,h,1210,OpenPlay,2020,RightFoot,15481,Sampdoria,Genoa,1,1,2020-11-01 19:45:00,Mikkel Damsgaard,Pass
+385435,70,MissedShots,0.9130000305175782,0.38299999237060545,0.3243040144443512,Mikkel Damsgaard,h,8859,OpenPlay,2020,LeftFoot,15481,Sampdoria,Genoa,1,1,2020-11-01 19:45:00,,Rebound
+385436,77,SavedShot,0.875,0.3770000076293945,0.13423724472522736,Keita,h,1210,OpenPlay,2020,RightFoot,15481,Sampdoria,Genoa,1,1,2020-11-01 19:45:00,Adrien Silva,TakeOn
+385437,82,MissedShots,0.7659999847412109,0.6480000305175782,0.06032611429691315,Antonio Candreva,h,1517,DirectFreekick,2020,RightFoot,15481,Sampdoria,Genoa,1,1,2020-11-01 19:45:00,,Standard
+385439,87,MissedShots,0.850999984741211,0.6129999923706054,0.07942665368318558,Antonio Candreva,h,1517,OpenPlay,2020,LeftFoot,15481,Sampdoria,Genoa,1,1,2020-11-01 19:45:00,Morten Thorsby,Pass
+385421,3,MissedShots,0.7819999694824219,0.445,0.03455277904868126,Goran Pandev,a,1115,OpenPlay,2020,LeftFoot,15481,Sampdoria,Genoa,1,1,2020-11-01 19:45:00,Gianluca Scamacca,BallRecovery
+385425,25,BlockedShot,0.735999984741211,0.6480000305175782,0.00900700967758894,Nicolo Rovella,a,7411,SetPiece,2020,LeftFoot,15481,Sampdoria,Genoa,1,1,2020-11-01 19:45:00,,Aerial
+385426,25,SavedShot,0.93,0.4640000152587891,0.05578046664595604,Cristian Zapata,a,1133,FromCorner,2020,Head,15481,Sampdoria,Genoa,1,1,2020-11-01 19:45:00,,Aerial
+385427,27,Goal,0.9169999694824219,0.34,0.25457438826560974,Gianluca Scamacca,a,6253,OpenPlay,2020,RightFoot,15481,Sampdoria,Genoa,1,1,2020-11-01 19:45:00,Lukas Lerager,HeadPass
+385429,38,BlockedShot,0.8190000152587891,0.4929999923706055,0.31537407636642456,Nicolo Rovella,a,7411,OpenPlay,2020,RightFoot,15481,Sampdoria,Genoa,1,1,2020-11-01 19:45:00,Gianluca Scamacca,Pass
+385430,39,BlockedShot,0.965999984741211,0.59,0.07591921836137772,Goran Pandev,a,1115,FromCorner,2020,LeftFoot,15481,Sampdoria,Genoa,1,1,2020-11-01 19:45:00,Nicolo Rovella,Cross
+385431,49,SavedShot,0.785,0.47299999237060547,0.03722892329096794,Goran Pandev,a,1115,OpenPlay,2020,LeftFoot,15481,Sampdoria,Genoa,1,1,2020-11-01 19:45:00,Lukas Lerager,Pass
+385432,58,BlockedShot,0.8919999694824219,0.6079999923706054,0.3260457515716553,Milan Badelj,a,1430,OpenPlay,2020,LeftFoot,15481,Sampdoria,Genoa,1,1,2020-11-01 19:45:00,Gianluca Scamacca,Pass
+385433,67,MissedShots,0.7809999847412109,0.35900001525878905,0.02692919597029686,Gianluca Scamacca,a,6253,OpenPlay,2020,RightFoot,15481,Sampdoria,Genoa,1,1,2020-11-01 19:45:00,Goran Pandev,Pass
+385438,83,SavedShot,0.7669999694824219,0.5779999923706055,0.026149576529860497,Marko Pjaca,a,1577,OpenPlay,2020,LeftFoot,15481,Sampdoria,Genoa,1,1,2020-11-01 19:45:00,Goran Pandev,Pass
+385440,88,MissedShots,0.7530000305175781,0.46900001525878904,0.02216496132314205,Ivan Radovanovic,a,1341,OpenPlay,2020,RightFoot,15481,Sampdoria,Genoa,1,1,2020-11-01 19:45:00,Nicolo Rovella,Pass

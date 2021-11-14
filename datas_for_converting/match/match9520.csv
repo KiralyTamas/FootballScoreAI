@@ -1,0 +1,29 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+291727,8,Goal,0.9230000305175782,0.47400001525878904,0.4751235842704773,Shane Long,h,839,OpenPlay,2018,RightFoot,9520,Southampton,Liverpool,1,3,2019-04-05 20:00:00,Pierre-Emile Højbjerg,HeadPass
+291728,14,MissedShots,0.8430000305175781,0.38799999237060545,0.020878922194242477,Pierre-Emile Højbjerg,h,343,FromCorner,2018,RightFoot,9520,Southampton,Liverpool,1,3,2019-04-05 20:00:00,,Aerial
+291731,19,MissedShots,0.9290000152587891,0.53,0.053575512021780014,Jannik Vestergaard,h,111,FromCorner,2018,Head,9520,Southampton,Liverpool,1,3,2019-04-05 20:00:00,James Ward-Prowse,Aerial
+291733,24,BlockedShot,0.7169999694824218,0.40599998474121096,0.016440188512206078,Pierre-Emile Højbjerg,h,343,OpenPlay,2018,RightFoot,9520,Southampton,Liverpool,1,3,2019-04-05 20:00:00,,None
+291738,50,BlockedShot,0.805,0.6990000152587891,0.012574233114719391,Nathan Redmond,h,790,OpenPlay,2018,RightFoot,9520,Southampton,Liverpool,1,3,2019-04-05 20:00:00,Pierre-Emile Højbjerg,Aerial
+291739,52,MissedShots,0.899000015258789,0.5029999923706054,0.021451177075505257,Jannik Vestergaard,h,111,FromCorner,2018,Head,9520,Southampton,Liverpool,1,3,2019-04-05 20:00:00,James Ward-Prowse,Aerial
+291740,52,MissedShots,0.710999984741211,0.28299999237060547,0.010531751438975334,Shane Long,h,839,OpenPlay,2018,RightFoot,9520,Southampton,Liverpool,1,3,2019-04-05 20:00:00,Yan Valery,BallRecovery
+291749,78,BlockedShot,0.9219999694824219,0.524000015258789,0.046574998646974564,Maya Yoshida,h,845,FromCorner,2018,Head,9520,Southampton,Liverpool,1,3,2019-04-05 20:00:00,James Ward-Prowse,Aerial
+291750,79,MissedShots,0.9259999847412109,0.42700000762939455,0.025338059291243553,Jan Bednarek,h,6042,FromCorner,2018,Head,9520,Southampton,Liverpool,1,3,2019-04-05 20:00:00,James Ward-Prowse,Aerial
+291751,79,BlockedShot,0.7559999847412109,0.3820000076293945,0.02503294311463833,James Ward-Prowse,h,843,FromCorner,2018,LeftFoot,9520,Southampton,Liverpool,1,3,2019-04-05 20:00:00,,TakeOn
+291754,89,MissedShots,0.775,0.35400001525878905,0.010872752405703068,Pierre-Emile Højbjerg,h,343,SetPiece,2018,RightFoot,9520,Southampton,Liverpool,1,3,2019-04-05 20:00:00,,Aerial
+291729,15,SavedShot,0.9319999694824219,0.5129999923706055,0.41273802518844604,Sadio Mané,a,838,OpenPlay,2018,Head,9520,Southampton,Liverpool,1,3,2019-04-05 20:00:00,Mohamed Salah,Cross
+291730,15,MissedShots,0.975999984741211,0.43099998474121093,0.13589507341384888,Naby Keita,a,5247,OpenPlay,2018,RightFoot,9520,Southampton,Liverpool,1,3,2019-04-05 20:00:00,,Rebound
+291732,22,BlockedShot,0.889000015258789,0.62,0.04333335906267166,Mohamed Salah,a,1250,FromCorner,2018,LeftFoot,9520,Southampton,Liverpool,1,3,2019-04-05 20:00:00,Andrew Robertson,Cross
+291734,29,MissedShots,0.779000015258789,0.575,0.02862648293375969,Roberto Firmino,a,482,OpenPlay,2018,RightFoot,9520,Southampton,Liverpool,1,3,2019-04-05 20:00:00,,None
+291735,35,Goal,0.9280000305175782,0.590999984741211,0.03336174413561821,Naby Keita,a,5247,OpenPlay,2018,Head,9520,Southampton,Liverpool,1,3,2019-04-05 20:00:00,Trent Alexander-Arnold,Aerial
+291736,38,MissedShots,0.9459999847412109,0.485,0.10561903566122055,Sadio Mané,a,838,OpenPlay,2018,Head,9520,Southampton,Liverpool,1,3,2019-04-05 20:00:00,Roberto Firmino,Aerial
+291737,44,MissedShots,0.879000015258789,0.23299999237060548,0.0227062925696373,Roberto Firmino,a,482,OpenPlay,2018,RightFoot,9520,Southampton,Liverpool,1,3,2019-04-05 20:00:00,Mohamed Salah,Pass
+291741,59,MissedShots,0.7619999694824219,0.53,0.012657156214118004,Fabinho,a,3420,OpenPlay,2018,RightFoot,9520,Southampton,Liverpool,1,3,2019-04-05 20:00:00,,Aerial
+291742,59,BlockedShot,0.7240000152587891,0.4540000152587891,0.021990226581692696,James Milner,a,489,FromCorner,2018,LeftFoot,9520,Southampton,Liverpool,1,3,2019-04-05 20:00:00,Roberto Firmino,Pass
+291743,59,SavedShot,0.7519999694824219,0.2560000038146973,0.014006409794092178,Roberto Firmino,a,482,FromCorner,2018,RightFoot,9520,Southampton,Liverpool,1,3,2019-04-05 20:00:00,,Rebound
+291744,61,MissedShots,0.9119999694824219,0.6020000076293945,0.11467353999614716,Roberto Firmino,a,482,OpenPlay,2018,LeftFoot,9520,Southampton,Liverpool,1,3,2019-04-05 20:00:00,Sadio Mané,Pass
+291745,65,BlockedShot,0.9209999847412109,0.5029999923706054,0.31113046407699585,Roberto Firmino,a,482,OpenPlay,2018,RightFoot,9520,Southampton,Liverpool,1,3,2019-04-05 20:00:00,Naby Keita,TakeOn
+291746,65,BlockedShot,0.8519999694824218,0.3029999923706055,0.041057489812374115,James Milner,a,489,OpenPlay,2018,RightFoot,9520,Southampton,Liverpool,1,3,2019-04-05 20:00:00,Fabinho,Pass
+291747,67,BlockedShot,0.845999984741211,0.6719999694824219,0.029348617419600487,Jordan Henderson,a,605,FromCorner,2018,RightFoot,9520,Southampton,Liverpool,1,3,2019-04-05 20:00:00,,None
+291748,71,MissedShots,0.919000015258789,0.5370000076293945,0.0583854541182518,Sadio Mané,a,838,OpenPlay,2018,Head,9520,Southampton,Liverpool,1,3,2019-04-05 20:00:00,James Milner,Aerial
+291752,79,Goal,0.8440000152587891,0.5309999847412109,0.11727087199687958,Mohamed Salah,a,1250,OpenPlay,2018,LeftFoot,9520,Southampton,Liverpool,1,3,2019-04-05 20:00:00,Jordan Henderson,BallRecovery
+291753,85,Goal,0.9319999694824219,0.47400001525878904,0.5601367950439453,Jordan Henderson,a,605,OpenPlay,2018,LeftFoot,9520,Southampton,Liverpool,1,3,2019-04-05 20:00:00,Roberto Firmino,Pass

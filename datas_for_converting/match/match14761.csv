@@ -1,0 +1,29 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+409493,14,SavedShot,0.9219999694824219,0.555,0.13795024156570435,Phil Foden,h,6055,OpenPlay,2020,LeftFoot,14761,Manchester City,Southampton,5,2,2021-03-10 18:00:00,Oleksandr Zinchenko,Pass
+409494,14,Goal,0.960999984741211,0.49,0.7178872227668762,Kevin De Bruyne,h,447,OpenPlay,2020,LeftFoot,14761,Manchester City,Southampton,5,2,2021-03-10 18:00:00,,Rebound
+409498,27,BlockedShot,0.8290000152587891,0.7180000305175781,0.027112888172268867,Oleksandr Zinchenko,h,2958,OpenPlay,2020,LeftFoot,14761,Manchester City,Southampton,5,2,2021-03-10 18:00:00,Kyle Walker,Pass
+409499,27,MissedShots,0.7140000152587891,0.6430000305175781,0.013174629770219326,Fernandinho,h,614,OpenPlay,2020,RightFoot,14761,Manchester City,Southampton,5,2,2021-03-10 18:00:00,Oleksandr Zinchenko,Pass
+409503,39,Goal,0.8119999694824219,0.4879999923706055,0.05512828379869461,Riyad Mahrez,h,750,OpenPlay,2020,LeftFoot,14761,Manchester City,Southampton,5,2,2021-03-10 18:00:00,,BallRecovery
+409504,47,ShotOnPost,0.9130000305175782,0.38299999237060545,0.11984781175851822,Riyad Mahrez,h,750,OpenPlay,2020,RightFoot,14761,Manchester City,Southampton,5,2,2021-03-10 18:00:00,Kevin De Bruyne,TakeOn
+409505,47,Goal,0.9519999694824218,0.49700000762939456,0.6720618605613708,Ilkay Gündogan,h,314,OpenPlay,2020,RightFoot,14761,Manchester City,Southampton,5,2,2021-03-10 18:00:00,,Rebound
+409506,49,SavedShot,0.7609999847412109,0.30100000381469727,0.018683770671486855,Phil Foden,h,6055,FromCorner,2020,LeftFoot,14761,Manchester City,Southampton,5,2,2021-03-10 18:00:00,Riyad Mahrez,Pass
+409507,50,SavedShot,0.9440000152587891,0.27299999237060546,0.05048409476876259,Kevin De Bruyne,h,447,OpenPlay,2020,RightFoot,14761,Manchester City,Southampton,5,2,2021-03-10 18:00:00,,None
+409508,54,Goal,0.870999984741211,0.5690000152587891,0.12765757739543915,Riyad Mahrez,h,750,OpenPlay,2020,LeftFoot,14761,Manchester City,Southampton,5,2,2021-03-10 18:00:00,Phil Foden,Pass
+409511,57,SavedShot,0.8019999694824219,0.56,0.08143144845962524,Phil Foden,h,6055,OpenPlay,2020,LeftFoot,14761,Manchester City,Southampton,5,2,2021-03-10 18:00:00,Ilkay Gündogan,Chipped
+409512,58,Goal,0.8619999694824219,0.4979999923706055,0.47196459770202637,Kevin De Bruyne,h,447,OpenPlay,2020,RightFoot,14761,Manchester City,Southampton,5,2,2021-03-10 18:00:00,Phil Foden,Pass
+409515,71,MissedShots,0.825,0.40799999237060547,0.0853884145617485,Phil Foden,h,6055,OpenPlay,2020,LeftFoot,14761,Manchester City,Southampton,5,2,2021-03-10 18:00:00,Ilkay Gündogan,Pass
+409516,77,MissedShots,0.9059999847412109,0.3920000076293945,0.42300474643707275,Ferrán Torres,h,6441,OpenPlay,2020,RightFoot,14761,Manchester City,Southampton,5,2,2021-03-10 18:00:00,Fernandinho,Pass
+409518,87,MissedShots,0.9080000305175782,0.6819999694824219,0.09159022569656372,Bernardo Silva,h,3635,OpenPlay,2020,LeftFoot,14761,Manchester City,Southampton,5,2,2021-03-10 18:00:00,Ilkay Gündogan,Chipped
+409519,90,SavedShot,0.909000015258789,0.2560000038146973,0.05013274401426315,Sergio Agüero,h,619,OpenPlay,2020,RightFoot,14761,Manchester City,Southampton,5,2,2021-03-10 18:00:00,Phil Foden,Pass
+409520,91,BlockedShot,0.919000015258789,0.5509999847412109,0.1411050260066986,Ferrán Torres,h,6441,OpenPlay,2020,LeftFoot,14761,Manchester City,Southampton,5,2,2021-03-10 18:00:00,Bernardo Silva,Pass
+409495,22,SavedShot,0.8419999694824218,0.6569999694824219,0.05022008344531059,Nathan Redmond,a,790,OpenPlay,2020,RightFoot,14761,Manchester City,Southampton,5,2,2021-03-10 18:00:00,Mohammed Salisu,Pass
+409496,23,SavedShot,0.895,0.524000015258789,0.052068810909986496,Jannik Vestergaard,a,111,FromCorner,2020,Head,14761,Manchester City,Southampton,5,2,2021-03-10 18:00:00,James Ward-Prowse,Cross
+409497,24,Goal,0.885,0.5,0.7611688375473022,James Ward-Prowse,a,843,Penalty,2020,RightFoot,14761,Manchester City,Southampton,5,2,2021-03-10 18:00:00,,Standard
+409500,32,SavedShot,0.6840000152587891,0.4209999847412109,0.010723380371928215,James Ward-Prowse,a,843,OpenPlay,2020,RightFoot,14761,Manchester City,Southampton,5,2,2021-03-10 18:00:00,Che Adams,Pass
+409501,35,MissedShots,0.7190000152587891,0.5729999923706055,0.043799806386232376,James Ward-Prowse,a,843,DirectFreekick,2020,RightFoot,14761,Manchester City,Southampton,5,2,2021-03-10 18:00:00,,Standard
+409502,36,MissedShots,0.879000015258789,0.53,0.11490719020366669,Moussa Djenepo,a,7701,OpenPlay,2020,RightFoot,14761,Manchester City,Southampton,5,2,2021-03-10 18:00:00,Che Adams,Pass
+409509,55,BlockedShot,0.8640000152587891,0.40599998474121096,0.07680851966142654,Stuart Armstrong,a,6893,OpenPlay,2020,LeftFoot,14761,Manchester City,Southampton,5,2,2021-03-10 18:00:00,Nathan Redmond,Pass
+409510,55,Goal,0.935,0.445,0.4106513261795044,Che Adams,a,7700,OpenPlay,2020,RightFoot,14761,Manchester City,Southampton,5,2,2021-03-10 18:00:00,,Rebound
+409513,59,MissedShots,0.915,0.5579999923706055,0.0682063028216362,Jack Stephens,a,1735,FromCorner,2020,Head,14761,Manchester City,Southampton,5,2,2021-03-10 18:00:00,James Ward-Prowse,Cross
+409514,64,BlockedShot,0.784000015258789,0.735999984741211,0.009455123916268349,Stuart Armstrong,a,6893,SetPiece,2020,LeftFoot,14761,Manchester City,Southampton,5,2,2021-03-10 18:00:00,,Aerial
+409517,82,SavedShot,0.7090000152587891,0.415,0.03913971781730652,James Ward-Prowse,a,843,DirectFreekick,2020,RightFoot,14761,Manchester City,Southampton,5,2,2021-03-10 18:00:00,,Standard

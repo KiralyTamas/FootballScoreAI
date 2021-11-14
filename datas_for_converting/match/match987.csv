@@ -1,0 +1,33 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+146947,1,MissedShots,0.7959999847412109,0.534000015258789,0.045371923595666885,Federico Bernardeschi,h,1424,OpenPlay,2016,LeftFoot,987,Fiorentina,AC Milan,0,0,2016-09-25 22:45:00,Josip Ilicic,Pass
+146949,5,MissedShots,0.7730000305175782,0.42700000762939455,0.031189823523163795,Josip Ilicic,h,1426,OpenPlay,2016,LeftFoot,987,Fiorentina,AC Milan,0,0,2016-09-25 22:45:00,Nikola Kalinic,LayOff
+146950,8,MissedShots,0.6869999694824219,0.669000015258789,0.010854373686015606,Carlos Sánchez,h,667,OpenPlay,2016,RightFoot,987,Fiorentina,AC Milan,0,0,2016-09-25 22:45:00,Josip Ilicic,Pass
+146951,15,MissedShots,0.8169999694824219,0.49900001525878906,0.040099870413541794,Milan Badelj,h,1430,FromCorner,2016,RightFoot,987,Fiorentina,AC Milan,0,0,2016-09-25 22:45:00,,None
+146955,21,MissedShots,0.895,0.42700000762939455,0.11986730247735977,Nikola Kalinic,h,1425,OpenPlay,2016,LeftFoot,987,Fiorentina,AC Milan,0,0,2016-09-25 22:45:00,Josip Ilicic,Pass
+146956,22,ShotOnPost,0.885,0.5,0.7612988352775574,Josip Ilicic,h,1426,Penalty,2016,LeftFoot,987,Fiorentina,AC Milan,0,0,2016-09-25 22:45:00,,Standard
+146958,36,BlockedShot,0.7719999694824219,0.629000015258789,0.0683828741312027,Josip Ilicic,h,1426,DirectFreekick,2016,LeftFoot,987,Fiorentina,AC Milan,0,0,2016-09-25 22:45:00,,Standard
+146959,39,MissedShots,0.8,0.3,0.023672817274928093,Josip Ilicic,h,1426,OpenPlay,2016,LeftFoot,987,Fiorentina,AC Milan,0,0,2016-09-25 22:45:00,Nenad Tomovic,Pass
+146960,46,SavedShot,0.9319999694824219,0.6940000152587891,0.05816160887479782,Borja Valero,h,1422,OpenPlay,2016,LeftFoot,987,Fiorentina,AC Milan,0,0,2016-09-25 22:45:00,Josip Ilicic,Pass
+146961,49,MissedShots,0.895,0.2520000076293945,0.031364805996418,Federico Bernardeschi,h,1424,OpenPlay,2016,LeftFoot,987,Fiorentina,AC Milan,0,0,2016-09-25 22:45:00,Carlos Sánchez,Chipped
+146963,53,MissedShots,0.7669999694824219,0.42200000762939455,0.026501331478357315,Borja Valero,h,1422,FromCorner,2016,LeftFoot,987,Fiorentina,AC Milan,0,0,2016-09-25 22:45:00,Josip Ilicic,Pass
+146964,54,SavedShot,0.8719999694824219,0.2979999923706055,0.04597197845578194,Nikola Kalinic,h,1425,OpenPlay,2016,RightFoot,987,Fiorentina,AC Milan,0,0,2016-09-25 22:45:00,Josip Ilicic,Pass
+146967,59,BlockedShot,0.8159999847412109,0.355,0.03859340399503708,Josip Ilicic,h,1426,OpenPlay,2016,LeftFoot,987,Fiorentina,AC Milan,0,0,2016-09-25 22:45:00,Matías Vecino,Pass
+146968,59,BlockedShot,0.775,0.395,0.02572808787226677,Borja Valero,h,1422,OpenPlay,2016,LeftFoot,987,Fiorentina,AC Milan,0,0,2016-09-25 22:45:00,Nenad Tomovic,Pass
+146970,65,SavedShot,0.865999984741211,0.31799999237060544,0.06762687861919403,Borja Valero,h,1422,OpenPlay,2016,LeftFoot,987,Fiorentina,AC Milan,0,0,2016-09-25 22:45:00,Nikola Kalinic,TakeOn
+146971,67,SavedShot,0.7669999694824219,0.24100000381469727,0.017224114388227463,Federico Bernardeschi,h,1424,OpenPlay,2016,LeftFoot,987,Fiorentina,AC Milan,0,0,2016-09-25 22:45:00,Milan Badelj,Pass
+146974,79,SavedShot,0.855999984741211,0.7269999694824218,0.033531174063682556,Nikola Kalinic,h,1425,OpenPlay,2016,RightFoot,987,Fiorentina,AC Milan,0,0,2016-09-25 22:45:00,Matías Vecino,Chipped
+146976,84,BlockedShot,0.8080000305175781,0.27700000762939453,0.02244565077126026,Nenad Tomovic,h,1435,OpenPlay,2016,RightFoot,987,Fiorentina,AC Milan,0,0,2016-09-25 22:45:00,Cristian Tello,Pass
+146977,84,BlockedShot,0.87,0.3220000076293945,0.04795151948928833,Nenad Tomovic,h,1435,OpenPlay,2016,RightFoot,987,Fiorentina,AC Milan,0,0,2016-09-25 22:45:00,Cristian Tello,Pass
+146978,88,BlockedShot,0.8319999694824218,0.7030000305175781,0.02494741603732109,Federico Bernardeschi,h,1424,OpenPlay,2016,LeftFoot,987,Fiorentina,AC Milan,0,0,2016-09-25 22:45:00,Cristian Tello,Chipped
+146948,3,BlockedShot,0.7719999694824219,0.64,0.0659339427947998,Giacomo Bonaventura,a,1121,DirectFreekick,2016,RightFoot,987,Fiorentina,AC Milan,0,0,2016-09-25 22:45:00,,Standard
+146952,17,BlockedShot,0.88,0.7530000305175781,0.030605828389525414,M&#039;Baye Niang,a,1126,OpenPlay,2016,RightFoot,987,Fiorentina,AC Milan,0,0,2016-09-25 22:45:00,Giacomo Bonaventura,Pass
+146953,17,MissedShots,0.9319999694824219,0.6759999847412109,0.05206885188817978,M&#039;Baye Niang,a,1126,OpenPlay,2016,LeftFoot,987,Fiorentina,AC Milan,0,0,2016-09-25 22:45:00,,Rebound
+146954,18,MissedShots,0.9030000305175782,0.6969999694824218,0.05689949914813042,M&#039;Baye Niang,a,1126,OpenPlay,2016,LeftFoot,987,Fiorentina,AC Milan,0,0,2016-09-25 22:45:00,Carlos Bacca,Pass
+146957,32,MissedShots,0.7340000152587891,0.55,0.020166369155049324,Giacomo Bonaventura,a,1121,OpenPlay,2016,RightFoot,987,Fiorentina,AC Milan,0,0,2016-09-25 22:45:00,Riccardo Montolivo,Pass
+146962,50,BlockedShot,0.9330000305175781,0.5479999923706055,0.10614285618066788,Giacomo Bonaventura,a,1121,OpenPlay,2016,RightFoot,987,Fiorentina,AC Milan,0,0,2016-09-25 22:45:00,,None
+146965,56,BlockedShot,0.8240000152587891,0.57,0.12017357349395752,Carlos Bacca,a,1125,OpenPlay,2016,RightFoot,987,Fiorentina,AC Milan,0,0,2016-09-25 22:45:00,Riccardo Montolivo,Throughball
+146966,57,SavedShot,0.7330000305175781,0.7,0.017194299027323723,Mattia De Sciglio,a,1120,OpenPlay,2016,RightFoot,987,Fiorentina,AC Milan,0,0,2016-09-25 22:45:00,Riccardo Montolivo,Pass
+146969,62,BlockedShot,0.8819999694824219,0.4,0.09077230095863342,Suso,a,1129,OpenPlay,2016,LeftFoot,987,Fiorentina,AC Milan,0,0,2016-09-25 22:45:00,Giacomo Bonaventura,Pass
+146972,69,MissedShots,0.7040000152587891,0.4779999923706055,0.015061750076711178,Juraj Kucka,a,1123,OpenPlay,2016,RightFoot,987,Fiorentina,AC Milan,0,0,2016-09-25 22:45:00,Giacomo Bonaventura,Pass
+146973,72,MissedShots,0.8530000305175781,0.5359999847412109,0.05181942880153656,Gabriel Paletta,a,1118,FromCorner,2016,RightFoot,987,Fiorentina,AC Milan,0,0,2016-09-25 22:45:00,Riccardo Montolivo,BallTouch
+146975,82,MissedShots,0.870999984741211,0.5129999923706055,0.08521636575460434,Carlos Bacca,a,1125,OpenPlay,2016,RightFoot,987,Fiorentina,AC Milan,0,0,2016-09-25 22:45:00,,None

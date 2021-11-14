@@ -1,0 +1,23 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+9791,3,MissedShots,0.9309999847412109,0.22799999237060548,0.031008195132017136,Maciej Rybus,h,2856,OpenPlay,2014,RightFoot,6449,FK Akhmat,Arsenal Tula,3,0,2014-08-22 17:00:00,Oleg Ivanov,Pass
+9792,6,MissedShots,0.9059999847412109,0.6170000076293946,0.06873063743114471,Igor Lebedenko,h,2862,OpenPlay,2014,RightFoot,6449,FK Akhmat,Arsenal Tula,3,0,2014-08-22 17:00:00,Maciej Rybus,Cross
+9793,18,Goal,0.9290000152587891,0.41200000762939454,0.3792470395565033,Igor Lebedenko,h,2862,OpenPlay,2014,RightFoot,6449,FK Akhmat,Arsenal Tula,3,0,2014-08-22 17:00:00,Maciej Rybus,Pass
+9794,20,BlockedShot,0.730999984741211,0.3220000076293945,0.009197247214615345,Adilson,h,2851,OpenPlay,2014,RightFoot,6449,FK Akhmat,Arsenal Tula,3,0,2014-08-22 17:00:00,Igor Lebedenko,TakeOn
+9798,31,BlockedShot,0.8569999694824219,0.5579999923706055,0.05980207398533821,Igor Lebedenko,h,2862,FromCorner,2014,LeftFoot,6449,FK Akhmat,Arsenal Tula,3,0,2014-08-22 17:00:00,,None
+9799,31,Goal,0.96,0.495,0.6759978532791138,Mauricio,h,3060,FromCorner,2014,LeftFoot,6449,FK Akhmat,Arsenal Tula,3,0,2014-08-22 17:00:00,Igor Lebedenko,Rebound
+9802,34,SavedShot,0.865,0.5829999923706055,0.13447688519954681,Maciej Rybus,h,2856,OpenPlay,2014,RightFoot,6449,FK Akhmat,Arsenal Tula,3,0,2014-08-22 17:00:00,Oleg Ivanov,Pass
+9803,44,Goal,0.9330000305175781,0.47700000762939454,0.05706198513507843,Marcin Komorowski,h,3182,FromCorner,2014,Head,6449,FK Akhmat,Arsenal Tula,3,0,2014-08-22 17:00:00,Maciej Rybus,Aerial
+9804,49,MissedShots,0.879000015258789,0.43400001525878906,0.018959246575832367,Marcin Komorowski,h,3182,FromCorner,2014,Head,6449,FK Akhmat,Arsenal Tula,3,0,2014-08-22 17:00:00,Maciej Rybus,Cross
+9805,61,BlockedShot,0.8540000152587891,0.3039999961853027,0.05654777213931084,Maciej Rybus,h,2856,OpenPlay,2014,LeftFoot,6449,FK Akhmat,Arsenal Tula,3,0,2014-08-22 17:00:00,Oleg Ivanov,Pass
+9806,61,MissedShots,0.8980000305175782,0.5279999923706055,0.07029597461223602,Fyodor Kudryashov,h,2770,OpenPlay,2014,Head,6449,FK Akhmat,Arsenal Tula,3,0,2014-08-22 17:00:00,Oleg Ivanov,Cross
+9811,76,BlockedShot,0.8230000305175781,0.49400001525878906,0.07224247604608536,Ailton,h,4556,OpenPlay,2014,LeftFoot,6449,FK Akhmat,Arsenal Tula,3,0,2014-08-22 17:00:00,Fyodor Kudryashov,Pass
+9812,86,SavedShot,0.8880000305175781,0.45299999237060545,0.031675729900598526,Marcin Komorowski,h,3182,FromCorner,2014,Head,6449,FK Akhmat,Arsenal Tula,3,0,2014-08-22 17:00:00,Maciej Rybus,Cross
+9795,23,BlockedShot,0.88,0.6090000152587891,0.05713609606027603,Maxim Votinov,a,4569,OpenPlay,2014,LeftFoot,6449,FK Akhmat,Arsenal Tula,3,0,2014-08-22 17:00:00,Ivan Lozenkov,Cross
+9796,25,BlockedShot,0.895,0.7559999847412109,0.03287573903799057,Arthur Maloyan,a,4566,OpenPlay,2014,RightFoot,6449,FK Akhmat,Arsenal Tula,3,0,2014-08-22 17:00:00,Sergey Ignatiev,Pass
+9797,25,SavedShot,0.7290000152587891,0.54,0.01943044550716877,Vladislav Ryzhkov,a,4572,OpenPlay,2014,LeftFoot,6449,FK Akhmat,Arsenal Tula,3,0,2014-08-22 17:00:00,,Rebound
+9800,34,BlockedShot,0.795,0.52,0.025812234729528427,Sergey Kuznetsov,a,4567,OpenPlay,2014,LeftFoot,6449,FK Akhmat,Arsenal Tula,3,0,2014-08-22 17:00:00,,None
+9801,34,MissedShots,0.9209999847412109,0.31799999237060544,0.06822714954614639,Sergey Kuznetsov,a,4567,OpenPlay,2014,RightFoot,6449,FK Akhmat,Arsenal Tula,3,0,2014-08-22 17:00:00,Evgeny Osipov,Pass
+9807,63,BlockedShot,0.6930000305175781,0.485,0.007843208499252796,Mladen Kascelan,a,4564,OpenPlay,2014,RightFoot,6449,FK Akhmat,Arsenal Tula,3,0,2014-08-22 17:00:00,,None
+9808,71,MissedShots,0.894000015258789,0.4179999923706055,0.04168497771024704,Ivan Lozenkov,a,4562,SetPiece,2014,Head,6449,FK Akhmat,Arsenal Tula,3,0,2014-08-22 17:00:00,Sergey Kuznetsov,Cross
+9809,74,SavedShot,0.874000015258789,0.4520000076293945,0.21343538165092468,Mladen Kascelan,a,4564,OpenPlay,2014,Head,6449,FK Akhmat,Arsenal Tula,3,0,2014-08-22 17:00:00,Aleksandr Kutjin,Cross
+9810,74,MissedShots,0.9580000305175781,0.5479999923706055,0.1222129613161087,Igor Kaleshin,a,4576,FromCorner,2014,Head,6449,FK Akhmat,Arsenal Tula,3,0,2014-08-22 17:00:00,Sergey Kuznetsov,Cross

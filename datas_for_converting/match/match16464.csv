@@ -1,0 +1,26 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+437727,9,BlockedShot,0.8780000305175781,0.32799999237060545,0.056358207017183304,Theo Walcott,h,503,OpenPlay,2021,RightFoot,16464,Southampton,Burnley,2,2,2021-10-23 14:00:00,Valentino Livramento,Pass
+437729,25,BlockedShot,0.9030000305175782,0.48700000762939455,0.09333714842796326,Armando Broja,h,8384,OpenPlay,2021,RightFoot,16464,Southampton,Burnley,2,2,2021-10-23 14:00:00,Valentino Livramento,Cross
+437730,28,MissedShots,0.894000015258789,0.5879999923706055,0.03729971498250961,Mohamed Elyounoussi,h,6894,OpenPlay,2021,Head,16464,Southampton,Burnley,2,2,2021-10-23 14:00:00,Oriol Romeu,Cross
+437731,30,MissedShots,0.8680000305175781,0.7809999847412109,0.011310526169836521,Romain Perraud,h,6500,OpenPlay,2021,LeftFoot,16464,Southampton,Burnley,2,2,2021-10-23 14:00:00,,Aerial
+437733,36,MissedShots,0.845,0.4759999847412109,0.07608829438686371,Theo Walcott,h,503,OpenPlay,2021,RightFoot,16464,Southampton,Burnley,2,2,2021-10-23 14:00:00,Nathan Redmond,Cross
+437734,37,MissedShots,0.97,0.534000015258789,0.6475067138671875,Nathan Redmond,h,790,OpenPlay,2021,RightFoot,16464,Southampton,Burnley,2,2,2021-10-23 14:00:00,,None
+437736,38,BlockedShot,0.905,0.34900001525878904,0.05532854422926903,Valentino Livramento,h,9512,OpenPlay,2021,LeftFoot,16464,Southampton,Burnley,2,2,2021-10-23 14:00:00,Oriol Romeu,Chipped
+437737,40,Goal,0.955,0.44299999237060544,0.12309861183166504,Valentino Livramento,h,9512,FromCorner,2021,Head,16464,Southampton,Burnley,2,2,2021-10-23 14:00:00,Nathan Redmond,Cross
+437738,49,Goal,0.92,0.34200000762939453,0.10886478424072266,Armando Broja,h,8384,OpenPlay,2021,RightFoot,16464,Southampton,Burnley,2,2,2021-10-23 14:00:00,Ibrahima Diallo,Pass
+437739,52,MissedShots,0.725999984741211,0.39099998474121095,0.019340835511684418,Ibrahima Diallo,h,6736,OpenPlay,2021,RightFoot,16464,Southampton,Burnley,2,2,2021-10-23 14:00:00,,BallRecovery
+437742,62,SavedShot,0.8130000305175781,0.5459999847412109,0.04952152818441391,Nathan Redmond,h,790,OpenPlay,2021,RightFoot,16464,Southampton,Burnley,2,2,2021-10-23 14:00:00,Romain Perraud,Pass
+437744,75,BlockedShot,0.9080000305175782,0.705999984741211,0.04550963640213013,Nathan Redmond,h,790,FromCorner,2021,RightFoot,16464,Southampton,Burnley,2,2,2021-10-23 14:00:00,Stuart Armstrong,Pass
+437746,81,MissedShots,0.8380000305175781,0.3029999923706055,0.01663370244204998,Valentino Livramento,h,9512,OpenPlay,2021,RightFoot,16464,Southampton,Burnley,2,2,2021-10-23 14:00:00,Stuart Armstrong,HeadPass
+437747,83,BlockedShot,0.7719999694824219,0.5220000076293946,0.03168543428182602,Nathan Redmond,h,790,OpenPlay,2021,RightFoot,16464,Southampton,Burnley,2,2,2021-10-23 14:00:00,Mohamed Elyounoussi,Pass
+437748,83,SavedShot,0.7469999694824219,0.5279999923706055,0.02143275737762451,Ibrahima Diallo,h,6736,OpenPlay,2021,RightFoot,16464,Southampton,Burnley,2,2,2021-10-23 14:00:00,Nathan Redmond,BallTouch
+437750,85,MissedShots,0.8719999694824219,0.44599998474121094,0.03234882652759552,Che Adams,h,7700,OpenPlay,2021,Head,16464,Southampton,Burnley,2,2,2021-10-23 14:00:00,Valentino Livramento,Cross
+437728,12,Goal,0.9209999847412109,0.5,0.35276496410369873,Maxwel Cornet,a,3278,OpenPlay,2021,Head,16464,Southampton,Burnley,2,2,2021-10-23 14:00:00,Matthew Lowton,Cross
+437732,32,SavedShot,0.8490000152587891,0.47,0.10823400318622589,Chris Wood,a,4456,OpenPlay,2021,RightFoot,16464,Southampton,Burnley,2,2,2021-10-23 14:00:00,Dwight McNeil,Pass
+437735,38,BlockedShot,0.8009999847412109,0.5179999923706055,0.05476667359471321,Dwight McNeil,a,6756,OpenPlay,2021,LeftFoot,16464,Southampton,Burnley,2,2,2021-10-23 14:00:00,Josh Brownhill,Pass
+437740,56,Goal,0.779000015258789,0.4620000076293945,0.029602129012346268,Maxwel Cornet,a,3278,OpenPlay,2021,LeftFoot,16464,Southampton,Burnley,2,2,2021-10-23 14:00:00,Ashley Westwood,Chipped
+437741,60,MissedShots,0.740999984741211,0.625,0.017440002411603928,Dwight McNeil,a,6756,OpenPlay,2021,LeftFoot,16464,Southampton,Burnley,2,2,2021-10-23 14:00:00,Josh Brownhill,Pass
+437743,64,MissedShots,0.87,0.35700000762939454,0.03703664615750313,Ashley Westwood,a,669,OpenPlay,2021,RightFoot,16464,Southampton,Burnley,2,2,2021-10-23 14:00:00,Maxwel Cornet,Cross
+437745,81,SavedShot,0.899000015258789,0.4520000076293945,0.027710475027561188,Jay Rodriguez,a,844,SetPiece,2021,Head,16464,Southampton,Burnley,2,2,2021-10-23 14:00:00,Ashley Westwood,Aerial
+437749,84,MissedShots,0.7619999694824219,0.720999984741211,0.019320499151945114,Jay Rodriguez,a,844,OpenPlay,2021,RightFoot,16464,Southampton,Burnley,2,2,2021-10-23 14:00:00,Nathan Collins,Pass
+437751,87,SavedShot,0.7480000305175781,0.6859999847412109,0.026320019736886024,Johann Berg Gudmundsson,a,1663,OpenPlay,2021,LeftFoot,16464,Southampton,Burnley,2,2,2021-10-23 14:00:00,,BallRecovery

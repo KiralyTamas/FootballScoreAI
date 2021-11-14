@@ -1,0 +1,25 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+399764,9,BlockedShot,0.7419999694824219,0.700999984741211,0.014051427133381367,Matheus Cunha,h,7080,SetPiece,2020,RightFoot,15288,Hertha Berlin,Hoffenheim,0,3,2021-01-19 19:30:00,Matteo Guendouzi,Pass
+399765,11,SavedShot,0.885,0.5,0.75777667760849,Krzysztof Piatek,h,7090,Penalty,2020,RightFoot,15288,Hertha Berlin,Hoffenheim,0,3,2021-01-19 19:30:00,,Standard
+399767,20,MissedShots,0.914000015258789,0.4929999923706055,0.10701931267976761,Jhon Córdoba,h,48,OpenPlay,2020,RightFoot,15288,Hertha Berlin,Hoffenheim,0,3,2021-01-19 19:30:00,Lucas Tousart,HeadPass
+399768,29,BlockedShot,0.7040000152587891,0.5529999923706055,0.02039414457976818,Maximilian Mittelstädt,h,419,FromCorner,2020,LeftFoot,15288,Hertha Berlin,Hoffenheim,0,3,2021-01-19 19:30:00,Matheus Cunha,Pass
+399769,30,MissedShots,0.9380000305175781,0.4779999923706055,0.14604085683822632,Jhon Córdoba,h,48,OpenPlay,2020,Head,15288,Hertha Berlin,Hoffenheim,0,3,2021-01-19 19:30:00,Maximilian Mittelstädt,Cross
+399771,36,BlockedShot,0.7830000305175782,0.575,0.012753743678331375,Lucas Tousart,h,3743,OpenPlay,2020,LeftFoot,15288,Hertha Berlin,Hoffenheim,0,3,2021-01-19 19:30:00,,Aerial
+399773,45,SavedShot,0.7440000152587891,0.654000015258789,0.018533725291490555,Vladimir Darida,h,27,OpenPlay,2020,RightFoot,15288,Hertha Berlin,Hoffenheim,0,3,2021-01-19 19:30:00,Jhon Córdoba,Pass
+399774,45,MissedShots,0.9440000152587891,0.4620000076293945,0.06745120137929916,Jhon Córdoba,h,48,OpenPlay,2020,Head,15288,Hertha Berlin,Hoffenheim,0,3,2021-01-19 19:30:00,,None
+399775,49,MissedShots,0.7319999694824219,0.509000015258789,0.056520868092775345,Matheus Cunha,h,7080,DirectFreekick,2020,RightFoot,15288,Hertha Berlin,Hoffenheim,0,3,2021-01-19 19:30:00,,Standard
+399777,62,BlockedShot,0.7930000305175782,0.3729999923706055,0.03141280636191368,Dodi Lukebakio,h,5706,OpenPlay,2020,LeftFoot,15288,Hertha Berlin,Hoffenheim,0,3,2021-01-19 19:30:00,Jhon Córdoba,Pass
+399780,68,MissedShots,0.8219999694824218,0.595999984741211,0.025321699678897858,Matheus Cunha,h,7080,OpenPlay,2020,RightFoot,15288,Hertha Berlin,Hoffenheim,0,3,2021-01-19 19:30:00,Jhon Córdoba,Cross
+399781,75,MissedShots,0.8209999847412109,0.5570000076293945,0.06379316747188568,Jhon Córdoba,h,48,OpenPlay,2020,RightFoot,15288,Hertha Berlin,Hoffenheim,0,3,2021-01-19 19:30:00,Luca Netz,Pass
+399782,76,MissedShots,0.7680000305175781,0.22899999618530273,0.013948041014373302,Matheus Cunha,h,7080,OpenPlay,2020,RightFoot,15288,Hertha Berlin,Hoffenheim,0,3,2021-01-19 19:30:00,Matteo Guendouzi,Pass
+399762,5,SavedShot,0.8619999694824219,0.4829999923706055,0.044722966849803925,Christoph Baumgartner,a,7422,SetPiece,2020,Head,15288,Hertha Berlin,Hoffenheim,0,3,2021-01-19 19:30:00,Sebastian Rudy,Chipped
+399763,8,MissedShots,0.775,0.654000015258789,0.01929626427590847,Christoph Baumgartner,a,7422,OpenPlay,2020,LeftFoot,15288,Hertha Berlin,Hoffenheim,0,3,2021-01-19 19:30:00,,None
+399766,18,BlockedShot,0.924000015258789,0.54,0.1032717227935791,Andrej Kramaric,a,956,OpenPlay,2020,RightFoot,15288,Hertha Berlin,Hoffenheim,0,3,2021-01-19 19:30:00,,None
+399770,32,Goal,0.8480000305175781,0.34799999237060547,0.05378532037138939,Sebastian Rudy,a,90,OpenPlay,2020,RightFoot,15288,Hertha Berlin,Hoffenheim,0,3,2021-01-19 19:30:00,Christoph Baumgartner,Pass
+399772,41,SavedShot,0.7780000305175782,0.345,0.033824920654296875,Andrej Kramaric,a,956,OpenPlay,2020,RightFoot,15288,Hertha Berlin,Hoffenheim,0,3,2021-01-19 19:30:00,,BallRecovery
+399776,52,BlockedShot,0.9009999847412109,0.6809999847412109,0.07990998029708862,Marco John,a,9108,OpenPlay,2020,LeftFoot,15288,Hertha Berlin,Hoffenheim,0,3,2021-01-19 19:30:00,Sebastian Rudy,Pass
+399778,67,MissedShots,0.7759999847412109,0.43400001525878906,0.037565652281045914,Diadie Samassékou,a,7868,OpenPlay,2020,RightFoot,15288,Hertha Berlin,Hoffenheim,0,3,2021-01-19 19:30:00,Marco John,Pass
+399779,67,Goal,0.919000015258789,0.5379999923706055,0.48920223116874695,Andrej Kramaric,a,956,OpenPlay,2020,RightFoot,15288,Hertha Berlin,Hoffenheim,0,3,2021-01-19 19:30:00,Diadie Samassékou,Rebound
+399783,78,SavedShot,0.7759999847412109,0.6819999694824219,0.023628737777471542,Andrej Kramaric,a,956,OpenPlay,2020,RightFoot,15288,Hertha Berlin,Hoffenheim,0,3,2021-01-19 19:30:00,Christoph Baumgartner,Pass
+399784,86,ShotOnPost,0.9059999847412109,0.36400001525878906,0.1392311453819275,Ihlas Bebou,a,6271,OpenPlay,2020,RightFoot,15288,Hertha Berlin,Hoffenheim,0,3,2021-01-19 19:30:00,Mijat Gacinovic,Chipped
+399785,87,Goal,0.81,0.7240000152587891,0.06920500844717026,Andrej Kramaric,a,956,DirectFreekick,2020,RightFoot,15288,Hertha Berlin,Hoffenheim,0,3,2021-01-19 19:30:00,,Standard

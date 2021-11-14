@@ -1,0 +1,16 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+200722,28,MissedShots,0.9230000305175782,0.5309999847412109,0.10976915806531906,Diego Godín,h,2264,FromCorner,2017,Head,8155,Atletico Madrid,Celta Vigo,3,0,2018-03-11 15:15:00,Koke,Cross
+200726,43,MissedShots,0.9280000305175782,0.5059999847412109,0.12300742417573929,Giménez,h,2278,FromCorner,2017,Head,8155,Atletico Madrid,Celta Vigo,3,0,2018-03-11 15:15:00,Gabi,Cross
+200727,43,Goal,0.9330000305175781,0.5979999923706054,0.4327210485935211,Antoine Griezmann,h,2270,FromCorner,2017,RightFoot,8155,Atletico Madrid,Celta Vigo,3,0,2018-03-11 15:15:00,Giménez,None
+200728,53,MissedShots,0.9369999694824219,0.555,0.11363980919122696,Diego Costa,h,802,FromCorner,2017,Head,8155,Atletico Madrid,Celta Vigo,3,0,2018-03-11 15:15:00,Gabi,Cross
+200730,55,Goal,0.9230000305175782,0.38,0.3997918963432312,Vitolo,h,2511,OpenPlay,2017,RightFoot,8155,Atletico Madrid,Celta Vigo,3,0,2018-03-11 15:15:00,Antoine Griezmann,Throughball
+200731,62,BlockedShot,0.8619999694824219,0.41,0.09851088374853134,Ángel Correa,h,2275,OpenPlay,2017,LeftFoot,8155,Atletico Madrid,Celta Vigo,3,0,2018-03-11 15:15:00,Koke,Pass
+200732,62,Goal,0.9219999694824219,0.3820000076293945,0.38209769129753113,Ángel Correa,h,2275,OpenPlay,2017,RightFoot,8155,Atletico Madrid,Celta Vigo,3,0,2018-03-11 15:15:00,,Rebound
+200721,23,BlockedShot,0.8519999694824218,0.504000015258789,0.09337789565324783,Maxi Gómez,a,6124,OpenPlay,2017,RightFoot,8155,Atletico Madrid,Celta Vigo,3,0,2018-03-11 15:15:00,Emre Mor,Pass
+200723,31,BlockedShot,0.8959999847412109,0.5690000152587891,0.09627009183168411,Sergi Gómez,a,2282,OpenPlay,2017,RightFoot,8155,Atletico Madrid,Celta Vigo,3,0,2018-03-11 15:15:00,Facundo Roncaglia,BallTouch
+200724,38,MissedShots,0.8930000305175781,0.5609999847412109,0.05837323144078255,Pablo Hernández,a,2286,SetPiece,2017,Head,8155,Atletico Madrid,Celta Vigo,3,0,2018-03-11 15:15:00,Emre Mor,Chipped
+200725,38,MissedShots,0.874000015258789,0.34299999237060547,0.055795907974243164,Iago Aspas,a,2290,OpenPlay,2017,LeftFoot,8155,Atletico Madrid,Celta Vigo,3,0,2018-03-11 15:15:00,Maxi Gómez,Pass
+200729,54,ShotOnPost,0.965,0.48700000762939455,0.5416867733001709,Nemanja Radoja,a,2289,OpenPlay,2017,RightFoot,8155,Atletico Madrid,Celta Vigo,3,0,2018-03-11 15:15:00,Emre Mor,Cross
+200733,66,BlockedShot,0.710999984741211,0.3240000152587891,0.010713648982346058,Emre Mor,a,5272,OpenPlay,2017,LeftFoot,8155,Atletico Madrid,Celta Vigo,3,0,2018-03-11 15:15:00,Hugo Mallo,Pass
+200734,80,SavedShot,0.7619999694824219,0.2560000038146973,0.011246448382735252,Brais Méndez,a,6227,OpenPlay,2017,LeftFoot,8155,Atletico Madrid,Celta Vigo,3,0,2018-03-11 15:15:00,Hugo Mallo,Pass
+200735,80,SavedShot,0.700999984741211,0.4179999923706055,0.0077657392248511314,Maxi Gómez,a,6124,OpenPlay,2017,RightFoot,8155,Atletico Madrid,Celta Vigo,3,0,2018-03-11 15:15:00,,None

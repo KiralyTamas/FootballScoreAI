@@ -1,0 +1,28 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+193848,8,MissedShots,0.7519999694824219,0.40299999237060546,0.01520549040287733,Gylfi Sigurdsson,h,714,OpenPlay,2017,RightFoot,7380,Everton,Crystal Palace,3,1,2018-02-10 15:00:00,Theo Walcott,TakeOn
+193849,11,BlockedShot,0.8159999847412109,0.549000015258789,0.056360986083745956,Oumar Niasse,h,599,OpenPlay,2017,RightFoot,7380,Everton,Crystal Palace,3,1,2018-02-10 15:00:00,,Tackle
+193852,16,BlockedShot,0.7340000152587891,0.5129999923706055,0.05399129539728165,Gylfi Sigurdsson,h,714,DirectFreekick,2017,RightFoot,7380,Everton,Crystal Palace,3,1,2018-02-10 15:00:00,,Standard
+193853,26,SavedShot,0.7369999694824219,0.5070000076293946,0.01705799624323845,Idrissa Gueye,h,668,FromCorner,2017,RightFoot,7380,Everton,Crystal Palace,3,1,2018-02-10 15:00:00,,TakeOn
+193854,28,BlockedShot,0.7269999694824218,0.48200000762939454,0.04990005865693092,Wayne Rooney,h,629,DirectFreekick,2017,RightFoot,7380,Everton,Crystal Palace,3,1,2018-02-10 15:00:00,,Standard
+193855,33,BlockedShot,0.88,0.34900001525878904,0.057695936411619186,Tom Davies,h,1042,OpenPlay,2017,RightFoot,7380,Everton,Crystal Palace,3,1,2018-02-10 15:00:00,Oumar Niasse,Pass
+193859,45,Goal,0.8130000305175781,0.5029999923706054,0.04552320018410683,Gylfi Sigurdsson,h,714,OpenPlay,2017,RightFoot,7380,Everton,Crystal Palace,3,1,2018-02-10 15:00:00,Oumar Niasse,Pass
+193860,50,Goal,0.9280000305175782,0.48200000762939454,0.38332033157348633,Oumar Niasse,h,599,OpenPlay,2017,Head,7380,Everton,Crystal Palace,3,1,2018-02-10 15:00:00,Cuco Martina,Chipped
+193865,70,MissedShots,0.9230000305175782,0.54,0.04177750647068024,Ashley Williams,h,709,FromCorner,2017,Head,7380,Everton,Crystal Palace,3,1,2018-02-10 15:00:00,Gylfi Sigurdsson,Aerial
+193867,74,SavedShot,0.8669999694824219,0.500999984741211,0.13341106474399567,Oumar Niasse,h,599,OpenPlay,2017,RightFoot,7380,Everton,Crystal Palace,3,1,2018-02-10 15:00:00,Jonjoe Kenny,Pass
+193868,74,Goal,0.9519999694824218,0.5209999847412109,0.6336804628372192,Tom Davies,h,1042,OpenPlay,2017,LeftFoot,7380,Everton,Crystal Palace,3,1,2018-02-10 15:00:00,,None
+193847,7,MissedShots,0.6709999847412109,0.2,0.007461630739271641,Yohan Cabaye,a,516,OpenPlay,2017,RightFoot,7380,Everton,Crystal Palace,3,1,2018-02-10 15:00:00,,None
+193850,12,BlockedShot,0.87,0.285,0.03573991358280182,Alexander Sørloth,a,6531,OpenPlay,2017,LeftFoot,7380,Everton,Crystal Palace,3,1,2018-02-10 15:00:00,Andros Townsend,Pass
+193851,12,BlockedShot,0.7180000305175781,0.629000015258789,0.012120096944272518,Luka Milivojevic,a,5549,OpenPlay,2017,LeftFoot,7380,Everton,Crystal Palace,3,1,2018-02-10 15:00:00,Christian Benteke,Pass
+193856,36,SavedShot,0.6830000305175781,0.455,0.009731989353895187,Yohan Cabaye,a,516,OpenPlay,2017,RightFoot,7380,Everton,Crystal Palace,3,1,2018-02-10 15:00:00,Luka Milivojevic,HeadPass
+193857,44,BlockedShot,0.8640000152587891,0.585,0.07646142691373825,Christian Benteke,a,606,OpenPlay,2017,RightFoot,7380,Everton,Crystal Palace,3,1,2018-02-10 15:00:00,Alexander Sørloth,Chipped
+193858,44,MissedShots,0.9030000305175782,0.42200000762939455,0.03897060453891754,Christian Benteke,a,606,OpenPlay,2017,Head,7380,Everton,Crystal Palace,3,1,2018-02-10 15:00:00,Alexander Sørloth,Chipped
+193861,55,MissedShots,0.894000015258789,0.5670000076293945,0.2914189398288727,Christian Benteke,a,606,OpenPlay,2017,Head,7380,Everton,Crystal Palace,3,1,2018-02-10 15:00:00,Yohan Cabaye,Chipped
+193862,58,MissedShots,0.8069999694824219,0.685,0.027997199445962906,Andros Townsend,a,775,OpenPlay,2017,LeftFoot,7380,Everton,Crystal Palace,3,1,2018-02-10 15:00:00,Alexander Sørloth,Pass
+193863,65,SavedShot,0.884000015258789,0.47900001525878905,0.04012800008058548,Alexander Sørloth,a,6531,OpenPlay,2017,Head,7380,Everton,Crystal Palace,3,1,2018-02-10 15:00:00,Patrick van Aanholt,Aerial
+193864,67,BlockedShot,0.7630000305175781,0.5329999923706055,0.03323214501142502,Patrick van Aanholt,a,730,FromCorner,2017,RightFoot,7380,Everton,Crystal Palace,3,1,2018-02-10 15:00:00,Andros Townsend,Pass
+193866,73,BlockedShot,0.8859999847412109,0.4520000076293945,0.07010650634765625,Joel Ward,a,510,OpenPlay,2017,LeftFoot,7380,Everton,Crystal Palace,3,1,2018-02-10 15:00:00,,None
+193869,77,MissedShots,0.7380000305175781,0.669000015258789,0.010130553506314754,Patrick van Aanholt,a,730,SetPiece,2017,LeftFoot,7380,Everton,Crystal Palace,3,1,2018-02-10 15:00:00,,None
+193870,81,SavedShot,0.8130000305175781,0.4420000076293945,0.045823413878679276,Patrick van Aanholt,a,730,SetPiece,2017,LeftFoot,7380,Everton,Crystal Palace,3,1,2018-02-10 15:00:00,Joel Ward,Pass
+193871,81,BlockedShot,0.9359999847412109,0.4929999923706055,0.07209452241659164,Christian Benteke,a,606,FromCorner,2017,Head,7380,Everton,Crystal Palace,3,1,2018-02-10 15:00:00,James Tomkins,HeadPass
+193872,81,BlockedShot,0.9290000152587891,0.5179999923706055,0.12462074309587479,Christian Benteke,a,606,FromCorner,2017,RightFoot,7380,Everton,Crystal Palace,3,1,2018-02-10 15:00:00,Alexander Sørloth,HeadPass
+193873,82,Goal,0.885,0.5,0.7610946297645569,Luka Milivojevic,a,5549,Penalty,2017,RightFoot,7380,Everton,Crystal Palace,3,1,2018-02-10 15:00:00,,Standard

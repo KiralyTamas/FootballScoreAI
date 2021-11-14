@@ -1,0 +1,29 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+35927,0,BlockedShot,0.9819999694824219,0.39599998474121095,0.6047481894493103,Samu Castillejo,h,2303,OpenPlay,2014,RightFoot,5780,Malaga,Rayo Vallecano,4,0,2014-10-26 11:00:00,Sergi Darder,TakeOn
+35929,4,SavedShot,0.8930000305175781,0.615,0.33337220549583435,Nordin Amrabat,h,575,OpenPlay,2014,RightFoot,5780,Malaga,Rayo Vallecano,4,0,2014-10-26 11:00:00,,None
+35930,5,Goal,0.8640000152587891,0.30200000762939455,0.03652918338775635,Samu García,h,2300,OpenPlay,2014,LeftFoot,5780,Malaga,Rayo Vallecano,4,0,2014-10-26 11:00:00,Nordin Amrabat,Pass
+35931,17,MissedShots,0.8180000305175781,0.4129999923706055,0.07020322233438492,Sergi Darder,h,2621,OpenPlay,2014,RightFoot,5780,Malaga,Rayo Vallecano,4,0,2014-10-26 11:00:00,Samu García,BallTouch
+35932,20,Goal,0.9519999694824218,0.49700000762939456,0.6672823429107666,Sergi Darder,h,2621,OpenPlay,2014,RightFoot,5780,Malaga,Rayo Vallecano,4,0,2014-10-26 11:00:00,Vitorino Antunes,Pass
+35935,36,BlockedShot,0.765,0.6179999923706054,0.0737907737493515,Vitorino Antunes,h,4183,DirectFreekick,2014,LeftFoot,5780,Malaga,Rayo Vallecano,4,0,2014-10-26 11:00:00,,Standard
+35936,37,MissedShots,0.9319999694824219,0.43900001525878907,0.09278681129217148,Ignacio Camacho,h,2336,SetPiece,2014,Head,5780,Malaga,Rayo Vallecano,4,0,2014-10-26 11:00:00,Sergi Darder,Chipped
+35937,44,Goal,0.904000015258789,0.38599998474121094,0.48166465759277344,Juanmi,h,897,OpenPlay,2014,RightFoot,5780,Malaga,Rayo Vallecano,4,0,2014-10-26 11:00:00,Nordin Amrabat,Throughball
+35938,45,BlockedShot,0.855999984741211,0.585,0.11009355634450912,Samu Castillejo,h,2303,OpenPlay,2014,RightFoot,5780,Malaga,Rayo Vallecano,4,0,2014-10-26 11:00:00,Juanmi,Pass
+35939,48,Goal,0.885,0.5,0.7432776093482971,Nordin Amrabat,h,575,Penalty,2014,RightFoot,5780,Malaga,Rayo Vallecano,4,0,2014-10-26 11:00:00,,Standard
+35940,49,MissedShots,0.8730000305175781,0.3529999923706055,0.2171640694141388,Nordin Amrabat,h,575,OpenPlay,2014,RightFoot,5780,Malaga,Rayo Vallecano,4,0,2014-10-26 11:00:00,Samu García,Pass
+35942,56,MissedShots,0.845999984741211,0.615999984741211,0.03756394982337952,Samu Castillejo,h,2303,FromCorner,2014,LeftFoot,5780,Malaga,Rayo Vallecano,4,0,2014-10-26 11:00:00,Samu García,Cross
+35943,57,BlockedShot,0.885,0.38,0.18308648467063904,Samu García,h,2300,OpenPlay,2014,RightFoot,5780,Malaga,Rayo Vallecano,4,0,2014-10-26 11:00:00,Roberto Rosales,TakeOn
+35944,57,SavedShot,0.9009999847412109,0.35,0.06469118595123291,Samu García,h,2300,OpenPlay,2014,RightFoot,5780,Malaga,Rayo Vallecano,4,0,2014-10-26 11:00:00,,Rebound
+35945,63,MissedShots,0.725999984741211,0.6090000152587891,0.01067561935633421,Vitorino Antunes,h,4183,SetPiece,2014,LeftFoot,5780,Malaga,Rayo Vallecano,4,0,2014-10-26 11:00:00,,None
+35946,66,SavedShot,0.8959999847412109,0.355,0.10143081843852997,Ricardo Horta,h,2338,OpenPlay,2014,RightFoot,5780,Malaga,Rayo Vallecano,4,0,2014-10-26 11:00:00,Juanmi,Pass
+35949,82,MissedShots,0.740999984741211,0.6309999847412109,0.028001314029097557,Roque Santa Cruz,h,2341,OpenPlay,2014,RightFoot,5780,Malaga,Rayo Vallecano,4,0,2014-10-26 11:00:00,Juanmi,Pass
+35950,87,MissedShots,0.8369999694824218,0.7980000305175782,0.05942125990986824,Ricardo Horta,h,2338,DirectFreekick,2014,RightFoot,5780,Malaga,Rayo Vallecano,4,0,2014-10-26 11:00:00,,Standard
+35928,4,MissedShots,0.7390000152587891,0.5470000076293945,0.01940239407122135,Roberto Trashorras,a,2162,OpenPlay,2014,RightFoot,5780,Malaga,Rayo Vallecano,4,0,2014-10-26 11:00:00,,BallRecovery
+35933,31,SavedShot,0.9669999694824218,0.7290000152587891,0.04213438183069229,Gaël Kakuta,a,2549,OpenPlay,2014,LeftFoot,5780,Malaga,Rayo Vallecano,4,0,2014-10-26 11:00:00,Javier Aquino,TakeOn
+35934,33,SavedShot,0.765,0.764000015258789,0.04394211247563362,Roberto Trashorras,a,2162,DirectFreekick,2014,RightFoot,5780,Malaga,Rayo Vallecano,4,0,2014-10-26 11:00:00,,Standard
+35941,53,BlockedShot,0.749000015258789,0.6909999847412109,0.050659723579883575,Álex Pozuelo,a,4127,DirectFreekick,2014,RightFoot,5780,Malaga,Rayo Vallecano,4,0,2014-10-26 11:00:00,,Standard
+35947,75,SavedShot,0.7080000305175781,0.5279999923706055,0.009654299356043339,Gaël Kakuta,a,2549,OpenPlay,2014,LeftFoot,5780,Malaga,Rayo Vallecano,4,0,2014-10-26 11:00:00,Licá,TakeOn
+35948,78,BlockedShot,0.7559999847412109,0.39,0.022056113928556442,Leo Baptistao,a,2304,OpenPlay,2014,RightFoot,5780,Malaga,Rayo Vallecano,4,0,2014-10-26 11:00:00,Gaël Kakuta,Pass
+35951,88,BlockedShot,0.9059999847412109,0.5879999923706055,0.06740052253007889,Manucho,a,2171,OpenPlay,2014,Head,5780,Malaga,Rayo Vallecano,4,0,2014-10-26 11:00:00,Gaël Kakuta,Cross
+35952,89,SavedShot,0.960999984741211,0.37200000762939456,0.03525787591934204,Tito,a,2159,FromCorner,2014,Head,5780,Malaga,Rayo Vallecano,4,0,2014-10-26 11:00:00,,None
+35953,90,MissedShots,0.894000015258789,0.7369999694824219,0.05970754846930504,Manucho,a,2171,OpenPlay,2014,LeftFoot,5780,Malaga,Rayo Vallecano,4,0,2014-10-26 11:00:00,Leo Baptistao,Pass
+35954,92,MissedShots,0.845,0.36700000762939455,0.044839683920145035,Leo Baptistao,a,2304,OpenPlay,2014,LeftFoot,5780,Malaga,Rayo Vallecano,4,0,2014-10-26 11:00:00,,None

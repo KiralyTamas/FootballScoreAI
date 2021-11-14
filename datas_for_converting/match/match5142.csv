@@ -1,0 +1,35 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+42649,4,BlockedShot,0.715,0.525,0.01724332384765148,Juan Sánchez Miño,h,4017,SetPiece,2014,LeftFoot,5142,Torino,Fiorentina,1,1,2014-09-28 14:00:00,Nikola Maksimovic,Pass
+42653,11,MissedShots,0.9059999847412109,0.7609999847412109,0.034561771899461746,Fabio Quagliarella,h,1230,OpenPlay,2014,LeftFoot,5142,Torino,Fiorentina,1,1,2014-09-28 14:00:00,Omar El Kaddouri,Chipped
+42656,26,MissedShots,0.6709999847412109,0.825,0.008419857360422611,Fabio Quagliarella,h,1230,OpenPlay,2014,RightFoot,5142,Torino,Fiorentina,1,1,2014-09-28 14:00:00,Matteo Darmian,BallRecovery
+42657,26,MissedShots,0.9459999847412109,0.475,0.30230212211608887,Alessandro Gazzi,h,1269,FromCorner,2014,Head,5142,Torino,Fiorentina,1,1,2014-09-28 14:00:00,Juan Sánchez Miño,Aerial
+42661,33,MissedShots,0.8480000305175781,0.5609999847412109,0.06147203966975212,Juan Sánchez Miño,h,4017,OpenPlay,2014,LeftFoot,5142,Torino,Fiorentina,1,1,2014-09-28 14:00:00,Omar El Kaddouri,Chipped
+42662,34,MissedShots,0.6990000152587891,0.5590000152587891,0.017662009224295616,Fabio Quagliarella,h,1230,OpenPlay,2014,RightFoot,5142,Torino,Fiorentina,1,1,2014-09-28 14:00:00,Alessandro Gazzi,Pass
+42664,39,SavedShot,0.885,0.67,0.06279310584068298,Fabio Quagliarella,h,1230,OpenPlay,2014,LeftFoot,5142,Torino,Fiorentina,1,1,2014-09-28 14:00:00,Matteo Darmian,TakeOn
+42665,40,BlockedShot,0.8930000305175781,0.66,0.022649165242910385,Matteo Darmian,h,557,FromCorner,2014,RightFoot,5142,Torino,Fiorentina,1,1,2014-09-28 14:00:00,,Aerial
+42666,41,MissedShots,0.590999984741211,0.9059999847412109,0.006604930851608515,Juan Sánchez Miño,h,4017,OpenPlay,2014,LeftFoot,5142,Torino,Fiorentina,1,1,2014-09-28 14:00:00,Matteo Darmian,Pass
+42671,54,MissedShots,0.8030000305175782,0.5829999923706055,0.0414382666349411,Juan Sánchez Miño,h,4017,OpenPlay,2014,LeftFoot,5142,Torino,Fiorentina,1,1,2014-09-28 14:00:00,Omar El Kaddouri,Pass
+42674,59,MissedShots,0.9409999847412109,0.6480000305175782,0.30037879943847656,Matteo Darmian,h,557,OpenPlay,2014,RightFoot,5142,Torino,Fiorentina,1,1,2014-09-28 14:00:00,Fabio Quagliarella,Pass
+42675,61,Goal,0.9159999847412109,0.37200000762939456,0.09565696120262146,Fabio Quagliarella,h,1230,OpenPlay,2014,RightFoot,5142,Torino,Fiorentina,1,1,2014-09-28 14:00:00,Bruno Peres,Pass
+42677,75,SavedShot,0.7869999694824219,0.5520000076293945,0.03114216960966587,Giuseppe Vives,h,1194,OpenPlay,2014,RightFoot,5142,Torino,Fiorentina,1,1,2014-09-28 14:00:00,Fabio Quagliarella,Chipped
+42681,91,BlockedShot,0.769000015258789,0.305,0.015142325311899185,Rubén Pérez,h,2080,OpenPlay,2014,RightFoot,5142,Torino,Fiorentina,1,1,2014-09-28 14:00:00,Giuseppe Vives,None
+42682,94,BlockedShot,0.8,0.3529999923706055,0.026860984042286873,Rubén Pérez,h,2080,OpenPlay,2014,RightFoot,5142,Torino,Fiorentina,1,1,2014-09-28 14:00:00,Bruno Peres,Pass
+42650,4,BlockedShot,0.7419999694824219,0.40700000762939453,0.019024459645152092,Josip Ilicic,a,1426,OpenPlay,2014,LeftFoot,5142,Torino,Fiorentina,1,1,2014-09-28 14:00:00,Borja Valero,Pass
+42651,6,SavedShot,0.700999984741211,0.355,0.012416014447808266,Jasmin Kurtic,a,1492,OpenPlay,2014,RightFoot,5142,Torino,Fiorentina,1,1,2014-09-28 14:00:00,Borja Valero,Pass
+42652,10,BlockedShot,0.7530000305175781,0.2929999923706055,0.043581508100032806,Josip Ilicic,a,1426,DirectFreekick,2014,LeftFoot,5142,Torino,Fiorentina,1,1,2014-09-28 14:00:00,,Standard
+42654,13,BlockedShot,0.7969999694824219,0.66,0.01621214486658573,Khouma Babacar,a,1434,OpenPlay,2014,RightFoot,5142,Torino,Fiorentina,1,1,2014-09-28 14:00:00,Jasmin Kurtic,Cross
+42655,15,BlockedShot,0.750999984741211,0.46,0.025921832770109177,Matías Fernández,a,1622,OpenPlay,2014,RightFoot,5142,Torino,Fiorentina,1,1,2014-09-28 14:00:00,Milan Badelj,Pass
+42658,27,SavedShot,0.9059999847412109,0.44400001525878907,0.10514460504055023,Micah Richards,a,665,OpenPlay,2014,RightFoot,5142,Torino,Fiorentina,1,1,2014-09-28 14:00:00,Matías Fernández,Chipped
+42659,30,SavedShot,0.905,0.445,0.32100826501846313,Khouma Babacar,a,1434,OpenPlay,2014,RightFoot,5142,Torino,Fiorentina,1,1,2014-09-28 14:00:00,Borja Valero,Chipped
+42660,32,SavedShot,0.7190000152587891,0.33099998474121095,0.013787059113383293,Jasmin Kurtic,a,1492,OpenPlay,2014,RightFoot,5142,Torino,Fiorentina,1,1,2014-09-28 14:00:00,Matías Fernández,Pass
+42663,38,SavedShot,0.895,0.62,0.0734252780675888,Khouma Babacar,a,1434,OpenPlay,2014,RightFoot,5142,Torino,Fiorentina,1,1,2014-09-28 14:00:00,,None
+42667,41,MissedShots,0.7519999694824219,0.345,0.021181175485253334,Josip Ilicic,a,1426,OpenPlay,2014,RightFoot,5142,Torino,Fiorentina,1,1,2014-09-28 14:00:00,Jasmin Kurtic,Pass
+42668,44,BlockedShot,0.725,0.46599998474121096,0.015977120026946068,Matías Fernández,a,1622,OpenPlay,2014,RightFoot,5142,Torino,Fiorentina,1,1,2014-09-28 14:00:00,Milan Badelj,Pass
+42669,47,MissedShots,0.774000015258789,0.28700000762939454,0.01992896758019924,Jasmin Kurtic,a,1492,OpenPlay,2014,RightFoot,5142,Torino,Fiorentina,1,1,2014-09-28 14:00:00,Milan Badelj,Pass
+42670,50,MissedShots,0.7419999694824219,0.6609999847412109,0.04583325609564781,Matías Fernández,a,1622,DirectFreekick,2014,RightFoot,5142,Torino,Fiorentina,1,1,2014-09-28 14:00:00,,Standard
+42672,55,BlockedShot,0.845999984741211,0.5370000076293945,0.09385892003774643,Josip Ilicic,a,1426,OpenPlay,2014,LeftFoot,5142,Torino,Fiorentina,1,1,2014-09-28 14:00:00,Matías Fernández,Pass
+42673,56,MissedShots,0.7630000305175781,0.4979999923706055,0.026344986632466316,Josip Ilicic,a,1426,OpenPlay,2014,LeftFoot,5142,Torino,Fiorentina,1,1,2014-09-28 14:00:00,Micah Richards,TakeOn
+42676,73,SavedShot,0.730999984741211,0.5990000152587891,0.04774465411901474,Alberto Aquilani,a,1167,DirectFreekick,2014,RightFoot,5142,Torino,Fiorentina,1,1,2014-09-28 14:00:00,,Standard
+42678,77,Goal,0.9390000152587891,0.365,0.39719098806381226,Khouma Babacar,a,1434,OpenPlay,2014,RightFoot,5142,Torino,Fiorentina,1,1,2014-09-28 14:00:00,Federico Bernardeschi,TakeOn
+42679,81,BlockedShot,0.835,0.6990000152587891,0.04886665195226669,Khouma Babacar,a,1434,OpenPlay,2014,RightFoot,5142,Torino,Fiorentina,1,1,2014-09-28 14:00:00,Josip Ilicic,Pass
+42680,87,MissedShots,0.8830000305175781,0.48,0.025486469268798828,Federico Bernardeschi,a,1424,OpenPlay,2014,Head,5142,Torino,Fiorentina,1,1,2014-09-28 14:00:00,Gonzalo Rodríguez,Aerial

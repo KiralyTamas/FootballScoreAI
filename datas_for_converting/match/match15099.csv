@@ -1,0 +1,28 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+418315,13,Goal,0.7730000305175782,0.6029999923706054,0.04158008471131325,Jon Morcillo,h,8727,OpenPlay,2020,LeftFoot,15099,Athletic Club,Real Valladolid,2,2,2021-04-28 17:00:00,,TakeOn
+418316,31,SavedShot,0.8780000305175781,0.7,0.034437667578458786,Jon Morcillo,h,8727,FromCorner,2020,LeftFoot,15099,Athletic Club,Real Valladolid,2,2,2021-04-28 17:00:00,,None
+418317,31,BlockedShot,0.8680000305175781,0.48700000762939455,0.1087351068854332,Unai López,h,4091,OpenPlay,2020,RightFoot,15099,Athletic Club,Real Valladolid,2,2,2021-04-28 17:00:00,,BallTouch
+418318,32,SavedShot,0.845,0.4520000076293945,0.08512963354587555,Asier Villalibre,h,5173,OpenPlay,2020,RightFoot,15099,Athletic Club,Real Valladolid,2,2,2021-04-28 17:00:00,,None
+418319,34,MissedShots,0.740999984741211,0.46599998474121096,0.02937990613281727,Oihan Sancet,h,7779,OpenPlay,2020,RightFoot,15099,Athletic Club,Real Valladolid,2,2,2021-04-28 17:00:00,Balenziaga,Pass
+418321,42,MissedShots,0.81,0.5070000076293946,0.0676736980676651,Alex Berenguer,h,5091,OpenPlay,2020,LeftFoot,15099,Athletic Club,Real Valladolid,2,2,2021-04-28 17:00:00,Oihan Sancet,TakeOn
+418324,53,MissedShots,0.7759999847412109,0.2620000076293945,0.018674416467547417,Alex Berenguer,h,5091,OpenPlay,2020,RightFoot,15099,Athletic Club,Real Valladolid,2,2,2021-04-28 17:00:00,,None
+418326,58,SavedShot,0.9430000305175781,0.6790000152587891,0.0749288871884346,Asier Villalibre,h,5173,OpenPlay,2020,LeftFoot,15099,Athletic Club,Real Valladolid,2,2,2021-04-28 17:00:00,Jon Morcillo,Pass
+418327,59,SavedShot,0.9490000152587891,0.585,0.2658070921897888,Iñigo Martínez,h,2484,FromCorner,2020,LeftFoot,15099,Athletic Club,Real Valladolid,2,2,2021-04-28 17:00:00,Asier Villalibre,BallTouch
+418328,59,MissedShots,0.9690000152587891,0.6,0.11235448718070984,Iñigo Martínez,h,2484,FromCorner,2020,LeftFoot,15099,Athletic Club,Real Valladolid,2,2,2021-04-28 17:00:00,,Rebound
+418329,65,SavedShot,0.815,0.4829999923706055,0.06595979630947113,Raúl García,h,2400,OpenPlay,2020,LeftFoot,15099,Athletic Club,Real Valladolid,2,2,2021-04-28 17:00:00,Unai López,Pass
+418332,75,Goal,0.9640000152587891,0.47900001525878905,0.8240160346031189,Raúl García,h,2400,OpenPlay,2020,LeftFoot,15099,Athletic Club,Real Valladolid,2,2,2021-04-28 17:00:00,Iñaki Williams,Pass
+418335,85,MissedShots,0.9440000152587891,0.27100000381469724,0.03195197135210037,Nico Williams,h,9211,OpenPlay,2020,RightFoot,15099,Athletic Club,Real Valladolid,2,2,2021-04-28 17:00:00,De Marcos,Pass
+418314,4,MissedShots,0.91,0.575999984741211,0.060092173516750336,Óscar Plano,a,6921,FromCorner,2020,LeftFoot,15099,Athletic Club,Real Valladolid,2,2,2021-04-28 17:00:00,Fabián Orellana,Cross
+418320,40,BlockedShot,0.905,0.4159999847412109,0.03566369786858559,Marcos de Sousa,a,8933,FromCorner,2020,LeftFoot,15099,Athletic Club,Real Valladolid,2,2,2021-04-28 17:00:00,,Aerial
+418322,45,MissedShots,0.9069999694824219,0.615999984741211,0.06324219703674316,Óscar Plano,a,6921,OpenPlay,2020,LeftFoot,15099,Athletic Club,Real Valladolid,2,2,2021-04-28 17:00:00,Nacho,Cross
+418323,52,SavedShot,0.914000015258789,0.29700000762939455,0.04869435727596283,Óscar Plano,a,6921,OpenPlay,2020,RightFoot,15099,Athletic Club,Real Valladolid,2,2,2021-04-28 17:00:00,Fabián Orellana,Pass
+418325,55,MissedShots,0.8169999694824219,0.44,0.054242514073848724,Marcos de Sousa,a,8933,OpenPlay,2020,LeftFoot,15099,Athletic Club,Real Valladolid,2,2,2021-04-28 17:00:00,Fabián Orellana,Pass
+418330,66,MissedShots,0.7430000305175781,0.5420000076293945,0.02040996588766575,Míchel,a,4208,OpenPlay,2020,RightFoot,15099,Athletic Club,Real Valladolid,2,2,2021-04-28 17:00:00,Shon Weissman,Pass
+418331,69,Goal,0.9290000152587891,0.5220000076293946,0.12084779888391495,Fabián Orellana,a,2285,FromCorner,2020,Head,15099,Athletic Club,Real Valladolid,2,2,2021-04-28 17:00:00,Óscar Plano,Cross
+418333,84,Goal,0.875,0.4929999923706055,0.06834837794303894,Shon Weissman,a,8761,OpenPlay,2020,RightFoot,15099,Athletic Club,Real Valladolid,2,2,2021-04-28 17:00:00,Saidy Janko,Cross
+418334,85,BlockedShot,0.850999984741211,0.38799999237060545,0.03324855491518974,Sergi Guardiola,a,5212,OpenPlay,2020,LeftFoot,15099,Athletic Club,Real Valladolid,2,2,2021-04-28 17:00:00,Pablo Hervías,Cross
+418336,87,MissedShots,0.7290000152587891,0.7030000305175781,0.01383074652403593,Roque Mesa,a,2356,OpenPlay,2020,RightFoot,15099,Athletic Club,Real Valladolid,2,2,2021-04-28 17:00:00,Nacho,Pass
+418337,88,SavedShot,0.7819999694824219,0.2589999961853027,0.03113264963030815,Pablo Hervías,a,4054,OpenPlay,2020,RightFoot,15099,Athletic Club,Real Valladolid,2,2,2021-04-28 17:00:00,,BallRecovery
+418338,89,BlockedShot,0.8419999694824218,0.39799999237060546,0.05816426873207092,Óscar Plano,a,6921,OpenPlay,2020,RightFoot,15099,Athletic Club,Real Valladolid,2,2,2021-04-28 17:00:00,,None
+418339,91,MissedShots,0.74,0.675,0.011729683727025986,Roque Mesa,a,2356,OpenPlay,2020,RightFoot,15099,Athletic Club,Real Valladolid,2,2,2021-04-28 17:00:00,,None
+418340,91,BlockedShot,0.784000015258789,0.255,0.020957136526703835,Sergi Guardiola,a,5212,OpenPlay,2020,LeftFoot,15099,Athletic Club,Real Valladolid,2,2,2021-04-28 17:00:00,Óscar Plano,Pass

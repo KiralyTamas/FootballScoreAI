@@ -1,0 +1,25 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+280070,3,Goal,0.775,0.415,0.0893133133649826,Raúl de Tomás,h,4229,DirectFreekick,2018,RightFoot,10139,Rayo Vallecano,Celta Vigo,4,2,2019-01-11 20:00:00,,Standard
+280074,14,MissedShots,0.8590000152587891,0.6120000076293945,0.06214144453406334,Álex Moreno,h,4120,OpenPlay,2018,LeftFoot,10139,Rayo Vallecano,Celta Vigo,4,2,2019-01-11 20:00:00,,None
+280077,26,BlockedShot,0.7559999847412109,0.6519999694824219,0.020380694419145584,Álex Moreno,h,4120,OpenPlay,2018,LeftFoot,10139,Rayo Vallecano,Celta Vigo,4,2,2019-01-11 20:00:00,Raúl de Tomás,Pass
+280078,28,SavedShot,0.7819999694824219,0.695,0.02185741811990738,Giannelli Imbula,h,861,OpenPlay,2018,LeftFoot,10139,Rayo Vallecano,Celta Vigo,4,2,2019-01-11 20:00:00,Óscar Trejo,Pass
+280079,36,Goal,0.925,0.53,0.49439316987991333,Raúl de Tomás,h,4229,OpenPlay,2018,RightFoot,10139,Rayo Vallecano,Celta Vigo,4,2,2019-01-11 20:00:00,Luis Advíncula,Pass
+280081,43,SavedShot,0.9369999694824219,0.45599998474121095,0.5505281090736389,Óscar Trejo,h,3208,OpenPlay,2018,LeftFoot,10139,Rayo Vallecano,Celta Vigo,4,2,2019-01-11 20:00:00,,None
+280082,47,SavedShot,0.9669999694824218,0.6619999694824219,0.287985622882843,Óscar Trejo,h,3208,OpenPlay,2018,RightFoot,10139,Rayo Vallecano,Celta Vigo,4,2,2019-01-11 20:00:00,,TakeOn
+280083,52,BlockedShot,0.875,0.5979999923706054,0.08406171947717667,Álex Moreno,h,4120,OpenPlay,2018,RightFoot,10139,Rayo Vallecano,Celta Vigo,4,2,2019-01-11 20:00:00,Luis Advíncula,TakeOn
+280085,58,SavedShot,0.7519999694824219,0.33599998474121096,0.020549805834889412,Adrián Embarba,h,2166,OpenPlay,2018,LeftFoot,10139,Rayo Vallecano,Celta Vigo,4,2,2019-01-11 20:00:00,Giannelli Imbula,Pass
+280089,76,Goal,0.865999984741211,0.565,0.08412273973226547,Raúl de Tomás,h,4229,OpenPlay,2018,LeftFoot,10139,Rayo Vallecano,Celta Vigo,4,2,2019-01-11 20:00:00,Emiliano Velázquez,BallTouch
+280093,90,Goal,0.89,0.39799999237060546,0.35821521282196045,Bebé,h,2168,OpenPlay,2018,RightFoot,10139,Rayo Vallecano,Celta Vigo,4,2,2019-01-11 20:00:00,Emiliano Velázquez,Throughball
+280071,12,BlockedShot,0.89,0.305,0.0383681021630764,Maxi Gómez,a,6124,FromCorner,2018,LeftFoot,10139,Rayo Vallecano,Celta Vigo,4,2,2019-01-11 20:00:00,,None
+280072,12,Goal,0.9219999694824219,0.5829999923706055,0.11907021701335907,Néstor Araújo,a,6930,FromCorner,2018,RightFoot,10139,Rayo Vallecano,Celta Vigo,4,2,2019-01-11 20:00:00,,Rebound
+280073,14,MissedShots,0.8930000305175781,0.575,0.054125379770994186,Cabral,a,2419,SetPiece,2018,Head,10139,Rayo Vallecano,Celta Vigo,4,2,2019-01-11 20:00:00,Hugo Mallo,Chipped
+280075,15,BlockedShot,0.87,0.5670000076293945,0.10397796332836151,Brais Méndez,a,6227,OpenPlay,2018,LeftFoot,10139,Rayo Vallecano,Celta Vigo,4,2,2019-01-11 20:00:00,Sofiane Boufal,Pass
+280076,17,Goal,0.885,0.5,0.7432776093482971,Maxi Gómez,a,6124,Penalty,2018,RightFoot,10139,Rayo Vallecano,Celta Vigo,4,2,2019-01-11 20:00:00,,Standard
+280080,41,BlockedShot,0.89,0.7519999694824219,0.03258082643151283,Maxi Gómez,a,6124,OpenPlay,2018,RightFoot,10139,Rayo Vallecano,Celta Vigo,4,2,2019-01-11 20:00:00,Jozabed,Chipped
+280084,54,SavedShot,0.825,0.30100000381469727,0.035655271261930466,Sofiane Boufal,a,1734,FromCorner,2018,RightFoot,10139,Rayo Vallecano,Celta Vigo,4,2,2019-01-11 20:00:00,Brais Méndez,Pass
+280086,65,BlockedShot,0.93,0.5820000076293945,0.10335110872983932,Cabral,a,2419,SetPiece,2018,Head,10139,Rayo Vallecano,Celta Vigo,4,2,2019-01-11 20:00:00,Brais Méndez,Cross
+280087,67,MissedShots,0.7519999694824219,0.225,0.012270564213395119,Brais Méndez,a,6227,FromCorner,2018,LeftFoot,10139,Rayo Vallecano,Celta Vigo,4,2,2019-01-11 20:00:00,,None
+280088,71,ShotOnPost,0.7290000152587891,0.720999984741211,0.03899557143449783,Maxi Gómez,a,6124,DirectFreekick,2018,RightFoot,10139,Rayo Vallecano,Celta Vigo,4,2,2019-01-11 20:00:00,,Standard
+280090,78,BlockedShot,0.830999984741211,0.674000015258789,0.035748567432165146,Sofiane Boufal,a,1734,OpenPlay,2018,LeftFoot,10139,Rayo Vallecano,Celta Vigo,4,2,2019-01-11 20:00:00,Jozabed,None
+280091,83,MissedShots,0.8669999694824219,0.664000015258789,0.053403254598379135,Dennis Eckert,a,6669,OpenPlay,2018,RightFoot,10139,Rayo Vallecano,Celta Vigo,4,2,2019-01-11 20:00:00,Cabral,Chipped
+280092,87,SavedShot,0.735,0.48200000762939454,0.02728307992219925,Brais Méndez,a,6227,OpenPlay,2018,LeftFoot,10139,Rayo Vallecano,Celta Vigo,4,2,2019-01-11 20:00:00,,TakeOn

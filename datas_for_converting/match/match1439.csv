@@ -1,0 +1,28 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+85173,3,BlockedShot,0.9169999694824219,0.6780000305175782,0.04628217592835426,Hernán Pérez,h,2115,FromCorner,2015,LeftFoot,1439,Espanyol,Valencia,1,0,2015-09-22 22:00:00,Rubén Duarte,Pass
+85176,17,Goal,0.9869999694824219,0.555,0.5954084992408752,Víctor Álvarez,h,2111,SetPiece,2015,Head,1439,Espanyol,Valencia,1,0,2015-09-22 22:00:00,,None
+85178,29,BlockedShot,0.75,0.49599998474121093,0.047299616038799286,Marco Asensio,h,2117,OpenPlay,2015,LeftFoot,1439,Espanyol,Valencia,1,0,2015-09-22 22:00:00,Anaitz Arbilla,TakeOn
+85181,38,SavedShot,0.92,0.5879999923706055,0.08261224627494812,Álvaro González,h,2430,SetPiece,2015,Head,1439,Espanyol,Valencia,1,0,2015-09-22 22:00:00,Marco Asensio,Cross
+85183,43,SavedShot,0.87,0.4929999923706055,0.4051918387413025,Marco Asensio,h,2117,OpenPlay,2015,RightFoot,1439,Espanyol,Valencia,1,0,2015-09-22 22:00:00,Víctor Álvarez,Throughball
+85186,63,BlockedShot,0.875999984741211,0.6229999923706054,0.11303805559873581,Marco Asensio,h,2117,OpenPlay,2015,LeftFoot,1439,Espanyol,Valencia,1,0,2015-09-22 22:00:00,Felipe Caicedo,Pass
+85187,64,MissedShots,0.8669999694824219,0.3940000152587891,0.05842122808098793,Víctor Sánchez,h,2113,FromCorner,2015,RightFoot,1439,Espanyol,Valencia,1,0,2015-09-22 22:00:00,,None
+85188,66,MissedShots,0.8280000305175781,0.6659999847412109,0.053859151899814606,Rubén Duarte,h,2110,OpenPlay,2015,LeftFoot,1439,Espanyol,Valencia,1,0,2015-09-22 22:00:00,,None
+85190,69,MissedShots,0.899000015258789,0.41,0.07512908428907394,Marco Asensio,h,2117,SetPiece,2015,LeftFoot,1439,Espanyol,Valencia,1,0,2015-09-22 22:00:00,Álvaro González,HeadPass
+85191,71,SavedShot,0.88,0.24100000381469727,0.03370099887251854,Hernán Pérez,h,2115,OpenPlay,2015,LeftFoot,1439,Espanyol,Valencia,1,0,2015-09-22 22:00:00,Anaitz Arbilla,TakeOn
+85192,71,SavedShot,0.855999984741211,0.66,0.07735120505094528,Burgui,h,2432,OpenPlay,2015,RightFoot,1439,Espanyol,Valencia,1,0,2015-09-22 22:00:00,Rubén Duarte,TakeOn
+85193,71,BlockedShot,0.7980000305175782,0.33599998474121096,0.03091508522629738,Anaitz Arbilla,h,2586,OpenPlay,2015,RightFoot,1439,Espanyol,Valencia,1,0,2015-09-22 22:00:00,,Rebound
+85194,74,MissedShots,0.795,0.6759999847412109,0.012168573215603828,Burgui,h,2432,SetPiece,2015,RightFoot,1439,Espanyol,Valencia,1,0,2015-09-22 22:00:00,,Aerial
+85195,77,MissedShots,0.8669999694824219,0.6,0.1064053475856781,Felipe Caicedo,h,2116,OpenPlay,2015,RightFoot,1439,Espanyol,Valencia,1,0,2015-09-22 22:00:00,Hernán Pérez,Pass
+85196,89,MissedShots,0.8090000152587891,0.27,0.029622552916407585,Papakouly Diop,h,2112,OpenPlay,2015,RightFoot,1439,Espanyol,Valencia,1,0,2015-09-22 22:00:00,,None
+85198,91,BlockedShot,0.87,0.34,0.06755604594945908,Gerard Moreno,h,2120,OpenPlay,2015,LeftFoot,1439,Espanyol,Valencia,1,0,2015-09-22 22:00:00,Hernán Pérez,Pass
+85199,91,BlockedShot,0.7819999694824219,0.5220000076293946,0.04131544008851051,Papakouly Diop,h,2112,OpenPlay,2015,RightFoot,1439,Espanyol,Valencia,1,0,2015-09-22 22:00:00,Burgui,Pass
+85174,7,SavedShot,0.845,0.6419999694824219,0.10093826800584793,Zakaria Bakkali,a,2538,OpenPlay,2015,RightFoot,1439,Espanyol,Valencia,1,0,2015-09-22 22:00:00,Enzo Pérez,BallRecovery
+85175,15,SavedShot,0.8880000305175781,0.38,0.33311572670936584,Rodrigo,a,2381,OpenPlay,2015,RightFoot,1439,Espanyol,Valencia,1,0,2015-09-22 22:00:00,Zakaria Bakkali,Pass
+85177,23,MissedShots,0.7930000305175782,0.745,0.058549050241708755,Enzo Pérez,a,2376,DirectFreekick,2015,RightFoot,1439,Espanyol,Valencia,1,0,2015-09-22 22:00:00,,Standard
+85179,30,MissedShots,0.6919999694824219,0.3270000076293945,0.012687770649790764,Danilo,a,2387,OpenPlay,2015,RightFoot,1439,Espanyol,Valencia,1,0,2015-09-22 22:00:00,Santi Mina,Pass
+85180,34,MissedShots,0.775,0.725999984741211,0.013615836389362812,Zakaria Bakkali,a,2538,OpenPlay,2015,RightFoot,1439,Espanyol,Valencia,1,0,2015-09-22 22:00:00,Enzo Pérez,Chipped
+85182,41,BlockedShot,0.76,0.6759999847412109,0.0587763749063015,João Cancelo,a,2379,DirectFreekick,2015,RightFoot,1439,Espanyol,Valencia,1,0,2015-09-22 22:00:00,,Standard
+85184,46,BlockedShot,0.7630000305175781,0.345,0.020853735506534576,Danilo,a,2387,OpenPlay,2015,RightFoot,1439,Espanyol,Valencia,1,0,2015-09-22 22:00:00,Rodrigo,Pass
+85185,47,SavedShot,0.915,0.5609999847412109,0.08136818557977676,Rodrigo,a,2381,OpenPlay,2015,Head,1439,Espanyol,Valencia,1,0,2015-09-22 22:00:00,José Gayá,Cross
+85189,66,MissedShots,0.8980000305175782,0.539000015258789,0.07852499932050705,Paco Alcácer,a,2380,OpenPlay,2015,LeftFoot,1439,Espanyol,Valencia,1,0,2015-09-22 22:00:00,Pablo Piatti,Cross
+85197,90,SavedShot,0.8919999694824219,0.524000015258789,0.01911657117307186,Aymen Abdennour,a,2374,FromCorner,2015,Head,1439,Espanyol,Valencia,1,0,2015-09-22 22:00:00,Pablo Piatti,Aerial

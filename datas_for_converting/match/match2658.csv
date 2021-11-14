@@ -1,0 +1,31 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+123516,15,ShotOnPost,0.8919999694824219,0.5429999923706055,0.3444199562072754,Axel Witsel,h,3059,OpenPlay,2016,RightFoot,2658,Zenit St. Petersburg,Spartak Moscow,4,2,2016-10-02 17:30:00,Giuliano,HeadPass
+123517,16,BlockedShot,0.774000015258789,0.639000015258789,0.02224413864314556,Axel Witsel,h,3059,SetPiece,2016,LeftFoot,2658,Zenit St. Petersburg,Spartak Moscow,4,2,2016-10-02 17:30:00,Aleksandr Kokorin,Pass
+123520,19,Goal,0.885,0.5,0.7542753219604492,Domenico Criscito,h,3065,Penalty,2016,LeftFoot,2658,Zenit St. Petersburg,Spartak Moscow,4,2,2016-10-02 17:30:00,,Standard
+123524,33,Goal,0.9740000152587891,0.48700000762939455,0.8581446409225464,Artem Dzyuba,h,3063,OpenPlay,2016,LeftFoot,2658,Zenit St. Petersburg,Spartak Moscow,4,2,2016-10-02 17:30:00,Robert Mak,Pass
+123528,58,BlockedShot,0.8369999694824218,0.605999984741211,0.06381803750991821,Robert Mak,h,5468,OpenPlay,2016,RightFoot,2658,Zenit St. Petersburg,Spartak Moscow,4,2,2016-10-02 17:30:00,Artem Dzyuba,Pass
+123529,60,Goal,0.9519999694824218,0.5990000152587891,0.13501474261283875,Axel Witsel,h,3059,OpenPlay,2016,LeftFoot,2658,Zenit St. Petersburg,Spartak Moscow,4,2,2016-10-02 17:30:00,Giuliano,Throughball
+123531,77,MissedShots,0.840999984741211,0.37599998474121094,0.06200670823454857,Aleksandr Kokorin,h,3066,OpenPlay,2016,LeftFoot,2658,Zenit St. Petersburg,Spartak Moscow,4,2,2016-10-02 17:30:00,Giuliano,Pass
+123532,79,MissedShots,0.9059999847412109,0.610999984741211,0.14849600195884705,Artur Yusupov,h,3067,OpenPlay,2016,RightFoot,2658,Zenit St. Petersburg,Spartak Moscow,4,2,2016-10-02 17:30:00,Aleksandr Kokorin,Pass
+123535,84,BlockedShot,0.7780000305175782,0.6509999847412109,0.06301897019147873,Giuliano,h,5467,DirectFreekick,2016,RightFoot,2658,Zenit St. Petersburg,Spartak Moscow,4,2,2016-10-02 17:30:00,,Standard
+123536,86,Goal,0.885,0.5,0.7542753219604492,Giuliano,h,5467,Penalty,2016,RightFoot,2658,Zenit St. Petersburg,Spartak Moscow,4,2,2016-10-02 17:30:00,,Standard
+123540,93,MissedShots,0.705,0.5270000076293946,0.014963066205382347,Axel Witsel,h,3059,OpenPlay,2016,RightFoot,2658,Zenit St. Petersburg,Spartak Moscow,4,2,2016-10-02 17:30:00,Giuliano,Pass
+123511,0,MissedShots,0.7530000305175781,0.5159999847412109,0.018587680533528328,Denis Glushakov,a,2814,OpenPlay,2016,RightFoot,2658,Zenit St. Petersburg,Spartak Moscow,4,2,2016-10-02 17:30:00,Roman Zobnin,Pass
+123512,2,MissedShots,0.935,0.4209999847412109,0.059966180473566055,Ivelin Popov,a,2817,OpenPlay,2016,Head,2658,Zenit St. Petersburg,Spartak Moscow,4,2,2016-10-02 17:30:00,Quincy Promes,Pass
+123513,13,BlockedShot,0.8480000305175781,0.72,0.024537095800042152,Roman Zobnin,a,2750,OpenPlay,2016,RightFoot,2658,Zenit St. Petersburg,Spartak Moscow,4,2,2016-10-02 17:30:00,Fernando,Chipped
+123514,14,BlockedShot,0.9059999847412109,0.35900001525878905,0.08663217723369598,Zé Luís,a,2818,OpenPlay,2016,RightFoot,2658,Zenit St. Petersburg,Spartak Moscow,4,2,2016-10-02 17:30:00,Mauricio,Pass
+123515,14,BlockedShot,0.7919999694824219,0.36400001525878906,0.02153024636209011,Quincy Promes,a,2815,OpenPlay,2016,LeftFoot,2658,Zenit St. Petersburg,Spartak Moscow,4,2,2016-10-02 17:30:00,,Rebound
+123518,17,BlockedShot,0.7580000305175781,0.475,0.026788096874952316,Roman Zobnin,a,2750,OpenPlay,2016,RightFoot,2658,Zenit St. Petersburg,Spartak Moscow,4,2,2016-10-02 17:30:00,Fernando,Pass
+123519,17,SavedShot,0.7659999847412109,0.5129999923706055,0.029971495270729065,Ivelin Popov,a,2817,OpenPlay,2016,RightFoot,2658,Zenit St. Petersburg,Spartak Moscow,4,2,2016-10-02 17:30:00,Denis Glushakov,Pass
+123521,24,MissedShots,0.7069999694824218,0.5840000152587891,0.013177886605262756,Ivelin Popov,a,2817,OpenPlay,2016,RightFoot,2658,Zenit St. Petersburg,Spartak Moscow,4,2,2016-10-02 17:30:00,,None
+123522,27,SavedShot,0.7180000305175781,0.6719999694824219,0.0342220664024353,Quincy Promes,a,2815,DirectFreekick,2016,RightFoot,2658,Zenit St. Petersburg,Spartak Moscow,4,2,2016-10-02 17:30:00,,Standard
+123523,27,Goal,0.9369999694824219,0.45599998474121095,0.5691317319869995,Salvatore Bocchetti,a,2810,SetPiece,2016,LeftFoot,2658,Zenit St. Petersburg,Spartak Moscow,4,2,2016-10-02 17:30:00,,Rebound
+123525,36,Goal,0.9280000305175782,0.51,0.11096430569887161,Zé Luís,a,2818,FromCorner,2016,Head,2658,Zenit St. Petersburg,Spartak Moscow,4,2,2016-10-02 17:30:00,Ivelin Popov,Cross
+123526,38,BlockedShot,0.754000015258789,0.4640000152587891,0.017114095389842987,Denis Glushakov,a,2814,OpenPlay,2016,LeftFoot,2658,Zenit St. Petersburg,Spartak Moscow,4,2,2016-10-02 17:30:00,Zé Luís,Pass
+123527,41,MissedShots,0.8440000152587891,0.7469999694824219,0.024862051010131836,Quincy Promes,a,2815,OpenPlay,2016,RightFoot,2658,Zenit St. Petersburg,Spartak Moscow,4,2,2016-10-02 17:30:00,Roman Zobnin,Tackle
+123530,72,BlockedShot,0.7230000305175781,0.42200000762939455,0.015064009465277195,Fernando,a,1937,OpenPlay,2016,RightFoot,2658,Zenit St. Petersburg,Spartak Moscow,4,2,2016-10-02 17:30:00,,None
+123533,82,SavedShot,0.7719999694824219,0.7180000305175781,0.01687045954167843,Jano Ananidze,a,2816,OpenPlay,2016,RightFoot,2658,Zenit St. Petersburg,Spartak Moscow,4,2,2016-10-02 17:30:00,Quincy Promes,Pass
+123534,83,BlockedShot,0.975999984741211,0.35200000762939454,0.1092667281627655,Zé Luís,a,2818,OpenPlay,2016,LeftFoot,2658,Zenit St. Petersburg,Spartak Moscow,4,2,2016-10-02 17:30:00,Fernando,TakeOn
+123537,88,MissedShots,0.904000015258789,0.575,0.08696027100086212,Salvatore Bocchetti,a,2810,SetPiece,2016,LeftFoot,2658,Zenit St. Petersburg,Spartak Moscow,4,2,2016-10-02 17:30:00,Denis Glushakov,HeadPass
+123538,92,BlockedShot,0.700999984741211,0.23100000381469726,0.007049157749861479,Quincy Promes,a,2815,OpenPlay,2016,RightFoot,2658,Zenit St. Petersburg,Spartak Moscow,4,2,2016-10-02 17:30:00,,Dispossessed
+123539,92,BlockedShot,0.845999984741211,0.6880000305175781,0.023130249232053757,Jano Ananidze,a,2816,OpenPlay,2016,RightFoot,2658,Zenit St. Petersburg,Spartak Moscow,4,2,2016-10-02 17:30:00,Mauricio,Chipped

@@ -1,0 +1,26 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+106535,10,MissedShots,0.82,0.49700000762939456,0.03823250159621239,Edinson Cavani,h,3294,OpenPlay,2016,LeftFoot,4134,Paris Saint Germain,Monaco,1,1,2017-01-29 23:00:00,Lucas Moura,HeadPass
+106537,12,BlockedShot,0.855,0.7019999694824218,0.03953724727034569,Julian Draxler,h,152,OpenPlay,2016,RightFoot,4134,Paris Saint Germain,Monaco,1,1,2017-01-29 23:00:00,Edinson Cavani,Pass
+106539,22,SavedShot,0.8690000152587891,0.3729999923706055,0.015114616602659225,Edinson Cavani,h,3294,OpenPlay,2016,Head,4134,Paris Saint Germain,Monaco,1,1,2017-01-29 23:00:00,Thomas Meunier,Cross
+106540,22,MissedShots,0.8490000152587891,0.43400001525878906,0.09245441854000092,Julian Draxler,h,152,OpenPlay,2016,LeftFoot,4134,Paris Saint Germain,Monaco,1,1,2017-01-29 23:00:00,Adrien Rabiot,Pass
+106542,28,MissedShots,0.9530000305175781,0.43900001525878907,0.09442728012800217,Marquinhos,h,3297,SetPiece,2016,RightFoot,4134,Paris Saint Germain,Monaco,1,1,2017-01-29 23:00:00,Lucas Moura,Cross
+106543,41,SavedShot,0.7930000305175782,0.69,0.024436352774500847,Lucas Moura,h,3293,OpenPlay,2016,RightFoot,4134,Paris Saint Germain,Monaco,1,1,2017-01-29 23:00:00,Blaise Matuidi,Pass
+106544,41,SavedShot,0.9730000305175781,0.6630000305175782,0.05401202291250229,Edinson Cavani,h,3294,OpenPlay,2016,RightFoot,4134,Paris Saint Germain,Monaco,1,1,2017-01-29 23:00:00,,Rebound
+106551,65,MissedShots,0.8690000152587891,0.40299999237060546,0.04932437837123871,Thomas Meunier,h,5680,OpenPlay,2016,RightFoot,4134,Paris Saint Germain,Monaco,1,1,2017-01-29 23:00:00,Julian Draxler,Cross
+106552,68,BlockedShot,0.9219999694824219,0.504000015258789,0.1029006764292717,Ángel Di María,h,3553,OpenPlay,2016,RightFoot,4134,Paris Saint Germain,Monaco,1,1,2017-01-29 23:00:00,,None
+106553,71,MissedShots,0.9280000305175782,0.515,0.07803334295749664,Julian Draxler,h,152,OpenPlay,2016,Head,4134,Paris Saint Germain,Monaco,1,1,2017-01-29 23:00:00,Layvin Kurzawa,Aerial
+106554,80,Goal,0.885,0.5,0.7600951194763184,Edinson Cavani,h,3294,Penalty,2016,RightFoot,4134,Paris Saint Germain,Monaco,1,1,2017-01-29 23:00:00,,Standard
+106534,2,BlockedShot,0.860999984741211,0.29700000762939455,0.04001303017139435,Bernardo Silva,a,3635,OpenPlay,2016,LeftFoot,4134,Paris Saint Germain,Monaco,1,1,2017-01-29 23:00:00,Thomas Lemar,Pass
+106536,12,MissedShots,0.7559999847412109,0.32799999237060545,0.052580416202545166,Thomas Lemar,a,3425,DirectFreekick,2016,LeftFoot,4134,Paris Saint Germain,Monaco,1,1,2017-01-29 23:00:00,,Standard
+106538,18,SavedShot,0.7380000305175781,0.3120000076293945,0.015054560266435146,Fabinho,a,3420,OpenPlay,2016,RightFoot,4134,Paris Saint Germain,Monaco,1,1,2017-01-29 23:00:00,Djibril Sidibe,Pass
+106541,26,MissedShots,0.73,0.6480000305175782,0.04416290670633316,Djibril Sidibe,a,3357,DirectFreekick,2016,RightFoot,4134,Paris Saint Germain,Monaco,1,1,2017-01-29 23:00:00,,Standard
+106545,45,SavedShot,0.8930000305175781,0.39,0.1062503457069397,Falcao,a,696,OpenPlay,2016,RightFoot,4134,Paris Saint Germain,Monaco,1,1,2017-01-29 23:00:00,Bernardo Silva,Pass
+106546,45,BlockedShot,0.8719999694824219,0.6409999847412109,0.05343872308731079,Thomas Lemar,a,3425,OpenPlay,2016,LeftFoot,4134,Paris Saint Germain,Monaco,1,1,2017-01-29 23:00:00,,Rebound
+106547,47,SavedShot,0.7269999694824218,0.5,0.019485699012875557,Thomas Lemar,a,3425,OpenPlay,2016,LeftFoot,4134,Paris Saint Germain,Monaco,1,1,2017-01-29 23:00:00,Fabinho,Pass
+106548,62,BlockedShot,0.789000015258789,0.295,0.06238056719303131,Thomas Lemar,a,3425,DirectFreekick,2016,LeftFoot,4134,Paris Saint Germain,Monaco,1,1,2017-01-29 23:00:00,,Standard
+106549,63,SavedShot,0.8090000152587891,0.16100000381469726,0.013636109419167042,Falcao,a,696,OpenPlay,2016,LeftFoot,4134,Paris Saint Germain,Monaco,1,1,2017-01-29 23:00:00,Djibril Sidibe,Pass
+106550,64,SavedShot,0.76,0.720999984741211,0.015227056108415127,Tiemoué Bakayoko,a,3429,OpenPlay,2016,RightFoot,4134,Paris Saint Germain,Monaco,1,1,2017-01-29 23:00:00,Thomas Lemar,Pass
+106555,82,MissedShots,0.895,0.3890000152587891,0.05875270441174507,João Moutinho,a,3422,OpenPlay,2016,RightFoot,4134,Paris Saint Germain,Monaco,1,1,2017-01-29 23:00:00,Benjamin Mendy,Cross
+106556,91,SavedShot,0.8719999694824219,0.3729999923706055,0.04722091183066368,Kylian Mbappe-Lottin,a,3423,OpenPlay,2016,RightFoot,4134,Paris Saint Germain,Monaco,1,1,2017-01-29 23:00:00,Djibril Sidibe,Cross
+106557,91,BlockedShot,0.799000015258789,0.3189999961853027,0.02412613295018673,Bernardo Silva,a,3635,FromCorner,2016,LeftFoot,4134,Paris Saint Germain,Monaco,1,1,2017-01-29 23:00:00,Djibril Sidibe,Pass
+106558,91,Goal,0.7469999694824219,0.3770000076293945,0.020534677430987358,Bernardo Silva,a,3635,FromCorner,2016,LeftFoot,4134,Paris Saint Germain,Monaco,1,1,2017-01-29 23:00:00,Djibril Sidibe,Pass

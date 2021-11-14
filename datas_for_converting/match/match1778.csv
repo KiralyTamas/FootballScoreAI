@@ -1,0 +1,28 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+92961,11,Goal,0.7959999847412109,0.595999984741211,0.02737000398337841,Pablo Hernández,h,2164,FromCorner,2015,RightFoot,1778,Rayo Vallecano,Levante,3,1,2016-05-15 21:30:00,,None
+92962,22,Goal,0.7680000305175781,0.505,0.04299604147672653,Roberto Trashorras,h,2162,OpenPlay,2015,LeftFoot,1778,Rayo Vallecano,Levante,3,1,2016-05-15 21:30:00,,None
+92963,25,MissedShots,0.754000015258789,0.255,0.025832965970039368,Adrián Embarba,h,2166,OpenPlay,2015,LeftFoot,1778,Rayo Vallecano,Levante,3,1,2016-05-15 21:30:00,Roberto Trashorras,Pass
+92964,33,MissedShots,0.8930000305175781,0.3529999923706055,0.13237202167510986,Adrián Embarba,h,2166,OpenPlay,2015,RightFoot,1778,Rayo Vallecano,Levante,3,1,2016-05-15 21:30:00,Roberto Trashorras,Throughball
+92965,35,MissedShots,0.77,0.5640000152587891,0.02675200067460537,Adrián Embarba,h,2166,OpenPlay,2015,RightFoot,1778,Rayo Vallecano,Levante,3,1,2016-05-15 21:30:00,,None
+92966,38,SavedShot,0.8959999847412109,0.26600000381469724,0.12912169098854065,Adrián Embarba,h,2166,OpenPlay,2015,RightFoot,1778,Rayo Vallecano,Levante,3,1,2016-05-15 21:30:00,Roberto Trashorras,Throughball
+92967,40,SavedShot,0.7759999847412109,0.7180000305175781,0.0233356561511755,Pablo Hernández,h,2164,FromCorner,2015,RightFoot,1778,Rayo Vallecano,Levante,3,1,2016-05-15 21:30:00,Roberto Trashorras,Pass
+92968,41,SavedShot,0.8519999694824218,0.44,0.2869977653026581,Javi Guerra,h,2167,OpenPlay,2015,RightFoot,1778,Rayo Vallecano,Levante,3,1,2016-05-15 21:30:00,Adrián Embarba,Pass
+92970,52,SavedShot,0.919000015258789,0.28,0.025408487766981125,Adrián Embarba,h,2166,SetPiece,2015,RightFoot,1778,Rayo Vallecano,Levante,3,1,2016-05-15 21:30:00,Roberto Trashorras,Pass
+92971,54,BlockedShot,0.799000015258789,0.5120000076293946,0.06622669845819473,Javi Guerra,h,2167,OpenPlay,2015,LeftFoot,1778,Rayo Vallecano,Levante,3,1,2016-05-15 21:30:00,Miku,Pass
+92972,54,ShotOnPost,0.9069999694824219,0.3370000076293945,0.057865507900714874,Pablo Hernández,h,2164,OpenPlay,2015,LeftFoot,1778,Rayo Vallecano,Levante,3,1,2016-05-15 21:30:00,Antonio Amaya,Rebound
+92973,57,MissedShots,0.919000015258789,0.620999984741211,0.13200046122074127,Miku,h,2170,OpenPlay,2015,LeftFoot,1778,Rayo Vallecano,Levante,3,1,2016-05-15 21:30:00,Javi Guerra,LayOff
+92975,63,SavedShot,0.905,0.35700000762939454,0.30515915155410767,Javi Guerra,h,2167,OpenPlay,2015,RightFoot,1778,Rayo Vallecano,Levante,3,1,2016-05-15 21:30:00,Quini,Chipped
+92976,63,BlockedShot,0.774000015258789,0.6229999923706054,0.019848063588142395,Javi Guerra,h,2167,FromCorner,2015,RightFoot,1778,Rayo Vallecano,Levante,3,1,2016-05-15 21:30:00,,None
+92978,67,BlockedShot,0.755,0.635,0.01652432605624199,Bebé,h,2168,FromCorner,2015,RightFoot,1778,Rayo Vallecano,Levante,3,1,2016-05-15 21:30:00,,None
+92981,72,Goal,0.985,0.44299999237060544,0.6078784465789795,Miku,h,2170,OpenPlay,2015,RightFoot,1778,Rayo Vallecano,Levante,3,1,2016-05-15 21:30:00,Bebé,Cross
+92983,79,BlockedShot,0.7980000305175782,0.705,0.026664216071367264,Bebé,h,2168,FromCorner,2015,RightFoot,1778,Rayo Vallecano,Levante,3,1,2016-05-15 21:30:00,Roberto Trashorras,Cross
+92985,90,SavedShot,0.6969999694824218,0.775,0.015513921156525612,Razvan Rat,h,2169,OpenPlay,2015,RightFoot,1778,Rayo Vallecano,Levante,3,1,2016-05-15 21:30:00,Bebé,Pass
+92986,91,MissedShots,0.8390000152587891,0.495,0.09762988239526749,Javi Guerra,h,2167,OpenPlay,2015,LeftFoot,1778,Rayo Vallecano,Levante,3,1,2016-05-15 21:30:00,Jozabed,Pass
+92960,0,BlockedShot,0.7169999694824218,0.629000015258789,0.01345809455960989,Jefferson Lerma,a,2182,OpenPlay,2015,RightFoot,1778,Rayo Vallecano,Levante,3,1,2016-05-15 21:30:00,,BallRecovery
+92969,48,MissedShots,0.6859999847412109,0.48700000762939455,0.008731815963983536,Verza,a,2180,OpenPlay,2015,RightFoot,1778,Rayo Vallecano,Levante,3,1,2016-05-15 21:30:00,,Dispossessed
+92974,59,Goal,0.885,0.5,0.7432776093482971,Verza,a,2180,Penalty,2015,RightFoot,1778,Rayo Vallecano,Levante,3,1,2016-05-15 21:30:00,,Standard
+92977,66,BlockedShot,0.7219999694824218,0.5279999923706055,0.011192813515663147,Rubén García,a,2183,SetPiece,2015,LeftFoot,1778,Rayo Vallecano,Levante,3,1,2016-05-15 21:30:00,,None
+92979,67,SavedShot,0.960999984741211,0.3940000152587891,0.07407954335212708,Jordi Xumetra,a,2181,OpenPlay,2015,RightFoot,1778,Rayo Vallecano,Levante,3,1,2016-05-15 21:30:00,,None
+92980,67,MissedShots,0.955999984741211,0.3940000152587891,0.39263665676116943,Jordi Xumetra,a,2181,OpenPlay,2015,RightFoot,1778,Rayo Vallecano,Levante,3,1,2016-05-15 21:30:00,,Rebound
+92982,76,BlockedShot,0.8180000305175781,0.4779999923706055,0.06328926235437393,Deyverson,a,2185,OpenPlay,2015,LeftFoot,1778,Rayo Vallecano,Levante,3,1,2016-05-15 21:30:00,Morales,Pass
+92984,86,ShotOnPost,0.8859999847412109,0.33799999237060546,0.05010563135147095,Verza,a,2180,OpenPlay,2015,RightFoot,1778,Rayo Vallecano,Levante,3,1,2016-05-15 21:30:00,,None

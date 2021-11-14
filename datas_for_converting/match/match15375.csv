@@ -1,0 +1,24 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+412722,2,MissedShots,0.769000015258789,0.285,0.0135821383446455,Nordi Mukiele,h,5659,OpenPlay,2020,RightFoot,15375,RasenBallsport Leipzig,Bayern Munich,0,1,2021-04-03 16:30:00,,None
+412723,18,MissedShots,0.7930000305175782,0.6370000076293946,0.0205503161996603,Marcel Sabitzer,h,5248,SetPiece,2020,RightFoot,15375,RasenBallsport Leipzig,Bayern Munich,0,1,2021-04-03 16:30:00,,None
+412726,29,BlockedShot,0.8080000305175781,0.655,0.031565334647893906,Amadou Haidara,h,7501,OpenPlay,2020,RightFoot,15375,RasenBallsport Leipzig,Bayern Munich,0,1,2021-04-03 16:30:00,Marcel Sabitzer,Pass
+412731,47,MissedShots,0.8859999847412109,0.5609999847412109,0.07321293652057648,Christopher Nkunku,h,3300,OpenPlay,2020,RightFoot,15375,RasenBallsport Leipzig,Bayern Munich,0,1,2021-04-03 16:30:00,,None
+412732,48,MissedShots,0.889000015258789,0.5629999923706055,0.07506773620843887,Marcel Sabitzer,h,5248,OpenPlay,2020,LeftFoot,15375,RasenBallsport Leipzig,Bayern Munich,0,1,2021-04-03 16:30:00,Amadou Haidara,HeadPass
+412733,51,MissedShots,0.8580000305175781,0.46,0.06408070027828217,Dani Olmo,h,8292,OpenPlay,2020,RightFoot,15375,RasenBallsport Leipzig,Bayern Munich,0,1,2021-04-03 16:30:00,,None
+412734,52,MissedShots,0.89,0.6990000152587891,0.04389720782637596,Dani Olmo,h,8292,OpenPlay,2020,RightFoot,15375,RasenBallsport Leipzig,Bayern Munich,0,1,2021-04-03 16:30:00,,BallRecovery
+412735,55,BlockedShot,0.8780000305175781,0.6869999694824219,0.04453239589929581,Lukas Klostermann,h,5358,OpenPlay,2020,LeftFoot,15375,RasenBallsport Leipzig,Bayern Munich,0,1,2021-04-03 16:30:00,,None
+412736,55,SavedShot,0.7340000152587891,0.6409999847412109,0.01594656892120838,Marcel Sabitzer,h,5248,OpenPlay,2020,RightFoot,15375,RasenBallsport Leipzig,Bayern Munich,0,1,2021-04-03 16:30:00,Dani Olmo,Pass
+412737,58,SavedShot,0.7040000152587891,0.539000015258789,0.011604111641645432,Marcel Sabitzer,h,5248,OpenPlay,2020,RightFoot,15375,RasenBallsport Leipzig,Bayern Munich,0,1,2021-04-03 16:30:00,,None
+412738,58,BlockedShot,0.8180000305175781,0.47400001525878904,0.0419127382338047,Dani Olmo,h,8292,FromCorner,2020,RightFoot,15375,RasenBallsport Leipzig,Bayern Munich,0,1,2021-04-03 16:30:00,,None
+412739,68,MissedShots,0.8830000305175781,0.5379999923706055,0.02286231704056263,Christopher Nkunku,h,3300,OpenPlay,2020,Head,15375,RasenBallsport Leipzig,Bayern Munich,0,1,2021-04-03 16:30:00,Marcel Sabitzer,Aerial
+412742,82,MissedShots,0.77,0.365,0.014093070290982723,Justin Kluivert,h,6963,FromCorner,2020,RightFoot,15375,RasenBallsport Leipzig,Bayern Munich,0,1,2021-04-03 16:30:00,,Aerial
+412744,92,MissedShots,0.7140000152587891,0.5220000076293946,0.013905307278037071,Marcel Sabitzer,h,5248,FromCorner,2020,RightFoot,15375,RasenBallsport Leipzig,Bayern Munich,0,1,2021-04-03 16:30:00,,None
+412724,22,BlockedShot,0.8580000305175781,0.5670000076293945,0.09739705175161362,Kingsley Coman,a,226,OpenPlay,2020,RightFoot,15375,RasenBallsport Leipzig,Bayern Munich,0,1,2021-04-03 16:30:00,Eric Maxim Choupo-Moting,Pass
+412725,22,MissedShots,0.879000015258789,0.44099998474121094,0.09377233684062958,Eric Maxim Choupo-Moting,a,339,OpenPlay,2020,RightFoot,15375,RasenBallsport Leipzig,Bayern Munich,0,1,2021-04-03 16:30:00,,Rebound
+412727,32,BlockedShot,0.7859999847412109,0.4540000152587891,0.03401491045951843,Leroy Sané,a,337,OpenPlay,2020,LeftFoot,15375,RasenBallsport Leipzig,Bayern Munich,0,1,2021-04-03 16:30:00,Joshua Kimmich,Pass
+412728,37,Goal,0.875,0.45599998474121095,0.10565357655286789,Leon Goretzka,a,335,OpenPlay,2020,RightFoot,15375,RasenBallsport Leipzig,Bayern Munich,0,1,2021-04-03 16:30:00,Thomas Müller,Pass
+412729,42,SavedShot,0.795,0.34599998474121096,0.02080695331096649,Leroy Sané,a,337,FromCorner,2020,LeftFoot,15375,RasenBallsport Leipzig,Bayern Munich,0,1,2021-04-03 16:30:00,,None
+412730,43,SavedShot,0.8909999847412109,0.5420000076293945,0.016188500449061394,Eric Maxim Choupo-Moting,a,339,FromCorner,2020,Head,15375,RasenBallsport Leipzig,Bayern Munich,0,1,2021-04-03 16:30:00,Joshua Kimmich,Aerial
+412740,74,MissedShots,0.860999984741211,0.580999984741211,0.10221103578805923,Jamal Musiala,a,8418,OpenPlay,2020,RightFoot,15375,RasenBallsport Leipzig,Bayern Munich,0,1,2021-04-03 16:30:00,Serge Gnabry,Pass
+412741,76,SavedShot,0.9230000305175782,0.28100000381469725,0.062153007835149765,Thomas Müller,a,224,OpenPlay,2020,RightFoot,15375,RasenBallsport Leipzig,Bayern Munich,0,1,2021-04-03 16:30:00,Leroy Sané,Pass
+412743,90,SavedShot,0.8640000152587891,0.645,0.07439320534467697,Eric Maxim Choupo-Moting,a,339,OpenPlay,2020,LeftFoot,15375,RasenBallsport Leipzig,Bayern Munich,0,1,2021-04-03 16:30:00,Serge Gnabry,Pass

@@ -1,0 +1,32 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+301236,4,MissedShots,0.9259999847412109,0.46299999237060546,0.0590435154736042,Ashley Barnes,h,4422,OpenPlay,2018,Head,9575,Burnley,Arsenal,1,3,2019-05-12 14:00:00,Charlie Taylor,Aerial
+301238,8,SavedShot,0.875,0.539000015258789,0.08634945750236511,Ashley Barnes,h,4422,OpenPlay,2018,RightFoot,9575,Burnley,Arsenal,1,3,2019-05-12 14:00:00,Matthew Lowton,Chipped
+301239,8,MissedShots,0.9069999694824219,0.49700000762939456,0.13484889268875122,Jack Cork,h,712,OpenPlay,2018,RightFoot,9575,Burnley,Arsenal,1,3,2019-05-12 14:00:00,,Rebound
+301241,20,BlockedShot,0.955999984741211,0.6469999694824219,0.010946475900709629,Chris Wood,h,4456,FromCorner,2018,Head,9575,Burnley,Arsenal,1,3,2019-05-12 14:00:00,Dwight McNeil,Aerial
+301242,20,SavedShot,0.9590000152587891,0.625,0.021017586812376976,James Tarkowski,h,1665,FromCorner,2018,Head,9575,Burnley,Arsenal,1,3,2019-05-12 14:00:00,Dwight McNeil,Cross
+301243,27,ShotOnPost,0.8230000305175781,0.45799999237060546,0.0398097038269043,Chris Wood,h,4456,OpenPlay,2018,LeftFoot,9575,Burnley,Arsenal,1,3,2019-05-12 14:00:00,Matthew Lowton,Pass
+301244,29,BlockedShot,0.9130000305175782,0.485,0.11794493347406387,Jack Cork,h,712,OpenPlay,2018,RightFoot,9575,Burnley,Arsenal,1,3,2019-05-12 14:00:00,Chris Wood,BallTouch
+301245,29,BlockedShot,0.93,0.5670000076293945,0.7718476057052612,Matthew Lowton,h,1652,OpenPlay,2018,LeftFoot,9575,Burnley,Arsenal,1,3,2019-05-12 14:00:00,,TakeOn
+301246,36,MissedShots,0.93,0.39799999237060546,0.015849685296416283,James Tarkowski,h,1665,FromCorner,2018,Head,9575,Burnley,Arsenal,1,3,2019-05-12 14:00:00,Dwight McNeil,Aerial
+301253,64,SavedShot,0.789000015258789,0.6459999847412109,0.028737271204590797,Johann Berg Gudmundsson,h,1663,OpenPlay,2018,LeftFoot,9575,Burnley,Arsenal,1,3,2019-05-12 14:00:00,Ashley Westwood,Pass
+301254,64,MissedShots,0.9390000152587891,0.5029999923706054,0.12747015058994293,Chris Wood,h,4456,OpenPlay,2018,Head,9575,Burnley,Arsenal,1,3,2019-05-12 14:00:00,Jeff Hendrick,Chipped
+301255,64,Goal,0.9680000305175781,0.54,0.15947496891021729,Ashley Barnes,h,4422,OpenPlay,2018,Head,9575,Burnley,Arsenal,1,3,2019-05-12 14:00:00,Johann Berg Gudmundsson,Chipped
+301261,81,BlockedShot,0.9359999847412109,0.575999984741211,0.1315864771604538,Peter Crouch,h,872,OpenPlay,2018,LeftFoot,9575,Burnley,Arsenal,1,3,2019-05-12 14:00:00,Ashley Barnes,Pass
+301262,88,MissedShots,0.9059999847412109,0.51,0.036103542894124985,Ashley Barnes,h,4422,OpenPlay,2018,Head,9575,Burnley,Arsenal,1,3,2019-05-12 14:00:00,Johann Berg Gudmundsson,Aerial
+301235,3,ShotOnPost,0.9619999694824218,0.47299999237060547,0.643588125705719,Pierre-Emerick Aubameyang,a,318,SetPiece,2018,OtherBodyPart,9575,Burnley,Arsenal,1,3,2019-05-12 14:00:00,Henrikh Mkhitaryan,Cross
+301237,6,SavedShot,0.9159999847412109,0.2670000076293945,0.04093410074710846,Pierre-Emerick Aubameyang,a,318,OpenPlay,2018,RightFoot,9575,Burnley,Arsenal,1,3,2019-05-12 14:00:00,Shkodran Mustafi,Chipped
+301240,9,BlockedShot,0.9030000305175782,0.575,0.09225720167160034,Joe Willock,a,6630,OpenPlay,2018,LeftFoot,9575,Burnley,Arsenal,1,3,2019-05-12 14:00:00,Nacho Monreal,Cross
+301247,37,BlockedShot,0.754000015258789,0.52,0.021203186362981796,Mohamed Elneny,a,496,OpenPlay,2018,RightFoot,9575,Burnley,Arsenal,1,3,2019-05-12 14:00:00,,None
+301248,46,MissedShots,0.794000015258789,0.575,0.04040037840604782,Joe Willock,a,6630,OpenPlay,2018,RightFoot,9575,Burnley,Arsenal,1,3,2019-05-12 14:00:00,Alex Iwobi,Pass
+301249,51,Goal,0.855999984741211,0.5320000076293945,0.34982579946517944,Pierre-Emerick Aubameyang,a,318,OpenPlay,2018,RightFoot,9575,Burnley,Arsenal,1,3,2019-05-12 14:00:00,,BallRecovery
+301250,57,SavedShot,0.84,0.27700000762939453,0.031834714114665985,Henrikh Mkhitaryan,a,317,OpenPlay,2018,LeftFoot,9575,Burnley,Arsenal,1,3,2019-05-12 14:00:00,Stephan Lichtsteiner,Pass
+301251,58,BlockedShot,0.8090000152587891,0.509000015258789,0.06272763758897781,Pierre-Emerick Aubameyang,a,318,OpenPlay,2018,RightFoot,9575,Burnley,Arsenal,1,3,2019-05-12 14:00:00,,None
+301252,62,Goal,0.965999984741211,0.415,0.3348112106323242,Pierre-Emerick Aubameyang,a,318,OpenPlay,2018,RightFoot,9575,Burnley,Arsenal,1,3,2019-05-12 14:00:00,Alex Iwobi,Chipped
+301256,67,BlockedShot,0.9530000305175781,0.4,0.11752156913280487,Henrikh Mkhitaryan,a,317,OpenPlay,2018,RightFoot,9575,Burnley,Arsenal,1,3,2019-05-12 14:00:00,,None
+301257,69,SavedShot,0.7980000305175782,0.544000015258789,0.06068357080221176,Henrikh Mkhitaryan,a,317,OpenPlay,2018,RightFoot,9575,Burnley,Arsenal,1,3,2019-05-12 14:00:00,Mohamed Elneny,Pass
+301258,72,MissedShots,0.9519999694824218,0.500999984741211,0.6886195540428162,Pierre-Emerick Aubameyang,a,318,OpenPlay,2018,RightFoot,9575,Burnley,Arsenal,1,3,2019-05-12 14:00:00,Henrikh Mkhitaryan,Pass
+301259,78,BlockedShot,0.8569999694824219,0.47900001525878905,0.11284869909286499,Eddie Nketiah,a,6482,OpenPlay,2018,RightFoot,9575,Burnley,Arsenal,1,3,2019-05-12 14:00:00,Alex Iwobi,Pass
+301260,78,BlockedShot,0.88,0.7290000152587891,0.023758593946695328,Alex Iwobi,a,500,OpenPlay,2018,RightFoot,9575,Burnley,Arsenal,1,3,2019-05-12 14:00:00,Mohamed Elneny,Cross
+301263,90,BlockedShot,0.735999984741211,0.49,0.02728886902332306,Henrikh Mkhitaryan,a,317,OpenPlay,2018,RightFoot,9575,Burnley,Arsenal,1,3,2019-05-12 14:00:00,Mohamed Elneny,Pass
+301264,91,MissedShots,0.885,0.47200000762939454,0.13254016637802124,Pierre-Emerick Aubameyang,a,318,OpenPlay,2018,RightFoot,9575,Burnley,Arsenal,1,3,2019-05-12 14:00:00,Alex Iwobi,Pass
+301265,93,Goal,0.9640000152587891,0.6580000305175782,0.09191872179508209,Eddie Nketiah,a,6482,OpenPlay,2018,LeftFoot,9575,Burnley,Arsenal,1,3,2019-05-12 14:00:00,Alex Iwobi,Pass

@@ -1,0 +1,28 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+327134,8,MissedShots,0.8390000152587891,0.5220000076293946,0.04960843175649643,Robert Lewandowski,h,227,OpenPlay,2019,RightFoot,12476,Bayern Munich,Union Berlin,2,1,2019-10-26 14:30:00,Joshua Kimmich,Cross
+327135,12,Goal,0.8090000152587891,0.4570000076293945,0.017507901415228844,Benjamin Pavard,h,3363,SetPiece,2019,RightFoot,12476,Bayern Munich,Union Berlin,2,1,2019-10-26 14:30:00,,Aerial
+327136,20,SavedShot,0.784000015258789,0.49700000762939456,0.050372716039419174,Thomas Müller,h,224,OpenPlay,2019,RightFoot,12476,Bayern Munich,Union Berlin,2,1,2019-10-26 14:30:00,Joshua Kimmich,Pass
+327139,35,BlockedShot,0.8190000152587891,0.46599998474121096,0.07752779126167297,Philippe Coutinho,h,488,OpenPlay,2019,RightFoot,12476,Bayern Munich,Union Berlin,2,1,2019-10-26 14:30:00,Thomas Müller,Pass
+327140,41,BlockedShot,0.7530000305175781,0.625999984741211,0.01607588864862919,Alphonso Davies,h,7345,FromCorner,2019,LeftFoot,12476,Bayern Munich,Union Berlin,2,1,2019-10-26 14:30:00,,None
+327141,41,SavedShot,0.7969999694824219,0.720999984741211,0.02950391173362732,Philippe Coutinho,h,488,OpenPlay,2019,RightFoot,12476,Bayern Munich,Union Berlin,2,1,2019-10-26 14:30:00,Alphonso Davies,Pass
+327143,48,MissedShots,0.7809999847412109,0.6759999847412109,0.04409213364124298,Kingsley Coman,h,226,OpenPlay,2019,RightFoot,12476,Bayern Munich,Union Berlin,2,1,2019-10-26 14:30:00,Philippe Coutinho,Pass
+327144,52,Goal,0.835,0.500999984741211,0.3501017987728119,Robert Lewandowski,h,227,OpenPlay,2019,RightFoot,12476,Bayern Munich,Union Berlin,2,1,2019-10-26 14:30:00,,None
+327147,59,BlockedShot,0.8959999847412109,0.40799999237060547,0.13247771561145782,Thomas Müller,h,224,OpenPlay,2019,LeftFoot,12476,Bayern Munich,Union Berlin,2,1,2019-10-26 14:30:00,Ivan Perisic,Pass
+327148,59,BlockedShot,0.8069999694824219,0.475,0.08189015835523605,Joshua Kimmich,h,223,OpenPlay,2019,LeftFoot,12476,Bayern Munich,Union Berlin,2,1,2019-10-26 14:30:00,,TakeOn
+327149,64,SavedShot,0.8819999694824219,0.6430000305175781,0.07180093973875046,Robert Lewandowski,h,227,OpenPlay,2019,LeftFoot,12476,Bayern Munich,Union Berlin,2,1,2019-10-26 14:30:00,Thomas Müller,Cross
+327150,65,MissedShots,0.7440000152587891,0.49700000762939456,0.04574382305145264,Robert Lewandowski,h,227,OpenPlay,2019,RightFoot,12476,Bayern Munich,Union Berlin,2,1,2019-10-26 14:30:00,Thiago Alcántara,TakeOn
+327151,68,BlockedShot,0.86,0.325,0.06982720643281937,Robert Lewandowski,h,227,OpenPlay,2019,RightFoot,12476,Bayern Munich,Union Berlin,2,1,2019-10-26 14:30:00,Thomas Müller,Pass
+327152,69,SavedShot,0.899000015258789,0.5720000076293945,0.0555589534342289,Serge Gnabry,h,993,FromCorner,2019,RightFoot,12476,Bayern Munich,Union Berlin,2,1,2019-10-26 14:30:00,Joshua Kimmich,Cross
+327153,70,SavedShot,0.8809999847412109,0.3820000076293945,0.1072353944182396,Serge Gnabry,h,993,OpenPlay,2019,RightFoot,12476,Bayern Munich,Union Berlin,2,1,2019-10-26 14:30:00,Philippe Coutinho,Pass
+327154,78,SavedShot,0.9640000152587891,0.5270000076293946,0.1503039002418518,Thomas Müller,h,224,FromCorner,2019,RightFoot,12476,Bayern Munich,Union Berlin,2,1,2019-10-26 14:30:00,Serge Gnabry,Pass
+327155,81,MissedShots,0.8859999847412109,0.57,0.3696031868457794,Serge Gnabry,h,993,OpenPlay,2019,RightFoot,12476,Bayern Munich,Union Berlin,2,1,2019-10-26 14:30:00,Robert Lewandowski,Pass
+327156,82,SavedShot,0.799000015258789,0.28899999618530275,0.03661962226033211,Serge Gnabry,h,993,OpenPlay,2019,LeftFoot,12476,Bayern Munich,Union Berlin,2,1,2019-10-26 14:30:00,Corentin Tolisso,Pass
+327158,90,SavedShot,0.9359999847412109,0.49400001525878906,0.4702509939670563,Leon Goretzka,h,335,OpenPlay,2019,Head,12476,Bayern Munich,Union Berlin,2,1,2019-10-26 14:30:00,Joshua Kimmich,Chipped
+327159,90,BlockedShot,0.745999984741211,0.34299999237060547,0.02300213649868965,Leon Goretzka,h,335,OpenPlay,2019,RightFoot,12476,Bayern Munich,Union Berlin,2,1,2019-10-26 14:30:00,,BallRecovery
+327160,92,MissedShots,0.9640000152587891,0.5570000076293945,0.6356505155563354,Robert Lewandowski,h,227,OpenPlay,2019,LeftFoot,12476,Bayern Munich,Union Berlin,2,1,2019-10-26 14:30:00,Serge Gnabry,Pass
+327137,25,BlockedShot,0.794000015258789,0.2620000076293945,0.012153206393122673,Marvin Friedrich,a,370,SetPiece,2019,RightFoot,12476,Bayern Munich,Union Berlin,2,1,2019-10-26 14:30:00,,None
+327138,28,MissedShots,0.7230000305175781,0.5520000076293945,0.00990449171513319,Marcus Ingvartsen,a,7883,OpenPlay,2019,LeftFoot,12476,Bayern Munich,Union Berlin,2,1,2019-10-26 14:30:00,Sebastian Andersson,Aerial
+327142,48,SavedShot,0.8480000305175781,0.7609999847412109,0.026193588972091675,Christopher Lenz,a,7876,OpenPlay,2019,LeftFoot,12476,Bayern Munich,Union Berlin,2,1,2019-10-26 14:30:00,Christian Gentner,Pass
+327145,55,SavedShot,0.9469999694824218,0.425,0.16859444975852966,Christian Gentner,a,60,FromCorner,2019,Head,12476,Bayern Munich,Union Berlin,2,1,2019-10-26 14:30:00,Christopher Trimmel,Aerial
+327146,57,SavedShot,0.885,0.5,0.75777667760849,Sebastian Andersson,a,7880,Penalty,2019,RightFoot,12476,Bayern Munich,Union Berlin,2,1,2019-10-26 14:30:00,,Standard
+327157,85,Goal,0.885,0.5,0.75777667760849,Sebastian Polter,a,7881,Penalty,2019,RightFoot,12476,Bayern Munich,Union Berlin,2,1,2019-10-26 14:30:00,,Standard

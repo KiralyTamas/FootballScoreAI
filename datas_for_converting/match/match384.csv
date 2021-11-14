@@ -1,0 +1,27 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+61050,9,MissedShots,0.9290000152587891,0.4929999923706055,0.07173257321119308,Micah Richards,h,665,SetPiece,2015,Head,384,Aston Villa,Chelsea,0,4,2016-04-02 15:45:00,Carles Gil,Aerial
+61052,13,SavedShot,0.7680000305175781,0.8059999847412109,0.01605357602238655,Rudy Gestede,h,671,OpenPlay,2015,RightFoot,384,Aston Villa,Chelsea,0,4,2016-04-02 15:45:00,Aly Cissokho,Pass
+61053,17,MissedShots,0.7480000305175781,0.38,0.013177957385778427,Alan Hutton,h,663,OpenPlay,2015,RightFoot,384,Aston Villa,Chelsea,0,4,2016-04-02 15:45:00,Rudy Gestede,HeadPass
+61055,21,BlockedShot,0.8080000305175781,0.7380000305175781,0.018800659105181694,Jordan Ayew,h,672,OpenPlay,2015,RightFoot,384,Aston Villa,Chelsea,0,4,2016-04-02 15:45:00,,TakeOn
+61056,21,BlockedShot,0.865999984741211,0.6179999923706054,0.01148923859000206,Joleon Lescott,h,664,FromCorner,2015,Head,384,Aston Villa,Chelsea,0,4,2016-04-02 15:45:00,Ashley Westwood,Aerial
+61057,21,MissedShots,0.7580000305175781,0.5770000076293945,0.02417905256152153,Carlos Sánchez,h,667,FromCorner,2015,RightFoot,384,Aston Villa,Chelsea,0,4,2016-04-02 15:45:00,,Rebound
+61062,30,SavedShot,0.94,0.6780000305175782,0.044095445424318314,Carles Gil,h,670,OpenPlay,2015,LeftFoot,384,Aston Villa,Chelsea,0,4,2016-04-02 15:45:00,Jordan Ayew,Chipped
+61064,33,SavedShot,0.7930000305175782,0.664000015258789,0.07432085275650024,Jordan Ayew,h,672,DirectFreekick,2015,RightFoot,384,Aston Villa,Chelsea,0,4,2016-04-02 15:45:00,,Standard
+61066,39,BlockedShot,0.7719999694824219,0.5729999923706055,0.0296462569385767,Jordan Ayew,h,672,OpenPlay,2015,RightFoot,384,Aston Villa,Chelsea,0,4,2016-04-02 15:45:00,Carles Gil,Pass
+61067,40,MissedShots,0.865,0.5320000076293945,0.11360996961593628,Jordan Ayew,h,672,OpenPlay,2015,RightFoot,384,Aston Villa,Chelsea,0,4,2016-04-02 15:45:00,Carles Gil,TakeOn
+61076,49,SavedShot,0.7330000305175781,0.4759999847412109,0.014244758524000645,Jordan Ayew,h,672,OpenPlay,2015,RightFoot,384,Aston Villa,Chelsea,0,4,2016-04-02 15:45:00,Rudy Gestede,Pass
+61084,70,BlockedShot,0.7659999847412109,0.505,0.026235967874526978,Ashley Westwood,h,669,OpenPlay,2015,RightFoot,384,Aston Villa,Chelsea,0,4,2016-04-02 15:45:00,Jack Grealish,LayOff
+61086,70,BlockedShot,0.889000015258789,0.38,0.22215121984481812,Jordan Ayew,h,672,OpenPlay,2015,LeftFoot,384,Aston Villa,Chelsea,0,4,2016-04-02 15:45:00,Alan Hutton,TakeOn
+61088,71,MissedShots,0.7480000305175781,0.505,0.013747808523476124,Ashley Westwood,h,669,OpenPlay,2015,RightFoot,384,Aston Villa,Chelsea,0,4,2016-04-02 15:45:00,,None
+61093,87,MissedShots,0.9359999847412109,0.6659999847412109,0.0319126732647419,Jack Grealish,h,675,OpenPlay,2015,RightFoot,384,Aston Villa,Chelsea,0,4,2016-04-02 15:45:00,Jordan Ayew,Cross
+61051,10,MissedShots,0.7819999694824219,0.47200000762939454,0.057859860360622406,Pedro,a,687,FromCorner,2015,RightFoot,384,Aston Villa,Chelsea,0,4,2016-04-02 15:45:00,,TakeOn
+61059,25,Goal,0.885,0.44599998474121094,0.1186252161860466,Ruben Loftus-Cheek,a,688,OpenPlay,2015,RightFoot,384,Aston Villa,Chelsea,0,4,2016-04-02 15:45:00,César Azpilicueta,Pass
+61065,36,SavedShot,0.9490000152587891,0.6630000305175782,0.09250863641500473,Abdul Rahman Baba,a,684,OpenPlay,2015,LeftFoot,384,Aston Villa,Chelsea,0,4,2016-04-02 15:45:00,Cesc Fàbregas,Pass
+61069,44,MissedShots,0.825999984741211,0.5590000152587891,0.0736800953745842,Ruben Loftus-Cheek,a,688,OpenPlay,2015,RightFoot,384,Aston Villa,Chelsea,0,4,2016-04-02 15:45:00,,Interception
+61072,45,Goal,0.915,0.5220000076293946,0.5636656880378723,Pedro,a,687,OpenPlay,2015,LeftFoot,384,Aston Villa,Chelsea,0,4,2016-04-02 15:45:00,Oscar,Pass
+61071,47,Goal,0.885,0.5,0.7611688375473022,Alexandre Pato,a,691,Penalty,2015,RightFoot,384,Aston Villa,Chelsea,0,4,2016-04-02 15:45:00,,Standard
+61074,47,SavedShot,0.8580000305175781,0.7130000305175781,0.05336689203977585,Oscar,a,692,OpenPlay,2015,RightFoot,384,Aston Villa,Chelsea,0,4,2016-04-02 15:45:00,Ruben Loftus-Cheek,Pass
+61078,58,SavedShot,0.825999984741211,0.6719999694824219,0.05341200903058052,Alexandre Pato,a,691,OpenPlay,2015,RightFoot,384,Aston Villa,Chelsea,0,4,2016-04-02 15:45:00,Oscar,Pass
+61083,58,Goal,0.975999984741211,0.425,0.5768786072731018,Pedro,a,687,OpenPlay,2015,RightFoot,384,Aston Villa,Chelsea,0,4,2016-04-02 15:45:00,,Rebound
+61091,78,SavedShot,0.7280000305175781,0.740999984741211,0.03237674757838249,Branislav Ivanovic,a,682,DirectFreekick,2015,RightFoot,384,Aston Villa,Chelsea,0,4,2016-04-02 15:45:00,,Standard
+61092,83,MissedShots,0.9009999847412109,0.4570000076293945,0.14084462821483612,Abdul Rahman Baba,a,684,OpenPlay,2015,LeftFoot,384,Aston Villa,Chelsea,0,4,2016-04-02 15:45:00,Oscar,Throughball

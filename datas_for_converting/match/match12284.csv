@@ -1,0 +1,34 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+361767,1,MissedShots,0.9,0.5609999847412109,0.055832598358392715,Felipe,h,7921,FromCorner,2019,Head,12284,Atletico Madrid,Sevilla,2,2,2020-03-07 15:00:00,Kieran Trippier,Cross
+361768,5,BlockedShot,0.9130000305175782,0.6840000152587891,0.10950405895709991,Álvaro Morata,h,1804,OpenPlay,2019,LeftFoot,12284,Atletico Madrid,Sevilla,2,2,2020-03-07 15:00:00,João Félix,Throughball
+361770,12,BlockedShot,0.7380000305175781,0.485,0.02166399359703064,Koke,h,2269,OpenPlay,2019,RightFoot,12284,Atletico Madrid,Sevilla,2,2,2020-03-07 15:00:00,Álvaro Morata,Pass
+361774,20,BlockedShot,0.725,0.34400001525878904,0.015795934945344925,Ángel Correa,h,2275,OpenPlay,2019,RightFoot,12284,Atletico Madrid,Sevilla,2,2,2020-03-07 15:00:00,João Félix,Pass
+361775,25,BlockedShot,0.7480000305175781,0.39799999237060546,0.06429066509008408,Saúl Ñíguez,h,2266,DirectFreekick,2019,LeftFoot,12284,Atletico Madrid,Sevilla,2,2,2020-03-07 15:00:00,,Standard
+361776,26,BlockedShot,0.9019999694824219,0.5709999847412109,0.05267168954014778,Felipe,h,7921,FromCorner,2019,Head,12284,Atletico Madrid,Sevilla,2,2,2020-03-07 15:00:00,Kieran Trippier,Cross
+361777,31,Goal,0.885,0.5,0.7432776093482971,Álvaro Morata,h,1804,Penalty,2019,RightFoot,12284,Atletico Madrid,Sevilla,2,2,2020-03-07 15:00:00,,Standard
+361778,35,Goal,0.9119999694824219,0.645,0.2906096577644348,João Félix,h,7892,OpenPlay,2019,LeftFoot,12284,Atletico Madrid,Sevilla,2,2,2020-03-07 15:00:00,Koke,Pass
+361783,47,BlockedShot,0.9130000305175782,0.3340000152587891,0.05267859622836113,Mario Hermoso,h,6136,FromCorner,2019,RightFoot,12284,Atletico Madrid,Sevilla,2,2,2020-03-07 15:00:00,,None
+361784,47,MissedShots,0.9059999847412109,0.545,0.07305876910686493,Felipe,h,7921,FromCorner,2019,Head,12284,Atletico Madrid,Sevilla,2,2,2020-03-07 15:00:00,Koke,Cross
+361786,53,MissedShots,0.75,0.475,0.029832815751433372,João Félix,h,7892,OpenPlay,2019,RightFoot,12284,Atletico Madrid,Sevilla,2,2,2020-03-07 15:00:00,Álvaro Morata,HeadPass
+361787,56,BlockedShot,0.7719999694824219,0.6680000305175782,0.01729854941368103,Saúl Ñíguez,h,2266,OpenPlay,2019,RightFoot,12284,Atletico Madrid,Sevilla,2,2,2020-03-07 15:00:00,,None
+361788,56,MissedShots,0.745,0.5879999923706055,0.015530477277934551,João Félix,h,7892,OpenPlay,2019,RightFoot,12284,Atletico Madrid,Sevilla,2,2,2020-03-07 15:00:00,,Rebound
+361789,59,BlockedShot,0.8159999847412109,0.485,0.0645861029624939,Ángel Correa,h,2275,OpenPlay,2019,LeftFoot,12284,Atletico Madrid,Sevilla,2,2,2020-03-07 15:00:00,João Félix,Pass
+361791,63,SavedShot,0.7680000305175781,0.585,0.026905788108706474,Yannick Carrasco,h,2272,OpenPlay,2019,LeftFoot,12284,Atletico Madrid,Sevilla,2,2,2020-03-07 15:00:00,Koke,Pass
+361792,63,MissedShots,0.98,0.41900001525878905,0.13031375408172607,Álvaro Morata,h,1804,OpenPlay,2019,RightFoot,12284,Atletico Madrid,Sevilla,2,2,2020-03-07 15:00:00,,Rebound
+361793,68,MissedShots,0.8880000305175781,0.435,0.0926763191819191,Diego Costa,h,802,OpenPlay,2019,RightFoot,12284,Atletico Madrid,Sevilla,2,2,2020-03-07 15:00:00,,Dispossessed
+361794,69,MissedShots,0.9019999694824219,0.534000015258789,0.08735040575265884,Yannick Carrasco,h,2272,OpenPlay,2019,RightFoot,12284,Atletico Madrid,Sevilla,2,2,2020-03-07 15:00:00,,None
+361797,86,MissedShots,0.9290000152587891,0.625,0.018334122374653816,Saúl Ñíguez,h,2266,OpenPlay,2019,Head,12284,Atletico Madrid,Sevilla,2,2,2020-03-07 15:00:00,Kieran Trippier,Aerial
+361798,88,MissedShots,0.9319999694824219,0.509000015258789,0.0682448223233223,Diego Costa,h,802,FromCorner,2019,Head,12284,Atletico Madrid,Sevilla,2,2,2020-03-07 15:00:00,Kieran Trippier,Aerial
+361799,94,MissedShots,0.7609999847412109,0.6270000076293946,0.02157810889184475,Marcos Llorente,h,2518,OpenPlay,2019,LeftFoot,12284,Atletico Madrid,Sevilla,2,2,2020-03-07 15:00:00,Koke,Pass
+361769,11,MissedShots,0.9119999694824219,0.664000015258789,0.06530545651912689,Lucas Ocampos,a,1109,OpenPlay,2019,LeftFoot,12284,Atletico Madrid,Sevilla,2,2,2020-03-07 15:00:00,Joan Jordán,Pass
+361771,15,SavedShot,0.7469999694824219,0.6480000305175782,0.020745249465107918,Suso,a,1129,OpenPlay,2019,LeftFoot,12284,Atletico Madrid,Sevilla,2,2,2020-03-07 15:00:00,Nemanja Gudelj,Pass
+361772,15,MissedShots,0.9819999694824219,0.34299999237060547,0.05898949131369591,Lucas Ocampos,a,1109,OpenPlay,2019,RightFoot,12284,Atletico Madrid,Sevilla,2,2,2020-03-07 15:00:00,,Rebound
+361773,18,Goal,0.895,0.41200000762939454,0.3913308084011078,Luuk de Jong,a,7887,OpenPlay,2019,RightFoot,12284,Atletico Madrid,Sevilla,2,2,2020-03-07 15:00:00,Joan Jordán,Pass
+361779,37,BlockedShot,0.92,0.2560000038146973,0.023342939093708992,Jesús Navas,a,616,OpenPlay,2019,RightFoot,12284,Atletico Madrid,Sevilla,2,2,2020-03-07 15:00:00,Lucas Ocampos,Cross
+361780,37,BlockedShot,0.9669999694824218,0.3340000152587891,0.049677975475788116,Joan Jordán,a,2122,OpenPlay,2019,LeftFoot,12284,Atletico Madrid,Sevilla,2,2,2020-03-07 15:00:00,Jesús Navas,TakeOn
+361781,37,SavedShot,0.9719999694824218,0.5940000152587891,0.081235371530056,Sergio Reguilón,a,7187,OpenPlay,2019,Head,12284,Atletico Madrid,Sevilla,2,2,2020-03-07 15:00:00,Jesús Navas,Cross
+361782,42,Goal,0.885,0.5,0.7432776093482971,Lucas Ocampos,a,1109,Penalty,2019,RightFoot,12284,Atletico Madrid,Sevilla,2,2,2020-03-07 15:00:00,,Standard
+361785,50,MissedShots,0.7659999847412109,0.590999984741211,0.024153700098395348,Nemanja Gudelj,a,7888,OpenPlay,2019,RightFoot,12284,Atletico Madrid,Sevilla,2,2,2020-03-07 15:00:00,Sergio Reguilón,Pass
+361790,62,BlockedShot,0.9059999847412109,0.6969999694824218,0.048878178000450134,Sergio Reguilón,a,7187,SetPiece,2019,RightFoot,12284,Atletico Madrid,Sevilla,2,2,2020-03-07 15:00:00,,Tackle
+361795,78,BlockedShot,0.95,0.475,0.08571229130029678,Jules Koundé,a,6433,FromCorner,2019,Head,12284,Atletico Madrid,Sevilla,2,2,2020-03-07 15:00:00,Éver Banega,Aerial
+361796,85,MissedShots,0.76,0.4129999923706055,0.023959074169397354,Jesús Navas,a,616,OpenPlay,2019,RightFoot,12284,Atletico Madrid,Sevilla,2,2,2020-03-07 15:00:00,Sergio Reguilón,Pass

@@ -1,0 +1,35 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+255959,4,BlockedShot,0.885,0.445,0.1199425607919693,James Rodríguez,h,2249,OpenPlay,2018,RightFoot,10422,Bayern Munich,Freiburg,1,1,2018-11-03 14:30:00,Arjen Robben,Pass
+255960,14,BlockedShot,0.7580000305175781,0.5329999923706055,0.02593003399670124,James Rodríguez,h,2249,OpenPlay,2018,LeftFoot,10422,Bayern Munich,Freiburg,1,1,2018-11-03 14:30:00,Arjen Robben,Pass
+255963,23,BlockedShot,0.8030000305175782,0.36,0.0354289636015892,Serge Gnabry,h,993,OpenPlay,2018,LeftFoot,10422,Bayern Munich,Freiburg,1,1,2018-11-03 14:30:00,Rafinha,Pass
+255964,23,BlockedShot,0.755,0.295,0.014381060376763344,Serge Gnabry,h,993,OpenPlay,2018,RightFoot,10422,Bayern Munich,Freiburg,1,1,2018-11-03 14:30:00,James Rodríguez,TakeOn
+255965,25,SavedShot,0.91,0.6370000076293946,0.28292325139045715,Robert Lewandowski,h,227,OpenPlay,2018,RightFoot,10422,Bayern Munich,Freiburg,1,1,2018-11-03 14:30:00,Serge Gnabry,Pass
+255966,26,BlockedShot,0.795,0.4640000152587891,0.039712514728307724,Robert Lewandowski,h,227,OpenPlay,2018,LeftFoot,10422,Bayern Munich,Freiburg,1,1,2018-11-03 14:30:00,James Rodríguez,Pass
+255967,27,BlockedShot,0.9130000305175782,0.575999984741211,0.018284382298588753,Niklas Süle,h,75,FromCorner,2018,Head,10422,Bayern Munich,Freiburg,1,1,2018-11-03 14:30:00,James Rodríguez,Aerial
+255968,29,BlockedShot,0.6940000152587891,0.605,0.011714300140738487,Renato Sanches,h,5228,OpenPlay,2018,RightFoot,10422,Bayern Munich,Freiburg,1,1,2018-11-03 14:30:00,Serge Gnabry,Pass
+255969,31,MissedShots,0.730999984741211,0.6569999694824219,0.01784449629485607,David Alaba,h,391,OpenPlay,2018,LeftFoot,10422,Bayern Munich,Freiburg,1,1,2018-11-03 14:30:00,Joshua Kimmich,Pass
+255970,33,SavedShot,0.870999984741211,0.32799999237060545,0.059009451419115067,Arjen Robben,h,392,OpenPlay,2018,LeftFoot,10422,Bayern Munich,Freiburg,1,1,2018-11-03 14:30:00,James Rodríguez,HeadPass
+255971,44,SavedShot,0.870999984741211,0.4879999923706055,0.06352715194225311,Arjen Robben,h,392,OpenPlay,2018,OtherBodyPart,10422,Bayern Munich,Freiburg,1,1,2018-11-03 14:30:00,Jérôme Boateng,Chipped
+255972,46,SavedShot,0.8769999694824219,0.549000015258789,0.08265180140733719,James Rodríguez,h,2249,OpenPlay,2018,LeftFoot,10422,Bayern Munich,Freiburg,1,1,2018-11-03 14:30:00,,None
+255974,55,BlockedShot,0.7390000152587891,0.4179999923706055,0.0188630111515522,Renato Sanches,h,5228,OpenPlay,2018,LeftFoot,10422,Bayern Munich,Freiburg,1,1,2018-11-03 14:30:00,Arjen Robben,Pass
+255975,56,SavedShot,0.9619999694824218,0.595999984741211,0.10506538301706314,James Rodríguez,h,2249,OpenPlay,2018,LeftFoot,10422,Bayern Munich,Freiburg,1,1,2018-11-03 14:30:00,,BallTouch
+255976,59,MissedShots,0.9480000305175781,0.5779999923706055,0.041932858526706696,Arjen Robben,h,392,FromCorner,2018,Head,10422,Bayern Munich,Freiburg,1,1,2018-11-03 14:30:00,James Rodríguez,Aerial
+255978,63,MissedShots,0.7280000305175781,0.7269999694824218,0.012302820570766926,Renato Sanches,h,5228,OpenPlay,2018,RightFoot,10422,Bayern Munich,Freiburg,1,1,2018-11-03 14:30:00,Franck Ribéry,Pass
+255980,65,BlockedShot,0.769000015258789,0.6329999923706054,0.06942114979028702,Robert Lewandowski,h,227,DirectFreekick,2018,RightFoot,10422,Bayern Munich,Freiburg,1,1,2018-11-03 14:30:00,,Standard
+255981,65,MissedShots,0.835999984741211,0.66,0.028341924771666527,Robert Lewandowski,h,227,SetPiece,2018,LeftFoot,10422,Bayern Munich,Freiburg,1,1,2018-11-03 14:30:00,,Rebound
+255982,65,BlockedShot,0.8,0.35400001525878905,0.02588472329080105,Rafinha,h,221,SetPiece,2018,RightFoot,10422,Bayern Munich,Freiburg,1,1,2018-11-03 14:30:00,Franck Ribéry,Pass
+255985,76,MissedShots,0.8519999694824218,0.3509999847412109,0.04849342256784439,Serge Gnabry,h,993,SetPiece,2018,RightFoot,10422,Bayern Munich,Freiburg,1,1,2018-11-03 14:30:00,Joshua Kimmich,Pass
+255986,79,Goal,0.8959999847412109,0.3579999923706055,0.08411012589931488,Serge Gnabry,h,993,OpenPlay,2018,RightFoot,10422,Bayern Munich,Freiburg,1,1,2018-11-03 14:30:00,Rafinha,Pass
+255988,84,MissedShots,0.805,0.67,0.038482505828142166,Franck Ribéry,h,329,OpenPlay,2018,RightFoot,10422,Bayern Munich,Freiburg,1,1,2018-11-03 14:30:00,Renato Sanches,Pass
+255990,94,BlockedShot,0.805,0.40400001525878904,0.0177245382219553,Rafinha,h,221,FromCorner,2018,RightFoot,10422,Bayern Munich,Freiburg,1,1,2018-11-03 14:30:00,,Aerial
+255991,94,MissedShots,0.9490000152587891,0.49700000762939456,0.6046067476272583,Robert Lewandowski,h,227,FromCorner,2018,RightFoot,10422,Bayern Munich,Freiburg,1,1,2018-11-03 14:30:00,Rafinha,Rebound
+255958,0,MissedShots,0.710999984741211,0.629000015258789,0.010531754232943058,Nicolas Höfler,a,4250,OpenPlay,2018,RightFoot,10422,Bayern Munich,Freiburg,1,1,2018-11-03 14:30:00,,None
+255961,15,MissedShots,0.745,0.24600000381469728,0.01058452483266592,Pascal Stenzel,a,326,OpenPlay,2018,RightFoot,10422,Bayern Munich,Freiburg,1,1,2018-11-03 14:30:00,Christian Günter,Cross
+255962,18,BlockedShot,0.7430000305175781,0.72,0.013055034913122654,Robin Koch,a,6273,OpenPlay,2018,RightFoot,10422,Bayern Munich,Freiburg,1,1,2018-11-03 14:30:00,Janik Haberer,Pass
+255973,48,BlockedShot,0.8040000152587891,0.7019999694824218,0.020823296159505844,Christian Günter,a,4243,OpenPlay,2018,LeftFoot,10422,Bayern Munich,Freiburg,1,1,2018-11-03 14:30:00,,None
+255977,61,BlockedShot,0.84,0.725999984741211,0.029020436108112335,Tim Kleindienst,a,6142,OpenPlay,2018,LeftFoot,10422,Bayern Munich,Freiburg,1,1,2018-11-03 14:30:00,Janik Haberer,Pass
+255979,63,MissedShots,0.9569999694824218,0.3529999923706055,0.03531995788216591,Mike Frantz,a,4246,OpenPlay,2018,RightFoot,10422,Bayern Munich,Freiburg,1,1,2018-11-03 14:30:00,Janik Haberer,Cross
+255983,68,MissedShots,0.7369999694824219,0.7019999694824218,0.014380017295479774,Janik Haberer,a,4271,OpenPlay,2018,RightFoot,10422,Bayern Munich,Freiburg,1,1,2018-11-03 14:30:00,Lucas Höler,Pass
+255984,69,BlockedShot,0.7719999694824219,0.705,0.020454175770282745,Christian Günter,a,4243,OpenPlay,2018,LeftFoot,10422,Bayern Munich,Freiburg,1,1,2018-11-03 14:30:00,Nicolas Höfler,Pass
+255987,83,BlockedShot,0.874000015258789,0.40599998474121096,0.08528517931699753,Nicolas Höfler,a,4250,OpenPlay,2018,RightFoot,10422,Bayern Munich,Freiburg,1,1,2018-11-03 14:30:00,Lucas Höler,Pass
+255989,88,Goal,0.9,0.5029999923706054,0.35300412774086,Lucas Höler,a,6475,OpenPlay,2018,RightFoot,10422,Bayern Munich,Freiburg,1,1,2018-11-03 14:30:00,Christian Günter,Cross

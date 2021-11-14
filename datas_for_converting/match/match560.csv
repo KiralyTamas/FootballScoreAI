@@ -1,0 +1,40 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+93102,1,BlockedShot,0.7519999694824219,0.4470000076293945,0.022953864187002182,Federico Dionisi,h,1867,OpenPlay,2015,RightFoot,560,Frosinone,Torino,1,2,2015-08-23 22:45:00,Luca Paganini,Pass
+93103,6,Goal,0.9369999694824219,0.505,0.47708943486213684,Danilo Soddimo,h,1871,OpenPlay,2015,RightFoot,560,Frosinone,Torino,1,2,2015-08-23 22:45:00,Luca Paganini,Cross
+93106,13,BlockedShot,0.8030000305175782,0.39,0.02844485267996788,Danilo Soddimo,h,1871,SetPiece,2015,RightFoot,560,Frosinone,Torino,1,2,2015-08-23 22:45:00,,None
+93107,15,MissedShots,0.9259999847412109,0.47400001525878904,0.07672581076622009,Luca Paganini,h,1963,OpenPlay,2015,Head,560,Frosinone,Torino,1,2,2015-08-23 22:45:00,Roberto Crivello,Aerial
+93109,20,MissedShots,0.6040000152587891,0.4,0.006455527618527412,Mirko Gori,h,1864,OpenPlay,2015,LeftFoot,560,Frosinone,Torino,1,2,2015-08-23 22:45:00,Aleandro Rosi,TakeOn
+93112,24,SavedShot,0.7559999847412109,0.43900001525878907,0.023648682981729507,Mirko Gori,h,1864,OpenPlay,2015,LeftFoot,560,Frosinone,Torino,1,2,2015-08-23 22:45:00,Robert Gucher,TakeOn
+93118,38,BlockedShot,0.850999984741211,0.685,0.04890086129307747,Federico Dionisi,h,1867,OpenPlay,2015,RightFoot,560,Frosinone,Torino,1,2,2015-08-23 22:45:00,Samuele Longo,Chipped
+93132,66,MissedShots,0.919000015258789,0.47200000762939454,0.09418120980262756,Modibo Diakité,h,1807,FromCorner,2015,Head,560,Frosinone,Torino,1,2,2015-08-23 22:45:00,Robert Gucher,Cross
+93133,75,MissedShots,0.7040000152587891,0.42,0.00947774387896061,Robert Gucher,h,1869,OpenPlay,2015,RightFoot,560,Frosinone,Torino,1,2,2015-08-23 22:45:00,Modibo Diakité,BallRecovery
+93135,79,MissedShots,0.6869999694824219,0.664000015258789,0.011884908191859722,Robert Gucher,h,1869,OpenPlay,2015,RightFoot,560,Frosinone,Torino,1,2,2015-08-23 22:45:00,Roberto Crivello,Pass
+93136,82,BlockedShot,0.8159999847412109,0.34,0.03351711481809616,Samuele Longo,h,1874,OpenPlay,2015,LeftFoot,560,Frosinone,Torino,1,2,2015-08-23 22:45:00,Luca Paganini,Pass
+93137,84,SavedShot,0.7040000152587891,0.5979999923706054,0.011661001481115818,Daniele Verde,h,2044,OpenPlay,2015,LeftFoot,560,Frosinone,Torino,1,2,2015-08-23 22:45:00,Roberto Crivello,Tackle
+93138,86,MissedShots,0.9119999694824219,0.68,0.05016801506280899,Roberto Crivello,h,1862,OpenPlay,2015,LeftFoot,560,Frosinone,Torino,1,2,2015-08-23 22:45:00,,None
+93104,7,SavedShot,0.9490000152587891,0.51,0.20875155925750732,Fabio Quagliarella,a,1230,FromCorner,2015,Head,560,Frosinone,Torino,1,2,2015-08-23 22:45:00,Nikola Maksimovic,End
+93105,8,BlockedShot,0.9159999847412109,0.4929999923706055,0.0946522131562233,Nikola Maksimovic,a,1377,FromCorner,2015,Head,560,Frosinone,Torino,1,2,2015-08-23 22:45:00,Daniele Baselli,Cross
+93108,17,MissedShots,0.805,0.7559999847412109,0.016997506842017174,Daniele Baselli,a,1182,OpenPlay,2015,RightFoot,560,Frosinone,Torino,1,2,2015-08-23 22:45:00,Danilo Avelar,Pass
+93110,22,SavedShot,0.9619999694824218,0.46,0.12778012454509735,Maxi López,a,1188,FromCorner,2015,RightFoot,560,Frosinone,Torino,1,2,2015-08-23 22:45:00,Kamil Glik,HeadPass
+93111,22,MissedShots,0.9130000305175782,0.4779999923706055,0.08563337475061417,Kamil Glik,a,1800,FromCorner,2015,Head,560,Frosinone,Torino,1,2,2015-08-23 22:45:00,Daniele Baselli,Cross
+93113,26,BlockedShot,0.97,0.5829999923706055,0.3000671863555908,Fabio Quagliarella,a,1230,OpenPlay,2015,Head,560,Frosinone,Torino,1,2,2015-08-23 22:45:00,Marco Benassi,Cross
+93114,27,BlockedShot,0.7909999847412109,0.375,0.030090274289250374,Marco Benassi,a,1183,OpenPlay,2015,RightFoot,560,Frosinone,Torino,1,2,2015-08-23 22:45:00,Danilo Avelar,Pass
+93115,29,BlockedShot,0.759000015258789,0.4279999923706055,0.020484130829572678,Bruno Peres,a,1567,OpenPlay,2015,RightFoot,560,Frosinone,Torino,1,2,2015-08-23 22:45:00,Nikola Maksimovic,TakeOn
+93116,34,MissedShots,0.914000015258789,0.6020000076293945,0.05368504300713539,Maxi López,a,1188,OpenPlay,2015,Head,560,Frosinone,Torino,1,2,2015-08-23 22:45:00,Danilo Avelar,Cross
+93117,37,BlockedShot,0.8059999847412109,0.5470000076293945,0.036384597420692444,Fabio Quagliarella,a,1230,OpenPlay,2015,LeftFoot,560,Frosinone,Torino,1,2,2015-08-23 22:45:00,Maxi López,Pass
+93119,38,MissedShots,0.7530000305175781,0.5070000076293946,0.025403844192624092,Marco Benassi,a,1183,OpenPlay,2015,LeftFoot,560,Frosinone,Torino,1,2,2015-08-23 22:45:00,Daniele Baselli,Pass
+93120,44,BlockedShot,0.91,0.415,0.08053765445947647,Marco Benassi,a,1183,OpenPlay,2015,RightFoot,560,Frosinone,Torino,1,2,2015-08-23 22:45:00,Fabio Quagliarella,HeadPass
+93121,49,MissedShots,0.8540000152587891,0.40400001525878904,0.06852339953184128,Fabio Quagliarella,a,1230,OpenPlay,2015,RightFoot,560,Frosinone,Torino,1,2,2015-08-23 22:45:00,Nikola Maksimovic,Pass
+93122,50,SavedShot,0.79,0.5629999923706055,0.03397185355424881,Alessandro Gazzi,a,1269,OpenPlay,2015,LeftFoot,560,Frosinone,Torino,1,2,2015-08-23 22:45:00,,None
+93123,51,BlockedShot,0.9619999694824218,0.6309999847412109,0.16657844185829163,Fabio Quagliarella,a,1230,OpenPlay,2015,LeftFoot,560,Frosinone,Torino,1,2,2015-08-23 22:45:00,Marco Benassi,TakeOn
+93124,52,BlockedShot,0.789000015258789,0.6759999847412109,0.02374141663312912,Daniele Baselli,a,1182,OpenPlay,2015,LeftFoot,560,Frosinone,Torino,1,2,2015-08-23 22:45:00,Bruno Peres,Pass
+93125,52,MissedShots,0.759000015258789,0.41900001525878905,0.022151615470647812,Bruno Peres,a,1567,OpenPlay,2015,RightFoot,560,Frosinone,Torino,1,2,2015-08-23 22:45:00,Marco Benassi,Pass
+93126,55,BlockedShot,0.8009999847412109,0.49700000762939456,0.04858328029513359,Fabio Quagliarella,a,1230,OpenPlay,2015,RightFoot,560,Frosinone,Torino,1,2,2015-08-23 22:45:00,Danilo Avelar,Pass
+93127,58,Goal,0.9130000305175782,0.46799999237060547,0.10693401843309402,Fabio Quagliarella,a,1230,OpenPlay,2015,LeftFoot,560,Frosinone,Torino,1,2,2015-08-23 22:45:00,Danilo Avelar,Cross
+93128,62,SavedShot,0.7619999694824219,0.43900001525878907,0.026596182957291603,Josef Martínez,a,1198,OpenPlay,2015,RightFoot,560,Frosinone,Torino,1,2,2015-08-23 22:45:00,Nikola Maksimovic,Pass
+93129,62,BlockedShot,0.8969999694824219,0.6430000305175781,0.061702873557806015,Danilo Avelar,a,1933,OpenPlay,2015,LeftFoot,560,Frosinone,Torino,1,2,2015-08-23 22:45:00,,Rebound
+93130,63,Goal,0.7959999847412109,0.6140000152587891,0.046966053545475006,Daniele Baselli,a,1182,FromCorner,2015,RightFoot,560,Frosinone,Torino,1,2,2015-08-23 22:45:00,Danilo Avelar,TakeOn
+93131,65,MissedShots,0.9219999694824219,0.4929999923706055,0.13753698766231537,Danilo Avelar,a,1933,OpenPlay,2015,Head,560,Frosinone,Torino,1,2,2015-08-23 22:45:00,Bruno Peres,Cross
+93134,77,MissedShots,0.889000015258789,0.47,0.10643976926803589,Josef Martínez,a,1198,OpenPlay,2015,RightFoot,560,Frosinone,Torino,1,2,2015-08-23 22:45:00,Bruno Peres,Cross
+93139,92,BlockedShot,0.91,0.23700000762939452,0.04226752743124962,Afriyie Acquah,a,1192,OpenPlay,2015,RightFoot,560,Frosinone,Torino,1,2,2015-08-23 22:45:00,Josef Martínez,Pass
+93140,95,MissedShots,0.784000015258789,0.305,0.026491478085517883,Afriyie Acquah,a,1192,OpenPlay,2015,RightFoot,560,Frosinone,Torino,1,2,2015-08-23 22:45:00,Josef Martínez,HeadPass

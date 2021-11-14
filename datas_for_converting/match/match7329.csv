@@ -1,0 +1,24 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+186374,3,MissedShots,0.789000015258789,0.3370000076293945,0.025390705093741417,Manuel Lanzini,h,535,OpenPlay,2017,RightFoot,7329,West Ham,West Bromwich Albion,2,1,2018-01-02 19:45:00,,BallRecovery
+186375,5,BlockedShot,0.8480000305175781,0.415,0.062305837869644165,Manuel Lanzini,h,535,OpenPlay,2017,LeftFoot,7329,West Ham,West Bromwich Albion,2,1,2018-01-02 19:45:00,Pablo Zabaleta,Pass
+186376,9,MissedShots,0.6769999694824219,0.7240000152587891,0.009184428490698338,Aaron Cresswell,h,534,OpenPlay,2017,LeftFoot,7329,West Ham,West Bromwich Albion,2,1,2018-01-02 19:45:00,Manuel Lanzini,Pass
+186378,20,SavedShot,0.8730000305175781,0.43,0.07323647290468216,Manuel Lanzini,h,535,OpenPlay,2017,RightFoot,7329,West Ham,West Bromwich Albion,2,1,2018-01-02 19:45:00,Andy Carroll,HeadPass
+186379,22,MissedShots,0.785,0.37400001525878906,0.028480136767029762,Andy Carroll,h,537,OpenPlay,2017,LeftFoot,7329,West Ham,West Bromwich Albion,2,1,2018-01-02 19:45:00,Cheikhou Kouyaté,Tackle
+186383,37,SavedShot,0.845999984741211,0.6,0.04349219426512718,Manuel Lanzini,h,535,OpenPlay,2017,RightFoot,7329,West Ham,West Bromwich Albion,2,1,2018-01-02 19:45:00,Cheikhou Kouyaté,Chipped
+186387,45,MissedShots,0.889000015258789,0.5179999923706055,0.08894045650959015,Andy Carroll,h,537,OpenPlay,2017,LeftFoot,7329,West Ham,West Bromwich Albion,2,1,2018-01-02 19:45:00,Pablo Zabaleta,Pass
+186386,47,MissedShots,0.85,0.48700000762939455,0.018799958750605583,Cheikhou Kouyaté,h,532,SetPiece,2017,Head,7329,West Ham,West Bromwich Albion,2,1,2018-01-02 19:45:00,Andy Carroll,Cross
+186390,56,BlockedShot,0.8540000152587891,0.740999984741211,0.024657562375068665,Arthur Masuaku,h,1760,OpenPlay,2017,LeftFoot,7329,West Ham,West Bromwich Albion,2,1,2018-01-02 19:45:00,Marko Arnautovic,BallRecovery
+186391,58,Goal,0.9219999694824219,0.49900001525878906,0.2991741895675659,Andy Carroll,h,537,OpenPlay,2017,Head,7329,West Ham,West Bromwich Albion,2,1,2018-01-02 19:45:00,Aaron Cresswell,Aerial
+186392,66,SavedShot,0.9130000305175782,0.654000015258789,0.2763451337814331,Marko Arnautovic,h,865,OpenPlay,2017,RightFoot,7329,West Ham,West Bromwich Albion,2,1,2018-01-02 19:45:00,Manuel Lanzini,Pass
+186394,86,BlockedShot,0.8780000305175781,0.7290000152587891,0.029660025611519814,Marko Arnautovic,h,865,OpenPlay,2017,RightFoot,7329,West Ham,West Bromwich Albion,2,1,2018-01-02 19:45:00,Chicharito,Chipped
+186396,93,Goal,0.9530000305175781,0.33599998474121096,0.07973738759756088,Andy Carroll,h,537,OpenPlay,2017,RightFoot,7329,West Ham,West Bromwich Albion,2,1,2018-01-02 19:45:00,Marko Arnautovic,Pass
+186377,12,MissedShots,0.774000015258789,0.375,0.02326836623251438,Salomón Rondón,a,813,OpenPlay,2017,RightFoot,7329,West Ham,West Bromwich Albion,2,1,2018-01-02 19:45:00,Craig Dawson,TakeOn
+186380,23,SavedShot,0.7559999847412109,0.6869999694824219,0.018830863758921623,James McClean,a,814,OpenPlay,2017,LeftFoot,7329,West Ham,West Bromwich Albion,2,1,2018-01-02 19:45:00,Kieran Gibbs,Pass
+186381,25,MissedShots,0.705,0.5379999923706055,0.016458958387374878,Jay Rodriguez,a,844,OpenPlay,2017,RightFoot,7329,West Ham,West Bromwich Albion,2,1,2018-01-02 19:45:00,Claudio Yacob,Pass
+186382,29,Goal,0.7809999847412109,0.47200000762939454,0.09915075451135635,James McClean,a,814,OpenPlay,2017,LeftFoot,7329,West Ham,West Bromwich Albion,2,1,2018-01-02 19:45:00,Salomón Rondón,TakeOn
+186384,40,MissedShots,0.745,0.45599998474121095,0.027688192203640938,Claudio Yacob,a,808,OpenPlay,2017,RightFoot,7329,West Ham,West Bromwich Albion,2,1,2018-01-02 19:45:00,,None
+186385,44,SavedShot,0.9290000152587891,0.500999984741211,0.10333915799856186,Jonny Evans,a,807,SetPiece,2017,RightFoot,7329,West Ham,West Bromwich Albion,2,1,2018-01-02 19:45:00,,BallTouch
+186388,51,MissedShots,0.700999984741211,0.705,0.01437343843281269,James McClean,a,814,OpenPlay,2017,RightFoot,7329,West Ham,West Bromwich Albion,2,1,2018-01-02 19:45:00,Jay Rodriguez,Pass
+186389,54,MissedShots,0.4420000076293945,0.4640000152587891,0.006698270328342915,Salomón Rondón,a,813,OpenPlay,2017,RightFoot,7329,West Ham,West Bromwich Albion,2,1,2018-01-02 19:45:00,Grzegorz Krychowiak,BallRecovery
+186393,73,BlockedShot,0.8690000152587891,0.49900001525878906,0.2558044493198395,Oliver Burke,a,5256,OpenPlay,2017,RightFoot,7329,West Ham,West Bromwich Albion,2,1,2018-01-02 19:45:00,Salomón Rondón,BallRecovery
+186395,89,MissedShots,0.9130000305175782,0.4279999923706055,0.06976763159036636,Oliver Burke,a,5256,OpenPlay,2017,RightFoot,7329,West Ham,West Bromwich Albion,2,1,2018-01-02 19:45:00,,Aerial

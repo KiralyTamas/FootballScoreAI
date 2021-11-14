@@ -1,0 +1,19 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+24565,26,MissedShots,0.725999984741211,0.5129999923706055,0.019296366721391678,Sidney Sam,h,2690,OpenPlay,2014,LeftFoot,5462,Schalke 04,Bayern Munich,1,1,2014-08-30 17:30:00,Julian Draxler,Pass
+24567,38,BlockedShot,0.7709999847412109,0.4640000152587891,0.08818983286619186,Kaan Ayhan,h,347,DirectFreekick,2014,RightFoot,5462,Schalke 04,Bayern Munich,1,1,2014-08-30 17:30:00,,Standard
+24568,40,MissedShots,0.5429999923706055,0.33599998474121096,0.006980553735047579,Kaan Ayhan,h,347,OpenPlay,2014,RightFoot,5462,Schalke 04,Bayern Munich,1,1,2014-08-30 17:30:00,,None
+24569,52,SavedShot,0.9030000305175782,0.515,0.0387025810778141,Julian Draxler,h,152,OpenPlay,2014,Head,5462,Schalke 04,Bayern Munich,1,1,2014-08-30 17:30:00,Kaan Ayhan,Aerial
+24571,61,BlockedShot,0.9359999847412109,0.55,0.07128003984689713,Eric Maxim Choupo-Moting,h,339,SetPiece,2014,RightFoot,5462,Schalke 04,Bayern Munich,1,1,2014-08-30 17:30:00,Sidney Sam,BallRecovery
+24572,61,Goal,0.9930000305175781,0.46599998474121096,0.9724793434143066,Benedikt Höwedes,h,333,SetPiece,2014,OtherBodyPart,5462,Schalke 04,Bayern Munich,1,1,2014-08-30 17:30:00,,None
+24573,64,SavedShot,0.905,0.3390000152587891,0.06990651786327362,Eric Maxim Choupo-Moting,h,339,OpenPlay,2014,RightFoot,5462,Schalke 04,Bayern Munich,1,1,2014-08-30 17:30:00,Sidney Sam,Pass
+24577,88,BlockedShot,0.8630000305175781,0.29700000762939455,0.04111422598361969,Eric Maxim Choupo-Moting,h,339,SetPiece,2014,RightFoot,5462,Schalke 04,Bayern Munich,1,1,2014-08-30 17:30:00,Marco Höger,Chipped
+24560,3,SavedShot,0.8690000152587891,0.51,0.3755888044834137,Thomas Müller,a,224,OpenPlay,2014,RightFoot,5462,Schalke 04,Bayern Munich,1,1,2014-08-30 17:30:00,Robert Lewandowski,Pass
+24561,4,SavedShot,0.8530000305175781,0.5790000152587891,0.08507019281387329,Robert Lewandowski,a,227,OpenPlay,2014,RightFoot,5462,Schalke 04,Bayern Munich,1,1,2014-08-30 17:30:00,Philipp Lahm,Pass
+24562,9,Goal,0.92,0.4759999847412109,0.5419282913208008,Robert Lewandowski,a,227,OpenPlay,2014,RightFoot,5462,Schalke 04,Bayern Munich,1,1,2014-08-30 17:30:00,Sebastian Rode,Pass
+24563,20,MissedShots,0.7659999847412109,0.7340000152587891,0.01714746467769146,Xherdan Shaqiri,a,888,OpenPlay,2014,LeftFoot,5462,Schalke 04,Bayern Munich,1,1,2014-08-30 17:30:00,,None
+24564,23,BlockedShot,0.7859999847412109,0.38599998474121094,0.04277656227350235,Xherdan Shaqiri,a,888,OpenPlay,2014,LeftFoot,5462,Schalke 04,Bayern Munich,1,1,2014-08-30 17:30:00,David Alaba,TakeOn
+24566,29,MissedShots,0.7619999694824219,0.6020000076293945,0.0323336161673069,David Alaba,a,391,OpenPlay,2014,LeftFoot,5462,Schalke 04,Bayern Munich,1,1,2014-08-30 17:30:00,,None
+24570,59,BlockedShot,0.7219999694824218,0.5479999923706055,0.010798980481922626,Juan Bernat,a,414,SetPiece,2014,LeftFoot,5462,Schalke 04,Bayern Munich,1,1,2014-08-30 17:30:00,,None
+24574,65,MissedShots,0.915,0.34200000762939453,0.046399910002946854,Robert Lewandowski,a,227,OpenPlay,2014,RightFoot,5462,Schalke 04,Bayern Munich,1,1,2014-08-30 17:30:00,David Alaba,Chipped
+24575,71,SavedShot,0.889000015258789,0.639000015258789,0.2957998514175415,Xherdan Shaqiri,a,888,OpenPlay,2014,LeftFoot,5462,Schalke 04,Bayern Munich,1,1,2014-08-30 17:30:00,Philipp Lahm,Chipped
+24576,77,MissedShots,0.92,0.6,0.055437587201595306,Holger Badstuber,a,219,FromCorner,2014,LeftFoot,5462,Schalke 04,Bayern Munich,1,1,2014-08-30 17:30:00,David Alaba,Cross

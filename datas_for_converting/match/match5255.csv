@@ -1,0 +1,33 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+31985,12,BlockedShot,0.8130000305175781,0.39799999237060546,0.04666043072938919,Oliver Sorg,h,348,OpenPlay,2014,RightFoot,5255,Freiburg,Augsburg,2,0,2015-03-21 14:30:00,Felix Klaus,Pass
+31990,31,SavedShot,0.75,0.4759999847412109,0.025278402492403984,Jonathan Schmid,h,81,OpenPlay,2014,RightFoot,5255,Freiburg,Augsburg,2,0,2015-03-21 14:30:00,Oliver Sorg,Pass
+31992,33,SavedShot,0.7319999694824219,0.5070000076293946,0.014275716617703438,Oliver Sorg,h,348,OpenPlay,2014,RightFoot,5255,Freiburg,Augsburg,2,0,2015-03-21 14:30:00,,None
+31993,34,BlockedShot,0.9119999694824219,0.4640000152587891,0.03191978111863136,Nicolas Höfler,h,4250,FromCorner,2014,Head,5255,Freiburg,Augsburg,2,0,2015-03-21 14:30:00,Jonathan Schmid,Aerial
+31994,34,SavedShot,0.9519999694824218,0.4229999923706055,0.0454835370182991,Stefan Mitrovic,h,4242,FromCorner,2014,Head,5255,Freiburg,Augsburg,2,0,2015-03-21 14:30:00,,Rebound
+31995,35,BlockedShot,0.7809999847412109,0.4209999847412109,0.031151680275797844,Oliver Sorg,h,348,OpenPlay,2014,RightFoot,5255,Freiburg,Augsburg,2,0,2015-03-21 14:30:00,Felix Klaus,Pass
+31996,38,MissedShots,0.805,0.28899999618530275,0.014575802721083164,Jonathan Schmid,h,81,SetPiece,2014,RightFoot,5255,Freiburg,Augsburg,2,0,2015-03-21 14:30:00,Christian Günter,Cross
+32004,50,MissedShots,0.89,0.534000015258789,0.12219075113534927,Felix Klaus,h,350,OpenPlay,2014,RightFoot,5255,Freiburg,Augsburg,2,0,2015-03-21 14:30:00,Admir Mehmedi,Pass
+32005,59,MissedShots,0.9519999694824218,0.47400001525878904,0.553875744342804,Admir Mehmedi,h,194,OpenPlay,2014,Head,5255,Freiburg,Augsburg,2,0,2015-03-21 14:30:00,Oliver Sorg,Chipped
+32008,70,Goal,0.9,0.5829999923706055,0.39967554807662964,Jonathan Schmid,h,81,OpenPlay,2014,LeftFoot,5255,Freiburg,Augsburg,2,0,2015-03-21 14:30:00,Oliver Sorg,Pass
+32010,75,MissedShots,0.914000015258789,0.6170000076293946,0.12280111014842987,Nils Petersen,h,4248,OpenPlay,2014,LeftFoot,5255,Freiburg,Augsburg,2,0,2015-03-21 14:30:00,Jonathan Schmid,Pass
+32011,80,MissedShots,0.7969999694824219,0.6909999847412109,0.022765932604670525,Vladimir Darida,h,27,SetPiece,2014,RightFoot,5255,Freiburg,Augsburg,2,0,2015-03-21 14:30:00,Nils Petersen,Pass
+32012,83,Goal,0.889000015258789,0.585,0.5445719361305237,Nils Petersen,h,4248,OpenPlay,2014,LeftFoot,5255,Freiburg,Augsburg,2,0,2015-03-21 14:30:00,Vladimir Darida,Pass
+32014,90,SavedShot,0.9390000152587891,0.3060000038146973,0.072490394115448,Felix Klaus,h,350,OpenPlay,2014,RightFoot,5255,Freiburg,Augsburg,2,0,2015-03-21 14:30:00,Nils Petersen,Pass
+32015,92,SavedShot,0.7909999847412109,0.46,0.055622782558202744,Felix Klaus,h,350,OpenPlay,2014,RightFoot,5255,Freiburg,Augsburg,2,0,2015-03-21 14:30:00,,BallRecovery
+31984,7,SavedShot,0.72,0.48400001525878905,0.0495372898876667,Markus Feulner,a,278,DirectFreekick,2014,RightFoot,5255,Freiburg,Augsburg,2,0,2015-03-21 14:30:00,,Standard
+31986,24,MissedShots,0.950999984741211,0.39799999237060546,0.06103670224547386,Jan-Ingwer Callsen-Bracker,a,266,FromCorner,2014,RightFoot,5255,Freiburg,Augsburg,2,0,2015-03-21 14:30:00,Raúl Bobadilla,Cross
+31987,26,BlockedShot,0.8080000305175781,0.705,0.018840476870536804,Daniel Baier,a,268,FromCorner,2014,LeftFoot,5255,Freiburg,Augsburg,2,0,2015-03-21 14:30:00,,None
+31988,26,MissedShots,0.8540000152587891,0.5220000076293946,0.07450676709413528,Jan-Ingwer Callsen-Bracker,a,266,FromCorner,2014,LeftFoot,5255,Freiburg,Augsburg,2,0,2015-03-21 14:30:00,Daniel Baier,Rebound
+31989,26,SavedShot,0.8440000152587891,0.41900001525878905,0.05106671527028084,Dominik Kohr,a,269,FromCorner,2014,LeftFoot,5255,Freiburg,Augsburg,2,0,2015-03-21 14:30:00,,None
+31991,33,MissedShots,0.6759999847412109,0.49700000762939456,0.012679684907197952,Daniel Baier,a,268,OpenPlay,2014,RightFoot,5255,Freiburg,Augsburg,2,0,2015-03-21 14:30:00,Tobias Werner,Pass
+31997,44,SavedShot,0.8640000152587891,0.5359999847412109,0.10439743846654892,Raúl Bobadilla,a,273,OpenPlay,2014,RightFoot,5255,Freiburg,Augsburg,2,0,2015-03-21 14:30:00,Nikola Djurdjic,TakeOn
+31998,45,MissedShots,0.754000015258789,0.475,0.02512872964143753,Dominik Kohr,a,269,OpenPlay,2014,RightFoot,5255,Freiburg,Augsburg,2,0,2015-03-21 14:30:00,Daniel Baier,HeadPass
+31999,45,SavedShot,0.77,0.5779999923706055,0.017757443711161613,Raúl Bobadilla,a,273,OpenPlay,2014,RightFoot,5255,Freiburg,Augsburg,2,0,2015-03-21 14:30:00,Marwin Hitz,TakeOn
+32000,46,MissedShots,0.8490000152587891,0.700999984741211,0.030640918761491776,Tobias Werner,a,397,FromCorner,2014,LeftFoot,5255,Freiburg,Augsburg,2,0,2015-03-21 14:30:00,Raúl Bobadilla,Cross
+32001,46,SavedShot,0.9309999847412109,0.634000015258789,0.33494555950164795,Dominik Kohr,a,269,FromCorner,2014,RightFoot,5255,Freiburg,Augsburg,2,0,2015-03-21 14:30:00,Dong-Won Ji,Pass
+32002,48,SavedShot,0.8180000305175781,0.34299999237060547,0.03967208042740822,Pierre-Emile Højbjerg,a,343,OpenPlay,2014,RightFoot,5255,Freiburg,Augsburg,2,0,2015-03-21 14:30:00,Jan-Ingwer Callsen-Bracker,TakeOn
+32003,49,BlockedShot,0.95,0.4520000076293945,0.12742643058300018,Pierre-Emile Højbjerg,a,343,FromCorner,2014,Head,5255,Freiburg,Augsburg,2,0,2015-03-21 14:30:00,Raúl Bobadilla,Cross
+32006,63,MissedShots,0.76,0.44799999237060545,0.02586584910750389,Pierre-Emile Højbjerg,a,343,OpenPlay,2014,RightFoot,5255,Freiburg,Augsburg,2,0,2015-03-21 14:30:00,,BallRecovery
+32007,65,BlockedShot,0.7780000305175782,0.7080000305175781,0.057230930775403976,Pierre-Emile Højbjerg,a,343,DirectFreekick,2014,RightFoot,5255,Freiburg,Augsburg,2,0,2015-03-21 14:30:00,,Standard
+32009,73,BlockedShot,0.875,0.685,0.027976008132100105,Raúl Bobadilla,a,273,OpenPlay,2014,LeftFoot,5255,Freiburg,Augsburg,2,0,2015-03-21 14:30:00,Abdul Rahman Baba,Cross
+32013,89,MissedShots,0.9130000305175782,0.5990000152587891,0.05178457498550415,Jan-Ingwer Callsen-Bracker,a,266,SetPiece,2014,Head,5255,Freiburg,Augsburg,2,0,2015-03-21 14:30:00,Tobias Werner,Chipped

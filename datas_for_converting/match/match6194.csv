@@ -1,0 +1,23 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+127,25,SavedShot,0.9540000152587891,0.41200000762939454,0.04933594539761543,Dimitar Berbatov,h,4727,OpenPlay,2014,Head,6194,Monaco,Lorient,1,2,2014-08-10 20:00:00,Layvin Kurzawa,Pass
+128,29,SavedShot,0.9169999694824219,0.605,0.19330459833145142,Layvin Kurzawa,h,3298,OpenPlay,2014,Head,6194,Monaco,Lorient,1,2,2014-08-10 20:00:00,Geoffrey Kondogbia,Throughball
+134,48,SavedShot,0.955999984741211,0.3970000076293945,0.0415985994040966,Dimitar Berbatov,h,4727,FromCorner,2014,Head,6194,Monaco,Lorient,1,2,2014-08-10 20:00:00,Lucas Ocampos,Pass
+135,49,BlockedShot,0.909000015258789,0.6359999847412109,0.011683446355164051,Dimitar Berbatov,h,4727,FromCorner,2014,Head,6194,Monaco,Lorient,1,2,2014-08-10 20:00:00,Layvin Kurzawa,Aerial
+136,49,MissedShots,0.745,0.49400001525878906,0.016893211752176285,Yannick Carrasco,h,2272,FromCorner,2014,RightFoot,6194,Monaco,Lorient,1,2,2014-08-10 20:00:00,,None
+137,50,BlockedShot,0.8430000305175781,0.7390000152587891,0.026902686804533005,Lucas Ocampos,h,1109,OpenPlay,2014,RightFoot,6194,Monaco,Lorient,1,2,2014-08-10 20:00:00,João Moutinho,Pass
+138,53,SavedShot,0.919000015258789,0.44799999237060545,0.5045019388198853,Yannick Carrasco,h,2272,OpenPlay,2014,RightFoot,6194,Monaco,Lorient,1,2,2014-08-10 20:00:00,Dimitar Berbatov,Throughball
+139,54,SavedShot,0.81,0.4929999923706055,0.06910707801580429,Yannick Carrasco,h,2272,OpenPlay,2014,RightFoot,6194,Monaco,Lorient,1,2,2014-08-10 20:00:00,Aymen Abdennour,LayOff
+140,54,MissedShots,0.8959999847412109,0.575999984741211,0.07716521620750427,Lucas Ocampos,h,1109,OpenPlay,2014,LeftFoot,6194,Monaco,Lorient,1,2,2014-08-10 20:00:00,Layvin Kurzawa,Cross
+141,57,MissedShots,0.85,0.56,0.07633597403764725,Valère Germain,h,3309,OpenPlay,2014,RightFoot,6194,Monaco,Lorient,1,2,2014-08-10 20:00:00,Layvin Kurzawa,Pass
+142,70,SavedShot,0.9080000305175782,0.6020000076293945,0.18114250898361206,Dimitar Berbatov,h,4727,FromCorner,2014,Head,6194,Monaco,Lorient,1,2,2014-08-10 20:00:00,Layvin Kurzawa,Cross
+143,77,Goal,0.885,0.5,0.7600951194763184,Falcao,h,696,Penalty,2014,RightFoot,6194,Monaco,Lorient,1,2,2014-08-10 20:00:00,,Standard
+146,85,BlockedShot,0.905,0.46,0.08526560664176941,Dimitar Berbatov,h,4727,SetPiece,2014,RightFoot,6194,Monaco,Lorient,1,2,2014-08-10 20:00:00,Anthony Martial,HeadPass
+126,8,Goal,0.885,0.5,0.7600294947624207,Vincent Aboubakar,a,4889,Penalty,2014,RightFoot,6194,Monaco,Lorient,1,2,2014-08-10 20:00:00,,Standard
+129,38,BlockedShot,0.7619999694824219,0.6580000305175782,0.05836254358291626,Gilles Sunu,a,3493,DirectFreekick,2014,RightFoot,6194,Monaco,Lorient,1,2,2014-08-10 20:00:00,,Standard
+130,38,MissedShots,0.764000015258789,0.5690000152587891,0.016989652067422867,Gilles Sunu,a,3493,SetPiece,2014,RightFoot,6194,Monaco,Lorient,1,2,2014-08-10 20:00:00,,Rebound
+131,40,BlockedShot,0.7290000152587891,0.4809999847412109,0.011616542935371399,Rafidine Abdullah,a,3571,SetPiece,2014,RightFoot,6194,Monaco,Lorient,1,2,2014-08-10 20:00:00,,None
+132,41,BlockedShot,0.865,0.595999984741211,0.05904744938015938,Vincent Aboubakar,a,4889,FromCorner,2014,RightFoot,6194,Monaco,Lorient,1,2,2014-08-10 20:00:00,,None
+133,46,MissedShots,0.92,0.36900001525878906,0.020416876301169395,Yoann Wachter,a,4794,FromCorner,2014,Head,6194,Monaco,Lorient,1,2,2014-08-10 20:00:00,Mathieu Coutadeur,Cross
+144,79,SavedShot,0.9830000305175781,0.6270000076293946,0.11760544031858444,Vincent Aboubakar,a,4889,OpenPlay,2014,LeftFoot,6194,Monaco,Lorient,1,2,2014-08-10 20:00:00,Lamine Koné,BallRecovery
+145,80,MissedShots,0.9309999847412109,0.63,0.04557406157255173,Yoann Wachter,a,4794,FromCorner,2014,RightFoot,6194,Monaco,Lorient,1,2,2014-08-10 20:00:00,Yann Jouffre,Cross
+147,86,Goal,0.9019999694824219,0.3940000152587891,0.5367476940155029,Valentin Lavigne,a,3730,OpenPlay,2014,RightFoot,6194,Monaco,Lorient,1,2,2014-08-10 20:00:00,Rafidine Abdullah,Throughball

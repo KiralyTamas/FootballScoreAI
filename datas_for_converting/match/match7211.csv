@@ -1,0 +1,14 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+159840,18,SavedShot,0.8690000152587891,0.4809999847412109,0.01189823541790247,Davy Pröpper,h,6050,SetPiece,2017,Head,7211,Brighton,Southampton,1,1,2017-10-29 13:30:00,Anthony Knockaert,Aerial
+159842,40,MissedShots,0.975999984741211,0.4,0.2526991665363312,Anthony Knockaert,h,4497,SetPiece,2017,RightFoot,7211,Brighton,Southampton,1,1,2017-10-29 13:30:00,José Izquierdo,Cross
+159843,41,MissedShots,0.9719999694824218,0.5279999923706055,0.7331182360649109,Shane Duffy,h,6047,SetPiece,2017,Head,7211,Brighton,Southampton,1,1,2017-10-29 13:30:00,Anthony Knockaert,Aerial
+159845,51,Goal,0.9369999694824219,0.61,0.026729533448815346,Glenn Murray,h,882,OpenPlay,2017,Head,7211,Brighton,Southampton,1,1,2017-10-29 13:30:00,Pascal Groß,Aerial
+159847,56,MissedShots,0.95,0.4329999923706055,0.4114339053630829,Glenn Murray,h,882,OpenPlay,2017,RightFoot,7211,Brighton,Southampton,1,1,2017-10-29 13:30:00,Pascal Groß,Cross
+159849,70,BlockedShot,0.9,0.6859999847412109,0.0526222325861454,José Izquierdo,h,6231,OpenPlay,2017,RightFoot,7211,Brighton,Southampton,1,1,2017-10-29 13:30:00,Davy Pröpper,Chipped
+159850,76,MissedShots,0.7390000152587891,0.5429999923706055,0.0168282650411129,Anthony Knockaert,h,4497,OpenPlay,2017,LeftFoot,7211,Brighton,Southampton,1,1,2017-10-29 13:30:00,Pascal Groß,Pass
+159838,5,ShotOnPost,0.740999984741211,0.615,0.05092316120862961,James Ward-Prowse,a,843,DirectFreekick,2017,RightFoot,7211,Brighton,Southampton,1,1,2017-10-29 13:30:00,,Standard
+159839,6,Goal,0.909000015258789,0.5420000076293945,0.29433220624923706,Steven Davis,a,883,SetPiece,2017,Head,7211,Brighton,Southampton,1,1,2017-10-29 13:30:00,,Rebound
+159841,34,BlockedShot,0.875999984741211,0.4370000076293945,0.11500407010316849,Dusan Tadic,a,840,OpenPlay,2017,LeftFoot,7211,Brighton,Southampton,1,1,2017-10-29 13:30:00,Sofiane Boufal,Pass
+159844,47,MissedShots,0.82,0.24399999618530274,0.015926042571663857,Sofiane Boufal,a,1734,FromCorner,2017,LeftFoot,7211,Brighton,Southampton,1,1,2017-10-29 13:30:00,,None
+159846,53,BlockedShot,0.715999984741211,0.7559999847412109,0.012879387475550175,Ryan Bertrand,a,835,FromCorner,2017,LeftFoot,7211,Brighton,Southampton,1,1,2017-10-29 13:30:00,Steven Davis,Pass
+159848,69,BlockedShot,0.9530000305175781,0.6229999923706054,0.06956323236227036,Manolo Gabbiadini,a,1383,OpenPlay,2017,LeftFoot,7211,Brighton,Southampton,1,1,2017-10-29 13:30:00,Ryan Bertrand,Cross

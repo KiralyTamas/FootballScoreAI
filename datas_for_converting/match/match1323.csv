@@ -1,0 +1,32 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+83869,30,Goal,0.9119999694824219,0.6040000152587891,0.3754359483718872,Charles Aránguiz,h,454,OpenPlay,2015,RightFoot,1323,Bayer Leverkusen,Ingolstadt,3,2,2016-05-14 17:30:00,Julian Brandt,Pass
+83870,36,Goal,0.875,0.3920000076293945,0.31528326869010925,Kevin Kampl,h,188,SetPiece,2015,RightFoot,1323,Bayer Leverkusen,Ingolstadt,3,2,2016-05-14 17:30:00,Karim Bellarabi,Pass
+83873,45,MissedShots,0.9080000305175782,0.3729999923706055,0.13604319095611572,Karim Bellarabi,h,186,OpenPlay,2015,RightFoot,1323,Bayer Leverkusen,Ingolstadt,3,2,2016-05-14 17:30:00,Julian Brandt,Pass
+83875,60,Goal,0.9369999694824219,0.48200000762939454,0.6183500289916992,Stefan Kießling,h,190,OpenPlay,2015,LeftFoot,1323,Bayer Leverkusen,Ingolstadt,3,2,2016-05-14 17:30:00,Karim Bellarabi,Pass
+83883,78,BlockedShot,0.9480000305175781,0.5870000076293945,0.861217200756073,Karim Bellarabi,h,186,OpenPlay,2015,LeftFoot,1323,Bayer Leverkusen,Ingolstadt,3,2,2016-05-14 17:30:00,Hakan Calhanoglu,TakeOn
+83884,78,BlockedShot,0.9480000305175781,0.5870000076293945,0.146269753575325,Karim Bellarabi,h,186,OpenPlay,2015,RightFoot,1323,Bayer Leverkusen,Ingolstadt,3,2,2016-05-14 17:30:00,,Rebound
+83885,80,MissedShots,0.735,0.779000015258789,0.0319860465824604,Hakan Calhanoglu,h,189,DirectFreekick,2015,RightFoot,1323,Bayer Leverkusen,Ingolstadt,3,2,2016-05-14 17:30:00,,Standard
+83886,81,SavedShot,0.92,0.40299999237060546,0.4325931966304779,Julian Brandt,h,261,OpenPlay,2015,RightFoot,1323,Bayer Leverkusen,Ingolstadt,3,2,2016-05-14 17:30:00,Hakan Calhanoglu,Cross
+83887,82,MissedShots,0.9080000305175782,0.46299999237060546,0.07494228333234787,Admir Mehmedi,h,194,FromCorner,2015,Head,1323,Bayer Leverkusen,Ingolstadt,3,2,2016-05-14 17:30:00,Hakan Calhanoglu,Cross
+83888,82,SavedShot,0.94,0.5829999923706055,0.2373245358467102,Karim Bellarabi,h,186,FromCorner,2015,Head,1323,Bayer Leverkusen,Ingolstadt,3,2,2016-05-14 17:30:00,Admir Mehmedi,Rebound
+83862,7,MissedShots,0.785,0.25799999237060545,0.009507417678833008,Moritz Hartmann,a,362,SetPiece,2015,RightFoot,1323,Bayer Leverkusen,Ingolstadt,3,2,2016-05-14 17:30:00,,Aerial
+83863,8,BlockedShot,0.805,0.47299999237060547,0.05525119602680206,Pascal Groß,a,239,OpenPlay,2015,RightFoot,1323,Bayer Leverkusen,Ingolstadt,3,2,2016-05-14 17:30:00,Darío Lezcano,Pass
+83864,11,MissedShots,0.9219999694824219,0.59,0.04349501058459282,Mathew Leckie,a,241,OpenPlay,2015,Head,1323,Bayer Leverkusen,Ingolstadt,3,2,2016-05-14 17:30:00,Darío Lezcano,Chipped
+83865,15,Goal,0.9490000152587891,0.5690000152587891,0.5492919087409973,Mathew Leckie,a,241,OpenPlay,2015,LeftFoot,1323,Bayer Leverkusen,Ingolstadt,3,2,2016-05-14 17:30:00,Darío Lezcano,Pass
+83866,22,MissedShots,0.9590000152587891,0.524000015258789,0.5885854363441467,Moritz Hartmann,a,362,SetPiece,2015,RightFoot,1323,Bayer Leverkusen,Ingolstadt,3,2,2016-05-14 17:30:00,Pascal Groß,Cross
+83867,24,MissedShots,0.8730000305175781,0.4470000076293945,0.03054366260766983,Benjamin Hübner,a,251,SetPiece,2015,Head,1323,Bayer Leverkusen,Ingolstadt,3,2,2016-05-14 17:30:00,Pascal Groß,Cross
+83868,24,MissedShots,0.7680000305175781,0.315,0.025692526251077652,Danny da Costa,a,249,OpenPlay,2015,RightFoot,1323,Bayer Leverkusen,Ingolstadt,3,2,2016-05-14 17:30:00,,Tackle
+83871,40,SavedShot,0.905,0.20299999237060548,0.019708147272467613,Moritz Hartmann,a,362,OpenPlay,2015,RightFoot,1323,Bayer Leverkusen,Ingolstadt,3,2,2016-05-14 17:30:00,Danny da Costa,Chipped
+83872,44,MissedShots,0.81,0.764000015258789,0.01601596176624298,Markus Suttner,a,379,SetPiece,2015,LeftFoot,1323,Bayer Leverkusen,Ingolstadt,3,2,2016-05-14 17:30:00,Pascal Groß,Chipped
+83874,52,BlockedShot,0.8980000305175782,0.519000015258789,0.0806255042552948,Almog Cohen,a,240,SetPiece,2015,RightFoot,1323,Bayer Leverkusen,Ingolstadt,3,2,2016-05-14 17:30:00,,None
+83876,68,Goal,0.885,0.5,0.757696270942688,Moritz Hartmann,a,362,Penalty,2015,RightFoot,1323,Bayer Leverkusen,Ingolstadt,3,2,2016-05-14 17:30:00,,Standard
+83877,69,ShotOnPost,0.750999984741211,0.6179999923706054,0.017660517245531082,Moritz Hartmann,a,362,OpenPlay,2015,RightFoot,1323,Bayer Leverkusen,Ingolstadt,3,2,2016-05-14 17:30:00,Max Christiansen,HeadPass
+83878,70,SavedShot,0.905,0.33299999237060546,0.05558275803923607,Moritz Hartmann,a,362,OpenPlay,2015,RightFoot,1323,Bayer Leverkusen,Ingolstadt,3,2,2016-05-14 17:30:00,Lukas Hinterseer,HeadPass
+83879,70,MissedShots,0.9069999694824219,0.5820000076293945,0.396222859621048,Darío Lezcano,a,2636,OpenPlay,2015,RightFoot,1323,Bayer Leverkusen,Ingolstadt,3,2,2016-05-14 17:30:00,,Rebound
+83880,72,MissedShots,0.86,0.4620000076293945,0.040025148540735245,Moritz Hartmann,a,362,SetPiece,2015,Head,1323,Bayer Leverkusen,Ingolstadt,3,2,2016-05-14 17:30:00,Pascal Groß,Chipped
+83881,72,BlockedShot,0.89,0.555,0.07663938403129578,Darío Lezcano,a,2636,SetPiece,2015,RightFoot,1323,Bayer Leverkusen,Ingolstadt,3,2,2016-05-14 17:30:00,Moritz Hartmann,None
+83882,73,MissedShots,0.720999984741211,0.4879999923706055,0.01618722267448902,Max Christiansen,a,245,OpenPlay,2015,RightFoot,1323,Bayer Leverkusen,Ingolstadt,3,2,2016-05-14 17:30:00,Lukas Hinterseer,Pass
+83889,83,MissedShots,0.755,0.5870000076293945,0.01738913543522358,Markus Suttner,a,379,FromCorner,2015,LeftFoot,1323,Bayer Leverkusen,Ingolstadt,3,2,2016-05-14 17:30:00,,None
+83890,85,MissedShots,0.9,0.36400001525878906,0.06739792227745056,Marvin Matip,a,236,SetPiece,2015,RightFoot,1323,Bayer Leverkusen,Ingolstadt,3,2,2016-05-14 17:30:00,Pascal Groß,Chipped
+83891,90,MissedShots,0.784000015258789,0.5,0.03381330519914627,Max Christiansen,a,245,OpenPlay,2015,RightFoot,1323,Bayer Leverkusen,Ingolstadt,3,2,2016-05-14 17:30:00,,None
+83892,91,MissedShots,0.730999984741211,0.5,0.055946234613657,Markus Suttner,a,379,DirectFreekick,2015,LeftFoot,1323,Bayer Leverkusen,Ingolstadt,3,2,2016-05-14 17:30:00,,Standard

@@ -1,0 +1,23 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+401198,1,BlockedShot,0.9069999694824219,0.40400001525878904,0.08368473500013351,Jake Livermore,h,1689,OpenPlay,2020,RightFoot,14629,West Bromwich Albion,Manchester City,0,5,2021-01-26 20:15:00,,None
+401199,1,SavedShot,0.9369999694824219,0.39799999237060546,0.3511928915977478,Semi Ajayi,h,4490,OpenPlay,2020,RightFoot,14629,West Bromwich Albion,Manchester City,0,5,2021-01-26 20:15:00,,Rebound
+401205,27,MissedShots,0.8430000305175781,0.4520000076293945,0.08855319023132324,Callum Robinson,h,4476,OpenPlay,2020,RightFoot,14629,West Bromwich Albion,Manchester City,0,5,2021-01-26 20:15:00,Robert Snodgrass,Pass
+401214,59,MissedShots,0.95,0.5920000076293945,0.07421651482582092,Darnell Furlong,h,4391,FromCorner,2020,RightFoot,14629,West Bromwich Albion,Manchester City,0,5,2021-01-26 20:15:00,Matheus Pereira,Cross
+401200,2,SavedShot,0.8780000305175781,0.6780000305175782,0.08276893198490143,Phil Foden,a,6055,OpenPlay,2020,LeftFoot,14629,West Bromwich Albion,Manchester City,0,5,2021-01-26 20:15:00,Bernardo Silva,Pass
+401201,5,Goal,0.8169999694824219,0.45299999237060545,0.05327348783612251,Ilkay Gündogan,a,314,OpenPlay,2020,RightFoot,14629,West Bromwich Albion,Manchester City,0,5,2021-01-26 20:15:00,João Cancelo,Chipped
+401202,11,MissedShots,0.784000015258789,0.5629999923706055,0.042556650936603546,João Cancelo,a,2379,OpenPlay,2020,RightFoot,14629,West Bromwich Albion,Manchester City,0,5,2021-01-26 20:15:00,Phil Foden,Pass
+401203,14,MissedShots,0.7390000152587891,0.3770000076293945,0.02200888656079769,Riyad Mahrez,a,750,OpenPlay,2020,LeftFoot,14629,West Bromwich Albion,Manchester City,0,5,2021-01-26 20:15:00,João Cancelo,Pass
+401204,19,Goal,0.8330000305175781,0.38,0.05263121798634529,João Cancelo,a,2379,OpenPlay,2020,LeftFoot,14629,West Bromwich Albion,Manchester City,0,5,2021-01-26 20:15:00,Bernardo Silva,Pass
+401206,29,Goal,0.8830000305175781,0.45799999237060546,0.42194193601608276,Ilkay Gündogan,a,314,OpenPlay,2020,LeftFoot,14629,West Bromwich Albion,Manchester City,0,5,2021-01-26 20:15:00,,TakeOn
+401207,34,BlockedShot,0.92,0.28299999237060547,0.04101195186376572,Raheem Sterling,a,618,OpenPlay,2020,LeftFoot,14629,West Bromwich Albion,Manchester City,0,5,2021-01-26 20:15:00,Phil Foden,Cross
+401208,35,BlockedShot,0.8909999847412109,0.590999984741211,0.112703837454319,Phil Foden,a,6055,OpenPlay,2020,RightFoot,14629,West Bromwich Albion,Manchester City,0,5,2021-01-26 20:15:00,Ilkay Gündogan,Pass
+401209,46,Goal,0.8930000305175781,0.38599998474121094,0.11374283581972122,Riyad Mahrez,a,750,OpenPlay,2020,LeftFoot,14629,West Bromwich Albion,Manchester City,0,5,2021-01-26 20:15:00,Raheem Sterling,Chipped
+401210,47,BlockedShot,0.88,0.3320000076293945,0.04102565348148346,Riyad Mahrez,a,750,FromCorner,2020,RightFoot,14629,West Bromwich Albion,Manchester City,0,5,2021-01-26 20:15:00,,None
+401211,50,ShotOnPost,0.7180000305175781,0.5279999923706055,0.019130324944853783,Rodri,a,2496,OpenPlay,2020,RightFoot,14629,West Bromwich Albion,Manchester City,0,5,2021-01-26 20:15:00,Riyad Mahrez,Pass
+401212,56,BlockedShot,0.8630000305175781,0.5120000076293946,0.12600049376487732,Raheem Sterling,a,618,OpenPlay,2020,LeftFoot,14629,West Bromwich Albion,Manchester City,0,5,2021-01-26 20:15:00,Ferrán Torres,Pass
+401213,56,Goal,0.9740000152587891,0.52,0.9427939057350159,Raheem Sterling,a,618,OpenPlay,2020,RightFoot,14629,West Bromwich Albion,Manchester City,0,5,2021-01-26 20:15:00,Riyad Mahrez,Pass
+401215,72,BlockedShot,0.9219999694824219,0.6580000305175782,0.08199996501207352,Raheem Sterling,a,618,OpenPlay,2020,RightFoot,14629,West Bromwich Albion,Manchester City,0,5,2021-01-26 20:15:00,,Dispossessed
+401216,72,MissedShots,0.9119999694824219,0.4570000076293945,0.026690131053328514,Aymeric Laporte,a,2498,FromCorner,2020,Head,14629,West Bromwich Albion,Manchester City,0,5,2021-01-26 20:15:00,Oleksandr Zinchenko,Aerial
+401217,77,BlockedShot,0.78,0.395,0.02002841793000698,Riyad Mahrez,a,750,FromCorner,2020,RightFoot,14629,West Bromwich Albion,Manchester City,0,5,2021-01-26 20:15:00,,None
+401218,77,BlockedShot,0.885,0.47299999237060547,0.01821688562631607,Ferrán Torres,a,6441,OpenPlay,2020,Head,14629,West Bromwich Albion,Manchester City,0,5,2021-01-26 20:15:00,João Cancelo,Aerial
+401219,90,SavedShot,0.764000015258789,0.43,0.029855109751224518,João Cancelo,a,2379,OpenPlay,2020,LeftFoot,14629,West Bromwich Albion,Manchester City,0,5,2021-01-26 20:15:00,Gabriel Jesus,TakeOn

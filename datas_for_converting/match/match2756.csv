@@ -1,0 +1,23 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+150702,1,MissedShots,0.905,0.575999984741211,0.0703849196434021,Sergio Pellissier,h,1347,OpenPlay,2016,Head,2756,Chievo,Cagliari,1,0,2016-11-19 18:00:00,Massimo Gobbi,Cross
+150704,14,MissedShots,0.9130000305175782,0.4520000076293945,0.10828172415494919,Alessandro Gamberini,h,1330,SetPiece,2016,Head,2756,Chievo,Cagliari,1,0,2016-11-19 18:00:00,Jonathan de Guzmán,Cross
+150705,29,SavedShot,0.779000015258789,0.27299999237060546,0.01995636336505413,Riccardo Meggiorini,h,1337,OpenPlay,2016,LeftFoot,2756,Chievo,Cagliari,1,0,2016-11-19 18:00:00,Mariano Izco,Pass
+150706,33,MissedShots,0.965999984741211,0.5640000152587891,0.11081507802009583,Sergio Pellissier,h,1347,OpenPlay,2016,Head,2756,Chievo,Cagliari,1,0,2016-11-19 18:00:00,Fabrizio Cacciatore,HeadPass
+150709,47,MissedShots,0.845,0.5640000152587891,0.08590883016586304,Sergio Pellissier,h,1347,OpenPlay,2016,RightFoot,2756,Chievo,Cagliari,1,0,2016-11-19 18:00:00,Jonathan de Guzmán,Pass
+150710,52,Goal,0.894000015258789,0.5720000076293945,0.38899704813957214,Massimo Gobbi,h,1332,OpenPlay,2016,LeftFoot,2756,Chievo,Cagliari,1,0,2016-11-19 18:00:00,Lucas Castro,Pass
+150712,55,BlockedShot,0.7780000305175782,0.669000015258789,0.02994714491069317,Jonathan de Guzmán,h,1350,OpenPlay,2016,RightFoot,2756,Chievo,Cagliari,1,0,2016-11-19 18:00:00,Ivan Radovanovic,Chipped
+150713,60,MissedShots,0.6880000305175781,0.455,0.015493412502110004,Ivan Radovanovic,h,1341,OpenPlay,2016,RightFoot,2756,Chievo,Cagliari,1,0,2016-11-19 18:00:00,Mariano Izco,Pass
+150715,64,MissedShots,0.7809999847412109,0.6090000152587891,0.02009601891040802,Lucas Castro,h,1333,FromCorner,2016,RightFoot,2756,Chievo,Cagliari,1,0,2016-11-19 18:00:00,,None
+150716,67,MissedShots,0.899000015258789,0.4909999847412109,0.2492639124393463,Lucas Castro,h,1333,FromCorner,2016,Head,2756,Chievo,Cagliari,1,0,2016-11-19 18:00:00,Jonathan de Guzmán,Cross
+150721,83,MissedShots,0.755,0.6759999847412109,0.028042767196893692,Riccardo Meggiorini,h,1337,OpenPlay,2016,LeftFoot,2756,Chievo,Cagliari,1,0,2016-11-19 18:00:00,Massimo Gobbi,HeadPass
+150723,88,MissedShots,0.9119999694824219,0.6780000305175782,0.07977025955915451,Lucas Castro,h,1333,OpenPlay,2016,LeftFoot,2756,Chievo,Cagliari,1,0,2016-11-19 18:00:00,Nicola Rigoni,Pass
+150703,12,MissedShots,0.9230000305175782,0.48700000762939455,0.06429246068000793,Niccolò Giannetti,a,1414,SetPiece,2016,Head,2756,Chievo,Cagliari,1,0,2016-11-19 18:00:00,Davide Di Gennaro,Aerial
+150707,45,MissedShots,0.764000015258789,0.575,0.018393782898783684,Nicolò Barella,a,1409,FromCorner,2016,RightFoot,2756,Chievo,Cagliari,1,0,2016-11-19 18:00:00,,None
+150708,45,MissedShots,0.695,0.6719999694824219,0.012871179729700089,Diego Farias,a,1605,OpenPlay,2016,RightFoot,2756,Chievo,Cagliari,1,0,2016-11-19 18:00:00,Nicolò Barella,Pass
+150711,53,SavedShot,0.7819999694824219,0.42700000762939455,0.03175957128405571,Niccolò Giannetti,a,1414,OpenPlay,2016,LeftFoot,2756,Chievo,Cagliari,1,0,2016-11-19 18:00:00,Davide Di Gennaro,TakeOn
+150714,62,MissedShots,0.7140000152587891,0.6619999694824219,0.035784024745225906,Bruno Alves,a,1399,DirectFreekick,2016,RightFoot,2756,Chievo,Cagliari,1,0,2016-11-19 18:00:00,,Standard
+150717,75,SavedShot,0.7759999847412109,0.5070000076293946,0.022219369187951088,Nicolò Barella,a,1409,FromCorner,2016,RightFoot,2756,Chievo,Cagliari,1,0,2016-11-19 18:00:00,,None
+150718,79,MissedShots,0.8,0.3729999923706055,0.030171122401952744,Marco Borriello,a,1405,OpenPlay,2016,LeftFoot,2756,Chievo,Cagliari,1,0,2016-11-19 18:00:00,Diego Farias,Pass
+150719,80,MissedShots,0.725,0.66,0.014920313842594624,Diego Farias,a,1605,OpenPlay,2016,RightFoot,2756,Chievo,Cagliari,1,0,2016-11-19 18:00:00,Nicolò Barella,Pass
+150720,82,MissedShots,0.8590000152587891,0.32099998474121094,0.048140618950128555,Diego Farias,a,1605,OpenPlay,2016,RightFoot,2756,Chievo,Cagliari,1,0,2016-11-19 18:00:00,Mauricio Isla,Pass
+150722,85,BlockedShot,0.91,0.315,0.040995266288518906,Diego Farias,a,1605,OpenPlay,2016,RightFoot,2756,Chievo,Cagliari,1,0,2016-11-19 18:00:00,Luca Bittante,Chipped

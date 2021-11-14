@@ -1,0 +1,26 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+170902,19,MissedShots,0.915,0.705,0.04234851896762848,Lucas Pérez,h,1700,OpenPlay,2017,LeftFoot,7942,Deportivo La Coruna,Getafe,2,1,2017-09-30 12:00:00,Fabian Schär,Chipped
+170903,21,BlockedShot,0.7280000305175781,0.26399999618530273,0.014511163346469402,Guilherme,h,1891,OpenPlay,2017,RightFoot,7942,Deportivo La Coruna,Getafe,2,1,2017-09-30 12:00:00,,TakeOn
+170904,23,SavedShot,0.9009999847412109,0.5220000076293946,0.10000815242528915,Federico Valverde,h,6241,OpenPlay,2017,Head,7942,Deportivo La Coruna,Getafe,2,1,2017-09-30 12:00:00,Juanfran,Cross
+170905,29,SavedShot,0.919000015258789,0.5790000152587891,0.3104479908943176,Federico Valverde,h,6241,OpenPlay,2017,RightFoot,7942,Deportivo La Coruna,Getafe,2,1,2017-09-30 12:00:00,Juanfran,Cross
+170906,37,SavedShot,0.8530000305175781,0.44099998474121094,0.06891737878322601,Lucas Pérez,h,1700,OpenPlay,2017,LeftFoot,7942,Deportivo La Coruna,Getafe,2,1,2017-09-30 12:00:00,,None
+170907,37,SavedShot,0.9590000152587891,0.39,0.3511357307434082,Juanfran,h,2316,OpenPlay,2017,RightFoot,7942,Deportivo La Coruna,Getafe,2,1,2017-09-30 12:00:00,,Rebound
+170908,43,MissedShots,0.7380000305175781,0.6780000305175782,0.04788488149642944,Lucas Pérez,h,1700,DirectFreekick,2017,LeftFoot,7942,Deportivo La Coruna,Getafe,2,1,2017-09-30 12:00:00,,Standard
+170910,47,SavedShot,0.7609999847412109,0.37900001525878907,0.02625863626599312,Emre Colak,h,5080,OpenPlay,2017,LeftFoot,7942,Deportivo La Coruna,Getafe,2,1,2017-09-30 12:00:00,Fede Cartabia,LayOff
+170911,48,MissedShots,0.9569999694824218,0.33599998474121096,0.051960352808237076,Sidnei,h,2314,FromCorner,2017,RightFoot,7942,Deportivo La Coruna,Getafe,2,1,2017-09-30 12:00:00,Fabian Schär,HeadPass
+170913,62,MissedShots,0.8469999694824218,0.3609999847412109,0.04426310583949089,Fede Cartabia,h,2318,SetPiece,2017,RightFoot,7942,Deportivo La Coruna,Getafe,2,1,2017-09-30 12:00:00,,None
+170916,65,Goal,0.8680000305175781,0.4759999847412109,0.4057948887348175,Lucas Pérez,h,1700,OpenPlay,2017,LeftFoot,7942,Deportivo La Coruna,Getafe,2,1,2017-09-30 12:00:00,Juanfran,Pass
+170919,71,SavedShot,0.899000015258789,0.3920000076293945,0.37256312370300293,Fede Cartabia,h,2318,OpenPlay,2017,LeftFoot,7942,Deportivo La Coruna,Getafe,2,1,2017-09-30 12:00:00,Lucas Pérez,Throughball
+170920,72,SavedShot,0.9280000305175782,0.5929999923706055,0.01927400380373001,Fabian Schär,h,76,FromCorner,2017,Head,7942,Deportivo La Coruna,Getafe,2,1,2017-09-30 12:00:00,Lucas Pérez,Aerial
+170923,85,BlockedShot,0.879000015258789,0.36400001525878906,0.06485684961080551,Fede Cartabia,h,2318,OpenPlay,2017,LeftFoot,7942,Deportivo La Coruna,Getafe,2,1,2017-09-30 12:00:00,,None
+170924,86,Goal,0.9369999694824219,0.5479999923706055,0.5579269528388977,Florin Andone,h,4068,OpenPlay,2017,RightFoot,7942,Deportivo La Coruna,Getafe,2,1,2017-09-30 12:00:00,,Rebound
+170900,6,MissedShots,0.8830000305175781,0.515,0.0808609277009964,Markel Bergara,a,2231,SetPiece,2017,RightFoot,7942,Deportivo La Coruna,Getafe,2,1,2017-09-30 12:00:00,Cala,BallTouch
+170901,18,MissedShots,0.9159999847412109,0.534000015258789,0.29282188415527344,Cala,a,2193,SetPiece,2017,Head,7942,Deportivo La Coruna,Getafe,2,1,2017-09-30 12:00:00,Vitorino Antunes,Cross
+170909,46,BlockedShot,0.894000015258789,0.45099998474121095,0.08570406585931778,Jorge Molina,a,2155,FromCorner,2017,LeftFoot,7942,Deportivo La Coruna,Getafe,2,1,2017-09-30 12:00:00,,None
+170912,53,Goal,0.9119999694824219,0.56,0.11434716731309891,Amath Diedhiou,a,2532,OpenPlay,2017,RightFoot,7942,Deportivo La Coruna,Getafe,2,1,2017-09-30 12:00:00,Damián Suárez,Pass
+170914,64,SavedShot,0.8719999694824219,0.4179999923706055,0.3221760392189026,Amath Diedhiou,a,2532,OpenPlay,2017,RightFoot,7942,Deportivo La Coruna,Getafe,2,1,2017-09-30 12:00:00,,TakeOn
+170915,64,SavedShot,0.885,0.49,0.44199538230895996,Amath Diedhiou,a,2532,OpenPlay,2017,RightFoot,7942,Deportivo La Coruna,Getafe,2,1,2017-09-30 12:00:00,,Card
+170917,69,MissedShots,0.9069999694824219,0.3629999923706055,0.01856067217886448,Mauro Arambarri,a,3264,FromCorner,2017,Head,7942,Deportivo La Coruna,Getafe,2,1,2017-09-30 12:00:00,Vitorino Antunes,Cross
+170918,70,MissedShots,0.6830000305175781,0.6730000305175782,0.012293749488890171,Mauro Arambarri,a,3264,OpenPlay,2017,RightFoot,7942,Deportivo La Coruna,Getafe,2,1,2017-09-30 12:00:00,Jorge Molina,Pass
+170921,74,BlockedShot,0.9019999694824219,0.7030000305175781,0.05335956811904907,Álvaro Jiménez,a,6152,OpenPlay,2017,LeftFoot,7942,Deportivo La Coruna,Getafe,2,1,2017-09-30 12:00:00,Vitorino Antunes,TakeOn
+170922,75,MissedShots,0.9290000152587891,0.53,0.12049243599176407,Markel Bergara,a,2231,FromCorner,2017,Head,7942,Deportivo La Coruna,Getafe,2,1,2017-09-30 12:00:00,Vitorino Antunes,Cross

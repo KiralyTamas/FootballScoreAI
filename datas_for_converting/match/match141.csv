@@ -1,0 +1,38 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+58501,10,BlockedShot,0.899000015258789,0.3920000076293945,0.07412578910589218,Erik Lamela,h,644,OpenPlay,2015,LeftFoot,141,Tottenham,Manchester City,4,1,2015-09-26 15:45:00,Ben Davies,Cross
+58507,25,SavedShot,0.905,0.6969999694824218,0.09612865746021271,Son Heung-Min,h,453,OpenPlay,2015,LeftFoot,141,Tottenham,Manchester City,4,1,2015-09-26 15:45:00,Christian Eriksen,Throughball
+58510,31,MissedShots,0.754000015258789,0.4779999923706055,0.018906816840171814,Harry Kane,h,647,OpenPlay,2015,RightFoot,141,Tottenham,Manchester City,4,1,2015-09-26 15:45:00,,TakeOn
+58511,34,MissedShots,0.8540000152587891,0.43,0.05326475948095322,Erik Lamela,h,644,OpenPlay,2015,LeftFoot,141,Tottenham,Manchester City,4,1,2015-09-26 15:45:00,Ben Davies,Cross
+58512,40,BlockedShot,0.8480000305175781,0.36900001525878906,0.05313979089260101,Erik Lamela,h,644,OpenPlay,2015,LeftFoot,141,Tottenham,Manchester City,4,1,2015-09-26 15:45:00,Kyle Walker,Chipped
+58513,40,SavedShot,0.850999984741211,0.534000015258789,0.060301803052425385,Harry Kane,h,647,OpenPlay,2015,LeftFoot,141,Tottenham,Manchester City,4,1,2015-09-26 15:45:00,,Rebound
+58517,44,SavedShot,0.9390000152587891,0.48900001525878906,0.5636322498321533,Son Heung-Min,h,453,OpenPlay,2015,LeftFoot,141,Tottenham,Manchester City,4,1,2015-09-26 15:45:00,Kyle Walker,Pass
+58518,44,Goal,0.745999984741211,0.46599998474121096,0.023364806547760963,Eric Dier,h,643,OpenPlay,2015,RightFoot,141,Tottenham,Manchester City,4,1,2015-09-26 15:45:00,,Rebound
+58520,49,Goal,0.9319999694824219,0.46099998474121096,0.13198651373386383,Toby Alderweireld,h,639,SetPiece,2015,Head,141,Tottenham,Manchester City,4,1,2015-09-26 15:45:00,Erik Lamela,Cross
+58522,60,ShotOnPost,0.730999984741211,0.4329999923706055,0.050000160932540894,Christian Eriksen,h,646,DirectFreekick,2015,RightFoot,141,Tottenham,Manchester City,4,1,2015-09-26 15:45:00,,Standard
+58523,60,Goal,0.8540000152587891,0.42700000762939455,0.3038463294506073,Harry Kane,h,647,SetPiece,2015,RightFoot,141,Tottenham,Manchester City,4,1,2015-09-26 15:45:00,,Rebound
+58528,72,BlockedShot,0.9480000305175781,0.445,0.12034362554550171,Nacer Chadli,h,648,FromCorner,2015,Head,141,Tottenham,Manchester City,4,1,2015-09-26 15:45:00,Erik Lamela,Cross
+58529,74,SavedShot,0.909000015258789,0.23399999618530273,0.04636501520872116,Harry Kane,h,647,OpenPlay,2015,RightFoot,141,Tottenham,Manchester City,4,1,2015-09-26 15:45:00,Nacer Chadli,Pass
+58531,78,Goal,0.914000015258789,0.59,0.6439127922058105,Erik Lamela,h,644,OpenPlay,2015,LeftFoot,141,Tottenham,Manchester City,4,1,2015-09-26 15:45:00,Clinton N&#039;Jie,TakeOn
+58536,91,BlockedShot,0.8819999694824219,0.6859999847412109,0.10023873299360275,Clinton N&#039;Jie,h,960,OpenPlay,2015,RightFoot,141,Tottenham,Manchester City,4,1,2015-09-26 15:45:00,Nacer Chadli,TakeOn
+58500,8,MissedShots,0.7069999694824218,0.40200000762939453,0.011115171015262604,Kevin De Bruyne,a,447,OpenPlay,2015,RightFoot,141,Tottenham,Manchester City,4,1,2015-09-26 15:45:00,Sergio Agüero,HeadPass
+58502,14,MissedShots,0.754000015258789,0.48,0.020806631073355675,Yaya Touré,a,878,OpenPlay,2015,LeftFoot,141,Tottenham,Manchester City,4,1,2015-09-26 15:45:00,,None
+58503,15,BlockedShot,0.7280000305175781,0.6,0.015256298705935478,Fernando,a,615,OpenPlay,2015,RightFoot,141,Tottenham,Manchester City,4,1,2015-09-26 15:45:00,,Dispossessed
+58504,17,SavedShot,0.765,0.475,0.027662821114063263,Sergio Agüero,a,619,OpenPlay,2015,RightFoot,141,Tottenham,Manchester City,4,1,2015-09-26 15:45:00,Fernandinho,Pass
+58505,19,BlockedShot,0.9219999694824219,0.41,0.12887151539325714,Sergio Agüero,a,619,OpenPlay,2015,RightFoot,141,Tottenham,Manchester City,4,1,2015-09-26 15:45:00,Bacary Sagna,Pass
+58506,24,Goal,0.91,0.34,0.48639804124832153,Kevin De Bruyne,a,447,OpenPlay,2015,RightFoot,141,Tottenham,Manchester City,4,1,2015-09-26 15:45:00,Yaya Touré,Throughball
+58508,26,BlockedShot,0.95,0.28700000762939454,0.10102614760398865,Sergio Agüero,a,619,OpenPlay,2015,RightFoot,141,Tottenham,Manchester City,4,1,2015-09-26 15:45:00,Yaya Touré,TakeOn
+58509,26,SavedShot,0.825,0.5420000076293945,0.07255268096923828,Raheem Sterling,a,618,OpenPlay,2015,RightFoot,141,Tottenham,Manchester City,4,1,2015-09-26 15:45:00,,None
+58514,42,BlockedShot,0.8780000305175781,0.625,0.10086899995803833,Sergio Agüero,a,619,OpenPlay,2015,LeftFoot,141,Tottenham,Manchester City,4,1,2015-09-26 15:45:00,Raheem Sterling,Pass
+58515,42,MissedShots,0.914000015258789,0.605999984741211,0.02799268811941147,Nicolás Otamendi,a,611,FromCorner,2015,Head,141,Tottenham,Manchester City,4,1,2015-09-26 15:45:00,Aleksandar Kolarov,Cross
+58516,43,SavedShot,0.9169999694824219,0.68,0.08300979435443878,Aleksandar Kolarov,a,621,OpenPlay,2015,LeftFoot,141,Tottenham,Manchester City,4,1,2015-09-26 15:45:00,Raheem Sterling,Pass
+58519,46,SavedShot,0.8280000305175781,0.5570000076293945,0.07390034198760986,Yaya Touré,a,878,OpenPlay,2015,RightFoot,141,Tottenham,Manchester City,4,1,2015-09-26 15:45:00,Raheem Sterling,Pass
+58521,58,SavedShot,0.8419999694824218,0.6780000305175782,0.03732793778181076,Raheem Sterling,a,618,OpenPlay,2015,RightFoot,141,Tottenham,Manchester City,4,1,2015-09-26 15:45:00,Aleksandar Kolarov,Pass
+58524,65,BlockedShot,0.72,0.625999984741211,0.040483977645635605,Aleksandar Kolarov,a,621,DirectFreekick,2015,LeftFoot,141,Tottenham,Manchester City,4,1,2015-09-26 15:45:00,,Standard
+58525,68,SavedShot,0.9159999847412109,0.24399999618530274,0.03935612365603447,Jesús Navas,a,616,OpenPlay,2015,RightFoot,141,Tottenham,Manchester City,4,1,2015-09-26 15:45:00,Bacary Sagna,Pass
+58526,69,BlockedShot,0.8590000152587891,0.5029999923706054,0.06849061697721481,Martín Demichelis,a,623,FromCorner,2015,RightFoot,141,Tottenham,Manchester City,4,1,2015-09-26 15:45:00,,None
+58527,69,MissedShots,0.8380000305175781,0.505,0.060604773461818695,Raheem Sterling,a,618,FromCorner,2015,RightFoot,141,Tottenham,Manchester City,4,1,2015-09-26 15:45:00,,Rebound
+58530,75,MissedShots,0.7340000152587891,0.6079999923706054,0.011770160868763924,Samir Nasri,a,877,OpenPlay,2015,RightFoot,141,Tottenham,Manchester City,4,1,2015-09-26 15:45:00,Raheem Sterling,Pass
+58532,79,BlockedShot,0.8480000305175781,0.695,0.04552018269896507,Sergio Agüero,a,619,OpenPlay,2015,RightFoot,141,Tottenham,Manchester City,4,1,2015-09-26 15:45:00,Aleksandar Kolarov,Pass
+58533,80,MissedShots,0.88,0.3089999961853027,0.04056408256292343,Jesús Navas,a,616,SetPiece,2015,RightFoot,141,Tottenham,Manchester City,4,1,2015-09-26 15:45:00,,None
+58534,81,BlockedShot,0.855,0.315,0.0445350706577301,Jesús Navas,a,616,OpenPlay,2015,RightFoot,141,Tottenham,Manchester City,4,1,2015-09-26 15:45:00,Kevin De Bruyne,Pass
+58535,87,SavedShot,0.759000015258789,0.7140000152587891,0.044458162039518356,Kevin De Bruyne,a,447,DirectFreekick,2015,RightFoot,141,Tottenham,Manchester City,4,1,2015-09-26 15:45:00,,Standard

@@ -1,0 +1,25 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+105345,12,MissedShots,0.7380000305175781,0.25799999237060545,0.012229825370013714,Ángel Di María,h,3553,OpenPlay,2016,LeftFoot,2842,Paris Saint Germain,Rennes,4,0,2016-11-06 23:45:00,,BallRecovery
+105346,20,BlockedShot,0.955999984741211,0.4520000076293945,0.45264166593551636,Thiago Silva,h,3288,FromCorner,2016,Head,2842,Paris Saint Germain,Rennes,4,0,2016-11-06 23:45:00,Ángel Di María,Cross
+105348,28,MissedShots,0.840999984741211,0.3060000038146973,0.03957141935825348,Ángel Di María,h,3553,OpenPlay,2016,LeftFoot,2842,Paris Saint Germain,Rennes,4,0,2016-11-06 23:45:00,Marco Verratti,Chipped
+105349,30,SavedShot,0.9630000305175781,0.345,0.013024238869547844,Edinson Cavani,h,3294,FromCorner,2016,Head,2842,Paris Saint Germain,Rennes,4,0,2016-11-06 23:45:00,Ángel Di María,Cross
+105352,41,SavedShot,0.87,0.705,0.06982233375310898,Lucas Moura,h,3293,OpenPlay,2016,RightFoot,2842,Paris Saint Germain,Rennes,4,0,2016-11-06 23:45:00,Marco Verratti,Pass
+105353,41,Goal,0.745,0.4929999923706055,0.03012310341000557,Edinson Cavani,h,3294,OpenPlay,2016,RightFoot,2842,Paris Saint Germain,Rennes,4,0,2016-11-06 23:45:00,,BallRecovery
+105354,46,MissedShots,0.8780000305175781,0.33099998474121095,0.06292574852705002,Ángel Di María,h,3553,OpenPlay,2016,LeftFoot,2842,Paris Saint Germain,Rennes,4,0,2016-11-06 23:45:00,,None
+105355,48,BlockedShot,0.8159999847412109,0.2589999961853027,0.06492645293474197,Ángel Di María,h,3553,DirectFreekick,2016,LeftFoot,2842,Paris Saint Germain,Rennes,4,0,2016-11-06 23:45:00,,Standard
+105356,61,BlockedShot,0.8280000305175781,0.40799999237060547,0.08164915442466736,Jesé,h,2256,OpenPlay,2016,RightFoot,2842,Paris Saint Germain,Rennes,4,0,2016-11-06 23:45:00,Marco Verratti,Pass
+105357,64,BlockedShot,0.870999984741211,0.6909999847412109,0.06697992980480194,Adrien Rabiot,h,3291,OpenPlay,2016,LeftFoot,2842,Paris Saint Germain,Rennes,4,0,2016-11-06 23:45:00,Ángel Di María,Pass
+105358,65,ShotOnPost,0.7340000152587891,0.23299999237060548,0.015936316922307014,Serge Aurier,h,3600,OpenPlay,2016,RightFoot,2842,Paris Saint Germain,Rennes,4,0,2016-11-06 23:45:00,Ángel Di María,Pass
+105359,66,Goal,0.720999984741211,0.46299999237060546,0.020535841584205627,Adrien Rabiot,h,3291,OpenPlay,2016,LeftFoot,2842,Paris Saint Germain,Rennes,4,0,2016-11-06 23:45:00,Ángel Di María,Pass
+105360,70,MissedShots,0.9219999694824219,0.42200000762939455,0.09701285511255264,Thiago Silva,h,3288,SetPiece,2016,Head,2842,Paris Saint Germain,Rennes,4,0,2016-11-06 23:45:00,Ángel Di María,Cross
+105361,70,ShotOnPost,0.9690000152587891,0.52,0.7029275894165039,Serge Aurier,h,3600,SetPiece,2016,Head,2842,Paris Saint Germain,Rennes,4,0,2016-11-06 23:45:00,Thiago Silva,Rebound
+105363,77,BlockedShot,0.8780000305175781,0.3120000076293945,0.07284186780452728,Jesé,h,2256,OpenPlay,2016,RightFoot,2842,Paris Saint Germain,Rennes,4,0,2016-11-06 23:45:00,Ángel Di María,Pass
+105364,78,Goal,0.885,0.47200000762939454,0.4826458990573883,Marco Verratti,h,3552,OpenPlay,2016,RightFoot,2842,Paris Saint Germain,Rennes,4,0,2016-11-06 23:45:00,Hatem Ben Arfa,Pass
+105365,86,MissedShots,0.8619999694824219,0.34900001525878904,0.08431334793567657,Jesé,h,2256,OpenPlay,2016,RightFoot,2842,Paris Saint Germain,Rennes,4,0,2016-11-06 23:45:00,Thiago Silva,Pass
+105366,87,BlockedShot,0.7340000152587891,0.48900001525878906,0.032793235033750534,Ángel Di María,h,3553,OpenPlay,2016,LeftFoot,2842,Paris Saint Germain,Rennes,4,0,2016-11-06 23:45:00,Marco Verratti,Pass
+105367,91,ShotOnPost,0.9019999694824219,0.46599998474121096,0.23280595242977142,Thiago Motta,h,3292,OpenPlay,2016,Head,2842,Paris Saint Germain,Rennes,4,0,2016-11-06 23:45:00,Maxwell,Cross
+105344,2,SavedShot,0.865999984741211,0.7030000305175781,0.04375838488340378,Paul-Georges Ntep,a,3230,OpenPlay,2016,RightFoot,2842,Paris Saint Germain,Rennes,4,0,2016-11-06 23:45:00,Yoann Gourcuff,Pass
+105347,24,BlockedShot,0.855,0.5690000152587891,0.07791343331336975,Paul-Georges Ntep,a,3230,OpenPlay,2016,RightFoot,2842,Paris Saint Germain,Rennes,4,0,2016-11-06 23:45:00,,BallRecovery
+105350,30,OwnGoal,0.01,0.5329999923706055,0,Gelson Fernandes,a,3224,FromCorner,2016,OtherBodyPart,2842,Paris Saint Germain,Rennes,4,0,2016-11-06 23:45:00,,CornerAwarded
+105351,40,BlockedShot,0.8730000305175781,0.5990000152587891,0.04216914251446724,Pedro Mendes,a,3221,FromCorner,2016,RightFoot,2842,Paris Saint Germain,Rennes,4,0,2016-11-06 23:45:00,Yoann Gourcuff,Cross
+105362,71,MissedShots,0.8819999694824219,0.15800000190734864,0.017794637009501457,Kamil Grosicki,a,3231,SetPiece,2016,RightFoot,2842,Paris Saint Germain,Rennes,4,0,2016-11-06 23:45:00,Nicolas Janvier,Chipped

@@ -1,0 +1,33 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+250420,10,BlockedShot,0.8519999694824218,0.5820000076293945,0.09189631044864655,Callum Wilson,h,468,OpenPlay,2018,RightFoot,9324,Bournemouth,Arsenal,1,2,2018-11-25 13:30:00,Joshua King,Pass
+250421,16,SavedShot,0.9290000152587891,0.5609999847412109,0.05483396351337433,Callum Wilson,h,468,OpenPlay,2018,Head,9324,Bournemouth,Arsenal,1,2,2018-11-25 13:30:00,Simon Francis,Aerial
+250425,29,OwnGoal,0.12300000190734864,0.4209999847412109,0,Jefferson Lerma,h,2182,OpenPlay,2018,RightFoot,9324,Bournemouth,Arsenal,1,2,2018-11-25 13:30:00,,None
+250429,44,BlockedShot,0.7959999847412109,0.3609999847412109,0.02999948523938656,Jefferson Lerma,h,2182,OpenPlay,2018,RightFoot,9324,Bournemouth,Arsenal,1,2,2018-11-25 13:30:00,David Brooks,Pass
+250430,45,Goal,0.8669999694824219,0.34200000762939453,0.09249181300401688,Joshua King,h,465,OpenPlay,2018,LeftFoot,9324,Bournemouth,Arsenal,1,2,2018-11-25 13:30:00,David Brooks,Pass
+250431,48,BlockedShot,0.7980000305175782,0.605999984741211,0.0387125089764595,Joshua King,h,465,OpenPlay,2018,RightFoot,9324,Bournemouth,Arsenal,1,2,2018-11-25 13:30:00,Jefferson Lerma,BallRecovery
+250436,64,SavedShot,0.905,0.28899999618530275,0.042623843997716904,David Brooks,h,6820,OpenPlay,2018,LeftFoot,9324,Bournemouth,Arsenal,1,2,2018-11-25 13:30:00,Joshua King,Pass
+250440,71,SavedShot,0.76,0.4279999923706055,0.024202611297369003,Ryan Fraser,h,1683,OpenPlay,2018,RightFoot,9324,Bournemouth,Arsenal,1,2,2018-11-25 13:30:00,Jefferson Lerma,Pass
+250441,76,BlockedShot,0.8080000305175781,0.3029999923706055,0.021139387041330338,Junior Stanislas,h,463,OpenPlay,2018,RightFoot,9324,Bournemouth,Arsenal,1,2,2018-11-25 13:30:00,Simon Francis,Pass
+250443,79,SavedShot,0.889000015258789,0.5159999847412109,0.08229485154151917,Junior Stanislas,h,463,OpenPlay,2018,RightFoot,9324,Bournemouth,Arsenal,1,2,2018-11-25 13:30:00,Charlie Daniels,Cross
+250445,84,ShotOnPost,0.735,0.46900001525878904,0.018689149990677834,Jefferson Lerma,h,2182,OpenPlay,2018,RightFoot,9324,Bournemouth,Arsenal,1,2,2018-11-25 13:30:00,Junior Stanislas,Pass
+250447,95,MissedShots,0.8169999694824219,0.5609999847412109,0.15399973094463348,Junior Stanislas,h,463,DirectFreekick,2018,RightFoot,9324,Bournemouth,Arsenal,1,2,2018-11-25 13:30:00,,Standard
+250416,1,BlockedShot,0.765,0.5109999847412109,0.029064757749438286,Henrikh Mkhitaryan,a,317,OpenPlay,2018,RightFoot,9324,Bournemouth,Arsenal,1,2,2018-11-25 13:30:00,Lucas Torreira,BallRecovery
+250417,8,ShotOnPost,0.749000015258789,0.48400001525878905,0.02204393409192562,Lucas Torreira,a,1227,OpenPlay,2018,RightFoot,9324,Bournemouth,Arsenal,1,2,2018-11-25 13:30:00,,BallRecovery
+250418,8,MissedShots,0.88,0.62,0.06437999755144119,Alex Iwobi,a,500,OpenPlay,2018,RightFoot,9324,Bournemouth,Arsenal,1,2,2018-11-25 13:30:00,,Rebound
+250419,9,MissedShots,0.7919999694824219,0.25,0.014537292532622814,Lucas Torreira,a,1227,OpenPlay,2018,RightFoot,9324,Bournemouth,Arsenal,1,2,2018-11-25 13:30:00,Henrikh Mkhitaryan,Pass
+250422,20,SavedShot,0.875,0.6880000305175781,0.04115080088376999,Alex Iwobi,a,500,OpenPlay,2018,RightFoot,9324,Bournemouth,Arsenal,1,2,2018-11-25 13:30:00,Sead Kolasinac,Pass
+250423,22,MissedShots,0.9459999847412109,0.38,0.0782657191157341,Pierre-Emerick Aubameyang,a,318,FromCorner,2018,RightFoot,9324,Bournemouth,Arsenal,1,2,2018-11-25 13:30:00,,None
+250424,22,MissedShots,0.9059999847412109,0.6179999923706054,0.02217116765677929,Sead Kolasinac,a,342,OpenPlay,2018,Head,9324,Bournemouth,Arsenal,1,2,2018-11-25 13:30:00,Pierre-Emerick Aubameyang,Cross
+250426,33,SavedShot,0.759000015258789,0.5479999923706055,0.03270059451460838,Alex Iwobi,a,500,OpenPlay,2018,RightFoot,9324,Bournemouth,Arsenal,1,2,2018-11-25 13:30:00,Granit Xhaka,Pass
+250427,39,MissedShots,0.8019999694824219,0.5029999923706054,0.060737643390893936,Henrikh Mkhitaryan,a,317,OpenPlay,2018,LeftFoot,9324,Bournemouth,Arsenal,1,2,2018-11-25 13:30:00,,None
+250428,40,SavedShot,0.8580000305175781,0.6040000152587891,0.1100984737277031,Henrikh Mkhitaryan,a,317,OpenPlay,2018,RightFoot,9324,Bournemouth,Arsenal,1,2,2018-11-25 13:30:00,,TakeOn
+250432,54,BlockedShot,0.8880000305175781,0.42700000762939455,0.05276448652148247,Henrikh Mkhitaryan,a,317,OpenPlay,2018,RightFoot,9324,Bournemouth,Arsenal,1,2,2018-11-25 13:30:00,,Aerial
+250433,55,BlockedShot,0.8630000305175781,0.39,0.05783320963382721,Héctor Bellerín,a,492,OpenPlay,2018,RightFoot,9324,Bournemouth,Arsenal,1,2,2018-11-25 13:30:00,,Rebound
+250434,56,BlockedShot,0.764000015258789,0.305,0.016578949987888336,Lucas Torreira,a,1227,OpenPlay,2018,RightFoot,9324,Bournemouth,Arsenal,1,2,2018-11-25 13:30:00,,BallRecovery
+250435,63,MissedShots,0.8159999847412109,0.45799999237060546,0.06429014354944229,Pierre-Emerick Aubameyang,a,318,OpenPlay,2018,RightFoot,9324,Bournemouth,Arsenal,1,2,2018-11-25 13:30:00,Henrikh Mkhitaryan,Pass
+250437,66,Goal,0.9580000305175781,0.49599998474121093,0.692945122718811,Pierre-Emerick Aubameyang,a,318,OpenPlay,2018,RightFoot,9324,Bournemouth,Arsenal,1,2,2018-11-25 13:30:00,Sead Kolasinac,Pass
+250438,68,MissedShots,0.9669999694824218,0.6569999694824219,0.11267093569040298,Henrikh Mkhitaryan,a,317,OpenPlay,2018,LeftFoot,9324,Bournemouth,Arsenal,1,2,2018-11-25 13:30:00,Pierre-Emerick Aubameyang,Pass
+250439,69,BlockedShot,0.9459999847412109,0.6930000305175781,0.09255252778530121,Henrikh Mkhitaryan,a,317,OpenPlay,2018,LeftFoot,9324,Bournemouth,Arsenal,1,2,2018-11-25 13:30:00,Alex Iwobi,TakeOn
+250442,77,MissedShots,0.965,0.6969999694824218,0.05855879932641983,Sead Kolasinac,a,342,OpenPlay,2018,LeftFoot,9324,Bournemouth,Arsenal,1,2,2018-11-25 13:30:00,Rob Holding,Chipped
+250444,79,MissedShots,0.7980000305175782,0.3770000076293945,0.0459524430334568,Henrikh Mkhitaryan,a,317,OpenPlay,2018,RightFoot,9324,Bournemouth,Arsenal,1,2,2018-11-25 13:30:00,,None
+250446,90,MissedShots,0.7859999847412109,0.5790000152587891,0.045609354972839355,Pierre-Emerick Aubameyang,a,318,OpenPlay,2018,LeftFoot,9324,Bournemouth,Arsenal,1,2,2018-11-25 13:30:00,Aaron Ramsey,Pass

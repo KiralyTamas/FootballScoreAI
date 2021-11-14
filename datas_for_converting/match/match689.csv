@@ -1,0 +1,34 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+99943,8,MissedShots,0.754000015258789,0.39799999237060546,0.018317386507987976,Karim Laribi,h,1953,OpenPlay,2015,RightFoot,689,Sassuolo,Fiorentina,1,1,2015-11-30 22:00:00,Gregoire Defrel,Pass
+99945,16,BlockedShot,0.7919999694824219,0.5420000076293945,0.03452898561954498,Karim Laribi,h,1953,OpenPlay,2015,RightFoot,689,Sassuolo,Fiorentina,1,1,2015-11-30 22:00:00,,BallTouch
+99952,31,MissedShots,0.740999984741211,0.3370000076293945,0.045147303491830826,Nicola Sansone,h,1826,DirectFreekick,2015,RightFoot,689,Sassuolo,Fiorentina,1,1,2015-11-30 22:00:00,,Standard
+99953,36,MissedShots,0.9130000305175782,0.5979999923706054,0.07180259376764297,Sergio Floccari,h,1446,OpenPlay,2015,RightFoot,689,Sassuolo,Fiorentina,1,1,2015-11-30 22:00:00,Federico Peluso,Cross
+99954,41,Goal,0.935,0.5279999923706055,0.12078449875116348,Sergio Floccari,h,1446,FromCorner,2015,Head,689,Sassuolo,Fiorentina,1,1,2015-11-30 22:00:00,Sime Vrsaljko,Cross
+99955,48,SavedShot,0.7240000152587891,0.500999984741211,0.017618170008063316,Karim Laribi,h,1953,OpenPlay,2015,RightFoot,689,Sassuolo,Fiorentina,1,1,2015-11-30 22:00:00,Simone Missiroli,Pass
+99957,54,BlockedShot,0.7040000152587891,0.47400001525878904,0.012398102320730686,Francesco Magnanelli,h,1466,OpenPlay,2015,RightFoot,689,Sassuolo,Fiorentina,1,1,2015-11-30 22:00:00,Gregoire Defrel,Pass
+99958,57,MissedShots,0.795,0.28100000381469725,0.02354895882308483,Sergio Floccari,h,1446,OpenPlay,2015,RightFoot,689,Sassuolo,Fiorentina,1,1,2015-11-30 22:00:00,Gregoire Defrel,Pass
+99960,59,BlockedShot,0.815,0.649000015258789,0.035719133913517,Sergio Floccari,h,1446,OpenPlay,2015,RightFoot,689,Sassuolo,Fiorentina,1,1,2015-11-30 22:00:00,Gregoire Defrel,Pass
+99961,60,BlockedShot,0.81,0.37400001525878906,0.02589208446443081,Nicola Sansone,h,1826,FromCorner,2015,RightFoot,689,Sassuolo,Fiorentina,1,1,2015-11-30 22:00:00,,None
+99962,60,BlockedShot,0.8819999694824219,0.29399999618530276,0.02530209720134735,Gregoire Defrel,h,1468,FromCorner,2015,LeftFoot,689,Sassuolo,Fiorentina,1,1,2015-11-30 22:00:00,Francesco Magnanelli,Chipped
+99965,63,BlockedShot,0.8080000305175781,0.4370000076293945,0.052526216953992844,Gregoire Defrel,h,1468,OpenPlay,2015,LeftFoot,689,Sassuolo,Fiorentina,1,1,2015-11-30 22:00:00,Sergio Floccari,LayOff
+99966,64,BlockedShot,0.8830000305175781,0.7130000305175781,0.04145849123597145,Simone Missiroli,h,1603,OpenPlay,2015,RightFoot,689,Sassuolo,Fiorentina,1,1,2015-11-30 22:00:00,Sergio Floccari,Pass
+99967,66,BlockedShot,0.975999984741211,0.5879999923706055,0.309622198343277,Sergio Floccari,h,1446,OpenPlay,2015,LeftFoot,689,Sassuolo,Fiorentina,1,1,2015-11-30 22:00:00,Sime Vrsaljko,Cross
+99972,91,MissedShots,0.7080000305175781,0.635,0.010023477487266064,Antonio Floro Flores,h,1338,OpenPlay,2015,RightFoot,689,Sassuolo,Fiorentina,1,1,2015-11-30 22:00:00,,None
+99973,91,MissedShots,0.710999984741211,0.62,0.01058618351817131,Francesco Magnanelli,h,1466,OpenPlay,2015,RightFoot,689,Sassuolo,Fiorentina,1,1,2015-11-30 22:00:00,,Rebound
+99941,4,MissedShots,0.919000015258789,0.4370000076293945,0.1361406445503235,Giuseppe Rossi,a,1644,OpenPlay,2015,LeftFoot,689,Sassuolo,Fiorentina,1,1,2015-11-30 22:00:00,Josip Ilicic,Pass
+99942,4,Goal,0.93,0.48900001525878906,0.5595738291740417,Borja Valero,a,1422,OpenPlay,2015,RightFoot,689,Sassuolo,Fiorentina,1,1,2015-11-30 22:00:00,Giuseppe Rossi,Rebound
+99944,12,BlockedShot,0.87,0.49599998474121093,0.08994919806718826,Federico Bernardeschi,a,1424,OpenPlay,2015,LeftFoot,689,Sassuolo,Fiorentina,1,1,2015-11-30 22:00:00,Manuel Pasqual,Cross
+99946,17,BlockedShot,0.8009999847412109,0.40200000762939453,0.0505421906709671,Giuseppe Rossi,a,1644,OpenPlay,2015,LeftFoot,689,Sassuolo,Fiorentina,1,1,2015-11-30 22:00:00,Borja Valero,Pass
+99947,17,SavedShot,0.7519999694824219,0.6959999847412109,0.016097286716103554,Borja Valero,a,1422,OpenPlay,2015,RightFoot,689,Sassuolo,Fiorentina,1,1,2015-11-30 22:00:00,,TakeOn
+99948,25,SavedShot,0.8969999694824219,0.34799999237060547,0.3366365134716034,Josip Ilicic,a,1426,OpenPlay,2015,RightFoot,689,Sassuolo,Fiorentina,1,1,2015-11-30 22:00:00,Federico Bernardeschi,Throughball
+99949,26,BlockedShot,0.74,0.37099998474121093,0.017998119816184044,Facundo Roncaglia,a,1884,OpenPlay,2015,RightFoot,689,Sassuolo,Fiorentina,1,1,2015-11-30 22:00:00,Josip Ilicic,Pass
+99950,27,BlockedShot,0.8780000305175781,0.634000015258789,0.08240418881177902,Giuseppe Rossi,a,1644,OpenPlay,2015,LeftFoot,689,Sassuolo,Fiorentina,1,1,2015-11-30 22:00:00,,None
+99951,28,MissedShots,0.7759999847412109,0.5640000152587891,0.04075877368450165,Milan Badelj,a,1430,OpenPlay,2015,RightFoot,689,Sassuolo,Fiorentina,1,1,2015-11-30 22:00:00,Borja Valero,Pass
+99956,49,MissedShots,0.785,0.355,0.02485521137714386,Federico Bernardeschi,a,1424,OpenPlay,2015,LeftFoot,689,Sassuolo,Fiorentina,1,1,2015-11-30 22:00:00,Josip Ilicic,Pass
+99959,58,BlockedShot,0.845999984741211,0.740999984741211,0.024671640247106552,Nikola Kalinic,a,1425,OpenPlay,2015,RightFoot,689,Sassuolo,Fiorentina,1,1,2015-11-30 22:00:00,,None
+99963,60,MissedShots,0.765,0.39299999237060546,0.019697675481438637,Matías Vecino,a,1423,OpenPlay,2015,RightFoot,689,Sassuolo,Fiorentina,1,1,2015-11-30 22:00:00,Federico Bernardeschi,Pass
+99964,62,SavedShot,0.9069999694824219,0.7609999847412109,0.030138548463582993,Manuel Pasqual,a,1309,OpenPlay,2015,LeftFoot,689,Sassuolo,Fiorentina,1,1,2015-11-30 22:00:00,,None
+99968,70,BlockedShot,0.769000015258789,0.500999984741211,0.030741358175873756,Nikola Kalinic,a,1425,OpenPlay,2015,RightFoot,689,Sassuolo,Fiorentina,1,1,2015-11-30 22:00:00,Federico Bernardeschi,Pass
+99969,82,MissedShots,0.7980000305175782,0.34400001525878904,0.08155479282140732,Josip Ilicic,a,1426,DirectFreekick,2015,LeftFoot,689,Sassuolo,Fiorentina,1,1,2015-11-30 22:00:00,,Standard
+99970,88,MissedShots,0.8009999847412109,0.7280000305175781,0.02134832926094532,Marcos Alonso,a,1621,OpenPlay,2015,RightFoot,689,Sassuolo,Fiorentina,1,1,2015-11-30 22:00:00,Joan Verdú,Pass
+99971,89,MissedShots,0.8109999847412109,0.49400001525878906,0.06108584627509117,Joan Verdú,a,1969,OpenPlay,2015,LeftFoot,689,Sassuolo,Fiorentina,1,1,2015-11-30 22:00:00,Nikola Kalinic,LayOff

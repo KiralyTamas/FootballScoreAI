@@ -1,0 +1,37 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+421889,5,MissedShots,0.9569999694824218,0.6029999923706054,0.3029758632183075,Klaas-Jan Huntelaar,h,340,OpenPlay,2020,LeftFoot,15433,Schalke 04,Eintracht Frankfurt,4,3,2021-05-15 13:30:00,Blendi Idrizi,Chipped
+421892,14,SavedShot,0.885,0.5,0.7576152682304382,Klaas-Jan Huntelaar,h,340,Penalty,2020,RightFoot,15433,Schalke 04,Eintracht Frankfurt,4,3,2021-05-15 13:30:00,,Standard
+421893,14,Goal,0.919000015258789,0.47200000762939454,0.5367140769958496,Klaas-Jan Huntelaar,h,340,SetPiece,2020,RightFoot,15433,Schalke 04,Eintracht Frankfurt,4,3,2021-05-15 13:30:00,,Rebound
+421897,24,SavedShot,0.9230000305175782,0.5259999847412109,0.37354135513305664,Klaas-Jan Huntelaar,h,340,OpenPlay,2020,RightFoot,15433,Schalke 04,Eintracht Frankfurt,4,3,2021-05-15 13:30:00,Amine Harit,Chipped
+421901,37,MissedShots,0.8730000305175781,0.40099998474121096,0.009012173861265182,Shkodran Mustafi,h,1699,SetPiece,2020,Head,15433,Schalke 04,Eintracht Frankfurt,4,3,2021-05-15 13:30:00,Bastian Oczipka,Aerial
+421904,43,MissedShots,0.9030000305175782,0.5529999923706055,0.07670368999242783,Mark Uth,h,88,OpenPlay,2020,Head,15433,Schalke 04,Eintracht Frankfurt,4,3,2021-05-15 13:30:00,Klaas-Jan Huntelaar,Cross
+421908,51,Goal,0.8180000305175781,0.41900001525878905,0.26898300647735596,Blendi Idrizi,h,9526,OpenPlay,2020,LeftFoot,15433,Schalke 04,Eintracht Frankfurt,4,3,2021-05-15 13:30:00,Klaas-Jan Huntelaar,Pass
+421909,59,Goal,0.8930000305175781,0.425,0.3989558815956116,Florian Flick,h,9412,OpenPlay,2020,RightFoot,15433,Schalke 04,Eintracht Frankfurt,4,3,2021-05-15 13:30:00,Matthew Hoppe,Throughball
+421910,63,Goal,0.9019999694824219,0.67,0.315382182598114,Matthew Hoppe,h,9160,OpenPlay,2020,RightFoot,15433,Schalke 04,Eintracht Frankfurt,4,3,2021-05-15 13:30:00,Gonçalo Paciência,Pass
+421913,70,MissedShots,0.88,0.74,0.03558192402124405,Gonçalo Paciência,h,7051,OpenPlay,2020,RightFoot,15433,Schalke 04,Eintracht Frankfurt,4,3,2021-05-15 13:30:00,,None
+421922,80,MissedShots,0.7609999847412109,0.6619999694824219,0.024838563054800034,Bastian Oczipka,h,285,OpenPlay,2020,LeftFoot,15433,Schalke 04,Eintracht Frankfurt,4,3,2021-05-15 13:30:00,Amine Harit,Pass
+421890,8,SavedShot,0.9019999694824219,0.36900001525878906,0.12855516374111176,Timothy Chandler,a,359,OpenPlay,2020,RightFoot,15433,Schalke 04,Eintracht Frankfurt,4,3,2021-05-15 13:30:00,Amin Younes,TakeOn
+421891,9,BlockedShot,0.754000015258789,0.3729999923706055,0.016155114397406578,Djibril Sow,a,2624,FromCorner,2020,RightFoot,15433,Schalke 04,Eintracht Frankfurt,4,3,2021-05-15 13:30:00,,None
+421894,16,BlockedShot,0.8640000152587891,0.39799999237060546,0.0770156979560852,André Silva,a,6170,OpenPlay,2020,LeftFoot,15433,Schalke 04,Eintracht Frankfurt,4,3,2021-05-15 13:30:00,Daichi Kamada,Pass
+421895,16,BlockedShot,0.9019999694824219,0.6509999847412109,0.05983223393559456,Filip Kostic,a,64,OpenPlay,2020,LeftFoot,15433,Schalke 04,Eintracht Frankfurt,4,3,2021-05-15 13:30:00,,Rebound
+421896,20,SavedShot,0.955999984741211,0.5359999847412109,0.5636729001998901,André Silva,a,6170,OpenPlay,2020,RightFoot,15433,Schalke 04,Eintracht Frankfurt,4,3,2021-05-15 13:30:00,Filip Kostic,Pass
+421898,28,Goal,0.9569999694824218,0.38099998474121094,0.15447111427783966,André Silva,a,6170,OpenPlay,2020,Head,15433,Schalke 04,Eintracht Frankfurt,4,3,2021-05-15 13:30:00,Amin Younes,Cross
+421899,35,SavedShot,0.9069999694824219,0.5459999847412109,0.2837739586830139,Evan Ndicka,a,7049,SetPiece,2020,Head,15433,Schalke 04,Eintracht Frankfurt,4,3,2021-05-15 13:30:00,Filip Kostic,Chipped
+421900,36,MissedShots,0.75,0.40599998474121096,0.01656777411699295,Filip Kostic,a,64,FromCorner,2020,LeftFoot,15433,Schalke 04,Eintracht Frankfurt,4,3,2021-05-15 13:30:00,,None
+421902,40,MissedShots,0.8219999694824218,0.7130000305175781,0.026910075917840004,André Silva,a,6170,OpenPlay,2020,RightFoot,15433,Schalke 04,Eintracht Frankfurt,4,3,2021-05-15 13:30:00,Evan Ndicka,Pass
+421903,42,MissedShots,0.7369999694824219,0.3579999923706055,0.017263533547520638,Timothy Chandler,a,359,OpenPlay,2020,RightFoot,15433,Schalke 04,Eintracht Frankfurt,4,3,2021-05-15 13:30:00,Djibril Sow,Pass
+421905,46,MissedShots,0.870999984741211,0.46700000762939453,0.03929049149155617,André Silva,a,6170,OpenPlay,2020,Head,15433,Schalke 04,Eintracht Frankfurt,4,3,2021-05-15 13:30:00,Djibril Sow,Cross
+421906,48,MissedShots,0.9059999847412109,0.4209999847412109,0.03301093354821205,Timothy Chandler,a,359,OpenPlay,2020,Head,15433,Schalke 04,Eintracht Frankfurt,4,3,2021-05-15 13:30:00,Filip Kostic,Aerial
+421907,50,Goal,0.9630000305175781,0.5629999923706055,0.06984495371580124,Evan Ndicka,a,7049,FromCorner,2020,Head,15433,Schalke 04,Eintracht Frankfurt,4,3,2021-05-15 13:30:00,Daichi Kamada,Aerial
+421911,65,MissedShots,0.745,0.7069999694824218,0.015391250140964985,Amin Younes,a,7289,OpenPlay,2020,RightFoot,15433,Schalke 04,Eintracht Frankfurt,4,3,2021-05-15 13:30:00,Martin Hinteregger,Pass
+421912,69,MissedShots,0.8919999694824219,0.435,0.014691355638206005,Martin Hinteregger,a,2668,FromCorner,2020,Head,15433,Schalke 04,Eintracht Frankfurt,4,3,2021-05-15 13:30:00,Filip Kostic,Aerial
+421914,71,SavedShot,0.9309999847412109,0.34700000762939454,0.0595923475921154,Luka Jovic,a,6228,FromCorner,2020,RightFoot,15433,Schalke 04,Eintracht Frankfurt,4,3,2021-05-15 13:30:00,Martin Hinteregger,HeadPass
+421915,71,BlockedShot,0.9690000152587891,0.4779999923706055,0.4911538362503052,André Silva,a,6170,FromCorner,2020,RightFoot,15433,Schalke 04,Eintracht Frankfurt,4,3,2021-05-15 13:30:00,,Goal
+421916,71,Goal,0.980999984741211,0.4470000076293945,0.6662602424621582,André Silva,a,6170,FromCorner,2020,RightFoot,15433,Schalke 04,Eintracht Frankfurt,4,3,2021-05-15 13:30:00,,Rebound
+421917,73,BlockedShot,0.8830000305175781,0.5790000152587891,0.04025699198246002,Martin Hinteregger,a,2668,OpenPlay,2020,LeftFoot,15433,Schalke 04,Eintracht Frankfurt,4,3,2021-05-15 13:30:00,,Aerial
+421918,75,BlockedShot,0.88,0.47,0.03515065833926201,Tuta,a,7524,FromCorner,2020,LeftFoot,15433,Schalke 04,Eintracht Frankfurt,4,3,2021-05-15 13:30:00,,Aerial
+421919,77,SavedShot,0.9290000152587891,0.4520000076293945,0.34954634308815,André Silva,a,6170,OpenPlay,2020,Head,15433,Schalke 04,Eintracht Frankfurt,4,3,2021-05-15 13:30:00,Steven Zuber,Aerial
+421920,78,MissedShots,0.8569999694824219,0.5459999847412109,0.05715988576412201,Steven Zuber,a,254,OpenPlay,2020,LeftFoot,15433,Schalke 04,Eintracht Frankfurt,4,3,2021-05-15 13:30:00,Filip Kostic,Cross
+421921,79,MissedShots,0.9030000305175782,0.575,0.0807659924030304,Luka Jovic,a,6228,OpenPlay,2020,RightFoot,15433,Schalke 04,Eintracht Frankfurt,4,3,2021-05-15 13:30:00,Steven Zuber,Cross
+421923,94,BlockedShot,0.7519999694824219,0.4570000076293945,0.06952627748250961,André Silva,a,6170,DirectFreekick,2020,RightFoot,15433,Schalke 04,Eintracht Frankfurt,4,3,2021-05-15 13:30:00,,Standard
+421924,94,MissedShots,0.740999984741211,0.4520000076293945,0.014274037443101406,André Silva,a,6170,SetPiece,2020,RightFoot,15433,Schalke 04,Eintracht Frankfurt,4,3,2021-05-15 13:30:00,,Rebound

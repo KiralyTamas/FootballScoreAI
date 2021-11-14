@@ -1,0 +1,22 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+392642,0,MissedShots,0.725,0.35400001525878905,0.01127817202359438,Kevin Möhwald,h,7044,OpenPlay,2020,RightFoot,15242,Werder Bremen,Borussia Dortmund,1,2,2020-12-15 19:30:00,,None
+392647,27,Goal,0.799000015258789,0.3729999923706055,0.027834076434373856,Kevin Möhwald,h,7044,OpenPlay,2020,RightFoot,15242,Werder Bremen,Borussia Dortmund,1,2,2020-12-15 19:30:00,Maximilian Eggestein,Pass
+392650,43,SavedShot,0.860999984741211,0.7140000152587891,0.0362267829477787,Ludwig Augustinsson,h,6083,OpenPlay,2020,RightFoot,15242,Werder Bremen,Borussia Dortmund,1,2,2020-12-15 19:30:00,,None
+392653,52,SavedShot,0.874000015258789,0.47,0.028295308351516724,Theodor Gebre Selassie,h,110,OpenPlay,2020,Head,15242,Werder Bremen,Borussia Dortmund,1,2,2020-12-15 19:30:00,Ludwig Augustinsson,Aerial
+392655,60,BlockedShot,0.7340000152587891,0.23,0.03265560045838356,Ludwig Augustinsson,h,6083,DirectFreekick,2020,LeftFoot,15242,Werder Bremen,Borussia Dortmund,1,2,2020-12-15 19:30:00,,Standard
+392660,90,MissedShots,0.8959999847412109,0.36,0.009650209918618202,Leonardo Bittencourt,h,262,OpenPlay,2020,Head,15242,Werder Bremen,Borussia Dortmund,1,2,2020-12-15 19:30:00,Ludwig Augustinsson,Aerial
+392643,11,BlockedShot,0.899000015258789,0.5459999847412109,0.07950923591852188,Mats Hummels,a,373,SetPiece,2020,RightFoot,15242,Werder Bremen,Borussia Dortmund,1,2,2020-12-15 19:30:00,,None
+392644,11,BlockedShot,0.9159999847412109,0.355,0.08710188418626785,Jadon Sancho,a,6345,OpenPlay,2020,RightFoot,15242,Werder Bremen,Borussia Dortmund,1,2,2020-12-15 19:30:00,Giovanni Reyna,Pass
+392645,11,Goal,0.8919999694824219,0.47,0.11115943640470505,Raphael Guerreiro,a,3455,SetPiece,2020,LeftFoot,15242,Werder Bremen,Borussia Dortmund,1,2,2020-12-15 19:30:00,,Rebound
+392646,16,SavedShot,0.8180000305175781,0.6270000076293946,0.07358521968126297,Giovanni Reyna,a,8191,OpenPlay,2020,RightFoot,15242,Werder Bremen,Borussia Dortmund,1,2,2020-12-15 19:30:00,Marco Reus,Pass
+392648,29,MissedShots,0.8080000305175781,0.34599998474121096,0.0317651592195034,Giovanni Reyna,a,8191,FromCorner,2020,RightFoot,15242,Werder Bremen,Borussia Dortmund,1,2,2020-12-15 19:30:00,Jadon Sancho,Pass
+392649,40,SavedShot,0.92,0.5,0.4140399992465973,Manuel Akanji,a,6490,SetPiece,2020,RightFoot,15242,Werder Bremen,Borussia Dortmund,1,2,2020-12-15 19:30:00,Marco Reus,Chipped
+392651,49,MissedShots,0.9530000305175781,0.5640000152587891,0.5574962496757507,Youssoufa Moukoko,a,9133,OpenPlay,2020,LeftFoot,15242,Werder Bremen,Borussia Dortmund,1,2,2020-12-15 19:30:00,Marco Reus,Pass
+392652,50,SavedShot,0.7609999847412109,0.615,0.022440532222390175,Raphael Guerreiro,a,3455,OpenPlay,2020,LeftFoot,15242,Werder Bremen,Borussia Dortmund,1,2,2020-12-15 19:30:00,,Dispossessed
+392654,54,MissedShots,0.695,0.46299999237060546,0.00904578436166048,Mateu Morey,a,8070,SetPiece,2020,RightFoot,15242,Werder Bremen,Borussia Dortmund,1,2,2020-12-15 19:30:00,,None
+392656,68,SavedShot,0.7469999694824219,0.6569999694824219,0.016570938751101494,Raphael Guerreiro,a,3455,OpenPlay,2020,LeftFoot,15242,Werder Bremen,Borussia Dortmund,1,2,2020-12-15 19:30:00,Jadon Sancho,BallRecovery
+392657,71,SavedShot,0.92,0.3820000076293945,0.03943955525755882,Marco Reus,a,319,OpenPlay,2020,Head,15242,Werder Bremen,Borussia Dortmund,1,2,2020-12-15 19:30:00,Mateu Morey,Cross
+392658,77,SavedShot,0.885,0.5,0.75777667760849,Marco Reus,a,319,Penalty,2020,RightFoot,15242,Werder Bremen,Borussia Dortmund,1,2,2020-12-15 19:30:00,,Standard
+392659,77,Goal,0.9790000152587891,0.5070000076293946,0.9461954832077026,Marco Reus,a,319,SetPiece,2020,RightFoot,15242,Werder Bremen,Borussia Dortmund,1,2,2020-12-15 19:30:00,,Rebound
+392661,94,SavedShot,0.9490000152587891,0.4420000076293945,0.5807534456253052,Marco Reus,a,319,OpenPlay,2020,LeftFoot,15242,Werder Bremen,Borussia Dortmund,1,2,2020-12-15 19:30:00,Giovanni Reyna,TakeOn
+392662,94,MissedShots,0.8859999847412109,0.5840000152587891,0.3775143325328827,Jadon Sancho,a,6345,OpenPlay,2020,RightFoot,15242,Werder Bremen,Borussia Dortmund,1,2,2020-12-15 19:30:00,Marco Reus,Pass

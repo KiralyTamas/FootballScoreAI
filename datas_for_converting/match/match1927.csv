@@ -1,0 +1,25 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+62427,25,Goal,0.9409999847412109,0.34400001525878904,0.0937713235616684,Jonathan Bamba,h,3749,OpenPlay,2015,LeftFoot,1927,Saint-Etienne,Nantes,2,0,2015-09-20 19:00:00,Florentin Pogba,TakeOn
+62428,26,BlockedShot,0.845999984741211,0.415,0.08181783556938171,Jonathan Bamba,h,3749,OpenPlay,2015,RightFoot,1927,Saint-Etienne,Nantes,2,0,2015-09-20 19:00:00,Romain Hamouma,Pass
+62429,28,BlockedShot,0.9290000152587891,0.47400001525878904,0.13577187061309814,Robert Beric,h,3691,OpenPlay,2015,RightFoot,1927,Saint-Etienne,Nantes,2,0,2015-09-20 19:00:00,Valentin Eysseric,Cross
+62430,30,MissedShots,0.8669999694824219,0.25,0.034501612186431885,Robert Beric,h,3691,OpenPlay,2015,RightFoot,1927,Saint-Etienne,Nantes,2,0,2015-09-20 19:00:00,Romain Hamouma,Pass
+62431,35,BlockedShot,0.8119999694824219,0.47400001525878904,0.06305371224880219,Jonathan Bamba,h,3749,OpenPlay,2015,LeftFoot,1927,Saint-Etienne,Nantes,2,0,2015-09-20 19:00:00,Robert Beric,Pass
+62432,35,MissedShots,0.725,0.5540000152587891,0.020984094589948654,Vincent Pajot,h,3507,OpenPlay,2015,RightFoot,1927,Saint-Etienne,Nantes,2,0,2015-09-20 19:00:00,Pierre-Yves Polomat,Pass
+62433,39,MissedShots,0.805,0.6020000076293945,0.11531860381364822,Romain Hamouma,h,3561,DirectFreekick,2015,RightFoot,1927,Saint-Etienne,Nantes,2,0,2015-09-20 19:00:00,,Standard
+62436,46,Goal,0.909000015258789,0.4370000076293945,0.38569769263267517,Robert Beric,h,3691,FromCorner,2015,RightFoot,1927,Saint-Etienne,Nantes,2,0,2015-09-20 19:00:00,Vincent Pajot,TakeOn
+62439,58,MissedShots,0.945,0.6519999694824219,0.15660665929317474,Pierre-Yves Polomat,h,3690,OpenPlay,2015,RightFoot,1927,Saint-Etienne,Nantes,2,0,2015-09-20 19:00:00,Romain Hamouma,TakeOn
+62442,59,BlockedShot,0.8090000152587891,0.48900001525878906,0.06834392994642258,Romain Hamouma,h,3561,OpenPlay,2015,RightFoot,1927,Saint-Etienne,Nantes,2,0,2015-09-20 19:00:00,Jonathan Bamba,Pass
+62445,64,MissedShots,0.6869999694824219,0.295,0.019035430625081062,Jonathan Bamba,h,3749,OpenPlay,2015,RightFoot,1927,Saint-Etienne,Nantes,2,0,2015-09-20 19:00:00,Loic Perrin,Pass
+62449,65,SavedShot,0.8580000305175781,0.5829999923706055,0.11217330396175385,Valentin Eysseric,h,3515,OpenPlay,2015,LeftFoot,1927,Saint-Etienne,Nantes,2,0,2015-09-20 19:00:00,Jonathan Bamba,Pass
+62458,75,BlockedShot,0.840999984741211,0.46700000762939453,0.07365594059228897,Jean-Christophe Bahebeck,h,1531,OpenPlay,2015,RightFoot,1927,Saint-Etienne,Nantes,2,0,2015-09-20 19:00:00,Benjamin Corgnet,HeadPass
+62426,14,MissedShots,0.7190000152587891,0.5459999847412109,0.015036571770906448,Yacine Bammou,a,3410,OpenPlay,2015,LeftFoot,1927,Saint-Etienne,Nantes,2,0,2015-09-20 19:00:00,,BallRecovery
+62434,43,MissedShots,0.815,0.30700000762939456,0.02055865339934826,Birama Touré,a,3415,FromCorner,2015,RightFoot,1927,Saint-Etienne,Nantes,2,0,2015-09-20 19:00:00,,None
+62437,48,BlockedShot,0.9740000152587891,0.40099998474121096,0.06444608420133591,Alejandro Bedoya,a,3405,OpenPlay,2015,Head,1927,Saint-Etienne,Nantes,2,0,2015-09-20 19:00:00,Ermir Lenjani,Cross
+62438,49,MissedShots,0.7659999847412109,0.515,0.025613365694880486,Valentin Rongier,a,3673,OpenPlay,2015,RightFoot,1927,Saint-Etienne,Nantes,2,0,2015-09-20 19:00:00,Yacine Bammou,Pass
+62443,61,MissedShots,0.8109999847412109,0.33799999237060546,0.022961454465985298,Lorik Cana,a,3400,FromCorner,2015,LeftFoot,1927,Saint-Etienne,Nantes,2,0,2015-09-20 19:00:00,,None
+62450,69,MissedShots,0.8780000305175781,0.5590000152587891,0.026951342821121216,Alejandro Bedoya,a,3405,FromCorner,2015,Head,1927,Saint-Etienne,Nantes,2,0,2015-09-20 19:00:00,Jules Iloki,Cross
+62451,70,MissedShots,0.915,0.6179999923706054,0.05060771852731705,Johan Audel,a,3409,OpenPlay,2015,LeftFoot,1927,Saint-Etienne,Nantes,2,0,2015-09-20 19:00:00,Léo Dubois,Cross
+62456,73,BlockedShot,0.905,0.4209999847412109,0.07881821691989899,Koffi Djidji,a,3550,FromCorner,2015,RightFoot,1927,Saint-Etienne,Nantes,2,0,2015-09-20 19:00:00,Lorik Cana,Pass
+62457,73,MissedShots,0.6580000305175782,0.3679999923706055,0.005747439339756966,Emiliano Sala,a,3406,OpenPlay,2015,RightFoot,1927,Saint-Etienne,Nantes,2,0,2015-09-20 19:00:00,,None
+62459,81,SavedShot,0.754000015258789,0.7169999694824218,0.011062594130635262,Ermir Lenjani,a,3411,OpenPlay,2015,LeftFoot,1927,Saint-Etienne,Nantes,2,0,2015-09-20 19:00:00,Adrien Thomasson,Pass
+62463,92,SavedShot,0.9019999694824219,0.4809999847412109,0.05415046587586403,Johan Audel,a,3409,OpenPlay,2015,Head,1927,Saint-Etienne,Nantes,2,0,2015-09-20 19:00:00,Léo Dubois,Aerial

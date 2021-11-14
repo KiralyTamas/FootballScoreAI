@@ -1,0 +1,31 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+91299,0,BlockedShot,0.775,0.34200000762939453,0.021532608196139336,Sofiane Feghouli,h,1674,OpenPlay,2015,RightFoot,1677,Valencia,Atletico Madrid,1,3,2016-03-06 23:30:00,Paco Alcácer,HeadPass
+91307,21,SavedShot,0.7909999847412109,0.6859999847412109,0.014535617083311081,Denis Cheryshev,h,2494,FromCorner,2015,LeftFoot,1677,Valencia,Atletico Madrid,1,3,2016-03-06 23:30:00,,Aerial
+91309,27,Goal,0.9059999847412109,0.635,0.3146562874317169,Denis Cheryshev,h,2494,OpenPlay,2015,LeftFoot,1677,Valencia,Atletico Madrid,1,3,2016-03-06 23:30:00,Paco Alcácer,HeadPass
+91312,37,MissedShots,0.875999984741211,0.595999984741211,0.34766313433647156,Denis Cheryshev,h,2494,OpenPlay,2015,LeftFoot,1677,Valencia,Atletico Madrid,1,3,2016-03-06 23:30:00,Paco Alcácer,Pass
+91313,39,BlockedShot,0.7340000152587891,0.44299999237060544,0.014198631048202515,André Gomes,h,2383,OpenPlay,2015,LeftFoot,1677,Valencia,Atletico Madrid,1,3,2016-03-06 23:30:00,,None
+91318,53,BlockedShot,0.8669999694824219,0.32099998474121094,0.04856518283486366,Sofiane Feghouli,h,1674,OpenPlay,2015,RightFoot,1677,Valencia,Atletico Madrid,1,3,2016-03-06 23:30:00,,None
+91319,53,MissedShots,0.8619999694824219,0.705999984741211,0.01955035887658596,Denis Cheryshev,h,2494,FromCorner,2015,LeftFoot,1677,Valencia,Atletico Madrid,1,3,2016-03-06 23:30:00,Shkodran Mustafi,HeadPass
+91320,58,SavedShot,0.9259999847412109,0.33,0.32727330923080444,Paco Alcácer,h,2380,OpenPlay,2015,RightFoot,1677,Valencia,Atletico Madrid,1,3,2016-03-06 23:30:00,Sofiane Feghouli,Throughball
+91322,66,BlockedShot,0.85,0.3029999923706055,0.03783904388546944,Sofiane Feghouli,h,1674,OpenPlay,2015,LeftFoot,1677,Valencia,Atletico Madrid,1,3,2016-03-06 23:30:00,João Cancelo,Pass
+91325,75,MissedShots,0.7240000152587891,0.47,0.01806533709168434,Danilo,h,2387,OpenPlay,2015,RightFoot,1677,Valencia,Atletico Madrid,1,3,2016-03-06 23:30:00,Sofiane Feghouli,Pass
+91300,6,MissedShots,0.8640000152587891,0.6730000305175782,0.05219394341111183,Koke,a,2269,OpenPlay,2015,LeftFoot,1677,Valencia,Atletico Madrid,1,3,2016-03-06 23:30:00,Antoine Griezmann,Pass
+91301,7,MissedShots,0.919000015258789,0.5259999847412109,0.05669704079627991,Giménez,a,2278,FromCorner,2015,Head,1677,Valencia,Atletico Madrid,1,3,2016-03-06 23:30:00,,None
+91302,9,BlockedShot,0.8469999694824218,0.4779999923706055,0.09174825996160507,Saúl Ñíguez,a,2266,OpenPlay,2015,LeftFoot,1677,Valencia,Atletico Madrid,1,3,2016-03-06 23:30:00,Luciano Vietto,Pass
+91303,14,MissedShots,0.91,0.32799999237060545,0.06336105614900589,Luciano Vietto,a,2274,OpenPlay,2015,RightFoot,1677,Valencia,Atletico Madrid,1,3,2016-03-06 23:30:00,Koke,Chipped
+91304,18,BlockedShot,0.7559999847412109,0.5770000076293945,0.02120181918144226,Matías Kranevitter,a,2423,OpenPlay,2015,RightFoot,1677,Valencia,Atletico Madrid,1,3,2016-03-06 23:30:00,Saúl Ñíguez,Pass
+91305,18,SavedShot,0.7930000305175782,0.5070000076293946,0.0447240024805069,Antoine Griezmann,a,2270,OpenPlay,2015,RightFoot,1677,Valencia,Atletico Madrid,1,3,2016-03-06 23:30:00,Luciano Vietto,Pass
+91306,19,MissedShots,0.8859999847412109,0.5590000152587891,0.050389036536216736,Luciano Vietto,a,2274,FromCorner,2015,RightFoot,1677,Valencia,Atletico Madrid,1,3,2016-03-06 23:30:00,Gabi,Cross
+91308,23,Goal,0.7730000305175782,0.40299999237060546,0.027544116601347923,Antoine Griezmann,a,2270,OpenPlay,2015,LeftFoot,1677,Valencia,Atletico Madrid,1,3,2016-03-06 23:30:00,Koke,Pass
+91310,28,MissedShots,0.754000015258789,0.5879999923706055,0.020923592150211334,Antoine Griezmann,a,2270,OpenPlay,2015,LeftFoot,1677,Valencia,Atletico Madrid,1,3,2016-03-06 23:30:00,Filipe Luis,Pass
+91311,32,MissedShots,0.9469999694824218,0.6569999694824219,0.09181586652994156,Luciano Vietto,a,2274,SetPiece,2015,LeftFoot,1677,Valencia,Atletico Madrid,1,3,2016-03-06 23:30:00,Antoine Griezmann,Throughball
+91314,40,MissedShots,0.7519999694824219,0.47200000762939454,0.02487461268901825,Luciano Vietto,a,2274,OpenPlay,2015,LeftFoot,1677,Valencia,Atletico Madrid,1,3,2016-03-06 23:30:00,Gabi,TakeOn
+91315,46,MissedShots,0.88,0.5179999923706055,0.06118723377585411,Saúl Ñíguez,a,2266,OpenPlay,2015,Head,1677,Valencia,Atletico Madrid,1,3,2016-03-06 23:30:00,Filipe Luis,Cross
+91316,48,BlockedShot,0.8690000152587891,0.7280000305175781,0.03226016089320183,Antoine Griezmann,a,2270,OpenPlay,2015,LeftFoot,1677,Valencia,Atletico Madrid,1,3,2016-03-06 23:30:00,Gabi,Pass
+91317,52,MissedShots,0.7619999694824219,0.475,0.025822196155786514,Gabi,a,2268,OpenPlay,2015,RightFoot,1677,Valencia,Atletico Madrid,1,3,2016-03-06 23:30:00,Filipe Luis,Pass
+91321,59,SavedShot,0.875,0.534000015258789,0.08132842183113098,Luciano Vietto,a,2274,OpenPlay,2015,RightFoot,1677,Valencia,Atletico Madrid,1,3,2016-03-06 23:30:00,Antoine Griezmann,HeadPass
+91323,68,MissedShots,0.92,0.47299999237060547,0.13110880553722382,Saúl Ñíguez,a,2266,OpenPlay,2015,Head,1677,Valencia,Atletico Madrid,1,3,2016-03-06 23:30:00,Filipe Luis,Cross
+91324,71,Goal,0.9719999694824218,0.5690000152587891,0.465514212846756,Fernando Torres,a,2271,FromCorner,2015,RightFoot,1677,Valencia,Atletico Madrid,1,3,2016-03-06 23:30:00,Giménez,HeadPass
+91326,76,ShotOnPost,0.764000015258789,0.5790000152587891,0.03466219827532768,Yannick Carrasco,a,2272,OpenPlay,2015,RightFoot,1677,Valencia,Atletico Madrid,1,3,2016-03-06 23:30:00,Fernando Torres,HeadPass
+91327,84,Goal,0.8830000305175781,0.345,0.10240990668535233,Yannick Carrasco,a,2272,OpenPlay,2015,LeftFoot,1677,Valencia,Atletico Madrid,1,3,2016-03-06 23:30:00,Antoine Griezmann,TakeOn
+91328,91,MissedShots,0.8590000152587891,0.4929999923706055,0.105878546833992,Yannick Carrasco,a,2272,OpenPlay,2015,RightFoot,1677,Valencia,Atletico Madrid,1,3,2016-03-06 23:30:00,Juanfran,Cross

@@ -1,0 +1,24 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+131630,0,BlockedShot,0.885,0.365,0.1173127144575119,Sandro Sirigu,h,380,OpenPlay,2016,RightFoot,3217,Darmstadt,Bayern Munich,0,1,2016-12-18 18:30:00,Marcel Heller,Pass
+131632,4,BlockedShot,0.875999984741211,0.7140000152587891,0.023097582161426544,Marcel Heller,h,6,OpenPlay,2016,RightFoot,3217,Darmstadt,Bayern Munich,0,1,2016-12-18 18:30:00,Sandro Sirigu,Chipped
+131633,5,MissedShots,0.97,0.620999984741211,0.01290429662913084,Jan Rosenthal,h,10,FromCorner,2016,Head,3217,Darmstadt,Bayern Munich,0,1,2016-12-18 18:30:00,Mario Vrancic,Aerial
+131635,23,MissedShots,0.7809999847412109,0.664000015258789,0.011137481778860092,Jan Rosenthal,h,10,SetPiece,2016,LeftFoot,3217,Darmstadt,Bayern Munich,0,1,2016-12-18 18:30:00,,Aerial
+131638,40,MissedShots,0.8219999694824218,0.6909999847412109,0.022334689274430275,Mario Vrancic,h,12,FromCorner,2016,RightFoot,3217,Darmstadt,Bayern Munich,0,1,2016-12-18 18:30:00,,None
+131640,50,MissedShots,0.855,0.5159999847412109,0.10853390395641327,Jérôme Gondorf,h,8,OpenPlay,2016,LeftFoot,3217,Darmstadt,Bayern Munich,0,1,2016-12-18 18:30:00,Sven Schipplock,HeadPass
+131644,57,MissedShots,0.7559999847412109,0.42900001525878906,0.07005669176578522,Mario Vrancic,h,12,DirectFreekick,2016,LeftFoot,3217,Darmstadt,Bayern Munich,0,1,2016-12-18 18:30:00,,Standard
+131650,76,SavedShot,0.789000015258789,0.55,0.10935813933610916,Jérôme Gondorf,h,8,DirectFreekick,2016,RightFoot,3217,Darmstadt,Bayern Munich,0,1,2016-12-18 18:30:00,,Standard
+131651,76,SavedShot,0.9269999694824219,0.4759999847412109,0.4036064147949219,Peter Niemeyer,h,299,SetPiece,2016,Head,3217,Darmstadt,Bayern Munich,0,1,2016-12-18 18:30:00,,Rebound
+131652,83,MissedShots,0.8690000152587891,0.539000015258789,0.035461846739053726,Antonio-Mirko Colak,h,5282,OpenPlay,2016,Head,3217,Darmstadt,Bayern Munich,0,1,2016-12-18 18:30:00,Marcel Heller,Cross
+131631,2,MissedShots,0.749000015258789,0.375,0.019943946972489357,Arturo Vidal,a,222,OpenPlay,2016,RightFoot,3217,Darmstadt,Bayern Munich,0,1,2016-12-18 18:30:00,Thiago Alcántara,Pass
+131634,21,MissedShots,0.749000015258789,0.5879999923706055,0.021098922938108444,Douglas Costa,a,393,OpenPlay,2016,LeftFoot,3217,Darmstadt,Bayern Munich,0,1,2016-12-18 18:30:00,Thiago Alcántara,Pass
+131636,25,MissedShots,0.935,0.46599998474121096,0.11656539142131805,Robert Lewandowski,a,227,OpenPlay,2016,Head,3217,Darmstadt,Bayern Munich,0,1,2016-12-18 18:30:00,Thomas Müller,Pass
+131637,39,MissedShots,0.960999984741211,0.5329999923706055,0.5450026392936707,Mats Hummels,a,373,SetPiece,2016,Head,3217,Darmstadt,Bayern Munich,0,1,2016-12-18 18:30:00,Douglas Costa,Cross
+131639,44,MissedShots,0.7530000305175781,0.595999984741211,0.06452303379774094,Robert Lewandowski,a,227,DirectFreekick,2016,RightFoot,3217,Darmstadt,Bayern Munich,0,1,2016-12-18 18:30:00,,Standard
+131641,50,MissedShots,0.4420000076293945,0.48900001525878906,0.006274931598454714,Xabi Alonso,a,230,OpenPlay,2016,RightFoot,3217,Darmstadt,Bayern Munich,0,1,2016-12-18 18:30:00,David Alaba,Pass
+131642,53,SavedShot,0.9740000152587891,0.345,0.061108704656362534,Thomas Müller,a,224,OpenPlay,2016,RightFoot,3217,Darmstadt,Bayern Munich,0,1,2016-12-18 18:30:00,Robert Lewandowski,Chipped
+131643,54,MissedShots,0.9019999694824219,0.47400001525878904,0.10069729387760162,Robert Lewandowski,a,227,OpenPlay,2016,RightFoot,3217,Darmstadt,Bayern Munich,0,1,2016-12-18 18:30:00,Rafinha,Cross
+131645,59,MissedShots,0.895,0.515,0.08528754115104675,Thomas Müller,a,224,OpenPlay,2016,Head,3217,Darmstadt,Bayern Munich,0,1,2016-12-18 18:30:00,David Alaba,Cross
+131646,63,BlockedShot,0.9119999694824219,0.615999984741211,0.024970175698399544,Robert Lewandowski,a,227,FromCorner,2016,Head,3217,Darmstadt,Bayern Munich,0,1,2016-12-18 18:30:00,Douglas Costa,Cross
+131647,66,BlockedShot,0.7390000152587891,0.5790000152587891,0.018515797331929207,Douglas Costa,a,393,OpenPlay,2016,RightFoot,3217,Darmstadt,Bayern Munich,0,1,2016-12-18 18:30:00,Thiago Alcántara,Pass
+131648,70,Goal,0.6719999694824219,0.34799999237060547,0.01163819245994091,Douglas Costa,a,393,SetPiece,2016,LeftFoot,3217,Darmstadt,Bayern Munich,0,1,2016-12-18 18:30:00,Thiago Alcántara,Pass
+131649,72,MissedShots,0.9259999847412109,0.46799999237060547,0.14209774136543274,Thomas Müller,a,224,OpenPlay,2016,Head,3217,Darmstadt,Bayern Munich,0,1,2016-12-18 18:30:00,David Alaba,Cross

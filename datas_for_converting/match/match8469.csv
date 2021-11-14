@@ -1,0 +1,20 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+197290,10,MissedShots,0.740999984741211,0.555,0.01107583288103342,Florian Grillitsch,h,116,OpenPlay,2017,RightFoot,8469,Hoffenheim,Freiburg,1,1,2018-02-24 14:30:00,,Aerial
+197293,26,MissedShots,0.765,0.42400001525878905,0.022826701402664185,Kevin Akpoguma,h,6327,OpenPlay,2017,RightFoot,8469,Hoffenheim,Freiburg,1,1,2018-02-24 14:30:00,Pavel Kaderábek,Pass
+197295,41,SavedShot,0.905,0.6309999847412109,0.08852142840623856,Dennis Geiger,h,6081,OpenPlay,2017,LeftFoot,8469,Hoffenheim,Freiburg,1,1,2018-02-24 14:30:00,Serge Gnabry,Pass
+197296,44,MissedShots,0.9459999847412109,0.38299999237060545,0.08244936168193817,Pavel Kaderábek,h,74,OpenPlay,2017,RightFoot,8469,Hoffenheim,Freiburg,1,1,2018-02-24 14:30:00,,None
+197297,50,SavedShot,0.9169999694824219,0.6990000152587891,0.05158011242747307,Serge Gnabry,h,993,OpenPlay,2017,LeftFoot,8469,Hoffenheim,Freiburg,1,1,2018-02-24 14:30:00,Dennis Geiger,Pass
+197298,51,MissedShots,0.815,0.5459999847412109,0.038860443979501724,Serge Gnabry,h,993,FromCorner,2017,RightFoot,8469,Hoffenheim,Freiburg,1,1,2018-02-24 14:30:00,,None
+197299,56,Goal,0.774000015258789,0.43,0.08685117959976196,Andrej Kramaric,h,956,DirectFreekick,2017,RightFoot,8469,Hoffenheim,Freiburg,1,1,2018-02-24 14:30:00,,Standard
+197302,74,ShotOnPost,0.919000015258789,0.49900001525878906,0.09348821640014648,Pavel Kaderábek,h,74,OpenPlay,2017,Head,8469,Hoffenheim,Freiburg,1,1,2018-02-24 14:30:00,Dennis Geiger,Chipped
+197303,83,SavedShot,0.765,0.25799999237060545,0.017419330775737762,Florian Grillitsch,h,116,OpenPlay,2017,RightFoot,8469,Hoffenheim,Freiburg,1,1,2018-02-24 14:30:00,Lukas Rupp,Pass
+197304,83,MissedShots,0.89,0.6959999847412109,0.039655979722738266,Dennis Geiger,h,6081,OpenPlay,2017,LeftFoot,8469,Hoffenheim,Freiburg,1,1,2018-02-24 14:30:00,,Rebound
+197306,92,BlockedShot,0.8519999694824218,0.3270000076293945,0.017752861604094505,Serge Gnabry,h,993,OpenPlay,2017,RightFoot,8469,Hoffenheim,Freiburg,1,1,2018-02-24 14:30:00,,Aerial
+197307,93,MissedShots,0.799000015258789,0.3940000152587891,0.015139897353947163,Florian Grillitsch,h,116,OpenPlay,2017,LeftFoot,8469,Hoffenheim,Freiburg,1,1,2018-02-24 14:30:00,,Aerial
+197289,7,SavedShot,0.7380000305175781,0.799000015258789,0.010720187798142433,Robin Koch,a,6273,OpenPlay,2017,RightFoot,8469,Hoffenheim,Freiburg,1,1,2018-02-24 14:30:00,,BallRecovery
+197291,22,BlockedShot,0.759000015258789,0.5070000076293946,0.02358490228652954,Robin Koch,a,6273,OpenPlay,2017,LeftFoot,8469,Hoffenheim,Freiburg,1,1,2018-02-24 14:30:00,,None
+197292,25,SavedShot,0.9130000305175782,0.34200000762939453,0.07666315138339996,Janik Haberer,a,4271,OpenPlay,2017,RightFoot,8469,Hoffenheim,Freiburg,1,1,2018-02-24 14:30:00,Pascal Stenzel,Pass
+197294,34,BlockedShot,0.7880000305175782,0.654000015258789,0.026434823870658875,Lucas Höler,a,6475,OpenPlay,2017,LeftFoot,8469,Hoffenheim,Freiburg,1,1,2018-02-24 14:30:00,Nils Petersen,Pass
+197300,58,MissedShots,0.8959999847412109,0.5159999847412109,0.09301479905843735,Robin Koch,a,6273,SetPiece,2017,Head,8469,Hoffenheim,Freiburg,1,1,2018-02-24 14:30:00,Christian Günter,Cross
+197301,65,Goal,0.885,0.5,0.75777667760849,Nils Petersen,a,4248,Penalty,2017,RightFoot,8469,Hoffenheim,Freiburg,1,1,2018-02-24 14:30:00,,Standard
+197305,90,BlockedShot,0.8240000152587891,0.7869999694824219,0.02076779305934906,Nils Petersen,a,4248,OpenPlay,2017,RightFoot,8469,Hoffenheim,Freiburg,1,1,2018-02-24 14:30:00,Robin Koch,HeadPass

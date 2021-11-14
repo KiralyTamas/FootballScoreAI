@@ -1,0 +1,22 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+403133,4,BlockedShot,0.8090000152587891,0.23600000381469727,0.017709484323859215,Leandro Barreiro Martins,h,7109,OpenPlay,2020,RightFoot,15317,Mainz 05,Union Berlin,1,0,2021-02-06 14:30:00,Ádám Szalai,BallTouch
+403134,6,BlockedShot,0.845,0.35900001525878905,0.05974380671977997,Ádám Szalai,h,360,OpenPlay,2020,RightFoot,15317,Mainz 05,Union Berlin,1,0,2021-02-06 14:30:00,Karim Onisiwo,Pass
+403136,21,Goal,0.885,0.5,0.7576152682304382,Moussa Niakhate,h,5989,Penalty,2020,LeftFoot,15317,Mainz 05,Union Berlin,1,0,2021-02-06 14:30:00,,Standard
+403137,24,SavedShot,0.8580000305175781,0.5270000076293946,0.039498910307884216,Karim Onisiwo,h,2631,OpenPlay,2020,Head,15317,Mainz 05,Union Berlin,1,0,2021-02-06 14:30:00,Danny da Costa,Cross
+403140,47,SavedShot,0.9530000305175781,0.5279999923706055,0.5837910771369934,Ádám Szalai,h,360,OpenPlay,2020,Head,15317,Mainz 05,Union Berlin,1,0,2021-02-06 14:30:00,Philipp Mwene,Cross
+403145,62,SavedShot,0.870999984741211,0.36700000762939455,0.08611100912094116,Karim Onisiwo,h,2631,OpenPlay,2020,RightFoot,15317,Mainz 05,Union Berlin,1,0,2021-02-06 14:30:00,,BallRecovery
+403146,63,MissedShots,0.9019999694824219,0.49599998474121093,0.07277812063694,Karim Onisiwo,h,2631,FromCorner,2020,Head,15317,Mainz 05,Union Berlin,1,0,2021-02-06 14:30:00,Danny Latza,Cross
+403148,74,MissedShots,0.749000015258789,0.605,0.03334977105259895,Danny Latza,h,43,OpenPlay,2020,RightFoot,15317,Mainz 05,Union Berlin,1,0,2021-02-06 14:30:00,Moussa Niakhate,TakeOn
+403149,89,MissedShots,0.91,0.5220000076293946,0.4300776422023773,Robert Glatzel,h,9326,OpenPlay,2020,LeftFoot,15317,Mainz 05,Union Berlin,1,0,2021-02-06 14:30:00,Jonathan Burkardt,HeadPass
+403152,91,SavedShot,0.8630000305175781,0.5879999923706055,0.12660086154937744,Robert Glatzel,h,9326,OpenPlay,2020,LeftFoot,15317,Mainz 05,Union Berlin,1,0,2021-02-06 14:30:00,Danny da Costa,Chipped
+403135,9,BlockedShot,0.860999984741211,0.4179999923706055,0.048266734927892685,Marcus Ingvartsen,a,7883,OpenPlay,2020,LeftFoot,15317,Mainz 05,Union Berlin,1,0,2021-02-06 14:30:00,Christopher Trimmel,Cross
+403138,38,MissedShots,0.8440000152587891,0.46099998474121096,0.022185565903782845,Robin Knoche,a,161,SetPiece,2020,Head,15317,Mainz 05,Union Berlin,1,0,2021-02-06 14:30:00,Marcus Ingvartsen,Cross
+403139,43,SavedShot,0.96,0.3770000076293945,0.03453144431114197,Taiwo Awoniyi,a,7814,SetPiece,2020,RightFoot,15317,Mainz 05,Union Berlin,1,0,2021-02-06 14:30:00,Christopher Trimmel,Cross
+403141,50,SavedShot,0.925,0.5720000076293945,0.3179548382759094,Cedric Teuchert,a,6522,OpenPlay,2020,LeftFoot,15317,Mainz 05,Union Berlin,1,0,2021-02-06 14:30:00,Nico Schlotterbeck,Chipped
+403142,51,MissedShots,0.9130000305175782,0.5220000076293946,0.06789761036634445,Taiwo Awoniyi,a,7814,OpenPlay,2020,RightFoot,15317,Mainz 05,Union Berlin,1,0,2021-02-06 14:30:00,Marvin Friedrich,Card
+403143,51,MissedShots,0.8580000305175781,0.34599998474121096,0.058675799518823624,Robert Andrich,a,7877,OpenPlay,2020,LeftFoot,15317,Mainz 05,Union Berlin,1,0,2021-02-06 14:30:00,Christopher Trimmel,Pass
+403144,58,MissedShots,0.7519999694824219,0.37900001525878907,0.01694539375603199,Robert Andrich,a,7877,OpenPlay,2020,RightFoot,15317,Mainz 05,Union Berlin,1,0,2021-02-06 14:30:00,,None
+403147,68,SavedShot,0.8,0.6819999694824219,0.025580253452062607,Marcus Ingvartsen,a,7883,OpenPlay,2020,LeftFoot,15317,Mainz 05,Union Berlin,1,0,2021-02-06 14:30:00,Taiwo Awoniyi,Pass
+403150,90,SavedShot,0.8780000305175781,0.4779999923706055,0.27363964915275574,Joel Pohjanpalo,a,5222,OpenPlay,2020,RightFoot,15317,Mainz 05,Union Berlin,1,0,2021-02-06 14:30:00,Julian Ryerson,Chipped
+403151,91,BlockedShot,0.875,0.6370000076293946,0.055283479392528534,Joel Pohjanpalo,a,5222,OpenPlay,2020,LeftFoot,15317,Mainz 05,Union Berlin,1,0,2021-02-06 14:30:00,,None
+403153,92,BlockedShot,0.710999984741211,0.48700000762939455,0.01700105518102646,Robert Andrich,a,7877,OpenPlay,2020,RightFoot,15317,Mainz 05,Union Berlin,1,0,2021-02-06 14:30:00,Petar Musa,Pass

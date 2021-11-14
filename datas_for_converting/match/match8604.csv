@@ -1,0 +1,26 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+162676,1,Goal,0.91,0.445,0.3280491828918457,Kamil Glik,h,1800,SetPiece,2017,RightFoot,8604,Monaco,Marseille,6,1,2017-08-27 20:00:00,Thomas Lemar,Cross
+162678,2,SavedShot,0.8090000152587891,0.6430000305175781,0.3111654222011566,Adama Diakhaby,h,5740,OpenPlay,2017,LeftFoot,8604,Monaco,Marseille,6,1,2017-08-27 20:00:00,Thomas Lemar,Throughball
+162679,6,MissedShots,0.8440000152587891,0.35400001525878905,0.04129325598478317,Jemerson,h,3581,SetPiece,2017,RightFoot,8604,Monaco,Marseille,6,1,2017-08-27 20:00:00,,None
+162680,19,Goal,0.885,0.5,0.7600951194763184,Falcao,h,696,Penalty,2017,RightFoot,8604,Monaco,Marseille,6,1,2017-08-27 20:00:00,,Standard
+162681,33,Goal,0.9169999694824219,0.49900001525878906,0.38332611322402954,Falcao,h,696,SetPiece,2017,Head,8604,Monaco,Marseille,6,1,2017-08-27 20:00:00,Adama Diakhaby,HeadPass
+162683,43,MissedShots,0.960999984741211,0.57,0.37337809801101685,Kamil Glik,h,1800,SetPiece,2017,Head,8604,Monaco,Marseille,6,1,2017-08-27 20:00:00,João Moutinho,Chipped
+162684,44,Goal,0.9640000152587891,0.500999984741211,0.8816784024238586,Adama Diakhaby,h,5740,OpenPlay,2017,LeftFoot,8604,Monaco,Marseille,6,1,2017-08-27 20:00:00,Rony Lopes,Pass
+162685,48,MissedShots,0.794000015258789,0.7330000305175781,0.018709100782871246,Thomas Lemar,h,3425,OpenPlay,2017,LeftFoot,8604,Monaco,Marseille,6,1,2017-08-27 20:00:00,Adama Diakhaby,Pass
+162691,67,ShotOnPost,0.95,0.5279999923706055,0.1243535578250885,Kamil Glik,h,1800,FromCorner,2017,Head,8604,Monaco,Marseille,6,1,2017-08-27 20:00:00,João Moutinho,Cross
+162692,67,Goal,0.9430000305175781,0.44099998474121094,0.31365966796875,Djibril Sidibe,h,3357,FromCorner,2017,Head,8604,Monaco,Marseille,6,1,2017-08-27 20:00:00,,Rebound
+162693,71,BlockedShot,0.905,0.445,0.14280761778354645,Falcao,h,696,OpenPlay,2017,RightFoot,8604,Monaco,Marseille,6,1,2017-08-27 20:00:00,Djibril Sidibe,Pass
+162697,78,Goal,0.885,0.5,0.7600951194763184,Fabinho,h,3420,Penalty,2017,RightFoot,8604,Monaco,Marseille,6,1,2017-08-27 20:00:00,,Standard
+162698,82,SavedShot,0.8490000152587891,0.425,0.11082684993743896,Youri Tielemans,h,5956,OpenPlay,2017,RightFoot,8604,Monaco,Marseille,6,1,2017-08-27 20:00:00,Rony Lopes,Pass
+162700,84,MissedShots,0.7559999847412109,0.4640000152587891,0.021352022886276245,Rony Lopes,h,3362,OpenPlay,2017,LeftFoot,8604,Monaco,Marseille,6,1,2017-08-27 20:00:00,Guido Carrillo,TakeOn
+162677,2,BlockedShot,0.845999984741211,0.41900001525878905,0.07099728286266327,Valère Germain,a,3309,OpenPlay,2017,RightFoot,8604,Monaco,Marseille,6,1,2017-08-27 20:00:00,Florian Thauvin,Pass
+162682,40,MissedShots,0.765,0.710999984741211,0.014257196336984634,Florian Thauvin,a,942,OpenPlay,2017,LeftFoot,8604,Monaco,Marseille,6,1,2017-08-27 20:00:00,Jordan Amavi,Pass
+162686,50,MissedShots,0.7619999694824219,0.45,0.017018916085362434,Florian Thauvin,a,942,OpenPlay,2017,LeftFoot,8604,Monaco,Marseille,6,1,2017-08-27 20:00:00,,None
+162687,57,SavedShot,0.875999984741211,0.544000015258789,0.32293814420700073,Morgan Sanson,a,3696,OpenPlay,2017,RightFoot,8604,Monaco,Marseille,6,1,2017-08-27 20:00:00,Valère Germain,Pass
+162688,60,MissedShots,0.7290000152587891,0.575,0.009959375485777855,Luiz Gustavo,a,387,OpenPlay,2017,LeftFoot,8604,Monaco,Marseille,6,1,2017-08-27 20:00:00,,None
+162689,61,SavedShot,0.9530000305175781,0.34599998474121096,0.25988098978996277,Florian Thauvin,a,942,OpenPlay,2017,LeftFoot,8604,Monaco,Marseille,6,1,2017-08-27 20:00:00,Morgan Sanson,Chipped
+162690,64,MissedShots,0.735,0.2989999961853027,0.039796747267246246,Florian Thauvin,a,942,DirectFreekick,2017,LeftFoot,8604,Monaco,Marseille,6,1,2017-08-27 20:00:00,,Standard
+162694,73,BlockedShot,0.9030000305175782,0.66,0.04253977909684181,Rémy Cabella,a,3390,OpenPlay,2017,RightFoot,8604,Monaco,Marseille,6,1,2017-08-27 20:00:00,Florian Thauvin,Chipped
+162695,74,MissedShots,0.919000015258789,0.735999984741211,0.027780545875430107,Florian Thauvin,a,942,OpenPlay,2017,LeftFoot,8604,Monaco,Marseille,6,1,2017-08-27 20:00:00,Maxime Lopez,Chipped
+162696,74,Goal,0.9580000305175781,0.4540000152587891,0.5845451354980469,Rémy Cabella,a,3390,OpenPlay,2017,RightFoot,8604,Monaco,Marseille,6,1,2017-08-27 20:00:00,Florian Thauvin,Rebound
+162699,83,MissedShots,0.785,0.485,0.04213492572307587,Florian Thauvin,a,942,OpenPlay,2017,LeftFoot,8604,Monaco,Marseille,6,1,2017-08-27 20:00:00,Franck Zambo,Pass

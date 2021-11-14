@@ -1,0 +1,25 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+327647,2,BlockedShot,0.9880000305175781,0.654000015258789,0.055550508201122284,Blerim Dzemaili,h,1444,OpenPlay,2019,LeftFoot,13170,Bologna,Sampdoria,2,1,2019-10-27 11:30:00,,None
+327648,19,BlockedShot,0.7609999847412109,0.6370000076293946,0.05935892090201378,Rodrigo Palacio,h,1518,DirectFreekick,2019,RightFoot,13170,Bologna,Sampdoria,2,1,2019-10-27 11:30:00,,Standard
+327652,38,MissedShots,0.894000015258789,0.34299999237060547,0.045457880944013596,Andreas Skov Olsen,h,7934,OpenPlay,2019,LeftFoot,13170,Bologna,Sampdoria,2,1,2019-10-27 11:30:00,Rodrigo Palacio,Cross
+327653,41,SavedShot,0.955999984741211,0.43599998474121093,0.5803053379058838,Rodrigo Palacio,h,1518,OpenPlay,2019,RightFoot,13170,Bologna,Sampdoria,2,1,2019-10-27 11:30:00,Roberto Soriano,Pass
+327657,47,Goal,0.8219999694824218,0.4909999847412109,0.27033835649490356,Rodrigo Palacio,h,1518,OpenPlay,2019,RightFoot,13170,Bologna,Sampdoria,2,1,2019-10-27 11:30:00,Roberto Soriano,Pass
+327659,53,MissedShots,0.8190000152587891,0.7169999694824218,0.029605736956000328,Rodrigo Palacio,h,1518,OpenPlay,2019,RightFoot,13170,Bologna,Sampdoria,2,1,2019-10-27 11:30:00,Blerim Dzemaili,Pass
+327660,54,MissedShots,0.9690000152587891,0.34299999237060547,0.014444545842707157,Riccardo Orsolini,h,6160,OpenPlay,2019,Head,13170,Bologna,Sampdoria,2,1,2019-10-27 11:30:00,Rodrigo Palacio,Cross
+327661,59,SavedShot,0.855999984741211,0.6990000152587891,0.04284577816724777,Nicola Sansone,h,1826,OpenPlay,2019,RightFoot,13170,Bologna,Sampdoria,2,1,2019-10-27 11:30:00,Ladislav Krejci,Pass
+327665,73,MissedShots,0.7780000305175782,0.6759999847412109,0.06129884719848633,Nicola Sansone,h,1826,DirectFreekick,2019,RightFoot,13170,Bologna,Sampdoria,2,1,2019-10-27 11:30:00,,Standard
+327666,77,MissedShots,0.9540000152587891,0.5329999923706055,0.08261502534151077,Ibrahima Mbaye,h,1458,FromCorner,2019,Head,13170,Bologna,Sampdoria,2,1,2019-10-27 11:30:00,Nicola Sansone,Aerial
+327667,77,Goal,0.970999984741211,0.48400001525878905,0.8074854016304016,Mattia Bani,h,6212,FromCorner,2019,RightFoot,13170,Bologna,Sampdoria,2,1,2019-10-27 11:30:00,Ibrahima Mbaye,Rebound
+327669,85,MissedShots,0.96,0.365,0.1744653433561325,Riccardo Orsolini,h,6160,OpenPlay,2019,Head,13170,Bologna,Sampdoria,2,1,2019-10-27 11:30:00,Roberto Soriano,Cross
+327670,88,SavedShot,0.8830000305175781,0.3609999847412109,0.09484972804784775,Riccardo Orsolini,h,6160,OpenPlay,2019,LeftFoot,13170,Bologna,Sampdoria,2,1,2019-10-27 11:30:00,Nicola Sansone,Pass
+327649,24,BlockedShot,0.8519999694824218,0.39599998474121095,0.04889983683824539,Fabio Quagliarella,a,1230,FromCorner,2019,LeftFoot,13170,Bologna,Sampdoria,2,1,2019-10-27 11:30:00,,None
+327650,24,ShotOnPost,0.919000015258789,0.49700000762939456,0.11357767879962921,Manolo Gabbiadini,a,1383,FromCorner,2019,LeftFoot,13170,Bologna,Sampdoria,2,1,2019-10-27 11:30:00,Fabio Quagliarella,None
+327651,36,BlockedShot,0.7659999847412109,0.505,0.02855083905160427,Jakub Jankto,a,1146,OpenPlay,2019,LeftFoot,13170,Bologna,Sampdoria,2,1,2019-10-27 11:30:00,Omar Colley,Pass
+327654,46,BlockedShot,0.955,0.6719999694824219,0.04022752866148949,Fabio Quagliarella,a,1230,FromCorner,2019,LeftFoot,13170,Bologna,Sampdoria,2,1,2019-10-27 11:30:00,Fabio Depaoli,BallTouch
+327655,46,SavedShot,0.9730000305175781,0.6469999694824219,0.05977395176887512,Fabio Quagliarella,a,1230,FromCorner,2019,RightFoot,13170,Bologna,Sampdoria,2,1,2019-10-27 11:30:00,,Rebound
+327656,46,MissedShots,0.9419999694824219,0.305,0.0483759306371212,Jakub Jankto,a,1146,FromCorner,2019,RightFoot,13170,Bologna,Sampdoria,2,1,2019-10-27 11:30:00,Manolo Gabbiadini,Pass
+327658,49,BlockedShot,0.7980000305175782,0.6140000152587891,0.03225727379322052,Fabio Quagliarella,a,1230,OpenPlay,2019,RightFoot,13170,Bologna,Sampdoria,2,1,2019-10-27 11:30:00,,None
+327662,63,Goal,0.745999984741211,0.38,0.01901540718972683,Manolo Gabbiadini,a,1383,OpenPlay,2019,LeftFoot,13170,Bologna,Sampdoria,2,1,2019-10-27 11:30:00,Ronaldo Vieira,Pass
+327663,66,BlockedShot,0.8730000305175781,0.3390000152587891,0.06171199306845665,Albin Ekdal,a,411,OpenPlay,2019,RightFoot,13170,Bologna,Sampdoria,2,1,2019-10-27 11:30:00,Fabio Depaoli,Pass
+327664,67,MissedShots,0.7769999694824219,0.36,0.017914967611432076,Bartosz Bereszynski,a,4907,FromCorner,2019,RightFoot,13170,Bologna,Sampdoria,2,1,2019-10-27 11:30:00,,None
+327668,84,BlockedShot,0.805,0.524000015258789,0.039975039660930634,Ronaldo Vieira,a,7097,OpenPlay,2019,LeftFoot,13170,Bologna,Sampdoria,2,1,2019-10-27 11:30:00,Manolo Gabbiadini,Pass

@@ -1,0 +1,23 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+189513,1,Goal,0.7280000305175781,0.22399999618530272,0.03046620450913906,Nabil Fekir,h,3667,DirectFreekick,2017,LeftFoot,8777,Lyon,Paris Saint Germain,2,1,2018-01-21 20:00:00,,Standard
+189515,8,BlockedShot,0.830999984741211,0.23100000381469726,0.02755790203809738,Maxwel Cornet,h,3278,OpenPlay,2017,LeftFoot,8777,Lyon,Paris Saint Germain,2,1,2018-01-21 20:00:00,Lucas Tousart,Pass
+189516,9,SavedShot,0.8830000305175781,0.5940000152587891,0.12507246434688568,Ferland Mendy,h,6233,OpenPlay,2017,LeftFoot,8777,Lyon,Paris Saint Germain,2,1,2018-01-21 20:00:00,Houssem Aouar,TakeOn
+189521,26,MissedShots,0.7219999694824218,0.5990000152587891,0.04537853226065636,Mariano,h,5110,DirectFreekick,2017,RightFoot,8777,Lyon,Paris Saint Germain,2,1,2018-01-21 20:00:00,,Standard
+189522,34,SavedShot,0.725999984741211,0.27600000381469725,0.03473329916596413,Nabil Fekir,h,3667,DirectFreekick,2017,LeftFoot,8777,Lyon,Paris Saint Germain,2,1,2018-01-21 20:00:00,,Standard
+189523,38,MissedShots,0.9469999694824218,0.524000015258789,0.11666890233755112,Marcelo,h,93,SetPiece,2017,Head,8777,Lyon,Paris Saint Germain,2,1,2018-01-21 20:00:00,,Aerial
+189524,46,BlockedShot,0.7559999847412109,0.645,0.024530280381441116,Mariano,h,5110,OpenPlay,2017,RightFoot,8777,Lyon,Paris Saint Germain,2,1,2018-01-21 20:00:00,Houssem Aouar,Pass
+189529,62,SavedShot,0.8690000152587891,0.28299999237060547,0.03003959357738495,Mariano,h,5110,OpenPlay,2017,RightFoot,8777,Lyon,Paris Saint Germain,2,1,2018-01-21 20:00:00,Tanguy NDombele Alvaro,Pass
+189530,81,MissedShots,0.735,0.5179999923706055,0.016534049063920975,Tanguy NDombele Alvaro,h,5962,OpenPlay,2017,RightFoot,8777,Lyon,Paris Saint Germain,2,1,2018-01-21 20:00:00,Nabil Fekir,Pass
+189531,84,SavedShot,0.7830000305175782,0.37599998474121094,0.029570043087005615,Maxwel Cornet,h,3278,OpenPlay,2017,LeftFoot,8777,Lyon,Paris Saint Germain,2,1,2018-01-21 20:00:00,Nabil Fekir,BallRecovery
+189534,93,Goal,0.759000015258789,0.645,0.021905364468693733,Memphis Depay,h,555,OpenPlay,2017,RightFoot,8777,Lyon,Paris Saint Germain,2,1,2018-01-21 20:00:00,Nabil Fekir,Pass
+189514,7,MissedShots,0.634000015258789,0.9169999694824219,0.00681948009878397,Edinson Cavani,a,3294,OpenPlay,2017,LeftFoot,8777,Lyon,Paris Saint Germain,2,1,2018-01-21 20:00:00,,None
+189517,11,SavedShot,0.889000015258789,0.43099998474121093,0.028494086116552353,Edinson Cavani,a,3294,SetPiece,2017,OtherBodyPart,8777,Lyon,Paris Saint Germain,2,1,2018-01-21 20:00:00,Ángel Di María,Cross
+189518,15,MissedShots,0.8969999694824219,0.44799999237060545,0.03973347321152687,Layvin Kurzawa,a,3298,FromCorner,2017,RightFoot,8777,Lyon,Paris Saint Germain,2,1,2018-01-21 20:00:00,Dani Alves,Aerial
+189519,16,MissedShots,0.735999984741211,0.645,0.017462776973843575,Giovani Lo Celso,a,5681,OpenPlay,2017,RightFoot,8777,Lyon,Paris Saint Germain,2,1,2018-01-21 20:00:00,Dani Alves,Pass
+189520,22,BlockedShot,0.7390000152587891,0.35200000762939454,0.2719085216522217,Ángel Di María,a,3553,DirectFreekick,2017,OtherBodyPart,8777,Lyon,Paris Saint Germain,2,1,2018-01-21 20:00:00,,Standard
+189525,47,Goal,0.8730000305175781,0.5770000076293945,0.06458134949207306,Layvin Kurzawa,a,3298,OpenPlay,2017,LeftFoot,8777,Lyon,Paris Saint Germain,2,1,2018-01-21 20:00:00,Dani Alves,Cross
+189526,50,MissedShots,0.840999984741211,0.64,0.056909117847681046,Marco Verratti,a,3552,OpenPlay,2017,RightFoot,8777,Lyon,Paris Saint Germain,2,1,2018-01-21 20:00:00,Layvin Kurzawa,Pass
+189527,55,MissedShots,0.8769999694824219,0.46099998474121096,0.07938823848962784,Layvin Kurzawa,a,3298,FromCorner,2017,LeftFoot,8777,Lyon,Paris Saint Germain,2,1,2018-01-21 20:00:00,,None
+189528,61,SavedShot,0.88,0.40900001525878904,0.0571872740983963,Thiago Silva,a,3288,FromCorner,2017,RightFoot,8777,Lyon,Paris Saint Germain,2,1,2018-01-21 20:00:00,Edinson Cavani,HeadPass
+189532,91,BlockedShot,0.8669999694824219,0.29100000381469726,0.03714943304657936,Thomas Meunier,a,5680,OpenPlay,2017,RightFoot,8777,Lyon,Paris Saint Germain,2,1,2018-01-21 20:00:00,Adrien Rabiot,Pass
+189533,92,MissedShots,0.700999984741211,0.5970000076293945,0.012625785544514656,Giovani Lo Celso,a,5681,FromCorner,2017,LeftFoot,8777,Lyon,Paris Saint Germain,2,1,2018-01-21 20:00:00,,None

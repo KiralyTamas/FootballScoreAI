@@ -1,0 +1,28 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+79942,1,MissedShots,0.915,0.5129999923706055,0.08727560192346573,Haris Seferovic,h,291,SetPiece,2015,Head,1168,Eintracht Frankfurt,Werder Bremen,2,1,2015-12-19 18:30:00,Marc Stendera,Chipped
+79943,5,SavedShot,0.755,0.509000015258789,0.021192945539951324,Haris Seferovic,h,291,OpenPlay,2015,LeftFoot,1168,Eintracht Frankfurt,Werder Bremen,2,1,2015-12-19 18:30:00,,None
+79946,7,SavedShot,0.8580000305175781,0.27600000381469725,0.031055057421326637,Stefan Aigner,h,288,OpenPlay,2015,RightFoot,1168,Eintracht Frankfurt,Werder Bremen,2,1,2015-12-19 18:30:00,Haris Seferovic,Pass
+79947,17,MissedShots,0.8780000305175781,0.295,0.047844626009464264,Stefan Aigner,h,288,OpenPlay,2015,RightFoot,1168,Eintracht Frankfurt,Werder Bremen,2,1,2015-12-19 18:30:00,Alexander Meier,Chipped
+79951,30,Goal,0.9230000305175782,0.549000015258789,0.285850465297699,Alexander Meier,h,356,OpenPlay,2015,Head,1168,Eintracht Frankfurt,Werder Bremen,2,1,2015-12-19 18:30:00,Aleksandar Ignjovski,Aerial
+79953,47,Goal,0.899000015258789,0.4329999923706055,0.12531177699565887,Stefan Aigner,h,288,OpenPlay,2015,RightFoot,1168,Eintracht Frankfurt,Werder Bremen,2,1,2015-12-19 18:30:00,Haris Seferovic,Pass
+79955,51,SavedShot,0.8440000152587891,0.37400001525878906,0.32877957820892334,Haris Seferovic,h,291,OpenPlay,2015,LeftFoot,1168,Eintracht Frankfurt,Werder Bremen,2,1,2015-12-19 18:30:00,Alexander Meier,Throughball
+79956,51,MissedShots,0.8530000305175781,0.3820000076293945,0.2936911880970001,Haris Seferovic,h,291,OpenPlay,2015,LeftFoot,1168,Eintracht Frankfurt,Werder Bremen,2,1,2015-12-19 18:30:00,,Rebound
+79957,58,SavedShot,0.7959999847412109,0.85,0.013004705309867859,Mijat Gacinovic,h,290,OpenPlay,2015,RightFoot,1168,Eintracht Frankfurt,Werder Bremen,2,1,2015-12-19 18:30:00,Haris Seferovic,Pass
+79958,60,MissedShots,0.8619999694824219,0.3220000076293945,0.11372905224561691,Haris Seferovic,h,291,OpenPlay,2015,LeftFoot,1168,Eintracht Frankfurt,Werder Bremen,2,1,2015-12-19 18:30:00,Marc Stendera,Chipped
+79959,65,MissedShots,0.8980000305175782,0.5179999923706055,0.06449446827173233,Alexander Meier,h,356,FromCorner,2015,Head,1168,Eintracht Frankfurt,Werder Bremen,2,1,2015-12-19 18:30:00,Marc Stendera,Cross
+79962,73,MissedShots,0.8159999847412109,0.6419999694824219,0.04310380667448044,Bastian Oczipka,h,285,OpenPlay,2015,RightFoot,1168,Eintracht Frankfurt,Werder Bremen,2,1,2015-12-19 18:30:00,Haris Seferovic,Pass
+79965,90,MissedShots,0.715,0.88,0.01564444601535797,Haris Seferovic,h,291,OpenPlay,2015,LeftFoot,1168,Eintracht Frankfurt,Werder Bremen,2,1,2015-12-19 18:30:00,Marco Russ,Clearance
+79966,90,BlockedShot,0.8640000152587891,0.3940000152587891,0.13842979073524475,Alexander Meier,h,356,OpenPlay,2015,RightFoot,1168,Eintracht Frankfurt,Werder Bremen,2,1,2015-12-19 18:30:00,Haris Seferovic,Rebound
+79967,90,BlockedShot,0.8109999847412109,0.3820000076293945,0.044396497309207916,Alexander Meier,h,356,OpenPlay,2015,RightFoot,1168,Eintracht Frankfurt,Werder Bremen,2,1,2015-12-19 18:30:00,,Rebound
+79968,92,MissedShots,0.7880000305175782,0.605999984741211,0.29691827297210693,Haris Seferovic,h,291,OpenPlay,2015,RightFoot,1168,Eintracht Frankfurt,Werder Bremen,2,1,2015-12-19 18:30:00,Constant Djakpa,BallRecovery
+79944,5,SavedShot,0.8619999694824219,0.5720000076293945,0.35129937529563904,Levin Öztunali,a,118,OpenPlay,2015,RightFoot,1168,Eintracht Frankfurt,Werder Bremen,2,1,2015-12-19 18:30:00,Anthony Ujah,Pass
+79945,5,BlockedShot,0.8619999694824219,0.6580000305175782,0.043794941157102585,Anthony Ujah,a,119,OpenPlay,2015,RightFoot,1168,Eintracht Frankfurt,Werder Bremen,2,1,2015-12-19 18:30:00,,Rebound
+79948,20,BlockedShot,0.7969999694824219,0.620999984741211,0.032714784145355225,Philipp Bargfrede,a,114,OpenPlay,2015,RightFoot,1168,Eintracht Frankfurt,Werder Bremen,2,1,2015-12-19 18:30:00,Florian Grillitsch,None
+79949,26,SavedShot,0.8119999694824219,0.27,0.024453075602650642,Claudio Pizarro,a,122,OpenPlay,2015,RightFoot,1168,Eintracht Frankfurt,Werder Bremen,2,1,2015-12-19 18:30:00,Anthony Ujah,Pass
+79950,28,Goal,0.825999984741211,0.6719999694824219,0.03492831438779831,Claudio Pizarro,a,122,OpenPlay,2015,RightFoot,1168,Eintracht Frankfurt,Werder Bremen,2,1,2015-12-19 18:30:00,,None
+79952,34,MissedShots,0.915,0.705,0.05150352418422699,Janek Sternberg,a,124,OpenPlay,2015,LeftFoot,1168,Eintracht Frankfurt,Werder Bremen,2,1,2015-12-19 18:30:00,Florian Grillitsch,Pass
+79954,49,MissedShots,0.8230000305175781,0.4129999923706055,0.05705055221915245,Anthony Ujah,a,119,OpenPlay,2015,LeftFoot,1168,Eintracht Frankfurt,Werder Bremen,2,1,2015-12-19 18:30:00,Claudio Pizarro,TakeOn
+79960,68,BlockedShot,0.825999984741211,0.4620000076293945,0.06376875191926956,Florian Grillitsch,a,116,OpenPlay,2015,RightFoot,1168,Eintracht Frankfurt,Werder Bremen,2,1,2015-12-19 18:30:00,Janek Sternberg,Pass
+79961,70,SavedShot,0.9480000305175781,0.6930000305175781,0.05942101404070854,Ulisses García,a,399,OpenPlay,2015,LeftFoot,1168,Eintracht Frankfurt,Werder Bremen,2,1,2015-12-19 18:30:00,Levin Öztunali,Pass
+79963,76,MissedShots,0.894000015258789,0.3940000152587891,0.06249017268419266,Anthony Ujah,a,119,OpenPlay,2015,LeftFoot,1168,Eintracht Frankfurt,Werder Bremen,2,1,2015-12-19 18:30:00,Theodor Gebre Selassie,Cross
+79964,90,BlockedShot,0.9209999847412109,0.47299999237060547,0.1045302078127861,Assani Lukimya,a,123,FromCorner,2015,Head,1168,Eintracht Frankfurt,Werder Bremen,2,1,2015-12-19 18:30:00,Fin Bartels,Cross

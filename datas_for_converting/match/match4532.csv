@@ -1,0 +1,26 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+24120,6,MissedShots,0.735,0.4640000152587891,0.018035372719168663,Victor Wanyama,h,836,OpenPlay,2014,LeftFoot,4532,Southampton,West Ham,0,0,2015-02-11 19:45:00,Sadio Mané,Pass
+24121,12,SavedShot,0.9730000305175781,0.3770000076293945,0.09637689590454102,Sadio Mané,h,838,OpenPlay,2014,RightFoot,4532,Southampton,West Ham,0,0,2015-02-11 19:45:00,Steven Davis,TakeOn
+24123,15,SavedShot,0.9290000152587891,0.4420000076293945,0.11682193726301193,Graziano Pellè,h,841,SetPiece,2014,Head,4532,Southampton,West Ham,0,0,2015-02-11 19:45:00,Steven Davis,Cross
+24124,15,BlockedShot,0.8930000305175781,0.58,0.02250410057604313,Florin Gardos,h,4405,SetPiece,2014,Head,4532,Southampton,West Ham,0,0,2015-02-11 19:45:00,,Aerial
+24125,24,MissedShots,0.7140000152587891,0.3820000076293945,0.03891916200518608,Sadio Mané,h,838,DirectFreekick,2014,RightFoot,4532,Southampton,West Ham,0,0,2015-02-11 19:45:00,,Standard
+24126,25,MissedShots,0.785,0.7390000152587891,0.015227369964122772,Eljero Elia,h,4367,OpenPlay,2014,RightFoot,4532,Southampton,West Ham,0,0,2015-02-11 19:45:00,Victor Wanyama,Chipped
+24127,30,BlockedShot,0.7809999847412109,0.38,0.027999790385365486,Steven Davis,h,883,OpenPlay,2014,RightFoot,4532,Southampton,West Ham,0,0,2015-02-11 19:45:00,Nathaniel Clyne,Pass
+24128,36,MissedShots,0.7719999694824219,0.39599998474121095,0.02800525352358818,Sadio Mané,h,838,OpenPlay,2014,RightFoot,4532,Southampton,West Ham,0,0,2015-02-11 19:45:00,Graziano Pellè,LayOff
+24131,43,MissedShots,0.784000015258789,0.37400001525878906,0.02792656049132347,Steven Davis,h,883,OpenPlay,2014,RightFoot,4532,Southampton,West Ham,0,0,2015-02-11 19:45:00,Victor Wanyama,Pass
+24132,53,SavedShot,0.9,0.41700000762939454,0.12034186720848083,Graziano Pellè,h,841,OpenPlay,2014,RightFoot,4532,Southampton,West Ham,0,0,2015-02-11 19:45:00,Sadio Mané,Pass
+24134,63,BlockedShot,0.794000015258789,0.555,0.11101637035608292,Dusan Tadic,h,840,DirectFreekick,2014,LeftFoot,4532,Southampton,West Ham,0,0,2015-02-11 19:45:00,,Standard
+24135,70,MissedShots,0.8619999694824219,0.61,0.08564092963933945,Graziano Pellè,h,841,OpenPlay,2014,LeftFoot,4532,Southampton,West Ham,0,0,2015-02-11 19:45:00,Sadio Mané,Pass
+24136,76,BlockedShot,0.735999984741211,0.39099998474121095,0.01626766100525856,Nathaniel Clyne,h,603,OpenPlay,2014,RightFoot,4532,Southampton,West Ham,0,0,2015-02-11 19:45:00,Victor Wanyama,BlockedPass
+24137,77,BlockedShot,0.8969999694824219,0.47099998474121096,0.10976022481918335,Nathaniel Clyne,h,603,OpenPlay,2014,RightFoot,4532,Southampton,West Ham,0,0,2015-02-11 19:45:00,James Ward-Prowse,Dispossessed
+24138,77,SavedShot,0.9009999847412109,0.5309999847412109,0.10076268762350082,Graziano Pellè,h,841,OpenPlay,2014,RightFoot,4532,Southampton,West Ham,0,0,2015-02-11 19:45:00,Dusan Tadic,Cross
+24139,82,BlockedShot,0.7909999847412109,0.6170000076293946,0.028213409706950188,Filip Djuricic,h,1233,OpenPlay,2014,RightFoot,4532,Southampton,West Ham,0,0,2015-02-11 19:45:00,Steven Davis,Pass
+24140,83,BlockedShot,0.7630000305175781,0.6519999694824219,0.017950687557458878,Maya Yoshida,h,845,OpenPlay,2014,RightFoot,4532,Southampton,West Ham,0,0,2015-02-11 19:45:00,Florin Gardos,Pass
+24141,88,MissedShots,0.9590000152587891,0.509000015258789,0.5022744536399841,Maya Yoshida,h,845,FromCorner,2014,Head,4532,Southampton,West Ham,0,0,2015-02-11 19:45:00,James Ward-Prowse,Cross
+24142,89,SavedShot,0.9030000305175782,0.46,0.09769560396671295,Graziano Pellè,h,841,OpenPlay,2014,Head,4532,Southampton,West Ham,0,0,2015-02-11 19:45:00,Dusan Tadic,Cross
+24143,90,SavedShot,0.749000015258789,0.305,0.012588603422045708,José Fonte,h,834,OpenPlay,2014,LeftFoot,4532,Southampton,West Ham,0,0,2015-02-11 19:45:00,,None
+24144,94,SavedShot,0.850999984741211,0.44799999237060545,0.09012952446937561,Dusan Tadic,h,840,OpenPlay,2014,RightFoot,4532,Southampton,West Ham,0,0,2015-02-11 19:45:00,José Fonte,Pass
+24122,13,BlockedShot,0.7880000305175782,0.43900001525878907,0.024225549772381783,Morgan Amalfitano,a,3364,FromCorner,2014,RightFoot,4532,Southampton,West Ham,0,0,2015-02-11 19:45:00,,None
+24129,39,BlockedShot,0.7219999694824218,0.45599998474121095,0.015481877140700817,Stewart Downing,a,1712,OpenPlay,2014,RightFoot,4532,Southampton,West Ham,0,0,2015-02-11 19:45:00,Diafra Sakho,BallTouch
+24130,43,SavedShot,0.8569999694824219,0.7230000305175781,0.038011107593774796,Enner Valencia,a,539,OpenPlay,2014,RightFoot,4532,Southampton,West Ham,0,0,2015-02-11 19:45:00,Stewart Downing,TakeOn
+24133,53,BlockedShot,0.805,0.4929999923706055,0.04774540290236473,Stewart Downing,a,1712,OpenPlay,2014,RightFoot,4532,Southampton,West Ham,0,0,2015-02-11 19:45:00,Matthew Jarvis,Pass

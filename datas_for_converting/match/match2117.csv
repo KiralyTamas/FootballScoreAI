@@ -1,0 +1,25 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+69246,6,BlockedShot,0.8030000305175782,0.6680000305175782,0.01967771351337433,Diego Contento,h,3255,SetPiece,2015,LeftFoot,2117,Bordeaux,Saint-Etienne,1,4,2016-02-07 20:00:00,,None
+69248,9,Goal,0.9530000305175781,0.52,0.457135945558548,Cédric Yambéré,h,3257,FromCorner,2015,Head,2117,Bordeaux,Saint-Etienne,1,4,2016-02-07 20:00:00,Jaroslav Plasil,HeadPass
+69254,26,SavedShot,0.750999984741211,0.34700000762939454,0.01899389922618866,Diego Rolan,h,3261,OpenPlay,2015,RightFoot,2117,Bordeaux,Saint-Etienne,1,4,2016-02-07 20:00:00,Enzo Crivelli,HeadPass
+69255,27,ShotOnPost,0.8190000152587891,0.18,0.012438170611858368,Malcom,h,3262,OpenPlay,2015,LeftFoot,2117,Bordeaux,Saint-Etienne,1,4,2016-02-07 20:00:00,,None
+69257,35,BlockedShot,0.855999984741211,0.46599998474121096,0.06334594637155533,Mathieu Debuchy,h,967,OpenPlay,2015,LeftFoot,2117,Bordeaux,Saint-Etienne,1,4,2016-02-07 20:00:00,,None
+69260,50,SavedShot,0.8009999847412109,0.5540000152587891,0.04223429411649704,Jaroslav Plasil,h,3620,OpenPlay,2015,LeftFoot,2117,Bordeaux,Saint-Etienne,1,4,2016-02-07 20:00:00,Clément Chantôme,Pass
+69261,58,BlockedShot,0.8669999694824219,0.335,0.060157932341098785,Enzo Crivelli,h,3260,OpenPlay,2015,RightFoot,2117,Bordeaux,Saint-Etienne,1,4,2016-02-07 20:00:00,,TakeOn
+69264,71,MissedShots,0.9309999847412109,0.3029999923706055,0.03848863020539284,Mathieu Debuchy,h,967,OpenPlay,2015,RightFoot,2117,Bordeaux,Saint-Etienne,1,4,2016-02-07 20:00:00,,None
+69266,77,MissedShots,0.9569999694824218,0.580999984741211,0.12484189867973328,Diego Rolan,h,3261,OpenPlay,2015,Head,2117,Bordeaux,Saint-Etienne,1,4,2016-02-07 20:00:00,Thomas Touré,Cross
+69267,79,BlockedShot,0.7730000305175782,0.6990000152587891,0.014822451397776604,Valentin Vada,h,3256,OpenPlay,2015,RightFoot,2117,Bordeaux,Saint-Etienne,1,4,2016-02-07 20:00:00,Diego Rolan,Pass
+69244,2,SavedShot,0.7069999694824218,0.5570000076293945,0.0413554348051548,Oussama Tannane,a,3510,DirectFreekick,2015,LeftFoot,2117,Bordeaux,Saint-Etienne,1,4,2016-02-07 20:00:00,,Standard
+69245,3,Goal,0.9719999694824218,0.47700000762939454,0.5688984394073486,Vincent Pajot,a,3507,FromCorner,2015,Head,2117,Bordeaux,Saint-Etienne,1,4,2016-02-07 20:00:00,,None
+69247,6,Goal,0.9,0.355,0.30070510506629944,Oussama Tannane,a,3510,OpenPlay,2015,RightFoot,2117,Bordeaux,Saint-Etienne,1,4,2016-02-07 20:00:00,Benjamin Corgnet,Chipped
+69249,16,MissedShots,0.865999984741211,0.5259999847412109,0.036639854311943054,Vincent Pajot,a,3507,OpenPlay,2015,Head,2117,Bordeaux,Saint-Etienne,1,4,2016-02-07 20:00:00,Benjamin Corgnet,Cross
+69250,18,MissedShots,0.84,0.524000015258789,0.060037653893232346,Benjamin Corgnet,a,3514,SetPiece,2015,LeftFoot,2117,Bordeaux,Saint-Etienne,1,4,2016-02-07 20:00:00,Florentin Pogba,None
+69251,22,SavedShot,0.8730000305175781,0.44299999237060544,0.26949799060821533,Alexander Søderlund,a,3511,OpenPlay,2015,LeftFoot,2117,Bordeaux,Saint-Etienne,1,4,2016-02-07 20:00:00,Moustapha Bayal Sall,Pass
+69252,25,BlockedShot,0.9390000152587891,0.32799999237060545,0.07312579452991486,Alexander Søderlund,a,3511,OpenPlay,2015,LeftFoot,2117,Bordeaux,Saint-Etienne,1,4,2016-02-07 20:00:00,Moustapha Bayal Sall,Chipped
+69253,25,MissedShots,0.9419999694824219,0.47200000762939454,0.42966747283935547,Alexander Søderlund,a,3511,FromCorner,2015,Head,2117,Bordeaux,Saint-Etienne,1,4,2016-02-07 20:00:00,Renaud Cohade,Cross
+69256,29,SavedShot,0.9069999694824219,0.55,0.25172850489616394,Moustapha Bayal Sall,a,3506,SetPiece,2015,Head,2117,Bordeaux,Saint-Etienne,1,4,2016-02-07 20:00:00,Oussama Tannane,Chipped
+69258,44,SavedShot,0.885,0.5,0.7600951194763184,Alexander Søderlund,a,3511,Penalty,2015,RightFoot,2117,Bordeaux,Saint-Etienne,1,4,2016-02-07 20:00:00,,Standard
+69259,44,BlockedShot,0.9059999847412109,0.3940000152587891,0.0924813523888588,Alexander Søderlund,a,3511,OpenPlay,2015,RightFoot,2117,Bordeaux,Saint-Etienne,1,4,2016-02-07 20:00:00,Oussama Tannane,Cross
+69262,61,MissedShots,0.8190000152587891,0.789000015258789,0.020174844190478325,Nolan Roux,a,3512,OpenPlay,2015,RightFoot,2117,Bordeaux,Saint-Etienne,1,4,2016-02-07 20:00:00,,None
+69263,69,Goal,0.8969999694824219,0.445,0.05693923309445381,Alexander Søderlund,a,3511,SetPiece,2015,Head,2117,Bordeaux,Saint-Etienne,1,4,2016-02-07 20:00:00,Oussama Tannane,Chipped
+69265,73,Goal,0.8640000152587891,0.675,0.29445138573646545,Nolan Roux,a,3512,OpenPlay,2015,RightFoot,2117,Bordeaux,Saint-Etienne,1,4,2016-02-07 20:00:00,Alexander Søderlund,TakeOn

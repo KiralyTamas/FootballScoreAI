@@ -1,0 +1,25 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+255301,2,MissedShots,0.795,0.2560000038146973,0.019459914416074753,Jean Zimmer,h,7057,OpenPlay,2018,RightFoot,10399,Fortuna Duesseldorf,Schalke 04,0,2,2018-10-06 13:30:00,Matthias Zimmermann,Pass
+255302,3,MissedShots,0.8490000152587891,0.4520000076293945,0.2821263372898102,Benito Raman,h,7059,OpenPlay,2018,RightFoot,10399,Fortuna Duesseldorf,Schalke 04,0,2,2018-10-06 13:30:00,Matthias Zimmermann,HeadPass
+255307,25,BlockedShot,0.9409999847412109,0.735999984741211,0.03281288221478462,Rouwen Hennings,h,7060,SetPiece,2018,LeftFoot,10399,Fortuna Duesseldorf,Schalke 04,0,2,2018-10-06 13:30:00,,None
+255308,31,SavedShot,0.86,0.754000015258789,0.023121792823076248,Jean Zimmer,h,7057,SetPiece,2018,RightFoot,10399,Fortuna Duesseldorf,Schalke 04,0,2,2018-10-06 13:30:00,Niko Gießelmann,Pass
+255309,31,BlockedShot,0.785,0.519000015258789,0.023687727749347687,Benito Raman,h,7059,SetPiece,2018,RightFoot,10399,Fortuna Duesseldorf,Schalke 04,0,2,2018-10-06 13:30:00,,Rebound
+255317,58,SavedShot,0.8119999694824219,0.5259999847412109,0.06377050280570984,Alfredo Morales,h,252,OpenPlay,2018,RightFoot,10399,Fortuna Duesseldorf,Schalke 04,0,2,2018-10-06 13:30:00,Jean Zimmer,Pass
+255318,68,BlockedShot,0.7,0.53,0.01365398894995451,Benito Raman,h,7059,OpenPlay,2018,RightFoot,10399,Fortuna Duesseldorf,Schalke 04,0,2,2018-10-06 13:30:00,Marcin Kaminski,Pass
+255319,69,SavedShot,0.8540000152587891,0.5209999847412109,0.03868508338928223,Alfredo Morales,h,252,OpenPlay,2018,RightFoot,10399,Fortuna Duesseldorf,Schalke 04,0,2,2018-10-06 13:30:00,Marvin Ducksch,HeadPass
+255320,69,MissedShots,0.8490000152587891,0.46599998474121096,0.06083601713180542,Marcel Sobottka,h,4302,FromCorner,2018,RightFoot,10399,Fortuna Duesseldorf,Schalke 04,0,2,2018-10-06 13:30:00,,None
+255300,1,MissedShots,0.919000015258789,0.53,0.1128089427947998,Naldo,a,147,SetPiece,2018,LeftFoot,10399,Fortuna Duesseldorf,Schalke 04,0,2,2018-10-06 13:30:00,Weston McKennie,Pass
+255303,9,MissedShots,0.769000015258789,0.5529999923706055,0.0303859431296587,Guido Burgstaller,a,5302,OpenPlay,2018,LeftFoot,10399,Fortuna Duesseldorf,Schalke 04,0,2,2018-10-06 13:30:00,Franco Di Santo,BallRecovery
+255304,11,MissedShots,0.7719999694824219,0.27,0.014313936233520508,Daniel Caligiuri,a,157,FromCorner,2018,RightFoot,10399,Fortuna Duesseldorf,Schalke 04,0,2,2018-10-06 13:30:00,,None
+255305,14,BlockedShot,0.7519999694824219,0.4520000076293945,0.024576526135206223,Suat Serdar,a,307,OpenPlay,2018,RightFoot,10399,Fortuna Duesseldorf,Schalke 04,0,2,2018-10-06 13:30:00,Nabil Bentaleb,Pass
+255306,15,BlockedShot,0.7190000152587891,0.6880000305175781,0.009283667430281639,Nabil Bentaleb,a,914,OpenPlay,2018,LeftFoot,10399,Fortuna Duesseldorf,Schalke 04,0,2,2018-10-06 13:30:00,,Aerial
+255310,32,SavedShot,0.8080000305175781,0.24399999618530274,0.01862981729209423,Guido Burgstaller,a,5302,OpenPlay,2018,LeftFoot,10399,Fortuna Duesseldorf,Schalke 04,0,2,2018-10-06 13:30:00,,Tackle
+255311,40,MissedShots,0.8719999694824219,0.315,0.04678041860461235,Franco Di Santo,a,341,OpenPlay,2018,RightFoot,10399,Fortuna Duesseldorf,Schalke 04,0,2,2018-10-06 13:30:00,Weston McKennie,Chipped
+255312,43,BlockedShot,0.789000015258789,0.36700000762939455,0.0290676262229681,Suat Serdar,a,307,OpenPlay,2018,RightFoot,10399,Fortuna Duesseldorf,Schalke 04,0,2,2018-10-06 13:30:00,Franco Di Santo,Pass
+255313,47,Goal,0.9540000152587891,0.544000015258789,0.5885307788848877,Weston McKennie,a,5360,OpenPlay,2018,LeftFoot,10399,Fortuna Duesseldorf,Schalke 04,0,2,2018-10-06 13:30:00,Suat Serdar,HeadPass
+255314,51,MissedShots,0.7390000152587891,0.34299999237060547,0.0479646697640419,Naldo,a,147,DirectFreekick,2018,RightFoot,10399,Fortuna Duesseldorf,Schalke 04,0,2,2018-10-06 13:30:00,,Standard
+255315,52,SavedShot,0.7430000305175781,0.48700000762939455,0.027650155127048492,Nabil Bentaleb,a,914,OpenPlay,2018,LeftFoot,10399,Fortuna Duesseldorf,Schalke 04,0,2,2018-10-06 13:30:00,,None
+255316,52,Goal,0.9669999694824218,0.555,0.6424518823623657,Guido Burgstaller,a,5302,OpenPlay,2018,LeftFoot,10399,Fortuna Duesseldorf,Schalke 04,0,2,2018-10-06 13:30:00,,Rebound
+255321,84,SavedShot,0.9419999694824219,0.3320000076293945,0.09792108833789825,Daniel Caligiuri,a,157,OpenPlay,2018,RightFoot,10399,Fortuna Duesseldorf,Schalke 04,0,2,2018-10-06 13:30:00,Naldo,Chipped
+255322,85,MissedShots,0.754000015258789,0.3240000152587891,0.014731014147400856,Daniel Caligiuri,a,157,FromCorner,2018,RightFoot,10399,Fortuna Duesseldorf,Schalke 04,0,2,2018-10-06 13:30:00,,None
+255323,92,MissedShots,0.870999984741211,0.5570000076293945,0.07068555057048798,Salif Sané,a,96,SetPiece,2018,LeftFoot,10399,Fortuna Duesseldorf,Schalke 04,0,2,2018-10-06 13:30:00,,None

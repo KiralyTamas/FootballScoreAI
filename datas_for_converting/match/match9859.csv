@@ -1,0 +1,34 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+288084,1,BlockedShot,0.784000015258789,0.6370000076293946,0.0213320255279541,Jordan Veretout,h,677,OpenPlay,2018,LeftFoot,9859,Fiorentina,Torino,1,1,2019-03-31 13:00:00,Marco Benassi,Pass
+288085,2,SavedShot,0.7969999694824219,0.555,0.04361813887953758,Marco Benassi,h,1183,OpenPlay,2018,RightFoot,9859,Fiorentina,Torino,1,1,2019-03-31 13:00:00,Cristiano Biraghi,Pass
+288086,2,SavedShot,0.865,0.4420000076293945,0.02912154607474804,Giovanni Simeone,h,1102,OpenPlay,2018,Head,9859,Fiorentina,Torino,1,1,2019-03-31 13:00:00,Jordan Veretout,Chipped
+288087,3,BlockedShot,0.8859999847412109,0.47200000762939454,0.1065712720155716,Gerson,h,1258,OpenPlay,2018,LeftFoot,9859,Fiorentina,Torino,1,1,2019-03-31 13:00:00,,Rebound
+288088,6,Goal,0.9619999694824218,0.6,0.6126683950424194,Giovanni Simeone,h,1102,OpenPlay,2018,LeftFoot,9859,Fiorentina,Torino,1,1,2019-03-31 13:00:00,Vitor Hugo,TakeOn
+288092,22,SavedShot,0.8859999847412109,0.3160000038146973,0.06892842799425125,Luis Muriel,h,1229,OpenPlay,2018,LeftFoot,9859,Fiorentina,Torino,1,1,2019-03-31 13:00:00,Kevin Mirallas,Pass
+288093,32,SavedShot,0.8569999694824219,0.24600000381469728,0.03266086429357529,Luis Muriel,h,1229,OpenPlay,2018,RightFoot,9859,Fiorentina,Torino,1,1,2019-03-31 13:00:00,Jordan Veretout,Pass
+288095,39,SavedShot,0.915,0.355,0.3189345598220825,Giovanni Simeone,h,1102,OpenPlay,2018,RightFoot,9859,Fiorentina,Torino,1,1,2019-03-31 13:00:00,Luis Muriel,Throughball
+288096,40,MissedShots,0.950999984741211,0.41900001525878905,0.08813434839248657,Giovanni Simeone,h,1102,FromCorner,2018,Head,9859,Fiorentina,Torino,1,1,2019-03-31 13:00:00,Cristiano Biraghi,Cross
+288097,45,SavedShot,0.8690000152587891,0.37599998474121094,0.08213400095701218,Marco Benassi,h,1183,OpenPlay,2018,RightFoot,9859,Fiorentina,Torino,1,1,2019-03-31 13:00:00,Luis Muriel,Pass
+288098,45,MissedShots,0.9169999694824219,0.5570000076293945,0.13328474760055542,Giovanni Simeone,h,1102,OpenPlay,2018,RightFoot,9859,Fiorentina,Torino,1,1,2019-03-31 13:00:00,,Rebound
+288099,49,BlockedShot,0.925,0.33799999237060546,0.08548370748758316,Kevin Mirallas,h,595,OpenPlay,2018,RightFoot,9859,Fiorentina,Torino,1,1,2019-03-31 13:00:00,Jordan Veretout,Pass
+288100,56,MissedShots,0.9430000305175781,0.3579999923706055,0.09436948597431183,Kevin Mirallas,h,595,OpenPlay,2018,RightFoot,9859,Fiorentina,Torino,1,1,2019-03-31 13:00:00,Giovanni Simeone,Pass
+288101,59,MissedShots,0.7290000152587891,0.5540000152587891,0.016353726387023926,Luis Muriel,h,1229,OpenPlay,2018,RightFoot,9859,Fiorentina,Torino,1,1,2019-03-31 13:00:00,Vitor Hugo,BallRecovery
+288107,73,MissedShots,0.914000015258789,0.4329999923706055,0.040087103843688965,Giovanni Simeone,h,1102,OpenPlay,2018,Head,9859,Fiorentina,Torino,1,1,2019-03-31 13:00:00,Cristiano Biraghi,Aerial
+288108,77,BlockedShot,0.865999984741211,0.4620000076293945,0.04198863357305527,Marco Benassi,h,1183,OpenPlay,2018,RightFoot,9859,Fiorentina,Torino,1,1,2019-03-31 13:00:00,,Aerial
+288109,77,MissedShots,0.9169999694824219,0.4,0.10016582161188126,Dusan Vlahovic,h,7084,OpenPlay,2018,LeftFoot,9859,Fiorentina,Torino,1,1,2019-03-31 13:00:00,Marco Benassi,BallTouch
+288111,84,BlockedShot,0.8959999847412109,0.700999984741211,0.0938066765666008,Giovanni Simeone,h,1102,OpenPlay,2018,LeftFoot,9859,Fiorentina,Torino,1,1,2019-03-31 13:00:00,Jordan Veretout,BallRecovery
+288112,86,MissedShots,0.7619999694824219,0.605999984741211,0.02533624693751335,Tòfol Montiel,h,7085,OpenPlay,2018,LeftFoot,9859,Fiorentina,Torino,1,1,2019-03-31 13:00:00,Vitor Hugo,Pass
+288113,87,MissedShots,0.93,0.4420000076293945,0.3060157895088196,Dusan Vlahovic,h,7084,OpenPlay,2018,Head,9859,Fiorentina,Torino,1,1,2019-03-31 13:00:00,Tòfol Montiel,Chipped
+288114,91,SavedShot,0.8640000152587891,0.7330000305175781,0.03179953619837761,Cristiano Biraghi,h,1164,OpenPlay,2018,LeftFoot,9859,Fiorentina,Torino,1,1,2019-03-31 13:00:00,Dusan Vlahovic,Pass
+288115,91,BlockedShot,0.9340000152587891,0.34299999237060547,0.08557368069887161,Dusan Vlahovic,h,7084,OpenPlay,2018,RightFoot,9859,Fiorentina,Torino,1,1,2019-03-31 13:00:00,Tòfol Montiel,Pass
+288116,92,MissedShots,0.7909999847412109,0.25,0.014446422457695007,Jordan Veretout,h,677,FromCorner,2018,RightFoot,9859,Fiorentina,Torino,1,1,2019-03-31 13:00:00,,None
+288089,12,MissedShots,0.91,0.40099998474121096,0.03745213896036148,Cristian Ansaldi,a,1515,FromCorner,2018,Head,9859,Fiorentina,Torino,1,1,2019-03-31 13:00:00,Tomás Rincón,Cross
+288090,17,MissedShots,0.93,0.485,0.09666965901851654,Lorenzo De Silvestri,a,1193,OpenPlay,2018,Head,9859,Fiorentina,Torino,1,1,2019-03-31 13:00:00,Cristian Ansaldi,Cross
+288091,20,MissedShots,0.8030000305175782,0.43099998474121093,0.03808775916695595,Daniele Baselli,a,1182,OpenPlay,2018,LeftFoot,9859,Fiorentina,Torino,1,1,2019-03-31 13:00:00,,None
+288094,33,Goal,0.725,0.625999984741211,0.014049021527171135,Daniele Baselli,a,1182,OpenPlay,2018,RightFoot,9859,Fiorentina,Torino,1,1,2019-03-31 13:00:00,Iago Falque,LayOff
+288102,60,MissedShots,0.44599998474121094,0.884000015258789,0.01603717915713787,Cristian Ansaldi,a,1515,DirectFreekick,2018,LeftFoot,9859,Fiorentina,Torino,1,1,2019-03-31 13:00:00,,Standard
+288103,65,SavedShot,0.8,0.769000015258789,0.01304352842271328,Cristian Ansaldi,a,1515,OpenPlay,2018,LeftFoot,9859,Fiorentina,Torino,1,1,2019-03-31 13:00:00,,None
+288104,67,BlockedShot,0.7380000305175781,0.44799999237060545,0.0552392415702343,Simone Zaza,a,1642,DirectFreekick,2018,LeftFoot,9859,Fiorentina,Torino,1,1,2019-03-31 13:00:00,,Standard
+288105,67,SavedShot,0.8959999847412109,0.29100000381469726,0.03721108287572861,Simone Zaza,a,1642,OpenPlay,2018,LeftFoot,9859,Fiorentina,Torino,1,1,2019-03-31 13:00:00,Tomás Rincón,Chipped
+288106,71,BlockedShot,0.749000015258789,0.5070000076293946,0.06458166241645813,Daniele Baselli,a,1182,DirectFreekick,2018,RightFoot,9859,Fiorentina,Torino,1,1,2019-03-31 13:00:00,,Standard
+288110,81,BlockedShot,0.8630000305175781,0.5670000076293945,0.08242873102426529,Andrea Belotti,a,1186,OpenPlay,2018,LeftFoot,9859,Fiorentina,Torino,1,1,2019-03-31 13:00:00,,Dispossessed

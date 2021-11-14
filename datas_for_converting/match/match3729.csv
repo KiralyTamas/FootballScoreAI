@@ -1,0 +1,24 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+130461,11,Goal,0.9669999694824218,0.4329999923706055,0.49781954288482666,Ömer Toprak,h,184,SetPiece,2016,RightFoot,3729,Bayer Leverkusen,Hertha Berlin,3,1,2017-01-22 17:30:00,Chicharito,BallTouch
+130463,16,MissedShots,0.8490000152587891,0.27700000762939453,0.04024045914411545,Karim Bellarabi,h,186,OpenPlay,2016,RightFoot,3729,Bayer Leverkusen,Hertha Berlin,3,1,2017-01-22 17:30:00,Hakan Calhanoglu,Chipped
+130464,26,MissedShots,0.92,0.5279999923706055,0.10029776394367218,Ömer Toprak,h,184,FromCorner,2016,Head,3729,Bayer Leverkusen,Hertha Berlin,3,1,2017-01-22 17:30:00,Hakan Calhanoglu,Cross
+130466,29,MissedShots,0.9390000152587891,0.34200000762939453,0.09329835325479507,Hakan Calhanoglu,h,189,OpenPlay,2016,RightFoot,3729,Bayer Leverkusen,Hertha Berlin,3,1,2017-01-22 17:30:00,Karim Bellarabi,Pass
+130467,35,Goal,0.885,0.5,0.757696270942688,Hakan Calhanoglu,h,189,Penalty,2016,RightFoot,3729,Bayer Leverkusen,Hertha Berlin,3,1,2017-01-22 17:30:00,,Standard
+130468,42,SavedShot,0.774000015258789,0.4540000152587891,0.0417175218462944,Karim Bellarabi,h,186,OpenPlay,2016,LeftFoot,3729,Bayer Leverkusen,Hertha Berlin,3,1,2017-01-22 17:30:00,Jonathan Tah,BallRecovery
+130471,45,MissedShots,0.8590000152587891,0.48900001525878906,0.11113019287586212,Chicharito,h,191,OpenPlay,2016,RightFoot,3729,Bayer Leverkusen,Hertha Berlin,3,1,2017-01-22 17:30:00,Karim Bellarabi,Pass
+130472,47,BlockedShot,0.9330000305175781,0.3940000152587891,0.12882669270038605,Chicharito,h,191,OpenPlay,2016,RightFoot,3729,Bayer Leverkusen,Hertha Berlin,3,1,2017-01-22 17:30:00,Benjamin Henrichs,Pass
+130473,53,SavedShot,0.8959999847412109,0.47,0.052089907228946686,Chicharito,h,191,OpenPlay,2016,Head,3729,Bayer Leverkusen,Hertha Berlin,3,1,2017-01-22 17:30:00,Karim Bellarabi,Chipped
+130474,55,BlockedShot,0.9259999847412109,0.5629999923706055,0.086333267390728,Chicharito,h,191,FromCorner,2016,Head,3729,Bayer Leverkusen,Hertha Berlin,3,1,2017-01-22 17:30:00,Hakan Calhanoglu,Cross
+130475,55,BlockedShot,0.715,0.4909999847412109,0.014005791395902634,Benjamin Henrichs,h,435,FromCorner,2016,LeftFoot,3729,Bayer Leverkusen,Hertha Berlin,3,1,2017-01-22 17:30:00,,None
+130476,67,SavedShot,0.7819999694824219,0.46799999237060547,0.049536366015672684,Hakan Calhanoglu,h,189,OpenPlay,2016,RightFoot,3729,Bayer Leverkusen,Hertha Berlin,3,1,2017-01-22 17:30:00,,None
+130479,83,SavedShot,0.8640000152587891,0.6930000305175781,0.05447578430175781,Hakan Calhanoglu,h,189,OpenPlay,2016,RightFoot,3729,Bayer Leverkusen,Hertha Berlin,3,1,2017-01-22 17:30:00,Wendell,Pass
+130480,86,BlockedShot,0.799000015258789,0.415,0.0279055368155241,Julian Baumgartlinger,h,42,FromCorner,2016,RightFoot,3729,Bayer Leverkusen,Hertha Berlin,3,1,2017-01-22 17:30:00,,None
+130481,87,Goal,0.8969999694824219,0.580999984741211,0.10426854342222214,Hakan Calhanoglu,h,189,OpenPlay,2016,RightFoot,3729,Bayer Leverkusen,Hertha Berlin,3,1,2017-01-22 17:30:00,Kevin Kampl,Chipped
+130483,91,SavedShot,0.905,0.22899999618530273,0.0480988547205925,Hakan Calhanoglu,h,189,OpenPlay,2016,RightFoot,3729,Bayer Leverkusen,Hertha Berlin,3,1,2017-01-22 17:30:00,Kevin Kampl,Pass
+130462,14,MissedShots,0.8180000305175781,0.48,0.06116687133908272,Vedad Ibisevic,a,29,OpenPlay,2016,RightFoot,3729,Bayer Leverkusen,Hertha Berlin,3,1,2017-01-22 17:30:00,Alexander Esswein,Pass
+130465,27,MissedShots,0.6569999694824219,0.710999984741211,0.007979503832757473,Valentin Stocker,a,32,OpenPlay,2016,RightFoot,3729,Bayer Leverkusen,Hertha Berlin,3,1,2017-01-22 17:30:00,Vladimir Darida,None
+130469,43,SavedShot,0.914000015258789,0.43599998474121093,0.07692492008209229,John Brooks,a,22,FromCorner,2016,Head,3729,Bayer Leverkusen,Hertha Berlin,3,1,2017-01-22 17:30:00,Marvin Plattenhardt,Cross
+130470,43,Goal,0.975999984741211,0.5709999847412109,0.5335537195205688,Valentin Stocker,a,32,FromCorner,2016,LeftFoot,3729,Bayer Leverkusen,Hertha Berlin,3,1,2017-01-22 17:30:00,,Rebound
+130477,72,SavedShot,0.9319999694824219,0.5320000076293945,0.5158940553665161,Vedad Ibisevic,a,29,OpenPlay,2016,RightFoot,3729,Bayer Leverkusen,Hertha Berlin,3,1,2017-01-22 17:30:00,Valentin Stocker,Pass
+130478,72,MissedShots,0.8009999847412109,0.8569999694824219,0.010695069096982479,Marvin Plattenhardt,a,23,OpenPlay,2016,LeftFoot,3729,Bayer Leverkusen,Hertha Berlin,3,1,2017-01-22 17:30:00,,BallRecovery
+130482,90,MissedShots,0.7290000152587891,0.18600000381469728,0.02438964694738388,Genki Haraguchi,a,35,OpenPlay,2016,RightFoot,3729,Bayer Leverkusen,Hertha Berlin,3,1,2017-01-22 17:30:00,Vedad Ibisevic,Pass

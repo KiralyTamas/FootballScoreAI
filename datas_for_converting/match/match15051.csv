@@ -1,0 +1,25 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+411403,22,MissedShots,0.8909999847412109,0.4590000152587891,0.021210499107837677,Santi Mina,h,2384,SetPiece,2020,Head,15051,Celta Vigo,Real Madrid,1,3,2021-03-20 15:15:00,Denis Suárez,Aerial
+411408,30,MissedShots,0.93,0.534000015258789,0.12419460713863373,Santi Mina,h,2384,OpenPlay,2020,LeftFoot,15051,Celta Vigo,Real Madrid,1,3,2021-03-20 15:15:00,Iago Aspas,Pass
+411409,32,SavedShot,0.899000015258789,0.5940000152587891,0.0429215244948864,Brais Méndez,h,6227,OpenPlay,2020,Head,15051,Celta Vigo,Real Madrid,1,3,2021-03-20 15:15:00,Aarón Martín,Cross
+411410,39,Goal,0.899000015258789,0.4490000152587891,0.293971449136734,Santi Mina,h,2384,SetPiece,2020,Head,15051,Celta Vigo,Real Madrid,1,3,2021-03-20 15:15:00,Denis Suárez,Chipped
+411413,61,SavedShot,0.79,0.35900001525878905,0.028991229832172394,Iago Aspas,h,2290,OpenPlay,2020,LeftFoot,15051,Celta Vigo,Real Madrid,1,3,2021-03-20 15:15:00,Brais Méndez,Pass
+411419,81,BlockedShot,0.754000015258789,0.45099998474121095,0.07492801547050476,Iago Aspas,h,2290,DirectFreekick,2020,LeftFoot,15051,Celta Vigo,Real Madrid,1,3,2021-03-20 15:15:00,,Standard
+411420,89,BlockedShot,0.8919999694824219,0.62,0.052408941090106964,Facundo Ferreyra,h,4515,OpenPlay,2020,LeftFoot,15051,Celta Vigo,Real Madrid,1,3,2021-03-20 15:15:00,Iago Aspas,Cross
+411421,89,BlockedShot,0.9059999847412109,0.6869999694824219,0.051045291125774384,Facundo Ferreyra,h,4515,OpenPlay,2020,LeftFoot,15051,Celta Vigo,Real Madrid,1,3,2021-03-20 15:15:00,,Rebound
+411400,4,BlockedShot,0.85,0.775,0.021922405809164047,Karim Benzema,a,2370,OpenPlay,2020,RightFoot,15051,Celta Vigo,Real Madrid,1,3,2021-03-20 15:15:00,Vinícius Júnior,Pass
+411401,8,BlockedShot,0.9180000305175782,0.38599998474121094,0.07545242458581924,Karim Benzema,a,2370,FromCorner,2020,RightFoot,15051,Celta Vigo,Real Madrid,1,3,2021-03-20 15:15:00,,None
+411402,19,Goal,0.8930000305175781,0.6040000152587891,0.34787264466285706,Karim Benzema,a,2370,OpenPlay,2020,RightFoot,15051,Celta Vigo,Real Madrid,1,3,2021-03-20 15:15:00,Toni Kroos,Pass
+411404,25,BlockedShot,0.8630000305175781,0.37,0.0794554352760315,Federico Valverde,a,6241,OpenPlay,2020,LeftFoot,15051,Celta Vigo,Real Madrid,1,3,2021-03-20 15:15:00,,None
+411405,25,MissedShots,0.9690000152587891,0.54,0.6414704918861389,Vinícius Júnior,a,7008,OpenPlay,2020,OtherBodyPart,15051,Celta Vigo,Real Madrid,1,3,2021-03-20 15:15:00,Karim Benzema,Cross
+411406,28,BlockedShot,0.89,0.7380000305175781,0.0506826788187027,Vinícius Júnior,a,7008,OpenPlay,2020,RightFoot,15051,Celta Vigo,Real Madrid,1,3,2021-03-20 15:15:00,Luka Modric,Chipped
+411407,29,Goal,0.8680000305175781,0.5109999847412109,0.10834017395973206,Karim Benzema,a,2370,OpenPlay,2020,LeftFoot,15051,Celta Vigo,Real Madrid,1,3,2021-03-20 15:15:00,Toni Kroos,BallRecovery
+411411,53,MissedShots,0.8480000305175781,0.6940000152587891,0.054595835506916046,Ferland Mendy,a,6233,OpenPlay,2020,RightFoot,15051,Celta Vigo,Real Madrid,1,3,2021-03-20 15:15:00,,None
+411412,59,BlockedShot,0.855,0.5729999923706055,0.1017051488161087,Vinícius Júnior,a,7008,OpenPlay,2020,RightFoot,15051,Celta Vigo,Real Madrid,1,3,2021-03-20 15:15:00,Federico Valverde,Pass
+411414,62,BlockedShot,0.955,0.43,0.11926566064357758,Raphael Varane,a,2245,FromCorner,2020,Head,15051,Celta Vigo,Real Madrid,1,3,2021-03-20 15:15:00,Toni Kroos,Cross
+411415,65,BlockedShot,0.7340000152587891,0.39099998474121095,0.026247121393680573,Federico Valverde,a,6241,FromCorner,2020,RightFoot,15051,Celta Vigo,Real Madrid,1,3,2021-03-20 15:15:00,Ferland Mendy,Pass
+411416,72,MissedShots,0.7190000152587891,0.41,0.022107655182480812,Luka Modric,a,2250,FromCorner,2020,RightFoot,15051,Celta Vigo,Real Madrid,1,3,2021-03-20 15:15:00,Marco Asensio,Pass
+411417,77,SavedShot,0.8819999694824219,0.705999984741211,0.06189059093594551,Karim Benzema,a,2370,OpenPlay,2020,RightFoot,15051,Celta Vigo,Real Madrid,1,3,2021-03-20 15:15:00,,None
+411418,78,MissedShots,0.7830000305175782,0.624000015258789,0.08746817708015442,Karim Benzema,a,2370,DirectFreekick,2020,RightFoot,15051,Celta Vigo,Real Madrid,1,3,2021-03-20 15:15:00,,Standard
+411422,90,BlockedShot,0.9380000305175781,0.6969999694824218,0.034116219729185104,Vinícius Júnior,a,7008,OpenPlay,2020,RightFoot,15051,Celta Vigo,Real Madrid,1,3,2021-03-20 15:15:00,Federico Valverde,Cross
+411423,93,Goal,0.98,0.48700000762939455,0.9631445407867432,Marco Asensio,a,2117,OpenPlay,2020,RightFoot,15051,Celta Vigo,Real Madrid,1,3,2021-03-20 15:15:00,Karim Benzema,Pass

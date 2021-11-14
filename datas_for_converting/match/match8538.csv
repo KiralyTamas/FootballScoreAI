@@ -1,0 +1,23 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+211533,2,MissedShots,0.9159999847412109,0.6840000152587891,0.010674618184566498,Franck Evina,h,6710,OpenPlay,2017,Head,8538,Bayern Munich,Eintracht Frankfurt,4,1,2018-04-28 13:30:00,Joshua Kimmich,Cross
+211535,10,MissedShots,0.8330000305175781,0.6969999694824218,0.032139889895915985,Franck Evina,h,6710,OpenPlay,2017,RightFoot,8538,Bayern Munich,Eintracht Frankfurt,4,1,2018-04-28 13:30:00,Niklas Dorsch,Pass
+211536,16,SavedShot,0.8730000305175781,0.3120000076293945,0.0413057841360569,Sandro Wagner,h,11,OpenPlay,2017,RightFoot,8538,Bayern Munich,Eintracht Frankfurt,4,1,2018-04-28 13:30:00,Joshua Kimmich,Chipped
+211541,42,Goal,0.914000015258789,0.49599998474121093,0.49594277143478394,Niklas Dorsch,h,6411,OpenPlay,2017,RightFoot,8538,Bayern Munich,Eintracht Frankfurt,4,1,2018-04-28 13:30:00,Sandro Wagner,Pass
+211543,60,MissedShots,0.715999984741211,0.44,0.017234066501259804,Thiago Alcántara,h,229,OpenPlay,2017,RightFoot,8538,Bayern Munich,Eintracht Frankfurt,4,1,2018-04-28 13:30:00,Sebastian Rudy,Pass
+211544,62,BlockedShot,0.7569999694824219,0.7480000305175781,0.014662690460681915,Sandro Wagner,h,11,OpenPlay,2017,RightFoot,8538,Bayern Munich,Eintracht Frankfurt,4,1,2018-04-28 13:30:00,,None
+211545,62,MissedShots,0.895,0.6329999923706054,0.1937536895275116,Sandro Wagner,h,11,OpenPlay,2017,Head,8538,Bayern Munich,Eintracht Frankfurt,4,1,2018-04-28 13:30:00,Franck Evina,Cross
+211549,75,Goal,0.9430000305175781,0.6469999694824219,0.3093329668045044,Sandro Wagner,h,11,OpenPlay,2017,RightFoot,8538,Bayern Munich,Eintracht Frankfurt,4,1,2018-04-28 13:30:00,Sebastian Rudy,Pass
+211552,86,Goal,0.9019999694824219,0.34,0.291532427072525,Rafinha,h,221,OpenPlay,2017,RightFoot,8538,Bayern Munich,Eintracht Frankfurt,4,1,2018-04-28 13:30:00,Thiago Alcántara,Pass
+211553,88,SavedShot,0.9,0.4179999923706055,0.3910118341445923,Corentin Tolisso,h,3603,OpenPlay,2017,RightFoot,8538,Bayern Munich,Eintracht Frankfurt,4,1,2018-04-28 13:30:00,Niklas Süle,Pass
+211554,89,Goal,0.865,0.4129999923706055,0.10102517902851105,Niklas Süle,h,75,OpenPlay,2017,RightFoot,8538,Bayern Munich,Eintracht Frankfurt,4,1,2018-04-28 13:30:00,Rafinha,Pass
+211534,10,SavedShot,0.7909999847412109,0.44599998474121094,0.04293649643659592,Luka Jovic,a,6228,OpenPlay,2017,LeftFoot,8538,Bayern Munich,Eintracht Frankfurt,4,1,2018-04-28 13:30:00,,BallRecovery
+211537,18,BlockedShot,0.8230000305175781,0.7180000305175781,0.02274813875555992,Jetro Willems,a,6143,OpenPlay,2017,RightFoot,8538,Bayern Munich,Eintracht Frankfurt,4,1,2018-04-28 13:30:00,Branimir Hrgota,Pass
+211538,18,MissedShots,0.78,0.4420000076293945,0.025995884090662003,Marco Fabián,a,2661,OpenPlay,2017,RightFoot,8538,Bayern Munich,Eintracht Frankfurt,4,1,2018-04-28 13:30:00,,Rebound
+211539,39,MissedShots,0.8519999694824218,0.43599998474121093,0.07731641083955765,Mijat Gacinovic,a,290,OpenPlay,2017,RightFoot,8538,Bayern Munich,Eintracht Frankfurt,4,1,2018-04-28 13:30:00,,Dispossessed
+211540,41,SavedShot,0.8480000305175781,0.475,0.3055523633956909,Luka Jovic,a,6228,OpenPlay,2017,RightFoot,8538,Bayern Munich,Eintracht Frankfurt,4,1,2018-04-28 13:30:00,Marius Wolf,Pass
+211542,52,BlockedShot,0.7830000305175782,0.669000015258789,0.02046015113592148,Branimir Hrgota,a,216,OpenPlay,2017,LeftFoot,8538,Bayern Munich,Eintracht Frankfurt,4,1,2018-04-28 13:30:00,,BallRecovery
+211546,69,MissedShots,0.755,0.5640000152587891,0.029026709496974945,Marijan Cavar,a,6698,OpenPlay,2017,RightFoot,8538,Bayern Munich,Eintracht Frankfurt,4,1,2018-04-28 13:30:00,Jetro Willems,HeadPass
+211547,69,BlockedShot,0.8380000305175781,0.5270000076293946,0.07237657904624939,Marco Fabián,a,2661,OpenPlay,2017,RightFoot,8538,Bayern Munich,Eintracht Frankfurt,4,1,2018-04-28 13:30:00,Jetro Willems,Pass
+211548,71,MissedShots,0.8030000305175782,0.37900001525878907,0.035077355802059174,Marius Wolf,a,2693,OpenPlay,2017,RightFoot,8538,Bayern Munich,Eintracht Frankfurt,4,1,2018-04-28 13:30:00,Sébastien Haller,Pass
+211550,77,Goal,0.9590000152587891,0.47400001525878904,0.5935863852500916,Sébastien Haller,a,6144,OpenPlay,2017,RightFoot,8538,Bayern Munich,Eintracht Frankfurt,4,1,2018-04-28 13:30:00,,None
+211551,79,MissedShots,0.76,0.5279999923706055,0.026044506579637527,Marco Fabián,a,2661,OpenPlay,2017,LeftFoot,8538,Bayern Munich,Eintracht Frankfurt,4,1,2018-04-28 13:30:00,Danny da Costa,Pass

@@ -1,0 +1,25 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+78096,8,BlockedShot,0.6709999847412109,0.38799999237060545,0.012481622397899628,Matthias Lehmann,h,132,OpenPlay,2015,RightFoot,1100,FC Cologne,Hannover 96,0,1,2015-10-18 17:30:00,Yannick Gerhardt,Pass
+78097,12,MissedShots,0.9490000152587891,0.635,0.05924728885293007,Leonardo Bittencourt,h,262,OpenPlay,2015,LeftFoot,1100,FC Cologne,Hannover 96,0,1,2015-10-18 17:30:00,Jonas Hector,Cross
+78098,13,BlockedShot,0.875,0.5970000076293945,0.07052238285541534,Anthony Modeste,h,137,SetPiece,2015,RightFoot,1100,FC Cologne,Hannover 96,0,1,2015-10-18 17:30:00,Marcel Risse,Chipped
+78099,13,MissedShots,0.875,0.5970000076293945,0.07492175698280334,Anthony Modeste,h,137,SetPiece,2015,RightFoot,1100,FC Cologne,Hannover 96,0,1,2015-10-18 17:30:00,,Rebound
+78103,24,MissedShots,0.885,0.620999984741211,0.09139464795589447,Anthony Modeste,h,137,OpenPlay,2015,LeftFoot,1100,FC Cologne,Hannover 96,0,1,2015-10-18 17:30:00,Yannick Gerhardt,Pass
+78104,28,BlockedShot,0.7519999694824219,0.33599998474121096,0.01287008449435234,Marcel Risse,h,134,FromCorner,2015,RightFoot,1100,FC Cologne,Hannover 96,0,1,2015-10-18 17:30:00,,Aerial
+78105,32,SavedShot,0.8069999694824219,0.31,0.026890728622674942,Marcel Risse,h,134,OpenPlay,2015,RightFoot,1100,FC Cologne,Hannover 96,0,1,2015-10-18 17:30:00,Anthony Modeste,Pass
+78106,33,BlockedShot,0.9119999694824219,0.3890000152587891,0.04926149919629097,Frederik Sörensen,h,138,FromCorner,2015,RightFoot,1100,FC Cologne,Hannover 96,0,1,2015-10-18 17:30:00,Jonas Hector,Cross
+78111,52,BlockedShot,0.919000015258789,0.415,0.05456847324967384,Frederik Sörensen,h,138,FromCorner,2015,Head,1100,FC Cologne,Hannover 96,0,1,2015-10-18 17:30:00,Jonas Hector,Cross
+78112,64,SavedShot,0.95,0.42400001525878905,0.2841082215309143,Anthony Modeste,h,137,OpenPlay,2015,Head,1100,FC Cologne,Hannover 96,0,1,2015-10-18 17:30:00,Leonardo Bittencourt,Cross
+78113,64,BlockedShot,0.715999984741211,0.5220000076293946,0.017450807616114616,Leonardo Bittencourt,h,262,OpenPlay,2015,RightFoot,1100,FC Cologne,Hannover 96,0,1,2015-10-18 17:30:00,Matthias Lehmann,Pass
+78114,67,SavedShot,0.7390000152587891,0.56,0.05885521322488785,Milos Jojic,h,144,DirectFreekick,2015,RightFoot,1100,FC Cologne,Hannover 96,0,1,2015-10-18 17:30:00,,Standard
+78115,75,SavedShot,0.8980000305175782,0.525,0.30252981185913086,Philipp Hosiner,h,141,OpenPlay,2015,RightFoot,1100,FC Cologne,Hannover 96,0,1,2015-10-18 17:30:00,Marcel Risse,Chipped
+78117,85,SavedShot,0.8930000305175781,0.500999984741211,0.042849767953157425,Anthony Modeste,h,137,OpenPlay,2015,Head,1100,FC Cologne,Hannover 96,0,1,2015-10-18 17:30:00,Marcel Risse,Chipped
+78118,86,MissedShots,0.9230000305175782,0.48200000762939454,0.3469392657279968,Frederik Sörensen,h,138,FromCorner,2015,Head,1100,FC Cologne,Hannover 96,0,1,2015-10-18 17:30:00,Milos Jojic,Cross
+78119,87,BlockedShot,0.8130000305175781,0.28,0.021555937826633453,Marcel Risse,h,134,OpenPlay,2015,RightFoot,1100,FC Cologne,Hannover 96,0,1,2015-10-18 17:30:00,,None
+78100,14,MissedShots,0.740999984741211,0.6990000152587891,0.009914109483361244,Kenan Karaman,a,98,OpenPlay,2015,RightFoot,1100,FC Cologne,Hannover 96,0,1,2015-10-18 17:30:00,Manuel Schmiedebach,Chipped
+78101,19,MissedShots,0.7930000305175782,0.28299999237060547,0.01983814314007759,Artur Sobiech,a,349,OpenPlay,2015,RightFoot,1100,FC Cologne,Hannover 96,0,1,2015-10-18 17:30:00,Manuel Schmiedebach,BallRecovery
+78102,21,BlockedShot,0.8969999694824219,0.43900001525878907,0.08897607028484344,Artur Sobiech,a,349,OpenPlay,2015,LeftFoot,1100,FC Cologne,Hannover 96,0,1,2015-10-18 17:30:00,,None
+78107,37,SavedShot,0.9030000305175782,0.3820000076293945,0.020571423694491386,Christian Schulz,a,94,FromCorner,2015,Head,1100,FC Cologne,Hannover 96,0,1,2015-10-18 17:30:00,Hiroshi Kiyotake,Cross
+78108,37,Goal,0.9790000152587891,0.5179999923706055,0.9649174809455872,Leon Andreasen,a,99,FromCorner,2015,OtherBodyPart,1100,FC Cologne,Hannover 96,0,1,2015-10-18 17:30:00,,Rebound
+78109,46,SavedShot,0.8730000305175781,0.3579999923706055,0.051737572997808456,Artur Sobiech,a,349,OpenPlay,2015,RightFoot,1100,FC Cologne,Hannover 96,0,1,2015-10-18 17:30:00,Hiroshi Kiyotake,Cross
+78110,46,BlockedShot,0.9819999694824219,0.40400001525878904,0.11953253298997879,Felix Klaus,a,350,OpenPlay,2015,RightFoot,1100,FC Cologne,Hannover 96,0,1,2015-10-18 17:30:00,,Rebound
+78116,79,SavedShot,0.7090000152587891,0.6090000152587891,0.011671788059175014,Felix Klaus,a,350,OpenPlay,2015,RightFoot,1100,FC Cologne,Hannover 96,0,1,2015-10-18 17:30:00,Artur Sobiech,TakeOn

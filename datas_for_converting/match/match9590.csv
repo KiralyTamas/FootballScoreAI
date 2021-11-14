@@ -1,0 +1,33 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+220997,2,MissedShots,0.5620000076293945,0.3340000152587891,0.0672995075583458,Darwin Machís,h,4226,OpenPlay,2018,RightFoot,9590,Udinese,Sampdoria,1,0,2018-08-26 21:30:00,,Clearance
+220998,5,BlockedShot,0.8159999847412109,0.29100000381469726,0.024351807311177254,Darwin Machís,h,4226,OpenPlay,2018,LeftFoot,9590,Udinese,Sampdoria,1,0,2018-08-26 21:30:00,Valon Behrami,TakeOn
+220999,6,SavedShot,0.774000015258789,0.575,0.02020992338657379,Seko Fofana,h,1144,FromCorner,2018,LeftFoot,9590,Udinese,Sampdoria,1,0,2018-08-26 21:30:00,,None
+221000,8,Goal,0.8540000152587891,0.5659999847412109,0.08705034106969833,Rodrigo de Paul,h,1145,OpenPlay,2018,RightFoot,9590,Udinese,Sampdoria,1,0,2018-08-26 21:30:00,Seko Fofana,Pass
+221001,9,MissedShots,0.705,0.3240000152587891,0.01305636391043663,Seko Fofana,h,1144,OpenPlay,2018,RightFoot,9590,Udinese,Sampdoria,1,0,2018-08-26 21:30:00,Darwin Machís,Pass
+221002,15,SavedShot,0.8630000305175781,0.43900001525878907,0.3379737436771393,Kevin Lasagna,h,1903,OpenPlay,2018,LeftFoot,9590,Udinese,Sampdoria,1,0,2018-08-26 21:30:00,Seko Fofana,Throughball
+221004,17,SavedShot,0.965,0.5120000076293946,0.5306252837181091,Valon Behrami,h,570,FromCorner,2018,Head,9590,Udinese,Sampdoria,1,0,2018-08-26 21:30:00,Rodrigo de Paul,Cross
+221005,18,MissedShots,0.9330000305175781,0.41700000762939454,0.1019584983587265,Kevin Lasagna,h,1903,FromCorner,2018,RightFoot,9590,Udinese,Sampdoria,1,0,2018-08-26 21:30:00,,None
+221006,25,SavedShot,0.970999984741211,0.3189999961853027,0.0735299363732338,Darwin Machís,h,4226,OpenPlay,2018,RightFoot,9590,Udinese,Sampdoria,1,0,2018-08-26 21:30:00,Kevin Lasagna,HeadPass
+221007,27,MissedShots,0.8430000305175781,0.6619999694824219,0.03067377768456936,Seko Fofana,h,1144,FromCorner,2018,LeftFoot,9590,Udinese,Sampdoria,1,0,2018-08-26 21:30:00,,None
+221009,32,MissedShots,0.7190000152587891,0.5779999923706055,0.018182840198278427,Seko Fofana,h,1144,OpenPlay,2018,RightFoot,9590,Udinese,Sampdoria,1,0,2018-08-26 21:30:00,Rodrigo de Paul,TakeOn
+221010,39,MissedShots,0.8090000152587891,0.3820000076293945,0.047979969531297684,Seko Fofana,h,1144,OpenPlay,2018,RightFoot,9590,Udinese,Sampdoria,1,0,2018-08-26 21:30:00,Kevin Lasagna,Pass
+221011,44,BlockedShot,0.705,0.43900001525878907,0.03891564533114433,Kevin Lasagna,h,1903,DirectFreekick,2018,LeftFoot,9590,Udinese,Sampdoria,1,0,2018-08-26 21:30:00,,Standard
+221012,45,MissedShots,0.8159999847412109,0.46599998474121096,0.0384172685444355,Rolando Mandragora,h,3821,FromCorner,2018,LeftFoot,9590,Udinese,Sampdoria,1,0,2018-08-26 21:30:00,,None
+221014,63,BlockedShot,0.755,0.645,0.019151749089360237,Darwin Machís,h,4226,FromCorner,2018,RightFoot,9590,Udinese,Sampdoria,1,0,2018-08-26 21:30:00,Rodrigo de Paul,Pass
+221027,91,MissedShots,0.9459999847412109,0.355,0.2934541702270508,Lukasz Teodorczyk,h,6998,OpenPlay,2018,LeftFoot,9590,Udinese,Sampdoria,1,0,2018-08-26 21:30:00,Jens Stryger Larsen,TakeOn
+221028,93,SavedShot,0.77,0.5640000152587891,0.055837761610746384,Rolando Mandragora,h,3821,OpenPlay,2018,LeftFoot,9590,Udinese,Sampdoria,1,0,2018-08-26 21:30:00,Seko Fofana,Pass
+221003,16,MissedShots,0.785,0.6179999923706054,0.02653137408196926,Fabio Quagliarella,a,1230,OpenPlay,2018,RightFoot,9590,Udinese,Sampdoria,1,0,2018-08-26 21:30:00,,None
+221008,31,MissedShots,0.7440000152587891,0.44599998474121094,0.02035346068441868,Jakub Jankto,a,1146,OpenPlay,2018,LeftFoot,9590,Udinese,Sampdoria,1,0,2018-08-26 21:30:00,Fabio Quagliarella,LayOff
+221013,51,ShotOnPost,0.845999984741211,0.3139999961853027,0.03351794183254242,Gregoire Defrel,a,1468,OpenPlay,2018,LeftFoot,9590,Udinese,Sampdoria,1,0,2018-08-26 21:30:00,Fabio Quagliarella,Chipped
+221015,70,BlockedShot,0.84,0.47400001525878904,0.05843689292669296,Riccardo Saponara,a,1313,OpenPlay,2018,RightFoot,9590,Udinese,Sampdoria,1,0,2018-08-26 21:30:00,,BallTouch
+221016,70,SavedShot,0.9130000305175782,0.29700000762939455,0.05453413724899292,Bartosz Bereszynski,a,4907,OpenPlay,2018,RightFoot,9590,Udinese,Sampdoria,1,0,2018-08-26 21:30:00,Gregoire Defrel,Pass
+221017,76,MissedShots,0.8469999694824218,0.57,0.056116797029972076,Dawid Kownacki,a,6190,OpenPlay,2018,RightFoot,9590,Udinese,Sampdoria,1,0,2018-08-26 21:30:00,,None
+221018,78,MissedShots,0.7819999694824219,0.645,0.026790985837578773,Karol Linetty,a,1226,OpenPlay,2018,LeftFoot,9590,Udinese,Sampdoria,1,0,2018-08-26 21:30:00,Riccardo Saponara,Pass
+221019,83,SavedShot,0.8880000305175781,0.46,0.03874015808105469,Joachim Andersen,a,6314,FromCorner,2018,Head,9590,Udinese,Sampdoria,1,0,2018-08-26 21:30:00,Edgar Barreto,Cross
+221020,84,SavedShot,0.7809999847412109,0.6759999847412109,0.02239646017551422,Karol Linetty,a,1226,OpenPlay,2018,RightFoot,9590,Udinese,Sampdoria,1,0,2018-08-26 21:30:00,Gregoire Defrel,Pass
+221021,84,BlockedShot,0.769000015258789,0.6580000305175782,0.022560205310583115,Riccardo Saponara,a,1313,FromCorner,2018,RightFoot,9590,Udinese,Sampdoria,1,0,2018-08-26 21:30:00,Karol Linetty,Pass
+221022,86,BlockedShot,0.754000015258789,0.43900001525878907,0.06550510227680206,Edgar Barreto,a,1225,DirectFreekick,2018,RightFoot,9590,Udinese,Sampdoria,1,0,2018-08-26 21:30:00,,Standard
+221023,87,MissedShots,0.9030000305175782,0.445,0.06481239199638367,Dawid Kownacki,a,6190,FromCorner,2018,RightFoot,9590,Udinese,Sampdoria,1,0,2018-08-26 21:30:00,Riccardo Saponara,Cross
+221024,88,BlockedShot,0.7609999847412109,0.5979999923706054,0.019738655537366867,Nicola Murru,a,1400,OpenPlay,2018,LeftFoot,9590,Udinese,Sampdoria,1,0,2018-08-26 21:30:00,,BallRecovery
+221025,90,BlockedShot,0.9380000305175781,0.35400001525878905,0.05638197064399719,Albin Ekdal,a,411,FromCorner,2018,RightFoot,9590,Udinese,Sampdoria,1,0,2018-08-26 21:30:00,Dawid Kownacki,Pass
+221026,91,BlockedShot,0.765,0.45,0.019168056547641754,Karol Linetty,a,1226,FromCorner,2018,RightFoot,9590,Udinese,Sampdoria,1,0,2018-08-26 21:30:00,,None

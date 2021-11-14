@@ -1,0 +1,29 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+160887,6,MissedShots,0.925,0.41,0.09962236881256104,Romelu Lukaku,h,594,OpenPlay,2017,RightFoot,7232,Manchester United,Newcastle United,4,1,2017-11-18 17:30:00,Antonio Valencia,Cross
+160889,11,SavedShot,0.909000015258789,0.44599998474121094,0.04192670062184334,Romelu Lukaku,h,594,SetPiece,2017,Head,7232,Manchester United,Newcastle United,4,1,2017-11-18 17:30:00,,Aerial
+160891,15,MissedShots,0.759000015258789,0.59,0.017208196222782135,Marcus Rashford,h,556,FromCorner,2017,RightFoot,7232,Manchester United,Newcastle United,4,1,2017-11-18 17:30:00,,None
+160892,17,BlockedShot,0.7609999847412109,0.53,0.023676970973610878,Marcus Rashford,h,556,OpenPlay,2017,RightFoot,7232,Manchester United,Newcastle United,4,1,2017-11-18 17:30:00,Anthony Martial,Pass
+160895,19,MissedShots,0.855,0.7440000152587891,0.026042355224490166,Marcus Rashford,h,556,OpenPlay,2017,RightFoot,7232,Manchester United,Newcastle United,4,1,2017-11-18 17:30:00,Ashley Young,Pass
+160897,24,MissedShots,0.9209999847412109,0.5720000076293945,0.1653308868408203,Romelu Lukaku,h,594,OpenPlay,2017,Head,7232,Manchester United,Newcastle United,4,1,2017-11-18 17:30:00,Victor Lindelöf,Chipped
+160898,36,Goal,0.9319999694824219,0.5359999847412109,0.11788170784711838,Anthony Martial,h,553,OpenPlay,2017,Head,7232,Manchester United,Newcastle United,4,1,2017-11-18 17:30:00,Paul Pogba,Cross
+160901,45,BlockedShot,0.85,0.3340000152587891,0.05348039045929909,Antonio Valencia,h,627,OpenPlay,2017,LeftFoot,7232,Manchester United,Newcastle United,4,1,2017-11-18 17:30:00,Victor Lindelöf,Pass
+160902,45,Goal,0.965,0.4420000076293945,0.39182084798812866,Chris Smalling,h,628,FromCorner,2017,Head,7232,Manchester United,Newcastle United,4,1,2017-11-18 17:30:00,Ashley Young,Cross
+160905,49,MissedShots,0.9540000152587891,0.4370000076293945,0.13280412554740906,Anthony Martial,h,553,OpenPlay,2017,RightFoot,7232,Manchester United,Newcastle United,4,1,2017-11-18 17:30:00,,None
+160906,53,Goal,0.9719999694824218,0.47400001525878904,0.6871358156204224,Paul Pogba,h,1740,OpenPlay,2017,RightFoot,7232,Manchester United,Newcastle United,4,1,2017-11-18 17:30:00,Marcus Rashford,HeadPass
+160907,57,MissedShots,0.9069999694824219,0.37,0.044482626020908356,Paul Pogba,h,1740,FromCorner,2017,RightFoot,7232,Manchester United,Newcastle United,4,1,2017-11-18 17:30:00,Juan Mata,Cross
+160908,57,BlockedShot,0.9680000305175781,0.5779999923706055,0.05473193898797035,Anthony Martial,h,553,FromCorner,2017,Head,7232,Manchester United,Newcastle United,4,1,2017-11-18 17:30:00,Paul Pogba,HeadPass
+160910,69,Goal,0.91,0.41700000762939454,0.44654324650764465,Romelu Lukaku,h,594,OpenPlay,2017,LeftFoot,7232,Manchester United,Newcastle United,4,1,2017-11-18 17:30:00,Juan Mata,Pass
+160912,89,SavedShot,0.899000015258789,0.685,0.08756010234355927,Zlatan Ibrahimovic,h,1741,OpenPlay,2017,RightFoot,7232,Manchester United,Newcastle United,4,1,2017-11-18 17:30:00,Nemanja Matic,Chipped
+160913,89,SavedShot,0.9640000152587891,0.49700000762939456,0.1839914470911026,Marouane Fellaini,h,630,FromCorner,2017,OtherBodyPart,7232,Manchester United,Newcastle United,4,1,2017-11-18 17:30:00,Ander Herrera,Chipped
+160888,9,MissedShots,0.9230000305175782,0.5359999847412109,0.04369682818651199,Ciaran Clark,a,875,FromCorner,2017,Head,7232,Manchester United,Newcastle United,4,1,2017-11-18 17:30:00,Jonjo Shelvey,Aerial
+160890,13,Goal,0.8880000305175781,0.4520000076293945,0.3697507679462433,Dwight Gayle,a,743,OpenPlay,2017,RightFoot,7232,Manchester United,Newcastle United,4,1,2017-11-18 17:30:00,DeAndre Yedlin,Pass
+160893,17,SavedShot,0.765,0.38599998474121094,0.029642866924405098,Jacob Murphy,a,6063,OpenPlay,2017,LeftFoot,7232,Manchester United,Newcastle United,4,1,2017-11-18 17:30:00,Matt Ritchie,Pass
+160894,18,MissedShots,0.9130000305175782,0.295,0.0544012151658535,Jacob Murphy,a,6063,OpenPlay,2017,RightFoot,7232,Manchester United,Newcastle United,4,1,2017-11-18 17:30:00,Jonjo Shelvey,Pass
+160896,21,BlockedShot,0.914000015258789,0.610999984741211,0.03257467970252037,Matt Ritchie,a,461,OpenPlay,2017,Head,7232,Manchester United,Newcastle United,4,1,2017-11-18 17:30:00,Isaac Hayden,Chipped
+160899,38,MissedShots,0.759000015258789,0.5359999847412109,0.024745095521211624,Jacob Murphy,a,6063,OpenPlay,2017,LeftFoot,7232,Manchester United,Newcastle United,4,1,2017-11-18 17:30:00,DeAndre Yedlin,Pass
+160900,43,SavedShot,0.769000015258789,0.5670000076293945,0.025886164978146553,Jonjo Shelvey,a,769,OpenPlay,2017,LeftFoot,7232,Manchester United,Newcastle United,4,1,2017-11-18 17:30:00,Jacob Murphy,Pass
+160903,47,SavedShot,0.9219999694824219,0.6270000076293946,0.4165474772453308,Isaac Hayden,a,6062,OpenPlay,2017,RightFoot,7232,Manchester United,Newcastle United,4,1,2017-11-18 17:30:00,Matt Ritchie,TakeOn
+160904,47,MissedShots,0.8540000152587891,0.64,0.04636992886662483,Matt Ritchie,a,461,OpenPlay,2017,LeftFoot,7232,Manchester United,Newcastle United,4,1,2017-11-18 17:30:00,,Rebound
+160909,66,SavedShot,0.7480000305175781,0.504000015258789,0.02111668884754181,Jacob Murphy,a,6063,OpenPlay,2017,RightFoot,7232,Manchester United,Newcastle United,4,1,2017-11-18 17:30:00,Joselu,Pass
+160911,77,MissedShots,0.7730000305175782,0.42700000762939455,0.031006116420030594,Jonjo Shelvey,a,769,OpenPlay,2017,RightFoot,7232,Manchester United,Newcastle United,4,1,2017-11-18 17:30:00,Isaac Hayden,Pass
+160914,92,MissedShots,0.7880000305175782,0.6969999694824218,0.010655702091753483,Rolando Aarons,a,915,OpenPlay,2017,LeftFoot,7232,Manchester United,Newcastle United,4,1,2017-11-18 17:30:00,,Aerial

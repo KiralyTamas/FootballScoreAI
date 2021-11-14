@@ -1,0 +1,31 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+198848,28,MissedShots,0.7230000305175781,0.49,0.014356725849211216,Cédric Soares,h,847,FromCorner,2017,RightFoot,7405,Southampton,Stoke,0,0,2018-03-03 15:00:00,,None
+198849,35,BlockedShot,0.9080000305175782,0.67,0.05940677225589752,Josh Sims,h,5565,OpenPlay,2017,LeftFoot,7405,Southampton,Stoke,0,0,2018-03-03 15:00:00,Wesley Hoedt,TakeOn
+198853,45,SavedShot,0.97,0.6819999694824219,0.058022573590278625,Josh Sims,h,5565,OpenPlay,2017,LeftFoot,7405,Southampton,Stoke,0,0,2018-03-03 15:00:00,Guido Carrillo,Pass
+198854,45,MissedShots,0.8080000305175781,0.41900001525878905,0.03006814979016781,Mario Lemina,h,1299,FromCorner,2017,RightFoot,7405,Southampton,Stoke,0,0,2018-03-03 15:00:00,,None
+198852,49,BlockedShot,0.895,0.48200000762939454,0.03701123222708702,Guido Carrillo,h,3424,OpenPlay,2017,Head,7405,Southampton,Stoke,0,0,2018-03-03 15:00:00,Cédric Soares,End
+198857,58,SavedShot,0.855,0.41700000762939454,0.08042427897453308,Josh Sims,h,5565,OpenPlay,2017,RightFoot,7405,Southampton,Stoke,0,0,2018-03-03 15:00:00,Cédric Soares,Pass
+198858,59,MissedShots,0.700999984741211,0.5209999847412109,0.015048708766698837,Mario Lemina,h,1299,OpenPlay,2017,RightFoot,7405,Southampton,Stoke,0,0,2018-03-03 15:00:00,Nathan Redmond,Pass
+198860,66,SavedShot,0.8109999847412109,0.38799999237060545,0.040695566684007645,Cédric Soares,h,847,OpenPlay,2017,RightFoot,7405,Southampton,Stoke,0,0,2018-03-03 15:00:00,,None
+198861,66,BlockedShot,0.7419999694824219,0.435,0.013414966873824596,Mario Lemina,h,1299,FromCorner,2017,RightFoot,7405,Southampton,Stoke,0,0,2018-03-03 15:00:00,,Aerial
+198863,69,BlockedShot,0.909000015258789,0.3060000038146973,0.05334172770380974,Ryan Bertrand,h,835,OpenPlay,2017,LeftFoot,7405,Southampton,Stoke,0,0,2018-03-03 15:00:00,Cédric Soares,Pass
+198864,69,BlockedShot,0.925,0.5720000076293945,0.024638503789901733,Guido Carrillo,h,3424,FromCorner,2017,Head,7405,Southampton,Stoke,0,0,2018-03-03 15:00:00,Ryan Bertrand,Aerial
+198865,71,SavedShot,0.8,0.6659999847412109,0.026960859075188637,Nathan Redmond,h,790,OpenPlay,2017,RightFoot,7405,Southampton,Stoke,0,0,2018-03-03 15:00:00,Ryan Bertrand,Pass
+198866,73,BlockedShot,0.8919999694824219,0.5129999923706055,0.027062920853495598,Guido Carrillo,h,3424,FromCorner,2017,Head,7405,Southampton,Stoke,0,0,2018-03-03 15:00:00,Nathan Redmond,Foul
+198867,73,SavedShot,0.855,0.7240000152587891,0.035212401300668716,Nathan Redmond,h,790,OpenPlay,2017,RightFoot,7405,Southampton,Stoke,0,0,2018-03-03 15:00:00,Josh Sims,BallRecovery
+198868,76,MissedShots,0.925,0.524000015258789,0.3664235472679138,Sofiane Boufal,h,1734,OpenPlay,2017,Head,7405,Southampton,Stoke,0,0,2018-03-03 15:00:00,Nathan Redmond,Cross
+198869,81,MissedShots,0.7269999694824218,0.49,0.01715216413140297,Cédric Soares,h,847,SetPiece,2017,RightFoot,7405,Southampton,Stoke,0,0,2018-03-03 15:00:00,Nathan Redmond,Pass
+198870,86,BlockedShot,0.825999984741211,0.475,0.0641200914978981,Oriol Romeu,h,842,OpenPlay,2017,RightFoot,7405,Southampton,Stoke,0,0,2018-03-03 15:00:00,Manolo Gabbiadini,BallTouch
+198872,88,SavedShot,0.7440000152587891,0.43099998474121093,0.019533580169081688,Cédric Soares,h,847,OpenPlay,2017,RightFoot,7405,Southampton,Stoke,0,0,2018-03-03 15:00:00,Oriol Romeu,Pass
+198844,2,SavedShot,0.7340000152587891,0.6819999694824219,0.014160212129354477,Badou Ndiaye,a,6525,OpenPlay,2017,RightFoot,7405,Southampton,Stoke,0,0,2018-03-03 15:00:00,Konstantinos Stafylidis,Pass
+198845,23,MissedShots,0.8080000305175781,0.47200000762939454,0.040866669267416,Badou Ndiaye,a,6525,SetPiece,2017,RightFoot,7405,Southampton,Stoke,0,0,2018-03-03 15:00:00,,None
+198846,24,MissedShots,0.8,0.715,0.019403090700507164,Konstantinos Stafylidis,a,368,OpenPlay,2017,LeftFoot,7405,Southampton,Stoke,0,0,2018-03-03 15:00:00,Eric Maxim Choupo-Moting,Pass
+198847,26,MissedShots,0.7869999694824219,0.6759999847412109,0.021157527342438698,Konstantinos Stafylidis,a,368,OpenPlay,2017,RightFoot,7405,Southampton,Stoke,0,0,2018-03-03 15:00:00,Xherdan Shaqiri,TakeOn
+198850,41,SavedShot,0.91,0.545,0.05977117270231247,Badou Ndiaye,a,6525,OpenPlay,2017,Head,7405,Southampton,Stoke,0,0,2018-03-03 15:00:00,Xherdan Shaqiri,Chipped
+198851,46,SavedShot,0.845999984741211,0.4329999923706055,0.025957442820072174,Eric Maxim Choupo-Moting,a,339,OpenPlay,2017,Head,7405,Southampton,Stoke,0,0,2018-03-03 15:00:00,Xherdan Shaqiri,Chipped
+198855,48,MissedShots,0.6859999847412109,0.8080000305175781,0.007576676085591316,Peter Crouch,a,872,OpenPlay,2017,RightFoot,7405,Southampton,Stoke,0,0,2018-03-03 15:00:00,Geoff Cameron,Aerial
+198856,50,MissedShots,0.7930000305175782,0.6669999694824219,0.02617945894598961,Eric Maxim Choupo-Moting,a,339,OpenPlay,2017,RightFoot,7405,Southampton,Stoke,0,0,2018-03-03 15:00:00,Erik Pieters,Pass
+198859,60,MissedShots,0.895,0.5879999923706055,0.08323768526315689,Eric Maxim Choupo-Moting,a,339,OpenPlay,2017,LeftFoot,7405,Southampton,Stoke,0,0,2018-03-03 15:00:00,Peter Crouch,HeadPass
+198862,67,MissedShots,0.7090000152587891,0.41900001525878905,0.02884204499423504,Peter Crouch,a,872,OpenPlay,2017,RightFoot,7405,Southampton,Stoke,0,0,2018-03-03 15:00:00,Xherdan Shaqiri,Pass
+198871,87,MissedShots,0.794000015258789,0.5690000152587891,0.04136652499437332,Jesé,a,2256,OpenPlay,2017,RightFoot,7405,Southampton,Stoke,0,0,2018-03-03 15:00:00,Badou Ndiaye,LayOff
+198873,89,MissedShots,0.7340000152587891,0.4809999847412109,0.01678476668894291,Badou Ndiaye,a,6525,OpenPlay,2017,RightFoot,7405,Southampton,Stoke,0,0,2018-03-03 15:00:00,Xherdan Shaqiri,Pass

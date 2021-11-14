@@ -1,0 +1,21 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+280496,8,BlockedShot,0.88,0.5829999923706055,0.07779986411333084,Philippe Coutinho,h,488,OpenPlay,2018,RightFoot,10148,Barcelona,Leganes,3,1,2019-01-20 19:45:00,,None
+280497,23,MissedShots,0.9,0.6309999847412109,0.07116888463497162,Luis Suárez,h,2098,OpenPlay,2018,LeftFoot,10148,Barcelona,Leganes,3,1,2019-01-20 19:45:00,,None
+280498,26,SavedShot,0.715,0.5279999923706055,0.05006805434823036,Luis Suárez,h,2098,DirectFreekick,2018,RightFoot,10148,Barcelona,Leganes,3,1,2019-01-20 19:45:00,,Standard
+280500,30,MissedShots,0.945,0.34900001525878904,0.06466955691576004,Luis Suárez,h,2098,OpenPlay,2018,RightFoot,10148,Barcelona,Leganes,3,1,2019-01-20 19:45:00,Ousmane Dembélé,Chipped
+280501,31,Goal,0.875,0.5459999847412109,0.1107446551322937,Ousmane Dembélé,h,3226,OpenPlay,2018,RightFoot,10148,Barcelona,Leganes,3,1,2019-01-20 19:45:00,Jordi Alba,Pass
+280502,44,MissedShots,0.8380000305175781,0.47900001525878905,0.09523263573646545,Philippe Coutinho,h,488,OpenPlay,2018,RightFoot,10148,Barcelona,Leganes,3,1,2019-01-20 19:45:00,Ousmane Dembélé,Pass
+280503,47,MissedShots,0.8590000152587891,0.37400001525878906,0.07493890076875687,Philippe Coutinho,h,488,OpenPlay,2018,RightFoot,10148,Barcelona,Leganes,3,1,2019-01-20 19:45:00,,None
+280504,55,MissedShots,0.784000015258789,0.5459999847412109,0.04421001300215721,Luis Suárez,h,2098,OpenPlay,2018,RightFoot,10148,Barcelona,Leganes,3,1,2019-01-20 19:45:00,Carles Aleñá,Pass
+280506,58,MissedShots,0.895,0.32599998474121095,0.0778430923819542,Ousmane Dembélé,h,3226,OpenPlay,2018,RightFoot,10148,Barcelona,Leganes,3,1,2019-01-20 19:45:00,Carles Aleñá,TakeOn
+280510,70,SavedShot,0.755,0.41,0.018470074981451035,Lionel Messi,h,2097,OpenPlay,2018,LeftFoot,10148,Barcelona,Leganes,3,1,2019-01-20 19:45:00,Malcom,TakeOn
+280511,70,Goal,0.96,0.5379999923706055,0.6474345326423645,Luis Suárez,h,2098,OpenPlay,2018,LeftFoot,10148,Barcelona,Leganes,3,1,2019-01-20 19:45:00,,Rebound
+280512,78,SavedShot,0.8880000305175781,0.524000015258789,0.4471866488456726,Luis Suárez,h,2098,OpenPlay,2018,RightFoot,10148,Barcelona,Leganes,3,1,2019-01-20 19:45:00,Jordi Alba,Pass
+280513,91,Goal,0.879000015258789,0.565,0.1150183156132698,Lionel Messi,h,2097,OpenPlay,2018,RightFoot,10148,Barcelona,Leganes,3,1,2019-01-20 19:45:00,Jordi Alba,Pass
+280514,94,MissedShots,0.7909999847412109,0.6079999923706054,0.024778712540864944,Ivan Rakitic,h,2094,FromCorner,2018,LeftFoot,10148,Barcelona,Leganes,3,1,2019-01-20 19:45:00,,None
+280515,96,SavedShot,0.879000015258789,0.565,0.13172206282615662,Luis Suárez,h,2098,OpenPlay,2018,RightFoot,10148,Barcelona,Leganes,3,1,2019-01-20 19:45:00,Jordi Alba,Pass
+280499,29,BlockedShot,0.740999984741211,0.6819999694824219,0.01554060634225607,Óscar Rodríguez,a,6570,OpenPlay,2018,RightFoot,10148,Barcelona,Leganes,3,1,2019-01-20 19:45:00,Youssef En-Nesyri,Pass
+280505,56,Goal,0.965999984741211,0.509000015258789,0.7028672695159912,Martin Braithwaite,a,3211,OpenPlay,2018,RightFoot,10148,Barcelona,Leganes,3,1,2019-01-20 19:45:00,Youssef En-Nesyri,Pass
+280507,60,SavedShot,0.725,0.5570000076293945,0.054307885468006134,Óscar Rodríguez,a,6570,DirectFreekick,2018,RightFoot,10148,Barcelona,Leganes,3,1,2019-01-20 19:45:00,,Standard
+280508,61,BlockedShot,0.8590000152587891,0.23299999237060548,0.025161119177937508,Youssef En-Nesyri,a,5169,OpenPlay,2018,LeftFoot,10148,Barcelona,Leganes,3,1,2019-01-20 19:45:00,Óscar Rodríguez,Pass
+280509,67,MissedShots,0.730999984741211,0.46,0.01759452186524868,Martin Braithwaite,a,3211,OpenPlay,2018,RightFoot,10148,Barcelona,Leganes,3,1,2019-01-20 19:45:00,,BallRecovery

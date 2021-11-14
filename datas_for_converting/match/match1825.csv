@@ -1,0 +1,29 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+136063,3,BlockedShot,0.865,0.3920000076293945,0.0798579603433609,Lionel Messi,h,2097,OpenPlay,2016,LeftFoot,1825,Barcelona,Atletico Madrid,1,1,2016-09-22 00:00:00,Luis Suárez,Pass
+136064,8,SavedShot,0.87,0.46,0.016741320490837097,Ivan Rakitic,h,2094,OpenPlay,2016,Head,1825,Barcelona,Atletico Madrid,1,1,2016-09-22 00:00:00,Andrés Iniesta,Aerial
+136065,13,SavedShot,0.750999984741211,0.4540000152587891,0.01877192035317421,Lionel Messi,h,2097,OpenPlay,2016,LeftFoot,1825,Barcelona,Atletico Madrid,1,1,2016-09-22 00:00:00,,None
+136068,19,SavedShot,0.8690000152587891,0.6730000305175782,0.053068384528160095,Andrés Iniesta,h,2096,OpenPlay,2016,LeftFoot,1825,Barcelona,Atletico Madrid,1,1,2016-09-22 00:00:00,Lionel Messi,Pass
+136069,24,BlockedShot,0.8530000305175781,0.315,0.04638443514704704,Lionel Messi,h,2097,OpenPlay,2016,LeftFoot,1825,Barcelona,Atletico Madrid,1,1,2016-09-22 00:00:00,Sergi Roberto,Pass
+136071,32,BlockedShot,0.919000015258789,0.59,0.0864303931593895,Luis Suárez,h,2098,OpenPlay,2016,LeftFoot,1825,Barcelona,Atletico Madrid,1,1,2016-09-22 00:00:00,Jordi Alba,Cross
+136072,35,MissedShots,0.775,0.5870000076293945,0.03159540891647339,Neymar,h,2099,OpenPlay,2016,RightFoot,1825,Barcelona,Atletico Madrid,1,1,2016-09-22 00:00:00,,Dispossessed
+136073,40,Goal,0.9330000305175781,0.5070000076293946,0.39363449811935425,Ivan Rakitic,h,2094,FromCorner,2016,Head,1825,Barcelona,Atletico Madrid,1,1,2016-09-22 00:00:00,Andrés Iniesta,Cross
+136074,44,SavedShot,0.85,0.615,0.08350852131843567,Lionel Messi,h,2097,OpenPlay,2016,LeftFoot,1825,Barcelona,Atletico Madrid,1,1,2016-09-22 00:00:00,Luis Suárez,Pass
+136076,45,BlockedShot,0.855999984741211,0.37599998474121094,0.08263661712408066,Lionel Messi,h,2097,OpenPlay,2016,LeftFoot,1825,Barcelona,Atletico Madrid,1,1,2016-09-22 00:00:00,Neymar,Pass
+136080,64,SavedShot,0.7630000305175781,0.64,0.020762640982866287,Neymar,h,2099,OpenPlay,2016,RightFoot,1825,Barcelona,Atletico Madrid,1,1,2016-09-22 00:00:00,Jordi Alba,Pass
+136081,67,BlockedShot,0.7169999694824218,0.534000015258789,0.05094426870346069,Luis Suárez,h,2098,DirectFreekick,2016,RightFoot,1825,Barcelona,Atletico Madrid,1,1,2016-09-22 00:00:00,,Standard
+136082,74,BlockedShot,0.7869999694824219,0.5370000076293945,0.11206582933664322,Neymar,h,2099,DirectFreekick,2016,RightFoot,1825,Barcelona,Atletico Madrid,1,1,2016-09-22 00:00:00,,Standard
+136083,78,SavedShot,0.8540000152587891,0.710999984741211,0.03235722333192825,Neymar,h,2099,OpenPlay,2016,LeftFoot,1825,Barcelona,Atletico Madrid,1,1,2016-09-22 00:00:00,Ivan Rakitic,Pass
+136084,82,MissedShots,0.8980000305175782,0.5279999923706055,0.03592253848910332,Gerard Piqué,h,2092,SetPiece,2016,Head,1825,Barcelona,Atletico Madrid,1,1,2016-09-22 00:00:00,Neymar,Aerial
+136085,85,BlockedShot,0.919000015258789,0.685,0.06006139889359474,Jordi Alba,h,2093,OpenPlay,2016,LeftFoot,1825,Barcelona,Atletico Madrid,1,1,2016-09-22 00:00:00,Ivan Rakitic,Pass
+136087,88,MissedShots,0.8619999694824219,0.3609999847412109,0.0696706771850586,Ivan Rakitic,h,2094,OpenPlay,2016,RightFoot,1825,Barcelona,Atletico Madrid,1,1,2016-09-22 00:00:00,Sergi Roberto,TakeOn
+136089,92,BlockedShot,0.8,0.720999984741211,0.02394481748342514,Neymar,h,2099,OpenPlay,2016,LeftFoot,1825,Barcelona,Atletico Madrid,1,1,2016-09-22 00:00:00,Andrés Iniesta,Pass
+136090,92,MissedShots,0.745999984741211,0.575,0.025484466925263405,Andrés Iniesta,h,2096,FromCorner,2016,RightFoot,1825,Barcelona,Atletico Madrid,1,1,2016-09-22 00:00:00,Neymar,Pass
+136066,15,SavedShot,0.8569999694824219,0.73,0.025955816730856895,Yannick Carrasco,a,2272,OpenPlay,2016,RightFoot,1825,Barcelona,Atletico Madrid,1,1,2016-09-22 00:00:00,Antoine Griezmann,Chipped
+136067,17,MissedShots,0.865999984741211,0.6780000305175782,0.0768245980143547,Filipe Luis,a,2265,OpenPlay,2016,LeftFoot,1825,Barcelona,Atletico Madrid,1,1,2016-09-22 00:00:00,,TakeOn
+136070,30,MissedShots,0.745,0.565,0.02394634671509266,Yannick Carrasco,a,2272,OpenPlay,2016,RightFoot,1825,Barcelona,Atletico Madrid,1,1,2016-09-22 00:00:00,Koke,Pass
+136075,45,SavedShot,0.72,0.5370000076293945,0.018200982362031937,Antoine Griezmann,a,2270,OpenPlay,2016,RightFoot,1825,Barcelona,Atletico Madrid,1,1,2016-09-22 00:00:00,Koke,Pass
+136077,48,MissedShots,0.7719999694824219,0.42700000762939455,0.02950243279337883,Antoine Griezmann,a,2270,OpenPlay,2016,LeftFoot,1825,Barcelona,Atletico Madrid,1,1,2016-09-22 00:00:00,Kevin Gameiro,Pass
+136078,56,MissedShots,0.745,0.5179999923706055,0.017651116475462914,Gabi,a,2268,FromCorner,2016,LeftFoot,1825,Barcelona,Atletico Madrid,1,1,2016-09-22 00:00:00,,None
+136079,60,Goal,0.8290000152587891,0.48,0.06195032596588135,Ángel Correa,a,2275,OpenPlay,2016,RightFoot,1825,Barcelona,Atletico Madrid,1,1,2016-09-22 00:00:00,Fernando Torres,Pass
+136086,87,SavedShot,0.88,0.48400001525878905,0.016805367544293404,Diego Godín,a,2264,SetPiece,2016,Head,1825,Barcelona,Atletico Madrid,1,1,2016-09-22 00:00:00,Koke,Aerial
+136088,89,MissedShots,0.765,0.524000015258789,0.024950150400400162,Koke,a,2269,OpenPlay,2016,RightFoot,1825,Barcelona,Atletico Madrid,1,1,2016-09-22 00:00:00,,None

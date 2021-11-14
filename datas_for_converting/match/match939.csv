@@ -1,0 +1,25 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+144321,34,MissedShots,0.8290000152587891,0.5690000152587891,0.05447430908679962,Massimo Maccarone,h,1315,OpenPlay,2016,RightFoot,939,Empoli,Sampdoria,0,1,2016-08-21 22:45:00,,None
+144322,35,MissedShots,0.9519999694824218,0.315,0.05309215188026428,Massimo Maccarone,h,1315,SetPiece,2016,RightFoot,939,Empoli,Sampdoria,0,1,2016-08-21 22:45:00,Raffaele Maiello,Chipped
+144328,54,MissedShots,0.8530000305175781,0.4929999923706055,0.37047386169433594,Manuel Pucciarelli,h,1318,OpenPlay,2016,RightFoot,939,Empoli,Sampdoria,0,1,2016-08-21 22:45:00,Raffaele Maiello,Throughball
+144329,56,MissedShots,0.9219999694824219,0.4370000076293945,0.07439369708299637,Massimo Maccarone,h,1315,OpenPlay,2016,Head,939,Empoli,Sampdoria,0,1,2016-08-21 22:45:00,Manuel Pasqual,Cross
+144333,62,MissedShots,0.8690000152587891,0.6940000152587891,0.03671129047870636,Riccardo Saponara,h,1313,OpenPlay,2016,RightFoot,939,Empoli,Sampdoria,0,1,2016-08-21 22:45:00,Manuel Pasqual,Chipped
+144335,67,SavedShot,0.885,0.30700000762939456,0.30310845375061035,Rade Krunic,h,1311,OpenPlay,2016,RightFoot,939,Empoli,Sampdoria,0,1,2016-08-21 22:45:00,Riccardo Saponara,Throughball
+144336,75,SavedShot,0.7680000305175781,0.6309999847412109,0.01476418785750866,Rade Krunic,h,1311,SetPiece,2016,LeftFoot,939,Empoli,Sampdoria,0,1,2016-08-21 22:45:00,,None
+144337,78,SavedShot,0.8119999694824219,0.6990000152587891,0.027803519740700722,Massimo Maccarone,h,1315,OpenPlay,2016,RightFoot,939,Empoli,Sampdoria,0,1,2016-08-21 22:45:00,Daniele Croce,Pass
+144316,4,SavedShot,0.7469999694824219,0.5159999847412109,0.0206906758248806,Ricardo Álvarez,a,1231,OpenPlay,2016,RightFoot,939,Empoli,Sampdoria,0,1,2016-08-21 22:45:00,Karol Linetty,Pass
+144317,15,BlockedShot,0.755,0.24600000381469728,0.013765541836619377,Jacopo Sala,a,1221,OpenPlay,2016,RightFoot,939,Empoli,Sampdoria,0,1,2016-08-21 22:45:00,Ricardo Álvarez,Pass
+144318,30,BlockedShot,0.7280000305175781,0.34299999237060547,0.04076851159334183,Ricardo Álvarez,a,1231,DirectFreekick,2016,LeftFoot,939,Empoli,Sampdoria,0,1,2016-08-21 22:45:00,,Standard
+144319,32,BlockedShot,0.899000015258789,0.3029999923706055,0.047122567892074585,Luis Muriel,a,1229,OpenPlay,2016,RightFoot,939,Empoli,Sampdoria,0,1,2016-08-21 22:45:00,Ricardo Álvarez,Chipped
+144320,33,MissedShots,0.8490000152587891,0.32799999237060545,0.04855381324887276,Ricardo Álvarez,a,1231,OpenPlay,2016,LeftFoot,939,Empoli,Sampdoria,0,1,2016-08-21 22:45:00,,BlockedPass
+144323,36,Goal,0.915,0.69,0.059997253119945526,Luis Muriel,a,1229,OpenPlay,2016,LeftFoot,939,Empoli,Sampdoria,0,1,2016-08-21 22:45:00,Ricardo Álvarez,Pass
+144324,45,MissedShots,0.7530000305175781,0.655,0.02317970059812069,Luis Muriel,a,1229,OpenPlay,2016,RightFoot,939,Empoli,Sampdoria,0,1,2016-08-21 22:45:00,,Tackle
+144325,47,BlockedShot,0.624000015258789,0.549000015258789,0.010259144939482212,Daniel Pavlovic,a,1602,FromCorner,2016,LeftFoot,939,Empoli,Sampdoria,0,1,2016-08-21 22:45:00,,None
+144326,49,MissedShots,0.9209999847412109,0.59,0.016068123281002045,Edgar Barreto,a,1225,FromCorner,2016,Head,939,Empoli,Sampdoria,0,1,2016-08-21 22:45:00,Ricardo Álvarez,Aerial
+144327,52,BlockedShot,0.8680000305175781,0.4759999847412109,0.12333561480045319,Fabio Quagliarella,a,1230,OpenPlay,2016,RightFoot,939,Empoli,Sampdoria,0,1,2016-08-21 22:45:00,Karol Linetty,Pass
+144330,57,MissedShots,0.64,0.5540000152587891,0.010894249193370342,Fabio Quagliarella,a,1230,OpenPlay,2016,RightFoot,939,Empoli,Sampdoria,0,1,2016-08-21 22:45:00,,Tackle
+144331,57,MissedShots,0.8930000305175781,0.41,0.3859521746635437,Ricardo Álvarez,a,1231,OpenPlay,2016,LeftFoot,939,Empoli,Sampdoria,0,1,2016-08-21 22:45:00,,BallTouch
+144332,61,SavedShot,0.8230000305175781,0.38599998474121094,0.049701251089572906,Fabio Quagliarella,a,1230,OpenPlay,2016,LeftFoot,939,Empoli,Sampdoria,0,1,2016-08-21 22:45:00,Luis Muriel,Pass
+144334,64,MissedShots,0.845,0.33599998474121096,0.06100146844983101,Luis Muriel,a,1229,OpenPlay,2016,RightFoot,939,Empoli,Sampdoria,0,1,2016-08-21 22:45:00,Edgar Barreto,Pass
+144338,82,SavedShot,0.9019999694824219,0.3890000152587891,0.11337099969387054,Patrik Schick,a,1236,OpenPlay,2016,RightFoot,939,Empoli,Sampdoria,0,1,2016-08-21 22:45:00,Ante Budimir,Pass
+144339,92,SavedShot,0.779000015258789,0.32,0.021797476336359978,Mirko Eramo,a,1237,OpenPlay,2016,RightFoot,939,Empoli,Sampdoria,0,1,2016-08-21 22:45:00,Ante Budimir,Pass

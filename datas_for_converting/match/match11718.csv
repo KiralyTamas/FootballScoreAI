@@ -1,0 +1,24 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+324677,0,MissedShots,0.7369999694824219,0.5,0.020441312342882156,Nathan Redmond,h,790,OpenPlay,2019,RightFoot,11718,Southampton,Chelsea,1,4,2019-10-06 14:00:00,Pierre-Emile Højbjerg,Pass
+324678,4,MissedShots,0.7480000305175781,0.3729999923706055,0.015129338949918747,Pierre-Emile Højbjerg,h,343,FromCorner,2019,RightFoot,11718,Southampton,Chelsea,1,4,2019-10-06 14:00:00,,None
+324684,29,Goal,0.9680000305175781,0.48400001525878905,0.6185307502746582,Danny Ings,h,986,OpenPlay,2019,LeftFoot,11718,Southampton,Chelsea,1,4,2019-10-06 14:00:00,,None
+324685,31,MissedShots,0.9630000305175781,0.685,0.05384158715605736,Nathan Redmond,h,790,SetPiece,2019,LeftFoot,11718,Southampton,Chelsea,1,4,2019-10-06 14:00:00,Pierre-Emile Højbjerg,Chipped
+324686,35,BlockedShot,0.8830000305175781,0.615999984741211,0.057874616235494614,Oriol Romeu,h,842,FromCorner,2019,LeftFoot,11718,Southampton,Chelsea,1,4,2019-10-06 14:00:00,Ryan Bertrand,Pass
+324689,45,BlockedShot,0.8830000305175781,0.37099998474121093,0.3002488613128662,Danny Ings,h,986,OpenPlay,2019,RightFoot,11718,Southampton,Chelsea,1,4,2019-10-06 14:00:00,,BallRecovery
+324692,58,MissedShots,0.7830000305175782,0.455,0.09665476530790329,James Ward-Prowse,h,843,DirectFreekick,2019,RightFoot,11718,Southampton,Chelsea,1,4,2019-10-06 14:00:00,,Standard
+324696,74,SavedShot,0.7240000152587891,0.7090000152587891,0.008912653662264347,Maya Yoshida,h,845,OpenPlay,2019,RightFoot,11718,Southampton,Chelsea,1,4,2019-10-06 14:00:00,Danny Ings,Pass
+324697,78,MissedShots,0.9169999694824219,0.44099998474121094,0.05272303894162178,Danny Ings,h,986,OpenPlay,2019,Head,11718,Southampton,Chelsea,1,4,2019-10-06 14:00:00,James Ward-Prowse,Chipped
+324699,90,MissedShots,0.9009999847412109,0.5670000076293945,0.04608507826924324,Che Adams,h,7700,SetPiece,2019,OtherBodyPart,11718,Southampton,Chelsea,1,4,2019-10-06 14:00:00,James Ward-Prowse,Cross
+324679,10,SavedShot,0.8209999847412109,0.4640000152587891,0.056195080280303955,Tammy Abraham,a,702,OpenPlay,2019,LeftFoot,11718,Southampton,Chelsea,1,4,2019-10-06 14:00:00,Callum Hudson-Odoi,Pass
+324680,16,Goal,0.84,0.6609999847412109,0.10286080837249756,Tammy Abraham,a,702,OpenPlay,2019,RightFoot,11718,Southampton,Chelsea,1,4,2019-10-06 14:00:00,Callum Hudson-Odoi,Chipped
+324681,23,Goal,0.924000015258789,0.6,0.4059460759162903,Mason Mount,a,7768,OpenPlay,2019,RightFoot,11718,Southampton,Chelsea,1,4,2019-10-06 14:00:00,Willian,Pass
+324682,26,MissedShots,0.8030000305175782,0.6759999847412109,0.029090922325849533,Mason Mount,a,7768,OpenPlay,2019,RightFoot,11718,Southampton,Chelsea,1,4,2019-10-06 14:00:00,Callum Hudson-Odoi,Pass
+324683,27,MissedShots,0.8819999694824219,0.4229999923706055,0.4477747678756714,Mason Mount,a,7768,OpenPlay,2019,RightFoot,11718,Southampton,Chelsea,1,4,2019-10-06 14:00:00,Tammy Abraham,Pass
+324687,39,Goal,0.7819999694824219,0.46900001525878904,0.04478341341018677,N&#039;Golo Kanté,a,751,OpenPlay,2019,RightFoot,11718,Southampton,Chelsea,1,4,2019-10-06 14:00:00,Marcos Alonso,Pass
+324688,42,MissedShots,0.745,0.41200000762939454,0.02549174800515175,Willian,a,700,OpenPlay,2019,RightFoot,11718,Southampton,Chelsea,1,4,2019-10-06 14:00:00,,Dispossessed
+324690,48,SavedShot,0.91,0.634000015258789,0.31705352663993835,Callum Hudson-Odoi,a,6456,OpenPlay,2019,RightFoot,11718,Southampton,Chelsea,1,4,2019-10-06 14:00:00,Willian,Pass
+324691,49,MissedShots,0.924000015258789,0.580999984741211,0.05994085222482681,Kurt Zouma,a,935,FromCorner,2019,Head,11718,Southampton,Chelsea,1,4,2019-10-06 14:00:00,Willian,Cross
+324693,59,SavedShot,0.8059999847412109,0.5740000152587891,0.06309706717729568,Tammy Abraham,a,702,OpenPlay,2019,RightFoot,11718,Southampton,Chelsea,1,4,2019-10-06 14:00:00,Mason Mount,Pass
+324694,64,BlockedShot,0.865,0.3240000152587891,0.15129545331001282,Callum Hudson-Odoi,a,6456,OpenPlay,2019,LeftFoot,11718,Southampton,Chelsea,1,4,2019-10-06 14:00:00,,TakeOn
+324695,70,BlockedShot,0.78,0.7090000152587891,0.018905939534306526,Willian,a,700,FromCorner,2019,RightFoot,11718,Southampton,Chelsea,1,4,2019-10-06 14:00:00,Mason Mount,Pass
+324698,88,Goal,0.9319999694824219,0.6509999847412109,0.4295752942562103,Michy Batshuayi,a,1678,OpenPlay,2019,LeftFoot,11718,Southampton,Chelsea,1,4,2019-10-06 14:00:00,Christian Pulisic,Throughball

@@ -1,0 +1,25 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+79072,4,BlockedShot,0.705,0.33799999237060546,0.035178493708372116,Markus Suttner,h,379,DirectFreekick,2015,LeftFoot,1137,Ingolstadt,Darmstadt,3,1,2015-11-22 20:40:00,,Standard
+79077,28,MissedShots,0.8859999847412109,0.355,0.0450667142868042,Marvin Matip,h,236,FromCorner,2015,RightFoot,1137,Ingolstadt,Darmstadt,3,1,2015-11-22 20:40:00,Romain Brègerie,BallTouch
+79078,28,MissedShots,0.93,0.555,0.10651328414678574,Romain Brègerie,h,235,FromCorner,2015,RightFoot,1137,Ingolstadt,Darmstadt,3,1,2015-11-22 20:40:00,Marvin Matip,None
+79079,32,SavedShot,0.740999984741211,0.43599998474121093,0.05984760448336601,Pascal Groß,h,239,DirectFreekick,2015,RightFoot,1137,Ingolstadt,Darmstadt,3,1,2015-11-22 20:40:00,,Standard
+79080,32,SavedShot,0.955999984741211,0.40599998474121096,0.45523902773857117,Moritz Hartmann,h,362,SetPiece,2015,RightFoot,1137,Ingolstadt,Darmstadt,3,1,2015-11-22 20:40:00,,Rebound
+79081,32,SavedShot,0.995,0.995,0.013024789281189442,Pascal Groß,h,239,FromCorner,2015,RightFoot,1137,Ingolstadt,Darmstadt,3,1,2015-11-22 20:40:00,,CornerAwarded
+79082,37,MissedShots,0.9319999694824219,0.515,0.1295304298400879,Moritz Hartmann,h,362,SetPiece,2015,Head,1137,Ingolstadt,Darmstadt,3,1,2015-11-22 20:40:00,Pascal Groß,Cross
+79083,42,MissedShots,0.97,0.40799999237060547,0.2678167521953583,Lukas Hinterseer,h,242,OpenPlay,2015,Head,1137,Ingolstadt,Darmstadt,3,1,2015-11-22 20:40:00,Moritz Hartmann,Cross
+79085,45,BlockedShot,0.860999984741211,0.4370000076293945,0.0831524133682251,Romain Brègerie,h,235,OpenPlay,2015,RightFoot,1137,Ingolstadt,Darmstadt,3,1,2015-11-22 20:40:00,Pascal Groß,Pass
+79086,45,SavedShot,0.9069999694824219,0.4570000076293945,0.07172027975320816,Benjamin Hübner,h,251,FromCorner,2015,LeftFoot,1137,Ingolstadt,Darmstadt,3,1,2015-11-22 20:40:00,Pascal Groß,Cross
+79087,52,MissedShots,0.6990000152587891,0.28100000381469725,0.012629322707653046,Tobias Levels,h,234,OpenPlay,2015,RightFoot,1137,Ingolstadt,Darmstadt,3,1,2015-11-22 20:40:00,Roger,Pass
+79088,57,Goal,0.795,0.5459999847412109,0.05416201427578926,Robert Bauer,h,237,SetPiece,2015,RightFoot,1137,Ingolstadt,Darmstadt,3,1,2015-11-22 20:40:00,,TakeOn
+79089,59,Goal,0.885,0.5,0.75777667760849,Moritz Hartmann,h,362,Penalty,2015,RightFoot,1137,Ingolstadt,Darmstadt,3,1,2015-11-22 20:40:00,,Standard
+79091,75,MissedShots,0.740999984741211,0.4370000076293945,0.01582963578402996,Stefan Lex,h,243,SetPiece,2015,RightFoot,1137,Ingolstadt,Darmstadt,3,1,2015-11-22 20:40:00,,BallTouch
+79093,87,MissedShots,0.899000015258789,0.645,0.10078168660402298,Alfredo Morales,h,252,OpenPlay,2015,RightFoot,1137,Ingolstadt,Darmstadt,3,1,2015-11-22 20:40:00,Robert Bauer,Pass
+79094,87,Goal,0.9519999694824218,0.505,0.6174260973930359,Moritz Hartmann,h,362,OpenPlay,2015,Head,1137,Ingolstadt,Darmstadt,3,1,2015-11-22 20:40:00,Alfredo Morales,Rebound
+79073,6,MissedShots,0.8530000305175781,0.38,0.026515036821365356,Dominik Stroh-Engel,a,16,OpenPlay,2015,RightFoot,1137,Ingolstadt,Darmstadt,3,1,2015-11-22 20:40:00,Jan Rosenthal,Chipped
+79074,8,Goal,0.955,0.47900001525878905,0.1354047656059265,Aytac Sulu,a,4,FromCorner,2015,Head,1137,Ingolstadt,Darmstadt,3,1,2015-11-22 20:40:00,Konstantin Rausch,Cross
+79075,19,MissedShots,0.8380000305175781,0.28,0.03281901404261589,Jérôme Gondorf,a,8,OpenPlay,2015,RightFoot,1137,Ingolstadt,Darmstadt,3,1,2015-11-22 20:40:00,Dominik Stroh-Engel,Pass
+79076,19,MissedShots,0.889000015258789,0.31,0.05732791870832443,Dominik Stroh-Engel,a,16,OpenPlay,2015,LeftFoot,1137,Ingolstadt,Darmstadt,3,1,2015-11-22 20:40:00,,Rebound
+79084,44,MissedShots,0.88,0.34200000762939453,0.1094374805688858,Marcel Heller,a,6,OpenPlay,2015,LeftFoot,1137,Ingolstadt,Darmstadt,3,1,2015-11-22 20:40:00,Jérôme Gondorf,BallRecovery
+79090,72,SavedShot,0.7169999694824218,0.3370000076293945,0.038734711706638336,Konstantin Rausch,a,13,DirectFreekick,2015,LeftFoot,1137,Ingolstadt,Darmstadt,3,1,2015-11-22 20:40:00,,Standard
+79092,83,BlockedShot,0.9159999847412109,0.46,0.11966311931610107,Tobias Kempe,a,9,OpenPlay,2015,LeftFoot,1137,Ingolstadt,Darmstadt,3,1,2015-11-22 20:40:00,Luca Caldirola,Pass
+79095,93,MissedShots,0.909000015258789,0.5729999923706055,0.06569914519786835,Slobodan Rajkovic,a,18,OpenPlay,2015,RightFoot,1137,Ingolstadt,Darmstadt,3,1,2015-11-22 20:40:00,Tobias Kempe,Chipped

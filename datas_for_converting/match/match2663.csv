@@ -1,0 +1,35 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+123810,5,MissedShots,0.9169999694824219,0.44299999237060544,0.07993154972791672,Jonathas,h,2480,FromCorner,2016,LeftFoot,2663,Rubin Kazan,Krylya Sovetov Samara,3,0,2016-10-15 18:00:00,Rubén Rochina,Cross
+123811,5,MissedShots,0.6780000305175782,0.40099998474121096,0.010358794592320919,Rubén Rochina,h,2079,OpenPlay,2016,LeftFoot,2663,Rubin Kazan,Krylya Sovetov Samara,3,0,2016-10-15 18:00:00,Maksim Kanunnikov,BallRecovery
+123812,11,MissedShots,0.6980000305175781,0.7240000152587891,0.009653876535594463,Elmir Nabiullin,h,2985,OpenPlay,2016,LeftFoot,2663,Rubin Kazan,Krylya Sovetov Samara,3,0,2016-10-15 18:00:00,Rubén Rochina,Pass
+123815,18,SavedShot,0.8969999694824219,0.6480000305175782,0.08576150983572006,Denis Tkachuk,h,2979,OpenPlay,2016,LeftFoot,2663,Rubin Kazan,Krylya Sovetov Samara,3,0,2016-10-15 18:00:00,Rubén Rochina,Pass
+123821,37,Goal,0.9219999694824219,0.4929999923706055,0.12802433967590332,Maksim Kanunnikov,h,2969,OpenPlay,2016,Head,2663,Rubin Kazan,Krylya Sovetov Samara,3,0,2016-10-15 18:00:00,Elmir Nabiullin,Cross
+123822,49,MissedShots,0.76,0.41900001525878905,0.040351346135139465,Maksim Kanunnikov,h,2969,OpenPlay,2016,RightFoot,2663,Rubin Kazan,Krylya Sovetov Samara,3,0,2016-10-15 18:00:00,Yann M&#039;Vila,TakeOn
+123823,51,BlockedShot,0.7909999847412109,0.7869999694824219,0.03140852600336075,Elmir Nabiullin,h,2985,OpenPlay,2016,LeftFoot,2663,Rubin Kazan,Krylya Sovetov Samara,3,0,2016-10-15 18:00:00,Denis Tkachuk,Pass
+123824,51,Goal,0.9259999847412109,0.47,0.5181382894515991,Rubén Rochina,h,2079,OpenPlay,2016,LeftFoot,2663,Rubin Kazan,Krylya Sovetov Samara,3,0,2016-10-15 18:00:00,Denis Tkachuk,Pass
+123825,52,Goal,0.8530000305175781,0.5279999923706055,0.377568781375885,Jonathas,h,2480,OpenPlay,2016,RightFoot,2663,Rubin Kazan,Krylya Sovetov Samara,3,0,2016-10-15 18:00:00,Rubén Rochina,Throughball
+123826,56,BlockedShot,0.8909999847412109,0.5990000152587891,0.11841869354248047,Jonathas,h,2480,OpenPlay,2016,RightFoot,2663,Rubin Kazan,Krylya Sovetov Samara,3,0,2016-10-15 18:00:00,Denis Tkachuk,Pass
+123827,56,BlockedShot,0.905,0.6370000076293946,0.06379302591085434,Jonathas,h,2480,OpenPlay,2016,LeftFoot,2663,Rubin Kazan,Krylya Sovetov Samara,3,0,2016-10-15 18:00:00,,Rebound
+123832,71,SavedShot,0.7730000305175782,0.37900001525878907,0.02267845720052719,Mijo Caktas,h,2976,OpenPlay,2016,RightFoot,2663,Rubin Kazan,Krylya Sovetov Samara,3,0,2016-10-15 18:00:00,,None
+123833,71,MissedShots,0.9469999694824218,0.54,0.6342504620552063,Denis Tkachuk,h,2979,OpenPlay,2016,LeftFoot,2663,Rubin Kazan,Krylya Sovetov Samara,3,0,2016-10-15 18:00:00,,Rebound
+123840,84,SavedShot,0.7119999694824218,0.649000015258789,0.0140574024990201,Mijo Caktas,h,2976,OpenPlay,2016,RightFoot,2663,Rubin Kazan,Krylya Sovetov Samara,3,0,2016-10-15 18:00:00,Denis Tkachuk,Pass
+123813,15,MissedShots,0.8919999694824219,0.5779999923706055,0.03800150007009506,Sergey Tkachev,a,2880,OpenPlay,2016,Head,2663,Rubin Kazan,Krylya Sovetov Samara,3,0,2016-10-15 18:00:00,Yohan Mollo,Cross
+123814,17,SavedShot,0.774000015258789,0.720999984741211,0.012849529273808002,Dmitriy Yatchenko,a,3006,OpenPlay,2016,RightFoot,2663,Rubin Kazan,Krylya Sovetov Samara,3,0,2016-10-15 18:00:00,Sergey Tkachev,Chipped
+123816,26,MissedShots,0.7480000305175781,0.575,0.017885733395814896,Dmitriy Yatchenko,a,3006,OpenPlay,2016,RightFoot,2663,Rubin Kazan,Krylya Sovetov Samara,3,0,2016-10-15 18:00:00,,None
+123817,29,SavedShot,0.7219999694824218,0.21299999237060546,0.009518339298665524,Sergey Tkachev,a,2880,OpenPlay,2016,LeftFoot,2663,Rubin Kazan,Krylya Sovetov Samara,3,0,2016-10-15 18:00:00,Ibrahim Tsallagov,Pass
+123818,31,BlockedShot,0.799000015258789,0.6309999847412109,0.03120494820177555,Yohan Mollo,a,2998,OpenPlay,2016,RightFoot,2663,Rubin Kazan,Krylya Sovetov Samara,3,0,2016-10-15 18:00:00,Milan Rodic,Pass
+123819,32,MissedShots,0.8530000305175781,0.3920000076293945,0.06327908486127853,Sergei Kornilenko,a,3016,OpenPlay,2016,RightFoot,2663,Rubin Kazan,Krylya Sovetov Samara,3,0,2016-10-15 18:00:00,Sergey Tkachev,BallTouch
+123820,35,BlockedShot,0.915,0.67,0.07574635744094849,Sergei Kornilenko,a,3016,OpenPlay,2016,LeftFoot,2663,Rubin Kazan,Krylya Sovetov Samara,3,0,2016-10-15 18:00:00,Yohan Mollo,Pass
+123828,57,MissedShots,0.9419999694824219,0.7030000305175781,0.05807838216423988,Sergei Kornilenko,a,3016,OpenPlay,2016,LeftFoot,2663,Rubin Kazan,Krylya Sovetov Samara,3,0,2016-10-15 18:00:00,Milan Rodic,Pass
+123829,62,SavedShot,0.88,0.69,0.043605051934719086,Sergey Tkachev,a,2880,OpenPlay,2016,LeftFoot,2663,Rubin Kazan,Krylya Sovetov Samara,3,0,2016-10-15 18:00:00,Milan Rodic,Pass
+123830,68,BlockedShot,0.7169999694824218,0.51,0.042389336973428726,Sergey Tkachev,a,2880,DirectFreekick,2016,LeftFoot,2663,Rubin Kazan,Krylya Sovetov Samara,3,0,2016-10-15 18:00:00,,Standard
+123831,68,MissedShots,0.9259999847412109,0.595999984741211,0.041356656700372696,Ivan Taranov,a,2992,FromCorner,2016,Head,2663,Rubin Kazan,Krylya Sovetov Samara,3,0,2016-10-15 18:00:00,Sergey Tkachev,Cross
+123834,74,SavedShot,0.8580000305175781,0.6480000305175782,0.07170074433088303,Sergey Tkachev,a,2880,OpenPlay,2016,LeftFoot,2663,Rubin Kazan,Krylya Sovetov Samara,3,0,2016-10-15 18:00:00,Yohan Mollo,Pass
+123835,74,BlockedShot,0.875,0.4490000152587891,0.07070240378379822,Yohan Mollo,a,2998,OpenPlay,2016,RightFoot,2663,Rubin Kazan,Krylya Sovetov Samara,3,0,2016-10-15 18:00:00,,Rebound
+123836,74,BlockedShot,0.764000015258789,0.6840000152587891,0.017871055752038956,Cristian Pasquato,a,5406,FromCorner,2016,RightFoot,2663,Rubin Kazan,Krylya Sovetov Samara,3,0,2016-10-15 18:00:00,Yohan Mollo,Pass
+123837,75,MissedShots,0.8919999694824219,0.44,0.03690026327967644,Nadson,a,2991,OpenPlay,2016,Head,2663,Rubin Kazan,Krylya Sovetov Samara,3,0,2016-10-15 18:00:00,Sergey Tkachev,Cross
+123838,78,SavedShot,0.8969999694824219,0.525,0.3496895730495453,Milan Rodic,a,2994,OpenPlay,2016,RightFoot,2663,Rubin Kazan,Krylya Sovetov Samara,3,0,2016-10-15 18:00:00,Yohan Mollo,Pass
+123839,78,SavedShot,0.905,0.46299999237060546,0.09223084896802902,Sergei Kornilenko,a,3016,OpenPlay,2016,Head,2663,Rubin Kazan,Krylya Sovetov Samara,3,0,2016-10-15 18:00:00,Yohan Mollo,Cross
+123841,89,SavedShot,0.8719999694824219,0.6519999694824219,0.2804028391838074,Cristian Pasquato,a,5406,OpenPlay,2016,LeftFoot,2663,Rubin Kazan,Krylya Sovetov Samara,3,0,2016-10-15 18:00:00,Yohan Mollo,Chipped
+123842,92,SavedShot,0.950999984741211,0.28200000762939453,0.03909560665488243,Alan Chochiev,a,3000,OpenPlay,2016,RightFoot,2663,Rubin Kazan,Krylya Sovetov Samara,3,0,2016-10-15 18:00:00,,BallTouch
+123843,93,MissedShots,0.8059999847412109,0.28899999618530275,0.01756637543439865,Ibrahim Tsallagov,a,2990,OpenPlay,2016,LeftFoot,2663,Rubin Kazan,Krylya Sovetov Samara,3,0,2016-10-15 18:00:00,,BallTouch

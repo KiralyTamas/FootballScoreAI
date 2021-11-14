@@ -1,0 +1,28 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+320469,1,MissedShots,0.9009999847412109,0.8090000152587891,0.06685376912355423,Dimitri Payet,h,536,DirectFreekick,2019,RightFoot,12764,Marseille,Montpellier,1,1,2019-09-21 15:30:00,,Standard
+320470,2,SavedShot,0.799000015258789,0.664000015258789,0.02729194425046444,Maxime Lopez,h,3772,OpenPlay,2019,RightFoot,12764,Marseille,Montpellier,1,1,2019-09-21 15:30:00,Dimitri Payet,Pass
+320471,5,MissedShots,0.6669999694824219,0.6990000152587891,0.014684244990348816,Morgan Sanson,h,3696,OpenPlay,2019,RightFoot,12764,Marseille,Montpellier,1,1,2019-09-21 15:30:00,,BallRecovery
+320472,7,SavedShot,0.885,0.5570000076293945,0.11850900202989578,Valère Germain,h,3309,OpenPlay,2019,LeftFoot,12764,Marseille,Montpellier,1,1,2019-09-21 15:30:00,Dimitri Payet,Pass
+320473,8,BlockedShot,0.89,0.64,0.056805916130542755,Dimitri Payet,h,536,FromCorner,2019,RightFoot,12764,Marseille,Montpellier,1,1,2019-09-21 15:30:00,Morgan Sanson,TakeOn
+320474,16,OwnGoal,0.06300000190734863,0.49700000762939456,0,Bouna Sarr,h,3393,OpenPlay,2019,LeftFoot,12764,Marseille,Montpellier,1,1,2019-09-21 15:30:00,,TakeOn
+320475,22,MissedShots,0.8109999847412109,0.4229999923706055,0.05894966423511505,Valère Germain,h,3309,OpenPlay,2019,RightFoot,12764,Marseille,Montpellier,1,1,2019-09-21 15:30:00,Darío Benedetto,TakeOn
+320476,27,BlockedShot,0.8519999694824218,0.5179999923706055,0.06210513040423393,Morgan Sanson,h,3696,OpenPlay,2019,LeftFoot,12764,Marseille,Montpellier,1,1,2019-09-21 15:30:00,Darío Benedetto,Dispossessed
+320477,27,BlockedShot,0.7730000305175782,0.524000015258789,0.021999528631567955,Morgan Sanson,h,3696,FromCorner,2019,RightFoot,12764,Marseille,Montpellier,1,1,2019-09-21 15:30:00,,None
+320478,31,BlockedShot,0.8919999694824219,0.43900001525878907,0.0231607798486948,Valère Germain,h,3309,OpenPlay,2019,Head,12764,Marseille,Montpellier,1,1,2019-09-21 15:30:00,Morgan Sanson,Aerial
+320480,35,BlockedShot,0.7930000305175782,0.36700000762939455,0.030288811773061752,Dimitri Payet,h,536,OpenPlay,2019,RightFoot,12764,Marseille,Montpellier,1,1,2019-09-21 15:30:00,Maxime Lopez,Pass
+320481,35,SavedShot,0.885,0.6630000305175782,0.06291583180427551,Darío Benedetto,h,7716,OpenPlay,2019,LeftFoot,12764,Marseille,Montpellier,1,1,2019-09-21 15:30:00,Boubacar Kamara,Pass
+320483,46,BlockedShot,0.759000015258789,0.3039999961853027,0.016575301066040993,Bouna Sarr,h,3393,OpenPlay,2019,RightFoot,12764,Marseille,Montpellier,1,1,2019-09-21 15:30:00,Maxime Lopez,Pass
+320484,48,BlockedShot,0.8580000305175781,0.5629999923706055,0.06163473054766655,Valère Germain,h,3309,OpenPlay,2019,LeftFoot,12764,Marseille,Montpellier,1,1,2019-09-21 15:30:00,,None
+320485,50,MissedShots,0.7569999694824219,0.37099998474121093,0.06068424880504608,Dimitri Payet,h,536,DirectFreekick,2019,RightFoot,12764,Marseille,Montpellier,1,1,2019-09-21 15:30:00,,Standard
+320486,54,MissedShots,0.7880000305175782,0.4370000076293945,0.03713313490152359,Maxime Lopez,h,3772,OpenPlay,2019,RightFoot,12764,Marseille,Montpellier,1,1,2019-09-21 15:30:00,Kevin Strootman,TakeOn
+320487,58,MissedShots,0.805,0.36900001525878906,0.031213877722620964,Bouna Sarr,h,3393,SetPiece,2019,RightFoot,12764,Marseille,Montpellier,1,1,2019-09-21 15:30:00,Kevin Strootman,BallTouch
+320488,62,BlockedShot,0.789000015258789,0.500999984741211,0.036828961223363876,Duje Caleta-Car,h,7007,OpenPlay,2019,LeftFoot,12764,Marseille,Montpellier,1,1,2019-09-21 15:30:00,Morgan Sanson,Pass
+320489,62,BlockedShot,0.9380000305175781,0.35200000762939454,0.05122553929686546,Dimitri Payet,h,536,FromCorner,2019,RightFoot,12764,Marseille,Montpellier,1,1,2019-09-21 15:30:00,,CornerAwarded
+320490,72,BlockedShot,0.7609999847412109,0.7169999694824218,0.018801892176270485,Jordan Amavi,h,961,OpenPlay,2019,LeftFoot,12764,Marseille,Montpellier,1,1,2019-09-21 15:30:00,Kevin Strootman,Pass
+320491,73,Goal,0.9069999694824219,0.435,0.07975023984909058,Valère Germain,h,3309,OpenPlay,2019,RightFoot,12764,Marseille,Montpellier,1,1,2019-09-21 15:30:00,,None
+320492,76,BlockedShot,0.8480000305175781,0.35700000762939454,0.06176278367638588,Dimitri Payet,h,536,OpenPlay,2019,LeftFoot,12764,Marseille,Montpellier,1,1,2019-09-21 15:30:00,Maxime Lopez,Pass
+320493,80,SavedShot,0.7919999694824219,0.524000015258789,0.042047444730997086,Dimitri Payet,h,536,OpenPlay,2019,RightFoot,12764,Marseille,Montpellier,1,1,2019-09-21 15:30:00,Maxime Lopez,Pass
+320494,81,MissedShots,0.805,0.3120000076293945,0.010709185153245926,Valentin Rongier,h,3673,FromCorner,2019,RightFoot,12764,Marseille,Montpellier,1,1,2019-09-21 15:30:00,Dimitri Payet,Chipped
+320495,84,BlockedShot,0.795,0.4640000152587891,0.03214431554079056,Boubacar Kamara,h,5789,SetPiece,2019,RightFoot,12764,Marseille,Montpellier,1,1,2019-09-21 15:30:00,,None
+320479,34,SavedShot,0.8919999694824219,0.19399999618530273,0.04074694216251373,Andy Delort,a,3530,OpenPlay,2019,RightFoot,12764,Marseille,Montpellier,1,1,2019-09-21 15:30:00,Gaetan Laborde,HeadPass
+320482,38,BlockedShot,0.8669999694824219,0.35400001525878905,0.0635434165596962,Andy Delort,a,3530,OpenPlay,2019,LeftFoot,12764,Marseille,Montpellier,1,1,2019-09-21 15:30:00,Hilton,Chipped

@@ -1,0 +1,26 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+112670,12,SavedShot,0.8619999694824219,0.715,0.034778762608766556,Paul Pogba,h,1740,OpenPlay,2016,RightFoot,471,Manchester United,Southampton,2,0,2016-08-19 23:00:00,Zlatan Ibrahimovic,Pass
+112674,28,MissedShots,0.904000015258789,0.5270000076293946,0.10651985555887222,Zlatan Ibrahimovic,h,1741,OpenPlay,2016,RightFoot,471,Manchester United,Southampton,2,0,2016-08-19 23:00:00,Juan Mata,HeadPass
+112676,33,SavedShot,0.7090000152587891,0.36,0.014366386458277702,Wayne Rooney,h,629,OpenPlay,2016,RightFoot,471,Manchester United,Southampton,2,0,2016-08-19 23:00:00,Paul Pogba,Pass
+112677,35,Goal,0.9,0.5479999923706055,0.06711994856595993,Zlatan Ibrahimovic,h,1741,OpenPlay,2016,Head,471,Manchester United,Southampton,2,0,2016-08-19 23:00:00,Wayne Rooney,Cross
+112679,46,MissedShots,0.7530000305175781,0.5990000152587891,0.027945930138230324,Juan Mata,h,554,OpenPlay,2016,LeftFoot,471,Manchester United,Southampton,2,0,2016-08-19 23:00:00,,Dispossessed
+112680,49,SavedShot,0.7759999847412109,0.7230000305175781,0.02283371239900589,Anthony Martial,h,553,OpenPlay,2016,RightFoot,471,Manchester United,Southampton,2,0,2016-08-19 23:00:00,Paul Pogba,Pass
+112681,51,Goal,0.885,0.5,0.7611688375473022,Zlatan Ibrahimovic,h,1741,Penalty,2016,RightFoot,471,Manchester United,Southampton,2,0,2016-08-19 23:00:00,,Standard
+112685,63,MissedShots,0.9280000305175782,0.4759999847412109,0.1124102845788002,Paul Pogba,h,1740,FromCorner,2016,Head,471,Manchester United,Southampton,2,0,2016-08-19 23:00:00,Juan Mata,Cross
+112686,64,BlockedShot,0.8769999694824219,0.629000015258789,0.09752282500267029,Anthony Martial,h,553,OpenPlay,2016,RightFoot,471,Manchester United,Southampton,2,0,2016-08-19 23:00:00,Wayne Rooney,Pass
+112687,64,MissedShots,0.7880000305175782,0.6530000305175782,0.018139781430363655,Wayne Rooney,h,629,OpenPlay,2016,RightFoot,471,Manchester United,Southampton,2,0,2016-08-19 23:00:00,,Rebound
+112689,75,MissedShots,0.8069999694824219,0.7290000152587891,0.03522903472185135,Paul Pogba,h,1740,OpenPlay,2016,RightFoot,471,Manchester United,Southampton,2,0,2016-08-19 23:00:00,Luke Shaw,TakeOn
+112693,92,MissedShots,0.855,0.3220000076293945,0.06926588714122772,Paul Pogba,h,1740,OpenPlay,2016,RightFoot,471,Manchester United,Southampton,2,0,2016-08-19 23:00:00,Henrikh Mkhitaryan,Pass
+112669,1,BlockedShot,0.794000015258789,0.7419999694824219,0.05235380679368973,Dusan Tadic,a,840,DirectFreekick,2016,LeftFoot,471,Manchester United,Southampton,2,0,2016-08-19 23:00:00,,Standard
+112671,14,MissedShots,0.884000015258789,0.6480000305175782,0.07999782264232635,Dusan Tadic,a,840,OpenPlay,2016,LeftFoot,471,Manchester United,Southampton,2,0,2016-08-19 23:00:00,Shane Long,Pass
+112672,25,BlockedShot,0.8780000305175781,0.555,0.07958707213401794,Virgil van Dijk,a,833,SetPiece,2016,RightFoot,471,Manchester United,Southampton,2,0,2016-08-19 23:00:00,Steven Davis,Chipped
+112673,25,MissedShots,0.8819999694824219,0.3629999923706055,0.058585457503795624,Shane Long,a,839,SetPiece,2016,RightFoot,471,Manchester United,Southampton,2,0,2016-08-19 23:00:00,Nathan Redmond,HeadPass
+112675,31,SavedShot,0.825,0.67,0.03205068036913872,Shane Long,a,839,OpenPlay,2016,LeftFoot,471,Manchester United,Southampton,2,0,2016-08-19 23:00:00,Dusan Tadic,Pass
+112678,43,MissedShots,0.789000015258789,0.63,0.02686380408704281,Steven Davis,a,883,OpenPlay,2016,RightFoot,471,Manchester United,Southampton,2,0,2016-08-19 23:00:00,Dusan Tadic,Pass
+112682,56,BlockedShot,0.8130000305175781,0.639000015258789,0.0393499992787838,Shane Long,a,839,OpenPlay,2016,RightFoot,471,Manchester United,Southampton,2,0,2016-08-19 23:00:00,Matt Targett,Pass
+112683,57,MissedShots,0.924000015258789,0.67,0.03497416153550148,Nathan Redmond,a,790,OpenPlay,2016,RightFoot,471,Manchester United,Southampton,2,0,2016-08-19 23:00:00,Steven Davis,HeadPass
+112684,60,MissedShots,0.78,0.6140000152587891,0.01851166971027851,Jordy Clasie,a,837,OpenPlay,2016,LeftFoot,471,Manchester United,Southampton,2,0,2016-08-19 23:00:00,Nathan Redmond,Pass
+112688,74,MissedShots,0.9330000305175781,0.40599998474121096,0.07210109382867813,Shane Long,a,839,OpenPlay,2016,Head,471,Manchester United,Southampton,2,0,2016-08-19 23:00:00,Cédric Soares,Cross
+112690,77,MissedShots,0.885,0.48200000762939454,0.020532917231321335,Virgil van Dijk,a,833,SetPiece,2016,Head,471,Manchester United,Southampton,2,0,2016-08-19 23:00:00,Pierre-Emile Højbjerg,Aerial
+112691,86,MissedShots,0.8530000305175781,0.5779999923706055,0.08585382997989655,Dusan Tadic,a,840,OpenPlay,2016,LeftFoot,471,Manchester United,Southampton,2,0,2016-08-19 23:00:00,Matt Targett,Pass
+112692,88,MissedShots,0.7230000305175781,0.5509999847412109,0.012470283545553684,Dusan Tadic,a,840,OpenPlay,2016,LeftFoot,471,Manchester United,Southampton,2,0,2016-08-19 23:00:00,Pierre-Emile Højbjerg,Pass

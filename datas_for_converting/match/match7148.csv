@@ -1,0 +1,27 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+158665,5,MissedShots,0.899000015258789,0.46599998474121096,0.07839267700910568,Emre Can,h,604,OpenPlay,2017,Head,7148,Liverpool,Arsenal,4,0,2017-08-27 16:00:00,Alberto Moreno,Cross
+158667,9,SavedShot,0.9630000305175781,0.4620000076293945,0.6095722317695618,Mohamed Salah,h,1250,OpenPlay,2017,RightFoot,7148,Liverpool,Arsenal,4,0,2017-08-27 16:00:00,Emre Can,Cross
+158668,15,BlockedShot,0.7480000305175781,0.735999984741211,0.01457942370325327,Alberto Moreno,h,608,FromCorner,2017,LeftFoot,7148,Liverpool,Arsenal,4,0,2017-08-27 16:00:00,Jordan Henderson,Pass
+158669,16,Goal,0.9269999694824219,0.500999984741211,0.41750091314315796,Roberto Firmino,h,482,OpenPlay,2017,Head,7148,Liverpool,Arsenal,4,0,2017-08-27 16:00:00,Joseph Gomez,Cross
+158670,18,MissedShots,0.935,0.365,0.33564504981040955,Jordan Henderson,h,605,OpenPlay,2017,RightFoot,7148,Liverpool,Arsenal,4,0,2017-08-27 16:00:00,Roberto Firmino,Throughball
+158671,24,SavedShot,0.8780000305175781,0.355,0.07493511587381363,Mohamed Salah,h,1250,OpenPlay,2017,LeftFoot,7148,Liverpool,Arsenal,4,0,2017-08-27 16:00:00,Georginio Wijnaldum,Chipped
+158672,31,MissedShots,0.8490000152587891,0.6309999847412109,0.041756246238946915,Sadio Mané,h,838,OpenPlay,2017,RightFoot,7148,Liverpool,Arsenal,4,0,2017-08-27 16:00:00,Georginio Wijnaldum,HeadPass
+158673,33,MissedShots,0.779000015258789,0.45799999237060546,0.022365514189004898,Georginio Wijnaldum,h,771,FromCorner,2017,RightFoot,7148,Liverpool,Arsenal,4,0,2017-08-27 16:00:00,,None
+158674,34,BlockedShot,0.7609999847412109,0.54,0.03422142192721367,Roberto Firmino,h,482,OpenPlay,2017,LeftFoot,7148,Liverpool,Arsenal,4,0,2017-08-27 16:00:00,Emre Can,Pass
+158675,39,Goal,0.8830000305175781,0.6719999694824219,0.09303569048643112,Sadio Mané,h,838,OpenPlay,2017,RightFoot,7148,Liverpool,Arsenal,4,0,2017-08-27 16:00:00,Roberto Firmino,Pass
+158679,53,SavedShot,0.9130000305175782,0.34,0.36895614862442017,Mohamed Salah,h,1250,OpenPlay,2017,LeftFoot,7148,Liverpool,Arsenal,4,0,2017-08-27 16:00:00,,BallRecovery
+158680,53,MissedShots,0.8580000305175781,0.445,0.0664101094007492,Jordan Henderson,h,605,OpenPlay,2017,RightFoot,7148,Liverpool,Arsenal,4,0,2017-08-27 16:00:00,,Rebound
+158681,56,Goal,0.865,0.5690000152587891,0.46628537774086,Mohamed Salah,h,1250,OpenPlay,2017,LeftFoot,7148,Liverpool,Arsenal,4,0,2017-08-27 16:00:00,,BallRecovery
+158682,60,BlockedShot,0.7719999694824219,0.27399999618530274,0.027869658544659615,Emre Can,h,604,OpenPlay,2017,RightFoot,7148,Liverpool,Arsenal,4,0,2017-08-27 16:00:00,Joseph Gomez,Pass
+158685,69,SavedShot,0.9059999847412109,0.355,0.08256562799215317,Sadio Mané,h,838,OpenPlay,2017,RightFoot,7148,Liverpool,Arsenal,4,0,2017-08-27 16:00:00,,None
+158686,76,Goal,0.970999984741211,0.45799999237060546,0.6327107548713684,Daniel Sturridge,h,483,OpenPlay,2017,Head,7148,Liverpool,Arsenal,4,0,2017-08-27 16:00:00,Mohamed Salah,Cross
+158688,86,SavedShot,0.7759999847412109,0.295,0.029996173456311226,Daniel Sturridge,h,483,OpenPlay,2017,LeftFoot,7148,Liverpool,Arsenal,4,0,2017-08-27 16:00:00,Marko Grujic,Pass
+158690,90,SavedShot,0.9540000152587891,0.7090000152587891,0.08768600970506668,Mohamed Salah,h,1250,OpenPlay,2017,LeftFoot,7148,Liverpool,Arsenal,4,0,2017-08-27 16:00:00,James Milner,Chipped
+158666,6,MissedShots,0.9030000305175782,0.585,0.11718644201755524,Danny Welbeck,a,501,OpenPlay,2017,RightFoot,7148,Liverpool,Arsenal,4,0,2017-08-27 16:00:00,Alexis Sánchez,Pass
+158676,41,BlockedShot,0.9130000305175782,0.46,0.10694956034421921,Rob Holding,a,1749,FromCorner,2017,RightFoot,7148,Liverpool,Arsenal,4,0,2017-08-27 16:00:00,,None
+158677,45,MissedShots,0.81,0.6480000305175782,0.0271933414041996,Mesut Özil,a,499,OpenPlay,2017,LeftFoot,7148,Liverpool,Arsenal,4,0,2017-08-27 16:00:00,Granit Xhaka,HeadPass
+158678,48,BlockedShot,0.7609999847412109,0.6680000305175782,0.013987095095217228,Alexis Sánchez,a,498,OpenPlay,2017,RightFoot,7148,Liverpool,Arsenal,4,0,2017-08-27 16:00:00,Mesut Özil,TakeOn
+158683,61,MissedShots,0.895,0.3160000038146973,0.03618912771344185,Mesut Özil,a,499,OpenPlay,2017,LeftFoot,7148,Liverpool,Arsenal,4,0,2017-08-27 16:00:00,,None
+158684,68,MissedShots,0.919000015258789,0.6140000152587891,0.044327814131975174,Alexandre Lacazette,a,3277,OpenPlay,2017,RightFoot,7148,Liverpool,Arsenal,4,0,2017-08-27 16:00:00,Olivier Giroud,HeadPass
+158687,80,MissedShots,0.735,0.41700000762939454,0.011950559914112091,Granit Xhaka,a,204,OpenPlay,2017,LeftFoot,7148,Liverpool,Arsenal,4,0,2017-08-27 16:00:00,Danny Welbeck,Pass
+158689,88,MissedShots,0.92,0.49900001525878906,0.12703163921833038,Olivier Giroud,a,502,SetPiece,2017,Head,7148,Liverpool,Arsenal,4,0,2017-08-27 16:00:00,Mesut Özil,Cross

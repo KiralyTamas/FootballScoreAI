@@ -1,0 +1,33 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+132281,0,MissedShots,0.7380000305175781,0.5590000152587891,0.015805747359991074,Philipp Max,h,267,FromCorner,2016,RightFoot,3758,Augsburg,Bayer Leverkusen,1,3,2017-02-17 19:30:00,,None
+132282,5,MissedShots,0.8809999847412109,0.28200000762939453,0.03770577162504196,Georg Teigl,h,5259,OpenPlay,2016,RightFoot,3758,Augsburg,Bayer Leverkusen,1,3,2017-02-17 19:30:00,Takashi Usami,Pass
+132287,17,MissedShots,0.9440000152587891,0.669000015258789,0.07280050218105316,Ja-Cheol Koo,h,271,OpenPlay,2016,LeftFoot,3758,Augsburg,Bayer Leverkusen,1,3,2017-02-17 19:30:00,Raúl Bobadilla,Pass
+132294,32,SavedShot,0.9030000305175782,0.5479999923706055,0.46207043528556824,Ja-Cheol Koo,h,271,OpenPlay,2016,LeftFoot,3758,Augsburg,Bayer Leverkusen,1,3,2017-02-17 19:30:00,Philipp Max,Throughball
+132296,43,BlockedShot,0.904000015258789,0.40099998474121096,0.046129923313856125,Christoph Janker,h,274,SetPiece,2016,LeftFoot,3758,Augsburg,Bayer Leverkusen,1,3,2017-02-17 19:30:00,,Aerial
+132297,45,MissedShots,0.855999984741211,0.735,0.031417880207300186,Takashi Usami,h,5291,OpenPlay,2016,RightFoot,3758,Augsburg,Bayer Leverkusen,1,3,2017-02-17 19:30:00,Ja-Cheol Koo,Pass
+132299,48,MissedShots,0.7659999847412109,0.6580000305175782,0.012259569950401783,Daniel Baier,h,268,OpenPlay,2016,RightFoot,3758,Augsburg,Bayer Leverkusen,1,3,2017-02-17 19:30:00,,None
+132300,50,SavedShot,0.885,0.315,0.019564788788557053,Ja-Cheol Koo,h,271,SetPiece,2016,RightFoot,3758,Augsburg,Bayer Leverkusen,1,3,2017-02-17 19:30:00,Philipp Max,Cross
+132301,55,BlockedShot,0.8130000305175781,0.5309999847412109,0.041566651314496994,Georg Teigl,h,5259,OpenPlay,2016,LeftFoot,3758,Augsburg,Bayer Leverkusen,1,3,2017-02-17 19:30:00,,None
+132302,55,MissedShots,0.7759999847412109,0.49700000762939456,0.017600880935788155,Daniel Baier,h,268,OpenPlay,2016,RightFoot,3758,Augsburg,Bayer Leverkusen,1,3,2017-02-17 19:30:00,,Rebound
+132303,57,SavedShot,0.875,0.4520000076293945,0.2535267472267151,Raúl Bobadilla,h,273,OpenPlay,2016,RightFoot,3758,Augsburg,Bayer Leverkusen,1,3,2017-02-17 19:30:00,Dominik Kohr,Chipped
+132304,59,Goal,0.875999984741211,0.515,0.4393632113933563,Dominik Kohr,h,269,SetPiece,2016,RightFoot,3758,Augsburg,Bayer Leverkusen,1,3,2017-02-17 19:30:00,Ja-Cheol Koo,Pass
+132283,6,BlockedShot,0.7759999847412109,0.6809999847412109,0.02163686603307724,Wendell,a,185,OpenPlay,2016,LeftFoot,3758,Augsburg,Bayer Leverkusen,1,3,2017-02-17 19:30:00,Julian Brandt,Pass
+132284,6,SavedShot,0.919000015258789,0.625,0.11497925221920013,Kai Havertz,a,5220,OpenPlay,2016,LeftFoot,3758,Augsburg,Bayer Leverkusen,1,3,2017-02-17 19:30:00,Karim Bellarabi,Throughball
+132285,7,MissedShots,0.9359999847412109,0.595999984741211,0.05887403339147568,Chicharito,a,191,FromCorner,2016,Head,3758,Augsburg,Bayer Leverkusen,1,3,2017-02-17 19:30:00,Wendell,Cross
+132286,11,SavedShot,0.8130000305175781,0.664000015258789,0.032976023852825165,Chicharito,a,191,OpenPlay,2016,RightFoot,3758,Augsburg,Bayer Leverkusen,1,3,2017-02-17 19:30:00,Julian Brandt,Pass
+132288,19,BlockedShot,0.8109999847412109,0.6809999847412109,0.05314081907272339,Kevin Kampl,a,188,OpenPlay,2016,RightFoot,3758,Augsburg,Bayer Leverkusen,1,3,2017-02-17 19:30:00,Kai Havertz,Pass
+132289,21,SavedShot,0.8469999694824218,0.46,0.12209226191043854,Kai Havertz,a,5220,OpenPlay,2016,LeftFoot,3758,Augsburg,Bayer Leverkusen,1,3,2017-02-17 19:30:00,Benjamin Henrichs,Pass
+132290,22,Goal,0.9319999694824219,0.4779999923706055,0.668140709400177,Karim Bellarabi,a,186,OpenPlay,2016,RightFoot,3758,Augsburg,Bayer Leverkusen,1,3,2017-02-17 19:30:00,Kai Havertz,Pass
+132291,27,MissedShots,0.8809999847412109,0.46,0.11528707295656204,Chicharito,a,191,OpenPlay,2016,RightFoot,3758,Augsburg,Bayer Leverkusen,1,3,2017-02-17 19:30:00,Karim Bellarabi,BallTouch
+132292,30,BlockedShot,0.7609999847412109,0.6419999694824219,0.026299940422177315,Kevin Kampl,a,188,OpenPlay,2016,LeftFoot,3758,Augsburg,Bayer Leverkusen,1,3,2017-02-17 19:30:00,,None
+132293,31,SavedShot,0.955,0.40099998474121096,0.11339105665683746,Karim Bellarabi,a,186,OpenPlay,2016,RightFoot,3758,Augsburg,Bayer Leverkusen,1,3,2017-02-17 19:30:00,Kai Havertz,Chipped
+132295,39,Goal,0.9130000305175782,0.5159999847412109,0.5426990389823914,Chicharito,a,191,OpenPlay,2016,LeftFoot,3758,Augsburg,Bayer Leverkusen,1,3,2017-02-17 19:30:00,Lars Bender,Pass
+132298,47,MissedShots,0.8119999694824219,0.5279999923706055,0.11209136992692947,Kai Havertz,a,5220,OpenPlay,2016,LeftFoot,3758,Augsburg,Bayer Leverkusen,1,3,2017-02-17 19:30:00,Kevin Kampl,Pass
+132305,62,BlockedShot,0.8159999847412109,0.775,0.028407497331500053,Karim Bellarabi,a,186,OpenPlay,2016,RightFoot,3758,Augsburg,Bayer Leverkusen,1,3,2017-02-17 19:30:00,Wendell,TakeOn
+132306,64,SavedShot,0.9219999694824219,0.46799999237060547,0.5239948630332947,Chicharito,a,191,SetPiece,2016,RightFoot,3758,Augsburg,Bayer Leverkusen,1,3,2017-02-17 19:30:00,Kai Havertz,Pass
+132307,64,Goal,0.9640000152587891,0.49900001525878906,0.7583281993865967,Chicharito,a,191,SetPiece,2016,RightFoot,3758,Augsburg,Bayer Leverkusen,1,3,2017-02-17 19:30:00,,Rebound
+132308,73,SavedShot,0.895,0.695,0.07781659066677094,Karim Bellarabi,a,186,OpenPlay,2016,RightFoot,3758,Augsburg,Bayer Leverkusen,1,3,2017-02-17 19:30:00,Kevin Volland,Pass
+132309,78,BlockedShot,0.8530000305175781,0.4779999923706055,0.0895787701010704,Charles Aránguiz,a,454,OpenPlay,2016,LeftFoot,3758,Augsburg,Bayer Leverkusen,1,3,2017-02-17 19:30:00,,None
+132310,82,MissedShots,0.874000015258789,0.28600000381469726,0.059519294649362564,Karim Bellarabi,a,186,OpenPlay,2016,RightFoot,3758,Augsburg,Bayer Leverkusen,1,3,2017-02-17 19:30:00,Benjamin Henrichs,Pass
+132311,85,MissedShots,0.825,0.20600000381469727,0.05314524099230766,Charles Aránguiz,a,454,DirectFreekick,2016,RightFoot,3758,Augsburg,Bayer Leverkusen,1,3,2017-02-17 19:30:00,,Standard
+132312,91,SavedShot,0.8490000152587891,0.67,0.10203137248754501,Kevin Kampl,a,188,OpenPlay,2016,RightFoot,3758,Augsburg,Bayer Leverkusen,1,3,2017-02-17 19:30:00,Karim Bellarabi,Pass

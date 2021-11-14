@@ -1,0 +1,28 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+317871,6,MissedShots,0.7440000152587891,0.5479999923706055,0.017871323972940445,Philip Billing,h,6034,OpenPlay,2019,LeftFoot,11690,Bournemouth,Everton,3,1,2019-09-15 13:00:00,Joshua King,Pass
+317872,8,MissedShots,0.835,0.495,0.05363057926297188,Dominic Solanke,h,1679,SetPiece,2019,RightFoot,11690,Bournemouth,Everton,3,1,2019-09-15 13:00:00,Steve Cook,HeadPass
+317873,12,SavedShot,0.7569999694824219,0.6170000076293946,0.05994461849331856,Harry Wilson,h,5596,DirectFreekick,2019,LeftFoot,11690,Bournemouth,Everton,3,1,2019-09-15 13:00:00,,Standard
+317876,17,SavedShot,0.8630000305175781,0.52,0.02501874603331089,Joshua King,h,465,OpenPlay,2019,Head,11690,Bournemouth,Everton,3,1,2019-09-15 13:00:00,Dominic Solanke,Chipped
+317878,21,SavedShot,0.7919999694824219,0.5670000076293945,0.036917999386787415,Dominic Solanke,h,1679,OpenPlay,2019,RightFoot,11690,Bournemouth,Everton,3,1,2019-09-15 13:00:00,Joshua King,Pass
+317879,22,MissedShots,0.9480000305175781,0.42400001525878905,0.04101776331663132,Dominic Solanke,h,1679,FromCorner,2019,Head,11690,Bournemouth,Everton,3,1,2019-09-15 13:00:00,Diego Rico,Aerial
+317880,22,Goal,0.9680000305175781,0.509000015258789,0.5494243502616882,Callum Wilson,h,468,FromCorner,2019,Head,11690,Bournemouth,Everton,3,1,2019-09-15 13:00:00,Joshua King,None
+317881,31,BlockedShot,0.735,0.5940000152587891,0.04997317120432854,Harry Wilson,h,5596,DirectFreekick,2019,LeftFoot,11690,Bournemouth,Everton,3,1,2019-09-15 13:00:00,,Standard
+317884,40,MissedShots,0.899000015258789,0.654000015258789,0.08746214210987091,Nathan Aké,h,579,OpenPlay,2019,LeftFoot,11690,Bournemouth,Everton,3,1,2019-09-15 13:00:00,Philip Billing,HeadPass
+317885,42,BlockedShot,0.845,0.6509999847412109,0.05336879938840866,Philip Billing,h,6034,OpenPlay,2019,LeftFoot,11690,Bournemouth,Everton,3,1,2019-09-15 13:00:00,Joshua King,Pass
+317889,66,Goal,0.8319999694824218,0.8280000305175781,0.0431443527340889,Ryan Fraser,h,1683,DirectFreekick,2019,RightFoot,11690,Bournemouth,Everton,3,1,2019-09-15 13:00:00,,Standard
+317890,71,Goal,0.840999984741211,0.649000015258789,0.2940305471420288,Callum Wilson,h,468,OpenPlay,2019,RightFoot,11690,Bournemouth,Everton,3,1,2019-09-15 13:00:00,Diego Rico,Chipped
+317893,84,BlockedShot,0.904000015258789,0.524000015258789,0.10361715406179428,Philip Billing,h,6034,FromCorner,2019,RightFoot,11690,Bournemouth,Everton,3,1,2019-09-15 13:00:00,,None
+317870,2,MissedShots,0.8190000152587891,0.38799999237060545,0.047814223915338516,Alex Iwobi,a,500,OpenPlay,2019,RightFoot,11690,Bournemouth,Everton,3,1,2019-09-15 13:00:00,Richarlison,Pass
+317874,14,BlockedShot,0.775,0.539000015258789,0.03185576573014259,Richarlison,a,6026,OpenPlay,2019,RightFoot,11690,Bournemouth,Everton,3,1,2019-09-15 13:00:00,Alex Iwobi,Pass
+317875,17,SavedShot,0.8630000305175781,0.6,0.33330053091049194,Dominic Calvert-Lewin,a,5555,OpenPlay,2019,RightFoot,11690,Bournemouth,Everton,3,1,2019-09-15 13:00:00,Richarlison,Throughball
+317877,18,ShotOnPost,0.7440000152587891,0.49700000762939456,0.023899072781205177,Richarlison,a,6026,OpenPlay,2019,RightFoot,11690,Bournemouth,Everton,3,1,2019-09-15 13:00:00,Fabian Delph,Pass
+317882,36,MissedShots,0.9209999847412109,0.5120000076293946,0.04724065959453583,Richarlison,a,6026,OpenPlay,2019,Head,11690,Bournemouth,Everton,3,1,2019-09-15 13:00:00,Lucas Digne,Aerial
+317883,36,MissedShots,0.875,0.3729999923706055,0.055735934525728226,Dominic Calvert-Lewin,a,5555,OpenPlay,2019,LeftFoot,11690,Bournemouth,Everton,3,1,2019-09-15 13:00:00,Gylfi Sigurdsson,Dispossessed
+317886,43,Goal,0.95,0.5170000076293946,0.4756500720977783,Dominic Calvert-Lewin,a,5555,OpenPlay,2019,Head,11690,Bournemouth,Everton,3,1,2019-09-15 13:00:00,Richarlison,Aerial
+317887,46,SavedShot,0.8780000305175781,0.635,0.0725765973329544,Gylfi Sigurdsson,a,714,OpenPlay,2019,LeftFoot,11690,Bournemouth,Everton,3,1,2019-09-15 13:00:00,Lucas Digne,Pass
+317888,47,BlockedShot,0.794000015258789,0.395,0.023191280663013458,Lucas Digne,a,1823,FromCorner,2019,RightFoot,11690,Bournemouth,Everton,3,1,2019-09-15 13:00:00,,None
+317891,80,SavedShot,0.8490000152587891,0.47900001525878905,0.09487004578113556,Alex Iwobi,a,500,OpenPlay,2019,RightFoot,11690,Bournemouth,Everton,3,1,2019-09-15 13:00:00,,TakeOn
+317892,80,MissedShots,0.905,0.425,0.09346135705709457,Richarlison,a,6026,OpenPlay,2019,RightFoot,11690,Bournemouth,Everton,3,1,2019-09-15 13:00:00,,Rebound
+317894,88,BlockedShot,0.9419999694824219,0.7169999694824218,0.05402372032403946,Bernard,a,7063,OpenPlay,2019,RightFoot,11690,Bournemouth,Everton,3,1,2019-09-15 13:00:00,Lucas Digne,Pass
+317895,89,BlockedShot,0.9569999694824218,0.4620000076293945,0.138969287276268,Alex Iwobi,a,500,OpenPlay,2019,Head,11690,Bournemouth,Everton,3,1,2019-09-15 13:00:00,,Aerial
+317896,92,SavedShot,0.779000015258789,0.47200000762939454,0.02268810383975506,Theo Walcott,a,503,FromCorner,2019,RightFoot,11690,Bournemouth,Everton,3,1,2019-09-15 13:00:00,,None

@@ -1,0 +1,34 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+422678,5,Goal,0.87,0.6580000305175782,0.05799239128828049,Alexander Isak,h,5232,OpenPlay,2020,RightFoot,15145,Real Sociedad,Real Valladolid,4,1,2021-05-16 16:30:00,David Silva,Pass
+422681,15,Goal,0.875,0.3160000038146973,0.055002592504024506,Alexander Isak,h,5232,OpenPlay,2020,RightFoot,15145,Real Sociedad,Real Valladolid,4,1,2021-05-16 16:30:00,Mikel Oyarzabal,Pass
+422683,27,Goal,0.9669999694824218,0.67,0.0543055459856987,David Silva,h,617,SetPiece,2020,LeftFoot,15145,Real Sociedad,Real Valladolid,4,1,2021-05-16 16:30:00,Adnan Januzaj,Foul
+422684,32,SavedShot,0.9030000305175782,0.27,0.09489905089139938,Alexander Isak,h,5232,OpenPlay,2020,RightFoot,15145,Real Sociedad,Real Valladolid,4,1,2021-05-16 16:30:00,David Silva,Pass
+422685,34,Goal,0.885,0.5,0.7432776093482971,Adnan Januzaj,h,323,Penalty,2020,LeftFoot,15145,Real Sociedad,Real Valladolid,4,1,2021-05-16 16:30:00,,Standard
+422686,38,SavedShot,0.7919999694824219,0.2720000076293945,0.029574526473879814,Adnan Januzaj,h,323,OpenPlay,2020,LeftFoot,15145,Real Sociedad,Real Valladolid,4,1,2021-05-16 16:30:00,Mikel Oyarzabal,Pass
+422687,39,MissedShots,0.8769999694824219,0.45799999237060546,0.053194668143987656,Robin Le Normand,h,7276,SetPiece,2020,Head,15145,Real Sociedad,Real Valladolid,4,1,2021-05-16 16:30:00,Mikel Oyarzabal,Chipped
+422690,63,MissedShots,0.72,0.5070000076293946,0.01770239882171154,Ander Guevara,h,6126,OpenPlay,2020,RightFoot,15145,Real Sociedad,Real Valladolid,4,1,2021-05-16 16:30:00,Mikel Oyarzabal,Pass
+422693,71,SavedShot,0.7780000305175782,0.4490000152587891,0.04273517429828644,Portu,h,6118,OpenPlay,2020,RightFoot,15145,Real Sociedad,Real Valladolid,4,1,2021-05-16 16:30:00,Jon Bautista,Pass
+422694,77,MissedShots,0.905,0.36,0.08930893242359161,Portu,h,6118,OpenPlay,2020,RightFoot,15145,Real Sociedad,Real Valladolid,4,1,2021-05-16 16:30:00,Roberto López,Pass
+422695,77,BlockedShot,0.8109999847412109,0.5990000152587891,0.06440768390893936,Roberto López,h,7195,OpenPlay,2020,LeftFoot,15145,Real Sociedad,Real Valladolid,4,1,2021-05-16 16:30:00,Jon Bautista,Pass
+422696,78,BlockedShot,0.945,0.35400001525878905,0.019473232328891754,Jon Bautista,h,2238,FromCorner,2020,Head,15145,Real Sociedad,Real Valladolid,4,1,2021-05-16 16:30:00,Roberto López,Cross
+422702,87,SavedShot,0.7980000305175782,0.35700000762939454,0.04616762697696686,Roberto López,h,7195,OpenPlay,2020,LeftFoot,15145,Real Sociedad,Real Valladolid,4,1,2021-05-16 16:30:00,Portu,Pass
+422706,92,SavedShot,0.889000015258789,0.5629999923706055,0.3119162321090698,Mikel Oyarzabal,h,2234,OpenPlay,2020,LeftFoot,15145,Real Sociedad,Real Valladolid,4,1,2021-05-16 16:30:00,Roberto López,Pass
+422676,0,MissedShots,0.8230000305175781,0.37099998474121093,0.049391306936740875,Kenan Kodro,a,5129,OpenPlay,2020,RightFoot,15145,Real Sociedad,Real Valladolid,4,1,2021-05-16 16:30:00,,BallRecovery
+422677,4,SavedShot,0.9490000152587891,0.4879999923706055,0.10112307220697403,Joaquín Fernández,a,7233,SetPiece,2020,LeftFoot,15145,Real Sociedad,Real Valladolid,4,1,2021-05-16 16:30:00,Óscar Plano,BallTouch
+422679,9,BlockedShot,0.7659999847412109,0.4520000076293945,0.028621194884181023,Kike Pérez,a,8470,OpenPlay,2020,LeftFoot,15145,Real Sociedad,Real Valladolid,4,1,2021-05-16 16:30:00,Óscar Plano,Pass
+422680,13,BlockedShot,0.7609999847412109,0.2560000038146973,0.01765803061425686,Pablo Hervías,a,4054,OpenPlay,2020,RightFoot,15145,Real Sociedad,Real Valladolid,4,1,2021-05-16 16:30:00,Jota,Pass
+422682,25,MissedShots,0.8159999847412109,0.5070000076293946,0.014177510514855385,Jota,a,9031,OpenPlay,2020,Head,15145,Real Sociedad,Real Valladolid,4,1,2021-05-16 16:30:00,,Aerial
+422688,47,MissedShots,0.889000015258789,0.610999984741211,0.10896916687488556,Óscar Plano,a,6921,SetPiece,2020,LeftFoot,15145,Real Sociedad,Real Valladolid,4,1,2021-05-16 16:30:00,Kike Pérez,LayOff
+422689,53,SavedShot,0.735,0.3039999961853027,0.01205020397901535,Míchel,a,4208,OpenPlay,2020,RightFoot,15145,Real Sociedad,Real Valladolid,4,1,2021-05-16 16:30:00,Kike Pérez,Pass
+422691,69,BlockedShot,0.8930000305175781,0.44799999237060545,0.09647826105356216,Shon Weissman,a,8761,OpenPlay,2020,RightFoot,15145,Real Sociedad,Real Valladolid,4,1,2021-05-16 16:30:00,Óscar Plano,Pass
+422692,70,MissedShots,0.8730000305175781,0.5309999847412109,0.014272904023528099,Javi Sánchez,a,7245,FromCorner,2020,Head,15145,Real Sociedad,Real Valladolid,4,1,2021-05-16 16:30:00,Pablo Hervías,Aerial
+422697,81,MissedShots,0.9080000305175782,0.45799999237060546,0.07280594110488892,Shon Weissman,a,8761,OpenPlay,2020,LeftFoot,15145,Real Sociedad,Real Valladolid,4,1,2021-05-16 16:30:00,Lucas Olaza,Cross
+422698,81,BlockedShot,0.9019999694824219,0.3820000076293945,0.06119786947965622,Míchel,a,4208,OpenPlay,2020,RightFoot,15145,Real Sociedad,Real Valladolid,4,1,2021-05-16 16:30:00,Shon Weissman,HeadPass
+422699,81,Goal,0.9730000305175781,0.5220000076293946,0.16586151719093323,Marcos de Sousa,a,8933,OpenPlay,2020,Head,15145,Real Sociedad,Real Valladolid,4,1,2021-05-16 16:30:00,Pablo Hervías,Aerial
+422700,84,SavedShot,0.9269999694824219,0.649000015258789,0.059368591755628586,Marcos de Sousa,a,8933,OpenPlay,2020,LeftFoot,15145,Real Sociedad,Real Valladolid,4,1,2021-05-16 16:30:00,,None
+422701,85,MissedShots,0.78,0.3089999961853027,0.01796482503414154,Kike Pérez,a,8470,OpenPlay,2020,LeftFoot,15145,Real Sociedad,Real Valladolid,4,1,2021-05-16 16:30:00,Shon Weissman,BallTouch
+422703,89,MissedShots,0.8180000305175781,0.53,0.04901127144694328,Toni Villa,a,6919,SetPiece,2020,RightFoot,15145,Real Sociedad,Real Valladolid,4,1,2021-05-16 16:30:00,Pablo Hervías,Pass
+422704,90,BlockedShot,0.8480000305175781,0.67,0.04600769281387329,Toni Villa,a,6919,OpenPlay,2020,RightFoot,15145,Real Sociedad,Real Valladolid,4,1,2021-05-16 16:30:00,Lucas Olaza,TakeOn
+422705,91,SavedShot,0.905,0.28200000762939453,0.032156188040971756,Pablo Hervías,a,4054,OpenPlay,2020,LeftFoot,15145,Real Sociedad,Real Valladolid,4,1,2021-05-16 16:30:00,Lucas Olaza,Chipped
+422707,92,BlockedShot,0.8430000305175781,0.485,0.02973220683634281,Shon Weissman,a,8761,OpenPlay,2020,LeftFoot,15145,Real Sociedad,Real Valladolid,4,1,2021-05-16 16:30:00,Lucas Olaza,Cross
+422708,92,MissedShots,0.8640000152587891,0.51,0.07169271260499954,Shon Weissman,a,8761,OpenPlay,2020,RightFoot,15145,Real Sociedad,Real Valladolid,4,1,2021-05-16 16:30:00,,Rebound

@@ -1,0 +1,24 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+39032,29,BlockedShot,0.8630000305175781,0.6229999923706054,0.061306361109018326,Nordin Amrabat,h,575,OpenPlay,2014,RightFoot,5526,Malaga,Atletico Madrid,2,2,2015-04-11 17:00:00,Juanmi,Pass
+39034,35,BlockedShot,0.8730000305175781,0.7909999847412109,0.022137116640806198,Nordin Amrabat,h,575,OpenPlay,2014,RightFoot,5526,Malaga,Atletico Madrid,2,2,2015-04-11 17:00:00,Samu García,Pass
+39038,54,BlockedShot,0.8209999847412109,0.7319999694824219,0.024534231051802635,Nordin Amrabat,h,575,OpenPlay,2014,RightFoot,5526,Malaga,Atletico Madrid,2,2,2015-04-11 17:00:00,Recio,Pass
+39041,59,BlockedShot,0.7819999694824219,0.7219999694824218,0.021049311384558678,Samu Castillejo,h,2303,OpenPlay,2014,LeftFoot,5526,Malaga,Atletico Madrid,2,2,2015-04-11 17:00:00,Sergi Darder,Pass
+39043,65,SavedShot,0.9259999847412109,0.524000015258789,0.0701439306139946,Juanmi,h,897,OpenPlay,2014,Head,5526,Malaga,Atletico Madrid,2,2,2015-04-11 17:00:00,Samu García,Aerial
+39044,70,Goal,0.865999984741211,0.4329999923706055,0.37501606345176697,Samu García,h,2300,OpenPlay,2014,RightFoot,5526,Malaga,Atletico Madrid,2,2,2015-04-11 17:00:00,,None
+39046,79,MissedShots,0.8090000152587891,0.34700000762939454,0.03069589100778103,Nordin Amrabat,h,575,OpenPlay,2014,RightFoot,5526,Malaga,Atletico Madrid,2,2,2015-04-11 17:00:00,Samu García,Pass
+39047,80,MissedShots,0.7340000152587891,0.8080000305175781,0.007894959300756454,Arthur Boka,h,2439,OpenPlay,2014,LeftFoot,5526,Malaga,Atletico Madrid,2,2,2015-04-11 17:00:00,,None
+39049,82,SavedShot,0.7780000305175782,0.675,0.024249112233519554,Nordin Amrabat,h,575,OpenPlay,2014,RightFoot,5526,Malaga,Atletico Madrid,2,2,2015-04-11 17:00:00,Arthur Boka,Pass
+39050,82,MissedShots,0.795,0.5729999923706055,0.018001297488808632,Sergi Darder,h,2621,FromCorner,2014,LeftFoot,5526,Malaga,Atletico Madrid,2,2,2015-04-11 17:00:00,,Aerial
+39051,89,BlockedShot,0.775,0.7480000305175781,0.015200252644717693,Recio,h,2337,OpenPlay,2014,RightFoot,5526,Malaga,Atletico Madrid,2,2,2015-04-11 17:00:00,Ricardo Horta,Pass
+39029,10,MissedShots,0.9,0.5609999847412109,0.09188701212406158,Fernando Torres,a,2271,OpenPlay,2014,RightFoot,5526,Malaga,Atletico Madrid,2,2,2015-04-11 17:00:00,Juanfran,Cross
+39030,18,BlockedShot,0.89,0.45799999237060546,0.08205180615186691,Fernando Torres,a,2271,OpenPlay,2014,Head,5526,Malaga,Atletico Madrid,2,2,2015-04-11 17:00:00,Juanfran,Cross
+39031,24,Goal,0.9869999694824219,0.48700000762939455,0.9019531607627869,Antoine Griezmann,a,2270,OpenPlay,2014,LeftFoot,5526,Malaga,Atletico Madrid,2,2,2015-04-11 17:00:00,,None
+39033,31,MissedShots,0.740999984741211,0.775,0.01501420047134161,Koke,a,2269,OpenPlay,2014,RightFoot,5526,Malaga,Atletico Madrid,2,2,2015-04-11 17:00:00,Jesús Gámez,BallRecovery
+39035,36,OwnGoal,0.02,0.46599998474121096,0,Fernando Torres,a,2271,FromCorner,2014,Head,5526,Malaga,Atletico Madrid,2,2,2015-04-11 17:00:00,,CornerAwarded
+39036,47,BlockedShot,0.8080000305175781,0.26799999237060546,0.01886959746479988,Gabi,a,2268,OpenPlay,2014,RightFoot,5526,Malaga,Atletico Madrid,2,2,2015-04-11 17:00:00,,None
+39037,53,MissedShots,0.9569999694824218,0.4829999923706055,0.5766001343727112,Koke,a,2269,OpenPlay,2014,Head,5526,Malaga,Atletico Madrid,2,2,2015-04-11 17:00:00,Fernando Torres,HeadPass
+39039,57,SavedShot,0.905,0.5220000076293946,0.12180379033088684,Fernando Torres,a,2271,OpenPlay,2014,Head,5526,Malaga,Atletico Madrid,2,2,2015-04-11 17:00:00,Jesús Gámez,Cross
+39040,58,SavedShot,0.9530000305175781,0.67,0.07683097571134567,Fernando Torres,a,2271,OpenPlay,2014,LeftFoot,5526,Malaga,Atletico Madrid,2,2,2015-04-11 17:00:00,Arda Turan,TakeOn
+39042,62,BlockedShot,0.735,0.4909999847412109,0.06231345981359482,Antoine Griezmann,a,2270,DirectFreekick,2014,LeftFoot,5526,Malaga,Atletico Madrid,2,2,2015-04-11 17:00:00,,Standard
+39045,77,Goal,0.935,0.5570000076293945,0.46389585733413696,Antoine Griezmann,a,2270,OpenPlay,2014,LeftFoot,5526,Malaga,Atletico Madrid,2,2,2015-04-11 17:00:00,Raúl Jiménez,HeadPass
+39048,80,SavedShot,0.8819999694824219,0.54,0.11419598013162613,Saúl Ñíguez,a,2266,OpenPlay,2014,RightFoot,5526,Malaga,Atletico Madrid,2,2,2015-04-11 17:00:00,Raúl Jiménez,Pass

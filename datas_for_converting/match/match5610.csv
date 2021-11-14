@@ -1,0 +1,21 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+41057,1,MissedShots,0.78,0.445,0.029957439750432968,Ikechukwu Uche,h,2349,OpenPlay,2014,RightFoot,5610,Villarreal,Granada,2,0,2015-02-07 17:00:00,Chechu Dorado,Pass
+41059,12,BlockedShot,0.95,0.6659999847412109,0.11001644283533096,Moi Gómez,h,2198,OpenPlay,2014,LeftFoot,5610,Villarreal,Granada,2,0,2015-02-07 17:00:00,Ikechukwu Uche,Throughball
+41060,19,SavedShot,0.865999984741211,0.35700000762939454,0.08502074331045151,Gerard Moreno,h,2120,OpenPlay,2014,LeftFoot,5610,Villarreal,Granada,2,0,2015-02-07 17:00:00,Joel Campbell,Pass
+41061,21,BlockedShot,0.919000015258789,0.53,0.1191330999135971,Bruno,h,2302,FromCorner,2014,LeftFoot,5610,Villarreal,Granada,2,0,2015-02-07 17:00:00,Jaume Costa,Pass
+41063,29,Goal,0.9640000152587891,0.5629999923706055,0.47407281398773193,Mateo Musacchio,h,2495,SetPiece,2014,OtherBodyPart,5610,Villarreal,Granada,2,0,2015-02-07 17:00:00,Gerard Moreno,Cross
+41065,53,SavedShot,0.879000015258789,0.545,0.12010873109102249,Manu Trigueros,h,2301,OpenPlay,2014,RightFoot,5610,Villarreal,Granada,2,0,2015-02-07 17:00:00,Moi Gómez,Pass
+41066,55,SavedShot,0.774000015258789,0.33099998474121095,0.027773229405283928,Joel Campbell,h,506,OpenPlay,2014,LeftFoot,5610,Villarreal,Granada,2,0,2015-02-07 17:00:00,Moi Gómez,Pass
+41071,75,SavedShot,0.88,0.46700000762939453,0.10610473901033401,Gerard Moreno,h,2120,SetPiece,2014,LeftFoot,5610,Villarreal,Granada,2,0,2015-02-07 17:00:00,Giovani dos Santos,Pass
+41076,91,Goal,0.9230000305175782,0.4209999847412109,0.4718964397907257,Gerard Moreno,h,2120,OpenPlay,2014,LeftFoot,5610,Villarreal,Granada,2,0,2015-02-07 17:00:00,Denis Cheryshev,Pass
+41058,11,MissedShots,0.8140000152587891,0.7480000305175781,0.04195638746023178,Lass,a,2558,OpenPlay,2014,RightFoot,5610,Villarreal,Granada,2,0,2015-02-07 17:00:00,Jean-Sylvain Babin,BallRecovery
+41062,26,MissedShots,0.7619999694824219,0.8069999694824219,0.01545101497322321,Lass,a,2558,OpenPlay,2014,RightFoot,5610,Villarreal,Granada,2,0,2015-02-07 17:00:00,Fran Rico,Pass
+41064,47,MissedShots,0.9419999694824219,0.44299999237060544,0.07465601712465286,Jhon Córdoba,a,48,SetPiece,2014,Head,5610,Villarreal,Granada,2,0,2015-02-07 17:00:00,Fran Rico,Aerial
+41067,56,MissedShots,0.7440000152587891,0.6830000305175781,0.01227340567857027,Daniel Candeias,a,4103,OpenPlay,2014,RightFoot,5610,Villarreal,Granada,2,0,2015-02-07 17:00:00,,None
+41068,58,MissedShots,0.7480000305175781,0.4540000152587891,0.02704358473420143,Piti,a,2425,SetPiece,2014,LeftFoot,5610,Villarreal,Granada,2,0,2015-02-07 17:00:00,Rubén Pérez,LayOff
+41069,58,BlockedShot,0.8280000305175781,0.355,0.02914915792644024,Emanuel Insúa,a,1976,SetPiece,2014,LeftFoot,5610,Villarreal,Granada,2,0,2015-02-07 17:00:00,,Rebound
+41070,69,BlockedShot,0.745999984741211,0.5029999923706054,0.01988176256418228,Rubén Pérez,a,2080,OpenPlay,2014,RightFoot,5610,Villarreal,Granada,2,0,2015-02-07 17:00:00,,Interception
+41072,76,SavedShot,0.7180000305175781,0.42,0.049146510660648346,Piti,a,2425,DirectFreekick,2014,LeftFoot,5610,Villarreal,Granada,2,0,2015-02-07 17:00:00,,Standard
+41073,78,MissedShots,0.7340000152587891,0.6409999847412109,0.017942417412996292,Rubén Pérez,a,2080,OpenPlay,2014,RightFoot,5610,Villarreal,Granada,2,0,2015-02-07 17:00:00,Adrián Colunga,Pass
+41074,80,SavedShot,0.845,0.4759999847412109,0.06338342279195786,Fran Rico,a,2084,OpenPlay,2014,RightFoot,5610,Villarreal,Granada,2,0,2015-02-07 17:00:00,,Dispossessed
+41075,82,SavedShot,0.7930000305175782,0.645,0.027031319215893745,Piti,a,2425,OpenPlay,2014,LeftFoot,5610,Villarreal,Granada,2,0,2015-02-07 17:00:00,,Dispossessed

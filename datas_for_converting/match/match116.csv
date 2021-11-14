@@ -1,0 +1,26 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+57541,6,MissedShots,0.7630000305175781,0.6980000305175781,0.017577094957232475,Philippe Coutinho,h,488,OpenPlay,2015,RightFoot,116,Liverpool,West Ham,0,3,2015-08-29 18:00:00,James Milner,Pass
+57542,8,ShotOnPost,0.725,0.5170000076293946,0.01769108884036541,Roberto Firmino,h,482,OpenPlay,2015,LeftFoot,116,Liverpool,West Ham,0,3,2015-08-29 18:00:00,Dejan Lovren,Pass
+57544,24,MissedShots,0.7080000305175781,0.4640000152587891,0.012446524575352669,Joseph Gomez,h,987,FromCorner,2015,RightFoot,116,Liverpool,West Ham,0,3,2015-08-29 18:00:00,,Aerial
+57549,38,BlockedShot,0.8619999694824219,0.54,0.09335856139659882,Philippe Coutinho,h,488,OpenPlay,2015,RightFoot,116,Liverpool,West Ham,0,3,2015-08-29 18:00:00,Roberto Firmino,Pass
+57550,49,MissedShots,0.7290000152587891,0.37400001525878906,0.010968674905598164,Philippe Coutinho,h,488,OpenPlay,2015,RightFoot,116,Liverpool,West Ham,0,3,2015-08-29 18:00:00,Roberto Firmino,Pass
+57551,50,BlockedShot,0.7719999694824219,0.32299999237060545,0.01968930847942829,Roberto Firmino,h,482,OpenPlay,2015,RightFoot,116,Liverpool,West Ham,0,3,2015-08-29 18:00:00,Joseph Gomez,Pass
+57552,54,SavedShot,0.6780000305175782,0.740999984741211,0.00669089425355196,Dejan Lovren,h,602,OpenPlay,2015,RightFoot,116,Liverpool,West Ham,0,3,2015-08-29 18:00:00,Alberto Moreno,Pass
+57553,58,BlockedShot,0.8219999694824218,0.47099998474121096,0.041750501841306686,Christian Benteke,h,606,OpenPlay,2015,RightFoot,116,Liverpool,West Ham,0,3,2015-08-29 18:00:00,James Milner,Chipped
+57554,63,MissedShots,0.81,0.4879999923706055,0.051659684628248215,James Milner,h,489,OpenPlay,2015,RightFoot,116,Liverpool,West Ham,0,3,2015-08-29 18:00:00,Danny Ings,LayOff
+57560,82,BlockedShot,0.9309999847412109,0.40700000762939453,0.07065395265817642,James Milner,h,489,OpenPlay,2015,RightFoot,116,Liverpool,West Ham,0,3,2015-08-29 18:00:00,Jordon Ibe,Cross
+57561,82,MissedShots,0.965999984741211,0.42,0.11354544758796692,Dejan Lovren,h,602,FromCorner,2015,RightFoot,116,Liverpool,West Ham,0,3,2015-08-29 18:00:00,Christian Benteke,HeadPass
+57563,93,MissedShots,0.915,0.5059999847412109,0.07392660528421402,Christian Benteke,h,606,OpenPlay,2015,Head,116,Liverpool,West Ham,0,3,2015-08-29 18:00:00,James Milner,Chipped
+57564,94,BlockedShot,0.795,0.6229999923706054,0.03177851438522339,Danny Ings,h,986,OpenPlay,2015,RightFoot,116,Liverpool,West Ham,0,3,2015-08-29 18:00:00,Lucas Leiva,Pass
+57540,2,Goal,0.92,0.42700000762939455,0.42129725217819214,Manuel Lanzini,a,535,OpenPlay,2015,RightFoot,116,Liverpool,West Ham,0,3,2015-08-29 18:00:00,Aaron Cresswell,Pass
+57543,15,MissedShots,0.789000015258789,0.47700000762939454,0.050176966935396194,Manuel Lanzini,a,535,OpenPlay,2015,RightFoot,116,Liverpool,West Ham,0,3,2015-08-29 18:00:00,Dimitri Payet,Pass
+57545,25,BlockedShot,0.855,0.6969999694824218,0.05299641937017441,Cheikhou Kouyaté,a,532,OpenPlay,2015,RightFoot,116,Liverpool,West Ham,0,3,2015-08-29 18:00:00,Dimitri Payet,Pass
+57546,25,MissedShots,0.8419999694824218,0.53,0.07457215338945389,Aaron Cresswell,a,534,OpenPlay,2015,RightFoot,116,Liverpool,West Ham,0,3,2015-08-29 18:00:00,,Rebound
+57547,28,Goal,0.845999984741211,0.515,0.08792746067047119,Mark Noble,a,533,OpenPlay,2015,RightFoot,116,Liverpool,West Ham,0,3,2015-08-29 18:00:00,,None
+57548,35,MissedShots,0.775,0.5609999847412109,0.012388771399855614,Mark Noble,a,533,SetPiece,2015,RightFoot,116,Liverpool,West Ham,0,3,2015-08-29 18:00:00,,Aerial
+57555,70,BlockedShot,0.8319999694824218,0.25299999237060544,0.02378397062420845,Cheikhou Kouyaté,a,532,OpenPlay,2015,RightFoot,116,Liverpool,West Ham,0,3,2015-08-29 18:00:00,,None
+57556,70,SavedShot,0.735999984741211,0.4279999923706055,0.017567969858646393,Cheikhou Kouyaté,a,532,OpenPlay,2015,RightFoot,116,Liverpool,West Ham,0,3,2015-08-29 18:00:00,,None
+57557,75,SavedShot,0.95,0.700999984741211,0.08038297295570374,Aaron Cresswell,a,534,OpenPlay,2015,LeftFoot,116,Liverpool,West Ham,0,3,2015-08-29 18:00:00,Mark Noble,TakeOn
+57558,76,BlockedShot,0.784000015258789,0.2520000076293945,0.023029344156384468,Manuel Lanzini,a,535,FromCorner,2015,RightFoot,116,Liverpool,West Ham,0,3,2015-08-29 18:00:00,Aaron Cresswell,Pass
+57559,76,MissedShots,0.9219999694824219,0.47,0.0449761226773262,Winston Reid,a,529,FromCorner,2015,Head,116,Liverpool,West Ham,0,3,2015-08-29 18:00:00,Dimitri Payet,Aerial
+57562,91,Goal,0.8619999694824219,0.42900001525878906,0.08702298253774643,Diafra Sakho,a,656,OpenPlay,2015,LeftFoot,116,Liverpool,West Ham,0,3,2015-08-29 18:00:00,,None

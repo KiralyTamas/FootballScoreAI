@@ -1,0 +1,33 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+78279,2,MissedShots,0.9019999694824219,0.72,0.03493065759539604,Eugen Polanski,h,86,SetPiece,2015,LeftFoot,1102,Hoffenheim,Hamburger SV,0,1,2015-10-23 22:30:00,,None
+78281,5,BlockedShot,0.905,0.654000015258789,0.09999404847621918,Ádám Szalai,h,360,OpenPlay,2015,LeftFoot,1102,Hoffenheim,Hamburger SV,0,1,2015-10-23 22:30:00,Jonathan Schmid,TakeOn
+78282,5,SavedShot,0.8119999694824219,0.5729999923706055,0.04427366331219673,Pirmin Schwegler,h,80,OpenPlay,2015,LeftFoot,1102,Hoffenheim,Hamburger SV,0,1,2015-10-23 22:30:00,Jonathan Schmid,Pass
+78288,30,BlockedShot,0.7090000152587891,0.5429999923706055,0.04359971359372139,Jonathan Schmid,h,81,DirectFreekick,2015,RightFoot,1102,Hoffenheim,Hamburger SV,0,1,2015-10-23 22:30:00,,Standard
+78289,31,MissedShots,0.9209999847412109,0.59,0.057339392602443695,Ádám Szalai,h,360,SetPiece,2015,Head,1102,Hoffenheim,Hamburger SV,0,1,2015-10-23 22:30:00,Jonathan Schmid,Chipped
+78290,34,BlockedShot,0.8830000305175781,0.34900001525878904,0.0728774145245552,Pirmin Schwegler,h,80,OpenPlay,2015,RightFoot,1102,Hoffenheim,Hamburger SV,0,1,2015-10-23 22:30:00,Ádám Szalai,Pass
+78295,52,BlockedShot,0.715,0.44299999237060544,0.01785389892756939,Eugen Polanski,h,86,OpenPlay,2015,LeftFoot,1102,Hoffenheim,Hamburger SV,0,1,2015-10-23 22:30:00,Eduardo Vargas,Pass
+78296,53,MissedShots,0.7819999694824219,0.5329999923706055,0.031868867576122284,Kevin Volland,h,83,OpenPlay,2015,LeftFoot,1102,Hoffenheim,Hamburger SV,0,1,2015-10-23 22:30:00,Jeremy Toljan,Chipped
+78299,56,SavedShot,0.7469999694824219,0.27399999618530274,0.01840568706393242,Ádám Szalai,h,360,OpenPlay,2015,RightFoot,1102,Hoffenheim,Hamburger SV,0,1,2015-10-23 22:30:00,Eduardo Vargas,Pass
+78303,80,MissedShots,0.875999984741211,0.7119999694824218,0.035000819712877274,Mark Uth,h,88,OpenPlay,2015,LeftFoot,1102,Hoffenheim,Hamburger SV,0,1,2015-10-23 22:30:00,Nadiem Amiri,Pass
+78305,86,SavedShot,0.9159999847412109,0.655,0.08218371123075485,Jeremy Toljan,h,257,OpenPlay,2015,RightFoot,1102,Hoffenheim,Hamburger SV,0,1,2015-10-23 22:30:00,Mark Uth,Pass
+78306,86,MissedShots,0.8540000152587891,0.37900001525878907,0.05277466028928757,Eduardo Vargas,h,85,OpenPlay,2015,RightFoot,1102,Hoffenheim,Hamburger SV,0,1,2015-10-23 22:30:00,,Rebound
+78278,0,MissedShots,0.759000015258789,0.509000015258789,0.017001623287796974,Pierre-Michel Lasogga,a,173,SetPiece,2015,RightFoot,1102,Hoffenheim,Hamburger SV,0,1,2015-10-23 22:30:00,,None
+78280,2,MissedShots,0.8209999847412109,0.634000015258789,0.047494128346443176,Michael Gregoritsch,a,171,OpenPlay,2015,LeftFoot,1102,Hoffenheim,Hamburger SV,0,1,2015-10-23 22:30:00,Nicolai Müller,BallRecovery
+78283,15,SavedShot,0.8780000305175781,0.6020000076293945,0.09872325509786606,Ivo Ilicevic,a,172,OpenPlay,2015,RightFoot,1102,Hoffenheim,Hamburger SV,0,1,2015-10-23 22:30:00,Matthias Ostrzolek,Pass
+78284,17,MissedShots,0.924000015258789,0.485,0.0685121938586235,Michael Gregoritsch,a,171,OpenPlay,2015,Head,1102,Hoffenheim,Hamburger SV,0,1,2015-10-23 22:30:00,Dennis Diekmeier,Aerial
+78285,22,BlockedShot,0.7669999694824219,0.2610000038146973,0.04604274034500122,Michael Gregoritsch,a,171,DirectFreekick,2015,LeftFoot,1102,Hoffenheim,Hamburger SV,0,1,2015-10-23 22:30:00,,Standard
+78286,22,SavedShot,0.909000015258789,0.34200000762939453,0.07084745168685913,Nicolai Müller,a,170,OpenPlay,2015,RightFoot,1102,Hoffenheim,Hamburger SV,0,1,2015-10-23 22:30:00,Pierre-Michel Lasogga,HeadPass
+78287,22,SavedShot,0.915,0.5729999923706055,0.03029097616672516,Pierre-Michel Lasogga,a,173,OpenPlay,2015,Head,1102,Hoffenheim,Hamburger SV,0,1,2015-10-23 22:30:00,,Rebound
+78291,45,BlockedShot,0.7530000305175781,0.4540000152587891,0.02188367396593094,Nicolai Müller,a,170,OpenPlay,2015,RightFoot,1102,Hoffenheim,Hamburger SV,0,1,2015-10-23 22:30:00,Michael Gregoritsch,Pass
+78292,47,BlockedShot,0.8640000152587891,0.524000015258789,0.02981199137866497,Pierre-Michel Lasogga,a,173,OpenPlay,2015,Head,1102,Hoffenheim,Hamburger SV,0,1,2015-10-23 22:30:00,Lewis Holtby,Cross
+78293,47,MissedShots,0.950999984741211,0.5309999847412109,0.546256422996521,Michael Gregoritsch,a,171,SetPiece,2015,Head,1102,Hoffenheim,Hamburger SV,0,1,2015-10-23 22:30:00,Lewis Holtby,Cross
+78294,50,MissedShots,0.89,0.7180000305175781,0.04213480278849602,Matthias Ostrzolek,a,167,OpenPlay,2015,LeftFoot,1102,Hoffenheim,Hamburger SV,0,1,2015-10-23 22:30:00,,None
+78297,53,MissedShots,0.850999984741211,0.13399999618530273,0.014189931564033031,Pierre-Michel Lasogga,a,173,OpenPlay,2015,RightFoot,1102,Hoffenheim,Hamburger SV,0,1,2015-10-23 22:30:00,René Adler,TakeOn
+78298,55,MissedShots,0.9619999694824218,0.5059999847412109,0.4897060692310333,Cléber,a,166,FromCorner,2015,Head,1102,Hoffenheim,Hamburger SV,0,1,2015-10-23 22:30:00,Lewis Holtby,Aerial
+78300,68,MissedShots,0.82,0.7480000305175781,0.06573890149593353,Marcelo Díaz,a,177,DirectFreekick,2015,RightFoot,1102,Hoffenheim,Hamburger SV,0,1,2015-10-23 22:30:00,,Standard
+78301,71,MissedShots,0.87,0.515,0.026985617354512215,Cléber,a,166,FromCorner,2015,Head,1102,Hoffenheim,Hamburger SV,0,1,2015-10-23 22:30:00,Lewis Holtby,Cross
+78302,73,MissedShots,0.7230000305175781,0.5029999923706054,0.02075863629579544,Michael Gregoritsch,a,171,OpenPlay,2015,LeftFoot,1102,Hoffenheim,Hamburger SV,0,1,2015-10-23 22:30:00,Marcelo Díaz,Pass
+78304,82,MissedShots,0.6880000305175781,0.4329999923706055,0.01387160737067461,Lewis Holtby,a,169,OpenPlay,2015,LeftFoot,1102,Hoffenheim,Hamburger SV,0,1,2015-10-23 22:30:00,Marcelo Díaz,Pass
+78307,87,Goal,0.965,0.5270000076293946,0.715493381023407,Pierre-Michel Lasogga,a,173,OpenPlay,2015,RightFoot,1102,Hoffenheim,Hamburger SV,0,1,2015-10-23 22:30:00,Sven Schipplock,Pass
+78308,91,BlockedShot,0.8480000305175781,0.47299999237060547,0.09645728766918182,Michael Gregoritsch,a,171,OpenPlay,2015,RightFoot,1102,Hoffenheim,Hamburger SV,0,1,2015-10-23 22:30:00,Pierre-Michel Lasogga,Pass
+78309,92,SavedShot,0.9359999847412109,0.4470000076293945,0.6563607454299927,Lewis Holtby,a,169,OpenPlay,2015,RightFoot,1102,Hoffenheim,Hamburger SV,0,1,2015-10-23 22:30:00,Pierre-Michel Lasogga,Pass

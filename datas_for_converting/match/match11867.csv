@@ -1,0 +1,19 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+352003,0,BlockedShot,0.9669999694824218,0.29100000381469726,0.045556169003248215,Aaron Connolly,h,7991,OpenPlay,2019,RightFoot,11867,Brighton,Aston Villa,1,1,2020-01-18 15:00:00,Adam Webster,Chipped
+352004,5,MissedShots,0.9069999694824219,0.7019999694824218,0.05425652861595154,Neal Maupay,h,3621,OpenPlay,2019,LeftFoot,11867,Brighton,Aston Villa,1,1,2020-01-18 15:00:00,,BallRecovery
+352006,20,MissedShots,0.9640000152587891,0.375,0.2843201160430908,Aaron Mooy,h,6033,OpenPlay,2019,RightFoot,11867,Brighton,Aston Villa,1,1,2020-01-18 15:00:00,Bernardo,Cross
+352007,20,BlockedShot,0.825999984741211,0.4620000076293945,0.05611381679773331,Dale Stephens,h,6051,OpenPlay,2019,RightFoot,11867,Brighton,Aston Villa,1,1,2020-01-18 15:00:00,Aaron Connolly,Pass
+352008,31,BlockedShot,0.7919999694824219,0.45599998474121095,0.04069698229432106,Neal Maupay,h,3621,OpenPlay,2019,RightFoot,11867,Brighton,Aston Villa,1,1,2020-01-18 15:00:00,Dale Stephens,Pass
+352009,35,BlockedShot,0.865,0.4209999847412109,0.069811150431633,Neal Maupay,h,3621,OpenPlay,2019,LeftFoot,11867,Brighton,Aston Villa,1,1,2020-01-18 15:00:00,Leandro Trossard,None
+352011,37,Goal,0.925,0.6659999847412109,0.07800592482089996,Leandro Trossard,h,7698,OpenPlay,2019,LeftFoot,11867,Brighton,Aston Villa,1,1,2020-01-18 15:00:00,Neal Maupay,Pass
+352017,87,SavedShot,0.875999984741211,0.555,0.07516171783208847,Neal Maupay,h,3621,SetPiece,2019,RightFoot,11867,Brighton,Aston Villa,1,1,2020-01-18 15:00:00,Lewis Dunk,HeadPass
+352018,87,MissedShots,0.95,0.46799999237060547,0.5729885697364807,Adam Webster,h,7699,FromCorner,2019,RightFoot,11867,Brighton,Aston Villa,1,1,2020-01-18 15:00:00,,None
+352020,95,BlockedShot,0.8969999694824219,0.5570000076293945,0.023373259231448174,Lewis Dunk,h,6048,SetPiece,2019,Head,11867,Brighton,Aston Villa,1,1,2020-01-18 15:00:00,Pascal Groß,Aerial
+352005,16,MissedShots,0.8440000152587891,0.31799999237060544,0.03955173119902611,Daniel Drinkwater,a,752,OpenPlay,2019,LeftFoot,11867,Brighton,Aston Villa,1,1,2020-01-18 15:00:00,,None
+352010,37,MissedShots,0.8819999694824219,0.38299999237060545,0.14115040004253387,Jack Grealish,a,675,OpenPlay,2019,RightFoot,11867,Brighton,Aston Villa,1,1,2020-01-18 15:00:00,,TakeOn
+352012,45,MissedShots,0.9069999694824219,0.52,0.25718048214912415,Anwar El Ghazi,a,5612,SetPiece,2019,Head,11867,Brighton,Aston Villa,1,1,2020-01-18 15:00:00,Matt Targett,Cross
+352013,51,MissedShots,0.8419999694824218,0.40599998474121096,0.0587167851626873,Daniel Drinkwater,a,752,OpenPlay,2019,RightFoot,11867,Brighton,Aston Villa,1,1,2020-01-18 15:00:00,Trézéguet,Pass
+352014,62,SavedShot,0.9019999694824219,0.47,0.34765347838401794,Ezri Konsa Ngoyo,a,7726,SetPiece,2019,LeftFoot,11867,Brighton,Aston Villa,1,1,2020-01-18 15:00:00,Jack Grealish,Cross
+352015,74,SavedShot,0.735,0.5220000076293946,0.05441763252019882,Douglas Luiz,a,6122,DirectFreekick,2019,RightFoot,11867,Brighton,Aston Villa,1,1,2020-01-18 15:00:00,,Standard
+352016,74,Goal,0.875999984741211,0.595999984741211,0.07022741436958313,Jack Grealish,a,675,OpenPlay,2019,LeftFoot,11867,Brighton,Aston Villa,1,1,2020-01-18 15:00:00,Douglas Luiz,Chipped
+352019,89,MissedShots,0.8769999694824219,0.5570000076293945,0.0515562929213047,Jack Grealish,a,675,OpenPlay,2019,OtherBodyPart,11867,Brighton,Aston Villa,1,1,2020-01-18 15:00:00,Conor Hourihane,Cross

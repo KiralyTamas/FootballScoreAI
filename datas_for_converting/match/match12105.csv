@@ -1,0 +1,27 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+325684,5,MissedShots,0.8430000305175781,0.5609999847412109,0.03895390033721924,Álvaro Morata,h,1804,FromCorner,2019,RightFoot,12105,Atletico Madrid,Valencia,1,1,2019-10-19 15:00:00,Thomas Partey,Cross
+325686,15,MissedShots,0.73,0.41,0.012741411104798317,Thomas Partey,h,2328,OpenPlay,2019,RightFoot,12105,Atletico Madrid,Valencia,1,1,2019-10-19 15:00:00,,None
+325687,17,MissedShots,0.825999984741211,0.5520000076293945,0.0628710389137268,Saúl Ñíguez,h,2266,OpenPlay,2019,RightFoot,12105,Atletico Madrid,Valencia,1,1,2019-10-19 15:00:00,Diego Costa,Pass
+325688,20,SavedShot,0.9390000152587891,0.6480000305175782,0.07847543805837631,Álvaro Morata,h,1804,OpenPlay,2019,RightFoot,12105,Atletico Madrid,Valencia,1,1,2019-10-19 15:00:00,Koke,Pass
+325689,20,BlockedShot,0.7219999694824218,0.315,0.01671215333044529,João Félix,h,7892,OpenPlay,2019,RightFoot,12105,Atletico Madrid,Valencia,1,1,2019-10-19 15:00:00,Álvaro Morata,Pass
+325690,20,MissedShots,0.9069999694824219,0.615999984741211,0.09201609343290329,Diego Costa,h,802,OpenPlay,2019,LeftFoot,12105,Atletico Madrid,Valencia,1,1,2019-10-19 15:00:00,,Rebound
+325691,24,BlockedShot,0.9169999694824219,0.485,0.06426067650318146,Álvaro Morata,h,1804,OpenPlay,2019,Head,12105,Atletico Madrid,Valencia,1,1,2019-10-19 15:00:00,Koke,Aerial
+325692,25,MissedShots,0.915,0.6270000076293946,0.012545078061521053,Álvaro Morata,h,1804,FromCorner,2019,Head,12105,Atletico Madrid,Valencia,1,1,2019-10-19 15:00:00,Thomas Partey,Aerial
+325694,31,MissedShots,0.899000015258789,0.6419999694824219,0.06840211898088455,Saúl Ñíguez,h,2266,OpenPlay,2019,LeftFoot,12105,Atletico Madrid,Valencia,1,1,2019-10-19 15:00:00,,None
+325695,31,MissedShots,0.895,0.37900001525878907,0.09949713200330734,João Félix,h,7892,OpenPlay,2019,RightFoot,12105,Atletico Madrid,Valencia,1,1,2019-10-19 15:00:00,Santiago Arias,Pass
+325696,35,Goal,0.885,0.5,0.7432776093482971,Diego Costa,h,802,Penalty,2019,RightFoot,12105,Atletico Madrid,Valencia,1,1,2019-10-19 15:00:00,,Standard
+325701,57,MissedShots,0.9180000305175782,0.525,0.06148576736450195,Giménez,h,2278,SetPiece,2019,Head,12105,Atletico Madrid,Valencia,1,1,2019-10-19 15:00:00,Felipe,Aerial
+325702,59,SavedShot,0.7240000152587891,0.40299999237060546,0.0508282296359539,Thomas Lemar,h,3425,DirectFreekick,2019,LeftFoot,12105,Atletico Madrid,Valencia,1,1,2019-10-19 15:00:00,,Standard
+325704,68,MissedShots,0.9369999694824219,0.47400001525878904,0.11842343956232071,João Félix,h,7892,OpenPlay,2019,Head,12105,Atletico Madrid,Valencia,1,1,2019-10-19 15:00:00,Thomas Lemar,Aerial
+325705,72,SavedShot,0.7719999694824219,0.29399999618530276,0.024488527327775955,Santiago Arias,h,7113,OpenPlay,2019,RightFoot,12105,Atletico Madrid,Valencia,1,1,2019-10-19 15:00:00,Koke,Pass
+325683,2,MissedShots,0.7340000152587891,0.6730000305175782,0.017061788588762283,Daniel Parejo,a,2378,OpenPlay,2019,RightFoot,12105,Atletico Madrid,Valencia,1,1,2019-10-19 15:00:00,Jaume Costa,Pass
+325685,11,MissedShots,0.8530000305175781,0.4229999923706055,0.05248517543077469,Francis Coquelin,a,497,FromCorner,2019,RightFoot,12105,Atletico Madrid,Valencia,1,1,2019-10-19 15:00:00,Daniel Parejo,Pass
+325693,30,SavedShot,0.7519999694824219,0.639000015258789,0.01918099820613861,Denis Cheryshev,a,2494,OpenPlay,2019,LeftFoot,12105,Atletico Madrid,Valencia,1,1,2019-10-19 15:00:00,,BallRecovery
+325697,37,BlockedShot,0.784000015258789,0.3340000152587891,0.024519475176930428,Geoffrey Kondogbia,a,1516,OpenPlay,2019,LeftFoot,12105,Atletico Madrid,Valencia,1,1,2019-10-19 15:00:00,Daniel Parejo,Pass
+325698,46,BlockedShot,0.7169999694824218,0.48400001525878905,0.012517270632088184,Denis Cheryshev,a,2494,FromCorner,2019,RightFoot,12105,Atletico Madrid,Valencia,1,1,2019-10-19 15:00:00,,Aerial
+325699,47,BlockedShot,0.769000015258789,0.715,0.014438392594456673,Geoffrey Kondogbia,a,1516,OpenPlay,2019,LeftFoot,12105,Atletico Madrid,Valencia,1,1,2019-10-19 15:00:00,,BallRecovery
+325700,52,ShotOnPost,0.909000015258789,0.544000015258789,0.4733428359031677,Denis Cheryshev,a,2494,OpenPlay,2019,LeftFoot,12105,Atletico Madrid,Valencia,1,1,2019-10-19 15:00:00,Maxi Gómez,Pass
+325703,65,MissedShots,0.7559999847412109,0.37099998474121093,0.021438170224428177,Ferrán Torres,a,6441,OpenPlay,2019,RightFoot,12105,Atletico Madrid,Valencia,1,1,2019-10-19 15:00:00,Kevin Gameiro,Pass
+325706,81,Goal,0.75,0.37,0.061386045068502426,Daniel Parejo,a,2378,DirectFreekick,2019,RightFoot,12105,Atletico Madrid,Valencia,1,1,2019-10-19 15:00:00,,Standard
+325707,83,SavedShot,0.8119999694824219,0.6140000152587891,0.041522420942783356,Daniel Parejo,a,2378,OpenPlay,2019,RightFoot,12105,Atletico Madrid,Valencia,1,1,2019-10-19 15:00:00,Carlos Soler,Pass
+325708,84,MissedShots,0.7559999847412109,0.5790000152587891,0.020014608278870583,Daniel Parejo,a,2378,OpenPlay,2019,RightFoot,12105,Atletico Madrid,Valencia,1,1,2019-10-19 15:00:00,,None

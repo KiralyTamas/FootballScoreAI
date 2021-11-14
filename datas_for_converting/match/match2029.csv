@@ -1,0 +1,23 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+65605,6,BlockedShot,0.725,0.305,0.016491008922457695,Hatem Ben Arfa,h,3638,OpenPlay,2015,LeftFoot,2029,Nice,Paris Saint Germain,0,3,2015-12-04 23:30:00,Valère Germain,Pass
+65606,9,MissedShots,0.7959999847412109,0.33599998474121096,0.030131200328469276,Hatem Ben Arfa,h,3638,FromCorner,2015,LeftFoot,2029,Nice,Paris Saint Germain,0,3,2015-12-04 23:30:00,Jean Michael Seri,TakeOn
+65610,25,SavedShot,0.85,0.6990000152587891,0.038152601569890976,Jean Michael Seri,h,3312,OpenPlay,2015,RightFoot,2029,Nice,Paris Saint Germain,0,3,2015-12-04 23:30:00,Hatem Ben Arfa,Pass
+65611,29,MissedShots,0.735999984741211,0.46799999237060547,0.019472431391477585,Hatem Ben Arfa,h,3638,OpenPlay,2015,LeftFoot,2029,Nice,Paris Saint Germain,0,3,2015-12-04 23:30:00,Romain Genevois,TakeOn
+65613,35,MissedShots,0.875,0.54,0.04349512606859207,Valère Germain,h,3309,OpenPlay,2015,Head,2029,Nice,Paris Saint Germain,0,3,2015-12-04 23:30:00,Maxime Le Marchand,Cross
+65614,39,SavedShot,0.9330000305175781,0.4209999847412109,0.36431846022605896,Mathieu Bodmer,h,3308,SetPiece,2015,Head,2029,Nice,Paris Saint Germain,0,3,2015-12-04 23:30:00,,None
+65622,66,MissedShots,0.7419999694824219,0.639000015258789,0.0507252961397171,Jean Michael Seri,h,3312,DirectFreekick,2015,RightFoot,2029,Nice,Paris Saint Germain,0,3,2015-12-04 23:30:00,,Standard
+65607,12,SavedShot,0.8080000305175781,0.36200000762939455,0.27248263359069824,Zlatan Ibrahimovic,a,1741,OpenPlay,2015,RightFoot,2029,Nice,Paris Saint Germain,0,3,2015-12-04 23:30:00,,None
+65608,19,MissedShots,0.875,0.54,0.04486330598592758,Serge Aurier,a,3600,SetPiece,2015,Head,2029,Nice,Paris Saint Germain,0,3,2015-12-04 23:30:00,Ángel Di María,Cross
+65609,19,MissedShots,0.919000015258789,0.40599998474121096,0.4104626476764679,Zlatan Ibrahimovic,a,1741,SetPiece,2015,RightFoot,2029,Nice,Paris Saint Germain,0,3,2015-12-04 23:30:00,Serge Aurier,Rebound
+65612,34,Goal,0.9740000152587891,0.4779999923706055,0.8591376543045044,Edinson Cavani,a,3294,OpenPlay,2015,LeftFoot,2029,Nice,Paris Saint Germain,0,3,2015-12-04 23:30:00,Zlatan Ibrahimovic,Pass
+65615,43,Goal,0.885,0.5,0.7600951194763184,Zlatan Ibrahimovic,a,1741,Penalty,2015,RightFoot,2029,Nice,Paris Saint Germain,0,3,2015-12-04 23:30:00,,Standard
+65616,45,MissedShots,0.9290000152587891,0.5109999847412109,0.08954408019781113,Benjamin Stambouli,a,3290,OpenPlay,2015,Head,2029,Nice,Paris Saint Germain,0,3,2015-12-04 23:30:00,Layvin Kurzawa,Chipped
+65617,50,SavedShot,0.92,0.41700000762939454,0.1729757934808731,Zlatan Ibrahimovic,a,1741,OpenPlay,2015,Head,2029,Nice,Paris Saint Germain,0,3,2015-12-04 23:30:00,Blaise Matuidi,Cross
+65618,52,BlockedShot,0.86,0.5590000152587891,0.08296677470207214,Ángel Di María,a,3553,OpenPlay,2015,LeftFoot,2029,Nice,Paris Saint Germain,0,3,2015-12-04 23:30:00,Edinson Cavani,HeadPass
+65619,53,MissedShots,0.925,0.500999984741211,0.3534409701824188,Thiago Motta,a,3292,FromCorner,2015,Head,2029,Nice,Paris Saint Germain,0,3,2015-12-04 23:30:00,Ángel Di María,Cross
+65620,60,BlockedShot,0.845999984741211,0.45799999237060546,0.08188784122467041,Ángel Di María,a,3553,OpenPlay,2015,LeftFoot,2029,Nice,Paris Saint Germain,0,3,2015-12-04 23:30:00,,None
+65621,60,Goal,0.9519999694824218,0.31799999237060544,0.38883888721466064,Zlatan Ibrahimovic,a,1741,OpenPlay,2015,RightFoot,2029,Nice,Paris Saint Germain,0,3,2015-12-04 23:30:00,Ángel Di María,Throughball
+65623,74,BlockedShot,0.87,0.5570000076293945,0.12817071378231049,Adrien Rabiot,a,3291,OpenPlay,2015,LeftFoot,2029,Nice,Paris Saint Germain,0,3,2015-12-04 23:30:00,Zlatan Ibrahimovic,Pass
+65624,78,MissedShots,0.9019999694824219,0.6530000305175782,0.07813334465026855,Ángel Di María,a,3553,OpenPlay,2015,LeftFoot,2029,Nice,Paris Saint Germain,0,3,2015-12-04 23:30:00,,None
+65625,91,BlockedShot,0.7230000305175781,0.4909999847412109,0.016821272671222687,Layvin Kurzawa,a,3298,OpenPlay,2015,LeftFoot,2029,Nice,Paris Saint Germain,0,3,2015-12-04 23:30:00,Ángel Di María,None
+65626,92,SavedShot,0.850999984741211,0.305,0.05247209593653679,Edinson Cavani,a,3294,OpenPlay,2015,RightFoot,2029,Nice,Paris Saint Germain,0,3,2015-12-04 23:30:00,Adrien Rabiot,Chipped

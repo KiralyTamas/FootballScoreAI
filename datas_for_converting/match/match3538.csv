@@ -1,0 +1,28 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+144678,5,BlockedShot,0.7559999847412109,0.46700000762939453,0.026435956358909607,Nikola Kalinic,h,1425,OpenPlay,2016,RightFoot,3538,Fiorentina,Juventus,2,1,2017-01-15 23:45:00,Federico Bernardeschi,Pass
+144679,6,SavedShot,0.7859999847412109,0.49,0.04844314977526665,Matías Vecino,h,1423,OpenPlay,2016,RightFoot,3538,Fiorentina,Juventus,2,1,2017-01-15 23:45:00,Milan Badelj,TakeOn
+144680,9,ShotOnPost,0.94,0.6170000076293946,0.08686012774705887,Matías Vecino,h,1423,OpenPlay,2016,LeftFoot,3538,Fiorentina,Juventus,2,1,2017-01-15 23:45:00,,None
+144681,10,SavedShot,0.905,0.28,0.03687560558319092,Federico Chiesa,h,1433,OpenPlay,2016,RightFoot,3538,Fiorentina,Juventus,2,1,2017-01-15 23:45:00,Nikola Kalinic,Pass
+144682,13,MissedShots,0.740999984741211,0.49700000762939456,0.023382367566227913,Matías Vecino,h,1423,OpenPlay,2016,RightFoot,3538,Fiorentina,Juventus,2,1,2017-01-15 23:45:00,Federico Bernardeschi,Pass
+144683,19,BlockedShot,0.7569999694824219,0.37400001525878906,0.01931658945977688,Federico Chiesa,h,1433,OpenPlay,2016,RightFoot,3538,Fiorentina,Juventus,2,1,2017-01-15 23:45:00,Nikola Kalinic,Pass
+144685,36,Goal,0.9269999694824219,0.3240000152587891,0.07064838707447052,Nikola Kalinic,h,1425,OpenPlay,2016,RightFoot,3538,Fiorentina,Juventus,2,1,2017-01-15 23:45:00,Federico Bernardeschi,Pass
+144687,42,MissedShots,0.7780000305175782,0.7190000152587891,0.022913772612810135,Matías Vecino,h,1423,OpenPlay,2016,RightFoot,3538,Fiorentina,Juventus,2,1,2017-01-15 23:45:00,,BallRecovery
+144690,49,SavedShot,0.924000015258789,0.30100000381469727,0.26343607902526855,Nikola Kalinic,h,1425,OpenPlay,2016,RightFoot,3538,Fiorentina,Juventus,2,1,2017-01-15 23:45:00,Federico Chiesa,Pass
+144692,53,Goal,0.605,0.7030000305175781,0.008256065659224987,Milan Badelj,h,1430,OpenPlay,2016,RightFoot,3538,Fiorentina,Juventus,2,1,2017-01-15 23:45:00,Maximiliano Olivera,Pass
+144693,55,MissedShots,0.7130000305175781,0.37400001525878906,0.020596450194716454,Federico Chiesa,h,1433,OpenPlay,2016,RightFoot,3538,Fiorentina,Juventus,2,1,2017-01-15 23:45:00,Milan Badelj,Pass
+144695,72,MissedShots,0.7040000152587891,0.6140000152587891,0.020147908478975296,Federico Bernardeschi,h,1424,OpenPlay,2016,LeftFoot,3538,Fiorentina,Juventus,2,1,2017-01-15 23:45:00,Federico Chiesa,Pass
+144699,82,MissedShots,0.81,0.28600000381469726,0.03145083412528038,Cristian Tello,h,1421,OpenPlay,2016,LeftFoot,3538,Fiorentina,Juventus,2,1,2017-01-15 23:45:00,Borja Valero,Pass
+144700,86,SavedShot,0.7530000305175781,0.6940000152587891,0.018955044448375702,Sebastián Cristóforo,h,1436,OpenPlay,2016,RightFoot,3538,Fiorentina,Juventus,2,1,2017-01-15 23:45:00,Maximiliano Olivera,Pass
+144702,91,MissedShots,0.7190000152587891,0.5420000076293945,0.019304638728499413,Matías Vecino,h,1423,OpenPlay,2016,RightFoot,3538,Fiorentina,Juventus,2,1,2017-01-15 23:45:00,Sebastián Cristóforo,Pass
+144703,96,BlockedShot,0.7780000305175782,0.48900001525878906,0.045204389840364456,Cristian Tello,h,1421,OpenPlay,2016,LeftFoot,3538,Fiorentina,Juventus,2,1,2017-01-15 23:45:00,Nikola Kalinic,Pass
+144677,3,BlockedShot,0.7930000305175782,0.33799999237060546,0.023232899606227875,Paulo Dybala,a,1294,OpenPlay,2016,LeftFoot,3538,Fiorentina,Juventus,2,1,2017-01-15 23:45:00,Juan Cuadrado,Pass
+144684,21,SavedShot,0.755,0.5709999847412109,0.020467713475227356,Alex Sandro,a,1289,FromCorner,2016,LeftFoot,3538,Fiorentina,Juventus,2,1,2017-01-15 23:45:00,,TakeOn
+144686,40,MissedShots,0.9069999694824219,0.5279999923706055,0.04567272961139679,Giorgio Chiellini,a,1576,SetPiece,2016,Head,3538,Fiorentina,Juventus,2,1,2017-01-15 23:45:00,,None
+144688,44,BlockedShot,0.9119999694824219,0.4329999923706055,0.08260637521743774,Gonzalo Higuaín,a,1293,OpenPlay,2016,RightFoot,3538,Fiorentina,Juventus,2,1,2017-01-15 23:45:00,Sami Khedira,None
+144689,45,MissedShots,0.8130000305175781,0.435,0.03309439867734909,Gonzalo Higuaín,a,1293,OpenPlay,2016,LeftFoot,3538,Fiorentina,Juventus,2,1,2017-01-15 23:45:00,Stefano Sturaro,Cross
+144691,51,MissedShots,0.875,0.5690000152587891,0.03012044169008732,Stefano Sturaro,a,1296,FromCorner,2016,Head,3538,Fiorentina,Juventus,2,1,2017-01-15 23:45:00,Alex Sandro,Cross
+144694,57,Goal,0.925,0.4570000076293945,0.4296584129333496,Gonzalo Higuaín,a,1293,OpenPlay,2016,RightFoot,3538,Fiorentina,Juventus,2,1,2017-01-15 23:45:00,Stefano Sturaro,BallTouch
+144696,77,BlockedShot,0.9440000152587891,0.7230000305175781,0.039017170667648315,Marko Pjaca,a,1577,OpenPlay,2016,RightFoot,3538,Fiorentina,Juventus,2,1,2017-01-15 23:45:00,Sami Khedira,TakeOn
+144697,79,SavedShot,0.925,0.534000015258789,0.37322312593460083,Gonzalo Higuaín,a,1293,SetPiece,2016,Head,3538,Fiorentina,Juventus,2,1,2017-01-15 23:45:00,Paulo Dybala,Cross
+144698,79,SavedShot,0.9569999694824218,0.48700000762939455,0.6205542087554932,Giorgio Chiellini,a,1576,SetPiece,2016,RightFoot,3538,Fiorentina,Juventus,2,1,2017-01-15 23:45:00,,None
+144701,88,MissedShots,0.905,0.6179999923706054,0.09069410711526871,Paulo Dybala,a,1294,OpenPlay,2016,LeftFoot,3538,Fiorentina,Juventus,2,1,2017-01-15 23:45:00,Mario Mandzukic,Pass

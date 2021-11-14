@@ -1,0 +1,28 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+278778,0,BlockedShot,0.8640000152587891,0.59,0.09212717413902283,Kevin Volland,h,83,OpenPlay,2018,RightFoot,10508,Bayer Leverkusen,Bayern Munich,3,1,2019-02-02 14:30:00,Julian Brandt,Pass
+278779,11,MissedShots,0.7780000305175782,0.5990000152587891,0.026114733889698982,Julian Brandt,h,261,OpenPlay,2018,RightFoot,10508,Bayer Leverkusen,Bayern Munich,3,1,2019-02-02 14:30:00,,None
+278784,29,MissedShots,0.7230000305175781,0.345,0.04161062091588974,Leon Bailey,h,5221,DirectFreekick,2018,LeftFoot,10508,Bayer Leverkusen,Bayern Munich,3,1,2019-02-02 14:30:00,,Standard
+278786,36,BlockedShot,0.8180000305175781,0.5129999923706055,0.021256817504763603,Wendell,h,185,FromCorner,2018,LeftFoot,10508,Bayer Leverkusen,Bayern Munich,3,1,2019-02-02 14:30:00,,Aerial
+278789,42,BlockedShot,0.8090000152587891,0.5109999847412109,0.04571668058633804,Julian Brandt,h,261,OpenPlay,2018,RightFoot,10508,Bayer Leverkusen,Bayern Munich,3,1,2019-02-02 14:30:00,,BallRecovery
+278792,49,BlockedShot,0.7809999847412109,0.45799999237060546,0.030121181160211563,Karim Bellarabi,h,186,OpenPlay,2018,LeftFoot,10508,Bayer Leverkusen,Bayern Munich,3,1,2019-02-02 14:30:00,Julian Brandt,Pass
+278793,52,Goal,0.7330000305175781,0.4279999923706055,0.05426231026649475,Leon Bailey,h,5221,DirectFreekick,2018,LeftFoot,10508,Bayer Leverkusen,Bayern Munich,3,1,2019-02-02 14:30:00,,Standard
+278794,59,SavedShot,0.7859999847412109,0.5929999923706055,0.014038546942174435,Julian Brandt,h,261,OpenPlay,2018,RightFoot,10508,Bayer Leverkusen,Bayern Munich,3,1,2019-02-02 14:30:00,,Aerial
+278796,62,Goal,0.9230000305175782,0.4540000152587891,0.5101810693740845,Kevin Volland,h,83,OpenPlay,2018,LeftFoot,10508,Bayer Leverkusen,Bayern Munich,3,1,2019-02-02 14:30:00,Karim Bellarabi,Pass
+278801,86,Goal,0.9159999847412109,0.5690000152587891,0.44147151708602905,Lucas Alario,h,6338,OpenPlay,2018,LeftFoot,10508,Bayer Leverkusen,Bayern Munich,3,1,2019-02-02 14:30:00,Julian Brandt,Pass
+278780,12,SavedShot,0.86,0.31,0.0448170006275177,Kingsley Coman,a,226,OpenPlay,2018,RightFoot,10508,Bayer Leverkusen,Bayern Munich,3,1,2019-02-02 14:30:00,Thomas Müller,Pass
+278781,14,BlockedShot,0.909000015258789,0.48,0.10586637258529663,Robert Lewandowski,a,227,OpenPlay,2018,LeftFoot,10508,Bayer Leverkusen,Bayern Munich,3,1,2019-02-02 14:30:00,Kingsley Coman,Cross
+278782,14,BlockedShot,0.9690000152587891,0.500999984741211,0.1309671401977539,Robert Lewandowski,a,227,OpenPlay,2018,RightFoot,10508,Bayer Leverkusen,Bayern Munich,3,1,2019-02-02 14:30:00,Thomas Müller,None
+278783,25,MissedShots,0.8719999694824219,0.45799999237060546,0.08020084351301193,Leon Goretzka,a,335,OpenPlay,2018,RightFoot,10508,Bayer Leverkusen,Bayern Munich,3,1,2019-02-02 14:30:00,,None
+278785,31,SavedShot,0.8240000152587891,0.7030000305175781,0.02887275442481041,Kingsley Coman,a,226,OpenPlay,2018,RightFoot,10508,Bayer Leverkusen,Bayern Munich,3,1,2019-02-02 14:30:00,James Rodríguez,Pass
+278787,39,SavedShot,0.825,0.68,0.05199693143367767,Kingsley Coman,a,226,OpenPlay,2018,RightFoot,10508,Bayer Leverkusen,Bayern Munich,3,1,2019-02-02 14:30:00,Mats Hummels,Pass
+278788,40,Goal,0.9259999847412109,0.5220000076293946,0.39607229828834534,Leon Goretzka,a,335,OpenPlay,2018,Head,10508,Bayer Leverkusen,Bayern Munich,3,1,2019-02-02 14:30:00,Thomas Müller,Cross
+278790,43,SavedShot,0.8590000152587891,0.61,0.088383249938488,Kingsley Coman,a,226,OpenPlay,2018,RightFoot,10508,Bayer Leverkusen,Bayern Munich,3,1,2019-02-02 14:30:00,Thomas Müller,Pass
+278791,47,MissedShots,0.865999984741211,0.6370000076293946,0.07648546993732452,Kingsley Coman,a,226,OpenPlay,2018,RightFoot,10508,Bayer Leverkusen,Bayern Munich,3,1,2019-02-02 14:30:00,,None
+278795,59,BlockedShot,0.8690000152587891,0.5659999847412109,0.17462101578712463,Thomas Müller,a,224,OpenPlay,2018,RightFoot,10508,Bayer Leverkusen,Bayern Munich,3,1,2019-02-02 14:30:00,Kingsley Coman,TakeOn
+278797,63,MissedShots,0.8209999847412109,0.7069999694824218,0.025584032759070396,David Alaba,a,391,OpenPlay,2018,RightFoot,10508,Bayer Leverkusen,Bayern Munich,3,1,2019-02-02 14:30:00,,None
+278798,67,BlockedShot,0.8519999694824218,0.5659999847412109,0.0748836025595665,Kingsley Coman,a,226,SetPiece,2018,RightFoot,10508,Bayer Leverkusen,Bayern Munich,3,1,2019-02-02 14:30:00,Niklas Süle,Pass
+278799,72,BlockedShot,0.955999984741211,0.5509999847412109,0.08824995905160904,James Rodríguez,a,2249,OpenPlay,2018,Head,10508,Bayer Leverkusen,Bayern Munich,3,1,2019-02-02 14:30:00,,None
+278800,76,MissedShots,0.9130000305175782,0.525,0.07985322922468185,Robert Lewandowski,a,227,SetPiece,2018,Head,10508,Bayer Leverkusen,Bayern Munich,3,1,2019-02-02 14:30:00,Joshua Kimmich,Chipped
+278802,92,SavedShot,0.735999984741211,0.5420000076293945,0.011979641392827034,Serge Gnabry,a,993,OpenPlay,2018,RightFoot,10508,Bayer Leverkusen,Bayern Munich,3,1,2019-02-02 14:30:00,,None
+278803,93,MissedShots,0.919000015258789,0.5129999923706055,0.3893080949783325,Robert Lewandowski,a,227,SetPiece,2018,Head,10508,Bayer Leverkusen,Bayern Munich,3,1,2019-02-02 14:30:00,Joshua Kimmich,Aerial
+278804,94,BlockedShot,0.7480000305175781,0.445,0.019861456006765366,Leon Goretzka,a,335,OpenPlay,2018,RightFoot,10508,Bayer Leverkusen,Bayern Munich,3,1,2019-02-02 14:30:00,Renato Sanches,Pass

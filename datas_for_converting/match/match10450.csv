@@ -1,0 +1,26 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+256686,11,MissedShots,0.740999984741211,0.52,0.016508055850863457,Johannes Eggestein,h,6084,FromCorner,2018,LeftFoot,10450,Werder Bremen,Bayern Munich,1,2,2018-12-01 14:30:00,,None
+256691,21,SavedShot,0.8590000152587891,0.5179999923706055,0.08078265190124512,Theodor Gebre Selassie,h,110,OpenPlay,2018,LeftFoot,10450,Werder Bremen,Bayern Munich,1,2,2018-12-01 14:30:00,Yuya Osako,Pass
+256694,28,SavedShot,0.7180000305175781,0.3940000152587891,0.013039832934737206,Nuri Sahin,h,2642,OpenPlay,2018,LeftFoot,10450,Werder Bremen,Bayern Munich,1,2,2018-12-01 14:30:00,,BallTouch
+256695,32,Goal,0.93,0.5420000076293945,0.36514151096343994,Yuya Osako,h,135,OpenPlay,2018,Head,10450,Werder Bremen,Bayern Munich,1,2,2018-12-01 14:30:00,Max Kruse,Cross
+256703,57,BlockedShot,0.8580000305175781,0.425,0.05450507253408432,Johannes Eggestein,h,6084,OpenPlay,2018,LeftFoot,10450,Werder Bremen,Bayern Munich,1,2,2018-12-01 14:30:00,Theodor Gebre Selassie,HeadPass
+256705,71,MissedShots,0.785,0.3920000076293945,0.022002985700964928,Kevin Möhwald,h,7044,FromCorner,2018,RightFoot,10450,Werder Bremen,Bayern Munich,1,2,2018-12-01 14:30:00,,None
+256707,74,BlockedShot,0.7619999694824219,0.6990000152587891,0.011128315702080727,Max Kruse,h,155,SetPiece,2018,LeftFoot,10450,Werder Bremen,Bayern Munich,1,2,2018-12-01 14:30:00,,None
+256708,76,BlockedShot,0.905,0.6430000305175781,0.07421255856752396,Max Kruse,h,155,OpenPlay,2018,LeftFoot,10450,Werder Bremen,Bayern Munich,1,2,2018-12-01 14:30:00,Claudio Pizarro,Pass
+256685,6,SavedShot,0.915,0.5920000076293945,0.38667261600494385,Robert Lewandowski,a,227,OpenPlay,2018,LeftFoot,10450,Werder Bremen,Bayern Munich,1,2,2018-12-01 14:30:00,Thomas Müller,Pass
+256687,11,MissedShots,0.725,0.48900001525878906,0.018069401383399963,Robert Lewandowski,a,227,OpenPlay,2018,RightFoot,10450,Werder Bremen,Bayern Munich,1,2,2018-12-01 14:30:00,Thomas Müller,Pass
+256688,14,MissedShots,0.8130000305175781,0.375,0.03974822536110878,Joshua Kimmich,a,223,OpenPlay,2018,LeftFoot,10450,Werder Bremen,Bayern Munich,1,2,2018-12-01 14:30:00,,None
+256689,19,SavedShot,0.92,0.435,0.3287518620491028,Serge Gnabry,a,993,OpenPlay,2018,RightFoot,10450,Werder Bremen,Bayern Munich,1,2,2018-12-01 14:30:00,Joshua Kimmich,Chipped
+256690,19,Goal,0.9490000152587891,0.41,0.42055684328079224,Serge Gnabry,a,993,OpenPlay,2018,RightFoot,10450,Werder Bremen,Bayern Munich,1,2,2018-12-01 14:30:00,,Rebound
+256692,25,MissedShots,0.9469999694824218,0.5179999923706055,0.5770219564437866,Thomas Müller,a,224,OpenPlay,2018,Head,10450,Werder Bremen,Bayern Munich,1,2,2018-12-01 14:30:00,David Alaba,Cross
+256693,26,BlockedShot,0.89,0.415,0.15744192898273468,Robert Lewandowski,a,227,OpenPlay,2018,RightFoot,10450,Werder Bremen,Bayern Munich,1,2,2018-12-01 14:30:00,Thomas Müller,TakeOn
+256696,38,MissedShots,0.8719999694824219,0.41900001525878905,0.30216240882873535,Robert Lewandowski,a,227,OpenPlay,2018,RightFoot,10450,Werder Bremen,Bayern Munich,1,2,2018-12-01 14:30:00,Serge Gnabry,Chipped
+256697,46,BlockedShot,0.865,0.61,0.0845002830028534,Thomas Müller,a,224,OpenPlay,2018,RightFoot,10450,Werder Bremen,Bayern Munich,1,2,2018-12-01 14:30:00,Kingsley Coman,Pass
+256698,47,MissedShots,0.9230000305175782,0.5279999923706055,0.05001221224665642,Niklas Süle,a,75,FromCorner,2018,Head,10450,Werder Bremen,Bayern Munich,1,2,2018-12-01 14:30:00,Joshua Kimmich,Aerial
+256699,49,Goal,0.9259999847412109,0.47200000762939454,0.5478307008743286,Serge Gnabry,a,993,OpenPlay,2018,RightFoot,10450,Werder Bremen,Bayern Munich,1,2,2018-12-01 14:30:00,,None
+256700,52,MissedShots,0.9569999694824218,0.5429999923706055,0.08179722726345062,Robert Lewandowski,a,227,FromCorner,2018,Head,10450,Werder Bremen,Bayern Munich,1,2,2018-12-01 14:30:00,Joshua Kimmich,Aerial
+256701,54,SavedShot,0.9569999694824218,0.6859999847412109,0.29545843601226807,Kingsley Coman,a,226,OpenPlay,2018,LeftFoot,10450,Werder Bremen,Bayern Munich,1,2,2018-12-01 14:30:00,David Alaba,Chipped
+256702,55,BlockedShot,0.98,0.5870000076293945,0.022806234657764435,Thomas Müller,a,224,FromCorner,2018,Head,10450,Werder Bremen,Bayern Munich,1,2,2018-12-01 14:30:00,Joshua Kimmich,Aerial
+256704,70,BlockedShot,0.815,0.45799999237060546,0.06043306365609169,Leon Goretzka,a,335,OpenPlay,2018,RightFoot,10450,Werder Bremen,Bayern Munich,1,2,2018-12-01 14:30:00,Thomas Müller,Pass
+256706,73,MissedShots,0.8159999847412109,0.48900001525878906,0.020946986973285675,David Alaba,a,391,FromCorner,2018,LeftFoot,10450,Werder Bremen,Bayern Munich,1,2,2018-12-01 14:30:00,,Aerial
+256709,85,MissedShots,0.7380000305175781,0.7269999694824218,0.0383785180747509,David Alaba,a,391,DirectFreekick,2018,LeftFoot,10450,Werder Bremen,Bayern Munich,1,2,2018-12-01 14:30:00,,Standard

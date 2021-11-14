@@ -1,0 +1,23 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+111017,13,SavedShot,0.865999984741211,0.5609999847412109,0.010350389406085014,Jimmy Briand,h,3477,SetPiece,2016,Head,4264,Guingamp,Saint-Etienne,0,2,2017-04-29 19:00:00,Étienne Didot,Aerial
+111018,20,MissedShots,0.9290000152587891,0.43900001525878907,0.1369924247264862,Alexandre Mendy,h,3580,OpenPlay,2016,RightFoot,4264,Guingamp,Saint-Etienne,0,2,2017-04-29 19:00:00,Yannis Salibur,Pass
+111019,42,SavedShot,0.87,0.38599998474121094,0.08630083501338959,Yannis Salibur,h,3473,OpenPlay,2016,RightFoot,4264,Guingamp,Saint-Etienne,0,2,2017-04-29 19:00:00,Alexandre Mendy,Pass
+111024,62,MissedShots,0.9259999847412109,0.544000015258789,0.1052447184920311,Jimmy Briand,h,3477,OpenPlay,2016,Head,4264,Guingamp,Saint-Etienne,0,2,2017-04-29 19:00:00,Yannis Salibur,Cross
+111025,62,MissedShots,0.9590000152587891,0.45599998474121095,0.08412318676710129,Marcus Coco,h,3479,OpenPlay,2016,Head,4264,Guingamp,Saint-Etienne,0,2,2017-04-29 19:00:00,Jimmy Briand,Rebound
+111027,68,SavedShot,0.8019999694824219,0.24200000762939453,0.019783662632107735,Yannis Salibur,h,3473,OpenPlay,2016,LeftFoot,4264,Guingamp,Saint-Etienne,0,2,2017-04-29 19:00:00,Étienne Didot,Pass
+111028,73,MissedShots,0.965999984741211,0.6930000305175781,0.09315076470375061,Alexandre Mendy,h,3580,OpenPlay,2016,LeftFoot,4264,Guingamp,Saint-Etienne,0,2,2017-04-29 19:00:00,Jimmy Briand,Throughball
+111031,79,MissedShots,0.9490000152587891,0.48700000762939455,0.09837988018989563,Sloan Privat,h,3478,OpenPlay,2016,Head,4264,Guingamp,Saint-Etienne,0,2,2017-04-29 19:00:00,Yannis Salibur,Aerial
+111032,82,BlockedShot,0.735,0.38799999237060545,0.05044746398925781,Yannis Salibur,h,3473,DirectFreekick,2016,LeftFoot,4264,Guingamp,Saint-Etienne,0,2,2017-04-29 19:00:00,,Standard
+111034,86,MissedShots,0.759000015258789,0.59,0.022477028891444206,Yannis Salibur,h,3473,OpenPlay,2016,RightFoot,4264,Guingamp,Saint-Etienne,0,2,2017-04-29 19:00:00,Étienne Didot,TakeOn
+111037,89,SavedShot,0.9530000305175781,0.54,0.10640928894281387,Jimmy Briand,h,3477,SetPiece,2016,LeftFoot,4264,Guingamp,Saint-Etienne,0,2,2017-04-29 19:00:00,Sloan Privat,BallTouch
+111020,53,MissedShots,0.720999984741211,0.4,0.01140858605504036,Ole Selnaes,a,3519,OpenPlay,2016,LeftFoot,4264,Guingamp,Saint-Etienne,0,2,2017-04-29 19:00:00,,None
+111021,56,SavedShot,0.909000015258789,0.3770000076293945,0.020104629918932915,Benjamin Corgnet,a,3514,FromCorner,2016,Head,4264,Guingamp,Saint-Etienne,0,2,2017-04-29 19:00:00,Jordan Veretout,Cross
+111022,56,MissedShots,0.9590000152587891,0.5220000076293946,0.6422590017318726,Loic Perrin,a,3689,FromCorner,2016,RightFoot,4264,Guingamp,Saint-Etienne,0,2,2017-04-29 19:00:00,,Rebound
+111023,60,Goal,0.9319999694824219,0.525,0.46253183484077454,Vincent Pajot,a,3507,SetPiece,2016,Head,4264,Guingamp,Saint-Etienne,0,2,2017-04-29 19:00:00,Jordan Veretout,Cross
+111026,65,SavedShot,0.750999984741211,0.75,0.014078282751142979,Digbo Maiga,a,5686,OpenPlay,2016,RightFoot,4264,Guingamp,Saint-Etienne,0,2,2017-04-29 19:00:00,,None
+111029,77,SavedShot,0.845,0.5609999847412109,0.3398730456829071,Romain Hamouma,a,3561,OpenPlay,2016,LeftFoot,4264,Guingamp,Saint-Etienne,0,2,2017-04-29 19:00:00,Henri Saivet,Throughball
+111030,77,SavedShot,0.875,0.5779999923706055,0.019236214458942413,Henri Saivet,a,778,FromCorner,2016,Head,4264,Guingamp,Saint-Etienne,0,2,2017-04-29 19:00:00,Jordan Veretout,Cross
+111033,85,Goal,0.885,0.5,0.7600951194763184,Romain Hamouma,a,3561,Penalty,2016,RightFoot,4264,Guingamp,Saint-Etienne,0,2,2017-04-29 19:00:00,,Standard
+111035,88,BlockedShot,0.7919999694824219,0.6079999923706054,0.05384154990315437,Benjamin Corgnet,a,3514,OpenPlay,2016,RightFoot,4264,Guingamp,Saint-Etienne,0,2,2017-04-29 19:00:00,Henri Saivet,Pass
+111036,88,SavedShot,0.7880000305175782,0.295,0.035912662744522095,Jordan Veretout,a,677,OpenPlay,2016,RightFoot,4264,Guingamp,Saint-Etienne,0,2,2017-04-29 19:00:00,Ole Selnaes,Pass
+111038,90,SavedShot,0.9069999694824219,0.4520000076293945,0.5220864415168762,Romain Hamouma,a,3561,OpenPlay,2016,RightFoot,4264,Guingamp,Saint-Etienne,0,2,2017-04-29 19:00:00,Kevin Malcuit,Pass

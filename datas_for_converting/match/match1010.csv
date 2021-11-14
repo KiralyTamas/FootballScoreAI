@@ -1,0 +1,26 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+148688,2,SavedShot,0.9019999694824219,0.46,0.08552384376525879,Fabio Quagliarella,h,1230,OpenPlay,2016,Head,1010,Sampdoria,Genoa,2,1,2016-10-22 20:00:00,Jacopo Sala,Cross
+148690,10,SavedShot,0.8059999847412109,0.3029999923706055,0.025239836424589157,Luis Muriel,h,1229,OpenPlay,2016,RightFoot,1010,Sampdoria,Genoa,2,1,2016-10-22 20:00:00,Karol Linetty,Chipped
+148691,11,Goal,0.9,0.5279999923706055,0.4473384916782379,Luis Muriel,h,1229,OpenPlay,2016,RightFoot,1010,Sampdoria,Genoa,2,1,2016-10-22 20:00:00,Fabio Quagliarella,Pass
+148695,25,MissedShots,0.785,0.3039999961853027,0.022717870771884918,Fabio Quagliarella,h,1230,OpenPlay,2016,RightFoot,1010,Sampdoria,Genoa,2,1,2016-10-22 20:00:00,Karol Linetty,Pass
+148697,38,ShotOnPost,0.9219999694824219,0.5159999847412109,0.12642286717891693,Matías Silvestre,h,1222,SetPiece,2016,Head,1010,Sampdoria,Genoa,2,1,2016-10-22 20:00:00,Bruno Fernandes,Cross
+148698,38,SavedShot,0.9569999694824218,0.41200000762939454,0.12587970495224,Edgar Barreto,h,1225,SetPiece,2016,RightFoot,1010,Sampdoria,Genoa,2,1,2016-10-22 20:00:00,,Rebound
+148700,45,SavedShot,0.885,0.5,0.7612988352775574,Fabio Quagliarella,h,1230,Penalty,2016,RightFoot,1010,Sampdoria,Genoa,2,1,2016-10-22 20:00:00,,Standard
+148702,45,SavedShot,0.855999984741211,0.6480000305175782,0.1220908835530281,Fabio Quagliarella,h,1230,OpenPlay,2016,LeftFoot,1010,Sampdoria,Genoa,2,1,2016-10-22 20:00:00,Bruno Fernandes,Throughball
+148701,46,MissedShots,0.9169999694824219,0.5159999847412109,0.09462928026914597,Milan Skriniar,h,1223,FromCorner,2016,Head,1010,Sampdoria,Genoa,2,1,2016-10-22 20:00:00,Bruno Fernandes,Cross
+148704,53,MissedShots,0.7869999694824219,0.385,0.03145080432295799,Fabio Quagliarella,h,1230,OpenPlay,2016,RightFoot,1010,Sampdoria,Genoa,2,1,2016-10-22 20:00:00,Jacopo Sala,Pass
+148705,56,SavedShot,0.860999984741211,0.255,0.03176422417163849,Luis Muriel,h,1229,OpenPlay,2016,RightFoot,1010,Sampdoria,Genoa,2,1,2016-10-22 20:00:00,Fabio Quagliarella,TakeOn
+148706,57,BlockedShot,0.8640000152587891,0.46700000762939453,0.0466819703578949,Matías Silvestre,h,1222,FromCorner,2016,RightFoot,1010,Sampdoria,Genoa,2,1,2016-10-22 20:00:00,Bruno Fernandes,Cross
+148710,87,BlockedShot,0.9219999694824219,0.6909999847412109,0.0996653139591217,Ricardo Álvarez,h,1231,OpenPlay,2016,LeftFoot,1010,Sampdoria,Genoa,2,1,2016-10-22 20:00:00,Jacopo Sala,Pass
+148711,88,MissedShots,0.95,0.6170000076293946,0.0759992003440857,Fabio Quagliarella,h,1230,SetPiece,2016,LeftFoot,1010,Sampdoria,Genoa,2,1,2016-10-22 20:00:00,,None
+148689,3,MissedShots,0.7619999694824219,0.44799999237060545,0.022556284442543983,Miguel Veloso,a,1098,OpenPlay,2016,RightFoot,1010,Sampdoria,Genoa,2,1,2016-10-22 20:00:00,,None
+148692,14,SavedShot,0.8230000305175781,0.6990000152587891,0.02672419883310795,Luca Rigoni,a,1101,OpenPlay,2016,RightFoot,1010,Sampdoria,Genoa,2,1,2016-10-22 20:00:00,Tomás Rincón,Pass
+148693,17,BlockedShot,0.8590000152587891,0.3770000076293945,0.05453890189528465,Edenilson,a,1097,OpenPlay,2016,RightFoot,1010,Sampdoria,Genoa,2,1,2016-10-22 20:00:00,,BallTouch
+148694,23,Goal,0.9640000152587891,0.46599998474121096,0.660800039768219,Luca Rigoni,a,1101,OpenPlay,2016,LeftFoot,1010,Sampdoria,Genoa,2,1,2016-10-22 20:00:00,Edenilson,Pass
+148696,30,SavedShot,0.9,0.4370000076293945,0.046147968620061874,Nicolas Burdisso,a,1094,FromCorner,2016,Head,1010,Sampdoria,Genoa,2,1,2016-10-22 20:00:00,Miguel Veloso,Cross
+148699,42,MissedShots,0.874000015258789,0.44799999237060545,0.041015371680259705,Nicolas Burdisso,a,1094,SetPiece,2016,Head,1010,Sampdoria,Genoa,2,1,2016-10-22 20:00:00,Miguel Veloso,Cross
+148703,46,OwnGoal,0.04199999809265137,0.539000015258789,0,Armando Izzo,a,1096,OpenPlay,2016,OtherBodyPart,1010,Sampdoria,Genoa,2,1,2016-10-22 20:00:00,,Clearance
+148707,67,SavedShot,0.9130000305175782,0.5109999847412109,0.11787942051887512,Ezequiel Muñoz,a,1095,FromCorner,2016,RightFoot,1010,Sampdoria,Genoa,2,1,2016-10-22 20:00:00,Nicolas Burdisso,HeadPass
+148708,82,SavedShot,0.8859999847412109,0.46,0.05466108024120331,Leonardo Pavoletti,a,1104,OpenPlay,2016,Head,1010,Sampdoria,Genoa,2,1,2016-10-22 20:00:00,Nicola Ninkovic,Cross
+148709,83,MissedShots,0.875,0.5920000076293945,0.022921394556760788,Leonardo Pavoletti,a,1104,OpenPlay,2016,Head,1010,Sampdoria,Genoa,2,1,2016-10-22 20:00:00,Diego Laxalt,Cross
+148712,90,MissedShots,0.970999984741211,0.3129999923706055,0.04025118425488472,Nicola Ninkovic,a,1103,OpenPlay,2016,RightFoot,1010,Sampdoria,Genoa,2,1,2016-10-22 20:00:00,Miguel Veloso,Chipped

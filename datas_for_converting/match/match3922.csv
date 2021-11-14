@@ -1,0 +1,17 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+138978,24,MissedShots,0.89,0.555,0.07453878223896027,Lucas Vázquez,h,2253,SetPiece,2016,RightFoot,3922,Real Madrid,Real Sociedad,3,0,2017-01-29 22:45:00,,None
+138979,32,MissedShots,0.774000015258789,0.4329999923706055,0.029378622770309448,Cristiano Ronaldo,h,2371,OpenPlay,2016,LeftFoot,3922,Real Madrid,Real Sociedad,3,0,2017-01-29 22:45:00,Lucas Vázquez,Pass
+138980,37,Goal,0.865999984741211,0.3940000152587891,0.3097057342529297,Mateo Kovacic,h,2254,OpenPlay,2016,RightFoot,3922,Real Madrid,Real Sociedad,3,0,2017-01-29 22:45:00,Cristiano Ronaldo,Pass
+138981,41,BlockedShot,0.815,0.6120000076293945,0.05326614901423454,Mateo Kovacic,h,2254,OpenPlay,2016,LeftFoot,3922,Real Madrid,Real Sociedad,3,0,2017-01-29 22:45:00,Nacho,Pass
+138986,50,Goal,0.8690000152587891,0.3579999923706055,0.2714274823665619,Cristiano Ronaldo,h,2371,OpenPlay,2016,RightFoot,3922,Real Madrid,Real Sociedad,3,0,2017-01-29 22:45:00,Mateo Kovacic,Pass
+138988,72,SavedShot,0.8690000152587891,0.3240000152587891,0.07555714249610901,Lucas Vázquez,h,2253,OpenPlay,2016,RightFoot,3922,Real Madrid,Real Sociedad,3,0,2017-01-29 22:45:00,,BallRecovery
+138990,81,Goal,0.93,0.5920000076293945,0.25204408168792725,Álvaro Morata,h,1804,OpenPlay,2016,Head,3922,Real Madrid,Real Sociedad,3,0,2017-01-29 22:45:00,Lucas Vázquez,Cross
+138975,15,SavedShot,0.7069999694824218,0.6140000152587891,0.041908834129571915,Willian José,a,2361,DirectFreekick,2016,RightFoot,3922,Real Madrid,Real Sociedad,3,0,2017-01-29 22:45:00,,Standard
+138976,16,MissedShots,0.8219999694824218,0.46799999237060547,0.018823057413101196,Willian José,a,2361,SetPiece,2016,Head,3922,Real Madrid,Real Sociedad,3,0,2017-01-29 22:45:00,Asier Illarramendi,Cross
+138977,21,SavedShot,0.740999984741211,0.415,0.021015748381614685,Sergio Canales,a,2571,OpenPlay,2016,LeftFoot,3922,Real Madrid,Real Sociedad,3,0,2017-01-29 22:45:00,Mikel Oyarzabal,Pass
+138982,44,MissedShots,0.8919999694824219,0.6509999847412109,0.06983119994401932,Juanmi,a,897,OpenPlay,2016,RightFoot,3922,Real Madrid,Real Sociedad,3,0,2017-01-29 22:45:00,Sergio Canales,Pass
+138983,47,BlockedShot,0.7119999694824218,0.4540000152587891,0.01198656763881445,Raúl Navas,a,4130,OpenPlay,2016,LeftFoot,3922,Real Madrid,Real Sociedad,3,0,2017-01-29 22:45:00,,None
+138984,48,BlockedShot,0.775,0.6530000305175782,0.011600105091929436,Asier Illarramendi,a,2232,OpenPlay,2016,LeftFoot,3922,Real Madrid,Real Sociedad,3,0,2017-01-29 22:45:00,,Aerial
+138985,49,BlockedShot,0.9590000152587891,0.705,0.04671279340982437,Kévin Rodrigues,a,5153,OpenPlay,2016,LeftFoot,3922,Real Madrid,Real Sociedad,3,0,2017-01-29 22:45:00,,None
+138987,59,BlockedShot,0.700999984741211,0.5670000076293945,0.01294249389320612,Kévin Rodrigues,a,5153,FromCorner,2016,LeftFoot,3922,Real Madrid,Real Sociedad,3,0,2017-01-29 22:45:00,,None
+138989,74,SavedShot,0.8130000305175781,0.735,0.01563265360891819,Kévin Rodrigues,a,5153,OpenPlay,2016,RightFoot,3922,Real Madrid,Real Sociedad,3,0,2017-01-29 22:45:00,Carlos Vela,Chipped

@@ -1,0 +1,23 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+183173,22,BlockedShot,0.8830000305175781,0.575,0.012806202284991741,Maya Yoshida,h,845,FromCorner,2017,Head,7307,Southampton,Huddersfield,1,1,2017-12-23 15:00:00,James Ward-Prowse,Aerial
+183174,23,MissedShots,0.875,0.5070000076293946,0.013848709873855114,Wesley Hoedt,h,1203,FromCorner,2017,Head,7307,Southampton,Huddersfield,1,1,2017-12-23 15:00:00,James Ward-Prowse,Aerial
+183175,23,Goal,0.975999984741211,0.5670000076293945,0.3583429455757141,Charlie Austin,h,848,FromCorner,2017,Head,7307,Southampton,Huddersfield,1,1,2017-12-23 15:00:00,Wesley Hoedt,Rebound
+183177,36,SavedShot,0.9059999847412109,0.5320000076293945,0.46406272053718567,Dusan Tadic,h,840,OpenPlay,2017,LeftFoot,7307,Southampton,Huddersfield,1,1,2017-12-23 15:00:00,Nathan Redmond,Pass
+183178,36,BlockedShot,0.89,0.3770000076293945,0.0985245481133461,Steven Davis,h,883,OpenPlay,2017,RightFoot,7307,Southampton,Huddersfield,1,1,2017-12-23 15:00:00,James Ward-Prowse,Dispossessed
+183179,40,SavedShot,0.6990000152587891,0.4779999923706055,0.01628798246383667,Charlie Austin,h,848,OpenPlay,2017,RightFoot,7307,Southampton,Huddersfield,1,1,2017-12-23 15:00:00,Dusan Tadic,BallRecovery
+183180,40,SavedShot,0.7319999694824219,0.5790000152587891,0.015870006754994392,Nathan Redmond,h,790,OpenPlay,2017,RightFoot,7307,Southampton,Huddersfield,1,1,2017-12-23 15:00:00,James Ward-Prowse,Chipped
+183182,59,MissedShots,0.8780000305175781,0.43900001525878907,0.49635058641433716,Charlie Austin,h,848,OpenPlay,2017,RightFoot,7307,Southampton,Huddersfield,1,1,2017-12-23 15:00:00,Nathan Redmond,Pass
+183186,75,MissedShots,0.9119999694824219,0.534000015258789,0.10744981467723846,Maya Yoshida,h,845,FromCorner,2017,RightFoot,7307,Southampton,Huddersfield,1,1,2017-12-23 15:00:00,,None
+183187,75,SavedShot,0.7519999694824219,0.5129999923706055,0.023524317890405655,Charlie Austin,h,848,OpenPlay,2017,RightFoot,7307,Southampton,Huddersfield,1,1,2017-12-23 15:00:00,,BallRecovery
+183188,83,SavedShot,0.7290000152587891,0.45799999237060546,0.020662199705839157,James Ward-Prowse,h,843,OpenPlay,2017,RightFoot,7307,Southampton,Huddersfield,1,1,2017-12-23 15:00:00,Nathan Redmond,Pass
+183189,90,ShotOnPost,0.8690000152587891,0.5029999923706054,0.11527866870164871,Maya Yoshida,h,845,SetPiece,2017,Head,7307,Southampton,Huddersfield,1,1,2017-12-23 15:00:00,Matt Targett,Cross
+183168,4,BlockedShot,0.8640000152587891,0.5209999847412109,0.07572150975465775,Rajiv van La Parra,a,6036,OpenPlay,2017,RightFoot,7307,Southampton,Huddersfield,1,1,2017-12-23 15:00:00,Collin Quaner,Cross
+183169,6,BlockedShot,0.8730000305175781,0.425,0.07627017050981522,Aaron Mooy,a,6033,OpenPlay,2017,RightFoot,7307,Southampton,Huddersfield,1,1,2017-12-23 15:00:00,,None
+183170,14,ShotOnPost,0.9219999694824219,0.4129999923706055,0.0747327134013176,Christopher Schindler,a,6031,SetPiece,2017,Head,7307,Southampton,Huddersfield,1,1,2017-12-23 15:00:00,Florent Hadergjonaj,Cross
+183171,14,BlockedShot,0.8680000305175781,0.534000015258789,0.04115419089794159,Collin Quaner,a,6035,SetPiece,2017,RightFoot,7307,Southampton,Huddersfield,1,1,2017-12-23 15:00:00,,Aerial
+183172,15,MissedShots,0.8019999694824219,0.40200000762939453,0.026146329939365387,Rajiv van La Parra,a,6036,FromCorner,2017,LeftFoot,7307,Southampton,Huddersfield,1,1,2017-12-23 15:00:00,,None
+183176,28,MissedShots,0.895,0.5629999923706055,0.17058603465557098,Christopher Schindler,a,6031,OpenPlay,2017,Head,7307,Southampton,Huddersfield,1,1,2017-12-23 15:00:00,Florent Hadergjonaj,Cross
+183181,53,MissedShots,0.715,0.285,0.03179571405053139,Aaron Mooy,a,6033,DirectFreekick,2017,RightFoot,7307,Southampton,Huddersfield,1,1,2017-12-23 15:00:00,,Standard
+183183,62,BlockedShot,0.8390000152587891,0.45799999237060546,0.06195708364248276,Aaron Mooy,a,6033,OpenPlay,2017,RightFoot,7307,Southampton,Huddersfield,1,1,2017-12-23 15:00:00,Laurent Depoitre,Pass
+183184,63,Goal,0.9440000152587891,0.515,0.42888471484184265,Laurent Depoitre,a,6038,OpenPlay,2017,Head,7307,Southampton,Huddersfield,1,1,2017-12-23 15:00:00,Tommy Smith,Cross
+183185,65,SavedShot,0.8830000305175781,0.5920000076293945,0.10656163841485977,Scott Malone,a,6040,OpenPlay,2017,LeftFoot,7307,Southampton,Huddersfield,1,1,2017-12-23 15:00:00,Joe Lolley,Pass

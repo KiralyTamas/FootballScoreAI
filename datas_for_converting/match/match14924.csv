@@ -1,0 +1,34 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+395028,4,MissedShots,0.6940000152587891,0.39099998474121095,0.03760400414466858,Rubén Alcaraz,h,6917,DirectFreekick,2020,RightFoot,14924,Real Valladolid,Barcelona,0,3,2020-12-22 21:00:00,,Standard
+395029,6,SavedShot,0.9119999694824219,0.7619999694824219,0.028764627873897552,Marcos de Sousa,h,8933,OpenPlay,2020,RightFoot,14924,Real Valladolid,Barcelona,0,3,2020-12-22 21:00:00,Nacho,Pass
+395041,46,SavedShot,0.735999984741211,0.30200000762939455,0.012288318946957588,Jota,h,9031,OpenPlay,2020,RightFoot,14924,Real Valladolid,Barcelona,0,3,2020-12-22 21:00:00,Toni Villa,Pass
+395043,52,MissedShots,0.8869999694824219,0.835999984741211,0.05947558954358101,Pablo Hervías,h,4054,DirectFreekick,2020,RightFoot,14924,Real Valladolid,Barcelona,0,3,2020-12-22 21:00:00,,Standard
+395045,55,MissedShots,0.7369999694824219,0.6320000076293946,0.015342962928116322,Rubén Alcaraz,h,6917,OpenPlay,2020,RightFoot,14924,Real Valladolid,Barcelona,0,3,2020-12-22 21:00:00,Míchel,Pass
+395048,63,MissedShots,0.955999984741211,0.6140000152587891,0.04715617373585701,Javi Sánchez,h,7245,FromCorner,2020,Head,14924,Real Valladolid,Barcelona,0,3,2020-12-22 21:00:00,Toni Villa,Cross
+395050,68,MissedShots,0.7909999847412109,0.7340000152587891,0.060620926320552826,Roque Mesa,h,2356,DirectFreekick,2020,RightFoot,14924,Real Valladolid,Barcelona,0,3,2020-12-22 21:00:00,,Standard
+395051,71,SavedShot,0.830999984741211,0.534000015258789,0.05895141139626503,Fabián Orellana,h,2285,OpenPlay,2020,RightFoot,14924,Real Valladolid,Barcelona,0,3,2020-12-22 21:00:00,Toni Villa,Pass
+395052,71,SavedShot,0.8340000152587891,0.629000015258789,0.030075011774897575,Kike Pérez,h,8470,OpenPlay,2020,LeftFoot,14924,Real Valladolid,Barcelona,0,3,2020-12-22 21:00:00,,Rebound
+395054,82,MissedShots,0.8769999694824219,0.5940000152587891,0.07193616032600403,Sergi Guardiola,h,5212,OpenPlay,2020,LeftFoot,14924,Real Valladolid,Barcelona,0,3,2020-12-22 21:00:00,,Interception
+395055,87,MissedShots,0.8440000152587891,0.5220000076293946,0.05742303282022476,Roque Mesa,h,2356,OpenPlay,2020,RightFoot,14924,Real Valladolid,Barcelona,0,3,2020-12-22 21:00:00,,None
+395056,87,SavedShot,0.745,0.435,0.021275702863931656,Fabián Orellana,h,2285,OpenPlay,2020,LeftFoot,14924,Real Valladolid,Barcelona,0,3,2020-12-22 21:00:00,Pablo Hervías,Pass
+395030,6,MissedShots,0.8030000305175782,0.4929999923706055,0.04675625264644623,Lionel Messi,a,2097,OpenPlay,2020,LeftFoot,14924,Real Valladolid,Barcelona,0,3,2020-12-22 21:00:00,Frenkie de Jong,Pass
+395031,20,SavedShot,0.845999984741211,0.6229999923706054,0.05995713919401169,Lionel Messi,a,2097,OpenPlay,2020,LeftFoot,14924,Real Valladolid,Barcelona,0,3,2020-12-22 21:00:00,Pedri,Pass
+395032,20,Goal,0.924000015258789,0.5020000076293946,0.277931809425354,Clement Lenglet,a,5050,FromCorner,2020,Head,14924,Real Valladolid,Barcelona,0,3,2020-12-22 21:00:00,Lionel Messi,Chipped
+395033,22,BlockedShot,0.7269999694824218,0.34,0.02236592397093773,Lionel Messi,a,2097,OpenPlay,2020,LeftFoot,14924,Real Valladolid,Barcelona,0,3,2020-12-22 21:00:00,Miralem Pjanic,Pass
+395034,30,SavedShot,0.9180000305175782,0.46299999237060546,0.12396612763404846,Martin Braithwaite,a,3211,OpenPlay,2020,RightFoot,14924,Real Valladolid,Barcelona,0,3,2020-12-22 21:00:00,Sergiño Dest,Cross
+395035,34,Goal,0.9640000152587891,0.47900001525878905,0.620973527431488,Martin Braithwaite,a,3211,OpenPlay,2020,LeftFoot,14924,Real Valladolid,Barcelona,0,3,2020-12-22 21:00:00,Sergiño Dest,Cross
+395036,36,SavedShot,0.8859999847412109,0.3970000076293945,0.12466257065534592,Lionel Messi,a,2097,OpenPlay,2020,LeftFoot,14924,Real Valladolid,Barcelona,0,3,2020-12-22 21:00:00,Sergiño Dest,Pass
+395037,40,BlockedShot,0.815,0.4420000076293945,0.0563586950302124,Martin Braithwaite,a,3211,OpenPlay,2020,RightFoot,14924,Real Valladolid,Barcelona,0,3,2020-12-22 21:00:00,,None
+395038,43,BlockedShot,0.815,0.4779999923706055,0.08142882585525513,Miralem Pjanic,a,1290,OpenPlay,2020,RightFoot,14924,Real Valladolid,Barcelona,0,3,2020-12-22 21:00:00,Sergiño Dest,Pass
+395039,44,SavedShot,0.860999984741211,0.455,0.10743382573127747,Lionel Messi,a,2097,OpenPlay,2020,LeftFoot,14924,Real Valladolid,Barcelona,0,3,2020-12-22 21:00:00,Pedri,Chipped
+395040,46,BlockedShot,0.9180000305175782,0.6919999694824219,0.07340110093355179,Martin Braithwaite,a,3211,OpenPlay,2020,LeftFoot,14924,Real Valladolid,Barcelona,0,3,2020-12-22 21:00:00,Pedri,Pass
+395042,50,MissedShots,0.879000015258789,0.5420000076293945,0.3389222323894501,Martin Braithwaite,a,3211,OpenPlay,2020,RightFoot,14924,Real Valladolid,Barcelona,0,3,2020-12-22 21:00:00,Jordi Alba,Cross
+395044,55,BlockedShot,0.8859999847412109,0.6669999694824219,0.09582418203353882,Lionel Messi,a,2097,OpenPlay,2020,LeftFoot,14924,Real Valladolid,Barcelona,0,3,2020-12-22 21:00:00,Jordi Alba,Pass
+395046,57,SavedShot,0.88,0.6020000076293945,0.12585477530956268,Lionel Messi,a,2097,OpenPlay,2020,LeftFoot,14924,Real Valladolid,Barcelona,0,3,2020-12-22 21:00:00,Frenkie de Jong,Pass
+395047,58,MissedShots,0.835999984741211,0.37799999237060544,0.035173673182725906,Miralem Pjanic,a,1290,FromCorner,2020,RightFoot,14924,Real Valladolid,Barcelona,0,3,2020-12-22 21:00:00,Lionel Messi,Cross
+395049,64,Goal,0.9080000305175782,0.615,0.3357066810131073,Lionel Messi,a,2097,OpenPlay,2020,LeftFoot,14924,Real Valladolid,Barcelona,0,3,2020-12-22 21:00:00,Pedri,Pass
+395053,72,SavedShot,0.94,0.620999984741211,0.11910934001207352,Lionel Messi,a,2097,OpenPlay,2020,LeftFoot,14924,Real Valladolid,Barcelona,0,3,2020-12-22 21:00:00,Júnior Firpo,Pass
+395057,89,ShotOnPost,0.8290000152587891,0.585,0.08217670023441315,Philippe Coutinho,a,488,OpenPlay,2020,RightFoot,14924,Real Valladolid,Barcelona,0,3,2020-12-22 21:00:00,Lionel Messi,Pass
+395058,90,MissedShots,0.93,0.6909999847412109,0.09592820703983307,Martin Braithwaite,a,3211,OpenPlay,2020,LeftFoot,14924,Real Valladolid,Barcelona,0,3,2020-12-22 21:00:00,Sergio Busquets,Chipped
+395059,91,ShotOnPost,0.9519999694824218,0.6079999923706054,0.3700028359889984,Lionel Messi,a,2097,OpenPlay,2020,LeftFoot,14924,Real Valladolid,Barcelona,0,3,2020-12-22 21:00:00,Sergio Busquets,Pass
+395060,93,SavedShot,0.7709999847412109,0.49,0.044714149087667465,Lionel Messi,a,2097,OpenPlay,2020,LeftFoot,14924,Real Valladolid,Barcelona,0,3,2020-12-22 21:00:00,Sergiño Dest,Pass

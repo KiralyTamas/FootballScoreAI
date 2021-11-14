@@ -1,0 +1,23 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+167576,0,BlockedShot,0.7909999847412109,0.7069999694824218,0.02041572704911232,Maximilian Philipp,h,4247,OpenPlay,2017,RightFoot,8323,Borussia Dortmund,RasenBallsport Leipzig,2,3,2017-10-14 17:30:00,,BallRecovery
+167577,3,Goal,0.91,0.66,0.329470694065094,Pierre-Emerick Aubameyang,h,318,OpenPlay,2017,RightFoot,8323,Borussia Dortmund,RasenBallsport Leipzig,2,3,2017-10-14 17:30:00,,BallRecovery
+167580,12,SavedShot,0.9019999694824219,0.40599998474121096,0.11998201161623001,Pierre-Emerick Aubameyang,h,318,OpenPlay,2017,RightFoot,8323,Borussia Dortmund,RasenBallsport Leipzig,2,3,2017-10-14 17:30:00,Andriy Yarmolenko,Throughball
+167581,19,MissedShots,0.8159999847412109,0.47900001525878905,0.03592322766780853,Nuri Sahin,h,2642,OpenPlay,2017,LeftFoot,8323,Borussia Dortmund,RasenBallsport Leipzig,2,3,2017-10-14 17:30:00,Maximilian Philipp,HeadPass
+167585,39,MissedShots,0.8080000305175781,0.46299999237060546,0.053126562386751175,Andriy Yarmolenko,h,6274,OpenPlay,2017,LeftFoot,8323,Borussia Dortmund,RasenBallsport Leipzig,2,3,2017-10-14 17:30:00,Mario Götze,Pass
+167586,40,SavedShot,0.9030000305175782,0.5770000076293945,0.10926750302314758,Maximilian Philipp,h,4247,OpenPlay,2017,RightFoot,8323,Borussia Dortmund,RasenBallsport Leipzig,2,3,2017-10-14 17:30:00,Andriy Yarmolenko,Pass
+167588,54,MissedShots,0.92,0.49900001525878906,0.10763386636972427,Dan-Axel Zagadou,h,6103,FromCorner,2017,Head,8323,Borussia Dortmund,RasenBallsport Leipzig,2,3,2017-10-14 17:30:00,Gonzalo Castro,Cross
+167589,57,MissedShots,0.9180000305175782,0.4209999847412109,0.01996699720621109,Christian Pulisic,h,2662,FromCorner,2017,Head,8323,Borussia Dortmund,RasenBallsport Leipzig,2,3,2017-10-14 17:30:00,Gonzalo Castro,Aerial
+167590,59,BlockedShot,0.82,0.28299999237060547,0.025392277166247368,Julian Weigl,h,372,OpenPlay,2017,RightFoot,8323,Borussia Dortmund,RasenBallsport Leipzig,2,3,2017-10-14 17:30:00,Gonzalo Castro,Pass
+167591,63,Goal,0.885,0.5,0.75777667760849,Pierre-Emerick Aubameyang,h,318,Penalty,2017,RightFoot,8323,Borussia Dortmund,RasenBallsport Leipzig,2,3,2017-10-14 17:30:00,,Standard
+167593,73,SavedShot,0.754000015258789,0.549000015258789,0.02130436897277832,Gonzalo Castro,h,316,OpenPlay,2017,RightFoot,8323,Borussia Dortmund,RasenBallsport Leipzig,2,3,2017-10-14 17:30:00,Andriy Yarmolenko,Pass
+167594,78,SavedShot,0.8830000305175781,0.3370000076293945,0.058453258126974106,Pierre-Emerick Aubameyang,h,318,SetPiece,2017,RightFoot,8323,Borussia Dortmund,RasenBallsport Leipzig,2,3,2017-10-14 17:30:00,Gonzalo Castro,Chipped
+167595,83,SavedShot,0.9280000305175782,0.40599998474121096,0.08023259043693542,Andriy Yarmolenko,h,6274,SetPiece,2017,Head,8323,Borussia Dortmund,RasenBallsport Leipzig,2,3,2017-10-14 17:30:00,Gonzalo Castro,Cross
+167596,91,SavedShot,0.845999984741211,0.5540000152587891,0.058323007076978683,Pierre-Emerick Aubameyang,h,318,OpenPlay,2017,LeftFoot,8323,Borussia Dortmund,RasenBallsport Leipzig,2,3,2017-10-14 17:30:00,,None
+167597,91,MissedShots,0.8780000305175781,0.39599998474121095,0.33434805274009705,Andriy Yarmolenko,h,6274,OpenPlay,2017,LeftFoot,8323,Borussia Dortmund,RasenBallsport Leipzig,2,3,2017-10-14 17:30:00,,Rebound
+167578,7,SavedShot,0.8369999694824218,0.69,0.03553083911538124,Jean-Kevin Augustin,a,3299,OpenPlay,2017,RightFoot,8323,Borussia Dortmund,RasenBallsport Leipzig,2,3,2017-10-14 17:30:00,,TakeOn
+167579,9,Goal,0.955999984741211,0.509000015258789,0.547315239906311,Marcel Sabitzer,a,5248,SetPiece,2017,Head,8323,Borussia Dortmund,RasenBallsport Leipzig,2,3,2017-10-14 17:30:00,Marcel Halstenberg,HeadPass
+167582,24,Goal,0.975999984741211,0.524000015258789,0.856808602809906,Yussuf Poulsen,a,5250,OpenPlay,2017,LeftFoot,8323,Borussia Dortmund,RasenBallsport Leipzig,2,3,2017-10-14 17:30:00,Bruma,Pass
+167583,26,SavedShot,0.87,0.6969999694824218,0.0708363726735115,Bruma,a,2235,OpenPlay,2017,RightFoot,8323,Borussia Dortmund,RasenBallsport Leipzig,2,3,2017-10-14 17:30:00,Naby Keita,Pass
+167584,32,MissedShots,0.9230000305175782,0.47299999237060547,0.1081056222319603,Yussuf Poulsen,a,5250,FromCorner,2017,Head,8323,Borussia Dortmund,RasenBallsport Leipzig,2,3,2017-10-14 17:30:00,Kevin Kampl,Cross
+167587,48,Goal,0.885,0.5,0.75777667760849,Jean-Kevin Augustin,a,3299,Penalty,2017,RightFoot,8323,Borussia Dortmund,RasenBallsport Leipzig,2,3,2017-10-14 17:30:00,,Standard
+167592,65,SavedShot,0.7830000305175782,0.8109999847412109,0.014467349275946617,Marcel Halstenberg,a,5254,OpenPlay,2017,LeftFoot,8323,Borussia Dortmund,RasenBallsport Leipzig,2,3,2017-10-14 17:30:00,Kevin Kampl,Chipped

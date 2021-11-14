@@ -1,0 +1,41 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+257614,5,BlockedShot,0.7290000152587891,0.4520000076293945,0.05348748341202736,Kevin Möhwald,h,7044,DirectFreekick,2018,RightFoot,10474,Werder Bremen,Hoffenheim,1,1,2018-12-19 19:30:00,,Standard
+257615,5,MissedShots,0.725,0.38599998474121094,0.012089959345757961,Max Kruse,h,155,SetPiece,2018,LeftFoot,10474,Werder Bremen,Hoffenheim,1,1,2018-12-19 19:30:00,,Rebound
+257619,11,BlockedShot,0.7119999694824218,0.4929999923706055,0.01409825123846531,Maximilian Eggestein,h,125,OpenPlay,2018,LeftFoot,10474,Werder Bremen,Hoffenheim,1,1,2018-12-19 19:30:00,Davy Klaassen,Pass
+257620,11,MissedShots,0.9059999847412109,0.36700000762939455,0.3129359185695648,Yuya Osako,h,135,OpenPlay,2018,RightFoot,10474,Werder Bremen,Hoffenheim,1,1,2018-12-19 19:30:00,Kevin Möhwald,Pass
+257622,15,BlockedShot,0.9119999694824219,0.664000015258789,0.03643299639225006,Max Kruse,h,155,OpenPlay,2018,LeftFoot,10474,Werder Bremen,Hoffenheim,1,1,2018-12-19 19:30:00,Johannes Eggestein,Cross
+257624,24,SavedShot,0.92,0.18299999237060546,0.06813815981149673,Max Kruse,h,155,DirectFreekick,2018,LeftFoot,10474,Werder Bremen,Hoffenheim,1,1,2018-12-19 19:30:00,,Standard
+257625,24,BlockedShot,0.9069999694824219,0.355,0.03269539028406143,Ludwig Augustinsson,h,6083,SetPiece,2018,Head,10474,Werder Bremen,Hoffenheim,1,1,2018-12-19 19:30:00,Sebastian Langkamp,Chipped
+257627,27,MissedShots,0.885,0.3139999961853027,0.07865563780069351,Johannes Eggestein,h,6084,OpenPlay,2018,RightFoot,10474,Werder Bremen,Hoffenheim,1,1,2018-12-19 19:30:00,Niklas Moisander,Pass
+257633,45,MissedShots,0.8619999694824219,0.29700000762939455,0.03911636769771576,Theodor Gebre Selassie,h,110,OpenPlay,2018,RightFoot,10474,Werder Bremen,Hoffenheim,1,1,2018-12-19 19:30:00,Johannes Eggestein,Pass
+257631,46,ShotOnPost,0.9219999694824219,0.5570000076293945,0.2519678473472595,Theodor Gebre Selassie,h,110,OpenPlay,2018,Head,10474,Werder Bremen,Hoffenheim,1,1,2018-12-19 19:30:00,Johannes Eggestein,Cross
+257634,46,BlockedShot,0.8380000305175781,0.33599998474121096,0.06373301148414612,Yuya Osako,h,135,OpenPlay,2018,RightFoot,10474,Werder Bremen,Hoffenheim,1,1,2018-12-19 19:30:00,Johannes Eggestein,Pass
+257635,47,MissedShots,0.909000015258789,0.28700000762939454,0.03403225913643837,Sebastian Langkamp,h,21,FromCorner,2018,RightFoot,10474,Werder Bremen,Hoffenheim,1,1,2018-12-19 19:30:00,,None
+257636,47,BlockedShot,0.8180000305175781,0.4520000076293945,0.04020215943455696,Max Kruse,h,155,OpenPlay,2018,RightFoot,10474,Werder Bremen,Hoffenheim,1,1,2018-12-19 19:30:00,Theodor Gebre Selassie,HeadPass
+257637,48,MissedShots,0.9169999694824219,0.5109999847412109,0.04388649761676788,Theodor Gebre Selassie,h,110,FromCorner,2018,Head,10474,Werder Bremen,Hoffenheim,1,1,2018-12-19 19:30:00,Max Kruse,Aerial
+257638,49,MissedShots,0.9619999694824218,0.385,0.06839898973703384,Max Kruse,h,155,OpenPlay,2018,RightFoot,10474,Werder Bremen,Hoffenheim,1,1,2018-12-19 19:30:00,Ludwig Augustinsson,Cross
+257639,56,Goal,0.965999984741211,0.4179999923706055,0.26223132014274597,Theodor Gebre Selassie,h,110,OpenPlay,2018,Head,10474,Werder Bremen,Hoffenheim,1,1,2018-12-19 19:30:00,Ludwig Augustinsson,Cross
+257640,59,BlockedShot,0.8430000305175781,0.5329999923706055,0.04861370474100113,Johannes Eggestein,h,6084,OpenPlay,2018,LeftFoot,10474,Werder Bremen,Hoffenheim,1,1,2018-12-19 19:30:00,Max Kruse,Cross
+257642,62,BlockedShot,0.7859999847412109,0.3609999847412109,0.02764933370053768,Kevin Möhwald,h,7044,OpenPlay,2018,RightFoot,10474,Werder Bremen,Hoffenheim,1,1,2018-12-19 19:30:00,Max Kruse,Pass
+257643,73,BlockedShot,0.865999984741211,0.4470000076293945,0.10118404030799866,Johannes Eggestein,h,6084,OpenPlay,2018,RightFoot,10474,Werder Bremen,Hoffenheim,1,1,2018-12-19 19:30:00,Milot Rashica,Pass
+257644,73,SavedShot,0.7880000305175782,0.625,0.013610818423330784,Kevin Möhwald,h,7044,OpenPlay,2018,RightFoot,10474,Werder Bremen,Hoffenheim,1,1,2018-12-19 19:30:00,,Aerial
+257645,75,BlockedShot,0.8680000305175781,0.534000015258789,0.12560254335403442,Milot Rashica,h,6523,OpenPlay,2018,LeftFoot,10474,Werder Bremen,Hoffenheim,1,1,2018-12-19 19:30:00,,TakeOn
+257646,81,SavedShot,0.9159999847412109,0.6880000305175781,0.11202342808246613,Milot Rashica,h,6523,OpenPlay,2018,RightFoot,10474,Werder Bremen,Hoffenheim,1,1,2018-12-19 19:30:00,Niklas Moisander,Throughball
+257649,88,MissedShots,0.8719999694824219,0.5790000152587891,0.35630568861961365,Milot Rashica,h,6523,OpenPlay,2018,RightFoot,10474,Werder Bremen,Hoffenheim,1,1,2018-12-19 19:30:00,,None
+257650,91,SavedShot,0.9119999694824219,0.39599998474121095,0.11272358894348145,Milot Rashica,h,6523,OpenPlay,2018,RightFoot,10474,Werder Bremen,Hoffenheim,1,1,2018-12-19 19:30:00,Max Kruse,Pass
+257651,91,MissedShots,0.8519999694824218,0.485,0.07406152039766312,Kevin Möhwald,h,7044,OpenPlay,2018,RightFoot,10474,Werder Bremen,Hoffenheim,1,1,2018-12-19 19:30:00,,Rebound
+257653,93,MissedShots,0.7340000152587891,0.3609999847412109,0.017069011926651,Florian Kainz,h,5231,OpenPlay,2018,RightFoot,10474,Werder Bremen,Hoffenheim,1,1,2018-12-19 19:30:00,Max Kruse,Pass
+257616,9,BlockedShot,0.7619999694824219,0.42700000762939455,0.025176867842674255,Andrej Kramaric,a,956,OpenPlay,2018,LeftFoot,10474,Werder Bremen,Hoffenheim,1,1,2018-12-19 19:30:00,Joelinton,Pass
+257617,10,MissedShots,0.9219999694824219,0.5379999923706055,0.10087640583515167,Stefan Posch,a,5329,FromCorner,2018,Head,10474,Werder Bremen,Hoffenheim,1,1,2018-12-19 19:30:00,Kerem Demirbay,Cross
+257618,11,BlockedShot,0.8969999694824219,0.5279999923706055,0.3280258774757385,Andrej Kramaric,a,956,OpenPlay,2018,RightFoot,10474,Werder Bremen,Hoffenheim,1,1,2018-12-19 19:30:00,Joelinton,Cross
+257621,12,MissedShots,0.895,0.715,0.03872218355536461,Nico Schulz,a,433,OpenPlay,2018,LeftFoot,10474,Werder Bremen,Hoffenheim,1,1,2018-12-19 19:30:00,Leonardo Bittencourt,Chipped
+257623,17,MissedShots,0.7680000305175781,0.509000015258789,0.03841639682650566,Kerem Demirbay,a,5273,OpenPlay,2018,LeftFoot,10474,Werder Bremen,Hoffenheim,1,1,2018-12-19 19:30:00,,TakeOn
+257626,25,MissedShots,0.8830000305175781,0.42700000762939455,0.36637088656425476,Pavel Kaderábek,a,74,OpenPlay,2018,LeftFoot,10474,Werder Bremen,Hoffenheim,1,1,2018-12-19 19:30:00,,None
+257628,30,Goal,0.8919999694824219,0.5979999923706054,0.10519463568925858,Leonardo Bittencourt,a,262,OpenPlay,2018,RightFoot,10474,Werder Bremen,Hoffenheim,1,1,2018-12-19 19:30:00,Nico Schulz,Pass
+257629,45,SavedShot,0.784000015258789,0.4179999923706055,0.09559805691242218,Andrej Kramaric,a,956,DirectFreekick,2018,RightFoot,10474,Werder Bremen,Hoffenheim,1,1,2018-12-19 19:30:00,,Standard
+257630,45,MissedShots,0.965,0.669000015258789,0.051479045301675797,Pavel Kaderábek,a,74,SetPiece,2018,LeftFoot,10474,Werder Bremen,Hoffenheim,1,1,2018-12-19 19:30:00,,Rebound
+257632,47,MissedShots,0.8019999694824219,0.6669999694824219,0.05418938398361206,Kerem Demirbay,a,5273,OpenPlay,2018,LeftFoot,10474,Werder Bremen,Hoffenheim,1,1,2018-12-19 19:30:00,,TakeOn
+257641,60,BlockedShot,0.7619999694824219,0.52,0.024685829877853394,Ádám Szalai,a,360,OpenPlay,2018,RightFoot,10474,Werder Bremen,Hoffenheim,1,1,2018-12-19 19:30:00,,None
+257647,82,SavedShot,0.9590000152587891,0.47,0.6031758785247803,Andrej Kramaric,a,956,OpenPlay,2018,LeftFoot,10474,Werder Bremen,Hoffenheim,1,1,2018-12-19 19:30:00,Nico Schulz,Cross
+257648,84,SavedShot,0.9130000305175782,0.46799999237060547,0.035159360617399216,Benjamin Hübner,a,251,FromCorner,2018,Head,10474,Werder Bremen,Hoffenheim,1,1,2018-12-19 19:30:00,Kerem Demirbay,Aerial
+257652,91,BlockedShot,0.9280000305175782,0.5929999923706055,0.04439485818147659,Andrej Kramaric,a,956,OpenPlay,2018,Head,10474,Werder Bremen,Hoffenheim,1,1,2018-12-19 19:30:00,Reiss Nelson,Aerial

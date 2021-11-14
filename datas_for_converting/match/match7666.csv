@@ -1,0 +1,25 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+184901,1,BlockedShot,0.8690000152587891,0.32,0.04783622920513153,Alessandro Florenzi,h,1254,OpenPlay,2017,RightFoot,7666,Roma,Cagliari,1,0,2017-12-16 19:45:00,,None
+184902,6,BlockedShot,0.7559999847412109,0.3770000076293945,0.05866234749555588,Aleksandar Kolarov,h,621,DirectFreekick,2017,LeftFoot,7666,Roma,Cagliari,1,0,2017-12-16 19:45:00,,Standard
+184904,10,SavedShot,0.9430000305175781,0.715,0.05066044628620148,Aleksandar Kolarov,h,621,OpenPlay,2017,LeftFoot,7666,Roma,Cagliari,1,0,2017-12-16 19:45:00,Radja Nainggolan,Pass
+184905,13,MissedShots,0.9640000152587891,0.6,0.1264059692621231,Patrik Schick,h,1236,OpenPlay,2017,LeftFoot,7666,Roma,Cagliari,1,0,2017-12-16 19:45:00,Diego Perotti,Pass
+184907,21,BlockedShot,0.8080000305175781,0.48900001525878906,0.053895432502031326,Patrik Schick,h,1236,OpenPlay,2017,RightFoot,7666,Roma,Cagliari,1,0,2017-12-16 19:45:00,,BallRecovery
+184908,23,MissedShots,0.9390000152587891,0.43599998474121093,0.06548939645290375,Patrik Schick,h,1236,OpenPlay,2017,Head,7666,Roma,Cagliari,1,0,2017-12-16 19:45:00,Diego Perotti,Aerial
+184909,25,MissedShots,0.915,0.39799999237060546,0.03086865320801735,Patrik Schick,h,1236,OpenPlay,2017,Head,7666,Roma,Cagliari,1,0,2017-12-16 19:45:00,Alessandro Florenzi,Aerial
+184910,28,MissedShots,0.885,0.44299999237060544,0.01452435739338398,Edin Dzeko,h,1253,SetPiece,2017,Head,7666,Roma,Cagliari,1,0,2017-12-16 19:45:00,Alessandro Florenzi,Aerial
+184911,32,BlockedShot,0.805,0.6659999847412109,0.029144156724214554,Edin Dzeko,h,1253,OpenPlay,2017,LeftFoot,7666,Roma,Cagliari,1,0,2017-12-16 19:45:00,Lorenzo Pellegrini,Pass
+184912,33,MissedShots,0.785,0.5070000076293946,0.0356597937643528,Radja Nainggolan,h,1251,OpenPlay,2017,RightFoot,7666,Roma,Cagliari,1,0,2017-12-16 19:45:00,,None
+184913,34,SavedShot,0.815,0.49700000762939456,0.050057657063007355,Radja Nainggolan,h,1251,OpenPlay,2017,RightFoot,7666,Roma,Cagliari,1,0,2017-12-16 19:45:00,Diego Perotti,Pass
+184914,36,BlockedShot,0.7909999847412109,0.25,0.01713528484106064,Alessandro Florenzi,h,1254,OpenPlay,2017,RightFoot,7666,Roma,Cagliari,1,0,2017-12-16 19:45:00,Lorenzo Pellegrini,Pass
+184915,38,BlockedShot,0.825999984741211,0.6530000305175782,0.05187792703509331,Diego Perotti,h,1539,OpenPlay,2017,RightFoot,7666,Roma,Cagliari,1,0,2017-12-16 19:45:00,Kostas Manolas,TakeOn
+184916,38,BlockedShot,0.7340000152587891,0.5279999923706055,0.014344354160130024,Daniele De Rossi,h,1249,OpenPlay,2017,RightFoot,7666,Roma,Cagliari,1,0,2017-12-16 19:45:00,,Rebound
+184917,47,MissedShots,0.8130000305175781,0.47,0.05310319736599922,Radja Nainggolan,h,1251,OpenPlay,2017,RightFoot,7666,Roma,Cagliari,1,0,2017-12-16 19:45:00,Alessandro Florenzi,Pass
+184918,51,SavedShot,0.885,0.5,0.7612988352775574,Diego Perotti,h,1539,Penalty,2017,RightFoot,7666,Roma,Cagliari,1,0,2017-12-16 19:45:00,,Standard
+184919,60,BlockedShot,0.799000015258789,0.635,0.033605389297008514,Diego Perotti,h,1539,OpenPlay,2017,LeftFoot,7666,Roma,Cagliari,1,0,2017-12-16 19:45:00,Daniele De Rossi,Pass
+184920,64,SavedShot,0.9030000305175782,0.615999984741211,0.01934632658958435,Daniele De Rossi,h,1249,FromCorner,2017,Head,7666,Roma,Cagliari,1,0,2017-12-16 19:45:00,Aleksandar Kolarov,Cross
+184922,82,SavedShot,0.8580000305175781,0.6880000305175781,0.04607955738902092,Diego Perotti,h,1539,OpenPlay,2017,RightFoot,7666,Roma,Cagliari,1,0,2017-12-16 19:45:00,Alessandro Florenzi,Pass
+184923,86,MissedShots,0.745999984741211,0.515,0.021109018474817276,Cengiz Ünder,h,6162,OpenPlay,2017,LeftFoot,7666,Roma,Cagliari,1,0,2017-12-16 19:45:00,,BallTouch
+184924,93,Goal,0.9819999694824219,0.500999984741211,0.9229941964149475,Federico Fazio,h,1000,SetPiece,2017,LeftFoot,7666,Roma,Cagliari,1,0,2017-12-16 19:45:00,,None
+184903,6,MissedShots,0.735999984741211,0.41,0.02148810215294361,Nicolò Barella,a,1409,OpenPlay,2017,RightFoot,7666,Roma,Cagliari,1,0,2017-12-16 19:45:00,Artur Ionita,Pass
+184906,14,BlockedShot,0.759000015258789,0.6930000305175781,0.016316505149006844,João Pedro,a,1592,OpenPlay,2017,RightFoot,7666,Roma,Cagliari,1,0,2017-12-16 19:45:00,Simone Padoin,Pass
+184921,77,MissedShots,0.8630000305175781,0.5629999923706055,0.07261817902326584,Diego Farias,a,1605,OpenPlay,2017,RightFoot,7666,Roma,Cagliari,1,0,2017-12-16 19:45:00,,None

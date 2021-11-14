@@ -1,0 +1,31 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+57036,28,MissedShots,0.6890000152587891,0.5879999923706055,0.015684349462389946,Patrick van Aanholt,h,730,SetPiece,2015,LeftFoot,103,Sunderland,Swansea,1,1,2015-08-22 18:00:00,Yann M&#039;Vila,Pass
+57039,35,SavedShot,0.9019999694824219,0.5379999923706055,0.0843057632446289,Danny Graham,h,932,SetPiece,2015,RightFoot,103,Sunderland,Swansea,1,1,2015-08-22 18:00:00,Sebastián Coates,None
+57046,55,MissedShots,0.725,0.605999984741211,0.01774158515036106,Jack Rodwell,h,733,OpenPlay,2015,LeftFoot,103,Sunderland,Swansea,1,1,2015-08-22 18:00:00,Yann M&#039;Vila,Pass
+57049,61,Goal,0.855,0.45599998474121095,0.0721176341176033,Jermain Defoe,h,735,OpenPlay,2015,RightFoot,103,Sunderland,Swansea,1,1,2015-08-22 18:00:00,Jeremain Lens,Pass
+57050,65,BlockedShot,0.8159999847412109,0.48200000762939454,0.06555149704217911,Jack Rodwell,h,733,OpenPlay,2015,RightFoot,103,Sunderland,Swansea,1,1,2015-08-22 18:00:00,Billy Jones,Pass
+57055,75,MissedShots,0.8330000305175781,0.6990000152587891,0.038942594081163406,Jeremain Lens,h,781,OpenPlay,2015,RightFoot,103,Sunderland,Swansea,1,1,2015-08-22 18:00:00,Jack Rodwell,TakeOn
+57060,88,BlockedShot,0.7809999847412109,0.5720000076293945,0.0891643539071083,Jeremain Lens,h,781,DirectFreekick,2015,RightFoot,103,Sunderland,Swansea,1,1,2015-08-22 18:00:00,,Standard
+57061,88,MissedShots,0.7659999847412109,0.505,0.018174447119235992,Patrick van Aanholt,h,730,SetPiece,2015,RightFoot,103,Sunderland,Swansea,1,1,2015-08-22 18:00:00,,Rebound
+57063,90,MissedShots,0.9119999694824219,0.49700000762939456,0.0863543227314949,Sebastián Coates,h,927,FromCorner,2015,Head,103,Sunderland,Swansea,1,1,2015-08-22 18:00:00,Yann M&#039;Vila,Cross
+57064,94,BlockedShot,0.779000015258789,0.59,0.08300957083702087,Sebastian Larsson,h,740,DirectFreekick,2015,RightFoot,103,Sunderland,Swansea,1,1,2015-08-22 18:00:00,,Standard
+57035,13,MissedShots,0.725999984741211,0.40700000762939453,0.009727654047310352,André Ayew,a,713,OpenPlay,2015,LeftFoot,103,Sunderland,Swansea,1,1,2015-08-22 18:00:00,Kyle Naughton,TakeOn
+57037,29,SavedShot,0.7140000152587891,0.5529999923706055,0.010999176651239395,Bafétimbi Gomis,a,717,OpenPlay,2015,LeftFoot,103,Sunderland,Swansea,1,1,2015-08-22 18:00:00,Kyle Naughton,HeadPass
+57038,33,MissedShots,0.8,0.5820000076293945,0.04252420365810394,André Ayew,a,713,OpenPlay,2015,LeftFoot,103,Sunderland,Swansea,1,1,2015-08-22 18:00:00,Kyle Naughton,Pass
+57040,40,BlockedShot,0.904000015258789,0.509000015258789,0.10888765007257462,Gylfi Sigurdsson,a,714,OpenPlay,2015,LeftFoot,103,Sunderland,Swansea,1,1,2015-08-22 18:00:00,Bafétimbi Gomis,HeadPass
+57041,40,BlockedShot,0.8669999694824219,0.5579999923706055,0.07606291025876999,Bafétimbi Gomis,a,717,OpenPlay,2015,RightFoot,103,Sunderland,Swansea,1,1,2015-08-22 18:00:00,,Rebound
+57042,45,BlockedShot,0.8069999694824219,0.47900001525878905,0.05204734578728676,Jonjo Shelvey,a,769,OpenPlay,2015,RightFoot,103,Sunderland,Swansea,1,1,2015-08-22 18:00:00,Gylfi Sigurdsson,Pass
+57043,47,Goal,0.9019999694824219,0.3529999923706055,0.083126500248909,Bafétimbi Gomis,a,717,OpenPlay,2015,RightFoot,103,Sunderland,Swansea,1,1,2015-08-22 18:00:00,Kyle Naughton,Pass
+57044,50,ShotOnPost,0.9290000152587891,0.495,0.3410581946372986,André Ayew,a,713,FromCorner,2015,Head,103,Sunderland,Swansea,1,1,2015-08-22 18:00:00,Jonjo Shelvey,Cross
+57045,53,SavedShot,0.855999984741211,0.6659999847412109,0.06846775114536285,Jefferson Montero,a,715,OpenPlay,2015,RightFoot,103,Sunderland,Swansea,1,1,2015-08-22 18:00:00,Gylfi Sigurdsson,Pass
+57047,56,SavedShot,0.7340000152587891,0.5359999847412109,0.025016244500875473,Gylfi Sigurdsson,a,714,OpenPlay,2015,RightFoot,103,Sunderland,Swansea,1,1,2015-08-22 18:00:00,Jonjo Shelvey,Pass
+57048,59,MissedShots,0.905,0.48200000762939454,0.32389938831329346,André Ayew,a,713,OpenPlay,2015,Head,103,Sunderland,Swansea,1,1,2015-08-22 18:00:00,Jonjo Shelvey,Cross
+57051,67,SavedShot,0.774000015258789,0.6780000305175782,0.015474885702133179,Jonjo Shelvey,a,769,OpenPlay,2015,LeftFoot,103,Sunderland,Swansea,1,1,2015-08-22 18:00:00,Kyle Naughton,TakeOn
+57052,68,SavedShot,0.78,0.47200000762939454,0.03413437679409981,Gylfi Sigurdsson,a,714,OpenPlay,2015,LeftFoot,103,Sunderland,Swansea,1,1,2015-08-22 18:00:00,Neil Taylor,Pass
+57053,73,SavedShot,0.9330000305175781,0.500999984741211,0.1444871425628662,Bafétimbi Gomis,a,717,OpenPlay,2015,Head,103,Sunderland,Swansea,1,1,2015-08-22 18:00:00,Jefferson Montero,Cross
+57054,74,MissedShots,0.7330000305175781,0.35900001525878905,0.019786914810538292,Gylfi Sigurdsson,a,714,OpenPlay,2015,RightFoot,103,Sunderland,Swansea,1,1,2015-08-22 18:00:00,Jack Cork,Pass
+57056,79,BlockedShot,0.735999984741211,0.529000015258789,0.020519770681858063,Jonjo Shelvey,a,769,OpenPlay,2015,RightFoot,103,Sunderland,Swansea,1,1,2015-08-22 18:00:00,Gylfi Sigurdsson,Pass
+57057,79,BlockedShot,0.8830000305175781,0.700999984741211,0.050059713423252106,Jefferson Montero,a,715,OpenPlay,2015,RightFoot,103,Sunderland,Swansea,1,1,2015-08-22 18:00:00,André Ayew,BallTouch
+57058,82,SavedShot,0.855,0.47099998474121096,0.026353368535637856,André Ayew,a,713,SetPiece,2015,Head,103,Sunderland,Swansea,1,1,2015-08-22 18:00:00,Jonjo Shelvey,Cross
+57059,86,MissedShots,0.9419999694824219,0.445,0.07005134969949722,Federico Fernández,a,708,SetPiece,2015,Head,103,Sunderland,Swansea,1,1,2015-08-22 18:00:00,Jefferson Montero,Aerial
+57062,88,SavedShot,0.815,0.37900001525878907,0.04623646289110184,André Ayew,a,713,OpenPlay,2015,LeftFoot,103,Sunderland,Swansea,1,1,2015-08-22 18:00:00,Gylfi Sigurdsson,Pass

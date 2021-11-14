@@ -1,0 +1,29 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+410227,26,Goal,0.9290000152587891,0.48,0.4164420962333679,Musa Barrow,h,6512,OpenPlay,2020,Head,15692,Bologna,Sampdoria,3,1,2021-03-14 11:30:00,Rodrigo Palacio,Cross
+410230,40,Goal,0.8469999694824218,0.4909999847412109,0.322320818901062,Mattias Svanberg,h,6974,OpenPlay,2020,RightFoot,15692,Bologna,Sampdoria,3,1,2021-03-14 11:30:00,Musa Barrow,Pass
+410231,42,BlockedShot,0.7980000305175782,0.5990000152587891,0.043359797447919846,Mattias Svanberg,h,6974,OpenPlay,2020,RightFoot,15692,Bologna,Sampdoria,3,1,2021-03-14 11:30:00,Musa Barrow,Pass
+410235,56,BlockedShot,0.6890000152587891,0.325,0.029289234429597855,Andreas Skov Olsen,h,7934,DirectFreekick,2020,LeftFoot,15692,Bologna,Sampdoria,3,1,2021-03-14 11:30:00,,Standard
+410236,60,SavedShot,0.8809999847412109,0.5690000152587891,0.3108348250389099,Rodrigo Palacio,h,1518,OpenPlay,2020,RightFoot,15692,Bologna,Sampdoria,3,1,2021-03-14 11:30:00,Jerdy Schouten,Dispossessed
+410237,60,SavedShot,0.9009999847412109,0.47299999237060547,0.41759541630744934,Andreas Skov Olsen,h,7934,OpenPlay,2020,LeftFoot,15692,Bologna,Sampdoria,3,1,2021-03-14 11:30:00,,Rebound
+410239,69,Goal,0.8690000152587891,0.4979999923706055,0.5981113910675049,Roberto Soriano,h,1810,OpenPlay,2020,RightFoot,15692,Bologna,Sampdoria,3,1,2021-03-14 11:30:00,Mattias Svanberg,Throughball
+410241,74,BlockedShot,0.8959999847412109,0.47,0.14235909283161163,Mattias Svanberg,h,6974,OpenPlay,2020,RightFoot,15692,Bologna,Sampdoria,3,1,2021-03-14 11:30:00,Andreas Skov Olsen,Pass
+410244,85,BlockedShot,0.8830000305175781,0.28299999237060547,0.054788459092378616,Riccardo Orsolini,h,6160,OpenPlay,2020,LeftFoot,15692,Bologna,Sampdoria,3,1,2021-03-14 11:30:00,Roberto Soriano,Pass
+410248,91,SavedShot,0.8690000152587891,0.7080000305175781,0.06121845170855522,Nicola Sansone,h,1826,OpenPlay,2020,LeftFoot,15692,Bologna,Sampdoria,3,1,2021-03-14 11:30:00,Riccardo Orsolini,Pass
+410221,0,BlockedShot,0.9219999694824219,0.4,0.0924086794257164,Fabio Quagliarella,a,1230,OpenPlay,2020,RightFoot,15692,Bologna,Sampdoria,3,1,2021-03-14 11:30:00,Bartosz Bereszynski,Cross
+410222,3,ShotOnPost,0.8230000305175781,0.38799999237060545,0.051108356565237045,Morten Thorsby,a,7939,OpenPlay,2020,RightFoot,15692,Bologna,Sampdoria,3,1,2021-03-14 11:30:00,,BallRecovery
+410223,5,MissedShots,0.855,0.749000015258789,0.028734935447573662,Mikkel Damsgaard,a,8859,OpenPlay,2020,LeftFoot,15692,Bologna,Sampdoria,3,1,2021-03-14 11:30:00,Morten Thorsby,Pass
+410224,18,SavedShot,0.78,0.5179999923706055,0.0286187045276165,Mikkel Damsgaard,a,8859,OpenPlay,2020,RightFoot,15692,Bologna,Sampdoria,3,1,2021-03-14 11:30:00,Fabio Quagliarella,Pass
+410225,18,MissedShots,0.909000015258789,0.54,0.07042479515075684,Maya Yoshida,a,845,FromCorner,2020,Head,15692,Bologna,Sampdoria,3,1,2021-03-14 11:30:00,Antonio Candreva,Cross
+410226,20,MissedShots,0.7169999694824218,0.42700000762939455,0.04314277693629265,Antonio Candreva,a,1517,DirectFreekick,2020,RightFoot,15692,Bologna,Sampdoria,3,1,2021-03-14 11:30:00,,Standard
+410228,34,MissedShots,0.9009999847412109,0.49700000762939456,0.06603573262691498,Maya Yoshida,a,845,FromCorner,2020,Head,15692,Bologna,Sampdoria,3,1,2021-03-14 11:30:00,Antonio Candreva,Cross
+410229,36,Goal,0.909000015258789,0.525,0.3682939410209656,Fabio Quagliarella,a,1230,OpenPlay,2020,RightFoot,15692,Bologna,Sampdoria,3,1,2021-03-14 11:30:00,Tommaso Augello,Cross
+410232,49,MissedShots,0.8580000305175781,0.46900001525878904,0.0640331283211708,Fabio Quagliarella,a,1230,OpenPlay,2020,LeftFoot,15692,Bologna,Sampdoria,3,1,2021-03-14 11:30:00,,None
+410233,50,MissedShots,0.9069999694824219,0.5820000076293945,0.4163069427013397,Jakub Jankto,a,1146,OpenPlay,2020,RightFoot,15692,Bologna,Sampdoria,3,1,2021-03-14 11:30:00,Fabio Quagliarella,Pass
+410234,52,MissedShots,0.7219999694824218,0.595999984741211,0.01712525635957718,Mikkel Damsgaard,a,8859,SetPiece,2020,RightFoot,15692,Bologna,Sampdoria,3,1,2021-03-14 11:30:00,Antonio Candreva,Pass
+410238,64,BlockedShot,0.8430000305175781,0.28399999618530275,0.029777368530631065,Antonio Candreva,a,1517,OpenPlay,2020,LeftFoot,15692,Bologna,Sampdoria,3,1,2021-03-14 11:30:00,,None
+410240,72,BlockedShot,0.9640000152587891,0.2979999923706055,0.052644334733486176,Fabio Quagliarella,a,1230,OpenPlay,2020,RightFoot,15692,Bologna,Sampdoria,3,1,2021-03-14 11:30:00,Manolo Gabbiadini,Pass
+410242,78,SavedShot,0.7369999694824219,0.2,0.00757578806951642,Gastón Ramírez,a,952,OpenPlay,2020,LeftFoot,15692,Bologna,Sampdoria,3,1,2021-03-14 11:30:00,Mehdi Leris,Pass
+410243,81,SavedShot,0.9690000152587891,0.2929999923706055,0.05201813951134682,Mehdi Leris,a,6211,OpenPlay,2020,RightFoot,15692,Bologna,Sampdoria,3,1,2021-03-14 11:30:00,Gastón Ramírez,Pass
+410245,85,BlockedShot,0.9030000305175782,0.37900001525878907,0.05076128616929054,Fabio Quagliarella,a,1230,OpenPlay,2020,RightFoot,15692,Bologna,Sampdoria,3,1,2021-03-14 11:30:00,Morten Thorsby,Cross
+410246,85,BlockedShot,0.9069999694824219,0.49,0.10075509548187256,Manolo Gabbiadini,a,1383,OpenPlay,2020,RightFoot,15692,Bologna,Sampdoria,3,1,2021-03-14 11:30:00,Albin Ekdal,BallTouch
+410247,89,MissedShots,0.86,0.2979999923706055,0.028191005811095238,Mehdi Leris,a,6211,OpenPlay,2020,LeftFoot,15692,Bologna,Sampdoria,3,1,2021-03-14 11:30:00,,None

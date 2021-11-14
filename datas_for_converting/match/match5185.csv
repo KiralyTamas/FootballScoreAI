@@ -1,0 +1,29 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+30785,8,SavedShot,0.8519999694824218,0.4540000152587891,0.06985854357481003,Jonathan Schmid,h,81,OpenPlay,2014,LeftFoot,5185,Freiburg,Bayern Munich,2,1,2015-05-16 14:30:00,,None
+30787,22,MissedShots,0.8919999694824219,0.66,0.03721701353788376,Felix Klaus,h,350,FromCorner,2014,RightFoot,5185,Freiburg,Bayern Munich,2,1,2015-05-16 14:30:00,Jonathan Schmid,Cross
+30788,23,BlockedShot,0.8190000152587891,0.34200000762939453,0.03630783408880234,Felix Klaus,h,350,OpenPlay,2014,RightFoot,5185,Freiburg,Bayern Munich,2,1,2015-05-16 14:30:00,Admir Mehmedi,Pass
+30789,24,BlockedShot,0.8119999694824219,0.5320000076293945,0.04580891132354736,Felix Klaus,h,350,OpenPlay,2014,RightFoot,5185,Freiburg,Bayern Munich,2,1,2015-05-16 14:30:00,,None
+30792,28,MissedShots,0.764000015258789,0.5979999923706054,0.024780474603176117,Christian Günter,h,4243,OpenPlay,2014,RightFoot,5185,Freiburg,Bayern Munich,2,1,2015-05-16 14:30:00,Vladimir Darida,Pass
+30793,32,Goal,0.789000015258789,0.5379999923706055,0.044109079986810684,Admir Mehmedi,h,194,OpenPlay,2014,RightFoot,5185,Freiburg,Bayern Munich,2,1,2015-05-16 14:30:00,Felix Klaus,TakeOn
+30802,73,MissedShots,0.7880000305175782,0.4929999923706055,0.022365787997841835,Christian Günter,h,4243,OpenPlay,2014,RightFoot,5185,Freiburg,Bayern Munich,2,1,2015-05-16 14:30:00,Mensur Mujdza,Chipped
+30803,74,MissedShots,0.5940000152587891,0.5479999923706055,0.008456353098154068,Admir Mehmedi,h,194,OpenPlay,2014,RightFoot,5185,Freiburg,Bayern Munich,2,1,2015-05-16 14:30:00,,BallRecovery
+30809,88,Goal,0.899000015258789,0.534000015258789,0.36719459295272827,Nils Petersen,h,4248,OpenPlay,2014,LeftFoot,5185,Freiburg,Bayern Munich,2,1,2015-05-16 14:30:00,Karim Guédé,Pass
+30782,0,BlockedShot,0.845999984741211,0.66,0.04288565367460251,Mario Götze,a,422,OpenPlay,2014,RightFoot,5185,Freiburg,Bayern Munich,2,1,2015-05-16 14:30:00,Jérôme Boateng,Pass
+30783,2,SavedShot,0.8009999847412109,0.5670000076293945,0.04241889342665672,Mario Götze,a,422,OpenPlay,2014,RightFoot,5185,Freiburg,Bayern Munich,2,1,2015-05-16 14:30:00,,None
+30784,5,MissedShots,0.7619999694824219,0.295,0.019022591412067413,Rafinha,a,221,OpenPlay,2014,RightFoot,5185,Freiburg,Bayern Munich,2,1,2015-05-16 14:30:00,Sebastian Rode,Pass
+30786,12,Goal,0.935,0.53,0.5695241093635559,Bastian Schweinsteiger,a,907,OpenPlay,2014,RightFoot,5185,Freiburg,Bayern Munich,2,1,2015-05-16 14:30:00,Mitchell Weiser,Pass
+30790,26,BlockedShot,0.9169999694824219,0.38799999237060545,0.07727380841970444,Robert Lewandowski,a,227,SetPiece,2014,RightFoot,5185,Freiburg,Bayern Munich,2,1,2015-05-16 14:30:00,Xabi Alonso,Chipped
+30791,27,SavedShot,0.9059999847412109,0.49900001525878906,0.08071061223745346,Jérôme Boateng,a,220,FromCorner,2014,Head,5185,Freiburg,Bayern Munich,2,1,2015-05-16 14:30:00,Xabi Alonso,Cross
+30794,47,MissedShots,0.7090000152587891,0.5179999923706055,0.04416060820221901,Xabi Alonso,a,230,DirectFreekick,2014,RightFoot,5185,Freiburg,Bayern Munich,2,1,2015-05-16 14:30:00,,Standard
+30795,50,SavedShot,0.9340000152587891,0.575,0.23671580851078033,Mario Götze,a,422,SetPiece,2014,Head,5185,Freiburg,Bayern Munich,2,1,2015-05-16 14:30:00,Xabi Alonso,Cross
+30796,53,BlockedShot,0.7819999694824219,0.6020000076293945,0.030557168647646904,Bastian Schweinsteiger,a,907,OpenPlay,2014,LeftFoot,5185,Freiburg,Bayern Munich,2,1,2015-05-16 14:30:00,Xabi Alonso,Pass
+30797,60,BlockedShot,0.735999984741211,0.5309999847412109,0.05854571983218193,Xabi Alonso,a,230,DirectFreekick,2014,RightFoot,5185,Freiburg,Bayern Munich,2,1,2015-05-16 14:30:00,,Standard
+30798,62,MissedShots,0.9590000152587891,0.6040000152587891,0.037395376712083817,Robert Lewandowski,a,227,FromCorner,2014,OtherBodyPart,5185,Freiburg,Bayern Munich,2,1,2015-05-16 14:30:00,Mario Götze,Aerial
+30799,67,MissedShots,0.8690000152587891,0.5670000076293945,0.012794279493391514,Thomas Müller,a,224,FromCorner,2014,Head,5185,Freiburg,Bayern Munich,2,1,2015-05-16 14:30:00,Mario Götze,Aerial
+30800,68,ShotOnPost,0.845,0.835999984741211,0.04713277146220207,Bastian Schweinsteiger,a,907,DirectFreekick,2014,RightFoot,5185,Freiburg,Bayern Munich,2,1,2015-05-16 14:30:00,,Standard
+30801,69,MissedShots,0.775,0.6270000076293946,0.023895207792520523,Bastian Schweinsteiger,a,907,OpenPlay,2014,LeftFoot,5185,Freiburg,Bayern Munich,2,1,2015-05-16 14:30:00,,None
+30804,77,MissedShots,0.9059999847412109,0.495,0.478242427110672,Mario Götze,a,422,OpenPlay,2014,RightFoot,5185,Freiburg,Bayern Munich,2,1,2015-05-16 14:30:00,Robert Lewandowski,Pass
+30805,82,SavedShot,0.740999984741211,0.6469999694824219,0.02675861120223999,Juan Bernat,a,414,FromCorner,2014,LeftFoot,5185,Freiburg,Bayern Munich,2,1,2015-05-16 14:30:00,Rafinha,Pass
+30806,83,MissedShots,0.769000015258789,0.3340000152587891,0.024014538154006004,Mitchell Weiser,a,28,OpenPlay,2014,RightFoot,5185,Freiburg,Bayern Munich,2,1,2015-05-16 14:30:00,Thiago Alcántara,Pass
+30807,84,SavedShot,0.8030000305175782,0.4909999847412109,0.04633302241563797,Thiago Alcántara,a,229,OpenPlay,2014,RightFoot,5185,Freiburg,Bayern Munich,2,1,2015-05-16 14:30:00,,None
+30808,85,BlockedShot,0.7680000305175781,0.48900001525878906,0.02125789038836956,Thomas Müller,a,224,FromCorner,2014,RightFoot,5185,Freiburg,Bayern Munich,2,1,2015-05-16 14:30:00,,None

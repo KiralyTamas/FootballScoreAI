@@ -1,0 +1,26 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+357935,9,BlockedShot,0.8669999694824219,0.46299999237060546,0.11610850691795349,Davie Selke,h,4280,OpenPlay,2019,LeftFoot,12588,Werder Bremen,Union Berlin,0,2,2020-02-08 14:30:00,Maximilian Eggestein,TakeOn
+357936,13,MissedShots,0.7440000152587891,0.4420000076293945,0.016660304740071297,Ömer Toprak,h,184,OpenPlay,2019,LeftFoot,12588,Werder Bremen,Union Berlin,0,2,2020-02-08 14:30:00,,None
+357939,26,MissedShots,0.9230000305175782,0.44099998474121094,0.13734932243824005,Maximilian Eggestein,h,125,OpenPlay,2019,RightFoot,12588,Werder Bremen,Union Berlin,0,2,2020-02-08 14:30:00,Leonardo Bittencourt,Pass
+357940,35,BlockedShot,0.825999984741211,0.44299999237060544,0.06276717036962509,Maximilian Eggestein,h,125,OpenPlay,2019,LeftFoot,12588,Werder Bremen,Union Berlin,0,2,2020-02-08 14:30:00,Leonardo Bittencourt,Pass
+357942,43,MissedShots,0.8519999694824218,0.664000015258789,0.052664753049612045,Marco Friedl,h,5340,OpenPlay,2019,LeftFoot,12588,Werder Bremen,Union Berlin,0,2,2020-02-08 14:30:00,Yuya Osako,Chipped
+357945,54,SavedShot,0.92,0.47,0.4884182810783386,Yuya Osako,h,135,SetPiece,2019,LeftFoot,12588,Werder Bremen,Union Berlin,0,2,2020-02-08 14:30:00,Kevin Vogt,HeadPass
+357946,58,SavedShot,0.9490000152587891,0.3160000038146973,0.05693622678518295,Davie Selke,h,4280,OpenPlay,2019,RightFoot,12588,Werder Bremen,Union Berlin,0,2,2020-02-08 14:30:00,Maximilian Eggestein,HeadPass
+357947,60,SavedShot,0.7930000305175782,0.39799999237060546,0.032134704291820526,Leonardo Bittencourt,h,262,OpenPlay,2019,LeftFoot,12588,Werder Bremen,Union Berlin,0,2,2020-02-08 14:30:00,Yuya Osako,Pass
+357950,67,MissedShots,0.9440000152587891,0.33,0.06013447046279907,Davie Selke,h,4280,OpenPlay,2019,RightFoot,12588,Werder Bremen,Union Berlin,0,2,2020-02-08 14:30:00,Yuya Osako,HeadPass
+357951,69,MissedShots,0.87,0.500999984741211,0.06544329971075058,Yuya Osako,h,135,OpenPlay,2019,RightFoot,12588,Werder Bremen,Union Berlin,0,2,2020-02-08 14:30:00,Joshua Sargent,Cross
+357954,73,MissedShots,0.8519999694824218,0.3820000076293945,0.07008916884660721,Joshua Sargent,h,7295,OpenPlay,2019,LeftFoot,12588,Werder Bremen,Union Berlin,0,2,2020-02-08 14:30:00,Davy Klaassen,Pass
+357955,75,MissedShots,0.7680000305175781,0.46900001525878904,0.023629499599337578,Milot Rashica,h,6523,SetPiece,2019,RightFoot,12588,Werder Bremen,Union Berlin,0,2,2020-02-08 14:30:00,Yuya Osako,BallTouch
+357956,87,MissedShots,0.8280000305175781,0.3160000038146973,0.025876743718981743,Leonardo Bittencourt,h,262,OpenPlay,2019,LeftFoot,12588,Werder Bremen,Union Berlin,0,2,2020-02-08 14:30:00,Niklas Moisander,Chipped
+357959,92,BlockedShot,0.8519999694824218,0.5029999923706054,0.04092640057206154,Joshua Sargent,h,7295,OpenPlay,2019,RightFoot,12588,Werder Bremen,Union Berlin,0,2,2020-02-08 14:30:00,,Aerial
+357937,14,MissedShots,0.8969999694824219,0.38599998474121094,0.30955377221107483,Yunus Malli,a,45,OpenPlay,2019,LeftFoot,12588,Werder Bremen,Union Berlin,0,2,2020-02-08 14:30:00,Marius Bülter,Pass
+357938,19,BlockedShot,0.9280000305175782,0.3390000152587891,0.08076120913028717,Sebastian Andersson,a,7880,OpenPlay,2019,RightFoot,12588,Werder Bremen,Union Berlin,0,2,2020-02-08 14:30:00,Marius Bülter,Pass
+357941,42,MissedShots,0.7680000305175781,0.75,0.01676044426858425,Christian Gentner,a,60,OpenPlay,2019,RightFoot,12588,Werder Bremen,Union Berlin,0,2,2020-02-08 14:30:00,Marius Bülter,Pass
+357943,49,SavedShot,0.899000015258789,0.4929999923706055,0.11003901064395905,Sebastian Andersson,a,7880,OpenPlay,2019,Head,12588,Werder Bremen,Union Berlin,0,2,2020-02-08 14:30:00,Christian Gentner,Cross
+357944,51,Goal,0.925,0.509000015258789,0.644887387752533,Marius Bülter,a,7879,OpenPlay,2019,RightFoot,12588,Werder Bremen,Union Berlin,0,2,2020-02-08 14:30:00,Christopher Lenz,Pass
+357948,65,MissedShots,0.8159999847412109,0.735,0.030094560235738754,Christopher Lenz,a,7876,OpenPlay,2019,RightFoot,12588,Werder Bremen,Union Berlin,0,2,2020-02-08 14:30:00,Robert Andrich,Pass
+357949,65,SavedShot,0.975999984741211,0.59,0.06678526103496552,Florian Hübner,a,6097,FromCorner,2019,Head,12588,Werder Bremen,Union Berlin,0,2,2020-02-08 14:30:00,Christopher Trimmel,Cross
+357952,71,SavedShot,0.9530000305175781,0.5320000076293945,0.6214414238929749,Sebastian Andersson,a,7880,OpenPlay,2019,RightFoot,12588,Werder Bremen,Union Berlin,0,2,2020-02-08 14:30:00,Marius Bülter,Cross
+357953,71,Goal,0.9569999694824218,0.720999984741211,0.2766910791397095,Marius Bülter,a,7879,OpenPlay,2019,RightFoot,12588,Werder Bremen,Union Berlin,0,2,2020-02-08 14:30:00,,Rebound
+357957,89,BlockedShot,0.9330000305175781,0.40400001525878904,0.1352640986442566,Sebastian Andersson,a,7880,OpenPlay,2019,RightFoot,12588,Werder Bremen,Union Berlin,0,2,2020-02-08 14:30:00,Julian Ryerson,Cross
+357958,90,BlockedShot,0.874000015258789,0.3820000076293945,0.13762804865837097,Sebastian Andersson,a,7880,OpenPlay,2019,RightFoot,12588,Werder Bremen,Union Berlin,0,2,2020-02-08 14:30:00,Rafal Gikiewicz,Pass

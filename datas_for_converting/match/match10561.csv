@@ -1,0 +1,29 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+285281,6,SavedShot,0.895,0.605,0.03533754497766495,Marvin Bakalorz,h,4266,SetPiece,2018,LeftFoot,10561,Hannover 96,Bayer Leverkusen,2,3,2019-03-10 17:00:00,Pirmin Schwegler,Cross
+285288,32,BlockedShot,0.875,0.34799999237060547,0.18161541223526,Genki Haraguchi,h,35,OpenPlay,2018,RightFoot,10561,Hannover 96,Bayer Leverkusen,2,3,2019-03-10 17:00:00,Michael Esser,Pass
+285289,45,SavedShot,0.7859999847412109,0.615,0.021626990288496017,Walace,h,5226,OpenPlay,2018,RightFoot,10561,Hannover 96,Bayer Leverkusen,2,3,2019-03-10 17:00:00,,None
+285293,49,BlockedShot,0.885,0.6480000305175782,0.105854831635952,Hendrik Weydandt,h,7046,OpenPlay,2018,LeftFoot,10561,Hannover 96,Bayer Leverkusen,2,3,2019-03-10 17:00:00,,TakeOn
+285294,50,Goal,0.8809999847412109,0.45099998474121095,0.03426240757107735,Jonathas,h,2480,OpenPlay,2018,Head,10561,Hannover 96,Bayer Leverkusen,2,3,2019-03-10 17:00:00,Genki Haraguchi,Aerial
+285295,62,MissedShots,0.8909999847412109,0.525,0.024573085829615593,Hendrik Weydandt,h,7046,SetPiece,2018,Head,10561,Hannover 96,Bayer Leverkusen,2,3,2019-03-10 17:00:00,Pirmin Schwegler,Aerial
+285296,66,BlockedShot,0.8569999694824219,0.5970000076293945,0.057125575840473175,Linton Maina,h,6638,OpenPlay,2018,LeftFoot,10561,Hannover 96,Bayer Leverkusen,2,3,2019-03-10 17:00:00,,None
+285298,72,SavedShot,0.9380000305175781,0.41900001525878905,0.04846429452300072,Hendrik Weydandt,h,7046,SetPiece,2018,Head,10561,Hannover 96,Bayer Leverkusen,2,3,2019-03-10 17:00:00,Miiko Albornoz,Aerial
+285300,75,BlockedShot,0.855999984741211,0.534000015258789,0.08348734676837921,Florent Muslija,h,7164,OpenPlay,2018,RightFoot,10561,Hannover 96,Bayer Leverkusen,2,3,2019-03-10 17:00:00,,BallTouch
+285305,85,MissedShots,0.9180000305175782,0.45799999237060546,0.0374910943210125,Hendrik Weydandt,h,7046,FromCorner,2018,Head,10561,Hannover 96,Bayer Leverkusen,2,3,2019-03-10 17:00:00,Pirmin Schwegler,Aerial
+285307,90,BlockedShot,0.8490000152587891,0.35200000762939454,0.04299722611904144,Waldemar Anton,h,106,SetPiece,2018,RightFoot,10561,Hannover 96,Bayer Leverkusen,2,3,2019-03-10 17:00:00,,None
+285280,4,MissedShots,0.5540000152587891,0.7380000305175781,0.007680036127567291,Leon Bailey,a,5221,OpenPlay,2018,LeftFoot,10561,Hannover 96,Bayer Leverkusen,2,3,2019-03-10 17:00:00,Aleksandar Dragovic,Pass
+285282,12,SavedShot,0.9180000305175782,0.5970000076293945,0.4002082645893097,Julian Brandt,a,261,OpenPlay,2018,LeftFoot,10561,Hannover 96,Bayer Leverkusen,2,3,2019-03-10 17:00:00,Leon Bailey,Pass
+285283,12,Goal,0.985,0.47200000762939454,0.9558153748512268,Kevin Volland,a,83,OpenPlay,2018,LeftFoot,10561,Hannover 96,Bayer Leverkusen,2,3,2019-03-10 17:00:00,,Rebound
+285284,20,MissedShots,0.860999984741211,0.35700000762939454,0.0782821923494339,Julian Brandt,a,261,OpenPlay,2018,RightFoot,10561,Hannover 96,Bayer Leverkusen,2,3,2019-03-10 17:00:00,Kevin Volland,BallTouch
+285285,20,MissedShots,0.98,0.2979999923706055,0.048967164009809494,Kevin Volland,a,83,OpenPlay,2018,RightFoot,10561,Hannover 96,Bayer Leverkusen,2,3,2019-03-10 17:00:00,Leon Bailey,Chipped
+285286,26,BlockedShot,0.865999984741211,0.6090000152587891,0.0854329839348793,Kai Havertz,a,5220,OpenPlay,2018,LeftFoot,10561,Hannover 96,Bayer Leverkusen,2,3,2019-03-10 17:00:00,,None
+285287,27,Goal,0.8540000152587891,0.5720000076293945,0.3573140501976013,Kevin Volland,a,83,OpenPlay,2018,LeftFoot,10561,Hannover 96,Bayer Leverkusen,2,3,2019-03-10 17:00:00,Julian Brandt,Throughball
+285290,46,MissedShots,0.9130000305175782,0.5929999923706055,0.4346708357334137,Kevin Volland,a,83,OpenPlay,2018,LeftFoot,10561,Hannover 96,Bayer Leverkusen,2,3,2019-03-10 17:00:00,Leon Bailey,Pass
+285291,46,BlockedShot,0.8469999694824218,0.6459999847412109,0.07519455254077911,Tin Jedvaj,a,417,OpenPlay,2018,LeftFoot,10561,Hannover 96,Bayer Leverkusen,2,3,2019-03-10 17:00:00,Julian Brandt,Pass
+285292,47,BlockedShot,0.7569999694824219,0.6140000152587891,0.019684312865138054,Julian Brandt,a,261,FromCorner,2018,LeftFoot,10561,Hannover 96,Bayer Leverkusen,2,3,2019-03-10 17:00:00,,CornerAwarded
+285297,69,MissedShots,0.7859999847412109,0.42200000762939455,0.024118397384881973,Dominik Kohr,a,269,FromCorner,2018,RightFoot,10561,Hannover 96,Bayer Leverkusen,2,3,2019-03-10 17:00:00,,None
+285299,72,OwnGoal,0.022999999523162843,0.485,0,Mitchell Weiser,a,28,SetPiece,2018,RightFoot,10561,Hannover 96,Bayer Leverkusen,2,3,2019-03-10 17:00:00,,Save
+285301,78,SavedShot,0.8040000152587891,0.2620000076293945,0.022617585957050323,Karim Bellarabi,a,186,OpenPlay,2018,RightFoot,10561,Hannover 96,Bayer Leverkusen,2,3,2019-03-10 17:00:00,Tin Jedvaj,Pass
+285302,81,MissedShots,0.91,0.7119999694824218,0.20252977311611176,Kai Havertz,a,5220,OpenPlay,2018,LeftFoot,10561,Hannover 96,Bayer Leverkusen,2,3,2019-03-10 17:00:00,Julian Baumgartlinger,Pass
+285303,82,BlockedShot,0.7819999694824219,0.34200000762939453,0.02399623766541481,Julian Baumgartlinger,a,42,OpenPlay,2018,RightFoot,10561,Hannover 96,Bayer Leverkusen,2,3,2019-03-10 17:00:00,Karim Bellarabi,Pass
+285304,83,MissedShots,0.9430000305175781,0.33,0.055690594017505646,Karim Bellarabi,a,186,OpenPlay,2018,RightFoot,10561,Hannover 96,Bayer Leverkusen,2,3,2019-03-10 17:00:00,Julian Brandt,Chipped
+285306,86,Goal,0.8809999847412109,0.5879999923706055,0.032387569546699524,Kai Havertz,a,5220,OpenPlay,2018,Head,10561,Hannover 96,Bayer Leverkusen,2,3,2019-03-10 17:00:00,Julian Brandt,Chipped

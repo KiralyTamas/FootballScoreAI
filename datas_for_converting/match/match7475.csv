@@ -1,0 +1,29 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+211730,13,BlockedShot,0.85,0.5520000076293945,0.08498040586709976,Ryan Bertrand,h,835,OpenPlay,2017,RightFoot,7475,Southampton,Bournemouth,2,1,2018-04-28 14:00:00,Dusan Tadic,Pass
+211731,13,BlockedShot,0.87,0.615,0.10565274208784103,Oriol Romeu,h,842,OpenPlay,2017,LeftFoot,7475,Southampton,Bournemouth,2,1,2018-04-28 14:00:00,,TakeOn
+211732,24,Goal,0.88,0.5920000076293945,0.39847898483276367,Dusan Tadic,h,840,OpenPlay,2017,LeftFoot,7475,Southampton,Bournemouth,2,1,2018-04-28 14:00:00,Mario Lemina,Pass
+211733,29,SavedShot,0.8480000305175781,0.17899999618530274,0.024257607758045197,Charlie Austin,h,848,OpenPlay,2017,RightFoot,7475,Southampton,Bournemouth,2,1,2018-04-28 14:00:00,Nathan Redmond,Pass
+211734,31,MissedShots,0.7930000305175782,0.7340000152587891,0.024925891309976578,Mario Lemina,h,1299,OpenPlay,2017,RightFoot,7475,Southampton,Bournemouth,2,1,2018-04-28 14:00:00,,BallRecovery
+211735,31,SavedShot,0.7419999694824219,0.47,0.0272581335157156,Mario Lemina,h,1299,OpenPlay,2017,RightFoot,7475,Southampton,Bournemouth,2,1,2018-04-28 14:00:00,,BallTouch
+211737,38,MissedShots,0.7859999847412109,0.5220000076293946,0.024914242327213287,Nathan Redmond,h,790,FromCorner,2017,LeftFoot,7475,Southampton,Bournemouth,2,1,2018-04-28 14:00:00,,None
+211742,51,BlockedShot,0.8519999694824218,0.595999984741211,0.07414920628070831,Mario Lemina,h,1299,OpenPlay,2017,LeftFoot,7475,Southampton,Bournemouth,2,1,2018-04-28 14:00:00,Dusan Tadic,Pass
+211743,51,BlockedShot,0.7130000305175781,0.5840000152587891,0.01110380794852972,Nathan Redmond,h,790,OpenPlay,2017,RightFoot,7475,Southampton,Bournemouth,2,1,2018-04-28 14:00:00,,Rebound
+211744,53,Goal,0.86,0.42700000762939455,0.07857812941074371,Dusan Tadic,h,840,OpenPlay,2017,LeftFoot,7475,Southampton,Bournemouth,2,1,2018-04-28 14:00:00,,BallRecovery
+211747,67,MissedShots,0.815,0.37099998474121093,0.05389222875237465,Charlie Austin,h,848,OpenPlay,2017,LeftFoot,7475,Southampton,Bournemouth,2,1,2018-04-28 14:00:00,Dusan Tadic,Pass
+211748,67,SavedShot,0.8969999694824219,0.5309999847412109,0.440438836812973,Shane Long,h,839,OpenPlay,2017,LeftFoot,7475,Southampton,Bournemouth,2,1,2018-04-28 14:00:00,Charlie Austin,Foul
+211749,69,SavedShot,0.8690000152587891,0.64,0.2992066442966461,Ryan Bertrand,h,835,OpenPlay,2017,LeftFoot,7475,Southampton,Bournemouth,2,1,2018-04-28 14:00:00,Dusan Tadic,Chipped
+211750,70,MissedShots,0.96,0.3139999961853027,0.0788237452507019,Charlie Austin,h,848,OpenPlay,2017,RightFoot,7475,Southampton,Bournemouth,2,1,2018-04-28 14:00:00,Dusan Tadic,Pass
+211736,36,MissedShots,0.7569999694824219,0.36400001525878906,0.010843460448086262,Ryan Fraser,a,1683,OpenPlay,2017,RightFoot,7475,Southampton,Bournemouth,2,1,2018-04-28 14:00:00,,Aerial
+211738,43,MissedShots,0.7269999694824218,0.32,0.013196844607591629,Lys Mousset,a,1748,SetPiece,2017,RightFoot,7475,Southampton,Bournemouth,2,1,2018-04-28 14:00:00,Joshua King,Pass
+211739,43,SavedShot,0.9009999847412109,0.4540000152587891,0.4392152726650238,Nathan Aké,a,579,SetPiece,2017,RightFoot,7475,Southampton,Bournemouth,2,1,2018-04-28 14:00:00,Lys Mousset,Rebound
+211740,45,Goal,0.9640000152587891,0.5970000076293945,0.2589688003063202,Joshua King,a,465,FromCorner,2017,LeftFoot,7475,Southampton,Bournemouth,2,1,2018-04-28 14:00:00,Simon Francis,BallTouch
+211741,50,SavedShot,0.700999984741211,0.4620000076293945,0.01349502895027399,Lewis Cook,a,1789,OpenPlay,2017,RightFoot,7475,Southampton,Bournemouth,2,1,2018-04-28 14:00:00,Lys Mousset,Pass
+211745,56,SavedShot,0.764000015258789,0.6580000305175782,0.025866854935884476,Lys Mousset,a,1748,OpenPlay,2017,RightFoot,7475,Southampton,Bournemouth,2,1,2018-04-28 14:00:00,,TakeOn
+211746,61,SavedShot,0.9459999847412109,0.27600000381469725,0.051960498094558716,Joshua King,a,465,OpenPlay,2017,RightFoot,7475,Southampton,Bournemouth,2,1,2018-04-28 14:00:00,Ryan Fraser,TakeOn
+211751,85,MissedShots,0.749000015258789,0.5359999847412109,0.020619018003344536,Andrew Surman,a,460,OpenPlay,2017,LeftFoot,7475,Southampton,Bournemouth,2,1,2018-04-28 14:00:00,Charlie Daniels,Pass
+211752,88,MissedShots,0.7440000152587891,0.36,0.010272030718624592,Andrew Surman,a,460,OpenPlay,2017,LeftFoot,7475,Southampton,Bournemouth,2,1,2018-04-28 14:00:00,,Aerial
+211753,89,SavedShot,0.9280000305175782,0.6819999694824219,0.06579717993736267,Ryan Fraser,a,1683,OpenPlay,2017,LeftFoot,7475,Southampton,Bournemouth,2,1,2018-04-28 14:00:00,Jermain Defoe,Pass
+211754,89,BlockedShot,0.7390000152587891,0.6359999847412109,0.017488133162260056,Andrew Surman,a,460,OpenPlay,2017,LeftFoot,7475,Southampton,Bournemouth,2,1,2018-04-28 14:00:00,,Rebound
+211755,90,MissedShots,0.8859999847412109,0.740999984741211,0.033099520951509476,Joshua King,a,465,OpenPlay,2017,RightFoot,7475,Southampton,Bournemouth,2,1,2018-04-28 14:00:00,Andrew Surman,Pass
+211756,92,BlockedShot,0.725999984741211,0.549000015258789,0.015995854511857033,Simon Francis,a,456,SetPiece,2017,RightFoot,7475,Southampton,Bournemouth,2,1,2018-04-28 14:00:00,Ryan Fraser,Pass
+211757,93,SavedShot,0.8780000305175781,0.6990000152587891,0.04754260927438736,Ryan Fraser,a,1683,OpenPlay,2017,LeftFoot,7475,Southampton,Bournemouth,2,1,2018-04-28 14:00:00,Andrew Surman,Pass

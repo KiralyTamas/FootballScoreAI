@@ -1,0 +1,31 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+13261,9,MissedShots,0.8590000152587891,0.6709999847412109,0.03130917251110077,Ricardo Laborde,h,2927,FromCorner,2014,LeftFoot,6247,FC Krasnodar,Torpedo Moscow,2,2,2015-05-17 16:30:00,,None
+13262,11,MissedShots,0.9540000152587891,0.41400001525878904,0.10901894420385361,Aleksandr Martynovich,h,2790,FromCorner,2014,RightFoot,6247,FC Krasnodar,Torpedo Moscow,2,2,2015-05-17 16:30:00,Andreas Granqvist,HeadPass
+13264,18,SavedShot,0.9380000305175781,0.69,0.1204584613442421,Wanderson,h,2926,OpenPlay,2014,LeftFoot,6247,FC Krasnodar,Torpedo Moscow,2,2,2015-05-17 16:30:00,Roman Shirokov,Throughball
+13266,21,BlockedShot,0.81,0.32299999237060545,0.02806655503809452,Roman Shirokov,h,2891,OpenPlay,2014,RightFoot,6247,FC Krasnodar,Torpedo Moscow,2,2,2015-05-17 16:30:00,Wanderson,Pass
+13268,24,Goal,0.885,0.5,0.7542753219604492,Wanderson,h,2926,Penalty,2014,RightFoot,6247,FC Krasnodar,Torpedo Moscow,2,2,2015-05-17 16:30:00,,Standard
+13269,29,BlockedShot,0.730999984741211,0.44599998474121094,0.021326016634702682,Pavel Mamaev,h,2924,OpenPlay,2014,RightFoot,6247,FC Krasnodar,Torpedo Moscow,2,2,2015-05-17 16:30:00,Andreas Granqvist,BallRecovery
+13271,33,BlockedShot,0.92,0.41400001525878904,0.04507417604327202,Andreas Granqvist,h,2919,FromCorner,2014,Head,6247,FC Krasnodar,Torpedo Moscow,2,2,2015-05-17 16:30:00,Mauricio Pereyra,Cross
+13274,43,BlockedShot,0.9069999694824219,0.5790000152587891,0.09947263449430466,Roman Shirokov,h,2891,OpenPlay,2014,RightFoot,6247,FC Krasnodar,Torpedo Moscow,2,2,2015-05-17 16:30:00,Vitaliy Kaleshin,Cross
+13275,45,SavedShot,0.8109999847412109,0.47099998474121096,0.033469658344984055,Odil Ahmedov,h,2923,FromCorner,2014,RightFoot,6247,FC Krasnodar,Torpedo Moscow,2,2,2015-05-17 16:30:00,,None
+13276,46,BlockedShot,0.7530000305175781,0.5479999923706055,0.028471149504184723,Roman Shirokov,h,2891,OpenPlay,2014,RightFoot,6247,FC Krasnodar,Torpedo Moscow,2,2,2015-05-17 16:30:00,Pavel Mamaev,Pass
+13277,48,MissedShots,0.8959999847412109,0.509000015258789,0.25512948632240295,Wanderson,h,2926,OpenPlay,2014,Head,6247,FC Krasnodar,Torpedo Moscow,2,2,2015-05-17 16:30:00,Odil Ahmedov,Chipped
+13278,53,SavedShot,0.7040000152587891,0.685,0.013296502642333508,Sergei Petrov,h,2920,OpenPlay,2014,RightFoot,6247,FC Krasnodar,Torpedo Moscow,2,2,2015-05-17 16:30:00,,BallRecovery
+13281,62,ShotOnPost,0.845,0.5509999847412109,0.06422416865825653,Ricardo Laborde,h,2927,OpenPlay,2014,LeftFoot,6247,FC Krasnodar,Torpedo Moscow,2,2,2015-05-17 16:30:00,,None
+13283,67,BlockedShot,0.725999984741211,0.42400001525878905,0.018262626603245735,Mauricio Pereyra,h,2922,OpenPlay,2014,RightFoot,6247,FC Krasnodar,Torpedo Moscow,2,2,2015-05-17 16:30:00,Roman Shirokov,Pass
+13284,68,MissedShots,0.8440000152587891,0.3060000038146973,0.033204350620508194,Ricardo Laborde,h,2927,OpenPlay,2014,RightFoot,6247,FC Krasnodar,Torpedo Moscow,2,2,2015-05-17 16:30:00,Vitaliy Kaleshin,Pass
+13288,86,BlockedShot,0.7559999847412109,0.5170000076293946,0.02545906789600849,Wanderson,h,2926,OpenPlay,2014,RightFoot,6247,FC Krasnodar,Torpedo Moscow,2,2,2015-05-17 16:30:00,Ruslan Adzhindzhal,Pass
+13260,2,MissedShots,0.754000015258789,0.26799999237060546,0.011763148941099644,Sergei Zenjov,a,4540,OpenPlay,2014,LeftFoot,6247,FC Krasnodar,Torpedo Moscow,2,2,2015-05-17 16:30:00,Kirill Kombarov,Pass
+13263,16,SavedShot,0.98,0.415,0.10417060554027557,Sergei Zenjov,a,4540,FromCorner,2014,RightFoot,6247,FC Krasnodar,Torpedo Moscow,2,2,2015-05-17 16:30:00,Tomas Mikuckis,HeadPass
+13265,19,SavedShot,0.7380000305175781,0.509000015258789,0.018244754523038864,Hugo Vieira,a,4543,OpenPlay,2014,RightFoot,6247,FC Krasnodar,Torpedo Moscow,2,2,2015-05-17 16:30:00,,BallRecovery
+13267,22,SavedShot,0.8269999694824218,0.43,0.09344841539859772,Dalibor Stevanovic,a,3033,OpenPlay,2014,RightFoot,6247,FC Krasnodar,Torpedo Moscow,2,2,2015-05-17 16:30:00,Hugo Vieira,Pass
+13270,29,MissedShots,0.8619999694824219,0.7019999694824218,0.043121207505464554,Reziuan Mirzov,a,2869,OpenPlay,2014,RightFoot,6247,FC Krasnodar,Torpedo Moscow,2,2,2015-05-17 16:30:00,Anton Putsila,Pass
+13272,40,MissedShots,0.79,0.6969999694824218,0.023456519469618797,Reziuan Mirzov,a,2869,OpenPlay,2014,RightFoot,6247,FC Krasnodar,Torpedo Moscow,2,2,2015-05-17 16:30:00,Vladimir Rykov,Pass
+13273,42,MissedShots,0.88,0.590999984741211,0.05152139812707901,Vladimir Rykov,a,3053,FromCorner,2014,RightFoot,6247,FC Krasnodar,Torpedo Moscow,2,2,2015-05-17 16:30:00,Reziuan Mirzov,CornerAwarded
+13279,58,BlockedShot,0.8830000305175781,0.27799999237060546,0.04906635358929634,Sergei Zenjov,a,4540,OpenPlay,2014,LeftFoot,6247,FC Krasnodar,Torpedo Moscow,2,2,2015-05-17 16:30:00,,TakeOn
+13280,58,Goal,0.875,0.48200000762939454,0.07271665334701538,Anton Putsila,a,4541,OpenPlay,2014,LeftFoot,6247,FC Krasnodar,Torpedo Moscow,2,2,2015-05-17 16:30:00,,None
+13282,62,OwnGoal,0.017999999523162842,0.46599998474121096,0,Yuri Zhevnov,a,3122,OpenPlay,2014,LeftFoot,6247,FC Krasnodar,Torpedo Moscow,2,2,2015-05-17 16:30:00,,Clearance
+13285,69,MissedShots,0.7080000305175781,0.155,0.009172364138066769,Kirill Kombarov,a,3128,OpenPlay,2014,RightFoot,6247,FC Krasnodar,Torpedo Moscow,2,2,2015-05-17 16:30:00,Vadim Steklov,Pass
+13286,72,Goal,0.7390000152587891,0.24799999237060547,0.012563144788146019,Kirill Kombarov,a,3128,OpenPlay,2014,RightFoot,6247,FC Krasnodar,Torpedo Moscow,2,2,2015-05-17 16:30:00,Sergei Zenjov,Pass
+13287,79,BlockedShot,0.8640000152587891,0.455,0.09887266159057617,Anton Putsila,a,4541,OpenPlay,2014,RightFoot,6247,FC Krasnodar,Torpedo Moscow,2,2,2015-05-17 16:30:00,Sergei Zenjov,Pass
+13289,90,SavedShot,0.8619999694824219,0.509000015258789,0.296531081199646,Arnor Smárason,a,4544,OpenPlay,2014,RightFoot,6247,FC Krasnodar,Torpedo Moscow,2,2,2015-05-17 16:30:00,Aleksey Pugin,HeadPass

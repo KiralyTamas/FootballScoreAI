@@ -1,0 +1,46 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+374324,1,SavedShot,0.845,0.720999984741211,0.03191762790083885,Luca Gagliano,h,6387,OpenPlay,2019,LeftFoot,13449,Cagliari,Juventus,2,0,2020-07-29 19:45:00,Artur Ionita,Pass
+374327,7,Goal,0.9440000152587891,0.49700000762939456,0.6138918399810791,Luca Gagliano,h,6387,OpenPlay,2019,RightFoot,13449,Cagliari,Juventus,2,0,2020-07-29 19:45:00,Federico Mattiello,Pass
+374329,12,SavedShot,0.8180000305175781,0.7440000152587891,0.029163165017962456,Federico Mattiello,h,1546,OpenPlay,2019,LeftFoot,13449,Cagliari,Juventus,2,0,2020-07-29 19:45:00,,None
+374330,14,MissedShots,0.9430000305175781,0.40299999237060546,0.018178066238760948,Sebastian Walukiewicz,h,8030,FromCorner,2019,Head,13449,Cagliari,Juventus,2,0,2020-07-29 19:45:00,Marko Rog,Aerial
+374332,17,SavedShot,0.8169999694824219,0.6990000152587891,0.03515518084168434,João Pedro,h,1592,OpenPlay,2019,RightFoot,13449,Cagliari,Juventus,2,0,2020-07-29 19:45:00,Artur Ionita,Pass
+374345,46,Goal,0.8119999694824219,0.2560000038146973,0.03165407478809357,Giovanni Simeone,h,1102,OpenPlay,2019,RightFoot,13449,Cagliari,Juventus,2,0,2020-07-29 19:45:00,Luca Gagliano,Chipped
+374350,49,MissedShots,0.7609999847412109,0.45099998474121095,0.02455596998333931,João Pedro,h,1592,OpenPlay,2019,RightFoot,13449,Cagliari,Juventus,2,0,2020-07-29 19:45:00,Alberto Paloschi,Pass
+374358,69,BlockedShot,0.8880000305175781,0.4640000152587891,0.1200106292963028,Giovanni Simeone,h,1102,OpenPlay,2019,RightFoot,13449,Cagliari,Juventus,2,0,2020-07-29 19:45:00,João Pedro,BallTouch
+374359,69,MissedShots,0.885,0.56,0.1052401065826416,Giovanni Simeone,h,1102,OpenPlay,2019,LeftFoot,13449,Cagliari,Juventus,2,0,2020-07-29 19:45:00,,Rebound
+374366,87,MissedShots,0.77,0.5879999923706055,0.04396890848875046,João Pedro,h,1592,OpenPlay,2019,RightFoot,13449,Cagliari,Juventus,2,0,2020-07-29 19:45:00,Charalampos Lykogiannis,HeadPass
+374368,95,MissedShots,0.6659999847412109,0.49,0.020739665254950523,Alberto Paloschi,h,716,OpenPlay,2019,RightFoot,13449,Cagliari,Juventus,2,0,2020-07-29 19:45:00,Alessio Cragno,Pass
+374325,4,SavedShot,0.7680000305175781,0.6719999694824219,0.017882628366351128,Simone Muratore,a,7581,OpenPlay,2019,LeftFoot,13449,Cagliari,Juventus,2,0,2020-07-29 19:45:00,Cristiano Ronaldo,Pass
+374326,6,SavedShot,0.97,0.37599998474121094,0.116606704890728,Gonzalo Higuaín,a,1293,OpenPlay,2019,RightFoot,13449,Cagliari,Juventus,2,0,2020-07-29 19:45:00,Rodrigo Bentancur,Throughball
+374328,9,MissedShots,0.7809999847412109,0.2979999923706055,0.017773695290088654,Juan Cuadrado,a,1089,FromCorner,2019,LeftFoot,13449,Cagliari,Juventus,2,0,2020-07-29 19:45:00,Gonzalo Higuaín,Pass
+374331,15,BlockedShot,0.899000015258789,0.3189999961853027,0.05057315528392792,Federico Bernardeschi,a,1424,OpenPlay,2019,LeftFoot,13449,Cagliari,Juventus,2,0,2020-07-29 19:45:00,Juan Cuadrado,Chipped
+374333,18,BlockedShot,0.769000015258789,0.475,0.025181716307997704,Cristiano Ronaldo,a,2371,OpenPlay,2019,RightFoot,13449,Cagliari,Juventus,2,0,2020-07-29 19:45:00,,BallRecovery
+374334,21,MissedShots,0.8109999847412109,0.33799999237060546,0.026468735188245773,Rodrigo Bentancur,a,6108,OpenPlay,2019,RightFoot,13449,Cagliari,Juventus,2,0,2020-07-29 19:45:00,Juan Cuadrado,Pass
+374335,23,BlockedShot,0.745999984741211,0.34,0.01751183718442917,Cristiano Ronaldo,a,2371,OpenPlay,2019,RightFoot,13449,Cagliari,Juventus,2,0,2020-07-29 19:45:00,Juan Cuadrado,Pass
+374336,30,BlockedShot,0.8569999694824219,0.27799999237060546,0.03317330777645111,Cristiano Ronaldo,a,2371,OpenPlay,2019,RightFoot,13449,Cagliari,Juventus,2,0,2020-07-29 19:45:00,Rodrigo Bentancur,Pass
+374337,31,MissedShots,0.8730000305175781,0.46299999237060546,0.07678436487913132,Leonardo Bonucci,a,1287,FromCorner,2019,RightFoot,13449,Cagliari,Juventus,2,0,2020-07-29 19:45:00,,None
+374338,33,MissedShots,0.8280000305175781,0.2520000076293945,0.01967187039554119,Rodrigo Bentancur,a,6108,OpenPlay,2019,RightFoot,13449,Cagliari,Juventus,2,0,2020-07-29 19:45:00,,BallRecovery
+374339,36,BlockedShot,0.7280000305175781,0.2979999923706055,0.036179766058921814,Cristiano Ronaldo,a,2371,DirectFreekick,2019,RightFoot,13449,Cagliari,Juventus,2,0,2020-07-29 19:45:00,,Standard
+374340,37,MissedShots,0.9540000152587891,0.5420000076293945,0.1392475813627243,Gonzalo Higuaín,a,1293,FromCorner,2019,RightFoot,13449,Cagliari,Juventus,2,0,2020-07-29 19:45:00,Federico Bernardeschi,Cross
+374341,40,MissedShots,0.8080000305175781,0.26299999237060545,0.02080693654716015,Juan Cuadrado,a,1089,OpenPlay,2019,RightFoot,13449,Cagliari,Juventus,2,0,2020-07-29 19:45:00,Miralem Pjanic,Pass
+374342,41,BlockedShot,0.7430000305175781,0.28299999237060547,0.015803368762135506,Federico Bernardeschi,a,1424,OpenPlay,2019,LeftFoot,13449,Cagliari,Juventus,2,0,2020-07-29 19:45:00,Miralem Pjanic,Pass
+374343,43,SavedShot,0.909000015258789,0.39799999237060546,0.1023535206913948,Rodrigo Bentancur,a,6108,OpenPlay,2019,RightFoot,13449,Cagliari,Juventus,2,0,2020-07-29 19:45:00,Federico Bernardeschi,Pass
+374344,44,MissedShots,0.915,0.4,0.07897789031267166,Cristiano Ronaldo,a,2371,OpenPlay,2019,RightFoot,13449,Cagliari,Juventus,2,0,2020-07-29 19:45:00,Federico Bernardeschi,Cross
+374348,45,BlockedShot,0.6840000152587891,0.6809999847412109,0.008499940857291222,Cristiano Ronaldo,a,2371,OpenPlay,2019,RightFoot,13449,Cagliari,Juventus,2,0,2020-07-29 19:45:00,Simone Muratore,Pass
+374349,45,SavedShot,0.7080000305175781,0.5070000076293946,0.010985496453940868,Gonzalo Higuaín,a,1293,OpenPlay,2019,RightFoot,13449,Cagliari,Juventus,2,0,2020-07-29 19:45:00,Simone Muratore,Pass
+374346,47,BlockedShot,0.8580000305175781,0.3189999961853027,0.032318517565727234,Federico Bernardeschi,a,1424,OpenPlay,2019,LeftFoot,13449,Cagliari,Juventus,2,0,2020-07-29 19:45:00,,None
+374347,48,MissedShots,0.745999984741211,0.38,0.05325694754719734,Miralem Pjanic,a,1290,DirectFreekick,2019,RightFoot,13449,Cagliari,Juventus,2,0,2020-07-29 19:45:00,,Standard
+374351,50,BlockedShot,0.7,0.6379999923706055,0.008867723867297173,Simone Muratore,a,7581,OpenPlay,2019,RightFoot,13449,Cagliari,Juventus,2,0,2020-07-29 19:45:00,Cristiano Ronaldo,Pass
+374352,53,SavedShot,0.7240000152587891,0.5429999923706055,0.011784982867538929,Simone Muratore,a,7581,OpenPlay,2019,RightFoot,13449,Cagliari,Juventus,2,0,2020-07-29 19:45:00,Rodrigo Bentancur,Pass
+374353,53,SavedShot,0.960999984741211,0.35900001525878905,0.014762119390070438,Alex Sandro,a,1289,FromCorner,2019,Head,13449,Cagliari,Juventus,2,0,2020-07-29 19:45:00,Miralem Pjanic,Cross
+374354,56,MissedShots,0.904000015258789,0.5459999847412109,0.08244818449020386,Federico Bernardeschi,a,1424,OpenPlay,2019,Head,13449,Cagliari,Juventus,2,0,2020-07-29 19:45:00,Simone Muratore,Cross
+374355,59,BlockedShot,0.7580000305175781,0.40099998474121096,0.024175740778446198,Cristiano Ronaldo,a,2371,OpenPlay,2019,LeftFoot,13449,Cagliari,Juventus,2,0,2020-07-29 19:45:00,Rodrigo Bentancur,TakeOn
+374356,64,MissedShots,0.8230000305175781,0.3029999923706055,0.02076532319188118,Federico Bernardeschi,a,1424,FromCorner,2019,LeftFoot,13449,Cagliari,Juventus,2,0,2020-07-29 19:45:00,,None
+374357,67,SavedShot,0.7069999694824218,0.5820000076293945,0.010835742577910423,Cristiano Ronaldo,a,2371,OpenPlay,2019,LeftFoot,13449,Cagliari,Juventus,2,0,2020-07-29 19:45:00,Gonzalo Higuaín,Pass
+374360,74,BlockedShot,0.9319999694824219,0.695,0.025228312239050865,Rodrigo Bentancur,a,6108,OpenPlay,2019,LeftFoot,13449,Cagliari,Juventus,2,0,2020-07-29 19:45:00,Cristiano Ronaldo,Cross
+374361,76,BlockedShot,0.784000015258789,0.3039999961853027,0.05965276435017586,Cristiano Ronaldo,a,2371,DirectFreekick,2019,RightFoot,13449,Cagliari,Juventus,2,0,2020-07-29 19:45:00,,Standard
+374362,79,SavedShot,0.915,0.735,0.030812302604317665,Cristiano Ronaldo,a,2371,OpenPlay,2019,LeftFoot,13449,Cagliari,Juventus,2,0,2020-07-29 19:45:00,Gonzalo Higuaín,Chipped
+374363,80,BlockedShot,0.7930000305175782,0.265,0.016709838062524796,Luca Zanimacchia,a,1631,OpenPlay,2019,LeftFoot,13449,Cagliari,Juventus,2,0,2020-07-29 19:45:00,Federico Bernardeschi,CornerAwarded
+374364,82,MissedShots,0.7819999694824219,0.504000015258789,0.04018547013401985,Federico Bernardeschi,a,1424,OpenPlay,2019,LeftFoot,13449,Cagliari,Juventus,2,0,2020-07-29 19:45:00,Luca Zanimacchia,Pass
+374365,85,SavedShot,0.7269999694824218,0.695,0.010197940282523632,Alex Sandro,a,1289,OpenPlay,2019,LeftFoot,13449,Cagliari,Juventus,2,0,2020-07-29 19:45:00,Federico Bernardeschi,Pass
+374367,93,SavedShot,0.6780000305175782,0.3629999923706055,0.008037715218961239,Luca Zanimacchia,a,1631,OpenPlay,2019,RightFoot,13449,Cagliari,Juventus,2,0,2020-07-29 19:45:00,,BallRecovery

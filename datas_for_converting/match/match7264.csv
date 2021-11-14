@@ -1,0 +1,15 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+160798,12,Goal,0.9269999694824219,0.5379999923706055,0.10383225977420807,Christian Kabasele,h,1725,FromCorner,2017,Head,7264,Watford,Tottenham,1,1,2017-12-02 15:00:00,Tom Cleverley,Cross
+160799,20,BlockedShot,0.9069999694824219,0.5359999847412109,0.12658511102199554,Richarlison,h,6026,OpenPlay,2017,RightFoot,7264,Watford,Tottenham,1,1,2017-12-02 15:00:00,Troy Deeney,Foul
+160802,36,MissedShots,0.7619999694824219,0.26399999618530273,0.013870155438780785,Abdoulaye Doucouré,h,1726,OpenPlay,2017,RightFoot,7264,Watford,Tottenham,1,1,2017-12-02 15:00:00,Kiko Femenía,Pass
+160807,62,ShotOnPost,0.7559999847412109,0.48900001525878906,0.018020201474428177,Abdoulaye Doucouré,h,1726,FromCorner,2017,RightFoot,7264,Watford,Tottenham,1,1,2017-12-02 15:00:00,,None
+160809,74,BlockedShot,0.9330000305175781,0.5979999923706054,0.07033875584602356,Richarlison,h,6026,OpenPlay,2017,Head,7264,Watford,Tottenham,1,1,2017-12-02 15:00:00,André Carrillo,Cross
+160810,80,SavedShot,0.7519999694824219,0.3840000152587891,0.02002594619989395,Etienne Capoue,h,572,OpenPlay,2017,LeftFoot,7264,Watford,Tottenham,1,1,2017-12-02 15:00:00,Tom Cleverley,Pass
+160797,7,MissedShots,0.7919999694824219,0.26799999237060546,0.00964471697807312,Kieran Trippier,a,652,FromCorner,2017,RightFoot,7264,Watford,Tottenham,1,1,2017-12-02 15:00:00,Eric Dier,HeadPass
+160800,24,Goal,0.935,0.52,0.5373402833938599,Son Heung-Min,a,453,OpenPlay,2017,RightFoot,7264,Watford,Tottenham,1,1,2017-12-02 15:00:00,Christian Eriksen,Pass
+160801,36,SavedShot,0.7419999694824219,0.36900001525878906,0.04949099197983742,Christian Eriksen,a,646,DirectFreekick,2017,RightFoot,7264,Watford,Tottenham,1,1,2017-12-02 15:00:00,,Standard
+160803,41,MissedShots,0.7819999694824219,0.4209999847412109,0.012758598662912846,Ben Davies,a,660,SetPiece,2017,LeftFoot,7264,Watford,Tottenham,1,1,2017-12-02 15:00:00,,Aerial
+160804,46,MissedShots,0.7190000152587891,0.6329999923706054,0.03954778239130974,Harry Kane,a,647,DirectFreekick,2017,RightFoot,7264,Watford,Tottenham,1,1,2017-12-02 15:00:00,,Standard
+160805,54,MissedShots,0.745,0.645,0.011223218403756618,Mousa Dembélé,a,642,SetPiece,2017,LeftFoot,7264,Watford,Tottenham,1,1,2017-12-02 15:00:00,,None
+160806,59,BlockedShot,0.7780000305175782,0.6509999847412109,0.0515303835272789,Harry Kane,a,647,OpenPlay,2017,RightFoot,7264,Watford,Tottenham,1,1,2017-12-02 15:00:00,Dele Alli,BallRecovery
+160808,72,BlockedShot,0.8880000305175781,0.3220000076293945,0.07728150486946106,Moussa Sissoko,a,772,OpenPlay,2017,RightFoot,7264,Watford,Tottenham,1,1,2017-12-02 15:00:00,Harry Kane,Pass

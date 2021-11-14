@@ -1,0 +1,28 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+102970,7,Goal,0.8090000152587891,0.34200000762939453,0.03349345922470093,Ryad Boudebouz,h,3343,OpenPlay,2016,LeftFoot,2252,Montpellier,Angers,1,0,2016-08-13 22:00:00,Casimir Ninga,Pass
+102971,8,BlockedShot,0.720999984741211,0.40200000762939453,0.016792714595794678,Steve Mounie,h,3800,OpenPlay,2016,LeftFoot,2252,Montpellier,Angers,1,0,2016-08-13 22:00:00,,None
+102972,13,BlockedShot,0.7609999847412109,0.649000015258789,0.021449873223900795,Morgan Sanson,h,3696,OpenPlay,2016,RightFoot,2252,Montpellier,Angers,1,0,2016-08-13 22:00:00,Casimir Ninga,Pass
+102973,14,BlockedShot,0.8580000305175781,0.4229999923706055,0.09773590415716171,Casimir Ninga,h,3344,OpenPlay,2016,RightFoot,2252,Montpellier,Angers,1,0,2016-08-13 22:00:00,Ryad Boudebouz,Pass
+102978,26,BlockedShot,0.6329999923706054,0.4759999847412109,0.010457665659487247,Jérôme Roussillon,h,3339,FromCorner,2016,LeftFoot,2252,Montpellier,Angers,1,0,2016-08-13 22:00:00,,None
+102979,29,MissedShots,0.9069999694824219,0.565,0.053148943930864334,Hilton,h,3337,FromCorner,2016,Head,2252,Montpellier,Angers,1,0,2016-08-13 22:00:00,Ryad Boudebouz,Cross
+102981,48,MissedShots,0.765,0.27899999618530275,0.0199825931340456,Ryad Boudebouz,h,3343,OpenPlay,2016,RightFoot,2252,Montpellier,Angers,1,0,2016-08-13 22:00:00,Souleymane Camara,Pass
+102983,54,SavedShot,0.93,0.6969999694824218,0.3184884786605835,Casimir Ninga,h,3344,OpenPlay,2016,RightFoot,2252,Montpellier,Angers,1,0,2016-08-13 22:00:00,Ryad Boudebouz,Throughball
+102984,54,MissedShots,0.9159999847412109,0.695,0.05923381447792053,Souleymane Camara,h,3590,OpenPlay,2016,LeftFoot,2252,Montpellier,Angers,1,0,2016-08-13 22:00:00,,Rebound
+102985,54,MissedShots,0.835999984741211,0.715,0.03801615908741951,Casimir Ninga,h,3344,OpenPlay,2016,RightFoot,2252,Montpellier,Angers,1,0,2016-08-13 22:00:00,Steve Mounie,Pass
+102987,60,MissedShots,0.8919999694824219,0.5420000076293945,0.07905953377485275,Daniel Congré,h,3338,SetPiece,2016,RightFoot,2252,Montpellier,Angers,1,0,2016-08-13 22:00:00,,None
+102988,67,SavedShot,0.9059999847412109,0.6040000152587891,0.10905410349369049,Steve Mounie,h,3800,FromCorner,2016,Head,2252,Montpellier,Angers,1,0,2016-08-13 22:00:00,Anthony Vanden Borre,Chipped
+102993,91,MissedShots,0.715,0.7709999847412109,0.012813531793653965,William Remy,h,3336,OpenPlay,2016,RightFoot,2252,Montpellier,Angers,1,0,2016-08-13 22:00:00,,Dispossessed
+102995,93,MissedShots,0.7659999847412109,0.375,0.02831742726266384,Souleymane Camara,h,3590,OpenPlay,2016,LeftFoot,2252,Montpellier,Angers,1,0,2016-08-13 22:00:00,Ryad Boudebouz,Pass
+102969,0,MissedShots,0.7119999694824218,0.40200000762939453,0.017172222957015038,Karl Toko Ekambi,a,5657,OpenPlay,2016,RightFoot,2252,Montpellier,Angers,1,0,2016-08-13 22:00:00,Pierrick Capelle,Pass
+102974,15,BlockedShot,0.8519999694824218,0.5609999847412109,0.05196686461567879,Gilles Sunu,a,3493,OpenPlay,2016,RightFoot,2252,Montpellier,Angers,1,0,2016-08-13 22:00:00,Famara Diedhiou,HeadPass
+102975,15,BlockedShot,0.7480000305175781,0.55,0.022557122632861137,Baptiste Santamaria,a,5654,OpenPlay,2016,RightFoot,2252,Montpellier,Angers,1,0,2016-08-13 22:00:00,,Rebound
+102976,16,BlockedShot,0.795,0.6990000152587891,0.022154657170176506,Pierrick Capelle,a,3495,OpenPlay,2016,LeftFoot,2252,Montpellier,Angers,1,0,2016-08-13 22:00:00,Karl Toko Ekambi,Pass
+102977,17,SavedShot,0.9530000305175781,0.67,0.09662067145109177,Pierrick Capelle,a,3495,OpenPlay,2016,LeftFoot,2252,Montpellier,Angers,1,0,2016-08-13 22:00:00,Karl Toko Ekambi,Throughball
+102980,35,MissedShots,0.7809999847412109,0.26600000381469724,0.018684646114706993,Karl Toko Ekambi,a,5657,OpenPlay,2016,RightFoot,2252,Montpellier,Angers,1,0,2016-08-13 22:00:00,Famara Diedhiou,Pass
+102982,53,BlockedShot,0.865999984741211,0.6680000305175782,0.04671167582273483,Karl Toko Ekambi,a,5657,OpenPlay,2016,LeftFoot,2252,Montpellier,Angers,1,0,2016-08-13 22:00:00,,BallRecovery
+102986,56,BlockedShot,0.759000015258789,0.47200000762939454,0.023103132843971252,Pierrick Capelle,a,3495,OpenPlay,2016,LeftFoot,2252,Montpellier,Angers,1,0,2016-08-13 22:00:00,,None
+102989,69,SavedShot,0.765,0.664000015258789,0.02141544595360756,Karl Toko Ekambi,a,5657,OpenPlay,2016,RightFoot,2252,Montpellier,Angers,1,0,2016-08-13 22:00:00,Famara Diedhiou,Pass
+102990,69,MissedShots,0.889000015258789,0.4929999923706055,0.06558139622211456,Billy Ketkeophomphone,a,3494,OpenPlay,2016,Head,2252,Montpellier,Angers,1,0,2016-08-13 22:00:00,Nicolas Pepe,Cross
+102991,76,BlockedShot,0.860999984741211,0.40299999237060546,0.05591423064470291,Vincent Manceau,a,3486,OpenPlay,2016,LeftFoot,2252,Montpellier,Angers,1,0,2016-08-13 22:00:00,Billy Ketkeophomphone,BlockedPass
+102992,83,BlockedShot,0.8380000305175781,0.6719999694824219,0.0395638644695282,Karl Toko Ekambi,a,5657,OpenPlay,2016,RightFoot,2252,Montpellier,Angers,1,0,2016-08-13 22:00:00,Billy Ketkeophomphone,Pass
+102994,91,MissedShots,0.669000015258789,0.46599998474121096,0.013145853765308857,Baptiste Santamaria,a,5654,OpenPlay,2016,RightFoot,2252,Montpellier,Angers,1,0,2016-08-13 22:00:00,Romain Thomas,Pass

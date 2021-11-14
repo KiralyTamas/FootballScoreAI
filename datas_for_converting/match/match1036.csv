@@ -1,0 +1,27 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+76363,0,MissedShots,0.9430000305175781,0.674000015258789,0.03321283310651779,Ivo Ilicevic,h,172,OpenPlay,2015,LeftFoot,1036,Hamburger SV,VfB Stuttgart,3,2,2015-08-22 20:30:00,Dennis Diekmeier,Cross
+76367,11,SavedShot,0.6780000305175782,0.5790000152587891,0.012325341813266277,Gideon Jung,h,168,OpenPlay,2015,RightFoot,1036,Hamburger SV,VfB Stuttgart,3,2,2015-08-22 20:30:00,Ivo Ilicevic,Pass
+76368,14,SavedShot,0.9,0.5509999847412109,0.06022491678595543,Sven Schipplock,h,176,SetPiece,2015,Head,1036,Hamburger SV,VfB Stuttgart,3,2,2015-08-22 20:30:00,Ivo Ilicevic,Chipped
+76372,24,MissedShots,0.7319999694824219,0.740999984741211,0.008240509778261185,Ivo Ilicevic,h,172,OpenPlay,2015,RightFoot,1036,Hamburger SV,VfB Stuttgart,3,2,2015-08-22 20:30:00,Michael Gregoritsch,Chipped
+76373,25,MissedShots,0.7909999847412109,0.6869999694824219,0.02057686820626259,Ivo Ilicevic,h,172,OpenPlay,2015,RightFoot,1036,Hamburger SV,VfB Stuttgart,3,2,2015-08-22 20:30:00,,None
+76375,33,Goal,0.9,0.34,0.2914302349090576,Ivo Ilicevic,h,172,OpenPlay,2015,RightFoot,1036,Hamburger SV,VfB Stuttgart,3,2,2015-08-22 20:30:00,Michael Gregoritsch,Pass
+76379,45,MissedShots,0.8830000305175781,0.500999984741211,0.026385657489299774,Lewis Holtby,h,169,OpenPlay,2015,Head,1036,Hamburger SV,VfB Stuttgart,3,2,2015-08-22 20:30:00,Ivo Ilicevic,Aerial
+76381,54,MissedShots,0.9790000152587891,0.36700000762939455,0.01660473830997944,Michael Gregoritsch,h,171,OpenPlay,2015,Head,1036,Hamburger SV,VfB Stuttgart,3,2,2015-08-22 20:30:00,Matthias Ostrzolek,Cross
+76383,70,MissedShots,0.825,0.39,0.056578829884529114,Michael Gregoritsch,h,171,OpenPlay,2015,LeftFoot,1036,Hamburger SV,VfB Stuttgart,3,2,2015-08-22 20:30:00,Pierre-Michel Lasogga,LayOff
+76384,81,MissedShots,0.8069999694824219,0.6170000076293946,0.01394103467464447,Ivo Ilicevic,h,172,OpenPlay,2015,RightFoot,1036,Hamburger SV,VfB Stuttgart,3,2,2015-08-22 20:30:00,,Aerial
+76385,83,BlockedShot,0.785,0.705,0.015214860439300537,Ivica Olic,h,303,OpenPlay,2015,RightFoot,1036,Hamburger SV,VfB Stuttgart,3,2,2015-08-22 20:30:00,Ivo Ilicevic,TakeOn
+76386,83,Goal,0.9569999694824218,0.38,0.3476065993309021,Pierre-Michel Lasogga,h,173,OpenPlay,2015,RightFoot,1036,Hamburger SV,VfB Stuttgart,3,2,2015-08-22 20:30:00,,Rebound
+76387,85,MissedShots,0.8919999694824219,0.595999984741211,0.03339247778058052,Ivo Ilicevic,h,172,OpenPlay,2015,Head,1036,Hamburger SV,VfB Stuttgart,3,2,2015-08-22 20:30:00,Dennis Diekmeier,Cross
+76388,88,Goal,0.92,0.5659999847412109,0.39069128036499023,Johan Djourou,h,302,OpenPlay,2015,RightFoot,1036,Hamburger SV,VfB Stuttgart,3,2,2015-08-22 20:30:00,Pierre-Michel Lasogga,HeadPass
+76364,2,MissedShots,0.9490000152587891,0.6469999694824219,0.015915552154183388,Christian Gentner,a,60,FromCorner,2015,Head,1036,Hamburger SV,VfB Stuttgart,3,2,2015-08-22 20:30:00,Daniel Didavi,Cross
+76365,7,MissedShots,0.7519999694824219,0.6469999694824219,0.01791638508439064,Daniel Didavi,a,300,OpenPlay,2015,LeftFoot,1036,Hamburger SV,VfB Stuttgart,3,2,2015-08-22 20:30:00,Daniel Ginczek,Pass
+76366,8,MissedShots,0.875999984741211,0.6170000076293946,0.08709387481212616,Daniel Didavi,a,300,OpenPlay,2015,LeftFoot,1036,Hamburger SV,VfB Stuttgart,3,2,2015-08-22 20:30:00,Martin Harnik,Pass
+76369,18,BlockedShot,0.785,0.620999984741211,0.03435276448726654,Martin Harnik,a,407,OpenPlay,2015,RightFoot,1036,Hamburger SV,VfB Stuttgart,3,2,2015-08-22 20:30:00,Daniel Didavi,Chipped
+76370,21,SavedShot,0.9019999694824219,0.5220000076293946,0.24350117146968842,Christian Gentner,a,60,FromCorner,2015,Head,1036,Hamburger SV,VfB Stuttgart,3,2,2015-08-22 20:30:00,Filip Kostic,Cross
+76371,22,Goal,0.8880000305175781,0.44,0.5256024599075317,Daniel Ginczek,a,426,OpenPlay,2015,RightFoot,1036,Hamburger SV,VfB Stuttgart,3,2,2015-08-22 20:30:00,Daniel Didavi,TakeOn
+76374,32,BlockedShot,0.775,0.524000015258789,0.041977789252996445,Daniel Didavi,a,300,OpenPlay,2015,LeftFoot,1036,Hamburger SV,VfB Stuttgart,3,2,2015-08-22 20:30:00,Martin Harnik,Pass
+76376,36,BlockedShot,0.9290000152587891,0.5270000076293946,0.1387866735458374,Martin Harnik,a,407,OpenPlay,2015,LeftFoot,1036,Hamburger SV,VfB Stuttgart,3,2,2015-08-22 20:30:00,Filip Kostic,Pass
+76377,36,BlockedShot,0.7780000305175782,0.4640000152587891,0.023520315065979958,Florian Klein,a,383,FromCorner,2015,RightFoot,1036,Hamburger SV,VfB Stuttgart,3,2,2015-08-22 20:30:00,,None
+76378,41,Goal,0.8830000305175781,0.5109999847412109,0.70295250415802,Daniel Ginczek,a,426,OpenPlay,2015,LeftFoot,1036,Hamburger SV,VfB Stuttgart,3,2,2015-08-22 20:30:00,Christian Gentner,TakeOn
+76380,49,MissedShots,0.685,0.4809999847412109,0.03521810844540596,Daniel Didavi,a,300,DirectFreekick,2015,LeftFoot,1036,Hamburger SV,VfB Stuttgart,3,2,2015-08-22 20:30:00,,Standard
+76382,58,SavedShot,0.6709999847412109,0.35900001525878905,0.028656920418143272,Daniel Didavi,a,300,DirectFreekick,2015,LeftFoot,1036,Hamburger SV,VfB Stuttgart,3,2,2015-08-22 20:30:00,,Standard

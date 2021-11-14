@@ -1,0 +1,26 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+106893,7,MissedShots,0.7380000305175781,0.47,0.058626022189855576,Oussama Tannane,h,3510,DirectFreekick,2016,LeftFoot,3247,Saint-Etienne,Guingamp,1,0,2016-12-11 20:00:00,,Standard
+106895,9,MissedShots,0.805,0.41,0.029171975329518318,Romain Hamouma,h,3561,FromCorner,2016,RightFoot,3247,Saint-Etienne,Guingamp,1,0,2016-12-11 20:00:00,,None
+106897,24,Goal,0.87,0.45599998474121095,0.35935017466545105,Romain Hamouma,h,3561,OpenPlay,2016,RightFoot,3247,Saint-Etienne,Guingamp,1,0,2016-12-11 20:00:00,Kevin Malcuit,Pass
+106899,32,ShotOnPost,0.845999984741211,0.32,0.07497351616621017,Jordan Veretout,h,677,OpenPlay,2016,RightFoot,3247,Saint-Etienne,Guingamp,1,0,2016-12-11 20:00:00,Romain Hamouma,Pass
+106900,33,MissedShots,0.9419999694824219,0.6120000076293945,0.04041014239192009,Loic Perrin,h,3689,FromCorner,2016,Head,3247,Saint-Etienne,Guingamp,1,0,2016-12-11 20:00:00,Romain Hamouma,Cross
+106902,40,SavedShot,0.8630000305175781,0.46799999237060547,0.036736663430929184,Loic Perrin,h,3689,SetPiece,2016,Head,3247,Saint-Etienne,Guingamp,1,0,2016-12-11 20:00:00,Oussama Tannane,Cross
+106907,56,BlockedShot,0.7519999694824219,0.585,0.028411222621798515,Romain Hamouma,h,3561,OpenPlay,2016,RightFoot,3247,Saint-Etienne,Guingamp,1,0,2016-12-11 20:00:00,Alexander Søderlund,Pass
+106894,8,MissedShots,0.9019999694824219,0.41200000762939454,0.08073130249977112,Jimmy Briand,a,3477,OpenPlay,2016,RightFoot,3247,Saint-Etienne,Guingamp,1,0,2016-12-11 20:00:00,Jordan Ikoko,Cross
+106896,15,SavedShot,0.8809999847412109,0.6430000305175781,0.26020699739456177,Lucas Deaux,a,3740,OpenPlay,2016,LeftFoot,3247,Saint-Etienne,Guingamp,1,0,2016-12-11 20:00:00,Marcus Coco,Pass
+106898,30,MissedShots,0.7230000305175781,0.23,0.013809852302074432,Marcus Coco,a,3479,OpenPlay,2016,RightFoot,3247,Saint-Etienne,Guingamp,1,0,2016-12-11 20:00:00,Lucas Deaux,Pass
+106901,35,SavedShot,0.87,0.625,0.3325711488723755,Jimmy Briand,a,3477,OpenPlay,2016,RightFoot,3247,Saint-Etienne,Guingamp,1,0,2016-12-11 20:00:00,Moustapha Diallo,Throughball
+106903,46,ShotOnPost,0.889000015258789,0.46599998474121096,0.26198524236679077,Moustapha Diallo,a,3575,OpenPlay,2016,Head,3247,Saint-Etienne,Guingamp,1,0,2016-12-11 20:00:00,Jordan Ikoko,Cross
+106904,47,MissedShots,0.775,0.40099998474121096,0.029630228877067566,Moustapha Diallo,a,3575,OpenPlay,2016,RightFoot,3247,Saint-Etienne,Guingamp,1,0,2016-12-11 20:00:00,Yannis Salibur,TakeOn
+106905,51,SavedShot,0.81,0.654000015258789,0.030184291303157806,Lucas Deaux,a,3740,OpenPlay,2016,RightFoot,3247,Saint-Etienne,Guingamp,1,0,2016-12-11 20:00:00,Fernando Marçal,Pass
+106906,55,SavedShot,0.855,0.49599998474121093,0.05636956915259361,Jimmy Briand,a,3477,OpenPlay,2016,RightFoot,3247,Saint-Etienne,Guingamp,1,0,2016-12-11 20:00:00,Fernando Marçal,Cross
+106908,62,MissedShots,0.86,0.6859999847412109,0.04558103159070015,Nill de Pauw,a,3702,OpenPlay,2016,LeftFoot,3247,Saint-Etienne,Guingamp,1,0,2016-12-11 20:00:00,Fernando Marçal,Pass
+106909,63,SavedShot,0.805,0.6780000305175782,0.025943011045455933,Fernando Marçal,a,5708,OpenPlay,2016,LeftFoot,3247,Saint-Etienne,Guingamp,1,0,2016-12-11 20:00:00,,None
+106910,64,SavedShot,0.860999984741211,0.2610000038146973,0.03825712576508522,Yannis Salibur,a,3473,FromCorner,2016,LeftFoot,3247,Saint-Etienne,Guingamp,1,0,2016-12-11 20:00:00,Fernando Marçal,Pass
+106911,69,MissedShots,0.725,0.41200000762939454,0.01820172555744648,Yannis Salibur,a,3473,OpenPlay,2016,LeftFoot,3247,Saint-Etienne,Guingamp,1,0,2016-12-11 20:00:00,Jimmy Briand,Pass
+106912,70,MissedShots,0.775,0.5459999847412109,0.0306591484695673,Yannis Salibur,a,3473,OpenPlay,2016,LeftFoot,3247,Saint-Etienne,Guingamp,1,0,2016-12-11 20:00:00,Nill de Pauw,Pass
+106913,77,SavedShot,0.9269999694824219,0.55,0.11065953224897385,Yannis Salibur,a,3473,OpenPlay,2016,LeftFoot,3247,Saint-Etienne,Guingamp,1,0,2016-12-11 20:00:00,Fernando Marçal,Cross
+106914,84,MissedShots,0.8969999694824219,0.41700000762939454,0.10210194438695908,Alexandre Mendy,a,3580,OpenPlay,2016,RightFoot,3247,Saint-Etienne,Guingamp,1,0,2016-12-11 20:00:00,Yannis Salibur,Pass
+106915,87,SavedShot,0.8119999694824219,0.509000015258789,0.04795830696821213,Yannis Salibur,a,3473,OpenPlay,2016,LeftFoot,3247,Saint-Etienne,Guingamp,1,0,2016-12-11 20:00:00,Alexandre Mendy,Pass
+106916,88,MissedShots,0.7530000305175781,0.525,0.021283432841300964,Nill de Pauw,a,3702,OpenPlay,2016,LeftFoot,3247,Saint-Etienne,Guingamp,1,0,2016-12-11 20:00:00,,None
+106917,91,MissedShots,0.759000015258789,0.509000015258789,0.023568885400891304,Nill de Pauw,a,3702,OpenPlay,2016,RightFoot,3247,Saint-Etienne,Guingamp,1,0,2016-12-11 20:00:00,,None

@@ -1,0 +1,37 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+19622,1,MissedShots,0.924000015258789,0.6990000152587891,0.05062966048717499,Stevan Jovetic,h,1524,OpenPlay,2014,LeftFoot,4552,Manchester City,Sunderland,3,2,2015-01-01 15:00:00,,None
+19623,5,MissedShots,0.9690000152587891,0.615999984741211,0.07532496005296707,Stevan Jovetic,h,1524,OpenPlay,2014,RightFoot,4552,Manchester City,Sunderland,3,2,2015-01-01 15:00:00,Gaël Clichy,Cross
+19624,7,MissedShots,0.74,0.40700000762939453,0.01572990231215954,Yaya Touré,h,878,OpenPlay,2014,RightFoot,4552,Manchester City,Sunderland,3,2,2015-01-01 15:00:00,Samir Nasri,Pass
+19625,16,BlockedShot,0.8680000305175781,0.38,0.05876046419143677,Stevan Jovetic,h,1524,SetPiece,2014,LeftFoot,4552,Manchester City,Sunderland,3,2,2015-01-01 15:00:00,Martín Demichelis,None
+19626,19,BlockedShot,0.905,0.46599998474121096,0.10282459110021591,Yaya Touré,h,878,FromCorner,2014,RightFoot,4552,Manchester City,Sunderland,3,2,2015-01-01 15:00:00,,None
+19627,19,MissedShots,0.860999984741211,0.48700000762939455,0.0747300237417221,David Silva,h,617,FromCorner,2014,LeftFoot,4552,Manchester City,Sunderland,3,2,2015-01-01 15:00:00,,Rebound
+19628,23,BlockedShot,0.7969999694824219,0.72,0.019423365592956543,Stevan Jovetic,h,1524,OpenPlay,2014,RightFoot,4552,Manchester City,Sunderland,3,2,2015-01-01 15:00:00,Samir Nasri,Pass
+19629,26,MissedShots,0.7819999694824219,0.6669999694824219,0.023560738191008568,Samir Nasri,h,877,OpenPlay,2014,RightFoot,4552,Manchester City,Sunderland,3,2,2015-01-01 15:00:00,Yaya Touré,Pass
+19630,30,BlockedShot,0.835999984741211,0.36,0.053634289652109146,Jesús Navas,h,616,OpenPlay,2014,LeftFoot,4552,Manchester City,Sunderland,3,2,2015-01-01 15:00:00,Fernandinho,Pass
+19631,30,SavedShot,0.7759999847412109,0.32799999237060545,0.01777554675936699,David Silva,h,617,OpenPlay,2014,LeftFoot,4552,Manchester City,Sunderland,3,2,2015-01-01 15:00:00,Jesús Navas,Pass
+19632,30,MissedShots,0.855,0.649000015258789,0.04279885068535805,Gaël Clichy,h,613,OpenPlay,2014,RightFoot,4552,Manchester City,Sunderland,3,2,2015-01-01 15:00:00,,Rebound
+19633,36,SavedShot,0.76,0.3820000076293945,0.019671829417347908,Yaya Touré,h,878,OpenPlay,2014,RightFoot,4552,Manchester City,Sunderland,3,2,2015-01-01 15:00:00,Samir Nasri,Pass
+19635,43,BlockedShot,0.7880000305175782,0.41200000762939454,0.035630643367767334,Jesús Navas,h,616,OpenPlay,2014,LeftFoot,4552,Manchester City,Sunderland,3,2,2015-01-01 15:00:00,Samir Nasri,Pass
+19636,43,BlockedShot,0.845999984741211,0.3659999847412109,0.0639791265130043,Samir Nasri,h,877,OpenPlay,2014,RightFoot,4552,Manchester City,Sunderland,3,2,2015-01-01 15:00:00,Fernandinho,Pass
+19637,45,MissedShots,0.8930000305175781,0.4759999847412109,0.017381491139531136,Stevan Jovetic,h,1524,FromCorner,2014,Head,4552,Manchester City,Sunderland,3,2,2015-01-01 15:00:00,Jesús Navas,Aerial
+19638,45,MissedShots,0.92,0.3340000152587891,0.05989956110715866,Jesús Navas,h,616,OpenPlay,2014,LeftFoot,4552,Manchester City,Sunderland,3,2,2015-01-01 15:00:00,,None
+19639,53,BlockedShot,0.72,0.5070000076293946,0.015800783410668373,Yaya Touré,h,878,OpenPlay,2014,RightFoot,4552,Manchester City,Sunderland,3,2,2015-01-01 15:00:00,Fernandinho,Pass
+19640,56,Goal,0.7780000305175782,0.5920000076293945,0.024876825511455536,Yaya Touré,h,878,OpenPlay,2014,RightFoot,4552,Manchester City,Sunderland,3,2,2015-01-01 15:00:00,Stevan Jovetic,Pass
+19641,62,SavedShot,0.9069999694824219,0.3579999923706055,0.13594281673431396,David Silva,h,617,OpenPlay,2014,RightFoot,4552,Manchester City,Sunderland,3,2,2015-01-01 15:00:00,Fernandinho,Throughball
+19642,65,Goal,0.96,0.5690000152587891,0.4506450593471527,Stevan Jovetic,h,1524,OpenPlay,2014,LeftFoot,4552,Manchester City,Sunderland,3,2,2015-01-01 15:00:00,Gaël Clichy,Cross
+19645,68,ShotOnPost,0.955,0.31,0.2783243954181671,Jesús Navas,h,616,OpenPlay,2014,RightFoot,4552,Manchester City,Sunderland,3,2,2015-01-01 15:00:00,Stevan Jovetic,Pass
+19647,72,Goal,0.895,0.53,0.06702611595392227,Frank Lampard,h,4418,OpenPlay,2014,Head,4552,Manchester City,Sunderland,3,2,2015-01-01 15:00:00,Gaël Clichy,Cross
+19648,74,SavedShot,0.8730000305175781,0.580999984741211,0.09670316427946091,Frank Lampard,h,4418,OpenPlay,2014,LeftFoot,4552,Manchester City,Sunderland,3,2,2015-01-01 15:00:00,,None
+19649,75,SavedShot,0.95,0.6609999847412109,0.0765204057097435,Yaya Touré,h,878,OpenPlay,2014,RightFoot,4552,Manchester City,Sunderland,3,2,2015-01-01 15:00:00,Samir Nasri,TakeOn
+19650,79,SavedShot,0.9030000305175782,0.39799999237060546,0.11757422983646393,Frank Lampard,h,4418,OpenPlay,2014,RightFoot,4552,Manchester City,Sunderland,3,2,2015-01-01 15:00:00,Pablo Zabaleta,Pass
+19651,81,SavedShot,0.9219999694824219,0.34200000762939453,0.3311414420604706,Jesús Navas,h,616,OpenPlay,2014,RightFoot,4552,Manchester City,Sunderland,3,2,2015-01-01 15:00:00,David Silva,Throughball
+19652,85,SavedShot,0.889000015258789,0.45599998474121095,0.5992474555969238,Fernandinho,h,614,OpenPlay,2014,RightFoot,4552,Manchester City,Sunderland,3,2,2015-01-01 15:00:00,David Silva,Throughball
+19653,85,BlockedShot,0.9080000305175782,0.425,0.13512302935123444,Frank Lampard,h,4418,OpenPlay,2014,RightFoot,4552,Manchester City,Sunderland,3,2,2015-01-01 15:00:00,Jesús Navas,Pass
+19654,89,MissedShots,0.8430000305175781,0.38299999237060545,0.0722544863820076,James Milner,h,489,OpenPlay,2014,RightFoot,4552,Manchester City,Sunderland,3,2,2015-01-01 15:00:00,Jesús Navas,Pass
+19655,90,MissedShots,0.8690000152587891,0.5529999923706055,0.10643121600151062,James Milner,h,489,OpenPlay,2014,RightFoot,4552,Manchester City,Sunderland,3,2,2015-01-01 15:00:00,Aleksandar Kolarov,Pass
+19656,91,BlockedShot,0.9180000305175782,0.3509999847412109,0.10030823200941086,Jesús Navas,h,616,OpenPlay,2014,LeftFoot,4552,Manchester City,Sunderland,3,2,2015-01-01 15:00:00,Fernandinho,Pass
+19657,92,SavedShot,0.875999984741211,0.5379999923706055,0.3021000623703003,James Milner,h,489,SetPiece,2014,RightFoot,4552,Manchester City,Sunderland,3,2,2015-01-01 15:00:00,Yaya Touré,Chipped
+19634,39,SavedShot,0.759000015258789,0.5520000076293945,0.07005065679550171,Sebastian Larsson,a,740,DirectFreekick,2014,RightFoot,4552,Manchester City,Sunderland,3,2,2015-01-01 15:00:00,,Standard
+19643,67,SavedShot,0.8580000305175781,0.33,0.054940298199653625,Emanuele Giaccherini,a,1033,OpenPlay,2014,RightFoot,4552,Manchester City,Sunderland,3,2,2015-01-01 15:00:00,Sebastian Larsson,Pass
+19644,67,Goal,0.9280000305175782,0.5540000152587891,0.09339785575866699,Jack Rodwell,a,733,FromCorner,2014,Head,4552,Manchester City,Sunderland,3,2,2015-01-01 15:00:00,Sebastian Larsson,Cross
+19646,70,Goal,0.885,0.5,0.7611688375473022,Adam Johnson,a,929,Penalty,2014,LeftFoot,4552,Manchester City,Sunderland,3,2,2015-01-01 15:00:00,,Standard

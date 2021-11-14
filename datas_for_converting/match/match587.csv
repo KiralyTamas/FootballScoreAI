@@ -1,0 +1,25 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+94867,6,MissedShots,0.8580000305175781,0.3609999847412109,0.038139693439006805,Alberto Grassi,h,1504,OpenPlay,2015,RightFoot,587,Atalanta,Verona,1,1,2015-09-20 17:00:00,Jasmin Kurtic,Cross
+94868,10,MissedShots,0.8719999694824219,0.40700000762939453,0.06300215423107147,Germán Denis,h,1984,FromCorner,2015,RightFoot,587,Atalanta,Verona,1,1,2015-09-20 17:00:00,,None
+94869,13,MissedShots,0.740999984741211,0.5929999923706055,0.012063520029187202,Gianpaolo Bellini,h,1983,SetPiece,2015,LeftFoot,587,Atalanta,Verona,1,1,2015-09-20 17:00:00,,None
+94870,14,MissedShots,0.9290000152587891,0.435,0.05444540083408356,Germán Denis,h,1984,OpenPlay,2015,Head,587,Atalanta,Verona,1,1,2015-09-20 17:00:00,Maximiliano Moralez,Aerial
+94871,17,MissedShots,0.935,0.6179999923706054,0.028392987325787544,Guglielmo Stendardo,h,1556,FromCorner,2015,Head,587,Atalanta,Verona,1,1,2015-09-20 17:00:00,Alejandro Gomez,Cross
+94874,34,BlockedShot,0.7040000152587891,0.5209999847412109,0.013662293553352356,Alejandro Gomez,h,1491,OpenPlay,2015,LeftFoot,587,Atalanta,Verona,1,1,2015-09-20 17:00:00,Maximiliano Moralez,Pass
+94875,43,BlockedShot,0.850999984741211,0.7440000152587891,0.02704290673136711,Jasmin Kurtic,h,1492,OpenPlay,2015,LeftFoot,587,Atalanta,Verona,1,1,2015-09-20 17:00:00,Andrea Masiello,Pass
+94878,46,MissedShots,0.7519999694824219,0.8180000305175781,0.015040572732686996,Jasmin Kurtic,h,1492,OpenPlay,2015,RightFoot,587,Atalanta,Verona,1,1,2015-09-20 17:00:00,Marten de Roon,Pass
+94877,47,MissedShots,0.8280000305175781,0.7019999694824218,0.02607523463666439,Alejandro Gomez,h,1491,OpenPlay,2015,LeftFoot,587,Atalanta,Verona,1,1,2015-09-20 17:00:00,Guglielmo Stendardo,Pass
+94880,54,SavedShot,0.8230000305175781,0.5420000076293945,0.06875266879796982,Maximiliano Moralez,h,2029,OpenPlay,2015,RightFoot,587,Atalanta,Verona,1,1,2015-09-20 17:00:00,Alejandro Gomez,Pass
+94883,64,MissedShots,0.705,0.5470000076293945,0.039372168481349945,Jasmin Kurtic,h,1492,DirectFreekick,2015,RightFoot,587,Atalanta,Verona,1,1,2015-09-20 17:00:00,,Standard
+94884,67,BlockedShot,0.789000015258789,0.24,0.01602778024971485,Alejandro Gomez,h,1491,OpenPlay,2015,LeftFoot,587,Atalanta,Verona,1,1,2015-09-20 17:00:00,Maximiliano Moralez,Pass
+94885,71,SavedShot,0.9530000305175781,0.6580000305175782,0.053983237594366074,Alejandro Gomez,h,1491,FromCorner,2015,LeftFoot,587,Atalanta,Verona,1,1,2015-09-20 17:00:00,,None
+94887,77,MissedShots,0.970999984741211,0.34,0.028111618012189865,Jasmin Kurtic,h,1492,OpenPlay,2015,OtherBodyPart,587,Atalanta,Verona,1,1,2015-09-20 17:00:00,Luca Cigarini,Chipped
+94888,88,Goal,0.9359999847412109,0.4779999923706055,0.4376605749130249,Maximiliano Moralez,h,2029,OpenPlay,2015,Head,587,Atalanta,Verona,1,1,2015-09-20 17:00:00,Alejandro Gomez,Cross
+94872,26,MissedShots,0.9380000305175781,0.4979999923706055,0.14353984594345093,Eros Pisano,a,1842,SetPiece,2015,Head,587,Atalanta,Verona,1,1,2015-09-20 17:00:00,Federico Viviani,Cross
+94873,32,BlockedShot,0.765,0.66,0.05734630674123764,Rafael Márquez,a,2034,DirectFreekick,2015,RightFoot,587,Atalanta,Verona,1,1,2015-09-20 17:00:00,,Standard
+94876,44,MissedShots,0.78,0.62,0.010723540559411049,Bosko Jankovic,a,1959,OpenPlay,2015,Head,587,Atalanta,Verona,1,1,2015-09-20 17:00:00,Rafael Márquez,Chipped
+94879,52,BlockedShot,0.8269999694824218,0.455,0.05798659846186638,Bosko Jankovic,a,1959,OpenPlay,2015,RightFoot,587,Atalanta,Verona,1,1,2015-09-20 17:00:00,Leandro Greco,Pass
+94881,57,BlockedShot,0.749000015258789,0.4329999923706055,0.020690109580755234,Federico Viviani,a,1456,OpenPlay,2015,LeftFoot,587,Atalanta,Verona,1,1,2015-09-20 17:00:00,,BlockedPass
+94882,57,SavedShot,0.8540000152587891,0.5520000076293945,0.30676963925361633,Giampaolo Pazzini,a,1847,OpenPlay,2015,RightFoot,587,Atalanta,Verona,1,1,2015-09-20 17:00:00,,Rebound
+94886,74,SavedShot,0.825,0.34700000762939454,0.04112206771969795,Juanito Gómez,a,1851,OpenPlay,2015,LeftFoot,587,Atalanta,Verona,1,1,2015-09-20 17:00:00,Jacopo Sala,Pass
+94889,90,BlockedShot,0.899000015258789,0.6630000305175782,0.03287992253899574,Leandro Greco,a,1996,OpenPlay,2015,LeftFoot,587,Atalanta,Verona,1,1,2015-09-20 17:00:00,Eros Pisano,Cross
+94890,96,Goal,0.95,0.595999984741211,0.08919312059879303,Eros Pisano,a,1842,SetPiece,2015,Head,587,Atalanta,Verona,1,1,2015-09-20 17:00:00,Federico Viviani,Cross

@@ -1,0 +1,24 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+37386,11,MissedShots,0.7190000152587891,0.2589999961853027,0.0072393654845654964,Víctor Camarasa,h,2390,OpenPlay,2014,RightFoot,5480,Levante,Atletico Madrid,2,2,2015-05-10 11:00:00,Iván López,TakeOn
+37388,22,MissedShots,0.785,0.544000015258789,0.03151431307196617,Iván López,h,2175,FromCorner,2014,LeftFoot,5480,Levante,Atletico Madrid,2,2,2015-05-10 11:00:00,Juanfran,Cross
+37389,22,SavedShot,0.8430000305175781,0.4909999847412109,0.02062991075217724,Morales,h,2186,OpenPlay,2014,Head,5480,Levante,Atletico Madrid,2,2,2015-05-10 11:00:00,Mohamed Sissoko,Cross
+37391,31,Goal,0.9719999694824218,0.54,0.6977400779724121,David Barral,h,2087,OpenPlay,2014,LeftFoot,5480,Levante,Atletico Madrid,2,2,2015-05-10 11:00:00,Iván López,Pass
+37396,52,BlockedShot,0.749000015258789,0.5320000076293945,0.023200541734695435,Víctor Camarasa,h,2390,OpenPlay,2014,RightFoot,5480,Levante,Atletico Madrid,2,2,2015-05-10 11:00:00,Morales,Pass
+37397,52,SavedShot,0.91,0.48900001525878906,0.12915216386318207,Kalu Uche,h,4074,OpenPlay,2014,Head,5480,Levante,Atletico Madrid,2,2,2015-05-10 11:00:00,Toño,Cross
+37400,62,SavedShot,0.96,0.5109999847412109,0.6158079504966736,Kalu Uche,h,4074,OpenPlay,2014,LeftFoot,5480,Levante,Atletico Madrid,2,2,2015-05-10 11:00:00,,None
+37401,62,Goal,0.9640000152587891,0.5109999847412109,0.6287871599197388,Kalu Uche,h,4074,OpenPlay,2014,RightFoot,5480,Levante,Atletico Madrid,2,2,2015-05-10 11:00:00,,None
+37382,2,BlockedShot,0.7709999847412109,0.544000015258789,0.02660832367837429,Guilherme Siqueira,a,2375,OpenPlay,2014,LeftFoot,5480,Levante,Atletico Madrid,2,2,2015-05-10 11:00:00,,None
+37383,3,SavedShot,0.9390000152587891,0.595999984741211,0.046082738786935806,Mario Mandzukic,a,1295,OpenPlay,2014,Head,5480,Levante,Atletico Madrid,2,2,2015-05-10 11:00:00,Juanfran,Aerial
+37384,8,SavedShot,0.91,0.52,0.34332743287086487,Mario Mandzukic,a,1295,OpenPlay,2014,Head,5480,Levante,Atletico Madrid,2,2,2015-05-10 11:00:00,Guilherme Siqueira,Cross
+37385,8,SavedShot,0.9169999694824219,0.5379999923706055,0.047847237437963486,Arda Turan,a,2102,OpenPlay,2014,Head,5480,Levante,Atletico Madrid,2,2,2015-05-10 11:00:00,,Rebound
+37387,17,MissedShots,0.925,0.43900001525878907,0.09279217571020126,Miranda,a,1507,FromCorner,2014,Head,5480,Levante,Atletico Madrid,2,2,2015-05-10 11:00:00,Koke,Cross
+37390,25,BlockedShot,0.845,0.6020000076293945,0.053466860204935074,Koke,a,2269,OpenPlay,2014,LeftFoot,5480,Levante,Atletico Madrid,2,2,2015-05-10 11:00:00,Mario Mandzukic,HeadPass
+37392,33,BlockedShot,0.845999984741211,0.5259999847412109,0.054912738502025604,Antoine Griezmann,a,2270,OpenPlay,2014,LeftFoot,5480,Levante,Atletico Madrid,2,2,2015-05-10 11:00:00,Guilherme Siqueira,HeadPass
+37393,34,Goal,0.92,0.515,0.44602301716804504,Guilherme Siqueira,a,2375,OpenPlay,2014,LeftFoot,5480,Levante,Atletico Madrid,2,2,2015-05-10 11:00:00,Tiago,Cross
+37394,51,BlockedShot,0.84,0.43900001525878907,0.08266341686248779,Koke,a,2269,OpenPlay,2014,RightFoot,5480,Levante,Atletico Madrid,2,2,2015-05-10 11:00:00,Mario Mandzukic,Pass
+37395,51,BlockedShot,0.8419999694824218,0.5359999847412109,0.06794093549251556,Antoine Griezmann,a,2270,OpenPlay,2014,LeftFoot,5480,Levante,Atletico Madrid,2,2,2015-05-10 11:00:00,,Rebound
+37398,58,BlockedShot,0.7909999847412109,0.3920000076293945,0.034054286777973175,Gabi,a,2268,OpenPlay,2014,LeftFoot,5480,Levante,Atletico Madrid,2,2,2015-05-10 11:00:00,Koke,Pass
+37399,59,BlockedShot,0.899000015258789,0.3220000076293945,0.0919802263379097,Mario Mandzukic,a,1295,OpenPlay,2014,RightFoot,5480,Levante,Atletico Madrid,2,2,2015-05-10 11:00:00,Miranda,TakeOn
+37402,79,Goal,0.9640000152587891,0.5220000076293946,0.09963858872652054,Fernando Torres,a,2271,FromCorner,2014,Head,5480,Levante,Atletico Madrid,2,2,2015-05-10 11:00:00,Koke,Aerial
+37403,82,SavedShot,0.845,0.4640000152587891,0.05419456213712692,Giménez,a,2278,FromCorner,2014,RightFoot,5480,Levante,Atletico Madrid,2,2,2015-05-10 11:00:00,Miranda,HeadPass
+37404,92,SavedShot,0.889000015258789,0.5220000076293946,0.052096378058195114,Fernando Torres,a,2271,OpenPlay,2014,Head,5480,Levante,Atletico Madrid,2,2,2015-05-10 11:00:00,Giménez,HeadPass

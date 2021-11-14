@@ -1,0 +1,21 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+183464,6,BlockedShot,0.785,0.3729999923706055,0.02598593942821026,Anthony Goncalves,h,5981,OpenPlay,2017,LeftFoot,8743,Strasbourg,Toulouse,2,1,2017-12-16 19:00:00,,None
+183466,8,SavedShot,0.91,0.3940000152587891,0.27381813526153564,Jérémy Blayac,h,5983,OpenPlay,2017,RightFoot,8743,Strasbourg,Toulouse,2,1,2017-12-16 19:00:00,Dmitri Lienard,Cross
+183468,19,BlockedShot,0.81,0.22799999237060548,0.053045082837343216,Dmitri Lienard,h,5978,DirectFreekick,2017,LeftFoot,8743,Strasbourg,Toulouse,2,1,2017-12-16 19:00:00,,Standard
+183469,24,Goal,0.885,0.5,0.7600951194763184,Jonas Martin,h,3346,Penalty,2017,RightFoot,8743,Strasbourg,Toulouse,2,1,2017-12-16 19:00:00,,Standard
+183474,51,Goal,0.889000015258789,0.5279999923706055,0.05876603350043297,Kader Mangane,h,3372,FromCorner,2017,RightFoot,8743,Strasbourg,Toulouse,2,1,2017-12-16 19:00:00,Dmitri Lienard,Cross
+183475,53,MissedShots,0.885,0.524000015258789,0.08480225503444672,Jérémy Blayac,h,5983,OpenPlay,2017,Head,8743,Strasbourg,Toulouse,2,1,2017-12-16 19:00:00,Dmitri Lienard,Cross
+183477,59,SavedShot,0.8190000152587891,0.28600000381469726,0.42423948645591736,Anthony Goncalves,h,5981,OpenPlay,2017,RightFoot,8743,Strasbourg,Toulouse,2,1,2017-12-16 19:00:00,Jonas Martin,Throughball
+183478,64,SavedShot,0.825999984741211,0.7380000305175781,0.030409473925828934,Joia Nuno Da Costa,h,5977,OpenPlay,2017,RightFoot,8743,Strasbourg,Toulouse,2,1,2017-12-16 19:00:00,Ernest Seka,Pass
+183480,72,MissedShots,0.7569999694824219,0.14,0.009570582769811153,Jérémy Blayac,h,5983,OpenPlay,2017,RightFoot,8743,Strasbourg,Toulouse,2,1,2017-12-16 19:00:00,,None
+183463,2,MissedShots,0.779000015258789,0.3120000076293945,0.017496341839432716,Max Gradel,a,464,OpenPlay,2017,RightFoot,8743,Strasbourg,Toulouse,2,1,2017-12-16 19:00:00,,None
+183465,7,SavedShot,0.8390000152587891,0.26799999237060546,0.024996383115649223,Max Gradel,a,464,OpenPlay,2017,RightFoot,8743,Strasbourg,Toulouse,2,1,2017-12-16 19:00:00,Andy Delort,Pass
+183467,16,MissedShots,0.955999984741211,0.4929999923706055,0.4374374747276306,Christopher Jullien,a,4345,FromCorner,2017,Head,8743,Strasbourg,Toulouse,2,1,2017-12-16 19:00:00,Yannick Cahuzac,Aerial
+183470,29,BlockedShot,0.75,0.46599998474121096,0.06708014756441116,Max Gradel,a,464,DirectFreekick,2017,RightFoot,8743,Strasbourg,Toulouse,2,1,2017-12-16 19:00:00,,Standard
+183471,29,Goal,0.825,0.524000015258789,0.021318040788173676,Max Gradel,a,464,SetPiece,2017,LeftFoot,8743,Strasbourg,Toulouse,2,1,2017-12-16 19:00:00,,Aerial
+183472,36,ShotOnPost,0.9480000305175781,0.6730000305175782,0.07298819720745087,Andy Delort,a,3530,SetPiece,2017,RightFoot,8743,Strasbourg,Toulouse,2,1,2017-12-16 19:00:00,,TakeOn
+183473,38,MissedShots,0.9169999694824219,0.524000015258789,0.43852782249450684,Andy Delort,a,3530,OpenPlay,2017,RightFoot,8743,Strasbourg,Toulouse,2,1,2017-12-16 19:00:00,Max Gradel,HeadPass
+183476,57,BlockedShot,0.8719999694824219,0.5479999923706055,0.09525027126073837,Christopher Jullien,a,4345,OpenPlay,2017,RightFoot,8743,Strasbourg,Toulouse,2,1,2017-12-16 19:00:00,Somália,Pass
+183479,70,SavedShot,0.779000015258789,0.41,0.037476763129234314,Max Gradel,a,464,OpenPlay,2017,RightFoot,8743,Strasbourg,Toulouse,2,1,2017-12-16 19:00:00,,TakeOn
+183481,85,MissedShots,0.7909999847412109,0.2720000076293945,0.019536305218935013,Andy Delort,a,3530,OpenPlay,2017,RightFoot,8743,Strasbourg,Toulouse,2,1,2017-12-16 19:00:00,Steeve Yago,Pass
+183482,87,MissedShots,0.8069999694824219,0.5509999847412109,0.05105368047952652,Andy Delort,a,3530,OpenPlay,2017,RightFoot,8743,Strasbourg,Toulouse,2,1,2017-12-16 19:00:00,Ola Toivonen,Pass

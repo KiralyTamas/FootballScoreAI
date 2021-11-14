@@ -1,0 +1,33 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+317520,17,Goal,0.93,0.4179999923706055,0.0651005208492279,Kenny McLean,h,7693,FromCorner,2019,Head,11689,Norwich,Manchester City,3,2,2019-09-14 16:30:00,Emiliano Buendía,Cross
+317523,27,Goal,0.960999984741211,0.5370000076293945,0.7004085183143616,Todd Cantwell,h,7695,OpenPlay,2019,LeftFoot,11689,Norwich,Manchester City,3,2,2019-09-14 16:30:00,Teemu Pukki,Pass
+317526,33,BlockedShot,0.915,0.49900001525878906,0.04009231552481651,Sam Byram,h,902,FromCorner,2019,Head,11689,Norwich,Manchester City,3,2,2019-09-14 16:30:00,Emiliano Buendía,Aerial
+317527,33,MissedShots,0.879000015258789,0.6840000152587891,0.04659736156463623,Teemu Pukki,h,7696,FromCorner,2019,RightFoot,11689,Norwich,Manchester City,3,2,2019-09-14 16:30:00,Todd Cantwell,Pass
+317529,48,MissedShots,0.9119999694824219,0.67,0.26448145508766174,Teemu Pukki,h,7696,OpenPlay,2019,LeftFoot,11689,Norwich,Manchester City,3,2,2019-09-14 16:30:00,Marco Stiepermann,Pass
+317530,49,Goal,0.9269999694824219,0.4929999923706055,0.5800573825836182,Teemu Pukki,h,7696,OpenPlay,2019,RightFoot,11689,Norwich,Manchester City,3,2,2019-09-14 16:30:00,Emiliano Buendía,Pass
+317538,72,MissedShots,0.735999984741211,0.3509999847412109,0.04456273838877678,Emiliano Buendía,h,2203,DirectFreekick,2019,RightFoot,11689,Norwich,Manchester City,3,2,2019-09-14 16:30:00,,Standard
+317518,2,SavedShot,0.935,0.47,0.06420109421014786,Rodri,a,2496,FromCorner,2019,Head,11689,Norwich,Manchester City,3,2,2019-09-14 16:30:00,,Aerial
+317519,11,BlockedShot,0.9069999694824219,0.6719999694824219,0.07273620367050171,Raheem Sterling,a,618,OpenPlay,2019,RightFoot,11689,Norwich,Manchester City,3,2,2019-09-14 16:30:00,Sergio Agüero,Pass
+317521,20,BlockedShot,0.774000015258789,0.6229999923706054,0.023858943954110146,Raheem Sterling,a,618,OpenPlay,2019,RightFoot,11689,Norwich,Manchester City,3,2,2019-09-14 16:30:00,,None
+317522,27,MissedShots,0.9740000152587891,0.40599998474121096,0.13642600178718567,Sergio Agüero,a,619,OpenPlay,2019,Head,11689,Norwich,Manchester City,3,2,2019-09-14 16:30:00,Raheem Sterling,Chipped
+317524,30,ShotOnPost,0.915,0.5629999923706055,0.5551549792289734,Raheem Sterling,a,618,OpenPlay,2019,Head,11689,Norwich,Manchester City,3,2,2019-09-14 16:30:00,Bernardo Silva,Aerial
+317525,30,MissedShots,0.784000015258789,0.5879999923706055,0.022391151636838913,David Silva,a,617,OpenPlay,2019,LeftFoot,11689,Norwich,Manchester City,3,2,2019-09-14 16:30:00,,None
+317528,44,Goal,0.9169999694824219,0.54,0.3069518506526947,Sergio Agüero,a,619,OpenPlay,2019,Head,11689,Norwich,Manchester City,3,2,2019-09-14 16:30:00,Bernardo Silva,Cross
+317531,50,MissedShots,0.899000015258789,0.5609999847412109,0.015684129670262337,Nicolás Otamendi,a,611,FromCorner,2019,Head,11689,Norwich,Manchester City,3,2,2019-09-14 16:30:00,Ilkay Gündogan,Aerial
+317532,52,BlockedShot,0.904000015258789,0.6969999694824218,0.036995161324739456,Sergio Agüero,a,619,OpenPlay,2019,LeftFoot,11689,Norwich,Manchester City,3,2,2019-09-14 16:30:00,,None
+317533,54,BlockedShot,0.9130000305175782,0.5120000076293946,0.06076463684439659,Raheem Sterling,a,618,OpenPlay,2019,Head,11689,Norwich,Manchester City,3,2,2019-09-14 16:30:00,,Aerial
+317534,57,BlockedShot,0.889000015258789,0.5579999923706055,0.11625707149505615,Sergio Agüero,a,619,OpenPlay,2019,LeftFoot,11689,Norwich,Manchester City,3,2,2019-09-14 16:30:00,Rodri,Pass
+317535,58,BlockedShot,0.7769999694824219,0.5879999923706055,0.020224742591381073,Bernardo Silva,a,3635,FromCorner,2019,LeftFoot,11689,Norwich,Manchester City,3,2,2019-09-14 16:30:00,,None
+317536,59,BlockedShot,0.89,0.4179999923706055,0.06952273845672607,Bernardo Silva,a,3635,OpenPlay,2019,RightFoot,11689,Norwich,Manchester City,3,2,2019-09-14 16:30:00,,None
+317537,67,SavedShot,0.915,0.46599998474121096,0.0335766039788723,Nicolás Otamendi,a,611,FromCorner,2019,Head,11689,Norwich,Manchester City,3,2,2019-09-14 16:30:00,Kevin De Bruyne,Aerial
+317539,77,MissedShots,0.925,0.55,0.3160250186920166,Sergio Agüero,a,619,OpenPlay,2019,Head,11689,Norwich,Manchester City,3,2,2019-09-14 16:30:00,Raheem Sterling,Cross
+317540,81,BlockedShot,0.8969999694824219,0.46700000762939453,0.09022330492734909,Gabriel Jesus,a,5543,OpenPlay,2019,Head,11689,Norwich,Manchester City,3,2,2019-09-14 16:30:00,Riyad Mahrez,Cross
+317541,85,BlockedShot,0.8230000305175781,0.5029999923706054,0.041717249900102615,Raheem Sterling,a,618,OpenPlay,2019,RightFoot,11689,Norwich,Manchester City,3,2,2019-09-14 16:30:00,John Stones,Chipped
+317542,85,MissedShots,0.919000015258789,0.6020000076293945,0.023410404101014137,Gabriel Jesus,a,5543,OpenPlay,2019,Head,11689,Norwich,Manchester City,3,2,2019-09-14 16:30:00,,Rebound
+317543,86,SavedShot,0.9769999694824218,0.40900001525878904,0.08371945470571518,Nicolás Otamendi,a,611,SetPiece,2019,Head,11689,Norwich,Manchester City,3,2,2019-09-14 16:30:00,Raheem Sterling,Cross
+317544,87,BlockedShot,0.7859999847412109,0.6120000076293945,0.020847603678703308,Oleksandr Zinchenko,a,2958,FromCorner,2019,LeftFoot,11689,Norwich,Manchester City,3,2,2019-09-14 16:30:00,,None
+317545,87,Goal,0.765,0.4490000152587891,0.02623964473605156,Rodri,a,2496,OpenPlay,2019,RightFoot,11689,Norwich,Manchester City,3,2,2019-09-14 16:30:00,Gabriel Jesus,Pass
+317546,90,BlockedShot,0.7880000305175782,0.7119999694824218,0.02078399620950222,Oleksandr Zinchenko,a,2958,FromCorner,2019,LeftFoot,11689,Norwich,Manchester City,3,2,2019-09-14 16:30:00,Kevin De Bruyne,Pass
+317547,91,SavedShot,0.860999984741211,0.6329999923706054,0.04667026177048683,Sergio Agüero,a,619,OpenPlay,2019,RightFoot,11689,Norwich,Manchester City,3,2,2019-09-14 16:30:00,Kevin De Bruyne,TakeOn
+317548,92,SavedShot,0.8480000305175781,0.5020000076293946,0.08038192242383957,Gabriel Jesus,a,5543,OpenPlay,2019,LeftFoot,11689,Norwich,Manchester City,3,2,2019-09-14 16:30:00,Raheem Sterling,Pass
+317549,93,SavedShot,0.885,0.6509999847412109,0.060574863106012344,Raheem Sterling,a,618,SetPiece,2019,RightFoot,11689,Norwich,Manchester City,3,2,2019-09-14 16:30:00,Rodri,Chipped

@@ -1,0 +1,21 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+260075,12,Goal,0.9380000305175781,0.3920000076293945,0.41081809997558594,Karim Benzema,h,2370,OpenPlay,2018,RightFoot,10116,Real Madrid,Rayo Vallecano,1,0,2018-12-15 17:30:00,Lucas Vázquez,Throughball
+260077,15,SavedShot,0.9,0.634000015258789,0.3460194766521454,Marco Asensio,h,2117,OpenPlay,2018,LeftFoot,10116,Real Madrid,Rayo Vallecano,1,0,2018-12-15 17:30:00,Toni Kroos,Throughball
+260078,18,MissedShots,0.875,0.365,0.068940669298172,Lucas Vázquez,h,2253,OpenPlay,2018,RightFoot,10116,Real Madrid,Rayo Vallecano,1,0,2018-12-15 17:30:00,Toni Kroos,Chipped
+260079,35,ShotOnPost,0.805,0.5370000076293945,0.06100200116634369,Toni Kroos,h,2369,OpenPlay,2018,LeftFoot,10116,Real Madrid,Rayo Vallecano,1,0,2018-12-15 17:30:00,Karim Benzema,Pass
+260080,35,BlockedShot,0.764000015258789,0.37099998474121093,0.06488942354917526,Luka Modric,h,2250,OpenPlay,2018,RightFoot,10116,Real Madrid,Rayo Vallecano,1,0,2018-12-15 17:30:00,,TakeOn
+260081,35,SavedShot,0.7819999694824219,0.5790000152587891,0.05523752421140671,Marcelo,h,2257,FromCorner,2018,RightFoot,10116,Real Madrid,Rayo Vallecano,1,0,2018-12-15 17:30:00,,TakeOn
+260083,49,SavedShot,0.9069999694824219,0.4929999923706055,0.14175927639007568,Marco Asensio,h,2117,OpenPlay,2018,LeftFoot,10116,Real Madrid,Rayo Vallecano,1,0,2018-12-15 17:30:00,Luka Modric,Pass
+260087,72,MissedShots,0.8440000152587891,0.32099998474121094,0.049439653754234314,Luka Modric,h,2250,OpenPlay,2018,RightFoot,10116,Real Madrid,Rayo Vallecano,1,0,2018-12-15 17:30:00,Karim Benzema,Pass
+260090,86,BlockedShot,0.924000015258789,0.27600000381469725,0.05258559063076973,Vinícius Júnior,h,7008,OpenPlay,2018,RightFoot,10116,Real Madrid,Rayo Vallecano,1,0,2018-12-15 17:30:00,Lucas Vázquez,Pass
+260076,15,MissedShots,0.9340000152587891,0.4490000152587891,0.11608946323394775,Emiliano Velázquez,a,2207,FromCorner,2018,Head,10116,Real Madrid,Rayo Vallecano,1,0,2018-12-15 17:30:00,Adrián Embarba,Cross
+260082,41,MissedShots,0.9480000305175781,0.8,0.08289752155542374,Adrián Embarba,a,2166,DirectFreekick,2018,RightFoot,10116,Real Madrid,Rayo Vallecano,1,0,2018-12-15 17:30:00,,Standard
+260084,58,MissedShots,0.725,0.35900001525878905,0.013648703694343567,Bebé,a,2168,FromCorner,2018,RightFoot,10116,Real Madrid,Rayo Vallecano,1,0,2018-12-15 17:30:00,,None
+260085,65,MissedShots,0.754000015258789,0.27899999618530275,0.017036424949765205,Luis Advíncula,a,6967,OpenPlay,2018,LeftFoot,10116,Real Madrid,Rayo Vallecano,1,0,2018-12-15 17:30:00,Bebé,Pass
+260086,67,SavedShot,0.7080000305175781,0.6120000076293945,0.0150451036170125,Bebé,a,2168,OpenPlay,2018,RightFoot,10116,Real Madrid,Rayo Vallecano,1,0,2018-12-15 17:30:00,Álex Moreno,Pass
+260088,73,BlockedShot,0.779000015258789,0.47,0.02944239415228367,Bebé,a,2168,OpenPlay,2018,RightFoot,10116,Real Madrid,Rayo Vallecano,1,0,2018-12-15 17:30:00,Álvaro García,Pass
+260089,73,MissedShots,0.735999984741211,0.629000015258789,0.016767432913184166,Giannelli Imbula,a,861,OpenPlay,2018,LeftFoot,10116,Real Madrid,Rayo Vallecano,1,0,2018-12-15 17:30:00,Álex Alegría,Pass
+260091,90,SavedShot,0.9219999694824219,0.500999984741211,0.09453633427619934,Álex Alegría,a,5038,OpenPlay,2018,RightFoot,10116,Real Madrid,Rayo Vallecano,1,0,2018-12-15 17:30:00,Emiliano Velázquez,HeadPass
+260092,90,SavedShot,0.919000015258789,0.5920000076293945,0.0980403944849968,Emiliano Velázquez,a,2207,OpenPlay,2018,RightFoot,10116,Real Madrid,Rayo Vallecano,1,0,2018-12-15 17:30:00,,Rebound
+260093,90,BlockedShot,0.9519999694824218,0.6229999923706054,0.06963026523590088,Emiliano Velázquez,a,2207,OpenPlay,2018,LeftFoot,10116,Real Madrid,Rayo Vallecano,1,0,2018-12-15 17:30:00,,None
+260094,90,MissedShots,0.925,0.5520000076293945,0.04473704844713211,Santiago Comesaña,a,7070,FromCorner,2018,Head,10116,Real Madrid,Rayo Vallecano,1,0,2018-12-15 17:30:00,Bebé,Aerial

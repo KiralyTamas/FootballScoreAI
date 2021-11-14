@@ -1,0 +1,24 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+142367,3,MissedShots,0.89,0.43400001525878906,0.08292429149150848,Jurado,h,582,OpenPlay,2016,RightFoot,4053,Espanyol,Atletico Madrid,0,1,2017-04-22 19:45:00,Gerard Moreno,Chipped
+142369,23,MissedShots,0.7319999694824219,0.509000015258789,0.021187210455536842,Gerard Moreno,h,2120,OpenPlay,2016,LeftFoot,4053,Espanyol,Atletico Madrid,0,1,2017-04-22 19:45:00,Jurado,Pass
+142371,31,MissedShots,0.7240000152587891,0.6780000305175782,0.01295711100101471,Javi Fuego,h,2377,OpenPlay,2016,LeftFoot,4053,Espanyol,Atletico Madrid,0,1,2017-04-22 19:45:00,Víctor Sánchez,Interception
+142375,53,BlockedShot,0.870999984741211,0.710999984741211,0.04849332943558693,Pablo Piatti,h,2382,OpenPlay,2016,LeftFoot,4053,Espanyol,Atletico Madrid,0,1,2017-04-22 19:45:00,Javi Fuego,HeadPass
+142376,55,MissedShots,0.9009999847412109,0.39799999237060546,0.047667790204286575,Pablo Piatti,h,2382,FromCorner,2016,LeftFoot,4053,Espanyol,Atletico Madrid,0,1,2017-04-22 19:45:00,Víctor Sánchez,Cross
+142378,61,BlockedShot,0.799000015258789,0.46599998474121096,0.044181518256664276,Jurado,h,582,OpenPlay,2016,RightFoot,4053,Espanyol,Atletico Madrid,0,1,2017-04-22 19:45:00,Pablo Piatti,TakeOn
+142385,74,SavedShot,0.899000015258789,0.40799999237060547,0.4231521785259247,Leo Baptistao,h,2304,OpenPlay,2016,RightFoot,4053,Espanyol,Atletico Madrid,0,1,2017-04-22 19:45:00,Javi Fuego,TakeOn
+142386,77,MissedShots,0.9209999847412109,0.4570000076293945,0.10101322084665298,Gerard Moreno,h,2120,FromCorner,2016,Head,4053,Espanyol,Atletico Madrid,0,1,2017-04-22 19:45:00,Pablo Piatti,Cross
+142387,84,SavedShot,0.7119999694824218,0.26600000381469724,0.013767048716545105,Leo Baptistao,h,2304,OpenPlay,2016,RightFoot,4053,Espanyol,Atletico Madrid,0,1,2017-04-22 19:45:00,Reyes,TakeOn
+142388,85,MissedShots,0.7280000305175781,0.40599998474121096,0.014682241715490818,Víctor Sánchez,h,2113,FromCorner,2016,LeftFoot,4053,Espanyol,Atletico Madrid,0,1,2017-04-22 19:45:00,,None
+142368,13,SavedShot,0.7240000152587891,0.34599998474121096,0.01584898680448532,Yannick Carrasco,a,2272,OpenPlay,2016,RightFoot,4053,Espanyol,Atletico Madrid,0,1,2017-04-22 19:45:00,Saúl Ñíguez,Pass
+142370,29,SavedShot,0.8330000305175781,0.49599998474121093,0.032624613493680954,Fernando Torres,a,2271,SetPiece,2016,Head,4053,Espanyol,Atletico Madrid,0,1,2017-04-22 19:45:00,Gabi,Chipped
+142372,42,MissedShots,0.8769999694824219,0.4540000152587891,0.12034232914447784,Fernando Torres,a,2271,OpenPlay,2016,RightFoot,4053,Espanyol,Atletico Madrid,0,1,2017-04-22 19:45:00,,TakeOn
+142373,46,MissedShots,0.78,0.720999984741211,0.02210269309580326,Antoine Griezmann,a,2270,OpenPlay,2016,LeftFoot,4053,Espanyol,Atletico Madrid,0,1,2017-04-22 19:45:00,Saúl Ñíguez,Pass
+142374,47,MissedShots,0.75,0.6509999847412109,0.021837279200553894,Saúl Ñíguez,a,2266,OpenPlay,2016,LeftFoot,4053,Espanyol,Atletico Madrid,0,1,2017-04-22 19:45:00,Filipe Luis,Pass
+142377,60,MissedShots,0.8959999847412109,0.5370000076293945,0.061066824942827225,Diego Godín,a,2264,FromCorner,2016,Head,4053,Espanyol,Atletico Madrid,0,1,2017-04-22 19:45:00,Koke,Cross
+142379,62,BlockedShot,0.7719999694824219,0.32,0.020747635513544083,Yannick Carrasco,a,2272,OpenPlay,2016,RightFoot,4053,Espanyol,Atletico Madrid,0,1,2017-04-22 19:45:00,Giménez,Pass
+142380,63,BlockedShot,0.759000015258789,0.48700000762939455,0.02638811618089676,Saúl Ñíguez,a,2266,OpenPlay,2016,RightFoot,4053,Espanyol,Atletico Madrid,0,1,2017-04-22 19:45:00,Yannick Carrasco,Pass
+142381,66,BlockedShot,0.8769999694824219,0.46900001525878904,0.036164652556180954,Diego Godín,a,2264,FromCorner,2016,Head,4053,Espanyol,Atletico Madrid,0,1,2017-04-22 19:45:00,Gabi,Cross
+142382,71,BlockedShot,0.9219999694824219,0.53,0.10983815044164658,Filipe Luis,a,2265,OpenPlay,2016,LeftFoot,4053,Espanyol,Atletico Madrid,0,1,2017-04-22 19:45:00,,Goal
+142383,72,BlockedShot,0.8280000305175781,0.45599998474121095,0.059934843331575394,Saúl Ñíguez,a,2266,OpenPlay,2016,RightFoot,4053,Espanyol,Atletico Madrid,0,1,2017-04-22 19:45:00,,None
+142384,72,Goal,0.9530000305175781,0.6309999847412109,0.33111894130706787,Antoine Griezmann,a,2270,OpenPlay,2016,LeftFoot,4053,Espanyol,Atletico Madrid,0,1,2017-04-22 19:45:00,,Rebound
+142389,87,MissedShots,0.755,0.6,0.029904179275035858,Antoine Griezmann,a,2270,OpenPlay,2016,LeftFoot,4053,Espanyol,Atletico Madrid,0,1,2017-04-22 19:45:00,Koke,Pass

@@ -1,0 +1,29 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+299290,7,MissedShots,0.705,0.3129999923706055,0.009768284857273102,Grady Diangana,h,6651,OpenPlay,2018,LeftFoot,9558,West Ham,Southampton,3,0,2019-05-04 14:00:00,,None
+299291,10,BlockedShot,0.825,0.39,0.04318833723664284,Grady Diangana,h,6651,OpenPlay,2018,LeftFoot,9558,West Ham,Southampton,3,0,2019-05-04 14:00:00,Marko Arnautovic,Pass
+299292,10,BlockedShot,0.725,0.4370000076293945,0.02057304047048092,Marko Arnautovic,h,865,OpenPlay,2018,RightFoot,9558,West Ham,Southampton,3,0,2019-05-04 14:00:00,Manuel Lanzini,Pass
+299294,15,Goal,0.905,0.625999984741211,0.3449096381664276,Marko Arnautovic,h,865,OpenPlay,2018,LeftFoot,9558,West Ham,Southampton,3,0,2019-05-04 14:00:00,Mark Noble,Throughball
+299295,21,SavedShot,0.8469999694824218,0.7609999847412109,0.02990325354039669,Manuel Lanzini,h,535,OpenPlay,2018,RightFoot,9558,West Ham,Southampton,3,0,2019-05-04 14:00:00,Arthur Masuaku,TakeOn
+299296,21,BlockedShot,0.7709999847412109,0.32799999237060545,0.018948473036289215,Ryan Fredericks,h,6891,OpenPlay,2018,RightFoot,9558,West Ham,Southampton,3,0,2019-05-04 14:00:00,,Rebound
+299297,29,SavedShot,0.795,0.674000015258789,0.04403385892510414,Michail Antonio,h,531,OpenPlay,2018,RightFoot,9558,West Ham,Southampton,3,0,2019-05-04 14:00:00,,TakeOn
+299298,33,MissedShots,0.8040000152587891,0.750999984741211,0.02507053315639496,Arthur Masuaku,h,1760,OpenPlay,2018,LeftFoot,9558,West Ham,Southampton,3,0,2019-05-04 14:00:00,Pedro Obiang,BallRecovery
+299301,45,SavedShot,0.8769999694824219,0.7180000305175781,0.05329105630517006,Michail Antonio,h,531,OpenPlay,2018,RightFoot,9558,West Ham,Southampton,3,0,2019-05-04 14:00:00,Pedro Obiang,Pass
+299308,66,MissedShots,0.860999984741211,0.6869999694824219,0.054387181997299194,Manuel Lanzini,h,535,OpenPlay,2018,RightFoot,9558,West Ham,Southampton,3,0,2019-05-04 14:00:00,Michail Antonio,Pass
+299309,68,BlockedShot,0.855999984741211,0.46599998474121096,0.11471766233444214,Marko Arnautovic,h,865,OpenPlay,2018,LeftFoot,9558,West Ham,Southampton,3,0,2019-05-04 14:00:00,Arthur Masuaku,Pass
+299310,68,Goal,0.9830000305175781,0.4759999847412109,0.9138096570968628,Marko Arnautovic,h,865,OpenPlay,2018,Head,9558,West Ham,Southampton,3,0,2019-05-04 14:00:00,,None
+299312,71,Goal,0.905,0.34900001525878904,0.07918008416891098,Ryan Fredericks,h,6891,OpenPlay,2018,RightFoot,9558,West Ham,Southampton,3,0,2019-05-04 14:00:00,,None
+299313,73,MissedShots,0.8159999847412109,0.515,0.08702364563941956,Manuel Lanzini,h,535,OpenPlay,2018,RightFoot,9558,West Ham,Southampton,3,0,2019-05-04 14:00:00,Jack Wilshere,Pass
+299314,82,MissedShots,0.7330000305175781,0.51,0.053430378437042236,Marko Arnautovic,h,865,DirectFreekick,2018,RightFoot,9558,West Ham,Southampton,3,0,2019-05-04 14:00:00,,Standard
+299315,85,MissedShots,0.8230000305175781,0.534000015258789,0.08643490821123123,Marko Arnautovic,h,865,OpenPlay,2018,RightFoot,9558,West Ham,Southampton,3,0,2019-05-04 14:00:00,Lucas Pérez,Pass
+299316,92,BlockedShot,0.7330000305175781,0.53,0.02055703103542328,Pedro Obiang,h,542,OpenPlay,2018,LeftFoot,9558,West Ham,Southampton,3,0,2019-05-04 14:00:00,Jack Wilshere,Pass
+299289,5,MissedShots,0.9290000152587891,0.27,0.042602088302373886,Stuart Armstrong,a,6893,OpenPlay,2018,RightFoot,9558,West Ham,Southampton,3,0,2019-05-04 14:00:00,Danny Ings,Pass
+299293,13,MissedShots,0.8640000152587891,0.6659999847412109,0.06979770958423615,Mohamed Elyounoussi,a,6894,OpenPlay,2018,RightFoot,9558,West Ham,Southampton,3,0,2019-05-04 14:00:00,Ryan Bertrand,TakeOn
+299299,39,BlockedShot,0.7269999694824218,0.53,0.018961206078529358,Stuart Armstrong,a,6893,OpenPlay,2018,RightFoot,9558,West Ham,Southampton,3,0,2019-05-04 14:00:00,Mario Lemina,Pass
+299300,40,BlockedShot,0.6990000152587891,0.5259999847412109,0.011313298717141151,Stuart Armstrong,a,6893,OpenPlay,2018,RightFoot,9558,West Ham,Southampton,3,0,2019-05-04 14:00:00,Mario Lemina,BallRecovery
+299302,45,BlockedShot,0.9369999694824219,0.6580000305175782,0.06379756331443787,Nathan Redmond,a,790,OpenPlay,2018,LeftFoot,9558,West Ham,Southampton,3,0,2019-05-04 14:00:00,Stuart Armstrong,Chipped
+299303,50,MissedShots,0.925,0.3509999847412109,0.05948854982852936,Nathan Redmond,a,790,FromCorner,2018,RightFoot,9558,West Ham,Southampton,3,0,2019-05-04 14:00:00,,None
+299304,58,BlockedShot,0.755,0.33799999237060546,0.022536849603056908,Stuart Armstrong,a,6893,OpenPlay,2018,RightFoot,9558,West Ham,Southampton,3,0,2019-05-04 14:00:00,,TakeOn
+299305,62,BlockedShot,0.909000015258789,0.6909999847412109,0.046742722392082214,Nathan Redmond,a,790,OpenPlay,2018,RightFoot,9558,West Ham,Southampton,3,0,2019-05-04 14:00:00,Shane Long,Pass
+299306,63,MissedShots,0.915,0.52,0.037194106727838516,Jan Bednarek,a,6042,FromCorner,2018,Head,9558,West Ham,Southampton,3,0,2019-05-04 14:00:00,Ryan Bertrand,Aerial
+299307,63,SavedShot,0.92,0.3340000152587891,0.058024343103170395,Nathan Redmond,a,790,FromCorner,2018,RightFoot,9558,West Ham,Southampton,3,0,2019-05-04 14:00:00,Jan Bednarek,Rebound
+299311,70,BlockedShot,0.7319999694824219,0.3320000076293945,0.015385215170681477,Mario Lemina,a,1299,OpenPlay,2018,RightFoot,9558,West Ham,Southampton,3,0,2019-05-04 14:00:00,Jan Bednarek,Pass

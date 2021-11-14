@@ -1,0 +1,27 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+43201,12,BlockedShot,0.9209999847412109,0.46,0.10405096411705017,Simone Zaza,h,1642,OpenPlay,2014,LeftFoot,5080,Sassuolo,Juventus,1,1,2014-10-18 19:45:00,Alessandro Longhi,HeadPass
+43202,12,MissedShots,0.86,0.6229999923706054,0.05331288278102875,Alessandro Longhi,h,1827,OpenPlay,2014,LeftFoot,5080,Sassuolo,Juventus,1,1,2014-10-18 19:45:00,,Rebound
+43203,12,Goal,0.9230000305175782,0.45,0.4328332841396332,Simone Zaza,h,1642,OpenPlay,2014,LeftFoot,5080,Sassuolo,Juventus,1,1,2014-10-18 19:45:00,Alessandro Longhi,Rebound
+43211,50,MissedShots,0.7280000305175781,0.45799999237060546,0.04998541623353958,Domenico Berardi,h,1612,DirectFreekick,2014,LeftFoot,5080,Sassuolo,Juventus,1,1,2014-10-18 19:45:00,,Standard
+43212,55,BlockedShot,0.6680000305175782,0.34,0.026613472029566765,Domenico Berardi,h,1612,DirectFreekick,2014,LeftFoot,5080,Sassuolo,Juventus,1,1,2014-10-18 19:45:00,,Standard
+43213,58,MissedShots,0.905,0.500999984741211,0.10419883579015732,Luca Antei,h,1482,SetPiece,2014,Head,5080,Sassuolo,Juventus,1,1,2014-10-18 19:45:00,Domenico Berardi,Cross
+43215,64,SavedShot,0.8219999694824218,0.6179999923706054,0.062220100313425064,Simone Zaza,h,1642,OpenPlay,2014,LeftFoot,5080,Sassuolo,Juventus,1,1,2014-10-18 19:45:00,Nicola Sansone,TakeOn
+43197,0,MissedShots,0.534000015258789,0.47900001525878905,0.008399990387260914,Carlos Tévez,a,3848,OpenPlay,2014,RightFoot,5080,Sassuolo,Juventus,1,1,2014-10-18 19:45:00,Fernando Llorente,Pass
+43198,10,SavedShot,0.9330000305175781,0.5220000076293946,0.46093830466270447,Fernando Llorente,a,1728,OpenPlay,2014,RightFoot,5080,Sassuolo,Juventus,1,1,2014-10-18 19:45:00,Paul Pogba,Cross
+43199,11,BlockedShot,0.8719999694824219,0.5379999923706055,0.08656029403209686,Roberto Pereyra,a,1723,OpenPlay,2014,RightFoot,5080,Sassuolo,Juventus,1,1,2014-10-18 19:45:00,,Rebound
+43200,11,BlockedShot,0.9259999847412109,0.5220000076293946,0.052368082106113434,Fernando Llorente,a,1728,FromCorner,2014,Head,5080,Sassuolo,Juventus,1,1,2014-10-18 19:45:00,Andrea Pirlo,Aerial
+43204,18,Goal,0.825999984741211,0.6659999847412109,0.03527895361185074,Paul Pogba,a,1740,OpenPlay,2014,RightFoot,5080,Sassuolo,Juventus,1,1,2014-10-18 19:45:00,Carlos Tévez,Pass
+43205,35,MissedShots,0.885,0.40599998474121096,0.07017833739519119,Angelo Ogbonna,a,528,FromCorner,2014,LeftFoot,5080,Sassuolo,Juventus,1,1,2014-10-18 19:45:00,,None
+43206,38,SavedShot,0.904000015258789,0.3060000038146973,0.053651586174964905,Stephan Lichtsteiner,a,1303,OpenPlay,2014,RightFoot,5080,Sassuolo,Juventus,1,1,2014-10-18 19:45:00,Andrea Pirlo,Pass
+43207,40,SavedShot,0.855999984741211,0.46700000762939453,0.40774792432785034,Paul Pogba,a,1740,OpenPlay,2014,RightFoot,5080,Sassuolo,Juventus,1,1,2014-10-18 19:45:00,,TakeOn
+43208,40,SavedShot,0.8669999694824219,0.575999984741211,0.07143371552228928,Carlos Tévez,a,3848,OpenPlay,2014,RightFoot,5080,Sassuolo,Juventus,1,1,2014-10-18 19:45:00,,Rebound
+43209,42,MissedShots,0.8190000152587891,0.5259999847412109,0.06887649744749069,Roberto Pereyra,a,1723,OpenPlay,2014,LeftFoot,5080,Sassuolo,Juventus,1,1,2014-10-18 19:45:00,Paul Pogba,Pass
+43210,46,MissedShots,0.85,0.5359999847412109,0.056550513952970505,Carlos Tévez,a,3848,OpenPlay,2014,LeftFoot,5080,Sassuolo,Juventus,1,1,2014-10-18 19:45:00,Patrice Evra,Cross
+43214,60,MissedShots,0.815,0.49,0.05116396024823189,Claudio Marchisio,a,1300,OpenPlay,2014,RightFoot,5080,Sassuolo,Juventus,1,1,2014-10-18 19:45:00,,None
+43216,70,MissedShots,0.9340000152587891,0.475,0.12028618156909943,Giorgio Chiellini,a,1576,FromCorner,2014,Head,5080,Sassuolo,Juventus,1,1,2014-10-18 19:45:00,Andrea Pirlo,Cross
+43217,71,MissedShots,0.8859999847412109,0.5579999923706055,0.13205571472644806,Kingsley Coman,a,226,OpenPlay,2014,LeftFoot,5080,Sassuolo,Juventus,1,1,2014-10-18 19:45:00,,TakeOn
+43218,76,SavedShot,0.8619999694824219,0.54,0.10805819928646088,Paul Pogba,a,1740,OpenPlay,2014,RightFoot,5080,Sassuolo,Juventus,1,1,2014-10-18 19:45:00,Carlos Tévez,Pass
+43219,79,MissedShots,0.7869999694824219,0.7419999694824219,0.015699557960033417,Carlos Tévez,a,3848,OpenPlay,2014,RightFoot,5080,Sassuolo,Juventus,1,1,2014-10-18 19:45:00,Angelo Ogbonna,Pass
+43220,83,MissedShots,0.9730000305175781,0.3840000152587891,0.10896657407283783,Kingsley Coman,a,226,OpenPlay,2014,RightFoot,5080,Sassuolo,Juventus,1,1,2014-10-18 19:45:00,Sebastian Giovinco,Pass
+43221,93,BlockedShot,0.8819999694824219,0.33,0.0802559107542038,Roberto Pereyra,a,1723,OpenPlay,2014,RightFoot,5080,Sassuolo,Juventus,1,1,2014-10-18 19:45:00,Sebastian Giovinco,LayOff
+43222,93,MissedShots,0.7709999847412109,0.6419999694824219,0.020775217562913895,Angelo Ogbonna,a,528,OpenPlay,2014,LeftFoot,5080,Sassuolo,Juventus,1,1,2014-10-18 19:45:00,Paul Pogba,Pass

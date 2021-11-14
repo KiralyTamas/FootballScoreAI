@@ -1,0 +1,35 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+390097,1,BlockedShot,0.850999984741211,0.42400001525878905,0.07439663261175156,Ermedin Demirovic,h,6496,OpenPlay,2020,RightFoot,15223,Freiburg,Borussia M.Gladbach,2,2,2020-12-05 14:30:00,,BallTouch
+390098,9,MissedShots,0.7369999694824219,0.6270000076293946,0.05086546391248703,Jonathan Schmid,h,81,DirectFreekick,2020,RightFoot,15223,Freiburg,Borussia M.Gladbach,2,2,2020-12-05 14:30:00,,Standard
+390100,14,ShotOnPost,0.8690000152587891,0.5179999923706055,0.3928464651107788,Lucas Höler,h,6475,OpenPlay,2020,LeftFoot,15223,Freiburg,Borussia M.Gladbach,2,2,2020-12-05 14:30:00,Ermedin Demirovic,Pass
+390101,14,MissedShots,0.919000015258789,0.4540000152587891,0.5915364623069763,Lucas Höler,h,6475,OpenPlay,2020,RightFoot,15223,Freiburg,Borussia M.Gladbach,2,2,2020-12-05 14:30:00,,Rebound
+390102,20,MissedShots,0.7219999694824218,0.605999984741211,0.01662967912852764,Baptiste Santamaria,h,5654,OpenPlay,2020,RightFoot,15223,Freiburg,Borussia M.Gladbach,2,2,2020-12-05 14:30:00,Vincenzo Grifo,Pass
+390104,26,SavedShot,0.84,0.34299999237060547,0.04706989973783493,Ermedin Demirovic,h,6496,OpenPlay,2020,RightFoot,15223,Freiburg,Borussia M.Gladbach,2,2,2020-12-05 14:30:00,Vincenzo Grifo,Pass
+390105,30,SavedShot,0.8340000152587891,0.41,0.05071606487035751,Vincenzo Grifo,h,5266,OpenPlay,2020,RightFoot,15223,Freiburg,Borussia M.Gladbach,2,2,2020-12-05 14:30:00,Nicolas Höfler,Pass
+390106,31,BlockedShot,0.885,0.67,0.03548899665474892,Baptiste Santamaria,h,5654,FromCorner,2020,RightFoot,15223,Freiburg,Borussia M.Gladbach,2,2,2020-12-05 14:30:00,Vincenzo Grifo,Cross
+390107,31,Goal,0.960999984741211,0.4640000152587891,0.46647346019744873,Philipp Lienhart,h,2611,FromCorner,2020,Head,15223,Freiburg,Borussia M.Gladbach,2,2,2020-12-05 14:30:00,Vincenzo Grifo,Cross
+390108,33,MissedShots,0.9490000152587891,0.51,0.47398754954338074,Keven Schlotterbeck,h,7401,FromCorner,2020,Head,15223,Freiburg,Borussia M.Gladbach,2,2,2020-12-05 14:30:00,Vincenzo Grifo,Cross
+390111,38,SavedShot,0.9019999694824219,0.5429999923706055,0.09328345954418182,Ermedin Demirovic,h,6496,OpenPlay,2020,Head,15223,Freiburg,Borussia M.Gladbach,2,2,2020-12-05 14:30:00,Christian Günter,Cross
+390113,48,Goal,0.885,0.5,0.75777667760849,Vincenzo Grifo,h,5266,Penalty,2020,RightFoot,15223,Freiburg,Borussia M.Gladbach,2,2,2020-12-05 14:30:00,,Standard
+390116,56,MissedShots,0.905,0.5970000076293945,0.049747638404369354,Lucas Höler,h,6475,FromCorner,2020,RightFoot,15223,Freiburg,Borussia M.Gladbach,2,2,2020-12-05 14:30:00,Vincenzo Grifo,Cross
+390118,63,MissedShots,0.769000015258789,0.3390000152587891,0.06320258229970932,Christian Günter,h,4243,DirectFreekick,2020,RightFoot,15223,Freiburg,Borussia M.Gladbach,2,2,2020-12-05 14:30:00,,Standard
+390119,65,BlockedShot,0.9019999694824219,0.3060000038146973,0.05908183008432388,Lucas Höler,h,6475,OpenPlay,2020,RightFoot,15223,Freiburg,Borussia M.Gladbach,2,2,2020-12-05 14:30:00,Ermedin Demirovic,Pass
+390120,65,BlockedShot,0.874000015258789,0.6840000152587891,0.03357560560107231,Ermedin Demirovic,h,6496,FromCorner,2020,RightFoot,15223,Freiburg,Borussia M.Gladbach,2,2,2020-12-05 14:30:00,Vincenzo Grifo,Cross
+390121,67,MissedShots,0.715,0.29600000381469727,0.013645268976688385,Baptiste Santamaria,h,5654,OpenPlay,2020,RightFoot,15223,Freiburg,Borussia M.Gladbach,2,2,2020-12-05 14:30:00,Vincenzo Grifo,Pass
+390123,77,ShotOnPost,0.9590000152587891,0.6719999694824219,0.05055786669254303,Vincenzo Grifo,h,5266,OpenPlay,2020,RightFoot,15223,Freiburg,Borussia M.Gladbach,2,2,2020-12-05 14:30:00,Christian Günter,Chipped
+390125,83,MissedShots,0.9540000152587891,0.4329999923706055,0.5425882339477539,Nils Petersen,h,4248,OpenPlay,2020,RightFoot,15223,Freiburg,Borussia M.Gladbach,2,2,2020-12-05 14:30:00,,None
+390127,86,SavedShot,0.7859999847412109,0.62,0.03001820296049118,Christian Günter,h,4243,OpenPlay,2020,LeftFoot,15223,Freiburg,Borussia M.Gladbach,2,2,2020-12-05 14:30:00,Jonathan Schmid,Pass
+390128,88,SavedShot,0.904000015258789,0.47400001525878904,0.10418742150068283,Roland Sallai,h,1277,SetPiece,2020,Head,15223,Freiburg,Borussia M.Gladbach,2,2,2020-12-05 14:30:00,Christian Günter,Cross
+390130,91,MissedShots,0.9630000305175781,0.575999984741211,0.25599944591522217,Roland Sallai,h,1277,SetPiece,2020,RightFoot,15223,Freiburg,Borussia M.Gladbach,2,2,2020-12-05 14:30:00,Nicolas Höfler,BallTouch
+390099,10,BlockedShot,0.759000015258789,0.44299999237060544,0.026595931500196457,Alassane Pléa,a,3310,OpenPlay,2020,RightFoot,15223,Freiburg,Borussia M.Gladbach,2,2,2020-12-05 14:30:00,Lars Stindl,Pass
+390103,22,Goal,0.9109999847412109,0.66,0.2714557647705078,Breel Embolo,a,5356,OpenPlay,2020,LeftFoot,15223,Freiburg,Borussia M.Gladbach,2,2,2020-12-05 14:30:00,Lars Stindl,Pass
+390109,34,BlockedShot,0.9169999694824219,0.45099998474121095,0.10910707712173462,Alassane Pléa,a,3310,OpenPlay,2020,RightFoot,15223,Freiburg,Borussia M.Gladbach,2,2,2020-12-05 14:30:00,Denis Zakaria,Cross
+390110,38,MissedShots,0.735,0.3039999961853027,0.01605076715350151,Stefan Lainer,a,7831,OpenPlay,2020,LeftFoot,15223,Freiburg,Borussia M.Gladbach,2,2,2020-12-05 14:30:00,Denis Zakaria,Pass
+390112,39,MissedShots,0.924000015258789,0.5520000076293945,0.0597187802195549,Breel Embolo,a,5356,OpenPlay,2020,Head,15223,Freiburg,Borussia M.Gladbach,2,2,2020-12-05 14:30:00,Stefan Lainer,Aerial
+390114,49,Goal,0.7630000305175781,0.6419999694824219,0.022347459569573402,Alassane Pléa,a,3310,OpenPlay,2020,RightFoot,15223,Freiburg,Borussia M.Gladbach,2,2,2020-12-05 14:30:00,Florian Neuhaus,Pass
+390115,55,MissedShots,0.725,0.40299999237060546,0.018463317304849625,Lars Stindl,a,208,OpenPlay,2020,RightFoot,15223,Freiburg,Borussia M.Gladbach,2,2,2020-12-05 14:30:00,Florian Neuhaus,Pass
+390117,60,MissedShots,0.955999984741211,0.41200000762939454,0.4815475344657898,Oscar Wendt,a,206,OpenPlay,2020,RightFoot,15223,Freiburg,Borussia M.Gladbach,2,2,2020-12-05 14:30:00,Breel Embolo,Pass
+390122,71,BlockedShot,0.7480000305175781,0.415,0.020191574469208717,László Bénes,a,5258,OpenPlay,2020,LeftFoot,15223,Freiburg,Borussia M.Gladbach,2,2,2020-12-05 14:30:00,Marcus Thuram,Pass
+390124,83,SavedShot,0.8969999694824219,0.3320000076293945,0.282036155462265,Patrick Herrmann,a,420,OpenPlay,2020,RightFoot,15223,Freiburg,Borussia M.Gladbach,2,2,2020-12-05 14:30:00,Florian Neuhaus,Chipped
+390126,85,SavedShot,0.7440000152587891,0.5070000076293946,0.023390894755721092,Florian Neuhaus,a,7065,OpenPlay,2020,LeftFoot,15223,Freiburg,Borussia M.Gladbach,2,2,2020-12-05 14:30:00,Patrick Herrmann,HeadPass
+390129,89,MissedShots,0.925,0.3509999847412109,0.33762210607528687,Patrick Herrmann,a,420,OpenPlay,2020,RightFoot,15223,Freiburg,Borussia M.Gladbach,2,2,2020-12-05 14:30:00,,BallRecovery

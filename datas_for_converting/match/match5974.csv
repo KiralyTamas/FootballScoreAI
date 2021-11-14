@@ -1,0 +1,28 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+2759,1,Goal,0.94,0.48700000762939455,0.11898031830787659,Zlatan Ibrahimovic,h,1741,OpenPlay,2014,RightFoot,5974,Paris Saint Germain,Caen,2,2,2015-02-14 15:00:00,Serge Aurier,Cross
+2760,2,SavedShot,0.700999984741211,0.509000015258789,0.015621820464730263,Yohan Cabaye,h,516,SetPiece,2014,RightFoot,5974,Paris Saint Germain,Caen,2,2,2015-02-14 15:00:00,Marco Verratti,Pass
+2761,6,SavedShot,0.8680000305175781,0.3390000152587891,0.07604905217885971,Yohan Cabaye,h,516,OpenPlay,2014,RightFoot,5974,Paris Saint Germain,Caen,2,2,2015-02-14 15:00:00,Serge Aurier,Pass
+2769,33,MissedShots,0.9209999847412109,0.46,0.3655667304992676,Thiago Silva,h,3288,SetPiece,2014,Head,5974,Paris Saint Germain,Caen,2,2,2015-02-14 15:00:00,Ezequiel Lavezzi,Aerial
+2770,39,Goal,0.91,0.6769999694824219,0.08382432907819748,Ezequiel Lavezzi,h,3643,OpenPlay,2014,LeftFoot,5974,Paris Saint Germain,Caen,2,2,2015-02-14 15:00:00,Lucas Moura,Pass
+2771,40,MissedShots,0.8959999847412109,0.6040000152587891,0.1321399211883545,Ezequiel Lavezzi,h,3643,OpenPlay,2014,RightFoot,5974,Paris Saint Germain,Caen,2,2,2015-02-14 15:00:00,Zlatan Ibrahimovic,Pass
+2773,46,SavedShot,0.7230000305175781,0.5879999923706055,0.018111487850546837,Adrien Rabiot,h,3291,OpenPlay,2014,LeftFoot,5974,Paris Saint Germain,Caen,2,2,2015-02-14 15:00:00,,BallRecovery
+2774,58,MissedShots,0.8959999847412109,0.5690000152587891,0.06371982395648956,Zlatan Ibrahimovic,h,1741,SetPiece,2014,Head,5974,Paris Saint Germain,Caen,2,2,2015-02-14 15:00:00,Lucas Moura,Cross
+2775,59,SavedShot,0.8830000305175781,0.5709999847412109,0.03545030951499939,Ezequiel Lavezzi,h,3643,OpenPlay,2014,Head,5974,Paris Saint Germain,Caen,2,2,2015-02-14 15:00:00,Zlatan Ibrahimovic,Cross
+2777,65,MissedShots,0.9469999694824218,0.30700000762939456,0.041364748030900955,Zlatan Ibrahimovic,h,1741,FromCorner,2014,RightFoot,5974,Paris Saint Germain,Caen,2,2,2015-02-14 15:00:00,,None
+2778,67,MissedShots,0.9330000305175781,0.5070000076293946,0.5003995895385742,David Luiz,h,1676,SetPiece,2014,Head,5974,Paris Saint Germain,Caen,2,2,2015-02-14 15:00:00,Lucas Moura,Cross
+2780,73,BlockedShot,0.9130000305175782,0.555,0.11779216676950455,Adrien Rabiot,h,3291,OpenPlay,2014,RightFoot,5974,Paris Saint Germain,Caen,2,2,2015-02-14 15:00:00,,None
+2781,80,MissedShots,0.730999984741211,0.66,0.015661854296922684,Marco Verratti,h,3552,OpenPlay,2014,RightFoot,5974,Paris Saint Germain,Caen,2,2,2015-02-14 15:00:00,Maxwell,Pass
+2762,18,SavedShot,0.899000015258789,0.600999984741211,0.08815576881170273,Emiliano Sala,a,3406,OpenPlay,2014,RightFoot,5974,Paris Saint Germain,Caen,2,2,2015-02-14 15:00:00,Julien Féret,Pass
+2763,18,BlockedShot,0.87,0.5590000152587891,0.07202893495559692,Nicolas Benezet,a,3574,OpenPlay,2014,LeftFoot,5974,Paris Saint Germain,Caen,2,2,2015-02-14 15:00:00,,Rebound
+2764,19,BlockedShot,0.784000015258789,0.4520000076293945,0.03070775605738163,N&#039;Golo Kanté,a,751,OpenPlay,2014,RightFoot,5974,Paris Saint Germain,Caen,2,2,2015-02-14 15:00:00,Nicolas Benezet,Pass
+2765,19,BlockedShot,0.7680000305175781,0.7030000305175781,0.018882984295487404,Bangaly-Fodé Koita,a,4706,OpenPlay,2014,LeftFoot,5974,Paris Saint Germain,Caen,2,2,2015-02-14 15:00:00,,Rebound
+2766,19,MissedShots,0.77,0.5420000076293945,0.030108019709587097,Nicolas Seube,a,3543,OpenPlay,2014,LeftFoot,5974,Paris Saint Germain,Caen,2,2,2015-02-14 15:00:00,,Rebound
+2767,23,BlockedShot,0.8159999847412109,0.504000015258789,0.03083588182926178,Julien Féret,a,3527,OpenPlay,2014,RightFoot,5974,Paris Saint Germain,Caen,2,2,2015-02-14 15:00:00,,TakeOn
+2768,23,MissedShots,0.759000015258789,0.4979999923706055,0.03348109871149063,Nicolas Seube,a,3543,OpenPlay,2014,RightFoot,5974,Paris Saint Germain,Caen,2,2,2015-02-14 15:00:00,Julien Féret,Rebound
+2772,43,SavedShot,0.78,0.6419999694824219,0.021672118455171585,Julien Féret,a,3527,OpenPlay,2014,RightFoot,5974,Paris Saint Germain,Caen,2,2,2015-02-14 15:00:00,Emiliano Sala,Pass
+2776,62,SavedShot,0.8080000305175781,0.31799999237060544,0.032716795802116394,Nicolas Benezet,a,3574,OpenPlay,2014,LeftFoot,5974,Paris Saint Germain,Caen,2,2,2015-02-14 15:00:00,,TakeOn
+2779,71,MissedShots,0.82,0.5129999923706055,0.07095685601234436,Emiliano Sala,a,3406,OpenPlay,2014,RightFoot,5974,Paris Saint Germain,Caen,2,2,2015-02-14 15:00:00,Julien Féret,Pass
+2782,84,BlockedShot,0.794000015258789,0.2670000076293945,0.021838579326868057,Herve Bazile,a,3532,FromCorner,2014,LeftFoot,5974,Paris Saint Germain,Caen,2,2,2015-02-14 15:00:00,N&#039;Golo Kanté,Pass
+2783,87,MissedShots,0.7859999847412109,0.28299999237060547,0.014961742796003819,N&#039;Golo Kanté,a,751,OpenPlay,2014,RightFoot,5974,Paris Saint Germain,Caen,2,2,2015-02-14 15:00:00,Jordan Adeoti,Interception
+2784,88,Goal,0.8930000305175781,0.4420000076293945,0.11246649920940399,Emiliano Sala,a,3406,OpenPlay,2014,RightFoot,5974,Paris Saint Germain,Caen,2,2,2015-02-14 15:00:00,Dennis Appiah,Pass
+2785,91,Goal,0.8080000305175781,0.6329999923706054,0.10486302524805069,Herve Bazile,a,3532,DirectFreekick,2014,LeftFoot,5974,Paris Saint Germain,Caen,2,2,2015-02-14 15:00:00,,Standard

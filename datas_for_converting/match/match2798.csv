@@ -1,0 +1,29 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+138232,4,Goal,0.885,0.5,0.7432776093482971,Cristiano Ronaldo,h,2371,Penalty,2016,RightFoot,2798,Real Madrid,Sporting Gijon,2,1,2016-11-26 19:15:00,,Standard
+138233,6,BlockedShot,0.895,0.6730000305175782,0.08296770602464676,Nacho,h,2247,OpenPlay,2016,RightFoot,2798,Real Madrid,Sporting Gijon,2,1,2016-11-26 19:15:00,James Rodríguez,Pass
+138235,11,BlockedShot,0.8090000152587891,0.705,0.035789523273706436,James Rodríguez,h,2249,OpenPlay,2016,LeftFoot,2798,Real Madrid,Sporting Gijon,2,1,2016-11-26 19:15:00,,None
+138236,12,MissedShots,0.955999984741211,0.53,0.47593116760253906,Cristiano Ronaldo,h,2371,FromCorner,2016,Head,2798,Real Madrid,Sporting Gijon,2,1,2016-11-26 19:15:00,Luka Modric,Cross
+138237,17,Goal,0.9230000305175782,0.42900001525878906,0.2918063998222351,Cristiano Ronaldo,h,2371,OpenPlay,2016,Head,2798,Real Madrid,Sporting Gijon,2,1,2016-11-26 19:15:00,Nacho,Cross
+138238,20,BlockedShot,0.8630000305175781,0.52,0.0707504004240036,Sergio Ramos,h,2246,FromCorner,2016,RightFoot,2798,Real Madrid,Sporting Gijon,2,1,2016-11-26 19:15:00,,None
+138243,38,MissedShots,0.904000015258789,0.33299999237060546,0.08771064877510071,Lucas Vázquez,h,2253,OpenPlay,2016,RightFoot,2798,Real Madrid,Sporting Gijon,2,1,2016-11-26 19:15:00,Cristiano Ronaldo,Pass
+138244,41,SavedShot,0.8119999694824219,0.54,0.06902684271335602,Cristiano Ronaldo,h,2371,OpenPlay,2016,RightFoot,2798,Real Madrid,Sporting Gijon,2,1,2016-11-26 19:15:00,Lucas Vázquez,Pass
+138245,47,MissedShots,0.91,0.46599998474121096,0.12727005779743195,Karim Benzema,h,2370,OpenPlay,2016,Head,2798,Real Madrid,Sporting Gijon,2,1,2016-11-26 19:15:00,Lucas Vázquez,Cross
+138246,55,SavedShot,0.845,0.69,0.04445023834705353,Cristiano Ronaldo,h,2371,OpenPlay,2016,RightFoot,2798,Real Madrid,Sporting Gijon,2,1,2016-11-26 19:15:00,Mateo Kovacic,Pass
+138247,57,SavedShot,0.9390000152587891,0.49900001525878906,0.5480014085769653,Karim Benzema,h,2370,OpenPlay,2016,Head,2798,Real Madrid,Sporting Gijon,2,1,2016-11-26 19:15:00,Lucas Vázquez,Cross
+138248,60,SavedShot,0.9009999847412109,0.745,0.040991250425577164,Nacho,h,2247,OpenPlay,2016,LeftFoot,2798,Real Madrid,Sporting Gijon,2,1,2016-11-26 19:15:00,Cristiano Ronaldo,Pass
+138249,63,BlockedShot,0.7769999694824219,0.455,0.03682784363627434,Mateo Kovacic,h,2254,OpenPlay,2016,RightFoot,2798,Real Madrid,Sporting Gijon,2,1,2016-11-26 19:15:00,Pepe,Pass
+138250,64,MissedShots,0.895,0.5579999923706055,0.020850250497460365,Cristiano Ronaldo,h,2371,FromCorner,2016,Head,2798,Real Madrid,Sporting Gijon,2,1,2016-11-26 19:15:00,Luka Modric,Aerial
+138251,70,MissedShots,0.779000015258789,0.38,0.036776136606931686,Luka Modric,h,2250,OpenPlay,2016,RightFoot,2798,Real Madrid,Sporting Gijon,2,1,2016-11-26 19:15:00,Mateo Kovacic,Pass
+138252,72,MissedShots,0.8969999694824219,0.37400001525878906,0.02710704132914543,Lucas Vázquez,h,2253,SetPiece,2016,RightFoot,2798,Real Madrid,Sporting Gijon,2,1,2016-11-26 19:15:00,Cristiano Ronaldo,Cross
+138255,83,BlockedShot,0.7140000152587891,0.5459999847412109,0.023361312225461006,Marco Asensio,h,2117,OpenPlay,2016,LeftFoot,2798,Real Madrid,Sporting Gijon,2,1,2016-11-26 19:15:00,Isco,Pass
+138256,86,SavedShot,0.7919999694824219,0.355,0.05215417593717575,Cristiano Ronaldo,h,2371,OpenPlay,2016,RightFoot,2798,Real Madrid,Sporting Gijon,2,1,2016-11-26 19:15:00,Isco,Pass
+138257,91,BlockedShot,0.8730000305175781,0.649000015258789,0.08617378771305084,Isco,h,2255,OpenPlay,2016,RightFoot,2798,Real Madrid,Sporting Gijon,2,1,2016-11-26 19:15:00,Cristiano Ronaldo,TakeOn
+138230,0,MissedShots,0.705999984741211,0.49900001525878906,0.01386878453195095,Duje Cop,a,2340,OpenPlay,2016,RightFoot,2798,Real Madrid,Sporting Gijon,2,1,2016-11-26 19:15:00,,BallRecovery
+138231,2,MissedShots,0.9219999694824219,0.54,0.5071841478347778,Carlos Carmona,a,2214,OpenPlay,2016,RightFoot,2798,Real Madrid,Sporting Gijon,2,1,2016-11-26 19:15:00,Isma López,Throughball
+138234,10,BlockedShot,0.774000015258789,0.44299999237060544,0.012669323943555355,Rachid,a,2220,OpenPlay,2016,RightFoot,2798,Real Madrid,Sporting Gijon,2,1,2016-11-26 19:15:00,,Aerial
+138239,25,BlockedShot,0.750999984741211,0.649000015258789,0.011615307070314884,Moi Gómez,a,2198,OpenPlay,2016,RightFoot,2798,Real Madrid,Sporting Gijon,2,1,2016-11-26 19:15:00,,None
+138240,25,BlockedShot,0.740999984741211,0.29399999618530276,0.016579648479819298,Douglas,a,2504,OpenPlay,2016,LeftFoot,2798,Real Madrid,Sporting Gijon,2,1,2016-11-26 19:15:00,Lillo,Pass
+138241,28,SavedShot,0.7759999847412109,0.6680000305175782,0.02292453497648239,Moi Gómez,a,2198,OpenPlay,2016,RightFoot,2798,Real Madrid,Sporting Gijon,2,1,2016-11-26 19:15:00,Isma López,Pass
+138242,34,Goal,0.8719999694824219,0.5690000152587891,0.053510136902332306,Carlos Carmona,a,2214,OpenPlay,2016,RightFoot,2798,Real Madrid,Sporting Gijon,2,1,2016-11-26 19:15:00,Isma López,Cross
+138253,77,MissedShots,0.885,0.5,0.7432776093482971,Duje Cop,a,2340,Penalty,2016,RightFoot,2798,Real Madrid,Sporting Gijon,2,1,2016-11-26 19:15:00,,Standard
+138254,81,SavedShot,0.8930000305175781,0.51,0.08281992375850677,Duje Cop,a,2340,OpenPlay,2016,LeftFoot,2798,Real Madrid,Sporting Gijon,2,1,2016-11-26 19:15:00,Isma López,Cross

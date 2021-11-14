@@ -1,0 +1,24 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+411006,1,SavedShot,0.9009999847412109,0.4420000076293945,0.10416463762521744,Jordan Larsson,h,7770,OpenPlay,2020,LeftFoot,14406,Spartak Moscow,Ural,5,1,2021-03-18 16:00:00,Alexander Sobolev,Chipped
+411007,1,SavedShot,0.9340000152587891,0.5640000152587891,0.44571805000305176,Ayrton Lucas,h,7475,OpenPlay,2020,RightFoot,14406,Spartak Moscow,Ural,5,1,2021-03-18 16:00:00,,Rebound
+411008,1,BlockedShot,0.955,0.639000015258789,0.04287555441260338,Samuel Gigot,h,6773,FromCorner,2020,RightFoot,14406,Spartak Moscow,Ural,5,1,2021-03-18 16:00:00,Quincy Promes,Cross
+411009,2,MissedShots,0.7380000305175781,0.46,0.015094626694917679,Giorgi Jikia,h,2834,FromCorner,2020,LeftFoot,14406,Spartak Moscow,Ural,5,1,2021-03-18 16:00:00,,None
+411010,2,SavedShot,0.91,0.6630000305175782,0.06653392314910889,Ayrton Lucas,h,7475,OpenPlay,2020,LeftFoot,14406,Spartak Moscow,Ural,5,1,2021-03-18 16:00:00,,Tackle
+411011,11,Goal,0.7669999694824219,0.30200000762939455,0.01562732830643654,Jordan Larsson,h,7770,OpenPlay,2020,LeftFoot,14406,Spartak Moscow,Ural,5,1,2021-03-18 16:00:00,Roman Zobnin,Pass
+411012,17,SavedShot,0.9059999847412109,0.22,0.03721565380692482,Roman Zobnin,h,2750,OpenPlay,2020,RightFoot,14406,Spartak Moscow,Ural,5,1,2021-03-18 16:00:00,Jordan Larsson,Pass
+411013,24,BlockedShot,0.8140000152587891,0.4640000152587891,0.06500625610351562,Jordan Larsson,h,7770,OpenPlay,2020,LeftFoot,14406,Spartak Moscow,Ural,5,1,2021-03-18 16:00:00,Quincy Promes,BallTouch
+411014,25,Goal,0.9290000152587891,0.35,0.0914541482925415,Quincy Promes,h,2815,OpenPlay,2020,LeftFoot,14406,Spartak Moscow,Ural,5,1,2021-03-18 16:00:00,Roman Zobnin,Pass
+411016,32,MissedShots,0.779000015258789,0.5929999923706055,0.030543530359864235,Ayrton Lucas,h,7475,FromCorner,2020,LeftFoot,14406,Spartak Moscow,Ural,5,1,2021-03-18 16:00:00,Jorrit Hendrix,Pass
+411018,38,MissedShots,0.874000015258789,0.629000015258789,0.10969497263431549,Ayrton Lucas,h,7475,OpenPlay,2020,RightFoot,14406,Spartak Moscow,Ural,5,1,2021-03-18 16:00:00,Giorgi Jikia,Pass
+411019,39,MissedShots,0.9309999847412109,0.5370000076293945,0.14909830689430237,Jordan Larsson,h,7770,OpenPlay,2020,LeftFoot,14406,Spartak Moscow,Ural,5,1,2021-03-18 16:00:00,Giorgi Jikia,Pass
+411020,46,Goal,0.885,0.5,0.7542718052864075,Alexander Sobolev,h,5397,Penalty,2020,RightFoot,14406,Spartak Moscow,Ural,5,1,2021-03-18 16:00:00,,Standard
+411022,56,Goal,0.76,0.4329999923706055,0.06500949710607529,Jordan Larsson,h,7770,DirectFreekick,2020,LeftFoot,14406,Spartak Moscow,Ural,5,1,2021-03-18 16:00:00,,Standard
+411025,80,BlockedShot,0.784000015258789,0.5670000076293945,0.03485988825559616,Jorrit Hendrix,h,9392,OpenPlay,2020,RightFoot,14406,Spartak Moscow,Ural,5,1,2021-03-18 16:00:00,Alexander Sobolev,Pass
+411028,96,Goal,0.885,0.5,0.7542718052864075,Alexander Sobolev,h,5397,Penalty,2020,RightFoot,14406,Spartak Moscow,Ural,5,1,2021-03-18 16:00:00,,Standard
+411015,28,MissedShots,0.8430000305175781,0.3659999847412109,0.08377819508314133,Eric Bicfalvi,a,5483,OpenPlay,2020,LeftFoot,14406,Spartak Moscow,Ural,5,1,2021-03-18 16:00:00,Rafal Augustyniak,TakeOn
+411017,34,MissedShots,0.925,0.5420000076293945,0.04018378257751465,Rafal Augustyniak,a,7633,FromCorner,2020,Head,14406,Spartak Moscow,Ural,5,1,2021-03-18 16:00:00,Igor Kalinin,Aerial
+411021,54,Goal,0.885,0.5,0.7542753219604492,Eric Bicfalvi,a,5483,Penalty,2020,RightFoot,14406,Spartak Moscow,Ural,5,1,2021-03-18 16:00:00,,Standard
+411023,61,SavedShot,0.9080000305175782,0.705999984741211,0.03605271875858307,Eric Bicfalvi,a,5483,OpenPlay,2020,LeftFoot,14406,Spartak Moscow,Ural,5,1,2021-03-18 16:00:00,Ivan Konovalov,Pass
+411024,73,SavedShot,0.875,0.49700000762939456,0.07003696262836456,Eric Bicfalvi,a,5483,OpenPlay,2020,RightFoot,14406,Spartak Moscow,Ural,5,1,2021-03-18 16:00:00,Rafal Augustyniak,Cross
+411026,90,SavedShot,0.7090000152587891,0.27399999618530274,0.008034253492951393,Rafal Augustyniak,a,7633,OpenPlay,2020,RightFoot,14406,Spartak Moscow,Ural,5,1,2021-03-18 16:00:00,Vyacheslav Podberezkin,Pass
+411027,91,SavedShot,0.87,0.43,0.051534347236156464,Andrey Egorychev,a,6586,OpenPlay,2020,LeftFoot,14406,Spartak Moscow,Ural,5,1,2021-03-18 16:00:00,Igor Kalinin,Cross

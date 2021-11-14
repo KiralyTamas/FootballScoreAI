@@ -1,0 +1,14 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+401857,15,MissedShots,0.8109999847412109,0.505,0.04352206364274025,Nicolò Barella,h,1409,SetPiece,2020,RightFoot,15624,Inter,Benevento,4,0,2021-01-30 19:45:00,,None
+401858,18,SavedShot,0.8619999694824219,0.7559999847412109,0.03124144859611988,Ivan Perisic,h,448,OpenPlay,2020,RightFoot,15624,Inter,Benevento,4,0,2021-01-30 19:45:00,Milan Skriniar,Chipped
+401859,22,MissedShots,0.784000015258789,0.7080000305175781,0.026182742789387703,Lautaro Martínez,h,7006,OpenPlay,2020,RightFoot,15624,Inter,Benevento,4,0,2021-01-30 19:45:00,,BallRecovery
+401860,33,MissedShots,0.955999984741211,0.42400001525878905,0.30954450368881226,Achraf Hakimi,h,5197,OpenPlay,2020,Head,15624,Inter,Benevento,4,0,2021-01-30 19:45:00,Christian Eriksen,Chipped
+401861,35,MissedShots,0.87,0.4470000076293945,0.1445302963256836,Lautaro Martínez,h,7006,OpenPlay,2020,RightFoot,15624,Inter,Benevento,4,0,2021-01-30 19:45:00,Nicolò Barella,Pass
+401862,47,BlockedShot,0.7569999694824219,0.415,0.024400239810347557,Christian Eriksen,h,646,OpenPlay,2020,LeftFoot,15624,Inter,Benevento,4,0,2021-01-30 19:45:00,Nicolò Barella,Pass
+401863,56,Goal,0.8530000305175781,0.40400001525878904,0.08464734256267548,Lautaro Martínez,h,7006,OpenPlay,2020,LeftFoot,15624,Inter,Benevento,4,0,2021-01-30 19:45:00,,BallTouch
+401864,66,Goal,0.8580000305175781,0.46599998474121096,0.3824246823787689,Romelu Lukaku,h,594,OpenPlay,2020,LeftFoot,15624,Inter,Benevento,4,0,2021-01-30 19:45:00,Lautaro Martínez,OffsidePass
+401865,74,MissedShots,0.884000015258789,0.5120000076293946,0.03897184506058693,Achraf Hakimi,h,5197,FromCorner,2020,Head,15624,Inter,Benevento,4,0,2021-01-30 19:45:00,Christian Eriksen,Cross
+401866,77,Goal,0.874000015258789,0.44599998474121094,0.4536709487438202,Romelu Lukaku,h,594,OpenPlay,2020,RightFoot,15624,Inter,Benevento,4,0,2021-01-30 19:45:00,Alexis Sánchez,Throughball
+401867,80,SavedShot,0.9080000305175782,0.545,0.09518126398324966,Andrea Pinamonti,h,4895,OpenPlay,2020,Head,15624,Inter,Benevento,4,0,2021-01-30 19:45:00,Alessandro Bastoni,Cross
+401868,82,SavedShot,0.775,0.4179999923706055,0.023002954199910164,Christian Eriksen,h,646,FromCorner,2020,RightFoot,15624,Inter,Benevento,4,0,2021-01-30 19:45:00,Achraf Hakimi,Pass
+401856,6,OwnGoal,0.07400000095367432,0.5470000076293945,0,Riccardo Improta,a,8883,SetPiece,2020,RightFoot,15624,Inter,Benevento,4,0,2021-01-30 19:45:00,,Foul

@@ -1,0 +1,41 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+22945,1,MissedShots,0.884000015258789,0.7180000305175781,0.04292615130543709,Leonardo Ulloa,h,756,OpenPlay,2014,RightFoot,4436,Leicester,Queens Park Rangers,5,1,2015-05-24 15:00:00,Jamie Vardy,Pass
+22946,4,MissedShots,0.9009999847412109,0.7630000305175781,0.01772860810160637,Jeffrey Schlupp,h,757,OpenPlay,2014,LeftFoot,4436,Leicester,Queens Park Rangers,5,1,2015-05-24 15:00:00,Marc Albrighton,Cross
+22948,15,SavedShot,0.730999984741211,0.32,0.011304144747555256,Riyad Mahrez,h,750,OpenPlay,2014,LeftFoot,4436,Leicester,Queens Park Rangers,5,1,2015-05-24 15:00:00,Jamie Vardy,HeadPass
+22949,15,Goal,0.93,0.515,0.5303953289985657,Jamie Vardy,h,755,OpenPlay,2014,RightFoot,4436,Leicester,Queens Park Rangers,5,1,2015-05-24 15:00:00,,Rebound
+22951,18,BlockedShot,0.7290000152587891,0.45599998474121095,0.020683065056800842,Andy King,h,784,OpenPlay,2014,RightFoot,4436,Leicester,Queens Park Rangers,5,1,2015-05-24 15:00:00,Leonardo Ulloa,Pass
+22955,29,MissedShots,0.865,0.5529999923706055,0.07934220135211945,Leonardo Ulloa,h,756,OpenPlay,2014,RightFoot,4436,Leicester,Queens Park Rangers,5,1,2015-05-24 15:00:00,Marc Albrighton,Cross
+22956,31,SavedShot,0.8980000305175782,0.6020000076293945,0.03052561916410923,Jamie Vardy,h,755,OpenPlay,2014,Head,4436,Leicester,Queens Park Rangers,5,1,2015-05-24 15:00:00,Marc Albrighton,Aerial
+22960,41,MissedShots,0.9230000305175782,0.3370000076293945,0.11200699955224991,Riyad Mahrez,h,750,OpenPlay,2014,RightFoot,4436,Leicester,Queens Park Rangers,5,1,2015-05-24 15:00:00,,TakeOn
+22961,42,Goal,0.8390000152587891,0.39,0.028181476518511772,Marc Albrighton,h,753,SetPiece,2014,RightFoot,4436,Leicester,Queens Park Rangers,5,1,2015-05-24 15:00:00,Jeffrey Schlupp,Cross
+22962,45,MissedShots,0.8330000305175781,0.4520000076293945,0.08678004890680313,Leonardo Ulloa,h,756,OpenPlay,2014,RightFoot,4436,Leicester,Queens Park Rangers,5,1,2015-05-24 15:00:00,Marc Albrighton,Pass
+22964,46,BlockedShot,0.8030000305175782,0.44299999237060544,0.06375840306282043,Riyad Mahrez,h,750,OpenPlay,2014,LeftFoot,4436,Leicester,Queens Park Rangers,5,1,2015-05-24 15:00:00,Leonardo Ulloa,TakeOn
+22968,50,MissedShots,0.8930000305175781,0.6969999694824218,0.03483594208955765,Marc Albrighton,h,753,FromCorner,2014,RightFoot,4436,Leicester,Queens Park Rangers,5,1,2015-05-24 15:00:00,Riyad Mahrez,Cross
+22969,50,MissedShots,0.8680000305175781,0.365,0.05602727830410004,Wes Morgan,h,748,FromCorner,2014,RightFoot,4436,Leicester,Queens Park Rangers,5,1,2015-05-24 15:00:00,,Rebound
+22970,50,Goal,0.9169999694824219,0.48700000762939455,0.4270004332065582,Leonardo Ulloa,h,756,FromCorner,2014,OtherBodyPart,4436,Leicester,Queens Park Rangers,5,1,2015-05-24 15:00:00,Wes Morgan,Rebound
+22971,51,Goal,0.8590000152587891,0.6990000152587891,0.040516261011362076,Esteban Cambiasso,h,4440,OpenPlay,2014,LeftFoot,4436,Leicester,Queens Park Rangers,5,1,2015-05-24 15:00:00,,None
+22973,57,MissedShots,0.894000015258789,0.700999984741211,0.07747393101453781,Jeffrey Schlupp,h,757,OpenPlay,2014,LeftFoot,4436,Leicester,Queens Park Rangers,5,1,2015-05-24 15:00:00,Esteban Cambiasso,TakeOn
+22974,59,MissedShots,0.7380000305175781,0.3120000076293945,0.014677450060844421,Andy King,h,784,OpenPlay,2014,RightFoot,4436,Leicester,Queens Park Rangers,5,1,2015-05-24 15:00:00,,None
+22976,63,MissedShots,0.8630000305175781,0.600999984741211,0.09179278463125229,Esteban Cambiasso,h,4440,OpenPlay,2014,LeftFoot,4436,Leicester,Queens Park Rangers,5,1,2015-05-24 15:00:00,Riyad Mahrez,Cross
+22978,67,MissedShots,0.9009999847412109,0.42,0.014078699983656406,Wes Morgan,h,748,FromCorner,2014,Head,4436,Leicester,Queens Park Rangers,5,1,2015-05-24 15:00:00,Esteban Cambiasso,Aerial
+22979,68,MissedShots,0.8830000305175781,0.46099998474121096,0.014100060798227787,Robert Huth,h,747,FromCorner,2014,Head,4436,Leicester,Queens Park Rangers,5,1,2015-05-24 15:00:00,Esteban Cambiasso,Aerial
+22980,69,MissedShots,0.899000015258789,0.6120000076293945,0.012911112047731876,Esteban Cambiasso,h,4440,FromCorner,2014,Head,4436,Leicester,Queens Park Rangers,5,1,2015-05-24 15:00:00,Marc Albrighton,Aerial
+22984,85,Goal,0.92,0.355,0.41314631700515747,Andrej Kramaric,h,956,OpenPlay,2014,RightFoot,4436,Leicester,Queens Park Rangers,5,1,2015-05-24 15:00:00,,None
+22947,14,MissedShots,0.825,0.3729999923706055,0.04614622890949249,Matt Phillips,a,1737,OpenPlay,2014,RightFoot,4436,Leicester,Queens Park Rangers,5,1,2015-05-24 15:00:00,Clint Hill,TakeOn
+22950,17,BlockedShot,0.745,0.38799999237060545,0.01610541343688965,Charlie Austin,a,848,OpenPlay,2014,RightFoot,4436,Leicester,Queens Park Rangers,5,1,2015-05-24 15:00:00,,None
+22952,21,BlockedShot,0.735999984741211,0.58,0.051747553050518036,Joey Barton,a,4430,DirectFreekick,2014,RightFoot,4436,Leicester,Queens Park Rangers,5,1,2015-05-24 15:00:00,,Standard
+22953,23,MissedShots,0.7219999694824218,0.33,0.009515147656202316,Nedum Onuoha,a,4392,OpenPlay,2014,RightFoot,4436,Leicester,Queens Park Rangers,5,1,2015-05-24 15:00:00,,Aerial
+22954,26,BlockedShot,0.7709999847412109,0.66,0.020606186240911484,Charlie Austin,a,848,OpenPlay,2014,RightFoot,4436,Leicester,Queens Park Rangers,5,1,2015-05-24 15:00:00,Joey Barton,Pass
+22957,33,BlockedShot,0.779000015258789,0.5790000152587891,0.04004876688122749,Charlie Austin,a,848,OpenPlay,2014,RightFoot,4436,Leicester,Queens Park Rangers,5,1,2015-05-24 15:00:00,Leroy Fer,LayOff
+22958,34,MissedShots,0.895,0.5029999923706054,0.056067463010549545,Clint Hill,a,4398,FromCorner,2014,Head,4436,Leicester,Queens Park Rangers,5,1,2015-05-24 15:00:00,Joey Barton,Cross
+22959,34,MissedShots,0.7330000305175781,0.4229999923706055,0.014719110913574696,Matt Phillips,a,1737,FromCorner,2014,RightFoot,4436,Leicester,Queens Park Rangers,5,1,2015-05-24 15:00:00,,None
+22963,45,SavedShot,0.674000015258789,0.6,0.00649008434265852,Charlie Austin,a,848,OpenPlay,2014,RightFoot,4436,Leicester,Queens Park Rangers,5,1,2015-05-24 15:00:00,Leroy Fer,TakeOn
+22965,46,BlockedShot,0.835999984741211,0.3320000076293945,0.04732930660247803,Matt Phillips,a,1737,OpenPlay,2014,RightFoot,4436,Leicester,Queens Park Rangers,5,1,2015-05-24 15:00:00,Leroy Fer,Pass
+22966,46,MissedShots,0.93,0.6040000152587891,0.3061163127422333,Reece Grego-Cox,a,4445,OpenPlay,2014,RightFoot,4436,Leicester,Queens Park Rangers,5,1,2015-05-24 15:00:00,,Rebound
+22967,48,BlockedShot,0.7959999847412109,0.4929999923706055,0.051390908658504486,Charlie Austin,a,848,OpenPlay,2014,RightFoot,4436,Leicester,Queens Park Rangers,5,1,2015-05-24 15:00:00,Leroy Fer,Pass
+22972,56,Goal,0.8859999847412109,0.54,0.0550343357026577,Charlie Austin,a,848,SetPiece,2014,Head,4436,Leicester,Queens Park Rangers,5,1,2015-05-24 15:00:00,Joey Barton,Cross
+22975,60,MissedShots,0.759000015258789,0.5670000076293945,0.02040485106408596,Matt Phillips,a,1737,OpenPlay,2014,RightFoot,4436,Leicester,Queens Park Rangers,5,1,2015-05-24 15:00:00,Leroy Fer,Dispossessed
+22977,64,MissedShots,0.725,0.56,0.015483759343624115,Leroy Fer,a,711,OpenPlay,2014,LeftFoot,4436,Leicester,Queens Park Rangers,5,1,2015-05-24 15:00:00,Nedum Onuoha,Pass
+22981,74,MissedShots,0.965999984741211,0.4620000076293945,0.49443089962005615,Nedum Onuoha,a,4392,FromCorner,2014,Head,4436,Leicester,Queens Park Rangers,5,1,2015-05-24 15:00:00,Joey Barton,Cross
+22982,80,BlockedShot,0.754000015258789,0.55,0.013827459886670113,Brandon Comley,a,4446,OpenPlay,2014,LeftFoot,4436,Leicester,Queens Park Rangers,5,1,2015-05-24 15:00:00,,None
+22983,81,MissedShots,0.775,0.33599998474121096,0.016572358086705208,Matt Phillips,a,1737,FromCorner,2014,RightFoot,4436,Leicester,Queens Park Rangers,5,1,2015-05-24 15:00:00,,None

@@ -1,0 +1,24 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+377331,2,MissedShots,0.9580000305175781,0.5579999923706055,0.3913355767726898,Dominic Calvert-Lewin,h,5555,FromCorner,2020,Head,14096,Everton,West Bromwich Albion,5,2,2020-09-19 11:30:00,James Rodríguez,Cross
+377334,10,BlockedShot,0.9,0.45799999237060546,0.08657749742269516,Dominic Calvert-Lewin,h,5555,SetPiece,2020,Head,14096,Everton,West Bromwich Albion,5,2,2020-09-19 11:30:00,Lucas Digne,Cross
+377335,10,BlockedShot,0.9440000152587891,0.4779999923706055,0.145382821559906,Richarlison,h,6026,SetPiece,2020,RightFoot,14096,Everton,West Bromwich Albion,5,2,2020-09-19 11:30:00,,Rebound
+377336,14,BlockedShot,0.9630000305175781,0.555,0.10332334786653519,Dominic Calvert-Lewin,h,5555,OpenPlay,2020,RightFoot,14096,Everton,West Bromwich Albion,5,2,2020-09-19 11:30:00,,None
+377337,16,SavedShot,0.7180000305175781,0.634000015258789,0.013936992734670639,Allan,h,1379,OpenPlay,2020,RightFoot,14096,Everton,West Bromwich Albion,5,2,2020-09-19 11:30:00,Lucas Digne,Pass
+377340,25,MissedShots,0.9009999847412109,0.6519999694824219,0.06373031437397003,Richarlison,h,6026,OpenPlay,2020,LeftFoot,14096,Everton,West Bromwich Albion,5,2,2020-09-19 11:30:00,André Gomes,Pass
+377341,27,BlockedShot,0.924000015258789,0.595999984741211,0.08959853649139404,Richarlison,h,6026,OpenPlay,2020,LeftFoot,14096,Everton,West Bromwich Albion,5,2,2020-09-19 11:30:00,Michael Keane,Chipped
+377342,28,MissedShots,0.9309999847412109,0.539000015258789,0.11045600473880768,Michael Keane,h,1653,FromCorner,2020,Head,14096,Everton,West Bromwich Albion,5,2,2020-09-19 11:30:00,Lucas Digne,Cross
+377343,30,Goal,0.9840000152587891,0.5109999847412109,0.9389346837997437,Dominic Calvert-Lewin,h,5555,OpenPlay,2020,RightFoot,14096,Everton,West Bromwich Albion,5,2,2020-09-19 11:30:00,,None
+377344,44,Goal,0.785,0.605,0.030363431200385094,James Rodríguez,h,2249,OpenPlay,2020,LeftFoot,14096,Everton,West Bromwich Albion,5,2,2020-09-19 11:30:00,Richarlison,Pass
+377346,53,SavedShot,0.915,0.545,0.11239311099052429,Richarlison,h,6026,SetPiece,2020,Head,14096,Everton,West Bromwich Albion,5,2,2020-09-19 11:30:00,Lucas Digne,Cross
+377347,53,Goal,0.975999984741211,0.524000015258789,0.8985157608985901,Michael Keane,h,1653,SetPiece,2020,LeftFoot,14096,Everton,West Bromwich Albion,5,2,2020-09-19 11:30:00,,Rebound
+377348,61,Goal,0.995,0.4779999923706055,0.9770236015319824,Dominic Calvert-Lewin,h,5555,OpenPlay,2020,RightFoot,14096,Everton,West Bromwich Albion,5,2,2020-09-19 11:30:00,Richarlison,Pass
+377349,65,BlockedShot,0.745999984741211,0.4929999923706055,0.06202063336968422,Lucas Digne,h,1823,DirectFreekick,2020,LeftFoot,14096,Everton,West Bromwich Albion,5,2,2020-09-19 11:30:00,,Standard
+377350,65,Goal,0.9280000305175782,0.485,0.11352575570344925,Dominic Calvert-Lewin,h,5555,FromCorner,2020,Head,14096,Everton,West Bromwich Albion,5,2,2020-09-19 11:30:00,James Rodríguez,Cross
+377351,83,MissedShots,0.759000015258789,0.3940000152587891,0.02234572172164917,Moise Kean,h,1304,OpenPlay,2020,LeftFoot,14096,Everton,West Bromwich Albion,5,2,2020-09-19 11:30:00,Gylfi Sigurdsson,Pass
+377352,88,MissedShots,0.9119999694824219,0.515,0.11665233969688416,Richarlison,h,6026,OpenPlay,2020,Head,14096,Everton,West Bromwich Albion,5,2,2020-09-19 11:30:00,Lucas Digne,Cross
+377330,0,SavedShot,0.8590000152587891,0.67,0.04327038675546646,Grady Diangana,a,6651,OpenPlay,2020,LeftFoot,14096,Everton,West Bromwich Albion,5,2,2020-09-19 11:30:00,Callum Robinson,Pass
+377332,6,MissedShots,0.8040000152587891,0.49700000762939456,0.04538121446967125,Jake Livermore,a,1689,OpenPlay,2020,LeftFoot,14096,Everton,West Bromwich Albion,5,2,2020-09-19 11:30:00,,None
+377333,9,Goal,0.7480000305175781,0.5970000076293945,0.044973913580179214,Grady Diangana,a,6651,OpenPlay,2020,LeftFoot,14096,Everton,West Bromwich Albion,5,2,2020-09-19 11:30:00,Matheus Pereira,BallRecovery
+377338,17,SavedShot,0.7130000305175781,0.534000015258789,0.018616270273923874,Callum Robinson,a,4476,OpenPlay,2020,RightFoot,14096,Everton,West Bromwich Albion,5,2,2020-09-19 11:30:00,Kieran Gibbs,BallTouch
+377339,21,BlockedShot,0.89,0.5570000076293945,0.10982996970415115,Jake Livermore,a,1689,OpenPlay,2020,RightFoot,14096,Everton,West Bromwich Albion,5,2,2020-09-19 11:30:00,Callum Robinson,HeadPass
+377345,46,Goal,0.74,0.41200000762939454,0.053274840116500854,Matheus Pereira,a,7153,DirectFreekick,2020,LeftFoot,14096,Everton,West Bromwich Albion,5,2,2020-09-19 11:30:00,,Standard

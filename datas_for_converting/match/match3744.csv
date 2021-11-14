@@ -1,0 +1,26 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+131582,6,BlockedShot,0.8180000305175781,0.5320000076293945,0.06358114629983902,Mahmoud Dahoud,h,205,OpenPlay,2016,RightFoot,3744,Borussia M.Gladbach,Freiburg,3,0,2017-02-04 14:30:00,Raffael,Pass
+131583,11,BlockedShot,0.8530000305175781,0.42200000762939455,0.0502626970410347,Lars Stindl,h,208,OpenPlay,2016,RightFoot,3744,Borussia M.Gladbach,Freiburg,3,0,2017-02-04 14:30:00,André Hahn,HeadPass
+131585,20,BlockedShot,0.8919999694824219,0.28200000762939453,0.03048519790172577,André Hahn,h,412,FromCorner,2016,LeftFoot,3744,Borussia M.Gladbach,Freiburg,3,0,2017-02-04 14:30:00,,None
+131586,30,MissedShots,0.8190000152587891,0.33,0.03247186541557312,Raffael,h,210,OpenPlay,2016,RightFoot,3744,Borussia M.Gladbach,Freiburg,3,0,2017-02-04 14:30:00,Lars Stindl,Pass
+131587,39,MissedShots,0.905,0.615999984741211,0.06181700900197029,Raffael,h,210,OpenPlay,2016,RightFoot,3744,Borussia M.Gladbach,Freiburg,3,0,2017-02-04 14:30:00,Oscar Wendt,Chipped
+131588,39,MissedShots,0.9330000305175781,0.4779999923706055,0.5606693029403687,Andreas Christensen,h,200,OpenPlay,2016,RightFoot,3744,Borussia M.Gladbach,Freiburg,3,0,2017-02-04 14:30:00,Raffael,Rebound
+131595,51,MissedShots,0.764000015258789,0.655,0.01824101060628891,Lars Stindl,h,208,OpenPlay,2016,RightFoot,3744,Borussia M.Gladbach,Freiburg,3,0,2017-02-04 14:30:00,André Hahn,Pass
+131598,66,MissedShots,0.9319999694824219,0.48900001525878906,0.49261993169784546,Raffael,h,210,OpenPlay,2016,Head,3744,Borussia M.Gladbach,Freiburg,3,0,2017-02-04 14:30:00,,None
+131599,72,Goal,0.7909999847412109,0.4909999847412109,0.04230069741606712,Lars Stindl,h,208,OpenPlay,2016,RightFoot,3744,Borussia M.Gladbach,Freiburg,3,0,2017-02-04 14:30:00,Fabian Johnson,TakeOn
+131600,77,Goal,0.91,0.5509999847412109,0.46063902974128723,Raffael,h,210,OpenPlay,2016,RightFoot,3744,Borussia M.Gladbach,Freiburg,3,0,2017-02-04 14:30:00,Mahmoud Dahoud,Pass
+131605,91,Goal,0.845,0.7090000152587891,0.08344786614179611,Patrick Herrmann,h,420,OpenPlay,2016,LeftFoot,3744,Borussia M.Gladbach,Freiburg,3,0,2017-02-04 14:30:00,Thorgan Hazard,Pass
+131581,0,BlockedShot,0.7090000152587891,0.6680000305175782,0.01197186391800642,Amir Abrashi,a,5265,OpenPlay,2016,RightFoot,3744,Borussia M.Gladbach,Freiburg,3,0,2017-02-04 14:30:00,,BallRecovery
+131584,16,MissedShots,0.915,0.345,0.013999567367136478,Nils Petersen,a,4248,FromCorner,2016,Head,3744,Borussia M.Gladbach,Freiburg,3,0,2017-02-04 14:30:00,Vincenzo Grifo,Cross
+131589,44,SavedShot,0.955999984741211,0.3139999961853027,0.05975831672549248,Janik Haberer,a,4271,OpenPlay,2016,RightFoot,3744,Borussia M.Gladbach,Freiburg,3,0,2017-02-04 14:30:00,Vincenzo Grifo,Pass
+131590,44,BlockedShot,0.904000015258789,0.3370000076293945,0.043639957904815674,Florian Niederlechner,a,306,FromCorner,2016,LeftFoot,3744,Borussia M.Gladbach,Freiburg,3,0,2017-02-04 14:30:00,,BallTouch
+131591,45,MissedShots,0.86,0.46099998474121096,0.021805651485919952,Caglar Söyüncü,a,5264,FromCorner,2016,Head,3744,Borussia M.Gladbach,Freiburg,3,0,2017-02-04 14:30:00,Vincenzo Grifo,Cross
+131592,45,BlockedShot,0.705999984741211,0.525,0.011201417073607445,Vincenzo Grifo,a,5266,OpenPlay,2016,RightFoot,3744,Borussia M.Gladbach,Freiburg,3,0,2017-02-04 14:30:00,,None
+131593,45,BlockedShot,0.899000015258789,0.695,0.05060413107275963,Vincenzo Grifo,a,5266,OpenPlay,2016,RightFoot,3744,Borussia M.Gladbach,Freiburg,3,0,2017-02-04 14:30:00,Lukas Kübler,Chipped
+131594,50,SavedShot,0.875,0.639000015258789,0.07141315191984177,Vincenzo Grifo,a,5266,OpenPlay,2016,RightFoot,3744,Borussia M.Gladbach,Freiburg,3,0,2017-02-04 14:30:00,Janik Haberer,Pass
+131596,53,MissedShots,0.9259999847412109,0.3039999961853027,0.03674692288041115,Nils Petersen,a,4248,OpenPlay,2016,RightFoot,3744,Borussia M.Gladbach,Freiburg,3,0,2017-02-04 14:30:00,Manuel Gulde,TakeOn
+131597,62,BlockedShot,0.7719999694824219,0.46799999237060547,0.021982233971357346,Christian Günter,a,4243,FromCorner,2016,LeftFoot,3744,Borussia M.Gladbach,Freiburg,3,0,2017-02-04 14:30:00,,None
+131601,83,SavedShot,0.7140000152587891,0.5479999923706055,0.01360402349382639,Christian Günter,a,4243,OpenPlay,2016,LeftFoot,3744,Borussia M.Gladbach,Freiburg,3,0,2017-02-04 14:30:00,Amir Abrashi,Pass
+131602,86,BlockedShot,0.7040000152587891,0.3129999923706055,0.03311651572585106,Vincenzo Grifo,a,5266,DirectFreekick,2016,RightFoot,3744,Borussia M.Gladbach,Freiburg,3,0,2017-02-04 14:30:00,,Standard
+131603,87,SavedShot,0.904000015258789,0.33099998474121095,0.07784386724233627,Vincenzo Grifo,a,5266,OpenPlay,2016,RightFoot,3744,Borussia M.Gladbach,Freiburg,3,0,2017-02-04 14:30:00,Janik Haberer,TakeOn
+131604,90,BlockedShot,0.8490000152587891,0.48900001525878906,0.07833527028560638,Mike Frantz,a,4246,OpenPlay,2016,RightFoot,3744,Borussia M.Gladbach,Freiburg,3,0,2017-02-04 14:30:00,Nils Petersen,Pass

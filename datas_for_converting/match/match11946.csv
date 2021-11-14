@@ -1,0 +1,27 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+366609,12,MissedShots,0.8490000152587891,0.3189999961853027,0.028330134227871895,Mason Mount,h,7768,FromCorner,2019,RightFoot,11946,Chelsea,Manchester City,2,1,2020-06-25 19:15:00,,None
+366614,26,BlockedShot,0.885,0.6659999847412109,0.05584839731454849,Ross Barkley,h,592,OpenPlay,2019,LeftFoot,11946,Chelsea,Manchester City,2,1,2020-06-25 19:15:00,,None
+366615,31,SavedShot,0.955999984741211,0.56,0.14721347391605377,Christian Pulisic,h,2662,OpenPlay,2019,RightFoot,11946,Chelsea,Manchester City,2,1,2020-06-25 19:15:00,Ross Barkley,Pass
+366616,31,BlockedShot,0.98,0.639000015258789,0.06234676018357277,Ross Barkley,h,592,OpenPlay,2019,RightFoot,11946,Chelsea,Manchester City,2,1,2020-06-25 19:15:00,,None
+366617,32,SavedShot,0.9519999694824218,0.5129999923706055,0.13211959600448608,Andreas Christensen,h,200,FromCorner,2019,Head,11946,Chelsea,Manchester City,2,1,2020-06-25 19:15:00,Willian,Cross
+366618,32,MissedShots,0.9519999694824218,0.649000015258789,0.06418837606906891,César Azpilicueta,h,681,FromCorner,2019,LeftFoot,11946,Chelsea,Manchester City,2,1,2020-06-25 19:15:00,,Rebound
+366619,35,Goal,0.8230000305175781,0.62,0.3370307385921478,Christian Pulisic,h,2662,OpenPlay,2019,RightFoot,11946,Chelsea,Manchester City,2,1,2020-06-25 19:15:00,,TakeOn
+366624,56,SavedShot,0.9,0.5709999847412109,0.014634594321250916,Olivier Giroud,h,502,FromCorner,2019,Head,11946,Chelsea,Manchester City,2,1,2020-06-25 19:15:00,Willian,Aerial
+366626,61,MissedShots,0.8909999847412109,0.6430000305175781,0.32793569564819336,Mason Mount,h,7768,OpenPlay,2019,LeftFoot,11946,Chelsea,Manchester City,2,1,2020-06-25 19:15:00,,BallRecovery
+366628,70,BlockedShot,0.9359999847412109,0.34200000762939453,0.42011937499046326,Christian Pulisic,h,2662,OpenPlay,2019,RightFoot,11946,Chelsea,Manchester City,2,1,2020-06-25 19:15:00,Andreas Christensen,TakeOn
+366629,70,BlockedShot,0.9869999694824219,0.4540000152587891,0.8566778898239136,Tammy Abraham,h,702,OpenPlay,2019,RightFoot,11946,Chelsea,Manchester City,2,1,2020-06-25 19:15:00,,Rebound
+366630,74,SavedShot,0.9159999847412109,0.4620000076293945,0.4823964238166809,Tammy Abraham,h,702,OpenPlay,2019,RightFoot,11946,Chelsea,Manchester City,2,1,2020-06-25 19:15:00,Willian,Pass
+366631,74,BlockedShot,0.985999984741211,0.4979999923706055,0.7760900259017944,Tammy Abraham,h,702,OpenPlay,2019,LeftFoot,11946,Chelsea,Manchester City,2,1,2020-06-25 19:15:00,,BallTouch
+366632,77,Goal,0.885,0.5,0.7611688375473022,Willian,h,700,Penalty,2019,RightFoot,11946,Chelsea,Manchester City,2,1,2020-06-25 19:15:00,,Standard
+366633,92,SavedShot,0.8440000152587891,0.6730000305175782,0.10828632116317749,Pedro,h,687,OpenPlay,2019,RightFoot,11946,Chelsea,Manchester City,2,1,2020-06-25 19:15:00,Billy Gilmour,Chipped
+366608,5,MissedShots,0.874000015258789,0.6630000305175782,0.06807306408882141,Bernardo Silva,a,3635,OpenPlay,2019,RightFoot,11946,Chelsea,Manchester City,2,1,2020-06-25 19:15:00,Kevin De Bruyne,Pass
+366610,14,MissedShots,0.9390000152587891,0.46900001525878904,0.10757771879434586,Bernardo Silva,a,3635,OpenPlay,2019,RightFoot,11946,Chelsea,Manchester City,2,1,2020-06-25 19:15:00,Riyad Mahrez,HeadPass
+366611,17,SavedShot,0.9119999694824219,0.5929999923706055,0.0592103973031044,Fernandinho,a,614,SetPiece,2019,Head,11946,Chelsea,Manchester City,2,1,2020-06-25 19:15:00,Riyad Mahrez,Cross
+366612,20,BlockedShot,0.7190000152587891,0.6270000076293946,0.014173530973494053,Rodri,a,2496,OpenPlay,2019,RightFoot,11946,Chelsea,Manchester City,2,1,2020-06-25 19:15:00,Benjamin Mendy,Pass
+366613,24,BlockedShot,0.7440000152587891,0.38799999237060545,0.016800230368971825,Kevin De Bruyne,a,447,SetPiece,2019,LeftFoot,11946,Chelsea,Manchester City,2,1,2020-06-25 19:15:00,Riyad Mahrez,Pass
+366620,37,MissedShots,0.8530000305175781,0.28299999237060547,0.027759825810790062,Riyad Mahrez,a,750,SetPiece,2019,LeftFoot,11946,Chelsea,Manchester City,2,1,2020-06-25 19:15:00,Kevin De Bruyne,Pass
+366621,46,BlockedShot,0.7959999847412109,0.7040000152587891,0.0191658828407526,Benjamin Mendy,a,3389,OpenPlay,2019,LeftFoot,11946,Chelsea,Manchester City,2,1,2020-06-25 19:15:00,Raheem Sterling,Pass
+366622,52,MissedShots,0.775,0.66,0.019102435559034348,Benjamin Mendy,a,3389,OpenPlay,2019,LeftFoot,11946,Chelsea,Manchester City,2,1,2020-06-25 19:15:00,Bernardo Silva,Pass
+366623,54,Goal,0.7119999694824218,0.5309999847412109,0.042389512062072754,Kevin De Bruyne,a,447,DirectFreekick,2019,RightFoot,11946,Chelsea,Manchester City,2,1,2020-06-25 19:15:00,,Standard
+366625,56,ShotOnPost,0.8109999847412109,0.5459999847412109,0.282338410615921,Raheem Sterling,a,618,OpenPlay,2019,RightFoot,11946,Chelsea,Manchester City,2,1,2020-06-25 19:15:00,Riyad Mahrez,Pass
+366627,66,MissedShots,0.870999984741211,0.6819999694824219,0.03400299698114395,Raheem Sterling,a,618,FromCorner,2019,RightFoot,11946,Chelsea,Manchester City,2,1,2020-06-25 19:15:00,Aymeric Laporte,None

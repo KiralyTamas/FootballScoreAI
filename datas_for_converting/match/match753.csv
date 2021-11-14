@@ -1,0 +1,23 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+94323,16,MissedShots,0.905,0.5979999923706054,0.12098947167396545,Davide Astori,h,1419,SetPiece,2015,Head,753,Fiorentina,Torino,2,0,2016-01-24 15:30:00,Borja Valero,Cross
+94324,16,MissedShots,0.8180000305175781,0.5479999923706055,0.057505324482917786,Josip Ilicic,h,1426,OpenPlay,2015,RightFoot,753,Fiorentina,Torino,2,0,2016-01-24 15:30:00,,BallRecovery
+94325,21,MissedShots,0.885,0.4779999923706055,0.09263665974140167,Federico Bernardeschi,h,1424,OpenPlay,2015,LeftFoot,753,Fiorentina,Torino,2,0,2016-01-24 15:30:00,,None
+94326,23,Goal,0.76,0.37900001525878907,0.06154605746269226,Josip Ilicic,h,1426,DirectFreekick,2015,LeftFoot,753,Fiorentina,Torino,2,0,2016-01-24 15:30:00,,Standard
+94327,29,BlockedShot,0.7609999847412109,0.600999984741211,0.03294334560632706,Joan Verdú,h,1969,OpenPlay,2015,RightFoot,753,Fiorentina,Torino,2,0,2016-01-24 15:30:00,Nikola Kalinic,LayOff
+94329,45,MissedShots,0.8130000305175781,0.7069999694824218,0.03218291327357292,Khouma Babacar,h,1434,OpenPlay,2015,LeftFoot,753,Fiorentina,Torino,2,0,2016-01-24 15:30:00,Borja Valero,Pass
+94330,46,BlockedShot,0.8219999694824218,0.4929999923706055,0.08800198137760162,Josip Ilicic,h,1426,OpenPlay,2015,LeftFoot,753,Fiorentina,Torino,2,0,2016-01-24 15:30:00,Khouma Babacar,Pass
+94334,59,BlockedShot,0.9540000152587891,0.28600000381469726,0.0456085242331028,Khouma Babacar,h,1434,SetPiece,2015,RightFoot,753,Fiorentina,Torino,2,0,2016-01-24 15:30:00,Federico Bernardeschi,Chipped
+94335,70,MissedShots,0.740999984741211,0.3170000076293945,0.022631758823990822,Federico Bernardeschi,h,1424,OpenPlay,2015,LeftFoot,753,Fiorentina,Torino,2,0,2016-01-24 15:30:00,Borja Valero,HeadPass
+94338,82,Goal,0.94,0.5609999847412109,0.1058787927031517,Gonzalo Rodríguez,h,1418,FromCorner,2015,Head,753,Fiorentina,Torino,2,0,2016-01-24 15:30:00,Manuel Pasqual,Cross
+94340,90,BlockedShot,0.8180000305175781,0.485,0.0823417454957962,Mauro Zárate,h,939,OpenPlay,2015,RightFoot,753,Fiorentina,Torino,2,0,2016-01-24 15:30:00,Jakub Blaszczykowski,Pass
+94341,92,BlockedShot,0.8419999694824218,0.35200000762939454,0.07012654095888138,Federico Bernardeschi,h,1424,OpenPlay,2015,LeftFoot,753,Fiorentina,Torino,2,0,2016-01-24 15:30:00,Borja Valero,Pass
+94342,92,BlockedShot,0.7980000305175782,0.43900001525878907,0.02388312853872776,Federico Bernardeschi,h,1424,OpenPlay,2015,LeftFoot,753,Fiorentina,Torino,2,0,2016-01-24 15:30:00,,Rebound
+94321,5,MissedShots,0.9309999847412109,0.44400001525878907,0.4413330554962158,Davide Zappacosta,a,1178,OpenPlay,2015,Head,753,Fiorentina,Torino,2,0,2016-01-24 15:30:00,,None
+94322,13,MissedShots,0.9830000305175781,0.6530000305175782,0.030587635934352875,Daniele Baselli,a,1182,OpenPlay,2015,LeftFoot,753,Fiorentina,Torino,2,0,2016-01-24 15:30:00,Afriyie Acquah,Cross
+94328,34,BlockedShot,0.9380000305175781,0.6480000305175782,0.052507925778627396,Daniele Baselli,a,1182,OpenPlay,2015,RightFoot,753,Fiorentina,Torino,2,0,2016-01-24 15:30:00,Davide Zappacosta,Cross
+94331,49,SavedShot,0.8830000305175781,0.56,0.027349786832928658,Emiliano Moretti,a,1196,FromCorner,2015,Head,753,Fiorentina,Torino,2,0,2016-01-24 15:30:00,Daniele Baselli,Cross
+94332,50,SavedShot,0.9230000305175782,0.5609999847412109,0.4244382381439209,Daniele Baselli,a,1182,OpenPlay,2015,RightFoot,753,Fiorentina,Torino,2,0,2016-01-24 15:30:00,Ciro Immobile,HeadPass
+94333,58,MissedShots,0.784000015258789,0.6480000305175782,0.026210010051727295,Cristian Molinaro,a,1597,FromCorner,2015,LeftFoot,753,Fiorentina,Torino,2,0,2016-01-24 15:30:00,Daniele Baselli,Cross
+94336,75,BlockedShot,0.74,0.46,0.05716799572110176,Daniele Baselli,a,1182,DirectFreekick,2015,RightFoot,753,Fiorentina,Torino,2,0,2016-01-24 15:30:00,,Standard
+94337,75,BlockedShot,0.8630000305175781,0.5940000152587891,0.06683862954378128,Emiliano Moretti,a,1196,SetPiece,2015,LeftFoot,753,Fiorentina,Torino,2,0,2016-01-24 15:30:00,Marco Benassi,HeadPass
+94339,85,MissedShots,0.9330000305175781,0.41700000762939454,0.0659211277961731,Josef Martínez,a,1198,FromCorner,2015,Head,753,Fiorentina,Torino,2,0,2016-01-24 15:30:00,Giuseppe Vives,Cross

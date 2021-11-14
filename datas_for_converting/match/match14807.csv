@@ -1,0 +1,25 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+423969,4,MissedShots,0.9119999694824219,0.5109999847412109,0.08556046336889267,Franck Zambo,h,6434,FromCorner,2020,Head,14807,Fulham,Newcastle United,0,2,2021-05-23 15:00:00,Ivan Cavaleiro,Cross
+423972,9,MissedShots,0.8430000305175781,0.639000015258789,0.05255630239844322,Ademola Lookman,h,5556,OpenPlay,2020,RightFoot,14807,Fulham,Newcastle United,0,2,2021-05-23 15:00:00,Tosin Adarabioyo,Chipped
+423973,19,MissedShots,0.7730000305175782,0.6819999694824219,0.03788869082927704,Ivan Cavaleiro,h,3683,OpenPlay,2020,RightFoot,14807,Fulham,Newcastle United,0,2,2021-05-23 15:00:00,Ademola Lookman,Pass
+423977,31,BlockedShot,0.8630000305175781,0.4520000076293945,0.07895608246326447,Fabio Carvalho,h,9501,OpenPlay,2020,LeftFoot,14807,Fulham,Newcastle United,0,2,2021-05-23 15:00:00,,TakeOn
+423978,35,BlockedShot,0.745999984741211,0.6359999847412109,0.015409805811941624,Josh Onomah,h,661,OpenPlay,2020,RightFoot,14807,Fulham,Newcastle United,0,2,2021-05-23 15:00:00,,Dispossessed
+423980,36,BlockedShot,0.7580000305175781,0.595999984741211,0.02056276984512806,Joe Bryan,h,6834,OpenPlay,2020,RightFoot,14807,Fulham,Newcastle United,0,2,2021-05-23 15:00:00,,None
+423981,36,MissedShots,0.8719999694824219,0.644000015258789,0.05214732512831688,Ivan Cavaleiro,h,3683,OpenPlay,2020,RightFoot,14807,Fulham,Newcastle United,0,2,2021-05-23 15:00:00,,Rebound
+423982,39,BlockedShot,0.7240000152587891,0.5990000152587891,0.011303634382784367,Ivan Cavaleiro,h,3683,OpenPlay,2020,RightFoot,14807,Fulham,Newcastle United,0,2,2021-05-23 15:00:00,Joe Bryan,TakeOn
+423984,52,BlockedShot,0.7759999847412109,0.32,0.016023453325033188,Fabio Carvalho,h,9501,FromCorner,2020,RightFoot,14807,Fulham,Newcastle United,0,2,2021-05-23 15:00:00,,None
+423985,55,MissedShots,0.899000015258789,0.565,0.4073706269264221,Ivan Cavaleiro,h,3683,OpenPlay,2020,RightFoot,14807,Fulham,Newcastle United,0,2,2021-05-23 15:00:00,Fabio Carvalho,Pass
+423986,57,BlockedShot,0.795,0.40599998474121096,0.036282729357481,Kenny Tete,h,5973,OpenPlay,2020,RightFoot,14807,Fulham,Newcastle United,0,2,2021-05-23 15:00:00,Ruben Loftus-Cheek,Pass
+423987,63,MissedShots,0.8330000305175781,0.7340000152587891,0.024730008095502853,Fabio Carvalho,h,9501,OpenPlay,2020,RightFoot,14807,Fulham,Newcastle United,0,2,2021-05-23 15:00:00,Ademola Lookman,Pass
+423989,70,MissedShots,0.8730000305175781,0.5929999923706055,0.06302535533905029,Josh Maja,h,5587,OpenPlay,2020,LeftFoot,14807,Fulham,Newcastle United,0,2,2021-05-23 15:00:00,,BallTouch
+423990,85,BlockedShot,0.8959999847412109,0.5,0.08827519416809082,Fabio Carvalho,h,9501,OpenPlay,2020,LeftFoot,14807,Fulham,Newcastle United,0,2,2021-05-23 15:00:00,Josh Maja,BallTouch
+423970,6,SavedShot,0.91,0.67,0.07201110571622849,Allan Saint-Maximin,a,101,OpenPlay,2020,LeftFoot,14807,Fulham,Newcastle United,0,2,2021-05-23 15:00:00,Paul Dummett,Pass
+423971,7,BlockedShot,0.8169999694824219,0.49,0.03506913036108017,Sean Longstaff,a,7078,FromCorner,2020,RightFoot,14807,Fulham,Newcastle United,0,2,2021-05-23 15:00:00,,Tackle
+423974,20,BlockedShot,0.73,0.5690000152587891,0.018507095053792,Joe Willock,a,6630,OpenPlay,2020,RightFoot,14807,Fulham,Newcastle United,0,2,2021-05-23 15:00:00,Allan Saint-Maximin,Pass
+423975,22,Goal,0.874000015258789,0.45799999237060546,0.1210886761546135,Joe Willock,a,6630,OpenPlay,2020,RightFoot,14807,Fulham,Newcastle United,0,2,2021-05-23 15:00:00,,TakeOn
+423976,26,SavedShot,0.7559999847412109,0.6329999923706054,0.04541013017296791,Miguel Almirón,a,7420,OpenPlay,2020,LeftFoot,14807,Fulham,Newcastle United,0,2,2021-05-23 15:00:00,Sean Longstaff,Pass
+423979,35,MissedShots,0.7419999694824219,0.539000015258789,0.026149237528443336,Allan Saint-Maximin,a,101,OpenPlay,2020,RightFoot,14807,Fulham,Newcastle United,0,2,2021-05-23 15:00:00,,None
+423983,46,MissedShots,0.9130000305175782,0.40599998474121096,0.1280137300491333,Joe Willock,a,6630,OpenPlay,2020,LeftFoot,14807,Fulham,Newcastle United,0,2,2021-05-23 15:00:00,Jacob Murphy,Pass
+423988,66,MissedShots,0.9319999694824219,0.45,0.3593751788139343,Dwight Gayle,a,743,SetPiece,2020,Head,14807,Fulham,Newcastle United,0,2,2021-05-23 15:00:00,Matt Ritchie,Cross
+423991,87,Goal,0.885,0.5,0.7611688375473022,Fabian Schär,a,76,Penalty,2020,RightFoot,14807,Fulham,Newcastle United,0,2,2021-05-23 15:00:00,,Standard
+423992,90,BlockedShot,0.7759999847412109,0.53,0.034779731184244156,Jonjo Shelvey,a,769,OpenPlay,2020,LeftFoot,14807,Fulham,Newcastle United,0,2,2021-05-23 15:00:00,Dwight Gayle,Pass

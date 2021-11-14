@@ -1,0 +1,32 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+86748,27,SavedShot,0.785,0.41200000762939454,0.03295009210705757,James Rodríguez,h,2249,OpenPlay,2015,LeftFoot,1510,Real Madrid,Barcelona,0,4,2015-11-21 21:15:00,Luka Modric,Pass
+86753,46,MissedShots,0.895,0.66,0.10264667123556137,Marcelo,h,2257,OpenPlay,2015,LeftFoot,1510,Real Madrid,Barcelona,0,4,2015-11-21 21:15:00,Sergio Ramos,TakeOn
+86754,47,SavedShot,0.785,0.56,0.03752906993031502,James Rodríguez,h,2249,OpenPlay,2015,LeftFoot,1510,Real Madrid,Barcelona,0,4,2015-11-21 21:15:00,Gareth Bale,Pass
+86755,48,MissedShots,0.750999984741211,0.3270000076293945,0.017685633152723312,Gareth Bale,h,2251,OpenPlay,2015,LeftFoot,1510,Real Madrid,Barcelona,0,4,2015-11-21 21:15:00,Luka Modric,Pass
+86759,58,BlockedShot,0.789000015258789,0.595999984741211,0.02512676827609539,Isco,h,2255,FromCorner,2015,RightFoot,1510,Real Madrid,Barcelona,0,4,2015-11-21 21:15:00,,None
+86760,60,BlockedShot,0.8430000305175781,0.3529999923706055,0.04125300422310829,Daniel Carvajal,h,2260,OpenPlay,2015,RightFoot,1510,Real Madrid,Barcelona,0,4,2015-11-21 21:15:00,,None
+86761,60,SavedShot,0.9440000152587891,0.47200000762939454,0.0956619456410408,Raphael Varane,h,2245,FromCorner,2015,Head,1510,Real Madrid,Barcelona,0,4,2015-11-21 21:15:00,Sergio Ramos,HeadPass
+86764,67,SavedShot,0.905,0.5479999923706055,0.5437228679656982,Cristiano Ronaldo,h,2371,OpenPlay,2015,RightFoot,1510,Real Madrid,Barcelona,0,4,2015-11-21 21:15:00,Gareth Bale,Throughball
+86766,80,SavedShot,0.9119999694824219,0.545,0.11964248865842819,Karim Benzema,h,2370,OpenPlay,2015,Head,1510,Real Madrid,Barcelona,0,4,2015-11-21 21:15:00,Daniel Carvajal,Cross
+86769,87,BlockedShot,0.779000015258789,0.3940000152587891,0.05822087451815605,Karim Benzema,h,2370,OpenPlay,2015,RightFoot,1510,Real Madrid,Barcelona,0,4,2015-11-21 21:15:00,Cristiano Ronaldo,Pass
+86771,88,SavedShot,0.9290000152587891,0.505,0.11629227548837662,Cristiano Ronaldo,h,2371,FromCorner,2015,Head,1510,Real Madrid,Barcelona,0,4,2015-11-21 21:15:00,Gareth Bale,Cross
+86772,88,BlockedShot,0.8030000305175782,0.500999984741211,0.04551990330219269,Luka Modric,h,2250,FromCorner,2015,RightFoot,1510,Real Madrid,Barcelona,0,4,2015-11-21 21:15:00,Karim Benzema,Pass
+86773,89,SavedShot,0.8159999847412109,0.28200000762939453,0.02184521220624447,Gareth Bale,h,2251,OpenPlay,2015,LeftFoot,1510,Real Madrid,Barcelona,0,4,2015-11-21 21:15:00,Karim Benzema,Pass
+86743,6,MissedShots,0.825999984741211,0.55,0.08138598501682281,Neymar,a,2099,OpenPlay,2015,RightFoot,1510,Real Madrid,Barcelona,0,4,2015-11-21 21:15:00,Luis Suárez,LayOff
+86744,10,Goal,0.875999984741211,0.41,0.3644650876522064,Luis Suárez,a,2098,OpenPlay,2015,RightFoot,1510,Real Madrid,Barcelona,0,4,2015-11-21 21:15:00,Sergi Roberto,Throughball
+86745,13,MissedShots,0.84,0.3139999961853027,0.04792812466621399,Ivan Rakitic,a,2094,OpenPlay,2015,RightFoot,1510,Real Madrid,Barcelona,0,4,2015-11-21 21:15:00,Sergi Roberto,Pass
+86746,23,SavedShot,0.765,0.7190000152587891,0.05248597264289856,Neymar,a,2099,DirectFreekick,2015,RightFoot,1510,Real Madrid,Barcelona,0,4,2015-11-21 21:15:00,,Standard
+86747,24,MissedShots,0.8919999694824219,0.5029999923706054,0.13276521861553192,Sergi Roberto,a,2104,OpenPlay,2015,RightFoot,1510,Real Madrid,Barcelona,0,4,2015-11-21 21:15:00,Ivan Rakitic,Pass
+86749,38,Goal,0.9430000305175781,0.6430000305175781,0.37656068801879883,Neymar,a,2099,OpenPlay,2015,LeftFoot,1510,Real Madrid,Barcelona,0,4,2015-11-21 21:15:00,Andrés Iniesta,Throughball
+86750,45,BlockedShot,0.8430000305175781,0.2929999923706055,0.05379050597548485,Ivan Rakitic,a,2094,OpenPlay,2015,RightFoot,1510,Real Madrid,Barcelona,0,4,2015-11-21 21:15:00,Dani Alves,Pass
+86751,46,BlockedShot,0.935,0.5570000076293945,0.5811538696289062,Luis Suárez,a,2098,OpenPlay,2015,RightFoot,1510,Real Madrid,Barcelona,0,4,2015-11-21 21:15:00,Neymar,Pass
+86752,47,BlockedShot,0.9159999847412109,0.49700000762939456,0.14544540643692017,Ivan Rakitic,a,2094,OpenPlay,2015,RightFoot,1510,Real Madrid,Barcelona,0,4,2015-11-21 21:15:00,,Rebound
+86756,51,SavedShot,0.7619999694824219,0.5329999923706055,0.0834088996052742,Neymar,a,2099,DirectFreekick,2015,RightFoot,1510,Real Madrid,Barcelona,0,4,2015-11-21 21:15:00,,Standard
+86757,52,Goal,0.845,0.435,0.11162594705820084,Andrés Iniesta,a,2096,OpenPlay,2015,RightFoot,1510,Real Madrid,Barcelona,0,4,2015-11-21 21:15:00,Neymar,Pass
+86758,54,MissedShots,0.9419999694824219,0.674000015258789,0.2357499897480011,Luis Suárez,a,2098,OpenPlay,2015,RightFoot,1510,Real Madrid,Barcelona,0,4,2015-11-21 21:15:00,Neymar,Pass
+86762,65,BlockedShot,0.879000015258789,0.580999984741211,0.13021017611026764,Lionel Messi,a,2097,OpenPlay,2015,LeftFoot,1510,Real Madrid,Barcelona,0,4,2015-11-21 21:15:00,Neymar,Pass
+86763,67,BlockedShot,0.735,0.55,0.06079573184251785,Lionel Messi,a,2097,DirectFreekick,2015,LeftFoot,1510,Real Madrid,Barcelona,0,4,2015-11-21 21:15:00,,Standard
+86765,73,Goal,0.9059999847412109,0.4370000076293945,0.4476125240325928,Luis Suárez,a,2098,OpenPlay,2015,RightFoot,1510,Real Madrid,Barcelona,0,4,2015-11-21 21:15:00,Jordi Alba,Pass
+86767,81,MissedShots,0.7269999694824218,0.43099998474121093,0.01669883541762829,Munir,a,2106,OpenPlay,2015,LeftFoot,1510,Real Madrid,Barcelona,0,4,2015-11-21 21:15:00,,None
+86768,85,MissedShots,0.87,0.45599998474121095,0.1309601217508316,Munir,a,2106,OpenPlay,2015,LeftFoot,1510,Real Madrid,Barcelona,0,4,2015-11-21 21:15:00,Neymar,Pass
+86770,88,MissedShots,0.8730000305175781,0.5029999923706054,0.30840346217155457,Munir,a,2106,OpenPlay,2015,LeftFoot,1510,Real Madrid,Barcelona,0,4,2015-11-21 21:15:00,Neymar,Cross

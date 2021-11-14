@@ -1,0 +1,27 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+121794,3,MissedShots,0.9390000152587891,0.5379999923706055,0.38800182938575745,Fernandinho,h,614,FromCorner,2016,Head,3503,Manchester City,Leicester,2,1,2017-05-13 12:30:00,Leroy Sané,Cross
+121798,18,MissedShots,0.9459999847412109,0.639000015258789,0.05369655787944794,Leroy Sané,h,337,FromCorner,2016,LeftFoot,3503,Manchester City,Leicester,2,1,2017-05-13 12:30:00,David Silva,Pass
+121799,22,BlockedShot,0.8719999694824219,0.5579999923706055,0.10405424982309341,Raheem Sterling,h,618,OpenPlay,2016,LeftFoot,3503,Manchester City,Leicester,2,1,2017-05-13 12:30:00,Gaël Clichy,Pass
+121800,23,BlockedShot,0.9159999847412109,0.6419999694824219,0.05487173795700073,Leroy Sané,h,337,OpenPlay,2016,LeftFoot,3503,Manchester City,Leicester,2,1,2017-05-13 12:30:00,Fernandinho,Cross
+121801,24,BlockedShot,0.749000015258789,0.5720000076293945,0.020865125581622124,Kevin De Bruyne,h,447,OpenPlay,2016,LeftFoot,3503,Manchester City,Leicester,2,1,2017-05-13 12:30:00,Yaya Touré,Pass
+121802,26,BlockedShot,0.8619999694824219,0.5520000076293945,0.10508353263139725,Leroy Sané,h,337,OpenPlay,2016,LeftFoot,3503,Manchester City,Leicester,2,1,2017-05-13 12:30:00,Gaël Clichy,Pass
+121803,28,Goal,0.8680000305175781,0.4470000076293945,0.09853173792362213,David Silva,h,617,OpenPlay,2016,LeftFoot,3503,Manchester City,Leicester,2,1,2017-05-13 12:30:00,Leroy Sané,Pass
+121804,35,Goal,0.885,0.5,0.7611320614814758,Gabriel Jesus,h,5543,Penalty,2016,RightFoot,3503,Manchester City,Leicester,2,1,2017-05-13 12:30:00,,Standard
+121806,43,MissedShots,0.8209999847412109,0.34900001525878904,0.043841492384672165,Kevin De Bruyne,h,447,OpenPlay,2016,LeftFoot,3503,Manchester City,Leicester,2,1,2017-05-13 12:30:00,David Silva,Pass
+121807,44,SavedShot,0.914000015258789,0.35700000762939454,0.06576750427484512,Raheem Sterling,h,618,OpenPlay,2016,RightFoot,3503,Manchester City,Leicester,2,1,2017-05-13 12:30:00,Leroy Sané,Cross
+121810,63,BlockedShot,0.7669999694824219,0.39799999237060546,0.025358542799949646,Yaya Touré,h,878,OpenPlay,2016,RightFoot,3503,Manchester City,Leicester,2,1,2017-05-13 12:30:00,Fernandinho,Pass
+121811,69,SavedShot,0.7669999694824219,0.5509999847412109,0.030220961198210716,Yaya Touré,h,878,OpenPlay,2016,RightFoot,3503,Manchester City,Leicester,2,1,2017-05-13 12:30:00,David Silva,Pass
+121812,70,SavedShot,0.8380000305175781,0.7180000305175781,0.03528079017996788,Leroy Sané,h,337,OpenPlay,2016,RightFoot,3503,Manchester City,Leicester,2,1,2017-05-13 12:30:00,Yaya Touré,Pass
+121813,70,BlockedShot,0.9630000305175781,0.31799999237060544,0.07513336837291718,Raheem Sterling,h,618,OpenPlay,2016,RightFoot,3503,Manchester City,Leicester,2,1,2017-05-13 12:30:00,Gabriel Jesus,BallRecovery
+121814,73,MissedShots,0.779000015258789,0.7119999694824218,0.02051224187016487,Gaël Clichy,h,613,OpenPlay,2016,LeftFoot,3503,Manchester City,Leicester,2,1,2017-05-13 12:30:00,David Silva,Pass
+121816,82,MissedShots,0.9119999694824219,0.46799999237060547,0.035839810967445374,Vincent Kompany,h,612,FromCorner,2016,Head,3503,Manchester City,Leicester,2,1,2017-05-13 12:30:00,David Silva,Aerial
+121819,99,BlockedShot,0.8569999694824219,0.34599998474121096,0.06956751644611359,Leroy Sané,h,337,OpenPlay,2016,LeftFoot,3503,Manchester City,Leicester,2,1,2017-05-13 12:30:00,,BallRecovery
+121795,4,SavedShot,0.8830000305175781,0.26600000381469724,0.037681154906749725,Jamie Vardy,a,755,OpenPlay,2016,RightFoot,3503,Manchester City,Leicester,2,1,2017-05-13 12:30:00,Shinji Okazaki,Chipped
+121796,8,MissedShots,0.9469999694824218,0.500999984741211,0.4591218829154968,Wilfred Ndidi,a,5545,FromCorner,2016,Head,3503,Manchester City,Leicester,2,1,2017-05-13 12:30:00,Marc Albrighton,Cross
+121797,10,SavedShot,0.7440000152587891,0.445,0.011463809758424759,Marc Albrighton,a,753,OpenPlay,2016,RightFoot,3503,Manchester City,Leicester,2,1,2017-05-13 12:30:00,,Aerial
+121805,41,Goal,0.89,0.5029999923706054,0.07333443313837051,Shinji Okazaki,a,754,OpenPlay,2016,LeftFoot,3503,Manchester City,Leicester,2,1,2017-05-13 12:30:00,Marc Albrighton,Cross
+121808,46,MissedShots,0.795,0.664000015258789,0.025117997080087662,Marc Albrighton,a,753,OpenPlay,2016,RightFoot,3503,Manchester City,Leicester,2,1,2017-05-13 12:30:00,,None
+121809,48,SavedShot,0.914000015258789,0.47299999237060547,0.11189251393079758,Marc Albrighton,a,753,OpenPlay,2016,RightFoot,3503,Manchester City,Leicester,2,1,2017-05-13 12:30:00,Jamie Vardy,Cross
+121815,76,MissedShots,0.885,0.5,0.7611688375473022,Riyad Mahrez,a,750,Penalty,2016,LeftFoot,3503,Manchester City,Leicester,2,1,2017-05-13 12:30:00,,Standard
+121817,84,BlockedShot,0.96,0.41900001525878905,0.125440776348114,Jamie Vardy,a,755,OpenPlay,2016,RightFoot,3503,Manchester City,Leicester,2,1,2017-05-13 12:30:00,Danny Simpson,Pass
+121818,89,BlockedShot,0.7759999847412109,0.3340000152587891,0.01980748400092125,Wilfred Ndidi,a,5545,OpenPlay,2016,RightFoot,3503,Manchester City,Leicester,2,1,2017-05-13 12:30:00,,None

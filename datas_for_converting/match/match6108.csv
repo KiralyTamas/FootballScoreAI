@@ -1,0 +1,31 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+3911,2,MissedShots,0.9319999694824219,0.53,0.12127114832401276,Dragos Grigore,h,4809,SetPiece,2014,Head,6108,Toulouse,Lorient,2,3,2014-11-29 19:00:00,Étienne Didot,Cross
+3912,9,MissedShots,0.9,0.24399999618530274,0.112480528652668,Aleksandar Pesic,h,1582,OpenPlay,2014,RightFoot,6108,Toulouse,Lorient,2,3,2014-11-29 19:00:00,Wissam Ben Yedder,Throughball
+3913,11,MissedShots,0.784000015258789,0.3629999923706055,0.023165715858340263,Étienne Didot,h,3215,OpenPlay,2014,RightFoot,6108,Toulouse,Lorient,2,3,2014-11-29 19:00:00,Wissam Ben Yedder,Pass
+3914,22,SavedShot,0.88,0.6370000076293946,0.32623833417892456,Wissam Ben Yedder,h,3210,OpenPlay,2014,LeftFoot,6108,Toulouse,Lorient,2,3,2014-11-29 19:00:00,Aleksandar Pesic,Throughball
+3915,22,Goal,0.8719999694824219,0.49700000762939456,0.3454497456550598,Tongo Doumbia,h,3538,OpenPlay,2014,RightFoot,6108,Toulouse,Lorient,2,3,2014-11-29 19:00:00,,Rebound
+3917,28,BlockedShot,0.8540000152587891,0.3770000076293945,0.07582445442676544,Wissam Ben Yedder,h,3210,OpenPlay,2014,LeftFoot,6108,Toulouse,Lorient,2,3,2014-11-29 19:00:00,Aleksandar Pesic,Pass
+3920,41,MissedShots,0.8119999694824219,0.28,0.11812668293714523,Aleksandar Pesic,h,1582,OpenPlay,2014,RightFoot,6108,Toulouse,Lorient,2,3,2014-11-29 19:00:00,Wissam Ben Yedder,Throughball
+3925,51,MissedShots,0.8669999694824219,0.5640000152587891,0.369504451751709,Abel Aguilar,h,4729,OpenPlay,2014,RightFoot,6108,Toulouse,Lorient,2,3,2014-11-29 19:00:00,Aleksandar Pesic,Pass
+3926,52,MissedShots,0.9359999847412109,0.4929999923706055,0.15042106807231903,Aleksandar Pesic,h,1582,OpenPlay,2014,Head,6108,Toulouse,Lorient,2,3,2014-11-29 19:00:00,Wissam Ben Yedder,Cross
+3927,52,MissedShots,0.925,0.4929999923706055,0.38073375821113586,Wissam Ben Yedder,h,3210,OpenPlay,2014,Head,6108,Toulouse,Lorient,2,3,2014-11-29 19:00:00,Aleksandar Pesic,Chipped
+3933,69,ShotOnPost,0.905,0.4540000152587891,0.10002060979604721,Wissam Ben Yedder,h,3210,OpenPlay,2014,Head,6108,Toulouse,Lorient,2,3,2014-11-29 19:00:00,Marcel Tisserand,Cross
+3934,69,Goal,0.9490000152587891,0.500999984741211,0.6168516278266907,Aleksandar Pesic,h,1582,OpenPlay,2014,LeftFoot,6108,Toulouse,Lorient,2,3,2014-11-29 19:00:00,,Rebound
+3936,73,SavedShot,0.8590000152587891,0.59,0.04526524245738983,Martin Braithwaite,h,3211,OpenPlay,2014,LeftFoot,6108,Toulouse,Lorient,2,3,2014-11-29 19:00:00,François Moubandje,Cross
+3939,88,MissedShots,0.889000015258789,0.5479999923706055,0.07166600227355957,François Moubandje,h,3205,OpenPlay,2014,LeftFoot,6108,Toulouse,Lorient,2,3,2014-11-29 19:00:00,Pavle Ninkov,Cross
+3910,1,SavedShot,0.815,0.48,0.05246465280652046,Benjamin Jeannot,a,3460,OpenPlay,2014,RightFoot,6108,Toulouse,Lorient,2,3,2014-11-29 19:00:00,,None
+3916,27,ShotOnPost,0.9159999847412109,0.39799999237060546,0.4036445617675781,Jordan Ayew,a,672,OpenPlay,2014,RightFoot,6108,Toulouse,Lorient,2,3,2014-11-29 19:00:00,Benjamin Jeannot,Throughball
+3918,35,MissedShots,0.9209999847412109,0.38799999237060545,0.03048863261938095,Wesley Lautoa,a,3677,FromCorner,2014,Head,6108,Toulouse,Lorient,2,3,2014-11-29 19:00:00,Walid Mesloub,Cross
+3919,35,MissedShots,0.9,0.6659999847412109,0.013263292610645294,Jordan Ayew,a,672,FromCorner,2014,Head,6108,Toulouse,Lorient,2,3,2014-11-29 19:00:00,Wesley Lautoa,Aerial
+3921,43,SavedShot,0.7280000305175781,0.49400001525878906,0.015387894585728645,Raphael Guerreiro,a,3455,OpenPlay,2014,LeftFoot,6108,Toulouse,Lorient,2,3,2014-11-29 19:00:00,Wesley Lautoa,None
+3922,43,SavedShot,0.764000015258789,0.48200000762939454,0.027734193950891495,Mehdi Mostefa,a,3324,OpenPlay,2014,RightFoot,6108,Toulouse,Lorient,2,3,2014-11-29 19:00:00,Walid Mesloub,Pass
+3923,44,MissedShots,0.8930000305175781,0.5609999847412109,0.025125477463006973,Mehdi Mostefa,a,3324,SetPiece,2014,Head,6108,Toulouse,Lorient,2,3,2014-11-29 19:00:00,Walid Mesloub,End
+3924,47,MissedShots,0.8619999694824219,0.43599998474121093,0.029895830899477005,Wesley Lautoa,a,3677,SetPiece,2014,Head,6108,Toulouse,Lorient,2,3,2014-11-29 19:00:00,Walid Mesloub,Cross
+3928,54,ShotOnPost,0.9030000305175782,0.5709999847412109,0.4142974615097046,Maxime Barthelme,a,3459,OpenPlay,2014,LeftFoot,6108,Toulouse,Lorient,2,3,2014-11-29 19:00:00,,None
+3929,54,Goal,0.885,0.6179999923706054,0.06521270424127579,Raphael Guerreiro,a,3455,OpenPlay,2014,LeftFoot,6108,Toulouse,Lorient,2,3,2014-11-29 19:00:00,,Rebound
+3930,55,SavedShot,0.8069999694824219,0.6709999847412109,0.019823627546429634,Benjamin Jeannot,a,3460,SetPiece,2014,LeftFoot,6108,Toulouse,Lorient,2,3,2014-11-29 19:00:00,Walid Mesloub,Goal
+3931,56,Goal,0.915,0.5770000076293945,0.5508877635002136,Benjamin Jeannot,a,3460,OpenPlay,2014,RightFoot,6108,Toulouse,Lorient,2,3,2014-11-29 19:00:00,Jordan Ayew,Pass
+3932,59,Goal,0.885,0.5,0.7600951194763184,Jordan Ayew,a,672,Penalty,2014,RightFoot,6108,Toulouse,Lorient,2,3,2014-11-29 19:00:00,,Standard
+3935,73,MissedShots,0.915,0.23700000762939452,0.032799653708934784,Jordan Ayew,a,672,OpenPlay,2014,RightFoot,6108,Toulouse,Lorient,2,3,2014-11-29 19:00:00,Walid Mesloub,Pass
+3937,79,SavedShot,0.9290000152587891,0.6819999694824219,0.12909987568855286,Jordan Ayew,a,672,OpenPlay,2014,LeftFoot,6108,Toulouse,Lorient,2,3,2014-11-29 19:00:00,Raphael Guerreiro,Throughball
+3938,88,SavedShot,0.9309999847412109,0.6959999847412109,0.0627460703253746,Jordan Ayew,a,672,OpenPlay,2014,LeftFoot,6108,Toulouse,Lorient,2,3,2014-11-29 19:00:00,Sadio Diallo,TakeOn

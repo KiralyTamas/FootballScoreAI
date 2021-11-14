@@ -1,0 +1,34 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+59790,3,BlockedShot,0.8909999847412109,0.6459999847412109,0.059021007269620895,Philippe Coutinho,h,488,SetPiece,2015,RightFoot,391,Liverpool,Tottenham,1,1,2016-04-02 20:30:00,,None
+59797,11,BlockedShot,0.875999984741211,0.500999984741211,0.11892136186361313,James Milner,h,489,OpenPlay,2015,LeftFoot,391,Liverpool,Tottenham,1,1,2016-04-02 20:30:00,Adam Lallana,Pass
+59798,11,SavedShot,0.8169999694824219,0.5359999847412109,0.04410969093441963,Philippe Coutinho,h,488,OpenPlay,2015,RightFoot,391,Liverpool,Tottenham,1,1,2016-04-02 20:30:00,,Rebound
+59802,35,SavedShot,0.8880000305175781,0.6120000076293945,0.34035155177116394,Daniel Sturridge,h,483,OpenPlay,2015,LeftFoot,391,Liverpool,Tottenham,1,1,2016-04-02 20:30:00,Philippe Coutinho,Throughball
+59803,36,BlockedShot,0.7269999694824218,0.664000015258789,0.013070021755993366,Alberto Moreno,h,608,FromCorner,2015,LeftFoot,391,Liverpool,Tottenham,1,1,2016-04-02 20:30:00,,None
+59804,37,SavedShot,0.8119999694824219,0.5059999847412109,0.058863572776317596,Adam Lallana,h,486,OpenPlay,2015,RightFoot,391,Liverpool,Tottenham,1,1,2016-04-02 20:30:00,Philippe Coutinho,Pass
+59806,39,SavedShot,0.9230000305175782,0.47,0.11084703356027603,Adam Lallana,h,486,OpenPlay,2015,RightFoot,391,Liverpool,Tottenham,1,1,2016-04-02 20:30:00,Philippe Coutinho,Cross
+59810,50,Goal,0.855999984741211,0.55,0.09844423085451126,Philippe Coutinho,h,488,OpenPlay,2015,RightFoot,391,Liverpool,Tottenham,1,1,2016-04-02 20:30:00,Daniel Sturridge,Pass
+59816,56,MissedShots,0.924000015258789,0.45099998474121095,0.2812815308570862,Daniel Sturridge,h,483,OpenPlay,2015,Head,391,Liverpool,Tottenham,1,1,2016-04-02 20:30:00,Philippe Coutinho,Chipped
+59827,68,BlockedShot,0.7730000305175782,0.3820000076293945,0.018249718472361565,Jordan Henderson,h,605,FromCorner,2015,RightFoot,391,Liverpool,Tottenham,1,1,2016-04-02 20:30:00,,None
+59828,71,BlockedShot,0.89,0.345,0.04893927276134491,Jordan Henderson,h,605,FromCorner,2015,RightFoot,391,Liverpool,Tottenham,1,1,2016-04-02 20:30:00,,None
+59829,78,SavedShot,0.9319999694824219,0.325,0.07016164064407349,Divock Origi,h,484,OpenPlay,2015,RightFoot,391,Liverpool,Tottenham,1,1,2016-04-02 20:30:00,Nathaniel Clyne,Pass
+59835,84,MissedShots,0.845,0.565,0.07683562487363815,Philippe Coutinho,h,488,OpenPlay,2015,RightFoot,391,Liverpool,Tottenham,1,1,2016-04-02 20:30:00,Divock Origi,Pass
+59836,84,BlockedShot,0.8009999847412109,0.6659999847412109,0.02924431674182415,Philippe Coutinho,h,488,OpenPlay,2015,RightFoot,391,Liverpool,Tottenham,1,1,2016-04-02 20:30:00,Jordan Henderson,Pass
+59837,84,SavedShot,0.7240000152587891,0.555,0.016443073749542236,Jordan Henderson,h,605,OpenPlay,2015,RightFoot,391,Liverpool,Tottenham,1,1,2016-04-02 20:30:00,Philippe Coutinho,Pass
+59791,8,SavedShot,0.8469999694824218,0.40599998474121096,0.07280262559652328,Christian Eriksen,a,646,OpenPlay,2015,LeftFoot,391,Liverpool,Tottenham,1,1,2016-04-02 20:30:00,Kyle Walker,Pass
+59799,12,BlockedShot,0.7119999694824218,0.5070000076293946,0.011350518092513084,Son Heung-Min,a,453,OpenPlay,2015,LeftFoot,391,Liverpool,Tottenham,1,1,2016-04-02 20:30:00,,None
+59800,16,BlockedShot,0.805,0.645,0.026353690773248672,Son Heung-Min,a,453,OpenPlay,2015,LeftFoot,391,Liverpool,Tottenham,1,1,2016-04-02 20:30:00,Dele Alli,Pass
+59801,25,MissedShots,0.8930000305175781,0.33,0.06698130816221237,Harry Kane,a,647,OpenPlay,2015,RightFoot,391,Liverpool,Tottenham,1,1,2016-04-02 20:30:00,Dele Alli,Pass
+59805,38,BlockedShot,0.8590000152587891,0.34200000762939453,0.04076356068253517,Harry Kane,a,647,OpenPlay,2015,RightFoot,391,Liverpool,Tottenham,1,1,2016-04-02 20:30:00,Kyle Walker,TakeOn
+59807,44,SavedShot,0.7019999694824218,0.5590000152587891,0.018451238051056862,Dele Alli,a,645,OpenPlay,2015,RightFoot,391,Liverpool,Tottenham,1,1,2016-04-02 20:30:00,Christian Eriksen,Pass
+59808,48,MissedShots,0.925,0.5259999847412109,0.32769614458084106,Dele Alli,a,645,OpenPlay,2015,Head,391,Liverpool,Tottenham,1,1,2016-04-02 20:30:00,Harry Kane,Chipped
+59809,49,BlockedShot,0.735,0.5520000076293945,0.02161579579114914,Harry Kane,a,647,OpenPlay,2015,RightFoot,391,Liverpool,Tottenham,1,1,2016-04-02 20:30:00,Danny Rose,Pass
+59811,53,MissedShots,0.894000015258789,0.4329999923706055,0.034224726259708405,Toby Alderweireld,a,639,FromCorner,2015,Head,391,Liverpool,Tottenham,1,1,2016-04-02 20:30:00,Christian Eriksen,Cross
+59813,54,BlockedShot,0.7480000305175781,0.625999984741211,0.02356525883078575,Dele Alli,a,645,OpenPlay,2015,RightFoot,391,Liverpool,Tottenham,1,1,2016-04-02 20:30:00,,TakeOn
+59818,57,MissedShots,0.9359999847412109,0.4159999847412109,0.3136090934276581,Son Heung-Min,a,453,OpenPlay,2015,RightFoot,391,Liverpool,Tottenham,1,1,2016-04-02 20:30:00,Eric Dier,Chipped
+59819,62,Goal,0.8930000305175781,0.6619999694824219,0.0335945263504982,Harry Kane,a,647,OpenPlay,2015,RightFoot,391,Liverpool,Tottenham,1,1,2016-04-02 20:30:00,Christian Eriksen,Chipped
+59823,64,SavedShot,0.7680000305175781,0.4490000152587891,0.027732308954000473,Christian Eriksen,a,646,OpenPlay,2015,RightFoot,391,Liverpool,Tottenham,1,1,2016-04-02 20:30:00,Harry Kane,Pass
+59825,65,MissedShots,0.8180000305175781,0.6819999694824219,0.03266562893986702,Toby Alderweireld,a,639,OpenPlay,2015,LeftFoot,391,Liverpool,Tottenham,1,1,2016-04-02 20:30:00,Christian Eriksen,Pass
+59838,85,BlockedShot,0.7280000305175781,0.41,0.016521967947483063,Eric Dier,a,643,OpenPlay,2015,RightFoot,391,Liverpool,Tottenham,1,1,2016-04-02 20:30:00,Harry Kane,Pass
+59840,89,MissedShots,0.7340000152587891,0.545,0.05295580253005028,Christian Eriksen,a,646,DirectFreekick,2015,RightFoot,391,Liverpool,Tottenham,1,1,2016-04-02 20:30:00,,Standard
+59841,90,SavedShot,0.789000015258789,0.6509999847412109,0.0248704943805933,Mousa Dembélé,a,642,OpenPlay,2015,LeftFoot,391,Liverpool,Tottenham,1,1,2016-04-02 20:30:00,,None
+59842,91,MissedShots,0.9219999694824219,0.455,0.09003303945064545,Toby Alderweireld,a,639,FromCorner,2015,Head,391,Liverpool,Tottenham,1,1,2016-04-02 20:30:00,Christian Eriksen,Cross

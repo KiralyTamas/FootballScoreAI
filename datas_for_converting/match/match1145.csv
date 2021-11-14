@@ -1,0 +1,29 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+79147,3,BlockedShot,0.7169999694824218,0.5279999923706055,0.04776303470134735,Hakan Calhanoglu,h,189,DirectFreekick,2015,RightFoot,1145,Bayer Leverkusen,Schalke 04,1,1,2015-11-29 20:30:00,,Standard
+79148,9,SavedShot,0.8780000305175781,0.509000015258789,0.05998675525188446,Admir Mehmedi,h,194,OpenPlay,2015,Head,1145,Bayer Leverkusen,Schalke 04,1,1,2015-11-29 20:30:00,Hakan Calhanoglu,Cross
+79152,16,SavedShot,0.8069999694824219,0.56,0.05894023925065994,Kevin Kampl,h,188,OpenPlay,2015,LeftFoot,1145,Bayer Leverkusen,Schalke 04,1,1,2015-11-29 20:30:00,Jonathan Tah,TakeOn
+79153,17,BlockedShot,0.735,0.6869999694824219,0.01735745184123516,Admir Mehmedi,h,194,OpenPlay,2015,RightFoot,1145,Bayer Leverkusen,Schalke 04,1,1,2015-11-29 20:30:00,Kevin Kampl,Pass
+79154,20,MissedShots,0.879000015258789,0.48900001525878906,0.01662767492234707,Ömer Toprak,h,184,SetPiece,2015,Head,1145,Bayer Leverkusen,Schalke 04,1,1,2015-11-29 20:30:00,Hakan Calhanoglu,Aerial
+79156,31,ShotOnPost,0.965999984741211,0.345,0.3468576967716217,Karim Bellarabi,h,186,OpenPlay,2015,RightFoot,1145,Bayer Leverkusen,Schalke 04,1,1,2015-11-29 20:30:00,Kevin Kampl,TakeOn
+79157,33,BlockedShot,0.9380000305175781,0.37,0.07737738639116287,Christoph Kramer,h,187,OpenPlay,2015,RightFoot,1145,Bayer Leverkusen,Schalke 04,1,1,2015-11-29 20:30:00,,None
+79158,34,SavedShot,0.89,0.39099998474121095,0.045301154255867004,Admir Mehmedi,h,194,FromCorner,2015,RightFoot,1145,Bayer Leverkusen,Schalke 04,1,1,2015-11-29 20:30:00,Hakan Calhanoglu,Cross
+79159,38,BlockedShot,0.8690000152587891,0.20299999237060548,0.0654691755771637,Hakan Calhanoglu,h,189,DirectFreekick,2015,RightFoot,1145,Bayer Leverkusen,Schalke 04,1,1,2015-11-29 20:30:00,,Standard
+79160,42,SavedShot,0.9619999694824218,0.33599998474121096,0.2298576831817627,Chicharito,h,191,OpenPlay,2015,RightFoot,1145,Bayer Leverkusen,Schalke 04,1,1,2015-11-29 20:30:00,Admir Mehmedi,Pass
+79161,42,MissedShots,0.9619999694824218,0.4620000076293945,0.6077511310577393,Karim Bellarabi,h,186,OpenPlay,2015,RightFoot,1145,Bayer Leverkusen,Schalke 04,1,1,2015-11-29 20:30:00,Kevin Kampl,Cross
+79163,54,BlockedShot,0.8159999847412109,0.595999984741211,0.06922518461942673,Karim Bellarabi,h,186,OpenPlay,2015,RightFoot,1145,Bayer Leverkusen,Schalke 04,1,1,2015-11-29 20:30:00,Admir Mehmedi,Pass
+79164,55,MissedShots,0.9669999694824218,0.3940000152587891,0.08236681669950485,Chicharito,h,191,FromCorner,2015,RightFoot,1145,Bayer Leverkusen,Schalke 04,1,1,2015-11-29 20:30:00,Sebastian Boenisch,HeadPass
+79168,63,BlockedShot,0.7719999694824219,0.3840000152587891,0.026364881545305252,Kevin Kampl,h,188,OpenPlay,2015,LeftFoot,1145,Bayer Leverkusen,Schalke 04,1,1,2015-11-29 20:30:00,Chicharito,Pass
+79170,67,BlockedShot,0.909000015258789,0.6819999694824219,0.0842200219631195,Kevin Kampl,h,188,OpenPlay,2015,RightFoot,1145,Bayer Leverkusen,Schalke 04,1,1,2015-11-29 20:30:00,Chicharito,Pass
+79171,72,MissedShots,0.8819999694824219,0.565,0.07081052660942078,Chicharito,h,191,OpenPlay,2015,LeftFoot,1145,Bayer Leverkusen,Schalke 04,1,1,2015-11-29 20:30:00,Christoph Kramer,None
+79172,73,SavedShot,0.745,0.5420000076293945,0.023204315453767776,Chicharito,h,191,OpenPlay,2015,LeftFoot,1145,Bayer Leverkusen,Schalke 04,1,1,2015-11-29 20:30:00,,TakeOn
+79173,76,SavedShot,0.9180000305175782,0.445,0.21046757698059082,Ömer Toprak,h,184,FromCorner,2015,Head,1145,Bayer Leverkusen,Schalke 04,1,1,2015-11-29 20:30:00,Christoph Kramer,Chipped
+79149,11,SavedShot,0.9680000305175781,0.6630000305175782,0.07854952663183212,Max Meyer,a,338,OpenPlay,2015,LeftFoot,1145,Bayer Leverkusen,Schalke 04,1,1,2015-11-29 20:30:00,Eric Maxim Choupo-Moting,Pass
+79150,13,BlockedShot,0.875999984741211,0.6040000152587891,0.08800216764211655,Max Meyer,a,338,OpenPlay,2015,LeftFoot,1145,Bayer Leverkusen,Schalke 04,1,1,2015-11-29 20:30:00,Dennis Aogo,Pass
+79151,13,SavedShot,0.925,0.5129999923706055,0.05613749846816063,Benedikt Höwedes,a,333,FromCorner,2015,Head,1145,Bayer Leverkusen,Schalke 04,1,1,2015-11-29 20:30:00,Dennis Aogo,Aerial
+79155,23,SavedShot,0.9269999694824219,0.5979999923706054,0.07798637449741364,Eric Maxim Choupo-Moting,a,339,OpenPlay,2015,Head,1145,Bayer Leverkusen,Schalke 04,1,1,2015-11-29 20:30:00,Sascha Riether,Cross
+79162,49,Goal,0.905,0.59,0.39486509561538696,Eric Maxim Choupo-Moting,a,339,OpenPlay,2015,LeftFoot,1145,Bayer Leverkusen,Schalke 04,1,1,2015-11-29 20:30:00,Leon Goretzka,Throughball
+79165,56,BlockedShot,0.88,0.73,0.044014133512973785,Eric Maxim Choupo-Moting,a,339,OpenPlay,2015,RightFoot,1145,Bayer Leverkusen,Schalke 04,1,1,2015-11-29 20:30:00,Klaas-Jan Huntelaar,Pass
+79166,57,MissedShots,0.9319999694824219,0.5129999923706055,0.06407112628221512,Joel Matip,a,332,FromCorner,2015,Head,1145,Bayer Leverkusen,Schalke 04,1,1,2015-11-29 20:30:00,Dennis Aogo,Aerial
+79167,58,MissedShots,0.9590000152587891,0.5979999923706054,0.0519404411315918,Klaas-Jan Huntelaar,a,340,OpenPlay,2015,Head,1145,Bayer Leverkusen,Schalke 04,1,1,2015-11-29 20:30:00,Eric Maxim Choupo-Moting,Aerial
+79169,64,BlockedShot,0.8619999694824219,0.5259999847412109,0.09368785470724106,Max Meyer,a,338,OpenPlay,2015,LeftFoot,1145,Bayer Leverkusen,Schalke 04,1,1,2015-11-29 20:30:00,Eric Maxim Choupo-Moting,HeadPass
+79174,84,OwnGoal,0.045999999046325686,0.485,0,Sascha Riether,a,331,OpenPlay,2015,Head,1145,Bayer Leverkusen,Schalke 04,1,1,2015-11-29 20:30:00,,Clearance

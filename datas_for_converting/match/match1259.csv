@@ -1,0 +1,13 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+82369,42,MissedShots,0.7230000305175781,0.655,0.04161062091588974,Marcel Risse,h,134,DirectFreekick,2015,RightFoot,1259,FC Cologne,Bayern Munich,0,1,2016-03-19 18:30:00,,Standard
+82371,49,SavedShot,0.8190000152587891,0.6229999923706054,0.07512781023979187,Leonardo Bittencourt,h,262,OpenPlay,2015,LeftFoot,1259,FC Cologne,Bayern Munich,0,1,2016-03-19 18:30:00,Anthony Modeste,Pass
+82373,64,MissedShots,0.7140000152587891,0.524000015258789,0.046380847692489624,Marcel Risse,h,134,DirectFreekick,2015,RightFoot,1259,FC Cologne,Bayern Munich,0,1,2016-03-19 18:30:00,,Standard
+82374,73,BlockedShot,0.855,0.524000015258789,0.372358500957489,Anthony Modeste,h,137,OpenPlay,2015,RightFoot,1259,FC Cologne,Bayern Munich,0,1,2016-03-19 18:30:00,,None
+82375,76,MissedShots,0.950999984741211,0.26399999618530273,0.03490002453327179,Leonardo Bittencourt,h,262,OpenPlay,2015,RightFoot,1259,FC Cologne,Bayern Munich,0,1,2016-03-19 18:30:00,Marcel Risse,Chipped
+82378,93,SavedShot,0.9540000152587891,0.40299999237060546,0.4362969696521759,Leonardo Bittencourt,h,262,OpenPlay,2015,RightFoot,1259,FC Cologne,Bayern Munich,0,1,2016-03-19 18:30:00,Marcel Risse,Pass
+82367,9,Goal,0.8190000152587891,0.435,0.051793016493320465,Robert Lewandowski,a,227,OpenPlay,2015,RightFoot,1259,FC Cologne,Bayern Munich,0,1,2016-03-19 18:30:00,,None
+82368,22,MissedShots,0.7680000305175781,0.19100000381469726,0.035124510526657104,Douglas Costa,a,393,DirectFreekick,2015,LeftFoot,1259,FC Cologne,Bayern Munich,0,1,2016-03-19 18:30:00,,Standard
+82370,44,SavedShot,0.904000015258789,0.6430000305175781,0.017702769488096237,Thiago Alcántara,a,229,OpenPlay,2015,Head,1259,FC Cologne,Bayern Munich,0,1,2016-03-19 18:30:00,Sebastian Rode,Aerial
+82372,61,MissedShots,0.835999984741211,0.5870000076293945,0.08484721928834915,Robert Lewandowski,a,227,OpenPlay,2015,RightFoot,1259,FC Cologne,Bayern Munich,0,1,2016-03-19 18:30:00,Thiago Alcántara,Pass
+82376,86,SavedShot,0.8,0.36,0.0534786693751812,Robert Lewandowski,a,227,OpenPlay,2015,RightFoot,1259,FC Cologne,Bayern Munich,0,1,2016-03-19 18:30:00,Thiago Alcántara,Pass
+82377,92,MissedShots,0.8919999694824219,0.6359999847412109,0.10077759623527527,Kingsley Coman,a,226,OpenPlay,2015,LeftFoot,1259,FC Cologne,Bayern Munich,0,1,2016-03-19 18:30:00,Robert Lewandowski,Pass

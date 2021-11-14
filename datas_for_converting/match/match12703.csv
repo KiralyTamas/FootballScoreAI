@@ -1,0 +1,29 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+366897,1,MissedShots,0.8090000152587891,0.539000015258789,0.04871051385998726,Jérôme Roussillon,h,3339,OpenPlay,2019,RightFoot,12703,Wolfsburg,Bayern Munich,0,4,2020-06-27 13:30:00,,None
+366900,6,SavedShot,0.8080000305175781,0.485,0.04594181478023529,Wout Weghorst,h,7052,OpenPlay,2019,RightFoot,12703,Wolfsburg,Bayern Munich,0,4,2020-06-27 13:30:00,Daniel Ginczek,BallTouch
+366901,16,MissedShots,0.755,0.4179999923706055,0.0194565337151289,Josip Brekalo,h,5353,OpenPlay,2019,RightFoot,12703,Wolfsburg,Bayern Munich,0,4,2020-06-27 13:30:00,,BallRecovery
+366903,18,SavedShot,0.8640000152587891,0.590999984741211,0.07460691779851913,Josip Brekalo,h,5353,OpenPlay,2019,LeftFoot,12703,Wolfsburg,Bayern Munich,0,4,2020-06-27 13:30:00,Jérôme Roussillon,Pass
+366904,18,MissedShots,0.755,0.3820000076293945,0.020988913252949715,Josuha Guilavogui,h,150,OpenPlay,2019,LeftFoot,12703,Wolfsburg,Bayern Munich,0,4,2020-06-27 13:30:00,,Rebound
+366905,20,MissedShots,0.960999984741211,0.6,0.033636424690485,Wout Weghorst,h,7052,SetPiece,2019,Head,12703,Wolfsburg,Bayern Munich,0,4,2020-06-27 13:30:00,,None
+366908,30,MissedShots,0.8980000305175782,0.5579999923706055,0.28667354583740234,Daniel Ginczek,h,426,OpenPlay,2019,RightFoot,12703,Wolfsburg,Bayern Munich,0,4,2020-06-27 13:30:00,Kevin Mbabu,Cross
+366913,39,MissedShots,0.7859999847412109,0.6990000152587891,0.01669503189623356,Josuha Guilavogui,h,150,FromCorner,2019,RightFoot,12703,Wolfsburg,Bayern Munich,0,4,2020-06-27 13:30:00,,None
+366915,48,SavedShot,0.72,0.7369999694824219,0.03278198093175888,Maximilian Arnold,h,153,DirectFreekick,2019,LeftFoot,12703,Wolfsburg,Bayern Munich,0,4,2020-06-27 13:30:00,,Standard
+366917,52,BlockedShot,0.7659999847412109,0.47299999237060547,0.08349636942148209,Maximilian Arnold,h,153,DirectFreekick,2019,LeftFoot,12703,Wolfsburg,Bayern Munich,0,4,2020-06-27 13:30:00,,Standard
+366918,54,MissedShots,0.7830000305175782,0.37,0.02020619437098503,Renato Steffen,h,6484,FromCorner,2019,LeftFoot,12703,Wolfsburg,Bayern Munich,0,4,2020-06-27 13:30:00,,None
+366921,58,SavedShot,0.8090000152587891,0.620999984741211,0.0641128420829773,Daniel Ginczek,h,426,OpenPlay,2019,RightFoot,12703,Wolfsburg,Bayern Munich,0,4,2020-06-27 13:30:00,Josip Brekalo,Pass
+366898,3,Goal,0.874000015258789,0.34400001525878904,0.3169109523296356,Kingsley Coman,a,226,OpenPlay,2019,RightFoot,12703,Wolfsburg,Bayern Munich,0,4,2020-06-27 13:30:00,Thomas Müller,Throughball
+366899,5,MissedShots,0.8859999847412109,0.735999984741211,0.04335169866681099,Robert Lewandowski,a,227,OpenPlay,2019,LeftFoot,12703,Wolfsburg,Bayern Munich,0,4,2020-06-27 13:30:00,Thomas Müller,Chipped
+366902,18,MissedShots,0.54,0.9169999694824219,0.0074415672570466995,Kingsley Coman,a,226,OpenPlay,2019,LeftFoot,12703,Wolfsburg,Bayern Munich,0,4,2020-06-27 13:30:00,,BallRecovery
+366906,21,SavedShot,0.8809999847412109,0.2610000038146973,0.04144129529595375,Serge Gnabry,a,993,OpenPlay,2019,LeftFoot,12703,Wolfsburg,Bayern Munich,0,4,2020-06-27 13:30:00,Thomas Müller,Pass
+366907,29,MissedShots,0.9569999694824218,0.3920000076293945,0.3732924163341522,Kingsley Coman,a,226,OpenPlay,2019,RightFoot,12703,Wolfsburg,Bayern Munich,0,4,2020-06-27 13:30:00,Serge Gnabry,Pass
+366909,32,MissedShots,0.9130000305175782,0.6090000152587891,0.2748201787471771,Thomas Müller,a,224,OpenPlay,2019,Head,12703,Wolfsburg,Bayern Munich,0,4,2020-06-27 13:30:00,Leon Goretzka,Chipped
+366910,35,SavedShot,0.9159999847412109,0.509000015258789,0.3743404746055603,Robert Lewandowski,a,227,OpenPlay,2019,Head,12703,Wolfsburg,Bayern Munich,0,4,2020-06-27 13:30:00,Álvaro Odriozola,Cross
+366911,35,MissedShots,0.9590000152587891,0.664000015258789,0.0784962847828865,Serge Gnabry,a,993,OpenPlay,2019,LeftFoot,12703,Wolfsburg,Bayern Munich,0,4,2020-06-27 13:30:00,,None
+366912,36,Goal,0.7230000305175781,0.4209999847412109,0.0203824695199728,Michaël Cuisance,a,6148,OpenPlay,2019,LeftFoot,12703,Wolfsburg,Bayern Munich,0,4,2020-06-27 13:30:00,Kingsley Coman,Pass
+366914,41,SavedShot,0.7280000305175781,0.45599998474121095,0.284707635641098,Serge Gnabry,a,993,OpenPlay,2019,RightFoot,12703,Wolfsburg,Bayern Munich,0,4,2020-06-27 13:30:00,Thomas Müller,Chipped
+366916,49,MissedShots,0.9019999694824219,0.509000015258789,0.1201363280415535,Serge Gnabry,a,993,OpenPlay,2019,RightFoot,12703,Wolfsburg,Bayern Munich,0,4,2020-06-27 13:30:00,,None
+366919,55,SavedShot,0.9,0.3189999961853027,0.19573868811130524,Serge Gnabry,a,993,OpenPlay,2019,RightFoot,12703,Wolfsburg,Bayern Munich,0,4,2020-06-27 13:30:00,Thomas Müller,Pass
+366920,56,MissedShots,0.96,0.435,0.10959452390670776,Thomas Müller,a,224,FromCorner,2019,LeftFoot,12703,Wolfsburg,Bayern Munich,0,4,2020-06-27 13:30:00,Serge Gnabry,HeadPass
+366922,59,SavedShot,0.94,0.5459999847412109,0.13324151933193207,Robert Lewandowski,a,227,OpenPlay,2019,RightFoot,12703,Wolfsburg,Bayern Munich,0,4,2020-06-27 13:30:00,Serge Gnabry,CornerAwarded
+366923,71,Goal,0.885,0.5,0.75777667760849,Robert Lewandowski,a,227,Penalty,2019,RightFoot,12703,Wolfsburg,Bayern Munich,0,4,2020-06-27 13:30:00,,Standard
+366924,78,Goal,0.9130000305175782,0.3629999923706055,0.09041085094213486,Thomas Müller,a,224,OpenPlay,2019,RightFoot,12703,Wolfsburg,Bayern Munich,0,4,2020-06-27 13:30:00,,None

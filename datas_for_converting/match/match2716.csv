@@ -1,0 +1,24 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+115290,12,MissedShots,0.7080000305175781,0.6909999847412109,0.013152961619198322,Paul Pogba,h,1740,OpenPlay,2016,RightFoot,2716,Manchester United,West Ham,1,1,2016-11-27 20:30:00,Zlatan Ibrahimovic,Pass
+115291,14,SavedShot,0.86,0.6609999847412109,0.05267758294939995,Juan Mata,h,554,OpenPlay,2016,RightFoot,2716,Manchester United,West Ham,1,1,2016-11-27 20:30:00,Zlatan Ibrahimovic,Pass
+115292,20,Goal,0.924000015258789,0.54,0.3138743042945862,Zlatan Ibrahimovic,h,1741,OpenPlay,2016,Head,2716,Manchester United,West Ham,1,1,2016-11-27 20:30:00,Paul Pogba,Throughball
+115293,33,MissedShots,0.9540000152587891,0.47200000762939454,0.13090106844902039,Jesse Lingard,h,558,OpenPlay,2016,RightFoot,2716,Manchester United,West Ham,1,1,2016-11-27 20:30:00,Zlatan Ibrahimovic,HeadPass
+115295,35,SavedShot,0.8719999694824219,0.4370000076293945,0.20160527527332306,Marcus Rashford,h,556,OpenPlay,2016,RightFoot,2716,Manchester United,West Ham,1,1,2016-11-27 20:30:00,Phil Jones,BallRecovery
+115296,41,MissedShots,0.924000015258789,0.53,0.047376908361911774,Paul Pogba,h,1740,FromCorner,2016,Head,2716,Manchester United,West Ham,1,1,2016-11-27 20:30:00,Juan Mata,Aerial
+115297,43,MissedShots,0.924000015258789,0.44,0.051460884511470795,Zlatan Ibrahimovic,h,1741,OpenPlay,2016,Head,2716,Manchester United,West Ham,1,1,2016-11-27 20:30:00,Juan Mata,Aerial
+115298,45,BlockedShot,0.8919999694824219,0.3820000076293945,0.0988064557313919,Zlatan Ibrahimovic,h,1741,OpenPlay,2016,RightFoot,2716,Manchester United,West Ham,1,1,2016-11-27 20:30:00,Paul Pogba,Pass
+115299,46,SavedShot,0.8690000152587891,0.41,0.12216789275407791,Jesse Lingard,h,558,OpenPlay,2016,RightFoot,2716,Manchester United,West Ham,1,1,2016-11-27 20:30:00,Juan Mata,Throughball
+115302,67,SavedShot,0.85,0.6609999847412109,0.05157133564352989,Wayne Rooney,h,629,OpenPlay,2016,RightFoot,2716,Manchester United,West Ham,1,1,2016-11-27 20:30:00,Zlatan Ibrahimovic,Pass
+115303,69,MissedShots,0.6890000152587891,0.24399999618530274,0.01073699351400137,Henrikh Mkhitaryan,h,317,FromCorner,2016,RightFoot,2716,Manchester United,West Ham,1,1,2016-11-27 20:30:00,,None
+115304,73,BlockedShot,0.8540000152587891,0.3609999847412109,0.05852220207452774,Henrikh Mkhitaryan,h,317,OpenPlay,2016,LeftFoot,2716,Manchester United,West Ham,1,1,2016-11-27 20:30:00,Antonio Valencia,Pass
+115305,73,SavedShot,0.8080000305175781,0.5520000076293945,0.03830534964799881,Jesse Lingard,h,558,OpenPlay,2016,RightFoot,2716,Manchester United,West Ham,1,1,2016-11-27 20:30:00,,Rebound
+115306,76,MissedShots,0.89,0.40799999237060547,0.031778424978256226,Wayne Rooney,h,629,OpenPlay,2016,Head,2716,Manchester United,West Ham,1,1,2016-11-27 20:30:00,Antonio Valencia,Cross
+115307,76,SavedShot,0.9159999847412109,0.5279999923706055,0.1432800590991974,Henrikh Mkhitaryan,h,317,OpenPlay,2016,LeftFoot,2716,Manchester United,West Ham,1,1,2016-11-27 20:30:00,,Rebound
+115308,77,SavedShot,0.7380000305175781,0.6090000152587891,0.015421482734382153,Paul Pogba,h,1740,OpenPlay,2016,RightFoot,2716,Manchester United,West Ham,1,1,2016-11-27 20:30:00,Henrikh Mkhitaryan,Pass
+115309,78,MissedShots,0.9330000305175781,0.415,0.06967682391405106,Zlatan Ibrahimovic,h,1741,FromCorner,2016,Head,2716,Manchester United,West Ham,1,1,2016-11-27 20:30:00,Wayne Rooney,Cross
+115289,1,Goal,0.9359999847412109,0.4570000076293945,0.4186888337135315,Diafra Sakho,a,656,SetPiece,2016,Head,2716,Manchester United,West Ham,1,1,2016-11-27 20:30:00,Dimitri Payet,Cross
+115294,34,MissedShots,0.7709999847412109,0.42900001525878906,0.022873785346746445,Michail Antonio,a,531,OpenPlay,2016,LeftFoot,2716,Manchester United,West Ham,1,1,2016-11-27 20:30:00,Dimitri Payet,TakeOn
+115300,52,MissedShots,0.94,0.46099998474121096,0.12162674963474274,Diafra Sakho,a,656,FromCorner,2016,Head,2716,Manchester United,West Ham,1,1,2016-11-27 20:30:00,Dimitri Payet,Cross
+115301,54,MissedShots,0.75,0.16700000762939454,0.02822471596300602,Dimitri Payet,a,536,DirectFreekick,2016,RightFoot,2716,Manchester United,West Ham,1,1,2016-11-27 20:30:00,,Standard
+115310,86,SavedShot,0.965,0.41,0.13583070039749146,Ashley Fletcher,a,1675,OpenPlay,2016,RightFoot,2716,Manchester United,West Ham,1,1,2016-11-27 20:30:00,Michail Antonio,TakeOn
+115311,92,MissedShots,0.7580000305175781,0.4229999923706055,0.022143036127090454,André Ayew,a,713,OpenPlay,2016,LeftFoot,2716,Manchester United,West Ham,1,1,2016-11-27 20:30:00,Ashley Fletcher,HeadPass

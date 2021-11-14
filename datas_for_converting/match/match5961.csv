@@ -1,0 +1,24 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+5937,3,SavedShot,0.8269999694824218,0.61,0.049002114683389664,Isaac Thelin,h,3712,OpenPlay,2014,RightFoot,5961,Bordeaux,Guingamp,1,1,2015-02-01 16:00:00,,None
+5938,6,BlockedShot,0.805,0.5670000076293945,0.04514541104435921,Isaac Thelin,h,3712,OpenPlay,2014,RightFoot,5961,Bordeaux,Guingamp,1,1,2015-02-01 16:00:00,Jaroslav Plasil,Pass
+5939,7,MissedShots,0.9259999847412109,0.6140000152587891,0.08399482071399689,Diego Rolan,h,3261,OpenPlay,2014,RightFoot,5961,Bordeaux,Guingamp,1,1,2015-02-01 16:00:00,Clément Chantôme,Cross
+5941,9,MissedShots,0.7859999847412109,0.61,0.03376580402255058,Clément Chantôme,h,3258,OpenPlay,2014,LeftFoot,5961,Bordeaux,Guingamp,1,1,2015-02-01 16:00:00,Isaac Thelin,LayOff
+5945,39,MissedShots,0.7069999694824218,0.59,0.01461410615593195,Thomas Touré,h,3263,OpenPlay,2014,RightFoot,5961,Bordeaux,Guingamp,1,1,2015-02-01 16:00:00,Clément Chantôme,Pass
+5947,42,MissedShots,0.9359999847412109,0.36900001525878906,0.022036151960492134,Diego Rolan,h,3261,FromCorner,2014,Head,5961,Bordeaux,Guingamp,1,1,2015-02-01 16:00:00,Thomas Touré,Cross
+5948,49,MissedShots,0.7430000305175781,0.4259999847412109,0.02012847177684307,Nicolas Maurice-Belay,h,3731,OpenPlay,2014,LeftFoot,5961,Bordeaux,Guingamp,1,1,2015-02-01 16:00:00,Isaac Thelin,Pass
+5949,54,Goal,0.7709999847412109,0.710999984741211,0.018323294818401337,Maxime Poundje,h,3576,OpenPlay,2014,LeftFoot,5961,Bordeaux,Guingamp,1,1,2015-02-01 16:00:00,Clément Chantôme,Pass
+5952,63,MissedShots,0.7559999847412109,0.315,0.020870517939329147,Diego Rolan,h,3261,OpenPlay,2014,LeftFoot,5961,Bordeaux,Guingamp,1,1,2015-02-01 16:00:00,Nicolas Maurice-Belay,Pass
+5954,72,MissedShots,0.9009999847412109,0.485,0.26797017455101013,Diego Rolan,h,3261,OpenPlay,2014,Head,5961,Bordeaux,Guingamp,1,1,2015-02-01 16:00:00,Jaroslav Plasil,Cross
+5955,74,BlockedShot,0.7019999694824218,0.6659999847412109,0.011837789788842201,Clément Chantôme,h,3258,OpenPlay,2014,RightFoot,5961,Bordeaux,Guingamp,1,1,2015-02-01 16:00:00,Maxime Poundje,Pass
+5956,74,MissedShots,0.755,0.36900001525878906,0.023613546043634415,Nicolas Maurice-Belay,h,3731,OpenPlay,2014,RightFoot,5961,Bordeaux,Guingamp,1,1,2015-02-01 16:00:00,Jaroslav Plasil,Pass
+5957,80,SavedShot,0.9340000152587891,0.30100000381469727,0.04985591396689415,Diego Rolan,h,3261,OpenPlay,2014,RightFoot,5961,Bordeaux,Guingamp,1,1,2015-02-01 16:00:00,Mariano,Pass
+5958,82,MissedShots,0.8130000305175781,0.6419999694824219,0.10633284598588943,Thomas Touré,h,3263,DirectFreekick,2014,RightFoot,5961,Bordeaux,Guingamp,1,1,2015-02-01 16:00:00,,Standard
+5936,0,MissedShots,0.9130000305175782,0.700999984741211,0.0584268793463707,Jérémy Pied,a,1784,OpenPlay,2014,LeftFoot,5961,Bordeaux,Guingamp,1,1,2015-02-01 16:00:00,Christophe Mandanne,HeadPass
+5940,8,SavedShot,0.8680000305175781,0.20399999618530273,0.021937089040875435,Christophe Mandanne,a,4708,OpenPlay,2014,RightFoot,5961,Bordeaux,Guingamp,1,1,2015-02-01 16:00:00,Jérémy Pied,Chipped
+5942,15,MissedShots,0.8159999847412109,0.4329999923706055,0.05351503565907478,Thibault Giresse,a,3476,OpenPlay,2014,LeftFoot,5961,Bordeaux,Guingamp,1,1,2015-02-01 16:00:00,Jérémy Pied,Pass
+5943,18,SavedShot,0.8919999694824219,0.65,0.036710839718580246,Christophe Mandanne,a,4708,OpenPlay,2014,LeftFoot,5961,Bordeaux,Guingamp,1,1,2015-02-01 16:00:00,Claudio Beauvue,Cross
+5944,27,Goal,0.87,0.455,0.06640757620334625,Claudio Beauvue,a,2502,OpenPlay,2014,RightFoot,5961,Bordeaux,Guingamp,1,1,2015-02-01 16:00:00,Jérémy Pied,Cross
+5946,40,SavedShot,0.8880000305175781,0.6959999847412109,0.19101296365261078,Christophe Mandanne,a,4708,OpenPlay,2014,LeftFoot,5961,Bordeaux,Guingamp,1,1,2015-02-01 16:00:00,Jérémy Pied,Pass
+5950,56,SavedShot,0.9169999694824219,0.42900001525878906,0.0927552580833435,Moustapha Diallo,a,3575,SetPiece,2014,Head,5961,Bordeaux,Guingamp,1,1,2015-02-01 16:00:00,Thibault Giresse,Cross
+5951,57,MissedShots,0.924000015258789,0.48,0.1105220839381218,Christophe Mandanne,a,4708,FromCorner,2014,Head,5961,Bordeaux,Guingamp,1,1,2015-02-01 16:00:00,Thibault Giresse,Cross
+5953,65,BlockedShot,0.9019999694824219,0.5879999923706055,0.08509235829114914,Thibault Giresse,a,3476,OpenPlay,2014,LeftFoot,5961,Bordeaux,Guingamp,1,1,2015-02-01 16:00:00,,None

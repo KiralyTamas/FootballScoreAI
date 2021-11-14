@@ -1,0 +1,29 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+353029,7,ShotOnPost,0.830999984741211,0.41,0.31873616576194763,Jamie Vardy,h,755,OpenPlay,2019,RightFoot,11904,Leicester,Manchester City,0,1,2020-02-22 17:30:00,Youri Tielemans,Throughball
+353034,28,BlockedShot,0.7719999694824219,0.395,0.07318583130836487,James Maddison,h,6818,DirectFreekick,2019,RightFoot,11904,Leicester,Manchester City,0,1,2020-02-22 17:30:00,,Standard
+353036,36,SavedShot,0.7369999694824219,0.6959999847412109,0.039348095655441284,James Maddison,h,6818,DirectFreekick,2019,RightFoot,11904,Leicester,Manchester City,0,1,2020-02-22 17:30:00,,Standard
+353037,38,SavedShot,0.9130000305175782,0.45799999237060546,0.05183111131191254,Kelechi Iheanacho,h,620,OpenPlay,2019,Head,11904,Leicester,Manchester City,0,1,2020-02-22 17:30:00,James Maddison,Aerial
+353038,41,BlockedShot,0.8030000305175782,0.495,0.018327198922634125,Youri Tielemans,h,5956,FromCorner,2019,RightFoot,11904,Leicester,Manchester City,0,1,2020-02-22 17:30:00,,Aerial
+353039,42,SavedShot,0.799000015258789,0.285,0.017777005210518837,Ricardo Pereira,h,3303,OpenPlay,2019,LeftFoot,11904,Leicester,Manchester City,0,1,2020-02-22 17:30:00,Jonny Evans,Chipped
+353041,48,MissedShots,0.8780000305175781,0.4229999923706055,0.071201853454113,Jamie Vardy,h,755,OpenPlay,2019,RightFoot,11904,Leicester,Manchester City,0,1,2020-02-22 17:30:00,Ricardo Pereira,Cross
+353050,69,MissedShots,0.875999984741211,0.6469999694824219,0.03896464407444,Jamie Vardy,h,755,FromCorner,2019,LeftFoot,11904,Leicester,Manchester City,0,1,2020-02-22 17:30:00,Ricardo Pereira,Chipped
+353051,73,BlockedShot,0.7819999694824219,0.39,0.029466591775417328,Jamie Vardy,h,755,OpenPlay,2019,LeftFoot,11904,Leicester,Manchester City,0,1,2020-02-22 17:30:00,Caglar Söyüncü,Chipped
+353052,74,MissedShots,0.899000015258789,0.3509999847412109,0.06443002074956894,Ricardo Pereira,h,3303,OpenPlay,2019,RightFoot,11904,Leicester,Manchester City,0,1,2020-02-22 17:30:00,,None
+353028,2,BlockedShot,0.845,0.285,0.03051801212131977,Riyad Mahrez,a,750,OpenPlay,2019,LeftFoot,11904,Leicester,Manchester City,0,1,2020-02-22 17:30:00,Kevin De Bruyne,Pass
+353030,8,SavedShot,0.750999984741211,0.485,0.022300606593489647,Riyad Mahrez,a,750,OpenPlay,2019,LeftFoot,11904,Leicester,Manchester City,0,1,2020-02-22 17:30:00,Kevin De Bruyne,Pass
+353031,16,SavedShot,0.8680000305175781,0.415,0.3288073241710663,Ilkay Gündogan,a,314,OpenPlay,2019,LeftFoot,11904,Leicester,Manchester City,0,1,2020-02-22 17:30:00,Sergio Agüero,Pass
+353032,18,BlockedShot,0.7480000305175781,0.44299999237060544,0.020059777423739433,Benjamin Mendy,a,3389,FromCorner,2019,LeftFoot,11904,Leicester,Manchester City,0,1,2020-02-22 17:30:00,Rodri,Pass
+353033,23,MissedShots,0.8130000305175781,0.47,0.04972066357731819,Kevin De Bruyne,a,447,OpenPlay,2019,RightFoot,11904,Leicester,Manchester City,0,1,2020-02-22 17:30:00,Riyad Mahrez,Pass
+353035,32,MissedShots,0.7069999694824218,0.5640000152587891,0.03935632482171059,Kevin De Bruyne,a,447,DirectFreekick,2019,RightFoot,11904,Leicester,Manchester City,0,1,2020-02-22 17:30:00,,Standard
+353040,47,MissedShots,0.754000015258789,0.4329999923706055,0.06456658244132996,Riyad Mahrez,a,750,DirectFreekick,2019,LeftFoot,11904,Leicester,Manchester City,0,1,2020-02-22 17:30:00,,Standard
+353042,52,SavedShot,0.85,0.6140000152587891,0.07365728914737701,Kevin De Bruyne,a,447,OpenPlay,2019,RightFoot,11904,Leicester,Manchester City,0,1,2020-02-22 17:30:00,Rodri,Pass
+353043,59,BlockedShot,0.9530000305175781,0.2560000038146973,0.04168545827269554,Bernardo Silva,a,3635,OpenPlay,2019,RightFoot,11904,Leicester,Manchester City,0,1,2020-02-22 17:30:00,Riyad Mahrez,Pass
+353044,59,BlockedShot,0.8330000305175781,0.35900001525878905,0.03129757568240166,Ilkay Gündogan,a,314,FromCorner,2019,RightFoot,11904,Leicester,Manchester City,0,1,2020-02-22 17:30:00,,None
+353045,61,SavedShot,0.885,0.5,0.7611688375473022,Sergio Agüero,a,619,Penalty,2019,RightFoot,11904,Leicester,Manchester City,0,1,2020-02-22 17:30:00,,Standard
+353046,62,MissedShots,0.7719999694824219,0.7340000152587891,0.015676096081733704,Rodri,a,2496,OpenPlay,2019,RightFoot,11904,Leicester,Manchester City,0,1,2020-02-22 17:30:00,Bernardo Silva,Pass
+353047,62,SavedShot,0.9119999694824219,0.36700000762939455,0.33098337054252625,Sergio Agüero,a,619,OpenPlay,2019,RightFoot,11904,Leicester,Manchester City,0,1,2020-02-22 17:30:00,Riyad Mahrez,Throughball
+353048,63,MissedShots,0.9369999694824219,0.5029999923706054,0.06784366816282272,Fernandinho,a,614,FromCorner,2019,Head,11904,Leicester,Manchester City,0,1,2020-02-22 17:30:00,Riyad Mahrez,Aerial
+353049,65,BlockedShot,0.7930000305175782,0.7419999694824219,0.01782132312655449,Benjamin Mendy,a,3389,OpenPlay,2019,LeftFoot,11904,Leicester,Manchester City,0,1,2020-02-22 17:30:00,Rodri,Pass
+353053,78,SavedShot,0.8390000152587891,0.41700000762939454,0.07598814368247986,Gabriel Jesus,a,5543,OpenPlay,2019,LeftFoot,11904,Leicester,Manchester City,0,1,2020-02-22 17:30:00,Rodri,Pass
+353054,79,Goal,0.9130000305175782,0.4209999847412109,0.4078073799610138,Gabriel Jesus,a,5543,OpenPlay,2019,RightFoot,11904,Leicester,Manchester City,0,1,2020-02-22 17:30:00,Riyad Mahrez,Throughball
+353055,86,MissedShots,0.8280000305175781,0.6840000152587891,0.04823160171508789,Bernardo Silva,a,3635,OpenPlay,2019,LeftFoot,11904,Leicester,Manchester City,0,1,2020-02-22 17:30:00,Ilkay Gündogan,BallRecovery

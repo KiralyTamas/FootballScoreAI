@@ -1,0 +1,21 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+80035,6,MissedShots,0.8530000305175781,0.37400001525878906,0.057384736835956573,Marvin Matip,h,236,OpenPlay,2015,RightFoot,1166,Ingolstadt,Bayer Leverkusen,0,1,2015-12-19 18:30:00,,None
+80036,14,SavedShot,0.87,0.40700000762939453,0.06357244402170181,Pascal Groß,h,239,OpenPlay,2015,RightFoot,1166,Ingolstadt,Bayer Leverkusen,0,1,2015-12-19 18:30:00,Alfredo Morales,Chipped
+80038,24,MissedShots,0.9769999694824218,0.6780000305175782,0.05008309707045555,Alfredo Morales,h,252,SetPiece,2015,RightFoot,1166,Ingolstadt,Bayer Leverkusen,0,1,2015-12-19 18:30:00,Pascal Groß,Chipped
+80039,25,BlockedShot,0.905,0.34299999237060547,0.05023834854364395,Alfredo Morales,h,252,FromCorner,2015,RightFoot,1166,Ingolstadt,Bayer Leverkusen,0,1,2015-12-19 18:30:00,Pascal Groß,Pass
+80041,38,MissedShots,0.8,0.59,0.02965570241212845,Stefan Lex,h,243,SetPiece,2015,RightFoot,1166,Ingolstadt,Bayer Leverkusen,0,1,2015-12-19 18:30:00,,None
+80042,41,BlockedShot,0.8680000305175781,0.735999984741211,0.03138379007577896,Stefan Lex,h,243,OpenPlay,2015,LeftFoot,1166,Ingolstadt,Bayer Leverkusen,0,1,2015-12-19 18:30:00,,None
+80043,44,SavedShot,0.850999984741211,0.36,0.04361143708229065,Stefan Lex,h,243,OpenPlay,2015,RightFoot,1166,Ingolstadt,Bayer Leverkusen,0,1,2015-12-19 18:30:00,Mathew Leckie,HeadPass
+80050,74,MissedShots,0.9119999694824219,0.5570000076293945,0.07002681493759155,Moritz Hartmann,h,362,FromCorner,2015,Head,1166,Ingolstadt,Bayer Leverkusen,0,1,2015-12-19 18:30:00,Pascal Groß,Cross
+80052,79,SavedShot,0.8959999847412109,0.6630000305175782,0.025558998808264732,Marvin Matip,h,236,SetPiece,2015,Head,1166,Ingolstadt,Bayer Leverkusen,0,1,2015-12-19 18:30:00,Pascal Groß,Chipped
+80053,86,MissedShots,0.8009999847412109,0.34299999237060547,0.024932419881224632,Mathew Leckie,h,241,SetPiece,2015,RightFoot,1166,Ingolstadt,Bayer Leverkusen,0,1,2015-12-19 18:30:00,Moritz Hartmann,Pass
+80054,89,MissedShots,0.7919999694824219,0.7090000152587891,0.01476325560361147,Danilo Soares,h,247,OpenPlay,2015,LeftFoot,1166,Ingolstadt,Bayer Leverkusen,0,1,2015-12-19 18:30:00,Marvin Matip,HeadPass
+80037,23,MissedShots,0.695,0.5820000076293945,0.012814478017389774,Hakan Calhanoglu,a,189,OpenPlay,2015,RightFoot,1166,Ingolstadt,Bayer Leverkusen,0,1,2015-12-19 18:30:00,Stefan Kießling,Pass
+80040,29,MissedShots,0.85,0.5990000152587891,0.05568879470229149,Jonathan Tah,a,183,SetPiece,2015,LeftFoot,1166,Ingolstadt,Bayer Leverkusen,0,1,2015-12-19 18:30:00,,None
+80044,55,MissedShots,0.915,0.57,0.04570360854268074,Stefan Kießling,a,190,OpenPlay,2015,Head,1166,Ingolstadt,Bayer Leverkusen,0,1,2015-12-19 18:30:00,Chicharito,Aerial
+80045,56,MissedShots,0.9390000152587891,0.41900001525878905,0.03118620254099369,Stefan Kießling,a,190,FromCorner,2015,Head,1166,Ingolstadt,Bayer Leverkusen,0,1,2015-12-19 18:30:00,Hakan Calhanoglu,Aerial
+80046,59,BlockedShot,0.8069999694824219,0.3220000076293945,0.0849905014038086,Hakan Calhanoglu,a,189,DirectFreekick,2015,RightFoot,1166,Ingolstadt,Bayer Leverkusen,0,1,2015-12-19 18:30:00,,Standard
+80047,60,SavedShot,0.8009999847412109,0.23100000381469726,0.0152923334389925,Kevin Kampl,a,188,OpenPlay,2015,RightFoot,1166,Ingolstadt,Bayer Leverkusen,0,1,2015-12-19 18:30:00,Chicharito,LayOff
+80048,64,MissedShots,0.769000015258789,0.355,0.014266561716794968,Karim Bellarabi,a,186,SetPiece,2015,RightFoot,1166,Ingolstadt,Bayer Leverkusen,0,1,2015-12-19 18:30:00,,None
+80049,72,Goal,0.885,0.3529999923706055,0.2981029450893402,Chicharito,a,191,OpenPlay,2015,RightFoot,1166,Ingolstadt,Bayer Leverkusen,0,1,2015-12-19 18:30:00,Karim Bellarabi,Pass
+80051,76,MissedShots,0.8130000305175781,0.49400001525878906,0.1599280685186386,Admir Mehmedi,a,194,DirectFreekick,2015,RightFoot,1166,Ingolstadt,Bayer Leverkusen,0,1,2015-12-19 18:30:00,,Standard

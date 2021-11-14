@@ -1,0 +1,26 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+168331,1,BlockedShot,0.845,0.655,0.05517909675836563,Milos Jojic,h,144,OpenPlay,2017,RightFoot,8369,FC Cologne,Hertha Berlin,0,2,2017-11-26 17:00:00,Claudio Pizarro,Pass
+168332,7,MissedShots,0.7559999847412109,0.6270000076293946,0.03964054211974144,Sehrou Guirassy,h,3738,OpenPlay,2017,RightFoot,8369,FC Cologne,Hertha Berlin,0,2,2017-11-26 17:00:00,Salih Özcan,Pass
+168333,11,MissedShots,0.874000015258789,0.675,0.05816975608468056,Konstantin Rausch,h,13,OpenPlay,2017,LeftFoot,8369,FC Cologne,Hertha Berlin,0,2,2017-11-26 17:00:00,Sehrou Guirassy,BallTouch
+168336,24,MissedShots,0.884000015258789,0.685,0.13189026713371277,Sehrou Guirassy,h,3738,OpenPlay,2017,RightFoot,8369,FC Cologne,Hertha Berlin,0,2,2017-11-26 17:00:00,Claudio Pizarro,Throughball
+168342,45,BlockedShot,0.905,0.6040000152587891,0.09374836087226868,Sehrou Guirassy,h,3738,OpenPlay,2017,RightFoot,8369,FC Cologne,Hertha Berlin,0,2,2017-11-26 17:00:00,Yuya Osako,Pass
+168343,45,BlockedShot,0.805,0.6719999694824219,0.028412654995918274,Salih Özcan,h,5294,OpenPlay,2017,RightFoot,8369,FC Cologne,Hertha Berlin,0,2,2017-11-26 17:00:00,,Rebound
+168344,45,MissedShots,0.76,0.5509999847412109,0.025159111246466637,Matthias Lehmann,h,132,OpenPlay,2017,RightFoot,8369,FC Cologne,Hertha Berlin,0,2,2017-11-26 17:00:00,,Rebound
+168346,48,BlockedShot,0.8930000305175781,0.4779999923706055,0.07883094996213913,Sehrou Guirassy,h,3738,OpenPlay,2017,RightFoot,8369,FC Cologne,Hertha Berlin,0,2,2017-11-26 17:00:00,Lukas Klünter,Cross
+168347,52,MissedShots,0.759000015258789,0.33299999237060546,0.019591858610510826,Yuya Osako,h,135,OpenPlay,2017,LeftFoot,8369,FC Cologne,Hertha Berlin,0,2,2017-11-26 17:00:00,Salih Özcan,Pass
+168348,57,MissedShots,0.6819999694824219,0.46599998474121096,0.01339995302259922,Tim Handwerker,h,6353,OpenPlay,2017,LeftFoot,8369,FC Cologne,Hertha Berlin,0,2,2017-11-26 17:00:00,Claudio Pizarro,Pass
+168349,59,SavedShot,0.8640000152587891,0.66,0.05509497970342636,Tim Handwerker,h,6353,OpenPlay,2017,LeftFoot,8369,FC Cologne,Hertha Berlin,0,2,2017-11-26 17:00:00,Claudio Pizarro,Pass
+168351,68,MissedShots,0.850999984741211,0.6,0.0703418031334877,Yuya Osako,h,135,OpenPlay,2017,LeftFoot,8369,FC Cologne,Hertha Berlin,0,2,2017-11-26 17:00:00,Claudio Pizarro,Pass
+168352,75,SavedShot,0.7140000152587891,0.4179999923706055,0.012159946374595165,Matthias Lehmann,h,132,OpenPlay,2017,RightFoot,8369,FC Cologne,Hertha Berlin,0,2,2017-11-26 17:00:00,Sehrou Guirassy,Pass
+168353,77,BlockedShot,0.8719999694824219,0.31799999237060544,0.05261687561869621,Anas Ouahim,h,6416,OpenPlay,2017,LeftFoot,8369,FC Cologne,Hertha Berlin,0,2,2017-11-26 17:00:00,Salih Özcan,Pass
+168355,86,MissedShots,0.7019999694824218,0.5159999847412109,0.008173801936209202,Salih Özcan,h,5294,OpenPlay,2017,RightFoot,8369,FC Cologne,Hertha Berlin,0,2,2017-11-26 17:00:00,,None
+168334,16,SavedShot,0.8930000305175781,0.495,0.018493182957172394,Davie Selke,a,4280,FromCorner,2017,Head,8369,FC Cologne,Hertha Berlin,0,2,2017-11-26 17:00:00,Marvin Plattenhardt,Aerial
+168335,16,Goal,0.99,0.4909999847412109,0.968305766582489,Vedad Ibisevic,a,29,FromCorner,2017,RightFoot,8369,FC Cologne,Hertha Berlin,0,2,2017-11-26 17:00:00,,Rebound
+168337,25,BlockedShot,0.85,0.26799999237060546,0.04591881111264229,Davie Selke,a,4280,OpenPlay,2017,RightFoot,8369,FC Cologne,Hertha Berlin,0,2,2017-11-26 17:00:00,Mitchell Weiser,BallRecovery
+168338,25,SavedShot,0.8859999847412109,0.4640000152587891,0.09919866174459457,Vedad Ibisevic,a,29,OpenPlay,2017,RightFoot,8369,FC Cologne,Hertha Berlin,0,2,2017-11-26 17:00:00,Per Skjelbred,Cross
+168339,30,SavedShot,0.9030000305175782,0.5070000076293946,0.058320220559835434,Vedad Ibisevic,a,29,OpenPlay,2017,Head,8369,FC Cologne,Hertha Berlin,0,2,2017-11-26 17:00:00,Marvin Plattenhardt,Aerial
+168340,33,SavedShot,0.754000015258789,0.7080000305175781,0.019932035356760025,Maximilian Mittelstädt,a,419,OpenPlay,2017,LeftFoot,8369,FC Cologne,Hertha Berlin,0,2,2017-11-26 17:00:00,Davie Selke,Pass
+168341,38,MissedShots,0.889000015258789,0.5990000152587891,0.0779118537902832,Vedad Ibisevic,a,29,OpenPlay,2017,RightFoot,8369,FC Cologne,Hertha Berlin,0,2,2017-11-26 17:00:00,Mitchell Weiser,Cross
+168345,47,SavedShot,0.7319999694824219,0.53,0.0232541486620903,Per Skjelbred,a,24,OpenPlay,2017,RightFoot,8369,FC Cologne,Hertha Berlin,0,2,2017-11-26 17:00:00,,None
+168350,63,Goal,0.885,0.5,0.75777667760849,Vedad Ibisevic,a,29,Penalty,2017,RightFoot,8369,FC Cologne,Hertha Berlin,0,2,2017-11-26 17:00:00,,Standard
+168354,79,BlockedShot,0.8080000305175781,0.515,0.14849743247032166,Marvin Plattenhardt,a,23,DirectFreekick,2017,LeftFoot,8369,FC Cologne,Hertha Berlin,0,2,2017-11-26 17:00:00,,Standard

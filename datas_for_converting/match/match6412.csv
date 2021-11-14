@@ -1,0 +1,26 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+10721,2,MissedShots,0.915,0.544000015258789,0.33899152278900146,Balázs Dzsudzsák,h,3187,OpenPlay,2014,LeftFoot,6412,Dinamo Moscow,Kuban Krasnodar,2,2,2014-09-28 10:30:00,Aleksey Ionov,Cross
+10724,17,BlockedShot,0.720999984741211,0.41700000762939454,0.01561431773006916,Aleksey Ionov,h,2751,OpenPlay,2014,LeftFoot,6412,Dinamo Moscow,Kuban Krasnodar,2,2,2014-09-28 10:30:00,Christian Noboa,Pass
+10725,19,Goal,0.8859999847412109,0.649000015258789,0.3171737790107727,Aleksandr Kokorin,h,3066,OpenPlay,2014,RightFoot,6412,Dinamo Moscow,Kuban Krasnodar,2,2,2014-09-28 10:30:00,Balázs Dzsudzsák,Throughball
+10726,25,MissedShots,0.7169999694824218,0.3139999961853027,0.012427356094121933,Christian Noboa,h,2771,OpenPlay,2014,RightFoot,6412,Dinamo Moscow,Kuban Krasnodar,2,2,2014-09-28 10:30:00,,None
+10729,30,Goal,0.9009999847412109,0.3729999923706055,0.42018061876296997,Stanislav Manolev,h,2738,OpenPlay,2014,RightFoot,6412,Dinamo Moscow,Kuban Krasnodar,2,2,2014-09-28 10:30:00,Aleksandr Kokorin,Pass
+10730,33,MissedShots,0.8930000305175781,0.40599998474121096,0.3547535836696625,Kevin Kurányi,h,255,OpenPlay,2014,RightFoot,6412,Dinamo Moscow,Kuban Krasnodar,2,2,2014-09-28 10:30:00,Aleksandr Kokorin,Pass
+10734,58,SavedShot,0.7380000305175781,0.5020000076293946,0.02402908354997635,Aleksey Ionov,h,2751,OpenPlay,2014,RightFoot,6412,Dinamo Moscow,Kuban Krasnodar,2,2,2014-09-28 10:30:00,Christian Noboa,Pass
+10736,66,MissedShots,0.885,0.3139999961853027,0.05650521069765091,Stanislav Manolev,h,2738,OpenPlay,2014,RightFoot,6412,Dinamo Moscow,Kuban Krasnodar,2,2,2014-09-28 10:30:00,Aleksey Ionov,Pass
+10738,70,BlockedShot,0.865,0.5479999923706055,0.07093673199415207,Christian Noboa,h,2771,SetPiece,2014,LeftFoot,6412,Dinamo Moscow,Kuban Krasnodar,2,2,2014-09-28 10:30:00,,None
+10742,89,SavedShot,0.8859999847412109,0.5670000076293945,0.022794904187321663,Tomas Hubocan,h,3022,FromCorner,2014,Head,6412,Dinamo Moscow,Kuban Krasnodar,2,2,2014-09-28 10:30:00,Balázs Dzsudzsák,Cross
+10743,89,MissedShots,0.9330000305175781,0.5479999923706055,0.13581253588199615,Tomas Hubocan,h,3022,FromCorner,2014,RightFoot,6412,Dinamo Moscow,Kuban Krasnodar,2,2,2014-09-28 10:30:00,,Rebound
+10719,1,BlockedShot,0.7930000305175782,0.24799999237060547,0.01570313237607479,Sekou Oliseh,a,4687,OpenPlay,2014,RightFoot,6412,Dinamo Moscow,Kuban Krasnodar,2,2,2014-09-28 10:30:00,,BallRecovery
+10720,1,MissedShots,0.925,0.46,0.04113190621137619,Rabiu Mohammed,a,3079,FromCorner,2014,Head,6412,Dinamo Moscow,Kuban Krasnodar,2,2,2014-09-28 10:30:00,Ivelin Popov,Aerial
+10722,11,MissedShots,0.9109999847412109,0.6179999923706054,0.02230820246040821,Charles Kaboré,a,2921,OpenPlay,2014,Head,6412,Dinamo Moscow,Kuban Krasnodar,2,2,2014-09-28 10:30:00,Vladislav Kulik,Aerial
+10723,14,MissedShots,0.7319999694824219,0.3079999923706055,0.011341468431055546,Ivelin Popov,a,2817,OpenPlay,2014,RightFoot,6412,Dinamo Moscow,Kuban Krasnodar,2,2,2014-09-28 10:30:00,Toni Sunjic,TakeOn
+10727,27,ShotOnPost,0.8580000305175781,0.6880000305175781,0.04259820654988289,Anton Sosnin,a,2748,OpenPlay,2014,LeftFoot,6412,Dinamo Moscow,Kuban Krasnodar,2,2,2014-09-28 10:30:00,Vladislav Kulik,Pass
+10728,27,MissedShots,0.7080000305175781,0.61,0.014606792479753494,Rabiu Mohammed,a,3079,OpenPlay,2014,RightFoot,6412,Dinamo Moscow,Kuban Krasnodar,2,2,2014-09-28 10:30:00,,Rebound
+10731,34,SavedShot,0.9359999847412109,0.48700000762939455,0.10215102136135101,Sekou Oliseh,a,4687,OpenPlay,2014,Head,6412,Dinamo Moscow,Kuban Krasnodar,2,2,2014-09-28 10:30:00,Anton Sosnin,Aerial
+10732,43,MissedShots,0.7959999847412109,0.3729999923706055,0.018897967413067818,Andrey Eshchenko,a,3023,OpenPlay,2014,RightFoot,6412,Dinamo Moscow,Kuban Krasnodar,2,2,2014-09-28 10:30:00,,None
+10733,54,Goal,0.9490000152587891,0.48200000762939454,0.5376343131065369,Vladislav Ignatjev,a,2894,OpenPlay,2014,RightFoot,6412,Dinamo Moscow,Kuban Krasnodar,2,2,2014-09-28 10:30:00,Danilo,Cross
+10735,59,Goal,0.9169999694824219,0.5729999923706055,0.41576290130615234,Sekou Oliseh,a,4687,OpenPlay,2014,RightFoot,6412,Dinamo Moscow,Kuban Krasnodar,2,2,2014-09-28 10:30:00,Vladislav Ignatjev,TakeOn
+10737,69,SavedShot,0.7659999847412109,0.544000015258789,0.033732350915670395,Sekou Oliseh,a,4687,OpenPlay,2014,RightFoot,6412,Dinamo Moscow,Kuban Krasnodar,2,2,2014-09-28 10:30:00,Ibrahima Baldé,HeadPass
+10739,76,SavedShot,0.88,0.5420000076293945,0.2967795133590698,Ibrahima Baldé,a,2732,OpenPlay,2014,LeftFoot,6412,Dinamo Moscow,Kuban Krasnodar,2,2,2014-09-28 10:30:00,Xandao,Chipped
+10740,83,MissedShots,0.6630000305175782,0.49400001525878906,0.008043237961828709,Charles Kaboré,a,2921,SetPiece,2014,RightFoot,6412,Dinamo Moscow,Kuban Krasnodar,2,2,2014-09-28 10:30:00,,None
+10741,85,MissedShots,0.73,0.7080000305175781,0.034218426793813705,Ivelin Popov,a,2817,DirectFreekick,2014,RightFoot,6412,Dinamo Moscow,Kuban Krasnodar,2,2,2014-09-28 10:30:00,,Standard

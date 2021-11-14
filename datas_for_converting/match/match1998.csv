@@ -1,0 +1,24 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+63875,3,BlockedShot,0.8,0.5059999847412109,0.055838052183389664,Wahbi Khazri,h,734,OpenPlay,2015,LeftFoot,1998,Bordeaux,Monaco,3,1,2015-11-09 00:00:00,Enzo Crivelli,LayOff
+63877,9,BlockedShot,0.8619999694824219,0.5279999923706055,0.10439854860305786,Enzo Crivelli,h,3260,OpenPlay,2015,RightFoot,1998,Bordeaux,Monaco,3,1,2015-11-09 00:00:00,Wahbi Khazri,Pass
+63880,9,MissedShots,0.9,0.5820000076293945,0.015721626579761505,Nicolas Pallois,h,3670,FromCorner,2015,Head,1998,Bordeaux,Monaco,3,1,2015-11-09 00:00:00,Diego Contento,Aerial
+63881,11,BlockedShot,0.985999984741211,0.3820000076293945,0.11919017881155014,Wahbi Khazri,h,734,OpenPlay,2015,RightFoot,1998,Bordeaux,Monaco,3,1,2015-11-09 00:00:00,Enzo Crivelli,Throughball
+63888,35,Goal,0.8130000305175781,0.48,0.04612020030617714,Nicolas Maurice-Belay,h,3731,OpenPlay,2015,RightFoot,1998,Bordeaux,Monaco,3,1,2015-11-09 00:00:00,,None
+63890,39,Goal,0.965999984741211,0.524000015258789,0.6514101028442383,Cédric Yambéré,h,3257,SetPiece,2015,RightFoot,1998,Bordeaux,Monaco,3,1,2015-11-09 00:00:00,,None
+63891,41,MissedShots,0.8809999847412109,0.645,0.07713160663843155,Jaroslav Plasil,h,3620,OpenPlay,2015,LeftFoot,1998,Bordeaux,Monaco,3,1,2015-11-09 00:00:00,Diego Contento,Pass
+63892,47,Goal,0.81,0.509000015258789,0.07467546314001083,Jaroslav Plasil,h,3620,OpenPlay,2015,LeftFoot,1998,Bordeaux,Monaco,3,1,2015-11-09 00:00:00,Enzo Crivelli,Pass
+63894,66,ShotOnPost,0.8730000305175781,0.47,0.05125923454761505,Enzo Crivelli,h,3260,OpenPlay,2015,Head,1998,Bordeaux,Monaco,3,1,2015-11-09 00:00:00,Wahbi Khazri,Cross
+63883,19,SavedShot,0.8519999694824218,0.42700000762939455,0.06721623241901398,Hélder Costa,a,3428,OpenPlay,2015,LeftFoot,1998,Bordeaux,Monaco,3,1,2015-11-09 00:00:00,,None
+63884,21,SavedShot,0.845999984741211,0.5359999847412109,0.048361778259277344,Guido Carrillo,a,3424,OpenPlay,2015,RightFoot,1998,Bordeaux,Monaco,3,1,2015-11-09 00:00:00,Jérémy Toulalan,Cross
+63886,22,SavedShot,0.9430000305175781,0.6880000305175781,0.06877702474594116,Bernardo Silva,a,3635,OpenPlay,2015,LeftFoot,1998,Bordeaux,Monaco,3,1,2015-11-09 00:00:00,Elderson Echiéjilé,Pass
+63887,22,Goal,0.95,0.524000015258789,0.15310290455818176,Hélder Costa,a,3428,OpenPlay,2015,LeftFoot,1998,Bordeaux,Monaco,3,1,2015-11-09 00:00:00,,Rebound
+63893,54,MissedShots,0.7280000305175781,0.36900001525878906,0.013769092038273811,Fabinho,a,3420,FromCorner,2015,RightFoot,1998,Bordeaux,Monaco,3,1,2015-11-09 00:00:00,,None
+63895,77,MissedShots,0.9380000305175781,0.46,0.12193761765956879,Almamy Touré,a,3431,FromCorner,2015,Head,1998,Bordeaux,Monaco,3,1,2015-11-09 00:00:00,Bernardo Silva,Cross
+63896,78,BlockedShot,0.8019999694824219,0.47,0.04104934260249138,Guido Carrillo,a,3424,OpenPlay,2015,RightFoot,1998,Bordeaux,Monaco,3,1,2015-11-09 00:00:00,Boschilia,HeadPass
+63897,81,SavedShot,0.9259999847412109,0.5329999923706055,0.049679309129714966,Guido Carrillo,a,3424,FromCorner,2015,Head,1998,Bordeaux,Monaco,3,1,2015-11-09 00:00:00,Bernardo Silva,BallRecovery
+63898,84,MissedShots,0.87,0.4370000076293945,0.04788374900817871,Guido Carrillo,a,3424,OpenPlay,2015,RightFoot,1998,Bordeaux,Monaco,3,1,2015-11-09 00:00:00,Almamy Touré,Cross
+63899,86,MissedShots,0.8280000305175781,0.5729999923706055,0.09938542544841766,Stephan El Shaarawy,a,1252,OpenPlay,2015,RightFoot,1998,Bordeaux,Monaco,3,1,2015-11-09 00:00:00,Fabinho,TakeOn
+63900,87,SavedShot,0.91,0.6990000152587891,0.07555544376373291,Stephan El Shaarawy,a,1252,OpenPlay,2015,LeftFoot,1998,Bordeaux,Monaco,3,1,2015-11-09 00:00:00,João Moutinho,TakeOn
+63901,90,SavedShot,0.77,0.2989999961853027,0.05373315513134003,João Moutinho,a,3422,DirectFreekick,2015,RightFoot,1998,Bordeaux,Monaco,3,1,2015-11-09 00:00:00,,Standard
+63902,92,BlockedShot,0.865999984741211,0.6880000305175781,0.03022458590567112,Stephan El Shaarawy,a,1252,OpenPlay,2015,RightFoot,1998,Bordeaux,Monaco,3,1,2015-11-09 00:00:00,Fabinho,Chipped
+63903,92,ShotOnPost,0.9159999847412109,0.6220000076293946,0.2992500960826874,Elderson Echiéjilé,a,3419,OpenPlay,2015,LeftFoot,1998,Bordeaux,Monaco,3,1,2015-11-09 00:00:00,Guido Carrillo,BallTouch

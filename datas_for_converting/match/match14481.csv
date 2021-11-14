@@ -1,0 +1,37 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+382174,21,SavedShot,0.8780000305175781,0.52,0.09539951384067535,Jonjo Shelvey,h,769,OpenPlay,2020,LeftFoot,14481,Newcastle United,Manchester United,1,4,2020-10-17 19:00:00,Jamal Lewis,Cross
+382178,29,SavedShot,0.7880000305175782,0.700999984741211,0.021668504923582077,Allan Saint-Maximin,h,101,SetPiece,2020,RightFoot,14481,Newcastle United,Manchester United,1,4,2020-10-17 19:00:00,Isaac Hayden,Pass
+382184,49,BlockedShot,0.8480000305175781,0.7130000305175781,0.053461574018001556,Callum Wilson,h,468,OpenPlay,2020,RightFoot,14481,Newcastle United,Manchester United,1,4,2020-10-17 19:00:00,Joelinton,Pass
+382185,50,SavedShot,0.9530000305175781,0.5070000076293946,0.600750207901001,Callum Wilson,h,468,OpenPlay,2020,RightFoot,14481,Newcastle United,Manchester United,1,4,2020-10-17 19:00:00,Allan Saint-Maximin,Cross
+382187,53,MissedShots,0.8009999847412109,0.5029999923706054,0.050640687346458435,Jeff Hendrick,h,1746,OpenPlay,2020,RightFoot,14481,Newcastle United,Manchester United,1,4,2020-10-17 19:00:00,Emil Krafth,Pass
+382192,67,SavedShot,0.7419999694824219,0.48200000762939454,0.022391755133867264,Jonjo Shelvey,h,769,OpenPlay,2020,RightFoot,14481,Newcastle United,Manchester United,1,4,2020-10-17 19:00:00,Callum Wilson,Pass
+382193,68,MissedShots,0.7619999694824219,0.45599998474121095,0.023183558136224747,Fabian Schär,h,76,OpenPlay,2020,RightFoot,14481,Newcastle United,Manchester United,1,4,2020-10-17 19:00:00,Allan Saint-Maximin,Pass
+382167,1,OwnGoal,0.12100000381469726,0.6459999847412109,0,Luke Shaw,a,1006,OpenPlay,2020,LeftFoot,14481,Newcastle United,Manchester United,1,4,2020-10-17 19:00:00,,Challenge
+382168,3,BlockedShot,0.8040000152587891,0.745,0.016297170892357826,Daniel James,a,5595,OpenPlay,2020,RightFoot,14481,Newcastle United,Manchester United,1,4,2020-10-17 19:00:00,Bruno Fernandes,BallRecovery
+382169,3,MissedShots,0.7809999847412109,0.5940000152587891,0.02077622152864933,Fred,a,6817,FromCorner,2020,RightFoot,14481,Newcastle United,Manchester United,1,4,2020-10-17 19:00:00,,None
+382170,6,MissedShots,0.8019999694824219,0.54,0.04178289696574211,Daniel James,a,5595,OpenPlay,2020,RightFoot,14481,Newcastle United,Manchester United,1,4,2020-10-17 19:00:00,Luke Shaw,BallRecovery
+382171,13,BlockedShot,0.8490000152587891,0.5359999847412109,0.07998161762952805,Marcus Rashford,a,556,OpenPlay,2020,RightFoot,14481,Newcastle United,Manchester United,1,4,2020-10-17 19:00:00,Daniel James,Pass
+382172,14,BlockedShot,0.7969999694824219,0.36900001525878906,0.02267060987651348,Fred,a,6817,FromCorner,2020,RightFoot,14481,Newcastle United,Manchester United,1,4,2020-10-17 19:00:00,Marcus Rashford,Pass
+382173,15,MissedShots,0.8480000305175781,0.6619999694824219,0.047783855348825455,Marcus Rashford,a,556,OpenPlay,2020,RightFoot,14481,Newcastle United,Manchester United,1,4,2020-10-17 19:00:00,Bruno Fernandes,TakeOn
+382175,22,SavedShot,0.8780000305175781,0.69,0.048056114464998245,Juan Mata,a,554,OpenPlay,2020,LeftFoot,14481,Newcastle United,Manchester United,1,4,2020-10-17 19:00:00,Bruno Fernandes,Pass
+382176,22,Goal,0.919000015258789,0.534000015258789,0.03827948123216629,Harry Maguire,a,1687,FromCorner,2020,Head,14481,Newcastle United,Manchester United,1,4,2020-10-17 19:00:00,Juan Mata,Aerial
+382177,28,SavedShot,0.8590000152587891,0.785,0.02314857579767704,Marcus Rashford,a,556,OpenPlay,2020,RightFoot,14481,Newcastle United,Manchester United,1,4,2020-10-17 19:00:00,Daniel James,Pass
+382179,33,BlockedShot,0.8419999694824218,0.4779999923706055,0.09006166458129883,Daniel James,a,5595,OpenPlay,2020,RightFoot,14481,Newcastle United,Manchester United,1,4,2020-10-17 19:00:00,Scott McTominay,Pass
+382180,36,BlockedShot,0.895,0.555,0.07537944614887238,Marcus Rashford,a,556,FromCorner,2020,RightFoot,14481,Newcastle United,Manchester United,1,4,2020-10-17 19:00:00,Scott McTominay,BallTouch
+382181,42,SavedShot,0.740999984741211,0.44299999237060544,0.01969924569129944,Marcus Rashford,a,556,OpenPlay,2020,RightFoot,14481,Newcastle United,Manchester United,1,4,2020-10-17 19:00:00,Luke Shaw,Pass
+382182,47,SavedShot,0.7730000305175782,0.5790000152587891,0.051214177161455154,Daniel James,a,5595,OpenPlay,2020,RightFoot,14481,Newcastle United,Manchester United,1,4,2020-10-17 19:00:00,Scott McTominay,Pass
+382183,48,MissedShots,0.7619999694824219,0.33299999237060546,0.01691282168030739,Bruno Fernandes,a,1228,OpenPlay,2020,RightFoot,14481,Newcastle United,Manchester United,1,4,2020-10-17 19:00:00,Aaron Wan-Bissaka,Pass
+382186,51,MissedShots,0.765,0.575,0.025007160380482674,Fred,a,6817,OpenPlay,2020,LeftFoot,14481,Newcastle United,Manchester United,1,4,2020-10-17 19:00:00,Bruno Fernandes,Pass
+382188,57,SavedShot,0.885,0.5,0.7611688375473022,Bruno Fernandes,a,1228,Penalty,2020,RightFoot,14481,Newcastle United,Manchester United,1,4,2020-10-17 19:00:00,,Standard
+382189,58,BlockedShot,0.879000015258789,0.4809999847412109,0.014106341637670994,Harry Maguire,a,1687,FromCorner,2020,Head,14481,Newcastle United,Manchester United,1,4,2020-10-17 19:00:00,Juan Mata,Aerial
+382190,60,SavedShot,0.8530000305175781,0.285,0.0345623604953289,Aaron Wan-Bissaka,a,5584,OpenPlay,2020,RightFoot,14481,Newcastle United,Manchester United,1,4,2020-10-17 19:00:00,Fred,Pass
+382191,61,SavedShot,0.8019999694824219,0.700999984741211,0.020817464217543602,Bruno Fernandes,a,1228,OpenPlay,2020,RightFoot,14481,Newcastle United,Manchester United,1,4,2020-10-17 19:00:00,,None
+382194,69,SavedShot,0.8780000305175781,0.6990000152587891,0.04656786099076271,Luke Shaw,a,1006,OpenPlay,2020,LeftFoot,14481,Newcastle United,Manchester United,1,4,2020-10-17 19:00:00,Bruno Fernandes,HeadPass
+382195,70,BlockedShot,0.7959999847412109,0.41200000762939454,0.030228063464164734,Scott McTominay,a,5560,OpenPlay,2020,RightFoot,14481,Newcastle United,Manchester United,1,4,2020-10-17 19:00:00,Aaron Wan-Bissaka,Pass
+382196,70,BlockedShot,0.8280000305175781,0.46799999237060547,0.0641898512840271,Marcus Rashford,a,556,OpenPlay,2020,RightFoot,14481,Newcastle United,Manchester United,1,4,2020-10-17 19:00:00,,Dispossessed
+382197,71,BlockedShot,0.865999984741211,0.7019999694824218,0.04169169068336487,Daniel James,a,5595,OpenPlay,2020,RightFoot,14481,Newcastle United,Manchester United,1,4,2020-10-17 19:00:00,Juan Mata,Pass
+382198,79,MissedShots,0.735,0.5529999923706055,0.019145261496305466,Harry Maguire,a,1687,OpenPlay,2020,RightFoot,14481,Newcastle United,Manchester United,1,4,2020-10-17 19:00:00,Paul Pogba,Pass
+382199,85,Goal,0.960999984741211,0.6419999694824219,0.11515864729881287,Bruno Fernandes,a,1228,OpenPlay,2020,RightFoot,14481,Newcastle United,Manchester United,1,4,2020-10-17 19:00:00,Marcus Rashford,Pass
+382200,89,Goal,0.904000015258789,0.35,0.10146458446979523,Aaron Wan-Bissaka,a,5584,OpenPlay,2020,RightFoot,14481,Newcastle United,Manchester United,1,4,2020-10-17 19:00:00,Marcus Rashford,Pass
+382201,92,BlockedShot,0.7759999847412109,0.5829999923706055,0.0460856556892395,Bruno Fernandes,a,1228,OpenPlay,2020,RightFoot,14481,Newcastle United,Manchester United,1,4,2020-10-17 19:00:00,Donny van de Beek,Pass
+382202,95,Goal,0.8919999694824219,0.6359999847412109,0.3050525188446045,Marcus Rashford,a,556,OpenPlay,2020,RightFoot,14481,Newcastle United,Manchester United,1,4,2020-10-17 19:00:00,Bruno Fernandes,Chipped

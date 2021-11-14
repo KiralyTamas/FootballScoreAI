@@ -1,0 +1,23 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+215074,3,MissedShots,0.815,0.639000015258789,0.026772137731313705,Gaël Kakuta,h,2549,FromCorner,2017,LeftFoot,8925,Amiens,Metz,2,0,2018-05-12 20:00:00,,None
+215075,7,BlockedShot,0.7140000152587891,0.485,0.015648813918232918,Thomas Monconduit,h,5963,OpenPlay,2017,RightFoot,8925,Amiens,Metz,2,0,2018-05-12 20:00:00,Gaël Kakuta,Pass
+215078,20,Goal,0.885,0.5,0.7600951194763184,Harrison Manzala,h,5964,Penalty,2017,RightFoot,8925,Amiens,Metz,2,0,2018-05-12 20:00:00,,Standard
+215085,59,MissedShots,0.8090000152587891,0.6140000152587891,0.061480458825826645,Harrison Manzala,h,5964,OpenPlay,2017,RightFoot,8925,Amiens,Metz,2,0,2018-05-12 20:00:00,Danilo Avelar,TakeOn
+215087,61,ShotOnPost,0.885,0.6,0.3822355270385742,Moussa Konate,h,4670,OpenPlay,2017,LeftFoot,8925,Amiens,Metz,2,0,2018-05-12 20:00:00,,None
+215089,72,MissedShots,0.825,0.6329999923706054,0.058150265365839005,Moussa Konate,h,4670,OpenPlay,2017,LeftFoot,8925,Amiens,Metz,2,0,2018-05-12 20:00:00,Danilo Avelar,Pass
+215091,85,BlockedShot,0.9259999847412109,0.3729999923706055,0.18306027352809906,Gaël Kakuta,h,2549,OpenPlay,2017,LeftFoot,8925,Amiens,Metz,2,0,2018-05-12 20:00:00,Mathieu Bodmer,TakeOn
+215094,92,BlockedShot,0.915,0.30700000762939456,0.04231587424874306,Mathieu Bodmer,h,3308,FromCorner,2017,RightFoot,8925,Amiens,Metz,2,0,2018-05-12 20:00:00,Gaël Kakuta,Pass
+215076,8,ShotOnPost,0.9369999694824219,0.33,0.07020998746156693,Opa Nguette,a,5676,OpenPlay,2017,RightFoot,8925,Amiens,Metz,2,0,2018-05-12 20:00:00,Mathieu Dossevi,TakeOn
+215077,12,BlockedShot,0.7719999694824219,0.3039999961853027,0.022295763716101646,Mathieu Dossevi,a,6264,OpenPlay,2017,RightFoot,8925,Amiens,Metz,2,0,2018-05-12 20:00:00,Florent Mollet,Pass
+215079,30,BlockedShot,0.9159999847412109,0.52,0.04136592522263527,Opa Nguette,a,5676,FromCorner,2017,Head,8925,Amiens,Metz,2,0,2018-05-12 20:00:00,Mathieu Dossevi,Aerial
+215080,30,BlockedShot,0.89,0.46900001525878904,0.10666340589523315,Emmanuel Rivière,a,777,FromCorner,2017,RightFoot,8925,Amiens,Metz,2,0,2018-05-12 20:00:00,,Rebound
+215081,36,BlockedShot,0.9059999847412109,0.34,0.05564494431018829,Opa Nguette,a,5676,OpenPlay,2017,RightFoot,8925,Amiens,Metz,2,0,2018-05-12 20:00:00,,None
+215082,38,MissedShots,0.765,0.4209999847412109,0.014511482790112495,Fallou Diagne,a,3593,FromCorner,2017,RightFoot,8925,Amiens,Metz,2,0,2018-05-12 20:00:00,,Aerial
+215083,39,MissedShots,0.895,0.6179999923706054,0.09183847904205322,Ibrahima Niane,a,5988,OpenPlay,2017,RightFoot,8925,Amiens,Metz,2,0,2018-05-12 20:00:00,Emmanuel Rivière,LayOff
+215084,50,MissedShots,0.8919999694824219,0.4929999923706055,0.05878426879644394,Ibrahima Niane,a,5988,SetPiece,2017,Head,8925,Amiens,Metz,2,0,2018-05-12 20:00:00,Florent Mollet,Chipped
+215086,60,SavedShot,0.73,0.7380000305175781,0.03432049602270126,Florent Mollet,a,5677,DirectFreekick,2017,RightFoot,8925,Amiens,Metz,2,0,2018-05-12 20:00:00,,Standard
+215088,65,MissedShots,0.83,0.51,0.2672075033187866,Emmanuel Rivière,a,777,OpenPlay,2017,RightFoot,8925,Amiens,Metz,2,0,2018-05-12 20:00:00,Ibrahima Niane,Pass
+215090,82,BlockedShot,0.7619999694824219,0.5429999923706055,0.026787955313920975,Emmanuel Rivière,a,777,OpenPlay,2017,RightFoot,8925,Amiens,Metz,2,0,2018-05-12 20:00:00,Mathieu Dossevi,Pass
+215092,85,OwnGoal,0.058000001907348636,0.5459999847412109,0,Vahid Selimovic,a,5810,OpenPlay,2017,OtherBodyPart,8925,Amiens,Metz,2,0,2018-05-12 20:00:00,,Challenge
+215093,87,MissedShots,0.8009999847412109,0.7119999694824218,0.015699518844485283,Farid Boulaya,a,5757,OpenPlay,2017,LeftFoot,8925,Amiens,Metz,2,0,2018-05-12 20:00:00,Ibrahima Niane,Pass
+215095,92,MissedShots,0.7290000152587891,0.5820000076293945,0.013567288406193256,Florent Mollet,a,5677,OpenPlay,2017,RightFoot,8925,Amiens,Metz,2,0,2018-05-12 20:00:00,Ibrahima Niane,Pass

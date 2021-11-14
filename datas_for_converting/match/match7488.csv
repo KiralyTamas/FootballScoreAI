@@ -1,0 +1,25 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+213355,4,BlockedShot,0.8880000305175781,0.585,0.07398607581853867,Callum Wilson,h,468,OpenPlay,2017,LeftFoot,7488,Bournemouth,Swansea,1,0,2018-05-05 15:00:00,Andrew Surman,BallRecovery
+213360,15,MissedShots,0.9419999694824219,0.6229999923706054,0.28033554553985596,Callum Wilson,h,468,OpenPlay,2017,LeftFoot,7488,Bournemouth,Swansea,1,0,2018-05-05 15:00:00,Ryan Fraser,Cross
+213361,18,MissedShots,0.8690000152587891,0.4179999923706055,0.07153519243001938,Callum Wilson,h,468,OpenPlay,2017,LeftFoot,7488,Bournemouth,Swansea,1,0,2018-05-05 15:00:00,,None
+213365,36,Goal,0.8090000152587891,0.5120000076293946,0.045952048152685165,Ryan Fraser,h,1683,SetPiece,2017,RightFoot,7488,Bournemouth,Swansea,1,0,2018-05-05 15:00:00,Andrew Surman,Pass
+213367,46,SavedShot,0.9259999847412109,0.3189999961853027,0.3244348168373108,Callum Wilson,h,468,OpenPlay,2017,RightFoot,7488,Bournemouth,Swansea,1,0,2018-05-05 15:00:00,,BlockedPass
+213371,58,MissedShots,0.905,0.56,0.053659588098526,Steve Cook,h,458,FromCorner,2017,Head,7488,Bournemouth,Swansea,1,0,2018-05-05 15:00:00,Joshua King,Cross
+213372,62,MissedShots,0.68,0.6029999923706054,0.0138123519718647,Simon Francis,h,456,OpenPlay,2017,RightFoot,7488,Bournemouth,Swansea,1,0,2018-05-05 15:00:00,Marc Pugh,Pass
+213374,72,BlockedShot,0.78,0.37099998474121093,0.03819821774959564,Andrew Surman,h,460,OpenPlay,2017,LeftFoot,7488,Bournemouth,Swansea,1,0,2018-05-05 15:00:00,,None
+213375,73,SavedShot,0.9069999694824219,0.5790000152587891,0.01605999283492565,Nathan Aké,h,579,FromCorner,2017,Head,7488,Bournemouth,Swansea,1,0,2018-05-05 15:00:00,Lewis Cook,Aerial
+213376,79,SavedShot,0.879000015258789,0.5990000152587891,0.0934755876660347,Dan Gosling,h,462,OpenPlay,2017,RightFoot,7488,Bournemouth,Swansea,1,0,2018-05-05 15:00:00,,None
+213377,84,SavedShot,0.9519999694824218,0.47,0.6686943769454956,Callum Wilson,h,468,OpenPlay,2017,RightFoot,7488,Bournemouth,Swansea,1,0,2018-05-05 15:00:00,Joshua King,Pass
+213378,94,MissedShots,0.725,0.7230000305175781,0.016038961708545685,Lys Mousset,h,1748,OpenPlay,2017,RightFoot,7488,Bournemouth,Swansea,1,0,2018-05-05 15:00:00,Lewis Cook,BallRecovery
+213356,11,SavedShot,0.9,0.5659999847412109,0.11603514850139618,Mike van der Hoorn,a,1702,SetPiece,2017,RightFoot,7488,Bournemouth,Swansea,1,0,2018-05-05 15:00:00,Federico Fernández,Pass
+213357,11,BlockedShot,0.730999984741211,0.43099998474121093,0.013621373102068901,Ki Sung-yueng,a,723,SetPiece,2017,RightFoot,7488,Bournemouth,Swansea,1,0,2018-05-05 15:00:00,Nathan Dyer,Rebound
+213358,11,SavedShot,0.955999984741211,0.549000015258789,0.09872914105653763,Nathan Dyer,a,783,SetPiece,2017,RightFoot,7488,Bournemouth,Swansea,1,0,2018-05-05 15:00:00,Federico Fernández,HeadPass
+213359,13,MissedShots,0.9030000305175782,0.7119999694824218,0.010336915962398052,Alfie Mawson,a,1727,FromCorner,2017,Head,7488,Bournemouth,Swansea,1,0,2018-05-05 15:00:00,Tom Carroll,Aerial
+213362,20,BlockedShot,0.784000015258789,0.6,0.030903039500117302,Jordan Ayew,a,672,OpenPlay,2017,RightFoot,7488,Bournemouth,Swansea,1,0,2018-05-05 15:00:00,Tom Carroll,Pass
+213363,25,MissedShots,0.9169999694824219,0.5779999923706055,0.25027942657470703,Martin Olsson,a,798,OpenPlay,2017,Head,7488,Bournemouth,Swansea,1,0,2018-05-05 15:00:00,André Ayew,Cross
+213364,30,MissedShots,0.755,0.6730000305175782,0.01849316619336605,Jordan Ayew,a,672,OpenPlay,2017,RightFoot,7488,Bournemouth,Swansea,1,0,2018-05-05 15:00:00,André Ayew,Pass
+213366,39,MissedShots,0.9159999847412109,0.6,0.3862874507904053,Jordan Ayew,a,672,OpenPlay,2017,LeftFoot,7488,Bournemouth,Swansea,1,0,2018-05-05 15:00:00,André Ayew,Throughball
+213368,45,SavedShot,0.78,0.4179999923706055,0.03454379364848137,Jordan Ayew,a,672,OpenPlay,2017,RightFoot,7488,Bournemouth,Swansea,1,0,2018-05-05 15:00:00,Nathan Dyer,LayOff
+213369,47,BlockedShot,0.8119999694824219,0.735,0.019835475832223892,Nathan Dyer,a,783,OpenPlay,2017,RightFoot,7488,Bournemouth,Swansea,1,0,2018-05-05 15:00:00,Ki Sung-yueng,Pass
+213370,56,MissedShots,0.91,0.6659999847412109,0.010832075960934162,Federico Fernández,a,708,FromCorner,2017,Head,7488,Bournemouth,Swansea,1,0,2018-05-05 15:00:00,Tom Carroll,Aerial
+213373,66,MissedShots,0.7709999847412109,0.585,0.0254833847284317,Tom Carroll,a,653,OpenPlay,2017,LeftFoot,7488,Bournemouth,Swansea,1,0,2018-05-05 15:00:00,,None

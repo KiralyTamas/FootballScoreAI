@@ -1,0 +1,21 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+405235,26,BlockedShot,0.8880000305175781,0.69,0.045110080391168594,Cristiano Biraghi,h,1164,OpenPlay,2020,LeftFoot,15652,Fiorentina,Spezia,3,0,2021-02-19 17:30:00,Sofyan Amrabat,Chipped
+405236,26,MissedShots,0.895,0.5929999923706055,0.08779340237379074,Cristiano Biraghi,h,1164,OpenPlay,2020,RightFoot,15652,Fiorentina,Spezia,3,0,2021-02-19 17:30:00,,Rebound
+405242,47,Goal,0.975,0.52,0.6246785521507263,Dusan Vlahovic,h,7084,OpenPlay,2020,LeftFoot,15652,Fiorentina,Spezia,3,0,2021-02-19 17:30:00,Gaetano Castrovilli,Chipped
+405241,49,MissedShots,0.8930000305175781,0.6229999923706054,0.06298896670341492,Cristiano Biraghi,h,1164,OpenPlay,2020,RightFoot,15652,Fiorentina,Spezia,3,0,2021-02-19 17:30:00,Gaetano Castrovilli,Cross
+405243,58,MissedShots,0.884000015258789,0.325,0.0705433189868927,Dusan Vlahovic,h,7084,OpenPlay,2020,RightFoot,15652,Fiorentina,Spezia,3,0,2021-02-19 17:30:00,Lorenzo Venuti,Pass
+405244,60,SavedShot,0.9,0.649000015258789,0.09765948355197906,Valentin Eysseric,h,3515,OpenPlay,2020,LeftFoot,15652,Fiorentina,Spezia,3,0,2021-02-19 17:30:00,Dusan Vlahovic,Pass
+405245,63,BlockedShot,0.9119999694824219,0.56,0.11825349181890488,Valentin Eysseric,h,3515,OpenPlay,2020,RightFoot,15652,Fiorentina,Spezia,3,0,2021-02-19 17:30:00,Cristiano Biraghi,Cross
+405246,63,Goal,0.87,0.534000015258789,0.10421780496835709,Gaetano Castrovilli,h,7909,OpenPlay,2020,LeftFoot,15652,Fiorentina,Spezia,3,0,2021-02-19 17:30:00,,Rebound
+405248,75,SavedShot,0.8930000305175781,0.624000015258789,0.41813433170318604,Dusan Vlahovic,h,7084,OpenPlay,2020,LeftFoot,15652,Fiorentina,Spezia,3,0,2021-02-19 17:30:00,,None
+405249,81,Goal,0.8880000305175781,0.44599998474121094,0.4696655869483948,Valentin Eysseric,h,3515,OpenPlay,2020,RightFoot,15652,Fiorentina,Spezia,3,0,2021-02-19 17:30:00,Dusan Vlahovic,Pass
+405233,5,MissedShots,0.904000015258789,0.3770000076293945,0.06753436475992203,Kevin Agudelo,a,8010,OpenPlay,2020,LeftFoot,15652,Fiorentina,Spezia,3,0,2021-02-19 17:30:00,Luca Vignali,Cross
+405234,19,SavedShot,0.9009999847412109,0.395,0.012437533587217331,Riccardo Saponara,a,1313,FromCorner,2020,Head,15652,Fiorentina,Spezia,3,0,2021-02-19 17:30:00,Juan Ramos,Aerial
+405237,31,MissedShots,0.8809999847412109,0.4540000152587891,0.05230803042650223,Ardian Ismajli,a,9090,FromCorner,2020,LeftFoot,15652,Fiorentina,Spezia,3,0,2021-02-19 17:30:00,Juan Ramos,Cross
+405238,31,BlockedShot,0.805,0.5329999923706055,0.04460937902331352,Matteo Ricci,a,8911,FromCorner,2020,LeftFoot,15652,Fiorentina,Spezia,3,0,2021-02-19 17:30:00,,Rebound
+405239,31,MissedShots,0.875999984741211,0.45599998474121095,0.0844431221485138,Riccardo Saponara,a,1313,FromCorner,2020,RightFoot,15652,Fiorentina,Spezia,3,0,2021-02-19 17:30:00,,Rebound
+405240,34,MissedShots,0.7480000305175781,0.5540000152587891,0.018295977264642715,Matteo Ricci,a,8911,OpenPlay,2020,RightFoot,15652,Fiorentina,Spezia,3,0,2021-02-19 17:30:00,,None
+405247,73,BlockedShot,0.8580000305175781,0.44799999237060545,0.10103392601013184,Daniele Verde,a,2044,OpenPlay,2020,LeftFoot,15652,Fiorentina,Spezia,3,0,2021-02-19 17:30:00,Andrej Galabinov,Pass
+405250,85,BlockedShot,0.79,0.42400001525878905,0.038602519780397415,Daniele Verde,a,2044,OpenPlay,2020,LeftFoot,15652,Fiorentina,Spezia,3,0,2021-02-19 17:30:00,Andrej Galabinov,LayOff
+405251,90,SavedShot,0.9469999694824218,0.580999984741211,0.4254642128944397,Roberto Piccoli,a,7375,OpenPlay,2020,LeftFoot,15652,Fiorentina,Spezia,3,0,2021-02-19 17:30:00,Emmanuel Gyasi,Pass
+405252,90,BlockedShot,0.769000015258789,0.5329999923706055,0.020272942259907722,Matteo Ricci,a,8911,FromCorner,2020,RightFoot,15652,Fiorentina,Spezia,3,0,2021-02-19 17:30:00,,None

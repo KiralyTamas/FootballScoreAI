@@ -1,0 +1,29 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+290887,3,SavedShot,0.865,0.3940000152587891,0.3518795073032379,Romain Hamouma,h,3561,OpenPlay,2018,LeftFoot,10936,Saint-Etienne,Nimes,2,1,2019-04-01 19:30:00,,None
+290888,17,SavedShot,0.875,0.40400001525878904,0.4232679009437561,Arnaud Nordin,h,5684,OpenPlay,2018,RightFoot,10936,Saint-Etienne,Nimes,2,1,2019-04-01 19:30:00,Robert Beric,TakeOn
+290889,23,Goal,0.8680000305175781,0.40599998474121096,0.2715853452682495,Rémy Cabella,h,3390,OpenPlay,2018,RightFoot,10936,Saint-Etienne,Nimes,2,1,2019-04-01 19:30:00,,BallRecovery
+290890,27,SavedShot,0.9680000305175781,0.395,0.2257521152496338,Mathieu Debuchy,h,967,FromCorner,2018,RightFoot,10936,Saint-Etienne,Nimes,2,1,2019-04-01 19:30:00,Youssef Ait Bennasser,Cross
+290891,28,MissedShots,0.915,0.4620000076293945,0.034531403332948685,Timothée Kolodziejczak,h,2063,FromCorner,2018,Head,10936,Saint-Etienne,Nimes,2,1,2019-04-01 19:30:00,Romain Hamouma,Aerial
+290894,34,SavedShot,0.9340000152587891,0.57,0.11520340293645859,Robert Beric,h,3691,OpenPlay,2018,Head,10936,Saint-Etienne,Nimes,2,1,2019-04-01 19:30:00,Mathieu Debuchy,Cross
+290895,37,MissedShots,0.825999984741211,0.4640000152587891,0.07332690060138702,Arnaud Nordin,h,5684,OpenPlay,2018,LeftFoot,10936,Saint-Etienne,Nimes,2,1,2019-04-01 19:30:00,Rémy Cabella,Pass
+290896,40,SavedShot,0.8190000152587891,0.655,0.0347013920545578,Arnaud Nordin,h,5684,OpenPlay,2018,LeftFoot,10936,Saint-Etienne,Nimes,2,1,2019-04-01 19:30:00,Rémy Cabella,Pass
+290897,40,MissedShots,0.765,0.4640000152587891,0.02590397745370865,Youssef Ait Bennasser,h,5633,OpenPlay,2018,RightFoot,10936,Saint-Etienne,Nimes,2,1,2019-04-01 19:30:00,Arnaud Nordin,Pass
+290904,48,SavedShot,0.8969999694824219,0.3529999923706055,0.0902315303683281,Arnaud Nordin,h,5684,OpenPlay,2018,RightFoot,10936,Saint-Etienne,Nimes,2,1,2019-04-01 19:30:00,Romain Hamouma,Pass
+290901,49,SavedShot,0.779000015258789,0.33599998474121096,0.0435151532292366,Robert Beric,h,3691,OpenPlay,2018,RightFoot,10936,Saint-Etienne,Nimes,2,1,2019-04-01 19:30:00,Yann M&#039;Vila,Pass
+290902,49,BlockedShot,0.889000015258789,0.6780000305175782,0.07304117828607559,Romain Hamouma,h,3561,OpenPlay,2018,RightFoot,10936,Saint-Etienne,Nimes,2,1,2019-04-01 19:30:00,Youssef Ait Bennasser,TakeOn
+290910,72,BlockedShot,0.8159999847412109,0.57,0.07810616493225098,Romain Hamouma,h,3561,OpenPlay,2018,RightFoot,10936,Saint-Etienne,Nimes,2,1,2019-04-01 19:30:00,Arnaud Nordin,Pass
+290912,78,Goal,0.92,0.46799999237060547,0.3632359802722931,Robert Beric,h,3691,OpenPlay,2018,RightFoot,10936,Saint-Etienne,Nimes,2,1,2019-04-01 19:30:00,Valentin Vada,Cross
+290886,1,Goal,0.9159999847412109,0.5070000076293946,0.3653712570667267,Antonin Bobichon,a,6869,OpenPlay,2018,Head,10936,Saint-Etienne,Nimes,2,1,2019-04-01 19:30:00,Denis Bouanga,Cross
+290892,28,BlockedShot,0.8519999694824218,0.7130000305175781,0.0291551873087883,Antonin Bobichon,a,6869,OpenPlay,2018,RightFoot,10936,Saint-Etienne,Nimes,2,1,2019-04-01 19:30:00,Gaetan Paquiez,Chipped
+290893,29,BlockedShot,0.87,0.29200000762939454,0.031413909047842026,Jordan Ferri,a,3275,FromCorner,2018,RightFoot,10936,Saint-Etienne,Nimes,2,1,2019-04-01 19:30:00,Téji Savanier,Cross
+290898,44,BlockedShot,0.7119999694824218,0.3770000076293945,0.015133243054151535,Téji Savanier,a,6863,OpenPlay,2018,RightFoot,10936,Saint-Etienne,Nimes,2,1,2019-04-01 19:30:00,Gaetan Paquiez,Pass
+290899,45,SavedShot,0.8169999694824219,0.6780000305175782,0.03461073711514473,Antonin Bobichon,a,6869,OpenPlay,2018,RightFoot,10936,Saint-Etienne,Nimes,2,1,2019-04-01 19:30:00,Florian Miguel,TakeOn
+290903,47,MissedShots,0.7519999694824219,0.23700000762939452,0.015436036512255669,Renaud Ripart,a,6864,OpenPlay,2018,RightFoot,10936,Saint-Etienne,Nimes,2,1,2019-04-01 19:30:00,Gaetan Paquiez,Pass
+290900,48,SavedShot,0.92,0.34900001525878904,0.267097532749176,Denis Bouanga,a,3781,OpenPlay,2018,RightFoot,10936,Saint-Etienne,Nimes,2,1,2019-04-01 19:30:00,Jordan Ferri,Pass
+290905,60,SavedShot,0.7290000152587891,0.33599998474121096,0.01695508509874344,Denis Bouanga,a,3781,OpenPlay,2018,RightFoot,10936,Saint-Etienne,Nimes,2,1,2019-04-01 19:30:00,Gaetan Paquiez,Pass
+290906,61,BlockedShot,0.9259999847412109,0.425,0.07308024913072586,Renaud Ripart,a,6864,FromCorner,2018,Head,10936,Saint-Etienne,Nimes,2,1,2019-04-01 19:30:00,Téji Savanier,Cross
+290907,62,SavedShot,0.9640000152587891,0.635,0.1447458565235138,Renaud Ripart,a,6864,OpenPlay,2018,LeftFoot,10936,Saint-Etienne,Nimes,2,1,2019-04-01 19:30:00,Téji Savanier,Throughball
+290908,63,ShotOnPost,0.9590000152587891,0.515,0.5145781636238098,Umut Bozok,a,6865,FromCorner,2018,Head,10936,Saint-Etienne,Nimes,2,1,2019-04-01 19:30:00,Téji Savanier,Cross
+290909,70,BlockedShot,0.9519999694824218,0.445,0.06835321336984634,Renaud Ripart,a,6864,FromCorner,2018,Head,10936,Saint-Etienne,Nimes,2,1,2019-04-01 19:30:00,Téji Savanier,Aerial
+290911,75,MissedShots,0.8059999847412109,0.6329999923706054,0.03353425860404968,Renaud Ripart,a,6864,OpenPlay,2018,RightFoot,10936,Saint-Etienne,Nimes,2,1,2019-04-01 19:30:00,Téji Savanier,Chipped
+290913,89,SavedShot,0.92,0.6930000305175781,0.05330808460712433,Denis Bouanga,a,3781,OpenPlay,2018,LeftFoot,10936,Saint-Etienne,Nimes,2,1,2019-04-01 19:30:00,Florian Miguel,Pass

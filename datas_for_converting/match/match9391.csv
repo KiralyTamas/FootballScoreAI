@@ -1,0 +1,24 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+263681,5,BlockedShot,0.879000015258789,0.7169999694824218,0.037845954298973083,Roberto Firmino,h,482,OpenPlay,2018,LeftFoot,9391,Liverpool,Arsenal,5,1,2018-12-29 17:30:00,,None
+263682,5,MissedShots,0.955999984741211,0.5790000152587891,0.13956382870674133,Mohamed Salah,h,1250,OpenPlay,2018,LeftFoot,9391,Liverpool,Arsenal,5,1,2018-12-29 17:30:00,Roberto Firmino,Rebound
+263685,13,Goal,0.9790000152587891,0.5179999923706055,0.6241657137870789,Roberto Firmino,h,482,OpenPlay,2018,RightFoot,9391,Liverpool,Arsenal,5,1,2018-12-29 17:30:00,,Dispossessed
+263686,15,Goal,0.86,0.48200000762939454,0.3569256067276001,Roberto Firmino,h,482,OpenPlay,2018,LeftFoot,9391,Liverpool,Arsenal,5,1,2018-12-29 17:30:00,,TakeOn
+263687,22,SavedShot,0.915,0.745,0.040526676923036575,Sadio Mané,h,838,OpenPlay,2018,RightFoot,9391,Liverpool,Arsenal,5,1,2018-12-29 17:30:00,,TakeOn
+263688,31,Goal,0.93,0.4540000152587891,0.5515932440757751,Sadio Mané,h,838,OpenPlay,2018,RightFoot,9391,Liverpool,Arsenal,5,1,2018-12-29 17:30:00,Mohamed Salah,Pass
+263691,46,Goal,0.885,0.5,0.7611688375473022,Mohamed Salah,h,1250,Penalty,2018,LeftFoot,9391,Liverpool,Arsenal,5,1,2018-12-29 17:30:00,,Standard
+263694,55,SavedShot,0.784000015258789,0.34599998474121096,0.03677348792552948,Roberto Firmino,h,482,OpenPlay,2018,RightFoot,9391,Liverpool,Arsenal,5,1,2018-12-29 17:30:00,Xherdan Shaqiri,Pass
+263695,59,BlockedShot,0.7780000305175782,0.33599998474121096,0.035975098609924316,Trent Alexander-Arnold,h,1791,OpenPlay,2018,RightFoot,9391,Liverpool,Arsenal,5,1,2018-12-29 17:30:00,Roberto Firmino,Pass
+263696,62,SavedShot,0.8730000305175781,0.33599998474121096,0.1386093944311142,Fabinho,h,3420,OpenPlay,2018,RightFoot,9391,Liverpool,Arsenal,5,1,2018-12-29 17:30:00,Mohamed Salah,Throughball
+263697,64,Goal,0.885,0.5,0.7611688375473022,Roberto Firmino,h,482,Penalty,2018,RightFoot,9391,Liverpool,Arsenal,5,1,2018-12-29 17:30:00,,Standard
+263699,73,SavedShot,0.7559999847412109,0.36400001525878906,0.02290933020412922,Xherdan Shaqiri,h,888,OpenPlay,2018,LeftFoot,9391,Liverpool,Arsenal,5,1,2018-12-29 17:30:00,Georginio Wijnaldum,Pass
+263701,84,MissedShots,0.705999984741211,0.575,0.015303411521017551,Jordan Henderson,h,605,OpenPlay,2018,RightFoot,9391,Liverpool,Arsenal,5,1,2018-12-29 17:30:00,,BallRecovery
+263702,88,MissedShots,0.794000015258789,0.4179999923706055,0.05043337121605873,Jordan Henderson,h,605,OpenPlay,2018,RightFoot,9391,Liverpool,Arsenal,5,1,2018-12-29 17:30:00,Trent Alexander-Arnold,Pass
+263703,90,SavedShot,0.955999984741211,0.3129999923706055,0.13762035965919495,Mohamed Salah,h,1250,OpenPlay,2018,LeftFoot,9391,Liverpool,Arsenal,5,1,2018-12-29 17:30:00,Adam Lallana,Chipped
+263683,9,SavedShot,0.8830000305175781,0.6819999694824219,0.05549623444676399,Alex Iwobi,a,500,OpenPlay,2018,LeftFoot,9391,Liverpool,Arsenal,5,1,2018-12-29 17:30:00,,BallRecovery
+263684,10,Goal,0.9669999694824218,0.46799999237060547,0.7872210144996643,Ainsley Maitland-Niles,a,1750,OpenPlay,2018,RightFoot,9391,Liverpool,Arsenal,5,1,2018-12-29 17:30:00,Alex Iwobi,Pass
+263689,41,MissedShots,0.765,0.48200000762939454,0.027424920350313187,Ainsley Maitland-Niles,a,1750,OpenPlay,2018,RightFoot,9391,Liverpool,Arsenal,5,1,2018-12-29 17:30:00,Pierre-Emerick Aubameyang,Pass
+263690,42,MissedShots,0.8640000152587891,0.3509999847412109,0.031945087015628815,Aaron Ramsey,a,504,OpenPlay,2018,RightFoot,9391,Liverpool,Arsenal,5,1,2018-12-29 17:30:00,Ainsley Maitland-Niles,Cross
+263692,53,BlockedShot,0.8959999847412109,0.6079999923706054,0.09179167449474335,Aaron Ramsey,a,504,OpenPlay,2018,LeftFoot,9391,Liverpool,Arsenal,5,1,2018-12-29 17:30:00,Granit Xhaka,Pass
+263693,54,MissedShots,0.885,0.39099998474121095,0.01941094733774662,Pierre-Emerick Aubameyang,a,318,OpenPlay,2018,Head,9391,Liverpool,Arsenal,5,1,2018-12-29 17:30:00,Stephan Lichtsteiner,Aerial
+263698,70,BlockedShot,0.769000015258789,0.500999984741211,0.032648805528879166,Aaron Ramsey,a,504,OpenPlay,2018,RightFoot,9391,Liverpool,Arsenal,5,1,2018-12-29 17:30:00,Alex Iwobi,Pass
+263700,79,BlockedShot,0.8019999694824219,0.580999984741211,0.03592345491051674,Alexandre Lacazette,a,3277,OpenPlay,2018,RightFoot,9391,Liverpool,Arsenal,5,1,2018-12-29 17:30:00,Sokratis,Chipped

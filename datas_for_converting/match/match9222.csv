@@ -1,0 +1,32 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+233199,5,BlockedShot,0.7390000152587891,0.44299999237060544,0.018817933276295662,Henrikh Mkhitaryan,h,317,OpenPlay,2018,LeftFoot,9222,Arsenal,West Ham,3,1,2018-08-25 17:00:00,Pierre-Emerick Aubameyang,Pass
+233200,10,SavedShot,0.8580000305175781,0.4470000076293945,0.07253003865480423,Henrikh Mkhitaryan,h,317,OpenPlay,2018,RightFoot,9222,Arsenal,West Ham,3,1,2018-08-25 17:00:00,,None
+233204,28,BlockedShot,0.9030000305175782,0.40200000762939453,0.10851733386516571,Aaron Ramsey,h,504,OpenPlay,2018,RightFoot,9222,Arsenal,West Ham,3,1,2018-08-25 17:00:00,Pierre-Emerick Aubameyang,Throughball
+233205,29,Goal,0.9519999694824218,0.555,0.533719539642334,Nacho Monreal,h,495,OpenPlay,2018,LeftFoot,9222,Arsenal,West Ham,3,1,2018-08-25 17:00:00,Alex Iwobi,None
+233208,35,MissedShots,0.9169999694824219,0.3160000038146973,0.009922428987920284,Shkodran Mustafi,h,1699,FromCorner,2018,Head,9222,Arsenal,West Ham,3,1,2018-08-25 17:00:00,Granit Xhaka,Aerial
+233210,39,MissedShots,0.7330000305175781,0.445,0.019927890971302986,Pierre-Emerick Aubameyang,h,318,OpenPlay,2018,RightFoot,9222,Arsenal,West Ham,3,1,2018-08-25 17:00:00,Matteo Guendouzi,Pass
+233211,42,BlockedShot,0.8080000305175781,0.33099998474121095,0.084619902074337,Henrikh Mkhitaryan,h,317,DirectFreekick,2018,RightFoot,9222,Arsenal,West Ham,3,1,2018-08-25 17:00:00,,Standard
+233214,47,SavedShot,0.914000015258789,0.46,0.08635297417640686,Shkodran Mustafi,h,1699,FromCorner,2018,Head,9222,Arsenal,West Ham,3,1,2018-08-25 17:00:00,Pierre-Emerick Aubameyang,Cross
+233215,48,BlockedShot,0.7659999847412109,0.32599998474121095,0.018059084191918373,Matteo Guendouzi,h,5759,OpenPlay,2018,RightFoot,9222,Arsenal,West Ham,3,1,2018-08-25 17:00:00,Alexandre Lacazette,Pass
+233217,52,SavedShot,0.7680000305175781,0.5259999847412109,0.028718486428260803,Alexandre Lacazette,h,3277,OpenPlay,2018,RightFoot,9222,Arsenal,West Ham,3,1,2018-08-25 17:00:00,Pierre-Emerick Aubameyang,Pass
+233218,52,SavedShot,0.6869999694824219,0.41,0.012987930327653885,Granit Xhaka,h,204,OpenPlay,2018,LeftFoot,9222,Arsenal,West Ham,3,1,2018-08-25 17:00:00,Matteo Guendouzi,Pass
+233220,56,SavedShot,0.8669999694824219,0.36,0.07016434520483017,Alexandre Lacazette,h,3277,OpenPlay,2018,LeftFoot,9222,Arsenal,West Ham,3,1,2018-08-25 17:00:00,Lucas Torreira,Pass
+233223,71,BlockedShot,0.9030000305175782,0.5790000152587891,0.12916572391986847,Pierre-Emerick Aubameyang,h,318,OpenPlay,2018,LeftFoot,9222,Arsenal,West Ham,3,1,2018-08-25 17:00:00,Aaron Ramsey,Pass
+233224,72,SavedShot,0.7759999847412109,0.48900001525878906,0.04165074601769447,Pierre-Emerick Aubameyang,h,318,OpenPlay,2018,RightFoot,9222,Arsenal,West Ham,3,1,2018-08-25 17:00:00,Alexandre Lacazette,Pass
+233225,76,SavedShot,0.93,0.5029999923706054,0.0940859392285347,Danny Welbeck,h,501,OpenPlay,2018,Head,9222,Arsenal,West Ham,3,1,2018-08-25 17:00:00,Aaron Ramsey,Aerial
+233226,82,SavedShot,0.7480000305175781,0.524000015258789,0.016812600195407867,Aaron Ramsey,h,504,FromCorner,2018,RightFoot,9222,Arsenal,West Ham,3,1,2018-08-25 17:00:00,,None
+233228,91,Goal,0.9269999694824219,0.51,0.4391498267650604,Danny Welbeck,h,501,OpenPlay,2018,LeftFoot,9222,Arsenal,West Ham,3,1,2018-08-25 17:00:00,Héctor Bellerín,Cross
+233201,11,MissedShots,0.915,0.31,0.11987964808940887,Marko Arnautovic,a,865,OpenPlay,2018,RightFoot,9222,Arsenal,West Ham,3,1,2018-08-25 17:00:00,Robert Snodgrass,Throughball
+233202,13,MissedShots,0.7909999847412109,0.39099998474121095,0.034872882068157196,Marko Arnautovic,a,865,OpenPlay,2018,RightFoot,9222,Arsenal,West Ham,3,1,2018-08-25 17:00:00,,BallTouch
+233203,24,Goal,0.8019999694824219,0.5379999923706055,0.047973133623600006,Marko Arnautovic,a,865,OpenPlay,2018,RightFoot,9222,Arsenal,West Ham,3,1,2018-08-25 17:00:00,Felipe Anderson,Pass
+233206,31,SavedShot,0.795,0.639000015258789,0.11331074684858322,Michail Antonio,a,531,OpenPlay,2018,RightFoot,9222,Arsenal,West Ham,3,1,2018-08-25 17:00:00,Felipe Anderson,Throughball
+233207,32,BlockedShot,0.88,0.6140000152587891,0.09521973878145218,Felipe Anderson,a,1208,OpenPlay,2018,RightFoot,9222,Arsenal,West Ham,3,1,2018-08-25 17:00:00,Michail Antonio,Pass
+233209,38,MissedShots,0.784000015258789,0.7480000305175781,0.020781654864549637,Michail Antonio,a,531,OpenPlay,2018,RightFoot,9222,Arsenal,West Ham,3,1,2018-08-25 17:00:00,Arthur Masuaku,Pass
+233212,45,BlockedShot,0.8190000152587891,0.3509999847412109,0.034997425973415375,Robert Snodgrass,a,1691,OpenPlay,2018,LeftFoot,9222,Arsenal,West Ham,3,1,2018-08-25 17:00:00,Marko Arnautovic,Pass
+233213,46,SavedShot,0.915,0.4209999847412109,0.4195081889629364,Robert Snodgrass,a,1691,OpenPlay,2018,LeftFoot,9222,Arsenal,West Ham,3,1,2018-08-25 17:00:00,Michail Antonio,Throughball
+233216,49,MissedShots,0.9340000152587891,0.3270000076293945,0.0210308488458395,Marko Arnautovic,a,865,SetPiece,2018,RightFoot,9222,Arsenal,West Ham,3,1,2018-08-25 17:00:00,Robert Snodgrass,Cross
+233219,53,SavedShot,0.875999984741211,0.53,0.1166527271270752,Marko Arnautovic,a,865,OpenPlay,2018,LeftFoot,9222,Arsenal,West Ham,3,1,2018-08-25 17:00:00,Felipe Anderson,Pass
+233221,67,SavedShot,0.7859999847412109,0.664000015258789,0.01203099638223648,Felipe Anderson,a,1208,FromCorner,2018,RightFoot,9222,Arsenal,West Ham,3,1,2018-08-25 17:00:00,Carlos Sánchez,Chipped
+233222,69,OwnGoal,0.07400000095367432,0.48,0,Issa Diop,a,3203,OpenPlay,2018,OtherBodyPart,9222,Arsenal,West Ham,3,1,2018-08-25 17:00:00,,None
+233227,89,MissedShots,0.9230000305175782,0.49700000762939456,0.11859093606472015,Chicharito,a,191,OpenPlay,2018,Head,9222,Arsenal,West Ham,3,1,2018-08-25 17:00:00,Ryan Fredericks,Cross
+233229,94,BlockedShot,0.795,0.3820000076293945,0.024389753118157387,Carlos Sánchez,a,667,OpenPlay,2018,RightFoot,9222,Arsenal,West Ham,3,1,2018-08-25 17:00:00,,None

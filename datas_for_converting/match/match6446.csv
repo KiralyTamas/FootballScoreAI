@@ -1,0 +1,22 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+9300,37,BlockedShot,0.8980000305175782,0.6930000305175781,0.043600838631391525,Dmitriy Poloz,h,2775,OpenPlay,2014,RightFoot,6446,FC Rostov,FC Krasnodar,0,2,2014-08-17 18:00:00,,None
+9301,37,SavedShot,0.885,0.5,0.7542753219604492,Vitali Djakov,h,2757,Penalty,2014,RightFoot,6446,FC Rostov,FC Krasnodar,0,2,2014-08-17 18:00:00,,Standard
+9302,38,MissedShots,0.9219999694824219,0.44299999237060544,0.08155839145183563,Dmitriy Poloz,h,2775,OpenPlay,2014,Head,6446,FC Rostov,FC Krasnodar,0,2,2014-08-17 18:00:00,Moussa Doumbia,Cross
+9303,41,SavedShot,0.885,0.5,0.7542753219604492,Hrvoje Milic,h,1429,Penalty,2014,LeftFoot,6446,FC Rostov,FC Krasnodar,0,2,2014-08-17 18:00:00,,Standard
+9304,45,BlockedShot,0.960999984741211,0.57,0.11227112263441086,Dmitriy Poloz,h,2775,OpenPlay,2014,RightFoot,6446,FC Rostov,FC Krasnodar,0,2,2014-08-17 18:00:00,Moussa Doumbia,Cross
+9308,51,SavedShot,0.9340000152587891,0.435,0.1208755224943161,Dmitri Torbinski,h,2933,FromCorner,2014,LeftFoot,6446,FC Rostov,FC Krasnodar,0,2,2014-08-17 18:00:00,Vitali Djakov,HeadPass
+9311,68,SavedShot,0.8959999847412109,0.44599998474121094,0.02412334643304348,Bastos,h,1595,SetPiece,2014,Head,6446,FC Rostov,FC Krasnodar,0,2,2014-08-17 18:00:00,Dmitri Torbinski,Aerial
+9312,71,MissedShots,0.8819999694824219,0.46,0.08312881737947464,Aleksandru Gatcan,h,3024,FromCorner,2014,RightFoot,6446,FC Rostov,FC Krasnodar,0,2,2014-08-17 18:00:00,,None
+9295,0,SavedShot,0.765,0.4490000152587891,0.02552945539355278,Ricardo Laborde,a,2927,OpenPlay,2014,LeftFoot,6446,FC Rostov,FC Krasnodar,0,2,2014-08-17 18:00:00,,Tackle
+9296,4,MissedShots,0.6990000152587891,0.5259999847412109,0.012919419445097446,Sergei Petrov,a,2920,OpenPlay,2014,RightFoot,6446,FC Rostov,FC Krasnodar,0,2,2014-08-17 18:00:00,Yuri Gazinskiy,Pass
+9297,20,Goal,0.7190000152587891,0.6830000305175781,0.0095727713778615,Joãozinho,a,2928,OpenPlay,2014,LeftFoot,6446,FC Rostov,FC Krasnodar,0,2,2014-08-17 18:00:00,,None
+9298,26,BlockedShot,0.9819999694824219,0.675,0.038681358098983765,Yuri Gazinskiy,a,2929,FromCorner,2014,RightFoot,6446,FC Rostov,FC Krasnodar,0,2,2014-08-17 18:00:00,,None
+9299,27,MissedShots,0.775,0.65,0.03134765103459358,Odil Ahmedov,a,2923,OpenPlay,2014,RightFoot,6446,FC Rostov,FC Krasnodar,0,2,2014-08-17 18:00:00,,None
+9305,46,MissedShots,0.965,0.33,0.14336979389190674,Odil Ahmedov,a,2923,OpenPlay,2014,RightFoot,6446,FC Rostov,FC Krasnodar,0,2,2014-08-17 18:00:00,Ari,TakeOn
+9306,49,SavedShot,0.8919999694824219,0.534000015258789,0.292143315076828,Vladimir Bystrov,a,2934,OpenPlay,2014,RightFoot,6446,FC Rostov,FC Krasnodar,0,2,2014-08-17 18:00:00,Marat Izmailov,TakeOn
+9307,49,SavedShot,0.960999984741211,0.4179999923706055,0.12830966711044312,Ari,a,2930,OpenPlay,2014,Head,6446,FC Rostov,FC Krasnodar,0,2,2014-08-17 18:00:00,Ragnar Sigurdsson,Cross
+9309,57,Goal,0.8719999694824219,0.5029999923706054,0.12248844653367996,Odil Ahmedov,a,2923,OpenPlay,2014,RightFoot,6446,FC Rostov,FC Krasnodar,0,2,2014-08-17 18:00:00,Vladimir Bystrov,Pass
+9310,62,BlockedShot,0.749000015258789,0.585999984741211,0.043029386550188065,Wanderson,a,2926,OpenPlay,2014,RightFoot,6446,FC Rostov,FC Krasnodar,0,2,2014-08-17 18:00:00,Odil Ahmedov,TakeOn
+9313,76,MissedShots,0.8209999847412109,0.2620000076293945,0.032780762761831284,Vladimir Bystrov,a,2934,OpenPlay,2014,RightFoot,6446,FC Rostov,FC Krasnodar,0,2,2014-08-17 18:00:00,Joãozinho,Pass
+9314,90,BlockedShot,0.8830000305175781,0.645,0.0851638913154602,Wanderson,a,2926,OpenPlay,2014,RightFoot,6446,FC Rostov,FC Krasnodar,0,2,2014-08-17 18:00:00,Joãozinho,TakeOn
+9315,93,SavedShot,0.9640000152587891,0.6509999847412109,0.09421402961015701,Vladimir Bystrov,a,2934,OpenPlay,2014,LeftFoot,6446,FC Rostov,FC Krasnodar,0,2,2014-08-17 18:00:00,Odil Ahmedov,Pass

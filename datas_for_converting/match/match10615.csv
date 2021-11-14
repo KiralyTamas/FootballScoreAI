@@ -1,0 +1,27 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+298295,34,MissedShots,0.8619999694824219,0.6780000305175782,0.05512726679444313,Matheus Pereira,h,7153,OpenPlay,2018,LeftFoot,10615,Nuernberg,Bayern Munich,1,1,2019-04-28 17:00:00,Eduard Löwen,Pass
+298296,34,SavedShot,0.9269999694824219,0.5120000076293946,0.5653740763664246,Eduard Löwen,h,7043,OpenPlay,2018,RightFoot,10615,Nuernberg,Bayern Munich,1,1,2019-04-28 17:00:00,,None
+298297,35,BlockedShot,0.7619999694824219,0.385,0.017512939870357513,Robert Bauer,h,237,FromCorner,2018,RightFoot,10615,Nuernberg,Bayern Munich,1,1,2019-04-28 17:00:00,,None
+298300,39,SavedShot,0.915,0.2670000076293945,0.038731105625629425,Mikael Ishak,h,7038,OpenPlay,2018,RightFoot,10615,Nuernberg,Bayern Munich,1,1,2019-04-28 17:00:00,Eduard Löwen,Pass
+298301,42,MissedShots,0.7980000305175782,0.5940000152587891,0.02676071785390377,Tim Leibold,h,7033,FromCorner,2018,LeftFoot,10615,Nuernberg,Bayern Munich,1,1,2019-04-28 17:00:00,,None
+298303,47,SavedShot,0.875999984741211,0.4909999847412109,0.31052470207214355,Eduard Löwen,h,7043,OpenPlay,2018,RightFoot,10615,Nuernberg,Bayern Munich,1,1,2019-04-28 17:00:00,Sebastian Kerk,Cross
+298304,47,Goal,0.805,0.43,0.04385663568973541,Matheus Pereira,h,7153,OpenPlay,2018,LeftFoot,10615,Nuernberg,Bayern Munich,1,1,2019-04-28 17:00:00,,None
+298305,51,MissedShots,0.915,0.41,0.03860551863908768,Ewerton,h,7213,OpenPlay,2018,Head,10615,Nuernberg,Bayern Munich,1,1,2019-04-28 17:00:00,Sebastian Kerk,Aerial
+298312,79,BlockedShot,0.725999984741211,0.4879999923706055,0.05289085581898689,Sebastian Kerk,h,4346,DirectFreekick,2018,LeftFoot,10615,Nuernberg,Bayern Munich,1,1,2019-04-28 17:00:00,,Standard
+298314,90,ShotOnPost,0.885,0.5,0.75777667760849,Tim Leibold,h,7033,Penalty,2018,LeftFoot,10615,Nuernberg,Bayern Munich,1,1,2019-04-28 17:00:00,,Standard
+298290,18,MissedShots,0.9159999847412109,0.5379999923706055,0.12053004652261734,Thomas Müller,a,224,OpenPlay,2018,Head,10615,Nuernberg,Bayern Munich,1,1,2019-04-28 17:00:00,Thiago Alcántara,Cross
+298291,22,SavedShot,0.7390000152587891,0.395,0.05453844740986824,David Alaba,a,391,DirectFreekick,2018,LeftFoot,10615,Nuernberg,Bayern Munich,1,1,2019-04-28 17:00:00,,Standard
+298292,22,MissedShots,0.9540000152587891,0.45799999237060546,0.14014345407485962,Thomas Müller,a,224,SetPiece,2018,RightFoot,10615,Nuernberg,Bayern Munich,1,1,2019-04-28 17:00:00,,Rebound
+298293,24,MissedShots,0.8569999694824219,0.27399999618530274,0.031305212527513504,Thomas Müller,a,224,OpenPlay,2018,RightFoot,10615,Nuernberg,Bayern Munich,1,1,2019-04-28 17:00:00,,None
+298294,31,SavedShot,0.865999984741211,0.4179999923706055,0.09539695084095001,Robert Lewandowski,a,227,OpenPlay,2018,RightFoot,10615,Nuernberg,Bayern Munich,1,1,2019-04-28 17:00:00,Thomas Müller,Pass
+298298,35,BlockedShot,0.750999984741211,0.41200000762939454,0.01709110289812088,Joshua Kimmich,a,223,OpenPlay,2018,LeftFoot,10615,Nuernberg,Bayern Munich,1,1,2019-04-28 17:00:00,,None
+298299,36,MissedShots,0.7530000305175781,0.41900001525878905,0.01834610104560852,Javi Martínez,a,225,OpenPlay,2018,RightFoot,10615,Nuernberg,Bayern Munich,1,1,2019-04-28 17:00:00,,None
+298302,44,MissedShots,0.7390000152587891,0.615,0.053368039429187775,Robert Lewandowski,a,227,DirectFreekick,2018,RightFoot,10615,Nuernberg,Bayern Munich,1,1,2019-04-28 17:00:00,,Standard
+298306,59,SavedShot,0.9309999847412109,0.36900001525878906,0.28855982422828674,Leon Goretzka,a,335,OpenPlay,2018,RightFoot,10615,Nuernberg,Bayern Munich,1,1,2019-04-28 17:00:00,James Rodríguez,Pass
+298307,68,SavedShot,0.8030000305175782,0.37400001525878906,0.10356233268976212,James Rodríguez,a,2249,DirectFreekick,2018,LeftFoot,10615,Nuernberg,Bayern Munich,1,1,2019-04-28 17:00:00,,Standard
+298308,69,MissedShots,0.8159999847412109,0.45799999237060546,0.051869072020053864,Niklas Süle,a,75,FromCorner,2018,LeftFoot,10615,Nuernberg,Bayern Munich,1,1,2019-04-28 17:00:00,,TakeOn
+298309,70,MissedShots,0.8180000305175781,0.3820000076293945,0.03136766329407692,Joshua Kimmich,a,223,FromCorner,2018,RightFoot,10615,Nuernberg,Bayern Munich,1,1,2019-04-28 17:00:00,,None
+298310,70,MissedShots,0.92,0.5279999923706055,0.13493023812770844,Leon Goretzka,a,335,FromCorner,2018,LeftFoot,10615,Nuernberg,Bayern Munich,1,1,2019-04-28 17:00:00,Joshua Kimmich,Rebound
+298311,74,Goal,0.9669999694824218,0.5609999847412109,0.09426067769527435,Serge Gnabry,a,993,OpenPlay,2018,LeftFoot,10615,Nuernberg,Bayern Munich,1,1,2019-04-28 17:00:00,,None
+298313,86,MissedShots,0.9230000305175782,0.625999984741211,0.015973614528775215,Robert Lewandowski,a,227,SetPiece,2018,Head,10615,Nuernberg,Bayern Munich,1,1,2019-04-28 17:00:00,,Aerial
+298315,94,SavedShot,0.8619999694824219,0.5179999923706055,0.4485108256340027,Kingsley Coman,a,226,OpenPlay,2018,RightFoot,10615,Nuernberg,Bayern Munich,1,1,2019-04-28 17:00:00,Serge Gnabry,BallRecovery

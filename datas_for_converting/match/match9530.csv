@@ -1,0 +1,33 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+293718,4,BlockedShot,0.7919999694824219,0.5629999923706055,0.01656164601445198,Fred,h,6817,FromCorner,2018,LeftFoot,9530,Manchester United,West Ham,2,1,2019-04-13 17:30:00,,Aerial
+293719,4,BlockedShot,0.6469999694824219,0.555,0.010284984484314919,Marcos Rojo,h,550,FromCorner,2018,LeftFoot,9530,Manchester United,West Ham,2,1,2019-04-13 17:30:00,,Rebound
+293720,18,Goal,0.885,0.5,0.7611688375473022,Paul Pogba,h,1740,Penalty,2018,RightFoot,9530,Manchester United,West Ham,2,1,2019-04-13 17:30:00,,Standard
+293724,26,BlockedShot,0.850999984741211,0.56,0.13083012402057648,Paul Pogba,h,1740,OpenPlay,2018,RightFoot,9530,Manchester United,West Ham,2,1,2019-04-13 17:30:00,Romelu Lukaku,Pass
+293725,26,BlockedShot,0.8809999847412109,0.56,0.15750698745250702,Paul Pogba,h,1740,OpenPlay,2018,RightFoot,9530,Manchester United,West Ham,2,1,2019-04-13 17:30:00,,Rebound
+293726,27,MissedShots,0.8640000152587891,0.34599998474121096,0.04553598165512085,Diogo Dalot,h,7281,OpenPlay,2018,LeftFoot,9530,Manchester United,West Ham,2,1,2019-04-13 17:30:00,Romelu Lukaku,Chipped
+293728,35,MissedShots,0.985,0.64,0.0710068941116333,Anthony Martial,h,553,OpenPlay,2018,RightFoot,9530,Manchester United,West Ham,2,1,2019-04-13 17:30:00,Juan Mata,Chipped
+293729,37,MissedShots,0.745999984741211,0.6880000305175781,0.020557567477226257,Fred,h,6817,OpenPlay,2018,LeftFoot,9530,Manchester United,West Ham,2,1,2019-04-13 17:30:00,Paul Pogba,Pass
+293730,39,BlockedShot,0.8080000305175781,0.62,0.048429861664772034,Romelu Lukaku,h,594,OpenPlay,2018,LeftFoot,9530,Manchester United,West Ham,2,1,2019-04-13 17:30:00,Anthony Martial,Pass
+293731,40,MissedShots,0.899000015258789,0.49599998474121093,0.0622982420027256,Chris Smalling,h,628,FromCorner,2018,Head,9530,Manchester United,West Ham,2,1,2019-04-13 17:30:00,Juan Mata,Cross
+293737,57,SavedShot,0.9169999694824219,0.325,0.06592058390378952,Marcus Rashford,h,556,OpenPlay,2018,RightFoot,9530,Manchester United,West Ham,2,1,2019-04-13 17:30:00,Chris Smalling,Pass
+293738,62,MissedShots,0.9669999694824218,0.5259999847412109,0.5035697817802429,Marcus Rashford,h,556,FromCorner,2018,Head,9530,Manchester United,West Ham,2,1,2019-04-13 17:30:00,Phil Jones,HeadPass
+293739,66,SavedShot,0.740999984741211,0.5270000076293946,0.017191311344504356,Marcos Rojo,h,550,OpenPlay,2018,LeftFoot,9530,Manchester United,West Ham,2,1,2019-04-13 17:30:00,,None
+293746,79,Goal,0.885,0.5,0.7611688375473022,Paul Pogba,h,1740,Penalty,2018,RightFoot,9530,Manchester United,West Ham,2,1,2019-04-13 17:30:00,,Standard
+293717,1,MissedShots,0.7769999694824219,0.7180000305175781,0.016699863597750664,Arthur Masuaku,a,1760,OpenPlay,2018,LeftFoot,9530,Manchester United,West Ham,2,1,2019-04-13 17:30:00,,BallRecovery
+293721,22,BlockedShot,0.7469999694824219,0.5159999847412109,0.062599316239357,Manuel Lanzini,a,535,DirectFreekick,2018,RightFoot,9530,Manchester United,West Ham,2,1,2019-04-13 17:30:00,,Standard
+293722,23,MissedShots,0.925,0.5420000076293945,0.044097598642110825,Fabián Balbuena,a,6892,FromCorner,2018,Head,9530,Manchester United,West Ham,2,1,2019-04-13 17:30:00,Robert Snodgrass,CornerAwarded
+293723,24,MissedShots,0.9490000152587891,0.6170000076293946,0.03071688301861286,Felipe Anderson,a,1208,FromCorner,2018,Head,9530,Manchester United,West Ham,2,1,2019-04-13 17:30:00,Robert Snodgrass,Cross
+293727,33,BlockedShot,0.7480000305175781,0.4229999923706055,0.016153810545802116,Pablo Zabaleta,a,610,FromCorner,2018,LeftFoot,9530,Manchester United,West Ham,2,1,2019-04-13 17:30:00,,None
+293732,41,BlockedShot,0.8880000305175781,0.475,0.02251821756362915,Fabián Balbuena,a,6892,SetPiece,2018,Head,9530,Manchester United,West Ham,2,1,2019-04-13 17:30:00,Felipe Anderson,Aerial
+293733,42,MissedShots,0.8719999694824219,0.6790000152587891,0.04604180529713631,Felipe Anderson,a,1208,FromCorner,2018,LeftFoot,9530,Manchester United,West Ham,2,1,2019-04-13 17:30:00,Angelo Ogbonna,Pass
+293734,48,Goal,0.9730000305175781,0.43099998474121093,0.5042802095413208,Felipe Anderson,a,1208,OpenPlay,2018,RightFoot,9530,Manchester United,West Ham,2,1,2019-04-13 17:30:00,Manuel Lanzini,Cross
+293735,50,BlockedShot,0.7969999694824219,0.6569999694824219,0.029559295624494553,Robert Snodgrass,a,1691,OpenPlay,2018,LeftFoot,9530,Manchester United,West Ham,2,1,2019-04-13 17:30:00,Chicharito,BallTouch
+293736,53,SavedShot,0.774000015258789,0.505,0.015456774272024632,Pablo Zabaleta,a,610,FromCorner,2018,LeftFoot,9530,Manchester United,West Ham,2,1,2019-04-13 17:30:00,,Aerial
+293740,69,BlockedShot,0.7669999694824219,0.44,0.026327691972255707,Declan Rice,a,5553,OpenPlay,2018,RightFoot,9530,Manchester United,West Ham,2,1,2019-04-13 17:30:00,Mark Noble,Pass
+293741,69,BlockedShot,0.8009999847412109,0.7019999694824218,0.020428279414772987,Mark Noble,a,533,OpenPlay,2018,RightFoot,9530,Manchester United,West Ham,2,1,2019-04-13 17:30:00,Robert Snodgrass,Pass
+293742,70,MissedShots,0.955999984741211,0.36700000762939455,0.012561582960188389,Felipe Anderson,a,1208,FromCorner,2018,Head,9530,Manchester United,West Ham,2,1,2019-04-13 17:30:00,Robert Snodgrass,Aerial
+293743,75,ShotOnPost,0.8330000305175781,0.40099998474121096,0.058872755616903305,Michail Antonio,a,531,OpenPlay,2018,LeftFoot,9530,Manchester United,West Ham,2,1,2019-04-13 17:30:00,Mark Noble,BallRecovery
+293744,75,SavedShot,0.86,0.6719999694824219,0.03694813698530197,Felipe Anderson,a,1208,OpenPlay,2018,RightFoot,9530,Manchester United,West Ham,2,1,2019-04-13 17:30:00,,Rebound
+293745,77,SavedShot,0.93,0.5279999923706055,0.40718844532966614,Michail Antonio,a,531,OpenPlay,2018,Head,9530,Manchester United,West Ham,2,1,2019-04-13 17:30:00,Grady Diangana,Cross
+293747,82,BlockedShot,0.9390000152587891,0.655,0.012855732813477516,Felipe Anderson,a,1208,FromCorner,2018,Head,9530,Manchester United,West Ham,2,1,2019-04-13 17:30:00,Robert Snodgrass,Cross
+293748,83,BlockedShot,0.8780000305175781,0.590999984741211,0.06704171001911163,Grady Diangana,a,6651,OpenPlay,2018,LeftFoot,9530,Manchester United,West Ham,2,1,2019-04-13 17:30:00,Michail Antonio,BallTouch

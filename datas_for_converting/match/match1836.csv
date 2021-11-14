@@ -1,0 +1,24 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+136477,4,Goal,0.9669999694824218,0.4929999923706055,0.72294682264328,Alexandre Pato,h,691,OpenPlay,2016,Head,1836,Villarreal,Osasuna,3,1,2016-09-25 20:30:00,Samu Castillejo,Pass
+136478,7,BlockedShot,0.8130000305175781,0.4329999923706055,0.06242148205637932,Samu Castillejo,h,2303,OpenPlay,2016,LeftFoot,1836,Villarreal,Osasuna,3,1,2016-09-25 20:30:00,Roberto Soriano,Pass
+136482,23,Goal,0.885,0.5,0.7432776093482971,Bruno,h,2302,Penalty,2016,LeftFoot,1836,Villarreal,Osasuna,3,1,2016-09-25 20:30:00,,Standard
+136483,29,MissedShots,0.9880000305175781,0.40299999237060546,0.10639207810163498,Roberto Soriano,h,1810,OpenPlay,2016,RightFoot,1836,Villarreal,Osasuna,3,1,2016-09-25 20:30:00,,BlockedPass
+136484,38,Goal,0.8859999847412109,0.4620000076293945,0.5230060815811157,Nicola Sansone,h,1826,OpenPlay,2016,RightFoot,1836,Villarreal,Osasuna,3,1,2016-09-25 20:30:00,Samu Castillejo,Throughball
+136487,48,SavedShot,0.850999984741211,0.46599998474121096,0.09713277965784073,Alexandre Pato,h,691,OpenPlay,2016,RightFoot,1836,Villarreal,Osasuna,3,1,2016-09-25 20:30:00,Mario,Pass
+136488,52,MissedShots,0.9519999694824218,0.44099998474121094,0.12640520930290222,Mario,h,2296,FromCorner,2016,Head,1836,Villarreal,Osasuna,3,1,2016-09-25 20:30:00,Samu Castillejo,Cross
+136489,58,MissedShots,0.8330000305175781,0.6020000076293945,0.10943560302257538,Manu Trigueros,h,2301,OpenPlay,2016,RightFoot,1836,Villarreal,Osasuna,3,1,2016-09-25 20:30:00,Bruno,TakeOn
+136493,65,MissedShots,0.9119999694824219,0.40299999237060546,0.3155951201915741,Manu Trigueros,h,2301,OpenPlay,2016,Head,1836,Villarreal,Osasuna,3,1,2016-09-25 20:30:00,Jonathan dos Santos,Chipped
+136494,78,MissedShots,0.965999984741211,0.6179999923706054,0.03261740133166313,Mario,h,2296,FromCorner,2016,Head,1836,Villarreal,Osasuna,3,1,2016-09-25 20:30:00,Manu Trigueros,Cross
+136498,88,MissedShots,0.915,0.34900001525878904,0.11564657092094421,Samu Castillejo,h,2303,OpenPlay,2016,LeftFoot,1836,Villarreal,Osasuna,3,1,2016-09-25 20:30:00,Santos Borré,Pass
+136499,89,BlockedShot,0.7369999694824219,0.56,0.03382799029350281,Santos Borré,h,5113,OpenPlay,2016,RightFoot,1836,Villarreal,Osasuna,3,1,2016-09-25 20:30:00,Jonathan dos Santos,Pass
+136479,9,MissedShots,0.91,0.534000015258789,0.3820807635784149,Emmanuel Rivière,a,777,OpenPlay,2016,RightFoot,1836,Villarreal,Osasuna,3,1,2016-09-25 20:30:00,Fuentes,Cross
+136480,10,MissedShots,0.8019999694824219,0.23299999237060548,0.0057142977602779865,Emmanuel Rivière,a,777,OpenPlay,2016,Head,1836,Villarreal,Osasuna,3,1,2016-09-25 20:30:00,Tano,Aerial
+136481,18,MissedShots,0.924000015258789,0.46099998474121096,0.1088460311293602,Oier,a,5128,FromCorner,2016,Head,1836,Villarreal,Osasuna,3,1,2016-09-25 20:30:00,Roberto Torres,Cross
+136485,41,BlockedShot,0.889000015258789,0.4520000076293945,0.07482167333364487,Emmanuel Rivière,a,777,SetPiece,2016,RightFoot,1836,Villarreal,Osasuna,3,1,2016-09-25 20:30:00,,None
+136486,45,Goal,0.885,0.5,0.7432776093482971,Roberto Torres,a,5093,Penalty,2016,RightFoot,1836,Villarreal,Osasuna,3,1,2016-09-25 20:30:00,,Standard
+136490,59,MissedShots,0.785,0.6020000076293945,0.024341123178601265,Oier,a,5128,OpenPlay,2016,RightFoot,1836,Villarreal,Osasuna,3,1,2016-09-25 20:30:00,,None
+136491,60,SavedShot,0.9490000152587891,0.3139999961853027,0.047598082572221756,Sergio León,a,5095,OpenPlay,2016,RightFoot,1836,Villarreal,Osasuna,3,1,2016-09-25 20:30:00,Olavide,Pass
+136492,60,BlockedShot,0.925,0.49900001525878906,0.11977538466453552,Oier,a,5128,FromCorner,2016,Head,1836,Villarreal,Osasuna,3,1,2016-09-25 20:30:00,Roberto Torres,Cross
+136495,79,MissedShots,0.9580000305175781,0.5309999847412109,0.15023629367351532,Emmanuel Rivière,a,777,OpenPlay,2016,Head,1836,Villarreal,Osasuna,3,1,2016-09-25 20:30:00,Fuentes,Cross
+136496,83,SavedShot,0.9119999694824219,0.5940000152587891,0.046111926436424255,David García,a,5090,FromCorner,2016,Head,1836,Villarreal,Osasuna,3,1,2016-09-25 20:30:00,Roberto Torres,Cross
+136497,84,MissedShots,0.91,0.5109999847412109,0.09329468756914139,Emmanuel Rivière,a,777,FromCorner,2016,Head,1836,Villarreal,Osasuna,3,1,2016-09-25 20:30:00,Roberto Torres,Cross

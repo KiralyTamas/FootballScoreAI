@@ -1,0 +1,31 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+161704,10,Goal,0.905,0.625999984741211,0.09710396826267242,Manolo Gabbiadini,h,1383,OpenPlay,2017,LeftFoot,7130,Southampton,West Ham,3,2,2017-08-19 15:00:00,Nathan Redmond,Pass
+161706,19,SavedShot,0.8009999847412109,0.6229999923706054,0.04690306633710861,Nathan Redmond,h,790,OpenPlay,2017,RightFoot,7130,Southampton,West Ham,3,2,2017-08-19 15:00:00,Dusan Tadic,Pass
+161709,37,Goal,0.885,0.5,0.7611688375473022,Dusan Tadic,h,840,Penalty,2017,LeftFoot,7130,Southampton,West Ham,3,2,2017-08-19 15:00:00,,Standard
+161710,39,BlockedShot,0.7930000305175782,0.45599998474121095,0.07951726019382477,Nathan Redmond,h,790,OpenPlay,2017,RightFoot,7130,Southampton,West Ham,3,2,2017-08-19 15:00:00,Dusan Tadic,LayOff
+161711,42,MissedShots,0.9119999694824219,0.664000015258789,0.12843279540538788,Steven Davis,h,883,OpenPlay,2017,LeftFoot,7130,Southampton,West Ham,3,2,2017-08-19 15:00:00,,TakeOn
+161714,45,MissedShots,0.9340000152587891,0.3160000038146973,0.055841363966464996,Cédric Soares,h,847,OpenPlay,2017,RightFoot,7130,Southampton,West Ham,3,2,2017-08-19 15:00:00,Nathan Redmond,Chipped
+161716,51,MissedShots,0.9119999694824219,0.31,0.07725843042135239,Cédric Soares,h,847,OpenPlay,2017,RightFoot,7130,Southampton,West Ham,3,2,2017-08-19 15:00:00,Dusan Tadic,Pass
+161718,59,ShotOnPost,0.7140000152587891,0.3770000076293945,0.012831793166697025,Manolo Gabbiadini,h,1383,OpenPlay,2017,LeftFoot,7130,Southampton,West Ham,3,2,2017-08-19 15:00:00,Dusan Tadic,LayOff
+161720,61,SavedShot,0.8530000305175781,0.295,0.046108677983284,Dusan Tadic,h,840,OpenPlay,2017,LeftFoot,7130,Southampton,West Ham,3,2,2017-08-19 15:00:00,Cédric Soares,Pass
+161722,68,MissedShots,0.764000015258789,0.7380000305175781,0.02058231271803379,Oriol Romeu,h,842,OpenPlay,2017,LeftFoot,7130,Southampton,West Ham,3,2,2017-08-19 15:00:00,Nathan Redmond,Pass
+161727,79,MissedShots,0.8030000305175782,0.725999984741211,0.017132634297013283,Nathan Redmond,h,790,OpenPlay,2017,RightFoot,7130,Southampton,West Ham,3,2,2017-08-19 15:00:00,Steven Davis,Pass
+161728,81,BlockedShot,0.7230000305175781,0.5629999923706055,0.015371897257864475,Oriol Romeu,h,842,OpenPlay,2017,RightFoot,7130,Southampton,West Ham,3,2,2017-08-19 15:00:00,James Ward-Prowse,Pass
+161730,89,BlockedShot,0.7569999694824219,0.57,0.022978441789746284,Nathan Redmond,h,790,OpenPlay,2017,LeftFoot,7130,Southampton,West Ham,3,2,2017-08-19 15:00:00,James Ward-Prowse,Pass
+161731,92,Goal,0.885,0.5,0.7611688375473022,Charlie Austin,h,848,Penalty,2017,RightFoot,7130,Southampton,West Ham,3,2,2017-08-19 15:00:00,,Standard
+161702,8,MissedShots,0.8690000152587891,0.395,0.11919273436069489,Marko Arnautovic,a,865,OpenPlay,2017,RightFoot,7130,Southampton,West Ham,3,2,2017-08-19 15:00:00,Michail Antonio,Throughball
+161703,9,SavedShot,0.879000015258789,0.5320000076293945,0.0504506416618824,Michail Antonio,a,531,SetPiece,2017,Head,7130,Southampton,West Ham,3,2,2017-08-19 15:00:00,Aaron Cresswell,Cross
+161705,18,SavedShot,0.88,0.6229999923706054,0.010172371752560139,Michail Antonio,a,531,OpenPlay,2017,Head,7130,Southampton,West Ham,3,2,2017-08-19 15:00:00,Pablo Zabaleta,Aerial
+161707,21,SavedShot,0.9030000305175782,0.34299999237060547,0.014177300035953522,Marko Arnautovic,a,865,OpenPlay,2017,Head,7130,Southampton,West Ham,3,2,2017-08-19 15:00:00,Chicharito,Cross
+161708,22,MissedShots,0.960999984741211,0.38799999237060545,0.05264809727668762,Michail Antonio,a,531,FromCorner,2017,RightFoot,7130,Southampton,West Ham,3,2,2017-08-19 15:00:00,Marko Arnautovic,Cross
+161712,43,SavedShot,0.7869999694824219,0.6140000152587891,0.03151585906744003,Michail Antonio,a,531,OpenPlay,2017,LeftFoot,7130,Southampton,West Ham,3,2,2017-08-19 15:00:00,Aaron Cresswell,Pass
+161713,44,Goal,0.9640000152587891,0.445,0.5779082775115967,Chicharito,a,191,OpenPlay,2017,RightFoot,7130,Southampton,West Ham,3,2,2017-08-19 15:00:00,,Rebound
+161715,49,SavedShot,0.895,0.5579999923706055,0.018958350643515587,José Fonte,a,834,SetPiece,2017,Head,7130,Southampton,West Ham,3,2,2017-08-19 15:00:00,Mark Noble,Aerial
+161717,53,BlockedShot,0.9169999694824219,0.48,0.04929119348526001,André Ayew,a,713,OpenPlay,2017,Head,7130,Southampton,West Ham,3,2,2017-08-19 15:00:00,Michail Antonio,Aerial
+161719,59,MissedShots,0.7719999694824219,0.625999984741211,0.022305337712168694,Chicharito,a,191,OpenPlay,2017,RightFoot,7130,Southampton,West Ham,3,2,2017-08-19 15:00:00,,None
+161721,63,MissedShots,0.8619999694824219,0.5359999847412109,0.03212786838412285,José Fonte,a,834,SetPiece,2017,Head,7130,Southampton,West Ham,3,2,2017-08-19 15:00:00,Aaron Cresswell,Cross
+161723,72,MissedShots,0.9259999847412109,0.6079999923706054,0.049072932451963425,Diafra Sakho,a,656,OpenPlay,2017,Head,7130,Southampton,West Ham,3,2,2017-08-19 15:00:00,Chicharito,Cross
+161724,73,SavedShot,0.9230000305175782,0.455,0.04481351748108864,Diafra Sakho,a,656,OpenPlay,2017,Head,7130,Southampton,West Ham,3,2,2017-08-19 15:00:00,Aaron Cresswell,Aerial
+161725,73,Goal,0.9569999694824218,0.575999984741211,0.48331719636917114,Chicharito,a,191,OpenPlay,2017,RightFoot,7130,Southampton,West Ham,3,2,2017-08-19 15:00:00,,Rebound
+161726,76,MissedShots,0.8719999694824219,0.605,0.00829137209802866,José Fonte,a,834,SetPiece,2017,Head,7130,Southampton,West Ham,3,2,2017-08-19 15:00:00,Mark Noble,Aerial
+161729,83,BlockedShot,0.75,0.25,0.008319299668073654,Mark Noble,a,533,SetPiece,2017,RightFoot,7130,Southampton,West Ham,3,2,2017-08-19 15:00:00,,Aerial

@@ -1,0 +1,37 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+78468,0,BlockedShot,0.895,0.28100000381469725,0.040495917201042175,Daniel Didavi,h,300,OpenPlay,2015,LeftFoot,1118,VfB Stuttgart,Darmstadt,2,0,2015-11-01 18:30:00,Timo Werner,Pass
+78469,2,MissedShots,0.9130000305175782,0.40599998474121096,0.05497795715928078,Daniel Schwaab,h,56,FromCorner,2015,RightFoot,1118,VfB Stuttgart,Darmstadt,2,0,2015-11-01 18:30:00,Daniel Didavi,Cross
+78471,18,MissedShots,0.7480000305175781,0.4759999847412109,0.038102056831121445,Geoffroy Serey Dié,h,61,OpenPlay,2015,RightFoot,1118,VfB Stuttgart,Darmstadt,2,0,2015-11-01 18:30:00,,None
+78474,29,BlockedShot,0.8590000152587891,0.5320000076293945,0.057586655020713806,Timo Werner,h,65,FromCorner,2015,RightFoot,1118,VfB Stuttgart,Darmstadt,2,0,2015-11-01 18:30:00,Toni Sunjic,Pass
+78475,29,MissedShots,0.8580000305175781,0.5879999923706055,0.06700880825519562,Florian Klein,h,383,FromCorner,2015,RightFoot,1118,VfB Stuttgart,Darmstadt,2,0,2015-11-01 18:30:00,,Rebound
+78478,35,MissedShots,0.9590000152587891,0.47200000762939454,0.14273910224437714,Daniel Didavi,h,300,OpenPlay,2015,OtherBodyPart,1118,VfB Stuttgart,Darmstadt,2,0,2015-11-01 18:30:00,Emiliano Insúa,Aerial
+78479,39,MissedShots,0.7880000305175782,0.25299999237060544,0.052306607365608215,Daniel Didavi,h,300,DirectFreekick,2015,LeftFoot,1118,VfB Stuttgart,Darmstadt,2,0,2015-11-01 18:30:00,,Standard
+78480,41,MissedShots,0.8619999694824219,0.24100000381469727,0.02612641267478466,Geoffroy Serey Dié,h,61,OpenPlay,2015,RightFoot,1118,VfB Stuttgart,Darmstadt,2,0,2015-11-01 18:30:00,Toni Sunjic,Pass
+78482,43,MissedShots,0.7919999694824219,0.7390000152587891,0.02357717975974083,Emiliano Insúa,h,59,FromCorner,2015,LeftFoot,1118,VfB Stuttgart,Darmstadt,2,0,2015-11-01 18:30:00,Alexandru Maxim,Cross
+78483,50,BlockedShot,0.855,0.725999984741211,0.019796114414930344,Emiliano Insúa,h,59,OpenPlay,2015,LeftFoot,1118,VfB Stuttgart,Darmstadt,2,0,2015-11-01 18:30:00,Florian Klein,Cross
+78484,51,BlockedShot,0.78,0.6909999847412109,0.02169092930853367,Daniel Schwaab,h,56,OpenPlay,2015,RightFoot,1118,VfB Stuttgart,Darmstadt,2,0,2015-11-01 18:30:00,Emiliano Insúa,TakeOn
+78485,51,SavedShot,0.875999984741211,0.5420000076293945,0.09503854066133499,Timo Werner,h,65,OpenPlay,2015,RightFoot,1118,VfB Stuttgart,Darmstadt,2,0,2015-11-01 18:30:00,Daniel Schwaab,Rebound
+78489,66,ShotOnPost,0.9469999694824218,0.55,0.4708749055862427,Timo Werner,h,65,OpenPlay,2015,Head,1118,VfB Stuttgart,Darmstadt,2,0,2015-11-01 18:30:00,Emiliano Insúa,Cross
+78490,67,BlockedShot,0.7440000152587891,0.7380000305175781,0.03872666135430336,Alexandru Maxim,h,63,DirectFreekick,2015,RightFoot,1118,VfB Stuttgart,Darmstadt,2,0,2015-11-01 18:30:00,,Standard
+78491,67,SavedShot,0.8859999847412109,0.649000015258789,0.055442485958337784,Daniel Didavi,h,300,SetPiece,2015,LeftFoot,1118,VfB Stuttgart,Darmstadt,2,0,2015-11-01 18:30:00,,Rebound
+78495,78,MissedShots,0.82,0.7290000152587891,0.03142799437046051,Emiliano Insúa,h,59,OpenPlay,2015,LeftFoot,1118,VfB Stuttgart,Darmstadt,2,0,2015-11-01 18:30:00,Timo Werner,Pass
+78499,85,MissedShots,0.9130000305175782,0.4570000076293945,0.030508700758218765,Daniel Didavi,h,300,FromCorner,2015,Head,1118,VfB Stuttgart,Darmstadt,2,0,2015-11-01 18:30:00,Alexandru Maxim,Aerial
+78503,93,Goal,0.9259999847412109,0.53,0.8736681342124939,Timo Werner,h,65,OpenPlay,2015,LeftFoot,1118,VfB Stuttgart,Darmstadt,2,0,2015-11-01 18:30:00,Alexandru Maxim,TakeOn
+78470,10,MissedShots,0.6730000305175782,0.580999984741211,0.008031230419874191,Júnior Díaz,a,15,SetPiece,2015,LeftFoot,1118,VfB Stuttgart,Darmstadt,2,0,2015-11-01 18:30:00,,None
+78472,26,BlockedShot,0.8640000152587891,0.63,0.06957951188087463,Konstantin Rausch,a,13,OpenPlay,2015,RightFoot,1118,VfB Stuttgart,Darmstadt,2,0,2015-11-01 18:30:00,Jérôme Gondorf,Pass
+78473,26,MissedShots,0.7530000305175781,0.6140000152587891,0.01495963241904974,Peter Niemeyer,a,299,OpenPlay,2015,LeftFoot,1118,VfB Stuttgart,Darmstadt,2,0,2015-11-01 18:30:00,,Rebound
+78476,30,SavedShot,0.8119999694824219,0.5129999923706055,0.061872731894254684,Marcel Heller,a,6,OpenPlay,2015,LeftFoot,1118,VfB Stuttgart,Darmstadt,2,0,2015-11-01 18:30:00,,TakeOn
+78477,33,MissedShots,0.914000015258789,0.5840000152587891,0.025614924728870392,Aytac Sulu,a,4,SetPiece,2015,Head,1118,VfB Stuttgart,Darmstadt,2,0,2015-11-01 18:30:00,Konstantin Rausch,Aerial
+78481,42,MissedShots,0.82,0.4909999847412109,0.05018695443868637,Sandro Wagner,a,11,OpenPlay,2015,RightFoot,1118,VfB Stuttgart,Darmstadt,2,0,2015-11-01 18:30:00,Marcel Heller,Chipped
+78486,52,MissedShots,0.895,0.3160000038146973,0.019672397524118423,Jan Rosenthal,a,10,SetPiece,2015,RightFoot,1118,VfB Stuttgart,Darmstadt,2,0,2015-11-01 18:30:00,,Aerial
+78487,58,SavedShot,0.8780000305175781,0.40599998474121096,0.06268817186355591,Marcel Heller,a,6,OpenPlay,2015,RightFoot,1118,VfB Stuttgart,Darmstadt,2,0,2015-11-01 18:30:00,Jan Rosenthal,Cross
+78488,58,MissedShots,0.9730000305175781,0.649000015258789,0.06297507882118225,Sandro Wagner,a,11,OpenPlay,2015,LeftFoot,1118,VfB Stuttgart,Darmstadt,2,0,2015-11-01 18:30:00,,Rebound
+78492,67,OwnGoal,0.01600000023841858,0.4640000152587891,0,György Garics,a,2,SetPiece,2015,Head,1118,VfB Stuttgart,Darmstadt,2,0,2015-11-01 18:30:00,,Foul
+78493,70,MissedShots,0.8819999694824219,0.6359999847412109,0.07108378410339355,Marcel Heller,a,6,OpenPlay,2015,LeftFoot,1118,VfB Stuttgart,Darmstadt,2,0,2015-11-01 18:30:00,Tobias Kempe,Pass
+78494,72,MissedShots,0.8669999694824219,0.750999984741211,0.029438717290759087,Tobias Kempe,a,9,OpenPlay,2015,LeftFoot,1118,VfB Stuttgart,Darmstadt,2,0,2015-11-01 18:30:00,Sandro Wagner,Pass
+78496,82,MissedShots,0.8580000305175781,0.27899999618530275,0.03116234391927719,Sandro Wagner,a,11,OpenPlay,2015,LeftFoot,1118,VfB Stuttgart,Darmstadt,2,0,2015-11-01 18:30:00,Marcel Heller,Pass
+78497,82,SavedShot,0.9169999694824219,0.6370000076293946,0.4219215214252472,Marcel Heller,a,6,OpenPlay,2015,LeftFoot,1118,VfB Stuttgart,Darmstadt,2,0,2015-11-01 18:30:00,Tobias Kempe,Pass
+78498,83,MissedShots,0.9059999847412109,0.5729999923706055,0.05606875568628311,Aytac Sulu,a,4,SetPiece,2015,Head,1118,VfB Stuttgart,Darmstadt,2,0,2015-11-01 18:30:00,Tobias Kempe,Chipped
+78500,86,SavedShot,0.885,0.4329999923706055,0.06516174972057343,Luca Caldirola,a,3,OpenPlay,2015,LeftFoot,1118,VfB Stuttgart,Darmstadt,2,0,2015-11-01 18:30:00,Mario Vrancic,Cross
+78501,87,SavedShot,0.9419999694824219,0.635,0.013302795588970184,Luca Caldirola,a,3,FromCorner,2015,Head,1118,VfB Stuttgart,Darmstadt,2,0,2015-11-01 18:30:00,Tobias Kempe,Aerial
+78502,87,MissedShots,0.81,0.6759999847412109,0.027537532150745392,Tobias Kempe,a,9,OpenPlay,2015,RightFoot,1118,VfB Stuttgart,Darmstadt,2,0,2015-11-01 18:30:00,,None

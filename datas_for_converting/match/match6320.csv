@@ -1,0 +1,25 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+13419,14,Goal,0.9790000152587891,0.4520000076293945,0.6713212132453918,Maksim Kanunnikov,h,2969,OpenPlay,2014,RightFoot,6320,Rubin Kazan,FK Akhmat,2,1,2015-03-15 15:30:00,,None
+13420,15,MissedShots,0.9390000152587891,0.534000015258789,0.14297084510326385,Igor Portnyagin,h,2970,OpenPlay,2014,LeftFoot,6320,Rubin Kazan,FK Akhmat,2,1,2015-03-15 15:30:00,,None
+13422,28,BlockedShot,0.73,0.7369999694824219,0.012063807807862759,Guillermo Cotugno,h,2966,OpenPlay,2014,RightFoot,6320,Rubin Kazan,FK Akhmat,2,1,2015-03-15 15:30:00,Ruslan Kambolov,Pass
+13425,38,SavedShot,0.785,0.34700000762939454,0.03693049028515816,Maksim Kanunnikov,h,2969,OpenPlay,2014,LeftFoot,6320,Rubin Kazan,FK Akhmat,2,1,2015-03-15 15:30:00,Blagoy Georgiev,BallRecovery
+13427,40,SavedShot,0.905,0.43599998474121093,0.08277152478694916,Vladimir Dyadyun,h,2974,OpenPlay,2014,Head,6320,Rubin Kazan,FK Akhmat,2,1,2015-03-15 15:30:00,Maksim Kanunnikov,Cross
+13428,41,MissedShots,0.9459999847412109,0.495,0.4500417411327362,Igor Portnyagin,h,2970,FromCorner,2014,Head,6320,Rubin Kazan,FK Akhmat,2,1,2015-03-15 15:30:00,Blagoy Georgiev,Cross
+13429,43,Goal,0.9219999694824219,0.485,0.07805705815553665,Igor Portnyagin,h,2970,OpenPlay,2014,Head,6320,Rubin Kazan,FK Akhmat,2,1,2015-03-15 15:30:00,Oleg Kuzmin,Aerial
+13435,64,MissedShots,0.9390000152587891,0.610999984741211,0.02268652245402336,Igor Portnyagin,h,2970,OpenPlay,2014,Head,6320,Rubin Kazan,FK Akhmat,2,1,2015-03-15 15:30:00,Maksim Kanunnikov,Aerial
+13437,70,BlockedShot,0.9209999847412109,0.35,0.09895016998052597,Maksim Kanunnikov,h,2969,OpenPlay,2014,RightFoot,6320,Rubin Kazan,FK Akhmat,2,1,2015-03-15 15:30:00,Vladimir Dyadyun,Pass
+13440,85,MissedShots,0.8569999694824219,0.24899999618530275,0.021731805056333542,Maksim Kanunnikov,h,2969,OpenPlay,2014,RightFoot,6320,Rubin Kazan,FK Akhmat,2,1,2015-03-15 15:30:00,Magomed Ozdoev,TakeOn
+13421,26,BlockedShot,0.7830000305175782,0.6320000076293946,0.02070499025285244,Jeremy Bokila,a,4558,SetPiece,2014,RightFoot,6320,Rubin Kazan,FK Akhmat,2,1,2015-03-15 15:30:00,Adilson,Pass
+13423,33,SavedShot,0.7559999847412109,0.5559999847412109,0.06308034807443619,Mauricio,a,3060,DirectFreekick,2014,RightFoot,6320,Rubin Kazan,FK Akhmat,2,1,2015-03-15 15:30:00,,Standard
+13424,34,BlockedShot,0.7980000305175782,0.665,0.02276727557182312,Igor Lebedenko,a,2862,OpenPlay,2014,RightFoot,6320,Rubin Kazan,FK Akhmat,2,1,2015-03-15 15:30:00,,Dispossessed
+13426,39,MissedShots,0.9230000305175782,0.5109999847412109,0.3395790755748749,Jeremy Bokila,a,4558,OpenPlay,2014,LeftFoot,6320,Rubin Kazan,FK Akhmat,2,1,2015-03-15 15:30:00,,Dispossessed
+13430,45,MissedShots,0.8769999694824219,0.759000015258789,0.020272640511393547,Jeremy Bokila,a,4558,OpenPlay,2014,LeftFoot,6320,Rubin Kazan,FK Akhmat,2,1,2015-03-15 15:30:00,,BallTouch
+13431,50,BlockedShot,0.705,0.515,0.03769331052899361,Maciej Rybus,a,2856,DirectFreekick,2014,LeftFoot,6320,Rubin Kazan,FK Akhmat,2,1,2015-03-15 15:30:00,,Standard
+13432,55,MissedShots,0.78,0.29700000762939455,0.010965804569423199,Adilson,a,2851,OpenPlay,2014,RightFoot,6320,Rubin Kazan,FK Akhmat,2,1,2015-03-15 15:30:00,Kanu,Pass
+13433,57,MissedShots,0.8809999847412109,0.6120000076293945,0.030339950695633888,Jeremy Bokila,a,4558,OpenPlay,2014,Head,6320,Rubin Kazan,FK Akhmat,2,1,2015-03-15 15:30:00,Fyodor Kudryashov,Aerial
+13434,59,SavedShot,0.8240000152587891,0.12199999809265137,0.031481340527534485,Maciej Rybus,a,2856,DirectFreekick,2014,LeftFoot,6320,Rubin Kazan,FK Akhmat,2,1,2015-03-15 15:30:00,,Standard
+13436,68,SavedShot,0.740999984741211,0.669000015258789,0.013575231656432152,Igor Lebedenko,a,2862,OpenPlay,2014,RightFoot,6320,Rubin Kazan,FK Akhmat,2,1,2015-03-15 15:30:00,,TakeOn
+13438,80,SavedShot,0.9480000305175781,0.34400001525878904,0.03306093439459801,Igor Lebedenko,a,2862,OpenPlay,2014,RightFoot,6320,Rubin Kazan,FK Akhmat,2,1,2015-03-15 15:30:00,Ailton,Cross
+13439,81,Goal,0.915,0.575,0.04875509813427925,Marcin Komorowski,a,3182,FromCorner,2014,Head,6320,Rubin Kazan,FK Akhmat,2,1,2015-03-15 15:30:00,Maciej Rybus,Cross
+13441,88,MissedShots,0.8059999847412109,0.36,0.006132315844297409,Jeremy Bokila,a,4558,OpenPlay,2014,Head,6320,Rubin Kazan,FK Akhmat,2,1,2015-03-15 15:30:00,Ismail Aissati,Cross
+13442,89,MissedShots,0.9069999694824219,0.37099998474121093,0.021607613191008568,Maciej Rybus,a,2856,OpenPlay,2014,Head,6320,Rubin Kazan,FK Akhmat,2,1,2015-03-15 15:30:00,Mauricio,Cross

@@ -1,0 +1,31 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+331546,5,Goal,0.769000015258789,0.5990000152587891,0.022401103749871254,Fabinho,h,3420,OpenPlay,2019,RightFoot,11755,Liverpool,Manchester City,3,1,2019-11-10 16:30:00,,None
+331548,12,Goal,0.9130000305175782,0.39799999237060546,0.18465712666511536,Mohamed Salah,h,1250,OpenPlay,2019,Head,11755,Liverpool,Manchester City,3,1,2019-11-10 16:30:00,Andrew Robertson,Cross
+331549,20,MissedShots,0.870999984741211,0.6790000152587891,0.07804666459560394,Georginio Wijnaldum,h,771,OpenPlay,2019,RightFoot,11755,Liverpool,Manchester City,3,1,2019-11-10 16:30:00,Sadio Mané,Pass
+331553,33,MissedShots,0.955,0.4379999923706055,0.061527784913778305,Dejan Lovren,h,602,FromCorner,2019,Head,11755,Liverpool,Manchester City,3,1,2019-11-10 16:30:00,Andrew Robertson,Aerial
+331554,34,MissedShots,0.8519999694824218,0.6229999923706054,0.10368156433105469,Roberto Firmino,h,482,OpenPlay,2019,RightFoot,11755,Liverpool,Manchester City,3,1,2019-11-10 16:30:00,,TakeOn
+331555,37,SavedShot,0.899000015258789,0.624000015258789,0.11812230944633484,Roberto Firmino,h,482,OpenPlay,2019,LeftFoot,11755,Liverpool,Manchester City,3,1,2019-11-10 16:30:00,Trent Alexander-Arnold,Pass
+331558,44,SavedShot,0.7780000305175782,0.5359999847412109,0.03921619430184364,Mohamed Salah,h,1250,OpenPlay,2019,LeftFoot,11755,Liverpool,Manchester City,3,1,2019-11-10 16:30:00,Roberto Firmino,Pass
+331559,46,MissedShots,0.8640000152587891,0.41,0.030311649665236473,Georginio Wijnaldum,h,771,SetPiece,2019,RightFoot,11755,Liverpool,Manchester City,3,1,2019-11-10 16:30:00,Trent Alexander-Arnold,Cross
+331563,50,Goal,0.9690000152587891,0.5629999923706055,0.5319979786872864,Sadio Mané,h,838,OpenPlay,2019,Head,11755,Liverpool,Manchester City,3,1,2019-11-10 16:30:00,Jordan Henderson,Cross
+331565,54,MissedShots,0.8769999694824219,0.67,0.029299283400177956,Roberto Firmino,h,482,OpenPlay,2019,RightFoot,11755,Liverpool,Manchester City,3,1,2019-11-10 16:30:00,,Aerial
+331567,62,BlockedShot,0.755,0.3940000152587891,0.025343090295791626,Fabinho,h,3420,OpenPlay,2019,RightFoot,11755,Liverpool,Manchester City,3,1,2019-11-10 16:30:00,,BallRecovery
+331568,63,BlockedShot,0.9219999694824219,0.34700000762939454,0.10729052126407623,Mohamed Salah,h,1250,OpenPlay,2019,RightFoot,11755,Liverpool,Manchester City,3,1,2019-11-10 16:30:00,Sadio Mané,Pass
+331544,1,BlockedShot,0.7659999847412109,0.3659999847412109,0.01672271080315113,Kyle Walker,a,638,FromCorner,2019,RightFoot,11755,Liverpool,Manchester City,3,1,2019-11-10 16:30:00,,None
+331545,4,MissedShots,0.9209999847412109,0.39799999237060546,0.01499274093657732,John Stones,a,586,FromCorner,2019,Head,11755,Liverpool,Manchester City,3,1,2019-11-10 16:30:00,Kevin De Bruyne,Aerial
+331547,8,MissedShots,0.9109999847412109,0.5879999923706055,0.14768899977207184,Raheem Sterling,a,618,SetPiece,2019,Head,11755,Liverpool,Manchester City,3,1,2019-11-10 16:30:00,Kevin De Bruyne,Cross
+331550,23,MissedShots,0.8069999694824219,0.69,0.01896984875202179,Ilkay Gündogan,a,314,FromCorner,2019,LeftFoot,11755,Liverpool,Manchester City,3,1,2019-11-10 16:30:00,,None
+331551,24,SavedShot,0.875,0.6730000305175782,0.06592032313346863,Sergio Agüero,a,619,OpenPlay,2019,RightFoot,11755,Liverpool,Manchester City,3,1,2019-11-10 16:30:00,Angelino,TakeOn
+331552,28,BlockedShot,0.895,0.615,0.06232348829507828,Angelino,a,1040,OpenPlay,2019,LeftFoot,11755,Liverpool,Manchester City,3,1,2019-11-10 16:30:00,,None
+331556,38,MissedShots,0.735999984741211,0.34900001525878904,0.012074916623532772,Kyle Walker,a,638,OpenPlay,2019,RightFoot,11755,Liverpool,Manchester City,3,1,2019-11-10 16:30:00,Ilkay Gündogan,Pass
+331557,41,MissedShots,0.875,0.7130000305175781,0.08390426635742188,Sergio Agüero,a,619,OpenPlay,2019,LeftFoot,11755,Liverpool,Manchester City,3,1,2019-11-10 16:30:00,Kevin De Bruyne,Pass
+331560,46,SavedShot,0.8430000305175781,0.49700000762939456,0.054433658719062805,Sergio Agüero,a,619,OpenPlay,2019,RightFoot,11755,Liverpool,Manchester City,3,1,2019-11-10 16:30:00,,None
+331561,47,BlockedShot,0.8830000305175781,0.7280000305175781,0.02489491179585457,Kevin De Bruyne,a,447,FromCorner,2019,RightFoot,11755,Liverpool,Manchester City,3,1,2019-11-10 16:30:00,Bernardo Silva,Pass
+331562,47,BlockedShot,0.8030000305175782,0.5279999923706055,0.04363759234547615,Ilkay Gündogan,a,314,FromCorner,2019,RightFoot,11755,Liverpool,Manchester City,3,1,2019-11-10 16:30:00,,Rebound
+331564,52,BlockedShot,0.8159999847412109,0.5070000076293946,0.08058051019906998,Raheem Sterling,a,618,OpenPlay,2019,RightFoot,11755,Liverpool,Manchester City,3,1,2019-11-10 16:30:00,Bernardo Silva,TakeOn
+331566,58,BlockedShot,0.7880000305175782,0.649000015258789,0.027066634967923164,Kevin De Bruyne,a,447,OpenPlay,2019,RightFoot,11755,Liverpool,Manchester City,3,1,2019-11-10 16:30:00,Ilkay Gündogan,Pass
+331569,76,MissedShots,0.8530000305175781,0.5540000152587891,0.08318498730659485,Raheem Sterling,a,618,OpenPlay,2019,LeftFoot,11755,Liverpool,Manchester City,3,1,2019-11-10 16:30:00,Ilkay Gündogan,Pass
+331570,77,BlockedShot,0.850999984741211,0.30100000381469727,0.01982106640934944,Kyle Walker,a,638,OpenPlay,2019,RightFoot,11755,Liverpool,Manchester City,3,1,2019-11-10 16:30:00,,Rebound
+331571,77,Goal,0.860999984741211,0.4,0.05253422260284424,Bernardo Silva,a,3635,OpenPlay,2019,LeftFoot,11755,Liverpool,Manchester City,3,1,2019-11-10 16:30:00,,None
+331572,82,BlockedShot,0.8819999694824219,0.715999984741211,0.04398792237043381,Raheem Sterling,a,618,OpenPlay,2019,RightFoot,11755,Liverpool,Manchester City,3,1,2019-11-10 16:30:00,Angelino,Pass
+331573,85,MissedShots,0.955999984741211,0.485,0.6310320496559143,Kyle Walker,a,638,OpenPlay,2019,Head,11755,Liverpool,Manchester City,3,1,2019-11-10 16:30:00,Angelino,Aerial

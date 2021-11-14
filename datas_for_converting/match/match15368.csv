@@ -1,0 +1,36 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+411340,1,Goal,0.9719999694824218,0.49700000762939456,0.9051162600517273,André Silva,h,6170,OpenPlay,2020,RightFoot,15368,Eintracht Frankfurt,Union Berlin,5,2,2021-03-20 14:30:00,Filip Kostic,Pass
+411342,12,MissedShots,0.774000015258789,0.5840000152587891,0.02317958138883114,Aymen Barkok,h,5235,FromCorner,2020,LeftFoot,15368,Eintracht Frankfurt,Union Berlin,5,2,2021-03-20 14:30:00,,BallTouch
+411343,15,MissedShots,0.794000015258789,0.5570000076293945,0.041341379284858704,Luka Jovic,h,6228,OpenPlay,2020,LeftFoot,15368,Eintracht Frankfurt,Union Berlin,5,2,2021-03-20 14:30:00,André Silva,Pass
+411348,25,MissedShots,0.8919999694824219,0.53,0.3214937448501587,Luka Jovic,h,6228,OpenPlay,2020,RightFoot,15368,Eintracht Frankfurt,Union Berlin,5,2,2021-03-20 14:30:00,Filip Kostic,Cross
+411351,38,Goal,0.9080000305175782,0.6569999694824219,0.3851397633552551,Filip Kostic,h,64,OpenPlay,2020,LeftFoot,15368,Eintracht Frankfurt,Union Berlin,5,2,2021-03-20 14:30:00,André Silva,Pass
+411353,40,Goal,0.874000015258789,0.4279999923706055,0.10983841866254807,André Silva,h,6170,OpenPlay,2020,RightFoot,15368,Eintracht Frankfurt,Union Berlin,5,2,2021-03-20 14:30:00,Daichi Kamada,LayOff
+411356,59,MissedShots,0.8640000152587891,0.445,0.11803673952817917,Daichi Kamada,h,6145,OpenPlay,2020,RightFoot,15368,Eintracht Frankfurt,Union Berlin,5,2,2021-03-20 14:30:00,Stefan Ilsanker,Pass
+411366,75,SavedShot,0.87,0.4879999923706055,0.03268711268901825,Daichi Kamada,h,6145,OpenPlay,2020,Head,15368,Eintracht Frankfurt,Union Berlin,5,2,2021-03-20 14:30:00,Filip Kostic,Cross
+411370,91,Goal,0.9309999847412109,0.48400001525878905,0.5982958078384399,Timothy Chandler,h,359,OpenPlay,2020,RightFoot,15368,Eintracht Frankfurt,Union Berlin,5,2,2021-03-20 14:30:00,Steven Zuber,Pass
+411338,0,BlockedShot,0.9119999694824219,0.48700000762939455,0.0873216837644577,Robin Knoche,a,161,FromCorner,2020,RightFoot,15368,Eintracht Frankfurt,Union Berlin,5,2,2021-03-20 14:30:00,Christopher Trimmel,Cross
+411339,0,BlockedShot,0.8869999694824219,0.575,0.06519988924264908,Marvin Friedrich,a,370,FromCorner,2020,LeftFoot,15368,Eintracht Frankfurt,Union Berlin,5,2,2021-03-20 14:30:00,Robin Knoche,Pass
+411341,6,Goal,0.855999984741211,0.5640000152587891,0.06055712327361107,Max Kruse,a,155,OpenPlay,2020,LeftFoot,15368,Eintracht Frankfurt,Union Berlin,5,2,2021-03-20 14:30:00,Julian Ryerson,Tackle
+411344,17,MissedShots,0.8980000305175782,0.595999984741211,0.0806945189833641,Marcus Ingvartsen,a,7883,OpenPlay,2020,LeftFoot,15368,Eintracht Frankfurt,Union Berlin,5,2,2021-03-20 14:30:00,Julian Ryerson,Cross
+411345,19,BlockedShot,0.9540000152587891,0.5420000076293945,0.5250751972198486,Joel Pohjanpalo,a,5222,FromCorner,2020,RightFoot,15368,Eintracht Frankfurt,Union Berlin,5,2,2021-03-20 14:30:00,Christopher Trimmel,Rebound
+411346,19,BlockedShot,0.8969999694824219,0.5309999847412109,0.01947806403040886,Marvin Friedrich,a,370,FromCorner,2020,Head,15368,Eintracht Frankfurt,Union Berlin,5,2,2021-03-20 14:30:00,Christopher Trimmel,Aerial
+411347,19,SavedShot,0.9059999847412109,0.5709999847412109,0.07423926889896393,Joel Pohjanpalo,a,5222,OpenPlay,2020,Head,15368,Eintracht Frankfurt,Union Berlin,5,2,2021-03-20 14:30:00,Christopher Trimmel,Cross
+411349,32,MissedShots,0.879000015258789,0.5129999923706055,0.06140235438942909,Nico Schlotterbeck,a,7485,SetPiece,2020,Head,15368,Eintracht Frankfurt,Union Berlin,5,2,2021-03-20 14:30:00,Max Kruse,Cross
+411350,34,OwnGoal,0.2560000038146973,0.14,0,Robert Andrich,a,7877,OpenPlay,2020,LeftFoot,15368,Eintracht Frankfurt,Union Berlin,5,2,2021-03-20 14:30:00,,BallRecovery
+411352,39,MissedShots,0.85,0.47,0.04773210361599922,Max Kruse,a,155,OpenPlay,2020,RightFoot,15368,Eintracht Frankfurt,Union Berlin,5,2,2021-03-20 14:30:00,Christopher Trimmel,Cross
+411354,47,Goal,0.9369999694824219,0.6680000305175782,0.011094990186393261,Max Kruse,a,155,OpenPlay,2020,Head,15368,Eintracht Frankfurt,Union Berlin,5,2,2021-03-20 14:30:00,Marvin Friedrich,Cross
+411355,50,MissedShots,0.8490000152587891,0.5109999847412109,0.08994756639003754,Joel Pohjanpalo,a,5222,OpenPlay,2020,LeftFoot,15368,Eintracht Frankfurt,Union Berlin,5,2,2021-03-20 14:30:00,Max Kruse,Pass
+411357,59,SavedShot,0.895,0.3840000152587891,0.2701360583305359,Joel Pohjanpalo,a,5222,OpenPlay,2020,RightFoot,15368,Eintracht Frankfurt,Union Berlin,5,2,2021-03-20 14:30:00,Max Kruse,Pass
+411358,65,BlockedShot,0.8819999694824219,0.385,0.05869055539369583,Grischa Prömel,a,4340,OpenPlay,2020,RightFoot,15368,Eintracht Frankfurt,Union Berlin,5,2,2021-03-20 14:30:00,,None
+411359,65,BlockedShot,0.8780000305175781,0.4420000076293945,0.07791949808597565,Grischa Prömel,a,4340,OpenPlay,2020,LeftFoot,15368,Eintracht Frankfurt,Union Berlin,5,2,2021-03-20 14:30:00,,Rebound
+411360,65,MissedShots,0.8040000152587891,0.7559999847412109,0.015523611567914486,Nico Schlotterbeck,a,7485,OpenPlay,2020,LeftFoot,15368,Eintracht Frankfurt,Union Berlin,5,2,2021-03-20 14:30:00,Robert Andrich,Pass
+411361,68,MissedShots,0.9030000305175782,0.5279999923706055,0.10569357126951218,Keita Endo,a,8951,OpenPlay,2020,Head,15368,Eintracht Frankfurt,Union Berlin,5,2,2021-03-20 14:30:00,Christopher Trimmel,Cross
+411362,72,BlockedShot,0.8119999694824219,0.6079999923706054,0.12422431260347366,Robert Andrich,a,7877,DirectFreekick,2020,RightFoot,15368,Eintracht Frankfurt,Union Berlin,5,2,2021-03-20 14:30:00,,Standard
+411363,74,BlockedShot,0.7830000305175782,0.47400001525878904,0.04325864091515541,Cedric Teuchert,a,6522,OpenPlay,2020,RightFoot,15368,Eintracht Frankfurt,Union Berlin,5,2,2021-03-20 14:30:00,Julian Ryerson,Pass
+411364,74,MissedShots,0.7819999694824219,0.5379999923706055,0.016427703201770782,Max Kruse,a,155,FromCorner,2020,RightFoot,15368,Eintracht Frankfurt,Union Berlin,5,2,2021-03-20 14:30:00,,Aerial
+411365,74,BlockedShot,0.9030000305175782,0.62,0.07921427488327026,Cedric Teuchert,a,6522,FromCorner,2020,RightFoot,15368,Eintracht Frankfurt,Union Berlin,5,2,2021-03-20 14:30:00,Max Kruse,Rebound
+411367,79,BlockedShot,0.870999984741211,0.6769999694824219,0.06166410446166992,Julian Ryerson,a,7997,OpenPlay,2020,LeftFoot,15368,Eintracht Frankfurt,Union Berlin,5,2,2021-03-20 14:30:00,Cedric Teuchert,Pass
+411368,87,ShotOnPost,0.8369999694824218,0.34599998474121096,0.052467845380306244,Robert Andrich,a,7877,OpenPlay,2020,RightFoot,15368,Eintracht Frankfurt,Union Berlin,5,2,2021-03-20 14:30:00,Christopher Trimmel,Pass
+411369,90,MissedShots,0.9259999847412109,0.534000015258789,0.08075197786092758,Cedric Teuchert,a,6522,OpenPlay,2020,LeftFoot,15368,Eintracht Frankfurt,Union Berlin,5,2,2021-03-20 14:30:00,Marvin Friedrich,Cross
+411371,92,SavedShot,0.96,0.5459999847412109,0.6216863393783569,Robin Knoche,a,161,OpenPlay,2020,LeftFoot,15368,Eintracht Frankfurt,Union Berlin,5,2,2021-03-20 14:30:00,Keita Endo,Pass
+411372,93,SavedShot,0.894000015258789,0.33099998474121095,0.2384398728609085,Robert Andrich,a,7877,OpenPlay,2020,RightFoot,15368,Eintracht Frankfurt,Union Berlin,5,2,2021-03-20 14:30:00,Max Kruse,Pass

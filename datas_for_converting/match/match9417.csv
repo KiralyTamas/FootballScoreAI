@@ -1,0 +1,30 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+274621,2,SavedShot,0.7180000305175781,0.4540000152587891,0.014370417222380638,Rúben Neves,h,6853,OpenPlay,2018,RightFoot,9417,Wolverhampton Wanderers,Leicester,4,3,2019-01-19 12:30:00,Jonny,Pass
+274622,3,Goal,0.9290000152587891,0.5159999847412109,0.4467776119709015,Diogo Jota,h,6854,OpenPlay,2018,RightFoot,9417,Wolverhampton Wanderers,Leicester,4,3,2019-01-19 12:30:00,João Moutinho,Cross
+274625,11,Goal,0.9230000305175782,0.475,0.1024302989244461,Ryan Bennett,h,787,FromCorner,2018,Head,9417,Wolverhampton Wanderers,Leicester,4,3,2019-01-19 12:30:00,João Moutinho,Cross
+274633,26,SavedShot,0.9259999847412109,0.5129999923706055,0.47034844756126404,Diogo Jota,h,6854,OpenPlay,2018,Head,9417,Wolverhampton Wanderers,Leicester,4,3,2019-01-19 12:30:00,Raúl Jiménez,Cross
+274634,39,SavedShot,0.889000015258789,0.5770000076293945,0.13178157806396484,Raúl Jiménez,h,4105,OpenPlay,2018,LeftFoot,9417,Wolverhampton Wanderers,Leicester,4,3,2019-01-19 12:30:00,Rúben Vinagre,Pass
+274635,40,BlockedShot,0.855999984741211,0.44099998474121094,0.10862753540277481,Raúl Jiménez,h,4105,OpenPlay,2018,RightFoot,9417,Wolverhampton Wanderers,Leicester,4,3,2019-01-19 12:30:00,Diogo Jota,Chipped
+274636,40,MissedShots,0.85,0.6680000305175782,0.08133772760629654,João Moutinho,h,3422,OpenPlay,2018,RightFoot,9417,Wolverhampton Wanderers,Leicester,4,3,2019-01-19 12:30:00,Rúben Neves,Chipped
+274637,43,BlockedShot,0.7280000305175781,0.41700000762939454,0.014259585179388523,Rúben Neves,h,6853,FromCorner,2018,RightFoot,9417,Wolverhampton Wanderers,Leicester,4,3,2019-01-19 12:30:00,,None
+274642,50,OwnGoal,0.07099999904632569,0.48200000762939454,0,Conor Coady,h,6851,OpenPlay,2018,LeftFoot,9417,Wolverhampton Wanderers,Leicester,4,3,2019-01-19 12:30:00,,None
+274643,63,Goal,0.8930000305175781,0.6229999923706054,0.4669491946697235,Diogo Jota,h,6854,OpenPlay,2018,LeftFoot,9417,Wolverhampton Wanderers,Leicester,4,3,2019-01-19 12:30:00,Rúben Neves,Throughball
+274644,69,MissedShots,0.705,0.42700000762939455,0.012926519848406315,Rúben Neves,h,6853,FromCorner,2018,RightFoot,9417,Wolverhampton Wanderers,Leicester,4,3,2019-01-19 12:30:00,,None
+274648,89,MissedShots,0.9730000305175781,0.59,0.02477280981838703,Matt Doherty,h,6852,FromCorner,2018,Head,9417,Wolverhampton Wanderers,Leicester,4,3,2019-01-19 12:30:00,Raúl Jiménez,Aerial
+274649,92,Goal,0.8680000305175781,0.5459999847412109,0.3426051735877991,Diogo Jota,h,6854,OpenPlay,2018,RightFoot,9417,Wolverhampton Wanderers,Leicester,4,3,2019-01-19 12:30:00,Raúl Jiménez,Pass
+274623,4,SavedShot,0.9630000305175781,0.33799999237060546,0.19627968966960907,Jamie Vardy,a,755,OpenPlay,2018,RightFoot,9417,Wolverhampton Wanderers,Leicester,4,3,2019-01-19 12:30:00,,BallRecovery
+274624,6,MissedShots,0.970999984741211,0.500999984741211,0.12294308841228485,Harry Maguire,a,1687,FromCorner,2018,Head,9417,Wolverhampton Wanderers,Leicester,4,3,2019-01-19 12:30:00,Demarai Gray,Aerial
+274626,13,BlockedShot,0.784000015258789,0.47200000762939454,0.042635031044483185,Harvey Barnes,a,6681,OpenPlay,2018,RightFoot,9417,Wolverhampton Wanderers,Leicester,4,3,2019-01-19 12:30:00,Ricardo Pereira,Pass
+274627,14,BlockedShot,0.799000015258789,0.3840000152587891,0.04372676834464073,Ricardo Pereira,a,3303,OpenPlay,2018,RightFoot,9417,Wolverhampton Wanderers,Leicester,4,3,2019-01-19 12:30:00,,TakeOn
+274628,14,BlockedShot,0.855999984741211,0.34200000762939453,0.06739205121994019,Demarai Gray,a,762,OpenPlay,2018,RightFoot,9417,Wolverhampton Wanderers,Leicester,4,3,2019-01-19 12:30:00,Jamie Vardy,Pass
+274629,17,SavedShot,0.815,0.5359999847412109,0.06258969753980637,Demarai Gray,a,762,OpenPlay,2018,RightFoot,9417,Wolverhampton Wanderers,Leicester,4,3,2019-01-19 12:30:00,Ricardo Pereira,Pass
+274630,18,SavedShot,0.845,0.4640000152587891,0.05140633136034012,Demarai Gray,a,762,OpenPlay,2018,LeftFoot,9417,Wolverhampton Wanderers,Leicester,4,3,2019-01-19 12:30:00,Wilfred Ndidi,Chipped
+274631,19,BlockedShot,0.875,0.445,0.1055624932050705,Demarai Gray,a,762,OpenPlay,2018,RightFoot,9417,Wolverhampton Wanderers,Leicester,4,3,2019-01-19 12:30:00,Ricardo Pereira,Pass
+274632,19,MissedShots,0.865999984741211,0.37099998474121093,0.04015233367681503,Ricardo Pereira,a,3303,OpenPlay,2018,LeftFoot,9417,Wolverhampton Wanderers,Leicester,4,3,2019-01-19 12:30:00,,Rebound
+274638,44,BlockedShot,0.759000015258789,0.3509999847412109,0.013951932080090046,Ricardo Pereira,a,3303,SetPiece,2018,RightFoot,9417,Wolverhampton Wanderers,Leicester,4,3,2019-01-19 12:30:00,Harry Maguire,HeadPass
+274639,46,Goal,0.895,0.365,0.26561814546585083,Demarai Gray,a,762,OpenPlay,2018,RightFoot,9417,Wolverhampton Wanderers,Leicester,4,3,2019-01-19 12:30:00,Jamie Vardy,TakeOn
+274640,48,SavedShot,0.914000015258789,0.685,0.06191839277744293,Harvey Barnes,a,6681,OpenPlay,2018,LeftFoot,9417,Wolverhampton Wanderers,Leicester,4,3,2019-01-19 12:30:00,Jamie Vardy,Pass
+274641,50,MissedShots,0.855999984741211,0.649000015258789,0.04621226713061333,Harvey Barnes,a,6681,OpenPlay,2018,RightFoot,9417,Wolverhampton Wanderers,Leicester,4,3,2019-01-19 12:30:00,,Tackle
+274645,73,MissedShots,0.7019999694824218,0.4329999923706055,0.01213549729436636,Demarai Gray,a,762,OpenPlay,2018,RightFoot,9417,Wolverhampton Wanderers,Leicester,4,3,2019-01-19 12:30:00,,BallRecovery
+274646,81,MissedShots,0.955,0.4370000076293945,0.13332512974739075,James Maddison,a,6818,OpenPlay,2018,RightFoot,9417,Wolverhampton Wanderers,Leicester,4,3,2019-01-19 12:30:00,Ricardo Pereira,Pass
+274647,86,Goal,0.9530000305175781,0.54,0.07669831812381744,Wes Morgan,a,748,SetPiece,2018,Head,9417,Wolverhampton Wanderers,Leicester,4,3,2019-01-19 12:30:00,James Maddison,Aerial

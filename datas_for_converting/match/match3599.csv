@@ -1,0 +1,29 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+147803,15,BlockedShot,0.8919999694824219,0.5670000076293945,0.08914056420326233,Bruno Henrique,h,1268,OpenPlay,2016,RightFoot,3599,Palermo,Sampdoria,1,1,2017-02-26 11:30:00,,None
+147804,15,SavedShot,0.9519999694824218,0.575,0.48266008496284485,Norbert Balogh,h,1536,OpenPlay,2016,RightFoot,3599,Palermo,Sampdoria,1,1,2017-02-26 11:30:00,,Rebound
+147806,20,BlockedShot,0.855,0.28100000381469725,0.0321870893239975,Bruno Henrique,h,1268,OpenPlay,2016,RightFoot,3599,Palermo,Sampdoria,1,1,2017-02-26 11:30:00,Andrea Rispoli,Pass
+147808,30,Goal,0.885,0.5,0.7612988352775574,Ilija Nestorovski,h,1272,Penalty,2016,LeftFoot,3599,Palermo,Sampdoria,1,1,2017-02-26 11:30:00,,Standard
+147809,32,MissedShots,0.845999984741211,0.5820000076293945,0.04955696687102318,Norbert Balogh,h,1536,OpenPlay,2016,RightFoot,3599,Palermo,Sampdoria,1,1,2017-02-26 11:30:00,Haitam Aleesami,Cross
+147810,37,MissedShots,0.6780000305175782,0.3509999847412109,0.01491024810820818,Roland Sallai,h,1277,OpenPlay,2016,RightFoot,3599,Palermo,Sampdoria,1,1,2017-02-26 11:30:00,Haitam Aleesami,Pass
+147811,41,MissedShots,0.7,0.53,0.017126213759183884,Ivaylo Chochev,h,1271,OpenPlay,2016,LeftFoot,3599,Palermo,Sampdoria,1,1,2017-02-26 11:30:00,Roland Sallai,Pass
+147812,56,BlockedShot,0.9290000152587891,0.2560000038146973,0.02516736462712288,Andrea Rispoli,h,1274,OpenPlay,2016,RightFoot,3599,Palermo,Sampdoria,1,1,2017-02-26 11:30:00,Roland Sallai,Cross
+147814,64,BlockedShot,0.8769999694824219,0.4570000076293945,0.11996950954198837,Roland Sallai,h,1277,OpenPlay,2016,LeftFoot,3599,Palermo,Sampdoria,1,1,2017-02-26 11:30:00,Andrea Rispoli,Pass
+147815,64,SavedShot,0.9219999694824219,0.42900001525878906,0.14392219483852386,Ilija Nestorovski,h,1272,OpenPlay,2016,LeftFoot,3599,Palermo,Sampdoria,1,1,2017-02-26 11:30:00,,Rebound
+147816,65,MissedShots,0.7819999694824219,0.664000015258789,0.031264521181583405,Norbert Balogh,h,1536,OpenPlay,2016,RightFoot,3599,Palermo,Sampdoria,1,1,2017-02-26 11:30:00,Ilija Nestorovski,Pass
+147817,69,BlockedShot,0.7809999847412109,0.5609999847412109,0.022356094792485237,Haitam Aleesami,h,1270,FromCorner,2016,RightFoot,3599,Palermo,Sampdoria,1,1,2017-02-26 11:30:00,,None
+147818,70,SavedShot,0.8930000305175781,0.6990000152587891,0.04045293480157852,Roland Sallai,h,1277,OpenPlay,2016,RightFoot,3599,Palermo,Sampdoria,1,1,2017-02-26 11:30:00,Haitam Aleesami,Cross
+147819,71,SavedShot,0.8490000152587891,0.59,0.05698161572217941,Ilija Nestorovski,h,1272,SetPiece,2016,LeftFoot,3599,Palermo,Sampdoria,1,1,2017-02-26 11:30:00,,None
+147823,91,SavedShot,0.9059999847412109,0.620999984741211,0.10387150198221207,Alessandro Diamanti,h,948,OpenPlay,2016,LeftFoot,3599,Palermo,Sampdoria,1,1,2017-02-26 11:30:00,Ilija Nestorovski,Pass
+147824,91,MissedShots,0.9169999694824219,0.55,0.07774708420038223,Ivaylo Chochev,h,1271,FromCorner,2016,Head,3599,Palermo,Sampdoria,1,1,2017-02-26 11:30:00,Carlos Embalo,Cross
+147825,95,MissedShots,0.9259999847412109,0.455,0.09832887351512909,Thiago Cionek,h,1265,FromCorner,2016,Head,3599,Palermo,Sampdoria,1,1,2017-02-26 11:30:00,Alessandro Diamanti,Cross
+147798,4,MissedShots,0.915,0.5640000152587891,0.4485710859298706,Fabio Quagliarella,a,1230,SetPiece,2016,LeftFoot,3599,Palermo,Sampdoria,1,1,2017-02-26 11:30:00,Dennis Praet,Pass
+147799,10,SavedShot,0.68,0.4540000152587891,0.011788556352257729,Luca Cigarini,a,1238,OpenPlay,2016,RightFoot,3599,Palermo,Sampdoria,1,1,2017-02-26 11:30:00,Vasco Regini,Pass
+147800,10,BlockedShot,0.9619999694824218,0.5879999923706055,0.10493154078722,Edgar Barreto,a,1225,FromCorner,2016,LeftFoot,3599,Palermo,Sampdoria,1,1,2017-02-26 11:30:00,,None
+147801,10,BlockedShot,0.9690000152587891,0.610999984741211,0.0867607370018959,Edgar Barreto,a,1225,FromCorner,2016,LeftFoot,3599,Palermo,Sampdoria,1,1,2017-02-26 11:30:00,,Rebound
+147802,11,MissedShots,0.9069999694824219,0.5159999847412109,0.050606872886419296,Patrik Schick,a,1236,OpenPlay,2016,Head,3599,Palermo,Sampdoria,1,1,2017-02-26 11:30:00,,Aerial
+147805,19,BlockedShot,0.7119999694824218,0.40599998474121096,0.014163183979690075,Dennis Praet,a,1234,OpenPlay,2016,RightFoot,3599,Palermo,Sampdoria,1,1,2017-02-26 11:30:00,Edgar Barreto,HeadPass
+147807,23,MissedShots,0.7580000305175781,0.6229999923706054,0.020245635882019997,Patrik Schick,a,1236,OpenPlay,2016,LeftFoot,3599,Palermo,Sampdoria,1,1,2017-02-26 11:30:00,Dennis Praet,BallTouch
+147813,58,MissedShots,0.9080000305175782,0.555,0.060615938156843185,Matías Silvestre,a,1222,FromCorner,2016,Head,3599,Palermo,Sampdoria,1,1,2017-02-26 11:30:00,Luca Cigarini,Cross
+147820,85,SavedShot,0.919000015258789,0.5029999923706054,0.2913261353969574,Bruno Fernandes,a,1228,OpenPlay,2016,Head,3599,Palermo,Sampdoria,1,1,2017-02-26 11:30:00,Fabio Quagliarella,Cross
+147821,85,MissedShots,0.919000015258789,0.42400001525878905,0.06384635716676712,Patrik Schick,a,1236,OpenPlay,2016,Head,3599,Palermo,Sampdoria,1,1,2017-02-26 11:30:00,Fabio Quagliarella,Cross
+147822,89,Goal,0.8730000305175781,0.45599998474121095,0.09625072777271271,Fabio Quagliarella,a,1230,OpenPlay,2016,RightFoot,3599,Palermo,Sampdoria,1,1,2017-02-26 11:30:00,Luis Muriel,Pass

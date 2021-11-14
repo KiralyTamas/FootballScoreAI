@@ -1,0 +1,27 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+116693,1,Goal,0.915,0.455,0.11191748827695847,Virgil van Dijk,h,833,SetPiece,2016,Head,3154,Southampton,Tottenham,1,4,2016-12-28 23:45:00,James Ward-Prowse,Cross
+116695,7,MissedShots,0.8469999694824218,0.28299999237060547,0.0369841530919075,Jay Rodriguez,h,844,OpenPlay,2016,RightFoot,3154,Southampton,Tottenham,1,4,2016-12-28 23:45:00,Nathan Redmond,Pass
+116696,15,BlockedShot,0.8580000305175781,0.6759999847412109,0.060755155980587006,Ryan Bertrand,h,835,OpenPlay,2016,RightFoot,3154,Southampton,Tottenham,1,4,2016-12-28 23:45:00,,None
+116697,15,BlockedShot,0.815,0.639000015258789,0.0386960469186306,José Fonte,h,834,OpenPlay,2016,RightFoot,3154,Southampton,Tottenham,1,4,2016-12-28 23:45:00,Ryan Bertrand,Pass
+116698,15,MissedShots,0.8330000305175781,0.24700000762939453,0.025765448808670044,Nathan Redmond,h,790,OpenPlay,2016,RightFoot,3154,Southampton,Tottenham,1,4,2016-12-28 23:45:00,Steven Davis,Pass
+116707,53,MissedShots,0.8980000305175782,0.5370000076293945,0.08071022480726242,José Fonte,h,834,SetPiece,2016,Head,3154,Southampton,Tottenham,1,4,2016-12-28 23:45:00,James Ward-Prowse,Cross
+116709,60,BlockedShot,0.7140000152587891,0.4209999847412109,0.00988015253096819,Cédric Soares,h,847,SetPiece,2016,RightFoot,3154,Southampton,Tottenham,1,4,2016-12-28 23:45:00,,None
+116715,79,SavedShot,0.7040000152587891,0.544000015258789,0.012125055305659771,Pierre-Emile Højbjerg,h,343,OpenPlay,2016,LeftFoot,3154,Southampton,Tottenham,1,4,2016-12-28 23:45:00,,None
+116716,79,BlockedShot,0.799000015258789,0.6780000305175782,0.02690952457487583,Shane Long,h,839,OpenPlay,2016,RightFoot,3154,Southampton,Tottenham,1,4,2016-12-28 23:45:00,Oriol Romeu,Pass
+116694,4,MissedShots,0.8019999694824219,0.7169999694824218,0.02124113216996193,Harry Kane,a,647,SetPiece,2016,RightFoot,3154,Southampton,Tottenham,1,4,2016-12-28 23:45:00,Danny Rose,Chipped
+116699,18,BlockedShot,0.7419999694824219,0.49700000762939456,0.02001568116247654,Christian Eriksen,a,646,OpenPlay,2016,RightFoot,3154,Southampton,Tottenham,1,4,2016-12-28 23:45:00,Mousa Dembélé,Pass
+116700,18,Goal,0.9259999847412109,0.5220000076293946,0.051532141864299774,Dele Alli,a,645,OpenPlay,2016,Head,3154,Southampton,Tottenham,1,4,2016-12-28 23:45:00,,None
+116701,30,BlockedShot,0.8090000152587891,0.445,0.054384469985961914,Christian Eriksen,a,646,OpenPlay,2016,RightFoot,3154,Southampton,Tottenham,1,4,2016-12-28 23:45:00,Mousa Dembélé,Pass
+116702,30,MissedShots,0.8430000305175781,0.5570000076293945,0.05278119817376137,Christian Eriksen,a,646,FromCorner,2016,RightFoot,3154,Southampton,Tottenham,1,4,2016-12-28 23:45:00,,None
+116703,37,MissedShots,0.745,0.649000015258789,0.017822353169322014,Danny Rose,a,641,FromCorner,2016,LeftFoot,3154,Southampton,Tottenham,1,4,2016-12-28 23:45:00,Christian Eriksen,Pass
+116704,39,MissedShots,0.759000015258789,0.5709999847412109,0.021308502182364464,Dele Alli,a,645,OpenPlay,2016,RightFoot,3154,Southampton,Tottenham,1,4,2016-12-28 23:45:00,,None
+116705,42,BlockedShot,0.915,0.4229999923706055,0.1288728564977646,Victor Wanyama,a,836,OpenPlay,2016,LeftFoot,3154,Southampton,Tottenham,1,4,2016-12-28 23:45:00,Moussa Sissoko,TakeOn
+116706,51,Goal,0.925,0.40400001525878904,0.04470061510801315,Harry Kane,a,647,FromCorner,2016,Head,3154,Southampton,Tottenham,1,4,2016-12-28 23:45:00,Christian Eriksen,Cross
+116708,57,MissedShots,0.885,0.5,0.7611688375473022,Harry Kane,a,647,Penalty,2016,RightFoot,3154,Southampton,Tottenham,1,4,2016-12-28 23:45:00,,Standard
+116710,66,SavedShot,0.735999984741211,0.5320000076293945,0.022567737847566605,Victor Wanyama,a,836,OpenPlay,2016,LeftFoot,3154,Southampton,Tottenham,1,4,2016-12-28 23:45:00,Christian Eriksen,Pass
+116711,67,BlockedShot,0.8390000152587891,0.3609999847412109,0.01378161832690239,Kyle Walker,a,638,FromCorner,2016,RightFoot,3154,Southampton,Tottenham,1,4,2016-12-28 23:45:00,Christian Eriksen,Chipped
+116712,70,ShotOnPost,0.865999984741211,0.44299999237060544,0.09919854253530502,Christian Eriksen,a,646,OpenPlay,2016,RightFoot,3154,Southampton,Tottenham,1,4,2016-12-28 23:45:00,,None
+116713,73,MissedShots,0.9290000152587891,0.6409999847412109,0.11171789467334747,Danny Rose,a,641,OpenPlay,2016,LeftFoot,3154,Southampton,Tottenham,1,4,2016-12-28 23:45:00,Christian Eriksen,Pass
+116714,74,BlockedShot,0.794000015258789,0.27899999618530275,0.020607255399227142,Christian Eriksen,a,646,OpenPlay,2016,LeftFoot,3154,Southampton,Tottenham,1,4,2016-12-28 23:45:00,Kyle Walker,TakeOn
+116717,84,Goal,0.8830000305175781,0.6530000305175782,0.07523282617330551,Son Heung-Min,a,453,OpenPlay,2016,LeftFoot,3154,Southampton,Tottenham,1,4,2016-12-28 23:45:00,,None
+116718,86,Goal,0.8730000305175781,0.639000015258789,0.09341230988502502,Dele Alli,a,645,OpenPlay,2016,RightFoot,3154,Southampton,Tottenham,1,4,2016-12-28 23:45:00,Danny Rose,Pass

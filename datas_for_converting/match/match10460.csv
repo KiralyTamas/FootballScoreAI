@@ -1,0 +1,29 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+257078,11,SavedShot,0.8680000305175781,0.765,0.04503142088651657,Christian Günter,h,4243,OpenPlay,2018,LeftFoot,10460,Freiburg,RasenBallsport Leipzig,3,0,2018-12-08 14:30:00,Gian-Luca Waldschmidt,Pass
+257079,11,Goal,0.9359999847412109,0.47,0.648246169090271,Nils Petersen,h,4248,OpenPlay,2018,LeftFoot,10460,Freiburg,RasenBallsport Leipzig,3,0,2018-12-08 14:30:00,,Rebound
+257084,30,SavedShot,0.735999984741211,0.534000015258789,0.02392803132534027,Gian-Luca Waldschmidt,h,294,OpenPlay,2018,LeftFoot,10460,Freiburg,RasenBallsport Leipzig,3,0,2018-12-08 14:30:00,,None
+257085,33,BlockedShot,0.725,0.485,0.012810728512704372,Gian-Luca Waldschmidt,h,294,FromCorner,2018,RightFoot,10460,Freiburg,RasenBallsport Leipzig,3,0,2018-12-08 14:30:00,,Aerial
+257087,45,Goal,0.885,0.5,0.75777667760849,Gian-Luca Waldschmidt,h,294,Penalty,2018,LeftFoot,10460,Freiburg,RasenBallsport Leipzig,3,0,2018-12-08 14:30:00,,Standard
+257088,47,SavedShot,0.7780000305175782,0.5879999923706055,0.014392786659300327,Jérôme Gondorf,h,8,OpenPlay,2018,RightFoot,10460,Freiburg,RasenBallsport Leipzig,3,0,2018-12-08 14:30:00,,Aerial
+257089,51,Goal,0.925,0.5770000076293945,0.21923018991947174,Mike Frantz,h,4246,OpenPlay,2018,Head,10460,Freiburg,RasenBallsport Leipzig,3,0,2018-12-08 14:30:00,Lukas Kübler,Cross
+257090,53,SavedShot,0.8080000305175781,0.7959999847412109,0.024933921173214912,Mike Frantz,h,4246,OpenPlay,2018,RightFoot,10460,Freiburg,RasenBallsport Leipzig,3,0,2018-12-08 14:30:00,Gian-Luca Waldschmidt,Pass
+257091,58,MissedShots,0.8490000152587891,0.6530000305175782,0.13557887077331543,Nils Petersen,h,4248,OpenPlay,2018,LeftFoot,10460,Freiburg,RasenBallsport Leipzig,3,0,2018-12-08 14:30:00,Jérôme Gondorf,Chipped
+257092,59,BlockedShot,0.7709999847412109,0.36900001525878906,0.041807617992162704,Robin Koch,h,6273,OpenPlay,2018,RightFoot,10460,Freiburg,RasenBallsport Leipzig,3,0,2018-12-08 14:30:00,,TakeOn
+257095,61,SavedShot,0.9269999694824219,0.6840000152587891,0.10690969973802567,Mike Frantz,h,4246,OpenPlay,2018,LeftFoot,10460,Freiburg,RasenBallsport Leipzig,3,0,2018-12-08 14:30:00,Gian-Luca Waldschmidt,Pass
+257096,64,SavedShot,0.88,0.445,0.03204318881034851,Gian-Luca Waldschmidt,h,294,OpenPlay,2018,Head,10460,Freiburg,RasenBallsport Leipzig,3,0,2018-12-08 14:30:00,Nils Petersen,HeadPass
+257077,7,BlockedShot,0.7440000152587891,0.4329999923706055,0.022347571328282356,Kevin Kampl,a,188,OpenPlay,2018,LeftFoot,10460,Freiburg,RasenBallsport Leipzig,3,0,2018-12-08 14:30:00,Yussuf Poulsen,LayOff
+257080,14,MissedShots,0.765,0.2620000076293945,0.013163006864488125,Matheus Cunha,a,7080,OpenPlay,2018,RightFoot,10460,Freiburg,RasenBallsport Leipzig,3,0,2018-12-08 14:30:00,,Dispossessed
+257081,18,SavedShot,0.9230000305175782,0.32799999237060545,0.31882208585739136,Timo Werner,a,65,OpenPlay,2018,RightFoot,10460,Freiburg,RasenBallsport Leipzig,3,0,2018-12-08 14:30:00,Kevin Kampl,Throughball
+257082,22,BlockedShot,0.9159999847412109,0.47900001525878905,0.09181899577379227,Dayotchanculle Upamecano,a,5243,FromCorner,2018,RightFoot,10460,Freiburg,RasenBallsport Leipzig,3,0,2018-12-08 14:30:00,Marcel Halstenberg,Cross
+257083,24,MissedShots,0.9690000152587891,0.624000015258789,0.0435434952378273,Timo Werner,a,65,FromCorner,2018,RightFoot,10460,Freiburg,RasenBallsport Leipzig,3,0,2018-12-08 14:30:00,Marcel Halstenberg,Cross
+257086,36,BlockedShot,0.7819999694824219,0.5279999923706055,0.040280018001794815,Yussuf Poulsen,a,5250,OpenPlay,2018,RightFoot,10460,Freiburg,RasenBallsport Leipzig,3,0,2018-12-08 14:30:00,Kevin Kampl,TakeOn
+257093,60,MissedShots,0.749000015258789,0.5459999847412109,0.022362006828188896,Dayotchanculle Upamecano,a,5243,OpenPlay,2018,RightFoot,10460,Freiburg,RasenBallsport Leipzig,3,0,2018-12-08 14:30:00,Matheus Cunha,Pass
+257094,60,BlockedShot,0.87,0.32599998474121095,0.09023693948984146,Yussuf Poulsen,a,5250,OpenPlay,2018,LeftFoot,10460,Freiburg,RasenBallsport Leipzig,3,0,2018-12-08 14:30:00,Diego Demme,TakeOn
+257097,65,MissedShots,0.9440000152587891,0.4329999923706055,0.10786783695220947,Dayotchanculle Upamecano,a,5243,FromCorner,2018,Head,10460,Freiburg,RasenBallsport Leipzig,3,0,2018-12-08 14:30:00,Diego Demme,Cross
+257098,68,BlockedShot,0.8159999847412109,0.3629999923706055,0.030185764655470848,Matheus Cunha,a,7080,OpenPlay,2018,LeftFoot,10460,Freiburg,RasenBallsport Leipzig,3,0,2018-12-08 14:30:00,Dayotchanculle Upamecano,None
+257099,68,MissedShots,0.9319999694824219,0.509000015258789,0.12355783581733704,Ibrahima Konaté,a,6326,FromCorner,2018,Head,10460,Freiburg,RasenBallsport Leipzig,3,0,2018-12-08 14:30:00,Diego Demme,Cross
+257100,68,BlockedShot,0.914000015258789,0.4779999923706055,0.11609287559986115,Yussuf Poulsen,a,5250,FromCorner,2018,RightFoot,10460,Freiburg,RasenBallsport Leipzig,3,0,2018-12-08 14:30:00,Timo Werner,Pass
+257101,76,SavedShot,0.7440000152587891,0.6430000305175781,0.052319902926683426,Marcel Sabitzer,a,5248,DirectFreekick,2018,RightFoot,10460,Freiburg,RasenBallsport Leipzig,3,0,2018-12-08 14:30:00,,Standard
+257102,81,SavedShot,0.7609999847412109,0.33799999237060546,0.05828218162059784,Marcel Halstenberg,a,5254,DirectFreekick,2018,LeftFoot,10460,Freiburg,RasenBallsport Leipzig,3,0,2018-12-08 14:30:00,,Standard
+257103,81,MissedShots,0.9159999847412109,0.3320000076293945,0.05504661425948143,Marcel Sabitzer,a,5248,SetPiece,2018,RightFoot,10460,Freiburg,RasenBallsport Leipzig,3,0,2018-12-08 14:30:00,,Rebound
+257104,87,SavedShot,0.9719999694824218,0.6869999694824219,0.04746074974536896,Timo Werner,a,65,OpenPlay,2018,LeftFoot,10460,Freiburg,RasenBallsport Leipzig,3,0,2018-12-08 14:30:00,Marcelo Saracchi,Pass

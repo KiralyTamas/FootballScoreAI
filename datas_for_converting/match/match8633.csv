@@ -1,0 +1,19 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+163749,13,SavedShot,0.7169999694824218,0.6140000152587891,0.01624070666730404,Jonathan Bamba,h,3749,OpenPlay,2017,RightFoot,8633,Saint-Etienne,Rennes,2,2,2017-09-24 14:00:00,Rémy Cabella,Pass
+163753,37,BlockedShot,0.7980000305175782,0.2989999961853027,0.025933200493454933,Jonathan Bamba,h,3749,OpenPlay,2017,LeftFoot,8633,Saint-Etienne,Rennes,2,2,2017-09-24 14:00:00,Rémy Cabella,Pass
+163755,46,Goal,0.935,0.5109999847412109,0.5340157747268677,Gabriel Silva,h,1920,FromCorner,2017,RightFoot,8633,Saint-Etienne,Rennes,2,2,2017-09-24 14:00:00,Loic Perrin,Pass
+163757,67,MissedShots,0.8669999694824219,0.8019999694824219,0.06168113276362419,Jonathan Bamba,h,3749,DirectFreekick,2017,RightFoot,8633,Saint-Etienne,Rennes,2,2,2017-09-24 14:00:00,,Standard
+163758,69,Goal,0.885,0.5,0.7600951194763184,Jonathan Bamba,h,3749,Penalty,2017,RightFoot,8633,Saint-Etienne,Rennes,2,2,2017-09-24 14:00:00,,Standard
+163759,72,SavedShot,0.9459999847412109,0.53,0.4814700782299042,Kévin Monnet-Paquet,h,3513,OpenPlay,2017,Head,8633,Saint-Etienne,Rennes,2,2,2017-09-24 14:00:00,Rémy Cabella,Chipped
+163762,86,MissedShots,0.9,0.73,0.03448878228664398,Jonathan Bamba,h,3749,OpenPlay,2017,LeftFoot,8633,Saint-Etienne,Rennes,2,2,2017-09-24 14:00:00,Alexander Søderlund,Pass
+163764,89,ShotOnPost,0.8819999694824219,0.4909999847412109,0.01943989284336567,Kévin Monnet-Paquet,h,3513,SetPiece,2017,Head,8633,Saint-Etienne,Rennes,2,2,2017-09-24 14:00:00,Rémy Cabella,Aerial
+163765,92,MissedShots,0.905,0.5029999923706054,0.07641448825597763,Bryan Dabo,h,3340,FromCorner,2017,Head,8633,Saint-Etienne,Rennes,2,2,2017-09-24 14:00:00,Jonathan Bamba,Cross
+163748,6,BlockedShot,0.8630000305175781,0.6930000305175781,0.04717821255326271,Firmin Ndombe Mubele,a,5687,OpenPlay,2017,RightFoot,8633,Saint-Etienne,Rennes,2,2,2017-09-24 14:00:00,Ludovic Baal,Pass
+163750,32,MissedShots,0.7390000152587891,0.635,0.049759939312934875,Benjamin Bourigeaud,a,4773,DirectFreekick,2017,RightFoot,8633,Saint-Etienne,Rennes,2,2,2017-09-24 14:00:00,,Standard
+163751,36,BlockedShot,0.725,0.7230000305175781,0.03458309918642044,Wahbi Khazri,a,734,DirectFreekick,2017,RightFoot,8633,Saint-Etienne,Rennes,2,2,2017-09-24 14:00:00,,Standard
+163752,36,SavedShot,0.8119999694824219,0.4909999847412109,0.04407941550016403,Benjamin André,a,3223,SetPiece,2017,RightFoot,8633,Saint-Etienne,Rennes,2,2,2017-09-24 14:00:00,,None
+163754,40,Goal,0.750999984741211,0.6140000152587891,0.019284408539533615,Benjamin Bourigeaud,a,4773,OpenPlay,2017,RightFoot,8633,Saint-Etienne,Rennes,2,2,2017-09-24 14:00:00,,BallRecovery
+163756,52,Goal,0.885,0.5,0.7600951194763184,Wahbi Khazri,a,734,Penalty,2017,RightFoot,8633,Saint-Etienne,Rennes,2,2,2017-09-24 14:00:00,,Standard
+163760,81,BlockedShot,0.9059999847412109,0.36,0.05371783301234245,Benjamin André,a,3223,FromCorner,2017,RightFoot,8633,Saint-Etienne,Rennes,2,2,2017-09-24 14:00:00,Benjamin Bourigeaud,Pass
+163761,81,BlockedShot,0.909000015258789,0.41900001525878905,0.10523661971092224,Firmin Ndombe Mubele,a,5687,FromCorner,2017,RightFoot,8633,Saint-Etienne,Rennes,2,2,2017-09-24 14:00:00,Benjamin André,Rebound
+163763,88,SavedShot,0.8930000305175781,0.425,0.3027791976928711,Morgan Amalfitano,a,3364,OpenPlay,2017,RightFoot,8633,Saint-Etienne,Rennes,2,2,2017-09-24 14:00:00,Faitout Maouassa,Cross

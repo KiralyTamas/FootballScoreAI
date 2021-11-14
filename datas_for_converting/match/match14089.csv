@@ -1,0 +1,40 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+399938,3,SavedShot,0.9669999694824218,0.44599998474121094,0.5364888310432434,Bernardo Silva,h,3635,FromCorner,2020,LeftFoot,14089,Manchester City,Aston Villa,2,0,2021-01-20 20:00:00,Rodri,HeadPass
+399939,3,BlockedShot,0.960999984741211,0.500999984741211,0.6845390200614929,John Stones,h,586,FromCorner,2020,LeftFoot,14089,Manchester City,Aston Villa,2,0,2021-01-20 20:00:00,,Rebound
+399940,7,BlockedShot,0.8219999694824218,0.654000015258789,0.041222069412469864,Kevin De Bruyne,h,447,OpenPlay,2020,RightFoot,14089,Manchester City,Aston Villa,2,0,2021-01-20 20:00:00,Phil Foden,Pass
+399941,8,BlockedShot,0.895,0.5509999847412109,0.09973420202732086,Phil Foden,h,6055,OpenPlay,2020,RightFoot,14089,Manchester City,Aston Villa,2,0,2021-01-20 20:00:00,Kevin De Bruyne,TakeOn
+399942,11,BlockedShot,0.9080000305175782,0.6270000076293946,0.09505848586559296,Phil Foden,h,6055,OpenPlay,2020,LeftFoot,14089,Manchester City,Aston Villa,2,0,2021-01-20 20:00:00,João Cancelo,Pass
+399943,11,BlockedShot,0.730999984741211,0.59,0.016083186492323875,Rodri,h,2496,OpenPlay,2020,RightFoot,14089,Manchester City,Aston Villa,2,0,2021-01-20 20:00:00,,BallRecovery
+399944,12,MissedShots,0.8930000305175781,0.7230000305175781,0.041440948843955994,João Cancelo,h,2379,OpenPlay,2020,RightFoot,14089,Manchester City,Aston Villa,2,0,2021-01-20 20:00:00,Phil Foden,TakeOn
+399945,22,SavedShot,0.9,0.524000015258789,0.10069047659635544,Rodri,h,2496,FromCorner,2020,LeftFoot,14089,Manchester City,Aston Villa,2,0,2021-01-20 20:00:00,,None
+399947,28,BlockedShot,0.815,0.5109999847412109,0.05658473074436188,Kevin De Bruyne,h,447,OpenPlay,2020,LeftFoot,14089,Manchester City,Aston Villa,2,0,2021-01-20 20:00:00,Ilkay Gündogan,Pass
+399948,31,BlockedShot,0.755,0.5459999847412109,0.019044747576117516,Rodri,h,2496,OpenPlay,2020,RightFoot,14089,Manchester City,Aston Villa,2,0,2021-01-20 20:00:00,Phil Foden,Pass
+399949,31,MissedShots,0.9159999847412109,0.4759999847412109,0.14131100475788116,Raheem Sterling,h,618,OpenPlay,2020,RightFoot,14089,Manchester City,Aston Villa,2,0,2021-01-20 20:00:00,Rodri,Rebound
+399951,42,SavedShot,0.9130000305175782,0.6869999694824219,0.008125483058393002,Phil Foden,h,6055,OpenPlay,2020,Head,14089,Manchester City,Aston Villa,2,0,2021-01-20 20:00:00,Rodri,Cross
+399953,45,BlockedShot,0.9030000305175782,0.615,0.13708563148975372,Phil Foden,h,6055,OpenPlay,2020,LeftFoot,14089,Manchester City,Aston Villa,2,0,2021-01-20 20:00:00,Kevin De Bruyne,Pass
+399954,46,BlockedShot,0.885,0.28,0.04178999736905098,Raheem Sterling,h,618,OpenPlay,2020,RightFoot,14089,Manchester City,Aston Villa,2,0,2021-01-20 20:00:00,João Cancelo,Pass
+399955,50,MissedShots,0.8830000305175781,0.6630000305175782,0.07514611631631851,Ilkay Gündogan,h,314,OpenPlay,2020,RightFoot,14089,Manchester City,Aston Villa,2,0,2021-01-20 20:00:00,Phil Foden,Pass
+399957,52,SavedShot,0.784000015258789,0.6680000305175782,0.02086290344595909,Kevin De Bruyne,h,447,OpenPlay,2020,RightFoot,14089,Manchester City,Aston Villa,2,0,2021-01-20 20:00:00,Ilkay Gündogan,Pass
+399958,53,ShotOnPost,0.8919999694824219,0.34299999237060547,0.07804669439792633,João Cancelo,h,2379,OpenPlay,2020,LeftFoot,14089,Manchester City,Aston Villa,2,0,2021-01-20 20:00:00,Kevin De Bruyne,Pass
+399959,57,MissedShots,0.8959999847412109,0.655,0.06146397814154625,Phil Foden,h,6055,OpenPlay,2020,RightFoot,14089,Manchester City,Aston Villa,2,0,2021-01-20 20:00:00,,None
+399961,60,BlockedShot,0.735,0.5120000076293946,0.02039143443107605,Gabriel Jesus,h,5543,OpenPlay,2020,RightFoot,14089,Manchester City,Aston Villa,2,0,2021-01-20 20:00:00,Raheem Sterling,Pass
+399962,62,MissedShots,0.9119999694824219,0.5420000076293945,0.11510482430458069,Ilkay Gündogan,h,314,OpenPlay,2020,RightFoot,14089,Manchester City,Aston Villa,2,0,2021-01-20 20:00:00,Gabriel Jesus,BallTouch
+399967,68,BlockedShot,0.8830000305175781,0.5420000076293945,0.12043686956167221,Ilkay Gündogan,h,314,OpenPlay,2020,RightFoot,14089,Manchester City,Aston Villa,2,0,2021-01-20 20:00:00,Phil Foden,Pass
+399968,68,SavedShot,0.9159999847412109,0.5979999923706054,0.035312388092279434,Ilkay Gündogan,h,314,FromCorner,2020,Head,14089,Manchester City,Aston Villa,2,0,2021-01-20 20:00:00,Phil Foden,Cross
+399969,68,SavedShot,0.9780000305175781,0.54,0.13102568686008453,Rúben Dias,h,8961,FromCorner,2020,RightFoot,14089,Manchester City,Aston Villa,2,0,2021-01-20 20:00:00,,FormationChange
+399970,71,BlockedShot,0.8690000152587891,0.555,0.09852868318557739,Ilkay Gündogan,h,314,OpenPlay,2020,RightFoot,14089,Manchester City,Aston Villa,2,0,2021-01-20 20:00:00,Raheem Sterling,Pass
+399973,78,Goal,0.8219999694824218,0.4879999923706055,0.07346561551094055,Bernardo Silva,h,3635,OpenPlay,2020,LeftFoot,14089,Manchester City,Aston Villa,2,0,2021-01-20 20:00:00,Rodri,Pass
+399974,87,SavedShot,0.745999984741211,0.35700000762939454,0.023079538717865944,João Cancelo,h,2379,OpenPlay,2020,RightFoot,14089,Manchester City,Aston Villa,2,0,2021-01-20 20:00:00,Bernardo Silva,Pass
+399975,88,MissedShots,0.9519999694824218,0.61,0.08055461198091507,Gabriel Jesus,h,5543,OpenPlay,2020,Head,14089,Manchester City,Aston Villa,2,0,2021-01-20 20:00:00,Riyad Mahrez,Cross
+399976,89,Goal,0.885,0.5,0.7611688375473022,Ilkay Gündogan,h,314,Penalty,2020,RightFoot,14089,Manchester City,Aston Villa,2,0,2021-01-20 20:00:00,,Standard
+399946,26,MissedShots,0.9580000305175781,0.6909999847412109,0.06414399296045303,Bertrand Traoré,a,695,OpenPlay,2020,LeftFoot,14089,Manchester City,Aston Villa,2,0,2021-01-20 20:00:00,Jack Grealish,Pass
+399950,36,SavedShot,0.815,0.6840000152587891,0.023649556562304497,Ross Barkley,a,592,OpenPlay,2020,RightFoot,14089,Manchester City,Aston Villa,2,0,2021-01-20 20:00:00,Jack Grealish,Pass
+399952,44,BlockedShot,0.845,0.6179999923706054,0.09757942706346512,Ross Barkley,a,592,OpenPlay,2020,RightFoot,14089,Manchester City,Aston Villa,2,0,2021-01-20 20:00:00,Ollie Watkins,Pass
+399956,51,SavedShot,0.794000015258789,0.3370000076293945,0.04301387071609497,Bertrand Traoré,a,695,OpenPlay,2020,LeftFoot,14089,Manchester City,Aston Villa,2,0,2021-01-20 20:00:00,Emiliano Martinez,Pass
+399960,60,BlockedShot,0.8980000305175782,0.37900001525878907,0.034705255180597305,Ross Barkley,a,592,SetPiece,2020,RightFoot,14089,Manchester City,Aston Villa,2,0,2021-01-20 20:00:00,,Aerial
+399963,63,SavedShot,0.7580000305175781,0.415,0.0201139934360981,Douglas Luiz,a,6122,OpenPlay,2020,RightFoot,14089,Manchester City,Aston Villa,2,0,2021-01-20 20:00:00,,None
+399964,65,BlockedShot,0.765,0.455,0.07612050324678421,Douglas Luiz,a,6122,DirectFreekick,2020,RightFoot,14089,Manchester City,Aston Villa,2,0,2021-01-20 20:00:00,,Standard
+399965,66,MissedShots,0.9069999694824219,0.3820000076293945,0.07726436853408813,Bertrand Traoré,a,695,OpenPlay,2020,LeftFoot,14089,Manchester City,Aston Villa,2,0,2021-01-20 20:00:00,,None
+399966,66,SavedShot,0.775,0.3940000152587891,0.019354727119207382,Douglas Luiz,a,6122,OpenPlay,2020,RightFoot,14089,Manchester City,Aston Villa,2,0,2021-01-20 20:00:00,,Rebound
+399971,75,MissedShots,0.8819999694824219,0.46599998474121096,0.036774031817913055,Ollie Watkins,a,8865,OpenPlay,2020,Head,14089,Manchester City,Aston Villa,2,0,2021-01-20 20:00:00,,Aerial
+399972,75,MissedShots,0.88,0.5690000152587891,0.11054336279630661,John McGinn,a,7723,OpenPlay,2020,LeftFoot,14089,Manchester City,Aston Villa,2,0,2021-01-20 20:00:00,Jack Grealish,Pass

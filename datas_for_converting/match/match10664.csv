@@ -1,0 +1,25 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+220171,11,Goal,0.9280000305175782,0.5509999847412109,0.535251796245575,Edinson Cavani,h,3294,OpenPlay,2018,RightFoot,10664,Paris Saint Germain,Angers,3,1,2018-08-25 18:00:00,,None
+220172,13,ShotOnPost,0.909000015258789,0.46,0.27168184518814087,Edinson Cavani,h,3294,OpenPlay,2018,Head,10664,Paris Saint Germain,Angers,3,1,2018-08-25 18:00:00,Neymar,Cross
+220176,23,BlockedShot,0.9209999847412109,0.5479999923706055,0.11725184321403503,Neymar,h,2099,OpenPlay,2018,Head,10664,Paris Saint Germain,Angers,3,1,2018-08-25 18:00:00,Edinson Cavani,Cross
+220179,28,SavedShot,0.8959999847412109,0.6370000076293946,0.3187292814254761,Kylian Mbappe-Lottin,h,3423,OpenPlay,2018,LeftFoot,10664,Paris Saint Germain,Angers,3,1,2018-08-25 18:00:00,,None
+220181,37,BlockedShot,0.740999984741211,0.44299999237060544,0.016339050605893135,Marquinhos,h,3297,OpenPlay,2018,RightFoot,10664,Paris Saint Germain,Angers,3,1,2018-08-25 18:00:00,,None
+220183,50,Goal,0.8830000305175781,0.34900001525878904,0.03101949393749237,Kylian Mbappe-Lottin,h,3423,OpenPlay,2018,RightFoot,10664,Paris Saint Germain,Angers,3,1,2018-08-25 18:00:00,Ángel Di María,Cross
+220184,56,MissedShots,0.789000015258789,0.6859999847412109,0.03131667524576187,Ángel Di María,h,3553,OpenPlay,2018,LeftFoot,10664,Paris Saint Germain,Angers,3,1,2018-08-25 18:00:00,Kylian Mbappe-Lottin,Pass
+220185,62,MissedShots,0.8859999847412109,0.30700000762939456,0.06907551735639572,Kylian Mbappe-Lottin,h,3423,OpenPlay,2018,RightFoot,10664,Paris Saint Germain,Angers,3,1,2018-08-25 18:00:00,Thomas Meunier,Pass
+220186,64,MissedShots,0.8619999694824219,0.72,0.044200390577316284,Edinson Cavani,h,3294,OpenPlay,2018,RightFoot,10664,Paris Saint Germain,Angers,3,1,2018-08-25 18:00:00,Ángel Di María,Pass
+220187,65,Goal,0.8959999847412109,0.4420000076293945,0.41770797967910767,Neymar,h,2099,OpenPlay,2018,LeftFoot,10664,Paris Saint Germain,Angers,3,1,2018-08-25 18:00:00,Kylian Mbappe-Lottin,Pass
+220188,68,BlockedShot,0.8580000305175781,0.674000015258789,0.07128201425075531,Adrien Rabiot,h,3291,OpenPlay,2018,LeftFoot,10664,Paris Saint Germain,Angers,3,1,2018-08-25 18:00:00,Ángel Di María,Pass
+220190,70,MissedShots,0.8530000305175781,0.75,0.04235067218542099,Ángel Di María,h,3553,OpenPlay,2018,LeftFoot,10664,Paris Saint Germain,Angers,3,1,2018-08-25 18:00:00,Neymar,Pass
+220191,86,SavedShot,0.9569999694824218,0.68,0.06602174043655396,Kylian Mbappe-Lottin,h,3423,OpenPlay,2018,LeftFoot,10664,Paris Saint Germain,Angers,3,1,2018-08-25 18:00:00,,None
+220170,1,MissedShots,0.8490000152587891,0.265,0.050431933254003525,Cheikh Ndoye,a,3492,OpenPlay,2018,RightFoot,10664,Paris Saint Germain,Angers,3,1,2018-08-25 18:00:00,Angelo Fulgini,Pass
+220173,15,SavedShot,0.9219999694824219,0.45,0.04615546017885208,Cheikh Ndoye,a,3492,OpenPlay,2018,Head,10664,Paris Saint Germain,Angers,3,1,2018-08-25 18:00:00,Thomas Mangani,Aerial
+220174,19,BlockedShot,0.7340000152587891,0.4,0.014110648073256016,Cheikh Ndoye,a,3492,OpenPlay,2018,RightFoot,10664,Paris Saint Germain,Angers,3,1,2018-08-25 18:00:00,Jeff Reine-Adelaide,TakeOn
+220175,21,Goal,0.885,0.5,0.7600951194763184,Thomas Mangani,a,3490,Penalty,2018,LeftFoot,10664,Paris Saint Germain,Angers,3,1,2018-08-25 18:00:00,,Standard
+220177,26,SavedShot,0.7119999694824218,0.745999984741211,0.010934822261333466,Flavien Tait,a,5655,OpenPlay,2018,RightFoot,10664,Paris Saint Germain,Angers,3,1,2018-08-25 18:00:00,Thomas Mangani,Pass
+220178,27,SavedShot,0.9,0.5770000076293945,0.3922094404697418,Jeff Reine-Adelaide,a,1056,OpenPlay,2018,LeftFoot,10664,Paris Saint Germain,Angers,3,1,2018-08-25 18:00:00,Thomas Mangani,Pass
+220180,30,BlockedShot,0.7340000152587891,0.3820000076293945,0.016075342893600464,Vincent Manceau,a,3486,OpenPlay,2018,RightFoot,10664,Paris Saint Germain,Angers,3,1,2018-08-25 18:00:00,,BallTouch
+220182,43,MissedShots,0.9069999694824219,0.44299999237060544,0.07608243823051453,Angelo Fulgini,a,6019,OpenPlay,2018,Head,10664,Paris Saint Germain,Angers,3,1,2018-08-25 18:00:00,Pierrick Capelle,Cross
+220189,69,SavedShot,0.7980000305175782,0.7030000305175781,0.020736269652843475,Wilfried Kanga,a,6251,OpenPlay,2018,RightFoot,10664,Paris Saint Germain,Angers,3,1,2018-08-25 18:00:00,Cheikh Ndoye,Pass
+220192,90,ShotOnPost,0.8859999847412109,0.4520000076293945,0.1037965714931488,Wilfried Kanga,a,6251,OpenPlay,2018,RightFoot,10664,Paris Saint Germain,Angers,3,1,2018-08-25 18:00:00,Thomas Mangani,Pass
+220193,92,SavedShot,0.7619999694824219,0.30100000381469727,0.015269964002072811,Flavien Tait,a,5655,OpenPlay,2018,RightFoot,10664,Paris Saint Germain,Angers,3,1,2018-08-25 18:00:00,Farid El Melali,Pass

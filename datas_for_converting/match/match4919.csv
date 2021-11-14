@@ -1,0 +1,25 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+46720,7,MissedShots,0.92,0.5770000076293945,0.266594797372818,Nicola Sansone,h,1826,OpenPlay,2014,Head,4919,Sassuolo,Inter,3,1,2015-02-01 11:30:00,Davide Biondini,Cross
+46721,13,MissedShots,0.89,0.5359999847412109,0.03361276537179947,Simone Zaza,h,1642,OpenPlay,2014,Head,4919,Sassuolo,Inter,3,1,2015-02-01 11:30:00,Sime Vrsaljko,Aerial
+46722,16,Goal,0.8540000152587891,0.6179999923706054,0.058327268809080124,Simone Zaza,h,1642,OpenPlay,2014,LeftFoot,4919,Sassuolo,Inter,3,1,2015-02-01 11:30:00,,None
+46726,28,Goal,0.875,0.76,0.03710590675473213,Nicola Sansone,h,1826,FromCorner,2014,RightFoot,4919,Sassuolo,Inter,3,1,2015-02-01 11:30:00,Francesco Magnanelli,Pass
+46729,39,BlockedShot,0.9080000305175782,0.590999984741211,0.023121347650885582,Nicola Sansone,h,1826,OpenPlay,2014,Head,4919,Sassuolo,Inter,3,1,2015-02-01 11:30:00,Sime Vrsaljko,Aerial
+46730,44,MissedShots,0.755,0.5259999847412109,0.02423289231956005,Francesco Magnanelli,h,1466,FromCorner,2014,RightFoot,4919,Sassuolo,Inter,3,1,2015-02-01 11:30:00,Nicola Sansone,Pass
+46733,66,BlockedShot,0.7440000152587891,0.5070000076293946,0.019973192363977432,Sime Vrsaljko,h,1951,SetPiece,2014,RightFoot,4919,Sassuolo,Inter,3,1,2015-02-01 11:30:00,Nicola Sansone,Pass
+46734,71,MissedShots,0.7230000305175781,0.3770000076293945,0.04208927974104881,Domenico Berardi,h,1612,DirectFreekick,2014,LeftFoot,4919,Sassuolo,Inter,3,1,2015-02-01 11:30:00,,Standard
+46739,87,BlockedShot,0.9390000152587891,0.7169999694824218,0.05992542952299118,Simone Zaza,h,1642,OpenPlay,2014,LeftFoot,4919,Sassuolo,Inter,3,1,2015-02-01 11:30:00,Matteo Brighi,Pass
+46740,92,Goal,0.885,0.5,0.7612589001655579,Domenico Berardi,h,1612,Penalty,2014,LeftFoot,4919,Sassuolo,Inter,3,1,2015-02-01 11:30:00,,Standard
+46718,4,BlockedShot,0.970999984741211,0.5740000152587891,0.11551738530397415,Isaac Donkor,a,3882,FromCorner,2014,LeftFoot,4919,Sassuolo,Inter,3,1,2015-02-01 11:30:00,,None
+46719,4,SavedShot,0.93,0.45,0.0981106236577034,Nemanja Vidic,a,3870,FromCorner,2014,Head,4919,Sassuolo,Inter,3,1,2015-02-01 11:30:00,Xherdan Shaqiri,Cross
+46723,18,MissedShots,0.740999984741211,0.3559999847412109,0.018873164430260658,Xherdan Shaqiri,a,888,OpenPlay,2014,LeftFoot,4919,Sassuolo,Inter,3,1,2015-02-01 11:30:00,Rodrigo Palacio,Pass
+46724,21,BlockedShot,0.725,0.5259999847412109,0.016090286895632744,Fredy Guarín,a,1949,OpenPlay,2014,RightFoot,4919,Sassuolo,Inter,3,1,2015-02-01 11:30:00,Lukas Podolski,Pass
+46725,23,BlockedShot,0.75,0.425,0.0206210445612669,Fredy Guarín,a,1949,OpenPlay,2014,RightFoot,4919,Sassuolo,Inter,3,1,2015-02-01 11:30:00,,TakeOn
+46727,34,MissedShots,0.8290000152587891,0.695,0.033268798142671585,Lukas Podolski,a,3871,OpenPlay,2014,LeftFoot,4919,Sassuolo,Inter,3,1,2015-02-01 11:30:00,Mateo Kovacic,Pass
+46728,38,MissedShots,0.740999984741211,0.5720000076293945,0.01761435903608799,Fredy Guarín,a,1949,OpenPlay,2014,RightFoot,4919,Sassuolo,Inter,3,1,2015-02-01 11:30:00,Gary Medel,Pass
+46731,58,MissedShots,0.909000015258789,0.4259999847412109,0.04547242820262909,Mauro Icardi,a,1513,OpenPlay,2014,Head,4919,Sassuolo,Inter,3,1,2015-02-01 11:30:00,Dodô,Aerial
+46732,63,ShotOnPost,0.7380000305175781,0.49599998474121093,0.018190108239650726,Xherdan Shaqiri,a,888,OpenPlay,2014,LeftFoot,4919,Sassuolo,Inter,3,1,2015-02-01 11:30:00,Fredy Guarín,Pass
+46735,75,SavedShot,0.9640000152587891,0.5470000076293945,0.5627462863922119,Dodô,a,1533,OpenPlay,2014,Head,4919,Sassuolo,Inter,3,1,2015-02-01 11:30:00,Marcelo Brozovic,Cross
+46736,78,SavedShot,0.9359999847412109,0.725,0.03688833862543106,George Puscas,a,3872,OpenPlay,2014,RightFoot,4919,Sassuolo,Inter,3,1,2015-02-01 11:30:00,Dodô,Pass
+46737,78,MissedShots,0.7619999694824219,0.355,0.010552480816841125,Mauro Icardi,a,1513,OpenPlay,2014,RightFoot,4919,Sassuolo,Inter,3,1,2015-02-01 11:30:00,,Rebound
+46738,82,Goal,0.9390000152587891,0.3139999961853027,0.28428152203559875,Mauro Icardi,a,1513,OpenPlay,2014,RightFoot,4919,Sassuolo,Inter,3,1,2015-02-01 11:30:00,,BallRecovery
+46741,95,MissedShots,0.87,0.6309999847412109,0.025920720770955086,Andrea Ranocchia,a,1522,SetPiece,2014,RightFoot,4919,Sassuolo,Inter,3,1,2015-02-01 11:30:00,Xherdan Shaqiri,Cross

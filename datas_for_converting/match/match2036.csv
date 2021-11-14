@@ -1,0 +1,21 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+65585,2,MissedShots,0.865,0.5570000076293945,0.35020554065704346,Michy Batshuayi,h,1678,OpenPlay,2015,RightFoot,2036,Marseille,Montpellier,2,2,2015-12-06 17:00:00,Abdel Barrada,Pass
+65587,10,BlockedShot,0.7140000152587891,0.34700000762939454,0.013447575271129608,Abdel Barrada,h,3559,OpenPlay,2015,RightFoot,2036,Marseille,Montpellier,2,2,2015-12-06 17:00:00,Mauricio Isla,Pass
+65589,25,SavedShot,0.9530000305175781,0.35200000762939454,0.08830682933330536,Brice Dja Djédjé,h,3605,OpenPlay,2015,RightFoot,2036,Marseille,Montpellier,2,2,2015-12-06 17:00:00,Mauricio Isla,Pass
+65590,27,MissedShots,0.9490000152587891,0.3160000038146973,0.06704959273338318,Michy Batshuayi,h,1678,OpenPlay,2015,RightFoot,2036,Marseille,Montpellier,2,2,2015-12-06 17:00:00,Abdel Barrada,Pass
+65592,38,SavedShot,0.9069999694824219,0.40200000762939453,0.2879401445388794,Abdel Barrada,h,3559,OpenPlay,2015,RightFoot,2036,Marseille,Montpellier,2,2,2015-12-06 17:00:00,Mauricio Isla,Cross
+65593,47,Goal,0.9019999694824219,0.4929999923706055,0.09907403588294983,Rémy Cabella,h,3390,OpenPlay,2015,RightFoot,2036,Marseille,Montpellier,2,2,2015-12-06 17:00:00,Michy Batshuayi,BallTouch
+65596,63,SavedShot,0.9159999847412109,0.68,0.06232062354683876,Georges-Kévin Nkoudou,h,1729,OpenPlay,2015,LeftFoot,2036,Marseille,Montpellier,2,2,2015-12-06 17:00:00,Benjamin Mendy,Pass
+65598,65,BlockedShot,0.7340000152587891,0.515,0.017824331298470497,Bouna Sarr,h,3393,OpenPlay,2015,RightFoot,2036,Marseille,Montpellier,2,2,2015-12-06 17:00:00,Michy Batshuayi,Pass
+65599,67,BlockedShot,0.7180000305175781,0.515,0.010570445097982883,Brice Dja Djédjé,h,3605,SetPiece,2015,RightFoot,2036,Marseille,Montpellier,2,2,2015-12-06 17:00:00,,None
+65600,71,Goal,0.9290000152587891,0.42700000762939455,0.37406235933303833,Bouna Sarr,h,3393,OpenPlay,2015,RightFoot,2036,Marseille,Montpellier,2,2,2015-12-06 17:00:00,Georges-Kévin Nkoudou,Cross
+65601,75,SavedShot,0.7709999847412109,0.495,0.02089712582528591,Rémy Cabella,h,3390,SetPiece,2015,RightFoot,2036,Marseille,Montpellier,2,2,2015-12-06 17:00:00,,None
+65602,84,SavedShot,0.8230000305175781,0.48200000762939454,0.0697762668132782,Rémy Cabella,h,3390,OpenPlay,2015,RightFoot,2036,Marseille,Montpellier,2,2,2015-12-06 17:00:00,Bouna Sarr,Pass
+65603,88,BlockedShot,0.7580000305175781,0.625,0.06201338768005371,Michy Batshuayi,h,1678,DirectFreekick,2015,RightFoot,2036,Marseille,Montpellier,2,2,2015-12-06 17:00:00,,Standard
+65604,89,SavedShot,0.785,0.6969999694824218,0.0204143226146698,Michy Batshuayi,h,1678,OpenPlay,2015,RightFoot,2036,Marseille,Montpellier,2,2,2015-12-06 17:00:00,Rémy Cabella,BallRecovery
+65586,7,MissedShots,0.76,0.3890000152587891,0.019032973796129227,Mathieu Deplagne,a,3351,OpenPlay,2015,RightFoot,2036,Marseille,Montpellier,2,2,2015-12-06 17:00:00,,None
+65588,12,MissedShots,0.710999984741211,0.5279999923706055,0.014451452530920506,Casimir Ninga,a,3344,OpenPlay,2015,RightFoot,2036,Marseille,Montpellier,2,2,2015-12-06 17:00:00,,BallRecovery
+65591,31,Goal,0.879000015258789,0.5790000152587891,0.3749980628490448,Casimir Ninga,a,3344,OpenPlay,2015,RightFoot,2036,Marseille,Montpellier,2,2,2015-12-06 17:00:00,Ryad Boudebouz,Throughball
+65594,55,Goal,0.8719999694824219,0.5790000152587891,0.37444427609443665,Casimir Ninga,a,3344,FromCorner,2015,RightFoot,2036,Marseille,Montpellier,2,2,2015-12-06 17:00:00,,None
+65595,59,MissedShots,0.755,0.5379999923706055,0.025962505489587784,Ryad Boudebouz,a,3343,OpenPlay,2015,RightFoot,2036,Marseille,Montpellier,2,2,2015-12-06 17:00:00,Bryan Dabo,Pass
+65597,64,MissedShots,0.7480000305175781,0.47400001525878904,0.031170068308711052,Mathieu Deplagne,a,3351,OpenPlay,2015,RightFoot,2036,Marseille,Montpellier,2,2,2015-12-06 17:00:00,Ryad Boudebouz,TakeOn

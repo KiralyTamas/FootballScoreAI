@@ -1,0 +1,30 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+113144,8,BlockedShot,0.799000015258789,0.6530000305175782,0.023746665567159653,Alex Oxlade-Chamberlain,h,966,OpenPlay,2016,RightFoot,494,Arsenal,Southampton,2,1,2016-09-10 18:00:00,Nacho Monreal,Pass
+113146,17,OwnGoal,0.006000000238418579,0.4779999923706055,0,Petr Cech,h,491,SetPiece,2016,OtherBodyPart,494,Arsenal,Southampton,2,1,2016-09-10 18:00:00,,Card
+113147,23,MissedShots,0.9309999847412109,0.6430000305175781,0.017069125548005104,Theo Walcott,h,503,SetPiece,2016,Head,494,Arsenal,Southampton,2,1,2016-09-10 18:00:00,Santiago Cazorla,Cross
+113150,28,Goal,0.9230000305175782,0.509000015258789,0.11581391841173172,Laurent Koscielny,h,494,FromCorner,2016,RightFoot,494,Arsenal,Southampton,2,1,2016-09-10 18:00:00,,None
+113151,35,BlockedShot,0.865999984741211,0.6530000305175782,0.054200541228055954,Mesut Özil,h,499,OpenPlay,2016,LeftFoot,494,Arsenal,Southampton,2,1,2016-09-10 18:00:00,,None
+113152,41,BlockedShot,0.895,0.6609999847412109,0.037198856472969055,Alex Oxlade-Chamberlain,h,966,OpenPlay,2016,RightFoot,494,Arsenal,Southampton,2,1,2016-09-10 18:00:00,Theo Walcott,Cross
+113153,52,MissedShots,0.925,0.3579999923706055,0.015199214220046997,Theo Walcott,h,503,FromCorner,2016,Head,494,Arsenal,Southampton,2,1,2016-09-10 18:00:00,Mesut Özil,Cross
+113155,56,BlockedShot,0.8590000152587891,0.5159999847412109,0.10033881664276123,Lucas Pérez,h,1700,OpenPlay,2016,LeftFoot,494,Arsenal,Southampton,2,1,2016-09-10 18:00:00,Mesut Özil,Pass
+113156,60,MissedShots,0.8619999694824219,0.22799999237060548,0.023557571694254875,Héctor Bellerín,h,492,OpenPlay,2016,RightFoot,494,Arsenal,Southampton,2,1,2016-09-10 18:00:00,,Dispossessed
+113157,63,MissedShots,0.7880000305175782,0.5659999847412109,0.02397739700973034,Nacho Monreal,h,495,FromCorner,2016,RightFoot,494,Arsenal,Southampton,2,1,2016-09-10 18:00:00,,None
+113159,66,BlockedShot,0.9019999694824219,0.505,0.07952157407999039,Theo Walcott,h,503,OpenPlay,2016,Head,494,Arsenal,Southampton,2,1,2016-09-10 18:00:00,Alexis Sánchez,Cross
+113160,67,MissedShots,0.8769999694824219,0.6719999694824219,0.06621234863996506,Alexis Sánchez,h,498,OpenPlay,2016,RightFoot,494,Arsenal,Southampton,2,1,2016-09-10 18:00:00,Mesut Özil,Pass
+113161,70,BlockedShot,0.899000015258789,0.6840000152587891,0.0662539154291153,Alexis Sánchez,h,498,OpenPlay,2016,LeftFoot,494,Arsenal,Southampton,2,1,2016-09-10 18:00:00,Olivier Giroud,Pass
+113164,78,BlockedShot,0.8669999694824219,0.5840000152587891,0.09958042204380035,Nacho Monreal,h,495,OpenPlay,2016,LeftFoot,494,Arsenal,Southampton,2,1,2016-09-10 18:00:00,Alex Iwobi,Pass
+113165,78,MissedShots,0.8969999694824219,0.5279999923706055,0.05541648343205452,Olivier Giroud,h,502,FromCorner,2016,Head,494,Arsenal,Southampton,2,1,2016-09-10 18:00:00,Santiago Cazorla,Cross
+113168,84,MissedShots,0.9369999694824219,0.5690000152587891,0.32208961248397827,Olivier Giroud,h,502,OpenPlay,2016,Head,494,Arsenal,Southampton,2,1,2016-09-10 18:00:00,Santiago Cazorla,Cross
+113169,90,BlockedShot,0.9069999694824219,0.5940000152587891,0.03084627538919449,Shkodran Mustafi,h,1699,FromCorner,2016,Head,494,Arsenal,Southampton,2,1,2016-09-10 18:00:00,Mesut Özil,Cross
+113170,93,Goal,0.885,0.5,0.7611688375473022,Santiago Cazorla,h,965,Penalty,2016,RightFoot,494,Arsenal,Southampton,2,1,2016-09-10 18:00:00,,Standard
+113143,4,MissedShots,0.885,0.41,0.017372634261846542,Jay Rodriguez,a,844,OpenPlay,2016,Head,494,Arsenal,Southampton,2,1,2016-09-10 18:00:00,Dusan Tadic,Aerial
+113145,17,SavedShot,0.8190000152587891,0.5070000076293946,0.1739422082901001,Dusan Tadic,a,840,DirectFreekick,2016,LeftFoot,494,Arsenal,Southampton,2,1,2016-09-10 18:00:00,,Standard
+113148,26,BlockedShot,0.850999984741211,0.36700000762939455,0.0751015767455101,Nathan Redmond,a,790,OpenPlay,2016,RightFoot,494,Arsenal,Southampton,2,1,2016-09-10 18:00:00,Jordy Clasie,Pass
+113149,27,BlockedShot,0.7280000305175781,0.4329999923706055,0.018786583095788956,Oriol Romeu,a,842,OpenPlay,2016,LeftFoot,494,Arsenal,Southampton,2,1,2016-09-10 18:00:00,Nathan Redmond,Pass
+113154,55,SavedShot,0.7419999694824219,0.769000015258789,0.012923764064908028,Shane Long,a,839,OpenPlay,2016,RightFoot,494,Arsenal,Southampton,2,1,2016-09-10 18:00:00,Oriol Romeu,Pass
+113158,65,MissedShots,0.92,0.34700000762939454,0.3344400227069855,Shane Long,a,839,OpenPlay,2016,RightFoot,494,Arsenal,Southampton,2,1,2016-09-10 18:00:00,Dusan Tadic,Throughball
+113162,71,MissedShots,0.7419999694824219,0.4929999923706055,0.0220861304551363,Nathan Redmond,a,790,OpenPlay,2016,RightFoot,494,Arsenal,Southampton,2,1,2016-09-10 18:00:00,Pierre-Emile Højbjerg,Pass
+113163,73,MissedShots,0.9369999694824219,0.5109999847412109,0.1421610414981842,Shane Long,a,839,SetPiece,2016,Head,494,Arsenal,Southampton,2,1,2016-09-10 18:00:00,Nathan Redmond,Cross
+113166,82,SavedShot,0.775,0.455,0.03980618715286255,Pierre-Emile Højbjerg,a,343,OpenPlay,2016,RightFoot,494,Arsenal,Southampton,2,1,2016-09-10 18:00:00,James Ward-Prowse,LayOff
+113167,83,SavedShot,0.9269999694824219,0.610999984741211,0.33909687399864197,Shane Long,a,839,OpenPlay,2016,LeftFoot,494,Arsenal,Southampton,2,1,2016-09-10 18:00:00,,Rebound
+113171,97,SavedShot,0.9219999694824219,0.655,0.01299993135035038,Shane Long,a,839,OpenPlay,2016,Head,494,Arsenal,Southampton,2,1,2016-09-10 18:00:00,Cédric Soares,Cross

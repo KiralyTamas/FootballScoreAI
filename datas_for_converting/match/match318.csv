@@ -1,0 +1,36 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+55202,1,SavedShot,0.9230000305175782,0.525,0.06106635183095932,Darren Fletcher,h,809,OpenPlay,2015,Head,318,West Bromwich Albion,Swansea,1,1,2016-02-03 00:00:00,Craig Dawson,Aerial
+55208,38,MissedShots,0.915,0.48700000762939455,0.32139748334884644,Craig Dawson,h,804,SetPiece,2015,Head,318,West Bromwich Albion,Swansea,1,1,2016-02-03 00:00:00,Stéphane Sessegnon,Cross
+55209,39,MissedShots,0.9169999694824219,0.4909999847412109,0.11875816434621811,Salomón Rondón,h,813,OpenPlay,2015,Head,318,West Bromwich Albion,Swansea,1,1,2016-02-03 00:00:00,Sandro,Cross
+55210,41,MissedShots,0.865999984741211,0.46299999237060546,0.0443420484662056,Stéphane Sessegnon,h,810,OpenPlay,2015,RightFoot,318,West Bromwich Albion,Swansea,1,1,2016-02-03 00:00:00,,Aerial
+55211,41,MissedShots,0.9219999694824219,0.5459999847412109,0.3701484203338623,Darren Fletcher,h,809,OpenPlay,2015,RightFoot,318,West Bromwich Albion,Swansea,1,1,2016-02-03 00:00:00,James McClean,Cross
+55213,51,SavedShot,0.899000015258789,0.8059999847412109,0.06473690271377563,Stéphane Sessegnon,h,810,DirectFreekick,2015,RightFoot,318,West Bromwich Albion,Swansea,1,1,2016-02-03 00:00:00,,Standard
+55215,54,MissedShots,0.9280000305175782,0.4520000076293945,0.12852779030799866,Darren Fletcher,h,809,OpenPlay,2015,Head,318,West Bromwich Albion,Swansea,1,1,2016-02-03 00:00:00,James McClean,Cross
+55216,59,SavedShot,0.735,0.36400001525878906,0.017413798719644547,Stéphane Sessegnon,h,810,OpenPlay,2015,RightFoot,318,West Bromwich Albion,Swansea,1,1,2016-02-03 00:00:00,Craig Dawson,Pass
+55218,62,BlockedShot,0.875,0.5420000076293945,0.08624379336833954,Darren Fletcher,h,809,OpenPlay,2015,LeftFoot,318,West Bromwich Albion,Swansea,1,1,2016-02-03 00:00:00,James McClean,Cross
+55223,71,MissedShots,0.865999984741211,0.445,0.027296246960759163,Salomón Rondón,h,813,OpenPlay,2015,Head,318,West Bromwich Albion,Swansea,1,1,2016-02-03 00:00:00,Craig Dawson,Cross
+55227,76,SavedShot,0.8690000152587891,0.275,0.030246900394558907,Victor Anichebe,h,818,OpenPlay,2015,RightFoot,318,West Bromwich Albion,Swansea,1,1,2016-02-03 00:00:00,Salomón Rondón,Chipped
+55231,88,SavedShot,0.775,0.34700000762939454,0.020098233595490456,Victor Anichebe,h,818,OpenPlay,2015,RightFoot,318,West Bromwich Albion,Swansea,1,1,2016-02-03 00:00:00,,None
+55232,89,MissedShots,0.735999984741211,0.47400001525878904,0.01401524432003498,Saido Berahino,h,811,OpenPlay,2015,LeftFoot,318,West Bromwich Albion,Swansea,1,1,2016-02-03 00:00:00,Victor Anichebe,TakeOn
+55233,91,BlockedShot,0.8959999847412109,0.34,0.06786227971315384,Craig Dawson,h,804,OpenPlay,2015,RightFoot,318,West Bromwich Albion,Swansea,1,1,2016-02-03 00:00:00,Victor Anichebe,Pass
+55234,91,BlockedShot,0.909000015258789,0.48700000762939455,0.050165221095085144,Victor Anichebe,h,818,FromCorner,2015,Head,318,West Bromwich Albion,Swansea,1,1,2016-02-03 00:00:00,Jonas Olsson,HeadPass
+55235,91,BlockedShot,0.9669999694824218,0.5370000076293945,0.6614288091659546,Darren Fletcher,h,809,FromCorner,2015,RightFoot,318,West Bromwich Albion,Swansea,1,1,2016-02-03 00:00:00,,Rebound
+55236,91,Goal,0.98,0.45799999237060546,0.7956787347793579,Salomón Rondón,h,813,FromCorner,2015,RightFoot,318,West Bromwich Albion,Swansea,1,1,2016-02-03 00:00:00,,Rebound
+55203,18,MissedShots,0.7519999694824219,0.24799999237060547,0.009232982993125916,Angel Rangel,a,707,OpenPlay,2015,RightFoot,318,West Bromwich Albion,Swansea,1,1,2016-02-03 00:00:00,Ki Sung-yueng,Chipped
+55204,26,BlockedShot,0.795,0.26399999618530273,0.03722061216831207,André Ayew,a,713,OpenPlay,2015,LeftFoot,318,West Bromwich Albion,Swansea,1,1,2016-02-03 00:00:00,Ki Sung-yueng,Pass
+55205,32,SavedShot,0.67,0.23200000762939454,0.009080734103918076,Gylfi Sigurdsson,a,714,OpenPlay,2015,LeftFoot,318,West Bromwich Albion,Swansea,1,1,2016-02-03 00:00:00,,BallRecovery
+55206,33,MissedShots,0.9380000305175781,0.5359999847412109,0.10917568951845169,Ashley Williams,a,709,FromCorner,2015,Head,318,West Bromwich Albion,Swansea,1,1,2016-02-03 00:00:00,Angel Rangel,Cross
+55207,35,BlockedShot,0.8680000305175781,0.6530000305175782,0.06285509467124939,André Ayew,a,713,OpenPlay,2015,LeftFoot,318,West Bromwich Albion,Swansea,1,1,2016-02-03 00:00:00,Wayne Routledge,Pass
+55212,49,SavedShot,0.8919999694824219,0.45599998474121095,0.31358280777931213,Alberto Paloschi,a,716,OpenPlay,2015,RightFoot,318,West Bromwich Albion,Swansea,1,1,2016-02-03 00:00:00,Wayne Routledge,Chipped
+55214,50,MissedShots,0.9390000152587891,0.6480000305175782,0.04645847529172897,André Ayew,a,713,OpenPlay,2015,LeftFoot,318,West Bromwich Albion,Swansea,1,1,2016-02-03 00:00:00,Wayne Routledge,Cross
+55217,60,MissedShots,0.8969999694824219,0.7119999694824218,0.046783193945884705,Gylfi Sigurdsson,a,714,OpenPlay,2015,LeftFoot,318,West Bromwich Albion,Swansea,1,1,2016-02-03 00:00:00,Wayne Routledge,Pass
+55219,63,BlockedShot,0.889000015258789,0.5370000076293945,0.12438347190618515,Alberto Paloschi,a,716,OpenPlay,2015,RightFoot,318,West Bromwich Albion,Swansea,1,1,2016-02-03 00:00:00,André Ayew,Pass
+55220,63,Goal,0.89,0.34799999237060547,0.06875446438789368,Gylfi Sigurdsson,a,714,OpenPlay,2015,RightFoot,318,West Bromwich Albion,Swansea,1,1,2016-02-03 00:00:00,,Dispossessed
+55221,70,BlockedShot,0.8109999847412109,0.3579999923706055,0.046841949224472046,Jack Cork,a,712,OpenPlay,2015,RightFoot,318,West Bromwich Albion,Swansea,1,1,2016-02-03 00:00:00,Gylfi Sigurdsson,Pass
+55222,71,SavedShot,0.9030000305175782,0.4779999923706055,0.06751377880573273,Ashley Williams,a,709,FromCorner,2015,Head,318,West Bromwich Albion,Swansea,1,1,2016-02-03 00:00:00,Gylfi Sigurdsson,Cross
+55224,73,BlockedShot,0.825999984741211,0.735999984741211,0.026058681309223175,André Ayew,a,713,OpenPlay,2015,LeftFoot,318,West Bromwich Albion,Swansea,1,1,2016-02-03 00:00:00,Gylfi Sigurdsson,Chipped
+55225,74,BlockedShot,0.7759999847412109,0.6930000305175781,0.025759421288967133,Gylfi Sigurdsson,a,714,OpenPlay,2015,LeftFoot,318,West Bromwich Albion,Swansea,1,1,2016-02-03 00:00:00,,None
+55226,75,MissedShots,0.7290000152587891,0.6559999847412109,0.01287052221596241,Angel Rangel,a,707,OpenPlay,2015,RightFoot,318,West Bromwich Albion,Swansea,1,1,2016-02-03 00:00:00,,Aerial
+55228,86,MissedShots,0.7909999847412109,0.37099998474121093,0.017356805503368378,Gylfi Sigurdsson,a,714,FromCorner,2015,LeftFoot,318,West Bromwich Albion,Swansea,1,1,2016-02-03 00:00:00,Wayne Routledge,TakeOn
+55229,87,ShotOnPost,0.96,0.5520000076293945,0.13907964527606964,Alberto Paloschi,a,716,OpenPlay,2015,LeftFoot,318,West Bromwich Albion,Swansea,1,1,2016-02-03 00:00:00,,None
+55230,87,MissedShots,0.749000015258789,0.5979999923706054,0.01890302076935768,Jack Cork,a,712,OpenPlay,2015,RightFoot,318,West Bromwich Albion,Swansea,1,1,2016-02-03 00:00:00,,Rebound

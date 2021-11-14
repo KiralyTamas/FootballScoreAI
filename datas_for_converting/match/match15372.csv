@@ -1,0 +1,27 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+411313,7,OwnGoal,0.10899999618530273,0.519000015258789,0,Joshua Sargent,h,7295,SetPiece,2020,Head,15372,Werder Bremen,Wolfsburg,1,2,2021-03-20 14:30:00,,Dispossessed
+411314,22,BlockedShot,0.830999984741211,0.7140000152587891,0.02416573464870453,Kevin Möhwald,h,7044,FromCorner,2020,RightFoot,15372,Werder Bremen,Wolfsburg,1,2,2021-03-20 14:30:00,Ludwig Augustinsson,Pass
+411315,22,MissedShots,0.72,0.605999984741211,0.016271915286779404,Romano Schmid,h,9069,FromCorner,2020,RightFoot,15372,Werder Bremen,Wolfsburg,1,2,2021-03-20 14:30:00,,Rebound
+411319,39,SavedShot,0.8180000305175781,0.2670000076293945,0.021626127883791924,Joshua Sargent,h,7295,OpenPlay,2020,RightFoot,15372,Werder Bremen,Wolfsburg,1,2,2021-03-20 14:30:00,Maximilian Eggestein,Pass
+411322,44,BlockedShot,0.894000015258789,0.5940000152587891,0.046032898128032684,Theodor Gebre Selassie,h,110,SetPiece,2020,Head,15372,Werder Bremen,Wolfsburg,1,2,2021-03-20 14:30:00,Ludwig Augustinsson,Chipped
+411323,44,Goal,0.889000015258789,0.504000015258789,0.432947039604187,Kevin Möhwald,h,7044,SetPiece,2020,RightFoot,15372,Werder Bremen,Wolfsburg,1,2,2021-03-20 14:30:00,,Rebound
+411326,60,MissedShots,0.914000015258789,0.5070000076293946,0.09591925144195557,Niclas Füllkrug,h,6098,FromCorner,2020,Head,15372,Werder Bremen,Wolfsburg,1,2,2021-03-20 14:30:00,Ludwig Augustinsson,Cross
+411331,76,SavedShot,0.8769999694824219,0.5070000076293946,0.07337099313735962,Niclas Füllkrug,h,6098,OpenPlay,2020,RightFoot,15372,Werder Bremen,Wolfsburg,1,2,2021-03-20 14:30:00,Leonardo Bittencourt,HeadPass
+411332,82,MissedShots,0.9169999694824219,0.3970000076293945,0.30935800075531006,Davie Selke,h,4280,OpenPlay,2020,Head,15372,Werder Bremen,Wolfsburg,1,2,2021-03-20 14:30:00,,Aerial
+411333,84,MissedShots,0.8030000305175782,0.33099998474121095,0.026388682425022125,Theodor Gebre Selassie,h,110,OpenPlay,2020,RightFoot,15372,Werder Bremen,Wolfsburg,1,2,2021-03-20 14:30:00,,None
+411337,93,SavedShot,0.8530000305175781,0.3370000076293945,0.044069625437259674,Davie Selke,h,4280,OpenPlay,2020,LeftFoot,15372,Werder Bremen,Wolfsburg,1,2,2021-03-20 14:30:00,,None
+411312,7,BlockedShot,0.884000015258789,0.4540000152587891,0.023410478606820107,Maxence Lacroix,a,8853,SetPiece,2020,Head,15372,Werder Bremen,Wolfsburg,1,2,2021-03-20 14:30:00,Maximilian Arnold,Foul
+411316,28,MissedShots,0.9690000152587891,0.3559999847412109,0.08949442952871323,Wout Weghorst,a,7052,OpenPlay,2020,RightFoot,15372,Werder Bremen,Wolfsburg,1,2,2021-03-20 14:30:00,Admir Mehmedi,Pass
+411317,33,BlockedShot,0.735999984741211,0.45799999237060546,0.020802250131964684,Maximilian Arnold,a,153,SetPiece,2020,LeftFoot,15372,Werder Bremen,Wolfsburg,1,2,2021-03-20 14:30:00,Xaver Schlager,Pass
+411318,33,MissedShots,0.9069999694824219,0.49700000762939456,0.08344845473766327,John Brooks,a,22,FromCorner,2020,Head,15372,Werder Bremen,Wolfsburg,1,2,2021-03-20 14:30:00,Josip Brekalo,Cross
+411320,40,MissedShots,0.7430000305175781,0.23600000381469727,0.01342693343758583,Maximilian Arnold,a,153,OpenPlay,2020,LeftFoot,15372,Werder Bremen,Wolfsburg,1,2,2021-03-20 14:30:00,Kevin Mbabu,Pass
+411321,41,Goal,0.894000015258789,0.6170000076293946,0.38160979747772217,Wout Weghorst,a,7052,OpenPlay,2020,RightFoot,15372,Werder Bremen,Wolfsburg,1,2,2021-03-20 14:30:00,Xaver Schlager,BallRecovery
+411324,50,MissedShots,0.8869999694824219,0.5120000076293946,0.04793083295226097,Maxence Lacroix,a,8853,FromCorner,2020,Head,15372,Werder Bremen,Wolfsburg,1,2,2021-03-20 14:30:00,Maximilian Arnold,Cross
+411325,52,MissedShots,0.9019999694824219,0.40700000762939453,0.05376272276043892,Maxence Lacroix,a,8853,SetPiece,2020,Head,15372,Werder Bremen,Wolfsburg,1,2,2021-03-20 14:30:00,Maximilian Arnold,Cross
+411327,61,SavedShot,0.794000015258789,0.7069999694824218,0.021933812648057938,Wout Weghorst,a,7052,SetPiece,2020,RightFoot,15372,Werder Bremen,Wolfsburg,1,2,2021-03-20 14:30:00,Admir Mehmedi,Pass
+411328,61,SavedShot,0.8959999847412109,0.34900001525878904,0.27703148126602173,Kevin Mbabu,a,983,SetPiece,2020,RightFoot,15372,Werder Bremen,Wolfsburg,1,2,2021-03-20 14:30:00,,Rebound
+411329,65,BlockedShot,0.7340000152587891,0.6680000305175782,0.016402725130319595,Josip Brekalo,a,5353,OpenPlay,2020,RightFoot,15372,Werder Bremen,Wolfsburg,1,2,2021-03-20 14:30:00,Yannick Gerhardt,Pass
+411330,67,MissedShots,0.7530000305175781,0.575999984741211,0.028506116941571236,Xaver Schlager,a,7783,OpenPlay,2020,LeftFoot,15372,Werder Bremen,Wolfsburg,1,2,2021-03-20 14:30:00,Bote Baku,Pass
+411334,86,BlockedShot,0.885,0.6659999847412109,0.07447432726621628,Wout Weghorst,a,7052,OpenPlay,2020,LeftFoot,15372,Werder Bremen,Wolfsburg,1,2,2021-03-20 14:30:00,,None
+411335,86,BlockedShot,0.78,0.66,0.018018541857600212,Xaver Schlager,a,7783,FromCorner,2020,LeftFoot,15372,Werder Bremen,Wolfsburg,1,2,2021-03-20 14:30:00,,None
+411336,91,BlockedShot,0.8040000152587891,0.54,0.058696407824754715,Xaver Schlager,a,7783,OpenPlay,2020,RightFoot,15372,Werder Bremen,Wolfsburg,1,2,2021-03-20 14:30:00,Wout Weghorst,Pass

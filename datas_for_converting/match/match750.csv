@@ -1,0 +1,22 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+100955,25,MissedShots,0.935,0.59,0.043524369597435,Federico Peluso,h,1464,FromCorner,2015,Head,750,Sassuolo,Torino,1,1,2016-01-20 23:45:00,Davide Biondini,HeadPass
+100956,33,BlockedShot,0.875999984741211,0.6880000305175781,0.04973834753036499,Gregoire Defrel,h,1468,OpenPlay,2015,RightFoot,750,Sassuolo,Torino,1,1,2016-01-20 23:45:00,Nicola Sansone,Pass
+100957,34,MissedShots,0.9319999694824219,0.5320000076293945,0.12091091275215149,Davide Biondini,h,1467,FromCorner,2015,RightFoot,750,Sassuolo,Torino,1,1,2016-01-20 23:45:00,Nicola Sansone,Cross
+100960,39,SavedShot,0.909000015258789,0.445,0.09256696701049805,Davide Biondini,h,1467,SetPiece,2015,RightFoot,750,Sassuolo,Torino,1,1,2016-01-20 23:45:00,Francesco Acerbi,BallTouch
+100961,39,Goal,0.9719999694824218,0.4329999923706055,0.6003276705741882,Francesco Acerbi,h,1463,SetPiece,2015,RightFoot,750,Sassuolo,Torino,1,1,2016-01-20 23:45:00,,Rebound
+100963,55,MissedShots,0.7340000152587891,0.6530000305175782,0.013615447096526623,Federico Peluso,h,1464,OpenPlay,2015,LeftFoot,750,Sassuolo,Torino,1,1,2016-01-20 23:45:00,,None
+100964,59,SavedShot,0.855,0.5129999923706055,0.09237757325172424,Gregoire Defrel,h,1468,OpenPlay,2015,LeftFoot,750,Sassuolo,Torino,1,1,2016-01-20 23:45:00,Alfred Duncan,Pass
+100966,66,BlockedShot,0.785,0.3609999847412109,0.027520326897501945,Domenico Berardi,h,1612,OpenPlay,2015,LeftFoot,750,Sassuolo,Torino,1,1,2016-01-20 23:45:00,Davide Biondini,BallRecovery
+100968,73,MissedShots,0.9540000152587891,0.6070000076293945,0.1226448267698288,Alfred Duncan,h,1474,OpenPlay,2015,LeftFoot,750,Sassuolo,Torino,1,1,2016-01-20 23:45:00,Nicola Sansone,Pass
+100969,75,BlockedShot,0.8490000152587891,0.4259999847412109,0.0860348641872406,Gregoire Defrel,h,1468,OpenPlay,2015,LeftFoot,750,Sassuolo,Torino,1,1,2016-01-20 23:45:00,Alfred Duncan,Pass
+100970,76,MissedShots,0.7140000152587891,0.455,0.014452236704528332,Francesco Magnanelli,h,1466,OpenPlay,2015,RightFoot,750,Sassuolo,Torino,1,1,2016-01-20 23:45:00,Alfred Duncan,Tackle
+100971,82,MissedShots,0.904000015258789,0.49400001525878906,0.2865413725376129,Nicola Sansone,h,1826,OpenPlay,2015,Head,750,Sassuolo,Torino,1,1,2016-01-20 23:45:00,Sime Vrsaljko,Cross
+100973,93,MissedShots,0.89,0.515,0.10259364545345306,Sime Vrsaljko,h,1951,OpenPlay,2015,LeftFoot,750,Sassuolo,Torino,1,1,2016-01-20 23:45:00,Matteo Politano,Cross
+100953,8,BlockedShot,0.7809999847412109,0.2720000076293945,0.021433480083942413,Ciro Immobile,a,1209,OpenPlay,2015,RightFoot,750,Sassuolo,Torino,1,1,2016-01-20 23:45:00,Afriyie Acquah,Pass
+100954,21,Goal,0.935,0.5220000076293946,0.5766087770462036,Andrea Belotti,a,1186,OpenPlay,2015,LeftFoot,750,Sassuolo,Torino,1,1,2016-01-20 23:45:00,Marco Benassi,Pass
+100958,35,BlockedShot,0.8640000152587891,0.42,0.04309532418847084,Ciro Immobile,a,1209,FromCorner,2015,RightFoot,750,Sassuolo,Torino,1,1,2016-01-20 23:45:00,Gastón Silva,Cross
+100959,36,SavedShot,0.904000015258789,0.5259999847412109,0.07114376127719879,Kamil Glik,a,1800,FromCorner,2015,Head,750,Sassuolo,Torino,1,1,2016-01-20 23:45:00,Nikola Maksimovic,Cross
+100962,41,BlockedShot,0.710999984741211,0.40799999237060547,0.014184195548295975,Andrea Belotti,a,1186,OpenPlay,2015,LeftFoot,750,Sassuolo,Torino,1,1,2016-01-20 23:45:00,Nikola Maksimovic,Pass
+100965,60,SavedShot,0.950999984741211,0.42900001525878906,0.14379945397377014,Andrea Belotti,a,1186,OpenPlay,2015,RightFoot,750,Sassuolo,Torino,1,1,2016-01-20 23:45:00,Ciro Immobile,Pass
+100967,69,SavedShot,0.769000015258789,0.37099998474121093,0.023519666865468025,Andrea Belotti,a,1186,OpenPlay,2015,RightFoot,750,Sassuolo,Torino,1,1,2016-01-20 23:45:00,Marco Benassi,TakeOn
+100972,83,SavedShot,0.9730000305175781,0.34,0.06647419929504395,Ciro Immobile,a,1209,OpenPlay,2015,RightFoot,750,Sassuolo,Torino,1,1,2016-01-20 23:45:00,,BallRecovery

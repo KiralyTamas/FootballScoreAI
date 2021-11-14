@@ -1,0 +1,34 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+92052,17,BlockedShot,0.730999984741211,0.485,0.019200757145881653,Alen Halilovic,h,2215,OpenPlay,2015,LeftFoot,1734,Sporting Gijon,Sevilla,2,1,2016-04-20 22:45:00,Nacho Cases,Pass
+92053,18,BlockedShot,0.870999984741211,0.6580000305175782,0.03806895762681961,Jony,h,2216,OpenPlay,2015,LeftFoot,1734,Sporting Gijon,Sevilla,2,1,2016-04-20 22:45:00,Antonio Sanabria,Cross
+92056,23,MissedShots,0.7630000305175781,0.720999984741211,0.011501558125019073,Alen Halilovic,h,2215,OpenPlay,2015,LeftFoot,1734,Sporting Gijon,Sevilla,2,1,2016-04-20 22:45:00,Carlos Carmona,Chipped
+92058,30,BlockedShot,0.9459999847412109,0.36900001525878906,0.09564737230539322,Nacho Cases,h,2213,OpenPlay,2015,RightFoot,1734,Sporting Gijon,Sevilla,2,1,2016-04-20 22:45:00,Carlos Carmona,Pass
+92059,30,MissedShots,0.9030000305175782,0.4370000076293945,0.08740764856338501,Antonio Sanabria,h,2217,FromCorner,2015,RightFoot,1734,Sporting Gijon,Sevilla,2,1,2016-04-20 22:45:00,,None
+92066,47,MissedShots,0.769000015258789,0.759000015258789,0.013974064961075783,Jony,h,2216,OpenPlay,2015,LeftFoot,1734,Sporting Gijon,Sevilla,2,1,2016-04-20 22:45:00,,BallRecovery
+92067,49,MissedShots,0.794000015258789,0.33099998474121095,0.025323299691081047,Alen Halilovic,h,2215,FromCorner,2015,LeftFoot,1734,Sporting Gijon,Sevilla,2,1,2016-04-20 22:45:00,Carlos Carmona,Pass
+92068,49,MissedShots,0.8109999847412109,0.505,0.1616222858428955,Antonio Sanabria,h,2217,OpenPlay,2015,LeftFoot,1734,Sporting Gijon,Sevilla,2,1,2016-04-20 22:45:00,Iván Cuéllar,BallRecovery
+92073,63,BlockedShot,0.7240000152587891,0.295,0.01298785675317049,Alberto Lora,h,2209,OpenPlay,2015,LeftFoot,1734,Sporting Gijon,Sevilla,2,1,2016-04-20 22:45:00,Alen Halilovic,Pass
+92078,82,MissedShots,0.764000015258789,0.620999984741211,0.016209473833441734,Isma López,h,2211,OpenPlay,2015,RightFoot,1734,Sporting Gijon,Sevilla,2,1,2016-04-20 22:45:00,Rachid,Chipped
+92079,83,MissedShots,0.909000015258789,0.6869999694824219,0.19683033227920532,Dani Ndi,h,2497,OpenPlay,2015,LeftFoot,1734,Sporting Gijon,Sevilla,2,1,2016-04-20 22:45:00,Antonio Sanabria,Pass
+92081,86,SavedShot,0.8209999847412109,0.36700000762939455,0.08721011132001877,Carlos Castro,h,2223,OpenPlay,2015,RightFoot,1734,Sporting Gijon,Sevilla,2,1,2016-04-20 22:45:00,Antonio Sanabria,HeadPass
+92082,90,MissedShots,0.8180000305175781,0.34900001525878904,0.03685725852847099,Rachid,h,2220,OpenPlay,2015,RightFoot,1734,Sporting Gijon,Sevilla,2,1,2016-04-20 22:45:00,,None
+92083,90,Goal,0.9030000305175782,0.49700000762939456,0.43478453159332275,Isma López,h,2211,OpenPlay,2015,LeftFoot,1734,Sporting Gijon,Sevilla,2,1,2016-04-20 22:45:00,Rachid,Rebound
+92051,7,Goal,0.9119999694824219,0.5629999923706055,0.43620747327804565,Vicente Iborra,a,2065,OpenPlay,2015,RightFoot,1734,Sporting Gijon,Sevilla,2,1,2016-04-20 22:45:00,,None
+92054,21,OwnGoal,0.06699999809265136,0.3920000076293945,0,Grzegorz Krychowiak,a,2414,OpenPlay,2015,LeftFoot,1734,Sporting Gijon,Sevilla,2,1,2016-04-20 22:45:00,,TakeOn
+92055,23,SavedShot,0.93,0.4779999923706055,0.12379742413759232,Daniel Carriço,a,2069,FromCorner,2015,Head,1734,Sporting Gijon,Sevilla,2,1,2016-04-20 22:45:00,Yevhen Konoplyanka,Cross
+92057,26,MissedShots,0.91,0.6609999847412109,0.03549022600054741,Fernando Llorente,a,1728,OpenPlay,2015,RightFoot,1734,Sporting Gijon,Sevilla,2,1,2016-04-20 22:45:00,Grzegorz Krychowiak,Cross
+92060,38,SavedShot,0.9019999694824219,0.7090000152587891,0.017936628311872482,Yevhen Konoplyanka,a,2068,OpenPlay,2015,RightFoot,1734,Sporting Gijon,Sevilla,2,1,2016-04-20 22:45:00,Mariano,Cross
+92061,38,MissedShots,0.895,0.6569999694824219,0.03624287247657776,Yevhen Konoplyanka,a,2068,OpenPlay,2015,RightFoot,1734,Sporting Gijon,Sevilla,2,1,2016-04-20 22:45:00,Mariano,Cross
+92062,41,MissedShots,0.7140000152587891,0.5,0.012084326706826687,Grzegorz Krychowiak,a,2414,OpenPlay,2015,RightFoot,1734,Sporting Gijon,Sevilla,2,1,2016-04-20 22:45:00,,None
+92063,42,MissedShots,0.759000015258789,0.555,0.02417916990816593,Sebastián Cristóforo,a,1436,OpenPlay,2015,RightFoot,1734,Sporting Gijon,Sevilla,2,1,2016-04-20 22:45:00,Yevhen Konoplyanka,Pass
+92064,45,BlockedShot,0.7880000305175782,0.5709999847412109,0.030116282403469086,Yevhen Konoplyanka,a,2068,OpenPlay,2015,RightFoot,1734,Sporting Gijon,Sevilla,2,1,2016-04-20 22:45:00,Fernando Llorente,Pass
+92065,45,MissedShots,0.8090000152587891,0.47200000762939454,0.04461677744984627,Coke,a,2073,OpenPlay,2015,RightFoot,1734,Sporting Gijon,Sevilla,2,1,2016-04-20 22:45:00,,Rebound
+92069,51,SavedShot,0.865,0.47400001525878904,0.10618764162063599,Coke,a,2073,OpenPlay,2015,RightFoot,1734,Sporting Gijon,Sevilla,2,1,2016-04-20 22:45:00,Sergio Escudero,Pass
+92070,56,BlockedShot,0.865,0.47200000762939454,0.07711569219827652,Sebastián Cristóforo,a,1436,OpenPlay,2015,LeftFoot,1734,Sporting Gijon,Sevilla,2,1,2016-04-20 22:45:00,,None
+92071,58,SavedShot,0.8419999694824218,0.48200000762939454,0.07874936610460281,Vicente Iborra,a,2065,OpenPlay,2015,RightFoot,1734,Sporting Gijon,Sevilla,2,1,2016-04-20 22:45:00,Coke,Pass
+92072,61,SavedShot,0.9169999694824219,0.46,0.12680533528327942,Coke,a,2073,OpenPlay,2015,Head,1734,Sporting Gijon,Sevilla,2,1,2016-04-20 22:45:00,Sergio Escudero,Cross
+92074,63,SavedShot,0.879000015258789,0.40200000762939453,0.32885801792144775,Fernando Llorente,a,1728,OpenPlay,2015,RightFoot,1734,Sporting Gijon,Sevilla,2,1,2016-04-20 22:45:00,Vicente Iborra,Pass
+92075,64,MissedShots,0.9130000305175782,0.5579999923706055,0.075510174036026,Grzegorz Krychowiak,a,2414,FromCorner,2015,Head,1734,Sporting Gijon,Sevilla,2,1,2016-04-20 22:45:00,Yevhen Konoplyanka,Cross
+92076,80,SavedShot,0.8119999694824219,0.720999984741211,0.024493658915162086,Yevhen Konoplyanka,a,2068,OpenPlay,2015,RightFoot,1734,Sporting Gijon,Sevilla,2,1,2016-04-20 22:45:00,Sergio Escudero,Pass
+92077,81,MissedShots,0.92,0.5609999847412109,0.11889168620109558,Fernando Llorente,a,1728,OpenPlay,2015,Head,1734,Sporting Gijon,Sevilla,2,1,2016-04-20 22:45:00,Yevhen Konoplyanka,Cross
+92080,85,MissedShots,0.8519999694824218,0.4490000152587891,0.06899567693471909,Yevhen Konoplyanka,a,2068,OpenPlay,2015,LeftFoot,1734,Sporting Gijon,Sevilla,2,1,2016-04-20 22:45:00,,None

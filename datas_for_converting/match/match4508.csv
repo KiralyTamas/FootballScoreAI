@@ -1,0 +1,24 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+22015,1,BlockedShot,0.9,0.6580000305175782,0.09814362972974777,Ayoze Pérez,h,770,OpenPlay,2014,RightFoot,4508,Newcastle United,Arsenal,1,2,2015-03-21 15:00:00,Moussa Sissoko,Pass
+22017,16,MissedShots,0.955,0.415,0.03977400064468384,Moussa Sissoko,h,772,FromCorner,2014,Head,4508,Newcastle United,Arsenal,1,2,2015-03-21 15:00:00,Ryan Taylor,End
+22022,30,BlockedShot,0.779000015258789,0.30200000762939455,0.05627389997243881,Ryan Taylor,h,4404,DirectFreekick,2014,RightFoot,4508,Newcastle United,Arsenal,1,2,2015-03-21 15:00:00,,Standard
+22023,37,BlockedShot,0.875999984741211,0.755,0.029651742428541183,Sammy Ameobi,h,4420,OpenPlay,2014,LeftFoot,4508,Newcastle United,Arsenal,1,2,2015-03-21 15:00:00,Ayoze Pérez,Pass
+22024,37,BlockedShot,0.8590000152587891,0.6680000305175782,0.10421961545944214,Moussa Sissoko,h,772,OpenPlay,2014,RightFoot,4508,Newcastle United,Arsenal,1,2,2015-03-21 15:00:00,Sammy Ameobi,TakeOn
+22025,38,BlockedShot,0.9459999847412109,0.3990000152587891,0.05824067443609238,Rémy Cabella,h,3390,OpenPlay,2014,Head,4508,Newcastle United,Arsenal,1,2,2015-03-21 15:00:00,Ayoze Pérez,Cross
+22026,47,Goal,0.8680000305175781,0.5590000152587891,0.09760086983442307,Moussa Sissoko,h,772,OpenPlay,2014,RightFoot,4508,Newcastle United,Arsenal,1,2,2015-03-21 15:00:00,Rémy Cabella,Pass
+22027,49,MissedShots,0.775,0.649000015258789,0.022533198818564415,Ayoze Pérez,h,770,OpenPlay,2014,RightFoot,4508,Newcastle United,Arsenal,1,2,2015-03-21 15:00:00,Vurnon Anita,Pass
+22028,50,MissedShots,0.855,0.685,0.07149838656187057,Ayoze Pérez,h,770,OpenPlay,2014,RightFoot,4508,Newcastle United,Arsenal,1,2,2015-03-21 15:00:00,Sammy Ameobi,Pass
+22030,60,SavedShot,0.884000015258789,0.54,0.08513244241476059,Yoan Gouffran,h,916,FromCorner,2014,RightFoot,4508,Newcastle United,Arsenal,1,2,2015-03-21 15:00:00,,None
+22031,63,SavedShot,0.9790000152587891,0.555,0.09696312248706818,Moussa Sissoko,h,772,FromCorner,2014,Head,4508,Newcastle United,Arsenal,1,2,2015-03-21 15:00:00,Mike Williamson,HeadPass
+22032,63,BlockedShot,0.9619999694824218,0.47,0.13357974588871002,Yoan Gouffran,h,916,FromCorner,2014,LeftFoot,4508,Newcastle United,Arsenal,1,2,2015-03-21 15:00:00,,None
+22033,65,MissedShots,0.7080000305175781,0.36400001525878906,0.01364398654550314,Daryl Janmaat,h,764,OpenPlay,2014,RightFoot,4508,Newcastle United,Arsenal,1,2,2015-03-21 15:00:00,Yoan Gouffran,Pass
+22034,71,BlockedShot,0.8780000305175781,0.764000015258789,0.026736246421933174,Ayoze Pérez,h,770,OpenPlay,2014,RightFoot,4508,Newcastle United,Arsenal,1,2,2015-03-21 15:00:00,Jack Colback,Pass
+22035,73,BlockedShot,0.8919999694824219,0.6329999923706054,0.050987470895051956,Rémy Cabella,h,3390,OpenPlay,2014,LeftFoot,4508,Newcastle United,Arsenal,1,2,2015-03-21 15:00:00,Moussa Sissoko,TakeOn
+22037,86,SavedShot,0.8490000152587891,0.68,0.021817507222294807,Ayoze Pérez,h,770,OpenPlay,2014,RightFoot,4508,Newcastle United,Arsenal,1,2,2015-03-21 15:00:00,,TakeOn
+22016,12,BlockedShot,0.9519999694824218,0.6279999923706054,0.07168498635292053,Alexis Sánchez,a,498,SetPiece,2014,RightFoot,4508,Newcastle United,Arsenal,1,2,2015-03-21 15:00:00,,None
+22018,23,BlockedShot,0.865,0.485,0.011537046171724796,Danny Welbeck,a,501,SetPiece,2014,Head,4508,Newcastle United,Arsenal,1,2,2015-03-21 15:00:00,Santiago Cazorla,Aerial
+22019,23,Goal,0.9209999847412109,0.47900001525878905,0.1348029226064682,Olivier Giroud,a,502,SetPiece,2014,LeftFoot,4508,Newcastle United,Arsenal,1,2,2015-03-21 15:00:00,Danny Welbeck,Rebound
+22020,25,MissedShots,0.874000015258789,0.5990000152587891,0.06415116041898727,Danny Welbeck,a,501,OpenPlay,2014,RightFoot,4508,Newcastle United,Arsenal,1,2,2015-03-21 15:00:00,Alexis Sánchez,Chipped
+22021,27,Goal,0.94,0.504000015258789,0.1264905035495758,Olivier Giroud,a,502,FromCorner,2014,Head,4508,Newcastle United,Arsenal,1,2,2015-03-21 15:00:00,Santiago Cazorla,Cross
+22029,53,BlockedShot,0.87,0.745,0.04356033727526665,Olivier Giroud,a,502,OpenPlay,2014,LeftFoot,4508,Newcastle United,Arsenal,1,2,2015-03-21 15:00:00,Francis Coquelin,Chipped
+22036,78,SavedShot,0.9819999694824219,0.6530000305175782,0.3041103780269623,Danny Welbeck,a,501,OpenPlay,2014,RightFoot,4508,Newcastle United,Arsenal,1,2,2015-03-21 15:00:00,Aaron Ramsey,TakeOn

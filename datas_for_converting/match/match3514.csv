@@ -1,0 +1,31 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+112472,8,BlockedShot,0.85,0.4329999923706055,0.05720467492938042,Riyad Mahrez,h,750,OpenPlay,2016,LeftFoot,3514,Leicester,Bournemouth,1,1,2017-05-21 15:00:00,,None
+112473,8,MissedShots,0.7580000305175781,0.6079999923706054,0.024044526740908623,Ben Chilwell,h,782,OpenPlay,2016,LeftFoot,3514,Leicester,Bournemouth,1,1,2017-05-21 15:00:00,,Rebound
+112475,19,MissedShots,0.93,0.435,0.03431953862309456,Christian Fuchs,h,749,FromCorner,2016,Head,3514,Leicester,Bournemouth,1,1,2017-05-21 15:00:00,Riyad Mahrez,Aerial
+112479,36,SavedShot,0.9519999694824218,0.345,0.05941393971443176,Riyad Mahrez,h,750,OpenPlay,2016,LeftFoot,3514,Leicester,Bournemouth,1,1,2017-05-21 15:00:00,Marc Albrighton,Chipped
+112481,39,BlockedShot,0.805,0.635,0.03130431845784187,Marc Albrighton,h,753,OpenPlay,2016,RightFoot,3514,Leicester,Bournemouth,1,1,2017-05-21 15:00:00,,None
+112482,39,BlockedShot,0.8959999847412109,0.5379999923706055,0.08090514689683914,Wilfred Ndidi,h,5545,OpenPlay,2016,RightFoot,3514,Leicester,Bournemouth,1,1,2017-05-21 15:00:00,Marc Albrighton,None
+112483,39,BlockedShot,0.9119999694824219,0.524000015258789,0.12176211923360825,Yohan Benalouane,h,974,OpenPlay,2016,RightFoot,3514,Leicester,Bournemouth,1,1,2017-05-21 15:00:00,Wilfred Ndidi,Rebound
+112484,39,MissedShots,0.94,0.34700000762939454,0.013472935184836388,Islam Slimani,h,1682,FromCorner,2016,Head,3514,Leicester,Bournemouth,1,1,2017-05-21 15:00:00,Riyad Mahrez,Cross
+112485,42,MissedShots,0.915,0.40400001525878904,0.02958635240793228,Wilfred Ndidi,h,5545,OpenPlay,2016,Head,3514,Leicester,Bournemouth,1,1,2017-05-21 15:00:00,Christian Fuchs,Pass
+112486,50,MissedShots,0.9219999694824219,0.5940000152587891,0.029105257242918015,Wilfred Ndidi,h,5545,OpenPlay,2016,Head,3514,Leicester,Bournemouth,1,1,2017-05-21 15:00:00,Christian Fuchs,Aerial
+112487,50,Goal,0.9880000305175781,0.519000015258789,0.9569814205169678,Jamie Vardy,h,755,OpenPlay,2016,RightFoot,3514,Leicester,Bournemouth,1,1,2017-05-21 15:00:00,Islam Slimani,HeadPass
+112491,59,BlockedShot,0.925,0.47400001525878904,0.1452738493680954,Islam Slimani,h,1682,OpenPlay,2016,RightFoot,3514,Leicester,Bournemouth,1,1,2017-05-21 15:00:00,Jamie Vardy,Pass
+112492,66,SavedShot,0.9269999694824219,0.3320000076293945,0.10272082686424255,Jamie Vardy,h,755,OpenPlay,2016,RightFoot,3514,Leicester,Bournemouth,1,1,2017-05-21 15:00:00,Riyad Mahrez,Pass
+112493,68,MissedShots,0.8490000152587891,0.55,0.030381901189684868,Islam Slimani,h,1682,SetPiece,2016,RightFoot,3514,Leicester,Bournemouth,1,1,2017-05-21 15:00:00,Danny Simpson,Cross
+112494,70,MissedShots,0.9330000305175781,0.355,0.05815916135907173,Riyad Mahrez,h,750,OpenPlay,2016,LeftFoot,3514,Leicester,Bournemouth,1,1,2017-05-21 15:00:00,Marc Albrighton,Cross
+112495,70,SavedShot,0.9330000305175781,0.44299999237060544,0.04734334722161293,Jamie Vardy,h,755,OpenPlay,2016,Head,3514,Leicester,Bournemouth,1,1,2017-05-21 15:00:00,Riyad Mahrez,Rebound
+112496,78,MissedShots,0.7780000305175782,0.53,0.03236159682273865,Wilfred Ndidi,h,5545,OpenPlay,2016,LeftFoot,3514,Leicester,Bournemouth,1,1,2017-05-21 15:00:00,Daniel Amartey,Pass
+112497,79,BlockedShot,0.879000015258789,0.45799999237060546,0.08743740618228912,Wilfred Ndidi,h,5545,OpenPlay,2016,RightFoot,3514,Leicester,Bournemouth,1,1,2017-05-21 15:00:00,,None
+112498,82,BlockedShot,0.9219999694824219,0.629000015258789,0.11401461809873581,Ben Chilwell,h,782,OpenPlay,2016,LeftFoot,3514,Leicester,Bournemouth,1,1,2017-05-21 15:00:00,,TakeOn
+112499,84,MissedShots,0.955999984741211,0.565,0.41126692295074463,Islam Slimani,h,1682,SetPiece,2016,Head,3514,Leicester,Bournemouth,1,1,2017-05-21 15:00:00,Riyad Mahrez,Cross
+112470,0,BlockedShot,0.9,0.54,0.09746641665697098,Lys Mousset,a,1748,OpenPlay,2016,LeftFoot,3514,Leicester,Bournemouth,1,1,2017-05-21 15:00:00,,None
+112471,0,Goal,0.9219999694824219,0.48,0.49140411615371704,Junior Stanislas,a,463,OpenPlay,2016,RightFoot,3514,Leicester,Bournemouth,1,1,2017-05-21 15:00:00,,Rebound
+112474,17,MissedShots,0.7180000305175781,0.34700000762939454,0.015048820525407791,Junior Stanislas,a,463,SetPiece,2016,RightFoot,3514,Leicester,Bournemouth,1,1,2017-05-21 15:00:00,Andrew Surman,Pass
+112476,23,SavedShot,0.775,0.5179999923706055,0.04245257377624512,Dan Gosling,a,462,OpenPlay,2016,RightFoot,3514,Leicester,Bournemouth,1,1,2017-05-21 15:00:00,Adam Smith,Pass
+112477,29,SavedShot,0.779000015258789,0.6719999694824219,0.029503652825951576,Lys Mousset,a,1748,OpenPlay,2016,RightFoot,3514,Leicester,Bournemouth,1,1,2017-05-21 15:00:00,Junior Stanislas,Pass
+112478,32,BlockedShot,0.750999984741211,0.27700000762939453,0.04034696891903877,Junior Stanislas,a,463,DirectFreekick,2016,RightFoot,3514,Leicester,Bournemouth,1,1,2017-05-21 15:00:00,,Standard
+112480,37,SavedShot,0.7680000305175781,0.5129999923706055,0.03690259903669357,Ryan Fraser,a,1683,OpenPlay,2016,RightFoot,3514,Leicester,Bournemouth,1,1,2017-05-21 15:00:00,Marc Pugh,Pass
+112488,52,BlockedShot,0.8030000305175782,0.26399999618530273,0.057749565690755844,Junior Stanislas,a,463,DirectFreekick,2016,RightFoot,3514,Leicester,Bournemouth,1,1,2017-05-21 15:00:00,,Standard
+112489,55,MissedShots,0.775,0.375,0.07123635709285736,Andrew Surman,a,460,DirectFreekick,2016,LeftFoot,3514,Leicester,Bournemouth,1,1,2017-05-21 15:00:00,,Standard
+112490,57,BlockedShot,0.7219999694824218,0.6790000152587891,0.03650451824069023,Junior Stanislas,a,463,DirectFreekick,2016,RightFoot,3514,Leicester,Bournemouth,1,1,2017-05-21 15:00:00,,Standard

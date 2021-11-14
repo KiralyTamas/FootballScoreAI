@@ -1,0 +1,28 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+133048,9,BlockedShot,0.8719999694824219,0.7659999847412109,0.028032515197992325,Pablo De Blasis,h,44,OpenPlay,2016,RightFoot,3868,Mainz 05,Eintracht Frankfurt,4,2,2017-05-13 14:30:00,Bojan,Pass
+133051,13,MissedShots,0.88,0.745,0.031171441078186035,Daniel Brosinski,h,38,OpenPlay,2016,RightFoot,3868,Mainz 05,Eintracht Frankfurt,4,2,2017-05-13 14:30:00,,None
+133052,19,BlockedShot,0.8380000305175781,0.68,0.039405569434165955,Fabian Frei,h,441,OpenPlay,2016,LeftFoot,3868,Mainz 05,Eintracht Frankfurt,4,2,2017-05-13 14:30:00,,None
+133053,21,SavedShot,0.7819999694824219,0.6079999923706054,0.05036099627614021,Jhon Córdoba,h,48,OpenPlay,2016,RightFoot,3868,Mainz 05,Eintracht Frankfurt,4,2,2017-05-13 14:30:00,Bojan,Pass
+133054,24,BlockedShot,0.7340000152587891,0.6719999694824219,0.01355209480971098,Jean-Philippe Gbamin,h,4764,OpenPlay,2016,RightFoot,3868,Mainz 05,Eintracht Frankfurt,4,2,2017-05-13 14:30:00,Bojan,Pass
+133055,24,SavedShot,0.9080000305175782,0.3629999923706055,0.014038799330592155,Levin Öztunali,h,118,OpenPlay,2016,Head,3868,Mainz 05,Eintracht Frankfurt,4,2,2017-05-13 14:30:00,,Rebound
+133056,33,BlockedShot,0.904000015258789,0.4490000152587891,0.08333656191825867,Leon Balogun,h,394,FromCorner,2016,LeftFoot,3868,Mainz 05,Eintracht Frankfurt,4,2,2017-05-13 14:30:00,Jhon Córdoba,BallTouch
+133057,34,SavedShot,0.7859999847412109,0.37,0.028344422578811646,Giulio Donati,h,193,OpenPlay,2016,RightFoot,3868,Mainz 05,Eintracht Frankfurt,4,2,2017-05-13 14:30:00,Fabian Frei,Pass
+133058,38,BlockedShot,0.845999984741211,0.590999984741211,0.07120717316865921,Fabian Frei,h,441,OpenPlay,2016,RightFoot,3868,Mainz 05,Eintracht Frankfurt,4,2,2017-05-13 14:30:00,Jhon Córdoba,Pass
+133060,45,BlockedShot,0.9059999847412109,0.33,0.05771823599934578,Jhon Córdoba,h,48,OpenPlay,2016,RightFoot,3868,Mainz 05,Eintracht Frankfurt,4,2,2017-05-13 14:30:00,Giulio Donati,TakeOn
+133061,45,BlockedShot,0.905,0.33799999237060546,0.023209480568766594,Bojan,h,871,OpenPlay,2016,RightFoot,3868,Mainz 05,Eintracht Frankfurt,4,2,2017-05-13 14:30:00,,Aerial
+133064,51,MissedShots,0.7119999694824218,0.5540000152587891,0.044532231986522675,Jean-Philippe Gbamin,h,4764,DirectFreekick,2016,RightFoot,3868,Mainz 05,Eintracht Frankfurt,4,2,2017-05-13 14:30:00,,Standard
+133065,57,SavedShot,0.774000015258789,0.5520000076293945,0.02773970738053322,Jean-Philippe Gbamin,h,4764,OpenPlay,2016,RightFoot,3868,Mainz 05,Eintracht Frankfurt,4,2,2017-05-13 14:30:00,Pablo De Blasis,Pass
+133066,57,MissedShots,0.875999984741211,0.7,0.04973052814602852,Jhon Córdoba,h,48,OpenPlay,2016,RightFoot,3868,Mainz 05,Eintracht Frankfurt,4,2,2017-05-13 14:30:00,Pablo De Blasis,Pass
+133067,59,Goal,0.8669999694824219,0.3270000076293945,0.24899253249168396,Jhon Córdoba,h,48,OpenPlay,2016,RightFoot,3868,Mainz 05,Eintracht Frankfurt,4,2,2017-05-13 14:30:00,Fabian Frei,Chipped
+133068,61,Goal,0.8730000305175781,0.5379999923706055,0.04836340248584747,Stefan Bell,h,40,SetPiece,2016,Head,3868,Mainz 05,Eintracht Frankfurt,4,2,2017-05-13 14:30:00,Daniel Brosinski,Chipped
+133070,65,BlockedShot,0.7580000305175781,0.47,0.026090793311595917,Jean-Philippe Gbamin,h,4764,OpenPlay,2016,RightFoot,3868,Mainz 05,Eintracht Frankfurt,4,2,2017-05-13 14:30:00,Fabian Frei,BallTouch
+133071,67,MissedShots,0.7759999847412109,0.48700000762939455,0.035871539264917374,Fabian Frei,h,441,OpenPlay,2016,LeftFoot,3868,Mainz 05,Eintracht Frankfurt,4,2,2017-05-13 14:30:00,,BallTouch
+133072,70,BlockedShot,0.8959999847412109,0.43400001525878906,0.055770400911569595,Stefan Bell,h,40,FromCorner,2016,RightFoot,3868,Mainz 05,Eintracht Frankfurt,4,2,2017-05-13 14:30:00,Bojan,Cross
+133073,75,Goal,0.8719999694824219,0.48200000762939454,0.03986740857362747,Yoshinori Muto,h,47,OpenPlay,2016,Head,3868,Mainz 05,Eintracht Frankfurt,4,2,2017-05-13 14:30:00,Bojan,Chipped
+133074,92,Goal,0.885,0.5,0.75777667760849,Pablo De Blasis,h,44,Penalty,2016,RightFoot,3868,Mainz 05,Eintracht Frankfurt,4,2,2017-05-13 14:30:00,,Standard
+133049,10,SavedShot,0.8880000305175781,0.3609999847412109,0.3277525007724762,Haris Seferovic,a,291,OpenPlay,2016,LeftFoot,3868,Mainz 05,Eintracht Frankfurt,4,2,2017-05-13 14:30:00,Branimir Hrgota,Throughball
+133050,10,MissedShots,0.8180000305175781,0.5720000076293945,0.04318438470363617,Aymen Barkok,a,5235,OpenPlay,2016,RightFoot,3868,Mainz 05,Eintracht Frankfurt,4,2,2017-05-13 14:30:00,,Rebound
+133059,41,Goal,0.9590000152587891,0.6409999847412109,0.291057288646698,Branimir Hrgota,a,216,OpenPlay,2016,LeftFoot,3868,Mainz 05,Eintracht Frankfurt,4,2,2017-05-13 14:30:00,Aymen Barkok,Chipped
+133062,49,SavedShot,0.9319999694824219,0.4779999923706055,0.5615968108177185,Branimir Hrgota,a,216,OpenPlay,2016,Head,3868,Mainz 05,Eintracht Frankfurt,4,2,2017-05-13 14:30:00,Taleb Tawatha,Cross
+133063,49,Goal,0.985,0.475,0.9760172963142395,Haris Seferovic,a,291,OpenPlay,2016,LeftFoot,3868,Mainz 05,Eintracht Frankfurt,4,2,2017-05-13 14:30:00,,Rebound
+133069,61,MissedShots,0.4909999847412109,0.48700000762939455,0.006518362555652857,Marco Fabián,a,2661,OpenPlay,2016,RightFoot,3868,Mainz 05,Eintracht Frankfurt,4,2,2017-05-13 14:30:00,,None

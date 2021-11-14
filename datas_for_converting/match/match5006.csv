@@ -1,0 +1,28 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+44818,10,MissedShots,0.785,0.7180000305175781,0.020226655527949333,Alejandro Gomez,h,1491,OpenPlay,2014,RightFoot,5006,Atalanta,Cesena,3,2,2014-12-07 14:00:00,Luca Cigarini,Pass
+44820,15,MissedShots,0.8930000305175781,0.5920000076293945,0.03230492025613785,Maximiliano Moralez,h,2029,OpenPlay,2014,Head,5006,Atalanta,Cesena,3,2,2014-12-07 14:00:00,Alejandro Gomez,Cross
+44821,23,MissedShots,0.9319999694824219,0.48900001525878906,0.44464921951293945,Alejandro Gomez,h,1491,OpenPlay,2014,Head,5006,Atalanta,Cesena,3,2,2014-12-07 14:00:00,Maximiliano Moralez,Cross
+44822,26,MissedShots,0.785,0.4229999923706055,0.04396561533212662,Maximiliano Moralez,h,2029,OpenPlay,2014,LeftFoot,5006,Atalanta,Cesena,3,2,2014-12-07 14:00:00,Germán Denis,LayOff
+44827,35,MissedShots,0.7859999847412109,0.695,0.010915805585682392,Luca Cigarini,h,1238,OpenPlay,2014,RightFoot,5006,Atalanta,Cesena,3,2,2014-12-07 14:00:00,,Aerial
+44828,37,MissedShots,0.9730000305175781,0.425,0.306238055229187,Marco D&#039;Alessandro,h,1502,OpenPlay,2014,Head,5006,Atalanta,Cesena,3,2,2014-12-07 14:00:00,Maximiliano Moralez,Aerial
+44830,45,BlockedShot,0.85,0.5259999847412109,0.013623325154185295,Guglielmo Stendardo,h,1556,FromCorner,2014,Head,5006,Atalanta,Cesena,3,2,2014-12-07 14:00:00,Alejandro Gomez,Cross
+44831,45,Goal,0.88,0.4420000076293945,0.06996731460094452,Yohan Benalouane,h,974,FromCorner,2014,RightFoot,5006,Atalanta,Cesena,3,2,2014-12-07 14:00:00,Luca Cigarini,Chipped
+44832,47,MissedShots,0.935,0.44099998474121094,0.11348641663789749,Rolando Bianchi,h,3906,OpenPlay,2014,Head,5006,Atalanta,Cesena,3,2,2014-12-07 14:00:00,Germán Denis,Cross
+44833,49,SavedShot,0.955,0.56,0.12890256941318512,Rolando Bianchi,h,3906,SetPiece,2014,Head,5006,Atalanta,Cesena,3,2,2014-12-07 14:00:00,Luca Cigarini,Cross
+44834,49,Goal,0.975999984741211,0.46599998474121096,0.8449466824531555,Guglielmo Stendardo,h,1556,SetPiece,2014,RightFoot,5006,Atalanta,Cesena,3,2,2014-12-07 14:00:00,,Rebound
+44835,51,Goal,0.9619999694824218,0.6,0.3816892206668854,Maximiliano Moralez,h,2029,OpenPlay,2014,LeftFoot,5006,Atalanta,Cesena,3,2,2014-12-07 14:00:00,,None
+44837,70,BlockedShot,0.7419999694824219,0.4779999923706055,0.028196606785058975,Germán Denis,h,1984,OpenPlay,2014,RightFoot,5006,Atalanta,Cesena,3,2,2014-12-07 14:00:00,Luca Cigarini,Pass
+44838,77,MissedShots,0.9290000152587891,0.39099998474121095,0.23021511733531952,Rolando Bianchi,h,3906,OpenPlay,2014,Head,5006,Atalanta,Cesena,3,2,2014-12-07 14:00:00,Maximiliano Moralez,Cross
+44839,78,ShotOnPost,0.9059999847412109,0.7169999694824218,0.0603223517537117,Cristiano Del Grosso,h,3910,OpenPlay,2014,LeftFoot,5006,Atalanta,Cesena,3,2,2014-12-07 14:00:00,Maximiliano Moralez,Pass
+44840,79,SavedShot,0.8880000305175781,0.46599998474121096,0.04180939868092537,Giulio Migliaccio,h,1503,FromCorner,2014,Head,5006,Atalanta,Cesena,3,2,2014-12-07 14:00:00,Luca Cigarini,Cross
+44841,79,MissedShots,0.9830000305175781,0.43099998474121093,0.5327390432357788,Guglielmo Stendardo,h,1556,FromCorner,2014,RightFoot,5006,Atalanta,Cesena,3,2,2014-12-07 14:00:00,,Rebound
+44842,86,MissedShots,0.8180000305175781,0.3820000076293945,0.2937799394130707,Maximiliano Moralez,h,2029,OpenPlay,2014,RightFoot,5006,Atalanta,Cesena,3,2,2014-12-07 14:00:00,Rolando Bianchi,HeadPass
+44844,88,SavedShot,0.9259999847412109,0.4779999923706055,0.1401386260986328,Rolando Bianchi,h,3906,OpenPlay,2014,Head,5006,Atalanta,Cesena,3,2,2014-12-07 14:00:00,Maximiliano Moralez,Cross
+44819,10,SavedShot,0.9330000305175781,0.41700000762939454,0.11173731833696365,Milan Djuric,a,3856,OpenPlay,2014,Head,5006,Atalanta,Cesena,3,2,2014-12-07 14:00:00,Emmanuel Cascione,Cross
+44823,28,MissedShots,0.8209999847412109,0.6079999923706054,0.017321094870567322,Gregoire Defrel,a,1468,OpenPlay,2014,RightFoot,5006,Atalanta,Cesena,3,2,2014-12-07 14:00:00,Milan Djuric,Aerial
+44824,30,BlockedShot,0.7980000305175782,0.605999984741211,0.03785715252161026,Milan Djuric,a,3856,OpenPlay,2014,RightFoot,5006,Atalanta,Cesena,3,2,2014-12-07 14:00:00,Franco Brienza,Pass
+44825,30,Goal,0.8690000152587891,0.38599998474121094,0.08181487023830414,Gregoire Defrel,a,1468,OpenPlay,2014,LeftFoot,5006,Atalanta,Cesena,3,2,2014-12-07 14:00:00,Luigi Giorgi,Pass
+44826,33,MissedShots,0.7719999694824219,0.5570000076293945,0.049054473638534546,Franco Brienza,a,1611,OpenPlay,2014,LeftFoot,5006,Atalanta,Cesena,3,2,2014-12-07 14:00:00,Milan Djuric,TakeOn
+44829,42,Goal,0.8919999694824219,0.644000015258789,0.08441774547100067,Gregoire Defrel,a,1468,OpenPlay,2014,LeftFoot,5006,Atalanta,Cesena,3,2,2014-12-07 14:00:00,Milan Djuric,HeadPass
+44836,58,BlockedShot,0.835,0.720999984741211,0.026067884638905525,Emmanuel Cascione,a,3854,OpenPlay,2014,RightFoot,5006,Atalanta,Cesena,3,2,2014-12-07 14:00:00,Gregoire Defrel,Pass
+44843,87,MissedShots,0.7519999694824219,0.48,0.023419169709086418,Andrea Tabanelli,a,3857,OpenPlay,2014,RightFoot,5006,Atalanta,Cesena,3,2,2014-12-07 14:00:00,Francesco Renzetti,Pass

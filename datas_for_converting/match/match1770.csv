@@ -1,0 +1,27 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+92376,27,MissedShots,0.764000015258789,0.26,0.016756873577833176,Fede Cartabia,h,2318,OpenPlay,2015,LeftFoot,1770,Deportivo La Coruna,Real Madrid,0,2,2016-05-14 19:00:00,Manuel Pablo,Pass
+92380,35,MissedShots,0.845,0.23,0.0211957860738039,Fede Cartabia,h,2318,OpenPlay,2015,LeftFoot,1770,Deportivo La Coruna,Real Madrid,0,2,2016-05-14 19:00:00,Pedro Mosquera,Chipped
+92385,53,SavedShot,0.8119999694824219,0.4470000076293945,0.04826578497886658,Lucas Pérez,h,1700,OpenPlay,2015,RightFoot,1770,Deportivo La Coruna,Real Madrid,0,2,2016-05-14 19:00:00,Luis Alberto,Pass
+92386,58,MissedShots,0.855999984741211,0.4520000076293945,0.08197673410177231,Manuel Pablo,h,2325,OpenPlay,2015,LeftFoot,1770,Deportivo La Coruna,Real Madrid,0,2,2016-05-14 19:00:00,Luis Alberto,Pass
+92387,64,BlockedShot,0.7809999847412109,0.4329999923706055,0.03976643085479736,Sidnei,h,2314,OpenPlay,2015,LeftFoot,1770,Deportivo La Coruna,Real Madrid,0,2,2016-05-14 19:00:00,Alejandro Arribas,LayOff
+92389,67,MissedShots,0.7819999694824219,0.4209999847412109,0.03368597850203514,Álex Bergantiños,h,2317,OpenPlay,2015,RightFoot,1770,Deportivo La Coruna,Real Madrid,0,2,2016-05-14 19:00:00,Luis Alberto,Pass
+92390,71,SavedShot,0.9259999847412109,0.4620000076293945,0.3491727411746979,Rober,h,2326,FromCorner,2015,Head,1770,Deportivo La Coruna,Real Madrid,0,2,2016-05-14 19:00:00,Lucas Pérez,Cross
+92391,73,MissedShots,0.7080000305175781,0.39599998474121095,0.010794398374855518,Pedro Mosquera,h,2320,OpenPlay,2015,LeftFoot,1770,Deportivo La Coruna,Real Madrid,0,2,2016-05-14 19:00:00,Fede Cartabia,Pass
+92393,82,BlockedShot,0.8209999847412109,0.3120000076293945,0.028325244784355164,Fede Cartabia,h,2318,OpenPlay,2015,LeftFoot,1770,Deportivo La Coruna,Real Madrid,0,2,2016-05-14 19:00:00,Lucas Pérez,Pass
+92395,86,MissedShots,0.7819999694824219,0.66,0.0213287603110075,Luis Alberto,h,1219,OpenPlay,2015,RightFoot,1770,Deportivo La Coruna,Real Madrid,0,2,2016-05-14 19:00:00,Celso Borges,Pass
+92371,6,MissedShots,0.88,0.575,0.1077941432595253,Karim Benzema,a,2370,OpenPlay,2015,LeftFoot,1770,Deportivo La Coruna,Real Madrid,0,2,2016-05-14 19:00:00,Gareth Bale,Pass
+92372,6,Goal,0.919000015258789,0.44099998474121094,0.4356309771537781,Cristiano Ronaldo,a,2371,OpenPlay,2015,LeftFoot,1770,Deportivo La Coruna,Real Madrid,0,2,2016-05-14 19:00:00,Karim Benzema,Rebound
+92373,24,BlockedShot,0.9159999847412109,0.595999984741211,0.026650458574295044,Cristiano Ronaldo,a,2371,FromCorner,2015,Head,1770,Deportivo La Coruna,Real Madrid,0,2,2016-05-14 19:00:00,Toni Kroos,Goal
+92374,24,BlockedShot,0.7919999694824219,0.33299999237060546,0.02024720422923565,Luka Modric,a,2250,FromCorner,2015,RightFoot,1770,Deportivo La Coruna,Real Madrid,0,2,2016-05-14 19:00:00,,None
+92375,24,Goal,0.92,0.485,0.11020640283823013,Cristiano Ronaldo,a,2371,FromCorner,2015,Head,1770,Deportivo La Coruna,Real Madrid,0,2,2016-05-14 19:00:00,Toni Kroos,Cross
+92377,28,ShotOnPost,0.9419999694824219,0.6430000305175781,0.316321462392807,Cristiano Ronaldo,a,2371,OpenPlay,2015,RightFoot,1770,Deportivo La Coruna,Real Madrid,0,2,2016-05-14 19:00:00,Pepe,Chipped
+92378,29,SavedShot,0.8159999847412109,0.5590000152587891,0.08015185594558716,Karim Benzema,a,2370,OpenPlay,2015,RightFoot,1770,Deportivo La Coruna,Real Madrid,0,2,2016-05-14 19:00:00,Cristiano Ronaldo,Pass
+92379,33,ShotOnPost,0.87,0.6480000305175782,0.08356699347496033,Cristiano Ronaldo,a,2371,OpenPlay,2015,LeftFoot,1770,Deportivo La Coruna,Real Madrid,0,2,2016-05-14 19:00:00,Marcelo,Pass
+92381,44,BlockedShot,0.7140000152587891,0.43599998474121093,0.0481572151184082,Cristiano Ronaldo,a,2371,DirectFreekick,2015,RightFoot,1770,Deportivo La Coruna,Real Madrid,0,2,2016-05-14 19:00:00,,Standard
+92382,44,MissedShots,0.7090000152587891,0.46099998474121096,0.011849049478769302,Cristiano Ronaldo,a,2371,SetPiece,2015,RightFoot,1770,Deportivo La Coruna,Real Madrid,0,2,2016-05-14 19:00:00,,Rebound
+92383,44,MissedShots,0.8959999847412109,0.5029999923706054,0.4635774791240692,Casemiro,a,2248,SetPiece,2015,RightFoot,1770,Deportivo La Coruna,Real Madrid,0,2,2016-05-14 19:00:00,,Rebound
+92384,49,SavedShot,0.745999984741211,0.4329999923706055,0.027860313653945923,James Rodríguez,a,2249,OpenPlay,2015,LeftFoot,1770,Deportivo La Coruna,Real Madrid,0,2,2016-05-14 19:00:00,Karim Benzema,Pass
+92388,66,MissedShots,0.715999984741211,0.30100000381469727,0.01303189154714346,Daniel Carvajal,a,2260,OpenPlay,2015,RightFoot,1770,Deportivo La Coruna,Real Madrid,0,2,2016-05-14 19:00:00,,None
+92392,78,MissedShots,0.904000015258789,0.5270000076293946,0.09835099428892136,Isco,a,2255,OpenPlay,2015,Head,1770,Deportivo La Coruna,Real Madrid,0,2,2016-05-14 19:00:00,Daniel Carvajal,Cross
+92394,85,SavedShot,0.970999984741211,0.67,0.08111840486526489,Marcelo,a,2257,OpenPlay,2015,LeftFoot,1770,Deportivo La Coruna,Real Madrid,0,2,2016-05-14 19:00:00,Jesé,Pass
+92396,86,MissedShots,0.8180000305175781,0.3579999923706055,0.06014382094144821,James Rodríguez,a,2249,OpenPlay,2015,LeftFoot,1770,Deportivo La Coruna,Real Madrid,0,2,2016-05-14 19:00:00,Jesé,Pass

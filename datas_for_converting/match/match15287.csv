@@ -1,0 +1,29 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+400023,12,BlockedShot,0.9169999694824219,0.47200000762939454,0.09826269000768661,Ermedin Demirovic,h,6496,OpenPlay,2020,RightFoot,15287,Freiburg,Eintracht Frankfurt,2,2,2021-01-20 19:30:00,Roland Sallai,Cross
+400024,12,MissedShots,0.764000015258789,0.654000015258789,0.016423406079411507,Christian Günter,h,4243,OpenPlay,2020,RightFoot,15287,Freiburg,Eintracht Frankfurt,2,2,2021-01-20 19:30:00,Vincenzo Grifo,BallRecovery
+400025,22,MissedShots,0.8780000305175781,0.519000015258789,0.05253126472234726,Lucas Höler,h,6475,FromCorner,2020,LeftFoot,15287,Freiburg,Eintracht Frankfurt,2,2,2021-01-20 19:30:00,Vincenzo Grifo,Cross
+400028,31,Goal,0.895,0.38299999237060545,0.33499377965927124,Roland Sallai,h,1277,OpenPlay,2020,RightFoot,15287,Freiburg,Eintracht Frankfurt,2,2,2021-01-20 19:30:00,Ermedin Demirovic,Pass
+400032,42,SavedShot,0.75,0.59,0.020339882001280785,Christian Günter,h,4243,OpenPlay,2020,LeftFoot,15287,Freiburg,Eintracht Frankfurt,2,2,2021-01-20 19:30:00,Philipp Lienhart,Pass
+400035,47,MissedShots,0.899000015258789,0.580999984741211,0.052804335951805115,Keven Schlotterbeck,h,7401,SetPiece,2020,LeftFoot,15287,Freiburg,Eintracht Frankfurt,2,2,2021-01-20 19:30:00,Vincenzo Grifo,Cross
+400037,56,MissedShots,0.7330000305175781,0.37599998474121094,0.013167671859264374,Janik Haberer,h,4271,OpenPlay,2020,RightFoot,15287,Freiburg,Eintracht Frankfurt,2,2,2021-01-20 19:30:00,,TakeOn
+400038,62,Goal,0.860999984741211,0.39299999237060546,0.058890450745821,Nils Petersen,h,4248,SetPiece,2020,LeftFoot,15287,Freiburg,Eintracht Frankfurt,2,2,2021-01-20 19:30:00,,None
+400040,73,SavedShot,0.8590000152587891,0.590999984741211,0.08478992432355881,Vincenzo Grifo,h,5266,OpenPlay,2020,RightFoot,15287,Freiburg,Eintracht Frankfurt,2,2,2021-01-20 19:30:00,Christian Günter,Pass
+400042,74,OwnGoal,0.012999999523162841,0.4879999923706055,0,Keven Schlotterbeck,h,7401,SetPiece,2020,OtherBodyPart,15287,Freiburg,Eintracht Frankfurt,2,2,2021-01-20 19:30:00,,Clearance
+400043,78,BlockedShot,0.7369999694824219,0.4779999923706055,0.019658908247947693,Yannik Keitel,h,8206,OpenPlay,2020,RightFoot,15287,Freiburg,Eintracht Frankfurt,2,2,2021-01-20 19:30:00,Vincenzo Grifo,Pass
+400044,78,BlockedShot,0.9330000305175781,0.40900001525878904,0.06565982848405838,Ermedin Demirovic,h,6496,FromCorner,2020,RightFoot,15287,Freiburg,Eintracht Frankfurt,2,2,2021-01-20 19:30:00,Vincenzo Grifo,Cross
+400046,87,MissedShots,0.8859999847412109,0.2510000038146973,0.032579854130744934,Lino Tempelmann,h,7811,OpenPlay,2020,RightFoot,15287,Freiburg,Eintracht Frankfurt,2,2,2021-01-20 19:30:00,Vincenzo Grifo,Pass
+400019,5,Goal,0.87,0.545,0.10719318687915802,Amin Younes,a,7289,OpenPlay,2020,LeftFoot,15287,Freiburg,Eintracht Frankfurt,2,2,2021-01-20 19:30:00,Djibril Sow,Pass
+400020,7,BlockedShot,0.919000015258789,0.4759999847412109,0.1367095559835434,André Silva,a,6170,OpenPlay,2020,Head,15287,Freiburg,Eintracht Frankfurt,2,2,2021-01-20 19:30:00,Almamy Touré,Cross
+400021,10,MissedShots,0.915,0.5359999847412109,0.1462445855140686,Almamy Touré,a,3431,OpenPlay,2020,RightFoot,15287,Freiburg,Eintracht Frankfurt,2,2,2021-01-20 19:30:00,Filip Kostic,Pass
+400022,11,MissedShots,0.8180000305175781,0.504000015258789,0.06967806816101074,Djibril Sow,a,2624,OpenPlay,2020,RightFoot,15287,Freiburg,Eintracht Frankfurt,2,2,2021-01-20 19:30:00,André Silva,Pass
+400026,25,BlockedShot,0.8119999694824219,0.504000015258789,0.05720179155468941,André Silva,a,6170,OpenPlay,2020,RightFoot,15287,Freiburg,Eintracht Frankfurt,2,2,2021-01-20 19:30:00,Aymen Barkok,Pass
+400027,25,MissedShots,0.7430000305175781,0.6659999847412109,0.017996659502387047,Makoto Hasebe,a,282,OpenPlay,2020,RightFoot,15287,Freiburg,Eintracht Frankfurt,2,2,2021-01-20 19:30:00,,None
+400029,36,BlockedShot,0.8919999694824219,0.5070000076293946,0.05600118264555931,Almamy Touré,a,3431,FromCorner,2020,Head,15287,Freiburg,Eintracht Frankfurt,2,2,2021-01-20 19:30:00,Filip Kostic,Cross
+400030,38,SavedShot,0.965,0.67,0.060293324291706085,André Silva,a,6170,OpenPlay,2020,LeftFoot,15287,Freiburg,Eintracht Frankfurt,2,2,2021-01-20 19:30:00,Amin Younes,Pass
+400031,38,SavedShot,0.965,0.6140000152587891,0.03394589573144913,Martin Hinteregger,a,2668,FromCorner,2020,Head,15287,Freiburg,Eintracht Frankfurt,2,2,2021-01-20 19:30:00,Amin Younes,Cross
+400033,44,MissedShots,0.7830000305175782,0.6880000305175781,0.02134845405817032,Filip Kostic,a,64,OpenPlay,2020,LeftFoot,15287,Freiburg,Eintracht Frankfurt,2,2,2021-01-20 19:30:00,Amin Younes,Pass
+400034,45,MissedShots,0.9119999694824219,0.44599998474121094,0.46537256240844727,Daichi Kamada,a,6145,OpenPlay,2020,RightFoot,15287,Freiburg,Eintracht Frankfurt,2,2,2021-01-20 19:30:00,André Silva,Pass
+400036,55,BlockedShot,0.7390000152587891,0.5879999923706055,0.05637284368276596,André Silva,a,6170,DirectFreekick,2020,RightFoot,15287,Freiburg,Eintracht Frankfurt,2,2,2021-01-20 19:30:00,,Standard
+400039,72,BlockedShot,0.885,0.5970000076293945,0.09118249267339706,André Silva,a,6170,OpenPlay,2020,RightFoot,15287,Freiburg,Eintracht Frankfurt,2,2,2021-01-20 19:30:00,Filip Kostic,Pass
+400041,74,BlockedShot,0.8780000305175781,0.355,0.0554155670106411,Daichi Kamada,a,6145,SetPiece,2020,RightFoot,15287,Freiburg,Eintracht Frankfurt,2,2,2021-01-20 19:30:00,,None
+400045,80,MissedShots,0.885,0.48400001525878905,0.0770106315612793,Luka Jovic,a,6228,OpenPlay,2020,RightFoot,15287,Freiburg,Eintracht Frankfurt,2,2,2021-01-20 19:30:00,Filip Kostic,Cross

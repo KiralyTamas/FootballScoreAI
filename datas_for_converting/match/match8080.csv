@@ -1,0 +1,21 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+191107,11,Goal,0.8569999694824219,0.46,0.379003643989563,Iago Aspas,h,2290,OpenPlay,2017,LeftFoot,8080,Celta Vigo,Real Betis,3,2,2018-01-29 20:00:00,Nemanja Radoja,BallRecovery
+191108,18,MissedShots,0.8,0.5129999923706055,0.06298092752695084,Maxi Gómez,h,6124,OpenPlay,2017,RightFoot,8080,Celta Vigo,Real Betis,3,2,2018-01-29 20:00:00,Iago Aspas,Pass
+191109,27,BlockedShot,0.8490000152587891,0.605999984741211,0.04316912218928337,Jonny,h,2280,FromCorner,2017,LeftFoot,8080,Celta Vigo,Real Betis,3,2,2018-01-29 20:00:00,,BallTouch
+191110,35,BlockedShot,0.7909999847412109,0.634000015258789,0.037592463195323944,Pione Sisto,h,5116,OpenPlay,2017,RightFoot,8080,Celta Vigo,Real Betis,3,2,2018-01-29 20:00:00,Iago Aspas,Pass
+191111,38,MissedShots,0.89,0.615999984741211,0.02120940200984478,Sergi Gómez,h,2282,FromCorner,2017,Head,8080,Celta Vigo,Real Betis,3,2,2018-01-29 20:00:00,Iago Aspas,Cross
+191112,48,BlockedShot,0.745,0.4520000076293945,0.027862530201673508,Iago Aspas,h,2290,OpenPlay,2017,LeftFoot,8080,Celta Vigo,Real Betis,3,2,2018-01-29 20:00:00,Daniel Wass,Pass
+191113,49,MissedShots,0.9640000152587891,0.6179999923706054,0.014110976830124855,Maxi Gómez,h,6124,FromCorner,2017,Head,8080,Celta Vigo,Real Betis,3,2,2018-01-29 20:00:00,Iago Aspas,Aerial
+191114,50,SavedShot,0.9430000305175781,0.57,0.4726318418979645,Maxi Gómez,h,6124,OpenPlay,2017,RightFoot,8080,Celta Vigo,Real Betis,3,2,2018-01-29 20:00:00,Pione Sisto,TakeOn
+191115,51,SavedShot,0.9830000305175781,0.6140000152587891,0.35764458775520325,Maxi Gómez,h,6124,OpenPlay,2017,LeftFoot,8080,Celta Vigo,Real Betis,3,2,2018-01-29 20:00:00,,BallTouch
+191116,56,Goal,0.95,0.52,0.596207320690155,Maxi Gómez,h,6124,OpenPlay,2017,Head,8080,Celta Vigo,Real Betis,3,2,2018-01-29 20:00:00,Jonny,Cross
+191120,78,Goal,0.92,0.4520000076293945,0.5152483582496643,Iago Aspas,h,2290,OpenPlay,2017,LeftFoot,8080,Celta Vigo,Real Betis,3,2,2018-01-29 20:00:00,Brais Méndez,Pass
+191121,81,BlockedShot,0.8490000152587891,0.34200000762939453,0.0709289088845253,Maxi Gómez,h,6124,OpenPlay,2017,RightFoot,8080,Celta Vigo,Real Betis,3,2,2018-01-29 20:00:00,Nemanja Radoja,Pass
+191123,89,MissedShots,0.8909999847412109,0.5159999847412109,0.14218631386756897,Jozabed,h,2165,OpenPlay,2017,RightFoot,8080,Celta Vigo,Real Betis,3,2,2018-01-29 20:00:00,Emre Mor,Pass
+191105,5,MissedShots,0.83,0.36700000762939455,0.050804901868104935,Andrés Guardado,a,6164,OpenPlay,2017,RightFoot,8080,Celta Vigo,Real Betis,3,2,2018-01-29 20:00:00,Cristian Tello,Pass
+191106,9,BlockedShot,0.9080000305175782,0.44,0.09195112437009811,Andrés Guardado,a,6164,OpenPlay,2017,RightFoot,8080,Celta Vigo,Real Betis,3,2,2018-01-29 20:00:00,Antonio Barragán,Cross
+191117,61,SavedShot,0.755,0.295,0.01274865958839655,Fabián,a,2447,OpenPlay,2017,LeftFoot,8080,Celta Vigo,Real Betis,3,2,2018-01-29 20:00:00,Joaquín,Pass
+191118,70,Goal,0.879000015258789,0.47400001525878904,0.3264196813106537,Sergio León,a,5095,OpenPlay,2017,LeftFoot,8080,Celta Vigo,Real Betis,3,2,2018-01-29 20:00:00,Riza Durmisi,Pass
+191119,74,MissedShots,0.8090000152587891,0.3060000038146973,0.02897346206009388,Joaquín,a,2148,OpenPlay,2017,RightFoot,8080,Celta Vigo,Real Betis,3,2,2018-01-29 20:00:00,Ryad Boudebouz,Pass
+191122,84,MissedShots,0.860999984741211,0.345,0.04379909858107567,Sergio León,a,5095,OpenPlay,2017,RightFoot,8080,Celta Vigo,Real Betis,3,2,2018-01-29 20:00:00,Andrés Guardado,Pass
+191124,90,Goal,0.885,0.5,0.7432776093482971,Andrés Guardado,a,6164,Penalty,2017,LeftFoot,8080,Celta Vigo,Real Betis,3,2,2018-01-29 20:00:00,,Standard

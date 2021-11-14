@@ -1,0 +1,26 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+256315,1,MissedShots,0.914000015258789,0.47,0.062300167977809906,Georg Margreitter,h,7031,SetPiece,2018,Head,10435,Nuernberg,VfB Stuttgart,0,2,2018-11-10 14:30:00,Adam Zrelák,HeadPass
+256317,19,MissedShots,0.7559999847412109,0.39,0.02217068336904049,Sebastian Kerk,h,4346,OpenPlay,2018,LeftFoot,10435,Nuernberg,VfB Stuttgart,0,2,2018-11-10 14:30:00,Virgil Misidjan,Pass
+256320,37,MissedShots,0.785,0.6719999694824219,0.020505305379629135,Tim Leibold,h,7033,OpenPlay,2018,RightFoot,10435,Nuernberg,VfB Stuttgart,0,2,2018-11-10 14:30:00,,None
+256324,46,BlockedShot,0.8280000305175781,0.5420000076293945,0.0734873041510582,Hanno Behrens,h,7035,OpenPlay,2018,RightFoot,10435,Nuernberg,VfB Stuttgart,0,2,2018-11-10 14:30:00,Alexander Fuchs,Pass
+256325,54,SavedShot,0.7269999694824218,0.40799999237060547,0.01563810184597969,Sebastian Kerk,h,4346,OpenPlay,2018,LeftFoot,10435,Nuernberg,VfB Stuttgart,0,2,2018-11-10 14:30:00,Alexander Fuchs,BlockedPass
+256326,54,SavedShot,0.985999984741211,0.3820000076293945,0.070346400141716,Virgil Misidjan,h,7154,OpenPlay,2018,RightFoot,10435,Nuernberg,VfB Stuttgart,0,2,2018-11-10 14:30:00,,Rebound
+256327,54,MissedShots,0.8819999694824219,0.5220000076293946,0.05439649149775505,Georg Margreitter,h,7031,FromCorner,2018,RightFoot,10435,Nuernberg,VfB Stuttgart,0,2,2018-11-10 14:30:00,Sebastian Kerk,Cross
+256332,71,SavedShot,0.894000015258789,0.43599998474121093,0.06673244386911392,Ondrej Petrák,h,7034,SetPiece,2018,Head,10435,Nuernberg,VfB Stuttgart,0,2,2018-11-10 14:30:00,Tim Leibold,Cross
+256338,83,MissedShots,0.7069999694824218,0.325,0.011711034923791885,Virgil Misidjan,h,7154,OpenPlay,2018,RightFoot,10435,Nuernberg,VfB Stuttgart,0,2,2018-11-10 14:30:00,Lukas Mühl,Pass
+256339,89,MissedShots,0.795,0.5920000076293945,0.038652800023555756,Matheus Pereira,h,7153,OpenPlay,2018,LeftFoot,10435,Nuernberg,VfB Stuttgart,0,2,2018-11-10 14:30:00,Adam Zrelák,LayOff
+256316,5,BlockedShot,0.7809999847412109,0.5590000152587891,0.03649195656180382,Christian Gentner,a,60,OpenPlay,2018,RightFoot,10435,Nuernberg,VfB Stuttgart,0,2,2018-11-10 14:30:00,,BallRecovery
+256318,27,MissedShots,0.915,0.5329999923706055,0.12715652585029602,Nicolás González,a,7074,OpenPlay,2018,Head,10435,Nuernberg,VfB Stuttgart,0,2,2018-11-10 14:30:00,Andreas Beck,Cross
+256319,30,MissedShots,0.745,0.745999984741211,0.01578114554286003,Marc-Oliver Kempf,a,4291,OpenPlay,2018,LeftFoot,10435,Nuernberg,VfB Stuttgart,0,2,2018-11-10 14:30:00,Christian Gentner,Pass
+256321,38,MissedShots,0.899000015258789,0.5670000076293945,0.40616267919540405,Mario Gomez,a,3887,OpenPlay,2018,RightFoot,10435,Nuernberg,VfB Stuttgart,0,2,2018-11-10 14:30:00,Nicolás González,Pass
+256322,40,BlockedShot,0.779000015258789,0.44,0.03241676464676857,Santiago Ascacibar,a,6289,OpenPlay,2018,RightFoot,10435,Nuernberg,VfB Stuttgart,0,2,2018-11-10 14:30:00,Christian Gentner,Pass
+256323,41,MissedShots,0.7190000152587891,0.425,0.014322496950626373,Santiago Ascacibar,a,6289,OpenPlay,2018,RightFoot,10435,Nuernberg,VfB Stuttgart,0,2,2018-11-10 14:30:00,Mario Gomez,HeadPass
+256328,56,MissedShots,0.889000015258789,0.5979999923706054,0.07879989594221115,Mario Gomez,a,3887,OpenPlay,2018,RightFoot,10435,Nuernberg,VfB Stuttgart,0,2,2018-11-10 14:30:00,,None
+256329,59,MissedShots,0.875999984741211,0.5940000152587891,0.014083580113947392,Timo Baumgartl,a,71,OpenPlay,2018,Head,10435,Nuernberg,VfB Stuttgart,0,2,2018-11-10 14:30:00,Pablo Maffeo,Aerial
+256330,63,BlockedShot,0.799000015258789,0.7280000305175781,0.023182395845651627,Nicolás González,a,7074,OpenPlay,2018,LeftFoot,10435,Nuernberg,VfB Stuttgart,0,2,2018-11-10 14:30:00,Marc-Oliver Kempf,Pass
+256331,67,Goal,0.8640000152587891,0.47299999237060547,0.07143787294626236,Timo Baumgartl,a,71,FromCorner,2018,LeftFoot,10435,Nuernberg,VfB Stuttgart,0,2,2018-11-10 14:30:00,,None
+256333,78,SavedShot,0.8580000305175781,0.5570000076293945,0.33477893471717834,Christian Gentner,a,60,OpenPlay,2018,RightFoot,10435,Nuernberg,VfB Stuttgart,0,2,2018-11-10 14:30:00,Mario Gomez,Pass
+256334,78,SavedShot,0.9219999694824219,0.580999984741211,0.4084787368774414,Christian Gentner,a,60,OpenPlay,2018,LeftFoot,10435,Nuernberg,VfB Stuttgart,0,2,2018-11-10 14:30:00,,Rebound
+256335,80,MissedShots,0.914000015258789,0.48400001525878905,0.04041660577058792,Benjamin Pavard,a,3363,FromCorner,2018,Head,10435,Nuernberg,VfB Stuttgart,0,2,2018-11-10 14:30:00,Dennis Aogo,Aerial
+256336,80,BlockedShot,0.7859999847412109,0.4179999923706055,0.04633530229330063,Dennis Aogo,a,334,OpenPlay,2018,LeftFoot,10435,Nuernberg,VfB Stuttgart,0,2,2018-11-10 14:30:00,Andreas Beck,Pass
+256337,81,Goal,0.8090000152587891,0.5279999923706055,0.03667667880654335,Erik Thommy,a,2676,FromCorner,2018,RightFoot,10435,Nuernberg,VfB Stuttgart,0,2,2018-11-10 14:30:00,,None

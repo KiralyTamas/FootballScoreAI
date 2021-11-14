@@ -1,0 +1,35 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+253151,23,MissedShots,0.9069999694824219,0.765,0.029583444818854332,Andrea Beghetto,h,4934,OpenPlay,2018,LeftFoot,9690,Frosinone,Fiorentina,1,1,2018-11-09 19:30:00,Rai Vloet,Pass
+253154,32,MissedShots,0.9259999847412109,0.5609999847412109,0.41208139061927795,Marco Capuano,h,1408,SetPiece,2018,Head,9690,Frosinone,Fiorentina,1,1,2018-11-09 19:30:00,Lorenzo Ariaudo,HeadPass
+253161,58,BlockedShot,0.745,0.6140000152587891,0.018727581948041916,Raman Chibsah,h,1872,OpenPlay,2018,RightFoot,9690,Frosinone,Fiorentina,1,1,2018-11-09 19:30:00,Andrea Beghetto,Pass
+253162,59,MissedShots,0.7340000152587891,0.59,0.017764978110790253,Raffaele Maiello,h,1322,OpenPlay,2018,RightFoot,9690,Frosinone,Fiorentina,1,1,2018-11-09 19:30:00,Rai Vloet,Pass
+253164,67,BlockedShot,0.7319999694824219,0.24600000381469728,0.013099277392029762,Edoardo Goldaniga,h,1264,OpenPlay,2018,RightFoot,9690,Frosinone,Fiorentina,1,1,2018-11-09 19:30:00,Andrea Pinamonti,Pass
+253165,73,BlockedShot,0.7759999847412109,0.6309999847412109,0.025178277865052223,Raman Chibsah,h,1872,OpenPlay,2018,RightFoot,9690,Frosinone,Fiorentina,1,1,2018-11-09 19:30:00,Andrea Beghetto,TakeOn
+253166,73,BlockedShot,0.8530000305175781,0.305,0.03669978305697441,Francesco Zampano,h,1161,OpenPlay,2018,RightFoot,9690,Frosinone,Fiorentina,1,1,2018-11-09 19:30:00,,Rebound
+253169,80,SavedShot,0.8430000305175781,0.47400001525878904,0.04730528965592384,Andrea Pinamonti,h,4895,OpenPlay,2018,LeftFoot,9690,Frosinone,Fiorentina,1,1,2018-11-09 19:30:00,Andrea Beghetto,Cross
+253170,81,SavedShot,0.8580000305175781,0.6020000076293945,0.07161054760217667,Danilo Soddimo,h,1871,OpenPlay,2018,LeftFoot,9690,Frosinone,Fiorentina,1,1,2018-11-09 19:30:00,Andrea Pinamonti,Pass
+253179,88,Goal,0.715,0.5529999923706055,0.01588573306798935,Andrea Pinamonti,h,4895,OpenPlay,2018,RightFoot,9690,Frosinone,Fiorentina,1,1,2018-11-09 19:30:00,Danilo Soddimo,Pass
+253146,13,SavedShot,0.93,0.6880000305175781,0.14515705406665802,Giovanni Simeone,a,1102,OpenPlay,2018,LeftFoot,9690,Frosinone,Fiorentina,1,1,2018-11-09 19:30:00,Jordan Veretout,Throughball
+253147,14,BlockedShot,0.825,0.555,0.06899548321962357,Marco Benassi,a,1183,OpenPlay,2018,LeftFoot,9690,Frosinone,Fiorentina,1,1,2018-11-09 19:30:00,Federico Chiesa,Pass
+253148,15,BlockedShot,0.720999984741211,0.6469999694824219,0.016600696370005608,Gerson,a,1258,OpenPlay,2018,LeftFoot,9690,Frosinone,Fiorentina,1,1,2018-11-09 19:30:00,Jordan Veretout,Pass
+253149,20,SavedShot,0.815,0.475,0.16135430335998535,Cristiano Biraghi,a,1164,DirectFreekick,2018,LeftFoot,9690,Frosinone,Fiorentina,1,1,2018-11-09 19:30:00,,Standard
+253150,22,MissedShots,0.745999984741211,0.705,0.013686771504580975,Jordan Veretout,a,677,OpenPlay,2018,RightFoot,9690,Frosinone,Fiorentina,1,1,2018-11-09 19:30:00,Cristiano Biraghi,Pass
+253152,29,SavedShot,0.9590000152587891,0.6370000076293946,0.016076456755399704,Gerson,a,1258,FromCorner,2018,Head,9690,Frosinone,Fiorentina,1,1,2018-11-09 19:30:00,Cristiano Biraghi,Cross
+253153,30,MissedShots,0.8690000152587891,0.285,0.035118747502565384,Federico Chiesa,a,1433,OpenPlay,2018,RightFoot,9690,Frosinone,Fiorentina,1,1,2018-11-09 19:30:00,Jordan Veretout,Pass
+253155,34,SavedShot,0.9359999847412109,0.28700000762939454,0.03657457232475281,Marko Pjaca,a,1577,OpenPlay,2018,RightFoot,9690,Frosinone,Fiorentina,1,1,2018-11-09 19:30:00,Gerson,Chipped
+253156,37,MissedShots,0.8059999847412109,0.7169999694824218,0.02458009123802185,Federico Chiesa,a,1433,OpenPlay,2018,RightFoot,9690,Frosinone,Fiorentina,1,1,2018-11-09 19:30:00,Marco Benassi,Pass
+253157,42,MissedShots,0.855,0.4909999847412109,0.09830240160226822,Marco Benassi,a,1183,OpenPlay,2018,RightFoot,9690,Frosinone,Fiorentina,1,1,2018-11-09 19:30:00,Marko Pjaca,Pass
+253158,46,Goal,0.9619999694824218,0.5659999847412109,0.3481338322162628,Marco Benassi,a,1183,OpenPlay,2018,OtherBodyPart,9690,Frosinone,Fiorentina,1,1,2018-11-09 19:30:00,Federico Chiesa,Cross
+253159,50,BlockedShot,0.785,0.3770000076293945,0.03180507943034172,Marco Benassi,a,1183,OpenPlay,2018,LeftFoot,9690,Frosinone,Fiorentina,1,1,2018-11-09 19:30:00,Marko Pjaca,Pass
+253160,51,MissedShots,0.759000015258789,0.27399999618530274,0.01869276538491249,Marco Benassi,a,1183,OpenPlay,2018,RightFoot,9690,Frosinone,Fiorentina,1,1,2018-11-09 19:30:00,,Tackle
+253163,64,MissedShots,0.7169999694824218,0.6530000305175782,0.019673539325594902,Cristiano Biraghi,a,1164,OpenPlay,2018,LeftFoot,9690,Frosinone,Fiorentina,1,1,2018-11-09 19:30:00,Gerson,Pass
+253167,74,SavedShot,0.8630000305175781,0.6530000305175782,0.12343543767929077,Jordan Veretout,a,677,OpenPlay,2018,RightFoot,9690,Frosinone,Fiorentina,1,1,2018-11-09 19:30:00,Giovanni Simeone,TakeOn
+253168,76,SavedShot,0.875999984741211,0.68,0.0877302810549736,Federico Chiesa,a,1433,OpenPlay,2018,LeftFoot,9690,Frosinone,Fiorentina,1,1,2018-11-09 19:30:00,Kevin Mirallas,TakeOn
+253171,83,BlockedShot,0.8969999694824219,0.29100000381469726,0.06130310893058777,Kevin Mirallas,a,595,OpenPlay,2018,RightFoot,9690,Frosinone,Fiorentina,1,1,2018-11-09 19:30:00,Federico Chiesa,Pass
+253172,83,MissedShots,0.899000015258789,0.5540000152587891,0.016477474942803383,Germán Pezzella,a,2143,FromCorner,2018,Head,9690,Frosinone,Fiorentina,1,1,2018-11-09 19:30:00,Kevin Mirallas,Aerial
+253173,84,MissedShots,0.8190000152587891,0.6930000305175781,0.03887943550944328,Federico Chiesa,a,1433,OpenPlay,2018,RightFoot,9690,Frosinone,Fiorentina,1,1,2018-11-09 19:30:00,Kevin Mirallas,Pass
+253174,85,SavedShot,0.909000015258789,0.6819999694824219,0.08377411961555481,Federico Chiesa,a,1433,OpenPlay,2018,LeftFoot,9690,Frosinone,Fiorentina,1,1,2018-11-09 19:30:00,Kevin Mirallas,Pass
+253175,86,BlockedShot,0.91,0.495,0.08262448012828827,Dusan Vlahovic,a,7084,FromCorner,2018,Head,9690,Frosinone,Fiorentina,1,1,2018-11-09 19:30:00,Kevin Mirallas,Cross
+253176,86,BlockedShot,0.7919999694824219,0.3820000076293945,0.032125700265169144,Jordan Veretout,a,677,FromCorner,2018,RightFoot,9690,Frosinone,Fiorentina,1,1,2018-11-09 19:30:00,,Rebound
+253177,87,BlockedShot,0.905,0.42700000762939455,0.570704460144043,Kevin Mirallas,a,595,OpenPlay,2018,RightFoot,9690,Frosinone,Fiorentina,1,1,2018-11-09 19:30:00,Jordan Veretout,Pass
+253178,88,BlockedShot,0.8380000305175781,0.3220000076293945,0.04086455702781677,Dusan Vlahovic,a,7084,OpenPlay,2018,LeftFoot,9690,Frosinone,Fiorentina,1,1,2018-11-09 19:30:00,Kevin Mirallas,Pass

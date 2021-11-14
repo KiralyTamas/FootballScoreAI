@@ -1,0 +1,27 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+49904,19,SavedShot,0.730999984741211,0.5529999923706055,0.016349589452147484,Davide Succi,h,3865,OpenPlay,2014,RightFoot,4875,Cesena,Atalanta,2,2,2015-04-29 19:45:00,Daniele Capelli,BallRecovery
+49907,47,SavedShot,0.735,0.45799999237060546,0.019304657354950905,Carlos Carbonero,h,1938,OpenPlay,2014,RightFoot,4875,Cesena,Atalanta,2,2,2015-04-29 19:45:00,Davide Succi,Pass
+49910,50,MissedShots,0.92,0.48900001525878906,0.3637913465499878,Davide Succi,h,3865,OpenPlay,2014,RightFoot,4875,Cesena,Atalanta,2,2,2015-04-29 19:45:00,Gabriele Perico,Chipped
+49912,55,Goal,0.885,0.5,0.7612988352775574,Franco Brienza,h,1611,Penalty,2014,LeftFoot,4875,Cesena,Atalanta,2,2,2015-04-29 19:45:00,,Standard
+49916,69,MissedShots,0.9009999847412109,0.4909999847412109,0.09113774448633194,Luka Krajnc,h,1242,SetPiece,2014,LeftFoot,4875,Cesena,Atalanta,2,2,2015-04-29 19:45:00,Gregoire Defrel,HeadPass
+49917,69,Goal,0.8059999847412109,0.3770000076293945,0.03674221783876419,Carlos Carbonero,h,1938,OpenPlay,2014,RightFoot,4875,Cesena,Atalanta,2,2,2015-04-29 19:45:00,Luigi Giorgi,TakeOn
+49921,83,MissedShots,0.9819999694824219,0.4779999923706055,0.768181562423706,Gabriele Perico,h,3852,SetPiece,2014,RightFoot,4875,Cesena,Atalanta,2,2,2015-04-29 19:45:00,Luka Krajnc,HeadPass
+49922,84,MissedShots,0.88,0.46799999237060547,0.5318785905838013,Alejandro Rodriguez,h,1812,OpenPlay,2014,RightFoot,4875,Cesena,Atalanta,2,2,2015-04-29 19:45:00,Gregoire Defrel,Pass
+49923,87,MissedShots,0.7240000152587891,0.5070000076293946,0.019326254725456238,Gregoire Defrel,h,1468,OpenPlay,2014,LeftFoot,4875,Cesena,Atalanta,2,2,2015-04-29 19:45:00,Gabriele Perico,Pass
+49924,88,SavedShot,0.7530000305175781,0.4929999923706055,0.025677058845758438,Gregoire Defrel,h,1468,OpenPlay,2014,LeftFoot,4875,Cesena,Atalanta,2,2,2015-04-29 19:45:00,Luigi Giorgi,Pass
+49901,5,BlockedShot,0.8969999694824219,0.61,0.292351096868515,Alejandro Gomez,a,1491,OpenPlay,2014,RightFoot,4875,Cesena,Atalanta,2,2,2015-04-29 19:45:00,Luca Cigarini,TakeOn
+49902,7,SavedShot,0.7819999694824219,0.7340000152587891,0.020082509145140648,Maximiliano Moralez,a,2029,OpenPlay,2014,RightFoot,4875,Cesena,Atalanta,2,2,2015-04-29 19:45:00,Alejandro Gomez,Pass
+49903,13,BlockedShot,0.865,0.4209999847412109,0.09524153918027878,Maximiliano Moralez,a,2029,OpenPlay,2014,RightFoot,4875,Cesena,Atalanta,2,2,2015-04-29 19:45:00,Davide Zappacosta,Pass
+49905,36,MissedShots,0.7530000305175781,0.6040000152587891,0.05960802361369133,Carlos Carmona,a,1557,DirectFreekick,2014,RightFoot,4875,Cesena,Atalanta,2,2,2015-04-29 19:45:00,,Standard
+49906,40,MissedShots,0.725999984741211,0.6480000305175782,0.013682403601706028,Mauricio Pinilla,a,1494,OpenPlay,2014,RightFoot,4875,Cesena,Atalanta,2,2,2015-04-29 19:45:00,Carlos Carmona,Tackle
+49908,47,SavedShot,0.965999984741211,0.39299999237060546,0.08455999195575714,Alejandro Gomez,a,1491,OpenPlay,2014,LeftFoot,4875,Cesena,Atalanta,2,2,2015-04-29 19:45:00,Maximiliano Moralez,Cross
+49909,49,Goal,0.879000015258789,0.5690000152587891,0.4028443992137909,Mauricio Pinilla,a,1494,SetPiece,2014,RightFoot,4875,Cesena,Atalanta,2,2,2015-04-29 19:45:00,,None
+49911,53,SavedShot,0.7580000305175781,0.6229999923706054,0.015940746292471886,Alejandro Gomez,a,1491,OpenPlay,2014,RightFoot,4875,Cesena,Atalanta,2,2,2015-04-29 19:45:00,Maximiliano Moralez,HeadPass
+49913,61,SavedShot,0.8109999847412109,0.6469999694824219,0.03430798277258873,Mauricio Pinilla,a,1494,OpenPlay,2014,RightFoot,4875,Cesena,Atalanta,2,2,2015-04-29 19:45:00,,None
+49914,64,MissedShots,0.7619999694824219,0.7230000305175781,0.04427177086472511,Luca Cigarini,a,1238,DirectFreekick,2014,RightFoot,4875,Cesena,Atalanta,2,2,2015-04-29 19:45:00,,Standard
+49915,66,MissedShots,0.91,0.4229999923706055,0.01694396696984768,Boukary Dramé,a,1490,FromCorner,2014,Head,4875,Cesena,Atalanta,2,2,2015-04-29 19:45:00,Maximiliano Moralez,Aerial
+49918,76,MissedShots,0.955,0.5879999923706055,0.09721160680055618,Maximiliano Moralez,a,2029,OpenPlay,2014,RightFoot,4875,Cesena,Atalanta,2,2,2015-04-29 19:45:00,Boukary Dramé,Cross
+49919,81,BlockedShot,0.81,0.45799999237060546,0.05498344451189041,Marco D&#039;Alessandro,a,1502,OpenPlay,2014,LeftFoot,4875,Cesena,Atalanta,2,2,2015-04-29 19:45:00,Gianpaolo Bellini,TakeOn
+49920,81,Goal,0.8959999847412109,0.6020000076293945,0.0737953707575798,Mauricio Pinilla,a,1494,OpenPlay,2014,RightFoot,4875,Cesena,Atalanta,2,2,2015-04-29 19:45:00,,Rebound
+49925,91,SavedShot,0.884000015258789,0.415,0.04065440222620964,Mauricio Pinilla,a,1494,SetPiece,2014,Head,4875,Cesena,Atalanta,2,2,2015-04-29 19:45:00,Maximiliano Moralez,Chipped
+49926,93,MissedShots,0.8180000305175781,0.5629999923706055,0.07075145840644836,Rolando Bianchi,a,3906,OpenPlay,2014,RightFoot,4875,Cesena,Atalanta,2,2,2015-04-29 19:45:00,Andrea Masiello,Pass

@@ -1,0 +1,25 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+28066,3,BlockedShot,0.8530000305175781,0.67,0.039203278720378876,Vieirinha,h,151,FromCorner,2014,LeftFoot,5345,Wolfsburg,FC Cologne,2,1,2014-12-20 17:30:00,Ricardo Rodríguez,Pass
+28067,4,MissedShots,0.915,0.4779999923706055,0.044826894998550415,Robin Knoche,h,161,FromCorner,2014,Head,5345,Wolfsburg,FC Cologne,2,1,2014-12-20 17:30:00,Ricardo Rodríguez,Aerial
+28070,13,MissedShots,0.845999984741211,0.2670000076293945,0.025849996134638786,Vieirinha,h,151,OpenPlay,2014,RightFoot,5345,Wolfsburg,FC Cologne,2,1,2014-12-20 17:30:00,Junior Malanda,Pass
+28071,15,Goal,0.8859999847412109,0.5029999923706054,0.029506370425224304,Bas Dost,h,158,OpenPlay,2014,Head,5345,Wolfsburg,FC Cologne,2,1,2014-12-20 17:30:00,Sebastian Jung,Aerial
+28072,20,SavedShot,0.8909999847412109,0.4490000152587891,0.06248321011662483,Bas Dost,h,158,OpenPlay,2014,Head,5345,Wolfsburg,FC Cologne,2,1,2014-12-20 17:30:00,Vieirinha,Cross
+28073,20,MissedShots,0.8719999694824219,0.44099998474121094,0.1086241826415062,Junior Malanda,h,4362,OpenPlay,2014,RightFoot,5345,Wolfsburg,FC Cologne,2,1,2014-12-20 17:30:00,Bas Dost,Pass
+28074,27,MissedShots,0.81,0.23100000381469726,0.05505935847759247,Ricardo Rodríguez,h,308,DirectFreekick,2014,LeftFoot,5345,Wolfsburg,FC Cologne,2,1,2014-12-20 17:30:00,,Standard
+28075,32,BlockedShot,0.6809999847412109,0.39799999237060546,0.012464622035622597,Naldo,h,147,OpenPlay,2014,RightFoot,5345,Wolfsburg,FC Cologne,2,1,2014-12-20 17:30:00,Ricardo Rodríguez,Pass
+28078,44,MissedShots,0.7240000152587891,0.48700000762939455,0.01926513947546482,Ivan Perisic,h,448,OpenPlay,2014,LeftFoot,5345,Wolfsburg,FC Cologne,2,1,2014-12-20 17:30:00,Vieirinha,Pass
+28079,52,MissedShots,0.685,0.3820000076293945,0.009192329831421375,Naldo,h,147,OpenPlay,2014,RightFoot,5345,Wolfsburg,FC Cologne,2,1,2014-12-20 17:30:00,,None
+28081,57,MissedShots,0.7269999694824218,0.6409999847412109,0.04464833810925484,Kevin De Bruyne,h,447,DirectFreekick,2014,RightFoot,5345,Wolfsburg,FC Cologne,2,1,2014-12-20 17:30:00,,Standard
+28084,70,BlockedShot,0.7240000152587891,0.34200000762939453,0.01335659809410572,Luiz Gustavo,h,387,OpenPlay,2014,LeftFoot,5345,Wolfsburg,FC Cologne,2,1,2014-12-20 17:30:00,Vieirinha,Pass
+28085,74,MissedShots,0.825,0.5790000152587891,0.020808935165405273,Luiz Gustavo,h,387,FromCorner,2014,LeftFoot,5345,Wolfsburg,FC Cologne,2,1,2014-12-20 17:30:00,,Aerial
+28086,77,Goal,0.885,0.47200000762939454,0.04231741279363632,Naldo,h,147,FromCorner,2014,Head,5345,Wolfsburg,FC Cologne,2,1,2014-12-20 17:30:00,Kevin De Bruyne,Cross
+28065,1,BlockedShot,0.715,0.40599998474121096,0.01851937361061573,Yannick Gerhardt,a,140,OpenPlay,2014,LeftFoot,5345,Wolfsburg,FC Cologne,2,1,2014-12-20 17:30:00,Pawel Olkowski,Pass
+28068,10,BlockedShot,0.9290000152587891,0.36,0.1540270298719406,Anthony Ujah,a,119,OpenPlay,2014,RightFoot,5345,Wolfsburg,FC Cologne,2,1,2014-12-20 17:30:00,Daniel Halfar,TakeOn
+28069,10,Goal,0.8830000305175781,0.73,0.022218288853764534,Dominic Maroh,a,130,FromCorner,2014,RightFoot,5345,Wolfsburg,FC Cologne,2,1,2014-12-20 17:30:00,Daniel Halfar,Chipped
+28076,35,ShotOnPost,0.9080000305175782,0.3039999961853027,0.057230960577726364,Daniel Halfar,a,4277,OpenPlay,2014,LeftFoot,5345,Wolfsburg,FC Cologne,2,1,2014-12-20 17:30:00,,BallRecovery
+28077,38,MissedShots,0.7040000152587891,0.3509999847412109,0.00969123188406229,Yannick Gerhardt,a,140,OpenPlay,2014,LeftFoot,5345,Wolfsburg,FC Cologne,2,1,2014-12-20 17:30:00,,None
+28080,54,BlockedShot,0.8880000305175781,0.41,0.047044046223163605,Yannick Gerhardt,a,140,FromCorner,2014,LeftFoot,5345,Wolfsburg,FC Cologne,2,1,2014-12-20 17:30:00,Matthias Lehmann,Cross
+28082,63,SavedShot,0.730999984741211,0.3920000076293945,0.015067698433995247,Daniel Halfar,a,4277,OpenPlay,2014,RightFoot,5345,Wolfsburg,FC Cologne,2,1,2014-12-20 17:30:00,Anthony Ujah,Pass
+28083,67,MissedShots,0.72,0.6519999694824219,0.013578235171735287,Matthias Lehmann,a,132,OpenPlay,2014,RightFoot,5345,Wolfsburg,FC Cologne,2,1,2014-12-20 17:30:00,Simon Zoller,Pass
+28087,91,SavedShot,0.9280000305175782,0.5,0.05511217191815376,Anthony Ujah,a,119,OpenPlay,2014,Head,5345,Wolfsburg,FC Cologne,2,1,2014-12-20 17:30:00,Daniel Halfar,End
+28088,91,SavedShot,0.7290000152587891,0.345,0.009425424039363861,Daniel Halfar,a,4277,OpenPlay,2014,LeftFoot,5345,Wolfsburg,FC Cologne,2,1,2014-12-20 17:30:00,,Aerial

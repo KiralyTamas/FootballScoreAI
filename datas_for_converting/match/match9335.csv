@@ -1,0 +1,33 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+250506,4,MissedShots,0.8590000152587891,0.6619999694824219,0.019317874684929848,Joe Ralls,h,6825,OpenPlay,2018,LeftFoot,9335,Cardiff,Wolverhampton Wanderers,2,1,2018-11-30 20:00:00,,Aerial
+250509,27,MissedShots,0.825,0.6880000305175781,0.025002721697092056,Junior Hoilett,h,4395,SetPiece,2018,RightFoot,9335,Cardiff,Wolverhampton Wanderers,2,1,2018-11-30 20:00:00,Joe Ralls,Pass
+250511,34,MissedShots,0.825999984741211,0.45799999237060546,0.013256091624498367,Junior Hoilett,h,4395,FromCorner,2018,Head,9335,Cardiff,Wolverhampton Wanderers,2,1,2018-11-30 20:00:00,,Aerial
+250512,36,BlockedShot,0.9319999694824219,0.41900001525878905,0.023646622896194458,Sean Morrison,h,6823,FromCorner,2018,Head,9335,Cardiff,Wolverhampton Wanderers,2,1,2018-11-30 20:00:00,Víctor Camarasa,Aerial
+250513,36,ShotOnPost,0.8530000305175781,0.3240000152587891,0.04212368652224541,Harry Arter,h,881,FromCorner,2018,LeftFoot,9335,Cardiff,Wolverhampton Wanderers,2,1,2018-11-30 20:00:00,,Rebound
+250514,36,MissedShots,0.8819999694824219,0.6990000152587891,0.043146196752786636,Víctor Camarasa,h,2390,FromCorner,2018,RightFoot,9335,Cardiff,Wolverhampton Wanderers,2,1,2018-11-30 20:00:00,,Rebound
+250517,42,BlockedShot,0.909000015258789,0.4370000076293945,0.029338471591472626,Callum Paterson,h,6826,OpenPlay,2018,Head,9335,Cardiff,Wolverhampton Wanderers,2,1,2018-11-30 20:00:00,Josh Murphy,Aerial
+250518,44,BlockedShot,0.7959999847412109,0.720999984741211,0.02681550942361355,Josh Murphy,h,6828,OpenPlay,2018,LeftFoot,9335,Cardiff,Wolverhampton Wanderers,2,1,2018-11-30 20:00:00,,TakeOn
+250519,46,MissedShots,0.774000015258789,0.764000015258789,0.015949511900544167,Josh Murphy,h,6828,OpenPlay,2018,RightFoot,9335,Cardiff,Wolverhampton Wanderers,2,1,2018-11-30 20:00:00,Junior Hoilett,Pass
+250520,52,MissedShots,0.735999984741211,0.5129999923706055,0.015495618805289268,Aron Gunnarsson,h,7199,FromCorner,2018,RightFoot,9335,Cardiff,Wolverhampton Wanderers,2,1,2018-11-30 20:00:00,,None
+250524,61,MissedShots,0.7169999694824218,0.35700000762939454,0.012870372273027897,Aron Gunnarsson,h,7199,OpenPlay,2018,RightFoot,9335,Cardiff,Wolverhampton Wanderers,2,1,2018-11-30 20:00:00,,BallTouch
+250525,63,BlockedShot,0.9119999694824219,0.4929999923706055,0.12094280123710632,Sean Morrison,h,6823,SetPiece,2018,Head,9335,Cardiff,Wolverhampton Wanderers,2,1,2018-11-30 20:00:00,Joe Ralls,Cross
+250526,63,BlockedShot,0.879000015258789,0.3270000076293945,0.01901746727526188,Harry Arter,h,881,SetPiece,2018,RightFoot,9335,Cardiff,Wolverhampton Wanderers,2,1,2018-11-30 20:00:00,,Aerial
+250527,64,Goal,0.955999984741211,0.51,0.5729179382324219,Aron Gunnarsson,h,7199,FromCorner,2018,RightFoot,9335,Cardiff,Wolverhampton Wanderers,2,1,2018-11-30 20:00:00,Sean Morrison,HeadPass
+250530,76,BlockedShot,0.8880000305175781,0.6229999923706054,0.07037973403930664,Bobby Reid,h,6827,OpenPlay,2018,RightFoot,9335,Cardiff,Wolverhampton Wanderers,2,1,2018-11-30 20:00:00,,None
+250531,76,Goal,0.8190000152587891,0.775,0.013629338704049587,Junior Hoilett,h,4395,OpenPlay,2018,RightFoot,9335,Cardiff,Wolverhampton Wanderers,2,1,2018-11-30 20:00:00,,Rebound
+250533,84,BlockedShot,0.9269999694824219,0.67,0.03354445844888687,Joe Ralls,h,6825,OpenPlay,2018,LeftFoot,9335,Cardiff,Wolverhampton Wanderers,2,1,2018-11-30 20:00:00,Sean Morrison,Aerial
+250507,17,SavedShot,0.93,0.4370000076293945,0.03595495969057083,Raúl Jiménez,a,4105,FromCorner,2018,Head,9335,Cardiff,Wolverhampton Wanderers,2,1,2018-11-30 20:00:00,João Moutinho,Aerial
+250508,17,Goal,0.9790000152587891,0.5829999923706055,0.4072243571281433,Matt Doherty,a,6852,FromCorner,2018,LeftFoot,9335,Cardiff,Wolverhampton Wanderers,2,1,2018-11-30 20:00:00,,Rebound
+250510,30,BlockedShot,0.89,0.3270000076293945,0.06915255635976791,Adama Traoré,a,900,OpenPlay,2018,RightFoot,9335,Cardiff,Wolverhampton Wanderers,2,1,2018-11-30 20:00:00,,None
+250515,38,BlockedShot,0.8180000305175781,0.76,0.019958391785621643,Rúben Neves,a,6853,FromCorner,2018,RightFoot,9335,Cardiff,Wolverhampton Wanderers,2,1,2018-11-30 20:00:00,João Moutinho,Pass
+250516,38,MissedShots,0.8009999847412109,0.7230000305175781,0.022225577384233475,Rúben Neves,a,6853,FromCorner,2018,RightFoot,9335,Cardiff,Wolverhampton Wanderers,2,1,2018-11-30 20:00:00,Raúl Jiménez,Pass
+250521,53,MissedShots,0.7819999694824219,0.2979999923706055,0.023376325145363808,Raúl Jiménez,a,4105,OpenPlay,2018,RightFoot,9335,Cardiff,Wolverhampton Wanderers,2,1,2018-11-30 20:00:00,Willy Boly,Pass
+250522,58,SavedShot,0.6990000152587891,0.6990000152587891,0.012120576575398445,Rúben Neves,a,6853,OpenPlay,2018,RightFoot,9335,Cardiff,Wolverhampton Wanderers,2,1,2018-11-30 20:00:00,Hélder Costa,Pass
+250523,58,MissedShots,0.695,0.5929999923706055,0.011482827365398407,Rúben Neves,a,6853,OpenPlay,2018,RightFoot,9335,Cardiff,Wolverhampton Wanderers,2,1,2018-11-30 20:00:00,,Rebound
+250528,65,MissedShots,0.9440000152587891,0.534000015258789,0.14900413155555725,Raúl Jiménez,a,4105,OpenPlay,2018,Head,9335,Cardiff,Wolverhampton Wanderers,2,1,2018-11-30 20:00:00,Rúben Vinagre,Cross
+250529,74,MissedShots,0.7659999847412109,0.6780000305175782,0.018071722239255905,Rúben Neves,a,6853,OpenPlay,2018,RightFoot,9335,Cardiff,Wolverhampton Wanderers,2,1,2018-11-30 20:00:00,Diogo Jota,BallTouch
+250532,82,SavedShot,0.89,0.6409999847412109,0.06942025572061539,Ivan Cavaleiro,a,3683,OpenPlay,2018,RightFoot,9335,Cardiff,Wolverhampton Wanderers,2,1,2018-11-30 20:00:00,Diogo Jota,Pass
+250534,85,MissedShots,0.914000015258789,0.5879999923706055,0.11202141642570496,Morgan Gibbs-White,a,6857,OpenPlay,2018,LeftFoot,9335,Cardiff,Wolverhampton Wanderers,2,1,2018-11-30 20:00:00,Ivan Cavaleiro,Cross
+250535,87,MissedShots,0.76,0.720999984741211,0.015051217749714851,Morgan Gibbs-White,a,6857,OpenPlay,2018,RightFoot,9335,Cardiff,Wolverhampton Wanderers,2,1,2018-11-30 20:00:00,Ivan Cavaleiro,Pass
+250536,90,MissedShots,0.7480000305175781,0.3579999923706055,0.014789504930377007,João Moutinho,a,3422,FromCorner,2018,RightFoot,9335,Cardiff,Wolverhampton Wanderers,2,1,2018-11-30 20:00:00,,None
+250537,93,MissedShots,0.909000015258789,0.625,0.02255001664161682,Ivan Cavaleiro,a,3683,OpenPlay,2018,Head,9335,Cardiff,Wolverhampton Wanderers,2,1,2018-11-30 20:00:00,Raúl Jiménez,Aerial

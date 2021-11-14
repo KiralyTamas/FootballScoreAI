@@ -1,0 +1,25 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+5883,7,BlockedShot,0.8719999694824219,0.38799999237060545,0.09228745847940445,Claudio Beauvue,h,2502,OpenPlay,2014,RightFoot,6002,Guingamp,Lens,2,0,2015-01-10 19:00:00,Lars Jacobsen,Pass
+5884,11,MissedShots,0.8009999847412109,0.3089999961853027,0.021693609654903412,Thibault Giresse,h,3476,OpenPlay,2014,LeftFoot,6002,Guingamp,Lens,2,0,2015-01-10 19:00:00,,None
+5885,13,BlockedShot,0.7609999847412109,0.30100000381469727,0.05002625659108162,Thibault Giresse,h,3476,DirectFreekick,2014,LeftFoot,6002,Guingamp,Lens,2,0,2015-01-10 19:00:00,,Standard
+5886,16,Goal,0.9540000152587891,0.55,0.5927128791809082,Christophe Mandanne,h,4708,OpenPlay,2014,LeftFoot,6002,Guingamp,Lens,2,0,2015-01-10 19:00:00,,None
+5887,23,BlockedShot,0.7709999847412109,0.7090000152587891,0.052506349980831146,Claudio Beauvue,h,2502,DirectFreekick,2014,RightFoot,6002,Guingamp,Lens,2,0,2015-01-10 19:00:00,,Standard
+5888,29,ShotOnPost,0.9069999694824219,0.46599998474121096,0.2179604172706604,Moustapha Diallo,h,3575,SetPiece,2014,Head,6002,Guingamp,Lens,2,0,2015-01-10 19:00:00,Thibault Giresse,Cross
+5890,34,MissedShots,0.7430000305175781,0.5870000076293945,0.024690721184015274,Moustapha Diallo,h,3575,OpenPlay,2014,RightFoot,6002,Guingamp,Lens,2,0,2015-01-10 19:00:00,,None
+5891,35,BlockedShot,0.9019999694824219,0.4540000152587891,0.1390107125043869,Thibault Giresse,h,3476,OpenPlay,2014,RightFoot,6002,Guingamp,Lens,2,0,2015-01-10 19:00:00,Christophe Mandanne,Pass
+5892,42,SavedShot,0.8219999694824218,0.45799999237060546,0.09643463045358658,Thibault Giresse,h,3476,OpenPlay,2014,LeftFoot,6002,Guingamp,Lens,2,0,2015-01-10 19:00:00,Claudio Beauvue,TakeOn
+5894,49,MissedShots,0.8959999847412109,0.425,0.06048969551920891,Moustapha Diallo,h,3575,SetPiece,2014,Head,6002,Guingamp,Lens,2,0,2015-01-10 19:00:00,Thibault Giresse,Cross
+5898,64,ShotOnPost,0.9069999694824219,0.15800000190734864,0.05577613413333893,Thibault Giresse,h,3476,DirectFreekick,2014,LeftFoot,6002,Guingamp,Lens,2,0,2015-01-10 19:00:00,,Standard
+5902,74,BlockedShot,0.894000015258789,0.6020000076293945,0.039878781884908676,Christophe Mandanne,h,4708,OpenPlay,2014,Head,6002,Guingamp,Lens,2,0,2015-01-10 19:00:00,Dorian Lévêque,Cross
+5903,75,Goal,0.885,0.5,0.7600951194763184,Claudio Beauvue,h,2502,Penalty,2014,RightFoot,6002,Guingamp,Lens,2,0,2015-01-10 19:00:00,,Standard
+5906,93,MissedShots,0.755,0.48700000762939455,0.07206249982118607,Yannis Salibur,h,3473,DirectFreekick,2014,LeftFoot,6002,Guingamp,Lens,2,0,2015-01-10 19:00:00,,Standard
+5889,30,SavedShot,0.915,0.40400001525878904,0.04120727255940437,Ahmed Kantari,a,4766,FromCorner,2014,Head,6002,Guingamp,Lens,2,0,2015-01-10 19:00:00,Pierrick Valdivia,Cross
+5893,46,BlockedShot,0.9330000305175781,0.5770000076293945,0.0364292673766613,Adamo Coulibaly,a,4772,OpenPlay,2014,Head,6002,Guingamp,Lens,2,0,2015-01-10 19:00:00,Pierrick Valdivia,CornerAwarded
+5895,52,BlockedShot,0.8030000305175782,0.4620000076293945,0.07178639620542526,Adamo Coulibaly,a,4772,OpenPlay,2014,RightFoot,6002,Guingamp,Lens,2,0,2015-01-10 19:00:00,,None
+5896,62,BlockedShot,0.769000015258789,0.39,0.021598350256681442,Pierrick Valdivia,a,4769,SetPiece,2014,LeftFoot,6002,Guingamp,Lens,2,0,2015-01-10 19:00:00,Ahmed Kantari,Pass
+5897,62,MissedShots,0.795,0.49400001525878906,0.02776511013507843,Pierrick Valdivia,a,4769,SetPiece,2014,LeftFoot,6002,Guingamp,Lens,2,0,2015-01-10 19:00:00,,Rebound
+5899,67,MissedShots,0.8959999847412109,0.4759999847412109,0.06478843092918396,Adamo Coulibaly,a,4772,OpenPlay,2014,Head,6002,Guingamp,Lens,2,0,2015-01-10 19:00:00,Alharbi El Jadeyaoui,Cross
+5900,68,SavedShot,0.754000015258789,0.5529999923706055,0.023222478106617928,Alharbi El Jadeyaoui,a,4778,OpenPlay,2014,LeftFoot,6002,Guingamp,Lens,2,0,2015-01-10 19:00:00,Pierrick Valdivia,Pass
+5901,68,MissedShots,0.860999984741211,0.625999984741211,0.06677884608507156,Pierrick Valdivia,a,4769,OpenPlay,2014,LeftFoot,6002,Guingamp,Lens,2,0,2015-01-10 19:00:00,Ludovic Baal,Pass
+5904,80,BlockedShot,0.9230000305175782,0.6580000305175782,0.09246991574764252,Adamo Coulibaly,a,4772,OpenPlay,2014,LeftFoot,6002,Guingamp,Lens,2,0,2015-01-10 19:00:00,Lalaïna Nomenjanahary,Throughball
+5905,81,BlockedShot,0.8669999694824219,0.5229999923706055,0.047850001603364944,Ahmed Kantari,a,4766,FromCorner,2014,LeftFoot,6002,Guingamp,Lens,2,0,2015-01-10 19:00:00,Lalaïna Nomenjanahary,Cross

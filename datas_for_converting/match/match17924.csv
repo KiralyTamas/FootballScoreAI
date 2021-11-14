@@ -1,0 +1,26 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+438279,3,MissedShots,0.98,0.3579999923706055,0.012547506019473076,Fabien Lemoine,h,3509,FromCorner,2021,Head,17924,Lorient,Bordeaux,1,1,2021-10-24 13:00:00,Quentin Boisgard,Cross
+438280,4,SavedShot,0.675,0.4109999847412109,0.030636997893452644,Quentin Boisgard,h,6061,DirectFreekick,2021,RightFoot,17924,Lorient,Bordeaux,1,1,2021-10-24 13:00:00,,Standard
+438281,6,MissedShots,0.8859999847412109,0.45099998474121095,0.12151816487312317,Quentin Boisgard,h,6061,OpenPlay,2021,LeftFoot,17924,Lorient,Bordeaux,1,1,2021-10-24 13:00:00,Terem Igobor Moffi,Pass
+438283,28,BlockedShot,0.655,0.6370000076293946,0.011233069002628326,Stéphane Diarra,h,8652,SetPiece,2021,RightFoot,17924,Lorient,Bordeaux,1,1,2021-10-24 13:00:00,Quentin Boisgard,Pass
+438286,38,SavedShot,0.794000015258789,0.67,0.030056489631533623,Terem Igobor Moffi,h,8997,OpenPlay,2021,LeftFoot,17924,Lorient,Bordeaux,1,1,2021-10-24 13:00:00,Laurent Abergel,BallRecovery
+438288,50,ShotOnPost,0.905,0.534000015258789,0.44137707352638245,Stéphane Diarra,h,8652,OpenPlay,2021,LeftFoot,17924,Lorient,Bordeaux,1,1,2021-10-24 13:00:00,Terem Igobor Moffi,Pass
+438289,57,BlockedShot,0.7169999694824218,0.5790000152587891,0.01669156923890114,Quentin Boisgard,h,6061,OpenPlay,2021,RightFoot,17924,Lorient,Bordeaux,1,1,2021-10-24 13:00:00,Stéphane Diarra,Pass
+438292,68,MissedShots,0.92,0.575999984741211,0.08145897835493088,Laurent Abergel,h,4882,OpenPlay,2021,LeftFoot,17924,Lorient,Bordeaux,1,1,2021-10-24 13:00:00,Stéphane Diarra,BallTouch
+438294,72,BlockedShot,0.925,0.3240000152587891,0.0529371052980423,Stéphane Diarra,h,8652,OpenPlay,2021,LeftFoot,17924,Lorient,Bordeaux,1,1,2021-10-24 13:00:00,,None
+438295,72,MissedShots,0.914000015258789,0.595,0.3824536204338074,Laurent Abergel,h,4882,OpenPlay,2021,RightFoot,17924,Lorient,Bordeaux,1,1,2021-10-24 13:00:00,,Rebound
+438296,75,Goal,0.9590000152587891,0.47400001525878904,0.5046024918556213,Julien Laporte,h,8650,FromCorner,2021,Head,17924,Lorient,Bordeaux,1,1,2021-10-24 13:00:00,Fabien Lemoine,Cross
+438299,88,BlockedShot,0.6919999694824219,0.4279999923706055,0.013189379125833511,Enzo Le Fée,h,8651,OpenPlay,2021,RightFoot,17924,Lorient,Bordeaux,1,1,2021-10-24 13:00:00,Moritz Jenz,Pass
+438301,92,MissedShots,0.9059999847412109,0.57,0.08769439160823822,Sambou Soumano,h,10074,OpenPlay,2021,LeftFoot,17924,Lorient,Bordeaux,1,1,2021-10-24 13:00:00,Vincent Le Goff,Cross
+438302,94,MissedShots,0.725,0.3509999847412109,0.01758384145796299,Igor Silva,h,9661,OpenPlay,2021,RightFoot,17924,Lorient,Bordeaux,1,1,2021-10-24 13:00:00,Sambou Soumano,Pass
+438278,0,SavedShot,0.9290000152587891,0.4570000076293945,0.13362281024456024,Remi Oudin,a,6884,OpenPlay,2021,LeftFoot,17924,Lorient,Bordeaux,1,1,2021-10-24 13:00:00,Yacine Adli,Throughball
+438282,8,BlockedShot,0.9130000305175782,0.425,0.12962663173675537,Alberth Elis,a,10029,OpenPlay,2021,RightFoot,17924,Lorient,Bordeaux,1,1,2021-10-24 13:00:00,Javairo Dilrosun,Pass
+438284,32,SavedShot,0.77,0.585,0.026769431307911873,Javairo Dilrosun,a,7122,OpenPlay,2021,LeftFoot,17924,Lorient,Bordeaux,1,1,2021-10-24 13:00:00,Remi Oudin,Pass
+438285,33,SavedShot,0.8030000305175782,0.40400001525878904,0.043147481977939606,Javairo Dilrosun,a,7122,OpenPlay,2021,LeftFoot,17924,Lorient,Bordeaux,1,1,2021-10-24 13:00:00,Enock Kwateng,Pass
+438287,45,Goal,0.8719999694824219,0.3039999961853027,0.4292472004890442,Alberth Elis,a,10029,OpenPlay,2021,RightFoot,17924,Lorient,Bordeaux,1,1,2021-10-24 13:00:00,Jean Onana,Throughball
+438290,62,BlockedShot,0.8780000305175781,0.59,0.05694030225276947,Stian Rode Gregersen,a,9980,FromCorner,2021,LeftFoot,17924,Lorient,Bordeaux,1,1,2021-10-24 13:00:00,Ricardo Mangas,BallTouch
+438291,62,BlockedShot,0.9030000305175782,0.6840000152587891,0.03988621383905411,Ricardo Mangas,a,9806,FromCorner,2021,RightFoot,17924,Lorient,Bordeaux,1,1,2021-10-24 13:00:00,Yacine Adli,Pass
+438293,70,MissedShots,0.960999984741211,0.575999984741211,0.1085464134812355,Alberth Elis,a,10029,FromCorner,2021,Head,17924,Lorient,Bordeaux,1,1,2021-10-24 13:00:00,Yacine Adli,Cross
+438297,79,SavedShot,0.7469999694824219,0.47900001525878905,0.0653224065899849,Yacine Adli,a,6762,DirectFreekick,2021,RightFoot,17924,Lorient,Bordeaux,1,1,2021-10-24 13:00:00,,Standard
+438298,80,MissedShots,0.68,0.3770000076293945,0.008273555897176266,Jean Onana,a,8330,OpenPlay,2021,RightFoot,17924,Lorient,Bordeaux,1,1,2021-10-24 13:00:00,,None
+438300,91,MissedShots,0.7680000305175781,0.40400001525878904,0.023410867899656296,Sékou Mara,a,8970,OpenPlay,2021,RightFoot,17924,Lorient,Bordeaux,1,1,2021-10-24 13:00:00,,None

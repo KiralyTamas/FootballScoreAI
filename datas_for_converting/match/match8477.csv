@@ -1,0 +1,24 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+199506,1,MissedShots,0.9230000305175782,0.31799999237060544,0.030093790963292122,Lucas Höler,h,6475,OpenPlay,2017,RightFoot,8477,Freiburg,Bayern Munich,0,4,2018-03-04 17:00:00,Christian Günter,Cross
+199509,11,SavedShot,0.8719999694824219,0.46599998474121096,0.34012162685394287,Lucas Höler,h,6475,OpenPlay,2017,RightFoot,8477,Freiburg,Bayern Munich,0,4,2018-03-04 17:00:00,Janik Haberer,Pass
+199510,16,BlockedShot,0.7580000305175781,0.5259999847412109,0.02196522243320942,Amir Abrashi,h,5265,OpenPlay,2017,LeftFoot,8477,Freiburg,Bayern Munich,0,4,2018-03-04 17:00:00,,None
+199511,16,MissedShots,0.8580000305175781,0.24399999618530274,0.02690127305686474,Pascal Stenzel,h,326,OpenPlay,2017,RightFoot,8477,Freiburg,Bayern Munich,0,4,2018-03-04 17:00:00,Nils Petersen,Pass
+199514,24,OwnGoal,0.01399999976158142,0.5420000076293945,0,Alexander Schwolow,h,5262,OpenPlay,2017,OtherBodyPart,8477,Freiburg,Bayern Munich,0,4,2018-03-04 17:00:00,,BallTouch
+199528,83,MissedShots,0.825999984741211,0.509000015258789,0.052739571779966354,Yoric Ravet,h,6272,SetPiece,2017,LeftFoot,8477,Freiburg,Bayern Munich,0,4,2018-03-04 17:00:00,,None
+199507,6,MissedShots,0.9669999694824218,0.6930000305175781,0.009799044579267502,Juan Bernat,a,414,OpenPlay,2017,Head,8477,Freiburg,Bayern Munich,0,4,2018-03-04 17:00:00,Thomas Müller,Aerial
+199508,10,MissedShots,0.8,0.5459999847412109,0.047421567142009735,Corentin Tolisso,a,3603,OpenPlay,2017,LeftFoot,8477,Freiburg,Bayern Munich,0,4,2018-03-04 17:00:00,Thiago Alcántara,Pass
+199512,20,BlockedShot,0.769000015258789,0.649000015258789,0.0658789724111557,Thiago Alcántara,a,229,DirectFreekick,2017,RightFoot,8477,Freiburg,Bayern Munich,0,4,2018-03-04 17:00:00,,Standard
+199513,21,SavedShot,0.850999984741211,0.5220000076293946,0.09401816129684448,Thiago Alcántara,a,229,OpenPlay,2017,RightFoot,8477,Freiburg,Bayern Munich,0,4,2018-03-04 17:00:00,Thomas Müller,Pass
+199515,27,Goal,0.710999984741211,0.3840000152587891,0.01902145892381668,Corentin Tolisso,a,3603,OpenPlay,2017,RightFoot,8477,Freiburg,Bayern Munich,0,4,2018-03-04 17:00:00,Thiago Alcántara,Pass
+199516,30,MissedShots,0.835,0.49400001525878906,0.10864109545946121,Thiago Alcántara,a,229,OpenPlay,2017,RightFoot,8477,Freiburg,Bayern Munich,0,4,2018-03-04 17:00:00,Juan Bernat,Pass
+199517,36,MissedShots,0.7659999847412109,0.4540000152587891,0.05028371140360832,Arturo Vidal,a,222,OpenPlay,2017,RightFoot,8477,Freiburg,Bayern Munich,0,4,2018-03-04 17:00:00,Sandro Wagner,LayOff
+199518,39,MissedShots,0.9540000152587891,0.6569999694824219,0.01391686499118805,Thomas Müller,a,224,FromCorner,2017,Head,8477,Freiburg,Bayern Munich,0,4,2018-03-04 17:00:00,David Alaba,Cross
+199519,44,MissedShots,0.9269999694824219,0.4490000152587891,0.11610539257526398,Sandro Wagner,a,11,OpenPlay,2017,Head,8477,Freiburg,Bayern Munich,0,4,2018-03-04 17:00:00,Jérôme Boateng,Cross
+199520,45,MissedShots,0.785,0.34599998474121096,0.02307889237999916,Thomas Müller,a,224,OpenPlay,2017,RightFoot,8477,Freiburg,Bayern Munich,0,4,2018-03-04 17:00:00,,None
+199521,48,MissedShots,0.894000015258789,0.49900001525878906,0.09166044741868973,Sandro Wagner,a,11,OpenPlay,2017,Head,8477,Freiburg,Bayern Munich,0,4,2018-03-04 17:00:00,Thomas Müller,Cross
+199522,51,BlockedShot,0.8280000305175781,0.3340000152587891,0.056238461285829544,Sandro Wagner,a,11,OpenPlay,2017,RightFoot,8477,Freiburg,Bayern Munich,0,4,2018-03-04 17:00:00,Corentin Tolisso,Pass
+199523,53,Goal,0.9840000152587891,0.5279999923706055,0.920696496963501,Sandro Wagner,a,11,OpenPlay,2017,LeftFoot,8477,Freiburg,Bayern Munich,0,4,2018-03-04 17:00:00,,None
+199524,56,MissedShots,0.9009999847412109,0.649000015258789,0.11394549161195755,Juan Bernat,a,414,OpenPlay,2017,LeftFoot,8477,Freiburg,Bayern Munich,0,4,2018-03-04 17:00:00,Thiago Alcántara,Pass
+199525,62,MissedShots,0.909000015258789,0.6179999923706054,0.13088935613632202,Juan Bernat,a,414,OpenPlay,2017,Head,8477,Freiburg,Bayern Munich,0,4,2018-03-04 17:00:00,Thomas Müller,Cross
+199526,68,BlockedShot,0.9080000305175782,0.485,0.0482574962079525,Sandro Wagner,a,11,OpenPlay,2017,Head,8477,Freiburg,Bayern Munich,0,4,2018-03-04 17:00:00,Joshua Kimmich,Aerial
+199527,68,Goal,0.9530000305175781,0.41200000762939454,0.07839184254407883,Thomas Müller,a,224,FromCorner,2017,RightFoot,8477,Freiburg,Bayern Munich,0,4,2018-03-04 17:00:00,Joshua Kimmich,Cross

@@ -1,0 +1,24 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+59284,3,BlockedShot,0.865,0.37099998474121093,0.07424818724393845,Philippe Coutinho,h,488,OpenPlay,2015,RightFoot,180,Liverpool,Southampton,1,1,2015-10-25 20:15:00,Nathaniel Clyne,Pass
+59285,3,MissedShots,0.91,0.3840000152587891,0.04793202877044678,Emre Can,h,604,FromCorner,2015,RightFoot,180,Liverpool,Southampton,1,1,2015-10-25 20:15:00,James Milner,Cross
+59286,7,SavedShot,0.7609999847412109,0.31,0.021393906325101852,Adam Lallana,h,486,OpenPlay,2015,LeftFoot,180,Liverpool,Southampton,1,1,2015-10-25 20:15:00,Lucas Leiva,Pass
+59289,14,BlockedShot,0.7519999694824219,0.7230000305175781,0.018465371802449226,Alberto Moreno,h,608,FromCorner,2015,LeftFoot,180,Liverpool,Southampton,1,1,2015-10-25 20:15:00,James Milner,Cross
+59292,23,MissedShots,0.835999984741211,0.8119999694824219,0.01602647639811039,Philippe Coutinho,h,488,OpenPlay,2015,RightFoot,180,Liverpool,Southampton,1,1,2015-10-25 20:15:00,Alberto Moreno,Pass
+59293,28,BlockedShot,0.749000015258789,0.6759999847412109,0.013709344901144505,Philippe Coutinho,h,488,OpenPlay,2015,RightFoot,180,Liverpool,Southampton,1,1,2015-10-25 20:15:00,,None
+59294,29,MissedShots,0.815,0.524000015258789,0.047715310007333755,James Milner,h,489,OpenPlay,2015,RightFoot,180,Liverpool,Southampton,1,1,2015-10-25 20:15:00,Adam Lallana,Pass
+59295,31,BlockedShot,0.85,0.42700000762939455,0.0682140439748764,James Milner,h,489,OpenPlay,2015,RightFoot,180,Liverpool,Southampton,1,1,2015-10-25 20:15:00,Adam Lallana,Pass
+59303,40,MissedShots,0.8930000305175781,0.720999984741211,0.040268342941999435,Alberto Moreno,h,608,OpenPlay,2015,LeftFoot,180,Liverpool,Southampton,1,1,2015-10-25 20:15:00,Adam Lallana,Pass
+59306,47,BlockedShot,0.91,0.445,0.07186044007539749,Christian Benteke,h,606,FromCorner,2015,RightFoot,180,Liverpool,Southampton,1,1,2015-10-25 20:15:00,James Milner,Cross
+59307,55,MissedShots,0.9690000152587891,0.700999984741211,0.05387670546770096,Alberto Moreno,h,608,OpenPlay,2015,LeftFoot,180,Liverpool,Southampton,1,1,2015-10-25 20:15:00,Emre Can,Pass
+59310,62,MissedShots,0.9290000152587891,0.6020000076293945,0.1266917884349823,Adam Lallana,h,486,OpenPlay,2015,LeftFoot,180,Liverpool,Southampton,1,1,2015-10-25 20:15:00,Philippe Coutinho,Throughball
+59312,67,MissedShots,0.769000015258789,0.435,0.028519736602902412,Philippe Coutinho,h,488,OpenPlay,2015,RightFoot,180,Liverpool,Southampton,1,1,2015-10-25 20:15:00,James Milner,Pass
+59313,69,MissedShots,0.7609999847412109,0.6719999694824219,0.01471880916506052,Emre Can,h,604,OpenPlay,2015,RightFoot,180,Liverpool,Southampton,1,1,2015-10-25 20:15:00,,None
+59315,76,Goal,0.8719999694824219,0.52,0.03918205946683884,Christian Benteke,h,606,OpenPlay,2015,Head,180,Liverpool,Southampton,1,1,2015-10-25 20:15:00,James Milner,Cross
+59287,11,MissedShots,0.9519999694824218,0.40799999237060547,0.023795705288648605,José Fonte,a,834,FromCorner,2015,Head,180,Liverpool,Southampton,1,1,2015-10-25 20:15:00,Dusan Tadic,Aerial
+59288,13,BlockedShot,0.8230000305175781,0.30700000762939456,0.034389954060316086,Graziano Pellè,a,841,OpenPlay,2015,LeftFoot,180,Liverpool,Southampton,1,1,2015-10-25 20:15:00,Dusan Tadic,LayOff
+59290,19,SavedShot,0.87,0.5179999923706055,0.08056803047657013,Steven Davis,a,883,OpenPlay,2015,RightFoot,180,Liverpool,Southampton,1,1,2015-10-25 20:15:00,,None
+59302,38,SavedShot,0.9230000305175782,0.44299999237060544,0.2686097025871277,Virgil van Dijk,a,833,SetPiece,2015,Head,180,Liverpool,Southampton,1,1,2015-10-25 20:15:00,Steven Davis,Chipped
+59314,75,MissedShots,0.8480000305175781,0.5729999923706055,0.038380216807127,Graziano Pellè,a,841,OpenPlay,2015,RightFoot,180,Liverpool,Southampton,1,1,2015-10-25 20:15:00,Cédric Soares,Cross
+59316,78,BlockedShot,0.9530000305175781,0.5529999923706055,0.10793273895978928,Graziano Pellè,a,841,OpenPlay,2015,Head,180,Liverpool,Southampton,1,1,2015-10-25 20:15:00,Steven Davis,Cross
+59317,80,MissedShots,0.955999984741211,0.33299999237060546,0.05642487108707428,Sadio Mané,a,838,OpenPlay,2015,RightFoot,180,Liverpool,Southampton,1,1,2015-10-25 20:15:00,Cédric Soares,Chipped
+59318,85,Goal,0.9930000305175781,0.534000015258789,0.9537320733070374,Sadio Mané,a,838,SetPiece,2015,RightFoot,180,Liverpool,Southampton,1,1,2015-10-25 20:15:00,Gastón Ramírez,HeadPass

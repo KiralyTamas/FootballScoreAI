@@ -1,0 +1,28 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+361581,2,MissedShots,0.8019999694824219,0.44099998474121094,0.03538418188691139,Danijel Miskic,h,6890,OpenPlay,2019,RightFoot,11188,FC Orenburg,Arsenal Tula,2,0,2020-03-07 11:00:00,Ricardo Alves,Pass
+361582,8,MissedShots,0.8340000152587891,0.67,0.0362984724342823,Ricardo Alves,h,7150,OpenPlay,2019,LeftFoot,11188,FC Orenburg,Arsenal Tula,2,0,2020-03-07 11:00:00,Sergey Terekhov,Pass
+361583,12,Goal,0.9319999694824219,0.54,0.5101503133773804,Djorde Despotovic,h,7121,OpenPlay,2019,LeftFoot,11188,FC Orenburg,Arsenal Tula,2,0,2020-03-07 11:00:00,,Tackle
+361589,35,MissedShots,0.9440000152587891,0.549000015258789,0.09325549751520157,Djorde Despotovic,h,7121,OpenPlay,2019,Head,11188,FC Orenburg,Arsenal Tula,2,0,2020-03-07 11:00:00,Ricardo Alves,Aerial
+361594,57,MissedShots,0.8590000152587891,0.5790000152587891,0.09432482719421387,Sergey Terekhov,h,5940,OpenPlay,2019,LeftFoot,11188,FC Orenburg,Arsenal Tula,2,0,2020-03-07 11:00:00,Andrey Malykh,Pass
+361596,61,BlockedShot,0.795,0.48700000762939455,0.054250914603471756,Djorde Despotovic,h,7121,OpenPlay,2019,LeftFoot,11188,FC Orenburg,Arsenal Tula,2,0,2020-03-07 11:00:00,,BallRecovery
+361597,65,ShotOnPost,0.924000015258789,0.5570000076293945,0.04959890991449356,Uros Radakovic,h,8028,SetPiece,2019,Head,11188,FC Orenburg,Arsenal Tula,2,0,2020-03-07 11:00:00,Ricardo Alves,Aerial
+361598,65,MissedShots,0.925,0.43900001525878907,0.050142932683229446,Joel Fameyeh,h,7670,SetPiece,2019,Head,11188,FC Orenburg,Arsenal Tula,2,0,2020-03-07 11:00:00,,Aerial
+361599,70,MissedShots,0.96,0.305,0.06347724050283432,Joel Fameyeh,h,7670,OpenPlay,2019,RightFoot,11188,FC Orenburg,Arsenal Tula,2,0,2020-03-07 11:00:00,,None
+361601,76,Goal,0.9290000152587891,0.4570000076293945,0.3764236271381378,Djorde Despotovic,h,7121,OpenPlay,2019,Head,11188,FC Orenburg,Arsenal Tula,2,0,2020-03-07 11:00:00,Andrey Malykh,Cross
+361603,82,BlockedShot,0.884000015258789,0.519000015258789,0.1487012505531311,Djorde Despotovic,h,7121,OpenPlay,2019,LeftFoot,11188,FC Orenburg,Arsenal Tula,2,0,2020-03-07 11:00:00,Ricardo Alves,BallTouch
+361604,86,MissedShots,0.9319999694824219,0.44599998474121094,0.05651159584522247,Fedor Cernych,h,6610,OpenPlay,2019,Head,11188,FC Orenburg,Arsenal Tula,2,0,2020-03-07 11:00:00,Mikhail Sivakov,Aerial
+361605,87,BlockedShot,0.8859999847412109,0.6719999694824219,0.07067008316516876,Sergey Terekhov,h,5940,OpenPlay,2019,LeftFoot,11188,FC Orenburg,Arsenal Tula,2,0,2020-03-07 11:00:00,,Dispossessed
+361606,87,MissedShots,0.799000015258789,0.629000015258789,0.03457377478480339,Filip Rogic,h,8052,OpenPlay,2019,LeftFoot,11188,FC Orenburg,Arsenal Tula,2,0,2020-03-07 11:00:00,Sergey Terekhov,Pass
+361607,88,SavedShot,0.874000015258789,0.3970000076293945,0.11768455803394318,Joel Fameyeh,h,7670,OpenPlay,2019,RightFoot,11188,FC Orenburg,Arsenal Tula,2,0,2020-03-07 11:00:00,Andrey Malykh,Pass
+361584,14,SavedShot,0.9019999694824219,0.4929999923706055,0.06682687997817993,Evgeni Lutsenko,a,3035,OpenPlay,2019,Head,11188,FC Orenburg,Arsenal Tula,2,0,2020-03-07 11:00:00,Kings Kangwa,Cross
+361585,19,BlockedShot,0.8919999694824219,0.38599998474121094,0.014366630464792252,Robert Bauer,a,237,FromCorner,2019,Head,11188,FC Orenburg,Arsenal Tula,2,0,2020-03-07 11:00:00,Sergey Tkachev,Cross
+361586,19,MissedShots,0.8,0.6869999694824219,0.024118758738040924,Sergey Tkachev,a,2880,OpenPlay,2019,LeftFoot,11188,FC Orenburg,Arsenal Tula,2,0,2020-03-07 11:00:00,Daniil Lesovoy,Pass
+361587,25,MissedShots,0.89,0.5940000152587891,0.03325407952070236,Goran Causic,a,5092,SetPiece,2019,Head,11188,FC Orenburg,Arsenal Tula,2,0,2020-03-07 11:00:00,Sergey Tkachev,Cross
+361588,26,SavedShot,0.8590000152587891,0.55,0.07460411638021469,Evgeni Lutsenko,a,3035,OpenPlay,2019,RightFoot,11188,FC Orenburg,Arsenal Tula,2,0,2020-03-07 11:00:00,Sergey Tkachev,Pass
+361590,36,BlockedShot,0.785,0.715,0.018842259421944618,Daniil Lesovoy,a,6793,OpenPlay,2019,RightFoot,11188,FC Orenburg,Arsenal Tula,2,0,2020-03-07 11:00:00,Gia Grigalava,Pass
+361591,38,MissedShots,0.7469999694824219,0.4420000076293945,0.013789886608719826,Robert Bauer,a,237,FromCorner,2019,RightFoot,11188,FC Orenburg,Arsenal Tula,2,0,2020-03-07 11:00:00,Goran Causic,BallTouch
+361592,52,BlockedShot,0.769000015258789,0.664000015258789,0.017159681767225266,Víctor Álvarez,a,2111,FromCorner,2019,LeftFoot,11188,FC Orenburg,Arsenal Tula,2,0,2020-03-07 11:00:00,Sergey Tkachev,Pass
+361593,56,MissedShots,0.889000015258789,0.47,0.3182961642742157,Goran Causic,a,5092,OpenPlay,2019,RightFoot,11188,FC Orenburg,Arsenal Tula,2,0,2020-03-07 11:00:00,Kirill Kombarov,Cross
+361595,58,BlockedShot,0.8119999694824219,0.7069999694824218,0.026200532913208008,Víctor Álvarez,a,2111,OpenPlay,2019,LeftFoot,11188,FC Orenburg,Arsenal Tula,2,0,2020-03-07 11:00:00,Sergey Tkachev,Pass
+361600,71,BlockedShot,0.8530000305175781,0.3139999961853027,0.03092494048178196,Alexander Lomovitskiy,a,6331,OpenPlay,2019,LeftFoot,11188,FC Orenburg,Arsenal Tula,2,0,2020-03-07 11:00:00,Gia Grigalava,Pass
+361602,78,BlockedShot,0.749000015258789,0.585,0.01352470088750124,Evans Kangwa,a,6275,SetPiece,2019,RightFoot,11188,FC Orenburg,Arsenal Tula,2,0,2020-03-07 11:00:00,,None

@@ -1,0 +1,30 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+75264,5,MissedShots,0.730999984741211,0.34900001525878904,0.0138107193633914,Igor Smolnikov,h,3055,OpenPlay,2015,LeftFoot,2536,Zenit St. Petersburg,Spartak Moscow,5,2,2016-04-16 20:30:00,Danny,Pass
+75267,11,MissedShots,0.8680000305175781,0.544000015258789,0.06633754074573517,Hulk,h,3064,OpenPlay,2015,RightFoot,2536,Zenit St. Petersburg,Spartak Moscow,5,2,2016-04-16 20:30:00,,None
+75268,14,Goal,0.845999984741211,0.634000015258789,0.0452377051115036,Axel Witsel,h,3059,OpenPlay,2015,LeftFoot,2536,Zenit St. Petersburg,Spartak Moscow,5,2,2016-04-16 20:30:00,,None
+75269,18,BlockedShot,0.8030000305175782,0.5790000152587891,0.04541977867484093,Mauricio,h,3060,OpenPlay,2015,RightFoot,2536,Zenit St. Petersburg,Spartak Moscow,5,2,2016-04-16 20:30:00,Yuri Zhirkov,Pass
+75271,23,MissedShots,0.710999984741211,0.5259999847412109,0.015995975583791733,Mauricio,h,3060,SetPiece,2015,RightFoot,2536,Zenit St. Petersburg,Spartak Moscow,5,2,2016-04-16 20:30:00,Hulk,Pass
+75275,36,MissedShots,0.96,0.48,0.6255627274513245,Igor Smolnikov,h,3055,OpenPlay,2015,RightFoot,2536,Zenit St. Petersburg,Spartak Moscow,5,2,2016-04-16 20:30:00,,None
+75277,44,SavedShot,0.785,0.625,0.023398080840706825,Mauricio,h,3060,OpenPlay,2015,RightFoot,2536,Zenit St. Petersburg,Spartak Moscow,5,2,2016-04-16 20:30:00,,Dispossessed
+75278,45,MissedShots,0.7580000305175781,0.6140000152587891,0.019997667521238327,Javi García,h,3061,OpenPlay,2015,RightFoot,2536,Zenit St. Petersburg,Spartak Moscow,5,2,2016-04-16 20:30:00,,None
+75279,45,SavedShot,0.759000015258789,0.33,0.017865322530269623,Hulk,h,3064,OpenPlay,2015,LeftFoot,2536,Zenit St. Petersburg,Spartak Moscow,5,2,2016-04-16 20:30:00,Igor Smolnikov,Pass
+75280,45,Goal,0.8959999847412109,0.3659999847412109,0.4093582034111023,Hulk,h,3064,OpenPlay,2015,LeftFoot,2536,Zenit St. Petersburg,Spartak Moscow,5,2,2016-04-16 20:30:00,Mauricio,Pass
+75282,49,MissedShots,0.6959999847412109,0.6869999694824219,0.028810685500502586,Hulk,h,3064,DirectFreekick,2015,LeftFoot,2536,Zenit St. Petersburg,Spartak Moscow,5,2,2016-04-16 20:30:00,,Standard
+75283,53,MissedShots,0.8159999847412109,0.4640000152587891,0.04289860278367996,Oleg Shatov,h,3062,OpenPlay,2015,LeftFoot,2536,Zenit St. Petersburg,Spartak Moscow,5,2,2016-04-16 20:30:00,Mauricio,Pass
+75284,64,Goal,0.8969999694824219,0.48900001525878906,0.31260061264038086,Artem Dzyuba,h,3063,OpenPlay,2015,RightFoot,2536,Zenit St. Petersburg,Spartak Moscow,5,2,2016-04-16 20:30:00,Hulk,Chipped
+75287,72,Goal,0.9440000152587891,0.34,0.07750166952610016,Mauricio,h,3060,OpenPlay,2015,RightFoot,2536,Zenit St. Petersburg,Spartak Moscow,5,2,2016-04-16 20:30:00,,None
+75289,74,MissedShots,0.5540000152587891,0.43400001525878906,0.009795835241675377,Axel Witsel,h,3059,OpenPlay,2015,RightFoot,2536,Zenit St. Petersburg,Spartak Moscow,5,2,2016-04-16 20:30:00,,None
+75290,86,BlockedShot,0.9640000152587891,0.55,0.5945983529090881,Axel Witsel,h,3059,SetPiece,2015,RightFoot,2536,Zenit St. Petersburg,Spartak Moscow,5,2,2016-04-16 20:30:00,Nicolas Lombaerts,HeadPass
+75291,86,Goal,0.9740000152587891,0.500999984741211,0.9177691340446472,Javi García,h,3061,SetPiece,2015,RightFoot,2536,Zenit St. Petersburg,Spartak Moscow,5,2,2016-04-16 20:30:00,,Rebound
+75265,6,MissedShots,0.7580000305175781,0.5220000076293946,0.023124944418668747,Rómulo,a,2813,OpenPlay,2015,RightFoot,2536,Zenit St. Petersburg,Spartak Moscow,5,2,2016-04-16 20:30:00,,TakeOn
+75266,9,Goal,0.9230000305175782,0.47200000762939454,0.46545684337615967,Ivelin Popov,a,2817,OpenPlay,2015,RightFoot,2536,Zenit St. Petersburg,Spartak Moscow,5,2,2016-04-16 20:30:00,Zé Luís,TakeOn
+75270,20,Goal,0.87,0.505,0.34771713614463806,Denis Glushakov,a,2814,OpenPlay,2015,RightFoot,2536,Zenit St. Petersburg,Spartak Moscow,5,2,2016-04-16 20:30:00,Alexandr Zotov,Pass
+75272,27,BlockedShot,0.905,0.509000015258789,0.4569365084171295,Ivelin Popov,a,2817,OpenPlay,2015,RightFoot,2536,Zenit St. Petersburg,Spartak Moscow,5,2,2016-04-16 20:30:00,,BlockedPass
+75273,28,ShotOnPost,0.905,0.49,0.06661871075630188,Zé Luís,a,2818,FromCorner,2015,Head,2536,Zenit St. Petersburg,Spartak Moscow,5,2,2016-04-16 20:30:00,Quincy Promes,Cross
+75274,28,MissedShots,0.9330000305175781,0.5459999847412109,0.13638730347156525,Salvatore Bocchetti,a,2810,FromCorner,2015,LeftFoot,2536,Zenit St. Petersburg,Spartak Moscow,5,2,2016-04-16 20:30:00,,Rebound
+75276,39,SavedShot,0.9230000305175782,0.3629999923706055,0.09695542603731155,Zé Luís,a,2818,OpenPlay,2015,RightFoot,2536,Zenit St. Petersburg,Spartak Moscow,5,2,2016-04-16 20:30:00,,Dispossessed
+75281,46,MissedShots,0.6309999847412109,0.3579999923706055,0.022899901494383812,Quincy Promes,a,2815,DirectFreekick,2015,RightFoot,2536,Zenit St. Petersburg,Spartak Moscow,5,2,2016-04-16 20:30:00,,Standard
+75285,71,ShotOnPost,0.9490000152587891,0.44,0.05509836599230766,Zé Luís,a,2818,FromCorner,2015,Head,2536,Zenit St. Petersburg,Spartak Moscow,5,2,2016-04-16 20:30:00,Quincy Promes,Aerial
+75286,71,MissedShots,0.7969999694824219,0.45099998474121095,0.03671625256538391,Sergey Parshivlyuk,a,2828,FromCorner,2015,RightFoot,2536,Zenit St. Petersburg,Spartak Moscow,5,2,2016-04-16 20:30:00,,Rebound
+75288,74,SavedShot,0.8209999847412109,0.5159999847412109,0.0402958057820797,Alexandr Zotov,a,2820,OpenPlay,2015,RightFoot,2536,Zenit St. Petersburg,Spartak Moscow,5,2,2016-04-16 20:30:00,,None
+75292,92,SavedShot,0.7340000152587891,0.2610000038146973,0.03233400732278824,Quincy Promes,a,2815,DirectFreekick,2015,RightFoot,2536,Zenit St. Petersburg,Spartak Moscow,5,2,2016-04-16 20:30:00,,Standard

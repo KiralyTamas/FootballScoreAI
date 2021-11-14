@@ -1,0 +1,21 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+402360,4,SavedShot,0.960999984741211,0.41900001525878905,0.504886269569397,Lionel Messi,h,2097,OpenPlay,2020,LeftFoot,14978,Barcelona,Athletic Club,2,1,2021-01-31 20:00:00,Antoine Griezmann,Pass
+402361,6,SavedShot,0.8690000152587891,0.7069999694824218,0.03746296092867851,Antoine Griezmann,h,2270,OpenPlay,2020,LeftFoot,14978,Barcelona,Athletic Club,2,1,2021-01-31 20:00:00,Lionel Messi,Pass
+402362,13,MissedShots,0.7619999694824219,0.49599998474121093,0.026626896113157272,Miralem Pjanic,h,1290,OpenPlay,2020,RightFoot,14978,Barcelona,Athletic Club,2,1,2021-01-31 20:00:00,,None
+402363,13,MissedShots,0.9530000305175781,0.5729999923706055,0.468425452709198,Lionel Messi,h,2097,OpenPlay,2020,OtherBodyPart,14978,Barcelona,Athletic Club,2,1,2021-01-31 20:00:00,Miralem Pjanic,Rebound
+402364,19,Goal,0.7580000305175781,0.495,0.08070641756057739,Lionel Messi,h,2097,DirectFreekick,2020,LeftFoot,14978,Barcelona,Athletic Club,2,1,2021-01-31 20:00:00,,Standard
+402366,24,MissedShots,0.8490000152587891,0.26299999237060545,0.036111053079366684,Ronald Araújo,h,8091,OpenPlay,2020,RightFoot,14978,Barcelona,Athletic Club,2,1,2021-01-31 20:00:00,Lionel Messi,Pass
+402367,44,MissedShots,0.8569999694824219,0.34200000762939453,0.0848732441663742,Ousmane Dembélé,h,3226,OpenPlay,2020,RightFoot,14978,Barcelona,Athletic Club,2,1,2021-01-31 20:00:00,Lionel Messi,Pass
+402368,47,BlockedShot,0.7969999694824219,0.5179999923706055,0.05910700187087059,Lionel Messi,h,2097,OpenPlay,2020,LeftFoot,14978,Barcelona,Athletic Club,2,1,2021-01-31 20:00:00,,TakeOn
+402369,48,OwnGoal,0.095,0.5309999847412109,0,Jordi Alba,h,2093,OpenPlay,2020,RightFoot,14978,Barcelona,Athletic Club,2,1,2021-01-31 20:00:00,,OffsidePass
+402372,56,SavedShot,0.9119999694824219,0.485,0.4211958050727844,Miralem Pjanic,h,1290,OpenPlay,2020,Head,14978,Barcelona,Athletic Club,2,1,2021-01-31 20:00:00,Antoine Griezmann,Aerial
+402373,58,MissedShots,0.9369999694824219,0.5220000076293946,0.12505091726779938,Antoine Griezmann,h,2270,FromCorner,2020,Head,14978,Barcelona,Athletic Club,2,1,2021-01-31 20:00:00,Ousmane Dembélé,Cross
+402375,73,Goal,0.925,0.500999984741211,0.5619141459465027,Antoine Griezmann,h,2270,OpenPlay,2020,LeftFoot,14978,Barcelona,Athletic Club,2,1,2021-01-31 20:00:00,Óscar Mingueza,Pass
+402379,92,SavedShot,0.894000015258789,0.6090000152587891,0.1375941038131714,Jordi Alba,h,2093,OpenPlay,2020,LeftFoot,14978,Barcelona,Athletic Club,2,1,2021-01-31 20:00:00,Lionel Messi,BallTouch
+402365,22,SavedShot,0.7709999847412109,0.6880000305175781,0.017527185380458832,Yuri,a,2229,SetPiece,2020,RightFoot,14978,Barcelona,Athletic Club,2,1,2021-01-31 20:00:00,Yeray Álvarez,Pass
+402370,51,BlockedShot,0.7769999694824219,0.6969999694824218,0.022528594359755516,Yuri,a,2229,OpenPlay,2020,LeftFoot,14978,Barcelona,Athletic Club,2,1,2021-01-31 20:00:00,Muniain,Pass
+402371,53,MissedShots,0.6509999847412109,0.40400001525878904,0.009730018675327301,Iñaki Williams,a,2399,OpenPlay,2020,RightFoot,14978,Barcelona,Athletic Club,2,1,2021-01-31 20:00:00,Raúl García,BallRecovery
+402374,71,MissedShots,0.884000015258789,0.3089999961853027,0.07148825377225876,Alex Berenguer,a,5091,OpenPlay,2020,RightFoot,14978,Barcelona,Athletic Club,2,1,2021-01-31 20:00:00,Muniain,Pass
+402376,77,BlockedShot,0.904000015258789,0.455,0.07892705500125885,Raúl García,a,2400,OpenPlay,2020,RightFoot,14978,Barcelona,Athletic Club,2,1,2021-01-31 20:00:00,Yeray Álvarez,Cross
+402377,87,SavedShot,0.8040000152587891,0.6990000152587891,0.023099085316061974,Raúl García,a,2400,OpenPlay,2020,RightFoot,14978,Barcelona,Athletic Club,2,1,2021-01-31 20:00:00,Muniain,Pass
+402378,87,BlockedShot,0.879000015258789,0.3609999847412109,0.05205599591135979,Yeray Álvarez,a,5062,FromCorner,2020,RightFoot,14978,Barcelona,Athletic Club,2,1,2021-01-31 20:00:00,Raúl García,Pass

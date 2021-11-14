@@ -1,0 +1,24 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+300817,9,SavedShot,0.8269999694824218,0.6719999694824219,0.0566440187394619,Flavien Tait,h,5655,OpenPlay,2018,RightFoot,10994,Angers,Paris Saint Germain,1,2,2019-05-11 16:00:00,Angelo Fulgini,Pass
+300819,15,SavedShot,0.9640000152587891,0.47,0.6055576801300049,Stéphane Bahoken,h,5980,OpenPlay,2018,LeftFoot,10994,Angers,Paris Saint Germain,1,2,2019-05-11 16:00:00,Flavien Tait,Cross
+300821,20,MissedShots,0.9719999694824218,0.7169999694824218,0.05092676728963852,Flavien Tait,h,5655,OpenPlay,2018,RightFoot,10994,Angers,Paris Saint Germain,1,2,2019-05-11 16:00:00,Théo Pellenard,TakeOn
+300823,28,MissedShots,0.9590000152587891,0.43900001525878907,0.06700541079044342,Vincent Pajot,h,3507,OpenPlay,2018,Head,10994,Angers,Paris Saint Germain,1,2,2019-05-11 16:00:00,Théo Pellenard,Aerial
+300826,46,MissedShots,0.875999984741211,0.7119999694824218,0.06236990913748741,Stéphane Bahoken,h,5980,OpenPlay,2018,LeftFoot,10994,Angers,Paris Saint Germain,1,2,2019-05-11 16:00:00,Flavien Tait,Pass
+300831,64,MissedShots,0.9540000152587891,0.45799999237060546,0.084978848695755,Ismael Traoré,h,3487,SetPiece,2018,Head,10994,Angers,Paris Saint Germain,1,2,2019-05-11 16:00:00,Flavien Tait,Aerial
+300832,66,MissedShots,0.740999984741211,0.664000015258789,0.012409249320626259,Jeff Reine-Adelaide,h,1056,OpenPlay,2018,RightFoot,10994,Angers,Paris Saint Germain,1,2,2019-05-11 16:00:00,Flavien Tait,Pass
+300833,68,BlockedShot,0.7909999847412109,0.44099998474121094,0.04458046332001686,Vincent Manceau,h,3486,OpenPlay,2018,RightFoot,10994,Angers,Paris Saint Germain,1,2,2019-05-11 16:00:00,Stéphane Bahoken,LayOff
+300834,68,BlockedShot,0.84,0.24600000381469728,0.01564836874604225,Ismael Traoré,h,3487,OpenPlay,2018,RightFoot,10994,Angers,Paris Saint Germain,1,2,2019-05-11 16:00:00,Vincent Manceau,Pass
+300835,72,MissedShots,0.7580000305175781,0.36,0.01777053438127041,Ismael Traoré,h,3487,OpenPlay,2018,LeftFoot,10994,Angers,Paris Saint Germain,1,2,2019-05-11 16:00:00,Farid El Melali,Pass
+300836,76,MissedShots,0.7630000305175781,0.6580000305175782,0.01626499556005001,Flavien Tait,h,5655,OpenPlay,2018,RightFoot,10994,Angers,Paris Saint Germain,1,2,2019-05-11 16:00:00,Stéphane Bahoken,BallRecovery
+300837,83,BlockedShot,0.915,0.43099998474121093,0.0878789946436882,Wilfried Kanga,h,6251,OpenPlay,2018,RightFoot,10994,Angers,Paris Saint Germain,1,2,2019-05-11 16:00:00,,Dispossessed
+300838,87,SavedShot,0.885,0.5,0.7600951194763184,Flavien Tait,h,5655,Penalty,2018,RightFoot,10994,Angers,Paris Saint Germain,1,2,2019-05-11 16:00:00,,Standard
+300839,87,Goal,0.9390000152587891,0.53,0.6010749936103821,Flavien Tait,h,5655,SetPiece,2018,LeftFoot,10994,Angers,Paris Saint Germain,1,2,2019-05-11 16:00:00,,Rebound
+300818,12,SavedShot,0.9469999694824218,0.3220000076293945,0.19315475225448608,Edinson Cavani,a,3294,OpenPlay,2018,RightFoot,10994,Angers,Paris Saint Germain,1,2,2019-05-11 16:00:00,Dani Alves,Pass
+300820,19,Goal,0.92,0.5,0.34685975313186646,Neymar,a,2099,OpenPlay,2018,Head,10994,Angers,Paris Saint Germain,1,2,2019-05-11 16:00:00,Dani Alves,Chipped
+300822,25,MissedShots,0.745999984741211,0.75,0.016042368486523628,Ángel Di María,a,3553,OpenPlay,2018,LeftFoot,10994,Angers,Paris Saint Germain,1,2,2019-05-11 16:00:00,Marco Verratti,Chipped
+300824,37,MissedShots,0.9169999694824219,0.42700000762939455,0.10740388929843903,Edinson Cavani,a,3294,OpenPlay,2018,Head,10994,Angers,Paris Saint Germain,1,2,2019-05-11 16:00:00,Colin Dagba,Cross
+300825,45,MissedShots,0.655,0.705999984741211,0.024285076186060905,Neymar,a,2099,DirectFreekick,2018,RightFoot,10994,Angers,Paris Saint Germain,1,2,2019-05-11 16:00:00,,Standard
+300827,46,SavedShot,0.9309999847412109,0.7,0.07121968269348145,Neymar,a,2099,OpenPlay,2018,LeftFoot,10994,Angers,Paris Saint Germain,1,2,2019-05-11 16:00:00,Ángel Di María,Pass
+300828,51,MissedShots,0.9280000305175782,0.39799999237060546,0.1294294148683548,Dani Alves,a,1288,OpenPlay,2018,RightFoot,10994,Angers,Paris Saint Germain,1,2,2019-05-11 16:00:00,Ángel Di María,Pass
+300829,52,MissedShots,0.7719999694824219,0.305,0.02758283168077469,Ángel Di María,a,3553,OpenPlay,2018,LeftFoot,10994,Angers,Paris Saint Germain,1,2,2019-05-11 16:00:00,Leandro Paredes,Pass
+300830,57,Goal,0.9159999847412109,0.43900001525878907,0.29462799429893494,Ángel Di María,a,3553,FromCorner,2018,Head,10994,Angers,Paris Saint Germain,1,2,2019-05-11 16:00:00,Neymar,Cross

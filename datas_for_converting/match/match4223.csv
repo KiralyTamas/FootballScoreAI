@@ -1,0 +1,24 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+109496,44,MissedShots,0.8859999847412109,0.43099998474121093,0.03494878113269806,Mevlüt Erdinc,h,104,OpenPlay,2016,Head,4223,Metz,Paris Saint Germain,2,3,2017-04-18 17:30:00,Kévin Lejeune,Aerial
+109497,46,MissedShots,0.8490000152587891,0.37599998474121094,0.056104253977537155,Cheick Doukoure,h,4741,SetPiece,2016,RightFoot,4223,Metz,Paris Saint Germain,2,3,2017-04-18 17:30:00,Fallou Diagne,Tackle
+109498,72,MissedShots,0.7140000152587891,0.6179999923706054,0.010814751498401165,Cheick Diabaté,h,3577,OpenPlay,2016,RightFoot,4223,Metz,Paris Saint Germain,2,3,2017-04-18 17:30:00,Opa Nguette,Pass
+109499,77,Goal,0.73,0.545,0.053041622042655945,Yann Jouffre,h,3629,DirectFreekick,2016,LeftFoot,4223,Metz,Paris Saint Germain,2,3,2017-04-18 17:30:00,,Standard
+109504,87,Goal,0.9030000305175782,0.48200000762939454,0.08535727858543396,Cheick Diabaté,h,3577,OpenPlay,2016,RightFoot,4223,Metz,Paris Saint Germain,2,3,2017-04-18 17:30:00,Ismaila Sarr,Cross
+109505,90,ShotOnPost,0.784000015258789,0.4279999923706055,0.09639032930135727,Yann Jouffre,h,3629,DirectFreekick,2016,LeftFoot,4223,Metz,Paris Saint Germain,2,3,2017-04-18 17:30:00,,Standard
+109486,4,BlockedShot,0.8690000152587891,0.6609999847412109,0.06648761034011841,Blaise Matuidi,a,3296,OpenPlay,2016,LeftFoot,4223,Metz,Paris Saint Germain,2,3,2017-04-18 17:30:00,Lucas Moura,Pass
+109487,13,MissedShots,0.879000015258789,0.6040000152587891,0.05411624535918236,Blaise Matuidi,a,3296,FromCorner,2016,LeftFoot,4223,Metz,Paris Saint Germain,2,3,2017-04-18 17:30:00,Ángel Di María,Pass
+109488,15,BlockedShot,0.8,0.750999984741211,0.01634584181010723,Ángel Di María,a,3553,OpenPlay,2016,RightFoot,4223,Metz,Paris Saint Germain,2,3,2017-04-18 17:30:00,Blaise Matuidi,Foul
+109489,19,BlockedShot,0.9030000305175782,0.43,0.125466451048851,Edinson Cavani,a,3294,OpenPlay,2016,LeftFoot,4223,Metz,Paris Saint Germain,2,3,2017-04-18 17:30:00,Blaise Matuidi,Pass
+109490,23,MissedShots,0.9740000152587891,0.43400001525878906,0.5934068560600281,Lucas Moura,a,3293,OpenPlay,2016,RightFoot,4223,Metz,Paris Saint Germain,2,3,2017-04-18 17:30:00,Maxwell,Pass
+109491,23,MissedShots,0.924000015258789,0.4759999847412109,0.1081082820892334,Thiago Motta,a,3292,FromCorner,2016,Head,4223,Metz,Paris Saint Germain,2,3,2017-04-18 17:30:00,Ángel Di María,Cross
+109492,26,SavedShot,0.9590000152587891,0.10899999618530273,0.04604072868824005,Ángel Di María,a,3553,DirectFreekick,2016,LeftFoot,4223,Metz,Paris Saint Germain,2,3,2017-04-18 17:30:00,,Standard
+109493,27,BlockedShot,0.7780000305175782,0.40700000762939453,0.018793810158967972,Thomas Meunier,a,5680,SetPiece,2016,RightFoot,4223,Metz,Paris Saint Germain,2,3,2017-04-18 17:30:00,,Rebound
+109494,32,Goal,0.9569999694824218,0.46900001525878904,0.5840772390365601,Edinson Cavani,a,3294,OpenPlay,2016,Head,4223,Metz,Paris Saint Germain,2,3,2017-04-18 17:30:00,Maxwell,Cross
+109495,35,Goal,0.89,0.645,0.09633896499872208,Blaise Matuidi,a,3296,OpenPlay,2016,LeftFoot,4223,Metz,Paris Saint Germain,2,3,2017-04-18 17:30:00,Maxwell,Pass
+109500,81,MissedShots,0.8919999694824219,0.48900001525878906,0.3895690441131592,Edinson Cavani,a,3294,OpenPlay,2016,RightFoot,4223,Metz,Paris Saint Germain,2,3,2017-04-18 17:30:00,Marco Verratti,Throughball
+109501,84,MissedShots,0.7559999847412109,0.6419999694824219,0.05783760920166969,Edinson Cavani,a,3294,DirectFreekick,2016,RightFoot,4223,Metz,Paris Saint Germain,2,3,2017-04-18 17:30:00,,Standard
+109502,86,SavedShot,0.7319999694824219,0.49700000762939456,0.023053882643580437,Thomas Meunier,a,5680,OpenPlay,2016,RightFoot,4223,Metz,Paris Saint Germain,2,3,2017-04-18 17:30:00,,None
+109503,87,SavedShot,0.855999984741211,0.4209999847412109,0.10019657015800476,Gonçalo Guedes,a,5682,OpenPlay,2016,RightFoot,4223,Metz,Paris Saint Germain,2,3,2017-04-18 17:30:00,Thomas Meunier,Pass
+109506,92,BlockedShot,0.9459999847412109,0.4640000152587891,0.07624498009681702,Marquinhos,a,3297,OpenPlay,2016,Head,4223,Metz,Paris Saint Germain,2,3,2017-04-18 17:30:00,Edinson Cavani,End
+109507,92,BlockedShot,0.9059999847412109,0.6580000305175782,0.02791908010840416,Maxwell,a,3289,OpenPlay,2016,LeftFoot,4223,Metz,Paris Saint Germain,2,3,2017-04-18 17:30:00,,Aerial
+109508,92,Goal,0.9019999694824219,0.5329999923706055,0.28735604882240295,Blaise Matuidi,a,3296,OpenPlay,2016,Head,4223,Metz,Paris Saint Germain,2,3,2017-04-18 17:30:00,Javier Pastore,Cross

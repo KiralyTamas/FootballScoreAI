@@ -1,0 +1,33 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+165760,4,SavedShot,0.8219999694824218,0.3529999923706055,0.045021310448646545,Corentin Tolisso,h,3603,OpenPlay,2017,RightFoot,8259,Bayern Munich,Bayer Leverkusen,3,1,2017-08-18 19:30:00,Robert Lewandowski,BallTouch
+165761,8,Goal,0.9290000152587891,0.40599998474121096,0.08038152009248734,Niklas Süle,h,75,SetPiece,2017,Head,8259,Bayern Munich,Bayer Leverkusen,3,1,2017-08-18 19:30:00,Sebastian Rudy,Cross
+165764,15,MissedShots,0.7090000152587891,0.6419999694824219,0.013485807925462723,Arturo Vidal,h,222,OpenPlay,2017,RightFoot,8259,Bayern Munich,Bayer Leverkusen,3,1,2017-08-18 19:30:00,,None
+165765,17,Goal,0.97,0.45599998474121095,0.4763222634792328,Corentin Tolisso,h,3603,FromCorner,2017,Head,8259,Bayern Munich,Bayer Leverkusen,3,1,2017-08-18 19:30:00,Arturo Vidal,Chipped
+165767,22,SavedShot,0.9409999847412109,0.315,0.09167186915874481,Corentin Tolisso,h,3603,OpenPlay,2017,RightFoot,8259,Bayern Munich,Bayer Leverkusen,3,1,2017-08-18 19:30:00,Thomas Müller,Pass
+165769,26,SavedShot,0.935,0.5790000152587891,0.4732430577278137,Thomas Müller,h,224,OpenPlay,2017,LeftFoot,8259,Bayern Munich,Bayer Leverkusen,3,1,2017-08-18 19:30:00,Franck Ribéry,Pass
+165773,42,MissedShots,0.7019999694824218,0.46599998474121096,0.02209511585533619,Corentin Tolisso,h,3603,OpenPlay,2017,RightFoot,8259,Bayern Munich,Bayer Leverkusen,3,1,2017-08-18 19:30:00,Franck Ribéry,Pass
+165777,51,Goal,0.885,0.5,0.75777667760849,Robert Lewandowski,h,227,Penalty,2017,RightFoot,8259,Bayern Munich,Bayer Leverkusen,3,1,2017-08-18 19:30:00,,Standard
+165781,61,SavedShot,0.9069999694824219,0.46599998474121096,0.06677819043397903,Mats Hummels,h,373,SetPiece,2017,Head,8259,Bayern Munich,Bayer Leverkusen,3,1,2017-08-18 19:30:00,Sebastian Rudy,Chipped
+165784,77,MissedShots,0.904000015258789,0.6630000305175782,0.040290769189596176,Robert Lewandowski,h,227,OpenPlay,2017,LeftFoot,8259,Bayern Munich,Bayer Leverkusen,3,1,2017-08-18 19:30:00,,Aerial
+165786,84,BlockedShot,0.805,0.674000015258789,0.049711041152477264,Kingsley Coman,h,226,OpenPlay,2017,RightFoot,8259,Bayern Munich,Bayer Leverkusen,3,1,2017-08-18 19:30:00,Rafinha,Pass
+165787,85,MissedShots,0.86,0.375,0.271974116563797,Robert Lewandowski,h,227,OpenPlay,2017,RightFoot,8259,Bayern Munich,Bayer Leverkusen,3,1,2017-08-18 19:30:00,Arjen Robben,Pass
+165791,90,SavedShot,0.91,0.40200000762939453,0.3903072476387024,Arjen Robben,h,392,OpenPlay,2017,RightFoot,8259,Bayern Munich,Bayer Leverkusen,3,1,2017-08-18 19:30:00,Robert Lewandowski,Pass
+165762,11,SavedShot,0.9080000305175782,0.34599998474121096,0.09781431406736374,Admir Mehmedi,a,194,OpenPlay,2017,RightFoot,8259,Bayern Munich,Bayer Leverkusen,3,1,2017-08-18 19:30:00,Karim Bellarabi,Throughball
+165763,11,MissedShots,0.8619999694824219,0.4779999923706055,0.07169897109270096,Karim Bellarabi,a,186,OpenPlay,2017,RightFoot,8259,Bayern Munich,Bayer Leverkusen,3,1,2017-08-18 19:30:00,,Rebound
+165766,20,SavedShot,0.9390000152587891,0.3120000076293945,0.0656374990940094,Kevin Volland,a,83,OpenPlay,2017,RightFoot,8259,Bayern Munich,Bayer Leverkusen,3,1,2017-08-18 19:30:00,Admir Mehmedi,Pass
+165768,23,MissedShots,0.7880000305175782,0.42400001525878905,0.02986876666545868,Karim Bellarabi,a,186,OpenPlay,2017,RightFoot,8259,Bayern Munich,Bayer Leverkusen,3,1,2017-08-18 19:30:00,Dominik Kohr,Pass
+165770,36,BlockedShot,0.78,0.355,0.07475792616605759,Wendell,a,185,DirectFreekick,2017,LeftFoot,8259,Bayern Munich,Bayer Leverkusen,3,1,2017-08-18 19:30:00,,Standard
+165771,36,MissedShots,0.795,0.44299999237060544,0.04453656077384949,Karim Bellarabi,a,186,OpenPlay,2017,RightFoot,8259,Bayern Munich,Bayer Leverkusen,3,1,2017-08-18 19:30:00,Leon Bailey,Pass
+165772,41,MissedShots,0.765,0.3240000152587891,0.018322400748729706,Dominik Kohr,a,269,OpenPlay,2017,RightFoot,8259,Bayern Munich,Bayer Leverkusen,3,1,2017-08-18 19:30:00,Karim Bellarabi,Pass
+165774,43,BlockedShot,0.8190000152587891,0.28700000762939454,0.02518649399280548,Leon Bailey,a,5221,OpenPlay,2017,LeftFoot,8259,Bayern Munich,Bayer Leverkusen,3,1,2017-08-18 19:30:00,Kevin Volland,Pass
+165775,45,MissedShots,0.9790000152587891,0.3940000152587891,0.03487902879714966,Karim Bellarabi,a,186,FromCorner,2017,Head,8259,Bayern Munich,Bayer Leverkusen,3,1,2017-08-18 19:30:00,,None
+165776,47,MissedShots,0.899000015258789,0.365,0.015263713896274567,Karim Bellarabi,a,186,OpenPlay,2017,Head,8259,Bayern Munich,Bayer Leverkusen,3,1,2017-08-18 19:30:00,Admir Mehmedi,Cross
+165778,55,MissedShots,0.8109999847412109,0.355,0.08739466965198517,Julian Brandt,a,261,OpenPlay,2017,RightFoot,8259,Bayern Munich,Bayer Leverkusen,3,1,2017-08-18 19:30:00,Dominik Kohr,Throughball
+165779,56,SavedShot,0.9219999694824219,0.42700000762939455,0.3612928092479706,Julian Brandt,a,261,OpenPlay,2017,RightFoot,8259,Bayern Munich,Bayer Leverkusen,3,1,2017-08-18 19:30:00,Karim Bellarabi,Pass
+165780,56,BlockedShot,0.9119999694824219,0.48,0.3647935688495636,Dominik Kohr,a,269,OpenPlay,2017,RightFoot,8259,Bayern Munich,Bayer Leverkusen,3,1,2017-08-18 19:30:00,,Rebound
+165782,64,Goal,0.875,0.26799999237060546,0.036160822957754135,Admir Mehmedi,a,194,OpenPlay,2017,RightFoot,8259,Bayern Munich,Bayer Leverkusen,3,1,2017-08-18 19:30:00,Julian Brandt,Pass
+165783,71,MissedShots,0.9130000305175782,0.524000015258789,0.2995816469192505,Dominik Kohr,a,269,SetPiece,2017,Head,8259,Bayern Munich,Bayer Leverkusen,3,1,2017-08-18 19:30:00,Admir Mehmedi,Cross
+165785,80,MissedShots,0.7619999694824219,0.6140000152587891,0.021082976832985878,Wendell,a,185,OpenPlay,2017,LeftFoot,8259,Bayern Munich,Bayer Leverkusen,3,1,2017-08-18 19:30:00,Julian Brandt,Pass
+165788,87,BlockedShot,0.7919999694824219,0.6569999694824219,0.03355756029486656,Kevin Kampl,a,188,FromCorner,2017,RightFoot,8259,Bayern Munich,Bayer Leverkusen,3,1,2017-08-18 19:30:00,Julian Brandt,Pass
+165789,87,MissedShots,0.91,0.62,0.3418475389480591,Julian Brandt,a,261,FromCorner,2017,RightFoot,8259,Bayern Munich,Bayer Leverkusen,3,1,2017-08-18 19:30:00,,Rebound
+165790,90,BlockedShot,0.7530000305175781,0.7230000305175781,0.013207434676587582,Karim Bellarabi,a,186,OpenPlay,2017,RightFoot,8259,Bayern Munich,Bayer Leverkusen,3,1,2017-08-18 19:30:00,Kevin Kampl,Pass

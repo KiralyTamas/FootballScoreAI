@@ -1,0 +1,26 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+391619,0,Goal,0.8980000305175782,0.4209999847412109,0.3603655695915222,Miguel Almirón,h,7420,OpenPlay,2020,LeftFoot,14550,Newcastle United,West Bromwich Albion,2,1,2020-12-12 15:00:00,Joelinton,Pass
+391621,15,SavedShot,0.9019999694824219,0.720999984741211,0.06378553062677383,Miguel Almirón,h,7420,OpenPlay,2020,LeftFoot,14550,Newcastle United,West Bromwich Albion,2,1,2020-12-12 15:00:00,Matt Ritchie,TakeOn
+391626,25,SavedShot,0.750999984741211,0.27600000381469725,0.019972888752818108,Miguel Almirón,h,7420,OpenPlay,2020,LeftFoot,14550,Newcastle United,West Bromwich Albion,2,1,2020-12-12 15:00:00,Jonjo Shelvey,Pass
+391627,30,BlockedShot,0.905,0.40400001525878904,0.013350322842597961,Joelinton,h,87,FromCorner,2020,Head,14550,Newcastle United,West Bromwich Albion,2,1,2020-12-12 15:00:00,Jonjo Shelvey,Aerial
+391628,30,MissedShots,0.850999984741211,0.5270000076293946,0.05155124142765999,Isaac Hayden,h,6062,FromCorner,2020,RightFoot,14550,Newcastle United,West Bromwich Albion,2,1,2020-12-12 15:00:00,Ciaran Clark,Card
+391629,31,SavedShot,0.9480000305175781,0.664000015258789,0.06385517120361328,Joelinton,h,87,SetPiece,2020,RightFoot,14550,Newcastle United,West Bromwich Albion,2,1,2020-12-12 15:00:00,Matt Ritchie,TakeOn
+391637,61,SavedShot,0.7230000305175781,0.5309999847412109,0.012858373112976551,Sean Longstaff,h,7078,FromCorner,2020,RightFoot,14550,Newcastle United,West Bromwich Albion,2,1,2020-12-12 15:00:00,,Aerial
+391638,70,BlockedShot,0.9059999847412109,0.5209999847412109,0.025926565751433372,Dwight Gayle,h,743,FromCorner,2020,Head,14550,Newcastle United,West Bromwich Albion,2,1,2020-12-12 15:00:00,Matt Ritchie,Aerial
+391639,72,BlockedShot,0.855999984741211,0.53,0.07390236854553223,Dwight Gayle,h,743,OpenPlay,2020,RightFoot,14550,Newcastle United,West Bromwich Albion,2,1,2020-12-12 15:00:00,,None
+391641,78,BlockedShot,0.9730000305175781,0.3529999923706055,0.08329035341739655,Miguel Almirón,h,7420,OpenPlay,2020,RightFoot,14550,Newcastle United,West Bromwich Albion,2,1,2020-12-12 15:00:00,Callum Wilson,Pass
+391642,80,BlockedShot,0.7340000152587891,0.504000015258789,0.016220808029174805,Jonjo Shelvey,h,769,OpenPlay,2020,RightFoot,14550,Newcastle United,West Bromwich Albion,2,1,2020-12-12 15:00:00,Dwight Gayle,Pass
+391643,81,Goal,0.9119999694824219,0.47,0.11908333748579025,Dwight Gayle,h,743,OpenPlay,2020,Head,14550,Newcastle United,West Bromwich Albion,2,1,2020-12-12 15:00:00,Jacob Murphy,Cross
+391620,6,BlockedShot,0.715,0.46900001525878904,0.008918378502130508,Conor Gallagher,a,9040,SetPiece,2020,RightFoot,14550,Newcastle United,West Bromwich Albion,2,1,2020-12-12 15:00:00,,Aerial
+391622,16,BlockedShot,0.7909999847412109,0.46099998474121096,0.03933045640587807,Filip Krovinovic,a,8966,OpenPlay,2020,LeftFoot,14550,Newcastle United,West Bromwich Albion,2,1,2020-12-12 15:00:00,Callum Robinson,Pass
+391623,19,BlockedShot,0.7040000152587891,0.6769999694824219,0.03205570578575134,Karlan Grant,a,7390,DirectFreekick,2020,RightFoot,14550,Newcastle United,West Bromwich Albion,2,1,2020-12-12 15:00:00,,Standard
+391624,20,BlockedShot,0.919000015258789,0.534000015258789,0.09547106921672821,Semi Ajayi,a,4490,FromCorner,2020,RightFoot,14550,Newcastle United,West Bromwich Albion,2,1,2020-12-12 15:00:00,Matt Phillips,Cross
+391625,21,MissedShots,0.7240000152587891,0.555,0.016973719000816345,Matt Phillips,a,1737,OpenPlay,2020,RightFoot,14550,Newcastle United,West Bromwich Albion,2,1,2020-12-12 15:00:00,Romaine Sawyers,Pass
+391630,37,SavedShot,0.7240000152587891,0.6480000305175782,0.015768803656101227,Matt Phillips,a,1737,OpenPlay,2020,RightFoot,14550,Newcastle United,West Bromwich Albion,2,1,2020-12-12 15:00:00,Semi Ajayi,Pass
+391631,38,MissedShots,0.7930000305175782,0.315,0.023311341181397438,Conor Gallagher,a,9040,OpenPlay,2020,RightFoot,14550,Newcastle United,West Bromwich Albion,2,1,2020-12-12 15:00:00,Darnell Furlong,Pass
+391632,42,MissedShots,0.8719999694824219,0.46099998474121096,0.06962595880031586,Conor Gallagher,a,9040,OpenPlay,2020,RightFoot,14550,Newcastle United,West Bromwich Albion,2,1,2020-12-12 15:00:00,,None
+391633,44,BlockedShot,0.889000015258789,0.295,0.04556148871779442,Conor Gallagher,a,9040,OpenPlay,2020,RightFoot,14550,Newcastle United,West Bromwich Albion,2,1,2020-12-12 15:00:00,Callum Robinson,Pass
+391634,49,Goal,0.875999984741211,0.44599998474121094,0.07037781178951263,Darnell Furlong,a,4391,OpenPlay,2020,RightFoot,14550,Newcastle United,West Bromwich Albion,2,1,2020-12-12 15:00:00,Matt Phillips,Cross
+391635,56,SavedShot,0.8130000305175781,0.544000015258789,0.05880500376224518,Conor Gallagher,a,9040,OpenPlay,2020,RightFoot,14550,Newcastle United,West Bromwich Albion,2,1,2020-12-12 15:00:00,Filip Krovinovic,Pass
+391636,58,BlockedShot,0.7919999694824219,0.3820000076293945,0.05384203791618347,Charlie Austin,a,848,OpenPlay,2020,RightFoot,14550,Newcastle United,West Bromwich Albion,2,1,2020-12-12 15:00:00,Matt Phillips,Pass
+391640,74,MissedShots,0.799000015258789,0.47900001525878905,0.043147917836904526,Conor Gallagher,a,9040,OpenPlay,2020,RightFoot,14550,Newcastle United,West Bromwich Albion,2,1,2020-12-12 15:00:00,,None

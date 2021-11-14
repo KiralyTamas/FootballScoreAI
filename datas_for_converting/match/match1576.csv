@@ -1,0 +1,30 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+87726,9,BlockedShot,0.9280000305175782,0.715,0.04012348875403404,André Gomes,h,2383,OpenPlay,2015,LeftFoot,1576,Valencia,Real Madrid,2,2,2016-01-03 23:30:00,Daniel Parejo,Pass
+87727,9,MissedShots,0.9290000152587891,0.5459999847412109,0.11120841652154922,Daniel Parejo,h,2378,FromCorner,2015,Head,1576,Valencia,Real Madrid,2,2,2016-01-03 23:30:00,Rodrigo de Paul,Cross
+87731,13,BlockedShot,0.7240000152587891,0.3729999923706055,0.0479564368724823,Daniel Parejo,h,2378,DirectFreekick,2015,RightFoot,1576,Valencia,Real Madrid,2,2,2016-01-03 23:30:00,,Standard
+87734,30,MissedShots,0.9130000305175782,0.45099998474121095,0.2711944878101349,João Cancelo,h,2379,OpenPlay,2015,Head,1576,Valencia,Real Madrid,2,2,2016-01-03 23:30:00,Rodrigo de Paul,Throughball
+87736,36,BlockedShot,0.915,0.585,0.16325971484184265,André Gomes,h,2383,OpenPlay,2015,RightFoot,1576,Valencia,Real Madrid,2,2,2016-01-03 23:30:00,Rodrigo de Paul,TakeOn
+87737,38,MissedShots,0.9530000305175781,0.495,0.11836903542280197,Aymen Abdennour,h,2374,FromCorner,2015,LeftFoot,1576,Valencia,Real Madrid,2,2,2016-01-03 23:30:00,,None
+87738,39,BlockedShot,0.8730000305175781,0.34200000762939453,0.04682208597660065,Paco Alcácer,h,2380,OpenPlay,2015,RightFoot,1576,Valencia,Real Madrid,2,2,2016-01-03 23:30:00,João Cancelo,Pass
+87739,45,Goal,0.885,0.5,0.7432776093482971,Daniel Parejo,h,2378,Penalty,2015,RightFoot,1576,Valencia,Real Madrid,2,2,2016-01-03 23:30:00,,Standard
+87744,62,SavedShot,0.71,0.4909999847412109,0.012094918638467789,André Gomes,h,2383,OpenPlay,2015,RightFoot,1576,Valencia,Real Madrid,2,2,2016-01-03 23:30:00,Danilo,HeadPass
+87748,82,Goal,0.975999984741211,0.534000015258789,0.6032967567443848,Paco Alcácer,h,2380,OpenPlay,2015,Head,1576,Valencia,Real Madrid,2,2,2016-01-03 23:30:00,Rodrigo,HeadPass
+87750,92,SavedShot,0.8180000305175781,0.4640000152587891,0.2652738690376282,Álvaro Negredo,h,1715,OpenPlay,2015,LeftFoot,1576,Valencia,Real Madrid,2,2,2016-01-03 23:30:00,Paco Alcácer,Pass
+87751,92,MissedShots,0.7680000305175781,0.5320000076293945,0.044574156403541565,André Gomes,h,2383,OpenPlay,2015,RightFoot,1576,Valencia,Real Madrid,2,2,2016-01-03 23:30:00,,Rebound
+87724,2,BlockedShot,0.735999984741211,0.27,0.01302168145775795,Danilo,a,2244,OpenPlay,2015,LeftFoot,1576,Valencia,Real Madrid,2,2,2016-01-03 23:30:00,Cristiano Ronaldo,Pass
+87725,4,MissedShots,0.8490000152587891,0.4929999923706055,0.09449554979801178,Danilo,a,2244,OpenPlay,2015,LeftFoot,1576,Valencia,Real Madrid,2,2,2016-01-03 23:30:00,Karim Benzema,Pass
+87728,10,BlockedShot,0.8109999847412109,0.5279999923706055,0.057748254388570786,Karim Benzema,a,2370,OpenPlay,2015,RightFoot,1576,Valencia,Real Madrid,2,2,2016-01-03 23:30:00,Cristiano Ronaldo,Pass
+87729,12,BlockedShot,0.8419999694824218,0.485,0.05825173482298851,Pepe,a,2258,FromCorner,2015,RightFoot,1576,Valencia,Real Madrid,2,2,2016-01-03 23:30:00,,None
+87730,12,MissedShots,0.8809999847412109,0.5270000076293946,0.10448692739009857,Sergio Ramos,a,2246,FromCorner,2015,LeftFoot,1576,Valencia,Real Madrid,2,2,2016-01-03 23:30:00,,Rebound
+87732,15,Goal,0.8490000152587891,0.4779999923706055,0.09399019926786423,Karim Benzema,a,2370,OpenPlay,2015,RightFoot,1576,Valencia,Real Madrid,2,2,2016-01-03 23:30:00,Cristiano Ronaldo,Pass
+87733,25,BlockedShot,0.8680000305175781,0.534000015258789,0.1014043465256691,Cristiano Ronaldo,a,2371,OpenPlay,2015,RightFoot,1576,Valencia,Real Madrid,2,2,2016-01-03 23:30:00,Sergio Ramos,Chipped
+87735,35,MissedShots,0.775,0.35400001525878905,0.018785709515213966,Luka Modric,a,2250,FromCorner,2015,RightFoot,1576,Valencia,Real Madrid,2,2,2016-01-03 23:30:00,,None
+87740,47,MissedShots,0.78,0.455,0.10187589377164841,Gareth Bale,a,2251,DirectFreekick,2015,LeftFoot,1576,Valencia,Real Madrid,2,2,2016-01-03 23:30:00,,Standard
+87741,49,MissedShots,0.885,0.645,0.08349241316318512,Karim Benzema,a,2370,OpenPlay,2015,RightFoot,1576,Valencia,Real Madrid,2,2,2016-01-03 23:30:00,Marcelo,TakeOn
+87742,49,BlockedShot,0.919000015258789,0.524000015258789,0.1403500735759735,Marcelo,a,2257,OpenPlay,2015,LeftFoot,1576,Valencia,Real Madrid,2,2,2016-01-03 23:30:00,Karim Benzema,Pass
+87743,60,SavedShot,0.8030000305175782,0.325,0.023662038147449493,Danilo,a,2244,OpenPlay,2015,LeftFoot,1576,Valencia,Real Madrid,2,2,2016-01-03 23:30:00,Toni Kroos,TakeOn
+87745,65,MissedShots,0.8180000305175781,0.40099998474121096,0.0479501411318779,Cristiano Ronaldo,a,2371,OpenPlay,2015,RightFoot,1576,Valencia,Real Madrid,2,2,2016-01-03 23:30:00,,None
+87746,73,SavedShot,0.7519999694824219,0.5479999923706055,0.02128051407635212,Luka Modric,a,2250,SetPiece,2015,RightFoot,1576,Valencia,Real Madrid,2,2,2016-01-03 23:30:00,Cristiano Ronaldo,Pass
+87747,81,Goal,0.9169999694824219,0.42700000762939455,0.0983814001083374,Gareth Bale,a,2251,SetPiece,2015,Head,1576,Valencia,Real Madrid,2,2,2016-01-03 23:30:00,Toni Kroos,Cross
+87749,90,BlockedShot,0.9440000152587891,0.705,0.05119231715798378,Marcelo,a,2257,OpenPlay,2015,LeftFoot,1576,Valencia,Real Madrid,2,2,2016-01-03 23:30:00,,None
+87752,92,MissedShots,0.874000015258789,0.654000015258789,0.09817744791507721,Gareth Bale,a,2251,OpenPlay,2015,LeftFoot,1576,Valencia,Real Madrid,2,2,2016-01-03 23:30:00,Luka Modric,Chipped

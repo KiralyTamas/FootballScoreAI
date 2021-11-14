@@ -1,0 +1,26 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+389413,22,Goal,0.9790000152587891,0.5879999923706055,0.06189734488725662,Jan Bednarek,h,6042,FromCorner,2020,Head,14534,Southampton,Manchester United,2,3,2020-11-29 14:00:00,James Ward-Prowse,Cross
+389414,26,BlockedShot,0.8690000152587891,0.3160000038146973,0.06268060207366943,Kyle Walker-Peters,h,885,OpenPlay,2020,RightFoot,14534,Southampton,Manchester United,2,3,2020-11-29 14:00:00,Che Adams,Pass
+389417,32,Goal,0.8119999694824219,0.720999984741211,0.06691060960292816,James Ward-Prowse,h,843,DirectFreekick,2020,RightFoot,14534,Southampton,Manchester United,2,3,2020-11-29 14:00:00,,Standard
+389418,34,SavedShot,0.7809999847412109,0.6079999923706054,0.03996862471103668,Moussa Djenepo,h,7701,OpenPlay,2020,RightFoot,14534,Southampton,Manchester United,2,3,2020-11-29 14:00:00,Che Adams,Pass
+389421,47,SavedShot,0.8669999694824219,0.2670000076293945,0.049342863261699677,Theo Walcott,h,503,OpenPlay,2020,RightFoot,14534,Southampton,Manchester United,2,3,2020-11-29 14:00:00,Moussa Djenepo,Pass
+389422,48,SavedShot,0.774000015258789,0.295,0.021693995222449303,Theo Walcott,h,503,OpenPlay,2020,RightFoot,14534,Southampton,Manchester United,2,3,2020-11-29 14:00:00,Kyle Walker-Peters,Pass
+389426,62,MissedShots,0.8330000305175781,0.555,0.09079819917678833,Moussa Djenepo,h,7701,OpenPlay,2020,LeftFoot,14534,Southampton,Manchester United,2,3,2020-11-29 14:00:00,James Ward-Prowse,Pass
+389427,66,BlockedShot,0.789000015258789,0.41200000762939454,0.01588647998869419,Stuart Armstrong,h,6893,FromCorner,2020,RightFoot,14534,Southampton,Manchester United,2,3,2020-11-29 14:00:00,,Aerial
+389428,67,MissedShots,0.8069999694824219,0.629000015258789,0.02456766366958618,Ryan Bertrand,h,835,FromCorner,2020,LeftFoot,14534,Southampton,Manchester United,2,3,2020-11-29 14:00:00,,None
+389432,78,MissedShots,0.8580000305175781,0.41,0.06503685563802719,Che Adams,h,7700,OpenPlay,2020,RightFoot,14534,Southampton,Manchester United,2,3,2020-11-29 14:00:00,,None
+389411,6,MissedShots,0.9440000152587891,0.685,0.3218819200992584,Mason Greenwood,a,7490,OpenPlay,2020,LeftFoot,14534,Southampton,Manchester United,2,3,2020-11-29 14:00:00,Alex Telles,Throughball
+389412,15,BlockedShot,0.7169999694824218,0.4779999923706055,0.015151886269450188,Bruno Fernandes,a,1228,OpenPlay,2020,RightFoot,14534,Southampton,Manchester United,2,3,2020-11-29 14:00:00,Marcus Rashford,Pass
+389415,29,SavedShot,0.8130000305175781,0.495,0.04644652083516121,Mason Greenwood,a,7490,OpenPlay,2020,LeftFoot,14534,Southampton,Manchester United,2,3,2020-11-29 14:00:00,,BallRecovery
+389416,29,SavedShot,0.9309999847412109,0.575999984741211,0.43725791573524475,Bruno Fernandes,a,1228,OpenPlay,2020,RightFoot,14534,Southampton,Manchester United,2,3,2020-11-29 14:00:00,,Rebound
+389419,44,BlockedShot,0.8980000305175782,0.485,0.03072589822113514,Harry Maguire,a,1687,FromCorner,2020,Head,14534,Southampton,Manchester United,2,3,2020-11-29 14:00:00,Alex Telles,End
+389420,44,BlockedShot,0.7869999694824219,0.555,0.01622186228632927,Fred,a,6817,FromCorner,2020,RightFoot,14534,Southampton,Manchester United,2,3,2020-11-29 14:00:00,,Aerial
+389423,51,SavedShot,0.8780000305175781,0.645,0.40464040637016296,Marcus Rashford,a,556,OpenPlay,2020,RightFoot,14534,Southampton,Manchester United,2,3,2020-11-29 14:00:00,Bruno Fernandes,Throughball
+389424,55,BlockedShot,0.9169999694824219,0.46700000762939453,0.08460482954978943,Edinson Cavani,a,3294,OpenPlay,2020,RightFoot,14534,Southampton,Manchester United,2,3,2020-11-29 14:00:00,,None
+389425,58,Goal,0.9080000305175782,0.4640000152587891,0.2874872386455536,Bruno Fernandes,a,1228,OpenPlay,2020,RightFoot,14534,Southampton,Manchester United,2,3,2020-11-29 14:00:00,Edinson Cavani,Cross
+389429,68,MissedShots,0.9,0.485,0.07383136451244354,Edinson Cavani,a,3294,OpenPlay,2020,Head,14534,Southampton,Manchester United,2,3,2020-11-29 14:00:00,Aaron Wan-Bissaka,Cross
+389430,73,MissedShots,0.799000015258789,0.345,0.03364358842372894,Bruno Fernandes,a,1228,FromCorner,2020,RightFoot,14534,Southampton,Manchester United,2,3,2020-11-29 14:00:00,Fred,Pass
+389431,73,Goal,0.9359999847412109,0.54,0.3237338960170746,Edinson Cavani,a,3294,FromCorner,2020,Head,14534,Southampton,Manchester United,2,3,2020-11-29 14:00:00,,Rebound
+389433,90,MissedShots,0.6859999847412109,0.37,0.01592034474015236,Bruno Fernandes,a,1228,OpenPlay,2020,RightFoot,14534,Southampton,Manchester United,2,3,2020-11-29 14:00:00,Fred,Pass
+389434,91,Goal,0.9169999694824219,0.555,0.2660726308822632,Edinson Cavani,a,3294,SetPiece,2020,Head,14534,Southampton,Manchester United,2,3,2020-11-29 14:00:00,Marcus Rashford,Cross
+389435,94,MissedShots,0.8859999847412109,0.5590000152587891,0.1490480899810791,Bruno Fernandes,a,1228,OpenPlay,2020,RightFoot,14534,Southampton,Manchester United,2,3,2020-11-29 14:00:00,Marcus Rashford,Pass

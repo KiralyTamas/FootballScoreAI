@@ -1,0 +1,24 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+183728,1,Goal,0.789000015258789,0.524000015258789,0.043601084500551224,Philipp Bargfrede,h,114,OpenPlay,2017,RightFoot,8409,Werder Bremen,Mainz 05,2,2,2017-12-16 14:30:00,Thomas Delaney,BallRecovery
+183730,6,SavedShot,0.77,0.6580000305175782,0.03662405163049698,Florian Kainz,h,5231,OpenPlay,2017,RightFoot,8409,Werder Bremen,Mainz 05,2,2,2017-12-16 14:30:00,Ludwig Augustinsson,TakeOn
+183731,7,BlockedShot,0.784000015258789,0.625,0.03504342585802078,Thomas Delaney,h,5230,OpenPlay,2017,LeftFoot,8409,Werder Bremen,Mainz 05,2,2,2017-12-16 14:30:00,Florian Kainz,Pass
+183732,16,Goal,0.93,0.375,0.016895316541194916,Ishak Belfodil,h,3834,SetPiece,2017,Head,8409,Werder Bremen,Mainz 05,2,2,2017-12-16 14:30:00,Thomas Delaney,Aerial
+183733,20,SavedShot,0.865999984741211,0.68,0.1064557135105133,Florian Kainz,h,5231,OpenPlay,2017,LeftFoot,8409,Werder Bremen,Mainz 05,2,2,2017-12-16 14:30:00,Ishak Belfodil,BallRecovery
+183735,25,SavedShot,0.9209999847412109,0.5790000152587891,0.5327103137969971,Maximilian Eggestein,h,125,OpenPlay,2017,RightFoot,8409,Werder Bremen,Mainz 05,2,2,2017-12-16 14:30:00,,None
+183736,31,MissedShots,0.9119999694824219,0.6730000305175782,0.04075666517019272,Florian Kainz,h,5231,SetPiece,2017,RightFoot,8409,Werder Bremen,Mainz 05,2,2,2017-12-16 14:30:00,Thomas Delaney,Pass
+183738,41,MissedShots,0.8980000305175782,0.549000015258789,0.06132616475224495,Maximilian Eggestein,h,125,FromCorner,2017,LeftFoot,8409,Werder Bremen,Mainz 05,2,2,2017-12-16 14:30:00,Ludwig Augustinsson,Cross
+183739,53,SavedShot,0.8690000152587891,0.5709999847412109,0.10823287069797516,Maximilian Eggestein,h,125,OpenPlay,2017,RightFoot,8409,Werder Bremen,Mainz 05,2,2,2017-12-16 14:30:00,Ludwig Augustinsson,Pass
+183744,74,SavedShot,0.955999984741211,0.49900001525878906,0.06163831800222397,Ishak Belfodil,h,3834,SetPiece,2017,Head,8409,Werder Bremen,Mainz 05,2,2,2017-12-16 14:30:00,Ludwig Augustinsson,BallTouch
+183745,75,BlockedShot,0.7019999694824218,0.6680000305175782,0.011990027502179146,Florian Kainz,h,5231,FromCorner,2017,RightFoot,8409,Werder Bremen,Mainz 05,2,2,2017-12-16 14:30:00,,None
+183746,81,BlockedShot,0.7759999847412109,0.7080000305175781,0.05625695362687111,Ishak Belfodil,h,3834,DirectFreekick,2017,RightFoot,8409,Werder Bremen,Mainz 05,2,2,2017-12-16 14:30:00,,Standard
+183747,82,BlockedShot,0.9330000305175781,0.595999984741211,0.05590197071433067,Ishak Belfodil,h,3834,FromCorner,2017,Head,8409,Werder Bremen,Mainz 05,2,2,2017-12-16 14:30:00,Ludwig Augustinsson,Cross
+183748,82,BlockedShot,0.8030000305175782,0.509000015258789,0.03405938670039177,Niklas Moisander,h,1936,FromCorner,2017,LeftFoot,8409,Werder Bremen,Mainz 05,2,2,2017-12-16 14:30:00,,None
+183729,5,ShotOnPost,0.795,0.33599998474121096,0.027378790080547333,Levin Öztunali,a,118,OpenPlay,2017,LeftFoot,8409,Werder Bremen,Mainz 05,2,2,2017-12-16 14:30:00,Giulio Donati,Pass
+183734,24,BlockedShot,0.8090000152587891,0.495,0.04041493311524391,Danny Latza,a,43,OpenPlay,2017,RightFoot,8409,Werder Bremen,Mainz 05,2,2,2017-12-16 14:30:00,,None
+183737,33,SavedShot,0.8780000305175781,0.41900001525878905,0.05020670220255852,Pablo De Blasis,a,44,OpenPlay,2017,RightFoot,8409,Werder Bremen,Mainz 05,2,2,2017-12-16 14:30:00,Danny Latza,Cross
+183740,62,MissedShots,0.7469999694824219,0.38,0.0074247089214622974,Daniel Brosinski,a,38,OpenPlay,2017,RightFoot,8409,Werder Bremen,Mainz 05,2,2,2017-12-16 14:30:00,Giulio Donati,Chipped
+183741,64,MissedShots,0.9369999694824219,0.40400001525878904,0.0579969696700573,Danny Latza,a,43,FromCorner,2017,Head,8409,Werder Bremen,Mainz 05,2,2,2017-12-16 14:30:00,Daniel Brosinski,Cross
+183742,67,MissedShots,0.6940000152587891,0.5790000152587891,0.009468566626310349,Robin Quaison,a,1275,OpenPlay,2017,RightFoot,8409,Werder Bremen,Mainz 05,2,2,2017-12-16 14:30:00,Levin Öztunali,BallTouch
+183743,69,Goal,0.9359999847412109,0.575,0.4240608513355255,Robin Quaison,a,1275,OpenPlay,2017,RightFoot,8409,Werder Bremen,Mainz 05,2,2,2017-12-16 14:30:00,Emil Berggreen,TakeOn
+183749,84,MissedShots,0.8219999694824218,0.29700000762939455,0.0274787750095129,Alexandru Maxim,a,63,OpenPlay,2017,RightFoot,8409,Werder Bremen,Mainz 05,2,2,2017-12-16 14:30:00,Fabian Frei,Pass
+183750,92,Goal,0.9219999694824219,0.47,0.40433695912361145,Fabian Frei,a,441,OpenPlay,2017,RightFoot,8409,Werder Bremen,Mainz 05,2,2,2017-12-16 14:30:00,Pablo De Blasis,Cross

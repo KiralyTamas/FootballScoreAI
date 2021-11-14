@@ -1,0 +1,26 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+167760,3,MissedShots,0.9319999694824219,0.56,0.06380479782819748,Niklas Süle,h,75,SetPiece,2017,Head,8358,Bayern Munich,Augsburg,3,0,2017-11-18 14:30:00,Arturo Vidal,HeadPass
+167761,5,BlockedShot,0.8619999694824219,0.28200000762939453,0.057972345501184464,Arjen Robben,h,392,OpenPlay,2017,LeftFoot,8358,Bayern Munich,Augsburg,3,0,2017-11-18 14:30:00,,TakeOn
+167762,5,BlockedShot,0.8909999847412109,0.3629999923706055,0.013949058018624783,Mats Hummels,h,373,FromCorner,2017,Head,8358,Bayern Munich,Augsburg,3,0,2017-11-18 14:30:00,James Rodríguez,Cross
+167764,12,SavedShot,0.95,0.5690000152587891,0.14096975326538086,Robert Lewandowski,h,227,OpenPlay,2017,RightFoot,8358,Bayern Munich,Augsburg,3,0,2017-11-18 14:30:00,Juan Bernat,Pass
+167765,12,MissedShots,0.91,0.4490000152587891,0.07076993584632874,Mats Hummels,h,373,FromCorner,2017,Head,8358,Bayern Munich,Augsburg,3,0,2017-11-18 14:30:00,James Rodríguez,Cross
+167768,30,BlockedShot,0.899000015258789,0.5320000076293945,0.08034615963697433,Mats Hummels,h,373,SetPiece,2017,RightFoot,8358,Bayern Munich,Augsburg,3,0,2017-11-18 14:30:00,,None
+167769,30,Goal,0.955999984741211,0.3940000152587891,0.10725711286067963,Arturo Vidal,h,222,SetPiece,2017,RightFoot,8358,Bayern Munich,Augsburg,3,0,2017-11-18 14:30:00,Niklas Süle,Rebound
+167772,36,MissedShots,0.745999984741211,0.4759999847412109,0.017144611105322838,Javi Martínez,h,225,FromCorner,2017,RightFoot,8358,Bayern Munich,Augsburg,3,0,2017-11-18 14:30:00,,None
+167773,37,Goal,0.88,0.40200000762939453,0.32313454151153564,Robert Lewandowski,h,227,OpenPlay,2017,RightFoot,8358,Bayern Munich,Augsburg,3,0,2017-11-18 14:30:00,Arturo Vidal,Pass
+167775,48,Goal,0.915,0.54,0.4421159327030182,Robert Lewandowski,h,227,OpenPlay,2017,LeftFoot,8358,Bayern Munich,Augsburg,3,0,2017-11-18 14:30:00,Joshua Kimmich,Cross
+167776,50,ShotOnPost,0.9230000305175782,0.43900001525878907,0.4389040470123291,Arturo Vidal,h,222,OpenPlay,2017,Head,8358,Bayern Munich,Augsburg,3,0,2017-11-18 14:30:00,James Rodríguez,Throughball
+167779,61,SavedShot,0.7190000152587891,0.615,0.02016097865998745,Robert Lewandowski,h,227,OpenPlay,2017,RightFoot,8358,Bayern Munich,Augsburg,3,0,2017-11-18 14:30:00,James Rodríguez,TakeOn
+167780,62,BlockedShot,0.7780000305175782,0.37099998474121093,0.03915983811020851,Arjen Robben,h,392,OpenPlay,2017,LeftFoot,8358,Bayern Munich,Augsburg,3,0,2017-11-18 14:30:00,James Rodríguez,Pass
+167781,72,MissedShots,0.7780000305175782,0.7419999694824219,0.02681366167962551,Arjen Robben,h,392,OpenPlay,2017,LeftFoot,8358,Bayern Munich,Augsburg,3,0,2017-11-18 14:30:00,Arturo Vidal,Pass
+167782,81,MissedShots,0.92,0.48700000762939455,0.049695197492837906,Niklas Süle,h,75,FromCorner,2017,Head,8358,Bayern Munich,Augsburg,3,0,2017-11-18 14:30:00,Joshua Kimmich,Aerial
+167783,88,BlockedShot,0.700999984741211,0.6730000305175782,0.013160298578441143,David Alaba,h,391,SetPiece,2017,LeftFoot,8358,Bayern Munich,Augsburg,3,0,2017-11-18 14:30:00,Robert Lewandowski,Pass
+167784,89,MissedShots,0.769000015258789,0.37900001525878907,0.018293829634785652,Joshua Kimmich,h,223,FromCorner,2017,RightFoot,8358,Bayern Munich,Augsburg,3,0,2017-11-18 14:30:00,,None
+167763,10,BlockedShot,0.7909999847412109,0.25299999237060544,0.011467271484434605,Caiuby,a,272,SetPiece,2017,LeftFoot,8358,Bayern Munich,Augsburg,3,0,2017-11-18 14:30:00,,None
+167766,20,MissedShots,0.6509999847412109,0.6719999694824219,0.00861101970076561,Michael Gregoritsch,a,171,OpenPlay,2017,LeftFoot,8358,Bayern Munich,Augsburg,3,0,2017-11-18 14:30:00,Alfred Finnbogason,HeadPass
+167767,28,MissedShots,0.8980000305175782,0.3129999923706055,0.04090002551674843,Caiuby,a,272,FromCorner,2017,RightFoot,8358,Bayern Munich,Augsburg,3,0,2017-11-18 14:30:00,,None
+167770,32,SavedShot,0.7040000152587891,0.2979999923706055,0.03205412998795509,Michael Gregoritsch,a,171,DirectFreekick,2017,LeftFoot,8358,Bayern Munich,Augsburg,3,0,2017-11-18 14:30:00,,Standard
+167771,32,SavedShot,0.8830000305175781,0.5129999923706055,0.054148636758327484,Kevin Danso,a,5261,SetPiece,2017,Head,8358,Bayern Munich,Augsburg,3,0,2017-11-18 14:30:00,Rani Khedira,Cross
+167774,47,MissedShots,0.9380000305175781,0.5670000076293945,0.09782911837100983,Jeffrey Gouweleeuw,a,2665,FromCorner,2017,Head,8358,Bayern Munich,Augsburg,3,0,2017-11-18 14:30:00,Philipp Max,Cross
+167777,51,MissedShots,0.695,0.67,0.007518760394304991,Philipp Max,a,267,OpenPlay,2017,LeftFoot,8358,Bayern Munich,Augsburg,3,0,2017-11-18 14:30:00,,Interception
+167778,59,SavedShot,0.6659999847412109,0.5640000152587891,0.029800904914736748,Michael Gregoritsch,a,171,DirectFreekick,2017,LeftFoot,8358,Bayern Munich,Augsburg,3,0,2017-11-18 14:30:00,,Standard

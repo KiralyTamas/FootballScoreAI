@@ -1,0 +1,31 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+160586,5,Goal,0.98,0.565,0.5960724949836731,Demarai Gray,h,762,OpenPlay,2017,OtherBodyPart,7261,Leicester,Burnley,1,0,2017-12-02 15:00:00,,None
+160594,42,SavedShot,0.784000015258789,0.5379999923706055,0.058722157031297684,Riyad Mahrez,h,750,OpenPlay,2017,LeftFoot,7261,Leicester,Burnley,1,0,2017-12-02 15:00:00,Wilfred Ndidi,HeadPass
+160595,48,BlockedShot,0.799000015258789,0.6309999847412109,0.05805038660764694,Riyad Mahrez,h,750,OpenPlay,2017,LeftFoot,7261,Leicester,Burnley,1,0,2017-12-02 15:00:00,Vicente Iborra,HeadPass
+160596,48,MissedShots,0.7780000305175782,0.6580000305175782,0.022940194234251976,Ben Chilwell,h,782,FromCorner,2017,LeftFoot,7261,Leicester,Burnley,1,0,2017-12-02 15:00:00,Marc Albrighton,Pass
+160597,50,BlockedShot,0.9,0.46599998474121096,0.14018355309963226,Demarai Gray,h,762,OpenPlay,2017,RightFoot,7261,Leicester,Burnley,1,0,2017-12-02 15:00:00,Marc Albrighton,Pass
+160598,51,BlockedShot,0.7319999694824219,0.485,0.0168632622808218,Wilfred Ndidi,h,5545,OpenPlay,2017,LeftFoot,7261,Leicester,Burnley,1,0,2017-12-02 15:00:00,,Rebound
+160599,57,MissedShots,0.8819999694824219,0.34900001525878904,0.0794309452176094,Jamie Vardy,h,755,OpenPlay,2017,RightFoot,7261,Leicester,Burnley,1,0,2017-12-02 15:00:00,Riyad Mahrez,Chipped
+160601,60,BlockedShot,0.8190000152587891,0.32799999237060545,0.035405319184064865,Jamie Vardy,h,755,OpenPlay,2017,RightFoot,7261,Leicester,Burnley,1,0,2017-12-02 15:00:00,Riyad Mahrez,Pass
+160603,65,MissedShots,0.764000015258789,0.52,0.019351501017808914,Wilfred Ndidi,h,5545,FromCorner,2017,LeftFoot,7261,Leicester,Burnley,1,0,2017-12-02 15:00:00,,None
+160605,68,BlockedShot,0.8969999694824219,0.6840000152587891,0.07308289408683777,Marc Albrighton,h,753,OpenPlay,2017,RightFoot,7261,Leicester,Burnley,1,0,2017-12-02 15:00:00,Riyad Mahrez,Pass
+160606,71,ShotOnPost,0.8830000305175781,0.40599998474121096,0.11027725040912628,Demarai Gray,h,762,OpenPlay,2017,RightFoot,7261,Leicester,Burnley,1,0,2017-12-02 15:00:00,Wilfred Ndidi,Pass
+160607,75,BlockedShot,0.8830000305175781,0.615,0.09796595573425293,Demarai Gray,h,762,OpenPlay,2017,RightFoot,7261,Leicester,Burnley,1,0,2017-12-02 15:00:00,Wes Morgan,Pass
+160609,88,MissedShots,0.759000015258789,0.33799999237060546,0.025606172159314156,Jamie Vardy,h,755,OpenPlay,2017,RightFoot,7261,Leicester,Burnley,1,0,2017-12-02 15:00:00,Shinji Okazaki,Pass
+160611,91,BlockedShot,0.8830000305175781,0.385,0.09715665876865387,Shinji Okazaki,h,754,OpenPlay,2017,LeftFoot,7261,Leicester,Burnley,1,0,2017-12-02 15:00:00,Riyad Mahrez,Pass
+160612,91,SavedShot,0.8780000305175781,0.375,0.10947643220424652,Riyad Mahrez,h,750,OpenPlay,2017,LeftFoot,7261,Leicester,Burnley,1,0,2017-12-02 15:00:00,Ben Chilwell,TakeOn
+160613,92,MissedShots,0.8180000305175781,0.51,0.07446586340665817,Riyad Mahrez,h,750,OpenPlay,2017,RightFoot,7261,Leicester,Burnley,1,0,2017-12-02 15:00:00,Shinji Okazaki,Pass
+160587,10,MissedShots,0.9640000152587891,0.43099998474121093,0.0629398375749588,Ben Mee,a,1654,FromCorner,2017,Head,7261,Leicester,Burnley,1,0,2017-12-02 15:00:00,,Aerial
+160588,15,MissedShots,0.935,0.500999984741211,0.12236487865447998,James Tarkowski,a,1665,FromCorner,2017,Head,7261,Leicester,Burnley,1,0,2017-12-02 15:00:00,Robbie Brady,Cross
+160589,18,MissedShots,0.9230000305175782,0.4570000076293945,0.09248340129852295,Ben Mee,a,1654,FromCorner,2017,Head,7261,Leicester,Burnley,1,0,2017-12-02 15:00:00,Robbie Brady,Cross
+160590,19,SavedShot,0.855,0.32099998474121094,0.03144017979502678,Johann Berg Gudmundsson,a,1663,OpenPlay,2017,LeftFoot,7261,Leicester,Burnley,1,0,2017-12-02 15:00:00,Chris Wood,HeadPass
+160591,20,MissedShots,0.8009999847412109,0.2620000076293945,0.01890346221625805,Robbie Brady,a,789,OpenPlay,2017,LeftFoot,7261,Leicester,Burnley,1,0,2017-12-02 15:00:00,Johann Berg Gudmundsson,Pass
+160592,36,MissedShots,0.9180000305175782,0.47900001525878905,0.08844109624624252,Chris Wood,a,4456,OpenPlay,2017,Head,7261,Leicester,Burnley,1,0,2017-12-02 15:00:00,Johann Berg Gudmundsson,Cross
+160593,39,BlockedShot,0.7969999694824219,0.6,0.038152679800987244,Scott Arfield,a,1659,OpenPlay,2017,RightFoot,7261,Leicester,Burnley,1,0,2017-12-02 15:00:00,Jeff Hendrick,Pass
+160600,59,SavedShot,0.7330000305175781,0.6430000305175781,0.011506104841828346,Steven Defour,a,1657,OpenPlay,2017,RightFoot,7261,Leicester,Burnley,1,0,2017-12-02 15:00:00,Jack Cork,BallRecovery
+160602,60,SavedShot,0.8109999847412109,0.6329999923706054,0.085472472012043,Johann Berg Gudmundsson,a,1663,OpenPlay,2017,LeftFoot,7261,Leicester,Burnley,1,0,2017-12-02 15:00:00,Jeff Hendrick,TakeOn
+160604,66,BlockedShot,0.7090000152587891,0.595999984741211,0.01416572742164135,Jeff Hendrick,a,1746,OpenPlay,2017,RightFoot,7261,Leicester,Burnley,1,0,2017-12-02 15:00:00,Johann Berg Gudmundsson,Pass
+160608,86,MissedShots,0.905,0.5379999923706055,0.06532331556081772,Sam Vokes,a,1661,FromCorner,2017,Head,7261,Leicester,Burnley,1,0,2017-12-02 15:00:00,Johann Berg Gudmundsson,Cross
+160610,90,MissedShots,0.8919999694824219,0.525,0.08185907453298569,Ashley Barnes,a,4422,OpenPlay,2017,RightFoot,7261,Leicester,Burnley,1,0,2017-12-02 15:00:00,Johann Berg Gudmundsson,Cross
+160614,92,SavedShot,0.8569999694824219,0.740999984741211,0.025851229205727577,Ashley Barnes,a,4422,OpenPlay,2017,LeftFoot,7261,Leicester,Burnley,1,0,2017-12-02 15:00:00,,None
+160615,94,BlockedShot,0.8390000152587891,0.4929999923706055,0.050484251230955124,Ashley Barnes,a,4422,OpenPlay,2017,RightFoot,7261,Leicester,Burnley,1,0,2017-12-02 15:00:00,Phil Bardsley,Cross

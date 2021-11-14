@@ -1,0 +1,27 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+189298,5,MissedShots,0.94,0.3970000076293945,0.0727914422750473,Robert Lewandowski,h,227,SetPiece,2017,Head,8421,Bayern Munich,Werder Bremen,4,2,2018-01-21 14:30:00,James Rodríguez,Cross
+189300,11,SavedShot,0.805,0.3,0.03243909776210785,Franck Ribéry,h,329,OpenPlay,2017,RightFoot,8421,Bayern Munich,Werder Bremen,4,2,2018-01-21 14:30:00,Thomas Müller,LayOff
+189301,12,BlockedShot,0.8190000152587891,0.5070000076293946,0.06993799656629562,Thomas Müller,h,224,OpenPlay,2017,LeftFoot,8421,Bayern Munich,Werder Bremen,4,2,2018-01-21 14:30:00,Juan Bernat,Pass
+189302,12,MissedShots,0.9159999847412109,0.4779999923706055,0.1254633218050003,Robert Lewandowski,h,227,OpenPlay,2017,Head,8421,Bayern Munich,Werder Bremen,4,2,2018-01-21 14:30:00,Jérôme Boateng,Cross
+189306,32,BlockedShot,0.8980000305175782,0.639000015258789,0.0787293091416359,James Rodríguez,h,2249,SetPiece,2017,RightFoot,8421,Bayern Munich,Werder Bremen,4,2,2018-01-21 14:30:00,Jérôme Boateng,Pass
+189307,32,BlockedShot,0.8690000152587891,0.655,0.050848618149757385,Niklas Süle,h,75,OpenPlay,2017,LeftFoot,8421,Bayern Munich,Werder Bremen,4,2,2018-01-21 14:30:00,,Tackle
+189308,40,Goal,0.9230000305175782,0.5370000076293945,0.36212095618247986,Thomas Müller,h,224,OpenPlay,2017,RightFoot,8421,Bayern Munich,Werder Bremen,4,2,2018-01-21 14:30:00,Jérôme Boateng,Chipped
+189310,49,MissedShots,0.9080000305175782,0.445,0.09361877292394638,Arjen Robben,h,392,OpenPlay,2017,RightFoot,8421,Bayern Munich,Werder Bremen,4,2,2018-01-21 14:30:00,Thomas Müller,Cross
+189312,61,SavedShot,0.9069999694824219,0.3240000152587891,0.0522063709795475,Arturo Vidal,h,222,SetPiece,2017,RightFoot,8421,Bayern Munich,Werder Bremen,4,2,2018-01-21 14:30:00,,None
+189313,61,MissedShots,0.8069999694824219,0.5220000076293946,0.040384259074926376,Jérôme Boateng,h,220,SetPiece,2017,RightFoot,8421,Bayern Munich,Werder Bremen,4,2,2018-01-21 14:30:00,,None
+189314,62,Goal,0.93,0.5320000076293945,0.05725901201367378,Robert Lewandowski,h,227,FromCorner,2017,Head,8421,Bayern Munich,Werder Bremen,4,2,2018-01-21 14:30:00,James Rodríguez,Aerial
+189317,68,SavedShot,0.9259999847412109,0.5379999923706055,0.1460307389497757,Robert Lewandowski,h,227,OpenPlay,2017,LeftFoot,8421,Bayern Munich,Werder Bremen,4,2,2018-01-21 14:30:00,Franck Ribéry,Pass
+189318,68,BlockedShot,0.895,0.5790000152587891,0.10357021540403366,Franck Ribéry,h,329,OpenPlay,2017,RightFoot,8421,Bayern Munich,Werder Bremen,4,2,2018-01-21 14:30:00,,None
+189319,73,OwnGoal,0.03299999952316284,0.48700000762939455,0,Niklas Süle,h,75,FromCorner,2017,OtherBodyPart,8421,Bayern Munich,Werder Bremen,4,2,2018-01-21 14:30:00,,CornerAwarded
+189320,75,Goal,0.909000015258789,0.5259999847412109,0.12054094672203064,Robert Lewandowski,h,227,OpenPlay,2017,Head,8421,Bayern Munich,Werder Bremen,4,2,2018-01-21 14:30:00,Thomas Müller,Cross
+189322,83,Goal,0.905,0.5279999923706055,0.4883882999420166,Thomas Müller,h,224,OpenPlay,2017,RightFoot,8421,Bayern Munich,Werder Bremen,4,2,2018-01-21 14:30:00,James Rodríguez,Throughball
+189299,6,ShotOnPost,0.909000015258789,0.48200000762939454,0.11767131835222244,Max Kruse,a,155,OpenPlay,2017,Head,8421,Bayern Munich,Werder Bremen,4,2,2018-01-21 14:30:00,Ludwig Augustinsson,Cross
+189303,22,MissedShots,0.7609999847412109,0.445,0.019125549122691154,Zlatko Junuzovic,a,301,FromCorner,2017,RightFoot,8421,Bayern Munich,Werder Bremen,4,2,2018-01-21 14:30:00,,None
+189304,24,Goal,0.9290000152587891,0.415,0.45311158895492554,Jérôme Gondorf,a,8,OpenPlay,2017,RightFoot,8421,Bayern Munich,Werder Bremen,4,2,2018-01-21 14:30:00,Max Kruse,Throughball
+189305,25,SavedShot,0.759000015258789,0.3820000076293945,0.02866618148982525,Thomas Delaney,a,5230,OpenPlay,2017,LeftFoot,8421,Bayern Munich,Werder Bremen,4,2,2018-01-21 14:30:00,Robert Bauer,Pass
+189309,42,BlockedShot,0.7190000152587891,0.41200000762939454,0.018215684220194817,Jérôme Gondorf,a,8,OpenPlay,2017,RightFoot,8421,Bayern Munich,Werder Bremen,4,2,2018-01-21 14:30:00,Zlatko Junuzovic,Pass
+189311,55,BlockedShot,0.8180000305175781,0.629000015258789,0.046897973865270615,Jérôme Gondorf,a,8,OpenPlay,2017,RightFoot,8421,Bayern Munich,Werder Bremen,4,2,2018-01-21 14:30:00,Max Kruse,BallRecovery
+189315,64,SavedShot,0.8619999694824219,0.36,0.06327470391988754,Max Kruse,a,155,OpenPlay,2017,RightFoot,8421,Bayern Munich,Werder Bremen,4,2,2018-01-21 14:30:00,Zlatko Junuzovic,Pass
+189316,64,MissedShots,0.9259999847412109,0.41900001525878905,0.022426072508096695,Theodor Gebre Selassie,a,110,FromCorner,2017,Head,8421,Bayern Munich,Werder Bremen,4,2,2018-01-21 14:30:00,Zlatko Junuzovic,Aerial
+189321,79,SavedShot,0.7980000305175782,0.5659999847412109,0.03915148973464966,Zlatko Junuzovic,a,301,OpenPlay,2017,RightFoot,8421,Bayern Munich,Werder Bremen,4,2,2018-01-21 14:30:00,Ludwig Augustinsson,Pass
+189323,90,MissedShots,0.8080000305175781,0.47200000762939454,0.054054513573646545,Zlatko Junuzovic,a,301,OpenPlay,2017,RightFoot,8421,Bayern Munich,Werder Bremen,4,2,2018-01-21 14:30:00,Florian Kainz,Pass

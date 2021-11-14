@@ -1,0 +1,22 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+362917,6,MissedShots,0.754000015258789,0.34299999237060547,0.02147328481078148,Thorgan Hazard,h,213,OpenPlay,2019,RightFoot,12628,Borussia Dortmund,Schalke 04,4,0,2020-05-16 13:30:00,Erling Haaland,Pass
+362918,14,BlockedShot,0.9180000305175782,0.3039999961853027,0.05919568985700607,Raphael Guerreiro,h,3455,OpenPlay,2019,RightFoot,12628,Borussia Dortmund,Schalke 04,4,0,2020-05-16 13:30:00,Thorgan Hazard,Pass
+362919,22,BlockedShot,0.7580000305175781,0.634000015258789,0.06175253540277481,Achraf Hakimi,h,5197,DirectFreekick,2019,RightFoot,12628,Borussia Dortmund,Schalke 04,4,0,2020-05-16 13:30:00,,Standard
+362920,23,MissedShots,0.9369999694824219,0.68,0.047323230654001236,Erling Haaland,h,8260,FromCorner,2019,LeftFoot,12628,Borussia Dortmund,Schalke 04,4,0,2020-05-16 13:30:00,,None
+362923,28,Goal,0.9159999847412109,0.4520000076293945,0.35417255759239197,Erling Haaland,h,8260,OpenPlay,2019,LeftFoot,12628,Borussia Dortmund,Schalke 04,4,0,2020-05-16 13:30:00,Thorgan Hazard,Cross
+362924,34,MissedShots,0.8590000152587891,0.47299999237060547,0.10495077818632126,Raphael Guerreiro,h,3455,OpenPlay,2019,LeftFoot,12628,Borussia Dortmund,Schalke 04,4,0,2020-05-16 13:30:00,Achraf Hakimi,Pass
+362925,39,BlockedShot,0.9009999847412109,0.33599998474121096,0.08289672434329987,Achraf Hakimi,h,5197,OpenPlay,2019,RightFoot,12628,Borussia Dortmund,Schalke 04,4,0,2020-05-16 13:30:00,Julian Brandt,Pass
+362926,40,BlockedShot,0.785,0.4370000076293945,0.024624928832054138,Mahmoud Dahoud,h,205,FromCorner,2019,RightFoot,12628,Borussia Dortmund,Schalke 04,4,0,2020-05-16 13:30:00,,None
+362927,44,Goal,0.9159999847412109,0.6840000152587891,0.07176202535629272,Raphael Guerreiro,h,3455,OpenPlay,2019,LeftFoot,12628,Borussia Dortmund,Schalke 04,4,0,2020-05-16 13:30:00,Julian Brandt,Pass
+362929,47,Goal,0.8159999847412109,0.40200000762939453,0.10079643875360489,Thorgan Hazard,h,213,OpenPlay,2019,RightFoot,12628,Borussia Dortmund,Schalke 04,4,0,2020-05-16 13:30:00,Julian Brandt,Pass
+362932,62,Goal,0.8880000305175781,0.4640000152587891,0.5230042934417725,Raphael Guerreiro,h,3455,OpenPlay,2019,LeftFoot,12628,Borussia Dortmund,Schalke 04,4,0,2020-05-16 13:30:00,Erling Haaland,Throughball
+362916,6,BlockedShot,0.745999984741211,0.5790000152587891,0.06177695095539093,Daniel Caligiuri,a,157,DirectFreekick,2019,RightFoot,12628,Borussia Dortmund,Schalke 04,4,0,2020-05-16 13:30:00,,Standard
+362921,25,SavedShot,0.8540000152587891,0.37099998474121093,0.057129330933094025,Daniel Caligiuri,a,157,OpenPlay,2019,RightFoot,12628,Borussia Dortmund,Schalke 04,4,0,2020-05-16 13:30:00,,None
+362922,25,BlockedShot,0.8959999847412109,0.38299999237060545,0.07947580516338348,Daniel Caligiuri,a,157,OpenPlay,2019,RightFoot,12628,Borussia Dortmund,Schalke 04,4,0,2020-05-16 13:30:00,,Rebound
+362928,46,SavedShot,0.7780000305175782,0.45599998474121095,0.03512829542160034,Suat Serdar,a,307,OpenPlay,2019,RightFoot,12628,Borussia Dortmund,Schalke 04,4,0,2020-05-16 13:30:00,Amine Harit,Pass
+362930,52,BlockedShot,0.6869999694824219,0.345,0.008062592707574368,Jonjoe Kenny,a,1084,SetPiece,2019,RightFoot,12628,Borussia Dortmund,Schalke 04,4,0,2020-05-16 13:30:00,,None
+362931,55,SavedShot,0.7759999847412109,0.5429999923706055,0.0331142283976078,Guido Burgstaller,a,5302,OpenPlay,2019,LeftFoot,12628,Borussia Dortmund,Schalke 04,4,0,2020-05-16 13:30:00,Amine Harit,Pass
+362933,68,BlockedShot,0.73,0.38599998474121094,0.010660342872142792,Weston McKennie,a,5360,SetPiece,2019,RightFoot,12628,Borussia Dortmund,Schalke 04,4,0,2020-05-16 13:30:00,,None
+362934,69,MissedShots,0.8219999694824218,0.705,0.01928785815834999,Guido Burgstaller,a,5302,SetPiece,2019,RightFoot,12628,Borussia Dortmund,Schalke 04,4,0,2020-05-16 13:30:00,,None
+362935,73,MissedShots,0.9080000305175782,0.49,0.032455042004585266,Salif Sané,a,96,FromCorner,2019,Head,12628,Borussia Dortmund,Schalke 04,4,0,2020-05-16 13:30:00,Bastian Oczipka,Aerial
+362936,87,MissedShots,0.74,0.7659999847412109,0.01296247635036707,Rabbi Matondo,a,7394,OpenPlay,2019,RightFoot,12628,Borussia Dortmund,Schalke 04,4,0,2020-05-16 13:30:00,Bastian Oczipka,Pass

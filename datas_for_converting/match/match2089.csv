@@ -1,0 +1,29 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+66560,3,BlockedShot,0.925,0.6659999847412109,0.035529863089323044,Rémy Cabella,h,3390,OpenPlay,2015,RightFoot,2089,Marseille,Lille,1,1,2016-01-29 23:30:00,Bouna Sarr,Cross
+66561,3,MissedShots,0.85,0.67,0.034667812287807465,Javier Manquillo,h,1719,OpenPlay,2015,RightFoot,2089,Marseille,Lille,1,1,2016-01-29 23:30:00,,Rebound
+66562,11,BlockedShot,0.86,0.26799999237060546,0.03454015403985977,Rémy Cabella,h,3390,OpenPlay,2015,RightFoot,2089,Marseille,Lille,1,1,2016-01-29 23:30:00,Mauricio Isla,TakeOn
+66564,16,MissedShots,0.9230000305175782,0.42900001525878906,0.10882628709077835,Michy Batshuayi,h,1678,OpenPlay,2015,Head,2089,Marseille,Lille,1,1,2016-01-29 23:30:00,Bouna Sarr,Cross
+66565,16,MissedShots,0.865999984741211,0.6079999923706054,0.06498895585536957,Georges-Kévin Nkoudou,h,1729,OpenPlay,2015,RightFoot,2089,Marseille,Lille,1,1,2016-01-29 23:30:00,,None
+66566,16,BlockedShot,0.8959999847412109,0.5940000152587891,0.09150964021682739,Rémy Cabella,h,3390,OpenPlay,2015,LeftFoot,2089,Marseille,Lille,1,1,2016-01-29 23:30:00,Georges-Kévin Nkoudou,Rebound
+66567,22,SavedShot,0.855999984741211,0.52,0.06760482490062714,Georges-Kévin Nkoudou,h,1729,OpenPlay,2015,RightFoot,2089,Marseille,Lille,1,1,2016-01-29 23:30:00,Mauricio Isla,Cross
+66573,39,MissedShots,0.785,0.745999984741211,0.018175791949033737,Georges-Kévin Nkoudou,h,1729,OpenPlay,2015,RightFoot,2089,Marseille,Lille,1,1,2016-01-29 23:30:00,Bouna Sarr,Pass
+66574,44,MissedShots,0.9319999694824219,0.59,0.23719781637191772,Rémy Cabella,h,3390,OpenPlay,2015,Head,2089,Marseille,Lille,1,1,2016-01-29 23:30:00,Brice Dja Djédjé,Cross
+66580,67,BlockedShot,0.8030000305175782,0.6469999694824219,0.02691604569554329,Georges-Kévin Nkoudou,h,1729,OpenPlay,2015,RightFoot,2089,Marseille,Lille,1,1,2016-01-29 23:30:00,Rolando,Chipped
+66581,68,BlockedShot,0.8630000305175781,0.5479999923706055,0.04430529847741127,Michy Batshuayi,h,1678,FromCorner,2015,RightFoot,2089,Marseille,Lille,1,1,2016-01-29 23:30:00,Abdel Barrada,Cross
+66583,78,BlockedShot,0.785,0.5029999923706054,0.029352964833378792,Rémy Cabella,h,3390,OpenPlay,2015,RightFoot,2089,Marseille,Lille,1,1,2016-01-29 23:30:00,Michy Batshuayi,Pass
+66584,80,BlockedShot,0.8159999847412109,0.745999984741211,0.018189044669270515,Michy Batshuayi,h,1678,OpenPlay,2015,RightFoot,2089,Marseille,Lille,1,1,2016-01-29 23:30:00,Nicolas N&#039;Koulou,Chipped
+66585,92,MissedShots,0.7480000305175781,0.45599998474121095,0.010647189803421497,Antoine Rabillard,h,3647,SetPiece,2015,RightFoot,2089,Marseille,Lille,1,1,2016-01-29 23:30:00,,Aerial
+66586,95,SavedShot,0.925,0.47400001525878904,0.12672962248325348,Paolo De Ceglie,h,3396,SetPiece,2015,Head,2089,Marseille,Lille,1,1,2016-01-29 23:30:00,Bouna Sarr,Cross
+66587,95,Goal,0.985999984741211,0.4909999847412109,0.9690361022949219,Antoine Rabillard,h,3647,SetPiece,2015,RightFoot,2089,Marseille,Lille,1,1,2016-01-29 23:30:00,,Rebound
+66563,15,MissedShots,0.8819999694824219,0.6179999923706054,0.09445396810770035,Yassine Benzia,a,3366,OpenPlay,2015,LeftFoot,2089,Marseille,Lille,1,1,2016-01-29 23:30:00,Benjamin Pavard,Pass
+66568,23,BlockedShot,0.95,0.5529999923706055,0.14798343181610107,Sofiane Boufal,a,1734,OpenPlay,2015,LeftFoot,2089,Marseille,Lille,1,1,2016-01-29 23:30:00,Mounir Obbadi,Pass
+66569,24,MissedShots,0.919000015258789,0.59,0.017073078081011772,Adama Soumaoro,a,3356,FromCorner,2015,Head,2089,Marseille,Lille,1,1,2016-01-29 23:30:00,Éric Bautheac,Aerial
+66570,31,SavedShot,0.8130000305175781,0.40200000762939453,0.043237555772066116,Yassine Benzia,a,3366,OpenPlay,2015,LeftFoot,2089,Marseille,Lille,1,1,2016-01-29 23:30:00,Mounir Obbadi,Pass
+66571,32,SavedShot,0.9259999847412109,0.4620000076293945,0.11385730654001236,Yassine Benzia,a,3366,OpenPlay,2015,RightFoot,2089,Marseille,Lille,1,1,2016-01-29 23:30:00,Sébastien Corchia,Cross
+66572,37,MissedShots,0.8690000152587891,0.45,0.03136502206325531,Éric Bautheac,a,3361,OpenPlay,2015,Head,2089,Marseille,Lille,1,1,2016-01-29 23:30:00,Sébastien Corchia,Cross
+66575,49,MissedShots,0.8959999847412109,0.38599998474121094,0.03267192095518112,Adama Soumaoro,a,3356,SetPiece,2015,Head,2089,Marseille,Lille,1,1,2016-01-29 23:30:00,Éric Bautheac,Cross
+66576,54,MissedShots,0.8280000305175781,0.649000015258789,0.04253234341740608,Sofiane Boufal,a,1734,OpenPlay,2015,LeftFoot,2089,Marseille,Lille,1,1,2016-01-29 23:30:00,Benjamin Pavard,Pass
+66577,56,Goal,0.965,0.3990000152587891,0.39723286032676697,Sébastien Corchia,a,3354,OpenPlay,2015,LeftFoot,2089,Marseille,Lille,1,1,2016-01-29 23:30:00,,Dispossessed
+66578,63,MissedShots,0.875,0.32599998474121095,0.07143720984458923,Sofiane Boufal,a,1734,OpenPlay,2015,RightFoot,2089,Marseille,Lille,1,1,2016-01-29 23:30:00,,Dispossessed
+66579,66,MissedShots,0.7390000152587891,0.500999984741211,0.014532948844134808,Mounir Obbadi,a,3360,OpenPlay,2015,RightFoot,2089,Marseille,Lille,1,1,2016-01-29 23:30:00,,Aerial
+66582,68,SavedShot,0.8590000152587891,0.35900001525878905,0.5003561973571777,Sofiane Boufal,a,1734,OpenPlay,2015,RightFoot,2089,Marseille,Lille,1,1,2016-01-29 23:30:00,Mounir Obbadi,Throughball

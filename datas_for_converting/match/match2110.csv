@@ -1,0 +1,15 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+69210,4,MissedShots,0.49900001525878906,0.6780000305175782,0.007160112727433443,Mohamed Yattara,h,3498,OpenPlay,2015,RightFoot,2110,Angers,Lyon,0,3,2016-02-06 20:00:00,,BallRecovery
+69211,11,MissedShots,0.9219999694824219,0.31799999237060544,0.04102460294961929,Mohamed Yattara,h,3498,OpenPlay,2015,RightFoot,2110,Angers,Lyon,0,3,2016-02-06 20:00:00,Alexandre Letellier,Pass
+69213,24,MissedShots,0.8969999694824219,0.5609999847412109,0.06716121733188629,Mohamed Yattara,h,3498,SetPiece,2015,RightFoot,2110,Angers,Lyon,0,3,2016-02-06 20:00:00,Billy Ketkeophomphone,Cross
+69216,69,MissedShots,0.9359999847412109,0.45,0.07622329890727997,Cheikh Ndoye,h,3492,OpenPlay,2015,Head,2110,Angers,Lyon,0,3,2016-02-06 20:00:00,Yoann Andreu,Aerial
+69222,90,BlockedShot,0.9219999694824219,0.5109999847412109,0.13913102447986603,Ismael Traoré,h,3487,SetPiece,2015,RightFoot,2110,Angers,Lyon,0,3,2016-02-06 20:00:00,Romain Thomas,Pass
+69209,1,BlockedShot,0.845999984741211,0.45799999237060546,0.08566170930862427,Corentin Tolisso,a,3603,OpenPlay,2015,RightFoot,2110,Angers,Lyon,0,3,2016-02-06 20:00:00,Rachid Ghezzal,Pass
+69212,12,Goal,0.8280000305175781,0.30100000381469727,0.02952885627746582,Christophe Jallet,a,3566,OpenPlay,2015,LeftFoot,2110,Angers,Lyon,0,3,2016-02-06 20:00:00,,None
+69214,45,Goal,0.8769999694824219,0.3270000076293945,0.07732408493757248,Rachid Ghezzal,a,3276,OpenPlay,2015,LeftFoot,2110,Angers,Lyon,0,3,2016-02-06 20:00:00,Christophe Jallet,Pass
+69215,67,MissedShots,0.8030000305175782,0.34599998474121096,0.08998513966798782,Mathieu Valbuena,a,3186,DirectFreekick,2015,RightFoot,2110,Angers,Lyon,0,3,2016-02-06 20:00:00,,Standard
+69217,70,MissedShots,0.755,0.66,0.031657520681619644,Mathieu Valbuena,a,3186,OpenPlay,2015,RightFoot,2110,Angers,Lyon,0,3,2016-02-06 20:00:00,Corentin Tolisso,TakeOn
+69218,71,BlockedShot,0.9330000305175781,0.695,0.08044781535863876,Alexandre Lacazette,a,3277,OpenPlay,2015,LeftFoot,2110,Angers,Lyon,0,3,2016-02-06 20:00:00,Mathieu Valbuena,Pass
+69219,71,BlockedShot,0.8680000305175781,0.7190000152587891,0.033688534051179886,Mathieu Valbuena,a,3186,FromCorner,2015,RightFoot,2110,Angers,Lyon,0,3,2016-02-06 20:00:00,Rachid Ghezzal,Pass
+69220,79,BlockedShot,0.835999984741211,0.32599998474121095,0.04682895913720131,Rachid Ghezzal,a,3276,OpenPlay,2015,LeftFoot,2110,Angers,Lyon,0,3,2016-02-06 20:00:00,Maxwel Cornet,Pass
+69221,80,Goal,0.845999984741211,0.46599998474121096,0.11176471412181854,Corentin Tolisso,a,3603,OpenPlay,2015,RightFoot,2110,Angers,Lyon,0,3,2016-02-06 20:00:00,Mathieu Valbuena,Pass

@@ -1,0 +1,26 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+429777,2,MissedShots,0.6730000305175782,0.6409999847412109,0.010143180377781391,Moussa Diaby,h,6556,OpenPlay,2021,LeftFoot,17547,Bayer Leverkusen,Borussia Dortmund,3,4,2021-09-11 13:30:00,Florian Wirtz,BallRecovery
+429779,8,Goal,0.8590000152587891,0.445,0.0939006358385086,Florian Wirtz,h,8397,OpenPlay,2021,RightFoot,17547,Bayer Leverkusen,Borussia Dortmund,3,4,2021-09-11 13:30:00,Paulinho,Pass
+429783,21,MissedShots,0.705,0.39099998474121095,0.03880662843585014,Patrik Schick,h,1236,DirectFreekick,2021,LeftFoot,17547,Bayer Leverkusen,Borussia Dortmund,3,4,2021-09-11 13:30:00,,Standard
+429785,30,MissedShots,0.7019999694824218,0.3729999923706055,0.018614888191223145,Robert Andrich,h,7877,OpenPlay,2021,LeftFoot,17547,Bayer Leverkusen,Borussia Dortmund,3,4,2021-09-11 13:30:00,,TakeOn
+429787,45,Goal,0.865999984741211,0.6480000305175782,0.08436793833971024,Patrik Schick,h,1236,OpenPlay,2021,LeftFoot,17547,Bayer Leverkusen,Borussia Dortmund,3,4,2021-09-11 13:30:00,Florian Wirtz,Pass
+429791,54,Goal,0.7909999847412109,0.37099998474121093,0.021910682320594788,Moussa Diaby,h,6556,FromCorner,2021,RightFoot,17547,Bayer Leverkusen,Borussia Dortmund,3,4,2021-09-11 13:30:00,,None
+429792,60,BlockedShot,0.73,0.2979999923706055,0.022424859926104546,Patrik Schick,h,1236,OpenPlay,2021,LeftFoot,17547,Bayer Leverkusen,Borussia Dortmund,3,4,2021-09-11 13:30:00,Florian Wirtz,Pass
+429795,68,SavedShot,0.725999984741211,0.47900001525878905,0.05273739993572235,Kerem Demirbay,h,5273,DirectFreekick,2021,LeftFoot,17547,Bayer Leverkusen,Borussia Dortmund,3,4,2021-09-11 13:30:00,,Standard
+429798,79,SavedShot,0.8730000305175781,0.6419999694824219,0.05846992880105972,Lucas Alario,h,6338,OpenPlay,2021,LeftFoot,17547,Bayer Leverkusen,Borussia Dortmund,3,4,2021-09-11 13:30:00,Moussa Diaby,Pass
+429799,79,BlockedShot,0.850999984741211,0.27600000381469725,0.02861916273832321,Karim Bellarabi,h,186,OpenPlay,2021,RightFoot,17547,Bayer Leverkusen,Borussia Dortmund,3,4,2021-09-11 13:30:00,Amine Adli,Pass
+429800,80,MissedShots,0.9669999694824218,0.36400001525878906,0.04107058793306351,Karim Bellarabi,h,186,FromCorner,2021,RightFoot,17547,Bayer Leverkusen,Borussia Dortmund,3,4,2021-09-11 13:30:00,Florian Wirtz,Cross
+429778,3,MissedShots,0.9019999694824219,0.4490000152587891,0.08733751624822617,Manuel Akanji,a,6490,SetPiece,2021,Head,17547,Bayer Leverkusen,Borussia Dortmund,3,4,2021-09-11 13:30:00,Raphael Guerreiro,Cross
+429780,10,MissedShots,0.8690000152587891,0.4279999923706055,0.35246315598487854,Julian Brandt,a,261,OpenPlay,2021,RightFoot,17547,Bayer Leverkusen,Borussia Dortmund,3,4,2021-09-11 13:30:00,Erling Haaland,Pass
+429781,16,BlockedShot,0.845999984741211,0.4159999847412109,0.055226296186447144,Marco Reus,a,319,OpenPlay,2021,RightFoot,17547,Bayer Leverkusen,Borussia Dortmund,3,4,2021-09-11 13:30:00,,None
+429782,17,MissedShots,0.7580000305175781,0.3729999923706055,0.02057480253279209,Axel Witsel,a,3059,OpenPlay,2021,RightFoot,17547,Bayer Leverkusen,Borussia Dortmund,3,4,2021-09-11 13:30:00,,Rebound
+429784,24,SavedShot,0.8640000152587891,0.5570000076293945,0.08502461016178131,Erling Haaland,a,8260,OpenPlay,2021,LeftFoot,17547,Bayer Leverkusen,Borussia Dortmund,3,4,2021-09-11 13:30:00,Marco Reus,Pass
+429786,36,Goal,0.925,0.4879999923706055,0.3376772999763489,Erling Haaland,a,8260,OpenPlay,2021,Head,17547,Bayer Leverkusen,Borussia Dortmund,3,4,2021-09-11 13:30:00,Thomas Meunier,Cross
+429788,46,MissedShots,0.9180000305175782,0.675,0.0633702278137207,Raphael Guerreiro,a,3455,OpenPlay,2021,LeftFoot,17547,Bayer Leverkusen,Borussia Dortmund,3,4,2021-09-11 13:30:00,Julian Brandt,Pass
+429789,48,Goal,0.9330000305175781,0.35,0.30787262320518494,Julian Brandt,a,261,OpenPlay,2021,RightFoot,17547,Bayer Leverkusen,Borussia Dortmund,3,4,2021-09-11 13:30:00,Erling Haaland,Pass
+429790,52,MissedShots,0.785,0.6329999923706054,0.02365982159972191,Mahmoud Dahoud,a,205,OpenPlay,2021,LeftFoot,17547,Bayer Leverkusen,Borussia Dortmund,3,4,2021-09-11 13:30:00,Marco Reus,Pass
+429793,61,MissedShots,0.7469999694824219,0.46099998474121096,0.019558800384402275,Mahmoud Dahoud,a,205,OpenPlay,2021,RightFoot,17547,Bayer Leverkusen,Borussia Dortmund,3,4,2021-09-11 13:30:00,Julian Brandt,Pass
+429794,63,BlockedShot,0.8619999694824219,0.6559999847412109,0.04907030239701271,Erling Haaland,a,8260,OpenPlay,2021,LeftFoot,17547,Bayer Leverkusen,Borussia Dortmund,3,4,2021-09-11 13:30:00,Mahmoud Dahoud,BallTouch
+429796,70,Goal,0.7630000305175781,0.3189999961853027,0.05560367554426193,Raphael Guerreiro,a,3455,DirectFreekick,2021,LeftFoot,17547,Bayer Leverkusen,Borussia Dortmund,3,4,2021-09-11 13:30:00,,Standard
+429797,76,Goal,0.885,0.5,0.75777667760849,Erling Haaland,a,8260,Penalty,2021,LeftFoot,17547,Bayer Leverkusen,Borussia Dortmund,3,4,2021-09-11 13:30:00,,Standard
+429801,91,SavedShot,0.8590000152587891,0.3559999847412109,0.07812468707561493,Marius Wolf,a,2693,OpenPlay,2021,RightFoot,17547,Bayer Leverkusen,Borussia Dortmund,3,4,2021-09-11 13:30:00,Marco Reus,Pass

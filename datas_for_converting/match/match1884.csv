@@ -1,0 +1,23 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+61578,3,MissedShots,0.7819999694824219,0.56,0.03172606602311134,Jonathan Delaplace,h,3668,OpenPlay,2015,LeftFoot,1884,Caen,Toulouse,1,0,2015-08-15 22:00:00,,None
+61580,9,MissedShots,0.8030000305175782,0.585,0.04123140871524811,Jonathan Delaplace,h,3668,OpenPlay,2015,LeftFoot,1884,Caen,Toulouse,1,0,2015-08-15 22:00:00,Julien Féret,Pass
+61584,23,MissedShots,0.72,0.30700000762939456,0.010237211361527443,Vincent Bessat,h,3525,OpenPlay,2015,LeftFoot,1884,Caen,Toulouse,1,0,2015-08-15 22:00:00,Andy Delort,HeadPass
+61588,35,SavedShot,0.8430000305175781,0.33599998474121096,0.06776391714811325,Jonathan Delaplace,h,3668,OpenPlay,2015,LeftFoot,1884,Caen,Toulouse,1,0,2015-08-15 22:00:00,Andy Delort,LayOff
+61589,41,MissedShots,0.914000015258789,0.43900001525878907,0.28568747639656067,Andy Delort,h,3530,OpenPlay,2015,Head,1884,Caen,Toulouse,1,0,2015-08-15 22:00:00,Emmanuel Imorou,Cross
+61592,44,MissedShots,0.9740000152587891,0.5320000076293945,0.5475682020187378,Andy Delort,h,3530,FromCorner,2015,Head,1884,Caen,Toulouse,1,0,2015-08-15 22:00:00,Damien Da Silva,HeadPass
+61596,65,SavedShot,0.775,0.54,0.03132009506225586,Vincent Bessat,h,3525,OpenPlay,2015,LeftFoot,1884,Caen,Toulouse,1,0,2015-08-15 22:00:00,Alaeddine Yahia,Pass
+61597,68,Goal,0.8690000152587891,0.45,0.03880893811583519,Damien Da Silva,h,3542,SetPiece,2015,Head,1884,Caen,Toulouse,1,0,2015-08-15 22:00:00,Julien Féret,Cross
+61598,78,MissedShots,0.9069999694824219,0.49700000762939456,0.4814987778663635,Alaeddine Yahia,h,3524,OpenPlay,2015,RightFoot,1884,Caen,Toulouse,1,0,2015-08-15 22:00:00,Jonathan Delaplace,Pass
+61581,16,SavedShot,0.9269999694824219,0.3189999961853027,0.11676456034183502,Martin Braithwaite,a,3211,OpenPlay,2015,RightFoot,1884,Caen,Toulouse,1,0,2015-08-15 22:00:00,Étienne Didot,Throughball
+61582,19,BlockedShot,0.8680000305175781,0.3320000076293945,0.07056337594985962,Martin Braithwaite,a,3211,OpenPlay,2015,RightFoot,1884,Caen,Toulouse,1,0,2015-08-15 22:00:00,Wissam Ben Yedder,LayOff
+61583,22,SavedShot,0.9219999694824219,0.68,0.08998531103134155,Martin Braithwaite,a,3211,OpenPlay,2015,LeftFoot,1884,Caen,Toulouse,1,0,2015-08-15 22:00:00,Óscar Trejo,Pass
+61585,26,MissedShots,0.8819999694824219,0.42900001525878906,0.02590065263211727,Martin Braithwaite,a,3211,FromCorner,2015,Head,1884,Caen,Toulouse,1,0,2015-08-15 22:00:00,Jean-Daniel Akpa-Akpro,Cross
+61586,26,BlockedShot,0.8159999847412109,0.5129999923706055,0.05251609906554222,Tongo Doumbia,a,3538,FromCorner,2015,LeftFoot,1884,Caen,Toulouse,1,0,2015-08-15 22:00:00,,Rebound
+61587,28,MissedShots,0.965999984741211,0.41,0.10104729980230331,Wissam Ben Yedder,a,3210,OpenPlay,2015,Head,1884,Caen,Toulouse,1,0,2015-08-15 22:00:00,Pavle Ninkov,Cross
+61590,42,SavedShot,0.894000015258789,0.644000015258789,0.08518737554550171,Wissam Ben Yedder,a,3210,OpenPlay,2015,LeftFoot,1884,Caen,Toulouse,1,0,2015-08-15 22:00:00,Martin Braithwaite,Pass
+61591,42,SavedShot,0.799000015258789,0.44,0.0410592183470726,Martin Braithwaite,a,3211,OpenPlay,2015,LeftFoot,1884,Caen,Toulouse,1,0,2015-08-15 22:00:00,,None
+61593,45,MissedShots,0.9290000152587891,0.43099998474121093,0.2846643626689911,Martin Braithwaite,a,3211,OpenPlay,2015,Head,1884,Caen,Toulouse,1,0,2015-08-15 22:00:00,Pavle Ninkov,Cross
+61594,48,BlockedShot,0.7609999847412109,0.6040000152587891,0.022726375609636307,Óscar Trejo,a,3208,OpenPlay,2015,RightFoot,1884,Caen,Toulouse,1,0,2015-08-15 22:00:00,,BallRecovery
+61595,60,MissedShots,0.9390000152587891,0.28700000762939454,0.04027748107910156,Martin Braithwaite,a,3211,OpenPlay,2015,RightFoot,1884,Caen,Toulouse,1,0,2015-08-15 22:00:00,Óscar Trejo,Pass
+61599,87,MissedShots,0.9069999694824219,0.47400001525878904,0.11009731143712997,Uros Spajic,a,3204,SetPiece,2015,Head,1884,Caen,Toulouse,1,0,2015-08-15 22:00:00,Adrien Regattin,Cross
+61602,93,ShotOnPost,0.9530000305175781,0.515,0.08866461366415024,Wissam Ben Yedder,a,3210,FromCorner,2015,Head,1884,Caen,Toulouse,1,0,2015-08-15 22:00:00,Yann Bodiger,HeadPass

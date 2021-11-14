@@ -1,0 +1,25 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+126916,5,MissedShots,0.7930000305175782,0.4540000152587891,0.015499440021812916,Blagoy Georgiev,h,3102,OpenPlay,2016,LeftFoot,4370,FC Orenburg,FC Krasnodar,1,0,2017-05-07 12:00:00,,Aerial
+126917,6,MissedShots,0.8719999694824219,0.504000015258789,0.08561517298221588,Elguja Lobjanidze,h,5471,OpenPlay,2016,RightFoot,4370,FC Orenburg,FC Krasnodar,1,0,2017-05-07 12:00:00,Roman Vorobjov,HeadPass
+126920,32,MissedShots,0.905,0.23399999618530273,0.021578047424554825,Maksim Grigoriev,h,3167,FromCorner,2016,LeftFoot,4370,FC Orenburg,FC Krasnodar,1,0,2017-05-07 12:00:00,Roman Vorobjov,Pass
+126921,34,MissedShots,0.785,0.325,0.021886933594942093,Blagoy Georgiev,h,3102,OpenPlay,2016,RightFoot,4370,FC Orenburg,FC Krasnodar,1,0,2017-05-07 12:00:00,Roman Vorobjov,Pass
+126926,46,SavedShot,0.919000015258789,0.6809999847412109,0.07103987783193588,Elguja Lobjanidze,h,5471,OpenPlay,2016,LeftFoot,4370,FC Orenburg,FC Krasnodar,1,0,2017-05-07 12:00:00,Roman Vorobjov,Pass
+126927,48,SavedShot,0.960999984741211,0.5359999847412109,0.2371404767036438,Dmitri Andreev,h,5432,SetPiece,2016,Head,4370,FC Orenburg,FC Krasnodar,1,0,2017-05-07 12:00:00,Maksim Grigoriev,Goal
+126928,48,Goal,0.9569999694824218,0.5270000076293946,0.6171104907989502,Elguja Lobjanidze,h,5471,SetPiece,2016,LeftFoot,4370,FC Orenburg,FC Krasnodar,1,0,2017-05-07 12:00:00,,None
+126929,51,BlockedShot,0.875999984741211,0.54,0.041502445936203,Vladimir Poluyakhtov,h,5426,SetPiece,2016,Head,4370,FC Orenburg,FC Krasnodar,1,0,2017-05-07 12:00:00,Maksim Grigoriev,Chipped
+126930,51,SavedShot,0.8969999694824219,0.5509999847412109,0.08504638820886612,Vladimir Poluyakhtov,h,5426,SetPiece,2016,LeftFoot,4370,FC Orenburg,FC Krasnodar,1,0,2017-05-07 12:00:00,,None
+126932,65,MissedShots,0.6969999694824218,0.24700000762939453,0.010929040610790253,Stanislav Dragun,h,2752,OpenPlay,2016,RightFoot,4370,FC Orenburg,FC Krasnodar,1,0,2017-05-07 12:00:00,Vadim Afonin,Pass
+126935,81,SavedShot,0.7719999694824219,0.5459999847412109,0.03930176794528961,Elguja Lobjanidze,h,5471,OpenPlay,2016,RightFoot,4370,FC Orenburg,FC Krasnodar,1,0,2017-05-07 12:00:00,Sergey Breev,Pass
+126918,28,BlockedShot,0.82,0.5420000076293945,0.0692286267876625,Ilya Zhigulev,a,5479,OpenPlay,2016,RightFoot,4370,FC Orenburg,FC Krasnodar,1,0,2017-05-07 12:00:00,Wanderson,Pass
+126919,29,MissedShots,0.8919999694824219,0.7390000152587891,0.03664148598909378,Cristian Ramírez,a,5477,OpenPlay,2016,LeftFoot,4370,FC Orenburg,FC Krasnodar,1,0,2017-05-07 12:00:00,Fedor Smolov,Pass
+126922,35,SavedShot,0.875999984741211,0.4329999923706055,0.10971688479185104,Fedor Smolov,a,2925,OpenPlay,2016,RightFoot,4370,FC Orenburg,FC Krasnodar,1,0,2017-05-07 12:00:00,Charles Kaboré,Pass
+126923,41,SavedShot,0.9309999847412109,0.66,0.09709341078996658,Wanderson,a,2926,OpenPlay,2016,LeftFoot,4370,FC Orenburg,FC Krasnodar,1,0,2017-05-07 12:00:00,Fedor Smolov,TakeOn
+126924,42,BlockedShot,0.9219999694824219,0.39599998474121095,0.06329073756933212,Andreas Granqvist,a,2919,FromCorner,2016,RightFoot,4370,FC Orenburg,FC Krasnodar,1,0,2017-05-07 12:00:00,Aleksandr Martynovich,HeadPass
+126925,46,BlockedShot,0.7019999694824218,0.5,0.013445127755403519,Charles Kaboré,a,2921,OpenPlay,2016,RightFoot,4370,FC Orenburg,FC Krasnodar,1,0,2017-05-07 12:00:00,Yuri Gazinskiy,Pass
+126931,61,BlockedShot,0.78,0.41900001525878905,0.033614616841077805,Yuri Gazinskiy,a,2929,OpenPlay,2016,LeftFoot,4370,FC Orenburg,FC Krasnodar,1,0,2017-05-07 12:00:00,Charles Kaboré,TakeOn
+126933,78,BlockedShot,0.7630000305175781,0.549000015258789,0.02665584906935692,Ilya Zhigulev,a,5479,OpenPlay,2016,RightFoot,4370,FC Orenburg,FC Krasnodar,1,0,2017-05-07 12:00:00,Vyacheslav Podberezkin,Pass
+126934,79,MissedShots,0.745,0.615999984741211,0.017612287774682045,Charles Kaboré,a,2921,OpenPlay,2016,RightFoot,4370,FC Orenburg,FC Krasnodar,1,0,2017-05-07 12:00:00,Ilya Zhigulev,Pass
+126936,83,MissedShots,0.7169999694824218,0.5990000152587891,0.009155413135886192,Vyacheslav Podberezkin,a,2988,OpenPlay,2016,RightFoot,4370,FC Orenburg,FC Krasnodar,1,0,2017-05-07 12:00:00,Yuri Gazinskiy,Chipped
+126937,85,MissedShots,0.8930000305175781,0.3029999923706055,0.03790530934929848,Fedor Smolov,a,2925,OpenPlay,2016,RightFoot,4370,FC Orenburg,FC Krasnodar,1,0,2017-05-07 12:00:00,Ricardo Laborde,Pass
+126938,88,BlockedShot,0.695,0.519000015258789,0.013088906183838844,Aleksandr Martynovich,a,2790,OpenPlay,2016,RightFoot,4370,FC Orenburg,FC Krasnodar,1,0,2017-05-07 12:00:00,Vyacheslav Podberezkin,Pass
+126939,88,SavedShot,0.845999984741211,0.5359999847412109,0.0556674562394619,Mauricio Pereyra,a,2922,OpenPlay,2016,LeftFoot,4370,FC Orenburg,FC Krasnodar,1,0,2017-05-07 12:00:00,Andreas Granqvist,BallTouch

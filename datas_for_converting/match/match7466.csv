@@ -1,0 +1,25 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+210798,0,BlockedShot,0.7080000305175781,0.39,0.01272799726575613,Badou Ndiaye,h,6525,OpenPlay,2017,RightFoot,7466,Stoke,Burnley,1,1,2018-04-22 12:30:00,Joe Allen,BallRecovery
+210801,10,Goal,0.815,0.47400001525878904,0.049976736307144165,Badou Ndiaye,h,6525,OpenPlay,2017,RightFoot,7466,Stoke,Burnley,1,1,2018-04-22 12:30:00,Mame Biram Diouf,TakeOn
+210803,16,MissedShots,0.7319999694824219,0.34,0.019778665155172348,Xherdan Shaqiri,h,888,OpenPlay,2017,LeftFoot,7466,Stoke,Burnley,1,1,2018-04-22 12:30:00,Mame Biram Diouf,Pass
+210805,26,MissedShots,0.8390000152587891,0.7130000305175781,0.015432349406182766,Erik Pieters,h,887,FromCorner,2017,LeftFoot,7466,Stoke,Burnley,1,1,2018-04-22 12:30:00,,Aerial
+210806,26,SavedShot,0.8969999694824219,0.42700000762939455,0.04895072430372238,Mame Biram Diouf,h,868,FromCorner,2017,Head,7466,Stoke,Burnley,1,1,2018-04-22 12:30:00,Xherdan Shaqiri,Cross
+210814,74,MissedShots,0.9230000305175782,0.575,0.06417850404977798,Ryan Shawcross,h,886,FromCorner,2017,Head,7466,Stoke,Burnley,1,1,2018-04-22 12:30:00,Xherdan Shaqiri,Cross
+210815,78,SavedShot,0.855,0.675,0.07220914959907532,Tyrese Campbell,h,6561,OpenPlay,2017,LeftFoot,7466,Stoke,Burnley,1,1,2018-04-22 12:30:00,Xherdan Shaqiri,Pass
+210818,87,ShotOnPost,0.81,0.5270000076293946,0.07284127175807953,Stephen Ireland,h,867,OpenPlay,2017,RightFoot,7466,Stoke,Burnley,1,1,2018-04-22 12:30:00,Badou Ndiaye,TakeOn
+210799,1,BlockedShot,0.8780000305175781,0.2979999923706055,0.02345864474773407,Aaron Lennon,a,593,OpenPlay,2017,RightFoot,7466,Stoke,Burnley,1,1,2018-04-22 12:30:00,Stephen Ward,Cross
+210800,8,BlockedShot,0.9369999694824219,0.59,0.0626005083322525,Kevin Long,a,1747,FromCorner,2017,Head,7466,Stoke,Burnley,1,1,2018-04-22 12:30:00,Johann Berg Gudmundsson,Cross
+210802,15,MissedShots,0.8190000152587891,0.62,0.03777387738227844,Ashley Barnes,a,4422,OpenPlay,2017,RightFoot,7466,Stoke,Burnley,1,1,2018-04-22 12:30:00,Ashley Westwood,Chipped
+210804,21,SavedShot,0.91,0.6659999847412109,0.06262055039405823,Chris Wood,a,4456,OpenPlay,2017,LeftFoot,7466,Stoke,Burnley,1,1,2018-04-22 12:30:00,Stephen Ward,Pass
+210807,34,SavedShot,0.7730000305175782,0.5940000152587891,0.07631474733352661,Johann Berg Gudmundsson,a,1663,DirectFreekick,2017,LeftFoot,7466,Stoke,Burnley,1,1,2018-04-22 12:30:00,,Standard
+210808,53,SavedShot,0.8719999694824219,0.59,0.024762026965618134,Jack Cork,a,712,SetPiece,2017,Head,7466,Stoke,Burnley,1,1,2018-04-22 12:30:00,Johann Berg Gudmundsson,Cross
+210809,53,SavedShot,0.9,0.5429999923706055,0.05429442226886749,James Tarkowski,a,1665,FromCorner,2017,Head,7466,Stoke,Burnley,1,1,2018-04-22 12:30:00,Johann Berg Gudmundsson,Cross
+210810,61,SavedShot,0.9459999847412109,0.615,0.04554394632577896,James Tarkowski,a,1665,FromCorner,2017,Head,7466,Stoke,Burnley,1,1,2018-04-22 12:30:00,Ashley Westwood,Cross
+210811,61,Goal,0.9780000305175781,0.5270000076293946,0.8928003907203674,Ashley Barnes,a,4422,OpenPlay,2017,RightFoot,7466,Stoke,Burnley,1,1,2018-04-22 12:30:00,,Rebound
+210812,65,BlockedShot,0.6759999847412109,0.5270000076293946,0.011816190555691719,Matthew Lowton,a,1652,FromCorner,2017,RightFoot,7466,Stoke,Burnley,1,1,2018-04-22 12:30:00,,None
+210813,65,MissedShots,0.9230000305175782,0.42900001525878906,0.12049549072980881,Stephen Ward,a,1655,FromCorner,2017,LeftFoot,7466,Stoke,Burnley,1,1,2018-04-22 12:30:00,,Rebound
+210816,83,MissedShots,0.8569999694824219,0.46099998474121096,0.02507893182337284,Sam Vokes,a,1661,SetPiece,2017,Head,7466,Stoke,Burnley,1,1,2018-04-22 12:30:00,Johann Berg Gudmundsson,Cross
+210817,86,BlockedShot,0.905,0.44299999237060544,0.09659134596586227,Chris Wood,a,4456,OpenPlay,2017,LeftFoot,7466,Stoke,Burnley,1,1,2018-04-22 12:30:00,Jeff Hendrick,Cross
+210819,92,SavedShot,0.7169999694824218,0.4640000152587891,0.019015848636627197,Johann Berg Gudmundsson,a,1663,OpenPlay,2017,LeftFoot,7466,Stoke,Burnley,1,1,2018-04-22 12:30:00,Matthew Lowton,TakeOn
+210820,92,MissedShots,0.8690000152587891,0.645,0.05797449126839638,Johann Berg Gudmundsson,a,1663,OpenPlay,2017,RightFoot,7466,Stoke,Burnley,1,1,2018-04-22 12:30:00,Sam Vokes,Pass
+210821,93,MissedShots,0.7859999847412109,0.35200000762939454,0.04403051733970642,Johann Berg Gudmundsson,a,1663,OpenPlay,2017,LeftFoot,7466,Stoke,Burnley,1,1,2018-04-22 12:30:00,Jeff Hendrick,Pass

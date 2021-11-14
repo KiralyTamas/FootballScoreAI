@@ -1,0 +1,30 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+145697,5,SavedShot,0.9080000305175782,0.5629999923706055,0.019010381773114204,Carlos Sánchez,h,667,FromCorner,2016,Head,3556,Fiorentina,Genoa,3,3,2017-01-29 17:00:00,Josip Ilicic,Aerial
+145699,13,MissedShots,0.9019999694824219,0.5270000076293946,0.051002249121665955,Nikola Kalinic,h,1425,OpenPlay,2016,Head,3556,Fiorentina,Genoa,3,3,2017-01-29 17:00:00,Josip Ilicic,Aerial
+145700,16,Goal,0.789000015258789,0.19,0.0181922297924757,Josip Ilicic,h,1426,OpenPlay,2016,LeftFoot,3556,Fiorentina,Genoa,3,3,2017-01-29 17:00:00,Carlos Sánchez,Pass
+145701,18,ShotOnPost,0.9330000305175781,0.3129999923706055,0.10314039885997772,Federico Chiesa,h,1433,OpenPlay,2016,RightFoot,3556,Fiorentina,Genoa,3,3,2017-01-29 17:00:00,,TakeOn
+145702,20,MissedShots,0.700999984741211,0.4540000152587891,0.018288500607013702,Matías Vecino,h,1423,OpenPlay,2016,RightFoot,3556,Fiorentina,Genoa,3,3,2017-01-29 17:00:00,Davide Astori,Pass
+145703,40,BlockedShot,0.840999984741211,0.395,0.07529622316360474,Josip Ilicic,h,1426,OpenPlay,2016,RightFoot,3556,Fiorentina,Genoa,3,3,2017-01-29 17:00:00,Federico Chiesa,Pass
+145705,48,SavedShot,0.909000015258789,0.29200000762939454,0.06282386183738708,Nikola Kalinic,h,1425,OpenPlay,2016,RightFoot,3556,Fiorentina,Genoa,3,3,2017-01-29 17:00:00,Josip Ilicic,Chipped
+145704,49,SavedShot,0.7440000152587891,0.49900001525878906,0.06093347817659378,Josip Ilicic,h,1426,DirectFreekick,2016,LeftFoot,3556,Fiorentina,Genoa,3,3,2017-01-29 17:00:00,,Standard
+145706,49,Goal,0.845,0.47400001525878904,0.11752678453922272,Federico Chiesa,h,1433,OpenPlay,2016,RightFoot,3556,Fiorentina,Genoa,3,3,2017-01-29 17:00:00,Nikola Kalinic,TakeOn
+145707,53,BlockedShot,0.9469999694824218,0.5609999847412109,0.8335266709327698,Josip Ilicic,h,1426,OpenPlay,2016,LeftFoot,3556,Fiorentina,Genoa,3,3,2017-01-29 17:00:00,Nikola Kalinic,TakeOn
+145708,53,SavedShot,0.925,0.6469999694824219,0.22360531985759735,Borja Valero,h,1422,FromCorner,2016,RightFoot,3556,Fiorentina,Genoa,3,3,2017-01-29 17:00:00,Milan Badelj,Chipped
+145710,57,BlockedShot,0.784000015258789,0.6509999847412109,0.03389742225408554,Borja Valero,h,1422,OpenPlay,2016,RightFoot,3556,Fiorentina,Genoa,3,3,2017-01-29 17:00:00,Nikola Kalinic,Pass
+145713,60,BlockedShot,0.8240000152587891,0.6869999694824219,0.022013463079929352,Josip Ilicic,h,1426,FromCorner,2016,LeftFoot,3556,Fiorentina,Genoa,3,3,2017-01-29 17:00:00,,None
+145714,61,Goal,0.875,0.580999984741211,0.09404744952917099,Nikola Kalinic,h,1425,OpenPlay,2016,LeftFoot,3556,Fiorentina,Genoa,3,3,2017-01-29 17:00:00,Federico Bernardeschi,Pass
+145715,63,BlockedShot,0.8469999694824218,0.545,0.10533865541219711,Federico Chiesa,h,1433,OpenPlay,2016,RightFoot,3556,Fiorentina,Genoa,3,3,2017-01-29 17:00:00,Nikola Kalinic,Pass
+145716,71,MissedShots,0.8219999694824218,0.29700000762939455,0.04003880172967911,Sebastián Cristóforo,h,1436,OpenPlay,2016,RightFoot,3556,Fiorentina,Genoa,3,3,2017-01-29 17:00:00,,BallRecovery
+145717,71,BlockedShot,0.84,0.34799999237060547,0.0642273873090744,Nikola Kalinic,h,1425,OpenPlay,2016,LeftFoot,3556,Fiorentina,Genoa,3,3,2017-01-29 17:00:00,Borja Valero,Pass
+145718,72,MissedShots,0.835,0.62,0.06735780090093613,Borja Valero,h,1422,OpenPlay,2016,RightFoot,3556,Fiorentina,Genoa,3,3,2017-01-29 17:00:00,Davide Astori,Pass
+145719,74,BlockedShot,0.710999984741211,0.49900001525878906,0.04251430928707123,Federico Bernardeschi,h,1424,DirectFreekick,2016,LeftFoot,3556,Fiorentina,Genoa,3,3,2017-01-29 17:00:00,,Standard
+145720,81,MissedShots,0.9059999847412109,0.31799999237060544,0.02241482213139534,Davide Astori,h,1419,SetPiece,2016,Head,3556,Fiorentina,Genoa,3,3,2017-01-29 17:00:00,Federico Bernardeschi,Chipped
+145724,87,BlockedShot,0.7190000152587891,0.425,0.014856938272714615,Borja Valero,h,1422,OpenPlay,2016,RightFoot,3556,Fiorentina,Genoa,3,3,2017-01-29 17:00:00,Cristian Tello,Pass
+145725,90,MissedShots,0.8019999694824219,0.740999984741211,0.017484864220023155,Matías Vecino,h,1423,OpenPlay,2016,RightFoot,3556,Fiorentina,Genoa,3,3,2017-01-29 17:00:00,Maximiliano Olivera,TakeOn
+145698,11,MissedShots,0.749000015258789,0.705,0.012013149447739124,Armando Izzo,a,1096,OpenPlay,2016,LeftFoot,3556,Fiorentina,Genoa,3,3,2017-01-29 17:00:00,,None
+145709,56,Goal,0.925,0.4929999923706055,0.47117605805397034,Giovanni Simeone,a,1102,OpenPlay,2016,RightFoot,3556,Fiorentina,Genoa,3,3,2017-01-29 17:00:00,Adel Taarabt,Pass
+145711,58,MissedShots,0.8880000305175781,0.59,0.21276330947875977,Adel Taarabt,a,4450,OpenPlay,2016,RightFoot,3556,Fiorentina,Genoa,3,3,2017-01-29 17:00:00,Giovanni Simeone,Goal
+145712,58,Goal,0.9590000152587891,0.47200000762939454,0.6071822643280029,Oscar Hiljemark,a,1284,OpenPlay,2016,RightFoot,3556,Fiorentina,Genoa,3,3,2017-01-29 17:00:00,Adel Taarabt,None
+145721,84,MissedShots,0.9440000152587891,0.655,0.06776507198810577,Lucas Orban,a,1108,SetPiece,2016,LeftFoot,3556,Fiorentina,Genoa,3,3,2017-01-29 17:00:00,,End
+145722,84,BlockedShot,0.9590000152587891,0.515,0.6281155347824097,Armando Izzo,a,1096,SetPiece,2016,LeftFoot,3556,Fiorentina,Genoa,3,3,2017-01-29 17:00:00,Lucas Orban,None
+145723,85,Goal,0.885,0.5,0.7612988352775574,Giovanni Simeone,a,1102,Penalty,2016,RightFoot,3556,Fiorentina,Genoa,3,3,2017-01-29 17:00:00,,Standard

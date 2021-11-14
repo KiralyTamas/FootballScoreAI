@@ -1,0 +1,30 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+261630,0,MissedShots,0.7440000152587891,0.605999984741211,0.01806446723639965,Sofiane Diop,h,6846,OpenPlay,2018,RightFoot,10772,Monaco,Paris Saint Germain,0,4,2018-11-11 20:00:00,,BallRecovery
+261635,16,BlockedShot,0.9130000305175782,0.5459999847412109,0.2764464020729065,Falcao,h,696,OpenPlay,2018,RightFoot,10772,Monaco,Paris Saint Germain,0,4,2018-11-11 20:00:00,Samuel Grandsir,Cross
+261636,25,MissedShots,0.9169999694824219,0.39,0.06116831675171852,Sofiane Diop,h,6846,OpenPlay,2018,RightFoot,10772,Monaco,Paris Saint Germain,0,4,2018-11-11 20:00:00,Djibril Sidibe,Cross
+261637,25,MissedShots,0.9369999694824219,0.5590000152587891,0.41478919982910156,Jordi Mboula,h,6396,OpenPlay,2018,LeftFoot,10772,Monaco,Paris Saint Germain,0,4,2018-11-11 20:00:00,Sofiane Diop,Rebound
+261638,27,MissedShots,0.8519999694824218,0.509000015258789,0.06405088305473328,Benoit Badiashile Mukinayi,h,7240,FromCorner,2018,RightFoot,10772,Monaco,Paris Saint Germain,0,4,2018-11-11 20:00:00,,None
+261641,43,SavedShot,0.9069999694824219,0.6659999847412109,0.09481829404830933,Jordi Mboula,h,6396,OpenPlay,2018,LeftFoot,10772,Monaco,Paris Saint Germain,0,4,2018-11-11 20:00:00,Youssef Ait Bennasser,Pass
+261642,45,BlockedShot,0.7680000305175781,0.6840000152587891,0.0196527112275362,Samuel Grandsir,h,3713,FromCorner,2018,RightFoot,10772,Monaco,Paris Saint Germain,0,4,2018-11-11 20:00:00,Sofiane Diop,Pass
+261645,49,BlockedShot,0.745,0.649000015258789,0.009787815622985363,Wilson Isidor,h,7148,OpenPlay,2018,RightFoot,10772,Monaco,Paris Saint Germain,0,4,2018-11-11 20:00:00,,None
+261648,54,SavedShot,0.7659999847412109,0.5670000076293945,0.025417905300855637,Benjamin Henrichs,h,435,OpenPlay,2018,RightFoot,10772,Monaco,Paris Saint Germain,0,4,2018-11-11 20:00:00,Sofiane Diop,Pass
+261649,55,BlockedShot,0.8430000305175781,0.295,0.027672482654452324,Djibril Sidibe,h,3357,OpenPlay,2018,RightFoot,10772,Monaco,Paris Saint Germain,0,4,2018-11-11 20:00:00,Samuel Grandsir,Pass
+261650,55,BlockedShot,0.865999984741211,0.6930000305175781,0.03214207664132118,Wilson Isidor,h,7148,OpenPlay,2018,RightFoot,10772,Monaco,Paris Saint Germain,0,4,2018-11-11 20:00:00,Pelé,None
+261655,70,MissedShots,0.7880000305175782,0.29399999618530276,0.017164992168545723,Samuel Grandsir,h,3713,OpenPlay,2018,RightFoot,10772,Monaco,Paris Saint Germain,0,4,2018-11-11 20:00:00,,BallRecovery
+261656,74,MissedShots,0.7480000305175781,0.5590000152587891,0.026037512347102165,Pelé,h,6847,FromCorner,2018,RightFoot,10772,Monaco,Paris Saint Germain,0,4,2018-11-11 20:00:00,Sofiane Diop,Pass
+261657,80,MissedShots,0.8019999694824219,0.5690000152587891,0.03737577795982361,Youssef Ait Bennasser,h,5633,OpenPlay,2018,RightFoot,10772,Monaco,Paris Saint Germain,0,4,2018-11-11 20:00:00,Sofiane Diop,Pass
+261658,89,BlockedShot,0.9669999694824218,0.700999984741211,0.05210702121257782,Benjamin Henrichs,h,435,OpenPlay,2018,LeftFoot,10772,Monaco,Paris Saint Germain,0,4,2018-11-11 20:00:00,Sofiane Diop,Pass
+261631,3,MissedShots,0.9019999694824219,0.6840000152587891,0.05383661389350891,Neymar,a,2099,OpenPlay,2018,LeftFoot,10772,Monaco,Paris Saint Germain,0,4,2018-11-11 20:00:00,,None
+261632,3,Goal,0.9830000305175781,0.47200000762939454,0.8009247183799744,Edinson Cavani,a,3294,OpenPlay,2018,RightFoot,10772,Monaco,Paris Saint Germain,0,4,2018-11-11 20:00:00,Neymar,None
+261633,7,MissedShots,0.8780000305175781,0.5709999847412109,0.06097504869103432,Moussa Diaby,a,6556,FromCorner,2018,RightFoot,10772,Monaco,Paris Saint Germain,0,4,2018-11-11 20:00:00,Julian Draxler,Pass
+261634,10,Goal,0.879000015258789,0.45599998474121095,0.39404618740081787,Edinson Cavani,a,3294,OpenPlay,2018,RightFoot,10772,Monaco,Paris Saint Germain,0,4,2018-11-11 20:00:00,Moussa Diaby,Pass
+261639,38,SavedShot,0.695,0.4540000152587891,0.018141407519578934,Christopher Nkunku,a,3300,OpenPlay,2018,RightFoot,10772,Monaco,Paris Saint Germain,0,4,2018-11-11 20:00:00,Julian Draxler,Pass
+261640,39,SavedShot,0.7759999847412109,0.34,0.034412872046232224,Moussa Diaby,a,6556,FromCorner,2018,LeftFoot,10772,Monaco,Paris Saint Germain,0,4,2018-11-11 20:00:00,Christopher Nkunku,Pass
+261643,45,SavedShot,0.8619999694824219,0.33599998474121096,0.12379605323076248,Moussa Diaby,a,6556,OpenPlay,2018,LeftFoot,10772,Monaco,Paris Saint Germain,0,4,2018-11-11 20:00:00,Kylian Mbappe-Lottin,TakeOn
+261644,49,MissedShots,0.7069999694824218,0.8569999694824219,0.01013826485723257,Neymar,a,2099,OpenPlay,2018,LeftFoot,10772,Monaco,Paris Saint Germain,0,4,2018-11-11 20:00:00,,None
+261646,52,BlockedShot,0.865999984741211,0.585,0.11476131528615952,Kylian Mbappe-Lottin,a,3423,OpenPlay,2018,RightFoot,10772,Monaco,Paris Saint Germain,0,4,2018-11-11 20:00:00,Neymar,Pass
+261647,52,Goal,0.965999984741211,0.48,0.868695855140686,Edinson Cavani,a,3294,OpenPlay,2018,RightFoot,10772,Monaco,Paris Saint Germain,0,4,2018-11-11 20:00:00,Moussa Diaby,Pass
+261651,59,BlockedShot,0.9290000152587891,0.345,0.10742328315973282,Christopher Nkunku,a,3300,OpenPlay,2018,RightFoot,10772,Monaco,Paris Saint Germain,0,4,2018-11-11 20:00:00,Julian Draxler,Pass
+261652,61,SavedShot,0.87,0.674000015258789,0.0773177221417427,Neymar,a,2099,OpenPlay,2018,RightFoot,10772,Monaco,Paris Saint Germain,0,4,2018-11-11 20:00:00,Kylian Mbappe-Lottin,Pass
+261653,63,Goal,0.885,0.5,0.7599632740020752,Neymar,a,2099,Penalty,2018,RightFoot,10772,Monaco,Paris Saint Germain,0,4,2018-11-11 20:00:00,,Standard
+261654,65,SavedShot,0.935,0.47,0.5391964316368103,Kylian Mbappe-Lottin,a,3423,OpenPlay,2018,RightFoot,10772,Monaco,Paris Saint Germain,0,4,2018-11-11 20:00:00,Christopher Nkunku,Cross

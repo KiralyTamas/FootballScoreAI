@@ -1,0 +1,35 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+109266,6,SavedShot,0.8580000305175781,0.5709999847412109,0.1290665864944458,Lucas Moura,h,3293,OpenPlay,2016,RightFoot,4188,Paris Saint Germain,Nancy,1,0,2017-03-04 16:00:00,Javier Pastore,TakeOn
+109269,18,BlockedShot,0.87,0.6840000152587891,0.07492413371801376,Javier Pastore,h,3295,OpenPlay,2016,LeftFoot,4188,Paris Saint Germain,Nancy,1,0,2017-03-04 16:00:00,Marco Verratti,TakeOn
+109272,27,SavedShot,0.764000015258789,0.6859999847412109,0.022010985761880875,Javier Pastore,h,3295,OpenPlay,2016,RightFoot,4188,Paris Saint Germain,Nancy,1,0,2017-03-04 16:00:00,Marco Verratti,Pass
+109273,31,BlockedShot,0.8690000152587891,0.639000015258789,0.054056376218795776,Grzegorz Krychowiak,h,2414,SetPiece,2016,LeftFoot,4188,Paris Saint Germain,Nancy,1,0,2017-03-04 16:00:00,,None
+109274,31,MissedShots,0.9269999694824219,0.555,0.08522254973649979,Edinson Cavani,h,3294,SetPiece,2016,RightFoot,4188,Paris Saint Germain,Nancy,1,0,2017-03-04 16:00:00,Grzegorz Krychowiak,None
+109275,35,BlockedShot,0.7780000305175782,0.3270000076293945,0.06455083936452866,Layvin Kurzawa,h,3298,DirectFreekick,2016,LeftFoot,4188,Paris Saint Germain,Nancy,1,0,2017-03-04 16:00:00,,Standard
+109276,39,MissedShots,0.9309999847412109,0.3220000076293945,0.1092146784067154,Edinson Cavani,h,3294,OpenPlay,2016,RightFoot,4188,Paris Saint Germain,Nancy,1,0,2017-03-04 16:00:00,Javier Pastore,Throughball
+109277,39,MissedShots,0.9919999694824219,0.5979999923706054,0.0735681876540184,Gonçalo Guedes,h,5682,OpenPlay,2016,LeftFoot,4188,Paris Saint Germain,Nancy,1,0,2017-03-04 16:00:00,Edinson Cavani,Rebound
+109278,41,MissedShots,0.9119999694824219,0.575,0.05393924191594124,Serge Aurier,h,3600,FromCorner,2016,Head,4188,Paris Saint Germain,Nancy,1,0,2017-03-04 16:00:00,Lucas Moura,Cross
+109279,41,MissedShots,0.9019999694824219,0.47200000762939454,0.02583329565823078,Thiago Silva,h,3288,FromCorner,2016,Head,4188,Paris Saint Germain,Nancy,1,0,2017-03-04 16:00:00,Lucas Moura,Aerial
+109280,47,MissedShots,0.92,0.6,0.028515921905636787,Layvin Kurzawa,h,3298,SetPiece,2016,Head,4188,Paris Saint Germain,Nancy,1,0,2017-03-04 16:00:00,Thiago Silva,Aerial
+109282,51,BlockedShot,0.9640000152587891,0.6020000076293945,0.09446563571691513,Edinson Cavani,h,3294,OpenPlay,2016,RightFoot,4188,Paris Saint Germain,Nancy,1,0,2017-03-04 16:00:00,Blaise Matuidi,Cross
+109283,52,MissedShots,0.965999984741211,0.4370000076293945,0.3544175326824188,Edinson Cavani,h,3294,FromCorner,2016,Head,4188,Paris Saint Germain,Nancy,1,0,2017-03-04 16:00:00,,None
+109284,56,SavedShot,0.9119999694824219,0.3320000076293945,0.3254307210445404,Serge Aurier,h,3600,OpenPlay,2016,RightFoot,4188,Paris Saint Germain,Nancy,1,0,2017-03-04 16:00:00,Marco Verratti,Throughball
+109285,56,MissedShots,0.8969999694824219,0.5279999923706055,0.10254770517349243,Edinson Cavani,h,3294,OpenPlay,2016,RightFoot,4188,Paris Saint Germain,Nancy,1,0,2017-03-04 16:00:00,Layvin Kurzawa,Cross
+109286,58,SavedShot,0.8580000305175781,0.475,0.1127765104174614,Edinson Cavani,h,3294,OpenPlay,2016,RightFoot,4188,Paris Saint Germain,Nancy,1,0,2017-03-04 16:00:00,,TakeOn
+109287,61,BlockedShot,0.9540000152587891,0.5979999923706054,0.09183429181575775,Gonçalo Guedes,h,5682,OpenPlay,2016,RightFoot,4188,Paris Saint Germain,Nancy,1,0,2017-03-04 16:00:00,Serge Aurier,Cross
+109288,66,MissedShots,0.7430000305175781,0.6229999923706054,0.017367945984005928,Julian Draxler,h,152,OpenPlay,2016,RightFoot,4188,Paris Saint Germain,Nancy,1,0,2017-03-04 16:00:00,Marco Verratti,Pass
+109289,67,MissedShots,0.915,0.575,0.03145027160644531,Thiago Silva,h,3288,SetPiece,2016,Head,4188,Paris Saint Germain,Nancy,1,0,2017-03-04 16:00:00,Julian Draxler,Aerial
+109291,75,BlockedShot,0.7069999694824218,0.41900001525878905,0.015632595866918564,Thiago Silva,h,3288,OpenPlay,2016,RightFoot,4188,Paris Saint Germain,Nancy,1,0,2017-03-04 16:00:00,Javier Pastore,Pass
+109293,79,Goal,0.885,0.5,0.7600951194763184,Edinson Cavani,h,3294,Penalty,2016,RightFoot,4188,Paris Saint Germain,Nancy,1,0,2017-03-04 16:00:00,,Standard
+109294,81,SavedShot,0.9330000305175781,0.35700000762939454,0.016603324562311172,Edinson Cavani,h,3294,FromCorner,2016,Head,4188,Paris Saint Germain,Nancy,1,0,2017-03-04 16:00:00,Hatem Ben Arfa,Cross
+109297,86,SavedShot,0.915,0.62,0.30679309368133545,Javier Pastore,h,3295,OpenPlay,2016,RightFoot,4188,Paris Saint Germain,Nancy,1,0,2017-03-04 16:00:00,Hatem Ben Arfa,Chipped
+109298,86,MissedShots,0.92,0.4229999923706055,0.32336992025375366,Hatem Ben Arfa,h,3638,OpenPlay,2016,LeftFoot,4188,Paris Saint Germain,Nancy,1,0,2017-03-04 16:00:00,Edinson Cavani,Chipped
+109267,14,SavedShot,0.745999984741211,0.5179999923706055,0.018132388591766357,Faitout Maouassa,a,5635,OpenPlay,2016,LeftFoot,4188,Paris Saint Germain,Nancy,1,0,2017-03-04 16:00:00,,None
+109268,14,MissedShots,0.745,0.645,0.014721259474754333,Faitout Maouassa,a,5635,FromCorner,2016,LeftFoot,4188,Paris Saint Germain,Nancy,1,0,2017-03-04 16:00:00,,None
+109270,22,BlockedShot,0.754000015258789,0.29700000762939455,0.01578141376376152,Joffrey Cuffaut,a,5628,OpenPlay,2016,RightFoot,4188,Paris Saint Germain,Nancy,1,0,2017-03-04 16:00:00,Anthony Koura,Pass
+109271,23,MissedShots,0.9390000152587891,0.40400001525878904,0.059823036193847656,Joffrey Cuffaut,a,5628,FromCorner,2016,Head,4188,Paris Saint Germain,Nancy,1,0,2017-03-04 16:00:00,Loic Puyo,Cross
+109281,45,SavedShot,0.8330000305175781,0.38599998474121094,0.05733383074402809,Faitout Maouassa,a,5635,OpenPlay,2016,LeftFoot,4188,Paris Saint Germain,Nancy,1,0,2017-03-04 16:00:00,Loic Puyo,Pass
+109290,74,ShotOnPost,0.895,0.605999984741211,0.25111281871795654,Alexis Busin,a,5721,OpenPlay,2016,RightFoot,4188,Paris Saint Germain,Nancy,1,0,2017-03-04 16:00:00,Youssef Ait Bennasser,TakeOn
+109292,75,BlockedShot,0.8519999694824218,0.655,0.056799549609422684,Alexis Busin,a,5721,OpenPlay,2016,RightFoot,4188,Paris Saint Germain,Nancy,1,0,2017-03-04 16:00:00,Faitout Maouassa,Pass
+109295,84,BlockedShot,0.789000015258789,0.36900001525878906,0.026776937767863274,Faitout Maouassa,a,5635,OpenPlay,2016,LeftFoot,4188,Paris Saint Germain,Nancy,1,0,2017-03-04 16:00:00,,None
+109296,84,SavedShot,0.7919999694824219,0.4909999847412109,0.03874462842941284,Faitout Maouassa,a,5635,OpenPlay,2016,LeftFoot,4188,Paris Saint Germain,Nancy,1,0,2017-03-04 16:00:00,,Rebound
+109299,87,MissedShots,0.874000015258789,0.3340000152587891,0.045130521059036255,Youssouf Hadji,a,5639,OpenPlay,2016,LeftFoot,4188,Paris Saint Germain,Nancy,1,0,2017-03-04 16:00:00,Faitout Maouassa,Chipped

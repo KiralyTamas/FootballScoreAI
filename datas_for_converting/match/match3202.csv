@@ -1,0 +1,29 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+131344,27,BlockedShot,0.8059999847412109,0.4759999847412109,0.04814177751541138,Vincenzo Grifo,h,5266,OpenPlay,2016,RightFoot,3202,Freiburg,Darmstadt,1,0,2016-12-10 18:30:00,,None
+131345,27,MissedShots,0.9580000305175781,0.4179999923706055,0.04204858839511871,Lukas Kübler,h,5263,FromCorner,2016,Head,3202,Freiburg,Darmstadt,1,0,2016-12-10 18:30:00,Vincenzo Grifo,Aerial
+131347,34,BlockedShot,0.7719999694824219,0.605999984741211,0.027115387842059135,Christian Günter,h,4243,OpenPlay,2016,RightFoot,3202,Freiburg,Darmstadt,1,0,2016-12-10 18:30:00,Vincenzo Grifo,Pass
+131351,43,MissedShots,0.8130000305175781,0.5129999923706055,0.06250783056020737,Pascal Stenzel,h,326,OpenPlay,2016,RightFoot,3202,Freiburg,Darmstadt,1,0,2016-12-10 18:30:00,Florian Niederlechner,Pass
+131354,56,MissedShots,0.6980000305175781,0.5109999847412109,0.013960550539195538,Vincenzo Grifo,h,5266,OpenPlay,2016,RightFoot,3202,Freiburg,Darmstadt,1,0,2016-12-10 18:30:00,Mike Frantz,Pass
+131356,69,MissedShots,0.7419999694824219,0.31799999237060544,0.015154624357819557,Julian Schuster,h,4245,OpenPlay,2016,RightFoot,3202,Freiburg,Darmstadt,1,0,2016-12-10 18:30:00,Mike Frantz,Pass
+131357,70,SavedShot,0.9119999694824219,0.5220000076293946,0.4899351894855499,Florian Niederlechner,h,306,FromCorner,2016,RightFoot,3202,Freiburg,Darmstadt,1,0,2016-12-10 18:30:00,,None
+131362,80,MissedShots,0.855999984741211,0.4640000152587891,0.09867914766073227,Florian Niederlechner,h,306,OpenPlay,2016,RightFoot,3202,Freiburg,Darmstadt,1,0,2016-12-10 18:30:00,Mike Frantz,Pass
+131363,81,BlockedShot,0.8480000305175781,0.6120000076293945,0.0454319603741169,Florian Niederlechner,h,306,OpenPlay,2016,LeftFoot,3202,Freiburg,Darmstadt,1,0,2016-12-10 18:30:00,Alexander Schwolow,TakeOn
+131364,85,Goal,0.885,0.5,0.75777667760849,Nils Petersen,h,4248,Penalty,2016,RightFoot,3202,Freiburg,Darmstadt,1,0,2016-12-10 18:30:00,,Standard
+131367,88,MissedShots,0.715,0.36400001525878906,0.014056297019124031,Nils Petersen,h,4248,OpenPlay,2016,RightFoot,3202,Freiburg,Darmstadt,1,0,2016-12-10 18:30:00,,None
+131342,8,MissedShots,0.779000015258789,0.29700000762939455,0.024123232811689377,Artem Fedetskyy,a,5284,FromCorner,2016,RightFoot,3202,Freiburg,Darmstadt,1,0,2016-12-10 18:30:00,Mario Vrancic,Cross
+131343,10,SavedShot,0.9119999694824219,0.39799999237060546,0.05094590038061142,Peter Niemeyer,a,299,SetPiece,2016,Head,3202,Freiburg,Darmstadt,1,0,2016-12-10 18:30:00,Jérôme Gondorf,Chipped
+131346,28,MissedShots,0.7680000305175781,0.4779999923706055,0.028680594637989998,Mario Vrancic,a,12,OpenPlay,2016,RightFoot,3202,Freiburg,Darmstadt,1,0,2016-12-10 18:30:00,Sven Schipplock,Pass
+131348,36,MissedShots,0.65,0.22200000762939454,0.00724791968241334,Mario Vrancic,a,12,OpenPlay,2016,LeftFoot,3202,Freiburg,Darmstadt,1,0,2016-12-10 18:30:00,Jérôme Gondorf,HeadPass
+131349,40,BlockedShot,0.8230000305175781,0.55,0.04310954362154007,Mario Vrancic,a,12,FromCorner,2016,RightFoot,3202,Freiburg,Darmstadt,1,0,2016-12-10 18:30:00,,None
+131350,41,ShotOnPost,0.9669999694824218,0.3160000038146973,0.0479980930685997,Artem Fedetskyy,a,5284,FromCorner,2016,RightFoot,3202,Freiburg,Darmstadt,1,0,2016-12-10 18:30:00,Sven Schipplock,TakeOn
+131352,47,BlockedShot,0.7340000152587891,0.6020000076293945,0.013715149834752083,Mario Vrancic,a,12,OpenPlay,2016,RightFoot,3202,Freiburg,Darmstadt,1,0,2016-12-10 18:30:00,,None
+131353,48,MissedShots,0.755,0.3509999847412109,0.037158772349357605,Sandro Sirigu,a,380,OpenPlay,2016,LeftFoot,3202,Freiburg,Darmstadt,1,0,2016-12-10 18:30:00,Jérôme Gondorf,Pass
+131355,61,SavedShot,0.875,0.5129999923706055,0.015540003776550293,Aytac Sulu,a,4,FromCorner,2016,Head,3202,Freiburg,Darmstadt,1,0,2016-12-10 18:30:00,Mario Vrancic,Aerial
+131358,71,MissedShots,0.765,0.7480000305175781,0.013906557112932205,Sven Schipplock,a,176,OpenPlay,2016,LeftFoot,3202,Freiburg,Darmstadt,1,0,2016-12-10 18:30:00,Marcel Heller,Chipped
+131359,72,SavedShot,0.789000015258789,0.43099998474121093,0.05807460471987724,Sven Schipplock,a,176,OpenPlay,2016,RightFoot,3202,Freiburg,Darmstadt,1,0,2016-12-10 18:30:00,Sandro Sirigu,Pass
+131360,73,MissedShots,0.8109999847412109,0.67,0.02251262776553631,László Kleinheisler,a,2647,FromCorner,2016,RightFoot,3202,Freiburg,Darmstadt,1,0,2016-12-10 18:30:00,,None
+131361,75,MissedShots,0.764000015258789,0.46799999237060547,0.024505965411663055,Sandro Sirigu,a,380,OpenPlay,2016,RightFoot,3202,Freiburg,Darmstadt,1,0,2016-12-10 18:30:00,,None
+131365,86,MissedShots,0.8190000152587891,0.28700000762939454,0.015399204567074776,Sandro Sirigu,a,380,SetPiece,2016,RightFoot,3202,Freiburg,Darmstadt,1,0,2016-12-10 18:30:00,Mario Vrancic,Cross
+131366,86,SavedShot,0.84,0.33799999237060546,0.029316242784261703,Jérôme Gondorf,a,8,SetPiece,2016,RightFoot,3202,Freiburg,Darmstadt,1,0,2016-12-10 18:30:00,Sandro Sirigu,Rebound
+131368,90,BlockedShot,0.8769999694824219,0.5270000076293946,0.07422170042991638,Roman Bezjak,a,5333,OpenPlay,2016,LeftFoot,3202,Freiburg,Darmstadt,1,0,2016-12-10 18:30:00,Dominik Stroh-Engel,HeadPass
+131369,93,MissedShots,0.7959999847412109,0.6179999923706054,0.0985713005065918,Jérôme Gondorf,a,8,DirectFreekick,2016,RightFoot,3202,Freiburg,Darmstadt,1,0,2016-12-10 18:30:00,,Standard

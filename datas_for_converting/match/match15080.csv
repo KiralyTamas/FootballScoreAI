@@ -1,0 +1,17 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+416912,3,ShotOnPost,0.8040000152587891,0.615,0.04014839231967926,Lionel Messi,h,2097,OpenPlay,2020,LeftFoot,15080,Barcelona,Getafe,5,2,2021-04-22 20:00:00,Antoine Griezmann,Pass
+416913,7,Goal,0.8590000152587891,0.6270000076293946,0.22999116778373718,Lionel Messi,h,2097,OpenPlay,2020,LeftFoot,15080,Barcelona,Getafe,5,2,2021-04-22 20:00:00,Sergio Busquets,TakeOn
+416916,11,OwnGoal,0.04199999809265137,0.5159999847412109,0,Clement Lenglet,h,5050,OpenPlay,2020,OtherBodyPart,15080,Barcelona,Getafe,5,2,2021-04-22 20:00:00,,BallTouch
+416917,15,MissedShots,0.84,0.6669999694824219,0.04622497409582138,Lionel Messi,h,2097,OpenPlay,2020,LeftFoot,15080,Barcelona,Getafe,5,2,2021-04-22 20:00:00,Jordi Alba,Pass
+416918,19,SavedShot,0.7869999694824219,0.35200000762939454,0.024242648854851723,Lionel Messi,h,2097,OpenPlay,2020,LeftFoot,15080,Barcelona,Getafe,5,2,2021-04-22 20:00:00,Frenkie de Jong,None
+416920,32,SavedShot,0.894000015258789,0.3609999847412109,0.06751129031181335,Lionel Messi,h,2097,SetPiece,2020,RightFoot,15080,Barcelona,Getafe,5,2,2021-04-22 20:00:00,Clement Lenglet,HeadPass
+416921,32,Goal,0.9830000305175781,0.4179999923706055,0.46543166041374207,Lionel Messi,h,2097,SetPiece,2020,LeftFoot,15080,Barcelona,Getafe,5,2,2021-04-22 20:00:00,,Rebound
+416925,86,Goal,0.965999984741211,0.455,0.4925397038459778,Ronald Araújo,h,8091,FromCorner,2020,Head,15080,Barcelona,Getafe,5,2,2021-04-22 20:00:00,Lionel Messi,Cross
+416926,90,MissedShots,0.8930000305175781,0.32,0.07676570862531662,Lionel Messi,h,2097,OpenPlay,2020,RightFoot,15080,Barcelona,Getafe,5,2,2021-04-22 20:00:00,Frenkie de Jong,Pass
+416927,92,Goal,0.885,0.5,0.7431496977806091,Antoine Griezmann,h,2270,Penalty,2020,LeftFoot,15080,Barcelona,Getafe,5,2,2021-04-22 20:00:00,,Standard
+416914,8,MissedShots,0.9319999694824219,0.4640000152587891,0.08606512099504471,Takefusa Kubo,a,8001,OpenPlay,2020,LeftFoot,15080,Barcelona,Getafe,5,2,2021-04-22 20:00:00,,None
+416915,11,MissedShots,0.9109999847412109,0.5259999847412109,0.47956982254981995,Ángel,a,4136,OpenPlay,2020,RightFoot,15080,Barcelona,Getafe,5,2,2021-04-22 20:00:00,Marc Cucurella,Pass
+416919,27,OwnGoal,0.21,0.46599998474121096,0,Sofian Chakla,a,8306,OpenPlay,2020,RightFoot,15080,Barcelona,Getafe,5,2,2021-04-22 20:00:00,,None
+416922,49,MissedShots,0.9230000305175782,0.5309999847412109,0.06790440529584885,Sofian Chakla,a,8306,OpenPlay,2020,Head,15080,Barcelona,Getafe,5,2,2021-04-22 20:00:00,Damián Suárez,Aerial
+416923,68,Goal,0.885,0.5,0.7432776093482971,Enes Ünal,a,6219,Penalty,2020,RightFoot,15080,Barcelona,Getafe,5,2,2021-04-22 20:00:00,,Standard
+416924,77,MissedShots,0.9319999694824219,0.6179999923706054,0.018616581335663795,José Boacho,a,9457,OpenPlay,2020,Head,15080,Barcelona,Getafe,5,2,2021-04-22 20:00:00,Juan Iglesias,Aerial

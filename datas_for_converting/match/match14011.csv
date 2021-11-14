@@ -1,0 +1,33 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+375019,14,BlockedShot,0.8240000152587891,0.5790000152587891,0.050079699605703354,Grzegorz Krychowiak,h,2414,OpenPlay,2020,LeftFoot,14011,Lokomotiv Moscow,FC Krasnodar,1,0,2020-08-15 16:00:00,,None
+375021,18,SavedShot,0.825999984741211,0.33,0.03031768649816513,Aleksey Miranchuk,h,2711,OpenPlay,2020,LeftFoot,14011,Lokomotiv Moscow,FC Krasnodar,1,0,2020-08-15 16:00:00,Fedor Smolov,Pass
+375023,19,SavedShot,0.8319999694824218,0.715,0.02923552691936493,Dmitri Rybchinsky,h,7452,OpenPlay,2020,RightFoot,14011,Lokomotiv Moscow,FC Krasnodar,1,0,2020-08-15 16:00:00,Grzegorz Krychowiak,Pass
+375025,24,SavedShot,0.84,0.3129999923706055,0.03774171322584152,Rifat Zhemaletdinov,h,2712,OpenPlay,2020,RightFoot,14011,Lokomotiv Moscow,FC Krasnodar,1,0,2020-08-15 16:00:00,Aleksey Miranchuk,Pass
+375026,24,BlockedShot,0.865,0.754000015258789,0.027657492086291313,Maciej Rybus,h,2856,OpenPlay,2020,LeftFoot,14011,Lokomotiv Moscow,FC Krasnodar,1,0,2020-08-15 16:00:00,Dmitri Rybchinsky,Pass
+375027,24,SavedShot,0.8269999694824218,0.555,0.07276303321123123,Dmitri Rybchinsky,h,7452,OpenPlay,2020,RightFoot,14011,Lokomotiv Moscow,FC Krasnodar,1,0,2020-08-15 16:00:00,Fedor Smolov,Pass
+375028,27,MissedShots,0.9440000152587891,0.500999984741211,0.0721612274646759,Vedran Corluka,h,2705,FromCorner,2020,Head,14011,Lokomotiv Moscow,FC Krasnodar,1,0,2020-08-15 16:00:00,Aleksey Miranchuk,Aerial
+375033,42,Goal,0.914000015258789,0.4129999923706055,0.3127475678920746,Aleksey Miranchuk,h,2711,OpenPlay,2020,LeftFoot,14011,Lokomotiv Moscow,FC Krasnodar,1,0,2020-08-15 16:00:00,Dmitry Zhivoglyadov,Cross
+375035,47,SavedShot,0.9459999847412109,0.6079999923706054,0.16181059181690216,Dmitri Rybchinsky,h,7452,OpenPlay,2020,RightFoot,14011,Lokomotiv Moscow,FC Krasnodar,1,0,2020-08-15 16:00:00,Dimitri Barinov,Pass
+375037,56,BlockedShot,0.8780000305175781,0.40099998474121096,0.09086864441633224,Aleksey Miranchuk,h,2711,OpenPlay,2020,LeftFoot,14011,Lokomotiv Moscow,FC Krasnodar,1,0,2020-08-15 16:00:00,,None
+375038,60,SavedShot,0.9159999847412109,0.51,0.1491813361644745,Fedor Smolov,h,2925,OpenPlay,2020,RightFoot,14011,Lokomotiv Moscow,FC Krasnodar,1,0,2020-08-15 16:00:00,Dmitri Rybchinsky,Pass
+375039,60,SavedShot,0.925,0.37599998474121094,0.018647469580173492,Murilo Cerqueira,h,7650,FromCorner,2020,Head,14011,Lokomotiv Moscow,FC Krasnodar,1,0,2020-08-15 16:00:00,Aleksey Miranchuk,Cross
+375040,71,MissedShots,0.835,0.21799999237060547,0.02582007274031639,Fedor Smolov,h,2925,OpenPlay,2020,RightFoot,14011,Lokomotiv Moscow,FC Krasnodar,1,0,2020-08-15 16:00:00,Aleksey Miranchuk,Pass
+375044,85,BlockedShot,0.850999984741211,0.27700000762939453,0.05796358734369278,Fedor Smolov,h,2925,OpenPlay,2020,RightFoot,14011,Lokomotiv Moscow,FC Krasnodar,1,0,2020-08-15 16:00:00,Dimitri Barinov,Pass
+375045,89,SavedShot,0.9009999847412109,0.40400001525878904,0.36966022849082947,Vitali Lisakovich,h,8622,OpenPlay,2020,LeftFoot,14011,Lokomotiv Moscow,FC Krasnodar,1,0,2020-08-15 16:00:00,,BallRecovery
+375046,90,MissedShots,0.7709999847412109,0.46,0.02399643324315548,Dimitri Barinov,h,2721,FromCorner,2020,RightFoot,14011,Lokomotiv Moscow,FC Krasnodar,1,0,2020-08-15 16:00:00,Grzegorz Krychowiak,Pass
+375018,6,SavedShot,0.8909999847412109,0.3609999847412109,0.05743404105305672,Daniil Utkin,a,7283,OpenPlay,2020,RightFoot,14011,Lokomotiv Moscow,FC Krasnodar,1,0,2020-08-15 16:00:00,Sergei Petrov,Cross
+375020,14,MissedShots,0.935,0.655,0.29375043511390686,Cristian Ramírez,a,5477,OpenPlay,2020,LeftFoot,14011,Lokomotiv Moscow,FC Krasnodar,1,0,2020-08-15 16:00:00,Wanderson,Pass
+375022,18,BlockedShot,0.7619999694824219,0.3370000076293945,0.021246101707220078,Wanderson,a,2450,OpenPlay,2020,RightFoot,14011,Lokomotiv Moscow,FC Krasnodar,1,0,2020-08-15 16:00:00,,TakeOn
+375024,19,BlockedShot,0.865,0.32799999237060545,0.04249126836657524,Sergei Petrov,a,2920,OpenPlay,2020,LeftFoot,14011,Lokomotiv Moscow,FC Krasnodar,1,0,2020-08-15 16:00:00,Rémy Cabella,Pass
+375029,34,MissedShots,0.8809999847412109,0.6769999694824219,0.05167680233716965,Kristoffer Olsson,a,7479,OpenPlay,2020,RightFoot,14011,Lokomotiv Moscow,FC Krasnodar,1,0,2020-08-15 16:00:00,Cristian Ramírez,Pass
+375030,34,BlockedShot,0.8490000152587891,0.6890000152587891,0.03870825469493866,Marcus Berg,a,7668,OpenPlay,2020,RightFoot,14011,Lokomotiv Moscow,FC Krasnodar,1,0,2020-08-15 16:00:00,Daniil Utkin,Pass
+375031,40,BlockedShot,0.725,0.37599998474121094,0.04022378474473953,Daniil Utkin,a,7283,DirectFreekick,2020,LeftFoot,14011,Lokomotiv Moscow,FC Krasnodar,1,0,2020-08-15 16:00:00,,Standard
+375032,40,MissedShots,0.9309999847412109,0.5029999923706054,0.05742180719971657,Aleksandr Martynovich,a,2790,FromCorner,2020,Head,14011,Lokomotiv Moscow,FC Krasnodar,1,0,2020-08-15 16:00:00,Wanderson,Aerial
+375034,46,BlockedShot,0.8469999694824218,0.57,0.05939403176307678,Wanderson,a,2450,OpenPlay,2020,RightFoot,14011,Lokomotiv Moscow,FC Krasnodar,1,0,2020-08-15 16:00:00,Rémy Cabella,Pass
+375036,53,MissedShots,0.9590000152587891,0.4779999923706055,0.4976993501186371,Kaio,a,7679,FromCorner,2020,Head,14011,Lokomotiv Moscow,FC Krasnodar,1,0,2020-08-15 16:00:00,Wanderson,Cross
+375041,74,SavedShot,0.8090000152587891,0.5690000152587891,0.04485137015581131,Wanderson,a,2450,OpenPlay,2020,RightFoot,14011,Lokomotiv Moscow,FC Krasnodar,1,0,2020-08-15 16:00:00,Rémy Cabella,Pass
+375042,75,MissedShots,0.7880000305175782,0.59,0.02906309999525547,Rémy Cabella,a,3390,OpenPlay,2020,RightFoot,14011,Lokomotiv Moscow,FC Krasnodar,1,0,2020-08-15 16:00:00,Sergei Petrov,Pass
+375043,78,MissedShots,0.769000015258789,0.6569999694824219,0.017411207780241966,Wanderson,a,2450,OpenPlay,2020,RightFoot,14011,Lokomotiv Moscow,FC Krasnodar,1,0,2020-08-15 16:00:00,Sergei Petrov,TakeOn
+375047,90,MissedShots,0.9069999694824219,0.605,0.07251759618520737,Marcus Berg,a,7668,OpenPlay,2020,LeftFoot,14011,Lokomotiv Moscow,FC Krasnodar,1,0,2020-08-15 16:00:00,Wanderson,Cross
+375048,92,BlockedShot,0.8730000305175781,0.395,0.09637703746557236,Magomed-Shapi Suleymanov,a,5926,OpenPlay,2020,LeftFoot,14011,Lokomotiv Moscow,FC Krasnodar,1,0,2020-08-15 16:00:00,Alex Matsukatov,TakeOn
+375049,93,SavedShot,0.8119999694824219,0.4,0.030877569690346718,Kristoffer Olsson,a,7479,OpenPlay,2020,RightFoot,14011,Lokomotiv Moscow,FC Krasnodar,1,0,2020-08-15 16:00:00,Magomed-Shapi Suleymanov,Pass

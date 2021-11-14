@@ -1,0 +1,23 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+281104,1,MissedShots,0.9119999694824219,0.7069999694824218,0.05529026687145233,Antoine Griezmann,h,2270,OpenPlay,2018,LeftFoot,10177,Atletico Madrid,Real Madrid,1,3,2019-02-09 15:15:00,Thomas Lemar,Pass
+281105,9,MissedShots,0.9030000305175782,0.6509999847412109,0.08689149469137192,Thomas Partey,h,2328,OpenPlay,2018,LeftFoot,10177,Atletico Madrid,Real Madrid,1,3,2019-02-09 15:15:00,Antoine Griezmann,Pass
+281110,24,Goal,0.8480000305175781,0.36700000762939455,0.5288455486297607,Antoine Griezmann,h,2270,OpenPlay,2018,LeftFoot,10177,Atletico Madrid,Real Madrid,1,3,2019-02-09 15:15:00,Ángel Correa,Throughball
+281111,28,MissedShots,0.82,0.28200000762939453,0.012274809181690216,Ángel Correa,h,2275,SetPiece,2018,RightFoot,10177,Atletico Madrid,Real Madrid,1,3,2019-02-09 15:15:00,,Aerial
+281112,31,MissedShots,0.9219999694824219,0.5779999923706055,0.06442511826753616,Antoine Griezmann,h,2270,FromCorner,2018,LeftFoot,10177,Atletico Madrid,Real Madrid,1,3,2019-02-09 15:15:00,Thomas Partey,Cross
+281115,46,MissedShots,0.9219999694824219,0.68,0.050067055970430374,Álvaro Morata,h,1804,OpenPlay,2018,LeftFoot,10177,Atletico Madrid,Real Madrid,1,3,2019-02-09 15:15:00,Antoine Griezmann,Pass
+281117,51,MissedShots,0.8090000152587891,0.485,0.04725676402449608,Antoine Griezmann,h,2270,OpenPlay,2018,LeftFoot,10177,Atletico Madrid,Real Madrid,1,3,2019-02-09 15:15:00,Álvaro Morata,BallTouch
+281118,59,SavedShot,0.93,0.27700000762939453,0.017200522124767303,Giménez,h,2278,SetPiece,2018,RightFoot,10177,Atletico Madrid,Real Madrid,1,3,2019-02-09 15:15:00,,Aerial
+281121,76,MissedShots,0.9069999694824219,0.5379999923706055,0.07817775756120682,Rodri,h,2496,FromCorner,2018,Head,10177,Atletico Madrid,Real Madrid,1,3,2019-02-09 15:15:00,Antoine Griezmann,Cross
+281123,84,MissedShots,0.87,0.6809999847412109,0.05710827186703682,Vitolo,h,2511,OpenPlay,2018,RightFoot,10177,Atletico Madrid,Real Madrid,1,3,2019-02-09 15:15:00,Nikola Kalinic,Pass
+281124,85,MissedShots,0.855999984741211,0.22200000762939454,0.02382609434425831,Saúl Ñíguez,h,2266,OpenPlay,2018,LeftFoot,10177,Atletico Madrid,Real Madrid,1,3,2019-02-09 15:15:00,,TakeOn
+281106,10,MissedShots,0.9130000305175782,0.6859999847412109,0.01926714926958084,Luka Modric,a,2250,OpenPlay,2018,Head,10177,Atletico Madrid,Real Madrid,1,3,2019-02-09 15:15:00,Daniel Carvajal,Chipped
+281107,15,BlockedShot,0.909000015258789,0.485,0.03669145330786705,Sergio Ramos,a,2246,FromCorner,2018,Head,10177,Atletico Madrid,Real Madrid,1,3,2019-02-09 15:15:00,Toni Kroos,Aerial
+281108,15,Goal,0.9309999847412109,0.539000015258789,0.1376495212316513,Casemiro,a,2248,FromCorner,2018,RightFoot,10177,Atletico Madrid,Real Madrid,1,3,2019-02-09 15:15:00,,Rebound
+281109,19,MissedShots,0.8530000305175781,0.445,0.15077334642410278,Lucas Vázquez,a,2253,OpenPlay,2018,RightFoot,10177,Atletico Madrid,Real Madrid,1,3,2019-02-09 15:15:00,Vinícius Júnior,Throughball
+281113,36,SavedShot,0.759000015258789,0.5270000076293946,0.017165718600153923,Toni Kroos,a,2369,OpenPlay,2018,RightFoot,10177,Atletico Madrid,Real Madrid,1,3,2019-02-09 15:15:00,Daniel Carvajal,Chipped
+281114,42,Goal,0.885,0.5,0.7432776093482971,Sergio Ramos,a,2246,Penalty,2018,RightFoot,10177,Atletico Madrid,Real Madrid,1,3,2019-02-09 15:15:00,,Standard
+281116,50,MissedShots,0.8009999847412109,0.34900001525878904,0.023461543023586273,Lucas Vázquez,a,2253,FromCorner,2018,RightFoot,10177,Atletico Madrid,Real Madrid,1,3,2019-02-09 15:15:00,,None
+281119,72,MissedShots,0.9119999694824219,0.5770000076293945,0.04598485678434372,Karim Benzema,a,2370,OpenPlay,2018,Head,10177,Atletico Madrid,Real Madrid,1,3,2019-02-09 15:15:00,Daniel Carvajal,Aerial
+281120,73,Goal,0.919000015258789,0.6819999694824219,0.07064250856637955,Gareth Bale,a,2251,OpenPlay,2018,LeftFoot,10177,Atletico Madrid,Real Madrid,1,3,2019-02-09 15:15:00,Luka Modric,Pass
+281122,77,BlockedShot,0.7969999694824219,0.29700000762939455,0.03237296640872955,Karim Benzema,a,2370,OpenPlay,2018,RightFoot,10177,Atletico Madrid,Real Madrid,1,3,2019-02-09 15:15:00,Lucas Vázquez,Pass
+281125,86,MissedShots,0.904000015258789,0.5929999923706055,0.1792633831501007,Gareth Bale,a,2251,OpenPlay,2018,Head,10177,Atletico Madrid,Real Madrid,1,3,2019-02-09 15:15:00,Karim Benzema,Cross

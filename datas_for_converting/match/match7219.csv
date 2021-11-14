@@ -1,0 +1,29 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+160201,1,SavedShot,0.735999984741211,0.580999984741211,0.018202371895313263,N&#039;Golo Kanté,h,751,SetPiece,2017,RightFoot,7219,Chelsea,Manchester United,1,0,2017-11-05 16:30:00,Cesc Fàbregas,Pass
+160203,11,MissedShots,0.8919999694824219,0.55,0.4083615839481354,Tiemoué Bakayoko,h,3429,OpenPlay,2017,RightFoot,7219,Chelsea,Manchester United,1,0,2017-11-05 16:30:00,,None
+160204,12,BlockedShot,0.7659999847412109,0.36700000762939455,0.02382681891322136,Tiemoué Bakayoko,h,3429,OpenPlay,2017,RightFoot,7219,Chelsea,Manchester United,1,0,2017-11-05 16:30:00,Álvaro Morata,Pass
+160205,12,BlockedShot,0.8390000152587891,0.27899999618530275,0.030511902645230293,Davide Zappacosta,h,1178,OpenPlay,2017,LeftFoot,7219,Chelsea,Manchester United,1,0,2017-11-05 16:30:00,Gary Cahill,Pass
+160208,17,BlockedShot,0.8009999847412109,0.505,0.04851478338241577,Tiemoué Bakayoko,h,3429,OpenPlay,2017,RightFoot,7219,Chelsea,Manchester United,1,0,2017-11-05 16:30:00,Eden Hazard,Pass
+160209,17,SavedShot,0.8209999847412109,0.34900001525878904,0.0259387269616127,Eden Hazard,h,701,FromCorner,2017,LeftFoot,7219,Chelsea,Manchester United,1,0,2017-11-05 16:30:00,Cesc Fàbregas,Pass
+160210,18,MissedShots,0.9719999694824218,0.41,0.18541696667671204,Cesc Fàbregas,h,686,FromCorner,2017,Head,7219,Chelsea,Manchester United,1,0,2017-11-05 16:30:00,,Rebound
+160211,28,MissedShots,0.9259999847412109,0.7119999694824218,0.00905236043035984,Marcos Alonso,h,1621,OpenPlay,2017,Head,7219,Chelsea,Manchester United,1,0,2017-11-05 16:30:00,Davide Zappacosta,Aerial
+160213,31,SavedShot,0.8780000305175781,0.655,0.06878585368394852,Álvaro Morata,h,1804,OpenPlay,2017,RightFoot,7219,Chelsea,Manchester United,1,0,2017-11-05 16:30:00,Cesc Fàbregas,Pass
+160214,36,SavedShot,0.8280000305175781,0.3139999961853027,0.03321265056729317,Davide Zappacosta,h,1178,OpenPlay,2017,LeftFoot,7219,Chelsea,Manchester United,1,0,2017-11-05 16:30:00,Cesc Fàbregas,Pass
+160215,39,MissedShots,0.9369999694824219,0.5220000076293946,0.12359616160392761,Andreas Christensen,h,200,FromCorner,2017,Head,7219,Chelsea,Manchester United,1,0,2017-11-05 16:30:00,Cesc Fàbregas,Cross
+160216,48,MissedShots,0.8180000305175781,0.6959999847412109,0.027933623641729355,Álvaro Morata,h,1804,OpenPlay,2017,RightFoot,7219,Chelsea,Manchester United,1,0,2017-11-05 16:30:00,Tiemoué Bakayoko,Chipped
+160217,53,SavedShot,0.8919999694824219,0.545,0.3093026280403137,Eden Hazard,h,701,OpenPlay,2017,LeftFoot,7219,Chelsea,Manchester United,1,0,2017-11-05 16:30:00,Cesc Fàbregas,Chipped
+160218,54,Goal,0.8830000305175781,0.55,0.23229102790355682,Álvaro Morata,h,1804,OpenPlay,2017,Head,7219,Chelsea,Manchester United,1,0,2017-11-05 16:30:00,César Azpilicueta,Chipped
+160221,74,MissedShots,0.845,0.44299999237060544,0.08789937198162079,Tiemoué Bakayoko,h,3429,OpenPlay,2017,RightFoot,7219,Chelsea,Manchester United,1,0,2017-11-05 16:30:00,,BallRecovery
+160222,75,SavedShot,0.8340000152587891,0.4779999923706055,0.07837215065956116,Eden Hazard,h,701,OpenPlay,2017,RightFoot,7219,Chelsea,Manchester United,1,0,2017-11-05 16:30:00,,None
+160223,81,BlockedShot,0.86,0.48200000762939454,0.037039704620838165,Gary Cahill,h,699,SetPiece,2017,LeftFoot,7219,Chelsea,Manchester United,1,0,2017-11-05 16:30:00,,Aerial
+160224,81,SavedShot,0.88,0.48700000762939455,0.10203146189451218,Gary Cahill,h,699,SetPiece,2017,RightFoot,7219,Chelsea,Manchester United,1,0,2017-11-05 16:30:00,,Rebound
+160202,7,MissedShots,0.9519999694824218,0.44099998474121094,0.4251497685909271,Marcus Rashford,a,556,OpenPlay,2017,Head,7219,Chelsea,Manchester United,1,0,2017-11-05 16:30:00,Ashley Young,Cross
+160206,15,SavedShot,0.7919999694824219,0.46599998474121096,0.054892197251319885,Romelu Lukaku,a,594,OpenPlay,2017,LeftFoot,7219,Chelsea,Manchester United,1,0,2017-11-05 16:30:00,,TakeOn
+160207,15,BlockedShot,0.7880000305175782,0.6170000076293946,0.02239358238875866,Ashley Young,a,631,OpenPlay,2017,RightFoot,7219,Chelsea,Manchester United,1,0,2017-11-05 16:30:00,,Rebound
+160212,29,BlockedShot,0.6819999694824219,0.595999984741211,0.01131412573158741,Ander Herrera,a,552,OpenPlay,2017,LeftFoot,7219,Chelsea,Manchester United,1,0,2017-11-05 16:30:00,,BallRecovery
+160219,67,BlockedShot,0.8130000305175781,0.51,0.0331491157412529,Marcus Rashford,a,556,OpenPlay,2017,RightFoot,7219,Chelsea,Manchester United,1,0,2017-11-05 16:30:00,Marouane Fellaini,HeadPass
+160220,68,MissedShots,0.774000015258789,0.4909999847412109,0.015451756305992603,Ander Herrera,a,552,FromCorner,2017,LeftFoot,7219,Chelsea,Manchester United,1,0,2017-11-05 16:30:00,,Aerial
+160225,86,MissedShots,0.8240000152587891,0.5179999923706055,0.05009496212005615,Marcus Rashford,a,556,OpenPlay,2017,LeftFoot,7219,Chelsea,Manchester United,1,0,2017-11-05 16:30:00,,None
+160226,89,SavedShot,0.875999984741211,0.5320000076293945,0.08226139098405838,Marouane Fellaini,a,630,OpenPlay,2017,RightFoot,7219,Chelsea,Manchester United,1,0,2017-11-05 16:30:00,Eric Bailly,Chipped
+160227,89,BlockedShot,0.860999984741211,0.36700000762939455,0.016414934769272804,Anthony Martial,a,553,OpenPlay,2017,LeftFoot,7219,Chelsea,Manchester United,1,0,2017-11-05 16:30:00,Marouane Fellaini,Aerial
+160228,93,BlockedShot,0.7580000305175781,0.5970000076293945,0.06369319558143616,Marcus Rashford,a,556,DirectFreekick,2017,RightFoot,7219,Chelsea,Manchester United,1,0,2017-11-05 16:30:00,,Standard

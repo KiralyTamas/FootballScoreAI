@@ -1,0 +1,31 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+33357,2,BlockedShot,0.775,0.54,0.03182682394981384,Cani,h,2322,OpenPlay,2014,RightFoot,5817,Villarreal,Real Madrid,0,2,2014-09-27 15:00:00,Ikechukwu Uche,Pass
+33359,6,SavedShot,0.8619999694824219,0.639000015258789,0.05938519909977913,Ikechukwu Uche,h,2349,OpenPlay,2014,LeftFoot,5817,Villarreal,Real Madrid,0,2,2014-09-27 15:00:00,Bruno,Pass
+33362,12,BlockedShot,0.795,0.305,0.018667930737137794,Mario,h,2296,FromCorner,2014,RightFoot,5817,Villarreal,Real Madrid,0,2,2014-09-27 15:00:00,,None
+33363,12,MissedShots,0.9230000305175782,0.6,0.08894200623035431,Luciano Vietto,h,2274,OpenPlay,2014,LeftFoot,5817,Villarreal,Real Madrid,0,2,2014-09-27 15:00:00,Moi Gómez,Cross
+33365,27,MissedShots,0.8619999694824219,0.5829999923706055,0.13012535870075226,Luciano Vietto,h,2274,OpenPlay,2014,RightFoot,5817,Villarreal,Real Madrid,0,2,2014-09-27 15:00:00,Ikechukwu Uche,TakeOn
+33366,29,SavedShot,0.7659999847412109,0.32099998474121094,0.014741499908268452,Mario,h,2296,OpenPlay,2014,RightFoot,5817,Villarreal,Real Madrid,0,2,2014-09-27 15:00:00,,None
+33368,33,MissedShots,0.91,0.41700000762939454,0.06101314723491669,Luciano Vietto,h,2274,OpenPlay,2014,Head,5817,Villarreal,Real Madrid,0,2,2014-09-27 15:00:00,Mario,Cross
+33369,36,BlockedShot,0.7780000305175782,0.5690000152587891,0.027112843468785286,Ikechukwu Uche,h,2349,OpenPlay,2014,LeftFoot,5817,Villarreal,Real Madrid,0,2,2014-09-27 15:00:00,Manu Trigueros,Pass
+33370,38,BlockedShot,0.7780000305175782,0.5790000152587891,0.09365594387054443,Bruno,h,2302,DirectFreekick,2014,LeftFoot,5817,Villarreal,Real Madrid,0,2,2014-09-27 15:00:00,,Standard
+33372,40,SavedShot,0.765,0.5129999923706055,0.027384506538510323,Manu Trigueros,h,2301,OpenPlay,2014,RightFoot,5817,Villarreal,Real Madrid,0,2,2014-09-27 15:00:00,Gabriel,Pass
+33373,41,BlockedShot,0.8859999847412109,0.555,0.06551598757505417,Manu Trigueros,h,2301,OpenPlay,2014,LeftFoot,5817,Villarreal,Real Madrid,0,2,2014-09-27 15:00:00,Cani,Cross
+33375,47,MissedShots,0.905,0.669000015258789,0.06440933048725128,Gabriel,h,493,OpenPlay,2014,RightFoot,5817,Villarreal,Real Madrid,0,2,2014-09-27 15:00:00,Ikechukwu Uche,Pass
+33376,49,BlockedShot,0.779000015258789,0.7280000305175781,0.015720924362540245,Luciano Vietto,h,2274,OpenPlay,2014,RightFoot,5817,Villarreal,Real Madrid,0,2,2014-09-27 15:00:00,Bruno,Pass
+33377,49,SavedShot,0.7030000305175781,0.47200000762939454,0.013270845636725426,Gabriel,h,493,FromCorner,2014,RightFoot,5817,Villarreal,Real Madrid,0,2,2014-09-27 15:00:00,,None
+33378,51,MissedShots,0.8540000152587891,0.36700000762939455,0.06650150567293167,Mario,h,2296,OpenPlay,2014,RightFoot,5817,Villarreal,Real Madrid,0,2,2014-09-27 15:00:00,Luciano Vietto,Pass
+33380,71,MissedShots,0.919000015258789,0.325,0.08413618057966232,Javier Espinosa,h,4081,OpenPlay,2014,LeftFoot,5817,Villarreal,Real Madrid,0,2,2014-09-27 15:00:00,Luciano Vietto,TakeOn
+33381,76,SavedShot,0.7480000305175781,0.5740000152587891,0.014583874493837357,Jonathan dos Santos,h,2307,OpenPlay,2014,RightFoot,5817,Villarreal,Real Madrid,0,2,2014-09-27 15:00:00,,None
+33382,81,MissedShots,0.88,0.3370000076293945,0.05614098906517029,Luciano Vietto,h,2274,SetPiece,2014,RightFoot,5817,Villarreal,Real Madrid,0,2,2014-09-27 15:00:00,Javier Espinosa,Pass
+33386,92,MissedShots,0.7230000305175781,0.504000015258789,0.01812806725502014,Luciano Vietto,h,2274,OpenPlay,2014,RightFoot,5817,Villarreal,Real Madrid,0,2,2014-09-27 15:00:00,Mario,Pass
+33358,4,BlockedShot,0.7619999694824219,0.6930000305175781,0.022862760350108147,Cristiano Ronaldo,a,2371,OpenPlay,2014,RightFoot,5817,Villarreal,Real Madrid,0,2,2014-09-27 15:00:00,,TakeOn
+33360,9,MissedShots,0.7430000305175781,0.500999984741211,0.017397820949554443,Toni Kroos,a,2369,FromCorner,2014,RightFoot,5817,Villarreal,Real Madrid,0,2,2014-09-27 15:00:00,,None
+33361,10,MissedShots,0.8159999847412109,0.30200000762939455,0.027883408591151237,Cristiano Ronaldo,a,2371,OpenPlay,2014,LeftFoot,5817,Villarreal,Real Madrid,0,2,2014-09-27 15:00:00,Toni Kroos,Pass
+33364,15,MissedShots,0.8880000305175781,0.6969999694824218,0.03346073627471924,James Rodríguez,a,2249,FromCorner,2014,LeftFoot,5817,Villarreal,Real Madrid,0,2,2014-09-27 15:00:00,Toni Kroos,Cross
+33367,31,Goal,0.774000015258789,0.42700000762939455,0.029226673766970634,Luka Modric,a,2250,OpenPlay,2014,RightFoot,5817,Villarreal,Real Madrid,0,2,2014-09-27 15:00:00,Toni Kroos,Pass
+33371,39,Goal,0.8690000152587891,0.5220000076293946,0.527085542678833,Cristiano Ronaldo,a,2371,OpenPlay,2014,RightFoot,5817,Villarreal,Real Madrid,0,2,2014-09-27 15:00:00,Karim Benzema,Pass
+33374,44,SavedShot,0.71,0.45599998474121095,0.023058978840708733,Marcelo,a,2257,FromCorner,2014,LeftFoot,5817,Villarreal,Real Madrid,0,2,2014-09-27 15:00:00,Daniel Carvajal,Pass
+33379,54,MissedShots,0.735,0.5029999923706054,0.023549078032374382,Gareth Bale,a,2251,OpenPlay,2014,LeftFoot,5817,Villarreal,Real Madrid,0,2,2014-09-27 15:00:00,Cristiano Ronaldo,Pass
+33383,82,BlockedShot,0.9169999694824219,0.31799999237060544,0.1468411237001419,Karim Benzema,a,2370,OpenPlay,2014,RightFoot,5817,Villarreal,Real Madrid,0,2,2014-09-27 15:00:00,Cristiano Ronaldo,Throughball
+33384,88,BlockedShot,0.8180000305175781,0.41200000762939454,0.07340972870588303,Cristiano Ronaldo,a,2371,OpenPlay,2014,LeftFoot,5817,Villarreal,Real Madrid,0,2,2014-09-27 15:00:00,Daniel Carvajal,Pass
+33385,89,BlockedShot,0.7859999847412109,0.5770000076293945,0.05156992748379707,Isco,a,2255,OpenPlay,2014,RightFoot,5817,Villarreal,Real Madrid,0,2,2014-09-27 15:00:00,Sergio Ramos,Pass

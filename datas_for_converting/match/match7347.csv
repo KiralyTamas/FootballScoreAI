@@ -1,0 +1,27 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+187441,18,BlockedShot,0.88,0.40799999237060547,0.0848112627863884,André Carrillo,h,6230,OpenPlay,2017,RightFoot,7347,Watford,Southampton,2,2,2018-01-13 15:00:00,Andre Gray,BallTouch
+187442,18,SavedShot,0.7719999694824219,0.27700000762939453,0.01756144128739834,Daryl Janmaat,h,764,OpenPlay,2017,RightFoot,7347,Watford,Southampton,2,2,2018-01-13 15:00:00,Ben Watson,Pass
+187449,36,MissedShots,0.8830000305175781,0.5779999923706055,0.042736999690532684,Christian Kabasele,h,1725,SetPiece,2017,Head,7347,Watford,Southampton,2,2,2018-01-13 15:00:00,Ben Watson,Chipped
+187450,42,BlockedShot,0.799000015258789,0.37099998474121093,0.02631058543920517,Andre Gray,h,1660,OpenPlay,2017,RightFoot,7347,Watford,Southampton,2,2,2018-01-13 15:00:00,Daryl Janmaat,Chipped
+187452,46,MissedShots,0.905,0.5420000076293945,0.08142845332622528,Richarlison,h,6026,OpenPlay,2017,Head,7347,Watford,Southampton,2,2,2018-01-13 15:00:00,Daryl Janmaat,Cross
+187453,54,MissedShots,0.8090000152587891,0.6,0.04182802885770798,Roberto Pereyra,h,1723,OpenPlay,2017,RightFoot,7347,Watford,Southampton,2,2,2018-01-13 15:00:00,André Carrillo,Pass
+187454,56,MissedShots,0.8819999694824219,0.5709999847412109,0.1086505874991417,Richarlison,h,6026,OpenPlay,2017,RightFoot,7347,Watford,Southampton,2,2,2018-01-13 15:00:00,Troy Deeney,Pass
+187455,57,SavedShot,0.8530000305175781,0.41200000762939454,0.08827220648527145,Daryl Janmaat,h,764,OpenPlay,2017,RightFoot,7347,Watford,Southampton,2,2,2018-01-13 15:00:00,Troy Deeney,Pass
+187456,57,Goal,0.9640000152587891,0.48200000762939454,0.718841016292572,Andre Gray,h,1660,OpenPlay,2017,Head,7347,Watford,Southampton,2,2,2018-01-13 15:00:00,,Rebound
+187457,59,MissedShots,0.8919999694824219,0.5670000076293945,0.07229327410459518,Richarlison,h,6026,SetPiece,2017,OtherBodyPart,7347,Watford,Southampton,2,2,2018-01-13 15:00:00,Roberto Pereyra,Chipped
+187458,61,MissedShots,0.7780000305175782,0.3659999847412109,0.01827627420425415,André Carrillo,h,6230,FromCorner,2017,RightFoot,7347,Watford,Southampton,2,2,2018-01-13 15:00:00,,None
+187459,63,MissedShots,0.935,0.509000015258789,0.12218667566776276,Molla Wagué,h,1159,FromCorner,2017,Head,7347,Watford,Southampton,2,2,2018-01-13 15:00:00,Roberto Pereyra,Cross
+187461,69,MissedShots,0.8919999694824219,0.40400001525878904,0.03139534592628479,Andre Gray,h,1660,OpenPlay,2017,Head,7347,Watford,Southampton,2,2,2018-01-13 15:00:00,Daryl Janmaat,Cross
+187462,72,MissedShots,0.685,0.5370000076293945,0.008607239462435246,Daryl Janmaat,h,764,SetPiece,2017,RightFoot,7347,Watford,Southampton,2,2,2018-01-13 15:00:00,,None
+187463,77,MissedShots,0.9230000305175782,0.4809999847412109,0.10137617588043213,Stefano Okaka,h,1763,OpenPlay,2017,RightFoot,7347,Watford,Southampton,2,2,2018-01-13 15:00:00,Troy Deeney,HeadPass
+187464,89,Goal,0.93,0.4490000152587891,0.17256447672843933,Abdoulaye Doucouré,h,1726,OpenPlay,2017,OtherBodyPart,7347,Watford,Southampton,2,2,2018-01-13 15:00:00,Troy Deeney,HeadPass
+187439,13,BlockedShot,0.9019999694824219,0.7030000305175781,0.047924164682626724,Shane Long,a,839,OpenPlay,2017,LeftFoot,7347,Watford,Southampton,2,2,2018-01-13 15:00:00,Steven Davis,Chipped
+187440,13,MissedShots,0.8230000305175781,0.3029999923706055,0.0283980630338192,Cédric Soares,a,847,OpenPlay,2017,LeftFoot,7347,Watford,Southampton,2,2,2018-01-13 15:00:00,,None
+187443,19,Goal,0.865999984741211,0.37900001525878907,0.0613875575363636,James Ward-Prowse,a,843,OpenPlay,2017,RightFoot,7347,Watford,Southampton,2,2,2018-01-13 15:00:00,,None
+187444,22,SavedShot,0.9490000152587891,0.605,0.041894908994436264,Shane Long,a,839,OpenPlay,2017,Head,7347,Watford,Southampton,2,2,2018-01-13 15:00:00,Dusan Tadic,Aerial
+187445,25,SavedShot,0.6719999694824219,0.75,0.012222140096127987,Wesley Hoedt,a,1203,OpenPlay,2017,LeftFoot,7347,Watford,Southampton,2,2,2018-01-13 15:00:00,Pierre-Emile Højbjerg,Pass
+187446,28,MissedShots,0.4879999923706055,0.39799999237060546,0.0071524023078382015,James Ward-Prowse,a,843,OpenPlay,2017,RightFoot,7347,Watford,Southampton,2,2,2018-01-13 15:00:00,Pierre-Emile Højbjerg,Pass
+187447,32,BlockedShot,0.9369999694824219,0.385,0.12292523682117462,Shane Long,a,839,OpenPlay,2017,RightFoot,7347,Watford,Southampton,2,2,2018-01-13 15:00:00,Steven Davis,Pass
+187448,33,MissedShots,0.924000015258789,0.485,0.0492752380669117,Oriol Romeu,a,842,FromCorner,2017,Head,7347,Watford,Southampton,2,2,2018-01-13 15:00:00,James Ward-Prowse,End
+187451,43,Goal,0.89,0.39799999237060546,0.46539708971977234,James Ward-Prowse,a,843,OpenPlay,2017,RightFoot,7347,Watford,Southampton,2,2,2018-01-13 15:00:00,Dusan Tadic,Pass
+187460,68,MissedShots,0.835,0.5120000076293946,0.02106046862900257,Pierre-Emile Højbjerg,a,343,OpenPlay,2017,Head,7347,Watford,Southampton,2,2,2018-01-13 15:00:00,Ryan Bertrand,Chipped

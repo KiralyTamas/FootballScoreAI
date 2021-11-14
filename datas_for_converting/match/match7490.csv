@@ -1,0 +1,32 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+215600,6,Goal,0.865,0.655,0.047842223197221756,Harry Kane,h,647,OpenPlay,2017,LeftFoot,7490,Tottenham,Leicester,5,4,2018-05-13 15:00:00,Lucas Moura,BallRecovery
+215601,12,SavedShot,0.7809999847412109,0.55,0.027560779824852943,Toby Alderweireld,h,639,SetPiece,2017,RightFoot,7490,Tottenham,Leicester,5,4,2018-05-13 15:00:00,Lucas Moura,Pass
+215604,18,MissedShots,0.6990000152587891,0.5770000076293945,0.00806862860918045,Victor Wanyama,h,836,OpenPlay,2017,RightFoot,7490,Tottenham,Leicester,5,4,2018-05-13 15:00:00,Danny Rose,Chipped
+215605,22,SavedShot,0.925,0.615,0.02714933268725872,Eric Dier,h,643,FromCorner,2017,Head,7490,Tottenham,Leicester,5,4,2018-05-13 15:00:00,Christian Eriksen,Cross
+215606,23,MissedShots,0.740999984741211,0.5070000076293946,0.039955850690603256,Lucas Moura,h,3293,OpenPlay,2017,RightFoot,7490,Tottenham,Leicester,5,4,2018-05-13 15:00:00,Christian Eriksen,TakeOn
+215612,40,BlockedShot,0.88,0.39799999237060546,0.10718298703432083,Moussa Sissoko,h,772,OpenPlay,2017,RightFoot,7490,Tottenham,Leicester,5,4,2018-05-13 15:00:00,Christian Eriksen,Throughball
+215613,43,BlockedShot,0.799000015258789,0.5729999923706055,0.03698386251926422,Lucas Moura,h,3293,OpenPlay,2017,RightFoot,7490,Tottenham,Leicester,5,4,2018-05-13 15:00:00,Christian Eriksen,Pass
+215614,46,BlockedShot,0.8580000305175781,0.6430000305175781,0.06956076622009277,Christian Eriksen,h,646,OpenPlay,2017,LeftFoot,7490,Tottenham,Leicester,5,4,2018-05-13 15:00:00,,TakeOn
+215616,48,Goal,0.9590000152587891,0.5320000076293945,0.6719915270805359,Erik Lamela,h,644,OpenPlay,2017,LeftFoot,7490,Tottenham,Leicester,5,4,2018-05-13 15:00:00,Kyle Walker-Peters,Pass
+215620,59,Goal,0.9159999847412109,0.519000015258789,0.61574786901474,Erik Lamela,h,644,OpenPlay,2017,LeftFoot,7490,Tottenham,Leicester,5,4,2018-05-13 15:00:00,Kyle Walker-Peters,Pass
+215622,67,MissedShots,0.899000015258789,0.6609999847412109,0.056009441614151,Toby Alderweireld,h,639,SetPiece,2017,RightFoot,7490,Tottenham,Leicester,5,4,2018-05-13 15:00:00,,None
+215624,70,MissedShots,0.7780000305175782,0.3029999923706055,0.020066512748599052,Christian Eriksen,h,646,FromCorner,2017,LeftFoot,7490,Tottenham,Leicester,5,4,2018-05-13 15:00:00,Lucas Moura,Pass
+215626,75,Goal,0.850999984741211,0.5940000152587891,0.04113375395536423,Harry Kane,h,647,OpenPlay,2017,RightFoot,7490,Tottenham,Leicester,5,4,2018-05-13 15:00:00,Danny Rose,TakeOn
+215628,84,MissedShots,0.805,0.720999984741211,0.06323026120662689,Harry Kane,h,647,DirectFreekick,2017,RightFoot,7490,Tottenham,Leicester,5,4,2018-05-13 15:00:00,,Standard
+215599,3,Goal,0.8730000305175781,0.6309999847412109,0.015000305138528347,Jamie Vardy,a,755,SetPiece,2017,Head,7490,Tottenham,Leicester,5,4,2018-05-13 15:00:00,Riyad Mahrez,Cross
+215602,12,MissedShots,0.875,0.645,0.057669270783662796,Kelechi Iheanacho,a,620,OpenPlay,2017,LeftFoot,7490,Tottenham,Leicester,5,4,2018-05-13 15:00:00,,None
+215603,15,Goal,0.845999984741211,0.5270000076293946,0.06688109040260315,Riyad Mahrez,a,750,OpenPlay,2017,LeftFoot,7490,Tottenham,Leicester,5,4,2018-05-13 15:00:00,,None
+215607,25,SavedShot,0.9059999847412109,0.5829999923706055,0.38725849986076355,Demarai Gray,a,762,OpenPlay,2017,RightFoot,7490,Tottenham,Leicester,5,4,2018-05-13 15:00:00,Jamie Vardy,Pass
+215608,25,MissedShots,0.9640000152587891,0.6630000305175782,0.18909114599227905,Harry Maguire,a,1687,FromCorner,2017,LeftFoot,7490,Tottenham,Leicester,5,4,2018-05-13 15:00:00,Jamie Vardy,Pass
+215609,29,SavedShot,0.9019999694824219,0.3729999923706055,0.011649418622255325,Harry Maguire,a,1687,FromCorner,2017,Head,7490,Tottenham,Leicester,5,4,2018-05-13 15:00:00,Demarai Gray,Aerial
+215610,35,MissedShots,0.7609999847412109,0.495,0.03388921916484833,Jamie Vardy,a,755,OpenPlay,2017,RightFoot,7490,Tottenham,Leicester,5,4,2018-05-13 15:00:00,Kelechi Iheanacho,Pass
+215611,38,MissedShots,0.9490000152587891,0.3820000076293945,0.012696554884314537,Harry Maguire,a,1687,FromCorner,2017,Head,7490,Tottenham,Leicester,5,4,2018-05-13 15:00:00,Demarai Gray,Aerial
+215615,46,Goal,0.754000015258789,0.5059999847412109,0.032720278948545456,Kelechi Iheanacho,a,620,OpenPlay,2017,LeftFoot,7490,Tottenham,Leicester,5,4,2018-05-13 15:00:00,,None
+215617,52,OwnGoal,0.05,0.5459999847412109,0,Christian Fuchs,a,749,OpenPlay,2017,RightFoot,7490,Tottenham,Leicester,5,4,2018-05-13 15:00:00,,Aerial
+215618,55,MissedShots,0.9209999847412109,0.36900001525878906,0.07073952257633209,Harry Maguire,a,1687,SetPiece,2017,LeftFoot,7490,Tottenham,Leicester,5,4,2018-05-13 15:00:00,Christian Fuchs,HeadPass
+215619,59,BlockedShot,0.7330000305175781,0.44299999237060544,0.01173813734203577,Hamza Choudhury,a,6418,SetPiece,2017,RightFoot,7490,Tottenham,Leicester,5,4,2018-05-13 15:00:00,,None
+215621,65,SavedShot,0.8690000152587891,0.43400001525878906,0.08421454578638077,Kelechi Iheanacho,a,620,OpenPlay,2017,LeftFoot,7490,Tottenham,Leicester,5,4,2018-05-13 15:00:00,Riyad Mahrez,Pass
+215623,68,SavedShot,0.88,0.3609999847412109,0.0735972672700882,Riyad Mahrez,a,750,OpenPlay,2017,LeftFoot,7490,Tottenham,Leicester,5,4,2018-05-13 15:00:00,Fousseni Diabate,Pass
+215625,72,Goal,0.8919999694824219,0.675,0.10272058844566345,Jamie Vardy,a,755,OpenPlay,2017,LeftFoot,7490,Tottenham,Leicester,5,4,2018-05-13 15:00:00,Riyad Mahrez,Throughball
+215627,77,SavedShot,0.9080000305175782,0.40599998474121096,0.07461151480674744,Kelechi Iheanacho,a,620,OpenPlay,2017,LeftFoot,7490,Tottenham,Leicester,5,4,2018-05-13 15:00:00,,None
+215629,94,MissedShots,0.889000015258789,0.6990000152587891,0.04911063611507416,Jamie Vardy,a,755,OpenPlay,2017,LeftFoot,7490,Tottenham,Leicester,5,4,2018-05-13 15:00:00,Harry Maguire,HeadPass

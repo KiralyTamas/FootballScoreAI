@@ -1,0 +1,24 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+250207,1,MissedShots,0.7669999694824219,0.49599998474121093,0.027942262589931488,Bernardo Silva,h,3635,OpenPlay,2018,LeftFoot,9315,Manchester City,Manchester United,3,1,2018-11-11 16:30:00,Fernandinho,Pass
+250208,3,MissedShots,0.755,0.44799999237060545,0.019273510202765465,Fernandinho,h,614,OpenPlay,2018,RightFoot,9315,Manchester City,Manchester United,3,1,2018-11-11 16:30:00,Riyad Mahrez,Pass
+250209,5,BlockedShot,0.965999984741211,0.645,0.06591087579727173,Raheem Sterling,h,618,OpenPlay,2018,LeftFoot,9315,Manchester City,Manchester United,3,1,2018-11-11 16:30:00,David Silva,Chipped
+250210,11,Goal,0.9319999694824219,0.524000015258789,0.5700768232345581,David Silva,h,617,OpenPlay,2018,RightFoot,9315,Manchester City,Manchester United,3,1,2018-11-11 16:30:00,Bernardo Silva,Pass
+250211,23,BlockedShot,0.855,0.49700000762939456,0.09924006462097168,Sergio Agüero,h,619,OpenPlay,2018,RightFoot,9315,Manchester City,Manchester United,3,1,2018-11-11 16:30:00,,BallRecovery
+250214,30,MissedShots,0.7169999694824218,0.664000015258789,0.016230126842856407,Aymeric Laporte,h,2498,OpenPlay,2018,LeftFoot,9315,Manchester City,Manchester United,3,1,2018-11-11 16:30:00,Kyle Walker,Pass
+250215,33,BlockedShot,0.815,0.475,0.07775416225194931,Raheem Sterling,h,618,OpenPlay,2018,RightFoot,9315,Manchester City,Manchester United,3,1,2018-11-11 16:30:00,Sergio Agüero,Pass
+250217,43,BlockedShot,0.905,0.57,0.045735497027635574,Fernandinho,h,614,FromCorner,2018,Head,9315,Manchester City,Manchester United,3,1,2018-11-11 16:30:00,David Silva,Cross
+250218,43,MissedShots,0.97,0.6509999847412109,0.0930752381682396,Sergio Agüero,h,619,OpenPlay,2018,LeftFoot,9315,Manchester City,Manchester United,3,1,2018-11-11 16:30:00,Bernardo Silva,Pass
+250219,47,Goal,0.9169999694824219,0.33,0.0952112227678299,Sergio Agüero,h,619,OpenPlay,2018,RightFoot,9315,Manchester City,Manchester United,3,1,2018-11-11 16:30:00,Riyad Mahrez,Pass
+250220,53,BlockedShot,0.899000015258789,0.7,0.0764729455113411,Raheem Sterling,h,618,OpenPlay,2018,LeftFoot,9315,Manchester City,Manchester United,3,1,2018-11-11 16:30:00,Bernardo Silva,Pass
+250222,65,BlockedShot,0.7530000305175781,0.38599998474121094,0.020650848746299744,David Silva,h,617,OpenPlay,2018,LeftFoot,9315,Manchester City,Manchester United,3,1,2018-11-11 16:30:00,Bernardo Silva,Pass
+250223,66,SavedShot,0.750999984741211,0.5029999923706054,0.02801528386771679,Fernandinho,h,614,OpenPlay,2018,RightFoot,9315,Manchester City,Manchester United,3,1,2018-11-11 16:30:00,Leroy Sané,Pass
+250224,69,SavedShot,0.755,0.5159999847412109,0.027108484879136086,Fernandinho,h,614,OpenPlay,2018,RightFoot,9315,Manchester City,Manchester United,3,1,2018-11-11 16:30:00,Bernardo Silva,Pass
+250226,73,MissedShots,0.8159999847412109,0.57,0.09327563643455505,Leroy Sané,h,337,OpenPlay,2018,LeftFoot,9315,Manchester City,Manchester United,3,1,2018-11-11 16:30:00,Raheem Sterling,Pass
+250227,80,MissedShots,0.8030000305175782,0.6359999847412109,0.037174224853515625,Ilkay Gündogan,h,314,OpenPlay,2018,RightFoot,9315,Manchester City,Manchester United,3,1,2018-11-11 16:30:00,Raheem Sterling,Pass
+250229,85,Goal,0.9590000152587891,0.5179999923706055,0.6344969868659973,Ilkay Gündogan,h,314,OpenPlay,2018,LeftFoot,9315,Manchester City,Manchester United,3,1,2018-11-11 16:30:00,Bernardo Silva,Cross
+250212,24,BlockedShot,0.8219999694824218,0.68,0.02708352915942669,Anthony Martial,a,553,SetPiece,2018,RightFoot,9315,Manchester City,Manchester United,3,1,2018-11-11 16:30:00,Nemanja Matic,Pass
+250213,25,MissedShots,0.9119999694824219,0.5179999923706055,0.05286434665322304,Chris Smalling,a,628,SetPiece,2018,Head,9315,Manchester City,Manchester United,3,1,2018-11-11 16:30:00,Jesse Lingard,Aerial
+250216,38,BlockedShot,0.8380000305175781,0.75,0.023641908541321754,Anthony Martial,a,553,OpenPlay,2018,RightFoot,9315,Manchester City,Manchester United,3,1,2018-11-11 16:30:00,Marcus Rashford,Pass
+250221,57,Goal,0.885,0.5,0.7611688375473022,Anthony Martial,a,553,Penalty,2018,RightFoot,9315,Manchester City,Manchester United,3,1,2018-11-11 16:30:00,,Standard
+250225,73,BlockedShot,0.86,0.5879999923706055,0.06240641698241234,Nemanja Matic,a,697,SetPiece,2018,RightFoot,9315,Manchester City,Manchester United,3,1,2018-11-11 16:30:00,,None
+250228,82,BlockedShot,0.9119999694824219,0.725999984741211,0.04372476413846016,Juan Mata,a,554,OpenPlay,2018,RightFoot,9315,Manchester City,Manchester United,3,1,2018-11-11 16:30:00,Nemanja Matic,Pass

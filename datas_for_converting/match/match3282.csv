@@ -1,0 +1,22 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+149124,1,MissedShots,0.805,0.59,0.040560074150562286,Giorgio Chiellini,h,1576,OpenPlay,2016,LeftFoot,3282,Juventus,Sampdoria,4,1,2016-10-26 22:45:00,,None
+149125,3,Goal,0.9430000305175781,0.495,0.4827001392841339,Mario Mandzukic,h,1295,OpenPlay,2016,Head,3282,Juventus,Sampdoria,4,1,2016-10-26 22:45:00,Juan Cuadrado,Cross
+149126,8,Goal,0.9419999694824219,0.5220000076293946,0.06942075490951538,Giorgio Chiellini,h,1576,FromCorner,2016,Head,3282,Juventus,Sampdoria,4,1,2016-10-26 22:45:00,Miralem Pjanic,Aerial
+149128,27,MissedShots,0.8959999847412109,0.6530000305175782,0.09901244938373566,Gonzalo Higuaín,h,1293,OpenPlay,2016,LeftFoot,3282,Juventus,Sampdoria,4,1,2016-10-26 22:45:00,Mario Mandzukic,Pass
+149130,30,SavedShot,0.7559999847412109,0.6580000305175782,0.02252946048974991,Patrice Evra,h,1298,OpenPlay,2016,LeftFoot,3282,Juventus,Sampdoria,4,1,2016-10-26 22:45:00,Juan Cuadrado,Pass
+149133,41,MissedShots,0.8930000305175781,0.695,0.04966870695352554,Gonzalo Higuaín,h,1293,OpenPlay,2016,LeftFoot,3282,Juventus,Sampdoria,4,1,2016-10-26 22:45:00,Sami Khedira,BallRecovery
+149135,64,SavedShot,0.9430000305175781,0.6859999847412109,0.06024216115474701,Miralem Pjanic,h,1290,OpenPlay,2016,LeftFoot,3282,Juventus,Sampdoria,4,1,2016-10-26 22:45:00,Juan Cuadrado,HeadPass
+149136,64,Goal,0.955999984741211,0.6040000152587891,0.373348593711853,Miralem Pjanic,h,1290,OpenPlay,2016,RightFoot,3282,Juventus,Sampdoria,4,1,2016-10-26 22:45:00,,Rebound
+149138,68,MissedShots,0.8169999694824219,0.5120000076293946,0.08185287564992905,Gonzalo Higuaín,h,1293,OpenPlay,2016,LeftFoot,3282,Juventus,Sampdoria,4,1,2016-10-26 22:45:00,Alex Sandro,Chipped
+149140,75,SavedShot,0.8919999694824219,0.3890000152587891,0.32872849702835083,Gonzalo Higuaín,h,1293,SetPiece,2016,RightFoot,3282,Juventus,Sampdoria,4,1,2016-10-26 22:45:00,Miralem Pjanic,Throughball
+149141,76,MissedShots,0.8909999847412109,0.5670000076293945,0.013799983076751232,Giorgio Chiellini,h,1576,FromCorner,2016,Head,3282,Juventus,Sampdoria,4,1,2016-10-26 22:45:00,Miralem Pjanic,Aerial
+149143,86,Goal,0.9440000152587891,0.4929999923706055,0.5087576508522034,Giorgio Chiellini,h,1576,SetPiece,2016,Head,3282,Juventus,Sampdoria,4,1,2016-10-26 22:45:00,Juan Cuadrado,Cross
+149144,92,MissedShots,0.8080000305175781,0.54,0.024721337482333183,Sami Khedira,h,1292,OpenPlay,2016,Head,3282,Juventus,Sampdoria,4,1,2016-10-26 22:45:00,Leonardo Bonucci,Chipped
+149127,25,MissedShots,0.735999984741211,0.435,0.015394511632621288,Dennis Praet,a,1234,OpenPlay,2016,RightFoot,3282,Juventus,Sampdoria,4,1,2016-10-26 22:45:00,,BallRecovery
+149129,28,MissedShots,0.6530000305175782,0.69,0.006228602956980467,Ricardo Álvarez,a,1231,OpenPlay,2016,LeftFoot,3282,Juventus,Sampdoria,4,1,2016-10-26 22:45:00,Patrik Schick,LayOff
+149131,30,SavedShot,0.9390000152587891,0.655,0.06610774248838425,Ante Budimir,a,1235,OpenPlay,2016,LeftFoot,3282,Juventus,Sampdoria,4,1,2016-10-26 22:45:00,Patrik Schick,Pass
+149132,37,SavedShot,0.8159999847412109,0.6179999923706054,0.04516010358929634,Ricardo Álvarez,a,1231,OpenPlay,2016,LeftFoot,3282,Juventus,Sampdoria,4,1,2016-10-26 22:45:00,Patrik Schick,Pass
+149134,56,Goal,0.9059999847412109,0.565,0.11592602729797363,Patrik Schick,a,1236,OpenPlay,2016,LeftFoot,3282,Juventus,Sampdoria,4,1,2016-10-26 22:45:00,Dennis Praet,Pass
+149137,67,MissedShots,0.845,0.40900001525878904,0.04715386778116226,Luis Muriel,a,1229,OpenPlay,2016,RightFoot,3282,Juventus,Sampdoria,4,1,2016-10-26 22:45:00,,None
+149139,74,BlockedShot,0.7240000152587891,0.63,0.041866302490234375,Fabio Quagliarella,a,1230,DirectFreekick,2016,RightFoot,3282,Juventus,Sampdoria,4,1,2016-10-26 22:45:00,,Standard
+149142,82,MissedShots,0.6909999847412109,0.6370000076293946,0.009955175220966339,Luis Muriel,a,1229,OpenPlay,2016,RightFoot,3282,Juventus,Sampdoria,4,1,2016-10-26 22:45:00,Luca Cigarini,Pass

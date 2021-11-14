@@ -1,0 +1,25 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+358691,6,MissedShots,0.7340000152587891,0.2560000038146973,0.014498519711196423,Ángel Di María,h,3553,OpenPlay,2019,LeftFoot,12940,Paris Saint Germain,Lyon,4,2,2020-02-09 20:05:00,Marco Verratti,Pass
+358692,13,SavedShot,0.855,0.6780000305175782,0.04190995544195175,Kylian Mbappe-Lottin,h,3423,OpenPlay,2019,RightFoot,12940,Paris Saint Germain,Lyon,4,2,2020-02-09 20:05:00,Ángel Di María,Pass
+358693,13,BlockedShot,0.7130000305175781,0.5309999847412109,0.011833414435386658,Idrissa Gueye,h,668,OpenPlay,2019,RightFoot,12940,Paris Saint Germain,Lyon,4,2,2020-02-09 20:05:00,,Rebound
+358694,21,Goal,0.895,0.29100000381469726,0.0402546152472496,Ángel Di María,h,3553,OpenPlay,2019,LeftFoot,12940,Paris Saint Germain,Lyon,4,2,2020-02-09 20:05:00,Idrissa Gueye,Pass
+358695,25,MissedShots,0.8059999847412109,0.5770000076293945,0.12749572098255157,Ángel Di María,h,3553,DirectFreekick,2019,LeftFoot,12940,Paris Saint Germain,Lyon,4,2,2020-02-09 20:05:00,,Standard
+358696,29,MissedShots,0.8030000305175782,0.6580000305175782,0.03989815339446068,Ángel Di María,h,3553,OpenPlay,2019,LeftFoot,12940,Paris Saint Germain,Lyon,4,2,2020-02-09 20:05:00,Julian Draxler,Pass
+358697,35,BlockedShot,0.8390000152587891,0.3770000076293945,0.08964237570762634,Ángel Di María,h,3553,OpenPlay,2019,LeftFoot,12940,Paris Saint Germain,Lyon,4,2,2020-02-09 20:05:00,,TakeOn
+358698,37,Goal,0.865,0.47200000762939454,0.3854295611381531,Kylian Mbappe-Lottin,h,3423,OpenPlay,2019,RightFoot,12940,Paris Saint Germain,Lyon,4,2,2020-02-09 20:05:00,Thomas Meunier,Pass
+358704,64,MissedShots,0.725,0.38799999237060545,0.012462304905056953,Pablo Sarabia,h,2199,FromCorner,2019,LeftFoot,12940,Paris Saint Germain,Lyon,4,2,2020-02-09 20:05:00,,Aerial
+358705,68,ShotOnPost,0.9359999847412109,0.664000015258789,0.32797008752822876,Kylian Mbappe-Lottin,h,3423,OpenPlay,2019,RightFoot,12940,Paris Saint Germain,Lyon,4,2,2020-02-09 20:05:00,Pablo Sarabia,Throughball
+358708,78,Goal,0.874000015258789,0.4209999847412109,0.3695342540740967,Edinson Cavani,h,3294,OpenPlay,2019,RightFoot,12940,Paris Saint Germain,Lyon,4,2,2020-02-09 20:05:00,Ángel Di María,Pass
+358709,85,MissedShots,0.8880000305175781,0.5640000152587891,0.05137576162815094,Edinson Cavani,h,3294,FromCorner,2019,Head,12940,Paris Saint Germain,Lyon,4,2,2020-02-09 20:05:00,Marco Verratti,Cross
+358710,87,BlockedShot,0.885,0.27700000762939453,0.05553847923874855,Pablo Sarabia,h,2199,OpenPlay,2019,LeftFoot,12940,Paris Saint Germain,Lyon,4,2,2020-02-09 20:05:00,Idrissa Gueye,Pass
+358711,87,BlockedShot,0.7430000305175781,0.46599998474121096,0.016228454187512398,Leandro Paredes,h,1248,OpenPlay,2019,RightFoot,12940,Paris Saint Germain,Lyon,4,2,2020-02-09 20:05:00,,Rebound
+358712,90,SavedShot,0.875999984741211,0.3029999923706055,0.06842436641454697,Pablo Sarabia,h,2199,OpenPlay,2019,LeftFoot,12940,Paris Saint Germain,Lyon,4,2,2020-02-09 20:05:00,Idrissa Gueye,Pass
+358713,93,MissedShots,0.9290000152587891,0.5259999847412109,0.0880020335316658,Presnel Kimpembe,h,3599,SetPiece,2019,RightFoot,12940,Paris Saint Germain,Lyon,4,2,2020-02-09 20:05:00,,None
+358690,5,MissedShots,0.855999984741211,0.7669999694824219,0.025036733597517014,Martin Terrier,a,5611,OpenPlay,2019,RightFoot,12940,Paris Saint Germain,Lyon,4,2,2020-02-09 20:05:00,Houssem Aouar,Pass
+358700,46,OwnGoal,0.06,0.49700000762939456,0,Fernando Marçal,a,5708,OpenPlay,2019,RightFoot,12940,Paris Saint Germain,Lyon,4,2,2020-02-09 20:05:00,,Clearance
+358699,47,MissedShots,0.7659999847412109,0.45799999237060546,0.08073902875185013,Houssem Aouar,a,5733,DirectFreekick,2019,RightFoot,12940,Paris Saint Germain,Lyon,4,2,2020-02-09 20:05:00,,Standard
+358701,51,Goal,0.8290000152587891,0.5609999847412109,0.04569174349308014,Martin Terrier,a,5611,OpenPlay,2019,RightFoot,12940,Paris Saint Germain,Lyon,4,2,2020-02-09 20:05:00,,None
+358702,58,Goal,0.889000015258789,0.4520000076293945,0.5024026036262512,Moussa Dembele,a,7142,OpenPlay,2019,RightFoot,12940,Paris Saint Germain,Lyon,4,2,2020-02-09 20:05:00,Karl Toko Ekambi,Pass
+358703,62,MissedShots,0.8819999694824219,0.42900001525878906,0.09487965703010559,Moussa Dembele,a,7142,OpenPlay,2019,RightFoot,12940,Paris Saint Germain,Lyon,4,2,2020-02-09 20:05:00,Houssem Aouar,Pass
+358706,71,MissedShots,0.94,0.43599998474121093,0.04864940792322159,Karl Toko Ekambi,a,5657,FromCorner,2019,Head,12940,Paris Saint Germain,Lyon,4,2,2020-02-09 20:05:00,Martin Terrier,Aerial
+358707,77,MissedShots,0.955,0.43,0.0769728571176529,Lucas Tousart,a,3743,FromCorner,2019,OtherBodyPart,12940,Paris Saint Germain,Lyon,4,2,2020-02-09 20:05:00,Bertrand Traoré,Cross

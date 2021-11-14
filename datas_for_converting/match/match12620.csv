@@ -1,0 +1,23 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+361649,3,Goal,0.9290000152587891,0.515,0.4374266266822815,Kai Havertz,h,5220,OpenPlay,2019,RightFoot,12620,Bayer Leverkusen,Eintracht Frankfurt,4,0,2020-03-07 14:30:00,Moussa Diaby,Cross
+361650,7,BlockedShot,0.9269999694824219,0.285,0.0637892335653305,Paulinho,h,7067,OpenPlay,2019,RightFoot,12620,Bayer Leverkusen,Eintracht Frankfurt,4,0,2020-03-07 14:30:00,,None
+361651,13,Goal,0.9690000152587891,0.46299999237060546,0.7494491934776306,Karim Bellarabi,h,186,OpenPlay,2019,LeftFoot,12620,Bayer Leverkusen,Eintracht Frankfurt,4,0,2020-03-07 14:30:00,Paulinho,Pass
+361653,36,SavedShot,0.85,0.2979999923706055,0.056403983384370804,Karim Bellarabi,h,186,OpenPlay,2019,RightFoot,12620,Bayer Leverkusen,Eintracht Frankfurt,4,0,2020-03-07 14:30:00,Charles Aránguiz,Pass
+361654,40,MissedShots,0.7730000305175782,0.685,0.019001422449946404,Wendell,h,185,OpenPlay,2019,LeftFoot,12620,Bayer Leverkusen,Eintracht Frankfurt,4,0,2020-03-07 14:30:00,,None
+361655,45,BlockedShot,0.675,0.525,0.012738244608044624,Edmond Tapsoba,h,8317,OpenPlay,2019,RightFoot,12620,Bayer Leverkusen,Eintracht Frankfurt,4,0,2020-03-07 14:30:00,Charles Aránguiz,Pass
+361656,48,Goal,0.919000015258789,0.3559999847412109,0.3458184599876404,Paulinho,h,7067,OpenPlay,2019,RightFoot,12620,Bayer Leverkusen,Eintracht Frankfurt,4,0,2020-03-07 14:30:00,Karim Bellarabi,TakeOn
+361659,54,Goal,0.919000015258789,0.39599998474121095,0.4956405460834503,Paulinho,h,7067,OpenPlay,2019,RightFoot,12620,Bayer Leverkusen,Eintracht Frankfurt,4,0,2020-03-07 14:30:00,Kai Havertz,Throughball
+361660,57,MissedShots,0.8,0.6459999847412109,0.09738307446241379,Moussa Diaby,h,6556,OpenPlay,2019,LeftFoot,12620,Bayer Leverkusen,Eintracht Frankfurt,4,0,2020-03-07 14:30:00,Paulinho,Pass
+361663,76,MissedShots,0.8190000152587891,0.5520000076293945,0.07851165533065796,Paulinho,h,7067,OpenPlay,2019,RightFoot,12620,Bayer Leverkusen,Eintracht Frankfurt,4,0,2020-03-07 14:30:00,Exequiel Palacios,Pass
+361665,79,MissedShots,0.8190000152587891,0.5779999923706055,0.10580965876579285,Paulinho,h,7067,OpenPlay,2019,RightFoot,12620,Bayer Leverkusen,Eintracht Frankfurt,4,0,2020-03-07 14:30:00,Moussa Diaby,Pass
+361666,79,BlockedShot,0.875,0.43599998474121093,0.1258472055196762,Leon Bailey,h,5221,OpenPlay,2019,LeftFoot,12620,Bayer Leverkusen,Eintracht Frankfurt,4,0,2020-03-07 14:30:00,,Rebound
+361668,86,BlockedShot,0.8080000305175781,0.27600000381469725,0.03338593617081642,Karim Bellarabi,h,186,OpenPlay,2019,RightFoot,12620,Bayer Leverkusen,Eintracht Frankfurt,4,0,2020-03-07 14:30:00,Leon Bailey,Pass
+361648,1,SavedShot,0.8490000152587891,0.5420000076293945,0.09082067757844925,Daichi Kamada,a,6145,OpenPlay,2019,LeftFoot,12620,Bayer Leverkusen,Eintracht Frankfurt,4,0,2020-03-07 14:30:00,Filip Kostic,Pass
+361652,16,SavedShot,0.885,0.725999984741211,0.02236398309469223,Filip Kostic,a,64,OpenPlay,2019,LeftFoot,12620,Bayer Leverkusen,Eintracht Frankfurt,4,0,2020-03-07 14:30:00,Sebastian Rode,Chipped
+361657,53,SavedShot,0.9,0.500999984741211,0.33175814151763916,Martin Hinteregger,a,2668,SetPiece,2019,LeftFoot,12620,Bayer Leverkusen,Eintracht Frankfurt,4,0,2020-03-07 14:30:00,Daichi Kamada,Chipped
+361658,53,MissedShots,0.9330000305175781,0.49700000762939456,0.5972704291343689,Martin Hinteregger,a,2668,SetPiece,2019,LeftFoot,12620,Bayer Leverkusen,Eintracht Frankfurt,4,0,2020-03-07 14:30:00,,Rebound
+361661,75,BlockedShot,0.845,0.745,0.025730524212121964,Filip Kostic,a,64,OpenPlay,2019,LeftFoot,12620,Bayer Leverkusen,Eintracht Frankfurt,4,0,2020-03-07 14:30:00,Sebastian Rode,BallRecovery
+361662,75,MissedShots,0.9319999694824219,0.545,0.05408009886741638,Gonçalo Paciência,a,7051,FromCorner,2019,Head,12620,Bayer Leverkusen,Eintracht Frankfurt,4,0,2020-03-07 14:30:00,Mijat Gacinovic,Aerial
+361664,77,BlockedShot,0.8490000152587891,0.555,0.06004684790968895,Evan Ndicka,a,7049,FromCorner,2019,LeftFoot,12620,Bayer Leverkusen,Eintracht Frankfurt,4,0,2020-03-07 14:30:00,Sebastian Rode,HeadPass
+361667,81,MissedShots,0.9119999694824219,0.4909999847412109,0.1121583878993988,Evan Ndicka,a,7049,SetPiece,2019,Head,12620,Bayer Leverkusen,Eintracht Frankfurt,4,0,2020-03-07 14:30:00,Filip Kostic,Cross
+361669,89,MissedShots,0.6890000152587891,0.3270000076293945,0.008704659529030323,Mijat Gacinovic,a,290,OpenPlay,2019,RightFoot,12620,Bayer Leverkusen,Eintracht Frankfurt,4,0,2020-03-07 14:30:00,Sebastian Rode,Pass

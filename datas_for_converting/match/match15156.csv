@@ -1,0 +1,25 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+423804,4,BlockedShot,0.769000015258789,0.32,0.030204875394701958,Jawad El Yamiq,h,6546,SetPiece,2020,LeftFoot,15156,Real Valladolid,Atletico Madrid,1,2,2021-05-22 16:00:00,,TakeOn
+423806,9,SavedShot,0.7480000305175781,0.605,0.01872408203780651,Toni Villa,h,6919,OpenPlay,2020,RightFoot,15156,Real Valladolid,Atletico Madrid,1,2,2021-05-22 16:00:00,Marcos de Sousa,TakeOn
+423808,17,Goal,0.86,0.415,0.286050021648407,Óscar Plano,h,6921,OpenPlay,2020,RightFoot,15156,Real Valladolid,Atletico Madrid,1,2,2021-05-22 16:00:00,Marcos de Sousa,Pass
+423809,25,MissedShots,0.7180000305175781,0.590999984741211,0.008130939677357674,Lucas Olaza,h,7514,FromCorner,2020,LeftFoot,15156,Real Valladolid,Atletico Madrid,1,2,2021-05-22 16:00:00,Roque Mesa,Chipped
+423813,37,SavedShot,0.8809999847412109,0.5279999923706055,0.08957765996456146,Shon Weissman,h,8761,OpenPlay,2020,Head,15156,Real Valladolid,Atletico Madrid,1,2,2021-05-22 16:00:00,Lucas Olaza,Cross
+423820,61,SavedShot,0.6809999847412109,0.725999984741211,0.012751872651278973,Lucas Olaza,h,7514,OpenPlay,2020,LeftFoot,15156,Real Valladolid,Atletico Madrid,1,2,2021-05-22 16:00:00,Fede San Emeterio,Pass
+423821,61,MissedShots,0.9209999847412109,0.47900001525878905,0.4286191761493683,Shon Weissman,h,8761,OpenPlay,2020,Head,15156,Real Valladolid,Atletico Madrid,1,2,2021-05-22 16:00:00,,None
+423823,75,MissedShots,0.919000015258789,0.785,0.02614913508296013,Lucas Olaza,h,7514,OpenPlay,2020,LeftFoot,15156,Real Valladolid,Atletico Madrid,1,2,2021-05-22 16:00:00,,None
+423825,82,MissedShots,0.8980000305175782,0.4159999847412109,0.01590387150645256,Jawad El Yamiq,h,6546,FromCorner,2020,Head,15156,Real Valladolid,Atletico Madrid,1,2,2021-05-22 16:00:00,Pablo Hervías,Aerial
+423827,89,MissedShots,0.8680000305175781,0.555,0.07952327281236649,Sergi Guardiola,h,5212,OpenPlay,2020,LeftFoot,15156,Real Valladolid,Atletico Madrid,1,2,2021-05-22 16:00:00,Shon Weissman,Pass
+423805,8,MissedShots,0.9669999694824218,0.3220000076293945,0.05714990943670273,Luis Suárez,a,2098,OpenPlay,2020,RightFoot,15156,Real Valladolid,Atletico Madrid,1,2,2021-05-22 16:00:00,,None
+423807,11,BlockedShot,0.9009999847412109,0.5309999847412109,0.04977639019489288,Saúl Ñíguez,a,2266,OpenPlay,2020,Head,15156,Real Valladolid,Atletico Madrid,1,2,2021-05-22 16:00:00,Kieran Trippier,Aerial
+423810,26,SavedShot,0.925,0.509000015258789,0.045894499868154526,Giménez,a,2278,FromCorner,2020,OtherBodyPart,15156,Real Valladolid,Atletico Madrid,1,2,2021-05-22 16:00:00,Koke,Aerial
+423811,31,BlockedShot,0.8809999847412109,0.37900001525878907,0.06347104907035828,Luis Suárez,a,2098,OpenPlay,2020,LeftFoot,15156,Real Valladolid,Atletico Madrid,1,2,2021-05-22 16:00:00,Saúl Ñíguez,Chipped
+423812,32,MissedShots,0.9530000305175781,0.51,0.13724581897258759,Felipe,a,7921,FromCorner,2020,Head,15156,Real Valladolid,Atletico Madrid,1,2,2021-05-22 16:00:00,Koke,Cross
+423814,44,MissedShots,0.769000015258789,0.395,0.026455897837877274,Marcos Llorente,a,2518,OpenPlay,2020,RightFoot,15156,Real Valladolid,Atletico Madrid,1,2,2021-05-22 16:00:00,Saúl Ñíguez,Pass
+423815,45,MissedShots,0.895,0.4570000076293945,0.035475607961416245,Luis Suárez,a,2098,OpenPlay,2020,Head,15156,Real Valladolid,Atletico Madrid,1,2,2021-05-22 16:00:00,,None
+423816,48,BlockedShot,0.895,0.31,0.04830147325992584,Marcos Llorente,a,2518,OpenPlay,2020,RightFoot,15156,Real Valladolid,Atletico Madrid,1,2,2021-05-22 16:00:00,,None
+423817,49,MissedShots,0.9259999847412109,0.51,0.11967633664608002,Giménez,a,2278,FromCorner,2020,Head,15156,Real Valladolid,Atletico Madrid,1,2,2021-05-22 16:00:00,Koke,Cross
+423818,51,MissedShots,0.9080000305175782,0.49700000762939456,0.11027035862207413,Mario Hermoso,a,6136,SetPiece,2020,Head,15156,Real Valladolid,Atletico Madrid,1,2,2021-05-22 16:00:00,Yannick Carrasco,Cross
+423819,56,Goal,0.8180000305175781,0.5270000076293946,0.06521335244178772,Ángel Correa,a,2275,OpenPlay,2020,RightFoot,15156,Real Valladolid,Atletico Madrid,1,2,2021-05-22 16:00:00,Yannick Carrasco,TakeOn
+423822,66,Goal,0.8480000305175781,0.5770000076293945,0.3550361692905426,Luis Suárez,a,2098,OpenPlay,2020,LeftFoot,15156,Real Valladolid,Atletico Madrid,1,2,2021-05-22 16:00:00,,BallRecovery
+423824,77,MissedShots,0.870999984741211,0.3920000076293945,0.11426886171102524,Yannick Carrasco,a,2272,OpenPlay,2020,RightFoot,15156,Real Valladolid,Atletico Madrid,1,2,2021-05-22 16:00:00,Luis Suárez,Pass
+423826,88,MissedShots,0.9519999694824218,0.710999984741211,0.06336015462875366,Geoffrey Kondogbia,a,1516,OpenPlay,2020,LeftFoot,15156,Real Valladolid,Atletico Madrid,1,2,2021-05-22 16:00:00,,None

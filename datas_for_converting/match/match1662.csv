@@ -1,0 +1,25 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+91845,2,MissedShots,0.8519999694824218,0.5929999923706055,0.07204385846853256,Gonzalo Castro,h,2342,OpenPlay,2015,LeftFoot,1662,Malaga,Valencia,1,2,2016-03-02 23:00:00,Duje Cop,BallTouch
+91847,13,Goal,0.87,0.62,0.06535113602876663,Duje Cop,h,2340,OpenPlay,2015,RightFoot,1662,Malaga,Valencia,1,2,2016-03-02 23:00:00,,None
+91850,40,OwnGoal,0.025999999046325682,0.4909999847412109,0,Carlos Kameni,h,2348,OpenPlay,2015,OtherBodyPart,1662,Malaga,Valencia,1,2,2016-03-02 23:00:00,,BallTouch
+91851,42,BlockedShot,0.785,0.754000015258789,0.01971502974629402,Ricardo Horta,h,2338,OpenPlay,2015,RightFoot,1662,Malaga,Valencia,1,2,2016-03-02 23:00:00,Charles,Pass
+91856,50,MissedShots,0.785,0.26,0.013937133364379406,Gonzalo Castro,h,2342,OpenPlay,2015,LeftFoot,1662,Malaga,Valencia,1,2,2016-03-02 23:00:00,,None
+91857,53,MissedShots,0.85,0.500999984741211,0.06299781799316406,Ricardo Horta,h,2338,OpenPlay,2015,RightFoot,1662,Malaga,Valencia,1,2,2016-03-02 23:00:00,,None
+91861,65,MissedShots,0.7619999694824219,0.48900001525878906,0.025930628180503845,Roberto Rosales,h,2331,OpenPlay,2015,RightFoot,1662,Malaga,Valencia,1,2,2016-03-02 23:00:00,,None
+91862,65,BlockedShot,0.855999984741211,0.4909999847412109,0.0821586325764656,Ricardo Horta,h,2338,FromCorner,2015,RightFoot,1662,Malaga,Valencia,1,2,2016-03-02 23:00:00,Roberto Rosales,Rebound
+91864,81,MissedShots,0.8830000305175781,0.48900001525878906,0.02219051867723465,Egor Filipenko,h,2438,SetPiece,2015,Head,1662,Malaga,Valencia,1,2,2016-03-02 23:00:00,Gonzalo Castro,Aerial
+91865,82,BlockedShot,0.865999984741211,0.6780000305175782,0.037461057305336,Recio,h,2337,FromCorner,2015,RightFoot,1662,Malaga,Valencia,1,2,2016-03-02 23:00:00,,None
+91867,90,MissedShots,0.879000015258789,0.515,0.022180454805493355,Egor Filipenko,h,2438,OpenPlay,2015,Head,1662,Malaga,Valencia,1,2,2016-03-02 23:00:00,Christian Atsu,Aerial
+91868,93,MissedShots,0.7680000305175781,0.6270000076293946,0.01159562449902296,Miguel Torres,h,2334,OpenPlay,2015,LeftFoot,1662,Malaga,Valencia,1,2,2016-03-02 23:00:00,,Aerial
+91846,11,BlockedShot,0.9469999694824218,0.7480000305175781,0.043475400656461716,André Gomes,a,2383,OpenPlay,2015,LeftFoot,1662,Malaga,Valencia,1,2,2016-03-02 23:00:00,,Dispossessed
+91848,39,BlockedShot,0.909000015258789,0.5059999847412109,0.09135503321886063,Shkodran Mustafi,a,1699,FromCorner,2015,Head,1662,Malaga,Valencia,1,2,2016-03-02 23:00:00,Daniel Parejo,Cross
+91849,39,SavedShot,0.955999984741211,0.53,0.611121416091919,Aderlan Santos,a,2474,FromCorner,2015,RightFoot,1662,Malaga,Valencia,1,2,2016-03-02 23:00:00,Shkodran Mustafi,Rebound
+91852,46,BlockedShot,0.87,0.7330000305175781,0.04020724818110466,Denis Cheryshev,a,2494,OpenPlay,2015,RightFoot,1662,Malaga,Valencia,1,2,2016-03-02 23:00:00,Javi Fuego,Chipped
+91853,46,BlockedShot,0.7569999694824219,0.5370000076293945,0.02225843071937561,Daniel Parejo,a,2378,OpenPlay,2015,RightFoot,1662,Malaga,Valencia,1,2,2016-03-02 23:00:00,Paco Alcácer,Pass
+91854,48,BlockedShot,0.77,0.3189999961853027,0.015204773284494877,Shkodran Mustafi,a,1699,OpenPlay,2015,RightFoot,1662,Malaga,Valencia,1,2,2016-03-02 23:00:00,,None
+91855,49,Goal,0.8830000305175781,0.645,0.2647058963775635,Denis Cheryshev,a,2494,OpenPlay,2015,LeftFoot,1662,Malaga,Valencia,1,2,2016-03-02 23:00:00,André Gomes,Pass
+91858,54,MissedShots,0.7280000305175781,0.6609999847412109,0.02424445189535618,Paco Alcácer,a,2380,OpenPlay,2015,RightFoot,1662,Malaga,Valencia,1,2,2016-03-02 23:00:00,José Gayá,Pass
+91859,58,BlockedShot,0.9069999694824219,0.5220000076293946,0.08439977467060089,Shkodran Mustafi,a,1699,FromCorner,2015,Head,1662,Malaga,Valencia,1,2,2016-03-02 23:00:00,Daniel Parejo,Cross
+91860,58,MissedShots,0.9,0.47900001525878905,0.12321680784225464,Shkodran Mustafi,a,1699,FromCorner,2015,RightFoot,1662,Malaga,Valencia,1,2,2016-03-02 23:00:00,,Rebound
+91863,72,BlockedShot,0.85,0.3579999923706055,0.06253441423177719,Rodrigo,a,2381,OpenPlay,2015,LeftFoot,1662,Malaga,Valencia,1,2,2016-03-02 23:00:00,Paco Alcácer,Pass
+91866,84,MissedShots,0.970999984741211,0.28,0.07115209847688675,Rodrigo,a,2381,OpenPlay,2015,RightFoot,1662,Malaga,Valencia,1,2,2016-03-02 23:00:00,Daniel Parejo,Pass

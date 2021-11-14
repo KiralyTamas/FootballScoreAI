@@ -1,0 +1,31 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+26091,24,BlockedShot,0.905,0.24600000381469728,0.0138985775411129,Antonio Rüdiger,h,1822,SetPiece,2014,RightFoot,5396,VfB Stuttgart,Bayer Leverkusen,3,3,2014-10-18 14:30:00,,Aerial
+26092,24,MissedShots,0.895,0.56,0.045114241540431976,Georg Niedermeier,h,58,FromCorner,2014,Head,5396,VfB Stuttgart,Bayer Leverkusen,3,3,2014-10-18 14:30:00,Moritz Leitner,Cross
+26093,24,MissedShots,0.9740000152587891,0.4370000076293945,0.1437256783246994,Christian Gentner,h,60,FromCorner,2014,RightFoot,5396,VfB Stuttgart,Bayer Leverkusen,3,3,2014-10-18 14:30:00,Georg Niedermeier,Rebound
+26099,37,MissedShots,0.9219999694824219,0.46599998474121096,0.09188446402549744,Antonio Rüdiger,h,1822,SetPiece,2014,Head,5396,VfB Stuttgart,Bayer Leverkusen,3,3,2014-10-18 14:30:00,Florian Klein,Chipped
+26104,50,MissedShots,0.81,0.33299999237060546,0.028062915429472923,Martin Harnik,h,407,OpenPlay,2014,LeftFoot,5396,VfB Stuttgart,Bayer Leverkusen,3,3,2014-10-18 14:30:00,Christian Gentner,Pass
+26105,56,Goal,0.9359999847412109,0.54,0.118065744638443,Timo Werner,h,65,OpenPlay,2014,Head,5396,VfB Stuttgart,Bayer Leverkusen,3,3,2014-10-18 14:30:00,Florian Klein,Chipped
+26107,66,Goal,0.7440000152587891,0.549000015258789,0.013395596295595169,Florian Klein,h,383,SetPiece,2014,RightFoot,5396,VfB Stuttgart,Bayer Leverkusen,3,3,2014-10-18 14:30:00,,None
+26108,75,Goal,0.9890000152587891,0.5509999847412109,0.6915351748466492,Martin Harnik,h,407,SetPiece,2014,Head,5396,VfB Stuttgart,Bayer Leverkusen,3,3,2014-10-18 14:30:00,Filip Kostic,Cross
+26111,83,SavedShot,0.7269999694824218,0.870999984741211,0.024584408849477768,Alexandru Maxim,h,63,DirectFreekick,2014,RightFoot,5396,VfB Stuttgart,Bayer Leverkusen,3,3,2014-10-18 14:30:00,,Standard
+26113,90,SavedShot,0.905,0.385,0.04409366473555565,Martin Harnik,h,407,FromCorner,2014,LeftFoot,5396,VfB Stuttgart,Bayer Leverkusen,3,3,2014-10-18 14:30:00,,TakeOn
+26114,91,MissedShots,0.855999984741211,0.754000015258789,0.019700629636645317,Filip Kostic,h,64,OpenPlay,2014,LeftFoot,5396,VfB Stuttgart,Bayer Leverkusen,3,3,2014-10-18 14:30:00,Martin Harnik,Chipped
+26115,92,SavedShot,0.9309999847412109,0.43900001525878907,0.06055687740445137,Martin Harnik,h,407,OpenPlay,2014,Head,5396,VfB Stuttgart,Bayer Leverkusen,3,3,2014-10-18 14:30:00,Christian Gentner,Aerial
+26116,92,MissedShots,0.745,0.565,0.01653110794723034,Filip Kostic,h,64,FromCorner,2014,RightFoot,5396,VfB Stuttgart,Bayer Leverkusen,3,3,2014-10-18 14:30:00,,None
+26087,3,Goal,0.909000015258789,0.40599998474121096,0.34377920627593994,Son Heung-Min,a,453,OpenPlay,2014,LeftFoot,5396,VfB Stuttgart,Bayer Leverkusen,3,3,2014-10-18 14:30:00,Stefan Kießling,TakeOn
+26088,8,Goal,0.6459999847412109,0.21799999237060547,0.009755097329616547,Son Heung-Min,a,453,OpenPlay,2014,RightFoot,5396,VfB Stuttgart,Bayer Leverkusen,3,3,2014-10-18 14:30:00,,BallTouch
+26089,10,ShotOnPost,0.8540000152587891,0.29399999618530276,0.35200202465057373,Son Heung-Min,a,453,OpenPlay,2014,RightFoot,5396,VfB Stuttgart,Bayer Leverkusen,3,3,2014-10-18 14:30:00,Julian Brandt,Throughball
+26090,22,MissedShots,0.9159999847412109,0.4640000152587891,0.03769220784306526,Stefan Kießling,a,190,FromCorner,2014,Head,5396,VfB Stuttgart,Bayer Leverkusen,3,3,2014-10-18 14:30:00,Son Heung-Min,Aerial
+26094,25,SavedShot,0.8030000305175782,0.41,0.06899569928646088,Karim Bellarabi,a,186,OpenPlay,2014,RightFoot,5396,VfB Stuttgart,Bayer Leverkusen,3,3,2014-10-18 14:30:00,Stefan Kießling,HeadPass
+26095,28,MissedShots,0.71,0.5990000152587891,0.010047096759080887,Stefan Reinartz,a,286,OpenPlay,2014,RightFoot,5396,VfB Stuttgart,Bayer Leverkusen,3,3,2014-10-18 14:30:00,,Aerial
+26096,30,MissedShots,0.725,0.53,0.019246727228164673,Hakan Calhanoglu,a,189,OpenPlay,2014,RightFoot,5396,VfB Stuttgart,Bayer Leverkusen,3,3,2014-10-18 14:30:00,Tin Jedvaj,Pass
+26097,32,ShotOnPost,0.980999984741211,0.3509999847412109,0.07445526868104935,Stefan Kießling,a,190,OpenPlay,2014,RightFoot,5396,VfB Stuttgart,Bayer Leverkusen,3,3,2014-10-18 14:30:00,,None
+26098,33,MissedShots,0.9580000305175781,0.425,0.05874967202544212,Stefan Kießling,a,190,FromCorner,2014,Head,5396,VfB Stuttgart,Bayer Leverkusen,3,3,2014-10-18 14:30:00,Stefan Reinartz,HeadPass
+26100,37,MissedShots,0.845999984741211,0.3370000076293945,0.38017740845680237,Karim Bellarabi,a,186,OpenPlay,2014,RightFoot,5396,VfB Stuttgart,Bayer Leverkusen,3,3,2014-10-18 14:30:00,Stefan Reinartz,Throughball
+26101,40,Goal,0.8580000305175781,0.37900001525878907,0.12523253262043,Karim Bellarabi,a,186,OpenPlay,2014,LeftFoot,5396,VfB Stuttgart,Bayer Leverkusen,3,3,2014-10-18 14:30:00,Son Heung-Min,TakeOn
+26102,41,BlockedShot,0.894000015258789,0.3039999961853027,0.07389787584543228,Karim Bellarabi,a,186,OpenPlay,2014,RightFoot,5396,VfB Stuttgart,Bayer Leverkusen,3,3,2014-10-18 14:30:00,Julian Brandt,Pass
+26103,47,MissedShots,0.8980000305175782,0.3770000076293945,0.0953410416841507,Roberto Hilbert,a,182,OpenPlay,2014,RightFoot,5396,VfB Stuttgart,Bayer Leverkusen,3,3,2014-10-18 14:30:00,Karim Bellarabi,Cross
+26106,59,BlockedShot,0.879000015258789,0.4809999847412109,0.1371617615222931,Karim Bellarabi,a,186,OpenPlay,2014,RightFoot,5396,VfB Stuttgart,Bayer Leverkusen,3,3,2014-10-18 14:30:00,Stefan Kießling,Pass
+26109,81,SavedShot,0.87,0.4570000076293945,0.021517539396882057,Son Heung-Min,a,453,OpenPlay,2014,Head,5396,VfB Stuttgart,Bayer Leverkusen,3,3,2014-10-18 14:30:00,Roberto Hilbert,Aerial
+26110,81,BlockedShot,0.9490000152587891,0.5729999923706055,0.048943083733320236,Josip Drmic,a,209,FromCorner,2014,Head,5396,VfB Stuttgart,Bayer Leverkusen,3,3,2014-10-18 14:30:00,Son Heung-Min,Aerial
+26112,83,MissedShots,0.6919999694824219,0.664000015258789,0.011246368288993835,Emir Spahic,a,165,OpenPlay,2014,LeftFoot,5396,VfB Stuttgart,Bayer Leverkusen,3,3,2014-10-18 14:30:00,Son Heung-Min,Pass

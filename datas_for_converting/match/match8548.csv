@@ -1,0 +1,28 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+213081,3,Goal,0.799000015258789,0.555,0.04339060187339783,Martin Harnik,h,407,OpenPlay,2017,LeftFoot,8548,Hannover 96,Hertha Berlin,3,1,2018-05-05 14:30:00,Niclas Füllkrug,HeadPass
+213083,22,BlockedShot,0.8040000152587891,0.5370000076293945,0.0444297268986702,Martin Harnik,h,407,OpenPlay,2017,RightFoot,8548,Hannover 96,Hertha Berlin,3,1,2018-05-05 14:30:00,Salif Sané,HeadPass
+213084,22,BlockedShot,0.8430000305175781,0.605999984741211,0.06565438210964203,Kenan Karaman,h,98,OpenPlay,2017,LeftFoot,8548,Hannover 96,Hertha Berlin,3,1,2018-05-05 14:30:00,,Rebound
+213085,22,SavedShot,0.9419999694824219,0.5029999923706054,0.6319851279258728,Niclas Füllkrug,h,6098,OpenPlay,2017,LeftFoot,8548,Hannover 96,Hertha Berlin,3,1,2018-05-05 14:30:00,,Rebound
+213087,30,MissedShots,0.7669999694824219,0.32099998474121094,0.01236113253980875,Ihlas Bebou,h,6271,SetPiece,2017,RightFoot,8548,Hannover 96,Hertha Berlin,3,1,2018-05-05 14:30:00,,None
+213092,37,ShotOnPost,0.904000015258789,0.25799999237060545,0.031343813985586166,Niclas Füllkrug,h,6098,OpenPlay,2017,RightFoot,8548,Hannover 96,Hertha Berlin,3,1,2018-05-05 14:30:00,Philipp Tschauner,Pass
+213093,39,Goal,0.9290000152587891,0.5479999923706055,0.3606756627559662,Salif Sané,h,96,SetPiece,2017,Head,8548,Hannover 96,Hertha Berlin,3,1,2018-05-05 14:30:00,Pirmin Schwegler,Cross
+213094,41,Goal,0.9019999694824219,0.3120000076293945,0.11031734198331833,Niclas Füllkrug,h,6098,OpenPlay,2017,RightFoot,8548,Hannover 96,Hertha Berlin,3,1,2018-05-05 14:30:00,Timo Hübers,Pass
+213099,58,SavedShot,0.855,0.5459999847412109,0.09351234883069992,Martin Harnik,h,407,OpenPlay,2017,LeftFoot,8548,Hannover 96,Hertha Berlin,3,1,2018-05-05 14:30:00,Timo Hübers,Pass
+213100,62,MissedShots,0.8480000305175781,0.3890000152587891,0.07057516276836395,Ihlas Bebou,h,6271,OpenPlay,2017,RightFoot,8548,Hannover 96,Hertha Berlin,3,1,2018-05-05 14:30:00,,None
+213103,75,MissedShots,0.904000015258789,0.5570000076293945,0.14007049798965454,Martin Harnik,h,407,OpenPlay,2017,LeftFoot,8548,Hannover 96,Hertha Berlin,3,1,2018-05-05 14:30:00,Niclas Füllkrug,Pass
+213080,0,MissedShots,0.865,0.5329999923706055,0.09925185889005661,Salomon Kalou,a,26,OpenPlay,2017,RightFoot,8548,Hannover 96,Hertha Berlin,3,1,2018-05-05 14:30:00,Valentino Lazaro,Pass
+213082,8,MissedShots,0.9180000305175782,0.5540000152587891,0.0819159671664238,Davie Selke,a,4280,OpenPlay,2017,Head,8548,Hannover 96,Hertha Berlin,3,1,2018-05-05 14:30:00,Vladimir Darida,Cross
+213086,25,MissedShots,0.909000015258789,0.47200000762939454,0.08411653339862823,Davie Selke,a,4280,OpenPlay,2017,Head,8548,Hannover 96,Hertha Berlin,3,1,2018-05-05 14:30:00,Mathew Leckie,Cross
+213088,32,BlockedShot,0.7859999847412109,0.7269999694824218,0.018660223111510277,Vladimir Darida,a,27,OpenPlay,2017,RightFoot,8548,Hannover 96,Hertha Berlin,3,1,2018-05-05 14:30:00,Valentino Lazaro,Pass
+213089,34,MissedShots,0.8430000305175781,0.655,0.033995091915130615,Vladimir Darida,a,27,FromCorner,2017,LeftFoot,8548,Hannover 96,Hertha Berlin,3,1,2018-05-05 14:30:00,,None
+213090,34,BlockedShot,0.9019999694824219,0.46,0.09576974809169769,Mathew Leckie,a,241,FromCorner,2017,RightFoot,8548,Hannover 96,Hertha Berlin,3,1,2018-05-05 14:30:00,Vladimir Darida,None
+213091,34,BlockedShot,0.8909999847412109,0.534000015258789,0.1088738813996315,Salomon Kalou,a,26,FromCorner,2017,RightFoot,8548,Hannover 96,Hertha Berlin,3,1,2018-05-05 14:30:00,,Rebound
+213095,46,BlockedShot,0.899000015258789,0.5359999847412109,0.11737128347158432,Davie Selke,a,4280,OpenPlay,2017,LeftFoot,8548,Hannover 96,Hertha Berlin,3,1,2018-05-05 14:30:00,Mathew Leckie,Pass
+213096,49,BlockedShot,0.785,0.720999984741211,0.057405952364206314,Valentino Lazaro,a,6352,DirectFreekick,2017,RightFoot,8548,Hannover 96,Hertha Berlin,3,1,2018-05-05 14:30:00,,Standard
+213097,49,ShotOnPost,0.915,0.51,0.06306575238704681,Davie Selke,a,4280,OpenPlay,2017,Head,8548,Hannover 96,Hertha Berlin,3,1,2018-05-05 14:30:00,Peter Pekarík,Aerial
+213098,54,BlockedShot,0.7609999847412109,0.5690000152587891,0.01623089425265789,Vladimir Darida,a,27,SetPiece,2017,LeftFoot,8548,Hannover 96,Hertha Berlin,3,1,2018-05-05 14:30:00,,None
+213101,70,BlockedShot,0.8440000152587891,0.42200000762939455,0.12373202294111252,Peter Pekarík,a,443,OpenPlay,2017,RightFoot,8548,Hannover 96,Hertha Berlin,3,1,2018-05-05 14:30:00,,TakeOn
+213102,72,Goal,0.885,0.28299999237060547,0.08014309406280518,Davie Selke,a,4280,OpenPlay,2017,RightFoot,8548,Hannover 96,Hertha Berlin,3,1,2018-05-05 14:30:00,Vladimir Darida,Throughball
+213104,78,MissedShots,0.794000015258789,0.6170000076293946,0.02358275093138218,Maximilian Mittelstädt,a,419,FromCorner,2017,LeftFoot,8548,Hannover 96,Hertha Berlin,3,1,2018-05-05 14:30:00,,None
+213105,78,SavedShot,0.9569999694824218,0.34900001525878904,0.029878050088882446,Mathew Leckie,a,241,OpenPlay,2017,RightFoot,8548,Hannover 96,Hertha Berlin,3,1,2018-05-05 14:30:00,Marvin Plattenhardt,Cross
+213106,84,MissedShots,0.8930000305175781,0.46700000762939453,0.04849911108613014,Davie Selke,a,4280,OpenPlay,2017,Head,8548,Hannover 96,Hertha Berlin,3,1,2018-05-05 14:30:00,Marvin Plattenhardt,Aerial

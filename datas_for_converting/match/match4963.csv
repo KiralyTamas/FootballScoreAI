@@ -1,0 +1,25 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+45870,1,MissedShots,0.735,0.3609999847412109,0.01276035513728857,Tomás Rincón,h,1099,OpenPlay,2014,LeftFoot,4963,Genoa,Atalanta,2,2,2015-01-06 14:00:00,,None
+45871,2,SavedShot,0.924000015258789,0.655,0.05655164644122124,Alessandro Matri,h,1472,FromCorner,2014,RightFoot,4963,Genoa,Atalanta,2,2,2015-01-06 14:00:00,,None
+45872,5,MissedShots,0.935,0.48700000762939455,0.4659534990787506,Edenilson,h,1097,OpenPlay,2014,Head,4963,Genoa,Atalanta,2,2,2015-01-06 14:00:00,Maxime Lestienne,Cross
+45873,11,MissedShots,0.94,0.6580000305175782,0.012329259887337685,Andrea Bertolacci,h,1641,FromCorner,2014,Head,4963,Genoa,Atalanta,2,2,2015-01-06 14:00:00,Maxime Lestienne,Aerial
+45874,20,BlockedShot,0.8919999694824219,0.42700000762939455,0.0529453381896019,Alessandro Matri,h,1472,SetPiece,2014,Head,4963,Genoa,Atalanta,2,2,2015-01-06 14:00:00,Edenilson,Cross
+45875,20,SavedShot,0.7819999694824219,0.6930000305175781,0.022580862045288086,Alessandro Matri,h,1472,OpenPlay,2014,RightFoot,4963,Genoa,Atalanta,2,2,2015-01-06 14:00:00,Tomás Rincón,Pass
+45876,22,MissedShots,0.925,0.39599998474121095,0.015119065530598164,Luca Antonelli,h,1590,FromCorner,2014,Head,4963,Genoa,Atalanta,2,2,2015-01-06 14:00:00,Edenilson,Aerial
+45879,40,SavedShot,0.79,0.20399999618530273,0.009319966658949852,Facundo Roncaglia,h,1884,OpenPlay,2014,RightFoot,4963,Genoa,Atalanta,2,2,2015-01-06 14:00:00,Andrea Bertolacci,TakeOn
+45881,46,BlockedShot,0.9019999694824219,0.30100000381469727,0.05121568217873573,Alessandro Matri,h,1472,OpenPlay,2014,RightFoot,4963,Genoa,Atalanta,2,2,2015-01-06 14:00:00,Iago Falque,Pass
+45883,50,Goal,0.885,0.5,0.7612988352775574,Iago Falque,h,1185,Penalty,2014,LeftFoot,4963,Genoa,Atalanta,2,2,2015-01-06 14:00:00,,Standard
+45886,68,BlockedShot,0.8180000305175781,0.40200000762939453,0.06643449515104294,Maxime Lestienne,h,3820,OpenPlay,2014,LeftFoot,4963,Genoa,Atalanta,2,2,2015-01-06 14:00:00,Alessandro Matri,TakeOn
+45887,68,Goal,0.9819999694824219,0.51,0.9598395228385925,Alessandro Matri,h,1472,OpenPlay,2014,RightFoot,4963,Genoa,Atalanta,2,2,2015-01-06 14:00:00,Edenilson,Pass
+45888,70,BlockedShot,0.7480000305175781,0.524000015258789,0.016859542578458786,Ioannis Fetfatzidis,h,3876,FromCorner,2014,LeftFoot,4963,Genoa,Atalanta,2,2,2015-01-06 14:00:00,,None
+45889,74,SavedShot,0.7559999847412109,0.7230000305175781,0.015307165682315826,Tino Costa,h,1885,OpenPlay,2014,LeftFoot,4963,Genoa,Atalanta,2,2,2015-01-06 14:00:00,Tomás Rincón,Pass
+45890,78,MissedShots,0.9569999694824218,0.41,0.0733213871717453,Sebastien De Maio,h,1431,FromCorner,2014,Head,4963,Genoa,Atalanta,2,2,2015-01-06 14:00:00,Iago Falque,Cross
+45892,92,MissedShots,0.7859999847412109,0.3370000076293945,0.019183600321412086,Juraj Kucka,h,1123,OpenPlay,2014,RightFoot,4963,Genoa,Atalanta,2,2,2015-01-06 14:00:00,Ioannis Fetfatzidis,Pass
+45893,94,SavedShot,0.7530000305175781,0.3659999847412109,0.017739638686180115,Ioannis Fetfatzidis,h,3876,OpenPlay,2014,LeftFoot,4963,Genoa,Atalanta,2,2,2015-01-06 14:00:00,Juraj Kucka,LayOff
+45877,32,BlockedShot,0.8180000305175781,0.7440000152587891,0.022428050637245178,Davide Zappacosta,a,1178,OpenPlay,2014,RightFoot,4963,Genoa,Atalanta,2,2,2015-01-06 14:00:00,Carlos Carmona,Pass
+45878,36,Goal,0.8919999694824219,0.6079999923706054,0.12067871540784836,Davide Zappacosta,a,1178,OpenPlay,2014,LeftFoot,4963,Genoa,Atalanta,2,2,2015-01-06 14:00:00,Daniele Baselli,Throughball
+45880,40,SavedShot,0.7719999694824219,0.42900001525878906,0.03612624108791351,Germán Denis,a,1984,OpenPlay,2014,LeftFoot,4963,Genoa,Atalanta,2,2,2015-01-06 14:00:00,Marco D&#039;Alessandro,Pass
+45882,48,Goal,0.8930000305175781,0.36900001525878906,0.547410786151886,Maximiliano Moralez,a,2029,OpenPlay,2014,RightFoot,4963,Genoa,Atalanta,2,2,2015-01-06 14:00:00,Daniele Baselli,Throughball
+45884,62,SavedShot,0.765,0.675,0.024938806891441345,Davide Zappacosta,a,1178,OpenPlay,2014,RightFoot,4963,Genoa,Atalanta,2,2,2015-01-06 14:00:00,Daniele Baselli,BallTouch
+45885,67,SavedShot,0.884000015258789,0.629000015258789,0.10418395698070526,Maximiliano Moralez,a,2029,OpenPlay,2014,RightFoot,4963,Genoa,Atalanta,2,2,2015-01-06 14:00:00,Germán Denis,Pass
+45891,87,SavedShot,0.7830000305175782,0.4520000076293945,0.09661252796649933,Maximiliano Moralez,a,2029,DirectFreekick,2014,RightFoot,4963,Genoa,Atalanta,2,2,2015-01-06 14:00:00,,Standard

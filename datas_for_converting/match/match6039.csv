@@ -1,0 +1,19 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+5041,1,BlockedShot,0.850999984741211,0.32299999237060545,0.04939703643321991,Souleymane Camara,h,3590,OpenPlay,2014,RightFoot,6039,Montpellier,Saint-Etienne,0,2,2014-12-03 18:00:00,Morgan Sanson,Pass
+5042,1,MissedShots,0.9390000152587891,0.4229999923706055,0.08590082824230194,Joris Marveaux,h,3606,FromCorner,2014,Head,6039,Montpellier,Saint-Etienne,0,2,2014-12-03 18:00:00,Morgan Sanson,Cross
+5043,15,MissedShots,0.7580000305175781,0.425,0.03136133775115013,Souleymane Camara,h,3590,OpenPlay,2014,LeftFoot,6039,Montpellier,Saint-Etienne,0,2,2014-12-03 18:00:00,Kévin Berigaud,LayOff
+5047,36,BlockedShot,0.7190000152587891,0.32,0.011504525318741798,Morgan Sanson,h,3696,OpenPlay,2014,LeftFoot,6039,Montpellier,Saint-Etienne,0,2,2014-12-03 18:00:00,,BallRecovery
+5052,49,SavedShot,0.855999984741211,0.37099998474121093,0.06660910695791245,Djamel Bakar,h,3352,OpenPlay,2014,RightFoot,6039,Montpellier,Saint-Etienne,0,2,2014-12-03 18:00:00,Morgan Sanson,Pass
+5054,55,MissedShots,0.8680000305175781,0.5559999847412109,0.05760958045721054,Kévin Berigaud,h,3342,OpenPlay,2014,RightFoot,6039,Montpellier,Saint-Etienne,0,2,2014-12-03 18:00:00,Djamel Bakar,Cross
+5055,57,SavedShot,0.7859999847412109,0.6909999847412109,0.019670195877552032,Kévin Berigaud,h,3342,OpenPlay,2014,RightFoot,6039,Montpellier,Saint-Etienne,0,2,2014-12-03 18:00:00,Djamel Bakar,Pass
+5056,69,BlockedShot,0.85,0.435,0.05704454332590103,Kévin Berigaud,h,3342,FromCorner,2014,LeftFoot,6039,Montpellier,Saint-Etienne,0,2,2014-12-03 18:00:00,,None
+5058,89,SavedShot,0.7659999847412109,0.6070000076293945,0.02326570823788643,Djamel Bakar,h,3352,OpenPlay,2014,RightFoot,6039,Montpellier,Saint-Etienne,0,2,2014-12-03 18:00:00,Lucas Barrios,LayOff
+5044,21,SavedShot,0.7430000305175781,0.5529999923706055,0.06073671579360962,Yohan Mollo,a,2998,DirectFreekick,2014,RightFoot,6039,Montpellier,Saint-Etienne,0,2,2014-12-03 18:00:00,,Standard
+5045,21,Goal,0.9069999694824219,0.509000015258789,0.4419243335723877,Florentin Pogba,a,3505,FromCorner,2014,RightFoot,6039,Montpellier,Saint-Etienne,0,2,2014-12-03 18:00:00,Ricky van Wolfswinkel,Pass
+5046,29,MissedShots,0.8880000305175781,0.36700000762939455,0.0594576895236969,Benjamin Corgnet,a,3514,OpenPlay,2014,RightFoot,6039,Montpellier,Saint-Etienne,0,2,2014-12-03 18:00:00,Kévin Monnet-Paquet,Cross
+5048,42,SavedShot,0.950999984741211,0.5479999923706055,0.12839274108409882,Florentin Pogba,a,3505,FromCorner,2014,Head,6039,Montpellier,Saint-Etienne,0,2,2014-12-03 18:00:00,Yohan Mollo,Cross
+5049,42,Goal,0.9769999694824218,0.5640000152587891,0.5757405161857605,Paul Baysse,a,3305,FromCorner,2014,RightFoot,6039,Montpellier,Saint-Etienne,0,2,2014-12-03 18:00:00,,Rebound
+5050,44,MissedShots,0.745,0.715,0.014376737177371979,Ismael Diomande,a,3623,OpenPlay,2014,RightFoot,6039,Montpellier,Saint-Etienne,0,2,2014-12-03 18:00:00,,None
+5051,48,SavedShot,0.9109999847412109,0.46,0.049377359449863434,Ricky van Wolfswinkel,a,1012,FromCorner,2014,Head,6039,Montpellier,Saint-Etienne,0,2,2014-12-03 18:00:00,Kévin Monnet-Paquet,HeadPass
+5053,53,SavedShot,0.789000015258789,0.5329999923706055,0.04689915478229523,Benjamin Corgnet,a,3514,SetPiece,2014,LeftFoot,6039,Montpellier,Saint-Etienne,0,2,2014-12-03 18:00:00,Ismael Diomande,HeadPass
+5057,76,BlockedShot,0.825999984741211,0.42700000762939455,0.06100060045719147,Yohan Mollo,a,2998,OpenPlay,2014,RightFoot,6039,Montpellier,Saint-Etienne,0,2,2014-12-03 18:00:00,,None

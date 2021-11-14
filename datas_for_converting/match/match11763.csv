@@ -1,0 +1,34 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+332318,17,BlockedShot,0.889000015258789,0.4420000076293945,0.07526819407939911,Pierre-Emerick Aubameyang,h,318,OpenPlay,2019,RightFoot,11763,Arsenal,Southampton,2,2,2019-11-23 15:00:00,Kieran Tierney,Cross
+332319,17,Goal,0.924000015258789,0.5379999923706055,0.12871530652046204,Alexandre Lacazette,h,3277,OpenPlay,2019,RightFoot,11763,Arsenal,Southampton,2,2,2019-11-23 15:00:00,,Rebound
+332324,41,MissedShots,0.9009999847412109,0.4929999923706055,0.040416400879621506,David Luiz,h,1676,SetPiece,2019,Head,11763,Arsenal,Southampton,2,2,2019-11-23 15:00:00,Mesut Özil,Aerial
+332326,45,BlockedShot,0.8669999694824219,0.69,0.0511309914290905,Kieran Tierney,h,8089,OpenPlay,2019,LeftFoot,11763,Arsenal,Southampton,2,2,2019-11-23 15:00:00,Matteo Guendouzi,Pass
+332327,48,BlockedShot,0.86,0.5,0.05579375848174095,Sokratis,h,371,SetPiece,2019,LeftFoot,11763,Arsenal,Southampton,2,2,2019-11-23 15:00:00,Mesut Özil,Cross
+332328,50,SavedShot,0.9230000305175782,0.595999984741211,0.3973497450351715,Pierre-Emerick Aubameyang,h,318,OpenPlay,2019,RightFoot,11763,Arsenal,Southampton,2,2,2019-11-23 15:00:00,,None
+332331,55,ShotOnPost,0.905,0.4379999923706055,0.09286791831254959,Nicolas Pepe,h,5656,OpenPlay,2019,LeftFoot,11763,Arsenal,Southampton,2,2,2019-11-23 15:00:00,Kieran Tierney,Cross
+332335,79,MissedShots,0.904000015258789,0.605,0.04955582320690155,Lucas Torreira,h,1227,FromCorner,2019,RightFoot,11763,Arsenal,Southampton,2,2,2019-11-23 15:00:00,Mesut Özil,Cross
+332336,79,BlockedShot,0.894000015258789,0.5129999923706055,0.05295484513044357,Sokratis,h,371,FromCorner,2019,Head,11763,Arsenal,Southampton,2,2,2019-11-23 15:00:00,Mesut Özil,Cross
+332339,83,SavedShot,0.865999984741211,0.62,0.04847196117043495,Mesut Özil,h,499,OpenPlay,2019,LeftFoot,11763,Arsenal,Southampton,2,2,2019-11-23 15:00:00,Alexandre Lacazette,Cross
+332340,84,SavedShot,0.9309999847412109,0.504000015258789,0.06050754711031914,Joe Willock,h,6630,FromCorner,2019,Head,11763,Arsenal,Southampton,2,2,2019-11-23 15:00:00,Mesut Özil,Aerial
+332344,95,Goal,0.955,0.4520000076293945,0.5648905038833618,Alexandre Lacazette,h,3277,OpenPlay,2019,RightFoot,11763,Arsenal,Southampton,2,2,2019-11-23 15:00:00,,None
+332313,0,MissedShots,0.785,0.35200000762939454,0.026270437985658646,Stuart Armstrong,a,6893,OpenPlay,2019,RightFoot,11763,Arsenal,Southampton,2,2,2019-11-23 15:00:00,,BallRecovery
+332314,7,Goal,0.9119999694824219,0.6430000305175781,0.27899104356765747,Danny Ings,a,986,SetPiece,2019,RightFoot,11763,Arsenal,Southampton,2,2,2019-11-23 15:00:00,Ryan Bertrand,Pass
+332315,10,BlockedShot,0.8469999694824218,0.7230000305175781,0.05248481407761574,Michael Obafemi,a,6504,OpenPlay,2019,RightFoot,11763,Arsenal,Southampton,2,2,2019-11-23 15:00:00,Pierre-Emile Højbjerg,Pass
+332316,13,MissedShots,0.8540000152587891,0.4640000152587891,0.10067521780729294,Danny Ings,a,986,OpenPlay,2019,RightFoot,11763,Arsenal,Southampton,2,2,2019-11-23 15:00:00,Michael Obafemi,Pass
+332317,15,SavedShot,0.7730000305175782,0.555,0.03465007618069649,James Ward-Prowse,a,843,OpenPlay,2019,RightFoot,11763,Arsenal,Southampton,2,2,2019-11-23 15:00:00,Nathan Redmond,Pass
+332320,20,MissedShots,0.9640000152587891,0.4159999847412109,0.036154985427856445,Pierre-Emile Højbjerg,a,343,FromCorner,2019,Head,11763,Arsenal,Southampton,2,2,2019-11-23 15:00:00,James Ward-Prowse,Aerial
+332321,29,MissedShots,0.745,0.47200000762939454,0.016514122486114502,Pierre-Emile Højbjerg,a,343,OpenPlay,2019,RightFoot,11763,Arsenal,Southampton,2,2,2019-11-23 15:00:00,Danny Ings,Pass
+332322,37,MissedShots,0.7780000305175782,0.46900001525878904,0.04187143221497536,Danny Ings,a,986,OpenPlay,2019,LeftFoot,11763,Arsenal,Southampton,2,2,2019-11-23 15:00:00,Michael Obafemi,LayOff
+332323,40,MissedShots,0.48,0.43400001525878906,0.007038936484605074,James Ward-Prowse,a,843,OpenPlay,2019,RightFoot,11763,Arsenal,Southampton,2,2,2019-11-23 15:00:00,,BallRecovery
+332325,46,BlockedShot,0.7569999694824219,0.3220000076293945,0.021426847204566002,Cédric Soares,a,847,OpenPlay,2019,RightFoot,11763,Arsenal,Southampton,2,2,2019-11-23 15:00:00,James Ward-Prowse,Pass
+332329,52,SavedShot,0.7380000305175781,0.48700000762939455,0.019667254760861397,Nathan Redmond,a,790,OpenPlay,2019,RightFoot,11763,Arsenal,Southampton,2,2,2019-11-23 15:00:00,Pierre-Emile Højbjerg,BlockedPass
+332330,54,MissedShots,0.7919999694824219,0.38299999237060545,0.021828996017575264,Nathan Redmond,a,790,FromCorner,2019,RightFoot,11763,Arsenal,Southampton,2,2,2019-11-23 15:00:00,,None
+332332,62,MissedShots,0.740999984741211,0.7469999694824219,0.010853398591279984,Pierre-Emile Højbjerg,a,343,OpenPlay,2019,RightFoot,11763,Arsenal,Southampton,2,2,2019-11-23 15:00:00,Ryan Bertrand,Pass
+332333,70,SavedShot,0.885,0.5,0.7611688375473022,James Ward-Prowse,a,843,Penalty,2019,RightFoot,11763,Arsenal,Southampton,2,2,2019-11-23 15:00:00,,Standard
+332334,70,Goal,0.9580000305175781,0.5370000076293945,0.6502901315689087,James Ward-Prowse,a,843,SetPiece,2019,LeftFoot,11763,Arsenal,Southampton,2,2,2019-11-23 15:00:00,,Rebound
+332337,81,BlockedShot,0.8490000152587891,0.75,0.03142353892326355,Nathan Redmond,a,790,OpenPlay,2019,RightFoot,11763,Arsenal,Southampton,2,2,2019-11-23 15:00:00,Shane Long,Pass
+332338,82,MissedShots,0.7930000305175782,0.43900001525878907,0.016685593873262405,Stuart Armstrong,a,6893,FromCorner,2019,RightFoot,11763,Arsenal,Southampton,2,2,2019-11-23 15:00:00,,Aerial
+332341,86,BlockedShot,0.8580000305175781,0.5159999847412109,0.37165606021881104,Moussa Djenepo,a,7701,OpenPlay,2019,RightFoot,11763,Arsenal,Southampton,2,2,2019-11-23 15:00:00,Nathan Redmond,Pass
+332342,91,BlockedShot,0.9030000305175782,0.6,0.11813179403543472,Sofiane Boufal,a,1734,OpenPlay,2019,LeftFoot,11763,Arsenal,Southampton,2,2,2019-11-23 15:00:00,Shane Long,Pass
+332343,92,MissedShots,0.92,0.5840000152587891,0.4330214262008667,Moussa Djenepo,a,7701,OpenPlay,2019,LeftFoot,11763,Arsenal,Southampton,2,2,2019-11-23 15:00:00,Sofiane Boufal,Pass
+332345,96,MissedShots,0.8469999694824218,0.685,0.04729880765080452,Sofiane Boufal,a,1734,OpenPlay,2019,RightFoot,11763,Arsenal,Southampton,2,2,2019-11-23 15:00:00,James Ward-Prowse,BallRecovery

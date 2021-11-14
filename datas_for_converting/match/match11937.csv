@@ -1,0 +1,32 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+365024,1,BlockedShot,0.9119999694824219,0.4620000076293945,0.050071001052856445,Timm Klose,h,162,FromCorner,2019,Head,11937,Norwich,Southampton,0,3,2020-06-19 17:00:00,Kenny McLean,HeadPass
+365025,5,MissedShots,0.755,0.28,0.014534601010382175,Kenny McLean,h,7693,OpenPlay,2019,LeftFoot,11937,Norwich,Southampton,0,3,2020-06-19 17:00:00,Emiliano Buendía,Pass
+365026,7,BlockedShot,0.8680000305175781,0.43900001525878907,0.13386040925979614,Josip Drmic,h,209,OpenPlay,2019,LeftFoot,11937,Norwich,Southampton,0,3,2020-06-19 17:00:00,Teemu Pukki,Pass
+365028,20,BlockedShot,0.7919999694824219,0.3340000152587891,0.023927437141537666,Kenny McLean,h,7693,OpenPlay,2019,LeftFoot,11937,Norwich,Southampton,0,3,2020-06-19 17:00:00,Todd Cantwell,Pass
+365031,40,SavedShot,0.78,0.48700000762939455,0.03374645486474037,Kenny McLean,h,7693,OpenPlay,2019,LeftFoot,11937,Norwich,Southampton,0,3,2020-06-19 17:00:00,Todd Cantwell,Pass
+365032,44,MissedShots,0.915,0.46799999237060547,0.1171875149011612,Timm Klose,h,162,SetPiece,2019,Head,11937,Norwich,Southampton,0,3,2020-06-19 17:00:00,Emiliano Buendía,Cross
+365043,63,BlockedShot,0.8969999694824219,0.46700000762939453,0.19277016818523407,Teemu Pukki,h,7696,OpenPlay,2019,RightFoot,11937,Norwich,Southampton,0,3,2020-06-19 17:00:00,Josip Drmic,TakeOn
+365048,80,MissedShots,0.8519999694824218,0.605,0.07399872690439224,Adam Idah,h,8021,OpenPlay,2019,RightFoot,11937,Norwich,Southampton,0,3,2020-06-19 17:00:00,Jamal Lewis,Pass
+365049,83,BlockedShot,0.74,0.6079999923706054,0.014835641719400883,Onel Hernández,h,7697,FromCorner,2019,RightFoot,11937,Norwich,Southampton,0,3,2020-06-19 17:00:00,,None
+365027,17,BlockedShot,0.8980000305175782,0.67,0.11436742544174194,Danny Ings,a,986,OpenPlay,2019,LeftFoot,11937,Norwich,Southampton,0,3,2020-06-19 17:00:00,,BallRecovery
+365029,28,SavedShot,0.88,0.435,0.049490854144096375,Stuart Armstrong,a,6893,FromCorner,2019,RightFoot,11937,Norwich,Southampton,0,3,2020-06-19 17:00:00,James Ward-Prowse,Cross
+365030,33,ShotOnPost,0.8730000305175781,0.6509999847412109,0.31754714250564575,Danny Ings,a,986,OpenPlay,2019,RightFoot,11937,Norwich,Southampton,0,3,2020-06-19 17:00:00,Jack Stephens,Pass
+365033,46,SavedShot,0.8590000152587891,0.8109999847412109,0.053942304104566574,James Ward-Prowse,a,843,DirectFreekick,2019,RightFoot,11937,Norwich,Southampton,0,3,2020-06-19 17:00:00,,Standard
+365034,48,Goal,0.85,0.6419999694824219,0.05697863548994064,Danny Ings,a,986,OpenPlay,2019,RightFoot,11937,Norwich,Southampton,0,3,2020-06-19 17:00:00,Stuart Armstrong,Pass
+365035,51,MissedShots,0.909000015258789,0.6880000305175781,0.09909000992774963,Michael Obafemi,a,6504,OpenPlay,2019,LeftFoot,11937,Norwich,Southampton,0,3,2020-06-19 17:00:00,Danny Ings,TakeOn
+365036,51,BlockedShot,0.8390000152587891,0.615999984741211,0.07815978676080704,Nathan Redmond,a,790,OpenPlay,2019,LeftFoot,11937,Norwich,Southampton,0,3,2020-06-19 17:00:00,Danny Ings,Pass
+365037,53,Goal,0.8209999847412109,0.49599998474121093,0.11334419250488281,Stuart Armstrong,a,6893,OpenPlay,2019,LeftFoot,11937,Norwich,Southampton,0,3,2020-06-19 17:00:00,Danny Ings,TakeOn
+365038,56,MissedShots,0.7909999847412109,0.720999984741211,0.030998025089502335,Ryan Bertrand,a,835,OpenPlay,2019,LeftFoot,11937,Norwich,Southampton,0,3,2020-06-19 17:00:00,Michael Obafemi,Pass
+365039,58,BlockedShot,0.9269999694824219,0.43099998474121093,0.07448872923851013,Danny Ings,a,986,FromCorner,2019,Head,11937,Norwich,Southampton,0,3,2020-06-19 17:00:00,James Ward-Prowse,Cross
+365040,59,BlockedShot,0.8490000152587891,0.555,0.12097097188234329,Michael Obafemi,a,6504,OpenPlay,2019,RightFoot,11937,Norwich,Southampton,0,3,2020-06-19 17:00:00,Nathan Redmond,Pass
+365041,59,BlockedShot,0.8690000152587891,0.41,0.1113896369934082,James Ward-Prowse,a,843,OpenPlay,2019,RightFoot,11937,Norwich,Southampton,0,3,2020-06-19 17:00:00,,Rebound
+365042,62,BlockedShot,0.8330000305175781,0.49700000762939456,0.10197819024324417,James Ward-Prowse,a,843,OpenPlay,2019,RightFoot,11937,Norwich,Southampton,0,3,2020-06-19 17:00:00,Ryan Bertrand,Pass
+365044,69,BlockedShot,0.8580000305175781,0.47200000762939454,0.0921468585729599,Michael Obafemi,a,6504,OpenPlay,2019,LeftFoot,11937,Norwich,Southampton,0,3,2020-06-19 17:00:00,Danny Ings,HeadPass
+365045,71,SavedShot,0.8640000152587891,0.595999984741211,0.11766623705625534,Stuart Armstrong,a,6893,OpenPlay,2019,RightFoot,11937,Norwich,Southampton,0,3,2020-06-19 17:00:00,Nathan Redmond,Pass
+365046,76,MissedShots,0.7709999847412109,0.5829999923706055,0.014709437265992165,Ryan Bertrand,a,835,FromCorner,2019,LeftFoot,11937,Norwich,Southampton,0,3,2020-06-19 17:00:00,,Aerial
+365047,78,Goal,0.8590000152587891,0.5990000152587891,0.10969079285860062,Nathan Redmond,a,790,OpenPlay,2019,LeftFoot,11937,Norwich,Southampton,0,3,2020-06-19 17:00:00,Michael Obafemi,Pass
+365050,86,BlockedShot,0.8680000305175781,0.36,0.08032434433698654,William Smallbone,a,8224,OpenPlay,2019,LeftFoot,11937,Norwich,Southampton,0,3,2020-06-19 17:00:00,Che Adams,Pass
+365051,86,MissedShots,0.7559999847412109,0.605,0.016200169920921326,Ryan Bertrand,a,835,OpenPlay,2019,LeftFoot,11937,Norwich,Southampton,0,3,2020-06-19 17:00:00,,Rebound
+365052,88,MissedShots,0.7769999694824219,0.605,0.022543253377079964,William Smallbone,a,8224,FromCorner,2019,LeftFoot,11937,Norwich,Southampton,0,3,2020-06-19 17:00:00,Che Adams,Pass
+365053,92,SavedShot,0.71,0.67,0.033956099301576614,James Ward-Prowse,a,843,DirectFreekick,2019,RightFoot,11937,Norwich,Southampton,0,3,2020-06-19 17:00:00,,Standard
+365054,93,SavedShot,0.8469999694824218,0.6519999694824219,0.07578611373901367,Nathan Tella,a,8456,OpenPlay,2019,RightFoot,11937,Norwich,Southampton,0,3,2020-06-19 17:00:00,Sofiane Boufal,Pass

@@ -1,0 +1,28 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+363707,10,BlockedShot,0.7669999694824219,0.3390000152587891,0.017485497519373894,Jonas Hofmann,h,320,OpenPlay,2019,RightFoot,12656,Borussia M.Gladbach,Union Berlin,4,1,2020-05-31 13:30:00,,None
+363708,12,SavedShot,0.455,0.705,0.006433888804167509,Florian Neuhaus,h,7065,OpenPlay,2019,RightFoot,12656,Borussia M.Gladbach,Union Berlin,4,1,2020-05-31 13:30:00,Lars Stindl,Pass
+363709,13,BlockedShot,0.7280000305175781,0.639000015258789,0.012319298461079597,Lars Stindl,h,208,FromCorner,2019,RightFoot,12656,Borussia M.Gladbach,Union Berlin,4,1,2020-05-31 13:30:00,,Aerial
+363711,14,SavedShot,0.8519999694824218,0.64,0.05132565274834633,Marcus Thuram,h,5992,OpenPlay,2019,LeftFoot,12656,Borussia M.Gladbach,Union Berlin,4,1,2020-05-31 13:30:00,Lars Stindl,Pass
+363712,16,Goal,0.88,0.54,0.12919360399246216,Florian Neuhaus,h,7065,OpenPlay,2019,LeftFoot,12656,Borussia M.Gladbach,Union Berlin,4,1,2020-05-31 13:30:00,Patrick Herrmann,TakeOn
+363713,21,SavedShot,0.8680000305175781,0.6309999847412109,0.08501972258090973,Lars Stindl,h,208,OpenPlay,2019,RightFoot,12656,Borussia M.Gladbach,Union Berlin,4,1,2020-05-31 13:30:00,,BallRecovery
+363716,35,BlockedShot,0.8069999694824219,0.69,0.0525704100728035,Alassane Pléa,h,3310,OpenPlay,2019,RightFoot,12656,Borussia M.Gladbach,Union Berlin,4,1,2020-05-31 13:30:00,Marcus Thuram,Pass
+363717,40,Goal,0.9280000305175782,0.46,0.3621576428413391,Marcus Thuram,h,5992,OpenPlay,2019,Head,12656,Borussia M.Gladbach,Union Berlin,4,1,2020-05-31 13:30:00,Alassane Pléa,Chipped
+363720,52,BlockedShot,0.9319999694824219,0.33599998474121096,0.2231752574443817,Patrick Herrmann,h,420,OpenPlay,2019,RightFoot,12656,Borussia M.Gladbach,Union Berlin,4,1,2020-05-31 13:30:00,Lars Stindl,BallRecovery
+363721,53,BlockedShot,0.94,0.7480000305175781,0.02698901668190956,Alassane Pléa,h,3310,FromCorner,2019,RightFoot,12656,Borussia M.Gladbach,Union Berlin,4,1,2020-05-31 13:30:00,,None
+363722,55,MissedShots,0.75,0.3160000038146973,0.04887653514742851,Ramy Bensebaini,h,3349,DirectFreekick,2019,LeftFoot,12656,Borussia M.Gladbach,Union Berlin,4,1,2020-05-31 13:30:00,,Standard
+363723,56,BlockedShot,0.8690000152587891,0.34,0.0305881779640913,Alassane Pléa,h,3310,OpenPlay,2019,RightFoot,12656,Borussia M.Gladbach,Union Berlin,4,1,2020-05-31 13:30:00,Stefan Lainer,Cross
+363724,58,Goal,0.9569999694824218,0.5459999847412109,0.6428055167198181,Marcus Thuram,h,5992,OpenPlay,2019,RightFoot,12656,Borussia M.Gladbach,Union Berlin,4,1,2020-05-31 13:30:00,Alassane Pléa,Pass
+363726,67,SavedShot,0.965999984741211,0.6509999847412109,0.07500013709068298,Marcus Thuram,h,5992,OpenPlay,2019,RightFoot,12656,Borussia M.Gladbach,Union Berlin,4,1,2020-05-31 13:30:00,Ramy Bensebaini,Pass
+363731,80,Goal,0.875,0.5109999847412109,0.39843475818634033,Alassane Pléa,h,3310,OpenPlay,2019,LeftFoot,12656,Borussia M.Gladbach,Union Berlin,4,1,2020-05-31 13:30:00,Ramy Bensebaini,Pass
+363710,14,MissedShots,0.8469999694824218,0.4420000076293945,0.02746482938528061,Christian Gentner,a,60,OpenPlay,2019,Head,12656,Borussia M.Gladbach,Union Berlin,4,1,2020-05-31 13:30:00,Neven Subotic,Chipped
+363714,22,MissedShots,0.92,0.4,0.06222414970397949,Sebastian Andersson,a,7880,OpenPlay,2019,Head,12656,Borussia M.Gladbach,Union Berlin,4,1,2020-05-31 13:30:00,Christopher Trimmel,Cross
+363715,28,MissedShots,0.9330000305175781,0.534000015258789,0.07576166838407516,Marvin Friedrich,a,370,SetPiece,2019,Head,12656,Borussia M.Gladbach,Union Berlin,4,1,2020-05-31 13:30:00,Christian Gentner,Aerial
+363718,45,SavedShot,0.7569999694824219,0.6519999694824219,0.01016343105584383,Marius Bülter,a,7879,OpenPlay,2019,RightFoot,12656,Borussia M.Gladbach,Union Berlin,4,1,2020-05-31 13:30:00,,Aerial
+363719,49,Goal,0.9630000305175781,0.46799999237060547,0.31437644362449646,Sebastian Andersson,a,7880,SetPiece,2019,Head,12656,Borussia M.Gladbach,Union Berlin,4,1,2020-05-31 13:30:00,Marcus Ingvartsen,BallTouch
+363725,63,BlockedShot,0.7619999694824219,0.5779999923706055,0.01612808182835579,Marius Bülter,a,7879,SetPiece,2019,RightFoot,12656,Borussia M.Gladbach,Union Berlin,4,1,2020-05-31 13:30:00,,None
+363727,69,SavedShot,0.8959999847412109,0.5159999847412109,0.07477879524230957,Joshua Mees,a,7885,OpenPlay,2019,Head,12656,Borussia M.Gladbach,Union Berlin,4,1,2020-05-31 13:30:00,Christian Gentner,Aerial
+363728,73,BlockedShot,0.9269999694824219,0.4929999923706055,0.0588228777050972,Sebastian Andersson,a,7880,FromCorner,2019,Head,12656,Borussia M.Gladbach,Union Berlin,4,1,2020-05-31 13:30:00,Christopher Trimmel,Aerial
+363729,75,MissedShots,0.7830000305175782,0.6090000152587891,0.029372846707701683,Joshua Mees,a,7885,OpenPlay,2019,RightFoot,12656,Borussia M.Gladbach,Union Berlin,4,1,2020-05-31 13:30:00,Sebastian Andersson,Pass
+363730,78,MissedShots,0.7140000152587891,0.5070000076293946,0.017103178426623344,Marcus Ingvartsen,a,7883,OpenPlay,2019,LeftFoot,12656,Borussia M.Gladbach,Union Berlin,4,1,2020-05-31 13:30:00,Christian Gentner,Pass
+363732,84,SavedShot,0.7390000152587891,0.41200000762939454,0.016343535855412483,Yunus Malli,a,45,OpenPlay,2019,RightFoot,12656,Borussia M.Gladbach,Union Berlin,4,1,2020-05-31 13:30:00,Grischa Prömel,Pass
+363733,85,SavedShot,0.750999984741211,0.6419999694824219,0.017383061349391937,Joshua Mees,a,7885,OpenPlay,2019,RightFoot,12656,Borussia M.Gladbach,Union Berlin,4,1,2020-05-31 13:30:00,Grischa Prömel,Pass

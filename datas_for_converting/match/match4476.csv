@@ -1,0 +1,27 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+22426,4,Goal,0.9230000305175782,0.39799999237060546,0.4978831112384796,James McCarthy,h,589,OpenPlay,2014,RightFoot,4476,Everton,Manchester United,3,0,2015-04-26 13:30:00,,TakeOn
+22428,12,BlockedShot,0.715999984741211,0.5279999923706055,0.04421817138791084,Romelu Lukaku,h,594,DirectFreekick,2014,LeftFoot,4476,Everton,Manchester United,3,0,2015-04-26 13:30:00,,Standard
+22429,12,SavedShot,0.8590000152587891,0.5479999923706055,0.07399164885282516,Leon Osman,h,891,SetPiece,2014,RightFoot,4476,Everton,Manchester United,3,0,2015-04-26 13:30:00,Romelu Lukaku,Rebound
+22434,26,SavedShot,0.769000015258789,0.355,0.029646409675478935,Romelu Lukaku,h,594,OpenPlay,2014,LeftFoot,4476,Everton,Manchester United,3,0,2015-04-26 13:30:00,Seamus Coleman,Pass
+22437,34,Goal,0.9259999847412109,0.3920000076293945,0.03162210062146187,John Stones,h,586,FromCorner,2014,Head,4476,Everton,Manchester United,3,0,2015-04-26 13:30:00,Leighton Baines,Cross
+22439,44,MissedShots,0.7780000305175782,0.30100000381469727,0.019881721585989,Ross Barkley,h,592,OpenPlay,2014,RightFoot,4476,Everton,Manchester United,3,0,2015-04-26 13:30:00,Aaron Lennon,Pass
+22442,63,SavedShot,0.794000015258789,0.3220000076293945,0.02653433382511139,Ross Barkley,h,592,OpenPlay,2014,RightFoot,4476,Everton,Manchester United,3,0,2015-04-26 13:30:00,Romelu Lukaku,Pass
+22447,73,Goal,0.8730000305175781,0.5920000076293945,0.3242120146751404,Kevin Mirallas,h,595,OpenPlay,2014,RightFoot,4476,Everton,Manchester United,3,0,2015-04-26 13:30:00,Ross Barkley,Chipped
+22450,84,SavedShot,0.7480000305175781,0.48700000762939455,0.03449886664748192,Kevin Mirallas,h,595,OpenPlay,2014,RightFoot,4476,Everton,Manchester United,3,0,2015-04-26 13:30:00,James McCarthy,TakeOn
+22425,0,BlockedShot,0.7580000305175781,0.575,0.025337044149637222,Marouane Fellaini,a,630,OpenPlay,2014,RightFoot,4476,Everton,Manchester United,3,0,2015-04-26 13:30:00,Juan Mata,Pass
+22427,6,MissedShots,0.8090000152587891,0.5220000076293946,0.04338633641600609,Marouane Fellaini,a,630,OpenPlay,2014,RightFoot,4476,Everton,Manchester United,3,0,2015-04-26 13:30:00,,BallRecovery
+22430,15,SavedShot,0.8069999694824219,0.49400001525878906,0.0417783223092556,Daley Blind,a,548,OpenPlay,2014,RightFoot,4476,Everton,Manchester United,3,0,2015-04-26 13:30:00,Ander Herrera,Pass
+22431,19,SavedShot,0.9019999694824219,0.495,0.10319934785366058,Chris Smalling,a,628,SetPiece,2014,Head,4476,Everton,Manchester United,3,0,2015-04-26 13:30:00,Juan Mata,Cross
+22432,21,BlockedShot,0.875,0.6309999847412109,0.07132968306541443,Ander Herrera,a,552,OpenPlay,2014,RightFoot,4476,Everton,Manchester United,3,0,2015-04-26 13:30:00,Wayne Rooney,Pass
+22433,24,BlockedShot,0.9119999694824219,0.5720000076293945,0.03241388127207756,Wayne Rooney,a,629,OpenPlay,2014,Head,4476,Everton,Manchester United,3,0,2015-04-26 13:30:00,Ashley Young,Aerial
+22435,28,MissedShots,0.7830000305175782,0.51,0.028892092406749725,Ashley Young,a,631,OpenPlay,2014,RightFoot,4476,Everton,Manchester United,3,0,2015-04-26 13:30:00,Wayne Rooney,Pass
+22436,32,BlockedShot,0.78,0.715,0.009041601791977882,Ashley Young,a,631,OpenPlay,2014,RightFoot,4476,Everton,Manchester United,3,0,2015-04-26 13:30:00,Wayne Rooney,Chipped
+22438,40,BlockedShot,0.755,0.36400001525878906,0.016978856176137924,Juan Mata,a,554,OpenPlay,2014,LeftFoot,4476,Everton,Manchester United,3,0,2015-04-26 13:30:00,Antonio Valencia,Pass
+22440,46,BlockedShot,0.919000015258789,0.4209999847412109,0.055621638894081116,Chris Smalling,a,628,FromCorner,2014,Head,4476,Everton,Manchester United,3,0,2015-04-26 13:30:00,Ashley Young,Cross
+22441,46,SavedShot,0.955,0.5779999923706055,0.13315697014331818,Wayne Rooney,a,629,FromCorner,2014,RightFoot,4476,Everton,Manchester United,3,0,2015-04-26 13:30:00,Chris Smalling,Rebound
+22443,68,BlockedShot,0.7430000305175781,0.2979999923706055,0.00839581061154604,Ángel Di María,a,3553,OpenPlay,2014,LeftFoot,4476,Everton,Manchester United,3,0,2015-04-26 13:30:00,,None
+22444,69,SavedShot,0.865,0.46700000762939453,0.02248375304043293,Falcao,a,696,OpenPlay,2014,Head,4476,Everton,Manchester United,3,0,2015-04-26 13:30:00,Ángel Di María,Chipped
+22445,71,BlockedShot,0.779000015258789,0.5609999847412109,0.04266416281461716,Ander Herrera,a,552,OpenPlay,2014,RightFoot,4476,Everton,Manchester United,3,0,2015-04-26 13:30:00,Luke Shaw,TakeOn
+22446,71,BlockedShot,0.725,0.48200000762939454,0.013356879353523254,Wayne Rooney,a,629,OpenPlay,2014,RightFoot,4476,Everton,Manchester United,3,0,2015-04-26 13:30:00,,Dispossessed
+22448,80,BlockedShot,0.7880000305175782,0.6329999923706054,0.022782646119594574,Ander Herrera,a,552,OpenPlay,2014,LeftFoot,4476,Everton,Manchester United,3,0,2015-04-26 13:30:00,Luke Shaw,Pass
+22449,80,MissedShots,0.925,0.555,0.0870489850640297,Wayne Rooney,a,629,FromCorner,2014,Head,4476,Everton,Manchester United,3,0,2015-04-26 13:30:00,Ángel Di María,Cross

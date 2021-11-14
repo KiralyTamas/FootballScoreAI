@@ -1,0 +1,28 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+6708,4,Goal,0.9119999694824219,0.575,0.08856397122144699,Christophe Mandanne,h,4708,OpenPlay,2014,RightFoot,5868,Guingamp,Toulouse,2,1,2015-05-16 20:00:00,Lars Jacobsen,Cross
+6709,5,MissedShots,0.8159999847412109,0.4640000152587891,0.06926646083593369,Moustapha Diallo,h,3575,OpenPlay,2014,RightFoot,5868,Guingamp,Toulouse,2,1,2015-05-16 20:00:00,,None
+6710,6,MissedShots,0.88,0.6859999847412109,0.06929991394281387,Thibault Giresse,h,3476,OpenPlay,2014,LeftFoot,5868,Guingamp,Toulouse,2,1,2015-05-16 20:00:00,Christophe Mandanne,BallTouch
+6711,16,BlockedShot,0.9359999847412109,0.29100000381469726,0.06451164931058884,Jérémy Pied,h,1784,OpenPlay,2014,RightFoot,5868,Guingamp,Toulouse,2,1,2015-05-16 20:00:00,,None
+6716,32,MissedShots,0.899000015258789,0.41900001525878905,0.08239205181598663,Claudio Beauvue,h,2502,OpenPlay,2014,RightFoot,5868,Guingamp,Toulouse,2,1,2015-05-16 20:00:00,Thibault Giresse,Cross
+6718,48,Goal,0.9069999694824219,0.42900001525878906,0.22244057059288025,Claudio Beauvue,h,2502,OpenPlay,2014,Head,5868,Guingamp,Toulouse,2,1,2015-05-16 20:00:00,Jérémy Pied,Cross
+6719,53,BlockedShot,0.8640000152587891,0.600999984741211,0.048034124076366425,Thibault Giresse,h,3476,FromCorner,2014,RightFoot,5868,Guingamp,Toulouse,2,1,2015-05-16 20:00:00,Moustapha Diallo,BallTouch
+6721,57,BlockedShot,0.935,0.4759999847412109,0.4426743686199188,Claudio Beauvue,h,2502,OpenPlay,2014,Head,5868,Guingamp,Toulouse,2,1,2015-05-16 20:00:00,Thibault Giresse,Cross
+6723,67,MissedShots,0.7780000305175782,0.5709999847412109,0.04384443163871765,Jérémy Pied,h,1784,OpenPlay,2014,RightFoot,5868,Guingamp,Toulouse,2,1,2015-05-16 20:00:00,,None
+6726,80,SavedShot,0.7340000152587891,0.5420000076293945,0.019482489675283432,Claudio Beauvue,h,2502,SetPiece,2014,LeftFoot,5868,Guingamp,Toulouse,2,1,2015-05-16 20:00:00,Mamadou Samassa,Pass
+6727,82,MissedShots,0.7419999694824219,0.835,0.027877388522028923,Claudio Beauvue,h,2502,DirectFreekick,2014,RightFoot,5868,Guingamp,Toulouse,2,1,2015-05-16 20:00:00,,Standard
+6734,93,MissedShots,0.4759999847412109,0.5229999923706055,0.007082827389240265,Lionel Mathis,h,3628,OpenPlay,2014,RightFoot,5868,Guingamp,Toulouse,2,1,2015-05-16 20:00:00,,None
+6712,21,SavedShot,0.8680000305175781,0.4109999847412109,0.3315279483795166,Jean-Daniel Akpa-Akpro,a,3209,OpenPlay,2014,RightFoot,5868,Guingamp,Toulouse,2,1,2015-05-16 20:00:00,Martin Braithwaite,Pass
+6713,25,Goal,0.885,0.5,0.7600951194763184,Wissam Ben Yedder,a,3210,Penalty,2014,RightFoot,5868,Guingamp,Toulouse,2,1,2015-05-16 20:00:00,,Standard
+6714,29,SavedShot,0.955999984741211,0.4759999847412109,0.486481249332428,Jean-Armel Kana-Biyik,a,3539,FromCorner,2014,Head,5868,Guingamp,Toulouse,2,1,2015-05-16 20:00:00,Óscar Trejo,Cross
+6715,30,MissedShots,0.7959999847412109,0.6379999923706055,0.03299643099308014,Martin Braithwaite,a,3211,OpenPlay,2014,RightFoot,5868,Guingamp,Toulouse,2,1,2015-05-16 20:00:00,,BallRecovery
+6717,34,MissedShots,0.875,0.385,0.014130674302577972,Jean-Armel Kana-Biyik,a,3539,OpenPlay,2014,Head,5868,Guingamp,Toulouse,2,1,2015-05-16 20:00:00,Jean-Daniel Akpa-Akpro,Cross
+6720,56,SavedShot,0.9109999847412109,0.28399999618530275,0.03773130849003792,Étienne Didot,a,3215,OpenPlay,2014,RightFoot,5868,Guingamp,Toulouse,2,1,2015-05-16 20:00:00,Wissam Ben Yedder,Pass
+6722,61,BlockedShot,0.8219999694824218,0.5129999923706055,0.1811550110578537,Wissam Ben Yedder,a,3210,DirectFreekick,2014,RightFoot,5868,Guingamp,Toulouse,2,1,2015-05-16 20:00:00,,Standard
+6724,68,MissedShots,0.9219999694824219,0.575,0.2210421860218048,Martin Braithwaite,a,3211,OpenPlay,2014,Head,5868,Guingamp,Toulouse,2,1,2015-05-16 20:00:00,Étienne Didot,Chipped
+6725,75,SavedShot,0.8490000152587891,0.33799999237060546,0.044085629284381866,Wissam Ben Yedder,a,3210,OpenPlay,2014,RightFoot,5868,Guingamp,Toulouse,2,1,2015-05-16 20:00:00,Martin Braithwaite,Pass
+6728,83,MissedShots,0.9069999694824219,0.5870000076293945,0.018045606091618538,Yann Bodiger,a,3206,FromCorner,2014,Head,5868,Guingamp,Toulouse,2,1,2015-05-16 20:00:00,,Aerial
+6729,86,MissedShots,0.7369999694824219,0.6730000305175782,0.04400285705924034,Adrien Regattin,a,3213,DirectFreekick,2014,RightFoot,5868,Guingamp,Toulouse,2,1,2015-05-16 20:00:00,,Standard
+6730,90,SavedShot,0.8009999847412109,0.5620000076293945,0.014918525703251362,Jean-Armel Kana-Biyik,a,3539,OpenPlay,2014,RightFoot,5868,Guingamp,Toulouse,2,1,2015-05-16 20:00:00,,Aerial
+6731,91,BlockedShot,0.7140000152587891,0.4129999923706055,0.015708014369010925,Adrien Regattin,a,3213,OpenPlay,2014,LeftFoot,5868,Guingamp,Toulouse,2,1,2015-05-16 20:00:00,Jean-Daniel Akpa-Akpro,Pass
+6732,91,MissedShots,0.894000015258789,0.42900001525878906,0.037331242114305496,Marcel Tisserand,a,3216,FromCorner,2014,RightFoot,5868,Guingamp,Toulouse,2,1,2015-05-16 20:00:00,Adrien Regattin,Aerial
+6733,93,BlockedShot,0.855,0.3990000152587891,0.07054731994867325,Adrien Regattin,a,3213,OpenPlay,2014,RightFoot,5868,Guingamp,Toulouse,2,1,2015-05-16 20:00:00,Marcel Tisserand,Pass

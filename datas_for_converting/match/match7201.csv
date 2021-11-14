@@ -1,0 +1,15 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+159457,13,BlockedShot,0.8619999694824219,0.3770000076293945,0.0491335429251194,Elias Kachunga,h,248,OpenPlay,2017,LeftFoot,7201,Huddersfield,Manchester United,2,1,2017-10-21 15:00:00,Danny Williams,HeadPass
+159460,27,SavedShot,0.94,0.595999984741211,0.15537004172801971,Tom Ince,h,4454,OpenPlay,2017,LeftFoot,7201,Huddersfield,Manchester United,2,1,2017-10-21 15:00:00,Aaron Mooy,Pass
+159461,27,Goal,0.904000015258789,0.5609999847412109,0.5306211709976196,Aaron Mooy,h,6033,OpenPlay,2017,LeftFoot,7201,Huddersfield,Manchester United,2,1,2017-10-21 15:00:00,,Rebound
+159463,32,Goal,0.9019999694824219,0.534000015258789,0.565615713596344,Laurent Depoitre,h,6038,OpenPlay,2017,LeftFoot,7201,Huddersfield,Manchester United,2,1,2017-10-21 15:00:00,Jonas Lössl,TakeOn
+159466,60,BlockedShot,0.8219999694824218,0.5359999847412109,0.04914207011461258,Rajiv van La Parra,h,6036,SetPiece,2017,RightFoot,7201,Huddersfield,Manchester United,2,1,2017-10-21 15:00:00,,None
+159456,5,SavedShot,0.8780000305175781,0.6940000152587891,0.048300959169864655,Romelu Lukaku,a,594,OpenPlay,2017,LeftFoot,7201,Huddersfield,Manchester United,2,1,2017-10-21 15:00:00,Nemanja Matic,Chipped
+159458,18,MissedShots,0.8040000152587891,0.40900001525878904,0.04009601101279259,Ander Herrera,a,552,OpenPlay,2017,LeftFoot,7201,Huddersfield,Manchester United,2,1,2017-10-21 15:00:00,,None
+159459,19,MissedShots,0.914000015258789,0.46299999237060546,0.11190678924322128,Romelu Lukaku,a,594,OpenPlay,2017,LeftFoot,7201,Huddersfield,Manchester United,2,1,2017-10-21 15:00:00,Ashley Young,Cross
+159462,29,BlockedShot,0.7809999847412109,0.6940000152587891,0.02028896100819111,Ander Herrera,a,552,OpenPlay,2017,LeftFoot,7201,Huddersfield,Manchester United,2,1,2017-10-21 15:00:00,Jesse Lingard,Pass
+159464,47,BlockedShot,0.855999984741211,0.5329999923706055,0.0536966547369957,Nemanja Matic,a,697,FromCorner,2017,LeftFoot,7201,Huddersfield,Manchester United,2,1,2017-10-21 15:00:00,,Dispossessed
+159465,53,MissedShots,0.735,0.47900001525878905,0.011961341835558414,Ashley Young,a,631,OpenPlay,2017,LeftFoot,7201,Huddersfield,Manchester United,2,1,2017-10-21 15:00:00,,None
+159467,75,SavedShot,0.9059999847412109,0.5309999847412109,0.09545528888702393,Ander Herrera,a,552,OpenPlay,2017,Head,7201,Huddersfield,Manchester United,2,1,2017-10-21 15:00:00,Ashley Young,Cross
+159468,77,Goal,0.9340000152587891,0.5270000076293946,0.35238656401634216,Marcus Rashford,a,556,OpenPlay,2017,Head,7201,Huddersfield,Manchester United,2,1,2017-10-21 15:00:00,Romelu Lukaku,Cross
+159469,93,BlockedShot,0.89,0.5729999923706055,0.07304215431213379,Chris Smalling,a,628,OpenPlay,2017,RightFoot,7201,Huddersfield,Manchester United,2,1,2017-10-21 15:00:00,,None

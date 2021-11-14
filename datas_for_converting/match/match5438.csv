@@ -1,0 +1,24 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+25547,9,BlockedShot,0.789000015258789,0.5629999923706055,0.03329720348119736,Filip Djuricic,h,1233,OpenPlay,2014,LeftFoot,5438,Mainz 05,Hoffenheim,0,0,2014-09-26 19:30:00,Christoph Moritz,Pass
+25548,18,SavedShot,0.7240000152587891,0.6469999694824219,0.015325870364904404,Júnior Díaz,h,15,OpenPlay,2014,LeftFoot,5438,Mainz 05,Hoffenheim,0,0,2014-09-26 19:30:00,Julian Baumgartlinger,Pass
+25551,26,BlockedShot,0.8630000305175781,0.5459999847412109,0.039635468274354935,Júnior Díaz,h,15,SetPiece,2014,Head,5438,Mainz 05,Hoffenheim,0,0,2014-09-26 19:30:00,Johannes Geis,Chipped
+25555,35,SavedShot,0.7269999694824218,0.5129999923706055,0.2055055797100067,Filip Djuricic,h,1233,OpenPlay,2014,RightFoot,5438,Mainz 05,Hoffenheim,0,0,2014-09-26 19:30:00,Jonas Hofmann,Pass
+25558,52,SavedShot,0.9480000305175781,0.33,0.07807877659797668,Jonas Hofmann,h,320,OpenPlay,2014,RightFoot,5438,Mainz 05,Hoffenheim,0,0,2014-09-26 19:30:00,Daniel Brosinski,Pass
+25559,53,MissedShots,0.9290000152587891,0.565,0.04226994514465332,Sami Allagui,h,4304,FromCorner,2014,Head,5438,Mainz 05,Hoffenheim,0,0,2014-09-26 19:30:00,Johannes Geis,Aerial
+25560,53,MissedShots,0.8319999694824218,0.355,0.04683572053909302,Jonas Hofmann,h,320,OpenPlay,2014,LeftFoot,5438,Mainz 05,Hoffenheim,0,0,2014-09-26 19:30:00,Christoph Moritz,TakeOn
+25562,59,MissedShots,0.6780000305175782,0.3820000076293945,0.008019987493753433,Daniel Brosinski,h,38,SetPiece,2014,RightFoot,5438,Mainz 05,Hoffenheim,0,0,2014-09-26 19:30:00,,None
+25564,63,BlockedShot,0.7980000305175782,0.629000015258789,0.09661761671304703,Johannes Geis,h,336,DirectFreekick,2014,RightFoot,5438,Mainz 05,Hoffenheim,0,0,2014-09-26 19:30:00,,Standard
+25565,70,BlockedShot,0.9059999847412109,0.5070000076293946,0.04874613881111145,Stefan Bell,h,40,SetPiece,2014,OtherBodyPart,5438,Mainz 05,Hoffenheim,0,0,2014-09-26 19:30:00,Johannes Geis,Aerial
+25545,5,BlockedShot,0.91,0.3160000038146973,0.05967794731259346,Kevin Volland,a,83,OpenPlay,2014,LeftFoot,5438,Mainz 05,Hoffenheim,0,0,2014-09-26 19:30:00,Roberto Firmino,Pass
+25546,9,SavedShot,0.8640000152587891,0.634000015258789,0.307515412569046,Anthony Modeste,a,137,OpenPlay,2014,RightFoot,5438,Mainz 05,Hoffenheim,0,0,2014-09-26 19:30:00,Eugen Polanski,Throughball
+25549,21,MissedShots,0.765,0.7630000305175781,0.016524208709597588,Andreas Beck,a,4270,FromCorner,2014,RightFoot,5438,Mainz 05,Hoffenheim,0,0,2014-09-26 19:30:00,Tarik Elyounoussi,Pass
+25550,24,SavedShot,0.8119999694824219,0.375,0.055417221039533615,Anthony Modeste,a,137,OpenPlay,2014,RightFoot,5438,Mainz 05,Hoffenheim,0,0,2014-09-26 19:30:00,Eugen Polanski,Pass
+25552,27,MissedShots,0.885,0.4759999847412109,0.08266982436180115,Anthony Modeste,a,137,OpenPlay,2014,RightFoot,5438,Mainz 05,Hoffenheim,0,0,2014-09-26 19:30:00,Sebastian Rudy,Cross
+25553,32,SavedShot,0.8430000305175781,0.305,0.03175414353609085,Roberto Firmino,a,482,OpenPlay,2014,RightFoot,5438,Mainz 05,Hoffenheim,0,0,2014-09-26 19:30:00,Kevin Volland,Pass
+25554,33,MissedShots,0.9540000152587891,0.43099998474121093,0.16479840874671936,Niklas Süle,a,75,FromCorner,2014,Head,5438,Mainz 05,Hoffenheim,0,0,2014-09-26 19:30:00,Sebastian Rudy,Aerial
+25556,50,BlockedShot,0.745,0.40200000762939453,0.015580722130835056,Anthony Modeste,a,137,OpenPlay,2014,RightFoot,5438,Mainz 05,Hoffenheim,0,0,2014-09-26 19:30:00,,None
+25557,50,MissedShots,0.87,0.615999984741211,0.06610239297151566,Roberto Firmino,a,482,OpenPlay,2014,LeftFoot,5438,Mainz 05,Hoffenheim,0,0,2014-09-26 19:30:00,,None
+25561,56,MissedShots,0.815,0.26799999237060546,0.019820084795355797,Kevin Volland,a,83,OpenPlay,2014,LeftFoot,5438,Mainz 05,Hoffenheim,0,0,2014-09-26 19:30:00,Anthony Modeste,Pass
+25563,60,ShotOnPost,0.9869999694824219,0.3820000076293945,0.14854133129119873,Roberto Firmino,a,482,SetPiece,2014,Head,5438,Mainz 05,Hoffenheim,0,0,2014-09-26 19:30:00,,None
+25566,79,MissedShots,0.9369999694824219,0.29700000762939455,0.051741823554039,Steven Zuber,a,254,OpenPlay,2014,RightFoot,5438,Mainz 05,Hoffenheim,0,0,2014-09-26 19:30:00,Roberto Firmino,Pass
+25567,89,MissedShots,0.9030000305175782,0.5329999923706055,0.06652273237705231,Niklas Süle,a,75,SetPiece,2014,Head,5438,Mainz 05,Hoffenheim,0,0,2014-09-26 19:30:00,Sebastian Rudy,Chipped

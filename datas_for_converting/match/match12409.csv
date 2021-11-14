@@ -1,0 +1,25 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+310801,11,MissedShots,0.9209999847412109,0.46599998474121096,0.05859605595469475,Marcus Thuram,h,5992,OpenPlay,2019,Head,12409,Borussia M.Gladbach,Schalke 04,0,0,2019-08-17 17:30:00,Alassane Pléa,Aerial
+310802,13,BlockedShot,0.8019999694824219,0.5020000076293946,0.04549679532647133,Breel Embolo,h,5356,OpenPlay,2019,RightFoot,12409,Borussia M.Gladbach,Schalke 04,0,0,2019-08-17 17:30:00,,None
+310805,28,BlockedShot,0.7419999694824219,0.5129999923706055,0.022115429863333702,László Bénes,h,5258,OpenPlay,2019,LeftFoot,12409,Borussia M.Gladbach,Schalke 04,0,0,2019-08-17 17:30:00,Florian Neuhaus,Pass
+310807,35,BlockedShot,0.87,0.685,0.046351779252290726,Breel Embolo,h,5356,OpenPlay,2019,RightFoot,12409,Borussia M.Gladbach,Schalke 04,0,0,2019-08-17 17:30:00,Oscar Wendt,Pass
+310808,39,BlockedShot,0.8569999694824219,0.4129999923706055,0.10168568044900894,Marcus Thuram,h,5992,OpenPlay,2019,LeftFoot,12409,Borussia M.Gladbach,Schalke 04,0,0,2019-08-17 17:30:00,,TakeOn
+310809,40,BlockedShot,0.764000015258789,0.519000015258789,0.020297633484005928,Florian Neuhaus,h,7065,FromCorner,2019,RightFoot,12409,Borussia M.Gladbach,Schalke 04,0,0,2019-08-17 17:30:00,,None
+310810,43,MissedShots,0.899000015258789,0.5309999847412109,0.02201375737786293,Nico Elvedi,h,212,FromCorner,2019,Head,12409,Borussia M.Gladbach,Schalke 04,0,0,2019-08-17 17:30:00,Alassane Pléa,Aerial
+310811,47,MissedShots,0.8619999694824219,0.4,0.08986999094486237,Marcus Thuram,h,5992,OpenPlay,2019,RightFoot,12409,Borussia M.Gladbach,Schalke 04,0,0,2019-08-17 17:30:00,Stefan Lainer,Pass
+310812,54,ShotOnPost,0.8859999847412109,0.4329999923706055,0.36340242624282837,Alassane Pléa,h,3310,OpenPlay,2019,RightFoot,12409,Borussia M.Gladbach,Schalke 04,0,0,2019-08-17 17:30:00,Marcus Thuram,Pass
+310814,65,MissedShots,0.9119999694824219,0.549000015258789,0.026851894333958626,Alassane Pléa,h,3310,FromCorner,2019,Head,12409,Borussia M.Gladbach,Schalke 04,0,0,2019-08-17 17:30:00,Oscar Wendt,Aerial
+310815,70,SavedShot,0.745999984741211,0.515,0.06610920280218124,László Bénes,h,5258,DirectFreekick,2019,LeftFoot,12409,Borussia M.Gladbach,Schalke 04,0,0,2019-08-17 17:30:00,,Standard
+310817,72,SavedShot,0.960999984741211,0.5929999923706055,0.4313848316669464,Marcus Thuram,h,5992,OpenPlay,2019,RightFoot,12409,Borussia M.Gladbach,Schalke 04,0,0,2019-08-17 17:30:00,Fabian Johnson,BlockedPass
+310819,76,SavedShot,0.785,0.629000015258789,0.029835568740963936,Raffael,h,210,OpenPlay,2019,LeftFoot,12409,Borussia M.Gladbach,Schalke 04,0,0,2019-08-17 17:30:00,,Dispossessed
+310820,77,BlockedShot,0.764000015258789,0.6730000305175782,0.013205229304730892,Raffael,h,210,FromCorner,2019,RightFoot,12409,Borussia M.Gladbach,Schalke 04,0,0,2019-08-17 17:30:00,,Aerial
+310822,80,SavedShot,0.8219999694824218,0.45799999237060546,0.06270237267017365,Alassane Pléa,h,3310,OpenPlay,2019,RightFoot,12409,Borussia M.Gladbach,Schalke 04,0,0,2019-08-17 17:30:00,Denis Zakaria,Pass
+310823,89,MissedShots,0.785,0.4,0.03148791939020157,László Bénes,h,5258,OpenPlay,2019,LeftFoot,12409,Borussia M.Gladbach,Schalke 04,0,0,2019-08-17 17:30:00,Raffael,Pass
+310800,5,MissedShots,0.9019999694824219,0.47,0.09716864675283432,Benito Raman,a,7059,OpenPlay,2019,RightFoot,12409,Borussia M.Gladbach,Schalke 04,0,0,2019-08-17 17:30:00,Jonjoe Kenny,Cross
+310803,15,MissedShots,0.9080000305175782,0.555,0.08550009876489639,Matija Nastasic,a,451,SetPiece,2019,LeftFoot,12409,Borussia M.Gladbach,Schalke 04,0,0,2019-08-17 17:30:00,Daniel Caligiuri,Chipped
+310804,26,MissedShots,0.8219999694824218,0.485,0.32500606775283813,Benito Raman,a,7059,OpenPlay,2019,RightFoot,12409,Borussia M.Gladbach,Schalke 04,0,0,2019-08-17 17:30:00,Guido Burgstaller,Throughball
+310806,33,BlockedShot,0.7909999847412109,0.37,0.02831094153225422,Guido Burgstaller,a,5302,OpenPlay,2019,LeftFoot,12409,Borussia M.Gladbach,Schalke 04,0,0,2019-08-17 17:30:00,,None
+310813,58,SavedShot,0.8680000305175781,0.515,0.07477755099534988,Matija Nastasic,a,451,FromCorner,2019,RightFoot,12409,Borussia M.Gladbach,Schalke 04,0,0,2019-08-17 17:30:00,Weston McKennie,HeadPass
+310816,71,MissedShots,0.9259999847412109,0.669000015258789,0.06911860406398773,Guido Burgstaller,a,5302,OpenPlay,2019,LeftFoot,12409,Borussia M.Gladbach,Schalke 04,0,0,2019-08-17 17:30:00,Benito Raman,Pass
+310818,74,BlockedShot,0.759000015258789,0.395,0.01836583763360977,Fabian Reese,a,390,OpenPlay,2019,RightFoot,12409,Borussia M.Gladbach,Schalke 04,0,0,2019-08-17 17:30:00,,None
+310821,77,MissedShots,0.8780000305175781,0.35700000762939454,0.06252557039260864,Daniel Caligiuri,a,157,OpenPlay,2019,LeftFoot,12409,Borussia M.Gladbach,Schalke 04,0,0,2019-08-17 17:30:00,Amine Harit,Chipped

@@ -1,0 +1,29 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+125778,13,BlockedShot,0.889000015258789,0.29700000762939455,0.03938340023159981,Quincy Promes,h,2815,OpenPlay,2016,LeftFoot,4324,Spartak Moscow,FC Orenburg,3,2,2017-04-03 17:30:00,Jano Ananidze,Pass
+125779,16,MissedShots,0.9059999847412109,0.24100000381469727,0.030451558530330658,Aleksandr Samedov,h,2710,OpenPlay,2016,RightFoot,4324,Spartak Moscow,FC Orenburg,3,2,2017-04-03 17:30:00,,None
+125780,17,MissedShots,0.7380000305175781,0.7330000305175781,0.013610050082206726,Quincy Promes,h,2815,OpenPlay,2016,RightFoot,4324,Spartak Moscow,FC Orenburg,3,2,2017-04-03 17:30:00,Dmitri Kombarov,Pass
+125781,18,BlockedShot,0.9019999694824219,0.69,0.06316110491752625,Quincy Promes,h,2815,OpenPlay,2016,LeftFoot,4324,Spartak Moscow,FC Orenburg,3,2,2017-04-03 17:30:00,Roman Zobnin,Pass
+125784,30,MissedShots,0.7230000305175781,0.5070000076293946,0.014794443733990192,Fernando,h,1937,OpenPlay,2016,RightFoot,4324,Spartak Moscow,FC Orenburg,3,2,2017-04-03 17:30:00,Quincy Promes,Pass
+125785,33,Goal,0.925,0.5029999923706054,0.12790443003177643,Roman Zobnin,h,2750,SetPiece,2016,Head,4324,Spartak Moscow,FC Orenburg,3,2,2017-04-03 17:30:00,Fernando,Cross
+125786,36,ShotOnPost,0.8909999847412109,0.43900001525878907,0.03750978410243988,Aleksandr Samedov,h,2710,OpenPlay,2016,Head,4324,Spartak Moscow,FC Orenburg,3,2,2017-04-03 17:30:00,Jano Ananidze,Chipped
+125790,46,SavedShot,0.8830000305175781,0.3940000152587891,0.09311128407716751,Quincy Promes,h,2815,OpenPlay,2016,RightFoot,4324,Spartak Moscow,FC Orenburg,3,2,2017-04-03 17:30:00,,None
+125793,57,Goal,0.9490000152587891,0.46799999237060547,0.5514281988143921,Roman Zobnin,h,2750,OpenPlay,2016,Head,4324,Spartak Moscow,FC Orenburg,3,2,2017-04-03 17:30:00,Jano Ananidze,Aerial
+125796,67,BlockedShot,0.9019999694824219,0.625999984741211,0.08694615960121155,Luiz Adriano,h,1127,OpenPlay,2016,RightFoot,4324,Spartak Moscow,FC Orenburg,3,2,2017-04-03 17:30:00,,None
+125801,74,SavedShot,0.775,0.7290000152587891,0.018106989562511444,Quincy Promes,h,2815,OpenPlay,2016,RightFoot,4324,Spartak Moscow,FC Orenburg,3,2,2017-04-03 17:30:00,Jano Ananidze,Pass
+125802,79,MissedShots,0.8930000305175781,0.54,0.031236784532666206,Roman Zobnin,h,2750,OpenPlay,2016,Head,4324,Spartak Moscow,FC Orenburg,3,2,2017-04-03 17:30:00,Andrey Eshchenko,Aerial
+125803,81,MissedShots,0.895,0.4370000076293945,0.12543435394763947,Zé Luís,h,2818,OpenPlay,2016,RightFoot,4324,Spartak Moscow,FC Orenburg,3,2,2017-04-03 17:30:00,Denis Glushakov,Pass
+125805,94,Goal,0.87,0.4570000076293945,0.10859242081642151,Quincy Promes,h,2815,OpenPlay,2016,RightFoot,4324,Spartak Moscow,FC Orenburg,3,2,2017-04-03 17:30:00,Andrey Eshchenko,Pass
+125782,22,MissedShots,0.7169999694824218,0.35400001525878905,0.011871961876749992,Maksim Grigoriev,a,3167,OpenPlay,2016,RightFoot,4324,Spartak Moscow,FC Orenburg,3,2,2017-04-03 17:30:00,Andrey Malykh,BallRecovery
+125783,27,MissedShots,0.9,0.47,0.10962025821208954,Michal Duris,a,5431,OpenPlay,2016,RightFoot,4324,Spartak Moscow,FC Orenburg,3,2,2017-04-03 17:30:00,Andrey Malykh,Cross
+125787,39,SavedShot,0.73,0.425,0.046048857271671295,Blagoy Georgiev,a,3102,DirectFreekick,2016,RightFoot,4324,Spartak Moscow,FC Orenburg,3,2,2017-04-03 17:30:00,,Standard
+125788,41,BlockedShot,0.720999984741211,0.6840000152587891,0.007670423947274685,Roman Vorobjov,a,5429,OpenPlay,2016,RightFoot,4324,Spartak Moscow,FC Orenburg,3,2,2017-04-03 17:30:00,Vladimir Poluyakhtov,TakeOn
+125789,42,MissedShots,0.8519999694824218,0.24600000381469728,0.02429010719060898,Stanislav Dragun,a,2752,OpenPlay,2016,LeftFoot,4324,Spartak Moscow,FC Orenburg,3,2,2017-04-03 17:30:00,Ade,Pass
+125791,47,MissedShots,0.8040000152587891,0.37400001525878906,0.03985446318984032,Michal Duris,a,5431,OpenPlay,2016,RightFoot,4324,Spartak Moscow,FC Orenburg,3,2,2017-04-03 17:30:00,Blagoy Georgiev,Pass
+125792,54,SavedShot,0.9730000305175781,0.33299999237060546,0.06294188648462296,Maksim Grigoriev,a,3167,OpenPlay,2016,RightFoot,4324,Spartak Moscow,FC Orenburg,3,2,2017-04-03 17:30:00,Blagoy Georgiev,Pass
+125794,62,BlockedShot,0.6790000152587891,0.764000015258789,0.0059272972866892815,Vladimir Poluyakhtov,a,5426,OpenPlay,2016,RightFoot,4324,Spartak Moscow,FC Orenburg,3,2,2017-04-03 17:30:00,Roman Vorobjov,HeadPass
+125795,62,MissedShots,0.92,0.48400001525878905,0.0941743329167366,Mikhail Sivakov,a,5424,FromCorner,2016,Head,4324,Spartak Moscow,FC Orenburg,3,2,2017-04-03 17:30:00,Blagoy Georgiev,Cross
+125797,69,Goal,0.725999984741211,0.6430000305175781,0.011018721386790276,Denis Popovic,a,5488,OpenPlay,2016,RightFoot,4324,Spartak Moscow,FC Orenburg,3,2,2017-04-03 17:30:00,Roman Vorobjov,Pass
+125798,70,SavedShot,0.9340000152587891,0.7819999694824219,0.030206741765141487,Vladimir Poluyakhtov,a,5426,OpenPlay,2016,RightFoot,4324,Spartak Moscow,FC Orenburg,3,2,2017-04-03 17:30:00,Denis Popovic,Pass
+125799,70,Goal,0.9619999694824218,0.500999984741211,0.7475637197494507,Michal Duris,a,5431,OpenPlay,2016,LeftFoot,4324,Spartak Moscow,FC Orenburg,3,2,2017-04-03 17:30:00,,Rebound
+125800,72,MissedShots,0.885,0.35200000762939454,0.010572261177003384,Maksim Grigoriev,a,3167,OpenPlay,2016,Head,4324,Spartak Moscow,FC Orenburg,3,2,2017-04-03 17:30:00,Blagoy Georgiev,Aerial
+125804,88,BlockedShot,0.9059999847412109,0.355,0.06992151588201523,Michal Duris,a,5431,OpenPlay,2016,RightFoot,4324,Spartak Moscow,FC Orenburg,3,2,2017-04-03 17:30:00,Roman Vorobjov,Chipped

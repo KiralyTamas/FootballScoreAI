@@ -1,0 +1,30 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+129762,10,Goal,0.9469999694824218,0.4490000152587891,0.5907083749771118,Pierre-Emerick Aubameyang,h,318,OpenPlay,2016,LeftFoot,2821,Borussia Dortmund,Bayern Munich,1,0,2016-11-19 21:30:00,Mario Götze,Pass
+129763,18,MissedShots,0.750999984741211,0.3340000152587891,0.021329887211322784,Lukasz Piszczek,h,310,OpenPlay,2016,RightFoot,2821,Borussia Dortmund,Bayern Munich,1,0,2016-11-19 21:30:00,,None
+129766,19,SavedShot,0.865999984741211,0.4540000152587891,0.07645239681005478,André Schürrle,h,154,OpenPlay,2016,RightFoot,2821,Borussia Dortmund,Bayern Munich,1,0,2016-11-19 21:30:00,Pierre-Emerick Aubameyang,Cross
+129771,27,BlockedShot,0.750999984741211,0.6,0.026625124737620354,André Schürrle,h,154,OpenPlay,2016,RightFoot,2821,Borussia Dortmund,Bayern Munich,1,0,2016-11-19 21:30:00,Adrián Ramos,Pass
+129772,28,SavedShot,0.7619999694824219,0.7630000305175781,0.01484408788383007,Marcel Schmelzer,h,313,OpenPlay,2016,LeftFoot,2821,Borussia Dortmund,Bayern Munich,1,0,2016-11-19 21:30:00,Lukasz Piszczek,Cross
+129778,45,BlockedShot,0.93,0.6659999847412109,0.27231547236442566,Pierre-Emerick Aubameyang,h,318,OpenPlay,2016,RightFoot,2821,Borussia Dortmund,Bayern Munich,1,0,2016-11-19 21:30:00,André Schürrle,Pass
+129780,48,MissedShots,0.9159999847412109,0.5320000076293945,0.07565456628799438,Pierre-Emerick Aubameyang,h,318,OpenPlay,2016,Head,2821,Borussia Dortmund,Bayern Munich,1,0,2016-11-19 21:30:00,Marcel Schmelzer,Chipped
+129783,62,MissedShots,0.9169999694824219,0.5279999923706055,0.04170060530304909,Adrián Ramos,h,324,FromCorner,2016,Head,2821,Borussia Dortmund,Bayern Munich,1,0,2016-11-19 21:30:00,André Schürrle,Aerial
+129785,70,SavedShot,0.8580000305175781,0.5359999847412109,0.3909984827041626,Pierre-Emerick Aubameyang,h,318,OpenPlay,2016,LeftFoot,2821,Borussia Dortmund,Bayern Munich,1,0,2016-11-19 21:30:00,,BallRecovery
+129786,71,MissedShots,0.879000015258789,0.6809999847412109,0.03410930931568146,Pierre-Emerick Aubameyang,h,318,FromCorner,2016,RightFoot,2821,Borussia Dortmund,Bayern Munich,1,0,2016-11-19 21:30:00,Mario Götze,Cross
+129787,79,MissedShots,0.75,0.23299999237060548,0.008785470388829708,Gonzalo Castro,h,316,SetPiece,2016,RightFoot,2821,Borussia Dortmund,Bayern Munich,1,0,2016-11-19 21:30:00,,None
+129764,19,BlockedShot,0.769000015258789,0.6430000305175781,0.01943656988441944,Thiago Alcántara,a,229,OpenPlay,2016,RightFoot,2821,Borussia Dortmund,Bayern Munich,1,0,2016-11-19 21:30:00,,None
+129765,19,BlockedShot,0.7709999847412109,0.365,0.020032331347465515,Joshua Kimmich,a,223,OpenPlay,2016,RightFoot,2821,Borussia Dortmund,Bayern Munich,1,0,2016-11-19 21:30:00,,Dispossessed
+129767,20,BlockedShot,0.9169999694824219,0.5590000152587891,0.07584499567747116,Robert Lewandowski,a,227,FromCorner,2016,Head,2821,Borussia Dortmund,Bayern Munich,1,0,2016-11-19 21:30:00,Thiago Alcántara,Cross
+129768,22,MissedShots,0.7380000305175781,0.4540000152587891,0.020363109186291695,Joshua Kimmich,a,223,OpenPlay,2016,RightFoot,2821,Borussia Dortmund,Bayern Munich,1,0,2016-11-19 21:30:00,Robert Lewandowski,Pass
+129769,25,BlockedShot,0.8130000305175781,0.4520000076293945,0.039128318428993225,Joshua Kimmich,a,223,OpenPlay,2016,LeftFoot,2821,Borussia Dortmund,Bayern Munich,1,0,2016-11-19 21:30:00,Xabi Alonso,HeadPass
+129770,25,MissedShots,0.9159999847412109,0.49,0.041130565106868744,Robert Lewandowski,a,227,OpenPlay,2016,Head,2821,Borussia Dortmund,Bayern Munich,1,0,2016-11-19 21:30:00,Joshua Kimmich,Rebound
+129773,31,SavedShot,0.8719999694824219,0.43,0.010107260197401047,Mats Hummels,a,373,SetPiece,2016,Head,2821,Borussia Dortmund,Bayern Munich,1,0,2016-11-19 21:30:00,Xabi Alonso,Aerial
+129774,39,MissedShots,0.909000015258789,0.5709999847412109,0.09415517002344131,Thiago Alcántara,a,229,OpenPlay,2016,RightFoot,2821,Borussia Dortmund,Bayern Munich,1,0,2016-11-19 21:30:00,Philipp Lahm,Chipped
+129775,40,BlockedShot,0.795,0.6580000305175782,0.02744823694229126,Franck Ribéry,a,329,OpenPlay,2016,RightFoot,2821,Borussia Dortmund,Bayern Munich,1,0,2016-11-19 21:30:00,David Alaba,TakeOn
+129776,43,MissedShots,0.754000015258789,0.48,0.018395233899354935,Thiago Alcántara,a,229,FromCorner,2016,RightFoot,2821,Borussia Dortmund,Bayern Munich,1,0,2016-11-19 21:30:00,,None
+129777,45,SavedShot,0.9430000305175781,0.649000015258789,0.010602028109133244,Mats Hummels,a,373,OpenPlay,2016,Head,2821,Borussia Dortmund,Bayern Munich,1,0,2016-11-19 21:30:00,Xabi Alonso,Aerial
+129779,46,SavedShot,0.8690000152587891,0.5790000152587891,0.023371785879135132,Robert Lewandowski,a,227,OpenPlay,2016,Head,2821,Borussia Dortmund,Bayern Munich,1,0,2016-11-19 21:30:00,David Alaba,Cross
+129781,59,BlockedShot,0.8809999847412109,0.43900001525878907,0.07336752861738205,Mats Hummels,a,373,FromCorner,2016,LeftFoot,2821,Borussia Dortmund,Bayern Munich,1,0,2016-11-19 21:30:00,Xabi Alonso,HeadPass
+129782,60,ShotOnPost,0.779000015258789,0.6580000305175782,0.020709572359919548,Xabi Alonso,a,230,OpenPlay,2016,LeftFoot,2821,Borussia Dortmund,Bayern Munich,1,0,2016-11-19 21:30:00,Franck Ribéry,Pass
+129784,66,MissedShots,0.7759999847412109,0.28600000381469726,0.019367145374417305,Douglas Costa,a,393,OpenPlay,2016,LeftFoot,2821,Borussia Dortmund,Bayern Munich,1,0,2016-11-19 21:30:00,Franck Ribéry,Pass
+129788,80,BlockedShot,0.9,0.29100000381469726,0.033989861607551575,Robert Lewandowski,a,227,OpenPlay,2016,RightFoot,2821,Borussia Dortmund,Bayern Munich,1,0,2016-11-19 21:30:00,Jérôme Boateng,Pass
+129789,84,MissedShots,0.8830000305175781,0.5770000076293945,0.015146097168326378,Thomas Müller,a,224,OpenPlay,2016,Head,2821,Borussia Dortmund,Bayern Munich,1,0,2016-11-19 21:30:00,Mats Hummels,Aerial
+129790,92,MissedShots,0.9259999847412109,0.485,0.36852774024009705,Robert Lewandowski,a,227,OpenPlay,2016,Head,2821,Borussia Dortmund,Bayern Munich,1,0,2016-11-19 21:30:00,Mats Hummels,Cross

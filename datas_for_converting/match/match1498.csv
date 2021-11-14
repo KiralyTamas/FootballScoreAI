@@ -1,0 +1,35 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+86067,18,BlockedShot,0.8080000305175781,0.4370000076293945,0.041937973350286484,Joaquín,h,2148,OpenPlay,2015,LeftFoot,1498,Real Betis,Athletic Club,1,3,2015-11-01 23:30:00,Rubén Castro,TakeOn
+86072,28,BlockedShot,0.720999984741211,0.4279999923706055,0.017865004017949104,Rubén Castro,h,2150,OpenPlay,2015,RightFoot,1498,Real Betis,Athletic Club,1,3,2015-11-01 23:30:00,Francisco Portillo,Pass
+86073,28,BlockedShot,0.9259999847412109,0.6179999923706054,0.09535901248455048,Dani Ceballos,h,2446,OpenPlay,2015,RightFoot,1498,Real Betis,Athletic Club,1,3,2015-11-01 23:30:00,Francisco Portillo,TakeOn
+86074,39,BlockedShot,0.7930000305175782,0.3509999847412109,0.023968176916241646,Rubén Castro,h,2150,OpenPlay,2015,RightFoot,1498,Real Betis,Athletic Club,1,3,2015-11-01 23:30:00,Cristiano Piccini,BallRecovery
+86075,40,SavedShot,0.9019999694824219,0.495,0.07881993055343628,Ricky van Wolfswinkel,h,1012,FromCorner,2015,Head,1498,Real Betis,Athletic Club,1,3,2015-11-01 23:30:00,Francisco Portillo,Cross
+86077,48,BlockedShot,0.86,0.46799999237060547,0.09346414357423782,Francisco Molinero,h,2151,OpenPlay,2015,RightFoot,1498,Real Betis,Athletic Club,1,3,2015-11-01 23:30:00,Joaquín,Pass
+86086,63,MissedShots,0.9019999694824219,0.39599998474121095,0.03062823787331581,Rubén Castro,h,2150,FromCorner,2015,Head,1498,Real Betis,Athletic Club,1,3,2015-11-01 23:30:00,Varela,Cross
+86087,66,Goal,0.885,0.5,0.7432776093482971,Rubén Castro,h,2150,Penalty,2015,RightFoot,1498,Real Betis,Athletic Club,1,3,2015-11-01 23:30:00,,Standard
+86088,70,MissedShots,0.8969999694824219,0.30100000381469727,0.04186379909515381,Ricky van Wolfswinkel,h,1012,OpenPlay,2015,RightFoot,1498,Real Betis,Athletic Club,1,3,2015-11-01 23:30:00,Cristiano Piccini,Pass
+86092,85,BlockedShot,0.8490000152587891,0.47400001525878904,0.06191148981451988,Cristiano Piccini,h,2560,FromCorner,2015,RightFoot,1498,Real Betis,Athletic Club,1,3,2015-11-01 23:30:00,,None
+86094,89,SavedShot,0.69,0.504000015258789,0.010839535854756832,Didier Digard,h,2530,OpenPlay,2015,RightFoot,1498,Real Betis,Athletic Club,1,3,2015-11-01 23:30:00,Varela,Pass
+86061,2,BlockedShot,0.9,0.34200000762939453,0.04332387447357178,Raúl García,a,2400,FromCorner,2015,RightFoot,1498,Real Betis,Athletic Club,1,3,2015-11-01 23:30:00,Etxeita,Chipped
+86062,5,MissedShots,0.9580000305175781,0.5690000152587891,0.43216633796691895,San José,a,2395,SetPiece,2015,Head,1498,Real Betis,Athletic Club,1,3,2015-11-01 23:30:00,Beñat,Cross
+86063,7,SavedShot,0.915,0.305,0.05357431620359421,De Marcos,a,2452,OpenPlay,2015,RightFoot,1498,Real Betis,Athletic Club,1,3,2015-11-01 23:30:00,Sabin,Pass
+86064,7,Goal,0.8390000152587891,0.355,0.03523748740553856,Iñaki Williams,a,2399,FromCorner,2015,RightFoot,1498,Real Betis,Athletic Club,1,3,2015-11-01 23:30:00,Etxeita,Pass
+86065,14,MissedShots,0.6120000076293945,0.095,0.00844517070800066,Raúl García,a,2400,OpenPlay,2015,RightFoot,1498,Real Betis,Athletic Club,1,3,2015-11-01 23:30:00,De Marcos,BallRecovery
+86066,16,BlockedShot,0.925,0.30100000381469727,0.07750801742076874,Iñaki Williams,a,2399,OpenPlay,2015,RightFoot,1498,Real Betis,Athletic Club,1,3,2015-11-01 23:30:00,Aduriz,Pass
+86068,19,SavedShot,0.93,0.54,0.06235991418361664,Aduriz,a,2410,FromCorner,2015,Head,1498,Real Betis,Athletic Club,1,3,2015-11-01 23:30:00,,None
+86069,22,BlockedShot,0.889000015258789,0.6020000076293945,0.045108579099178314,Aymeric Laporte,a,2498,FromCorner,2015,LeftFoot,1498,Real Betis,Athletic Club,1,3,2015-11-01 23:30:00,Beñat,Cross
+86070,23,BlockedShot,0.8159999847412109,0.28299999237060547,0.04939008504152298,Iñaki Williams,a,2399,OpenPlay,2015,RightFoot,1498,Real Betis,Athletic Club,1,3,2015-11-01 23:30:00,Raúl García,Pass
+86071,27,MissedShots,0.94,0.575,0.5051320791244507,Aduriz,a,2410,OpenPlay,2015,RightFoot,1498,Real Betis,Athletic Club,1,3,2015-11-01 23:30:00,Raúl García,Pass
+86076,44,Goal,0.9530000305175781,0.4779999923706055,0.6030235290527344,Iñaki Williams,a,2399,OpenPlay,2015,RightFoot,1498,Real Betis,Athletic Club,1,3,2015-11-01 23:30:00,Raúl García,Cross
+86078,49,SavedShot,0.789000015258789,0.5070000076293946,0.078063003718853,Sabin,a,2499,OpenPlay,2015,RightFoot,1498,Real Betis,Athletic Club,1,3,2015-11-01 23:30:00,,None
+86079,54,SavedShot,0.9309999847412109,0.475,0.5512649416923523,Raúl García,a,2400,OpenPlay,2015,RightFoot,1498,Real Betis,Athletic Club,1,3,2015-11-01 23:30:00,Aduriz,HeadPass
+86080,54,BlockedShot,0.9,0.32799999237060545,0.05256932973861694,Iñaki Williams,a,2399,OpenPlay,2015,LeftFoot,1498,Real Betis,Athletic Club,1,3,2015-11-01 23:30:00,,Rebound
+86081,55,ShotOnPost,0.835999984741211,0.715,0.05031277611851692,Raúl García,a,2400,OpenPlay,2015,LeftFoot,1498,Real Betis,Athletic Club,1,3,2015-11-01 23:30:00,Sabin,Pass
+86082,55,MissedShots,0.860999984741211,0.3,0.02882082760334015,Iñaki Williams,a,2399,OpenPlay,2015,RightFoot,1498,Real Betis,Athletic Club,1,3,2015-11-01 23:30:00,,Rebound
+86083,55,MissedShots,0.9230000305175782,0.4909999847412109,0.5858766436576843,Aduriz,a,2410,OpenPlay,2015,LeftFoot,1498,Real Betis,Athletic Club,1,3,2015-11-01 23:30:00,Iñaki Williams,None
+86084,59,BlockedShot,0.7659999847412109,0.19399999618530273,0.023006297647953033,Raúl García,a,2400,OpenPlay,2015,LeftFoot,1498,Real Betis,Athletic Club,1,3,2015-11-01 23:30:00,Iñaki Williams,Pass
+86085,61,MissedShots,0.91,0.5659999847412109,0.021289635449647903,Aymeric Laporte,a,2498,FromCorner,2015,Head,1498,Real Betis,Athletic Club,1,3,2015-11-01 23:30:00,Beñat,Aerial
+86089,72,SavedShot,0.9480000305175781,0.6969999694824218,0.06568925082683563,Aduriz,a,2410,OpenPlay,2015,LeftFoot,1498,Real Betis,Athletic Club,1,3,2015-11-01 23:30:00,Beñat,TakeOn
+86090,73,BlockedShot,0.7969999694824219,0.4129999923706055,0.047122128307819366,Raúl García,a,2400,OpenPlay,2015,RightFoot,1498,Real Betis,Athletic Club,1,3,2015-11-01 23:30:00,Aduriz,Pass
+86091,73,SavedShot,0.9630000305175781,0.5320000076293945,0.5965277552604675,Aymeric Laporte,a,2498,FromCorner,2015,LeftFoot,1498,Real Betis,Athletic Club,1,3,2015-11-01 23:30:00,,None
+86093,86,Goal,0.774000015258789,0.5070000076293946,0.03662190958857536,Raúl García,a,2400,OpenPlay,2015,LeftFoot,1498,Real Betis,Athletic Club,1,3,2015-11-01 23:30:00,Aduriz,HeadPass

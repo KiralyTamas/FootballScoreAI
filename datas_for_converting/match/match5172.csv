@@ -1,0 +1,22 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+31602,7,MissedShots,0.894000015258789,0.5570000076293945,0.08337529748678207,Salif Sané,h,96,SetPiece,2014,RightFoot,5172,Hannover 96,Werder Bremen,1,1,2015-05-09 14:30:00,Hiroshi Kiyotake,Chipped
+31603,10,BlockedShot,0.9369999694824219,0.61,0.12131233513355255,Lars Stindl,h,208,OpenPlay,2014,LeftFoot,5172,Hannover 96,Werder Bremen,1,1,2015-05-09 14:30:00,Edgar Prib,Pass
+31604,10,MissedShots,0.675,0.48700000762939455,0.009175453335046768,Christian Schulz,h,94,OpenPlay,2014,LeftFoot,5172,Hannover 96,Werder Bremen,1,1,2015-05-09 14:30:00,,None
+31605,16,MissedShots,0.870999984741211,0.46,0.35732460021972656,Jimmy Briand,h,3477,OpenPlay,2014,RightFoot,5172,Hannover 96,Werder Bremen,1,1,2015-05-09 14:30:00,Edgar Prib,Pass
+31607,20,Goal,0.8480000305175781,0.509000015258789,0.31312310695648193,Lars Stindl,h,208,OpenPlay,2014,RightFoot,5172,Hannover 96,Werder Bremen,1,1,2015-05-09 14:30:00,Jimmy Briand,HeadPass
+31608,25,MissedShots,0.95,0.55,0.08206325024366379,Christian Schulz,h,94,FromCorner,2014,Head,5172,Hannover 96,Werder Bremen,1,1,2015-05-09 14:30:00,Salif Sané,HeadPass
+31609,28,MissedShots,0.8880000305175781,0.5870000076293945,0.02599717117846012,Lars Stindl,h,208,FromCorner,2014,Head,5172,Hannover 96,Werder Bremen,1,1,2015-05-09 14:30:00,Hiroshi Kiyotake,Cross
+31610,30,MissedShots,0.8809999847412109,0.49599998474121093,0.10159121453762054,Jimmy Briand,h,3477,OpenPlay,2014,RightFoot,5172,Hannover 96,Werder Bremen,1,1,2015-05-09 14:30:00,Manuel Schmiedebach,Cross
+31611,32,MissedShots,0.8819999694824219,0.4470000076293945,0.014469235204160213,Marcelo,h,93,FromCorner,2014,Head,5172,Hannover 96,Werder Bremen,1,1,2015-05-09 14:30:00,Hiroshi Kiyotake,Aerial
+31614,65,SavedShot,0.875999984741211,0.4879999923706055,0.01425711065530777,Salif Sané,h,96,SetPiece,2014,Head,5172,Hannover 96,Werder Bremen,1,1,2015-05-09 14:30:00,Hiroshi Kiyotake,Aerial
+31618,82,SavedShot,0.7480000305175781,0.48900001525878906,0.024031944572925568,Kenan Karaman,h,98,OpenPlay,2014,LeftFoot,5172,Hannover 96,Werder Bremen,1,1,2015-05-09 14:30:00,Lars Stindl,TakeOn
+31620,90,MissedShots,0.7709999847412109,0.5670000076293945,0.02583145536482334,Salif Sané,h,96,OpenPlay,2014,LeftFoot,5172,Hannover 96,Werder Bremen,1,1,2015-05-09 14:30:00,,None
+31601,2,BlockedShot,0.735,0.5790000152587891,0.019643541425466537,Zlatko Junuzovic,a,301,OpenPlay,2014,LeftFoot,5172,Hannover 96,Werder Bremen,1,1,2015-05-09 14:30:00,Izet Hajrovic,Pass
+31606,17,MissedShots,0.764000015258789,0.6969999694824218,0.011362958699464798,Clemens Fritz,a,117,SetPiece,2014,RightFoot,5172,Hannover 96,Werder Bremen,1,1,2015-05-09 14:30:00,,None
+31612,45,SavedShot,0.765,0.7290000152587891,0.01636415161192417,Clemens Fritz,a,117,OpenPlay,2014,RightFoot,5172,Hannover 96,Werder Bremen,1,1,2015-05-09 14:30:00,Franco Di Santo,Pass
+31613,59,MissedShots,0.9,0.500999984741211,0.06936773657798767,Assani Lukimya,a,123,FromCorner,2014,Head,5172,Hannover 96,Werder Bremen,1,1,2015-05-09 14:30:00,Zlatko Junuzovic,Cross
+31615,69,MissedShots,0.9230000305175782,0.575999984741211,0.032526690512895584,Franco Di Santo,a,341,OpenPlay,2014,Head,5172,Hannover 96,Werder Bremen,1,1,2015-05-09 14:30:00,Fin Bartels,Aerial
+31616,77,Goal,0.7619999694824219,0.39599998474121095,0.06989750266075134,Zlatko Junuzovic,a,301,DirectFreekick,2014,RightFoot,5172,Hannover 96,Werder Bremen,1,1,2015-05-09 14:30:00,,Standard
+31617,81,BlockedShot,0.884000015258789,0.27,0.11027812212705612,Fin Bartels,a,115,OpenPlay,2014,RightFoot,5172,Hannover 96,Werder Bremen,1,1,2015-05-09 14:30:00,Levin Öztunali,Throughball
+31619,85,MissedShots,0.730999984741211,0.620999984741211,0.04858516529202461,Zlatko Junuzovic,a,301,DirectFreekick,2014,RightFoot,5172,Hannover 96,Werder Bremen,1,1,2015-05-09 14:30:00,,Standard
+31621,92,SavedShot,0.9409999847412109,0.33099998474121095,0.11209625750780106,Clemens Fritz,a,117,OpenPlay,2014,RightFoot,5172,Hannover 96,Werder Bremen,1,1,2015-05-09 14:30:00,Zlatko Junuzovic,Pass

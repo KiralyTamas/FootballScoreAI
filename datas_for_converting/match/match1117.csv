@@ -1,0 +1,28 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+78419,4,MissedShots,0.8980000305175782,0.3890000152587891,0.05683000013232231,Nicklas Bendtner,h,160,OpenPlay,2015,RightFoot,1117,Wolfsburg,Bayer Leverkusen,2,1,2015-10-31 21:30:00,Vieirinha,Cross
+78422,24,BlockedShot,0.855,0.485,0.07534010708332062,Nicklas Bendtner,h,160,OpenPlay,2015,RightFoot,1117,Wolfsburg,Bayer Leverkusen,2,1,2015-10-31 21:30:00,Sebastian Jung,Chipped
+78423,28,MissedShots,0.7430000305175781,0.4370000076293945,0.011653118766844273,Vieirinha,h,151,OpenPlay,2015,LeftFoot,1117,Wolfsburg,Bayer Leverkusen,2,1,2015-10-31 21:30:00,Daniel Caligiuri,Chipped
+78425,33,Goal,0.9180000305175782,0.5779999923706055,0.4184812307357788,Nicklas Bendtner,h,160,OpenPlay,2015,RightFoot,1117,Wolfsburg,Bayer Leverkusen,2,1,2015-10-31 21:30:00,Vieirinha,Pass
+78428,44,BlockedShot,0.8159999847412109,0.25299999237060544,0.06425628066062927,Ricardo Rodríguez,h,308,DirectFreekick,2015,LeftFoot,1117,Wolfsburg,Bayer Leverkusen,2,1,2015-10-31 21:30:00,,Standard
+78429,45,SavedShot,0.879000015258789,0.42200000762939455,0.02800694666802883,André Schürrle,h,154,FromCorner,2015,Head,1117,Wolfsburg,Bayer Leverkusen,2,1,2015-10-31 21:30:00,Sebastian Jung,Cross
+78434,60,BlockedShot,0.7469999694824219,0.33599998474121096,0.010969406925141811,Maximilian Arnold,h,153,SetPiece,2015,LeftFoot,1117,Wolfsburg,Bayer Leverkusen,2,1,2015-10-31 21:30:00,,None
+78435,61,BlockedShot,0.81,0.49900001525878906,0.037878599017858505,Daniel Caligiuri,h,157,FromCorner,2015,LeftFoot,1117,Wolfsburg,Bayer Leverkusen,2,1,2015-10-31 21:30:00,,None
+78437,68,MissedShots,0.8730000305175781,0.605999984741211,0.333761990070343,André Schürrle,h,154,OpenPlay,2015,RightFoot,1117,Wolfsburg,Bayer Leverkusen,2,1,2015-10-31 21:30:00,Maximilian Arnold,Pass
+78438,76,SavedShot,0.6909999847412109,0.7169999694824218,0.011324397288262844,Ricardo Rodríguez,h,308,OpenPlay,2015,LeftFoot,1117,Wolfsburg,Bayer Leverkusen,2,1,2015-10-31 21:30:00,Sebastian Jung,Pass
+78439,76,Goal,0.98,0.524000015258789,0.9130411148071289,Julian Draxler,h,152,OpenPlay,2015,LeftFoot,1117,Wolfsburg,Bayer Leverkusen,2,1,2015-10-31 21:30:00,Bas Dost,Pass
+78440,79,MissedShots,0.9169999694824219,0.33,0.0891343504190445,Julian Draxler,h,152,OpenPlay,2015,LeftFoot,1117,Wolfsburg,Bayer Leverkusen,2,1,2015-10-31 21:30:00,Daniel Caligiuri,TakeOn
+78442,86,SavedShot,0.9430000305175781,0.28200000762939453,0.06220485642552376,André Schürrle,h,154,OpenPlay,2015,RightFoot,1117,Wolfsburg,Bayer Leverkusen,2,1,2015-10-31 21:30:00,,None
+78420,11,SavedShot,0.8419999694824218,0.504000015258789,0.0913030132651329,Chicharito,a,191,OpenPlay,2015,RightFoot,1117,Wolfsburg,Bayer Leverkusen,2,1,2015-10-31 21:30:00,Hakan Calhanoglu,Pass
+78421,19,BlockedShot,0.755,0.7119999694824218,0.018423018977046013,Wendell,a,185,OpenPlay,2015,LeftFoot,1117,Wolfsburg,Bayer Leverkusen,2,1,2015-10-31 21:30:00,,TakeOn
+78424,28,MissedShots,0.9259999847412109,0.2620000076293945,0.056289661675691605,Karim Bellarabi,a,186,OpenPlay,2015,RightFoot,1117,Wolfsburg,Bayer Leverkusen,2,1,2015-10-31 21:30:00,Kevin Kampl,Pass
+78426,38,SavedShot,0.855,0.46599998474121096,0.06324359774589539,Hakan Calhanoglu,a,189,OpenPlay,2015,RightFoot,1117,Wolfsburg,Bayer Leverkusen,2,1,2015-10-31 21:30:00,,None
+78427,39,Goal,0.9619999694824218,0.504000015258789,0.5503783226013184,Chicharito,a,191,OpenPlay,2015,Head,1117,Wolfsburg,Bayer Leverkusen,2,1,2015-10-31 21:30:00,Christoph Kramer,Chipped
+78430,45,SavedShot,0.8419999694824218,0.56,0.23741546273231506,Admir Mehmedi,a,194,OpenPlay,2015,LeftFoot,1117,Wolfsburg,Bayer Leverkusen,2,1,2015-10-31 21:30:00,Karim Bellarabi,Pass
+78431,53,SavedShot,0.9009999847412109,0.24,0.032048117369413376,Kevin Kampl,a,188,OpenPlay,2015,RightFoot,1117,Wolfsburg,Bayer Leverkusen,2,1,2015-10-31 21:30:00,Jonathan Tah,Pass
+78432,55,MissedShots,0.875999984741211,0.515,0.014463147148489952,Kyriakos Papadopoulos,a,197,SetPiece,2015,Head,1117,Wolfsburg,Bayer Leverkusen,2,1,2015-10-31 21:30:00,Hakan Calhanoglu,Aerial
+78433,56,BlockedShot,0.86,0.555,0.0986626073718071,Christoph Kramer,a,187,OpenPlay,2015,LeftFoot,1117,Wolfsburg,Bayer Leverkusen,2,1,2015-10-31 21:30:00,Chicharito,Pass
+78436,67,MissedShots,0.705,0.4209999847412109,0.014703849330544472,Kevin Kampl,a,188,OpenPlay,2015,RightFoot,1117,Wolfsburg,Bayer Leverkusen,2,1,2015-10-31 21:30:00,Karim Bellarabi,Pass
+78441,83,ShotOnPost,0.76,0.3029999923706055,0.05107203498482704,Wendell,a,185,DirectFreekick,2015,LeftFoot,1117,Wolfsburg,Bayer Leverkusen,2,1,2015-10-31 21:30:00,,Standard
+78443,87,SavedShot,0.965999984741211,0.325,0.058097466826438904,Karim Bellarabi,a,186,OpenPlay,2015,RightFoot,1117,Wolfsburg,Bayer Leverkusen,2,1,2015-10-31 21:30:00,Julian Brandt,TakeOn
+78444,90,MissedShots,0.7219999694824218,0.6630000305175782,0.01560185756534338,Karim Bellarabi,a,186,OpenPlay,2015,RightFoot,1117,Wolfsburg,Bayer Leverkusen,2,1,2015-10-31 21:30:00,Ömer Toprak,Pass
+78445,92,MissedShots,0.8930000305175781,0.5420000076293945,0.016760608181357384,Ömer Toprak,a,184,FromCorner,2015,Head,1117,Wolfsburg,Bayer Leverkusen,2,1,2015-10-31 21:30:00,Admir Mehmedi,Aerial

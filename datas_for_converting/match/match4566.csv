@@ -1,0 +1,30 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+17792,12,BlockedShot,0.74,0.539000015258789,0.0569261834025383,Romelu Lukaku,h,594,DirectFreekick,2014,LeftFoot,4566,Everton,Manchester City,1,1,2015-01-10 15:00:00,,Standard
+17794,15,MissedShots,0.7219999694824218,0.39799999237060546,0.012210812419652939,Muhamed Besic,h,908,OpenPlay,2014,RightFoot,4566,Everton,Manchester City,1,1,2015-01-10 15:00:00,,None
+17795,16,BlockedShot,0.7219999694824218,0.4420000076293945,0.045966535806655884,Leighton Baines,h,588,DirectFreekick,2014,LeftFoot,4566,Everton,Manchester City,1,1,2015-01-10 15:00:00,,Standard
+17805,42,SavedShot,0.9319999694824219,0.345,0.30523863434791565,Romelu Lukaku,h,594,OpenPlay,2014,RightFoot,4566,Everton,Manchester City,1,1,2015-01-10 15:00:00,Seamus Coleman,TakeOn
+17806,42,ShotOnPost,0.7559999847412109,0.4640000152587891,0.023272192105650902,Seamus Coleman,h,585,OpenPlay,2014,LeftFoot,4566,Everton,Manchester City,1,1,2015-01-10 15:00:00,Aiden McGeady,Pass
+17807,46,MissedShots,0.774000015258789,0.7090000152587891,0.051473092287778854,Ross Barkley,h,592,DirectFreekick,2014,RightFoot,4566,Everton,Manchester City,1,1,2015-01-10 15:00:00,,Standard
+17809,56,SavedShot,0.925,0.710999984741211,0.07356085628271103,Romelu Lukaku,h,594,OpenPlay,2014,LeftFoot,4566,Everton,Manchester City,1,1,2015-01-10 15:00:00,Ross Barkley,Pass
+17811,64,BlockedShot,0.7169999694824218,0.495,0.01881466619670391,Muhamed Besic,h,908,SetPiece,2014,RightFoot,4566,Everton,Manchester City,1,1,2015-01-10 15:00:00,Gareth Barry,Pass
+17815,75,MissedShots,0.750999984741211,0.32,0.016071317717432976,Muhamed Besic,h,908,OpenPlay,2014,RightFoot,4566,Everton,Manchester City,1,1,2015-01-10 15:00:00,Seamus Coleman,Pass
+17816,77,Goal,0.9219999694824219,0.5790000152587891,0.31251370906829834,Steven Naismith,h,824,SetPiece,2014,Head,4566,Everton,Manchester City,1,1,2015-01-10 15:00:00,Leighton Baines,Aerial
+17818,84,SavedShot,0.87,0.720999984741211,0.03436239808797836,Kevin Mirallas,h,595,OpenPlay,2014,RightFoot,4566,Everton,Manchester City,1,1,2015-01-10 15:00:00,Leighton Baines,Chipped
+17791,9,MissedShots,0.9119999694824219,0.3320000076293945,0.10334546864032745,Stevan Jovetic,a,1524,OpenPlay,2014,RightFoot,4566,Everton,Manchester City,1,1,2015-01-10 15:00:00,David Silva,Pass
+17793,13,MissedShots,0.895,0.31,0.05642534792423248,Jesús Navas,a,616,OpenPlay,2014,RightFoot,4566,Everton,Manchester City,1,1,2015-01-10 15:00:00,David Silva,Pass
+17796,19,MissedShots,0.8159999847412109,0.46099998474121096,0.058783359825611115,Stevan Jovetic,a,1524,OpenPlay,2014,RightFoot,4566,Everton,Manchester City,1,1,2015-01-10 15:00:00,David Silva,Pass
+17797,28,BlockedShot,0.7659999847412109,0.5570000076293945,0.07576598227024078,Samir Nasri,a,877,DirectFreekick,2014,RightFoot,4566,Everton,Manchester City,1,1,2015-01-10 15:00:00,,Standard
+17798,29,BlockedShot,0.879000015258789,0.7169999694824218,0.03727104142308235,David Silva,a,617,SetPiece,2014,RightFoot,4566,Everton,Manchester City,1,1,2015-01-10 15:00:00,Samir Nasri,BallTouch
+17799,29,MissedShots,0.9259999847412109,0.5459999847412109,0.13347163796424866,Eliaquim Mangala,a,626,SetPiece,2014,LeftFoot,4566,Everton,Manchester City,1,1,2015-01-10 15:00:00,David Silva,Rebound
+17800,31,MissedShots,0.86,0.5320000076293945,0.016601525247097015,Stevan Jovetic,a,1524,FromCorner,2014,Head,4566,Everton,Manchester City,1,1,2015-01-10 15:00:00,Samir Nasri,Cross
+17801,32,MissedShots,0.795,0.3990000152587891,0.03622673079371452,Stevan Jovetic,a,1524,OpenPlay,2014,RightFoot,4566,Everton,Manchester City,1,1,2015-01-10 15:00:00,David Silva,Pass
+17802,33,BlockedShot,0.8119999694824219,0.700999984741211,0.0252564437687397,Stevan Jovetic,a,1524,OpenPlay,2014,RightFoot,4566,Everton,Manchester City,1,1,2015-01-10 15:00:00,Gaël Clichy,TakeOn
+17803,34,BlockedShot,0.815,0.45599998474121095,0.020475102588534355,Samir Nasri,a,877,FromCorner,2014,RightFoot,4566,Everton,Manchester City,1,1,2015-01-10 15:00:00,Martín Demichelis,HeadPass
+17804,37,MissedShots,0.825999984741211,0.59,0.06143203005194664,David Silva,a,617,OpenPlay,2014,LeftFoot,4566,Everton,Manchester City,1,1,2015-01-10 15:00:00,Stevan Jovetic,Pass
+17808,54,MissedShots,0.735999984741211,0.6079999923706054,0.01572527177631855,Fernando,a,615,OpenPlay,2014,RightFoot,4566,Everton,Manchester City,1,1,2015-01-10 15:00:00,Samir Nasri,Pass
+17810,62,MissedShots,0.7909999847412109,0.575,0.026873581111431122,David Silva,a,617,SetPiece,2014,LeftFoot,4566,Everton,Manchester City,1,1,2015-01-10 15:00:00,,None
+17812,70,MissedShots,0.8090000152587891,0.4929999923706055,0.05884242430329323,Sergio Agüero,a,619,OpenPlay,2014,RightFoot,4566,Everton,Manchester City,1,1,2015-01-10 15:00:00,Samir Nasri,Pass
+17813,73,BlockedShot,0.884000015258789,0.43400001525878906,0.11209944635629654,David Silva,a,617,OpenPlay,2014,LeftFoot,4566,Everton,Manchester City,1,1,2015-01-10 15:00:00,Samir Nasri,Pass
+17814,73,Goal,0.9630000305175781,0.52,0.6682879328727722,Fernandinho,a,614,OpenPlay,2014,Head,4566,Everton,Manchester City,1,1,2015-01-10 15:00:00,,Rebound
+17817,84,MissedShots,0.8730000305175781,0.5570000076293945,0.04714832082390785,Sergio Agüero,a,619,FromCorner,2014,RightFoot,4566,Everton,Manchester City,1,1,2015-01-10 15:00:00,Jesús Navas,Cross
+17819,88,SavedShot,0.7909999847412109,0.605999984741211,0.03310035914182663,Samir Nasri,a,877,OpenPlay,2014,RightFoot,4566,Everton,Manchester City,1,1,2015-01-10 15:00:00,David Silva,Pass

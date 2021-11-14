@@ -1,0 +1,26 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+226142,4,SavedShot,0.8619999694824219,0.6580000305175782,0.05169455707073212,Martin Harnik,h,407,OpenPlay,2018,LeftFoot,10373,Werder Bremen,Hertha Berlin,3,1,2018-09-25 16:30:00,Max Kruse,Pass
+226143,4,SavedShot,0.745,0.38299999237060545,0.016635728999972343,Maximilian Eggestein,h,125,OpenPlay,2018,RightFoot,10373,Werder Bremen,Hertha Berlin,3,1,2018-09-25 16:30:00,,TakeOn
+226144,10,BlockedShot,0.9630000305175781,0.5520000076293945,0.256894052028656,Theodor Gebre Selassie,h,110,SetPiece,2018,OtherBodyPart,10373,Werder Bremen,Hertha Berlin,3,1,2018-09-25 16:30:00,Niklas Moisander,HeadPass
+226145,10,Goal,0.97,0.4909999847412109,0.8416222333908081,Martin Harnik,h,407,SetPiece,2018,RightFoot,10373,Werder Bremen,Hertha Berlin,3,1,2018-09-25 16:30:00,,Rebound
+226147,22,MissedShots,0.895,0.6819999694824219,0.071767657995224,Davy Klaassen,h,6045,OpenPlay,2018,LeftFoot,10373,Werder Bremen,Hertha Berlin,3,1,2018-09-25 16:30:00,,None
+226148,24,SavedShot,0.92,0.48700000762939455,0.12817883491516113,Martin Harnik,h,407,OpenPlay,2018,RightFoot,10373,Werder Bremen,Hertha Berlin,3,1,2018-09-25 16:30:00,,None
+226149,24,MissedShots,0.8730000305175781,0.4929999923706055,0.37281787395477295,Davy Klaassen,h,6045,OpenPlay,2018,LeftFoot,10373,Werder Bremen,Hertha Berlin,3,1,2018-09-25 16:30:00,,Rebound
+226154,44,Goal,0.925,0.5479999923706055,0.04329235851764679,Milos Veljkovic,h,2691,FromCorner,2018,Head,10373,Werder Bremen,Hertha Berlin,3,1,2018-09-25 16:30:00,Nuri Sahin,Aerial
+226156,51,BlockedShot,0.755,0.500999984741211,0.030377954244613647,Max Kruse,h,155,OpenPlay,2018,RightFoot,10373,Werder Bremen,Hertha Berlin,3,1,2018-09-25 16:30:00,Maximilian Eggestein,Pass
+226157,52,BlockedShot,0.785,0.34900001525878904,0.04335254803299904,Maximilian Eggestein,h,125,OpenPlay,2018,RightFoot,10373,Werder Bremen,Hertha Berlin,3,1,2018-09-25 16:30:00,Yuya Osako,Pass
+226160,64,BlockedShot,0.87,0.47200000762939454,0.10194975137710571,Max Kruse,h,155,OpenPlay,2018,LeftFoot,10373,Werder Bremen,Hertha Berlin,3,1,2018-09-25 16:30:00,,None
+226161,65,Goal,0.885,0.5,0.75777667760849,Max Kruse,h,155,Penalty,2018,LeftFoot,10373,Werder Bremen,Hertha Berlin,3,1,2018-09-25 16:30:00,,Standard
+226163,79,MissedShots,0.8069999694824219,0.750999984741211,0.02907521091401577,Florian Kainz,h,5231,OpenPlay,2018,RightFoot,10373,Werder Bremen,Hertha Berlin,3,1,2018-09-25 16:30:00,Max Kruse,Pass
+226165,87,BlockedShot,0.7709999847412109,0.5609999847412109,0.03721603378653526,Yuya Osako,h,135,OpenPlay,2018,RightFoot,10373,Werder Bremen,Hertha Berlin,3,1,2018-09-25 16:30:00,Max Kruse,BallTouch
+226146,15,MissedShots,0.745,0.6680000305175782,0.01258610188961029,Javairo Dilrosun,a,7122,FromCorner,2018,LeftFoot,10373,Werder Bremen,Hertha Berlin,3,1,2018-09-25 16:30:00,,Aerial
+226150,26,BlockedShot,0.85,0.4620000076293945,0.1053118109703064,Vedad Ibisevic,a,29,OpenPlay,2018,LeftFoot,10373,Werder Bremen,Hertha Berlin,3,1,2018-09-25 16:30:00,Arne Maier,TakeOn
+226151,26,MissedShots,0.68,0.549000015258789,0.013329172506928444,Javairo Dilrosun,a,7122,OpenPlay,2018,LeftFoot,10373,Werder Bremen,Hertha Berlin,3,1,2018-09-25 16:30:00,Marvin Plattenhardt,Pass
+226152,40,MissedShots,0.9409999847412109,0.625999984741211,0.3049262762069702,Vedad Ibisevic,a,29,OpenPlay,2018,RightFoot,10373,Werder Bremen,Hertha Berlin,3,1,2018-09-25 16:30:00,Pal Dardai,HeadPass
+226153,43,MissedShots,0.745999984741211,0.5659999847412109,0.021277401596307755,Javairo Dilrosun,a,7122,OpenPlay,2018,LeftFoot,10373,Werder Bremen,Hertha Berlin,3,1,2018-09-25 16:30:00,Arne Maier,Pass
+226155,48,MissedShots,0.905,0.34799999237060547,0.06505740433931351,Vedad Ibisevic,a,29,OpenPlay,2018,RightFoot,10373,Werder Bremen,Hertha Berlin,3,1,2018-09-25 16:30:00,,Dispossessed
+226158,52,Goal,0.97,0.6659999847412109,0.05747506767511368,Javairo Dilrosun,a,7122,OpenPlay,2018,LeftFoot,10373,Werder Bremen,Hertha Berlin,3,1,2018-09-25 16:30:00,Vedad Ibisevic,Pass
+226159,55,MissedShots,0.6569999694824219,0.5059999847412109,0.028604047372937202,Marvin Plattenhardt,a,23,DirectFreekick,2018,LeftFoot,10373,Werder Bremen,Hertha Berlin,3,1,2018-09-25 16:30:00,,Standard
+226162,78,SavedShot,0.870999984741211,0.5879999923706055,0.2618255317211151,Davie Selke,a,4280,OpenPlay,2018,RightFoot,10373,Werder Bremen,Hertha Berlin,3,1,2018-09-25 16:30:00,Niklas Stark,Chipped
+226164,85,MissedShots,0.914000015258789,0.6880000305175781,0.05686112493276596,Davie Selke,a,4280,OpenPlay,2018,RightFoot,10373,Werder Bremen,Hertha Berlin,3,1,2018-09-25 16:30:00,Javairo Dilrosun,TakeOn
+226166,93,MissedShots,0.7669999694824219,0.35700000762939454,0.014225845225155354,Arne Maier,a,5298,OpenPlay,2018,LeftFoot,10373,Werder Bremen,Hertha Berlin,3,1,2018-09-25 16:30:00,,None

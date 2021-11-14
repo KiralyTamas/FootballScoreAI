@@ -1,0 +1,28 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+83582,3,MissedShots,0.8519999694824218,0.27399999618530274,0.03223508223891258,Alexandru Maxim,h,63,OpenPlay,2015,RightFoot,1312,VfB Stuttgart,Mainz 05,1,3,2016-05-07 17:30:00,Daniel Didavi,Pass
+83583,5,MissedShots,0.755,0.5570000076293945,0.022820623591542244,Philip Heise,h,70,OpenPlay,2015,LeftFoot,1312,VfB Stuttgart,Mainz 05,1,3,2016-05-07 17:30:00,Daniel Didavi,Pass
+83584,5,Goal,0.924000015258789,0.46599998474121096,0.5103837847709656,Christian Gentner,h,60,OpenPlay,2015,LeftFoot,1312,VfB Stuttgart,Mainz 05,1,3,2016-05-07 17:30:00,Philip Heise,Rebound
+83586,35,BlockedShot,0.9769999694824218,0.355,0.04343683645129204,Lukas Rupp,h,62,OpenPlay,2015,RightFoot,1312,VfB Stuttgart,Mainz 05,1,3,2016-05-07 17:30:00,Filip Kostic,Cross
+83592,42,BlockedShot,0.8809999847412109,0.6990000152587891,0.13427267968654633,Alexandru Maxim,h,63,OpenPlay,2015,RightFoot,1312,VfB Stuttgart,Mainz 05,1,3,2016-05-07 17:30:00,Filip Kostic,TakeOn
+83596,48,SavedShot,0.7530000305175781,0.6940000152587891,0.01685354858636856,Christian Gentner,h,60,OpenPlay,2015,RightFoot,1312,VfB Stuttgart,Mainz 05,1,3,2016-05-07 17:30:00,Filip Kostic,Pass
+83598,62,MissedShots,0.9569999694824218,0.2,0.07937745749950409,Philip Heise,h,70,DirectFreekick,2015,LeftFoot,1312,VfB Stuttgart,Mainz 05,1,3,2016-05-07 17:30:00,,Standard
+83599,67,MissedShots,0.9230000305175782,0.54,0.04569545388221741,Daniel Schwaab,h,56,FromCorner,2015,Head,1312,VfB Stuttgart,Mainz 05,1,3,2016-05-07 17:30:00,Filip Kostic,Aerial
+83581,0,MissedShots,0.7709999847412109,0.47,0.028421517461538315,Yunus Malli,a,45,OpenPlay,2015,RightFoot,1312,VfB Stuttgart,Mainz 05,1,3,2016-05-07 17:30:00,Julian Baumgartlinger,Pass
+83585,11,MissedShots,0.8819999694824219,0.45799999237060546,0.052491068840026855,Stefan Bell,a,40,FromCorner,2015,RightFoot,1312,VfB Stuttgart,Mainz 05,1,3,2016-05-07 17:30:00,Christian Clemens,Cross
+83587,36,Goal,0.9680000305175781,0.5270000076293946,0.7719485759735107,Yunus Malli,a,45,OpenPlay,2015,RightFoot,1312,VfB Stuttgart,Mainz 05,1,3,2016-05-07 17:30:00,Karim Onisiwo,Pass
+83588,38,BlockedShot,0.735999984741211,0.4909999847412109,0.018324287608265877,Fabian Frei,a,441,OpenPlay,2015,RightFoot,1312,VfB Stuttgart,Mainz 05,1,3,2016-05-07 17:30:00,Jhon Córdoba,Pass
+83589,38,SavedShot,0.91,0.45799999237060546,0.07420684397220612,Stefan Bell,a,40,FromCorner,2015,Head,1312,VfB Stuttgart,Mainz 05,1,3,2016-05-07 17:30:00,Christian Clemens,Cross
+83590,39,BlockedShot,0.8,0.639000015258789,0.023155314847826958,Christian Clemens,a,49,FromCorner,2015,RightFoot,1312,VfB Stuttgart,Mainz 05,1,3,2016-05-07 17:30:00,,None
+83591,39,MissedShots,0.9530000305175781,0.425,0.10703068226575851,Karim Onisiwo,a,2631,FromCorner,2015,RightFoot,1312,VfB Stuttgart,Mainz 05,1,3,2016-05-07 17:30:00,Stefan Bell,None
+83593,44,SavedShot,0.9419999694824219,0.34,0.09475365281105042,Jhon Córdoba,a,48,OpenPlay,2015,RightFoot,1312,VfB Stuttgart,Mainz 05,1,3,2016-05-07 17:30:00,Christian Clemens,TakeOn
+83594,45,ShotOnPost,0.9319999694824219,0.5059999847412109,0.12353461980819702,Karim Onisiwo,a,2631,FromCorner,2015,Head,1312,VfB Stuttgart,Mainz 05,1,3,2016-05-07 17:30:00,Christian Clemens,Cross
+83595,45,SavedShot,0.9490000152587891,0.500999984741211,0.4431440532207489,Stefan Bell,a,40,FromCorner,2015,Head,1312,VfB Stuttgart,Mainz 05,1,3,2016-05-07 17:30:00,,Rebound
+83597,52,Goal,0.975,0.4420000076293945,0.14703792333602905,Jhon Córdoba,a,48,OpenPlay,2015,Head,1312,VfB Stuttgart,Mainz 05,1,3,2016-05-07 17:30:00,Fabian Frei,Chipped
+83600,68,SavedShot,0.915,0.28899999618530275,0.1811179220676422,Jhon Córdoba,a,48,OpenPlay,2015,RightFoot,1312,VfB Stuttgart,Mainz 05,1,3,2016-05-07 17:30:00,Giulio Donati,Pass
+83601,71,SavedShot,0.8390000152587891,0.5690000152587891,0.4155053496360779,Yunus Malli,a,45,OpenPlay,2015,LeftFoot,1312,VfB Stuttgart,Mainz 05,1,3,2016-05-07 17:30:00,Jhon Córdoba,BallRecovery
+83602,74,MissedShots,0.74,0.5929999923706055,0.026287363842129707,Yunus Malli,a,45,OpenPlay,2015,LeftFoot,1312,VfB Stuttgart,Mainz 05,1,3,2016-05-07 17:30:00,Fabian Frei,Pass
+83603,76,SavedShot,0.8580000305175781,0.40400001525878904,0.25675803422927856,Jhon Córdoba,a,48,OpenPlay,2015,RightFoot,1312,VfB Stuttgart,Mainz 05,1,3,2016-05-07 17:30:00,Yunus Malli,BallRecovery
+83604,76,Goal,0.874000015258789,0.5540000152587891,0.5210145711898804,Karim Onisiwo,a,2631,OpenPlay,2015,RightFoot,1312,VfB Stuttgart,Mainz 05,1,3,2016-05-07 17:30:00,Jhon Córdoba,Pass
+83605,78,SavedShot,0.8969999694824219,0.6040000152587891,0.32955124974250793,Yunus Malli,a,45,OpenPlay,2015,RightFoot,1312,VfB Stuttgart,Mainz 05,1,3,2016-05-07 17:30:00,Karim Onisiwo,Pass
+83606,88,SavedShot,0.9130000305175782,0.33599998474121096,0.2246960997581482,Jairo Samperio,a,46,OpenPlay,2015,RightFoot,1312,VfB Stuttgart,Mainz 05,1,3,2016-05-07 17:30:00,Jhon Córdoba,Pass
+83607,91,BlockedShot,0.8519999694824218,0.585,0.11343695968389511,Suat Serdar,a,307,OpenPlay,2015,RightFoot,1312,VfB Stuttgart,Mainz 05,1,3,2016-05-07 17:30:00,Karim Onisiwo,Pass

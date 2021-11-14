@@ -1,0 +1,37 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+85692,2,BlockedShot,0.7519999694824219,0.525,0.07480352371931076,Neymar,h,2099,DirectFreekick,2015,RightFoot,1471,Barcelona,Rayo Vallecano,5,2,2015-10-17 22:30:00,,Standard
+85694,5,SavedShot,0.875,0.544000015258789,0.31428834795951843,Ivan Rakitic,h,2094,OpenPlay,2015,RightFoot,1471,Barcelona,Rayo Vallecano,5,2,2015-10-17 22:30:00,Sergi Roberto,Pass
+85695,9,SavedShot,0.8690000152587891,0.4929999923706055,0.379404753446579,Luis Suárez,h,2098,OpenPlay,2015,RightFoot,1471,Barcelona,Rayo Vallecano,5,2,2015-10-17 22:30:00,Sergio Busquets,Pass
+85696,9,MissedShots,0.925,0.3940000152587891,0.08091337978839874,Luis Suárez,h,2098,FromCorner,2015,LeftFoot,1471,Barcelona,Rayo Vallecano,5,2,2015-10-17 22:30:00,,None
+85698,21,Goal,0.885,0.5,0.7432776093482971,Neymar,h,2099,Penalty,2015,RightFoot,1471,Barcelona,Rayo Vallecano,5,2,2015-10-17 22:30:00,,Standard
+85699,23,MissedShots,0.87,0.6179999923706054,0.06150946766138077,Neymar,h,2099,OpenPlay,2015,RightFoot,1471,Barcelona,Rayo Vallecano,5,2,2015-10-17 22:30:00,Gerard Piqué,HeadPass
+85700,24,MissedShots,0.8730000305175781,0.43099998474121093,0.36897289752960205,Sandro Ramírez,h,2537,OpenPlay,2015,LeftFoot,1471,Barcelona,Rayo Vallecano,5,2,2015-10-17 22:30:00,Sergio Busquets,Throughball
+85701,27,MissedShots,0.955999984741211,0.6809999847412109,0.05917618051171303,Neymar,h,2099,OpenPlay,2015,LeftFoot,1471,Barcelona,Rayo Vallecano,5,2,2015-10-17 22:30:00,Luis Suárez,Pass
+85703,31,Goal,0.885,0.5,0.7431496977806091,Neymar,h,2099,Penalty,2015,RightFoot,1471,Barcelona,Rayo Vallecano,5,2,2015-10-17 22:30:00,,Standard
+85705,39,SavedShot,0.8080000305175781,0.48700000762939455,0.06517522782087326,Sergi Roberto,h,2104,OpenPlay,2015,LeftFoot,1471,Barcelona,Rayo Vallecano,5,2,2015-10-17 22:30:00,Neymar,Pass
+85716,68,SavedShot,0.8319999694824218,0.59,0.07266315072774887,Luis Suárez,h,2098,OpenPlay,2015,RightFoot,1471,Barcelona,Rayo Vallecano,5,2,2015-10-17 22:30:00,Neymar,Pass
+85717,68,Goal,0.9530000305175781,0.6120000076293945,0.36346128582954407,Neymar,h,2099,OpenPlay,2015,LeftFoot,1471,Barcelona,Rayo Vallecano,5,2,2015-10-17 22:30:00,,Rebound
+85718,69,Goal,0.9690000152587891,0.54,0.8689941763877869,Neymar,h,2099,OpenPlay,2015,LeftFoot,1471,Barcelona,Rayo Vallecano,5,2,2015-10-17 22:30:00,Luis Suárez,Pass
+85721,76,Goal,0.94,0.43900001525878907,0.4460485875606537,Luis Suárez,h,2098,OpenPlay,2015,RightFoot,1471,Barcelona,Rayo Vallecano,5,2,2015-10-17 22:30:00,Neymar,Cross
+85693,5,BlockedShot,0.765,0.66,0.029245570302009583,Jozabed,a,2165,OpenPlay,2015,RightFoot,1471,Barcelona,Rayo Vallecano,5,2,2015-10-17 22:30:00,,TakeOn
+85697,14,Goal,0.9719999694824218,0.5259999847412109,0.5293649435043335,Javi Guerra,a,2167,FromCorner,2015,RightFoot,1471,Barcelona,Rayo Vallecano,5,2,2015-10-17 22:30:00,Bebé,Cross
+85702,29,SavedShot,0.9590000152587891,0.610999984741211,0.0460660383105278,Javi Guerra,a,2167,FromCorner,2015,Head,1471,Barcelona,Rayo Vallecano,5,2,2015-10-17 22:30:00,Roberto Trashorras,Cross
+85704,33,SavedShot,0.8159999847412109,0.49700000762939456,0.056630607694387436,Patrick Ebert,a,2575,OpenPlay,2015,LeftFoot,1471,Barcelona,Rayo Vallecano,5,2,2015-10-17 22:30:00,Javi Guerra,Pass
+85706,45,MissedShots,0.88,0.5729999923706055,0.08915659785270691,Patrick Ebert,a,2575,OpenPlay,2015,LeftFoot,1471,Barcelona,Rayo Vallecano,5,2,2015-10-17 22:30:00,Lass,Pass
+85707,46,MissedShots,0.7080000305175781,0.7519999694824219,0.012189092114567757,Bebé,a,2168,OpenPlay,2015,RightFoot,1471,Barcelona,Rayo Vallecano,5,2,2015-10-17 22:30:00,Jozabed,Pass
+85708,47,SavedShot,0.9059999847412109,0.6419999694824219,0.27844804525375366,Javi Guerra,a,2167,OpenPlay,2015,RightFoot,1471,Barcelona,Rayo Vallecano,5,2,2015-10-17 22:30:00,Bebé,Throughball
+85709,49,SavedShot,0.909000015258789,0.5179999923706055,0.3757272958755493,Javi Guerra,a,2167,OpenPlay,2015,RightFoot,1471,Barcelona,Rayo Vallecano,5,2,2015-10-17 22:30:00,Razvan Rat,Cross
+85710,49,SavedShot,0.8919999694824219,0.47200000762939454,0.4418250322341919,Patrick Ebert,a,2575,OpenPlay,2015,RightFoot,1471,Barcelona,Rayo Vallecano,5,2,2015-10-17 22:30:00,,None
+85711,49,BlockedShot,0.885,0.68,0.04960109665989876,Bebé,a,2168,OpenPlay,2015,RightFoot,1471,Barcelona,Rayo Vallecano,5,2,2015-10-17 22:30:00,,BallRecovery
+85712,58,SavedShot,0.8169999694824219,0.28200000762939453,0.025814607739448547,Diego Llorente,a,2163,OpenPlay,2015,LeftFoot,1471,Barcelona,Rayo Vallecano,5,2,2015-10-17 22:30:00,Zé Castro,TakeOn
+85713,59,BlockedShot,0.784000015258789,0.3340000152587891,0.019013553857803345,Roberto Trashorras,a,2162,FromCorner,2015,RightFoot,1471,Barcelona,Rayo Vallecano,5,2,2015-10-17 22:30:00,,None
+85714,63,MissedShots,0.9169999694824219,0.31,0.05071023106575012,Lass,a,2558,OpenPlay,2015,RightFoot,1471,Barcelona,Rayo Vallecano,5,2,2015-10-17 22:30:00,,None
+85715,65,BlockedShot,0.8830000305175781,0.41900001525878905,0.13311517238616943,Lass,a,2558,OpenPlay,2015,RightFoot,1471,Barcelona,Rayo Vallecano,5,2,2015-10-17 22:30:00,Patrick Ebert,Throughball
+85719,73,MissedShots,0.769000015258789,0.38799999237060545,0.05060650780797005,Patrick Ebert,a,2575,OpenPlay,2015,RightFoot,1471,Barcelona,Rayo Vallecano,5,2,2015-10-17 22:30:00,Javi Guerra,Pass
+85720,75,MissedShots,0.7809999847412109,0.39799999237060546,0.030587876215577126,Jozabed,a,2165,OpenPlay,2015,LeftFoot,1471,Barcelona,Rayo Vallecano,5,2,2015-10-17 22:30:00,,Dispossessed
+85722,79,MissedShots,0.815,0.6869999694824219,0.024711932986974716,Razvan Rat,a,2169,SetPiece,2015,LeftFoot,1471,Barcelona,Rayo Vallecano,5,2,2015-10-17 22:30:00,Patrick Ebert,Pass
+85723,80,MissedShots,0.9159999847412109,0.46099998474121096,0.3396459221839905,Patrick Ebert,a,2575,OpenPlay,2015,LeftFoot,1471,Barcelona,Rayo Vallecano,5,2,2015-10-17 22:30:00,Javi Guerra,None
+85724,81,BlockedShot,0.9,0.5459999847412109,0.10504022240638733,Javi Guerra,a,2167,OpenPlay,2015,RightFoot,1471,Barcelona,Rayo Vallecano,5,2,2015-10-17 22:30:00,Patrick Ebert,Pass
+85725,84,BlockedShot,0.9,0.31,0.053359851241111755,Lass,a,2558,OpenPlay,2015,RightFoot,1471,Barcelona,Rayo Vallecano,5,2,2015-10-17 22:30:00,Jozabed,Pass
+85726,85,Goal,0.9069999694824219,0.53,0.07758242636919022,Jozabed,a,2165,OpenPlay,2015,RightFoot,1471,Barcelona,Rayo Vallecano,5,2,2015-10-17 22:30:00,,None
+85727,89,BlockedShot,0.7390000152587891,0.5979999923706054,0.017931345850229263,Adrián Embarba,a,2166,OpenPlay,2015,RightFoot,1471,Barcelona,Rayo Vallecano,5,2,2015-10-17 22:30:00,Jozabed,Pass

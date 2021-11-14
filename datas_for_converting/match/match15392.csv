@@ -1,0 +1,28 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+415838,5,BlockedShot,0.860999984741211,0.4,0.07669726759195328,Giovanni Reyna,h,8191,OpenPlay,2020,LeftFoot,15392,Borussia Dortmund,Werder Bremen,4,1,2021-04-18 13:30:00,Erling Haaland,Pass
+415840,15,MissedShots,0.904000015258789,0.6029999923706054,0.032704222947359085,Julian Brandt,h,261,FromCorner,2020,LeftFoot,15392,Borussia Dortmund,Werder Bremen,4,1,2021-04-18 13:30:00,,Aerial
+415842,28,Goal,0.8030000305175782,0.385,0.038996949791908264,Giovanni Reyna,h,8191,OpenPlay,2020,RightFoot,15392,Borussia Dortmund,Werder Bremen,4,1,2021-04-18 13:30:00,Mateu Morey,Pass
+415843,31,BlockedShot,0.8230000305175781,0.49900001525878906,0.057642143219709396,Jude Bellingham,h,8824,OpenPlay,2020,LeftFoot,15392,Borussia Dortmund,Werder Bremen,4,1,2021-04-18 13:30:00,,None
+415844,33,Goal,0.885,0.5,0.75777667760849,Erling Haaland,h,8260,Penalty,2020,LeftFoot,15392,Borussia Dortmund,Werder Bremen,4,1,2021-04-18 13:30:00,,Standard
+415845,37,Goal,0.965999984741211,0.5540000152587891,0.6235602498054504,Erling Haaland,h,8260,OpenPlay,2020,RightFoot,15392,Borussia Dortmund,Werder Bremen,4,1,2021-04-18 13:30:00,,None
+415846,41,SavedShot,0.9,0.4829999923706055,0.4989456534385681,Jude Bellingham,h,8824,OpenPlay,2020,LeftFoot,15392,Borussia Dortmund,Werder Bremen,4,1,2021-04-18 13:30:00,Giovanni Reyna,Pass
+415847,44,BlockedShot,0.7719999694824219,0.4929999923706055,0.03581032156944275,Mahmoud Dahoud,h,205,OpenPlay,2020,LeftFoot,15392,Borussia Dortmund,Werder Bremen,4,1,2021-04-18 13:30:00,Julian Brandt,Pass
+415848,44,MissedShots,0.8490000152587891,0.715,0.023941408842802048,Marco Reus,h,319,FromCorner,2020,LeftFoot,15392,Borussia Dortmund,Werder Bremen,4,1,2021-04-18 13:30:00,,None
+415849,54,SavedShot,0.815,0.644000015258789,0.05999157950282097,Marco Reus,h,319,OpenPlay,2020,LeftFoot,15392,Borussia Dortmund,Werder Bremen,4,1,2021-04-18 13:30:00,Erling Haaland,Pass
+415850,55,MissedShots,0.784000015258789,0.6320000076293946,0.02027123235166073,Marco Reus,h,319,FromCorner,2020,RightFoot,15392,Borussia Dortmund,Werder Bremen,4,1,2021-04-18 13:30:00,,None
+415852,66,MissedShots,0.7709999847412109,0.5220000076293946,0.034724727272987366,Erling Haaland,h,8260,OpenPlay,2020,LeftFoot,15392,Borussia Dortmund,Werder Bremen,4,1,2021-04-18 13:30:00,Marco Reus,Pass
+415859,79,SavedShot,0.815,0.49700000762939456,0.07427432388067245,Erling Haaland,h,8260,OpenPlay,2020,LeftFoot,15392,Borussia Dortmund,Werder Bremen,4,1,2021-04-18 13:30:00,Marco Reus,Pass
+415860,84,MissedShots,0.9430000305175781,0.5270000076293946,0.534909725189209,Giovanni Reyna,h,8191,OpenPlay,2020,Head,15392,Borussia Dortmund,Werder Bremen,4,1,2021-04-18 13:30:00,Thorgan Hazard,Chipped
+415861,85,SavedShot,0.9690000152587891,0.34900001525878904,0.09841032326221466,Erling Haaland,h,8260,OpenPlay,2020,RightFoot,15392,Borussia Dortmund,Werder Bremen,4,1,2021-04-18 13:30:00,Lukasz Piszczek,Chipped
+415862,86,Goal,0.9359999847412109,0.5179999923706055,0.05697224661707878,Mats Hummels,h,373,FromCorner,2020,Head,15392,Borussia Dortmund,Werder Bremen,4,1,2021-04-18 13:30:00,Thorgan Hazard,End
+415863,90,MissedShots,0.875999984741211,0.44,0.04548247531056404,Steffen Tigges,h,9227,OpenPlay,2020,Head,15392,Borussia Dortmund,Werder Bremen,4,1,2021-04-18 13:30:00,Lukasz Piszczek,Cross
+415837,4,SavedShot,0.7169999694824218,0.4540000152587891,0.016673458740115166,Leonardo Bittencourt,a,262,OpenPlay,2020,RightFoot,15392,Borussia Dortmund,Werder Bremen,4,1,2021-04-18 13:30:00,Milot Rashica,Pass
+415839,13,Goal,0.9209999847412109,0.40400001525878904,0.360776424407959,Milot Rashica,a,6523,OpenPlay,2020,RightFoot,15392,Borussia Dortmund,Werder Bremen,4,1,2021-04-18 13:30:00,Maximilian Eggestein,Pass
+415841,24,BlockedShot,0.850999984741211,0.6869999694824219,0.07431396842002869,Leonardo Bittencourt,a,262,OpenPlay,2020,LeftFoot,15392,Borussia Dortmund,Werder Bremen,4,1,2021-04-18 13:30:00,Maximilian Eggestein,Pass
+415851,62,ShotOnPost,0.720999984741211,0.4909999847412109,0.013243143446743488,Maximilian Eggestein,a,125,OpenPlay,2020,LeftFoot,15392,Borussia Dortmund,Werder Bremen,4,1,2021-04-18 13:30:00,Joshua Sargent,Pass
+415853,71,MissedShots,0.879000015258789,0.42400001525878905,0.24145066738128662,Joshua Sargent,a,7295,OpenPlay,2020,RightFoot,15392,Borussia Dortmund,Werder Bremen,4,1,2021-04-18 13:30:00,Maximilian Eggestein,Cross
+415854,72,SavedShot,0.764000015258789,0.49,0.028345255181193352,Joshua Sargent,a,7295,OpenPlay,2020,RightFoot,15392,Borussia Dortmund,Werder Bremen,4,1,2021-04-18 13:30:00,Maximilian Eggestein,Pass
+415855,73,BlockedShot,0.955,0.43,0.11482333391904831,Joshua Sargent,a,7295,FromCorner,2020,Head,15392,Borussia Dortmund,Werder Bremen,4,1,2021-04-18 13:30:00,Marco Friedl,Cross
+415856,73,MissedShots,0.9019999694824219,0.5790000152587891,0.036558836698532104,Christian Groß,a,7815,FromCorner,2020,RightFoot,15392,Borussia Dortmund,Werder Bremen,4,1,2021-04-18 13:30:00,,Aerial
+415857,78,BlockedShot,0.8519999694824218,0.23399999618530273,0.02277187630534172,Milot Rashica,a,6523,OpenPlay,2020,RightFoot,15392,Borussia Dortmund,Werder Bremen,4,1,2021-04-18 13:30:00,Joshua Sargent,Pass
+415858,78,MissedShots,0.9680000305175781,0.5790000152587891,0.0643901601433754,Davie Selke,a,4280,OpenPlay,2020,Head,15392,Borussia Dortmund,Werder Bremen,4,1,2021-04-18 13:30:00,,Aerial

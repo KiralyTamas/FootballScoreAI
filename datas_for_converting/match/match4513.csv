@@ -1,0 +1,23 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+19458,0,BlockedShot,0.7880000305175782,0.3729999923706055,0.10857394337654114,Theo Walcott,h,503,OpenPlay,2014,RightFoot,4513,Arsenal,Aston Villa,5,0,2015-02-01 13:30:00,Aaron Ramsey,Throughball
+19460,5,MissedShots,0.785,0.6229999923706054,0.026695305481553078,Aaron Ramsey,h,504,OpenPlay,2014,RightFoot,4513,Arsenal,Aston Villa,5,0,2015-02-01 13:30:00,Nacho Monreal,Pass
+19461,7,Goal,0.86,0.5590000152587891,0.3430241048336029,Olivier Giroud,h,502,OpenPlay,2014,LeftFoot,4513,Arsenal,Aston Villa,5,0,2015-02-01 13:30:00,Mesut Özil,Throughball
+19463,25,ShotOnPost,0.8219999694824218,0.5129999923706055,0.0859392061829567,Santiago Cazorla,h,965,OpenPlay,2014,LeftFoot,4513,Arsenal,Aston Villa,5,0,2015-02-01 13:30:00,Olivier Giroud,Pass
+19465,35,SavedShot,0.8209999847412109,0.4229999923706055,0.07263379544019699,Aaron Ramsey,h,504,OpenPlay,2014,RightFoot,4513,Arsenal,Aston Villa,5,0,2015-02-01 13:30:00,Mesut Özil,Pass
+19469,55,Goal,0.855999984741211,0.6430000305175781,0.133195161819458,Mesut Özil,h,499,OpenPlay,2014,LeftFoot,4513,Arsenal,Aston Villa,5,0,2015-02-01 13:30:00,Olivier Giroud,Throughball
+19471,62,Goal,0.8590000152587891,0.5359999847412109,0.12042262405157089,Theo Walcott,h,503,OpenPlay,2014,RightFoot,4513,Arsenal,Aston Villa,5,0,2015-02-01 13:30:00,Santiago Cazorla,Pass
+19472,68,ShotOnPost,0.9159999847412109,0.549000015258789,0.048028614372015,Olivier Giroud,h,502,SetPiece,2014,Head,4513,Arsenal,Aston Villa,5,0,2015-02-01 13:30:00,Santiago Cazorla,Aerial
+19473,74,Goal,0.885,0.5,0.7611688375473022,Santiago Cazorla,h,965,Penalty,2014,RightFoot,4513,Arsenal,Aston Villa,5,0,2015-02-01 13:30:00,,Standard
+19475,85,SavedShot,0.9209999847412109,0.5179999923706055,0.055542755872011185,Chuba Akpom,h,1790,OpenPlay,2014,Head,4513,Arsenal,Aston Villa,5,0,2015-02-01 13:30:00,Per Mertesacker,Aerial
+19476,87,BlockedShot,0.92,0.6669999694824219,0.11602568626403809,Nacho Monreal,h,495,OpenPlay,2014,LeftFoot,4513,Arsenal,Aston Villa,5,0,2015-02-01 13:30:00,,TakeOn
+19477,90,SavedShot,0.89,0.6,0.4584541618824005,Chuba Akpom,h,1790,OpenPlay,2014,RightFoot,4513,Arsenal,Aston Villa,5,0,2015-02-01 13:30:00,Santiago Cazorla,Throughball
+19478,91,Goal,0.7759999847412109,0.34900001525878904,0.028341541066765785,Héctor Bellerín,h,492,OpenPlay,2014,RightFoot,4513,Arsenal,Aston Villa,5,0,2015-02-01 13:30:00,Santiago Cazorla,Pass
+19459,2,MissedShots,0.6959999847412109,0.39799999237060546,0.011981590650975704,Fabian Delph,a,876,OpenPlay,2014,LeftFoot,4513,Arsenal,Aston Villa,5,0,2015-02-01 13:30:00,Carles Gil,Pass
+19462,13,BlockedShot,0.6830000305175781,0.654000015258789,0.010707518085837364,Carlos Sánchez,a,667,OpenPlay,2014,LeftFoot,4513,Arsenal,Aston Villa,5,0,2015-02-01 13:30:00,,Dispossessed
+19464,33,BlockedShot,0.8490000152587891,0.45599998474121095,0.06915626674890518,Christian Benteke,a,606,OpenPlay,2014,LeftFoot,4513,Arsenal,Aston Villa,5,0,2015-02-01 13:30:00,Andreas Weimann,Pass
+19466,41,SavedShot,0.9269999694824219,0.48,0.3609434962272644,Andreas Weimann,a,4427,OpenPlay,2014,Head,4513,Arsenal,Aston Villa,5,0,2015-02-01 13:30:00,Carles Gil,Cross
+19467,45,MissedShots,0.865,0.5209999847412109,0.09168864041566849,Christian Benteke,a,606,OpenPlay,2014,LeftFoot,4513,Arsenal,Aston Villa,5,0,2015-02-01 13:30:00,Andreas Weimann,Pass
+19468,50,MissedShots,0.905,0.5209999847412109,0.09070345014333725,Christian Benteke,a,606,OpenPlay,2014,Head,4513,Arsenal,Aston Villa,5,0,2015-02-01 13:30:00,Kieran Richardson,Cross
+19470,61,MissedShots,0.7330000305175781,0.7,0.010378476232290268,Fabian Delph,a,876,OpenPlay,2014,LeftFoot,4513,Arsenal,Aston Villa,5,0,2015-02-01 13:30:00,Carles Gil,Pass
+19474,80,MissedShots,0.7390000152587891,0.4520000076293945,0.055812787264585495,Carles Gil,a,670,DirectFreekick,2014,LeftFoot,4513,Arsenal,Aston Villa,5,0,2015-02-01 13:30:00,,Standard
+19479,92,SavedShot,0.7619999694824219,0.36,0.013148819096386433,Ashley Westwood,a,669,OpenPlay,2014,RightFoot,4513,Arsenal,Aston Villa,5,0,2015-02-01 13:30:00,,None

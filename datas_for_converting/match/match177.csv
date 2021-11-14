@@ -1,0 +1,31 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+59369,14,BlockedShot,0.745,0.5479999923706055,0.018192848190665245,Lee Cattermole,h,738,OpenPlay,2015,RightFoot,177,Sunderland,Newcastle United,3,0,2015-10-25 16:00:00,Billy Jones,Pass
+59374,24,BlockedShot,0.8919999694824219,0.49900001525878906,0.0373602956533432,Steven Fletcher,h,930,OpenPlay,2015,Head,177,Sunderland,Newcastle United,3,0,2015-10-25 16:00:00,Billy Jones,Aerial
+59382,47,Goal,0.885,0.5,0.7611688375473022,Adam Johnson,h,929,Penalty,2015,LeftFoot,177,Sunderland,Newcastle United,3,0,2015-10-25 16:00:00,,Standard
+59383,53,BlockedShot,0.8530000305175781,0.27600000381469725,0.034623075276613235,Jermain Defoe,h,735,OpenPlay,2015,RightFoot,177,Sunderland,Newcastle United,3,0,2015-10-25 16:00:00,Adam Johnson,Pass
+59391,63,BlockedShot,0.7619999694824219,0.62,0.02705966867506504,Steven Fletcher,h,930,OpenPlay,2015,LeftFoot,177,Sunderland,Newcastle United,3,0,2015-10-25 16:00:00,Jeremain Lens,Pass
+59392,64,BlockedShot,0.8909999847412109,0.6580000305175782,0.03698210418224335,Yann M&#039;Vila,h,732,FromCorner,2015,RightFoot,177,Sunderland,Newcastle United,3,0,2015-10-25 16:00:00,Adam Johnson,Cross
+59393,64,Goal,0.9930000305175781,0.47900001525878905,0.9703662395477295,Billy Jones,h,742,FromCorner,2015,RightFoot,177,Sunderland,Newcastle United,3,0,2015-10-25 16:00:00,Yann M&#039;Vila,Rebound
+59400,71,ShotOnPost,0.7680000305175781,0.28299999237060547,0.021533120423555374,Adam Johnson,h,929,OpenPlay,2015,LeftFoot,177,Sunderland,Newcastle United,3,0,2015-10-25 16:00:00,Jeremain Lens,Pass
+59411,85,Goal,0.9230000305175782,0.3940000152587891,0.5082930326461792,Steven Fletcher,h,930,OpenPlay,2015,LeftFoot,177,Sunderland,Newcastle United,3,0,2015-10-25 16:00:00,Younes Kaboul,Chipped
+59366,2,SavedShot,0.9490000152587891,0.5420000076293945,0.13772693276405334,Fabricio Coloccini,a,941,SetPiece,2015,RightFoot,177,Sunderland,Newcastle United,3,0,2015-10-25 16:00:00,Aleksandar Mitrovic,Pass
+59367,4,BlockedShot,0.8819999694824219,0.315,0.06278585642576218,Moussa Sissoko,a,772,OpenPlay,2015,RightFoot,177,Sunderland,Newcastle United,3,0,2015-10-25 16:00:00,Cheick Tioté,TakeOn
+59368,11,MissedShots,0.8859999847412109,0.3920000076293945,0.020476296544075012,Aleksandar Mitrovic,a,773,OpenPlay,2015,Head,177,Sunderland,Newcastle United,3,0,2015-10-25 16:00:00,Daryl Janmaat,Cross
+59370,15,SavedShot,0.81,0.6090000152587891,0.07174552232027054,Georginio Wijnaldum,a,771,OpenPlay,2015,LeftFoot,177,Sunderland,Newcastle United,3,0,2015-10-25 16:00:00,Aleksandar Mitrovic,LayOff
+59371,18,MissedShots,0.8330000305175781,0.505,0.07854823768138885,Jack Colback,a,767,OpenPlay,2015,LeftFoot,177,Sunderland,Newcastle United,3,0,2015-10-25 16:00:00,Moussa Sissoko,Pass
+59372,19,BlockedShot,0.855,0.2560000038146973,0.02870797924697399,Moussa Sissoko,a,772,OpenPlay,2015,LeftFoot,177,Sunderland,Newcastle United,3,0,2015-10-25 16:00:00,Ayoze Pérez,Pass
+59373,24,SavedShot,0.7669999694824219,0.36700000762939455,0.019430264830589294,Moussa Sissoko,a,772,OpenPlay,2015,LeftFoot,177,Sunderland,Newcastle United,3,0,2015-10-25 16:00:00,Daryl Janmaat,TakeOn
+59375,25,SavedShot,0.9180000305175782,0.38,0.0878751277923584,Jack Colback,a,767,OpenPlay,2015,RightFoot,177,Sunderland,Newcastle United,3,0,2015-10-25 16:00:00,Daryl Janmaat,Chipped
+59377,26,MissedShots,0.9359999847412109,0.415,0.07418857514858246,Aleksandar Mitrovic,a,773,FromCorner,2015,RightFoot,177,Sunderland,Newcastle United,3,0,2015-10-25 16:00:00,Jack Colback,Cross
+59379,32,MissedShots,0.92,0.39,0.0850847065448761,Ayoze Pérez,a,770,OpenPlay,2015,LeftFoot,177,Sunderland,Newcastle United,3,0,2015-10-25 16:00:00,Moussa Sissoko,Cross
+59380,43,SavedShot,0.8030000305175782,0.66,0.08399661630392075,Georginio Wijnaldum,a,771,DirectFreekick,2015,RightFoot,177,Sunderland,Newcastle United,3,0,2015-10-25 16:00:00,,Standard
+59381,45,BlockedShot,0.899000015258789,0.75,0.03317021578550339,Ayoze Pérez,a,770,OpenPlay,2015,RightFoot,177,Sunderland,Newcastle United,3,0,2015-10-25 16:00:00,Paul Dummett,Pass
+59388,54,SavedShot,0.9,0.605999984741211,0.3517400026321411,Aleksandar Mitrovic,a,773,OpenPlay,2015,RightFoot,177,Sunderland,Newcastle United,3,0,2015-10-25 16:00:00,,TakeOn
+59390,55,SavedShot,0.735,0.455,0.015522556379437447,Ayoze Pérez,a,770,OpenPlay,2015,RightFoot,177,Sunderland,Newcastle United,3,0,2015-10-25 16:00:00,,BallRecovery
+59394,69,SavedShot,0.915,0.3060000038146973,0.06333404034376144,Georginio Wijnaldum,a,771,OpenPlay,2015,RightFoot,177,Sunderland,Newcastle United,3,0,2015-10-25 16:00:00,Moussa Sissoko,Pass
+59399,69,MissedShots,0.8919999694824219,0.7180000305175781,0.028600582852959633,Ayoze Pérez,a,770,FromCorner,2015,LeftFoot,177,Sunderland,Newcastle United,3,0,2015-10-25 16:00:00,,None
+59404,73,MissedShots,0.825999984741211,0.37099998474121093,0.030832631513476372,Vurnon Anita,a,768,FromCorner,2015,RightFoot,177,Sunderland,Newcastle United,3,0,2015-10-25 16:00:00,,None
+59405,74,BlockedShot,0.7469999694824219,0.620999984741211,0.015473580919206142,Paul Dummett,a,853,OpenPlay,2015,LeftFoot,177,Sunderland,Newcastle United,3,0,2015-10-25 16:00:00,Vurnon Anita,Pass
+59407,76,MissedShots,0.9219999694824219,0.48700000762939455,0.0692284107208252,Aleksandar Mitrovic,a,773,OpenPlay,2015,Head,177,Sunderland,Newcastle United,3,0,2015-10-25 16:00:00,Daryl Janmaat,Aerial
+59408,80,BlockedShot,0.8069999694824219,0.3729999923706055,0.04068213701248169,Florian Thauvin,a,942,OpenPlay,2015,LeftFoot,177,Sunderland,Newcastle United,3,0,2015-10-25 16:00:00,Moussa Sissoko,Pass
+59409,80,MissedShots,0.7759999847412109,0.36900001525878906,0.018293336033821106,Florian Thauvin,a,942,OpenPlay,2015,LeftFoot,177,Sunderland,Newcastle United,3,0,2015-10-25 16:00:00,Moussa Sissoko,Pass

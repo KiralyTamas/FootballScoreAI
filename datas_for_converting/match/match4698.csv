@@ -1,0 +1,23 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+17740,9,MissedShots,0.92,0.5029999923706054,0.1313800811767578,Enner Valencia,h,539,OpenPlay,2014,LeftFoot,4698,West Ham,Queens Park Rangers,2,0,2014-10-05 16:15:00,,None
+17741,14,BlockedShot,0.7709999847412109,0.3920000076293945,0.0352950282394886,Mauro Zárate,h,939,OpenPlay,2014,RightFoot,4698,West Ham,Queens Park Rangers,2,0,2014-10-05 16:15:00,,None
+17743,29,MissedShots,0.93,0.5070000076293946,0.06075424328446388,Winston Reid,h,529,FromCorner,2014,Head,4698,West Ham,Queens Park Rangers,2,0,2014-10-05 16:15:00,Mauro Zárate,Aerial
+17744,29,MissedShots,0.9730000305175781,0.575,0.2900068759918213,Enner Valencia,h,539,FromCorner,2014,OtherBodyPart,4698,West Ham,Queens Park Rangers,2,0,2014-10-05 16:15:00,Winston Reid,None
+17745,30,BlockedShot,0.779000015258789,0.28899999618530275,0.025154700502753258,Carl Jenkinson,h,938,OpenPlay,2014,RightFoot,4698,West Ham,Queens Park Rangers,2,0,2014-10-05 16:15:00,Morgan Amalfitano,Pass
+17748,57,BlockedShot,0.7980000305175782,0.33299999237060546,0.018488651141524315,Mauro Zárate,h,939,SetPiece,2014,RightFoot,4698,West Ham,Queens Park Rangers,2,0,2014-10-05 16:15:00,,None
+17749,58,MissedShots,0.94,0.36700000762939455,0.0815533921122551,James Tomkins,h,530,SetPiece,2014,RightFoot,4698,West Ham,Queens Park Rangers,2,0,2014-10-05 16:15:00,,Rebound
+17750,58,Goal,0.980999984741211,0.5120000076293946,0.8696978688240051,Diafra Sakho,h,656,SetPiece,2014,Head,4698,West Ham,Queens Park Rangers,2,0,2014-10-05 16:15:00,James Tomkins,Rebound
+17753,66,MissedShots,0.909000015258789,0.7380000305175781,0.05967969074845314,Enner Valencia,h,539,OpenPlay,2014,RightFoot,4698,West Ham,Queens Park Rangers,2,0,2014-10-05 16:15:00,Stewart Downing,Pass
+17755,72,SavedShot,0.9019999694824219,0.5520000076293945,0.01776399277150631,James Tomkins,h,530,FromCorner,2014,Head,4698,West Ham,Queens Park Rangers,2,0,2014-10-05 16:15:00,Mauro Zárate,Aerial
+17758,85,SavedShot,0.8919999694824219,0.515,0.1378049999475479,Kevin Nolan,h,1028,OpenPlay,2014,RightFoot,4698,West Ham,Queens Park Rangers,2,0,2014-10-05 16:15:00,Stewart Downing,Pass
+17739,4,OwnGoal,0.04099999904632568,0.4909999847412109,0,Nedum Onuoha,a,4392,FromCorner,2014,LeftFoot,4698,West Ham,Queens Park Rangers,2,0,2014-10-05 16:15:00,,CornerAwarded
+17742,23,SavedShot,0.874000015258789,0.705,0.04855228587985039,Charlie Austin,a,848,OpenPlay,2014,RightFoot,4698,West Ham,Queens Park Rangers,2,0,2014-10-05 16:15:00,Armand Traore,TakeOn
+17746,46,MissedShots,0.914000015258789,0.49700000762939456,0.4037509262561798,Charlie Austin,a,848,OpenPlay,2014,RightFoot,4698,West Ham,Queens Park Rangers,2,0,2014-10-05 16:15:00,Bobby Zamora,Cross
+17747,55,BlockedShot,0.7430000305175781,0.6990000152587891,0.015375110320746899,Leroy Fer,a,711,OpenPlay,2014,RightFoot,4698,West Ham,Queens Park Rangers,2,0,2014-10-05 16:15:00,Bobby Zamora,Pass
+17751,63,BlockedShot,0.8119999694824219,0.40599998474121096,0.05825414881110191,Nedum Onuoha,a,4392,OpenPlay,2014,LeftFoot,4698,West Ham,Queens Park Rangers,2,0,2014-10-05 16:15:00,Leroy Fer,TakeOn
+17752,65,MissedShots,0.789000015258789,0.34799999237060547,0.018267517909407616,Nedum Onuoha,a,4392,OpenPlay,2014,RightFoot,4698,West Ham,Queens Park Rangers,2,0,2014-10-05 16:15:00,Leroy Fer,Pass
+17754,69,SavedShot,0.7580000305175781,0.6170000076293946,0.06059086322784424,Niko Kranjcar,a,4397,DirectFreekick,2014,RightFoot,4698,West Ham,Queens Park Rangers,2,0,2014-10-05 16:15:00,,Standard
+17756,78,MissedShots,0.720999984741211,0.4909999847412109,0.009886695072054863,Adel Taarabt,a,4450,OpenPlay,2014,RightFoot,4698,West Ham,Queens Park Rangers,2,0,2014-10-05 16:15:00,Bobby Zamora,HeadPass
+17757,81,SavedShot,0.7169999694824218,0.6569999694824219,0.009071466512978077,Jordon Mutch,a,632,OpenPlay,2014,RightFoot,4698,West Ham,Queens Park Rangers,2,0,2014-10-05 16:15:00,Adel Taarabt,Pass
+17759,90,BlockedShot,0.7119999694824218,0.5670000076293945,0.011296551674604416,Adel Taarabt,a,4450,OpenPlay,2014,RightFoot,4698,West Ham,Queens Park Rangers,2,0,2014-10-05 16:15:00,,BallRecovery
+17760,91,BlockedShot,0.9059999847412109,0.4370000076293945,0.062296126037836075,Nedum Onuoha,a,4392,OpenPlay,2014,Head,4698,West Ham,Queens Park Rangers,2,0,2014-10-05 16:15:00,Bobby Zamora,Cross

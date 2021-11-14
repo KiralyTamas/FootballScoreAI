@@ -1,0 +1,35 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+398109,2,BlockedShot,0.8780000305175781,0.41900001525878905,0.08786491304636002,Marco Verratti,h,3552,OpenPlay,2020,RightFoot,15943,Paris Saint Germain,Brest,3,0,2021-01-09 20:00:00,Ángel Di María,Tackle
+398110,2,SavedShot,0.9019999694824219,0.415,0.10200462490320206,Marco Verratti,h,3552,OpenPlay,2020,LeftFoot,15943,Paris Saint Germain,Brest,3,0,2021-01-09 20:00:00,,Rebound
+398113,15,BlockedShot,0.925,0.705,0.05363703519105911,Ángel Di María,h,3553,OpenPlay,2020,LeftFoot,15943,Paris Saint Germain,Brest,3,0,2021-01-09 20:00:00,Kylian Mbappe-Lottin,Pass
+398114,15,ShotOnPost,0.899000015258789,0.5420000076293945,0.05641140788793564,Marquinhos,h,3297,FromCorner,2020,Head,15943,Paris Saint Germain,Brest,3,0,2021-01-09 20:00:00,Ángel Di María,Cross
+398115,15,Goal,0.975999984741211,0.5070000076293946,0.6632744073867798,Moise Kean,h,1304,FromCorner,2020,Head,15943,Paris Saint Germain,Brest,3,0,2021-01-09 20:00:00,,None
+398116,19,MissedShots,0.9290000152587891,0.43,0.119903065264225,Moise Kean,h,1304,OpenPlay,2020,RightFoot,15943,Paris Saint Germain,Brest,3,0,2021-01-09 20:00:00,Colin Dagba,Cross
+398117,24,SavedShot,0.9569999694824218,0.425,0.05089997127652168,Marquinhos,h,3297,FromCorner,2020,Head,15943,Paris Saint Germain,Brest,3,0,2021-01-09 20:00:00,Ángel Di María,Aerial
+398118,26,SavedShot,0.72,0.6909999847412109,0.015594017691910267,Idrissa Gueye,h,668,OpenPlay,2020,RightFoot,15943,Paris Saint Germain,Brest,3,0,2021-01-09 20:00:00,Ángel Di María,Pass
+398122,49,SavedShot,0.980999984741211,0.605999984741211,0.4192371368408203,Kylian Mbappe-Lottin,h,3423,OpenPlay,2020,LeftFoot,15943,Paris Saint Germain,Brest,3,0,2021-01-09 20:00:00,Ander Herrera,TakeOn
+398128,59,SavedShot,0.9569999694824218,0.6409999847412109,0.3196892738342285,Kylian Mbappe-Lottin,h,3423,OpenPlay,2020,LeftFoot,15943,Paris Saint Germain,Brest,3,0,2021-01-09 20:00:00,Ángel Di María,Pass
+398129,62,MissedShots,0.825999984741211,0.629000015258789,0.059980303049087524,Kylian Mbappe-Lottin,h,3423,OpenPlay,2020,RightFoot,15943,Paris Saint Germain,Brest,3,0,2021-01-09 20:00:00,Pablo Sarabia,Pass
+398130,66,SavedShot,0.875,0.575,0.105433389544487,Kylian Mbappe-Lottin,h,3423,OpenPlay,2020,RightFoot,15943,Paris Saint Germain,Brest,3,0,2021-01-09 20:00:00,,BallTouch
+398131,66,MissedShots,0.8909999847412109,0.5659999847412109,0.01496784295886755,Abdou Diallo,h,4804,FromCorner,2020,Head,15943,Paris Saint Germain,Brest,3,0,2021-01-09 20:00:00,Ángel Di María,Aerial
+398132,76,BlockedShot,0.8130000305175781,0.3840000152587891,0.05292777344584465,Ángel Di María,h,3553,OpenPlay,2020,LeftFoot,15943,Paris Saint Germain,Brest,3,0,2021-01-09 20:00:00,Ander Herrera,Pass
+398133,77,SavedShot,0.94,0.375,0.3690406084060669,Mauro Icardi,h,1513,OpenPlay,2020,RightFoot,15943,Paris Saint Germain,Brest,3,0,2021-01-09 20:00:00,Pablo Sarabia,Throughball
+398134,78,BlockedShot,0.9740000152587891,0.61,0.08700917661190033,Mauro Icardi,h,1513,FromCorner,2020,LeftFoot,15943,Paris Saint Germain,Brest,3,0,2021-01-09 20:00:00,,Rebound
+398135,78,BlockedShot,0.92,0.6309999847412109,0.0686170756816864,Mauro Icardi,h,1513,FromCorner,2020,RightFoot,15943,Paris Saint Germain,Brest,3,0,2021-01-09 20:00:00,,None
+398136,80,Goal,0.899000015258789,0.5259999847412109,0.13937368988990784,Mauro Icardi,h,1513,OpenPlay,2020,RightFoot,15943,Paris Saint Germain,Brest,3,0,2021-01-09 20:00:00,Kylian Mbappe-Lottin,Pass
+398137,82,Goal,0.789000015258789,0.500999984741211,0.054267168045043945,Pablo Sarabia,h,2199,OpenPlay,2020,LeftFoot,15943,Paris Saint Germain,Brest,3,0,2021-01-09 20:00:00,Mauro Icardi,Pass
+398139,86,MissedShots,0.895,0.4859999847412109,0.028223877772688866,Mauro Icardi,h,1513,OpenPlay,2020,Head,15943,Paris Saint Germain,Brest,3,0,2021-01-09 20:00:00,,None
+398140,89,SavedShot,0.865999984741211,0.34,0.07370942085981369,Pablo Sarabia,h,2199,OpenPlay,2020,LeftFoot,15943,Paris Saint Germain,Brest,3,0,2021-01-09 20:00:00,Julian Draxler,Pass
+398141,93,MissedShots,0.6029999923706054,0.765,0.012790772132575512,Kylian Mbappe-Lottin,h,3423,OpenPlay,2020,RightFoot,15943,Paris Saint Germain,Brest,3,0,2021-01-09 20:00:00,Julian Draxler,Pass
+398111,4,SavedShot,0.8719999694824219,0.36700000762939455,0.05144215002655983,Romain Faivre,a,6420,OpenPlay,2020,LeftFoot,15943,Paris Saint Germain,Brest,3,0,2021-01-09 20:00:00,Franck Honorat,Chipped
+398112,6,BlockedShot,0.7730000305175782,0.3579999923706055,0.019901271909475327,Ronael Pierre Gabriel,a,3517,OpenPlay,2020,RightFoot,15943,Paris Saint Germain,Brest,3,0,2021-01-09 20:00:00,,None
+398119,26,BlockedShot,0.8119999694824219,0.4620000076293945,0.0541561059653759,Irvin Cardona,a,5724,OpenPlay,2020,RightFoot,15943,Paris Saint Germain,Brest,3,0,2021-01-09 20:00:00,Franck Honorat,Pass
+398120,41,MissedShots,0.735999984741211,0.3870000076293945,0.05085451155900955,Romain Faivre,a,6420,DirectFreekick,2020,LeftFoot,15943,Paris Saint Germain,Brest,3,0,2021-01-09 20:00:00,,Standard
+398121,43,BlockedShot,0.89,0.415,0.09676972776651382,Ronael Pierre Gabriel,a,3517,OpenPlay,2020,RightFoot,15943,Paris Saint Germain,Brest,3,0,2021-01-09 20:00:00,Romain Faivre,Pass
+398123,51,SavedShot,0.9130000305175782,0.31799999237060544,0.0809893012046814,Franck Honorat,a,3314,OpenPlay,2020,RightFoot,15943,Paris Saint Germain,Brest,3,0,2021-01-09 20:00:00,Brendan Chardonnet,Pass
+398124,52,MissedShots,0.9540000152587891,0.3940000152587891,0.016623519361019135,Irvin Cardona,a,5724,FromCorner,2020,Head,15943,Paris Saint Germain,Brest,3,0,2021-01-09 20:00:00,Romain Faivre,Aerial
+398125,56,MissedShots,0.895,0.35900001525878905,0.058156486600637436,Romain Faivre,a,6420,OpenPlay,2020,LeftFoot,15943,Paris Saint Germain,Brest,3,0,2021-01-09 20:00:00,Brendan Chardonnet,TakeOn
+398126,57,BlockedShot,0.8190000152587891,0.58,0.048536065965890884,Romain Faivre,a,6420,OpenPlay,2020,LeftFoot,15943,Paris Saint Germain,Brest,3,0,2021-01-09 20:00:00,Romain Philippoteaux,Pass
+398127,57,MissedShots,0.779000015258789,0.685,0.02112872153520584,Romain Perraud,a,6500,FromCorner,2020,RightFoot,15943,Paris Saint Germain,Brest,3,0,2021-01-09 20:00:00,Franck Honorat,Pass
+398138,83,MissedShots,0.885,0.5609999847412109,0.027639316394925117,Steve Mounie,a,3800,OpenPlay,2020,Head,15943,Paris Saint Germain,Brest,3,0,2021-01-09 20:00:00,Irvin Cardona,Chipped
+398142,93,MissedShots,0.7519999694824219,0.5379999923706055,0.020741555839776993,Romain Faivre,a,6420,OpenPlay,2020,LeftFoot,15943,Paris Saint Germain,Brest,3,0,2021-01-09 20:00:00,Jeremy Le Douaron,Pass

@@ -1,0 +1,30 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+25048,3,MissedShots,0.7030000305175781,0.615,0.016205599531531334,Ricardo Rodríguez,h,308,OpenPlay,2014,LeftFoot,5427,Wolfsburg,Bayer Leverkusen,4,1,2014-09-21 14:30:00,Junior Malanda,Pass
+25049,7,Goal,0.885,0.5,0.75777667760849,Ricardo Rodríguez,h,308,Penalty,2014,LeftFoot,5427,Wolfsburg,Bayer Leverkusen,4,1,2014-09-21 14:30:00,,Standard
+25050,8,MissedShots,0.4590000152587891,0.5520000076293945,0.007563779130578041,Kevin De Bruyne,h,447,OpenPlay,2014,RightFoot,5427,Wolfsburg,Bayer Leverkusen,4,1,2014-09-21 14:30:00,Robin Knoche,BallRecovery
+25052,14,SavedShot,0.960999984741211,0.899000015258789,0.021989472210407257,Daniel Caligiuri,h,157,OpenPlay,2014,LeftFoot,5427,Wolfsburg,Bayer Leverkusen,4,1,2014-09-21 14:30:00,Ricardo Rodríguez,Chipped
+25054,21,ShotOnPost,0.8030000305175782,0.62,0.044843755662441254,Kevin De Bruyne,h,447,OpenPlay,2014,RightFoot,5427,Wolfsburg,Bayer Leverkusen,4,1,2014-09-21 14:30:00,Nicklas Bendtner,Pass
+25055,25,SavedShot,0.7809999847412109,0.34599998474121096,0.07304221391677856,Ricardo Rodríguez,h,308,DirectFreekick,2014,LeftFoot,5427,Wolfsburg,Bayer Leverkusen,4,1,2014-09-21 14:30:00,,Standard
+25057,27,MissedShots,0.945,0.4,0.019060997292399406,Junior Malanda,h,4362,FromCorner,2014,Head,5427,Wolfsburg,Bayer Leverkusen,4,1,2014-09-21 14:30:00,Kevin De Bruyne,Aerial
+25063,43,SavedShot,0.889000015258789,0.6020000076293945,0.13041436672210693,Daniel Caligiuri,h,157,OpenPlay,2014,RightFoot,5427,Wolfsburg,Bayer Leverkusen,4,1,2014-09-21 14:30:00,Luiz Gustavo,TakeOn
+25064,44,Goal,0.9419999694824219,0.42400001525878905,0.06124528869986534,Vieirinha,h,151,OpenPlay,2014,Head,5427,Wolfsburg,Bayer Leverkusen,4,1,2014-09-21 14:30:00,Ricardo Rodríguez,Chipped
+25065,46,BlockedShot,0.88,0.664000015258789,0.07919438928365707,Daniel Caligiuri,h,157,OpenPlay,2014,LeftFoot,5427,Wolfsburg,Bayer Leverkusen,4,1,2014-09-21 14:30:00,Vieirinha,Pass
+25066,51,MissedShots,0.7959999847412109,0.3770000076293945,0.04716421291232109,Kevin De Bruyne,h,447,OpenPlay,2014,RightFoot,5427,Wolfsburg,Bayer Leverkusen,4,1,2014-09-21 14:30:00,Daniel Caligiuri,Chipped
+25068,58,BlockedShot,0.899000015258789,0.525,0.12405580282211304,Junior Malanda,h,4362,OpenPlay,2014,RightFoot,5427,Wolfsburg,Bayer Leverkusen,4,1,2014-09-21 14:30:00,Sebastian Jung,HeadPass
+25069,59,SavedShot,0.8240000152587891,0.715,0.03900745511054993,Daniel Caligiuri,h,157,OpenPlay,2014,RightFoot,5427,Wolfsburg,Bayer Leverkusen,4,1,2014-09-21 14:30:00,,None
+25070,62,Goal,0.8069999694824219,0.6020000076293945,0.014833240769803524,Ricardo Rodríguez,h,308,FromCorner,2014,LeftFoot,5427,Wolfsburg,Bayer Leverkusen,4,1,2014-09-21 14:30:00,Kevin De Bruyne,Chipped
+25074,75,MissedShots,0.7559999847412109,0.40299999237060546,0.024638662114739418,Luiz Gustavo,h,387,OpenPlay,2014,LeftFoot,5427,Wolfsburg,Bayer Leverkusen,4,1,2014-09-21 14:30:00,Vieirinha,Pass
+25075,80,Goal,0.8430000305175781,0.545,0.07959575951099396,Aaron Hunt,h,174,OpenPlay,2014,LeftFoot,5427,Wolfsburg,Bayer Leverkusen,4,1,2014-09-21 14:30:00,Junior Malanda,None
+25076,85,SavedShot,0.91,0.4279999923706055,0.018159925937652588,Naldo,h,147,FromCorner,2014,Head,5427,Wolfsburg,Bayer Leverkusen,4,1,2014-09-21 14:30:00,Ricardo Rodríguez,Aerial
+25051,13,MissedShots,0.799000015258789,0.3089999961853027,0.011537260375916958,Karim Bellarabi,a,186,OpenPlay,2014,RightFoot,5427,Wolfsburg,Bayer Leverkusen,4,1,2014-09-21 14:30:00,,Aerial
+25053,20,BlockedShot,0.855999984741211,0.75,0.026788629591464996,Hakan Calhanoglu,a,189,OpenPlay,2014,LeftFoot,5427,Wolfsburg,Bayer Leverkusen,4,1,2014-09-21 14:30:00,Karim Bellarabi,Pass
+25056,26,BlockedShot,0.845,0.6480000305175782,0.05046113207936287,Hakan Calhanoglu,a,189,OpenPlay,2014,RightFoot,5427,Wolfsburg,Bayer Leverkusen,4,1,2014-09-21 14:30:00,Gonzalo Castro,Pass
+25058,28,Goal,0.8880000305175781,0.36700000762939455,0.26166924834251404,Josip Drmic,a,209,OpenPlay,2014,RightFoot,5427,Wolfsburg,Bayer Leverkusen,4,1,2014-09-21 14:30:00,Karim Bellarabi,HeadPass
+25059,31,BlockedShot,0.7919999694824219,0.7390000152587891,0.018287381157279015,Gonzalo Castro,a,316,OpenPlay,2014,RightFoot,5427,Wolfsburg,Bayer Leverkusen,4,1,2014-09-21 14:30:00,Wendell,Pass
+25060,33,BlockedShot,0.865999984741211,0.5790000152587891,0.05473138764500618,Tin Jedvaj,a,417,FromCorner,2014,LeftFoot,5427,Wolfsburg,Bayer Leverkusen,4,1,2014-09-21 14:30:00,Josip Drmic,Pass
+25061,33,BlockedShot,0.7340000152587891,0.524000015258789,0.020781084895133972,Levin Öztunali,a,118,FromCorner,2014,RightFoot,5427,Wolfsburg,Bayer Leverkusen,4,1,2014-09-21 14:30:00,,Rebound
+25062,42,MissedShots,0.765,0.37099998474121093,0.024089284241199493,Josip Drmic,a,209,OpenPlay,2014,RightFoot,5427,Wolfsburg,Bayer Leverkusen,4,1,2014-09-21 14:30:00,Lars Bender,HeadPass
+25067,53,BlockedShot,0.86,0.8030000305175782,0.060728609561920166,Hakan Calhanoglu,a,189,DirectFreekick,2014,RightFoot,5427,Wolfsburg,Bayer Leverkusen,4,1,2014-09-21 14:30:00,,Standard
+25071,64,BlockedShot,0.8080000305175781,0.29700000762939455,0.024911249056458473,Karim Bellarabi,a,186,OpenPlay,2014,LeftFoot,5427,Wolfsburg,Bayer Leverkusen,4,1,2014-09-21 14:30:00,Josip Drmic,Pass
+25072,64,MissedShots,0.76,0.355,0.02296517789363861,Karim Bellarabi,a,186,OpenPlay,2014,RightFoot,5427,Wolfsburg,Bayer Leverkusen,4,1,2014-09-21 14:30:00,Tin Jedvaj,TakeOn
+25073,71,MissedShots,0.7959999847412109,0.41900001525878905,0.04098619520664215,Stefan Kießling,a,190,OpenPlay,2014,RightFoot,5427,Wolfsburg,Bayer Leverkusen,4,1,2014-09-21 14:30:00,Stefan Reinartz,Tackle

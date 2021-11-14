@@ -1,0 +1,20 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+79469,10,SavedShot,0.9230000305175782,0.25799999237060545,0.03684956207871437,Daniel Schwaab,h,56,OpenPlay,2015,RightFoot,1154,VfB Stuttgart,Werder Bremen,1,1,2015-12-06 18:30:00,Christian Gentner,Chipped
+79470,11,BlockedShot,0.7909999847412109,0.28600000381469726,0.02332320250570774,Daniel Didavi,h,300,OpenPlay,2015,LeftFoot,1154,VfB Stuttgart,Werder Bremen,1,1,2015-12-06 18:30:00,Daniel Schwaab,Pass
+79471,12,BlockedShot,0.840999984741211,0.3659999847412109,0.05237114429473877,Geoffroy Serey Dié,h,61,OpenPlay,2015,RightFoot,1154,VfB Stuttgart,Werder Bremen,1,1,2015-12-06 18:30:00,Christian Gentner,Pass
+79472,12,MissedShots,0.8419999694824218,0.4420000076293945,0.06274265795946121,Geoffroy Serey Dié,h,61,OpenPlay,2015,LeftFoot,1154,VfB Stuttgart,Werder Bremen,1,1,2015-12-06 18:30:00,,Rebound
+79473,14,MissedShots,0.924000015258789,0.4759999847412109,0.06842446327209473,Timo Baumgartl,h,71,OpenPlay,2015,Head,1154,VfB Stuttgart,Werder Bremen,1,1,2015-12-06 18:30:00,Daniel Schwaab,Aerial
+79474,30,SavedShot,0.735999984741211,0.36900001525878906,0.00926990807056427,Christian Gentner,h,60,SetPiece,2015,LeftFoot,1154,VfB Stuttgart,Werder Bremen,1,1,2015-12-06 18:30:00,,Aerial
+79477,32,Goal,0.925,0.35700000762939454,0.3004554808139801,Lukas Rupp,h,62,OpenPlay,2015,RightFoot,1154,VfB Stuttgart,Werder Bremen,1,1,2015-12-06 18:30:00,Filip Kostic,Chipped
+79478,35,BlockedShot,0.8030000305175782,0.3189999961853027,0.03459666669368744,Filip Kostic,h,64,OpenPlay,2015,LeftFoot,1154,VfB Stuttgart,Werder Bremen,1,1,2015-12-06 18:30:00,Lukas Rupp,Pass
+79479,49,MissedShots,0.7040000152587891,0.2979999923706055,0.015847433358430862,Timo Werner,h,65,OpenPlay,2015,RightFoot,1154,VfB Stuttgart,Werder Bremen,1,1,2015-12-06 18:30:00,Daniel Schwaab,TakeOn
+79481,61,MissedShots,0.92,0.42700000762939455,0.11685539036989212,Christian Gentner,h,60,OpenPlay,2015,Head,1154,VfB Stuttgart,Werder Bremen,1,1,2015-12-06 18:30:00,Filip Kostic,Cross
+79482,64,MissedShots,0.8909999847412109,0.555,0.019122444093227386,Daniel Schwaab,h,56,SetPiece,2015,Head,1154,VfB Stuttgart,Werder Bremen,1,1,2015-12-06 18:30:00,Daniel Didavi,Aerial
+79487,85,SavedShot,0.9630000305175781,0.515,0.763167142868042,Timo Werner,h,65,OpenPlay,2015,RightFoot,1154,VfB Stuttgart,Werder Bremen,1,1,2015-12-06 18:30:00,Lukas Rupp,Pass
+79475,30,BlockedShot,0.7580000305175781,0.385,0.017639335244894028,Zlatko Junuzovic,a,301,OpenPlay,2015,RightFoot,1154,VfB Stuttgart,Werder Bremen,1,1,2015-12-06 18:30:00,,None
+79476,31,MissedShots,0.7030000305175781,0.6170000076293946,0.037633247673511505,Jannik Vestergaard,a,111,DirectFreekick,2015,RightFoot,1154,VfB Stuttgart,Werder Bremen,1,1,2015-12-06 18:30:00,,Standard
+79480,58,SavedShot,0.8830000305175781,0.6170000076293946,0.063652902841568,Anthony Ujah,a,119,OpenPlay,2015,RightFoot,1154,VfB Stuttgart,Werder Bremen,1,1,2015-12-06 18:30:00,Philipp Bargfrede,Pass
+79483,69,MissedShots,0.7659999847412109,0.4779999923706055,0.029872771352529526,Clemens Fritz,a,117,OpenPlay,2015,RightFoot,1154,VfB Stuttgart,Werder Bremen,1,1,2015-12-06 18:30:00,Philipp Bargfrede,Pass
+79484,70,BlockedShot,0.765,0.3189999961853027,0.017483839765191078,Clemens Fritz,a,117,OpenPlay,2015,RightFoot,1154,VfB Stuttgart,Werder Bremen,1,1,2015-12-06 18:30:00,Florian Grillitsch,Pass
+79485,70,Goal,0.96,0.4620000076293945,0.6379640698432922,Anthony Ujah,a,119,OpenPlay,2015,RightFoot,1154,VfB Stuttgart,Werder Bremen,1,1,2015-12-06 18:30:00,,Rebound
+79486,84,ShotOnPost,0.8680000305175781,0.37400001525878906,0.09358593821525574,Levin Öztunali,a,118,OpenPlay,2015,LeftFoot,1154,VfB Stuttgart,Werder Bremen,1,1,2015-12-06 18:30:00,Anthony Ujah,TakeOn

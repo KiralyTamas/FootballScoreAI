@@ -1,0 +1,24 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+124460,2,Goal,0.7190000152587891,0.6730000305175782,0.03440258279442787,Blagoy Georgiev,h,3102,DirectFreekick,2016,RightFoot,4297,FC Orenburg,Arsenal Tula,3,0,2017-03-04 11:00:00,,Standard
+124464,20,Goal,0.885,0.5,0.7542753219604492,Blagoy Georgiev,h,3102,Penalty,2016,RightFoot,4297,FC Orenburg,Arsenal Tula,3,0,2017-03-04 11:00:00,,Standard
+124465,25,SavedShot,0.8530000305175781,0.6270000076293946,0.05905962362885475,Roman Vorobjov,h,5429,OpenPlay,2016,LeftFoot,4297,FC Orenburg,Arsenal Tula,3,0,2017-03-04 11:00:00,,None
+124470,37,BlockedShot,0.860999984741211,0.40700000762939453,0.11018622666597366,Blagoy Georgiev,h,3102,OpenPlay,2016,LeftFoot,4297,FC Orenburg,Arsenal Tula,3,0,2017-03-04 11:00:00,Andrey Malykh,Pass
+124471,45,MissedShots,0.77,0.6,0.04297885671257973,Maksim Grigoriev,h,3167,OpenPlay,2016,RightFoot,4297,FC Orenburg,Arsenal Tula,3,0,2017-03-04 11:00:00,Michal Duris,HeadPass
+124472,49,Goal,0.919000015258789,0.5529999923706055,0.5568459033966064,Roman Vorobjov,h,5429,OpenPlay,2016,LeftFoot,4297,FC Orenburg,Arsenal Tula,3,0,2017-03-04 11:00:00,,None
+124477,63,BlockedShot,0.8919999694824219,0.5459999847412109,0.13331948220729828,Maksim Grigoriev,h,3167,OpenPlay,2016,RightFoot,4297,FC Orenburg,Arsenal Tula,3,0,2017-03-04 11:00:00,Andrey Malykh,Cross
+124479,73,SavedShot,0.9209999847412109,0.34799999237060547,0.02912888675928116,Mikhail Sivakov,h,5424,FromCorner,2016,RightFoot,4297,FC Orenburg,Arsenal Tula,3,0,2017-03-04 11:00:00,Sergey Breev,HeadPass
+124461,5,MissedShots,0.7169999694824218,0.735,0.011207075789570808,Maksim Belyaev,a,4631,OpenPlay,2016,RightFoot,4297,FC Orenburg,Arsenal Tula,3,0,2017-03-04 11:00:00,Alexandru Bourceanu,Pass
+124462,18,BlockedShot,0.9369999694824219,0.4929999923706055,0.13712671399116516,Stoppila Sunzu,a,3602,FromCorner,2016,RightFoot,4297,FC Orenburg,Arsenal Tula,3,0,2017-03-04 11:00:00,Maksim Belyaev,Cross
+124463,18,MissedShots,0.93,0.48400001525878905,0.11133046448230743,Stoppila Sunzu,a,3602,FromCorner,2016,Head,4297,FC Orenburg,Arsenal Tula,3,0,2017-03-04 11:00:00,Alexandru Bourceanu,Cross
+124466,28,MissedShots,0.9640000152587891,0.40400001525878904,0.057210683822631836,Igor Shevchenko,a,4552,OpenPlay,2016,Head,4297,FC Orenburg,Arsenal Tula,3,0,2017-03-04 11:00:00,Nikita Burmistrov,Cross
+124467,30,BlockedShot,0.8919999694824219,0.3529999923706055,0.08495844900608063,Mihail Aleksandrov,a,5370,OpenPlay,2016,LeftFoot,4297,FC Orenburg,Arsenal Tula,3,0,2017-03-04 11:00:00,Nikita Burmistrov,Pass
+124468,31,SavedShot,0.7819999694824219,0.23600000381469727,0.019605763256549835,Nikita Burmistrov,a,2986,FromCorner,2016,LeftFoot,4297,FC Orenburg,Arsenal Tula,3,0,2017-03-04 11:00:00,Igor Gorbatenko,Pass
+124469,35,MissedShots,0.7769999694824219,0.575999984741211,0.031150085851550102,Nikita Burmistrov,a,2986,OpenPlay,2016,LeftFoot,4297,FC Orenburg,Arsenal Tula,3,0,2017-03-04 11:00:00,Jherson Vergara,Pass
+124473,55,SavedShot,0.7430000305175781,0.625999984741211,0.012899130582809448,Igor Gorbatenko,a,3151,OpenPlay,2016,LeftFoot,4297,FC Orenburg,Arsenal Tula,3,0,2017-03-04 11:00:00,Maksim Belyaev,Pass
+124474,57,BlockedShot,0.7390000152587891,0.4909999847412109,0.01286207977682352,Igor Gorbatenko,a,3151,OpenPlay,2016,LeftFoot,4297,FC Orenburg,Arsenal Tula,3,0,2017-03-04 11:00:00,,None
+124475,57,MissedShots,0.7619999694824219,0.43099998474121093,0.013579756021499634,Moussa Doumbia,a,2782,OpenPlay,2016,RightFoot,4297,FC Orenburg,Arsenal Tula,3,0,2017-03-04 11:00:00,,Rebound
+124476,60,MissedShots,0.9280000305175782,0.46299999237060546,0.09939544647932053,Ivan Ivanov,a,5372,FromCorner,2016,Head,4297,FC Orenburg,Arsenal Tula,3,0,2017-03-04 11:00:00,Mihail Aleksandrov,Cross
+124478,70,MissedShots,0.9119999694824219,0.40900001525878904,0.04030698165297508,Kirill Kombarov,a,3128,OpenPlay,2016,Head,4297,FC Orenburg,Arsenal Tula,3,0,2017-03-04 11:00:00,Mihail Aleksandrov,Cross
+124480,83,SavedShot,0.8290000152587891,0.5670000076293945,0.05682409554719925,Nikita Burmistrov,a,2986,OpenPlay,2016,LeftFoot,4297,FC Orenburg,Arsenal Tula,3,0,2017-03-04 11:00:00,Igor Shevchenko,LayOff
+124481,83,MissedShots,0.7859999847412109,0.6419999694824219,0.017595870420336723,Alexandru Bourceanu,a,5369,OpenPlay,2016,RightFoot,4297,FC Orenburg,Arsenal Tula,3,0,2017-03-04 11:00:00,Moussa Doumbia,Pass
+124482,86,MissedShots,0.715,0.43599998474121093,0.04017161205410957,Igor Gorbatenko,a,3151,DirectFreekick,2016,LeftFoot,4297,FC Orenburg,Arsenal Tula,3,0,2017-03-04 11:00:00,,Standard

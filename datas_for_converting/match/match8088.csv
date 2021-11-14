@@ -1,0 +1,25 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+189913,5,BlockedShot,0.8190000152587891,0.19200000762939454,0.020487818866968155,Rodrigo,h,2381,OpenPlay,2017,LeftFoot,8088,Valencia,Real Madrid,1,4,2018-01-27 15:15:00,Gonçalo Guedes,Pass
+189915,9,MissedShots,0.7430000305175781,0.519000015258789,0.020182697102427483,Rodrigo,h,2381,OpenPlay,2017,LeftFoot,8088,Valencia,Real Madrid,1,4,2018-01-27 15:15:00,Geoffrey Kondogbia,BallRecovery
+189917,20,BlockedShot,0.9169999694824219,0.34900001525878904,0.07274621725082397,Rodrigo,h,2381,OpenPlay,2017,RightFoot,8088,Valencia,Real Madrid,1,4,2018-01-27 15:15:00,Martín Montoya,Pass
+189918,24,SavedShot,0.779000015258789,0.49599998474121093,0.04179680719971657,Geoffrey Kondogbia,h,1516,OpenPlay,2017,LeftFoot,8088,Valencia,Real Madrid,1,4,2018-01-27 15:15:00,Rodrigo,TakeOn
+189921,27,MissedShots,0.9019999694824219,0.5059999847412109,0.07201479375362396,Geoffrey Kondogbia,h,1516,SetPiece,2017,Head,8088,Valencia,Real Madrid,1,4,2018-01-27 15:15:00,Daniel Parejo,Chipped
+189924,43,MissedShots,0.924000015258789,0.49400001525878906,0.5065264701843262,Rodrigo,h,2381,OpenPlay,2017,LeftFoot,8088,Valencia,Real Madrid,1,4,2018-01-27 15:15:00,Santi Mina,Pass
+189925,46,SavedShot,0.77,0.5329999923706055,0.0236373208463192,Gonçalo Guedes,h,5682,OpenPlay,2017,LeftFoot,8088,Valencia,Real Madrid,1,4,2018-01-27 15:15:00,,None
+189927,57,Goal,0.94,0.48900001525878906,0.4391705393791199,Santi Mina,h,2384,FromCorner,2017,Head,8088,Valencia,Real Madrid,1,4,2018-01-27 15:15:00,Daniel Parejo,Cross
+189929,61,MissedShots,0.8719999694824219,0.5159999847412109,0.09544914215803146,José Gayá,h,2505,OpenPlay,2017,RightFoot,8088,Valencia,Real Madrid,1,4,2018-01-27 15:15:00,Carlos Soler,Pass
+189930,65,SavedShot,0.8619999694824219,0.48200000762939454,0.09199313074350357,Daniel Parejo,h,2378,OpenPlay,2017,RightFoot,8088,Valencia,Real Madrid,1,4,2018-01-27 15:15:00,Rodrigo,Pass
+189931,66,MissedShots,0.81,0.315,0.02667475864291191,Carlos Soler,h,2478,OpenPlay,2017,RightFoot,8088,Valencia,Real Madrid,1,4,2018-01-27 15:15:00,,None
+189914,6,SavedShot,0.88,0.4909999847412109,0.40073931217193604,Gareth Bale,a,2251,OpenPlay,2017,LeftFoot,8088,Valencia,Real Madrid,1,4,2018-01-27 15:15:00,,None
+189916,15,Goal,0.885,0.5,0.7432776093482971,Cristiano Ronaldo,a,2371,Penalty,2017,RightFoot,8088,Valencia,Real Madrid,1,4,2018-01-27 15:15:00,,Standard
+189919,24,BlockedShot,0.8540000152587891,0.7569999694824219,0.03288721293210983,Cristiano Ronaldo,a,2371,OpenPlay,2017,RightFoot,8088,Valencia,Real Madrid,1,4,2018-01-27 15:15:00,Toni Kroos,Pass
+189920,26,SavedShot,0.9369999694824219,0.6120000076293945,0.09292735159397125,Cristiano Ronaldo,a,2371,OpenPlay,2017,LeftFoot,8088,Valencia,Real Madrid,1,4,2018-01-27 15:15:00,Toni Kroos,Chipped
+189922,37,Goal,0.885,0.5,0.7432776093482971,Cristiano Ronaldo,a,2371,Penalty,2017,RightFoot,8088,Valencia,Real Madrid,1,4,2018-01-27 15:15:00,,Standard
+189923,39,MissedShots,0.6809999847412109,0.7090000152587891,0.012257490307092667,Casemiro,a,2248,OpenPlay,2017,RightFoot,8088,Valencia,Real Madrid,1,4,2018-01-27 15:15:00,Toni Kroos,Pass
+189926,53,MissedShots,0.895,0.654000015258789,0.08908876776695251,Karim Benzema,a,2370,OpenPlay,2017,LeftFoot,8088,Valencia,Real Madrid,1,4,2018-01-27 15:15:00,Daniel Carvajal,Pass
+189928,61,MissedShots,0.9230000305175782,0.580999984741211,0.09062343090772629,Gareth Bale,a,2251,FromCorner,2017,LeftFoot,8088,Valencia,Real Madrid,1,4,2018-01-27 15:15:00,,None
+189932,67,SavedShot,0.93,0.46099998474121096,0.14893338084220886,Cristiano Ronaldo,a,2371,OpenPlay,2017,RightFoot,8088,Valencia,Real Madrid,1,4,2018-01-27 15:15:00,Gareth Bale,Pass
+189933,78,MissedShots,0.7140000152587891,0.6719999694824219,0.0394991897046566,Cristiano Ronaldo,a,2371,DirectFreekick,2017,RightFoot,8088,Valencia,Real Madrid,1,4,2018-01-27 15:15:00,,Standard
+189934,81,BlockedShot,0.8909999847412109,0.5270000076293946,0.13384225964546204,Cristiano Ronaldo,a,2371,OpenPlay,2017,RightFoot,8088,Valencia,Real Madrid,1,4,2018-01-27 15:15:00,Luka Modric,Pass
+189935,83,Goal,0.915,0.674000015258789,0.08767932653427124,Marcelo,a,2257,OpenPlay,2017,LeftFoot,8088,Valencia,Real Madrid,1,4,2018-01-27 15:15:00,Marco Asensio,Pass
+189936,88,Goal,0.8019999694824219,0.445,0.09182160347700119,Toni Kroos,a,2369,OpenPlay,2017,RightFoot,8088,Valencia,Real Madrid,1,4,2018-01-27 15:15:00,Mateo Kovacic,LayOff

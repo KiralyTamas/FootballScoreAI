@@ -1,0 +1,16 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+88100,2,SavedShot,0.8769999694824219,0.27399999618530274,0.10528066754341125,Jonathan dos Santos,h,2307,OpenPlay,2015,RightFoot,1567,Villarreal,Valencia,1,0,2015-12-31 19:00:00,Bruno,Throughball
+88101,3,MissedShots,0.7019999694824218,0.5109999847412109,0.011378304101526737,Roberto Soldado,h,2311,OpenPlay,2015,RightFoot,1567,Villarreal,Valencia,1,0,2015-12-31 19:00:00,Adrián Marín,Chipped
+88102,20,BlockedShot,0.740999984741211,0.524000015258789,0.020854294300079346,Bruno,h,2302,OpenPlay,2015,LeftFoot,1567,Villarreal,Valencia,1,0,2015-12-31 19:00:00,Manu Trigueros,Pass
+88103,21,MissedShots,0.7819999694824219,0.37400001525878906,0.08599837869405746,Bruno,h,2302,DirectFreekick,2015,LeftFoot,1567,Villarreal,Valencia,1,0,2015-12-31 19:00:00,,Standard
+88104,39,MissedShots,0.6930000305175781,0.47400001525878904,0.013230475597083569,Jonathan dos Santos,h,2307,OpenPlay,2015,RightFoot,1567,Villarreal,Valencia,1,0,2015-12-31 19:00:00,Cédric Bakambu,BallRecovery
+88105,50,MissedShots,0.8140000152587891,0.6890000152587891,0.03163686394691467,Denis Suárez,h,2308,OpenPlay,2015,RightFoot,1567,Villarreal,Valencia,1,0,2015-12-31 19:00:00,,BallRecovery
+88111,63,Goal,0.7809999847412109,0.3890000152587891,0.08914601057767868,Bruno,h,2302,DirectFreekick,2015,LeftFoot,1567,Villarreal,Valencia,1,0,2015-12-31 19:00:00,,Standard
+88113,78,MissedShots,0.7580000305175781,0.6020000076293945,0.04054691269993782,Denis Suárez,h,2308,OpenPlay,2015,RightFoot,1567,Villarreal,Valencia,1,0,2015-12-31 19:00:00,,TakeOn
+88114,90,SavedShot,0.8130000305175781,0.7930000305175782,0.022522347047924995,Denis Suárez,h,2308,OpenPlay,2015,RightFoot,1567,Villarreal,Valencia,1,0,2015-12-31 19:00:00,,Dispossessed
+88106,51,BlockedShot,0.855,0.4640000152587891,0.057298947125673294,André Gomes,a,2383,FromCorner,2015,RightFoot,1567,Villarreal,Valencia,1,0,2015-12-31 19:00:00,Álvaro Negredo,Pass
+88107,56,SavedShot,0.9719999694824218,0.6680000305175782,0.06930103898048401,André Gomes,a,2383,OpenPlay,2015,LeftFoot,1567,Villarreal,Valencia,1,0,2015-12-31 19:00:00,Paco Alcácer,TakeOn
+88108,57,SavedShot,0.7180000305175781,0.5829999923706055,0.011609378270804882,Daniel Parejo,a,2378,OpenPlay,2015,RightFoot,1567,Villarreal,Valencia,1,0,2015-12-31 19:00:00,,None
+88109,59,MissedShots,0.9130000305175782,0.4209999847412109,0.09072569757699966,Paco Alcácer,a,2380,OpenPlay,2015,RightFoot,1567,Villarreal,Valencia,1,0,2015-12-31 19:00:00,Antonio Barragán,Cross
+88110,60,MissedShots,0.88,0.555,0.056999050080776215,Aderlan Santos,a,2474,SetPiece,2015,Head,1567,Villarreal,Valencia,1,0,2015-12-31 19:00:00,Daniel Parejo,Cross
+88112,65,MissedShots,0.8730000305175781,0.4129999923706055,0.05324849858880043,Paco Alcácer,a,2380,OpenPlay,2015,RightFoot,1567,Villarreal,Valencia,1,0,2015-12-31 19:00:00,Álvaro Negredo,HeadPass

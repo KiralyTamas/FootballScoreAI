@@ -1,0 +1,37 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+129387,4,BlockedShot,0.6980000305175781,0.6659999847412109,0.01154058612883091,Roger,h,238,OpenPlay,2016,RightFoot,1391,Ingolstadt,Borussia Dortmund,3,3,2016-10-22 17:30:00,Moritz Hartmann,Pass
+129388,5,Goal,0.9469999694824218,0.495,0.5631723999977112,Almog Cohen,h,240,SetPiece,2016,LeftFoot,1391,Ingolstadt,Borussia Dortmund,3,3,2016-10-22 17:30:00,Markus Suttner,Cross
+129390,12,SavedShot,0.965999984741211,0.46099998474121096,0.12184235453605652,Lukas Hinterseer,h,242,FromCorner,2016,RightFoot,1391,Ingolstadt,Borussia Dortmund,3,3,2016-10-22 17:30:00,Marvin Matip,HeadPass
+129393,20,SavedShot,0.6780000305175782,0.36900001525878906,0.013047046028077602,Roger,h,238,OpenPlay,2016,RightFoot,1391,Ingolstadt,Borussia Dortmund,3,3,2016-10-22 17:30:00,,BallRecovery
+129394,23,Goal,0.8780000305175781,0.48200000762939454,0.015113216824829578,Darío Lezcano,h,2636,SetPiece,2016,Head,1391,Ingolstadt,Borussia Dortmund,3,3,2016-10-22 17:30:00,Markus Suttner,Aerial
+129400,35,MissedShots,0.924000015258789,0.40900001525878904,0.12925636768341064,Lukas Hinterseer,h,242,OpenPlay,2016,RightFoot,1391,Ingolstadt,Borussia Dortmund,3,3,2016-10-22 17:30:00,Markus Suttner,Cross
+129404,43,SavedShot,0.95,0.355,0.14397071301937103,Darío Lezcano,h,2636,OpenPlay,2016,RightFoot,1391,Ingolstadt,Borussia Dortmund,3,3,2016-10-22 17:30:00,Moritz Hartmann,TakeOn
+129405,43,MissedShots,0.9590000152587891,0.575,0.055181242525577545,Moritz Hartmann,h,362,FromCorner,2016,Head,1391,Ingolstadt,Borussia Dortmund,3,3,2016-10-22 17:30:00,,Aerial
+129406,45,SavedShot,0.795,0.42900001525878906,0.040997665375471115,Almog Cohen,h,240,OpenPlay,2016,RightFoot,1391,Ingolstadt,Borussia Dortmund,3,3,2016-10-22 17:30:00,,None
+129410,59,Goal,0.895,0.435,0.14987336099147797,Darío Lezcano,h,2636,OpenPlay,2016,RightFoot,1391,Ingolstadt,Borussia Dortmund,3,3,2016-10-22 17:30:00,Florent Hadergjonaj,Pass
+129411,60,ShotOnPost,0.8230000305175781,0.4490000152587891,0.4098285734653473,Moritz Hartmann,h,362,OpenPlay,2016,RightFoot,1391,Ingolstadt,Borussia Dortmund,3,3,2016-10-22 17:30:00,Pascal Groß,Chipped
+129412,63,BlockedShot,0.7659999847412109,0.5379999923706055,0.03942997753620148,Almog Cohen,h,240,OpenPlay,2016,RightFoot,1391,Ingolstadt,Borussia Dortmund,3,3,2016-10-22 17:30:00,,Dispossessed
+129389,7,MissedShots,0.7609999847412109,0.6790000152587891,0.05497599393129349,Gonzalo Castro,a,316,DirectFreekick,2016,RightFoot,1391,Ingolstadt,Borussia Dortmund,3,3,2016-10-22 17:30:00,,Standard
+129391,15,SavedShot,0.775,0.615999984741211,0.025061961263418198,Ousmane Dembélé,a,3226,OpenPlay,2016,RightFoot,1391,Ingolstadt,Borussia Dortmund,3,3,2016-10-22 17:30:00,Gonzalo Castro,Pass
+129392,16,SavedShot,0.8819999694824219,0.645,0.008655010722577572,Adrián Ramos,a,324,OpenPlay,2016,Head,1391,Ingolstadt,Borussia Dortmund,3,3,2016-10-22 17:30:00,Joo-Ho Park,Aerial
+129395,27,SavedShot,0.730999984741211,0.44299999237060544,0.016672251746058464,Gonzalo Castro,a,316,OpenPlay,2016,RightFoot,1391,Ingolstadt,Borussia Dortmund,3,3,2016-10-22 17:30:00,Ousmane Dembélé,Pass
+129396,28,MissedShots,0.89,0.575,0.01379439514130354,Lukasz Piszczek,a,310,FromCorner,2016,Head,1391,Ingolstadt,Borussia Dortmund,3,3,2016-10-22 17:30:00,Gonzalo Castro,Aerial
+129397,31,BlockedShot,0.710999984741211,0.46700000762939453,0.010859176516532898,Gonzalo Castro,a,316,OpenPlay,2016,RightFoot,1391,Ingolstadt,Borussia Dortmund,3,3,2016-10-22 17:30:00,,BallTouch
+129398,31,MissedShots,0.7169999694824218,0.629000015258789,0.00794154405593872,Julian Weigl,a,372,OpenPlay,2016,LeftFoot,1391,Ingolstadt,Borussia Dortmund,3,3,2016-10-22 17:30:00,,Rebound
+129399,32,MissedShots,0.764000015258789,0.355,0.01920335739850998,Matthias Ginter,a,315,OpenPlay,2016,RightFoot,1391,Ingolstadt,Borussia Dortmund,3,3,2016-10-22 17:30:00,Shinji Kagawa,Pass
+129401,38,MissedShots,0.720999984741211,0.48200000762939454,0.050035350024700165,Pierre-Emerick Aubameyang,a,318,DirectFreekick,2016,RightFoot,1391,Ingolstadt,Borussia Dortmund,3,3,2016-10-22 17:30:00,,Standard
+129402,40,BlockedShot,0.93,0.649000015258789,0.03817242011427879,Ousmane Dembélé,a,3226,OpenPlay,2016,RightFoot,1391,Ingolstadt,Borussia Dortmund,3,3,2016-10-22 17:30:00,,Aerial
+129403,40,BlockedShot,0.755,0.5629999923706055,0.012845125049352646,Lukasz Piszczek,a,310,OpenPlay,2016,RightFoot,1391,Ingolstadt,Borussia Dortmund,3,3,2016-10-22 17:30:00,,Rebound
+129407,49,MissedShots,0.764000015258789,0.41700000762939454,0.02406401000916958,Gonzalo Castro,a,316,OpenPlay,2016,RightFoot,1391,Ingolstadt,Borussia Dortmund,3,3,2016-10-22 17:30:00,Ousmane Dembélé,Pass
+129408,55,MissedShots,0.92,0.44099998474121094,0.07971247285604477,Marc Bartra,a,2453,FromCorner,2016,Head,1391,Ingolstadt,Borussia Dortmund,3,3,2016-10-22 17:30:00,Gonzalo Castro,Cross
+129409,58,Goal,0.9440000152587891,0.47400001525878904,0.1516498178243637,Pierre-Emerick Aubameyang,a,318,OpenPlay,2016,Head,1391,Ingolstadt,Borussia Dortmund,3,3,2016-10-22 17:30:00,Ousmane Dembélé,Cross
+129413,68,Goal,0.8719999694824219,0.48,0.08103936165571213,Adrián Ramos,a,324,OpenPlay,2016,RightFoot,1391,Ingolstadt,Borussia Dortmund,3,3,2016-10-22 17:30:00,Christian Pulisic,Dispossessed
+129414,78,SavedShot,0.7219999694824218,0.6669999694824219,0.01735903136432171,Felix Passlack,a,2663,FromCorner,2016,RightFoot,1391,Ingolstadt,Borussia Dortmund,3,3,2016-10-22 17:30:00,Mario Götze,Pass
+129415,78,MissedShots,0.7930000305175782,0.3820000076293945,0.027503443881869316,Ousmane Dembélé,a,3226,FromCorner,2016,RightFoot,1391,Ingolstadt,Borussia Dortmund,3,3,2016-10-22 17:30:00,Mario Götze,TakeOn
+129416,82,MissedShots,0.8969999694824219,0.37900001525878907,0.029794536530971527,Christian Pulisic,a,2662,OpenPlay,2016,Head,1391,Ingolstadt,Borussia Dortmund,3,3,2016-10-22 17:30:00,Felix Passlack,Chipped
+129417,85,SavedShot,0.9359999847412109,0.425,0.47995123267173767,Mario Götze,a,422,OpenPlay,2016,RightFoot,1391,Ingolstadt,Borussia Dortmund,3,3,2016-10-22 17:30:00,Adrián Ramos,Pass
+129418,87,SavedShot,0.935,0.5790000152587891,0.33039090037345886,Pierre-Emerick Aubameyang,a,318,OpenPlay,2016,RightFoot,1391,Ingolstadt,Borussia Dortmund,3,3,2016-10-22 17:30:00,Ousmane Dembélé,Chipped
+129419,87,BlockedShot,0.8780000305175781,0.5520000076293945,0.01365500595420599,Marc Bartra,a,2453,FromCorner,2016,Head,1391,Ingolstadt,Borussia Dortmund,3,3,2016-10-22 17:30:00,Mario Götze,Aerial
+129420,90,SavedShot,0.9030000305175782,0.4759999847412109,0.19968898594379425,Lukasz Piszczek,a,310,OpenPlay,2016,Head,1391,Ingolstadt,Borussia Dortmund,3,3,2016-10-22 17:30:00,Felix Passlack,Cross
+129421,90,Goal,0.9840000152587891,0.4620000076293945,0.9355741143226624,Christian Pulisic,a,2662,OpenPlay,2016,RightFoot,1391,Ingolstadt,Borussia Dortmund,3,3,2016-10-22 17:30:00,,Rebound
+129422,93,MissedShots,0.9290000152587891,0.46799999237060547,0.07515767216682434,Pierre-Emerick Aubameyang,a,318,OpenPlay,2016,Head,1391,Ingolstadt,Borussia Dortmund,3,3,2016-10-22 17:30:00,Felix Passlack,Aerial

@@ -1,0 +1,32 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+397566,9,MissedShots,0.6980000305175781,0.40700000762939453,0.012368493713438511,Michaël Cuisance,h,6148,OpenPlay,2020,LeftFoot,15929,Marseille,Montpellier,3,1,2021-01-06 20:00:00,,BallRecovery
+397567,10,MissedShots,0.7290000152587891,0.6270000076293946,0.015622030012309551,Florian Thauvin,h,942,OpenPlay,2020,LeftFoot,15929,Marseille,Montpellier,3,1,2021-01-06 20:00:00,Boubacar Kamara,TakeOn
+397568,13,BlockedShot,0.889000015258789,0.31799999237060544,0.0585329644382,Hiroki Sakai,h,92,OpenPlay,2020,RightFoot,15929,Marseille,Montpellier,3,1,2021-01-06 20:00:00,Boubacar Kamara,Pass
+397569,15,BlockedShot,0.750999984741211,0.3220000076293945,0.021189259365200996,Florian Thauvin,h,942,OpenPlay,2020,LeftFoot,15929,Marseille,Montpellier,3,1,2021-01-06 20:00:00,Boubacar Kamara,Pass
+397572,22,ShotOnPost,0.955999984741211,0.43,0.38621965050697327,Darío Benedetto,h,7716,OpenPlay,2020,RightFoot,15929,Marseille,Montpellier,3,1,2021-01-06 20:00:00,Pape Alassane Gueye,Cross
+397573,23,BlockedShot,0.8530000305175781,0.61,0.08268420398235321,Nemanja Radonjic,h,7160,OpenPlay,2020,RightFoot,15929,Marseille,Montpellier,3,1,2021-01-06 20:00:00,Michaël Cuisance,TakeOn
+397574,25,MissedShots,0.9369999694824219,0.4640000152587891,0.4390965402126312,Darío Benedetto,h,7716,OpenPlay,2020,Head,15929,Marseille,Montpellier,3,1,2021-01-06 20:00:00,Florian Thauvin,Cross
+397576,31,SavedShot,0.754000015258789,0.4109999847412109,0.033291108906269073,Florian Thauvin,h,942,OpenPlay,2020,LeftFoot,15929,Marseille,Montpellier,3,1,2021-01-06 20:00:00,Nemanja Radonjic,Pass
+397577,32,SavedShot,0.855,0.6819999694824219,0.042894139885902405,Nemanja Radonjic,h,7160,OpenPlay,2020,RightFoot,15929,Marseille,Montpellier,3,1,2021-01-06 20:00:00,Michaël Cuisance,Pass
+397578,33,MissedShots,0.5670000076293945,0.36900001525878906,0.010961701162159443,Darío Benedetto,h,7716,OpenPlay,2020,RightFoot,15929,Marseille,Montpellier,3,1,2021-01-06 20:00:00,,BallRecovery
+397579,35,SavedShot,0.7730000305175782,0.41200000762939454,0.028066057711839676,Boubacar Kamara,h,5789,OpenPlay,2020,RightFoot,15929,Marseille,Montpellier,3,1,2021-01-06 20:00:00,Hiroki Sakai,Pass
+397581,40,Goal,0.9430000305175781,0.52,0.48829343914985657,Nemanja Radonjic,h,7160,OpenPlay,2020,Head,15929,Marseille,Montpellier,3,1,2021-01-06 20:00:00,Florian Thauvin,Chipped
+397587,64,MissedShots,0.8680000305175781,0.5709999847412109,0.039167340844869614,Álvaro González,h,2430,SetPiece,2020,Head,15929,Marseille,Montpellier,3,1,2021-01-06 20:00:00,Florian Thauvin,Chipped
+397588,67,MissedShots,0.96,0.34200000762939453,0.06837091594934464,Darío Benedetto,h,7716,OpenPlay,2020,RightFoot,15929,Marseille,Montpellier,3,1,2021-01-06 20:00:00,Kevin Strootman,Pass
+397591,77,SavedShot,0.8640000152587891,0.41200000762939454,0.08761509507894516,Florian Thauvin,h,942,OpenPlay,2020,LeftFoot,15929,Marseille,Montpellier,3,1,2021-01-06 20:00:00,Boubacar Kamara,Pass
+397592,79,Goal,0.8430000305175781,0.555,0.1041397824883461,Dimitri Payet,h,536,OpenPlay,2020,RightFoot,15929,Marseille,Montpellier,3,1,2021-01-06 20:00:00,Boubacar Kamara,TakeOn
+397593,83,Goal,0.9130000305175782,0.545,0.4665556252002716,Valère Germain,h,3309,OpenPlay,2020,RightFoot,15929,Marseille,Montpellier,3,1,2021-01-06 20:00:00,Saif-Eddine Khaoui,Pass
+397595,90,BlockedShot,0.8380000305175781,0.4159999847412109,0.13868394494056702,Florian Thauvin,h,942,OpenPlay,2020,LeftFoot,15929,Marseille,Montpellier,3,1,2021-01-06 20:00:00,Duje Caleta-Car,Chipped
+397565,5,SavedShot,0.9030000305175782,0.46099998474121096,0.1058720052242279,Andy Delort,a,3530,OpenPlay,2020,Head,15929,Marseille,Montpellier,3,1,2021-01-06 20:00:00,Jordan Ferri,Cross
+397570,18,MissedShots,0.805,0.23100000381469726,0.014521599747240543,Andy Delort,a,3530,OpenPlay,2020,RightFoot,15929,Marseille,Montpellier,3,1,2021-01-06 20:00:00,Gaetan Laborde,Pass
+397571,21,MissedShots,0.745999984741211,0.6430000305175781,0.020723896101117134,Joris Chotard,a,7739,OpenPlay,2020,RightFoot,15929,Marseille,Montpellier,3,1,2021-01-06 20:00:00,Gaetan Laborde,Pass
+397575,28,BlockedShot,0.8,0.36900001525878906,0.030605515465140343,Gaetan Laborde,a,3746,OpenPlay,2020,LeftFoot,15929,Marseille,Montpellier,3,1,2021-01-06 20:00:00,Florent Mollet,Pass
+397580,38,MissedShots,0.885,0.6179999923706054,0.11276231706142426,Andy Delort,a,3530,OpenPlay,2020,RightFoot,15929,Marseille,Montpellier,3,1,2021-01-06 20:00:00,Yun Il-Lok,Pass
+397582,43,MissedShots,0.9019999694824219,0.509000015258789,0.2184087336063385,Andy Delort,a,3530,OpenPlay,2020,Head,15929,Marseille,Montpellier,3,1,2021-01-06 20:00:00,Yun Il-Lok,Cross
+397583,48,MissedShots,0.8490000152587891,0.6969999694824218,0.03841143101453781,Gaetan Laborde,a,3746,OpenPlay,2020,LeftFoot,15929,Marseille,Montpellier,3,1,2021-01-06 20:00:00,Joris Chotard,Chipped
+397584,51,Goal,0.845999984741211,0.31799999237060544,0.03380179777741432,Florent Mollet,a,5677,OpenPlay,2020,RightFoot,15929,Marseille,Montpellier,3,1,2021-01-06 20:00:00,Jordan Ferri,Pass
+397585,57,MissedShots,0.9390000152587891,0.5120000076293946,0.49579113721847534,Florent Mollet,a,5677,OpenPlay,2020,LeftFoot,15929,Marseille,Montpellier,3,1,2021-01-06 20:00:00,Junior Sambia,Cross
+397586,60,SavedShot,0.7530000305175781,0.549000015258789,0.02215668186545372,Mihailo Ristic,a,5947,OpenPlay,2020,LeftFoot,15929,Marseille,Montpellier,3,1,2021-01-06 20:00:00,Keagan Dolly,Pass
+397589,74,SavedShot,0.9519999694824218,0.7240000152587891,0.03523566573858261,Andy Delort,a,3530,OpenPlay,2020,LeftFoot,15929,Marseille,Montpellier,3,1,2021-01-06 20:00:00,Florent Mollet,Chipped
+397590,74,MissedShots,0.9,0.725,0.04028938710689545,Mihailo Ristic,a,5947,OpenPlay,2020,LeftFoot,15929,Marseille,Montpellier,3,1,2021-01-06 20:00:00,,None
+397594,86,SavedShot,0.7380000305175781,0.3340000152587891,0.010377091355621815,Jordan Ferri,a,3275,OpenPlay,2020,LeftFoot,15929,Marseille,Montpellier,3,1,2021-01-06 20:00:00,Florent Mollet,Pass

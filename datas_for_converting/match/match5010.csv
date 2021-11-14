@@ -1,0 +1,28 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+45263,2,Goal,0.909000015258789,0.544000015258789,0.06788166612386703,Luca Rigoni,h,1101,FromCorner,2014,Head,5010,Palermo,Sassuolo,2,1,2014-12-13 17:00:00,Paulo Dybala,Cross
+45272,41,MissedShots,0.8669999694824219,0.7680000305175781,0.032460082322359085,Achraf Lazaar,h,1838,OpenPlay,2014,LeftFoot,5010,Palermo,Sassuolo,2,1,2014-12-13 17:00:00,Franco Vázquez,Pass
+45273,41,MissedShots,0.894000015258789,0.4470000076293945,0.06651384383440018,Ivaylo Chochev,h,1271,OpenPlay,2014,Head,5010,Palermo,Sassuolo,2,1,2014-12-13 17:00:00,Michel Morganella,Cross
+45274,44,BlockedShot,0.754000015258789,0.5640000152587891,0.030563538894057274,Achraf Lazaar,h,1838,OpenPlay,2014,RightFoot,5010,Palermo,Sassuolo,2,1,2014-12-13 17:00:00,Enzo Maresca,Chipped
+45275,54,BlockedShot,0.8869999694824219,0.33099998474121095,0.07097896188497543,Paulo Dybala,h,1294,OpenPlay,2014,LeftFoot,5010,Palermo,Sassuolo,2,1,2014-12-13 17:00:00,Luca Rigoni,Pass
+45277,58,MissedShots,0.9630000305175781,0.45,0.15483415126800537,Paulo Dybala,h,1294,OpenPlay,2014,RightFoot,5010,Palermo,Sassuolo,2,1,2014-12-13 17:00:00,Luca Rigoni,Pass
+45278,62,MissedShots,0.965,0.539000015258789,0.6067408323287964,Enzo Maresca,h,1835,OpenPlay,2014,Head,5010,Palermo,Sassuolo,2,1,2014-12-13 17:00:00,Michel Morganella,Cross
+45279,68,BlockedShot,0.7930000305175782,0.6370000076293946,0.0838439017534256,Paulo Dybala,h,1294,DirectFreekick,2014,LeftFoot,5010,Palermo,Sassuolo,2,1,2014-12-13 17:00:00,,Standard
+45281,71,MissedShots,0.9159999847412109,0.6669999694824219,0.1335146725177765,Ivaylo Chochev,h,1271,OpenPlay,2014,LeftFoot,5010,Palermo,Sassuolo,2,1,2014-12-13 17:00:00,Franco Vázquez,Throughball
+45282,73,MissedShots,0.9519999694824218,0.6129999923706054,0.31926998496055603,Franco Vázquez,h,1836,OpenPlay,2014,LeftFoot,5010,Palermo,Sassuolo,2,1,2014-12-13 17:00:00,Francesco Della Rocca,TakeOn
+45284,78,SavedShot,0.950999984741211,0.6790000152587891,0.03962795063853264,Paulo Dybala,h,1294,SetPiece,2014,LeftFoot,5010,Palermo,Sassuolo,2,1,2014-12-13 17:00:00,Enzo Maresca,Pass
+45285,79,SavedShot,0.9319999694824219,0.51,0.12036582827568054,Giancarlo Gonzalez,h,1534,FromCorner,2014,Head,5010,Palermo,Sassuolo,2,1,2014-12-13 17:00:00,Paulo Dybala,Cross
+45288,92,Goal,0.96,0.6430000305175781,0.11931947618722916,Andrea Belotti,h,1186,OpenPlay,2014,LeftFoot,5010,Palermo,Sassuolo,2,1,2014-12-13 17:00:00,Franco Vázquez,Throughball
+45264,13,SavedShot,0.73,0.644000015258789,0.01648065261542797,Antonio Floro Flores,a,1338,OpenPlay,2014,RightFoot,5010,Palermo,Sassuolo,2,1,2014-12-13 17:00:00,Saphir Taïder,Pass
+45265,16,MissedShots,0.904000015258789,0.4259999847412109,0.01524470653384924,Antonio Floro Flores,a,1338,FromCorner,2014,Head,5010,Palermo,Sassuolo,2,1,2014-12-13 17:00:00,Nicola Sansone,Aerial
+45266,20,SavedShot,0.759000015258789,0.28600000381469726,0.016991324722766876,Saphir Taïder,a,1442,OpenPlay,2014,LeftFoot,5010,Palermo,Sassuolo,2,1,2014-12-13 17:00:00,Marcello Gazzola,Pass
+45267,23,SavedShot,0.8680000305175781,0.2589999961853027,0.05156935751438141,Antonio Floro Flores,a,1338,OpenPlay,2014,RightFoot,5010,Palermo,Sassuolo,2,1,2014-12-13 17:00:00,Nicola Sansone,Pass
+45268,25,MissedShots,0.7969999694824219,0.72,0.02134639024734497,Saphir Taïder,a,1442,OpenPlay,2014,LeftFoot,5010,Palermo,Sassuolo,2,1,2014-12-13 17:00:00,Francesco Magnanelli,Pass
+45269,28,MissedShots,0.855999984741211,0.6580000305175782,0.044602006673812866,Simone Zaza,a,1642,OpenPlay,2014,LeftFoot,5010,Palermo,Sassuolo,2,1,2014-12-13 17:00:00,,Dispossessed
+45270,31,BlockedShot,0.779000015258789,0.34,0.020887991413474083,Francesco Magnanelli,a,1466,OpenPlay,2014,RightFoot,5010,Palermo,Sassuolo,2,1,2014-12-13 17:00:00,,None
+45271,34,SavedShot,0.8880000305175781,0.34200000762939453,0.007505107205361128,Simone Zaza,a,1642,OpenPlay,2014,Head,5010,Palermo,Sassuolo,2,1,2014-12-13 17:00:00,Francesco Acerbi,Aerial
+45276,57,BlockedShot,0.884000015258789,0.275,0.03437346965074539,Antonio Floro Flores,a,1338,OpenPlay,2014,RightFoot,5010,Palermo,Sassuolo,2,1,2014-12-13 17:00:00,Simone Missiroli,BallTouch
+45280,70,MissedShots,0.8059999847412109,0.6469999694824219,0.055969323962926865,Simone Zaza,a,1642,OpenPlay,2014,LeftFoot,5010,Palermo,Sassuolo,2,1,2014-12-13 17:00:00,Nicola Sansone,Pass
+45283,74,SavedShot,0.8630000305175781,0.700999984741211,0.04056452959775925,Simone Zaza,a,1642,OpenPlay,2014,LeftFoot,5010,Palermo,Sassuolo,2,1,2014-12-13 17:00:00,Saphir Taïder,Pass
+45286,84,Goal,0.86,0.47200000762939454,0.3752707540988922,Leonardo Pavoletti,a,1104,OpenPlay,2014,LeftFoot,5010,Palermo,Sassuolo,2,1,2014-12-13 17:00:00,,None
+45287,89,MissedShots,0.794000015258789,0.375,0.03236998990178108,Simone Zaza,a,1642,OpenPlay,2014,LeftFoot,5010,Palermo,Sassuolo,2,1,2014-12-13 17:00:00,Sergio Floccari,Chipped
+45289,94,SavedShot,0.8819999694824219,0.4829999923706055,0.07755899429321289,Simone Zaza,a,1642,OpenPlay,2014,LeftFoot,5010,Palermo,Sassuolo,2,1,2014-12-13 17:00:00,Simone Missiroli,HeadPass

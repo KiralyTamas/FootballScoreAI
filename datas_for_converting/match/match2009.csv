@@ -1,0 +1,30 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+64465,2,MissedShots,0.9269999694824219,0.3770000076293945,0.030593296512961388,Claudio Beauvue,h,2502,OpenPlay,2015,Head,2009,Lyon,Montpellier,2,4,2015-11-27 23:30:00,Mathieu Valbuena,Cross
+64469,5,BlockedShot,0.725,0.39799999237060546,0.01492397952824831,Claudio Beauvue,h,2502,OpenPlay,2015,RightFoot,2009,Lyon,Montpellier,2,4,2015-11-27 23:30:00,Rafael,BallRecovery
+64471,6,SavedShot,0.915,0.4759999847412109,0.27041977643966675,Maxime Gonalons,h,3274,FromCorner,2015,Head,2009,Lyon,Montpellier,2,4,2015-11-27 23:30:00,Sergi Darder,Cross
+64472,7,OwnGoal,0.07800000190734863,0.435,0,Maxime Gonalons,h,3274,OpenPlay,2015,RightFoot,2009,Lyon,Montpellier,2,4,2015-11-27 23:30:00,,None
+64476,13,SavedShot,0.9269999694824219,0.48200000762939454,0.11587884277105331,Claudio Beauvue,h,2502,FromCorner,2015,Head,2009,Lyon,Montpellier,2,4,2015-11-27 23:30:00,Mathieu Valbuena,Cross
+64477,13,Goal,0.9740000152587891,0.47200000762939454,0.6115082502365112,Alexandre Lacazette,h,3277,FromCorner,2015,Head,2009,Lyon,Montpellier,2,4,2015-11-27 23:30:00,,Rebound
+64480,27,SavedShot,0.845999984741211,0.3110000038146973,0.04156026989221573,Jordan Ferri,h,3275,OpenPlay,2015,LeftFoot,2009,Lyon,Montpellier,2,4,2015-11-27 23:30:00,Rafael,Pass
+64484,27,MissedShots,0.9230000305175782,0.47400001525878904,0.33310502767562866,Claudio Beauvue,h,2502,FromCorner,2015,Head,2009,Lyon,Montpellier,2,4,2015-11-27 23:30:00,Mathieu Valbuena,Cross
+64487,33,MissedShots,0.8380000305175781,0.674000015258789,0.037831660360097885,Mathieu Valbuena,h,3186,OpenPlay,2015,RightFoot,2009,Lyon,Montpellier,2,4,2015-11-27 23:30:00,Claudio Beauvue,Pass
+64494,57,BlockedShot,0.7180000305175781,0.7559999847412109,0.030311783775687218,Clément Grenier,h,3568,DirectFreekick,2015,RightFoot,2009,Lyon,Montpellier,2,4,2015-11-27 23:30:00,,Standard
+64496,70,ShotOnPost,0.720999984741211,0.47400001525878904,0.013829724863171577,Corentin Tolisso,h,3603,OpenPlay,2015,RightFoot,2009,Lyon,Montpellier,2,4,2015-11-27 23:30:00,Clément Grenier,Pass
+64498,76,MissedShots,0.8519999694824218,0.30100000381469727,0.032316289842128754,Maxwel Cornet,h,3278,OpenPlay,2015,LeftFoot,2009,Lyon,Montpellier,2,4,2015-11-27 23:30:00,Jordan Ferri,Pass
+64501,83,Goal,0.8180000305175781,0.495,0.1717311441898346,Rachid Ghezzal,h,3276,DirectFreekick,2015,LeftFoot,2009,Lyon,Montpellier,2,4,2015-11-27 23:30:00,,Standard
+64502,85,SavedShot,0.895,0.16100000381469726,0.015745406970381737,Alexandre Lacazette,h,3277,OpenPlay,2015,RightFoot,2009,Lyon,Montpellier,2,4,2015-11-27 23:30:00,Maxwel Cornet,Pass
+64461,2,BlockedShot,0.905,0.6840000152587891,0.06833802163600922,Jérôme Roussillon,a,3339,OpenPlay,2015,LeftFoot,2009,Lyon,Montpellier,2,4,2015-11-27 23:30:00,Ryad Boudebouz,Pass
+64468,4,MissedShots,0.8619999694824219,0.664000015258789,0.057137519121170044,Jonas Martin,a,3346,OpenPlay,2015,RightFoot,2009,Lyon,Montpellier,2,4,2015-11-27 23:30:00,,BallTouch
+64474,10,Goal,0.9059999847412109,0.38599998474121094,0.3023238778114319,Casimir Ninga,a,3344,OpenPlay,2015,RightFoot,2009,Lyon,Montpellier,2,4,2015-11-27 23:30:00,William Remy,Chipped
+64478,22,SavedShot,0.9369999694824219,0.44299999237060544,0.40303078293800354,Bryan Dabo,a,3340,OpenPlay,2015,RightFoot,2009,Lyon,Montpellier,2,4,2015-11-27 23:30:00,Ryad Boudebouz,Cross
+64479,23,MissedShots,0.9630000305175781,0.4329999923706055,0.14552681148052216,Jonas Martin,a,3346,SetPiece,2015,OtherBodyPart,2009,Lyon,Montpellier,2,4,2015-11-27 23:30:00,Ryad Boudebouz,Cross
+64485,30,SavedShot,0.870999984741211,0.685,0.29394981265068054,Casimir Ninga,a,3344,OpenPlay,2015,RightFoot,2009,Lyon,Montpellier,2,4,2015-11-27 23:30:00,Bryan Dabo,Chipped
+64488,46,SavedShot,0.8180000305175781,0.365,0.054148830473423004,Bryan Dabo,a,3340,OpenPlay,2015,RightFoot,2009,Lyon,Montpellier,2,4,2015-11-27 23:30:00,Ryad Boudebouz,Pass
+64491,47,Goal,0.875,0.6329999923706054,0.349756121635437,Casimir Ninga,a,3344,OpenPlay,2015,RightFoot,2009,Lyon,Montpellier,2,4,2015-11-27 23:30:00,Jérôme Roussillon,Dispossessed
+64493,54,SavedShot,0.7909999847412109,0.6409999847412109,0.045587003231048584,Casimir Ninga,a,3344,OpenPlay,2015,RightFoot,2009,Lyon,Montpellier,2,4,2015-11-27 23:30:00,William Remy,Pass
+64495,69,SavedShot,0.8630000305175781,0.495,0.4305568337440491,Souleymane Camara,a,3590,OpenPlay,2015,RightFoot,2009,Lyon,Montpellier,2,4,2015-11-27 23:30:00,Casimir Ninga,Throughball
+64497,75,MissedShots,0.8419999694824218,0.5420000076293945,0.1213395893573761,Ryad Boudebouz,a,3343,OpenPlay,2015,LeftFoot,2009,Lyon,Montpellier,2,4,2015-11-27 23:30:00,,TakeOn
+64499,79,SavedShot,0.870999984741211,0.580999984741211,0.36979296803474426,Souleymane Camara,a,3590,OpenPlay,2015,RightFoot,2009,Lyon,Montpellier,2,4,2015-11-27 23:30:00,Ryad Boudebouz,Pass
+64500,79,Goal,0.9,0.5420000076293945,0.4718983471393585,Souleymane Camara,a,3590,OpenPlay,2015,LeftFoot,2009,Lyon,Montpellier,2,4,2015-11-27 23:30:00,,Rebound
+64503,87,MissedShots,0.92,0.47,0.4243054986000061,Morgan Sanson,a,3696,OpenPlay,2015,Head,2009,Lyon,Montpellier,2,4,2015-11-27 23:30:00,Souleymane Camara,Cross
+64504,90,MissedShots,0.8419999694824218,0.3320000076293945,0.066278837621212,Bryan Dabo,a,3340,OpenPlay,2015,RightFoot,2009,Lyon,Montpellier,2,4,2015-11-27 23:30:00,Mustapha Yatabaré,Pass

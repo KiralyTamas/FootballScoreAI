@@ -1,0 +1,28 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+380511,9,MissedShots,0.8419999694824218,0.2879999923706055,0.032366834580898285,Silas Wamangituka,h,8807,OpenPlay,2020,RightFoot,15161,VfB Stuttgart,Bayer Leverkusen,1,1,2020-10-03 13:30:00,Orel Mangala,Pass
+380512,14,MissedShots,0.6909999847412109,0.6359999847412109,0.033085957169532776,Borna Sosa,h,7075,DirectFreekick,2020,LeftFoot,15161,VfB Stuttgart,Bayer Leverkusen,1,1,2020-10-03 13:30:00,,Standard
+380513,28,ShotOnPost,0.9059999847412109,0.5520000076293945,0.021091556176543236,Konstantinos Mavropanos,h,6722,FromCorner,2020,Head,15161,VfB Stuttgart,Bayer Leverkusen,1,1,2020-10-03 13:30:00,Gonzalo Castro,Aerial
+380514,28,BlockedShot,0.8869999694824219,0.40200000762939453,0.06195247545838356,Gonzalo Castro,h,316,OpenPlay,2020,LeftFoot,15161,VfB Stuttgart,Bayer Leverkusen,1,1,2020-10-03 13:30:00,Sasa Kalajdzic,TakeOn
+380519,48,BlockedShot,0.884000015258789,0.7080000305175781,0.029258741065859795,Borna Sosa,h,7075,OpenPlay,2020,LeftFoot,15161,VfB Stuttgart,Bayer Leverkusen,1,1,2020-10-03 13:30:00,Silas Wamangituka,Cross
+380521,50,MissedShots,0.7769999694824219,0.2979999923706055,0.024134241044521332,Orel Mangala,h,6088,OpenPlay,2020,RightFoot,15161,VfB Stuttgart,Bayer Leverkusen,1,1,2020-10-03 13:30:00,Sasa Kalajdzic,LayOff
+380524,62,MissedShots,0.9130000305175782,0.5359999847412109,0.03325095772743225,Konstantinos Mavropanos,h,6722,FromCorner,2020,Head,15161,VfB Stuttgart,Bayer Leverkusen,1,1,2020-10-03 13:30:00,Gonzalo Castro,Aerial
+380529,74,MissedShots,0.8769999694824219,0.37400001525878906,0.05818982794880867,Mateo Klimowicz,h,8809,OpenPlay,2020,LeftFoot,15161,VfB Stuttgart,Bayer Leverkusen,1,1,2020-10-03 13:30:00,,None
+380530,75,Goal,0.9159999847412109,0.45799999237060546,0.3332880735397339,Sasa Kalajdzic,h,8812,SetPiece,2020,Head,15161,VfB Stuttgart,Bayer Leverkusen,1,1,2020-10-03 13:30:00,Philipp Klement,Cross
+380532,80,SavedShot,0.7869999694824219,0.5609999847412109,0.03493830934166908,Mateo Klimowicz,h,8809,OpenPlay,2020,LeftFoot,15161,VfB Stuttgart,Bayer Leverkusen,1,1,2020-10-03 13:30:00,Sasa Kalajdzic,Pass
+380533,86,MissedShots,0.8959999847412109,0.4279999923706055,0.13186699151992798,Sasa Kalajdzic,h,8812,SetPiece,2020,Head,15161,VfB Stuttgart,Bayer Leverkusen,1,1,2020-10-03 13:30:00,Philipp Klement,Cross
+380534,92,MissedShots,0.36700000762939455,0.555,0.006554902531206608,Sasa Kalajdzic,h,8812,OpenPlay,2020,RightFoot,15161,VfB Stuttgart,Bayer Leverkusen,1,1,2020-10-03 13:30:00,Orel Mangala,BallTouch
+380508,2,BlockedShot,0.915,0.38599998474121094,0.04900910705327988,Sven Bender,a,311,FromCorner,2020,RightFoot,15161,VfB Stuttgart,Bayer Leverkusen,1,1,2020-10-03 13:30:00,Kerem Demirbay,Cross
+380509,3,SavedShot,0.96,0.4470000076293945,0.14402282238006592,Charles Aránguiz,a,454,FromCorner,2020,RightFoot,15161,VfB Stuttgart,Bayer Leverkusen,1,1,2020-10-03 13:30:00,Patrik Schick,Rebound
+380510,6,Goal,0.965999984741211,0.46099998474121096,0.5019825100898743,Patrik Schick,a,1236,FromCorner,2020,Head,15161,VfB Stuttgart,Bayer Leverkusen,1,1,2020-10-03 13:30:00,Florian Wirtz,Aerial
+380515,30,MissedShots,0.720999984741211,0.48200000762939454,0.01930774189531803,Karim Bellarabi,a,186,OpenPlay,2020,RightFoot,15161,VfB Stuttgart,Bayer Leverkusen,1,1,2020-10-03 13:30:00,,None
+380516,38,MissedShots,0.965,0.59,0.11626558005809784,Karim Bellarabi,a,186,OpenPlay,2020,Head,15161,VfB Stuttgart,Bayer Leverkusen,1,1,2020-10-03 13:30:00,Moussa Diaby,Cross
+380517,45,BlockedShot,0.8969999694824219,0.3220000076293945,0.07665450870990753,Karim Bellarabi,a,186,OpenPlay,2020,RightFoot,15161,VfB Stuttgart,Bayer Leverkusen,1,1,2020-10-03 13:30:00,Santiago Arias,BallRecovery
+380518,46,MissedShots,0.784000015258789,0.6459999847412109,0.01941046305000782,Moussa Diaby,a,6556,FromCorner,2020,LeftFoot,15161,VfB Stuttgart,Bayer Leverkusen,1,1,2020-10-03 13:30:00,,None
+380520,47,SavedShot,0.9330000305175781,0.659000015258789,0.22268657386302948,Moussa Diaby,a,6556,OpenPlay,2020,RightFoot,15161,VfB Stuttgart,Bayer Leverkusen,1,1,2020-10-03 13:30:00,Florian Wirtz,TakeOn
+380522,55,MissedShots,0.6609999847412109,0.56,0.013616125099360943,Kerem Demirbay,a,5273,OpenPlay,2020,LeftFoot,15161,VfB Stuttgart,Bayer Leverkusen,1,1,2020-10-03 13:30:00,Charles Aránguiz,Pass
+380523,60,SavedShot,0.914000015258789,0.5520000076293945,0.2886907160282135,Lucas Alario,a,6338,OpenPlay,2020,Head,15161,VfB Stuttgart,Bayer Leverkusen,1,1,2020-10-03 13:30:00,Karim Bellarabi,Cross
+380525,63,SavedShot,0.8909999847412109,0.3340000152587891,0.0810684934258461,Karim Bellarabi,a,186,OpenPlay,2020,RightFoot,15161,VfB Stuttgart,Bayer Leverkusen,1,1,2020-10-03 13:30:00,,BallRecovery
+380526,65,MissedShots,0.8769999694824219,0.759000015258789,0.041909459978342056,Moussa Diaby,a,6556,OpenPlay,2020,LeftFoot,15161,VfB Stuttgart,Bayer Leverkusen,1,1,2020-10-03 13:30:00,,None
+380527,70,SavedShot,0.8909999847412109,0.705,0.07937122136354446,Moussa Diaby,a,6556,OpenPlay,2020,LeftFoot,15161,VfB Stuttgart,Bayer Leverkusen,1,1,2020-10-03 13:30:00,Kerem Demirbay,Pass
+380528,71,MissedShots,0.7390000152587891,0.385,0.014973649755120277,Karim Bellarabi,a,186,FromCorner,2020,RightFoot,15161,VfB Stuttgart,Bayer Leverkusen,1,1,2020-10-03 13:30:00,,None
+380531,78,MissedShots,0.8159999847412109,0.3559999847412109,0.035805705934762955,Kerem Demirbay,a,5273,OpenPlay,2020,LeftFoot,15161,VfB Stuttgart,Bayer Leverkusen,1,1,2020-10-03 13:30:00,Karim Bellarabi,Pass

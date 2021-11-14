@@ -1,0 +1,20 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+56544,7,Goal,0.8530000305175781,0.40599998474121096,0.04265160113573074,Sergio Agüero,h,619,OpenPlay,2015,LeftFoot,446,Manchester City,Arsenal,2,2,2016-05-08 19:00:00,Fernandinho,HeadPass
+56546,15,BlockedShot,0.865999984741211,0.5729999923706055,0.07403524219989777,Sergio Agüero,h,619,OpenPlay,2015,RightFoot,446,Manchester City,Arsenal,2,2,2016-05-08 19:00:00,,None
+56547,19,BlockedShot,0.7440000152587891,0.4640000152587891,0.019725754857063293,Kelechi Iheanacho,h,620,OpenPlay,2015,LeftFoot,446,Manchester City,Arsenal,2,2,2016-05-08 19:00:00,Kevin De Bruyne,BallRecovery
+56548,26,MissedShots,0.8730000305175781,0.34900001525878904,0.05661614239215851,Jesús Navas,h,616,OpenPlay,2015,LeftFoot,446,Manchester City,Arsenal,2,2,2016-05-08 19:00:00,,None
+56549,32,MissedShots,0.9569999694824218,0.5879999923706055,0.030932176858186722,Eliaquim Mangala,h,626,FromCorner,2015,Head,446,Manchester City,Arsenal,2,2,2016-05-08 19:00:00,Kevin De Bruyne,Aerial
+56550,45,MissedShots,0.7430000305175781,0.3029999923706055,0.01542879082262516,Kevin De Bruyne,h,447,OpenPlay,2015,RightFoot,446,Manchester City,Arsenal,2,2,2016-05-08 19:00:00,Bacary Sagna,Pass
+56551,48,MissedShots,0.9490000152587891,0.2989999961853027,0.11173966526985168,Fernandinho,h,614,OpenPlay,2015,RightFoot,446,Manchester City,Arsenal,2,2,2016-05-08 19:00:00,Jesús Navas,Throughball
+56552,50,Goal,0.7859999847412109,0.595999984741211,0.03373541310429573,Kevin De Bruyne,h,447,OpenPlay,2015,RightFoot,446,Manchester City,Arsenal,2,2,2016-05-08 19:00:00,,BallRecovery
+56554,53,MissedShots,0.8090000152587891,0.49900001525878906,0.09982550144195557,Kelechi Iheanacho,h,620,OpenPlay,2015,LeftFoot,446,Manchester City,Arsenal,2,2,2016-05-08 19:00:00,Jesús Navas,TakeOn
+56558,71,SavedShot,0.8909999847412109,0.794000015258789,0.06802599877119064,Kevin De Bruyne,h,447,DirectFreekick,2015,RightFoot,446,Manchester City,Arsenal,2,2,2016-05-08 19:00:00,,Standard
+56559,72,MissedShots,0.915,0.39599998474121095,0.050962191075086594,Sergio Agüero,h,619,FromCorner,2015,LeftFoot,446,Manchester City,Arsenal,2,2,2016-05-08 19:00:00,Kevin De Bruyne,Cross
+56560,73,MissedShots,0.91,0.6680000305175782,0.061554137617349625,Sergio Agüero,h,619,OpenPlay,2015,LeftFoot,446,Manchester City,Arsenal,2,2,2016-05-08 19:00:00,Kevin De Bruyne,Chipped
+56561,87,ShotOnPost,0.875999984741211,0.445,0.07414501160383224,Wilfried Bony,h,622,OpenPlay,2015,RightFoot,446,Manchester City,Arsenal,2,2,2016-05-08 19:00:00,Bacary Sagna,Cross
+56562,87,MissedShots,0.855,0.500999984741211,0.014372644014656544,Wilfried Bony,h,622,OpenPlay,2015,Head,446,Manchester City,Arsenal,2,2,2016-05-08 19:00:00,Gaël Clichy,Aerial
+56545,9,Goal,0.935,0.495,0.24396415054798126,Olivier Giroud,a,502,FromCorner,2015,Head,446,Manchester City,Arsenal,2,2,2016-05-08 19:00:00,Mohamed Elneny,Aerial
+56553,52,BlockedShot,0.7859999847412109,0.33,0.025222571566700935,Aaron Ramsey,a,504,OpenPlay,2015,RightFoot,446,Manchester City,Arsenal,2,2,2016-05-08 19:00:00,Alexis Sánchez,Pass
+56555,60,MissedShots,0.8280000305175781,0.315,0.031138300895690918,Olivier Giroud,a,502,OpenPlay,2015,LeftFoot,446,Manchester City,Arsenal,2,2,2016-05-08 19:00:00,,None
+56556,66,MissedShots,0.905,0.44099998474121094,0.4404361844062805,Theo Walcott,a,503,OpenPlay,2015,RightFoot,446,Manchester City,Arsenal,2,2,2016-05-08 19:00:00,Olivier Giroud,Throughball
+56557,67,Goal,0.84,0.5029999923706054,0.34007397294044495,Alexis Sánchez,a,498,OpenPlay,2015,RightFoot,446,Manchester City,Arsenal,2,2,2016-05-08 19:00:00,Olivier Giroud,Pass

@@ -1,0 +1,26 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+10792,2,MissedShots,0.9690000152587891,0.43599998474121093,0.11773119121789932,Ivan Paurevic,h,2903,SetPiece,2014,RightFoot,6297,FC Ufa,Kuban Krasnodar,3,2,2015-04-24 11:00:00,Nikolay Safronidi,Cross
+10793,7,MissedShots,0.87,0.6070000076293945,0.07247769087553024,Vagiz Galiulin,h,3117,OpenPlay,2014,RightFoot,6297,FC Ufa,Kuban Krasnodar,3,2,2015-04-24 11:00:00,,Tackle
+10794,10,BlockedShot,0.965999984741211,0.35700000762939454,0.1232931837439537,Dmitriy Stotskiy,h,2906,OpenPlay,2014,RightFoot,6297,FC Ufa,Kuban Krasnodar,3,2,2015-04-24 11:00:00,Vagiz Galiulin,BallRecovery
+10795,12,MissedShots,0.7930000305175782,0.29100000381469726,0.023328911513090134,Azamat Zaseev,h,3092,OpenPlay,2014,RightFoot,6297,FC Ufa,Kuban Krasnodar,3,2,2015-04-24 11:00:00,Vagiz Galiulin,Pass
+10796,16,MissedShots,0.710999984741211,0.27899999618530275,0.010280799120664597,Dmitriy Stotskiy,h,2906,OpenPlay,2014,RightFoot,6297,FC Ufa,Kuban Krasnodar,3,2,2015-04-24 11:00:00,Emmanuel Frimpong,Pass
+10797,18,ShotOnPost,0.875999984741211,0.31,0.028703078627586365,Dmitriy Stotskiy,h,2906,OpenPlay,2014,RightFoot,6297,FC Ufa,Kuban Krasnodar,3,2,2015-04-24 11:00:00,Vagiz Galiulin,Cross
+10798,24,Goal,0.905,0.5320000076293945,0.06683919578790665,Denis Tumasyan,h,2901,FromCorner,2014,Head,6297,FC Ufa,Kuban Krasnodar,3,2,2015-04-24 11:00:00,Nikolay Safronidi,Cross
+10800,45,SavedShot,0.9209999847412109,0.4129999923706055,0.04533258453011513,Denis Tumasyan,h,2901,FromCorner,2014,Head,6297,FC Ufa,Kuban Krasnodar,3,2,2015-04-24 11:00:00,Nikolay Safronidi,Cross
+10801,47,MissedShots,0.885,0.5,0.7542753219604492,Haris Handzic,h,2909,Penalty,2014,LeftFoot,6297,FC Ufa,Kuban Krasnodar,3,2,2015-04-24 11:00:00,,Standard
+10807,64,MissedShots,0.9,0.534000015258789,0.03302635997533798,Pavel Alikin,h,2902,SetPiece,2014,Head,6297,FC Ufa,Kuban Krasnodar,3,2,2015-04-24 11:00:00,Nikolay Safronidi,Aerial
+10808,65,MissedShots,0.899000015258789,0.34200000762939453,0.059792306274175644,Emmanuel Frimpong,h,3137,OpenPlay,2014,RightFoot,6297,FC Ufa,Kuban Krasnodar,3,2,2015-04-24 11:00:00,,None
+10809,68,SavedShot,0.7140000152587891,0.5129999923706055,0.04110809415578842,Nikolay Safronidi,h,2914,DirectFreekick,2014,LeftFoot,6297,FC Ufa,Kuban Krasnodar,3,2,2015-04-24 11:00:00,,Standard
+10810,73,MissedShots,0.7980000305175782,0.7519999694824219,0.020778361707925797,Vagiz Galiulin,h,3117,OpenPlay,2014,RightFoot,6297,FC Ufa,Kuban Krasnodar,3,2,2015-04-24 11:00:00,Ivan Paurevic,Pass
+10816,92,Goal,0.919000015258789,0.4229999923706055,0.05244855210185051,Pavel Alikin,h,2902,FromCorner,2014,Head,6297,FC Ufa,Kuban Krasnodar,3,2,2015-04-24 11:00:00,Nikolay Safronidi,Cross
+10799,37,MissedShots,0.93,0.45,0.04526977613568306,Stanislav Manolev,a,2738,OpenPlay,2014,Head,6297,FC Ufa,Kuban Krasnodar,3,2,2015-04-24 11:00:00,Roman Bugayev,Aerial
+10802,49,MissedShots,0.975999984741211,0.41200000762939454,0.04887207970023155,Rabiu Mohammed,a,3079,FromCorner,2014,RightFoot,6297,FC Ufa,Kuban Krasnodar,3,2,2015-04-24 11:00:00,Arsen Khubulov,Aerial
+10803,50,SavedShot,0.9530000305175781,0.3920000076293945,0.014669511467218399,Lorenzo Melgarejo,a,2819,FromCorner,2014,Head,6297,FC Ufa,Kuban Krasnodar,3,2,2015-04-24 11:00:00,Arsen Khubulov,Aerial
+10804,56,MissedShots,0.8919999694824219,0.725999984741211,0.18856923282146454,Ibrahima Baldé,a,2732,OpenPlay,2014,LeftFoot,6297,FC Ufa,Kuban Krasnodar,3,2,2015-04-24 11:00:00,,Interception
+10805,59,BlockedShot,0.7330000305175781,0.605999984741211,0.01585082896053791,Lorenzo Melgarejo,a,2819,OpenPlay,2014,RightFoot,6297,FC Ufa,Kuban Krasnodar,3,2,2015-04-24 11:00:00,,None
+10806,61,Goal,0.805,0.55,0.08352470397949219,Vladislav Ignatjev,a,2894,OpenPlay,2014,RightFoot,6297,FC Ufa,Kuban Krasnodar,3,2,2015-04-24 11:00:00,Gigel Bucur,Pass
+10811,74,BlockedShot,0.769000015258789,0.5070000076293946,0.030302729457616806,Gigel Bucur,a,2740,OpenPlay,2014,LeftFoot,6297,FC Ufa,Kuban Krasnodar,3,2,2015-04-24 11:00:00,,TakeOn
+10812,78,Goal,0.735999984741211,0.48,0.02189583145081997,Ibrahima Baldé,a,2732,OpenPlay,2014,RightFoot,6297,FC Ufa,Kuban Krasnodar,3,2,2015-04-24 11:00:00,,TakeOn
+10813,81,SavedShot,0.8019999694824219,0.43900001525878907,0.11732254922389984,Ivelin Popov,a,2817,DirectFreekick,2014,RightFoot,6297,FC Ufa,Kuban Krasnodar,3,2,2015-04-24 11:00:00,,Standard
+10814,82,MissedShots,0.919000015258789,0.41200000762939454,0.04216385260224342,Sergey Karetnik,a,2730,FromCorner,2014,Head,6297,FC Ufa,Kuban Krasnodar,3,2,2015-04-24 11:00:00,Vladislav Ignatjev,Cross
+10815,84,MissedShots,0.8619999694824219,0.639000015258789,0.05850626900792122,Roman Bugayev,a,2728,OpenPlay,2014,LeftFoot,6297,FC Ufa,Kuban Krasnodar,3,2,2015-04-24 11:00:00,Gigel Bucur,Pass

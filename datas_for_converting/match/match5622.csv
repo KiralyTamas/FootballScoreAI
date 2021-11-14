@@ -1,0 +1,24 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+41300,8,MissedShots,0.924000015258789,0.46299999237060546,0.06564491242170334,Samu García,h,2300,SetPiece,2014,Head,5622,Malaga,Espanyol,0,2,2015-02-14 21:00:00,Sergi Darder,Aerial
+41301,15,SavedShot,0.8219999694824218,0.355,0.018425073474645615,Nordin Amrabat,h,575,FromCorner,2014,RightFoot,5622,Malaga,Espanyol,0,2,2015-02-14 21:00:00,,Aerial
+41303,24,MissedShots,0.785,0.575,0.033097509294748306,Sergi Darder,h,2621,OpenPlay,2014,RightFoot,5622,Malaga,Espanyol,0,2,2015-02-14 21:00:00,Juanmi,None
+41304,27,BlockedShot,0.8019999694824219,0.33599998474121096,0.09078280627727509,Arthur Boka,h,2439,DirectFreekick,2014,LeftFoot,5622,Malaga,Espanyol,0,2,2015-02-14 21:00:00,,Standard
+41305,33,BlockedShot,0.845,0.6959999847412109,0.03944913670420647,Nordin Amrabat,h,575,OpenPlay,2014,RightFoot,5622,Malaga,Espanyol,0,2,2015-02-14 21:00:00,Sergi Darder,Pass
+41308,56,BlockedShot,0.8059999847412109,0.53,0.042061660438776016,Sergi Darder,h,2621,SetPiece,2014,RightFoot,5622,Malaga,Espanyol,0,2,2015-02-14 21:00:00,Nordin Amrabat,Pass
+41309,56,SavedShot,0.9359999847412109,0.5379999923706055,0.10861799865961075,Juanmi,h,897,OpenPlay,2014,RightFoot,5622,Malaga,Espanyol,0,2,2015-02-14 21:00:00,Samu García,Throughball
+41310,60,BlockedShot,0.8069999694824219,0.7090000152587891,0.01920890063047409,Arthur Boka,h,2439,OpenPlay,2014,LeftFoot,5622,Malaga,Espanyol,0,2,2015-02-14 21:00:00,Nordin Amrabat,HeadPass
+41313,76,BlockedShot,0.805,0.4640000152587891,0.038023680448532104,Javi Guerra,h,2167,SetPiece,2014,LeftFoot,5622,Malaga,Espanyol,0,2,2015-02-14 21:00:00,,None
+41314,77,SavedShot,0.87,0.3340000152587891,0.051278743892908096,Javi Guerra,h,2167,OpenPlay,2014,RightFoot,5622,Malaga,Espanyol,0,2,2015-02-14 21:00:00,Duda,Chipped
+41315,79,MissedShots,0.7959999847412109,0.66,0.030155455693602562,Nordin Amrabat,h,575,OpenPlay,2014,RightFoot,5622,Malaga,Espanyol,0,2,2015-02-14 21:00:00,Arthur Boka,Pass
+41316,81,BlockedShot,0.85,0.52,0.06293778866529465,Javi Guerra,h,2167,OpenPlay,2014,RightFoot,5622,Malaga,Espanyol,0,2,2015-02-14 21:00:00,,None
+41317,83,SavedShot,0.885,0.5,0.7432776093482971,Nordin Amrabat,h,575,Penalty,2014,RightFoot,5622,Malaga,Espanyol,0,2,2015-02-14 21:00:00,,Standard
+41318,83,BlockedShot,0.850999984741211,0.5629999923706055,0.07354124635457993,Duda,h,2345,OpenPlay,2014,LeftFoot,5622,Malaga,Espanyol,0,2,2015-02-14 21:00:00,Nordin Amrabat,Pass
+41319,85,MissedShots,0.7330000305175781,0.43400001525878906,0.01605917140841484,Ricardo Horta,h,2338,OpenPlay,2014,LeftFoot,5622,Malaga,Espanyol,0,2,2015-02-14 21:00:00,,None
+41320,86,MissedShots,0.919000015258789,0.5379999923706055,0.09691692143678665,Ignacio Camacho,h,2336,OpenPlay,2014,Head,5622,Malaga,Espanyol,0,2,2015-02-14 21:00:00,Samu Castillejo,Cross
+41321,87,SavedShot,0.8109999847412109,0.6609999847412109,0.031095070764422417,Samu Castillejo,h,2303,OpenPlay,2014,LeftFoot,5622,Malaga,Espanyol,0,2,2015-02-14 21:00:00,,None
+41302,22,BlockedShot,0.7859999847412109,0.6309999847412109,0.019289078190922737,Abraham,a,2431,SetPiece,2014,LeftFoot,5622,Malaga,Espanyol,0,2,2015-02-14 21:00:00,,None
+41306,40,Goal,0.915,0.509000015258789,0.11811862885951996,Álvaro González,a,2430,SetPiece,2014,Head,5622,Malaga,Espanyol,0,2,2015-02-14 21:00:00,Salva Sevilla,Cross
+41307,51,BlockedShot,0.8719999694824219,0.38,0.08888508379459381,Lucas Vázquez,a,2253,OpenPlay,2014,RightFoot,5622,Malaga,Espanyol,0,2,2015-02-14 21:00:00,Sergio García,Pass
+41311,71,MissedShots,0.925,0.3370000076293945,0.062010250985622406,Abraham,a,2431,OpenPlay,2014,RightFoot,5622,Malaga,Espanyol,0,2,2015-02-14 21:00:00,Sergio García,Cross
+41312,72,MissedShots,0.88,0.639000015258789,0.07918953895568848,Sergio García,a,4060,OpenPlay,2014,LeftFoot,5622,Malaga,Espanyol,0,2,2015-02-14 21:00:00,,None
+41322,92,Goal,0.8780000305175781,0.61,0.33090734481811523,Sergio García,a,4060,OpenPlay,2014,RightFoot,5622,Malaga,Espanyol,0,2,2015-02-14 21:00:00,Lucas Vázquez,Pass

@@ -1,0 +1,31 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+354856,1,MissedShots,0.81,0.5479999923706055,0.05453750118613243,Rani Khedira,h,5251,OpenPlay,2019,RightFoot,12562,Augsburg,Borussia Dortmund,3,5,2020-01-18 14:30:00,Ruben Vargas,Pass
+354859,10,MissedShots,0.7430000305175781,0.6090000152587891,0.014765426516532898,Daniel Baier,h,268,OpenPlay,2019,RightFoot,12562,Augsburg,Borussia Dortmund,3,5,2020-01-18 14:30:00,,None
+354861,16,MissedShots,0.8619999694824219,0.2979999923706055,0.041943710297346115,Marco Richter,h,6357,OpenPlay,2019,RightFoot,12562,Augsburg,Borussia Dortmund,3,5,2020-01-18 14:30:00,Philipp Max,Chipped
+354862,17,MissedShots,0.754000015258789,0.4909999847412109,0.014311340637505054,Stephan Lichtsteiner,h,1303,FromCorner,2019,RightFoot,12562,Augsburg,Borussia Dortmund,3,5,2020-01-18 14:30:00,,Aerial
+354865,33,Goal,0.965999984741211,0.5070000076293946,0.7778636813163757,Florian Niederlechner,h,306,OpenPlay,2019,RightFoot,12562,Augsburg,Borussia Dortmund,3,5,2020-01-18 14:30:00,Ruben Vargas,Pass
+354867,44,SavedShot,0.7280000305175781,0.764000015258789,0.032029297202825546,Philipp Max,h,267,DirectFreekick,2019,LeftFoot,12562,Augsburg,Borussia Dortmund,3,5,2020-01-18 14:30:00,,Standard
+354868,44,BlockedShot,0.894000015258789,0.7480000305175781,0.027137603610754013,Florian Niederlechner,h,306,SetPiece,2019,RightFoot,12562,Augsburg,Borussia Dortmund,3,5,2020-01-18 14:30:00,Philipp Max,Pass
+354869,45,Goal,0.7180000305175781,0.29100000381469726,0.012458163313567638,Marco Richter,h,6357,OpenPlay,2019,RightFoot,12562,Augsburg,Borussia Dortmund,3,5,2020-01-18 14:30:00,,None
+354872,49,BlockedShot,0.7580000305175781,0.44099998474121094,0.03541458770632744,Fredrik Jensen,h,7197,OpenPlay,2019,RightFoot,12562,Augsburg,Borussia Dortmund,3,5,2020-01-18 14:30:00,Marco Richter,BallTouch
+354873,50,SavedShot,0.7880000305175782,0.685,0.0308407973498106,Ruben Vargas,h,7810,OpenPlay,2019,RightFoot,12562,Augsburg,Borussia Dortmund,3,5,2020-01-18 14:30:00,Florian Niederlechner,Pass
+354874,53,MissedShots,0.6990000152587891,0.16100000381469726,0.010580534115433693,Marco Richter,h,6357,OpenPlay,2019,RightFoot,12562,Augsburg,Borussia Dortmund,3,5,2020-01-18 14:30:00,,BallTouch
+354875,54,Goal,0.9569999694824218,0.49700000762939456,0.7184938192367554,Florian Niederlechner,h,306,OpenPlay,2019,RightFoot,12562,Augsburg,Borussia Dortmund,3,5,2020-01-18 14:30:00,Philipp Max,Pass
+354882,76,MissedShots,0.8109999847412109,0.8390000152587891,0.03925522416830063,Marco Richter,h,6357,DirectFreekick,2019,RightFoot,12562,Augsburg,Borussia Dortmund,3,5,2020-01-18 14:30:00,,Standard
+354857,3,SavedShot,0.87,0.355,0.31487715244293213,Thorgan Hazard,a,213,OpenPlay,2019,RightFoot,12562,Augsburg,Borussia Dortmund,3,5,2020-01-18 14:30:00,,None
+354858,7,MissedShots,0.915,0.5179999923706055,0.5105261206626892,Marco Reus,a,319,OpenPlay,2019,RightFoot,12562,Augsburg,Borussia Dortmund,3,5,2020-01-18 14:30:00,Jadon Sancho,Pass
+354860,14,MissedShots,0.82,0.44799999237060545,0.06050179898738861,Raphael Guerreiro,a,3455,OpenPlay,2019,LeftFoot,12562,Augsburg,Borussia Dortmund,3,5,2020-01-18 14:30:00,Julian Brandt,BallTouch
+354863,27,MissedShots,0.855,0.5670000076293945,0.08756158500909805,Jadon Sancho,a,6345,OpenPlay,2019,RightFoot,12562,Augsburg,Borussia Dortmund,3,5,2020-01-18 14:30:00,Julian Brandt,Pass
+354864,28,MissedShots,0.9309999847412109,0.485,0.5736875534057617,Marco Reus,a,319,OpenPlay,2019,RightFoot,12562,Augsburg,Borussia Dortmund,3,5,2020-01-18 14:30:00,Axel Witsel,Pass
+354866,41,BlockedShot,0.7859999847412109,0.38799999237060545,0.031685709953308105,Axel Witsel,a,3059,OpenPlay,2019,RightFoot,12562,Augsburg,Borussia Dortmund,3,5,2020-01-18 14:30:00,Jadon Sancho,Pass
+354870,48,BlockedShot,0.7980000305175782,0.6659999847412109,0.02221379056572914,Axel Witsel,a,3059,OpenPlay,2019,RightFoot,12562,Augsburg,Borussia Dortmund,3,5,2020-01-18 14:30:00,Jadon Sancho,Pass
+354871,48,Goal,0.8680000305175781,0.41200000762939454,0.08729533851146698,Julian Brandt,a,261,OpenPlay,2019,LeftFoot,12562,Augsburg,Borussia Dortmund,3,5,2020-01-18 14:30:00,Thorgan Hazard,TakeOn
+354876,58,Goal,0.8880000305175781,0.6659999847412109,0.07933320105075836,Erling Haaland,a,8260,OpenPlay,2019,LeftFoot,12562,Augsburg,Borussia Dortmund,3,5,2020-01-18 14:30:00,Jadon Sancho,Throughball
+354877,60,Goal,0.9590000152587891,0.580999984741211,0.5720922946929932,Jadon Sancho,a,6345,OpenPlay,2019,LeftFoot,12562,Augsburg,Borussia Dortmund,3,5,2020-01-18 14:30:00,Mats Hummels,TakeOn
+354878,61,SavedShot,0.8209999847412109,0.6680000305175782,0.03751225769519806,Marco Reus,a,319,OpenPlay,2019,LeftFoot,12562,Augsburg,Borussia Dortmund,3,5,2020-01-18 14:30:00,Jadon Sancho,Goal
+354879,61,BlockedShot,0.7830000305175782,0.7819999694824219,0.0166762787848711,Raphael Guerreiro,a,3455,FromCorner,2019,LeftFoot,12562,Augsburg,Borussia Dortmund,3,5,2020-01-18 14:30:00,Julian Brandt,Pass
+354880,64,SavedShot,0.785,0.6819999694824219,0.023214096203446388,Thorgan Hazard,a,213,OpenPlay,2019,RightFoot,12562,Augsburg,Borussia Dortmund,3,5,2020-01-18 14:30:00,Jadon Sancho,Pass
+354881,69,Goal,0.98,0.48900001525878906,0.9206209778785706,Erling Haaland,a,8260,OpenPlay,2019,LeftFoot,12562,Augsburg,Borussia Dortmund,3,5,2020-01-18 14:30:00,Thorgan Hazard,Pass
+354883,78,Goal,0.8830000305175781,0.34700000762939454,0.3228312134742737,Erling Haaland,a,8260,OpenPlay,2019,LeftFoot,12562,Augsburg,Borussia Dortmund,3,5,2020-01-18 14:30:00,Marco Reus,Throughball
+354884,81,MissedShots,0.845999984741211,0.27399999618530274,0.05699284374713898,Giovanni Reyna,a,8191,OpenPlay,2019,RightFoot,12562,Augsburg,Borussia Dortmund,3,5,2020-01-18 14:30:00,Jadon Sancho,LayOff
+354885,87,MissedShots,0.7909999847412109,0.6,0.033366285264492035,Jadon Sancho,a,6345,OpenPlay,2019,RightFoot,12562,Augsburg,Borussia Dortmund,3,5,2020-01-18 14:30:00,,None

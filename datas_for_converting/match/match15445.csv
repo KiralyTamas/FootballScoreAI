@@ -1,0 +1,23 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+423426,8,MissedShots,0.884000015258789,0.3890000152587891,0.0716523751616478,Roberto Massimo,h,8806,OpenPlay,2020,RightFoot,15445,VfB Stuttgart,Arminia Bielefeld,0,2,2021-05-22 13:30:00,,None
+423428,14,BlockedShot,0.7680000305175781,0.47299999237060547,0.025423327460885048,Philipp Klement,h,409,OpenPlay,2020,LeftFoot,15445,VfB Stuttgart,Arminia Bielefeld,0,2,2021-05-22 13:30:00,Roberto Massimo,Pass
+423429,15,BlockedShot,0.8719999694824219,0.47099998474121096,0.10685938596725464,Roberto Massimo,h,8806,OpenPlay,2020,LeftFoot,15445,VfB Stuttgart,Arminia Bielefeld,0,2,2021-05-22 13:30:00,Philipp Förster,Pass
+423430,15,BlockedShot,0.9440000152587891,0.4640000152587891,0.12846523523330688,Waldemar Anton,h,106,FromCorner,2020,Head,15445,VfB Stuttgart,Arminia Bielefeld,0,2,2021-05-22 13:30:00,Philipp Klement,Cross
+423431,18,MissedShots,0.8780000305175781,0.68,0.03266802802681923,Gonzalo Castro,h,316,OpenPlay,2020,RightFoot,15445,VfB Stuttgart,Arminia Bielefeld,0,2,2021-05-22 13:30:00,Pascal Stenzel,Chipped
+423433,20,BlockedShot,0.71,0.4759999847412109,0.011394184082746506,Atakan Karazor,h,8878,OpenPlay,2020,RightFoot,15445,VfB Stuttgart,Arminia Bielefeld,0,2,2021-05-22 13:30:00,,None
+423435,38,BlockedShot,0.9080000305175782,0.700999984741211,0.05689263343811035,Borna Sosa,h,7075,OpenPlay,2020,LeftFoot,15445,VfB Stuttgart,Arminia Bielefeld,0,2,2021-05-22 13:30:00,Gonzalo Castro,Pass
+423439,56,BlockedShot,0.78,0.37599998474121094,0.04064526781439781,Sasa Kalajdzic,h,8812,OpenPlay,2020,RightFoot,15445,VfB Stuttgart,Arminia Bielefeld,0,2,2021-05-22 13:30:00,,TakeOn
+423441,67,MissedShots,0.89,0.41900001525878905,0.02985387295484543,Waldemar Anton,h,106,FromCorner,2020,Head,15445,VfB Stuttgart,Arminia Bielefeld,0,2,2021-05-22 13:30:00,Gonzalo Castro,Cross
+423443,77,BlockedShot,0.7659999847412109,0.47299999237060547,0.03107847459614277,Sasa Kalajdzic,h,8812,OpenPlay,2020,LeftFoot,15445,VfB Stuttgart,Arminia Bielefeld,0,2,2021-05-22 13:30:00,Daniel Didavi,LayOff
+423446,85,MissedShots,0.875,0.5820000076293945,0.02087293565273285,Daniel Didavi,h,300,OpenPlay,2020,Head,15445,VfB Stuttgart,Arminia Bielefeld,0,2,2021-05-22 13:30:00,Borna Sosa,Cross
+423447,86,MissedShots,0.9019999694824219,0.509000015258789,0.28859177231788635,Hamadi Al Ghaddioui,h,8810,OpenPlay,2020,Head,15445,VfB Stuttgart,Arminia Bielefeld,0,2,2021-05-22 13:30:00,Marcin Kaminski,Cross
+423427,10,BlockedShot,0.825999984741211,0.4929999923706055,0.06934040039777756,Ritsu Doan,a,8791,OpenPlay,2020,LeftFoot,15445,VfB Stuttgart,Arminia Bielefeld,0,2,2021-05-22 13:30:00,Andreas Voglsammer,Pass
+423432,19,BlockedShot,0.8059999847412109,0.285,0.015133948065340519,Fabian Klos,a,8792,SetPiece,2020,RightFoot,15445,VfB Stuttgart,Arminia Bielefeld,0,2,2021-05-22 13:30:00,,None
+423434,27,MissedShots,0.8130000305175781,0.54,0.05089059844613075,Arne Maier,a,5298,OpenPlay,2020,RightFoot,15445,VfB Stuttgart,Arminia Bielefeld,0,2,2021-05-22 13:30:00,,None
+423436,41,BlockedShot,0.89,0.29700000762939455,0.03486153855919838,Ritsu Doan,a,8791,OpenPlay,2020,LeftFoot,15445,VfB Stuttgart,Arminia Bielefeld,0,2,2021-05-22 13:30:00,Andreas Voglsammer,Chipped
+423437,49,BlockedShot,0.7440000152587891,0.565,0.019679026678204536,Fabian Klos,a,8792,OpenPlay,2020,LeftFoot,15445,VfB Stuttgart,Arminia Bielefeld,0,2,2021-05-22 13:30:00,,BallRecovery
+423438,52,MissedShots,0.8540000152587891,0.590999984741211,0.06476440280675888,Arne Maier,a,5298,OpenPlay,2020,RightFoot,15445,VfB Stuttgart,Arminia Bielefeld,0,2,2021-05-22 13:30:00,,None
+423440,65,Goal,0.885,0.5,0.75777667760849,Fabian Klos,a,8792,Penalty,2020,RightFoot,15445,VfB Stuttgart,Arminia Bielefeld,0,2,2021-05-22 13:30:00,,Standard
+423442,71,Goal,0.8859999847412109,0.45099998474121095,0.3391978144645691,Ritsu Doan,a,8791,OpenPlay,2020,LeftFoot,15445,VfB Stuttgart,Arminia Bielefeld,0,2,2021-05-22 13:30:00,Andreas Voglsammer,TakeOn
+423444,78,BlockedShot,0.8830000305175781,0.585,0.10946672409772873,Fabian Klos,a,8792,OpenPlay,2020,RightFoot,15445,VfB Stuttgart,Arminia Bielefeld,0,2,2021-05-22 13:30:00,Andreas Voglsammer,Chipped
+423445,80,SavedShot,0.9740000152587891,0.33099998474121095,0.06883671879768372,Fabian Klos,a,8792,OpenPlay,2020,RightFoot,15445,VfB Stuttgart,Arminia Bielefeld,0,2,2021-05-22 13:30:00,,None

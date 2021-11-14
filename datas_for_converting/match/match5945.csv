@@ -1,0 +1,23 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+8052,4,BlockedShot,0.894000015258789,0.615,0.07625619322061539,Ismael Bangoura,h,4704,OpenPlay,2014,RightFoot,5945,Nantes,Evian Thonon Gaillard,2,1,2015-03-14 19:00:00,Georges-Kévin Nkoudou,Chipped
+8053,9,BlockedShot,0.879000015258789,0.509000015258789,0.026462769135832787,Oswaldo Vizcarrondo,h,3401,FromCorner,2014,Head,5945,Nantes,Evian Thonon Gaillard,2,1,2015-03-14 19:00:00,,Foul
+8054,16,SavedShot,0.91,0.45,0.10111402720212936,Alejandro Bedoya,h,3405,SetPiece,2014,Head,5945,Nantes,Evian Thonon Gaillard,2,1,2015-03-14 19:00:00,Vincent Bessat,Cross
+8056,40,BlockedShot,0.730999984741211,0.3770000076293945,0.04731389507651329,Vincent Bessat,h,3525,DirectFreekick,2014,LeftFoot,5945,Nantes,Evian Thonon Gaillard,2,1,2015-03-14 19:00:00,,Standard
+8058,44,Goal,0.9259999847412109,0.5029999923706054,0.4351576566696167,Georges-Kévin Nkoudou,h,1729,OpenPlay,2014,LeftFoot,5945,Nantes,Evian Thonon Gaillard,2,1,2015-03-14 19:00:00,Serge Gakpe,Cross
+8059,46,Goal,0.8880000305175781,0.375,0.30047327280044556,Serge Gakpe,h,1581,OpenPlay,2014,RightFoot,5945,Nantes,Evian Thonon Gaillard,2,1,2015-03-14 19:00:00,Kian Hansen,Chipped
+8061,64,MissedShots,0.8730000305175781,0.7340000152587891,0.13438189029693604,Georges-Kévin Nkoudou,h,1729,OpenPlay,2014,LeftFoot,5945,Nantes,Evian Thonon Gaillard,2,1,2015-03-14 19:00:00,Ismael Bangoura,Throughball
+8063,69,SavedShot,0.7190000152587891,0.500999984741211,0.13067421317100525,Ismael Bangoura,h,4704,OpenPlay,2014,RightFoot,5945,Nantes,Evian Thonon Gaillard,2,1,2015-03-14 19:00:00,Serge Gakpe,Throughball
+8065,79,MissedShots,0.7709999847412109,0.8059999847412109,0.013330746442079544,Yacine Bammou,h,3410,OpenPlay,2014,RightFoot,5945,Nantes,Evian Thonon Gaillard,2,1,2015-03-14 19:00:00,Kian Hansen,Chipped
+8072,90,MissedShots,0.8480000305175781,0.46599998474121096,0.1019456684589386,Yacine Bammou,h,3410,OpenPlay,2014,RightFoot,5945,Nantes,Evian Thonon Gaillard,2,1,2015-03-14 19:00:00,Serge Gakpe,Pass
+8051,3,BlockedShot,0.7240000152587891,0.19899999618530273,0.008498593233525753,Modou Sougou,a,4717,OpenPlay,2014,RightFoot,5945,Nantes,Evian Thonon Gaillard,2,1,2015-03-14 19:00:00,,None
+8055,37,MissedShots,0.915,0.485,0.09516846388578415,Jonathan Mensah,a,2952,FromCorner,2014,Head,5945,Nantes,Evian Thonon Gaillard,2,1,2015-03-14 19:00:00,Cédric Barbosa,Cross
+8057,40,MissedShots,0.7119999694824218,0.2720000076293945,0.010864823125302792,Cédric Barbosa,a,4786,OpenPlay,2014,RightFoot,5945,Nantes,Evian Thonon Gaillard,2,1,2015-03-14 19:00:00,,Interception
+8060,51,SavedShot,0.7609999847412109,0.54,0.01613837480545044,Mathieu Duhamel,a,4787,OpenPlay,2014,LeftFoot,5945,Nantes,Evian Thonon Gaillard,2,1,2015-03-14 19:00:00,Alioune Fall,Chipped
+8062,66,BlockedShot,0.695,0.5820000076293945,0.036093827337026596,Daniel Wass,a,2284,DirectFreekick,2014,RightFoot,5945,Nantes,Evian Thonon Gaillard,2,1,2015-03-14 19:00:00,,Standard
+8064,75,Goal,0.8630000305175781,0.6709999847412109,0.24321778118610382,Clarck N&#039;Sikulu,a,4716,OpenPlay,2014,RightFoot,5945,Nantes,Evian Thonon Gaillard,2,1,2015-03-14 19:00:00,,None
+8066,80,MissedShots,0.8469999694824218,0.3290000152587891,0.04413920268416405,Mathieu Duhamel,a,4787,OpenPlay,2014,RightFoot,5945,Nantes,Evian Thonon Gaillard,2,1,2015-03-14 19:00:00,Daniel Wass,Chipped
+8067,82,SavedShot,0.865999984741211,0.6630000305175782,0.03731163963675499,Mathieu Duhamel,a,4787,SetPiece,2014,RightFoot,5945,Nantes,Evian Thonon Gaillard,2,1,2015-03-14 19:00:00,Cédric Cambon,TakeOn
+8068,84,BlockedShot,0.8619999694824219,0.38,0.06968782842159271,Mathieu Duhamel,a,4787,OpenPlay,2014,LeftFoot,5945,Nantes,Evian Thonon Gaillard,2,1,2015-03-14 19:00:00,Clarck N&#039;Sikulu,LayOff
+8069,85,MissedShots,0.884000015258789,0.3,0.05037073418498039,Clarck N&#039;Sikulu,a,4716,OpenPlay,2014,RightFoot,5945,Nantes,Evian Thonon Gaillard,2,1,2015-03-14 19:00:00,Modou Sougou,HeadPass
+8070,85,MissedShots,0.885,0.6419999694824219,0.038336381316185,Clarck N&#039;Sikulu,a,4716,FromCorner,2014,RightFoot,5945,Nantes,Evian Thonon Gaillard,2,1,2015-03-14 19:00:00,Daniel Wass,Cross
+8071,85,SavedShot,0.94,0.5029999923706054,0.1437385082244873,David Ramírez,a,4802,FromCorner,2014,RightFoot,5945,Nantes,Evian Thonon Gaillard,2,1,2015-03-14 19:00:00,Clarck N&#039;Sikulu,Rebound

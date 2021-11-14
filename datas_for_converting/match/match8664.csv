@@ -1,0 +1,19 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+164104,1,MissedShots,0.9680000305175781,0.67,0.011077688075602055,Lucas Ocampos,h,1109,FromCorner,2017,Head,8664,Marseille,Paris Saint Germain,2,2,2017-10-22 20:00:00,Dimitri Payet,Cross
+164108,12,MissedShots,0.715999984741211,0.5479999923706055,0.01226058416068554,Franck Zambo,h,6434,OpenPlay,2017,RightFoot,8664,Marseille,Paris Saint Germain,2,2,2017-10-22 20:00:00,,None
+164110,15,BlockedShot,0.875,0.45,0.07979772984981537,Kostas Mitroglou,h,6355,OpenPlay,2017,LeftFoot,8664,Marseille,Paris Saint Germain,2,2,2017-10-22 20:00:00,Florian Thauvin,Cross
+164111,15,Goal,0.6940000152587891,0.4490000152587891,0.01370482798665762,Luiz Gustavo,h,387,OpenPlay,2017,LeftFoot,8664,Marseille,Paris Saint Germain,2,2,2017-10-22 20:00:00,Dimitri Payet,Pass
+164112,23,BlockedShot,0.799000015258789,0.49,0.10122368484735489,Dimitri Payet,h,536,OpenPlay,2017,RightFoot,8664,Marseille,Paris Saint Germain,2,2,2017-10-22 20:00:00,Florian Thauvin,TakeOn
+164114,37,BlockedShot,0.7019999694824218,0.37099998474121093,0.035837505012750626,Dimitri Payet,h,536,DirectFreekick,2017,RightFoot,8664,Marseille,Paris Saint Germain,2,2,2017-10-22 20:00:00,,Standard
+164115,67,BlockedShot,0.7269999694824218,0.44099998474121094,0.011939099058508873,Dimitri Payet,h,536,OpenPlay,2017,LeftFoot,8664,Marseille,Paris Saint Germain,2,2,2017-10-22 20:00:00,,TakeOn
+164117,77,BlockedShot,0.8490000152587891,0.7230000305175781,0.03441866487264633,Clinton N&#039;Jie,h,960,OpenPlay,2017,RightFoot,8664,Marseille,Paris Saint Germain,2,2,2017-10-22 20:00:00,Franck Zambo,Tackle
+164118,77,Goal,0.9580000305175781,0.47,0.48944589495658875,Florian Thauvin,h,942,FromCorner,2017,RightFoot,8664,Marseille,Paris Saint Germain,2,2,2017-10-22 20:00:00,Clinton N&#039;Jie,Cross
+164119,87,SavedShot,0.8690000152587891,0.3629999923706055,0.4595029056072235,Bouna Sarr,h,3393,OpenPlay,2017,RightFoot,8664,Marseille,Paris Saint Germain,2,2,2017-10-22 20:00:00,,None
+164120,87,MissedShots,0.855,0.38,0.12065689265727997,Morgan Sanson,h,3696,OpenPlay,2017,RightFoot,8664,Marseille,Paris Saint Germain,2,2,2017-10-22 20:00:00,,Rebound
+164105,5,BlockedShot,0.850999984741211,0.49700000762939456,0.03212573751807213,Thiago Motta,a,3292,SetPiece,2017,LeftFoot,8664,Marseille,Paris Saint Germain,2,2,2017-10-22 20:00:00,,Aerial
+164106,5,MissedShots,0.919000015258789,0.48700000762939455,0.06555584818124771,Marquinhos,a,3297,SetPiece,2017,OtherBodyPart,8664,Marseille,Paris Saint Germain,2,2,2017-10-22 20:00:00,Layvin Kurzawa,Aerial
+164107,6,MissedShots,0.9259999847412109,0.649000015258789,0.06985621154308319,Layvin Kurzawa,a,3298,OpenPlay,2017,LeftFoot,8664,Marseille,Paris Saint Germain,2,2,2017-10-22 20:00:00,,None
+164109,12,SavedShot,0.8690000152587891,0.7090000152587891,0.044483721256256104,Edinson Cavani,a,3294,OpenPlay,2017,RightFoot,8664,Marseille,Paris Saint Germain,2,2,2017-10-22 20:00:00,Adrien Rabiot,BallRecovery
+164113,32,Goal,0.8880000305175781,0.6990000152587891,0.04356043040752411,Neymar,a,2099,OpenPlay,2017,LeftFoot,8664,Marseille,Paris Saint Germain,2,2,2017-10-22 20:00:00,Adrien Rabiot,Pass
+164116,74,MissedShots,0.9219999694824219,0.6170000076293946,0.012852616608142853,Thiago Silva,a,3288,FromCorner,2017,Head,8664,Marseille,Paris Saint Germain,2,2,2017-10-22 20:00:00,Neymar,Aerial
+164121,92,Goal,0.764000015258789,0.6759999847412109,0.05590071529150009,Edinson Cavani,a,3294,DirectFreekick,2017,RightFoot,8664,Marseille,Paris Saint Germain,2,2,2017-10-22 20:00:00,,Standard

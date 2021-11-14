@@ -1,0 +1,32 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+15501,4,MissedShots,0.8909999847412109,0.4809999847412109,0.048151709139347076,Liam Moore,h,4495,FromCorner,2014,Head,4736,Leicester,Manchester United,5,3,2014-09-21 13:30:00,Esteban Cambiasso,Cross
+15505,16,Goal,0.8969999694824219,0.4490000152587891,0.05096936970949173,Leonardo Ulloa,h,756,OpenPlay,2014,Head,4736,Leicester,Manchester United,5,3,2014-09-21 13:30:00,Jamie Vardy,Cross
+15506,19,MissedShots,0.815,0.629000015258789,0.043751779943704605,Daniel Drinkwater,h,752,OpenPlay,2014,RightFoot,4736,Leicester,Manchester United,5,3,2014-09-21 13:30:00,Jamie Vardy,Pass
+15512,46,MissedShots,0.7330000305175781,0.3820000076293945,0.016629250720143318,David Nugent,h,1753,OpenPlay,2014,RightFoot,4736,Leicester,Manchester United,5,3,2014-09-21 13:30:00,Jamie Vardy,Pass
+15518,60,BlockedShot,0.9459999847412109,0.5379999923706055,0.11184030771255493,Leonardo Ulloa,h,756,OpenPlay,2014,Head,4736,Leicester,Manchester United,5,3,2014-09-21 13:30:00,David Nugent,Goal
+15519,61,Goal,0.885,0.5,0.7611688375473022,David Nugent,h,1753,Penalty,2014,RightFoot,4736,Leicester,Manchester United,5,3,2014-09-21 13:30:00,,Standard
+15520,63,BlockedShot,0.775,0.5820000076293945,0.02693771943449974,Dean Hammond,h,1086,OpenPlay,2014,RightFoot,4736,Leicester,Manchester United,5,3,2014-09-21 13:30:00,,None
+15521,63,Goal,0.8619999694824219,0.49900001525878906,0.06383799016475677,Esteban Cambiasso,h,4440,OpenPlay,2014,LeftFoot,4736,Leicester,Manchester United,5,3,2014-09-21 13:30:00,Jamie Vardy,BallTouch
+15523,67,MissedShots,0.8490000152587891,0.3029999923706055,0.042153649032115936,Leonardo Ulloa,h,756,OpenPlay,2014,RightFoot,4736,Leicester,Manchester United,5,3,2014-09-21 13:30:00,Jamie Vardy,LayOff
+15524,68,BlockedShot,0.8580000305175781,0.26799999237060546,0.03033396229147911,Daniel Drinkwater,h,752,OpenPlay,2014,LeftFoot,4736,Leicester,Manchester United,5,3,2014-09-21 13:30:00,Jamie Vardy,Pass
+15526,75,MissedShots,0.855,0.325,0.051039937883615494,Andy King,h,784,OpenPlay,2014,RightFoot,4736,Leicester,Manchester United,5,3,2014-09-21 13:30:00,Ritchie de Laet,Pass
+15527,78,Goal,0.8830000305175781,0.45099998474121095,0.4099820852279663,Jamie Vardy,h,755,OpenPlay,2014,RightFoot,4736,Leicester,Manchester United,5,3,2014-09-21 13:30:00,Ritchie de Laet,Chipped
+15528,82,Goal,0.885,0.5,0.7611688375473022,Leonardo Ulloa,h,756,Penalty,2014,RightFoot,4736,Leicester,Manchester United,5,3,2014-09-21 13:30:00,,Standard
+15529,87,MissedShots,0.8109999847412109,0.48400001525878905,0.07446596026420593,Jeffrey Schlupp,h,757,OpenPlay,2014,LeftFoot,4736,Leicester,Manchester United,5,3,2014-09-21 13:30:00,Matthew James,Pass
+15531,92,BlockedShot,0.8930000305175781,0.25,0.04976756498217583,Jeffrey Schlupp,h,757,OpenPlay,2014,LeftFoot,4736,Leicester,Manchester United,5,3,2014-09-21 13:30:00,Matthew James,Pass
+15502,10,SavedShot,0.9069999694824219,0.595999984741211,0.3660092055797577,Robin van Persie,a,4387,OpenPlay,2014,LeftFoot,4736,Leicester,Manchester United,5,3,2014-09-21 13:30:00,Ángel Di María,Throughball
+15503,12,Goal,0.9519999694824218,0.40900001525878904,0.2608353793621063,Robin van Persie,a,4387,OpenPlay,2014,Head,4736,Leicester,Manchester United,5,3,2014-09-21 13:30:00,Falcao,Cross
+15504,15,Goal,0.855,0.580999984741211,0.10388010740280151,Ángel Di María,a,3553,OpenPlay,2014,LeftFoot,4736,Leicester,Manchester United,5,3,2014-09-21 13:30:00,Wayne Rooney,Pass
+15507,27,BlockedShot,0.8530000305175781,0.46599998474121096,0.06231937184929848,Falcao,a,696,FromCorner,2014,RightFoot,4736,Leicester,Manchester United,5,3,2014-09-21 13:30:00,,None
+15508,27,SavedShot,0.735999984741211,0.5629999923706055,0.019308049231767654,Daley Blind,a,548,FromCorner,2014,LeftFoot,4736,Leicester,Manchester United,5,3,2014-09-21 13:30:00,,Rebound
+15509,36,MissedShots,0.7169999694824218,0.7090000152587891,0.01523486990481615,Marcos Rojo,a,550,OpenPlay,2014,LeftFoot,4736,Leicester,Manchester United,5,3,2014-09-21 13:30:00,Daley Blind,Pass
+15510,40,MissedShots,0.795,0.4129999923706055,0.025410084053874016,Ángel Di María,a,3553,FromCorner,2014,LeftFoot,4736,Leicester,Manchester United,5,3,2014-09-21 13:30:00,Robin van Persie,Pass
+15511,41,MissedShots,0.96,0.47200000762939454,0.505187451839447,Marcos Rojo,a,550,FromCorner,2014,Head,4736,Leicester,Manchester United,5,3,2014-09-21 13:30:00,Ángel Di María,Cross
+15513,48,ShotOnPost,0.8590000152587891,0.6630000305175782,0.06304117292165756,Falcao,a,696,OpenPlay,2014,RightFoot,4736,Leicester,Manchester United,5,3,2014-09-21 13:30:00,Wayne Rooney,Chipped
+15514,51,MissedShots,0.7819999694824219,0.779000015258789,0.0406251884996891,Wayne Rooney,a,629,DirectFreekick,2014,RightFoot,4736,Leicester,Manchester United,5,3,2014-09-21 13:30:00,,Standard
+15515,56,BlockedShot,0.7580000305175781,0.40599998474121096,0.029273120686411858,Wayne Rooney,a,629,OpenPlay,2014,LeftFoot,4736,Leicester,Manchester United,5,3,2014-09-21 13:30:00,Ángel Di María,Pass
+15516,56,BlockedShot,0.8030000305175782,0.63,0.035295307636260986,Ángel Di María,a,3553,OpenPlay,2014,LeftFoot,4736,Leicester,Manchester United,5,3,2014-09-21 13:30:00,Robin van Persie,Pass
+15517,56,Goal,0.905,0.5670000076293945,0.12954916059970856,Ander Herrera,a,552,OpenPlay,2014,LeftFoot,4736,Leicester,Manchester United,5,3,2014-09-21 13:30:00,Ángel Di María,Rebound
+15522,65,BlockedShot,0.7669999694824219,0.415,0.03666044771671295,Wayne Rooney,a,629,OpenPlay,2014,LeftFoot,4736,Leicester,Manchester United,5,3,2014-09-21 13:30:00,,TakeOn
+15525,72,MissedShots,0.730999984741211,0.7080000305175781,0.014259153977036476,Ander Herrera,a,552,OpenPlay,2014,RightFoot,4736,Leicester,Manchester United,5,3,2014-09-21 13:30:00,Marcos Rojo,Pass
+15530,91,MissedShots,0.764000015258789,0.3060000038146973,0.010797182098031044,Ander Herrera,a,552,OpenPlay,2014,RightFoot,4736,Leicester,Manchester United,5,3,2014-09-21 13:30:00,,None

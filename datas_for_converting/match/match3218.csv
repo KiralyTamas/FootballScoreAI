@@ -1,0 +1,23 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+131404,35,MissedShots,0.7519999694824219,0.4779999923706055,0.020848939195275307,Julian Baumgartlinger,h,42,OpenPlay,2016,RightFoot,3218,Bayer Leverkusen,Ingolstadt,1,2,2016-12-18 20:30:00,,None
+131405,50,SavedShot,0.94,0.6659999847412109,0.06754451245069504,Julian Brandt,h,261,OpenPlay,2016,LeftFoot,3218,Bayer Leverkusen,Ingolstadt,1,2,2016-12-18 20:30:00,Wendell,Pass
+131407,60,SavedShot,0.8630000305175781,0.5220000076293946,0.043845441192388535,Jonathan Tah,h,183,SetPiece,2016,Head,3218,Bayer Leverkusen,Ingolstadt,1,2,2016-12-18 20:30:00,Hakan Calhanoglu,Chipped
+131409,62,Goal,0.8830000305175781,0.555,0.3950272500514984,Admir Mehmedi,h,194,OpenPlay,2016,RightFoot,3218,Bayer Leverkusen,Ingolstadt,1,2,2016-12-18 20:30:00,Julian Brandt,Pass
+131416,89,MissedShots,0.8069999694824219,0.49900001525878906,0.04420090094208717,Kevin Kampl,h,188,OpenPlay,2016,RightFoot,3218,Bayer Leverkusen,Ingolstadt,1,2,2016-12-18 20:30:00,,None
+131395,1,MissedShots,0.895,0.445,0.037387482821941376,Darío Lezcano,a,2636,OpenPlay,2016,Head,3218,Bayer Leverkusen,Ingolstadt,1,2,2016-12-18 20:30:00,Florent Hadergjonaj,Aerial
+131396,2,MissedShots,0.7869999694824219,0.30100000381469727,0.02077389508485794,Pascal Groß,a,239,OpenPlay,2016,RightFoot,3218,Bayer Leverkusen,Ingolstadt,1,2,2016-12-18 20:30:00,,BallRecovery
+131397,11,MissedShots,0.9269999694824219,0.5420000076293945,0.061243936419487,Darío Lezcano,a,2636,OpenPlay,2016,Head,3218,Bayer Leverkusen,Ingolstadt,1,2,2016-12-18 20:30:00,Pascal Groß,Aerial
+131398,14,SavedShot,0.8959999847412109,0.909000015258789,0.03824552148580551,Pascal Groß,a,239,DirectFreekick,2016,RightFoot,3218,Bayer Leverkusen,Ingolstadt,1,2,2016-12-18 20:30:00,,Standard
+131399,16,MissedShots,0.97,0.710999984741211,0.026626991108059883,Darío Lezcano,a,2636,OpenPlay,2016,LeftFoot,3218,Bayer Leverkusen,Ingolstadt,1,2,2016-12-18 20:30:00,Martin Hansen,Pass
+131400,17,MissedShots,0.779000015258789,0.654000015258789,0.07158201932907104,Roger,a,238,DirectFreekick,2016,RightFoot,3218,Bayer Leverkusen,Ingolstadt,1,2,2016-12-18 20:30:00,,Standard
+131401,25,Goal,0.9219999694824219,0.4779999923706055,0.21722683310508728,Alfredo Morales,a,252,FromCorner,2016,Head,3218,Bayer Leverkusen,Ingolstadt,1,2,2016-12-18 20:30:00,Markus Suttner,Aerial
+131402,33,BlockedShot,0.86,0.48,0.08441614359617233,Darío Lezcano,a,2636,OpenPlay,2016,RightFoot,3218,Bayer Leverkusen,Ingolstadt,1,2,2016-12-18 20:30:00,Pascal Groß,Chipped
+131403,33,SavedShot,0.8019999694824219,0.580999984741211,0.059583574533462524,Almog Cohen,a,240,OpenPlay,2016,RightFoot,3218,Bayer Leverkusen,Ingolstadt,1,2,2016-12-18 20:30:00,Pascal Groß,BlockedPass
+131406,52,SavedShot,0.9230000305175782,0.555,0.2990843653678894,Marcel Tisserand,a,3216,SetPiece,2016,Head,3218,Bayer Leverkusen,Ingolstadt,1,2,2016-12-18 20:30:00,Pascal Groß,Chipped
+131408,60,MissedShots,0.8819999694824219,0.4640000152587891,0.428211510181427,Almog Cohen,a,240,OpenPlay,2016,RightFoot,3218,Bayer Leverkusen,Ingolstadt,1,2,2016-12-18 20:30:00,Pascal Groß,Pass
+131410,71,BlockedShot,0.7340000152587891,0.48200000762939454,0.018663981929421425,Alfredo Morales,a,252,OpenPlay,2016,RightFoot,3218,Bayer Leverkusen,Ingolstadt,1,2,2016-12-18 20:30:00,Pascal Groß,Pass
+131411,72,Goal,0.8680000305175781,0.5179999923706055,0.10730359703302383,Almog Cohen,a,240,OpenPlay,2016,RightFoot,3218,Bayer Leverkusen,Ingolstadt,1,2,2016-12-18 20:30:00,Pascal Groß,Pass
+131412,77,BlockedShot,0.7659999847412109,0.28899999618530275,0.02239830046892166,Florent Hadergjonaj,a,5215,OpenPlay,2016,RightFoot,3218,Bayer Leverkusen,Ingolstadt,1,2,2016-12-18 20:30:00,Lukas Hinterseer,Pass
+131413,82,BlockedShot,0.8519999694824218,0.534000015258789,0.06781310588121414,Lukas Hinterseer,a,242,OpenPlay,2016,RightFoot,3218,Bayer Leverkusen,Ingolstadt,1,2,2016-12-18 20:30:00,Florent Hadergjonaj,Cross
+131414,84,SavedShot,0.8730000305175781,0.41700000762939454,0.3190796971321106,Sonny Kittel,a,2649,SetPiece,2016,RightFoot,3218,Bayer Leverkusen,Ingolstadt,1,2,2016-12-18 20:30:00,Lukas Hinterseer,Pass
+131415,89,SavedShot,0.88,0.3940000152587891,0.4128870964050293,Sonny Kittel,a,2649,OpenPlay,2016,RightFoot,3218,Bayer Leverkusen,Ingolstadt,1,2,2016-12-18 20:30:00,Alfredo Morales,Pass

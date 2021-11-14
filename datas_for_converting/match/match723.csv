@@ -1,0 +1,23 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+101967,28,MissedShots,0.9130000305175782,0.544000015258789,0.027777506038546562,Edoardo Goldaniga,h,1264,FromCorner,2015,Head,723,Palermo,Fiorentina,1,3,2016-01-06 18:00:00,Oscar Hiljemark,Aerial
+101971,48,BlockedShot,0.9,0.6719999694824219,0.04448680207133293,Franco Vázquez,h,1836,OpenPlay,2015,LeftFoot,723,Palermo,Fiorentina,1,3,2016-01-06 18:00:00,Gastón Brugman,Chipped
+101972,58,MissedShots,0.77,0.735999984741211,0.01347477175295353,Aleksandar Trajkovski,h,1837,OpenPlay,2015,RightFoot,723,Palermo,Fiorentina,1,3,2016-01-06 18:00:00,Achraf Lazaar,Pass
+101973,59,MissedShots,0.815,0.669000015258789,0.011515520513057709,Achraf Lazaar,h,1838,OpenPlay,2015,RightFoot,723,Palermo,Fiorentina,1,3,2016-01-06 18:00:00,Aleksandar Trajkovski,Chipped
+101974,65,BlockedShot,0.740999984741211,0.7140000152587891,0.007213545963168144,Aleksandar Trajkovski,h,1837,OpenPlay,2015,RightFoot,723,Palermo,Fiorentina,1,3,2016-01-06 18:00:00,Achraf Lazaar,TakeOn
+101975,67,MissedShots,0.9,0.4470000076293945,0.04969349503517151,Edoardo Goldaniga,h,1264,FromCorner,2015,Head,723,Palermo,Fiorentina,1,3,2016-01-06 18:00:00,Aleksandar Trajkovski,Cross
+101976,67,SavedShot,0.9519999694824218,0.5820000076293945,0.040334757417440414,Mato Jajalo,h,1273,FromCorner,2015,Head,723,Palermo,Fiorentina,1,3,2016-01-06 18:00:00,Edoardo Goldaniga,Rebound
+101978,76,Goal,0.9459999847412109,0.4520000076293945,0.14966554939746857,Alberto Gilardino,h,1552,OpenPlay,2015,Head,723,Palermo,Fiorentina,1,3,2016-01-06 18:00:00,Franco Vázquez,Cross
+101980,91,MissedShots,0.77,0.46,0.02720749005675316,Franco Vázquez,h,1836,OpenPlay,2015,LeftFoot,723,Palermo,Fiorentina,1,3,2016-01-06 18:00:00,,None
+101982,94,BlockedShot,0.7859999847412109,0.38,0.02668606862425804,Franco Vázquez,h,1836,OpenPlay,2015,RightFoot,723,Palermo,Fiorentina,1,3,2016-01-06 18:00:00,Michel Morganella,BallTouch
+101983,94,SavedShot,0.970999984741211,0.4370000076293945,0.548801600933075,Franco Vázquez,h,1836,OpenPlay,2015,RightFoot,723,Palermo,Fiorentina,1,3,2016-01-06 18:00:00,,Rebound
+101962,2,MissedShots,0.7119999694824218,0.590999984741211,0.040110740810632706,Josip Ilicic,a,1426,DirectFreekick,2015,LeftFoot,723,Palermo,Fiorentina,1,3,2016-01-06 18:00:00,,Standard
+101963,9,MissedShots,0.9309999847412109,0.5529999923706055,0.3906577229499817,Nikola Kalinic,a,1425,OpenPlay,2015,RightFoot,723,Palermo,Fiorentina,1,3,2016-01-06 18:00:00,Marcos Alonso,Cross
+101964,12,Goal,0.899000015258789,0.3609999847412109,0.34324026107788086,Josip Ilicic,a,1426,OpenPlay,2015,RightFoot,723,Palermo,Fiorentina,1,3,2016-01-06 18:00:00,Nikola Kalinic,TakeOn
+101965,19,SavedShot,0.745,0.43599998474121093,0.027678774669766426,Matías Vecino,a,1423,OpenPlay,2015,RightFoot,723,Palermo,Fiorentina,1,3,2016-01-06 18:00:00,Davide Astori,BallRecovery
+101966,24,MissedShots,0.8969999694824219,0.644000015258789,0.05572644993662834,Federico Bernardeschi,a,1424,FromCorner,2015,LeftFoot,723,Palermo,Fiorentina,1,3,2016-01-06 18:00:00,,None
+101968,30,MissedShots,0.914000015258789,0.46,0.08444750308990479,Gonzalo Rodríguez,a,1418,FromCorner,2015,Head,723,Palermo,Fiorentina,1,3,2016-01-06 18:00:00,Borja Valero,Cross
+101969,39,MissedShots,0.7380000305175781,0.7230000305175781,0.015716342255473137,Milan Badelj,a,1430,OpenPlay,2015,RightFoot,723,Palermo,Fiorentina,1,3,2016-01-06 18:00:00,,Dispossessed
+101970,41,Goal,0.8090000152587891,0.6229999923706054,0.053246356546878815,Josip Ilicic,a,1426,OpenPlay,2015,LeftFoot,723,Palermo,Fiorentina,1,3,2016-01-06 18:00:00,Nikola Kalinic,Pass
+101977,69,MissedShots,0.764000015258789,0.43400001525878906,0.045029934495687485,Federico Bernardeschi,a,1424,OpenPlay,2015,LeftFoot,723,Palermo,Fiorentina,1,3,2016-01-06 18:00:00,Jakub Blaszczykowski,HeadPass
+101979,81,SavedShot,0.8380000305175781,0.7530000305175781,0.035983990877866745,Jakub Blaszczykowski,a,1966,OpenPlay,2015,RightFoot,723,Palermo,Fiorentina,1,3,2016-01-06 18:00:00,Milan Badelj,Chipped
+101981,92,Goal,0.87,0.43900001525878907,0.30553126335144043,Jakub Blaszczykowski,a,1966,OpenPlay,2015,RightFoot,723,Palermo,Fiorentina,1,3,2016-01-06 18:00:00,Borja Valero,Chipped

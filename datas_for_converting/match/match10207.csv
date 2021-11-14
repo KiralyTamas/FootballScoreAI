@@ -1,0 +1,27 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+281894,2,MissedShots,0.769000015258789,0.5070000076293946,0.09183306992053986,Gareth Bale,h,2251,DirectFreekick,2018,LeftFoot,10207,Real Madrid,Barcelona,0,1,2019-03-02 19:45:00,,Standard
+281895,9,MissedShots,0.8930000305175781,0.700999984741211,0.03670148178935051,Karim Benzema,h,2370,OpenPlay,2018,LeftFoot,10207,Real Madrid,Barcelona,0,1,2019-03-02 19:45:00,Sergio Reguilón,Pass
+281896,12,BlockedShot,0.87,0.54,0.053738027811050415,Raphael Varane,h,2245,SetPiece,2018,RightFoot,10207,Real Madrid,Barcelona,0,1,2019-03-02 19:45:00,Vinícius Júnior,Cross
+281897,12,SavedShot,0.7809999847412109,0.4490000152587891,0.022067872807383537,Toni Kroos,h,2369,SetPiece,2018,LeftFoot,10207,Real Madrid,Barcelona,0,1,2019-03-02 19:45:00,,Rebound
+281899,21,BlockedShot,0.8580000305175781,0.42700000762939455,0.09502770751714706,Luka Modric,h,2250,OpenPlay,2018,RightFoot,10207,Real Madrid,Barcelona,0,1,2019-03-02 19:45:00,Karim Benzema,Pass
+281901,27,BlockedShot,0.895,0.534000015258789,0.019494667649269104,Casemiro,h,2248,FromCorner,2018,Head,10207,Real Madrid,Barcelona,0,1,2019-03-02 19:45:00,Toni Kroos,Aerial
+281902,27,BlockedShot,0.855,0.639000015258789,0.058544497936964035,Vinícius Júnior,h,7008,FromCorner,2018,RightFoot,10207,Real Madrid,Barcelona,0,1,2019-03-02 19:45:00,,Rebound
+281903,31,MissedShots,0.7580000305175781,0.66,0.015991706401109695,Sergio Reguilón,h,7187,FromCorner,2018,LeftFoot,10207,Real Madrid,Barcelona,0,1,2019-03-02 19:45:00,,None
+281908,42,MissedShots,0.8719999694824219,0.6840000152587891,0.04090871289372444,Vinícius Júnior,h,7008,OpenPlay,2018,RightFoot,10207,Real Madrid,Barcelona,0,1,2019-03-02 19:45:00,Luka Modric,Pass
+281909,44,MissedShots,0.9059999847412109,0.46,0.04148663207888603,Luka Modric,h,2250,OpenPlay,2018,Head,10207,Real Madrid,Barcelona,0,1,2019-03-02 19:45:00,Daniel Carvajal,Aerial
+281910,55,SavedShot,0.875999984741211,0.6469999694824219,0.057679321616888046,Vinícius Júnior,h,7008,SetPiece,2018,RightFoot,10207,Real Madrid,Barcelona,0,1,2019-03-02 19:45:00,Sergio Ramos,Chipped
+281912,58,BlockedShot,0.895,0.5570000076293945,0.07952225208282471,Vinícius Júnior,h,7008,OpenPlay,2018,RightFoot,10207,Real Madrid,Barcelona,0,1,2019-03-02 19:45:00,,BlockedPass
+281913,65,BlockedShot,0.9230000305175782,0.42700000762939455,0.08189266175031662,Marco Asensio,h,2117,OpenPlay,2018,LeftFoot,10207,Real Madrid,Barcelona,0,1,2019-03-02 19:45:00,Daniel Carvajal,Cross
+281915,71,MissedShots,0.7609999847412109,0.5929999923706055,0.023652009665966034,Vinícius Júnior,h,7008,OpenPlay,2018,RightFoot,10207,Real Madrid,Barcelona,0,1,2019-03-02 19:45:00,Federico Valverde,Pass
+281916,72,MissedShots,0.725,0.5609999847412109,0.017176277935504913,Casemiro,h,2248,OpenPlay,2018,RightFoot,10207,Real Madrid,Barcelona,0,1,2019-03-02 19:45:00,Vinícius Júnior,Pass
+281917,86,SavedShot,0.754000015258789,0.575,0.02172238752245903,Karim Benzema,h,2370,OpenPlay,2018,RightFoot,10207,Real Madrid,Barcelona,0,1,2019-03-02 19:45:00,Vinícius Júnior,Pass
+281918,90,BlockedShot,0.8580000305175781,0.6780000305175782,0.03858818858861923,Vinícius Júnior,h,7008,FromCorner,2018,RightFoot,10207,Real Madrid,Barcelona,0,1,2019-03-02 19:45:00,Isco,Pass
+281898,18,MissedShots,0.9159999847412109,0.38,0.35729533433914185,Lionel Messi,a,2097,OpenPlay,2018,LeftFoot,10207,Real Madrid,Barcelona,0,1,2019-03-02 19:45:00,Luis Suárez,Pass
+281900,25,Goal,0.92,0.31,0.10820793360471725,Ivan Rakitic,a,2094,OpenPlay,2018,RightFoot,10207,Real Madrid,Barcelona,0,1,2019-03-02 19:45:00,Sergi Roberto,Throughball
+281904,36,MissedShots,0.749000015258789,0.5420000076293945,0.07138318568468094,Lionel Messi,a,2097,DirectFreekick,2018,LeftFoot,10207,Real Madrid,Barcelona,0,1,2019-03-02 19:45:00,,Standard
+281905,38,SavedShot,0.8130000305175781,0.5,0.07482587546110153,Luis Suárez,a,2098,OpenPlay,2018,LeftFoot,10207,Real Madrid,Barcelona,0,1,2019-03-02 19:45:00,Ivan Rakitic,Pass
+281906,38,SavedShot,0.9159999847412109,0.45,0.4672183692455292,Lionel Messi,a,2097,OpenPlay,2018,LeftFoot,10207,Real Madrid,Barcelona,0,1,2019-03-02 19:45:00,,Rebound
+281907,41,MissedShots,0.7430000305175781,0.2589999961853027,0.04068271815776825,Lionel Messi,a,2097,DirectFreekick,2018,LeftFoot,10207,Real Madrid,Barcelona,0,1,2019-03-02 19:45:00,,Standard
+281911,56,SavedShot,0.805,0.700999984741211,0.03161781281232834,Ousmane Dembélé,a,3226,OpenPlay,2018,RightFoot,10207,Real Madrid,Barcelona,0,1,2019-03-02 19:45:00,Lionel Messi,Pass
+281914,69,MissedShots,0.905,0.7019999694824218,0.06300511211156845,Ousmane Dembélé,a,3226,OpenPlay,2018,LeftFoot,10207,Real Madrid,Barcelona,0,1,2019-03-02 19:45:00,Lionel Messi,Pass
+281919,92,MissedShots,0.815,0.53,0.07300572842359543,Lionel Messi,a,2097,OpenPlay,2018,LeftFoot,10207,Real Madrid,Barcelona,0,1,2019-03-02 19:45:00,Arturo Vidal,Pass

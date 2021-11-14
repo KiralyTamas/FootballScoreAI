@@ -1,0 +1,24 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+99072,5,MissedShots,0.95,0.590999984741211,0.10451849550008774,Riccardo Meggiorini,h,1337,OpenPlay,2015,LeftFoot,854,Chievo,Palermo,3,1,2016-04-03 17:00:00,Massimo Gobbi,Cross
+99073,5,Goal,0.9680000305175781,0.46700000762939453,0.7186546921730042,Fabrizio Cacciatore,h,1329,OpenPlay,2015,RightFoot,854,Chievo,Palermo,3,1,2016-04-03 17:00:00,Riccardo Meggiorini,Rebound
+99075,15,SavedShot,0.8190000152587891,0.6179999923706054,0.05713450908660889,Ivan Radovanovic,h,1341,OpenPlay,2015,RightFoot,854,Chievo,Palermo,3,1,2016-04-03 17:00:00,Massimo Gobbi,Pass
+99076,17,MissedShots,0.72,0.4829999923706055,0.01714368909597397,Ivan Radovanovic,h,1341,OpenPlay,2015,RightFoot,854,Chievo,Palermo,3,1,2016-04-03 17:00:00,Riccardo Meggiorini,Pass
+99081,33,MissedShots,0.9030000305175782,0.5309999847412109,0.09461358189582825,Riccardo Meggiorini,h,1337,OpenPlay,2015,Head,854,Chievo,Palermo,3,1,2016-04-03 17:00:00,Lucas Castro,Cross
+99082,34,BlockedShot,0.8819999694824219,0.735999984741211,0.03466404229402542,Antonio Floro Flores,h,1338,OpenPlay,2015,RightFoot,854,Chievo,Palermo,3,1,2016-04-03 17:00:00,Nicola Rigoni,Pass
+99083,39,MissedShots,0.7240000152587891,0.644000015258789,0.011904248036444187,Valter Birsa,h,1336,OpenPlay,2015,RightFoot,854,Chievo,Palermo,3,1,2016-04-03 17:00:00,,None
+99084,52,Goal,0.915,0.505,0.33134156465530396,Nicola Rigoni,h,1335,OpenPlay,2015,Head,854,Chievo,Palermo,3,1,2016-04-03 17:00:00,Fabrizio Cacciatore,Cross
+99086,73,Goal,0.755,0.2989999961853027,0.04527607932686806,Valter Birsa,h,1336,DirectFreekick,2015,LeftFoot,854,Chievo,Palermo,3,1,2016-04-03 17:00:00,,Standard
+99069,1,MissedShots,0.7669999694824219,0.3320000076293945,0.022921640425920486,Oscar Hiljemark,a,1284,OpenPlay,2015,RightFoot,854,Chievo,Palermo,3,1,2016-04-03 17:00:00,Gastón Brugman,Pass
+99070,1,MissedShots,0.749000015258789,0.43400001525878906,0.015606127679347992,Gastón Brugman,a,1165,OpenPlay,2015,RightFoot,854,Chievo,Palermo,3,1,2016-04-03 17:00:00,,Rebound
+99071,2,MissedShots,0.97,0.4209999847412109,0.11499909311532974,Alberto Gilardino,a,1552,OpenPlay,2015,RightFoot,854,Chievo,Palermo,3,1,2016-04-03 17:00:00,Franco Vázquez,Cross
+99074,8,MissedShots,0.769000015258789,0.41900001525878905,0.017276279628276825,Alberto Gilardino,a,1552,OpenPlay,2015,LeftFoot,854,Chievo,Palermo,3,1,2016-04-03 17:00:00,Aleksandar Trajkovski,Chipped
+99077,18,SavedShot,0.9159999847412109,0.36900001525878906,0.054998841136693954,Alberto Gilardino,a,1552,OpenPlay,2015,RightFoot,854,Chievo,Palermo,3,1,2016-04-03 17:00:00,Franco Vázquez,Cross
+99078,20,BlockedShot,0.8440000152587891,0.37099998474121093,0.05955257639288902,Gastón Brugman,a,1165,OpenPlay,2015,RightFoot,854,Chievo,Palermo,3,1,2016-04-03 17:00:00,Oscar Hiljemark,TakeOn
+99079,24,MissedShots,0.7140000152587891,0.41700000762939454,0.00984085164964199,Mato Jajalo,a,1273,SetPiece,2015,RightFoot,854,Chievo,Palermo,3,1,2016-04-03 17:00:00,,None
+99080,27,Goal,0.935,0.53,0.7505121231079102,Alberto Gilardino,a,1552,OpenPlay,2015,RightFoot,854,Chievo,Palermo,3,1,2016-04-03 17:00:00,Gastón Brugman,TakeOn
+99085,62,SavedShot,0.7719999694824219,0.7930000305175782,0.014124361798167229,Achraf Lazaar,a,1838,OpenPlay,2015,LeftFoot,854,Chievo,Palermo,3,1,2016-04-03 17:00:00,Mato Jajalo,Pass
+99087,74,MissedShots,0.8119999694824219,0.6079999923706054,0.052556056529283524,Franco Vázquez,a,1836,OpenPlay,2015,RightFoot,854,Chievo,Palermo,3,1,2016-04-03 17:00:00,Robin Quaison,Pass
+99088,79,SavedShot,0.7609999847412109,0.5520000076293945,0.02257971465587616,Enzo Maresca,a,1835,OpenPlay,2015,LeftFoot,854,Chievo,Palermo,3,1,2016-04-03 17:00:00,,BallTouch
+99089,79,BlockedShot,0.8130000305175781,0.515,0.06500855088233948,Franco Vázquez,a,1836,OpenPlay,2015,LeftFoot,854,Chievo,Palermo,3,1,2016-04-03 17:00:00,Enzo Maresca,Pass
+99090,80,MissedShots,0.875999984741211,0.5279999923706055,0.04642166569828987,Thiago Cionek,a,1265,SetPiece,2015,Head,854,Chievo,Palermo,3,1,2016-04-03 17:00:00,Achraf Lazaar,Cross
+99091,87,MissedShots,0.9669999694824218,0.5570000076293945,0.5613664984703064,Sinisa Andjelkovic,a,1266,SetPiece,2015,LeftFoot,854,Chievo,Palermo,3,1,2016-04-03 17:00:00,Mato Jajalo,Cross

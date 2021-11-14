@@ -1,0 +1,32 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+130742,17,SavedShot,0.85,0.3129999923706055,0.06399563699960709,Fin Bartels,h,115,OpenPlay,2016,RightFoot,3726,Werder Bremen,Borussia Dortmund,1,2,2017-01-21 14:30:00,Max Kruse,Pass
+130743,33,SavedShot,0.7569999694824219,0.34299999237060547,0.016015568748116493,Thomas Delaney,h,5230,OpenPlay,2016,LeftFoot,3726,Werder Bremen,Borussia Dortmund,1,2,2017-01-21 14:30:00,,None
+130744,34,SavedShot,0.875,0.5479999923706055,0.07289149612188339,Thomas Delaney,h,5230,SetPiece,2016,LeftFoot,3726,Werder Bremen,Borussia Dortmund,1,2,2017-01-21 14:30:00,,None
+130745,34,MissedShots,0.9359999847412109,0.639000015258789,0.3196483254432678,Niklas Moisander,h,1936,SetPiece,2016,LeftFoot,3726,Werder Bremen,Borussia Dortmund,1,2,2017-01-21 14:30:00,,Rebound
+130750,46,ShotOnPost,0.8159999847412109,0.555,0.04761374741792679,Clemens Fritz,h,117,OpenPlay,2016,RightFoot,3726,Werder Bremen,Borussia Dortmund,1,2,2017-01-21 14:30:00,,Tackle
+130751,47,MissedShots,0.860999984741211,0.19700000762939454,0.01076638512313366,Robert Bauer,h,237,OpenPlay,2016,RightFoot,3726,Werder Bremen,Borussia Dortmund,1,2,2017-01-21 14:30:00,,Aerial
+130756,58,Goal,0.84,0.52,0.1021699458360672,Fin Bartels,h,115,OpenPlay,2016,RightFoot,3726,Werder Bremen,Borussia Dortmund,1,2,2017-01-21 14:30:00,Clemens Fritz,TakeOn
+130764,74,SavedShot,0.735999984741211,0.9540000152587891,0.009153302758932114,Santiago García,h,113,OpenPlay,2016,LeftFoot,3726,Werder Bremen,Borussia Dortmund,1,2,2017-01-21 14:30:00,Fin Bartels,Pass
+130766,90,BlockedShot,0.875999984741211,0.40299999237060546,0.06457706540822983,Fin Bartels,h,115,OpenPlay,2016,LeftFoot,3726,Werder Bremen,Borussia Dortmund,1,2,2017-01-21 14:30:00,Santiago García,HeadPass
+130736,4,Goal,0.8930000305175781,0.5659999847412109,0.4080652892589569,André Schürrle,a,154,OpenPlay,2016,LeftFoot,3726,Werder Bremen,Borussia Dortmund,1,2,2017-01-21 14:30:00,,None
+130737,6,BlockedShot,0.8669999694824219,0.2879999923706055,0.04853783920407295,André Schürrle,a,154,OpenPlay,2016,RightFoot,3726,Werder Bremen,Borussia Dortmund,1,2,2017-01-21 14:30:00,Christian Pulisic,Pass
+130738,9,BlockedShot,0.874000015258789,0.7140000152587891,0.04911721125245094,Marcel Schmelzer,a,313,OpenPlay,2016,LeftFoot,3726,Werder Bremen,Borussia Dortmund,1,2,2017-01-21 14:30:00,Shinji Kagawa,Pass
+130739,10,SavedShot,0.87,0.475,0.10359394550323486,André Schürrle,a,154,OpenPlay,2016,LeftFoot,3726,Werder Bremen,Borussia Dortmund,1,2,2017-01-21 14:30:00,,None
+130740,11,MissedShots,0.8780000305175781,0.534000015258789,0.03212942183017731,Lukasz Piszczek,a,310,FromCorner,2016,Head,3726,Werder Bremen,Borussia Dortmund,1,2,2017-01-21 14:30:00,Marco Reus,Cross
+130741,14,SavedShot,0.8969999694824219,0.544000015258789,0.10656578838825226,André Schürrle,a,154,OpenPlay,2016,Head,3726,Werder Bremen,Borussia Dortmund,1,2,2017-01-21 14:30:00,Shinji Kagawa,Cross
+130746,36,SavedShot,0.914000015258789,0.46700000762939453,0.24336105585098267,Christian Pulisic,a,2662,OpenPlay,2016,RightFoot,3726,Werder Bremen,Borussia Dortmund,1,2,2017-01-21 14:30:00,,TakeOn
+130747,36,BlockedShot,0.8690000152587891,0.515,0.11178810894489288,Shinji Kagawa,a,321,OpenPlay,2016,RightFoot,3726,Werder Bremen,Borussia Dortmund,1,2,2017-01-21 14:30:00,,Rebound
+130748,42,MissedShots,0.7240000152587891,0.47299999237060547,0.05146874114871025,André Schürrle,a,154,DirectFreekick,2016,RightFoot,3726,Werder Bremen,Borussia Dortmund,1,2,2017-01-21 14:30:00,,Standard
+130749,45,BlockedShot,0.93,0.32799999237060545,0.08346890658140182,Marco Reus,a,319,OpenPlay,2016,LeftFoot,3726,Werder Bremen,Borussia Dortmund,1,2,2017-01-21 14:30:00,Lukasz Piszczek,Pass
+130752,48,BlockedShot,0.845,0.4420000076293945,0.08104069530963898,Shinji Kagawa,a,321,OpenPlay,2016,RightFoot,3726,Werder Bremen,Borussia Dortmund,1,2,2017-01-21 14:30:00,,None
+130753,48,SavedShot,0.8380000305175781,0.435,0.07309164851903915,Shinji Kagawa,a,321,OpenPlay,2016,RightFoot,3726,Werder Bremen,Borussia Dortmund,1,2,2017-01-21 14:30:00,,Rebound
+130754,50,MissedShots,0.7969999694824219,0.8619999694824219,0.033205755054950714,Gonzalo Castro,a,316,DirectFreekick,2016,RightFoot,3726,Werder Bremen,Borussia Dortmund,1,2,2017-01-21 14:30:00,,Standard
+130755,57,SavedShot,0.919000015258789,0.6179999923706054,0.583522617816925,Marco Reus,a,319,OpenPlay,2016,LeftFoot,3726,Werder Bremen,Borussia Dortmund,1,2,2017-01-21 14:30:00,Shinji Kagawa,Throughball
+130757,65,BlockedShot,0.8919999694824219,0.625,0.06287313997745514,Erik Durm,a,2640,OpenPlay,2016,RightFoot,3726,Werder Bremen,Borussia Dortmund,1,2,2017-01-21 14:30:00,Shinji Kagawa,Chipped
+130758,66,BlockedShot,0.845999984741211,0.7140000152587891,0.03186715394258499,André Schürrle,a,154,OpenPlay,2016,RightFoot,3726,Werder Bremen,Borussia Dortmund,1,2,2017-01-21 14:30:00,Erik Durm,Pass
+130759,68,MissedShots,0.93,0.59,0.054821986705064774,Marco Reus,a,319,OpenPlay,2016,Head,3726,Werder Bremen,Borussia Dortmund,1,2,2017-01-21 14:30:00,Matthias Ginter,Chipped
+130760,69,BlockedShot,0.875,0.735,0.04225010424852371,Ousmane Dembélé,a,3226,OpenPlay,2016,LeftFoot,3726,Werder Bremen,Borussia Dortmund,1,2,2017-01-21 14:30:00,André Schürrle,HeadPass
+130761,70,Goal,0.93,0.46299999237060546,0.5267033576965332,Lukasz Piszczek,a,310,FromCorner,2016,RightFoot,3726,Werder Bremen,Borussia Dortmund,1,2,2017-01-21 14:30:00,,None
+130762,72,BlockedShot,0.840999984741211,0.3039999961853027,0.04506227746605873,Christian Pulisic,a,2662,OpenPlay,2016,LeftFoot,3726,Werder Bremen,Borussia Dortmund,1,2,2017-01-21 14:30:00,Lukasz Piszczek,Pass
+130763,73,MissedShots,0.9719999694824218,0.40799999237060547,0.05166426673531532,Christian Pulisic,a,2662,OpenPlay,2016,Head,3726,Werder Bremen,Borussia Dortmund,1,2,2017-01-21 14:30:00,Erik Durm,Chipped
+130765,84,SavedShot,0.8130000305175781,0.5179999923706055,0.06930361688137054,André Schürrle,a,154,OpenPlay,2016,LeftFoot,3726,Werder Bremen,Borussia Dortmund,1,2,2017-01-21 14:30:00,Erik Durm,Chipped

@@ -1,0 +1,32 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+123380,2,BlockedShot,0.9540000152587891,0.4370000076293945,0.1518733948469162,Aleksandr Prudnikov,h,2841,OpenPlay,2016,RightFoot,4326,Anzhi Makhachkala,Ural,2,3,2017-03-31 17:30:00,Sergey Parshivlyuk,Rebound
+123381,2,SavedShot,0.98,0.38,0.07008561491966248,Aleksandr Prudnikov,h,2841,OpenPlay,2016,RightFoot,4326,Anzhi Makhachkala,Ural,2,3,2017-03-31 17:30:00,,None
+123382,3,BlockedShot,0.794000015258789,0.2879999923706055,0.015641581267118454,Sergey Parshivlyuk,h,2828,FromCorner,2016,RightFoot,4326,Anzhi Makhachkala,Ural,2,3,2017-03-31 17:30:00,,None
+123383,4,BlockedShot,0.8540000152587891,0.5459999847412109,0.05179828032851219,Ayaz Guliev,h,5444,SetPiece,2016,RightFoot,4326,Anzhi Makhachkala,Ural,2,3,2017-03-31 17:30:00,Thomas Phibel,HeadPass
+123384,6,BlockedShot,0.9069999694824219,0.5720000076293945,0.06603512167930603,Pylyp Budkivsky,h,5445,SetPiece,2016,Head,4326,Anzhi Makhachkala,Ural,2,3,2017-03-31 17:30:00,Arsen Khubulov,Cross
+123386,15,MissedShots,0.865999984741211,0.6140000152587891,0.07949896901845932,Adlan Katsaev,h,4559,OpenPlay,2016,RightFoot,4326,Anzhi Makhachkala,Ural,2,3,2017-03-31 17:30:00,Magomed Musalov,Pass
+123389,30,MissedShots,0.9119999694824219,0.6519999694824219,0.04590201377868652,Alexander Zhirov,h,2939,FromCorner,2016,LeftFoot,4326,Anzhi Makhachkala,Ural,2,3,2017-03-31 17:30:00,,TakeOn
+123390,43,SavedShot,0.7469999694824219,0.49599998474121093,0.015424584038555622,Pylyp Budkivsky,h,5445,OpenPlay,2016,LeftFoot,4326,Anzhi Makhachkala,Ural,2,3,2017-03-31 17:30:00,Adlan Katsaev,HeadPass
+123391,44,SavedShot,0.8880000305175781,0.28200000762939453,0.04419214650988579,Arsen Khubulov,h,2733,OpenPlay,2016,RightFoot,4326,Anzhi Makhachkala,Ural,2,3,2017-03-31 17:30:00,Sergey Parshivlyuk,Pass
+123392,46,MissedShots,0.9009999847412109,0.524000015258789,0.07237987220287323,Aleksandr Prudnikov,h,2841,OpenPlay,2016,Head,4326,Anzhi Makhachkala,Ural,2,3,2017-03-31 17:30:00,Arsen Khubulov,Cross
+123393,48,Goal,0.9719999694824218,0.505,0.790353536605835,Aleksandr Prudnikov,h,2841,SetPiece,2016,RightFoot,4326,Anzhi Makhachkala,Ural,2,3,2017-03-31 17:30:00,Thomas Phibel,HeadPass
+123395,52,Goal,0.72,0.6170000076293946,0.048100657761096954,Arsen Khubulov,h,2733,OpenPlay,2016,RightFoot,4326,Anzhi Makhachkala,Ural,2,3,2017-03-31 17:30:00,Aleksandr Prudnikov,Chipped
+123399,56,OwnGoal,0.03700000047683716,0.504000015258789,0,Shamil Gasanov,h,2950,FromCorner,2016,RightFoot,4326,Anzhi Makhachkala,Ural,2,3,2017-03-31 17:30:00,,CornerAwarded
+123400,61,MissedShots,0.72,0.46099998474121096,0.010760597884654999,Shamil Gasanov,h,2950,SetPiece,2016,RightFoot,4326,Anzhi Makhachkala,Ural,2,3,2017-03-31 17:30:00,,None
+123402,73,SavedShot,0.745999984741211,0.5790000152587891,0.035590462386608124,Ayaz Guliev,h,5444,OpenPlay,2016,LeftFoot,4326,Anzhi Makhachkala,Ural,2,3,2017-03-31 17:30:00,Pylyp Budkivsky,TakeOn
+123407,87,BlockedShot,0.6959999847412109,0.5479999923706055,0.013465875759720802,Pavel Yakovlev,h,2995,OpenPlay,2016,RightFoot,4326,Anzhi Makhachkala,Ural,2,3,2017-03-31 17:30:00,Shamil Gasanov,Pass
+123385,12,MissedShots,0.789000015258789,0.5370000076293945,0.036749888211488724,Roman Emelyanov,a,2791,OpenPlay,2016,RightFoot,4326,Anzhi Makhachkala,Ural,2,3,2017-03-31 17:30:00,,None
+123387,16,MissedShots,0.9640000152587891,0.5779999923706055,0.3511582612991333,Vladimir Iljin,a,5497,OpenPlay,2016,RightFoot,4326,Anzhi Makhachkala,Ural,2,3,2017-03-31 17:30:00,Chisamba Lungu,Cross
+123388,21,Goal,0.9359999847412109,0.47,0.13811016082763672,Vladimir Iljin,a,5497,OpenPlay,2016,Head,4326,Anzhi Makhachkala,Ural,2,3,2017-03-31 17:30:00,Chisamba Lungu,Cross
+123394,50,SavedShot,0.7480000305175781,0.5870000076293945,0.01903807930648327,Vladimir Iljin,a,5497,OpenPlay,2016,LeftFoot,4326,Anzhi Makhachkala,Ural,2,3,2017-03-31 17:30:00,Aleksandr Novikov,Chipped
+123396,54,BlockedShot,0.8830000305175781,0.34,0.049504511058330536,Edgar Manucharyan,a,2799,OpenPlay,2016,LeftFoot,4326,Anzhi Makhachkala,Ural,2,3,2017-03-31 17:30:00,,None
+123397,54,MissedShots,0.7190000152587891,0.20399999618530273,0.01077229343354702,Edgar Manucharyan,a,2799,OpenPlay,2016,LeftFoot,4326,Anzhi Makhachkala,Ural,2,3,2017-03-31 17:30:00,Denys Kulakov,Pass
+123398,55,BlockedShot,0.9480000305175781,0.3970000076293945,0.04389472305774689,Gregor Balazic,a,5494,FromCorner,2016,Head,4326,Anzhi Makhachkala,Ural,2,3,2017-03-31 17:30:00,Edgar Manucharyan,Cross
+123401,71,SavedShot,0.97,0.685,0.05517492815852165,Vladimir Iljin,a,5497,OpenPlay,2016,LeftFoot,4326,Anzhi Makhachkala,Ural,2,3,2017-03-31 17:30:00,Eric Bicfalvi,Pass
+123403,77,BlockedShot,0.75,0.5690000152587891,0.01898743398487568,Eric Bicfalvi,a,5483,OpenPlay,2016,RightFoot,4326,Anzhi Makhachkala,Ural,2,3,2017-03-31 17:30:00,,None
+123404,83,SavedShot,0.885,0.5,0.7542753219604492,Edgar Manucharyan,a,2799,Penalty,2016,LeftFoot,4326,Anzhi Makhachkala,Ural,2,3,2017-03-31 17:30:00,,Standard
+123405,85,MissedShots,0.9180000305175782,0.485,0.124643974006176,Eric Bicfalvi,a,5483,OpenPlay,2016,Head,4326,Anzhi Makhachkala,Ural,2,3,2017-03-31 17:30:00,Artem Fiedler,Cross
+123406,86,SavedShot,0.8119999694824219,0.519000015258789,0.05848342925310135,Vladimir Iljin,a,5497,OpenPlay,2016,RightFoot,4326,Anzhi Makhachkala,Ural,2,3,2017-03-31 17:30:00,Eric Bicfalvi,Pass
+123408,87,Goal,0.89,0.3629999923706055,0.28760412335395813,Edgar Manucharyan,a,2799,OpenPlay,2016,LeftFoot,4326,Anzhi Makhachkala,Ural,2,3,2017-03-31 17:30:00,Eric Bicfalvi,Pass
+123409,90,BlockedShot,0.7619999694824219,0.54,0.033404190093278885,Vladimir Iljin,a,5497,OpenPlay,2016,RightFoot,4326,Anzhi Makhachkala,Ural,2,3,2017-03-31 17:30:00,Mikhail Merkulov,BallRecovery
+123410,93,MissedShots,0.7080000305175781,0.315,0.011859023943543434,Vladimir Iljin,a,5497,OpenPlay,2016,RightFoot,4326,Anzhi Makhachkala,Ural,2,3,2017-03-31 17:30:00,,None

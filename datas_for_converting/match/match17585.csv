@@ -1,0 +1,34 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+436910,28,MissedShots,0.91,0.43900001525878907,0.02131049335002899,Jonathan Tah,h,183,FromCorner,2021,Head,17585,Bayer Leverkusen,Bayern Munich,1,5,2021-10-17 13:30:00,Kerem Demirbay,Aerial
+436919,42,SavedShot,0.8209999847412109,0.4909999847412109,0.06453988701105118,Moussa Diaby,h,6556,OpenPlay,2021,LeftFoot,17585,Bayer Leverkusen,Bayern Munich,1,5,2021-10-17 13:30:00,Florian Wirtz,Pass
+436920,44,SavedShot,0.7830000305175782,0.32299999237060545,0.022585123777389526,Jeremie Frimpong,h,9328,OpenPlay,2021,LeftFoot,17585,Bayer Leverkusen,Bayern Munich,1,5,2021-10-17 13:30:00,,TakeOn
+436922,52,SavedShot,0.9,0.6469999694824219,0.29282546043395996,Kerem Demirbay,h,5273,OpenPlay,2021,LeftFoot,17585,Bayer Leverkusen,Bayern Munich,1,5,2021-10-17 13:30:00,Florian Wirtz,LayOff
+436923,52,BlockedShot,0.855999984741211,0.500999984741211,0.06247923523187637,Moussa Diaby,h,6556,OpenPlay,2021,LeftFoot,17585,Bayer Leverkusen,Bayern Munich,1,5,2021-10-17 13:30:00,,Rebound
+436924,54,Goal,0.9030000305175782,0.34700000762939454,0.28393304347991943,Patrik Schick,h,1236,OpenPlay,2021,RightFoot,17585,Bayer Leverkusen,Bayern Munich,1,5,2021-10-17 13:30:00,Florian Wirtz,Throughball
+436903,2,Goal,0.9569999694824218,0.46799999237060547,0.65092533826828,Robert Lewandowski,a,227,SetPiece,2021,RightFoot,17585,Bayer Leverkusen,Bayern Munich,1,5,2021-10-17 13:30:00,Dayotchanculle Upamecano,Pass
+436904,11,BlockedShot,0.7080000305175781,0.44599998474121094,0.02162117324769497,Serge Gnabry,a,993,OpenPlay,2021,RightFoot,17585,Bayer Leverkusen,Bayern Munich,1,5,2021-10-17 13:30:00,Joshua Kimmich,Pass
+436905,15,BlockedShot,0.7619999694824219,0.4620000076293945,0.03913918882608414,Leroy Sané,a,337,OpenPlay,2021,LeftFoot,17585,Bayer Leverkusen,Bayern Munich,1,5,2021-10-17 13:30:00,,Dispossessed
+436906,16,MissedShots,0.89,0.6430000305175781,0.09576747566461563,Leroy Sané,a,337,OpenPlay,2021,RightFoot,17585,Bayer Leverkusen,Bayern Munich,1,5,2021-10-17 13:30:00,Serge Gnabry,Pass
+436907,18,ShotOnPost,0.7319999694824219,0.5590000152587891,0.023305771872401237,Leroy Sané,a,337,OpenPlay,2021,LeftFoot,17585,Bayer Leverkusen,Bayern Munich,1,5,2021-10-17 13:30:00,Thomas Müller,Pass
+436908,20,SavedShot,0.909000015258789,0.7130000305175781,0.05686033517122269,Alphonso Davies,a,7345,OpenPlay,2021,LeftFoot,17585,Bayer Leverkusen,Bayern Munich,1,5,2021-10-17 13:30:00,Thomas Müller,Pass
+436909,21,SavedShot,0.8490000152587891,0.4370000076293945,0.10178753733634949,Leon Goretzka,a,335,OpenPlay,2021,RightFoot,17585,Bayer Leverkusen,Bayern Munich,1,5,2021-10-17 13:30:00,Joshua Kimmich,Pass
+436911,29,Goal,0.9119999694824219,0.49900001525878906,0.1304609626531601,Robert Lewandowski,a,227,OpenPlay,2021,RightFoot,17585,Bayer Leverkusen,Bayern Munich,1,5,2021-10-17 13:30:00,Alphonso Davies,BallTouch
+436912,32,MissedShots,0.909000015258789,0.5220000076293946,0.10686066746711731,Leon Goretzka,a,335,SetPiece,2021,Head,17585,Bayer Leverkusen,Bayern Munich,1,5,2021-10-17 13:30:00,Leroy Sané,Cross
+436913,32,BlockedShot,0.8419999694824218,0.3270000076293945,0.06450820714235306,Robert Lewandowski,a,227,OpenPlay,2021,RightFoot,17585,Bayer Leverkusen,Bayern Munich,1,5,2021-10-17 13:30:00,Leon Goretzka,Pass
+436914,33,BlockedShot,0.895,0.645,0.06972060352563858,Niklas Süle,a,75,SetPiece,2021,RightFoot,17585,Bayer Leverkusen,Bayern Munich,1,5,2021-10-17 13:30:00,Joshua Kimmich,TakeOn
+436915,33,Goal,0.9519999694824218,0.5359999847412109,0.14072230458259583,Thomas Müller,a,224,SetPiece,2021,LeftFoot,17585,Bayer Leverkusen,Bayern Munich,1,5,2021-10-17 13:30:00,Niklas Süle,Rebound
+436916,34,Goal,0.9290000152587891,0.5729999923706055,0.4451775550842285,Serge Gnabry,a,993,OpenPlay,2021,RightFoot,17585,Bayer Leverkusen,Bayern Munich,1,5,2021-10-17 13:30:00,Thomas Müller,Cross
+436917,36,Goal,0.9169999694824219,0.41700000762939454,0.44944682717323303,Serge Gnabry,a,993,OpenPlay,2021,LeftFoot,17585,Bayer Leverkusen,Bayern Munich,1,5,2021-10-17 13:30:00,Leon Goretzka,Pass
+436918,41,MissedShots,0.9159999847412109,0.5829999923706055,0.1268336921930313,Leroy Sané,a,337,OpenPlay,2021,LeftFoot,17585,Bayer Leverkusen,Bayern Munich,1,5,2021-10-17 13:30:00,Thomas Müller,Chipped
+436921,47,SavedShot,0.8380000305175781,0.6530000305175782,0.0574556328356266,Leroy Sané,a,337,OpenPlay,2021,RightFoot,17585,Bayer Leverkusen,Bayern Munich,1,5,2021-10-17 13:30:00,Robert Lewandowski,Pass
+436925,59,BlockedShot,0.8680000305175781,0.649000015258789,0.09461422264575958,Leroy Sané,a,337,OpenPlay,2021,LeftFoot,17585,Bayer Leverkusen,Bayern Munich,1,5,2021-10-17 13:30:00,Joshua Kimmich,Pass
+436926,62,MissedShots,0.955999984741211,0.4329999923706055,0.07113979756832123,Niklas Süle,a,75,SetPiece,2021,Head,17585,Bayer Leverkusen,Bayern Munich,1,5,2021-10-17 13:30:00,Leroy Sané,Aerial
+436927,66,MissedShots,0.764000015258789,0.54,0.02773456834256649,Leroy Sané,a,337,OpenPlay,2021,LeftFoot,17585,Bayer Leverkusen,Bayern Munich,1,5,2021-10-17 13:30:00,Serge Gnabry,Pass
+436928,67,BlockedShot,0.7380000305175781,0.55,0.02029476873576641,Niklas Süle,a,75,OpenPlay,2021,RightFoot,17585,Bayer Leverkusen,Bayern Munich,1,5,2021-10-17 13:30:00,Joshua Kimmich,Pass
+436929,67,SavedShot,0.7780000305175782,0.44099998474121094,0.04256083071231842,Niklas Süle,a,75,OpenPlay,2021,RightFoot,17585,Bayer Leverkusen,Bayern Munich,1,5,2021-10-17 13:30:00,Serge Gnabry,Pass
+436930,73,SavedShot,0.7680000305175781,0.4179999923706055,0.03608332946896553,Marcel Sabitzer,a,5248,OpenPlay,2021,RightFoot,17585,Bayer Leverkusen,Bayern Munich,1,5,2021-10-17 13:30:00,Joshua Kimmich,Pass
+436931,74,MissedShots,0.8919999694824219,0.5479999923706055,0.30023056268692017,Leroy Sané,a,337,OpenPlay,2021,Head,17585,Bayer Leverkusen,Bayern Munich,1,5,2021-10-17 13:30:00,Marcel Sabitzer,Chipped
+436932,78,MissedShots,0.8730000305175781,0.37099998474121093,0.10326779633760452,Marcel Sabitzer,a,5248,OpenPlay,2021,LeftFoot,17585,Bayer Leverkusen,Bayern Munich,1,5,2021-10-17 13:30:00,Jamal Musiala,Pass
+436933,84,SavedShot,0.9390000152587891,0.6780000305175782,0.08706970512866974,Kingsley Coman,a,226,OpenPlay,2021,LeftFoot,17585,Bayer Leverkusen,Bayern Munich,1,5,2021-10-17 13:30:00,,BallRecovery
+436934,87,BlockedShot,0.7830000305175782,0.5459999847412109,0.0612918958067894,Kingsley Coman,a,226,OpenPlay,2021,RightFoot,17585,Bayer Leverkusen,Bayern Munich,1,5,2021-10-17 13:30:00,Leroy Sané,TakeOn
+436935,88,MissedShots,0.8619999694824219,0.6680000305175782,0.03406538441777229,Joshua Kimmich,a,223,SetPiece,2021,RightFoot,17585,Bayer Leverkusen,Bayern Munich,1,5,2021-10-17 13:30:00,Leroy Sané,Pass

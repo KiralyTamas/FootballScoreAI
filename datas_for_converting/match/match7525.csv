@@ -1,0 +1,32 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+173267,3,BlockedShot,0.9519999694824218,0.35400001525878905,0.06034644693136215,Gonzalo Higuaín,h,1293,FromCorner,2017,LeftFoot,7525,Juventus,Chievo,3,0,2017-09-09 17:00:00,,None
+173269,9,MissedShots,0.7880000305175782,0.5370000076293945,0.048131313174963,Stefano Sturaro,h,1296,OpenPlay,2017,RightFoot,7525,Juventus,Chievo,3,0,2017-09-09 17:00:00,Gonzalo Higuaín,LayOff
+173275,26,SavedShot,0.785,0.41,0.03651230037212372,Miralem Pjanic,h,1290,OpenPlay,2017,RightFoot,7525,Juventus,Chievo,3,0,2017-09-09 17:00:00,Gonzalo Higuaín,Pass
+173276,28,BlockedShot,0.9,0.4159999847412109,0.031431738287210464,Mario Mandzukic,h,1295,FromCorner,2017,Head,7525,Juventus,Chievo,3,0,2017-09-09 17:00:00,Miralem Pjanic,Cross
+173277,28,MissedShots,0.924000015258789,0.4540000152587891,0.04241660609841347,Daniele Rugani,h,1301,FromCorner,2017,Head,7525,Juventus,Chievo,3,0,2017-09-09 17:00:00,Mario Mandzukic,Rebound
+173278,30,MissedShots,0.8080000305175781,0.38,0.051063172519207,Douglas Costa,h,393,OpenPlay,2017,LeftFoot,7525,Juventus,Chievo,3,0,2017-09-09 17:00:00,Miralem Pjanic,Pass
+173279,36,MissedShots,0.789000015258789,0.6419999694824219,0.03499317541718483,Blaise Matuidi,h,3296,OpenPlay,2017,LeftFoot,7525,Juventus,Chievo,3,0,2017-09-09 17:00:00,Stefano Sturaro,Pass
+173285,56,BlockedShot,0.850999984741211,0.4809999847412109,0.1111546978354454,Gonzalo Higuaín,h,1293,OpenPlay,2017,RightFoot,7525,Juventus,Chievo,3,0,2017-09-09 17:00:00,Mario Mandzukic,LayOff
+173286,57,Goal,0.89,0.43099998474121093,0.4007219672203064,Gonzalo Higuaín,h,1293,OpenPlay,2017,RightFoot,7525,Juventus,Chievo,3,0,2017-09-09 17:00:00,Miralem Pjanic,Throughball
+173289,66,BlockedShot,0.865,0.44099998474121094,0.09183573722839355,Paulo Dybala,h,1294,OpenPlay,2017,LeftFoot,7525,Juventus,Chievo,3,0,2017-09-09 17:00:00,Miralem Pjanic,TakeOn
+173290,70,MissedShots,0.845999984741211,0.6940000152587891,0.029974861070513725,Paulo Dybala,h,1294,OpenPlay,2017,LeftFoot,7525,Juventus,Chievo,3,0,2017-09-09 17:00:00,Kwadwo Asamoah,TakeOn
+173291,71,BlockedShot,0.9430000305175781,0.35400001525878905,0.11788889020681381,Paulo Dybala,h,1294,OpenPlay,2017,LeftFoot,7525,Juventus,Chievo,3,0,2017-09-09 17:00:00,Stefano Sturaro,Pass
+173292,72,MissedShots,0.78,0.555,0.010344555601477623,Paulo Dybala,h,1294,FromCorner,2017,LeftFoot,7525,Juventus,Chievo,3,0,2017-09-09 17:00:00,Miralem Pjanic,Chipped
+173296,82,Goal,0.87,0.4279999923706055,0.14576590061187744,Paulo Dybala,h,1294,OpenPlay,2017,LeftFoot,7525,Juventus,Chievo,3,0,2017-09-09 17:00:00,Federico Bernardeschi,TakeOn
+173297,90,SavedShot,0.7609999847412109,0.5540000152587891,0.04032956808805466,Gonzalo Higuaín,h,1293,OpenPlay,2017,LeftFoot,7525,Juventus,Chievo,3,0,2017-09-09 17:00:00,Paulo Dybala,Pass
+173268,5,MissedShots,0.815,0.620999984741211,0.026957932859659195,Perparim Hetemaj,a,1334,OpenPlay,2017,RightFoot,7525,Juventus,Chievo,3,0,2017-09-09 17:00:00,Fabrizio Cacciatore,Cross
+173270,12,BlockedShot,0.7959999847412109,0.44099998474121094,0.06366324424743652,Valter Birsa,a,1336,OpenPlay,2017,RightFoot,7525,Juventus,Chievo,3,0,2017-09-09 17:00:00,Perparim Hetemaj,TakeOn
+173271,12,MissedShots,0.7390000152587891,0.6370000076293946,0.014463895000517368,Ivan Radovanovic,a,1341,OpenPlay,2017,RightFoot,7525,Juventus,Chievo,3,0,2017-09-09 17:00:00,Perparim Hetemaj,Pass
+173272,16,OwnGoal,0.048000001907348634,0.5520000076293945,0,Perparim Hetemaj,a,1334,SetPiece,2017,Head,7525,Juventus,Chievo,3,0,2017-09-09 17:00:00,,Foul
+173273,20,MissedShots,0.84,0.35400001525878905,0.038868386298418045,Manuel Pucciarelli,a,1318,OpenPlay,2017,RightFoot,7525,Juventus,Chievo,3,0,2017-09-09 17:00:00,Valter Birsa,Pass
+173274,25,SavedShot,0.7230000305175781,0.42200000762939455,0.017067816108465195,Ivan Radovanovic,a,1341,SetPiece,2017,RightFoot,7525,Juventus,Chievo,3,0,2017-09-09 17:00:00,Valter Birsa,Pass
+173280,38,MissedShots,0.7240000152587891,0.615,0.015332909300923347,Ivan Radovanovic,a,1341,OpenPlay,2017,LeftFoot,7525,Juventus,Chievo,3,0,2017-09-09 17:00:00,Roberto Inglese,Pass
+173281,41,MissedShots,0.73,0.6140000152587891,0.016893545165657997,Valter Birsa,a,1336,OpenPlay,2017,LeftFoot,7525,Juventus,Chievo,3,0,2017-09-09 17:00:00,Dario Dainelli,Pass
+173282,42,SavedShot,0.86,0.40599998474121096,0.05768342688679695,Manuel Pucciarelli,a,1318,OpenPlay,2017,RightFoot,7525,Juventus,Chievo,3,0,2017-09-09 17:00:00,,None
+173283,51,MissedShots,0.855,0.26399999618530273,0.0189548060297966,Fabrizio Cacciatore,a,1329,OpenPlay,2017,LeftFoot,7525,Juventus,Chievo,3,0,2017-09-09 17:00:00,Ivan Radovanovic,Chipped
+173284,53,BlockedShot,0.7659999847412109,0.49900001525878906,0.014901786111295223,Fabrizio Cacciatore,a,1329,FromCorner,2017,LeftFoot,7525,Juventus,Chievo,3,0,2017-09-09 17:00:00,,Aerial
+173287,59,MissedShots,0.8080000305175781,0.34700000762939454,0.036763474345207214,Manuel Pucciarelli,a,1318,FromCorner,2017,LeftFoot,7525,Juventus,Chievo,3,0,2017-09-09 17:00:00,Lucas Castro,Pass
+173288,65,MissedShots,0.8419999694824218,0.3629999923706055,0.06686356663703918,Manuel Pucciarelli,a,1318,OpenPlay,2017,LeftFoot,7525,Juventus,Chievo,3,0,2017-09-09 17:00:00,Lucas Castro,Pass
+173293,76,BlockedShot,0.749000015258789,0.5120000076293946,0.013673239387571812,Nicola Rigoni,a,1335,OpenPlay,2017,RightFoot,7525,Juventus,Chievo,3,0,2017-09-09 17:00:00,,None
+173294,77,MissedShots,0.9490000152587891,0.54,0.46677166223526,Sergio Pellissier,a,1347,FromCorner,2017,Head,7525,Juventus,Chievo,3,0,2017-09-09 17:00:00,Valter Birsa,Cross
+173295,80,MissedShots,0.715,0.4179999923706055,0.04180505871772766,Valter Birsa,a,1336,DirectFreekick,2017,LeftFoot,7525,Juventus,Chievo,3,0,2017-09-09 17:00:00,,Standard

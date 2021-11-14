@@ -1,0 +1,29 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+363840,2,BlockedShot,0.874000015258789,0.385,0.08893144875764847,Timo Werner,h,65,OpenPlay,2019,RightFoot,12665,RasenBallsport Leipzig,Paderborn,1,1,2020-06-06 13:30:00,Dani Olmo,Pass
+363841,2,SavedShot,0.92,0.4809999847412109,0.5005665421485901,Patrik Schick,h,1236,OpenPlay,2019,LeftFoot,12665,RasenBallsport Leipzig,Paderborn,1,1,2020-06-06 13:30:00,Timo Werner,Rebound
+363842,8,SavedShot,0.7730000305175782,0.6270000076293946,0.025568509474396706,Christopher Nkunku,h,3300,OpenPlay,2019,RightFoot,12665,RasenBallsport Leipzig,Paderborn,1,1,2020-06-06 13:30:00,Timo Werner,Pass
+363845,16,BlockedShot,0.879000015258789,0.5879999923706055,0.09315952658653259,Timo Werner,h,65,OpenPlay,2019,RightFoot,12665,RasenBallsport Leipzig,Paderborn,1,1,2020-06-06 13:30:00,Angelino,Pass
+363846,21,BlockedShot,0.8030000305175782,0.25799999237060545,0.05995385721325874,Patrik Schick,h,1236,DirectFreekick,2019,LeftFoot,12665,RasenBallsport Leipzig,Paderborn,1,1,2020-06-06 13:30:00,,Standard
+363848,26,Goal,0.8619999694824219,0.5279999923706055,0.10287707298994064,Patrik Schick,h,1236,OpenPlay,2019,LeftFoot,12665,RasenBallsport Leipzig,Paderborn,1,1,2020-06-06 13:30:00,Timo Werner,Pass
+363849,31,BlockedShot,0.9569999694824218,0.47200000762939454,0.43838876485824585,Nordi Mukiele,h,5659,FromCorner,2019,Head,12665,RasenBallsport Leipzig,Paderborn,1,1,2020-06-06 13:30:00,Patrik Schick,HeadPass
+363851,34,MissedShots,0.8780000305175781,0.2589999961853027,0.04802316427230835,Dani Olmo,h,8292,OpenPlay,2019,RightFoot,12665,RasenBallsport Leipzig,Paderborn,1,1,2020-06-06 13:30:00,,None
+363856,59,SavedShot,0.8690000152587891,0.27399999618530274,0.02530849538743496,Dani Olmo,h,8292,FromCorner,2019,RightFoot,12665,RasenBallsport Leipzig,Paderborn,1,1,2020-06-06 13:30:00,,None
+363857,66,MissedShots,0.9080000305175782,0.28,0.49678364396095276,Timo Werner,h,65,OpenPlay,2019,RightFoot,12665,RasenBallsport Leipzig,Paderborn,1,1,2020-06-06 13:30:00,,TakeOn
+363860,78,BlockedShot,0.6880000305175781,0.590999984741211,0.013735111802816391,Amadou Haidara,h,7501,SetPiece,2019,RightFoot,12665,RasenBallsport Leipzig,Paderborn,1,1,2020-06-06 13:30:00,Timo Werner,Pass
+363863,88,ShotOnPost,0.9019999694824219,0.6959999847412109,0.06446323543787003,Timo Werner,h,65,OpenPlay,2019,LeftFoot,12665,RasenBallsport Leipzig,Paderborn,1,1,2020-06-06 13:30:00,Angelino,Pass
+363843,11,SavedShot,0.73,0.47900001525878905,0.017355645075440407,Dennis Srbeny,a,7822,OpenPlay,2019,LeftFoot,12665,RasenBallsport Leipzig,Paderborn,1,1,2020-06-06 13:30:00,Streli Mamba,BallRecovery
+363844,16,MissedShots,0.754000015258789,0.4909999847412109,0.015756219625473022,Sebastian Vasiliadis,a,7797,SetPiece,2019,RightFoot,12665,RasenBallsport Leipzig,Paderborn,1,1,2020-06-06 13:30:00,,None
+363847,26,MissedShots,0.7140000152587891,0.7730000305175782,0.01073871087282896,Klaus Gjasula,a,7796,OpenPlay,2019,RightFoot,12665,RasenBallsport Leipzig,Paderborn,1,1,2020-06-06 13:30:00,Christopher Antwi-Adjei,Pass
+363850,31,MissedShots,0.8680000305175781,0.29100000381469726,0.04253927245736122,Kai Pröger,a,7795,OpenPlay,2019,RightFoot,12665,RasenBallsport Leipzig,Paderborn,1,1,2020-06-06 13:30:00,Christopher Antwi-Adjei,Pass
+363852,43,MissedShots,0.745,0.37099998474121093,0.015830373391509056,Sebastian Vasiliadis,a,7797,OpenPlay,2019,RightFoot,12665,RasenBallsport Leipzig,Paderborn,1,1,2020-06-06 13:30:00,,None
+363853,48,BlockedShot,0.81,0.7530000305175781,0.013355557806789875,Sebastian Vasiliadis,a,7797,FromCorner,2019,RightFoot,12665,RasenBallsport Leipzig,Paderborn,1,1,2020-06-06 13:30:00,,Aerial
+363854,50,SavedShot,0.7240000152587891,0.5179999923706055,0.014210612513124943,Sebastian Vasiliadis,a,7797,OpenPlay,2019,LeftFoot,12665,RasenBallsport Leipzig,Paderborn,1,1,2020-06-06 13:30:00,Christian Strohdiek,BallRecovery
+363855,51,BlockedShot,0.955,0.5790000152587891,0.0948706716299057,Dennis Srbeny,a,7822,FromCorner,2019,RightFoot,12665,RasenBallsport Leipzig,Paderborn,1,1,2020-06-06 13:30:00,Christopher Antwi-Adjei,Cross
+363858,69,MissedShots,0.865999984741211,0.38299999237060545,0.061794381588697433,Christopher Antwi-Adjei,a,7798,OpenPlay,2019,RightFoot,12665,RasenBallsport Leipzig,Paderborn,1,1,2020-06-06 13:30:00,Klaus Gjasula,Chipped
+363859,75,BlockedShot,0.9180000305175782,0.519000015258789,0.04572778940200806,Klaus Gjasula,a,7796,FromCorner,2019,Head,12665,RasenBallsport Leipzig,Paderborn,1,1,2020-06-06 13:30:00,Kai Pröger,Aerial
+363861,85,MissedShots,0.9159999847412109,0.655,0.10052604973316193,Christopher Antwi-Adjei,a,7798,OpenPlay,2019,RightFoot,12665,RasenBallsport Leipzig,Paderborn,1,1,2020-06-06 13:30:00,Marlon Ritter,Pass
+363862,86,MissedShots,0.8119999694824219,0.34,0.030802052468061447,Abdelhamid Sabiri,a,6296,OpenPlay,2019,RightFoot,12665,RasenBallsport Leipzig,Paderborn,1,1,2020-06-06 13:30:00,,None
+363864,89,MissedShots,0.88,0.56,0.07103005796670914,Ben Zolinski,a,7802,OpenPlay,2019,LeftFoot,12665,RasenBallsport Leipzig,Paderborn,1,1,2020-06-06 13:30:00,,BallTouch
+363865,91,SavedShot,0.81,0.6270000076293946,0.029050035402178764,Marlon Ritter,a,2702,FromCorner,2019,RightFoot,12665,RasenBallsport Leipzig,Paderborn,1,1,2020-06-06 13:30:00,Christopher Antwi-Adjei,Pass
+363866,91,Goal,0.9169999694824219,0.549000015258789,0.4476683437824249,Christian Strohdiek,a,4268,FromCorner,2019,LeftFoot,12665,RasenBallsport Leipzig,Paderborn,1,1,2020-06-06 13:30:00,,Rebound
+363867,93,SavedShot,0.884000015258789,0.5659999847412109,0.2757534086704254,Ben Zolinski,a,7802,OpenPlay,2019,Head,12665,RasenBallsport Leipzig,Paderborn,1,1,2020-06-06 13:30:00,Antony Evans,Chipped

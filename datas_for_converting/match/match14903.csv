@@ -1,0 +1,18 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+391811,5,MissedShots,0.7580000305175781,0.40299999237060546,0.01884937286376953,Luka Modric,h,2250,OpenPlay,2020,RightFoot,14903,Real Madrid,Atletico Madrid,2,0,2020-12-12 20:00:00,,None
+391812,9,SavedShot,0.835999984741211,0.3340000152587891,0.0442877896130085,Karim Benzema,h,2370,OpenPlay,2020,LeftFoot,14903,Real Madrid,Atletico Madrid,2,0,2020-12-12 20:00:00,Daniel Carvajal,Pass
+391813,10,MissedShots,0.945,0.600999984741211,0.08573129028081894,Karim Benzema,h,2370,OpenPlay,2020,LeftFoot,14903,Real Madrid,Atletico Madrid,2,0,2020-12-12 20:00:00,,None
+391814,14,Goal,0.9319999694824219,0.4570000076293945,0.11945303529500961,Casemiro,h,2248,FromCorner,2020,Head,14903,Real Madrid,Atletico Madrid,2,0,2020-12-12 20:00:00,Toni Kroos,Cross
+391815,29,BlockedShot,0.7219999694824218,0.534000015258789,0.022581495344638824,Toni Kroos,h,2369,OpenPlay,2020,RightFoot,14903,Real Madrid,Atletico Madrid,2,0,2020-12-12 20:00:00,Ferland Mendy,Pass
+391816,40,BlockedShot,0.8480000305175781,0.3060000038146973,0.04455035179853439,Luka Modric,h,2250,OpenPlay,2020,RightFoot,14903,Real Madrid,Atletico Madrid,2,0,2020-12-12 20:00:00,Lucas Vázquez,Pass
+391817,51,BlockedShot,0.815,0.475,0.1610163450241089,Sergio Ramos,h,2246,DirectFreekick,2020,RightFoot,14903,Real Madrid,Atletico Madrid,2,0,2020-12-12 20:00:00,,Standard
+391818,51,MissedShots,0.8140000152587891,0.6709999847412109,0.029446685686707497,Ferland Mendy,h,6233,FromCorner,2020,RightFoot,14903,Real Madrid,Atletico Madrid,2,0,2020-12-12 20:00:00,Toni Kroos,Pass
+391820,59,BlockedShot,0.86,0.7280000305175781,0.0410139225423336,Karim Benzema,h,2370,OpenPlay,2020,LeftFoot,14903,Real Madrid,Atletico Madrid,2,0,2020-12-12 20:00:00,Lucas Vázquez,Pass
+391821,62,BlockedShot,0.720999984741211,0.41200000762939454,0.010568495839834213,Daniel Carvajal,h,2260,SetPiece,2020,RightFoot,14903,Real Madrid,Atletico Madrid,2,0,2020-12-12 20:00:00,,None
+391827,89,SavedShot,0.8919999694824219,0.30200000762939455,0.07420091331005096,Lucas Vázquez,h,2253,OpenPlay,2020,RightFoot,14903,Real Madrid,Atletico Madrid,2,0,2020-12-12 20:00:00,Karim Benzema,Pass
+391819,54,MissedShots,0.9730000305175781,0.5929999923706055,0.3926117420196533,Thomas Lemar,a,3425,OpenPlay,2020,LeftFoot,14903,Real Madrid,Atletico Madrid,2,0,2020-12-12 20:00:00,Marcos Llorente,Pass
+391822,62,OwnGoal,0.024000000953674317,0.5509999847412109,0,Jan Oblak,a,2261,SetPiece,2020,OtherBodyPart,14903,Real Madrid,Atletico Madrid,2,0,2020-12-12 20:00:00,,Clearance
+391823,65,BlockedShot,0.785,0.3920000076293945,0.02689267508685589,Luis Suárez,a,2098,OpenPlay,2020,RightFoot,14903,Real Madrid,Atletico Madrid,2,0,2020-12-12 20:00:00,Ángel Correa,Pass
+391824,75,MissedShots,0.785,0.3089999961853027,0.014717057347297668,Saúl Ñíguez,a,2266,OpenPlay,2020,LeftFoot,14903,Real Madrid,Atletico Madrid,2,0,2020-12-12 20:00:00,,None
+391825,79,SavedShot,0.9280000305175782,0.43,0.2909892797470093,Saúl Ñíguez,a,2266,OpenPlay,2020,Head,14903,Real Madrid,Atletico Madrid,2,0,2020-12-12 20:00:00,Renan Lodi,Cross
+391826,82,MissedShots,0.840999984741211,0.649000015258789,0.05956461280584335,Thomas Lemar,a,3425,OpenPlay,2020,LeftFoot,14903,Real Madrid,Atletico Madrid,2,0,2020-12-12 20:00:00,,TakeOn

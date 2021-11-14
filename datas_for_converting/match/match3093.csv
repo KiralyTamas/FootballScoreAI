@@ -1,0 +1,25 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+152960,8,BlockedShot,0.7480000305175781,0.7519999694824219,0.014360612258315086,Cristiano Biraghi,h,1164,OpenPlay,2016,LeftFoot,3093,Pescara,Bologna,0,3,2016-12-18 18:00:00,Gastón Brugman,Pass
+152967,38,MissedShots,0.725,0.435,0.01884363777935505,Ledian Memushaj,h,1169,OpenPlay,2016,RightFoot,3093,Pescara,Bologna,0,3,2016-12-18 18:00:00,Gianluca Caprari,Pass
+152969,51,BlockedShot,0.7959999847412109,0.710999984741211,0.01281714253127575,Gianluca Caprari,h,1170,OpenPlay,2016,RightFoot,3093,Pescara,Bologna,0,3,2016-12-18 18:00:00,,None
+152973,68,MissedShots,0.7330000305175781,0.40900001525878904,0.0494561642408371,Cristiano Biraghi,h,1164,DirectFreekick,2016,LeftFoot,3093,Pescara,Bologna,0,3,2016-12-18 18:00:00,,Standard
+152974,72,MissedShots,0.775,0.6509999847412109,0.014537239447236061,Ledian Memushaj,h,1169,OpenPlay,2016,RightFoot,3093,Pescara,Bologna,0,3,2016-12-18 18:00:00,,None
+152981,88,SavedShot,0.9380000305175781,0.66,0.12123694270849228,Stefano Pettinari,h,1177,OpenPlay,2016,LeftFoot,3093,Pescara,Bologna,0,3,2016-12-18 18:00:00,Gianluca Caprari,TakeOn
+152982,91,MissedShots,0.919000015258789,0.33599998474121096,0.032808057963848114,Francesco Zampano,h,1161,OpenPlay,2016,RightFoot,3093,Pescara,Bologna,0,3,2016-12-18 18:00:00,Alessandro Crescenzi,Cross
+152959,6,Goal,0.9219999694824219,0.46799999237060547,0.26545459032058716,Adam Masina,a,1441,FromCorner,2016,Head,3093,Pescara,Bologna,0,3,2016-12-18 18:00:00,Federico Viviani,Cross
+152961,11,MissedShots,0.9290000152587891,0.500999984741211,0.41820695996284485,Vasilis Torosidis,a,1438,SetPiece,2016,Head,3093,Pescara,Bologna,0,3,2016-12-18 18:00:00,Federico Viviani,Cross
+152962,24,BlockedShot,0.8130000305175781,0.495,0.03769968822598457,Blerim Dzemaili,a,1444,FromCorner,2016,RightFoot,3093,Pescara,Bologna,0,3,2016-12-18 18:00:00,,None
+152963,24,SavedShot,0.8090000152587891,0.5179999923706055,0.04693596437573433,Blerim Dzemaili,a,1444,FromCorner,2016,LeftFoot,3093,Pescara,Bologna,0,3,2016-12-18 18:00:00,,Rebound
+152964,25,SavedShot,0.7340000152587891,0.654000015258789,0.018514754250645638,Adam Masina,a,1441,OpenPlay,2016,LeftFoot,3093,Pescara,Bologna,0,3,2016-12-18 18:00:00,,None
+152965,28,BlockedShot,0.885,0.3240000152587891,0.07619315385818481,Vasilis Torosidis,a,1438,OpenPlay,2016,LeftFoot,3093,Pescara,Bologna,0,3,2016-12-18 18:00:00,Anthony Mounier,Pass
+152966,38,MissedShots,0.7909999847412109,0.5109999847412109,0.05456256493926048,Mattia Destro,a,1580,OpenPlay,2016,LeftFoot,3093,Pescara,Bologna,0,3,2016-12-18 18:00:00,Blerim Dzemaili,None
+152968,40,Goal,0.7919999694824219,0.615,0.039790015667676926,Blerim Dzemaili,a,1444,OpenPlay,2016,LeftFoot,3093,Pescara,Bologna,0,3,2016-12-18 18:00:00,Daniele Gastaldello,Pass
+152970,52,SavedShot,0.6969999694824218,0.6,0.014139361679553986,Federico Viviani,a,1456,OpenPlay,2016,RightFoot,3093,Pescara,Bologna,0,3,2016-12-18 18:00:00,Adam Masina,Pass
+152971,56,Goal,0.885,0.5,0.7612589001655579,Ladislav Krejci,a,1447,Penalty,2016,LeftFoot,3093,Pescara,Bologna,0,3,2016-12-18 18:00:00,,Standard
+152972,63,MissedShots,0.9259999847412109,0.534000015258789,0.13361750543117523,Adam Masina,a,1441,OpenPlay,2016,Head,3093,Pescara,Bologna,0,3,2016-12-18 18:00:00,Ladislav Krejci,Cross
+152975,74,SavedShot,0.9319999694824219,0.5629999923706055,0.5727419853210449,Ladislav Krejci,a,1447,OpenPlay,2016,LeftFoot,3093,Pescara,Bologna,0,3,2016-12-18 18:00:00,,None
+152976,74,BlockedShot,0.9319999694824219,0.5609999847412109,0.14575445652008057,Ladislav Krejci,a,1447,OpenPlay,2016,LeftFoot,3093,Pescara,Bologna,0,3,2016-12-18 18:00:00,,Rebound
+152977,75,SavedShot,0.779000015258789,0.68,0.022347278892993927,Federico Viviani,a,1456,OpenPlay,2016,RightFoot,3093,Pescara,Bologna,0,3,2016-12-18 18:00:00,Ádám Nagy,Pass
+152978,75,MissedShots,0.9530000305175781,0.5479999923706055,0.0695262998342514,Anthony Mounier,a,1451,FromCorner,2016,Head,3093,Pescara,Bologna,0,3,2016-12-18 18:00:00,Federico Viviani,Aerial
+152979,77,MissedShots,0.9440000152587891,0.544000015258789,0.14303769171237946,Mattia Destro,a,1580,OpenPlay,2016,RightFoot,3093,Pescara,Bologna,0,3,2016-12-18 18:00:00,Ladislav Krejci,Cross
+152980,83,MissedShots,0.93,0.5279999923706055,0.41379597783088684,Daniele Gastaldello,a,1579,SetPiece,2016,Head,3093,Pescara,Bologna,0,3,2016-12-18 18:00:00,Federico Viviani,Cross

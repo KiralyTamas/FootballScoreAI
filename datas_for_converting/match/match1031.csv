@@ -1,0 +1,30 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+76473,0,Goal,0.845,0.545,0.34550368785858154,Kevin Volland,h,83,OpenPlay,2015,LeftFoot,1031,Hoffenheim,Bayern Munich,1,2,2015-08-22 17:30:00,,Start
+76477,14,MissedShots,0.9719999694824218,0.610999984741211,0.03205907717347145,Fabian Schär,h,76,FromCorner,2015,Head,1031,Hoffenheim,Bayern Munich,1,2,2015-08-22 17:30:00,Jonathan Schmid,Cross
+76484,46,BlockedShot,0.8019999694824219,0.69,0.026731105521321297,Kevin Volland,h,83,OpenPlay,2015,LeftFoot,1031,Hoffenheim,Bayern Munich,1,2,2015-08-22 17:30:00,Jonathan Schmid,Pass
+76485,47,BlockedShot,0.8280000305175781,0.48700000762939455,0.04278842359781265,Steven Zuber,h,254,SetPiece,2015,LeftFoot,1031,Hoffenheim,Bayern Munich,1,2,2015-08-22 17:30:00,Kevin Volland,Pass
+76492,71,BlockedShot,0.764000015258789,0.66,0.060406140983104706,Sebastian Rudy,h,90,DirectFreekick,2015,RightFoot,1031,Hoffenheim,Bayern Munich,1,2,2015-08-22 17:30:00,,Standard
+76493,73,ShotOnPost,0.885,0.5,0.75777667760849,Eugen Polanski,h,86,Penalty,2015,RightFoot,1031,Hoffenheim,Bayern Munich,1,2,2015-08-22 17:30:00,,Standard
+76495,78,MissedShots,0.914000015258789,0.6140000152587891,0.012122013606131077,Fabian Schär,h,76,SetPiece,2015,Head,1031,Hoffenheim,Bayern Munich,1,2,2015-08-22 17:30:00,Pirmin Schwegler,Aerial
+76496,79,MissedShots,0.7430000305175781,0.385,0.0221401434391737,Mark Uth,h,88,OpenPlay,2015,LeftFoot,1031,Hoffenheim,Bayern Munich,1,2,2015-08-22 17:30:00,Fabian Schär,Pass
+76474,9,SavedShot,0.879000015258789,0.6659999847412109,0.048212096095085144,Douglas Costa,a,393,OpenPlay,2015,LeftFoot,1031,Hoffenheim,Bayern Munich,1,2,2015-08-22 17:30:00,Thomas Müller,Pass
+76475,11,BlockedShot,0.784000015258789,0.46700000762939453,0.03548576310276985,Arjen Robben,a,392,OpenPlay,2015,LeftFoot,1031,Hoffenheim,Bayern Munich,1,2,2015-08-22 17:30:00,Jérôme Boateng,Chipped
+76476,12,MissedShots,0.909000015258789,0.7419999694824219,0.03557542338967323,Douglas Costa,a,393,OpenPlay,2015,LeftFoot,1031,Hoffenheim,Bayern Munich,1,2,2015-08-22 17:30:00,Thomas Müller,Pass
+76478,32,SavedShot,0.8730000305175781,0.47,0.04545845836400986,Thomas Müller,a,224,OpenPlay,2015,RightFoot,1031,Hoffenheim,Bayern Munich,1,2,2015-08-22 17:30:00,Philipp Lahm,Aerial
+76479,33,ShotOnPost,0.9519999694824218,0.22700000762939454,0.045910775661468506,Thomas Müller,a,224,OpenPlay,2015,RightFoot,1031,Hoffenheim,Bayern Munich,1,2,2015-08-22 17:30:00,,TakeOn
+76480,39,BlockedShot,0.845,0.4759999847412109,0.07972516864538193,Douglas Costa,a,393,OpenPlay,2015,LeftFoot,1031,Hoffenheim,Bayern Munich,1,2,2015-08-22 17:30:00,Thomas Müller,Pass
+76481,40,SavedShot,0.884000015258789,0.7169999694824218,0.03505308926105499,Douglas Costa,a,393,OpenPlay,2015,LeftFoot,1031,Hoffenheim,Bayern Munich,1,2,2015-08-22 17:30:00,Xabi Alonso,Chipped
+76482,40,Goal,0.9440000152587891,0.45,0.5598430037498474,Thomas Müller,a,224,OpenPlay,2015,RightFoot,1031,Hoffenheim,Bayern Munich,1,2,2015-08-22 17:30:00,,Rebound
+76483,44,MissedShots,0.919000015258789,0.27299999237060546,0.03539612889289856,Arjen Robben,a,392,OpenPlay,2015,RightFoot,1031,Hoffenheim,Bayern Munich,1,2,2015-08-22 17:30:00,Philipp Lahm,Pass
+76486,49,BlockedShot,0.7759999847412109,0.610999984741211,0.08016704767942429,David Alaba,a,391,DirectFreekick,2015,LeftFoot,1031,Hoffenheim,Bayern Munich,1,2,2015-08-22 17:30:00,,Standard
+76487,51,MissedShots,0.8969999694824219,0.6840000152587891,0.05368991196155548,Douglas Costa,a,393,OpenPlay,2015,LeftFoot,1031,Hoffenheim,Bayern Munich,1,2,2015-08-22 17:30:00,,None
+76488,65,ShotOnPost,0.8059999847412109,0.47200000762939454,0.06089620664715767,Arturo Vidal,a,222,OpenPlay,2015,RightFoot,1031,Hoffenheim,Bayern Munich,1,2,2015-08-22 17:30:00,Thomas Müller,LayOff
+76489,67,SavedShot,0.8019999694824219,0.3029999923706055,0.02605791576206684,Thomas Müller,a,224,OpenPlay,2015,RightFoot,1031,Hoffenheim,Bayern Munich,1,2,2015-08-22 17:30:00,Arturo Vidal,Pass
+76490,68,SavedShot,0.879000015258789,0.4620000076293945,0.11736256629228592,Robert Lewandowski,a,227,OpenPlay,2015,RightFoot,1031,Hoffenheim,Bayern Munich,1,2,2015-08-22 17:30:00,Mario Götze,Pass
+76491,69,MissedShots,0.8680000305175781,0.5259999847412109,0.11111694574356079,Thomas Müller,a,224,OpenPlay,2015,RightFoot,1031,Hoffenheim,Bayern Munich,1,2,2015-08-22 17:30:00,Douglas Costa,Pass
+76494,76,MissedShots,0.9230000305175782,0.5,0.06841933727264404,Thomas Müller,a,224,SetPiece,2015,Head,1031,Hoffenheim,Bayern Munich,1,2,2015-08-22 17:30:00,Xabi Alonso,Aerial
+76497,80,BlockedShot,0.8109999847412109,0.5209999847412109,0.05748942494392395,Robert Lewandowski,a,227,OpenPlay,2015,RightFoot,1031,Hoffenheim,Bayern Munich,1,2,2015-08-22 17:30:00,Mario Götze,Pass
+76498,87,SavedShot,0.879000015258789,0.6229999923706054,0.2859632968902588,Robert Lewandowski,a,227,OpenPlay,2015,LeftFoot,1031,Hoffenheim,Bayern Munich,1,2,2015-08-22 17:30:00,Mario Götze,Pass
+76499,87,SavedShot,0.9530000305175781,0.59,0.17902232706546783,Robert Lewandowski,a,227,FromCorner,2015,Head,1031,Hoffenheim,Bayern Munich,1,2,2015-08-22 17:30:00,Thomas Müller,Rebound
+76500,87,ShotOnPost,0.9669999694824218,0.47200000762939454,0.14286497235298157,Thomas Müller,a,224,FromCorner,2015,Head,1031,Hoffenheim,Bayern Munich,1,2,2015-08-22 17:30:00,Arturo Vidal,Chipped
+76501,89,Goal,0.9119999694824219,0.5179999923706055,0.5029916763305664,Robert Lewandowski,a,227,OpenPlay,2015,RightFoot,1031,Hoffenheim,Bayern Munich,1,2,2015-08-22 17:30:00,Mario Götze,Pass

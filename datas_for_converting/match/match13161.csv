@@ -1,0 +1,33 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+326024,1,MissedShots,0.7440000152587891,0.7230000305175781,0.015995239838957787,Cristiano Ronaldo,h,2371,OpenPlay,2019,LeftFoot,13161,Juventus,Bologna,2,1,2019-10-19 19:45:00,Leonardo Bonucci,Pass
+326025,6,BlockedShot,0.784000015258789,0.715,0.021497592329978943,Cristiano Ronaldo,h,2371,OpenPlay,2019,RightFoot,13161,Juventus,Bologna,2,1,2019-10-19 19:45:00,Adrien Rabiot,Pass
+326027,9,BlockedShot,0.955999984741211,0.524000015258789,0.13327938318252563,Gonzalo Higuaín,h,1293,FromCorner,2019,Head,13161,Juventus,Bologna,2,1,2019-10-19 19:45:00,Miralem Pjanic,Cross
+326028,13,BlockedShot,0.95,0.7030000305175781,0.05445334315299988,Adrien Rabiot,h,3291,OpenPlay,2019,LeftFoot,13161,Juventus,Bologna,2,1,2019-10-19 19:45:00,Cristiano Ronaldo,Pass
+326029,14,SavedShot,0.7930000305175782,0.3039999961853027,0.020936455577611923,Gonzalo Higuaín,h,1293,OpenPlay,2019,RightFoot,13161,Juventus,Bologna,2,1,2019-10-19 19:45:00,,None
+326030,16,BlockedShot,0.8969999694824219,0.31799999237060544,0.034871358424425125,Sami Khedira,h,1292,OpenPlay,2019,RightFoot,13161,Juventus,Bologna,2,1,2019-10-19 19:45:00,Cristiano Ronaldo,Cross
+326031,16,MissedShots,0.8440000152587891,0.285,0.028204772621393204,Sami Khedira,h,1292,OpenPlay,2019,LeftFoot,13161,Juventus,Bologna,2,1,2019-10-19 19:45:00,Juan Cuadrado,Pass
+326032,18,Goal,0.8959999847412109,0.3320000076293945,0.06915157288312912,Cristiano Ronaldo,h,2371,OpenPlay,2019,RightFoot,13161,Juventus,Bologna,2,1,2019-10-19 19:45:00,,TakeOn
+326036,31,SavedShot,0.8630000305175781,0.700999984741211,0.043656401336193085,Alex Sandro,h,1289,OpenPlay,2019,LeftFoot,13161,Juventus,Bologna,2,1,2019-10-19 19:45:00,Federico Bernardeschi,Pass
+326038,41,MissedShots,0.8109999847412109,0.720999984741211,0.06671352684497833,Miralem Pjanic,h,1290,DirectFreekick,2019,RightFoot,13161,Juventus,Bologna,2,1,2019-10-19 19:45:00,,Standard
+326039,46,BlockedShot,0.799000015258789,0.37900001525878907,0.035648249089717865,Gonzalo Higuaín,h,1293,OpenPlay,2019,RightFoot,13161,Juventus,Bologna,2,1,2019-10-19 19:45:00,Federico Bernardeschi,Pass
+326040,48,MissedShots,0.855,0.455,0.055618513375520706,Sami Khedira,h,1292,FromCorner,2019,RightFoot,13161,Juventus,Bologna,2,1,2019-10-19 19:45:00,Juan Cuadrado,Pass
+326041,50,BlockedShot,0.8430000305175781,0.775,0.019293824210762978,Federico Bernardeschi,h,1424,OpenPlay,2019,LeftFoot,13161,Juventus,Bologna,2,1,2019-10-19 19:45:00,Adrien Rabiot,Pass
+326042,52,SavedShot,0.9130000305175782,0.5379999923706055,0.030175941064953804,Cristiano Ronaldo,h,2371,FromCorner,2019,Head,13161,Juventus,Bologna,2,1,2019-10-19 19:45:00,Federico Bernardeschi,Aerial
+326043,52,BlockedShot,0.7769999694824219,0.575999984741211,0.031310904771089554,Miralem Pjanic,h,1290,OpenPlay,2019,RightFoot,13161,Juventus,Bologna,2,1,2019-10-19 19:45:00,Federico Bernardeschi,BallTouch
+326044,53,BlockedShot,0.8719999694824219,0.5320000076293945,0.09398617595434189,Cristiano Ronaldo,h,2371,OpenPlay,2019,LeftFoot,13161,Juventus,Bologna,2,1,2019-10-19 19:45:00,,BallRecovery
+326045,53,Goal,0.8630000305175781,0.6530000305175782,0.04480260983109474,Miralem Pjanic,h,1290,OpenPlay,2019,RightFoot,13161,Juventus,Bologna,2,1,2019-10-19 19:45:00,,Rebound
+326046,58,SavedShot,0.9069999694824219,0.305,0.06096488609910011,Sami Khedira,h,1292,OpenPlay,2019,RightFoot,13161,Juventus,Bologna,2,1,2019-10-19 19:45:00,Gonzalo Higuaín,Chipped
+326048,63,SavedShot,0.865999984741211,0.634000015258789,0.08877131342887878,Gonzalo Higuaín,h,1293,OpenPlay,2019,LeftFoot,13161,Juventus,Bologna,2,1,2019-10-19 19:45:00,Alex Sandro,Pass
+326049,74,SavedShot,0.9619999694824218,0.47,0.6961256861686707,Gonzalo Higuaín,h,1293,OpenPlay,2019,RightFoot,13161,Juventus,Bologna,2,1,2019-10-19 19:45:00,Cristiano Ronaldo,Pass
+326050,74,BlockedShot,0.8780000305175781,0.46599998474121096,0.1141125038266182,Federico Bernardeschi,h,1424,OpenPlay,2019,LeftFoot,13161,Juventus,Bologna,2,1,2019-10-19 19:45:00,,Rebound
+326051,75,SavedShot,0.775,0.629000015258789,0.031816765666007996,Federico Bernardeschi,h,1424,OpenPlay,2019,LeftFoot,13161,Juventus,Bologna,2,1,2019-10-19 19:45:00,Juan Cuadrado,Pass
+326052,80,SavedShot,0.88,0.534000015258789,0.1495901495218277,Cristiano Ronaldo,h,2371,OpenPlay,2019,LeftFoot,13161,Juventus,Bologna,2,1,2019-10-19 19:45:00,Gonzalo Higuaín,Pass
+326026,8,BlockedShot,0.764000015258789,0.3970000076293945,0.021216727793216705,Nicola Sansone,a,1826,OpenPlay,2019,RightFoot,13161,Juventus,Bologna,2,1,2019-10-19 19:45:00,,None
+326033,20,MissedShots,0.93,0.534000015258789,0.09578056633472443,Nicola Sansone,a,1826,OpenPlay,2019,RightFoot,13161,Juventus,Bologna,2,1,2019-10-19 19:45:00,,None
+326034,25,Goal,0.865999984741211,0.6409999847412109,0.0506712831556797,Danilo,a,1140,OpenPlay,2019,RightFoot,13161,Juventus,Bologna,2,1,2019-10-19 19:45:00,Ibrahima Mbaye,BallTouch
+326035,29,MissedShots,0.8119999694824219,0.225,0.05082254484295845,Riccardo Orsolini,a,6160,DirectFreekick,2019,LeftFoot,13161,Juventus,Bologna,2,1,2019-10-19 19:45:00,,Standard
+326037,38,BlockedShot,0.86,0.435,0.09264106303453445,Riccardo Orsolini,a,6160,OpenPlay,2019,LeftFoot,13161,Juventus,Bologna,2,1,2019-10-19 19:45:00,Rodrigo Palacio,Cross
+326047,60,MissedShots,0.7769999694824219,0.7080000305175781,0.017492981627583504,Mattias Svanberg,a,6974,OpenPlay,2019,RightFoot,13161,Juventus,Bologna,2,1,2019-10-19 19:45:00,Rodrigo Palacio,Pass
+326053,82,BlockedShot,0.7619999694824219,0.515,0.02269410341978073,Rodrigo Palacio,a,1518,OpenPlay,2019,RightFoot,13161,Juventus,Bologna,2,1,2019-10-19 19:45:00,Andreas Skov Olsen,BallRecovery
+326054,93,ShotOnPost,0.95,0.49700000762939456,0.5210710763931274,Federico Santander,a,6972,SetPiece,2019,Head,13161,Juventus,Bologna,2,1,2019-10-19 19:45:00,Riccardo Orsolini,Cross
+326055,93,SavedShot,0.9080000305175782,0.5020000076293946,0.08689511567354202,Federico Santander,a,6972,SetPiece,2019,RightFoot,13161,Juventus,Bologna,2,1,2019-10-19 19:45:00,,None

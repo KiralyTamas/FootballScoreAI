@@ -1,0 +1,30 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+280363,11,ShotOnPost,0.884000015258789,0.5640000152587891,0.07964617758989334,Jorge Pulido,h,6950,OpenPlay,2018,RightFoot,10147,SD Huesca,Atletico Madrid,0,3,2019-01-19 17:30:00,,None
+280365,15,SavedShot,0.874000015258789,0.4179999923706055,0.5131996273994446,Juan Camilo Hernández,h,6954,OpenPlay,2018,RightFoot,10147,SD Huesca,Atletico Madrid,0,3,2019-01-19 17:30:00,Enric Gallego,HeadPass
+280371,32,SavedShot,0.8919999694824219,0.4209999847412109,0.048213571310043335,Juan Camilo Hernández,h,6954,OpenPlay,2018,Head,10147,SD Huesca,Atletico Madrid,0,3,2019-01-19 17:30:00,Jorge Miramón,Cross
+280372,36,MissedShots,0.7709999847412109,0.555,0.03996995836496353,Cristian Rivera,h,5076,OpenPlay,2018,RightFoot,10147,SD Huesca,Atletico Madrid,0,3,2019-01-19 17:30:00,Moi Gómez,LayOff
+280373,38,BlockedShot,0.8819999694824219,0.46,0.07372138649225235,Juan Camilo Hernández,h,6954,SetPiece,2018,LeftFoot,10147,SD Huesca,Atletico Madrid,0,3,2019-01-19 17:30:00,Damián Musto,None
+280374,40,MissedShots,0.9530000305175781,0.555,0.0632174089550972,Enric Gallego,h,7349,OpenPlay,2018,Head,10147,SD Huesca,Atletico Madrid,0,3,2019-01-19 17:30:00,Juan Camilo Hernández,Aerial
+280380,57,BlockedShot,0.909000015258789,0.6179999923706054,0.08303879201412201,Juan Camilo Hernández,h,6954,FromCorner,2018,RightFoot,10147,SD Huesca,Atletico Madrid,0,3,2019-01-19 17:30:00,,TakeOn
+280381,57,BlockedShot,0.91,0.5220000076293946,0.09289280325174332,Etxeita,h,2394,FromCorner,2018,LeftFoot,10147,SD Huesca,Atletico Madrid,0,3,2019-01-19 17:30:00,Juan Camilo Hernández,BallTouch
+280382,57,BlockedShot,0.8519999694824218,0.48200000762939454,0.07853086292743683,Moi Gómez,h,2198,FromCorner,2018,RightFoot,10147,SD Huesca,Atletico Madrid,0,3,2019-01-19 17:30:00,,Rebound
+280383,58,SavedShot,0.8230000305175781,0.52,0.028483206406235695,Ezequiel Ávila,h,6955,FromCorner,2018,Head,10147,SD Huesca,Atletico Madrid,0,3,2019-01-19 17:30:00,,None
+280386,73,MissedShots,0.769000015258789,0.4909999847412109,0.020345663651823997,Álex Gallar,h,6951,SetPiece,2018,LeftFoot,10147,SD Huesca,Atletico Madrid,0,3,2019-01-19 17:30:00,,None
+280387,73,MissedShots,0.9159999847412109,0.615999984741211,0.013601367361843586,Jorge Pulido,h,6950,SetPiece,2018,Head,10147,SD Huesca,Atletico Madrid,0,3,2019-01-19 17:30:00,Álex Gallar,Rebound
+280388,78,MissedShots,0.9330000305175781,0.38,0.014803755097091198,Etxeita,h,2394,FromCorner,2018,Head,10147,SD Huesca,Atletico Madrid,0,3,2019-01-19 17:30:00,Álex Gallar,Aerial
+280390,87,MissedShots,0.8219999694824218,0.29399999618530276,0.08806854486465454,Álex Gallar,h,6951,DirectFreekick,2018,LeftFoot,10147,SD Huesca,Atletico Madrid,0,3,2019-01-19 17:30:00,,Standard
+280364,15,BlockedShot,0.870999984741211,0.385,0.07948248088359833,Antoine Griezmann,a,2270,OpenPlay,2018,RightFoot,10147,SD Huesca,Atletico Madrid,0,3,2019-01-19 17:30:00,Thomas Lemar,Pass
+280366,16,SavedShot,0.85,0.25299999237060544,0.026756543666124344,Ángel Correa,a,2275,OpenPlay,2018,RightFoot,10147,SD Huesca,Atletico Madrid,0,3,2019-01-19 17:30:00,Thomas Lemar,Pass
+280367,18,SavedShot,0.9259999847412109,0.435,0.4714476764202118,Thomas Lemar,a,3425,OpenPlay,2018,LeftFoot,10147,SD Huesca,Atletico Madrid,0,3,2019-01-19 17:30:00,Ángel Correa,Throughball
+280368,25,MissedShots,0.799000015258789,0.6329999923706054,0.10012524574995041,Antoine Griezmann,a,2270,DirectFreekick,2018,LeftFoot,10147,SD Huesca,Atletico Madrid,0,3,2019-01-19 17:30:00,,Standard
+280369,28,MissedShots,0.8109999847412109,0.39599998474121095,0.04922405257821083,Rodri,a,2496,OpenPlay,2018,RightFoot,10147,SD Huesca,Atletico Madrid,0,3,2019-01-19 17:30:00,,Dispossessed
+280370,30,Goal,0.9540000152587891,0.555,0.5721634030342102,Lucas Hernández,a,2276,OpenPlay,2018,RightFoot,10147,SD Huesca,Atletico Madrid,0,3,2019-01-19 17:30:00,,None
+280375,44,BlockedShot,0.8430000305175781,0.305,0.03684593364596367,Ángel Correa,a,2275,FromCorner,2018,LeftFoot,10147,SD Huesca,Atletico Madrid,0,3,2019-01-19 17:30:00,Thomas Lemar,Pass
+280376,48,SavedShot,0.885,0.39,0.38206228613853455,Ángel Correa,a,2275,OpenPlay,2018,RightFoot,10147,SD Huesca,Atletico Madrid,0,3,2019-01-19 17:30:00,Santiago Arias,Pass
+280377,51,Goal,0.925,0.32799999237060545,0.0726386234164238,Santiago Arias,a,7113,OpenPlay,2018,RightFoot,10147,SD Huesca,Atletico Madrid,0,3,2019-01-19 17:30:00,Antoine Griezmann,Chipped
+280378,54,SavedShot,0.9459999847412109,0.6580000305175782,0.09860019385814667,Thomas Lemar,a,3425,OpenPlay,2018,LeftFoot,10147,SD Huesca,Atletico Madrid,0,3,2019-01-19 17:30:00,Antoine Griezmann,Pass
+280379,55,SavedShot,0.9309999847412109,0.40700000762939453,0.12738041579723358,Thomas Partey,a,2328,OpenPlay,2018,RightFoot,10147,SD Huesca,Atletico Madrid,0,3,2019-01-19 17:30:00,Antoine Griezmann,Pass
+280384,70,ShotOnPost,0.9319999694824219,0.5709999847412109,0.04984618350863457,Antoine Griezmann,a,2270,OpenPlay,2018,Head,10147,SD Huesca,Atletico Madrid,0,3,2019-01-19 17:30:00,Lucas Hernández,Aerial
+280385,70,Goal,0.96,0.4229999923706055,0.5693391561508179,Koke,a,2269,OpenPlay,2018,RightFoot,10147,SD Huesca,Atletico Madrid,0,3,2019-01-19 17:30:00,,Rebound
+280389,84,BlockedShot,0.8969999694824219,0.3509999847412109,0.08617143332958221,Victor Mollejo,a,7351,OpenPlay,2018,LeftFoot,10147,SD Huesca,Atletico Madrid,0,3,2019-01-19 17:30:00,Ángel Correa,Pass
+280391,92,BlockedShot,0.8569999694824219,0.24299999237060546,0.04666367918252945,Antoine Griezmann,a,2270,OpenPlay,2018,LeftFoot,10147,SD Huesca,Atletico Madrid,0,3,2019-01-19 17:30:00,Ángel Correa,Pass

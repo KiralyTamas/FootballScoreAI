@@ -1,0 +1,22 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+39451,10,MissedShots,0.8780000305175781,0.605999984741211,0.012456282041966915,Roberto Trashorras,h,2162,FromCorner,2014,Head,5540,Rayo Vallecano,Almeria,2,0,2015-04-19 11:00:00,Gaël Kakuta,Aerial
+39452,12,SavedShot,0.7330000305175781,0.7119999694824218,0.010002229362726212,Adrián Embarba,h,2166,OpenPlay,2014,RightFoot,5540,Rayo Vallecano,Almeria,2,0,2015-04-19 11:00:00,Roberto Trashorras,Chipped
+39453,15,BlockedShot,0.8969999694824219,0.56,0.052477166056632996,Manucho,h,2171,FromCorner,2014,Head,5540,Rayo Vallecano,Almeria,2,0,2015-04-19 11:00:00,Roberto Trashorras,Cross
+39454,19,SavedShot,0.8859999847412109,0.385,0.10091434419155121,Roberto Trashorras,h,2162,OpenPlay,2014,RightFoot,5540,Rayo Vallecano,Almeria,2,0,2015-04-19 11:00:00,Adrián Embarba,TakeOn
+39455,22,Goal,0.9469999694824218,0.62,0.04620983824133873,Antonio Amaya,h,2160,FromCorner,2014,Head,5540,Rayo Vallecano,Almeria,2,0,2015-04-19 11:00:00,Zé Castro,Cross
+39457,35,MissedShots,0.9630000305175781,0.40599998474121096,0.055486056953668594,Manucho,h,2171,OpenPlay,2014,Head,5540,Rayo Vallecano,Almeria,2,0,2015-04-19 11:00:00,Adrián Embarba,Aerial
+39461,52,SavedShot,0.785,0.5990000152587891,0.036117419600486755,Alberto Bueno,h,4119,OpenPlay,2014,RightFoot,5540,Rayo Vallecano,Almeria,2,0,2015-04-19 11:00:00,Roberto Trashorras,Pass
+39463,58,SavedShot,0.9259999847412109,0.5920000076293945,0.05838983505964279,Adrián Embarba,h,2166,SetPiece,2014,LeftFoot,5540,Rayo Vallecano,Almeria,2,0,2015-04-19 11:00:00,,Aerial
+39464,58,BlockedShot,0.9319999694824219,0.534000015258789,0.1252598762512207,Alberto Bueno,h,4119,SetPiece,2014,RightFoot,5540,Rayo Vallecano,Almeria,2,0,2015-04-19 11:00:00,,Rebound
+39467,82,SavedShot,0.92,0.6329999923706054,0.5547634959220886,Manucho,h,2171,OpenPlay,2014,LeftFoot,5540,Rayo Vallecano,Almeria,2,0,2015-04-19 11:00:00,Álex Pozuelo,Throughball
+39468,86,BlockedShot,0.9790000152587891,0.3240000152587891,0.5424647331237793,Álex Pozuelo,h,4127,OpenPlay,2014,LeftFoot,5540,Rayo Vallecano,Almeria,2,0,2015-04-19 11:00:00,Miku,TakeOn
+39469,88,MissedShots,0.8569999694824219,0.35,0.07632729411125183,Gaël Kakuta,h,2549,OpenPlay,2014,LeftFoot,5540,Rayo Vallecano,Almeria,2,0,2015-04-19 11:00:00,Tito,BallRecovery
+39470,89,Goal,0.98,0.500999984741211,0.9646852016448975,Miku,h,2170,OpenPlay,2014,RightFoot,5540,Rayo Vallecano,Almeria,2,0,2015-04-19 11:00:00,Gaël Kakuta,Pass
+39450,9,MissedShots,0.8480000305175781,0.32599998474121095,0.03306547924876213,Thomas Partey,a,2328,FromCorner,2014,RightFoot,5540,Rayo Vallecano,Almeria,2,0,2015-04-19 11:00:00,,None
+39456,26,SavedShot,0.710999984741211,0.21700000762939453,0.011913872323930264,Ximo Navarro,a,4052,OpenPlay,2014,RightFoot,5540,Rayo Vallecano,Almeria,2,0,2015-04-19 11:00:00,Corona,Pass
+39458,41,BlockedShot,0.664000015258789,0.4229999923706055,0.014757816679775715,Ximo Navarro,a,4052,SetPiece,2014,RightFoot,5540,Rayo Vallecano,Almeria,2,0,2015-04-19 11:00:00,Corona,Pass
+39459,48,BlockedShot,0.8369999694824218,0.34200000762939453,0.04119576886296272,Thomas Partey,a,2328,OpenPlay,2014,RightFoot,5540,Rayo Vallecano,Almeria,2,0,2015-04-19 11:00:00,,None
+39460,49,BlockedShot,0.8880000305175781,0.54,0.04889697954058647,Mauro Dos Santos,a,2126,FromCorner,2014,Head,5540,Rayo Vallecano,Almeria,2,0,2015-04-19 11:00:00,Corona,Cross
+39462,53,SavedShot,0.88,0.664000015258789,0.04051563888788223,Thievy,a,2554,FromCorner,2014,LeftFoot,5540,Rayo Vallecano,Almeria,2,0,2015-04-19 11:00:00,,BallTouch
+39465,69,BlockedShot,0.8619999694824219,0.5359999847412109,0.08838483691215515,Thievy,a,2554,OpenPlay,2014,LeftFoot,5540,Rayo Vallecano,Almeria,2,0,2015-04-19 11:00:00,Jonathan,Pass
+39466,72,SavedShot,0.894000015258789,0.4979999923706055,0.09411320090293884,Jonathan,a,4050,SetPiece,2014,Head,5540,Rayo Vallecano,Almeria,2,0,2015-04-19 11:00:00,Corona,Cross

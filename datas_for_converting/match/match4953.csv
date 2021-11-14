@@ -1,0 +1,25 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+47953,7,BlockedShot,0.785,0.6329999923706054,0.028711877763271332,Manolo Gabbiadini,h,1383,OpenPlay,2014,LeftFoot,4953,Napoli,Sassuolo,2,0,2015-02-23 18:00:00,Walter Gargano,Pass
+47956,14,MissedShots,0.7780000305175782,0.38,0.0343017503619194,Duván Zapata,h,1148,OpenPlay,2014,RightFoot,4953,Napoli,Sassuolo,2,0,2015-02-23 18:00:00,Walter Gargano,TakeOn
+47958,19,SavedShot,0.885,0.3120000076293945,0.0693763718008995,Marek Hamsik,h,1381,OpenPlay,2014,RightFoot,4953,Napoli,Sassuolo,2,0,2015-02-23 18:00:00,Manolo Gabbiadini,TakeOn
+47959,23,MissedShots,0.8959999847412109,0.5259999847412109,0.04168049246072769,Duván Zapata,h,1148,OpenPlay,2014,Head,4953,Napoli,Sassuolo,2,0,2015-02-23 18:00:00,Manolo Gabbiadini,Aerial
+47962,41,BlockedShot,0.899000015258789,0.545,0.09879748523235321,Marek Hamsik,h,1381,OpenPlay,2014,RightFoot,4953,Napoli,Sassuolo,2,0,2015-02-23 18:00:00,,None
+47963,41,MissedShots,0.92,0.5309999847412109,0.04178856313228607,Kalidou Koulibaly,h,1376,FromCorner,2014,Head,4953,Napoli,Sassuolo,2,0,2015-02-23 18:00:00,Manolo Gabbiadini,Aerial
+47964,44,MissedShots,0.909000015258789,0.3390000152587891,0.03416143357753754,José Callejón,h,1382,OpenPlay,2014,RightFoot,4953,Napoli,Sassuolo,2,0,2015-02-23 18:00:00,Faouzi Ghoulam,Cross
+47965,48,MissedShots,0.9790000152587891,0.6170000076293946,0.02106109820306301,Duván Zapata,h,1148,OpenPlay,2014,Head,4953,Napoli,Sassuolo,2,0,2015-02-23 18:00:00,Christian Maggio,Cross
+47966,50,MissedShots,0.9209999847412109,0.4759999847412109,0.045411497354507446,Christian Maggio,h,1391,FromCorner,2014,Head,4953,Napoli,Sassuolo,2,0,2015-02-23 18:00:00,José Callejón,Aerial
+47968,60,BlockedShot,0.8290000152587891,0.5420000076293945,0.06496605277061462,Duván Zapata,h,1148,OpenPlay,2014,LeftFoot,4953,Napoli,Sassuolo,2,0,2015-02-23 18:00:00,,BallTouch
+47969,60,Goal,0.845999984741211,0.515,0.06483251601457596,Duván Zapata,h,1148,OpenPlay,2014,RightFoot,4953,Napoli,Sassuolo,2,0,2015-02-23 18:00:00,,Rebound
+47971,69,Goal,0.8980000305175782,0.664000015258789,0.06977434456348419,Marek Hamsik,h,1381,OpenPlay,2014,RightFoot,4953,Napoli,Sassuolo,2,0,2015-02-23 18:00:00,Duván Zapata,Pass
+47974,83,MissedShots,0.8969999694824219,0.445,0.13110946118831635,Jonathan de Guzmán,h,1350,OpenPlay,2014,RightFoot,4953,Napoli,Sassuolo,2,0,2015-02-23 18:00:00,Duván Zapata,Cross
+47975,86,MissedShots,0.8769999694824219,0.34,0.35468554496765137,José Callejón,h,1382,OpenPlay,2014,RightFoot,4953,Napoli,Sassuolo,2,0,2015-02-23 18:00:00,Jonathan de Guzmán,Throughball
+47954,9,MissedShots,0.78,0.549000015258789,0.020467061549425125,Domenico Berardi,a,1612,OpenPlay,2014,LeftFoot,4953,Napoli,Sassuolo,2,0,2015-02-23 18:00:00,Antonio Floro Flores,Chipped
+47955,9,MissedShots,0.8030000305175782,0.500999984741211,0.03600480034947395,Antonio Floro Flores,a,1338,OpenPlay,2014,LeftFoot,4953,Napoli,Sassuolo,2,0,2015-02-23 18:00:00,,Rebound
+47957,16,MissedShots,0.6569999694824219,0.5879999923706055,0.010267795994877815,Francesco Acerbi,a,1463,OpenPlay,2014,LeftFoot,4953,Napoli,Sassuolo,2,0,2015-02-23 18:00:00,Francesco Magnanelli,Pass
+47960,28,MissedShots,0.8819999694824219,0.29100000381469726,0.04741166532039642,Domenico Berardi,a,1612,OpenPlay,2014,LeftFoot,4953,Napoli,Sassuolo,2,0,2015-02-23 18:00:00,Saphir Taïder,TakeOn
+47961,38,BlockedShot,0.88,0.26,0.030153954401612282,Simone Zaza,a,1642,OpenPlay,2014,LeftFoot,4953,Napoli,Sassuolo,2,0,2015-02-23 18:00:00,Domenico Berardi,Pass
+47967,53,MissedShots,0.7759999847412109,0.46900001525878904,0.03233615309000015,Domenico Berardi,a,1612,OpenPlay,2014,LeftFoot,4953,Napoli,Sassuolo,2,0,2015-02-23 18:00:00,Antonio Floro Flores,Pass
+47970,62,MissedShots,0.7680000305175781,0.28,0.047048550099134445,Antonio Floro Flores,a,1338,DirectFreekick,2014,RightFoot,4953,Napoli,Sassuolo,2,0,2015-02-23 18:00:00,,Standard
+47972,76,SavedShot,0.769000015258789,0.41700000762939454,0.017523307353258133,Francesco Magnanelli,a,1466,OpenPlay,2014,LeftFoot,4953,Napoli,Sassuolo,2,0,2015-02-23 18:00:00,,None
+47973,77,BlockedShot,0.720999984741211,0.66,0.011637669987976551,Antonio Floro Flores,a,1338,OpenPlay,2014,RightFoot,4953,Napoli,Sassuolo,2,0,2015-02-23 18:00:00,Davide Biondini,Pass
+47976,87,BlockedShot,0.875,0.4209999847412109,0.046465106308460236,Simone Zaza,a,1642,OpenPlay,2014,LeftFoot,4953,Napoli,Sassuolo,2,0,2015-02-23 18:00:00,Dejan Lazarevic,Cross

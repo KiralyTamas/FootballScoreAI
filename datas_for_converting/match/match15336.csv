@@ -1,0 +1,17 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+405862,4,Goal,0.924000015258789,0.4879999923706055,0.5184393525123596,Florian Niederlechner,h,306,OpenPlay,2020,RightFoot,15336,Augsburg,Bayer Leverkusen,1,1,2021-02-21 12:30:00,,Dispossessed
+405865,26,MissedShots,0.8069999694824219,0.4179999923706055,0.05863343924283981,Florian Niederlechner,h,306,OpenPlay,2020,RightFoot,15336,Augsburg,Bayer Leverkusen,1,1,2021-02-21 12:30:00,,None
+405866,32,MissedShots,0.745999984741211,0.48700000762939455,0.06615214794874191,László Bénes,h,5258,DirectFreekick,2020,LeftFoot,15336,Augsburg,Bayer Leverkusen,1,1,2021-02-21 12:30:00,,Standard
+405867,39,MissedShots,0.805,0.6140000152587891,0.11137500405311584,Daniel Caligiuri,h,157,DirectFreekick,2020,RightFoot,15336,Augsburg,Bayer Leverkusen,1,1,2021-02-21 12:30:00,,Standard
+405868,43,SavedShot,0.9180000305175782,0.7,0.057062555104494095,Florian Niederlechner,h,306,OpenPlay,2020,LeftFoot,15336,Augsburg,Bayer Leverkusen,1,1,2021-02-21 12:30:00,Ruben Vargas,Pass
+405870,58,SavedShot,0.91,0.46299999237060546,0.11999426037073135,Ruben Vargas,h,7810,OpenPlay,2020,RightFoot,15336,Augsburg,Bayer Leverkusen,1,1,2021-02-21 12:30:00,Raphael Framberger,Cross
+405863,18,BlockedShot,0.895,0.5879999923706055,0.050324734300374985,Patrik Schick,a,1236,FromCorner,2020,LeftFoot,15336,Augsburg,Bayer Leverkusen,1,1,2021-02-21 12:30:00,Leon Bailey,Cross
+405864,22,MissedShots,0.9030000305175782,0.69,0.04630065709352493,Sven Bender,a,311,SetPiece,2020,LeftFoot,15336,Augsburg,Bayer Leverkusen,1,1,2021-02-21 12:30:00,,None
+405869,47,SavedShot,0.905,0.7569999694824219,0.02998042292892933,Moussa Diaby,a,6556,OpenPlay,2020,LeftFoot,15336,Augsburg,Bayer Leverkusen,1,1,2021-02-21 12:30:00,Kerem Demirbay,Pass
+405871,61,BlockedShot,0.8980000305175782,0.5870000076293945,0.06705191731452942,Moussa Diaby,a,6556,OpenPlay,2020,RightFoot,15336,Augsburg,Bayer Leverkusen,1,1,2021-02-21 12:30:00,Patrik Schick,HeadPass
+405872,67,MissedShots,0.855999984741211,0.3659999847412109,0.03784523904323578,Jeremie Frimpong,a,9328,OpenPlay,2020,LeftFoot,15336,Augsburg,Bayer Leverkusen,1,1,2021-02-21 12:30:00,Timothy Fosu-Mensah,Cross
+405873,70,BlockedShot,0.7230000305175781,0.2510000038146973,0.012898370623588562,Kerem Demirbay,a,5273,OpenPlay,2020,LeftFoot,15336,Augsburg,Bayer Leverkusen,1,1,2021-02-21 12:30:00,Jeremie Frimpong,Pass
+405874,74,MissedShots,0.904000015258789,0.3120000076293945,0.04723317548632622,Jeremie Frimpong,a,9328,SetPiece,2020,RightFoot,15336,Augsburg,Bayer Leverkusen,1,1,2021-02-21 12:30:00,,None
+405875,80,BlockedShot,0.7240000152587891,0.44799999237060545,0.018902640789747238,Demarai Gray,a,762,OpenPlay,2020,LeftFoot,15336,Augsburg,Bayer Leverkusen,1,1,2021-02-21 12:30:00,Kerem Demirbay,Pass
+405876,89,SavedShot,0.705,0.720999984741211,0.01242845132946968,Kerem Demirbay,a,5273,OpenPlay,2020,LeftFoot,15336,Augsburg,Bayer Leverkusen,1,1,2021-02-21 12:30:00,Demarai Gray,Pass
+405877,93,Goal,0.879000015258789,0.4620000076293945,0.0745389312505722,Edmond Tapsoba,a,8317,OpenPlay,2020,RightFoot,15336,Augsburg,Bayer Leverkusen,1,1,2021-02-21 12:30:00,Demarai Gray,Cross

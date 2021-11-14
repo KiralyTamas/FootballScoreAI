@@ -1,0 +1,24 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+75772,27,MissedShots,0.8769999694824219,0.5,0.026049364358186722,Pablo Fontanello,h,2802,FromCorner,2015,Head,2540,Ural,Rubin Kazan,0,1,2016-04-18 18:00:00,Gerson Acevedo,Cross
+75774,34,BlockedShot,0.8119999694824219,0.515,0.048885151743888855,Spartak Gogniyev,h,2798,OpenPlay,2015,LeftFoot,2540,Ural,Rubin Kazan,0,1,2016-04-18 18:00:00,,None
+75775,35,SavedShot,0.885,0.5,0.7542753219604492,Gerson Acevedo,h,2874,Penalty,2015,RightFoot,2540,Ural,Rubin Kazan,0,1,2016-04-18 18:00:00,,Standard
+75777,39,MissedShots,0.6940000152587891,0.524000015258789,0.010937719605863094,Artem Fiedler,h,2793,OpenPlay,2015,RightFoot,2540,Ural,Rubin Kazan,0,1,2016-04-18 18:00:00,,None
+75778,40,MissedShots,0.7119999694824218,0.5209999847412109,0.01334505993872881,Roman Emelyanov,h,2791,OpenPlay,2015,RightFoot,2540,Ural,Rubin Kazan,0,1,2016-04-18 18:00:00,Aleksandr Sapeta,Pass
+75780,45,SavedShot,0.745999984741211,0.46799999237060547,0.020139144733548164,Gerson Acevedo,h,2874,OpenPlay,2015,RightFoot,2540,Ural,Rubin Kazan,0,1,2016-04-18 18:00:00,,Interception
+75782,49,SavedShot,0.7530000305175781,0.575,0.01952722854912281,Spartak Gogniyev,h,2798,OpenPlay,2015,LeftFoot,2540,Ural,Rubin Kazan,0,1,2016-04-18 18:00:00,,None
+75783,50,MissedShots,0.7819999694824219,0.5729999923706055,0.024690775200724602,Denys Kulakov,h,2789,FromCorner,2015,RightFoot,2540,Ural,Rubin Kazan,0,1,2016-04-18 18:00:00,Dmitri Korobov,Pass
+75785,61,MissedShots,0.905,0.59,0.027637386694550514,Spartak Gogniyev,h,2798,FromCorner,2015,Head,2540,Ural,Rubin Kazan,0,1,2016-04-18 18:00:00,Gerson Acevedo,Cross
+75787,65,BlockedShot,0.7280000305175781,0.6480000305175782,0.039205919951200485,Artem Fiedler,h,2793,DirectFreekick,2015,RightFoot,2540,Ural,Rubin Kazan,0,1,2016-04-18 18:00:00,,Standard
+75794,90,MissedShots,0.8480000305175781,0.45,0.057787198573350906,Spartak Gogniyev,h,2798,OpenPlay,2015,LeftFoot,2540,Ural,Rubin Kazan,0,1,2016-04-18 18:00:00,Aleksandr Dantsev,Cross
+75773,32,SavedShot,0.8930000305175781,0.4929999923706055,0.11422201991081238,Mijo Caktas,a,2976,OpenPlay,2015,OtherBodyPart,2540,Ural,Rubin Kazan,0,1,2016-04-18 18:00:00,Sergei Kislyak,Cross
+75776,38,MissedShots,0.975999984741211,0.32799999237060545,0.053323257714509964,Maksim Kanunnikov,a,2969,OpenPlay,2015,RightFoot,2540,Ural,Rubin Kazan,0,1,2016-04-18 18:00:00,,None
+75779,44,BlockedShot,0.6909999847412109,0.5029999923706054,0.03344729170203209,Magomed Ozdoev,a,2968,DirectFreekick,2015,RightFoot,2540,Ural,Rubin Kazan,0,1,2016-04-18 18:00:00,,Standard
+75781,47,SavedShot,0.7169999694824218,0.2539999961853027,0.009652456268668175,Maksim Kanunnikov,a,2969,OpenPlay,2015,RightFoot,2540,Ural,Rubin Kazan,0,1,2016-04-18 18:00:00,Sergei Kislyak,HeadPass
+75784,51,BlockedShot,0.8019999694824219,0.23299999237060548,0.019180212169885635,Magomed Ozdoev,a,2968,OpenPlay,2015,RightFoot,2540,Ural,Rubin Kazan,0,1,2016-04-18 18:00:00,Sergei Kislyak,Pass
+75786,64,MissedShots,0.7819999694824219,0.6940000152587891,0.05519461631774902,Sergei Kislyak,a,2967,DirectFreekick,2015,RightFoot,2540,Ural,Rubin Kazan,0,1,2016-04-18 18:00:00,,Standard
+75788,69,BlockedShot,0.8680000305175781,0.6,0.09908565878868103,Mijo Caktas,a,2976,OpenPlay,2015,LeftFoot,2540,Ural,Rubin Kazan,0,1,2016-04-18 18:00:00,Marko Devic,Pass
+75789,70,MissedShots,0.7959999847412109,0.6459999847412109,0.021422004327178,Denis Tkachuk,a,2979,OpenPlay,2015,LeftFoot,2540,Ural,Rubin Kazan,0,1,2016-04-18 18:00:00,Emil Bergström,Pass
+75790,70,BlockedShot,0.87,0.590999984741211,0.0635385662317276,Marko Devic,a,2972,OpenPlay,2015,LeftFoot,2540,Ural,Rubin Kazan,0,1,2016-04-18 18:00:00,Denis Tkachuk,Rebound
+75791,74,Goal,0.935,0.6,0.04386162385344505,Emil Bergström,a,2965,FromCorner,2015,Head,2540,Ural,Rubin Kazan,0,1,2016-04-18 18:00:00,Mijo Caktas,Cross
+75792,76,SavedShot,0.870999984741211,0.639000015258789,0.07259059697389603,Maksim Kanunnikov,a,2969,OpenPlay,2015,RightFoot,2540,Ural,Rubin Kazan,0,1,2016-04-18 18:00:00,,None
+75793,88,BlockedShot,0.855999984741211,0.415,0.1305060237646103,Maksim Kanunnikov,a,2969,OpenPlay,2015,RightFoot,2540,Ural,Rubin Kazan,0,1,2016-04-18 18:00:00,Marko Devic,Pass

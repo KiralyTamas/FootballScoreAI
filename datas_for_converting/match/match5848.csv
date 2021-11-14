@@ -1,0 +1,16 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+7014,12,BlockedShot,0.8540000152587891,0.37400001525878906,0.05714168772101402,Jérémy Pied,h,1784,OpenPlay,2014,RightFoot,5848,Guingamp,Reims,2,0,2015-05-02 19:00:00,,None
+7015,12,BlockedShot,0.7809999847412109,0.615999984741211,0.023181704804301262,Younousse Sankhare,h,3474,OpenPlay,2014,LeftFoot,5848,Guingamp,Reims,2,0,2015-05-02 19:00:00,Sylvain Marveaux,Pass
+7016,22,BlockedShot,0.769000015258789,0.35900001525878905,0.023674029856920242,Christophe Mandanne,h,4708,FromCorner,2014,RightFoot,5848,Guingamp,Reims,2,0,2015-05-02 19:00:00,Sylvain Marveaux,Cross
+7018,41,MissedShots,0.745999984741211,0.5479999923706055,0.019930506125092506,Moustapha Diallo,h,3575,OpenPlay,2014,RightFoot,5848,Guingamp,Reims,2,0,2015-05-02 19:00:00,Claudio Beauvue,Pass
+7020,57,SavedShot,0.6980000305175781,0.6819999694824219,0.013755165971815586,Claudio Beauvue,h,2502,OpenPlay,2014,RightFoot,5848,Guingamp,Reims,2,0,2015-05-02 19:00:00,Reynald Lemaître,Pass
+7021,61,Goal,0.885,0.5,0.7600951194763184,Claudio Beauvue,h,2502,Penalty,2014,RightFoot,5848,Guingamp,Reims,2,0,2015-05-02 19:00:00,,Standard
+7024,80,MissedShots,0.874000015258789,0.6469999694824219,0.07110679894685745,Lionel Mathis,h,3628,OpenPlay,2014,LeftFoot,5848,Guingamp,Reims,2,0,2015-05-02 19:00:00,Claudio Beauvue,Chipped
+7025,82,MissedShots,0.775,0.6070000076293945,0.03972994163632393,Claudio Beauvue,h,2502,OpenPlay,2014,RightFoot,5848,Guingamp,Reims,2,0,2015-05-02 19:00:00,Lionel Mathis,LayOff
+7027,93,Goal,0.915,0.4540000152587891,0.48884788155555725,Christophe Mandanne,h,4708,OpenPlay,2014,RightFoot,5848,Guingamp,Reims,2,0,2015-05-02 19:00:00,Younousse Sankhare,Cross
+7013,5,BlockedShot,0.779000015258789,0.5529999923706055,0.03534109517931938,Diego,a,3242,OpenPlay,2014,LeftFoot,5848,Guingamp,Reims,2,0,2015-05-02 19:00:00,Gaëtan Charbonnier,BallRecovery
+7017,36,MissedShots,0.7180000305175781,0.3609999847412109,0.019254760816693306,Prince Oniangué,a,3556,OpenPlay,2014,RightFoot,5848,Guingamp,Reims,2,0,2015-05-02 19:00:00,Aissa Mandi,Pass
+7019,45,MissedShots,0.8859999847412109,0.645,0.02057858556509018,Diego,a,3242,OpenPlay,2014,Head,5848,Guingamp,Reims,2,0,2015-05-02 19:00:00,Odaïr Fortes,Chipped
+7022,67,SavedShot,0.909000015258789,0.5709999847412109,0.06965543329715729,David Ngog,a,3245,OpenPlay,2014,Head,5848,Guingamp,Reims,2,0,2015-05-02 19:00:00,Odaïr Fortes,Cross
+7023,79,MissedShots,0.92,0.4979999923706055,0.10592591762542725,Prince Oniangué,a,3556,FromCorner,2014,Head,5848,Guingamp,Reims,2,0,2015-05-02 19:00:00,Diego,Cross
+7026,82,BlockedShot,0.825999984741211,0.3509999847412109,0.05615328252315521,Odaïr Fortes,a,3247,OpenPlay,2014,LeftFoot,5848,Guingamp,Reims,2,0,2015-05-02 19:00:00,,TakeOn

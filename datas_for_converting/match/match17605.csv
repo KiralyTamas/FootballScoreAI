@@ -1,0 +1,30 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+439580,3,SavedShot,0.8830000305175781,0.315,0.04949192330241203,Thomas Meunier,h,5680,OpenPlay,2021,RightFoot,17605,Borussia Dortmund,FC Cologne,2,0,2021-10-30 13:30:00,Thorgan Hazard,Pass
+439586,24,MissedShots,0.9269999694824219,0.5329999923706055,0.5354406237602234,Marco Reus,h,319,OpenPlay,2021,RightFoot,17605,Borussia Dortmund,FC Cologne,2,0,2021-10-30 13:30:00,Marius Wolf,Pass
+439589,39,Goal,0.935,0.5029999923706054,0.45703649520874023,Thorgan Hazard,h,213,OpenPlay,2021,Head,17605,Borussia Dortmund,FC Cologne,2,0,2021-10-30 13:30:00,Jude Bellingham,Chipped
+439597,62,Goal,0.9440000152587891,0.5990000152587891,0.01946346089243889,Steffen Tigges,h,9227,FromCorner,2021,Head,17605,Borussia Dortmund,FC Cologne,2,0,2021-10-30 13:30:00,Julian Brandt,Aerial
+439602,70,SavedShot,0.7230000305175781,0.794000015258789,0.010715536773204803,Donyell Malen,h,9749,OpenPlay,2021,RightFoot,17605,Borussia Dortmund,FC Cologne,2,0,2021-10-30 13:30:00,Julian Brandt,TakeOn
+439603,71,MissedShots,0.955,0.575,0.10807132720947266,Mats Hummels,h,373,FromCorner,2021,Head,17605,Borussia Dortmund,FC Cologne,2,0,2021-10-30 13:30:00,Julian Brandt,Cross
+439605,82,SavedShot,0.8,0.7230000305175781,0.06424802541732788,Marco Reus,h,319,DirectFreekick,2021,RightFoot,17605,Borussia Dortmund,FC Cologne,2,0,2021-10-30 13:30:00,,Standard
+439606,83,MissedShots,0.9209999847412109,0.515,0.5132498145103455,Donyell Malen,h,9749,OpenPlay,2021,RightFoot,17605,Borussia Dortmund,FC Cologne,2,0,2021-10-30 13:30:00,Steffen Tigges,Cross
+439581,4,BlockedShot,0.8880000305175781,0.42900001525878906,0.052242930978536606,Mark Uth,a,88,OpenPlay,2021,Head,17605,Borussia Dortmund,FC Cologne,2,0,2021-10-30 13:30:00,Jan Thielmann,Cross
+439582,8,SavedShot,0.8209999847412109,0.3890000152587891,0.018246645107865334,Jan Thielmann,a,8205,OpenPlay,2021,RightFoot,17605,Borussia Dortmund,FC Cologne,2,0,2021-10-30 13:30:00,,Aerial
+439583,12,BlockedShot,0.799000015258789,0.5209999847412109,0.047721587121486664,Ondrej Duda,a,5240,OpenPlay,2021,LeftFoot,17605,Borussia Dortmund,FC Cologne,2,0,2021-10-30 13:30:00,Jonas Hector,Chipped
+439584,17,MissedShots,0.9209999847412109,0.4759999847412109,0.09434390813112259,Luca Kilian,a,7807,SetPiece,2021,Head,17605,Borussia Dortmund,FC Cologne,2,0,2021-10-30 13:30:00,Mark Uth,Chipped
+439585,19,SavedShot,0.5729999923706055,0.2589999961853027,0.007756381761282682,Ondrej Duda,a,5240,OpenPlay,2021,RightFoot,17605,Borussia Dortmund,FC Cologne,2,0,2021-10-30 13:30:00,,BallRecovery
+439587,27,BlockedShot,0.7330000305175781,0.42,0.020640380680561066,Jan Thielmann,a,8205,OpenPlay,2021,RightFoot,17605,Borussia Dortmund,FC Cologne,2,0,2021-10-30 13:30:00,Ondrej Duda,Pass
+439588,35,BlockedShot,0.8080000305175781,0.71,0.025538533926010132,Mark Uth,a,88,OpenPlay,2021,LeftFoot,17605,Borussia Dortmund,FC Cologne,2,0,2021-10-30 13:30:00,Ondrej Duda,Pass
+439590,48,SavedShot,0.8080000305175781,0.5840000152587891,0.04114081338047981,Anthony Modeste,a,137,OpenPlay,2021,LeftFoot,17605,Borussia Dortmund,FC Cologne,2,0,2021-10-30 13:30:00,Mark Uth,Pass
+439591,50,SavedShot,0.94,0.539000015258789,0.06261421740055084,Anthony Modeste,a,137,OpenPlay,2021,Head,17605,Borussia Dortmund,FC Cologne,2,0,2021-10-30 13:30:00,Jan Thielmann,Aerial
+439592,51,MissedShots,0.6940000152587891,0.4470000076293945,0.00894150510430336,Dejan Ljubicic,a,9797,SetPiece,2021,RightFoot,17605,Borussia Dortmund,FC Cologne,2,0,2021-10-30 13:30:00,,None
+439593,54,MissedShots,0.9680000305175781,0.4229999923706055,0.286470502614975,Mark Uth,a,88,OpenPlay,2021,Head,17605,Borussia Dortmund,FC Cologne,2,0,2021-10-30 13:30:00,,None
+439594,56,MissedShots,0.8769999694824219,0.6179999923706054,0.0783013254404068,Mark Uth,a,88,OpenPlay,2021,LeftFoot,17605,Borussia Dortmund,FC Cologne,2,0,2021-10-30 13:30:00,Jonas Hector,Pass
+439595,61,SavedShot,0.8730000305175781,0.355,0.0600414052605629,Anthony Modeste,a,137,OpenPlay,2021,RightFoot,17605,Borussia Dortmund,FC Cologne,2,0,2021-10-30 13:30:00,Salih Özcan,Chipped
+439596,61,MissedShots,0.91,0.375,0.019909566268324852,Anthony Modeste,a,137,OpenPlay,2021,Head,17605,Borussia Dortmund,FC Cologne,2,0,2021-10-30 13:30:00,,Aerial
+439598,64,BlockedShot,0.9780000305175781,0.42900001525878906,0.09323713928461075,Anthony Modeste,a,137,OpenPlay,2021,RightFoot,17605,Borussia Dortmund,FC Cologne,2,0,2021-10-30 13:30:00,,End
+439599,65,BlockedShot,0.879000015258789,0.5820000076293945,0.049610383808612823,Sebastian Andersson,a,7880,OpenPlay,2021,LeftFoot,17605,Borussia Dortmund,FC Cologne,2,0,2021-10-30 13:30:00,Benno Schmitz,Chipped
+439600,66,MissedShots,0.8819999694824219,0.405,0.10035289824008942,Anthony Modeste,a,137,OpenPlay,2021,RightFoot,17605,Borussia Dortmund,FC Cologne,2,0,2021-10-30 13:30:00,Benno Schmitz,Pass
+439601,68,MissedShots,0.879000015258789,0.5890000152587891,0.02686636708676815,Sebastian Andersson,a,7880,OpenPlay,2021,Head,17605,Borussia Dortmund,FC Cologne,2,0,2021-10-30 13:30:00,Jonas Hector,Cross
+439604,72,MissedShots,0.8,0.33,0.024124210700392723,Mark Uth,a,88,OpenPlay,2021,LeftFoot,17605,Borussia Dortmund,FC Cologne,2,0,2021-10-30 13:30:00,Benno Schmitz,Pass
+439607,85,MissedShots,0.8580000305175781,0.49900001525878906,0.06235049292445183,Anthony Modeste,a,137,OpenPlay,2021,LeftFoot,17605,Borussia Dortmund,FC Cologne,2,0,2021-10-30 13:30:00,,None
+439608,91,MissedShots,0.8190000152587891,0.2720000076293945,0.021462401375174522,Louis Schaub,a,7897,OpenPlay,2021,LeftFoot,17605,Borussia Dortmund,FC Cologne,2,0,2021-10-30 13:30:00,Mark Uth,Pass

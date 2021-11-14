@@ -1,0 +1,26 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+359859,12,BlockedShot,0.7859999847412109,0.695,0.06484464555978775,Jonathan Schmid,h,81,DirectFreekick,2019,RightFoot,12608,Freiburg,Fortuna Duesseldorf,0,2,2020-02-22 14:30:00,,Standard
+359861,34,SavedShot,0.705999984741211,0.6140000152587891,0.038838762789964676,Vincenzo Grifo,h,5266,DirectFreekick,2019,RightFoot,12608,Freiburg,Fortuna Duesseldorf,0,2,2020-02-22 14:30:00,,Standard
+359865,38,SavedShot,0.7280000305175781,0.644000015258789,0.04474593326449394,Vincenzo Grifo,h,5266,DirectFreekick,2019,RightFoot,12608,Freiburg,Fortuna Duesseldorf,0,2,2020-02-22 14:30:00,,Standard
+359866,59,SavedShot,0.725999984741211,0.385,0.012912196107208729,Janik Haberer,h,4271,OpenPlay,2019,RightFoot,12608,Freiburg,Fortuna Duesseldorf,0,2,2020-02-22 14:30:00,,None
+359868,74,BlockedShot,0.789000015258789,0.5359999847412109,0.0628330260515213,Nicolas Höfler,h,4250,OpenPlay,2019,RightFoot,12608,Freiburg,Fortuna Duesseldorf,0,2,2020-02-22 14:30:00,Robin Koch,TakeOn
+359869,76,BlockedShot,0.919000015258789,0.5359999847412109,0.10549690574407578,Manuel Gulde,h,5292,FromCorner,2019,RightFoot,12608,Freiburg,Fortuna Duesseldorf,0,2,2020-02-22 14:30:00,,None
+359870,77,BlockedShot,0.7609999847412109,0.5459999847412109,0.024993574246764183,Robin Koch,h,6273,OpenPlay,2019,RightFoot,12608,Freiburg,Fortuna Duesseldorf,0,2,2020-02-22 14:30:00,Lucas Höler,BallTouch
+359873,80,MissedShots,0.7340000152587891,0.639000015258789,0.008998515084385872,Christian Günter,h,4243,OpenPlay,2019,LeftFoot,12608,Freiburg,Fortuna Duesseldorf,0,2,2020-02-22 14:30:00,,None
+359874,80,BlockedShot,0.9330000305175781,0.5329999923706055,0.10071985423564911,Nils Petersen,h,4248,OpenPlay,2019,Head,12608,Freiburg,Fortuna Duesseldorf,0,2,2020-02-22 14:30:00,Jonathan Schmid,Aerial
+359875,80,BlockedShot,0.740999984741211,0.5220000076293946,0.01649768091738224,Roland Sallai,h,1277,FromCorner,2019,RightFoot,12608,Freiburg,Fortuna Duesseldorf,0,2,2020-02-22 14:30:00,,None
+359876,81,MissedShots,0.9219999694824219,0.610999984741211,0.07960973680019379,Gian-Luca Waldschmidt,h,294,FromCorner,2019,LeftFoot,12608,Freiburg,Fortuna Duesseldorf,0,2,2020-02-22 14:30:00,,None
+359877,84,MissedShots,0.89,0.5129999923706055,0.06824111193418503,Gian-Luca Waldschmidt,h,294,OpenPlay,2019,LeftFoot,12608,Freiburg,Fortuna Duesseldorf,0,2,2020-02-22 14:30:00,Roland Sallai,Cross
+359878,85,SavedShot,0.860999984741211,0.47900001525878905,0.1268419772386551,Nicolas Höfler,h,4250,OpenPlay,2019,RightFoot,12608,Freiburg,Fortuna Duesseldorf,0,2,2020-02-22 14:30:00,,TakeOn
+359879,88,MissedShots,0.845999984741211,0.49900001525878906,0.04711667448282242,Nils Petersen,h,4248,OpenPlay,2019,LeftFoot,12608,Freiburg,Fortuna Duesseldorf,0,2,2020-02-22 14:30:00,Roland Sallai,HeadPass
+359880,91,MissedShots,0.9280000305175782,0.5179999923706055,0.08550367504358292,Robin Koch,h,6273,OpenPlay,2019,Head,12608,Freiburg,Fortuna Duesseldorf,0,2,2020-02-22 14:30:00,Christian Günter,Aerial
+359882,94,MissedShots,0.855,0.4370000076293945,0.08445446193218231,Gian-Luca Waldschmidt,h,294,OpenPlay,2019,RightFoot,12608,Freiburg,Fortuna Duesseldorf,0,2,2020-02-22 14:30:00,Robin Koch,LayOff
+359858,7,MissedShots,0.765,0.3729999923706055,0.014510680921375751,Matthias Zimmermann,a,2629,SetPiece,2019,RightFoot,12608,Freiburg,Fortuna Duesseldorf,0,2,2020-02-22 14:30:00,,None
+359860,26,MissedShots,0.8019999694824219,0.43099998474121093,0.0349641777575016,Valon Berisha,a,7178,SetPiece,2019,RightFoot,12608,Freiburg,Fortuna Duesseldorf,0,2,2020-02-22 14:30:00,Kevin Stöger,Pass
+359862,35,SavedShot,0.8809999847412109,0.56,0.10931357741355896,Rouwen Hennings,a,7060,OpenPlay,2019,LeftFoot,12608,Freiburg,Fortuna Duesseldorf,0,2,2020-02-22 14:30:00,Kenan Karaman,Pass
+359863,36,Goal,0.9269999694824219,0.46599998474121096,0.3636837601661682,Andre Hoffmann,a,436,FromCorner,2019,Head,12608,Freiburg,Fortuna Duesseldorf,0,2,2020-02-22 14:30:00,Kevin Stöger,Cross
+359864,37,MissedShots,0.7680000305175781,0.754000015258789,0.01612529717385769,Kevin Stöger,a,7058,OpenPlay,2019,LeftFoot,12608,Freiburg,Fortuna Duesseldorf,0,2,2020-02-22 14:30:00,Valon Berisha,Pass
+359867,60,Goal,0.8530000305175781,0.4329999923706055,0.252150297164917,Erik Thommy,a,2676,OpenPlay,2019,RightFoot,12608,Freiburg,Fortuna Duesseldorf,0,2,2020-02-22 14:30:00,Kevin Stöger,TakeOn
+359871,78,BlockedShot,0.764000015258789,0.4520000076293945,0.03904048725962639,Rouwen Hennings,a,7060,OpenPlay,2019,RightFoot,12608,Freiburg,Fortuna Duesseldorf,0,2,2020-02-22 14:30:00,Kenan Karaman,Pass
+359872,79,MissedShots,0.7480000305175781,0.41200000762939454,0.03216053918004036,Kenan Karaman,a,98,OpenPlay,2019,RightFoot,12608,Freiburg,Fortuna Duesseldorf,0,2,2020-02-22 14:30:00,Kevin Stöger,Pass
+359881,92,SavedShot,0.6959999847412109,0.5309999847412109,0.011599507182836533,Kevin Stöger,a,7058,OpenPlay,2019,LeftFoot,12608,Freiburg,Fortuna Duesseldorf,0,2,2020-02-22 14:30:00,Adam Bodzek,TakeOn

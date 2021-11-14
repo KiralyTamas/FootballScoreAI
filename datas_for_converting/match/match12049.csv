@@ -1,0 +1,23 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+316380,11,BlockedShot,0.7340000152587891,0.4470000076293945,0.014272327534854412,Francis Coquelin,h,497,OpenPlay,2019,RightFoot,12049,Valencia,Mallorca,2,0,2019-09-01 16:00:00,,None
+316381,12,MissedShots,0.8690000152587891,0.6680000305175782,0.04972588270902634,Kevin Gameiro,h,2442,OpenPlay,2019,RightFoot,12049,Valencia,Mallorca,2,0,2019-09-01 16:00:00,Gonçalo Guedes,Pass
+316384,29,MissedShots,0.685,0.5629999923706055,0.012248084880411625,Daniel Parejo,h,2378,OpenPlay,2019,RightFoot,12049,Valencia,Mallorca,2,0,2019-09-01 16:00:00,Gonçalo Guedes,Pass
+316386,38,MissedShots,0.915,0.5729999923706055,0.02174183540046215,Ezequiel Garay,h,3056,FromCorner,2019,Head,12049,Valencia,Mallorca,2,0,2019-09-01 16:00:00,Daniel Parejo,Aerial
+316387,42,Goal,0.885,0.5,0.7432776093482971,Daniel Parejo,h,2378,Penalty,2019,RightFoot,12049,Valencia,Mallorca,2,0,2019-09-01 16:00:00,,Standard
+316389,45,SavedShot,0.905,0.35700000762939454,0.3131062984466553,Ferrán Torres,h,6441,OpenPlay,2019,RightFoot,12049,Valencia,Mallorca,2,0,2019-09-01 16:00:00,Rodrigo,Pass
+316392,54,BlockedShot,0.9130000305175782,0.3840000152587891,0.02971496246755123,Francis Coquelin,h,497,FromCorner,2019,Head,12049,Valencia,Mallorca,2,0,2019-09-01 16:00:00,Daniel Parejo,Cross
+316393,56,Goal,0.885,0.5,0.7432776093482971,Daniel Parejo,h,2378,Penalty,2019,RightFoot,12049,Valencia,Mallorca,2,0,2019-09-01 16:00:00,,Standard
+316394,65,BlockedShot,0.759000015258789,0.625,0.06808584928512573,Daniel Parejo,h,2378,DirectFreekick,2019,RightFoot,12049,Valencia,Mallorca,2,0,2019-09-01 16:00:00,,Standard
+316398,75,SavedShot,0.9619999694824218,0.41200000762939454,0.09499271214008331,Maxi Gómez,h,6124,FromCorner,2019,RightFoot,12049,Valencia,Mallorca,2,0,2019-09-01 16:00:00,,None
+316377,7,SavedShot,0.8590000152587891,0.30700000762939456,0.04262141138315201,Joan Sastre,a,7837,OpenPlay,2019,RightFoot,12049,Valencia,Mallorca,2,0,2019-09-01 16:00:00,Dani Rodríguez,Pass
+316378,7,ShotOnPost,0.94,0.5320000076293945,0.5993589758872986,Ante Budimir,a,1235,OpenPlay,2019,LeftFoot,12049,Valencia,Mallorca,2,0,2019-09-01 16:00:00,,Rebound
+316379,7,BlockedShot,0.909000015258789,0.46599998474121096,0.46310266852378845,Dani Rodríguez,a,7841,OpenPlay,2019,RightFoot,12049,Valencia,Mallorca,2,0,2019-09-01 16:00:00,,Rebound
+316382,21,ShotOnPost,0.7809999847412109,0.7169999694824218,0.022068997845053673,Lago Junior,a,7843,OpenPlay,2019,RightFoot,12049,Valencia,Mallorca,2,0,2019-09-01 16:00:00,Dani Rodríguez,Pass
+316383,27,BlockedShot,0.769000015258789,0.38799999237060545,0.07820294052362442,Salva Sevilla,a,2121,DirectFreekick,2019,RightFoot,12049,Valencia,Mallorca,2,0,2019-09-01 16:00:00,,Standard
+316385,33,MissedShots,0.735999984741211,0.34200000762939453,0.016656486317515373,Iddrisu Baba,a,7840,OpenPlay,2019,RightFoot,12049,Valencia,Mallorca,2,0,2019-09-01 16:00:00,Dani Rodríguez,Pass
+316388,45,MissedShots,0.8619999694824219,0.515,0.016811411827802658,Lago Junior,a,7843,OpenPlay,2019,Head,12049,Valencia,Mallorca,2,0,2019-09-01 16:00:00,Dani Rodríguez,Aerial
+316390,49,BlockedShot,0.8909999847412109,0.620999984741211,0.08430887758731842,Aleix Febas,a,7842,OpenPlay,2019,RightFoot,12049,Valencia,Mallorca,2,0,2019-09-01 16:00:00,Lago Junior,Pass
+316391,50,BlockedShot,0.6919999694824219,0.6,0.013936899602413177,Lumor Agbenyenu,a,7839,OpenPlay,2019,LeftFoot,12049,Valencia,Mallorca,2,0,2019-09-01 16:00:00,Iddrisu Baba,Pass
+316395,66,BlockedShot,0.745,0.7169999694824218,0.009926463477313519,Salva Sevilla,a,2121,OpenPlay,2019,RightFoot,12049,Valencia,Mallorca,2,0,2019-09-01 16:00:00,Aleksandar Trajkovski,Pass
+316396,70,MissedShots,0.965999984741211,0.585,0.06553572416305542,Lago Junior,a,7843,OpenPlay,2019,Head,12049,Valencia,Mallorca,2,0,2019-09-01 16:00:00,Joan Sastre,Aerial
+316397,72,MissedShots,0.9269999694824219,0.505,0.06236265227198601,Ante Budimir,a,1235,FromCorner,2019,Head,12049,Valencia,Mallorca,2,0,2019-09-01 16:00:00,Aleksandar Trajkovski,Aerial

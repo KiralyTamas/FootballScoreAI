@@ -1,0 +1,26 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+21405,20,MissedShots,0.805,0.5059999847412109,0.04678933322429657,Christian Eriksen,h,646,OpenPlay,2014,RightFoot,4455,Tottenham,Aston Villa,0,1,2015-04-11 15:00:00,,None
+21406,25,MissedShots,0.8959999847412109,0.55,0.044629260897636414,Federico Fazio,h,1000,FromCorner,2014,Head,4455,Tottenham,Aston Villa,0,1,2015-04-11 15:00:00,Andros Townsend,Cross
+21407,26,SavedShot,0.94,0.685,0.06568347662687302,Danny Rose,h,641,OpenPlay,2014,LeftFoot,4455,Tottenham,Aston Villa,0,1,2015-04-11 15:00:00,Christian Eriksen,Pass
+21408,28,SavedShot,0.775,0.28,0.017447350546717644,Andros Townsend,h,775,OpenPlay,2014,RightFoot,4455,Tottenham,Aston Villa,0,1,2015-04-11 15:00:00,Nabil Bentaleb,Pass
+21410,37,MissedShots,0.82,0.34400001525878904,0.03658369556069374,Christian Eriksen,h,646,OpenPlay,2014,RightFoot,4455,Tottenham,Aston Villa,0,1,2015-04-11 15:00:00,Harry Kane,Chipped
+21411,39,MissedShots,0.84,0.649000015258789,0.038035325706005096,Danny Rose,h,641,OpenPlay,2014,RightFoot,4455,Tottenham,Aston Villa,0,1,2015-04-11 15:00:00,Christian Eriksen,Pass
+21412,40,SavedShot,0.6819999694824219,0.6469999694824219,0.012626572512090206,Harry Kane,h,647,OpenPlay,2014,RightFoot,4455,Tottenham,Aston Villa,0,1,2015-04-11 15:00:00,Danny Rose,Pass
+21415,43,MissedShots,0.8059999847412109,0.46900001525878904,0.043243978172540665,Christian Eriksen,h,646,OpenPlay,2014,RightFoot,4455,Tottenham,Aston Villa,0,1,2015-04-11 15:00:00,Nacer Chadli,Pass
+21419,54,BlockedShot,0.830999984741211,0.6279999923706054,0.04449667036533356,Danny Rose,h,641,OpenPlay,2014,LeftFoot,4455,Tottenham,Aston Villa,0,1,2015-04-11 15:00:00,Christian Eriksen,Pass
+21420,54,MissedShots,0.9209999847412109,0.48200000762939454,0.10128068178892136,Nacer Chadli,h,648,FromCorner,2014,Head,4455,Tottenham,Aston Villa,0,1,2015-04-11 15:00:00,Andros Townsend,Cross
+21421,58,MissedShots,0.8730000305175781,0.27899999618530275,0.034984685480594635,Harry Kane,h,647,OpenPlay,2014,LeftFoot,4455,Tottenham,Aston Villa,0,1,2015-04-11 15:00:00,Andros Townsend,Pass
+21422,69,MissedShots,0.9230000305175782,0.445,0.08345092087984085,Federico Fazio,h,1000,FromCorner,2014,Head,4455,Tottenham,Aston Villa,0,1,2015-04-11 15:00:00,Andros Townsend,Cross
+21423,75,MissedShots,0.884000015258789,0.31799999237060544,0.04585173353552818,Harry Kane,h,647,OpenPlay,2014,RightFoot,4455,Tottenham,Aston Villa,0,1,2015-04-11 15:00:00,Roberto Soldado,BallTouch
+21427,94,BlockedShot,0.8480000305175781,0.34900001525878904,0.006633993703871965,Federico Fazio,h,1000,SetPiece,2014,Head,4455,Tottenham,Aston Villa,0,1,2015-04-11 15:00:00,Danny Rose,Aerial
+21403,3,BlockedShot,0.8640000152587891,0.625,0.04050059989094734,Jack Grealish,a,675,OpenPlay,2014,RightFoot,4455,Tottenham,Aston Villa,0,1,2015-04-11 15:00:00,Christian Benteke,HeadPass
+21404,18,MissedShots,0.8630000305175781,0.2720000076293945,0.03386082127690315,Leandro Bacuna,a,674,OpenPlay,2014,RightFoot,4455,Tottenham,Aston Villa,0,1,2015-04-11 15:00:00,Christian Benteke,Pass
+21409,34,Goal,0.89,0.5109999847412109,0.07995311915874481,Christian Benteke,a,606,OpenPlay,2014,Head,4455,Tottenham,Aston Villa,0,1,2015-04-11 15:00:00,Leandro Bacuna,Cross
+21413,41,BlockedShot,0.7340000152587891,0.6609999847412109,0.01749921590089798,Christian Benteke,a,606,OpenPlay,2014,RightFoot,4455,Tottenham,Aston Villa,0,1,2015-04-11 15:00:00,Fabian Delph,Pass
+21414,42,MissedShots,0.845,0.629000015258789,0.02093682996928692,Nathan Baker,a,1041,SetPiece,2014,Head,4455,Tottenham,Aston Villa,0,1,2015-04-11 15:00:00,Jack Grealish,HeadPass
+21416,45,ShotOnPost,0.8119999694824219,0.5459999847412109,0.07413488626480103,Gabriel Agbonlahor,a,890,OpenPlay,2014,RightFoot,4455,Tottenham,Aston Villa,0,1,2015-04-11 15:00:00,Christian Benteke,HeadPass
+21417,47,MissedShots,0.764000015258789,0.3170000076293945,0.052077557891607285,Fabian Delph,a,876,DirectFreekick,2014,LeftFoot,4455,Tottenham,Aston Villa,0,1,2015-04-11 15:00:00,,Standard
+21418,49,MissedShots,0.8530000305175781,0.6,0.05028882995247841,Ron Vlaar,a,4433,FromCorner,2014,RightFoot,4455,Tottenham,Aston Villa,0,1,2015-04-11 15:00:00,,None
+21424,82,MissedShots,0.9790000152587891,0.40599998474121096,0.014996873214840889,Ron Vlaar,a,4433,FromCorner,2014,Head,4455,Tottenham,Aston Villa,0,1,2015-04-11 15:00:00,Joe Cole,Aerial
+21425,83,SavedShot,0.8669999694824219,0.2610000038146973,0.03493872284889221,Andreas Weimann,a,4427,OpenPlay,2014,RightFoot,4455,Tottenham,Aston Villa,0,1,2015-04-11 15:00:00,Tom Cleverley,Pass
+21426,84,SavedShot,0.8959999847412109,0.49,0.4417888820171356,Fabian Delph,a,876,OpenPlay,2014,RightFoot,4455,Tottenham,Aston Villa,0,1,2015-04-11 15:00:00,Christian Benteke,Pass

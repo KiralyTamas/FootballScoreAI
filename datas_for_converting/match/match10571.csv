@@ -1,0 +1,31 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+287158,9,Goal,0.8490000152587891,0.49900001525878906,0.09452677518129349,Ishak Belfodil,h,3834,OpenPlay,2018,RightFoot,10571,Hoffenheim,Bayer Leverkusen,4,1,2019-03-29 19:30:00,Andrej Kramaric,Pass
+287160,13,MissedShots,0.544000015258789,0.48900001525878906,0.008605457842350006,Andrej Kramaric,h,956,OpenPlay,2018,RightFoot,10571,Hoffenheim,Bayer Leverkusen,4,1,2019-03-29 19:30:00,Kerem Demirbay,BallRecovery
+287163,21,MissedShots,0.7630000305175781,0.6809999847412109,0.016240594908595085,Kerem Demirbay,h,5273,OpenPlay,2018,LeftFoot,10571,Hoffenheim,Bayer Leverkusen,4,1,2019-03-29 19:30:00,Leonardo Bittencourt,Pass
+287165,31,SavedShot,0.8959999847412109,0.5790000152587891,0.09038970619440079,Andrej Kramaric,h,956,OpenPlay,2018,Head,10571,Hoffenheim,Bayer Leverkusen,4,1,2019-03-29 19:30:00,Kerem Demirbay,Cross
+287166,33,MissedShots,0.9030000305175782,0.500999984741211,0.10397334396839142,Leonardo Bittencourt,h,262,OpenPlay,2018,RightFoot,10571,Hoffenheim,Bayer Leverkusen,4,1,2019-03-29 19:30:00,Andrej Kramaric,Cross
+287168,45,MissedShots,0.8719999694824219,0.48700000762939455,0.047569502145051956,Benjamin Hübner,h,251,SetPiece,2018,Head,10571,Hoffenheim,Bayer Leverkusen,4,1,2019-03-29 19:30:00,Kerem Demirbay,Cross
+287170,50,MissedShots,0.865999984741211,0.3770000076293945,0.05030503869056702,Nadiem Amiri,h,82,FromCorner,2018,RightFoot,10571,Hoffenheim,Bayer Leverkusen,4,1,2019-03-29 19:30:00,Pavel Kaderábek,Pass
+287175,60,Goal,0.8580000305175781,0.5670000076293945,0.13268639147281647,Ishak Belfodil,h,3834,OpenPlay,2018,RightFoot,10571,Hoffenheim,Bayer Leverkusen,4,1,2019-03-29 19:30:00,Florian Grillitsch,Chipped
+287180,78,BlockedShot,0.9259999847412109,0.605999984741211,0.5976900458335876,Ishak Belfodil,h,3834,OpenPlay,2018,RightFoot,10571,Hoffenheim,Bayer Leverkusen,4,1,2019-03-29 19:30:00,David Otto,Throughball
+287181,78,Goal,0.9930000305175781,0.4540000152587891,0.9739318490028381,Andrej Kramaric,h,956,OpenPlay,2018,RightFoot,10571,Hoffenheim,Bayer Leverkusen,4,1,2019-03-29 19:30:00,Ishak Belfodil,None
+287183,81,MissedShots,0.7919999694824219,0.40099998474121096,0.051528897136449814,Ishak Belfodil,h,3834,OpenPlay,2018,RightFoot,10571,Hoffenheim,Bayer Leverkusen,4,1,2019-03-29 19:30:00,Nadiem Amiri,Pass
+287185,85,MissedShots,0.98,0.355,0.279851496219635,Ishak Belfodil,h,3834,OpenPlay,2018,RightFoot,10571,Hoffenheim,Bayer Leverkusen,4,1,2019-03-29 19:30:00,David Otto,TakeOn
+287157,8,BlockedShot,0.85,0.6090000152587891,0.1077260673046112,Leon Bailey,a,5221,OpenPlay,2018,RightFoot,10571,Hoffenheim,Bayer Leverkusen,4,1,2019-03-29 19:30:00,Kai Havertz,Chipped
+287159,12,MissedShots,0.9269999694824219,0.4909999847412109,0.05874194577336311,Kevin Volland,a,83,FromCorner,2018,Head,10571,Hoffenheim,Bayer Leverkusen,4,1,2019-03-29 19:30:00,Julian Brandt,Aerial
+287161,16,Goal,0.92,0.545,0.2425333559513092,Kevin Volland,a,83,OpenPlay,2018,Head,10571,Hoffenheim,Bayer Leverkusen,4,1,2019-03-29 19:30:00,Julian Brandt,Chipped
+287162,19,BlockedShot,0.91,0.355,0.08628126233816147,Karim Bellarabi,a,186,OpenPlay,2018,RightFoot,10571,Hoffenheim,Bayer Leverkusen,4,1,2019-03-29 19:30:00,Julian Brandt,Pass
+287164,24,SavedShot,0.850999984741211,0.2610000038146973,0.028575748205184937,Kevin Volland,a,83,OpenPlay,2018,LeftFoot,10571,Hoffenheim,Bayer Leverkusen,4,1,2019-03-29 19:30:00,Leon Bailey,Pass
+287167,41,MissedShots,0.8959999847412109,0.3529999923706055,0.44456011056900024,Julian Brandt,a,261,OpenPlay,2018,LeftFoot,10571,Hoffenheim,Bayer Leverkusen,4,1,2019-03-29 19:30:00,,None
+287169,45,SavedShot,0.845999984741211,0.4909999847412109,0.057157713919878006,Kai Havertz,a,5220,OpenPlay,2018,LeftFoot,10571,Hoffenheim,Bayer Leverkusen,4,1,2019-03-29 19:30:00,Kevin Volland,Cross
+287171,50,OwnGoal,0.075,0.5590000152587891,0,Sven Bender,a,311,FromCorner,2018,LeftFoot,10571,Hoffenheim,Bayer Leverkusen,4,1,2019-03-29 19:30:00,,None
+287172,56,BlockedShot,0.8190000152587891,0.5690000152587891,0.05722345411777496,Julian Brandt,a,261,OpenPlay,2018,LeftFoot,10571,Hoffenheim,Bayer Leverkusen,4,1,2019-03-29 19:30:00,Kevin Volland,Pass
+287173,57,SavedShot,0.7959999847412109,0.6780000305175782,0.03524181246757507,Mitchell Weiser,a,28,FromCorner,2018,RightFoot,10571,Hoffenheim,Bayer Leverkusen,4,1,2019-03-29 19:30:00,Leon Bailey,Pass
+287174,58,SavedShot,0.9130000305175782,0.6,0.09257562458515167,Leon Bailey,a,5221,OpenPlay,2018,LeftFoot,10571,Hoffenheim,Bayer Leverkusen,4,1,2019-03-29 19:30:00,Julian Brandt,Pass
+287176,62,BlockedShot,0.8319999694824218,0.49900001525878906,0.06736265122890472,Charles Aránguiz,a,454,OpenPlay,2018,LeftFoot,10571,Hoffenheim,Bayer Leverkusen,4,1,2019-03-29 19:30:00,Kevin Volland,Pass
+287177,64,BlockedShot,0.7659999847412109,0.47,0.021055592224001884,Julian Brandt,a,261,OpenPlay,2018,RightFoot,10571,Hoffenheim,Bayer Leverkusen,4,1,2019-03-29 19:30:00,,None
+287178,70,BlockedShot,0.92,0.5790000152587891,0.020801814272999763,Julian Baumgartlinger,a,42,FromCorner,2018,Head,10571,Hoffenheim,Bayer Leverkusen,4,1,2019-03-29 19:30:00,Leon Bailey,Aerial
+287179,73,MissedShots,0.855999984741211,0.46799999237060547,0.02848503366112709,Jonathan Tah,a,183,FromCorner,2018,RightFoot,10571,Hoffenheim,Bayer Leverkusen,4,1,2019-03-29 19:30:00,,Aerial
+287182,81,BlockedShot,0.7519999694824219,0.33299999237060546,0.014467491768300533,Julian Brandt,a,261,OpenPlay,2018,RightFoot,10571,Hoffenheim,Bayer Leverkusen,4,1,2019-03-29 19:30:00,Kai Havertz,Pass
+287184,83,MissedShots,0.77,0.34799999237060547,0.014583008363842964,Julian Baumgartlinger,a,42,OpenPlay,2018,RightFoot,10571,Hoffenheim,Bayer Leverkusen,4,1,2019-03-29 19:30:00,Lucas Alario,Pass
+287186,87,MissedShots,0.93,0.46700000762939453,0.33698874711990356,Kai Havertz,a,5220,OpenPlay,2018,Head,10571,Hoffenheim,Bayer Leverkusen,4,1,2019-03-29 19:30:00,Mitchell Weiser,Cross

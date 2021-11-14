@@ -1,0 +1,23 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+384264,14,MissedShots,0.7290000152587891,0.55,0.01070449873805046,Ashley Barnes,h,4422,OpenPlay,2020,LeftFoot,14488,Burnley,Tottenham,0,1,2020-10-26 20:00:00,,Aerial
+384266,35,MissedShots,0.764000015258789,0.66,0.056496042758226395,Josh Brownhill,h,8323,DirectFreekick,2020,RightFoot,14488,Burnley,Tottenham,0,1,2020-10-26 20:00:00,,Standard
+384267,37,SavedShot,0.735,0.45799999237060546,0.018498318269848824,Ashley Westwood,h,669,OpenPlay,2020,RightFoot,14488,Burnley,Tottenham,0,1,2020-10-26 20:00:00,Josh Brownhill,Pass
+384268,43,SavedShot,0.7830000305175782,0.34200000762939453,0.023645486682653427,Johann Berg Gudmundsson,h,1663,OpenPlay,2020,LeftFoot,14488,Burnley,Tottenham,0,1,2020-10-26 20:00:00,Dwight McNeil,Pass
+384269,44,MissedShots,0.765,0.4209999847412109,0.02671612985432148,Johann Berg Gudmundsson,h,1663,OpenPlay,2020,LeftFoot,14488,Burnley,Tottenham,0,1,2020-10-26 20:00:00,Ashley Westwood,Pass
+384271,49,MissedShots,0.7680000305175781,0.3029999923706055,0.017079241573810577,Josh Brownhill,h,8323,OpenPlay,2020,RightFoot,14488,Burnley,Tottenham,0,1,2020-10-26 20:00:00,,BallRecovery
+384272,55,BlockedShot,0.7830000305175782,0.475,0.04523156210780144,Ashley Barnes,h,4422,OpenPlay,2020,RightFoot,14488,Burnley,Tottenham,0,1,2020-10-26 20:00:00,Chris Wood,LayOff
+384273,55,MissedShots,0.955999984741211,0.48,0.13336120545864105,James Tarkowski,h,1665,FromCorner,2020,Head,14488,Burnley,Tottenham,0,1,2020-10-26 20:00:00,Ashley Westwood,Cross
+384274,60,BlockedShot,0.8159999847412109,0.45599998474121095,0.06377648562192917,Ashley Westwood,h,669,OpenPlay,2020,RightFoot,14488,Burnley,Tottenham,0,1,2020-10-26 20:00:00,Josh Brownhill,Pass
+384275,67,BlockedShot,0.8690000152587891,0.515,0.08215422928333282,Chris Wood,h,4456,OpenPlay,2020,RightFoot,14488,Burnley,Tottenham,0,1,2020-10-26 20:00:00,Ashley Westwood,Chipped
+384276,70,BlockedShot,0.9730000305175781,0.4490000152587891,0.41034603118896484,James Tarkowski,h,1665,FromCorner,2020,Head,14488,Burnley,Tottenham,0,1,2020-10-26 20:00:00,Ashley Westwood,Aerial
+384277,72,SavedShot,0.78,0.7609999847412109,0.01583283767104149,Chris Wood,h,4456,OpenPlay,2020,RightFoot,14488,Burnley,Tottenham,0,1,2020-10-26 20:00:00,Ashley Barnes,HeadPass
+384284,93,BlockedShot,0.8169999694824219,0.4490000152587891,0.04660814628005028,Chris Wood,h,4456,OpenPlay,2020,LeftFoot,14488,Burnley,Tottenham,0,1,2020-10-26 20:00:00,,Dispossessed
+384263,2,MissedShots,0.9490000152587891,0.3039999961853027,0.10881521552801132,Harry Kane,a,647,OpenPlay,2020,RightFoot,14488,Burnley,Tottenham,0,1,2020-10-26 20:00:00,Toby Alderweireld,Throughball
+384265,33,BlockedShot,0.8859999847412109,0.7869999694824219,0.016578873619437218,Tanguy NDombele Alvaro,a,5962,OpenPlay,2020,RightFoot,14488,Burnley,Tottenham,0,1,2020-10-26 20:00:00,,TakeOn
+384270,46,BlockedShot,0.7930000305175782,0.36400001525878906,0.03071734681725502,Harry Kane,a,647,OpenPlay,2020,LeftFoot,14488,Burnley,Tottenham,0,1,2020-10-26 20:00:00,Lucas Moura,Pass
+384278,73,BlockedShot,0.8969999694824219,0.39,0.1032082736492157,Son Heung-Min,a,453,OpenPlay,2020,RightFoot,14488,Burnley,Tottenham,0,1,2020-10-26 20:00:00,Tanguy NDombele Alvaro,Pass
+384279,74,BlockedShot,0.8730000305175781,0.27399999618530274,0.03536668419837952,Harry Kane,a,647,OpenPlay,2020,RightFoot,14488,Burnley,Tottenham,0,1,2020-10-26 20:00:00,Erik Lamela,Pass
+384280,75,MissedShots,0.889000015258789,0.48200000762939454,0.04400564730167389,Harry Kane,a,647,FromCorner,2020,Head,14488,Burnley,Tottenham,0,1,2020-10-26 20:00:00,Erik Lamela,Cross
+384281,75,Goal,0.9569999694824218,0.5509999847412109,0.3875686228275299,Son Heung-Min,a,453,FromCorner,2020,Head,14488,Burnley,Tottenham,0,1,2020-10-26 20:00:00,Harry Kane,Rebound
+384282,80,SavedShot,0.865,0.5279999923706055,0.02336420677602291,Giovani Lo Celso,a,5681,SetPiece,2020,Head,14488,Burnley,Tottenham,0,1,2020-10-26 20:00:00,Matt Doherty,Cross
+384283,82,SavedShot,0.8730000305175781,0.3629999923706055,0.06477432698011398,Erik Lamela,a,644,OpenPlay,2020,LeftFoot,14488,Burnley,Tottenham,0,1,2020-10-26 20:00:00,Giovani Lo Celso,Chipped

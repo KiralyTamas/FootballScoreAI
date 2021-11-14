@@ -1,0 +1,23 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+310674,3,MissedShots,0.8059999847412109,0.59,0.04714176431298256,Charles Aránguiz,h,454,OpenPlay,2019,RightFoot,12407,Bayer Leverkusen,Paderborn,3,2,2019-08-17 14:30:00,,BallTouch
+310675,9,MissedShots,0.8690000152587891,0.34,0.05268535390496254,Kevin Volland,h,83,OpenPlay,2019,LeftFoot,12407,Bayer Leverkusen,Paderborn,3,2,2019-08-17 14:30:00,Lars Bender,TakeOn
+310676,9,Goal,0.97,0.5359999847412109,0.7261067628860474,Leon Bailey,h,5221,OpenPlay,2019,RightFoot,12407,Bayer Leverkusen,Paderborn,3,2,2019-08-17 14:30:00,Kevin Volland,Rebound
+310678,18,Goal,0.909000015258789,0.615999984741211,0.3763938248157501,Kai Havertz,h,5220,OpenPlay,2019,LeftFoot,12407,Bayer Leverkusen,Paderborn,3,2,2019-08-17 14:30:00,Julian Baumgartlinger,Throughball
+310682,26,BlockedShot,0.895,0.42700000762939455,0.12106514722108841,Kevin Volland,h,83,OpenPlay,2019,LeftFoot,12407,Bayer Leverkusen,Paderborn,3,2,2019-08-17 14:30:00,Kai Havertz,Pass
+310685,48,BlockedShot,0.8540000152587891,0.25799999237060545,0.02890949323773384,Leon Bailey,h,5221,OpenPlay,2019,LeftFoot,12407,Bayer Leverkusen,Paderborn,3,2,2019-08-17 14:30:00,Kai Havertz,Pass
+310686,49,MissedShots,0.850999984741211,0.69,0.01770852506160736,Charles Aránguiz,h,454,FromCorner,2019,LeftFoot,12407,Bayer Leverkusen,Paderborn,3,2,2019-08-17 14:30:00,,Aerial
+310687,51,MissedShots,0.7719999694824219,0.4329999923706055,0.030768970027565956,Kai Havertz,h,5220,OpenPlay,2019,LeftFoot,12407,Bayer Leverkusen,Paderborn,3,2,2019-08-17 14:30:00,Kevin Volland,BallTouch
+310688,54,BlockedShot,0.865999984741211,0.18200000762939453,0.020250407978892326,Leon Bailey,h,5221,FromCorner,2019,LeftFoot,12407,Bayer Leverkusen,Paderborn,3,2,2019-08-17 14:30:00,Kai Havertz,Pass
+310690,64,MissedShots,0.915,0.46,0.10843105614185333,Kevin Volland,h,83,OpenPlay,2019,Head,12407,Bayer Leverkusen,Paderborn,3,2,2019-08-17 14:30:00,Leon Bailey,Cross
+310691,68,Goal,0.9319999694824219,0.495,0.5809925198554993,Kevin Volland,h,83,OpenPlay,2019,RightFoot,12407,Bayer Leverkusen,Paderborn,3,2,2019-08-17 14:30:00,Wendell,Pass
+310692,72,MissedShots,0.84,0.6409999847412109,0.08210642635822296,Leon Bailey,h,5221,OpenPlay,2019,LeftFoot,12407,Bayer Leverkusen,Paderborn,3,2,2019-08-17 14:30:00,Kai Havertz,Pass
+310694,86,SavedShot,0.8480000305175781,0.6619999694824219,0.3218458890914917,Leon Bailey,h,5221,OpenPlay,2019,LeftFoot,12407,Bayer Leverkusen,Paderborn,3,2,2019-08-17 14:30:00,Kevin Volland,Throughball
+310673,3,BlockedShot,0.8119999694824219,0.49900001525878906,0.08026114851236343,Christopher Antwi-Adjei,a,7798,OpenPlay,2019,RightFoot,12407,Bayer Leverkusen,Paderborn,3,2,2019-08-17 14:30:00,Sven Michel,TakeOn
+310677,14,Goal,0.7909999847412109,0.5629999923706055,0.03441466763615608,Sven Michel,a,7799,OpenPlay,2019,LeftFoot,12407,Bayer Leverkusen,Paderborn,3,2,2019-08-17 14:30:00,,BallRecovery
+310679,24,SavedShot,0.9730000305175781,0.5940000152587891,0.12446488440036774,Christopher Antwi-Adjei,a,7798,OpenPlay,2019,RightFoot,12407,Bayer Leverkusen,Paderborn,3,2,2019-08-17 14:30:00,Jamilu Collins,TakeOn
+310680,24,BlockedShot,0.9690000152587891,0.5270000076293946,0.7684294581413269,Sven Michel,a,7799,OpenPlay,2019,LeftFoot,12407,Bayer Leverkusen,Paderborn,3,2,2019-08-17 14:30:00,,Rebound
+310681,24,Goal,0.9669999694824218,0.485,0.782331109046936,Streli Mamba,a,7800,OpenPlay,2019,RightFoot,12407,Bayer Leverkusen,Paderborn,3,2,2019-08-17 14:30:00,,Rebound
+310683,26,BlockedShot,0.775,0.5540000152587891,0.0284790750592947,Mohamed Dräger,a,6476,OpenPlay,2019,LeftFoot,12407,Bayer Leverkusen,Paderborn,3,2,2019-08-17 14:30:00,,None
+310684,42,SavedShot,0.8109999847412109,0.6619999694824219,0.016062147915363312,Sebastian Vasiliadis,a,7797,FromCorner,2019,RightFoot,12407,Bayer Leverkusen,Paderborn,3,2,2019-08-17 14:30:00,,Aerial
+310689,58,MissedShots,0.77,0.29399999618530276,0.014996872283518314,Sven Michel,a,7799,FromCorner,2019,LeftFoot,12407,Bayer Leverkusen,Paderborn,3,2,2019-08-17 14:30:00,,None
+310693,75,SavedShot,0.9009999847412109,0.41200000762939454,0.07466761767864227,Christopher Antwi-Adjei,a,7798,OpenPlay,2019,LeftFoot,12407,Bayer Leverkusen,Paderborn,3,2,2019-08-17 14:30:00,Gerrit Holtmann,Cross

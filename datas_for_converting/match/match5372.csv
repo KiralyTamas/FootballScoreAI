@@ -1,0 +1,28 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+27089,1,MissedShots,0.69,0.44,0.009550383314490318,Pierre-Michel Lasogga,h,173,OpenPlay,2014,LeftFoot,5372,Hamburger SV,Werder Bremen,2,0,2014-11-23 14:30:00,,None
+27090,8,MissedShots,0.8180000305175781,0.3890000152587891,0.03241881728172302,Valon Behrami,h,570,FromCorner,2014,RightFoot,5372,Hamburger SV,Werder Bremen,2,0,2014-11-23 14:30:00,,None
+27091,10,SavedShot,0.88,0.67,0.06748796254396439,Mohamed Gouaida,h,4283,OpenPlay,2014,LeftFoot,5372,Hamburger SV,Werder Bremen,2,0,2014-11-23 14:30:00,Pierre-Michel Lasogga,Pass
+27094,32,SavedShot,0.855,0.4490000152587891,0.0809389054775238,Lewis Holtby,h,169,OpenPlay,2014,RightFoot,5372,Hamburger SV,Werder Bremen,2,0,2014-11-23 14:30:00,,BallRecovery
+27096,38,BlockedShot,0.7119999694824218,0.5459999847412109,0.019872542470693588,Nicolai Müller,h,170,OpenPlay,2014,RightFoot,5372,Hamburger SV,Werder Bremen,2,0,2014-11-23 14:30:00,Valon Behrami,Pass
+27097,39,MissedShots,0.7240000152587891,0.5429999923706055,0.015028047375380993,Mohamed Gouaida,h,4283,OpenPlay,2014,LeftFoot,5372,Hamburger SV,Werder Bremen,2,0,2014-11-23 14:30:00,Lewis Holtby,TakeOn
+27101,51,MissedShots,0.9419999694824219,0.555,0.41676202416419983,Nicolai Müller,h,170,OpenPlay,2014,Head,5372,Hamburger SV,Werder Bremen,2,0,2014-11-23 14:30:00,Matthias Ostrzolek,Cross
+27103,67,MissedShots,0.9059999847412109,0.555,0.08890165388584137,Artjoms Rudnevs,h,2666,OpenPlay,2014,Head,5372,Hamburger SV,Werder Bremen,2,0,2014-11-23 14:30:00,Matthias Ostrzolek,Cross
+27104,68,BlockedShot,0.805,0.794000015258789,0.020256277173757553,Pierre-Michel Lasogga,h,173,OpenPlay,2014,RightFoot,5372,Hamburger SV,Werder Bremen,2,0,2014-11-23 14:30:00,Rafael van der Vaart,Pass
+27105,74,SavedShot,0.8619999694824219,0.39,0.008765922859311104,Pierre-Michel Lasogga,h,173,OpenPlay,2014,Head,5372,Hamburger SV,Werder Bremen,2,0,2014-11-23 14:30:00,Matthias Ostrzolek,Aerial
+27109,83,Goal,0.9719999694824218,0.48200000762939454,0.6926745176315308,Artjoms Rudnevs,h,2666,OpenPlay,2014,LeftFoot,5372,Hamburger SV,Werder Bremen,2,0,2014-11-23 14:30:00,,None
+27112,91,MissedShots,0.870999984741211,0.7419999694824219,0.05689471960067749,Pierre-Michel Lasogga,h,173,OpenPlay,2014,LeftFoot,5372,Hamburger SV,Werder Bremen,2,0,2014-11-23 14:30:00,Tolgay Arslan,Pass
+27113,92,ShotOnPost,0.9530000305175781,0.5059999847412109,0.815753698348999,Tolgay Arslan,h,4348,OpenPlay,2014,RightFoot,5372,Hamburger SV,Werder Bremen,2,0,2014-11-23 14:30:00,Pierre-Michel Lasogga,Pass
+27115,93,SavedShot,0.9009999847412109,0.654000015258789,0.28064972162246704,Artjoms Rudnevs,h,2666,OpenPlay,2014,RightFoot,5372,Hamburger SV,Werder Bremen,2,0,2014-11-23 14:30:00,Heiko Westermann,Pass
+27092,27,BlockedShot,0.8119999694824219,0.30700000762939456,0.0268364567309618,Fin Bartels,a,115,OpenPlay,2014,LeftFoot,5372,Hamburger SV,Werder Bremen,2,0,2014-11-23 14:30:00,Theodor Gebre Selassie,Pass
+27093,27,SavedShot,0.8719999694824219,0.6869999694824219,0.25094857811927795,Zlatko Junuzovic,a,301,OpenPlay,2014,RightFoot,5372,Hamburger SV,Werder Bremen,2,0,2014-11-23 14:30:00,,Rebound
+27095,37,SavedShot,0.8919999694824219,0.5429999923706055,0.17618213593959808,Assani Lukimya,a,123,SetPiece,2014,Head,5372,Hamburger SV,Werder Bremen,2,0,2014-11-23 14:30:00,Zlatko Junuzovic,Cross
+27098,42,SavedShot,0.995,0.995,0.013024789281189442,Zlatko Junuzovic,a,301,FromCorner,2014,RightFoot,5372,Hamburger SV,Werder Bremen,2,0,2014-11-23 14:30:00,,CornerAwarded
+27099,43,SavedShot,0.7719999694824219,0.7930000305175782,0.012550439685583115,Izet Hajrovic,a,2136,FromCorner,2014,LeftFoot,5372,Hamburger SV,Werder Bremen,2,0,2014-11-23 14:30:00,,None
+27100,45,MissedShots,0.700999984741211,0.5540000152587891,0.009384526871144772,Santiago García,a,113,OpenPlay,2014,LeftFoot,5372,Hamburger SV,Werder Bremen,2,0,2014-11-23 14:30:00,Izet Hajrovic,TakeOn
+27102,65,SavedShot,0.7430000305175781,0.385,0.05560579150915146,Zlatko Junuzovic,a,301,DirectFreekick,2014,RightFoot,5372,Hamburger SV,Werder Bremen,2,0,2014-11-23 14:30:00,,Standard
+27106,76,MissedShots,0.7190000152587891,0.42200000762939455,0.0171815212816,Clemens Fritz,a,117,OpenPlay,2014,LeftFoot,5372,Hamburger SV,Werder Bremen,2,0,2014-11-23 14:30:00,Fin Bartels,Pass
+27107,78,SavedShot,0.895,0.6140000152587891,0.009868796914815903,Santiago García,a,113,SetPiece,2014,Head,5372,Hamburger SV,Werder Bremen,2,0,2014-11-23 14:30:00,Zlatko Junuzovic,Aerial
+27108,78,MissedShots,0.99,0.42700000762939455,0.4826563894748688,Alejandro Gálvez,a,112,SetPiece,2014,RightFoot,5372,Hamburger SV,Werder Bremen,2,0,2014-11-23 14:30:00,,Rebound
+27110,86,SavedShot,0.9740000152587891,0.3390000152587891,0.059620730578899384,Davie Selke,a,4280,OpenPlay,2014,RightFoot,5372,Hamburger SV,Werder Bremen,2,0,2014-11-23 14:30:00,Theodor Gebre Selassie,HeadPass
+27111,90,BlockedShot,0.825,0.39799999237060546,0.04532470181584358,Fin Bartels,a,115,OpenPlay,2014,RightFoot,5372,Hamburger SV,Werder Bremen,2,0,2014-11-23 14:30:00,Assani Lukimya,Pass
+27114,92,OwnGoal,0.00800000011920929,0.5309999847412109,0,Raphael Wolf,a,4279,OpenPlay,2014,OtherBodyPart,5372,Hamburger SV,Werder Bremen,2,0,2014-11-23 14:30:00,,Challenge

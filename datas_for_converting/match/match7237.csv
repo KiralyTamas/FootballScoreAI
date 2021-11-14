@@ -1,0 +1,32 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+161563,11,BlockedShot,0.8919999694824219,0.639000015258789,0.06219850480556488,Callum Wilson,h,468,OpenPlay,2017,RightFoot,7237,Bournemouth,Huddersfield,4,0,2017-11-18 15:00:00,Marc Pugh,CornerAwarded
+161564,12,MissedShots,0.8080000305175781,0.41700000762939454,0.02986312098801136,Harry Arter,h,881,FromCorner,2017,LeftFoot,7237,Bournemouth,Huddersfield,4,0,2017-11-18 15:00:00,,None
+161566,18,MissedShots,0.909000015258789,0.4279999923706055,0.07930798828601837,Callum Wilson,h,468,OpenPlay,2017,Head,7237,Bournemouth,Huddersfield,4,0,2017-11-18 15:00:00,Simon Francis,Cross
+161567,20,MissedShots,0.8690000152587891,0.445,0.04603802412748337,Joshua King,h,465,FromCorner,2017,RightFoot,7237,Bournemouth,Huddersfield,4,0,2017-11-18 15:00:00,Charlie Daniels,Cross
+161568,25,Goal,0.9530000305175781,0.524000015258789,0.3711044192314148,Callum Wilson,h,468,FromCorner,2017,Head,7237,Bournemouth,Huddersfield,4,0,2017-11-18 15:00:00,Jordon Ibe,Aerial
+161569,30,Goal,0.9340000152587891,0.4540000152587891,0.448565274477005,Callum Wilson,h,468,SetPiece,2017,RightFoot,7237,Bournemouth,Huddersfield,4,0,2017-11-18 15:00:00,Andrew Surman,Cross
+161570,33,MissedShots,0.7919999694824219,0.34599998474121096,0.034538399428129196,Joshua King,h,465,OpenPlay,2017,RightFoot,7237,Bournemouth,Huddersfield,4,0,2017-11-18 15:00:00,Harry Arter,BallRecovery
+161573,40,SavedShot,0.8569999694824219,0.43599998474121093,0.09991952031850815,Andrew Surman,h,460,OpenPlay,2017,RightFoot,7237,Bournemouth,Huddersfield,4,0,2017-11-18 15:00:00,Charlie Daniels,Cross
+161574,41,MissedShots,0.765,0.669000015258789,0.015441544353961945,Steve Cook,h,458,FromCorner,2017,RightFoot,7237,Bournemouth,Huddersfield,4,0,2017-11-18 15:00:00,,None
+161580,69,Goal,0.845,0.5120000076293946,0.08795750886201859,Harry Arter,h,881,OpenPlay,2017,LeftFoot,7237,Bournemouth,Huddersfield,4,0,2017-11-18 15:00:00,,Tackle
+161586,83,Goal,0.865,0.57,0.11288762092590332,Callum Wilson,h,468,OpenPlay,2017,RightFoot,7237,Bournemouth,Huddersfield,4,0,2017-11-18 15:00:00,Joshua King,Pass
+161558,5,SavedShot,0.6409999847412109,0.675,0.006445685401558876,Rajiv van La Parra,a,6036,OpenPlay,2017,RightFoot,7237,Bournemouth,Huddersfield,4,0,2017-11-18 15:00:00,Scott Malone,TakeOn
+161559,7,MissedShots,0.9280000305175782,0.53,0.11987742781639099,Laurent Depoitre,a,6038,OpenPlay,2017,LeftFoot,7237,Bournemouth,Huddersfield,4,0,2017-11-18 15:00:00,Scott Malone,Cross
+161560,7,SavedShot,0.8119999694824219,0.485,0.05706889554858208,Rajiv van La Parra,a,6036,OpenPlay,2017,RightFoot,7237,Bournemouth,Huddersfield,4,0,2017-11-18 15:00:00,Tom Ince,Pass
+161561,9,MissedShots,0.895,0.635,0.16076691448688507,Scott Malone,a,6040,OpenPlay,2017,LeftFoot,7237,Bournemouth,Huddersfield,4,0,2017-11-18 15:00:00,Aaron Mooy,TakeOn
+161562,10,BlockedShot,0.8969999694824219,0.7140000152587891,0.05438854545354843,Rajiv van La Parra,a,6036,OpenPlay,2017,RightFoot,7237,Bournemouth,Huddersfield,4,0,2017-11-18 15:00:00,Tom Ince,TakeOn
+161565,18,MissedShots,0.85,0.5070000076293946,0.06365000456571579,Rajiv van La Parra,a,6036,OpenPlay,2017,RightFoot,7237,Bournemouth,Huddersfield,4,0,2017-11-18 15:00:00,Florent Hadergjonaj,Cross
+161571,35,BlockedShot,0.9530000305175781,0.5940000152587891,0.11629894375801086,Elias Kachunga,a,248,SetPiece,2017,RightFoot,7237,Bournemouth,Huddersfield,4,0,2017-11-18 15:00:00,Aaron Mooy,Rebound
+161572,37,BlockedShot,0.8640000152587891,0.5,0.03435681760311127,Elias Kachunga,a,248,OpenPlay,2017,Head,7237,Bournemouth,Huddersfield,4,0,2017-11-18 15:00:00,Florent Hadergjonaj,End
+161575,44,BlockedShot,0.919000015258789,0.6140000152587891,0.1069197803735733,Rajiv van La Parra,a,6036,OpenPlay,2017,RightFoot,7237,Bournemouth,Huddersfield,4,0,2017-11-18 15:00:00,Scott Malone,Pass
+161576,44,MissedShots,0.7759999847412109,0.3659999847412109,0.017990782856941223,Scott Malone,a,6040,FromCorner,2017,LeftFoot,7237,Bournemouth,Huddersfield,4,0,2017-11-18 15:00:00,,None
+161577,51,MissedShots,0.7759999847412109,0.47200000762939454,0.02225242182612419,Rajiv van La Parra,a,6036,OpenPlay,2017,RightFoot,7237,Bournemouth,Huddersfield,4,0,2017-11-18 15:00:00,,None
+161578,55,MissedShots,0.8909999847412109,0.43400001525878906,0.06402605026960373,Rajiv van La Parra,a,6036,SetPiece,2017,RightFoot,7237,Bournemouth,Huddersfield,4,0,2017-11-18 15:00:00,Aaron Mooy,Cross
+161579,65,BlockedShot,0.8230000305175781,0.5929999923706055,0.023905953392386436,Tom Ince,a,4454,OpenPlay,2017,LeftFoot,7237,Bournemouth,Huddersfield,4,0,2017-11-18 15:00:00,Laurent Depoitre,HeadPass
+161581,70,BlockedShot,0.9280000305175782,0.3370000076293945,0.0394936203956604,Laurent Depoitre,a,6038,OpenPlay,2017,RightFoot,7237,Bournemouth,Huddersfield,4,0,2017-11-18 15:00:00,Collin Quaner,Cross
+161582,73,MissedShots,0.7519999694824219,0.549000015258789,0.01479253452271223,Zanka,a,6030,OpenPlay,2017,RightFoot,7237,Bournemouth,Huddersfield,4,0,2017-11-18 15:00:00,,None
+161583,81,MissedShots,0.884000015258789,0.34799999237060547,0.045382022857666016,Tom Ince,a,4454,OpenPlay,2017,RightFoot,7237,Bournemouth,Huddersfield,4,0,2017-11-18 15:00:00,,None
+161584,82,BlockedShot,0.7390000152587891,0.47,0.012397592887282372,Tom Ince,a,4454,OpenPlay,2017,RightFoot,7237,Bournemouth,Huddersfield,4,0,2017-11-18 15:00:00,,None
+161585,82,SavedShot,0.794000015258789,0.500999984741211,0.07445568591356277,Steve Mounie,a,3800,OpenPlay,2017,RightFoot,7237,Bournemouth,Huddersfield,4,0,2017-11-18 15:00:00,Scott Malone,TakeOn
+161587,86,MissedShots,0.9340000152587891,0.51,0.12154750525951385,Abdelhamid Sabiri,a,6296,FromCorner,2017,Head,7237,Bournemouth,Huddersfield,4,0,2017-11-18 15:00:00,Steve Mounie,Cross
+161588,91,MissedShots,0.8019999694824219,0.7530000305175781,0.01468205451965332,Aaron Mooy,a,6033,OpenPlay,2017,RightFoot,7237,Bournemouth,Huddersfield,4,0,2017-11-18 15:00:00,Zanka,Pass

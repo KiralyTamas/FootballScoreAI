@@ -1,0 +1,28 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+87569,3,ShotOnPost,0.8009999847412109,0.3320000076293945,0.02867623046040535,Jonathan dos Santos,h,2307,OpenPlay,2015,RightFoot,1548,Villarreal,Real Madrid,1,0,2015-12-13 23:30:00,Cédric Bakambu,Pass
+87571,7,Goal,0.865,0.49700000762939456,0.3801802396774292,Roberto Soldado,h,2311,OpenPlay,2015,LeftFoot,1548,Villarreal,Real Madrid,1,0,2015-12-13 23:30:00,Cédric Bakambu,Pass
+87575,26,MissedShots,0.8480000305175781,0.3579999923706055,0.29642799496650696,Cédric Bakambu,h,2306,OpenPlay,2015,RightFoot,1548,Villarreal,Real Madrid,1,0,2015-12-13 23:30:00,Roberto Soldado,HeadPass
+87577,35,MissedShots,0.845,0.53,0.08431535959243774,Cédric Bakambu,h,2306,OpenPlay,2015,RightFoot,1548,Villarreal,Real Madrid,1,0,2015-12-13 23:30:00,,None
+87581,49,SavedShot,0.7819999694824219,0.3189999961853027,0.029345301911234856,Roberto Soldado,h,2311,OpenPlay,2015,RightFoot,1548,Villarreal,Real Madrid,1,0,2015-12-13 23:30:00,Bruno,Pass
+87589,63,SavedShot,0.765,0.47200000762939454,0.03245372325181961,Roberto Soldado,h,2311,OpenPlay,2015,RightFoot,1548,Villarreal,Real Madrid,1,0,2015-12-13 23:30:00,Eric Bailly,Pass
+87593,86,MissedShots,0.8230000305175781,0.42400001525878905,0.08909990638494492,Cédric Bakambu,h,2306,OpenPlay,2015,LeftFoot,1548,Villarreal,Real Madrid,1,0,2015-12-13 23:30:00,Nahuel,Pass
+87570,7,MissedShots,0.87,0.5420000076293945,0.03417647257447243,Gareth Bale,a,2251,OpenPlay,2015,Head,1548,Villarreal,Real Madrid,1,0,2015-12-13 23:30:00,Marcelo,Cross
+87572,15,MissedShots,0.8780000305175781,0.5159999847412109,0.03983760252594948,Sergio Ramos,a,2246,FromCorner,2015,Head,1548,Villarreal,Real Madrid,1,0,2015-12-13 23:30:00,James Rodríguez,Cross
+87573,19,BlockedShot,0.7709999847412109,0.4520000076293945,0.03019782155752182,James Rodríguez,a,2249,OpenPlay,2015,LeftFoot,1548,Villarreal,Real Madrid,1,0,2015-12-13 23:30:00,Luka Modric,Pass
+87574,23,MissedShots,0.8809999847412109,0.43900001525878907,0.0693870559334755,Karim Benzema,a,2370,OpenPlay,2015,RightFoot,1548,Villarreal,Real Madrid,1,0,2015-12-13 23:30:00,Gareth Bale,Cross
+87576,30,BlockedShot,0.7859999847412109,0.3509999847412109,0.027480199933052063,Luka Modric,a,2250,OpenPlay,2015,RightFoot,1548,Villarreal,Real Madrid,1,0,2015-12-13 23:30:00,Cristiano Ronaldo,Pass
+87578,45,MissedShots,0.9130000305175782,0.654000015258789,0.059507906436920166,Cristiano Ronaldo,a,2371,OpenPlay,2015,LeftFoot,1548,Villarreal,Real Madrid,1,0,2015-12-13 23:30:00,,None
+87579,47,MissedShots,0.875,0.4,0.0986650362610817,Karim Benzema,a,2370,OpenPlay,2015,RightFoot,1548,Villarreal,Real Madrid,1,0,2015-12-13 23:30:00,Gareth Bale,Throughball
+87580,48,MissedShots,0.9290000152587891,0.53,0.42409631609916687,Karim Benzema,a,2370,OpenPlay,2015,RightFoot,1548,Villarreal,Real Madrid,1,0,2015-12-13 23:30:00,Gareth Bale,Cross
+87582,52,BlockedShot,0.8009999847412109,0.6270000076293946,0.032624129205942154,Cristiano Ronaldo,a,2371,OpenPlay,2015,RightFoot,1548,Villarreal,Real Madrid,1,0,2015-12-13 23:30:00,,None
+87583,52,BlockedShot,0.865999984741211,0.47400001525878904,0.07217683643102646,Cristiano Ronaldo,a,2371,FromCorner,2015,LeftFoot,1548,Villarreal,Real Madrid,1,0,2015-12-13 23:30:00,,None
+87584,53,BlockedShot,0.9030000305175782,0.7419999694824219,0.038940705358982086,Sergio Ramos,a,2246,OpenPlay,2015,RightFoot,1548,Villarreal,Real Madrid,1,0,2015-12-13 23:30:00,James Rodríguez,TakeOn
+87585,55,SavedShot,0.879000015258789,0.34,0.07575883716344833,Gareth Bale,a,2251,OpenPlay,2015,RightFoot,1548,Villarreal,Real Madrid,1,0,2015-12-13 23:30:00,Luka Modric,Pass
+87586,57,MissedShots,0.96,0.5770000076293945,0.09277916699647903,James Rodríguez,a,2249,OpenPlay,2015,RightFoot,1548,Villarreal,Real Madrid,1,0,2015-12-13 23:30:00,Marcelo,Cross
+87587,57,MissedShots,0.7630000305175781,0.6140000152587891,0.024391498416662216,Gareth Bale,a,2251,OpenPlay,2015,LeftFoot,1548,Villarreal,Real Madrid,1,0,2015-12-13 23:30:00,Luka Modric,Pass
+87588,58,ShotOnPost,0.9630000305175781,0.6859999847412109,0.04572893679141998,Cristiano Ronaldo,a,2371,OpenPlay,2015,LeftFoot,1548,Villarreal,Real Madrid,1,0,2015-12-13 23:30:00,James Rodríguez,Chipped
+87590,67,MissedShots,0.8880000305175781,0.4490000152587891,0.07383882254362106,Cristiano Ronaldo,a,2371,OpenPlay,2015,RightFoot,1548,Villarreal,Real Madrid,1,0,2015-12-13 23:30:00,Gareth Bale,Cross
+87591,72,MissedShots,0.9280000305175782,0.5720000076293945,0.09719901531934738,Karim Benzema,a,2370,OpenPlay,2015,Head,1548,Villarreal,Real Madrid,1,0,2015-12-13 23:30:00,Gareth Bale,Cross
+87592,79,MissedShots,0.805,0.40799999237060547,0.04400291293859482,James Rodríguez,a,2249,OpenPlay,2015,RightFoot,1548,Villarreal,Real Madrid,1,0,2015-12-13 23:30:00,Gareth Bale,TakeOn
+87594,89,MissedShots,0.8719999694824219,0.4470000076293945,0.013696053996682167,Pepe,a,2258,FromCorner,2015,Head,1548,Villarreal,Real Madrid,1,0,2015-12-13 23:30:00,Gareth Bale,Aerial
+87595,93,MissedShots,0.8619999694824219,0.524000015258789,0.0605921670794487,Sergio Ramos,a,2246,OpenPlay,2015,LeftFoot,1548,Villarreal,Real Madrid,1,0,2015-12-13 23:30:00,Gareth Bale,Cross

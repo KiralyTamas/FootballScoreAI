@@ -1,0 +1,27 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+59559,4,MissedShots,0.9209999847412109,0.28200000762939453,0.10953227430582047,Joshua King,h,465,OpenPlay,2015,RightFoot,386,Bournemouth,Manchester City,0,4,2016-04-02 18:00:00,Lewis Grabban,Throughball
+59586,29,BlockedShot,0.8819999694824219,0.425,0.03147789463400841,Steve Cook,h,458,FromCorner,2015,Head,386,Bournemouth,Manchester City,0,4,2016-04-02 18:00:00,Matt Ritchie,Cross
+59587,29,SavedShot,0.9540000152587891,0.52,0.5904987454414368,Charlie Daniels,h,459,FromCorner,2015,LeftFoot,386,Bournemouth,Manchester City,0,4,2016-04-02 18:00:00,Steve Cook,None
+59589,32,MissedShots,0.91,0.4929999923706055,0.11872007697820663,Lewis Grabban,h,467,OpenPlay,2015,Head,386,Bournemouth,Manchester City,0,4,2016-04-02 18:00:00,Adam Smith,Cross
+59592,34,MissedShots,0.9059999847412109,0.5690000152587891,0.04793797433376312,Lewis Grabban,h,467,OpenPlay,2015,Head,386,Bournemouth,Manchester City,0,4,2016-04-02 18:00:00,Charlie Daniels,Aerial
+59598,40,BlockedShot,0.815,0.4909999847412109,0.09409262239933014,Matt Ritchie,h,461,OpenPlay,2015,LeftFoot,386,Bournemouth,Manchester City,0,4,2016-04-02 18:00:00,,TakeOn
+59605,68,MissedShots,0.9259999847412109,0.655,0.25577789545059204,Eunan O&#039;Kane,h,472,OpenPlay,2015,RightFoot,386,Bournemouth,Manchester City,0,4,2016-04-02 18:00:00,,None
+59608,75,MissedShots,0.8130000305175781,0.36400001525878906,0.02873288094997406,Matt Ritchie,h,461,SetPiece,2015,LeftFoot,386,Bournemouth,Manchester City,0,4,2016-04-02 18:00:00,,None
+59610,89,BlockedShot,0.79,0.68,0.018789196386933327,Andrew Surman,h,460,SetPiece,2015,LeftFoot,386,Bournemouth,Manchester City,0,4,2016-04-02 18:00:00,Matt Ritchie,Foul
+59611,91,BlockedShot,0.7130000305175781,0.504000015258789,0.012083973735570908,Andrew Surman,h,460,OpenPlay,2015,LeftFoot,386,Bournemouth,Manchester City,0,4,2016-04-02 18:00:00,,BallTouch
+59612,91,SavedShot,0.785,0.23100000381469726,0.016258476302027702,Matt Ritchie,h,461,OpenPlay,2015,LeftFoot,386,Bournemouth,Manchester City,0,4,2016-04-02 18:00:00,Tommy Elphick,Pass
+59563,6,Goal,0.855,0.4520000076293945,0.06197120249271393,Fernando,a,615,FromCorner,2015,RightFoot,386,Bournemouth,Manchester City,0,4,2016-04-02 18:00:00,,None
+59564,8,MissedShots,0.77,0.35200000762939454,0.016664626076817513,David Silva,a,617,FromCorner,2015,LeftFoot,386,Bournemouth,Manchester City,0,4,2016-04-02 18:00:00,,None
+59565,10,SavedShot,0.735,0.66,0.022094756364822388,Kevin De Bruyne,a,447,OpenPlay,2015,RightFoot,386,Bournemouth,Manchester City,0,4,2016-04-02 18:00:00,David Silva,Pass
+59568,11,Goal,0.8430000305175781,0.48700000762939455,0.10252410173416138,Kevin De Bruyne,a,447,OpenPlay,2015,RightFoot,386,Bournemouth,Manchester City,0,4,2016-04-02 18:00:00,David Silva,LayOff
+59572,14,MissedShots,0.750999984741211,0.435,0.031180212274193764,Sergio Agüero,a,619,OpenPlay,2015,RightFoot,386,Bournemouth,Manchester City,0,4,2016-04-02 18:00:00,Kevin De Bruyne,Pass
+59573,16,MissedShots,0.8390000152587891,0.5670000076293945,0.09404881298542023,Kevin De Bruyne,a,447,OpenPlay,2015,RightFoot,386,Bournemouth,Manchester City,0,4,2016-04-02 18:00:00,Gaël Clichy,Pass
+59581,18,Goal,0.95,0.55,0.08359459042549133,Sergio Agüero,a,619,OpenPlay,2015,Head,386,Bournemouth,Manchester City,0,4,2016-04-02 18:00:00,Jesús Navas,Aerial
+59585,24,ShotOnPost,0.7719999694824219,0.42900001525878906,0.03714272007346153,Fernandinho,a,614,OpenPlay,2015,RightFoot,386,Bournemouth,Manchester City,0,4,2016-04-02 18:00:00,David Silva,BallRecovery
+59588,32,MissedShots,0.9,0.6880000305175781,0.05349214747548103,David Silva,a,617,OpenPlay,2015,LeftFoot,386,Bournemouth,Manchester City,0,4,2016-04-02 18:00:00,Sergio Agüero,Cross
+59595,36,MissedShots,0.8730000305175781,0.30700000762939456,0.07281281799077988,Sergio Agüero,a,619,OpenPlay,2015,LeftFoot,386,Bournemouth,Manchester City,0,4,2016-04-02 18:00:00,Pablo Zabaleta,TakeOn
+59597,37,MissedShots,0.7659999847412109,0.33799999237060546,0.025846293196082115,Jesús Navas,a,616,OpenPlay,2015,RightFoot,386,Bournemouth,Manchester City,0,4,2016-04-02 18:00:00,Fernandinho,Pass
+59602,45,SavedShot,0.8730000305175781,0.7030000305175781,0.06612985581159592,Kevin De Bruyne,a,447,OpenPlay,2015,RightFoot,386,Bournemouth,Manchester City,0,4,2016-04-02 18:00:00,Sergio Agüero,Chipped
+59604,46,MissedShots,0.8480000305175781,0.6959999847412109,0.06018395349383354,Sergio Agüero,a,619,OpenPlay,2015,RightFoot,386,Bournemouth,Manchester City,0,4,2016-04-02 18:00:00,Kevin De Bruyne,Pass
+59607,74,SavedShot,0.9169999694824219,0.674000015258789,0.08332311362028122,Aleksandar Kolarov,a,621,OpenPlay,2015,LeftFoot,386,Bournemouth,Manchester City,0,4,2016-04-02 18:00:00,Sergio Agüero,Pass
+59613,92,Goal,0.9219999694824219,0.7230000305175781,0.05729362368583679,Aleksandar Kolarov,a,621,OpenPlay,2015,LeftFoot,386,Bournemouth,Manchester City,0,4,2016-04-02 18:00:00,Samir Nasri,TakeOn

@@ -1,0 +1,30 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+30012,10,MissedShots,0.8830000305175781,0.3529999923706055,0.07744402438402176,Zoltán Stieber,h,179,OpenPlay,2014,LeftFoot,5225,Hamburger SV,Augsburg,3,2,2015-04-25 14:30:00,Heiko Westermann,Pass
+30013,10,Goal,0.909000015258789,0.4470000076293945,0.09078764915466309,Ivica Olic,h,303,OpenPlay,2014,LeftFoot,5225,Hamburger SV,Augsburg,3,2,2015-04-25 14:30:00,Zoltán Stieber,None
+30014,14,SavedShot,0.705,0.5029999923706054,0.04253231734037399,Pierre-Michel Lasogga,h,173,DirectFreekick,2014,RightFoot,5225,Hamburger SV,Augsburg,3,2,2015-04-25 14:30:00,,Standard
+30018,18,Goal,0.9430000305175781,0.485,0.5388779640197754,Pierre-Michel Lasogga,h,173,OpenPlay,2014,Head,5225,Hamburger SV,Augsburg,3,2,2015-04-25 14:30:00,Matthias Ostrzolek,Cross
+30019,20,SavedShot,0.8930000305175781,0.47400001525878904,0.05702624097466469,Pierre-Michel Lasogga,h,173,FromCorner,2014,Head,5225,Hamburger SV,Augsburg,3,2,2015-04-25 14:30:00,Rafael van der Vaart,Cross
+30022,31,MissedShots,0.86,0.6840000152587891,0.05317627638578415,Pierre-Michel Lasogga,h,173,OpenPlay,2014,RightFoot,5225,Hamburger SV,Augsburg,3,2,2015-04-25 14:30:00,Zoltán Stieber,Pass
+30026,52,SavedShot,0.7859999847412109,0.41200000762939454,0.04926874488592148,Rafael van der Vaart,h,2153,OpenPlay,2014,LeftFoot,5225,Hamburger SV,Augsburg,3,2,2015-04-25 14:30:00,,BallRecovery
+30028,55,MissedShots,0.779000015258789,0.705,0.026967918500304222,Ivo Ilicevic,h,172,OpenPlay,2014,RightFoot,5225,Hamburger SV,Augsburg,3,2,2015-04-25 14:30:00,Ivica Olic,Pass
+30029,60,BlockedShot,0.8490000152587891,0.515,0.10946134477853775,Rafael van der Vaart,h,2153,OpenPlay,2014,RightFoot,5225,Hamburger SV,Augsburg,3,2,2015-04-25 14:30:00,Ivo Ilicevic,Pass
+30030,64,SavedShot,0.9340000152587891,0.5,0.44918856024742126,Ivo Ilicevic,h,172,OpenPlay,2014,Head,5225,Hamburger SV,Augsburg,3,2,2015-04-25 14:30:00,Pierre-Michel Lasogga,Chipped
+30031,68,SavedShot,0.8480000305175781,0.5220000076293946,0.06217602267861366,Zoltán Stieber,h,179,OpenPlay,2014,LeftFoot,5225,Hamburger SV,Augsburg,3,2,2015-04-25 14:30:00,Ivica Olic,Cross
+30033,69,Goal,0.935,0.33799999237060546,0.06939862668514252,Pierre-Michel Lasogga,h,173,OpenPlay,2014,RightFoot,5225,Hamburger SV,Augsburg,3,2,2015-04-25 14:30:00,Zoltán Stieber,HeadPass
+30034,72,ShotOnPost,0.909000015258789,0.69,0.06933145970106125,Marcell Jansen,h,4282,OpenPlay,2014,LeftFoot,5225,Hamburger SV,Augsburg,3,2,2015-04-25 14:30:00,Ivica Olic,Pass
+30036,76,BlockedShot,0.8690000152587891,0.68,0.06131821870803833,Marcell Jansen,h,4282,OpenPlay,2014,RightFoot,5225,Hamburger SV,Augsburg,3,2,2015-04-25 14:30:00,Ivica Olic,Pass
+30038,90,MissedShots,0.8780000305175781,0.555,0.012544590048491955,Marcell Jansen,h,4282,SetPiece,2014,Head,5225,Hamburger SV,Augsburg,3,2,2015-04-25 14:30:00,Zoltán Stieber,Aerial
+30011,9,MissedShots,0.8159999847412109,0.32,0.03145081549882889,Markus Feulner,a,278,OpenPlay,2014,RightFoot,5225,Hamburger SV,Augsburg,3,2,2015-04-25 14:30:00,Alexander Esswein,Pass
+30015,16,MissedShots,0.8730000305175781,0.8030000305175782,0.021894020959734917,Halil Altintop,a,280,OpenPlay,2014,RightFoot,5225,Hamburger SV,Augsburg,3,2,2015-04-25 14:30:00,Abdul Rahman Baba,Pass
+30016,16,BlockedShot,0.899000015258789,0.7230000305175781,0.013578101061284542,Halil Altintop,a,280,OpenPlay,2014,Head,5225,Hamburger SV,Augsburg,3,2,2015-04-25 14:30:00,,Foul
+30017,17,BlockedShot,0.8780000305175781,0.52,0.03445021063089371,Alexander Esswein,a,270,OpenPlay,2014,OtherBodyPart,5225,Hamburger SV,Augsburg,3,2,2015-04-25 14:30:00,Tobias Werner,Aerial
+30020,24,Goal,0.9490000152587891,0.54,0.44763240218162537,Raúl Bobadilla,a,273,SetPiece,2014,Head,5225,Hamburger SV,Augsburg,3,2,2015-04-25 14:30:00,Tobias Werner,Chipped
+30021,30,MissedShots,0.905,0.605999984741211,0.017214335501194,Tobias Werner,a,397,OpenPlay,2014,Head,5225,Hamburger SV,Augsburg,3,2,2015-04-25 14:30:00,Paul Verhaegh,Aerial
+30023,38,MissedShots,0.93,0.500999984741211,0.10807231813669205,Raúl Bobadilla,a,273,OpenPlay,2014,Head,5225,Hamburger SV,Augsburg,3,2,2015-04-25 14:30:00,Tobias Werner,Cross
+30024,41,BlockedShot,0.9180000305175782,0.4209999847412109,0.11182393878698349,Markus Feulner,a,278,OpenPlay,2014,RightFoot,5225,Hamburger SV,Augsburg,3,2,2015-04-25 14:30:00,Raúl Bobadilla,Pass
+30025,48,MissedShots,0.9019999694824219,0.4370000076293945,0.07858849316835403,Alexander Esswein,a,270,OpenPlay,2014,LeftFoot,5225,Hamburger SV,Augsburg,3,2,2015-04-25 14:30:00,,None
+30027,54,SavedShot,0.92,0.6719999694824219,0.040033210068941116,Alexander Esswein,a,270,OpenPlay,2014,LeftFoot,5225,Hamburger SV,Augsburg,3,2,2015-04-25 14:30:00,Tobias Werner,Cross
+30032,68,Goal,0.884000015258789,0.40599998474121096,0.12509596347808838,Tobias Werner,a,397,OpenPlay,2014,LeftFoot,5225,Hamburger SV,Augsburg,3,2,2015-04-25 14:30:00,Pierre-Emile Højbjerg,Pass
+30035,72,BlockedShot,0.894000015258789,0.76,0.02604224719107151,Alexander Esswein,a,270,OpenPlay,2014,LeftFoot,5225,Hamburger SV,Augsburg,3,2,2015-04-25 14:30:00,Daniel Baier,Chipped
+30037,83,MissedShots,0.955999984741211,0.5629999923706055,0.3688766062259674,Hong Jeong-ho,a,406,FromCorner,2014,Head,5225,Hamburger SV,Augsburg,3,2,2015-04-25 14:30:00,Paul Verhaegh,Cross
+30039,91,MissedShots,0.7819999694824219,0.35200000762939454,0.01896994560956955,Paul Verhaegh,a,264,FromCorner,2014,RightFoot,5225,Hamburger SV,Augsburg,3,2,2015-04-25 14:30:00,,None

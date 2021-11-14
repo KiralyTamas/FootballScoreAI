@@ -1,0 +1,27 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+18675,17,Goal,0.8830000305175781,0.3559999847412109,0.057330407202243805,Christian Benteke,h,606,SetPiece,2014,LeftFoot,4624,Aston Villa,Manchester United,1,1,2014-12-20 15:00:00,,None
+18677,32,BlockedShot,0.8480000305175781,0.45599998474121095,0.09915979951620102,Fabian Delph,h,876,OpenPlay,2014,RightFoot,4624,Aston Villa,Manchester United,1,1,2014-12-20 15:00:00,Carlos Sánchez,Pass
+18679,46,BlockedShot,0.865,0.6359999847412109,0.08706299960613251,Fabian Delph,h,876,OpenPlay,2014,LeftFoot,4624,Aston Villa,Manchester United,1,1,2014-12-20 15:00:00,Christian Benteke,Pass
+18680,47,SavedShot,0.955999984741211,0.42900001525878906,0.1041724905371666,Christian Benteke,h,606,FromCorner,2014,Head,4624,Aston Villa,Manchester United,1,1,2014-12-20 15:00:00,Fabian Delph,Cross
+18681,47,MissedShots,0.9180000305175782,0.3940000152587891,0.05296601355075836,Ron Vlaar,h,4433,FromCorner,2014,RightFoot,4624,Aston Villa,Manchester United,1,1,2014-12-20 15:00:00,Fabian Delph,Cross
+18688,62,SavedShot,0.750999984741211,0.6020000076293945,0.020907724276185036,Fabian Delph,h,876,OpenPlay,2014,LeftFoot,4624,Aston Villa,Manchester United,1,1,2014-12-20 15:00:00,Jores Okore,Pass
+18693,70,BlockedShot,0.914000015258789,0.46,0.08716455101966858,Ciaran Clark,h,875,SetPiece,2014,LeftFoot,4624,Aston Villa,Manchester United,1,1,2014-12-20 15:00:00,,None
+18694,70,BlockedShot,0.8209999847412109,0.39799999237060546,0.03259485960006714,Andreas Weimann,h,4427,SetPiece,2014,RightFoot,4624,Aston Villa,Manchester United,1,1,2014-12-20 15:00:00,,Rebound
+18695,86,MissedShots,0.7519999694824219,0.32299999237060545,0.017262300476431847,Leandro Bacuna,h,674,OpenPlay,2014,RightFoot,4624,Aston Villa,Manchester United,1,1,2014-12-20 15:00:00,Fabian Delph,Pass
+18696,91,SavedShot,0.764000015258789,0.3579999923706055,0.020025713369250298,Carlos Sánchez,h,667,OpenPlay,2014,RightFoot,4624,Aston Villa,Manchester United,1,1,2014-12-20 15:00:00,Fabian Delph,Pass
+18672,1,MissedShots,0.9309999847412109,0.56,0.11944540590047836,Robin van Persie,a,4387,OpenPlay,2014,LeftFoot,4624,Aston Villa,Manchester United,1,1,2014-12-20 15:00:00,Ashley Young,Cross
+18673,14,BlockedShot,0.8730000305175781,0.700999984741211,0.027250321581959724,Ashley Young,a,631,OpenPlay,2014,RightFoot,4624,Aston Villa,Manchester United,1,1,2014-12-20 15:00:00,Falcao,HeadPass
+18674,15,SavedShot,0.8930000305175781,0.2560000038146973,0.029293837025761604,Robin van Persie,a,4387,OpenPlay,2014,RightFoot,4624,Aston Villa,Manchester United,1,1,2014-12-20 15:00:00,Wayne Rooney,Chipped
+18676,23,SavedShot,0.9130000305175782,0.35,0.10171984136104584,Falcao,a,696,OpenPlay,2014,RightFoot,4624,Aston Villa,Manchester United,1,1,2014-12-20 15:00:00,Robin van Persie,Throughball
+18678,42,MissedShots,0.7340000152587891,0.5690000152587891,0.014897686429321766,Ashley Young,a,631,FromCorner,2014,RightFoot,4624,Aston Villa,Manchester United,1,1,2014-12-20 15:00:00,,None
+18682,49,BlockedShot,0.759000015258789,0.4329999923706055,0.025191089138388634,Juan Mata,a,554,OpenPlay,2014,LeftFoot,4624,Aston Villa,Manchester United,1,1,2014-12-20 15:00:00,Falcao,Pass
+18683,49,SavedShot,0.8880000305175781,0.639000015258789,0.34028705954551697,Robin van Persie,a,4387,OpenPlay,2014,LeftFoot,4624,Aston Villa,Manchester United,1,1,2014-12-20 15:00:00,Wayne Rooney,Throughball
+18684,51,SavedShot,0.8569999694824219,0.325,0.039496492594480515,Juan Mata,a,554,OpenPlay,2014,LeftFoot,4624,Aston Villa,Manchester United,1,1,2014-12-20 15:00:00,Antonio Valencia,Pass
+18685,52,Goal,0.9209999847412109,0.47099998474121096,0.09334897249937057,Falcao,a,696,OpenPlay,2014,Head,4624,Aston Villa,Manchester United,1,1,2014-12-20 15:00:00,Ashley Young,Cross
+18686,54,BlockedShot,0.7390000152587891,0.6680000305175782,0.01540672779083252,Wayne Rooney,a,629,OpenPlay,2014,RightFoot,4624,Aston Villa,Manchester United,1,1,2014-12-20 15:00:00,Ashley Young,Pass
+18687,54,MissedShots,0.8919999694824219,0.41,0.07812931388616562,Robin van Persie,a,4387,OpenPlay,2014,LeftFoot,4624,Aston Villa,Manchester United,1,1,2014-12-20 15:00:00,Falcao,Rebound
+18689,63,SavedShot,0.8640000152587891,0.38,0.06836909055709839,Ángel Di María,a,3553,OpenPlay,2014,LeftFoot,4624,Aston Villa,Manchester United,1,1,2014-12-20 15:00:00,Michael Carrick,Chipped
+18690,63,SavedShot,0.7919999694824219,0.38799999237060545,0.034153733402490616,Ángel Di María,a,3553,OpenPlay,2014,LeftFoot,4624,Aston Villa,Manchester United,1,1,2014-12-20 15:00:00,Wayne Rooney,Chipped
+18691,67,BlockedShot,0.8130000305175781,0.385,0.034169308841228485,Ángel Di María,a,3553,OpenPlay,2014,LeftFoot,4624,Aston Villa,Manchester United,1,1,2014-12-20 15:00:00,Falcao,Pass
+18692,67,SavedShot,0.775,0.40900001525878904,0.022875886410474777,Ángel Di María,a,3553,OpenPlay,2014,LeftFoot,4624,Aston Villa,Manchester United,1,1,2014-12-20 15:00:00,Antonio Valencia,Pass
+18697,92,SavedShot,0.8119999694824219,0.28200000762939453,0.025681596249341965,James Wilson,a,992,OpenPlay,2014,LeftFoot,4624,Aston Villa,Manchester United,1,1,2014-12-20 15:00:00,Michael Carrick,Pass

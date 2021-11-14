@@ -1,0 +1,29 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+57701,2,MissedShots,0.9419999694824219,0.27399999618530274,0.04397941753268242,Xherdan Shaqiri,h,888,FromCorner,2015,LeftFoot,112,Stoke,West Bromwich Albion,0,1,2015-08-29 18:00:00,Ibrahim Afellay,Pass
+57702,5,MissedShots,0.8090000152587891,0.8080000305175781,0.009591716341674328,Charlie Adam,h,873,OpenPlay,2015,LeftFoot,112,Stoke,West Bromwich Albion,0,1,2015-08-29 18:00:00,Ibrahim Afellay,TakeOn
+57703,10,SavedShot,0.8980000305175782,0.5609999847412109,0.062105096876621246,Mame Biram Diouf,h,868,OpenPlay,2015,Head,112,Stoke,West Bromwich Albion,0,1,2015-08-29 18:00:00,Charlie Adam,Cross
+57704,14,SavedShot,0.7030000305175781,0.41200000762939454,0.036925457417964935,Charlie Adam,h,873,DirectFreekick,2015,LeftFoot,112,Stoke,West Bromwich Albion,0,1,2015-08-29 18:00:00,,Standard
+57706,27,BlockedShot,0.9640000152587891,0.5359999847412109,0.8645563721656799,Mame Biram Diouf,h,868,OpenPlay,2015,Head,112,Stoke,West Bromwich Albion,0,1,2015-08-29 18:00:00,,TakeOn
+57707,28,BlockedShot,0.8069999694824219,0.40099998474121096,0.027786696329712868,Xherdan Shaqiri,h,888,FromCorner,2015,RightFoot,112,Stoke,West Bromwich Albion,0,1,2015-08-29 18:00:00,,None
+57715,47,MissedShots,0.76,0.36900001525878906,0.01485768798738718,Glen Johnson,h,944,OpenPlay,2015,RightFoot,112,Stoke,West Bromwich Albion,0,1,2015-08-29 18:00:00,Glenn Whelan,TakeOn
+57717,56,MissedShots,0.8109999847412109,0.28,0.025211501866579056,Xherdan Shaqiri,h,888,OpenPlay,2015,LeftFoot,112,Stoke,West Bromwich Albion,0,1,2015-08-29 18:00:00,Marc Muniesa,Pass
+57720,70,SavedShot,0.6780000305175782,0.5559999847412109,0.012046650983393192,Erik Pieters,h,887,OpenPlay,2015,LeftFoot,112,Stoke,West Bromwich Albion,0,1,2015-08-29 18:00:00,Glenn Whelan,Pass
+57721,73,SavedShot,0.7830000305175782,0.28600000381469726,0.02044822834432125,Marko Arnautovic,h,865,OpenPlay,2015,RightFoot,112,Stoke,West Bromwich Albion,0,1,2015-08-29 18:00:00,Geoff Cameron,Pass
+57725,81,BlockedShot,0.774000015258789,0.47,0.02910076454281807,Geoff Cameron,h,859,OpenPlay,2015,LeftFoot,112,Stoke,West Bromwich Albion,0,1,2015-08-29 18:00:00,Marko Arnautovic,Pass
+57727,92,BlockedShot,0.740999984741211,0.4909999847412109,0.05850466340780258,Marko Arnautovic,h,865,DirectFreekick,2015,RightFoot,112,Stoke,West Bromwich Albion,0,1,2015-08-29 18:00:00,,Standard
+57728,93,MissedShots,0.7480000305175781,0.37200000762939456,0.013374987058341503,Marko Arnautovic,h,865,SetPiece,2015,RightFoot,112,Stoke,West Bromwich Albion,0,1,2015-08-29 18:00:00,,Rebound
+57705,23,SavedShot,0.875,0.625,0.06430413573980331,James Morrison,a,990,OpenPlay,2015,RightFoot,112,Stoke,West Bromwich Albion,0,1,2015-08-29 18:00:00,,None
+57708,37,MissedShots,0.889000015258789,0.485,0.04018440842628479,Craig Gardner,a,812,OpenPlay,2015,Head,112,Stoke,West Bromwich Albion,0,1,2015-08-29 18:00:00,,None
+57709,38,SavedShot,0.7119999694824218,0.32099998474121094,0.016529705375432968,Rickie Lambert,a,816,SetPiece,2015,RightFoot,112,Stoke,West Bromwich Albion,0,1,2015-08-29 18:00:00,James Morrison,Pass
+57710,39,SavedShot,0.7040000152587891,0.25299999237060544,0.013331226073205471,Craig Dawson,a,804,OpenPlay,2015,RightFoot,112,Stoke,West Bromwich Albion,0,1,2015-08-29 18:00:00,James Morrison,Pass
+57711,43,MissedShots,0.8690000152587891,0.43099998474121093,0.020672785118222237,Salomón Rondón,a,813,OpenPlay,2015,Head,112,Stoke,West Bromwich Albion,0,1,2015-08-29 18:00:00,James McClean,Cross
+57712,46,BlockedShot,0.8780000305175781,0.5209999847412109,0.08953531086444855,Salomón Rondón,a,813,OpenPlay,2015,LeftFoot,112,Stoke,West Bromwich Albion,0,1,2015-08-29 18:00:00,,None
+57714,46,MissedShots,0.899000015258789,0.485,0.052496716380119324,Salomón Rondón,a,813,OpenPlay,2015,Head,112,Stoke,West Bromwich Albion,0,1,2015-08-29 18:00:00,James Morrison,Aerial
+57713,47,Goal,0.9459999847412109,0.575,0.2858686149120331,Salomón Rondón,a,813,OpenPlay,2015,Head,112,Stoke,West Bromwich Albion,0,1,2015-08-29 18:00:00,Rickie Lambert,Chipped
+57716,55,BlockedShot,0.8019999694824219,0.49599998474121093,0.06019000709056854,Darren Fletcher,a,809,OpenPlay,2015,RightFoot,112,Stoke,West Bromwich Albion,0,1,2015-08-29 18:00:00,,None
+57718,61,BlockedShot,0.884000015258789,0.39099998474121095,0.0678599402308464,Callum McManaman,a,880,OpenPlay,2015,RightFoot,112,Stoke,West Bromwich Albion,0,1,2015-08-29 18:00:00,James McClean,Cross
+57719,65,MissedShots,0.81,0.3659999847412109,0.030649298802018166,James Morrison,a,990,SetPiece,2015,RightFoot,112,Stoke,West Bromwich Albion,0,1,2015-08-29 18:00:00,Callum McManaman,Pass
+57722,74,SavedShot,0.7619999694824219,0.7440000152587891,0.01674043759703636,James Morrison,a,990,OpenPlay,2015,RightFoot,112,Stoke,West Bromwich Albion,0,1,2015-08-29 18:00:00,Callum McManaman,Pass
+57723,79,BlockedShot,0.7180000305175781,0.47200000762939454,0.020827192813158035,Rickie Lambert,a,816,OpenPlay,2015,RightFoot,112,Stoke,West Bromwich Albion,0,1,2015-08-29 18:00:00,James Morrison,Pass
+57724,79,MissedShots,0.879000015258789,0.6419999694824219,0.07907072454690933,Callum McManaman,a,880,OpenPlay,2015,RightFoot,112,Stoke,West Bromwich Albion,0,1,2015-08-29 18:00:00,James Morrison,Pass
+57726,84,MissedShots,0.74,0.6070000076293945,0.022933539003133774,Cristian Gamboa,a,855,OpenPlay,2015,RightFoot,112,Stoke,West Bromwich Albion,0,1,2015-08-29 18:00:00,,BallRecovery

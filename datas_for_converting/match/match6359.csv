@@ -1,0 +1,29 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+9448,2,MissedShots,0.8830000305175781,0.29,0.04499257355928421,Wanderson,h,2926,OpenPlay,2014,RightFoot,6359,FC Krasnodar,Rubin Kazan,2,0,2014-11-09 12:45:00,Yuri Gazinskiy,Pass
+9449,4,MissedShots,0.8230000305175781,0.585999984741211,0.06234335899353027,Wanderson,h,2926,OpenPlay,2014,RightFoot,6359,FC Krasnodar,Rubin Kazan,2,0,2014-11-09 12:45:00,Yuri Gazinskiy,Pass
+9450,5,MissedShots,0.769000015258789,0.3659999847412109,0.024095194414258003,Joãozinho,h,2928,OpenPlay,2014,LeftFoot,6359,FC Krasnodar,Rubin Kazan,2,0,2014-11-09 12:45:00,Marat Izmailov,Pass
+9451,7,Goal,0.88,0.625,0.07997658103704453,Sergei Petrov,h,2920,OpenPlay,2014,RightFoot,6359,FC Krasnodar,Rubin Kazan,2,0,2014-11-09 12:45:00,Wanderson,LayOff
+9452,8,SavedShot,0.6309999847412109,0.4279999923706055,0.009084759280085564,Odil Ahmedov,h,2923,OpenPlay,2014,RightFoot,6359,FC Krasnodar,Rubin Kazan,2,0,2014-11-09 12:45:00,,None
+9453,18,MissedShots,0.735999984741211,0.5279999923706055,0.04105708748102188,Odil Ahmedov,h,2923,OpenPlay,2014,RightFoot,6359,FC Krasnodar,Rubin Kazan,2,0,2014-11-09 12:45:00,Mauricio Pereyra,Pass
+9454,19,SavedShot,0.7680000305175781,0.6480000305175782,0.04908755049109459,Joãozinho,h,2928,OpenPlay,2014,RightFoot,6359,FC Krasnodar,Rubin Kazan,2,0,2014-11-09 12:45:00,Odil Ahmedov,Pass
+9456,29,MissedShots,0.7119999694824218,0.54,0.015043153427541256,Odil Ahmedov,h,2923,SetPiece,2014,RightFoot,6359,FC Krasnodar,Rubin Kazan,2,0,2014-11-09 12:45:00,Mauricio Pereyra,Pass
+9460,35,BlockedShot,0.7780000305175782,0.5370000076293945,0.04311712458729744,Sergei Petrov,h,2920,OpenPlay,2014,RightFoot,6359,FC Krasnodar,Rubin Kazan,2,0,2014-11-09 12:45:00,,BallRecovery
+9461,38,MissedShots,0.7719999694824219,0.3060000038146973,0.01472114585340023,Mauricio Pereyra,h,2922,FromCorner,2014,RightFoot,6359,FC Krasnodar,Rubin Kazan,2,0,2014-11-09 12:45:00,,None
+9463,40,SavedShot,0.8419999694824218,0.47700000762939454,0.09358414262533188,Odil Ahmedov,h,2923,OpenPlay,2014,RightFoot,6359,FC Krasnodar,Rubin Kazan,2,0,2014-11-09 12:45:00,Joãozinho,Pass
+9464,41,BlockedShot,0.7390000152587891,0.5659999847412109,0.05131981149315834,Aleksandr Martynovich,h,2790,DirectFreekick,2014,RightFoot,6359,FC Krasnodar,Rubin Kazan,2,0,2014-11-09 12:45:00,,Standard
+9465,55,MissedShots,0.9069999694824219,0.7030000305175781,0.11128993332386017,Joãozinho,h,2928,OpenPlay,2014,LeftFoot,6359,FC Krasnodar,Rubin Kazan,2,0,2014-11-09 12:45:00,Odil Ahmedov,Chipped
+9468,71,Goal,0.874000015258789,0.3920000076293945,0.4128599464893341,Ricardo Laborde,h,2927,OpenPlay,2014,RightFoot,6359,FC Krasnodar,Rubin Kazan,2,0,2014-11-09 12:45:00,Ari,Pass
+9469,74,MissedShots,0.8640000152587891,0.27600000381469725,0.0685313418507576,Ricardo Laborde,h,2927,OpenPlay,2014,RightFoot,6359,FC Krasnodar,Rubin Kazan,2,0,2014-11-09 12:45:00,Odil Ahmedov,Chipped
+9471,78,BlockedShot,0.8630000305175781,0.33299999237060546,0.10795032978057861,Ari,h,2930,OpenPlay,2014,RightFoot,6359,FC Krasnodar,Rubin Kazan,2,0,2014-11-09 12:45:00,Ricardo Laborde,Pass
+9472,79,MissedShots,0.9030000305175782,0.7,0.1076519563794136,Joãozinho,h,2928,OpenPlay,2014,LeftFoot,6359,FC Krasnodar,Rubin Kazan,2,0,2014-11-09 12:45:00,Ricardo Laborde,Pass
+9473,89,MissedShots,0.914000015258789,0.64,0.1122206449508667,Ari,h,2930,OpenPlay,2014,LeftFoot,6359,FC Krasnodar,Rubin Kazan,2,0,2014-11-09 12:45:00,Joãozinho,Cross
+9474,90,MissedShots,0.7340000152587891,0.7180000305175781,0.012911357916891575,Joãozinho,h,2928,OpenPlay,2014,LeftFoot,6359,FC Krasnodar,Rubin Kazan,2,0,2014-11-09 12:45:00,Ruslan Adzhindzhal,Pass
+9447,2,BlockedShot,0.71,0.6580000305175782,0.03319988772273064,Blagoy Georgiev,a,3102,DirectFreekick,2014,RightFoot,6359,FC Krasnodar,Rubin Kazan,2,0,2014-11-09 12:45:00,,Standard
+9455,21,BlockedShot,0.794000015258789,0.3559999847412109,0.07689199596643448,Blagoy Georgiev,a,3102,DirectFreekick,2014,RightFoot,6359,FC Krasnodar,Rubin Kazan,2,0,2014-11-09 12:45:00,,Standard
+9457,32,MissedShots,0.71,0.6379999923706055,0.013807404786348343,Gökdeniz Karadeniz,a,2971,OpenPlay,2014,RightFoot,6359,FC Krasnodar,Rubin Kazan,2,0,2014-11-09 12:45:00,Magomed Ozdoev,Pass
+9458,33,BlockedShot,0.9180000305175782,0.4909999847412109,0.11235282570123672,Igor Portnyagin,a,2970,OpenPlay,2014,RightFoot,6359,FC Krasnodar,Rubin Kazan,2,0,2014-11-09 12:45:00,Maksim Kanunnikov,Cross
+9459,33,MissedShots,0.9009999847412109,0.47900001525878905,0.02014302648603916,Igor Portnyagin,a,2970,FromCorner,2014,Head,6359,FC Krasnodar,Rubin Kazan,2,0,2014-11-09 12:45:00,Blagoy Georgiev,Aerial
+9462,39,BlockedShot,0.7669999694824219,0.3060000038146973,0.01688973978161812,Blagoy Georgiev,a,3102,OpenPlay,2014,RightFoot,6359,FC Krasnodar,Rubin Kazan,2,0,2014-11-09 12:45:00,Oleg Kuzmin,Pass
+9466,58,SavedShot,0.955,0.59,0.036404673010110855,Igor Portnyagin,a,2970,OpenPlay,2014,Head,6359,FC Krasnodar,Rubin Kazan,2,0,2014-11-09 12:45:00,Blagoy Georgiev,Aerial
+9467,61,MissedShots,0.7390000152587891,0.46799999237060547,0.017960727214813232,Magomed Ozdoev,a,2968,OpenPlay,2014,RightFoot,6359,FC Krasnodar,Rubin Kazan,2,0,2014-11-09 12:45:00,Gökdeniz Karadeniz,Pass
+9470,77,SavedShot,0.87,0.4,0.019927024841308594,Igor Portnyagin,a,2970,SetPiece,2014,Head,6359,FC Krasnodar,Rubin Kazan,2,0,2014-11-09 12:45:00,Blagoy Georgiev,Cross

@@ -1,0 +1,36 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+183403,7,MissedShots,0.8319999694824218,0.24399999618530274,0.020227724686264992,Firmin Ndombe Mubele,h,5687,OpenPlay,2017,RightFoot,8741,Rennes,Paris Saint Germain,1,4,2017-12-16 16:00:00,James Edward Lea Siliki,Pass
+183404,9,MissedShots,0.8519999694824218,0.285,0.03245900943875313,Firmin Ndombe Mubele,h,5687,OpenPlay,2017,RightFoot,8741,Rennes,Paris Saint Germain,1,4,2017-12-16 16:00:00,Benjamin André,Pass
+183408,20,MissedShots,0.749000015258789,0.30700000762939456,0.011870328336954117,Benjamin Bourigeaud,h,4773,OpenPlay,2017,LeftFoot,8741,Rennes,Paris Saint Germain,1,4,2017-12-16 16:00:00,Firmin Ndombe Mubele,LayOff
+183411,32,MissedShots,0.879000015258789,0.4540000152587891,0.06730389595031738,Morgan Amalfitano,h,3364,OpenPlay,2017,RightFoot,8741,Rennes,Paris Saint Germain,1,4,2017-12-16 16:00:00,Hamari Traore,Cross
+183414,34,BlockedShot,0.755,0.5790000152587891,0.019481729716062546,James Edward Lea Siliki,h,5770,OpenPlay,2017,LeftFoot,8741,Rennes,Paris Saint Germain,1,4,2017-12-16 16:00:00,Benjamin André,Pass
+183422,51,BlockedShot,0.7480000305175781,0.53,0.06573161482810974,Benjamin Bourigeaud,h,4773,DirectFreekick,2017,RightFoot,8741,Rennes,Paris Saint Germain,1,4,2017-12-16 16:00:00,,Standard
+183423,52,ShotOnPost,0.9230000305175782,0.5359999847412109,0.10208164155483246,Morgan Amalfitano,h,3364,FromCorner,2017,Head,8741,Rennes,Paris Saint Germain,1,4,2017-12-16 16:00:00,Benjamin Bourigeaud,Cross
+183424,52,Goal,0.9880000305175781,0.4640000152587891,0.9504614472389221,Firmin Ndombe Mubele,h,5687,FromCorner,2017,RightFoot,8741,Rennes,Paris Saint Germain,1,4,2017-12-16 16:00:00,,Rebound
+183425,67,SavedShot,0.9519999694824218,0.36900001525878906,0.09413035213947296,Wahbi Khazri,h,734,OpenPlay,2017,RightFoot,8741,Rennes,Paris Saint Germain,1,4,2017-12-16 16:00:00,Jeremy Gelin,TakeOn
+183431,86,MissedShots,0.805,0.21600000381469728,0.01361129991710186,Hamari Traore,h,3239,OpenPlay,2017,RightFoot,8741,Rennes,Paris Saint Germain,1,4,2017-12-16 16:00:00,Joris Gnagnon,Pass
+183432,89,MissedShots,0.885,0.5,0.7600951194763184,Wahbi Khazri,h,734,Penalty,2017,RightFoot,8741,Rennes,Paris Saint Germain,1,4,2017-12-16 16:00:00,,Standard
+183433,91,BlockedShot,0.7669999694824219,0.4809999847412109,0.08341792970895767,James Edward Lea Siliki,h,5770,DirectFreekick,2017,LeftFoot,8741,Rennes,Paris Saint Germain,1,4,2017-12-16 16:00:00,,Standard
+183434,91,BlockedShot,0.8680000305175781,0.29100000381469726,0.03389100357890129,James Edward Lea Siliki,h,5770,SetPiece,2017,RightFoot,8741,Rennes,Paris Saint Germain,1,4,2017-12-16 16:00:00,Hamari Traore,Pass
+183435,91,MissedShots,0.865,0.36900001525878906,0.05162683501839638,Benjamin Bourigeaud,h,4773,SetPiece,2017,RightFoot,8741,Rennes,Paris Saint Germain,1,4,2017-12-16 16:00:00,,Rebound
+183401,2,MissedShots,0.9030000305175782,0.57,0.04456194117665291,Kylian Mbappe-Lottin,a,3423,OpenPlay,2017,Head,8741,Rennes,Paris Saint Germain,1,4,2017-12-16 16:00:00,Dani Alves,Chipped
+183402,3,Goal,0.9769999694824218,0.515,0.9359208345413208,Neymar,a,2099,OpenPlay,2017,LeftFoot,8741,Rennes,Paris Saint Germain,1,4,2017-12-16 16:00:00,Kylian Mbappe-Lottin,Pass
+183405,10,BlockedShot,0.8680000305175781,0.6619999694824219,0.05978844314813614,Neymar,a,2099,OpenPlay,2017,RightFoot,8741,Rennes,Paris Saint Germain,1,4,2017-12-16 16:00:00,Yuri,Pass
+183406,13,MissedShots,0.870999984741211,0.6329999923706054,0.07839472591876984,Neymar,a,2099,OpenPlay,2017,RightFoot,8741,Rennes,Paris Saint Germain,1,4,2017-12-16 16:00:00,Kylian Mbappe-Lottin,Pass
+183407,16,Goal,0.955999984741211,0.4909999847412109,0.7142270803451538,Kylian Mbappe-Lottin,a,3423,OpenPlay,2017,RightFoot,8741,Rennes,Paris Saint Germain,1,4,2017-12-16 16:00:00,Neymar,Pass
+183409,23,MissedShots,0.7959999847412109,0.26399999618530273,0.02547764591872692,Marco Verratti,a,3552,OpenPlay,2017,LeftFoot,8741,Rennes,Paris Saint Germain,1,4,2017-12-16 16:00:00,Edinson Cavani,Pass
+183410,25,SavedShot,0.764000015258789,0.4209999847412109,0.04359864443540573,Neymar,a,2099,OpenPlay,2017,RightFoot,8741,Rennes,Paris Saint Germain,1,4,2017-12-16 16:00:00,Marco Verratti,Pass
+183412,33,BlockedShot,0.8119999694824219,0.52,0.0849049910902977,Edinson Cavani,a,3294,OpenPlay,2017,LeftFoot,8741,Rennes,Paris Saint Germain,1,4,2017-12-16 16:00:00,Neymar,Pass
+183413,34,MissedShots,0.865,0.3129999923706055,0.04468841478228569,Giovani Lo Celso,a,5681,FromCorner,2017,LeftFoot,8741,Rennes,Paris Saint Germain,1,4,2017-12-16 16:00:00,Dani Alves,Pass
+183415,39,SavedShot,0.855,0.3659999847412109,0.07817834615707397,Kylian Mbappe-Lottin,a,3423,OpenPlay,2017,RightFoot,8741,Rennes,Paris Saint Germain,1,4,2017-12-16 16:00:00,Giovani Lo Celso,Pass
+183416,40,BlockedShot,0.9590000152587891,0.46,0.15432527661323547,Edinson Cavani,a,3294,OpenPlay,2017,RightFoot,8741,Rennes,Paris Saint Germain,1,4,2017-12-16 16:00:00,Kylian Mbappe-Lottin,Pass
+183417,42,SavedShot,0.9030000305175782,0.37099998474121093,0.30487796664237976,Edinson Cavani,a,3294,OpenPlay,2017,RightFoot,8741,Rennes,Paris Saint Germain,1,4,2017-12-16 16:00:00,Neymar,Pass
+183418,42,BlockedShot,0.9530000305175781,0.375,0.09672059118747711,Edinson Cavani,a,3294,OpenPlay,2017,RightFoot,8741,Rennes,Paris Saint Germain,1,4,2017-12-16 16:00:00,,Rebound
+183419,45,MissedShots,0.9259999847412109,0.72,0.06845124810934067,Yuri,a,2229,OpenPlay,2017,LeftFoot,8741,Rennes,Paris Saint Germain,1,4,2017-12-16 16:00:00,Neymar,Pass
+183420,45,BlockedShot,0.8690000152587891,0.6,0.12198703736066818,Neymar,a,2099,OpenPlay,2017,RightFoot,8741,Rennes,Paris Saint Germain,1,4,2017-12-16 16:00:00,Kylian Mbappe-Lottin,Pass
+183421,48,SavedShot,0.720999984741211,0.6430000305175781,0.02122313715517521,Neymar,a,2099,OpenPlay,2017,RightFoot,8741,Rennes,Paris Saint Germain,1,4,2017-12-16 16:00:00,,TakeOn
+183426,74,Goal,0.825999984741211,0.6469999694824219,0.2961391806602478,Edinson Cavani,a,3294,OpenPlay,2017,RightFoot,8741,Rennes,Paris Saint Germain,1,4,2017-12-16 16:00:00,Neymar,Chipped
+183427,75,Goal,0.9730000305175781,0.5670000076293945,0.5981470346450806,Neymar,a,2099,OpenPlay,2017,LeftFoot,8741,Rennes,Paris Saint Germain,1,4,2017-12-16 16:00:00,Kylian Mbappe-Lottin,Pass
+183428,81,MissedShots,0.89,0.6719999694824219,0.08933506906032562,Neymar,a,2099,OpenPlay,2017,RightFoot,8741,Rennes,Paris Saint Germain,1,4,2017-12-16 16:00:00,Kylian Mbappe-Lottin,Chipped
+183429,83,MissedShots,0.7580000305175781,0.4620000076293945,0.03391466662287712,Neymar,a,2099,OpenPlay,2017,RightFoot,8741,Rennes,Paris Saint Germain,1,4,2017-12-16 16:00:00,Thiago Motta,Pass
+183430,85,SavedShot,0.825,0.33,0.0779544785618782,Kylian Mbappe-Lottin,a,3423,OpenPlay,2017,RightFoot,8741,Rennes,Paris Saint Germain,1,4,2017-12-16 16:00:00,Javier Pastore,TakeOn

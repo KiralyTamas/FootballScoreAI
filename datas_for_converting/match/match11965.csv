@@ -1,0 +1,23 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+368578,7,MissedShots,0.8919999694824219,0.5840000152587891,0.1464739441871643,Kelechi Iheanacho,h,620,OpenPlay,2019,Head,11965,Leicester,Crystal Palace,3,0,2020-07-04 14:00:00,Marc Albrighton,Cross
+368579,10,BlockedShot,0.7319999694824219,0.49599998474121093,0.017676569521427155,Youri Tielemans,h,5956,OpenPlay,2019,RightFoot,11965,Leicester,Crystal Palace,3,0,2020-07-04 14:00:00,Wilfred Ndidi,Pass
+368580,13,ShotOnPost,0.85,0.34799999237060547,0.05767006799578667,James Justin,h,7753,OpenPlay,2019,RightFoot,11965,Leicester,Crystal Palace,3,0,2020-07-04 14:00:00,Youri Tielemans,Pass
+368581,13,MissedShots,0.715999984741211,0.3770000076293945,0.014177779667079449,James Justin,h,7753,OpenPlay,2019,RightFoot,11965,Leicester,Crystal Palace,3,0,2020-07-04 14:00:00,Ayoze Pérez,Pass
+368582,16,BlockedShot,0.9069999694824219,0.35400001525878905,0.011217243038117886,Wilfred Ndidi,h,5545,FromCorner,2019,Head,11965,Leicester,Crystal Palace,3,0,2020-07-04 14:00:00,Marc Albrighton,Aerial
+368583,16,SavedShot,0.9730000305175781,0.4879999923706055,0.1523444950580597,Kelechi Iheanacho,h,620,FromCorner,2019,LeftFoot,11965,Leicester,Crystal Palace,3,0,2020-07-04 14:00:00,,None
+368584,16,BlockedShot,0.8669999694824219,0.44799999237060545,0.06122376397252083,Ayoze Pérez,h,770,FromCorner,2019,RightFoot,11965,Leicester,Crystal Palace,3,0,2020-07-04 14:00:00,Jonny Evans,Pass
+368585,18,BlockedShot,0.7719999694824219,0.44,0.030696922913193703,Kelechi Iheanacho,h,620,OpenPlay,2019,RightFoot,11965,Leicester,Crystal Palace,3,0,2020-07-04 14:00:00,Caglar Söyüncü,Dispossessed
+368588,47,MissedShots,0.875,0.5929999923706055,0.020300567150115967,Jamie Vardy,h,755,OpenPlay,2019,Head,11965,Leicester,Crystal Palace,3,0,2020-07-04 14:00:00,Marc Albrighton,Cross
+368589,48,Goal,0.950999984741211,0.5070000076293946,0.5959427356719971,Kelechi Iheanacho,h,620,OpenPlay,2019,RightFoot,11965,Leicester,Crystal Palace,3,0,2020-07-04 14:00:00,Youri Tielemans,Cross
+368591,54,MissedShots,0.92,0.654000015258789,0.09616870433092117,Jamie Vardy,h,755,OpenPlay,2019,LeftFoot,11965,Leicester,Crystal Palace,3,0,2020-07-04 14:00:00,Ayoze Pérez,Pass
+368593,71,BlockedShot,0.815,0.5479999923706055,0.1069759652018547,Jamie Vardy,h,755,OpenPlay,2019,LeftFoot,11965,Leicester,Crystal Palace,3,0,2020-07-04 14:00:00,,TakeOn
+368594,76,MissedShots,0.8880000305175781,0.6459999847412109,0.17120738327503204,Jamie Vardy,h,755,OpenPlay,2019,LeftFoot,11965,Leicester,Crystal Palace,3,0,2020-07-04 14:00:00,Kasper Schmeichel,Pass
+368595,76,Goal,0.904000015258789,0.46599998474121096,0.4349990785121918,Jamie Vardy,h,755,OpenPlay,2019,RightFoot,11965,Leicester,Crystal Palace,3,0,2020-07-04 14:00:00,Harvey Barnes,Pass
+368599,93,Goal,0.8690000152587891,0.6170000076293946,0.2897510230541229,Jamie Vardy,h,755,OpenPlay,2019,RightFoot,11965,Leicester,Crystal Palace,3,0,2020-07-04 14:00:00,Harvey Barnes,Pass
+368586,31,MissedShots,0.769000015258789,0.645,0.06251449882984161,Luka Milivojevic,a,5549,DirectFreekick,2019,RightFoot,11965,Leicester,Crystal Palace,3,0,2020-07-04 14:00:00,,Standard
+368587,37,MissedShots,0.884000015258789,0.44599998474121094,0.01686873473227024,Christian Benteke,a,606,SetPiece,2019,Head,11965,Leicester,Crystal Palace,3,0,2020-07-04 14:00:00,Wilfried Zaha,Aerial
+368590,54,MissedShots,0.7469999694824219,0.47,0.022426122799515724,Christian Benteke,a,606,OpenPlay,2019,RightFoot,11965,Leicester,Crystal Palace,3,0,2020-07-04 14:00:00,Patrick van Aanholt,Pass
+368592,59,SavedShot,0.9059999847412109,0.5609999847412109,0.03780099004507065,Gary Cahill,a,699,FromCorner,2019,Head,11965,Leicester,Crystal Palace,3,0,2020-07-04 14:00:00,James McArthur,Chipped
+368596,86,BlockedShot,0.895,0.35700000762939454,0.040787678211927414,Jordan Ayew,a,672,OpenPlay,2019,RightFoot,11965,Leicester,Crystal Palace,3,0,2020-07-04 14:00:00,Andros Townsend,Cross
+368597,88,MissedShots,0.9569999694824218,0.585,0.28244972229003906,Wilfried Zaha,a,522,OpenPlay,2019,RightFoot,11965,Leicester,Crystal Palace,3,0,2020-07-04 14:00:00,Andros Townsend,Chipped
+368598,90,MissedShots,0.870999984741211,0.35200000762939454,0.044688835740089417,James McCarthy,a,589,FromCorner,2019,RightFoot,11965,Leicester,Crystal Palace,3,0,2020-07-04 14:00:00,,None

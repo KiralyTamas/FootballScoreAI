@@ -1,0 +1,24 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+385492,7,SavedShot,0.9790000152587891,0.6880000305175781,0.051044367253780365,Ademola Lookman,h,5556,OpenPlay,2020,RightFoot,14497,Fulham,West Bromwich Albion,2,0,2020-11-02 17:30:00,,None
+385494,18,MissedShots,0.799000015258789,0.6930000305175781,0.02599971741437912,Ademola Lookman,h,5556,OpenPlay,2020,RightFoot,14497,Fulham,West Bromwich Albion,2,0,2020-11-02 17:30:00,Antonee Robinson,Pass
+385495,24,MissedShots,0.7219999694824218,0.4620000076293945,0.020453471690416336,Bobby Reid,h,6827,OpenPlay,2020,RightFoot,14497,Fulham,West Bromwich Albion,2,0,2020-11-02 17:30:00,Mario Lemina,Pass
+385496,25,Goal,0.9669999694824218,0.5359999847412109,0.5750316977500916,Bobby Reid,h,6827,OpenPlay,2020,Head,14497,Fulham,West Bromwich Albion,2,0,2020-11-02 17:30:00,Aleksandar Mitrovic,HeadPass
+385497,29,Goal,0.8090000152587891,0.34200000762939453,0.03686605021357536,Ola Aina,h,725,OpenPlay,2020,LeftFoot,14497,Fulham,West Bromwich Albion,2,0,2020-11-02 17:30:00,Aleksandar Mitrovic,Pass
+385499,31,BlockedShot,0.7709999847412109,0.39,0.03391067311167717,Franck Zambo,h,6434,OpenPlay,2020,LeftFoot,14497,Fulham,West Bromwich Albion,2,0,2020-11-02 17:30:00,,BallTouch
+385501,45,SavedShot,0.8090000152587891,0.44299999237060544,0.06820666044950485,Franck Zambo,h,6434,OpenPlay,2020,RightFoot,14497,Fulham,West Bromwich Albion,2,0,2020-11-02 17:30:00,Tom Cairney,Pass
+385503,62,MissedShots,0.7619999694824219,0.500999984741211,0.01906152069568634,Joachim Andersen,h,6314,FromCorner,2020,RightFoot,14497,Fulham,West Bromwich Albion,2,0,2020-11-02 17:30:00,,None
+385504,63,BlockedShot,0.9419999694824219,0.6780000305175782,0.08735620230436325,Franck Zambo,h,6434,OpenPlay,2020,LeftFoot,14497,Fulham,West Bromwich Albion,2,0,2020-11-02 17:30:00,Ademola Lookman,TakeOn
+385507,67,BlockedShot,0.9169999694824219,0.6819999694824219,0.10123960673809052,Tom Cairney,h,6835,OpenPlay,2020,LeftFoot,14497,Fulham,West Bromwich Albion,2,0,2020-11-02 17:30:00,,TakeOn
+385511,79,BlockedShot,0.825999984741211,0.84,0.014294414781033993,Tom Cairney,h,6835,OpenPlay,2020,LeftFoot,14497,Fulham,West Bromwich Albion,2,0,2020-11-02 17:30:00,Ademola Lookman,Pass
+385512,79,BlockedShot,0.9109999847412109,0.5070000076293946,0.5397098064422607,Bobby Reid,h,6827,OpenPlay,2020,LeftFoot,14497,Fulham,West Bromwich Albion,2,0,2020-11-02 17:30:00,,Rebound
+385513,83,BlockedShot,0.8540000152587891,0.639000015258789,0.05700818821787834,Ademola Lookman,h,5556,OpenPlay,2020,LeftFoot,14497,Fulham,West Bromwich Albion,2,0,2020-11-02 17:30:00,Harrison Reed,BallRecovery
+385493,18,BlockedShot,0.8280000305175781,0.6619999694824219,0.052725452929735184,Filip Krovinovic,a,8966,OpenPlay,2020,RightFoot,14497,Fulham,West Bromwich Albion,2,0,2020-11-02 17:30:00,,TakeOn
+385498,30,MissedShots,0.9019999694824219,0.485,0.053299859166145325,Grady Diangana,a,6651,OpenPlay,2020,Head,14497,Fulham,West Bromwich Albion,2,0,2020-11-02 17:30:00,Jake Livermore,Aerial
+385500,35,MissedShots,0.835,0.6120000076293945,0.04853687807917595,Karlan Grant,a,7390,OpenPlay,2020,LeftFoot,14497,Fulham,West Bromwich Albion,2,0,2020-11-02 17:30:00,Conor Gallagher,BallRecovery
+385502,52,BlockedShot,0.755,0.375,0.05743904411792755,Matheus Pereira,a,7153,DirectFreekick,2020,LeftFoot,14497,Fulham,West Bromwich Albion,2,0,2020-11-02 17:30:00,,Standard
+385505,64,BlockedShot,0.7609999847412109,0.5690000152587891,0.019113481044769287,Grady Diangana,a,6651,OpenPlay,2020,RightFoot,14497,Fulham,West Bromwich Albion,2,0,2020-11-02 17:30:00,Romaine Sawyers,BallTouch
+385506,65,SavedShot,0.919000015258789,0.5940000152587891,0.05161568149924278,Karlan Grant,a,7390,OpenPlay,2020,Head,14497,Fulham,West Bromwich Albion,2,0,2020-11-02 17:30:00,Darnell Furlong,Cross
+385508,70,BlockedShot,0.86,0.4370000076293945,0.09451503306627274,Callum Robinson,a,4476,OpenPlay,2020,RightFoot,14497,Fulham,West Bromwich Albion,2,0,2020-11-02 17:30:00,Matt Phillips,Pass
+385509,74,MissedShots,0.5229999923706055,0.445,0.005607029888778925,Callum Robinson,a,4476,OpenPlay,2020,LeftFoot,14497,Fulham,West Bromwich Albion,2,0,2020-11-02 17:30:00,,BallRecovery
+385510,78,BlockedShot,0.855999984741211,0.5709999847412109,0.048929497599601746,Callum Robinson,a,4476,OpenPlay,2020,RightFoot,14497,Fulham,West Bromwich Albion,2,0,2020-11-02 17:30:00,Branislav Ivanovic,Chipped
+385514,87,MissedShots,0.8969999694824219,0.5479999923706055,0.05090300738811493,Conor Townsend,a,8905,OpenPlay,2020,Head,14497,Fulham,West Bromwich Albion,2,0,2020-11-02 17:30:00,Matt Phillips,Aerial

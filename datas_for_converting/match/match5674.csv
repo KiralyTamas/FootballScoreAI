@@ -1,0 +1,24 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+37642,2,MissedShots,0.9030000305175782,0.56,0.08397570252418518,Mario Mandzukic,h,1295,SetPiece,2014,Head,5674,Atletico Madrid,Rayo Vallecano,3,1,2015-01-24 19:00:00,Gabi,Cross
+37644,8,MissedShots,0.7280000305175781,0.48700000762939455,0.011872951872646809,Gabi,h,2268,SetPiece,2014,RightFoot,5674,Atletico Madrid,Rayo Vallecano,3,1,2015-01-24 19:00:00,,None
+37645,11,Goal,0.8780000305175781,0.6229999923706054,0.355095773935318,Antoine Griezmann,h,2270,OpenPlay,2014,LeftFoot,5674,Atletico Madrid,Rayo Vallecano,3,1,2015-01-24 19:00:00,,BallRecovery
+37646,15,MissedShots,0.845999984741211,0.4,0.020827390253543854,Antoine Griezmann,h,2270,SetPiece,2014,LeftFoot,5674,Atletico Madrid,Rayo Vallecano,3,1,2015-01-24 19:00:00,Gabi,Cross
+37648,21,Goal,0.909000015258789,0.5259999847412109,0.49999678134918213,Antoine Griezmann,h,2270,OpenPlay,2014,LeftFoot,5674,Atletico Madrid,Rayo Vallecano,3,1,2015-01-24 19:00:00,Mario Mandzukic,Aerial
+37649,30,SavedShot,0.9109999847412109,0.5309999847412109,0.03548448905348778,Giménez,h,2278,FromCorner,2014,Head,5674,Atletico Madrid,Rayo Vallecano,3,1,2015-01-24 19:00:00,Gabi,Aerial
+37652,49,SavedShot,0.7919999694824219,0.9059999847412109,0.012126272544264793,Antoine Griezmann,h,2270,OpenPlay,2014,LeftFoot,5674,Atletico Madrid,Rayo Vallecano,3,1,2015-01-24 19:00:00,Guilherme Siqueira,Pass
+37653,50,MissedShots,0.95,0.38599998474121094,0.014770462177693844,Mario Mandzukic,h,1295,FromCorner,2014,Head,5674,Atletico Madrid,Rayo Vallecano,3,1,2015-01-24 19:00:00,Gabi,Aerial
+37654,54,BlockedShot,0.9540000152587891,0.5379999923706055,0.1516205072402954,Mario Mandzukic,h,1295,OpenPlay,2014,Head,5674,Atletico Madrid,Rayo Vallecano,3,1,2015-01-24 19:00:00,Arda Turan,Cross
+37656,56,MissedShots,0.9059999847412109,0.655,0.10699329525232315,Antoine Griezmann,h,2270,OpenPlay,2014,LeftFoot,5674,Atletico Madrid,Rayo Vallecano,3,1,2015-01-24 19:00:00,Mario Suárez,BallRecovery
+37661,87,ShotOnPost,0.815,0.4929999923706055,0.15439875423908234,Antoine Griezmann,h,2270,OpenPlay,2014,LeftFoot,5674,Atletico Madrid,Rayo Vallecano,3,1,2015-01-24 19:00:00,Tiago,TakeOn
+37663,90,SavedShot,0.754000015258789,0.5279999923706055,0.043236274272203445,Mario Suárez,h,576,OpenPlay,2014,RightFoot,5674,Atletico Madrid,Rayo Vallecano,3,1,2015-01-24 19:00:00,Tiago,Pass
+37643,6,SavedShot,0.7440000152587891,0.485,0.015561826527118683,Gaël Kakuta,a,2549,SetPiece,2014,RightFoot,5674,Atletico Madrid,Rayo Vallecano,3,1,2015-01-24 19:00:00,Manucho,HeadPass
+37647,20,MissedShots,0.91,0.4470000076293945,0.04154428839683533,Manucho,a,2171,OpenPlay,2014,Head,5674,Atletico Madrid,Rayo Vallecano,3,1,2015-01-24 19:00:00,Javier Aquino,Aerial
+37650,34,Goal,0.8090000152587891,0.49700000762939456,0.06276324391365051,Roberto Trashorras,a,2162,OpenPlay,2014,RightFoot,5674,Atletico Madrid,Rayo Vallecano,3,1,2015-01-24 19:00:00,Gaël Kakuta,Pass
+37651,44,MissedShots,0.6509999847412109,0.5629999923706055,0.011567439883947372,Mohammed Fatau,a,4126,OpenPlay,2014,RightFoot,5674,Atletico Madrid,Rayo Vallecano,3,1,2015-01-24 19:00:00,Gaël Kakuta,Pass
+37655,55,OwnGoal,0.04400000095367432,0.48700000762939455,0,Manucho,a,2171,FromCorner,2014,LeftFoot,5674,Atletico Madrid,Rayo Vallecano,3,1,2015-01-24 19:00:00,,CornerAwarded
+37657,60,MissedShots,0.845999984741211,0.33099998474121095,0.037239231169223785,Roberto Trashorras,a,2162,OpenPlay,2014,LeftFoot,5674,Atletico Madrid,Rayo Vallecano,3,1,2015-01-24 19:00:00,,None
+37658,76,MissedShots,0.8009999847412109,0.7019999694824218,0.04535162076354027,Manucho,a,2171,OpenPlay,2014,LeftFoot,5674,Atletico Madrid,Rayo Vallecano,3,1,2015-01-24 19:00:00,Álex Pozuelo,Pass
+37659,77,SavedShot,0.9119999694824219,0.41900001525878905,0.33214837312698364,Alberto Bueno,a,4119,OpenPlay,2014,RightFoot,5674,Atletico Madrid,Rayo Vallecano,3,1,2015-01-24 19:00:00,Roberto Trashorras,Throughball
+37660,78,MissedShots,0.95,0.5320000076293945,0.12829358875751495,Manucho,a,2171,FromCorner,2014,Head,5674,Atletico Madrid,Rayo Vallecano,3,1,2015-01-24 19:00:00,Roberto Trashorras,Cross
+37662,89,MissedShots,0.7080000305175781,0.5329999923706055,0.013607194647192955,Zé Castro,a,2487,FromCorner,2014,RightFoot,5674,Atletico Madrid,Rayo Vallecano,3,1,2015-01-24 19:00:00,,None
+37664,92,MissedShots,0.7240000152587891,0.3579999923706055,0.008429959416389465,Raúl Baena,a,2488,OpenPlay,2014,RightFoot,5674,Atletico Madrid,Rayo Vallecano,3,1,2015-01-24 19:00:00,,None

@@ -1,0 +1,25 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+123183,2,BlockedShot,0.845999984741211,0.3770000076293945,0.0385013185441494,Javi García,h,3061,FromCorner,2016,RightFoot,4327,Zenit St. Petersburg,Anzhi Makhachkala,1,1,2017-04-08 17:00:00,,None
+123184,2,MissedShots,0.919000015258789,0.5870000076293945,0.0987548828125,Artem Dzyuba,h,3063,FromCorner,2016,RightFoot,4327,Zenit St. Petersburg,Anzhi Makhachkala,1,1,2017-04-08 17:00:00,,Rebound
+123187,7,MissedShots,0.9440000152587891,0.3509999847412109,0.04698960483074188,Danny,h,3080,OpenPlay,2016,RightFoot,4327,Zenit St. Petersburg,Anzhi Makhachkala,1,1,2017-04-08 17:00:00,Nicolas Lombaerts,Cross
+123188,10,MissedShots,0.7869999694824219,0.6659999847412109,0.021678384393453598,Evgeniy Chernov,h,5469,OpenPlay,2016,LeftFoot,4327,Zenit St. Petersburg,Anzhi Makhachkala,1,1,2017-04-08 17:00:00,Artem Dzyuba,Pass
+123192,33,BlockedShot,0.674000015258789,0.6370000076293946,0.00958192814141512,Hernani,h,5509,OpenPlay,2016,RightFoot,4327,Zenit St. Petersburg,Anzhi Makhachkala,1,1,2017-04-08 17:00:00,,None
+123197,59,BlockedShot,0.8690000152587891,0.54,0.07942056655883789,Artem Dzyuba,h,3063,OpenPlay,2016,RightFoot,4327,Zenit St. Petersburg,Anzhi Makhachkala,1,1,2017-04-08 17:00:00,Hernani,Pass
+123198,72,Goal,0.9569999694824218,0.5179999923706055,0.6499370336532593,Aleksandr Kokorin,h,3066,OpenPlay,2016,RightFoot,4327,Zenit St. Petersburg,Anzhi Makhachkala,1,1,2017-04-08 17:00:00,,TakeOn
+123200,83,SavedShot,0.7280000305175781,0.7030000305175781,0.0341801680624485,Hernani,h,5509,DirectFreekick,2016,RightFoot,4327,Zenit St. Petersburg,Anzhi Makhachkala,1,1,2017-04-08 17:00:00,,Standard
+123201,85,MissedShots,0.965999984741211,0.34599998474121096,0.036500923335552216,Robert Mak,h,5468,OpenPlay,2016,RightFoot,4327,Zenit St. Petersburg,Anzhi Makhachkala,1,1,2017-04-08 17:00:00,Danny,Cross
+123185,3,BlockedShot,0.845,0.590999984741211,0.07600928843021393,Felicio Brown Forbes,a,3099,OpenPlay,2016,LeftFoot,4327,Zenit St. Petersburg,Anzhi Makhachkala,1,1,2017-04-08 17:00:00,Pylyp Budkivsky,Pass
+123186,5,MissedShots,0.750999984741211,0.55,0.02003646269440651,Guram Tetrashvili,a,5443,OpenPlay,2016,RightFoot,4327,Zenit St. Petersburg,Anzhi Makhachkala,1,1,2017-04-08 17:00:00,,None
+123189,16,MissedShots,0.7180000305175781,0.505,0.019002825021743774,Adlan Katsaev,a,4559,OpenPlay,2016,RightFoot,4327,Zenit St. Petersburg,Anzhi Makhachkala,1,1,2017-04-08 17:00:00,Pavel Yakovlev,Pass
+123190,20,Goal,0.9159999847412109,0.40700000762939453,0.1229582279920578,Pavel Yakovlev,a,2995,OpenPlay,2016,RightFoot,4327,Zenit St. Petersburg,Anzhi Makhachkala,1,1,2017-04-08 17:00:00,Sergey Parshivlyuk,Pass
+123191,23,MissedShots,0.8169999694824219,0.7090000152587891,0.023829149082303047,Pavel Yakovlev,a,2995,OpenPlay,2016,LeftFoot,4327,Zenit St. Petersburg,Anzhi Makhachkala,1,1,2017-04-08 17:00:00,Felicio Brown Forbes,Pass
+123193,40,MissedShots,0.7930000305175782,0.54,0.029653092846274376,Felicio Brown Forbes,a,3099,OpenPlay,2016,LeftFoot,4327,Zenit St. Petersburg,Anzhi Makhachkala,1,1,2017-04-08 17:00:00,Pavel Yakovlev,Cross
+123194,42,MissedShots,0.8030000305175782,0.7559999847412109,0.02258669212460518,Pavel Yakovlev,a,2995,OpenPlay,2016,LeftFoot,4327,Zenit St. Petersburg,Anzhi Makhachkala,1,1,2017-04-08 17:00:00,,None
+123195,50,BlockedShot,0.8159999847412109,0.3890000152587891,0.11901048570871353,Sergey Parshivlyuk,a,2828,DirectFreekick,2016,RightFoot,4327,Zenit St. Petersburg,Anzhi Makhachkala,1,1,2017-04-08 17:00:00,,Standard
+123196,50,MissedShots,0.7559999847412109,0.645,0.01897074468433857,Guram Tetrashvili,a,5443,OpenPlay,2016,LeftFoot,4327,Zenit St. Petersburg,Anzhi Makhachkala,1,1,2017-04-08 17:00:00,,Rebound
+123199,76,MissedShots,0.7880000305175782,0.25799999237060545,0.016093173995614052,Arsen Khubulov,a,2733,OpenPlay,2016,RightFoot,4327,Zenit St. Petersburg,Anzhi Makhachkala,1,1,2017-04-08 17:00:00,Guram Tetrashvili,BallRecovery
+123202,86,MissedShots,0.7819999694824219,0.6680000305175782,0.030447309836745262,Pavel Yakovlev,a,2995,OpenPlay,2016,RightFoot,4327,Zenit St. Petersburg,Anzhi Makhachkala,1,1,2017-04-08 17:00:00,Saeid Ezatolahi,LayOff
+123203,87,MissedShots,0.6980000305175781,0.5940000152587891,0.010993319563567638,Saeid Ezatolahi,a,2777,OpenPlay,2016,RightFoot,4327,Zenit St. Petersburg,Anzhi Makhachkala,1,1,2017-04-08 17:00:00,Aleksandr Prudnikov,Pass
+123204,88,MissedShots,0.9540000152587891,0.48200000762939454,0.12937059998512268,Thomas Phibel,a,3029,FromCorner,2016,Head,4327,Zenit St. Petersburg,Anzhi Makhachkala,1,1,2017-04-08 17:00:00,Arsen Khubulov,Cross
+123205,91,SavedShot,0.8640000152587891,0.69,0.04816310107707977,Pylyp Budkivsky,a,5445,OpenPlay,2016,RightFoot,4327,Zenit St. Petersburg,Anzhi Makhachkala,1,1,2017-04-08 17:00:00,Magomed Musalov,Pass
+123206,92,BlockedShot,0.889000015258789,0.39,0.1020827516913414,Arsen Khubulov,a,2733,OpenPlay,2016,LeftFoot,4327,Zenit St. Petersburg,Anzhi Makhachkala,1,1,2017-04-08 17:00:00,Aleksandr Prudnikov,Pass

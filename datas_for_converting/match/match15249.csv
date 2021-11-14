@@ -1,0 +1,32 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+393875,11,MissedShots,0.799000015258789,0.6919999694824219,0.020695306360721588,Marcus Thuram,h,5992,OpenPlay,2020,LeftFoot,15249,Borussia M.Gladbach,Hoffenheim,1,2,2020-12-19 14:30:00,Breel Embolo,Pass
+393876,13,MissedShots,0.7190000152587891,0.4640000152587891,0.0485483855009079,Lars Stindl,h,208,DirectFreekick,2020,RightFoot,15249,Borussia M.Gladbach,Hoffenheim,1,2,2020-12-19 14:30:00,,Standard
+393878,19,MissedShots,0.81,0.48400001525878905,0.05019204691052437,Florian Neuhaus,h,7065,OpenPlay,2020,RightFoot,15249,Borussia M.Gladbach,Hoffenheim,1,2,2020-12-19 14:30:00,,None
+393879,20,MissedShots,0.8780000305175781,0.38299999237060545,0.0739058256149292,Breel Embolo,h,5356,OpenPlay,2020,RightFoot,15249,Borussia M.Gladbach,Hoffenheim,1,2,2020-12-19 14:30:00,Stefan Lainer,Chipped
+393881,28,BlockedShot,0.7480000305175781,0.53,0.023068971931934357,Florian Neuhaus,h,7065,OpenPlay,2020,RightFoot,15249,Borussia M.Gladbach,Hoffenheim,1,2,2020-12-19 14:30:00,Lars Stindl,LayOff
+393882,31,MissedShots,0.870999984741211,0.45099998474121095,0.5370573997497559,Breel Embolo,h,5356,OpenPlay,2020,RightFoot,15249,Borussia M.Gladbach,Hoffenheim,1,2,2020-12-19 14:30:00,Florian Neuhaus,Throughball
+393883,33,Goal,0.885,0.5,0.7576152682304382,Lars Stindl,h,208,Penalty,2020,RightFoot,15249,Borussia M.Gladbach,Hoffenheim,1,2,2020-12-19 14:30:00,,Standard
+393887,43,MissedShots,0.8490000152587891,0.245,0.03536196053028107,Lars Stindl,h,208,OpenPlay,2020,RightFoot,15249,Borussia M.Gladbach,Hoffenheim,1,2,2020-12-19 14:30:00,Stefan Lainer,Pass
+393888,44,MissedShots,0.9459999847412109,0.3890000152587891,0.01564386859536171,Marcus Thuram,h,5992,FromCorner,2020,Head,15249,Borussia M.Gladbach,Hoffenheim,1,2,2020-12-19 14:30:00,Lars Stindl,Aerial
+393889,51,BlockedShot,0.8369999694824218,0.6580000305175782,0.06960500031709671,Marcus Thuram,h,5992,OpenPlay,2020,RightFoot,15249,Borussia M.Gladbach,Hoffenheim,1,2,2020-12-19 14:30:00,Lars Stindl,Pass
+393890,58,SavedShot,0.750999984741211,0.6029999923706054,0.023701073601841927,Lars Stindl,h,208,OpenPlay,2020,RightFoot,15249,Borussia M.Gladbach,Hoffenheim,1,2,2020-12-19 14:30:00,Valentino Lazaro,Pass
+393893,61,MissedShots,0.7919999694824219,0.7140000152587891,0.02050633169710636,Valentino Lazaro,h,6352,FromCorner,2020,RightFoot,15249,Borussia M.Gladbach,Hoffenheim,1,2,2020-12-19 14:30:00,Stefan Lainer,Pass
+393894,63,SavedShot,0.8030000305175782,0.534000015258789,0.0649125799536705,Breel Embolo,h,5356,OpenPlay,2020,RightFoot,15249,Borussia M.Gladbach,Hoffenheim,1,2,2020-12-19 14:30:00,Matthias Ginter,Chipped
+393897,76,SavedShot,0.7759999847412109,0.7,0.014976694248616695,Marcus Thuram,h,5992,OpenPlay,2020,RightFoot,15249,Borussia M.Gladbach,Hoffenheim,1,2,2020-12-19 14:30:00,,None
+393901,87,SavedShot,0.8969999694824219,0.45099998474121095,0.3724396824836731,Breel Embolo,h,5356,SetPiece,2020,Head,15249,Borussia M.Gladbach,Hoffenheim,1,2,2020-12-19 14:30:00,Stefan Lainer,HeadPass
+393873,8,MissedShots,0.9159999847412109,0.5,0.06085028499364853,Florian Grillitsch,a,116,OpenPlay,2020,Head,15249,Borussia M.Gladbach,Hoffenheim,1,2,2020-12-19 14:30:00,Ishak Belfodil,Aerial
+393874,10,SavedShot,0.7469999694824219,0.5459999847412109,0.02197706513106823,Dennis Geiger,a,6081,OpenPlay,2020,RightFoot,15249,Borussia M.Gladbach,Hoffenheim,1,2,2020-12-19 14:30:00,Florian Grillitsch,Pass
+393877,17,MissedShots,0.7559999847412109,0.4520000076293945,0.072451151907444,Robert Skov,a,7867,DirectFreekick,2020,LeftFoot,15249,Borussia M.Gladbach,Hoffenheim,1,2,2020-12-19 14:30:00,,Standard
+393880,21,BlockedShot,0.860999984741211,0.5120000076293946,0.019047148525714874,Christoph Baumgartner,a,7422,OpenPlay,2020,Head,15249,Borussia M.Gladbach,Hoffenheim,1,2,2020-12-19 14:30:00,Stefan Posch,Aerial
+393884,35,ShotOnPost,0.754000015258789,0.4279999923706055,0.021992487832903862,Andrej Kramaric,a,956,OpenPlay,2020,RightFoot,15249,Borussia M.Gladbach,Hoffenheim,1,2,2020-12-19 14:30:00,Stefan Posch,Pass
+393885,36,MissedShots,0.715,0.5029999923706054,0.016146164387464523,Florian Grillitsch,a,116,OpenPlay,2020,RightFoot,15249,Borussia M.Gladbach,Hoffenheim,1,2,2020-12-19 14:30:00,Dennis Geiger,Pass
+393886,40,MissedShots,0.8719999694824219,0.4540000152587891,0.025223055854439735,Stefan Posch,a,5329,FromCorner,2020,Head,15249,Borussia M.Gladbach,Hoffenheim,1,2,2020-12-19 14:30:00,Robert Skov,Cross
+393891,59,MissedShots,0.9380000305175781,0.41900001525878905,0.030059009790420532,Håvard Nordtveit,a,202,FromCorner,2020,Head,15249,Borussia M.Gladbach,Hoffenheim,1,2,2020-12-19 14:30:00,Robert Skov,Aerial
+393892,59,SavedShot,0.960999984741211,0.4909999847412109,0.6755422353744507,Christoph Baumgartner,a,7422,FromCorner,2020,LeftFoot,15249,Borussia M.Gladbach,Hoffenheim,1,2,2020-12-19 14:30:00,Håvard Nordtveit,Rebound
+393895,64,SavedShot,0.93,0.40900001525878904,0.08688687533140182,Florian Grillitsch,a,116,OpenPlay,2020,RightFoot,15249,Borussia M.Gladbach,Hoffenheim,1,2,2020-12-19 14:30:00,Stefan Posch,Chipped
+393896,74,Goal,0.914000015258789,0.53,0.49477770924568176,Andrej Kramaric,a,956,OpenPlay,2020,RightFoot,15249,Borussia M.Gladbach,Hoffenheim,1,2,2020-12-19 14:30:00,Ihlas Bebou,Cross
+393898,84,MissedShots,0.735999984741211,0.39099998474121095,0.013760603964328766,Sebastian Rudy,a,90,OpenPlay,2020,RightFoot,15249,Borussia M.Gladbach,Hoffenheim,1,2,2020-12-19 14:30:00,,None
+393899,85,MissedShots,0.925,0.5020000076293946,0.05776005610823631,Sargis Adamyan,a,7900,OpenPlay,2020,Head,15249,Borussia M.Gladbach,Hoffenheim,1,2,2020-12-19 14:30:00,Kevin Akpoguma,Goal
+393900,85,Goal,0.9519999694824218,0.580999984741211,0.5012001395225525,Ryan Sessegnon,a,6837,OpenPlay,2020,LeftFoot,15249,Borussia M.Gladbach,Hoffenheim,1,2,2020-12-19 14:30:00,Sargis Adamyan,None
+393902,88,BlockedShot,0.860999984741211,0.4420000076293945,0.07824380695819855,Munas Dabbur,a,8140,OpenPlay,2020,RightFoot,15249,Borussia M.Gladbach,Hoffenheim,1,2,2020-12-19 14:30:00,Sargis Adamyan,Cross
+393903,90,BlockedShot,0.9469999694824218,0.6020000076293945,0.13193048536777496,Sargis Adamyan,a,7900,OpenPlay,2020,LeftFoot,15249,Borussia M.Gladbach,Hoffenheim,1,2,2020-12-19 14:30:00,Ryan Sessegnon,Pass

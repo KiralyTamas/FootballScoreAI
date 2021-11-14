@@ -1,0 +1,25 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+167020,12,BlockedShot,0.789000015258789,0.3820000076293945,0.02851639874279499,Leon Goretzka,h,335,OpenPlay,2017,RightFoot,8296,Schalke 04,Bayern Munich,0,3,2017-09-19 19:30:00,,None
+167022,21,SavedShot,0.9259999847412109,0.615999984741211,0.49331149458885193,Amine Harit,h,5717,OpenPlay,2017,LeftFoot,8296,Schalke 04,Bayern Munich,0,3,2017-09-19 19:30:00,Bastian Oczipka,Pass
+167025,30,BlockedShot,0.965999984741211,0.41900001525878905,0.08268173038959503,Guido Burgstaller,h,5302,OpenPlay,2017,RightFoot,8296,Schalke 04,Bayern Munich,0,3,2017-09-19 19:30:00,,None
+167026,44,MissedShots,0.74,0.40700000762939453,0.011752640828490257,Nabil Bentaleb,h,914,OpenPlay,2017,LeftFoot,8296,Schalke 04,Bayern Munich,0,3,2017-09-19 19:30:00,,None
+167029,53,MissedShots,0.8640000152587891,0.34200000762939453,0.0639631599187851,Daniel Caligiuri,h,157,OpenPlay,2017,LeftFoot,8296,Schalke 04,Bayern Munich,0,3,2017-09-19 19:30:00,Thilo Kehrer,Pass
+167030,56,MissedShots,0.9309999847412109,0.7319999694824219,0.08279477804899216,Yevhen Konoplyanka,h,2068,OpenPlay,2017,LeftFoot,8296,Schalke 04,Bayern Munich,0,3,2017-09-19 19:30:00,Matija Nastasic,BallRecovery
+167031,59,MissedShots,0.7619999694824219,0.3220000076293945,0.017941957339644432,Leon Goretzka,h,335,OpenPlay,2017,RightFoot,8296,Schalke 04,Bayern Munich,0,3,2017-09-19 19:30:00,Guido Burgstaller,Pass
+167033,65,SavedShot,0.895,0.6179999923706054,0.2563766837120056,Guido Burgstaller,h,5302,OpenPlay,2017,LeftFoot,8296,Schalke 04,Bayern Munich,0,3,2017-09-19 19:30:00,Bastian Oczipka,Chipped
+167034,65,BlockedShot,0.855999984741211,0.29399999618530276,0.040415551513433456,Leon Goretzka,h,335,OpenPlay,2017,LeftFoot,8296,Schalke 04,Bayern Munich,0,3,2017-09-19 19:30:00,Daniel Caligiuri,Pass
+167037,78,SavedShot,0.8109999847412109,0.7269999694824218,0.01895745098590851,Yevhen Konoplyanka,h,2068,FromCorner,2017,RightFoot,8296,Schalke 04,Bayern Munich,0,3,2017-09-19 19:30:00,Thilo Kehrer,HeadPass
+167039,90,BlockedShot,0.9290000152587891,0.34200000762939453,0.06607992202043533,Franco Di Santo,h,341,OpenPlay,2017,LeftFoot,8296,Schalke 04,Bayern Munich,0,3,2017-09-19 19:30:00,,Dispossessed
+167016,2,MissedShots,0.9330000305175781,0.4879999923706055,0.12378603965044022,Javi Martínez,a,225,FromCorner,2017,Head,8296,Schalke 04,Bayern Munich,0,3,2017-09-19 19:30:00,James Rodríguez,Cross
+167017,7,SavedShot,0.7909999847412109,0.59,0.029683031141757965,Sebastian Rudy,a,90,OpenPlay,2017,RightFoot,8296,Schalke 04,Bayern Munich,0,3,2017-09-19 19:30:00,James Rodríguez,Pass
+167018,9,SavedShot,0.9309999847412109,0.6719999694824219,0.06405828893184662,Thomas Müller,a,224,OpenPlay,2017,LeftFoot,8296,Schalke 04,Bayern Munich,0,3,2017-09-19 19:30:00,James Rodríguez,Chipped
+167019,10,MissedShots,0.8980000305175782,0.5609999847412109,0.06156697869300842,Javi Martínez,a,225,FromCorner,2017,Head,8296,Schalke 04,Bayern Munich,0,3,2017-09-19 19:30:00,Joshua Kimmich,Cross
+167021,13,SavedShot,0.7469999694824219,0.47,0.020853940397500992,Corentin Tolisso,a,3603,OpenPlay,2017,RightFoot,8296,Schalke 04,Bayern Munich,0,3,2017-09-19 19:30:00,Robert Lewandowski,Pass
+167023,24,Goal,0.885,0.5,0.75777667760849,Robert Lewandowski,a,227,Penalty,2017,RightFoot,8296,Schalke 04,Bayern Munich,0,3,2017-09-19 19:30:00,,Standard
+167024,28,Goal,0.87,0.39,0.3186247944831848,James Rodríguez,a,2249,OpenPlay,2017,LeftFoot,8296,Schalke 04,Bayern Munich,0,3,2017-09-19 19:30:00,Corentin Tolisso,Pass
+167027,50,ShotOnPost,0.91,0.46700000762939453,0.29986098408699036,Thomas Müller,a,224,OpenPlay,2017,Head,8296,Schalke 04,Bayern Munich,0,3,2017-09-19 19:30:00,James Rodríguez,Cross
+167028,51,MissedShots,0.8540000152587891,0.524000015258789,0.11065169423818588,Robert Lewandowski,a,227,OpenPlay,2017,RightFoot,8296,Schalke 04,Bayern Munich,0,3,2017-09-19 19:30:00,Rafinha,Pass
+167032,59,SavedShot,0.8880000305175781,0.715,0.06263403594493866,Kingsley Coman,a,226,OpenPlay,2017,LeftFoot,8296,Schalke 04,Bayern Munich,0,3,2017-09-19 19:30:00,Thomas Müller,Pass
+167035,68,MissedShots,0.9319999694824219,0.25,0.08151419460773468,Thomas Müller,a,224,OpenPlay,2017,RightFoot,8296,Schalke 04,Bayern Munich,0,3,2017-09-19 19:30:00,Thiago Alcántara,Chipped
+167036,74,Goal,0.8930000305175781,0.4779999923706055,0.4117220342159271,Arturo Vidal,a,222,OpenPlay,2017,RightFoot,8296,Schalke 04,Bayern Munich,0,3,2017-09-19 19:30:00,James Rodríguez,Chipped
+167038,87,SavedShot,0.8730000305175781,0.43900001525878907,0.11232822388410568,James Rodríguez,a,2249,OpenPlay,2017,LeftFoot,8296,Schalke 04,Bayern Munich,0,3,2017-09-19 19:30:00,Thomas Müller,Cross

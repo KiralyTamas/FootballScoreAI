@@ -1,0 +1,26 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+186438,0,Goal,0.9469999694824218,0.4329999923706055,0.39191240072250366,Raheem Sterling,h,618,OpenPlay,2017,LeftFoot,7335,Manchester City,Watford,3,1,2018-01-02 20:00:00,Leroy Sané,Cross
+186439,4,MissedShots,0.9309999847412109,0.53,0.5093809366226196,John Stones,h,586,FromCorner,2017,LeftFoot,7335,Manchester City,Watford,3,1,2018-01-02 20:00:00,Leroy Sané,Pass
+186442,17,SavedShot,0.8059999847412109,0.72,0.0640684962272644,Kevin De Bruyne,h,447,DirectFreekick,2017,RightFoot,7335,Manchester City,Watford,3,1,2018-01-02 20:00:00,,Standard
+186443,17,MissedShots,0.8690000152587891,0.42900001525878906,0.07728531956672668,Raheem Sterling,h,618,SetPiece,2017,RightFoot,7335,Manchester City,Watford,3,1,2018-01-02 20:00:00,,Rebound
+186444,17,SavedShot,0.91,0.46599998474121096,0.03051885776221752,John Stones,h,586,SetPiece,2017,Head,7335,Manchester City,Watford,3,1,2018-01-02 20:00:00,Raheem Sterling,Rebound
+186447,36,MissedShots,0.860999984741211,0.6659999847412109,0.06413592398166656,David Silva,h,617,OpenPlay,2017,LeftFoot,7335,Manchester City,Watford,3,1,2018-01-02 20:00:00,Leroy Sané,Pass
+186448,39,SavedShot,0.9619999694824218,0.4520000076293945,0.1450895071029663,Sergio Agüero,h,619,OpenPlay,2017,RightFoot,7335,Manchester City,Watford,3,1,2018-01-02 20:00:00,Kevin De Bruyne,Cross
+186449,41,MissedShots,0.9359999847412109,0.27700000762939453,0.08431746810674667,Raheem Sterling,h,618,OpenPlay,2017,RightFoot,7335,Manchester City,Watford,3,1,2018-01-02 20:00:00,Fernandinho,Chipped
+186451,46,SavedShot,0.8530000305175781,0.43900001525878907,0.11491093784570694,Sergio Agüero,h,619,OpenPlay,2017,RightFoot,7335,Manchester City,Watford,3,1,2018-01-02 20:00:00,Kevin De Bruyne,Pass
+186452,47,MissedShots,0.9069999694824219,0.5359999847412109,0.29400119185447693,Sergio Agüero,h,619,OpenPlay,2017,Head,7335,Manchester City,Watford,3,1,2018-01-02 20:00:00,Kevin De Bruyne,Cross
+186453,49,MissedShots,0.9719999694824218,0.8140000152587891,0.06926736235618591,Kevin De Bruyne,h,447,DirectFreekick,2017,RightFoot,7335,Manchester City,Watford,3,1,2018-01-02 20:00:00,,Standard
+186454,53,BlockedShot,0.874000015258789,0.6780000305175782,0.08057243376970291,Sergio Agüero,h,619,OpenPlay,2017,LeftFoot,7335,Manchester City,Watford,3,1,2018-01-02 20:00:00,Kevin De Bruyne,Pass
+186455,62,Goal,0.9640000152587891,0.4620000076293945,0.6008769869804382,Sergio Agüero,h,619,FromCorner,2017,RightFoot,7335,Manchester City,Watford,3,1,2018-01-02 20:00:00,,None
+186456,66,MissedShots,0.759000015258789,0.3940000152587891,0.020803162828087807,Kevin De Bruyne,h,447,OpenPlay,2017,RightFoot,7335,Manchester City,Watford,3,1,2018-01-02 20:00:00,Raheem Sterling,Pass
+186457,67,BlockedShot,0.8909999847412109,0.5929999923706055,0.13231655955314636,Leroy Sané,h,337,OpenPlay,2017,RightFoot,7335,Manchester City,Watford,3,1,2018-01-02 20:00:00,Kevin De Bruyne,Pass
+186458,77,BlockedShot,0.8019999694824219,0.69,0.024539999663829803,Kevin De Bruyne,h,447,OpenPlay,2017,RightFoot,7335,Manchester City,Watford,3,1,2018-01-02 20:00:00,Leroy Sané,Pass
+186461,88,SavedShot,0.9319999694824219,0.31799999237060544,0.07909512519836426,Raheem Sterling,h,618,OpenPlay,2017,RightFoot,7335,Manchester City,Watford,3,1,2018-01-02 20:00:00,Bernardo Silva,Pass
+186440,7,SavedShot,0.9269999694824219,0.7090000152587891,0.044848278164863586,Andre Gray,a,1660,SetPiece,2017,RightFoot,7335,Manchester City,Watford,3,1,2018-01-02 20:00:00,Christian Kabasele,Chipped
+186441,12,OwnGoal,0.06,0.53,0,Christian Kabasele,a,1725,OpenPlay,2017,RightFoot,7335,Manchester City,Watford,3,1,2018-01-02 20:00:00,,Clearance
+186445,27,MissedShots,0.7140000152587891,0.24399999618530274,0.0076889945194125175,Daryl Janmaat,a,764,OpenPlay,2017,RightFoot,7335,Manchester City,Watford,3,1,2018-01-02 20:00:00,Abdoulaye Doucouré,Pass
+186446,28,SavedShot,0.8540000152587891,0.27299999237060546,0.08302488178014755,Andre Gray,a,1660,OpenPlay,2017,RightFoot,7335,Manchester City,Watford,3,1,2018-01-02 20:00:00,Etienne Capoue,Throughball
+186450,42,SavedShot,0.875,0.6509999847412109,0.07325918227434158,André Carrillo,a,6230,OpenPlay,2017,LeftFoot,7335,Manchester City,Watford,3,1,2018-01-02 20:00:00,Andre Gray,TakeOn
+186459,81,Goal,0.9640000152587891,0.48200000762939454,0.7146391868591309,Andre Gray,a,1660,OpenPlay,2017,RightFoot,7335,Manchester City,Watford,3,1,2018-01-02 20:00:00,André Carrillo,Pass
+186460,86,BlockedShot,0.8580000305175781,0.67,0.0346514955163002,Abdoulaye Doucouré,a,1726,OpenPlay,2017,LeftFoot,7335,Manchester City,Watford,3,1,2018-01-02 20:00:00,,None
+186462,90,MissedShots,0.759000015258789,0.15100000381469728,0.007170635275542736,Abdoulaye Doucouré,a,1726,OpenPlay,2017,RightFoot,7335,Manchester City,Watford,3,1,2018-01-02 20:00:00,,BallRecovery

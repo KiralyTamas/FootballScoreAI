@@ -1,0 +1,28 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+187936,3,BlockedShot,0.8340000152587891,0.5270000076293946,0.0840964987874031,Mohamed Salah,h,1250,OpenPlay,2017,LeftFoot,7343,Liverpool,Manchester City,4,3,2018-01-14 16:00:00,Sadio Mané,Pass
+187937,8,Goal,0.8080000305175781,0.3060000038146973,0.019250040873885155,Alex Oxlade-Chamberlain,h,966,OpenPlay,2017,RightFoot,7343,Liverpool,Manchester City,4,3,2018-01-14 16:00:00,Roberto Firmino,TakeOn
+187938,14,MissedShots,0.9519999694824218,0.37400001525878906,0.2758099436759949,Mohamed Salah,h,1250,OpenPlay,2017,LeftFoot,7343,Liverpool,Manchester City,4,3,2018-01-14 16:00:00,Roberto Firmino,TakeOn
+187940,30,MissedShots,0.9319999694824219,0.3579999923706055,0.02714673802256584,Roberto Firmino,h,482,OpenPlay,2017,Head,7343,Liverpool,Manchester City,4,3,2018-01-14 16:00:00,Alex Oxlade-Chamberlain,Cross
+187942,37,BlockedShot,0.7709999847412109,0.3509999847412109,0.02859155461192131,Georginio Wijnaldum,h,771,OpenPlay,2017,RightFoot,7343,Liverpool,Manchester City,4,3,2018-01-14 16:00:00,Joseph Gomez,Pass
+187943,38,SavedShot,0.8159999847412109,0.27399999618530274,0.031323645263910294,Mohamed Salah,h,1250,OpenPlay,2017,LeftFoot,7343,Liverpool,Manchester City,4,3,2018-01-14 16:00:00,Georginio Wijnaldum,Pass
+187945,43,BlockedShot,0.8009999847412109,0.32099998474121094,0.026739289984107018,Mohamed Salah,h,1250,FromCorner,2017,LeftFoot,7343,Liverpool,Manchester City,4,3,2018-01-14 16:00:00,Alex Oxlade-Chamberlain,Pass
+187947,46,BlockedShot,0.7680000305175781,0.42900001525878906,0.027979426085948944,Roberto Firmino,h,482,OpenPlay,2017,LeftFoot,7343,Liverpool,Manchester City,4,3,2018-01-14 16:00:00,Mohamed Salah,Pass
+187950,55,SavedShot,0.8519999694824218,0.33,0.031569063663482666,Mohamed Salah,h,1250,FromCorner,2017,LeftFoot,7343,Liverpool,Manchester City,4,3,2018-01-14 16:00:00,,None
+187951,55,SavedShot,0.9330000305175781,0.6880000305175781,0.07097851485013962,Alex Oxlade-Chamberlain,h,966,OpenPlay,2017,RightFoot,7343,Liverpool,Manchester City,4,3,2018-01-14 16:00:00,Emre Can,TakeOn
+187952,57,BlockedShot,0.8109999847412109,0.595999984741211,0.042229875922203064,Sadio Mané,h,838,OpenPlay,2017,RightFoot,7343,Liverpool,Manchester City,4,3,2018-01-14 16:00:00,,None
+187953,58,Goal,0.889000015258789,0.6719999694824219,0.1454101800918579,Roberto Firmino,h,482,OpenPlay,2017,RightFoot,7343,Liverpool,Manchester City,4,3,2018-01-14 16:00:00,Alex Oxlade-Chamberlain,Throughball
+187954,60,ShotOnPost,0.8280000305175781,0.565,0.07458509504795074,Sadio Mané,h,838,OpenPlay,2017,RightFoot,7343,Liverpool,Manchester City,4,3,2018-01-14 16:00:00,,BallRecovery
+187955,61,Goal,0.8480000305175781,0.585,0.09415687620639801,Sadio Mané,h,838,OpenPlay,2017,LeftFoot,7343,Liverpool,Manchester City,4,3,2018-01-14 16:00:00,Mohamed Salah,Pass
+187956,67,Goal,0.664000015258789,0.6430000305175781,0.01151213888078928,Mohamed Salah,h,1250,OpenPlay,2017,LeftFoot,7343,Liverpool,Manchester City,4,3,2018-01-14 16:00:00,,None
+187958,81,MissedShots,0.7580000305175781,0.54,0.024567507207393646,Georginio Wijnaldum,h,771,OpenPlay,2017,RightFoot,7343,Liverpool,Manchester City,4,3,2018-01-14 16:00:00,Roberto Firmino,Pass
+187939,22,BlockedShot,0.779000015258789,0.36400001525878906,0.02487194910645485,Leroy Sané,a,337,OpenPlay,2017,LeftFoot,7343,Liverpool,Manchester City,4,3,2018-01-14 16:00:00,Kyle Walker,Pass
+187941,34,SavedShot,0.7430000305175781,0.40299999237060546,0.01746055670082569,Kevin De Bruyne,a,447,OpenPlay,2017,RightFoot,7343,Liverpool,Manchester City,4,3,2018-01-14 16:00:00,Sergio Agüero,Pass
+187944,40,Goal,0.919000015258789,0.68,0.055776748806238174,Leroy Sané,a,337,OpenPlay,2017,LeftFoot,7343,Liverpool,Manchester City,4,3,2018-01-14 16:00:00,Kyle Walker,TakeOn
+187946,44,MissedShots,0.7319999694824219,0.4209999847412109,0.017516974359750748,Fernandinho,a,614,OpenPlay,2017,RightFoot,7343,Liverpool,Manchester City,4,3,2018-01-14 16:00:00,Ilkay Gündogan,Pass
+187948,50,BlockedShot,0.905,0.6619999694824219,0.07815102487802505,Sergio Agüero,a,619,OpenPlay,2017,RightFoot,7343,Liverpool,Manchester City,4,3,2018-01-14 16:00:00,Raheem Sterling,Pass
+187949,50,ShotOnPost,0.9069999694824219,0.48,0.026827653869986534,Nicolás Otamendi,a,611,FromCorner,2017,Head,7343,Liverpool,Manchester City,4,3,2018-01-14 16:00:00,Leroy Sané,Aerial
+187957,80,BlockedShot,0.7530000305175781,0.5459999847412109,0.020344989374279976,Ilkay Gündogan,a,314,OpenPlay,2017,RightFoot,7343,Liverpool,Manchester City,4,3,2018-01-14 16:00:00,Bernardo Silva,Pass
+187959,83,BlockedShot,0.8959999847412109,0.585,0.09904380887746811,Ilkay Gündogan,a,314,OpenPlay,2017,RightFoot,7343,Liverpool,Manchester City,4,3,2018-01-14 16:00:00,Sergio Agüero,Pass
+187960,83,Goal,0.89,0.4229999923706055,0.3022613525390625,Bernardo Silva,a,3635,OpenPlay,2017,LeftFoot,7343,Liverpool,Manchester City,4,3,2018-01-14 16:00:00,,Rebound
+187961,90,Goal,0.9230000305175782,0.49900001525878906,0.0911993756890297,Ilkay Gündogan,a,314,OpenPlay,2017,RightFoot,7343,Liverpool,Manchester City,4,3,2018-01-14 16:00:00,Sergio Agüero,Cross
+187962,91,MissedShots,0.7709999847412109,0.7030000305175781,0.019441576674580574,Sergio Agüero,a,619,OpenPlay,2017,RightFoot,7343,Liverpool,Manchester City,4,3,2018-01-14 16:00:00,Nicolás Otamendi,Pass

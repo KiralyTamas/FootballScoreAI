@@ -1,0 +1,33 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+188066,25,MissedShots,0.6709999847412109,0.49,0.010119978338479996,Andrei Girotto,h,6112,OpenPlay,2017,RightFoot,8759,Nantes,Paris Saint Germain,0,1,2018-01-14 20:00:00,,BallRecovery
+188068,35,MissedShots,0.8640000152587891,0.6079999923706054,0.012770312838256359,Valentin Rongier,h,3673,OpenPlay,2017,Head,8759,Nantes,Paris Saint Germain,0,1,2018-01-14 20:00:00,Léo Dubois,Aerial
+188071,40,MissedShots,0.67,0.43900001525878907,0.012556241825222969,Abdoulaye Touré,h,3674,OpenPlay,2017,LeftFoot,8759,Nantes,Paris Saint Germain,0,1,2018-01-14 20:00:00,Valentin Rongier,Pass
+188072,41,MissedShots,0.6809999847412109,0.7480000305175781,0.009462683461606503,Lucas Lima,h,5713,OpenPlay,2017,LeftFoot,8759,Nantes,Paris Saint Germain,0,1,2018-01-14 20:00:00,Léo Dubois,HeadPass
+188073,42,MissedShots,0.7630000305175781,0.6630000305175782,0.020252635702490807,Léo Dubois,h,3412,OpenPlay,2017,RightFoot,8759,Nantes,Paris Saint Germain,0,1,2018-01-14 20:00:00,Valentin Rongier,LayOff
+188075,47,MissedShots,0.889000015258789,0.615,0.029677851125597954,Diego Carlos,h,5712,SetPiece,2017,Head,8759,Nantes,Paris Saint Germain,0,1,2018-01-14 20:00:00,Léo Dubois,Cross
+188076,50,BlockedShot,0.7619999694824219,0.6880000305175781,0.05255303904414177,Valentin Rongier,h,3673,DirectFreekick,2017,RightFoot,8759,Nantes,Paris Saint Germain,0,1,2018-01-14 20:00:00,,Standard
+188077,50,MissedShots,0.7380000305175781,0.5840000152587891,0.013443001545965672,Chidozie Awaziem,h,6017,SetPiece,2017,LeftFoot,8759,Nantes,Paris Saint Germain,0,1,2018-01-14 20:00:00,,Rebound
+188078,55,SavedShot,0.9219999694824219,0.3940000152587891,0.4018516540527344,Emiliano Sala,h,3406,OpenPlay,2017,RightFoot,8759,Nantes,Paris Saint Germain,0,1,2018-01-14 20:00:00,,None
+188081,63,SavedShot,0.8690000152587891,0.29700000762939455,0.040361352264881134,Yacine Bammou,h,3410,OpenPlay,2017,LeftFoot,8759,Nantes,Paris Saint Germain,0,1,2018-01-14 20:00:00,Léo Dubois,Pass
+188086,77,BlockedShot,0.8819999694824219,0.3509999847412109,0.05385596305131912,Jules Iloki,h,3413,OpenPlay,2017,RightFoot,8759,Nantes,Paris Saint Germain,0,1,2018-01-14 20:00:00,,None
+188087,83,SavedShot,0.8830000305175781,0.37599998474121094,0.04721565544605255,Adrien Thomasson,h,3549,OpenPlay,2017,LeftFoot,8759,Nantes,Paris Saint Germain,0,1,2018-01-14 20:00:00,Jules Iloki,Cross
+188062,11,Goal,0.904000015258789,0.36400001525878906,0.09026411175727844,Ángel Di María,a,3553,OpenPlay,2017,LeftFoot,8759,Nantes,Paris Saint Germain,0,1,2018-01-14 20:00:00,Edinson Cavani,Pass
+188063,14,MissedShots,0.865,0.40400001525878904,0.041042909026145935,Dani Alves,a,1288,FromCorner,2017,RightFoot,8759,Nantes,Paris Saint Germain,0,1,2018-01-14 20:00:00,Ángel Di María,Cross
+188064,14,BlockedShot,0.909000015258789,0.625,0.06860090792179108,Marquinhos,a,3297,FromCorner,2017,RightFoot,8759,Nantes,Paris Saint Germain,0,1,2018-01-14 20:00:00,Dani Alves,None
+188065,20,MissedShots,0.9209999847412109,0.51,0.06368456780910492,Layvin Kurzawa,a,3298,SetPiece,2017,Head,8759,Nantes,Paris Saint Germain,0,1,2018-01-14 20:00:00,Ángel Di María,Aerial
+188067,34,MissedShots,0.855,0.43099998474121093,0.020647864788770676,Ángel Di María,a,3553,OpenPlay,2017,Head,8759,Nantes,Paris Saint Germain,0,1,2018-01-14 20:00:00,Dani Alves,Cross
+188069,36,ShotOnPost,0.9330000305175781,0.5790000152587891,0.45054104924201965,Ángel Di María,a,3553,OpenPlay,2017,LeftFoot,8759,Nantes,Paris Saint Germain,0,1,2018-01-14 20:00:00,Adrien Rabiot,Pass
+188070,38,BlockedShot,0.835,0.46299999237060546,0.052593961358070374,Giovani Lo Celso,a,5681,OpenPlay,2017,LeftFoot,8759,Nantes,Paris Saint Germain,0,1,2018-01-14 20:00:00,Ángel Di María,HeadPass
+188074,44,BlockedShot,0.7319999694824219,0.44099998474121094,0.02645474299788475,Giovani Lo Celso,a,5681,OpenPlay,2017,LeftFoot,8759,Nantes,Paris Saint Germain,0,1,2018-01-14 20:00:00,Marquinhos,Pass
+188079,55,MissedShots,0.9119999694824219,0.539000015258789,0.6101300120353699,Ángel Di María,a,3553,OpenPlay,2017,LeftFoot,8759,Nantes,Paris Saint Germain,0,1,2018-01-14 20:00:00,Kylian Mbappe-Lottin,Pass
+188080,62,MissedShots,0.8819999694824219,0.3270000076293945,0.07072389870882034,Adrien Rabiot,a,3291,OpenPlay,2017,RightFoot,8759,Nantes,Paris Saint Germain,0,1,2018-01-14 20:00:00,Dani Alves,Chipped
+188082,70,BlockedShot,0.865,0.40599998474121096,0.04231362044811249,Dani Alves,a,1288,FromCorner,2017,RightFoot,8759,Nantes,Paris Saint Germain,0,1,2018-01-14 20:00:00,Ángel Di María,Cross
+188083,71,MissedShots,0.915,0.6630000305175782,0.07804238051176071,Layvin Kurzawa,a,3298,OpenPlay,2017,LeftFoot,8759,Nantes,Paris Saint Germain,0,1,2018-01-14 20:00:00,Dani Alves,Chipped
+188084,75,MissedShots,0.6719999694824219,0.475,0.031132163479924202,Dani Alves,a,1288,DirectFreekick,2017,RightFoot,8759,Nantes,Paris Saint Germain,0,1,2018-01-14 20:00:00,,Standard
+188085,76,MissedShots,0.9019999694824219,0.425,0.08004241436719894,Adrien Rabiot,a,3291,OpenPlay,2017,Head,8759,Nantes,Paris Saint Germain,0,1,2018-01-14 20:00:00,Dani Alves,Cross
+188088,84,SavedShot,0.86,0.4879999923706055,0.11578589677810669,Kylian Mbappe-Lottin,a,3423,OpenPlay,2017,RightFoot,8759,Nantes,Paris Saint Germain,0,1,2018-01-14 20:00:00,Dani Alves,Pass
+188089,88,BlockedShot,0.84,0.4129999923706055,0.07650377601385117,Dani Alves,a,1288,OpenPlay,2017,RightFoot,8759,Nantes,Paris Saint Germain,0,1,2018-01-14 20:00:00,,None
+188090,89,SavedShot,0.915,0.4540000152587891,0.030720265582203865,Thomas Meunier,a,5680,FromCorner,2017,Head,8759,Nantes,Paris Saint Germain,0,1,2018-01-14 20:00:00,Dani Alves,Aerial
+188091,92,BlockedShot,0.7380000305175781,0.6,0.05334315448999405,Dani Alves,a,1288,DirectFreekick,2017,RightFoot,8759,Nantes,Paris Saint Germain,0,1,2018-01-14 20:00:00,,Standard
+188092,92,BlockedShot,0.7319999694824219,0.5320000076293945,0.013423831202089787,Dani Alves,a,1288,SetPiece,2017,RightFoot,8759,Nantes,Paris Saint Germain,0,1,2018-01-14 20:00:00,,Rebound
+188093,92,ShotOnPost,0.9059999847412109,0.45799999237060546,0.4672061800956726,Adrien Rabiot,a,3291,SetPiece,2017,RightFoot,8759,Nantes,Paris Saint Germain,0,1,2018-01-14 20:00:00,,Rebound

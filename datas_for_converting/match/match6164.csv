@@ -1,0 +1,22 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+1393,13,MissedShots,0.8969999694824219,0.544000015258789,0.3738471567630768,Yohan Cabaye,h,516,OpenPlay,2014,RightFoot,6164,Paris Saint Germain,Lyon,1,1,2014-09-21 20:00:00,Zlatan Ibrahimovic,HeadPass
+1394,19,Goal,0.919000015258789,0.45299999237060545,0.29610633850097656,Edinson Cavani,h,3294,OpenPlay,2014,Head,6164,Paris Saint Germain,Lyon,1,1,2014-09-21 20:00:00,Lucas Digne,Cross
+1395,22,MissedShots,0.960999984741211,0.24200000762939453,0.03535306081175804,Serge Aurier,h,3600,OpenPlay,2014,LeftFoot,6164,Paris Saint Germain,Lyon,1,1,2014-09-21 20:00:00,Yohan Cabaye,TakeOn
+1398,36,BlockedShot,0.769000015258789,0.43099998474121093,0.01720132865011692,Yohan Cabaye,h,516,OpenPlay,2014,RightFoot,6164,Paris Saint Germain,Lyon,1,1,2014-09-21 20:00:00,,Aerial
+1399,36,MissedShots,0.8819999694824219,0.3529999923706055,0.09112518280744553,Edinson Cavani,h,3294,OpenPlay,2014,RightFoot,6164,Paris Saint Germain,Lyon,1,1,2014-09-21 20:00:00,Yohan Cabaye,Pass
+1401,50,BlockedShot,0.9119999694824219,0.48,0.13039778172969818,Marco Verratti,h,3552,OpenPlay,2014,RightFoot,6164,Paris Saint Germain,Lyon,1,1,2014-09-21 20:00:00,Edinson Cavani,HeadPass
+1402,54,MissedShots,0.9159999847412109,0.674000015258789,0.058994945138692856,Blaise Matuidi,h,3296,SetPiece,2014,LeftFoot,6164,Paris Saint Germain,Lyon,1,1,2014-09-21 20:00:00,Marco Verratti,Chipped
+1403,65,MissedShots,0.7090000152587891,0.615,0.01409962959587574,Blaise Matuidi,h,3296,OpenPlay,2014,LeftFoot,6164,Paris Saint Germain,Lyon,1,1,2014-09-21 20:00:00,,None
+1404,75,SavedShot,0.8340000152587891,0.4370000076293945,0.08506869524717331,Thiago Motta,h,3292,OpenPlay,2014,LeftFoot,6164,Paris Saint Germain,Lyon,1,1,2014-09-21 20:00:00,Lucas Moura,Pass
+1405,76,SavedShot,0.9359999847412109,0.5120000076293946,0.5997468829154968,Zlatan Ibrahimovic,h,1741,OpenPlay,2014,RightFoot,6164,Paris Saint Germain,Lyon,1,1,2014-09-21 20:00:00,,Rebound
+1407,80,BlockedShot,0.945,0.3940000152587891,0.044488679617643356,Zlatan Ibrahimovic,h,1741,OpenPlay,2014,Head,6164,Paris Saint Germain,Lyon,1,1,2014-09-21 20:00:00,Lucas Digne,Aerial
+1411,85,MissedShots,0.73,0.4179999923706055,0.019576169550418854,Lucas Moura,h,3293,OpenPlay,2014,RightFoot,6164,Paris Saint Germain,Lyon,1,1,2014-09-21 20:00:00,Javier Pastore,Pass
+1396,30,ShotOnPost,0.7909999847412109,0.6559999847412109,0.07867266982793808,Arnold Mvuemba,a,3282,DirectFreekick,2014,RightFoot,6164,Paris Saint Germain,Lyon,1,1,2014-09-21 20:00:00,,Standard
+1397,30,SavedShot,0.9169999694824219,0.5070000076293946,0.08541470766067505,Steed Malbranque,a,3569,SetPiece,2014,RightFoot,6164,Paris Saint Germain,Lyon,1,1,2014-09-21 20:00:00,Bakary Koné,HeadPass
+1400,39,BlockedShot,0.8169999694824219,0.539000015258789,0.05659973993897438,Nabil Fekir,a,3667,OpenPlay,2014,LeftFoot,6164,Paris Saint Germain,Lyon,1,1,2014-09-21 20:00:00,Steed Malbranque,Pass
+1406,79,SavedShot,0.7919999694824219,0.4279999923706055,0.03530343994498253,Alexandre Lacazette,a,3277,OpenPlay,2014,RightFoot,6164,Paris Saint Germain,Lyon,1,1,2014-09-21 20:00:00,Maxime Gonalons,Pass
+1408,82,SavedShot,0.774000015258789,0.664000015258789,0.036698441952466965,Clinton N&#039;Jie,a,960,OpenPlay,2014,RightFoot,6164,Paris Saint Germain,Lyon,1,1,2014-09-21 20:00:00,Yoann Gourcuff,Pass
+1409,83,BlockedShot,0.850999984741211,0.6090000152587891,0.04140133783221245,Alexandre Lacazette,a,3277,FromCorner,2014,RightFoot,6164,Paris Saint Germain,Lyon,1,1,2014-09-21 20:00:00,Clinton N&#039;Jie,BallTouch
+1410,83,Goal,0.8419999694824218,0.5220000076293946,0.052640948444604874,Samuel Umtiti,a,3567,FromCorner,2014,RightFoot,6164,Paris Saint Germain,Lyon,1,1,2014-09-21 20:00:00,Clinton N&#039;Jie,Pass
+1412,86,MissedShots,0.9080000305175782,0.5529999923706055,0.1283821314573288,Corentin Tolisso,a,3603,OpenPlay,2014,RightFoot,6164,Paris Saint Germain,Lyon,1,1,2014-09-21 20:00:00,Clinton N&#039;Jie,Pass
+1413,91,SavedShot,0.6480000305175782,0.7390000152587891,0.02291412651538849,Yoann Gourcuff,a,3229,DirectFreekick,2014,RightFoot,6164,Paris Saint Germain,Lyon,1,1,2014-09-21 20:00:00,,Standard

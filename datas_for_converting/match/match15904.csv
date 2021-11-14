@@ -1,0 +1,33 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+393350,1,MissedShots,0.914000015258789,0.23,0.028894200921058655,Ander Herrera,h,552,OpenPlay,2020,RightFoot,15904,Paris Saint Germain,Lorient,2,0,2020-12-16 20:00:00,,None
+393351,4,SavedShot,0.730999984741211,0.56,0.018324153497815132,Idrissa Gueye,h,668,OpenPlay,2020,RightFoot,15904,Paris Saint Germain,Lorient,2,0,2020-12-16 20:00:00,Rafinha,Pass
+393353,13,BlockedShot,0.7,0.5579999923706055,0.012831240892410278,Alessandro Florenzi,h,1254,FromCorner,2020,RightFoot,15904,Paris Saint Germain,Lorient,2,0,2020-12-16 20:00:00,,None
+393354,14,MissedShots,0.7430000305175781,0.615,0.015573793090879917,Idrissa Gueye,h,668,OpenPlay,2020,RightFoot,15904,Paris Saint Germain,Lorient,2,0,2020-12-16 20:00:00,,None
+393355,17,MissedShots,0.8009999847412109,0.62,0.012629001401364803,Alessandro Florenzi,h,1254,FromCorner,2020,RightFoot,15904,Paris Saint Germain,Lorient,2,0,2020-12-16 20:00:00,Rafinha,Chipped
+393356,17,BlockedShot,0.894000015258789,0.4370000076293945,0.07011699676513672,Timothee Pembele,h,8701,FromCorner,2020,LeftFoot,15904,Paris Saint Germain,Lorient,2,0,2020-12-16 20:00:00,Ander Herrera,Chipped
+393358,26,SavedShot,0.905,0.7180000305175781,0.04987148195505142,Kylian Mbappe-Lottin,h,3423,OpenPlay,2020,LeftFoot,15904,Paris Saint Germain,Lorient,2,0,2020-12-16 20:00:00,Mitchel Bakker,Pass
+393359,26,SavedShot,0.91,0.5070000076293946,0.03450773283839226,Timothee Pembele,h,8701,FromCorner,2020,Head,15904,Paris Saint Germain,Lorient,2,0,2020-12-16 20:00:00,Rafinha,Aerial
+393360,28,BlockedShot,0.955999984741211,0.575,0.05061289668083191,Layvin Kurzawa,h,3298,FromCorner,2020,Head,15904,Paris Saint Germain,Lorient,2,0,2020-12-16 20:00:00,Ander Herrera,Aerial
+393361,28,BlockedShot,0.7580000305175781,0.3840000152587891,0.02308782935142517,Idrissa Gueye,h,668,FromCorner,2020,RightFoot,15904,Paris Saint Germain,Lorient,2,0,2020-12-16 20:00:00,,Rebound
+393363,41,ShotOnPost,0.7859999847412109,0.605999984741211,0.026160119101405144,Ander Herrera,h,552,OpenPlay,2020,RightFoot,15904,Paris Saint Germain,Lorient,2,0,2020-12-16 20:00:00,Kylian Mbappe-Lottin,Pass
+393364,42,MissedShots,0.8430000305175781,0.3340000152587891,0.04773788899183273,Rafinha,h,2100,OpenPlay,2020,RightFoot,15904,Paris Saint Germain,Lorient,2,0,2020-12-16 20:00:00,Ander Herrera,TakeOn
+393365,43,MissedShots,0.8780000305175781,0.43099998474121093,0.08043070137500763,Moise Kean,h,1304,OpenPlay,2020,RightFoot,15904,Paris Saint Germain,Lorient,2,0,2020-12-16 20:00:00,,None
+393366,50,Goal,0.885,0.5,0.7600294947624207,Kylian Mbappe-Lottin,h,3423,Penalty,2020,RightFoot,15904,Paris Saint Germain,Lorient,2,0,2020-12-16 20:00:00,,Standard
+393367,52,MissedShots,0.874000015258789,0.5520000076293945,0.12112805247306824,Kylian Mbappe-Lottin,h,3423,OpenPlay,2020,RightFoot,15904,Paris Saint Germain,Lorient,2,0,2020-12-16 20:00:00,Mitchel Bakker,Pass
+393368,55,MissedShots,0.865999984741211,0.5609999847412109,0.11192787438631058,Kylian Mbappe-Lottin,h,3423,OpenPlay,2020,RightFoot,15904,Paris Saint Germain,Lorient,2,0,2020-12-16 20:00:00,Mitchel Bakker,Pass
+393369,55,SavedShot,0.7480000305175781,0.6120000076293945,0.02451348304748535,Rafinha,h,2100,OpenPlay,2020,LeftFoot,15904,Paris Saint Germain,Lorient,2,0,2020-12-16 20:00:00,Idrissa Gueye,Pass
+393370,55,SavedShot,0.8680000305175781,0.25799999237060545,0.03228028863668442,Alessandro Florenzi,h,1254,OpenPlay,2020,RightFoot,15904,Paris Saint Germain,Lorient,2,0,2020-12-16 20:00:00,,Rebound
+393371,60,Goal,0.8669999694824219,0.43599998474121093,0.35458940267562866,Moise Kean,h,1304,OpenPlay,2020,RightFoot,15904,Paris Saint Germain,Lorient,2,0,2020-12-16 20:00:00,Rafinha,Pass
+393375,67,BlockedShot,0.879000015258789,0.45,0.4382961690425873,Rafinha,h,2100,OpenPlay,2020,RightFoot,15904,Paris Saint Germain,Lorient,2,0,2020-12-16 20:00:00,Moise Kean,BallTouch
+393376,78,BlockedShot,0.8109999847412109,0.6930000305175781,0.08022478967905045,Kylian Mbappe-Lottin,h,3423,DirectFreekick,2020,RightFoot,15904,Paris Saint Germain,Lorient,2,0,2020-12-16 20:00:00,,Standard
+393377,78,MissedShots,0.8040000152587891,0.3270000076293945,0.018442105501890182,Alessandro Florenzi,h,1254,SetPiece,2020,RightFoot,15904,Paris Saint Germain,Lorient,2,0,2020-12-16 20:00:00,,Rebound
+393378,79,ShotOnPost,0.9459999847412109,0.7319999694824219,0.3583982586860657,Layvin Kurzawa,h,3298,OpenPlay,2020,LeftFoot,15904,Paris Saint Germain,Lorient,2,0,2020-12-16 20:00:00,Julian Draxler,Throughball
+393381,91,SavedShot,0.7319999694824219,0.47400001525878904,0.03329943120479584,Bandiougou Fadiga,h,8699,OpenPlay,2020,RightFoot,15904,Paris Saint Germain,Lorient,2,0,2020-12-16 20:00:00,Ander Herrera,Pass
+393352,7,SavedShot,0.8159999847412109,0.4540000152587891,0.055359307676553726,Yoane Wissa,a,5786,OpenPlay,2020,RightFoot,15904,Paris Saint Germain,Lorient,2,0,2020-12-16 20:00:00,Terem Igobor Moffi,Pass
+393357,24,MissedShots,0.8909999847412109,0.644000015258789,0.07302309572696686,Terem Igobor Moffi,a,8997,OpenPlay,2020,LeftFoot,15904,Paris Saint Germain,Lorient,2,0,2020-12-16 20:00:00,,BallRecovery
+393362,38,BlockedShot,0.9009999847412109,0.35200000762939454,0.06086597219109535,Enzo Le Fée,a,8651,OpenPlay,2020,RightFoot,15904,Paris Saint Germain,Lorient,2,0,2020-12-16 20:00:00,Vincent Le Goff,Chipped
+393372,64,SavedShot,0.9369999694824219,0.6930000305175781,0.05130145698785782,Jérémy Morel,a,3271,OpenPlay,2020,LeftFoot,15904,Paris Saint Germain,Lorient,2,0,2020-12-16 20:00:00,Yoane Wissa,Pass
+393373,64,SavedShot,0.9269999694824219,0.509000015258789,0.42685574293136597,Yoane Wissa,a,5786,OpenPlay,2020,RightFoot,15904,Paris Saint Germain,Lorient,2,0,2020-12-16 20:00:00,,Rebound
+393374,66,MissedShots,0.765,0.5640000152587891,0.00925721786916256,Thomas Fontaine,a,6881,OpenPlay,2020,LeftFoot,15904,Paris Saint Germain,Lorient,2,0,2020-12-16 20:00:00,Vincent Le Goff,Chipped
+393379,87,ShotOnPost,0.985999984741211,0.56,0.5506861805915833,Adrian Grbic,a,8653,OpenPlay,2020,RightFoot,15904,Paris Saint Germain,Lorient,2,0,2020-12-16 20:00:00,Armand Lauriente,Cross
+393380,87,MissedShots,0.875999984741211,0.41900001525878905,0.09704352170228958,Adrian Grbic,a,8653,OpenPlay,2020,RightFoot,15904,Paris Saint Germain,Lorient,2,0,2020-12-16 20:00:00,Trevoh Chalobah,Pass

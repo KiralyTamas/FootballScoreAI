@@ -1,0 +1,38 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+233836,1,Goal,0.9290000152587891,0.47200000762939454,0.5430193543434143,Leroy Sané,h,337,OpenPlay,2018,RightFoot,9239,Manchester City,Fulham,3,0,2018-09-15 14:00:00,Fernandinho,Pass
+233837,4,MissedShots,0.865999984741211,0.3320000076293945,0.07405582070350647,Raheem Sterling,h,618,OpenPlay,2018,LeftFoot,9239,Manchester City,Fulham,3,0,2018-09-15 14:00:00,Bernardo Silva,Pass
+233838,10,SavedShot,0.740999984741211,0.525,0.022669540718197823,Sergio Agüero,h,619,OpenPlay,2018,RightFoot,9239,Manchester City,Fulham,3,0,2018-09-15 14:00:00,Ederson,Pass
+233839,14,SavedShot,0.874000015258789,0.36900001525878906,0.33195123076438904,Raheem Sterling,h,618,OpenPlay,2018,RightFoot,9239,Manchester City,Fulham,3,0,2018-09-15 14:00:00,Bernardo Silva,Throughball
+233840,14,SavedShot,0.960999984741211,0.735999984741211,0.05486566573381424,Bernardo Silva,h,3635,OpenPlay,2018,LeftFoot,9239,Manchester City,Fulham,3,0,2018-09-15 14:00:00,Sergio Agüero,Pass
+233841,14,MissedShots,0.8859999847412109,0.4620000076293945,0.014506880193948746,Nicolás Otamendi,h,611,FromCorner,2018,Head,9239,Manchester City,Fulham,3,0,2018-09-15 14:00:00,Leroy Sané,Aerial
+233842,20,BlockedShot,0.909000015258789,0.4520000076293945,0.1402675360441208,Sergio Agüero,h,619,OpenPlay,2018,RightFoot,9239,Manchester City,Fulham,3,0,2018-09-15 14:00:00,Bernardo Silva,Pass
+233843,20,Goal,0.955999984741211,0.49700000762939456,0.6693956851959229,David Silva,h,617,OpenPlay,2018,RightFoot,9239,Manchester City,Fulham,3,0,2018-09-15 14:00:00,,Rebound
+233847,31,BlockedShot,0.8069999694824219,0.48700000762939455,0.07668514549732208,Bernardo Silva,h,3635,OpenPlay,2018,LeftFoot,9239,Manchester City,Fulham,3,0,2018-09-15 14:00:00,Raheem Sterling,Pass
+233848,32,MissedShots,0.9180000305175782,0.539000015258789,0.05008206143975258,Sergio Agüero,h,619,OpenPlay,2018,Head,9239,Manchester City,Fulham,3,0,2018-09-15 14:00:00,David Silva,Aerial
+233849,39,MissedShots,0.905,0.47,0.024904189631342888,Nicolás Otamendi,h,611,FromCorner,2018,Head,9239,Manchester City,Fulham,3,0,2018-09-15 14:00:00,Aymeric Laporte,Aerial
+233851,41,SavedShot,0.8919999694824219,0.655,0.09436222910881042,Leroy Sané,h,337,OpenPlay,2018,LeftFoot,9239,Manchester City,Fulham,3,0,2018-09-15 14:00:00,David Silva,Pass
+233852,45,SavedShot,0.879000015258789,0.41,0.14928759634494781,Raheem Sterling,h,618,OpenPlay,2018,LeftFoot,9239,Manchester City,Fulham,3,0,2018-09-15 14:00:00,Fernandinho,TakeOn
+233853,46,BlockedShot,0.8180000305175781,0.55,0.03816669434309006,Aymeric Laporte,h,2498,FromCorner,2018,RightFoot,9239,Manchester City,Fulham,3,0,2018-09-15 14:00:00,,None
+233854,46,Goal,0.9769999694824218,0.5220000076293946,0.9513046145439148,Raheem Sterling,h,618,OpenPlay,2018,RightFoot,9239,Manchester City,Fulham,3,0,2018-09-15 14:00:00,Sergio Agüero,Pass
+233855,47,BlockedShot,0.84,0.519000015258789,0.10546925663948059,Bernardo Silva,h,3635,OpenPlay,2018,LeftFoot,9239,Manchester City,Fulham,3,0,2018-09-15 14:00:00,Leroy Sané,Pass
+233856,49,BlockedShot,0.8619999694824219,0.47200000762939454,0.1269143521785736,Sergio Agüero,h,619,OpenPlay,2018,RightFoot,9239,Manchester City,Fulham,3,0,2018-09-15 14:00:00,Raheem Sterling,Pass
+233857,51,BlockedShot,0.740999984741211,0.48700000762939455,0.05844699963927269,Sergio Agüero,h,619,DirectFreekick,2018,RightFoot,9239,Manchester City,Fulham,3,0,2018-09-15 14:00:00,,Standard
+233858,54,SavedShot,0.9530000305175781,0.5670000076293945,0.5565251111984253,Gabriel Jesus,h,5543,OpenPlay,2018,RightFoot,9239,Manchester City,Fulham,3,0,2018-09-15 14:00:00,David Silva,Pass
+233859,58,MissedShots,0.7380000305175781,0.5209999847412109,0.022570479661226273,Fernandinho,h,614,OpenPlay,2018,RightFoot,9239,Manchester City,Fulham,3,0,2018-09-15 14:00:00,,BallRecovery
+233860,61,MissedShots,0.9130000305175782,0.534000015258789,0.1342831701040268,Gabriel Jesus,h,5543,OpenPlay,2018,LeftFoot,9239,Manchester City,Fulham,3,0,2018-09-15 14:00:00,Raheem Sterling,Cross
+233861,65,BlockedShot,0.8119999694824219,0.515,0.05606720224022865,Raheem Sterling,h,618,OpenPlay,2018,RightFoot,9239,Manchester City,Fulham,3,0,2018-09-15 14:00:00,,None
+233862,67,BlockedShot,0.7709999847412109,0.36900001525878906,0.024073846638202667,Ilkay Gündogan,h,314,OpenPlay,2018,LeftFoot,9239,Manchester City,Fulham,3,0,2018-09-15 14:00:00,,None
+233863,76,MissedShots,0.7559999847412109,0.5570000076293945,0.03762861713767052,Gabriel Jesus,h,5543,OpenPlay,2018,RightFoot,9239,Manchester City,Fulham,3,0,2018-09-15 14:00:00,Ilkay Gündogan,Pass
+233864,80,MissedShots,0.8830000305175781,0.5540000152587891,0.46760159730911255,Bernardo Silva,h,3635,OpenPlay,2018,LeftFoot,9239,Manchester City,Fulham,3,0,2018-09-15 14:00:00,Gabriel Jesus,Pass
+233867,89,BlockedShot,0.8230000305175781,0.435,0.08616971224546432,Riyad Mahrez,h,750,OpenPlay,2018,LeftFoot,9239,Manchester City,Fulham,3,0,2018-09-15 14:00:00,Bernardo Silva,Pass
+233868,90,BlockedShot,0.720999984741211,0.5509999847412109,0.019214406609535217,Kyle Walker,h,638,OpenPlay,2018,RightFoot,9239,Manchester City,Fulham,3,0,2018-09-15 14:00:00,Riyad Mahrez,Pass
+233870,91,BlockedShot,0.9130000305175782,0.705,0.07961931824684143,Riyad Mahrez,h,750,OpenPlay,2018,LeftFoot,9239,Manchester City,Fulham,3,0,2018-09-15 14:00:00,Bernardo Silva,Pass
+233835,1,MissedShots,0.755,0.38599998474121094,0.01610993966460228,André Schürrle,a,154,FromCorner,2018,RightFoot,9239,Manchester City,Fulham,3,0,2018-09-15 14:00:00,,None
+233844,24,MissedShots,0.715,0.525,0.010969480499625206,André Schürrle,a,154,OpenPlay,2018,RightFoot,9239,Manchester City,Fulham,3,0,2018-09-15 14:00:00,Luciano Vietto,Pass
+233845,27,MissedShots,0.915,0.685,0.05494574084877968,Aleksandar Mitrovic,a,773,OpenPlay,2018,LeftFoot,9239,Manchester City,Fulham,3,0,2018-09-15 14:00:00,Ryan Sessegnon,BallTouch
+233846,29,SavedShot,0.7969999694824219,0.22700000762939454,0.013158180750906467,André Schürrle,a,154,OpenPlay,2018,RightFoot,9239,Manchester City,Fulham,3,0,2018-09-15 14:00:00,Jean Michael Seri,Pass
+233850,40,SavedShot,0.81,0.5059999847412109,0.05810276418924332,André Schürrle,a,154,OpenPlay,2018,LeftFoot,9239,Manchester City,Fulham,3,0,2018-09-15 14:00:00,Luciano Vietto,Pass
+233865,82,BlockedShot,0.759000015258789,0.52,0.01657511293888092,André Schürrle,a,154,OpenPlay,2018,RightFoot,9239,Manchester City,Fulham,3,0,2018-09-15 14:00:00,,None
+233866,87,MissedShots,0.8080000305175781,0.345,0.024245571345090866,Floyd Ayité,a,3328,OpenPlay,2018,LeftFoot,9239,Manchester City,Fulham,3,0,2018-09-15 14:00:00,Cyrus Christie,Pass
+233869,91,MissedShots,0.894000015258789,0.4420000076293945,0.1129639521241188,Floyd Ayité,a,3328,OpenPlay,2018,RightFoot,9239,Manchester City,Fulham,3,0,2018-09-15 14:00:00,Cyrus Christie,Pass
+233871,92,SavedShot,0.7909999847412109,0.5720000076293945,0.035627495497465134,Aleksandar Mitrovic,a,773,OpenPlay,2018,RightFoot,9239,Manchester City,Fulham,3,0,2018-09-15 14:00:00,Ryan Sessegnon,Pass

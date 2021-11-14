@@ -1,0 +1,27 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+394348,1,BlockedShot,0.9269999694824219,0.33599998474121096,0.07969945669174194,Leandro Trossard,h,7698,OpenPlay,2020,RightFoot,14565,Brighton,Sheffield United,1,1,2020-12-20 12:00:00,Neal Maupay,Pass
+394349,10,MissedShots,0.8930000305175781,0.48200000762939454,0.017726989462971687,Lewis Dunk,h,6048,FromCorner,2020,Head,14565,Brighton,Sheffield United,1,1,2020-12-20 12:00:00,Leandro Trossard,Aerial
+394351,19,BlockedShot,0.765,0.6120000076293945,0.02091963402926922,Adam Lallana,h,486,OpenPlay,2020,LeftFoot,14565,Brighton,Sheffield United,1,1,2020-12-20 12:00:00,Solly March,Pass
+394352,22,SavedShot,0.8780000305175781,0.31799999237060544,0.056041136384010315,Aaron Connolly,h,7991,OpenPlay,2020,RightFoot,14565,Brighton,Sheffield United,1,1,2020-12-20 12:00:00,Adam Lallana,Pass
+394353,25,BlockedShot,0.9169999694824219,0.40799999237060547,0.385970801115036,Neal Maupay,h,3621,OpenPlay,2020,RightFoot,14565,Brighton,Sheffield United,1,1,2020-12-20 12:00:00,Leandro Trossard,Pass
+394354,30,BlockedShot,0.9569999694824218,0.44099998474121094,0.12110711634159088,Neal Maupay,h,3621,FromCorner,2020,RightFoot,14565,Brighton,Sheffield United,1,1,2020-12-20 12:00:00,,None
+394356,40,MissedShots,0.955,0.669000015258789,0.02528352290391922,Aaron Connolly,h,7991,OpenPlay,2020,OtherBodyPart,14565,Brighton,Sheffield United,1,1,2020-12-20 12:00:00,Solly March,Cross
+394357,48,MissedShots,0.8719999694824219,0.590999984741211,0.10027891397476196,Leandro Trossard,h,7698,OpenPlay,2020,LeftFoot,14565,Brighton,Sheffield United,1,1,2020-12-20 12:00:00,Alireza Jahanbakhsh,Pass
+394360,65,SavedShot,0.78,0.5,0.035975370556116104,Adam Webster,h,7699,OpenPlay,2020,LeftFoot,14565,Brighton,Sheffield United,1,1,2020-12-20 12:00:00,Yves Bissouma,Pass
+394361,67,BlockedShot,0.7809999847412109,0.539000015258789,0.03243985027074814,Yves Bissouma,h,5609,OpenPlay,2020,LeftFoot,14565,Brighton,Sheffield United,1,1,2020-12-20 12:00:00,Solly March,Pass
+394362,72,MissedShots,0.924000015258789,0.44799999237060545,0.03656483441591263,Adam Webster,h,7699,FromCorner,2020,Head,14565,Brighton,Sheffield United,1,1,2020-12-20 12:00:00,Leandro Trossard,Aerial
+394363,73,BlockedShot,0.8080000305175781,0.7380000305175781,0.021991074085235596,Andi Zeqiri,h,9099,OpenPlay,2020,RightFoot,14565,Brighton,Sheffield United,1,1,2020-12-20 12:00:00,Solly March,Pass
+394364,77,BlockedShot,0.85,0.26299999237060545,0.026606788858771324,Solly March,h,6049,FromCorner,2020,LeftFoot,14565,Brighton,Sheffield United,1,1,2020-12-20 12:00:00,Leandro Trossard,Pass
+394365,77,SavedShot,0.9,0.4809999847412109,0.06184198707342148,Adam Webster,h,7699,FromCorner,2020,Head,14565,Brighton,Sheffield United,1,1,2020-12-20 12:00:00,Leandro Trossard,Cross
+394366,81,MissedShots,0.97,0.5420000076293945,0.5085536241531372,Aaron Connolly,h,7991,OpenPlay,2020,Head,14565,Brighton,Sheffield United,1,1,2020-12-20 12:00:00,Alireza Jahanbakhsh,Cross
+394368,84,MissedShots,0.9219999694824219,0.44299999237060544,0.03134865686297417,Andi Zeqiri,h,9099,FromCorner,2020,Head,14565,Brighton,Sheffield United,1,1,2020-12-20 12:00:00,Solly March,Aerial
+394369,86,Goal,0.970999984741211,0.47200000762939454,0.6941227316856384,Danny Welbeck,h,501,SetPiece,2020,LeftFoot,14565,Brighton,Sheffield United,1,1,2020-12-20 12:00:00,,None
+394370,89,MissedShots,0.7380000305175781,0.5,0.017521360889077187,Leandro Trossard,h,7698,OpenPlay,2020,RightFoot,14565,Brighton,Sheffield United,1,1,2020-12-20 12:00:00,Aaron Connolly,Pass
+394371,94,BlockedShot,0.9219999694824219,0.534000015258789,0.06392594426870346,Danny Welbeck,h,501,OpenPlay,2020,Head,14565,Brighton,Sheffield United,1,1,2020-12-20 12:00:00,Adam Lallana,Aerial
+394372,94,ShotOnPost,0.9619999694824218,0.43900001525878907,0.5011309385299683,Alireza Jahanbakhsh,h,6842,OpenPlay,2020,Head,14565,Brighton,Sheffield United,1,1,2020-12-20 12:00:00,,Rebound
+394373,94,BlockedShot,0.895,0.5279999923706055,0.0939558893442154,Alireza Jahanbakhsh,h,6842,FromCorner,2020,LeftFoot,14565,Brighton,Sheffield United,1,1,2020-12-20 12:00:00,Lewis Dunk,HeadPass
+394350,11,SavedShot,0.435,0.23700000762939452,0.016432108357548714,John Lundstram,a,7708,DirectFreekick,2020,RightFoot,14565,Brighton,Sheffield United,1,1,2020-12-20 12:00:00,,Standard
+394355,34,SavedShot,0.769000015258789,0.6079999923706054,0.07011353969573975,David McGoldrick,a,7711,DirectFreekick,2020,RightFoot,14565,Brighton,Sheffield United,1,1,2020-12-20 12:00:00,,Standard
+394358,56,MissedShots,0.8630000305175781,0.6270000076293946,0.4366557002067566,Enda Stevens,a,7707,OpenPlay,2020,LeftFoot,14565,Brighton,Sheffield United,1,1,2020-12-20 12:00:00,Oliver Burke,Pass
+394359,62,Goal,0.8859999847412109,0.610999984741211,0.09403901547193527,Jayden Bogle,a,9205,OpenPlay,2020,LeftFoot,14565,Brighton,Sheffield United,1,1,2020-12-20 12:00:00,David McGoldrick,Pass
+394367,83,MissedShots,0.9030000305175782,0.44099998474121094,0.4198864996433258,Oliver Burke,a,5256,OpenPlay,2020,RightFoot,14565,Brighton,Sheffield United,1,1,2020-12-20 12:00:00,Ben Osborn,Pass

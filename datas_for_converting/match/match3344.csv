@@ -1,0 +1,24 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+117380,15,MissedShots,0.775,0.22700000762939454,0.01567179709672928,Robert Snodgrass,h,1691,OpenPlay,2016,LeftFoot,3344,Hull,Bournemouth,3,1,2017-01-14 19:00:00,Harry Maguire,Pass
+117384,24,BlockedShot,0.8080000305175781,0.415,0.034921713173389435,Tom Huddlestone,h,1695,OpenPlay,2016,LeftFoot,3344,Hull,Bournemouth,3,1,2017-01-14 19:00:00,Robert Snodgrass,Pass
+117385,30,MissedShots,0.750999984741211,0.7119999694824218,0.01523507572710514,Robert Snodgrass,h,1691,OpenPlay,2016,LeftFoot,3344,Hull,Bournemouth,3,1,2017-01-14 19:00:00,Ryan Mason,Pass
+117386,31,Goal,0.9640000152587891,0.46900001525878904,0.5252857208251953,Abel Hernández,h,1698,OpenPlay,2016,Head,3344,Hull,Bournemouth,3,1,2017-01-14 19:00:00,Andrew Robertson,Cross
+117387,40,MissedShots,0.9119999694824219,0.515,0.11823193728923798,Curtis Davies,h,1686,SetPiece,2016,Head,3344,Hull,Bournemouth,3,1,2017-01-14 19:00:00,Robert Snodgrass,Cross
+117388,43,MissedShots,0.8390000152587891,0.5829999923706055,0.03427769988775253,Sam Clucas,h,1690,FromCorner,2016,LeftFoot,3344,Hull,Bournemouth,3,1,2017-01-14 19:00:00,Robert Snodgrass,CornerAwarded
+117389,43,BlockedShot,0.85,0.41700000762939454,0.052474651485681534,Ryan Mason,h,649,FromCorner,2016,RightFoot,3344,Hull,Bournemouth,3,1,2017-01-14 19:00:00,,None
+117390,49,Goal,0.8969999694824219,0.27600000381469725,0.03878327086567879,Abel Hernández,h,1698,OpenPlay,2016,LeftFoot,3344,Hull,Bournemouth,3,1,2017-01-14 19:00:00,Robert Snodgrass,Pass
+117391,51,MissedShots,0.889000015258789,0.485,0.07448450475931168,Curtis Davies,h,1686,SetPiece,2016,Head,3344,Hull,Bournemouth,3,1,2017-01-14 19:00:00,Robert Snodgrass,Cross
+117392,54,MissedShots,0.7519999694824219,0.6480000305175782,0.023346075788140297,Ryan Mason,h,649,OpenPlay,2016,LeftFoot,3344,Hull,Bournemouth,3,1,2017-01-14 19:00:00,,BallRecovery
+117393,57,MissedShots,0.9259999847412109,0.49,0.08729443699121475,Abel Hernández,h,1698,OpenPlay,2016,Head,3344,Hull,Bournemouth,3,1,2017-01-14 19:00:00,Adama Diomande,Aerial
+117394,61,MissedShots,0.845999984741211,0.3940000152587891,0.05231019854545593,Tom Huddlestone,h,1695,SetPiece,2016,RightFoot,3344,Hull,Bournemouth,3,1,2017-01-14 19:00:00,,None
+117398,78,MissedShots,0.7569999694824219,0.355,0.028714891523122787,Harry Maguire,h,1687,OpenPlay,2016,RightFoot,3344,Hull,Bournemouth,3,1,2017-01-14 19:00:00,Adama Diomande,TakeOn
+117399,79,SavedShot,0.865,0.6819999694824219,0.0880083218216896,Abel Hernández,h,1698,OpenPlay,2016,RightFoot,3344,Hull,Bournemouth,3,1,2017-01-14 19:00:00,Tom Huddlestone,Chipped
+117377,2,Goal,0.885,0.5,0.7611688375473022,Junior Stanislas,a,463,Penalty,2016,RightFoot,3344,Hull,Bournemouth,3,1,2017-01-14 19:00:00,,Standard
+117378,11,BlockedShot,0.85,0.5059999847412109,0.09535856544971466,Jack Wilshere,a,1036,OpenPlay,2016,RightFoot,3344,Hull,Bournemouth,3,1,2017-01-14 19:00:00,Harry Arter,BallRecovery
+117379,14,MissedShots,0.735999984741211,0.5929999923706055,0.046409886330366135,Harry Arter,a,881,OpenPlay,2016,LeftFoot,3344,Hull,Bournemouth,3,1,2017-01-14 19:00:00,Junior Stanislas,TakeOn
+117381,21,SavedShot,0.89,0.5690000152587891,0.2611019015312195,Benik Afobe,a,826,OpenPlay,2016,RightFoot,3344,Hull,Bournemouth,3,1,2017-01-14 19:00:00,Tyrone Mings,Pass
+117382,21,SavedShot,0.8859999847412109,0.5320000076293945,0.12057863920927048,Benik Afobe,a,826,OpenPlay,2016,RightFoot,3344,Hull,Bournemouth,3,1,2017-01-14 19:00:00,,CornerAwarded
+117383,21,SavedShot,0.8090000152587891,0.7019999694824218,0.029420439153909683,Harry Arter,a,881,OpenPlay,2016,RightFoot,3344,Hull,Bournemouth,3,1,2017-01-14 19:00:00,Ryan Fraser,Pass
+117395,61,OwnGoal,0.08800000190734864,0.524000015258789,0,Tyrone Mings,a,1024,SetPiece,2016,OtherBodyPart,3344,Hull,Bournemouth,3,1,2017-01-14 19:00:00,,BallTouch
+117396,70,SavedShot,0.754000015258789,0.46599998474121096,0.02825736813247204,Jack Wilshere,a,1036,OpenPlay,2016,LeftFoot,3344,Hull,Bournemouth,3,1,2017-01-14 19:00:00,Andrew Surman,TakeOn
+117397,70,SavedShot,0.8540000152587891,0.56,0.09225615859031677,Jack Wilshere,a,1036,OpenPlay,2016,LeftFoot,3344,Hull,Bournemouth,3,1,2017-01-14 19:00:00,Marc Pugh,Pass

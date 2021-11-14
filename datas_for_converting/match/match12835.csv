@@ -1,0 +1,36 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+330754,8,MissedShots,0.8859999847412109,0.7340000152587891,0.036225661635398865,Yoann Court,h,3446,OpenPlay,2019,LeftFoot,12835,Brest,Paris Saint Germain,1,2,2019-11-09 16:30:00,,None
+330756,14,SavedShot,0.8540000152587891,0.655,0.052007533609867096,Mathias Autret,h,4828,OpenPlay,2019,RightFoot,12835,Brest,Paris Saint Germain,1,2,2019-11-09 16:30:00,Yoann Court,Pass
+330757,17,BlockedShot,0.7969999694824219,0.28600000381469726,0.02196435257792473,Yoann Court,h,3446,SetPiece,2019,LeftFoot,12835,Brest,Paris Saint Germain,1,2,2019-11-09 16:30:00,Julien Faussurier,Pass
+330761,21,MissedShots,0.9030000305175782,0.49400001525878906,0.2466626912355423,Irvin Cardona,h,5724,SetPiece,2019,Head,12835,Brest,Paris Saint Germain,1,2,2019-11-09 16:30:00,Yoann Court,Cross
+330762,22,MissedShots,0.7559999847412109,0.14300000190734863,0.01047728955745697,Yoann Court,h,3446,OpenPlay,2019,LeftFoot,12835,Brest,Paris Saint Germain,1,2,2019-11-09 16:30:00,,BallRecovery
+330763,24,MissedShots,0.8809999847412109,0.345,0.048872679471969604,Yoann Court,h,3446,SetPiece,2019,RightFoot,12835,Brest,Paris Saint Germain,1,2,2019-11-09 16:30:00,Gaëtan Charbonnier,Pass
+330764,27,BlockedShot,0.9,0.634000015258789,0.01544101256877184,Irvin Cardona,h,5724,FromCorner,2019,Head,12835,Brest,Paris Saint Germain,1,2,2019-11-09 16:30:00,Mathias Autret,Tackle
+330766,42,BlockedShot,0.8190000152587891,0.505,0.04855505749583244,Mathias Autret,h,4828,OpenPlay,2019,RightFoot,12835,Brest,Paris Saint Germain,1,2,2019-11-09 16:30:00,Irvin Cardona,Chipped
+330767,42,MissedShots,0.8830000305175781,0.37,0.04670560732483864,Gaëtan Charbonnier,h,3243,OpenPlay,2019,LeftFoot,12835,Brest,Paris Saint Germain,1,2,2019-11-09 16:30:00,Irvin Cardona,HeadPass
+330768,48,MissedShots,0.794000015258789,0.39099998474121095,0.03166871517896652,Yoann Court,h,3446,OpenPlay,2019,LeftFoot,12835,Brest,Paris Saint Germain,1,2,2019-11-09 16:30:00,,None
+330769,57,MissedShots,0.9219999694824219,0.649000015258789,0.05010329931974411,Yoann Court,h,3446,OpenPlay,2019,RightFoot,12835,Brest,Paris Saint Germain,1,2,2019-11-09 16:30:00,Romain Perraud,Cross
+330773,62,SavedShot,0.710999984741211,0.6229999923706054,0.012886755168437958,Romain Perraud,h,6500,FromCorner,2019,LeftFoot,12835,Brest,Paris Saint Germain,1,2,2019-11-09 16:30:00,,None
+330776,71,Goal,0.9080000305175782,0.639000015258789,0.30717942118644714,Samuel Grandsir,h,3713,OpenPlay,2019,LeftFoot,12835,Brest,Paris Saint Germain,1,2,2019-11-09 16:30:00,Yoann Court,Pass
+330778,75,SavedShot,0.8619999694824219,0.46299999237060546,0.07282329350709915,Haris Belkebla,h,7732,OpenPlay,2019,RightFoot,12835,Brest,Paris Saint Germain,1,2,2019-11-09 16:30:00,Julien Faussurier,Cross
+330780,81,MissedShots,0.759000015258789,0.19600000381469726,0.010715124197304249,Yoann Court,h,3446,OpenPlay,2019,LeftFoot,12835,Brest,Paris Saint Germain,1,2,2019-11-09 16:30:00,Samuel Grandsir,Pass
+330785,91,MissedShots,0.9380000305175781,0.32,0.05299794301390648,Julien Faussurier,h,7729,SetPiece,2019,RightFoot,12835,Brest,Paris Saint Germain,1,2,2019-11-09 16:30:00,,None
+330786,91,MissedShots,0.8959999847412109,0.38799999237060545,0.06959225237369537,Gaëtan Charbonnier,h,3243,SetPiece,2019,RightFoot,12835,Brest,Paris Saint Germain,1,2,2019-11-09 16:30:00,,None
+330753,4,MissedShots,0.7240000152587891,0.615,0.017093772068619728,Ángel Di María,a,3553,OpenPlay,2019,LeftFoot,12835,Brest,Paris Saint Germain,1,2,2019-11-09 16:30:00,Edinson Cavani,Pass
+330755,12,MissedShots,0.9359999847412109,0.3139999961853027,0.07297918945550919,Pablo Sarabia,a,2199,OpenPlay,2019,RightFoot,12835,Brest,Paris Saint Germain,1,2,2019-11-09 16:30:00,Julian Draxler,TakeOn
+330758,19,MissedShots,0.8909999847412109,0.6079999923706054,0.06252223253250122,Ángel Di María,a,3553,OpenPlay,2019,RightFoot,12835,Brest,Paris Saint Germain,1,2,2019-11-09 16:30:00,Colin Dagba,Cross
+330759,20,SavedShot,0.7819999694824219,0.38299999237060545,0.028497645631432533,Pablo Sarabia,a,2199,OpenPlay,2019,LeftFoot,12835,Brest,Paris Saint Germain,1,2,2019-11-09 16:30:00,Edinson Cavani,Pass
+330760,20,SavedShot,0.8219999694824218,0.51,0.04955678805708885,Julian Draxler,a,152,OpenPlay,2019,RightFoot,12835,Brest,Paris Saint Germain,1,2,2019-11-09 16:30:00,,Rebound
+330765,38,Goal,0.855999984741211,0.5179999923706055,0.34607750177383423,Ángel Di María,a,3553,OpenPlay,2019,LeftFoot,12835,Brest,Paris Saint Germain,1,2,2019-11-09 16:30:00,Julian Draxler,Throughball
+330770,58,SavedShot,0.8580000305175781,0.46799999237060547,0.046747468411922455,Julian Draxler,a,152,OpenPlay,2019,LeftFoot,12835,Brest,Paris Saint Germain,1,2,2019-11-09 16:30:00,,Aerial
+330771,60,SavedShot,0.855999984741211,0.5979999923706054,0.09453010559082031,Layvin Kurzawa,a,3298,OpenPlay,2019,RightFoot,12835,Brest,Paris Saint Germain,1,2,2019-11-09 16:30:00,Ángel Di María,Pass
+330772,61,SavedShot,0.9319999694824219,0.575999984741211,0.49480539560317993,Edinson Cavani,a,3294,SetPiece,2019,RightFoot,12835,Brest,Paris Saint Germain,1,2,2019-11-09 16:30:00,,None
+330774,64,MissedShots,0.97,0.4129999923706055,0.2656550407409668,Edinson Cavani,a,3294,FromCorner,2019,Head,12835,Brest,Paris Saint Germain,1,2,2019-11-09 16:30:00,Ángel Di María,Cross
+330775,67,MissedShots,0.8980000305175782,0.5309999847412109,0.01995234377682209,Thiago Silva,a,3288,FromCorner,2019,Head,12835,Brest,Paris Saint Germain,1,2,2019-11-09 16:30:00,Ángel Di María,Aerial
+330777,72,MissedShots,0.885,0.7190000152587891,0.04329943656921387,Ángel Di María,a,3553,OpenPlay,2019,LeftFoot,12835,Brest,Paris Saint Germain,1,2,2019-11-09 16:30:00,Abdou Diallo,TakeOn
+330779,80,MissedShots,0.93,0.5120000076293946,0.07283904403448105,Eric Maxim Choupo-Moting,a,339,SetPiece,2019,Head,12835,Brest,Paris Saint Germain,1,2,2019-11-09 16:30:00,Ángel Di María,Aerial
+330781,84,SavedShot,0.9009999847412109,0.6780000305175782,0.06269928067922592,Ángel Di María,a,3553,OpenPlay,2019,LeftFoot,12835,Brest,Paris Saint Germain,1,2,2019-11-09 16:30:00,Julian Draxler,BallTouch
+330782,84,Goal,0.9590000152587891,0.5070000076293946,0.6322881579399109,Mauro Icardi,a,1513,OpenPlay,2019,RightFoot,12835,Brest,Paris Saint Germain,1,2,2019-11-09 16:30:00,,None
+330783,87,MissedShots,0.8580000305175781,0.5920000076293945,0.10462424159049988,Julian Draxler,a,152,OpenPlay,2019,RightFoot,12835,Brest,Paris Saint Germain,1,2,2019-11-09 16:30:00,Eric Maxim Choupo-Moting,Pass
+330784,89,MissedShots,0.865,0.295,0.051436662673950195,Mauro Icardi,a,1513,OpenPlay,2019,RightFoot,12835,Brest,Paris Saint Germain,1,2,2019-11-09 16:30:00,Julian Draxler,Pass
+330787,95,BlockedShot,0.7730000305175782,0.59,0.08046698570251465,Ángel Di María,a,3553,DirectFreekick,2019,LeftFoot,12835,Brest,Paris Saint Germain,1,2,2019-11-09 16:30:00,,Standard

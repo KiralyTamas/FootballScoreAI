@@ -1,0 +1,24 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+141608,10,BlockedShot,0.9330000305175781,0.27399999618530274,0.01749178022146225,Jonathan dos Santos,h,2307,OpenPlay,2016,RightFoot,3941,Villarreal,Malaga,1,1,2017-02-12 11:00:00,José Ángel,Cross
+141610,28,SavedShot,0.799000015258789,0.3940000152587891,0.03420532867312431,Manu Trigueros,h,2301,OpenPlay,2016,RightFoot,3941,Villarreal,Malaga,1,1,2017-02-12 11:00:00,Jonathan dos Santos,Pass
+141611,28,MissedShots,0.88,0.5270000076293946,0.03456813097000122,Álvaro González,h,2430,FromCorner,2016,OtherBodyPart,3941,Villarreal,Malaga,1,1,2017-02-12 11:00:00,Jonathan dos Santos,Cross
+141612,30,MissedShots,0.899000015258789,0.5729999923706055,0.04768187925219536,Álvaro González,h,2430,FromCorner,2016,Head,3941,Villarreal,Malaga,1,1,2017-02-12 11:00:00,Jonathan dos Santos,Cross
+141613,32,SavedShot,0.7240000152587891,0.35200000762939454,0.016149304807186127,Manu Trigueros,h,2301,OpenPlay,2016,RightFoot,3941,Villarreal,Malaga,1,1,2017-02-12 11:00:00,Jonathan dos Santos,Pass
+141614,39,MissedShots,0.764000015258789,0.27600000381469725,0.018889982253313065,Jonathan dos Santos,h,2307,OpenPlay,2016,RightFoot,3941,Villarreal,Malaga,1,1,2017-02-12 11:00:00,Manu Trigueros,Pass
+141615,42,MissedShots,0.7230000305175781,0.6869999694824219,0.01682782918214798,José Ángel,h,5126,OpenPlay,2016,LeftFoot,3941,Villarreal,Malaga,1,1,2017-02-12 11:00:00,Víctor Ruiz,Pass
+141616,47,MissedShots,0.8619999694824219,0.42400001525878905,0.07780454307794571,Nicola Sansone,h,1826,OpenPlay,2016,RightFoot,3941,Villarreal,Malaga,1,1,2017-02-12 11:00:00,Adrián,TakeOn
+141617,48,SavedShot,0.74,0.5929999923706055,0.016271306201815605,Bruno,h,2302,OpenPlay,2016,LeftFoot,3941,Villarreal,Malaga,1,1,2017-02-12 11:00:00,Jonathan dos Santos,Interception
+141620,62,Goal,0.885,0.5,0.7432776093482971,Bruno,h,2302,Penalty,2016,LeftFoot,3941,Villarreal,Malaga,1,1,2017-02-12 11:00:00,,Standard
+141627,85,MissedShots,0.8590000152587891,0.385,0.07234299927949905,Jonathan dos Santos,h,2307,OpenPlay,2016,RightFoot,3941,Villarreal,Malaga,1,1,2017-02-12 11:00:00,Samu Castillejo,Pass
+141629,90,SavedShot,0.8,0.3770000076293945,0.03440830484032631,Samu Castillejo,h,2303,OpenPlay,2016,LeftFoot,3941,Villarreal,Malaga,1,1,2017-02-12 11:00:00,Álvaro González,TakeOn
+141607,8,SavedShot,0.7819999694824219,0.33099998474121095,0.024612298235297203,Pablo Fornals,a,2335,OpenPlay,2016,LeftFoot,3941,Villarreal,Malaga,1,1,2017-02-12 11:00:00,Roberto Rosales,Pass
+141609,13,Goal,0.92,0.46700000762939453,0.0626264289021492,Charles,a,2339,OpenPlay,2016,Head,3941,Villarreal,Malaga,1,1,2017-02-12 11:00:00,Roberto Rosales,Aerial
+141618,53,BlockedShot,0.7559999847412109,0.4129999923706055,0.030888205394148827,Keko,a,2131,OpenPlay,2016,RightFoot,3941,Villarreal,Malaga,1,1,2017-02-12 11:00:00,Pablo Fornals,Pass
+141619,54,MissedShots,0.9280000305175782,0.5,0.12338151782751083,Charles,a,2339,FromCorner,2016,Head,3941,Villarreal,Malaga,1,1,2017-02-12 11:00:00,Pablo Fornals,Cross
+141621,67,SavedShot,0.8119999694824219,0.33,0.048788346350193024,Jony,a,2216,OpenPlay,2016,LeftFoot,3941,Villarreal,Malaga,1,1,2017-02-12 11:00:00,Gonzalo Castro,Pass
+141622,68,BlockedShot,0.7619999694824219,0.63,0.017531659454107285,Miguel Torres,a,2334,OpenPlay,2016,LeftFoot,3941,Villarreal,Malaga,1,1,2017-02-12 11:00:00,,None
+141623,68,SavedShot,0.8930000305175781,0.24899999618530275,0.028861524537205696,Pablo Fornals,a,2335,OpenPlay,2016,RightFoot,3941,Villarreal,Malaga,1,1,2017-02-12 11:00:00,José Rodríguez,Pass
+141624,73,SavedShot,0.805,0.34799999237060547,0.03604171797633171,Jony,a,2216,OpenPlay,2016,LeftFoot,3941,Villarreal,Malaga,1,1,2017-02-12 11:00:00,,Dispossessed
+141625,74,MissedShots,0.7809999847412109,0.575999984741211,0.024053489789366722,Jony,a,2216,FromCorner,2016,LeftFoot,3941,Villarreal,Malaga,1,1,2017-02-12 11:00:00,,None
+141626,78,MissedShots,0.759000015258789,0.7330000305175781,0.010577715002000332,Miguel Torres,a,2334,OpenPlay,2016,RightFoot,3941,Villarreal,Malaga,1,1,2017-02-12 11:00:00,,None
+141628,87,BlockedShot,0.840999984741211,0.30700000762939456,0.0321250818669796,Jony,a,2216,OpenPlay,2016,LeftFoot,3941,Villarreal,Malaga,1,1,2017-02-12 11:00:00,Roberto Rosales,Pass

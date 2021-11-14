@@ -1,0 +1,36 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+421642,4,MissedShots,0.909000015258789,0.36700000762939455,0.01918431557714939,Edinson Cavani,h,3294,OpenPlay,2020,Head,14770,Manchester United,Liverpool,2,4,2021-05-13 19:15:00,Aaron Wan-Bissaka,Aerial
+421643,4,MissedShots,0.8290000152587891,0.4620000076293945,0.31338733434677124,Edinson Cavani,h,3294,OpenPlay,2020,RightFoot,14770,Manchester United,Liverpool,2,4,2021-05-13 19:15:00,,BallRecovery
+421644,9,Goal,0.8569999694824219,0.3189999961853027,0.038069821894168854,Bruno Fernandes,h,1228,OpenPlay,2020,RightFoot,14770,Manchester United,Liverpool,2,4,2021-05-13 19:15:00,Aaron Wan-Bissaka,Pass
+421648,30,BlockedShot,0.8919999694824219,0.49700000762939456,0.028307095170021057,Scott McTominay,h,5560,FromCorner,2020,Head,14770,Manchester United,Liverpool,2,4,2021-05-13 19:15:00,Luke Shaw,End
+421655,40,MissedShots,0.8690000152587891,0.7330000305175781,0.032954949885606766,Paul Pogba,h,1740,OpenPlay,2020,LeftFoot,14770,Manchester United,Liverpool,2,4,2021-05-13 19:15:00,Fred,Pass
+421656,45,BlockedShot,0.8630000305175781,0.7230000305175781,0.03196932002902031,Paul Pogba,h,1740,OpenPlay,2020,RightFoot,14770,Manchester United,Liverpool,2,4,2021-05-13 19:15:00,Bruno Fernandes,Chipped
+421657,45,MissedShots,0.8169999694824219,0.519000015258789,0.044601667672395706,Bruno Fernandes,h,1228,OpenPlay,2020,LeftFoot,14770,Manchester United,Liverpool,2,4,2021-05-13 19:15:00,,Rebound
+421663,67,Goal,0.865999984741211,0.595,0.08933200687170029,Marcus Rashford,h,556,OpenPlay,2020,LeftFoot,14770,Manchester United,Liverpool,2,4,2021-05-13 19:15:00,Edinson Cavani,Throughball
+421665,69,BlockedShot,0.904000015258789,0.5690000152587891,0.11398833245038986,Bruno Fernandes,h,1228,OpenPlay,2020,RightFoot,14770,Manchester United,Liverpool,2,4,2021-05-13 19:15:00,Edinson Cavani,Pass
+421666,69,BlockedShot,0.9490000152587891,0.4229999923706055,0.44729262590408325,Mason Greenwood,h,7490,OpenPlay,2020,RightFoot,14770,Manchester United,Liverpool,2,4,2021-05-13 19:15:00,Bruno Fernandes,Rebound
+421667,69,BlockedShot,0.9619999694824218,0.46900001525878904,0.14891327917575836,Mason Greenwood,h,7490,OpenPlay,2020,LeftFoot,14770,Manchester United,Liverpool,2,4,2021-05-13 19:15:00,,Rebound
+421668,70,BlockedShot,0.9259999847412109,0.505,0.054832253605127335,Scott McTominay,h,5560,FromCorner,2020,Head,14770,Manchester United,Liverpool,2,4,2021-05-13 19:15:00,Luke Shaw,Aerial
+421669,70,MissedShots,0.875999984741211,0.48700000762939455,0.04470733180642128,Bruno Fernandes,h,1228,OpenPlay,2020,Head,14770,Manchester United,Liverpool,2,4,2021-05-13 19:15:00,Marcus Rashford,Cross
+421670,71,BlockedShot,0.7140000152587891,0.4540000152587891,0.01341931987553835,Mason Greenwood,h,7490,OpenPlay,2020,RightFoot,14770,Manchester United,Liverpool,2,4,2021-05-13 19:15:00,,BallRecovery
+421672,75,MissedShots,0.909000015258789,0.745999984741211,0.030880078673362732,Marcus Rashford,h,556,OpenPlay,2020,RightFoot,14770,Manchester United,Liverpool,2,4,2021-05-13 19:15:00,Luke Shaw,TakeOn
+421673,76,BlockedShot,0.745,0.565,0.01986376754939556,Bruno Fernandes,h,1228,OpenPlay,2020,RightFoot,14770,Manchester United,Liverpool,2,4,2021-05-13 19:15:00,Marcus Rashford,Pass
+421674,78,MissedShots,0.7919999694824219,0.5690000152587891,0.10433637350797653,Bruno Fernandes,h,1228,DirectFreekick,2020,RightFoot,14770,Manchester United,Liverpool,2,4,2021-05-13 19:15:00,,Standard
+421676,94,MissedShots,0.879000015258789,0.659000015258789,0.2656433582305908,Marcus Rashford,h,556,OpenPlay,2020,RightFoot,14770,Manchester United,Liverpool,2,4,2021-05-13 19:15:00,Paul Pogba,Chipped
+421645,13,BlockedShot,0.8969999694824219,0.34599998474121096,0.06491980701684952,Mohamed Salah,a,1250,OpenPlay,2020,LeftFoot,14770,Manchester United,Liverpool,2,4,2021-05-13 19:15:00,Trent Alexander-Arnold,Pass
+421646,22,SavedShot,0.904000015258789,0.4570000076293945,0.3181627094745636,Diogo Jota,a,6854,OpenPlay,2020,RightFoot,14770,Manchester United,Liverpool,2,4,2021-05-13 19:15:00,Trent Alexander-Arnold,Chipped
+421647,25,MissedShots,0.855999984741211,0.505,0.04557910934090614,Rhys Williams,a,9086,FromCorner,2020,RightFoot,14770,Manchester United,Liverpool,2,4,2021-05-13 19:15:00,Trent Alexander-Arnold,Cross
+421649,32,SavedShot,0.8540000152587891,0.6509999847412109,0.058842696249485016,Diogo Jota,a,6854,OpenPlay,2020,LeftFoot,14770,Manchester United,Liverpool,2,4,2021-05-13 19:15:00,Andrew Robertson,Pass
+421650,33,BlockedShot,0.8190000152587891,0.545,0.03918648883700371,Mohamed Salah,a,1250,FromCorner,2020,LeftFoot,14770,Manchester United,Liverpool,2,4,2021-05-13 19:15:00,,None
+421651,33,MissedShots,0.8809999847412109,0.4109999847412109,0.07450979202985764,Nathaniel Phillips,a,8228,FromCorner,2020,RightFoot,14770,Manchester United,Liverpool,2,4,2021-05-13 19:15:00,,Rebound
+421652,33,Goal,0.9380000305175781,0.5129999923706055,0.5596401691436768,Diogo Jota,a,6854,FromCorner,2020,RightFoot,14770,Manchester United,Liverpool,2,4,2021-05-13 19:15:00,Nathaniel Phillips,Rebound
+421653,34,BlockedShot,0.8280000305175781,0.41,0.06608153879642487,Roberto Firmino,a,482,OpenPlay,2020,RightFoot,14770,Manchester United,Liverpool,2,4,2021-05-13 19:15:00,Trent Alexander-Arnold,Pass
+421654,35,BlockedShot,0.7819999694824219,0.25,0.013943244703114033,Trent Alexander-Arnold,a,1791,FromCorner,2020,RightFoot,14770,Manchester United,Liverpool,2,4,2021-05-13 19:15:00,,None
+421659,46,SavedShot,0.8859999847412109,0.32,0.07671831548213959,Trent Alexander-Arnold,a,1791,OpenPlay,2020,RightFoot,14770,Manchester United,Liverpool,2,4,2021-05-13 19:15:00,Roberto Firmino,Pass
+421660,46,Goal,0.91,0.4470000076293945,0.4212280213832855,Roberto Firmino,a,482,OpenPlay,2020,RightFoot,14770,Manchester United,Liverpool,2,4,2021-05-13 19:15:00,,Rebound
+421658,47,Goal,0.9440000152587891,0.5729999923706055,0.29827436804771423,Roberto Firmino,a,482,SetPiece,2020,Head,14770,Manchester United,Liverpool,2,4,2021-05-13 19:15:00,Trent Alexander-Arnold,Cross
+421661,58,ShotOnPost,0.9119999694824219,0.6170000076293946,0.3377325236797333,Diogo Jota,a,6854,OpenPlay,2020,LeftFoot,14770,Manchester United,Liverpool,2,4,2021-05-13 19:15:00,Roberto Firmino,Pass
+421662,61,SavedShot,0.885,0.63,0.11234279721975327,Trent Alexander-Arnold,a,1791,OpenPlay,2020,LeftFoot,14770,Manchester United,Liverpool,2,4,2021-05-13 19:15:00,Mohamed Salah,Pass
+421664,68,MissedShots,0.7930000305175782,0.38,0.03753454610705376,Trent Alexander-Arnold,a,1791,OpenPlay,2020,RightFoot,14770,Manchester United,Liverpool,2,4,2021-05-13 19:15:00,Mohamed Salah,Pass
+421671,72,MissedShots,0.86,0.7090000152587891,0.04242770001292229,Mohamed Salah,a,1250,OpenPlay,2020,LeftFoot,14770,Manchester United,Liverpool,2,4,2021-05-13 19:15:00,Thiago Alcántara,Pass
+421675,89,Goal,0.899000015258789,0.4279999923706055,0.4681112766265869,Mohamed Salah,a,1250,OpenPlay,2020,LeftFoot,14770,Manchester United,Liverpool,2,4,2021-05-13 19:15:00,Curtis Jones,Pass

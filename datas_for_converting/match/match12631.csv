@@ -1,0 +1,24 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+363091,16,BlockedShot,0.874000015258789,0.5609999847412109,0.020244034007191658,Davie Selke,h,4280,OpenPlay,2019,Head,12631,Werder Bremen,Bayer Leverkusen,1,4,2020-05-18 18:30:00,Milot Rashica,Aerial
+363092,16,MissedShots,0.9719999694824218,0.5790000152587891,0.05621097609400749,Niklas Moisander,h,1936,FromCorner,2019,Head,12631,Werder Bremen,Bayer Leverkusen,1,4,2020-05-18 18:30:00,Theodor Gebre Selassie,HeadPass
+363095,29,Goal,0.9530000305175781,0.5420000076293945,0.13501662015914917,Theodor Gebre Selassie,h,110,FromCorner,2019,RightFoot,12631,Werder Bremen,Bayer Leverkusen,1,4,2020-05-18 18:30:00,Leonardo Bittencourt,Cross
+363097,37,MissedShots,0.749000015258789,0.605999984741211,0.038726937025785446,Milot Rashica,h,6523,OpenPlay,2019,RightFoot,12631,Werder Bremen,Bayer Leverkusen,1,4,2020-05-18 18:30:00,Kevin Vogt,BallRecovery
+363098,38,MissedShots,0.8719999694824219,0.46299999237060546,0.3712800443172455,Leonardo Bittencourt,h,262,OpenPlay,2019,RightFoot,12631,Werder Bremen,Bayer Leverkusen,1,4,2020-05-18 18:30:00,Milos Veljkovic,Throughball
+363099,45,MissedShots,0.879000015258789,0.485,0.05231165513396263,Philipp Bargfrede,h,114,OpenPlay,2019,Head,12631,Werder Bremen,Bayer Leverkusen,1,4,2020-05-18 18:30:00,Leonardo Bittencourt,Cross
+363101,45,BlockedShot,0.8530000305175781,0.6480000305175782,0.0613403283059597,Maximilian Eggestein,h,125,OpenPlay,2019,LeftFoot,12631,Werder Bremen,Bayer Leverkusen,1,4,2020-05-18 18:30:00,,TakeOn
+363102,59,MissedShots,0.7559999847412109,0.6020000076293945,0.019150836393237114,Leonardo Bittencourt,h,262,OpenPlay,2019,RightFoot,12631,Werder Bremen,Bayer Leverkusen,1,4,2020-05-18 18:30:00,,None
+363104,61,MissedShots,0.825,0.48900001525878906,0.07149834930896759,Maximilian Eggestein,h,125,OpenPlay,2019,LeftFoot,12631,Werder Bremen,Bayer Leverkusen,1,4,2020-05-18 18:30:00,Davie Selke,Pass
+363110,74,BlockedShot,0.845999984741211,0.34200000762939453,0.051457665860652924,Johannes Eggestein,h,6084,OpenPlay,2019,LeftFoot,12631,Werder Bremen,Bayer Leverkusen,1,4,2020-05-18 18:30:00,Nick Woltemade,Pass
+363093,26,SavedShot,0.7669999694824219,0.7719999694824219,0.025034727528691292,Nadiem Amiri,a,82,FromCorner,2019,RightFoot,12631,Werder Bremen,Bayer Leverkusen,1,4,2020-05-18 18:30:00,Daley Sinkgraven,Pass
+363094,27,Goal,0.9630000305175781,0.5329999923706055,0.5990128517150879,Kai Havertz,a,5220,OpenPlay,2019,Head,12631,Werder Bremen,Bayer Leverkusen,1,4,2020-05-18 18:30:00,Moussa Diaby,Cross
+363096,32,Goal,0.9280000305175782,0.4929999923706055,0.42000314593315125,Kai Havertz,a,5220,SetPiece,2019,Head,12631,Werder Bremen,Bayer Leverkusen,1,4,2020-05-18 18:30:00,Kerem Demirbay,Cross
+363100,46,BlockedShot,0.7609999847412109,0.345,0.055373482406139374,Nadiem Amiri,a,82,OpenPlay,2019,RightFoot,12631,Werder Bremen,Bayer Leverkusen,1,4,2020-05-18 18:30:00,Kerem Demirbay,BallRecovery
+363103,60,Goal,0.9519999694824218,0.5059999847412109,0.6303949356079102,Mitchell Weiser,a,28,OpenPlay,2019,Head,12631,Werder Bremen,Bayer Leverkusen,1,4,2020-05-18 18:30:00,Moussa Diaby,Aerial
+363105,63,SavedShot,0.9159999847412109,0.25,0.05664472281932831,Karim Bellarabi,a,186,OpenPlay,2019,RightFoot,12631,Werder Bremen,Bayer Leverkusen,1,4,2020-05-18 18:30:00,Kai Havertz,Pass
+363106,63,BlockedShot,0.9069999694824219,0.445,0.1326407492160797,Kai Havertz,a,5220,OpenPlay,2019,RightFoot,12631,Werder Bremen,Bayer Leverkusen,1,4,2020-05-18 18:30:00,,Rebound
+363107,65,MissedShots,0.8809999847412109,0.605999984741211,0.12414800375699997,Leon Bailey,a,5221,OpenPlay,2019,LeftFoot,12631,Werder Bremen,Bayer Leverkusen,1,4,2020-05-18 18:30:00,Daley Sinkgraven,Pass
+363108,68,BlockedShot,0.8959999847412109,0.6819999694824219,0.06324617564678192,Kai Havertz,a,5220,OpenPlay,2019,LeftFoot,12631,Werder Bremen,Bayer Leverkusen,1,4,2020-05-18 18:30:00,,None
+363109,71,BlockedShot,0.8569999694824219,0.4759999847412109,0.09647681564092636,Kai Havertz,a,5220,OpenPlay,2019,LeftFoot,12631,Werder Bremen,Bayer Leverkusen,1,4,2020-05-18 18:30:00,,BlockedPass
+363111,77,Goal,0.9130000305175782,0.4159999847412109,0.5288999676704407,Kerem Demirbay,a,5273,OpenPlay,2019,RightFoot,12631,Werder Bremen,Bayer Leverkusen,1,4,2020-05-18 18:30:00,Karim Bellarabi,Throughball
+363112,90,BlockedShot,0.8219999694824218,0.45099998474121095,0.08571035414934158,Leon Bailey,a,5221,OpenPlay,2019,LeftFoot,12631,Werder Bremen,Bayer Leverkusen,1,4,2020-05-18 18:30:00,Paulinho,Pass
+363113,92,MissedShots,0.92,0.6990000152587891,0.07422737032175064,Karim Bellarabi,a,186,OpenPlay,2019,RightFoot,12631,Werder Bremen,Bayer Leverkusen,1,4,2020-05-18 18:30:00,Paulinho,Pass

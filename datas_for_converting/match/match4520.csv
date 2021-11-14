@@ -1,0 +1,29 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+23404,1,BlockedShot,0.789000015258789,0.5529999923706055,0.02491389773786068,Joey Barton,h,4430,FromCorner,2014,RightFoot,4520,Queens Park Rangers,Southampton,0,1,2015-02-07 15:00:00,,None
+23407,10,MissedShots,0.8480000305175781,0.32,0.033188141882419586,Joey Barton,h,4430,SetPiece,2014,RightFoot,4520,Queens Park Rangers,Southampton,0,1,2015-02-07 15:00:00,,None
+23410,31,MissedShots,0.7919999694824219,0.46799999237060547,0.03422844782471657,Matt Phillips,h,1737,OpenPlay,2014,LeftFoot,4520,Queens Park Rangers,Southampton,0,1,2015-02-07 15:00:00,Steven Caulker,HeadPass
+23414,36,SavedShot,0.7080000305175781,0.4209999847412109,0.013231577351689339,Adel Taarabt,h,4450,OpenPlay,2014,RightFoot,4520,Queens Park Rangers,Southampton,0,1,2015-02-07 15:00:00,Richard Dunne,BallRecovery
+23415,38,BlockedShot,0.87,0.4209999847412109,0.07593556493520737,Adel Taarabt,h,4450,OpenPlay,2014,LeftFoot,4520,Queens Park Rangers,Southampton,0,1,2015-02-07 15:00:00,Joey Barton,Chipped
+23416,38,MissedShots,0.9109999847412109,0.509000015258789,0.11572021245956421,Matt Phillips,h,1737,OpenPlay,2014,Head,4520,Queens Park Rangers,Southampton,0,1,2015-02-07 15:00:00,Clint Hill,Cross
+23419,53,MissedShots,0.9830000305175781,0.6020000076293945,0.033558815717697144,Armand Traore,h,4431,OpenPlay,2014,Head,4520,Queens Park Rangers,Southampton,0,1,2015-02-07 15:00:00,,None
+23421,61,MissedShots,0.8780000305175781,0.5690000152587891,0.04356412962079048,Leroy Fer,h,711,SetPiece,2014,Head,4520,Queens Park Rangers,Southampton,0,1,2015-02-07 15:00:00,Adel Taarabt,Chipped
+23422,63,SavedShot,0.9530000305175781,0.5790000152587891,0.1066136509180069,Mauro Zárate,h,939,OpenPlay,2014,LeftFoot,4520,Queens Park Rangers,Southampton,0,1,2015-02-07 15:00:00,Matt Phillips,Cross
+23426,72,BlockedShot,0.7719999694824219,0.5370000076293945,0.011663910001516342,Joey Barton,h,4430,FromCorner,2014,RightFoot,4520,Queens Park Rangers,Southampton,0,1,2015-02-07 15:00:00,Clint Hill,HeadPass
+23427,72,SavedShot,0.9230000305175782,0.48700000762939455,0.5213598012924194,Charlie Austin,h,848,FromCorner,2014,RightFoot,4520,Queens Park Rangers,Southampton,0,1,2015-02-07 15:00:00,Joey Barton,None
+23430,86,MissedShots,0.784000015258789,0.715,0.01638896018266678,Mauro Zárate,h,939,OpenPlay,2014,RightFoot,4520,Queens Park Rangers,Southampton,0,1,2015-02-07 15:00:00,Clint Hill,Pass
+23405,4,SavedShot,0.735999984741211,0.69,0.013158359564840794,Graziano Pellè,a,841,OpenPlay,2014,RightFoot,4520,Queens Park Rangers,Southampton,0,1,2015-02-07 15:00:00,Eljero Elia,Pass
+23406,6,MissedShots,0.7319999694824219,0.32,0.01781599596142769,Eljero Elia,a,4367,OpenPlay,2014,RightFoot,4520,Queens Park Rangers,Southampton,0,1,2015-02-07 15:00:00,Sadio Mané,Pass
+23408,14,MissedShots,0.8669999694824219,0.6140000152587891,0.059838615357875824,Victor Wanyama,a,836,SetPiece,2014,RightFoot,4520,Queens Park Rangers,Southampton,0,1,2015-02-07 15:00:00,,None
+23409,26,SavedShot,0.7719999694824219,0.544000015258789,0.02816860005259514,Sadio Mané,a,838,OpenPlay,2014,LeftFoot,4520,Queens Park Rangers,Southampton,0,1,2015-02-07 15:00:00,Steven Davis,Pass
+23411,32,MissedShots,0.8230000305175781,0.48,0.08061417937278748,Sadio Mané,a,838,OpenPlay,2014,LeftFoot,4520,Queens Park Rangers,Southampton,0,1,2015-02-07 15:00:00,James Ward-Prowse,TakeOn
+23412,33,ShotOnPost,0.9209999847412109,0.500999984741211,0.10816401243209839,José Fonte,a,834,FromCorner,2014,LeftFoot,4520,Queens Park Rangers,Southampton,0,1,2015-02-07 15:00:00,James Ward-Prowse,Cross
+23413,34,MissedShots,0.89,0.5690000152587891,0.08908755332231522,Sadio Mané,a,838,OpenPlay,2014,LeftFoot,4520,Queens Park Rangers,Southampton,0,1,2015-02-07 15:00:00,Steven Davis,Chipped
+23417,47,SavedShot,0.894000015258789,0.715,0.04256870225071907,Eljero Elia,a,4367,OpenPlay,2014,LeftFoot,4520,Queens Park Rangers,Southampton,0,1,2015-02-07 15:00:00,Graziano Pellè,Pass
+23418,51,MissedShots,0.8059999847412109,0.39599998474121095,0.11251301318407059,James Ward-Prowse,a,843,DirectFreekick,2014,RightFoot,4520,Queens Park Rangers,Southampton,0,1,2015-02-07 15:00:00,,Standard
+23420,60,MissedShots,0.825,0.29,0.03637072816491127,Sadio Mané,a,838,OpenPlay,2014,RightFoot,4520,Queens Park Rangers,Southampton,0,1,2015-02-07 15:00:00,Graziano Pellè,HeadPass
+23423,64,BlockedShot,0.9059999847412109,0.3579999923706055,0.08897146582603455,Sadio Mané,a,838,OpenPlay,2014,RightFoot,4520,Queens Park Rangers,Southampton,0,1,2015-02-07 15:00:00,Graziano Pellè,Pass
+23424,67,BlockedShot,0.740999984741211,0.46099998474121096,0.02002418413758278,James Ward-Prowse,a,843,OpenPlay,2014,LeftFoot,4520,Queens Park Rangers,Southampton,0,1,2015-02-07 15:00:00,Eljero Elia,Pass
+23425,70,SavedShot,0.76,0.8290000152587891,0.009482007473707199,Maya Yoshida,a,845,OpenPlay,2014,RightFoot,4520,Queens Park Rangers,Southampton,0,1,2015-02-07 15:00:00,Eljero Elia,Pass
+23428,77,BlockedShot,0.9159999847412109,0.62,0.10597232729196548,Sadio Mané,a,838,OpenPlay,2014,LeftFoot,4520,Queens Park Rangers,Southampton,0,1,2015-02-07 15:00:00,Eljero Elia,Pass
+23429,80,MissedShots,0.7719999694824219,0.605999984741211,0.02424420230090618,Steven Davis,a,883,OpenPlay,2014,RightFoot,4520,Queens Park Rangers,Southampton,0,1,2015-02-07 15:00:00,James Ward-Prowse,Pass
+23431,92,Goal,0.9259999847412109,0.5829999923706055,0.1268981248140335,Sadio Mané,a,838,OpenPlay,2014,LeftFoot,4520,Queens Park Rangers,Southampton,0,1,2015-02-07 15:00:00,Maya Yoshida,Pass

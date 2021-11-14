@@ -1,0 +1,23 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+402171,5,MissedShots,0.8190000152587891,0.495,0.021458640694618225,Ismail Jakobs,h,8146,FromCorner,2020,LeftFoot,15308,FC Cologne,Arminia Bielefeld,3,1,2021-01-31 14:30:00,,Aerial
+402172,5,MissedShots,0.7819999694824219,0.6630000305175782,0.018129054456949234,Ondrej Duda,h,5240,FromCorner,2020,RightFoot,15308,FC Cologne,Arminia Bielefeld,3,1,2021-01-31 14:30:00,,None
+402173,8,SavedShot,0.9280000305175782,0.5309999847412109,0.05567590147256851,Ellyes Skhiri,h,3347,FromCorner,2020,Head,15308,FC Cologne,Arminia Bielefeld,3,1,2021-01-31 14:30:00,Ondrej Duda,Aerial
+402174,8,Goal,0.96,0.4520000076293945,0.5920231938362122,Marius Wolf,h,2693,FromCorner,2020,RightFoot,15308,FC Cologne,Arminia Bielefeld,3,1,2021-01-31 14:30:00,,Rebound
+402175,11,BlockedShot,0.7369999694824219,0.5579999923706055,0.023122793063521385,Elvis Rexhbecaj,h,6445,OpenPlay,2020,RightFoot,15308,FC Cologne,Arminia Bielefeld,3,1,2021-01-31 14:30:00,Ondrej Duda,Pass
+402177,27,Goal,0.8590000152587891,0.3820000076293945,0.03445089980959892,Marius Wolf,h,2693,OpenPlay,2020,RightFoot,15308,FC Cologne,Arminia Bielefeld,3,1,2021-01-31 14:30:00,,Aerial
+402178,33,MissedShots,0.7880000305175782,0.6669999694824219,0.02888287790119648,Ellyes Skhiri,h,3347,OpenPlay,2020,RightFoot,15308,FC Cologne,Arminia Bielefeld,3,1,2021-01-31 14:30:00,Ondrej Duda,Pass
+402179,36,BlockedShot,0.7319999694824219,0.605999984741211,0.05064510181546211,Ondrej Duda,h,5240,DirectFreekick,2020,RightFoot,15308,FC Cologne,Arminia Bielefeld,3,1,2021-01-31 14:30:00,,Standard
+402182,43,SavedShot,0.8909999847412109,0.6730000305175782,0.08859996497631073,Ondrej Duda,h,5240,OpenPlay,2020,LeftFoot,15308,FC Cologne,Arminia Bielefeld,3,1,2021-01-31 14:30:00,Elvis Rexhbecaj,Pass
+402183,49,SavedShot,0.8880000305175781,0.47,0.12539497017860413,Elvis Rexhbecaj,h,6445,OpenPlay,2020,RightFoot,15308,FC Cologne,Arminia Bielefeld,3,1,2021-01-31 14:30:00,Emmanuel Dennis,Cross
+402184,61,Goal,0.8580000305175781,0.44299999237060544,0.27196791768074036,Elvis Rexhbecaj,h,6445,OpenPlay,2020,LeftFoot,15308,FC Cologne,Arminia Bielefeld,3,1,2021-01-31 14:30:00,Ellyes Skhiri,Pass
+402188,75,BlockedShot,0.965999984741211,0.32099998474121094,0.05797123163938522,Emmanuel Dennis,h,9301,OpenPlay,2020,RightFoot,15308,FC Cologne,Arminia Bielefeld,3,1,2021-01-31 14:30:00,Dominick Drexler,Cross
+402189,75,MissedShots,0.9430000305175781,0.43,0.056649792939424515,Rafael Czichos,h,7786,FromCorner,2020,Head,15308,FC Cologne,Arminia Bielefeld,3,1,2021-01-31 14:30:00,Jorge Meré,HeadPass
+402192,92,BlockedShot,0.895,0.6090000152587891,0.11508312076330185,Max Meyer,h,338,OpenPlay,2020,RightFoot,15308,FC Cologne,Arminia Bielefeld,3,1,2021-01-31 14:30:00,Marius Wolf,Pass
+402176,21,SavedShot,0.9019999694824219,0.525,0.1856834888458252,Sven Schipplock,a,176,SetPiece,2020,Head,15308,FC Cologne,Arminia Bielefeld,3,1,2021-01-31 14:30:00,Ritsu Doan,Cross
+402180,37,SavedShot,0.7630000305175781,0.37900001525878907,0.020080260932445526,Ritsu Doan,a,8791,OpenPlay,2020,LeftFoot,15308,FC Cologne,Arminia Bielefeld,3,1,2021-01-31 14:30:00,Marcel Hartel,Pass
+402181,37,MissedShots,0.8619999694824219,0.655,0.056993283331394196,Reinhold Yabo,a,8958,OpenPlay,2020,LeftFoot,15308,FC Cologne,Arminia Bielefeld,3,1,2021-01-31 14:30:00,Fabian Klos,Pass
+402185,64,BlockedShot,0.749000015258789,0.445,0.020748907700181007,Cebio Soukou,a,8790,OpenPlay,2020,RightFoot,15308,FC Cologne,Arminia Bielefeld,3,1,2021-01-31 14:30:00,Fabian Klos,Pass
+402186,67,BlockedShot,0.8380000305175781,0.46299999237060546,0.075416199862957,Cebio Soukou,a,8790,OpenPlay,2020,RightFoot,15308,FC Cologne,Arminia Bielefeld,3,1,2021-01-31 14:30:00,Ritsu Doan,Pass
+402187,71,Goal,0.925,0.4909999847412109,0.5134112238883972,Sergio Córdova,a,6096,OpenPlay,2020,LeftFoot,15308,FC Cologne,Arminia Bielefeld,3,1,2021-01-31 14:30:00,Fabian Klos,Pass
+402190,88,ShotOnPost,0.8040000152587891,0.6780000305175782,0.0318545438349247,Cebio Soukou,a,8790,OpenPlay,2020,RightFoot,15308,FC Cologne,Arminia Bielefeld,3,1,2021-01-31 14:30:00,Fabian Klos,TakeOn
+402191,89,MissedShots,0.91,0.4179999923706055,0.04519380256533623,Fabian Klos,a,8792,OpenPlay,2020,Head,15308,FC Cologne,Arminia Bielefeld,3,1,2021-01-31 14:30:00,Cebio Soukou,Aerial

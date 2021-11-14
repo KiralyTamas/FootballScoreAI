@@ -1,0 +1,30 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+339644,11,BlockedShot,0.755,0.740999984741211,0.03902855142951012,Marcus Rashford,h,556,DirectFreekick,2019,RightFoot,11829,Manchester United,Newcastle United,4,1,2019-12-26 17:30:00,,Standard
+339645,11,BlockedShot,0.9130000305175782,0.590999984741211,0.03856121748685837,Harry Maguire,h,1687,FromCorner,2019,Head,11829,Manchester United,Newcastle United,4,1,2019-12-26 17:30:00,Fred,Cross
+339649,20,BlockedShot,0.7930000305175782,0.655,0.01939106360077858,Marcus Rashford,h,556,FromCorner,2019,RightFoot,11829,Manchester United,Newcastle United,4,1,2019-12-26 17:30:00,,None
+339650,20,BlockedShot,0.874000015258789,0.3220000076293945,0.043966248631477356,Mason Greenwood,h,7490,FromCorner,2019,LeftFoot,11829,Manchester United,Newcastle United,4,1,2019-12-26 17:30:00,Scott McTominay,Pass
+339651,21,SavedShot,0.730999984741211,0.54,0.018096230924129486,Fred,h,6817,OpenPlay,2019,LeftFoot,11829,Manchester United,Newcastle United,4,1,2019-12-26 17:30:00,Scott McTominay,Pass
+339652,23,Goal,0.8580000305175781,0.6819999694824219,0.04489289969205856,Anthony Martial,h,553,OpenPlay,2019,RightFoot,11829,Manchester United,Newcastle United,4,1,2019-12-26 17:30:00,Andreas Pereira,Pass
+339653,24,MissedShots,0.815,0.5220000076293946,0.0656534731388092,Andreas Pereira,h,922,OpenPlay,2019,LeftFoot,11829,Manchester United,Newcastle United,4,1,2019-12-26 17:30:00,Mason Greenwood,Pass
+339654,27,MissedShots,0.8190000152587891,0.710999984741211,0.05016719922423363,Marcus Rashford,h,556,OpenPlay,2019,RightFoot,11829,Manchester United,Newcastle United,4,1,2019-12-26 17:30:00,Anthony Martial,Pass
+339655,30,MissedShots,0.755,0.37,0.019150424748659134,Andreas Pereira,h,922,OpenPlay,2019,RightFoot,11829,Manchester United,Newcastle United,4,1,2019-12-26 17:30:00,Fred,Pass
+339656,35,Goal,0.7909999847412109,0.385,0.03380359336733818,Mason Greenwood,h,7490,OpenPlay,2019,LeftFoot,11829,Manchester United,Newcastle United,4,1,2019-12-26 17:30:00,,BallRecovery
+339657,37,SavedShot,0.8540000152587891,0.85,0.04250166937708855,Andreas Pereira,h,922,DirectFreekick,2019,RightFoot,11829,Manchester United,Newcastle United,4,1,2019-12-26 17:30:00,,Standard
+339658,38,MissedShots,0.8859999847412109,0.375,0.04158901050686836,Victor Lindelöf,h,6080,FromCorner,2019,LeftFoot,11829,Manchester United,Newcastle United,4,1,2019-12-26 17:30:00,Fred,Cross
+339659,40,Goal,0.9330000305175781,0.55,0.3865126967430115,Marcus Rashford,h,556,OpenPlay,2019,Head,11829,Manchester United,Newcastle United,4,1,2019-12-26 17:30:00,Aaron Wan-Bissaka,Cross
+339661,49,MissedShots,0.7469999694824219,0.59,0.019410669803619385,Paul Pogba,h,1740,OpenPlay,2019,RightFoot,11829,Manchester United,Newcastle United,4,1,2019-12-26 17:30:00,,None
+339662,50,Goal,0.865999984741211,0.46099998474121096,0.45353713631629944,Anthony Martial,h,553,OpenPlay,2019,RightFoot,11829,Manchester United,Newcastle United,4,1,2019-12-26 17:30:00,,None
+339664,56,SavedShot,0.8090000152587891,0.504000015258789,0.0906127467751503,Paul Pogba,h,1740,OpenPlay,2019,LeftFoot,11829,Manchester United,Newcastle United,4,1,2019-12-26 17:30:00,,TakeOn
+339665,60,ShotOnPost,0.745999984741211,0.4540000152587891,0.03633609414100647,Anthony Martial,h,553,OpenPlay,2019,LeftFoot,11829,Manchester United,Newcastle United,4,1,2019-12-26 17:30:00,Paul Pogba,Pass
+339668,78,SavedShot,0.76,0.654000015258789,0.026695899665355682,Harry Maguire,h,1687,OpenPlay,2019,RightFoot,11829,Manchester United,Newcastle United,4,1,2019-12-26 17:30:00,Andreas Pereira,Pass
+339669,78,BlockedShot,0.8040000152587891,0.6990000152587891,0.037982840090990067,Luke Shaw,h,1006,OpenPlay,2019,LeftFoot,11829,Manchester United,Newcastle United,4,1,2019-12-26 17:30:00,Jesse Lingard,Pass
+339670,79,SavedShot,0.9330000305175781,0.5790000152587891,0.39269858598709106,Paul Pogba,h,1740,OpenPlay,2019,RightFoot,11829,Manchester United,Newcastle United,4,1,2019-12-26 17:30:00,Juan Mata,Chipped
+339671,84,SavedShot,0.8680000305175781,0.6909999847412109,0.06913027912378311,Luke Shaw,h,1006,OpenPlay,2019,LeftFoot,11829,Manchester United,Newcastle United,4,1,2019-12-26 17:30:00,Paul Pogba,Pass
+339672,87,MissedShots,0.7619999694824219,0.48,0.026666169986128807,Fred,h,6817,OpenPlay,2019,LeftFoot,11829,Manchester United,Newcastle United,4,1,2019-12-26 17:30:00,Mason Greenwood,Pass
+339646,13,MissedShots,0.8490000152587891,0.7340000152587891,0.022040721029043198,Miguel Almirón,a,7420,OpenPlay,2019,LeftFoot,11829,Manchester United,Newcastle United,4,1,2019-12-26 17:30:00,Joelinton,Chipped
+339647,14,MissedShots,0.8859999847412109,0.6370000076293946,0.33233505487442017,Dwight Gayle,a,743,OpenPlay,2019,LeftFoot,11829,Manchester United,Newcastle United,4,1,2019-12-26 17:30:00,Joelinton,Throughball
+339648,16,Goal,0.8730000305175781,0.500999984741211,0.5488989353179932,Matthew Longstaff,a,8016,OpenPlay,2019,RightFoot,11829,Manchester United,Newcastle United,4,1,2019-12-26 17:30:00,Joelinton,Pass
+339660,46,SavedShot,0.9069999694824219,0.7369999694824219,0.036041565239429474,Joelinton,a,87,OpenPlay,2019,RightFoot,11829,Manchester United,Newcastle United,4,1,2019-12-26 17:30:00,Miguel Almirón,Pass
+339663,56,MissedShots,0.7090000152587891,0.34799999237060547,0.00918099470436573,Fabian Schär,a,76,OpenPlay,2019,RightFoot,11829,Manchester United,Newcastle United,4,1,2019-12-26 17:30:00,Matthew Longstaff,Pass
+339666,69,MissedShots,0.9619999694824218,0.5929999923706055,0.0906151533126831,Federico Fernández,a,708,SetPiece,2019,RightFoot,11829,Manchester United,Newcastle United,4,1,2019-12-26 17:30:00,Sean Longstaff,Chipped
+339667,73,MissedShots,0.754000015258789,0.68,0.011063965037465096,Sean Longstaff,a,7078,OpenPlay,2019,RightFoot,11829,Manchester United,Newcastle United,4,1,2019-12-26 17:30:00,Christian Atsu,GoodSkill

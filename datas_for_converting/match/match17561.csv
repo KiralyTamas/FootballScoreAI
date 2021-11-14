@@ -1,0 +1,24 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+433082,11,BlockedShot,0.7980000305175782,0.65,0.028012702241539955,Paul Seguin,h,2625,OpenPlay,2021,RightFoot,17561,Greuther Fuerth,Bayern Munich,1,3,2021-09-24 18:30:00,,None
+433083,14,BlockedShot,0.710999984741211,0.5570000076293945,0.013398181647062302,Branimir Hrgota,h,216,OpenPlay,2021,LeftFoot,17561,Greuther Fuerth,Bayern Munich,1,3,2021-09-24 18:30:00,Håvard Nielsen,BallTouch
+433085,25,SavedShot,0.8469999694824218,0.7559999847412109,0.01996716298162937,Julian Green,h,4323,SetPiece,2021,RightFoot,17561,Greuther Fuerth,Bayern Munich,1,3,2021-09-24 18:30:00,Branimir Hrgota,Foul
+433089,45,BlockedShot,0.7480000305175781,0.46,0.020600276067852974,Jeremy Dudziak,h,4240,OpenPlay,2021,LeftFoot,17561,Greuther Fuerth,Bayern Munich,1,3,2021-09-24 18:30:00,Branimir Hrgota,Pass
+433090,46,MissedShots,0.9230000305175782,0.42400001525878905,0.023661162704229355,Håvard Nielsen,h,5269,FromCorner,2021,Head,17561,Greuther Fuerth,Bayern Munich,1,3,2021-09-24 18:30:00,Jeremy Dudziak,Aerial
+433091,49,SavedShot,0.7230000305175781,0.47200000762939454,0.05089350789785385,Branimir Hrgota,h,216,DirectFreekick,2021,LeftFoot,17561,Greuther Fuerth,Bayern Munich,1,3,2021-09-24 18:30:00,,Standard
+433095,67,OwnGoal,0.03799999952316284,0.5309999847412109,0,Sebastian Griesbeck,h,8801,SetPiece,2021,RightFoot,17561,Greuther Fuerth,Bayern Munich,1,3,2021-09-24 18:30:00,,Card
+433097,73,SavedShot,0.8580000305175781,0.5870000076293945,0.07916651666164398,Sebastian Griesbeck,h,8801,OpenPlay,2021,LeftFoot,17561,Greuther Fuerth,Bayern Munich,1,3,2021-09-24 18:30:00,Dickson Abiama,Pass
+433098,78,MissedShots,0.675,0.754000015258789,0.0064117806032299995,Julian Green,h,4323,OpenPlay,2021,RightFoot,17561,Greuther Fuerth,Bayern Munich,1,3,2021-09-24 18:30:00,,BallRecovery
+433099,81,SavedShot,0.9530000305175781,0.7330000305175781,0.03134109079837799,Cedric Itten,h,9954,OpenPlay,2021,RightFoot,17561,Greuther Fuerth,Bayern Munich,1,3,2021-09-24 18:30:00,,None
+433101,86,Goal,0.9319999694824219,0.5020000076293946,0.38245609402656555,Cedric Itten,h,9954,OpenPlay,2021,Head,17561,Greuther Fuerth,Bayern Munich,1,3,2021-09-24 18:30:00,Timothy Tillman,Cross
+433079,3,BlockedShot,0.8719999694824219,0.545,0.07288917154073715,Robert Lewandowski,a,227,OpenPlay,2021,LeftFoot,17561,Greuther Fuerth,Bayern Munich,1,3,2021-09-24 18:30:00,Alphonso Davies,Cross
+433080,3,MissedShots,0.764000015258789,0.4759999847412109,0.02159050479531288,Leon Goretzka,a,335,OpenPlay,2021,RightFoot,17561,Greuther Fuerth,Bayern Munich,1,3,2021-09-24 18:30:00,,Rebound
+433081,9,Goal,0.850999984741211,0.5420000076293945,0.10636761039495468,Thomas Müller,a,224,OpenPlay,2021,LeftFoot,17561,Greuther Fuerth,Bayern Munich,1,3,2021-09-24 18:30:00,,None
+433084,19,MissedShots,0.7959999847412109,0.4909999847412109,0.053970545530319214,Thomas Müller,a,224,OpenPlay,2021,LeftFoot,17561,Greuther Fuerth,Bayern Munich,1,3,2021-09-24 18:30:00,Leon Goretzka,Pass
+433086,28,MissedShots,0.755,0.6129999923706054,0.02713155746459961,Leon Goretzka,a,335,OpenPlay,2021,RightFoot,17561,Greuther Fuerth,Bayern Munich,1,3,2021-09-24 18:30:00,,None
+433087,30,Goal,0.7719999694824219,0.549000015258789,0.034736502915620804,Joshua Kimmich,a,223,OpenPlay,2021,RightFoot,17561,Greuther Fuerth,Bayern Munich,1,3,2021-09-24 18:30:00,Leroy Sané,Pass
+433088,39,ShotOnPost,0.955999984741211,0.6079999923706054,0.055597055703401566,Robert Lewandowski,a,227,FromCorner,2021,RightFoot,17561,Greuther Fuerth,Bayern Munich,1,3,2021-09-24 18:30:00,Joshua Kimmich,Cross
+433092,50,BlockedShot,0.7930000305175782,0.69,0.05965946242213249,Leroy Sané,a,337,OpenPlay,2021,LeftFoot,17561,Greuther Fuerth,Bayern Munich,1,3,2021-09-24 18:30:00,Thomas Müller,Chipped
+433093,57,MissedShots,0.750999984741211,0.32599998474121095,0.031063683331012726,Leon Goretzka,a,335,OpenPlay,2021,RightFoot,17561,Greuther Fuerth,Bayern Munich,1,3,2021-09-24 18:30:00,Niklas Süle,Pass
+433094,57,SavedShot,0.8959999847412109,0.45599998474121095,0.12949611246585846,Robert Lewandowski,a,227,OpenPlay,2021,LeftFoot,17561,Greuther Fuerth,Bayern Munich,1,3,2021-09-24 18:30:00,Leroy Sané,Cross
+433096,70,SavedShot,0.5220000076293946,0.055,0.010213621892035007,Niklas Süle,a,75,OpenPlay,2021,RightFoot,17561,Greuther Fuerth,Bayern Munich,1,3,2021-09-24 18:30:00,,BallRecovery
+433100,85,BlockedShot,0.855999984741211,0.6419999694824219,0.07677265256643295,Alphonso Davies,a,7345,OpenPlay,2021,RightFoot,17561,Greuther Fuerth,Bayern Munich,1,3,2021-09-24 18:30:00,Lucas Hernández,Pass

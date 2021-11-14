@@ -1,0 +1,20 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+145678,7,MissedShots,0.909000015258789,0.3579999923706055,0.06004638224840164,Aleandro Rosi,h,1352,FromCorner,2016,LeftFoot,3555,Crotone,Empoli,4,1,2017-01-29 14:00:00,,None
+145679,10,BlockedShot,0.8369999694824218,0.735,0.025164514780044556,Diego Falcinelli,h,1360,OpenPlay,2016,LeftFoot,3555,Crotone,Empoli,4,1,2017-01-29 14:00:00,Adrian Stoian,Pass
+145680,23,Goal,0.825,0.5529999923706055,0.060493163764476776,Adrian Stoian,h,1363,OpenPlay,2016,RightFoot,3555,Crotone,Empoli,4,1,2017-01-29 14:00:00,Raffaele Palladino,Pass
+145681,28,BlockedShot,0.84,0.40599998474121096,0.0874381735920906,Diego Falcinelli,h,1360,OpenPlay,2016,RightFoot,3555,Crotone,Empoli,4,1,2017-01-29 14:00:00,Raffaele Palladino,Pass
+145682,31,MissedShots,0.7390000152587891,0.605999984741211,0.025179779157042503,Diego Falcinelli,h,1360,OpenPlay,2016,LeftFoot,3555,Crotone,Empoli,4,1,2017-01-29 14:00:00,Lorenzo Crisetig,Pass
+145685,46,MissedShots,0.8819999694824219,0.46299999237060546,0.05912347510457039,Diego Falcinelli,h,1360,OpenPlay,2016,Head,3555,Crotone,Empoli,4,1,2017-01-29 14:00:00,Andrea Barberis,Cross
+145686,50,SavedShot,0.759000015258789,0.6509999847412109,0.012116607278585434,Adrian Stoian,h,1363,OpenPlay,2016,RightFoot,3555,Crotone,Empoli,4,1,2017-01-29 14:00:00,Diego Falcinelli,Chipped
+145687,51,SavedShot,0.8909999847412109,0.5070000076293946,0.4035462737083435,Diego Falcinelli,h,1360,OpenPlay,2016,LeftFoot,3555,Crotone,Empoli,4,1,2017-01-29 14:00:00,Raffaele Palladino,Pass
+145689,55,Goal,0.95,0.49900001525878906,0.5422847867012024,Diego Falcinelli,h,1360,SetPiece,2016,Head,3555,Crotone,Empoli,4,1,2017-01-29 14:00:00,Andrea Barberis,Cross
+145690,57,MissedShots,0.75,0.46099998474121096,0.03065572679042816,Andrea Barberis,h,1372,OpenPlay,2016,RightFoot,3555,Crotone,Empoli,4,1,2017-01-29 14:00:00,,None
+145692,74,SavedShot,0.924000015258789,0.4759999847412109,0.1419469118118286,Raffaele Palladino,h,1361,OpenPlay,2016,Head,3555,Crotone,Empoli,4,1,2017-01-29 14:00:00,Bruno Martella,Cross
+145694,80,MissedShots,0.9080000305175782,0.6370000076293946,0.13785794377326965,Marcello Trotta,h,1369,OpenPlay,2016,RightFoot,3555,Crotone,Empoli,4,1,2017-01-29 14:00:00,Adrian Stoian,TakeOn
+145695,90,Goal,0.885,0.5,0.7612988352775574,Diego Falcinelli,h,1360,Penalty,2016,LeftFoot,3555,Crotone,Empoli,4,1,2017-01-29 14:00:00,,Standard
+145696,91,Goal,0.8619999694824219,0.48900001525878906,0.13164091110229492,Diego Falcinelli,h,1360,OpenPlay,2016,LeftFoot,3555,Crotone,Empoli,4,1,2017-01-29 14:00:00,Marcus Rohden,Pass
+145683,36,SavedShot,0.7830000305175782,0.44799999237060545,0.03590795397758484,Manuel Pucciarelli,a,1318,OpenPlay,2016,RightFoot,3555,Crotone,Empoli,4,1,2017-01-29 14:00:00,Guido Marilungo,Pass
+145684,38,Goal,0.8059999847412109,0.5359999847412109,0.051361680030822754,Levan Mchedlidze,a,1319,OpenPlay,2016,LeftFoot,3555,Crotone,Empoli,4,1,2017-01-29 14:00:00,Guido Marilungo,LayOff
+145688,52,BlockedShot,0.7680000305175781,0.8040000152587891,0.011585536412894726,Federico Dimarco,a,1324,OpenPlay,2016,LeftFoot,3555,Crotone,Empoli,4,1,2017-01-29 14:00:00,Guido Marilungo,Dispossessed
+145691,61,SavedShot,0.8969999694824219,0.8040000152587891,0.019453415647149086,Daniele Croce,a,1312,OpenPlay,2016,RightFoot,3555,Crotone,Empoli,4,1,2017-01-29 14:00:00,,BallRecovery
+145693,78,MissedShots,0.9309999847412109,0.40400001525878904,0.09023192524909973,Massimo Maccarone,a,1315,OpenPlay,2016,RightFoot,3555,Crotone,Empoli,4,1,2017-01-29 14:00:00,Manuel Pucciarelli,Cross

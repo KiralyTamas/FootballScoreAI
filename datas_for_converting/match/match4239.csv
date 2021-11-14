@@ -1,0 +1,28 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+111314,10,SavedShot,0.7769999694824219,0.36400001525878906,0.025423279032111168,Nicolas Pepe,h,5656,OpenPlay,2016,LeftFoot,4239,Angers,Paris Saint Germain,0,2,2017-04-14 19:45:00,,BallRecovery
+111316,25,MissedShots,0.8630000305175781,0.4520000076293945,0.02008291520178318,Cheikh Ndoye,h,3492,OpenPlay,2016,Head,4239,Angers,Paris Saint Germain,0,2,2017-04-14 19:45:00,Karl Toko Ekambi,Aerial
+111318,31,MissedShots,0.7730000305175782,0.7140000152587891,0.018847856670618057,Karl Toko Ekambi,h,5657,OpenPlay,2016,RightFoot,4239,Angers,Paris Saint Germain,0,2,2017-04-14 19:45:00,Vincent Manceau,Pass
+111319,32,MissedShots,0.825999984741211,0.500999984741211,0.00900778453797102,Cheikh Ndoye,h,3492,OpenPlay,2016,Head,4239,Angers,Paris Saint Germain,0,2,2017-04-14 19:45:00,Thomas Mangani,Aerial
+111321,35,BlockedShot,0.7869999694824219,0.5570000076293945,0.03264464810490608,Vincent Manceau,h,3486,OpenPlay,2016,RightFoot,4239,Angers,Paris Saint Germain,0,2,2017-04-14 19:45:00,,None
+111322,37,SavedShot,0.764000015258789,0.4279999923706055,0.022564079612493515,Baptiste Santamaria,h,5654,OpenPlay,2016,LeftFoot,4239,Angers,Paris Saint Germain,0,2,2017-04-14 19:45:00,,BallRecovery
+111323,40,MissedShots,0.8780000305175781,0.519000015258789,0.04169447720050812,Cheikh Ndoye,h,3492,OpenPlay,2016,Head,4239,Angers,Paris Saint Germain,0,2,2017-04-14 19:45:00,Baptiste Santamaria,Chipped
+111325,51,MissedShots,0.8169999694824219,0.485,0.06262186914682388,Famara Diedhiou,h,5730,OpenPlay,2016,RightFoot,4239,Angers,Paris Saint Germain,0,2,2017-04-14 19:45:00,Cheikh Ndoye,Pass
+111326,54,MissedShots,0.9330000305175781,0.625999984741211,0.025612590834498405,Famara Diedhiou,h,5730,FromCorner,2016,Head,4239,Angers,Paris Saint Germain,0,2,2017-04-14 19:45:00,Thomas Mangani,Cross
+111327,59,SavedShot,0.765,0.5629999923706055,0.026984017342329025,Thomas Mangani,h,3490,OpenPlay,2016,LeftFoot,4239,Angers,Paris Saint Germain,0,2,2017-04-14 19:45:00,Karl Toko Ekambi,Pass
+111328,66,MissedShots,0.715999984741211,0.6359999847412109,0.014439544640481472,Baptiste Santamaria,h,5654,OpenPlay,2016,RightFoot,4239,Angers,Paris Saint Germain,0,2,2017-04-14 19:45:00,Vincent Manceau,Pass
+111329,69,BlockedShot,0.765,0.415,0.01649985834956169,Nicolas Pepe,h,5656,SetPiece,2016,LeftFoot,4239,Angers,Paris Saint Germain,0,2,2017-04-14 19:45:00,,None
+111330,71,BlockedShot,0.7719999694824219,0.455,0.08677159249782562,Thomas Mangani,h,3490,DirectFreekick,2016,LeftFoot,4239,Angers,Paris Saint Germain,0,2,2017-04-14 19:45:00,,Standard
+111331,71,SavedShot,0.9059999847412109,0.44299999237060544,0.0335853286087513,Cheikh Ndoye,h,3492,SetPiece,2016,Head,4239,Angers,Paris Saint Germain,0,2,2017-04-14 19:45:00,Karl Toko Ekambi,Aerial
+111332,75,MissedShots,0.9230000305175782,0.555,0.08736352622509003,Romain Thomas,h,3488,FromCorner,2016,Head,4239,Angers,Paris Saint Germain,0,2,2017-04-14 19:45:00,Thomas Mangani,Cross
+111333,76,MissedShots,0.77,0.5640000152587891,0.020355481654405594,Baptiste Santamaria,h,5654,FromCorner,2016,RightFoot,4239,Angers,Paris Saint Germain,0,2,2017-04-14 19:45:00,,None
+111337,84,MissedShots,0.86,0.445,0.04239445924758911,Cheikh Ndoye,h,3492,OpenPlay,2016,RightFoot,4239,Angers,Paris Saint Germain,0,2,2017-04-14 19:45:00,Jonathan Bamba,Chipped
+111312,5,BlockedShot,0.7869999694824219,0.285,0.015591404400765896,Serge Aurier,a,3600,OpenPlay,2016,RightFoot,4239,Angers,Paris Saint Germain,0,2,2017-04-14 19:45:00,,None
+111313,8,MissedShots,0.850999984741211,0.4159999847412109,0.040537167340517044,Edinson Cavani,a,3294,FromCorner,2016,RightFoot,4239,Angers,Paris Saint Germain,0,2,2017-04-14 19:45:00,Ángel Di María,Cross
+111315,16,MissedShots,0.7330000305175781,0.555,0.01480187103152275,Ángel Di María,a,3553,OpenPlay,2016,LeftFoot,4239,Angers,Paris Saint Germain,0,2,2017-04-14 19:45:00,,None
+111317,27,Goal,0.7119999694824218,0.45,0.04372352734208107,Ángel Di María,a,3553,DirectFreekick,2016,LeftFoot,4239,Angers,Paris Saint Germain,0,2,2017-04-14 19:45:00,,Standard
+111320,34,MissedShots,0.8619999694824219,0.534000015258789,0.09929078072309494,Blaise Matuidi,a,3296,OpenPlay,2016,RightFoot,4239,Angers,Paris Saint Germain,0,2,2017-04-14 19:45:00,,None
+111324,42,MissedShots,0.885,0.5990000152587891,0.34676119685173035,Edinson Cavani,a,3294,OpenPlay,2016,LeftFoot,4239,Angers,Paris Saint Germain,0,2,2017-04-14 19:45:00,Javier Pastore,Throughball
+111334,80,MissedShots,0.9030000305175782,0.28600000381469726,0.006761674769222736,Marquinhos,a,3297,SetPiece,2016,Head,4239,Angers,Paris Saint Germain,0,2,2017-04-14 19:45:00,Ángel Di María,Aerial
+111335,82,MissedShots,0.535,0.48400001525878905,0.008443543687462807,Marquinhos,a,3297,OpenPlay,2016,RightFoot,4239,Angers,Paris Saint Germain,0,2,2017-04-14 19:45:00,Thiago Motta,BallRecovery
+111336,83,Goal,0.8959999847412109,0.655,0.13257046043872833,Ángel Di María,a,3553,OpenPlay,2016,LeftFoot,4239,Angers,Paris Saint Germain,0,2,2017-04-14 19:45:00,Lucas Moura,Throughball
+111338,90,MissedShots,0.8490000152587891,0.5670000076293945,0.11411270499229431,Adrien Rabiot,a,3291,OpenPlay,2016,LeftFoot,4239,Angers,Paris Saint Germain,0,2,2017-04-14 19:45:00,Gonçalo Guedes,Pass

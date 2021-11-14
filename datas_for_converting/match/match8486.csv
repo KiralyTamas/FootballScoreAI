@@ -1,0 +1,25 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+199914,0,BlockedShot,0.7530000305175781,0.40400001525878904,0.02088502235710621,Andrej Kramaric,h,956,OpenPlay,2017,RightFoot,8486,Hoffenheim,Wolfsburg,3,0,2018-03-10 14:30:00,,BallRecovery
+199915,4,SavedShot,0.950999984741211,0.34599998474121096,0.01649092696607113,Pavel Kaderábek,h,74,OpenPlay,2017,Head,8486,Hoffenheim,Wolfsburg,3,0,2018-03-10 14:30:00,Andrej Kramaric,Cross
+199917,15,SavedShot,0.81,0.27700000762939453,0.022473756223917007,Andrej Kramaric,h,956,OpenPlay,2017,RightFoot,8486,Hoffenheim,Wolfsburg,3,0,2018-03-10 14:30:00,Pavel Kaderábek,Pass
+199918,17,Goal,0.9319999694824219,0.5920000076293945,0.44528883695602417,Nico Schulz,h,433,OpenPlay,2017,LeftFoot,8486,Hoffenheim,Wolfsburg,3,0,2018-03-10 14:30:00,,None
+199919,22,BlockedShot,0.8819999694824219,0.5259999847412109,0.06279715895652771,Florian Grillitsch,h,116,SetPiece,2017,Head,8486,Hoffenheim,Wolfsburg,3,0,2018-03-10 14:30:00,Andrej Kramaric,Cross
+199920,25,BlockedShot,0.85,0.38599998474121094,0.08380556106567383,Andrej Kramaric,h,956,OpenPlay,2017,LeftFoot,8486,Hoffenheim,Wolfsburg,3,0,2018-03-10 14:30:00,Dennis Geiger,Pass
+199921,28,MissedShots,0.9009999847412109,0.56,0.017239641398191452,Kevin Akpoguma,h,6327,FromCorner,2017,Head,8486,Hoffenheim,Wolfsburg,3,0,2018-03-10 14:30:00,Andrej Kramaric,Aerial
+199922,31,ShotOnPost,0.9619999694824218,0.3890000152587891,0.10202987492084503,Serge Gnabry,h,993,OpenPlay,2017,RightFoot,8486,Hoffenheim,Wolfsburg,3,0,2018-03-10 14:30:00,Andrej Kramaric,Chipped
+199923,31,BlockedShot,0.91,0.62,0.10500334948301315,Andrej Kramaric,h,956,OpenPlay,2017,RightFoot,8486,Hoffenheim,Wolfsburg,3,0,2018-03-10 14:30:00,,Rebound
+199924,33,BlockedShot,0.9209999847412109,0.46700000762939453,0.05698501691222191,Serge Gnabry,h,993,FromCorner,2017,Head,8486,Hoffenheim,Wolfsburg,3,0,2018-03-10 14:30:00,Kevin Akpoguma,HeadPass
+199925,39,SavedShot,0.86,0.634000015258789,0.08215095102787018,Andrej Kramaric,h,956,OpenPlay,2017,RightFoot,8486,Hoffenheim,Wolfsburg,3,0,2018-03-10 14:30:00,Dennis Geiger,Pass
+199928,69,BlockedShot,0.88,0.7169999694824218,0.07054184377193451,Serge Gnabry,h,993,OpenPlay,2017,LeftFoot,8486,Hoffenheim,Wolfsburg,3,0,2018-03-10 14:30:00,Florian Grillitsch,Pass
+199930,72,MissedShots,0.8159999847412109,0.5359999847412109,0.07279840111732483,Nico Schulz,h,433,OpenPlay,2017,RightFoot,8486,Hoffenheim,Wolfsburg,3,0,2018-03-10 14:30:00,Florian Grillitsch,Pass
+199931,75,MissedShots,0.7769999694824219,0.7530000305175781,0.02126369997859001,Mark Uth,h,88,OpenPlay,2017,LeftFoot,8486,Hoffenheim,Wolfsburg,3,0,2018-03-10 14:30:00,Nico Schulz,Pass
+199932,76,Goal,0.8290000152587891,0.5220000076293946,0.08796072751283646,Serge Gnabry,h,993,OpenPlay,2017,LeftFoot,8486,Hoffenheim,Wolfsburg,3,0,2018-03-10 14:30:00,Mark Uth,Pass
+199935,86,BlockedShot,0.8380000305175781,0.4759999847412109,0.10870885848999023,Eugen Polanski,h,86,OpenPlay,2017,RightFoot,8486,Hoffenheim,Wolfsburg,3,0,2018-03-10 14:30:00,Lukas Rupp,Pass
+199936,86,BlockedShot,0.8969999694824219,0.6759999847412109,0.04895355552434921,Mark Uth,h,88,FromCorner,2017,LeftFoot,8486,Hoffenheim,Wolfsburg,3,0,2018-03-10 14:30:00,Eugen Polanski,Pass
+199916,6,BlockedShot,0.779000015258789,0.25799999237060545,0.020015621557831764,Admir Mehmedi,a,194,OpenPlay,2017,LeftFoot,8486,Hoffenheim,Wolfsburg,3,0,2018-03-10 14:30:00,Yunus Malli,Pass
+199926,45,MissedShots,0.8640000152587891,0.21799999237060547,0.024227024987339973,Josip Brekalo,a,5353,OpenPlay,2017,RightFoot,8486,Hoffenheim,Wolfsburg,3,0,2018-03-10 14:30:00,Admir Mehmedi,Pass
+199927,55,BlockedShot,0.8640000152587891,0.4129999923706055,0.06345892697572708,Daniel Didavi,a,300,OpenPlay,2017,LeftFoot,8486,Hoffenheim,Wolfsburg,3,0,2018-03-10 14:30:00,Admir Mehmedi,CornerAwarded
+199929,70,MissedShots,0.919000015258789,0.66,0.05719078704714775,Daniel Didavi,a,300,OpenPlay,2017,LeftFoot,8486,Hoffenheim,Wolfsburg,3,0,2018-03-10 14:30:00,,None
+199933,79,OwnGoal,0.075,0.4620000076293945,0,Josuha Guilavogui,a,150,OpenPlay,2017,RightFoot,8486,Hoffenheim,Wolfsburg,3,0,2018-03-10 14:30:00,,Clearance
+199934,81,MissedShots,0.6909999847412109,0.3940000152587891,0.009146890603005886,Yunus Malli,a,45,OpenPlay,2017,RightFoot,8486,Hoffenheim,Wolfsburg,3,0,2018-03-10 14:30:00,Landry Dimata,Pass
+199937,88,SavedShot,0.8980000305175782,0.31,0.05211702734231949,Renato Steffen,a,6484,OpenPlay,2017,LeftFoot,8486,Hoffenheim,Wolfsburg,3,0,2018-03-10 14:30:00,Landry Dimata,Pass

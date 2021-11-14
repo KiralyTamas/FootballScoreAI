@@ -1,0 +1,27 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+155046,3,MissedShots,0.9409999847412109,0.4420000076293945,0.078717440366745,Maksim Belyaev,h,4631,FromCorner,2017,OtherBodyPart,6497,Arsenal Tula,Tosno,1,2,2017-08-06 13:00:00,Sergey Tkachev,Cross
+155047,6,MissedShots,0.9330000305175781,0.3579999923706055,0.013669727370142937,Kantemir Berkhamov,h,5374,FromCorner,2017,Head,6497,Arsenal Tula,Tosno,1,2,2017-08-06 13:00:00,Sergey Tkachev,Cross
+155048,13,BlockedShot,0.765,0.6419999694824219,0.021670309826731682,Luka Djordjevic,h,3813,OpenPlay,2017,RightFoot,6497,Arsenal Tula,Tosno,1,2,2017-08-06 13:00:00,Sergey Tkachev,Pass
+155051,28,MissedShots,0.7030000305175781,0.5970000076293945,0.011723202653229237,Igor Shevchenko,h,4552,OpenPlay,2017,RightFoot,6497,Arsenal Tula,Tosno,1,2,2017-08-06 13:00:00,Goran Causic,Pass
+155053,31,BlockedShot,0.6519999694824219,0.6020000076293945,0.008858063258230686,Maksim Belyaev,h,4631,OpenPlay,2017,RightFoot,6497,Arsenal Tula,Tosno,1,2,2017-08-06 13:00:00,Goran Causic,Pass
+155054,33,MissedShots,0.759000015258789,0.6959999847412109,0.04469398781657219,Sergey Tkachev,h,2880,DirectFreekick,2017,LeftFoot,6497,Arsenal Tula,Tosno,1,2,2017-08-06 13:00:00,,Standard
+155055,37,MissedShots,0.8690000152587891,0.6480000305175782,0.06311842054128647,Goran Causic,h,5092,OpenPlay,2017,RightFoot,6497,Arsenal Tula,Tosno,1,2,2017-08-06 13:00:00,Stoppila Sunzu,Pass
+155056,39,Goal,0.775,0.4540000152587891,0.02965647168457508,Kantemir Berkhamov,h,5374,OpenPlay,2017,LeftFoot,6497,Arsenal Tula,Tosno,1,2,2017-08-06 13:00:00,,None
+155061,51,MissedShots,0.7380000305175781,0.29200000762939454,0.036266472190618515,Kantemir Berkhamov,h,5374,DirectFreekick,2017,LeftFoot,6497,Arsenal Tula,Tosno,1,2,2017-08-06 13:00:00,,Standard
+155065,68,SavedShot,0.885,0.5,0.7542753219604492,Luka Djordjevic,h,3813,Penalty,2017,RightFoot,6497,Arsenal Tula,Tosno,1,2,2017-08-06 13:00:00,,Standard
+155066,81,BlockedShot,0.695,0.5059999847412109,0.013156527653336525,Kantemir Berkhamov,h,5374,OpenPlay,2017,LeftFoot,6497,Arsenal Tula,Tosno,1,2,2017-08-06 13:00:00,Alexandru Bourceanu,Pass
+155067,82,SavedShot,0.92,0.6419999694824219,0.0990205705165863,Aslanbek Sikoev,h,5938,OpenPlay,2017,LeftFoot,6497,Arsenal Tula,Tosno,1,2,2017-08-06 13:00:00,Ilya Maksimov,Throughball
+155068,86,MissedShots,0.8930000305175781,0.5790000152587891,0.04069900140166283,Aslanbek Sikoev,h,5938,OpenPlay,2017,Head,6497,Arsenal Tula,Tosno,1,2,2017-08-06 13:00:00,Alexandru Bourceanu,Cross
+155070,91,BlockedShot,0.7480000305175781,0.5990000152587891,0.05337388440966606,Kantemir Berkhamov,h,5374,DirectFreekick,2017,LeftFoot,6497,Arsenal Tula,Tosno,1,2,2017-08-06 13:00:00,,Standard
+155045,1,MissedShots,0.675,0.7469999694824219,0.010479768738150597,Nuno Rocha,a,5901,FromCorner,2017,RightFoot,6497,Arsenal Tula,Tosno,1,2,2017-08-06 13:00:00,,None
+155049,19,MissedShots,0.9369999694824219,0.25799999237060545,0.04412325471639633,Nuno Rocha,a,5901,OpenPlay,2017,RightFoot,6497,Arsenal Tula,Tosno,1,2,2017-08-06 13:00:00,Anton Zabolotny,LayOff
+155050,21,SavedShot,0.7980000305175782,0.695,0.025289788842201233,George Melkadze,a,2822,OpenPlay,2017,RightFoot,6497,Arsenal Tula,Tosno,1,2,2017-08-06 13:00:00,Yan Kazaev,Pass
+155052,30,SavedShot,0.9419999694824219,0.34799999237060547,0.0701608881354332,Nuno Rocha,a,5901,SetPiece,2017,RightFoot,6497,Arsenal Tula,Tosno,1,2,2017-08-06 13:00:00,Anton Zabolotny,HeadPass
+155057,44,BlockedShot,0.8580000305175781,0.4540000152587891,0.06705228984355927,Andrey Bujvolov,a,5903,SetPiece,2017,LeftFoot,6497,Arsenal Tula,Tosno,1,2,2017-08-06 13:00:00,Aleksandr Karnitski,HeadPass
+155058,44,BlockedShot,0.6980000305175781,0.485,0.011562630534172058,George Melkadze,a,2822,SetPiece,2017,RightFoot,6497,Arsenal Tula,Tosno,1,2,2017-08-06 13:00:00,,BallTouch
+155059,44,MissedShots,0.7519999694824219,0.475,0.02578497678041458,George Melkadze,a,2822,OpenPlay,2017,RightFoot,6497,Arsenal Tula,Tosno,1,2,2017-08-06 13:00:00,,Rebound
+155060,47,Goal,0.8830000305175781,0.43,0.32256564497947693,Vagiz Galiulin,a,3117,OpenPlay,2017,RightFoot,6497,Arsenal Tula,Tosno,1,2,2017-08-06 13:00:00,Nuno Rocha,Pass
+155062,54,Goal,0.9690000152587891,0.48200000762939454,0.6053181290626526,Evgeni Markov,a,5900,SetPiece,2017,Head,6497,Arsenal Tula,Tosno,1,2,2017-08-06 13:00:00,Rade Dugalic,HeadPass
+155063,58,SavedShot,0.889000015258789,0.5220000076293946,0.04976409301161766,Nuno Rocha,a,5901,OpenPlay,2017,Head,6497,Arsenal Tula,Tosno,1,2,2017-08-06 13:00:00,Anton Zabolotny,HeadPass
+155064,65,SavedShot,0.815,0.4490000152587891,0.1493512988090515,Vagiz Galiulin,a,3117,DirectFreekick,2017,RightFoot,6497,Arsenal Tula,Tosno,1,2,2017-08-06 13:00:00,,Standard
+155069,88,SavedShot,0.72,0.5659999847412109,0.04208875447511673,Rustem Mukhametshin,a,4550,DirectFreekick,2017,RightFoot,6497,Arsenal Tula,Tosno,1,2,2017-08-06 13:00:00,,Standard

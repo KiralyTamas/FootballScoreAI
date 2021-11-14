@@ -1,0 +1,29 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+384947,9,BlockedShot,0.885,0.6990000152587891,0.05479941889643669,Jack Grealish,h,675,OpenPlay,2020,RightFoot,14495,Aston Villa,Southampton,3,4,2020-11-01 12:00:00,Matt Targett,Pass
+384948,12,BlockedShot,0.7609999847412109,0.6329999923706054,0.05977426469326019,Ross Barkley,h,592,DirectFreekick,2020,RightFoot,14495,Aston Villa,Southampton,3,4,2020-11-01 12:00:00,,Standard
+384949,12,BlockedShot,0.92,0.710999984741211,0.04529819265007973,Jack Grealish,h,675,FromCorner,2020,RightFoot,14495,Aston Villa,Southampton,3,4,2020-11-01 12:00:00,Ross Barkley,Pass
+384952,23,BlockedShot,0.8169999694824219,0.49900001525878906,0.05181235074996948,Bertrand Traoré,h,695,SetPiece,2020,LeftFoot,14495,Aston Villa,Southampton,3,4,2020-11-01 12:00:00,Ross Barkley,Pass
+384955,51,SavedShot,0.9069999694824219,0.355,0.12504249811172485,Trézéguet,h,7722,SetPiece,2020,Head,14495,Aston Villa,Southampton,3,4,2020-11-01 12:00:00,Jack Grealish,Cross
+384956,51,SavedShot,0.919000015258789,0.5779999923706055,0.475380003452301,Jack Grealish,h,675,OpenPlay,2020,Head,14495,Aston Villa,Southampton,3,4,2020-11-01 12:00:00,Douglas Luiz,Aerial
+384960,61,Goal,0.9440000152587891,0.5420000076293945,0.3513093888759613,Tyrone Mings,h,1024,FromCorner,2020,Head,14495,Aston Villa,Southampton,3,4,2020-11-01 12:00:00,Jack Grealish,Aerial
+384961,68,BlockedShot,0.9069999694824219,0.3629999923706055,0.04433438181877136,Trézéguet,h,7722,OpenPlay,2020,RightFoot,14495,Aston Villa,Southampton,3,4,2020-11-01 12:00:00,Matt Targett,Cross
+384962,70,SavedShot,0.8930000305175781,0.36700000762939455,0.04052074998617172,Trézéguet,h,7722,OpenPlay,2020,RightFoot,14495,Aston Villa,Southampton,3,4,2020-11-01 12:00:00,Matt Targett,Chipped
+384963,73,MissedShots,0.795,0.620999984741211,0.021665051579475403,Ross Barkley,h,592,OpenPlay,2020,RightFoot,14495,Aston Villa,Southampton,3,4,2020-11-01 12:00:00,,None
+384964,75,SavedShot,0.92,0.34900001525878904,0.05786241590976715,Trézéguet,h,7722,FromCorner,2020,RightFoot,14495,Aston Villa,Southampton,3,4,2020-11-01 12:00:00,,None
+384965,80,SavedShot,0.8859999847412109,0.46099998474121096,0.014979633502662182,Tyrone Mings,h,1024,FromCorner,2020,Head,14495,Aston Villa,Southampton,3,4,2020-11-01 12:00:00,Ross Barkley,Aerial
+384966,80,MissedShots,0.915,0.5209999847412109,0.08872701227664948,Tyrone Mings,h,1024,FromCorner,2020,Head,14495,Aston Villa,Southampton,3,4,2020-11-01 12:00:00,Ross Barkley,Cross
+384967,87,BlockedShot,0.9209999847412109,0.740999984741211,0.03341583162546158,Jack Grealish,h,675,OpenPlay,2020,RightFoot,14495,Aston Villa,Southampton,3,4,2020-11-01 12:00:00,Matt Targett,Pass
+384968,88,SavedShot,0.7480000305175781,0.6359999847412109,0.013587192632257938,Douglas Luiz,h,6122,OpenPlay,2020,RightFoot,14495,Aston Villa,Southampton,3,4,2020-11-01 12:00:00,Ollie Watkins,Pass
+384969,90,SavedShot,0.9740000152587891,0.6120000076293945,0.09589685499668121,Ollie Watkins,h,8865,OpenPlay,2020,RightFoot,14495,Aston Villa,Southampton,3,4,2020-11-01 12:00:00,John McGinn,TakeOn
+384970,92,Goal,0.885,0.5,0.7611688375473022,Ollie Watkins,h,8865,Penalty,2020,RightFoot,14495,Aston Villa,Southampton,3,4,2020-11-01 12:00:00,,Standard
+384971,94,BlockedShot,0.8919999694824219,0.6170000076293946,0.09986957907676697,Jack Grealish,h,675,OpenPlay,2020,RightFoot,14495,Aston Villa,Southampton,3,4,2020-11-01 12:00:00,Ollie Watkins,Chipped
+384972,96,Goal,0.8090000152587891,0.7440000152587891,0.013103124685585499,Jack Grealish,h,675,OpenPlay,2020,RightFoot,14495,Aston Villa,Southampton,3,4,2020-11-01 12:00:00,Douglas Luiz,Chipped
+384945,2,MissedShots,0.93,0.555,0.09648934006690979,Danny Ings,a,986,FromCorner,2020,Head,14495,Aston Villa,Southampton,3,4,2020-11-01 12:00:00,James Ward-Prowse,Cross
+384946,6,ShotOnPost,0.8230000305175781,0.6370000076293946,0.04241856932640076,Theo Walcott,a,503,OpenPlay,2020,RightFoot,14495,Aston Villa,Southampton,3,4,2020-11-01 12:00:00,Danny Ings,Pass
+384950,17,BlockedShot,0.8769999694824219,0.7569999694824219,0.01055400911718607,Theo Walcott,a,503,OpenPlay,2020,RightFoot,14495,Aston Villa,Southampton,3,4,2020-11-01 12:00:00,Che Adams,Chipped
+384951,19,Goal,0.9290000152587891,0.54,0.4140154719352722,Jannik Vestergaard,a,111,SetPiece,2020,Head,14495,Aston Villa,Southampton,3,4,2020-11-01 12:00:00,James Ward-Prowse,Cross
+384953,32,Goal,0.769000015258789,0.5459999847412109,0.07998581230640411,James Ward-Prowse,a,843,DirectFreekick,2020,RightFoot,14495,Aston Villa,Southampton,3,4,2020-11-01 12:00:00,,Standard
+384954,44,Goal,0.8069999694824219,0.504000015258789,0.1443769931793213,James Ward-Prowse,a,843,DirectFreekick,2020,RightFoot,14495,Aston Villa,Southampton,3,4,2020-11-01 12:00:00,,Standard
+384957,55,MissedShots,0.8380000305175781,0.545,0.10284087806940079,Stuart Armstrong,a,6893,OpenPlay,2020,RightFoot,14495,Aston Villa,Southampton,3,4,2020-11-01 12:00:00,Che Adams,Pass
+384958,57,Goal,0.81,0.6840000152587891,0.04434352368116379,Danny Ings,a,986,OpenPlay,2020,RightFoot,14495,Aston Villa,Southampton,3,4,2020-11-01 12:00:00,Stuart Armstrong,Pass
+384959,58,MissedShots,0.8040000152587891,0.5179999923706055,0.06830539554357529,James Ward-Prowse,a,843,OpenPlay,2020,LeftFoot,14495,Aston Villa,Southampton,3,4,2020-11-01 12:00:00,Ryan Bertrand,Pass

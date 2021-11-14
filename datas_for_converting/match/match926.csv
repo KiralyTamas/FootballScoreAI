@@ -1,0 +1,25 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+102631,5,MissedShots,0.925,0.4909999847412109,0.14665654301643372,Blerim Dzemaili,h,1444,OpenPlay,2015,RightFoot,926,Genoa,Atalanta,1,2,2016-05-15 20:00:00,Luca Rigoni,Pass
+102636,24,MissedShots,0.91,0.5479999923706055,0.06722165644168854,Luca Rigoni,h,1101,FromCorner,2015,Head,926,Genoa,Atalanta,1,2,2016-05-15 20:00:00,Suso,Cross
+102638,36,MissedShots,0.9480000305175781,0.529000015258789,0.5276908874511719,Diego Laxalt,h,1100,OpenPlay,2015,LeftFoot,926,Genoa,Atalanta,1,2,2016-05-15 20:00:00,Suso,Cross
+102639,49,MissedShots,0.765,0.35700000762939454,0.02384328469634056,Suso,h,1129,OpenPlay,2015,LeftFoot,926,Genoa,Atalanta,1,2,2016-05-15 20:00:00,Nicolas Burdisso,Pass
+102640,50,MissedShots,0.9330000305175781,0.4909999847412109,0.07814931124448776,Leonardo Pavoletti,h,1104,OpenPlay,2015,Head,926,Genoa,Atalanta,1,2,2016-05-15 20:00:00,Cristian Ansaldi,Aerial
+102643,57,Goal,0.9369999694824219,0.4759999847412109,0.5048012733459473,Leonardo Pavoletti,h,1104,FromCorner,2015,RightFoot,926,Genoa,Atalanta,1,2,2016-05-15 20:00:00,Panagiotis Tachtsidis,HeadPass
+102645,65,BlockedShot,0.815,0.4279999923706055,0.035190582275390625,Tomás Rincón,h,1099,OpenPlay,2015,LeftFoot,926,Genoa,Atalanta,1,2,2016-05-15 20:00:00,Cristian Ansaldi,TakeOn
+102646,68,MissedShots,0.95,0.4879999923706055,0.5501840114593506,Ezequiel Muñoz,h,1095,SetPiece,2015,Head,926,Genoa,Atalanta,1,2,2016-05-15 20:00:00,Suso,Cross
+102651,83,MissedShots,0.8030000305175782,0.625,0.03568127006292343,Panagiotis Tachtsidis,h,1401,OpenPlay,2015,LeftFoot,926,Genoa,Atalanta,1,2,2016-05-15 20:00:00,Tomás Rincón,Pass
+102653,89,MissedShots,0.9490000152587891,0.3820000076293945,0.07714594155550003,Armando Izzo,h,1096,OpenPlay,2015,RightFoot,926,Genoa,Atalanta,1,2,2016-05-15 20:00:00,Panagiotis Tachtsidis,Chipped
+102654,94,SavedShot,0.9640000152587891,0.5209999847412109,0.5102071762084961,Goran Pandev,h,1115,OpenPlay,2015,Head,926,Genoa,Atalanta,1,2,2016-05-15 20:00:00,,None
+102632,10,BlockedShot,0.8159999847412109,0.36700000762939455,0.02688312530517578,Marco Borriello,a,1405,FromCorner,2015,LeftFoot,926,Genoa,Atalanta,1,2,2016-05-15 20:00:00,,None
+102633,15,BlockedShot,0.8190000152587891,0.5220000076293946,0.053807396441698074,Roberto Gagliardini,a,1496,OpenPlay,2015,LeftFoot,926,Genoa,Atalanta,1,2,2016-05-15 20:00:00,Marco Borriello,Pass
+102634,17,MissedShots,0.735999984741211,0.4909999847412109,0.01891707256436348,Alejandro Gomez,a,1491,OpenPlay,2015,RightFoot,926,Genoa,Atalanta,1,2,2016-05-15 20:00:00,Roberto Gagliardini,BallRecovery
+102635,22,SavedShot,0.774000015258789,0.6309999847412109,0.04758605733513832,Davide Brivio,a,1243,OpenPlay,2015,LeftFoot,926,Genoa,Atalanta,1,2,2016-05-15 20:00:00,Remo Freuler,TakeOn
+102637,34,MissedShots,0.72,0.5470000076293945,0.015791961923241615,Alejandro Gomez,a,1491,OpenPlay,2015,RightFoot,926,Genoa,Atalanta,1,2,2016-05-15 20:00:00,Remo Freuler,Pass
+102641,51,Goal,0.874000015258789,0.6229999923706054,0.3133224844932556,Marco D&#039;Alessandro,a,1502,OpenPlay,2015,LeftFoot,926,Genoa,Atalanta,1,2,2016-05-15 20:00:00,Alejandro Gomez,TakeOn
+102642,56,MissedShots,0.75,0.3990000152587891,0.032794464379549026,Roberto Gagliardini,a,1496,OpenPlay,2015,RightFoot,926,Genoa,Atalanta,1,2,2016-05-15 20:00:00,Alejandro Gomez,LayOff
+102644,60,ShotOnPost,0.750999984741211,0.4129999923706055,0.06049596145749092,Marco Borriello,a,1405,DirectFreekick,2015,LeftFoot,926,Genoa,Atalanta,1,2,2016-05-15 20:00:00,,Standard
+102647,69,BlockedShot,0.8159999847412109,0.62,0.040431998670101166,Marco D&#039;Alessandro,a,1502,OpenPlay,2015,RightFoot,926,Genoa,Atalanta,1,2,2016-05-15 20:00:00,,None
+102648,75,BlockedShot,0.9,0.544000015258789,0.08493814617395401,Berat Gjimshiti,a,1927,SetPiece,2015,Head,926,Genoa,Atalanta,1,2,2016-05-15 20:00:00,Davide Brivio,Cross
+102649,79,MissedShots,0.8440000152587891,0.5870000076293945,0.07454942166805267,Marco Borriello,a,1405,OpenPlay,2015,LeftFoot,926,Genoa,Atalanta,1,2,2016-05-15 20:00:00,Alejandro Gomez,Pass
+102650,81,Goal,0.9459999847412109,0.4829999923706055,0.552070140838623,Jasmin Kurtic,a,1492,OpenPlay,2015,RightFoot,926,Genoa,Atalanta,1,2,2016-05-15 20:00:00,Alejandro Gomez,Cross
+102652,85,MissedShots,0.77,0.5690000152587891,0.031981244683265686,Luca Cigarini,a,1238,OpenPlay,2015,RightFoot,926,Genoa,Atalanta,1,2,2016-05-15 20:00:00,Jasmin Kurtic,Pass

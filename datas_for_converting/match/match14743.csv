@@ -1,0 +1,30 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+414882,3,SavedShot,0.91,0.685,0.04325607046484947,Matt Phillips,h,1737,SetPiece,2020,LeftFoot,14743,West Bromwich Albion,Southampton,3,0,2021-04-12 17:00:00,Matheus Pereira,TakeOn
+414883,3,BlockedShot,0.8619999694824219,0.39,0.05872461944818497,Darnell Furlong,h,4391,SetPiece,2020,RightFoot,14743,West Bromwich Albion,Southampton,3,0,2021-04-12 17:00:00,,None
+414884,7,MissedShots,0.9590000152587891,0.5570000076293945,0.13292895257472992,Callum Robinson,h,4476,OpenPlay,2020,LeftFoot,14743,West Bromwich Albion,Southampton,3,0,2021-04-12 17:00:00,Conor Townsend,Cross
+414887,11,SavedShot,0.9690000152587891,0.6719999694824219,0.30142447352409363,Conor Townsend,h,8905,OpenPlay,2020,RightFoot,14743,West Bromwich Albion,Southampton,3,0,2021-04-12 17:00:00,Callum Robinson,BallTouch
+414888,15,MissedShots,0.9319999694824219,0.40200000762939453,0.04900384321808815,Darnell Furlong,h,4391,FromCorner,2020,Head,14743,West Bromwich Albion,Southampton,3,0,2021-04-12 17:00:00,Matt Phillips,Cross
+414889,20,SavedShot,0.9169999694824219,0.4759999847412109,0.06240841746330261,Matheus Pereira,h,7153,OpenPlay,2020,Head,14743,West Bromwich Albion,Southampton,3,0,2021-04-12 17:00:00,Kyle Bartley,HeadPass
+414892,27,MissedShots,0.8780000305175781,0.5570000076293945,0.3831515908241272,Mbaye Diagne,h,9290,OpenPlay,2020,RightFoot,14743,West Bromwich Albion,Southampton,3,0,2021-04-12 17:00:00,Matheus Pereira,Pass
+414894,29,BlockedShot,0.865999984741211,0.5840000152587891,0.09333144873380661,Matheus Pereira,h,7153,OpenPlay,2020,LeftFoot,14743,West Bromwich Albion,Southampton,3,0,2021-04-12 17:00:00,Callum Robinson,Pass
+414895,29,MissedShots,0.875,0.42400001525878905,0.10504858940839767,Darnell Furlong,h,4391,OpenPlay,2020,RightFoot,14743,West Bromwich Albion,Southampton,3,0,2021-04-12 17:00:00,Matt Phillips,Pass
+414896,31,Goal,0.885,0.5,0.7611688375473022,Matheus Pereira,h,7153,Penalty,2020,LeftFoot,14743,West Bromwich Albion,Southampton,3,0,2021-04-12 17:00:00,,Standard
+414897,34,Goal,0.9730000305175781,0.4129999923706055,0.43348774313926697,Matt Phillips,h,1737,OpenPlay,2020,RightFoot,14743,West Bromwich Albion,Southampton,3,0,2021-04-12 17:00:00,Mbaye Diagne,Pass
+414898,38,BlockedShot,0.85,0.504000015258789,0.04755931347608566,Okay Yokuslu,h,6932,FromCorner,2020,RightFoot,14743,West Bromwich Albion,Southampton,3,0,2021-04-12 17:00:00,Kyle Bartley,Pass
+414899,39,MissedShots,0.765,0.6990000152587891,0.017543386667966843,Okay Yokuslu,h,6932,OpenPlay,2020,RightFoot,14743,West Bromwich Albion,Southampton,3,0,2021-04-12 17:00:00,Conor Townsend,Pass
+414904,65,MissedShots,0.725,0.5420000076293945,0.04815775901079178,Okay Yokuslu,h,6932,DirectFreekick,2020,RightFoot,14743,West Bromwich Albion,Southampton,3,0,2021-04-12 17:00:00,,Standard
+414905,68,Goal,0.9109999847412109,0.644000015258789,0.23369081318378448,Callum Robinson,h,4476,OpenPlay,2020,LeftFoot,14743,West Bromwich Albion,Southampton,3,0,2021-04-12 17:00:00,Okay Yokuslu,Pass
+414885,9,SavedShot,0.955999984741211,0.3039999961853027,0.04433508589863777,Kyle Walker-Peters,a,885,OpenPlay,2020,RightFoot,14743,West Bromwich Albion,Southampton,3,0,2021-04-12 17:00:00,Jannik Vestergaard,GoodSkill
+414886,9,MissedShots,0.7709999847412109,0.40200000762939453,0.018729709088802338,Theo Walcott,a,503,FromCorner,2020,RightFoot,14743,West Bromwich Albion,Southampton,3,0,2021-04-12 17:00:00,,None
+414890,23,MissedShots,0.8959999847412109,0.585,0.16707487404346466,Danny Ings,a,986,OpenPlay,2020,RightFoot,14743,West Bromwich Albion,Southampton,3,0,2021-04-12 17:00:00,Ryan Bertrand,TakeOn
+414891,25,MissedShots,0.9130000305175782,0.43,0.09631600230932236,Stuart Armstrong,a,6893,OpenPlay,2020,LeftFoot,14743,West Bromwich Albion,Southampton,3,0,2021-04-12 17:00:00,,None
+414893,28,SavedShot,0.775,0.534000015258789,0.03163868188858032,Stuart Armstrong,a,6893,OpenPlay,2020,RightFoot,14743,West Bromwich Albion,Southampton,3,0,2021-04-12 17:00:00,Theo Walcott,Pass
+414900,58,MissedShots,0.8919999694824219,0.5070000076293946,0.02973848767578602,Danny Ings,a,986,SetPiece,2020,Head,14743,West Bromwich Albion,Southampton,3,0,2021-04-12 17:00:00,Ryan Bertrand,Aerial
+414901,58,MissedShots,0.915,0.5970000076293945,0.07065042853355408,Nathan Redmond,a,790,OpenPlay,2020,RightFoot,14743,West Bromwich Albion,Southampton,3,0,2021-04-12 17:00:00,,None
+414902,60,SavedShot,0.789000015258789,0.6480000305175782,0.026180047541856766,Stuart Armstrong,a,6893,OpenPlay,2020,LeftFoot,14743,West Bromwich Albion,Southampton,3,0,2021-04-12 17:00:00,Kyle Walker-Peters,Pass
+414903,62,MissedShots,0.769000015258789,0.32,0.013273420743644238,Nathan Redmond,a,790,OpenPlay,2020,LeftFoot,14743,West Bromwich Albion,Southampton,3,0,2021-04-12 17:00:00,James Ward-Prowse,Pass
+414906,74,MissedShots,0.7290000152587891,0.425,0.01229334156960249,Nathan Redmond,a,790,OpenPlay,2020,RightFoot,14743,West Bromwich Albion,Southampton,3,0,2021-04-12 17:00:00,James Ward-Prowse,BallRecovery
+414907,78,MissedShots,0.8880000305175781,0.2989999961853027,0.0759642943739891,Che Adams,a,7700,OpenPlay,2020,RightFoot,14743,West Bromwich Albion,Southampton,3,0,2021-04-12 17:00:00,Nathan Redmond,Pass
+414908,88,MissedShots,0.9159999847412109,0.5359999847412109,0.08344539254903793,Jannik Vestergaard,a,111,FromCorner,2020,Head,14743,West Bromwich Albion,Southampton,3,0,2021-04-12 17:00:00,James Ward-Prowse,Cross
+414909,93,SavedShot,0.885,0.5,0.7611688375473022,James Ward-Prowse,a,843,Penalty,2020,RightFoot,14743,West Bromwich Albion,Southampton,3,0,2021-04-12 17:00:00,,Standard
+414910,94,MissedShots,0.779000015258789,0.355,0.06938659399747849,James Ward-Prowse,a,843,DirectFreekick,2020,RightFoot,14743,West Bromwich Albion,Southampton,3,0,2021-04-12 17:00:00,,Standard

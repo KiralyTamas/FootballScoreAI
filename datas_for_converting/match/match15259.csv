@@ -1,0 +1,27 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+396424,13,SavedShot,0.92,0.500999984741211,0.05084510147571564,Ihlas Bebou,h,6271,OpenPlay,2020,Head,15259,Hoffenheim,Freiburg,1,3,2021-01-02 14:30:00,Ishak Belfodil,Aerial
+396426,21,BlockedShot,0.745,0.4540000152587891,0.0639585629105568,Robert Skov,h,7867,DirectFreekick,2020,LeftFoot,15259,Hoffenheim,Freiburg,1,3,2021-01-02 14:30:00,,Standard
+396428,28,SavedShot,0.9159999847412109,0.529000015258789,0.051021043211221695,Ishak Belfodil,h,3834,FromCorner,2020,Head,15259,Hoffenheim,Freiburg,1,3,2021-01-02 14:30:00,Christoph Baumgartner,Aerial
+396431,41,OwnGoal,0.030999999046325683,0.5179999923706055,0,Kasim Nuhu,h,7024,OpenPlay,2020,LeftFoot,15259,Hoffenheim,Freiburg,1,3,2021-01-02 14:30:00,,None
+396432,47,MissedShots,0.9419999694824219,0.524000015258789,0.07439956068992615,Ihlas Bebou,h,6271,FromCorner,2020,Head,15259,Hoffenheim,Freiburg,1,3,2021-01-02 14:30:00,Robert Skov,Aerial
+396433,47,MissedShots,0.955,0.44,0.3509911596775055,Andrej Kramaric,h,956,FromCorner,2020,Head,15259,Hoffenheim,Freiburg,1,3,2021-01-02 14:30:00,Ihlas Bebou,Rebound
+396435,49,SavedShot,0.735,0.41200000762939454,0.014400651678442955,Melayro Bogarde,h,8192,OpenPlay,2020,RightFoot,15259,Hoffenheim,Freiburg,1,3,2021-01-02 14:30:00,Andrej Kramaric,Pass
+396436,53,BlockedShot,0.845,0.46099998474121096,0.04147250950336456,Melayro Bogarde,h,8192,FromCorner,2020,LeftFoot,15259,Hoffenheim,Freiburg,1,3,2021-01-02 14:30:00,Ryan Sessegnon,Cross
+396437,56,MissedShots,0.860999984741211,0.43099998474121093,0.01235626544803381,Kasim Nuhu,h,7024,FromCorner,2020,Head,15259,Hoffenheim,Freiburg,1,3,2021-01-02 14:30:00,Robert Skov,Aerial
+396438,57,Goal,0.8490000152587891,0.47200000762939454,0.2766650319099426,Ihlas Bebou,h,6271,OpenPlay,2020,RightFoot,15259,Hoffenheim,Freiburg,1,3,2021-01-02 14:30:00,Ishak Belfodil,Pass
+396439,60,MissedShots,0.9630000305175781,0.5890000152587891,0.07900600880384445,Andrej Kramaric,h,956,FromCorner,2020,Head,15259,Hoffenheim,Freiburg,1,3,2021-01-02 14:30:00,Robert Skov,Cross
+396440,63,BlockedShot,0.850999984741211,0.759000015258789,0.02487451769411564,Robert Skov,h,7867,OpenPlay,2020,LeftFoot,15259,Hoffenheim,Freiburg,1,3,2021-01-02 14:30:00,Kevin Vogt,BallRecovery
+396441,65,MissedShots,0.865999984741211,0.4759999847412109,0.0275221299380064,Melayro Bogarde,h,8192,OpenPlay,2020,Head,15259,Hoffenheim,Freiburg,1,3,2021-01-02 14:30:00,Ryan Sessegnon,Chipped
+396445,82,SavedShot,0.7669999694824219,0.6959999847412109,0.015406358987092972,Andrej Kramaric,h,956,OpenPlay,2020,RightFoot,15259,Hoffenheim,Freiburg,1,3,2021-01-02 14:30:00,Munas Dabbur,Pass
+396446,84,SavedShot,0.725,0.31,0.038657162338495255,Robert Skov,h,7867,DirectFreekick,2020,LeftFoot,15259,Hoffenheim,Freiburg,1,3,2021-01-02 14:30:00,,Standard
+396447,90,BlockedShot,0.8490000152587891,0.35700000762939454,0.04929305240511894,Robert Skov,h,7867,OpenPlay,2020,RightFoot,15259,Hoffenheim,Freiburg,1,3,2021-01-02 14:30:00,Melayro Bogarde,BallRecovery
+396423,6,Goal,0.945,0.34200000762939453,0.29472073912620544,Baptiste Santamaria,a,5654,OpenPlay,2020,RightFoot,15259,Hoffenheim,Freiburg,1,3,2021-01-02 14:30:00,Ermedin Demirovic,HeadPass
+396425,16,MissedShots,0.9119999694824219,0.4520000076293945,0.045563213527202606,Philipp Lienhart,a,2611,SetPiece,2020,Head,15259,Hoffenheim,Freiburg,1,3,2021-01-02 14:30:00,Christian Günter,Aerial
+396427,23,MissedShots,0.8980000305175782,0.545,0.11115123331546783,Ermedin Demirovic,a,6496,OpenPlay,2020,Head,15259,Hoffenheim,Freiburg,1,3,2021-01-02 14:30:00,Jonathan Schmid,Cross
+396429,32,MissedShots,0.9569999694824218,0.385,0.03598581999540329,Nicolas Höfler,a,4250,FromCorner,2020,Head,15259,Hoffenheim,Freiburg,1,3,2021-01-02 14:30:00,Vincenzo Grifo,Cross
+396430,33,Goal,0.885,0.5,0.75777667760849,Vincenzo Grifo,a,5266,Penalty,2020,RightFoot,15259,Hoffenheim,Freiburg,1,3,2021-01-02 14:30:00,,Standard
+396434,47,MissedShots,0.9169999694824219,0.6370000076293946,0.11995238065719604,Kwon Chang-Hoon,a,5625,OpenPlay,2020,LeftFoot,15259,Hoffenheim,Freiburg,1,3,2021-01-02 14:30:00,Baptiste Santamaria,Pass
+396442,74,SavedShot,0.8159999847412109,0.5729999923706055,0.07802871614694595,Nils Petersen,a,4248,OpenPlay,2020,RightFoot,15259,Hoffenheim,Freiburg,1,3,2021-01-02 14:30:00,Lucas Höler,Pass
+396443,74,SavedShot,0.785,0.6869999694824219,0.021505361422896385,Vincenzo Grifo,a,5266,OpenPlay,2020,RightFoot,15259,Hoffenheim,Freiburg,1,3,2021-01-02 14:30:00,Nils Petersen,Pass
+396444,77,SavedShot,0.925,0.5059999847412109,0.5931627154350281,Baptiste Santamaria,a,5654,OpenPlay,2020,RightFoot,15259,Hoffenheim,Freiburg,1,3,2021-01-02 14:30:00,,None
+396448,93,MissedShots,0.7340000152587891,0.5579999923706055,0.022154582664370537,Keven Schlotterbeck,a,7401,OpenPlay,2020,LeftFoot,15259,Hoffenheim,Freiburg,1,3,2021-01-02 14:30:00,Nicolas Höfler,BallTouch

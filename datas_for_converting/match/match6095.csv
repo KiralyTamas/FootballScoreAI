@@ -1,0 +1,30 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+5907,3,MissedShots,0.7630000305175781,0.38,0.018859202042222023,Ahmed Kashi,h,4735,OpenPlay,2014,LeftFoot,6095,Metz,Paris Saint Germain,2,3,2014-11-21 19:30:00,,None
+5908,4,SavedShot,0.7340000152587891,0.3770000076293945,0.01572212018072605,Guirane N&#039;Daw,h,4745,OpenPlay,2014,LeftFoot,6095,Metz,Paris Saint Germain,2,3,2014-11-21 19:30:00,,BallRecovery
+5910,11,MissedShots,0.914000015258789,0.6819999694824219,0.009647134691476822,Bouna Sarr,h,3393,OpenPlay,2014,Head,6095,Metz,Paris Saint Germain,2,3,2014-11-21 19:30:00,Guirane N&#039;Daw,Cross
+5911,15,OwnGoal,0.04300000190734863,0.5370000076293945,0,Gaëtan Bussmann,h,354,SetPiece,2014,OtherBodyPart,6095,Metz,Paris Saint Germain,2,3,2014-11-21 19:30:00,,Foul
+5912,20,MissedShots,0.6780000305175782,0.6090000152587891,0.00692845368757844,Kévin Lejeune,h,4740,OpenPlay,2014,LeftFoot,6095,Metz,Paris Saint Germain,2,3,2014-11-21 19:30:00,Romain Métanire,TakeOn
+5913,24,BlockedShot,0.735,0.664000015258789,0.04433323070406914,Florent Malouda,h,4737,DirectFreekick,2014,LeftFoot,6095,Metz,Paris Saint Germain,2,3,2014-11-21 19:30:00,,Standard
+5914,26,MissedShots,0.7969999694824219,0.27899999618530275,0.019848613068461418,Florent Malouda,h,4737,OpenPlay,2014,LeftFoot,6095,Metz,Paris Saint Germain,2,3,2014-11-21 19:30:00,Guirane N&#039;Daw,LayOff
+5915,27,MissedShots,0.895,0.620999984741211,0.019201161339879036,Gaëtan Bussmann,h,354,FromCorner,2014,Head,6095,Metz,Paris Saint Germain,2,3,2014-11-21 19:30:00,Kévin Lejeune,Cross
+5918,36,MissedShots,0.919000015258789,0.4829999923706055,0.13685500621795654,Guirane N&#039;Daw,h,4745,OpenPlay,2014,Head,6095,Metz,Paris Saint Germain,2,3,2014-11-21 19:30:00,Romain Métanire,Cross
+5920,46,MissedShots,0.9269999694824219,0.5120000076293946,0.0804838314652443,Kévin Lejeune,h,4740,OpenPlay,2014,Head,6095,Metz,Paris Saint Germain,2,3,2014-11-21 19:30:00,Romain Métanire,Aerial
+5921,48,Goal,0.885,0.5,0.7600951194763184,Modibo Maiga,h,1029,Penalty,2014,LeftFoot,6095,Metz,Paris Saint Germain,2,3,2014-11-21 19:30:00,,Standard
+5922,52,Goal,0.885,0.5,0.7600951194763184,Modibo Maiga,h,1029,Penalty,2014,LeftFoot,6095,Metz,Paris Saint Germain,2,3,2014-11-21 19:30:00,,Standard
+5924,64,MissedShots,0.865,0.43599998474121093,0.0766390934586525,Yeni N&#039;Gbakoto,h,4738,OpenPlay,2014,LeftFoot,6095,Metz,Paris Saint Germain,2,3,2014-11-21 19:30:00,Ahmed Kashi,HeadPass
+5926,68,SavedShot,0.8780000305175781,0.41200000762939454,0.027163904160261154,Modibo Maiga,h,1029,OpenPlay,2014,Head,6095,Metz,Paris Saint Germain,2,3,2014-11-21 19:30:00,Romain Métanire,Cross
+5931,84,MissedShots,0.9159999847412109,0.6609999847412109,0.06726448237895966,Guirane N&#039;Daw,h,4745,OpenPlay,2014,LeftFoot,6095,Metz,Paris Saint Germain,2,3,2014-11-21 19:30:00,Yeni N&#039;Gbakoto,LayOff
+5909,8,Goal,0.8680000305175781,0.46,0.37632837891578674,Javier Pastore,a,3295,OpenPlay,2014,RightFoot,6095,Metz,Paris Saint Germain,2,3,2014-11-21 19:30:00,,Tackle
+5916,29,BlockedShot,0.754000015258789,0.6469999694824219,0.05584774911403656,Zlatan Ibrahimovic,a,1741,DirectFreekick,2014,RightFoot,6095,Metz,Paris Saint Germain,2,3,2014-11-21 19:30:00,,Standard
+5917,29,MissedShots,0.78,0.6559999847412109,0.01597927138209343,Zlatan Ibrahimovic,a,1741,SetPiece,2014,LeftFoot,6095,Metz,Paris Saint Germain,2,3,2014-11-21 19:30:00,,Rebound
+5919,41,SavedShot,0.7759999847412109,0.7340000152587891,0.016481759026646614,Javier Pastore,a,3295,OpenPlay,2014,RightFoot,6095,Metz,Paris Saint Germain,2,3,2014-11-21 19:30:00,Maxwell,Pass
+5923,62,SavedShot,0.9569999694824218,0.68,0.05949272960424423,Ezequiel Lavezzi,a,3643,OpenPlay,2014,LeftFoot,6095,Metz,Paris Saint Germain,2,3,2014-11-21 19:30:00,Javier Pastore,Pass
+5925,66,BlockedShot,0.92,0.524000015258789,0.06515578180551529,Zlatan Ibrahimovic,a,1741,OpenPlay,2014,Head,6095,Metz,Paris Saint Germain,2,3,2014-11-21 19:30:00,Maxwell,Aerial
+5927,80,SavedShot,0.855,0.3320000076293945,0.04961148276925087,Javier Pastore,a,3295,OpenPlay,2014,LeftFoot,6095,Metz,Paris Saint Germain,2,3,2014-11-21 19:30:00,Ezequiel Lavezzi,Pass
+5928,82,SavedShot,0.845,0.33599998474121096,0.04164104908704758,Ezequiel Lavezzi,a,3643,OpenPlay,2014,RightFoot,6095,Metz,Paris Saint Germain,2,3,2014-11-21 19:30:00,Javier Pastore,Pass
+5929,82,SavedShot,0.9159999847412109,0.625,0.3324122130870819,Zlatan Ibrahimovic,a,1741,OpenPlay,2014,LeftFoot,6095,Metz,Paris Saint Germain,2,3,2014-11-21 19:30:00,,Rebound
+5930,82,Goal,0.995,0.46900001525878904,0.9742878675460815,Ezequiel Lavezzi,a,3643,OpenPlay,2014,RightFoot,6095,Metz,Paris Saint Germain,2,3,2014-11-21 19:30:00,,Rebound
+5932,85,SavedShot,0.89,0.655,0.4547058045864105,Edinson Cavani,a,3294,OpenPlay,2014,RightFoot,6095,Metz,Paris Saint Germain,2,3,2014-11-21 19:30:00,Ezequiel Lavezzi,Throughball
+5933,85,SavedShot,0.8519999694824218,0.6120000076293945,0.06849776953458786,Zlatan Ibrahimovic,a,1741,OpenPlay,2014,RightFoot,6095,Metz,Paris Saint Germain,2,3,2014-11-21 19:30:00,,Rebound
+5934,85,MissedShots,0.875999984741211,0.6780000305175782,0.05943073332309723,Blaise Matuidi,a,3296,OpenPlay,2014,LeftFoot,6095,Metz,Paris Saint Germain,2,3,2014-11-21 19:30:00,Zlatan Ibrahimovic,Pass
+5935,89,MissedShots,0.875,0.745999984741211,0.043778229504823685,Javier Pastore,a,3295,OpenPlay,2014,RightFoot,6095,Metz,Paris Saint Germain,2,3,2014-11-21 19:30:00,Blaise Matuidi,TakeOn

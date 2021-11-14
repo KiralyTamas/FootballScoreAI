@@ -1,0 +1,25 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+82602,0,MissedShots,0.8819999694824219,0.5320000076293945,0.12132909148931503,Peter Niemeyer,h,299,OpenPlay,2015,RightFoot,1268,Darmstadt,VfB Stuttgart,2,2,2016-04-02 17:30:00,Mario Vrancic,Pass
+82604,3,MissedShots,0.7,0.40099998474121096,0.008962761610746384,Peter Niemeyer,h,299,SetPiece,2015,RightFoot,1268,Darmstadt,VfB Stuttgart,2,2,2016-04-02 17:30:00,,None
+82605,5,BlockedShot,0.855999984741211,0.54,0.08822625875473022,Peter Niemeyer,h,299,SetPiece,2015,RightFoot,1268,Darmstadt,VfB Stuttgart,2,2,2016-04-02 17:30:00,Mario Vrancic,Pass
+82606,5,BlockedShot,0.8859999847412109,0.2879999923706055,0.02900378406047821,Marcel Heller,h,6,SetPiece,2015,RightFoot,1268,Darmstadt,VfB Stuttgart,2,2,2016-04-02 17:30:00,,Rebound
+82607,6,MissedShots,0.8859999847412109,0.40299999237060546,0.012583033181726933,Slobodan Rajkovic,h,18,FromCorner,2015,Head,1268,Darmstadt,VfB Stuttgart,2,2,2016-04-02 17:30:00,Mario Vrancic,Aerial
+82609,25,Goal,0.835,0.5379999923706055,0.33924075961112976,Sandro Wagner,h,11,OpenPlay,2015,LeftFoot,1268,Darmstadt,VfB Stuttgart,2,2,2016-04-02 17:30:00,,BallRecovery
+82610,28,MissedShots,0.9159999847412109,0.44599998474121094,0.02888929657638073,Sandro Wagner,h,11,FromCorner,2015,Head,1268,Darmstadt,VfB Stuttgart,2,2,2016-04-02 17:30:00,Konstantin Rausch,Aerial
+82615,46,SavedShot,0.8719999694824219,0.5579999923706055,0.009898105636239052,Sandro Wagner,h,11,SetPiece,2015,Head,1268,Darmstadt,VfB Stuttgart,2,2,2016-04-02 17:30:00,Aytac Sulu,Aerial
+82617,47,SavedShot,0.915,0.5070000076293946,0.28055521845817566,Sandro Wagner,h,11,OpenPlay,2015,RightFoot,1268,Darmstadt,VfB Stuttgart,2,2,2016-04-02 17:30:00,Christian Mathenia,Pass
+82618,50,Goal,0.9469999694824218,0.53,0.4440341889858246,Peter Niemeyer,h,299,SetPiece,2015,Head,1268,Darmstadt,VfB Stuttgart,2,2,2016-04-02 17:30:00,Mario Vrancic,Chipped
+82621,74,MissedShots,0.7430000305175781,0.43599998474121093,0.02140389382839203,Sandro Wagner,h,11,OpenPlay,2015,RightFoot,1268,Darmstadt,VfB Stuttgart,2,2,2016-04-02 17:30:00,Mario Vrancic,Pass
+82622,78,BlockedShot,0.8209999847412109,0.6619999694824219,0.024509243667125702,Konstantin Rausch,h,13,SetPiece,2015,LeftFoot,1268,Darmstadt,VfB Stuttgart,2,2,2016-04-02 17:30:00,Sandro Wagner,HeadPass
+82623,83,ShotOnPost,0.965999984741211,0.4279999923706055,0.1190454363822937,Luca Caldirola,h,3,FromCorner,2015,Head,1268,Darmstadt,VfB Stuttgart,2,2,2016-04-02 17:30:00,Mario Vrancic,Cross
+82624,83,SavedShot,0.965999984741211,0.4929999923706055,0.7371965646743774,Peter Niemeyer,h,299,FromCorner,2015,LeftFoot,1268,Darmstadt,VfB Stuttgart,2,2,2016-04-02 17:30:00,Sandro Wagner,Rebound
+82625,90,SavedShot,0.8980000305175782,0.3970000076293945,0.04239128902554512,Peter Niemeyer,h,299,SetPiece,2015,Head,1268,Darmstadt,VfB Stuttgart,2,2,2016-04-02 17:30:00,Mario Vrancic,Chipped
+82603,2,SavedShot,0.8569999694824219,0.43900001525878907,0.1174301952123642,Lukas Rupp,a,62,OpenPlay,2015,RightFoot,1268,Darmstadt,VfB Stuttgart,2,2,2016-04-02 17:30:00,Filip Kostic,Pass
+82608,7,MissedShots,0.6940000152587891,0.455,0.037711698561906815,Filip Kostic,a,64,DirectFreekick,2015,LeftFoot,1268,Darmstadt,VfB Stuttgart,2,2,2016-04-02 17:30:00,,Standard
+82611,29,MissedShots,0.71,0.475,0.015958266332745552,Christian Gentner,a,60,OpenPlay,2015,RightFoot,1268,Darmstadt,VfB Stuttgart,2,2,2016-04-02 17:30:00,Emiliano Insúa,Pass
+82612,32,MissedShots,0.9009999847412109,0.685,0.1311207413673401,Filip Kostic,a,64,OpenPlay,2015,LeftFoot,1268,Darmstadt,VfB Stuttgart,2,2,2016-04-02 17:30:00,Lukas Rupp,Throughball
+82613,33,MissedShots,0.784000015258789,0.7559999847412109,0.0179922953248024,Filip Kostic,a,64,OpenPlay,2015,LeftFoot,1268,Darmstadt,VfB Stuttgart,2,2,2016-04-02 17:30:00,Daniel Didavi,Pass
+82614,44,Goal,0.8640000152587891,0.35200000762939454,0.03805343434214592,Christian Gentner,a,60,OpenPlay,2015,RightFoot,1268,Darmstadt,VfB Stuttgart,2,2,2016-04-02 17:30:00,Filip Kostic,Cross
+82616,47,Goal,0.8209999847412109,0.46700000762939453,0.03310259059071541,Lukas Rupp,a,62,OpenPlay,2015,RightFoot,1268,Darmstadt,VfB Stuttgart,2,2,2016-04-02 17:30:00,Artem Kravets,HeadPass
+82619,52,MissedShots,0.7380000305175781,0.605999984741211,0.01505743432790041,Geoffroy Serey Dié,a,61,FromCorner,2015,RightFoot,1268,Darmstadt,VfB Stuttgart,2,2,2016-04-02 17:30:00,,None
+82620,63,MissedShots,0.9009999847412109,0.655,0.07414542138576508,Filip Kostic,a,64,OpenPlay,2015,LeftFoot,1268,Darmstadt,VfB Stuttgart,2,2,2016-04-02 17:30:00,Christian Gentner,Pass

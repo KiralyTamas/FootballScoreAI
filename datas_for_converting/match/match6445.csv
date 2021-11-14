@@ -1,0 +1,29 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+9333,12,BlockedShot,0.8209999847412109,0.7280000305175781,0.02482982538640499,Igor Portnyagin,h,2970,OpenPlay,2014,RightFoot,6445,Rubin Kazan,Lokomotiv Moscow,1,1,2014-08-17 15:30:00,Gökdeniz Karadeniz,Pass
+9334,13,MissedShots,0.7730000305175782,0.46,0.025680268183350563,Oleg Kuzmin,h,2963,FromCorner,2014,RightFoot,6445,Rubin Kazan,Lokomotiv Moscow,1,1,2014-08-17 15:30:00,Blagoy Georgiev,Cross
+9336,30,Goal,0.885,0.5,0.7542738318443298,Gökdeniz Karadeniz,h,2971,Penalty,2014,RightFoot,6445,Rubin Kazan,Lokomotiv Moscow,1,1,2014-08-17 15:30:00,,Standard
+9339,37,SavedShot,0.68,0.36200000762939455,0.009722788818180561,Oleg Kuzmin,h,2963,OpenPlay,2014,RightFoot,6445,Rubin Kazan,Lokomotiv Moscow,1,1,2014-08-17 15:30:00,Igor Portnyagin,Pass
+9340,38,BlockedShot,0.8669999694824219,0.4379999923706055,0.040188100188970566,Blagoy Georgiev,h,3102,OpenPlay,2014,LeftFoot,6445,Rubin Kazan,Lokomotiv Moscow,1,1,2014-08-17 15:30:00,,Aerial
+9341,38,ShotOnPost,0.9030000305175782,0.5570000076293945,0.04797082766890526,Pavel Mogilevets,h,2773,FromCorner,2014,Head,6445,Rubin Kazan,Lokomotiv Moscow,1,1,2014-08-17 15:30:00,Blagoy Georgiev,Cross
+9342,45,BlockedShot,0.7530000305175781,0.4759999847412109,0.02064177580177784,Gökdeniz Karadeniz,h,2971,SetPiece,2014,RightFoot,6445,Rubin Kazan,Lokomotiv Moscow,1,1,2014-08-17 15:30:00,Magomed Ozdoev,Pass
+9343,47,BlockedShot,0.7090000152587891,0.49400001525878906,0.03919525444507599,Magomed Ozdoev,h,2968,DirectFreekick,2014,RightFoot,6445,Rubin Kazan,Lokomotiv Moscow,1,1,2014-08-17 15:30:00,,Standard
+9344,47,MissedShots,0.8769999694824219,0.295,0.0451645590364933,Maksim Kanunnikov,h,2969,OpenPlay,2014,LeftFoot,6445,Rubin Kazan,Lokomotiv Moscow,1,1,2014-08-17 15:30:00,Pavel Mogilevets,Pass
+9348,63,BlockedShot,0.8440000152587891,0.26600000381469724,0.02891596406698227,Pavel Mogilevets,h,2773,OpenPlay,2014,RightFoot,6445,Rubin Kazan,Lokomotiv Moscow,1,1,2014-08-17 15:30:00,Oleg Kuzmin,Pass
+9349,70,SavedShot,0.715,0.5020000076293946,0.014250684529542923,Pavel Mogilevets,h,2773,OpenPlay,2014,LeftFoot,6445,Rubin Kazan,Lokomotiv Moscow,1,1,2014-08-17 15:30:00,Maksim Kanunnikov,BallRecovery
+9350,75,MissedShots,0.879000015258789,0.4929999923706055,0.05394361913204193,Igor Portnyagin,h,2970,OpenPlay,2014,Head,6445,Rubin Kazan,Lokomotiv Moscow,1,1,2014-08-17 15:30:00,Gökdeniz Karadeniz,Cross
+9352,79,MissedShots,0.6909999847412109,0.539000015258789,0.009636091999709606,Magomed Ozdoev,h,2968,OpenPlay,2014,RightFoot,6445,Rubin Kazan,Lokomotiv Moscow,1,1,2014-08-17 15:30:00,,None
+9353,83,MissedShots,0.76,0.6959999847412109,0.015353989787399769,Pavel Mogilevets,h,2773,OpenPlay,2014,RightFoot,6445,Rubin Kazan,Lokomotiv Moscow,1,1,2014-08-17 15:30:00,,BallRecovery
+9354,86,MissedShots,0.7,0.639000015258789,0.03193287178874016,Blagoy Georgiev,h,3102,DirectFreekick,2014,RightFoot,6445,Rubin Kazan,Lokomotiv Moscow,1,1,2014-08-17 15:30:00,,Standard
+9355,88,BlockedShot,0.72,0.7040000152587891,0.010129459202289581,Elmir Nabiullin,h,2985,OpenPlay,2014,RightFoot,6445,Rubin Kazan,Lokomotiv Moscow,1,1,2014-08-17 15:30:00,Gökdeniz Karadeniz,Pass
+9356,90,BlockedShot,0.7480000305175781,0.36200000762939455,0.01691978983581066,Oleg Kuzmin,h,2963,OpenPlay,2014,RightFoot,6445,Rubin Kazan,Lokomotiv Moscow,1,1,2014-08-17 15:30:00,Gökdeniz Karadeniz,Pass
+9357,90,ShotOnPost,0.8859999847412109,0.6630000305175782,0.07706533372402191,Gökdeniz Karadeniz,h,2971,OpenPlay,2014,RightFoot,6445,Rubin Kazan,Lokomotiv Moscow,1,1,2014-08-17 15:30:00,Pavel Mogilevets,Pass
+9358,90,MissedShots,0.885,0.3920000076293945,0.06638267636299133,Oleg Kuzmin,h,2963,OpenPlay,2014,RightFoot,6445,Rubin Kazan,Lokomotiv Moscow,1,1,2014-08-17 15:30:00,,Rebound
+9331,5,SavedShot,0.7609999847412109,0.509000015258789,0.029058940708637238,Roman Pavlyuchenko,a,2734,OpenPlay,2014,RightFoot,6445,Rubin Kazan,Lokomotiv Moscow,1,1,2014-08-17 15:30:00,Aleksey Miranchuk,TakeOn
+9332,6,MissedShots,0.8630000305175781,0.3609999847412109,0.07706846296787262,Roman Pavlyuchenko,a,2734,OpenPlay,2014,RightFoot,6445,Rubin Kazan,Lokomotiv Moscow,1,1,2014-08-17 15:30:00,Aleksandr Samedov,Pass
+9335,25,Goal,0.909000015258789,0.6619999694824219,0.2524925470352173,Aleksey Miranchuk,a,2711,OpenPlay,2014,LeftFoot,6445,Rubin Kazan,Lokomotiv Moscow,1,1,2014-08-17 15:30:00,Taras Mykhalyk,Pass
+9337,33,SavedShot,0.894000015258789,0.3270000076293945,0.0709524154663086,Roman Pavlyuchenko,a,2734,OpenPlay,2014,RightFoot,6445,Rubin Kazan,Lokomotiv Moscow,1,1,2014-08-17 15:30:00,Aleksey Miranchuk,Pass
+9338,34,BlockedShot,0.6780000305175782,0.6229999923706054,0.009689420461654663,Dmitriy Tarasov,a,2718,OpenPlay,2014,RightFoot,6445,Rubin Kazan,Lokomotiv Moscow,1,1,2014-08-17 15:30:00,Vitaliy Denisov,Pass
+9345,52,MissedShots,0.73,0.5020000076293946,0.048654504120349884,Aleksandr Samedov,a,2710,DirectFreekick,2014,RightFoot,6445,Rubin Kazan,Lokomotiv Moscow,1,1,2014-08-17 15:30:00,,Standard
+9346,53,BlockedShot,0.96,0.39799999237060546,0.016294142231345177,Maicón,a,3121,FromCorner,2014,Head,6445,Rubin Kazan,Lokomotiv Moscow,1,1,2014-08-17 15:30:00,Aleksandr Samedov,Aerial
+9347,62,MissedShots,0.7180000305175781,0.3990000152587891,0.013695844449102879,Aleksey Miranchuk,a,2711,OpenPlay,2014,LeftFoot,6445,Rubin Kazan,Lokomotiv Moscow,1,1,2014-08-17 15:30:00,,Tackle
+9351,77,MissedShots,0.735999984741211,0.3060000038146973,0.012916632927954197,Taras Mykhalyk,a,2709,OpenPlay,2014,RightFoot,6445,Rubin Kazan,Lokomotiv Moscow,1,1,2014-08-17 15:30:00,Aleksandr Samedov,Pass

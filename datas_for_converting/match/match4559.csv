@@ -1,0 +1,35 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+19535,1,MissedShots,0.740999984741211,0.595999984741211,0.017480632290244102,Philippe Coutinho,h,488,OpenPlay,2014,RightFoot,4559,Liverpool,Leicester,2,2,2015-01-01 15:00:00,,BallRecovery
+19539,16,Goal,0.885,0.5,0.7611688375473022,Steven Gerrard,h,4408,Penalty,2014,RightFoot,4559,Liverpool,Leicester,2,2,2015-01-01 15:00:00,,Standard
+19542,22,BlockedShot,0.835999984741211,0.555,0.10139258205890656,Alberto Moreno,h,608,OpenPlay,2014,RightFoot,4559,Liverpool,Leicester,2,2,2015-01-01 15:00:00,Philippe Coutinho,Pass
+19543,26,MissedShots,0.9059999847412109,0.6120000076293945,0.038460198789834976,Adam Lallana,h,486,OpenPlay,2014,Head,4559,Liverpool,Leicester,2,2,2015-01-01 15:00:00,Alberto Moreno,Cross
+19544,30,MissedShots,0.8140000152587891,0.5370000076293945,0.0705283135175705,Adam Lallana,h,486,OpenPlay,2014,LeftFoot,4559,Liverpool,Leicester,2,2,2015-01-01 15:00:00,Alberto Moreno,Pass
+19545,36,MissedShots,0.8180000305175781,0.27899999618530275,0.026357514783740044,Raheem Sterling,h,618,OpenPlay,2014,LeftFoot,4559,Liverpool,Leicester,2,2,2015-01-01 15:00:00,Jordan Henderson,TakeOn
+19546,39,Goal,0.885,0.5,0.7611688375473022,Steven Gerrard,h,4408,Penalty,2014,RightFoot,4559,Liverpool,Leicester,2,2,2015-01-01 15:00:00,,Standard
+19548,45,MissedShots,0.8719999694824219,0.7659999847412109,0.047018080949783325,Alberto Moreno,h,608,OpenPlay,2014,LeftFoot,4559,Liverpool,Leicester,2,2,2015-01-01 15:00:00,Philippe Coutinho,Pass
+19547,46,MissedShots,0.789000015258789,0.40599998474121096,0.029003001749515533,Jordan Henderson,h,605,FromCorner,2014,RightFoot,4559,Liverpool,Leicester,2,2,2015-01-01 15:00:00,Steven Gerrard,Cross
+19553,65,SavedShot,0.7380000305175781,0.4879999923706055,0.024783119559288025,Lucas Leiva,h,475,OpenPlay,2014,RightFoot,4559,Liverpool,Leicester,2,2,2015-01-01 15:00:00,,TakeOn
+19556,73,MissedShots,0.905,0.555,0.13086886703968048,Fabio Borini,h,737,OpenPlay,2014,LeftFoot,4559,Liverpool,Leicester,2,2,2015-01-01 15:00:00,Raheem Sterling,Pass
+19557,76,BlockedShot,0.905,0.4370000076293945,0.1305764764547348,Fabio Borini,h,737,OpenPlay,2014,RightFoot,4559,Liverpool,Leicester,2,2,2015-01-01 15:00:00,Jordan Henderson,Pass
+19558,78,SavedShot,0.8880000305175781,0.7719999694824219,0.02707873471081257,Philippe Coutinho,h,488,OpenPlay,2014,LeftFoot,4559,Liverpool,Leicester,2,2,2015-01-01 15:00:00,Fabio Borini,Pass
+19559,81,SavedShot,0.77,0.730999984741211,0.014826556667685509,Raheem Sterling,h,618,OpenPlay,2014,RightFoot,4559,Liverpool,Leicester,2,2,2015-01-01 15:00:00,Steven Gerrard,TakeOn
+19560,82,BlockedShot,0.8230000305175781,0.72,0.02151130884885788,Philippe Coutinho,h,488,OpenPlay,2014,RightFoot,4559,Liverpool,Leicester,2,2,2015-01-01 15:00:00,Raheem Sterling,Pass
+19563,85,SavedShot,0.9130000305175782,0.6840000152587891,0.09413320571184158,Jordan Henderson,h,605,OpenPlay,2014,LeftFoot,4559,Liverpool,Leicester,2,2,2015-01-01 15:00:00,,None
+19564,88,MissedShots,0.904000015258789,0.5120000076293946,0.05154266208410263,Lazar Markovic,h,4406,OpenPlay,2014,Head,4559,Liverpool,Leicester,2,2,2015-01-01 15:00:00,Raheem Sterling,Chipped
+19567,93,MissedShots,0.8669999694824219,0.7180000305175781,0.041537340730428696,Steven Gerrard,h,4408,FromCorner,2014,RightFoot,4559,Liverpool,Leicester,2,2,2015-01-01 15:00:00,Philippe Coutinho,Pass
+19534,1,ShotOnPost,0.7659999847412109,0.16899999618530273,0.0304872989654541,Riyad Mahrez,a,750,DirectFreekick,2014,LeftFoot,4559,Liverpool,Leicester,2,2,2015-01-01 15:00:00,,Standard
+19536,3,BlockedShot,0.7230000305175781,0.6170000076293946,0.01419967319816351,Matthew James,a,4441,OpenPlay,2014,LeftFoot,4559,Liverpool,Leicester,2,2,2015-01-01 15:00:00,,Interception
+19537,11,MissedShots,0.885,0.4759999847412109,0.30529913306236267,Riyad Mahrez,a,750,OpenPlay,2014,LeftFoot,4559,Liverpool,Leicester,2,2,2015-01-01 15:00:00,Jeffrey Schlupp,Cross
+19538,14,MissedShots,0.8159999847412109,0.5559999847412109,0.049592629075050354,Jeffrey Schlupp,a,757,SetPiece,2014,RightFoot,4559,Liverpool,Leicester,2,2,2015-01-01 15:00:00,Marcin Wasilewski,HeadPass
+19540,19,MissedShots,0.8859999847412109,0.7119999694824218,0.09091862291097641,Jeffrey Schlupp,a,757,OpenPlay,2014,LeftFoot,4559,Liverpool,Leicester,2,2,2015-01-01 15:00:00,Riyad Mahrez,Throughball
+19541,21,BlockedShot,0.755,0.27100000381469724,0.04075247794389725,Riyad Mahrez,a,750,DirectFreekick,2014,LeftFoot,4559,Liverpool,Leicester,2,2,2015-01-01 15:00:00,,Standard
+19549,47,MissedShots,0.750999984741211,0.6819999694824219,0.012948988936841488,Matthew James,a,4441,OpenPlay,2014,RightFoot,4559,Liverpool,Leicester,2,2,2015-01-01 15:00:00,,Dispossessed
+19550,57,MissedShots,0.9230000305175782,0.5870000076293945,0.05221210792660713,David Nugent,a,1753,FromCorner,2014,Head,4559,Liverpool,Leicester,2,2,2015-01-01 15:00:00,Matthew James,Cross
+19551,57,Goal,0.795,0.3320000076293945,0.023989306762814522,David Nugent,a,1753,OpenPlay,2014,RightFoot,4559,Liverpool,Leicester,2,2,2015-01-01 15:00:00,Jamie Vardy,LayOff
+19552,59,Goal,0.789000015258789,0.5070000076293946,0.039191436022520065,Jeffrey Schlupp,a,757,OpenPlay,2014,LeftFoot,4559,Liverpool,Leicester,2,2,2015-01-01 15:00:00,Riyad Mahrez,Pass
+19554,67,MissedShots,0.7619999694824219,0.585,0.06848199665546417,Riyad Mahrez,a,750,DirectFreekick,2014,LeftFoot,4559,Liverpool,Leicester,2,2,2015-01-01 15:00:00,,Standard
+19555,72,BlockedShot,0.8269999694824218,0.5579999923706055,0.06889402121305466,David Nugent,a,1753,OpenPlay,2014,RightFoot,4559,Liverpool,Leicester,2,2,2015-01-01 15:00:00,Jeffrey Schlupp,Pass
+19561,83,BlockedShot,0.9109999847412109,0.4909999847412109,0.10942413657903671,Marcin Wasilewski,a,760,FromCorner,2014,RightFoot,4559,Liverpool,Leicester,2,2,2015-01-01 15:00:00,,None
+19562,83,MissedShots,0.875,0.3089999961853027,0.03250265493988991,Riyad Mahrez,a,750,FromCorner,2014,LeftFoot,4559,Liverpool,Leicester,2,2,2015-01-01 15:00:00,,None
+19565,89,SavedShot,0.9790000152587891,0.669000015258789,0.10082181543111801,David Nugent,a,1753,SetPiece,2014,LeftFoot,4559,Liverpool,Leicester,2,2,2015-01-01 15:00:00,Leonardo Ulloa,Throughball
+19566,90,BlockedShot,0.7809999847412109,0.29100000381469726,0.054667770862579346,Riyad Mahrez,a,750,DirectFreekick,2014,LeftFoot,4559,Liverpool,Leicester,2,2,2015-01-01 15:00:00,,Standard

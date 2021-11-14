@@ -1,0 +1,37 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+420257,1,Goal,0.875999984741211,0.3240000152587891,0.02341938577592373,Robert Lewandowski,h,227,OpenPlay,2020,RightFoot,15419,Bayern Munich,Borussia M.Gladbach,6,0,2021-05-08 16:30:00,David Alaba,Cross
+420259,7,BlockedShot,0.855999984741211,0.624000015258789,0.05074195936322212,Jamal Musiala,h,8418,OpenPlay,2020,LeftFoot,15419,Bayern Munich,Borussia M.Gladbach,6,0,2021-05-08 16:30:00,Thomas Müller,HeadPass
+420260,11,MissedShots,0.9109999847412109,0.5479999923706055,0.12378808856010437,Robert Lewandowski,h,227,OpenPlay,2020,Head,15419,Bayern Munich,Borussia M.Gladbach,6,0,2021-05-08 16:30:00,Thomas Müller,Cross
+420261,13,ShotOnPost,0.960999984741211,0.659000015258789,0.09268705546855927,Kingsley Coman,h,226,OpenPlay,2020,LeftFoot,15419,Bayern Munich,Borussia M.Gladbach,6,0,2021-05-08 16:30:00,Alphonso Davies,Pass
+420263,16,MissedShots,0.935,0.5620000076293945,0.07122918963432312,Robert Lewandowski,h,227,OpenPlay,2020,Head,15419,Bayern Munich,Borussia M.Gladbach,6,0,2021-05-08 16:30:00,Kingsley Coman,Aerial
+420264,19,BlockedShot,0.85,0.40200000762939453,0.10800310224294662,Robert Lewandowski,h,227,OpenPlay,2020,RightFoot,15419,Bayern Munich,Borussia M.Gladbach,6,0,2021-05-08 16:30:00,Thomas Müller,LayOff
+420265,22,Goal,0.875999984741211,0.524000015258789,0.12489454448223114,Thomas Müller,h,224,OpenPlay,2020,LeftFoot,15419,Bayern Munich,Borussia M.Gladbach,6,0,2021-05-08 16:30:00,Jamal Musiala,Pass
+420267,33,BlockedShot,0.8640000152587891,0.44299999237060544,0.09329154342412949,Thomas Müller,h,224,OpenPlay,2020,LeftFoot,15419,Bayern Munich,Borussia M.Gladbach,6,0,2021-05-08 16:30:00,,None
+420268,33,BlockedShot,0.7809999847412109,0.4620000076293945,0.022691458463668823,Joshua Kimmich,h,223,OpenPlay,2020,LeftFoot,15419,Bayern Munich,Borussia M.Gladbach,6,0,2021-05-08 16:30:00,,Rebound
+420269,33,Goal,0.92,0.6509999847412109,0.08421843498945236,Robert Lewandowski,h,227,OpenPlay,2020,RightFoot,15419,Bayern Munich,Borussia M.Gladbach,6,0,2021-05-08 16:30:00,,None
+420271,43,Goal,0.8690000152587891,0.3729999923706055,0.27284085750579834,Kingsley Coman,h,226,OpenPlay,2020,RightFoot,15419,Bayern Munich,Borussia M.Gladbach,6,0,2021-05-08 16:30:00,Robert Lewandowski,Pass
+420273,45,SavedShot,0.8980000305175782,0.4759999847412109,0.35900670289993286,Thomas Müller,h,224,OpenPlay,2020,Head,15419,Bayern Munich,Borussia M.Gladbach,6,0,2021-05-08 16:30:00,Robert Lewandowski,Chipped
+420272,46,MissedShots,0.8330000305175781,0.34700000762939454,0.015437817201018333,Benjamin Pavard,h,3363,FromCorner,2020,RightFoot,15419,Bayern Munich,Borussia M.Gladbach,6,0,2021-05-08 16:30:00,Lucas Hernández,HeadPass
+420275,52,MissedShots,0.9009999847412109,0.5690000152587891,0.015917129814624786,Robert Lewandowski,h,227,FromCorner,2020,Head,15419,Bayern Munich,Borussia M.Gladbach,6,0,2021-05-08 16:30:00,Joshua Kimmich,Aerial
+420278,57,BlockedShot,0.81,0.6359999847412109,0.0568966343998909,Thomas Müller,h,224,OpenPlay,2020,RightFoot,15419,Bayern Munich,Borussia M.Gladbach,6,0,2021-05-08 16:30:00,David Alaba,Pass
+420280,61,MissedShots,0.759000015258789,0.35200000762939454,0.02513185143470764,Leon Goretzka,h,335,OpenPlay,2020,RightFoot,15419,Bayern Munich,Borussia M.Gladbach,6,0,2021-05-08 16:30:00,,BallRecovery
+420282,63,BlockedShot,0.879000015258789,0.61,0.01567748188972473,Leon Goretzka,h,335,FromCorner,2020,Head,15419,Bayern Munich,Borussia M.Gladbach,6,0,2021-05-08 16:30:00,Joshua Kimmich,Cross
+420283,64,Goal,0.885,0.5,0.75777667760849,Robert Lewandowski,h,227,Penalty,2020,RightFoot,15419,Bayern Munich,Borussia M.Gladbach,6,0,2021-05-08 16:30:00,,Standard
+420287,78,MissedShots,0.8140000152587891,0.6659999847412109,0.028214717283844948,Serge Gnabry,h,993,OpenPlay,2020,RightFoot,15419,Bayern Munich,Borussia M.Gladbach,6,0,2021-05-08 16:30:00,Joshua Kimmich,TakeOn
+420288,80,MissedShots,0.83,0.395,0.07589138299226761,Joshua Kimmich,h,223,OpenPlay,2020,LeftFoot,15419,Bayern Munich,Borussia M.Gladbach,6,0,2021-05-08 16:30:00,Leroy Sané,Pass
+420291,85,Goal,0.9009999847412109,0.4620000076293945,0.4818601906299591,Leroy Sané,h,337,OpenPlay,2020,RightFoot,15419,Bayern Munich,Borussia M.Gladbach,6,0,2021-05-08 16:30:00,Serge Gnabry,Pass
+420292,88,BlockedShot,0.8969999694824219,0.46599998474121096,0.12599535286426544,Robert Lewandowski,h,227,OpenPlay,2020,RightFoot,15419,Bayern Munich,Borussia M.Gladbach,6,0,2021-05-08 16:30:00,Benjamin Pavard,Cross
+420258,3,MissedShots,0.8059999847412109,0.3729999923706055,0.032139554619789124,Stefan Lainer,a,7831,OpenPlay,2020,RightFoot,15419,Bayern Munich,Borussia M.Gladbach,6,0,2021-05-08 16:30:00,Valentino Lazaro,Pass
+420262,14,SavedShot,0.855999984741211,0.6919999694824219,0.06046488508582115,Marcus Thuram,a,5992,OpenPlay,2020,RightFoot,15419,Bayern Munich,Borussia M.Gladbach,6,0,2021-05-08 16:30:00,Jonas Hofmann,Pass
+420266,29,MissedShots,0.9080000305175782,0.49599998474121093,0.03285924717783928,Ramy Bensebaini,a,3349,FromCorner,2020,Head,15419,Bayern Munich,Borussia M.Gladbach,6,0,2021-05-08 16:30:00,Jonas Hofmann,Aerial
+420270,39,BlockedShot,0.875999984741211,0.7190000152587891,0.02849167212843895,Jonas Hofmann,a,320,OpenPlay,2020,RightFoot,15419,Bayern Munich,Borussia M.Gladbach,6,0,2021-05-08 16:30:00,Florian Neuhaus,Pass
+420274,49,SavedShot,0.710999984741211,0.48400001525878905,0.008514121174812317,Alassane Pléa,a,3310,OpenPlay,2020,RightFoot,15419,Bayern Munich,Borussia M.Gladbach,6,0,2021-05-08 16:30:00,,None
+420276,52,MissedShots,0.79,0.3110000038146973,0.02200559340417385,Alassane Pléa,a,3310,OpenPlay,2020,RightFoot,15419,Bayern Munich,Borussia M.Gladbach,6,0,2021-05-08 16:30:00,Breel Embolo,Pass
+420277,56,MissedShots,0.8430000305175781,0.639000015258789,0.03501855954527855,Alassane Pléa,a,3310,OpenPlay,2020,RightFoot,15419,Bayern Munich,Borussia M.Gladbach,6,0,2021-05-08 16:30:00,Ramy Bensebaini,Chipped
+420279,58,BlockedShot,0.855,0.5659999847412109,0.08413589000701904,Alassane Pléa,a,3310,OpenPlay,2020,LeftFoot,15419,Bayern Munich,Borussia M.Gladbach,6,0,2021-05-08 16:30:00,Breel Embolo,Pass
+420281,62,SavedShot,0.905,0.674000015258789,0.07855977863073349,Ramy Bensebaini,a,3349,OpenPlay,2020,LeftFoot,15419,Bayern Munich,Borussia M.Gladbach,6,0,2021-05-08 16:30:00,Florian Neuhaus,Throughball
+420284,69,MissedShots,0.7680000305175781,0.36700000762939455,0.018184617161750793,Alassane Pléa,a,3310,OpenPlay,2020,RightFoot,15419,Bayern Munich,Borussia M.Gladbach,6,0,2021-05-08 16:30:00,,BallRecovery
+420285,75,BlockedShot,0.7180000305175781,0.46799999237060547,0.04816100001335144,Lars Stindl,a,208,DirectFreekick,2020,RightFoot,15419,Bayern Munich,Borussia M.Gladbach,6,0,2021-05-08 16:30:00,,Standard
+420286,76,MissedShots,0.9219999694824219,0.3609999847412109,0.2948075234889984,Denis Zakaria,a,6147,OpenPlay,2020,RightFoot,15419,Bayern Munich,Borussia M.Gladbach,6,0,2021-05-08 16:30:00,Alassane Pléa,Throughball
+420289,83,BlockedShot,0.8969999694824219,0.6859999847412109,0.039881978183984756,Oscar Wendt,a,206,OpenPlay,2020,LeftFoot,15419,Bayern Munich,Borussia M.Gladbach,6,0,2021-05-08 16:30:00,,None
+420290,84,MissedShots,0.7619999694824219,0.5640000152587891,0.023384690284729004,Denis Zakaria,a,6147,OpenPlay,2020,RightFoot,15419,Bayern Munich,Borussia M.Gladbach,6,0,2021-05-08 16:30:00,Lars Stindl,Pass

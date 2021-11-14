@@ -1,0 +1,22 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+257231,4,MissedShots,0.88,0.5129999923706055,0.07572352886199951,Adam Zrelák,h,7242,OpenPlay,2018,LeftFoot,10471,Nuernberg,Wolfsburg,0,2,2018-12-14 19:30:00,Virgil Misidjan,Cross
+257235,32,MissedShots,0.7880000305175782,0.710999984741211,0.017141833901405334,Simon Rhein,h,7214,OpenPlay,2018,LeftFoot,10471,Nuernberg,Wolfsburg,0,2,2018-12-14 19:30:00,Federico Palacios,Pass
+257236,39,BlockedShot,0.9280000305175782,0.53,0.09500306099653244,Ondrej Petrák,h,7034,OpenPlay,2018,Head,10471,Nuernberg,Wolfsburg,0,2,2018-12-14 19:30:00,Virgil Misidjan,Chipped
+257237,40,MissedShots,0.7440000152587891,0.5479999923706055,0.01821875013411045,Ondrej Petrák,h,7034,SetPiece,2018,RightFoot,10471,Nuernberg,Wolfsburg,0,2,2018-12-14 19:30:00,Federico Palacios,Pass
+257238,41,MissedShots,0.7480000305175781,0.6409999847412109,0.0160976592451334,Matheus Pereira,h,7153,OpenPlay,2018,LeftFoot,10471,Nuernberg,Wolfsburg,0,2,2018-12-14 19:30:00,Adam Zrelák,Pass
+257239,48,MissedShots,0.7719999694824219,0.33599998474121096,0.020733235403895378,Matheus Pereira,h,7153,OpenPlay,2018,LeftFoot,10471,Nuernberg,Wolfsburg,0,2,2018-12-14 19:30:00,,BallRecovery
+257240,55,MissedShots,0.8590000152587891,0.635,0.12309537082910538,Virgil Misidjan,h,7154,OpenPlay,2018,RightFoot,10471,Nuernberg,Wolfsburg,0,2,2018-12-14 19:30:00,Ondrej Petrák,TakeOn
+257244,72,MissedShots,0.855,0.3529999923706055,0.05322250351309776,Mikael Ishak,h,7038,OpenPlay,2018,RightFoot,10471,Nuernberg,Wolfsburg,0,2,2018-12-14 19:30:00,Robert Bauer,Pass
+257246,85,MissedShots,0.8930000305175781,0.48900001525878906,0.08739947527647018,Ondrej Petrák,h,7034,SetPiece,2018,LeftFoot,10471,Nuernberg,Wolfsburg,0,2,2018-12-14 19:30:00,Georg Margreitter,BallTouch
+257248,89,BlockedShot,0.7719999694824219,0.4,0.01478768140077591,Robert Bauer,h,237,FromCorner,2018,RightFoot,10471,Nuernberg,Wolfsburg,0,2,2018-12-14 19:30:00,,Aerial
+257249,91,MissedShots,0.8919999694824219,0.44799999237060545,0.08014929294586182,Mikael Ishak,h,7038,OpenPlay,2018,RightFoot,10471,Nuernberg,Wolfsburg,0,2,2018-12-14 19:30:00,Patrick Erras,HeadPass
+257230,3,SavedShot,0.955999984741211,0.6819999694824219,0.05351520702242851,Daniel Ginczek,a,426,OpenPlay,2018,LeftFoot,10471,Nuernberg,Wolfsburg,0,2,2018-12-14 19:30:00,Maximilian Arnold,Chipped
+257232,10,SavedShot,0.91,0.30700000762939456,0.06497862190008163,Daniel Ginczek,a,426,OpenPlay,2018,RightFoot,10471,Nuernberg,Wolfsburg,0,2,2018-12-14 19:30:00,William,Pass
+257233,10,MissedShots,0.9290000152587891,0.6619999694824219,0.011061065830290318,Robin Knoche,a,161,FromCorner,2018,Head,10471,Nuernberg,Wolfsburg,0,2,2018-12-14 19:30:00,Maximilian Arnold,Aerial
+257234,30,MissedShots,0.7219999694824218,0.38,0.014188055880367756,Daniel Ginczek,a,426,OpenPlay,2018,RightFoot,10471,Nuernberg,Wolfsburg,0,2,2018-12-14 19:30:00,Wout Weghorst,BallRecovery
+257241,56,ShotOnPost,0.8809999847412109,0.555,0.07386894524097443,Wout Weghorst,a,7052,OpenPlay,2018,RightFoot,10471,Nuernberg,Wolfsburg,0,2,2018-12-14 19:30:00,Yannick Gerhardt,Cross
+257242,57,Goal,0.8530000305175781,0.46299999237060546,0.10959553718566895,Daniel Ginczek,a,426,OpenPlay,2018,RightFoot,10471,Nuernberg,Wolfsburg,0,2,2018-12-14 19:30:00,Maximilian Arnold,Pass
+257243,65,MissedShots,0.904000015258789,0.43,0.05694858357310295,Wout Weghorst,a,7052,SetPiece,2018,Head,10471,Nuernberg,Wolfsburg,0,2,2018-12-14 19:30:00,Maximilian Arnold,Chipped
+257245,74,BlockedShot,0.7859999847412109,0.40200000762939453,0.034295324236154556,Yunus Malli,a,45,OpenPlay,2018,RightFoot,10471,Nuernberg,Wolfsburg,0,2,2018-12-14 19:30:00,Wout Weghorst,HeadPass
+257247,88,BlockedShot,0.8480000305175781,0.605999984741211,0.06892967224121094,Renato Steffen,a,6484,OpenPlay,2018,LeftFoot,10471,Nuernberg,Wolfsburg,0,2,2018-12-14 19:30:00,Daniel Ginczek,Chipped
+257250,92,Goal,0.8590000152587891,0.56,0.21338942646980286,Josip Brekalo,a,5353,OpenPlay,2018,RightFoot,10471,Nuernberg,Wolfsburg,0,2,2018-12-14 19:30:00,Yannick Gerhardt,TakeOn

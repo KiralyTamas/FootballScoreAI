@@ -1,0 +1,20 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+198498,6,MissedShots,0.9219999694824219,0.5129999923706055,0.3107586205005646,Pylyp Budkivsky,h,5445,OpenPlay,2017,Head,6633,Anzhi Makhachkala,Rubin Kazan,1,1,2018-03-02 16:30:00,Arsen Khubulov,Cross
+198501,30,MissedShots,0.7090000152587891,0.42200000762939455,0.012897036969661713,Guram Tetrashvili,h,5443,FromCorner,2017,RightFoot,6633,Anzhi Makhachkala,Rubin Kazan,1,1,2018-03-02 16:30:00,,None
+198504,47,MissedShots,0.9069999694824219,0.5220000076293946,0.03743208944797516,Pylyp Budkivsky,h,5445,OpenPlay,2017,Head,6633,Anzhi Makhachkala,Rubin Kazan,1,1,2018-03-02 16:30:00,Vladimir Poluyakhtov,Aerial
+198505,48,MissedShots,0.9080000305175782,0.54,0.024448545649647713,Sergei Bryzgalov,h,2809,FromCorner,2017,Head,6633,Anzhi Makhachkala,Rubin Kazan,1,1,2018-03-02 16:30:00,Paul Anton,Aerial
+198506,55,BlockedShot,0.870999984741211,0.645,0.052657756954431534,Arsen Khubulov,h,2733,SetPiece,2017,LeftFoot,6633,Anzhi Makhachkala,Rubin Kazan,1,1,2018-03-02 16:30:00,,None
+198507,55,BlockedShot,0.8,0.504000015258789,0.035376884043216705,Ivan Markelov,h,5530,SetPiece,2017,LeftFoot,6633,Anzhi Makhachkala,Rubin Kazan,1,1,2018-03-02 16:30:00,Sergei Bryzgalov,Pass
+198508,67,BlockedShot,0.845,0.605,0.04957021400332451,Arsen Khubulov,h,2733,OpenPlay,2017,RightFoot,6633,Anzhi Makhachkala,Rubin Kazan,1,1,2018-03-02 16:30:00,,None
+198509,69,MissedShots,0.9030000305175782,0.59,0.03502144291996956,Mikhail Bakayev,h,6267,FromCorner,2017,OtherBodyPart,6633,Anzhi Makhachkala,Rubin Kazan,1,1,2018-03-02 16:30:00,Paul Anton,Cross
+198510,77,BlockedShot,0.8780000305175781,0.6179999923706054,0.0628579631447792,Vladimir Poluyakhtov,h,5426,SetPiece,2017,RightFoot,6633,Anzhi Makhachkala,Rubin Kazan,1,1,2018-03-02 16:30:00,,None
+198511,84,BlockedShot,0.8619999694824219,0.7090000152587891,0.039317212998867035,Vladimir Poluyakhtov,h,5426,OpenPlay,2017,LeftFoot,6633,Anzhi Makhachkala,Rubin Kazan,1,1,2018-03-02 16:30:00,Arsen Khubulov,Pass
+198512,85,BlockedShot,0.795,0.654000015258789,0.02996661886572838,Vladimir Poluyakhtov,h,5426,OpenPlay,2017,RightFoot,6633,Anzhi Makhachkala,Rubin Kazan,1,1,2018-03-02 16:30:00,Paul Anton,Pass
+198513,89,MissedShots,0.750999984741211,0.8540000152587891,0.026135381311178207,Paul Anton,h,6575,DirectFreekick,2017,RightFoot,6633,Anzhi Makhachkala,Rubin Kazan,1,1,2018-03-02 16:30:00,,Standard
+198514,90,Goal,0.8669999694824219,0.710999984741211,0.04281337186694145,Juan Eduardo Lescano,h,5919,OpenPlay,2017,RightFoot,6633,Anzhi Makhachkala,Rubin Kazan,1,1,2018-03-02 16:30:00,Ivan Markelov,Pass
+198516,95,MissedShots,0.779000015258789,0.669000015258789,0.014583759009838104,Ivan Markelov,h,5530,SetPiece,2017,LeftFoot,6633,Anzhi Makhachkala,Rubin Kazan,1,1,2018-03-02 16:30:00,,None
+198499,16,BlockedShot,0.9119999694824219,0.37599998474121094,0.012729770503938198,César Navas,a,2769,FromCorner,2017,Head,6633,Anzhi Makhachkala,Rubin Kazan,1,1,2018-03-02 16:30:00,Ivelin Popov,Aerial
+198500,22,BlockedShot,0.7880000305175782,0.32099998474121094,0.021782953292131424,Pavel Mogilevets,a,2773,OpenPlay,2017,RightFoot,6633,Anzhi Makhachkala,Rubin Kazan,1,1,2018-03-02 16:30:00,,None
+198502,35,Goal,0.9019999694824219,0.5690000152587891,0.38142502307891846,Ivelin Popov,a,2817,OpenPlay,2017,RightFoot,6633,Anzhi Makhachkala,Rubin Kazan,1,1,2018-03-02 16:30:00,Sardar Azmoun,Throughball
+198503,44,SavedShot,0.9330000305175781,0.6759999847412109,0.03778640553355217,Pavel Mogilevets,a,2773,FromCorner,2017,RightFoot,6633,Anzhi Makhachkala,Rubin Kazan,1,1,2018-03-02 16:30:00,Ivelin Popov,Cross
+198515,91,MissedShots,0.805,0.5570000076293945,0.06893409043550491,Rifat Zhemaletdinov,a,2712,OpenPlay,2017,RightFoot,6633,Anzhi Makhachkala,Rubin Kazan,1,1,2018-03-02 16:30:00,Vyacheslav Podberezkin,LayOff

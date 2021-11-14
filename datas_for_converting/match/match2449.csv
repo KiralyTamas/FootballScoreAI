@@ -1,0 +1,24 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+71847,7,BlockedShot,0.72,0.35400001525878905,0.03677879646420479,Pavel Pogrebnyak,h,2830,DirectFreekick,2015,LeftFoot,2449,Dinamo Moscow,Spartak Moscow,2,3,2015-10-25 14:30:00,,Standard
+71848,7,BlockedShot,0.789000015258789,0.395,0.020148154348134995,Pavel Pogrebnyak,h,2830,SetPiece,2015,LeftFoot,2449,Dinamo Moscow,Spartak Moscow,2,3,2015-10-25 14:30:00,,Rebound
+71849,13,MissedShots,0.7,0.34200000762939453,0.012090601027011871,Aleksandr Kokorin,h,3066,OpenPlay,2015,LeftFoot,2449,Dinamo Moscow,Spartak Moscow,2,3,2015-10-25 14:30:00,Anatoly Katrich,Pass
+71851,16,Goal,0.9540000152587891,0.4759999847412109,0.6426974534988403,Aleksandr Kokorin,h,3066,OpenPlay,2015,LeftFoot,2449,Dinamo Moscow,Spartak Moscow,2,3,2015-10-25 14:30:00,Yuri Zhirkov,Pass
+71855,32,SavedShot,0.769000015258789,0.669000015258789,0.017040103673934937,Roman Zobnin,h,2750,OpenPlay,2015,RightFoot,2449,Dinamo Moscow,Spartak Moscow,2,3,2015-10-25 14:30:00,,None
+71857,52,MissedShots,0.7469999694824219,0.34200000762939453,0.045389845967292786,Yuri Zhirkov,h,3058,DirectFreekick,2015,LeftFoot,2449,Dinamo Moscow,Spartak Moscow,2,3,2015-10-25 14:30:00,,Standard
+71858,56,MissedShots,0.7380000305175781,0.5179999923706055,0.015209411270916462,Anatoly Katrich,h,3134,FromCorner,2015,RightFoot,2449,Dinamo Moscow,Spartak Moscow,2,3,2015-10-25 14:30:00,,None
+71859,56,BlockedShot,0.8180000305175781,0.884000015258789,0.009271586313843727,Aleksandr Kokorin,h,3066,OpenPlay,2015,RightFoot,2449,Dinamo Moscow,Spartak Moscow,2,3,2015-10-25 14:30:00,,None
+71861,64,MissedShots,0.825999984741211,0.6229999923706054,0.05346532166004181,Aleksandr Kokorin,h,3066,OpenPlay,2015,RightFoot,2449,Dinamo Moscow,Spartak Moscow,2,3,2015-10-25 14:30:00,Pavel Pogrebnyak,Pass
+71862,66,SavedShot,0.7559999847412109,0.5570000076293945,0.021376004442572594,Roman Zobnin,h,2750,OpenPlay,2015,RightFoot,2449,Dinamo Moscow,Spartak Moscow,2,3,2015-10-25 14:30:00,,None
+71863,66,Goal,0.9030000305175782,0.4159999847412109,0.34243783354759216,Pavel Pogrebnyak,h,2830,OpenPlay,2015,RightFoot,2449,Dinamo Moscow,Spartak Moscow,2,3,2015-10-25 14:30:00,,Rebound
+71865,80,SavedShot,0.9330000305175781,0.49900001525878906,0.4454244077205658,Pavel Pogrebnyak,h,2830,OpenPlay,2015,Head,2449,Dinamo Moscow,Spartak Moscow,2,3,2015-10-25 14:30:00,,None
+71866,84,MissedShots,0.8669999694824219,0.4809999847412109,0.04105081409215927,Roman Zobnin,h,2750,SetPiece,2015,Head,2449,Dinamo Moscow,Spartak Moscow,2,3,2015-10-25 14:30:00,Igor Denisov,Chipped
+71846,5,SavedShot,0.879000015258789,0.4879999923706055,0.11938664317131042,Aras Özbiliz,a,2489,OpenPlay,2015,LeftFoot,2449,Dinamo Moscow,Spartak Moscow,2,3,2015-10-25 14:30:00,Dmitri Kombarov,Pass
+71850,15,BlockedShot,0.835999984741211,0.3139999961853027,0.0376448892056942,Alexandr Zotov,a,2820,OpenPlay,2015,RightFoot,2449,Dinamo Moscow,Spartak Moscow,2,3,2015-10-25 14:30:00,Sergey Parshivlyuk,Pass
+71852,20,BlockedShot,0.9640000152587891,0.41,0.041854359209537506,Denis Glushakov,a,2814,FromCorner,2015,Head,2449,Dinamo Moscow,Spartak Moscow,2,3,2015-10-25 14:30:00,Roman Shirokov,Chipped
+71853,21,Goal,0.905,0.575999984741211,0.3800635039806366,Quincy Promes,a,2815,OpenPlay,2015,RightFoot,2449,Dinamo Moscow,Spartak Moscow,2,3,2015-10-25 14:30:00,Dmitri Kombarov,Throughball
+71854,28,SavedShot,0.7669999694824219,0.3820000076293945,0.02363019436597824,Aras Özbiliz,a,2489,OpenPlay,2015,LeftFoot,2449,Dinamo Moscow,Spartak Moscow,2,3,2015-10-25 14:30:00,Roman Shirokov,Pass
+71856,46,BlockedShot,0.764000015258789,0.649000015258789,0.022411901503801346,Quincy Promes,a,2815,OpenPlay,2015,RightFoot,2449,Dinamo Moscow,Spartak Moscow,2,3,2015-10-25 14:30:00,Dmitri Kombarov,Pass
+71860,59,MissedShots,0.8690000152587891,0.705,0.04188510403037071,Aleksandr Zuev,a,2826,OpenPlay,2015,RightFoot,2449,Dinamo Moscow,Spartak Moscow,2,3,2015-10-25 14:30:00,Denis Glushakov,Pass
+71864,69,Goal,0.9569999694824218,0.53,0.4429910480976105,Denis Davydov,a,3130,OpenPlay,2015,Head,2449,Dinamo Moscow,Spartak Moscow,2,3,2015-10-25 14:30:00,,None
+71867,87,MissedShots,0.76,0.3890000152587891,0.020161302760243416,Sergey Parshivlyuk,a,2828,OpenPlay,2015,RightFoot,2449,Dinamo Moscow,Spartak Moscow,2,3,2015-10-25 14:30:00,,None
+71868,90,Goal,0.919000015258789,0.5220000076293946,0.3625280559062958,Quincy Promes,a,2815,OpenPlay,2015,RightFoot,2449,Dinamo Moscow,Spartak Moscow,2,3,2015-10-25 14:30:00,Denis Davydov,Chipped

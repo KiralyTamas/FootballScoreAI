@@ -1,0 +1,30 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+377408,8,BlockedShot,0.715,0.34,0.012760180979967117,Maximilian Eggestein,h,125,OpenPlay,2020,RightFoot,14177,Werder Bremen,Hertha Berlin,1,4,2020-09-19 13:30:00,,BallRecovery
+377409,12,MissedShots,0.8009999847412109,0.639000015258789,0.023069484159350395,Davy Klaassen,h,6045,SetPiece,2020,LeftFoot,14177,Werder Bremen,Hertha Berlin,1,4,2020-09-19 13:30:00,,None
+377411,30,SavedShot,0.8580000305175781,0.6940000152587891,0.041630085557699203,Joshua Sargent,h,7295,OpenPlay,2020,LeftFoot,14177,Werder Bremen,Hertha Berlin,1,4,2020-09-19 13:30:00,Tahith Chong,Pass
+377412,31,MissedShots,0.7609999847412109,0.4620000076293945,0.019449226558208466,Davy Klaassen,h,6045,FromCorner,2020,RightFoot,14177,Werder Bremen,Hertha Berlin,1,4,2020-09-19 13:30:00,,None
+377413,38,SavedShot,0.7119999694824218,0.3729999923706055,0.013058540411293507,Davie Selke,h,4280,OpenPlay,2020,RightFoot,14177,Werder Bremen,Hertha Berlin,1,4,2020-09-19 13:30:00,Tahith Chong,BallTouch
+377417,48,SavedShot,0.7290000152587891,0.705,0.009656507521867752,Leonardo Bittencourt,h,262,OpenPlay,2020,RightFoot,14177,Werder Bremen,Hertha Berlin,1,4,2020-09-19 13:30:00,Joshua Sargent,Pass
+377418,52,SavedShot,0.7140000152587891,0.63,0.01386394165456295,Leonardo Bittencourt,h,262,OpenPlay,2020,RightFoot,14177,Werder Bremen,Hertha Berlin,1,4,2020-09-19 13:30:00,Maximilian Eggestein,TakeOn
+377421,68,Goal,0.9540000152587891,0.42700000762939455,0.07855381071567535,Davie Selke,h,4280,OpenPlay,2020,Head,14177,Werder Bremen,Hertha Berlin,1,4,2020-09-19 13:30:00,Ludwig Augustinsson,Aerial
+377424,73,MissedShots,0.9619999694824218,0.605,0.027241213247179985,Leonardo Bittencourt,h,262,OpenPlay,2020,Head,14177,Werder Bremen,Hertha Berlin,1,4,2020-09-19 13:30:00,Davie Selke,Chipped
+377425,77,BlockedShot,0.899000015258789,0.710999984741211,0.04891896992921829,Nick Woltemade,h,8117,OpenPlay,2020,RightFoot,14177,Werder Bremen,Hertha Berlin,1,4,2020-09-19 13:30:00,Ludwig Augustinsson,Pass
+377426,77,MissedShots,0.735999984741211,0.6129999923706054,0.011741535738110542,Maximilian Eggestein,h,125,OpenPlay,2020,RightFoot,14177,Werder Bremen,Hertha Berlin,1,4,2020-09-19 13:30:00,Leonardo Bittencourt,Pass
+377430,86,SavedShot,0.8590000152587891,0.47400001525878904,0.06141551584005356,Niclas Füllkrug,h,6098,OpenPlay,2020,RightFoot,14177,Werder Bremen,Hertha Berlin,1,4,2020-09-19 13:30:00,,None
+377431,87,MissedShots,0.9580000305175781,0.39799999237060546,0.01840243674814701,Niclas Füllkrug,h,6098,FromCorner,2020,Head,14177,Werder Bremen,Hertha Berlin,1,4,2020-09-19 13:30:00,Ludwig Augustinsson,Aerial
+377434,90,MissedShots,0.6919999694824219,0.485,0.010217266157269478,Nick Woltemade,h,8117,OpenPlay,2020,RightFoot,14177,Werder Bremen,Hertha Berlin,1,4,2020-09-19 13:30:00,Niclas Füllkrug,Pass
+377435,92,BlockedShot,0.850999984741211,0.3820000076293945,0.047766391187906265,Davie Selke,h,4280,OpenPlay,2020,RightFoot,14177,Werder Bremen,Hertha Berlin,1,4,2020-09-19 13:30:00,,None
+377436,93,MissedShots,0.85,0.45799999237060546,0.058146778494119644,Niclas Füllkrug,h,6098,OpenPlay,2020,RightFoot,14177,Werder Bremen,Hertha Berlin,1,4,2020-09-19 13:30:00,,None
+377410,18,ShotOnPost,0.884000015258789,0.47900001525878905,0.03405068442225456,Krzysztof Piatek,a,7090,OpenPlay,2020,Head,14177,Werder Bremen,Hertha Berlin,1,4,2020-09-19 13:30:00,Peter Pekarík,Aerial
+377414,41,Goal,0.9719999694824218,0.435,0.4757865071296692,Peter Pekarík,a,443,OpenPlay,2020,RightFoot,14177,Werder Bremen,Hertha Berlin,1,4,2020-09-19 13:30:00,Maximilian Mittelstädt,Cross
+377415,46,Goal,0.8830000305175781,0.6790000152587891,0.32501697540283203,Dodi Lukebakio,a,5706,OpenPlay,2020,LeftFoot,14177,Werder Bremen,Hertha Berlin,1,4,2020-09-19 13:30:00,Vladimir Darida,Throughball
+377416,46,MissedShots,0.6190000152587891,0.6819999694824219,0.022059127688407898,Matheus Cunha,a,7080,DirectFreekick,2020,RightFoot,14177,Werder Bremen,Hertha Berlin,1,4,2020-09-19 13:30:00,,Standard
+377419,56,SavedShot,0.8490000152587891,0.575,0.11145444214344025,Matheus Cunha,a,7080,OpenPlay,2020,LeftFoot,14177,Werder Bremen,Hertha Berlin,1,4,2020-09-19 13:30:00,Maximilian Mittelstädt,Pass
+377420,61,Goal,0.8690000152587891,0.6790000152587891,0.06841034442186356,Matheus Cunha,a,7080,OpenPlay,2020,RightFoot,14177,Werder Bremen,Hertha Berlin,1,4,2020-09-19 13:30:00,Vladimir Darida,Pass
+377422,70,SavedShot,0.8969999694824219,0.6969999694824218,0.25852102041244507,Jhon Córdoba,a,48,OpenPlay,2020,RightFoot,14177,Werder Bremen,Hertha Berlin,1,4,2020-09-19 13:30:00,Jordan Torunarigha,Pass
+377423,71,MissedShots,0.93,0.5179999923706055,0.20069491863250732,Dedryck Boyata,a,4468,FromCorner,2020,Head,14177,Werder Bremen,Hertha Berlin,1,4,2020-09-19 13:30:00,Dodi Lukebakio,Aerial
+377427,79,BlockedShot,0.8919999694824219,0.325,0.05691995471715927,Dodi Lukebakio,a,5706,OpenPlay,2020,LeftFoot,14177,Werder Bremen,Hertha Berlin,1,4,2020-09-19 13:30:00,Vladimir Darida,Cross
+377428,82,MissedShots,0.9230000305175782,0.5579999923706055,0.05282888561487198,Jhon Córdoba,a,48,SetPiece,2020,Head,14177,Werder Bremen,Hertha Berlin,1,4,2020-09-19 13:30:00,Matheus Cunha,Aerial
+377429,84,MissedShots,0.9259999847412109,0.42400001525878905,0.03590233251452446,Lucas Tousart,a,3743,FromCorner,2020,Head,14177,Werder Bremen,Hertha Berlin,1,4,2020-09-19 13:30:00,Maximilian Mittelstädt,Aerial
+377432,88,MissedShots,0.9209999847412109,0.3,0.13003619015216827,Jhon Córdoba,a,48,OpenPlay,2020,RightFoot,14177,Werder Bremen,Hertha Berlin,1,4,2020-09-19 13:30:00,Arne Maier,Throughball
+377433,89,Goal,0.8969999694824219,0.3729999923706055,0.2823772132396698,Jhon Córdoba,a,48,OpenPlay,2020,RightFoot,14177,Werder Bremen,Hertha Berlin,1,4,2020-09-19 13:30:00,Mathew Leckie,Pass

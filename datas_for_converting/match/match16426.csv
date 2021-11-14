@@ -1,0 +1,21 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+433166,17,BlockedShot,0.8430000305175781,0.6930000305175781,0.033909332007169724,Timo Werner,h,65,OpenPlay,2021,RightFoot,16426,Chelsea,Manchester City,0,1,2021-09-25 11:30:00,Antonio Rüdiger,Pass
+433178,65,BlockedShot,0.7730000305175782,0.27600000381469725,0.04799170419573784,Marcos Alonso,h,1621,DirectFreekick,2021,LeftFoot,16426,Chelsea,Manchester City,0,1,2021-09-25 11:30:00,,Standard
+433180,70,BlockedShot,0.8240000152587891,0.46099998474121096,0.058520521968603134,Mateo Kovacic,h,2254,OpenPlay,2021,RightFoot,16426,Chelsea,Manchester City,0,1,2021-09-25 11:30:00,Romelu Lukaku,Pass
+433183,84,BlockedShot,0.879000015258789,0.33,0.047130852937698364,Timo Werner,h,65,OpenPlay,2021,LeftFoot,16426,Chelsea,Manchester City,0,1,2021-09-25 11:30:00,César Azpilicueta,Chipped
+433184,88,MissedShots,0.4779999923706055,0.9780000305175781,0.0066493903286755085,Marcos Alonso,h,1621,OpenPlay,2021,LeftFoot,16426,Chelsea,Manchester City,0,1,2021-09-25 11:30:00,Antonio Rüdiger,Pass
+433165,2,MissedShots,0.905,0.5179999923706055,0.0712263435125351,Aymeric Laporte,a,2498,FromCorner,2021,Head,16426,Chelsea,Manchester City,0,1,2021-09-25 11:30:00,Phil Foden,Cross
+433167,30,BlockedShot,0.825999984741211,0.5220000076293946,0.07358867675065994,Kevin De Bruyne,a,447,OpenPlay,2021,LeftFoot,16426,Chelsea,Manchester City,0,1,2021-09-25 11:30:00,Kyle Walker,Pass
+433168,33,BlockedShot,0.7130000305175781,0.5579999923706055,0.015381932258605957,Rodri,a,2496,OpenPlay,2021,RightFoot,16426,Chelsea,Manchester City,0,1,2021-09-25 11:30:00,Jack Grealish,Pass
+433169,33,BlockedShot,0.9540000152587891,0.5670000076293945,0.055453624576330185,Rúben Dias,a,8961,FromCorner,2021,Head,16426,Chelsea,Manchester City,0,1,2021-09-25 11:30:00,Phil Foden,Aerial
+433170,38,MissedShots,0.7430000305175781,0.6930000305175781,0.013914797455072403,Kevin De Bruyne,a,447,OpenPlay,2021,RightFoot,16426,Chelsea,Manchester City,0,1,2021-09-25 11:30:00,Jack Grealish,Pass
+433171,40,MissedShots,0.8919999694824219,0.41900001525878905,0.08272122591733932,Gabriel Jesus,a,5543,OpenPlay,2021,LeftFoot,16426,Chelsea,Manchester City,0,1,2021-09-25 11:30:00,Phil Foden,Chipped
+433172,47,BlockedShot,0.794000015258789,0.5459999847412109,0.032489120960235596,Kevin De Bruyne,a,447,OpenPlay,2021,RightFoot,16426,Chelsea,Manchester City,0,1,2021-09-25 11:30:00,Bernardo Silva,Pass
+433173,47,MissedShots,0.8330000305175781,0.705999984741211,0.03137953579425812,Jack Grealish,a,675,OpenPlay,2021,RightFoot,16426,Chelsea,Manchester City,0,1,2021-09-25 11:30:00,Kevin De Bruyne,Pass
+433174,52,BlockedShot,0.774000015258789,0.620999984741211,0.026007531210780144,João Cancelo,a,2379,FromCorner,2021,LeftFoot,16426,Chelsea,Manchester City,0,1,2021-09-25 11:30:00,Kevin De Bruyne,Pass
+433175,52,Goal,0.8530000305175781,0.5220000076293946,0.05270230025053024,Gabriel Jesus,a,5543,FromCorner,2021,RightFoot,16426,Chelsea,Manchester City,0,1,2021-09-25 11:30:00,João Cancelo,BallTouch
+433176,57,SavedShot,0.904000015258789,0.720999984741211,0.05623750016093254,Jack Grealish,a,675,OpenPlay,2021,RightFoot,16426,Chelsea,Manchester City,0,1,2021-09-25 11:30:00,João Cancelo,TakeOn
+433177,60,BlockedShot,0.9030000305175782,0.40599998474121096,0.38815000653266907,Gabriel Jesus,a,5543,OpenPlay,2021,LeftFoot,16426,Chelsea,Manchester City,0,1,2021-09-25 11:30:00,,None
+433179,67,BlockedShot,0.8440000152587891,0.46099998474121096,0.08477549254894257,Kevin De Bruyne,a,447,OpenPlay,2021,LeftFoot,16426,Chelsea,Manchester City,0,1,2021-09-25 11:30:00,,None
+433181,78,MissedShots,0.9219999694824219,0.56,0.3583817481994629,Aymeric Laporte,a,2498,SetPiece,2021,LeftFoot,16426,Chelsea,Manchester City,0,1,2021-09-25 11:30:00,Kevin De Bruyne,Cross
+433182,82,SavedShot,0.86,0.5629999923706055,0.3500334322452545,Jack Grealish,a,675,OpenPlay,2021,RightFoot,16426,Chelsea,Manchester City,0,1,2021-09-25 11:30:00,Phil Foden,Throughball

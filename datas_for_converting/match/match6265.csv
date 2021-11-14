@@ -1,0 +1,28 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+13897,19,MissedShots,0.7430000305175781,0.6329999923706054,0.014981085434556007,Maksim Batov,h,3106,OpenPlay,2014,RightFoot,6265,Amkar,Rubin Kazan,0,3,2015-04-04 10:00:00,,None
+13899,24,BlockedShot,0.9619999694824218,0.395,0.3751690089702606,Igor Picusceac,h,4592,OpenPlay,2014,RightFoot,6265,Amkar,Rubin Kazan,0,3,2015-04-04 10:00:00,Aleksandr Kolomejtsev,Cross
+13900,40,MissedShots,0.8769999694824219,0.2879999923706055,0.03187000751495361,Fegor Ogude,h,2836,OpenPlay,2014,RightFoot,6265,Amkar,Rubin Kazan,0,3,2015-04-04 10:00:00,Igor Picusceac,Pass
+13901,42,SavedShot,0.875,0.40400001525878904,0.016208579763770103,Aleksandr Prudnikov,h,2841,OpenPlay,2014,Head,6265,Amkar,Rubin Kazan,0,3,2015-04-04 10:00:00,Fegor Ogude,Cross
+13904,53,BlockedShot,0.7430000305175781,0.44299999237060544,0.0542755164206028,Aleksandr Prudnikov,h,2841,DirectFreekick,2014,RightFoot,6265,Amkar,Rubin Kazan,0,3,2015-04-04 10:00:00,,Standard
+13908,64,BlockedShot,0.750999984741211,0.24899999618530275,0.012284092605113983,Bogdan Butko,h,2872,OpenPlay,2014,RightFoot,6265,Amkar,Rubin Kazan,0,3,2015-04-04 10:00:00,,None
+13909,64,OwnGoal,0.008999999761581421,0.485,0,Branko Jovicic,h,3082,OpenPlay,2014,RightFoot,6265,Amkar,Rubin Kazan,0,3,2015-04-04 10:00:00,,Rebound
+13910,66,SavedShot,0.9459999847412109,0.515,0.4670054018497467,Aleksandr Prudnikov,h,2841,OpenPlay,2014,Head,6265,Amkar,Rubin Kazan,0,3,2015-04-04 10:00:00,Bogdan Butko,Cross
+13911,69,MissedShots,0.7030000305175781,0.36900001525878906,0.007250176277011633,Branko Jovicic,h,3082,OpenPlay,2014,RightFoot,6265,Amkar,Rubin Kazan,0,3,2015-04-04 10:00:00,,None
+13912,79,BlockedShot,0.9619999694824218,0.6379999923706055,0.04158751294016838,Aleksandr Prudnikov,h,2841,OpenPlay,2014,LeftFoot,6265,Amkar,Rubin Kazan,0,3,2015-04-04 10:00:00,Branko Jovicic,Cross
+13919,88,BlockedShot,0.745,0.675,0.009370147250592709,Georgi Peev,h,3152,OpenPlay,2014,LeftFoot,6265,Amkar,Rubin Kazan,0,3,2015-04-04 10:00:00,Aleksandr Kolomejtsev,Pass
+13894,4,BlockedShot,0.82,0.49900001525878906,0.058198653161525726,Magomed Ozdoev,a,2968,OpenPlay,2014,RightFoot,6265,Amkar,Rubin Kazan,0,3,2015-04-04 10:00:00,Vladimir Dyadyun,Pass
+13895,6,MissedShots,0.9419999694824219,0.33,0.00850714836269617,Maksim Kanunnikov,a,2969,OpenPlay,2014,Head,6265,Amkar,Rubin Kazan,0,3,2015-04-04 10:00:00,Vladimir Dyadyun,Cross
+13896,13,MissedShots,0.6940000152587891,0.46900001525878904,0.014650862663984299,Maksim Kanunnikov,a,2969,OpenPlay,2014,RightFoot,6265,Amkar,Rubin Kazan,0,3,2015-04-04 10:00:00,Magomed Ozdoev,Pass
+13898,24,MissedShots,0.755,0.600999984741211,0.015869921073317528,Ruslan Kambolov,a,2975,FromCorner,2014,LeftFoot,6265,Amkar,Rubin Kazan,0,3,2015-04-04 10:00:00,,None
+13902,46,Goal,0.919000015258789,0.5509999847412109,0.3563826382160187,Igor Portnyagin,a,2970,OpenPlay,2014,Head,6265,Amkar,Rubin Kazan,0,3,2015-04-04 10:00:00,Maksim Kanunnikov,Aerial
+13903,50,MissedShots,0.9009999847412109,0.6020000076293945,0.14142470061779022,Vladimir Dyadyun,a,2974,OpenPlay,2014,RightFoot,6265,Amkar,Rubin Kazan,0,3,2015-04-04 10:00:00,,None
+13905,56,MissedShots,0.7090000152587891,0.37599998474121094,0.035023074597120285,Ruslan Kambolov,a,2975,DirectFreekick,2014,RightFoot,6265,Amkar,Rubin Kazan,0,3,2015-04-04 10:00:00,,Standard
+13906,63,BlockedShot,0.8809999847412109,0.3270000076293945,0.07827908545732498,Oleg Kuzmin,a,2963,OpenPlay,2014,RightFoot,6265,Amkar,Rubin Kazan,0,3,2015-04-04 10:00:00,Sergei Kislyak,Pass
+13907,63,MissedShots,0.8119999694824219,0.659000015258789,0.04507431015372276,Vladimir Dyadyun,a,2974,OpenPlay,2014,RightFoot,6265,Amkar,Rubin Kazan,0,3,2015-04-04 10:00:00,Maksim Kanunnikov,Pass
+13913,80,SavedShot,0.8580000305175781,0.7290000152587891,0.03276480734348297,Sergei Kislyak,a,2967,OpenPlay,2014,RightFoot,6265,Amkar,Rubin Kazan,0,3,2015-04-04 10:00:00,Carlos Eduardo,Pass
+13914,80,Goal,0.99,0.47900001525878905,0.9755142331123352,Igor Portnyagin,a,2970,OpenPlay,2014,RightFoot,6265,Amkar,Rubin Kazan,0,3,2015-04-04 10:00:00,,Rebound
+13915,82,MissedShots,0.9009999847412109,0.4829999923706055,0.08381140977144241,Elmir Nabiullin,a,2985,OpenPlay,2014,Head,6265,Amkar,Rubin Kazan,0,3,2015-04-04 10:00:00,Ilzat Akhmetov,Cross
+13916,82,SavedShot,0.95,0.6759999847412109,0.08826197683811188,Carlos Eduardo,a,3103,OpenPlay,2014,LeftFoot,6265,Amkar,Rubin Kazan,0,3,2015-04-04 10:00:00,Magomed Ozdoev,Pass
+13917,84,SavedShot,0.7380000305175781,0.48700000762939455,0.05307138338685036,Sergei Kislyak,a,2967,DirectFreekick,2014,RightFoot,6265,Amkar,Rubin Kazan,0,3,2015-04-04 10:00:00,,Standard
+13918,85,MissedShots,0.745999984741211,0.42,0.02820395678281784,Carlos Eduardo,a,3103,OpenPlay,2014,LeftFoot,6265,Amkar,Rubin Kazan,0,3,2015-04-04 10:00:00,Magomed Ozdoev,Pass
+13920,90,BlockedShot,0.745,0.4279999923706055,0.04568299651145935,Oleg Kuzmin,a,2963,OpenPlay,2014,RightFoot,6265,Amkar,Rubin Kazan,0,3,2015-04-04 10:00:00,,BallRecovery

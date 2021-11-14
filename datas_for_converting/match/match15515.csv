@@ -1,0 +1,26 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+389749,11,MissedShots,0.915,0.4759999847412109,0.05198543891310692,Simone Zaza,h,1642,OpenPlay,2020,Head,15515,Torino,Sampdoria,2,2,2020-11-30 17:30:00,Cristian Ansaldi,Aerial
+389750,16,MissedShots,0.9290000152587891,0.4520000076293945,0.06359720230102539,Simone Zaza,h,1642,OpenPlay,2020,Head,15515,Torino,Sampdoria,2,2,2020-11-30 17:30:00,Cristian Ansaldi,Aerial
+389751,24,Goal,0.9580000305175781,0.5379999923706055,0.6339595317840576,Andrea Belotti,h,1186,OpenPlay,2020,RightFoot,15515,Torino,Sampdoria,2,2,2020-11-30 17:30:00,Wilfried Stephane Singo,Pass
+389755,38,BlockedShot,0.825999984741211,0.6459999847412109,0.045076023787260056,Andrea Belotti,h,1186,OpenPlay,2020,RightFoot,15515,Torino,Sampdoria,2,2,2020-11-30 17:30:00,Soualiho Meité,Chipped
+389761,59,SavedShot,0.7859999847412109,0.26399999618530273,0.050845127552747726,Ricardo Rodríguez,h,308,DirectFreekick,2020,LeftFoot,15515,Torino,Sampdoria,2,2,2020-11-30 17:30:00,,Standard
+389763,63,SavedShot,0.875999984741211,0.4779999923706055,0.07995164394378662,Simone Zaza,h,1642,OpenPlay,2020,LeftFoot,15515,Torino,Sampdoria,2,2,2020-11-30 17:30:00,Wilfried Stephane Singo,Cross
+389764,65,BlockedShot,0.905,0.36400001525878906,0.05710771307349205,Andrea Belotti,h,1186,OpenPlay,2020,RightFoot,15515,Torino,Sampdoria,2,2,2020-11-30 17:30:00,Wilfried Stephane Singo,Cross
+389765,75,SavedShot,0.9469999694824218,0.34,0.27400869131088257,Soualiho Meité,h,3739,OpenPlay,2020,RightFoot,15515,Torino,Sampdoria,2,2,2020-11-30 17:30:00,Andrea Belotti,Chipped
+389766,76,Goal,0.955999984741211,0.44599998474121094,0.12653809785842896,Soualiho Meité,h,3739,FromCorner,2020,Head,15515,Torino,Sampdoria,2,2,2020-11-30 17:30:00,Simone Verdi,Cross
+389767,78,MissedShots,0.855999984741211,0.620999984741211,0.06533876806497574,Simone Verdi,h,1445,OpenPlay,2020,RightFoot,15515,Torino,Sampdoria,2,2,2020-11-30 17:30:00,Tomás Rincón,BallTouch
+389768,79,BlockedShot,0.8690000152587891,0.24399999618530274,0.027022676542401314,Wilfried Stephane Singo,h,7472,OpenPlay,2020,RightFoot,15515,Torino,Sampdoria,2,2,2020-11-30 17:30:00,Simone Zaza,Pass
+389769,79,SavedShot,0.8580000305175781,0.24200000762939453,0.018687216565012932,Simone Verdi,h,1445,FromCorner,2020,LeftFoot,15515,Torino,Sampdoria,2,2,2020-11-30 17:30:00,,None
+389770,79,SavedShot,0.9290000152587891,0.620999984741211,0.08267631381750107,Lyanco,h,6252,FromCorner,2020,LeftFoot,15515,Torino,Sampdoria,2,2,2020-11-30 17:30:00,,Rebound
+389773,91,MissedShots,0.9209999847412109,0.40900001525878904,0.063377745449543,Simone Zaza,h,1642,SetPiece,2020,Head,15515,Torino,Sampdoria,2,2,2020-11-30 17:30:00,Simone Verdi,Cross
+389752,29,BlockedShot,0.774000015258789,0.59,0.011939276941120625,Albin Ekdal,a,411,OpenPlay,2020,RightFoot,15515,Torino,Sampdoria,2,2,2020-11-30 17:30:00,,Aerial
+389753,36,BlockedShot,0.855999984741211,0.6179999923706054,0.055893395096063614,Antonio Candreva,a,1517,OpenPlay,2020,RightFoot,15515,Torino,Sampdoria,2,2,2020-11-30 17:30:00,Fabio Quagliarella,Pass
+389754,36,MissedShots,0.92,0.6780000305175782,0.05125540867447853,Fabio Quagliarella,a,1230,OpenPlay,2020,LeftFoot,15515,Torino,Sampdoria,2,2,2020-11-30 17:30:00,,None
+389756,40,MissedShots,0.9330000305175781,0.5109999847412109,0.40948137640953064,Fabio Quagliarella,a,1230,OpenPlay,2020,Head,15515,Torino,Sampdoria,2,2,2020-11-30 17:30:00,Antonio Candreva,Cross
+389757,41,MissedShots,0.715,0.34200000762939453,0.0155662065371871,Antonio Candreva,a,1517,OpenPlay,2020,RightFoot,15515,Torino,Sampdoria,2,2,2020-11-30 17:30:00,Morten Thorsby,Pass
+389758,44,MissedShots,0.9109999847412109,0.68,0.048103321343660355,Valerio Verre,a,1569,OpenPlay,2020,LeftFoot,15515,Torino,Sampdoria,2,2,2020-11-30 17:30:00,Morten Thorsby,HeadPass
+389759,45,MissedShots,0.9490000152587891,0.34700000762939454,0.05621412396430969,Antonio Candreva,a,1517,OpenPlay,2020,RightFoot,15515,Torino,Sampdoria,2,2,2020-11-30 17:30:00,Fabio Quagliarella,Chipped
+389760,53,Goal,0.91,0.629000015258789,0.3582684099674225,Antonio Candreva,a,1517,OpenPlay,2020,LeftFoot,15515,Torino,Sampdoria,2,2,2020-11-30 17:30:00,,None
+389762,62,Goal,0.8969999694824219,0.5,0.3136301636695862,Fabio Quagliarella,a,1230,OpenPlay,2020,RightFoot,15515,Torino,Sampdoria,2,2,2020-11-30 17:30:00,Antonio Candreva,Chipped
+389771,81,MissedShots,0.705999984741211,0.53,0.01764114573597908,Mikkel Damsgaard,a,8859,OpenPlay,2020,RightFoot,15515,Torino,Sampdoria,2,2,2020-11-30 17:30:00,Morten Thorsby,Pass
+389772,87,MissedShots,0.8369999694824218,0.33799999237060546,0.0425843819975853,Manolo Gabbiadini,a,1383,OpenPlay,2020,LeftFoot,15515,Torino,Sampdoria,2,2,2020-11-30 17:30:00,Mikkel Damsgaard,Pass

@@ -1,0 +1,27 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+287435,11,BlockedShot,0.924000015258789,0.46900001525878904,0.05046834051609039,Ewerton,h,7213,FromCorner,2018,Head,10575,Nuernberg,Augsburg,3,0,2019-03-30 14:30:00,Sebastian Kerk,Aerial
+287436,12,MissedShots,0.9619999694824218,0.649000015258789,0.037429142743349075,Lukas Mühl,h,7032,FromCorner,2018,LeftFoot,10575,Nuernberg,Augsburg,3,0,2019-03-30 14:30:00,Sebastian Kerk,Cross
+287437,14,SavedShot,0.8969999694824219,0.5720000076293945,0.04957268759608269,Sebastian Kerk,h,4346,OpenPlay,2018,Head,10575,Nuernberg,Augsburg,3,0,2019-03-30 14:30:00,Hanno Behrens,HeadPass
+287444,43,MissedShots,0.685,0.4,0.012946167029440403,Sebastian Kerk,h,4346,OpenPlay,2018,LeftFoot,10575,Nuernberg,Augsburg,3,0,2019-03-30 14:30:00,Robert Bauer,Pass
+287445,45,MissedShots,0.91,0.4909999847412109,0.03568344935774803,Ewerton,h,7213,FromCorner,2018,Head,10575,Nuernberg,Augsburg,3,0,2019-03-30 14:30:00,Sebastian Kerk,Aerial
+287446,45,MissedShots,0.8069999694824219,0.49599998474121093,0.02747030183672905,Sebastian Kerk,h,4346,OpenPlay,2018,RightFoot,10575,Nuernberg,Augsburg,3,0,2019-03-30 14:30:00,Yuya Kubo,Cross
+287448,51,Goal,0.9819999694824219,0.5520000076293945,0.6075707077980042,Mikael Ishak,h,7038,SetPiece,2018,RightFoot,10575,Nuernberg,Augsburg,3,0,2019-03-30 14:30:00,Sebastian Kerk,Cross
+287449,56,MissedShots,0.76,0.6270000076293946,0.0271331537514925,Yuya Kubo,h,7039,OpenPlay,2018,RightFoot,10575,Nuernberg,Augsburg,3,0,2019-03-30 14:30:00,Sebastian Kerk,Pass
+287453,71,BlockedShot,0.855999984741211,0.38799999237060545,0.08021215349435806,Yuya Kubo,h,7039,OpenPlay,2018,RightFoot,10575,Nuernberg,Augsburg,3,0,2019-03-30 14:30:00,,None
+287458,87,Goal,0.874000015258789,0.6869999694824219,0.43893373012542725,Matheus Pereira,h,7153,OpenPlay,2018,LeftFoot,10575,Nuernberg,Augsburg,3,0,2019-03-30 14:30:00,Tim Leibold,Throughball
+287459,90,Goal,0.884000015258789,0.3940000152587891,0.40158870816230774,Eduard Löwen,h,7043,OpenPlay,2018,RightFoot,10575,Nuernberg,Augsburg,3,0,2019-03-30 14:30:00,Patrick Erras,TakeOn
+287434,1,MissedShots,0.72,0.46700000762939453,0.049155861139297485,Michael Gregoritsch,a,171,DirectFreekick,2018,LeftFoot,10575,Nuernberg,Augsburg,3,0,2019-03-30 14:30:00,,Standard
+287438,14,BlockedShot,0.8909999847412109,0.555,0.03481241315603256,Alfred Finnbogason,a,2655,OpenPlay,2018,Head,10575,Nuernberg,Augsburg,3,0,2019-03-30 14:30:00,André Hahn,Aerial
+287439,16,SavedShot,0.755,0.6990000152587891,0.015318586491048336,Daniel Baier,a,268,OpenPlay,2018,RightFoot,10575,Nuernberg,Augsburg,3,0,2019-03-30 14:30:00,,BallTouch
+287440,17,MissedShots,0.765,0.415,0.03188285604119301,Jeffrey Gouweleeuw,a,2665,FromCorner,2018,RightFoot,10575,Nuernberg,Augsburg,3,0,2019-03-30 14:30:00,Daniel Baier,Pass
+287441,23,BlockedShot,0.9,0.534000015258789,0.09327908605337143,Michael Gregoritsch,a,171,OpenPlay,2018,LeftFoot,10575,Nuernberg,Augsburg,3,0,2019-03-30 14:30:00,,None
+287442,28,BlockedShot,0.9009999847412109,0.519000015258789,0.09258552640676498,Philipp Max,a,267,OpenPlay,2018,LeftFoot,10575,Nuernberg,Augsburg,3,0,2019-03-30 14:30:00,André Hahn,Cross
+287443,28,SavedShot,0.875,0.51,0.07351307570934296,Philipp Max,a,267,OpenPlay,2018,LeftFoot,10575,Nuernberg,Augsburg,3,0,2019-03-30 14:30:00,Dong-Won Ji,HeadPass
+287447,47,BlockedShot,0.895,0.45099998474121095,0.09183929115533829,Michael Gregoritsch,a,171,OpenPlay,2018,RightFoot,10575,Nuernberg,Augsburg,3,0,2019-03-30 14:30:00,,None
+287450,60,SavedShot,0.695,0.5420000076293945,0.01079994160681963,Daniel Baier,a,268,OpenPlay,2018,RightFoot,10575,Nuernberg,Augsburg,3,0,2019-03-30 14:30:00,,None
+287451,60,MissedShots,0.93,0.4640000152587891,0.11537864059209824,Michael Gregoritsch,a,171,FromCorner,2018,Head,10575,Nuernberg,Augsburg,3,0,2019-03-30 14:30:00,Philipp Max,Cross
+287452,65,BlockedShot,0.9330000305175781,0.29200000762939454,0.040107034146785736,Ja-Cheol Koo,a,271,FromCorner,2018,LeftFoot,10575,Nuernberg,Augsburg,3,0,2019-03-30 14:30:00,Philipp Max,Pass
+287454,74,BlockedShot,0.7619999694824219,0.4759999847412109,0.024466434493660927,Marco Richter,a,6357,OpenPlay,2018,LeftFoot,10575,Nuernberg,Augsburg,3,0,2019-03-30 14:30:00,Michael Gregoritsch,BallRecovery
+287455,75,MissedShots,0.754000015258789,0.5220000076293946,0.01838037371635437,Daniel Baier,a,268,FromCorner,2018,RightFoot,10575,Nuernberg,Augsburg,3,0,2019-03-30 14:30:00,,None
+287456,85,MissedShots,0.93,0.46299999237060546,0.12066997587680817,Michael Gregoritsch,a,171,OpenPlay,2018,Head,10575,Nuernberg,Augsburg,3,0,2019-03-30 14:30:00,Philipp Max,Cross
+287457,86,BlockedShot,0.815,0.545,0.05568467453122139,Michael Gregoritsch,a,171,OpenPlay,2018,LeftFoot,10575,Nuernberg,Augsburg,3,0,2019-03-30 14:30:00,Philipp Max,Pass

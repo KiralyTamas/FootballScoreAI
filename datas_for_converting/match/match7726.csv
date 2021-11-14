@@ -1,0 +1,23 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+195745,7,SavedShot,0.7480000305175781,0.425,0.020641673356294632,Sami Khedira,h,1292,OpenPlay,2017,RightFoot,7726,Juventus,Sassuolo,7,0,2018-02-04 14:00:00,Mario Mandzukic,Pass
+195746,8,MissedShots,0.885,0.6409999847412109,0.013833285309374332,Alex Sandro,h,1289,FromCorner,2017,Head,7726,Juventus,Sassuolo,7,0,2018-02-04 14:00:00,Federico Bernardeschi,Cross
+195747,8,Goal,0.909000015258789,0.6179999923706054,0.20412544906139374,Alex Sandro,h,1289,FromCorner,2017,LeftFoot,7726,Juventus,Sassuolo,7,0,2018-02-04 14:00:00,,BallTouch
+195748,9,MissedShots,0.7880000305175782,0.3139999961853027,0.022530879825353622,Mattia De Sciglio,h,1120,OpenPlay,2017,LeftFoot,7726,Juventus,Sassuolo,7,0,2018-02-04 14:00:00,Sami Khedira,Pass
+195749,23,Goal,0.9730000305175781,0.534000015258789,0.609771192073822,Sami Khedira,h,1292,FromCorner,2017,RightFoot,7726,Juventus,Sassuolo,7,0,2018-02-04 14:00:00,Alex Sandro,HeadPass
+195750,26,Goal,0.9019999694824219,0.36400001525878906,0.40673622488975525,Sami Khedira,h,1292,OpenPlay,2017,RightFoot,7726,Juventus,Sassuolo,7,0,2018-02-04 14:00:00,Miralem Pjanic,Throughball
+195752,33,MissedShots,0.7919999694824219,0.27100000381469724,0.05506129562854767,Federico Bernardeschi,h,1424,DirectFreekick,2017,LeftFoot,7726,Juventus,Sassuolo,7,0,2018-02-04 14:00:00,,Standard
+195755,37,Goal,0.779000015258789,0.5770000076293945,0.048863381147384644,Miralem Pjanic,h,1290,OpenPlay,2017,RightFoot,7726,Juventus,Sassuolo,7,0,2018-02-04 14:00:00,Sami Khedira,LayOff
+195756,39,MissedShots,0.865999984741211,0.6609999847412109,0.05840986967086792,Gonzalo Higuaín,h,1293,OpenPlay,2017,LeftFoot,7726,Juventus,Sassuolo,7,0,2018-02-04 14:00:00,,None
+195757,45,BlockedShot,0.8230000305175781,0.2520000076293945,0.037642914801836014,Federico Bernardeschi,h,1424,OpenPlay,2017,LeftFoot,7726,Juventus,Sassuolo,7,0,2018-02-04 14:00:00,Sami Khedira,Pass
+195758,46,SavedShot,0.825999984741211,0.66,0.060203392058610916,Federico Bernardeschi,h,1424,OpenPlay,2017,LeftFoot,7726,Juventus,Sassuolo,7,0,2018-02-04 14:00:00,Miralem Pjanic,Pass
+195759,59,SavedShot,0.830999984741211,0.3160000038146973,0.07360869646072388,Federico Bernardeschi,h,1424,OpenPlay,2017,LeftFoot,7726,Juventus,Sassuolo,7,0,2018-02-04 14:00:00,Miralem Pjanic,Chipped
+195760,62,Goal,0.8590000152587891,0.3529999923706055,0.08642710000276566,Gonzalo Higuaín,h,1293,OpenPlay,2017,RightFoot,7726,Juventus,Sassuolo,7,0,2018-02-04 14:00:00,Federico Bernardeschi,Pass
+195761,68,MissedShots,0.7869999694824219,0.509000015258789,0.034582238644361496,Federico Bernardeschi,h,1424,OpenPlay,2017,LeftFoot,7726,Juventus,Sassuolo,7,0,2018-02-04 14:00:00,,None
+195762,73,Goal,0.9569999694824218,0.6509999847412109,0.4661060869693756,Gonzalo Higuaín,h,1293,OpenPlay,2017,LeftFoot,7726,Juventus,Sassuolo,7,0,2018-02-04 14:00:00,Claudio Marchisio,TakeOn
+195763,75,MissedShots,0.7819999694824219,0.3970000076293945,0.04948556795716286,Gonzalo Higuaín,h,1293,OpenPlay,2017,RightFoot,7726,Juventus,Sassuolo,7,0,2018-02-04 14:00:00,Alex Sandro,TakeOn
+195764,82,Goal,0.9590000152587891,0.35700000762939454,0.4152798056602478,Gonzalo Higuaín,h,1293,OpenPlay,2017,RightFoot,7726,Juventus,Sassuolo,7,0,2018-02-04 14:00:00,Federico Bernardeschi,Throughball
+195751,32,MissedShots,0.9069999694824219,0.34900001525878904,0.00805619265884161,Mauricio Lemos,a,2354,SetPiece,2017,Head,7726,Juventus,Sassuolo,7,0,2018-02-04 14:00:00,Francesco Magnanelli,Aerial
+195753,35,SavedShot,0.9459999847412109,0.2989999961853027,0.0372639037668705,Pol Lirola,a,1461,OpenPlay,2017,RightFoot,7726,Juventus,Sassuolo,7,0,2018-02-04 14:00:00,,None
+195754,36,MissedShots,0.84,0.6329999923706054,0.0558956116437912,Matteo Politano,a,1473,OpenPlay,2017,LeftFoot,7726,Juventus,Sassuolo,7,0,2018-02-04 14:00:00,Alfred Duncan,Pass
+195765,85,BlockedShot,0.845999984741211,0.53,0.09367983043193817,Antonino Ragusa,a,1481,OpenPlay,2017,RightFoot,7726,Juventus,Sassuolo,7,0,2018-02-04 14:00:00,Davide Biondini,Pass
+195766,89,MissedShots,0.9159999847412109,0.66,0.03938163071870804,Alfred Duncan,a,1474,OpenPlay,2017,LeftFoot,7726,Juventus,Sassuolo,7,0,2018-02-04 14:00:00,Antonino Ragusa,Cross

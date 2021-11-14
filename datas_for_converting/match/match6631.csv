@@ -1,0 +1,25 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+198960,0,MissedShots,0.8690000152587891,0.6,0.0721910148859024,Viktor Claesson,h,5478,OpenPlay,2017,RightFoot,6631,FC Krasnodar,FC Rostov,3,1,2018-03-03 16:00:00,Fedor Smolov,Chipped
+198964,23,MissedShots,0.750999984741211,0.41,0.018790042027831078,Roman Shishkin,h,2704,OpenPlay,2017,RightFoot,6631,FC Krasnodar,FC Rostov,3,1,2018-03-03 16:00:00,,None
+198965,27,Goal,0.8519999694824218,0.675,0.04253330081701279,Fedor Smolov,h,2925,OpenPlay,2017,RightFoot,6631,FC Krasnodar,FC Rostov,3,1,2018-03-03 16:00:00,,None
+198966,32,MissedShots,0.7909999847412109,0.6,0.037814751267433167,Sergei Petrov,h,2920,OpenPlay,2017,LeftFoot,6631,FC Krasnodar,FC Rostov,3,1,2018-03-03 16:00:00,Fedor Smolov,Pass
+198968,37,MissedShots,0.8830000305175781,0.5990000152587891,0.3305991291999817,Mauricio Pereyra,h,2922,OpenPlay,2017,LeftFoot,6631,FC Krasnodar,FC Rostov,3,1,2018-03-03 16:00:00,Fedor Smolov,Pass
+198970,48,BlockedShot,0.705999984741211,0.754000015258789,0.026954153552651405,Fedor Smolov,h,2925,DirectFreekick,2017,RightFoot,6631,FC Krasnodar,FC Rostov,3,1,2018-03-03 16:00:00,,Standard
+198972,59,Goal,0.885,0.5,0.7542753219604492,Fedor Smolov,h,2925,Penalty,2017,RightFoot,6631,FC Krasnodar,FC Rostov,3,1,2018-03-03 16:00:00,,Standard
+198974,63,MissedShots,0.875,0.5120000076293946,0.02376513183116913,Roman Shishkin,h,2704,FromCorner,2017,Head,6631,FC Krasnodar,FC Rostov,3,1,2018-03-03 16:00:00,Mauricio Pereyra,Cross
+198977,82,MissedShots,0.7290000152587891,0.6229999923706054,0.021325843408703804,Joãozinho,h,2928,OpenPlay,2017,LeftFoot,6631,FC Krasnodar,FC Rostov,3,1,2018-03-03 16:00:00,Oleg Shatov,Pass
+198978,87,BlockedShot,0.7719999694824219,0.4129999923706055,0.023974254727363586,Joãozinho,h,2928,OpenPlay,2017,LeftFoot,6631,FC Krasnodar,FC Rostov,3,1,2018-03-03 16:00:00,Pavel Mamaev,Pass
+198980,88,Goal,0.9390000152587891,0.395,0.5388662815093994,Pavel Mamaev,h,2924,OpenPlay,2017,RightFoot,6631,FC Krasnodar,FC Rostov,3,1,2018-03-03 16:00:00,Andreas Granqvist,Pass
+198981,93,BlockedShot,0.750999984741211,0.5820000076293945,0.02925368770956993,Fedor Smolov,h,2925,OpenPlay,2017,LeftFoot,6631,FC Krasnodar,FC Rostov,3,1,2018-03-03 16:00:00,Viktor Claesson,Pass
+198961,5,BlockedShot,0.93,0.3729999923706055,0.07172823697328568,Sverrir Ingi Ingason,a,5104,OpenPlay,2017,RightFoot,6631,FC Krasnodar,FC Rostov,3,1,2018-03-03 16:00:00,Björn Sigurdarson,HeadPass
+198962,5,SavedShot,0.97,0.3,0.03364573046565056,Dmitrii Skopintcev,a,5526,FromCorner,2017,RightFoot,6631,FC Krasnodar,FC Rostov,3,1,2018-03-03 16:00:00,Eldor Shomurodov,TakeOn
+198963,7,MissedShots,0.874000015258789,0.40299999237060546,0.016407661139965057,Björn Sigurdarson,a,6599,OpenPlay,2017,Head,6631,FC Krasnodar,FC Rostov,3,1,2018-03-03 16:00:00,Ayaz Guliev,Cross
+198967,34,SavedShot,0.74,0.6569999694824219,0.011455530300736427,Sergey Parshivlyuk,a,2828,OpenPlay,2017,RightFoot,6631,FC Krasnodar,FC Rostov,3,1,2018-03-03 16:00:00,Ayaz Guliev,TakeOn
+198969,44,Goal,0.885,0.5,0.7542753219604492,Aleksey Ionov,a,2751,Penalty,2017,RightFoot,6631,FC Krasnodar,FC Rostov,3,1,2018-03-03 16:00:00,,Standard
+198971,54,BlockedShot,0.7190000152587891,0.4879999923706055,0.014704052358865738,Ayaz Guliev,a,5444,SetPiece,2017,RightFoot,6631,FC Krasnodar,FC Rostov,3,1,2018-03-03 16:00:00,Eldor Shomurodov,Pass
+198973,61,MissedShots,0.860999984741211,0.4129999923706055,0.01371087972074747,Björn Sigurdarson,a,6599,OpenPlay,2017,Head,6631,FC Krasnodar,FC Rostov,3,1,2018-03-03 16:00:00,Sergey Parshivlyuk,Cross
+198975,66,MissedShots,0.7809999847412109,0.63,0.018653500825166702,Dmitrii Skopintcev,a,5526,OpenPlay,2017,LeftFoot,6631,FC Krasnodar,FC Rostov,3,1,2018-03-03 16:00:00,,TakeOn
+198976,67,MissedShots,0.7780000305175782,0.6140000152587891,0.02113671600818634,Ayaz Guliev,a,5444,OpenPlay,2017,RightFoot,6631,FC Krasnodar,FC Rostov,3,1,2018-03-03 16:00:00,Björn Sigurdarson,Pass
+198979,87,BlockedShot,0.7709999847412109,0.455,0.03134629875421524,Aleksandr Zuev,a,2826,OpenPlay,2017,RightFoot,6631,FC Krasnodar,FC Rostov,3,1,2018-03-03 16:00:00,Aleksey Ionov,Pass
+198982,93,BlockedShot,0.7719999694824219,0.325,0.04898029938340187,Björn Sigurdarson,a,6599,OpenPlay,2017,LeftFoot,6631,FC Krasnodar,FC Rostov,3,1,2018-03-03 16:00:00,Aleksey Ionov,Pass
+198983,93,MissedShots,0.740999984741211,0.629000015258789,0.010521171614527702,Aleksandru Gatcan,a,3024,OpenPlay,2017,RightFoot,6631,FC Krasnodar,FC Rostov,3,1,2018-03-03 16:00:00,Aleksandr Zuev,Pass

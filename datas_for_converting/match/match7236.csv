@@ -1,0 +1,29 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+161489,4,MissedShots,0.8730000305175781,0.6020000076293945,0.09373749792575836,Alexandre Lacazette,h,3277,OpenPlay,2017,RightFoot,7236,Arsenal,Tottenham,2,0,2017-11-18 12:30:00,Alexis Sánchez,Pass
+161492,28,BlockedShot,0.784000015258789,0.51,0.024422165006399155,Granit Xhaka,h,204,FromCorner,2017,LeftFoot,7236,Arsenal,Tottenham,2,0,2017-11-18 12:30:00,,None
+161495,35,Goal,0.9,0.46799999237060547,0.0347914844751358,Shkodran Mustafi,h,1699,SetPiece,2017,Head,7236,Arsenal,Tottenham,2,0,2017-11-18 12:30:00,Mesut Özil,Aerial
+161496,40,Goal,0.985999984741211,0.4370000076293945,0.6301852464675903,Alexis Sánchez,h,498,OpenPlay,2017,RightFoot,7236,Arsenal,Tottenham,2,0,2017-11-18 12:30:00,Alexandre Lacazette,Pass
+161502,69,MissedShots,0.8209999847412109,0.6790000152587891,0.04990989342331886,Alexis Sánchez,h,498,OpenPlay,2017,RightFoot,7236,Arsenal,Tottenham,2,0,2017-11-18 12:30:00,Aaron Ramsey,Pass
+161503,70,SavedShot,0.8230000305175781,0.44299999237060544,0.08599894493818283,Alexis Sánchez,h,498,OpenPlay,2017,RightFoot,7236,Arsenal,Tottenham,2,0,2017-11-18 12:30:00,Mesut Özil,Pass
+161504,75,SavedShot,0.98,0.5990000152587891,0.37567102909088135,Alexis Sánchez,h,498,OpenPlay,2017,RightFoot,7236,Arsenal,Tottenham,2,0,2017-11-18 12:30:00,Mesut Özil,TakeOn
+161507,83,BlockedShot,0.8680000305175781,0.3390000152587891,0.10834112763404846,Héctor Bellerín,h,492,OpenPlay,2017,RightFoot,7236,Arsenal,Tottenham,2,0,2017-11-18 12:30:00,Mesut Özil,Pass
+161509,86,BlockedShot,0.894000015258789,0.605999984741211,0.12666907906532288,Alex Iwobi,h,500,OpenPlay,2017,RightFoot,7236,Arsenal,Tottenham,2,0,2017-11-18 12:30:00,Alexis Sánchez,Pass
+161510,87,BlockedShot,0.8719999694824219,0.6569999694824219,0.08672023564577103,Sead Kolasinac,h,342,OpenPlay,2017,LeftFoot,7236,Arsenal,Tottenham,2,0,2017-11-18 12:30:00,Alex Iwobi,Pass
+161511,89,BlockedShot,0.754000015258789,0.5129999923706055,0.026383671909570694,Alexis Sánchez,h,498,OpenPlay,2017,RightFoot,7236,Arsenal,Tottenham,2,0,2017-11-18 12:30:00,,TakeOn
+161512,90,MissedShots,0.7269999694824218,0.34700000762939454,0.04061437025666237,Granit Xhaka,h,204,DirectFreekick,2017,LeftFoot,7236,Arsenal,Tottenham,2,0,2017-11-18 12:30:00,,Standard
+161513,91,SavedShot,0.9330000305175781,0.6020000076293945,0.5104955434799194,Alexis Sánchez,h,498,OpenPlay,2017,RightFoot,7236,Arsenal,Tottenham,2,0,2017-11-18 12:30:00,Francis Coquelin,Chipped
+161514,92,MissedShots,0.8159999847412109,0.634000015258789,0.04852444306015968,Alex Iwobi,h,500,OpenPlay,2017,RightFoot,7236,Arsenal,Tottenham,2,0,2017-11-18 12:30:00,Alexis Sánchez,Pass
+161490,5,SavedShot,0.9019999694824219,0.685,0.05369020998477936,Harry Kane,a,647,OpenPlay,2017,RightFoot,7236,Arsenal,Tottenham,2,0,2017-11-18 12:30:00,,None
+161491,15,MissedShots,0.9,0.34,0.07164641469717026,Dele Alli,a,645,OpenPlay,2017,RightFoot,7236,Arsenal,Tottenham,2,0,2017-11-18 12:30:00,Moussa Sissoko,TakeOn
+161493,32,MissedShots,0.8640000152587891,0.655,0.06074061989784241,Christian Eriksen,a,646,OpenPlay,2017,RightFoot,7236,Arsenal,Tottenham,2,0,2017-11-18 12:30:00,Ben Davies,Pass
+161494,33,SavedShot,0.875999984741211,0.549000015258789,0.034983761608600616,Harry Kane,a,647,OpenPlay,2017,Head,7236,Arsenal,Tottenham,2,0,2017-11-18 12:30:00,Moussa Sissoko,Cross
+161497,43,MissedShots,0.784000015258789,0.4620000076293945,0.05126481503248215,Harry Kane,a,647,OpenPlay,2017,RightFoot,7236,Arsenal,Tottenham,2,0,2017-11-18 12:30:00,Jan Vertonghen,TakeOn
+161498,48,MissedShots,0.894000015258789,0.42200000762939455,0.023459620773792267,Harry Kane,a,647,OpenPlay,2017,Head,7236,Arsenal,Tottenham,2,0,2017-11-18 12:30:00,Mousa Dembélé,Chipped
+161499,55,MissedShots,0.7980000305175782,0.5640000152587891,0.03893925994634628,Dele Alli,a,645,OpenPlay,2017,RightFoot,7236,Arsenal,Tottenham,2,0,2017-11-18 12:30:00,Harry Kane,LayOff
+161500,55,BlockedShot,0.91,0.3629999923706055,0.0835239365696907,Harry Kane,a,647,OpenPlay,2017,RightFoot,7236,Arsenal,Tottenham,2,0,2017-11-18 12:30:00,Christian Eriksen,Pass
+161501,62,MissedShots,0.795,0.715,0.013159690424799919,Christian Eriksen,a,646,OpenPlay,2017,RightFoot,7236,Arsenal,Tottenham,2,0,2017-11-18 12:30:00,Ben Davies,Pass
+161505,77,SavedShot,0.7290000152587891,0.6170000076293946,0.01185624673962593,Christian Eriksen,a,646,OpenPlay,2017,LeftFoot,7236,Arsenal,Tottenham,2,0,2017-11-18 12:30:00,Fernando Llorente,Pass
+161506,80,SavedShot,0.9580000305175781,0.40099998474121096,0.022793710231781006,Eric Dier,a,643,FromCorner,2017,Head,7236,Arsenal,Tottenham,2,0,2017-11-18 12:30:00,Ben Davies,Aerial
+161508,84,MissedShots,0.8730000305175781,0.5770000076293945,0.06028606370091438,Son Heung-Min,a,453,OpenPlay,2017,RightFoot,7236,Arsenal,Tottenham,2,0,2017-11-18 12:30:00,Fernando Llorente,HeadPass
+161515,93,BlockedShot,0.84,0.5279999923706055,0.05161431431770325,Son Heung-Min,a,453,OpenPlay,2017,LeftFoot,7236,Arsenal,Tottenham,2,0,2017-11-18 12:30:00,,None
+161516,93,MissedShots,0.885,0.5659999847412109,0.013233236968517303,Davinson Sánchez,a,6249,FromCorner,2017,Head,7236,Arsenal,Tottenham,2,0,2017-11-18 12:30:00,Christian Eriksen,Aerial

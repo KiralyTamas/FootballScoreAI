@@ -1,0 +1,22 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+212218,2,MissedShots,0.8480000305175781,0.3940000152587891,0.058779604732990265,Dawid Kownacki,h,6190,OpenPlay,2017,LeftFoot,7839,Sampdoria,Cagliari,4,1,2018-04-29 13:00:00,,None
+212219,6,Goal,0.8540000152587891,0.475,0.35739290714263916,Dennis Praet,h,1234,OpenPlay,2017,RightFoot,7839,Sampdoria,Cagliari,4,1,2018-04-29 13:00:00,Fabio Quagliarella,TakeOn
+212220,20,MissedShots,0.73,0.35200000762939454,0.01791238598525524,Edgar Barreto,h,1225,OpenPlay,2017,RightFoot,7839,Sampdoria,Cagliari,4,1,2018-04-29 13:00:00,Dennis Praet,Pass
+212221,21,BlockedShot,0.9590000152587891,0.6020000076293945,0.13433989882469177,Fabio Quagliarella,h,1230,OpenPlay,2017,LeftFoot,7839,Sampdoria,Cagliari,4,1,2018-04-29 13:00:00,Dawid Kownacki,Pass
+212222,25,Goal,0.965,0.49,0.769593358039856,Fabio Quagliarella,h,1230,OpenPlay,2017,RightFoot,7839,Sampdoria,Cagliari,4,1,2018-04-29 13:00:00,Karol Linetty,Pass
+212223,31,MissedShots,0.8530000305175781,0.645,0.09605763107538223,Fabio Quagliarella,h,1230,OpenPlay,2017,RightFoot,7839,Sampdoria,Cagliari,4,1,2018-04-29 13:00:00,Lucas Torreira,Chipped
+212225,41,ShotOnPost,0.885,0.5,0.7612988352775574,Fabio Quagliarella,h,1230,Penalty,2017,RightFoot,7839,Sampdoria,Cagliari,4,1,2018-04-29 13:00:00,,Standard
+212226,48,Goal,0.92,0.4779999923706055,0.47724202275276184,Dawid Kownacki,h,6190,OpenPlay,2017,LeftFoot,7839,Sampdoria,Cagliari,4,1,2018-04-29 13:00:00,Bartosz Bereszynski,Cross
+212230,62,MissedShots,0.7680000305175781,0.6990000152587891,0.020224742591381073,Jacopo Sala,h,1221,OpenPlay,2017,RightFoot,7839,Sampdoria,Cagliari,4,1,2018-04-29 13:00:00,Karol Linetty,Pass
+212231,65,BlockedShot,0.89,0.36700000762939455,0.08269933611154556,Dennis Praet,h,1234,OpenPlay,2017,RightFoot,7839,Sampdoria,Cagliari,4,1,2018-04-29 13:00:00,,None
+212232,71,SavedShot,0.765,0.6120000076293945,0.023367784917354584,Dennis Praet,h,1234,OpenPlay,2017,RightFoot,7839,Sampdoria,Cagliari,4,1,2018-04-29 13:00:00,,None
+212233,71,BlockedShot,0.8069999694824219,0.655,0.02204832434654236,Dennis Praet,h,1234,FromCorner,2017,RightFoot,7839,Sampdoria,Cagliari,4,1,2018-04-29 13:00:00,,None
+212235,75,SavedShot,0.935,0.615999984741211,0.13006551563739777,Karol Linetty,h,1226,OpenPlay,2017,LeftFoot,7839,Sampdoria,Cagliari,4,1,2018-04-29 13:00:00,Dennis Praet,Pass
+212236,86,ShotOnPost,0.889000015258789,0.4570000076293945,0.11937671899795532,Karol Linetty,h,1226,OpenPlay,2017,LeftFoot,7839,Sampdoria,Cagliari,4,1,2018-04-29 13:00:00,Gastón Ramírez,Pass
+212237,86,Goal,0.8780000305175781,0.5670000076293945,0.09066464751958847,Gastón Ramírez,h,952,OpenPlay,2017,LeftFoot,7839,Sampdoria,Cagliari,4,1,2018-04-29 13:00:00,,Rebound
+212224,35,SavedShot,0.8930000305175781,0.505,0.07250063866376877,Diego Farias,a,1605,OpenPlay,2017,RightFoot,7839,Sampdoria,Cagliari,4,1,2018-04-29 13:00:00,Artur Ionita,Cross
+212227,45,MissedShots,0.88,0.4209999847412109,0.10466963052749634,Leonardo Pavoletti,a,1104,OpenPlay,2017,LeftFoot,7839,Sampdoria,Cagliari,4,1,2018-04-29 13:00:00,Artur Ionita,Pass
+212228,48,Goal,0.9790000152587891,0.5420000076293945,0.7649357318878174,Leonardo Pavoletti,a,1104,OpenPlay,2017,LeftFoot,7839,Sampdoria,Cagliari,4,1,2018-04-29 13:00:00,Paolo Faragò,Pass
+212229,55,BlockedShot,0.87,0.5990000152587891,0.0837981179356575,Diego Farias,a,1605,OpenPlay,2017,RightFoot,7839,Sampdoria,Cagliari,4,1,2018-04-29 13:00:00,Leonardo Pavoletti,LayOff
+212234,72,MissedShots,0.9219999694824219,0.580999984741211,0.0417376384139061,Leonardo Pavoletti,a,1104,OpenPlay,2017,Head,7839,Sampdoria,Cagliari,4,1,2018-04-29 13:00:00,Luca Cigarini,Chipped
+212238,93,ShotOnPost,0.875999984741211,0.4759999847412109,0.016374073922634125,Luca Ceppitelli,a,1550,FromCorner,2017,Head,7839,Sampdoria,Cagliari,4,1,2018-04-29 13:00:00,,Aerial

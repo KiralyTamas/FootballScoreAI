@@ -1,0 +1,22 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+13187,17,MissedShots,0.7140000152587891,0.49700000762939456,0.012160759419202805,Aleksandr Bukharov,h,2778,OpenPlay,2014,LeftFoot,6321,FC Rostov,Kuban Krasnodar,2,1,2015-03-16 16:00:00,,None
+13188,19,SavedShot,0.8809999847412109,0.28700000762939454,0.07426094263792038,Aleksandr Bukharov,h,2778,OpenPlay,2014,RightFoot,6321,FC Rostov,Kuban Krasnodar,2,1,2015-03-16 16:00:00,Timofei Kalachev,Pass
+13189,19,BlockedShot,0.8319999694824218,0.40599998474121096,0.06392835080623627,Timofei Kalachev,h,2776,OpenPlay,2014,RightFoot,6321,FC Rostov,Kuban Krasnodar,2,1,2015-03-16 16:00:00,Aleksandr Bukharov,Pass
+13190,20,SavedShot,0.789000015258789,0.44599998474121094,0.016101500019431114,Bastos,h,1595,FromCorner,2014,LeftFoot,6321,FC Rostov,Kuban Krasnodar,2,1,2015-03-16 16:00:00,,Aerial
+13196,49,BlockedShot,0.95,0.5629999923706055,0.1316041797399521,Vitali Djakov,h,2757,FromCorner,2014,RightFoot,6321,FC Rostov,Kuban Krasnodar,2,1,2015-03-16 16:00:00,Moussa Doumbia,HeadPass
+13197,50,Goal,0.8919999694824219,0.5420000076293945,0.2173256278038025,Aleksandr Bukharov,h,2778,FromCorner,2014,Head,6321,FC Rostov,Kuban Krasnodar,2,1,2015-03-16 16:00:00,Moussa Doumbia,Aerial
+13198,60,MissedShots,0.67,0.25799999237060545,0.009036674164235592,Aleksandru Gatcan,h,3024,OpenPlay,2014,LeftFoot,6321,FC Rostov,Kuban Krasnodar,2,1,2015-03-16 16:00:00,,None
+13199,62,MissedShots,0.6909999847412109,0.5629999923706055,0.03265367075800896,Vitali Djakov,h,2757,DirectFreekick,2014,RightFoot,6321,FC Rostov,Kuban Krasnodar,2,1,2015-03-16 16:00:00,,Standard
+13200,67,MissedShots,0.909000015258789,0.4640000152587891,0.06432338804006577,Artem Dzyuba,h,3063,OpenPlay,2014,Head,6321,FC Rostov,Kuban Krasnodar,2,1,2015-03-16 16:00:00,Vitali Djakov,Chipped
+13201,75,ShotOnPost,0.92,0.4759999847412109,0.489788293838501,Moussa Doumbia,h,2782,OpenPlay,2014,RightFoot,6321,FC Rostov,Kuban Krasnodar,2,1,2015-03-16 16:00:00,Sardar Azmoun,Pass
+13204,87,Goal,0.8819999694824219,0.3890000152587891,0.06563696265220642,Sardar Azmoun,h,2774,OpenPlay,2014,RightFoot,6321,FC Rostov,Kuban Krasnodar,2,1,2015-03-16 16:00:00,Vitali Djakov,BallRecovery
+13205,90,SavedShot,0.9069999694824219,0.6279999923706054,0.34526652097702026,Dmitriy Poloz,h,2775,OpenPlay,2014,RightFoot,6321,FC Rostov,Kuban Krasnodar,2,1,2015-03-16 16:00:00,,BallTouch
+13206,90,MissedShots,0.8530000305175781,0.6569999694824219,0.061859890818595886,Artem Dzyuba,h,3063,OpenPlay,2014,RightFoot,6321,FC Rostov,Kuban Krasnodar,2,1,2015-03-16 16:00:00,Vitali Djakov,Chipped
+13186,10,BlockedShot,0.795,0.31,0.02117130160331726,Sergey Tkachev,a,2880,OpenPlay,2014,LeftFoot,6321,FC Rostov,Kuban Krasnodar,2,1,2015-03-16 16:00:00,,None
+13191,25,ShotOnPost,0.9119999694824219,0.4759999847412109,0.07520054280757904,Toni Sunjic,a,57,FromCorner,2014,Head,6321,FC Rostov,Kuban Krasnodar,2,1,2015-03-16 16:00:00,Sergey Tkachev,Cross
+13192,36,MissedShots,0.8290000152587891,0.505,0.0570155568420887,Sergey Tkachev,a,2880,OpenPlay,2014,LeftFoot,6321,FC Rostov,Kuban Krasnodar,2,1,2015-03-16 16:00:00,,None
+13193,38,SavedShot,0.7969999694824219,0.5229999923706055,0.04278606176376343,Sergey Tkachev,a,2880,FromCorner,2014,RightFoot,6321,FC Rostov,Kuban Krasnodar,2,1,2015-03-16 16:00:00,Charles Kaboré,Pass
+13194,40,MissedShots,0.7769999694824219,0.30100000381469727,0.009864549152553082,Ivelin Popov,a,2817,SetPiece,2014,RightFoot,6321,FC Rostov,Kuban Krasnodar,2,1,2015-03-16 16:00:00,,Aerial
+13195,41,MissedShots,0.8240000152587891,0.3120000076293945,0.03258868306875229,Hugo Almeida,a,2680,OpenPlay,2014,LeftFoot,6321,FC Rostov,Kuban Krasnodar,2,1,2015-03-16 16:00:00,Ivelin Popov,Pass
+13202,78,Goal,0.98,0.515,0.8730878829956055,Hugo Almeida,a,2680,OpenPlay,2014,RightFoot,6321,FC Rostov,Kuban Krasnodar,2,1,2015-03-16 16:00:00,,None
+13203,81,BlockedShot,0.8530000305175781,0.58,0.06432411819696426,Hugo Almeida,a,2680,OpenPlay,2014,LeftFoot,6321,FC Rostov,Kuban Krasnodar,2,1,2015-03-16 16:00:00,,None

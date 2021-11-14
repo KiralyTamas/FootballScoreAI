@@ -1,0 +1,24 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+361728,16,BlockedShot,0.960999984741211,0.43900001525878907,0.13703453540802002,Nils Petersen,h,4248,SetPiece,2019,Head,12625,Freiburg,Union Berlin,3,1,2020-03-07 14:30:00,Vincenzo Grifo,Cross
+361729,26,BlockedShot,0.815,0.4370000076293945,0.026518357917666435,Robin Koch,h,6273,FromCorner,2019,RightFoot,12625,Freiburg,Union Berlin,3,1,2020-03-07 14:30:00,Nils Petersen,HeadPass
+361732,33,Goal,0.985,0.5370000076293945,0.6741369962692261,Roland Sallai,h,1277,FromCorner,2019,Head,12625,Freiburg,Union Berlin,3,1,2020-03-07 14:30:00,Vincenzo Grifo,Cross
+361734,44,SavedShot,0.9359999847412109,0.705,0.11537325382232666,Christian Günter,h,4243,OpenPlay,2019,LeftFoot,12625,Freiburg,Union Berlin,3,1,2020-03-07 14:30:00,Vincenzo Grifo,Chipped
+361736,54,Goal,0.845999984741211,0.28299999237060547,0.06537015736103058,Christian Günter,h,4243,OpenPlay,2019,LeftFoot,12625,Freiburg,Union Berlin,3,1,2020-03-07 14:30:00,,TakeOn
+361737,58,MissedShots,0.8680000305175781,0.2560000038146973,0.0522838793694973,Jonathan Schmid,h,81,OpenPlay,2019,RightFoot,12625,Freiburg,Union Berlin,3,1,2020-03-07 14:30:00,Roland Sallai,Pass
+361742,80,BlockedShot,0.6959999847412109,0.509000015258789,0.0389605313539505,Jonathan Schmid,h,81,DirectFreekick,2019,RightFoot,12625,Freiburg,Union Berlin,3,1,2020-03-07 14:30:00,,Standard
+361743,80,BlockedShot,0.7480000305175781,0.55,0.015077462419867516,Jonathan Schmid,h,81,SetPiece,2019,RightFoot,12625,Freiburg,Union Berlin,3,1,2020-03-07 14:30:00,,Rebound
+361744,81,Goal,0.95,0.5279999923706055,0.5019606351852417,Robin Koch,h,6273,SetPiece,2019,Head,12625,Freiburg,Union Berlin,3,1,2020-03-07 14:30:00,Vincenzo Grifo,Cross
+361726,2,SavedShot,0.775,0.6840000152587891,0.01114331278949976,Robert Andrich,a,7877,OpenPlay,2019,RightFoot,12625,Freiburg,Union Berlin,3,1,2020-03-07 14:30:00,,Aerial
+361727,12,MissedShots,0.7040000152587891,0.4520000076293945,0.041348665952682495,Christopher Lenz,a,7876,DirectFreekick,2019,LeftFoot,12625,Freiburg,Union Berlin,3,1,2020-03-07 14:30:00,,Standard
+361730,28,SavedShot,0.845,0.5420000076293945,0.07614412158727646,Christian Gentner,a,60,OpenPlay,2019,LeftFoot,12625,Freiburg,Union Berlin,3,1,2020-03-07 14:30:00,Sebastian Andersson,BallTouch
+361731,29,BlockedShot,0.7440000152587891,0.649000015258789,0.013418865390121937,Keven Schlotterbeck,a,7401,OpenPlay,2019,RightFoot,12625,Freiburg,Union Berlin,3,1,2020-03-07 14:30:00,,None
+361733,35,MissedShots,0.7019999694824218,0.18200000762939453,0.010541122406721115,Marvin Friedrich,a,370,OpenPlay,2019,RightFoot,12625,Freiburg,Union Berlin,3,1,2020-03-07 14:30:00,Christian Gentner,Pass
+361735,51,BlockedShot,0.8530000305175781,0.2720000076293945,0.029614893719553947,Marius Bülter,a,7879,OpenPlay,2019,LeftFoot,12625,Freiburg,Union Berlin,3,1,2020-03-07 14:30:00,Christian Gentner,Pass
+361738,60,Goal,0.94,0.46799999237060547,0.41304564476013184,Sebastian Andersson,a,7880,FromCorner,2019,Head,12625,Freiburg,Union Berlin,3,1,2020-03-07 14:30:00,Christopher Trimmel,Cross
+361739,72,MissedShots,0.7019999694824218,0.575,0.014480975456535816,Keven Schlotterbeck,a,7401,OpenPlay,2019,LeftFoot,12625,Freiburg,Union Berlin,3,1,2020-03-07 14:30:00,Robert Andrich,Pass
+361740,78,BlockedShot,0.784000015258789,0.610999984741211,0.026893390342593193,Christian Gentner,a,60,OpenPlay,2019,RightFoot,12625,Freiburg,Union Berlin,3,1,2020-03-07 14:30:00,Marcus Ingvartsen,BallTouch
+361741,78,MissedShots,0.88,0.47,0.0461314357817173,Marcus Ingvartsen,a,7883,OpenPlay,2019,Head,12625,Freiburg,Union Berlin,3,1,2020-03-07 14:30:00,Sebastian Polter,HeadPass
+361745,83,MissedShots,0.759000015258789,0.5729999923706055,0.011711688712239265,Robert Andrich,a,7877,OpenPlay,2019,LeftFoot,12625,Freiburg,Union Berlin,3,1,2020-03-07 14:30:00,,Aerial
+361746,86,MissedShots,0.9030000305175782,0.6,0.03402963653206825,Marcus Ingvartsen,a,7883,OpenPlay,2019,Head,12625,Freiburg,Union Berlin,3,1,2020-03-07 14:30:00,Sebastian Andersson,HeadPass
+361747,88,SavedShot,0.915,0.6530000305175782,0.02008097991347313,Sebastian Polter,a,7881,OpenPlay,2019,Head,12625,Freiburg,Union Berlin,3,1,2020-03-07 14:30:00,Robert Andrich,Chipped
+361748,88,MissedShots,0.8619999694824219,0.35900001525878905,0.05672397091984749,Sebastian Andersson,a,7880,OpenPlay,2019,RightFoot,12625,Freiburg,Union Berlin,3,1,2020-03-07 14:30:00,Marcus Ingvartsen,BallTouch

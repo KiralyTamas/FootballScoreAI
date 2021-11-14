@@ -1,0 +1,23 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+139007,6,MissedShots,0.8730000305175781,0.5479999923706055,0.03520296886563301,Gaël Kakuta,h,2549,OpenPlay,2016,Head,3946,Deportivo La Coruna,Alaves,0,1,2017-02-18 17:30:00,Bruno Gama,Cross
+139008,8,MissedShots,0.9630000305175781,0.509000015258789,0.4981861412525177,Sidnei,h,2314,FromCorner,2016,Head,3946,Deportivo La Coruna,Alaves,0,1,2017-02-18 17:30:00,Raúl Albentosa,HeadPass
+139010,18,ShotOnPost,0.8530000305175781,0.52,0.0984579473733902,Gaël Kakuta,h,2549,OpenPlay,2016,LeftFoot,3946,Deportivo La Coruna,Alaves,0,1,2017-02-18 17:30:00,Florin Andone,Pass
+139011,18,SavedShot,0.9290000152587891,0.44299999237060544,0.38415345549583435,Juanfran,h,2316,OpenPlay,2016,Head,3946,Deportivo La Coruna,Alaves,0,1,2017-02-18 17:30:00,,Rebound
+139012,22,BlockedShot,0.7709999847412109,0.3920000076293945,0.022600995376706123,Juanfran,h,2316,OpenPlay,2016,RightFoot,3946,Deportivo La Coruna,Alaves,0,1,2017-02-18 17:30:00,,None
+139014,24,MissedShots,0.9130000305175782,0.46799999237060547,0.09959293901920319,Gaël Kakuta,h,2549,OpenPlay,2016,LeftFoot,3946,Deportivo La Coruna,Alaves,0,1,2017-02-18 17:30:00,Juanfran,Cross
+139015,28,BlockedShot,0.8230000305175781,0.509000015258789,0.04697674885392189,Bruno Gama,h,5084,FromCorner,2016,LeftFoot,3946,Deportivo La Coruna,Alaves,0,1,2017-02-18 17:30:00,,None
+139017,36,BlockedShot,0.9530000305175781,0.5570000076293945,0.12476079910993576,Sidnei,h,2314,FromCorner,2016,Head,3946,Deportivo La Coruna,Alaves,0,1,2017-02-18 17:30:00,Emre Colak,Cross
+139018,51,BlockedShot,0.7830000305175782,0.3890000152587891,0.09109421819448471,Guilherme,h,1891,DirectFreekick,2016,RightFoot,3946,Deportivo La Coruna,Alaves,0,1,2017-02-18 17:30:00,,Standard
+139020,54,SavedShot,0.75,0.475,0.023711275309324265,Florin Andone,h,4068,OpenPlay,2016,LeftFoot,3946,Deportivo La Coruna,Alaves,0,1,2017-02-18 17:30:00,Bruno Gama,BallTouch
+139022,81,SavedShot,0.7440000152587891,0.255,0.015864070504903793,Guilherme,h,1891,OpenPlay,2016,RightFoot,3946,Deportivo La Coruna,Alaves,0,1,2017-02-18 17:30:00,Emre Colak,Pass
+139023,83,BlockedShot,0.7819999694824219,0.33,0.018473586067557335,Juanfran,h,2316,FromCorner,2016,RightFoot,3946,Deportivo La Coruna,Alaves,0,1,2017-02-18 17:30:00,,None
+139025,88,MissedShots,0.874000015258789,0.6940000152587891,0.03738989308476448,Joselu,h,866,SetPiece,2016,RightFoot,3946,Deportivo La Coruna,Alaves,0,1,2017-02-18 17:30:00,,None
+139026,90,MissedShots,0.9130000305175782,0.5029999923706054,0.04416374862194061,Florin Andone,h,4068,FromCorner,2016,Head,3946,Deportivo La Coruna,Alaves,0,1,2017-02-18 17:30:00,Juanfran,Aerial
+139027,90,BlockedShot,0.9440000152587891,0.69,0.058614980429410934,Faycal Fajr,h,2319,FromCorner,2016,LeftFoot,3946,Deportivo La Coruna,Alaves,0,1,2017-02-18 17:30:00,Florin Andone,Rebound
+139028,90,MissedShots,0.899000015258789,0.555,0.0211184062063694,Sidnei,h,2314,FromCorner,2016,Head,3946,Deportivo La Coruna,Alaves,0,1,2017-02-18 17:30:00,Juanfran,Aerial
+139009,13,SavedShot,0.8969999694824219,0.509000015258789,0.07015396654605865,Víctor Laguardia,a,5044,FromCorner,2016,Head,3946,Deportivo La Coruna,Alaves,0,1,2017-02-18 17:30:00,Ibai Gómez,Cross
+139013,22,MissedShots,0.9059999847412109,0.6229999923706054,0.33494195342063904,Deyverson,a,2185,OpenPlay,2016,LeftFoot,3946,Deportivo La Coruna,Alaves,0,1,2017-02-18 17:30:00,Ibai Gómez,Throughball
+139016,30,MissedShots,0.9319999694824219,0.580999984741211,0.07904130965471268,Deyverson,a,2185,FromCorner,2016,Head,3946,Deportivo La Coruna,Alaves,0,1,2017-02-18 17:30:00,Ibai Gómez,Cross
+139019,52,SavedShot,0.7080000305175781,0.44,0.016923412680625916,Ibai Gómez,a,2491,OpenPlay,2016,LeftFoot,3946,Deportivo La Coruna,Alaves,0,1,2017-02-18 17:30:00,Deyverson,Pass
+139021,67,Goal,0.885,0.5,0.7432776093482971,Manu García,a,5045,Penalty,2016,LeftFoot,3946,Deportivo La Coruna,Alaves,0,1,2017-02-18 17:30:00,,Standard
+139024,85,SavedShot,0.895,0.5540000152587891,0.09470314532518387,Manu García,a,5045,OpenPlay,2016,Head,3946,Deportivo La Coruna,Alaves,0,1,2017-02-18 17:30:00,Gaizka Toquero,Cross

@@ -1,0 +1,29 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+130581,16,MissedShots,0.76,0.27899999618530275,0.019153617322444916,Robert Bauer,h,237,SetPiece,2016,RightFoot,3197,Werder Bremen,Ingolstadt,2,1,2016-12-03 18:30:00,Serge Gnabry,Pass
+130584,23,Goal,0.955999984741211,0.43400001525878906,0.42279934883117676,Max Kruse,h,155,OpenPlay,2016,LeftFoot,3197,Werder Bremen,Ingolstadt,2,1,2016-12-03 18:30:00,Fin Bartels,Cross
+130585,30,MissedShots,0.8130000305175781,0.4909999847412109,0.1597694605588913,Max Kruse,h,155,DirectFreekick,2016,LeftFoot,3197,Werder Bremen,Ingolstadt,2,1,2016-12-03 18:30:00,,Standard
+130588,46,MissedShots,0.874000015258789,0.6029999923706054,0.0461636446416378,Claudio Pizarro,h,122,OpenPlay,2016,RightFoot,3197,Werder Bremen,Ingolstadt,2,1,2016-12-03 18:30:00,Fin Bartels,Aerial
+130589,47,MissedShots,0.8730000305175781,0.76,0.03635682165622711,Serge Gnabry,h,993,OpenPlay,2016,LeftFoot,3197,Werder Bremen,Ingolstadt,2,1,2016-12-03 18:30:00,Zlatko Junuzovic,Pass
+130590,49,BlockedShot,0.7330000305175781,0.23,0.01249616127461195,Philipp Bargfrede,h,114,OpenPlay,2016,RightFoot,3197,Werder Bremen,Ingolstadt,2,1,2016-12-03 18:30:00,Fin Bartels,Pass
+130591,51,BlockedShot,0.8009999847412109,0.475,0.08432503789663315,Claudio Pizarro,h,122,OpenPlay,2016,RightFoot,3197,Werder Bremen,Ingolstadt,2,1,2016-12-03 18:30:00,Max Kruse,Pass
+130594,59,MissedShots,0.96,0.38,0.34922972321510315,Fin Bartels,h,115,OpenPlay,2016,RightFoot,3197,Werder Bremen,Ingolstadt,2,1,2016-12-03 18:30:00,Claudio Pizarro,Pass
+130596,66,MissedShots,0.8119999694824219,0.45799999237060546,0.037502992898225784,Lamine Sané,h,3254,FromCorner,2016,RightFoot,3197,Werder Bremen,Ingolstadt,2,1,2016-12-03 18:30:00,,None
+130597,67,SavedShot,0.8519999694824218,0.7090000152587891,0.06895223259925842,Serge Gnabry,h,993,OpenPlay,2016,RightFoot,3197,Werder Bremen,Ingolstadt,2,1,2016-12-03 18:30:00,Zlatko Junuzovic,TakeOn
+130598,74,SavedShot,0.7480000305175781,0.25,0.015760254114866257,Izet Hajrovic,h,2136,OpenPlay,2016,LeftFoot,3197,Werder Bremen,Ingolstadt,2,1,2016-12-03 18:30:00,Serge Gnabry,Pass
+130599,74,SavedShot,0.955999984741211,0.43900001525878907,0.4263285994529724,Claudio Pizarro,h,122,OpenPlay,2016,LeftFoot,3197,Werder Bremen,Ingolstadt,2,1,2016-12-03 18:30:00,Serge Gnabry,Chipped
+130600,75,Goal,0.9290000152587891,0.5279999923706055,0.5567457675933838,Fin Bartels,h,115,OpenPlay,2016,RightFoot,3197,Werder Bremen,Ingolstadt,2,1,2016-12-03 18:30:00,Claudio Pizarro,Pass
+130579,6,BlockedShot,0.7569999694824219,0.519000015258789,0.026951201260089874,Moritz Hartmann,a,362,OpenPlay,2016,RightFoot,3197,Werder Bremen,Ingolstadt,2,1,2016-12-03 18:30:00,Pascal Groß,Pass
+130580,6,MissedShots,0.9309999847412109,0.3659999847412109,0.06067682057619095,Moritz Hartmann,a,362,OpenPlay,2016,RightFoot,3197,Werder Bremen,Ingolstadt,2,1,2016-12-03 18:30:00,Florent Hadergjonaj,Cross
+130582,20,SavedShot,0.9030000305175782,0.5,0.07469547539949417,Anthony Jung,a,5217,FromCorner,2016,Head,3197,Werder Bremen,Ingolstadt,2,1,2016-12-03 18:30:00,Pascal Groß,Cross
+130583,20,MissedShots,0.970999984741211,0.4129999923706055,0.039998218417167664,Moritz Hartmann,a,362,FromCorner,2016,Head,3197,Werder Bremen,Ingolstadt,2,1,2016-12-03 18:30:00,,Rebound
+130586,39,MissedShots,0.924000015258789,0.33099998474121095,0.055527202785015106,Marvin Matip,a,236,OpenPlay,2016,RightFoot,3197,Werder Bremen,Ingolstadt,2,1,2016-12-03 18:30:00,Anthony Jung,Pass
+130587,45,BlockedShot,0.6580000305175782,0.5540000152587891,0.011102932505309582,Almog Cohen,a,240,FromCorner,2016,RightFoot,3197,Werder Bremen,Ingolstadt,2,1,2016-12-03 18:30:00,,None
+130592,57,Goal,0.764000015258789,0.41700000762939454,0.07505619525909424,Markus Suttner,a,379,DirectFreekick,2016,LeftFoot,3197,Werder Bremen,Ingolstadt,2,1,2016-12-03 18:30:00,,Standard
+130593,58,SavedShot,0.8959999847412109,0.59,0.04661278799176216,Marvin Matip,a,236,SetPiece,2016,Head,3197,Werder Bremen,Ingolstadt,2,1,2016-12-03 18:30:00,Florent Hadergjonaj,Chipped
+130595,62,MissedShots,0.879000015258789,0.2589999961853027,0.03096301294863224,Mathew Leckie,a,241,OpenPlay,2016,RightFoot,3197,Werder Bremen,Ingolstadt,2,1,2016-12-03 18:30:00,Pascal Groß,Pass
+130601,76,BlockedShot,0.674000015258789,0.34,0.011927146464586258,Florent Hadergjonaj,a,5215,OpenPlay,2016,RightFoot,3197,Werder Bremen,Ingolstadt,2,1,2016-12-03 18:30:00,Pascal Groß,Pass
+130602,78,SavedShot,0.91,0.5640000152587891,0.09206639975309372,Mathew Leckie,a,241,SetPiece,2016,Head,3197,Werder Bremen,Ingolstadt,2,1,2016-12-03 18:30:00,Markus Suttner,Cross
+130603,82,MissedShots,0.840999984741211,0.48400001525878905,0.0825628861784935,Almog Cohen,a,240,OpenPlay,2016,RightFoot,3197,Werder Bremen,Ingolstadt,2,1,2016-12-03 18:30:00,Moritz Hartmann,LayOff
+130604,89,MissedShots,0.9359999847412109,0.6179999923706054,0.17279604077339172,Mathew Leckie,a,241,OpenPlay,2016,LeftFoot,3197,Werder Bremen,Ingolstadt,2,1,2016-12-03 18:30:00,Markus Suttner,Pass
+130605,90,MissedShots,0.8980000305175782,0.46900001525878904,0.03143693506717682,Moritz Hartmann,a,362,OpenPlay,2016,Head,3197,Werder Bremen,Ingolstadt,2,1,2016-12-03 18:30:00,Mathew Leckie,Aerial
+130606,91,SavedShot,0.915,0.5420000076293945,0.28765854239463806,Moritz Hartmann,a,362,OpenPlay,2016,Head,3197,Werder Bremen,Ingolstadt,2,1,2016-12-03 18:30:00,Sonny Kittel,Cross

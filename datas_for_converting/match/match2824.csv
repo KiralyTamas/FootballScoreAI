@@ -1,0 +1,26 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+130303,14,Goal,0.9369999694824219,0.5379999923706055,0.26859527826309204,Florian Niederlechner,h,306,OpenPlay,2016,Head,2824,Freiburg,RasenBallsport Leipzig,1,4,2016-11-25 23:30:00,Pascal Stenzel,Chipped
+130305,27,MissedShots,0.695,0.28,0.008723711594939232,Pascal Stenzel,h,326,OpenPlay,2016,RightFoot,2824,Freiburg,RasenBallsport Leipzig,1,4,2016-11-25 23:30:00,,None
+130306,31,SavedShot,0.894000015258789,0.8080000305175781,0.0672469213604927,Vincenzo Grifo,h,5266,DirectFreekick,2016,RightFoot,2824,Freiburg,RasenBallsport Leipzig,1,4,2016-11-25 23:30:00,,Standard
+130309,45,BlockedShot,0.8540000152587891,0.6459999847412109,0.05829363316297531,Vincenzo Grifo,h,5266,OpenPlay,2016,RightFoot,2824,Freiburg,RasenBallsport Leipzig,1,4,2016-11-25 23:30:00,Mike Frantz,Pass
+130310,45,MissedShots,0.7609999847412109,0.655,0.009975588880479336,Christian Günter,h,4243,OpenPlay,2016,LeftFoot,2824,Freiburg,RasenBallsport Leipzig,1,4,2016-11-25 23:30:00,,Rebound
+130311,49,BlockedShot,0.7290000152587891,0.34799999237060547,0.044275976717472076,Vincenzo Grifo,h,5266,DirectFreekick,2016,RightFoot,2824,Freiburg,RasenBallsport Leipzig,1,4,2016-11-25 23:30:00,,Standard
+130313,57,BlockedShot,0.935,0.4909999847412109,0.12603504955768585,Manuel Gulde,h,5292,FromCorner,2016,Head,2824,Freiburg,RasenBallsport Leipzig,1,4,2016-11-25 23:30:00,Vincenzo Grifo,Cross
+130314,57,ShotOnPost,0.97,0.3920000076293945,0.09579458832740784,Nicolas Höfler,h,4250,FromCorner,2016,RightFoot,2824,Freiburg,RasenBallsport Leipzig,1,4,2016-11-25 23:30:00,,Rebound
+130318,66,SavedShot,0.745999984741211,0.615999984741211,0.017111321911215782,Vincenzo Grifo,h,5266,SetPiece,2016,RightFoot,2824,Freiburg,RasenBallsport Leipzig,1,4,2016-11-25 23:30:00,Christian Günter,Pass
+130298,0,SavedShot,0.894000015258789,0.4209999847412109,0.01357333455234766,Stefan Ilsanker,a,5242,SetPiece,2016,Head,2824,Freiburg,RasenBallsport Leipzig,1,4,2016-11-25 23:30:00,Emil Forsberg,Aerial
+130299,1,Goal,0.7659999847412109,0.6680000305175782,0.031914595514535904,Naby Keita,a,5247,FromCorner,2016,RightFoot,2824,Freiburg,RasenBallsport Leipzig,1,4,2016-11-25 23:30:00,Marcel Sabitzer,TakeOn
+130300,9,BlockedShot,0.8640000152587891,0.40099998474121096,0.10527025163173676,Marcel Sabitzer,a,5248,OpenPlay,2016,LeftFoot,2824,Freiburg,RasenBallsport Leipzig,1,4,2016-11-25 23:30:00,Yussuf Poulsen,Pass
+130301,9,BlockedShot,0.8430000305175781,0.3,0.045562613755464554,Benno Schmitz,a,5253,OpenPlay,2016,RightFoot,2824,Freiburg,RasenBallsport Leipzig,1,4,2016-11-25 23:30:00,Marcel Sabitzer,Pass
+130302,10,MissedShots,0.7719999694824219,0.6370000076293946,0.01803532987833023,Naby Keita,a,5247,FromCorner,2016,RightFoot,2824,Freiburg,RasenBallsport Leipzig,1,4,2016-11-25 23:30:00,,None
+130304,20,Goal,0.9619999694824218,0.59,0.7451841831207275,Timo Werner,a,65,OpenPlay,2016,LeftFoot,2824,Freiburg,RasenBallsport Leipzig,1,4,2016-11-25 23:30:00,Diego Demme,TakeOn
+130307,34,Goal,0.875999984741211,0.6719999694824219,0.15032358467578888,Timo Werner,a,65,OpenPlay,2016,RightFoot,2824,Freiburg,RasenBallsport Leipzig,1,4,2016-11-25 23:30:00,Emil Forsberg,Throughball
+130308,38,BlockedShot,0.77,0.49700000762939456,0.08564496040344238,Marcel Sabitzer,a,5248,OpenPlay,2016,LeftFoot,2824,Freiburg,RasenBallsport Leipzig,1,4,2016-11-25 23:30:00,Naby Keita,Pass
+130312,56,BlockedShot,0.8530000305175781,0.7290000152587891,0.09525374323129654,Marcel Halstenberg,a,5254,OpenPlay,2016,RightFoot,2824,Freiburg,RasenBallsport Leipzig,1,4,2016-11-25 23:30:00,Emil Forsberg,Pass
+130315,61,MissedShots,0.850999984741211,0.6569999694824219,0.10466306656599045,Emil Forsberg,a,5249,OpenPlay,2016,RightFoot,2824,Freiburg,RasenBallsport Leipzig,1,4,2016-11-25 23:30:00,Timo Werner,Pass
+130316,63,SavedShot,0.8540000152587891,0.6,0.03169623389840126,Stefan Ilsanker,a,5242,SetPiece,2016,Head,2824,Freiburg,RasenBallsport Leipzig,1,4,2016-11-25 23:30:00,Emil Forsberg,Chipped
+130317,65,MissedShots,0.7969999694824219,0.4759999847412109,0.09759615361690521,Marcel Sabitzer,a,5248,OpenPlay,2016,LeftFoot,2824,Freiburg,RasenBallsport Leipzig,1,4,2016-11-25 23:30:00,Emil Forsberg,Pass
+130319,75,ShotOnPost,0.9890000152587891,0.59,0.15480121970176697,Marcel Sabitzer,a,5248,OpenPlay,2016,LeftFoot,2824,Freiburg,RasenBallsport Leipzig,1,4,2016-11-25 23:30:00,Emil Forsberg,TakeOn
+130320,78,Goal,0.865999984741211,0.3609999847412109,0.11282268166542053,Marcel Sabitzer,a,5248,OpenPlay,2016,RightFoot,2824,Freiburg,RasenBallsport Leipzig,1,4,2016-11-25 23:30:00,Emil Forsberg,Pass
+130321,79,MissedShots,0.94,0.20700000762939452,0.039315272122621536,Naby Keita,a,5247,OpenPlay,2016,RightFoot,2824,Freiburg,RasenBallsport Leipzig,1,4,2016-11-25 23:30:00,Marcel Sabitzer,TakeOn
+130322,81,SavedShot,0.899000015258789,0.695,0.07372941821813583,Emil Forsberg,a,5249,OpenPlay,2016,RightFoot,2824,Freiburg,RasenBallsport Leipzig,1,4,2016-11-25 23:30:00,Diego Demme,Pass

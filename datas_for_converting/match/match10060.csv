@@ -1,0 +1,22 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+258803,20,MissedShots,0.6680000305175782,0.534000015258789,0.010341099463403225,Giannelli Imbula,h,861,OpenPlay,2018,LeftFoot,10060,Rayo Vallecano,Barcelona,2,3,2018-11-03 19:45:00,,BallRecovery
+258804,23,MissedShots,0.9169999694824219,0.5590000152587891,0.0477602444589138,Raúl de Tomás,h,4229,SetPiece,2018,Head,10060,Rayo Vallecano,Barcelona,2,3,2018-11-03 19:45:00,Adrián Embarba,Aerial
+258805,30,MissedShots,0.9119999694824219,0.53,0.4859665334224701,José Pozo,h,4485,OpenPlay,2018,LeftFoot,10060,Rayo Vallecano,Barcelona,2,3,2018-11-03 19:45:00,Raúl de Tomás,Pass
+258806,34,Goal,0.799000015258789,0.5609999847412109,0.04002932831645012,José Pozo,h,4485,OpenPlay,2018,RightFoot,10060,Rayo Vallecano,Barcelona,2,3,2018-11-03 19:45:00,,None
+258807,38,MissedShots,0.745,0.3770000076293945,0.021189454942941666,Luis Advíncula,h,6967,OpenPlay,2018,LeftFoot,10060,Rayo Vallecano,Barcelona,2,3,2018-11-03 19:45:00,Santiago Comesaña,Pass
+258810,56,ShotOnPost,0.9540000152587891,0.4129999923706055,0.1235373243689537,Raúl de Tomás,h,4229,OpenPlay,2018,Head,10060,Rayo Vallecano,Barcelona,2,3,2018-11-03 19:45:00,Adrián Embarba,Cross
+258811,56,Goal,0.9769999694824218,0.5590000152587891,0.6397651433944702,Álvaro García,h,7071,OpenPlay,2018,RightFoot,10060,Rayo Vallecano,Barcelona,2,3,2018-11-03 19:45:00,,Rebound
+258812,65,SavedShot,0.9530000305175781,0.34200000762939453,0.0839400514960289,Adrián Embarba,h,2166,OpenPlay,2018,RightFoot,10060,Rayo Vallecano,Barcelona,2,3,2018-11-03 19:45:00,,None
+258813,67,MissedShots,0.8419999694824218,0.5609999847412109,0.09922454506158829,Giannelli Imbula,h,861,OpenPlay,2018,LeftFoot,10060,Rayo Vallecano,Barcelona,2,3,2018-11-03 19:45:00,Álex Alegría,TakeOn
+258814,73,SavedShot,0.775,0.40400001525878904,0.08698946982622147,Giannelli Imbula,h,861,DirectFreekick,2018,LeftFoot,10060,Rayo Vallecano,Barcelona,2,3,2018-11-03 19:45:00,,Standard
+258820,94,SavedShot,0.955999984741211,0.3920000076293945,0.06660763919353485,Luis Advíncula,h,6967,SetPiece,2018,Head,10060,Rayo Vallecano,Barcelona,2,3,2018-11-03 19:45:00,Adrián Embarba,Cross
+258800,6,MissedShots,0.7069999694824218,0.41200000762939454,0.04363660514354706,Luis Suárez,a,2098,DirectFreekick,2018,RightFoot,10060,Rayo Vallecano,Barcelona,2,3,2018-11-03 19:45:00,,Standard
+258801,10,Goal,0.9390000152587891,0.52,0.5992951393127441,Luis Suárez,a,2098,OpenPlay,2018,LeftFoot,10060,Rayo Vallecano,Barcelona,2,3,2018-11-03 19:45:00,Jordi Alba,Pass
+258802,15,BlockedShot,0.825999984741211,0.47,0.045433420687913895,Philippe Coutinho,a,488,OpenPlay,2018,LeftFoot,10060,Rayo Vallecano,Barcelona,2,3,2018-11-03 19:45:00,Sergi Roberto,Cross
+258808,40,ShotOnPost,0.805,0.6309999847412109,0.037864308804273605,Luis Suárez,a,2098,OpenPlay,2018,RightFoot,10060,Rayo Vallecano,Barcelona,2,3,2018-11-03 19:45:00,Rafinha,Pass
+258809,50,MissedShots,0.9630000305175781,0.34,0.3253703713417053,Rafinha,a,2100,OpenPlay,2018,LeftFoot,10060,Rayo Vallecano,Barcelona,2,3,2018-11-03 19:45:00,Sergi Roberto,Throughball
+258815,78,SavedShot,0.865,0.6759999847412109,0.09137145429849625,Luis Suárez,a,2098,OpenPlay,2018,LeftFoot,10060,Rayo Vallecano,Barcelona,2,3,2018-11-03 19:45:00,Munir,Throughball
+258816,80,MissedShots,0.88,0.5420000076293945,0.05165361985564232,Munir,a,2106,OpenPlay,2018,Head,10060,Rayo Vallecano,Barcelona,2,3,2018-11-03 19:45:00,Ousmane Dembélé,Cross
+258817,84,SavedShot,0.895,0.500999984741211,0.29605817794799805,Luis Suárez,a,2098,OpenPlay,2018,Head,10060,Rayo Vallecano,Barcelona,2,3,2018-11-03 19:45:00,Jordi Alba,Cross
+258818,86,Goal,0.88,0.3240000152587891,0.03901034966111183,Ousmane Dembélé,a,3226,OpenPlay,2018,LeftFoot,10060,Rayo Vallecano,Barcelona,2,3,2018-11-03 19:45:00,Gerard Piqué,HeadPass
+258819,89,Goal,0.9630000305175781,0.5709999847412109,0.42416688799858093,Luis Suárez,a,2098,OpenPlay,2018,RightFoot,10060,Rayo Vallecano,Barcelona,2,3,2018-11-03 19:45:00,Sergi Roberto,Cross

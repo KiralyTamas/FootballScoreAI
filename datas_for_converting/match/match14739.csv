@@ -1,0 +1,33 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+413869,4,SavedShot,0.8780000305175781,0.705999984741211,0.043816227465867996,Mohamed Salah,h,1250,FromCorner,2020,LeftFoot,14739,Liverpool,Aston Villa,2,1,2021-04-10 14:00:00,Andrew Robertson,Pass
+413870,4,BlockedShot,0.909000015258789,0.675,0.0490451455116272,Diogo Jota,h,6854,FromCorner,2020,LeftFoot,14739,Liverpool,Aston Villa,2,1,2021-04-10 14:00:00,James Milner,Pass
+413871,4,BlockedShot,0.865,0.605999984741211,0.05429333820939064,Mohamed Salah,h,1250,FromCorner,2020,LeftFoot,14739,Liverpool,Aston Villa,2,1,2021-04-10 14:00:00,Nathaniel Phillips,Pass
+413872,12,MissedShots,0.87,0.41900001525878905,0.35060614347457886,Mohamed Salah,h,1250,OpenPlay,2020,LeftFoot,14739,Liverpool,Aston Villa,2,1,2021-04-10 14:00:00,,None
+413873,14,MissedShots,0.755,0.38,0.022879287600517273,Roberto Firmino,h,482,OpenPlay,2020,RightFoot,14739,Liverpool,Aston Villa,2,1,2021-04-10 14:00:00,Trent Alexander-Arnold,Pass
+413874,18,MissedShots,0.7709999847412109,0.3240000152587891,0.023337284103035927,Diogo Jota,h,6854,OpenPlay,2020,RightFoot,14739,Liverpool,Aston Villa,2,1,2021-04-10 14:00:00,Trent Alexander-Arnold,Pass
+413876,30,SavedShot,0.7609999847412109,0.675,0.05211462453007698,Trent Alexander-Arnold,h,1791,DirectFreekick,2020,RightFoot,14739,Liverpool,Aston Villa,2,1,2021-04-10 14:00:00,,Standard
+413877,31,MissedShots,0.9219999694824219,0.5659999847412109,0.07154190540313721,Diogo Jota,h,6854,FromCorner,2020,Head,14739,Liverpool,Aston Villa,2,1,2021-04-10 14:00:00,Andrew Robertson,Cross
+413880,35,MissedShots,0.8440000152587891,0.4909999847412109,0.08382292836904526,Mohamed Salah,h,1250,OpenPlay,2020,LeftFoot,14739,Liverpool,Aston Villa,2,1,2021-04-10 14:00:00,Roberto Firmino,Pass
+413881,37,SavedShot,0.8440000152587891,0.6509999847412109,0.052160780876874924,Diogo Jota,h,6854,OpenPlay,2020,RightFoot,14739,Liverpool,Aston Villa,2,1,2021-04-10 14:00:00,Trent Alexander-Arnold,Pass
+413882,40,BlockedShot,0.8430000305175781,0.3820000076293945,0.06587221473455429,Trent Alexander-Arnold,h,1791,OpenPlay,2020,RightFoot,14739,Liverpool,Aston Villa,2,1,2021-04-10 14:00:00,Mohamed Salah,Pass
+413883,41,BlockedShot,0.8719999694824219,0.3110000038146973,0.04511348530650139,Georginio Wijnaldum,h,771,OpenPlay,2020,RightFoot,14739,Liverpool,Aston Villa,2,1,2021-04-10 14:00:00,,None
+413885,49,BlockedShot,0.8490000152587891,0.585,0.05819736421108246,Roberto Firmino,h,482,OpenPlay,2020,LeftFoot,14739,Liverpool,Aston Villa,2,1,2021-04-10 14:00:00,Nathaniel Phillips,TakeOn
+413886,50,BlockedShot,0.8780000305175781,0.6270000076293946,0.061380013823509216,Mohamed Salah,h,1250,OpenPlay,2020,LeftFoot,14739,Liverpool,Aston Villa,2,1,2021-04-10 14:00:00,Georginio Wijnaldum,Pass
+413888,55,BlockedShot,0.8019999694824219,0.515,0.031521644443273544,Mohamed Salah,h,1250,FromCorner,2020,LeftFoot,14739,Liverpool,Aston Villa,2,1,2021-04-10 14:00:00,,None
+413889,55,MissedShots,0.914000015258789,0.6790000152587891,0.05670216679573059,Diogo Jota,h,6854,OpenPlay,2020,LeftFoot,14739,Liverpool,Aston Villa,2,1,2021-04-10 14:00:00,Nathaniel Phillips,HeadPass
+413890,56,SavedShot,0.8669999694824219,0.6959999847412109,0.04401037469506264,Andrew Robertson,h,1688,OpenPlay,2020,LeftFoot,14739,Liverpool,Aston Villa,2,1,2021-04-10 14:00:00,Diogo Jota,Pass
+413891,56,Goal,0.9519999694824218,0.46,0.4374676048755646,Mohamed Salah,h,1250,OpenPlay,2020,Head,14739,Liverpool,Aston Villa,2,1,2021-04-10 14:00:00,,Rebound
+413894,66,SavedShot,0.7809999847412109,0.675,0.02157352864742279,James Milner,h,489,OpenPlay,2020,RightFoot,14739,Liverpool,Aston Villa,2,1,2021-04-10 14:00:00,,Dispossessed
+413895,73,SavedShot,0.9259999847412109,0.5540000152587891,0.05115123838186264,Nathaniel Phillips,h,8228,SetPiece,2020,Head,14739,Liverpool,Aston Villa,2,1,2021-04-10 14:00:00,Andrew Robertson,End
+413897,90,SavedShot,0.9209999847412109,0.47299999237060547,0.12194471061229706,Thiago Alcántara,h,229,OpenPlay,2020,LeftFoot,14739,Liverpool,Aston Villa,2,1,2021-04-10 14:00:00,Xherdan Shaqiri,Cross
+413898,90,Goal,0.815,0.634000015258789,0.029697535559535027,Trent Alexander-Arnold,h,1791,OpenPlay,2020,RightFoot,14739,Liverpool,Aston Villa,2,1,2021-04-10 14:00:00,,Rebound
+413900,95,SavedShot,0.8830000305175781,0.37900001525878907,0.3405458629131317,Sadio Mané,h,838,OpenPlay,2020,RightFoot,14739,Liverpool,Aston Villa,2,1,2021-04-10 14:00:00,Xherdan Shaqiri,Pass
+413875,21,SavedShot,0.9340000152587891,0.4490000152587891,0.363640695810318,Ezri Konsa Ngoyo,a,7726,SetPiece,2020,Head,14739,Liverpool,Aston Villa,2,1,2021-04-10 14:00:00,Matt Targett,Cross
+413878,34,SavedShot,0.7340000152587891,0.285,0.013999261893332005,Matthew Cash,a,8864,OpenPlay,2020,RightFoot,14739,Liverpool,Aston Villa,2,1,2021-04-10 14:00:00,John McGinn,Pass
+413879,35,SavedShot,0.8169999694824219,0.285,0.02678351290524006,Trézéguet,a,7722,OpenPlay,2020,RightFoot,14739,Liverpool,Aston Villa,2,1,2021-04-10 14:00:00,Bertrand Traoré,Pass
+413884,42,Goal,0.850999984741211,0.48200000762939454,0.0972442775964737,Ollie Watkins,a,8865,OpenPlay,2020,LeftFoot,14739,Liverpool,Aston Villa,2,1,2021-04-10 14:00:00,John McGinn,Pass
+413887,53,MissedShots,0.8480000305175781,0.43900001525878907,0.10333100706338882,Bertrand Traoré,a,695,OpenPlay,2020,LeftFoot,14739,Liverpool,Aston Villa,2,1,2021-04-10 14:00:00,Ollie Watkins,Pass
+413892,61,ShotOnPost,0.8719999694824219,0.655,0.05214295536279678,Trézéguet,a,7722,OpenPlay,2020,RightFoot,14739,Liverpool,Aston Villa,2,1,2021-04-10 14:00:00,Ollie Watkins,Pass
+413893,61,MissedShots,0.9869999694824219,0.595999984741211,0.019527019932866096,Trézéguet,a,7722,OpenPlay,2020,Head,14739,Liverpool,Aston Villa,2,1,2021-04-10 14:00:00,,Rebound
+413896,76,SavedShot,0.7130000305175781,0.6179999923706054,0.011975991539657116,Ross Barkley,a,592,OpenPlay,2020,LeftFoot,14739,Liverpool,Aston Villa,2,1,2021-04-10 14:00:00,Ollie Watkins,HeadPass
+413899,93,MissedShots,0.9080000305175782,0.509000015258789,0.07299438118934631,Anwar El Ghazi,a,5612,OpenPlay,2020,Head,14739,Liverpool,Aston Villa,2,1,2021-04-10 14:00:00,Matthew Cash,Cross

@@ -1,0 +1,29 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+209006,3,BlockedShot,0.7559999847412109,0.4620000076293945,0.07176076620817184,Isaac Mbenza,h,5662,DirectFreekick,2017,RightFoot,8890,Montpellier,Bordeaux,1,3,2018-04-15 13:00:00,,Standard
+209010,17,BlockedShot,0.7480000305175781,0.565,0.017552994191646576,Nicolas Cozza,h,6007,OpenPlay,2017,LeftFoot,8890,Montpellier,Bordeaux,1,3,2018-04-15 13:00:00,Giovanni Sio,HeadPass
+209011,22,BlockedShot,0.7280000305175781,0.32599998474121095,0.015347041189670563,Giovanni Sio,h,3228,OpenPlay,2017,LeftFoot,8890,Montpellier,Bordeaux,1,3,2018-04-15 13:00:00,Ellyes Skhiri,Pass
+209012,28,BlockedShot,0.6569999694824219,0.3509999847412109,0.008661416359245777,Nordi Mukiele,h,5659,OpenPlay,2017,RightFoot,8890,Montpellier,Bordeaux,1,3,2018-04-15 13:00:00,,None
+209014,36,MissedShots,0.9630000305175781,0.5640000152587891,0.40832939743995667,Giovanni Sio,h,3228,OpenPlay,2017,Head,8890,Montpellier,Bordeaux,1,3,2018-04-15 13:00:00,Ruben Aguilar,Aerial
+209015,45,SavedShot,0.8530000305175781,0.2720000076293945,0.0325707346200943,Ruben Aguilar,h,6006,OpenPlay,2017,RightFoot,8890,Montpellier,Bordeaux,1,3,2018-04-15 13:00:00,Paul Lasne,HeadPass
+209018,61,SavedShot,0.730999984741211,0.509000015258789,0.011184892617166042,Ellyes Skhiri,h,3347,OpenPlay,2017,RightFoot,8890,Montpellier,Bordeaux,1,3,2018-04-15 13:00:00,,None
+209019,64,MissedShots,0.769000015258789,0.38799999237060545,0.023467177525162697,Paul Lasne,h,3741,OpenPlay,2017,LeftFoot,8890,Montpellier,Bordeaux,1,3,2018-04-15 13:00:00,Ellyes Skhiri,Pass
+209021,68,SavedShot,0.865,0.3509999847412109,0.07027538865804672,Isaac Mbenza,h,5662,OpenPlay,2017,RightFoot,8890,Montpellier,Bordeaux,1,3,2018-04-15 13:00:00,Casimir Ninga,Pass
+209022,69,MissedShots,0.754000015258789,0.40400001525878904,0.020799214020371437,Isaac Mbenza,h,5662,OpenPlay,2017,RightFoot,8890,Montpellier,Bordeaux,1,3,2018-04-15 13:00:00,Paul Lasne,Pass
+209023,72,BlockedShot,0.845,0.33,0.047143857926130295,Nordi Mukiele,h,5659,OpenPlay,2017,LeftFoot,8890,Montpellier,Bordeaux,1,3,2018-04-15 13:00:00,Paul Lasne,Pass
+209024,74,MissedShots,0.905,0.4779999923706055,0.056069791316986084,Nordi Mukiele,h,5659,OpenPlay,2017,Head,8890,Montpellier,Bordeaux,1,3,2018-04-15 13:00:00,Keagan Dolly,Aerial
+209027,78,BlockedShot,0.7959999847412109,0.635,0.03159824386239052,Keagan Dolly,h,5663,OpenPlay,2017,LeftFoot,8890,Montpellier,Bordeaux,1,3,2018-04-15 13:00:00,,BallTouch
+209028,83,MissedShots,0.7219999694824218,0.735999984741211,0.008887195959687233,Keagan Dolly,h,5663,OpenPlay,2017,LeftFoot,8890,Montpellier,Bordeaux,1,3,2018-04-15 13:00:00,Ellyes Skhiri,TakeOn
+209029,84,MissedShots,0.8590000152587891,0.5429999923706055,0.09713839739561081,Casimir Ninga,h,3344,OpenPlay,2017,RightFoot,8890,Montpellier,Bordeaux,1,3,2018-04-15 13:00:00,Keagan Dolly,Pass
+209030,86,BlockedShot,0.740999984741211,0.53,0.01962551288306713,Keagan Dolly,h,5663,OpenPlay,2017,LeftFoot,8890,Montpellier,Bordeaux,1,3,2018-04-15 13:00:00,Ellyes Skhiri,Pass
+209031,87,Goal,0.7719999694824219,0.55,0.023313386365771294,Ellyes Skhiri,h,3347,OpenPlay,2017,RightFoot,8890,Montpellier,Bordeaux,1,3,2018-04-15 13:00:00,Souleymane Camara,Pass
+209032,90,SavedShot,0.885,0.5,0.7600294947624207,Souleymane Camara,h,3590,Penalty,2017,RightFoot,8890,Montpellier,Bordeaux,1,3,2018-04-15 13:00:00,,Standard
+209033,94,MissedShots,0.9209999847412109,0.539000015258789,0.12743620574474335,Souleymane Camara,h,3590,SetPiece,2017,Head,8890,Montpellier,Bordeaux,1,3,2018-04-15 13:00:00,Keagan Dolly,Cross
+209007,8,BlockedShot,0.865,0.53,0.022185886278748512,Pablo,a,3265,FromCorner,2017,Head,8890,Montpellier,Bordeaux,1,3,2018-04-15 13:00:00,Valentin Vada,Cross
+209008,8,Goal,0.9840000152587891,0.5459999847412109,0.620924174785614,Martin Braithwaite,a,3211,FromCorner,2017,Head,8890,Montpellier,Bordeaux,1,3,2018-04-15 13:00:00,Pablo,Rebound
+209009,11,BlockedShot,0.8519999694824218,0.24899999618530275,0.02452494390308857,Francois Kamano,a,3333,OpenPlay,2017,RightFoot,8890,Montpellier,Bordeaux,1,3,2018-04-15 13:00:00,Valentin Vada,TakeOn
+209013,30,BlockedShot,0.7619999694824219,0.59,0.0331825353205204,Martin Braithwaite,a,3211,OpenPlay,2017,RightFoot,8890,Montpellier,Bordeaux,1,3,2018-04-15 13:00:00,,None
+209016,47,MissedShots,0.9269999694824219,0.43,0.12930665910243988,Martin Braithwaite,a,3211,OpenPlay,2017,Head,8890,Montpellier,Bordeaux,1,3,2018-04-15 13:00:00,Younousse Sankhare,Cross
+209017,48,Goal,0.86,0.6519999694824219,0.0655159130692482,Francois Kamano,a,3333,OpenPlay,2017,RightFoot,8890,Montpellier,Bordeaux,1,3,2018-04-15 13:00:00,Lukas Lerager,Chipped
+209020,65,SavedShot,0.919000015258789,0.47900001525878905,0.12153404951095581,Pablo,a,3265,SetPiece,2017,Head,8890,Montpellier,Bordeaux,1,3,2018-04-15 13:00:00,Malcom,Cross
+209025,76,MissedShots,0.8930000305175781,0.504000015258789,0.018686657771468163,Pablo,a,3265,FromCorner,2017,Head,8890,Montpellier,Bordeaux,1,3,2018-04-15 13:00:00,Malcom,Aerial
+209026,77,Goal,0.895,0.52,0.5166224241256714,Soualiho Meité,a,3739,OpenPlay,2017,RightFoot,8890,Montpellier,Bordeaux,1,3,2018-04-15 13:00:00,Diego Contento,Pass

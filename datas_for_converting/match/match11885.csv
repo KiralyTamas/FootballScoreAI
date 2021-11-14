@@ -1,0 +1,25 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+352479,19,MissedShots,0.784000015258789,0.645,0.0233549065887928,Luka Milivojevic,h,5549,OpenPlay,2019,LeftFoot,11885,Crystal Palace,Sheffield United,0,1,2020-02-01 15:00:00,,None
+352480,24,MissedShots,0.9530000305175781,0.6659999847412109,0.09718113392591476,Christian Benteke,h,606,OpenPlay,2019,LeftFoot,11885,Crystal Palace,Sheffield United,0,1,2020-02-01 15:00:00,Jordan Ayew,Pass
+352481,29,SavedShot,0.784000015258789,0.6880000305175781,0.018765008077025414,James McArthur,h,633,OpenPlay,2019,RightFoot,11885,Crystal Palace,Sheffield United,0,1,2020-02-01 15:00:00,Christian Benteke,Pass
+352482,31,BlockedShot,0.7919999694824219,0.769000015258789,0.015492315404117107,James McCarthy,h,589,OpenPlay,2019,RightFoot,11885,Crystal Palace,Sheffield United,0,1,2020-02-01 15:00:00,Wilfried Zaha,Pass
+352483,39,MissedShots,0.9169999694824219,0.46,0.03359674662351608,Gary Cahill,h,699,FromCorner,2019,Head,11885,Crystal Palace,Sheffield United,0,1,2020-02-01 15:00:00,Luka Milivojevic,Aerial
+352484,42,MissedShots,0.8690000152587891,0.6969999694824218,0.037214495241642,Patrick van Aanholt,h,730,OpenPlay,2019,LeftFoot,11885,Crystal Palace,Sheffield United,0,1,2020-02-01 15:00:00,James McArthur,Pass
+352486,47,SavedShot,0.8490000152587891,0.46700000762939453,0.0896054059267044,Christian Benteke,h,606,OpenPlay,2019,LeftFoot,11885,Crystal Palace,Sheffield United,0,1,2020-02-01 15:00:00,Wilfried Zaha,Pass
+352487,52,BlockedShot,0.8419999694824218,0.6359999847412109,0.10366928577423096,Wilfried Zaha,h,522,OpenPlay,2019,LeftFoot,11885,Crystal Palace,Sheffield United,0,1,2020-02-01 15:00:00,Luka Milivojevic,BallRecovery
+352489,57,OwnGoal,0.01,0.514000015258789,0,Vicente Guaita,h,2190,FromCorner,2019,OtherBodyPart,11885,Crystal Palace,Sheffield United,0,1,2020-02-01 15:00:00,,CornerAwarded
+352491,62,SavedShot,0.899000015258789,0.595999984741211,0.09704431891441345,James McArthur,h,633,OpenPlay,2019,RightFoot,11885,Crystal Palace,Sheffield United,0,1,2020-02-01 15:00:00,Wilfried Zaha,Pass
+352493,68,BlockedShot,0.8080000305175781,0.7290000152587891,0.018782135099172592,Patrick van Aanholt,h,730,OpenPlay,2019,LeftFoot,11885,Crystal Palace,Sheffield United,0,1,2020-02-01 15:00:00,Christian Benteke,Pass
+352494,69,MissedShots,0.955999984741211,0.5590000152587891,0.36827725172042847,James Tomkins,h,530,FromCorner,2019,Head,11885,Crystal Palace,Sheffield United,0,1,2020-02-01 15:00:00,James McArthur,Cross
+352501,91,BlockedShot,0.9059999847412109,0.6090000152587891,0.040858592838048935,Gary Cahill,h,699,OpenPlay,2019,RightFoot,11885,Crystal Palace,Sheffield United,0,1,2020-02-01 15:00:00,,Aerial
+352502,92,BlockedShot,0.7709999847412109,0.5670000076293945,0.026221588253974915,Wilfried Zaha,h,522,OpenPlay,2019,LeftFoot,11885,Crystal Palace,Sheffield United,0,1,2020-02-01 15:00:00,Jordan Ayew,Pass
+352485,46,BlockedShot,0.705,0.5309999847412109,0.017906801775097847,John Fleck,a,7709,OpenPlay,2019,LeftFoot,11885,Crystal Palace,Sheffield United,0,1,2020-02-01 15:00:00,Oliver Norwood,Pass
+352488,56,BlockedShot,0.9869999694824219,0.6940000152587891,0.04866195470094681,Billy Sharp,a,7712,OpenPlay,2019,LeftFoot,11885,Crystal Palace,Sheffield United,0,1,2020-02-01 15:00:00,John Fleck,Pass
+352490,60,SavedShot,0.7680000305175781,0.31,0.05262475833296776,Oliver Norwood,a,7710,DirectFreekick,2019,RightFoot,11885,Crystal Palace,Sheffield United,0,1,2020-02-01 15:00:00,,Standard
+352492,64,SavedShot,0.7619999694824219,0.7090000152587891,0.027177128940820694,Lys Mousset,a,1748,OpenPlay,2019,RightFoot,11885,Crystal Palace,Sheffield United,0,1,2020-02-01 15:00:00,Oliver McBurnie,HeadPass
+352495,74,MissedShots,0.7830000305175782,0.3820000076293945,0.024795720353722572,John Lundstram,a,7708,SetPiece,2019,RightFoot,11885,Crystal Palace,Sheffield United,0,1,2020-02-01 15:00:00,Oliver Norwood,Pass
+352496,81,SavedShot,0.879000015258789,0.5829999923706055,0.37200927734375,Enda Stevens,a,7707,OpenPlay,2019,LeftFoot,11885,Crystal Palace,Sheffield United,0,1,2020-02-01 15:00:00,Lys Mousset,Pass
+352497,84,BlockedShot,0.8980000305175782,0.5820000076293945,0.013581542298197746,Oliver McBurnie,a,1736,FromCorner,2019,Head,11885,Crystal Palace,Sheffield United,0,1,2020-02-01 15:00:00,John Fleck,Aerial
+352498,84,MissedShots,0.915,0.48700000762939455,0.1321793794631958,John Egan,a,7703,FromCorner,2019,RightFoot,11885,Crystal Palace,Sheffield United,0,1,2020-02-01 15:00:00,,Rebound
+352499,87,BlockedShot,0.8469999694824218,0.34599998474121096,0.09265637397766113,Lys Mousset,a,1748,OpenPlay,2019,RightFoot,11885,Crystal Palace,Sheffield United,0,1,2020-02-01 15:00:00,John Lundstram,TakeOn
+352500,87,MissedShots,0.919000015258789,0.6359999847412109,0.08922407031059265,Enda Stevens,a,7707,OpenPlay,2019,LeftFoot,11885,Crystal Palace,Sheffield United,0,1,2020-02-01 15:00:00,,Rebound

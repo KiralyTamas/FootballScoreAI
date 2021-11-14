@@ -1,0 +1,43 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+291756,10,MissedShots,0.7290000152587891,0.6819999694824219,0.013257184997200966,Roland Gigolaev,h,2835,OpenPlay,2018,LeftFoot,9120,Anzhi Makhachkala,Dinamo Moscow,1,1,2019-04-06 12:00:00,Vladislav Kulik,Pass
+291760,15,Goal,0.7330000305175781,0.49900001525878906,0.018520163372159004,Andrés Ponce,h,1811,OpenPlay,2018,RightFoot,9120,Anzhi Makhachkala,Dinamo Moscow,1,1,2019-04-06 12:00:00,Yuri Dyupin,Pass
+291769,35,MissedShots,0.9219999694824219,0.47400001525878904,0.058270636945962906,Pavel Kaloshin,h,6848,SetPiece,2018,Head,9120,Anzhi Makhachkala,Dinamo Moscow,1,1,2019-04-06 12:00:00,Vladislav Kulik,Aerial
+291781,62,BlockedShot,0.755,0.415,0.0225211251527071,Andrés Ponce,h,1811,OpenPlay,2018,RightFoot,9120,Anzhi Makhachkala,Dinamo Moscow,1,1,2019-04-06 12:00:00,Apti Ahyadov,Pass
+291782,62,BlockedShot,0.815,0.5029999923706054,0.050637003034353256,Vladislav Kulik,h,3108,OpenPlay,2018,RightFoot,9120,Anzhi Makhachkala,Dinamo Moscow,1,1,2019-04-06 12:00:00,,Rebound
+291788,76,MissedShots,0.6890000152587891,0.605,0.012675276957452297,Gael Ondoua,h,6814,OpenPlay,2018,LeftFoot,9120,Anzhi Makhachkala,Dinamo Moscow,1,1,2019-04-06 12:00:00,Vladislav Kulik,Pass
+291790,78,MissedShots,0.784000015258789,0.3920000076293945,0.01912938989698887,Andrés Ponce,h,1811,OpenPlay,2018,LeftFoot,9120,Anzhi Makhachkala,Dinamo Moscow,1,1,2019-04-06 12:00:00,,TakeOn
+291796,90,MissedShots,0.8619999694824219,0.500999984741211,0.33802497386932373,Ivan Markelov,h,5530,OpenPlay,2018,LeftFoot,9120,Anzhi Makhachkala,Dinamo Moscow,1,1,2019-04-06 12:00:00,Kamil Zakirov,Pass
+291755,3,MissedShots,0.740999984741211,0.4620000076293945,0.015386578626930714,Aleksei Kozlov,a,3021,FromCorner,2018,RightFoot,9120,Anzhi Makhachkala,Dinamo Moscow,1,1,2019-04-06 12:00:00,,None
+291757,12,MissedShots,0.94,0.4779999923706055,0.46934226155281067,Miguel Cardoso,a,2583,OpenPlay,2018,Head,9120,Anzhi Makhachkala,Dinamo Moscow,1,1,2019-04-06 12:00:00,Gregory Morozov,Cross
+291758,14,MissedShots,0.87,0.5729999923706055,0.02300208993256092,Roman Evgeniev,a,7196,FromCorner,2018,Head,9120,Anzhi Makhachkala,Dinamo Moscow,1,1,2019-04-06 12:00:00,Aleksei Kozlov,Cross
+291759,15,SavedShot,0.91,0.7419999694824219,0.038390547037124634,Kirill Panchenko,a,2887,OpenPlay,2018,RightFoot,9120,Anzhi Makhachkala,Dinamo Moscow,1,1,2019-04-06 12:00:00,Joãozinho,Pass
+291761,18,MissedShots,0.710999984741211,0.625999984741211,0.011097784154117107,Gregory Morozov,a,2755,OpenPlay,2018,LeftFoot,9120,Anzhi Makhachkala,Dinamo Moscow,1,1,2019-04-06 12:00:00,Tetteh,Dispossessed
+291762,18,MissedShots,0.7430000305175781,0.6079999923706054,0.02102062478661537,Gregory Morozov,a,2755,OpenPlay,2018,LeftFoot,9120,Anzhi Makhachkala,Dinamo Moscow,1,1,2019-04-06 12:00:00,,Rebound
+291763,22,MissedShots,0.7290000152587891,0.5940000152587891,0.016921134665608406,Joãozinho,a,2928,OpenPlay,2018,LeftFoot,9120,Anzhi Makhachkala,Dinamo Moscow,1,1,2019-04-06 12:00:00,Miguel Cardoso,Pass
+291764,23,MissedShots,0.8880000305175781,0.40299999237060546,0.09032674878835678,Kirill Panchenko,a,2887,OpenPlay,2018,RightFoot,9120,Anzhi Makhachkala,Dinamo Moscow,1,1,2019-04-06 12:00:00,Evgeni Lutsenko,Pass
+291765,23,SavedShot,0.9530000305175781,0.6140000152587891,0.07847912609577179,Miguel Cardoso,a,2583,OpenPlay,2018,LeftFoot,9120,Anzhi Makhachkala,Dinamo Moscow,1,1,2019-04-06 12:00:00,Kirill Panchenko,Rebound
+291766,24,BlockedShot,0.8969999694824219,0.53,0.07062650471925735,Toni Sunjic,a,57,FromCorner,2018,LeftFoot,9120,Anzhi Makhachkala,Dinamo Moscow,1,1,2019-04-06 12:00:00,Gregory Morozov,Cross
+291767,28,BlockedShot,0.7859999847412109,0.565,0.03247816860675812,Gregory Morozov,a,2755,OpenPlay,2018,RightFoot,9120,Anzhi Makhachkala,Dinamo Moscow,1,1,2019-04-06 12:00:00,,None
+291768,33,MissedShots,0.8730000305175781,0.5690000152587891,0.11170399188995361,Joãozinho,a,2928,OpenPlay,2018,LeftFoot,9120,Anzhi Makhachkala,Dinamo Moscow,1,1,2019-04-06 12:00:00,Gregory Morozov,Throughball
+291770,38,SavedShot,0.9030000305175782,0.44099998474121094,0.40972790122032166,Kirill Panchenko,a,2887,OpenPlay,2018,RightFoot,9120,Anzhi Makhachkala,Dinamo Moscow,1,1,2019-04-06 12:00:00,Evgeni Lutsenko,Throughball
+291771,39,MissedShots,0.7080000305175781,0.4879999923706055,0.014537894167006016,Tetteh,a,6612,OpenPlay,2018,RightFoot,9120,Anzhi Makhachkala,Dinamo Moscow,1,1,2019-04-06 12:00:00,Artur Yusupov,Pass
+291772,45,SavedShot,0.78,0.6090000152587891,0.024057751521468163,Kirill Panchenko,a,2887,OpenPlay,2018,RightFoot,9120,Anzhi Makhachkala,Dinamo Moscow,1,1,2019-04-06 12:00:00,Miguel Cardoso,Pass
+291773,49,BlockedShot,0.87,0.45,0.0814247876405716,Kirill Panchenko,a,2887,OpenPlay,2018,RightFoot,9120,Anzhi Makhachkala,Dinamo Moscow,1,1,2019-04-06 12:00:00,Artur Yusupov,Pass
+291774,51,BlockedShot,0.8419999694824218,0.46299999237060546,0.053898703306913376,Kirill Panchenko,a,2887,OpenPlay,2018,RightFoot,9120,Anzhi Makhachkala,Dinamo Moscow,1,1,2019-04-06 12:00:00,,Dispossessed
+291775,51,BlockedShot,0.8080000305175781,0.3920000076293945,0.0360923670232296,Miguel Cardoso,a,2583,OpenPlay,2018,RightFoot,9120,Anzhi Makhachkala,Dinamo Moscow,1,1,2019-04-06 12:00:00,,Rebound
+291776,52,BlockedShot,0.875,0.575,0.0744604766368866,Kirill Panchenko,a,2887,OpenPlay,2018,LeftFoot,9120,Anzhi Makhachkala,Dinamo Moscow,1,1,2019-04-06 12:00:00,Tetteh,Pass
+291777,52,BlockedShot,0.8390000152587891,0.3820000076293945,0.030066445469856262,Kirill Panchenko,a,2887,FromCorner,2018,RightFoot,9120,Anzhi Makhachkala,Dinamo Moscow,1,1,2019-04-06 12:00:00,Miguel Cardoso,Pass
+291778,55,BlockedShot,0.779000015258789,0.36900001525878906,0.027725517749786377,Kirill Panchenko,a,2887,OpenPlay,2018,RightFoot,9120,Anzhi Makhachkala,Dinamo Moscow,1,1,2019-04-06 12:00:00,Aleksei Kozlov,Pass
+291779,57,SavedShot,0.8930000305175781,0.5209999847412109,0.026364784687757492,Vyacheslav Grulev,a,6611,OpenPlay,2018,Head,9120,Anzhi Makhachkala,Dinamo Moscow,1,1,2019-04-06 12:00:00,Miguel Cardoso,Aerial
+291780,61,MissedShots,0.8969999694824219,0.509000015258789,0.06792405247688293,Evgeni Lutsenko,a,3035,OpenPlay,2018,Head,9120,Anzhi Makhachkala,Dinamo Moscow,1,1,2019-04-06 12:00:00,Miguel Cardoso,Cross
+291783,63,SavedShot,0.7440000152587891,0.48400001525878905,0.035771727561950684,Artur Yusupov,a,3067,OpenPlay,2018,RightFoot,9120,Anzhi Makhachkala,Dinamo Moscow,1,1,2019-04-06 12:00:00,,None
+291784,63,BlockedShot,0.875,0.38,0.09634871780872345,Kirill Panchenko,a,2887,OpenPlay,2018,RightFoot,9120,Anzhi Makhachkala,Dinamo Moscow,1,1,2019-04-06 12:00:00,,Rebound
+291785,72,BlockedShot,0.925,0.6430000305175781,0.08143851906061172,Vyacheslav Grulev,a,6611,OpenPlay,2018,LeftFoot,9120,Anzhi Makhachkala,Dinamo Moscow,1,1,2019-04-06 12:00:00,Evgeni Lutsenko,Pass
+291786,72,Goal,0.89,0.4909999847412109,0.05107853561639786,Toni Sunjic,a,57,FromCorner,2018,Head,9120,Anzhi Makhachkala,Dinamo Moscow,1,1,2019-04-06 12:00:00,Artur Yusupov,Cross
+291787,75,BlockedShot,0.7480000305175781,0.3039999961853027,0.04071570560336113,Konstantin Rausch,a,13,DirectFreekick,2018,LeftFoot,9120,Anzhi Makhachkala,Dinamo Moscow,1,1,2019-04-06 12:00:00,,Standard
+291789,77,MissedShots,0.7880000305175782,0.544000015258789,0.03808579593896866,Kirill Panchenko,a,2887,OpenPlay,2018,RightFoot,9120,Anzhi Makhachkala,Dinamo Moscow,1,1,2019-04-06 12:00:00,Vyacheslav Grulev,Pass
+291791,79,MissedShots,0.8730000305175781,0.6780000305175782,0.05140082165598869,Vyacheslav Grulev,a,6611,OpenPlay,2018,LeftFoot,9120,Anzhi Makhachkala,Dinamo Moscow,1,1,2019-04-06 12:00:00,Evgeni Lutsenko,Dispossessed
+291792,87,SavedShot,0.8109999847412109,0.375,0.03440162539482117,Kirill Panchenko,a,2887,OpenPlay,2018,RightFoot,9120,Anzhi Makhachkala,Dinamo Moscow,1,1,2019-04-06 12:00:00,Evgeni Lutsenko,HeadPass
+291793,87,BlockedShot,0.875,0.40599998474121096,0.06580086797475815,Kirill Panchenko,a,2887,OpenPlay,2018,LeftFoot,9120,Anzhi Makhachkala,Dinamo Moscow,1,1,2019-04-06 12:00:00,,Rebound
+291794,88,MissedShots,0.8390000152587891,0.6759999847412109,0.03724650293588638,Danil Lipovoy,a,7010,OpenPlay,2018,LeftFoot,9120,Anzhi Makhachkala,Dinamo Moscow,1,1,2019-04-06 12:00:00,Vyacheslav Grulev,TakeOn
+291795,88,SavedShot,0.9130000305175782,0.5320000076293945,0.46138137578964233,Kirill Panchenko,a,2887,OpenPlay,2018,LeftFoot,9120,Anzhi Makhachkala,Dinamo Moscow,1,1,2019-04-06 12:00:00,Vyacheslav Grulev,Pass

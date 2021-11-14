@@ -1,0 +1,37 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+77044,7,MissedShots,0.9540000152587891,0.5829999923706055,0.4742400348186493,Timo Werner,h,65,OpenPlay,2015,RightFoot,1063,VfB Stuttgart,Schalke 04,0,1,2015-09-20 17:30:00,Filip Kostic,Pass
+77045,14,MissedShots,0.8719999694824219,0.4490000152587891,0.014352038502693176,Timo Werner,h,65,OpenPlay,2015,Head,1063,VfB Stuttgart,Schalke 04,0,1,2015-09-20 17:30:00,Florian Klein,Aerial
+77046,16,SavedShot,0.855999984741211,0.19200000762939454,0.021823367103934288,Timo Werner,h,65,OpenPlay,2015,LeftFoot,1063,VfB Stuttgart,Schalke 04,0,1,2015-09-20 17:30:00,Alexandru Maxim,Pass
+77047,17,MissedShots,0.980999984741211,0.47200000762939454,0.724536657333374,Timo Baumgartl,h,71,OpenPlay,2015,Head,1063,VfB Stuttgart,Schalke 04,0,1,2015-09-20 17:30:00,Filip Kostic,Chipped
+77049,24,BlockedShot,0.74,0.6669999694824219,0.04704541340470314,Daniel Ginczek,h,426,DirectFreekick,2015,RightFoot,1063,VfB Stuttgart,Schalke 04,0,1,2015-09-20 17:30:00,,Standard
+77050,26,MissedShots,0.8159999847412109,0.54,0.14436839520931244,Daniel Ginczek,h,426,OpenPlay,2015,RightFoot,1063,VfB Stuttgart,Schalke 04,0,1,2015-09-20 17:30:00,Alexandru Maxim,Throughball
+77051,28,SavedShot,0.89,0.5359999847412109,0.04705122858285904,Daniel Ginczek,h,426,FromCorner,2015,Head,1063,VfB Stuttgart,Schalke 04,0,1,2015-09-20 17:30:00,Alexandru Maxim,Cross
+77053,32,MissedShots,0.7440000152587891,0.705,0.04326653853058815,Alexandru Maxim,h,63,DirectFreekick,2015,RightFoot,1063,VfB Stuttgart,Schalke 04,0,1,2015-09-20 17:30:00,,Standard
+77056,33,MissedShots,0.985999984741211,0.4129999923706055,0.08264824748039246,Daniel Ginczek,h,426,OpenPlay,2015,RightFoot,1063,VfB Stuttgart,Schalke 04,0,1,2015-09-20 17:30:00,,None
+77058,40,MissedShots,0.7380000305175781,0.4209999847412109,0.01812584698200226,Florian Klein,h,383,OpenPlay,2015,RightFoot,1063,VfB Stuttgart,Schalke 04,0,1,2015-09-20 17:30:00,Christian Gentner,LayOff
+77059,40,SavedShot,0.970999984741211,0.34299999237060547,0.07178866863250732,Christian Gentner,h,60,OpenPlay,2015,RightFoot,1063,VfB Stuttgart,Schalke 04,0,1,2015-09-20 17:30:00,Timo Werner,Rebound
+77060,40,SavedShot,0.975,0.34299999237060547,0.030944790691137314,Christian Gentner,h,60,OpenPlay,2015,RightFoot,1063,VfB Stuttgart,Schalke 04,0,1,2015-09-20 17:30:00,Filip Kostic,Cross
+77061,42,MissedShots,0.9680000305175781,0.590999984741211,0.09881003201007843,Alexandru Maxim,h,63,OpenPlay,2015,RightFoot,1063,VfB Stuttgart,Schalke 04,0,1,2015-09-20 17:30:00,Filip Kostic,Cross
+77062,49,SavedShot,0.8690000152587891,0.5790000152587891,0.009289597161114216,Christian Gentner,h,60,SetPiece,2015,Head,1063,VfB Stuttgart,Schalke 04,0,1,2015-09-20 17:30:00,Alexandru Maxim,Aerial
+77064,54,SavedShot,0.8919999694824219,0.4370000076293945,0.04001811519265175,Daniel Ginczek,h,426,FromCorner,2015,Head,1063,VfB Stuttgart,Schalke 04,0,1,2015-09-20 17:30:00,Filip Kostic,Cross
+77065,58,MissedShots,0.7909999847412109,0.615,0.02297055721282959,Emiliano Insúa,h,59,FromCorner,2015,LeftFoot,1063,VfB Stuttgart,Schalke 04,0,1,2015-09-20 17:30:00,,None
+77066,61,MissedShots,0.965999984741211,0.4929999923706055,0.12039956450462341,Timo Baumgartl,h,71,SetPiece,2015,LeftFoot,1063,VfB Stuttgart,Schalke 04,0,1,2015-09-20 17:30:00,Daniel Ginczek,HeadPass
+77068,66,MissedShots,0.9580000305175781,0.4929999923706055,0.13664193451404572,Toni Sunjic,h,57,FromCorner,2015,Head,1063,VfB Stuttgart,Schalke 04,0,1,2015-09-20 17:30:00,Filip Kostic,Cross
+77069,69,SavedShot,0.855,0.639000015258789,0.04939471185207367,Timo Werner,h,65,OpenPlay,2015,RightFoot,1063,VfB Stuttgart,Schalke 04,0,1,2015-09-20 17:30:00,,None
+77070,70,SavedShot,0.8680000305175781,0.3890000152587891,0.0648638978600502,Florian Klein,h,383,OpenPlay,2015,RightFoot,1063,VfB Stuttgart,Schalke 04,0,1,2015-09-20 17:30:00,Geoffroy Serey Dié,Chipped
+77071,72,MissedShots,0.9580000305175781,0.6569999694824219,0.032319050282239914,Christian Gentner,h,60,SetPiece,2015,RightFoot,1063,VfB Stuttgart,Schalke 04,0,1,2015-09-20 17:30:00,Daniel Didavi,Cross
+77074,74,SavedShot,0.925,0.43099998474121093,0.277222603559494,Daniel Ginczek,h,426,OpenPlay,2015,RightFoot,1063,VfB Stuttgart,Schalke 04,0,1,2015-09-20 17:30:00,Florian Klein,Chipped
+77075,80,MissedShots,0.879000015258789,0.43599998474121093,0.06782077252864838,Florian Klein,h,383,OpenPlay,2015,RightFoot,1063,VfB Stuttgart,Schalke 04,0,1,2015-09-20 17:30:00,Emiliano Insúa,Cross
+77076,82,MissedShots,0.904000015258789,0.669000015258789,0.04115321859717369,Filip Kostic,h,64,OpenPlay,2015,LeftFoot,1063,VfB Stuttgart,Schalke 04,0,1,2015-09-20 17:30:00,Florian Klein,Cross
+77077,82,MissedShots,0.9580000305175781,0.49599998474121093,0.6200128197669983,Martin Harnik,h,407,OpenPlay,2015,RightFoot,1063,VfB Stuttgart,Schalke 04,0,1,2015-09-20 17:30:00,Filip Kostic,None
+77079,89,MissedShots,0.745,0.415,0.01283967588096857,Geoffroy Serey Dié,h,61,SetPiece,2015,RightFoot,1063,VfB Stuttgart,Schalke 04,0,1,2015-09-20 17:30:00,,None
+77048,19,SavedShot,0.9419999694824219,0.5109999847412109,0.4172007143497467,Joel Matip,a,332,FromCorner,2015,RightFoot,1063,VfB Stuttgart,Schalke 04,0,1,2015-09-20 17:30:00,Johannes Geis,Cross
+77052,29,SavedShot,0.855,0.6759999847412109,0.05084371939301491,Max Meyer,a,338,OpenPlay,2015,RightFoot,1063,VfB Stuttgart,Schalke 04,0,1,2015-09-20 17:30:00,Klaas-Jan Huntelaar,Pass
+77054,33,BlockedShot,0.754000015258789,0.48200000762939454,0.024068038910627365,Klaas-Jan Huntelaar,a,340,OpenPlay,2015,RightFoot,1063,VfB Stuttgart,Schalke 04,0,1,2015-09-20 17:30:00,Max Meyer,Pass
+77055,33,MissedShots,0.91,0.45799999237060546,0.050570931285619736,Leon Goretzka,a,335,OpenPlay,2015,Head,1063,VfB Stuttgart,Schalke 04,0,1,2015-09-20 17:30:00,Leroy Sané,Chipped
+77057,38,SavedShot,0.76,0.35400001525878905,0.020714828744530678,Leroy Sané,a,337,OpenPlay,2015,LeftFoot,1063,VfB Stuttgart,Schalke 04,0,1,2015-09-20 17:30:00,Max Meyer,Pass
+77063,52,Goal,0.9330000305175781,0.6580000305175782,0.2657362222671509,Leroy Sané,a,337,OpenPlay,2015,LeftFoot,1063,VfB Stuttgart,Schalke 04,0,1,2015-09-20 17:30:00,Max Meyer,TakeOn
+77067,62,SavedShot,0.8009999847412109,0.62,0.0441976934671402,Pierre-Emile Højbjerg,a,343,OpenPlay,2015,RightFoot,1063,VfB Stuttgart,Schalke 04,0,1,2015-09-20 17:30:00,Max Meyer,Pass
+77072,72,SavedShot,0.8619999694824219,0.3940000152587891,0.08301302790641785,Pierre-Emile Højbjerg,a,343,OpenPlay,2015,RightFoot,1063,VfB Stuttgart,Schalke 04,0,1,2015-09-20 17:30:00,Franco Di Santo,HeadPass
+77073,72,MissedShots,0.8219999694824218,0.5109999847412109,0.07206973433494568,Eric Maxim Choupo-Moting,a,339,OpenPlay,2015,LeftFoot,1063,VfB Stuttgart,Schalke 04,0,1,2015-09-20 17:30:00,,None
+77078,88,MissedShots,0.9890000152587891,0.3220000076293945,0.06517954170703888,Pierre-Emile Højbjerg,a,343,OpenPlay,2015,RightFoot,1063,VfB Stuttgart,Schalke 04,0,1,2015-09-20 17:30:00,Júnior Caiçara,TakeOn

@@ -1,0 +1,33 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+185447,3,BlockedShot,0.7680000305175781,0.585,0.023648694157600403,Christian Eriksen,h,646,OpenPlay,2017,LeftFoot,7316,Tottenham,Southampton,5,2,2017-12-26 12:30:00,,None
+185448,4,BlockedShot,0.9030000305175782,0.33,0.05876043066382408,Serge Aurier,h,3600,OpenPlay,2017,LeftFoot,7316,Tottenham,Southampton,5,2,2017-12-26 12:30:00,,None
+185449,5,MissedShots,0.9630000305175781,0.40299999237060546,0.132866770029068,Harry Kane,h,647,OpenPlay,2017,LeftFoot,7316,Tottenham,Southampton,5,2,2017-12-26 12:30:00,Christian Eriksen,Pass
+185450,7,SavedShot,0.7759999847412109,0.735999984741211,0.015322236344218254,Eric Dier,h,643,OpenPlay,2017,RightFoot,7316,Tottenham,Southampton,5,2,2017-12-26 12:30:00,Son Heung-Min,Pass
+185451,13,MissedShots,0.909000015258789,0.7,0.04778755083680153,Dele Alli,h,645,OpenPlay,2017,RightFoot,7316,Tottenham,Southampton,5,2,2017-12-26 12:30:00,Davinson Sánchez,Chipped
+185452,21,Goal,0.975999984741211,0.495,0.8189860582351685,Harry Kane,h,647,SetPiece,2017,Head,7316,Tottenham,Southampton,5,2,2017-12-26 12:30:00,Christian Eriksen,Cross
+185454,30,MissedShots,0.924000015258789,0.3220000076293945,0.08602190017700195,Christian Eriksen,h,646,OpenPlay,2017,RightFoot,7316,Tottenham,Southampton,5,2,2017-12-26 12:30:00,Mousa Dembélé,Pass
+185455,33,BlockedShot,0.7709999847412109,0.75,0.04245953634381294,Harry Kane,h,647,DirectFreekick,2017,RightFoot,7316,Tottenham,Southampton,5,2,2017-12-26 12:30:00,,Standard
+185456,36,MissedShots,0.7340000152587891,0.48900001525878906,0.01942402683198452,Harry Kane,h,647,SetPiece,2017,RightFoot,7316,Tottenham,Southampton,5,2,2017-12-26 12:30:00,Christian Eriksen,Pass
+185457,38,Goal,0.9519999694824218,0.49400001525878906,0.6739716529846191,Harry Kane,h,647,OpenPlay,2017,LeftFoot,7316,Tottenham,Southampton,5,2,2017-12-26 12:30:00,Son Heung-Min,Pass
+185459,45,MissedShots,0.795,0.40400001525878904,0.057523030787706375,Harry Kane,h,647,OpenPlay,2017,RightFoot,7316,Tottenham,Southampton,5,2,2017-12-26 12:30:00,Christian Eriksen,Pass
+185462,48,Goal,0.81,0.720999984741211,0.03353596851229668,Dele Alli,h,645,OpenPlay,2017,RightFoot,7316,Tottenham,Southampton,5,2,2017-12-26 12:30:00,Son Heung-Min,Pass
+185464,50,Goal,0.8969999694824219,0.37099998474121093,0.3017120957374573,Son Heung-Min,h,453,OpenPlay,2017,RightFoot,7316,Tottenham,Southampton,5,2,2017-12-26 12:30:00,Dele Alli,Pass
+185466,56,MissedShots,0.9069999694824219,0.34200000762939453,0.10455618053674698,Harry Kane,h,647,OpenPlay,2017,RightFoot,7316,Tottenham,Southampton,5,2,2017-12-26 12:30:00,Danny Rose,Chipped
+185468,66,Goal,0.9169999694824219,0.5590000152587891,0.522210955619812,Harry Kane,h,647,OpenPlay,2017,LeftFoot,7316,Tottenham,Southampton,5,2,2017-12-26 12:30:00,Dele Alli,Throughball
+185475,82,MissedShots,0.9030000305175782,0.5309999847412109,0.1453455090522766,Erik Lamela,h,644,OpenPlay,2017,LeftFoot,7316,Tottenham,Southampton,5,2,2017-12-26 12:30:00,Dele Alli,Pass
+185446,2,MissedShots,0.8519999694824218,0.5520000076293945,0.05799619480967522,Sofiane Boufal,a,1734,OpenPlay,2017,LeftFoot,7316,Tottenham,Southampton,5,2,2017-12-26 12:30:00,Pierre-Emile Højbjerg,Cross
+185453,23,SavedShot,0.9069999694824219,0.6880000305175781,0.03474780172109604,Sofiane Boufal,a,1734,OpenPlay,2017,LeftFoot,7316,Tottenham,Southampton,5,2,2017-12-26 12:30:00,Shane Long,TakeOn
+185458,42,MissedShots,0.875,0.4909999847412109,0.019469128921628,Oriol Romeu,a,842,SetPiece,2017,Head,7316,Tottenham,Southampton,5,2,2017-12-26 12:30:00,Shane Long,Aerial
+185460,45,SavedShot,0.84,0.455,0.06373261660337448,Shane Long,a,839,OpenPlay,2017,RightFoot,7316,Tottenham,Southampton,5,2,2017-12-26 12:30:00,,BallRecovery
+185461,47,ShotOnPost,0.825,0.5359999847412109,0.0733286663889885,Mario Lemina,a,1299,OpenPlay,2017,LeftFoot,7316,Tottenham,Southampton,5,2,2017-12-26 12:30:00,Nathan Redmond,TakeOn
+185463,50,BlockedShot,0.795,0.750999984741211,0.015496634878218174,Sofiane Boufal,a,1734,OpenPlay,2017,LeftFoot,7316,Tottenham,Southampton,5,2,2017-12-26 12:30:00,Mario Lemina,Pass
+185465,54,SavedShot,0.8080000305175781,0.4779999923706055,0.04773524031043053,Oriol Romeu,a,842,OpenPlay,2017,LeftFoot,7316,Tottenham,Southampton,5,2,2017-12-26 12:30:00,Shane Long,LayOff
+185467,63,Goal,0.8669999694824219,0.7230000305175781,0.02209067903459072,Sofiane Boufal,a,1734,OpenPlay,2017,LeftFoot,7316,Tottenham,Southampton,5,2,2017-12-26 12:30:00,,None
+185469,69,MissedShots,0.9169999694824219,0.435,0.022496305406093597,Shane Long,a,839,FromCorner,2017,Head,7316,Tottenham,Southampton,5,2,2017-12-26 12:30:00,Matt Targett,Aerial
+185470,78,MissedShots,0.860999984741211,0.7,0.03984643146395683,Sofiane Boufal,a,1734,OpenPlay,2017,LeftFoot,7316,Tottenham,Southampton,5,2,2017-12-26 12:30:00,Dusan Tadic,Pass
+185471,80,BlockedShot,0.925,0.67,0.07513769716024399,Sofiane Boufal,a,1734,OpenPlay,2017,LeftFoot,7316,Tottenham,Southampton,5,2,2017-12-26 12:30:00,Sam McQueen,Pass
+185472,80,BlockedShot,0.8719999694824219,0.7169999694824218,0.0196713637560606,Sofiane Boufal,a,1734,OpenPlay,2017,RightFoot,7316,Tottenham,Southampton,5,2,2017-12-26 12:30:00,,Rebound
+185473,80,SavedShot,0.7730000305175782,0.54,0.027660030871629715,Pierre-Emile Højbjerg,a,343,OpenPlay,2017,RightFoot,7316,Tottenham,Southampton,5,2,2017-12-26 12:30:00,Sofiane Boufal,Pass
+185474,81,Goal,0.8380000305175781,0.36,0.033405061811208725,Dusan Tadic,a,840,FromCorner,2017,LeftFoot,7316,Tottenham,Southampton,5,2,2017-12-26 12:30:00,,None
+185476,86,MissedShots,0.8590000152587891,0.4,0.008122342638671398,Maya Yoshida,a,845,SetPiece,2017,Head,7316,Tottenham,Southampton,5,2,2017-12-26 12:30:00,Dusan Tadic,Aerial
+185477,92,MissedShots,0.779000015258789,0.46700000762939453,0.03166022151708603,Manolo Gabbiadini,a,1383,OpenPlay,2017,LeftFoot,7316,Tottenham,Southampton,5,2,2017-12-26 12:30:00,Dusan Tadic,Pass

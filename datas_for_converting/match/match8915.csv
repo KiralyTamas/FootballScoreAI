@@ -1,0 +1,36 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+212872,0,SavedShot,0.9019999694824219,0.3770000076293945,0.07517652213573456,Quentin Cornette,h,3770,OpenPlay,2017,RightFoot,8915,Amiens,Paris Saint Germain,2,2,2018-05-04 19:45:00,,None
+212874,9,MissedShots,0.7780000305175782,0.2989999961853027,0.015561312437057495,Quentin Cornette,h,3770,OpenPlay,2017,RightFoot,8915,Amiens,Paris Saint Germain,2,2,2018-05-04 19:45:00,,None
+212875,14,BlockedShot,0.7040000152587891,0.669000015258789,0.017530737444758415,Gaël Kakuta,h,2549,OpenPlay,2017,LeftFoot,8915,Amiens,Paris Saint Germain,2,2,2018-05-04 19:45:00,Danilo Avelar,Pass
+212876,14,BlockedShot,0.7290000152587891,0.44799999237060545,0.021454790607094765,Bongani Zungu,h,6281,OpenPlay,2017,RightFoot,8915,Amiens,Paris Saint Germain,2,2,2018-05-04 19:45:00,Danilo Avelar,Pass
+212885,43,SavedShot,0.8930000305175781,0.27600000381469725,0.0443425253033638,Moussa Konate,h,4670,OpenPlay,2017,RightFoot,8915,Amiens,Paris Saint Germain,2,2,2018-05-04 19:45:00,Thomas Monconduit,Pass
+212886,45,SavedShot,0.9390000152587891,0.36,0.060582615435123444,Moussa Konate,h,4670,OpenPlay,2017,RightFoot,8915,Amiens,Paris Saint Germain,2,2,2018-05-04 19:45:00,Gaël Kakuta,Cross
+212887,46,Goal,0.9359999847412109,0.345,0.0977255329489708,Moussa Konate,h,4670,OpenPlay,2017,RightFoot,8915,Amiens,Paris Saint Germain,2,2,2018-05-04 19:45:00,Thomas Monconduit,Throughball
+212890,54,MissedShots,0.779000015258789,0.34,0.01943841576576233,Gaël Kakuta,h,2549,OpenPlay,2017,LeftFoot,8915,Amiens,Paris Saint Germain,2,2,2018-05-04 19:45:00,Quentin Cornette,Pass
+212897,75,BlockedShot,0.8,0.655,0.02735481783747673,Gaël Kakuta,h,2549,OpenPlay,2017,LeftFoot,8915,Amiens,Paris Saint Germain,2,2,2018-05-04 19:45:00,,None
+212900,79,Goal,0.91,0.3340000152587891,0.09921381622552872,Moussa Konate,h,4670,OpenPlay,2017,RightFoot,8915,Amiens,Paris Saint Germain,2,2,2018-05-04 19:45:00,Gaël Kakuta,Pass
+212902,84,MissedShots,0.7440000152587891,0.5690000152587891,0.020426515489816666,Gaël Kakuta,h,2549,OpenPlay,2017,LeftFoot,8915,Amiens,Paris Saint Germain,2,2,2018-05-04 19:45:00,Serge Gakpe,Pass
+212906,93,MissedShots,0.8280000305175781,0.23299999237060548,0.01896589621901512,Mathieu Bodmer,h,3308,SetPiece,2017,RightFoot,8915,Amiens,Paris Saint Germain,2,2,2018-05-04 19:45:00,Bongani Zungu,Chipped
+212873,5,MissedShots,0.825999984741211,0.4370000076293945,0.07470650225877762,Ángel Di María,a,3553,OpenPlay,2017,LeftFoot,8915,Amiens,Paris Saint Germain,2,2,2018-05-04 19:45:00,Javier Pastore,LayOff
+212877,21,MissedShots,0.935,0.3139999961853027,0.11659976840019226,Ángel Di María,a,3553,OpenPlay,2017,RightFoot,8915,Amiens,Paris Saint Germain,2,2,2018-05-04 19:45:00,Edinson Cavani,Throughball
+212878,25,Goal,0.93,0.37,0.3536568284034729,Edinson Cavani,a,3294,OpenPlay,2017,RightFoot,8915,Amiens,Paris Saint Germain,2,2,2018-05-04 19:45:00,Javier Pastore,Throughball
+212879,30,MissedShots,0.905,0.45799999237060546,0.4512317478656769,Giovani Lo Celso,a,5681,OpenPlay,2017,LeftFoot,8915,Amiens,Paris Saint Germain,2,2,2018-05-04 19:45:00,Thomas Meunier,Pass
+212880,30,BlockedShot,0.815,0.4540000152587891,0.055810414254665375,Javier Pastore,a,3295,OpenPlay,2017,LeftFoot,8915,Amiens,Paris Saint Germain,2,2,2018-05-04 19:45:00,,Rebound
+212881,33,SavedShot,0.7480000305175781,0.5670000076293945,0.029279250651597977,Christopher Nkunku,a,3300,OpenPlay,2017,RightFoot,8915,Amiens,Paris Saint Germain,2,2,2018-05-04 19:45:00,Javier Pastore,Pass
+212882,33,BlockedShot,0.875999984741211,0.28200000762939453,0.04131033644080162,Ángel Di María,a,3553,OpenPlay,2017,RightFoot,8915,Amiens,Paris Saint Germain,2,2,2018-05-04 19:45:00,,Rebound
+212883,39,BlockedShot,0.774000015258789,0.34200000762939453,0.0300980843603611,Christopher Nkunku,a,3300,FromCorner,2017,RightFoot,8915,Amiens,Paris Saint Germain,2,2,2018-05-04 19:45:00,Ángel Di María,Pass
+212884,41,SavedShot,0.9119999694824219,0.4209999847412109,0.13392260670661926,Ángel Di María,a,3553,OpenPlay,2017,LeftFoot,8915,Amiens,Paris Saint Germain,2,2,2018-05-04 19:45:00,Thomas Meunier,Pass
+212888,51,MissedShots,0.8209999847412109,0.519000015258789,0.07220258563756943,Giovani Lo Celso,a,5681,OpenPlay,2017,LeftFoot,8915,Amiens,Paris Saint Germain,2,2,2018-05-04 19:45:00,Edinson Cavani,Pass
+212889,52,BlockedShot,0.7140000152587891,0.315,0.013949266634881496,Ángel Di María,a,3553,OpenPlay,2017,LeftFoot,8915,Amiens,Paris Saint Germain,2,2,2018-05-04 19:45:00,Thiago Motta,Pass
+212891,56,MissedShots,0.7780000305175782,0.555,0.03000985085964203,Giovani Lo Celso,a,5681,OpenPlay,2017,LeftFoot,8915,Amiens,Paris Saint Germain,2,2,2018-05-04 19:45:00,,None
+212892,59,MissedShots,0.8640000152587891,0.590999984741211,0.03741757571697235,Thomas Meunier,a,5680,FromCorner,2017,RightFoot,8915,Amiens,Paris Saint Germain,2,2,2018-05-04 19:45:00,Marquinhos,HeadPass
+212893,63,Goal,0.774000015258789,0.6140000152587891,0.02691866271197796,Christopher Nkunku,a,3300,OpenPlay,2017,RightFoot,8915,Amiens,Paris Saint Germain,2,2,2018-05-04 19:45:00,Thiago Motta,Pass
+212894,67,MissedShots,0.9209999847412109,0.43400001525878906,0.04510520398616791,Layvin Kurzawa,a,3298,FromCorner,2017,Head,8915,Amiens,Paris Saint Germain,2,2,2018-05-04 19:45:00,,None
+212895,72,MissedShots,0.8519999694824218,0.38799999237060545,0.07444016635417938,Ángel Di María,a,3553,OpenPlay,2017,RightFoot,8915,Amiens,Paris Saint Germain,2,2,2018-05-04 19:45:00,Edinson Cavani,Pass
+212896,74,SavedShot,0.8180000305175781,0.580999984741211,0.06793717294931412,Edinson Cavani,a,3294,OpenPlay,2017,LeftFoot,8915,Amiens,Paris Saint Germain,2,2,2018-05-04 19:45:00,Layvin Kurzawa,Pass
+212898,76,SavedShot,0.9069999694824219,0.3039999961853027,0.08797913789749146,Javier Pastore,a,3295,OpenPlay,2017,RightFoot,8915,Amiens,Paris Saint Germain,2,2,2018-05-04 19:45:00,Ángel Di María,Pass
+212899,77,MissedShots,0.9219999694824219,0.5279999923706055,0.050917964428663254,Marquinhos,a,3297,FromCorner,2017,Head,8915,Amiens,Paris Saint Germain,2,2,2018-05-04 19:45:00,Presnel Kimpembe,Aerial
+212901,82,BlockedShot,0.895,0.6329999923706054,0.05411240831017494,Edinson Cavani,a,3294,OpenPlay,2017,LeftFoot,8915,Amiens,Paris Saint Germain,2,2,2018-05-04 19:45:00,Thomas Meunier,Cross
+212903,89,SavedShot,0.8859999847412109,0.6780000305175782,0.025028889998793602,Ángel Di María,a,3553,OpenPlay,2017,LeftFoot,8915,Amiens,Paris Saint Germain,2,2,2018-05-04 19:45:00,Kylian Mbappe-Lottin,Cross
+212904,92,BlockedShot,0.8769999694824219,0.5870000076293945,0.10325460880994797,Ángel Di María,a,3553,OpenPlay,2017,RightFoot,8915,Amiens,Paris Saint Germain,2,2,2018-05-04 19:45:00,Kylian Mbappe-Lottin,Pass
+212905,92,MissedShots,0.8959999847412109,0.46099998474121096,0.11900115013122559,Kylian Mbappe-Lottin,a,3423,OpenPlay,2017,RightFoot,8915,Amiens,Paris Saint Germain,2,2,2018-05-04 19:45:00,,Rebound

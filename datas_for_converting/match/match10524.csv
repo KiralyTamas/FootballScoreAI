@@ -1,0 +1,34 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+278950,1,SavedShot,0.875999984741211,0.3770000076293945,0.32316192984580994,Jean-Philippe Mateta,h,5735,OpenPlay,2018,RightFoot,10524,Mainz 05,Bayer Leverkusen,1,5,2019-02-08 19:30:00,Aarón Martín,Pass
+278953,5,BlockedShot,0.7380000305175781,0.6020000076293945,0.014979609288275242,Pierre Kunde,h,7073,OpenPlay,2018,RightFoot,10524,Mainz 05,Bayer Leverkusen,1,5,2019-02-08 19:30:00,,BallRecovery
+278954,6,BlockedShot,0.8819999694824219,0.59,0.0895259827375412,Robin Quaison,h,1275,OpenPlay,2018,RightFoot,10524,Mainz 05,Bayer Leverkusen,1,5,2019-02-08 19:30:00,Aarón Martín,Pass
+278955,8,MissedShots,0.92,0.43400001525878906,0.2474861890077591,Alexander Hack,h,52,FromCorner,2018,LeftFoot,10524,Mainz 05,Bayer Leverkusen,1,5,2019-02-08 19:30:00,Daniel Brosinski,Cross
+278956,8,Goal,0.9719999694824218,0.5529999923706055,0.6162980794906616,Robin Quaison,h,1275,FromCorner,2018,LeftFoot,10524,Mainz 05,Bayer Leverkusen,1,5,2019-02-08 19:30:00,Alexander Hack,Rebound
+278957,10,MissedShots,0.7469999694824219,0.69,0.013879924081265926,Leandro Barreiro Martins,h,7109,FromCorner,2018,RightFoot,10524,Mainz 05,Bayer Leverkusen,1,5,2019-02-08 19:30:00,,None
+278964,27,MissedShots,0.8180000305175781,0.5,0.0936836302280426,Jean-Philippe Mateta,h,5735,OpenPlay,2018,LeftFoot,10524,Mainz 05,Bayer Leverkusen,1,5,2019-02-08 19:30:00,Robin Quaison,Pass
+278967,30,BlockedShot,0.8209999847412109,0.5320000076293945,0.06681887805461884,Jean-Paul Boëtius,h,7107,OpenPlay,2018,RightFoot,10524,Mainz 05,Bayer Leverkusen,1,5,2019-02-08 19:30:00,Aarón Martín,Pass
+278969,41,ShotOnPost,0.745,0.6040000152587891,0.018190227448940277,Aarón Martín,h,5133,OpenPlay,2018,LeftFoot,10524,Mainz 05,Bayer Leverkusen,1,5,2019-02-08 19:30:00,Stefan Bell,Pass
+278971,45,BlockedShot,0.7119999694824218,0.509000015258789,0.014770510606467724,Pierre Kunde,h,7073,OpenPlay,2018,RightFoot,10524,Mainz 05,Bayer Leverkusen,1,5,2019-02-08 19:30:00,Stefan Bell,TakeOn
+278972,45,MissedShots,0.909000015258789,0.639000015258789,0.28385353088378906,Robin Quaison,h,1275,OpenPlay,2018,LeftFoot,10524,Mainz 05,Bayer Leverkusen,1,5,2019-02-08 19:30:00,Jean-Philippe Mateta,Rebound
+278973,46,BlockedShot,0.825,0.42900001525878906,0.13985644280910492,Jean-Philippe Mateta,h,5735,OpenPlay,2018,RightFoot,10524,Mainz 05,Bayer Leverkusen,1,5,2019-02-08 19:30:00,Leandro Barreiro Martins,TakeOn
+278976,59,MissedShots,0.3529999923706055,0.26799999237060546,0.0051444415003061295,Jean-Philippe Gbamin,h,4764,OpenPlay,2018,RightFoot,10524,Mainz 05,Bayer Leverkusen,1,5,2019-02-08 19:30:00,Daniel Brosinski,Pass
+278979,75,BlockedShot,0.885,0.3189999961853027,0.06153149530291557,Karim Onisiwo,h,2631,OpenPlay,2018,RightFoot,10524,Mainz 05,Bayer Leverkusen,1,5,2019-02-08 19:30:00,Robin Quaison,Pass
+278980,75,MissedShots,0.885,0.4370000076293945,0.05210602283477783,Robin Quaison,h,1275,SetPiece,2018,Head,10524,Mainz 05,Bayer Leverkusen,1,5,2019-02-08 19:30:00,Daniel Brosinski,Cross
+278951,4,BlockedShot,0.935,0.3609999847412109,0.12121691554784775,Karim Bellarabi,a,186,OpenPlay,2018,RightFoot,10524,Mainz 05,Bayer Leverkusen,1,5,2019-02-08 19:30:00,Kevin Volland,Chipped
+278952,4,Goal,0.9930000305175781,0.4779999923706055,0.9786593914031982,Wendell,a,185,OpenPlay,2018,LeftFoot,10524,Mainz 05,Bayer Leverkusen,1,5,2019-02-08 19:30:00,Karim Bellarabi,Rebound
+278958,12,MissedShots,0.9290000152587891,0.5879999923706055,0.03225090727210045,Sven Bender,a,311,SetPiece,2018,Head,10524,Mainz 05,Bayer Leverkusen,1,5,2019-02-08 19:30:00,Leon Bailey,Aerial
+278959,13,SavedShot,0.8580000305175781,0.5220000076293946,0.10330118238925934,Kevin Volland,a,83,OpenPlay,2018,LeftFoot,10524,Mainz 05,Bayer Leverkusen,1,5,2019-02-08 19:30:00,Mitchell Weiser,Pass
+278960,15,MissedShots,0.8230000305175781,0.6530000305175782,0.04052341356873512,Julian Brandt,a,261,OpenPlay,2018,RightFoot,10524,Mainz 05,Bayer Leverkusen,1,5,2019-02-08 19:30:00,Leon Bailey,Pass
+278961,16,MissedShots,0.84,0.6430000305175781,0.043718431144952774,Leon Bailey,a,5221,OpenPlay,2018,LeftFoot,10524,Mainz 05,Bayer Leverkusen,1,5,2019-02-08 19:30:00,Kai Havertz,Pass
+278962,17,MissedShots,0.735,0.5729999923706055,0.015311957336962223,Charles Aránguiz,a,454,FromCorner,2018,RightFoot,10524,Mainz 05,Bayer Leverkusen,1,5,2019-02-08 19:30:00,,None
+278963,18,Goal,0.8530000305175781,0.485,0.34177345037460327,Kai Havertz,a,5220,OpenPlay,2018,LeftFoot,10524,Mainz 05,Bayer Leverkusen,1,5,2019-02-08 19:30:00,Julian Brandt,Pass
+278965,28,ShotOnPost,0.9030000305175782,0.6179999923706054,0.1054701954126358,Karim Bellarabi,a,186,OpenPlay,2018,LeftFoot,10524,Mainz 05,Bayer Leverkusen,1,5,2019-02-08 19:30:00,Leon Bailey,Pass
+278966,29,Goal,0.9369999694824219,0.62,0.3713592290878296,Julian Brandt,a,261,OpenPlay,2018,LeftFoot,10524,Mainz 05,Bayer Leverkusen,1,5,2019-02-08 19:30:00,Kevin Volland,Throughball
+278968,35,MissedShots,0.8919999694824219,0.645,0.10174586623907089,Kevin Volland,a,83,OpenPlay,2018,LeftFoot,10524,Mainz 05,Bayer Leverkusen,1,5,2019-02-08 19:30:00,Leon Bailey,Pass
+278970,42,Goal,0.8519999694824218,0.2720000076293945,0.09387891739606857,Karim Bellarabi,a,186,OpenPlay,2018,RightFoot,10524,Mainz 05,Bayer Leverkusen,1,5,2019-02-08 19:30:00,Julian Brandt,Pass
+278974,49,MissedShots,0.915,0.575,0.5124801397323608,Leon Bailey,a,5221,OpenPlay,2018,LeftFoot,10524,Mainz 05,Bayer Leverkusen,1,5,2019-02-08 19:30:00,Karim Bellarabi,Throughball
+278975,51,BlockedShot,0.7680000305175781,0.24200000762939453,0.027318792417645454,Karim Bellarabi,a,186,OpenPlay,2018,RightFoot,10524,Mainz 05,Bayer Leverkusen,1,5,2019-02-08 19:30:00,Kai Havertz,Pass
+278977,62,BlockedShot,0.85,0.34900001525878904,0.07676146179437637,Karim Bellarabi,a,186,OpenPlay,2018,LeftFoot,10524,Mainz 05,Bayer Leverkusen,1,5,2019-02-08 19:30:00,Leon Bailey,Pass
+278978,63,Goal,0.865999984741211,0.509000015258789,0.36953479051589966,Julian Brandt,a,261,OpenPlay,2018,RightFoot,10524,Mainz 05,Bayer Leverkusen,1,5,2019-02-08 19:30:00,Kevin Volland,Pass
+278981,83,SavedShot,0.9119999694824219,0.555,0.07109775394201279,Lucas Alario,a,6338,FromCorner,2018,Head,10524,Mainz 05,Bayer Leverkusen,1,5,2019-02-08 19:30:00,Leon Bailey,Cross
+278982,87,MissedShots,0.8059999847412109,0.33799999237060546,0.015707863494753838,Mitchell Weiser,a,28,FromCorner,2018,RightFoot,10524,Mainz 05,Bayer Leverkusen,1,5,2019-02-08 19:30:00,,Aerial

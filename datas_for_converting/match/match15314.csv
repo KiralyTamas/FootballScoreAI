@@ -1,0 +1,23 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+403083,8,SavedShot,0.735,0.620999984741211,0.02040811814367771,Woo-Yeong Jeong,h,7267,OpenPlay,2020,RightFoot,15314,Freiburg,Borussia Dortmund,2,1,2021-02-06 14:30:00,Vincenzo Grifo,Pass
+403087,26,MissedShots,0.7609999847412109,0.5690000152587891,0.02507215179502964,Vincenzo Grifo,h,5266,OpenPlay,2020,RightFoot,15314,Freiburg,Borussia Dortmund,2,1,2021-02-06 14:30:00,Baptiste Santamaria,Pass
+403090,48,Goal,0.755,0.5529999923706055,0.02365865744650364,Woo-Yeong Jeong,h,7267,OpenPlay,2020,LeftFoot,15314,Freiburg,Borussia Dortmund,2,1,2021-02-06 14:30:00,Vincenzo Grifo,Pass
+403091,51,BlockedShot,0.74,0.49400001525878906,0.029028262943029404,Vincenzo Grifo,h,5266,OpenPlay,2020,RightFoot,15314,Freiburg,Borussia Dortmund,2,1,2021-02-06 14:30:00,Woo-Yeong Jeong,Pass
+403092,51,Goal,0.835999984741211,0.19,0.01576455682516098,Jonathan Schmid,h,81,OpenPlay,2020,RightFoot,15314,Freiburg,Borussia Dortmund,2,1,2021-02-06 14:30:00,,Rebound
+403096,67,MissedShots,0.8630000305175781,0.26799999237060546,0.05425038933753967,Ermedin Demirovic,h,6496,OpenPlay,2020,RightFoot,15314,Freiburg,Borussia Dortmund,2,1,2021-02-06 14:30:00,Vincenzo Grifo,Pass
+403082,4,ShotOnPost,0.72,0.42700000762939455,0.01642029732465744,Emre Can,a,604,OpenPlay,2020,LeftFoot,15314,Freiburg,Borussia Dortmund,2,1,2021-02-06 14:30:00,Mats Hummels,Pass
+403084,12,SavedShot,0.9669999694824218,0.5629999923706055,0.580719530582428,Erling Haaland,a,8260,OpenPlay,2020,LeftFoot,15314,Freiburg,Borussia Dortmund,2,1,2021-02-06 14:30:00,,None
+403085,18,BlockedShot,0.8830000305175781,0.715,0.03994736447930336,Jadon Sancho,a,6345,OpenPlay,2020,RightFoot,15314,Freiburg,Borussia Dortmund,2,1,2021-02-06 14:30:00,Erling Haaland,Pass
+403086,21,SavedShot,0.875999984741211,0.38599998474121094,0.09047847241163254,Thomas Delaney,a,5230,OpenPlay,2020,LeftFoot,15314,Freiburg,Borussia Dortmund,2,1,2021-02-06 14:30:00,Giovanni Reyna,Pass
+403088,33,MissedShots,0.6780000305175782,0.5309999847412109,0.013880166225135326,Manuel Akanji,a,6490,OpenPlay,2020,RightFoot,15314,Freiburg,Borussia Dortmund,2,1,2021-02-06 14:30:00,Mats Hummels,Pass
+403089,38,SavedShot,0.725,0.5159999847412109,0.019617130979895592,Julian Brandt,a,261,OpenPlay,2020,RightFoot,15314,Freiburg,Borussia Dortmund,2,1,2021-02-06 14:30:00,Raphael Guerreiro,Pass
+403093,62,ShotOnPost,0.8109999847412109,0.5690000152587891,0.05869688838720322,Youssoufa Moukoko,a,9133,OpenPlay,2020,RightFoot,15314,Freiburg,Borussia Dortmund,2,1,2021-02-06 14:30:00,Jadon Sancho,Pass
+403094,64,BlockedShot,0.8480000305175781,0.44599998474121094,0.08685208112001419,Jadon Sancho,a,6345,OpenPlay,2020,RightFoot,15314,Freiburg,Borussia Dortmund,2,1,2021-02-06 14:30:00,Giovanni Reyna,Pass
+403095,66,BlockedShot,0.7430000305175781,0.5270000076293946,0.01819470338523388,Mahmoud Dahoud,a,205,OpenPlay,2020,RightFoot,15314,Freiburg,Borussia Dortmund,2,1,2021-02-06 14:30:00,Jadon Sancho,Pass
+403097,75,Goal,0.9259999847412109,0.4640000152587891,0.11796703189611435,Youssoufa Moukoko,a,9133,OpenPlay,2020,RightFoot,15314,Freiburg,Borussia Dortmund,2,1,2021-02-06 14:30:00,Erling Haaland,Pass
+403098,78,BlockedShot,0.7859999847412109,0.2979999923706055,0.019976837560534477,Youssoufa Moukoko,a,9133,OpenPlay,2020,RightFoot,15314,Freiburg,Borussia Dortmund,2,1,2021-02-06 14:30:00,Reinier,Pass
+403099,80,BlockedShot,0.8909999847412109,0.7419999694824219,0.030622176826000214,Manuel Akanji,a,6490,OpenPlay,2020,LeftFoot,15314,Freiburg,Borussia Dortmund,2,1,2021-02-06 14:30:00,Jadon Sancho,Pass
+403100,80,SavedShot,0.8730000305175781,0.64,0.07681506127119064,Jadon Sancho,a,6345,OpenPlay,2020,RightFoot,15314,Freiburg,Borussia Dortmund,2,1,2021-02-06 14:30:00,Raphael Guerreiro,TakeOn
+403101,87,MissedShots,0.8880000305175781,0.285,0.03028346598148346,Emre Can,a,604,FromCorner,2020,RightFoot,15314,Freiburg,Borussia Dortmund,2,1,2021-02-06 14:30:00,,Foul
+403102,88,BlockedShot,0.720999984741211,0.5129999923706055,0.018184402957558632,Mahmoud Dahoud,a,205,OpenPlay,2020,RightFoot,15314,Freiburg,Borussia Dortmund,2,1,2021-02-06 14:30:00,Raphael Guerreiro,Pass
+403103,90,SavedShot,0.8719999694824219,0.43599998474121093,0.06735039502382278,Youssoufa Moukoko,a,9133,OpenPlay,2020,RightFoot,15314,Freiburg,Borussia Dortmund,2,1,2021-02-06 14:30:00,,None

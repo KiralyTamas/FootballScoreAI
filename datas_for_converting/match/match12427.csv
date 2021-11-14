@@ -1,0 +1,29 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+316026,5,MissedShots,0.7880000305175782,0.265,0.014315235428512096,Sheraldo Becker,h,7882,OpenPlay,2019,RightFoot,12427,Union Berlin,Borussia Dortmund,3,1,2019-08-31 17:30:00,,None
+316027,9,MissedShots,0.914000015258789,0.4279999923706055,0.0241575688123703,Neven Subotic,h,312,FromCorner,2019,Head,12427,Union Berlin,Borussia Dortmund,3,1,2019-08-31 17:30:00,Christopher Lenz,Aerial
+316031,20,MissedShots,0.9,0.6469999694824219,0.06136196851730347,Anthony Ujah,h,119,OpenPlay,2019,LeftFoot,12427,Union Berlin,Borussia Dortmund,3,1,2019-08-31 17:30:00,Christopher Lenz,Chipped
+316032,21,Goal,0.8680000305175781,0.4520000076293945,0.05969858169555664,Marius Bülter,h,7879,FromCorner,2019,RightFoot,12427,Union Berlin,Borussia Dortmund,3,1,2019-08-31 17:30:00,Christopher Trimmel,Pass
+316037,47,SavedShot,0.875,0.5279999923706055,0.08105286955833435,Sebastian Andersson,h,7880,OpenPlay,2019,RightFoot,12427,Union Berlin,Borussia Dortmund,3,1,2019-08-31 17:30:00,Anthony Ujah,None
+316038,49,MissedShots,0.9159999847412109,0.46599998474121096,0.0380917452275753,Sebastian Andersson,h,7880,FromCorner,2019,Head,12427,Union Berlin,Borussia Dortmund,3,1,2019-08-31 17:30:00,Christopher Trimmel,Aerial
+316040,49,SavedShot,0.855,0.5179999923706055,0.36756622791290283,Sebastian Andersson,h,7880,OpenPlay,2019,RightFoot,12427,Union Berlin,Borussia Dortmund,3,1,2019-08-31 17:30:00,Marius Bülter,TakeOn
+316041,49,Goal,0.795,0.59,0.027708308771252632,Marius Bülter,h,7879,OpenPlay,2019,LeftFoot,12427,Union Berlin,Borussia Dortmund,3,1,2019-08-31 17:30:00,,Rebound
+316043,52,BlockedShot,0.9519999694824218,0.46900001525878904,0.12104752659797668,Neven Subotic,h,312,FromCorner,2019,RightFoot,12427,Union Berlin,Borussia Dortmund,3,1,2019-08-31 17:30:00,,None
+316044,53,MissedShots,0.7440000152587891,0.53,0.02333005517721176,Robert Andrich,h,7877,FromCorner,2019,RightFoot,12427,Union Berlin,Borussia Dortmund,3,1,2019-08-31 17:30:00,,Rebound
+316045,62,MissedShots,0.88,0.4,0.02870388887822628,Neven Subotic,h,312,FromCorner,2019,LeftFoot,12427,Union Berlin,Borussia Dortmund,3,1,2019-08-31 17:30:00,,Aerial
+316046,74,Goal,0.925,0.5220000076293946,0.47863295674324036,Sebastian Andersson,h,7880,FromCorner,2019,RightFoot,12427,Union Berlin,Borussia Dortmund,3,1,2019-08-31 17:30:00,Sheraldo Becker,Pass
+316048,82,BlockedShot,0.8080000305175781,0.7180000305175781,0.018945924937725067,Sebastian Andersson,h,7880,OpenPlay,2019,RightFoot,12427,Union Berlin,Borussia Dortmund,3,1,2019-08-31 17:30:00,Robert Andrich,TakeOn
+316050,87,SavedShot,0.740999984741211,0.3890000152587891,0.0441448912024498,Sheraldo Becker,h,7882,OpenPlay,2019,LeftFoot,12427,Union Berlin,Borussia Dortmund,3,1,2019-08-31 17:30:00,Joshua Mees,Chipped
+316053,96,SavedShot,0.779000015258789,0.5729999923706055,0.04514928162097931,Sheraldo Becker,h,7882,OpenPlay,2019,LeftFoot,12427,Union Berlin,Borussia Dortmund,3,1,2019-08-31 17:30:00,Sebastian Andersson,BallRecovery
+316028,13,MissedShots,0.8219999694824218,0.7869999694824219,0.05416734516620636,Marco Reus,a,319,DirectFreekick,2019,RightFoot,12427,Union Berlin,Borussia Dortmund,3,1,2019-08-31 17:30:00,,Standard
+316029,17,MissedShots,0.7959999847412109,0.415,0.05048734322190285,Jadon Sancho,a,6345,OpenPlay,2019,RightFoot,12427,Union Berlin,Borussia Dortmund,3,1,2019-08-31 17:30:00,Marco Reus,LayOff
+316030,19,MissedShots,0.855999984741211,0.46799999237060547,0.29113730788230896,Marco Reus,a,319,OpenPlay,2019,RightFoot,12427,Union Berlin,Borussia Dortmund,3,1,2019-08-31 17:30:00,Manuel Akanji,Chipped
+316033,24,Goal,0.98,0.5279999923706055,0.918898344039917,Paco Alcácer,a,2380,OpenPlay,2019,LeftFoot,12427,Union Berlin,Borussia Dortmund,3,1,2019-08-31 17:30:00,Jadon Sancho,Pass
+316034,43,ShotOnPost,0.7809999847412109,0.41900001525878905,0.03114934079349041,Julian Weigl,a,372,OpenPlay,2019,RightFoot,12427,Union Berlin,Borussia Dortmund,3,1,2019-08-31 17:30:00,Jadon Sancho,Pass
+316035,45,BlockedShot,0.8230000305175781,0.5479999923706055,0.048833202570676804,Paco Alcácer,a,2380,OpenPlay,2019,RightFoot,12427,Union Berlin,Borussia Dortmund,3,1,2019-08-31 17:30:00,Julian Brandt,Pass
+316036,46,SavedShot,0.779000015258789,0.5420000076293945,0.033689938485622406,Marco Reus,a,319,OpenPlay,2019,LeftFoot,12427,Union Berlin,Borussia Dortmund,3,1,2019-08-31 17:30:00,Paco Alcácer,Pass
+316039,47,MissedShots,0.895,0.6759999847412109,0.05662323161959648,Marco Reus,a,319,OpenPlay,2019,RightFoot,12427,Union Berlin,Borussia Dortmund,3,1,2019-08-31 17:30:00,Paco Alcácer,HeadPass
+316042,51,MissedShots,0.754000015258789,0.6509999847412109,0.01969072036445141,Mahmoud Dahoud,a,205,OpenPlay,2019,RightFoot,12427,Union Berlin,Borussia Dortmund,3,1,2019-08-31 17:30:00,Julian Weigl,Pass
+316047,76,BlockedShot,0.86,0.7380000305175781,0.03179209306836128,Raphael Guerreiro,a,3455,OpenPlay,2019,LeftFoot,12427,Union Berlin,Borussia Dortmund,3,1,2019-08-31 17:30:00,Mahmoud Dahoud,Pass
+316049,84,MissedShots,0.8530000305175781,0.7419999694824219,0.02750450372695923,Jadon Sancho,a,6345,OpenPlay,2019,RightFoot,12427,Union Berlin,Borussia Dortmund,3,1,2019-08-31 17:30:00,Mats Hummels,Pass
+316051,93,MissedShots,0.8030000305175782,0.2979999923706055,0.01835561729967594,Lukasz Piszczek,a,310,OpenPlay,2019,LeftFoot,12427,Union Berlin,Borussia Dortmund,3,1,2019-08-31 17:30:00,Marco Reus,Pass
+316052,95,MissedShots,0.7780000305175782,0.685,0.01980086788535118,Mahmoud Dahoud,a,205,OpenPlay,2019,RightFoot,12427,Union Berlin,Borussia Dortmund,3,1,2019-08-31 17:30:00,Jadon Sancho,Pass

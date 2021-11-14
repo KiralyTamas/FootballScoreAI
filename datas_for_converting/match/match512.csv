@@ -1,0 +1,26 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+113841,3,MissedShots,0.9169999694824219,0.5,0.12712392210960388,Álvaro Negredo,h,1715,OpenPlay,2016,Head,512,Middlesbrough,Tottenham,1,2,2016-09-24 18:00:00,Stewart Downing,Cross
+113842,5,BlockedShot,0.8719999694824219,0.5720000076293945,0.05709457769989967,Gastón Ramírez,h,952,FromCorner,2016,LeftFoot,512,Middlesbrough,Tottenham,1,2,2016-09-24 18:00:00,Stewart Downing,Pass
+113845,13,BlockedShot,0.765,0.38799999237060545,0.020073674619197845,Gastón Ramírez,h,952,OpenPlay,2016,LeftFoot,512,Middlesbrough,Tottenham,1,2,2016-09-24 18:00:00,,BallTouch
+113857,64,Goal,0.909000015258789,0.425,0.07429049164056778,Ben Gibson,h,1707,SetPiece,2016,Head,512,Middlesbrough,Tottenham,1,2,2016-09-24 18:00:00,Stewart Downing,Cross
+113860,76,SavedShot,0.8819999694824219,0.524000015258789,0.05656328424811363,Jordan Rhodes,h,1714,OpenPlay,2016,Head,512,Middlesbrough,Tottenham,1,2,2016-09-24 18:00:00,Stewart Downing,Cross
+113862,88,MissedShots,0.9019999694824219,0.35900001525878905,0.026362182572484016,Adam Forshaw,h,1711,OpenPlay,2016,RightFoot,512,Middlesbrough,Tottenham,1,2,2016-09-24 18:00:00,,Aerial
+113839,0,BlockedShot,0.850999984741211,0.6840000152587891,0.04005080461502075,Christian Eriksen,a,646,OpenPlay,2016,LeftFoot,512,Middlesbrough,Tottenham,1,2,2016-09-24 18:00:00,Son Heung-Min,Pass
+113840,1,MissedShots,0.8030000305175782,0.27,0.0192940142005682,Moussa Sissoko,a,772,OpenPlay,2016,LeftFoot,512,Middlesbrough,Tottenham,1,2,2016-09-24 18:00:00,Kyle Walker,Pass
+113843,5,SavedShot,0.7480000305175781,0.44099998474121094,0.018125014379620552,Dele Alli,a,645,OpenPlay,2016,RightFoot,512,Middlesbrough,Tottenham,1,2,2016-09-24 18:00:00,Christian Eriksen,Pass
+113844,6,Goal,0.8719999694824219,0.46799999237060547,0.09143922477960587,Son Heung-Min,a,453,OpenPlay,2016,LeftFoot,512,Middlesbrough,Tottenham,1,2,2016-09-24 18:00:00,Vincent Janssen,TakeOn
+113846,22,Goal,0.840999984741211,0.7080000305175781,0.045653052628040314,Son Heung-Min,a,453,OpenPlay,2016,RightFoot,512,Middlesbrough,Tottenham,1,2,2016-09-24 18:00:00,,Dispossessed
+113847,34,BlockedShot,0.8959999847412109,0.5829999923706055,0.10742314159870148,Christian Eriksen,a,646,OpenPlay,2016,LeftFoot,512,Middlesbrough,Tottenham,1,2,2016-09-24 18:00:00,,None
+113848,34,SavedShot,0.97,0.3920000076293945,0.10591897368431091,Moussa Sissoko,a,772,OpenPlay,2016,RightFoot,512,Middlesbrough,Tottenham,1,2,2016-09-24 18:00:00,,Rebound
+113849,40,BlockedShot,0.759000015258789,0.6840000152587891,0.028420522809028625,Son Heung-Min,a,453,OpenPlay,2016,LeftFoot,512,Middlesbrough,Tottenham,1,2,2016-09-24 18:00:00,Ben Davies,Pass
+113850,42,MissedShots,0.899000015258789,0.6370000076293946,0.4108608365058899,Dele Alli,a,645,OpenPlay,2016,LeftFoot,512,Middlesbrough,Tottenham,1,2,2016-09-24 18:00:00,Christian Eriksen,Pass
+113851,46,MissedShots,0.8919999694824219,0.69,0.06705492734909058,Vincent Janssen,a,1730,OpenPlay,2016,LeftFoot,512,Middlesbrough,Tottenham,1,2,2016-09-24 18:00:00,Dele Alli,Pass
+113852,47,BlockedShot,0.7759999847412109,0.4209999847412109,0.04625427722930908,Christian Eriksen,a,646,OpenPlay,2016,RightFoot,512,Middlesbrough,Tottenham,1,2,2016-09-24 18:00:00,Victor Wanyama,Pass
+113853,52,BlockedShot,0.7619999694824219,0.6580000305175782,0.018188918009400368,Dele Alli,a,645,OpenPlay,2016,RightFoot,512,Middlesbrough,Tottenham,1,2,2016-09-24 18:00:00,,None
+113854,53,BlockedShot,0.9,0.715,0.06664466857910156,Vincent Janssen,a,1730,OpenPlay,2016,LeftFoot,512,Middlesbrough,Tottenham,1,2,2016-09-24 18:00:00,Dele Alli,Pass
+113855,55,MissedShots,0.9519999694824218,0.5379999923706055,0.13043269515037537,Toby Alderweireld,a,639,FromCorner,2016,Head,512,Middlesbrough,Tottenham,1,2,2016-09-24 18:00:00,Christian Eriksen,Cross
+113856,61,MissedShots,0.77,0.549000015258789,0.03400424122810364,Dele Alli,a,645,OpenPlay,2016,RightFoot,512,Middlesbrough,Tottenham,1,2,2016-09-24 18:00:00,Moussa Sissoko,Pass
+113858,66,MissedShots,0.7669999694824219,0.4420000076293945,0.03369538486003876,Christian Eriksen,a,646,OpenPlay,2016,RightFoot,512,Middlesbrough,Tottenham,1,2,2016-09-24 18:00:00,Son Heung-Min,Pass
+113859,74,BlockedShot,0.9119999694824219,0.6940000152587891,0.07326660305261612,Son Heung-Min,a,453,OpenPlay,2016,LeftFoot,512,Middlesbrough,Tottenham,1,2,2016-09-24 18:00:00,Erik Lamela,Pass
+113861,82,SavedShot,0.825,0.6229999923706054,0.05697381868958473,Erik Lamela,a,644,OpenPlay,2016,LeftFoot,512,Middlesbrough,Tottenham,1,2,2016-09-24 18:00:00,Vincent Janssen,Pass
+113863,95,MissedShots,0.7780000305175782,0.6079999923706054,0.033473435789346695,Georges-Kévin Nkoudou,a,1729,OpenPlay,2016,LeftFoot,512,Middlesbrough,Tottenham,1,2,2016-09-24 18:00:00,Erik Lamela,Pass

@@ -1,0 +1,28 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+395,0,MissedShots,0.8969999694824219,0.5579999923706055,0.08322115242481232,Max Gradel,h,464,OpenPlay,2014,RightFoot,6203,Saint-Etienne,Reims,3,1,2014-08-17 16:00:00,Jonathan Brison,Cross
+396,3,ShotOnPost,0.935,0.6530000305175782,0.04129032418131828,Benjamin Corgnet,h,3514,FromCorner,2014,RightFoot,6203,Saint-Etienne,Reims,3,1,2014-08-17 16:00:00,Max Gradel,Cross
+397,13,MissedShots,0.8619999694824219,0.305,0.023520300164818764,Kévin Monnet-Paquet,h,3513,OpenPlay,2014,RightFoot,6203,Saint-Etienne,Reims,3,1,2014-08-17 16:00:00,Franck Tabanou,Cross
+398,24,BlockedShot,0.9030000305175782,0.3609999847412109,0.3093697726726532,Max Gradel,h,464,OpenPlay,2014,LeftFoot,6203,Saint-Etienne,Reims,3,1,2014-08-17 16:00:00,Benjamin Corgnet,Pass
+399,25,SavedShot,0.94,0.7090000152587891,0.055318113416433334,Kévin Monnet-Paquet,h,3513,OpenPlay,2014,LeftFoot,6203,Saint-Etienne,Reims,3,1,2014-08-17 16:00:00,,TakeOn
+401,26,OwnGoal,0.105,0.6309999847412109,0,Loic Perrin,h,3689,OpenPlay,2014,LeftFoot,6203,Saint-Etienne,Reims,3,1,2014-08-17 16:00:00,,None
+402,28,SavedShot,0.8180000305175781,0.495,0.05520310252904892,Benjamin Corgnet,h,3514,OpenPlay,2014,RightFoot,6203,Saint-Etienne,Reims,3,1,2014-08-17 16:00:00,Jérémy Clément,Pass
+403,30,MissedShots,0.8380000305175781,0.2979999923706055,0.032658111304044724,Max Gradel,h,464,OpenPlay,2014,LeftFoot,6203,Saint-Etienne,Reims,3,1,2014-08-17 16:00:00,Benjamin Corgnet,Pass
+404,34,SavedShot,0.720999984741211,0.6709999847412109,0.03848471865057945,Max Gradel,h,464,DirectFreekick,2014,RightFoot,6203,Saint-Etienne,Reims,3,1,2014-08-17 16:00:00,,Standard
+405,35,MissedShots,0.96,0.32299999237060545,0.04580684378743172,Mevlüt Erdinc,h,104,FromCorner,2014,LeftFoot,6203,Saint-Etienne,Reims,3,1,2014-08-17 16:00:00,,None
+407,46,BlockedShot,0.8730000305175781,0.425,0.08880894631147385,Benjamin Corgnet,h,3514,OpenPlay,2014,RightFoot,6203,Saint-Etienne,Reims,3,1,2014-08-17 16:00:00,Kévin Monnet-Paquet,Pass
+408,47,SavedShot,0.88,0.525,0.04710350185632706,Benjamin Corgnet,h,3514,OpenPlay,2014,Head,6203,Saint-Etienne,Reims,3,1,2014-08-17 16:00:00,Jonathan Brison,Cross
+409,53,MissedShots,0.95,0.44099998474121094,0.5335203409194946,Benjamin Corgnet,h,3514,OpenPlay,2014,LeftFoot,6203,Saint-Etienne,Reims,3,1,2014-08-17 16:00:00,Fabien Lemoine,Pass
+410,55,SavedShot,0.9269999694824219,0.39099998474121095,0.023834137246012688,Moustapha Bayal Sall,h,3506,SetPiece,2014,Head,6203,Saint-Etienne,Reims,3,1,2014-08-17 16:00:00,Franck Tabanou,Goal
+411,56,BlockedShot,0.8640000152587891,0.29600000381469727,0.0429501049220562,Fabien Lemoine,h,3509,OpenPlay,2014,RightFoot,6203,Saint-Etienne,Reims,3,1,2014-08-17 16:00:00,Benjamin Corgnet,Pass
+412,59,Goal,0.7959999847412109,0.6819999694824219,0.07372238487005234,Max Gradel,h,464,DirectFreekick,2014,RightFoot,6203,Saint-Etienne,Reims,3,1,2014-08-17 16:00:00,,Standard
+413,60,MissedShots,0.735999984741211,0.534000015258789,0.017152346670627594,Max Gradel,h,464,OpenPlay,2014,RightFoot,6203,Saint-Etienne,Reims,3,1,2014-08-17 16:00:00,,None
+416,69,Goal,0.96,0.585,0.28189587593078613,Kévin Monnet-Paquet,h,3513,OpenPlay,2014,Head,6203,Saint-Etienne,Reims,3,1,2014-08-17 16:00:00,Mevlüt Erdinc,Cross
+418,80,Goal,0.9369999694824219,0.53,0.503600537776947,Mevlüt Erdinc,h,104,OpenPlay,2014,RightFoot,6203,Saint-Etienne,Reims,3,1,2014-08-17 16:00:00,Romain Hamouma,Cross
+420,93,SavedShot,0.8769999694824219,0.6980000305175781,0.13146089017391205,Ricky van Wolfswinkel,h,1012,OpenPlay,2014,RightFoot,6203,Saint-Etienne,Reims,3,1,2014-08-17 16:00:00,Renaud Cohade,Chipped
+400,26,MissedShots,0.914000015258789,0.33599998474121096,0.06951003521680832,Benjamin Moukandjo,a,3570,OpenPlay,2014,RightFoot,6203,Saint-Etienne,Reims,3,1,2014-08-17 16:00:00,Prince Oniangué,BlockedPass
+406,42,SavedShot,0.805,0.38299999237060545,0.04789905622601509,Gaëtan Charbonnier,a,3243,OpenPlay,2014,LeftFoot,6203,Saint-Etienne,Reims,3,1,2014-08-17 16:00:00,Antoine Devaux,Pass
+414,66,MissedShots,0.7980000305175782,0.4829999923706055,0.034836217761039734,Bocundji Ca,a,4864,SetPiece,2014,RightFoot,6203,Saint-Etienne,Reims,3,1,2014-08-17 16:00:00,,None
+415,69,SavedShot,0.9130000305175782,0.774000015258789,0.02723054401576519,Benjamin Moukandjo,a,3570,OpenPlay,2014,RightFoot,6203,Saint-Etienne,Reims,3,1,2014-08-17 16:00:00,,None
+417,73,MissedShots,0.8480000305175781,0.7019999694824218,0.033470042049884796,Antoine Devaux,a,3240,OpenPlay,2014,RightFoot,6203,Saint-Etienne,Reims,3,1,2014-08-17 16:00:00,,None
+419,93,BlockedShot,0.7859999847412109,0.4520000076293945,0.04164087772369385,Prince Oniangué,a,3556,OpenPlay,2014,RightFoot,6203,Saint-Etienne,Reims,3,1,2014-08-17 16:00:00,Benjamin Moukandjo,Pass
+421,94,MissedShots,0.7809999847412109,0.5770000076293945,0.030880415812134743,Benjamin Moukandjo,a,3570,OpenPlay,2014,RightFoot,6203,Saint-Etienne,Reims,3,1,2014-08-17 16:00:00,Eliran Atar,Pass

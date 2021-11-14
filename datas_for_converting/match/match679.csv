@@ -1,0 +1,30 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+99201,18,BlockedShot,0.7669999694824219,0.6419999694824219,0.06216736137866974,Maximiliano Moralez,h,2029,DirectFreekick,2015,RightFoot,679,Atalanta,Torino,0,1,2015-11-22 18:00:00,,Standard
+99203,28,MissedShots,0.8159999847412109,0.6279999923706054,0.03955685347318649,Alejandro Gomez,h,1491,OpenPlay,2015,LeftFoot,679,Atalanta,Torino,0,1,2015-11-22 18:00:00,Maximiliano Moralez,Pass
+99205,31,BlockedShot,0.9069999694824219,0.5979999923706054,0.12165150791406631,Luca Cigarini,h,1238,OpenPlay,2015,LeftFoot,679,Atalanta,Torino,0,1,2015-11-22 18:00:00,,TakeOn
+99206,33,MissedShots,0.875,0.7319999694824219,0.026171114295721054,Alejandro Gomez,h,1491,OpenPlay,2015,RightFoot,679,Atalanta,Torino,0,1,2015-11-22 18:00:00,Germán Denis,HeadPass
+99207,41,SavedShot,0.784000015258789,0.38799999237060545,0.044234175235033035,Marten de Roon,h,1710,OpenPlay,2015,RightFoot,679,Atalanta,Torino,0,1,2015-11-22 18:00:00,Luca Cigarini,LayOff
+99208,42,MissedShots,0.8640000152587891,0.48,0.019266385585069656,Germán Denis,h,1984,FromCorner,2015,Head,679,Atalanta,Torino,0,1,2015-11-22 18:00:00,Maximiliano Moralez,Cross
+99210,45,BlockedShot,0.7719999694824219,0.6830000305175781,0.022398212924599648,Germán Denis,h,1984,OpenPlay,2015,RightFoot,679,Atalanta,Torino,0,1,2015-11-22 18:00:00,Maximiliano Moralez,Pass
+99211,45,BlockedShot,0.8919999694824219,0.425,0.046761855483055115,Luca Cigarini,h,1238,OpenPlay,2015,Head,679,Atalanta,Torino,0,1,2015-11-22 18:00:00,Andrea Masiello,Cross
+99214,58,BlockedShot,0.7290000152587891,0.415,0.04792281240224838,Davide Brivio,h,1243,DirectFreekick,2015,LeftFoot,679,Atalanta,Torino,0,1,2015-11-22 18:00:00,,Standard
+99215,58,BlockedShot,0.7319999694824219,0.5329999923706055,0.013307574205100536,Luca Cigarini,h,1238,SetPiece,2015,RightFoot,679,Atalanta,Torino,0,1,2015-11-22 18:00:00,,Rebound
+99217,67,MissedShots,0.6279999923706054,0.544000015258789,0.009317032061517239,Marten de Roon,h,1710,OpenPlay,2015,RightFoot,679,Atalanta,Torino,0,1,2015-11-22 18:00:00,Luca Cigarini,BlockedPass
+99218,68,BlockedShot,0.7709999847412109,0.38,0.024989053606987,Alejandro Gomez,h,1491,OpenPlay,2015,RightFoot,679,Atalanta,Torino,0,1,2015-11-22 18:00:00,Maximiliano Moralez,Pass
+99219,71,MissedShots,0.9259999847412109,0.6559999847412109,0.27248549461364746,Germán Denis,h,1984,OpenPlay,2015,LeftFoot,679,Atalanta,Torino,0,1,2015-11-22 18:00:00,Maximiliano Moralez,Pass
+99222,79,MissedShots,0.9359999847412109,0.4640000152587891,0.11638940125703812,Cristian Raimondi,h,1499,FromCorner,2015,Head,679,Atalanta,Torino,0,1,2015-11-22 18:00:00,Alejandro Gomez,Cross
+99224,92,MissedShots,0.9009999847412109,0.5520000076293945,0.030796507373452187,Germán Denis,h,1984,OpenPlay,2015,Head,679,Atalanta,Torino,0,1,2015-11-22 18:00:00,Maximiliano Moralez,Aerial
+99197,3,SavedShot,0.904000015258789,0.39799999237060546,0.29289311170578003,Andrea Belotti,a,1186,OpenPlay,2015,RightFoot,679,Atalanta,Torino,0,1,2015-11-22 18:00:00,Giuseppe Vives,Chipped
+99198,3,MissedShots,0.8719999694824219,0.49599998474121093,0.090981625020504,Fabio Quagliarella,a,1230,OpenPlay,2015,RightFoot,679,Atalanta,Torino,0,1,2015-11-22 18:00:00,,Rebound
+99199,12,BlockedShot,0.8430000305175781,0.55,0.05106908455491066,Daniele Baselli,a,1182,OpenPlay,2015,RightFoot,679,Atalanta,Torino,0,1,2015-11-22 18:00:00,Afriyie Acquah,Cross
+99200,13,BlockedShot,0.904000015258789,0.3629999923706055,0.05408231541514397,Afriyie Acquah,a,1192,OpenPlay,2015,RightFoot,679,Atalanta,Torino,0,1,2015-11-22 18:00:00,Cristian Molinaro,Cross
+99202,23,BlockedShot,0.9230000305175782,0.3609999847412109,0.04414602741599083,Andrea Belotti,a,1186,FromCorner,2015,RightFoot,679,Atalanta,Torino,0,1,2015-11-22 18:00:00,Daniele Baselli,Cross
+99204,30,MissedShots,0.764000015258789,0.515,0.027439890429377556,Andrea Belotti,a,1186,OpenPlay,2015,RightFoot,679,Atalanta,Torino,0,1,2015-11-22 18:00:00,Daniele Baselli,Pass
+99209,43,ShotOnPost,0.9480000305175781,0.5070000076293946,0.5029659867286682,Andrea Belotti,a,1186,OpenPlay,2015,Head,679,Atalanta,Torino,0,1,2015-11-22 18:00:00,Cristian Molinaro,HeadPass
+99212,50,BlockedShot,0.805,0.3120000076293945,0.02687654457986355,Fabio Quagliarella,a,1230,OpenPlay,2015,RightFoot,679,Atalanta,Torino,0,1,2015-11-22 18:00:00,Giuseppe Vives,Pass
+99213,51,Goal,0.9309999847412109,0.48700000762939455,0.12531952559947968,Cesare Bovo,a,1197,FromCorner,2015,RightFoot,679,Atalanta,Torino,0,1,2015-11-22 18:00:00,Daniele Baselli,Cross
+99216,65,BlockedShot,0.845,0.639000015258789,0.05758679658174515,Giuseppe Vives,a,1194,OpenPlay,2015,RightFoot,679,Atalanta,Torino,0,1,2015-11-22 18:00:00,Andrea Belotti,Pass
+99220,72,ShotOnPost,0.845999984741211,0.445,0.1258396953344345,Andrea Belotti,a,1186,OpenPlay,2015,LeftFoot,679,Atalanta,Torino,0,1,2015-11-22 18:00:00,Fabio Quagliarella,TakeOn
+99221,75,MissedShots,0.8519999694824218,0.34799999237060547,0.0655205175280571,Afriyie Acquah,a,1192,OpenPlay,2015,RightFoot,679,Atalanta,Torino,0,1,2015-11-22 18:00:00,,None
+99223,83,MissedShots,0.8590000152587891,0.4329999923706055,0.085741326212883,Andrea Belotti,a,1186,OpenPlay,2015,RightFoot,679,Atalanta,Torino,0,1,2015-11-22 18:00:00,Cesare Bovo,Chipped
+99225,95,MissedShots,0.8,0.275,0.027573052793741226,Afriyie Acquah,a,1192,OpenPlay,2015,RightFoot,679,Atalanta,Torino,0,1,2015-11-22 18:00:00,Alessandro Gazzi,Pass

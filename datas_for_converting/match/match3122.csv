@@ -1,0 +1,27 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+117121,1,SavedShot,0.845999984741211,0.5259999847412109,0.09007269144058228,Paul Pogba,h,1740,OpenPlay,2016,LeftFoot,3122,Manchester United,Tottenham,1,0,2016-12-11 18:15:00,Zlatan Ibrahimovic,Pass
+117123,11,MissedShots,0.799000015258789,0.435,0.04037205129861832,Henrikh Mkhitaryan,h,317,OpenPlay,2016,LeftFoot,3122,Manchester United,Tottenham,1,0,2016-12-11 18:15:00,,None
+117125,19,BlockedShot,0.745,0.5609999847412109,0.013267958536744118,Anthony Martial,h,553,SetPiece,2016,RightFoot,3122,Manchester United,Tottenham,1,0,2016-12-11 18:15:00,,None
+117126,21,BlockedShot,0.84,0.534000015258789,0.0947342962026596,Henrikh Mkhitaryan,h,317,OpenPlay,2016,LeftFoot,3122,Manchester United,Tottenham,1,0,2016-12-11 18:15:00,Ander Herrera,LayOff
+117127,22,BlockedShot,0.9469999694824218,0.5659999847412109,0.05377736687660217,Phil Jones,h,951,FromCorner,2016,Head,3122,Manchester United,Tottenham,1,0,2016-12-11 18:15:00,,Aerial
+117128,22,SavedShot,0.750999984741211,0.63,0.019706634804606438,Ander Herrera,h,552,FromCorner,2016,RightFoot,3122,Manchester United,Tottenham,1,0,2016-12-11 18:15:00,,Rebound
+117129,26,BlockedShot,0.7519999694824219,0.6509999847412109,0.014502943493425846,Michael Carrick,h,654,OpenPlay,2016,RightFoot,3122,Manchester United,Tottenham,1,0,2016-12-11 18:15:00,,None
+117130,28,Goal,0.8719999694824219,0.39599998474121095,0.3319053649902344,Henrikh Mkhitaryan,h,317,OpenPlay,2016,RightFoot,3122,Manchester United,Tottenham,1,0,2016-12-11 18:15:00,Ander Herrera,Throughball
+117131,33,SavedShot,0.8719999694824219,0.615999984741211,0.065167635679245,Zlatan Ibrahimovic,h,1741,OpenPlay,2016,RightFoot,3122,Manchester United,Tottenham,1,0,2016-12-11 18:15:00,Antonio Valencia,Cross
+117137,44,MissedShots,0.870999984741211,0.6730000305175782,0.02696681022644043,Anthony Martial,h,553,OpenPlay,2016,RightFoot,3122,Manchester United,Tottenham,1,0,2016-12-11 18:15:00,,Aerial
+117138,47,MissedShots,0.9030000305175782,0.46099998474121096,0.11911271512508392,Zlatan Ibrahimovic,h,1741,OpenPlay,2016,Head,3122,Manchester United,Tottenham,1,0,2016-12-11 18:15:00,Ander Herrera,Cross
+117142,62,ShotOnPost,0.7169999694824218,0.5629999923706055,0.04343936964869499,Paul Pogba,h,1740,DirectFreekick,2016,RightFoot,3122,Manchester United,Tottenham,1,0,2016-12-11 18:15:00,,Standard
+117144,63,SavedShot,0.8540000152587891,0.4159999847412109,0.09302089363336563,Paul Pogba,h,1740,OpenPlay,2016,RightFoot,3122,Manchester United,Tottenham,1,0,2016-12-11 18:15:00,Ander Herrera,Pass
+117146,78,BlockedShot,0.8159999847412109,0.375,0.04395260289311409,Antonio Valencia,h,627,OpenPlay,2016,RightFoot,3122,Manchester United,Tottenham,1,0,2016-12-11 18:15:00,Henrikh Mkhitaryan,Pass
+117122,7,MissedShots,0.7880000305175782,0.7230000305175781,0.022524584084749222,Son Heung-Min,a,453,OpenPlay,2016,RightFoot,3122,Manchester United,Tottenham,1,0,2016-12-11 18:15:00,Harry Kane,Pass
+117124,18,SavedShot,0.715,0.34900001525878904,0.036781780421733856,Christian Eriksen,a,646,DirectFreekick,2016,RightFoot,3122,Manchester United,Tottenham,1,0,2016-12-11 18:15:00,,Standard
+117132,34,BlockedShot,0.7030000305175781,0.38799999237060545,0.013640777207911015,Mousa Dembélé,a,642,OpenPlay,2016,LeftFoot,3122,Manchester United,Tottenham,1,0,2016-12-11 18:15:00,Kyle Walker,Pass
+117133,35,SavedShot,0.774000015258789,0.34900001525878904,0.02041803114116192,Son Heung-Min,a,453,OpenPlay,2016,LeftFoot,3122,Manchester United,Tottenham,1,0,2016-12-11 18:15:00,Dele Alli,TakeOn
+117134,35,BlockedShot,0.8980000305175782,0.44799999237060545,0.016886062920093536,Victor Wanyama,a,836,FromCorner,2016,Head,3122,Manchester United,Tottenham,1,0,2016-12-11 18:15:00,Christian Eriksen,Aerial
+117135,36,BlockedShot,0.8980000305175782,0.27899999618530275,0.032725922763347626,Son Heung-Min,a,453,OpenPlay,2016,RightFoot,3122,Manchester United,Tottenham,1,0,2016-12-11 18:15:00,Danny Rose,Pass
+117136,39,MissedShots,0.7780000305175782,0.6519999694824219,0.023755673319101334,Harry Kane,a,647,OpenPlay,2016,RightFoot,3122,Manchester United,Tottenham,1,0,2016-12-11 18:15:00,Christian Eriksen,Pass
+117139,53,SavedShot,0.8009999847412109,0.34,0.023586135357618332,Christian Eriksen,a,646,OpenPlay,2016,RightFoot,3122,Manchester United,Tottenham,1,0,2016-12-11 18:15:00,Kyle Walker,Pass
+117140,54,MissedShots,0.9390000152587891,0.45,0.39675965905189514,Victor Wanyama,a,836,SetPiece,2016,Head,3122,Manchester United,Tottenham,1,0,2016-12-11 18:15:00,Christian Eriksen,Cross
+117141,59,MissedShots,0.8209999847412109,0.49900001525878906,0.038301922380924225,Dele Alli,a,645,OpenPlay,2016,RightFoot,3122,Manchester United,Tottenham,1,0,2016-12-11 18:15:00,Moussa Sissoko,Cross
+117143,63,BlockedShot,0.7230000305175781,0.5929999923706055,0.01693768799304962,Christian Eriksen,a,646,OpenPlay,2016,LeftFoot,3122,Manchester United,Tottenham,1,0,2016-12-11 18:15:00,Victor Wanyama,Pass
+117145,69,SavedShot,0.7859999847412109,0.3659999847412109,0.07802235335111618,Christian Eriksen,a,646,DirectFreekick,2016,RightFoot,3122,Manchester United,Tottenham,1,0,2016-12-11 18:15:00,,Standard

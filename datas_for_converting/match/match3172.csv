@@ -1,0 +1,31 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+138089,5,SavedShot,0.8859999847412109,0.29700000762939455,0.03619879111647606,Florin Andone,h,4068,OpenPlay,2016,RightFoot,3172,Deportivo La Coruna,Real Sociedad,5,1,2016-12-05 23:45:00,Guilherme,Pass
+138091,9,BlockedShot,0.81,0.5629999923706055,0.03639838099479675,Fernando Navarro,h,2467,FromCorner,2016,RightFoot,3172,Deportivo La Coruna,Real Sociedad,5,1,2016-12-05 23:45:00,,None
+138093,11,BlockedShot,0.85,0.5790000152587891,0.2504121959209442,Florin Andone,h,4068,OpenPlay,2016,RightFoot,3172,Deportivo La Coruna,Real Sociedad,5,1,2016-12-05 23:45:00,Emre Colak,Pass
+138094,12,Goal,0.9230000305175782,0.4929999923706055,0.10315079987049103,Sidnei,h,2314,FromCorner,2016,LeftFoot,3172,Deportivo La Coruna,Real Sociedad,5,1,2016-12-05 23:45:00,,None
+138099,24,MissedShots,0.7440000152587891,0.47,0.03331490233540535,Emre Colak,h,5080,OpenPlay,2016,LeftFoot,3172,Deportivo La Coruna,Real Sociedad,5,1,2016-12-05 23:45:00,Celso Borges,TakeOn
+138103,35,SavedShot,0.8809999847412109,0.620999984741211,0.09570661187171936,Florin Andone,h,4068,OpenPlay,2016,LeftFoot,3172,Deportivo La Coruna,Real Sociedad,5,1,2016-12-05 23:45:00,Carles Gil,Pass
+138104,41,Goal,0.895,0.4640000152587891,0.12346652150154114,Florin Andone,h,4068,OpenPlay,2016,RightFoot,3172,Deportivo La Coruna,Real Sociedad,5,1,2016-12-05 23:45:00,Juanfran,Cross
+138105,47,BlockedShot,0.919000015258789,0.7530000305175781,0.028111759573221207,Ryan Babel,h,5176,OpenPlay,2016,RightFoot,3172,Deportivo La Coruna,Real Sociedad,5,1,2016-12-05 23:45:00,Carles Gil,Cross
+138107,55,SavedShot,0.9340000152587891,0.500999984741211,0.128843754529953,Florin Andone,h,4068,FromCorner,2016,Head,3172,Deportivo La Coruna,Real Sociedad,5,1,2016-12-05 23:45:00,Emre Colak,Cross
+138109,58,MissedShots,0.8069999694824219,0.43900001525878907,0.06937612593173981,Ryan Babel,h,5176,OpenPlay,2016,RightFoot,3172,Deportivo La Coruna,Real Sociedad,5,1,2016-12-05 23:45:00,Carles Gil,Pass
+138110,63,SavedShot,0.885,0.5,0.7432776093482971,Ryan Babel,h,5176,Penalty,2016,RightFoot,3172,Deportivo La Coruna,Real Sociedad,5,1,2016-12-05 23:45:00,,Standard
+138111,63,Goal,0.9119999694824219,0.5320000076293945,0.5109996199607849,Ryan Babel,h,5176,SetPiece,2016,LeftFoot,3172,Deportivo La Coruna,Real Sociedad,5,1,2016-12-05 23:45:00,,Rebound
+138112,68,SavedShot,0.7680000305175781,0.840999984741211,0.021685708314180374,Ryan Babel,h,5176,OpenPlay,2016,RightFoot,3172,Deportivo La Coruna,Real Sociedad,5,1,2016-12-05 23:45:00,Emre Colak,Pass
+138114,76,Goal,0.9330000305175781,0.345,0.3931342363357544,Florin Andone,h,4068,OpenPlay,2016,RightFoot,3172,Deportivo La Coruna,Real Sociedad,5,1,2016-12-05 23:45:00,,Dispossessed
+138117,90,SavedShot,0.8680000305175781,0.27299999237060546,0.016798658296465874,Juanfran,h,2316,OpenPlay,2016,RightFoot,3172,Deportivo La Coruna,Real Sociedad,5,1,2016-12-05 23:45:00,,Aerial
+138090,8,SavedShot,0.7819999694824219,0.33599998474121096,0.01883314549922943,Carlos Martínez,a,2512,FromCorner,2016,RightFoot,3172,Deportivo La Coruna,Real Sociedad,5,1,2016-12-05 23:45:00,,None
+138092,10,MissedShots,0.7580000305175781,0.46299999237060546,0.019737258553504944,Mikel Oyarzabal,a,2234,FromCorner,2016,RightFoot,3172,Deportivo La Coruna,Real Sociedad,5,1,2016-12-05 23:45:00,,None
+138095,15,SavedShot,0.9690000152587891,0.5420000076293945,0.14100760221481323,Willian José,a,2361,SetPiece,2016,RightFoot,3172,Deportivo La Coruna,Real Sociedad,5,1,2016-12-05 23:45:00,Iñigo Martínez,Pass
+138096,15,MissedShots,0.95,0.6909999847412109,0.04802608862519264,Iñigo Martínez,a,2484,SetPiece,2016,LeftFoot,3172,Deportivo La Coruna,Real Sociedad,5,1,2016-12-05 23:45:00,,None
+138097,20,BlockedShot,0.87,0.7169999694824218,0.023202989250421524,Mikel Oyarzabal,a,2234,OpenPlay,2016,LeftFoot,3172,Deportivo La Coruna,Real Sociedad,5,1,2016-12-05 23:45:00,Carlos Martínez,Cross
+138098,23,MissedShots,0.87,0.38299999237060545,0.07132670283317566,Carlos Vela,a,2416,OpenPlay,2016,LeftFoot,3172,Deportivo La Coruna,Real Sociedad,5,1,2016-12-05 23:45:00,Willian José,Pass
+138100,26,MissedShots,0.7119999694824218,0.6359999847412109,0.011671343818306923,Sergio Canales,a,2571,OpenPlay,2016,LeftFoot,3172,Deportivo La Coruna,Real Sociedad,5,1,2016-12-05 23:45:00,Willian José,BallRecovery
+138101,28,OwnGoal,0.07900000095367432,0.48400001525878905,0,Iñigo Martínez,a,2484,OpenPlay,2016,RightFoot,3172,Deportivo La Coruna,Real Sociedad,5,1,2016-12-05 23:45:00,,None
+138102,31,MissedShots,0.7469999694824219,0.6090000152587891,0.02015775442123413,Willian José,a,2361,OpenPlay,2016,RightFoot,3172,Deportivo La Coruna,Real Sociedad,5,1,2016-12-05 23:45:00,Iñigo Martínez,Pass
+138106,54,MissedShots,0.8809999847412109,0.44599998474121094,0.05192761495709419,Willian José,a,2361,OpenPlay,2016,Head,3172,Deportivo La Coruna,Real Sociedad,5,1,2016-12-05 23:45:00,Asier Illarramendi,Cross
+138108,56,Goal,0.8090000152587891,0.6120000076293945,0.04601215198636055,Yuri,a,2229,OpenPlay,2016,LeftFoot,3172,Deportivo La Coruna,Real Sociedad,5,1,2016-12-05 23:45:00,Sergio Canales,Pass
+138113,71,MissedShots,0.730999984741211,0.5029999923706054,0.015878945589065552,Juanmi,a,897,OpenPlay,2016,RightFoot,3172,Deportivo La Coruna,Real Sociedad,5,1,2016-12-05 23:45:00,Willian José,Pass
+138115,81,MissedShots,0.7430000305175781,0.595999984741211,0.013388770632445812,Yuri,a,2229,FromCorner,2016,LeftFoot,3172,Deportivo La Coruna,Real Sociedad,5,1,2016-12-05 23:45:00,,Aerial
+138116,89,ShotOnPost,0.8819999694824219,0.509000015258789,0.05916476994752884,Willian José,a,2361,OpenPlay,2016,LeftFoot,3172,Deportivo La Coruna,Real Sociedad,5,1,2016-12-05 23:45:00,David Concha,Cross
+138118,91,MissedShots,0.7680000305175781,0.4809999847412109,0.028767723590135574,Asier Illarramendi,a,2232,OpenPlay,2016,RightFoot,3172,Deportivo La Coruna,Real Sociedad,5,1,2016-12-05 23:45:00,Mikel Oyarzabal,Pass

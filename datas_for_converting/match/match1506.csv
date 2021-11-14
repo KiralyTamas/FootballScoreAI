@@ -1,0 +1,26 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+86211,6,MissedShots,0.815,0.33,0.03360172361135483,Luis Suárez,h,2098,OpenPlay,2015,RightFoot,1506,Barcelona,Villarreal,3,0,2015-11-08 19:00:00,Munir,Pass
+86212,7,MissedShots,0.8630000305175781,0.615999984741211,0.08430463075637817,Luis Suárez,h,2098,OpenPlay,2015,LeftFoot,1506,Barcelona,Villarreal,3,0,2015-11-08 19:00:00,Neymar,Pass
+86213,18,BlockedShot,0.775,0.41900001525878905,0.014059022068977356,Dani Alves,h,1288,OpenPlay,2015,RightFoot,1506,Barcelona,Villarreal,3,0,2015-11-08 19:00:00,,Aerial
+86214,21,SavedShot,0.895,0.5279999923706055,0.025933511555194855,Jeremy Mathieu,h,2101,FromCorner,2015,Head,1506,Barcelona,Villarreal,3,0,2015-11-08 19:00:00,Andrés Iniesta,Aerial
+86215,23,BlockedShot,0.9569999694824218,0.6780000305175782,0.07214650511741638,Andrés Iniesta,h,2096,OpenPlay,2015,LeftFoot,1506,Barcelona,Villarreal,3,0,2015-11-08 19:00:00,Neymar,Pass
+86216,24,SavedShot,0.9869999694824219,0.6759999847412109,0.040320057421922684,Neymar,h,2099,FromCorner,2015,LeftFoot,1506,Barcelona,Villarreal,3,0,2015-11-08 19:00:00,Andrés Iniesta,TakeOn
+86217,24,MissedShots,0.86,0.700999984741211,0.04498688131570816,Neymar,h,2099,OpenPlay,2015,RightFoot,1506,Barcelona,Villarreal,3,0,2015-11-08 19:00:00,Andrés Iniesta,BallRecovery
+86218,26,SavedShot,0.879000015258789,0.6819999694824219,0.07402383536100388,Jeremy Mathieu,h,2101,OpenPlay,2015,LeftFoot,1506,Barcelona,Villarreal,3,0,2015-11-08 19:00:00,Luis Suárez,Pass
+86220,30,BlockedShot,0.8959999847412109,0.295,0.05555763840675354,Luis Suárez,h,2098,OpenPlay,2015,RightFoot,1506,Barcelona,Villarreal,3,0,2015-11-08 19:00:00,Sergi Roberto,HeadPass
+86223,47,MissedShots,0.92,0.5129999923706055,0.11600607633590698,Munir,h,2106,OpenPlay,2015,OtherBodyPart,1506,Barcelona,Villarreal,3,0,2015-11-08 19:00:00,Neymar,Cross
+86224,47,SavedShot,0.9640000152587891,0.41,0.41919079422950745,Dani Alves,h,1288,OpenPlay,2015,RightFoot,1506,Barcelona,Villarreal,3,0,2015-11-08 19:00:00,Munir,Rebound
+86225,53,MissedShots,0.9059999847412109,0.6020000076293945,0.05270287021994591,Luis Suárez,h,2098,SetPiece,2015,Head,1506,Barcelona,Villarreal,3,0,2015-11-08 19:00:00,Neymar,Cross
+86226,59,Goal,0.9169999694824219,0.5879999923706055,0.4123830497264862,Neymar,h,2099,OpenPlay,2015,LeftFoot,1506,Barcelona,Villarreal,3,0,2015-11-08 19:00:00,Sergio Busquets,Throughball
+86227,62,SavedShot,0.9059999847412109,0.45,0.4556616544723511,Andrés Iniesta,h,2096,OpenPlay,2015,RightFoot,1506,Barcelona,Villarreal,3,0,2015-11-08 19:00:00,Sergi Roberto,Pass
+86229,69,Goal,0.885,0.5,0.7432776093482971,Luis Suárez,h,2098,Penalty,2015,RightFoot,1506,Barcelona,Villarreal,3,0,2015-11-08 19:00:00,,Standard
+86230,77,SavedShot,0.855999984741211,0.37,0.09916899353265762,Luis Suárez,h,2098,OpenPlay,2015,RightFoot,1506,Barcelona,Villarreal,3,0,2015-11-08 19:00:00,Dani Alves,Pass
+86231,79,MissedShots,0.754000015258789,0.3920000076293945,0.020026449114084244,Sergi Roberto,h,2104,OpenPlay,2015,RightFoot,1506,Barcelona,Villarreal,3,0,2015-11-08 19:00:00,,None
+86232,80,MissedShots,0.8480000305175781,0.4179999923706055,0.10698477178812027,Sergi Roberto,h,2104,OpenPlay,2015,RightFoot,1506,Barcelona,Villarreal,3,0,2015-11-08 19:00:00,Neymar,Pass
+86233,84,Goal,0.8780000305175781,0.534000015258789,0.13381150364875793,Neymar,h,2099,OpenPlay,2015,RightFoot,1506,Barcelona,Villarreal,3,0,2015-11-08 19:00:00,Luis Suárez,GoodSkill
+86235,90,MissedShots,0.8780000305175781,0.605999984741211,0.12137693166732788,Luis Suárez,h,2098,OpenPlay,2015,LeftFoot,1506,Barcelona,Villarreal,3,0,2015-11-08 19:00:00,Neymar,Pass
+86219,27,MissedShots,0.8930000305175781,0.48700000762939455,0.09395062178373337,Denis Suárez,a,2308,OpenPlay,2015,Head,1506,Barcelona,Villarreal,3,0,2015-11-08 19:00:00,Samu Castillejo,Cross
+86221,35,MissedShots,0.7559999847412109,0.41900001525878905,0.02471708320081234,Roberto Soldado,a,2311,OpenPlay,2015,RightFoot,1506,Barcelona,Villarreal,3,0,2015-11-08 19:00:00,Bruno,Pass
+86222,44,SavedShot,0.9490000152587891,0.32599998474121095,0.06049653887748718,Samu Castillejo,a,2303,OpenPlay,2015,LeftFoot,1506,Barcelona,Villarreal,3,0,2015-11-08 19:00:00,,None
+86228,64,BlockedShot,0.7340000152587891,0.4879999923706055,0.06159980967640877,Bruno,a,2302,DirectFreekick,2015,LeftFoot,1506,Barcelona,Villarreal,3,0,2015-11-08 19:00:00,,Standard
+86234,86,SavedShot,0.799000015258789,0.38599998474121094,0.03782431036233902,Mario,a,2296,OpenPlay,2015,LeftFoot,1506,Barcelona,Villarreal,3,0,2015-11-08 19:00:00,Jonathan dos Santos,Pass

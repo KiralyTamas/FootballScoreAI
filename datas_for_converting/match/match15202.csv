@@ -1,0 +1,29 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+386788,1,MissedShots,0.8619999694824219,0.34900001525878904,0.051963724195957184,Leon Bailey,h,5221,OpenPlay,2020,RightFoot,15202,Bayer Leverkusen,Borussia M.Gladbach,4,3,2020-11-08 17:00:00,Florian Wirtz,Pass
+386789,12,BlockedShot,0.8819999694824219,0.40299999237060546,0.09131871908903122,Lucas Alario,h,6338,OpenPlay,2020,LeftFoot,15202,Bayer Leverkusen,Borussia M.Gladbach,4,3,2020-11-08 17:00:00,Leon Bailey,Pass
+386791,24,BlockedShot,0.7419999694824219,0.46599998474121096,0.01845615915954113,Moussa Diaby,h,6556,SetPiece,2020,LeftFoot,15202,Bayer Leverkusen,Borussia M.Gladbach,4,3,2020-11-08 17:00:00,Leon Bailey,Pass
+386792,26,Goal,0.855999984741211,0.65,0.08293341100215912,Lucas Alario,h,6338,OpenPlay,2020,RightFoot,15202,Bayer Leverkusen,Borussia M.Gladbach,4,3,2020-11-08 17:00:00,Moussa Diaby,Pass
+386800,40,Goal,0.95,0.5179999923706055,0.13662181794643402,Lucas Alario,h,6338,OpenPlay,2020,Head,15202,Bayer Leverkusen,Borussia M.Gladbach,4,3,2020-11-08 17:00:00,Florian Wirtz,Cross
+386803,51,BlockedShot,0.765,0.35900001525878905,0.02389363758265972,Leon Bailey,h,5221,OpenPlay,2020,LeftFoot,15202,Bayer Leverkusen,Borussia M.Gladbach,4,3,2020-11-08 17:00:00,Florian Wirtz,Pass
+386805,64,BlockedShot,0.855,0.5640000152587891,0.0933331549167633,Moussa Diaby,h,6556,OpenPlay,2020,LeftFoot,15202,Bayer Leverkusen,Borussia M.Gladbach,4,3,2020-11-08 17:00:00,Florian Wirtz,Pass
+386808,67,Goal,0.9769999694824218,0.6029999923706054,0.4033461809158325,Leon Bailey,h,5221,OpenPlay,2020,LeftFoot,15202,Bayer Leverkusen,Borussia M.Gladbach,4,3,2020-11-08 17:00:00,Moussa Diaby,Pass
+386809,69,MissedShots,0.7319999694824219,0.5070000076293946,0.02324395254254341,Florian Wirtz,h,8397,OpenPlay,2020,RightFoot,15202,Bayer Leverkusen,Borussia M.Gladbach,4,3,2020-11-08 17:00:00,Moussa Diaby,Pass
+386810,73,MissedShots,0.749000015258789,0.4929999923706055,0.027981659397482872,Nadiem Amiri,h,82,OpenPlay,2020,RightFoot,15202,Bayer Leverkusen,Borussia M.Gladbach,4,3,2020-11-08 17:00:00,Florian Wirtz,Pass
+386811,80,BlockedShot,0.7680000305175781,0.47900001525878905,0.023943966254591942,Nadiem Amiri,h,82,OpenPlay,2020,RightFoot,15202,Bayer Leverkusen,Borussia M.Gladbach,4,3,2020-11-08 17:00:00,Karim Bellarabi,TakeOn
+386812,81,BlockedShot,0.909000015258789,0.485,0.08461948484182358,Edmond Tapsoba,h,8317,FromCorner,2020,Head,15202,Bayer Leverkusen,Borussia M.Gladbach,4,3,2020-11-08 17:00:00,Nadiem Amiri,Cross
+386813,81,Goal,0.9440000152587891,0.5629999923706055,0.4773857891559601,Julian Baumgartlinger,h,42,FromCorner,2020,LeftFoot,15202,Bayer Leverkusen,Borussia M.Gladbach,4,3,2020-11-08 17:00:00,Nadiem Amiri,Pass
+386790,17,Goal,0.885,0.5,0.75777667760849,Lars Stindl,a,208,Penalty,2020,RightFoot,15202,Bayer Leverkusen,Borussia M.Gladbach,4,3,2020-11-08 17:00:00,,Standard
+386793,28,BlockedShot,0.75,0.605999984741211,0.021251549944281578,Lars Stindl,a,208,OpenPlay,2020,LeftFoot,15202,Bayer Leverkusen,Borussia M.Gladbach,4,3,2020-11-08 17:00:00,Breel Embolo,Pass
+386794,28,BlockedShot,0.7880000305175782,0.6659999847412109,0.01774430088698864,Marcus Thuram,a,5992,OpenPlay,2020,RightFoot,15202,Bayer Leverkusen,Borussia M.Gladbach,4,3,2020-11-08 17:00:00,,Rebound
+386795,28,Goal,0.899000015258789,0.5770000076293945,0.4107261300086975,Lars Stindl,a,208,OpenPlay,2020,LeftFoot,15202,Bayer Leverkusen,Borussia M.Gladbach,4,3,2020-11-08 17:00:00,Marcus Thuram,None
+386796,33,BlockedShot,0.8819999694824219,0.615,0.016067735850811005,Nico Elvedi,a,212,FromCorner,2020,Head,15202,Bayer Leverkusen,Borussia M.Gladbach,4,3,2020-11-08 17:00:00,Jonas Hofmann,Cross
+386797,33,SavedShot,0.774000015258789,0.524000015258789,0.03420552238821983,Breel Embolo,a,5356,FromCorner,2020,RightFoot,15202,Bayer Leverkusen,Borussia M.Gladbach,4,3,2020-11-08 17:00:00,,Rebound
+386798,33,ShotOnPost,0.9119999694824219,0.42700000762939455,0.40054526925086975,Ramy Bensebaini,a,3349,FromCorner,2020,RightFoot,15202,Bayer Leverkusen,Borussia M.Gladbach,4,3,2020-11-08 17:00:00,,Rebound
+386799,39,MissedShots,0.8109999847412109,0.615,0.05409438535571098,Marcus Thuram,a,5992,OpenPlay,2020,RightFoot,15202,Bayer Leverkusen,Borussia M.Gladbach,4,3,2020-11-08 17:00:00,Lars Stindl,Pass
+386801,42,SavedShot,0.905,0.5570000076293945,0.4652256965637207,Marcus Thuram,a,5992,SetPiece,2020,RightFoot,15202,Bayer Leverkusen,Borussia M.Gladbach,4,3,2020-11-08 17:00:00,Ramy Bensebaini,None
+386802,46,MissedShots,0.8540000152587891,0.345,0.05081219598650932,Lars Stindl,a,208,OpenPlay,2020,RightFoot,15202,Bayer Leverkusen,Borussia M.Gladbach,4,3,2020-11-08 17:00:00,,None
+386804,58,MissedShots,0.6819999694824219,0.3609999847412109,0.010755314491689205,Stefan Lainer,a,7831,OpenPlay,2020,RightFoot,15202,Bayer Leverkusen,Borussia M.Gladbach,4,3,2020-11-08 17:00:00,Marcus Thuram,BallTouch
+386806,66,SavedShot,0.9690000152587891,0.40599998474121096,0.40543803572654724,Lars Stindl,a,208,OpenPlay,2020,RightFoot,15202,Bayer Leverkusen,Borussia M.Gladbach,4,3,2020-11-08 17:00:00,Ramy Bensebaini,Pass
+386807,66,MissedShots,0.9319999694824219,0.4540000152587891,0.5120042562484741,Hannes Wolf,a,8171,OpenPlay,2020,RightFoot,15202,Bayer Leverkusen,Borussia M.Gladbach,4,3,2020-11-08 17:00:00,,Rebound
+386814,92,MissedShots,0.9080000305175782,0.5609999847412109,0.03350679576396942,Ramy Bensebaini,a,3349,SetPiece,2020,Head,15202,Bayer Leverkusen,Borussia M.Gladbach,4,3,2020-11-08 17:00:00,László Bénes,Aerial
+386815,93,Goal,0.8780000305175781,0.47,0.059127096086740494,Valentino Lazaro,a,6352,OpenPlay,2020,RightFoot,15202,Bayer Leverkusen,Borussia M.Gladbach,4,3,2020-11-08 17:00:00,Patrick Herrmann,Cross

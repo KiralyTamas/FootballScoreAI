@@ -1,0 +1,23 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+363114,4,MissedShots,0.68,0.6270000076293946,0.014433787204325199,Matheus Cunha,h,7080,OpenPlay,2019,RightFoot,12641,Hertha Berlin,Union Berlin,4,0,2020-05-22 18:30:00,Marko Grujic,Pass
+363117,17,SavedShot,0.9,0.3160000038146973,0.2687830328941345,Dodi Lukebakio,h,5706,OpenPlay,2019,RightFoot,12641,Hertha Berlin,Union Berlin,4,0,2020-05-22 18:30:00,Vedad Ibisevic,HeadPass
+363118,20,MissedShots,0.6769999694824219,0.629000015258789,0.01050481665879488,Marko Grujic,h,1669,OpenPlay,2019,RightFoot,12641,Hertha Berlin,Union Berlin,4,0,2020-05-22 18:30:00,Vladimir Darida,Pass
+363119,26,SavedShot,0.955999984741211,0.4129999923706055,0.4763578772544861,Matheus Cunha,h,7080,OpenPlay,2019,RightFoot,12641,Hertha Berlin,Union Berlin,4,0,2020-05-22 18:30:00,Vedad Ibisevic,Pass
+363120,26,MissedShots,0.894000015258789,0.48400001525878905,0.05806953087449074,Marko Grujic,h,1669,FromCorner,2019,Head,12641,Hertha Berlin,Union Berlin,4,0,2020-05-22 18:30:00,Vladimir Darida,Cross
+363121,37,SavedShot,0.8819999694824219,0.30100000381469727,0.04586733877658844,Matheus Cunha,h,7080,OpenPlay,2019,RightFoot,12641,Hertha Berlin,Union Berlin,4,0,2020-05-22 18:30:00,Per Skjelbred,Chipped
+363125,50,Goal,0.9290000152587891,0.55,0.439963698387146,Vedad Ibisevic,h,29,OpenPlay,2019,Head,12641,Hertha Berlin,Union Berlin,4,0,2020-05-22 18:30:00,Marvin Plattenhardt,Aerial
+363126,51,Goal,0.9169999694824219,0.3340000152587891,0.4611823260784149,Dodi Lukebakio,h,5706,OpenPlay,2019,RightFoot,12641,Hertha Berlin,Union Berlin,4,0,2020-05-22 18:30:00,,None
+363127,57,MissedShots,0.7040000152587891,0.5770000076293945,0.01515770424157381,Matheus Cunha,h,7080,OpenPlay,2019,RightFoot,12641,Hertha Berlin,Union Berlin,4,0,2020-05-22 18:30:00,Marko Grujic,BallRecovery
+363128,60,MissedShots,0.87,0.5579999923706055,0.11593609303236008,Dodi Lukebakio,h,5706,OpenPlay,2019,LeftFoot,12641,Hertha Berlin,Union Berlin,4,0,2020-05-22 18:30:00,Matheus Cunha,Chipped
+363129,60,Goal,0.8180000305175781,0.575999984741211,0.07016540318727493,Matheus Cunha,h,7080,OpenPlay,2019,RightFoot,12641,Hertha Berlin,Union Berlin,4,0,2020-05-22 18:30:00,Vedad Ibisevic,Pass
+363130,64,BlockedShot,0.8640000152587891,0.6730000305175782,0.07092706114053726,Marvin Plattenhardt,h,23,OpenPlay,2019,LeftFoot,12641,Hertha Berlin,Union Berlin,4,0,2020-05-22 18:30:00,Matheus Cunha,Pass
+363131,65,MissedShots,0.7190000152587891,0.43099998474121093,0.013995454646646976,Peter Pekarík,h,443,FromCorner,2019,RightFoot,12641,Hertha Berlin,Union Berlin,4,0,2020-05-22 18:30:00,,None
+363134,76,Goal,0.9259999847412109,0.4929999923706055,0.36398887634277344,Dedryck Boyata,h,4468,FromCorner,2019,Head,12641,Hertha Berlin,Union Berlin,4,0,2020-05-22 18:30:00,Marvin Plattenhardt,Cross
+363135,80,MissedShots,0.7719999694824219,0.5070000076293946,0.09100480377674103,Javairo Dilrosun,h,7122,DirectFreekick,2019,LeftFoot,12641,Hertha Berlin,Union Berlin,4,0,2020-05-22 18:30:00,,Standard
+363115,8,MissedShots,0.885,0.7230000305175781,0.03877813369035721,Marius Bülter,a,7879,OpenPlay,2019,LeftFoot,12641,Hertha Berlin,Union Berlin,4,0,2020-05-22 18:30:00,Sebastian Andersson,Pass
+363116,13,MissedShots,0.9369999694824219,0.6790000152587891,0.013028919696807861,Marius Bülter,a,7879,SetPiece,2019,Head,12641,Hertha Berlin,Union Berlin,4,0,2020-05-22 18:30:00,,None
+363122,38,BlockedShot,0.7080000305175781,0.45799999237060546,0.010610926896333694,Marcus Ingvartsen,a,7883,OpenPlay,2019,LeftFoot,12641,Hertha Berlin,Union Berlin,4,0,2020-05-22 18:30:00,,None
+363123,43,MissedShots,0.78,0.7019999694824218,0.05970633402466774,Robert Andrich,a,7877,DirectFreekick,2019,RightFoot,12641,Hertha Berlin,Union Berlin,4,0,2020-05-22 18:30:00,,Standard
+363124,47,BlockedShot,0.8969999694824219,0.615,0.10035300254821777,Marius Bülter,a,7879,OpenPlay,2019,LeftFoot,12641,Hertha Berlin,Union Berlin,4,0,2020-05-22 18:30:00,Robert Andrich,Pass
+363132,67,MissedShots,0.7269999694824218,0.524000015258789,0.01981159672141075,Robert Andrich,a,7877,SetPiece,2019,LeftFoot,12641,Hertha Berlin,Union Berlin,4,0,2020-05-22 18:30:00,Christopher Trimmel,Pass
+363133,73,BlockedShot,0.825,0.3129999923706055,0.03148222342133522,Christopher Trimmel,a,7875,OpenPlay,2019,RightFoot,12641,Hertha Berlin,Union Berlin,4,0,2020-05-22 18:30:00,Sebastian Polter,BallTouch

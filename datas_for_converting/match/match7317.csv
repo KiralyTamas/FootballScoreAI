@@ -1,0 +1,24 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+185607,19,BlockedShot,0.95,0.415,0.13940775394439697,Roberto Pereyra,h,1723,OpenPlay,2017,RightFoot,7317,Watford,Leicester,2,1,2017-12-26 15:00:00,André Carrillo,Pass
+185609,28,BlockedShot,0.8530000305175781,0.42900001525878906,0.027694517746567726,Abdoulaye Doucouré,h,1726,SetPiece,2017,RightFoot,7317,Watford,Leicester,2,1,2017-12-26 15:00:00,,Aerial
+185610,28,MissedShots,0.9030000305175782,0.5320000076293945,0.021082831546664238,Molla Wagué,h,1159,FromCorner,2017,Head,7317,Watford,Leicester,2,1,2017-12-26 15:00:00,Tom Cleverley,Aerial
+185614,39,MissedShots,0.9730000305175781,0.35900001525878905,0.30913853645324707,Richarlison,h,6026,OpenPlay,2017,RightFoot,7317,Watford,Leicester,2,1,2017-12-26 15:00:00,André Carrillo,Throughball
+185615,44,BlockedShot,0.92,0.5129999923706055,0.10443231463432312,Richarlison,h,6026,FromCorner,2017,LeftFoot,7317,Watford,Leicester,2,1,2017-12-26 15:00:00,Tom Cleverley,Cross
+185616,44,Goal,0.9630000305175781,0.4329999923706055,0.5330617427825928,Molla Wagué,h,1159,FromCorner,2017,RightFoot,7317,Watford,Leicester,2,1,2017-12-26 15:00:00,,Rebound
+185617,47,ShotOnPost,0.9319999694824219,0.6719999694824219,0.07824571430683136,Richarlison,h,6026,OpenPlay,2017,LeftFoot,7317,Watford,Leicester,2,1,2017-12-26 15:00:00,Tom Cleverley,Pass
+185620,56,MissedShots,0.7630000305175781,0.605999984741211,0.023143820464611053,Abdoulaye Doucouré,h,1726,OpenPlay,2017,RightFoot,7317,Watford,Leicester,2,1,2017-12-26 15:00:00,André Carrillo,Pass
+185621,57,MissedShots,0.8819999694824219,0.5570000076293945,0.1143171563744545,Stefano Okaka,h,1763,OpenPlay,2017,RightFoot,7317,Watford,Leicester,2,1,2017-12-26 15:00:00,Richarlison,Pass
+185622,62,MissedShots,0.8719999694824219,0.664000015258789,0.07463105767965317,Abdoulaye Doucouré,h,1726,SetPiece,2017,RightFoot,7317,Watford,Leicester,2,1,2017-12-26 15:00:00,Richarlison,LayOff
+185624,81,MissedShots,0.8469999694824218,0.33099998474121095,0.0606040433049202,Tom Cleverley,h,596,OpenPlay,2017,RightFoot,7317,Watford,Leicester,2,1,2017-12-26 15:00:00,,BallRecovery
+185606,17,SavedShot,0.9219999694824219,0.47,0.05887077376246452,Shinji Okazaki,a,754,OpenPlay,2017,Head,7317,Watford,Leicester,2,1,2017-12-26 15:00:00,Ben Chilwell,Aerial
+185608,25,MissedShots,0.8730000305175781,0.624000015258789,0.3193559944629669,Jamie Vardy,a,755,OpenPlay,2017,RightFoot,7317,Watford,Leicester,2,1,2017-12-26 15:00:00,Marc Albrighton,Throughball
+185611,31,SavedShot,0.779000015258789,0.515,0.03300433233380318,Riyad Mahrez,a,750,OpenPlay,2017,LeftFoot,7317,Watford,Leicester,2,1,2017-12-26 15:00:00,,None
+185612,35,MissedShots,0.925,0.53,0.04866965115070343,Wes Morgan,a,748,FromCorner,2017,Head,7317,Watford,Leicester,2,1,2017-12-26 15:00:00,Riyad Mahrez,Aerial
+185613,36,Goal,0.9209999847412109,0.415,0.2691658139228821,Riyad Mahrez,a,750,OpenPlay,2017,Head,7317,Watford,Leicester,2,1,2017-12-26 15:00:00,Marc Albrighton,Cross
+185618,52,BlockedShot,0.779000015258789,0.6179999923706054,0.02745395340025425,Riyad Mahrez,a,750,OpenPlay,2017,RightFoot,7317,Watford,Leicester,2,1,2017-12-26 15:00:00,Shinji Okazaki,Pass
+185619,52,BlockedShot,0.7759999847412109,0.44299999237060544,0.02134539745748043,Wilfred Ndidi,a,5545,OpenPlay,2017,RightFoot,7317,Watford,Leicester,2,1,2017-12-26 15:00:00,,Rebound
+185623,64,OwnGoal,0.008999999761581421,0.4640000152587891,0,Kasper Schmeichel,a,745,SetPiece,2017,OtherBodyPart,7317,Watford,Leicester,2,1,2017-12-26 15:00:00,,None
+185625,84,BlockedShot,0.9209999847412109,0.44799999237060545,0.032794415950775146,Harry Maguire,a,1687,FromCorner,2017,Head,7317,Watford,Leicester,2,1,2017-12-26 15:00:00,Riyad Mahrez,Aerial
+185626,84,SavedShot,0.9519999694824218,0.4809999847412109,0.6084175705909729,Wes Morgan,a,748,FromCorner,2017,RightFoot,7317,Watford,Leicester,2,1,2017-12-26 15:00:00,Harry Maguire,Rebound
+185627,84,SavedShot,0.9319999694824219,0.5629999923706055,0.08932862430810928,Leonardo Ulloa,a,756,FromCorner,2017,Head,7317,Watford,Leicester,2,1,2017-12-26 15:00:00,Marc Albrighton,Cross
+185628,90,MissedShots,0.8959999847412109,0.46099998474121096,0.05984694883227348,Islam Slimani,a,1682,OpenPlay,2017,Head,7317,Watford,Leicester,2,1,2017-12-26 15:00:00,Marc Albrighton,Cross

@@ -1,0 +1,18 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+163342,0,Goal,0.9280000305175782,0.49,0.42427951097488403,Marcus Thuram,h,5992,OpenPlay,2017,LeftFoot,8640,Guingamp,Toulouse,1,1,2017-09-30 19:00:00,Lucas Deaux,Cross
+163346,20,MissedShots,0.8830000305175781,0.49700000762939456,0.04046431928873062,Marcus Thuram,h,5992,OpenPlay,2017,Head,8640,Guingamp,Toulouse,1,1,2017-09-30 19:00:00,Yannis Salibur,Aerial
+163348,30,SavedShot,0.88,0.5259999847412109,0.4005834460258484,Yannis Salibur,h,3473,OpenPlay,2017,LeftFoot,8640,Guingamp,Toulouse,1,1,2017-09-30 19:00:00,Marcus Thuram,Throughball
+163351,45,SavedShot,0.749000015258789,0.620999984741211,0.05705459788441658,Lucas Deaux,h,3740,DirectFreekick,2017,RightFoot,8640,Guingamp,Toulouse,1,1,2017-09-30 19:00:00,,Standard
+163355,64,MissedShots,0.6609999847412109,0.629000015258789,0.009921466931700706,Étienne Didot,h,3215,OpenPlay,2017,RightFoot,8640,Guingamp,Toulouse,1,1,2017-09-30 19:00:00,Yannis Salibur,Pass
+163356,69,SavedShot,0.805,0.7030000305175781,0.019981341436505318,Ludovic Blas,h,3475,OpenPlay,2017,LeftFoot,8640,Guingamp,Toulouse,1,1,2017-09-30 19:00:00,Nicolas Benezet,Pass
+163343,8,MissedShots,0.9390000152587891,0.6430000305175781,0.05663863196969032,Andy Delort,a,3530,OpenPlay,2017,RightFoot,8640,Guingamp,Toulouse,1,1,2017-09-30 19:00:00,Somália,Cross
+163344,9,SavedShot,0.7859999847412109,0.7880000305175782,0.01611076295375824,Andy Delort,a,3530,OpenPlay,2017,RightFoot,8640,Guingamp,Toulouse,1,1,2017-09-30 19:00:00,Issiaga Sylla,Pass
+163345,12,MissedShots,0.7680000305175781,0.6719999694824219,0.0217905156314373,Giannelli Imbula,a,861,OpenPlay,2017,LeftFoot,8640,Guingamp,Toulouse,1,1,2017-09-30 19:00:00,Alexis Blin,Pass
+163347,22,MissedShots,0.720999984741211,0.7390000152587891,0.03223863244056702,Andy Delort,a,3530,DirectFreekick,2017,RightFoot,8640,Guingamp,Toulouse,1,1,2017-09-30 19:00:00,,Standard
+163349,36,MissedShots,0.7069999694824218,0.5929999923706055,0.009015148505568504,Issiaga Sylla,a,3370,OpenPlay,2017,LeftFoot,8640,Guingamp,Toulouse,1,1,2017-09-30 19:00:00,François Moubandje,Chipped
+163350,39,Goal,0.8540000152587891,0.5209999847412109,0.2774944603443146,Somália,a,3202,OpenPlay,2017,RightFoot,8640,Guingamp,Toulouse,1,1,2017-09-30 19:00:00,Andy Delort,Chipped
+163352,49,BlockedShot,0.7880000305175782,0.585,0.043679703027009964,Issiaga Sylla,a,3370,OpenPlay,2017,LeftFoot,8640,Guingamp,Toulouse,1,1,2017-09-30 19:00:00,Andy Delort,LayOff
+163353,54,MissedShots,0.88,0.5929999923706055,0.026064040139317513,Somália,a,3202,OpenPlay,2017,Head,8640,Guingamp,Toulouse,1,1,2017-09-30 19:00:00,Issiaga Sylla,Cross
+163354,58,MissedShots,0.7219999694824218,0.5129999923706055,0.019666258245706558,Andy Delort,a,3530,OpenPlay,2017,RightFoot,8640,Guingamp,Toulouse,1,1,2017-09-30 19:00:00,Alban Lafont,Pass
+163357,70,MissedShots,0.7080000305175781,0.6,0.010007580742239952,Giannelli Imbula,a,861,OpenPlay,2017,LeftFoot,8640,Guingamp,Toulouse,1,1,2017-09-30 19:00:00,,None
+163358,84,MissedShots,0.88,0.66,0.0570782832801342,Issiaga Sylla,a,3370,OpenPlay,2017,LeftFoot,8640,Guingamp,Toulouse,1,1,2017-09-30 19:00:00,,None

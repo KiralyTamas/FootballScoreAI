@@ -1,0 +1,28 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+362258,1,BlockedShot,0.7169999694824218,0.6559999847412109,0.015396938659250736,James Edward Lea Siliki,h,5770,OpenPlay,2019,LeftFoot,12987,Rennes,Montpellier,5,0,2020-03-08 15:00:00,Hamari Traore,Pass
+362259,3,BlockedShot,0.754000015258789,0.720999984741211,0.04349375516176224,Flavien Tait,h,5655,DirectFreekick,2019,RightFoot,12987,Rennes,Montpellier,5,0,2020-03-08 15:00:00,,Standard
+362260,5,MissedShots,0.8230000305175781,0.24399999618530274,0.02242806740105152,Romain Del Castillo,h,3721,OpenPlay,2019,LeftFoot,12987,Rennes,Montpellier,5,0,2020-03-08 15:00:00,Flavien Tait,Pass
+362262,8,Goal,0.754000015258789,0.7319999694824219,0.009539411403238773,Faitout Maouassa,h,5635,OpenPlay,2019,RightFoot,12987,Rennes,Montpellier,5,0,2020-03-08 15:00:00,Hamari Traore,Chipped
+362266,17,SavedShot,0.815,0.715,0.026966730132699013,Faitout Maouassa,h,5635,OpenPlay,2019,RightFoot,12987,Rennes,Montpellier,5,0,2020-03-08 15:00:00,Flavien Tait,Pass
+362267,21,SavedShot,0.8830000305175781,0.3729999923706055,0.09080877155065536,Adrien Hunou,h,3795,OpenPlay,2019,RightFoot,12987,Rennes,Montpellier,5,0,2020-03-08 15:00:00,Hamari Traore,Pass
+362269,27,Goal,0.9269999694824219,0.47299999237060547,0.5628181099891663,Adrien Hunou,h,3795,OpenPlay,2019,RightFoot,12987,Rennes,Montpellier,5,0,2020-03-08 15:00:00,Flavien Tait,Pass
+362274,49,MissedShots,0.899000015258789,0.27700000762939453,0.06723267585039139,Hamari Traore,h,3239,OpenPlay,2019,RightFoot,12987,Rennes,Montpellier,5,0,2020-03-08 15:00:00,Eduardo Camavinga,Pass
+362275,62,MissedShots,0.8919999694824219,0.34200000762939453,0.38660353422164917,Romain Del Castillo,h,3721,OpenPlay,2019,RightFoot,12987,Rennes,Montpellier,5,0,2020-03-08 15:00:00,Adrien Hunou,TakeOn
+362278,67,Goal,0.825,0.5709999847412109,0.0845521092414856,Flavien Tait,h,5655,OpenPlay,2019,RightFoot,12987,Rennes,Montpellier,5,0,2020-03-08 15:00:00,Eduardo Camavinga,Pass
+362279,70,SavedShot,0.81,0.34,0.04590170457959175,Romain Del Castillo,h,3721,OpenPlay,2019,LeftFoot,12987,Rennes,Montpellier,5,0,2020-03-08 15:00:00,Flavien Tait,Pass
+362280,71,SavedShot,0.9480000305175781,0.33,0.23027978837490082,Adrien Hunou,h,3795,OpenPlay,2019,RightFoot,12987,Rennes,Montpellier,5,0,2020-03-08 15:00:00,Romain Del Castillo,Pass
+362281,72,Goal,0.885,0.5,0.7600951194763184,Romain Del Castillo,h,3721,Penalty,2019,LeftFoot,12987,Rennes,Montpellier,5,0,2020-03-08 15:00:00,,Standard
+362282,80,MissedShots,0.735999984741211,0.285,0.013769663870334625,Hamari Traore,h,3239,OpenPlay,2019,RightFoot,12987,Rennes,Montpellier,5,0,2020-03-08 15:00:00,,None
+362283,82,MissedShots,0.8669999694824219,0.30100000381469727,0.06380385160446167,Raphinha,h,8026,OpenPlay,2019,LeftFoot,12987,Rennes,Montpellier,5,0,2020-03-08 15:00:00,Flavien Tait,Pass
+362284,86,Goal,0.885,0.5,0.7600951194763184,Adrien Hunou,h,3795,Penalty,2019,RightFoot,12987,Rennes,Montpellier,5,0,2020-03-08 15:00:00,,Standard
+362261,6,BlockedShot,0.720999984741211,0.6959999847412109,0.014759880490601063,Andy Delort,a,3530,OpenPlay,2019,RightFoot,12987,Rennes,Montpellier,5,0,2020-03-08 15:00:00,Téji Savanier,Pass
+362263,10,SavedShot,0.895,0.23,0.02073053829371929,Gaetan Laborde,a,3746,FromCorner,2019,LeftFoot,12987,Rennes,Montpellier,5,0,2020-03-08 15:00:00,,None
+362264,14,BlockedShot,0.865999984741211,0.55,0.05695856735110283,Gaetan Laborde,a,3746,OpenPlay,2019,RightFoot,12987,Rennes,Montpellier,5,0,2020-03-08 15:00:00,Andy Delort,Cross
+362265,14,BlockedShot,0.7630000305175781,0.5990000152587891,0.017974363639950752,Téji Savanier,a,6863,FromCorner,2019,RightFoot,12987,Rennes,Montpellier,5,0,2020-03-08 15:00:00,,None
+362268,21,ShotOnPost,0.9480000305175781,0.519000015258789,0.45904606580734253,Gaetan Laborde,a,3746,OpenPlay,2019,Head,12987,Rennes,Montpellier,5,0,2020-03-08 15:00:00,Andy Delort,HeadPass
+362270,34,BlockedShot,0.894000015258789,0.66,0.06554467976093292,Gaetan Laborde,a,3746,OpenPlay,2019,RightFoot,12987,Rennes,Montpellier,5,0,2020-03-08 15:00:00,Florent Mollet,Pass
+362271,35,ShotOnPost,0.895,0.6029999923706054,0.06159933656454086,Andy Delort,a,3530,FromCorner,2019,RightFoot,12987,Rennes,Montpellier,5,0,2020-03-08 15:00:00,Thibaut Vargas,Chipped
+362272,37,MissedShots,0.8769999694824219,0.63,0.09906046837568283,Andy Delort,a,3530,OpenPlay,2019,RightFoot,12987,Rennes,Montpellier,5,0,2020-03-08 15:00:00,Gaetan Laborde,Pass
+362273,43,MissedShots,0.9330000305175781,0.27100000381469724,0.07246825844049454,Andy Delort,a,3530,OpenPlay,2019,RightFoot,12987,Rennes,Montpellier,5,0,2020-03-08 15:00:00,Téji Savanier,Chipped
+362276,64,BlockedShot,0.8909999847412109,0.7930000305175782,0.029851319268345833,Florent Mollet,a,5677,FromCorner,2019,RightFoot,12987,Rennes,Montpellier,5,0,2020-03-08 15:00:00,,TakeOn
+362277,65,MissedShots,0.895,0.4370000076293945,0.04273518547415733,Andy Delort,a,3530,OpenPlay,2019,Head,12987,Rennes,Montpellier,5,0,2020-03-08 15:00:00,Mihailo Ristic,Aerial

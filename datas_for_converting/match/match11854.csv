@@ -1,0 +1,28 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+351772,4,MissedShots,0.779000015258789,0.62,0.02452523447573185,Lucas Moura,h,3293,OpenPlay,2019,RightFoot,11854,Tottenham,Liverpool,0,1,2020-01-11 17:30:00,,None
+351773,6,MissedShots,0.7980000305175782,0.5220000076293946,0.04731331020593643,Son Heung-Min,h,453,OpenPlay,2019,RightFoot,11854,Tottenham,Liverpool,0,1,2020-01-11 17:30:00,,BallRecovery
+351774,12,MissedShots,0.8490000152587891,0.4329999923706055,0.07368700206279755,Dele Alli,h,645,OpenPlay,2019,RightFoot,11854,Tottenham,Liverpool,0,1,2020-01-11 17:30:00,,Dispossessed
+351776,20,SavedShot,0.759000015258789,0.539000015258789,0.024260850623250008,Christian Eriksen,h,646,OpenPlay,2019,LeftFoot,11854,Tottenham,Liverpool,0,1,2020-01-11 17:30:00,Lucas Moura,Pass
+351781,44,BlockedShot,0.91,0.6029999923706054,0.021325765177607536,Lucas Moura,h,3293,OpenPlay,2019,Head,11854,Tottenham,Liverpool,0,1,2020-01-11 17:30:00,Serge Aurier,Aerial
+351782,45,MissedShots,0.9640000152587891,0.5779999923706055,0.04707487300038338,Lucas Moura,h,3293,FromCorner,2019,Head,11854,Tottenham,Liverpool,0,1,2020-01-11 17:30:00,Christian Eriksen,Aerial
+351784,45,MissedShots,0.879000015258789,0.3220000076293945,0.0589403361082077,Lucas Moura,h,3293,OpenPlay,2019,RightFoot,11854,Tottenham,Liverpool,0,1,2020-01-11 17:30:00,Serge Aurier,Pass
+351786,56,SavedShot,0.86,0.3340000152587891,0.057103414088487625,Serge Aurier,h,3600,OpenPlay,2019,RightFoot,11854,Tottenham,Liverpool,0,1,2020-01-11 17:30:00,Christian Eriksen,Pass
+351788,59,BlockedShot,0.86,0.615999984741211,0.04826795682311058,Son Heung-Min,h,453,OpenPlay,2019,RightFoot,11854,Tottenham,Liverpool,0,1,2020-01-11 17:30:00,Christian Eriksen,Chipped
+351789,59,MissedShots,0.9,0.4929999923706055,0.02191312424838543,Toby Alderweireld,h,639,FromCorner,2019,Head,11854,Tottenham,Liverpool,0,1,2020-01-11 17:30:00,Christian Eriksen,Aerial
+351791,74,MissedShots,0.885,0.6090000152587891,0.07967071980237961,Son Heung-Min,h,453,OpenPlay,2019,RightFoot,11854,Tottenham,Liverpool,0,1,2020-01-11 17:30:00,Lucas Moura,Pass
+351792,81,MissedShots,0.9619999694824218,0.545,0.5545483231544495,Giovani Lo Celso,h,5681,OpenPlay,2019,LeftFoot,11854,Tottenham,Liverpool,0,1,2020-01-11 17:30:00,Serge Aurier,Cross
+351793,88,SavedShot,0.76,0.500999984741211,0.01566731184720993,Erik Lamela,h,644,OpenPlay,2019,LeftFoot,11854,Tottenham,Liverpool,0,1,2020-01-11 17:30:00,Dele Alli,TakeOn
+351796,92,SavedShot,0.8219999694824218,0.30100000381469727,0.03154332935810089,Son Heung-Min,h,453,OpenPlay,2019,LeftFoot,11854,Tottenham,Liverpool,0,1,2020-01-11 17:30:00,Lucas Moura,Pass
+351770,1,BlockedShot,0.9130000305175782,0.38,0.12541407346725464,Roberto Firmino,a,482,OpenPlay,2019,LeftFoot,11854,Tottenham,Liverpool,0,1,2020-01-11 17:30:00,Alex Oxlade-Chamberlain,Chipped
+351771,1,ShotOnPost,0.875999984741211,0.46,0.11239422112703323,Alex Oxlade-Chamberlain,a,966,OpenPlay,2019,RightFoot,11854,Tottenham,Liverpool,0,1,2020-01-11 17:30:00,Roberto Firmino,Pass
+351775,17,BlockedShot,0.85,0.5420000076293945,0.06910098344087601,Roberto Firmino,a,482,OpenPlay,2019,RightFoot,11854,Tottenham,Liverpool,0,1,2020-01-11 17:30:00,,None
+351777,22,SavedShot,0.955,0.5409999847412109,0.41736626625061035,Virgil van Dijk,a,833,FromCorner,2019,Head,11854,Tottenham,Liverpool,0,1,2020-01-11 17:30:00,Jordan Henderson,Chipped
+351778,34,MissedShots,0.8830000305175781,0.5379999923706055,0.09216248989105225,Sadio Mané,a,838,OpenPlay,2019,LeftFoot,11854,Tottenham,Liverpool,0,1,2020-01-11 17:30:00,Roberto Firmino,Chipped
+351779,36,Goal,0.93,0.62,0.3700924217700958,Roberto Firmino,a,482,OpenPlay,2019,LeftFoot,11854,Tottenham,Liverpool,0,1,2020-01-11 17:30:00,Mohamed Salah,Pass
+351780,42,MissedShots,0.875,0.40599998474121096,0.09689494222402573,Mohamed Salah,a,1250,OpenPlay,2019,LeftFoot,11854,Tottenham,Liverpool,0,1,2020-01-11 17:30:00,,BallRecovery
+351783,47,MissedShots,0.7369999694824219,0.6659999847412109,0.020674744620919228,Alex Oxlade-Chamberlain,a,966,OpenPlay,2019,RightFoot,11854,Tottenham,Liverpool,0,1,2020-01-11 17:30:00,Roberto Firmino,Pass
+351785,49,MissedShots,0.909000015258789,0.355,0.10651008784770966,Trent Alexander-Arnold,a,1791,OpenPlay,2019,RightFoot,11854,Tottenham,Liverpool,0,1,2020-01-11 17:30:00,Mohamed Salah,Pass
+351787,57,SavedShot,0.850999984741211,0.5640000152587891,0.1029435247182846,Roberto Firmino,a,482,OpenPlay,2019,RightFoot,11854,Tottenham,Liverpool,0,1,2020-01-11 17:30:00,Mohamed Salah,Pass
+351790,64,SavedShot,0.9219999694824219,0.5879999923706055,0.050615761429071426,Sadio Mané,a,838,OpenPlay,2019,Head,11854,Tottenham,Liverpool,0,1,2020-01-11 17:30:00,Trent Alexander-Arnold,Chipped
+351794,89,SavedShot,0.8480000305175781,0.46900001525878904,0.12236806005239487,Divock Origi,a,484,OpenPlay,2019,RightFoot,11854,Tottenham,Liverpool,0,1,2020-01-11 17:30:00,Roberto Firmino,TakeOn
+351795,91,SavedShot,0.9019999694824219,0.505,0.059102609753608704,Georginio Wijnaldum,a,771,OpenPlay,2019,Head,11854,Tottenham,Liverpool,0,1,2020-01-11 17:30:00,Xherdan Shaqiri,Aerial

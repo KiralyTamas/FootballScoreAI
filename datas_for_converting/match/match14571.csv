@@ -1,0 +1,25 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+394222,5,BlockedShot,0.78,0.595999984741211,0.02046968974173069,Matt Ritchie,h,461,FromCorner,2020,LeftFoot,14571,Newcastle United,Fulham,1,1,2020-12-19 20:00:00,,None
+394223,8,BlockedShot,0.7480000305175781,0.649000015258789,0.016971632838249207,Jonjo Shelvey,h,769,FromCorner,2020,RightFoot,14571,Newcastle United,Fulham,1,1,2020-12-19 20:00:00,Miguel Almirón,Pass
+394224,9,SavedShot,0.8880000305175781,0.5029999923706054,0.06742063164710999,Callum Wilson,h,468,OpenPlay,2020,Head,14571,Newcastle United,Fulham,1,1,2020-12-19 20:00:00,Matt Ritchie,Cross
+394227,14,MissedShots,0.7380000305175781,0.23700000762939452,0.009470365010201931,Matt Ritchie,h,461,OpenPlay,2020,LeftFoot,14571,Newcastle United,Fulham,1,1,2020-12-19 20:00:00,Sean Longstaff,None
+394228,22,MissedShots,0.8780000305175781,0.500999984741211,0.027280041947960854,Joelinton,h,87,OpenPlay,2020,Head,14571,Newcastle United,Fulham,1,1,2020-12-19 20:00:00,DeAndre Yedlin,Aerial
+394233,37,SavedShot,0.8619999694824219,0.6909999847412109,0.04613615199923515,Miguel Almirón,h,7420,OpenPlay,2020,LeftFoot,14571,Newcastle United,Fulham,1,1,2020-12-19 20:00:00,Matt Ritchie,Pass
+394234,41,OwnGoal,0.017000000476837158,0.45799999237060546,0,Matt Ritchie,h,461,FromCorner,2020,Head,14571,Newcastle United,Fulham,1,1,2020-12-19 20:00:00,,CornerAwarded
+394235,47,MissedShots,0.7909999847412109,0.45799999237060546,0.10892128944396973,Jonjo Shelvey,h,769,DirectFreekick,2020,RightFoot,14571,Newcastle United,Fulham,1,1,2020-12-19 20:00:00,,Standard
+394238,63,Goal,0.885,0.5,0.7611688375473022,Callum Wilson,h,468,Penalty,2020,RightFoot,14571,Newcastle United,Fulham,1,1,2020-12-19 20:00:00,,Standard
+394239,66,SavedShot,0.710999984741211,0.5879999923706055,0.039716482162475586,Sean Longstaff,h,7078,DirectFreekick,2020,RightFoot,14571,Newcastle United,Fulham,1,1,2020-12-19 20:00:00,,Standard
+394241,71,SavedShot,0.884000015258789,0.5129999923706055,0.09588965028524399,Joelinton,h,87,OpenPlay,2020,RightFoot,14571,Newcastle United,Fulham,1,1,2020-12-19 20:00:00,Jonjo Shelvey,Chipped
+394242,81,MissedShots,0.9019999694824219,0.585999984741211,0.03285505250096321,Isaac Hayden,h,6062,SetPiece,2020,OtherBodyPart,14571,Newcastle United,Fulham,1,1,2020-12-19 20:00:00,Matt Ritchie,Aerial
+394243,85,MissedShots,0.8019999694824219,0.425,0.040952861309051514,Callum Wilson,h,468,OpenPlay,2020,RightFoot,14571,Newcastle United,Fulham,1,1,2020-12-19 20:00:00,Sean Longstaff,Pass
+394220,0,SavedShot,0.71,0.745,0.008645502850413322,Aleksandar Mitrovic,a,773,OpenPlay,2020,RightFoot,14571,Newcastle United,Fulham,1,1,2020-12-19 20:00:00,Joachim Andersen,Chipped
+394221,2,BlockedShot,0.765,0.40400001525878904,0.017869295552372932,Mario Lemina,a,1299,FromCorner,2020,RightFoot,14571,Newcastle United,Fulham,1,1,2020-12-19 20:00:00,,None
+394225,10,BlockedShot,0.884000015258789,0.4370000076293945,0.08618170022964478,Tom Cairney,a,6835,OpenPlay,2020,RightFoot,14571,Newcastle United,Fulham,1,1,2020-12-19 20:00:00,Ola Aina,Cross
+394226,11,SavedShot,0.8969999694824219,0.5129999923706055,0.2741289436817169,Ademola Lookman,a,5556,OpenPlay,2020,Head,14571,Newcastle United,Fulham,1,1,2020-12-19 20:00:00,Franck Zambo,Cross
+394229,26,BlockedShot,0.805,0.6229999923706054,0.1022910475730896,Ademola Lookman,a,5556,DirectFreekick,2020,RightFoot,14571,Newcastle United,Fulham,1,1,2020-12-19 20:00:00,,Standard
+394230,27,MissedShots,0.9169999694824219,0.49599998474121093,0.09636078029870987,Tosin Adarabioyo,a,5590,FromCorner,2020,Head,14571,Newcastle United,Fulham,1,1,2020-12-19 20:00:00,Tom Cairney,Cross
+394231,31,MissedShots,0.9130000305175782,0.41,0.301902174949646,Bobby Reid,a,6827,OpenPlay,2020,RightFoot,14571,Newcastle United,Fulham,1,1,2020-12-19 20:00:00,Mario Lemina,Chipped
+394232,35,MissedShots,0.8069999694824219,0.5479999923706055,0.03880787268280983,Tom Cairney,a,6835,SetPiece,2020,LeftFoot,14571,Newcastle United,Fulham,1,1,2020-12-19 20:00:00,,None
+394236,49,SavedShot,0.8640000152587891,0.54,0.0985778197646141,Tom Cairney,a,6835,OpenPlay,2020,LeftFoot,14571,Newcastle United,Fulham,1,1,2020-12-19 20:00:00,,None
+394237,52,MissedShots,0.7569999694824219,0.36400001525878906,0.00795234739780426,Franck Zambo,a,6434,FromCorner,2020,RightFoot,14571,Newcastle United,Fulham,1,1,2020-12-19 20:00:00,Tosin Adarabioyo,Chipped
+394240,67,SavedShot,0.8730000305175781,0.6469999694824219,0.07373277097940445,Ademola Lookman,a,5556,OpenPlay,2020,RightFoot,14571,Newcastle United,Fulham,1,1,2020-12-19 20:00:00,Antonee Robinson,Pass

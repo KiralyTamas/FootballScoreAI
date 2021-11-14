@@ -1,0 +1,24 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+387026,31,MissedShots,0.7909999847412109,0.5479999923706055,0.03357168287038803,Timo Werner,h,65,OpenPlay,2020,LeftFoot,14102,Chelsea,Liverpool,0,2,2020-09-20 15:30:00,,TakeOn
+387034,67,MissedShots,0.774000015258789,0.7319999694824219,0.012458120472729206,Mason Mount,h,7768,OpenPlay,2020,RightFoot,14102,Chelsea,Liverpool,0,2,2020-09-20 15:30:00,Marcos Alonso,Pass
+387035,74,SavedShot,0.885,0.5,0.7611688375473022,Jorginho,h,1389,Penalty,2020,RightFoot,14102,Chelsea,Liverpool,0,2,2020-09-20 15:30:00,,Standard
+387036,74,SavedShot,0.8930000305175781,0.5770000076293945,0.03671461343765259,Kurt Zouma,h,935,FromCorner,2020,Head,14102,Chelsea,Liverpool,0,2,2020-09-20 15:30:00,,None
+387039,83,SavedShot,0.8819999694824219,0.6659999847412109,0.060269393026828766,Tammy Abraham,h,702,OpenPlay,2020,RightFoot,14102,Chelsea,Liverpool,0,2,2020-09-20 15:30:00,Timo Werner,Pass
+387022,11,MissedShots,0.755,0.4779999923706055,0.021937914192676544,Georginio Wijnaldum,a,771,OpenPlay,2020,RightFoot,14102,Chelsea,Liverpool,0,2,2020-09-20 15:30:00,Mohamed Salah,Pass
+387023,13,BlockedShot,0.975,0.41900001525878905,0.14017879962921143,Roberto Firmino,a,482,OpenPlay,2020,RightFoot,14102,Chelsea,Liverpool,0,2,2020-09-20 15:30:00,Mohamed Salah,Pass
+387024,13,MissedShots,0.8719999694824219,0.545,0.0483061857521534,Georginio Wijnaldum,a,771,FromCorner,2020,RightFoot,14102,Chelsea,Liverpool,0,2,2020-09-20 15:30:00,Trent Alexander-Arnold,Cross
+387025,18,BlockedShot,0.8230000305175781,0.435,0.06102381646633148,Mohamed Salah,a,1250,OpenPlay,2020,LeftFoot,14102,Chelsea,Liverpool,0,2,2020-09-20 15:30:00,Roberto Firmino,Pass
+387027,33,MissedShots,0.96,0.700999984741211,0.04414043575525284,Mohamed Salah,a,1250,OpenPlay,2020,LeftFoot,14102,Chelsea,Liverpool,0,2,2020-09-20 15:30:00,Trent Alexander-Arnold,Chipped
+387028,35,MissedShots,0.91,0.6880000305175781,0.02942589297890663,Andrew Robertson,a,1688,OpenPlay,2020,LeftFoot,14102,Chelsea,Liverpool,0,2,2020-09-20 15:30:00,Jordan Henderson,Cross
+387029,46,MissedShots,0.7340000152587891,0.534000015258789,0.05343600735068321,Trent Alexander-Arnold,a,1791,DirectFreekick,2020,RightFoot,14102,Chelsea,Liverpool,0,2,2020-09-20 15:30:00,,Standard
+387030,49,Goal,0.9180000305175782,0.514000015258789,0.3394758105278015,Sadio Mané,a,838,OpenPlay,2020,Head,14102,Chelsea,Liverpool,0,2,2020-09-20 15:30:00,Roberto Firmino,Chipped
+387031,53,Goal,0.9059999847412109,0.49700000762939456,0.47042542695999146,Sadio Mané,a,838,OpenPlay,2020,RightFoot,14102,Chelsea,Liverpool,0,2,2020-09-20 15:30:00,,BallRecovery
+387032,60,BlockedShot,0.8090000152587891,0.47200000762939454,0.05004877597093582,Mohamed Salah,a,1250,OpenPlay,2020,LeftFoot,14102,Chelsea,Liverpool,0,2,2020-09-20 15:30:00,,None
+387033,65,SavedShot,0.9059999847412109,0.305,0.07086857408285141,Georginio Wijnaldum,a,771,OpenPlay,2020,RightFoot,14102,Chelsea,Liverpool,0,2,2020-09-20 15:30:00,Roberto Firmino,Pass
+387037,78,MissedShots,0.7719999694824219,0.63,0.021021593362092972,Trent Alexander-Arnold,a,1791,SetPiece,2020,RightFoot,14102,Chelsea,Liverpool,0,2,2020-09-20 15:30:00,Mohamed Salah,Pass
+387038,81,MissedShots,0.745999984741211,0.5359999847412109,0.01647152565419674,Thiago Alcántara,a,229,FromCorner,2020,RightFoot,14102,Chelsea,Liverpool,0,2,2020-09-20 15:30:00,,None
+387040,89,BlockedShot,0.8880000305175781,0.74,0.06220075860619545,Andrew Robertson,a,1688,OpenPlay,2020,LeftFoot,14102,Chelsea,Liverpool,0,2,2020-09-20 15:30:00,Thiago Alcántara,HeadPass
+387041,91,SavedShot,0.7290000152587891,0.6179999923706054,0.021481866016983986,Sadio Mané,a,838,OpenPlay,2020,LeftFoot,14102,Chelsea,Liverpool,0,2,2020-09-20 15:30:00,Mohamed Salah,Pass
+387042,92,MissedShots,0.749000015258789,0.524000015258789,0.027991248294711113,Trent Alexander-Arnold,a,1791,FromCorner,2020,RightFoot,14102,Chelsea,Liverpool,0,2,2020-09-20 15:30:00,Mohamed Salah,Pass
+387043,92,SavedShot,0.9390000152587891,0.6840000152587891,0.0661090686917305,Mohamed Salah,a,1250,OpenPlay,2020,LeftFoot,14102,Chelsea,Liverpool,0,2,2020-09-20 15:30:00,,None
+387044,92,MissedShots,0.9590000152587891,0.48700000762939455,0.7576488852500916,Georginio Wijnaldum,a,771,OpenPlay,2020,RightFoot,14102,Chelsea,Liverpool,0,2,2020-09-20 15:30:00,,Rebound

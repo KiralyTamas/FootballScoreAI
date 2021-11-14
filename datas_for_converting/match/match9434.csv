@@ -1,0 +1,20 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+275011,12,MissedShots,0.835,0.3060000038146973,0.030014296993613243,Ayoze Pérez,h,770,OpenPlay,2018,RightFoot,9434,Newcastle United,Manchester City,2,1,2019-01-29 20:00:00,,BallRecovery
+275012,14,BlockedShot,0.7480000305175781,0.6759999847412109,0.008923712186515331,Matt Ritchie,h,461,OpenPlay,2018,LeftFoot,9434,Newcastle United,Manchester City,2,1,2019-01-29 20:00:00,Salomón Rondón,Chipped
+275014,21,BlockedShot,0.8090000152587891,0.515,0.0565962940454483,Christian Atsu,h,2344,OpenPlay,2018,LeftFoot,9434,Newcastle United,Manchester City,2,1,2019-01-29 20:00:00,Salomón Rondón,Pass
+275015,22,MissedShots,0.9119999694824219,0.46,0.03520358353853226,Florian Lejeune,h,5073,FromCorner,2018,Head,9434,Newcastle United,Manchester City,2,1,2019-01-29 20:00:00,Matt Ritchie,BallTouch
+275016,25,MissedShots,0.7519999694824219,0.40200000762939453,0.013430211693048477,DeAndre Yedlin,h,727,SetPiece,2018,RightFoot,9434,Newcastle United,Manchester City,2,1,2019-01-29 20:00:00,,None
+275022,65,Goal,0.9159999847412109,0.5070000076293946,0.08698862791061401,Salomón Rondón,h,813,OpenPlay,2018,RightFoot,9434,Newcastle United,Manchester City,2,1,2019-01-29 20:00:00,Isaac Hayden,HeadPass
+275024,79,Goal,0.885,0.5,0.7611688375473022,Matt Ritchie,h,461,Penalty,2018,LeftFoot,9434,Newcastle United,Manchester City,2,1,2019-01-29 20:00:00,,Standard
+275010,0,Goal,0.9259999847412109,0.53,0.4382284879684448,Sergio Agüero,a,619,OpenPlay,2018,LeftFoot,9434,Newcastle United,Manchester City,2,1,2019-01-29 20:00:00,David Silva,HeadPass
+275013,17,BlockedShot,0.909000015258789,0.5579999923706055,0.12662318348884583,David Silva,a,617,SetPiece,2018,LeftFoot,9434,Newcastle United,Manchester City,2,1,2019-01-29 20:00:00,Leroy Sané,Pass
+275017,28,MissedShots,0.754000015258789,0.6509999847412109,0.015048463828861713,Danilo,a,2244,FromCorner,2018,RightFoot,9434,Newcastle United,Manchester City,2,1,2019-01-29 20:00:00,,None
+275018,30,SavedShot,0.7469999694824219,0.5459999847412109,0.02800700254738331,Sergio Agüero,a,619,OpenPlay,2018,RightFoot,9434,Newcastle United,Manchester City,2,1,2019-01-29 20:00:00,Kevin De Bruyne,Pass
+275019,39,BlockedShot,0.8580000305175781,0.615999984741211,0.09150990843772888,Leroy Sané,a,337,OpenPlay,2018,RightFoot,9434,Newcastle United,Manchester City,2,1,2019-01-29 20:00:00,David Silva,Pass
+275020,43,BlockedShot,0.9630000305175781,0.5070000076293946,0.20939506590366364,David Silva,a,617,OpenPlay,2018,Head,9434,Newcastle United,Manchester City,2,1,2019-01-29 20:00:00,,Aerial
+275021,57,SavedShot,0.865999984741211,0.4520000076293945,0.1184479221701622,David Silva,a,617,OpenPlay,2018,LeftFoot,9434,Newcastle United,Manchester City,2,1,2019-01-29 20:00:00,Kevin De Bruyne,Pass
+275023,74,BlockedShot,0.8119999694824219,0.49599998474121093,0.04675736650824547,Danilo,a,2244,SetPiece,2018,RightFoot,9434,Newcastle United,Manchester City,2,1,2019-01-29 20:00:00,Bernardo Silva,Pass
+275025,83,BlockedShot,0.794000015258789,0.6869999694824219,0.06767215579748154,Ilkay Gündogan,a,314,DirectFreekick,2018,RightFoot,9434,Newcastle United,Manchester City,2,1,2019-01-29 20:00:00,,Standard
+275026,86,BlockedShot,0.879000015258789,0.3940000152587891,0.027307581156492233,Sergio Agüero,a,619,FromCorner,2018,LeftFoot,9434,Newcastle United,Manchester City,2,1,2019-01-29 20:00:00,,Aerial
+275027,86,MissedShots,0.8780000305175781,0.43400001525878906,0.07982643693685532,Sergio Agüero,a,619,FromCorner,2018,RightFoot,9434,Newcastle United,Manchester City,2,1,2019-01-29 20:00:00,,Rebound
+275028,95,MissedShots,0.9169999694824219,0.5220000076293946,0.09231980890035629,Fernandinho,a,614,FromCorner,2018,Head,9434,Newcastle United,Manchester City,2,1,2019-01-29 20:00:00,Ilkay Gündogan,Cross

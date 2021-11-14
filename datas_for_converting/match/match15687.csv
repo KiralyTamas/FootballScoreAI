@@ -1,0 +1,29 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+410048,27,BlockedShot,0.765,0.6659999847412109,0.025696471333503723,Federico Barba,h,1320,OpenPlay,2020,LeftFoot,15687,Benevento,Fiorentina,1,4,2021-03-13 17:00:00,Gianluca Caprari,LayOff
+410049,29,SavedShot,0.9590000152587891,0.43,0.318120539188385,Adolfo Gaich,h,8607,OpenPlay,2020,RightFoot,15687,Benevento,Fiorentina,1,4,2021-03-13 17:00:00,Perparim Hetemaj,Cross
+410050,33,BlockedShot,0.8109999847412109,0.3679999923706055,0.034062087535858154,Adolfo Gaich,h,8607,OpenPlay,2020,RightFoot,15687,Benevento,Fiorentina,1,4,2021-03-13 17:00:00,,BallRecovery
+410051,41,MissedShots,0.909000015258789,0.635,0.00881272368133068,Kamil Glik,h,1800,SetPiece,2020,Head,15687,Benevento,Fiorentina,1,4,2021-03-13 17:00:00,Gianluca Caprari,Aerial
+410053,45,SavedShot,0.73,0.40700000762939453,0.010148092173039913,Roberto Insigne,h,1617,OpenPlay,2020,LeftFoot,15687,Benevento,Fiorentina,1,4,2021-03-13 17:00:00,,None
+410054,47,MissedShots,0.765,0.385,0.014295319095253944,Roberto Insigne,h,1617,OpenPlay,2020,LeftFoot,15687,Benevento,Fiorentina,1,4,2021-03-13 17:00:00,,None
+410055,50,BlockedShot,0.855999984741211,0.66,0.0675458312034607,Gianluca Caprari,h,1170,OpenPlay,2020,RightFoot,15687,Benevento,Fiorentina,1,4,2021-03-13 17:00:00,Roberto Insigne,Pass
+410056,54,MissedShots,0.9319999694824219,0.345,0.013299723155796528,Roberto Insigne,h,1617,FromCorner,2020,Head,15687,Benevento,Fiorentina,1,4,2021-03-13 17:00:00,Gianluca Caprari,Cross
+410057,55,Goal,0.9269999694824219,0.5629999923706055,0.033037684857845306,Artur Ionita,h,1604,FromCorner,2020,Head,15687,Benevento,Fiorentina,1,4,2021-03-13 17:00:00,Gianluca Caprari,Aerial
+410059,58,MissedShots,0.9069999694824219,0.42400001525878905,0.05016588792204857,Perparim Hetemaj,h,1334,OpenPlay,2020,Head,15687,Benevento,Fiorentina,1,4,2021-03-13 17:00:00,Artur Ionita,Cross
+410060,60,MissedShots,0.9590000152587891,0.539000015258789,0.5407280921936035,Adolfo Gaich,h,8607,OpenPlay,2020,RightFoot,15687,Benevento,Fiorentina,1,4,2021-03-13 17:00:00,Roberto Insigne,Cross
+410061,61,SavedShot,0.909000015258789,0.35700000762939454,0.06806673109531403,Gianluca Caprari,h,1170,OpenPlay,2020,RightFoot,15687,Benevento,Fiorentina,1,4,2021-03-13 17:00:00,Perparim Hetemaj,TakeOn
+410062,62,BlockedShot,0.899000015258789,0.5059999847412109,0.10106266289949417,Kamil Glik,h,1800,FromCorner,2020,LeftFoot,15687,Benevento,Fiorentina,1,4,2021-03-13 17:00:00,,None
+410064,68,BlockedShot,0.815,0.34900001525878904,0.02349238283932209,Gianluca Lapadula,h,1136,OpenPlay,2020,LeftFoot,15687,Benevento,Fiorentina,1,4,2021-03-13 17:00:00,Artur Ionita,Chipped
+410067,80,MissedShots,0.9119999694824219,0.5220000076293946,0.10328826308250427,Roberto Insigne,h,1617,OpenPlay,2020,Head,15687,Benevento,Fiorentina,1,4,2021-03-13 17:00:00,Gianluca Caprari,Cross
+410068,86,MissedShots,0.8690000152587891,0.48,0.03584922105073929,Gianluca Lapadula,h,1136,OpenPlay,2020,Head,15687,Benevento,Fiorentina,1,4,2021-03-13 17:00:00,Federico Barba,Aerial
+410069,87,MissedShots,0.8619999694824219,0.47200000762939454,0.09532530605792999,Riccardo Improta,h,8883,OpenPlay,2020,LeftFoot,15687,Benevento,Fiorentina,1,4,2021-03-13 17:00:00,Federico Barba,Pass
+410042,1,BlockedShot,0.8780000305175781,0.5840000152587891,0.017244188115000725,Dusan Vlahovic,a,7084,OpenPlay,2020,Head,15687,Benevento,Fiorentina,1,4,2021-03-13 17:00:00,Lorenzo Venuti,Aerial
+410043,7,Goal,0.8969999694824219,0.505,0.4266511797904968,Dusan Vlahovic,a,7084,OpenPlay,2020,LeftFoot,15687,Benevento,Fiorentina,1,4,2021-03-13 17:00:00,,None
+410044,12,MissedShots,0.95,0.500999984741211,0.5849503874778748,Lucas Martínez Quarta,a,9019,OpenPlay,2020,RightFoot,15687,Benevento,Fiorentina,1,4,2021-03-13 17:00:00,Lorenzo Venuti,Cross
+410045,17,BlockedShot,0.8330000305175781,0.31799999237060544,0.05017780885100365,Martín Cáceres,a,1942,OpenPlay,2020,RightFoot,15687,Benevento,Fiorentina,1,4,2021-03-13 17:00:00,,None
+410046,25,SavedShot,0.9459999847412109,0.5259999847412109,0.40511399507522583,Martín Cáceres,a,1942,FromCorner,2020,Head,15687,Benevento,Fiorentina,1,4,2021-03-13 17:00:00,Valentin Eysseric,Aerial
+410047,25,Goal,0.9330000305175781,0.515,0.11957778036594391,Dusan Vlahovic,a,7084,FromCorner,2020,LeftFoot,15687,Benevento,Fiorentina,1,4,2021-03-13 17:00:00,Martín Cáceres,None
+410052,45,Goal,0.7380000305175781,0.46,0.05113767459988594,Dusan Vlahovic,a,7084,OpenPlay,2020,LeftFoot,15687,Benevento,Fiorentina,1,4,2021-03-13 17:00:00,Bartlomiej Dragowski,Chipped
+410058,56,MissedShots,0.8219999694824218,0.5640000152587891,0.028402453288435936,Martín Cáceres,a,1942,OpenPlay,2020,RightFoot,15687,Benevento,Fiorentina,1,4,2021-03-13 17:00:00,Lucas Martínez Quarta,Aerial
+410063,66,BlockedShot,0.865,0.3940000152587891,0.08578571677207947,Valentin Eysseric,a,3515,OpenPlay,2020,LeftFoot,15687,Benevento,Fiorentina,1,4,2021-03-13 17:00:00,Lorenzo Venuti,Pass
+410065,70,MissedShots,0.8680000305175781,0.5059999847412109,0.1021326333284378,Dusan Vlahovic,a,7084,OpenPlay,2020,LeftFoot,15687,Benevento,Fiorentina,1,4,2021-03-13 17:00:00,,None
+410066,74,Goal,0.8969999694824219,0.41200000762939454,0.39810508489608765,Valentin Eysseric,a,3515,OpenPlay,2020,RightFoot,15687,Benevento,Fiorentina,1,4,2021-03-13 17:00:00,Franck Ribéry,Pass

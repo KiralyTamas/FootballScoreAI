@@ -1,0 +1,21 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+395598,2,MissedShots,0.9119999694824219,0.4329999923706055,0.0993770882487297,Jamie Vardy,h,755,OpenPlay,2020,RightFoot,14579,Leicester,Manchester United,2,2,2020-12-26 12:30:00,James Justin,Cross
+395600,20,BlockedShot,0.7240000152587891,0.620999984741211,0.010054107755422592,Youri Tielemans,h,5956,SetPiece,2020,RightFoot,14579,Leicester,Manchester United,2,2,2020-12-26 12:30:00,,None
+395603,25,SavedShot,0.85,0.3029999923706055,0.03385837748646736,Jamie Vardy,h,755,OpenPlay,2020,LeftFoot,14579,Leicester,Manchester United,2,2,2020-12-26 12:30:00,James Justin,Pass
+395604,30,Goal,0.749000015258789,0.5659999847412109,0.022273875772953033,Harvey Barnes,h,6681,OpenPlay,2020,LeftFoot,14579,Leicester,Manchester United,2,2,2020-12-26 12:30:00,James Maddison,Pass
+395606,38,BlockedShot,0.8080000305175781,0.5320000076293945,0.05507337674498558,Marc Albrighton,h,753,OpenPlay,2020,RightFoot,14579,Leicester,Manchester United,2,2,2020-12-26 12:30:00,James Maddison,TakeOn
+395607,52,BlockedShot,0.7780000305175782,0.6090000152587891,0.077579066157341,James Maddison,h,6818,DirectFreekick,2020,RightFoot,14579,Leicester,Manchester United,2,2,2020-12-26 12:30:00,,Standard
+395608,58,MissedShots,0.92,0.5309999847412109,0.04162978008389473,Jonny Evans,h,807,FromCorner,2020,Head,14579,Leicester,Manchester United,2,2,2020-12-26 12:30:00,James Maddison,Aerial
+395613,84,MissedShots,0.894000015258789,0.515,0.08960295468568802,Jamie Vardy,h,755,OpenPlay,2020,RightFoot,14579,Leicester,Manchester United,2,2,2020-12-26 12:30:00,Ayoze Pérez,Cross
+395615,92,BlockedShot,0.8090000152587891,0.674000015258789,0.02058655396103859,Youri Tielemans,h,5956,SetPiece,2020,LeftFoot,14579,Leicester,Manchester United,2,2,2020-12-26 12:30:00,,None
+395616,92,MissedShots,0.9459999847412109,0.48700000762939455,0.5895633101463318,Ayoze Pérez,h,770,SetPiece,2020,RightFoot,14579,Leicester,Manchester United,2,2,2020-12-26 12:30:00,,None
+395597,1,MissedShots,0.93,0.45599998474121095,0.3744451105594635,Marcus Rashford,a,556,OpenPlay,2020,Head,14579,Leicester,Manchester United,2,2,2020-12-26 12:30:00,Bruno Fernandes,Cross
+395599,5,SavedShot,0.7669999694824219,0.5270000076293946,0.028265085071325302,Anthony Martial,a,553,OpenPlay,2020,RightFoot,14579,Leicester,Manchester United,2,2,2020-12-26 12:30:00,Luke Shaw,Pass
+395601,22,Goal,0.8859999847412109,0.54,0.391660213470459,Marcus Rashford,a,556,OpenPlay,2020,RightFoot,14579,Leicester,Manchester United,2,2,2020-12-26 12:30:00,Bruno Fernandes,Pass
+395602,24,BlockedShot,0.925,0.5670000076293945,0.13003551959991455,Bruno Fernandes,a,1228,OpenPlay,2020,RightFoot,14579,Leicester,Manchester United,2,2,2020-12-26 12:30:00,Anthony Martial,BallTouch
+395605,36,MissedShots,0.915,0.47900001525878905,0.29648807644844055,Bruno Fernandes,a,1228,SetPiece,2020,Head,14579,Leicester,Manchester United,2,2,2020-12-26 12:30:00,Luke Shaw,Cross
+395609,59,SavedShot,0.8780000305175781,0.41,0.3026126027107239,Marcus Rashford,a,556,OpenPlay,2020,RightFoot,14579,Leicester,Manchester United,2,2,2020-12-26 12:30:00,Fred,Pass
+395610,59,MissedShots,0.87,0.534000015258789,0.11106254905462265,Anthony Martial,a,553,OpenPlay,2020,LeftFoot,14579,Leicester,Manchester United,2,2,2020-12-26 12:30:00,Bruno Fernandes,Pass
+395611,69,MissedShots,0.9130000305175782,0.45799999237060546,0.04763969033956528,Harry Maguire,a,1687,SetPiece,2020,Head,14579,Leicester,Manchester United,2,2,2020-12-26 12:30:00,Luke Shaw,Aerial
+395612,78,Goal,0.9159999847412109,0.415,0.40202316641807556,Bruno Fernandes,a,1228,OpenPlay,2020,RightFoot,14579,Leicester,Manchester United,2,2,2020-12-26 12:30:00,Edinson Cavani,Throughball
+395614,84,OwnGoal,0.07,0.4620000076293945,0,Axel Tuanzebe,a,934,OpenPlay,2020,RightFoot,14579,Leicester,Manchester United,2,2,2020-12-26 12:30:00,,None

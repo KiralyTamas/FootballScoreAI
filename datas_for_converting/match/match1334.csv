@@ -1,0 +1,24 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+127649,5,MissedShots,0.87,0.5790000152587891,0.07952279597520828,Genki Haraguchi,h,35,OpenPlay,2016,LeftFoot,1334,Hertha Berlin,Freiburg,2,1,2016-08-28 17:30:00,Vladimir Darida,Chipped
+127650,10,MissedShots,0.7669999694824219,0.34799999237060547,0.017265448346734047,Peter Pekarík,h,443,OpenPlay,2016,LeftFoot,1334,Hertha Berlin,Freiburg,2,1,2016-08-28 17:30:00,,None
+127652,29,MissedShots,0.8030000305175782,0.3509999847412109,0.030889034271240234,Mitchell Weiser,h,28,OpenPlay,2016,RightFoot,1334,Hertha Berlin,Freiburg,2,1,2016-08-28 17:30:00,Fabian Lustenberger,Pass
+127653,35,SavedShot,0.870999984741211,0.5520000076293945,0.06392860412597656,Vedad Ibisevic,h,29,OpenPlay,2016,RightFoot,1334,Hertha Berlin,Freiburg,2,1,2016-08-28 17:30:00,Peter Pekarík,Cross
+127654,36,BlockedShot,0.93,0.44299999237060544,0.08369851857423782,Vedad Ibisevic,h,29,FromCorner,2016,OtherBodyPart,1334,Hertha Berlin,Freiburg,2,1,2016-08-28 17:30:00,Marvin Plattenhardt,BallTouch
+127655,37,SavedShot,0.8719999694824219,0.524000015258789,0.018046095967292786,Vedad Ibisevic,h,29,OpenPlay,2016,Head,1334,Hertha Berlin,Freiburg,2,1,2016-08-28 17:30:00,Mitchell Weiser,Aerial
+127658,53,BlockedShot,0.8540000152587891,0.5220000076293946,0.09379276633262634,Vladimir Darida,h,27,OpenPlay,2016,LeftFoot,1334,Hertha Berlin,Freiburg,2,1,2016-08-28 17:30:00,Genki Haraguchi,Pass
+127660,55,SavedShot,0.7680000305175781,0.7419999694824219,0.019560040906071663,Genki Haraguchi,h,35,SetPiece,2016,RightFoot,1334,Hertha Berlin,Freiburg,2,1,2016-08-28 17:30:00,Marvin Plattenhardt,Pass
+127661,61,Goal,0.845,0.4759999847412109,0.10867107659578323,Vladimir Darida,h,27,OpenPlay,2016,RightFoot,1334,Hertha Berlin,Freiburg,2,1,2016-08-28 17:30:00,Vedad Ibisevic,LayOff
+127663,69,MissedShots,0.889000015258789,0.47,0.15093500912189484,Vedad Ibisevic,h,29,OpenPlay,2016,RightFoot,1334,Hertha Berlin,Freiburg,2,1,2016-08-28 17:30:00,Mitchell Weiser,Pass
+127665,83,BlockedShot,0.7330000305175781,0.24299999237060546,0.033737536519765854,Vladimir Darida,h,27,DirectFreekick,2016,RightFoot,1334,Hertha Berlin,Freiburg,2,1,2016-08-28 17:30:00,,Standard
+127667,93,MissedShots,0.74,0.504000015258789,0.016625192016363144,Jens Hegeler,h,30,OpenPlay,2016,LeftFoot,1334,Hertha Berlin,Freiburg,2,1,2016-08-28 17:30:00,,None
+127668,94,BlockedShot,0.7280000305175781,0.47299999237060547,0.028557928279042244,Genki Haraguchi,h,35,OpenPlay,2016,RightFoot,1334,Hertha Berlin,Freiburg,2,1,2016-08-28 17:30:00,,None
+127669,94,BlockedShot,0.889000015258789,0.654000015258789,0.0694696307182312,Julian Schieber,h,2633,OpenPlay,2016,LeftFoot,1334,Hertha Berlin,Freiburg,2,1,2016-08-28 17:30:00,,Dispossessed
+127670,94,Goal,0.899000015258789,0.6580000305175782,0.058444131165742874,Julian Schieber,h,2633,OpenPlay,2016,LeftFoot,1334,Hertha Berlin,Freiburg,2,1,2016-08-28 17:30:00,,Rebound
+127651,21,MissedShots,0.835,0.6669999694824219,0.03850570693612099,Florian Niederlechner,a,306,OpenPlay,2016,LeftFoot,1334,Hertha Berlin,Freiburg,2,1,2016-08-28 17:30:00,Maximilian Philipp,Pass
+127656,37,BlockedShot,0.8669999694824219,0.5840000152587891,0.0998225137591362,Vincenzo Grifo,a,5266,OpenPlay,2016,LeftFoot,1334,Hertha Berlin,Freiburg,2,1,2016-08-28 17:30:00,Maximilian Philipp,Pass
+127657,53,BlockedShot,0.8519999694824218,0.7609999847412109,0.021941956132650375,Vincenzo Grifo,a,5266,OpenPlay,2016,RightFoot,1334,Hertha Berlin,Freiburg,2,1,2016-08-28 17:30:00,,None
+127659,54,SavedShot,0.7780000305175782,0.519000015258789,0.025889722630381584,Maximilian Philipp,a,4247,OpenPlay,2016,LeftFoot,1334,Hertha Berlin,Freiburg,2,1,2016-08-28 17:30:00,Aleksandar Ignjovski,TakeOn
+127662,68,MissedShots,0.7369999694824219,0.62,0.0187238696962595,Vincenzo Grifo,a,5266,OpenPlay,2016,RightFoot,1334,Hertha Berlin,Freiburg,2,1,2016-08-28 17:30:00,Nicolas Höfler,Pass
+127664,73,MissedShots,0.745999984741211,0.455,0.01886928267776966,Maximilian Philipp,a,4247,OpenPlay,2016,LeftFoot,1334,Hertha Berlin,Freiburg,2,1,2016-08-28 17:30:00,,None
+127666,92,Goal,0.9369999694824219,0.5629999923706055,0.10416778177022934,Nicolas Höfler,a,4250,FromCorner,2016,Head,1334,Hertha Berlin,Freiburg,2,1,2016-08-28 17:30:00,Vincenzo Grifo,Cross
+127671,96,BlockedShot,0.8119999694824219,0.35700000762939454,0.03280187025666237,Maximilian Philipp,a,4247,OpenPlay,2016,LeftFoot,1334,Hertha Berlin,Freiburg,2,1,2016-08-28 17:30:00,Nils Petersen,Pass

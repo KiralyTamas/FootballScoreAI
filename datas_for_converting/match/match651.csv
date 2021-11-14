@@ -1,0 +1,28 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+98370,16,SavedShot,0.784000015258789,0.7090000152587891,0.019579540938138962,Paul Pogba,h,1740,OpenPlay,2015,RightFoot,651,Juventus,Torino,2,1,2015-10-31 21:00:00,Patrice Evra,Pass
+98372,18,Goal,0.765,0.4329999923706055,0.026237275451421738,Paul Pogba,h,1740,OpenPlay,2015,RightFoot,651,Juventus,Torino,2,1,2015-10-31 21:00:00,Juan Cuadrado,Pass
+98375,32,MissedShots,0.8119999694824219,0.44099998474121094,0.06254726648330688,Paulo Dybala,h,1294,OpenPlay,2015,LeftFoot,651,Juventus,Torino,2,1,2015-10-31 21:00:00,,None
+98378,54,MissedShots,0.7419999694824219,0.375,0.016668831929564476,Claudio Marchisio,h,1300,OpenPlay,2015,RightFoot,651,Juventus,Torino,2,1,2015-10-31 21:00:00,,Dispossessed
+98380,57,SavedShot,0.8719999694824219,0.46799999237060547,0.11096832901239395,Paul Pogba,h,1740,OpenPlay,2015,RightFoot,651,Juventus,Torino,2,1,2015-10-31 21:00:00,Paulo Dybala,Pass
+98381,58,BlockedShot,0.965999984741211,0.6020000076293945,0.04105667397379875,Álvaro Morata,h,1804,OpenPlay,2015,Head,651,Juventus,Torino,2,1,2015-10-31 21:00:00,,Aerial
+98382,60,MissedShots,0.785,0.3160000038146973,0.020048879086971283,Hernanes,h,1291,OpenPlay,2015,RightFoot,651,Juventus,Torino,2,1,2015-10-31 21:00:00,Claudio Marchisio,Pass
+98383,62,MissedShots,0.8390000152587891,0.445,0.07638771086931229,Paul Pogba,h,1740,OpenPlay,2015,RightFoot,651,Juventus,Torino,2,1,2015-10-31 21:00:00,Juan Cuadrado,Pass
+98384,63,MissedShots,0.755,0.5920000076293945,0.021571781486272812,Hernanes,h,1291,OpenPlay,2015,LeftFoot,651,Juventus,Torino,2,1,2015-10-31 21:00:00,Claudio Marchisio,Pass
+98385,67,BlockedShot,0.85,0.36900001525878906,0.06866538524627686,Paulo Dybala,h,1294,OpenPlay,2015,LeftFoot,651,Juventus,Torino,2,1,2015-10-31 21:00:00,Álvaro Morata,Pass
+98386,68,MissedShots,0.9640000152587891,0.544000015258789,0.1427585482597351,Paul Pogba,h,1740,FromCorner,2015,LeftFoot,651,Juventus,Torino,2,1,2015-10-31 21:00:00,Paulo Dybala,Cross
+98390,81,BlockedShot,0.81,0.34799999237060547,0.03326042369008064,Paulo Dybala,h,1294,OpenPlay,2015,LeftFoot,651,Juventus,Torino,2,1,2015-10-31 21:00:00,Paul Pogba,Pass
+98392,89,ShotOnPost,0.879000015258789,0.43099998474121093,0.03596007823944092,Leonardo Bonucci,h,1287,SetPiece,2015,Head,651,Juventus,Torino,2,1,2015-10-31 21:00:00,Hernanes,Cross
+98393,89,SavedShot,0.8619999694824219,0.615999984741211,0.05471193417906761,Claudio Marchisio,h,1300,SetPiece,2015,LeftFoot,651,Juventus,Torino,2,1,2015-10-31 21:00:00,,Rebound
+98394,89,BlockedShot,0.89,0.31799999237060544,0.04649212583899498,Juan Cuadrado,h,1089,SetPiece,2015,RightFoot,651,Juventus,Torino,2,1,2015-10-31 21:00:00,,None
+98395,91,SavedShot,0.7959999847412109,0.5720000076293945,0.04313889145851135,Paul Pogba,h,1740,OpenPlay,2015,RightFoot,651,Juventus,Torino,2,1,2015-10-31 21:00:00,Claudio Marchisio,Pass
+98396,92,Goal,0.9730000305175781,0.47200000762939454,0.6536938548088074,Juan Cuadrado,h,1089,OpenPlay,2015,RightFoot,651,Juventus,Torino,2,1,2015-10-31 21:00:00,Alex Sandro,Cross
+98371,18,MissedShots,0.95,0.31799999237060544,0.05627750605344772,Fabio Quagliarella,a,1230,SetPiece,2015,RightFoot,651,Juventus,Torino,2,1,2015-10-31 21:00:00,Giuseppe Vives,Chipped
+98373,28,MissedShots,0.7090000152587891,0.415,0.014675053767859936,Kamil Glik,a,1800,OpenPlay,2015,RightFoot,651,Juventus,Torino,2,1,2015-10-31 21:00:00,Emiliano Moretti,Pass
+98374,29,MissedShots,0.8419999694824218,0.4620000076293945,0.07784935086965561,Fabio Quagliarella,a,1230,OpenPlay,2015,RightFoot,651,Juventus,Torino,2,1,2015-10-31 21:00:00,Daniele Baselli,Pass
+98376,50,BlockedShot,0.7630000305175781,0.55,0.07413004338741302,Cesare Bovo,a,1197,DirectFreekick,2015,RightFoot,651,Juventus,Torino,2,1,2015-10-31 21:00:00,,Standard
+98377,50,Goal,0.7780000305175782,0.6270000076293946,0.01694932021200657,Cesare Bovo,a,1197,SetPiece,2015,LeftFoot,651,Juventus,Torino,2,1,2015-10-31 21:00:00,Daniele Baselli,Rebound
+98379,56,SavedShot,0.9330000305175781,0.54,0.11325421929359436,Kamil Glik,a,1800,FromCorner,2015,Head,651,Juventus,Torino,2,1,2015-10-31 21:00:00,Daniele Baselli,Cross
+98387,69,BlockedShot,0.85,0.4470000076293945,0.050893738865852356,Fabio Quagliarella,a,1230,OpenPlay,2015,RightFoot,651,Juventus,Torino,2,1,2015-10-31 21:00:00,Davide Zappacosta,Cross
+98388,69,SavedShot,0.705,0.4229999923706055,0.012656071223318577,Giuseppe Vives,a,1194,OpenPlay,2015,RightFoot,651,Juventus,Torino,2,1,2015-10-31 21:00:00,Afriyie Acquah,Pass
+98389,75,SavedShot,0.9169999694824219,0.5059999847412109,0.30227455496788025,Kamil Glik,a,1800,FromCorner,2015,Head,651,Juventus,Torino,2,1,2015-10-31 21:00:00,Cesare Bovo,Cross
+98391,84,SavedShot,0.89,0.40099998474121096,0.036132100969552994,Maxi López,a,1188,OpenPlay,2015,OtherBodyPart,651,Juventus,Torino,2,1,2015-10-31 21:00:00,Davide Zappacosta,Cross

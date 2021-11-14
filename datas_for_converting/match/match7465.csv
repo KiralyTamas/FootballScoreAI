@@ -1,0 +1,24 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+211055,11,Goal,0.9630000305175781,0.6229999923706054,0.07959463447332382,David Silva,h,617,OpenPlay,2017,LeftFoot,7465,Manchester City,Swansea,5,0,2018-04-22 15:30:00,,None
+211056,15,Goal,0.9740000152587891,0.4909999847412109,0.9003168940544128,Raheem Sterling,h,618,OpenPlay,2017,RightFoot,7465,Manchester City,Swansea,5,0,2018-04-22 15:30:00,Fabian Delph,Pass
+211058,29,SavedShot,0.875999984741211,0.31799999237060544,0.05127720534801483,Bernardo Silva,h,3635,OpenPlay,2017,LeftFoot,7465,Manchester City,Swansea,5,0,2018-04-22 15:30:00,,None
+211059,31,SavedShot,0.799000015258789,0.3220000076293945,0.03224821016192436,Kevin De Bruyne,h,447,OpenPlay,2017,LeftFoot,7465,Manchester City,Swansea,5,0,2018-04-22 15:30:00,Danilo,BallRecovery
+211060,34,SavedShot,0.9,0.325,0.13468244671821594,Gabriel Jesus,h,5543,OpenPlay,2017,RightFoot,7465,Manchester City,Swansea,5,0,2018-04-22 15:30:00,Kevin De Bruyne,Throughball
+211062,46,SavedShot,0.8169999694824219,0.455,0.07762231677770615,Ilkay Gündogan,h,314,OpenPlay,2017,RightFoot,7465,Manchester City,Swansea,5,0,2018-04-22 15:30:00,Bernardo Silva,Pass
+211063,47,BlockedShot,0.785,0.40299999237060546,0.034280624240636826,Kevin De Bruyne,h,447,OpenPlay,2017,RightFoot,7465,Manchester City,Swansea,5,0,2018-04-22 15:30:00,Bernardo Silva,Pass
+211064,50,MissedShots,0.9130000305175782,0.7169999694824218,0.08139835298061371,Kevin De Bruyne,h,447,OpenPlay,2017,RightFoot,7465,Manchester City,Swansea,5,0,2018-04-22 15:30:00,David Silva,Chipped
+211065,53,Goal,0.7609999847412109,0.28899999618530275,0.01660086028277874,Kevin De Bruyne,h,447,OpenPlay,2017,RightFoot,7465,Manchester City,Swansea,5,0,2018-04-22 15:30:00,Danilo,BallRecovery
+211067,63,SavedShot,0.885,0.5,0.7611688375473022,Gabriel Jesus,h,5543,Penalty,2017,RightFoot,7465,Manchester City,Swansea,5,0,2018-04-22 15:30:00,,Standard
+211068,63,Goal,0.9719999694824218,0.41900001525878905,0.5095266103744507,Bernardo Silva,h,3635,SetPiece,2017,RightFoot,7465,Manchester City,Swansea,5,0,2018-04-22 15:30:00,,Rebound
+211069,78,BlockedShot,0.750999984741211,0.6580000305175782,0.05011250823736191,Yaya Touré,h,878,DirectFreekick,2017,RightFoot,7465,Manchester City,Swansea,5,0,2018-04-22 15:30:00,,Standard
+211071,79,MissedShots,0.789000015258789,0.3220000076293945,0.02453872561454773,Danilo,h,2244,OpenPlay,2017,LeftFoot,7465,Manchester City,Swansea,5,0,2018-04-22 15:30:00,Bernardo Silva,Pass
+211072,81,SavedShot,0.850999984741211,0.7080000305175781,0.01669594645500183,Benjamin Mendy,h,3389,OpenPlay,2017,RightFoot,7465,Manchester City,Swansea,5,0,2018-04-22 15:30:00,,Aerial
+211073,82,SavedShot,0.935,0.4540000152587891,0.464783638715744,Gabriel Jesus,h,5543,OpenPlay,2017,Head,7465,Manchester City,Swansea,5,0,2018-04-22 15:30:00,Phil Foden,Cross
+211074,83,BlockedShot,0.750999984741211,0.4520000076293945,0.022104820236563683,Yaya Touré,h,878,OpenPlay,2017,RightFoot,7465,Manchester City,Swansea,5,0,2018-04-22 15:30:00,Bernardo Silva,Pass
+211075,86,MissedShots,0.955,0.4329999923706055,0.07703078538179398,Vincent Kompany,h,612,OpenPlay,2017,Head,7465,Manchester City,Swansea,5,0,2018-04-22 15:30:00,Yaya Touré,Throughball
+211076,87,Goal,0.9330000305175781,0.44299999237060544,0.35239851474761963,Gabriel Jesus,h,5543,OpenPlay,2017,Head,7465,Manchester City,Swansea,5,0,2018-04-22 15:30:00,Yaya Touré,Chipped
+211077,90,MissedShots,0.88,0.39099998474121095,0.1182006224989891,Ilkay Gündogan,h,314,OpenPlay,2017,RightFoot,7465,Manchester City,Swansea,5,0,2018-04-22 15:30:00,Bernardo Silva,Pass
+211057,23,BlockedShot,0.750999984741211,0.4,0.05856109410524368,Martin Olsson,a,798,DirectFreekick,2017,LeftFoot,7465,Manchester City,Swansea,5,0,2018-04-22 15:30:00,,Standard
+211061,44,SavedShot,0.755,0.5,0.037505872547626495,Alfie Mawson,a,1727,OpenPlay,2017,RightFoot,7465,Manchester City,Swansea,5,0,2018-04-22 15:30:00,,TakeOn
+211066,55,MissedShots,0.9440000152587891,0.43400001525878906,0.10130273550748825,Alfie Mawson,a,1727,FromCorner,2017,Head,7465,Manchester City,Swansea,5,0,2018-04-22 15:30:00,Ki Sung-yueng,Cross
+211070,78,MissedShots,0.88,0.63,0.10012348741292953,Sam Clucas,a,1690,OpenPlay,2017,LeftFoot,7465,Manchester City,Swansea,5,0,2018-04-22 15:30:00,Tammy Abraham,Chipped

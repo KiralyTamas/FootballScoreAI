@@ -1,0 +1,23 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+147291,4,ShotOnPost,0.7290000152587891,0.57,0.049000538885593414,Paulo Dybala,h,1294,DirectFreekick,2016,LeftFoot,3582,Juventus,Palermo,4,1,2017-02-17 19:45:00,,Standard
+147292,12,SavedShot,0.91,0.4,0.296880841255188,Gonzalo Higuaín,h,1293,SetPiece,2016,RightFoot,3582,Juventus,Palermo,4,1,2017-02-17 19:45:00,Dani Alves,Chipped
+147293,12,Goal,0.905,0.45599998474121095,0.4552652835845947,Claudio Marchisio,h,1300,SetPiece,2016,LeftFoot,3582,Juventus,Palermo,4,1,2017-02-17 19:45:00,,Rebound
+147298,25,MissedShots,0.7609999847412109,0.59,0.01655549928545952,Paulo Dybala,h,1294,OpenPlay,2016,LeftFoot,3582,Juventus,Palermo,4,1,2017-02-17 19:45:00,Kwadwo Asamoah,Chipped
+147301,32,SavedShot,0.7969999694824219,0.36400001525878906,0.05454433336853981,Paulo Dybala,h,1294,OpenPlay,2016,LeftFoot,3582,Juventus,Palermo,4,1,2017-02-17 19:45:00,Dani Alves,TakeOn
+147302,39,Goal,0.749000015258789,0.3,0.04315902665257454,Paulo Dybala,h,1294,DirectFreekick,2016,LeftFoot,3582,Juventus,Palermo,4,1,2017-02-17 19:45:00,,Standard
+147303,41,BlockedShot,0.8809999847412109,0.29200000762939454,0.0669916495680809,Stefano Sturaro,h,1296,OpenPlay,2016,RightFoot,3582,Juventus,Palermo,4,1,2017-02-17 19:45:00,Dani Alves,Pass
+147304,50,BlockedShot,0.8059999847412109,0.3240000152587891,0.047633565962314606,Paulo Dybala,h,1294,OpenPlay,2016,LeftFoot,3582,Juventus,Palermo,4,1,2017-02-17 19:45:00,,TakeOn
+147305,53,MissedShots,0.6869999694824219,0.8059999847412109,0.01059347577393055,Leonardo Bonucci,h,1287,OpenPlay,2016,RightFoot,3582,Juventus,Palermo,4,1,2017-02-17 19:45:00,Kwadwo Asamoah,Pass
+147306,60,MissedShots,0.35200000762939454,0.5279999923706055,0.008513843640685081,Leonardo Bonucci,h,1287,OpenPlay,2016,RightFoot,3582,Juventus,Palermo,4,1,2017-02-17 19:45:00,,BallRecovery
+147307,62,Goal,0.9069999694824219,0.40799999237060547,0.4802425503730774,Gonzalo Higuaín,h,1293,OpenPlay,2016,RightFoot,3582,Juventus,Palermo,4,1,2017-02-17 19:45:00,Paulo Dybala,Throughball
+147309,71,BlockedShot,0.9369999694824219,0.3139999961853027,0.08466768264770508,Juan Cuadrado,h,1089,OpenPlay,2016,RightFoot,3582,Juventus,Palermo,4,1,2017-02-17 19:45:00,Paulo Dybala,Pass
+147310,86,SavedShot,0.9309999847412109,0.3,0.05782505124807358,Juan Cuadrado,h,1089,OpenPlay,2016,RightFoot,3582,Juventus,Palermo,4,1,2017-02-17 19:45:00,,None
+147311,88,Goal,0.84,0.52,0.11418086290359497,Paulo Dybala,h,1294,OpenPlay,2016,LeftFoot,3582,Juventus,Palermo,4,1,2017-02-17 19:45:00,Gonzalo Higuaín,Pass
+147294,16,SavedShot,0.975999984741211,0.6680000305175782,0.054402463138103485,Ilija Nestorovski,a,1272,OpenPlay,2016,LeftFoot,3582,Juventus,Palermo,4,1,2017-02-17 19:45:00,Roland Sallai,Pass
+147295,17,MissedShots,0.82,0.654000015258789,0.03165087848901749,Roland Sallai,a,1277,FromCorner,2016,RightFoot,3582,Juventus,Palermo,4,1,2017-02-17 19:45:00,Mato Jajalo,Cross
+147296,18,MissedShots,0.84,0.3240000152587891,0.017079295590519905,Mato Jajalo,a,1273,FromCorner,2016,RightFoot,3582,Juventus,Palermo,4,1,2017-02-17 19:45:00,,Aerial
+147297,24,SavedShot,0.8440000152587891,0.24700000762939453,0.021320762112736702,Norbert Balogh,a,1536,OpenPlay,2016,RightFoot,3582,Juventus,Palermo,4,1,2017-02-17 19:45:00,,End
+147299,26,BlockedShot,0.7680000305175781,0.6430000305175781,0.015223626978695393,Roland Sallai,a,1277,OpenPlay,2016,RightFoot,3582,Juventus,Palermo,4,1,2017-02-17 19:45:00,Ilija Nestorovski,Chipped
+147300,29,MissedShots,0.7469999694824219,0.6930000305175781,0.010335789993405342,Roland Sallai,a,1277,OpenPlay,2016,RightFoot,3582,Juventus,Palermo,4,1,2017-02-17 19:45:00,Edoardo Goldaniga,Chipped
+147308,65,MissedShots,0.899000015258789,0.539000015258789,0.054813873022794724,Roland Sallai,a,1277,SetPiece,2016,Head,3582,Juventus,Palermo,4,1,2017-02-17 19:45:00,Toni Sunjic,HeadPass
+147312,92,Goal,0.925,0.4929999923706055,0.3521886467933655,Ivaylo Chochev,a,1271,FromCorner,2016,Head,3582,Juventus,Palermo,4,1,2017-02-17 19:45:00,Alessandro Diamanti,Cross

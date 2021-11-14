@@ -1,0 +1,27 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+101415,9,BlockedShot,0.845,0.674000015258789,0.0462905615568161,Luca Siligardi,h,1846,OpenPlay,2015,RightFoot,714,Verona,Sassuolo,1,1,2015-12-20 18:00:00,,Interception
+101422,35,MissedShots,0.8169999694824219,0.345,0.030248045921325684,Federico Viviani,h,1456,OpenPlay,2015,RightFoot,714,Verona,Sassuolo,1,1,2015-12-20 18:00:00,Artur Ionita,Pass
+101423,38,Goal,0.960999984741211,0.534000015258789,0.6813812851905823,Luca Toni,h,1955,OpenPlay,2015,LeftFoot,714,Verona,Sassuolo,1,1,2015-12-20 18:00:00,Pawel Wszolek,Throughball
+101429,61,SavedShot,0.909000015258789,0.46299999237060546,0.09918899089097977,Giampaolo Pazzini,h,1847,OpenPlay,2015,RightFoot,714,Verona,Sassuolo,1,1,2015-12-20 18:00:00,Federico Viviani,Cross
+101430,64,MissedShots,0.7609999847412109,0.544000015258789,0.021724609658122063,Federico Viviani,h,1456,OpenPlay,2015,RightFoot,714,Verona,Sassuolo,1,1,2015-12-20 18:00:00,Samuel Souprayen,Pass
+101431,68,SavedShot,0.8969999694824219,0.6609999847412109,0.060727644711732864,Leandro Greco,h,1996,OpenPlay,2015,RightFoot,714,Verona,Sassuolo,1,1,2015-12-20 18:00:00,,None
+101432,71,SavedShot,0.815,0.605999984741211,0.02549566514790058,Pawel Wszolek,h,1845,OpenPlay,2015,RightFoot,714,Verona,Sassuolo,1,1,2015-12-20 18:00:00,Artur Ionita,Cross
+101436,84,MissedShots,0.8369999694824218,0.46299999237060546,0.06301911920309067,Artur Ionita,h,1604,OpenPlay,2015,RightFoot,714,Verona,Sassuolo,1,1,2015-12-20 18:00:00,,None
+101437,84,SavedShot,0.850999984741211,0.3559999847412109,0.05687354877591133,Luca Toni,h,1955,OpenPlay,2015,LeftFoot,714,Verona,Sassuolo,1,1,2015-12-20 18:00:00,Jacopo Sala,Pass
+101439,86,SavedShot,0.9619999694824218,0.615,0.07528368383646011,Matteo Bianchetti,h,1843,SetPiece,2015,RightFoot,714,Verona,Sassuolo,1,1,2015-12-20 18:00:00,Luca Toni,None
+101416,12,SavedShot,0.955,0.6659999847412109,0.32080698013305664,Sergio Floccari,a,1446,OpenPlay,2015,LeftFoot,714,Verona,Sassuolo,1,1,2015-12-20 18:00:00,Nicola Sansone,Throughball
+101417,17,BlockedShot,0.8119999694824219,0.525,0.052760154008865356,Federico Peluso,a,1464,OpenPlay,2015,LeftFoot,714,Verona,Sassuolo,1,1,2015-12-20 18:00:00,Nicola Sansone,Pass
+101418,21,BlockedShot,0.749000015258789,0.6179999923706054,0.023304210975766182,Lorenzo Pellegrini,a,1471,FromCorner,2015,LeftFoot,714,Verona,Sassuolo,1,1,2015-12-20 18:00:00,Karim Laribi,Cross
+101419,21,MissedShots,0.710999984741211,0.6959999847412109,0.01677296683192253,Lorenzo Pellegrini,a,1471,OpenPlay,2015,RightFoot,714,Verona,Sassuolo,1,1,2015-12-20 18:00:00,Federico Peluso,Pass
+101420,24,MissedShots,0.8419999694824218,0.3120000076293945,0.03549141064286232,Matteo Politano,a,1473,OpenPlay,2015,LeftFoot,714,Verona,Sassuolo,1,1,2015-12-20 18:00:00,Karim Laribi,Pass
+101421,33,Goal,0.909000015258789,0.45799999237060546,0.10621745139360428,Sergio Floccari,a,1446,OpenPlay,2015,Head,714,Verona,Sassuolo,1,1,2015-12-20 18:00:00,Sime Vrsaljko,Cross
+101424,43,MissedShots,0.9069999694824219,0.72,0.04280788451433182,Nicola Sansone,a,1826,OpenPlay,2015,RightFoot,714,Verona,Sassuolo,1,1,2015-12-20 18:00:00,,None
+101425,46,SavedShot,0.8640000152587891,0.6880000305175781,0.11298055201768875,Sergio Floccari,a,1446,OpenPlay,2015,LeftFoot,714,Verona,Sassuolo,1,1,2015-12-20 18:00:00,Nicola Sansone,Throughball
+101426,46,MissedShots,0.9,0.685,0.04459141939878464,Sergio Floccari,a,1446,OpenPlay,2015,RightFoot,714,Verona,Sassuolo,1,1,2015-12-20 18:00:00,,Rebound
+101427,47,MissedShots,0.915,0.43599998474121093,0.10041389614343643,Sergio Floccari,a,1446,OpenPlay,2015,LeftFoot,714,Verona,Sassuolo,1,1,2015-12-20 18:00:00,Sime Vrsaljko,Cross
+101428,56,ShotOnPost,0.8030000305175782,0.29,0.024419082328677177,Matteo Politano,a,1473,OpenPlay,2015,LeftFoot,714,Verona,Sassuolo,1,1,2015-12-20 18:00:00,Karim Laribi,Pass
+101433,76,BlockedShot,0.9280000305175782,0.46299999237060546,0.5485703945159912,Antonio Floro Flores,a,1338,OpenPlay,2015,RightFoot,714,Verona,Sassuolo,1,1,2015-12-20 18:00:00,,None
+101434,76,MissedShots,0.7430000305175781,0.48200000762939454,0.015648039057850838,Simone Missiroli,a,1603,OpenPlay,2015,RightFoot,714,Verona,Sassuolo,1,1,2015-12-20 18:00:00,,Rebound
+101435,83,MissedShots,0.695,0.669000015258789,0.030723586678504944,Antonio Floro Flores,a,1338,DirectFreekick,2015,RightFoot,714,Verona,Sassuolo,1,1,2015-12-20 18:00:00,,Standard
+101438,85,SavedShot,0.6730000305175782,0.585,0.013203546404838562,Alfred Duncan,a,1474,SetPiece,2015,LeftFoot,714,Verona,Sassuolo,1,1,2015-12-20 18:00:00,Simone Missiroli,Pass
+101440,93,MissedShots,0.7769999694824219,0.674000015258789,0.02068117819726467,Alfred Duncan,a,1474,OpenPlay,2015,LeftFoot,714,Verona,Sassuolo,1,1,2015-12-20 18:00:00,,Dispossessed

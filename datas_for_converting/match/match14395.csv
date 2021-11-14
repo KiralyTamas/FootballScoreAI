@@ -1,0 +1,28 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+410551,3,BlockedShot,0.8830000305175781,0.40400001525878904,0.09244008362293243,Vitali Lisakovich,h,8622,OpenPlay,2020,LeftFoot,14395,Lokomotiv Moscow,PFC Sochi,3,1,2021-03-14 16:00:00,Daniil Kulikov,Pass
+410552,3,BlockedShot,0.8430000305175781,0.3120000076293945,0.02858971804380417,Dmitri Rybchinsky,h,7452,OpenPlay,2020,RightFoot,14395,Lokomotiv Moscow,PFC Sochi,3,1,2021-03-14 16:00:00,,Rebound
+410554,15,BlockedShot,0.9330000305175781,0.66,0.09045355021953583,Daniil Kulikov,h,6417,OpenPlay,2020,LeftFoot,14395,Lokomotiv Moscow,PFC Sochi,3,1,2021-03-14 16:00:00,Francois Kamano,Pass
+410555,20,MissedShots,0.97,0.24399999618530274,0.02394987642765045,Vitali Lisakovich,h,8622,OpenPlay,2020,RightFoot,14395,Lokomotiv Moscow,PFC Sochi,3,1,2021-03-14 16:00:00,Vedran Corluka,TakeOn
+410556,22,MissedShots,0.7090000152587891,0.3820000076293945,0.016843317076563835,Francois Kamano,h,3333,OpenPlay,2020,RightFoot,14395,Lokomotiv Moscow,PFC Sochi,3,1,2021-03-14 16:00:00,Vedran Corluka,Pass
+410557,23,MissedShots,0.865999984741211,0.649000015258789,0.10864374786615372,Vitali Lisakovich,h,8622,OpenPlay,2020,LeftFoot,14395,Lokomotiv Moscow,PFC Sochi,3,1,2021-03-14 16:00:00,Rifat Zhemaletdinov,Chipped
+410561,39,MissedShots,0.7390000152587891,0.6759999847412109,0.012669159099459648,Rifat Zhemaletdinov,h,2712,OpenPlay,2020,RightFoot,14395,Lokomotiv Moscow,PFC Sochi,3,1,2021-03-14 16:00:00,Maciej Rybus,Pass
+410562,41,Goal,0.875999984741211,0.39799999237060546,0.3191819489002228,Francois Kamano,h,3333,OpenPlay,2020,RightFoot,14395,Lokomotiv Moscow,PFC Sochi,3,1,2021-03-14 16:00:00,Rifat Zhemaletdinov,Throughball
+410565,52,MissedShots,0.9159999847412109,0.47,0.15053869783878326,Francois Kamano,h,3333,OpenPlay,2020,RightFoot,14395,Lokomotiv Moscow,PFC Sochi,3,1,2021-03-14 16:00:00,Vitali Lisakovich,Pass
+410566,54,SavedShot,0.8009999847412109,0.33599998474121096,0.025289129465818405,Vitali Lisakovich,h,8622,OpenPlay,2020,LeftFoot,14395,Lokomotiv Moscow,PFC Sochi,3,1,2021-03-14 16:00:00,Daniil Kulikov,Pass
+410567,55,Goal,0.860999984741211,0.639000015258789,0.06433048099279404,Francois Kamano,h,3333,OpenPlay,2020,RightFoot,14395,Lokomotiv Moscow,PFC Sochi,3,1,2021-03-14 16:00:00,Rifat Zhemaletdinov,Chipped
+410572,74,SavedShot,0.759000015258789,0.44299999237060544,0.03627251088619232,Rifat Zhemaletdinov,h,2712,OpenPlay,2020,LeftFoot,14395,Lokomotiv Moscow,PFC Sochi,3,1,2021-03-14 16:00:00,Dmitri Rybchinsky,TakeOn
+410575,88,Goal,0.8059999847412109,0.5529999923706055,0.09071463346481323,Fedor Smolov,h,2925,OpenPlay,2020,RightFoot,14395,Lokomotiv Moscow,PFC Sochi,3,1,2021-03-14 16:00:00,Rifat Zhemaletdinov,Pass
+410553,7,MissedShots,0.795,0.40700000762939453,0.0349222794175148,Joãozinho,a,2928,OpenPlay,2020,LeftFoot,14395,Lokomotiv Moscow,PFC Sochi,3,1,2021-03-14 16:00:00,,None
+410558,29,SavedShot,0.799000015258789,0.6519999694824219,0.02516932040452957,Artur Yusupov,a,3067,OpenPlay,2020,RightFoot,14395,Lokomotiv Moscow,PFC Sochi,3,1,2021-03-14 16:00:00,Sergey Terekhov,Pass
+410559,34,MissedShots,0.865,0.3270000076293945,0.043935779482126236,Marko Dugandzic,a,8985,OpenPlay,2020,LeftFoot,14395,Lokomotiv Moscow,PFC Sochi,3,1,2021-03-14 16:00:00,Sergey Terekhov,Pass
+410560,36,MissedShots,0.7369999694824219,0.54,0.01500602625310421,Sergey Terekhov,a,5940,FromCorner,2020,LeftFoot,14395,Lokomotiv Moscow,PFC Sochi,3,1,2021-03-14 16:00:00,,None
+410563,43,MissedShots,0.779000015258789,0.54,0.030335355550050735,Joãozinho,a,2928,OpenPlay,2020,LeftFoot,14395,Lokomotiv Moscow,PFC Sochi,3,1,2021-03-14 16:00:00,,None
+410564,47,MissedShots,0.7869999694824219,0.40700000762939453,0.026093419641256332,Joãozinho,a,2928,FromCorner,2020,LeftFoot,14395,Lokomotiv Moscow,PFC Sochi,3,1,2021-03-14 16:00:00,Danil Prutsev,Pass
+410568,57,MissedShots,0.9019999694824219,0.5920000076293945,0.21871960163116455,Marko Dugandzic,a,8985,OpenPlay,2020,Head,14395,Lokomotiv Moscow,PFC Sochi,3,1,2021-03-14 16:00:00,Joãozinho,Cross
+410569,57,Goal,0.9169999694824219,0.37099998474121093,0.05877480283379555,Artur Yusupov,a,3067,OpenPlay,2020,RightFoot,14395,Lokomotiv Moscow,PFC Sochi,3,1,2021-03-14 16:00:00,,Rebound
+410570,63,MissedShots,0.8040000152587891,0.705,0.02326556295156479,Artur Yusupov,a,3067,OpenPlay,2020,RightFoot,14395,Lokomotiv Moscow,PFC Sochi,3,1,2021-03-14 16:00:00,Danil Prutsev,Pass
+410571,67,MissedShots,0.8909999847412109,0.38799999237060545,0.043256036937236786,Artur Yusupov,a,3067,FromCorner,2020,RightFoot,14395,Lokomotiv Moscow,PFC Sochi,3,1,2021-03-14 16:00:00,Joãozinho,Cross
+410573,80,BlockedShot,0.8830000305175781,0.6580000305175782,0.3168959319591522,Aleksandr Rudenko,a,7620,OpenPlay,2020,RightFoot,14395,Lokomotiv Moscow,PFC Sochi,3,1,2021-03-14 16:00:00,Maksim Barsov,Pass
+410574,82,MissedShots,0.845999984741211,0.3920000076293945,0.04216386377811432,Kirill Zaika,a,8368,FromCorner,2020,RightFoot,14395,Lokomotiv Moscow,PFC Sochi,3,1,2021-03-14 16:00:00,Ivan Miladinovic,None
+410576,89,SavedShot,0.955999984741211,0.5179999923706055,0.607365071773529,Maksim Barsov,a,9389,OpenPlay,2020,RightFoot,14395,Lokomotiv Moscow,PFC Sochi,3,1,2021-03-14 16:00:00,,BallTouch
+410577,92,SavedShot,0.8490000152587891,0.43599998474121093,0.09991586208343506,Aleksandr Rudenko,a,7620,OpenPlay,2020,RightFoot,14395,Lokomotiv Moscow,PFC Sochi,3,1,2021-03-14 16:00:00,Joãozinho,Chipped

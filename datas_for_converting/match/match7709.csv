@@ -1,0 +1,28 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+189966,6,BlockedShot,0.789000015258789,0.6090000152587891,0.029632633551955223,Domenico Berardi,h,1612,OpenPlay,2017,RightFoot,7709,Sassuolo,Atalanta,0,3,2018-01-28 14:00:00,,None
+189967,11,MissedShots,0.92,0.45,0.05249550938606262,Diego Falcinelli,h,1360,OpenPlay,2017,Head,7709,Sassuolo,Atalanta,0,3,2018-01-28 14:00:00,Domenico Berardi,Aerial
+189972,25,BlockedShot,0.7709999847412109,0.34200000762939453,0.023464716970920563,Domenico Berardi,h,1612,OpenPlay,2017,LeftFoot,7709,Sassuolo,Atalanta,0,3,2018-01-28 14:00:00,Pol Lirola,Chipped
+189975,34,MissedShots,0.9540000152587891,0.4909999847412109,0.5121719837188721,Simone Missiroli,h,1603,OpenPlay,2017,Head,7709,Sassuolo,Atalanta,0,3,2018-01-28 14:00:00,Matteo Politano,Cross
+189977,46,ShotOnPost,0.8109999847412109,0.4370000076293945,0.0512344054877758,Matteo Politano,h,1473,OpenPlay,2017,LeftFoot,7709,Sassuolo,Atalanta,0,3,2018-01-28 14:00:00,Simone Missiroli,Pass
+189978,46,BlockedShot,0.8919999694824219,0.385,0.0635453313589096,Domenico Berardi,h,1612,OpenPlay,2017,LeftFoot,7709,Sassuolo,Atalanta,0,3,2018-01-28 14:00:00,Diego Falcinelli,None
+189980,56,MissedShots,0.925,0.38599998474121094,0.07674391567707062,Alessandro Matri,h,1472,OpenPlay,2017,RightFoot,7709,Sassuolo,Atalanta,0,3,2018-01-28 14:00:00,Domenico Berardi,Cross
+189984,74,SavedShot,0.8930000305175781,0.6459999847412109,0.04891964793205261,Alessandro Matri,h,1472,OpenPlay,2017,RightFoot,7709,Sassuolo,Atalanta,0,3,2018-01-28 14:00:00,Domenico Berardi,Cross
+189985,77,MissedShots,0.9159999847412109,0.6530000305175782,0.06737679243087769,Domenico Berardi,h,1612,OpenPlay,2017,RightFoot,7709,Sassuolo,Atalanta,0,3,2018-01-28 14:00:00,Simone Missiroli,TakeOn
+189990,94,MissedShots,0.7519999694824219,0.5520000076293945,0.018953388556838036,Gianluca Scamacca,h,6253,OpenPlay,2017,RightFoot,7709,Sassuolo,Atalanta,0,3,2018-01-28 14:00:00,Alessandro Matri,Pass
+189964,5,MissedShots,0.9259999847412109,0.41,0.052116818726062775,Bryan Cristante,a,1168,FromCorner,2017,Head,7709,Sassuolo,Atalanta,0,3,2018-01-28 14:00:00,Josip Ilicic,Cross
+189965,5,MissedShots,0.9630000305175781,0.504000015258789,0.7059544920921326,Andreas Cornelius,a,6156,FromCorner,2017,LeftFoot,7709,Sassuolo,Atalanta,0,3,2018-01-28 14:00:00,Bryan Cristante,Rebound
+189968,17,SavedShot,0.9280000305175782,0.575999984741211,0.05160040408372879,Josip Ilicic,a,1426,OpenPlay,2017,Head,7709,Sassuolo,Atalanta,0,3,2018-01-28 14:00:00,Timothy Castagne,Aerial
+189969,20,SavedShot,0.905,0.725999984741211,0.03798855096101761,Josip Ilicic,a,1426,OpenPlay,2017,LeftFoot,7709,Sassuolo,Atalanta,0,3,2018-01-28 14:00:00,Andrea Masiello,Chipped
+189970,20,MissedShots,0.7569999694824219,0.3970000076293945,0.02179034985601902,Marten de Roon,a,1710,OpenPlay,2017,RightFoot,7709,Sassuolo,Atalanta,0,3,2018-01-28 14:00:00,Andrea Masiello,Pass
+189971,22,SavedShot,0.8190000152587891,0.475,0.08256825059652328,Andreas Cornelius,a,6156,OpenPlay,2017,RightFoot,7709,Sassuolo,Atalanta,0,3,2018-01-28 14:00:00,Marten de Roon,TakeOn
+189973,29,Goal,0.970999984741211,0.43,0.42715340852737427,Andrea Masiello,a,1485,SetPiece,2017,Head,7709,Sassuolo,Atalanta,0,3,2018-01-28 14:00:00,Josip Ilicic,Cross
+189974,32,SavedShot,0.92,0.47,0.06684405356645584,Andreas Cornelius,a,6156,OpenPlay,2017,Head,7709,Sassuolo,Atalanta,0,3,2018-01-28 14:00:00,Timothy Castagne,HeadPass
+189976,44,MissedShots,0.41700000762939454,0.575,0.007117853499948978,Josip Ilicic,a,1426,OpenPlay,2017,LeftFoot,7709,Sassuolo,Atalanta,0,3,2018-01-28 14:00:00,,BallRecovery
+189979,47,BlockedShot,0.874000015258789,0.47299999237060547,0.1480303257703781,Josip Ilicic,a,1426,OpenPlay,2017,RightFoot,7709,Sassuolo,Atalanta,0,3,2018-01-28 14:00:00,Rafael Toloi,Pass
+189981,59,MissedShots,0.9069999694824219,0.2670000076293945,0.051291365176439285,Andreas Cornelius,a,6156,OpenPlay,2017,RightFoot,7709,Sassuolo,Atalanta,0,3,2018-01-28 14:00:00,Bryan Cristante,Pass
+189982,63,SavedShot,0.8490000152587891,0.46,0.05252276733517647,Marten de Roon,a,1710,SetPiece,2017,RightFoot,7709,Sassuolo,Atalanta,0,3,2018-01-28 14:00:00,Andrea Petagna,HeadPass
+189983,68,SavedShot,0.8180000305175781,0.43400001525878906,0.1541423350572586,Josip Ilicic,a,1426,DirectFreekick,2017,LeftFoot,7709,Sassuolo,Atalanta,0,3,2018-01-28 14:00:00,,Standard
+189986,82,Goal,0.879000015258789,0.4329999923706055,0.11939401179552078,Bryan Cristante,a,1168,OpenPlay,2017,RightFoot,7709,Sassuolo,Atalanta,0,3,2018-01-28 14:00:00,Timothy Castagne,Pass
+189987,84,BlockedShot,0.9169999694824219,0.580999984741211,0.14098584651947021,Andrea Petagna,a,1493,OpenPlay,2017,LeftFoot,7709,Sassuolo,Atalanta,0,3,2018-01-28 14:00:00,Hans Hateboer,Pass
+189988,85,Goal,0.8130000305175781,0.47,0.06842010468244553,Remo Freuler,a,1488,OpenPlay,2017,LeftFoot,7709,Sassuolo,Atalanta,0,3,2018-01-28 14:00:00,,BallTouch
+189989,93,SavedShot,0.925,0.3,0.07914689183235168,Andrea Petagna,a,1493,OpenPlay,2017,RightFoot,7709,Sassuolo,Atalanta,0,3,2018-01-28 14:00:00,Remo Freuler,TakeOn

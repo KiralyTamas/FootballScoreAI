@@ -1,0 +1,23 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+157961,11,Goal,0.9869999694824219,0.44299999237060544,0.13584227859973907,Mikhail Kostyukov,h,5385,OpenPlay,2017,RightFoot,6595,Amkar,Anzhi Makhachkala,1,2,2017-11-05 11:00:00,Ivan Melnikov,Cross
+157963,20,SavedShot,0.7969999694824219,0.4279999923706055,0.05724503472447395,Janusz Gol,h,2837,OpenPlay,2017,LeftFoot,6595,Amkar,Anzhi Makhachkala,1,2,2017-11-05 11:00:00,Fegor Ogude,TakeOn
+157966,34,BlockedShot,0.8909999847412109,0.6309999847412109,0.08154156804084778,Saeid Ezatolahi,h,2777,SetPiece,2017,RightFoot,6595,Amkar,Anzhi Makhachkala,1,2,2017-11-05 11:00:00,Darko Bodul,Pass
+157967,34,MissedShots,0.885,0.515,0.10521718114614487,Dmitri Belorukov,h,3019,SetPiece,2017,RightFoot,6595,Amkar,Anzhi Makhachkala,1,2,2017-11-05 11:00:00,,Rebound
+157971,59,MissedShots,0.899000015258789,0.63,0.10851877927780151,Fegor Ogude,h,2836,OpenPlay,2017,RightFoot,6595,Amkar,Anzhi Makhachkala,1,2,2017-11-05 11:00:00,Mikhail Kostyukov,TakeOn
+157973,69,MissedShots,0.875999984741211,0.585,0.024444300681352615,Fegor Ogude,h,2836,OpenPlay,2017,Head,6595,Amkar,Anzhi Makhachkala,1,2,2017-11-05 11:00:00,Darko Bodul,Chipped
+157974,74,BlockedShot,0.8690000152587891,0.6519999694824219,0.04780134558677673,Michael Gaschenkov,h,5935,OpenPlay,2017,LeftFoot,6595,Amkar,Anzhi Makhachkala,1,2,2017-11-05 11:00:00,,None
+157975,75,MissedShots,0.9490000152587891,0.4420000076293945,0.11460666358470917,Saeid Ezatolahi,h,2777,FromCorner,2017,Head,6595,Amkar,Anzhi Makhachkala,1,2,2017-11-05 11:00:00,Darko Bodul,Cross
+157976,75,MissedShots,0.9530000305175781,0.585,0.036867931485176086,Mikhail Sivakov,h,5424,FromCorner,2017,Head,6595,Amkar,Anzhi Makhachkala,1,2,2017-11-05 11:00:00,Saeid Ezatolahi,Rebound
+157977,82,SavedShot,0.9580000305175781,0.6609999847412109,0.01648757979273796,Michael Gaschenkov,h,5935,OpenPlay,2017,Head,6595,Amkar,Anzhi Makhachkala,1,2,2017-11-05 11:00:00,Dmitri Belorukov,Chipped
+157979,93,SavedShot,0.7959999847412109,0.285,0.020595578476786613,Saeid Ezatolahi,h,2777,OpenPlay,2017,RightFoot,6595,Amkar,Anzhi Makhachkala,1,2,2017-11-05 11:00:00,Darko Bodul,Pass
+157959,4,BlockedShot,0.8180000305175781,0.3220000076293945,0.03592471778392792,Oleg Danchenko,a,5893,OpenPlay,2017,RightFoot,6595,Amkar,Anzhi Makhachkala,1,2,2017-11-05 11:00:00,Adlan Katsaev,TakeOn
+157960,5,Goal,0.8859999847412109,0.5270000076293946,0.40635043382644653,Ivan Markelov,a,5530,OpenPlay,2017,RightFoot,6595,Amkar,Anzhi Makhachkala,1,2,2017-11-05 11:00:00,,None
+157962,19,SavedShot,0.9440000152587891,0.5420000076293945,0.054862044751644135,Igor Armas,a,2727,FromCorner,2017,Head,6595,Amkar,Anzhi Makhachkala,1,2,2017-11-05 11:00:00,Oleg Danchenko,Foul
+157964,27,Goal,0.8380000305175781,0.5420000076293945,0.29394933581352234,Ivan Markelov,a,5530,OpenPlay,2017,LeftFoot,6595,Amkar,Anzhi Makhachkala,1,2,2017-11-05 11:00:00,Aleksandr Prudnikov,Throughball
+157965,31,SavedShot,0.899000015258789,0.545,0.1097928062081337,Aleksandr Prudnikov,a,2841,OpenPlay,2017,LeftFoot,6595,Amkar,Anzhi Makhachkala,1,2,2017-11-05 11:00:00,Oleg Danchenko,Cross
+157968,45,BlockedShot,0.764000015258789,0.43599998474121093,0.03612925484776497,Aleksandr Prudnikov,a,2841,OpenPlay,2017,RightFoot,6595,Amkar,Anzhi Makhachkala,1,2,2017-11-05 11:00:00,,None
+157969,58,BlockedShot,0.735999984741211,0.27600000381469725,0.034147411584854126,Aleksandr Prudnikov,a,2841,DirectFreekick,2017,RightFoot,6595,Amkar,Anzhi Makhachkala,1,2,2017-11-05 11:00:00,,Standard
+157970,58,MissedShots,0.8290000152587891,0.38799999237060545,0.032901830971241,Ivan Markelov,a,5530,FromCorner,2017,RightFoot,6595,Amkar,Anzhi Makhachkala,1,2,2017-11-05 11:00:00,,None
+157972,60,BlockedShot,0.925,0.45799999237060546,0.12901677191257477,Aleksandr Prudnikov,a,2841,OpenPlay,2017,LeftFoot,6595,Amkar,Anzhi Makhachkala,1,2,2017-11-05 11:00:00,Ivan Markelov,Cross
+157978,86,SavedShot,0.960999984741211,0.639000015258789,0.06183630973100662,Aleksandr Prudnikov,a,2841,OpenPlay,2017,LeftFoot,6595,Amkar,Anzhi Makhachkala,1,2,2017-11-05 11:00:00,Magomed Elmurzaev,Cross
+157980,96,SavedShot,0.8419999694824218,0.6990000152587891,0.04220915585756302,Magomed Elmurzaev,a,5532,OpenPlay,2017,LeftFoot,6595,Amkar,Anzhi Makhachkala,1,2,2017-11-05 11:00:00,Dzhamal Dibirgadzhiev,Pass

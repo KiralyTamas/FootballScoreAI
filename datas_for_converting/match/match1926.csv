@@ -1,0 +1,30 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+62284,14,BlockedShot,0.8859999847412109,0.40700000762939453,0.07128109037876129,Stephan El Shaarawy,h,1252,OpenPlay,2015,RightFoot,1926,Monaco,Lorient,2,3,2015-09-20 19:00:00,Almamy Touré,Cross
+62289,20,Goal,0.9130000305175782,0.48900001525878906,0.09151304513216019,Almamy Touré,h,3431,FromCorner,2015,Head,1926,Monaco,Lorient,2,3,2015-09-20 19:00:00,Thomas Lemar,Cross
+62291,20,SavedShot,0.919000015258789,0.40200000762939453,0.4064072370529175,Rony Lopes,h,3362,OpenPlay,2015,RightFoot,1926,Monaco,Lorient,2,3,2015-09-20 19:00:00,Stephan El Shaarawy,Throughball
+62294,23,SavedShot,0.785,0.6990000152587891,0.06184251606464386,João Moutinho,h,3422,DirectFreekick,2015,RightFoot,1926,Monaco,Lorient,2,3,2015-09-20 19:00:00,,Standard
+62295,23,MissedShots,0.9119999694824219,0.5209999847412109,0.3172758221626282,Thomas Lemar,h,3425,OpenPlay,2015,Head,1926,Monaco,Lorient,2,3,2015-09-20 19:00:00,Fábio Coentrão,Cross
+62301,38,MissedShots,0.43900001525878907,0.88,0.005796768236905336,Stephan El Shaarawy,h,1252,OpenPlay,2015,RightFoot,1926,Monaco,Lorient,2,3,2015-09-20 19:00:00,João Moutinho,BallRecovery
+62303,42,MissedShots,0.885,0.5659999847412109,0.0767621323466301,Guido Carrillo,h,3424,SetPiece,2015,LeftFoot,1926,Monaco,Lorient,2,3,2015-09-20 19:00:00,Stephan El Shaarawy,HeadPass
+62304,46,Goal,0.8,0.395,0.10702726244926453,Thomas Lemar,h,3425,DirectFreekick,2015,LeftFoot,1926,Monaco,Lorient,2,3,2015-09-20 19:00:00,,Standard
+62305,51,SavedShot,0.7919999694824219,0.28899999618530275,0.020438073202967644,Bernardo Silva,h,3635,OpenPlay,2015,LeftFoot,1926,Monaco,Lorient,2,3,2015-09-20 19:00:00,Thomas Lemar,Pass
+62306,51,SavedShot,0.7319999694824219,0.485,0.01611434854567051,Thomas Lemar,h,3425,OpenPlay,2015,LeftFoot,1926,Monaco,Lorient,2,3,2015-09-20 19:00:00,João Moutinho,Pass
+62307,57,MissedShots,0.8219999694824218,0.38,0.04465242475271225,Bernardo Silva,h,3635,OpenPlay,2015,LeftFoot,1926,Monaco,Lorient,2,3,2015-09-20 19:00:00,Fabinho,Pass
+62310,64,MissedShots,0.8930000305175781,0.3820000076293945,0.3542778193950653,Bernardo Silva,h,3635,OpenPlay,2015,RightFoot,1926,Monaco,Lorient,2,3,2015-09-20 19:00:00,,None
+62311,71,BlockedShot,0.8830000305175781,0.6020000076293945,0.05799226462841034,Fábio Coentrão,h,3633,OpenPlay,2015,RightFoot,1926,Monaco,Lorient,2,3,2015-09-20 19:00:00,Ivan Cavaleiro,Cross
+62278,9,BlockedShot,0.715,0.415,0.014491508714854717,Majeed Waris,a,3461,OpenPlay,2015,RightFoot,1926,Monaco,Lorient,2,3,2015-09-20 19:00:00,Benjamin Jeannot,HeadPass
+62279,11,Goal,0.735,0.39599998474121095,0.018850121647119522,Didier Ndong,a,1720,OpenPlay,2015,RightFoot,1926,Monaco,Lorient,2,3,2015-09-20 19:00:00,Romain Philippoteaux,Pass
+62282,13,BlockedShot,0.8480000305175781,0.2720000076293945,0.056581415235996246,Benjamin Jeannot,a,3460,OpenPlay,2015,RightFoot,1926,Monaco,Lorient,2,3,2015-09-20 19:00:00,Majeed Waris,Pass
+62286,17,Goal,0.9469999694824218,0.5070000076293946,0.6611101627349854,Benjamin Jeannot,a,3460,OpenPlay,2015,LeftFoot,1926,Monaco,Lorient,2,3,2015-09-20 19:00:00,Romain Philippoteaux,Pass
+62293,21,MissedShots,0.875,0.52,0.4020595848560333,Benjamin Jeannot,a,3460,OpenPlay,2015,LeftFoot,1926,Monaco,Lorient,2,3,2015-09-20 19:00:00,Rafidine Abdullah,BallTouch
+62297,28,SavedShot,0.8930000305175781,0.28,0.056431978940963745,Majeed Waris,a,3461,OpenPlay,2015,RightFoot,1926,Monaco,Lorient,2,3,2015-09-20 19:00:00,Rafidine Abdullah,Pass
+62299,32,BlockedShot,0.8880000305175781,0.38599998474121094,0.10618291795253754,Majeed Waris,a,3461,OpenPlay,2015,RightFoot,1926,Monaco,Lorient,2,3,2015-09-20 19:00:00,Benjamin Jeannot,Pass
+62302,39,SavedShot,0.8030000305175782,0.35,0.026925627142190933,Benjamin Jeannot,a,3460,SetPiece,2015,RightFoot,1926,Monaco,Lorient,2,3,2015-09-20 19:00:00,Majeed Waris,BallTouch
+62308,58,Goal,0.935,0.5279999923706055,0.41818174719810486,Benjamin Moukandjo,a,3570,OpenPlay,2015,RightFoot,1926,Monaco,Lorient,2,3,2015-09-20 19:00:00,Yann Jouffre,Chipped
+62309,61,MissedShots,0.8630000305175781,0.36200000762939455,0.07987948507070541,Majeed Waris,a,3461,OpenPlay,2015,RightFoot,1926,Monaco,Lorient,2,3,2015-09-20 19:00:00,Benjamin Moukandjo,Pass
+62312,76,MissedShots,0.749000015258789,0.2620000076293945,0.009947464801371098,Francois Bellugou,a,3457,OpenPlay,2015,RightFoot,1926,Monaco,Lorient,2,3,2015-09-20 19:00:00,Lamine Gassama,TakeOn
+62313,83,BlockedShot,0.779000015258789,0.625999984741211,0.039212897419929504,Romain Philippoteaux,a,3463,OpenPlay,2015,RightFoot,1926,Monaco,Lorient,2,3,2015-09-20 19:00:00,Marvin Gakpa,HeadPass
+62314,84,MissedShots,0.9119999694824219,0.40700000762939453,0.04074113443493843,Lamine Koné,a,728,FromCorner,2015,Head,1926,Monaco,Lorient,2,3,2015-09-20 19:00:00,Romain Philippoteaux,Cross
+62315,85,MissedShots,0.8019999694824219,0.625,0.11843965947628021,Lamine Koné,a,728,OpenPlay,2015,LeftFoot,1926,Monaco,Lorient,2,3,2015-09-20 19:00:00,,TakeOn
+62316,89,SavedShot,0.7780000305175782,0.5170000076293946,0.04163995757699013,Didier Ndong,a,1720,OpenPlay,2015,RightFoot,1926,Monaco,Lorient,2,3,2015-09-20 19:00:00,Benjamin Moukandjo,Pass
+62317,90,SavedShot,0.8019999694824219,0.235,0.024507012218236923,Marvin Gakpa,a,3466,OpenPlay,2015,LeftFoot,1926,Monaco,Lorient,2,3,2015-09-20 19:00:00,Didier Ndong,Pass

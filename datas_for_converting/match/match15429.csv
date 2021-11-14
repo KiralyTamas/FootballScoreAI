@@ -1,0 +1,21 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+421804,7,BlockedShot,0.7619999694824219,0.68,0.02132575400173664,Marcus Thuram,h,5992,OpenPlay,2020,RightFoot,15429,Borussia M.Gladbach,VfB Stuttgart,1,2,2021-05-15 13:30:00,Nico Elvedi,Pass
+421805,9,MissedShots,0.9630000305175781,0.33,0.06332655996084213,Alassane Pléa,h,3310,OpenPlay,2020,RightFoot,15429,Borussia M.Gladbach,VfB Stuttgart,1,2,2021-05-15 13:30:00,Jonas Hofmann,Pass
+421806,23,SavedShot,0.8219999694824218,0.3629999923706055,0.04469073936343193,Alassane Pléa,h,3310,OpenPlay,2020,RightFoot,15429,Borussia M.Gladbach,VfB Stuttgart,1,2,2021-05-15 13:30:00,Jonas Hofmann,Chipped
+421807,32,BlockedShot,0.7659999847412109,0.41200000762939454,0.02617464028298855,Lars Stindl,h,208,OpenPlay,2020,RightFoot,15429,Borussia M.Gladbach,VfB Stuttgart,1,2,2021-05-15 13:30:00,,BallTouch
+421810,44,Goal,0.9159999847412109,0.534000015258789,0.11768379807472229,Lars Stindl,h,208,OpenPlay,2020,RightFoot,15429,Borussia M.Gladbach,VfB Stuttgart,1,2,2021-05-15 13:30:00,Christoph Kramer,Chipped
+421811,50,SavedShot,0.8930000305175781,0.5479999923706055,0.07372324913740158,Nico Elvedi,h,212,SetPiece,2020,Head,15429,Borussia M.Gladbach,VfB Stuttgart,1,2,2021-05-15 13:30:00,Jonas Hofmann,Cross
+421816,73,MissedShots,0.85,0.3940000152587891,0.06479160487651825,Valentino Lazaro,h,6352,OpenPlay,2020,RightFoot,15429,Borussia M.Gladbach,VfB Stuttgart,1,2,2021-05-15 13:30:00,Alassane Pléa,HeadPass
+421821,79,SavedShot,0.8219999694824218,0.48200000762939454,0.05967465415596962,Breel Embolo,h,5356,OpenPlay,2020,RightFoot,15429,Borussia M.Gladbach,VfB Stuttgart,1,2,2021-05-15 13:30:00,Stefan Lainer,Pass
+421822,92,MissedShots,0.769000015258789,0.28600000381469726,0.019731830805540085,Stefan Lainer,h,7831,OpenPlay,2020,LeftFoot,15429,Borussia M.Gladbach,VfB Stuttgart,1,2,2021-05-15 13:30:00,Lars Stindl,Pass
+421803,2,SavedShot,0.8959999847412109,0.4909999847412109,0.06538981944322586,Waldemar Anton,a,106,SetPiece,2020,Head,15429,Borussia M.Gladbach,VfB Stuttgart,1,2,2021-05-15 13:30:00,Borna Sosa,Chipped
+421808,38,MissedShots,0.8569999694824219,0.37599998474121094,0.07507935911417007,Erik Thommy,a,2676,OpenPlay,2020,RightFoot,15429,Borussia M.Gladbach,VfB Stuttgart,1,2,2021-05-15 13:30:00,Roberto Massimo,Pass
+421809,41,MissedShots,0.8919999694824219,0.45599998474121095,0.027657829225063324,Sasa Kalajdzic,a,8812,SetPiece,2020,Head,15429,Borussia M.Gladbach,VfB Stuttgart,1,2,2021-05-15 13:30:00,Borna Sosa,Aerial
+421812,55,MissedShots,0.740999984741211,0.6140000152587891,0.020329993218183517,Erik Thommy,a,2676,OpenPlay,2020,RightFoot,15429,Borussia M.Gladbach,VfB Stuttgart,1,2,2021-05-15 13:30:00,Marc-Oliver Kempf,Pass
+421813,66,SavedShot,0.855,0.5429999923706055,0.07631935924291611,Philipp Förster,a,9076,OpenPlay,2020,LeftFoot,15429,Borussia M.Gladbach,VfB Stuttgart,1,2,2021-05-15 13:30:00,Sasa Kalajdzic,Pass
+421814,71,Goal,0.7709999847412109,0.4490000152587891,0.03142780065536499,Wataru Endo,a,8808,OpenPlay,2020,RightFoot,15429,Borussia M.Gladbach,VfB Stuttgart,1,2,2021-05-15 13:30:00,Philipp Förster,Pass
+421815,72,SavedShot,0.915,0.3320000076293945,0.06952795386314392,Roberto Massimo,a,8806,OpenPlay,2020,RightFoot,15429,Borussia M.Gladbach,VfB Stuttgart,1,2,2021-05-15 13:30:00,Sasa Kalajdzic,BallTouch
+421817,75,SavedShot,0.8380000305175781,0.6359999847412109,0.05561024323105812,Philipp Förster,a,9076,OpenPlay,2020,LeftFoot,15429,Borussia M.Gladbach,VfB Stuttgart,1,2,2021-05-15 13:30:00,Sasa Kalajdzic,TakeOn
+421818,76,BlockedShot,0.7659999847412109,0.6320000076293946,0.02048860490322113,Marc-Oliver Kempf,a,4291,OpenPlay,2020,LeftFoot,15429,Borussia M.Gladbach,VfB Stuttgart,1,2,2021-05-15 13:30:00,Wataru Endo,Pass
+421819,76,BlockedShot,0.755,0.3920000076293945,0.009690439328551292,Pascal Stenzel,a,326,FromCorner,2020,LeftFoot,15429,Borussia M.Gladbach,VfB Stuttgart,1,2,2021-05-15 13:30:00,Gonzalo Castro,Chipped
+421820,77,Goal,0.875999984741211,0.48200000762939454,0.08067801594734192,Sasa Kalajdzic,a,8812,FromCorner,2020,RightFoot,15429,Borussia M.Gladbach,VfB Stuttgart,1,2,2021-05-15 13:30:00,Pascal Stenzel,None

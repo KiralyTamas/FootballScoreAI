@@ -1,0 +1,32 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+113023,2,MissedShots,0.8090000152587891,0.45599998474121095,0.05501292273402214,Sergio Agüero,h,619,OpenPlay,2016,LeftFoot,490,Manchester City,West Ham,3,1,2016-08-28 19:00:00,,TakeOn
+113024,4,MissedShots,0.7619999694824219,0.35900001525878905,0.023627163842320442,David Silva,h,617,OpenPlay,2016,LeftFoot,490,Manchester City,West Ham,3,1,2016-08-28 19:00:00,Fernandinho,Pass
+113025,5,BlockedShot,0.835,0.34900001525878904,0.050398088991642,Raheem Sterling,h,618,OpenPlay,2016,RightFoot,490,Manchester City,West Ham,3,1,2016-08-28 19:00:00,Nolito,Pass
+113026,6,Goal,0.915,0.515,0.5083425045013428,Raheem Sterling,h,618,OpenPlay,2016,RightFoot,490,Manchester City,West Ham,3,1,2016-08-28 19:00:00,Nolito,Pass
+113030,16,BlockedShot,0.8909999847412109,0.7230000305175781,0.08224500715732574,Nolito,h,1732,OpenPlay,2016,RightFoot,490,Manchester City,West Ham,3,1,2016-08-28 19:00:00,David Silva,TakeOn
+113031,16,BlockedShot,0.8430000305175781,0.73,0.03598645329475403,David Silva,h,617,OpenPlay,2016,LeftFoot,490,Manchester City,West Ham,3,1,2016-08-28 19:00:00,Nolito,Pass
+113032,17,Goal,0.92,0.53,0.32928746938705444,Fernandinho,h,614,SetPiece,2016,Head,490,Manchester City,West Ham,3,1,2016-08-28 19:00:00,Kevin De Bruyne,Cross
+113033,21,MissedShots,0.95,0.48700000762939455,0.1384541094303131,Sergio Agüero,h,619,SetPiece,2016,Head,490,Manchester City,West Ham,3,1,2016-08-28 19:00:00,Kevin De Bruyne,Cross
+113034,25,MissedShots,0.815,0.7480000305175781,0.05937909334897995,Kevin De Bruyne,h,447,DirectFreekick,2016,RightFoot,490,Manchester City,West Ham,3,1,2016-08-28 19:00:00,,Standard
+113037,32,BlockedShot,0.8930000305175781,0.5279999923706055,0.1423928141593933,Kevin De Bruyne,h,447,OpenPlay,2016,RightFoot,490,Manchester City,West Ham,3,1,2016-08-28 19:00:00,David Silva,Pass
+113038,51,MissedShots,0.8130000305175781,0.73,0.010735468938946724,Nolito,h,1732,SetPiece,2016,RightFoot,490,Manchester City,West Ham,3,1,2016-08-28 19:00:00,,Aerial
+113039,53,MissedShots,0.8669999694824219,0.6430000305175781,0.1262136846780777,Sergio Agüero,h,619,OpenPlay,2016,RightFoot,490,Manchester City,West Ham,3,1,2016-08-28 19:00:00,Raheem Sterling,TakeOn
+113042,65,MissedShots,0.914000015258789,0.675,0.08563433587551117,Sergio Agüero,h,619,OpenPlay,2016,LeftFoot,490,Manchester City,West Ham,3,1,2016-08-28 19:00:00,Kevin De Bruyne,Pass
+113043,72,BlockedShot,0.8130000305175781,0.29399999618530276,0.030862193554639816,David Silva,h,617,OpenPlay,2016,LeftFoot,490,Manchester City,West Ham,3,1,2016-08-28 19:00:00,Raheem Sterling,Pass
+113044,78,BlockedShot,0.855,0.5070000076293946,0.11367484927177429,Sergio Agüero,h,619,OpenPlay,2016,LeftFoot,490,Manchester City,West Ham,3,1,2016-08-28 19:00:00,Fernandinho,Pass
+113045,83,SavedShot,0.8819999694824219,0.41200000762939454,0.3626576364040375,Samir Nasri,h,877,OpenPlay,2016,RightFoot,490,Manchester City,West Ham,3,1,2016-08-28 19:00:00,Sergio Agüero,Throughball
+113046,83,BlockedShot,0.9680000305175781,0.34,0.06780330091714859,Samir Nasri,h,877,OpenPlay,2016,RightFoot,490,Manchester City,West Ham,3,1,2016-08-28 19:00:00,,Rebound
+113047,84,SavedShot,0.9569999694824218,0.43099998474121093,0.5664504766464233,David Silva,h,617,OpenPlay,2016,LeftFoot,490,Manchester City,West Ham,3,1,2016-08-28 19:00:00,Kevin De Bruyne,Pass
+113048,88,MissedShots,0.925,0.6990000152587891,0.07331367582082748,Raheem Sterling,h,618,OpenPlay,2016,RightFoot,490,Manchester City,West Ham,3,1,2016-08-28 19:00:00,David Silva,Pass
+113049,88,MissedShots,0.8680000305175781,0.61,0.10553207248449326,Samir Nasri,h,877,OpenPlay,2016,LeftFoot,490,Manchester City,West Ham,3,1,2016-08-28 19:00:00,David Silva,Pass
+113050,91,ShotOnPost,0.9009999847412109,0.6419999694824219,0.10747966915369034,David Silva,h,617,OpenPlay,2016,LeftFoot,490,Manchester City,West Ham,3,1,2016-08-28 19:00:00,Samir Nasri,Pass
+113051,91,Goal,0.9819999694824219,0.6659999847412109,0.16534554958343506,Raheem Sterling,h,618,OpenPlay,2016,RightFoot,490,Manchester City,West Ham,3,1,2016-08-28 19:00:00,David Silva,TakeOn
+113027,7,BlockedShot,0.865,0.6969999694824218,0.040306031703948975,Enner Valencia,a,539,OpenPlay,2016,RightFoot,490,Manchester City,West Ham,3,1,2016-08-28 19:00:00,Angelo Ogbonna,Chipped
+113028,10,MissedShots,0.935,0.674000015258789,0.051611702889204025,Ashley Fletcher,a,1675,OpenPlay,2016,LeftFoot,490,Manchester City,West Ham,3,1,2016-08-28 19:00:00,Mark Noble,Chipped
+113029,12,MissedShots,0.7559999847412109,0.28100000381469725,0.01347106322646141,Mark Noble,a,533,FromCorner,2016,RightFoot,490,Manchester City,West Ham,3,1,2016-08-28 19:00:00,,None
+113035,29,MissedShots,0.9319999694824219,0.5270000076293946,0.14422085881233215,Ashley Fletcher,a,1675,OpenPlay,2016,Head,490,Manchester City,West Ham,3,1,2016-08-28 19:00:00,Gökhan Töre,Cross
+113036,31,BlockedShot,0.9330000305175781,0.48700000762939455,0.12166398763656616,James Collins,a,655,FromCorner,2016,Head,490,Manchester City,West Ham,3,1,2016-08-28 19:00:00,Gökhan Töre,Cross
+113040,54,SavedShot,0.870999984741211,0.27899999618530275,0.08811068534851074,Enner Valencia,a,539,OpenPlay,2016,RightFoot,490,Manchester City,West Ham,3,1,2016-08-28 19:00:00,Sam Byram,Throughball
+113041,57,Goal,0.9590000152587891,0.46099998474121096,0.5659166574478149,Michail Antonio,a,531,OpenPlay,2016,Head,490,Manchester City,West Ham,3,1,2016-08-28 19:00:00,Arthur Masuaku,Cross
+113052,92,MissedShots,0.7609999847412109,0.624000015258789,0.013797808438539505,Ashley Fletcher,a,1675,OpenPlay,2016,RightFoot,490,Manchester City,West Ham,3,1,2016-08-28 19:00:00,,None
+113053,93,MissedShots,0.870999984741211,0.715,0.04474756866693497,Mark Noble,a,533,OpenPlay,2016,RightFoot,490,Manchester City,West Ham,3,1,2016-08-28 19:00:00,Manuel Lanzini,Pass

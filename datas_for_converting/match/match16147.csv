@@ -1,0 +1,32 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+424936,14,MissedShots,0.8209999847412109,0.5459999847412109,0.05269670486450195,Ivan Oblyakov,h,5442,OpenPlay,2021,LeftFoot,16147,CSKA Moscow,Lokomotiv Moscow,1,2,2021-07-31 17:00:00,,None
+424938,16,BlockedShot,0.8680000305175781,0.3,0.033979326486587524,Ilzat Akhmetov,h,2978,SetPiece,2021,RightFoot,16147,CSKA Moscow,Lokomotiv Moscow,1,2,2021-07-31 17:00:00,,None
+424939,17,Goal,0.695,0.3240000152587891,0.029158931225538254,Kristijan Bistrovic,h,6585,DirectFreekick,2021,RightFoot,16147,CSKA Moscow,Lokomotiv Moscow,1,2,2021-07-31 17:00:00,,Standard
+424942,30,SavedShot,0.774000015258789,0.63,0.02241239883005619,Ivan Oblyakov,h,5442,OpenPlay,2021,LeftFoot,16147,CSKA Moscow,Lokomotiv Moscow,1,2,2021-07-31 17:00:00,Ilzat Akhmetov,Pass
+424944,44,MissedShots,0.92,0.4259999847412109,0.05698952451348305,Anton Zabolotny,h,5899,FromCorner,2021,Head,16147,CSKA Moscow,Lokomotiv Moscow,1,2,2021-07-31 17:00:00,Ivan Oblyakov,Cross
+424946,47,MissedShots,0.905,0.43200000762939456,0.04306548461318016,Anton Zabolotny,h,5899,FromCorner,2021,Head,16147,CSKA Moscow,Lokomotiv Moscow,1,2,2021-07-31 17:00:00,Ivan Oblyakov,Cross
+424948,54,MissedShots,0.9319999694824219,0.37599998474121094,0.026872994378209114,Fedor Chalov,h,5454,OpenPlay,2021,Head,16147,CSKA Moscow,Lokomotiv Moscow,1,2,2021-07-31 17:00:00,Ivan Oblyakov,Cross
+424956,69,BlockedShot,0.775,0.5659999847412109,0.02718173712491989,Chidera Ejuke,h,8694,OpenPlay,2021,RightFoot,16147,CSKA Moscow,Lokomotiv Moscow,1,2,2021-07-31 17:00:00,Emil Bohinen,TakeOn
+424957,69,MissedShots,0.8580000305175781,0.5129999923706055,0.0768338218331337,Fedor Chalov,h,5454,OpenPlay,2021,RightFoot,16147,CSKA Moscow,Lokomotiv Moscow,1,2,2021-07-31 17:00:00,Chidera Ejuke,Pass
+424958,74,SavedShot,0.905,0.34,0.06679784506559372,Mario Fernandes,h,2896,OpenPlay,2021,RightFoot,16147,CSKA Moscow,Lokomotiv Moscow,1,2,2021-07-31 17:00:00,Nikola Vlasic,Pass
+424959,78,BlockedShot,0.795,0.4640000152587891,0.04153726249933243,Nikola Vlasic,h,6276,OpenPlay,2021,LeftFoot,16147,CSKA Moscow,Lokomotiv Moscow,1,2,2021-07-31 17:00:00,Fedor Chalov,Pass
+424960,78,BlockedShot,0.9380000305175781,0.6459999847412109,0.04708626866340637,Alan Dzagoev,h,2881,OpenPlay,2021,LeftFoot,16147,CSKA Moscow,Lokomotiv Moscow,1,2,2021-07-31 17:00:00,,TakeOn
+424961,83,MissedShots,0.8469999694824218,0.6519999694824219,0.05391903221607208,Chidera Ejuke,h,8694,OpenPlay,2021,RightFoot,16147,CSKA Moscow,Lokomotiv Moscow,1,2,2021-07-31 17:00:00,Emil Bohinen,Pass
+424962,86,MissedShots,0.745999984741211,0.6409999847412109,0.01699562557041645,Chidera Ejuke,h,8694,OpenPlay,2021,RightFoot,16147,CSKA Moscow,Lokomotiv Moscow,1,2,2021-07-31 17:00:00,Ivan Oblyakov,Pass
+424963,87,MissedShots,0.8640000152587891,0.525,0.02787639945745468,Jaka Bijol,h,6807,OpenPlay,2021,Head,16147,CSKA Moscow,Lokomotiv Moscow,1,2,2021-07-31 17:00:00,Konstantin Kuchaev,Chipped
+424964,94,SavedShot,0.8469999694824218,0.3,0.021230293437838554,Emil Bohinen,h,9425,OpenPlay,2021,LeftFoot,16147,CSKA Moscow,Lokomotiv Moscow,1,2,2021-07-31 17:00:00,Nikola Vlasic,HeadPass
+424934,2,MissedShots,0.8919999694824219,0.5520000076293945,0.038944512605667114,Murilo Cerqueira,a,7650,FromCorner,2021,LeftFoot,16147,CSKA Moscow,Lokomotiv Moscow,1,2,2021-07-31 17:00:00,,Aerial
+424935,12,MissedShots,0.9209999847412109,0.455,0.033832747489213943,Stanislav Magkeev,a,7592,FromCorner,2021,Head,16147,CSKA Moscow,Lokomotiv Moscow,1,2,2021-07-31 17:00:00,Daniil Kulikov,Aerial
+424937,15,SavedShot,0.7219999694824218,0.5209999847412109,0.019808994606137276,Fedor Smolov,a,2925,OpenPlay,2021,RightFoot,16147,CSKA Moscow,Lokomotiv Moscow,1,2,2021-07-31 17:00:00,Murilo Cerqueira,Pass
+424940,21,MissedShots,0.914000015258789,0.43,0.05238160118460655,Murilo Cerqueira,a,7650,FromCorner,2021,Head,16147,CSKA Moscow,Lokomotiv Moscow,1,2,2021-07-31 17:00:00,Daniil Kulikov,Cross
+424941,21,Goal,0.9469999694824218,0.5259999847412109,0.5775615572929382,Fedor Smolov,a,2925,FromCorner,2021,RightFoot,16147,CSKA Moscow,Lokomotiv Moscow,1,2,2021-07-31 17:00:00,Murilo Cerqueira,Rebound
+424943,40,MissedShots,0.7230000305175781,0.4179999923706055,0.018086222931742668,Stanislav Magkeev,a,7592,FromCorner,2021,RightFoot,16147,CSKA Moscow,Lokomotiv Moscow,1,2,2021-07-31 17:00:00,,TakeOn
+424945,46,ShotOnPost,0.89,0.28899999618530275,0.04429393634200096,Francois Kamano,a,3333,OpenPlay,2021,RightFoot,16147,CSKA Moscow,Lokomotiv Moscow,1,2,2021-07-31 17:00:00,Rifat Zhemaletdinov,Pass
+424947,49,MissedShots,0.93,0.455,0.04324714466929436,Murilo Cerqueira,a,7650,FromCorner,2021,Head,16147,CSKA Moscow,Lokomotiv Moscow,1,2,2021-07-31 17:00:00,Daniil Kulikov,Aerial
+424949,55,BlockedShot,0.860999984741211,0.6020000076293945,0.08584264665842056,Francois Kamano,a,3333,OpenPlay,2021,RightFoot,16147,CSKA Moscow,Lokomotiv Moscow,1,2,2021-07-31 17:00:00,Dmitri Rybchinsky,Pass
+424950,55,SavedShot,0.950999984741211,0.33,0.08167041838169098,Aleksandr Silyanov,a,8587,OpenPlay,2021,RightFoot,16147,CSKA Moscow,Lokomotiv Moscow,1,2,2021-07-31 17:00:00,Rifat Zhemaletdinov,Pass
+424951,58,Goal,0.85,0.625999984741211,0.07134871929883957,Rifat Zhemaletdinov,a,2712,OpenPlay,2021,RightFoot,16147,CSKA Moscow,Lokomotiv Moscow,1,2,2021-07-31 17:00:00,Daniil Kulikov,Pass
+424952,61,BlockedShot,0.8680000305175781,0.2989999961853027,0.05973908305168152,Dmitri Rybchinsky,a,7452,OpenPlay,2021,LeftFoot,16147,CSKA Moscow,Lokomotiv Moscow,1,2,2021-07-31 17:00:00,Fedor Smolov,Pass
+424953,64,BlockedShot,0.8030000305175782,0.29600000381469727,0.03723345696926117,Dmitri Rybchinsky,a,7452,OpenPlay,2021,RightFoot,16147,CSKA Moscow,Lokomotiv Moscow,1,2,2021-07-31 17:00:00,Fedor Smolov,BallRecovery
+424954,65,BlockedShot,0.7290000152587891,0.6930000305175781,0.012656565755605698,Francois Kamano,a,3333,FromCorner,2021,RightFoot,16147,CSKA Moscow,Lokomotiv Moscow,1,2,2021-07-31 17:00:00,,Aerial
+424955,66,MissedShots,0.9330000305175781,0.6409999847412109,0.27505651116371155,Rifat Zhemaletdinov,a,2712,OpenPlay,2021,LeftFoot,16147,CSKA Moscow,Lokomotiv Moscow,1,2,2021-07-31 17:00:00,,TakeOn

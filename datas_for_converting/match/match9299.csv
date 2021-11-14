@@ -1,0 +1,27 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+249804,7,MissedShots,0.740999984741211,0.580999984741211,0.02140028029680252,Kenedy,h,689,OpenPlay,2018,LeftFoot,9299,Newcastle United,Watford,1,0,2018-11-03 15:00:00,Paul Dummett,TakeOn
+249809,19,SavedShot,0.8490000152587891,0.25799999237060545,0.02668154425919056,Mohamed Diamé,h,4471,OpenPlay,2018,RightFoot,9299,Newcastle United,Watford,1,0,2018-11-03 15:00:00,Matt Ritchie,Pass
+249811,25,BlockedShot,0.87,0.36700000762939455,0.06788364052772522,Kenedy,h,689,OpenPlay,2018,RightFoot,9299,Newcastle United,Watford,1,0,2018-11-03 15:00:00,,BallRecovery
+249812,26,BlockedShot,0.7830000305175782,0.649000015258789,0.022392697632312775,Kenedy,h,689,FromCorner,2018,LeftFoot,9299,Newcastle United,Watford,1,0,2018-11-03 15:00:00,,TakeOn
+249815,38,MissedShots,0.749000015258789,0.5970000076293945,0.05767754837870598,Jonjo Shelvey,h,769,DirectFreekick,2018,RightFoot,9299,Newcastle United,Watford,1,0,2018-11-03 15:00:00,,Standard
+249820,46,BlockedShot,0.754000015258789,0.634000015258789,0.017432739958167076,Kenedy,h,689,FromCorner,2018,RightFoot,9299,Newcastle United,Watford,1,0,2018-11-03 15:00:00,,BallTouch
+249822,52,MissedShots,0.765,0.5820000076293945,0.0182946864515543,Kenedy,h,689,FromCorner,2018,LeftFoot,9299,Newcastle United,Watford,1,0,2018-11-03 15:00:00,,None
+249824,64,BlockedShot,0.7930000305175782,0.7880000305175782,0.04194881021976471,Ki Sung-yueng,h,723,DirectFreekick,2018,RightFoot,9299,Newcastle United,Watford,1,0,2018-11-03 15:00:00,,Standard
+249825,64,Goal,0.9319999694824219,0.5729999923706055,0.314159095287323,Ayoze Pérez,h,770,SetPiece,2018,Head,9299,Newcastle United,Watford,1,0,2018-11-03 15:00:00,Ki Sung-yueng,Rebound
+249826,68,MissedShots,0.9169999694824219,0.43900001525878907,0.11688235402107239,Salomón Rondón,h,813,OpenPlay,2018,Head,9299,Newcastle United,Watford,1,0,2018-11-03 15:00:00,Kenedy,Cross
+249802,2,BlockedShot,0.855,0.595999984741211,0.09662983566522598,Gerard Deulofeu,a,591,OpenPlay,2018,LeftFoot,9299,Newcastle United,Watford,1,0,2018-11-03 15:00:00,,TakeOn
+249803,4,MissedShots,0.8780000305175781,0.5029999923706054,0.016567016020417213,Etienne Capoue,a,572,SetPiece,2018,Head,9299,Newcastle United,Watford,1,0,2018-11-03 15:00:00,José Holebas,Aerial
+249805,11,BlockedShot,0.74,0.4879999923706055,0.021739399060606956,Isaac Success,a,1724,OpenPlay,2018,RightFoot,9299,Newcastle United,Watford,1,0,2018-11-03 15:00:00,Gerard Deulofeu,Pass
+249806,14,BlockedShot,0.914000015258789,0.5729999923706055,0.2173408716917038,Adrian Mariappa,a,524,FromCorner,2018,Head,9299,Newcastle United,Watford,1,0,2018-11-03 15:00:00,José Holebas,Cross
+249807,14,BlockedShot,0.875,0.4909999847412109,0.08116072416305542,Will Hughes,a,6104,FromCorner,2018,LeftFoot,9299,Newcastle United,Watford,1,0,2018-11-03 15:00:00,,None
+249808,14,MissedShots,0.9359999847412109,0.5770000076293945,0.4264467656612396,Adrian Mariappa,a,524,FromCorner,2018,RightFoot,9299,Newcastle United,Watford,1,0,2018-11-03 15:00:00,Etienne Capoue,Rebound
+249810,23,MissedShots,0.9130000305175782,0.5970000076293945,0.38966238498687744,Gerard Deulofeu,a,591,OpenPlay,2018,RightFoot,9299,Newcastle United,Watford,1,0,2018-11-03 15:00:00,José Holebas,Pass
+249813,26,MissedShots,0.8690000152587891,0.3629999923706055,0.291748970746994,Gerard Deulofeu,a,591,OpenPlay,2018,RightFoot,9299,Newcastle United,Watford,1,0,2018-11-03 15:00:00,Isaac Success,Pass
+249814,34,MissedShots,0.750999984741211,0.40700000762939453,0.059454869478940964,Etienne Capoue,a,572,DirectFreekick,2018,RightFoot,9299,Newcastle United,Watford,1,0,2018-11-03 15:00:00,,Standard
+249816,41,MissedShots,0.9,0.69,0.045091427862644196,Gerard Deulofeu,a,591,OpenPlay,2018,LeftFoot,9299,Newcastle United,Watford,1,0,2018-11-03 15:00:00,Isaac Success,Chipped
+249817,42,BlockedShot,0.92,0.664000015258789,0.08315984904766083,Isaac Success,a,1724,OpenPlay,2018,LeftFoot,9299,Newcastle United,Watford,1,0,2018-11-03 15:00:00,Roberto Pereyra,Pass
+249818,44,SavedShot,0.8809999847412109,0.669000015258789,0.1206762045621872,Isaac Success,a,1724,OpenPlay,2018,LeftFoot,9299,Newcastle United,Watford,1,0,2018-11-03 15:00:00,Gerard Deulofeu,Throughball
+249819,45,MissedShots,0.8419999694824218,0.5029999923706054,0.04697214439511299,Craig Cathcart,a,581,FromCorner,2018,RightFoot,9299,Newcastle United,Watford,1,0,2018-11-03 15:00:00,,End
+249821,48,ShotOnPost,0.8780000305175781,0.5279999923706055,0.11399181932210922,Roberto Pereyra,a,1723,OpenPlay,2018,RightFoot,9299,Newcastle United,Watford,1,0,2018-11-03 15:00:00,Isaac Success,Pass
+249823,53,MissedShots,0.9359999847412109,0.5059999847412109,0.06655620038509369,Craig Cathcart,a,581,FromCorner,2018,Head,9299,Newcastle United,Watford,1,0,2018-11-03 15:00:00,José Holebas,Aerial
+249827,92,MissedShots,0.9219999694824219,0.5209999847412109,0.5026096105575562,Stefano Okaka,a,1763,OpenPlay,2018,RightFoot,9299,Newcastle United,Watford,1,0,2018-11-03 15:00:00,Abdoulaye Doucouré,Pass

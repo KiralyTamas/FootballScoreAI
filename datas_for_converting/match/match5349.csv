@@ -1,0 +1,22 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+26582,1,MissedShots,0.8030000305175782,0.5920000076293945,0.028747618198394775,Leonardo Bittencourt,h,262,FromCorner,2014,RightFoot,5349,Hannover 96,Eintracht Frankfurt,1,0,2014-11-01 14:30:00,,None
+26583,10,BlockedShot,0.92,0.6419999694824219,0.09581505507230759,Joselu,h,866,OpenPlay,2014,RightFoot,5349,Hannover 96,Eintracht Frankfurt,1,0,2014-11-01 14:30:00,Edgar Prib,Pass
+26584,15,BlockedShot,0.7709999847412109,0.22299999237060547,0.010103837586939335,Hiroshi Kiyotake,h,396,OpenPlay,2014,RightFoot,5349,Hannover 96,Eintracht Frankfurt,1,0,2014-11-01 14:30:00,,None
+26585,19,BlockedShot,0.7930000305175782,0.18799999237060547,0.010432424955070019,Manuel Schmiedebach,h,108,OpenPlay,2014,RightFoot,5349,Hannover 96,Eintracht Frankfurt,1,0,2014-11-01 14:30:00,,None
+26587,40,MissedShots,0.7959999847412109,0.6409999847412109,0.029237085953354836,Leonardo Bittencourt,h,262,FromCorner,2014,LeftFoot,5349,Hannover 96,Eintracht Frankfurt,1,0,2014-11-01 14:30:00,Hiroshi Kiyotake,Cross
+26588,48,SavedShot,0.875,0.34,0.31659942865371704,Hiroshi Kiyotake,h,396,OpenPlay,2014,RightFoot,5349,Hannover 96,Eintracht Frankfurt,1,0,2014-11-01 14:30:00,Manuel Schmiedebach,Throughball
+26589,55,SavedShot,0.8959999847412109,0.37599998474121094,0.34383413195610046,Joselu,h,866,OpenPlay,2014,RightFoot,5349,Hannover 96,Eintracht Frankfurt,1,0,2014-11-01 14:30:00,Hiroki Sakai,Pass
+26590,59,SavedShot,0.9230000305175782,0.6079999923706054,0.01643979735672474,Jimmy Briand,h,3477,SetPiece,2014,Head,5349,Hannover 96,Eintracht Frankfurt,1,0,2014-11-01 14:30:00,Hiroshi Kiyotake,Aerial
+26592,65,BlockedShot,0.769000015258789,0.4520000076293945,0.015208076685667038,Maurice Hirsch,h,389,FromCorner,2014,RightFoot,5349,Hannover 96,Eintracht Frankfurt,1,0,2014-11-01 14:30:00,,Aerial
+26594,70,MissedShots,0.86,0.27399999618530274,0.03262397274374962,Leonardo Bittencourt,h,262,OpenPlay,2014,LeftFoot,5349,Hannover 96,Eintracht Frankfurt,1,0,2014-11-01 14:30:00,Hiroki Sakai,Chipped
+26595,73,MissedShots,0.8319999694824218,0.4370000076293945,0.05839696526527405,Jimmy Briand,h,3477,OpenPlay,2014,RightFoot,5349,Hannover 96,Eintracht Frankfurt,1,0,2014-11-01 14:30:00,,None
+26597,75,MissedShots,0.9330000305175781,0.5179999923706055,0.11079759150743484,Jimmy Briand,h,3477,OpenPlay,2014,Head,5349,Hannover 96,Eintracht Frankfurt,1,0,2014-11-01 14:30:00,Joselu,Pass
+26598,79,MissedShots,0.850999984741211,0.4879999923706055,0.03588259592652321,Marcelo,h,93,SetPiece,2014,Head,5349,Hannover 96,Eintracht Frankfurt,1,0,2014-11-01 14:30:00,Hiroshi Kiyotake,Chipped
+26601,87,MissedShots,0.865999984741211,0.39799999237060546,0.0131278270855546,Marcelo,h,93,OpenPlay,2014,Head,5349,Hannover 96,Eintracht Frankfurt,1,0,2014-11-01 14:30:00,Hiroshi Kiyotake,Aerial
+26586,26,SavedShot,0.705999984741211,0.865,0.023344583809375763,Sonny Kittel,a,2649,DirectFreekick,2014,RightFoot,5349,Hannover 96,Eintracht Frankfurt,1,0,2014-11-01 14:30:00,,Standard
+26591,62,SavedShot,0.775,0.225,0.012484629638493061,Stefan Aigner,a,288,OpenPlay,2014,RightFoot,5349,Hannover 96,Eintracht Frankfurt,1,0,2014-11-01 14:30:00,Marc Stendera,Chipped
+26593,69,SavedShot,0.919000015258789,0.325,0.07288272678852081,Sonny Kittel,a,2649,OpenPlay,2014,RightFoot,5349,Hannover 96,Eintracht Frankfurt,1,0,2014-11-01 14:30:00,Marc Stendera,Pass
+26596,74,BlockedShot,0.9530000305175781,0.6580000305175782,0.05816016346216202,Alexander Meier,a,356,OpenPlay,2014,LeftFoot,5349,Hannover 96,Eintracht Frankfurt,1,0,2014-11-01 14:30:00,Stefan Aigner,Chipped
+26599,80,SavedShot,0.879000015258789,0.6179999923706054,0.09007558226585388,Vaclav Kadlec,a,292,OpenPlay,2014,RightFoot,5349,Hannover 96,Eintracht Frankfurt,1,0,2014-11-01 14:30:00,Marc Stendera,Pass
+26600,81,MissedShots,0.8590000152587891,0.45099998474121095,0.09618054330348969,Alexander Meier,a,356,OpenPlay,2014,RightFoot,5349,Hannover 96,Eintracht Frankfurt,1,0,2014-11-01 14:30:00,Stefan Aigner,Pass
+26602,87,OwnGoal,0.04699999809265137,0.47200000762939454,0,Alexander Madlung,a,4273,SetPiece,2014,RightFoot,5349,Hannover 96,Eintracht Frankfurt,1,0,2014-11-01 14:30:00,,Aerial

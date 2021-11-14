@@ -1,0 +1,15 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+407372,30,BlockedShot,0.71,0.7469999694824219,0.013958468101918697,Alberto Perea,h,8849,SetPiece,2020,RightFoot,15022,Cadiz,Real Betis,0,1,2021-02-28 15:15:00,Alfonso Espino,TakeOn
+407374,38,SavedShot,0.794000015258789,0.4420000076293945,0.03876382112503052,Salvi Sánchez,h,8735,OpenPlay,2020,LeftFoot,15022,Cadiz,Real Betis,0,1,2021-02-28 15:15:00,,None
+407376,44,SavedShot,0.88,0.47,0.08107363432645798,Rubén Sobrino,h,5047,OpenPlay,2020,RightFoot,15022,Cadiz,Real Betis,0,1,2021-02-28 15:15:00,Álvaro Negredo,HeadPass
+407378,56,SavedShot,0.884000015258789,0.715,0.04153849557042122,Alberto Perea,h,8849,OpenPlay,2020,RightFoot,15022,Cadiz,Real Betis,0,1,2021-02-28 15:15:00,Rubén Sobrino,Pass
+407380,73,MissedShots,0.815,0.47,0.052637118846178055,Salvi Sánchez,h,8735,OpenPlay,2020,RightFoot,15022,Cadiz,Real Betis,0,1,2021-02-28 15:15:00,,None
+407368,4,SavedShot,0.8030000305175782,0.24700000762939453,0.0182749442756176,Guido Rodríguez,a,8267,OpenPlay,2020,RightFoot,15022,Cadiz,Real Betis,0,1,2021-02-28 15:15:00,,Interception
+407369,17,SavedShot,0.745,0.6969999694824218,0.0173034705221653,Víctor Ruiz,a,2298,OpenPlay,2020,LeftFoot,15022,Cadiz,Real Betis,0,1,2021-02-28 15:15:00,Andrés Guardado,Pass
+407370,22,MissedShots,0.779000015258789,0.67,0.018479468300938606,Juan Miranda,a,7286,OpenPlay,2020,RightFoot,15022,Cadiz,Real Betis,0,1,2021-02-28 15:15:00,,None
+407371,24,BlockedShot,0.8159999847412109,0.3290000152587891,0.02889369986951351,Diego Lainez,a,7354,OpenPlay,2020,LeftFoot,15022,Cadiz,Real Betis,0,1,2021-02-28 15:15:00,Loren Morón,Pass
+407373,37,BlockedShot,0.7219999694824218,0.51,0.021751923486590385,Aitor Ruibal,a,6427,OpenPlay,2020,RightFoot,15022,Cadiz,Real Betis,0,1,2021-02-28 15:15:00,Víctor Ruiz,Pass
+407375,42,MissedShots,0.8130000305175781,0.5840000152587891,0.04862528666853905,Sergio Canales,a,2571,OpenPlay,2020,LeftFoot,15022,Cadiz,Real Betis,0,1,2021-02-28 15:15:00,Aitor Ruibal,Pass
+407377,52,MissedShots,0.7019999694824218,0.6029999923706054,0.018295735120773315,Loren Morón,a,6528,OpenPlay,2020,RightFoot,15022,Cadiz,Real Betis,0,1,2021-02-28 15:15:00,Andrés Guardado,Pass
+407379,67,SavedShot,0.73,0.5129999923706055,0.017747078090906143,Andrés Guardado,a,6164,OpenPlay,2020,LeftFoot,15022,Cadiz,Real Betis,0,1,2021-02-28 15:15:00,,BallRecovery
+407381,83,Goal,0.9309999847412109,0.4979999923706055,0.40679284930229187,Juanmi,a,897,SetPiece,2020,Head,15022,Cadiz,Real Betis,0,1,2021-02-28 15:15:00,Emerson,Aerial

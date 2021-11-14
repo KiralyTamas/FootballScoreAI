@@ -1,0 +1,26 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+425770,6,BlockedShot,0.7219999694824218,0.6719999694824219,0.01282811351120472,Jacob Laursen,h,8795,FromCorner,2021,LeftFoot,17517,Arminia Bielefeld,Freiburg,0,0,2021-08-14 13:30:00,,None
+425771,7,MissedShots,0.82,0.42700000762939455,0.027290215715765953,Fabian Klos,h,8792,SetPiece,2021,RightFoot,17517,Arminia Bielefeld,Freiburg,0,0,2021-08-14 13:30:00,Stefan Ortega Moreno,Pass
+425774,25,MissedShots,0.78,0.2570000076293945,0.01291948463767767,Bryan Lasme,h,9727,OpenPlay,2021,RightFoot,17517,Arminia Bielefeld,Freiburg,0,0,2021-08-14 13:30:00,Fabian Klos,HeadPass
+425777,34,BlockedShot,0.899000015258789,0.40400001525878904,0.02227037027478218,Fabian Klos,h,8792,OpenPlay,2021,Head,17517,Arminia Bielefeld,Freiburg,0,0,2021-08-14 13:30:00,Cédric Brunner,Aerial
+425780,45,BlockedShot,0.8719999694824219,0.33599998474121096,0.05509346351027489,Fabian Klos,h,8792,OpenPlay,2021,RightFoot,17517,Arminia Bielefeld,Freiburg,0,0,2021-08-14 13:30:00,Fabian Kunze,Chipped
+425781,47,SavedShot,0.8680000305175781,0.375,0.31591206789016724,Masaya Okugawa,h,9352,OpenPlay,2021,RightFoot,17517,Arminia Bielefeld,Freiburg,0,0,2021-08-14 13:30:00,,TakeOn
+425782,49,SavedShot,0.8159999847412109,0.485,0.060395728796720505,Masaya Okugawa,h,9352,OpenPlay,2021,LeftFoot,17517,Arminia Bielefeld,Freiburg,0,0,2021-08-14 13:30:00,Alessandro Schöpf,BallTouch
+425790,75,MissedShots,0.9169999694824219,0.6229999923706054,0.011114335618913174,Bryan Lasme,h,9727,SetPiece,2021,Head,17517,Arminia Bielefeld,Freiburg,0,0,2021-08-14 13:30:00,Alessandro Schöpf,Aerial
+425792,86,MissedShots,0.7019999694824218,0.485,0.009476648643612862,Alessandro Schöpf,h,2638,SetPiece,2021,RightFoot,17517,Arminia Bielefeld,Freiburg,0,0,2021-08-14 13:30:00,,None
+425793,87,SavedShot,0.855,0.335,0.047731559723615646,Fabian Klos,h,8792,OpenPlay,2021,LeftFoot,17517,Arminia Bielefeld,Freiburg,0,0,2021-08-14 13:30:00,,None
+425772,16,MissedShots,0.789000015258789,0.4540000152587891,0.017048517242074013,Yannik Keitel,a,8206,FromCorner,2021,RightFoot,17517,Arminia Bielefeld,Freiburg,0,0,2021-08-14 13:30:00,,Aerial
+425773,18,SavedShot,0.9630000305175781,0.36900001525878906,0.013012309558689594,Nicolas Höfler,a,4250,FromCorner,2021,Head,17517,Arminia Bielefeld,Freiburg,0,0,2021-08-14 13:30:00,Christian Günter,Aerial
+425775,26,MissedShots,0.8730000305175781,0.595999984741211,0.08475189656019211,Yannik Keitel,a,8206,SetPiece,2021,LeftFoot,17517,Arminia Bielefeld,Freiburg,0,0,2021-08-14 13:30:00,Nico Schlotterbeck,Pass
+425776,30,ShotOnPost,0.9290000152587891,0.5790000152587891,0.3370426297187805,Nico Schlotterbeck,a,7485,SetPiece,2021,LeftFoot,17517,Arminia Bielefeld,Freiburg,0,0,2021-08-14 13:30:00,Vincenzo Grifo,Cross
+425778,37,SavedShot,0.9530000305175781,0.485,0.5958123207092285,Lucas Höler,a,6475,OpenPlay,2021,Head,17517,Arminia Bielefeld,Freiburg,0,0,2021-08-14 13:30:00,Vincenzo Grifo,Cross
+425779,37,BlockedShot,0.955999984741211,0.305,0.046000104397535324,Woo-Yeong Jeong,a,7267,OpenPlay,2021,RightFoot,17517,Arminia Bielefeld,Freiburg,0,0,2021-08-14 13:30:00,,Rebound
+425783,54,SavedShot,0.7830000305175782,0.6419999694824219,0.026718610897660255,Lucas Höler,a,6475,OpenPlay,2021,RightFoot,17517,Arminia Bielefeld,Freiburg,0,0,2021-08-14 13:30:00,Christian Günter,Pass
+425784,55,BlockedShot,0.87,0.3160000038146973,0.03520606830716133,Jonathan Schmid,a,81,FromCorner,2021,RightFoot,17517,Arminia Bielefeld,Freiburg,0,0,2021-08-14 13:30:00,,None
+425785,56,MissedShots,0.9080000305175782,0.49700000762939456,0.05698080733418465,Yannik Keitel,a,8206,OpenPlay,2021,Head,17517,Arminia Bielefeld,Freiburg,0,0,2021-08-14 13:30:00,Christian Günter,Aerial
+425786,56,SavedShot,0.9390000152587891,0.3029999923706055,0.04979071393609047,Jonathan Schmid,a,81,OpenPlay,2021,RightFoot,17517,Arminia Bielefeld,Freiburg,0,0,2021-08-14 13:30:00,Yannik Keitel,Rebound
+425787,56,SavedShot,0.845,0.46599998474121096,0.06855864822864532,Yannik Keitel,a,8206,OpenPlay,2021,RightFoot,17517,Arminia Bielefeld,Freiburg,0,0,2021-08-14 13:30:00,,Rebound
+425788,57,MissedShots,0.8230000305175781,0.4329999923706055,0.06093636527657509,Yannik Keitel,a,8206,OpenPlay,2021,RightFoot,17517,Arminia Bielefeld,Freiburg,0,0,2021-08-14 13:30:00,Jonathan Schmid,Pass
+425789,74,MissedShots,0.9569999694824218,0.6580000305175782,0.06308028846979141,Nico Schlotterbeck,a,7485,OpenPlay,2021,LeftFoot,17517,Arminia Bielefeld,Freiburg,0,0,2021-08-14 13:30:00,,None
+425791,83,MissedShots,0.9180000305175782,0.49900001525878906,0.12271827459335327,Lucas Höler,a,6475,SetPiece,2021,Head,17517,Arminia Bielefeld,Freiburg,0,0,2021-08-14 13:30:00,Vincenzo Grifo,Cross
+425794,91,MissedShots,0.899000015258789,0.5220000076293946,0.09634553641080856,Ermedin Demirovic,a,6496,OpenPlay,2021,Head,17517,Arminia Bielefeld,Freiburg,0,0,2021-08-14 13:30:00,Roland Sallai,Cross

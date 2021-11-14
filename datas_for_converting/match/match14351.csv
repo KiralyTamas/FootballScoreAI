@@ -1,0 +1,23 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+388810,14,MissedShots,0.904000015258789,0.40700000762939453,0.03960868716239929,Nikolay Poyarkov,h,8072,FromCorner,2020,Head,14351,FC Rostov,Dinamo Moscow,4,1,2020-11-28 16:00:00,Roman Eremenko,Cross
+388812,24,MissedShots,0.9480000305175781,0.43,0.14742189645767212,Dmitriy Poloz,h,2775,OpenPlay,2020,RightFoot,14351,FC Rostov,Dinamo Moscow,4,1,2020-11-28 16:00:00,Denis Terentjev,Pass
+388813,26,MissedShots,0.81,0.295,0.025905489921569824,Armin Gigovic,h,9062,OpenPlay,2020,RightFoot,14351,FC Rostov,Dinamo Moscow,4,1,2020-11-28 16:00:00,Roman Eremenko,Pass
+388814,34,Goal,0.885,0.5,0.7542753219604492,Dmitriy Poloz,h,2775,Penalty,2020,RightFoot,14351,FC Rostov,Dinamo Moscow,4,1,2020-11-28 16:00:00,,Standard
+388815,39,SavedShot,0.8580000305175781,0.3609999847412109,0.07484417408704758,Roman Tugarev,h,6364,OpenPlay,2020,RightFoot,14351,FC Rostov,Dinamo Moscow,4,1,2020-11-28 16:00:00,Khoren Bayramyan,Pass
+388819,58,BlockedShot,0.8469999694824218,0.685,0.05173813924193382,Khoren Bayramyan,h,3162,OpenPlay,2020,RightFoot,14351,FC Rostov,Dinamo Moscow,4,1,2020-11-28 16:00:00,,None
+388821,66,BlockedShot,0.7140000152587891,0.634000015258789,0.03584274649620056,Danil Glebov,h,6580,DirectFreekick,2020,RightFoot,14351,FC Rostov,Dinamo Moscow,4,1,2020-11-28 16:00:00,,Standard
+388823,70,Goal,0.885,0.5,0.7542753219604492,Dmitriy Poloz,h,2775,Penalty,2020,RightFoot,14351,FC Rostov,Dinamo Moscow,4,1,2020-11-28 16:00:00,,Standard
+388824,71,SavedShot,0.785,0.33099998474121095,0.029300343245267868,Roman Tugarev,h,6364,OpenPlay,2020,RightFoot,14351,FC Rostov,Dinamo Moscow,4,1,2020-11-28 16:00:00,,BallRecovery
+388825,73,SavedShot,0.7709999847412109,0.5720000076293945,0.019428076222538948,Danil Glebov,h,6580,FromCorner,2020,RightFoot,14351,FC Rostov,Dinamo Moscow,4,1,2020-11-28 16:00:00,,Goal
+388826,73,Goal,0.955,0.4329999923706055,0.5267999172210693,Dmitriy Poloz,h,2775,FromCorner,2020,RightFoot,14351,FC Rostov,Dinamo Moscow,4,1,2020-11-28 16:00:00,,None
+388828,84,Goal,0.9259999847412109,0.47,0.5723101496696472,Khoren Bayramyan,h,3162,OpenPlay,2020,LeftFoot,14351,FC Rostov,Dinamo Moscow,4,1,2020-11-28 16:00:00,Denis Terentjev,Pass
+388808,0,MissedShots,0.9380000305175781,0.3390000152587891,0.04885968565940857,Sebastian Szymanski,a,7631,OpenPlay,2020,LeftFoot,14351,FC Rostov,Dinamo Moscow,4,1,2020-11-28 16:00:00,Dmitrii Skopintcev,Cross
+388809,6,MissedShots,0.9059999847412109,0.4909999847412109,0.09606827795505524,Nikolay Komlichenko,a,3015,OpenPlay,2020,Head,14351,FC Rostov,Dinamo Moscow,4,1,2020-11-28 16:00:00,Dmitrii Skopintcev,Cross
+388811,22,SavedShot,0.9019999694824219,0.6029999923706054,0.022587960585951805,Ivan Ordets,a,7632,SetPiece,2020,Head,14351,FC Rostov,Dinamo Moscow,4,1,2020-11-28 16:00:00,,None
+388816,43,BlockedShot,0.894000015258789,0.4490000152587891,0.0378011018037796,Daniil Fomin,a,5536,FromCorner,2020,Head,14351,FC Rostov,Dinamo Moscow,4,1,2020-11-28 16:00:00,Sebastian Szymanski,Cross
+388817,43,MissedShots,0.8969999694824219,0.4809999847412109,0.05225716158747673,Daniil Fomin,a,5536,FromCorner,2020,Head,14351,FC Rostov,Dinamo Moscow,4,1,2020-11-28 16:00:00,Sebastian Szymanski,Cross
+388818,47,SavedShot,0.7559999847412109,0.40099998474121096,0.020998116582632065,Sebastian Szymanski,a,7631,OpenPlay,2020,LeftFoot,14351,FC Rostov,Dinamo Moscow,4,1,2020-11-28 16:00:00,Guillermo Varela,Pass
+388820,64,MissedShots,0.8030000305175782,0.6329999923706054,0.03648415207862854,Konstantin Tyukavin,a,9049,OpenPlay,2020,LeftFoot,14351,FC Rostov,Dinamo Moscow,4,1,2020-11-28 16:00:00,Vyacheslav Grulev,Pass
+388822,67,SavedShot,0.9119999694824219,0.66,0.06021150201559067,Vyacheslav Grulev,a,6611,OpenPlay,2020,LeftFoot,14351,FC Rostov,Dinamo Moscow,4,1,2020-11-28 16:00:00,Daniil Lesovoy,Chipped
+388827,76,BlockedShot,0.8580000305175781,0.6359999847412109,0.07462487369775772,Daniil Lesovoy,a,6793,OpenPlay,2020,RightFoot,14351,FC Rostov,Dinamo Moscow,4,1,2020-11-28 16:00:00,Nikola Moro,Pass
+388829,90,Goal,0.885,0.5,0.7542753219604492,Nikola Moro,a,8626,Penalty,2020,RightFoot,14351,FC Rostov,Dinamo Moscow,4,1,2020-11-28 16:00:00,,Standard

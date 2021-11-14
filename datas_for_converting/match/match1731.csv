@@ -1,0 +1,36 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+91915,9,MissedShots,0.7280000305175781,0.5879999923706055,0.018715597689151764,Oriol Riera,h,2323,OpenPlay,2015,RightFoot,1731,Deportivo La Coruna,Barcelona,0,8,2016-04-20 22:00:00,Celso Borges,Pass
+91919,17,SavedShot,0.9419999694824219,0.53,0.560615599155426,Celso Borges,h,2466,OpenPlay,2015,LeftFoot,1731,Deportivo La Coruna,Barcelona,0,8,2016-04-20 22:00:00,Lucas Pérez,Throughball
+91920,18,BlockedShot,0.7959999847412109,0.3160000038146973,0.02221790887415409,Cani,h,2322,OpenPlay,2015,RightFoot,1731,Deportivo La Coruna,Barcelona,0,8,2016-04-20 22:00:00,,None
+91921,18,BlockedShot,0.925,0.44099998474121094,0.37913215160369873,Celso Borges,h,2466,OpenPlay,2015,RightFoot,1731,Deportivo La Coruna,Barcelona,0,8,2016-04-20 22:00:00,,Dispossessed
+91922,18,MissedShots,0.925,0.36900001525878906,0.34945353865623474,Oriol Riera,h,2323,OpenPlay,2015,RightFoot,1731,Deportivo La Coruna,Barcelona,0,8,2016-04-20 22:00:00,,Rebound
+91925,26,MissedShots,0.8819999694824219,0.715,0.033592432737350464,Lucas Pérez,h,1700,OpenPlay,2015,LeftFoot,1731,Deportivo La Coruna,Barcelona,0,8,2016-04-20 22:00:00,Oriol Riera,HeadPass
+91926,32,SavedShot,0.8009999847412109,0.6329999923706054,0.031640566885471344,Lucas Pérez,h,1700,OpenPlay,2015,LeftFoot,1731,Deportivo La Coruna,Barcelona,0,8,2016-04-20 22:00:00,Celso Borges,Pass
+91933,59,SavedShot,0.889000015258789,0.625999984741211,0.04553809016942978,Lucas Pérez,h,1700,OpenPlay,2015,LeftFoot,1731,Deportivo La Coruna,Barcelona,0,8,2016-04-20 22:00:00,Oriol Riera,Chipped
+91937,65,BlockedShot,0.9440000152587891,0.35400001525878905,0.06064997985959053,Lucas Pérez,h,1700,OpenPlay,2015,RightFoot,1731,Deportivo La Coruna,Barcelona,0,8,2016-04-20 22:00:00,,None
+91938,66,MissedShots,0.8040000152587891,0.43599998474121093,0.01671931892633438,Pedro Mosquera,h,2320,FromCorner,2015,LeftFoot,1731,Deportivo La Coruna,Barcelona,0,8,2016-04-20 22:00:00,Faycal Fajr,Chipped
+91939,68,MissedShots,0.9319999694824219,0.48900001525878906,0.39187392592430115,Lucas Pérez,h,1700,OpenPlay,2015,RightFoot,1731,Deportivo La Coruna,Barcelona,0,8,2016-04-20 22:00:00,Laure,Cross
+91941,75,MissedShots,0.9219999694824219,0.54,0.32720088958740234,Jonás Gutiérrez,h,2321,OpenPlay,2015,Head,1731,Deportivo La Coruna,Barcelona,0,8,2016-04-20 22:00:00,Laure,Cross
+91944,81,SavedShot,0.779000015258789,0.6430000305175781,0.024712320417165756,Faycal Fajr,h,2319,OpenPlay,2015,RightFoot,1731,Deportivo La Coruna,Barcelona,0,8,2016-04-20 22:00:00,Oriol Riera,Pass
+91945,83,MissedShots,0.7280000305175781,0.585,0.010326840914785862,Faycal Fajr,h,2319,OpenPlay,2015,RightFoot,1731,Deportivo La Coruna,Barcelona,0,8,2016-04-20 22:00:00,,None
+91946,84,SavedShot,0.745999984741211,0.4879999923706055,0.021544918417930603,Fede Cartabia,h,2318,OpenPlay,2015,LeftFoot,1731,Deportivo La Coruna,Barcelona,0,8,2016-04-20 22:00:00,Faycal Fajr,Pass
+91947,85,BlockedShot,0.765,0.41900001525878905,0.03547203540802002,Fede Cartabia,h,2318,FromCorner,2015,LeftFoot,1731,Deportivo La Coruna,Barcelona,0,8,2016-04-20 22:00:00,Lucas Pérez,Pass
+91914,6,MissedShots,0.909000015258789,0.605999984741211,0.11162672191858292,Luis Suárez,a,2098,OpenPlay,2015,LeftFoot,1731,Deportivo La Coruna,Barcelona,0,8,2016-04-20 22:00:00,Andrés Iniesta,Throughball
+91916,10,SavedShot,0.865999984741211,0.59,0.09026488661766052,Lionel Messi,a,2097,OpenPlay,2015,LeftFoot,1731,Deportivo La Coruna,Barcelona,0,8,2016-04-20 22:00:00,Luis Suárez,Pass
+91917,10,Goal,0.9769999694824218,0.5109999847412109,0.5592502951622009,Luis Suárez,a,2098,FromCorner,2015,LeftFoot,1731,Deportivo La Coruna,Barcelona,0,8,2016-04-20 22:00:00,Ivan Rakitic,Cross
+91918,15,BlockedShot,0.8619999694824219,0.4640000152587891,0.13738445937633514,Lionel Messi,a,2097,OpenPlay,2015,RightFoot,1731,Deportivo La Coruna,Barcelona,0,8,2016-04-20 22:00:00,Neymar,Pass
+91923,22,MissedShots,0.915,0.39599998474121095,0.09823823720216751,Luis Suárez,a,2098,OpenPlay,2015,RightFoot,1731,Deportivo La Coruna,Barcelona,0,8,2016-04-20 22:00:00,Andrés Iniesta,Chipped
+91924,23,Goal,0.8919999694824219,0.5379999923706055,0.4627361297607422,Luis Suárez,a,2098,OpenPlay,2015,RightFoot,1731,Deportivo La Coruna,Barcelona,0,8,2016-04-20 22:00:00,Lionel Messi,Throughball
+91927,33,MissedShots,0.94,0.49900001525878906,0.596237063407898,Luis Suárez,a,2098,OpenPlay,2015,LeftFoot,1731,Deportivo La Coruna,Barcelona,0,8,2016-04-20 22:00:00,Dani Alves,Pass
+91928,35,BlockedShot,0.8490000152587891,0.6140000152587891,0.10989691317081451,Lionel Messi,a,2097,OpenPlay,2015,LeftFoot,1731,Deportivo La Coruna,Barcelona,0,8,2016-04-20 22:00:00,Neymar,Pass
+91929,46,Goal,0.9259999847412109,0.4370000076293945,0.422195166349411,Ivan Rakitic,a,2094,OpenPlay,2015,RightFoot,1731,Deportivo La Coruna,Barcelona,0,8,2016-04-20 22:00:00,Luis Suárez,Chipped
+91930,49,MissedShots,0.8180000305175781,0.5879999923706055,0.06988445669412613,Neymar,a,2099,OpenPlay,2015,LeftFoot,1731,Deportivo La Coruna,Barcelona,0,8,2016-04-20 22:00:00,Sergio Busquets,Pass
+91931,49,MissedShots,0.7390000152587891,0.3340000152587891,0.015533408150076866,Ivan Rakitic,a,2094,OpenPlay,2015,RightFoot,1731,Deportivo La Coruna,Barcelona,0,8,2016-04-20 22:00:00,,None
+91932,52,Goal,0.8809999847412109,0.44,0.5073437094688416,Luis Suárez,a,2098,OpenPlay,2015,RightFoot,1731,Deportivo La Coruna,Barcelona,0,8,2016-04-20 22:00:00,Lionel Messi,Throughball
+91934,62,MissedShots,0.745999984741211,0.415,0.033363234251737595,Ivan Rakitic,a,2094,OpenPlay,2015,RightFoot,1731,Deportivo La Coruna,Barcelona,0,8,2016-04-20 22:00:00,Sergio Busquets,Pass
+91935,63,BlockedShot,0.9259999847412109,0.45599998474121095,0.571921169757843,Luis Suárez,a,2098,OpenPlay,2015,LeftFoot,1731,Deportivo La Coruna,Barcelona,0,8,2016-04-20 22:00:00,Neymar,Pass
+91936,63,Goal,0.9790000152587891,0.47200000762939454,0.9449328780174255,Luis Suárez,a,2098,OpenPlay,2015,LeftFoot,1731,Deportivo La Coruna,Barcelona,0,8,2016-04-20 22:00:00,,Rebound
+91940,72,Goal,0.874000015258789,0.4909999847412109,0.4666236639022827,Lionel Messi,a,2097,OpenPlay,2015,LeftFoot,1731,Deportivo La Coruna,Barcelona,0,8,2016-04-20 22:00:00,Luis Suárez,Pass
+91942,78,Goal,0.879000015258789,0.40200000762939453,0.4926431179046631,Marc Bartra,a,2453,OpenPlay,2015,RightFoot,1731,Deportivo La Coruna,Barcelona,0,8,2016-04-20 22:00:00,,TakeOn
+91943,80,Goal,0.9490000152587891,0.5709999847412109,0.5303463935852051,Neymar,a,2099,OpenPlay,2015,LeftFoot,1731,Deportivo La Coruna,Barcelona,0,8,2016-04-20 22:00:00,Luis Suárez,Pass
+91948,89,MissedShots,0.8690000152587891,0.3320000076293945,0.0811220332980156,Luis Suárez,a,2098,OpenPlay,2015,RightFoot,1731,Deportivo La Coruna,Barcelona,0,8,2016-04-20 22:00:00,Lionel Messi,Pass

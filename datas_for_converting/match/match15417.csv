@@ -1,0 +1,22 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+417230,2,Goal,0.8219999694824218,0.5179999923706055,0.056712035089731216,Jonathan Burkardt,h,7108,OpenPlay,2020,RightFoot,15417,Mainz 05,Bayern Munich,2,1,2021-04-24 13:30:00,,None
+417232,15,SavedShot,0.9080000305175782,0.6270000076293946,0.40306752920150757,Robin Quaison,h,1275,OpenPlay,2020,RightFoot,15417,Mainz 05,Bayern Munich,2,1,2021-04-24 13:30:00,Moussa Niakhate,TakeOn
+417238,36,Goal,0.9490000152587891,0.49599998474121093,0.5269026756286621,Robin Quaison,h,1275,SetPiece,2020,Head,15417,Mainz 05,Bayern Munich,2,1,2021-04-24 13:30:00,Philipp Mwene,Cross
+417240,41,BlockedShot,0.7469999694824219,0.675,0.030830975621938705,Karim Onisiwo,h,2631,OpenPlay,2020,RightFoot,15417,Mainz 05,Bayern Munich,2,1,2021-04-24 13:30:00,Moussa Niakhate,Pass
+417241,42,BlockedShot,0.6869999694824219,0.5120000076293946,0.03588537499308586,Jeremiah St. Juste,h,7813,DirectFreekick,2020,RightFoot,15417,Mainz 05,Bayern Munich,2,1,2021-04-24 13:30:00,,Standard
+417246,80,MissedShots,0.879000015258789,0.325,0.06150413677096367,Leandro Barreiro Martins,h,7109,OpenPlay,2020,LeftFoot,15417,Mainz 05,Bayern Munich,2,1,2021-04-24 13:30:00,,None
+417229,1,MissedShots,0.76,0.375,0.021388083696365356,Benjamin Pavard,a,3363,OpenPlay,2020,RightFoot,15417,Mainz 05,Bayern Munich,2,1,2021-04-24 13:30:00,Joshua Kimmich,BallTouch
+417231,14,MissedShots,0.84,0.5620000076293945,0.27493950724601746,Robert Lewandowski,a,227,OpenPlay,2020,RightFoot,15417,Mainz 05,Bayern Munich,2,1,2021-04-24 13:30:00,Leon Goretzka,BallRecovery
+417233,19,BlockedShot,0.7290000152587891,0.7069999694824218,0.014207018539309502,Joshua Kimmich,a,223,OpenPlay,2020,RightFoot,15417,Mainz 05,Bayern Munich,2,1,2021-04-24 13:30:00,Kingsley Coman,Pass
+417234,22,BlockedShot,0.9259999847412109,0.545,0.04692952707409859,Leon Goretzka,a,335,FromCorner,2020,Head,15417,Mainz 05,Bayern Munich,2,1,2021-04-24 13:30:00,Joshua Kimmich,Aerial
+417235,23,BlockedShot,0.7519999694824219,0.7419999694824219,0.016848215833306313,Kingsley Coman,a,226,OpenPlay,2020,RightFoot,15417,Mainz 05,Bayern Munich,2,1,2021-04-24 13:30:00,Alphonso Davies,Pass
+417236,23,SavedShot,0.7569999694824219,0.32,0.019499100744724274,Leroy Sané,a,337,OpenPlay,2020,LeftFoot,15417,Mainz 05,Bayern Munich,2,1,2021-04-24 13:30:00,Jérôme Boateng,Pass
+417237,27,MissedShots,0.899000015258789,0.385,0.07298167794942856,Thomas Müller,a,224,OpenPlay,2020,RightFoot,15417,Mainz 05,Bayern Munich,2,1,2021-04-24 13:30:00,Jérôme Boateng,Chipped
+417239,38,MissedShots,0.8019999694824219,0.3189999961853027,0.023971764370799065,Leroy Sané,a,337,OpenPlay,2020,LeftFoot,15417,Mainz 05,Bayern Munich,2,1,2021-04-24 13:30:00,Benjamin Pavard,Pass
+417242,46,BlockedShot,0.9219999694824219,0.6509999847412109,0.046207550913095474,Leon Goretzka,a,335,OpenPlay,2020,LeftFoot,15417,Mainz 05,Bayern Munich,2,1,2021-04-24 13:30:00,Joshua Kimmich,Chipped
+417243,64,MissedShots,0.735999984741211,0.38,0.012804603204131126,Joshua Kimmich,a,223,OpenPlay,2020,RightFoot,15417,Mainz 05,Bayern Munich,2,1,2021-04-24 13:30:00,Thomas Müller,BallTouch
+417244,66,SavedShot,0.894000015258789,0.5940000152587891,0.05031862109899521,Eric Maxim Choupo-Moting,a,339,OpenPlay,2020,RightFoot,15417,Mainz 05,Bayern Munich,2,1,2021-04-24 13:30:00,Thomas Müller,Cross
+417245,76,SavedShot,0.9069999694824219,0.5259999847412109,0.05809243395924568,Eric Maxim Choupo-Moting,a,339,OpenPlay,2020,Head,15417,Mainz 05,Bayern Munich,2,1,2021-04-24 13:30:00,Joshua Kimmich,Aerial
+417247,88,MissedShots,0.9180000305175782,0.51,0.0723729357123375,Jamal Musiala,a,8418,OpenPlay,2020,Head,15417,Mainz 05,Bayern Munich,2,1,2021-04-24 13:30:00,Benjamin Pavard,Aerial
+417248,91,BlockedShot,0.8019999694824219,0.48700000762939455,0.0468478687107563,Joshua Kimmich,a,223,OpenPlay,2020,RightFoot,15417,Mainz 05,Bayern Munich,2,1,2021-04-24 13:30:00,,BallTouch
+417249,93,Goal,0.91,0.5320000076293945,0.39177027344703674,Robert Lewandowski,a,227,OpenPlay,2020,RightFoot,15417,Mainz 05,Bayern Munich,2,1,2021-04-24 13:30:00,,BallRecovery

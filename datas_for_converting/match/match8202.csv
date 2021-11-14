@@ -1,0 +1,22 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+210020,13,BlockedShot,0.6769999694824219,0.485,0.01948859915137291,Raúl Navas,h,4130,OpenPlay,2017,RightFoot,8202,Real Sociedad,Atletico Madrid,3,0,2018-04-19 17:30:00,,TakeOn
+210022,26,Goal,0.865999984741211,0.485,0.10777238011360168,Willian José,h,2361,OpenPlay,2017,RightFoot,8202,Real Sociedad,Atletico Madrid,3,0,2018-04-19 17:30:00,Adnan Januzaj,Pass
+210024,36,MissedShots,0.7280000305175781,0.4909999847412109,0.021855777129530907,Aritz Elustondo,h,2228,OpenPlay,2017,RightFoot,8202,Real Sociedad,Atletico Madrid,3,0,2018-04-19 17:30:00,,None
+210025,38,BlockedShot,0.774000015258789,0.3529999923706055,0.028821274638175964,Sergio Canales,h,2571,OpenPlay,2017,LeftFoot,8202,Real Sociedad,Atletico Madrid,3,0,2018-04-19 17:30:00,Adnan Januzaj,Pass
+210026,42,MissedShots,0.7559999847412109,0.34700000762939454,0.026654347777366638,Sergio Canales,h,2571,OpenPlay,2017,LeftFoot,8202,Real Sociedad,Atletico Madrid,3,0,2018-04-19 17:30:00,Aritz Elustondo,Pass
+210027,48,MissedShots,0.955999984741211,0.3940000152587891,0.01762673445045948,Raúl Navas,h,4130,FromCorner,2017,Head,8202,Real Sociedad,Atletico Madrid,3,0,2018-04-19 17:30:00,Sergio Canales,Aerial
+210029,63,SavedShot,0.764000015258789,0.3390000152587891,0.04107516631484032,Adnan Januzaj,h,323,OpenPlay,2017,RightFoot,8202,Real Sociedad,Atletico Madrid,3,0,2018-04-19 17:30:00,Sergio Canales,TakeOn
+210032,70,MissedShots,0.7559999847412109,0.3629999923706055,0.04440466687083244,Willian José,h,2361,OpenPlay,2017,RightFoot,8202,Real Sociedad,Atletico Madrid,3,0,2018-04-19 17:30:00,Adnan Januzaj,Pass
+210033,72,MissedShots,0.5429999923706055,0.05,0.006131884176284075,Aritz Elustondo,h,2228,OpenPlay,2017,RightFoot,8202,Real Sociedad,Atletico Madrid,3,0,2018-04-19 17:30:00,,None
+210034,74,MissedShots,0.8109999847412109,0.3039999961853027,0.03221755474805832,Sergio Canales,h,2571,OpenPlay,2017,LeftFoot,8202,Real Sociedad,Atletico Madrid,3,0,2018-04-19 17:30:00,Willian José,Pass
+210037,79,Goal,0.8680000305175781,0.45799999237060546,0.41139471530914307,Juanmi,h,897,OpenPlay,2017,RightFoot,8202,Real Sociedad,Atletico Madrid,3,0,2018-04-19 17:30:00,Willian José,Throughball
+210039,91,Goal,0.9069999694824219,0.38799999237060545,0.04939068481326103,Juanmi,h,897,OpenPlay,2017,Head,8202,Real Sociedad,Atletico Madrid,3,0,2018-04-19 17:30:00,Alberto De la Bella,Cross
+210019,7,BlockedShot,0.740999984741211,0.30100000381469727,0.01764669083058834,Saúl Ñíguez,a,2266,OpenPlay,2017,LeftFoot,8202,Real Sociedad,Atletico Madrid,3,0,2018-04-19 17:30:00,Thomas Partey,Pass
+210021,20,SavedShot,0.904000015258789,0.46299999237060546,0.036342933773994446,Diego Godín,a,2264,FromCorner,2017,OtherBodyPart,8202,Real Sociedad,Atletico Madrid,3,0,2018-04-19 17:30:00,Koke,Aerial
+210023,28,MissedShots,0.8619999694824219,0.5220000076293946,0.0994553491473198,Antoine Griezmann,a,2270,OpenPlay,2017,LeftFoot,8202,Real Sociedad,Atletico Madrid,3,0,2018-04-19 17:30:00,Saúl Ñíguez,LayOff
+210028,61,BlockedShot,0.8059999847412109,0.669000015258789,0.0280024241656065,Koke,a,2269,OpenPlay,2017,RightFoot,8202,Real Sociedad,Atletico Madrid,3,0,2018-04-19 17:30:00,,None
+210030,65,MissedShots,0.9069999694824219,0.47900001525878905,0.044002681970596313,Fernando Torres,a,2271,OpenPlay,2017,Head,8202,Real Sociedad,Atletico Madrid,3,0,2018-04-19 17:30:00,Sime Vrsaljko,Aerial
+210031,66,MissedShots,0.9159999847412109,0.48700000762939455,0.09249831736087799,Sime Vrsaljko,a,1951,SetPiece,2017,Head,8202,Real Sociedad,Atletico Madrid,3,0,2018-04-19 17:30:00,Koke,Chipped
+210035,76,BlockedShot,0.860999984741211,0.6,0.05982775613665581,Kevin Gameiro,a,2442,SetPiece,2017,RightFoot,8202,Real Sociedad,Atletico Madrid,3,0,2018-04-19 17:30:00,,None
+210036,77,BlockedShot,0.8519999694824218,0.62,0.02420746348798275,Saúl Ñíguez,a,2266,FromCorner,2017,LeftFoot,8202,Real Sociedad,Atletico Madrid,3,0,2018-04-19 17:30:00,Diego Godín,HeadPass
+210038,84,SavedShot,0.8980000305175782,0.5520000076293945,0.061400167644023895,Fernando Torres,a,2271,SetPiece,2017,Head,8202,Real Sociedad,Atletico Madrid,3,0,2018-04-19 17:30:00,Koke,Chipped

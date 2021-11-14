@@ -1,0 +1,12 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+204820,0,MissedShots,0.705,0.5820000076293945,0.013177085667848587,Eraso,h,2409,OpenPlay,2017,RightFoot,8178,Leganes,Valencia,0,1,2018-04-01 15:15:00,,BallRecovery
+204821,9,MissedShots,0.7440000152587891,0.40599998474121096,0.018243316560983658,Gabriel Pires,h,5067,OpenPlay,2017,LeftFoot,8178,Leganes,Valencia,0,1,2018-04-01 15:15:00,Eraso,Pass
+204822,26,BlockedShot,0.8730000305175781,0.35400001525878905,0.05302123725414276,Gabriel Pires,h,5067,SetPiece,2017,LeftFoot,8178,Leganes,Valencia,0,1,2018-04-01 15:15:00,,None
+204823,29,SavedShot,0.8530000305175781,0.5579999923706055,0.08936000615358353,Gabriel Pires,h,5067,OpenPlay,2017,RightFoot,8178,Leganes,Valencia,0,1,2018-04-01 15:15:00,Nordin Amrabat,Pass
+204827,76,BlockedShot,0.764000015258789,0.7419999694824219,0.04760091379284859,Diego Rico,h,5065,DirectFreekick,2017,LeftFoot,8178,Leganes,Valencia,0,1,2018-04-01 15:15:00,,Standard
+204828,77,BlockedShot,0.9259999847412109,0.5359999847412109,0.09083615243434906,Eraso,h,2409,OpenPlay,2017,RightFoot,8178,Leganes,Valencia,0,1,2018-04-01 15:15:00,Diego Rico,Cross
+204829,81,BlockedShot,0.91,0.47400001525878904,0.49743300676345825,Nabil El Zhar,h,2357,OpenPlay,2017,LeftFoot,8178,Leganes,Valencia,0,1,2018-04-01 15:15:00,Claudio Beauvue,Pass
+204830,89,MissedShots,0.884000015258789,0.549000015258789,0.015090941451489925,Dimitrios Siovas,h,5064,FromCorner,2017,Head,8178,Leganes,Valencia,0,1,2018-04-01 15:15:00,Eraso,Aerial
+204824,53,MissedShots,0.7080000305175781,0.5709999847412109,0.01336972787976265,José Gayá,a,2505,FromCorner,2017,LeftFoot,8178,Leganes,Valencia,0,1,2018-04-01 15:15:00,,None
+204825,53,BlockedShot,0.9390000152587891,0.67,0.035640183836221695,Simone Zaza,a,1642,FromCorner,2017,LeftFoot,8178,Leganes,Valencia,0,1,2018-04-01 15:15:00,Ezequiel Garay,Cross
+204826,61,Goal,0.789000015258789,0.36700000762939455,0.03342766687273979,Rodrigo,a,2381,OpenPlay,2017,LeftFoot,8178,Leganes,Valencia,0,1,2018-04-01 15:15:00,Daniel Parejo,BallRecovery

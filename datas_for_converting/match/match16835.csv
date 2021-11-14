@@ -1,0 +1,15 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+437245,26,BlockedShot,0.874000015258789,0.555,0.09079602360725403,Gianluca Busio,h,9904,OpenPlay,2021,LeftFoot,16835,Venezia,Fiorentina,1,0,2021-10-18 18:45:00,Mattia Aramu,BallTouch
+437246,35,Goal,0.925,0.5120000076293946,0.5507203936576843,Mattia Aramu,h,1566,OpenPlay,2021,LeftFoot,16835,Venezia,Fiorentina,1,0,2021-10-18 18:45:00,Thomas Henry,Pass
+437249,65,BlockedShot,0.855999984741211,0.654000015258789,0.06486058980226517,Pietro Ceccaroni,h,9878,OpenPlay,2021,LeftFoot,16835,Venezia,Fiorentina,1,0,2021-10-18 18:45:00,,None
+437251,78,SavedShot,0.8540000152587891,0.5479999923706055,0.08801668882369995,David Okereke,h,9905,OpenPlay,2021,LeftFoot,16835,Venezia,Fiorentina,1,0,2021-10-18 18:45:00,,None
+437242,19,BlockedShot,0.7480000305175781,0.475,0.019735755398869514,Giacomo Bonaventura,a,1121,OpenPlay,2021,LeftFoot,16835,Venezia,Fiorentina,1,0,2021-10-18 18:45:00,José Callejón,Pass
+437243,19,BlockedShot,0.8490000152587891,0.5570000076293945,0.0629897192120552,Dusan Vlahovic,a,7084,OpenPlay,2021,LeftFoot,16835,Venezia,Fiorentina,1,0,2021-10-18 18:45:00,Giacomo Bonaventura,Rebound
+437244,21,SavedShot,0.81,0.3659999847412109,0.038981977850198746,Giacomo Bonaventura,a,1121,OpenPlay,2021,RightFoot,16835,Venezia,Fiorentina,1,0,2021-10-18 18:45:00,Sofyan Amrabat,Pass
+437247,49,MissedShots,0.720999984741211,0.509000015258789,0.01628761552274227,Giacomo Bonaventura,a,1121,SetPiece,2021,RightFoot,16835,Venezia,Fiorentina,1,0,2021-10-18 18:45:00,Alfred Duncan,Pass
+437248,63,MissedShots,0.730999984741211,0.44,0.050699006766080856,Lucas Torreira,a,1227,DirectFreekick,2021,RightFoot,16835,Venezia,Fiorentina,1,0,2021-10-18 18:45:00,,Standard
+437250,74,MissedShots,0.75,0.575,0.02118615247309208,Alfred Duncan,a,1474,OpenPlay,2021,LeftFoot,16835,Venezia,Fiorentina,1,0,2021-10-18 18:45:00,Riccardo Sottil,Pass
+437252,83,SavedShot,0.9219999694824219,0.5029999923706054,0.11113467812538147,Nicolás González,a,7074,FromCorner,2021,Head,16835,Venezia,Fiorentina,1,0,2021-10-18 18:45:00,Marco Benassi,Cross
+437253,85,BlockedShot,0.9159999847412109,0.639000015258789,0.07921530306339264,Dusan Vlahovic,a,7084,OpenPlay,2021,LeftFoot,16835,Venezia,Fiorentina,1,0,2021-10-18 18:45:00,Cristiano Biraghi,Pass
+437254,86,MissedShots,0.9309999847412109,0.6519999694824219,0.0125169288367033,Lucas Torreira,a,1227,FromCorner,2021,Head,16835,Venezia,Fiorentina,1,0,2021-10-18 18:45:00,Cristiano Biraghi,Aerial
+437255,91,MissedShots,0.7559999847412109,0.33,0.01568586193025112,Dusan Vlahovic,a,7084,OpenPlay,2021,LeftFoot,16835,Venezia,Fiorentina,1,0,2021-10-18 18:45:00,,TakeOn

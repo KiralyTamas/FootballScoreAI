@@ -1,0 +1,25 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+410611,6,MissedShots,0.7080000305175781,0.639000015258789,0.01846189610660076,Sasa Kalajdzic,h,8812,OpenPlay,2020,RightFoot,15364,VfB Stuttgart,Hoffenheim,2,0,2021-03-14 17:00:00,Philipp Förster,Pass
+410613,19,SavedShot,0.7769999694824219,0.3770000076293945,0.034283459186553955,Gonzalo Castro,h,316,OpenPlay,2020,RightFoot,15364,VfB Stuttgart,Hoffenheim,2,0,2021-03-14 17:00:00,Wataru Endo,Pass
+410624,58,SavedShot,0.735999984741211,0.43599998474121093,0.025653915479779243,Wataru Endo,h,8808,OpenPlay,2020,RightFoot,15364,VfB Stuttgart,Hoffenheim,2,0,2021-03-14 17:00:00,,BallRecovery
+410625,60,MissedShots,0.8530000305175781,0.255,0.03623947128653526,Silas Wamangituka,h,8807,OpenPlay,2020,RightFoot,15364,VfB Stuttgart,Hoffenheim,2,0,2021-03-14 17:00:00,Sasa Kalajdzic,Pass
+410626,63,Goal,0.8819999694824219,0.46599998474121096,0.4115605652332306,Sasa Kalajdzic,h,8812,OpenPlay,2020,LeftFoot,15364,VfB Stuttgart,Hoffenheim,2,0,2021-03-14 17:00:00,Silas Wamangituka,Pass
+410630,82,BlockedShot,0.74,0.485,0.022443342953920364,Tanguy Coulibaly,h,8813,OpenPlay,2020,LeftFoot,15364,VfB Stuttgart,Hoffenheim,2,0,2021-03-14 17:00:00,Gonzalo Castro,BallTouch
+410631,83,SavedShot,0.95,0.42200000762939455,0.48937901854515076,Wataru Endo,h,8808,OpenPlay,2020,LeftFoot,15364,VfB Stuttgart,Hoffenheim,2,0,2021-03-14 17:00:00,Silas Wamangituka,Cross
+410610,2,MissedShots,0.7519999694824219,0.24700000762939453,0.01648397371172905,Sebastian Rudy,a,90,OpenPlay,2020,RightFoot,15364,VfB Stuttgart,Hoffenheim,2,0,2021-03-14 17:00:00,Chris Richards,Pass
+410612,14,OwnGoal,0.065,0.5259999847412109,0,Kasim Nuhu,a,7024,OpenPlay,2020,RightFoot,15364,VfB Stuttgart,Hoffenheim,2,0,2021-03-14 17:00:00,,None
+410614,29,SavedShot,0.7930000305175782,0.59,0.030247626826167107,Andrej Kramaric,a,956,OpenPlay,2020,RightFoot,15364,VfB Stuttgart,Hoffenheim,2,0,2021-03-14 17:00:00,Christoph Baumgartner,Pass
+410615,32,BlockedShot,0.845999984741211,0.2989999961853027,0.033593181520700455,Andrej Kramaric,a,956,OpenPlay,2020,RightFoot,15364,VfB Stuttgart,Hoffenheim,2,0,2021-03-14 17:00:00,Christoph Baumgartner,Pass
+410616,36,SavedShot,0.9080000305175782,0.44599998474121094,0.06543989479541779,Pavel Kaderábek,a,74,FromCorner,2020,Head,15364,VfB Stuttgart,Hoffenheim,2,0,2021-03-14 17:00:00,Sebastian Rudy,Cross
+410617,38,SavedShot,0.9069999694824219,0.4979999923706055,0.22943708300590515,Andrej Kramaric,a,956,OpenPlay,2020,Head,15364,VfB Stuttgart,Hoffenheim,2,0,2021-03-14 17:00:00,Pavel Kaderábek,Cross
+410618,41,MissedShots,0.9730000305175781,0.6090000152587891,0.07050950825214386,Ryan Sessegnon,a,6837,OpenPlay,2020,LeftFoot,15364,VfB Stuttgart,Hoffenheim,2,0,2021-03-14 17:00:00,,None
+410619,45,BlockedShot,0.7219999694824218,0.509000015258789,0.05068886652588844,Andrej Kramaric,a,956,DirectFreekick,2020,RightFoot,15364,VfB Stuttgart,Hoffenheim,2,0,2021-03-14 17:00:00,,Standard
+410620,47,BlockedShot,0.9269999694824219,0.5540000152587891,0.08391974866390228,Christoph Baumgartner,a,7422,SetPiece,2020,RightFoot,15364,VfB Stuttgart,Hoffenheim,2,0,2021-03-14 17:00:00,,None
+410621,54,SavedShot,0.69,0.5020000076293946,0.010437426157295704,Florian Grillitsch,a,116,OpenPlay,2020,RightFoot,15364,VfB Stuttgart,Hoffenheim,2,0,2021-03-14 17:00:00,,None
+410622,56,MissedShots,0.924000015258789,0.4490000152587891,0.09318337589502335,Kasim Nuhu,a,7024,FromCorner,2020,Head,15364,VfB Stuttgart,Hoffenheim,2,0,2021-03-14 17:00:00,Andrej Kramaric,Cross
+410623,56,MissedShots,0.7519999694824219,0.43900001525878907,0.023386551067233086,Andrej Kramaric,a,956,OpenPlay,2020,RightFoot,15364,VfB Stuttgart,Hoffenheim,2,0,2021-03-14 17:00:00,Florian Grillitsch,Pass
+410627,69,MissedShots,0.775,0.4909999847412109,0.03785134479403496,Andrej Kramaric,a,956,OpenPlay,2020,RightFoot,15364,VfB Stuttgart,Hoffenheim,2,0,2021-03-14 17:00:00,Munas Dabbur,Pass
+410628,73,MissedShots,0.875999984741211,0.5870000076293945,0.06331159174442291,Munas Dabbur,a,8140,OpenPlay,2020,LeftFoot,15364,VfB Stuttgart,Hoffenheim,2,0,2021-03-14 17:00:00,,None
+410629,82,MissedShots,0.8540000152587891,0.62,0.04836892709136009,Andrej Kramaric,a,956,OpenPlay,2020,LeftFoot,15364,VfB Stuttgart,Hoffenheim,2,0,2021-03-14 17:00:00,,None
+410632,89,SavedShot,0.7730000305175782,0.6990000152587891,0.017274159938097,Robert Skov,a,7867,OpenPlay,2020,LeftFoot,15364,VfB Stuttgart,Hoffenheim,2,0,2021-03-14 17:00:00,Georginio Rutter,Pass
+410633,89,BlockedShot,0.9059999847412109,0.5579999923706055,0.10275151580572128,Andrej Kramaric,a,956,OpenPlay,2020,RightFoot,15364,VfB Stuttgart,Hoffenheim,2,0,2021-03-14 17:00:00,,Rebound

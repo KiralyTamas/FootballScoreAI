@@ -1,0 +1,26 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+40009,7,SavedShot,0.8959999847412109,0.6329999923706054,0.08504252135753632,Gerard Moreno,h,2120,OpenPlay,2014,LeftFoot,5578,Villarreal,Celta Vigo,4,1,2015-03-08 18:00:00,Jaume Costa,Pass
+40010,9,SavedShot,0.9159999847412109,0.41,0.10804656893014908,Mateo Musacchio,h,2495,OpenPlay,2014,RightFoot,5578,Villarreal,Celta Vigo,4,1,2015-03-08 18:00:00,Joel Campbell,Pass
+40014,36,SavedShot,0.9769999694824218,0.6,0.07967567443847656,Giovani dos Santos,h,4101,FromCorner,2014,LeftFoot,5578,Villarreal,Celta Vigo,4,1,2015-03-08 18:00:00,,None
+40015,38,MissedShots,0.8230000305175781,0.3170000076293945,0.03229594975709915,Antonio Rukavina,h,2299,OpenPlay,2014,RightFoot,5578,Villarreal,Celta Vigo,4,1,2015-03-08 18:00:00,,None
+40016,38,MissedShots,0.8040000152587891,0.3390000152587891,0.03388598933815956,Antonio Rukavina,h,2299,OpenPlay,2014,RightFoot,5578,Villarreal,Celta Vigo,4,1,2015-03-08 18:00:00,,BallTouch
+40017,40,Goal,0.9419999694824219,0.3139999961853027,0.3579142093658447,Giovani dos Santos,h,4101,OpenPlay,2014,RightFoot,5578,Villarreal,Celta Vigo,4,1,2015-03-08 18:00:00,Gerard Moreno,BallRecovery
+40018,44,SavedShot,0.9309999847412109,0.85,0.06110919639468193,Moi Gómez,h,2198,DirectFreekick,2014,RightFoot,5578,Villarreal,Celta Vigo,4,1,2015-03-08 18:00:00,,Standard
+40019,45,Goal,0.93,0.48700000762939455,0.12407942116260529,Mateo Musacchio,h,2495,FromCorner,2014,Head,5578,Villarreal,Celta Vigo,4,1,2015-03-08 18:00:00,Moi Gómez,Cross
+40020,46,MissedShots,0.8280000305175781,0.4640000152587891,0.09469819813966751,Tomás Pina,h,2482,OpenPlay,2014,RightFoot,5578,Villarreal,Celta Vigo,4,1,2015-03-08 18:00:00,Gerard Moreno,Pass
+40028,69,MissedShots,0.7869999694824219,0.36400001525878906,0.03552247956395149,Joel Campbell,h,506,OpenPlay,2014,LeftFoot,5578,Villarreal,Celta Vigo,4,1,2015-03-08 18:00:00,Luciano Vietto,Pass
+40029,72,Goal,0.9440000152587891,0.32,0.07414672523736954,Luciano Vietto,h,2274,OpenPlay,2014,RightFoot,5578,Villarreal,Celta Vigo,4,1,2015-03-08 18:00:00,Tomás Pina,Chipped
+40032,83,Goal,0.86,0.49900001525878906,0.48046576976776123,Gerard Moreno,h,2120,OpenPlay,2014,LeftFoot,5578,Villarreal,Celta Vigo,4,1,2015-03-08 18:00:00,Tomás Pina,Throughball
+40011,17,SavedShot,0.8819999694824219,0.700999984741211,0.11171869188547134,Nolito,a,1732,OpenPlay,2014,RightFoot,5578,Villarreal,Celta Vigo,4,1,2015-03-08 18:00:00,Augusto Fernández,Throughball
+40012,24,SavedShot,0.7380000305175781,0.55,0.06278606504201889,Nolito,a,1732,DirectFreekick,2014,RightFoot,5578,Villarreal,Celta Vigo,4,1,2015-03-08 18:00:00,,Standard
+40013,34,MissedShots,0.764000015258789,0.5940000152587891,0.019330527633428574,Nemanja Radoja,a,2289,FromCorner,2014,LeftFoot,5578,Villarreal,Celta Vigo,4,1,2015-03-08 18:00:00,,None
+40021,49,Goal,0.9590000152587891,0.46599998474121096,0.5533506274223328,Augusto Fernández,a,2267,SetPiece,2014,Head,5578,Villarreal,Celta Vigo,4,1,2015-03-08 18:00:00,Nolito,Cross
+40022,50,MissedShots,0.774000015258789,0.7069999694824218,0.018586033955216408,Jonny,a,2280,OpenPlay,2014,RightFoot,5578,Villarreal,Celta Vigo,4,1,2015-03-08 18:00:00,Charles,Pass
+40023,55,SavedShot,0.8580000305175781,0.5029999923706054,0.056478507816791534,Charles,a,2339,OpenPlay,2014,RightFoot,5578,Villarreal,Celta Vigo,4,1,2015-03-08 18:00:00,Fabián Orellana,Cross
+40024,56,MissedShots,0.7530000305175781,0.5709999847412109,0.024340912699699402,Nolito,a,1732,OpenPlay,2014,RightFoot,5578,Villarreal,Celta Vigo,4,1,2015-03-08 18:00:00,Charles,TakeOn
+40025,57,BlockedShot,0.8090000152587891,0.5829999923706055,0.04841078072786331,Fabián Orellana,a,2285,OpenPlay,2014,RightFoot,5578,Villarreal,Celta Vigo,4,1,2015-03-08 18:00:00,Álex López,Pass
+40026,58,BlockedShot,0.8119999694824219,0.6430000305175781,0.03209156170487404,Nolito,a,1732,OpenPlay,2014,RightFoot,5578,Villarreal,Celta Vigo,4,1,2015-03-08 18:00:00,Charles,BallRecovery
+40027,59,MissedShots,0.7040000152587891,0.5329999923706055,0.016132082790136337,Augusto Fernández,a,2267,OpenPlay,2014,RightFoot,5578,Villarreal,Celta Vigo,4,1,2015-03-08 18:00:00,Fabián Orellana,Pass
+40030,79,MissedShots,0.7219999694824218,0.5609999847412109,0.013081843964755535,Augusto Fernández,a,2267,OpenPlay,2014,RightFoot,5578,Villarreal,Celta Vigo,4,1,2015-03-08 18:00:00,Fabián Orellana,Pass
+40031,82,MissedShots,0.88,0.36400001525878906,0.013999707996845245,Jonny,a,2280,OpenPlay,2014,Head,5578,Villarreal,Celta Vigo,4,1,2015-03-08 18:00:00,Augusto Fernández,Aerial
+40033,88,MissedShots,0.68,0.34700000762939454,0.008978889323771,Álex López,a,4039,OpenPlay,2014,RightFoot,5578,Villarreal,Celta Vigo,4,1,2015-03-08 18:00:00,Fabián Orellana,Pass

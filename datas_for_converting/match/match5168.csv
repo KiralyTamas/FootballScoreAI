@@ -1,0 +1,32 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+31925,1,SavedShot,0.7869999694824219,0.26399999618530273,0.011665171943604946,Zoltán Stieber,h,179,SetPiece,2014,LeftFoot,5168,Hamburger SV,Freiburg,1,1,2015-05-08 19:30:00,,None
+31928,13,SavedShot,0.8019999694824219,0.664000015258789,0.03737902268767357,Pierre-Michel Lasogga,h,173,OpenPlay,2014,LeftFoot,5168,Hamburger SV,Freiburg,1,1,2015-05-08 19:30:00,Gojko Kacar,TakeOn
+31929,16,MissedShots,0.9619999694824218,0.4209999847412109,0.10482898354530334,Ivica Olic,h,303,FromCorner,2014,Head,5168,Hamburger SV,Freiburg,1,1,2015-05-08 19:30:00,Rafael van der Vaart,Cross
+31933,23,SavedShot,0.875,0.5629999923706055,0.10483559966087341,Zoltán Stieber,h,179,OpenPlay,2014,LeftFoot,5168,Hamburger SV,Freiburg,1,1,2015-05-08 19:30:00,Matthias Ostrzolek,Pass
+31934,23,MissedShots,0.855999984741211,0.6,0.06149553880095482,Zoltán Stieber,h,179,OpenPlay,2014,LeftFoot,5168,Hamburger SV,Freiburg,1,1,2015-05-08 19:30:00,,Rebound
+31936,44,MissedShots,0.8519999694824218,0.7290000152587891,0.03228495270013809,Pierre-Michel Lasogga,h,173,OpenPlay,2014,RightFoot,5168,Hamburger SV,Freiburg,1,1,2015-05-08 19:30:00,Slobodan Rajkovic,Chipped
+31940,53,MissedShots,0.94,0.6,0.054286856204271317,Ivica Olic,h,303,FromCorner,2014,Head,5168,Hamburger SV,Freiburg,1,1,2015-05-08 19:30:00,Rafael van der Vaart,Cross
+31941,53,BlockedShot,0.7680000305175781,0.56,0.03161231055855751,Lewis Holtby,h,169,FromCorner,2014,LeftFoot,5168,Hamburger SV,Freiburg,1,1,2015-05-08 19:30:00,Gojko Kacar,Pass
+31944,69,SavedShot,0.8540000152587891,0.7030000305175781,0.03578934445977211,Marcell Jansen,h,4282,OpenPlay,2014,RightFoot,5168,Hamburger SV,Freiburg,1,1,2015-05-08 19:30:00,Gojko Kacar,Pass
+31945,72,BlockedShot,0.8080000305175781,0.47900001525878905,0.03641180321574211,Gojko Kacar,h,386,FromCorner,2014,RightFoot,5168,Hamburger SV,Freiburg,1,1,2015-05-08 19:30:00,,None
+31948,80,MissedShots,0.97,0.3940000152587891,0.07302301377058029,Artjoms Rudnevs,h,2666,OpenPlay,2014,RightFoot,5168,Hamburger SV,Freiburg,1,1,2015-05-08 19:30:00,Marcell Jansen,Cross
+31949,85,SavedShot,0.794000015258789,0.24100000381469727,0.05171893909573555,Rafael van der Vaart,h,2153,DirectFreekick,2014,LeftFoot,5168,Hamburger SV,Freiburg,1,1,2015-05-08 19:30:00,,Standard
+31950,85,MissedShots,0.7380000305175781,0.720999984741211,0.011036375537514687,Marcell Jansen,h,4282,SetPiece,2014,LeftFoot,5168,Hamburger SV,Freiburg,1,1,2015-05-08 19:30:00,,Rebound
+31951,88,SavedShot,0.725,0.6940000152587891,0.012355435639619827,Artjoms Rudnevs,h,2666,OpenPlay,2014,RightFoot,5168,Hamburger SV,Freiburg,1,1,2015-05-08 19:30:00,Marcell Jansen,LayOff
+31952,89,SavedShot,0.8980000305175782,0.5520000076293945,0.053844016045331955,Ivica Olic,h,303,FromCorner,2014,Head,5168,Hamburger SV,Freiburg,1,1,2015-05-08 19:30:00,Rafael van der Vaart,Cross
+31953,89,Goal,0.985999984741211,0.5120000076293946,0.8623555302619934,Gojko Kacar,h,386,FromCorner,2014,Head,5168,Hamburger SV,Freiburg,1,1,2015-05-08 19:30:00,,Aerial
+31926,7,BlockedShot,0.8530000305175781,0.4759999847412109,0.08376939594745636,Admir Mehmedi,a,194,OpenPlay,2014,LeftFoot,5168,Hamburger SV,Freiburg,1,1,2015-05-08 19:30:00,Karim Guédé,Pass
+31927,7,BlockedShot,0.8209999847412109,0.575,0.04530191794037819,Felix Klaus,a,350,OpenPlay,2014,RightFoot,5168,Hamburger SV,Freiburg,1,1,2015-05-08 19:30:00,,Rebound
+31930,17,BlockedShot,0.865,0.5459999847412109,0.07730517536401749,Vladimir Darida,a,27,OpenPlay,2014,RightFoot,5168,Hamburger SV,Freiburg,1,1,2015-05-08 19:30:00,,None
+31931,17,SavedShot,0.945,0.57,0.4962504208087921,Felix Klaus,a,350,OpenPlay,2014,RightFoot,5168,Hamburger SV,Freiburg,1,1,2015-05-08 19:30:00,,Rebound
+31932,18,MissedShots,0.9640000152587891,0.585,0.08471401035785675,Pavel Krmas,a,4241,FromCorner,2014,RightFoot,5168,Hamburger SV,Freiburg,1,1,2015-05-08 19:30:00,Jonathan Schmid,Cross
+31935,24,Goal,0.8859999847412109,0.32,0.2692725956439972,Admir Mehmedi,a,194,OpenPlay,2014,RightFoot,5168,Hamburger SV,Freiburg,1,1,2015-05-08 19:30:00,Karim Guédé,HeadPass
+31937,48,SavedShot,0.745999984741211,0.35900001525878905,0.025597840547561646,Admir Mehmedi,a,194,OpenPlay,2014,LeftFoot,5168,Hamburger SV,Freiburg,1,1,2015-05-08 19:30:00,Jonathan Schmid,Pass
+31938,48,SavedShot,0.93,0.605,0.10673847049474716,Admir Mehmedi,a,194,OpenPlay,2014,LeftFoot,5168,Hamburger SV,Freiburg,1,1,2015-05-08 19:30:00,Karim Guédé,Chipped
+31939,52,SavedShot,0.7269999694824218,0.48700000762939455,0.020533917471766472,Vladimir Darida,a,27,OpenPlay,2014,RightFoot,5168,Hamburger SV,Freiburg,1,1,2015-05-08 19:30:00,Admir Mehmedi,Pass
+31942,54,SavedShot,0.8480000305175781,0.639000015258789,0.06736926734447479,Felix Klaus,a,350,OpenPlay,2014,RightFoot,5168,Hamburger SV,Freiburg,1,1,2015-05-08 19:30:00,Admir Mehmedi,None
+31943,58,MissedShots,0.8159999847412109,0.345,0.051153767853975296,Vladimir Darida,a,27,OpenPlay,2014,RightFoot,5168,Hamburger SV,Freiburg,1,1,2015-05-08 19:30:00,,None
+31946,77,MissedShots,0.7340000152587891,0.495,0.015732966363430023,Marc-Oliver Kempf,a,4291,FromCorner,2014,LeftFoot,5168,Hamburger SV,Freiburg,1,1,2015-05-08 19:30:00,,None
+31947,78,BlockedShot,0.895,0.47900001525878905,0.456304132938385,Nils Petersen,a,4248,OpenPlay,2014,RightFoot,5168,Hamburger SV,Freiburg,1,1,2015-05-08 19:30:00,Maximilian Philipp,Pass
+31954,92,MissedShots,0.915,0.3659999847412109,0.06037718802690506,Admir Mehmedi,a,194,SetPiece,2014,RightFoot,5168,Hamburger SV,Freiburg,1,1,2015-05-08 19:30:00,Jonathan Schmid,Pass
+31955,95,SavedShot,0.9409999847412109,0.8169999694824219,0.07060185074806213,Jonathan Schmid,a,81,DirectFreekick,2014,RightFoot,5168,Hamburger SV,Freiburg,1,1,2015-05-08 19:30:00,,Standard

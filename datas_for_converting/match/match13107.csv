@@ -1,0 +1,25 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+316821,6,BlockedShot,0.7169999694824218,0.4759999847412109,0.044982973486185074,Manuel Locatelli,h,1122,DirectFreekick,2019,RightFoot,13107,Sassuolo,Sampdoria,4,1,2019-09-01 19:45:00,,Standard
+316829,28,Goal,0.9069999694824219,0.52,0.49926307797431946,Domenico Berardi,h,1612,OpenPlay,2019,LeftFoot,13107,Sassuolo,Sampdoria,4,1,2019-09-01 19:45:00,Francesco Caputo,Cross
+316830,31,MissedShots,0.7859999847412109,0.639000015258789,0.019322311505675316,Manuel Locatelli,h,1122,FromCorner,2019,RightFoot,13107,Sassuolo,Sampdoria,4,1,2019-09-01 19:45:00,,None
+316831,33,BlockedShot,0.86,0.639000015258789,0.0738462284207344,Francesco Caputo,h,6980,OpenPlay,2019,RightFoot,13107,Sassuolo,Sampdoria,4,1,2019-09-01 19:45:00,Alfred Duncan,Pass
+316832,35,Goal,0.9209999847412109,0.4779999923706055,0.3666347861289978,Domenico Berardi,h,1612,OpenPlay,2019,Head,13107,Sassuolo,Sampdoria,4,1,2019-09-01 19:45:00,Alfred Duncan,Cross
+316833,37,SavedShot,0.8859999847412109,0.6509999847412109,0.3999016582965851,Domenico Berardi,h,1612,OpenPlay,2019,LeftFoot,13107,Sassuolo,Sampdoria,4,1,2019-09-01 19:45:00,Manuel Locatelli,Throughball
+316834,42,Goal,0.749000015258789,0.26399999618530273,0.017860088497400284,Domenico Berardi,h,1612,OpenPlay,2019,LeftFoot,13107,Sassuolo,Sampdoria,4,1,2019-09-01 19:45:00,Alfred Duncan,Pass
+316835,46,Goal,0.9059999847412109,0.48,0.5554823279380798,Hamed Junior Traore,h,6986,OpenPlay,2019,RightFoot,13107,Sassuolo,Sampdoria,4,1,2019-09-01 19:45:00,,None
+316836,48,SavedShot,0.904000015258789,0.34299999237060547,0.39240819215774536,Hamed Junior Traore,h,6986,OpenPlay,2019,RightFoot,13107,Sassuolo,Sampdoria,4,1,2019-09-01 19:45:00,,BallRecovery
+316837,57,SavedShot,0.9530000305175781,0.4370000076293945,0.14886648952960968,Hamed Junior Traore,h,6986,OpenPlay,2019,RightFoot,13107,Sassuolo,Sampdoria,4,1,2019-09-01 19:45:00,Mert Müldür,Pass
+316839,68,SavedShot,0.9319999694824219,0.6969999694824218,0.07212569564580917,Francesco Caputo,h,6980,OpenPlay,2019,LeftFoot,13107,Sassuolo,Sampdoria,4,1,2019-09-01 19:45:00,Pedro Obiang,Pass
+316842,79,MissedShots,0.7219999694824218,0.5940000152587891,0.018320439383387566,Pedro Obiang,h,542,OpenPlay,2019,RightFoot,13107,Sassuolo,Sampdoria,4,1,2019-09-01 19:45:00,Federico Peluso,Pass
+316843,83,MissedShots,0.7880000305175782,0.4129999923706055,0.05378025025129318,Jeremie Boga,h,3544,OpenPlay,2019,RightFoot,13107,Sassuolo,Sampdoria,4,1,2019-09-01 19:45:00,Gianmarco Ferrari,TakeOn
+316820,0,MissedShots,0.875,0.62,0.08561976253986359,Jakub Jankto,a,1146,OpenPlay,2019,RightFoot,13107,Sassuolo,Sampdoria,4,1,2019-09-01 19:45:00,Fabio Quagliarella,Pass
+316822,7,MissedShots,0.915,0.3320000076293945,0.044961970299482346,Fabio Quagliarella,a,1230,OpenPlay,2019,RightFoot,13107,Sassuolo,Sampdoria,4,1,2019-09-01 19:45:00,Albin Ekdal,Cross
+316823,9,SavedShot,0.7809999847412109,0.6309999847412109,0.02746794931590557,Jakub Jankto,a,1146,OpenPlay,2019,RightFoot,13107,Sassuolo,Sampdoria,4,1,2019-09-01 19:45:00,Fabio Quagliarella,LayOff
+316824,12,SavedShot,0.8430000305175781,0.3840000152587891,0.05375346168875694,Albin Ekdal,a,411,OpenPlay,2019,LeftFoot,13107,Sassuolo,Sampdoria,4,1,2019-09-01 19:45:00,Bartosz Bereszynski,Pass
+316825,16,BlockedShot,0.925,0.6120000076293945,0.0521162785589695,Jeison Murillo,a,1508,FromCorner,2019,LeftFoot,13107,Sassuolo,Sampdoria,4,1,2019-09-01 19:45:00,Mehdi Leris,Cross
+316826,20,SavedShot,0.7709999847412109,0.46599998474121096,0.031161388382315636,Ronaldo Vieira,a,7097,OpenPlay,2019,LeftFoot,13107,Sassuolo,Sampdoria,4,1,2019-09-01 19:45:00,Jakub Jankto,BallTouch
+316827,21,BlockedShot,0.905,0.49900001525878906,0.07992337644100189,Omar Colley,a,7096,FromCorner,2019,RightFoot,13107,Sassuolo,Sampdoria,4,1,2019-09-01 19:45:00,Mehdi Leris,Cross
+316828,22,MissedShots,0.700999984741211,0.3840000152587891,0.014008226804435253,Jakub Jankto,a,1146,FromCorner,2019,LeftFoot,13107,Sassuolo,Sampdoria,4,1,2019-09-01 19:45:00,Ronaldo Vieira,Pass
+316838,66,Goal,0.885,0.5,0.7612988352775574,Fabio Quagliarella,a,1230,Penalty,2019,RightFoot,13107,Sassuolo,Sampdoria,4,1,2019-09-01 19:45:00,,Standard
+316840,72,BlockedShot,0.7880000305175782,0.47900001525878905,0.025681475177407265,Bartosz Bereszynski,a,4907,OpenPlay,2019,RightFoot,13107,Sassuolo,Sampdoria,4,1,2019-09-01 19:45:00,,None
+316841,77,BlockedShot,0.84,0.6469999694824219,0.06694195419549942,Gianluca Caprari,a,1170,OpenPlay,2019,RightFoot,13107,Sassuolo,Sampdoria,4,1,2019-09-01 19:45:00,,TakeOn

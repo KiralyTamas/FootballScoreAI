@@ -1,0 +1,25 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+33528,7,MissedShots,0.8340000152587891,0.425,0.058911439031362534,Arda Turan,h,2102,OpenPlay,2014,RightFoot,5717,Atletico Madrid,Cordoba,4,2,2014-11-01 17:00:00,,None
+33529,12,ShotOnPost,0.769000015258789,0.45,0.02824767865240574,Koke,h,2269,OpenPlay,2014,RightFoot,5717,Atletico Madrid,Cordoba,4,2,2014-11-01 17:00:00,Antoine Griezmann,Pass
+33530,16,BlockedShot,0.9269999694824219,0.504000015258789,0.14114323258399963,Mario Mandzukic,h,1295,OpenPlay,2014,Head,5717,Atletico Madrid,Cordoba,4,2,2014-11-01 17:00:00,Juanfran,Cross
+33531,18,BlockedShot,0.764000015258789,0.710999984741211,0.021991398185491562,Antoine Griezmann,h,2270,OpenPlay,2014,LeftFoot,5717,Atletico Madrid,Cordoba,4,2,2014-11-01 17:00:00,Gabi,Pass
+33532,19,SavedShot,0.815,0.69,0.027207521721720695,Guilherme Siqueira,h,2375,OpenPlay,2014,LeftFoot,5717,Atletico Madrid,Cordoba,4,2,2014-11-01 17:00:00,Juanfran,Pass
+33534,37,MissedShots,0.885,0.6509999847412109,0.019916994497179985,Antoine Griezmann,h,2270,SetPiece,2014,Head,5717,Atletico Madrid,Cordoba,4,2,2014-11-01 17:00:00,Koke,Cross
+33535,38,BlockedShot,0.855,0.5879999923706055,0.08585871011018753,Antoine Griezmann,h,2270,OpenPlay,2014,LeftFoot,5717,Atletico Madrid,Cordoba,4,2,2014-11-01 17:00:00,Arda Turan,Pass
+33536,40,SavedShot,0.7709999847412109,0.6,0.02677079848945141,Arda Turan,h,2102,OpenPlay,2014,RightFoot,5717,Atletico Madrid,Cordoba,4,2,2014-11-01 17:00:00,Koke,Pass
+33537,42,Goal,0.8880000305175781,0.39799999237060546,0.06820075213909149,Antoine Griezmann,h,2270,SetPiece,2014,LeftFoot,5717,Atletico Madrid,Cordoba,4,2,2014-11-01 17:00:00,,None
+33540,54,SavedShot,0.909000015258789,0.345,0.3478297293186188,Antoine Griezmann,h,2270,OpenPlay,2014,LeftFoot,5717,Atletico Madrid,Cordoba,4,2,2014-11-01 17:00:00,Arda Turan,Throughball
+33541,57,Goal,0.9459999847412109,0.3940000152587891,0.07602915912866592,Antoine Griezmann,h,2270,OpenPlay,2014,Head,5717,Atletico Madrid,Cordoba,4,2,2014-11-01 17:00:00,Juanfran,Cross
+33542,61,Goal,0.9430000305175781,0.485,0.5246923565864563,Mario Mandzukic,h,1295,SetPiece,2014,Head,5717,Atletico Madrid,Cordoba,4,2,2014-11-01 17:00:00,Koke,Cross
+33543,67,BlockedShot,0.875,0.545,0.1000395193696022,Mario Mandzukic,h,1295,OpenPlay,2014,LeftFoot,5717,Atletico Madrid,Cordoba,4,2,2014-11-01 17:00:00,,None
+33544,71,SavedShot,0.9,0.48900001525878906,0.059174735099077225,Raúl García,h,2400,SetPiece,2014,Head,5717,Atletico Madrid,Cordoba,4,2,2014-11-01 17:00:00,Mario Mandzukic,HeadPass
+33546,79,Goal,0.95,0.575,0.1364145576953888,Raúl García,h,2400,OpenPlay,2014,Head,5717,Atletico Madrid,Cordoba,4,2,2014-11-01 17:00:00,Koke,Cross
+33548,83,MissedShots,0.9119999694824219,0.32,0.05110256001353264,Mario Mandzukic,h,1295,SetPiece,2014,RightFoot,5717,Atletico Madrid,Cordoba,4,2,2014-11-01 17:00:00,,None
+33527,2,MissedShots,0.8980000305175782,0.38599998474121094,0.023525740951299667,Iago Bouzón,a,4080,FromCorner,2014,Head,5717,Atletico Madrid,Cordoba,4,2,2014-11-01 17:00:00,Fede Cartabia,Cross
+33533,30,SavedShot,0.9030000305175782,0.6509999847412109,0.09707265347242355,Nabil Ghilas,a,2542,OpenPlay,2014,LeftFoot,5717,Atletico Madrid,Cordoba,4,2,2014-11-01 17:00:00,Xisco,Pass
+33538,44,BlockedShot,0.7980000305175782,0.35200000762939454,0.04409278184175491,Fede Cartabia,a,2318,OpenPlay,2014,LeftFoot,5717,Atletico Madrid,Cordoba,4,2,2014-11-01 17:00:00,López Garai,TakeOn
+33539,52,Goal,0.9269999694824219,0.595999984741211,0.056572046130895615,Nabil Ghilas,a,2542,FromCorner,2014,Head,5717,Atletico Madrid,Cordoba,4,2,2014-11-01 17:00:00,Fede Cartabia,Cross
+33545,78,MissedShots,0.764000015258789,0.7980000305175782,0.009389039129018784,Abel Gómez,a,4066,OpenPlay,2014,RightFoot,5717,Atletico Madrid,Cordoba,4,2,2014-11-01 17:00:00,Fausto Rossi,Pass
+33547,82,SavedShot,0.765,0.7709999847412109,0.04272941127419472,Abel Gómez,a,4066,DirectFreekick,2014,RightFoot,5717,Atletico Madrid,Cordoba,4,2,2014-11-01 17:00:00,,Standard
+33549,86,Goal,0.9269999694824219,0.53,0.5048001408576965,Nabil Ghilas,a,2542,OpenPlay,2014,RightFoot,5717,Atletico Madrid,Cordoba,4,2,2014-11-01 17:00:00,Fausto Rossi,BallTouch
+33550,88,MissedShots,0.7440000152587891,0.2520000076293945,0.007466048933565617,Fede Cartabia,a,2318,OpenPlay,2014,LeftFoot,5717,Atletico Madrid,Cordoba,4,2,2014-11-01 17:00:00,,None

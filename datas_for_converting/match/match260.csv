@@ -1,0 +1,23 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+55156,12,BlockedShot,0.795,0.705999984741211,0.0185457281768322,Sadio Mané,h,838,OpenPlay,2015,RightFoot,260,Southampton,Arsenal,4,0,2015-12-26 23:45:00,Steven Davis,TakeOn
+55159,18,Goal,0.7340000152587891,0.34,0.012137399055063725,Cuco Martina,h,832,OpenPlay,2015,RightFoot,260,Southampton,Arsenal,4,0,2015-12-26 23:45:00,,None
+55160,24,MissedShots,0.7819999694824219,0.43599998474121093,0.046729061752557755,James Ward-Prowse,h,843,OpenPlay,2015,LeftFoot,260,Southampton,Arsenal,4,0,2015-12-26 23:45:00,,BallRecovery
+55161,26,MissedShots,0.795,0.5929999923706055,0.04710133373737335,James Ward-Prowse,h,843,OpenPlay,2015,RightFoot,260,Southampton,Arsenal,4,0,2015-12-26 23:45:00,Ryan Bertrand,Pass
+55162,28,MissedShots,0.865,0.3629999923706055,0.07894385606050491,Steven Davis,h,883,OpenPlay,2015,RightFoot,260,Southampton,Arsenal,4,0,2015-12-26 23:45:00,,Dispossessed
+55165,42,MissedShots,0.9069999694824219,0.6020000076293945,0.3051278591156006,Shane Long,h,839,OpenPlay,2015,RightFoot,260,Southampton,Arsenal,4,0,2015-12-26 23:45:00,Sadio Mané,Chipped
+55166,54,Goal,0.915,0.54,0.6211106181144714,Shane Long,h,839,OpenPlay,2015,RightFoot,260,Southampton,Arsenal,4,0,2015-12-26 23:45:00,Sadio Mané,Pass
+55168,68,Goal,0.9640000152587891,0.4620000076293945,0.49977052211761475,José Fonte,h,834,FromCorner,2015,Head,260,Southampton,Arsenal,4,0,2015-12-26 23:45:00,Ryan Bertrand,Cross
+55169,74,SavedShot,0.754000015258789,0.5459999847412109,0.0280756913125515,Dusan Tadic,h,840,OpenPlay,2015,LeftFoot,260,Southampton,Arsenal,4,0,2015-12-26 23:45:00,,BallRecovery
+55172,88,ShotOnPost,0.909000015258789,0.32099998474121094,0.08774255216121674,Shane Long,h,839,OpenPlay,2015,RightFoot,260,Southampton,Arsenal,4,0,2015-12-26 23:45:00,Dusan Tadic,Pass
+55173,88,BlockedShot,0.8690000152587891,0.5659999847412109,0.12323647737503052,Oriol Romeu,h,842,OpenPlay,2015,RightFoot,260,Southampton,Arsenal,4,0,2015-12-26 23:45:00,Dusan Tadic,Pass
+55174,89,BlockedShot,0.8859999847412109,0.674000015258789,0.07387591153383255,Juanmi,h,897,OpenPlay,2015,LeftFoot,260,Southampton,Arsenal,4,0,2015-12-26 23:45:00,Oriol Romeu,Pass
+55175,91,Goal,0.8959999847412109,0.34900001525878904,0.3998851478099823,Shane Long,h,839,OpenPlay,2015,RightFoot,260,Southampton,Arsenal,4,0,2015-12-26 23:45:00,Dusan Tadic,Throughball
+55176,93,BlockedShot,0.8469999694824218,0.48700000762939455,0.08801361173391342,Dusan Tadic,h,840,OpenPlay,2015,LeftFoot,260,Southampton,Arsenal,4,0,2015-12-26 23:45:00,,BallRecovery
+55155,1,MissedShots,0.875,0.5770000076293945,0.0177801214158535,Olivier Giroud,a,502,FromCorner,2015,Head,260,Southampton,Arsenal,4,0,2015-12-26 23:45:00,Mesut Özil,Cross
+55157,16,MissedShots,0.8780000305175781,0.515,0.028543321415781975,Olivier Giroud,a,502,OpenPlay,2015,Head,260,Southampton,Arsenal,4,0,2015-12-26 23:45:00,Mesut Özil,Aerial
+55158,16,SavedShot,0.8830000305175781,0.61,0.07023400068283081,Nacho Monreal,a,495,OpenPlay,2015,RightFoot,260,Southampton,Arsenal,4,0,2015-12-26 23:45:00,,Rebound
+55163,36,SavedShot,0.8619999694824219,0.3920000076293945,0.06262129545211792,Theo Walcott,a,503,OpenPlay,2015,LeftFoot,260,Southampton,Arsenal,4,0,2015-12-26 23:45:00,Aaron Ramsey,TakeOn
+55164,38,MissedShots,0.9119999694824219,0.63,0.01671113632619381,Theo Walcott,a,503,FromCorner,2015,Head,260,Southampton,Arsenal,4,0,2015-12-26 23:45:00,Mesut Özil,Cross
+55167,59,SavedShot,0.7730000305175782,0.5370000076293945,0.033418793231248856,Aaron Ramsey,a,504,OpenPlay,2015,RightFoot,260,Southampton,Arsenal,4,0,2015-12-26 23:45:00,Mesut Özil,Pass
+55170,79,SavedShot,0.9519999694824218,0.5359999847412109,0.5753552317619324,Mesut Özil,a,499,OpenPlay,2015,LeftFoot,260,Southampton,Arsenal,4,0,2015-12-26 23:45:00,Nacho Monreal,Challenge
+55171,83,SavedShot,0.874000015258789,0.5279999923706055,0.028401067480444908,Olivier Giroud,a,502,OpenPlay,2015,Head,260,Southampton,Arsenal,4,0,2015-12-26 23:45:00,Alex Oxlade-Chamberlain,Cross

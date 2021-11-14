@@ -1,0 +1,14 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+338667,13,Goal,0.8569999694824219,0.5120000076293946,0.1031595841050148,Antoine Griezmann,h,2270,OpenPlay,2019,RightFoot,12193,Barcelona,Alaves,4,1,2019-12-21 15:00:00,Luis Suárez,Pass
+338669,38,MissedShots,0.9730000305175781,0.39,0.24690552055835724,Lionel Messi,h,2097,OpenPlay,2019,RightFoot,12193,Barcelona,Alaves,4,1,2019-12-21 15:00:00,Antoine Griezmann,TakeOn
+338670,40,BlockedShot,0.779000015258789,0.3060000038146973,0.02406187541782856,Lionel Messi,h,2097,OpenPlay,2019,LeftFoot,12193,Barcelona,Alaves,4,1,2019-12-21 15:00:00,Arturo Vidal,Pass
+338671,44,Goal,0.9159999847412109,0.33,0.08364786952733994,Arturo Vidal,h,222,OpenPlay,2019,RightFoot,12193,Barcelona,Alaves,4,1,2019-12-21 15:00:00,Luis Suárez,Pass
+338675,68,Goal,0.7609999847412109,0.5979999923706054,0.031239503994584084,Lionel Messi,h,2097,OpenPlay,2019,LeftFoot,12193,Barcelona,Alaves,4,1,2019-12-21 15:00:00,Luis Suárez,Pass
+338676,71,BlockedShot,0.9730000305175781,0.5629999923706055,0.14228813350200653,Luis Suárez,h,2098,OpenPlay,2019,Head,12193,Barcelona,Alaves,4,1,2019-12-21 15:00:00,Arturo Vidal,Cross
+338677,74,Goal,0.885,0.5,0.7432776093482971,Luis Suárez,h,2098,Penalty,2019,RightFoot,12193,Barcelona,Alaves,4,1,2019-12-21 15:00:00,,Standard
+338678,85,MissedShots,0.7430000305175781,0.3729999923706055,0.05770689621567726,Lionel Messi,h,2097,DirectFreekick,2019,LeftFoot,12193,Barcelona,Alaves,4,1,2019-12-21 15:00:00,,Standard
+338668,27,MissedShots,0.850999984741211,0.515,0.06880956888198853,Mubarak Wakaso,a,2362,OpenPlay,2019,RightFoot,12193,Barcelona,Alaves,4,1,2019-12-21 15:00:00,Rubén Duarte,Chipped
+338672,55,Goal,0.88,0.5179999923706055,0.05129582807421684,Pere Pons,a,6117,OpenPlay,2019,Head,12193,Barcelona,Alaves,4,1,2019-12-21 15:00:00,Rubén Duarte,Cross
+338673,57,SavedShot,0.7130000305175781,0.720999984741211,0.01080646924674511,Aleix Vidal,a,2103,OpenPlay,2019,LeftFoot,12193,Barcelona,Alaves,4,1,2019-12-21 15:00:00,,BallRecovery
+338674,60,MissedShots,0.865,0.5270000076293946,0.026096921414136887,Rubén Duarte,a,2110,FromCorner,2019,Head,12193,Barcelona,Alaves,4,1,2019-12-21 15:00:00,Aleix Vidal,Cross
+338679,88,SavedShot,0.9669999694824218,0.6,0.27515357732772827,Manu García,a,5045,SetPiece,2019,LeftFoot,12193,Barcelona,Alaves,4,1,2019-12-21 15:00:00,Lucas Pérez,Cross

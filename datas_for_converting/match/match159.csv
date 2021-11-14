@@ -1,0 +1,32 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+58867,15,Goal,0.9280000305175782,0.504000015258789,0.13898497819900513,André Ayew,h,713,OpenPlay,2015,Head,159,Swansea,Tottenham,2,2,2015-10-04 19:00:00,Jefferson Montero,Cross
+58868,22,MissedShots,0.7290000152587891,0.4470000076293945,0.02178456075489521,Jonjo Shelvey,h,769,OpenPlay,2015,RightFoot,159,Swansea,Tottenham,2,2,2015-10-04 19:00:00,,None
+58874,32,BlockedShot,0.9169999694824219,0.25799999237060545,0.052818261086940765,Bafétimbi Gomis,h,717,OpenPlay,2015,LeftFoot,159,Swansea,Tottenham,2,2,2015-10-04 19:00:00,Jonjo Shelvey,Chipped
+58875,32,BlockedShot,0.81,0.685,0.036519307643175125,Ki Sung-yueng,h,723,OpenPlay,2015,RightFoot,159,Swansea,Tottenham,2,2,2015-10-04 19:00:00,Neil Taylor,Pass
+58881,46,MissedShots,0.9159999847412109,0.46900001525878904,0.06279837340116501,Bafétimbi Gomis,h,717,OpenPlay,2015,Head,159,Swansea,Tottenham,2,2,2015-10-04 19:00:00,Jefferson Montero,Aerial
+58882,53,BlockedShot,0.8019999694824219,0.5179999923706055,0.05527225509285927,Ki Sung-yueng,h,723,OpenPlay,2015,LeftFoot,159,Swansea,Tottenham,2,2,2015-10-04 19:00:00,Bafétimbi Gomis,Pass
+58883,53,MissedShots,0.7559999847412109,0.5309999847412109,0.017880162224173546,Gylfi Sigurdsson,h,714,FromCorner,2015,RightFoot,159,Swansea,Tottenham,2,2,2015-10-04 19:00:00,,None
+58884,54,MissedShots,0.9690000152587891,0.40700000762939453,0.17730429768562317,Bafétimbi Gomis,h,717,FromCorner,2015,Head,159,Swansea,Tottenham,2,2,2015-10-04 19:00:00,Gylfi Sigurdsson,Rebound
+58885,56,MissedShots,0.8480000305175781,0.29,0.053974464535713196,Bafétimbi Gomis,h,717,OpenPlay,2015,RightFoot,159,Swansea,Tottenham,2,2,2015-10-04 19:00:00,André Ayew,TakeOn
+58892,83,BlockedShot,0.8440000152587891,0.6329999923706054,0.05698387697339058,Jefferson Montero,h,715,OpenPlay,2015,RightFoot,159,Swansea,Tottenham,2,2,2015-10-04 19:00:00,Modou Barrow,Pass
+58895,91,SavedShot,0.909000015258789,0.5309999847412109,0.10365595668554306,Federico Fernández,h,708,SetPiece,2015,Head,159,Swansea,Tottenham,2,2,2015-10-04 19:00:00,Ki Sung-yueng,Cross
+58865,6,MissedShots,0.9290000152587891,0.4209999847412109,0.06722231209278107,Toby Alderweireld,a,639,FromCorner,2015,Head,159,Swansea,Tottenham,2,2,2015-10-04 19:00:00,Erik Lamela,Cross
+58866,11,SavedShot,0.7730000305175782,0.41,0.027692515403032303,Nacer Chadli,a,648,OpenPlay,2015,RightFoot,159,Swansea,Tottenham,2,2,2015-10-04 19:00:00,,BallRecovery
+58869,23,SavedShot,0.919000015258789,0.740999984741211,0.027275405824184418,Nacer Chadli,a,648,OpenPlay,2015,LeftFoot,159,Swansea,Tottenham,2,2,2015-10-04 19:00:00,Christian Eriksen,Chipped
+58870,23,BlockedShot,0.8019999694824219,0.7340000152587891,0.018607020378112793,Christian Eriksen,a,646,OpenPlay,2015,RightFoot,159,Swansea,Tottenham,2,2,2015-10-04 19:00:00,Dele Alli,Pass
+58871,26,Goal,0.7819999694824219,0.72,0.052573781460523605,Christian Eriksen,a,646,DirectFreekick,2015,RightFoot,159,Swansea,Tottenham,2,2,2015-10-04 19:00:00,,Standard
+58872,27,MissedShots,0.835,0.634000015258789,0.05796263366937637,Christian Eriksen,a,646,OpenPlay,2015,RightFoot,159,Swansea,Tottenham,2,2,2015-10-04 19:00:00,Ben Davies,TakeOn
+58873,30,OwnGoal,0.02200000047683716,0.4420000076293945,0,Harry Kane,a,647,FromCorner,2015,RightFoot,159,Swansea,Tottenham,2,2,2015-10-04 19:00:00,,CornerAwarded
+58876,32,SavedShot,0.8580000305175781,0.6469999694824219,0.09017805755138397,Harry Kane,a,647,OpenPlay,2015,LeftFoot,159,Swansea,Tottenham,2,2,2015-10-04 19:00:00,Erik Lamela,Pass
+58877,35,SavedShot,0.7480000305175781,0.40099998474121096,0.05681176111102104,Christian Eriksen,a,646,DirectFreekick,2015,RightFoot,159,Swansea,Tottenham,2,2,2015-10-04 19:00:00,,Standard
+58878,35,BlockedShot,0.855999984741211,0.720999984741211,0.03267867490649223,Harry Kane,a,647,OpenPlay,2015,RightFoot,159,Swansea,Tottenham,2,2,2015-10-04 19:00:00,Nacer Chadli,Pass
+58879,40,SavedShot,0.7869999694824219,0.39099998474121095,0.03200008347630501,Christian Eriksen,a,646,OpenPlay,2015,RightFoot,159,Swansea,Tottenham,2,2,2015-10-04 19:00:00,Erik Lamela,Pass
+58880,45,SavedShot,0.9430000305175781,0.445,0.43294718861579895,Harry Kane,a,647,OpenPlay,2015,RightFoot,159,Swansea,Tottenham,2,2,2015-10-04 19:00:00,Ben Davies,Pass
+58886,64,Goal,0.7909999847412109,0.7040000152587891,0.06094987317919731,Christian Eriksen,a,646,DirectFreekick,2015,RightFoot,159,Swansea,Tottenham,2,2,2015-10-04 19:00:00,,Standard
+58887,70,BlockedShot,0.7280000305175781,0.33599998474121096,0.01658746600151062,Andros Townsend,a,775,OpenPlay,2015,LeftFoot,159,Swansea,Tottenham,2,2,2015-10-04 19:00:00,Christian Eriksen,Pass
+58888,74,SavedShot,0.7219999694824218,0.49900001525878906,0.01779020205140114,Dele Alli,a,645,OpenPlay,2015,RightFoot,159,Swansea,Tottenham,2,2,2015-10-04 19:00:00,Harry Kane,Pass
+58889,77,MissedShots,0.8819999694824219,0.7290000152587891,0.03636655583977699,Clinton N&#039;Jie,a,960,OpenPlay,2015,RightFoot,159,Swansea,Tottenham,2,2,2015-10-04 19:00:00,Harry Kane,TakeOn
+58890,79,SavedShot,0.7390000152587891,0.49,0.010830176994204521,Andros Townsend,a,775,OpenPlay,2015,LeftFoot,159,Swansea,Tottenham,2,2,2015-10-04 19:00:00,Clinton N&#039;Jie,Chipped
+58891,80,SavedShot,0.8519999694824218,0.325,0.08722849935293198,Andros Townsend,a,775,OpenPlay,2015,LeftFoot,159,Swansea,Tottenham,2,2,2015-10-04 19:00:00,Jan Vertonghen,BallRecovery
+58893,88,BlockedShot,0.8319999694824218,0.325,0.03851740434765816,Andros Townsend,a,775,OpenPlay,2015,LeftFoot,159,Swansea,Tottenham,2,2,2015-10-04 19:00:00,Mousa Dembélé,Pass
+58894,89,MissedShots,0.7380000305175781,0.445,0.01720358058810234,Christian Eriksen,a,646,OpenPlay,2015,RightFoot,159,Swansea,Tottenham,2,2,2015-10-04 19:00:00,Ben Davies,Pass

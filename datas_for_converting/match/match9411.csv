@@ -1,0 +1,32 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+274530,12,BlockedShot,0.78,0.3579999923706055,0.02882043644785881,Ademola Lookman,h,5556,OpenPlay,2018,LeftFoot,9411,Everton,Bournemouth,2,0,2019-01-13 14:15:00,Bernard,TakeOn
+274532,13,BlockedShot,0.845,0.32099998474121094,0.042934827506542206,Ademola Lookman,h,5556,OpenPlay,2018,LeftFoot,9411,Everton,Bournemouth,2,0,2019-01-13 14:15:00,Bernard,Pass
+274537,30,MissedShots,0.885,0.40400001525878904,0.022146770730614662,Bernard,h,7063,OpenPlay,2018,Head,9411,Everton,Bournemouth,2,0,2019-01-13 14:15:00,Ademola Lookman,Cross
+274538,41,MissedShots,0.9069999694824219,0.46,0.022979313507676125,Richarlison,h,6026,FromCorner,2018,Head,9411,Everton,Bournemouth,2,0,2019-01-13 14:15:00,Gylfi Sigurdsson,Aerial
+274539,41,ShotOnPost,0.915,0.5109999847412109,0.28840985894203186,Michael Keane,h,1653,FromCorner,2018,Head,9411,Everton,Bournemouth,2,0,2019-01-13 14:15:00,Lucas Digne,Aerial
+274540,44,BlockedShot,0.769000015258789,0.710999984741211,0.04892202094197273,Lucas Digne,h,1823,DirectFreekick,2018,LeftFoot,9411,Everton,Bournemouth,2,0,2019-01-13 14:15:00,,Standard
+274541,44,BlockedShot,0.799000015258789,0.6969999694824218,0.015828192234039307,Lucas Digne,h,1823,SetPiece,2018,LeftFoot,9411,Everton,Bournemouth,2,0,2019-01-13 14:15:00,,Rebound
+274542,44,MissedShots,0.81,0.5540000152587891,0.0582771971821785,Gylfi Sigurdsson,h,714,OpenPlay,2018,LeftFoot,9411,Everton,Bournemouth,2,0,2019-01-13 14:15:00,Bernard,Pass
+274543,45,MissedShots,0.84,0.6580000305175782,0.04495704174041748,André Gomes,h,2383,OpenPlay,2018,LeftFoot,9411,Everton,Bournemouth,2,0,2019-01-13 14:15:00,Bernard,Pass
+274544,48,BlockedShot,0.9640000152587891,0.580999984741211,0.49050402641296387,Richarlison,h,6026,FromCorner,2018,RightFoot,9411,Everton,Bournemouth,2,0,2019-01-13 14:15:00,,None
+274547,54,MissedShots,0.7880000305175782,0.6509999847412109,0.017643872648477554,Bernard,h,7063,SetPiece,2018,RightFoot,9411,Everton,Bournemouth,2,0,2019-01-13 14:15:00,,None
+274548,60,Goal,0.9540000152587891,0.5570000076293945,0.43141263723373413,Kurt Zouma,h,935,FromCorner,2018,Head,9411,Everton,Bournemouth,2,0,2019-01-13 14:15:00,Lucas Digne,Cross
+274552,76,MissedShots,0.905,0.4929999923706055,0.06729215383529663,Richarlison,h,6026,OpenPlay,2018,Head,9411,Everton,Bournemouth,2,0,2019-01-13 14:15:00,Gylfi Sigurdsson,Chipped
+274553,82,MissedShots,0.9059999847412109,0.6759999847412109,0.10196247696876526,Richarlison,h,6026,OpenPlay,2018,LeftFoot,9411,Everton,Bournemouth,2,0,2019-01-13 14:15:00,Gylfi Sigurdsson,Pass
+274558,94,Goal,0.865999984741211,0.5829999923706055,0.10008450597524643,Dominic Calvert-Lewin,h,5555,OpenPlay,2018,RightFoot,9411,Everton,Bournemouth,2,0,2019-01-13 14:15:00,Ademola Lookman,Pass
+274528,7,SavedShot,0.9669999694824218,0.5379999923706055,0.13647569715976715,Joshua King,a,465,OpenPlay,2018,LeftFoot,9411,Everton,Bournemouth,2,0,2019-01-13 14:15:00,,BallTouch
+274529,11,MissedShots,0.7190000152587891,0.5259999847412109,0.01289032306522131,Jefferson Lerma,a,2182,OpenPlay,2018,RightFoot,9411,Everton,Bournemouth,2,0,2019-01-13 14:15:00,,None
+274531,13,ShotOnPost,0.89,0.35900001525878905,0.5296828150749207,David Brooks,a,6820,OpenPlay,2018,RightFoot,9411,Everton,Bournemouth,2,0,2019-01-13 14:15:00,Junior Stanislas,Throughball
+274533,25,SavedShot,0.8009999847412109,0.6659999847412109,0.07992702722549438,Junior Stanislas,a,463,DirectFreekick,2018,RightFoot,9411,Everton,Bournemouth,2,0,2019-01-13 14:15:00,,Standard
+274534,26,BlockedShot,0.740999984741211,0.7759999847412109,0.011818566359579563,Jefferson Lerma,a,2182,FromCorner,2018,RightFoot,9411,Everton,Bournemouth,2,0,2019-01-13 14:15:00,,None
+274535,26,MissedShots,0.7819999694824219,0.5420000076293945,0.02677345648407936,Dan Gosling,a,462,FromCorner,2018,RightFoot,9411,Everton,Bournemouth,2,0,2019-01-13 14:15:00,Nathan Aké,Pass
+274536,27,MissedShots,0.9,0.5770000076293945,0.046840425580739975,Joshua King,a,465,OpenPlay,2018,Head,9411,Everton,Bournemouth,2,0,2019-01-13 14:15:00,Ryan Fraser,Cross
+274545,50,MissedShots,0.9290000152587891,0.5770000076293945,0.06898902356624603,Steve Cook,a,458,FromCorner,2018,Head,9411,Everton,Bournemouth,2,0,2019-01-13 14:15:00,Ryan Fraser,Cross
+274546,51,MissedShots,0.8930000305175781,0.504000015258789,0.0686577633023262,David Brooks,a,6820,FromCorner,2018,LeftFoot,9411,Everton,Bournemouth,2,0,2019-01-13 14:15:00,Joshua King,Cross
+274549,64,MissedShots,0.85,0.69,0.09157449752092361,Joshua King,a,465,OpenPlay,2018,LeftFoot,9411,Everton,Bournemouth,2,0,2019-01-13 14:15:00,Ryan Fraser,Chipped
+274550,74,SavedShot,0.9590000152587891,0.5609999847412109,0.0816025510430336,Steve Cook,a,458,SetPiece,2018,Head,9411,Everton,Bournemouth,2,0,2019-01-13 14:15:00,Ryan Fraser,Aerial
+274551,75,SavedShot,0.955999984741211,0.5540000152587891,0.06793301552534103,Joshua King,a,465,FromCorner,2018,Head,9411,Everton,Bournemouth,2,0,2019-01-13 14:15:00,David Brooks,Aerial
+274554,87,SavedShot,0.9430000305175781,0.655,0.0727635994553566,Ryan Fraser,a,1683,OpenPlay,2018,LeftFoot,9411,Everton,Bournemouth,2,0,2019-01-13 14:15:00,Lys Mousset,Pass
+274555,91,BlockedShot,0.9130000305175782,0.41,0.10778117924928665,Dan Gosling,a,462,OpenPlay,2018,RightFoot,9411,Everton,Bournemouth,2,0,2019-01-13 14:15:00,Lys Mousset,Throughball
+274556,91,SavedShot,0.98,0.4,0.07954254746437073,Dan Gosling,a,462,OpenPlay,2018,RightFoot,9411,Everton,Bournemouth,2,0,2019-01-13 14:15:00,,Rebound
+274557,94,SavedShot,0.9230000305175782,0.3920000076293945,0.0536055862903595,Lys Mousset,a,1748,FromCorner,2018,RightFoot,9411,Everton,Bournemouth,2,0,2019-01-13 14:15:00,Ryan Fraser,Cross

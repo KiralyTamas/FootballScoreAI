@@ -1,0 +1,25 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+315661,3,SavedShot,0.915,0.27,0.11398516595363617,Joao Victor,h,7784,OpenPlay,2019,RightFoot,12422,Wolfsburg,Paderborn,1,1,2019-08-31 14:30:00,Josip Brekalo,Throughball
+315662,3,MissedShots,0.7780000305175782,0.24399999618530274,0.018231092020869255,William,h,6229,OpenPlay,2019,RightFoot,12422,Wolfsburg,Paderborn,1,1,2019-08-31 14:30:00,Xaver Schlager,Pass
+315663,8,MissedShots,0.9009999847412109,0.5659999847412109,0.1234237551689148,Xaver Schlager,h,7783,OpenPlay,2019,RightFoot,12422,Wolfsburg,Paderborn,1,1,2019-08-31 14:30:00,Josip Brekalo,Pass
+315665,17,SavedShot,0.735,0.4570000076293945,0.02012806199491024,Maximilian Arnold,h,153,OpenPlay,2019,LeftFoot,12422,Wolfsburg,Paderborn,1,1,2019-08-31 14:30:00,Joao Victor,Pass
+315667,29,MissedShots,0.8859999847412109,0.47299999237060547,0.015811562538146973,Wout Weghorst,h,7052,FromCorner,2019,Head,12422,Wolfsburg,Paderborn,1,1,2019-08-31 14:30:00,Maximilian Arnold,Aerial
+315668,41,MissedShots,0.8819999694824219,0.51,0.015599071979522705,Wout Weghorst,h,7052,FromCorner,2019,Head,12422,Wolfsburg,Paderborn,1,1,2019-08-31 14:30:00,Maximilian Arnold,Aerial
+315672,55,Goal,0.7869999694824219,0.33,0.020865900442004204,Josip Brekalo,h,5353,OpenPlay,2019,RightFoot,12422,Wolfsburg,Paderborn,1,1,2019-08-31 14:30:00,Wout Weghorst,Pass
+315673,56,SavedShot,0.8919999694824219,0.3659999847412109,0.04369089752435684,Wout Weghorst,h,7052,OpenPlay,2019,RightFoot,12422,Wolfsburg,Paderborn,1,1,2019-08-31 14:30:00,Maximilian Arnold,Cross
+315674,57,BlockedShot,0.7240000152587891,0.5820000076293945,0.025215119123458862,Jérôme Roussillon,h,3339,FromCorner,2019,RightFoot,12422,Wolfsburg,Paderborn,1,1,2019-08-31 14:30:00,Maximilian Arnold,Pass
+315676,75,BlockedShot,0.7969999694824219,0.24899999618530275,0.02767937071621418,Josip Brekalo,h,5353,OpenPlay,2019,RightFoot,12422,Wolfsburg,Paderborn,1,1,2019-08-31 14:30:00,Wout Weghorst,Pass
+315677,76,MissedShots,0.8830000305175781,0.5479999923706055,0.035221826285123825,Wout Weghorst,h,7052,FromCorner,2019,Head,12422,Wolfsburg,Paderborn,1,1,2019-08-31 14:30:00,Admir Mehmedi,Cross
+315679,77,BlockedShot,0.7969999694824219,0.34900001525878904,0.02979518100619316,Maximilian Arnold,h,153,OpenPlay,2019,LeftFoot,12422,Wolfsburg,Paderborn,1,1,2019-08-31 14:30:00,Josip Brekalo,Pass
+315680,78,BlockedShot,0.8380000305175781,0.620999984741211,0.03956914693117142,Josip Brekalo,h,5353,FromCorner,2019,RightFoot,12422,Wolfsburg,Paderborn,1,1,2019-08-31 14:30:00,,None
+315681,79,MissedShots,0.8009999847412109,0.6659999847412109,0.029630664736032486,Jérôme Roussillon,h,3339,OpenPlay,2019,RightFoot,12422,Wolfsburg,Paderborn,1,1,2019-08-31 14:30:00,Wout Weghorst,Pass
+315682,82,MissedShots,0.43400001525878906,0.38599998474121094,0.007226230576634407,Admir Mehmedi,h,194,OpenPlay,2019,RightFoot,12422,Wolfsburg,Paderborn,1,1,2019-08-31 14:30:00,Robin Knoche,Pass
+315684,93,BlockedShot,0.9059999847412109,0.575,0.42999377846717834,Felix Klaus,h,350,OpenPlay,2019,LeftFoot,12422,Wolfsburg,Paderborn,1,1,2019-08-31 14:30:00,,None
+315664,11,Goal,0.8059999847412109,0.485,0.05106692761182785,Cauly Oliveira Souza,a,7801,OpenPlay,2019,RightFoot,12422,Wolfsburg,Paderborn,1,1,2019-08-31 14:30:00,Streli Mamba,Pass
+315666,22,MissedShots,0.8619999694824219,0.30700000762939456,0.03221067786216736,Christopher Antwi-Adjei,a,7798,FromCorner,2019,LeftFoot,12422,Wolfsburg,Paderborn,1,1,2019-08-31 14:30:00,Sebastian Vasiliadis,Pass
+315669,44,SavedShot,0.8640000152587891,0.5790000152587891,0.10664801299571991,Christopher Antwi-Adjei,a,7798,OpenPlay,2019,RightFoot,12422,Wolfsburg,Paderborn,1,1,2019-08-31 14:30:00,Sven Michel,Pass
+315670,50,BlockedShot,0.769000015258789,0.3940000152587891,0.032927580177783966,Sven Michel,a,7799,OpenPlay,2019,LeftFoot,12422,Wolfsburg,Paderborn,1,1,2019-08-31 14:30:00,Sebastian Vasiliadis,Pass
+315671,52,BlockedShot,0.86,0.700999984741211,0.09990054368972778,Streli Mamba,a,7800,OpenPlay,2019,RightFoot,12422,Wolfsburg,Paderborn,1,1,2019-08-31 14:30:00,Uwe Hünemeier,TakeOn
+315675,74,SavedShot,0.8930000305175781,0.7469999694824219,0.027109580114483833,Sven Michel,a,7799,OpenPlay,2019,LeftFoot,12422,Wolfsburg,Paderborn,1,1,2019-08-31 14:30:00,Christopher Antwi-Adjei,Pass
+315678,77,BlockedShot,0.9059999847412109,0.45799999237060546,0.13086603581905365,Sebastian Vasiliadis,a,7797,OpenPlay,2019,RightFoot,12422,Wolfsburg,Paderborn,1,1,2019-08-31 14:30:00,Christopher Antwi-Adjei,Pass
+315683,90,MissedShots,0.7780000305175782,0.7630000305175781,0.01157014723867178,Ben Zolinski,a,7802,OpenPlay,2019,RightFoot,12422,Wolfsburg,Paderborn,1,1,2019-08-31 14:30:00,,None

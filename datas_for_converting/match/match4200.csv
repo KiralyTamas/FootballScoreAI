@@ -1,0 +1,29 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+108730,0,MissedShots,0.8380000305175781,0.735999984741211,0.02693825215101242,Keagan Dolly,h,5663,OpenPlay,2016,LeftFoot,4200,Montpellier,Nantes,2,3,2017-03-11 19:00:00,Ryad Boudebouz,Pass
+108734,11,Goal,0.92,0.47400001525878904,0.05976007878780365,Steve Mounie,h,3800,SetPiece,2016,Head,4200,Montpellier,Nantes,2,3,2017-03-11 19:00:00,Ryad Boudebouz,Aerial
+108738,30,SavedShot,0.865999984741211,0.5829999923706055,0.09263927489519119,Ryad Boudebouz,h,3343,OpenPlay,2016,LeftFoot,4200,Montpellier,Nantes,2,3,2017-03-11 19:00:00,Isaac Mbenza,Pass
+108740,36,MissedShots,0.8119999694824219,0.5029999923706054,0.04733647033572197,Ryad Boudebouz,h,3343,SetPiece,2016,LeftFoot,4200,Montpellier,Nantes,2,3,2017-03-11 19:00:00,Stéphane Sessegnon,Pass
+108741,38,SavedShot,0.965999984741211,0.39,0.34667253494262695,Steve Mounie,h,3800,OpenPlay,2016,RightFoot,4200,Montpellier,Nantes,2,3,2017-03-11 19:00:00,Ryad Boudebouz,Throughball
+108745,59,SavedShot,0.8719999694824219,0.46,0.0350898802280426,Steve Mounie,h,3800,OpenPlay,2016,Head,4200,Montpellier,Nantes,2,3,2017-03-11 19:00:00,Nordi Mukiele,Cross
+108746,60,BlockedShot,0.7319999694824219,0.29100000381469726,0.01041540689766407,Stéphane Sessegnon,h,810,OpenPlay,2016,RightFoot,4200,Montpellier,Nantes,2,3,2017-03-11 19:00:00,,None
+108747,66,SavedShot,0.8959999847412109,0.425,0.38259753584861755,Jonathan Ikone,h,5661,OpenPlay,2016,LeftFoot,4200,Montpellier,Nantes,2,3,2017-03-11 19:00:00,Isaac Mbenza,Pass
+108748,66,BlockedShot,0.86,0.34200000762939453,0.043157074600458145,Stéphane Sessegnon,h,810,OpenPlay,2016,RightFoot,4200,Montpellier,Nantes,2,3,2017-03-11 19:00:00,,Rebound
+108752,71,MissedShots,0.895,0.629000015258789,0.07401265949010849,Jonathan Ikone,h,5661,OpenPlay,2016,RightFoot,4200,Montpellier,Nantes,2,3,2017-03-11 19:00:00,Jérôme Roussillon,TakeOn
+108753,75,SavedShot,0.8530000305175781,0.515,0.06661311537027359,Jonathan Ikone,h,5661,OpenPlay,2016,LeftFoot,4200,Montpellier,Nantes,2,3,2017-03-11 19:00:00,Isaac Mbenza,HeadPass
+108754,83,Goal,0.795,0.40200000762939453,0.10302486270666122,Ryad Boudebouz,h,3343,DirectFreekick,2016,LeftFoot,4200,Montpellier,Nantes,2,3,2017-03-11 19:00:00,,Standard
+108755,86,SavedShot,0.875,0.5179999923706055,0.05212927609682083,Steve Mounie,h,3800,FromCorner,2016,RightFoot,4200,Montpellier,Nantes,2,3,2017-03-11 19:00:00,Ryad Boudebouz,Cross
+108757,91,MissedShots,0.7380000305175781,0.4470000076293945,0.01827014982700348,Stéphane Sessegnon,h,810,OpenPlay,2016,RightFoot,4200,Montpellier,Nantes,2,3,2017-03-11 19:00:00,Souleymane Camara,Pass
+108731,2,MissedShots,0.91,0.28100000381469725,0.10618747770786285,Prejuce Nakoulma,a,5715,OpenPlay,2016,RightFoot,4200,Montpellier,Nantes,2,3,2017-03-11 19:00:00,Valentin Rongier,Throughball
+108732,6,SavedShot,0.89,0.395,0.10409973561763763,Adrien Thomasson,a,3549,OpenPlay,2016,RightFoot,4200,Montpellier,Nantes,2,3,2017-03-11 19:00:00,Jules Iloki,Pass
+108733,7,MissedShots,0.8530000305175781,0.4540000152587891,0.09279987215995789,Jules Iloki,a,3413,OpenPlay,2016,LeftFoot,4200,Montpellier,Nantes,2,3,2017-03-11 19:00:00,Adrien Thomasson,TakeOn
+108735,13,SavedShot,0.8730000305175781,0.5770000076293945,0.1395682692527771,Yacine Bammou,a,3410,OpenPlay,2016,Head,4200,Montpellier,Nantes,2,3,2017-03-11 19:00:00,Lucas Lima,Cross
+108736,23,Goal,0.9890000152587891,0.534000015258789,0.9437987804412842,Prejuce Nakoulma,a,5715,OpenPlay,2016,LeftFoot,4200,Montpellier,Nantes,2,3,2017-03-11 19:00:00,,None
+108737,27,SavedShot,0.955,0.519000015258789,0.22924235463142395,Yacine Bammou,a,3410,SetPiece,2016,OtherBodyPart,4200,Montpellier,Nantes,2,3,2017-03-11 19:00:00,Léo Dubois,Cross
+108739,34,MissedShots,0.9030000305175782,0.3139999961853027,0.05819401890039444,Adrien Thomasson,a,3549,OpenPlay,2016,LeftFoot,4200,Montpellier,Nantes,2,3,2017-03-11 19:00:00,Léo Dubois,Chipped
+108742,47,BlockedShot,0.8030000305175782,0.39799999237060546,0.03538501635193825,Yacine Bammou,a,3410,OpenPlay,2016,RightFoot,4200,Montpellier,Nantes,2,3,2017-03-11 19:00:00,Prejuce Nakoulma,Pass
+108743,49,MissedShots,0.85,0.56,0.031966861337423325,Adrien Thomasson,a,3549,FromCorner,2016,Head,4200,Montpellier,Nantes,2,3,2017-03-11 19:00:00,,None
+108744,51,SavedShot,0.7909999847412109,0.5379999923706055,0.03853034973144531,Léo Dubois,a,3412,OpenPlay,2016,LeftFoot,4200,Montpellier,Nantes,2,3,2017-03-11 19:00:00,,None
+108749,67,MissedShots,0.905,0.32799999237060545,0.03012334741652012,Jules Iloki,a,3413,OpenPlay,2016,RightFoot,4200,Montpellier,Nantes,2,3,2017-03-11 19:00:00,Lucas Lima,Cross
+108750,67,MissedShots,0.9319999694824219,0.5629999923706055,0.4491264522075653,Adrien Thomasson,a,3549,OpenPlay,2016,RightFoot,4200,Montpellier,Nantes,2,3,2017-03-11 19:00:00,Jules Iloki,Rebound
+108751,67,Goal,0.9230000305175782,0.46599998474121096,0.4766230881214142,Prejuce Nakoulma,a,5715,OpenPlay,2016,LeftFoot,4200,Montpellier,Nantes,2,3,2017-03-11 19:00:00,,Rebound
+108756,88,Goal,0.865,0.5940000152587891,0.09899215400218964,Emiliano Sala,a,3406,OpenPlay,2016,RightFoot,4200,Montpellier,Nantes,2,3,2017-03-11 19:00:00,Alexander Kacaniklic,TakeOn

@@ -1,0 +1,29 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+89775,11,MissedShots,0.905,0.5320000076293945,0.08833568543195724,Miku,h,2170,OpenPlay,2015,RightFoot,1644,Rayo Vallecano,Sevilla,2,2,2016-02-21 15:00:00,Bebé,Cross
+89780,23,MissedShots,0.8580000305175781,0.3120000076293945,0.04333486407995224,Bebé,h,2168,OpenPlay,2015,LeftFoot,1644,Rayo Vallecano,Sevilla,2,2,2016-02-21 15:00:00,Miku,Pass
+89781,26,MissedShots,0.8880000305175781,0.38799999237060545,0.05069467052817345,Pablo Hernández,h,2164,OpenPlay,2015,RightFoot,1644,Rayo Vallecano,Sevilla,2,2,2016-02-21 15:00:00,Tito,HeadPass
+89783,42,Goal,0.9690000152587891,0.5070000076293946,0.6102756857872009,Manucho,h,2171,OpenPlay,2015,LeftFoot,1644,Rayo Vallecano,Sevilla,2,2,2016-02-21 15:00:00,Adrián Embarba,Cross
+89785,47,SavedShot,0.7680000305175781,0.3160000038146973,0.02157110720872879,Adrián Embarba,h,2166,OpenPlay,2015,LeftFoot,1644,Rayo Vallecano,Sevilla,2,2,2016-02-21 15:00:00,Roberto Trashorras,Pass
+89788,50,MissedShots,0.8090000152587891,0.549000015258789,0.039523664861917496,Zé Castro,h,2487,SetPiece,2015,RightFoot,1644,Rayo Vallecano,Sevilla,2,2,2016-02-21 15:00:00,,None
+89789,52,MissedShots,0.885,0.46,0.0627615824341774,Manucho,h,2171,OpenPlay,2015,Head,1644,Rayo Vallecano,Sevilla,2,2,2016-02-21 15:00:00,Tito,Cross
+89791,55,SavedShot,0.9590000152587891,0.615999984741211,0.07887908071279526,Miku,h,2170,OpenPlay,2015,LeftFoot,1644,Rayo Vallecano,Sevilla,2,2,2016-02-21 15:00:00,Jozabed,Pass
+89793,59,BlockedShot,0.8130000305175781,0.3160000038146973,0.02400442399084568,Bebé,h,2168,SetPiece,2015,RightFoot,1644,Rayo Vallecano,Sevilla,2,2,2016-02-21 15:00:00,Roberto Trashorras,BallTouch
+89794,59,MissedShots,0.7830000305175782,0.66,0.01923486404120922,Pablo Hernández,h,2164,FromCorner,2015,RightFoot,1644,Rayo Vallecano,Sevilla,2,2,2016-02-21 15:00:00,,None
+89795,61,Goal,0.95,0.54,0.5033321976661682,Miku,h,2170,OpenPlay,2015,LeftFoot,1644,Rayo Vallecano,Sevilla,2,2,2016-02-21 15:00:00,Bebé,Cross
+89796,70,MissedShots,0.8669999694824219,0.30700000762939456,0.06397244334220886,Bebé,h,2168,OpenPlay,2015,RightFoot,1644,Rayo Vallecano,Sevilla,2,2,2016-02-21 15:00:00,Juan Carlos,TakeOn
+89797,77,SavedShot,0.93,0.26600000381469724,0.031766556203365326,Miku,h,2170,OpenPlay,2015,RightFoot,1644,Rayo Vallecano,Sevilla,2,2,2016-02-21 15:00:00,Chechu Dorado,Pass
+89798,80,MissedShots,0.765,0.5870000076293945,0.023860882967710495,Jozabed,h,2165,OpenPlay,2015,RightFoot,1644,Rayo Vallecano,Sevilla,2,2,2016-02-21 15:00:00,Pablo Hernández,Pass
+89773,9,SavedShot,0.9330000305175781,0.43900001525878907,0.10294205695390701,Kevin Gameiro,a,2442,FromCorner,2015,Head,1644,Rayo Vallecano,Sevilla,2,2,2016-02-21 15:00:00,Michael Krohn-Dehli,Cross
+89774,9,Goal,0.9769999694824218,0.5220000076293946,0.7597874402999878,Steven N&#039;Zonzi,a,2413,FromCorner,2015,LeftFoot,1644,Rayo Vallecano,Sevilla,2,2,2016-02-21 15:00:00,Coke,Rebound
+89776,16,SavedShot,0.8969999694824219,0.4470000076293945,0.023806121200323105,Steven N&#039;Zonzi,a,2413,SetPiece,2015,Head,1644,Rayo Vallecano,Sevilla,2,2,2016-02-21 15:00:00,Michael Krohn-Dehli,Aerial
+89777,19,SavedShot,0.91,0.375,0.11063583195209503,Vitolo,a,2511,OpenPlay,2015,RightFoot,1644,Rayo Vallecano,Sevilla,2,2,2016-02-21 15:00:00,Kevin Gameiro,Pass
+89778,19,Goal,0.9319999694824219,0.5129999923706055,0.5965606570243835,Vicente Iborra,a,2065,OpenPlay,2015,LeftFoot,1644,Rayo Vallecano,Sevilla,2,2,2016-02-21 15:00:00,Kevin Gameiro,Rebound
+89779,20,ShotOnPost,0.885,0.5729999923706055,0.320186972618103,Vicente Iborra,a,2065,OpenPlay,2015,RightFoot,1644,Rayo Vallecano,Sevilla,2,2,2016-02-21 15:00:00,Vitolo,Pass
+89782,38,BlockedShot,0.93,0.649000015258789,0.05028143897652626,Kevin Gameiro,a,2442,FromCorner,2015,RightFoot,1644,Rayo Vallecano,Sevilla,2,2,2016-02-21 15:00:00,Steven N&#039;Zonzi,HeadPass
+89784,47,SavedShot,0.899000015258789,0.5529999923706055,0.01883605681359768,Federico Fazio,a,1000,FromCorner,2015,Head,1644,Rayo Vallecano,Sevilla,2,2,2016-02-21 15:00:00,Michael Krohn-Dehli,Aerial
+89786,48,MissedShots,0.9269999694824219,0.445,0.11620882153511047,Kevin Gameiro,a,2442,OpenPlay,2015,RightFoot,1644,Rayo Vallecano,Sevilla,2,2,2016-02-21 15:00:00,Vitolo,Cross
+89787,48,MissedShots,0.9669999694824218,0.5479999923706055,0.6460210084915161,Michael Krohn-Dehli,a,2443,OpenPlay,2015,LeftFoot,1644,Rayo Vallecano,Sevilla,2,2,2016-02-21 15:00:00,,Rebound
+89790,53,SavedShot,0.9219999694824219,0.534000015258789,0.10810471326112747,Adil Rami,a,2412,FromCorner,2015,Head,1644,Rayo Vallecano,Sevilla,2,2,2016-02-21 15:00:00,Michael Krohn-Dehli,Cross
+89792,57,MissedShots,0.9540000152587891,0.4490000152587891,0.5325097441673279,Kevin Gameiro,a,2442,SetPiece,2015,RightFoot,1644,Rayo Vallecano,Sevilla,2,2,2016-02-21 15:00:00,Vicente Iborra,HeadPass
+89799,82,BlockedShot,0.8980000305175782,0.36,0.059500522911548615,Kevin Gameiro,a,2442,FromCorner,2015,LeftFoot,1644,Rayo Vallecano,Sevilla,2,2,2016-02-21 15:00:00,,None
+89800,86,MissedShots,0.9519999694824218,0.555,0.14705213904380798,Kevin Gameiro,a,2442,OpenPlay,2015,Head,1644,Rayo Vallecano,Sevilla,2,2,2016-02-21 15:00:00,Benoît Trémoulinas,Cross

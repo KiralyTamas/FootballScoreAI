@@ -1,0 +1,29 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+31898,8,MissedShots,0.7959999847412109,0.3770000076293945,0.031349264085292816,Jimmy Briand,h,3477,OpenPlay,2014,RightFoot,5254,Hannover 96,Borussia Dortmund,2,3,2015-03-21 14:30:00,,None
+31900,13,SavedShot,0.87,0.29399999618530276,0.04025469347834587,Lars Stindl,h,208,OpenPlay,2014,LeftFoot,5254,Hannover 96,Borussia Dortmund,2,3,2015-03-21 14:30:00,Hiroshi Kiyotake,Pass
+31901,17,MissedShots,0.759000015258789,0.515,0.019321369007229805,Jimmy Briand,h,3477,FromCorner,2014,LeftFoot,5254,Hannover 96,Borussia Dortmund,2,3,2015-03-21 14:30:00,,None
+31903,22,BlockedShot,0.8719999694824219,0.43,0.05854080617427826,Joselu,h,866,OpenPlay,2014,RightFoot,5254,Hannover 96,Borussia Dortmund,2,3,2015-03-21 14:30:00,Lars Stindl,Cross
+31904,23,BlockedShot,0.899000015258789,0.46,0.03763232007622719,Felipe,h,105,FromCorner,2014,OtherBodyPart,5254,Hannover 96,Borussia Dortmund,2,3,2015-03-21 14:30:00,Hiroshi Kiyotake,Aerial
+31905,23,BlockedShot,0.875999984741211,0.3940000152587891,0.07157228142023087,Joselu,h,866,FromCorner,2014,LeftFoot,5254,Hannover 96,Borussia Dortmund,2,3,2015-03-21 14:30:00,,Rebound
+31906,30,Goal,0.875999984741211,0.565,0.1350618302822113,Lars Stindl,h,208,OpenPlay,2014,RightFoot,5254,Hannover 96,Borussia Dortmund,2,3,2015-03-21 14:30:00,Leonardo Bittencourt,Pass
+31907,33,MissedShots,0.825,0.5690000152587891,0.2901659309864044,Leonardo Bittencourt,h,262,OpenPlay,2014,LeftFoot,5254,Hannover 96,Borussia Dortmund,2,3,2015-03-21 14:30:00,Jimmy Briand,Pass
+31908,35,MissedShots,0.8919999694824219,0.5420000076293945,0.03540536388754845,Marcelo,h,93,OpenPlay,2014,Head,5254,Hannover 96,Borussia Dortmund,2,3,2015-03-21 14:30:00,Lars Stindl,Aerial
+31909,44,BlockedShot,0.740999984741211,0.41,0.015222241170704365,Christian Schulz,h,94,OpenPlay,2014,LeftFoot,5254,Hannover 96,Borussia Dortmund,2,3,2015-03-21 14:30:00,,None
+31910,46,SavedShot,0.865999984741211,0.6880000305175781,0.006949324626475573,Salif Sané,h,96,SetPiece,2014,Head,5254,Hannover 96,Borussia Dortmund,2,3,2015-03-21 14:30:00,Hiroshi Kiyotake,Aerial
+31911,52,BlockedShot,0.9730000305175781,0.605999984741211,0.04685131832957268,Joselu,h,866,OpenPlay,2014,Head,5254,Hannover 96,Borussia Dortmund,2,3,2015-03-21 14:30:00,Hiroki Sakai,Cross
+31912,55,BlockedShot,0.91,0.28899999618530275,0.053528402000665665,Jimmy Briand,h,3477,OpenPlay,2014,RightFoot,5254,Hannover 96,Borussia Dortmund,2,3,2015-03-21 14:30:00,Hiroki Sakai,Pass
+31921,81,Goal,0.7919999694824219,0.6,0.03834822401404381,Lars Stindl,h,208,OpenPlay,2014,RightFoot,5254,Hannover 96,Borussia Dortmund,2,3,2015-03-21 14:30:00,Hiroshi Kiyotake,Pass
+31924,91,MissedShots,0.7380000305175781,0.3629999923706055,0.05011869966983795,Leon Andreasen,h,99,DirectFreekick,2014,RightFoot,5254,Hannover 96,Borussia Dortmund,2,3,2015-03-21 14:30:00,,Standard
+31897,0,SavedShot,0.7980000305175782,0.6,0.03405141085386276,Jakub Blaszczykowski,a,1966,OpenPlay,2014,LeftFoot,5254,Hannover 96,Borussia Dortmund,2,3,2015-03-21 14:30:00,Neven Subotic,Pass
+31899,10,BlockedShot,0.8680000305175781,0.6669999694824219,0.05946097895503044,Shinji Kagawa,a,321,OpenPlay,2014,LeftFoot,5254,Hannover 96,Borussia Dortmund,2,3,2015-03-21 14:30:00,Sokratis,Pass
+31902,18,Goal,0.8619999694824219,0.3840000152587891,0.3384210765361786,Pierre-Emerick Aubameyang,a,318,OpenPlay,2014,RightFoot,5254,Hannover 96,Borussia Dortmund,2,3,2015-03-21 14:30:00,Marco Reus,Throughball
+31913,56,Goal,0.9330000305175781,0.47400001525878904,0.5806007385253906,Shinji Kagawa,a,321,OpenPlay,2014,RightFoot,5254,Hannover 96,Borussia Dortmund,2,3,2015-03-21 14:30:00,Marco Reus,Pass
+31914,60,Goal,0.9630000305175781,0.4759999847412109,0.6044361591339111,Pierre-Emerick Aubameyang,a,318,OpenPlay,2014,Head,5254,Hannover 96,Borussia Dortmund,2,3,2015-03-21 14:30:00,Shinji Kagawa,Chipped
+31915,63,BlockedShot,0.7909999847412109,0.5529999923706055,0.05397919937968254,Ilkay Gündogan,a,314,OpenPlay,2014,RightFoot,5254,Hannover 96,Borussia Dortmund,2,3,2015-03-21 14:30:00,Marco Reus,Pass
+31916,65,BlockedShot,0.8819999694824219,0.38,0.11635531485080719,Marco Reus,a,319,OpenPlay,2014,RightFoot,5254,Hannover 96,Borussia Dortmund,2,3,2015-03-21 14:30:00,Jakub Blaszczykowski,Pass
+31917,74,MissedShots,0.7759999847412109,0.295,0.01550892274826765,Marco Reus,a,319,FromCorner,2014,RightFoot,5254,Hannover 96,Borussia Dortmund,2,3,2015-03-21 14:30:00,,None
+31918,75,SavedShot,0.8819999694824219,0.28299999237060547,0.05849350988864899,Sokratis,a,371,OpenPlay,2014,RightFoot,5254,Hannover 96,Borussia Dortmund,2,3,2015-03-21 14:30:00,Marco Reus,Pass
+31919,79,SavedShot,0.835999984741211,0.5179999923706055,0.26702994108200073,Marco Reus,a,319,OpenPlay,2014,RightFoot,5254,Hannover 96,Borussia Dortmund,2,3,2015-03-21 14:30:00,Jakub Blaszczykowski,Pass
+31920,80,MissedShots,0.754000015258789,0.44099998474121094,0.014090699143707752,Jakub Blaszczykowski,a,1966,FromCorner,2014,LeftFoot,5254,Hannover 96,Borussia Dortmund,2,3,2015-03-21 14:30:00,,Aerial
+31922,85,MissedShots,0.9619999694824218,0.625999984741211,0.035353485494852066,Sebastian Kehl,a,4239,SetPiece,2014,LeftFoot,5254,Hannover 96,Borussia Dortmund,2,3,2015-03-21 14:30:00,Marco Reus,Cross
+31923,85,MissedShots,0.9519999694824218,0.495,0.1415071040391922,Sokratis,a,371,SetPiece,2014,Head,5254,Hannover 96,Borussia Dortmund,2,3,2015-03-21 14:30:00,Sebastian Kehl,Rebound

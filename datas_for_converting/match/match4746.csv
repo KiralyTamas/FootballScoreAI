@@ -1,0 +1,23 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+15675,9,BlockedShot,0.8159999847412109,0.5,0.04672529548406601,Jack Wilshere,h,1036,SetPiece,2014,LeftFoot,4746,Arsenal,Tottenham,1,1,2014-09-27 17:30:00,,None
+15676,13,BlockedShot,0.88,0.305,0.09114361554384232,Danny Welbeck,h,501,OpenPlay,2014,RightFoot,4746,Arsenal,Tottenham,1,1,2014-09-27 17:30:00,Aaron Ramsey,GoodSkill
+15677,20,SavedShot,0.8090000152587891,0.6869999694824219,0.017400914803147316,Danny Welbeck,h,501,OpenPlay,2014,RightFoot,4746,Arsenal,Tottenham,1,1,2014-09-27 17:30:00,Alex Oxlade-Chamberlain,Cross
+15679,25,SavedShot,0.78,0.43599998474121093,0.03779592737555504,Jack Wilshere,h,1036,OpenPlay,2014,LeftFoot,4746,Arsenal,Tottenham,1,1,2014-09-27 17:30:00,Danny Welbeck,LayOff
+15680,42,SavedShot,0.7719999694824219,0.5729999923706055,0.02730804681777954,Alex Oxlade-Chamberlain,h,966,OpenPlay,2014,RightFoot,4746,Arsenal,Tottenham,1,1,2014-09-27 17:30:00,Aaron Ramsey,Pass
+15682,46,BlockedShot,0.7380000305175781,0.4329999923706055,0.014747785404324532,Alex Oxlade-Chamberlain,h,966,OpenPlay,2014,RightFoot,4746,Arsenal,Tottenham,1,1,2014-09-27 17:30:00,,None
+15684,46,MissedShots,0.9,0.669000015258789,0.0739886537194252,Santiago Cazorla,h,965,OpenPlay,2014,LeftFoot,4746,Arsenal,Tottenham,1,1,2014-09-27 17:30:00,Alex Oxlade-Chamberlain,Pass
+15685,49,SavedShot,0.9,0.3509999847412109,0.12405391037464142,Mesut Özil,h,499,OpenPlay,2014,LeftFoot,4746,Arsenal,Tottenham,1,1,2014-09-27 17:30:00,Jack Wilshere,Throughball
+15686,53,MissedShots,0.8119999694824219,0.4929999923706055,0.03693319484591484,Mathieu Flamini,h,895,FromCorner,2014,LeftFoot,4746,Arsenal,Tottenham,1,1,2014-09-27 17:30:00,,None
+15689,57,SavedShot,0.9080000305175782,0.43599998474121093,0.08371439576148987,Per Mertesacker,h,507,SetPiece,2014,Head,4746,Arsenal,Tottenham,1,1,2014-09-27 17:30:00,Mesut Özil,Cross
+15690,58,BlockedShot,0.9119999694824219,0.3609999847412109,0.10538570582866669,Danny Welbeck,h,501,OpenPlay,2014,LeftFoot,4746,Arsenal,Tottenham,1,1,2014-09-27 17:30:00,Mesut Özil,Throughball
+15692,72,MissedShots,0.7719999694824219,0.38599998474121094,0.02361367829144001,Calum Chambers,h,508,OpenPlay,2014,RightFoot,4746,Arsenal,Tottenham,1,1,2014-09-27 17:30:00,,None
+15693,73,BlockedShot,0.8530000305175781,0.25799999237060545,0.028046930208802223,Danny Welbeck,h,501,OpenPlay,2014,LeftFoot,4746,Arsenal,Tottenham,1,1,2014-09-27 17:30:00,Alex Oxlade-Chamberlain,Pass
+15694,73,BlockedShot,0.8590000152587891,0.6759999847412109,0.03637124225497246,Santiago Cazorla,h,965,OpenPlay,2014,LeftFoot,4746,Arsenal,Tottenham,1,1,2014-09-27 17:30:00,Alexis Sánchez,Pass
+15695,73,Goal,0.9319999694824219,0.46700000762939453,0.5270124673843384,Alex Oxlade-Chamberlain,h,966,OpenPlay,2014,RightFoot,4746,Arsenal,Tottenham,1,1,2014-09-27 17:30:00,,Rebound
+15696,78,BlockedShot,0.7480000305175781,0.22899999618530273,0.009629340842366219,Calum Chambers,h,508,OpenPlay,2014,RightFoot,4746,Arsenal,Tottenham,1,1,2014-09-27 17:30:00,,None
+15678,22,SavedShot,0.89,0.5359999847412109,0.052026327699422836,Emmanuel Adebayor,a,521,SetPiece,2014,Head,4746,Arsenal,Tottenham,1,1,2014-09-27 17:30:00,Erik Lamela,Chipped
+15681,43,MissedShots,0.8730000305175781,0.67,0.14645954966545105,Nacer Chadli,a,648,OpenPlay,2014,LeftFoot,4746,Arsenal,Tottenham,1,1,2014-09-27 17:30:00,Etienne Capoue,Throughball
+15683,47,SavedShot,0.86,0.38,0.06365617364645004,Emmanuel Adebayor,a,521,OpenPlay,2014,RightFoot,4746,Arsenal,Tottenham,1,1,2014-09-27 17:30:00,Erik Lamela,Chipped
+15687,54,SavedShot,0.7090000152587891,0.57,0.03985687345266342,Christian Eriksen,a,646,DirectFreekick,2014,RightFoot,4746,Arsenal,Tottenham,1,1,2014-09-27 17:30:00,,Standard
+15688,55,Goal,0.9169999694824219,0.38,0.3446525037288666,Nacer Chadli,a,648,OpenPlay,2014,RightFoot,4746,Arsenal,Tottenham,1,1,2014-09-27 17:30:00,Erik Lamela,Throughball
+15691,69,MissedShots,0.794000015258789,0.6840000152587891,0.026883771643042564,Ryan Mason,a,649,OpenPlay,2014,LeftFoot,4746,Arsenal,Tottenham,1,1,2014-09-27 17:30:00,Aaron Lennon,Pass

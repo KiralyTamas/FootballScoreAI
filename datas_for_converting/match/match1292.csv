@@ -1,0 +1,24 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+83186,11,MissedShots,0.6840000152587891,0.5459999847412109,0.012113477103412151,Emiliano Insúa,h,59,FromCorner,2015,LeftFoot,1292,VfB Stuttgart,Borussia Dortmund,0,3,2016-04-23 17:30:00,,None
+83187,12,MissedShots,0.7319999694824219,0.51,0.036682192236185074,Daniel Didavi,h,300,OpenPlay,2015,LeftFoot,1292,VfB Stuttgart,Borussia Dortmund,0,3,2016-04-23 17:30:00,Martin Harnik,Pass
+83190,22,BlockedShot,0.87,0.54,0.08124277740716934,Emiliano Insúa,h,59,OpenPlay,2015,RightFoot,1292,VfB Stuttgart,Borussia Dortmund,0,3,2016-04-23 17:30:00,Lukas Rupp,Pass
+83191,24,BlockedShot,0.875,0.47400001525878904,0.10154889523983002,Christian Gentner,h,60,OpenPlay,2015,RightFoot,1292,VfB Stuttgart,Borussia Dortmund,0,3,2016-04-23 17:30:00,Martin Harnik,Pass
+83192,24,BlockedShot,0.8109999847412109,0.495,0.04712677374482155,Lukas Rupp,h,62,OpenPlay,2015,RightFoot,1292,VfB Stuttgart,Borussia Dortmund,0,3,2016-04-23 17:30:00,,Rebound
+83194,33,MissedShots,0.7040000152587891,0.6140000152587891,0.0141651201993227,Daniel Didavi,h,300,OpenPlay,2015,LeftFoot,1292,VfB Stuttgart,Borussia Dortmund,0,3,2016-04-23 17:30:00,Filip Kostic,Pass
+83200,71,BlockedShot,0.8519999694824218,0.3890000152587891,0.03016640990972519,Martin Harnik,h,407,OpenPlay,2015,RightFoot,1292,VfB Stuttgart,Borussia Dortmund,0,3,2016-04-23 17:30:00,Filip Kostic,Cross
+83201,72,SavedShot,0.895,0.610999984741211,0.161174938082695,Georg Niedermeier,h,58,FromCorner,2015,Head,1292,VfB Stuttgart,Borussia Dortmund,0,3,2016-04-23 17:30:00,Alexandru Maxim,Cross
+83182,8,BlockedShot,0.7269999694824218,0.5029999923706054,0.017362656071782112,Lukasz Piszczek,a,310,OpenPlay,2015,LeftFoot,1292,VfB Stuttgart,Borussia Dortmund,0,3,2016-04-23 17:30:00,Adrián Ramos,Pass
+83183,8,MissedShots,0.8909999847412109,0.48700000762939455,0.3998511731624603,Marco Reus,a,319,OpenPlay,2015,RightFoot,1292,VfB Stuttgart,Borussia Dortmund,0,3,2016-04-23 17:30:00,,Rebound
+83184,9,BlockedShot,0.875999984741211,0.54,0.11439908295869827,Shinji Kagawa,a,321,OpenPlay,2015,RightFoot,1292,VfB Stuttgart,Borussia Dortmund,0,3,2016-04-23 17:30:00,Christian Pulisic,Pass
+83185,10,SavedShot,0.8480000305175781,0.525,0.05813360586762428,Adrián Ramos,a,324,FromCorner,2015,RightFoot,1292,VfB Stuttgart,Borussia Dortmund,0,3,2016-04-23 17:30:00,Matthias Ginter,Pass
+83188,19,BlockedShot,0.8819999694824219,0.6519999694824219,0.06699801236391068,Christian Pulisic,a,2662,OpenPlay,2015,LeftFoot,1292,VfB Stuttgart,Borussia Dortmund,0,3,2016-04-23 17:30:00,Marco Reus,Pass
+83189,20,Goal,0.9269999694824219,0.4759999847412109,0.40485960245132446,Shinji Kagawa,a,321,OpenPlay,2015,RightFoot,1292,VfB Stuttgart,Borussia Dortmund,0,3,2016-04-23 17:30:00,Henrikh Mkhitaryan,Cross
+83193,25,SavedShot,0.8540000152587891,0.5059999847412109,0.1362035721540451,Marco Reus,a,319,OpenPlay,2015,RightFoot,1292,VfB Stuttgart,Borussia Dortmund,0,3,2016-04-23 17:30:00,Adrián Ramos,Pass
+83195,36,SavedShot,0.8859999847412109,0.3659999847412109,0.09577116370201111,Adrián Ramos,a,324,OpenPlay,2015,RightFoot,1292,VfB Stuttgart,Borussia Dortmund,0,3,2016-04-23 17:30:00,Henrikh Mkhitaryan,Pass
+83196,44,SavedShot,0.7290000152587891,0.4929999923706055,0.021824561059474945,Henrikh Mkhitaryan,a,317,OpenPlay,2015,RightFoot,1292,VfB Stuttgart,Borussia Dortmund,0,3,2016-04-23 17:30:00,Adrián Ramos,Pass
+83197,44,Goal,0.91,0.5309999847412109,0.464720219373703,Christian Pulisic,a,2662,OpenPlay,2015,LeftFoot,1292,VfB Stuttgart,Borussia Dortmund,0,3,2016-04-23 17:30:00,,Rebound
+83198,55,SavedShot,0.9580000305175781,0.44299999237060544,0.5207730531692505,Adrián Ramos,a,324,OpenPlay,2015,Head,1292,VfB Stuttgart,Borussia Dortmund,0,3,2016-04-23 17:30:00,Shinji Kagawa,Chipped
+83199,55,Goal,0.905,0.4329999923706055,0.4593919515609741,Henrikh Mkhitaryan,a,317,OpenPlay,2015,LeftFoot,1292,VfB Stuttgart,Borussia Dortmund,0,3,2016-04-23 17:30:00,,Rebound
+83202,73,MissedShots,0.8769999694824219,0.4540000152587891,0.44933488965034485,Adrián Ramos,a,324,OpenPlay,2015,RightFoot,1292,VfB Stuttgart,Borussia Dortmund,0,3,2016-04-23 17:30:00,Marco Reus,Pass
+83203,83,BlockedShot,0.8080000305175781,0.5,0.07350095361471176,Erik Durm,a,2640,OpenPlay,2015,RightFoot,1292,VfB Stuttgart,Borussia Dortmund,0,3,2016-04-23 17:30:00,Moritz Leitner,Pass
+83204,86,SavedShot,0.8959999847412109,0.4540000152587891,0.5084100365638733,Moritz Leitner,a,1217,OpenPlay,2015,RightFoot,1292,VfB Stuttgart,Borussia Dortmund,0,3,2016-04-23 17:30:00,Henrikh Mkhitaryan,Pass

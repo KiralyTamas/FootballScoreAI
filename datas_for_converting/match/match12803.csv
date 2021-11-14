@@ -1,0 +1,35 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+325217,6,MissedShots,0.71,0.549000015258789,0.04289191961288452,Wylan Cyprien,h,4768,DirectFreekick,2019,RightFoot,12803,Nice,Paris Saint Germain,1,4,2019-10-18 19:45:00,,Standard
+325221,19,MissedShots,0.8769999694824219,0.28600000381469726,0.04226936772465706,Ignatius Ganago,h,6238,OpenPlay,2019,RightFoot,12803,Nice,Paris Saint Germain,1,4,2019-10-18 19:45:00,Pierre Lees-Melou,TakeOn
+325224,27,MissedShots,0.9080000305175782,0.28299999237060547,0.048897258937358856,Patrick Burner,h,5650,OpenPlay,2019,RightFoot,12803,Nice,Paris Saint Germain,1,4,2019-10-18 19:45:00,Ignatius Ganago,Pass
+325229,44,MissedShots,0.7169999694824218,0.610999984741211,0.011248629540205002,Pierre Lees-Melou,h,5619,OpenPlay,2019,RightFoot,12803,Nice,Paris Saint Germain,1,4,2019-10-18 19:45:00,Wylan Cyprien,Pass
+325230,47,SavedShot,0.874000015258789,0.4929999923706055,0.0398280993103981,Pierre Lees-Melou,h,5619,OpenPlay,2019,Head,12803,Nice,Paris Saint Germain,1,4,2019-10-18 19:45:00,Patrick Burner,Cross
+325232,52,BlockedShot,0.7330000305175781,0.385,0.01173813920468092,Pierre Lees-Melou,h,5619,OpenPlay,2019,RightFoot,12803,Nice,Paris Saint Germain,1,4,2019-10-18 19:45:00,,Dispossessed
+325234,62,BlockedShot,0.8540000152587891,0.7419999694824219,0.01944504864513874,Kasper Dolberg,h,8025,OpenPlay,2019,RightFoot,12803,Nice,Paris Saint Germain,1,4,2019-10-18 19:45:00,,None
+325235,66,Goal,0.879000015258789,0.4520000076293945,0.33832892775535583,Ignatius Ganago,h,6238,OpenPlay,2019,RightFoot,12803,Nice,Paris Saint Germain,1,4,2019-10-18 19:45:00,Kasper Dolberg,Pass
+325237,71,BlockedShot,0.8930000305175781,0.6359999847412109,0.08384055644273758,Alexis Claude Maurice,h,5752,OpenPlay,2019,RightFoot,12803,Nice,Paris Saint Germain,1,4,2019-10-18 19:45:00,Kasper Dolberg,TakeOn
+325243,89,BlockedShot,0.8880000305175781,0.38299999237060545,0.0920184999704361,Alexis Claude Maurice,h,5752,OpenPlay,2019,RightFoot,12803,Nice,Paris Saint Germain,1,4,2019-10-18 19:45:00,Myziane Maolida,Pass
+325212,2,SavedShot,0.874000015258789,0.48200000762939454,0.07488468289375305,Presnel Kimpembe,a,3599,SetPiece,2019,LeftFoot,12803,Nice,Paris Saint Germain,1,4,2019-10-18 19:45:00,,None
+325213,2,MissedShots,0.895,0.30100000381469727,0.03474699705839157,Ander Herrera,a,552,SetPiece,2019,RightFoot,12803,Nice,Paris Saint Germain,1,4,2019-10-18 19:45:00,,Rebound
+325214,2,SavedShot,0.9440000152587891,0.46,0.09062892943620682,Abdou Diallo,a,4804,SetPiece,2019,LeftFoot,12803,Nice,Paris Saint Germain,1,4,2019-10-18 19:45:00,Ander Herrera,None
+325215,2,SavedShot,0.9580000305175781,0.5270000076293946,0.6678598523139954,Abdou Diallo,a,4804,SetPiece,2019,LeftFoot,12803,Nice,Paris Saint Germain,1,4,2019-10-18 19:45:00,,Rebound
+325216,2,MissedShots,0.9440000152587891,0.6229999923706054,0.09240373224020004,Mauro Icardi,a,1513,SetPiece,2019,RightFoot,12803,Nice,Paris Saint Germain,1,4,2019-10-18 19:45:00,,Rebound
+325218,14,Goal,0.8919999694824219,0.3920000076293945,0.29305410385131836,Ángel Di María,a,3553,OpenPlay,2019,LeftFoot,12803,Nice,Paris Saint Germain,1,4,2019-10-18 19:45:00,Mauro Icardi,Pass
+325219,17,SavedShot,0.7019999694824218,0.6140000152587891,0.014481885358691216,Leandro Paredes,a,1248,SetPiece,2019,RightFoot,12803,Nice,Paris Saint Germain,1,4,2019-10-18 19:45:00,Ángel Di María,Pass
+325220,18,MissedShots,0.9030000305175782,0.5429999923706055,0.11551479250192642,Eric Maxim Choupo-Moting,a,339,OpenPlay,2019,Head,12803,Nice,Paris Saint Germain,1,4,2019-10-18 19:45:00,Ángel Di María,Chipped
+325222,20,Goal,0.950999984741211,0.30100000381469727,0.06463813036680222,Ángel Di María,a,3553,OpenPlay,2019,LeftFoot,12803,Nice,Paris Saint Germain,1,4,2019-10-18 19:45:00,Thomas Meunier,Chipped
+325223,26,MissedShots,0.759000015258789,0.5940000152587891,0.013994560576975346,Leandro Paredes,a,1248,FromCorner,2019,RightFoot,12803,Nice,Paris Saint Germain,1,4,2019-10-18 19:45:00,Eric Maxim Choupo-Moting,Aerial
+325225,32,MissedShots,0.8090000152587891,0.500999984741211,0.06743721663951874,Ángel Di María,a,3553,OpenPlay,2019,LeftFoot,12803,Nice,Paris Saint Germain,1,4,2019-10-18 19:45:00,Leandro Paredes,Pass
+325226,35,SavedShot,0.9130000305175782,0.5270000076293946,0.08697128295898438,Presnel Kimpembe,a,3599,FromCorner,2019,Head,12803,Nice,Paris Saint Germain,1,4,2019-10-18 19:45:00,Ángel Di María,Cross
+325227,39,MissedShots,0.8780000305175781,0.4640000152587891,0.013960201293230057,Thiago Silva,a,3288,FromCorner,2019,Head,12803,Nice,Paris Saint Germain,1,4,2019-10-18 19:45:00,Ángel Di María,Aerial
+325228,42,MissedShots,0.914000015258789,0.525,0.037171367555856705,Abdou Diallo,a,4804,FromCorner,2019,Head,12803,Nice,Paris Saint Germain,1,4,2019-10-18 19:45:00,Ángel Di María,Aerial
+325231,49,MissedShots,0.925,0.5890000152587891,0.06570244580507278,Mauro Icardi,a,1513,FromCorner,2019,Head,12803,Nice,Paris Saint Germain,1,4,2019-10-18 19:45:00,Ángel Di María,Cross
+325233,59,ShotOnPost,0.95,0.415,0.08336683362722397,Marquinhos,a,3297,FromCorner,2019,Head,12803,Nice,Paris Saint Germain,1,4,2019-10-18 19:45:00,Ángel Di María,Cross
+325236,70,MissedShots,0.8690000152587891,0.6,0.3351466655731201,Pablo Sarabia,a,2199,OpenPlay,2019,LeftFoot,12803,Nice,Paris Saint Germain,1,4,2019-10-18 19:45:00,Ángel Di María,Pass
+325238,82,SavedShot,0.7469999694824219,0.33599998474121096,0.019916467368602753,Leandro Paredes,a,1248,FromCorner,2019,RightFoot,12803,Nice,Paris Saint Germain,1,4,2019-10-18 19:45:00,Ander Herrera,Pass
+325239,84,MissedShots,0.8490000152587891,0.37900001525878907,0.09954201430082321,Ángel Di María,a,3553,OpenPlay,2019,LeftFoot,12803,Nice,Paris Saint Germain,1,4,2019-10-18 19:45:00,Kylian Mbappe-Lottin,Pass
+325240,86,BlockedShot,0.9019999694824219,0.6780000305175782,0.07945407181978226,Kylian Mbappe-Lottin,a,3423,OpenPlay,2019,LeftFoot,12803,Nice,Paris Saint Germain,1,4,2019-10-18 19:45:00,Ander Herrera,Pass
+325241,87,Goal,0.8859999847412109,0.6079999923706054,0.09309684485197067,Kylian Mbappe-Lottin,a,3423,OpenPlay,2019,RightFoot,12803,Nice,Paris Saint Germain,1,4,2019-10-18 19:45:00,,None
+325242,88,MissedShots,0.85,0.63,0.09183476120233536,Kylian Mbappe-Lottin,a,3423,OpenPlay,2019,RightFoot,12803,Nice,Paris Saint Germain,1,4,2019-10-18 19:45:00,Mauro Icardi,LayOff
+325244,90,Goal,0.9680000305175781,0.4779999923706055,0.9157614707946777,Mauro Icardi,a,1513,OpenPlay,2019,RightFoot,12803,Nice,Paris Saint Germain,1,4,2019-10-18 19:45:00,Kylian Mbappe-Lottin,Pass
+325245,93,MissedShots,0.805,0.66,0.05739577114582062,Kylian Mbappe-Lottin,a,3423,OpenPlay,2019,RightFoot,12803,Nice,Paris Saint Germain,1,4,2019-10-18 19:45:00,Thomas Meunier,Chipped

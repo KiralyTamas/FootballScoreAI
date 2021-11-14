@@ -1,0 +1,28 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+121946,6,BlockedShot,0.775,0.4929999923706055,0.027940919622778893,Robert Mak,h,5468,OpenPlay,2016,RightFoot,2744,Zenit St. Petersburg,FC Ufa,2,0,2016-11-30 20:30:00,Giuliano,Pass
+121949,14,SavedShot,0.77,0.575999984741211,0.02625400945544243,Robert Mak,h,5468,OpenPlay,2016,RightFoot,2744,Zenit St. Petersburg,FC Ufa,2,0,2016-11-30 20:30:00,Artem Dzyuba,Pass
+121950,16,BlockedShot,0.9280000305175782,0.51,0.06754596531391144,Aleksandr Kokorin,h,3066,OpenPlay,2016,Head,2744,Zenit St. Petersburg,FC Ufa,2,0,2016-11-30 20:30:00,Yuri Zhirkov,Aerial
+121951,18,BlockedShot,0.7980000305175782,0.610999984741211,0.03445903956890106,Robert Mak,h,5468,OpenPlay,2016,RightFoot,2744,Zenit St. Petersburg,FC Ufa,2,0,2016-11-30 20:30:00,,None
+121953,27,MissedShots,0.8680000305175781,0.3220000076293945,0.05492156371474266,Mauricio,h,3060,OpenPlay,2016,RightFoot,2744,Zenit St. Petersburg,FC Ufa,2,0,2016-11-30 20:30:00,Alexander Anyukov,Pass
+121954,35,MissedShots,0.9180000305175782,0.48400001525878905,0.11912088096141815,Yuri Zhirkov,h,3058,SetPiece,2016,LeftFoot,2744,Zenit St. Petersburg,FC Ufa,2,0,2016-11-30 20:30:00,Giuliano,Foul
+121955,36,SavedShot,0.8719999694824219,0.415,0.07851268351078033,Giuliano,h,5467,OpenPlay,2016,RightFoot,2744,Zenit St. Petersburg,FC Ufa,2,0,2016-11-30 20:30:00,Artem Dzyuba,HeadPass
+121957,45,BlockedShot,0.7580000305175781,0.42700000762939455,0.024416513741016388,Robert Mak,h,5468,OpenPlay,2016,RightFoot,2744,Zenit St. Petersburg,FC Ufa,2,0,2016-11-30 20:30:00,Axel Witsel,HeadPass
+121959,56,MissedShots,0.884000015258789,0.41900001525878905,0.07550317049026489,Nicolas Lombaerts,h,3057,SetPiece,2016,LeftFoot,2744,Zenit St. Petersburg,FC Ufa,2,0,2016-11-30 20:30:00,Aleksandr Kokorin,HeadPass
+121960,60,SavedShot,0.899000015258789,0.3820000076293945,0.018894650042057037,Aleksandr Kokorin,h,3066,OpenPlay,2016,Head,2744,Zenit St. Petersburg,FC Ufa,2,0,2016-11-30 20:30:00,Alexander Anyukov,Cross
+121961,61,SavedShot,0.7530000305175781,0.29200000762939454,0.011695999652147293,Axel Witsel,h,3059,OpenPlay,2016,RightFoot,2744,Zenit St. Petersburg,FC Ufa,2,0,2016-11-30 20:30:00,,None
+121966,73,MissedShots,0.720999984741211,0.639000015258789,0.03763899952173233,Mauricio,h,3060,DirectFreekick,2016,RightFoot,2744,Zenit St. Petersburg,FC Ufa,2,0,2016-11-30 20:30:00,,Standard
+121967,83,Goal,0.8769999694824219,0.649000015258789,0.25598856806755066,Giuliano,h,5467,OpenPlay,2016,RightFoot,2744,Zenit St. Petersburg,FC Ufa,2,0,2016-11-30 20:30:00,Axel Witsel,Pass
+121970,90,BlockedShot,0.764000015258789,0.27,0.04108882322907448,Alexander Kerzhakov,h,4609,DirectFreekick,2016,RightFoot,2744,Zenit St. Petersburg,FC Ufa,2,0,2016-11-30 20:30:00,,Standard
+121971,91,BlockedShot,0.885,0.43400001525878906,0.11825103312730789,Axel Witsel,h,3059,OpenPlay,2016,RightFoot,2744,Zenit St. Petersburg,FC Ufa,2,0,2016-11-30 20:30:00,Alexander Anyukov,Pass
+121972,92,Goal,0.8530000305175781,0.41200000762939454,0.09365998208522797,Aleksandr Kokorin,h,3066,OpenPlay,2016,LeftFoot,2744,Zenit St. Petersburg,FC Ufa,2,0,2016-11-30 20:30:00,Alexander Kerzhakov,Pass
+121947,13,SavedShot,0.874000015258789,0.590999984741211,0.10249029844999313,Vyacheslav Krotov,a,2910,OpenPlay,2016,RightFoot,2744,Zenit St. Petersburg,FC Ufa,2,0,2016-11-30 20:30:00,Dmitri Sysuev,Pass
+121948,14,BlockedShot,0.885,0.519000015258789,0.034480512142181396,Viktor Vasin,a,2889,FromCorner,2016,Head,2744,Zenit St. Petersburg,FC Ufa,2,0,2016-11-30 20:30:00,Ondrej Vanek,Cross
+121952,19,SavedShot,0.6840000152587891,0.4520000076293945,0.011963970959186554,Dmitry Zhivoglyadov,a,2745,FromCorner,2016,RightFoot,2744,Zenit St. Petersburg,FC Ufa,2,0,2016-11-30 20:30:00,,None
+121956,41,MissedShots,0.9009999847412109,0.595999984741211,0.02245618775486946,Igor Bezdenezhnykh,a,2959,FromCorner,2016,Head,2744,Zenit St. Petersburg,FC Ufa,2,0,2016-11-30 20:30:00,Ondrej Vanek,Cross
+121958,55,SavedShot,0.895,0.53,0.07581297308206558,Viktor Vasin,a,2889,SetPiece,2016,Head,2744,Zenit St. Petersburg,FC Ufa,2,0,2016-11-30 20:30:00,Ondrej Vanek,Cross
+121962,64,SavedShot,0.735999984741211,0.43,0.00894249603152275,Ondrej Vanek,a,5489,OpenPlay,2016,RightFoot,2744,Zenit St. Petersburg,FC Ufa,2,0,2016-11-30 20:30:00,Dmitri Sysuev,TakeOn
+121963,65,BlockedShot,0.93,0.40700000762939453,0.09321290254592896,Viktor Vasin,a,2889,FromCorner,2016,LeftFoot,2744,Zenit St. Petersburg,FC Ufa,2,0,2016-11-30 20:30:00,Azamat Zaseev,HeadPass
+121964,67,BlockedShot,0.865,0.425,0.09634221345186234,Diego Carlos,a,2912,OpenPlay,2016,RightFoot,2744,Zenit St. Petersburg,FC Ufa,2,0,2016-11-30 20:30:00,Dmitri Sysuev,Pass
+121965,69,SavedShot,0.8809999847412109,0.6730000305175782,0.06293805688619614,Diego Carlos,a,2912,OpenPlay,2016,LeftFoot,2744,Zenit St. Petersburg,FC Ufa,2,0,2016-11-30 20:30:00,Azamat Zaseev,Pass
+121968,88,SavedShot,0.7559999847412109,0.5929999923706055,0.010940288193523884,Ivan Oblyakov,a,5442,OpenPlay,2016,LeftFoot,2744,Zenit St. Petersburg,FC Ufa,2,0,2016-11-30 20:30:00,Azamat Zaseev,Chipped
+121969,88,MissedShots,0.9119999694824219,0.5129999923706055,0.07959383726119995,Diego Carlos,a,2912,OpenPlay,2016,Head,2744,Zenit St. Petersburg,FC Ufa,2,0,2016-11-30 20:30:00,Aleksandr Sukhov,Cross

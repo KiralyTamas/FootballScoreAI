@@ -1,0 +1,16 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+160994,1,MissedShots,0.9230000305175782,0.30100000381469727,0.08318959176540375,Sergio Agüero,h,619,OpenPlay,2017,RightFoot,7228,Manchester City,Arsenal,3,1,2017-11-05 14:15:00,Kevin De Bruyne,Pass
+160998,17,SavedShot,0.8130000305175781,0.49700000762939456,0.051667626947164536,Kevin De Bruyne,h,447,OpenPlay,2017,RightFoot,7228,Manchester City,Arsenal,3,1,2017-11-05 14:15:00,,None
+160999,18,Goal,0.855999984741211,0.6819999694824219,0.0516991913318634,Kevin De Bruyne,h,447,OpenPlay,2017,LeftFoot,7228,Manchester City,Arsenal,3,1,2017-11-05 14:15:00,Fernandinho,Pass
+161000,27,BlockedShot,0.7190000152587891,0.544000015258789,0.015822788700461388,Fabian Delph,h,876,FromCorner,2017,LeftFoot,7228,Manchester City,Arsenal,3,1,2017-11-05 14:15:00,,BallTouch
+161002,49,Goal,0.885,0.5,0.7611688375473022,Sergio Agüero,h,619,Penalty,2017,RightFoot,7228,Manchester City,Arsenal,3,1,2017-11-05 14:15:00,,Standard
+161005,67,BlockedShot,0.8969999694824219,0.6659999847412109,0.04607939347624779,Leroy Sané,h,337,OpenPlay,2017,LeftFoot,7228,Manchester City,Arsenal,3,1,2017-11-05 14:15:00,Raheem Sterling,Cross
+161006,67,SavedShot,0.9669999694824218,0.40599998474121096,0.42693933844566345,Gabriel Jesus,h,5543,FromCorner,2017,RightFoot,7228,Manchester City,Arsenal,3,1,2017-11-05 14:15:00,,None
+161007,68,MissedShots,0.9069999694824219,0.4640000152587891,0.0684238150715828,John Stones,h,586,FromCorner,2017,Head,7228,Manchester City,Arsenal,3,1,2017-11-05 14:15:00,Kevin De Bruyne,Cross
+161008,73,Goal,0.9530000305175781,0.48,0.6452900767326355,Gabriel Jesus,h,5543,OpenPlay,2017,RightFoot,7228,Manchester City,Arsenal,3,1,2017-11-05 14:15:00,David Silva,Pass
+160995,4,MissedShots,0.8040000152587891,0.49,0.038936078548431396,Alex Iwobi,a,500,SetPiece,2017,RightFoot,7228,Manchester City,Arsenal,3,1,2017-11-05 14:15:00,,None
+160996,8,MissedShots,0.6980000305175781,0.43900001525878907,0.036350417882204056,Alexis Sánchez,a,498,DirectFreekick,2017,RightFoot,7228,Manchester City,Arsenal,3,1,2017-11-05 14:15:00,,Standard
+160997,9,MissedShots,0.850999984741211,0.3340000152587891,0.05233903229236603,Mesut Özil,a,499,OpenPlay,2017,LeftFoot,7228,Manchester City,Arsenal,3,1,2017-11-05 14:15:00,Alexis Sánchez,Pass
+161001,45,SavedShot,0.899000015258789,0.6359999847412109,0.12020888924598694,Aaron Ramsey,a,504,OpenPlay,2017,RightFoot,7228,Manchester City,Arsenal,3,1,2017-11-05 14:15:00,Alexis Sánchez,Pass
+161003,54,SavedShot,0.8009999847412109,0.73,0.017557010054588318,Alex Iwobi,a,500,OpenPlay,2017,RightFoot,7228,Manchester City,Arsenal,3,1,2017-11-05 14:15:00,Aaron Ramsey,Pass
+161004,64,Goal,0.9259999847412109,0.32599998474121095,0.0750153437256813,Alexandre Lacazette,a,3277,OpenPlay,2017,RightFoot,7228,Manchester City,Arsenal,3,1,2017-11-05 14:15:00,Aaron Ramsey,Pass

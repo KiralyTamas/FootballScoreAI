@@ -1,0 +1,30 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+295440,1,BlockedShot,0.8440000152587891,0.42700000762939455,0.06248738244175911,Miguel Almirón,h,7420,OpenPlay,2018,RightFoot,9539,Newcastle United,Southampton,3,1,2019-04-20 17:30:00,,None
+295441,7,MissedShots,0.7930000305175782,0.2670000076293945,0.017166731879115105,Matt Ritchie,h,461,FromCorner,2018,LeftFoot,9539,Newcastle United,Southampton,3,1,2019-04-20 17:30:00,Miguel Almirón,BallTouch
+295443,26,Goal,0.860999984741211,0.395,0.0719028115272522,Ayoze Pérez,h,770,OpenPlay,2018,RightFoot,9539,Newcastle United,Southampton,3,1,2019-04-20 17:30:00,Isaac Hayden,BallRecovery
+295444,30,Goal,0.9640000152587891,0.4490000152587891,0.14283020794391632,Ayoze Pérez,h,770,OpenPlay,2018,RightFoot,9539,Newcastle United,Southampton,3,1,2019-04-20 17:30:00,Salomón Rondón,Cross
+295446,40,SavedShot,0.745,0.47400001525878904,0.020109808072447777,Miguel Almirón,h,7420,OpenPlay,2018,LeftFoot,9539,Newcastle United,Southampton,3,1,2019-04-20 17:30:00,,None
+295448,45,BlockedShot,0.925,0.4129999923706055,0.11896862089633942,Salomón Rondón,h,813,OpenPlay,2018,LeftFoot,9539,Newcastle United,Southampton,3,1,2019-04-20 17:30:00,,None
+295451,54,ShotOnPost,0.759000015258789,0.66,0.019925259053707123,Ki Sung-yueng,h,723,OpenPlay,2018,RightFoot,9539,Newcastle United,Southampton,3,1,2019-04-20 17:30:00,Matt Ritchie,Pass
+295454,63,MissedShots,0.9780000305175781,0.4179999923706055,0.08630523085594177,Fabian Schär,h,76,SetPiece,2018,RightFoot,9539,Newcastle United,Southampton,3,1,2019-04-20 17:30:00,,None
+295456,69,SavedShot,0.7390000152587891,0.4520000076293945,0.02473117969930172,Isaac Hayden,h,6062,OpenPlay,2018,RightFoot,9539,Newcastle United,Southampton,3,1,2019-04-20 17:30:00,,None
+295461,79,BlockedShot,0.7169999694824218,0.580999984741211,0.04248325526714325,Salomón Rondón,h,813,DirectFreekick,2018,RightFoot,9539,Newcastle United,Southampton,3,1,2019-04-20 17:30:00,,Standard
+295462,85,BlockedShot,0.95,0.485,0.08299069851636887,Mohamed Diamé,h,4471,FromCorner,2018,Head,9539,Newcastle United,Southampton,3,1,2019-04-20 17:30:00,Ki Sung-yueng,Aerial
+295463,85,BlockedShot,0.9880000305175781,0.42700000762939455,0.04341048747301102,Salomón Rondón,h,813,FromCorner,2018,Head,9539,Newcastle United,Southampton,3,1,2019-04-20 17:30:00,Federico Fernández,Aerial
+295464,85,BlockedShot,0.8419999694824218,0.46700000762939453,0.030930785462260246,Matt Ritchie,h,461,OpenPlay,2018,Head,9539,Newcastle United,Southampton,3,1,2019-04-20 17:30:00,,Goal
+295465,85,Goal,0.925,0.4540000152587891,0.46609023213386536,Ayoze Pérez,h,770,OpenPlay,2018,Head,9539,Newcastle United,Southampton,3,1,2019-04-20 17:30:00,Matt Ritchie,None
+295442,21,BlockedShot,0.8580000305175781,0.42900001525878906,0.09457360953092575,James Ward-Prowse,a,843,OpenPlay,2018,RightFoot,9539,Newcastle United,Southampton,3,1,2019-04-20 17:30:00,Nathan Redmond,Pass
+295445,32,BlockedShot,0.8959999847412109,0.3509999847412109,0.05119858309626579,James Ward-Prowse,a,843,OpenPlay,2018,RightFoot,9539,Newcastle United,Southampton,3,1,2019-04-20 17:30:00,,None
+295447,44,BlockedShot,0.925,0.66,0.08767866343259811,Josh Sims,a,5565,OpenPlay,2018,LeftFoot,9539,Newcastle United,Southampton,3,1,2019-04-20 17:30:00,Nathan Redmond,Throughball
+295449,47,MissedShots,0.919000015258789,0.51,0.0450429804623127,Maya Yoshida,a,845,FromCorner,2018,Head,9539,Newcastle United,Southampton,3,1,2019-04-20 17:30:00,James Ward-Prowse,Aerial
+295450,52,SavedShot,0.735999984741211,0.534000015258789,0.05463911220431328,James Ward-Prowse,a,843,DirectFreekick,2018,RightFoot,9539,Newcastle United,Southampton,3,1,2019-04-20 17:30:00,,Standard
+295452,57,MissedShots,0.73,0.415,0.014555385336279869,Mario Lemina,a,1299,OpenPlay,2018,RightFoot,9539,Newcastle United,Southampton,3,1,2019-04-20 17:30:00,Oriol Romeu,Pass
+295453,58,Goal,0.8040000152587891,0.51,0.05843258649110794,Mario Lemina,a,1299,OpenPlay,2018,RightFoot,9539,Newcastle United,Southampton,3,1,2019-04-20 17:30:00,Stuart Armstrong,Pass
+295455,65,MissedShots,0.95,0.5359999847412109,0.14115802943706512,Maya Yoshida,a,845,FromCorner,2018,LeftFoot,9539,Newcastle United,Southampton,3,1,2019-04-20 17:30:00,Nathan Redmond,Pass
+295457,70,MissedShots,0.720999984741211,0.695,0.013236270286142826,Ryan Bertrand,a,835,OpenPlay,2018,LeftFoot,9539,Newcastle United,Southampton,3,1,2019-04-20 17:30:00,Mario Lemina,Pass
+295458,73,MissedShots,0.925,0.39,0.282572865486145,Danny Ings,a,986,OpenPlay,2018,RightFoot,9539,Newcastle United,Southampton,3,1,2019-04-20 17:30:00,Mario Lemina,Chipped
+295459,74,MissedShots,0.77,0.590999984741211,0.046374738216400146,Danny Ings,a,986,OpenPlay,2018,RightFoot,9539,Newcastle United,Southampton,3,1,2019-04-20 17:30:00,Stuart Armstrong,Pass
+295460,77,MissedShots,0.745,0.7419999694824219,0.010225365869700909,Nathan Redmond,a,790,OpenPlay,2018,RightFoot,9539,Newcastle United,Southampton,3,1,2019-04-20 17:30:00,Ryan Bertrand,TakeOn
+295466,91,SavedShot,0.9259999847412109,0.5379999923706055,0.315036803483963,Maya Yoshida,a,845,FromCorner,2018,Head,9539,Newcastle United,Southampton,3,1,2019-04-20 17:30:00,James Ward-Prowse,Cross
+295467,91,BlockedShot,0.9280000305175782,0.555,0.03940390422940254,Jan Bednarek,a,6042,FromCorner,2018,Head,9539,Newcastle United,Southampton,3,1,2019-04-20 17:30:00,James Ward-Prowse,Aerial
+295468,93,BlockedShot,0.8130000305175781,0.73,0.0168926902115345,Nathan Redmond,a,790,FromCorner,2018,RightFoot,9539,Newcastle United,Southampton,3,1,2019-04-20 17:30:00,,None

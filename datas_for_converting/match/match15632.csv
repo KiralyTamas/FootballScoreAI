@@ -1,0 +1,26 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+403517,10,MissedShots,0.7369999694824219,0.665,0.014290405437350273,Artur Ionita,h,1604,OpenPlay,2020,RightFoot,15632,Benevento,Sampdoria,1,1,2021-02-07 11:30:00,Federico Barba,BallRecovery
+403525,45,BlockedShot,0.8569999694824219,0.6140000152587891,0.09872645884752274,Gianluca Caprari,h,1170,OpenPlay,2020,RightFoot,15632,Benevento,Sampdoria,1,1,2021-02-07 11:30:00,Gianluca Lapadula,Pass
+403526,49,BlockedShot,0.7340000152587891,0.5509999847412109,0.017434049397706985,Gianluca Lapadula,h,1136,OpenPlay,2020,LeftFoot,15632,Benevento,Sampdoria,1,1,2021-02-07 11:30:00,,BallRecovery
+403527,49,MissedShots,0.8859999847412109,0.6,0.1035325899720192,Gianluca Caprari,h,1170,OpenPlay,2020,RightFoot,15632,Benevento,Sampdoria,1,1,2021-02-07 11:30:00,Gianluca Lapadula,Pass
+403528,54,Goal,0.9690000152587891,0.7169999694824218,0.044338151812553406,Gianluca Caprari,h,1170,OpenPlay,2020,LeftFoot,15632,Benevento,Sampdoria,1,1,2021-02-07 11:30:00,Federico Barba,Pass
+403529,61,SavedShot,0.9259999847412109,0.6840000152587891,0.08329745382070541,Gianluca Lapadula,h,1136,OpenPlay,2020,LeftFoot,15632,Benevento,Sampdoria,1,1,2021-02-07 11:30:00,Gianluca Caprari,Pass
+403530,67,SavedShot,0.9159999847412109,0.6719999694824219,0.27083271741867065,Gianluca Lapadula,h,1136,OpenPlay,2020,LeftFoot,15632,Benevento,Sampdoria,1,1,2021-02-07 11:30:00,Riccardo Improta,Pass
+403531,69,BlockedShot,0.6809999847412109,0.595999984741211,0.011317300610244274,Nicolas Viola,h,6196,OpenPlay,2020,LeftFoot,15632,Benevento,Sampdoria,1,1,2021-02-07 11:30:00,,None
+403532,70,BlockedShot,0.845999984741211,0.5670000076293945,0.08745414018630981,Gianluca Caprari,h,1170,OpenPlay,2020,RightFoot,15632,Benevento,Sampdoria,1,1,2021-02-07 11:30:00,,BallTouch
+403533,70,MissedShots,0.9540000152587891,0.40700000762939453,0.13489338755607605,Gianluca Lapadula,h,1136,OpenPlay,2020,RightFoot,15632,Benevento,Sampdoria,1,1,2021-02-07 11:30:00,Nicolas Viola,Pass
+403534,70,BlockedShot,0.904000015258789,0.31,0.04665312170982361,Fabio Depaoli,h,1624,OpenPlay,2020,RightFoot,15632,Benevento,Sampdoria,1,1,2021-02-07 11:30:00,Riccardo Improta,Chipped
+403539,85,MissedShots,0.7930000305175782,0.5779999923706055,0.03633458539843559,Marco Sau,h,1406,OpenPlay,2020,RightFoot,15632,Benevento,Sampdoria,1,1,2021-02-07 11:30:00,Pasquale Schiattarella,Pass
+403518,19,MissedShots,0.8130000305175781,0.41200000762939454,0.04425564780831337,Antonio Candreva,a,1517,OpenPlay,2020,LeftFoot,15632,Benevento,Sampdoria,1,1,2021-02-07 11:30:00,,None
+403519,21,SavedShot,0.9,0.69,0.05578399449586868,Keita,a,1210,OpenPlay,2020,LeftFoot,15632,Benevento,Sampdoria,1,1,2021-02-07 11:30:00,Jakub Jankto,Pass
+403520,21,MissedShots,0.889000015258789,0.5109999847412109,0.1116112470626831,Jakub Jankto,a,1146,OpenPlay,2020,LeftFoot,15632,Benevento,Sampdoria,1,1,2021-02-07 11:30:00,,Rebound
+403521,25,BlockedShot,0.8880000305175781,0.45599998474121095,0.030709432438015938,Ernesto Torregrossa,a,7993,OpenPlay,2020,Head,15632,Benevento,Sampdoria,1,1,2021-02-07 11:30:00,Jakub Jankto,Foul
+403522,25,SavedShot,0.9009999847412109,0.5029999923706054,0.09920628368854523,Morten Thorsby,a,7939,OpenPlay,2020,RightFoot,15632,Benevento,Sampdoria,1,1,2021-02-07 11:30:00,,None
+403523,41,SavedShot,0.8819999694824219,0.5120000076293946,0.3091839551925659,Ernesto Torregrossa,a,7993,SetPiece,2020,LeftFoot,15632,Benevento,Sampdoria,1,1,2021-02-07 11:30:00,Antonio Candreva,Chipped
+403524,44,SavedShot,0.8190000152587891,0.6140000152587891,0.05016987398266792,Keita,a,1210,OpenPlay,2020,RightFoot,15632,Benevento,Sampdoria,1,1,2021-02-07 11:30:00,Tommaso Augello,Pass
+403535,73,BlockedShot,0.8859999847412109,0.7130000305175781,0.0269366055727005,Tommaso Augello,a,7938,OpenPlay,2020,LeftFoot,15632,Benevento,Sampdoria,1,1,2021-02-07 11:30:00,Keita,Cross
+403536,73,BlockedShot,0.9009999847412109,0.3729999923706055,0.04278755560517311,Ernesto Torregrossa,a,7993,FromCorner,2020,LeftFoot,15632,Benevento,Sampdoria,1,1,2021-02-07 11:30:00,Jakub Jankto,Cross
+403537,79,Goal,0.9630000305175781,0.485,0.6658648252487183,Keita,a,1210,FromCorner,2020,RightFoot,15632,Benevento,Sampdoria,1,1,2021-02-07 11:30:00,Mikkel Damsgaard,Pass
+403538,81,BlockedShot,0.8419999694824218,0.5929999923706055,0.0876978188753128,Keita,a,1210,OpenPlay,2020,LeftFoot,15632,Benevento,Sampdoria,1,1,2021-02-07 11:30:00,,TakeOn
+403540,92,BlockedShot,0.9280000305175782,0.515,0.054318953305482864,Maya Yoshida,a,845,FromCorner,2020,OtherBodyPart,15632,Benevento,Sampdoria,1,1,2021-02-07 11:30:00,Mikkel Damsgaard,Aerial
+403541,93,BlockedShot,0.95,0.47299999237060547,0.12853729724884033,Maya Yoshida,a,845,FromCorner,2020,Head,15632,Benevento,Sampdoria,1,1,2021-02-07 11:30:00,Valerio Verre,Cross

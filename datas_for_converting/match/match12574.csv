@@ -1,0 +1,19 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+356585,8,SavedShot,0.7519999694824219,0.6659999847412109,0.021895289421081543,Marco Reus,h,319,OpenPlay,2019,LeftFoot,12574,Borussia Dortmund,Union Berlin,5,0,2020-02-01 14:30:00,,TakeOn
+356586,12,Goal,0.8859999847412109,0.685,0.05832064524292946,Jadon Sancho,h,6345,OpenPlay,2019,RightFoot,12574,Borussia Dortmund,Union Berlin,5,0,2020-02-01 14:30:00,Raphael Guerreiro,BallRecovery
+356588,16,SavedShot,0.7580000305175781,0.28299999237060547,0.04663104936480522,Raphael Guerreiro,h,3455,DirectFreekick,2019,LeftFoot,12574,Borussia Dortmund,Union Berlin,5,0,2020-02-01 14:30:00,,Standard
+356589,17,Goal,0.9740000152587891,0.5429999923706055,0.6271572709083557,Erling Haaland,h,8260,FromCorner,2019,LeftFoot,12574,Borussia Dortmund,Union Berlin,5,0,2020-02-01 14:30:00,,None
+356591,20,BlockedShot,0.8069999694824219,0.580999984741211,0.06835757195949554,Raphael Guerreiro,h,3455,OpenPlay,2019,LeftFoot,12574,Borussia Dortmund,Union Berlin,5,0,2020-02-01 14:30:00,Erling Haaland,Pass
+356593,31,BlockedShot,0.9219999694824219,0.6630000305175782,0.10566087067127228,Axel Witsel,h,3059,OpenPlay,2019,LeftFoot,12574,Borussia Dortmund,Union Berlin,5,0,2020-02-01 14:30:00,Julian Brandt,Pass
+356595,47,MissedShots,0.825,0.4620000076293945,0.36986956000328064,Jadon Sancho,h,6345,OpenPlay,2019,RightFoot,12574,Borussia Dortmund,Union Berlin,5,0,2020-02-01 14:30:00,,BallRecovery
+356597,57,BlockedShot,0.909000015258789,0.5259999847412109,0.08125609159469604,Lukasz Piszczek,h,310,FromCorner,2019,Head,12574,Borussia Dortmund,Union Berlin,5,0,2020-02-01 14:30:00,Julian Brandt,Cross
+356598,67,Goal,0.885,0.5,0.757696270942688,Marco Reus,h,319,Penalty,2019,RightFoot,12574,Borussia Dortmund,Union Berlin,5,0,2020-02-01 14:30:00,,Standard
+356599,69,Goal,0.9290000152587891,0.45,0.5620524287223816,Axel Witsel,h,3059,OpenPlay,2019,LeftFoot,12574,Borussia Dortmund,Union Berlin,5,0,2020-02-01 14:30:00,Jadon Sancho,Pass
+356600,75,Goal,0.915,0.5609999847412109,0.15580691397190094,Erling Haaland,h,8260,OpenPlay,2019,LeftFoot,12574,Borussia Dortmund,Union Berlin,5,0,2020-02-01 14:30:00,Julian Brandt,Pass
+356601,80,MissedShots,0.78,0.29100000381469726,0.02767818421125412,Manuel Akanji,h,6490,OpenPlay,2019,RightFoot,12574,Borussia Dortmund,Union Berlin,5,0,2020-02-01 14:30:00,Julian Brandt,Pass
+356602,86,MissedShots,0.894000015258789,0.37400001525878906,0.4113665521144867,Raphael Guerreiro,h,3455,OpenPlay,2019,RightFoot,12574,Borussia Dortmund,Union Berlin,5,0,2020-02-01 14:30:00,Giovanni Reyna,BallTouch
+356587,15,BlockedShot,0.7580000305175781,0.3509999847412109,0.01704256609082222,Marius Bülter,a,7879,OpenPlay,2019,RightFoot,12574,Borussia Dortmund,Union Berlin,5,0,2020-02-01 14:30:00,Robert Andrich,BallTouch
+356590,19,BlockedShot,0.7530000305175781,0.4490000152587891,0.017862744629383087,Yunus Malli,a,45,FromCorner,2019,RightFoot,12574,Borussia Dortmund,Union Berlin,5,0,2020-02-01 14:30:00,,None
+356592,26,MissedShots,0.7440000152587891,0.629000015258789,0.01015491969883442,Robert Andrich,a,7877,OpenPlay,2019,RightFoot,12574,Borussia Dortmund,Union Berlin,5,0,2020-02-01 14:30:00,,Aerial
+356594,40,MissedShots,0.9290000152587891,0.5420000076293945,0.4473000168800354,Keven Schlotterbeck,a,7401,SetPiece,2019,RightFoot,12574,Borussia Dortmund,Union Berlin,5,0,2020-02-01 14:30:00,Christopher Trimmel,Cross
+356596,55,MissedShots,0.8680000305175781,0.3529999923706055,0.06778554618358612,Marius Bülter,a,7879,OpenPlay,2019,LeftFoot,12574,Borussia Dortmund,Union Berlin,5,0,2020-02-01 14:30:00,Christopher Lenz,Pass

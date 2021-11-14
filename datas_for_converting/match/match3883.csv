@@ -1,0 +1,53 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+128114,1,MissedShots,0.9590000152587891,0.5940000152587891,0.09770458936691284,Arturo Vidal,h,222,OpenPlay,2016,Head,3883,Bayern Munich,Freiburg,4,1,2017-05-20 14:30:00,Philipp Lahm,Cross
+128115,2,SavedShot,0.9519999694824218,0.5370000076293945,0.14935198426246643,Kingsley Coman,h,226,OpenPlay,2016,Head,3883,Bayern Munich,Freiburg,4,1,2017-05-20 14:30:00,Thomas Müller,Cross
+128116,3,Goal,0.865999984741211,0.28899999618530275,0.03905929997563362,Arjen Robben,h,392,OpenPlay,2016,LeftFoot,3883,Bayern Munich,Freiburg,4,1,2017-05-20 14:30:00,Xabi Alonso,Chipped
+128119,11,SavedShot,0.915,0.39799999237060546,0.10210338234901428,Thomas Müller,h,224,OpenPlay,2016,RightFoot,3883,Bayern Munich,Freiburg,4,1,2017-05-20 14:30:00,David Alaba,Chipped
+128120,12,MissedShots,0.75,0.27,0.021030280739068985,Arjen Robben,h,392,OpenPlay,2016,LeftFoot,3883,Bayern Munich,Freiburg,4,1,2017-05-20 14:30:00,Philipp Lahm,Pass
+128121,13,BlockedShot,0.865,0.4540000152587891,0.1314670443534851,Arjen Robben,h,392,OpenPlay,2016,LeftFoot,3883,Bayern Munich,Freiburg,4,1,2017-05-20 14:30:00,,TakeOn
+128122,15,BlockedShot,0.7769999694824219,0.2979999923706055,0.030649693682789803,Arjen Robben,h,392,FromCorner,2016,LeftFoot,3883,Bayern Munich,Freiburg,4,1,2017-05-20 14:30:00,Philipp Lahm,Pass
+128123,15,BlockedShot,0.74,0.6370000076293946,0.026300236582756042,Kingsley Coman,h,226,FromCorner,2016,RightFoot,3883,Bayern Munich,Freiburg,4,1,2017-05-20 14:30:00,Philipp Lahm,Pass
+128124,16,BlockedShot,0.815,0.685,0.021710721775889397,Robert Lewandowski,h,227,FromCorner,2016,RightFoot,3883,Bayern Munich,Freiburg,4,1,2017-05-20 14:30:00,,None
+128125,18,MissedShots,0.895,0.5109999847412109,0.06160661578178406,Thomas Müller,h,224,FromCorner,2016,Head,3883,Bayern Munich,Freiburg,4,1,2017-05-20 14:30:00,Xabi Alonso,Cross
+128126,22,MissedShots,0.754000015258789,0.445,0.032095327973365784,Arturo Vidal,h,222,OpenPlay,2016,RightFoot,3883,Bayern Munich,Freiburg,4,1,2017-05-20 14:30:00,,None
+128127,25,BlockedShot,0.8580000305175781,0.44299999237060544,0.11037367582321167,Thomas Müller,h,224,OpenPlay,2016,RightFoot,3883,Bayern Munich,Freiburg,4,1,2017-05-20 14:30:00,Arturo Vidal,Pass
+128130,29,BlockedShot,0.8030000305175782,0.3970000076293945,0.05666230246424675,Arjen Robben,h,392,OpenPlay,2016,LeftFoot,3883,Bayern Munich,Freiburg,4,1,2017-05-20 14:30:00,,BallRecovery
+128131,30,SavedShot,0.9230000305175782,0.5509999847412109,0.26221704483032227,Joshua Kimmich,h,223,FromCorner,2016,Head,3883,Bayern Munich,Freiburg,4,1,2017-05-20 14:30:00,Thomas Müller,HeadPass
+128134,35,SavedShot,0.925,0.4909999847412109,0.14888876676559448,Robert Lewandowski,h,227,OpenPlay,2016,RightFoot,3883,Bayern Munich,Freiburg,4,1,2017-05-20 14:30:00,Arjen Robben,Pass
+128136,38,BlockedShot,0.7219999694824218,0.3609999847412109,0.023770874366164207,Arjen Robben,h,392,OpenPlay,2016,LeftFoot,3883,Bayern Munich,Freiburg,4,1,2017-05-20 14:30:00,Xabi Alonso,Pass
+128137,39,MissedShots,0.769000015258789,0.43099998474121093,0.020302709192037582,Xabi Alonso,h,230,FromCorner,2016,RightFoot,3883,Bayern Munich,Freiburg,4,1,2017-05-20 14:30:00,,None
+128138,40,MissedShots,0.580999984741211,0.24600000381469728,0.007695851381868124,Arjen Robben,h,392,OpenPlay,2016,LeftFoot,3883,Bayern Munich,Freiburg,4,1,2017-05-20 14:30:00,Xabi Alonso,BallRecovery
+128140,41,MissedShots,0.9169999694824219,0.4759999847412109,0.07058858871459961,Robert Lewandowski,h,227,OpenPlay,2016,Head,3883,Bayern Munich,Freiburg,4,1,2017-05-20 14:30:00,Philipp Lahm,Aerial
+128141,45,SavedShot,0.919000015258789,0.46599998474121096,0.39239710569381714,Robert Lewandowski,h,227,OpenPlay,2016,LeftFoot,3883,Bayern Munich,Freiburg,4,1,2017-05-20 14:30:00,Thomas Müller,Cross
+128142,48,BlockedShot,0.8090000152587891,0.3920000076293945,0.059754058718681335,Arjen Robben,h,392,OpenPlay,2016,LeftFoot,3883,Bayern Munich,Freiburg,4,1,2017-05-20 14:30:00,Thomas Müller,BlockedPass
+128143,49,MissedShots,0.925,0.485,0.14191871881484985,Arjen Robben,h,392,OpenPlay,2016,Head,3883,Bayern Munich,Freiburg,4,1,2017-05-20 14:30:00,Kingsley Coman,Cross
+128145,56,BlockedShot,0.749000015258789,0.43099998474121093,0.027962367981672287,Kingsley Coman,h,226,OpenPlay,2016,RightFoot,3883,Bayern Munich,Freiburg,4,1,2017-05-20 14:30:00,Thomas Müller,Pass
+128149,62,SavedShot,0.899000015258789,0.555,0.04642736539244652,Robert Lewandowski,h,227,OpenPlay,2016,Head,3883,Bayern Munich,Freiburg,4,1,2017-05-20 14:30:00,Philipp Lahm,Aerial
+128151,68,ShotOnPost,0.7430000305175781,0.3220000076293945,0.02392558567225933,Arjen Robben,h,392,OpenPlay,2016,LeftFoot,3883,Bayern Munich,Freiburg,4,1,2017-05-20 14:30:00,Xabi Alonso,Chipped
+128154,71,BlockedShot,0.8209999847412109,0.4620000076293945,0.08225862681865692,Thomas Müller,h,224,OpenPlay,2016,LeftFoot,3883,Bayern Munich,Freiburg,4,1,2017-05-20 14:30:00,Arturo Vidal,Pass
+128155,72,Goal,0.8119999694824219,0.4540000152587891,0.06696271896362305,Arturo Vidal,h,222,OpenPlay,2016,RightFoot,3883,Bayern Munich,Freiburg,4,1,2017-05-20 14:30:00,Arjen Robben,Pass
+128157,77,BlockedShot,0.865999984741211,0.3509999847412109,0.07089955359697342,Arjen Robben,h,392,OpenPlay,2016,LeftFoot,3883,Bayern Munich,Freiburg,4,1,2017-05-20 14:30:00,Philipp Lahm,Chipped
+128159,79,SavedShot,0.86,0.5120000076293946,0.11784207820892334,Robert Lewandowski,h,227,OpenPlay,2016,RightFoot,3883,Bayern Munich,Freiburg,4,1,2017-05-20 14:30:00,Arturo Vidal,Pass
+128161,87,BlockedShot,0.785,0.4159999847412109,0.0962880551815033,Robert Lewandowski,h,227,DirectFreekick,2016,RightFoot,3883,Bayern Munich,Freiburg,4,1,2017-05-20 14:30:00,,Standard
+128162,89,BlockedShot,0.855999984741211,0.5179999923706055,0.114011250436306,Robert Lewandowski,h,227,OpenPlay,2016,RightFoot,3883,Bayern Munich,Freiburg,4,1,2017-05-20 14:30:00,Franck Ribéry,Pass
+128164,90,Goal,0.9669999694824218,0.5729999923706055,0.6490108370780945,Franck Ribéry,h,329,OpenPlay,2016,LeftFoot,3883,Bayern Munich,Freiburg,4,1,2017-05-20 14:30:00,Arjen Robben,Pass
+128165,93,Goal,0.9819999694824219,0.5370000076293945,0.6306086778640747,Joshua Kimmich,h,223,FromCorner,2016,Head,3883,Bayern Munich,Freiburg,4,1,2017-05-20 14:30:00,Robert Lewandowski,HeadPass
+128117,4,BlockedShot,0.8580000305175781,0.6480000305175782,0.05704321712255478,Florian Niederlechner,a,306,OpenPlay,2016,RightFoot,3883,Bayern Munich,Freiburg,4,1,2017-05-20 14:30:00,Janik Haberer,Pass
+128118,5,MissedShots,0.865,0.3629999923706055,0.04235009849071503,Maximilian Philipp,a,4247,FromCorner,2016,RightFoot,3883,Bayern Munich,Freiburg,4,1,2017-05-20 14:30:00,Janik Haberer,Pass
+128128,26,SavedShot,0.8030000305175782,0.48,0.04889623075723648,Mike Frantz,a,4246,OpenPlay,2016,RightFoot,3883,Bayern Munich,Freiburg,4,1,2017-05-20 14:30:00,Vincenzo Grifo,Pass
+128129,26,MissedShots,0.7040000152587891,0.42900001525878906,0.013791854493319988,Nicolas Höfler,a,4250,OpenPlay,2016,RightFoot,3883,Bayern Munich,Freiburg,4,1,2017-05-20 14:30:00,,Rebound
+128132,34,MissedShots,0.9219999694824219,0.3770000076293945,0.37822070717811584,Janik Haberer,a,4271,OpenPlay,2016,RightFoot,3883,Bayern Munich,Freiburg,4,1,2017-05-20 14:30:00,Maximilian Philipp,Pass
+128133,35,SavedShot,0.875999984741211,0.649000015258789,0.05695968493819237,Vincenzo Grifo,a,5266,OpenPlay,2016,LeftFoot,3883,Bayern Munich,Freiburg,4,1,2017-05-20 14:30:00,Florian Niederlechner,Pass
+128135,35,BlockedShot,0.8159999847412109,0.4329999923706055,0.08179976791143417,Janik Haberer,a,4271,OpenPlay,2016,RightFoot,3883,Bayern Munich,Freiburg,4,1,2017-05-20 14:30:00,Florian Niederlechner,Pass
+128139,41,MissedShots,0.710999984741211,0.7119999694824218,0.011065945960581303,Florian Niederlechner,a,306,OpenPlay,2016,RightFoot,3883,Bayern Munich,Freiburg,4,1,2017-05-20 14:30:00,Maximilian Philipp,BlockedPass
+128144,55,BlockedShot,0.8190000152587891,0.4209999847412109,0.05430850759148598,Maximilian Philipp,a,4247,OpenPlay,2016,RightFoot,3883,Bayern Munich,Freiburg,4,1,2017-05-20 14:30:00,Janik Haberer,Pass
+128146,59,BlockedShot,0.8540000152587891,0.7480000305175781,0.024859311059117317,Vincenzo Grifo,a,5266,OpenPlay,2016,RightFoot,3883,Bayern Munich,Freiburg,4,1,2017-05-20 14:30:00,Janik Haberer,Pass
+128147,60,SavedShot,0.8540000152587891,0.3160000038146973,0.030853448435664177,Florian Niederlechner,a,306,FromCorner,2016,LeftFoot,3883,Bayern Munich,Freiburg,4,1,2017-05-20 14:30:00,,None
+128148,61,SavedShot,0.895,0.47,0.055242203176021576,Marc-Oliver Kempf,a,4291,FromCorner,2016,Head,3883,Bayern Munich,Freiburg,4,1,2017-05-20 14:30:00,Vincenzo Grifo,Cross
+128150,65,BlockedShot,0.8580000305175781,0.4540000152587891,0.06638381630182266,Florian Niederlechner,a,306,OpenPlay,2016,RightFoot,3883,Bayern Munich,Freiburg,4,1,2017-05-20 14:30:00,,BallTouch
+128152,69,SavedShot,0.8619999694824219,0.37900001525878907,0.06966958194971085,Nils Petersen,a,4248,OpenPlay,2016,LeftFoot,3883,Bayern Munich,Freiburg,4,1,2017-05-20 14:30:00,Mike Frantz,Pass
+128153,69,SavedShot,0.9459999847412109,0.435,0.12853673100471497,Nils Petersen,a,4248,OpenPlay,2016,LeftFoot,3883,Bayern Munich,Freiburg,4,1,2017-05-20 14:30:00,,Rebound
+128156,75,Goal,0.9130000305175782,0.66,0.28253746032714844,Nils Petersen,a,4248,OpenPlay,2016,LeftFoot,3883,Bayern Munich,Freiburg,4,1,2017-05-20 14:30:00,Vincenzo Grifo,Throughball
+128158,78,SavedShot,0.8080000305175781,0.7169999694824218,0.01938670501112938,Florian Niederlechner,a,306,OpenPlay,2016,RightFoot,3883,Bayern Munich,Freiburg,4,1,2017-05-20 14:30:00,Maximilian Philipp,Chipped
+128160,83,MissedShots,0.9519999694824218,0.3029999923706055,0.026163121685385704,Nils Petersen,a,4248,OpenPlay,2016,RightFoot,3883,Bayern Munich,Freiburg,4,1,2017-05-20 14:30:00,Julian Schuster,Chipped
+128163,90,BlockedShot,0.9640000152587891,0.5579999923706055,0.09048386663198471,Marc-Oliver Kempf,a,4291,SetPiece,2016,LeftFoot,3883,Bayern Munich,Freiburg,4,1,2017-05-20 14:30:00,,None

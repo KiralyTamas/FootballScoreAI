@@ -1,0 +1,26 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+398786,13,BlockedShot,0.8369999694824218,0.509000015258789,0.040881022810935974,Andy Delort,h,3530,OpenPlay,2020,RightFoot,15952,Montpellier,Monaco,2,3,2021-01-15 20:00:00,Gaetan Laborde,Cross
+398787,17,BlockedShot,0.8630000305175781,0.45,0.10319986194372177,Florent Mollet,h,5677,OpenPlay,2020,LeftFoot,15952,Montpellier,Monaco,2,3,2021-01-15 20:00:00,Junior Sambia,Pass
+398788,21,BlockedShot,0.9059999847412109,0.23700000762939452,0.029018497094511986,Andy Delort,h,3530,OpenPlay,2020,RightFoot,15952,Montpellier,Monaco,2,3,2021-01-15 20:00:00,Florent Mollet,Pass
+398800,59,MissedShots,0.9219999694824219,0.52,0.07643035799264908,Andy Delort,h,3530,OpenPlay,2020,Head,15952,Montpellier,Monaco,2,3,2021-01-15 20:00:00,Junior Sambia,Aerial
+398802,63,Goal,0.8969999694824219,0.610999984741211,0.07544459402561188,Sepe Elye Wahi,h,9182,OpenPlay,2020,RightFoot,15952,Montpellier,Monaco,2,3,2021-01-15 20:00:00,Gaetan Laborde,BallTouch
+398803,68,Goal,0.9630000305175781,0.4640000152587891,0.1515776515007019,Andy Delort,h,3530,OpenPlay,2020,RightFoot,15952,Montpellier,Monaco,2,3,2021-01-15 20:00:00,Florent Mollet,Pass
+398804,71,BlockedShot,0.8169999694824219,0.39099998474121095,0.031700462102890015,Florent Mollet,h,5677,FromCorner,2020,RightFoot,15952,Montpellier,Monaco,2,3,2021-01-15 20:00:00,,None
+398806,74,SavedShot,0.7780000305175782,0.46099998474121096,0.03017701394855976,Andy Delort,h,3530,OpenPlay,2020,RightFoot,15952,Montpellier,Monaco,2,3,2021-01-15 20:00:00,,None
+398807,74,BlockedShot,0.8219999694824218,0.8190000152587891,0.013540178537368774,Téji Savanier,h,6863,FromCorner,2020,RightFoot,15952,Montpellier,Monaco,2,3,2021-01-15 20:00:00,,None
+398789,23,ShotOnPost,0.95,0.555,0.12238387018442154,Wissam Ben Yedder,a,3210,FromCorner,2020,RightFoot,15952,Montpellier,Monaco,2,3,2021-01-15 20:00:00,Kevin Volland,HeadPass
+398790,23,Goal,0.8690000152587891,0.42900001525878906,0.07577303797006607,Kevin Volland,a,83,FromCorner,2020,LeftFoot,15952,Montpellier,Monaco,2,3,2021-01-15 20:00:00,,Rebound
+398791,30,BlockedShot,0.8130000305175781,0.6519999694824219,0.04674471542239189,Wissam Ben Yedder,a,3210,OpenPlay,2020,RightFoot,15952,Montpellier,Monaco,2,3,2021-01-15 20:00:00,Sofiane Diop,TakeOn
+398792,31,BlockedShot,0.88,0.5820000076293945,0.047089651226997375,Aurelien Tchouameni,a,6560,FromCorner,2020,LeftFoot,15952,Montpellier,Monaco,2,3,2021-01-15 20:00:00,Djibril Sidibe,Cross
+398793,31,MissedShots,0.855999984741211,0.64,0.05366969108581543,Sofiane Diop,a,6846,FromCorner,2020,LeftFoot,15952,Montpellier,Monaco,2,3,2021-01-15 20:00:00,,Rebound
+398794,31,MissedShots,0.9230000305175782,0.4909999847412109,0.5060034990310669,Wissam Ben Yedder,a,3210,FromCorner,2020,RightFoot,15952,Montpellier,Monaco,2,3,2021-01-15 20:00:00,Guillermo Maripán,Rebound
+398795,34,Goal,0.9169999694824219,0.5720000076293945,0.2711138129234314,Wissam Ben Yedder,a,3210,OpenPlay,2020,Head,15952,Montpellier,Monaco,2,3,2021-01-15 20:00:00,Caio Henrique,Cross
+398796,45,SavedShot,0.94,0.3220000076293945,0.08572542667388916,Kevin Volland,a,83,OpenPlay,2020,RightFoot,15952,Montpellier,Monaco,2,3,2021-01-15 20:00:00,Ruben Aguilar,Pass
+398797,45,MissedShots,0.85,0.4590000152587891,0.10523658245801926,Youssouf Fofana,a,6945,OpenPlay,2020,RightFoot,15952,Montpellier,Monaco,2,3,2021-01-15 20:00:00,Ruben Aguilar,Pass
+398798,51,BlockedShot,0.8590000152587891,0.5370000076293945,0.12572818994522095,Kevin Volland,a,83,OpenPlay,2020,RightFoot,15952,Montpellier,Monaco,2,3,2021-01-15 20:00:00,Sofiane Diop,Pass
+398799,51,MissedShots,0.865,0.46900001525878904,0.012041302397847176,Wissam Ben Yedder,a,3210,OpenPlay,2020,Head,15952,Montpellier,Monaco,2,3,2021-01-15 20:00:00,Djibril Sidibe,Aerial
+398801,60,Goal,0.885,0.5,0.7600951194763184,Wissam Ben Yedder,a,3210,Penalty,2020,RightFoot,15952,Montpellier,Monaco,2,3,2021-01-15 20:00:00,,Standard
+398805,72,BlockedShot,0.924000015258789,0.3270000076293945,0.5783324837684631,Aleksandr Golovin,a,2897,OpenPlay,2020,RightFoot,15952,Montpellier,Monaco,2,3,2021-01-15 20:00:00,Wissam Ben Yedder,TakeOn
+398808,78,BlockedShot,0.74,0.590999984741211,0.0172636229544878,Aurelien Tchouameni,a,6560,OpenPlay,2020,RightFoot,15952,Montpellier,Monaco,2,3,2021-01-15 20:00:00,Ruben Aguilar,TakeOn
+398809,79,BlockedShot,0.8969999694824219,0.5509999847412109,0.10607224702835083,Kevin Volland,a,83,OpenPlay,2020,LeftFoot,15952,Montpellier,Monaco,2,3,2021-01-15 20:00:00,Fode Toure,Cross
+398810,88,MissedShots,0.77,0.4779999923706055,0.036226049065589905,Youssouf Fofana,a,6945,OpenPlay,2020,RightFoot,15952,Montpellier,Monaco,2,3,2021-01-15 20:00:00,Fode Toure,Pass

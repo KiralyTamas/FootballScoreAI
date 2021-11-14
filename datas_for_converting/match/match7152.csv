@@ -1,0 +1,25 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+159032,5,Goal,0.9369999694824219,0.5179999923706055,0.48395007848739624,Danny Welbeck,h,501,OpenPlay,2017,Head,7152,Arsenal,Bournemouth,3,0,2017-09-09 15:00:00,Sead Kolasinac,Cross
+159033,11,SavedShot,0.7580000305175781,0.6969999694824218,0.025668371468782425,Granit Xhaka,h,204,OpenPlay,2017,LeftFoot,7152,Arsenal,Bournemouth,3,0,2017-09-09 15:00:00,,TakeOn
+159034,15,SavedShot,0.8069999694824219,0.5840000152587891,0.12326717376708984,Mesut Özil,h,499,DirectFreekick,2017,LeftFoot,7152,Arsenal,Bournemouth,3,0,2017-09-09 15:00:00,,Standard
+159035,17,MissedShots,0.775,0.5179999923706055,0.03578772768378258,Granit Xhaka,h,204,OpenPlay,2017,LeftFoot,7152,Arsenal,Bournemouth,3,0,2017-09-09 15:00:00,Alexandre Lacazette,Pass
+159036,25,BlockedShot,0.9119999694824219,0.48200000762939454,0.03375454992055893,Laurent Koscielny,h,494,FromCorner,2017,Head,7152,Arsenal,Bournemouth,3,0,2017-09-09 15:00:00,Granit Xhaka,Aerial
+159037,26,Goal,0.8159999847412109,0.4470000076293945,0.07861857116222382,Alexandre Lacazette,h,3277,OpenPlay,2017,RightFoot,7152,Arsenal,Bournemouth,3,0,2017-09-09 15:00:00,Danny Welbeck,Pass
+159038,36,SavedShot,0.9059999847412109,0.48,0.4580799639225006,Alexandre Lacazette,h,3277,OpenPlay,2017,RightFoot,7152,Arsenal,Bournemouth,3,0,2017-09-09 15:00:00,Danny Welbeck,BlockedPass
+159039,39,BlockedShot,0.9259999847412109,0.674000015258789,0.08615001291036606,Sead Kolasinac,h,342,OpenPlay,2017,LeftFoot,7152,Arsenal,Bournemouth,3,0,2017-09-09 15:00:00,Héctor Bellerín,Chipped
+159042,49,Goal,0.93,0.664000015258789,0.08999726176261902,Danny Welbeck,h,501,OpenPlay,2017,LeftFoot,7152,Arsenal,Bournemouth,3,0,2017-09-09 15:00:00,Aaron Ramsey,Pass
+159043,55,MissedShots,0.9080000305175782,0.28299999237060547,0.08665704727172852,Mesut Özil,h,499,OpenPlay,2017,RightFoot,7152,Arsenal,Bournemouth,3,0,2017-09-09 15:00:00,Héctor Bellerín,Chipped
+159044,56,SavedShot,0.9369999694824219,0.4,0.38449597358703613,Aaron Ramsey,h,504,OpenPlay,2017,RightFoot,7152,Arsenal,Bournemouth,3,0,2017-09-09 15:00:00,Mesut Özil,Chipped
+159045,59,MissedShots,0.9359999847412109,0.30700000762939456,0.13066479563713074,Danny Welbeck,h,501,OpenPlay,2017,RightFoot,7152,Arsenal,Bournemouth,3,0,2017-09-09 15:00:00,Aaron Ramsey,TakeOn
+159048,71,BlockedShot,0.8180000305175781,0.4809999847412109,0.08386418968439102,Francis Coquelin,h,497,OpenPlay,2017,RightFoot,7152,Arsenal,Bournemouth,3,0,2017-09-09 15:00:00,Mesut Özil,Pass
+159049,71,MissedShots,0.9440000152587891,0.720999984741211,0.03097068890929222,Shkodran Mustafi,h,1699,FromCorner,2017,RightFoot,7152,Arsenal,Bournemouth,3,0,2017-09-09 15:00:00,Laurent Koscielny,HeadPass
+159051,78,SavedShot,0.9640000152587891,0.6580000305175782,0.22130177915096283,Olivier Giroud,h,502,OpenPlay,2017,LeftFoot,7152,Arsenal,Bournemouth,3,0,2017-09-09 15:00:00,Alexis Sánchez,Pass
+159053,86,BlockedShot,0.8580000305175781,0.3509999847412109,0.09227585047483444,Alexis Sánchez,h,498,OpenPlay,2017,RightFoot,7152,Arsenal,Bournemouth,3,0,2017-09-09 15:00:00,Mesut Özil,Chipped
+159055,92,SavedShot,0.8290000152587891,0.7330000305175781,0.04181800037622452,Alexis Sánchez,h,498,OpenPlay,2017,RightFoot,7152,Arsenal,Bournemouth,3,0,2017-09-09 15:00:00,Sead Kolasinac,Pass
+159040,47,ShotOnPost,0.9259999847412109,0.45,0.12751621007919312,Jermain Defoe,a,735,OpenPlay,2017,Head,7152,Arsenal,Bournemouth,3,0,2017-09-09 15:00:00,Jordon Ibe,Cross
+159041,47,MissedShots,0.9319999694824219,0.48700000762939455,0.1510903686285019,Jermain Defoe,a,735,OpenPlay,2017,RightFoot,7152,Arsenal,Bournemouth,3,0,2017-09-09 15:00:00,,Rebound
+159046,67,MissedShots,0.8630000305175781,0.5109999847412109,0.010604025796055794,Nathan Aké,a,579,SetPiece,2017,Head,7152,Arsenal,Bournemouth,3,0,2017-09-09 15:00:00,Adam Smith,Aerial
+159047,69,MissedShots,0.7859999847412109,0.3139999961853027,0.06309642642736435,Jordon Ibe,a,481,DirectFreekick,2017,RightFoot,7152,Arsenal,Bournemouth,3,0,2017-09-09 15:00:00,,Standard
+159050,75,MissedShots,0.91,0.5629999923706055,0.05262598395347595,Lys Mousset,a,1748,OpenPlay,2017,Head,7152,Arsenal,Bournemouth,3,0,2017-09-09 15:00:00,Charlie Daniels,Aerial
+159052,84,SavedShot,0.865,0.7280000305175781,0.0435607023537159,Lys Mousset,a,1748,OpenPlay,2017,RightFoot,7152,Arsenal,Bournemouth,3,0,2017-09-09 15:00:00,,TakeOn
+159054,88,SavedShot,0.9530000305175781,0.5529999923706055,0.14806368947029114,Joshua King,a,465,OpenPlay,2017,Head,7152,Arsenal,Bournemouth,3,0,2017-09-09 15:00:00,Jordon Ibe,Cross

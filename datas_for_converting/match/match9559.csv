@@ -1,0 +1,26 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+299601,19,MissedShots,0.9269999694824219,0.6719999694824219,0.02126345783472061,Matt Ritchie,h,461,OpenPlay,2018,LeftFoot,9559,Newcastle United,Liverpool,2,3,2019-05-04 18:45:00,,Aerial
+299602,19,BlockedShot,0.9590000152587891,0.4759999847412109,0.1520545780658722,Salomón Rondón,h,813,OpenPlay,2018,LeftFoot,9559,Newcastle United,Liverpool,2,3,2019-05-04 18:45:00,Matt Ritchie,Rebound
+299603,19,Goal,0.9590000152587891,0.5320000076293945,0.6434592008590698,Christian Atsu,h,2344,OpenPlay,2018,LeftFoot,9559,Newcastle United,Liverpool,2,3,2019-05-04 18:45:00,,Rebound
+299604,23,SavedShot,0.905,0.4279999923706055,0.06671775132417679,Javier Manquillo,h,1719,OpenPlay,2018,Head,9559,Newcastle United,Liverpool,2,3,2019-05-04 18:45:00,Matt Ritchie,Cross
+299605,25,ShotOnPost,0.875999984741211,0.37099998474121093,0.02871069870889187,Ayoze Pérez,h,770,OpenPlay,2018,RightFoot,9559,Newcastle United,Liverpool,2,3,2019-05-04 18:45:00,Christian Atsu,Aerial
+299606,25,SavedShot,0.7319999694824219,0.754000015258789,0.01106496062129736,Ki Sung-yueng,h,723,OpenPlay,2018,RightFoot,9559,Newcastle United,Liverpool,2,3,2019-05-04 18:45:00,Matt Ritchie,Pass
+299611,41,SavedShot,0.7659999847412109,0.5259999847412109,0.0811348631978035,Salomón Rondón,h,813,OpenPlay,2018,RightFoot,9559,Newcastle United,Liverpool,2,3,2019-05-04 18:45:00,Javier Manquillo,Chipped
+299613,49,BlockedShot,0.755,0.5520000076293945,0.02111363783478737,Matt Ritchie,h,461,OpenPlay,2018,RightFoot,9559,Newcastle United,Liverpool,2,3,2019-05-04 18:45:00,,None
+299614,49,SavedShot,0.8580000305175781,0.5940000152587891,0.07695268094539642,Salomón Rondón,h,813,OpenPlay,2018,RightFoot,9559,Newcastle United,Liverpool,2,3,2019-05-04 18:45:00,Christian Atsu,Pass
+299617,53,Goal,0.87,0.580999984741211,0.06565821170806885,Salomón Rondón,h,813,FromCorner,2018,LeftFoot,9559,Newcastle United,Liverpool,2,3,2019-05-04 18:45:00,Javier Manquillo,HeadPass
+299618,61,BlockedShot,0.915,0.655,0.09775831550359726,Ayoze Pérez,h,770,OpenPlay,2018,RightFoot,9559,Newcastle United,Liverpool,2,3,2019-05-04 18:45:00,,TakeOn
+299619,65,MissedShots,0.909000015258789,0.61,0.035981569439172745,Christian Atsu,h,2344,OpenPlay,2018,Head,9559,Newcastle United,Liverpool,2,3,2019-05-04 18:45:00,Matt Ritchie,Cross
+299620,73,BlockedShot,0.8419999694824218,0.59,0.0684567540884018,Salomón Rondón,h,813,OpenPlay,2018,LeftFoot,9559,Newcastle United,Liverpool,2,3,2019-05-04 18:45:00,Christian Atsu,Pass
+299622,93,BlockedShot,0.7040000152587891,0.485,0.03942125290632248,Salomón Rondón,h,813,DirectFreekick,2018,RightFoot,9559,Newcastle United,Liverpool,2,3,2019-05-04 18:45:00,,Standard
+299598,10,MissedShots,0.9540000152587891,0.3629999923706055,0.04871396720409393,Mohamed Salah,a,1250,OpenPlay,2018,LeftFoot,9559,Newcastle United,Liverpool,2,3,2019-05-04 18:45:00,Andrew Robertson,Cross
+299599,12,BlockedShot,0.91,0.3840000152587891,0.0729554146528244,Mohamed Salah,a,1250,OpenPlay,2018,RightFoot,9559,Newcastle United,Liverpool,2,3,2019-05-04 18:45:00,Sadio Mané,Cross
+299600,12,Goal,0.9369999694824219,0.5059999847412109,0.4109724164009094,Virgil van Dijk,a,833,FromCorner,2018,Head,9559,Newcastle United,Liverpool,2,3,2019-05-04 18:45:00,Trent Alexander-Arnold,Cross
+299607,27,Goal,0.8969999694824219,0.47200000762939454,0.09475221484899521,Mohamed Salah,a,1250,OpenPlay,2018,RightFoot,9559,Newcastle United,Liverpool,2,3,2019-05-04 18:45:00,Trent Alexander-Arnold,Cross
+299608,31,SavedShot,0.909000015258789,0.37400001525878906,0.3517441749572754,Sadio Mané,a,838,OpenPlay,2018,RightFoot,9559,Newcastle United,Liverpool,2,3,2019-05-04 18:45:00,Mohamed Salah,Throughball
+299609,33,MissedShots,0.799000015258789,0.3609999847412109,0.043222133070230484,Daniel Sturridge,a,483,OpenPlay,2018,LeftFoot,9559,Newcastle United,Liverpool,2,3,2019-05-04 18:45:00,Mohamed Salah,Pass
+299610,36,MissedShots,0.8669999694824219,0.7080000305175781,0.05448940768837929,Andrew Robertson,a,1688,OpenPlay,2018,LeftFoot,9559,Newcastle United,Liverpool,2,3,2019-05-04 18:45:00,Jordan Henderson,Pass
+299612,47,MissedShots,0.8490000152587891,0.34799999237060547,0.07123533636331558,Mohamed Salah,a,1250,OpenPlay,2018,RightFoot,9559,Newcastle United,Liverpool,2,3,2019-05-04 18:45:00,Daniel Sturridge,Pass
+299615,49,MissedShots,0.855,0.515,0.10888059437274933,Daniel Sturridge,a,483,OpenPlay,2018,LeftFoot,9559,Newcastle United,Liverpool,2,3,2019-05-04 18:45:00,Georginio Wijnaldum,Pass
+299616,50,MissedShots,0.9069999694824219,0.5629999923706055,0.13793165981769562,Jordan Henderson,a,605,OpenPlay,2018,RightFoot,9559,Newcastle United,Liverpool,2,3,2019-05-04 18:45:00,Andrew Robertson,Pass
+299621,85,Goal,0.9459999847412109,0.4759999847412109,0.08590996265411377,Divock Origi,a,484,SetPiece,2018,Head,9559,Newcastle United,Liverpool,2,3,2019-05-04 18:45:00,Xherdan Shaqiri,Aerial

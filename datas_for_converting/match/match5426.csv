@@ -1,0 +1,30 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+25077,2,MissedShots,0.775,0.6329999923706054,0.021077757701277733,Sami Allagui,h,4304,OpenPlay,2014,LeftFoot,5426,Mainz 05,Borussia Dortmund,2,0,2014-09-20 17:30:00,,None
+25079,7,MissedShots,0.9430000305175781,0.8469999694824218,0.0593927837908268,Johannes Geis,h,336,DirectFreekick,2014,RightFoot,5426,Mainz 05,Borussia Dortmund,2,0,2014-09-20 17:30:00,,Standard
+25082,17,SavedShot,0.7919999694824219,0.575,0.029134826734662056,Jonas Hofmann,h,320,OpenPlay,2014,RightFoot,5426,Mainz 05,Borussia Dortmund,2,0,2014-09-20 17:30:00,Shinji Okazaki,TakeOn
+25084,27,SavedShot,0.715,0.40200000762939453,0.015085561200976372,Johannes Geis,h,336,OpenPlay,2014,RightFoot,5426,Mainz 05,Borussia Dortmund,2,0,2014-09-20 17:30:00,Julian Baumgartlinger,Pass
+25087,35,SavedShot,0.915,0.375,0.07806209474802017,Shinji Okazaki,h,754,OpenPlay,2014,RightFoot,5426,Mainz 05,Borussia Dortmund,2,0,2014-09-20 17:30:00,,None
+25088,37,SavedShot,0.8019999694824219,0.7190000152587891,0.02408287487924099,Jonas Hofmann,h,320,OpenPlay,2014,RightFoot,5426,Mainz 05,Borussia Dortmund,2,0,2014-09-20 17:30:00,Júnior Díaz,Pass
+25094,54,MissedShots,0.8730000305175781,0.549000015258789,0.0345415361225605,Shinji Okazaki,h,754,OpenPlay,2014,Head,5426,Mainz 05,Borussia Dortmund,2,0,2014-09-20 17:30:00,Julian Baumgartlinger,Chipped
+25097,65,Goal,0.9619999694824218,0.4779999923706055,0.6509267091751099,Shinji Okazaki,h,754,OpenPlay,2014,RightFoot,5426,Mainz 05,Borussia Dortmund,2,0,2014-09-20 17:30:00,Jairo Samperio,Pass
+25100,72,MissedShots,0.9280000305175782,0.5459999847412109,0.06260982155799866,Shinji Okazaki,h,754,SetPiece,2014,Head,5426,Mainz 05,Borussia Dortmund,2,0,2014-09-20 17:30:00,Johannes Geis,Aerial
+25078,3,BlockedShot,0.9319999694824219,0.33599998474121096,0.05511799827218056,Lukasz Piszczek,a,310,OpenPlay,2014,RightFoot,5426,Mainz 05,Borussia Dortmund,2,0,2014-09-20 17:30:00,Sven Bender,Chipped
+25080,10,MissedShots,0.799000015258789,0.784000015258789,0.011859245598316193,Kevin Großkreutz,a,2664,OpenPlay,2014,RightFoot,5426,Mainz 05,Borussia Dortmund,2,0,2014-09-20 17:30:00,,None
+25081,13,MissedShots,0.91,0.6,0.4162939190864563,Adrián Ramos,a,324,OpenPlay,2014,Head,5426,Mainz 05,Borussia Dortmund,2,0,2014-09-20 17:30:00,Pierre-Emerick Aubameyang,Chipped
+25083,21,MissedShots,0.8159999847412109,0.485,0.0212085098028183,Adrián Ramos,a,324,OpenPlay,2014,RightFoot,5426,Mainz 05,Borussia Dortmund,2,0,2014-09-20 17:30:00,,Aerial
+25085,30,SavedShot,0.8130000305175781,0.6329999923706054,0.061980556696653366,Milos Jojic,a,144,OpenPlay,2014,LeftFoot,5426,Mainz 05,Borussia Dortmund,2,0,2014-09-20 17:30:00,,TakeOn
+25086,34,BlockedShot,0.6880000305175781,0.49599998474121093,0.01417006365954876,Sven Bender,a,311,OpenPlay,2014,RightFoot,5426,Mainz 05,Borussia Dortmund,2,0,2014-09-20 17:30:00,,TakeOn
+25089,38,BlockedShot,0.7140000152587891,0.3340000152587891,0.008979538455605507,Pierre-Emerick Aubameyang,a,318,OpenPlay,2014,LeftFoot,5426,Mainz 05,Borussia Dortmund,2,0,2014-09-20 17:30:00,Adrián Ramos,HeadPass
+25090,39,ShotOnPost,0.9290000152587891,0.42200000762939455,0.1298629194498062,Adrián Ramos,a,324,OpenPlay,2014,RightFoot,5426,Mainz 05,Borussia Dortmund,2,0,2014-09-20 17:30:00,Lukasz Piszczek,Pass
+25091,39,SavedShot,0.720999984741211,0.43599998474121093,0.02005966380238533,Pierre-Emerick Aubameyang,a,318,OpenPlay,2014,RightFoot,5426,Mainz 05,Borussia Dortmund,2,0,2014-09-20 17:30:00,Sven Bender,Pass
+25092,52,BlockedShot,0.889000015258789,0.48400001525878905,0.41510123014450073,Adrián Ramos,a,324,OpenPlay,2014,LeftFoot,5426,Mainz 05,Borussia Dortmund,2,0,2014-09-20 17:30:00,Kevin Großkreutz,Pass
+25093,53,MissedShots,0.905,0.6869999694824219,0.042134061455726624,Pierre-Emerick Aubameyang,a,318,FromCorner,2014,LeftFoot,5426,Mainz 05,Borussia Dortmund,2,0,2014-09-20 17:30:00,,None
+25095,61,BlockedShot,0.7130000305175781,0.48400001525878905,0.011990255676209927,Milos Jojic,a,144,OpenPlay,2014,RightFoot,5426,Mainz 05,Borussia Dortmund,2,0,2014-09-20 17:30:00,,None
+25096,62,MissedShots,0.774000015258789,0.24399999618530274,0.02042076177895069,Shinji Kagawa,a,321,OpenPlay,2014,RightFoot,5426,Mainz 05,Borussia Dortmund,2,0,2014-09-20 17:30:00,Kevin Großkreutz,Pass
+25098,68,BlockedShot,0.8530000305175781,0.580999984741211,0.0321437269449234,Ciro Immobile,a,1209,FromCorner,2014,RightFoot,5426,Mainz 05,Borussia Dortmund,2,0,2014-09-20 17:30:00,Sokratis,TakeOn
+25099,69,SavedShot,0.885,0.5,0.75777667760849,Ciro Immobile,a,1209,Penalty,2014,RightFoot,5426,Mainz 05,Borussia Dortmund,2,0,2014-09-20 17:30:00,,Standard
+25101,73,OwnGoal,0.09699999809265136,0.47200000762939454,0,Matthias Ginter,a,315,OpenPlay,2014,LeftFoot,5426,Mainz 05,Borussia Dortmund,2,0,2014-09-20 17:30:00,,None
+25102,83,MissedShots,0.7369999694824219,0.4159999847412109,0.018032046034932137,Pierre-Emerick Aubameyang,a,318,OpenPlay,2014,RightFoot,5426,Mainz 05,Borussia Dortmund,2,0,2014-09-20 17:30:00,Mitsuru Maruoka,Pass
+25103,87,BlockedShot,0.775,0.6329999923706054,0.024268873035907745,Ciro Immobile,a,1209,OpenPlay,2014,RightFoot,5426,Mainz 05,Borussia Dortmund,2,0,2014-09-20 17:30:00,Henrikh Mkhitaryan,Pass
+25104,89,ShotOnPost,0.77,0.28899999618530275,0.010319803841412067,Henrikh Mkhitaryan,a,317,OpenPlay,2014,RightFoot,5426,Mainz 05,Borussia Dortmund,2,0,2014-09-20 17:30:00,,None
+25105,89,SavedShot,0.7909999847412109,0.5729999923706055,0.03203876316547394,Milos Jojic,a,144,OpenPlay,2014,RightFoot,5426,Mainz 05,Borussia Dortmund,2,0,2014-09-20 17:30:00,Ciro Immobile,Pass

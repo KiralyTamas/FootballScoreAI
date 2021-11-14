@@ -1,0 +1,27 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+363868,8,Goal,0.9259999847412109,0.6020000076293945,0.30466002225875854,Lucas Alario,h,6338,OpenPlay,2019,RightFoot,12666,Bayer Leverkusen,Bayern Munich,2,4,2020-06-06 13:30:00,Julian Baumgartlinger,Chipped
+363876,37,SavedShot,0.7959999847412109,0.42700000762939455,0.04221751168370247,Moussa Diaby,h,6556,OpenPlay,2019,RightFoot,12666,Bayer Leverkusen,Bayern Munich,2,4,2020-06-06 13:30:00,Nadiem Amiri,Pass
+363882,54,BlockedShot,0.9690000152587891,0.3970000076293945,0.05940381437540054,Lucas Alario,h,6338,OpenPlay,2019,Head,12666,Bayer Leverkusen,Bayern Munich,2,4,2020-06-06 13:30:00,Moussa Diaby,Cross
+363884,62,MissedShots,0.779000015258789,0.645,0.01728012226521969,Moussa Diaby,h,6556,OpenPlay,2019,LeftFoot,12666,Bayer Leverkusen,Bayern Munich,2,4,2020-06-06 13:30:00,,TakeOn
+363887,71,MissedShots,0.909000015258789,0.5720000076293945,0.04593091830611229,Lucas Alario,h,6338,OpenPlay,2019,Head,12666,Bayer Leverkusen,Bayern Munich,2,4,2020-06-06 13:30:00,Wendell,Aerial
+363888,77,SavedShot,0.9069999694824219,0.7319999694824219,0.04136188328266144,Moussa Diaby,h,6556,OpenPlay,2019,LeftFoot,12666,Bayer Leverkusen,Bayern Munich,2,4,2020-06-06 13:30:00,,BallRecovery
+363889,80,BlockedShot,0.860999984741211,0.5179999923706055,0.09201882034540176,Kevin Volland,h,83,OpenPlay,2019,LeftFoot,12666,Bayer Leverkusen,Bayern Munich,2,4,2020-06-06 13:30:00,Wendell,Pass
+363890,80,SavedShot,0.81,0.509000015258789,0.05127432197332382,Florian Wirtz,h,8397,OpenPlay,2019,RightFoot,12666,Bayer Leverkusen,Bayern Munich,2,4,2020-06-06 13:30:00,,BallRecovery
+363892,88,Goal,0.8969999694824219,0.38799999237060545,0.09709076583385468,Florian Wirtz,h,8397,OpenPlay,2019,LeftFoot,12666,Bayer Leverkusen,Bayern Munich,2,4,2020-06-06 13:30:00,Paulinho,Pass
+363893,90,SavedShot,0.745,0.6580000305175782,0.01732015237212181,Kevin Volland,h,83,OpenPlay,2019,LeftFoot,12666,Bayer Leverkusen,Bayern Munich,2,4,2020-06-06 13:30:00,Wendell,Pass
+363869,14,SavedShot,0.899000015258789,0.5820000076293945,0.03762936219573021,Leon Goretzka,a,335,FromCorner,2019,Head,12666,Bayer Leverkusen,Bayern Munich,2,4,2020-06-06 13:30:00,Joshua Kimmich,Cross
+363870,15,MissedShots,0.8019999694824219,0.77,0.016853714361786842,Kingsley Coman,a,226,OpenPlay,2019,RightFoot,12666,Bayer Leverkusen,Bayern Munich,2,4,2020-06-06 13:30:00,Alphonso Davies,Pass
+363871,19,BlockedShot,0.8340000152587891,0.6969999694824218,0.034721504896879196,Kingsley Coman,a,226,OpenPlay,2019,LeftFoot,12666,Bayer Leverkusen,Bayern Munich,2,4,2020-06-06 13:30:00,Thomas Müller,Pass
+363872,22,BlockedShot,0.8119999694824219,0.46299999237060546,0.04466666281223297,Joshua Kimmich,a,223,OpenPlay,2019,RightFoot,12666,Bayer Leverkusen,Bayern Munich,2,4,2020-06-06 13:30:00,Serge Gnabry,Pass
+363873,23,SavedShot,0.955999984741211,0.48700000762939455,0.5242258310317993,Robert Lewandowski,a,227,OpenPlay,2019,Head,12666,Bayer Leverkusen,Bayern Munich,2,4,2020-06-06 13:30:00,Kingsley Coman,HeadPass
+363874,26,Goal,0.8419999694824218,0.649000015258789,0.5192437171936035,Kingsley Coman,a,226,OpenPlay,2019,RightFoot,12666,Bayer Leverkusen,Bayern Munich,2,4,2020-06-06 13:30:00,Leon Goretzka,Throughball
+363875,30,SavedShot,0.8519999694824218,0.8209999847412109,0.05284598469734192,Joshua Kimmich,a,223,DirectFreekick,2019,RightFoot,12666,Bayer Leverkusen,Bayern Munich,2,4,2020-06-06 13:30:00,,Standard
+363877,38,MissedShots,0.8980000305175782,0.33599998474121096,0.05527340993285179,Robert Lewandowski,a,227,OpenPlay,2019,RightFoot,12666,Bayer Leverkusen,Bayern Munich,2,4,2020-06-06 13:30:00,David Alaba,Chipped
+363878,41,Goal,0.8130000305175781,0.55,0.05928455665707588,Leon Goretzka,a,335,OpenPlay,2019,LeftFoot,12666,Bayer Leverkusen,Bayern Munich,2,4,2020-06-06 13:30:00,Thomas Müller,Pass
+363879,44,SavedShot,0.9259999847412109,0.41,0.3902445435523987,Serge Gnabry,a,993,OpenPlay,2019,RightFoot,12666,Bayer Leverkusen,Bayern Munich,2,4,2020-06-06 13:30:00,Jérôme Boateng,Throughball
+363880,44,Goal,0.8090000152587891,0.3509999847412109,0.13801176846027374,Serge Gnabry,a,993,OpenPlay,2019,RightFoot,12666,Bayer Leverkusen,Bayern Munich,2,4,2020-06-06 13:30:00,Joshua Kimmich,Foul
+363881,49,MissedShots,0.815,0.49,0.08671435713768005,Thomas Müller,a,224,OpenPlay,2019,RightFoot,12666,Bayer Leverkusen,Bayern Munich,2,4,2020-06-06 13:30:00,Kingsley Coman,Pass
+363883,61,SavedShot,0.924000015258789,0.5929999923706055,0.054527465254068375,Thomas Müller,a,224,FromCorner,2019,Head,12666,Bayer Leverkusen,Bayern Munich,2,4,2020-06-06 13:30:00,Joshua Kimmich,Cross
+363885,63,MissedShots,0.88,0.43599998474121093,0.1343999058008194,Serge Gnabry,a,993,OpenPlay,2019,RightFoot,12666,Bayer Leverkusen,Bayern Munich,2,4,2020-06-06 13:30:00,Kingsley Coman,Pass
+363886,65,Goal,0.915,0.49900001525878906,0.3578251004219055,Robert Lewandowski,a,227,OpenPlay,2019,Head,12666,Bayer Leverkusen,Bayern Munich,2,4,2020-06-06 13:30:00,Thomas Müller,Cross
+363891,85,SavedShot,0.9830000305175781,0.5940000152587891,0.14483097195625305,Robert Lewandowski,a,227,OpenPlay,2019,RightFoot,12666,Bayer Leverkusen,Bayern Munich,2,4,2020-06-06 13:30:00,Lucas Hernández,TakeOn

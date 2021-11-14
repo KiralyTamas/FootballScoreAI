@@ -1,0 +1,19 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+79566,2,BlockedShot,0.8859999847412109,0.36900001525878906,0.06749872118234634,Mitchell Weiser,h,28,OpenPlay,2015,LeftFoot,1151,Hertha Berlin,Bayer Leverkusen,2,1,2015-12-05 18:30:00,,None
+79567,6,Goal,0.899000015258789,0.4209999847412109,0.391308069229126,Vladimir Darida,h,27,OpenPlay,2015,RightFoot,1151,Hertha Berlin,Bayer Leverkusen,2,1,2015-12-05 18:30:00,Vedad Ibisevic,Pass
+79568,8,SavedShot,0.9469999694824218,0.4279999923706055,0.10688977688550949,Vedad Ibisevic,h,29,FromCorner,2015,LeftFoot,1151,Hertha Berlin,Bayer Leverkusen,2,1,2015-12-05 18:30:00,,None
+79569,8,MissedShots,0.8919999694824219,0.4879999923706055,0.11343738436698914,Vedad Ibisevic,h,29,FromCorner,2015,RightFoot,1151,Hertha Berlin,Bayer Leverkusen,2,1,2015-12-05 18:30:00,,Rebound
+79570,14,BlockedShot,0.9180000305175782,0.610999984741211,0.09149271994829178,Vedad Ibisevic,h,29,OpenPlay,2015,LeftFoot,1151,Hertha Berlin,Bayer Leverkusen,2,1,2015-12-05 18:30:00,Marvin Plattenhardt,Cross
+79572,24,BlockedShot,0.9030000305175782,0.759000015258789,0.04290295019745827,Genki Haraguchi,h,35,OpenPlay,2015,LeftFoot,1151,Hertha Berlin,Bayer Leverkusen,2,1,2015-12-05 18:30:00,Salomon Kalou,Pass
+79576,44,BlockedShot,0.789000015258789,0.38299999237060545,0.030213160440325737,Salomon Kalou,h,26,OpenPlay,2015,RightFoot,1151,Hertha Berlin,Bayer Leverkusen,2,1,2015-12-05 18:30:00,Vladimir Darida,Pass
+79577,45,MissedShots,0.585,0.6459999847412109,0.011035672388970852,Yanni Regäsel,h,20,FromCorner,2015,RightFoot,1151,Hertha Berlin,Bayer Leverkusen,2,1,2015-12-05 18:30:00,,BallRecovery
+79578,59,Goal,0.9259999847412109,0.48400001525878905,0.116035595536232,John Brooks,h,22,FromCorner,2015,Head,1151,Hertha Berlin,Bayer Leverkusen,2,1,2015-12-05 18:30:00,Marvin Plattenhardt,Cross
+79580,81,SavedShot,0.9059999847412109,0.47400001525878904,0.06687517464160919,John Brooks,h,22,SetPiece,2015,RightFoot,1151,Hertha Berlin,Bayer Leverkusen,2,1,2015-12-05 18:30:00,Fabian Lustenberger,Aerial
+79571,21,SavedShot,0.8419999694824218,0.3820000076293945,0.05271143838763237,Admir Mehmedi,a,194,OpenPlay,2015,RightFoot,1151,Hertha Berlin,Bayer Leverkusen,2,1,2015-12-05 18:30:00,Chicharito,Pass
+79573,28,Goal,0.8930000305175781,0.625,0.36469557881355286,Chicharito,a,191,OpenPlay,2015,LeftFoot,1151,Hertha Berlin,Bayer Leverkusen,2,1,2015-12-05 18:30:00,Admir Mehmedi,Throughball
+79574,30,ShotOnPost,0.8680000305175781,0.47,0.036797601729631424,Jonathan Tah,a,183,SetPiece,2015,Head,1151,Hertha Berlin,Bayer Leverkusen,2,1,2015-12-05 18:30:00,Admir Mehmedi,Cross
+79575,36,MissedShots,0.9540000152587891,0.40599998474121096,0.134566530585289,Chicharito,a,191,OpenPlay,2015,RightFoot,1151,Hertha Berlin,Bayer Leverkusen,2,1,2015-12-05 18:30:00,Karim Bellarabi,Pass
+79579,61,BlockedShot,0.9290000152587891,0.4520000076293945,0.09675542265176773,Chicharito,a,191,OpenPlay,2015,RightFoot,1151,Hertha Berlin,Bayer Leverkusen,2,1,2015-12-05 18:30:00,Karim Bellarabi,Pass
+79581,86,MissedShots,0.86,0.5870000076293945,0.014287144877016544,Ömer Toprak,a,184,FromCorner,2015,Head,1151,Hertha Berlin,Bayer Leverkusen,2,1,2015-12-05 18:30:00,Hakan Calhanoglu,Cross
+79582,91,MissedShots,0.9080000305175782,0.5990000152587891,0.047769080847501755,Jonathan Tah,a,183,SetPiece,2015,Head,1151,Hertha Berlin,Bayer Leverkusen,2,1,2015-12-05 18:30:00,Hakan Calhanoglu,Chipped
+79583,91,MissedShots,0.93,0.5320000076293945,0.5225788950920105,Chicharito,a,191,SetPiece,2015,OtherBodyPart,1151,Hertha Berlin,Bayer Leverkusen,2,1,2015-12-05 18:30:00,Jonathan Tah,Rebound

@@ -1,0 +1,23 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+15532,2,MissedShots,0.8969999694824219,0.575,0.03206159174442291,Sergio Agüero,h,619,OpenPlay,2014,Head,4737,Manchester City,Chelsea,1,1,2014-09-21 16:00:00,Pablo Zabaleta,Aerial
+15533,6,MissedShots,0.9009999847412109,0.455,0.04137472063302994,Edin Dzeko,h,1253,OpenPlay,2014,Head,4737,Manchester City,Chelsea,1,1,2014-09-21 16:00:00,Aleksandar Kolarov,Aerial
+15534,8,BlockedShot,0.8109999847412109,0.46,0.058190055191516876,Edin Dzeko,h,1253,OpenPlay,2014,LeftFoot,4737,Manchester City,Chelsea,1,1,2014-09-21 16:00:00,James Milner,Pass
+15535,8,SavedShot,0.9119999694824219,0.5459999847412109,0.07124248147010803,Yaya Touré,h,878,FromCorner,2014,Head,4737,Manchester City,Chelsea,1,1,2014-09-21 16:00:00,David Silva,Cross
+15536,28,MissedShots,0.8059999847412109,0.39799999237060546,0.039271242916584015,Fernandinho,h,614,OpenPlay,2014,RightFoot,4737,Manchester City,Chelsea,1,1,2014-09-21 16:00:00,,None
+15537,30,MissedShots,0.8780000305175781,0.5979999923706054,0.02807808108627796,Sergio Agüero,h,619,FromCorner,2014,RightFoot,4737,Manchester City,Chelsea,1,1,2014-09-21 16:00:00,,Aerial
+15539,33,BlockedShot,0.815,0.5570000076293945,0.05461117625236511,Edin Dzeko,h,1253,OpenPlay,2014,LeftFoot,4737,Manchester City,Chelsea,1,1,2014-09-21 16:00:00,,Dispossessed
+15540,47,SavedShot,0.8019999694824219,0.3240000152587891,0.0262020081281662,Sergio Agüero,h,619,OpenPlay,2014,LeftFoot,4737,Manchester City,Chelsea,1,1,2014-09-21 16:00:00,Pablo Zabaleta,Pass
+15541,54,MissedShots,0.8130000305175781,0.49400001525878906,0.033446814864873886,Fernandinho,h,614,FromCorner,2014,RightFoot,4737,Manchester City,Chelsea,1,1,2014-09-21 16:00:00,Eliaquim Mangala,Pass
+15542,55,BlockedShot,0.795,0.5929999923706055,0.03886333853006363,Aleksandar Kolarov,h,621,OpenPlay,2014,RightFoot,4737,Manchester City,Chelsea,1,1,2014-09-21 16:00:00,,Interception
+15543,55,SavedShot,0.855,0.46,0.1003560870885849,Sergio Agüero,h,619,OpenPlay,2014,LeftFoot,4737,Manchester City,Chelsea,1,1,2014-09-21 16:00:00,James Milner,Pass
+15548,81,MissedShots,0.9290000152587891,0.2720000076293945,0.029940379783511162,David Silva,h,617,OpenPlay,2014,LeftFoot,4737,Manchester City,Chelsea,1,1,2014-09-21 16:00:00,Jesús Navas,Chipped
+15549,84,Goal,0.8909999847412109,0.5640000152587891,0.40473297238349915,Frank Lampard,h,4418,OpenPlay,2014,RightFoot,4737,Manchester City,Chelsea,1,1,2014-09-21 16:00:00,James Milner,Pass
+15550,88,BlockedShot,0.8530000305175781,0.5540000152587891,0.06976611912250519,Frank Lampard,h,4418,OpenPlay,2014,LeftFoot,4737,Manchester City,Chelsea,1,1,2014-09-21 16:00:00,,None
+15551,88,MissedShots,0.7319999694824219,0.425,0.013512915931642056,Yaya Touré,h,878,OpenPlay,2014,RightFoot,4737,Manchester City,Chelsea,1,1,2014-09-21 16:00:00,,Rebound
+15553,92,MissedShots,0.7080000305175781,0.4779999923706055,0.015213007107377052,Frank Lampard,h,4418,OpenPlay,2014,RightFoot,4737,Manchester City,Chelsea,1,1,2014-09-21 16:00:00,James Milner,Pass
+15538,32,BlockedShot,0.895,0.5509999847412109,0.07103937864303589,Gary Cahill,a,699,SetPiece,2014,Head,4737,Manchester City,Chelsea,1,1,2014-09-21 16:00:00,Cesc Fàbregas,Cross
+15544,58,BlockedShot,0.755,0.6880000305175781,0.047143805772066116,Cesc Fàbregas,a,686,DirectFreekick,2014,RightFoot,4737,Manchester City,Chelsea,1,1,2014-09-21 16:00:00,,Standard
+15545,70,Goal,0.965999984741211,0.53,0.6522250175476074,André Schürrle,a,154,OpenPlay,2014,LeftFoot,4737,Manchester City,Chelsea,1,1,2014-09-21 16:00:00,Eden Hazard,Cross
+15546,75,SavedShot,0.91,0.5420000076293945,0.10609646141529083,Diego Costa,a,802,SetPiece,2014,Head,4737,Manchester City,Chelsea,1,1,2014-09-21 16:00:00,André Schürrle,Cross
+15547,80,ShotOnPost,0.8480000305175781,0.46299999237060546,0.10723179578781128,Diego Costa,a,802,OpenPlay,2014,LeftFoot,4737,Manchester City,Chelsea,1,1,2014-09-21 16:00:00,Cesc Fàbregas,Pass
+15552,91,MissedShots,0.705,0.595999984741211,0.03718895837664604,Didier Drogba,a,4434,DirectFreekick,2014,RightFoot,4737,Manchester City,Chelsea,1,1,2014-09-21 16:00:00,,Standard

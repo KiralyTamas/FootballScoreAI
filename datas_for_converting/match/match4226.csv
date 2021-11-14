@@ -1,0 +1,22 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+109796,6,MissedShots,0.735999984741211,0.6370000076293946,0.01585148088634014,Kévin Monnet-Paquet,h,3513,OpenPlay,2016,RightFoot,4226,Saint-Etienne,Nantes,1,1,2017-04-09 16:00:00,,BallRecovery
+109798,9,BlockedShot,0.815,0.7090000152587891,0.026460926979780197,Kévin Monnet-Paquet,h,3513,OpenPlay,2016,RightFoot,4226,Saint-Etienne,Nantes,1,1,2017-04-09 16:00:00,Romain Hamouma,Pass
+109803,27,ShotOnPost,0.915,0.46599998474121096,0.08421424776315689,Robert Beric,h,3691,OpenPlay,2016,Head,4226,Saint-Etienne,Nantes,1,1,2017-04-09 16:00:00,Ronael Pierre Gabriel,Cross
+109804,29,SavedShot,0.7440000152587891,0.6959999847412109,0.043595317751169205,Henri Saivet,h,778,DirectFreekick,2016,RightFoot,4226,Saint-Etienne,Nantes,1,1,2017-04-09 16:00:00,,Standard
+109806,46,SavedShot,0.7909999847412109,0.25799999237060545,0.015577537007629871,Henri Saivet,h,778,OpenPlay,2016,RightFoot,4226,Saint-Etienne,Nantes,1,1,2017-04-09 16:00:00,Ronael Pierre Gabriel,TakeOn
+109807,46,MissedShots,0.759000015258789,0.515,0.02137656696140766,Ole Selnaes,h,3519,FromCorner,2016,RightFoot,4226,Saint-Etienne,Nantes,1,1,2017-04-09 16:00:00,Jordan Veretout,BallTouch
+109809,56,ShotOnPost,0.9869999694824219,0.715,0.2748523950576782,Romain Hamouma,h,3561,OpenPlay,2016,LeftFoot,4226,Saint-Etienne,Nantes,1,1,2017-04-09 16:00:00,,None
+109810,56,MissedShots,0.7190000152587891,0.5279999923706055,0.014188127592206001,Jordan Veretout,h,677,FromCorner,2016,RightFoot,4226,Saint-Etienne,Nantes,1,1,2017-04-09 16:00:00,,None
+109811,58,SavedShot,0.749000015258789,0.5420000076293945,0.021431857720017433,Romain Hamouma,h,3561,OpenPlay,2016,RightFoot,4226,Saint-Etienne,Nantes,1,1,2017-04-09 16:00:00,Henri Saivet,Pass
+109812,61,BlockedShot,0.7609999847412109,0.43,0.02581602707505226,Romain Hamouma,h,3561,OpenPlay,2016,RightFoot,4226,Saint-Etienne,Nantes,1,1,2017-04-09 16:00:00,Henri Saivet,TakeOn
+109813,69,Goal,0.9319999694824219,0.46299999237060546,0.350283682346344,Benjamin Corgnet,h,3514,OpenPlay,2016,Head,4226,Saint-Etienne,Nantes,1,1,2017-04-09 16:00:00,Cheikh M&#039;Bengue,Cross
+109795,2,MissedShots,0.895,0.38,0.056065354496240616,Léo Dubois,a,3412,OpenPlay,2016,RightFoot,4226,Saint-Etienne,Nantes,1,1,2017-04-09 16:00:00,Lucas Lima,Cross
+109797,6,MissedShots,0.8109999847412109,0.3060000038146973,0.029689518734812737,Léo Dubois,a,3412,OpenPlay,2016,LeftFoot,4226,Saint-Etienne,Nantes,1,1,2017-04-09 16:00:00,Guillaume Gillet,TakeOn
+109799,14,BlockedShot,0.835999984741211,0.7319999694824219,0.022050173953175545,Valentin Rongier,a,3673,OpenPlay,2016,RightFoot,4226,Saint-Etienne,Nantes,1,1,2017-04-09 16:00:00,Emiliano Sala,Pass
+109800,14,Goal,0.9169999694824219,0.3729999923706055,0.10233468562364578,Prejuce Nakoulma,a,5715,OpenPlay,2016,RightFoot,4226,Saint-Etienne,Nantes,1,1,2017-04-09 16:00:00,Alexander Kacaniklic,Pass
+109801,23,MissedShots,0.7080000305175781,0.544000015258789,0.01556219719350338,Guillaume Gillet,a,3403,OpenPlay,2016,RightFoot,4226,Saint-Etienne,Nantes,1,1,2017-04-09 16:00:00,,None
+109802,25,MissedShots,0.9680000305175781,0.41,0.13601702451705933,Guillaume Gillet,a,3403,OpenPlay,2016,RightFoot,4226,Saint-Etienne,Nantes,1,1,2017-04-09 16:00:00,Léo Dubois,Pass
+109805,38,MissedShots,0.9119999694824219,0.6140000152587891,0.12075905501842499,Alexander Kacaniklic,a,5714,OpenPlay,2016,RightFoot,4226,Saint-Etienne,Nantes,1,1,2017-04-09 16:00:00,Emiliano Sala,Pass
+109808,52,MissedShots,0.9230000305175782,0.19600000381469726,0.04696644842624664,Emiliano Sala,a,3406,OpenPlay,2016,RightFoot,4226,Saint-Etienne,Nantes,1,1,2017-04-09 16:00:00,Alexander Kacaniklic,HeadPass
+109814,74,SavedShot,0.8069999694824219,0.28299999237060547,0.01987214758992195,Valentin Rongier,a,3673,OpenPlay,2016,RightFoot,4226,Saint-Etienne,Nantes,1,1,2017-04-09 16:00:00,Prejuce Nakoulma,Pass
+109815,90,SavedShot,0.8680000305175781,0.51,0.0292993001639843,Guillaume Gillet,a,3403,OpenPlay,2016,Head,4226,Saint-Etienne,Nantes,1,1,2017-04-09 16:00:00,Yacine Bammou,Cross

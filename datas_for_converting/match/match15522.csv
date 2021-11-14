@@ -1,0 +1,23 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+391036,7,BlockedShot,0.9619999694824218,0.53,0.12226700037717819,Fabio Quagliarella,h,1230,FromCorner,2020,RightFoot,15522,Sampdoria,AC Milan,1,2,2020-12-06 19:45:00,Alex Ferrari,CornerAwarded
+391037,7,SavedShot,0.9590000152587891,0.5459999847412109,0.3827976882457733,Lorenzo Tonelli,h,1394,FromCorner,2020,Head,15522,Sampdoria,AC Milan,1,2,2020-12-06 19:45:00,,None
+391042,34,SavedShot,0.7069999694824218,0.40400001525878904,0.01022411324083805,Manolo Gabbiadini,h,1383,OpenPlay,2020,LeftFoot,15522,Sampdoria,AC Milan,1,2,2020-12-06 19:45:00,Fabio Quagliarella,LayOff
+391048,47,BlockedShot,0.78,0.519000015258789,0.03558933734893799,Fabio Quagliarella,h,1230,OpenPlay,2020,RightFoot,15522,Sampdoria,AC Milan,1,2,2020-12-06 19:45:00,Mikkel Damsgaard,Pass
+391050,54,BlockedShot,0.919000015258789,0.500999984741211,0.10456015169620514,Lorenzo Tonelli,h,1394,FromCorner,2020,LeftFoot,15522,Sampdoria,AC Milan,1,2,2020-12-06 19:45:00,Antonio Candreva,Cross
+391052,68,MissedShots,0.9259999847412109,0.5359999847412109,0.10645902156829834,Morten Thorsby,h,7939,OpenPlay,2020,Head,15522,Sampdoria,AC Milan,1,2,2020-12-06 19:45:00,Antonio Candreva,Cross
+391053,69,MissedShots,0.88,0.425,0.03946943208575249,Antonio La Gumina,h,2003,OpenPlay,2020,RightFoot,15522,Sampdoria,AC Milan,1,2,2020-12-06 19:45:00,,Aerial
+391056,81,Goal,0.9590000152587891,0.6020000076293945,0.06141608953475952,Albin Ekdal,h,411,FromCorner,2020,RightFoot,15522,Sampdoria,AC Milan,1,2,2020-12-06 19:45:00,Mikkel Damsgaard,Cross
+391057,94,MissedShots,0.9540000152587891,0.4370000076293945,0.12376450002193451,Albin Ekdal,h,411,OpenPlay,2020,Head,15522,Sampdoria,AC Milan,1,2,2020-12-06 19:45:00,Antonio Candreva,Cross
+391038,11,BlockedShot,0.914000015258789,0.395,0.1141524463891983,Ante Rebic,a,1852,OpenPlay,2020,RightFoot,15522,Sampdoria,AC Milan,1,2,2020-12-06 19:45:00,Alexis Saelemaekers,Pass
+391039,17,SavedShot,0.9,0.675,0.07255137711763382,Ante Rebic,a,1852,OpenPlay,2020,RightFoot,15522,Sampdoria,AC Milan,1,2,2020-12-06 19:45:00,Brahim Diaz,Pass
+391040,21,SavedShot,0.9769999694824218,0.41900001525878905,0.04222244396805763,Alessio Romagnoli,a,1119,FromCorner,2020,Head,15522,Sampdoria,AC Milan,1,2,2020-12-06 19:45:00,Hakan Calhanoglu,Aerial
+391041,29,MissedShots,0.8130000305175781,0.2979999923706055,0.024674465879797935,Alexis Saelemaekers,a,8297,FromCorner,2020,RightFoot,15522,Sampdoria,AC Milan,1,2,2020-12-06 19:45:00,Hakan Calhanoglu,Pass
+391043,37,SavedShot,0.8640000152587891,0.5279999923706055,0.2920868694782257,Ante Rebic,a,1852,OpenPlay,2020,RightFoot,15522,Sampdoria,AC Milan,1,2,2020-12-06 19:45:00,Theo Hernández,Chipped
+391044,38,BlockedShot,0.9080000305175782,0.5120000076293946,0.4489169120788574,Ante Rebic,a,1852,OpenPlay,2020,Head,15522,Sampdoria,AC Milan,1,2,2020-12-06 19:45:00,,TakeOn
+391045,44,Goal,0.885,0.5,0.7612988352775574,Franck Kessié,a,1489,Penalty,2020,RightFoot,15522,Sampdoria,AC Milan,1,2,2020-12-06 19:45:00,,Standard
+391047,46,ShotOnPost,0.91,0.519000015258789,0.14695338904857635,Sandro Tonali,a,7958,OpenPlay,2020,RightFoot,15522,Sampdoria,AC Milan,1,2,2020-12-06 19:45:00,Jens Petter Hauge,Pass
+391046,47,MissedShots,0.8130000305175781,0.4640000152587891,0.07216980308294296,Brahim Diaz,a,6421,OpenPlay,2020,LeftFoot,15522,Sampdoria,AC Milan,1,2,2020-12-06 19:45:00,Theo Hernández,Pass
+391049,51,BlockedShot,0.73,0.6140000152587891,0.04588897526264191,Hakan Calhanoglu,a,189,DirectFreekick,2020,RightFoot,15522,Sampdoria,AC Milan,1,2,2020-12-06 19:45:00,,Standard
+391051,65,BlockedShot,0.6909999847412109,0.6409999847412109,0.013674095273017883,Hakan Calhanoglu,a,189,OpenPlay,2020,RightFoot,15522,Sampdoria,AC Milan,1,2,2020-12-06 19:45:00,Jens Petter Hauge,Pass
+391054,76,Goal,0.9130000305175782,0.5279999923706055,0.4868771731853485,Samu Castillejo,a,2303,OpenPlay,2020,LeftFoot,15522,Sampdoria,AC Milan,1,2,2020-12-06 19:45:00,Ante Rebic,Pass
+391055,78,MissedShots,0.92,0.48200000762939454,0.14683929085731506,Ante Rebic,a,1852,OpenPlay,2020,RightFoot,15522,Sampdoria,AC Milan,1,2,2020-12-06 19:45:00,Davide Calabria,Pass

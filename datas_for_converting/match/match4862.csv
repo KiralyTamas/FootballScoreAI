@@ -1,0 +1,23 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+49544,2,MissedShots,0.725,0.500999984741211,0.018330112099647522,Marcelo Brozovic,h,1511,OpenPlay,2014,RightFoot,4862,Inter,Roma,2,1,2015-04-25 19:45:00,Fredy Guarín,Pass
+49547,14,Goal,0.7959999847412109,0.62,0.034279026091098785,Hernanes,h,1291,OpenPlay,2014,LeftFoot,4862,Inter,Roma,2,1,2015-04-25 19:45:00,Rodrigo Palacio,Pass
+49549,18,BlockedShot,0.789000015258789,0.6990000152587891,0.028958318755030632,Rodrigo Palacio,h,1518,OpenPlay,2014,RightFoot,4862,Inter,Roma,2,1,2015-04-25 19:45:00,Marcelo Brozovic,Pass
+49550,22,MissedShots,0.875,0.515,0.37450727820396423,Hernanes,h,1291,OpenPlay,2014,LeftFoot,4862,Inter,Roma,2,1,2015-04-25 19:45:00,Rodrigo Palacio,Throughball
+49553,45,BlockedShot,0.7569999694824219,0.7730000305175782,0.014145339839160442,Marcelo Brozovic,h,1511,FromCorner,2014,RightFoot,4862,Inter,Roma,2,1,2015-04-25 19:45:00,Fredy Guarín,Pass
+49554,49,BlockedShot,0.7780000305175782,0.3629999923706055,0.06723581999540329,Mauro Icardi,h,1513,OpenPlay,2014,RightFoot,4862,Inter,Roma,2,1,2015-04-25 19:45:00,,None
+49556,51,MissedShots,0.914000015258789,0.33,0.15192727744579315,Mauro Icardi,h,1513,OpenPlay,2014,RightFoot,4862,Inter,Roma,2,1,2015-04-25 19:45:00,Fredy Guarín,Throughball
+49560,64,SavedShot,0.97,0.6969999694824218,0.30448421835899353,Fredy Guarín,h,1949,OpenPlay,2014,RightFoot,4862,Inter,Roma,2,1,2015-04-25 19:45:00,Mauro Icardi,Throughball
+49563,83,MissedShots,0.855999984741211,0.49700000762939456,0.07895577698945999,Mauro Icardi,h,1513,OpenPlay,2014,RightFoot,4862,Inter,Roma,2,1,2015-04-25 19:45:00,Mateo Kovacic,BallRecovery
+49564,87,Goal,0.91,0.3729999923706055,0.10191699117422104,Mauro Icardi,h,1513,OpenPlay,2014,RightFoot,4862,Inter,Roma,2,1,2015-04-25 19:45:00,Lukas Podolski,Pass
+49565,91,MissedShots,0.8809999847412109,0.615,0.13767650723457336,Rodrigo Palacio,h,1518,OpenPlay,2014,LeftFoot,4862,Inter,Roma,2,1,2015-04-25 19:45:00,Xherdan Shaqiri,Throughball
+49545,5,SavedShot,0.7090000152587891,0.62,0.01404989417642355,Daniele De Rossi,a,1249,OpenPlay,2014,RightFoot,4862,Inter,Roma,2,1,2015-04-25 19:45:00,Miralem Pjanic,Pass
+49546,9,BlockedShot,0.825,0.6719999694824219,0.03502277657389641,Gervinho,a,1943,OpenPlay,2014,RightFoot,4862,Inter,Roma,2,1,2015-04-25 19:45:00,José Holebas,Pass
+49548,18,ShotOnPost,0.865,0.4129999923706055,0.060508839786052704,Víctor Ibarbo,a,947,OpenPlay,2014,LeftFoot,4862,Inter,Roma,2,1,2015-04-25 19:45:00,,None
+49551,28,MissedShots,0.7,0.20899999618530274,0.010787771083414555,Radja Nainggolan,a,1251,OpenPlay,2014,RightFoot,4862,Inter,Roma,2,1,2015-04-25 19:45:00,Alessandro Florenzi,Pass
+49552,42,BlockedShot,0.774000015258789,0.5690000152587891,0.030861638486385345,Francesco Totti,a,1255,OpenPlay,2014,RightFoot,4862,Inter,Roma,2,1,2015-04-25 19:45:00,Radja Nainggolan,Pass
+49555,50,MissedShots,0.7709999847412109,0.36400001525878906,0.021368656307458878,Radja Nainggolan,a,1251,OpenPlay,2014,LeftFoot,4862,Inter,Roma,2,1,2015-04-25 19:45:00,Alessandro Florenzi,BallRecovery
+49557,57,MissedShots,0.875,0.38799999237060545,0.07829853147268295,Alessandro Florenzi,a,1254,OpenPlay,2014,RightFoot,4862,Inter,Roma,2,1,2015-04-25 19:45:00,Miralem Pjanic,Pass
+49558,58,MissedShots,0.925,0.5329999923706055,0.10256379097700119,Kostas Manolas,a,1246,FromCorner,2014,Head,4862,Inter,Roma,2,1,2015-04-25 19:45:00,Alessandro Florenzi,Cross
+49559,62,Goal,0.8580000305175781,0.3089999961853027,0.04325033724308014,Radja Nainggolan,a,1251,OpenPlay,2014,RightFoot,4862,Inter,Roma,2,1,2015-04-25 19:45:00,Miralem Pjanic,Pass
+49561,67,SavedShot,0.785,0.3189999961853027,0.06418230384588242,Miralem Pjanic,a,1290,DirectFreekick,2014,RightFoot,4862,Inter,Roma,2,1,2015-04-25 19:45:00,,Standard
+49562,82,SavedShot,0.745,0.3270000076293945,0.014085091650485992,Seydou Keita,a,2011,OpenPlay,2014,LeftFoot,4862,Inter,Roma,2,1,2015-04-25 19:45:00,Alessandro Florenzi,Pass

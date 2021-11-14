@@ -1,0 +1,36 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+100918,0,ShotOnPost,0.8730000305175781,0.46,0.07814501971006393,Uros Djurdjevic,h,1960,OpenPlay,2015,RightFoot,702,Palermo,Frosinone,4,1,2015-12-12 21:00:00,Aljaz Struna,Cross
+100919,2,BlockedShot,0.7709999847412109,0.5829999923706055,0.028413446620106697,Franco Vázquez,h,1836,OpenPlay,2015,LeftFoot,702,Palermo,Frosinone,4,1,2015-12-12 21:00:00,Mato Jajalo,Pass
+100920,4,Goal,0.9590000152587891,0.4929999923706055,0.5967894792556763,Edoardo Goldaniga,h,1264,SetPiece,2015,RightFoot,702,Palermo,Frosinone,4,1,2015-12-12 21:00:00,Oscar Hiljemark,Chipped
+100923,10,ShotOnPost,0.720999984741211,0.5670000076293945,0.018635449931025505,Oscar Hiljemark,h,1284,OpenPlay,2015,RightFoot,702,Palermo,Frosinone,4,1,2015-12-12 21:00:00,Aleksandar Trajkovski,Pass
+100925,13,BlockedShot,0.8130000305175781,0.5370000076293945,0.06419526785612106,Aleksandar Trajkovski,h,1837,OpenPlay,2015,LeftFoot,702,Palermo,Frosinone,4,1,2015-12-12 21:00:00,,None
+100927,16,Goal,0.9019999694824219,0.48200000762939454,0.43465539813041687,Franco Vázquez,h,1836,OpenPlay,2015,LeftFoot,702,Palermo,Frosinone,4,1,2015-12-12 21:00:00,Ivaylo Chochev,Throughball
+100928,18,MissedShots,0.9519999694824218,0.32799999237060545,0.03632975369691849,Franco Vázquez,h,1836,FromCorner,2015,LeftFoot,702,Palermo,Frosinone,4,1,2015-12-12 21:00:00,Oscar Hiljemark,Cross
+100932,28,MissedShots,0.87,0.475,0.04819360747933388,Oscar Hiljemark,h,1284,OpenPlay,2015,Head,702,Palermo,Frosinone,4,1,2015-12-12 21:00:00,Aljaz Struna,Cross
+100933,42,MissedShots,0.92,0.23700000762939452,0.023804761469364166,Franco Vázquez,h,1836,SetPiece,2015,LeftFoot,702,Palermo,Frosinone,4,1,2015-12-12 21:00:00,,None
+100935,43,SavedShot,0.7819999694824219,0.5259999847412109,0.04737517982721329,Aleksandar Trajkovski,h,1837,OpenPlay,2015,RightFoot,702,Palermo,Frosinone,4,1,2015-12-12 21:00:00,Oscar Hiljemark,Pass
+100938,57,MissedShots,0.7930000305175782,0.6990000152587891,0.029526233673095703,Franco Vázquez,h,1836,OpenPlay,2015,LeftFoot,702,Palermo,Frosinone,4,1,2015-12-12 21:00:00,Oscar Hiljemark,Pass
+100940,59,Goal,0.87,0.765,0.033751025795936584,Aleksandar Trajkovski,h,1837,OpenPlay,2015,RightFoot,702,Palermo,Frosinone,4,1,2015-12-12 21:00:00,Ivaylo Chochev,Pass
+100941,61,BlockedShot,0.735999984741211,0.5470000076293945,0.03453028202056885,Aleksandar Trajkovski,h,1837,OpenPlay,2015,RightFoot,702,Palermo,Frosinone,4,1,2015-12-12 21:00:00,Mato Jajalo,Pass
+100942,62,MissedShots,0.7069999694824218,0.6580000305175782,0.016076503321528435,Ivaylo Chochev,h,1271,OpenPlay,2015,LeftFoot,702,Palermo,Frosinone,4,1,2015-12-12 21:00:00,Alberto Gilardino,Pass
+100943,66,MissedShots,0.7859999847412109,0.41700000762939454,0.052651017904281616,Franco Vázquez,h,1836,OpenPlay,2015,LeftFoot,702,Palermo,Frosinone,4,1,2015-12-12 21:00:00,Alberto Gilardino,LayOff
+100944,70,MissedShots,0.8069999694824219,0.4909999847412109,0.06543229520320892,Alberto Gilardino,h,1552,OpenPlay,2015,LeftFoot,702,Palermo,Frosinone,4,1,2015-12-12 21:00:00,Ivaylo Chochev,Pass
+100946,71,BlockedShot,0.7709999847412109,0.4329999923706055,0.03423318639397621,Franco Vázquez,h,1836,OpenPlay,2015,LeftFoot,702,Palermo,Frosinone,4,1,2015-12-12 21:00:00,Stefano Sorrentino,Pass
+100949,83,MissedShots,0.9030000305175782,0.4,0.1647217720746994,Franco Vázquez,h,1836,OpenPlay,2015,RightFoot,702,Palermo,Frosinone,4,1,2015-12-12 21:00:00,,TakeOn
+100950,85,SavedShot,0.9490000152587891,0.45599998474121095,0.5082788467407227,Ivaylo Chochev,h,1271,OpenPlay,2015,Head,702,Palermo,Frosinone,4,1,2015-12-12 21:00:00,Achraf Lazaar,Cross
+100951,85,Goal,0.985999984741211,0.47,0.8785547614097595,Alberto Gilardino,h,1552,OpenPlay,2015,Head,702,Palermo,Frosinone,4,1,2015-12-12 21:00:00,,Rebound
+100921,5,MissedShots,0.9530000305175781,0.43099998474121093,0.5462518930435181,Modibo Diakité,a,1807,SetPiece,2015,RightFoot,702,Palermo,Frosinone,4,1,2015-12-12 21:00:00,,None
+100922,9,SavedShot,0.7630000305175781,0.15899999618530272,0.02926105447113514,Danilo Soddimo,a,1871,DirectFreekick,2015,RightFoot,702,Palermo,Frosinone,4,1,2015-12-12 21:00:00,,Standard
+100924,12,BlockedShot,0.9369999694824219,0.6859999847412109,0.05744597315788269,Federico Dionisi,a,1867,OpenPlay,2015,LeftFoot,702,Palermo,Frosinone,4,1,2015-12-12 21:00:00,Danilo Soddimo,Pass
+100926,15,MissedShots,0.7319999694824219,0.9269999694824219,0.00977551843971014,Danilo Soddimo,a,1871,OpenPlay,2015,RightFoot,702,Palermo,Frosinone,4,1,2015-12-12 21:00:00,Daniel Pavlovic,Pass
+100929,21,MissedShots,0.764000015258789,0.4279999923706055,0.024723641574382782,Federico Dionisi,a,1867,OpenPlay,2015,RightFoot,702,Palermo,Frosinone,4,1,2015-12-12 21:00:00,Daniel Ciofani,Pass
+100930,23,SavedShot,0.7859999847412109,0.7290000152587891,0.01405966468155384,Federico Dionisi,a,1867,OpenPlay,2015,LeftFoot,702,Palermo,Frosinone,4,1,2015-12-12 21:00:00,Danilo Soddimo,Pass
+100931,23,Goal,0.9169999694824219,0.4329999923706055,0.3242948651313782,Paolo Sammarco,a,1866,OpenPlay,2015,RightFoot,702,Palermo,Frosinone,4,1,2015-12-12 21:00:00,,Rebound
+100934,42,BlockedShot,0.7,0.45799999237060546,0.014130200259387493,Daniel Pavlovic,a,1602,OpenPlay,2015,LeftFoot,702,Palermo,Frosinone,4,1,2015-12-12 21:00:00,Luca Paganini,Pass
+100936,49,MissedShots,0.745,0.7290000152587891,0.012053553946316242,Danilo Soddimo,a,1871,OpenPlay,2015,RightFoot,702,Palermo,Frosinone,4,1,2015-12-12 21:00:00,,None
+100937,54,BlockedShot,0.7759999847412109,0.7280000305175781,0.019434494897723198,Federico Dionisi,a,1867,OpenPlay,2015,RightFoot,702,Palermo,Frosinone,4,1,2015-12-12 21:00:00,Danilo Soddimo,Pass
+100939,58,MissedShots,0.92,0.4620000076293945,0.3273560702800751,Daniel Ciofani,a,1868,OpenPlay,2015,Head,702,Palermo,Frosinone,4,1,2015-12-12 21:00:00,Daniel Pavlovic,Cross
+100945,71,MissedShots,0.8330000305175781,0.29700000762939455,0.03238018974661827,Federico Dionisi,a,1867,OpenPlay,2015,RightFoot,702,Palermo,Frosinone,4,1,2015-12-12 21:00:00,Aleksandar Tonev,Pass
+100947,76,BlockedShot,0.8219999694824218,0.5220000076293946,0.02917548455297947,Daniel Ciofani,a,1868,OpenPlay,2015,RightFoot,702,Palermo,Frosinone,4,1,2015-12-12 21:00:00,Mirko Gori,Cross
+100948,82,BlockedShot,0.715,0.5790000152587891,0.014589001424610615,Aleksandar Tonev,a,1359,SetPiece,2015,RightFoot,702,Palermo,Frosinone,4,1,2015-12-12 21:00:00,Nicolás Castillo,Pass
+100952,88,MissedShots,0.71,0.44799999237060545,0.041155532002449036,Nicolás Castillo,a,2026,DirectFreekick,2015,RightFoot,702,Palermo,Frosinone,4,1,2015-12-12 21:00:00,,Standard

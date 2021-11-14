@@ -1,0 +1,30 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+186734,9,BlockedShot,0.875999984741211,0.2520000076293945,0.02923787385225296,Enrico Brignola,h,6199,OpenPlay,2017,LeftFoot,7696,Benevento,Sampdoria,3,2,2018-01-06 14:00:00,Nicolas Viola,Chipped
+186735,9,BlockedShot,0.7959999847412109,0.42400001525878905,0.037536121904850006,Ledian Memushaj,h,1169,OpenPlay,2017,RightFoot,7696,Benevento,Sampdoria,3,2,2018-01-06 14:00:00,,None
+186736,14,MissedShots,0.889000015258789,0.5120000076293946,0.0745568498969078,Massimo Coda,h,3832,SetPiece,2017,Head,7696,Benevento,Sampdoria,3,2,2018-01-06 14:00:00,Nicolas Viola,Cross
+186739,29,MissedShots,0.7609999847412109,0.395,0.04652850702404976,Massimo Coda,h,3832,OpenPlay,2017,LeftFoot,7696,Benevento,Sampdoria,3,2,2018-01-06 14:00:00,Cristiano Lombardi,BallRecovery
+186744,49,ShotOnPost,0.970999984741211,0.4279999923706055,0.10616882145404816,Massimo Coda,h,3832,OpenPlay,2017,RightFoot,7696,Benevento,Sampdoria,3,2,2018-01-06 14:00:00,Ledian Memushaj,Cross
+186745,51,BlockedShot,0.8490000152587891,0.5779999923706055,0.059153202921152115,Enrico Brignola,h,6199,OpenPlay,2017,LeftFoot,7696,Benevento,Sampdoria,3,2,2018-01-06 14:00:00,,BallTouch
+186746,55,ShotOnPost,0.775,0.35400001525878905,0.02628384716808796,Massimo Coda,h,3832,OpenPlay,2017,RightFoot,7696,Benevento,Sampdoria,3,2,2018-01-06 14:00:00,Ledian Memushaj,Pass
+186747,61,MissedShots,0.855999984741211,0.53,0.08593454957008362,Massimo Coda,h,3832,OpenPlay,2017,LeftFoot,7696,Benevento,Sampdoria,3,2,2018-01-06 14:00:00,Cristiano Lombardi,Pass
+186749,62,BlockedShot,0.904000015258789,0.5520000076293945,0.11223721504211426,Enrico Brignola,h,6199,OpenPlay,2017,LeftFoot,7696,Benevento,Sampdoria,3,2,2018-01-06 14:00:00,Marco D&#039;Alessandro,Pass
+186750,63,BlockedShot,0.8159999847412109,0.32799999237060545,0.029428355395793915,Massimo Coda,h,3832,OpenPlay,2017,LeftFoot,7696,Benevento,Sampdoria,3,2,2018-01-06 14:00:00,Enrico Brignola,Pass
+186751,63,BlockedShot,0.7580000305175781,0.41200000762939454,0.019130825996398926,Enrico Brignola,h,6199,OpenPlay,2017,LeftFoot,7696,Benevento,Sampdoria,3,2,2018-01-06 14:00:00,Massimo Coda,Pass
+186752,66,MissedShots,0.915,0.425,0.3371357023715973,Cristiano Lombardi,h,1218,OpenPlay,2017,RightFoot,7696,Benevento,Sampdoria,3,2,2018-01-06 14:00:00,Lorenzo Venuti,Cross
+186753,68,Goal,0.865,0.3340000152587891,0.09413643926382065,Massimo Coda,h,3832,OpenPlay,2017,LeftFoot,7696,Benevento,Sampdoria,3,2,2018-01-06 14:00:00,Nicolas Viola,Throughball
+186754,70,SavedShot,0.8780000305175781,0.6819999694824219,0.050437141209840775,Marco D&#039;Alessandro,h,1502,OpenPlay,2017,RightFoot,7696,Benevento,Sampdoria,3,2,2018-01-06 14:00:00,Massimo Coda,Pass
+186757,83,Goal,0.8080000305175781,0.6869999694824219,0.07753299176692963,Massimo Coda,h,3832,DirectFreekick,2017,RightFoot,7696,Benevento,Sampdoria,3,2,2018-01-06 14:00:00,,Standard
+186759,90,Goal,0.914000015258789,0.46700000762939453,0.46152201294898987,Enrico Brignola,h,6199,OpenPlay,2017,LeftFoot,7696,Benevento,Sampdoria,3,2,2018-01-06 14:00:00,Massimo Coda,Pass
+186732,8,BlockedShot,0.9359999847412109,0.2670000076293945,0.02843661420047283,Gianluca Caprari,a,1170,FromCorner,2017,RightFoot,7696,Benevento,Sampdoria,3,2,2018-01-06 14:00:00,,None
+186733,9,MissedShots,0.909000015258789,0.40099998474121096,0.014340003952383995,Matías Silvestre,a,1222,FromCorner,2017,Head,7696,Benevento,Sampdoria,3,2,2018-01-06 14:00:00,Gastón Ramírez,Aerial
+186737,16,MissedShots,0.81,0.38799999237060545,0.033490363508462906,Lucas Torreira,a,1227,FromCorner,2017,RightFoot,7696,Benevento,Sampdoria,3,2,2018-01-06 14:00:00,Gastón Ramírez,Pass
+186738,22,BlockedShot,0.7530000305175781,0.33299999237060546,0.014483901672065258,Lucas Torreira,a,1227,OpenPlay,2017,RightFoot,7696,Benevento,Sampdoria,3,2,2018-01-06 14:00:00,Jacopo Sala,Pass
+186740,34,SavedShot,0.7780000305175782,0.6759999847412109,0.02075923979282379,Gastón Ramírez,a,952,OpenPlay,2017,LeftFoot,7696,Benevento,Sampdoria,3,2,2018-01-06 14:00:00,Dennis Praet,BallRecovery
+186741,38,MissedShots,0.754000015258789,0.634000015258789,0.02082514576613903,Fabio Quagliarella,a,1230,OpenPlay,2017,RightFoot,7696,Benevento,Sampdoria,3,2,2018-01-06 14:00:00,Gianluca Caprari,Pass
+186742,45,SavedShot,0.919000015258789,0.674000015258789,0.0723644495010376,Fabio Quagliarella,a,1230,OpenPlay,2017,LeftFoot,7696,Benevento,Sampdoria,3,2,2018-01-06 14:00:00,Gastón Ramírez,Pass
+186743,45,Goal,0.955999984741211,0.54,0.6309411525726318,Gianluca Caprari,a,1170,OpenPlay,2017,RightFoot,7696,Benevento,Sampdoria,3,2,2018-01-06 14:00:00,,Rebound
+186748,62,MissedShots,0.7330000305175781,0.4640000152587891,0.02646670863032341,Gastón Ramírez,a,952,OpenPlay,2017,LeftFoot,7696,Benevento,Sampdoria,3,2,2018-01-06 14:00:00,Karol Linetty,Pass
+186755,76,SavedShot,0.7090000152587891,0.664000015258789,0.03426441550254822,Fabio Quagliarella,a,1230,DirectFreekick,2017,RightFoot,7696,Benevento,Sampdoria,3,2,2018-01-06 14:00:00,,Standard
+186756,81,BlockedShot,0.784000015258789,0.32799999237060545,0.015018950216472149,Edgar Barreto,a,1225,SetPiece,2017,RightFoot,7696,Benevento,Sampdoria,3,2,2018-01-06 14:00:00,,None
+186758,90,SavedShot,0.8530000305175781,0.3770000076293945,0.05167496204376221,Fabio Quagliarella,a,1230,SetPiece,2017,LeftFoot,7696,Benevento,Sampdoria,3,2,2018-01-06 14:00:00,,None
+186760,93,Goal,0.9730000305175781,0.6020000076293945,0.10408485680818558,Dawid Kownacki,a,6190,OpenPlay,2017,LeftFoot,7696,Benevento,Sampdoria,3,2,2018-01-06 14:00:00,Karol Linetty,Pass

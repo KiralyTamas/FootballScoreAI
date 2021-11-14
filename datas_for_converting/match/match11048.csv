@@ -1,0 +1,31 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+307820,10,BlockedShot,0.9230000305175782,0.7090000152587891,0.04631705582141876,Maksim Kanunnikov,h,2969,OpenPlay,2019,RightFoot,11048,Krylya Sovetov Samara,Lokomotiv Moscow,1,2,2019-08-03 14:30:00,,None
+307823,26,SavedShot,0.9590000152587891,0.335,0.06648889929056168,Dmitri Kabutov,h,6603,OpenPlay,2019,RightFoot,11048,Krylya Sovetov Samara,Lokomotiv Moscow,1,2,2019-08-03 14:30:00,Alexander Anyukov,Pass
+307824,29,MissedShots,0.8819999694824219,0.335,0.03859027475118637,Dmitri Kabutov,h,6603,OpenPlay,2019,RightFoot,11048,Krylya Sovetov Samara,Lokomotiv Moscow,1,2,2019-08-03 14:30:00,Dmitri Kombarov,Cross
+307826,35,MissedShots,0.9009999847412109,0.4540000152587891,0.033036984503269196,Nikita Chernov,h,3160,SetPiece,2019,Head,11048,Krylya Sovetov Samara,Lokomotiv Moscow,1,2,2019-08-03 14:30:00,Dmitri Kombarov,Aerial
+307830,51,MissedShots,0.8590000152587891,0.6459999847412109,0.061817437410354614,Maksim Kanunnikov,h,2969,OpenPlay,2019,RightFoot,11048,Krylya Sovetov Samara,Lokomotiv Moscow,1,2,2019-08-03 14:30:00,Aleksandru Gatcan,Pass
+307832,54,SavedShot,0.9319999694824219,0.5209999847412109,0.4071192145347595,Nikita Chernov,h,3160,SetPiece,2019,Head,11048,Krylya Sovetov Samara,Lokomotiv Moscow,1,2,2019-08-03 14:30:00,Dmitri Kombarov,Cross
+307837,66,MissedShots,0.755,0.7609999847412109,0.011528683826327324,Dmitri Kombarov,h,2821,OpenPlay,2019,LeftFoot,11048,Krylya Sovetov Samara,Lokomotiv Moscow,1,2,2019-08-03 14:30:00,,None
+307840,77,BlockedShot,0.835999984741211,0.7280000305175781,0.02176332287490368,Alexander Sobolev,h,5397,OpenPlay,2019,RightFoot,11048,Krylya Sovetov Samara,Lokomotiv Moscow,1,2,2019-08-03 14:30:00,Maksim Kanunnikov,Pass
+307841,81,SavedShot,0.8369999694824218,0.27,0.027280380949378014,Anton Zinkovskiy,h,7454,OpenPlay,2019,LeftFoot,11048,Krylya Sovetov Samara,Lokomotiv Moscow,1,2,2019-08-03 14:30:00,Aleksandru Gatcan,Pass
+307842,87,Goal,0.9019999694824219,0.46099998474121096,0.33712291717529297,Alexander Sobolev,h,5397,OpenPlay,2019,RightFoot,11048,Krylya Sovetov Samara,Lokomotiv Moscow,1,2,2019-08-03 14:30:00,Anton Zinkovskiy,Cross
+307816,1,MissedShots,0.779000015258789,0.3659999847412109,0.024486392736434937,Vladislav Ignatjev,a,2894,OpenPlay,2019,LeftFoot,11048,Krylya Sovetov Samara,Lokomotiv Moscow,1,2,2019-08-03 14:30:00,,None
+307817,5,MissedShots,0.775,0.385,0.01785559579730034,Vedran Corluka,a,2705,FromCorner,2019,RightFoot,11048,Krylya Sovetov Samara,Lokomotiv Moscow,1,2,2019-08-03 14:30:00,,None
+307818,9,SavedShot,0.8619999694824219,0.6179999923706054,0.2711750268936157,Fedor Smolov,a,2925,OpenPlay,2019,RightFoot,11048,Krylya Sovetov Samara,Lokomotiv Moscow,1,2,2019-08-03 14:30:00,Anton Miranchuk,TakeOn
+307819,9,MissedShots,0.8819999694824219,0.46700000762939453,0.3342530429363251,Aleksey Miranchuk,a,2711,OpenPlay,2019,RightFoot,11048,Krylya Sovetov Samara,Lokomotiv Moscow,1,2,2019-08-03 14:30:00,,Rebound
+307821,14,Goal,0.915,0.5670000076293945,0.08079931139945984,Fedor Smolov,a,2925,OpenPlay,2019,Head,11048,Krylya Sovetov Samara,Lokomotiv Moscow,1,2,2019-08-03 14:30:00,Maciej Rybus,Cross
+307822,17,SavedShot,0.9590000152587891,0.3729999923706055,0.29989904165267944,Rifat Zhemaletdinov,a,2712,OpenPlay,2019,RightFoot,11048,Krylya Sovetov Samara,Lokomotiv Moscow,1,2,2019-08-03 14:30:00,Dimitri Barinov,Chipped
+307825,31,BlockedShot,0.955999984741211,0.6270000076293946,0.13435620069503784,Grzegorz Krychowiak,a,2414,FromCorner,2019,Head,11048,Krylya Sovetov Samara,Lokomotiv Moscow,1,2,2019-08-03 14:30:00,,None
+307827,39,SavedShot,0.879000015258789,0.315,0.09549407660961151,Fedor Smolov,a,2925,OpenPlay,2019,RightFoot,11048,Krylya Sovetov Samara,Lokomotiv Moscow,1,2,2019-08-03 14:30:00,Aleksey Miranchuk,Pass
+307828,41,SavedShot,0.8059999847412109,0.519000015258789,0.03185085207223892,Vladislav Ignatjev,a,2894,FromCorner,2019,LeftFoot,11048,Krylya Sovetov Samara,Lokomotiv Moscow,1,2,2019-08-03 14:30:00,Anton Miranchuk,Pass
+307829,45,MissedShots,0.925,0.43900001525878907,0.47447073459625244,Aleksey Miranchuk,a,2711,OpenPlay,2019,LeftFoot,11048,Krylya Sovetov Samara,Lokomotiv Moscow,1,2,2019-08-03 14:30:00,Fedor Smolov,Pass
+307831,52,MissedShots,0.785,0.36900001525878906,0.018609503284096718,Vladislav Ignatjev,a,2894,FromCorner,2019,RightFoot,11048,Krylya Sovetov Samara,Lokomotiv Moscow,1,2,2019-08-03 14:30:00,,None
+307833,56,MissedShots,0.7630000305175781,0.25,0.019717443734407425,Aleksey Miranchuk,a,2711,OpenPlay,2019,LeftFoot,11048,Krylya Sovetov Samara,Lokomotiv Moscow,1,2,2019-08-03 14:30:00,Rifat Zhemaletdinov,Pass
+307834,58,SavedShot,0.7569999694824219,0.34,0.049597710371017456,Anton Miranchuk,a,4605,DirectFreekick,2019,RightFoot,11048,Krylya Sovetov Samara,Lokomotiv Moscow,1,2,2019-08-03 14:30:00,,Standard
+307835,64,BlockedShot,0.769000015258789,0.35700000762939454,0.022387119010090828,Dimitri Barinov,a,2721,OpenPlay,2019,RightFoot,11048,Krylya Sovetov Samara,Lokomotiv Moscow,1,2,2019-08-03 14:30:00,Aleksey Miranchuk,TakeOn
+307836,65,MissedShots,0.88,0.5159999847412109,0.06924237310886383,Grzegorz Krychowiak,a,2414,FromCorner,2019,RightFoot,11048,Krylya Sovetov Samara,Lokomotiv Moscow,1,2,2019-08-03 14:30:00,Maciej Rybus,BallTouch
+307838,70,MissedShots,0.7769999694824219,0.3920000076293945,0.03582405671477318,Aleksey Miranchuk,a,2711,OpenPlay,2019,LeftFoot,11048,Krylya Sovetov Samara,Lokomotiv Moscow,1,2,2019-08-03 14:30:00,Benedikt Höwedes,Pass
+307839,72,MissedShots,0.799000015258789,0.73,0.05411621928215027,Anton Miranchuk,a,4605,DirectFreekick,2019,RightFoot,11048,Krylya Sovetov Samara,Lokomotiv Moscow,1,2,2019-08-03 14:30:00,,Standard
+307843,89,MissedShots,0.894000015258789,0.42700000762939455,0.04723967984318733,Grzegorz Krychowiak,a,2414,SetPiece,2019,Head,11048,Krylya Sovetov Samara,Lokomotiv Moscow,1,2,2019-08-03 14:30:00,Aleksey Miranchuk,Cross
+307844,93,SavedShot,0.9,0.32099998474121094,0.09206917136907578,Rifat Zhemaletdinov,a,2712,OpenPlay,2019,RightFoot,11048,Krylya Sovetov Samara,Lokomotiv Moscow,1,2,2019-08-03 14:30:00,Aleksey Miranchuk,Pass
+307845,93,Goal,0.9890000152587891,0.524000015258789,0.9789544343948364,Grzegorz Krychowiak,a,2414,OpenPlay,2019,Head,11048,Krylya Sovetov Samara,Lokomotiv Moscow,1,2,2019-08-03 14:30:00,,Aerial

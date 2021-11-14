@@ -1,0 +1,28 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+1563,9,Goal,0.9059999847412109,0.6409999847412109,0.1804630160331726,Adamo Coulibaly,h,4772,OpenPlay,2014,RightFoot,6124,Lens,Paris Saint Germain,1,3,2014-10-17 19:30:00,,TakeOn
+1564,13,MissedShots,0.5429999923706055,0.4759999847412109,0.005540561396628618,Pierrick Valdivia,h,4769,OpenPlay,2014,LeftFoot,6124,Lens,Paris Saint Germain,1,3,2014-10-17 19:30:00,,TakeOn
+1566,20,MissedShots,0.8119999694824219,0.43099998474121093,0.02495630271732807,Lalaïna Nomenjanahary,h,4790,OpenPlay,2014,RightFoot,6124,Lens,Paris Saint Germain,1,3,2014-10-17 19:30:00,,Aerial
+1567,23,MissedShots,0.7680000305175781,0.31,0.027288975194096565,Lalaïna Nomenjanahary,h,4790,OpenPlay,2014,RightFoot,6124,Lens,Paris Saint Germain,1,3,2014-10-17 19:30:00,Jerome Le Moigne,Pass
+1571,30,SavedShot,0.7919999694824219,0.6040000152587891,0.03113524802029133,Pierrick Valdivia,h,4769,OpenPlay,2014,LeftFoot,6124,Lens,Paris Saint Germain,1,3,2014-10-17 19:30:00,Adamo Coulibaly,Pass
+1574,37,BlockedShot,0.9209999847412109,0.48200000762939454,0.09056616574525833,Jerome Le Moigne,h,3374,OpenPlay,2014,LeftFoot,6124,Lens,Paris Saint Germain,1,3,2014-10-17 19:30:00,Adamo Coulibaly,None
+1575,38,MissedShots,0.915,0.55,0.10266450047492981,Pablo Chavarria,h,4771,FromCorner,2014,RightFoot,6124,Lens,Paris Saint Germain,1,3,2014-10-17 19:30:00,,None
+1576,38,SavedShot,0.9490000152587891,0.4329999923706055,0.31937289237976074,Adamo Coulibaly,h,4772,FromCorner,2014,Head,6124,Lens,Paris Saint Germain,1,3,2014-10-17 19:30:00,Pablo Chavarria,None
+1577,42,MissedShots,0.8969999694824219,0.28600000381469726,0.04022733494639397,Jerome Le Moigne,h,3374,OpenPlay,2014,LeftFoot,6124,Lens,Paris Saint Germain,1,3,2014-10-17 19:30:00,,None
+1578,43,MissedShots,0.7290000152587891,0.45299999237060545,0.014227169565856457,Loïck Landre,h,4765,OpenPlay,2014,RightFoot,6124,Lens,Paris Saint Germain,1,3,2014-10-17 19:30:00,Jean-Philippe Gbamin,TakeOn
+1580,49,SavedShot,0.7919999694824219,0.43900001525878907,0.0399850532412529,Pierrick Valdivia,h,4769,OpenPlay,2014,LeftFoot,6124,Lens,Paris Saint Germain,1,3,2014-10-17 19:30:00,Ludovic Baal,Pass
+1585,74,MissedShots,0.7480000305175781,0.62,0.011431028135120869,Pierrick Valdivia,h,4769,OpenPlay,2014,LeftFoot,6124,Lens,Paris Saint Germain,1,3,2014-10-17 19:30:00,,None
+1560,3,MissedShots,0.909000015258789,0.3029999923706055,0.11402908712625504,Edinson Cavani,a,3294,OpenPlay,2014,RightFoot,6124,Lens,Paris Saint Germain,1,3,2014-10-17 19:30:00,Lucas Moura,Throughball
+1561,8,BlockedShot,0.745999984741211,0.33599998474121096,0.04909762367606163,Yohan Cabaye,a,516,DirectFreekick,2014,RightFoot,6124,Lens,Paris Saint Germain,1,3,2014-10-17 19:30:00,,Standard
+1562,9,SavedShot,0.8730000305175781,0.5820000076293945,0.09784220159053802,Edinson Cavani,a,3294,OpenPlay,2014,RightFoot,6124,Lens,Paris Saint Germain,1,3,2014-10-17 19:30:00,Maxwell,Pass
+1565,18,SavedShot,0.8569999694824219,0.4420000076293945,0.25293001532554626,Edinson Cavani,a,3294,OpenPlay,2014,RightFoot,6124,Lens,Paris Saint Germain,1,3,2014-10-17 19:30:00,Marco Verratti,Chipped
+1568,24,BlockedShot,0.8419999694824218,0.5590000152587891,0.2540971040725708,Edinson Cavani,a,3294,OpenPlay,2014,RightFoot,6124,Lens,Paris Saint Germain,1,3,2014-10-17 19:30:00,Marco Verratti,Chipped
+1569,24,MissedShots,0.7519999694824219,0.524000015258789,0.021609889343380928,Jean-Christophe Bahebeck,a,1531,OpenPlay,2014,RightFoot,6124,Lens,Paris Saint Germain,1,3,2014-10-17 19:30:00,Marco Verratti,TakeOn
+1570,27,Goal,0.769000015258789,0.5070000076293946,0.0297146774828434,Yohan Cabaye,a,516,OpenPlay,2014,RightFoot,6124,Lens,Paris Saint Germain,1,3,2014-10-17 19:30:00,Maxwell,Pass
+1572,32,Goal,0.7080000305175781,0.7040000152587891,0.009147555567324162,Maxwell,a,3289,OpenPlay,2014,RightFoot,6124,Lens,Paris Saint Germain,1,3,2014-10-17 19:30:00,,None
+1573,36,MissedShots,0.7130000305175781,0.445,0.04396918788552284,Jean-Christophe Bahebeck,a,1531,DirectFreekick,2014,RightFoot,6124,Lens,Paris Saint Germain,1,3,2014-10-17 19:30:00,,Standard
+1579,44,SavedShot,0.725,0.34700000762939454,0.01780596189200878,Yohan Cabaye,a,516,OpenPlay,2014,RightFoot,6124,Lens,Paris Saint Germain,1,3,2014-10-17 19:30:00,,BallRecovery
+1581,54,Goal,0.885,0.5,0.7600951194763184,Edinson Cavani,a,3294,Penalty,2014,RightFoot,6124,Lens,Paris Saint Germain,1,3,2014-10-17 19:30:00,,Standard
+1582,68,MissedShots,0.7069999694824218,0.47099998474121096,0.026377666741609573,Lucas Moura,a,3293,OpenPlay,2014,RightFoot,6124,Lens,Paris Saint Germain,1,3,2014-10-17 19:30:00,Clément Chantôme,Pass
+1583,70,MissedShots,0.9230000305175782,0.47099998474121096,0.1297275274991989,Jean-Christophe Bahebeck,a,1531,OpenPlay,2014,Head,6124,Lens,Paris Saint Germain,1,3,2014-10-17 19:30:00,Gregory Van der Wiel,Cross
+1584,72,SavedShot,0.8830000305175781,0.4540000152587891,0.4907830059528351,Javier Pastore,a,3295,OpenPlay,2014,RightFoot,6124,Lens,Paris Saint Germain,1,3,2014-10-17 19:30:00,,None
+1586,80,MissedShots,0.7440000152587891,0.54,0.025914812460541725,Lucas Moura,a,3293,OpenPlay,2014,RightFoot,6124,Lens,Paris Saint Germain,1,3,2014-10-17 19:30:00,,BallRecovery

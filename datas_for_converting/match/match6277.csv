@@ -1,0 +1,25 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+12201,3,MissedShots,0.815,0.29700000762939455,0.0216447152197361,Roman Shishkin,h,2704,OpenPlay,2014,RightFoot,6277,Lokomotiv Moscow,Torpedo Moscow,2,0,2015-04-08 18:00:00,Manuel Fernandes,TakeOn
+12205,35,SavedShot,0.9080000305175782,0.5420000076293945,0.04615136608481407,Petar Skuletic,h,2713,OpenPlay,2014,Head,6277,Lokomotiv Moscow,Torpedo Moscow,2,0,2015-04-08 18:00:00,Aleksandr Samedov,Aerial
+12207,41,MissedShots,0.9219999694824219,0.5120000076293946,0.11140196770429611,Petar Skuletic,h,2713,FromCorner,2014,LeftFoot,6277,Lokomotiv Moscow,Torpedo Moscow,2,0,2015-04-08 18:00:00,Mbark Boussoufa,Cross
+12209,58,SavedShot,0.909000015258789,0.435,0.31685230135917664,Mbark Boussoufa,h,3191,OpenPlay,2014,RightFoot,6277,Lokomotiv Moscow,Torpedo Moscow,2,0,2015-04-08 18:00:00,Petar Skuletic,Cross
+12210,59,MissedShots,0.9109999847412109,0.42700000762939455,0.04281638562679291,Mbark Boussoufa,h,3191,FromCorner,2014,Head,6277,Lokomotiv Moscow,Torpedo Moscow,2,0,2015-04-08 18:00:00,Dmitriy Tarasov,Pass
+12211,60,MissedShots,0.774000015258789,0.649000015258789,0.020190363749861717,Manuel Fernandes,h,2708,OpenPlay,2014,RightFoot,6277,Lokomotiv Moscow,Torpedo Moscow,2,0,2015-04-08 18:00:00,Mbark Boussoufa,LayOff
+12212,61,MissedShots,0.7530000305175781,0.4570000076293945,0.02114352583885193,Dmitriy Tarasov,h,2718,OpenPlay,2014,RightFoot,6277,Lokomotiv Moscow,Torpedo Moscow,2,0,2015-04-08 18:00:00,,None
+12214,67,MissedShots,0.6559999847412109,0.610999984741211,0.008343292400240898,Jan Durica,h,2722,OpenPlay,2014,LeftFoot,6277,Lokomotiv Moscow,Torpedo Moscow,2,0,2015-04-08 18:00:00,,None
+12215,70,SavedShot,0.925,0.544000015258789,0.12555311620235443,Roman Pavlyuchenko,h,2734,OpenPlay,2014,RightFoot,6277,Lokomotiv Moscow,Torpedo Moscow,2,0,2015-04-08 18:00:00,Aleksandr Samedov,Cross
+12216,70,Goal,0.9830000305175781,0.46599998474121096,0.9282906651496887,Manuel Fernandes,h,2708,OpenPlay,2014,RightFoot,6277,Lokomotiv Moscow,Torpedo Moscow,2,0,2015-04-08 18:00:00,,Rebound
+12217,73,Goal,0.885,0.5,0.7542753219604492,Manuel Fernandes,h,2708,Penalty,2014,RightFoot,6277,Lokomotiv Moscow,Torpedo Moscow,2,0,2015-04-08 18:00:00,,Standard
+12219,76,SavedShot,0.879000015258789,0.47,0.013687456957995892,Dmitriy Tarasov,h,2718,FromCorner,2014,Head,6277,Lokomotiv Moscow,Torpedo Moscow,2,0,2015-04-08 18:00:00,Aleksandr Samedov,Aerial
+12221,86,SavedShot,0.9019999694824219,0.32599998474121095,0.08631458878517151,Aleksandr Samedov,h,2710,OpenPlay,2014,RightFoot,6277,Lokomotiv Moscow,Torpedo Moscow,2,0,2015-04-08 18:00:00,Aleksey Miranchuk,Pass
+12223,89,MissedShots,0.9259999847412109,0.7269999694824218,0.04448047652840614,Roman Pavlyuchenko,h,2734,OpenPlay,2014,RightFoot,6277,Lokomotiv Moscow,Torpedo Moscow,2,0,2015-04-08 18:00:00,,None
+12202,19,MissedShots,0.795,0.4640000152587891,0.11078298091888428,Diniyar Bilyaletdinov,a,2981,DirectFreekick,2014,LeftFoot,6277,Lokomotiv Moscow,Torpedo Moscow,2,0,2015-04-08 18:00:00,,Standard
+12203,27,SavedShot,0.9330000305175781,0.6430000305175781,0.37837594747543335,Anton Putsila,a,4541,OpenPlay,2014,LeftFoot,6277,Lokomotiv Moscow,Torpedo Moscow,2,0,2015-04-08 18:00:00,Dalibor Stevanovic,TakeOn
+12204,34,MissedShots,0.7369999694824219,0.5820000076293945,0.031755540519952774,Vadim Steklov,a,4539,OpenPlay,2014,RightFoot,6277,Lokomotiv Moscow,Torpedo Moscow,2,0,2015-04-08 18:00:00,Hugo Vieira,Pass
+12206,35,SavedShot,0.77,0.5579999923706055,0.027869846671819687,Dalibor Stevanovic,a,3033,OpenPlay,2014,LeftFoot,6277,Lokomotiv Moscow,Torpedo Moscow,2,0,2015-04-08 18:00:00,,BallRecovery
+12208,55,MissedShots,0.685,0.23899999618530274,0.008809437043964863,Kirill Kombarov,a,3128,OpenPlay,2014,RightFoot,6277,Lokomotiv Moscow,Torpedo Moscow,2,0,2015-04-08 18:00:00,Anton Putsila,Pass
+12213,64,MissedShots,0.7709999847412109,0.6229999923706054,0.022718708962202072,Diniyar Bilyaletdinov,a,2981,OpenPlay,2014,LeftFoot,6277,Lokomotiv Moscow,Torpedo Moscow,2,0,2015-04-08 18:00:00,Anton Putsila,Pass
+12218,75,MissedShots,0.7619999694824219,0.17799999237060546,0.02959263138473034,Kirill Kombarov,a,3128,DirectFreekick,2014,RightFoot,6277,Lokomotiv Moscow,Torpedo Moscow,2,0,2015-04-08 18:00:00,,Standard
+12220,85,MissedShots,0.9230000305175782,0.49900001525878906,0.437692791223526,Aleksey Pugin,a,4542,OpenPlay,2014,RightFoot,6277,Lokomotiv Moscow,Torpedo Moscow,2,0,2015-04-08 18:00:00,Anton Putsila,Pass
+12222,86,MissedShots,0.7569999694824219,0.385,0.015876060351729393,Anton Putsila,a,4541,OpenPlay,2014,RightFoot,6277,Lokomotiv Moscow,Torpedo Moscow,2,0,2015-04-08 18:00:00,Dalibor Stevanovic,Pass
+12224,92,MissedShots,0.865,0.5420000076293945,0.031388059258461,Dalibor Stevanovic,a,3033,SetPiece,2014,Head,6277,Lokomotiv Moscow,Torpedo Moscow,2,0,2015-04-08 18:00:00,Anton Putsila,Cross

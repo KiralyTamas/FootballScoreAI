@@ -1,0 +1,24 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+387953,1,MissedShots,0.9290000152587891,0.5879999923706055,0.09741923958063126,Omar Colley,h,7096,FromCorner,2020,LeftFoot,15502,Sampdoria,Bologna,1,2,2020-11-22 14:00:00,,None
+387955,6,Goal,0.899000015258789,0.4809999847412109,0.06073387712240219,Morten Thorsby,h,7939,FromCorner,2020,Head,15502,Sampdoria,Bologna,1,2,2020-11-22 14:00:00,Antonio Candreva,Cross
+387956,14,MissedShots,0.725,0.6409999847412109,0.021125007420778275,Fabio Quagliarella,h,1230,OpenPlay,2020,RightFoot,15502,Sampdoria,Bologna,1,2,2020-11-22 14:00:00,Morten Thorsby,HeadPass
+387958,18,SavedShot,0.785,0.29399999618530276,0.032636430114507675,Antonio Candreva,h,1517,OpenPlay,2020,LeftFoot,15502,Sampdoria,Bologna,1,2,2020-11-22 14:00:00,Mikkel Damsgaard,TakeOn
+387960,40,MissedShots,0.7230000305175781,0.66,0.016242720186710358,Fabio Quagliarella,h,1230,OpenPlay,2020,LeftFoot,15502,Sampdoria,Bologna,1,2,2020-11-22 14:00:00,Antonio Candreva,Chipped
+387961,43,OwnGoal,0.048000001907348634,0.4909999847412109,0,Vasco Regini,h,1224,FromCorner,2020,LeftFoot,15502,Sampdoria,Bologna,1,2,2020-11-22 14:00:00,,CornerAwarded
+387963,53,MissedShots,0.8719999694824219,0.5970000076293945,0.3275240659713745,Fabio Quagliarella,h,1230,OpenPlay,2020,RightFoot,15502,Sampdoria,Bologna,1,2,2020-11-22 14:00:00,Adrien Silva,Pass
+387964,54,SavedShot,0.8230000305175781,0.28600000381469726,0.027204373851418495,Antonio Candreva,h,1517,OpenPlay,2020,RightFoot,15502,Sampdoria,Bologna,1,2,2020-11-22 14:00:00,Adrien Silva,Pass
+387965,54,BlockedShot,0.870999984741211,0.48400001525878905,0.07547213137149811,Albin Ekdal,h,411,OpenPlay,2020,RightFoot,15502,Sampdoria,Bologna,1,2,2020-11-22 14:00:00,,Rebound
+387966,59,MissedShots,0.879000015258789,0.5459999847412109,0.04420395568013191,Fabio Quagliarella,h,1230,OpenPlay,2020,Head,15502,Sampdoria,Bologna,1,2,2020-11-22 14:00:00,Vasco Regini,Cross
+387972,83,SavedShot,0.8919999694824219,0.5279999923706055,0.05993782356381416,Gastón Ramírez,h,952,OpenPlay,2020,Head,15502,Sampdoria,Bologna,1,2,2020-11-22 14:00:00,Jakub Jankto,Cross
+387973,88,BlockedShot,0.8880000305175781,0.519000015258789,0.05749735236167908,Mikkel Damsgaard,h,8859,OpenPlay,2020,Head,15502,Sampdoria,Bologna,1,2,2020-11-22 14:00:00,Antonio Candreva,Cross
+387954,2,BlockedShot,0.874000015258789,0.6719999694824219,0.05107012763619423,Musa Barrow,a,6512,OpenPlay,2020,RightFoot,15502,Sampdoria,Bologna,1,2,2020-11-22 14:00:00,,None
+387957,15,SavedShot,0.8980000305175782,0.30700000762939456,0.04616980254650116,Rodrigo Palacio,a,1518,OpenPlay,2020,RightFoot,15502,Sampdoria,Bologna,1,2,2020-11-22 14:00:00,Riccardo Orsolini,BallTouch
+387959,23,ShotOnPost,0.9159999847412109,0.46700000762939453,0.47690507769584656,Riccardo Orsolini,a,6160,OpenPlay,2020,LeftFoot,15502,Sampdoria,Bologna,1,2,2020-11-22 14:00:00,Mattias Svanberg,Throughball
+387962,51,Goal,0.9740000152587891,0.445,0.5698891878128052,Riccardo Orsolini,a,6160,OpenPlay,2020,Head,15502,Sampdoria,Bologna,1,2,2020-11-22 14:00:00,Musa Barrow,Cross
+387967,69,MissedShots,0.7169999694824218,0.6719999694824219,0.01179320178925991,Musa Barrow,a,6512,OpenPlay,2020,RightFoot,15502,Sampdoria,Bologna,1,2,2020-11-22 14:00:00,Jerdy Schouten,Chipped
+387968,71,BlockedShot,0.865999984741211,0.624000015258789,0.03573776036500931,Roberto Soriano,a,1810,OpenPlay,2020,RightFoot,15502,Sampdoria,Bologna,1,2,2020-11-22 14:00:00,,Aerial
+387969,71,BlockedShot,0.795,0.755,0.023262638598680496,Musa Barrow,a,6512,OpenPlay,2020,RightFoot,15502,Sampdoria,Bologna,1,2,2020-11-22 14:00:00,Nicolás Domínguez,Pass
+387970,78,SavedShot,0.950999984741211,0.644000015258789,0.36722421646118164,Rodrigo Palacio,a,1518,OpenPlay,2020,RightFoot,15502,Sampdoria,Bologna,1,2,2020-11-22 14:00:00,Roberto Soriano,TakeOn
+387971,81,BlockedShot,0.7969999694824219,0.639000015258789,0.03971433266997337,Musa Barrow,a,6512,OpenPlay,2020,RightFoot,15502,Sampdoria,Bologna,1,2,2020-11-22 14:00:00,Nicolás Domínguez,Pass
+387974,93,ShotOnPost,0.8159999847412109,0.4759999847412109,0.0719069316983223,Rodrigo Palacio,a,1518,OpenPlay,2020,RightFoot,15502,Sampdoria,Bologna,1,2,2020-11-22 14:00:00,Gary Medel,BallRecovery
+387975,93,MissedShots,0.8630000305175781,0.31,0.04354560002684593,Emanuel Vignato,a,4943,OpenPlay,2020,RightFoot,15502,Sampdoria,Bologna,1,2,2020-11-22 14:00:00,,Rebound

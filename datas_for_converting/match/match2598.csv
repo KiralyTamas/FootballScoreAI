@@ -1,0 +1,24 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+122086,2,BlockedShot,0.8859999847412109,0.5459999847412109,0.09316089004278183,Felicio Brown Forbes,h,3099,OpenPlay,2016,LeftFoot,2598,Arsenal Tula,Rubin Kazan,1,0,2016-08-06 20:30:00,Vadim Steklov,Cross
+122087,5,MissedShots,0.8880000305175781,0.2520000076293945,0.08348092436790466,Igor Shevchenko,h,4552,OpenPlay,2016,RightFoot,2598,Arsenal Tula,Rubin Kazan,1,0,2016-08-06 20:30:00,Aleksandr Denisov,Chipped
+122088,10,BlockedShot,0.850999984741211,0.3189999961853027,0.045930393040180206,Nikita Burmistrov,h,2986,OpenPlay,2016,LeftFoot,2598,Arsenal Tula,Rubin Kazan,1,0,2016-08-06 20:30:00,Igor Shevchenko,TakeOn
+122089,10,MissedShots,0.7609999847412109,0.43099998474121093,0.01739427261054516,Vadim Steklov,h,4539,OpenPlay,2016,RightFoot,2598,Arsenal Tula,Rubin Kazan,1,0,2016-08-06 20:30:00,,Rebound
+122090,15,MissedShots,0.89,0.6840000152587891,0.0501064732670784,Lukás Tesák,h,4597,OpenPlay,2016,LeftFoot,2598,Arsenal Tula,Rubin Kazan,1,0,2016-08-06 20:30:00,,None
+122091,15,MissedShots,0.9319999694824219,0.5159999847412109,0.15625935792922974,Igor Shevchenko,h,4552,OpenPlay,2016,LeftFoot,2598,Arsenal Tula,Rubin Kazan,1,0,2016-08-06 20:30:00,Lukás Tesák,Rebound
+122092,20,Goal,0.935,0.4759999847412109,0.5807697772979736,Igor Shevchenko,h,4552,OpenPlay,2016,RightFoot,2598,Arsenal Tula,Rubin Kazan,1,0,2016-08-06 20:30:00,Lukás Tesák,Pass
+122096,35,MissedShots,0.750999984741211,0.28200000762939453,0.03879721462726593,Kantemir Berkhamov,h,5374,DirectFreekick,2016,LeftFoot,2598,Arsenal Tula,Rubin Kazan,1,0,2016-08-06 20:30:00,,Standard
+122097,45,SavedShot,0.9319999694824219,0.26,0.048539578914642334,Felicio Brown Forbes,h,3099,OpenPlay,2016,RightFoot,2598,Arsenal Tula,Rubin Kazan,1,0,2016-08-06 20:30:00,Nikita Burmistrov,Pass
+122098,47,BlockedShot,0.7819999694824219,0.7659999847412109,0.017812497913837433,Kantemir Berkhamov,h,5374,OpenPlay,2016,LeftFoot,2598,Arsenal Tula,Rubin Kazan,1,0,2016-08-06 20:30:00,,BallRecovery
+122099,48,ShotOnPost,0.7380000305175781,0.534000015258789,0.0525100901722908,Kantemir Berkhamov,h,5374,DirectFreekick,2016,LeftFoot,2598,Arsenal Tula,Rubin Kazan,1,0,2016-08-06 20:30:00,,Standard
+122100,48,MissedShots,0.909000015258789,0.5590000152587891,0.11973339319229126,Nikita Burmistrov,h,2986,SetPiece,2016,LeftFoot,2598,Arsenal Tula,Rubin Kazan,1,0,2016-08-06 20:30:00,,Rebound
+122101,51,MissedShots,0.875999984741211,0.3390000152587891,0.06354474276304245,Igor Shevchenko,h,4552,OpenPlay,2016,RightFoot,2598,Arsenal Tula,Rubin Kazan,1,0,2016-08-06 20:30:00,Aleksandr Denisov,Chipped
+122102,52,SavedShot,0.9540000152587891,0.38599998474121094,0.12518645823001862,Vadim Steklov,h,4539,OpenPlay,2016,RightFoot,2598,Arsenal Tula,Rubin Kazan,1,0,2016-08-06 20:30:00,Kantemir Berkhamov,Pass
+122104,55,MissedShots,0.8690000152587891,0.6229999923706054,0.052884746342897415,Nikita Burmistrov,h,2986,OpenPlay,2016,LeftFoot,2598,Arsenal Tula,Rubin Kazan,1,0,2016-08-06 20:30:00,Vadim Steklov,Cross
+122093,26,MissedShots,0.9130000305175782,0.40200000762939453,0.07914628088474274,Samu García,a,2300,OpenPlay,2016,RightFoot,2598,Arsenal Tula,Rubin Kazan,1,0,2016-08-06 20:30:00,Rubén Rochina,HeadPass
+122094,27,SavedShot,0.7819999694824219,0.40799999237060547,0.030107567086815834,Rubén Rochina,a,2079,OpenPlay,2016,LeftFoot,2598,Arsenal Tula,Rubin Kazan,1,0,2016-08-06 20:30:00,Samu García,TakeOn
+122095,30,MissedShots,0.909000015258789,0.565,0.09031727910041809,Jonathas,a,2480,OpenPlay,2016,RightFoot,2598,Arsenal Tula,Rubin Kazan,1,0,2016-08-06 20:30:00,Elmir Nabiullin,Cross
+122103,54,BlockedShot,0.8430000305175781,0.3820000076293945,0.047207292169332504,Magomed Ozdoev,a,2968,OpenPlay,2016,RightFoot,2598,Arsenal Tula,Rubin Kazan,1,0,2016-08-06 20:30:00,Marko Devic,Pass
+122105,62,SavedShot,0.7859999847412109,0.6459999847412109,0.02173573523759842,Marko Devic,a,2972,OpenPlay,2016,RightFoot,2598,Arsenal Tula,Rubin Kazan,1,0,2016-08-06 20:30:00,,Dispossessed
+122106,63,BlockedShot,0.9259999847412109,0.5590000152587891,0.4821370542049408,Jonathas,a,2480,OpenPlay,2016,RightFoot,2598,Arsenal Tula,Rubin Kazan,1,0,2016-08-06 20:30:00,,None
+122107,63,MissedShots,0.8859999847412109,0.36900001525878906,0.010659522376954556,Samu García,a,2300,FromCorner,2016,Head,2598,Arsenal Tula,Rubin Kazan,1,0,2016-08-06 20:30:00,Mijo Caktas,Cross
+122108,93,MissedShots,0.960999984741211,0.715,0.006634267512708902,Gökdeniz Karadeniz,a,2971,OpenPlay,2016,Head,2598,Arsenal Tula,Rubin Kazan,1,0,2016-08-06 20:30:00,Magomed Ozdoev,Cross

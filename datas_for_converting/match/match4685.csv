@@ -1,0 +1,30 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+17329,2,BlockedShot,0.8669999694824219,0.5709999847412109,0.08399825543165207,Danny Ings,h,986,OpenPlay,2014,RightFoot,4685,Burnley,Aston Villa,1,1,2014-11-29 15:00:00,,BallRecovery
+17333,10,BlockedShot,0.7919999694824219,0.6709999847412109,0.02721586264669895,Michael Kightly,h,1668,OpenPlay,2014,RightFoot,4685,Burnley,Aston Villa,1,1,2014-11-29 15:00:00,Stephen Ward,Pass
+17337,12,MissedShots,0.904000015258789,0.6309999847412109,0.03504333272576332,Michael Kightly,h,1668,OpenPlay,2014,LeftFoot,4685,Burnley,Aston Villa,1,1,2014-11-29 15:00:00,,Aerial
+17343,30,SavedShot,0.740999984741211,0.47400001525878904,0.01637749932706356,George Boyd,h,1656,OpenPlay,2014,LeftFoot,4685,Burnley,Aston Villa,1,1,2014-11-29 15:00:00,,None
+17346,42,SavedShot,0.8040000152587891,0.6480000305175782,0.03233741596341133,Danny Ings,h,986,OpenPlay,2014,RightFoot,4685,Burnley,Aston Villa,1,1,2014-11-29 15:00:00,Stephen Ward,BallRecovery
+17347,46,BlockedShot,0.8730000305175781,0.47,0.07812803983688354,George Boyd,h,1656,OpenPlay,2014,RightFoot,4685,Burnley,Aston Villa,1,1,2014-11-29 15:00:00,Danny Ings,Cross
+17350,55,SavedShot,0.904000015258789,0.500999984741211,0.4051281809806824,Michael Kightly,h,1668,OpenPlay,2014,LeftFoot,4685,Burnley,Aston Villa,1,1,2014-11-29 15:00:00,Danny Ings,HeadPass
+17352,57,MissedShots,0.9180000305175782,0.5059999847412109,0.11158361285924911,Danny Ings,h,986,OpenPlay,2014,Head,4685,Burnley,Aston Villa,1,1,2014-11-29 15:00:00,Kieran Trippier,Cross
+17354,86,Goal,0.885,0.5,0.7611688375473022,Danny Ings,h,986,Penalty,2014,RightFoot,4685,Burnley,Aston Villa,1,1,2014-11-29 15:00:00,,Standard
+17355,90,ShotOnPost,0.9030000305175782,0.4540000152587891,0.35456153750419617,Danny Ings,h,986,OpenPlay,2014,RightFoot,4685,Burnley,Aston Villa,1,1,2014-11-29 15:00:00,Ross Wallace,TakeOn
+17356,90,MissedShots,0.93,0.5309999847412109,0.40025386214256287,Lukas Jutkiewicz,h,1664,OpenPlay,2014,Head,4685,Burnley,Aston Villa,1,1,2014-11-29 15:00:00,Ross Wallace,Cross
+17330,4,BlockedShot,0.754000015258789,0.39599998474121095,0.019289078190922737,Gabriel Agbonlahor,a,890,OpenPlay,2014,RightFoot,4685,Burnley,Aston Villa,1,1,2014-11-29 15:00:00,Joe Cole,LayOff
+17331,4,BlockedShot,0.8519999694824218,0.475,0.049077607691287994,Tom Cleverley,a,596,FromCorner,2014,RightFoot,4685,Burnley,Aston Villa,1,1,2014-11-29 15:00:00,Alan Hutton,HeadPass
+17332,8,BlockedShot,0.8630000305175781,0.5690000152587891,0.07770407944917679,Joe Cole,a,1004,OpenPlay,2014,RightFoot,4685,Burnley,Aston Villa,1,1,2014-11-29 15:00:00,Aly Cissokho,HeadPass
+17334,10,BlockedShot,0.9359999847412109,0.5179999923706055,0.06491222977638245,Ciaran Clark,a,875,FromCorner,2014,Head,4685,Burnley,Aston Villa,1,1,2014-11-29 15:00:00,Ashley Westwood,Aerial
+17335,11,BlockedShot,0.775,0.28600000381469726,0.014609187841415405,Carlos Sánchez,a,667,OpenPlay,2014,LeftFoot,4685,Burnley,Aston Villa,1,1,2014-11-29 15:00:00,,TakeOn
+17336,11,SavedShot,0.9380000305175781,0.5529999923706055,0.07219792902469635,Ciaran Clark,a,875,OpenPlay,2014,Head,4685,Burnley,Aston Villa,1,1,2014-11-29 15:00:00,Jores Okore,HeadPass
+17338,17,BlockedShot,0.78,0.34400001525878904,0.018632302060723305,Ashley Westwood,a,669,OpenPlay,2014,RightFoot,4685,Burnley,Aston Villa,1,1,2014-11-29 15:00:00,Andreas Weimann,Pass
+17339,17,MissedShots,0.9619999694824218,0.4329999923706055,0.11450373381376266,Ciaran Clark,a,875,FromCorner,2014,Head,4685,Burnley,Aston Villa,1,1,2014-11-29 15:00:00,Ashley Westwood,Cross
+17340,18,SavedShot,0.8390000152587891,0.46900001525878904,0.12646470963954926,Gabriel Agbonlahor,a,890,OpenPlay,2014,RightFoot,4685,Burnley,Aston Villa,1,1,2014-11-29 15:00:00,Joe Cole,Throughball
+17341,23,SavedShot,0.73,0.509000015258789,0.01702704466879368,Tom Cleverley,a,596,OpenPlay,2014,RightFoot,4685,Burnley,Aston Villa,1,1,2014-11-29 15:00:00,Joe Cole,Pass
+17342,28,BlockedShot,0.795,0.7169999694824218,0.021388299763202667,Andreas Weimann,a,4427,SetPiece,2014,RightFoot,4685,Burnley,Aston Villa,1,1,2014-11-29 15:00:00,Tom Cleverley,Pass
+17344,37,Goal,0.95,0.415,0.1320943683385849,Joe Cole,a,1004,OpenPlay,2014,RightFoot,4685,Burnley,Aston Villa,1,1,2014-11-29 15:00:00,Andreas Weimann,Pass
+17345,39,BlockedShot,0.8769999694824219,0.3529999923706055,0.0839652344584465,Andreas Weimann,a,4427,OpenPlay,2014,RightFoot,4685,Burnley,Aston Villa,1,1,2014-11-29 15:00:00,Joe Cole,Pass
+17348,50,BlockedShot,0.885,0.39099998474121095,0.09864095598459244,Tom Cleverley,a,596,OpenPlay,2014,RightFoot,4685,Burnley,Aston Villa,1,1,2014-11-29 15:00:00,Alan Hutton,Pass
+17349,51,SavedShot,0.7519999694824219,0.43599998474121093,0.022046003490686417,Andreas Weimann,a,4427,OpenPlay,2014,LeftFoot,4685,Burnley,Aston Villa,1,1,2014-11-29 15:00:00,Tom Cleverley,Pass
+17351,56,SavedShot,0.8090000152587891,0.35700000762939454,0.04479597881436348,Andreas Weimann,a,4427,OpenPlay,2014,RightFoot,4685,Burnley,Aston Villa,1,1,2014-11-29 15:00:00,Tom Cleverley,Pass
+17353,74,MissedShots,0.74,0.585,0.053562648594379425,Carlos Sánchez,a,667,DirectFreekick,2014,RightFoot,4685,Burnley,Aston Villa,1,1,2014-11-29 15:00:00,,Standard
+17357,95,SavedShot,0.8480000305175781,0.6409999847412109,0.05638926848769188,Jack Grealish,a,675,OpenPlay,2014,RightFoot,4685,Burnley,Aston Villa,1,1,2014-11-29 15:00:00,,BlockedPass

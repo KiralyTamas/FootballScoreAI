@@ -1,0 +1,29 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+31956,6,Goal,0.835,0.44099998474121094,0.29054969549179077,Tobias Werner,h,397,OpenPlay,2014,RightFoot,5219,Augsburg,VfB Stuttgart,2,1,2015-04-18 17:30:00,Alexander Esswein,Chipped
+31957,10,MissedShots,0.8719999694824219,0.16799999237060548,0.05404676869511604,Pierre-Emile Højbjerg,h,343,DirectFreekick,2014,RightFoot,5219,Augsburg,VfB Stuttgart,2,1,2015-04-18 17:30:00,,Standard
+31960,26,MissedShots,0.8969999694824219,0.49700000762939456,0.05388104170560837,Alexander Esswein,h,270,SetPiece,2014,OtherBodyPart,5219,Augsburg,VfB Stuttgart,2,1,2015-04-18 17:30:00,Tobias Werner,Cross
+31962,31,SavedShot,0.8009999847412109,0.305,0.02477344684302807,Alexander Esswein,h,270,OpenPlay,2014,RightFoot,5219,Augsburg,VfB Stuttgart,2,1,2015-04-18 17:30:00,Ragnar Klavan,Chipped
+31965,39,BlockedShot,0.6990000152587891,0.425,0.0384652316570282,Pierre-Emile Højbjerg,h,343,DirectFreekick,2014,RightFoot,5219,Augsburg,VfB Stuttgart,2,1,2015-04-18 17:30:00,,Standard
+31972,66,BlockedShot,0.775,0.7030000305175781,0.02031237632036209,Tobias Werner,h,397,OpenPlay,2014,LeftFoot,5219,Augsburg,VfB Stuttgart,2,1,2015-04-18 17:30:00,Halil Altintop,Pass
+31973,67,MissedShots,0.759000015258789,0.28899999618530275,0.010527784004807472,Paul Verhaegh,h,264,SetPiece,2014,RightFoot,5219,Augsburg,VfB Stuttgart,2,1,2015-04-18 17:30:00,,None
+31974,70,MissedShots,0.764000015258789,0.20100000381469726,0.009550478309392929,Alexander Esswein,h,270,OpenPlay,2014,RightFoot,5219,Augsburg,VfB Stuttgart,2,1,2015-04-18 17:30:00,,None
+31976,72,SavedShot,0.7380000305175781,0.415,0.017550690099596977,Daniel Baier,h,268,OpenPlay,2014,RightFoot,5219,Augsburg,VfB Stuttgart,2,1,2015-04-18 17:30:00,,Dispossessed
+31977,72,Goal,0.9219999694824219,0.5309999847412109,0.5400171279907227,Raúl Bobadilla,h,273,OpenPlay,2014,RightFoot,5219,Augsburg,VfB Stuttgart,2,1,2015-04-18 17:30:00,Tobias Werner,Pass
+31980,78,MissedShots,0.8909999847412109,0.874000015258789,0.04547084867954254,Raúl Bobadilla,h,273,DirectFreekick,2014,RightFoot,5219,Augsburg,VfB Stuttgart,2,1,2015-04-18 17:30:00,,Standard
+31982,81,MissedShots,0.875,0.4779999923706055,0.038860030472278595,Ragnar Klavan,h,265,OpenPlay,2014,Head,5219,Augsburg,VfB Stuttgart,2,1,2015-04-18 17:30:00,,Aerial
+31958,20,SavedShot,0.91,0.7240000152587891,0.05690724030137062,Filip Kostic,a,64,OpenPlay,2014,LeftFoot,5219,Augsburg,VfB Stuttgart,2,1,2015-04-18 17:30:00,Daniel Ginczek,Pass
+31959,21,Goal,0.97,0.47400001525878904,0.8001822829246521,Daniel Ginczek,a,426,SetPiece,2014,RightFoot,5219,Augsburg,VfB Stuttgart,2,1,2015-04-18 17:30:00,Filip Kostic,Pass
+31961,29,SavedShot,0.9259999847412109,0.485,0.35400137305259705,Georg Niedermeier,a,58,FromCorner,2014,Head,5219,Augsburg,VfB Stuttgart,2,1,2015-04-18 17:30:00,Filip Kostic,Cross
+31963,32,MissedShots,0.6680000305175782,0.59,0.02964090369641781,Filip Kostic,a,64,DirectFreekick,2014,LeftFoot,5219,Augsburg,VfB Stuttgart,2,1,2015-04-18 17:30:00,,Standard
+31964,38,SavedShot,0.919000015258789,0.49900001525878906,0.6372337937355042,Daniel Ginczek,a,426,OpenPlay,2014,RightFoot,5219,Augsburg,VfB Stuttgart,2,1,2015-04-18 17:30:00,Christian Gentner,Pass
+31966,42,SavedShot,0.825,0.6469999694824219,0.03186216577887535,Geoffroy Serey Dié,a,61,SetPiece,2014,RightFoot,5219,Augsburg,VfB Stuttgart,2,1,2015-04-18 17:30:00,,None
+31967,45,MissedShots,0.8319999694824218,0.38799999237060545,0.05117367208003998,Christian Gentner,a,60,OpenPlay,2014,RightFoot,5219,Augsburg,VfB Stuttgart,2,1,2015-04-18 17:30:00,,None
+31968,46,SavedShot,0.7390000152587891,0.6409999847412109,0.00968337245285511,Filip Kostic,a,64,OpenPlay,2014,LeftFoot,5219,Augsburg,VfB Stuttgart,2,1,2015-04-18 17:30:00,Daniel Schwaab,Chipped
+31969,47,BlockedShot,0.8219999694824218,0.3609999847412109,0.03981928154826164,Daniel Ginczek,a,426,OpenPlay,2014,RightFoot,5219,Augsburg,VfB Stuttgart,2,1,2015-04-18 17:30:00,Alexandru Maxim,Pass
+31970,48,SavedShot,0.845999984741211,0.7830000305175782,0.01365408580750227,Filip Kostic,a,64,FromCorner,2014,LeftFoot,5219,Augsburg,VfB Stuttgart,2,1,2015-04-18 17:30:00,,Aerial
+31971,57,MissedShots,0.9390000152587891,0.5690000152587891,0.049454107880592346,Antonio Rüdiger,a,1822,FromCorner,2014,Head,5219,Augsburg,VfB Stuttgart,2,1,2015-04-18 17:30:00,Filip Kostic,Aerial
+31975,71,MissedShots,0.7480000305175781,0.45799999237060546,0.026766233146190643,Geoffroy Serey Dié,a,61,SetPiece,2014,RightFoot,5219,Augsburg,VfB Stuttgart,2,1,2015-04-18 17:30:00,Daniel Ginczek,LayOff
+31978,76,BlockedShot,0.8959999847412109,0.5570000076293945,0.1111227348446846,Georg Niedermeier,a,58,SetPiece,2014,RightFoot,5219,Augsburg,VfB Stuttgart,2,1,2015-04-18 17:30:00,Christian Gentner,Pass
+31979,76,MissedShots,0.919000015258789,0.445,0.12291881442070007,Antonio Rüdiger,a,1822,SetPiece,2014,RightFoot,5219,Augsburg,VfB Stuttgart,2,1,2015-04-18 17:30:00,,Rebound
+31981,80,MissedShots,0.855,0.6880000305175781,0.04065433517098427,Christian Gentner,a,60,OpenPlay,2014,RightFoot,5219,Augsburg,VfB Stuttgart,2,1,2015-04-18 17:30:00,Alexandru Maxim,Pass
+31983,83,MissedShots,0.7519999694824219,0.31799999237060544,0.050101689994335175,Filip Kostic,a,64,DirectFreekick,2014,LeftFoot,5219,Augsburg,VfB Stuttgart,2,1,2015-04-18 17:30:00,,Standard

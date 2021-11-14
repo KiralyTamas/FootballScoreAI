@@ -1,0 +1,27 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+366755,2,BlockedShot,0.955,0.605999984741211,0.08492816239595413,Franco Vázquez,h,1836,OpenPlay,2019,LeftFoot,12341,Sevilla,Real Valladolid,1,1,2020-06-26 20:00:00,,None
+366759,13,MissedShots,0.8640000152587891,0.40299999237060546,0.06076944246888161,Lucas Ocampos,h,1109,OpenPlay,2019,RightFoot,12341,Sevilla,Real Valladolid,1,1,2020-06-26 20:00:00,Franco Vázquez,HeadPass
+366760,17,SavedShot,0.88,0.5779999923706055,0.03409261628985405,Luuk de Jong,h,7887,OpenPlay,2019,Head,12341,Sevilla,Real Valladolid,1,1,2020-06-26 20:00:00,Munir,Cross
+366761,20,ShotOnPost,0.9630000305175781,0.3940000152587891,0.28954651951789856,Lucas Ocampos,h,1109,OpenPlay,2019,RightFoot,12341,Sevilla,Real Valladolid,1,1,2020-06-26 20:00:00,Jesús Navas,Cross
+366763,23,SavedShot,0.8669999694824219,0.525,0.011808151379227638,Franco Vázquez,h,1836,SetPiece,2019,Head,12341,Sevilla,Real Valladolid,1,1,2020-06-26 20:00:00,Munir,Aerial
+366766,40,MissedShots,0.8930000305175781,0.7140000152587891,0.03971198573708534,Munir,h,2106,OpenPlay,2019,LeftFoot,12341,Sevilla,Real Valladolid,1,1,2020-06-26 20:00:00,Fernando,Pass
+366767,48,MissedShots,0.855,0.5990000152587891,0.024358298629522324,Jules Koundé,h,6433,SetPiece,2019,RightFoot,12341,Sevilla,Real Valladolid,1,1,2020-06-26 20:00:00,Éver Banega,Cross
+366768,48,BlockedShot,0.6430000305175781,0.5159999847412109,0.009924346581101418,Diego Carlos,h,5712,OpenPlay,2019,RightFoot,12341,Sevilla,Real Valladolid,1,1,2020-06-26 20:00:00,Sergio Escudero,BallRecovery
+366769,49,MissedShots,0.8519999694824218,0.4809999847412109,0.03194356709718704,Diego Carlos,h,5712,SetPiece,2019,Head,12341,Sevilla,Real Valladolid,1,1,2020-06-26 20:00:00,Éver Banega,Cross
+366771,61,MissedShots,0.7469999694824219,0.3509999847412109,0.056613583117723465,Suso,h,1129,DirectFreekick,2019,LeftFoot,12341,Sevilla,Real Valladolid,1,1,2020-06-26 20:00:00,,Standard
+366774,77,BlockedShot,0.9,0.41900001525878905,0.049337394535541534,Youssef En-Nesyri,h,5169,FromCorner,2019,Head,12341,Sevilla,Real Valladolid,1,1,2020-06-26 20:00:00,Suso,Cross
+366775,80,BlockedShot,0.9119999694824219,0.5020000076293946,0.10070183128118515,Sergio Escudero,h,2064,FromCorner,2019,Head,12341,Sevilla,Real Valladolid,1,1,2020-06-26 20:00:00,Suso,Cross
+366776,82,Goal,0.885,0.5,0.7432776093482971,Lucas Ocampos,h,1109,Penalty,2019,RightFoot,12341,Sevilla,Real Valladolid,1,1,2020-06-26 20:00:00,,Standard
+366778,90,BlockedShot,0.7869999694824219,0.47900001525878905,0.037316884845495224,Éver Banega,h,1520,OpenPlay,2019,LeftFoot,12341,Sevilla,Real Valladolid,1,1,2020-06-26 20:00:00,,None
+366779,95,MissedShots,0.7909999847412109,0.6659999847412109,0.023115962743759155,Munir,h,2106,OpenPlay,2019,LeftFoot,12341,Sevilla,Real Valladolid,1,1,2020-06-26 20:00:00,Youssef En-Nesyri,Pass
+366756,5,MissedShots,0.794000015258789,0.700999984741211,0.018668292090296745,Waldo Rubio,a,7525,OpenPlay,2019,RightFoot,12341,Sevilla,Real Valladolid,1,1,2020-06-26 20:00:00,,None
+366757,7,SavedShot,0.7619999694824219,0.87,0.02922297641634941,Pablo Hervías,a,4054,DirectFreekick,2019,RightFoot,12341,Sevilla,Real Valladolid,1,1,2020-06-26 20:00:00,,Standard
+366758,12,BlockedShot,0.7180000305175781,0.509000015258789,0.01571446843445301,Waldo Rubio,a,7525,OpenPlay,2019,RightFoot,12341,Sevilla,Real Valladolid,1,1,2020-06-26 20:00:00,,BallRecovery
+366762,22,BlockedShot,0.845,0.32299999237060545,0.028079504147171974,Hatem Ben Arfa,a,3638,OpenPlay,2019,LeftFoot,12341,Sevilla,Real Valladolid,1,1,2020-06-26 20:00:00,Antoñito,TakeOn
+366764,24,Goal,0.9330000305175781,0.3220000076293945,0.024979958310723305,Kiko Olivas,a,6915,SetPiece,2019,Head,12341,Sevilla,Real Valladolid,1,1,2020-06-26 20:00:00,Míchel,Chipped
+366765,32,MissedShots,0.6990000152587891,0.5320000076293945,0.014935032464563847,Waldo Rubio,a,7525,SetPiece,2019,RightFoot,12341,Sevilla,Real Valladolid,1,1,2020-06-26 20:00:00,Pablo Hervías,Pass
+366770,60,SavedShot,0.855,0.5570000076293945,0.029192332178354263,Miguel De la Fuente,a,6924,SetPiece,2019,Head,12341,Sevilla,Real Valladolid,1,1,2020-06-26 20:00:00,Raúl García,Cross
+366772,63,MissedShots,0.805,0.6609999847412109,0.045396555215120316,Miguel De la Fuente,a,6924,OpenPlay,2019,RightFoot,12341,Sevilla,Real Valladolid,1,1,2020-06-26 20:00:00,,None
+366773,73,BlockedShot,0.8180000305175781,0.6890000152587891,0.03571012616157532,Rubén Alcaraz,a,6917,OpenPlay,2019,RightFoot,12341,Sevilla,Real Valladolid,1,1,2020-06-26 20:00:00,Miguel De la Fuente,Pass
+366777,88,SavedShot,0.9469999694824218,0.66,0.32391786575317383,Rubén Alcaraz,a,6917,OpenPlay,2019,LeftFoot,12341,Sevilla,Real Valladolid,1,1,2020-06-26 20:00:00,Enes Ünal,Pass
+366780,95,SavedShot,0.72,0.51,0.017908819019794464,Enes Ünal,a,6219,OpenPlay,2019,RightFoot,12341,Sevilla,Real Valladolid,1,1,2020-06-26 20:00:00,Kike Pérez,Pass

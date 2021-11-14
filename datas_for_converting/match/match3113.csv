@@ -1,0 +1,24 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+115591,9,MissedShots,0.6890000152587891,0.505,0.012114409357309341,Ramiro Funes Mori,h,597,OpenPlay,2016,LeftFoot,3113,Everton,Manchester United,1,1,2016-12-04 20:00:00,,BallRecovery
+115592,17,MissedShots,0.8480000305175781,0.585,0.04712609946727753,Tom Cleverley,h,596,SetPiece,2016,LeftFoot,3113,Everton,Manchester United,1,1,2016-12-04 20:00:00,Ashley Williams,HeadPass
+115593,26,MissedShots,0.8969999694824219,0.24799999237060547,0.032574351876974106,Yannick Bolasie,h,518,OpenPlay,2016,RightFoot,3113,Everton,Manchester United,1,1,2016-12-04 20:00:00,Romelu Lukaku,Pass
+115595,33,MissedShots,0.885,0.6,0.028362970799207687,Ramiro Funes Mori,h,597,SetPiece,2016,Head,3113,Everton,Manchester United,1,1,2016-12-04 20:00:00,Kevin Mirallas,Cross
+115598,52,SavedShot,0.919000015258789,0.34700000762939454,0.07920436561107635,Kevin Mirallas,h,595,OpenPlay,2016,RightFoot,3113,Everton,Manchester United,1,1,2016-12-04 20:00:00,,TakeOn
+115605,71,BlockedShot,0.7630000305175781,0.7090000152587891,0.014710060320794582,Gareth Barry,h,590,OpenPlay,2016,LeftFoot,3113,Everton,Manchester United,1,1,2016-12-04 20:00:00,,None
+115606,74,SavedShot,0.774000015258789,0.415,0.028093108907341957,Idrissa Gueye,h,668,OpenPlay,2016,RightFoot,3113,Everton,Manchester United,1,1,2016-12-04 20:00:00,Kevin Mirallas,Pass
+115607,75,BlockedShot,0.7609999847412109,0.69,0.017691442742943764,Idrissa Gueye,h,668,OpenPlay,2016,RightFoot,3113,Everton,Manchester United,1,1,2016-12-04 20:00:00,Leighton Baines,Pass
+115608,76,SavedShot,0.889000015258789,0.4809999847412109,0.07241397351026535,Mason Holgate,h,985,SetPiece,2016,Head,3113,Everton,Manchester United,1,1,2016-12-04 20:00:00,Gerard Deulofeu,Cross
+115609,80,SavedShot,0.9469999694824218,0.5220000076293946,0.49984899163246155,Enner Valencia,h,539,OpenPlay,2016,Head,3113,Everton,Manchester United,1,1,2016-12-04 20:00:00,Mason Holgate,Cross
+115610,88,Goal,0.885,0.5,0.7611688375473022,Leighton Baines,h,588,Penalty,2016,LeftFoot,3113,Everton,Manchester United,1,1,2016-12-04 20:00:00,,Standard
+115611,88,BlockedShot,0.764000015258789,0.5509999847412109,0.027485592290759087,Enner Valencia,h,539,OpenPlay,2016,RightFoot,3113,Everton,Manchester United,1,1,2016-12-04 20:00:00,,Goal
+115612,90,SavedShot,0.8680000305175781,0.7530000305175781,0.029057808220386505,Leighton Baines,h,588,OpenPlay,2016,LeftFoot,3113,Everton,Manchester United,1,1,2016-12-04 20:00:00,Idrissa Gueye,Pass
+115590,7,MissedShots,0.7559999847412109,0.42400001525878905,0.021880410611629486,Paul Pogba,a,1740,OpenPlay,2016,LeftFoot,3113,Everton,Manchester United,1,1,2016-12-04 20:00:00,Antonio Valencia,Pass
+115594,28,BlockedShot,0.7830000305175782,0.4809999847412109,0.09956789016723633,Zlatan Ibrahimovic,a,1741,DirectFreekick,2016,RightFoot,3113,Everton,Manchester United,1,1,2016-12-04 20:00:00,,Standard
+115596,41,Goal,0.7719999694824219,0.720999984741211,0.016212424263358116,Zlatan Ibrahimovic,a,1741,OpenPlay,2016,RightFoot,3113,Everton,Manchester United,1,1,2016-12-04 20:00:00,Anthony Martial,Chipped
+115597,43,SavedShot,0.749000015258789,0.695,0.017541753128170967,Anthony Martial,a,553,OpenPlay,2016,RightFoot,3113,Everton,Manchester United,1,1,2016-12-04 20:00:00,Paul Pogba,LayOff
+115599,54,BlockedShot,0.89,0.705,0.06171858683228493,Anthony Martial,a,553,OpenPlay,2016,RightFoot,3113,Everton,Manchester United,1,1,2016-12-04 20:00:00,Paul Pogba,Pass
+115600,55,BlockedShot,0.9219999694824219,0.7,0.04492361843585968,Zlatan Ibrahimovic,a,1741,SetPiece,2016,RightFoot,3113,Everton,Manchester United,1,1,2016-12-04 20:00:00,,None
+115601,56,MissedShots,0.8080000305175781,0.6630000305175782,0.04567360877990723,Anthony Martial,a,553,OpenPlay,2016,RightFoot,3113,Everton,Manchester United,1,1,2016-12-04 20:00:00,,None
+115602,59,BlockedShot,0.865999984741211,0.3129999923706055,0.06280187517404556,Henrikh Mkhitaryan,a,317,OpenPlay,2016,LeftFoot,3113,Everton,Manchester United,1,1,2016-12-04 20:00:00,Paul Pogba,TakeOn
+115603,59,ShotOnPost,0.9259999847412109,0.57,0.12234557420015335,Ander Herrera,a,552,OpenPlay,2016,LeftFoot,3113,Everton,Manchester United,1,1,2016-12-04 20:00:00,,None
+115604,65,MissedShots,0.8959999847412109,0.45799999237060546,0.048633500933647156,Paul Pogba,a,1740,OpenPlay,2016,Head,3113,Everton,Manchester United,1,1,2016-12-04 20:00:00,Anthony Martial,Aerial

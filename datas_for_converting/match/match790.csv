@@ -1,0 +1,25 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+95093,7,MissedShots,0.9159999847412109,0.544000015258789,0.2786984145641327,Miralem Pjanic,h,1290,OpenPlay,2015,Head,790,Roma,Sampdoria,2,1,2016-02-07 23:45:00,Alessandro Florenzi,Cross
+95094,8,BlockedShot,0.9059999847412109,0.705,0.07650578022003174,Stephan El Shaarawy,h,1252,OpenPlay,2015,RightFoot,790,Roma,Sampdoria,2,1,2016-02-07 23:45:00,Mohamed Salah,Pass
+95095,8,MissedShots,0.765,0.26899999618530274,0.011401605792343616,Alessandro Florenzi,h,1254,OpenPlay,2015,RightFoot,790,Roma,Sampdoria,2,1,2016-02-07 23:45:00,,Rebound
+95096,10,MissedShots,0.88,0.47,0.07774487137794495,Antonio Rüdiger,h,1822,SetPiece,2015,RightFoot,790,Roma,Sampdoria,2,1,2016-02-07 23:45:00,Diego Perotti,HeadPass
+95097,14,BlockedShot,0.8830000305175781,0.6469999694824219,0.08000751584768295,Stephan El Shaarawy,h,1252,OpenPlay,2015,RightFoot,790,Roma,Sampdoria,2,1,2016-02-07 23:45:00,Diego Perotti,Pass
+95099,17,SavedShot,0.889000015258789,0.44799999237060545,0.05054133012890816,Miralem Pjanic,h,1290,OpenPlay,2015,Head,790,Roma,Sampdoria,2,1,2016-02-07 23:45:00,Diego Perotti,Cross
+95100,19,MissedShots,0.8930000305175781,0.4540000152587891,0.12665891647338867,Stephan El Shaarawy,h,1252,OpenPlay,2015,RightFoot,790,Roma,Sampdoria,2,1,2016-02-07 23:45:00,Mohamed Salah,Pass
+95102,44,BlockedShot,0.774000015258789,0.345,0.02278236486017704,Stephan El Shaarawy,h,1252,OpenPlay,2015,RightFoot,790,Roma,Sampdoria,2,1,2016-02-07 23:45:00,Alessandro Florenzi,Pass
+95103,44,Goal,0.919000015258789,0.500999984741211,0.399938702583313,Alessandro Florenzi,h,1254,OpenPlay,2015,Head,790,Roma,Sampdoria,2,1,2016-02-07 23:45:00,,Rebound
+95104,49,Goal,0.8530000305175781,0.5109999847412109,0.11506029218435287,Diego Perotti,h,1539,OpenPlay,2015,RightFoot,790,Roma,Sampdoria,2,1,2016-02-07 23:45:00,Stephan El Shaarawy,Pass
+95105,52,MissedShots,0.8719999694824219,0.4179999923706055,0.10434021055698395,Miralem Pjanic,h,1290,OpenPlay,2015,RightFoot,790,Roma,Sampdoria,2,1,2016-02-07 23:45:00,Mohamed Salah,Pass
+95108,56,OwnGoal,0.14399999618530274,0.5279999923706055,0,Miralem Pjanic,h,1290,OpenPlay,2015,LeftFoot,790,Roma,Sampdoria,2,1,2016-02-07 23:45:00,,Card
+95110,72,MissedShots,0.855999984741211,0.5279999923706055,0.09835346043109894,Stephan El Shaarawy,h,1252,OpenPlay,2015,RightFoot,790,Roma,Sampdoria,2,1,2016-02-07 23:45:00,,Dispossessed
+95114,88,SavedShot,0.8869999694824219,0.43099998474121093,0.031601548194885254,Edin Dzeko,h,1253,OpenPlay,2015,Head,790,Roma,Sampdoria,2,1,2016-02-07 23:45:00,Iago Falque,Aerial
+95098,15,MissedShots,0.895,0.71,0.095986507833004,Luis Muriel,a,1229,OpenPlay,2015,LeftFoot,790,Roma,Sampdoria,2,1,2016-02-07 23:45:00,,BallRecovery
+95101,39,SavedShot,0.7709999847412109,0.6819999694824219,0.017032774165272713,Joaquín Correa,a,1809,OpenPlay,2015,RightFoot,790,Roma,Sampdoria,2,1,2016-02-07 23:45:00,Luis Muriel,LayOff
+95106,53,SavedShot,0.765,0.6409999847412109,0.015419638715684414,Joaquín Correa,a,1809,OpenPlay,2015,RightFoot,790,Roma,Sampdoria,2,1,2016-02-07 23:45:00,Luis Muriel,Pass
+95107,56,MissedShots,0.7980000305175782,0.4,0.02281610295176506,Fernando,a,1937,OpenPlay,2015,RightFoot,790,Roma,Sampdoria,2,1,2016-02-07 23:45:00,David Ivan,Foul
+95109,62,BlockedShot,0.7390000152587891,0.4640000152587891,0.05671435222029686,Fernando,a,1937,DirectFreekick,2015,RightFoot,790,Roma,Sampdoria,2,1,2016-02-07 23:45:00,,Standard
+95111,77,BlockedShot,0.8430000305175781,0.48700000762939455,0.07220146059989929,Fabio Quagliarella,a,1230,OpenPlay,2015,RightFoot,790,Roma,Sampdoria,2,1,2016-02-07 23:45:00,Fernando,Pass
+95112,80,MissedShots,0.7980000305175782,0.7019999694824218,0.023601794615387917,Roberto Soriano,a,1810,OpenPlay,2015,RightFoot,790,Roma,Sampdoria,2,1,2016-02-07 23:45:00,Antonio Cassano,Pass
+95113,86,SavedShot,0.9030000305175782,0.46599998474121096,0.4359695017337799,Antonio Cassano,a,1939,OpenPlay,2015,RightFoot,790,Roma,Sampdoria,2,1,2016-02-07 23:45:00,Fabio Quagliarella,Pass
+95115,91,SavedShot,0.8019999694824219,0.705,0.020583556964993477,Dodô,a,1533,OpenPlay,2015,RightFoot,790,Roma,Sampdoria,2,1,2016-02-07 23:45:00,Antonio Cassano,Pass
+95116,92,ShotOnPost,0.925,0.5059999847412109,0.38273581862449646,Mattia Cassani,a,1813,FromCorner,2015,LeftFoot,790,Roma,Sampdoria,2,1,2016-02-07 23:45:00,Dodô,Cross

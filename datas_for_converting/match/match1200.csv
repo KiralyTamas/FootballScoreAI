@@ -1,0 +1,24 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+80697,16,BlockedShot,0.8919999694824219,0.425,0.06682553142309189,Andrej Kramaric,h,956,FromCorner,2015,RightFoot,1200,Hoffenheim,Darmstadt,0,2,2016-02-07 20:30:00,Jonathan Schmid,Pass
+80698,23,MissedShots,0.875,0.649000015258789,0.062052153050899506,Andrej Kramaric,h,956,OpenPlay,2015,RightFoot,1200,Hoffenheim,Darmstadt,0,2,2016-02-07 20:30:00,Jonathan Schmid,Chipped
+80699,24,BlockedShot,0.9030000305175782,0.3609999847412109,0.09492261707782745,Jiloan Hamad,h,2689,OpenPlay,2015,RightFoot,1200,Hoffenheim,Darmstadt,0,2,2016-02-07 20:30:00,Andrej Kramaric,Pass
+80700,30,MissedShots,0.735999984741211,0.49599998474121093,0.01971169002354145,Kevin Volland,h,83,OpenPlay,2015,LeftFoot,1200,Hoffenheim,Darmstadt,0,2,2016-02-07 20:30:00,Tobias Strobl,TakeOn
+80702,33,MissedShots,0.779000015258789,0.534000015258789,0.028949765488505363,Tobias Strobl,h,79,OpenPlay,2015,RightFoot,1200,Hoffenheim,Darmstadt,0,2,2016-02-07 20:30:00,Jonathan Schmid,Pass
+80703,36,MissedShots,0.7269999694824218,0.7,0.010837998241186142,Jeremy Toljan,h,257,OpenPlay,2015,RightFoot,1200,Hoffenheim,Darmstadt,0,2,2016-02-07 20:30:00,,None
+80704,39,BlockedShot,0.7680000305175781,0.534000015258789,0.030599279329180717,Kevin Volland,h,83,OpenPlay,2015,LeftFoot,1200,Hoffenheim,Darmstadt,0,2,2016-02-07 20:30:00,Sebastian Rudy,Pass
+80706,60,BlockedShot,0.784000015258789,0.6079999923706054,0.03006945550441742,Steven Zuber,h,254,OpenPlay,2015,RightFoot,1200,Hoffenheim,Darmstadt,0,2,2016-02-07 20:30:00,Tobias Strobl,Pass
+80709,71,MissedShots,0.805,0.6519999694824219,0.02901562489569187,Nadiem Amiri,h,82,OpenPlay,2015,RightFoot,1200,Hoffenheim,Darmstadt,0,2,2016-02-07 20:30:00,Steven Zuber,Pass
+80710,76,BlockedShot,0.8730000305175781,0.6969999694824218,0.04092557355761528,Steven Zuber,h,254,OpenPlay,2015,LeftFoot,1200,Hoffenheim,Darmstadt,0,2,2016-02-07 20:30:00,,None
+80711,76,SavedShot,0.9069999694824219,0.49700000762939456,0.10207924991846085,Niklas Süle,h,75,FromCorner,2015,LeftFoot,1200,Hoffenheim,Darmstadt,0,2,2016-02-07 20:30:00,Tobias Strobl,None
+80712,80,MissedShots,0.8959999847412109,0.6020000076293945,0.06872598826885223,Nadiem Amiri,h,82,OpenPlay,2015,LeftFoot,1200,Hoffenheim,Darmstadt,0,2,2016-02-07 20:30:00,,None
+80695,3,SavedShot,0.795,0.9290000152587891,0.009161390364170074,Konstantin Rausch,a,13,OpenPlay,2015,LeftFoot,1200,Hoffenheim,Darmstadt,0,2,2016-02-07 20:30:00,Luca Caldirola,Pass
+80696,4,ShotOnPost,0.9419999694824219,0.6840000152587891,0.010211816057562828,Slobodan Rajkovic,a,18,FromCorner,2015,Head,1200,Hoffenheim,Darmstadt,0,2,2016-02-07 20:30:00,Konstantin Rausch,Aerial
+80701,32,Goal,0.9519999694824218,0.5159999847412109,0.41538935899734497,Aytac Sulu,a,4,FromCorner,2015,Head,1200,Hoffenheim,Darmstadt,0,2,2016-02-07 20:30:00,Slobodan Rajkovic,HeadPass
+80705,56,MissedShots,0.8830000305175781,0.415,0.11525189876556396,Marcel Heller,a,6,OpenPlay,2015,RightFoot,1200,Hoffenheim,Darmstadt,0,2,2016-02-07 20:30:00,Jan Rosenthal,Pass
+80707,65,SavedShot,0.725999984741211,0.6140000152587891,0.04692734405398369,Tobias Kempe,a,9,DirectFreekick,2015,RightFoot,1200,Hoffenheim,Darmstadt,0,2,2016-02-07 20:30:00,,Standard
+80708,70,MissedShots,0.9259999847412109,0.4490000152587891,0.043393153697252274,Aytac Sulu,a,4,FromCorner,2015,Head,1200,Hoffenheim,Darmstadt,0,2,2016-02-07 20:30:00,Tobias Kempe,Aerial
+80713,84,MissedShots,0.9569999694824218,0.48,0.10815025866031647,Sandro Wagner,a,11,FromCorner,2015,RightFoot,1200,Hoffenheim,Darmstadt,0,2,2016-02-07 20:30:00,Tobias Kempe,Aerial
+80714,84,Goal,0.9619999694824218,0.5279999923706055,0.6053575873374939,Slobodan Rajkovic,a,18,FromCorner,2015,LeftFoot,1200,Hoffenheim,Darmstadt,0,2,2016-02-07 20:30:00,Sandro Wagner,None
+80715,90,BlockedShot,0.899000015258789,0.5709999847412109,0.3632768988609314,Mario Vrancic,a,12,OpenPlay,2015,LeftFoot,1200,Hoffenheim,Darmstadt,0,2,2016-02-07 20:30:00,Jérôme Gondorf,Pass
+80716,92,SavedShot,0.8080000305175781,0.31,0.027000075206160545,Jérôme Gondorf,a,8,OpenPlay,2015,RightFoot,1200,Hoffenheim,Darmstadt,0,2,2016-02-07 20:30:00,,None
+80717,94,MissedShots,0.8580000305175781,0.5379999923706055,0.3226258456707001,Marcel Heller,a,6,OpenPlay,2015,RightFoot,1200,Hoffenheim,Darmstadt,0,2,2016-02-07 20:30:00,Luca Caldirola,Pass

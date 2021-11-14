@@ -1,0 +1,23 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+161517,6,MissedShots,0.9219999694824219,0.435,0.052595991641283035,Charlie Austin,h,848,FromCorner,2017,RightFoot,7241,Southampton,Everton,4,1,2017-11-26 13:30:00,,Aerial
+161519,10,ShotOnPost,0.914000015258789,0.46,0.3544462025165558,Charlie Austin,h,848,OpenPlay,2017,RightFoot,7241,Southampton,Everton,4,1,2017-11-26 13:30:00,Cédric Soares,Cross
+161520,17,Goal,0.894000015258789,0.5270000076293946,0.3838178515434265,Dusan Tadic,h,840,OpenPlay,2017,LeftFoot,7241,Southampton,Everton,4,1,2017-11-26 13:30:00,Ryan Bertrand,Throughball
+161521,25,MissedShots,0.924000015258789,0.59,0.04503409191966057,Sofiane Boufal,h,1734,OpenPlay,2017,Head,7241,Southampton,Everton,4,1,2017-11-26 13:30:00,Cédric Soares,Aerial
+161522,36,BlockedShot,0.795,0.6020000076293945,0.04027506336569786,Charlie Austin,h,848,OpenPlay,2017,RightFoot,7241,Southampton,Everton,4,1,2017-11-26 13:30:00,Sofiane Boufal,Pass
+161523,40,BlockedShot,0.95,0.580999984741211,0.0359535813331604,Charlie Austin,h,848,FromCorner,2017,Head,7241,Southampton,Everton,4,1,2017-11-26 13:30:00,James Ward-Prowse,Aerial
+161524,40,MissedShots,0.9530000305175781,0.504000015258789,0.1325867474079132,Virgil van Dijk,h,833,FromCorner,2017,Head,7241,Southampton,Everton,4,1,2017-11-26 13:30:00,James Ward-Prowse,Cross
+161526,49,BlockedShot,0.779000015258789,0.7469999694824219,0.013433370739221573,James Ward-Prowse,h,843,OpenPlay,2017,RightFoot,7241,Southampton,Everton,4,1,2017-11-26 13:30:00,,None
+161527,51,Goal,0.9730000305175781,0.5420000076293945,0.1542433649301529,Charlie Austin,h,848,OpenPlay,2017,Head,7241,Southampton,Everton,4,1,2017-11-26 13:30:00,Ryan Bertrand,Cross
+161528,54,MissedShots,0.735999984741211,0.7230000305175781,0.01750246435403824,Ryan Bertrand,h,835,OpenPlay,2017,LeftFoot,7241,Southampton,Everton,4,1,2017-11-26 13:30:00,Steven Davis,Pass
+161529,57,Goal,0.955999984741211,0.5540000152587891,0.48738181591033936,Charlie Austin,h,848,OpenPlay,2017,Head,7241,Southampton,Everton,4,1,2017-11-26 13:30:00,Dusan Tadic,Cross
+161530,60,BlockedShot,0.7880000305175782,0.775,0.02765827253460884,Sofiane Boufal,h,1734,OpenPlay,2017,RightFoot,7241,Southampton,Everton,4,1,2017-11-26 13:30:00,Wesley Hoedt,Pass
+161531,60,BlockedShot,0.7680000305175781,0.3729999923706055,0.022850999608635902,Cédric Soares,h,847,OpenPlay,2017,RightFoot,7241,Southampton,Everton,4,1,2017-11-26 13:30:00,James Ward-Prowse,Pass
+161532,65,MissedShots,0.9540000152587891,0.38599998474121094,0.05296468362212181,Wesley Hoedt,h,1203,FromCorner,2017,RightFoot,7241,Southampton,Everton,4,1,2017-11-26 13:30:00,James Ward-Prowse,Cross
+161535,81,SavedShot,0.92,0.6990000152587891,0.07807844877243042,Shane Long,h,839,OpenPlay,2017,RightFoot,7241,Southampton,Everton,4,1,2017-11-26 13:30:00,Wesley Hoedt,TakeOn
+161537,86,Goal,0.825999984741211,0.3629999923706055,0.05547148734331131,Steven Davis,h,883,OpenPlay,2017,RightFoot,7241,Southampton,Everton,4,1,2017-11-26 13:30:00,James Ward-Prowse,Pass
+161538,92,MissedShots,0.740999984741211,0.500999984741211,0.016042228788137436,Pierre-Emile Højbjerg,h,343,FromCorner,2017,RightFoot,7241,Southampton,Everton,4,1,2017-11-26 13:30:00,,None
+161518,9,MissedShots,0.8219999694824218,0.5129999923706055,0.07039674371480942,Kevin Mirallas,a,595,OpenPlay,2017,RightFoot,7241,Southampton,Everton,4,1,2017-11-26 13:30:00,Aaron Lennon,Pass
+161525,44,Goal,0.794000015258789,0.3189999961853027,0.02577727474272251,Gylfi Sigurdsson,a,714,OpenPlay,2017,RightFoot,7241,Southampton,Everton,4,1,2017-11-26 13:30:00,Dominic Calvert-Lewin,Pass
+161533,80,MissedShots,0.735,0.5120000076293946,0.016008146107196808,Idrissa Gueye,a,668,OpenPlay,2017,RightFoot,7241,Southampton,Everton,4,1,2017-11-26 13:30:00,,BallTouch
+161534,81,SavedShot,0.76,0.35200000762939454,0.012273009866476059,Gylfi Sigurdsson,a,714,OpenPlay,2017,RightFoot,7241,Southampton,Everton,4,1,2017-11-26 13:30:00,,None
+161536,84,MissedShots,0.759000015258789,0.39799999237060546,0.023269230499863625,Gylfi Sigurdsson,a,714,OpenPlay,2017,RightFoot,7241,Southampton,Everton,4,1,2017-11-26 13:30:00,Idrissa Gueye,Pass

@@ -1,0 +1,25 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+426010,1,MissedShots,0.9169999694824219,0.4159999847412109,0.0931410938501358,Erling Haaland,h,8260,SetPiece,2021,RightFoot,17522,Borussia Dortmund,Eintracht Frankfurt,5,2,2021-08-14 16:30:00,Marco Reus,Pass
+426011,7,BlockedShot,0.8690000152587891,0.28600000381469726,0.03589694947004318,Thorgan Hazard,h,213,OpenPlay,2021,RightFoot,17522,Borussia Dortmund,Eintracht Frankfurt,5,2,2021-08-14 16:30:00,Jude Bellingham,Pass
+426012,7,MissedShots,0.9290000152587891,0.5320000076293945,0.5551121234893799,Erling Haaland,h,8260,OpenPlay,2021,LeftFoot,17522,Borussia Dortmund,Eintracht Frankfurt,5,2,2021-08-14 16:30:00,Thorgan Hazard,Pass
+426014,22,Goal,0.9080000305175782,0.620999984741211,0.3747279644012451,Marco Reus,h,319,OpenPlay,2021,LeftFoot,17522,Borussia Dortmund,Eintracht Frankfurt,5,2,2021-08-14 16:30:00,Erling Haaland,Pass
+426015,26,OwnGoal,0.18399999618530274,0.455,0,Felix Passlack,h,2663,OpenPlay,2021,RightFoot,17522,Borussia Dortmund,Eintracht Frankfurt,5,2,2021-08-14 16:30:00,,Tackle
+426016,31,Goal,0.924000015258789,0.345,0.10924211144447327,Thorgan Hazard,h,213,OpenPlay,2021,RightFoot,17522,Borussia Dortmund,Eintracht Frankfurt,5,2,2021-08-14 16:30:00,Erling Haaland,Pass
+426017,33,Goal,0.8209999847412109,0.5509999847412109,0.30603882670402527,Erling Haaland,h,8260,OpenPlay,2021,LeftFoot,17522,Borussia Dortmund,Eintracht Frankfurt,5,2,2021-08-14 16:30:00,Marco Reus,TakeOn
+426018,35,SavedShot,0.915,0.6730000305175782,0.23828841745853424,Nico Schulz,h,433,OpenPlay,2021,LeftFoot,17522,Borussia Dortmund,Eintracht Frankfurt,5,2,2021-08-14 16:30:00,Erling Haaland,Pass
+426020,49,BlockedShot,0.8919999694824219,0.5459999847412109,0.11258703470230103,Jude Bellingham,h,8824,OpenPlay,2021,LeftFoot,17522,Borussia Dortmund,Eintracht Frankfurt,5,2,2021-08-14 16:30:00,Giovanni Reyna,None
+426022,57,BlockedShot,0.8730000305175781,0.43099998474121093,0.09555716067552567,Erling Haaland,h,8260,OpenPlay,2021,RightFoot,17522,Borussia Dortmund,Eintracht Frankfurt,5,2,2021-08-14 16:30:00,,None
+426023,57,Goal,0.92,0.5659999847412109,0.506206750869751,Giovanni Reyna,h,8191,OpenPlay,2021,RightFoot,17522,Borussia Dortmund,Eintracht Frankfurt,5,2,2021-08-14 16:30:00,,Rebound
+426024,61,MissedShots,0.7530000305175781,0.6819999694824219,0.05055942386388779,Manuel Akanji,h,6490,DirectFreekick,2021,RightFoot,17522,Borussia Dortmund,Eintracht Frankfurt,5,2,2021-08-14 16:30:00,,Standard
+426027,69,Goal,0.875,0.5670000076293945,0.3149520754814148,Erling Haaland,h,8260,OpenPlay,2021,RightFoot,17522,Borussia Dortmund,Eintracht Frankfurt,5,2,2021-08-14 16:30:00,Marco Reus,Pass
+426033,90,SavedShot,0.8669999694824219,0.5629999923706055,0.09405206888914108,Erling Haaland,h,8260,OpenPlay,2021,RightFoot,17522,Borussia Dortmund,Eintracht Frankfurt,5,2,2021-08-14 16:30:00,,None
+426013,14,BlockedShot,0.9009999847412109,0.59,0.03340866416692734,Evan Ndicka,a,7049,FromCorner,2021,Head,17522,Borussia Dortmund,Eintracht Frankfurt,5,2,2021-08-14 16:30:00,Daichi Kamada,Cross
+426019,46,SavedShot,0.9059999847412109,0.45799999237060546,0.054264526814222336,Santos Borré,a,5113,OpenPlay,2021,Head,17522,Borussia Dortmund,Eintracht Frankfurt,5,2,2021-08-14 16:30:00,Jesper Lindstrom,Aerial
+426021,54,MissedShots,0.9269999694824219,0.4159999847412109,0.27267277240753174,Santos Borré,a,5113,OpenPlay,2021,RightFoot,17522,Borussia Dortmund,Eintracht Frankfurt,5,2,2021-08-14 16:30:00,Jesper Lindstrom,Cross
+426025,63,BlockedShot,0.86,0.40400001525878904,0.0789981484413147,Jens Petter Hauge,a,8974,OpenPlay,2021,RightFoot,17522,Borussia Dortmund,Eintracht Frankfurt,5,2,2021-08-14 16:30:00,Jesper Lindstrom,Pass
+426026,63,BlockedShot,0.879000015258789,0.4759999847412109,0.08232293277978897,Santos Borré,a,5113,OpenPlay,2021,RightFoot,17522,Borussia Dortmund,Eintracht Frankfurt,5,2,2021-08-14 16:30:00,,Rebound
+426028,76,MissedShots,0.87,0.655,0.04301977530121803,Filip Kostic,a,64,OpenPlay,2021,RightFoot,17522,Borussia Dortmund,Eintracht Frankfurt,5,2,2021-08-14 16:30:00,,None
+426029,77,MissedShots,0.8619999694824219,0.624000015258789,0.06830525398254395,Jesper Lindstrom,a,9752,OpenPlay,2021,RightFoot,17522,Borussia Dortmund,Eintracht Frankfurt,5,2,2021-08-14 16:30:00,Djibril Sow,Pass
+426030,85,SavedShot,0.9430000305175781,0.45,0.36086976528167725,Santos Borré,a,5113,OpenPlay,2021,Head,17522,Borussia Dortmund,Eintracht Frankfurt,5,2,2021-08-14 16:30:00,Filip Kostic,Cross
+426031,85,MissedShots,0.885,0.5529999923706055,0.03581169247627258,Ragnar Ache,a,8869,FromCorner,2021,Head,17522,Borussia Dortmund,Eintracht Frankfurt,5,2,2021-08-14 16:30:00,Ajdin Hrustic,Cross
+426032,85,Goal,0.965,0.39299999237060546,0.3566950857639313,Jens Petter Hauge,a,8974,FromCorner,2021,RightFoot,17522,Borussia Dortmund,Eintracht Frankfurt,5,2,2021-08-14 16:30:00,Ragnar Ache,Rebound

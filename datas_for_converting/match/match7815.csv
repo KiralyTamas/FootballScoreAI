@@ -1,0 +1,25 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+209283,3,MissedShots,0.905,0.41200000762939454,0.29265671968460083,Juan Cuadrado,h,1089,OpenPlay,2017,LeftFoot,7815,Juventus,Sampdoria,3,0,2018-04-15 16:00:00,Blaise Matuidi,Cross
+209284,3,MissedShots,0.8109999847412109,0.5429999923706055,0.019071713089942932,Kwadwo Asamoah,h,1587,FromCorner,2017,LeftFoot,7815,Juventus,Sampdoria,3,0,2018-04-15 16:00:00,,Aerial
+209285,6,MissedShots,0.8080000305175781,0.47900001525878905,0.048497412353754044,Paulo Dybala,h,1294,OpenPlay,2017,LeftFoot,7815,Juventus,Sampdoria,3,0,2018-04-15 16:00:00,,None
+209286,12,MissedShots,0.8719999694824219,0.485,0.07836154848337173,Mario Mandzukic,h,1295,FromCorner,2017,LeftFoot,7815,Juventus,Sampdoria,3,0,2018-04-15 16:00:00,,None
+209287,13,BlockedShot,0.8419999694824218,0.38,0.05404525250196457,Paulo Dybala,h,1294,OpenPlay,2017,LeftFoot,7815,Juventus,Sampdoria,3,0,2018-04-15 16:00:00,Juan Cuadrado,Pass
+209290,24,BlockedShot,0.8109999847412109,0.4909999847412109,0.0574805773794651,Paulo Dybala,h,1294,OpenPlay,2017,LeftFoot,7815,Juventus,Sampdoria,3,0,2018-04-15 16:00:00,Juan Cuadrado,Pass
+209291,28,MissedShots,0.9619999694824218,0.6179999923706054,0.0762723833322525,Mario Mandzukic,h,1295,FromCorner,2017,RightFoot,7815,Juventus,Sampdoria,3,0,2018-04-15 16:00:00,,None
+209293,34,SavedShot,0.7440000152587891,0.6040000152587891,0.017846716567873955,Sami Khedira,h,1292,OpenPlay,2017,RightFoot,7815,Juventus,Sampdoria,3,0,2018-04-15 16:00:00,Paulo Dybala,Pass
+209295,44,Goal,0.9219999694824219,0.5029999923706054,0.40043947100639343,Mario Mandzukic,h,1295,OpenPlay,2017,RightFoot,7815,Juventus,Sampdoria,3,0,2018-04-15 16:00:00,Douglas Costa,Cross
+209297,46,MissedShots,0.8690000152587891,0.67,0.06537692993879318,Douglas Costa,h,393,OpenPlay,2017,LeftFoot,7815,Juventus,Sampdoria,3,0,2018-04-15 16:00:00,Mario Mandzukic,Pass
+209298,49,BlockedShot,0.8109999847412109,0.4520000076293945,0.060867831110954285,Paulo Dybala,h,1294,OpenPlay,2017,LeftFoot,7815,Juventus,Sampdoria,3,0,2018-04-15 16:00:00,Juan Cuadrado,Pass
+209300,56,BlockedShot,0.9059999847412109,0.43099998474121093,0.018511151894927025,Sami Khedira,h,1292,FromCorner,2017,Head,7815,Juventus,Sampdoria,3,0,2018-04-15 16:00:00,Benedikt Höwedes,Aerial
+209301,59,Goal,0.95,0.47200000762939454,0.5739254951477051,Benedikt Höwedes,h,333,OpenPlay,2017,Head,7815,Juventus,Sampdoria,3,0,2018-04-15 16:00:00,Douglas Costa,Cross
+209303,74,Goal,0.9030000305175782,0.4640000152587891,0.5299180746078491,Sami Khedira,h,1292,OpenPlay,2017,RightFoot,7815,Juventus,Sampdoria,3,0,2018-04-15 16:00:00,Douglas Costa,Pass
+209304,85,SavedShot,0.7959999847412109,0.710999984741211,0.019704481586813927,Juan Cuadrado,h,1089,FromCorner,2017,RightFoot,7815,Juventus,Sampdoria,3,0,2018-04-15 16:00:00,Douglas Costa,Pass
+209305,88,MissedShots,0.775,0.41700000762939454,0.03449816256761551,Douglas Costa,h,393,OpenPlay,2017,RightFoot,7815,Juventus,Sampdoria,3,0,2018-04-15 16:00:00,Juan Cuadrado,BallRecovery
+209288,18,BlockedShot,0.845,0.6459999847412109,0.04850761592388153,Dennis Praet,a,1234,OpenPlay,2017,RightFoot,7815,Juventus,Sampdoria,3,0,2018-04-15 16:00:00,,None
+209289,20,SavedShot,0.9730000305175781,0.5829999923706055,0.08342347294092178,Fabio Quagliarella,a,1230,FromCorner,2017,Head,7815,Juventus,Sampdoria,3,0,2018-04-15 16:00:00,Gastón Ramírez,Cross
+209292,33,MissedShots,0.8959999847412109,0.45799999237060546,0.07821305096149445,Edgar Barreto,a,1225,SetPiece,2017,Head,7815,Juventus,Sampdoria,3,0,2018-04-15 16:00:00,Vasco Regini,Cross
+209294,42,MissedShots,0.754000015258789,0.6509999847412109,0.052990496158599854,Lucas Torreira,a,1227,DirectFreekick,2017,RightFoot,7815,Juventus,Sampdoria,3,0,2018-04-15 16:00:00,,Standard
+209296,45,MissedShots,0.8540000152587891,0.39799999237060546,0.2440040409564972,Gastón Ramírez,a,952,OpenPlay,2017,RightFoot,7815,Juventus,Sampdoria,3,0,2018-04-15 16:00:00,Dawid Kownacki,BallRecovery
+209299,54,SavedShot,0.86,0.6270000076293946,0.011559448204934597,Duván Zapata,a,1148,OpenPlay,2017,Head,7815,Juventus,Sampdoria,3,0,2018-04-15 16:00:00,Vasco Regini,Cross
+209302,65,MissedShots,0.95,0.6179999923706054,0.013248694129288197,Dawid Kownacki,a,6190,FromCorner,2017,Head,7815,Juventus,Sampdoria,3,0,2018-04-15 16:00:00,Lucas Torreira,Aerial
+209306,91,SavedShot,0.9530000305175781,0.595999984741211,0.2773723602294922,Duván Zapata,a,1148,OpenPlay,2017,LeftFoot,7815,Juventus,Sampdoria,3,0,2018-04-15 16:00:00,Dennis Praet,Chipped

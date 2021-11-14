@@ -1,0 +1,33 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+125316,1,SavedShot,0.725999984741211,0.2610000038146973,0.009709115140140057,Aslan Dudiev,h,3034,OpenPlay,2016,RightFoot,3271,Tom Tomsk,Lokomotiv Moscow,1,6,2016-12-01 20:30:00,,Aerial
+125318,19,SavedShot,0.9119999694824219,0.54,0.022998489439487457,Maksim Bordachev,h,4604,SetPiece,2016,Head,3271,Tom Tomsk,Lokomotiv Moscow,1,6,2016-12-01 20:30:00,Aslan Dudiev,Rebound
+125319,20,ShotOnPost,0.9840000152587891,0.4329999923706055,0.10174761712551117,Aleksandr Kasyan,h,5492,SetPiece,2016,RightFoot,3271,Tom Tomsk,Lokomotiv Moscow,1,6,2016-12-01 20:30:00,,None
+125321,22,MissedShots,0.8769999694824219,0.44799999237060545,0.033981092274188995,Aleksandr Kasyan,h,5492,SetPiece,2016,Head,3271,Tom Tomsk,Lokomotiv Moscow,1,6,2016-12-01 20:30:00,Aslan Dudiev,Cross
+125322,25,BlockedShot,0.87,0.34299999237060547,0.05735502392053604,Eric Bicfalvi,h,5483,OpenPlay,2016,RightFoot,3271,Tom Tomsk,Lokomotiv Moscow,1,6,2016-12-01 20:30:00,,BallTouch
+125323,31,MissedShots,0.7019999694824218,0.6990000152587891,0.011375795118510723,Aleksandr Kasyan,h,5492,OpenPlay,2016,RightFoot,3271,Tom Tomsk,Lokomotiv Moscow,1,6,2016-12-01 20:30:00,Lukás Droppa,Pass
+125329,47,Goal,0.8719999694824219,0.515,0.06315725296735764,Eric Bicfalvi,h,5483,SetPiece,2016,RightFoot,3271,Tom Tomsk,Lokomotiv Moscow,1,6,2016-12-01 20:30:00,Aslan Dudiev,Cross
+125333,58,MissedShots,0.9259999847412109,0.5570000076293945,0.1418580412864685,Aslan Dudiev,h,3034,OpenPlay,2016,RightFoot,3271,Tom Tomsk,Lokomotiv Moscow,1,6,2016-12-01 20:30:00,Artem Popov,Pass
+125337,67,MissedShots,0.740999984741211,0.6659999847412109,0.014807178638875484,Artem Popov,h,5393,OpenPlay,2016,RightFoot,3271,Tom Tomsk,Lokomotiv Moscow,1,6,2016-12-01 20:30:00,,None
+125346,84,BlockedShot,0.8930000305175781,0.315,0.0323355458676815,Pavel Kudryashov,h,5408,OpenPlay,2016,RightFoot,3271,Tom Tomsk,Lokomotiv Moscow,1,6,2016-12-01 20:30:00,,None
+125347,89,MissedShots,0.754000015258789,0.7080000305175781,0.01220059022307396,Pavel Kudryashov,h,5408,OpenPlay,2016,RightFoot,3271,Tom Tomsk,Lokomotiv Moscow,1,6,2016-12-01 20:30:00,Aslan Dudiev,Pass
+125317,3,SavedShot,0.794000015258789,0.7030000305175781,0.021681010723114014,Manuel Fernandes,a,2708,OpenPlay,2016,RightFoot,3271,Tom Tomsk,Lokomotiv Moscow,1,6,2016-12-01 20:30:00,Alan Kasaev,TakeOn
+125320,21,MissedShots,0.750999984741211,0.590999984741211,0.018072914332151413,Renat Yanbayev,a,2717,OpenPlay,2016,RightFoot,3271,Tom Tomsk,Lokomotiv Moscow,1,6,2016-12-01 20:30:00,,None
+125324,36,MissedShots,0.7080000305175781,0.4759999847412109,0.013693500310182571,Taras Mykhalyk,a,2709,OpenPlay,2016,RightFoot,3271,Tom Tomsk,Lokomotiv Moscow,1,6,2016-12-01 20:30:00,,Interception
+125325,37,MissedShots,0.8230000305175781,0.705,0.02690894529223442,Renat Yanbayev,a,2717,OpenPlay,2016,RightFoot,3271,Tom Tomsk,Lokomotiv Moscow,1,6,2016-12-01 20:30:00,,None
+125326,37,SavedShot,0.795,0.37599998474121094,0.027300091460347176,Aleksandr Kolomejtsev,a,2892,OpenPlay,2016,LeftFoot,3271,Tom Tomsk,Lokomotiv Moscow,1,6,2016-12-01 20:30:00,Aleksey Miranchuk,TakeOn
+125327,39,MissedShots,0.9019999694824219,0.35700000762939454,0.03589387983083725,Taras Mykhalyk,a,2709,SetPiece,2016,RightFoot,3271,Tom Tomsk,Lokomotiv Moscow,1,6,2016-12-01 20:30:00,Manuel Fernandes,Cross
+125328,47,SavedShot,0.9730000305175781,0.40400001525878904,0.17802336812019348,Aleksey Miranchuk,a,2711,OpenPlay,2016,RightFoot,3271,Tom Tomsk,Lokomotiv Moscow,1,6,2016-12-01 20:30:00,Vladislav Ignatjev,TakeOn
+125330,47,SavedShot,0.9630000305175781,0.3629999923706055,0.01798829436302185,Aleksey Miranchuk,a,2711,OpenPlay,2016,Head,3271,Tom Tomsk,Lokomotiv Moscow,1,6,2016-12-01 20:30:00,Vladislav Ignatjev,Cross
+125331,50,Goal,0.9519999694824218,0.524000015258789,0.1219196617603302,Aleksandr Kolomejtsev,a,2892,FromCorner,2016,Head,3271,Tom Tomsk,Lokomotiv Moscow,1,6,2016-12-01 20:30:00,Manuel Fernandes,Cross
+125332,55,SavedShot,0.8109999847412109,0.34799999237060547,0.030611824244260788,Aleksey Miranchuk,a,2711,OpenPlay,2016,LeftFoot,3271,Tom Tomsk,Lokomotiv Moscow,1,6,2016-12-01 20:30:00,Vedran Corluka,Pass
+125334,59,MissedShots,0.8130000305175781,0.3220000076293945,0.019791312515735626,Aleksey Miranchuk,a,2711,FromCorner,2016,LeftFoot,3271,Tom Tomsk,Lokomotiv Moscow,1,6,2016-12-01 20:30:00,,None
+125335,61,MissedShots,0.8780000305175781,0.38299999237060545,0.07326293736696243,Manuel Fernandes,a,2708,OpenPlay,2016,RightFoot,3271,Tom Tomsk,Lokomotiv Moscow,1,6,2016-12-01 20:30:00,Vedran Corluka,Chipped
+125336,66,Goal,0.9569999694824218,0.4640000152587891,0.5908709764480591,Manuel Fernandes,a,2708,OpenPlay,2016,LeftFoot,3271,Tom Tomsk,Lokomotiv Moscow,1,6,2016-12-01 20:30:00,Vladislav Ignatjev,Cross
+125338,68,MissedShots,0.9640000152587891,0.34,0.08369310945272446,Aleksey Miranchuk,a,2711,OpenPlay,2016,RightFoot,3271,Tom Tomsk,Lokomotiv Moscow,1,6,2016-12-01 20:30:00,,TakeOn
+125339,68,MissedShots,0.8880000305175781,0.5990000152587891,0.02880242094397545,Maicón,a,3121,OpenPlay,2016,Head,3271,Tom Tomsk,Lokomotiv Moscow,1,6,2016-12-01 20:30:00,Roman Shishkin,Cross
+125340,70,Goal,0.904000015258789,0.44299999237060544,0.11728265136480331,Igor Denisov,a,2749,OpenPlay,2016,LeftFoot,3271,Tom Tomsk,Lokomotiv Moscow,1,6,2016-12-01 20:30:00,Manuel Fernandes,Cross
+125341,73,MissedShots,0.8859999847412109,0.33099998474121095,0.08776961266994476,Maicón,a,3121,OpenPlay,2016,RightFoot,3271,Tom Tomsk,Lokomotiv Moscow,1,6,2016-12-01 20:30:00,Aleksandr Kolomejtsev,Pass
+125342,75,BlockedShot,0.8980000305175782,0.5970000076293945,0.02040283940732479,Vedran Corluka,a,2705,FromCorner,2016,Head,3271,Tom Tomsk,Lokomotiv Moscow,1,6,2016-12-01 20:30:00,Manuel Fernandes,Cross
+125343,75,Goal,0.8730000305175781,0.5820000076293945,0.1192612498998642,Maicón,a,3121,OpenPlay,2016,RightFoot,3271,Tom Tomsk,Lokomotiv Moscow,1,6,2016-12-01 20:30:00,,TakeOn
+125344,78,Goal,0.9269999694824219,0.36400001525878906,0.12875355780124664,Vladislav Ignatjev,a,2894,OpenPlay,2016,RightFoot,3271,Tom Tomsk,Lokomotiv Moscow,1,6,2016-12-01 20:30:00,Manuel Fernandes,Pass
+125345,81,Goal,0.9459999847412109,0.43099998474121093,0.0949440747499466,Aleksandr Kolomejtsev,a,2892,SetPiece,2016,RightFoot,3271,Tom Tomsk,Lokomotiv Moscow,1,6,2016-12-01 20:30:00,Artem Galadzhan,HeadPass

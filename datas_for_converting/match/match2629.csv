@@ -1,0 +1,23 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+123100,22,SavedShot,0.905,0.46900001525878904,0.07586485892534256,Aleksandr Bukharov,h,2778,FromCorner,2016,RightFoot,2629,FC Rostov,Krylya Sovetov Samara,2,1,2016-09-09 21:00:00,Timofei Kalachev,Cross
+123103,25,BlockedShot,0.73,0.545,0.015340890735387802,Dmitriy Poloz,h,2775,OpenPlay,2016,RightFoot,2629,FC Rostov,Krylya Sovetov Samara,2,1,2016-09-09 21:00:00,Aleksandr Erokhin,TakeOn
+123104,32,Goal,0.9369999694824219,0.4370000076293945,0.12254694849252701,Aleksandr Bukharov,h,2778,OpenPlay,2016,Head,2629,FC Rostov,Krylya Sovetov Samara,2,1,2016-09-09 21:00:00,Dmitriy Poloz,Cross
+123107,49,BlockedShot,0.9009999847412109,0.28,0.07003158330917358,Aleksandr Bukharov,h,2778,OpenPlay,2016,LeftFoot,2629,FC Rostov,Krylya Sovetov Samara,2,1,2016-09-09 21:00:00,Timofei Kalachev,TakeOn
+123109,53,OwnGoal,0.04699999809265137,0.585,0,Aleksandr Erokhin,h,2772,FromCorner,2016,Head,2629,FC Rostov,Krylya Sovetov Samara,2,1,2016-09-09 21:00:00,,CornerAwarded
+123110,58,Goal,0.9219999694824219,0.5209999847412109,0.09725761413574219,Andrei Prepelita,h,5449,FromCorner,2016,Head,2629,FC Rostov,Krylya Sovetov Samara,2,1,2016-09-09 21:00:00,Timofei Kalachev,Cross
+123117,80,BlockedShot,0.9309999847412109,0.3189999961853027,0.3113841414451599,Sardar Azmoun,h,2774,OpenPlay,2016,RightFoot,2629,FC Rostov,Krylya Sovetov Samara,2,1,2016-09-09 21:00:00,Aleksandr Bukharov,Throughball
+123097,3,SavedShot,0.7340000152587891,0.7630000305175781,0.009369291365146637,Yohan Mollo,a,2998,OpenPlay,2016,RightFoot,2629,FC Rostov,Krylya Sovetov Samara,2,1,2016-09-09 21:00:00,Ivan Taranov,TakeOn
+123098,4,MissedShots,0.705,0.49900001525878906,0.012342101894319057,Evgeny Bashkirov,a,5404,OpenPlay,2016,RightFoot,2629,FC Rostov,Krylya Sovetov Samara,2,1,2016-09-09 21:00:00,Jerry Mbakogu,Pass
+123099,13,MissedShots,0.9330000305175781,0.4779999923706055,0.13566091656684875,Jerry Mbakogu,a,1907,OpenPlay,2016,Head,2629,FC Rostov,Krylya Sovetov Samara,2,1,2016-09-09 21:00:00,Dmitriy Yatchenko,Cross
+123101,24,MissedShots,0.924000015258789,0.3609999847412109,0.10480495542287827,Jerry Mbakogu,a,1907,OpenPlay,2016,RightFoot,2629,FC Rostov,Krylya Sovetov Samara,2,1,2016-09-09 21:00:00,,TakeOn
+123102,25,SavedShot,0.7430000305175781,0.6940000152587891,0.013067265972495079,Gianni Bruno,a,2999,OpenPlay,2016,RightFoot,2629,FC Rostov,Krylya Sovetov Samara,2,1,2016-09-09 21:00:00,Evgeny Bashkirov,Pass
+123105,39,BlockedShot,0.779000015258789,0.4129999923706055,0.07855052500963211,Yohan Mollo,a,2998,DirectFreekick,2016,RightFoot,2629,FC Rostov,Krylya Sovetov Samara,2,1,2016-09-09 21:00:00,,Standard
+123106,43,MissedShots,0.799000015258789,0.775,0.043633926659822464,Yohan Mollo,a,2998,DirectFreekick,2016,RightFoot,2629,FC Rostov,Krylya Sovetov Samara,2,1,2016-09-09 21:00:00,,Standard
+123108,50,BlockedShot,0.8719999694824219,0.29700000762939455,0.04442436620593071,Jerry Mbakogu,a,1907,OpenPlay,2016,LeftFoot,2629,FC Rostov,Krylya Sovetov Samara,2,1,2016-09-09 21:00:00,Evgeny Bashkirov,Pass
+123111,61,BlockedShot,0.7619999694824219,0.6959999847412109,0.04587079584598541,Gianni Bruno,a,2999,DirectFreekick,2016,RightFoot,2629,FC Rostov,Krylya Sovetov Samara,2,1,2016-09-09 21:00:00,,Standard
+123112,65,MissedShots,0.9130000305175782,0.580999984741211,0.05485370755195618,Dmitriy Yatchenko,a,3006,OpenPlay,2016,Head,2629,FC Rostov,Krylya Sovetov Samara,2,1,2016-09-09 21:00:00,Ibrahim Tsallagov,Cross
+123113,68,MissedShots,0.7090000152587891,0.6170000076293946,0.01321455743163824,Evgeny Bashkirov,a,5404,OpenPlay,2016,RightFoot,2629,FC Rostov,Krylya Sovetov Samara,2,1,2016-09-09 21:00:00,Gianni Bruno,Pass
+123114,73,MissedShots,0.8730000305175781,0.34900001525878904,0.06587879359722137,Ibrahim Tsallagov,a,2990,OpenPlay,2016,LeftFoot,2629,FC Rostov,Krylya Sovetov Samara,2,1,2016-09-09 21:00:00,Yohan Mollo,TakeOn
+123115,76,MissedShots,0.875,0.5420000076293945,0.03793654590845108,Jerry Mbakogu,a,1907,OpenPlay,2016,Head,2629,FC Rostov,Krylya Sovetov Samara,2,1,2016-09-09 21:00:00,Yohan Mollo,Cross
+123116,79,SavedShot,0.7780000305175782,0.7440000152587891,0.015043217688798904,Jerry Mbakogu,a,1907,OpenPlay,2016,RightFoot,2629,FC Rostov,Krylya Sovetov Samara,2,1,2016-09-09 21:00:00,,None
+123118,81,BlockedShot,0.87,0.51,0.09243711829185486,Jerry Mbakogu,a,1907,OpenPlay,2016,LeftFoot,2629,FC Rostov,Krylya Sovetov Samara,2,1,2016-09-09 21:00:00,Sergey Tkachev,Pass

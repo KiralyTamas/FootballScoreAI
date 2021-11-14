@@ -1,0 +1,29 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+285232,3,MissedShots,0.895,0.5690000152587891,0.08540090173482895,Pierre-Emerick Aubameyang,h,318,SetPiece,2018,RightFoot,9496,Arsenal,Manchester United,2,0,2019-03-10 16:30:00,Laurent Koscielny,Chipped
+285233,4,MissedShots,0.9230000305175782,0.40700000762939453,0.04608158394694328,Alexandre Lacazette,h,3277,FromCorner,2018,Head,9496,Arsenal,Manchester United,2,0,2019-03-10 16:30:00,Granit Xhaka,Cross
+285234,7,MissedShots,0.74,0.56,0.023010514676570892,Pierre-Emerick Aubameyang,h,318,OpenPlay,2018,RightFoot,9496,Arsenal,Manchester United,2,0,2019-03-10 16:30:00,Mesut Özil,Pass
+285238,9,BlockedShot,0.7819999694824219,0.3609999847412109,0.025754528120160103,Aaron Ramsey,h,504,OpenPlay,2018,RightFoot,9496,Arsenal,Manchester United,2,0,2019-03-10 16:30:00,,Dispossessed
+285239,11,Goal,0.745,0.3609999847412109,0.016369592398405075,Granit Xhaka,h,204,OpenPlay,2018,LeftFoot,9496,Arsenal,Manchester United,2,0,2019-03-10 16:30:00,Alexandre Lacazette,Pass
+285240,15,BlockedShot,0.874000015258789,0.580999984741211,0.11803069710731506,Alexandre Lacazette,h,3277,OpenPlay,2018,LeftFoot,9496,Arsenal,Manchester United,2,0,2019-03-10 16:30:00,Mesut Özil,Pass
+285242,21,MissedShots,0.889000015258789,0.4470000076293945,0.12942613661289215,Aaron Ramsey,h,504,OpenPlay,2018,RightFoot,9496,Arsenal,Manchester United,2,0,2019-03-10 16:30:00,Ainsley Maitland-Niles,Pass
+285244,23,BlockedShot,0.84,0.37099998474121093,0.026322584599256516,Alexandre Lacazette,h,3277,OpenPlay,2018,LeftFoot,9496,Arsenal,Manchester United,2,0,2019-03-10 16:30:00,,Aerial
+285247,34,MissedShots,0.8090000152587891,0.4779999923706055,0.06671103090047836,Alexandre Lacazette,h,3277,OpenPlay,2018,RightFoot,9496,Arsenal,Manchester United,2,0,2019-03-10 16:30:00,Pierre-Emerick Aubameyang,Pass
+285254,61,BlockedShot,0.8580000305175781,0.34200000762939453,0.09730610251426697,Pierre-Emerick Aubameyang,h,318,OpenPlay,2018,RightFoot,9496,Arsenal,Manchester United,2,0,2019-03-10 16:30:00,Mesut Özil,Pass
+285255,65,MissedShots,0.774000015258789,0.4759999847412109,0.038885969668626785,Granit Xhaka,h,204,OpenPlay,2018,LeftFoot,9496,Arsenal,Manchester United,2,0,2019-03-10 16:30:00,Mesut Özil,Pass
+285256,68,Goal,0.885,0.5,0.7611688375473022,Pierre-Emerick Aubameyang,h,318,Penalty,2018,RightFoot,9496,Arsenal,Manchester United,2,0,2019-03-10 16:30:00,,Standard
+285257,70,MissedShots,0.855999984741211,0.40599998474121096,0.061711426824331284,Alexandre Lacazette,h,3277,OpenPlay,2018,RightFoot,9496,Arsenal,Manchester United,2,0,2019-03-10 16:30:00,Sokratis,BallRecovery
+285258,73,BlockedShot,0.925,0.4370000076293945,0.031048230826854706,Sokratis,h,371,FromCorner,2018,Head,9496,Arsenal,Manchester United,2,0,2019-03-10 16:30:00,Granit Xhaka,Aerial
+285235,8,ShotOnPost,0.9630000305175781,0.4759999847412109,0.6315459609031677,Romelu Lukaku,a,594,OpenPlay,2018,RightFoot,9496,Arsenal,Manchester United,2,0,2019-03-10 16:30:00,Luke Shaw,Cross
+285236,8,BlockedShot,0.8019999694824219,0.3629999923706055,0.03149636834859848,Diogo Dalot,a,7281,OpenPlay,2018,RightFoot,9496,Arsenal,Manchester United,2,0,2019-03-10 16:30:00,Marcus Rashford,Pass
+285237,8,BlockedShot,0.9359999847412109,0.5509999847412109,0.06422030180692673,Paul Pogba,a,1740,OpenPlay,2018,Head,9496,Arsenal,Manchester United,2,0,2019-03-10 16:30:00,Ashley Young,Aerial
+285241,18,ShotOnPost,0.7609999847412109,0.4809999847412109,0.02438637986779213,Fred,a,6817,OpenPlay,2018,LeftFoot,9496,Arsenal,Manchester United,2,0,2019-03-10 16:30:00,Paul Pogba,Pass
+285243,22,MissedShots,0.9119999694824219,0.6930000305175781,0.05367867648601532,Marcus Rashford,a,556,OpenPlay,2018,RightFoot,9496,Arsenal,Manchester United,2,0,2019-03-10 16:30:00,Luke Shaw,HeadPass
+285245,25,SavedShot,0.700999984741211,0.629000015258789,0.013475272804498672,Paul Pogba,a,1740,OpenPlay,2018,RightFoot,9496,Arsenal,Manchester United,2,0,2019-03-10 16:30:00,Fred,Pass
+285246,30,MissedShots,0.7519999694824219,0.524000015258789,0.015141953714191914,Diogo Dalot,a,7281,SetPiece,2018,RightFoot,9496,Arsenal,Manchester United,2,0,2019-03-10 16:30:00,,None
+285248,35,SavedShot,0.965,0.6029999923706054,0.4270480275154114,Romelu Lukaku,a,594,OpenPlay,2018,LeftFoot,9496,Arsenal,Manchester United,2,0,2019-03-10 16:30:00,Marcus Rashford,TakeOn
+285249,35,MissedShots,0.965,0.6029999923706054,0.3649166226387024,Romelu Lukaku,a,594,OpenPlay,2018,LeftFoot,9496,Arsenal,Manchester United,2,0,2019-03-10 16:30:00,,Rebound
+285250,48,MissedShots,0.7280000305175781,0.5570000076293945,0.017622867599129677,Marcus Rashford,a,556,OpenPlay,2018,RightFoot,9496,Arsenal,Manchester United,2,0,2019-03-10 16:30:00,Luke Shaw,Pass
+285251,49,BlockedShot,0.8130000305175781,0.485,0.04864521324634552,Fred,a,6817,OpenPlay,2018,LeftFoot,9496,Arsenal,Manchester United,2,0,2019-03-10 16:30:00,Diogo Dalot,Pass
+285252,49,SavedShot,0.91,0.5059999847412109,0.48442360758781433,Romelu Lukaku,a,594,OpenPlay,2018,LeftFoot,9496,Arsenal,Manchester United,2,0,2019-03-10 16:30:00,Marcus Rashford,Throughball
+285253,58,MissedShots,0.7430000305175781,0.5929999923706055,0.054500650614500046,Marcus Rashford,a,556,DirectFreekick,2018,RightFoot,9496,Arsenal,Manchester United,2,0,2019-03-10 16:30:00,,Standard
+285259,91,SavedShot,0.919000015258789,0.544000015258789,0.2950326204299927,Marcus Rashford,a,556,OpenPlay,2018,Head,9496,Arsenal,Manchester United,2,0,2019-03-10 16:30:00,Ashley Young,Cross

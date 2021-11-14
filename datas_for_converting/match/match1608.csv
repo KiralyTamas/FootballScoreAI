@@ -1,0 +1,18 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+89141,16,BlockedShot,0.885,0.38599998474121094,0.04982313513755798,Dani Alves,h,1288,FromCorner,2015,RightFoot,1608,Barcelona,Atletico Madrid,2,1,2016-01-30 19:00:00,Lionel Messi,Chipped
+89143,25,MissedShots,0.7319999694824219,0.345,0.04836324602365494,Lionel Messi,h,2097,DirectFreekick,2015,LeftFoot,1608,Barcelona,Atletico Madrid,2,1,2016-01-30 19:00:00,,Standard
+89144,28,SavedShot,0.9309999847412109,0.664000015258789,0.05802703648805618,Luis Suárez,h,2098,OpenPlay,2015,LeftFoot,1608,Barcelona,Atletico Madrid,2,1,2016-01-30 19:00:00,,None
+89145,29,Goal,0.9159999847412109,0.5720000076293945,0.46059325337409973,Lionel Messi,h,2097,OpenPlay,2015,LeftFoot,1608,Barcelona,Atletico Madrid,2,1,2016-01-30 19:00:00,Jordi Alba,Pass
+89147,37,Goal,0.965999984741211,0.365,0.307650625705719,Luis Suárez,h,2098,OpenPlay,2015,RightFoot,1608,Barcelona,Atletico Madrid,2,1,2016-01-30 19:00:00,Dani Alves,Throughball
+89148,42,BlockedShot,0.8,0.6790000152587891,0.046745575964450836,Neymar,h,2099,OpenPlay,2015,LeftFoot,1608,Barcelona,Atletico Madrid,2,1,2016-01-30 19:00:00,Ivan Rakitic,TakeOn
+89150,67,SavedShot,0.9440000152587891,0.16799999237060548,0.06892901659011841,Lionel Messi,h,2097,DirectFreekick,2015,LeftFoot,1608,Barcelona,Atletico Madrid,2,1,2016-01-30 19:00:00,,Standard
+89151,77,MissedShots,0.8630000305175781,0.38,0.08475791662931442,Arda Turan,h,2102,OpenPlay,2015,RightFoot,1608,Barcelona,Atletico Madrid,2,1,2016-01-30 19:00:00,Sergio Busquets,Pass
+89152,79,MissedShots,0.769000015258789,0.28700000762939454,0.0241908710449934,Dani Alves,h,1288,OpenPlay,2015,RightFoot,1608,Barcelona,Atletico Madrid,2,1,2016-01-30 19:00:00,Andrés Iniesta,Pass
+89153,88,MissedShots,0.8019999694824219,0.655,0.041438277810811996,Luis Suárez,h,2098,OpenPlay,2015,RightFoot,1608,Barcelona,Atletico Madrid,2,1,2016-01-30 19:00:00,Lionel Messi,Pass
+89138,1,SavedShot,0.7930000305175782,0.29100000381469726,0.02290036343038082,Saúl Ñíguez,a,2266,OpenPlay,2015,LeftFoot,1608,Barcelona,Atletico Madrid,2,1,2016-01-30 19:00:00,Antoine Griezmann,Pass
+89139,9,Goal,0.8630000305175781,0.509000015258789,0.2932695150375366,Koke,a,2269,OpenPlay,2015,RightFoot,1608,Barcelona,Atletico Madrid,2,1,2016-01-30 19:00:00,Saúl Ñíguez,Cross
+89140,11,MissedShots,0.78,0.40900001525878904,0.05438593775033951,Yannick Carrasco,a,2272,OpenPlay,2015,RightFoot,1608,Barcelona,Atletico Madrid,2,1,2016-01-30 19:00:00,Antoine Griezmann,LayOff
+89142,19,MissedShots,0.75,0.46700000762939453,0.01797192357480526,Augusto Fernández,a,2267,OpenPlay,2015,RightFoot,1608,Barcelona,Atletico Madrid,2,1,2016-01-30 19:00:00,Saúl Ñíguez,Chipped
+89146,36,MissedShots,0.8730000305175781,0.664000015258789,0.06507095694541931,Antoine Griezmann,a,2270,OpenPlay,2015,LeftFoot,1608,Barcelona,Atletico Madrid,2,1,2016-01-30 19:00:00,Yannick Carrasco,Pass
+89149,55,SavedShot,0.9519999694824218,0.49900001525878906,0.5042318105697632,Antoine Griezmann,a,2270,OpenPlay,2015,LeftFoot,1608,Barcelona,Atletico Madrid,2,1,2016-01-30 19:00:00,Yannick Carrasco,Cross
+89154,89,SavedShot,0.9159999847412109,0.48,0.061129167675971985,Giménez,a,2278,SetPiece,2015,Head,1608,Barcelona,Atletico Madrid,2,1,2016-01-30 19:00:00,Koke,Aerial

@@ -1,0 +1,23 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+207091,4,MissedShots,0.935,0.544000015258789,0.11451074481010437,Jay Rodriguez,h,844,FromCorner,2017,RightFoot,7448,West Bromwich Albion,Swansea,1,1,2018-04-07 14:00:00,Craig Dawson,HeadPass
+207093,11,BlockedShot,0.825999984741211,0.45599998474121095,0.0323544517159462,Jay Rodriguez,h,844,OpenPlay,2017,LeftFoot,7448,West Bromwich Albion,Swansea,1,1,2018-04-07 14:00:00,Nyom,Cross
+207094,11,SavedShot,0.755,0.7480000305175781,0.01257389411330223,Chris Brunt,h,904,OpenPlay,2017,LeftFoot,7448,West Bromwich Albion,Swansea,1,1,2018-04-07 14:00:00,Kieran Gibbs,Pass
+207095,13,MissedShots,0.759000015258789,0.35700000762939454,0.01677926816046238,Jake Livermore,h,1689,OpenPlay,2017,RightFoot,7448,West Bromwich Albion,Swansea,1,1,2018-04-07 14:00:00,,None
+207096,17,BlockedShot,0.8080000305175781,0.5259999847412109,0.05263663828372955,Matt Phillips,h,1737,OpenPlay,2017,RightFoot,7448,West Bromwich Albion,Swansea,1,1,2018-04-07 14:00:00,Jay Rodriguez,BallRecovery
+207099,48,SavedShot,0.91,0.3340000152587891,0.04344819486141205,Jay Rodriguez,h,844,SetPiece,2017,RightFoot,7448,West Bromwich Albion,Swansea,1,1,2018-04-07 14:00:00,Craig Dawson,HeadPass
+207100,48,BlockedShot,0.9219999694824219,0.6270000076293946,0.039248183369636536,James McClean,h,814,SetPiece,2017,RightFoot,7448,West Bromwich Albion,Swansea,1,1,2018-04-07 14:00:00,,Aerial
+207101,48,BlockedShot,0.8080000305175781,0.49900001525878906,0.05658746138215065,James McClean,h,814,OpenPlay,2017,LeftFoot,7448,West Bromwich Albion,Swansea,1,1,2018-04-07 14:00:00,Salomón Rondón,Pass
+207102,50,MissedShots,0.8919999694824219,0.4520000076293945,0.038343995809555054,Salomón Rondón,h,813,OpenPlay,2017,Head,7448,West Bromwich Albion,Swansea,1,1,2018-04-07 14:00:00,Kieran Gibbs,Aerial
+207103,53,Goal,0.9790000152587891,0.4470000076293945,0.5826178789138794,Jay Rodriguez,h,844,FromCorner,2017,RightFoot,7448,West Bromwich Albion,Swansea,1,1,2018-04-07 14:00:00,Salomón Rondón,HeadPass
+207106,70,BlockedShot,0.8959999847412109,0.6659999847412109,0.07523000240325928,James McClean,h,814,OpenPlay,2017,RightFoot,7448,West Bromwich Albion,Swansea,1,1,2018-04-07 14:00:00,,None
+207109,82,BlockedShot,0.9069999694824219,0.62,0.1020115464925766,Salomón Rondón,h,813,OpenPlay,2017,RightFoot,7448,West Bromwich Albion,Swansea,1,1,2018-04-07 14:00:00,Kieran Gibbs,Pass
+207110,82,MissedShots,0.805,0.27399999618530274,0.015689052641391754,Matt Phillips,h,1737,OpenPlay,2017,LeftFoot,7448,West Bromwich Albion,Swansea,1,1,2018-04-07 14:00:00,,Rebound
+207111,85,BlockedShot,0.8209999847412109,0.34,0.03539466857910156,Jake Livermore,h,1689,OpenPlay,2017,RightFoot,7448,West Bromwich Albion,Swansea,1,1,2018-04-07 14:00:00,,None
+207112,85,BlockedShot,0.7330000305175781,0.4809999847412109,0.013778592459857464,Chris Brunt,h,904,OpenPlay,2017,LeftFoot,7448,West Bromwich Albion,Swansea,1,1,2018-04-07 14:00:00,,Rebound
+207092,9,MissedShots,0.795,0.4209999847412109,0.040929898619651794,André Ayew,a,713,OpenPlay,2017,LeftFoot,7448,West Bromwich Albion,Swansea,1,1,2018-04-07 14:00:00,Tammy Abraham,BallTouch
+207097,19,BlockedShot,0.7759999847412109,0.3220000076293945,0.01808701455593109,Tammy Abraham,a,702,OpenPlay,2017,RightFoot,7448,West Bromwich Albion,Swansea,1,1,2018-04-07 14:00:00,,None
+207098,39,MissedShots,0.865999984741211,0.5590000152587891,0.35694488883018494,André Ayew,a,713,OpenPlay,2017,LeftFoot,7448,West Bromwich Albion,Swansea,1,1,2018-04-07 14:00:00,Sam Clucas,Pass
+207104,55,MissedShots,0.875999984741211,0.6969999694824218,0.028037862852215767,Martin Olsson,a,798,OpenPlay,2017,RightFoot,7448,West Bromwich Albion,Swansea,1,1,2018-04-07 14:00:00,Kyle Bartley,TakeOn
+207105,63,MissedShots,0.909000015258789,0.435,0.03504388406872749,Tammy Abraham,a,702,SetPiece,2017,Head,7448,West Bromwich Albion,Swansea,1,1,2018-04-07 14:00:00,Sam Clucas,Aerial
+207107,74,Goal,0.9480000305175781,0.4809999847412109,0.15274712443351746,Tammy Abraham,a,702,FromCorner,2017,OtherBodyPart,7448,West Bromwich Albion,Swansea,1,1,2018-04-07 14:00:00,Sam Clucas,Cross
+207108,77,MissedShots,0.8219999694824218,0.3139999961853027,0.02393818460404873,Kyle Naughton,a,718,OpenPlay,2017,LeftFoot,7448,West Bromwich Albion,Swansea,1,1,2018-04-07 14:00:00,Sam Clucas,TakeOn

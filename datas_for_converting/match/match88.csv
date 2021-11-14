@@ -1,0 +1,31 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+51476,7,BlockedShot,0.7780000305175782,0.33299999237060546,0.06318382918834686,Mesut Özil,h,499,DirectFreekick,2015,LeftFoot,88,Arsenal,West Ham,0,2,2015-08-09 16:30:00,,Standard
+51477,8,MissedShots,0.855999984741211,0.5540000152587891,0.017912432551383972,Laurent Koscielny,h,494,FromCorner,2015,Head,88,Arsenal,West Ham,0,2,2015-08-09 16:30:00,Mathieu Debuchy,Chipped
+51478,10,MissedShots,0.779000015258789,0.5509999847412109,0.0312943272292614,Alex Oxlade-Chamberlain,h,966,OpenPlay,2015,RightFoot,88,Arsenal,West Ham,0,2,2015-08-09 16:30:00,,None
+51480,25,BlockedShot,0.919000015258789,0.6270000076293946,0.06939145922660828,Olivier Giroud,h,502,OpenPlay,2015,LeftFoot,88,Arsenal,West Ham,0,2,2015-08-09 16:30:00,Francis Coquelin,Cross
+51481,27,MissedShots,0.9169999694824219,0.6930000305175781,0.031402043998241425,Santiago Cazorla,h,965,OpenPlay,2015,LeftFoot,88,Arsenal,West Ham,0,2,2015-08-09 16:30:00,Alex Oxlade-Chamberlain,Cross
+51483,30,BlockedShot,0.8030000305175782,0.2620000076293945,0.019085580483078957,Aaron Ramsey,h,504,OpenPlay,2015,RightFoot,88,Arsenal,West Ham,0,2,2015-08-09 16:30:00,Alex Oxlade-Chamberlain,BallTouch
+51484,32,SavedShot,0.9119999694824219,0.5279999923706055,0.08039002120494843,Per Mertesacker,h,507,FromCorner,2015,Head,88,Arsenal,West Ham,0,2,2015-08-09 16:30:00,Mesut Özil,Cross
+51487,38,MissedShots,0.7519999694824219,0.46700000762939453,0.02203989215195179,Aaron Ramsey,h,504,OpenPlay,2015,RightFoot,88,Arsenal,West Ham,0,2,2015-08-09 16:30:00,Santiago Cazorla,Pass
+51489,44,BlockedShot,0.9030000305175782,0.5870000076293945,0.08576112985610962,Mesut Özil,h,499,OpenPlay,2015,RightFoot,88,Arsenal,West Ham,0,2,2015-08-09 16:30:00,Aaron Ramsey,Pass
+51490,44,MissedShots,0.8190000152587891,0.30100000381469727,0.028445426374673843,Mathieu Debuchy,h,967,OpenPlay,2015,RightFoot,88,Arsenal,West Ham,0,2,2015-08-09 16:30:00,,Rebound
+51491,50,BlockedShot,0.8730000305175781,0.705999984741211,0.04512134566903114,Alex Oxlade-Chamberlain,h,966,OpenPlay,2015,RightFoot,88,Arsenal,West Ham,0,2,2015-08-09 16:30:00,Santiago Cazorla,Pass
+51492,54,MissedShots,0.9030000305175782,0.6790000152587891,0.06115931645035744,Olivier Giroud,h,502,OpenPlay,2015,LeftFoot,88,Arsenal,West Ham,0,2,2015-08-09 16:30:00,Mesut Özil,Pass
+51493,55,SavedShot,0.845,0.415,0.07066376507282257,Olivier Giroud,h,502,OpenPlay,2015,LeftFoot,88,Arsenal,West Ham,0,2,2015-08-09 16:30:00,Alex Oxlade-Chamberlain,Pass
+51495,64,SavedShot,0.92,0.5209999847412109,0.060720294713974,Olivier Giroud,h,502,SetPiece,2015,Head,88,Arsenal,West Ham,0,2,2015-08-09 16:30:00,Santiago Cazorla,Aerial
+51496,70,BlockedShot,0.799000015258789,0.2520000076293945,0.016688475385308266,Theo Walcott,h,503,OpenPlay,2015,RightFoot,88,Arsenal,West Ham,0,2,2015-08-09 16:30:00,Santiago Cazorla,Pass
+51497,72,BlockedShot,0.8719999694824219,0.7709999847412109,0.023816514760255814,Alexis Sánchez,h,498,OpenPlay,2015,RightFoot,88,Arsenal,West Ham,0,2,2015-08-09 16:30:00,Santiago Cazorla,Pass
+51499,80,BlockedShot,0.8880000305175781,0.46299999237060546,0.08515844494104385,Theo Walcott,h,503,OpenPlay,2015,RightFoot,88,Arsenal,West Ham,0,2,2015-08-09 16:30:00,,Dispossessed
+51500,80,MissedShots,0.8490000152587891,0.295,0.03800250217318535,Alex Oxlade-Chamberlain,h,966,OpenPlay,2015,RightFoot,88,Arsenal,West Ham,0,2,2015-08-09 16:30:00,Aaron Ramsey,Pass
+51501,84,SavedShot,0.7930000305175782,0.59,0.013668135739862919,Santiago Cazorla,h,965,OpenPlay,2015,LeftFoot,88,Arsenal,West Ham,0,2,2015-08-09 16:30:00,,Aerial
+51502,88,MissedShots,0.9430000305175781,0.4129999923706055,0.2760222554206848,Olivier Giroud,h,502,OpenPlay,2015,RightFoot,88,Arsenal,West Ham,0,2,2015-08-09 16:30:00,Alex Oxlade-Chamberlain,Cross
+51504,92,SavedShot,0.88,0.6270000076293946,0.11826258897781372,Alexis Sánchez,h,498,OpenPlay,2015,RightFoot,88,Arsenal,West Ham,0,2,2015-08-09 16:30:00,Mesut Özil,Pass
+51505,94,SavedShot,0.899000015258789,0.664000015258789,0.07591287046670914,Alexis Sánchez,h,498,OpenPlay,2015,RightFoot,88,Arsenal,West Ham,0,2,2015-08-09 16:30:00,Mesut Özil,Pass
+51479,17,BlockedShot,0.7709999847412109,0.6819999694824219,0.019972501322627068,Aaron Cresswell,a,534,OpenPlay,2015,LeftFoot,88,Arsenal,West Ham,0,2,2015-08-09 16:30:00,Mauro Zárate,Pass
+51482,28,MissedShots,0.8430000305175781,0.750999984741211,0.022996913641691208,Diafra Sakho,a,656,OpenPlay,2015,RightFoot,88,Arsenal,West Ham,0,2,2015-08-09 16:30:00,Aaron Cresswell,BallRecovery
+51485,35,BlockedShot,0.765,0.4329999923706055,0.022079171612858772,Dimitri Payet,a,536,OpenPlay,2015,RightFoot,88,Arsenal,West Ham,0,2,2015-08-09 16:30:00,Cheikhou Kouyaté,TakeOn
+51486,35,MissedShots,0.845,0.3729999923706055,0.04060553386807442,Mauro Zárate,a,939,FromCorner,2015,RightFoot,88,Arsenal,West Ham,0,2,2015-08-09 16:30:00,Dimitri Payet,Pass
+51488,42,Goal,0.9159999847412109,0.48200000762939454,0.2970609664916992,Cheikhou Kouyaté,a,532,SetPiece,2015,Head,88,Arsenal,West Ham,0,2,2015-08-09 16:30:00,Dimitri Payet,Chipped
+51494,56,Goal,0.759000015258789,0.674000015258789,0.021469922736287117,Mauro Zárate,a,939,OpenPlay,2015,RightFoot,88,Arsenal,West Ham,0,2,2015-08-09 16:30:00,,None
+51498,80,SavedShot,0.9169999694824219,0.345,0.08250683546066284,Diafra Sakho,a,656,OpenPlay,2015,RightFoot,88,Arsenal,West Ham,0,2,2015-08-09 16:30:00,Cheikhou Kouyaté,Pass
+51503,89,SavedShot,0.725999984741211,0.5059999847412109,0.029268985614180565,Modibo Maiga,a,1029,OpenPlay,2015,LeftFoot,88,Arsenal,West Ham,0,2,2015-08-09 16:30:00,James Tomkins,TakeOn

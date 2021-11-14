@@ -1,0 +1,20 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+103038,4,MissedShots,0.6980000305175781,0.7569999694824219,0.009885101579129696,Sadio Diallo,h,3326,OpenPlay,2016,RightFoot,2249,SC Bastia,Paris Saint Germain,0,1,2016-08-12 22:00:00,,BallRecovery
+103039,6,MissedShots,0.87,0.6140000152587891,0.020547932013869286,Mehdi Mostefa,h,3324,SetPiece,2016,Head,2249,SC Bastia,Paris Saint Germain,0,1,2016-08-12 22:00:00,Sadio Diallo,Cross
+103040,7,MissedShots,0.765,0.534000015258789,0.02480568364262581,Sadio Diallo,h,3326,OpenPlay,2016,RightFoot,2249,SC Bastia,Paris Saint Germain,0,1,2016-08-12 22:00:00,,None
+103041,13,MissedShots,0.740999984741211,0.48400001525878905,0.023824062198400497,Sadio Diallo,h,3326,OpenPlay,2016,RightFoot,2249,SC Bastia,Paris Saint Germain,0,1,2016-08-12 22:00:00,Yannick Cahuzac,Pass
+103042,19,MissedShots,0.9269999694824219,0.46,0.3984200060367584,Enzo Crivelli,h,3260,OpenPlay,2016,RightFoot,2249,SC Bastia,Paris Saint Germain,0,1,2016-08-12 22:00:00,Allan Saint-Maximin,Cross
+103044,30,MissedShots,0.8019999694824219,0.664000015258789,0.08498269319534302,Sadio Diallo,h,3326,DirectFreekick,2016,RightFoot,2249,SC Bastia,Paris Saint Germain,0,1,2016-08-12 22:00:00,,Standard
+103045,36,MissedShots,0.77,0.215,0.010701070539653301,Allan Saint-Maximin,h,101,OpenPlay,2016,RightFoot,2249,SC Bastia,Paris Saint Germain,0,1,2016-08-12 22:00:00,Enzo Crivelli,TakeOn
+103047,41,MissedShots,0.9359999847412109,0.46700000762939453,0.1295982301235199,Sébastien Squillaci,h,3321,SetPiece,2016,Head,2249,SC Bastia,Paris Saint Germain,0,1,2016-08-12 22:00:00,Sadio Diallo,Cross
+103055,79,BlockedShot,0.9019999694824219,0.47900001525878905,0.09977219998836517,Alexander Djiku,h,3322,FromCorner,2016,LeftFoot,2249,SC Bastia,Paris Saint Germain,0,1,2016-08-12 22:00:00,,None
+103056,89,MissedShots,0.8040000152587891,0.6669999694824219,0.0258482713252306,Thievy,h,2554,OpenPlay,2016,LeftFoot,2249,SC Bastia,Paris Saint Germain,0,1,2016-08-12 22:00:00,,BallRecovery
+103043,28,SavedShot,0.815,0.26,0.023455822840332985,Ángel Di María,a,3553,OpenPlay,2016,LeftFoot,2249,SC Bastia,Paris Saint Germain,0,1,2016-08-12 22:00:00,Lucas Moura,Pass
+103046,37,SavedShot,0.7809999847412109,0.785,0.017739245668053627,Ángel Di María,a,3553,OpenPlay,2016,LeftFoot,2249,SC Bastia,Paris Saint Germain,0,1,2016-08-12 22:00:00,Layvin Kurzawa,Pass
+103048,49,SavedShot,0.889000015258789,0.6609999847412109,0.059331875294446945,Ángel Di María,a,3553,OpenPlay,2016,LeftFoot,2249,SC Bastia,Paris Saint Germain,0,1,2016-08-12 22:00:00,,None
+103049,55,SavedShot,0.715999984741211,0.5029999923706054,0.046560078859329224,David Luiz,a,1676,DirectFreekick,2016,RightFoot,2249,SC Bastia,Paris Saint Germain,0,1,2016-08-12 22:00:00,,Standard
+103050,64,MissedShots,0.855,0.3060000038146973,0.035773344337940216,Lucas Moura,a,3293,OpenPlay,2016,RightFoot,2249,SC Bastia,Paris Saint Germain,0,1,2016-08-12 22:00:00,Ángel Di María,Chipped
+103051,69,MissedShots,0.889000015258789,0.715,0.03680569678544998,Layvin Kurzawa,a,3298,FromCorner,2016,LeftFoot,2249,SC Bastia,Paris Saint Germain,0,1,2016-08-12 22:00:00,Lucas Moura,Pass
+103052,70,MissedShots,0.845,0.30700000762939456,0.03855473920702934,Serge Aurier,a,3600,OpenPlay,2016,LeftFoot,2249,SC Bastia,Paris Saint Germain,0,1,2016-08-12 22:00:00,Jesé,Pass
+103053,72,SavedShot,0.9519999694824218,0.700999984741211,0.11021403968334198,Jesé,a,2256,OpenPlay,2016,RightFoot,2249,SC Bastia,Paris Saint Germain,0,1,2016-08-12 22:00:00,Ángel Di María,Throughball
+103054,73,Goal,0.9119999694824219,0.610999984741211,0.3331725299358368,Layvin Kurzawa,a,3298,OpenPlay,2016,LeftFoot,2249,SC Bastia,Paris Saint Germain,0,1,2016-08-12 22:00:00,,Rebound

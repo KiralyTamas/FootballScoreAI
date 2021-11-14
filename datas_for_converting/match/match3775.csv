@@ -1,0 +1,22 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+131985,4,Goal,0.925,0.4779999923706055,0.13973158597946167,Alessandro Schöpf,h,2638,OpenPlay,2016,LeftFoot,3775,Schalke 04,Hoffenheim,1,1,2017-02-26 16:30:00,Guido Burgstaller,Pass
+131986,10,BlockedShot,0.9269999694824219,0.44599998474121094,0.042546190321445465,Guido Burgstaller,h,5302,FromCorner,2016,Head,3775,Schalke 04,Hoffenheim,1,1,2017-02-26 16:30:00,Alessandro Schöpf,Aerial
+131990,29,BlockedShot,0.789000015258789,0.75,0.026216667145490646,Guido Burgstaller,h,5302,OpenPlay,2016,LeftFoot,3775,Schalke 04,Hoffenheim,1,1,2017-02-26 16:30:00,Benjamin Stambouli,Pass
+131998,67,BlockedShot,0.665,0.6509999847412109,0.0075356741435825825,Nabil Bentaleb,h,914,SetPiece,2016,LeftFoot,3775,Schalke 04,Hoffenheim,1,1,2017-02-26 16:30:00,,None
+132002,83,MissedShots,0.725,0.715,0.012990201823413372,Nabil Bentaleb,h,914,OpenPlay,2016,LeftFoot,3775,Schalke 04,Hoffenheim,1,1,2017-02-26 16:30:00,Max Meyer,Pass
+132003,84,SavedShot,0.8109999847412109,0.23100000381469726,0.02207263372838497,Eric Maxim Choupo-Moting,h,339,OpenPlay,2016,RightFoot,3775,Schalke 04,Hoffenheim,1,1,2017-02-26 16:30:00,Leon Goretzka,Pass
+132004,85,MissedShots,0.7769999694824219,0.5520000076293945,0.03138061985373497,Eric Maxim Choupo-Moting,h,339,OpenPlay,2016,LeftFoot,3775,Schalke 04,Hoffenheim,1,1,2017-02-26 16:30:00,Benjamin Stambouli,Pass
+131984,3,SavedShot,0.7269999694824218,0.6309999847412109,0.015381893143057823,Nadiem Amiri,a,82,SetPiece,2016,RightFoot,3775,Schalke 04,Hoffenheim,1,1,2017-02-26 16:30:00,Sebastian Rudy,Pass
+131987,15,MissedShots,0.925,0.40400001525878904,0.08415888994932175,Ermin Bicakcic,a,84,SetPiece,2016,RightFoot,3775,Schalke 04,Hoffenheim,1,1,2017-02-26 16:30:00,Kerem Demirbay,Chipped
+131988,18,BlockedShot,0.7980000305175782,0.6530000305175782,0.024555934593081474,Steven Zuber,a,254,OpenPlay,2016,RightFoot,3775,Schalke 04,Hoffenheim,1,1,2017-02-26 16:30:00,Sebastian Rudy,Chipped
+131989,25,MissedShots,0.86,0.43099998474121093,0.056434083729982376,Steven Zuber,a,254,OpenPlay,2016,RightFoot,3775,Schalke 04,Hoffenheim,1,1,2017-02-26 16:30:00,Ermin Bicakcic,Cross
+131991,31,SavedShot,0.8540000152587891,0.23399999618530273,0.02063155546784401,Ermin Bicakcic,a,84,OpenPlay,2016,RightFoot,3775,Schalke 04,Hoffenheim,1,1,2017-02-26 16:30:00,Sebastian Rudy,Chipped
+131992,35,SavedShot,0.9540000152587891,0.33599998474121096,0.05822715535759926,Kerem Demirbay,a,5273,OpenPlay,2016,LeftFoot,3775,Schalke 04,Hoffenheim,1,1,2017-02-26 16:30:00,Marco Terrazzino,Chipped
+131993,35,MissedShots,0.875,0.355,0.05369442328810692,Ermin Bicakcic,a,84,OpenPlay,2016,RightFoot,3775,Schalke 04,Hoffenheim,1,1,2017-02-26 16:30:00,,Rebound
+131994,44,MissedShots,0.7080000305175781,0.6170000076293946,0.011089026927947998,Nadiem Amiri,a,82,OpenPlay,2016,RightFoot,3775,Schalke 04,Hoffenheim,1,1,2017-02-26 16:30:00,,None
+131995,49,MissedShots,0.91,0.5590000152587891,0.03624729439616203,Benjamin Hübner,a,251,SetPiece,2016,Head,3775,Schalke 04,Hoffenheim,1,1,2017-02-26 16:30:00,Kerem Demirbay,Aerial
+131996,51,MissedShots,0.9019999694824219,0.3529999923706055,0.061319500207901,Sandro Wagner,a,11,OpenPlay,2016,RightFoot,3775,Schalke 04,Hoffenheim,1,1,2017-02-26 16:30:00,Kerem Demirbay,Chipped
+131997,62,MissedShots,0.8040000152587891,0.3390000152587891,0.027362780645489693,Sebastian Rudy,a,90,OpenPlay,2016,RightFoot,3775,Schalke 04,Hoffenheim,1,1,2017-02-26 16:30:00,,BlockedPass
+131999,69,MissedShots,0.9319999694824219,0.605999984741211,0.061998456716537476,Sandro Wagner,a,11,OpenPlay,2016,Head,3775,Schalke 04,Hoffenheim,1,1,2017-02-26 16:30:00,Kerem Demirbay,Cross
+132000,76,MissedShots,0.735,0.4520000076293945,0.019523480907082558,Sandro Wagner,a,11,OpenPlay,2016,RightFoot,3775,Schalke 04,Hoffenheim,1,1,2017-02-26 16:30:00,Ádám Szalai,Pass
+132001,78,Goal,0.925,0.47,0.38029277324676514,Sebastian Rudy,a,90,OpenPlay,2016,Head,3775,Schalke 04,Hoffenheim,1,1,2017-02-26 16:30:00,Steven Zuber,Cross

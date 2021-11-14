@@ -1,0 +1,31 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+328800,1,SavedShot,0.700999984741211,0.5840000152587891,0.014207749627530575,Didier Ndong,h,1720,OpenPlay,2019,LeftFoot,12825,Dijon,Paris Saint Germain,2,1,2019-11-01 19:45:00,Júlio Tavares,Pass
+328801,3,SavedShot,0.7080000305175781,0.385,0.01684184931218624,Júlio Tavares,h,5622,OpenPlay,2019,RightFoot,12825,Dijon,Paris Saint Germain,2,1,2019-11-01 19:45:00,Fouad Chafik,Pass
+328802,15,SavedShot,0.8959999847412109,0.5940000152587891,0.011691133491694927,Jhonder Cádiz,h,8071,SetPiece,2019,Head,12825,Dijon,Paris Saint Germain,2,1,2019-11-01 19:45:00,Mounir Chouiar,Aerial
+328803,16,MissedShots,0.8919999694824219,0.5259999847412109,0.04586737975478172,Júlio Tavares,h,5622,OpenPlay,2019,Head,12825,Dijon,Paris Saint Germain,2,1,2019-11-01 19:45:00,,Aerial
+328804,18,SavedShot,0.735,0.5790000152587891,0.014336004853248596,Jhonder Cádiz,h,8071,OpenPlay,2019,LeftFoot,12825,Dijon,Paris Saint Germain,2,1,2019-11-01 19:45:00,,None
+328807,34,BlockedShot,0.8819999694824219,0.44599998474121094,0.051541369408369064,Bruno Ecuele Manga,h,4883,FromCorner,2019,RightFoot,12825,Dijon,Paris Saint Germain,2,1,2019-11-01 19:45:00,Mounir Chouiar,Cross
+328812,46,Goal,0.955,0.654000015258789,0.0733349621295929,Jhonder Cádiz,h,8071,OpenPlay,2019,LeftFoot,12825,Dijon,Paris Saint Germain,2,1,2019-11-01 19:45:00,,Dispossessed
+328810,50,BlockedShot,0.8480000305175781,0.26,0.024996696040034294,Hamza Mendyl,h,5728,OpenPlay,2019,LeftFoot,12825,Dijon,Paris Saint Germain,2,1,2019-11-01 19:45:00,,None
+328811,50,Goal,0.919000015258789,0.47099998474121096,0.501863420009613,Mounir Chouiar,h,8023,OpenPlay,2019,RightFoot,12825,Dijon,Paris Saint Germain,2,1,2019-11-01 19:45:00,,None
+328818,58,BlockedShot,0.919000015258789,0.57,0.06794311851263046,Bruno Ecuele Manga,h,4883,FromCorner,2019,Head,12825,Dijon,Paris Saint Germain,2,1,2019-11-01 19:45:00,Mounir Chouiar,Cross
+328805,18,Goal,0.88,0.6229999923706054,0.33231034874916077,Kylian Mbappe-Lottin,a,3423,OpenPlay,2019,RightFoot,12825,Dijon,Paris Saint Germain,2,1,2019-11-01 19:45:00,Ángel Di María,Throughball
+328806,20,SavedShot,0.86,0.5179999923706055,0.3784913122653961,Mauro Icardi,a,1513,OpenPlay,2019,RightFoot,12825,Dijon,Paris Saint Germain,2,1,2019-11-01 19:45:00,Ángel Di María,Throughball
+328808,46,BlockedShot,0.7809999847412109,0.35200000762939454,0.07321654260158539,Ángel Di María,a,3553,DirectFreekick,2019,LeftFoot,12825,Dijon,Paris Saint Germain,2,1,2019-11-01 19:45:00,,Standard
+328809,50,MissedShots,0.7869999694824219,0.4490000152587891,0.012224150821566582,Leandro Paredes,a,1248,FromCorner,2019,RightFoot,12825,Dijon,Paris Saint Germain,2,1,2019-11-01 19:45:00,Ángel Di María,Chipped
+328813,51,BlockedShot,0.9219999694824219,0.30700000762939456,0.047973256558179855,Ángel Di María,a,3553,OpenPlay,2019,LeftFoot,12825,Dijon,Paris Saint Germain,2,1,2019-11-01 19:45:00,,None
+328814,52,BlockedShot,0.8719999694824219,0.5159999847412109,0.013922523707151413,Presnel Kimpembe,a,3599,FromCorner,2019,Head,12825,Dijon,Paris Saint Germain,2,1,2019-11-01 19:45:00,Ángel Di María,Aerial
+328815,53,BlockedShot,0.9359999847412109,0.4229999923706055,0.040086325258016586,Mauro Icardi,a,1513,OpenPlay,2019,Head,12825,Dijon,Paris Saint Germain,2,1,2019-11-01 19:45:00,Colin Dagba,Aerial
+328816,55,SavedShot,0.8119999694824219,0.49700000762939456,0.042413223534822464,Ángel Di María,a,3553,OpenPlay,2019,LeftFoot,12825,Dijon,Paris Saint Germain,2,1,2019-11-01 19:45:00,Mauro Icardi,Pass
+328817,57,SavedShot,0.87,0.669000015258789,0.037864502519369125,Kylian Mbappe-Lottin,a,3423,OpenPlay,2019,RightFoot,12825,Dijon,Paris Saint Germain,2,1,2019-11-01 19:45:00,Abdou Diallo,TakeOn
+328819,59,BlockedShot,0.8619999694824219,0.5329999923706055,0.09065492451190948,Ángel Di María,a,3553,OpenPlay,2019,RightFoot,12825,Dijon,Paris Saint Germain,2,1,2019-11-01 19:45:00,Juan Bernat,Pass
+328820,60,MissedShots,0.8669999694824219,0.435,0.3740135431289673,Mauro Icardi,a,1513,OpenPlay,2019,RightFoot,12825,Dijon,Paris Saint Germain,2,1,2019-11-01 19:45:00,,None
+328821,61,MissedShots,0.8369999694824218,0.47900001525878905,0.0749167874455452,Ángel Di María,a,3553,OpenPlay,2019,LeftFoot,12825,Dijon,Paris Saint Germain,2,1,2019-11-01 19:45:00,Kylian Mbappe-Lottin,Pass
+328822,63,ShotOnPost,0.914000015258789,0.5129999923706055,0.2988376319408417,Mauro Icardi,a,1513,OpenPlay,2019,Head,12825,Dijon,Paris Saint Germain,2,1,2019-11-01 19:45:00,Kylian Mbappe-Lottin,Aerial
+328823,64,BlockedShot,0.8040000152587891,0.28,0.02295549586415291,Ángel Di María,a,3553,OpenPlay,2019,LeftFoot,12825,Dijon,Paris Saint Germain,2,1,2019-11-01 19:45:00,Leandro Paredes,Pass
+328824,65,MissedShots,0.9359999847412109,0.5479999923706055,0.4988860487937927,Mauro Icardi,a,1513,OpenPlay,2019,LeftFoot,12825,Dijon,Paris Saint Germain,2,1,2019-11-01 19:45:00,Kylian Mbappe-Lottin,Pass
+328825,68,ShotOnPost,0.7609999847412109,0.5109999847412109,0.019445976242423058,Leandro Paredes,a,1248,FromCorner,2019,RightFoot,12825,Dijon,Paris Saint Germain,2,1,2019-11-01 19:45:00,,None
+328826,74,BlockedShot,0.9230000305175782,0.4909999847412109,0.13724304735660553,Mauro Icardi,a,1513,OpenPlay,2019,RightFoot,12825,Dijon,Paris Saint Germain,2,1,2019-11-01 19:45:00,Edinson Cavani,Pass
+328827,78,BlockedShot,0.764000015258789,0.545,0.026757411658763885,Ángel Di María,a,3553,OpenPlay,2019,LeftFoot,12825,Dijon,Paris Saint Germain,2,1,2019-11-01 19:45:00,Idrissa Gueye,Pass
+328828,82,MissedShots,0.9669999694824218,0.575999984741211,0.4389187693595886,Edinson Cavani,a,3294,OpenPlay,2019,LeftFoot,12825,Dijon,Paris Saint Germain,2,1,2019-11-01 19:45:00,Layvin Kurzawa,Cross
+328829,86,MissedShots,0.8769999694824219,0.500999984741211,0.08455817401409149,Mauro Icardi,a,1513,OpenPlay,2019,RightFoot,12825,Dijon,Paris Saint Germain,2,1,2019-11-01 19:45:00,Edinson Cavani,Chipped

@@ -1,0 +1,15 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+67545,15,MissedShots,0.7290000152587891,0.735999984741211,0.011642294935882092,Gaël Danic,h,3329,OpenPlay,2015,LeftFoot,2187,SC Bastia,Marseille,2,1,2016-04-03 19:00:00,Yannick Cahuzac,BallRecovery
+67547,30,BlockedShot,0.7559999847412109,0.3890000152587891,0.020782699808478355,Francois Kamano,h,3333,OpenPlay,2015,RightFoot,2187,SC Bastia,Marseille,2,1,2016-04-03 19:00:00,Mehdi Mostefa,BallRecovery
+67548,42,MissedShots,0.9419999694824219,0.4370000076293945,0.10875818133354187,Sébastien Squillaci,h,3321,FromCorner,2015,Head,2187,SC Bastia,Marseille,2,1,2016-04-03 19:00:00,Gaël Danic,Cross
+67549,46,MissedShots,0.93,0.5879999923706055,0.04025997966527939,Francois Kamano,h,3333,OpenPlay,2015,Head,2187,SC Bastia,Marseille,2,1,2016-04-03 19:00:00,Francois Modesto,Aerial
+67552,55,Goal,0.885,0.5,0.7600951194763184,Gaël Danic,h,3329,Penalty,2015,LeftFoot,2187,SC Bastia,Marseille,2,1,2016-04-03 19:00:00,,Standard
+67555,70,BlockedShot,0.7330000305175781,0.4179999923706055,0.026154927909374237,Brandão,h,3327,OpenPlay,2015,LeftFoot,2187,SC Bastia,Marseille,2,1,2016-04-03 19:00:00,Seko Fofana,Pass
+67546,20,BlockedShot,0.7909999847412109,0.580999984741211,0.035003338009119034,Lass Diarra,a,3557,OpenPlay,2015,LeftFoot,2187,SC Bastia,Marseille,2,1,2016-04-03 19:00:00,,None
+67550,46,OwnGoal,0.030999999046325683,0.5059999847412109,0,Karim Rekik,a,3388,OpenPlay,2015,RightFoot,2187,SC Bastia,Marseille,2,1,2016-04-03 19:00:00,,Challenge
+67551,50,BlockedShot,0.779000015258789,0.3970000076293945,0.08338623493909836,Florian Thauvin,a,942,DirectFreekick,2015,LeftFoot,2187,SC Bastia,Marseille,2,1,2016-04-03 19:00:00,,Standard
+67553,58,BlockedShot,0.8969999694824219,0.625,0.047926586121320724,Steven Fletcher,a,930,OpenPlay,2015,LeftFoot,2187,SC Bastia,Marseille,2,1,2016-04-03 19:00:00,Florian Thauvin,Chipped
+67554,58,MissedShots,0.8619999694824219,0.62,0.0424208790063858,Georges-Kévin Nkoudou,a,1729,OpenPlay,2015,RightFoot,2187,SC Bastia,Marseille,2,1,2016-04-03 19:00:00,Steven Fletcher,Rebound
+67556,76,Goal,0.8959999847412109,0.639000015258789,0.21092236042022705,Michy Batshuayi,a,1678,OpenPlay,2015,RightFoot,2187,SC Bastia,Marseille,2,1,2016-04-03 19:00:00,Rémy Cabella,TakeOn
+67557,77,MissedShots,0.7440000152587891,0.3340000152587891,0.0478963628411293,Romain Alessandrini,a,3394,DirectFreekick,2015,LeftFoot,2187,SC Bastia,Marseille,2,1,2016-04-03 19:00:00,,Standard
+67558,81,SavedShot,0.7559999847412109,0.43599998474121093,0.06942082196474075,Romain Alessandrini,a,3394,DirectFreekick,2015,LeftFoot,2187,SC Bastia,Marseille,2,1,2016-04-03 19:00:00,,Standard

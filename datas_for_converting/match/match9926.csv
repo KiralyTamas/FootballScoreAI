@@ -1,0 +1,28 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+299962,1,Goal,0.9790000152587891,0.5029999923706054,0.9300217032432556,Marcello Gazzola,h,1478,OpenPlay,2018,RightFoot,9926,Parma Calcio 1913,Sampdoria,3,3,2019-05-05 14:00:00,Gervinho,Pass
+299963,2,SavedShot,0.6919999694824219,0.500999984741211,0.015544290654361248,Fabio Ceravolo,h,6235,OpenPlay,2018,RightFoot,9926,Parma Calcio 1913,Sampdoria,3,3,2019-05-05 14:00:00,Juraj Kucka,Pass
+299977,47,SavedShot,0.735999984741211,0.5940000152587891,0.018818184733390808,Gervinho,h,1943,OpenPlay,2018,RightFoot,9926,Parma Calcio 1913,Sampdoria,3,3,2019-05-05 14:00:00,Mattia Sprocati,Pass
+299979,54,MissedShots,0.7290000152587891,0.455,0.017595790326595306,Juraj Kucka,h,1123,OpenPlay,2018,LeftFoot,9926,Parma Calcio 1913,Sampdoria,3,3,2019-05-05 14:00:00,Matteo Scozzarella,Pass
+299981,66,Goal,0.885,0.5,0.7612988352775574,Juraj Kucka,h,1123,Penalty,2018,RightFoot,9926,Parma Calcio 1913,Sampdoria,3,3,2019-05-05 14:00:00,,Standard
+299982,70,SavedShot,0.95,0.445,0.13600310683250427,Juraj Kucka,h,1123,SetPiece,2018,Head,9926,Parma Calcio 1913,Sampdoria,3,3,2019-05-05 14:00:00,Bruno Alves,Cross
+299983,70,Goal,0.9540000152587891,0.5370000076293945,0.6351808309555054,Alessandro Bastoni,h,4939,SetPiece,2018,LeftFoot,9926,Parma Calcio 1913,Sampdoria,3,3,2019-05-05 14:00:00,,Rebound
+299984,76,MissedShots,0.774000015258789,0.6229999923706054,0.022470297291874886,Federico Dimarco,h,1324,OpenPlay,2018,RightFoot,9926,Parma Calcio 1913,Sampdoria,3,3,2019-05-05 14:00:00,,None
+299986,80,MissedShots,0.7709999847412109,0.39099998474121095,0.02725457027554512,Luca Siligardi,h,1846,OpenPlay,2018,LeftFoot,9926,Parma Calcio 1913,Sampdoria,3,3,2019-05-05 14:00:00,Juraj Kucka,HeadPass
+299964,8,MissedShots,0.8730000305175781,0.28299999237060547,0.02478986233472824,Dennis Praet,a,1234,OpenPlay,2018,RightFoot,9926,Parma Calcio 1913,Sampdoria,3,3,2019-05-05 14:00:00,Fabio Quagliarella,Cross
+299965,12,SavedShot,0.759000015258789,0.6029999923706054,0.022943517193198204,Jakub Jankto,a,1146,OpenPlay,2018,LeftFoot,9926,Parma Calcio 1913,Sampdoria,3,3,2019-05-05 14:00:00,Dennis Praet,Pass
+299966,12,SavedShot,0.8830000305175781,0.4,0.08251652121543884,Dennis Praet,a,1234,OpenPlay,2018,RightFoot,9926,Parma Calcio 1913,Sampdoria,3,3,2019-05-05 14:00:00,Gregoire Defrel,Pass
+299967,14,MissedShots,0.9080000305175782,0.42400001525878905,0.02607983909547329,Manolo Gabbiadini,a,1383,OpenPlay,2018,Head,9926,Parma Calcio 1913,Sampdoria,3,3,2019-05-05 14:00:00,Nicola Murru,Aerial
+299968,23,BlockedShot,0.8959999847412109,0.585,0.02230212464928627,Manolo Gabbiadini,a,1383,OpenPlay,2018,Head,9926,Parma Calcio 1913,Sampdoria,3,3,2019-05-05 14:00:00,Nicola Murru,Aerial
+299969,27,Goal,0.885,0.5,0.7612988352775574,Fabio Quagliarella,a,1230,Penalty,2018,RightFoot,9926,Parma Calcio 1913,Sampdoria,3,3,2019-05-05 14:00:00,,Standard
+299970,34,MissedShots,0.8,0.3,0.020919926464557648,Dennis Praet,a,1234,OpenPlay,2018,RightFoot,9926,Parma Calcio 1913,Sampdoria,3,3,2019-05-05 14:00:00,,None
+299971,37,SavedShot,0.9419999694824219,0.634000015258789,0.10078547894954681,Jakub Jankto,a,1146,OpenPlay,2018,LeftFoot,9926,Parma Calcio 1913,Sampdoria,3,3,2019-05-05 14:00:00,Fabio Quagliarella,Pass
+299972,37,Goal,0.92,0.5479999923706055,0.4326733350753784,Gregoire Defrel,a,1468,OpenPlay,2018,LeftFoot,9926,Parma Calcio 1913,Sampdoria,3,3,2019-05-05 14:00:00,,Rebound
+299973,41,MissedShots,0.725,0.6029999923706054,0.022630969062447548,Jakub Jankto,a,1146,OpenPlay,2018,LeftFoot,9926,Parma Calcio 1913,Sampdoria,3,3,2019-05-05 14:00:00,Albin Ekdal,Pass
+299974,42,SavedShot,0.9319999694824219,0.54,0.5511038303375244,Fabio Quagliarella,a,1230,OpenPlay,2018,LeftFoot,9926,Parma Calcio 1913,Sampdoria,3,3,2019-05-05 14:00:00,Gregoire Defrel,Pass
+299975,42,SavedShot,0.919000015258789,0.73,0.04372767359018326,Fabio Quagliarella,a,1230,OpenPlay,2018,RightFoot,9926,Parma Calcio 1913,Sampdoria,3,3,2019-05-05 14:00:00,,Rebound
+299976,42,BlockedShot,0.8180000305175781,0.45799999237060546,0.06761496514081955,Albin Ekdal,a,411,OpenPlay,2018,RightFoot,9926,Parma Calcio 1913,Sampdoria,3,3,2019-05-05 14:00:00,,None
+299978,50,MissedShots,0.785,0.524000015258789,0.05027030408382416,Gregoire Defrel,a,1468,OpenPlay,2018,LeftFoot,9926,Parma Calcio 1913,Sampdoria,3,3,2019-05-05 14:00:00,,None
+299980,60,Goal,0.9019999694824219,0.5829999923706055,0.418941468000412,Fabio Quagliarella,a,1230,OpenPlay,2018,RightFoot,9926,Parma Calcio 1913,Sampdoria,3,3,2019-05-05 14:00:00,Dennis Praet,Pass
+299985,78,SavedShot,0.855999984741211,0.44,0.07922333478927612,Gianluca Caprari,a,1170,OpenPlay,2018,RightFoot,9926,Parma Calcio 1913,Sampdoria,3,3,2019-05-05 14:00:00,Edgar Barreto,Chipped
+299987,82,MissedShots,0.885,0.39799999237060546,0.09968778491020203,Gianluca Caprari,a,1170,OpenPlay,2018,RightFoot,9926,Parma Calcio 1913,Sampdoria,3,3,2019-05-05 14:00:00,Bartosz Bereszynski,Pass
+299988,92,BlockedShot,0.7290000152587891,0.645,0.01603495143353939,Nicola Murru,a,1400,OpenPlay,2018,LeftFoot,9926,Parma Calcio 1913,Sampdoria,3,3,2019-05-05 14:00:00,Albin Ekdal,Pass

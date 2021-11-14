@@ -1,0 +1,35 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+294338,3,MissedShots,0.9290000152587891,0.5570000076293945,0.12670749425888062,Luka Jovic,h,6228,OpenPlay,2018,Head,10593,Eintracht Frankfurt,Augsburg,1,3,2019-04-14 17:00:00,Danny da Costa,Cross
+294339,4,SavedShot,0.8519999694824218,0.575999984741211,0.06572356820106506,Luka Jovic,h,6228,OpenPlay,2018,RightFoot,10593,Eintracht Frankfurt,Augsburg,1,3,2019-04-14 17:00:00,,None
+294340,13,Goal,0.8830000305175781,0.5379999923706055,0.024286190047860146,Gonçalo Paciência,h,7051,OpenPlay,2018,Head,10593,Eintracht Frankfurt,Augsburg,1,3,2019-04-14 17:00:00,Filip Kostic,Aerial
+294341,19,BlockedShot,0.825,0.44099998474121094,0.07937145233154297,Luka Jovic,h,6228,OpenPlay,2018,RightFoot,10593,Eintracht Frankfurt,Augsburg,1,3,2019-04-14 17:00:00,Ante Rebic,Pass
+294342,26,BlockedShot,0.9359999847412109,0.725999984741211,0.06259849667549133,Filip Kostic,h,64,OpenPlay,2018,LeftFoot,10593,Eintracht Frankfurt,Augsburg,1,3,2019-04-14 17:00:00,Gonçalo Paciência,BallTouch
+294343,29,MissedShots,0.889000015258789,0.5570000076293945,0.39945659041404724,Gonçalo Paciência,h,7051,OpenPlay,2018,LeftFoot,10593,Eintracht Frankfurt,Augsburg,1,3,2019-04-14 17:00:00,Ante Rebic,Pass
+294345,35,SavedShot,0.9259999847412109,0.5720000076293945,0.07653756439685822,Luka Jovic,h,6228,FromCorner,2018,Head,10593,Eintracht Frankfurt,Augsburg,1,3,2019-04-14 17:00:00,Filip Kostic,Cross
+294346,36,MissedShots,0.9069999694824219,0.46599998474121096,0.04518922045826912,Evan Ndicka,h,7049,SetPiece,2018,Head,10593,Eintracht Frankfurt,Augsburg,1,3,2019-04-14 17:00:00,Filip Kostic,Aerial
+294348,47,MissedShots,0.855,0.33,0.04617934301495552,Ante Rebic,h,1852,OpenPlay,2018,RightFoot,10593,Eintracht Frankfurt,Augsburg,1,3,2019-04-14 17:00:00,,None
+294353,55,MissedShots,0.8730000305175781,0.4490000152587891,0.11384711414575577,Luka Jovic,h,6228,OpenPlay,2018,RightFoot,10593,Eintracht Frankfurt,Augsburg,1,3,2019-04-14 17:00:00,Filip Kostic,Chipped
+294355,59,SavedShot,0.915,0.45799999237060546,0.09361870586872101,Luka Jovic,h,6228,OpenPlay,2018,Head,10593,Eintracht Frankfurt,Augsburg,1,3,2019-04-14 17:00:00,Filip Kostic,Cross
+294361,69,BlockedShot,0.9009999847412109,0.5570000076293945,0.3670159578323364,Ante Rebic,h,1852,OpenPlay,2018,RightFoot,10593,Eintracht Frankfurt,Augsburg,1,3,2019-04-14 17:00:00,Mijat Gacinovic,HeadPass
+294362,73,MissedShots,0.9330000305175781,0.57,0.08943652361631393,Ante Rebic,h,1852,FromCorner,2018,Head,10593,Eintracht Frankfurt,Augsburg,1,3,2019-04-14 17:00:00,Filip Kostic,Cross
+294363,73,MissedShots,0.7619999694824219,0.5220000076293946,0.019853882491588593,Mijat Gacinovic,h,290,FromCorner,2018,RightFoot,10593,Eintracht Frankfurt,Augsburg,1,3,2019-04-14 17:00:00,,None
+294364,75,BlockedShot,0.8680000305175781,0.5379999923706055,0.06852105259895325,Luka Jovic,h,6228,OpenPlay,2018,LeftFoot,10593,Eintracht Frankfurt,Augsburg,1,3,2019-04-14 17:00:00,,None
+294367,87,BlockedShot,0.9069999694824219,0.40400001525878904,0.034321803599596024,Luka Jovic,h,6228,FromCorner,2018,Head,10593,Eintracht Frankfurt,Augsburg,1,3,2019-04-14 17:00:00,Jonathan de Guzmán,Cross
+294368,87,MissedShots,0.904000015258789,0.639000015258789,0.07051213085651398,Filip Kostic,h,64,FromCorner,2018,LeftFoot,10593,Eintracht Frankfurt,Augsburg,1,3,2019-04-14 17:00:00,,Rebound
+294370,92,MissedShots,0.8780000305175781,0.55,0.3166571855545044,Luka Jovic,h,6228,OpenPlay,2018,LeftFoot,10593,Eintracht Frankfurt,Augsburg,1,3,2019-04-14 17:00:00,Mijat Gacinovic,Throughball
+294344,30,Goal,0.88,0.4329999923706055,0.3516676127910614,Marco Richter,a,6357,OpenPlay,2018,RightFoot,10593,Eintracht Frankfurt,Augsburg,1,3,2019-04-14 17:00:00,Michael Gregoritsch,Pass
+294347,46,SavedShot,0.7869999694824219,0.3820000076293945,0.030217226594686508,Michael Gregoritsch,a,171,OpenPlay,2018,LeftFoot,10593,Eintracht Frankfurt,Augsburg,1,3,2019-04-14 17:00:00,André Hahn,Pass
+294349,48,Goal,0.7919999694824219,0.695,0.02380708046257496,Marco Richter,a,6357,OpenPlay,2018,LeftFoot,10593,Eintracht Frankfurt,Augsburg,1,3,2019-04-14 17:00:00,Ja-Cheol Koo,Pass
+294350,50,MissedShots,0.9309999847412109,0.649000015258789,0.04195166006684303,Marco Richter,a,6357,FromCorner,2018,RightFoot,10593,Eintracht Frankfurt,Augsburg,1,3,2019-04-14 17:00:00,Konstantinos Stafylidis,Cross
+294351,51,MissedShots,0.855999984741211,0.26799999237060546,0.038251329213380814,André Hahn,a,412,OpenPlay,2018,RightFoot,10593,Eintracht Frankfurt,Augsburg,1,3,2019-04-14 17:00:00,Michael Gregoritsch,Chipped
+294352,53,BlockedShot,0.850999984741211,0.5129999923706055,0.043989282101392746,Alfred Finnbogason,a,2655,FromCorner,2018,RightFoot,10593,Eintracht Frankfurt,Augsburg,1,3,2019-04-14 17:00:00,Jonathan Schmid,Cross
+294354,57,BlockedShot,0.9530000305175781,0.5270000076293946,0.6867857575416565,Ja-Cheol Koo,a,271,OpenPlay,2018,LeftFoot,10593,Eintracht Frankfurt,Augsburg,1,3,2019-04-14 17:00:00,André Hahn,Pass
+294356,59,MissedShots,0.87,0.41,0.11046195775270462,Marco Richter,a,6357,OpenPlay,2018,RightFoot,10593,Eintracht Frankfurt,Augsburg,1,3,2019-04-14 17:00:00,Jonathan Schmid,Pass
+294357,63,MissedShots,0.8930000305175781,0.4779999923706055,0.111642986536026,Alfred Finnbogason,a,2655,OpenPlay,2018,RightFoot,10593,Eintracht Frankfurt,Augsburg,1,3,2019-04-14 17:00:00,Marco Richter,Cross
+294358,63,MissedShots,0.95,0.61,0.4182559847831726,André Hahn,a,412,OpenPlay,2018,RightFoot,10593,Eintracht Frankfurt,Augsburg,1,3,2019-04-14 17:00:00,,None
+294359,63,SavedShot,0.7980000305175782,0.7069999694824218,0.020826440304517746,André Hahn,a,412,OpenPlay,2018,RightFoot,10593,Eintracht Frankfurt,Augsburg,1,3,2019-04-14 17:00:00,Marco Richter,Cross
+294360,67,MissedShots,0.8780000305175781,0.6020000076293945,0.09140954166650772,Marco Richter,a,6357,OpenPlay,2018,RightFoot,10593,Eintracht Frankfurt,Augsburg,1,3,2019-04-14 17:00:00,André Hahn,Chipped
+294365,83,Goal,0.8219999694824218,0.40599998474121096,0.06952901184558868,Michael Gregoritsch,a,171,OpenPlay,2018,LeftFoot,10593,Eintracht Frankfurt,Augsburg,1,3,2019-04-14 17:00:00,Daniel Baier,Pass
+294366,85,MissedShots,0.8930000305175781,0.49400001525878906,0.025358734652400017,Marco Richter,a,6357,OpenPlay,2018,Head,10593,Eintracht Frankfurt,Augsburg,1,3,2019-04-14 17:00:00,André Hahn,Aerial
+294369,92,MissedShots,0.855999984741211,0.5429999923706055,0.1408296823501587,Michael Gregoritsch,a,171,OpenPlay,2018,LeftFoot,10593,Eintracht Frankfurt,Augsburg,1,3,2019-04-14 17:00:00,Jonathan Schmid,TakeOn
+294371,93,MissedShots,0.715,0.8080000305175781,0.015176092274487019,Konstantinos Stafylidis,a,368,OpenPlay,2018,LeftFoot,10593,Eintracht Frankfurt,Augsburg,1,3,2019-04-14 17:00:00,Michael Gregoritsch,Pass

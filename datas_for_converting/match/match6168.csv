@@ -1,0 +1,23 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+1589,10,MissedShots,0.775,0.3629999923706055,0.07150648534297943,Claudio Beauvue,h,2502,DirectFreekick,2014,RightFoot,6168,Guingamp,Metz,0,1,2014-09-24 18:00:00,,Standard
+1593,45,MissedShots,0.9209999847412109,0.49599998474121093,0.056002601981163025,Claudio Beauvue,h,2502,FromCorner,2014,Head,6168,Guingamp,Metz,0,1,2014-09-24 18:00:00,Sambou Yatabaré,None
+1594,46,MissedShots,0.935,0.48900001525878906,0.1256779134273529,Claudio Beauvue,h,2502,FromCorner,2014,Head,6168,Guingamp,Metz,0,1,2014-09-24 18:00:00,Jérémy Pied,Cross
+1595,48,MissedShots,0.9540000152587891,0.38599998474121094,0.10826998949050903,Claudio Beauvue,h,2502,OpenPlay,2014,RightFoot,6168,Guingamp,Metz,0,1,2014-09-24 18:00:00,Jérémy Pied,TakeOn
+1596,49,MissedShots,0.87,0.4229999923706055,0.06808601319789886,Jérémy Pied,h,1784,SetPiece,2014,LeftFoot,6168,Guingamp,Metz,0,1,2014-09-24 18:00:00,,None
+1599,56,BlockedShot,0.7280000305175781,0.47,0.01981339044868946,Younousse Sankhare,h,3474,SetPiece,2014,LeftFoot,6168,Guingamp,Metz,0,1,2014-09-24 18:00:00,Baissama Sankoh,Pass
+1600,56,SavedShot,0.8530000305175781,0.4279999923706055,0.029946016147732735,Christophe Mandanne,h,4708,OpenPlay,2014,Head,6168,Guingamp,Metz,0,1,2014-09-24 18:00:00,Claudio Beauvue,HeadPass
+1601,64,MissedShots,0.835,0.6880000305175781,0.03222701698541641,Dorian Lévêque,h,3654,OpenPlay,2014,LeftFoot,6168,Guingamp,Metz,0,1,2014-09-24 18:00:00,,None
+1602,67,SavedShot,0.9680000305175781,0.40200000762939453,0.06364259868860245,Rachid Alioui,h,4801,OpenPlay,2014,Head,6168,Guingamp,Metz,0,1,2014-09-24 18:00:00,Claudio Beauvue,Cross
+1603,68,BlockedShot,0.8690000152587891,0.45799999237060546,0.06635134667158127,Sylvain Marveaux,h,1064,OpenPlay,2014,LeftFoot,6168,Guingamp,Metz,0,1,2014-09-24 18:00:00,Claudio Beauvue,Cross
+1604,78,MissedShots,0.775,0.22899999618530273,0.02583462931215763,Rachid Alioui,h,4801,FromCorner,2014,RightFoot,6168,Guingamp,Metz,0,1,2014-09-24 18:00:00,Christophe Kerbrat,Pass
+1605,83,BlockedShot,0.7619999694824219,0.69,0.015043358318507671,Dorian Lévêque,h,3654,OpenPlay,2014,LeftFoot,6168,Guingamp,Metz,0,1,2014-09-24 18:00:00,,None
+1608,91,BlockedShot,0.8540000152587891,0.6040000152587891,0.06047891080379486,Ladislas Douniama,h,4783,OpenPlay,2014,RightFoot,6168,Guingamp,Metz,0,1,2014-09-24 18:00:00,Claudio Beauvue,HeadPass
+1587,4,BlockedShot,0.8130000305175781,0.7869999694824219,0.015694011002779007,Yeni N&#039;Gbakoto,a,4738,OpenPlay,2014,RightFoot,6168,Guingamp,Metz,0,1,2014-09-24 18:00:00,Kévin Lejeune,Pass
+1588,6,MissedShots,0.7380000305175781,0.27399999618530274,0.012380745261907578,Juan Manuel Falcón,a,4820,OpenPlay,2014,LeftFoot,6168,Guingamp,Metz,0,1,2014-09-24 18:00:00,Sergei Krivets,Pass
+1590,23,Goal,0.9259999847412109,0.5720000076293945,0.07665566354990005,Gaëtan Bussmann,a,354,FromCorner,2014,LeftFoot,6168,Guingamp,Metz,0,1,2014-09-24 18:00:00,Yeni N&#039;Gbakoto,Cross
+1591,39,MissedShots,0.9480000305175781,0.595999984741211,0.0672120749950409,Gaëtan Bussmann,a,354,FromCorner,2014,LeftFoot,6168,Guingamp,Metz,0,1,2014-09-24 18:00:00,Yeni N&#039;Gbakoto,Cross
+1592,42,SavedShot,0.8219999694824218,0.534000015258789,0.07674608379602432,Florent Malouda,a,4737,OpenPlay,2014,LeftFoot,6168,Guingamp,Metz,0,1,2014-09-24 18:00:00,Sergei Krivets,Pass
+1597,50,MissedShots,0.7830000305175782,0.75,0.02049623616039753,Florent Malouda,a,4737,OpenPlay,2014,LeftFoot,6168,Guingamp,Metz,0,1,2014-09-24 18:00:00,Kévin Lejeune,BallRecovery
+1598,53,SavedShot,0.8209999847412109,0.754000015258789,0.029176529496908188,Sergei Krivets,a,4806,OpenPlay,2014,LeftFoot,6168,Guingamp,Metz,0,1,2014-09-24 18:00:00,,Tackle
+1606,87,MissedShots,0.7030000305175781,0.415,0.01744760386645794,Modibo Maiga,a,1029,OpenPlay,2014,RightFoot,6168,Guingamp,Metz,0,1,2014-09-24 18:00:00,Kévin Lejeune,Pass
+1607,90,SavedShot,0.67,0.5120000076293946,0.013216671533882618,Ahmed Kashi,a,4735,OpenPlay,2014,LeftFoot,6168,Guingamp,Metz,0,1,2014-09-24 18:00:00,Modibo Maiga,Pass

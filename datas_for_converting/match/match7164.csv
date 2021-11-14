@@ -1,0 +1,36 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+158939,12,MissedShots,0.7809999847412109,0.5479999923706055,0.03261649236083031,Abdoulaye Doucouré,h,1726,OpenPlay,2017,RightFoot,7164,Watford,Manchester City,0,6,2017-09-16 15:00:00,,None
+158944,23,MissedShots,0.8959999847412109,0.519000015258789,0.17754031717777252,Richarlison,h,6026,SetPiece,2017,Head,7164,Watford,Manchester City,0,6,2017-09-16 15:00:00,José Holebas,Cross
+158950,47,MissedShots,0.8380000305175781,0.27700000762939453,0.027581017464399338,André Carrillo,h,6230,OpenPlay,2017,RightFoot,7164,Watford,Manchester City,0,6,2017-09-16 15:00:00,Daryl Janmaat,BallTouch
+158951,52,SavedShot,0.8780000305175781,0.4929999923706055,0.05328355357050896,Nathaniel Chalobah,h,1677,FromCorner,2017,RightFoot,7164,Watford,Manchester City,0,6,2017-09-16 15:00:00,José Holebas,Cross
+158955,56,BlockedShot,0.774000015258789,0.6790000152587891,0.011817257851362228,Nathaniel Chalobah,h,1677,OpenPlay,2017,RightFoot,7164,Watford,Manchester City,0,6,2017-09-16 15:00:00,,None
+158956,59,MissedShots,0.955999984741211,0.4329999923706055,0.1158824935555458,Richarlison,h,6026,FromCorner,2017,Head,7164,Watford,Manchester City,0,6,2017-09-16 15:00:00,José Holebas,Cross
+158960,71,MissedShots,0.955999984741211,0.4520000076293945,0.3852120637893677,Etienne Capoue,h,572,FromCorner,2017,Head,7164,Watford,Manchester City,0,6,2017-09-16 15:00:00,Richarlison,HeadPass
+158934,0,BlockedShot,0.9319999694824219,0.415,0.110364630818367,David Silva,a,617,OpenPlay,2017,RightFoot,7164,Watford,Manchester City,0,6,2017-09-16 15:00:00,Raheem Sterling,Cross
+158935,5,MissedShots,0.9230000305175782,0.40400001525878904,0.0430225133895874,Fernandinho,a,614,FromCorner,2017,Head,7164,Watford,Manchester City,0,6,2017-09-16 15:00:00,Kevin De Bruyne,Cross
+158936,6,MissedShots,0.785,0.7480000305175781,0.013453345745801926,Benjamin Mendy,a,3389,OpenPlay,2017,LeftFoot,7164,Watford,Manchester City,0,6,2017-09-16 15:00:00,,None
+158937,8,SavedShot,0.7369999694824219,0.37599998474121094,0.015947142615914345,Fernandinho,a,614,OpenPlay,2017,RightFoot,7164,Watford,Manchester City,0,6,2017-09-16 15:00:00,,BallTouch
+158938,10,MissedShots,0.7930000305175782,0.5779999923706055,0.03814484179019928,Kevin De Bruyne,a,447,OpenPlay,2017,RightFoot,7164,Watford,Manchester City,0,6,2017-09-16 15:00:00,David Silva,Pass
+158940,17,BlockedShot,0.8630000305175781,0.47200000762939454,0.07237539440393448,David Silva,a,617,OpenPlay,2017,RightFoot,7164,Watford,Manchester City,0,6,2017-09-16 15:00:00,Kevin De Bruyne,Cross
+158941,19,MissedShots,0.879000015258789,0.4129999923706055,0.06887245178222656,Sergio Agüero,a,619,FromCorner,2017,LeftFoot,7164,Watford,Manchester City,0,6,2017-09-16 15:00:00,,None
+158942,20,BlockedShot,0.7769999694824219,0.764000015258789,0.013925210572779179,Sergio Agüero,a,619,OpenPlay,2017,RightFoot,7164,Watford,Manchester City,0,6,2017-09-16 15:00:00,David Silva,BallRecovery
+158943,22,BlockedShot,0.7580000305175781,0.43,0.01754801534116268,Raheem Sterling,a,618,FromCorner,2017,RightFoot,7164,Watford,Manchester City,0,6,2017-09-16 15:00:00,,None
+158945,26,Goal,0.9119999694824219,0.534000015258789,0.1085253581404686,Sergio Agüero,a,619,SetPiece,2017,Head,7164,Watford,Manchester City,0,6,2017-09-16 15:00:00,Kevin De Bruyne,Cross
+158946,30,Goal,0.9790000152587891,0.495,0.96131432056427,Sergio Agüero,a,619,OpenPlay,2017,RightFoot,7164,Watford,Manchester City,0,6,2017-09-16 15:00:00,David Silva,Pass
+158947,35,SavedShot,0.9219999694824219,0.32799999237060545,0.09832373261451721,Kevin De Bruyne,a,447,OpenPlay,2017,RightFoot,7164,Watford,Manchester City,0,6,2017-09-16 15:00:00,Raheem Sterling,Pass
+158948,37,Goal,0.9169999694824219,0.38799999237060545,0.47700807452201843,Gabriel Jesus,a,5543,OpenPlay,2017,RightFoot,7164,Watford,Manchester City,0,6,2017-09-16 15:00:00,Sergio Agüero,Throughball
+158949,40,MissedShots,0.7380000305175781,0.3920000076293945,0.01547066867351532,Kevin De Bruyne,a,447,SetPiece,2017,RightFoot,7164,Watford,Manchester City,0,6,2017-09-16 15:00:00,David Silva,Pass
+158952,53,MissedShots,0.7709999847412109,0.5879999923706055,0.030356483533978462,Sergio Agüero,a,619,OpenPlay,2017,RightFoot,7164,Watford,Manchester City,0,6,2017-09-16 15:00:00,Benjamin Mendy,Pass
+158953,55,BlockedShot,0.865999984741211,0.639000015258789,0.0928674265742302,Gabriel Jesus,a,5543,OpenPlay,2017,RightFoot,7164,Watford,Manchester City,0,6,2017-09-16 15:00:00,Raheem Sterling,Pass
+158954,55,MissedShots,0.9330000305175781,0.575,0.13822102546691895,Sergio Agüero,a,619,OpenPlay,2017,RightFoot,7164,Watford,Manchester City,0,6,2017-09-16 15:00:00,Benjamin Mendy,Cross
+158957,60,BlockedShot,0.9119999694824219,0.45599998474121095,0.02665146254003048,John Stones,a,586,FromCorner,2017,Head,7164,Watford,Manchester City,0,6,2017-09-16 15:00:00,Kevin De Bruyne,Aerial
+158958,62,SavedShot,0.9169999694824219,0.73,0.06291193515062332,David Silva,a,617,OpenPlay,2017,LeftFoot,7164,Watford,Manchester City,0,6,2017-09-16 15:00:00,Sergio Agüero,Pass
+158959,62,Goal,0.9169999694824219,0.45,0.27732303738594055,Nicolás Otamendi,a,611,FromCorner,2017,Head,7164,Watford,Manchester City,0,6,2017-09-16 15:00:00,David Silva,Cross
+158961,74,MissedShots,0.895,0.3820000076293945,0.11465492099523544,Raheem Sterling,a,618,OpenPlay,2017,RightFoot,7164,Watford,Manchester City,0,6,2017-09-16 15:00:00,Sergio Agüero,Pass
+158962,79,MissedShots,0.935,0.705,0.07850567996501923,Leroy Sané,a,337,OpenPlay,2017,LeftFoot,7164,Watford,Manchester City,0,6,2017-09-16 15:00:00,Ilkay Gündogan,Pass
+158963,80,Goal,0.9590000152587891,0.34299999237060547,0.12211523205041885,Sergio Agüero,a,619,OpenPlay,2017,RightFoot,7164,Watford,Manchester City,0,6,2017-09-16 15:00:00,Kyle Walker,TakeOn
+158964,83,BlockedShot,0.8880000305175781,0.375,0.08442046493291855,Leroy Sané,a,337,OpenPlay,2017,LeftFoot,7164,Watford,Manchester City,0,6,2017-09-16 15:00:00,,None
+158965,84,MissedShots,0.8180000305175781,0.6619999694824219,0.04796001315116882,Raheem Sterling,a,618,OpenPlay,2017,LeftFoot,7164,Watford,Manchester City,0,6,2017-09-16 15:00:00,Bernardo Silva,Pass
+158966,88,Goal,0.885,0.5,0.7611688375473022,Raheem Sterling,a,618,Penalty,2017,RightFoot,7164,Watford,Manchester City,0,6,2017-09-16 15:00:00,,Standard
+158967,90,BlockedShot,0.769000015258789,0.4329999923706055,0.07680249214172363,Ilkay Gündogan,a,314,OpenPlay,2017,RightFoot,7164,Watford,Manchester City,0,6,2017-09-16 15:00:00,Benjamin Mendy,Pass
+158968,92,SavedShot,0.745999984741211,0.445,0.025236882269382477,Sergio Agüero,a,619,OpenPlay,2017,RightFoot,7164,Watford,Manchester City,0,6,2017-09-16 15:00:00,Raheem Sterling,Pass

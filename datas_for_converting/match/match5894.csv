@@ -1,0 +1,13 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+8528,6,MissedShots,0.7380000305175781,0.6140000152587891,0.013463092036545277,Dimitri Payet,h,536,OpenPlay,2014,LeftFoot,5894,Marseille,Paris Saint Germain,2,3,2015-04-05 20:00:00,,None
+8530,15,BlockedShot,0.7609999847412109,0.7240000152587891,0.0455312579870224,Dimitri Payet,h,536,DirectFreekick,2014,RightFoot,5894,Marseille,Paris Saint Germain,2,3,2015-04-05 20:00:00,,Standard
+8531,15,MissedShots,0.7630000305175781,0.705,0.013274332508444786,Dimitri Payet,h,536,OpenPlay,2014,RightFoot,5894,Marseille,Paris Saint Germain,2,3,2015-04-05 20:00:00,,Rebound
+8532,16,MissedShots,0.805,0.485,0.034371256828308105,Mario Lemina,h,1299,FromCorner,2014,RightFoot,5894,Marseille,Paris Saint Germain,2,3,2015-04-05 20:00:00,,None
+8535,29,Goal,0.9469999694824218,0.59,0.3699076473712921,André-Pierre Gignac,h,4747,OpenPlay,2014,Head,5894,Marseille,Paris Saint Germain,2,3,2015-04-05 20:00:00,Dimitri Payet,Aerial
+8537,38,MissedShots,0.7230000305175781,0.36900001525878906,0.04303550347685814,Florian Thauvin,h,942,DirectFreekick,2014,LeftFoot,5894,Marseille,Paris Saint Germain,2,3,2015-04-05 20:00:00,,Standard
+8538,42,Goal,0.8480000305175781,0.395,0.06648541986942291,André-Pierre Gignac,h,4747,OpenPlay,2014,RightFoot,5894,Marseille,Paris Saint Germain,2,3,2015-04-05 20:00:00,Jacques-Alaixys Romao,BallRecovery
+8539,45,MissedShots,0.8880000305175781,0.32799999237060545,0.049479465931653976,André-Pierre Gignac,h,4747,OpenPlay,2014,RightFoot,5894,Marseille,Paris Saint Germain,2,3,2015-04-05 20:00:00,Dimitri Payet,Cross
+8529,10,MissedShots,0.799000015258789,0.36900001525878906,0.11111575365066528,Javier Pastore,a,3295,OpenPlay,2014,RightFoot,5894,Marseille,Paris Saint Germain,2,3,2015-04-05 20:00:00,Marco Verratti,Throughball
+8533,18,BlockedShot,0.9330000305175781,0.5359999847412109,0.11979838460683823,David Luiz,a,1676,FromCorner,2014,LeftFoot,5894,Marseille,Paris Saint Germain,2,3,2015-04-05 20:00:00,Zlatan Ibrahimovic,HeadPass
+8534,18,SavedShot,0.94,0.6869999694824219,0.11088300496339798,Edinson Cavani,a,3294,OpenPlay,2014,LeftFoot,5894,Marseille,Paris Saint Germain,2,3,2015-04-05 20:00:00,Javier Pastore,Throughball
+8536,34,Goal,0.840999984741211,0.634000015258789,0.055076733231544495,Blaise Matuidi,a,3296,OpenPlay,2014,RightFoot,5894,Marseille,Paris Saint Germain,2,3,2015-04-05 20:00:00,Thiago Motta,Pass

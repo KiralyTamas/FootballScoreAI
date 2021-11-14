@@ -1,0 +1,30 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+371924,4,MissedShots,0.8959999847412109,0.495,0.08460298925638199,Murilo Cerqueira,h,7650,SetPiece,2019,Head,11250,Lokomotiv Moscow,CSKA Moscow,2,1,2020-07-16 17:30:00,João Mário,Cross
+371925,8,MissedShots,0.8669999694824219,0.514000015258789,0.024219205603003502,Dimitri Barinov,h,2721,OpenPlay,2019,Head,11250,Lokomotiv Moscow,CSKA Moscow,2,1,2020-07-16 17:30:00,Maciej Rybus,Aerial
+371926,11,MissedShots,0.799000015258789,0.6769999694824219,0.01793629489839077,Dimitri Barinov,h,2721,FromCorner,2019,LeftFoot,11250,Lokomotiv Moscow,CSKA Moscow,2,1,2020-07-16 17:30:00,,None
+371928,12,BlockedShot,0.715999984741211,0.545,0.01551283709704876,Grzegorz Krychowiak,h,2414,OpenPlay,2019,RightFoot,11250,Lokomotiv Moscow,CSKA Moscow,2,1,2020-07-16 17:30:00,Aleksey Miranchuk,Pass
+371933,21,MissedShots,0.749000015258789,0.3870000076293945,0.01750284805893898,Aleksey Miranchuk,h,2711,OpenPlay,2019,LeftFoot,11250,Lokomotiv Moscow,CSKA Moscow,2,1,2020-07-16 17:30:00,,BallRecovery
+371934,26,BlockedShot,0.7709999847412109,0.7180000305175781,0.016843119636178017,João Mário,h,1512,OpenPlay,2019,RightFoot,11250,Lokomotiv Moscow,CSKA Moscow,2,1,2020-07-16 17:30:00,Eder,Pass
+371935,32,Goal,0.885,0.5,0.7542753219604492,Aleksey Miranchuk,h,2711,Penalty,2019,LeftFoot,11250,Lokomotiv Moscow,CSKA Moscow,2,1,2020-07-16 17:30:00,,Standard
+371940,57,MissedShots,0.879000015258789,0.46,0.05744483321905136,Rifat Zhemaletdinov,h,2712,OpenPlay,2019,Head,11250,Lokomotiv Moscow,CSKA Moscow,2,1,2020-07-16 17:30:00,Maciej Rybus,Cross
+371945,72,MissedShots,0.81,0.5309999847412109,0.06059902906417847,Aleksey Miranchuk,h,2711,OpenPlay,2019,LeftFoot,11250,Lokomotiv Moscow,CSKA Moscow,2,1,2020-07-16 17:30:00,Grzegorz Krychowiak,Pass
+371947,77,SavedShot,0.8059999847412109,0.5220000076293946,0.04585130885243416,Grzegorz Krychowiak,h,2414,OpenPlay,2019,RightFoot,11250,Lokomotiv Moscow,CSKA Moscow,2,1,2020-07-16 17:30:00,,None
+371950,85,BlockedShot,0.775,0.740999984741211,0.01870606653392315,Grzegorz Krychowiak,h,2414,OpenPlay,2019,RightFoot,11250,Lokomotiv Moscow,CSKA Moscow,2,1,2020-07-16 17:30:00,Aleksey Miranchuk,Pass
+371951,88,BlockedShot,0.865999984741211,0.47700000762939454,0.02978421188890934,Vedran Corluka,h,2705,SetPiece,2019,Head,11250,Lokomotiv Moscow,CSKA Moscow,2,1,2020-07-16 17:30:00,Aleksey Miranchuk,Cross
+371952,91,Goal,0.885,0.5,0.7542753219604492,Aleksey Miranchuk,h,2711,Penalty,2019,LeftFoot,11250,Lokomotiv Moscow,CSKA Moscow,2,1,2020-07-16 17:30:00,,Standard
+371927,12,MissedShots,0.835,0.265,0.018659651279449463,Alan Dzagoev,a,2881,OpenPlay,2019,RightFoot,11250,Lokomotiv Moscow,CSKA Moscow,2,1,2020-07-16 17:30:00,Nikola Vlasic,Pass
+371929,13,MissedShots,0.8590000152587891,0.3129999923706055,0.03208402544260025,Fedor Chalov,a,5454,OpenPlay,2019,LeftFoot,11250,Lokomotiv Moscow,CSKA Moscow,2,1,2020-07-16 17:30:00,Igor Akinfeev,Pass
+371930,15,BlockedShot,0.7609999847412109,0.32299999237060545,0.014335674233734608,Ivan Oblyakov,a,5442,OpenPlay,2019,LeftFoot,11250,Lokomotiv Moscow,CSKA Moscow,2,1,2020-07-16 17:30:00,Nikola Vlasic,Pass
+371931,20,ShotOnPost,0.675,0.7069999694824218,0.025338711217045784,Igor Diveev,a,6910,DirectFreekick,2019,RightFoot,11250,Lokomotiv Moscow,CSKA Moscow,2,1,2020-07-16 17:30:00,,Standard
+371932,20,MissedShots,0.8130000305175781,0.4929999923706055,0.03671375289559364,Ivan Oblyakov,a,5442,SetPiece,2019,RightFoot,11250,Lokomotiv Moscow,CSKA Moscow,2,1,2020-07-16 17:30:00,,Rebound
+371936,36,BlockedShot,0.7919999694824219,0.545,0.024675171822309494,Ivan Oblyakov,a,5442,FromCorner,2019,RightFoot,11250,Lokomotiv Moscow,CSKA Moscow,2,1,2020-07-16 17:30:00,,None
+371937,45,BlockedShot,0.7130000305175781,0.3129999923706055,0.013118541799485683,Konstantin Maradishvili,a,7521,OpenPlay,2019,RightFoot,11250,Lokomotiv Moscow,CSKA Moscow,2,1,2020-07-16 17:30:00,Ivan Oblyakov,Pass
+371938,48,MissedShots,0.915,0.49900001525878906,0.10105317831039429,Alan Dzagoev,a,2881,OpenPlay,2019,Head,11250,Lokomotiv Moscow,CSKA Moscow,2,1,2020-07-16 17:30:00,Mario Fernandes,Cross
+371939,55,BlockedShot,0.955999984741211,0.549000015258789,0.12523335218429565,Fedor Chalov,a,5454,FromCorner,2019,Head,11250,Lokomotiv Moscow,CSKA Moscow,2,1,2020-07-16 17:30:00,Nikola Vlasic,Cross
+371941,61,MissedShots,0.735,0.44799999237060545,0.04998462274670601,Hördur Bjorgvin Magnusson,a,3924,DirectFreekick,2019,LeftFoot,11250,Lokomotiv Moscow,CSKA Moscow,2,1,2020-07-16 17:30:00,,Standard
+371942,64,SavedShot,0.9059999847412109,0.415,0.03143680840730667,Igor Diveev,a,6910,FromCorner,2019,Head,11250,Lokomotiv Moscow,CSKA Moscow,2,1,2020-07-16 17:30:00,Nikola Vlasic,Cross
+371943,69,MissedShots,0.8009999847412109,0.6559999847412109,0.028870852664113045,Nikola Vlasic,a,6276,OpenPlay,2019,RightFoot,11250,Lokomotiv Moscow,CSKA Moscow,2,1,2020-07-16 17:30:00,Igor Akinfeev,Pass
+371944,70,Goal,0.9330000305175781,0.6140000152587891,0.376921683549881,Nikola Vlasic,a,6276,OpenPlay,2019,LeftFoot,11250,Lokomotiv Moscow,CSKA Moscow,2,1,2020-07-16 17:30:00,,None
+371946,75,BlockedShot,0.745999984741211,0.32,0.04209684580564499,Igor Diveev,a,6910,DirectFreekick,2019,RightFoot,11250,Lokomotiv Moscow,CSKA Moscow,2,1,2020-07-16 17:30:00,,Standard
+371948,82,MissedShots,0.9459999847412109,0.31,0.06318522989749908,Fedor Chalov,a,5454,OpenPlay,2019,RightFoot,11250,Lokomotiv Moscow,CSKA Moscow,2,1,2020-07-16 17:30:00,Mario Fernandes,Pass
+371949,83,BlockedShot,0.700999984741211,0.519000015258789,0.011387244798243046,Ivan Oblyakov,a,5442,OpenPlay,2019,LeftFoot,11250,Lokomotiv Moscow,CSKA Moscow,2,1,2020-07-16 17:30:00,Nikola Vlasic,Pass

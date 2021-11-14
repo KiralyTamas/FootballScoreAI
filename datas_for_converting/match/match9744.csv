@@ -1,0 +1,27 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+254733,10,Goal,0.885,0.5,0.7612988352775574,Manuel Pasqual,h,1309,Penalty,2018,LeftFoot,9744,Empoli,Sampdoria,2,4,2018-12-22 14:00:00,,Standard
+254735,20,BlockedShot,0.8819999694824219,0.6370000076293946,0.08136659860610962,Hamed Junior Traore,h,6986,OpenPlay,2018,RightFoot,9744,Empoli,Sampdoria,2,4,2018-12-22 14:00:00,Matías Silvestre,BallRecovery
+254736,22,MissedShots,0.840999984741211,0.7240000152587891,0.030320661142468452,Manuel Pasqual,h,1309,OpenPlay,2018,LeftFoot,9744,Empoli,Sampdoria,2,4,2018-12-22 14:00:00,Francesco Caputo,Pass
+254738,27,MissedShots,0.8530000305175781,0.625999984741211,0.020717939361929893,Hamed Junior Traore,h,6986,SetPiece,2018,LeftFoot,9744,Empoli,Sampdoria,2,4,2018-12-22 14:00:00,,Aerial
+254741,44,MissedShots,0.86,0.27899999618530275,0.034099627286195755,Francesco Caputo,h,6980,OpenPlay,2018,RightFoot,9744,Empoli,Sampdoria,2,4,2018-12-22 14:00:00,Giovanni Di Lorenzo,Pass
+254750,75,Goal,0.9159999847412109,0.66,0.1085616797208786,Francesco Caputo,h,6980,OpenPlay,2018,LeftFoot,9744,Empoli,Sampdoria,2,4,2018-12-22 14:00:00,Hamed Junior Traore,FormationChange
+254752,82,BlockedShot,0.904000015258789,0.31,0.05200347676873207,Afriyie Acquah,h,1192,OpenPlay,2018,RightFoot,9744,Empoli,Sampdoria,2,4,2018-12-22 14:00:00,,None
+254753,82,SavedShot,0.8130000305175781,0.6719999694824219,0.015475117601454258,Hamed Junior Traore,h,6986,FromCorner,2018,RightFoot,9744,Empoli,Sampdoria,2,4,2018-12-22 14:00:00,,Aerial
+254754,83,MissedShots,0.865,0.425,0.04969879984855652,Frederic Veseli,h,1316,FromCorner,2018,RightFoot,9744,Empoli,Sampdoria,2,4,2018-12-22 14:00:00,Francesco Caputo,Pass
+254758,95,BlockedShot,0.885,0.3729999923706055,0.09702037274837494,Francesco Caputo,h,6980,OpenPlay,2018,LeftFoot,9744,Empoli,Sampdoria,2,4,2018-12-22 14:00:00,Salih Ucan,TakeOn
+254734,15,MissedShots,0.9619999694824218,0.519000015258789,0.6704434752464294,Fabio Quagliarella,a,1230,OpenPlay,2018,RightFoot,9744,Empoli,Sampdoria,2,4,2018-12-22 14:00:00,Dennis Praet,Pass
+254737,24,SavedShot,0.8169999694824219,0.6990000152587891,0.023532656952738762,Fabio Quagliarella,a,1230,FromCorner,2018,RightFoot,9744,Empoli,Sampdoria,2,4,2018-12-22 14:00:00,Karol Linetty,Pass
+254739,31,SavedShot,0.769000015258789,0.62,0.026203513145446777,Gastón Ramírez,a,952,OpenPlay,2018,LeftFoot,9744,Empoli,Sampdoria,2,4,2018-12-22 14:00:00,Fabio Quagliarella,Pass
+254740,40,Goal,0.899000015258789,0.6880000305175781,0.06393491476774216,Gastón Ramírez,a,952,OpenPlay,2018,LeftFoot,9744,Empoli,Sampdoria,2,4,2018-12-22 14:00:00,Gregoire Defrel,TakeOn
+254742,47,SavedShot,0.6869999694824219,0.5990000152587891,0.011366710066795349,Karol Linetty,a,1226,OpenPlay,2018,LeftFoot,9744,Empoli,Sampdoria,2,4,2018-12-22 14:00:00,Gastón Ramírez,Pass
+254743,49,SavedShot,0.955999984741211,0.4879999923706055,0.13314060866832733,Lorenzo Tonelli,a,1394,FromCorner,2018,Head,9744,Empoli,Sampdoria,2,4,2018-12-22 14:00:00,Dennis Praet,Cross
+254744,54,SavedShot,0.7759999847412109,0.43900001525878907,0.02878347784280777,Fabio Quagliarella,a,1230,OpenPlay,2018,RightFoot,9744,Empoli,Sampdoria,2,4,2018-12-22 14:00:00,,None
+254745,63,BlockedShot,0.7709999847412109,0.6859999847412109,0.01814190484583378,Gregoire Defrel,a,1468,OpenPlay,2018,LeftFoot,9744,Empoli,Sampdoria,2,4,2018-12-22 14:00:00,Albin Ekdal,BlockedPass
+254746,63,MissedShots,0.955,0.3609999847412109,0.038920819759368896,Fabio Quagliarella,a,1230,OpenPlay,2018,RightFoot,9744,Empoli,Sampdoria,2,4,2018-12-22 14:00:00,Gastón Ramírez,Cross
+254747,67,MissedShots,0.92,0.4640000152587891,0.32942137122154236,Fabio Quagliarella,a,1230,OpenPlay,2018,Head,9744,Empoli,Sampdoria,2,4,2018-12-22 14:00:00,Nicola Murru,Cross
+254748,68,Goal,0.9340000152587891,0.5270000076293946,0.07220537960529327,Fabio Quagliarella,a,1230,OpenPlay,2018,Head,9744,Empoli,Sampdoria,2,4,2018-12-22 14:00:00,Nicola Murru,Aerial
+254749,74,SavedShot,0.905,0.49900001525878906,0.2900419533252716,Joachim Andersen,a,6314,SetPiece,2018,Head,9744,Empoli,Sampdoria,2,4,2018-12-22 14:00:00,Jacopo Sala,Cross
+254751,80,BlockedShot,0.74,0.7290000152587891,0.01108852494508028,Nicola Murru,a,1400,OpenPlay,2018,LeftFoot,9744,Empoli,Sampdoria,2,4,2018-12-22 14:00:00,Karol Linetty,Pass
+254755,86,Goal,0.855,0.3840000152587891,0.08100959658622742,Gianluca Caprari,a,1170,OpenPlay,2018,RightFoot,9744,Empoli,Sampdoria,2,4,2018-12-22 14:00:00,Riccardo Saponara,LayOff
+254756,90,Goal,0.9219999694824219,0.7769999694824219,0.035691842436790466,Gianluca Caprari,a,1170,OpenPlay,2018,LeftFoot,9744,Empoli,Sampdoria,2,4,2018-12-22 14:00:00,Nicola Murru,Pass
+254757,93,SavedShot,0.825,0.4929999923706055,0.066766656935215,Gianluca Caprari,a,1170,OpenPlay,2018,RightFoot,9744,Empoli,Sampdoria,2,4,2018-12-22 14:00:00,,None

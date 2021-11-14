@@ -1,0 +1,36 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+190145,4,Goal,0.960999984741211,0.5159999847412109,0.5087530612945557,Víctor Ruiz,h,2298,FromCorner,2017,Head,8079,Villarreal,Real Sociedad,4,2,2018-01-27 19:45:00,Samu Castillejo,Cross
+190146,16,Goal,0.909000015258789,0.4279999923706055,0.45214009284973145,Pablo Fornals,h,2335,OpenPlay,2017,RightFoot,8079,Villarreal,Real Sociedad,4,2,2018-01-27 19:45:00,Carlos Bacca,Pass
+190149,19,Goal,0.9730000305175781,0.42400001525878905,0.8966265320777893,Carlos Bacca,h,1125,OpenPlay,2017,RightFoot,8079,Villarreal,Real Sociedad,4,2,2018-01-27 19:45:00,Enes Ünal,TakeOn
+190152,26,MissedShots,0.7219999694824218,0.36,0.01703876443207264,Samu Castillejo,h,2303,OpenPlay,2017,LeftFoot,8079,Villarreal,Real Sociedad,4,2,2018-01-27 19:45:00,Pablo Fornals,Pass
+190157,33,Goal,0.8919999694824219,0.265,0.0571458674967289,Samu Castillejo,h,2303,OpenPlay,2017,LeftFoot,8079,Villarreal,Real Sociedad,4,2,2018-01-27 19:45:00,Pablo Fornals,Pass
+190159,39,MissedShots,0.89,0.519000015258789,0.031259454786777496,Samu Castillejo,h,2303,OpenPlay,2017,Head,8079,Villarreal,Real Sociedad,4,2,2018-01-27 19:45:00,Pablo Fornals,Aerial
+190162,45,SavedShot,0.8030000305175782,0.4809999847412109,0.06608928740024567,Pablo Fornals,h,2335,OpenPlay,2017,LeftFoot,8079,Villarreal,Real Sociedad,4,2,2018-01-27 19:45:00,Jaume Costa,Pass
+190170,69,SavedShot,0.8830000305175781,0.6780000305175782,0.08044558018445969,Enes Ünal,h,6219,OpenPlay,2017,RightFoot,8079,Villarreal,Real Sociedad,4,2,2018-01-27 19:45:00,Denis Cheryshev,HeadPass
+190171,75,MissedShots,0.7669999694824219,0.39799999237060546,0.07855614274740219,Enes Ünal,h,6219,DirectFreekick,2017,RightFoot,8079,Villarreal,Real Sociedad,4,2,2018-01-27 19:45:00,,Standard
+190173,76,MissedShots,0.89,0.7080000305175781,0.08665329962968826,Denis Cheryshev,h,2494,OpenPlay,2017,LeftFoot,8079,Villarreal,Real Sociedad,4,2,2018-01-27 19:45:00,Manu Trigueros,Chipped
+190177,85,SavedShot,0.7269999694824218,0.20600000381469727,0.01859397068619728,Mario,h,2296,OpenPlay,2017,RightFoot,8079,Villarreal,Real Sociedad,4,2,2018-01-27 19:45:00,Daniele Bonera,TakeOn
+190147,18,BlockedShot,0.87,0.40400001525878904,0.026222459971904755,Raúl Navas,a,4130,FromCorner,2017,Head,8079,Villarreal,Real Sociedad,4,2,2018-01-27 19:45:00,Adnan Januzaj,Rebound
+190148,18,BlockedShot,0.8219999694824218,0.534000015258789,0.045338548719882965,Asier Illarramendi,a,2232,FromCorner,2017,RightFoot,8079,Villarreal,Real Sociedad,4,2,2018-01-27 19:45:00,Raúl Navas,None
+190150,20,SavedShot,0.73,0.4570000076293945,0.01633693091571331,Mikel Oyarzabal,a,2234,OpenPlay,2017,LeftFoot,8079,Villarreal,Real Sociedad,4,2,2018-01-27 19:45:00,Xabi Prieto,Pass
+190151,23,Goal,0.8680000305175781,0.4779999923706055,0.04881108179688454,Diego Llorente,a,2163,SetPiece,2017,Head,8079,Villarreal,Real Sociedad,4,2,2018-01-27 19:45:00,Asier Illarramendi,Chipped
+190153,27,MissedShots,0.8019999694824219,0.6580000305175782,0.014064827002584934,Igor Zubeldia,a,2417,OpenPlay,2017,RightFoot,8079,Villarreal,Real Sociedad,4,2,2018-01-27 19:45:00,,Aerial
+190154,28,MissedShots,0.9059999847412109,0.43400001525878906,0.04586530849337578,Xabi Prieto,a,2233,OpenPlay,2017,Head,8079,Villarreal,Real Sociedad,4,2,2018-01-27 19:45:00,Iñigo Martínez,Chipped
+190155,30,BlockedShot,0.8590000152587891,0.44099998474121094,0.022321505472064018,Willian José,a,2361,OpenPlay,2017,Head,8079,Villarreal,Real Sociedad,4,2,2018-01-27 19:45:00,Asier Illarramendi,Cross
+190156,30,BlockedShot,0.830999984741211,0.5459999847412109,0.04483519122004509,Mikel Oyarzabal,a,2234,OpenPlay,2017,LeftFoot,8079,Villarreal,Real Sociedad,4,2,2018-01-27 19:45:00,,Rebound
+190158,38,BlockedShot,0.8319999694824218,0.705999984741211,0.029330743476748466,Adnan Januzaj,a,323,OpenPlay,2017,RightFoot,8079,Villarreal,Real Sociedad,4,2,2018-01-27 19:45:00,Mikel Oyarzabal,Pass
+190160,41,BlockedShot,0.8669999694824219,0.605,0.0827278196811676,Willian José,a,2361,OpenPlay,2017,RightFoot,8079,Villarreal,Real Sociedad,4,2,2018-01-27 19:45:00,Adnan Januzaj,Pass
+190161,41,MissedShots,0.8730000305175781,0.485,0.01456894539296627,Iñigo Martínez,a,2484,FromCorner,2017,Head,8079,Villarreal,Real Sociedad,4,2,2018-01-27 19:45:00,Adnan Januzaj,Aerial
+190163,50,MissedShots,0.8969999694824219,0.55,0.09058599919080734,Mikel Oyarzabal,a,2234,OpenPlay,2017,Head,8079,Villarreal,Real Sociedad,4,2,2018-01-27 19:45:00,Iñigo Martínez,Cross
+190164,52,SavedShot,0.8909999847412109,0.40400001525878904,0.051051970571279526,Xabi Prieto,a,2233,OpenPlay,2017,RightFoot,8079,Villarreal,Real Sociedad,4,2,2018-01-27 19:45:00,,Aerial
+190165,53,BlockedShot,0.7559999847412109,0.39799999237060546,0.01774468459188938,Asier Illarramendi,a,2232,FromCorner,2017,RightFoot,8079,Villarreal,Real Sociedad,4,2,2018-01-27 19:45:00,,None
+190166,57,Goal,0.76,0.5840000152587891,0.024700313806533813,Willian José,a,2361,OpenPlay,2017,LeftFoot,8079,Villarreal,Real Sociedad,4,2,2018-01-27 19:45:00,Igor Zubeldia,Pass
+190167,59,MissedShots,0.955,0.3890000152587891,0.04752231389284134,Willian José,a,2361,OpenPlay,2017,Head,8079,Villarreal,Real Sociedad,4,2,2018-01-27 19:45:00,Xabi Prieto,Pass
+190168,62,MissedShots,0.775,0.6229999923706054,0.021793419495224953,Igor Zubeldia,a,2417,OpenPlay,2017,RightFoot,8079,Villarreal,Real Sociedad,4,2,2018-01-27 19:45:00,Willian José,Pass
+190169,69,MissedShots,0.9540000152587891,0.3529999923706055,0.03634636849164963,Mikel Oyarzabal,a,2234,OpenPlay,2017,LeftFoot,8079,Villarreal,Real Sociedad,4,2,2018-01-27 19:45:00,Álvaro Odriozola,Cross
+190172,76,BlockedShot,0.764000015258789,0.59,0.022389642894268036,Sergio Canales,a,2571,OpenPlay,2017,LeftFoot,8079,Villarreal,Real Sociedad,4,2,2018-01-27 19:45:00,Álvaro Odriozola,TakeOn
+190174,78,SavedShot,0.799000015258789,0.3089999961853027,0.0196986086666584,Raúl Navas,a,4130,SetPiece,2017,LeftFoot,8079,Villarreal,Real Sociedad,4,2,2018-01-27 19:45:00,,Dispossessed
+190175,84,BlockedShot,0.7280000305175781,0.33599998474121096,0.010157518088817596,Sergio Canales,a,2571,OpenPlay,2017,LeftFoot,8079,Villarreal,Real Sociedad,4,2,2018-01-27 19:45:00,Álvaro Odriozola,TakeOn
+190176,84,MissedShots,0.8430000305175781,0.43900001525878907,0.06558769941329956,Sergio Canales,a,2571,OpenPlay,2017,LeftFoot,8079,Villarreal,Real Sociedad,4,2,2018-01-27 19:45:00,Willian José,BallTouch
+190178,87,MissedShots,0.8780000305175781,0.6020000076293945,0.04912279173731804,Willian José,a,2361,OpenPlay,2017,RightFoot,8079,Villarreal,Real Sociedad,4,2,2018-01-27 19:45:00,Álvaro Odriozola,Chipped
+190179,92,SavedShot,0.9540000152587891,0.6179999923706054,0.05866342782974243,Mikel Oyarzabal,a,2234,OpenPlay,2017,LeftFoot,8079,Villarreal,Real Sociedad,4,2,2018-01-27 19:45:00,Willian José,Chipped

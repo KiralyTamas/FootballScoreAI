@@ -1,0 +1,30 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+213174,2,SavedShot,0.9130000305175782,0.6659999847412109,0.28416502475738525,Simon Terodde,h,6090,OpenPlay,2017,RightFoot,8552,FC Cologne,Bayern Munich,1,3,2018-05-05 14:30:00,Jonas Hector,HeadPass
+213177,8,MissedShots,0.9269999694824219,0.5209999847412109,0.3909175395965576,Simon Terodde,h,6090,OpenPlay,2017,Head,8552,FC Cologne,Bayern Munich,1,3,2018-05-05 14:30:00,Christian Clemens,Cross
+213178,9,SavedShot,0.8519999694824218,0.7759999847412109,0.024244023486971855,Christian Clemens,h,49,OpenPlay,2017,RightFoot,8552,FC Cologne,Bayern Munich,1,3,2018-05-05 14:30:00,Jonas Hector,Pass
+213179,10,MissedShots,0.925,0.6909999847412109,0.2802140414714813,Simon Zoller,h,139,OpenPlay,2017,RightFoot,8552,FC Cologne,Bayern Munich,1,3,2018-05-05 14:30:00,Dominique Heintz,Chipped
+213182,21,MissedShots,0.9219999694824219,0.29399999618530276,0.07459381222724915,Marcel Risse,h,134,OpenPlay,2017,LeftFoot,8552,FC Cologne,Bayern Munich,1,3,2018-05-05 14:30:00,Simon Zoller,Pass
+213186,29,MissedShots,0.93,0.43099998474121093,0.3347271978855133,Simon Zoller,h,139,OpenPlay,2017,LeftFoot,8552,FC Cologne,Bayern Munich,1,3,2018-05-05 14:30:00,Christian Clemens,Cross
+213198,79,BlockedShot,0.755,0.43,0.014892774634063244,Marco Höger,h,427,SetPiece,2017,RightFoot,8552,FC Cologne,Bayern Munich,1,3,2018-05-05 14:30:00,,None
+213199,79,BlockedShot,0.9,0.3940000152587891,0.08894896507263184,Jhon Córdoba,h,48,SetPiece,2017,RightFoot,8552,FC Cologne,Bayern Munich,1,3,2018-05-05 14:30:00,,Rebound
+213200,80,MissedShots,0.9530000305175781,0.39599998474121095,0.054091766476631165,Claudio Pizarro,h,122,FromCorner,2017,Head,8552,FC Cologne,Bayern Munich,1,3,2018-05-05 14:30:00,Marcel Risse,Cross
+213201,82,MissedShots,0.889000015258789,0.4,0.0926642119884491,Claudio Pizarro,h,122,SetPiece,2017,LeftFoot,8552,FC Cologne,Bayern Munich,1,3,2018-05-05 14:30:00,Milos Jojic,Pass
+213202,87,SavedShot,0.875,0.5990000152587891,0.29916608333587646,Claudio Pizarro,h,122,OpenPlay,2017,LeftFoot,8552,FC Cologne,Bayern Munich,1,3,2018-05-05 14:30:00,Milos Jojic,Pass
+213175,7,BlockedShot,0.9209999847412109,0.655,0.012235372327268124,Franck Evina,a,6710,OpenPlay,2017,Head,8552,FC Cologne,Bayern Munich,1,3,2018-05-05 14:30:00,Thomas Müller,Cross
+213176,8,MissedShots,0.9309999847412109,0.42700000762939455,0.03185276314616203,Javi Martínez,a,225,FromCorner,2017,Head,8552,FC Cologne,Bayern Munich,1,3,2018-05-05 14:30:00,James Rodríguez,Aerial
+213180,14,SavedShot,0.9080000305175782,0.38299999237060545,0.012547260150313377,Niklas Süle,a,75,FromCorner,2017,Head,8552,FC Cologne,Bayern Munich,1,3,2018-05-05 14:30:00,James Rodríguez,Aerial
+213181,21,BlockedShot,0.81,0.17899999618530274,0.04252420365810394,James Rodríguez,a,2249,DirectFreekick,2017,LeftFoot,8552,FC Cologne,Bayern Munich,1,3,2018-05-05 14:30:00,,Standard
+213183,23,BlockedShot,0.9,0.3160000038146973,0.05470700189471245,Sebastian Rudy,a,90,OpenPlay,2017,RightFoot,8552,FC Cologne,Bayern Munich,1,3,2018-05-05 14:30:00,,None
+213184,24,SavedShot,0.94,0.46299999237060546,0.40699243545532227,Robert Lewandowski,a,227,FromCorner,2017,Head,8552,FC Cologne,Bayern Munich,1,3,2018-05-05 14:30:00,Joshua Kimmich,Cross
+213185,28,MissedShots,0.9569999694824218,0.325,0.015568689443171024,Robert Lewandowski,a,227,SetPiece,2017,Head,8552,FC Cologne,Bayern Munich,1,3,2018-05-05 14:30:00,James Rodríguez,Cross
+213187,29,OwnGoal,0.06699999809265136,0.555,0,Niklas Süle,a,75,OpenPlay,2017,LeftFoot,8552,FC Cologne,Bayern Munich,1,3,2018-05-05 14:30:00,,Dispossessed
+213188,31,MissedShots,0.899000015258789,0.69,0.047581687569618225,Robert Lewandowski,a,227,OpenPlay,2017,LeftFoot,8552,FC Cologne,Bayern Munich,1,3,2018-05-05 14:30:00,James Rodríguez,Pass
+213189,40,SavedShot,0.7730000305175782,0.34200000762939453,0.022755520418286324,Thomas Müller,a,224,OpenPlay,2017,RightFoot,8552,FC Cologne,Bayern Munich,1,3,2018-05-05 14:30:00,Mats Hummels,Pass
+213190,41,SavedShot,0.9409999847412109,0.5370000076293945,0.4372127056121826,Robert Lewandowski,a,227,OpenPlay,2017,Head,8552,FC Cologne,Bayern Munich,1,3,2018-05-05 14:30:00,James Rodríguez,Cross
+213191,55,SavedShot,0.8930000305175781,0.5179999923706055,0.11303921043872833,Robert Lewandowski,a,227,OpenPlay,2017,RightFoot,8552,FC Cologne,Bayern Munich,1,3,2018-05-05 14:30:00,Thiago Alcántara,Pass
+213192,58,Goal,0.9430000305175781,0.48200000762939454,0.5483165383338928,James Rodríguez,a,2249,OpenPlay,2017,LeftFoot,8552,FC Cologne,Bayern Munich,1,3,2018-05-05 14:30:00,Thomas Müller,HeadPass
+213193,60,Goal,0.904000015258789,0.519000015258789,0.4614792764186859,Robert Lewandowski,a,227,OpenPlay,2017,RightFoot,8552,FC Cologne,Bayern Munich,1,3,2018-05-05 14:30:00,Thomas Müller,Pass
+213194,65,SavedShot,0.750999984741211,0.21299999237060546,0.018709558993577957,Sebastian Rudy,a,90,OpenPlay,2017,RightFoot,8552,FC Cologne,Bayern Munich,1,3,2018-05-05 14:30:00,Thiago Alcántara,Pass
+213195,66,MissedShots,0.8780000305175781,0.4909999847412109,0.09622137993574142,Thiago Alcántara,a,229,OpenPlay,2017,RightFoot,8552,FC Cologne,Bayern Munich,1,3,2018-05-05 14:30:00,Thomas Müller,Cross
+213196,74,MissedShots,0.9269999694824219,0.545,0.08582672476768494,Robert Lewandowski,a,227,OpenPlay,2017,Head,8552,FC Cologne,Bayern Munich,1,3,2018-05-05 14:30:00,Joshua Kimmich,Aerial
+213197,77,Goal,0.925,0.5609999847412109,0.35281845927238464,Corentin Tolisso,a,3603,OpenPlay,2017,Head,8552,FC Cologne,Bayern Munich,1,3,2018-05-05 14:30:00,James Rodríguez,Cross

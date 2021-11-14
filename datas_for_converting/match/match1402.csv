@@ -1,0 +1,23 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+83998,2,MissedShots,0.8919999694824219,0.735999984741211,0.042105939239263535,Antoine Griezmann,h,2270,OpenPlay,2015,LeftFoot,1402,Atletico Madrid,Las Palmas,1,0,2015-08-22 22:30:00,Koke,Chipped
+83999,3,MissedShots,0.9309999847412109,0.5840000152587891,0.1049773320555687,Tiago,h,2273,OpenPlay,2015,Head,1402,Atletico Madrid,Las Palmas,1,0,2015-08-22 22:30:00,Juanfran,Cross
+84000,15,Goal,0.755,0.42400001525878905,0.07285067439079285,Antoine Griezmann,h,2270,DirectFreekick,2015,LeftFoot,1402,Atletico Madrid,Las Palmas,1,0,2015-08-22 22:30:00,,Standard
+84002,39,MissedShots,0.825999984741211,0.6430000305175781,0.02315264381468296,Filipe Luis,h,2265,OpenPlay,2015,LeftFoot,1402,Atletico Madrid,Las Palmas,1,0,2015-08-22 22:30:00,,Aerial
+84003,39,MissedShots,0.9269999694824219,0.49700000762939456,0.15102675557136536,Koke,h,2269,OpenPlay,2015,LeftFoot,1402,Atletico Madrid,Las Palmas,1,0,2015-08-22 22:30:00,Filipe Luis,Rebound
+84004,44,SavedShot,0.8809999847412109,0.30700000762939456,0.07783195376396179,Antoine Griezmann,h,2270,OpenPlay,2015,RightFoot,1402,Atletico Madrid,Las Palmas,1,0,2015-08-22 22:30:00,Óliver Torres,TakeOn
+84005,45,BlockedShot,0.919000015258789,0.45,0.1254063844680786,Koke,h,2269,OpenPlay,2015,RightFoot,1402,Atletico Madrid,Las Palmas,1,0,2015-08-22 22:30:00,Antoine Griezmann,BallTouch
+84007,50,MissedShots,0.799000015258789,0.6569999694824219,0.03468892723321915,Filipe Luis,h,2265,OpenPlay,2015,LeftFoot,1402,Atletico Madrid,Las Palmas,1,0,2015-08-22 22:30:00,Koke,Pass
+84009,59,MissedShots,0.794000015258789,0.6569999694824219,0.012698118574917316,Óliver Torres,h,2424,SetPiece,2015,RightFoot,1402,Atletico Madrid,Las Palmas,1,0,2015-08-22 22:30:00,,Aerial
+84010,68,BlockedShot,0.9390000152587891,0.67,0.07609869539737701,Ángel Correa,h,2275,OpenPlay,2015,RightFoot,1402,Atletico Madrid,Las Palmas,1,0,2015-08-22 22:30:00,,None
+84015,76,SavedShot,0.81,0.7269999694824218,0.030861012637615204,Ángel Correa,h,2275,OpenPlay,2015,RightFoot,1402,Atletico Madrid,Las Palmas,1,0,2015-08-22 22:30:00,Tiago,Pass
+84016,77,MissedShots,0.9640000152587891,0.6819999694824219,0.05410546064376831,Filipe Luis,h,2265,OpenPlay,2015,LeftFoot,1402,Atletico Madrid,Las Palmas,1,0,2015-08-22 22:30:00,Fernando Torres,TakeOn
+84018,87,BlockedShot,0.749000015258789,0.285,0.023886585608124733,Raúl García,h,2400,OpenPlay,2015,LeftFoot,1402,Atletico Madrid,Las Palmas,1,0,2015-08-22 22:30:00,Tiago,Pass
+84019,89,ShotOnPost,0.7819999694824219,0.5970000076293945,0.09376651793718338,Koke,h,2269,DirectFreekick,2015,RightFoot,1402,Atletico Madrid,Las Palmas,1,0,2015-08-22 22:30:00,,Standard
+84001,24,MissedShots,0.6809999847412109,0.41200000762939454,0.009341441094875336,Roque Mesa,a,2356,OpenPlay,2015,RightFoot,1402,Atletico Madrid,Las Palmas,1,0,2015-08-22 22:30:00,,None
+84006,48,MissedShots,0.7269999694824218,0.62,0.01109861209988594,Dani Castellano,a,2355,OpenPlay,2015,RightFoot,1402,Atletico Madrid,Las Palmas,1,0,2015-08-22 22:30:00,Antolin Alcaraz,Chipped
+84008,57,ShotOnPost,0.965999984741211,0.39799999237060546,0.1485382616519928,David Simón,a,2364,SetPiece,2015,Head,1402,Atletico Madrid,Las Palmas,1,0,2015-08-22 22:30:00,Jonathan Viera,Cross
+84011,70,BlockedShot,0.9259999847412109,0.519000015258789,0.1183929368853569,Pedro Bigas,a,2353,FromCorner,2015,Head,1402,Atletico Madrid,Las Palmas,1,0,2015-08-22 22:30:00,Momo,Cross
+84012,71,BlockedShot,0.8430000305175781,0.6329999923706054,0.026135466992855072,Sergio Araujo,a,2365,FromCorner,2015,LeftFoot,1402,Atletico Madrid,Las Palmas,1,0,2015-08-22 22:30:00,,TakeOn
+84013,71,BlockedShot,0.7930000305175782,0.6840000152587891,0.028285346925258636,Javi Castellano,a,2622,FromCorner,2015,RightFoot,1402,Atletico Madrid,Las Palmas,1,0,2015-08-22 22:30:00,,Rebound
+84014,71,SavedShot,0.9369999694824219,0.575,0.04945670813322067,Aythami,a,2461,FromCorner,2015,OtherBodyPart,1402,Atletico Madrid,Las Palmas,1,0,2015-08-22 22:30:00,Jonathan Viera,Cross
+84017,82,MissedShots,0.95,0.46599998474121096,0.13200552761554718,Aythami,a,2461,FromCorner,2015,Head,1402,Atletico Madrid,Las Palmas,1,0,2015-08-22 22:30:00,Jonathan Viera,Cross

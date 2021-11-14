@@ -1,0 +1,24 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+367806,1,SavedShot,0.784000015258789,0.63,0.04341739043593407,Luis Suárez,h,2098,OpenPlay,2019,RightFoot,12344,Barcelona,Atletico Madrid,2,2,2020-06-30 20:00:00,Riqui Puig,Pass
+367807,7,BlockedShot,0.715,0.48200000762939454,0.015251480974256992,Lionel Messi,h,2097,OpenPlay,2019,LeftFoot,12344,Barcelona,Atletico Madrid,2,2,2020-06-30 20:00:00,Arturo Vidal,Pass
+367808,7,SavedShot,0.74,0.6669999694824219,0.015183697454631329,Ivan Rakitic,h,2094,OpenPlay,2019,RightFoot,12344,Barcelona,Atletico Madrid,2,2,2020-06-30 20:00:00,,BallRecovery
+367810,10,BlockedShot,0.9569999694824218,0.17399999618530274,0.07226018607616425,Lionel Messi,h,2097,DirectFreekick,2019,LeftFoot,12344,Barcelona,Atletico Madrid,2,2,2020-06-30 20:00:00,,Standard
+367813,21,ShotOnPost,0.8490000152587891,0.2989999961853027,0.038604140281677246,Lionel Messi,h,2097,OpenPlay,2019,LeftFoot,12344,Barcelona,Atletico Madrid,2,2,2020-06-30 20:00:00,Arturo Vidal,Pass
+367814,29,MissedShots,0.8109999847412109,0.525,0.05888613685965538,Lionel Messi,h,2097,OpenPlay,2019,LeftFoot,12344,Barcelona,Atletico Madrid,2,2,2020-06-30 20:00:00,Jordi Alba,Pass
+367816,41,SavedShot,0.7609999847412109,0.34200000762939453,0.06296030431985855,Lionel Messi,h,2097,DirectFreekick,2019,LeftFoot,12344,Barcelona,Atletico Madrid,2,2,2020-06-30 20:00:00,,Standard
+367818,49,Goal,0.885,0.5,0.7432776093482971,Lionel Messi,h,2097,Penalty,2019,LeftFoot,12344,Barcelona,Atletico Madrid,2,2,2020-06-30 20:00:00,,Standard
+367820,56,SavedShot,0.8719999694824219,0.5329999923706055,0.09921376407146454,Riqui Puig,h,7548,OpenPlay,2019,RightFoot,12344,Barcelona,Atletico Madrid,2,2,2020-06-30 20:00:00,Lionel Messi,Chipped
+367822,70,MissedShots,0.82,0.4929999923706055,0.06384772807359695,Arturo Vidal,h,222,OpenPlay,2019,RightFoot,12344,Barcelona,Atletico Madrid,2,2,2020-06-30 20:00:00,Nélson Semedo,Pass
+367824,74,MissedShots,0.955,0.46299999237060546,0.5135224461555481,Arturo Vidal,h,222,OpenPlay,2019,Head,12344,Barcelona,Atletico Madrid,2,2,2020-06-30 20:00:00,Jordi Alba,Aerial
+367825,80,MissedShots,0.9269999694824219,0.40400001525878904,0.08086390793323517,Sergio Busquets,h,2095,SetPiece,2019,Head,12344,Barcelona,Atletico Madrid,2,2,2020-06-30 20:00:00,Lionel Messi,Cross
+367809,8,BlockedShot,0.8830000305175781,0.580999984741211,0.06418637186288834,Marcos Llorente,a,2518,OpenPlay,2019,LeftFoot,12344,Barcelona,Atletico Madrid,2,2,2020-06-30 20:00:00,Renan Lodi,Cross
+367811,10,OwnGoal,0.020999999046325685,0.5690000152587891,0,Diego Costa,a,802,FromCorner,2019,RightFoot,12344,Barcelona,Atletico Madrid,2,2,2020-06-30 20:00:00,,CornerAwarded
+367812,18,Goal,0.885,0.5,0.7432776093482971,Saúl Ñíguez,a,2266,Penalty,2019,LeftFoot,12344,Barcelona,Atletico Madrid,2,2,2020-06-30 20:00:00,,Standard
+367815,37,BlockedShot,0.754000015258789,0.5359999847412109,0.024597009643912315,Marcos Llorente,a,2518,OpenPlay,2019,RightFoot,12344,Barcelona,Atletico Madrid,2,2,2020-06-30 20:00:00,Diego Costa,Pass
+367817,47,BlockedShot,0.7780000305175782,0.5729999923706055,0.03772095963358879,Yannick Carrasco,a,2272,OpenPlay,2019,RightFoot,12344,Barcelona,Atletico Madrid,2,2,2020-06-30 20:00:00,Thomas Partey,TakeOn
+367819,55,MissedShots,0.924000015258789,0.5129999923706055,0.05894727259874344,Diego Costa,a,802,OpenPlay,2019,Head,12344,Barcelona,Atletico Madrid,2,2,2020-06-30 20:00:00,Santiago Arias,Aerial
+367821,61,Goal,0.885,0.5,0.7432776093482971,Saúl Ñíguez,a,2266,Penalty,2019,LeftFoot,12344,Barcelona,Atletico Madrid,2,2,2020-06-30 20:00:00,,Standard
+367823,72,SavedShot,0.8190000152587891,0.769000015258789,0.017828628420829773,João Félix,a,7892,OpenPlay,2019,RightFoot,12344,Barcelona,Atletico Madrid,2,2,2020-06-30 20:00:00,Renan Lodi,Pass
+367826,83,MissedShots,0.6029999923706054,0.9469999694824218,0.0078775929287076,Renan Lodi,a,7891,OpenPlay,2019,LeftFoot,12344,Barcelona,Atletico Madrid,2,2,2020-06-30 20:00:00,Saúl Ñíguez,Pass
+367827,86,BlockedShot,0.9030000305175782,0.715,0.039248473942279816,Álvaro Morata,a,1804,OpenPlay,2019,RightFoot,12344,Barcelona,Atletico Madrid,2,2,2020-06-30 20:00:00,Vitolo,TakeOn
+367828,90,MissedShots,0.8019999694824219,0.4620000076293945,0.044318921864032745,Thomas Partey,a,2328,OpenPlay,2019,RightFoot,12344,Barcelona,Atletico Madrid,2,2,2020-06-30 20:00:00,João Félix,Pass

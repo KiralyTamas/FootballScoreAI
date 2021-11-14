@@ -1,0 +1,24 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+3542,14,SavedShot,0.9480000305175781,0.455,0.4812840521335602,Nicolas de Preville,h,3244,OpenPlay,2014,RightFoot,5965,Reims,Lorient,1,3,2015-02-07 19:00:00,Diego,Cross
+3544,24,MissedShots,0.7669999694824219,0.799000015258789,0.013848550617694855,Gaëtan Charbonnier,h,3243,OpenPlay,2014,RightFoot,5965,Reims,Lorient,1,3,2015-02-07 19:00:00,Nicolas de Preville,Pass
+3545,26,MissedShots,0.884000015258789,0.175,0.019861746579408646,Diego,h,3242,OpenPlay,2014,LeftFoot,5965,Reims,Lorient,1,3,2015-02-07 19:00:00,Franck Signorino,Chipped
+3550,41,Goal,0.9259999847412109,0.44299999237060544,0.3497929573059082,Benjamin Moukandjo,h,3570,OpenPlay,2014,RightFoot,5965,Reims,Lorient,1,3,2015-02-07 19:00:00,Diego,Cross
+3551,46,SavedShot,0.8390000152587891,0.675,0.04938897117972374,Nicolas de Preville,h,3244,OpenPlay,2014,RightFoot,5965,Reims,Lorient,1,3,2015-02-07 19:00:00,Franck Signorino,Pass
+3553,49,SavedShot,0.895,0.3629999923706055,0.29918327927589417,Nicolas de Preville,h,3244,OpenPlay,2014,RightFoot,5965,Reims,Lorient,1,3,2015-02-07 19:00:00,Benjamin Moukandjo,Chipped
+3555,58,MissedShots,0.7959999847412109,0.285,0.06323651224374771,Diego,h,3242,DirectFreekick,2014,LeftFoot,5965,Reims,Lorient,1,3,2015-02-07 19:00:00,,Standard
+3557,65,BlockedShot,0.8640000152587891,0.30200000762939455,0.04544487223029137,Benjamin Moukandjo,h,3570,OpenPlay,2014,RightFoot,5965,Reims,Lorient,1,3,2015-02-07 19:00:00,Diego,Pass
+3559,72,MissedShots,0.97,0.39799999237060546,0.2958436608314514,Nicolas de Preville,h,3244,SetPiece,2014,RightFoot,5965,Reims,Lorient,1,3,2015-02-07 19:00:00,Antoine Devaux,Chipped
+3560,74,MissedShots,0.7609999847412109,0.42900001525878906,0.027439797297120094,Benjamin Moukandjo,h,3570,OpenPlay,2014,RightFoot,5965,Reims,Lorient,1,3,2015-02-07 19:00:00,Nicolas de Preville,LayOff
+3562,90,BlockedShot,0.8090000152587891,0.495,0.06640995293855667,Prince Oniangué,h,3556,OpenPlay,2014,RightFoot,5965,Reims,Lorient,1,3,2015-02-07 19:00:00,Aissa Mandi,Pass
+3540,10,MissedShots,0.7659999847412109,0.655,0.02048858255147934,Raphael Guerreiro,a,3455,OpenPlay,2014,LeftFoot,5965,Reims,Lorient,1,3,2015-02-07 19:00:00,Walid Mesloub,Pass
+3541,12,BlockedShot,0.905,0.30700000762939456,0.049401022493839264,Benjamin Jeannot,a,3460,OpenPlay,2014,LeftFoot,5965,Reims,Lorient,1,3,2015-02-07 19:00:00,Francois Bellugou,Pass
+3543,14,MissedShots,0.9,0.5670000076293945,0.060951873660087585,Benjamin Jeannot,a,3460,OpenPlay,2014,Head,5965,Reims,Lorient,1,3,2015-02-07 19:00:00,Walid Mesloub,Cross
+3546,28,MissedShots,0.8630000305175781,0.275,0.032326389104127884,Walid Mesloub,a,3458,OpenPlay,2014,RightFoot,5965,Reims,Lorient,1,3,2015-02-07 19:00:00,Romain Philippoteaux,Pass
+3547,29,BlockedShot,0.885,0.39799999237060546,0.07227446883916855,Walid Mesloub,a,3458,OpenPlay,2014,RightFoot,5965,Reims,Lorient,1,3,2015-02-07 19:00:00,Romain Philippoteaux,Cross
+3548,38,BlockedShot,0.9640000152587891,0.40900001525878904,0.07424325495958328,Lamine Koné,a,728,FromCorner,2014,Head,5965,Reims,Lorient,1,3,2015-02-07 19:00:00,Raphael Guerreiro,Cross
+3549,40,MissedShots,0.8209999847412109,0.3220000076293945,0.03231479227542877,Walid Mesloub,a,3458,OpenPlay,2014,RightFoot,5965,Reims,Lorient,1,3,2015-02-07 19:00:00,Rafidine Abdullah,Pass
+3552,48,Goal,0.8530000305175781,0.30100000381469727,0.03384314849972725,Lamine Gassama,a,3607,OpenPlay,2014,RightFoot,5965,Reims,Lorient,1,3,2015-02-07 19:00:00,Walid Mesloub,Pass
+3554,55,MissedShots,0.73,0.5879999923706055,0.013418644666671753,Walid Mesloub,a,3458,OpenPlay,2014,RightFoot,5965,Reims,Lorient,1,3,2015-02-07 19:00:00,Raphael Guerreiro,None
+3556,62,Goal,0.765,0.49900001525878906,0.019467471167445183,Raphael Guerreiro,a,3455,OpenPlay,2014,LeftFoot,5965,Reims,Lorient,1,3,2015-02-07 19:00:00,Benjamin Jeannot,Chipped
+3558,67,BlockedShot,0.9369999694824219,0.720999984741211,0.2990429103374481,Raphael Guerreiro,a,3455,OpenPlay,2014,LeftFoot,5965,Reims,Lorient,1,3,2015-02-07 19:00:00,Romain Philippoteaux,Chipped
+3561,84,Goal,0.8780000305175781,0.5570000076293945,0.302422434091568,Benjamin Jeannot,a,3460,OpenPlay,2014,RightFoot,5965,Reims,Lorient,1,3,2015-02-07 19:00:00,Raphael Guerreiro,Cross

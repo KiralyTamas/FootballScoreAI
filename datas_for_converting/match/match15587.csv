@@ -1,0 +1,24 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+398410,2,MissedShots,0.794000015258789,0.31,0.015320979058742523,José Callejón,h,1382,SetPiece,2020,RightFoot,15587,Fiorentina,Cagliari,1,0,2021-01-10 17:00:00,,None
+398412,10,SavedShot,0.9630000305175781,0.6140000152587891,0.36821940541267395,Dusan Vlahovic,h,7084,OpenPlay,2020,LeftFoot,15587,Fiorentina,Cagliari,1,0,2021-01-10 17:00:00,,None
+398413,20,BlockedShot,0.8419999694824218,0.5309999847412109,0.05522460490465164,Germán Pezzella,h,2143,FromCorner,2020,RightFoot,15587,Fiorentina,Cagliari,1,0,2021-01-10 17:00:00,,None
+398414,28,MissedShots,0.9730000305175781,0.57,0.3281331956386566,Germán Pezzella,h,2143,FromCorner,2020,Head,15587,Fiorentina,Cagliari,1,0,2021-01-10 17:00:00,,None
+398415,29,MissedShots,0.7769999694824219,0.29200000762939454,0.017034439370036125,José Callejón,h,1382,OpenPlay,2020,RightFoot,15587,Fiorentina,Cagliari,1,0,2021-01-10 17:00:00,Martín Cáceres,Pass
+398418,41,BlockedShot,0.7340000152587891,0.5690000152587891,0.01728685386478901,Giacomo Bonaventura,h,1121,OpenPlay,2020,LeftFoot,15587,Fiorentina,Cagliari,1,0,2021-01-10 17:00:00,Martín Cáceres,Pass
+398421,48,BlockedShot,0.7959999847412109,0.5179999923706055,0.020739039406180382,Giacomo Bonaventura,h,1121,OpenPlay,2020,LeftFoot,15587,Fiorentina,Cagliari,1,0,2021-01-10 17:00:00,Martín Cáceres,Cross
+398422,49,SavedShot,0.865999984741211,0.28700000762939454,0.04146222770214081,Martín Cáceres,h,1942,OpenPlay,2020,RightFoot,15587,Fiorentina,Cagliari,1,0,2021-01-10 17:00:00,Sofyan Amrabat,BallTouch
+398423,57,MissedShots,0.9540000152587891,0.654000015258789,0.25783655047416687,Cristiano Biraghi,h,1164,OpenPlay,2020,LeftFoot,15587,Fiorentina,Cagliari,1,0,2021-01-10 17:00:00,Giacomo Bonaventura,Pass
+398425,59,MissedShots,0.7919999694824219,0.29100000381469726,0.017037177458405495,Martín Cáceres,h,1942,OpenPlay,2020,RightFoot,15587,Fiorentina,Cagliari,1,0,2021-01-10 17:00:00,,None
+398428,66,SavedShot,0.9019999694824219,0.6880000305175781,0.034737396985292435,Giacomo Bonaventura,h,1121,FromCorner,2020,RightFoot,15587,Fiorentina,Cagliari,1,0,2021-01-10 17:00:00,José Callejón,Cross
+398429,67,MissedShots,0.9769999694824218,0.7319999694824219,0.04304557293653488,Dusan Vlahovic,h,7084,OpenPlay,2020,LeftFoot,15587,Fiorentina,Cagliari,1,0,2021-01-10 17:00:00,Igor Julio,Chipped
+398430,71,Goal,0.960999984741211,0.5320000076293945,0.6517767906188965,Dusan Vlahovic,h,7084,OpenPlay,2020,LeftFoot,15587,Fiorentina,Cagliari,1,0,2021-01-10 17:00:00,José Callejón,Cross
+398432,84,MissedShots,0.7959999847412109,0.34,0.039587631821632385,Giacomo Bonaventura,h,1121,OpenPlay,2020,RightFoot,15587,Fiorentina,Cagliari,1,0,2021-01-10 17:00:00,,Tackle
+398411,7,MissedShots,0.750999984741211,0.4209999847412109,0.018528996035456657,Razvan Marin,a,8856,OpenPlay,2020,RightFoot,15587,Fiorentina,Cagliari,1,0,2021-01-10 17:00:00,Giovanni Simeone,Pass
+398416,33,BlockedShot,0.7130000305175781,0.26899999618530274,0.013424067758023739,Radja Nainggolan,a,1251,OpenPlay,2020,RightFoot,15587,Fiorentina,Cagliari,1,0,2021-01-10 17:00:00,Giovanni Simeone,Pass
+398417,36,SavedShot,0.885,0.5,0.7612988352775574,João Pedro,a,1592,Penalty,2020,RightFoot,15587,Fiorentina,Cagliari,1,0,2021-01-10 17:00:00,,Standard
+398419,45,MissedShots,0.7069999694824218,0.715999984741211,0.008788769133388996,Giovanni Simeone,a,1102,OpenPlay,2020,RightFoot,15587,Fiorentina,Cagliari,1,0,2021-01-10 17:00:00,Charalampos Lykogiannis,Chipped
+398420,47,BlockedShot,0.8959999847412109,0.5879999923706055,0.09179124236106873,Giovanni Simeone,a,1102,OpenPlay,2020,LeftFoot,15587,Fiorentina,Cagliari,1,0,2021-01-10 17:00:00,Radja Nainggolan,Chipped
+398424,58,MissedShots,0.8669999694824219,0.7430000305175781,0.26482313871383667,Giovanni Simeone,a,1102,OpenPlay,2020,RightFoot,15587,Fiorentina,Cagliari,1,0,2021-01-10 17:00:00,,None
+398426,61,BlockedShot,0.775,0.615999984741211,0.02494576759636402,Charalampos Lykogiannis,a,6517,OpenPlay,2020,LeftFoot,15587,Fiorentina,Cagliari,1,0,2021-01-10 17:00:00,Radja Nainggolan,Pass
+398427,65,MissedShots,0.9330000305175781,0.355,0.015684431418776512,Diego Godín,a,2264,FromCorner,2020,Head,15587,Fiorentina,Cagliari,1,0,2021-01-10 17:00:00,Razvan Marin,Cross
+398431,77,SavedShot,0.8390000152587891,0.46599998474121096,0.055948078632354736,Razvan Marin,a,8856,OpenPlay,2020,LeftFoot,15587,Fiorentina,Cagliari,1,0,2021-01-10 17:00:00,,None

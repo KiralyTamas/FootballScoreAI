@@ -1,0 +1,25 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+77377,0,SavedShot,0.7280000305175781,0.4159999847412109,0.01588721200823784,Kevin Volland,h,83,OpenPlay,2015,RightFoot,1070,Hoffenheim,Borussia Dortmund,1,1,2015-09-23 22:00:00,Eduardo Vargas,BallRecovery
+77381,23,SavedShot,0.925,0.38599998474121094,0.08297277987003326,Eduardo Vargas,h,85,OpenPlay,2015,RightFoot,1070,Hoffenheim,Borussia Dortmund,1,1,2015-09-23 22:00:00,,None
+77382,24,MissedShots,0.9130000305175782,0.42700000762939455,0.08873631805181503,Pirmin Schwegler,h,80,FromCorner,2015,RightFoot,1070,Hoffenheim,Borussia Dortmund,1,1,2015-09-23 22:00:00,Kevin Volland,Pass
+77384,31,SavedShot,0.7759999847412109,0.4520000076293945,0.03144000098109245,Eduardo Vargas,h,85,OpenPlay,2015,RightFoot,1070,Hoffenheim,Borussia Dortmund,1,1,2015-09-23 22:00:00,Sebastian Rudy,Pass
+77385,35,SavedShot,0.8209999847412109,0.55,0.08519121259450912,Kevin Volland,h,83,OpenPlay,2015,RightFoot,1070,Hoffenheim,Borussia Dortmund,1,1,2015-09-23 22:00:00,Eduardo Vargas,TakeOn
+77387,41,Goal,0.895,0.33299999237060546,0.29201579093933105,Sebastian Rudy,h,90,OpenPlay,2015,RightFoot,1070,Hoffenheim,Borussia Dortmund,1,1,2015-09-23 22:00:00,Eduardo Vargas,TakeOn
+77389,50,ShotOnPost,0.9009999847412109,0.66,0.08555787056684494,Eduardo Vargas,h,85,OpenPlay,2015,RightFoot,1070,Hoffenheim,Borussia Dortmund,1,1,2015-09-23 22:00:00,,BallTouch
+77391,59,MissedShots,0.7609999847412109,0.745999984741211,0.011230210773646832,Eugen Polanski,h,86,OpenPlay,2015,RightFoot,1070,Hoffenheim,Borussia Dortmund,1,1,2015-09-23 22:00:00,,None
+77397,76,MissedShots,0.9540000152587891,0.435,0.46608224511146545,Ermin Bicakcic,h,84,SetPiece,2015,Head,1070,Hoffenheim,Borussia Dortmund,1,1,2015-09-23 22:00:00,Jonathan Schmid,Cross
+77398,82,MissedShots,0.765,0.5479999923706055,0.028149744495749474,Steven Zuber,h,254,OpenPlay,2015,RightFoot,1070,Hoffenheim,Borussia Dortmund,1,1,2015-09-23 22:00:00,Kevin Volland,Pass
+77378,5,SavedShot,0.875,0.7319999694824219,0.032368116080760956,Pierre-Emerick Aubameyang,a,318,OpenPlay,2015,LeftFoot,1070,Hoffenheim,Borussia Dortmund,1,1,2015-09-23 22:00:00,Marco Reus,Pass
+77379,20,BlockedShot,0.7480000305175781,0.3390000152587891,0.05162198469042778,Pierre-Emerick Aubameyang,a,318,DirectFreekick,2015,RightFoot,1070,Hoffenheim,Borussia Dortmund,1,1,2015-09-23 22:00:00,,Standard
+77380,22,MissedShots,0.9359999847412109,0.5690000152587891,0.10537075996398926,Pierre-Emerick Aubameyang,a,318,OpenPlay,2015,LeftFoot,1070,Hoffenheim,Borussia Dortmund,1,1,2015-09-23 22:00:00,Marcel Schmelzer,Cross
+77383,30,MissedShots,0.909000015258789,0.4370000076293945,0.031388938426971436,Pierre-Emerick Aubameyang,a,318,SetPiece,2015,Head,1070,Hoffenheim,Borussia Dortmund,1,1,2015-09-23 22:00:00,Marco Reus,Aerial
+77386,35,MissedShots,0.774000015258789,0.4420000076293945,0.028471095487475395,Marco Reus,a,319,OpenPlay,2015,RightFoot,1070,Hoffenheim,Borussia Dortmund,1,1,2015-09-23 22:00:00,Gonzalo Castro,TakeOn
+77388,45,SavedShot,0.8619999694824219,0.29399999618530276,0.03448716923594475,Marco Reus,a,319,OpenPlay,2015,RightFoot,1070,Hoffenheim,Borussia Dortmund,1,1,2015-09-23 22:00:00,Matthias Ginter,HeadPass
+77390,54,Goal,0.9159999847412109,0.54,0.495970755815506,Pierre-Emerick Aubameyang,a,318,OpenPlay,2015,RightFoot,1070,Hoffenheim,Borussia Dortmund,1,1,2015-09-23 22:00:00,Gonzalo Castro,Pass
+77392,60,BlockedShot,0.8580000305175781,0.3120000076293945,0.04292445629835129,Pierre-Emerick Aubameyang,a,318,OpenPlay,2015,RightFoot,1070,Hoffenheim,Borussia Dortmund,1,1,2015-09-23 22:00:00,Shinji Kagawa,Pass
+77393,60,BlockedShot,0.7340000152587891,0.355,0.011971945874392986,Ilkay Gündogan,a,314,OpenPlay,2015,RightFoot,1070,Hoffenheim,Borussia Dortmund,1,1,2015-09-23 22:00:00,,Rebound
+77394,66,BlockedShot,0.83,0.5609999847412109,0.03676585853099823,Henrikh Mkhitaryan,a,317,OpenPlay,2015,RightFoot,1070,Hoffenheim,Borussia Dortmund,1,1,2015-09-23 22:00:00,Matthias Ginter,Cross
+77395,66,MissedShots,0.884000015258789,0.5509999847412109,0.11612078547477722,Shinji Kagawa,a,321,OpenPlay,2015,LeftFoot,1070,Hoffenheim,Borussia Dortmund,1,1,2015-09-23 22:00:00,Marcel Schmelzer,Pass
+77396,70,SavedShot,0.875,0.38599998474121094,0.1154368668794632,Gonzalo Castro,a,316,OpenPlay,2015,RightFoot,1070,Hoffenheim,Borussia Dortmund,1,1,2015-09-23 22:00:00,Henrikh Mkhitaryan,Throughball
+77399,84,MissedShots,0.9130000305175782,0.48400001525878905,0.5031575560569763,Adrián Ramos,a,324,OpenPlay,2015,RightFoot,1070,Hoffenheim,Borussia Dortmund,1,1,2015-09-23 22:00:00,Henrikh Mkhitaryan,Pass
+77400,90,MissedShots,0.750999984741211,0.4759999847412109,0.034441929310560226,Adrián Ramos,a,324,OpenPlay,2015,RightFoot,1070,Hoffenheim,Borussia Dortmund,1,1,2015-09-23 22:00:00,Pierre-Emerick Aubameyang,LayOff

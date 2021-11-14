@@ -1,0 +1,27 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+257818,6,SavedShot,0.7719999694824219,0.6659999847412109,0.018216801807284355,Marco Richter,h,6357,OpenPlay,2018,RightFoot,10488,Augsburg,Wolfsburg,2,3,2018-12-23 14:30:00,Jonathan Schmid,Chipped
+257819,12,SavedShot,0.9209999847412109,0.27700000762939453,0.03783849999308586,Alfred Finnbogason,h,2655,OpenPlay,2018,RightFoot,10488,Augsburg,Wolfsburg,2,3,2018-12-23 14:30:00,Daniel Baier,Pass
+257820,12,BlockedShot,0.7709999847412109,0.40400001525878904,0.027565402910113335,Ja-Cheol Koo,h,271,OpenPlay,2018,RightFoot,10488,Augsburg,Wolfsburg,2,3,2018-12-23 14:30:00,Konstantinos Stafylidis,BallRecovery
+257821,17,MissedShots,0.8909999847412109,0.7269999694824218,0.040215495973825455,Marco Richter,h,6357,OpenPlay,2018,LeftFoot,10488,Augsburg,Wolfsburg,2,3,2018-12-23 14:30:00,Rani Khedira,Chipped
+257825,28,MissedShots,0.7280000305175781,0.7319999694824219,0.017096329480409622,Michael Gregoritsch,h,171,OpenPlay,2018,LeftFoot,10488,Augsburg,Wolfsburg,2,3,2018-12-23 14:30:00,Ja-Cheol Koo,Pass
+257826,29,MissedShots,0.9740000152587891,0.3220000076293945,0.05870961770415306,Rani Khedira,h,5251,OpenPlay,2018,RightFoot,10488,Augsburg,Wolfsburg,2,3,2018-12-23 14:30:00,Alfred Finnbogason,BallRecovery
+257835,48,Goal,0.919000015258789,0.54,0.0833357647061348,Rani Khedira,h,5251,OpenPlay,2018,RightFoot,10488,Augsburg,Wolfsburg,2,3,2018-12-23 14:30:00,,None
+257836,57,BlockedShot,0.8859999847412109,0.6329999923706054,0.016152961179614067,Sergio Córdova,h,6096,OpenPlay,2018,Head,10488,Augsburg,Wolfsburg,2,3,2018-12-23 14:30:00,Konstantinos Stafylidis,Cross
+257837,57,Goal,0.89,0.5359999847412109,0.05911114439368248,Sergio Córdova,h,6096,OpenPlay,2018,Head,10488,Augsburg,Wolfsburg,2,3,2018-12-23 14:30:00,Jonathan Schmid,Cross
+257839,73,MissedShots,0.755,0.4520000076293945,0.024102039635181427,Sergio Córdova,h,6096,OpenPlay,2018,RightFoot,10488,Augsburg,Wolfsburg,2,3,2018-12-23 14:30:00,Ja-Cheol Koo,BallTouch
+257822,22,BlockedShot,0.909000015258789,0.34900001525878904,0.07964903116226196,Admir Mehmedi,a,194,OpenPlay,2018,RightFoot,10488,Augsburg,Wolfsburg,2,3,2018-12-23 14:30:00,William,Pass
+257823,24,MissedShots,0.9330000305175781,0.4540000152587891,0.3861927092075348,Wout Weghorst,a,7052,OpenPlay,2018,Head,10488,Augsburg,Wolfsburg,2,3,2018-12-23 14:30:00,Yannick Gerhardt,Cross
+257824,27,BlockedShot,0.7769999694824219,0.545,0.042356133460998535,Wout Weghorst,a,7052,OpenPlay,2018,LeftFoot,10488,Augsburg,Wolfsburg,2,3,2018-12-23 14:30:00,Daniel Ginczek,HeadPass
+257827,31,BlockedShot,0.8580000305175781,0.35200000762939454,0.056500229984521866,Admir Mehmedi,a,194,OpenPlay,2018,RightFoot,10488,Augsburg,Wolfsburg,2,3,2018-12-23 14:30:00,Wout Weghorst,Pass
+257828,32,MissedShots,0.9319999694824219,0.5590000152587891,0.10091141611337662,John Brooks,a,22,FromCorner,2018,Head,10488,Augsburg,Wolfsburg,2,3,2018-12-23 14:30:00,Maximilian Arnold,Cross
+257829,32,Goal,0.980999984741211,0.46099998474121096,0.8394926190376282,Josuha Guilavogui,a,150,FromCorner,2018,RightFoot,10488,Augsburg,Wolfsburg,2,3,2018-12-23 14:30:00,,Rebound
+257830,40,SavedShot,0.9119999694824219,0.45,0.05970364063978195,Maximilian Arnold,a,153,OpenPlay,2018,Head,10488,Augsburg,Wolfsburg,2,3,2018-12-23 14:30:00,Admir Mehmedi,Aerial
+257831,40,BlockedShot,0.845,0.47200000762939454,0.0949038490653038,Daniel Ginczek,a,426,OpenPlay,2018,RightFoot,10488,Augsburg,Wolfsburg,2,3,2018-12-23 14:30:00,Wout Weghorst,Pass
+257832,40,BlockedShot,0.7559999847412109,0.47400001525878904,0.031018536537885666,Maximilian Arnold,a,153,OpenPlay,2018,LeftFoot,10488,Augsburg,Wolfsburg,2,3,2018-12-23 14:30:00,William,Pass
+257833,40,Goal,0.8180000305175781,0.4640000152587891,0.06761004030704498,William,a,6229,OpenPlay,2018,LeftFoot,10488,Augsburg,Wolfsburg,2,3,2018-12-23 14:30:00,Admir Mehmedi,Pass
+257834,44,MissedShots,0.8959999847412109,0.509000015258789,0.2197311967611313,Robin Knoche,a,161,SetPiece,2018,Head,10488,Augsburg,Wolfsburg,2,3,2018-12-23 14:30:00,Wout Weghorst,Cross
+257838,68,BlockedShot,0.909000015258789,0.575999984741211,0.12701012194156647,Admir Mehmedi,a,194,OpenPlay,2018,LeftFoot,10488,Augsburg,Wolfsburg,2,3,2018-12-23 14:30:00,Elvis Rexhbecaj,Pass
+257840,79,MissedShots,0.95,0.30700000762939456,0.04720728099346161,Admir Mehmedi,a,194,OpenPlay,2018,RightFoot,10488,Augsburg,Wolfsburg,2,3,2018-12-23 14:30:00,William,Pass
+257841,81,BlockedShot,0.8880000305175781,0.47200000762939454,0.05795368179678917,Wout Weghorst,a,7052,FromCorner,2018,RightFoot,10488,Augsburg,Wolfsburg,2,3,2018-12-23 14:30:00,Admir Mehmedi,Cross
+257842,81,SavedShot,0.9069999694824219,0.32,0.05634607374668121,Yannick Gerhardt,a,140,FromCorner,2018,LeftFoot,10488,Augsburg,Wolfsburg,2,3,2018-12-23 14:30:00,,Rebound
+257843,88,Goal,0.919000015258789,0.4520000076293945,0.4885752499103546,Yannick Gerhardt,a,140,OpenPlay,2018,LeftFoot,10488,Augsburg,Wolfsburg,2,3,2018-12-23 14:30:00,Renato Steffen,Cross

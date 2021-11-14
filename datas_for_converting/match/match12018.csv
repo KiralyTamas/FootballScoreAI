@@ -1,0 +1,22 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+373832,13,MissedShots,0.81,0.45099998474121095,0.05633550137281418,Wilfred Ndidi,h,5545,OpenPlay,2019,RightFoot,12018,Leicester,Manchester United,0,2,2020-07-26 15:00:00,Youri Tielemans,Pass
+373833,16,MissedShots,0.8640000152587891,0.255,0.01776781678199768,Marc Albrighton,h,753,OpenPlay,2019,RightFoot,12018,Leicester,Manchester United,0,2,2020-07-26 15:00:00,Luke Thomas,Cross
+373834,24,SavedShot,0.81,0.539000015258789,0.08098690211772919,Kelechi Iheanacho,h,620,OpenPlay,2019,RightFoot,12018,Leicester,Manchester United,0,2,2020-07-26 15:00:00,James Justin,Pass
+373835,33,MissedShots,0.8180000305175781,0.46900001525878904,0.06818951666355133,Youri Tielemans,h,5956,OpenPlay,2019,RightFoot,12018,Leicester,Manchester United,0,2,2020-07-26 15:00:00,Kelechi Iheanacho,Pass
+373836,40,MissedShots,0.9119999694824219,0.53,0.1118345558643341,Jamie Vardy,h,755,OpenPlay,2019,RightFoot,12018,Leicester,Manchester United,0,2,2020-07-26 15:00:00,Luke Thomas,Cross
+373841,52,BlockedShot,0.759000015258789,0.27100000381469724,0.014528977684676647,Kelechi Iheanacho,h,620,OpenPlay,2019,LeftFoot,12018,Leicester,Manchester United,0,2,2020-07-26 15:00:00,Youri Tielemans,Pass
+373842,59,ShotOnPost,0.8769999694824219,0.655,0.013008391484618187,Jamie Vardy,h,755,SetPiece,2019,Head,12018,Leicester,Manchester United,0,2,2020-07-26 15:00:00,Youri Tielemans,Cross
+373843,60,BlockedShot,0.8590000152587891,0.4570000076293945,0.0700174868106842,Youri Tielemans,h,5956,OpenPlay,2019,LeftFoot,12018,Leicester,Manchester United,0,2,2020-07-26 15:00:00,Luke Thomas,Cross
+373845,74,SavedShot,0.9309999847412109,0.455,0.11233773082494736,Harvey Barnes,h,6681,OpenPlay,2019,LeftFoot,12018,Leicester,Manchester United,0,2,2020-07-26 15:00:00,Demarai Gray,Cross
+373846,78,BlockedShot,0.865,0.38299999237060545,0.05511212721467018,Demarai Gray,h,762,OpenPlay,2019,RightFoot,12018,Leicester,Manchester United,0,2,2020-07-26 15:00:00,,BallTouch
+373847,78,MissedShots,0.9180000305175782,0.5659999847412109,0.0360163189470768,Jamie Vardy,h,755,OpenPlay,2019,Head,12018,Leicester,Manchester United,0,2,2020-07-26 15:00:00,,Aerial
+373848,82,MissedShots,0.84,0.3729999923706055,0.058540888130664825,Demarai Gray,h,762,OpenPlay,2019,LeftFoot,12018,Leicester,Manchester United,0,2,2020-07-26 15:00:00,Dennis Praet,Pass
+373849,83,BlockedShot,0.76,0.67,0.052526965737342834,Demarai Gray,h,762,DirectFreekick,2019,RightFoot,12018,Leicester,Manchester United,0,2,2020-07-26 15:00:00,,Standard
+373850,90,SavedShot,0.905,0.6509999847412109,0.007464701309800148,George Hirst,h,8563,SetPiece,2019,Head,12018,Leicester,Manchester United,0,2,2020-07-26 15:00:00,Kasper Schmeichel,Aerial
+373831,10,MissedShots,0.8830000305175781,0.539000015258789,0.036027438938617706,Mason Greenwood,a,7490,OpenPlay,2019,Head,12018,Leicester,Manchester United,0,2,2020-07-26 15:00:00,Marcus Rashford,Chipped
+373837,41,MissedShots,0.875999984741211,0.5429999923706055,0.08249767124652863,Marcus Rashford,a,556,OpenPlay,2019,RightFoot,12018,Leicester,Manchester United,0,2,2020-07-26 15:00:00,Paul Pogba,Chipped
+373838,45,BlockedShot,0.855,0.5940000152587891,0.08508481085300446,Anthony Martial,a,553,OpenPlay,2019,LeftFoot,12018,Leicester,Manchester United,0,2,2020-07-26 15:00:00,Bruno Fernandes,Pass
+373839,46,SavedShot,0.8909999847412109,0.3509999847412109,0.02368050627410412,Marcus Rashford,a,556,FromCorner,2019,RightFoot,12018,Leicester,Manchester United,0,2,2020-07-26 15:00:00,,Aerial
+373840,47,MissedShots,0.8919999694824219,0.3770000076293945,0.06968685239553452,Bruno Fernandes,a,1228,OpenPlay,2019,RightFoot,12018,Leicester,Manchester United,0,2,2020-07-26 15:00:00,Mason Greenwood,End
+373844,70,Goal,0.885,0.5,0.7611320614814758,Bruno Fernandes,a,1228,Penalty,2019,RightFoot,12018,Leicester,Manchester United,0,2,2020-07-26 15:00:00,,Standard
+373851,97,Goal,0.8590000152587891,0.5890000152587891,0.3520771265029907,Jesse Lingard,a,558,OpenPlay,2019,LeftFoot,12018,Leicester,Manchester United,0,2,2020-07-26 15:00:00,,Tackle

@@ -1,0 +1,35 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+9593,1,BlockedShot,0.87,0.47400001525878904,0.08235348761081696,Patrick Ebert,h,2575,OpenPlay,2014,RightFoot,6360,Spartak Moscow,Arsenal Tula,2,0,2014-11-09 15:00:00,Yura Movsisyan,Cross
+9595,7,Goal,0.9530000305175781,0.4640000152587891,0.4975431263446808,Yura Movsisyan,h,3127,OpenPlay,2014,Head,6360,Spartak Moscow,Arsenal Tula,2,0,2014-11-09 15:00:00,,None
+9597,13,MissedShots,0.94,0.6309999847412109,0.0461842343211174,Yura Movsisyan,h,3127,FromCorner,2014,RightFoot,6360,Spartak Moscow,Arsenal Tula,2,0,2014-11-09 15:00:00,Dmitri Kombarov,Cross
+9598,13,SavedShot,0.9059999847412109,0.48,0.02427293360233307,João Carlos,h,4589,FromCorner,2014,Head,6360,Spartak Moscow,Arsenal Tula,2,0,2014-11-09 15:00:00,Roman Shirokov,Aerial
+9603,17,MissedShots,0.8830000305175781,0.48200000762939454,0.07873702794313431,Denis Glushakov,h,2814,OpenPlay,2014,Head,6360,Spartak Moscow,Arsenal Tula,2,0,2014-11-09 15:00:00,Dmitri Kombarov,Cross
+9604,19,MissedShots,0.884000015258789,0.720999984741211,0.05100954324007034,Quincy Promes,h,2815,OpenPlay,2014,RightFoot,6360,Spartak Moscow,Arsenal Tula,2,0,2014-11-09 15:00:00,,None
+9605,21,Goal,0.9440000152587891,0.495,0.6189544200897217,Quincy Promes,h,2815,OpenPlay,2014,RightFoot,6360,Spartak Moscow,Arsenal Tula,2,0,2014-11-09 15:00:00,,None
+9607,30,MissedShots,0.850999984741211,0.31799999237060544,0.06514580547809601,Yura Movsisyan,h,3127,OpenPlay,2014,LeftFoot,6360,Spartak Moscow,Arsenal Tula,2,0,2014-11-09 15:00:00,Roman Shirokov,Pass
+9608,31,SavedShot,0.76,0.7669999694824219,0.022738168016076088,Yura Movsisyan,h,3127,OpenPlay,2014,RightFoot,6360,Spartak Moscow,Arsenal Tula,2,0,2014-11-09 15:00:00,Dmitri Kombarov,Pass
+9613,44,MissedShots,0.885,0.6409999847412109,0.126718208193779,Quincy Promes,h,2815,OpenPlay,2014,LeftFoot,6360,Spartak Moscow,Arsenal Tula,2,0,2014-11-09 15:00:00,,TakeOn
+9614,46,MissedShots,0.8530000305175781,0.6270000076293946,0.0780133455991745,Yura Movsisyan,h,3127,OpenPlay,2014,LeftFoot,6360,Spartak Moscow,Arsenal Tula,2,0,2014-11-09 15:00:00,Roman Shirokov,Pass
+9615,50,BlockedShot,0.9069999694824219,0.6309999847412109,0.30333539843559265,Yura Movsisyan,h,3127,OpenPlay,2014,LeftFoot,6360,Spartak Moscow,Arsenal Tula,2,0,2014-11-09 15:00:00,Patrick Ebert,Pass
+9616,54,MissedShots,0.909000015258789,0.2989999961853027,0.10230660438537598,Quincy Promes,h,2815,OpenPlay,2014,RightFoot,6360,Spartak Moscow,Arsenal Tula,2,0,2014-11-09 15:00:00,Sergey Parshivlyuk,TakeOn
+9617,56,MissedShots,0.9290000152587891,0.6430000305175781,0.02582789584994316,Patrick Ebert,h,2575,OpenPlay,2014,Head,6360,Spartak Moscow,Arsenal Tula,2,0,2014-11-09 15:00:00,Kim Källström,Cross
+9618,64,SavedShot,0.8859999847412109,0.5209999847412109,0.01835227943956852,Yura Movsisyan,h,3127,OpenPlay,2014,Head,6360,Spartak Moscow,Arsenal Tula,2,0,2014-11-09 15:00:00,Dmitri Kombarov,Aerial
+9619,68,MissedShots,0.955999984741211,0.639000015258789,0.012008740566670895,Kim Källström,h,4590,FromCorner,2014,Head,6360,Spartak Moscow,Arsenal Tula,2,0,2014-11-09 15:00:00,Dmitri Kombarov,Aerial
+9620,69,MissedShots,0.885,0.5170000076293946,0.02465233765542507,Quincy Promes,h,2815,OpenPlay,2014,Head,6360,Spartak Moscow,Arsenal Tula,2,0,2014-11-09 15:00:00,Patrick Ebert,Aerial
+9622,82,BlockedShot,0.7559999847412109,0.44099998474121094,0.02404516190290451,Tino Costa,h,1885,OpenPlay,2014,LeftFoot,6360,Spartak Moscow,Arsenal Tula,2,0,2014-11-09 15:00:00,Kim Källström,Pass
+9623,82,MissedShots,0.785,0.3920000076293945,0.0437498614192009,Yura Movsisyan,h,3127,OpenPlay,2014,RightFoot,6360,Spartak Moscow,Arsenal Tula,2,0,2014-11-09 15:00:00,Sergey Parshivlyuk,Pass
+9624,84,MissedShots,0.87,0.5590000152587891,0.09397541731595993,Quincy Promes,h,2815,OpenPlay,2014,RightFoot,6360,Spartak Moscow,Arsenal Tula,2,0,2014-11-09 15:00:00,,None
+9626,94,ShotOnPost,0.7959999847412109,0.5979999923706054,0.09497658908367157,Dmitri Kombarov,h,2821,DirectFreekick,2014,LeftFoot,6360,Spartak Moscow,Arsenal Tula,2,0,2014-11-09 15:00:00,,Standard
+9594,4,MissedShots,0.89,0.615,0.038878075778484344,Ivan Lozenkov,a,4562,SetPiece,2014,RightFoot,6360,Spartak Moscow,Arsenal Tula,2,0,2014-11-09 15:00:00,Lukás Tesák,Cross
+9596,10,MissedShots,0.740999984741211,0.5990000152587891,0.015717988833785057,Lukás Tesák,a,4597,OpenPlay,2014,LeftFoot,6360,Spartak Moscow,Arsenal Tula,2,0,2014-11-09 15:00:00,Mladen Kascelan,Interception
+9599,14,SavedShot,0.7530000305175781,0.3629999923706055,0.018568232655525208,Vladislav Ryzhkov,a,4572,OpenPlay,2014,RightFoot,6360,Spartak Moscow,Arsenal Tula,2,0,2014-11-09 15:00:00,Andrey Vasilyev,Pass
+9600,15,SavedShot,0.9030000305175782,0.47400001525878904,0.05839047580957413,Sergei Sukharev,a,4580,FromCorner,2014,Head,6360,Spartak Moscow,Arsenal Tula,2,0,2014-11-09 15:00:00,Lukás Tesák,Cross
+9601,15,BlockedShot,0.98,0.415,0.11322838813066483,Aleksandr Kutjin,a,4577,FromCorner,2014,RightFoot,6360,Spartak Moscow,Arsenal Tula,2,0,2014-11-09 15:00:00,,Rebound
+9602,15,MissedShots,0.9230000305175782,0.58,0.0471528135240078,Ivan Lozenkov,a,4562,FromCorner,2014,Head,6360,Spartak Moscow,Arsenal Tula,2,0,2014-11-09 15:00:00,Andrey Vasilyev,Pass
+9606,27,MissedShots,0.895,0.7859999847412109,0.025024496018886566,Aleksandr Kutjin,a,4577,OpenPlay,2014,RightFoot,6360,Spartak Moscow,Arsenal Tula,2,0,2014-11-09 15:00:00,Lukás Tesák,Pass
+9609,32,SavedShot,0.86,0.47,0.10232116281986237,Arthur Maloyan,a,4566,OpenPlay,2014,RightFoot,6360,Spartak Moscow,Arsenal Tula,2,0,2014-11-09 15:00:00,Sergey Kuznetsov,Pass
+9610,36,SavedShot,0.8830000305175781,0.47400001525878904,0.08047152310609818,Andrey Vasilyev,a,4563,FromCorner,2014,RightFoot,6360,Spartak Moscow,Arsenal Tula,2,0,2014-11-09 15:00:00,Arthur Maloyan,HeadPass
+9611,39,SavedShot,0.7580000305175781,0.6509999847412109,0.011501788161695004,Mladen Kascelan,a,4564,OpenPlay,2014,LeftFoot,6360,Spartak Moscow,Arsenal Tula,2,0,2014-11-09 15:00:00,,None
+9612,42,MissedShots,0.7930000305175782,0.39,0.021772339940071106,Arthur Maloyan,a,4566,OpenPlay,2014,LeftFoot,6360,Spartak Moscow,Arsenal Tula,2,0,2014-11-09 15:00:00,Sergei Sukharev,Chipped
+9621,69,MissedShots,0.8719999694824219,0.595999984741211,0.28922319412231445,Lukás Tesák,a,4597,OpenPlay,2014,RightFoot,6360,Spartak Moscow,Arsenal Tula,2,0,2014-11-09 15:00:00,Arthur Maloyan,Pass
+9625,90,BlockedShot,0.76,0.47400001525878904,0.011331244371831417,Mladen Kascelan,a,4564,OpenPlay,2014,RightFoot,6360,Spartak Moscow,Arsenal Tula,2,0,2014-11-09 15:00:00,,Aerial

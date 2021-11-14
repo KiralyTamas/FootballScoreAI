@@ -1,0 +1,30 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+77842,3,BlockedShot,0.765,0.6370000076293946,0.030112482607364655,Eduardo Vargas,h,85,OpenPlay,2015,RightFoot,1088,Hoffenheim,VfB Stuttgart,2,2,2015-10-03 17:30:00,,TakeOn
+77843,3,ShotOnPost,0.94,0.55,0.522899866104126,Ermin Bicakcic,h,84,FromCorner,2015,LeftFoot,1088,Hoffenheim,VfB Stuttgart,2,2,2015-10-03 17:30:00,Eduardo Vargas,Pass
+77847,32,Goal,0.885,0.5,0.75777667760849,Kevin Volland,h,83,Penalty,2015,LeftFoot,1088,Hoffenheim,VfB Stuttgart,2,2,2015-10-03 17:30:00,,Standard
+77848,34,BlockedShot,0.8880000305175781,0.3659999847412109,0.057856377214193344,Eduardo Vargas,h,85,FromCorner,2015,RightFoot,1088,Hoffenheim,VfB Stuttgart,2,2,2015-10-03 17:30:00,,None
+77850,38,SavedShot,0.764000015258789,0.23700000762939452,0.03849642351269722,Eduardo Vargas,h,85,OpenPlay,2015,RightFoot,1088,Hoffenheim,VfB Stuttgart,2,2,2015-10-03 17:30:00,Pavel Kaderábek,BallRecovery
+77853,49,BlockedShot,0.88,0.635,0.08134563267230988,Jonathan Schmid,h,81,OpenPlay,2015,LeftFoot,1088,Hoffenheim,VfB Stuttgart,2,2,2015-10-03 17:30:00,,None
+77854,49,BlockedShot,0.8830000305175781,0.53,0.12438569962978363,Eduardo Vargas,h,85,OpenPlay,2015,RightFoot,1088,Hoffenheim,VfB Stuttgart,2,2,2015-10-03 17:30:00,,Rebound
+77857,55,MissedShots,0.945,0.48700000762939455,0.1196272224187851,Ermin Bicakcic,h,84,FromCorner,2015,LeftFoot,1088,Hoffenheim,VfB Stuttgart,2,2,2015-10-03 17:30:00,,None
+77863,73,SavedShot,0.855999984741211,0.825999984741211,0.05233192816376686,Jonathan Schmid,h,81,DirectFreekick,2015,RightFoot,1088,Hoffenheim,VfB Stuttgart,2,2,2015-10-03 17:30:00,,Standard
+77864,76,Goal,0.899000015258789,0.285,0.11133184283971786,Kevin Volland,h,83,OpenPlay,2015,LeftFoot,1088,Hoffenheim,VfB Stuttgart,2,2,2015-10-03 17:30:00,,TakeOn
+77868,88,MissedShots,0.720999984741211,0.47900001525878905,0.02324662171304226,Kevin Kurányi,h,255,OpenPlay,2015,RightFoot,1088,Hoffenheim,VfB Stuttgart,2,2,2015-10-03 17:30:00,Tobias Strobl,Pass
+77844,14,SavedShot,0.775,0.23600000381469727,0.01620648428797722,Daniel Didavi,a,300,OpenPlay,2015,LeftFoot,1088,Hoffenheim,VfB Stuttgart,2,2,2015-10-03 17:30:00,Lukas Rupp,Pass
+77845,16,BlockedShot,0.745999984741211,0.4909999847412109,0.020954100415110588,Lukas Rupp,a,62,OpenPlay,2015,RightFoot,1088,Hoffenheim,VfB Stuttgart,2,2,2015-10-03 17:30:00,Daniel Didavi,Pass
+77846,26,MissedShots,0.8830000305175781,0.5779999923706055,0.08470112830400467,Martin Harnik,a,407,OpenPlay,2015,RightFoot,1088,Hoffenheim,VfB Stuttgart,2,2,2015-10-03 17:30:00,Timo Werner,HeadPass
+77849,35,SavedShot,0.8969999694824219,0.265,0.03329475596547127,Martin Harnik,a,407,OpenPlay,2015,RightFoot,1088,Hoffenheim,VfB Stuttgart,2,2,2015-10-03 17:30:00,Alexandru Maxim,Pass
+77851,39,MissedShots,0.95,0.45,0.4537372291088104,Daniel Didavi,a,300,OpenPlay,2015,Head,1088,Hoffenheim,VfB Stuttgart,2,2,2015-10-03 17:30:00,Timo Werner,Chipped
+77852,43,MissedShots,0.7269999694824218,0.4909999847412109,0.014556296169757843,Lukas Rupp,a,62,OpenPlay,2015,RightFoot,1088,Hoffenheim,VfB Stuttgart,2,2,2015-10-03 17:30:00,,None
+77855,51,SavedShot,0.9530000305175781,0.4520000076293945,0.5363927483558655,Timo Werner,a,65,OpenPlay,2015,RightFoot,1088,Hoffenheim,VfB Stuttgart,2,2,2015-10-03 17:30:00,Martin Harnik,Pass
+77856,52,MissedShots,0.91,0.519000015258789,0.08547372370958328,Daniel Didavi,a,300,FromCorner,2015,Head,1088,Hoffenheim,VfB Stuttgart,2,2,2015-10-03 17:30:00,Alexandru Maxim,Cross
+77858,56,MissedShots,0.950999984741211,0.34799999237060547,0.05938906595110893,Daniel Didavi,a,300,OpenPlay,2015,LeftFoot,1088,Hoffenheim,VfB Stuttgart,2,2,2015-10-03 17:30:00,Alexandru Maxim,Chipped
+77859,58,BlockedShot,0.6909999847412109,0.5779999923706055,0.010270193219184875,Geoffroy Serey Dié,a,61,OpenPlay,2015,RightFoot,1088,Hoffenheim,VfB Stuttgart,2,2,2015-10-03 17:30:00,,None
+77860,63,Goal,0.925,0.48700000762939455,0.055877652019262314,Jan Kliment,a,384,FromCorner,2015,Head,1088,Hoffenheim,VfB Stuttgart,2,2,2015-10-03 17:30:00,Daniel Didavi,Aerial
+77861,65,SavedShot,0.870999984741211,0.794000015258789,0.023153718560934067,Jan Kliment,a,384,OpenPlay,2015,RightFoot,1088,Hoffenheim,VfB Stuttgart,2,2,2015-10-03 17:30:00,Emiliano Insúa,Pass
+77862,67,SavedShot,0.8130000305175781,0.37400001525878906,0.03704322129487991,Martin Harnik,a,407,OpenPlay,2015,LeftFoot,1088,Hoffenheim,VfB Stuttgart,2,2,2015-10-03 17:30:00,Daniel Didavi,Pass
+77865,83,BlockedShot,0.8730000305175781,0.4370000076293945,0.07139690965414047,Daniel Didavi,a,300,OpenPlay,2015,LeftFoot,1088,Hoffenheim,VfB Stuttgart,2,2,2015-10-03 17:30:00,Florian Klein,HeadPass
+77866,85,BlockedShot,0.7780000305175782,0.5220000076293946,0.023113254457712173,Daniel Didavi,a,300,OpenPlay,2015,LeftFoot,1088,Hoffenheim,VfB Stuttgart,2,2,2015-10-03 17:30:00,Arianit Ferati,TakeOn
+77867,86,MissedShots,0.8419999694824218,0.3029999923706055,0.032537687569856644,Timo Werner,a,65,OpenPlay,2015,RightFoot,1088,Hoffenheim,VfB Stuttgart,2,2,2015-10-03 17:30:00,Arianit Ferati,Chipped
+77869,89,Goal,0.9290000152587891,0.5129999923706055,0.3623792827129364,Timo Werner,a,65,OpenPlay,2015,Head,1088,Hoffenheim,VfB Stuttgart,2,2,2015-10-03 17:30:00,Arianit Ferati,Cross
+77870,91,MissedShots,0.9019999694824219,0.4640000152587891,0.445997953414917,Timo Werner,a,65,OpenPlay,2015,RightFoot,1088,Hoffenheim,VfB Stuttgart,2,2,2015-10-03 17:30:00,Jan Kliment,Pass

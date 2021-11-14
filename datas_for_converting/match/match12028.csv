@@ -1,0 +1,28 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+311011,11,BlockedShot,0.8159999847412109,0.6370000076293946,0.041813869029283524,Santiago Cazorla,h,965,OpenPlay,2019,LeftFoot,12028,Villarreal,Granada,4,4,2019-08-17 20:00:00,Xavier Quintillá,Pass
+311014,34,Goal,0.885,0.5,0.7432776093482971,Santiago Cazorla,h,965,Penalty,2019,RightFoot,12028,Villarreal,Granada,4,4,2019-08-17 20:00:00,,Standard
+311018,52,Goal,0.865,0.6179999923706054,0.07672278583049774,Moi Gómez,h,2198,OpenPlay,2019,RightFoot,12028,Villarreal,Granada,4,4,2019-08-17 20:00:00,Xavier Quintillá,Pass
+311019,61,OwnGoal,0.048000001907348634,0.4779999923706055,0,Rubén Peña,h,5075,OpenPlay,2019,LeftFoot,12028,Villarreal,Granada,4,4,2019-08-17 20:00:00,,BallTouch
+311020,62,MissedShots,0.44400001525878907,0.5709999847412109,0.006560398265719414,Santiago Cazorla,h,965,OpenPlay,2019,RightFoot,12028,Villarreal,Granada,4,4,2019-08-17 20:00:00,Gerard Moreno,Pass
+311021,64,Goal,0.8859999847412109,0.595999984741211,0.10099402815103531,Gerard Moreno,h,2120,OpenPlay,2019,LeftFoot,12028,Villarreal,Granada,4,4,2019-08-17 20:00:00,Moi Gómez,Pass
+311023,69,MissedShots,0.905,0.485,0.29310253262519836,Karl Toko Ekambi,h,5657,OpenPlay,2019,Head,12028,Villarreal,Granada,4,4,2019-08-17 20:00:00,Xavier Quintillá,Cross
+311025,71,MissedShots,0.93,0.485,0.43628400564193726,Vicente Iborra,h,2065,OpenPlay,2019,LeftFoot,12028,Villarreal,Granada,4,4,2019-08-17 20:00:00,Samuel Chukwueze,Cross
+311026,72,Goal,0.8280000305175781,0.5129999923706055,0.08497413247823715,Samuel Chukwueze,h,7208,OpenPlay,2019,LeftFoot,12028,Villarreal,Granada,4,4,2019-08-17 20:00:00,Santiago Cazorla,BallRecovery
+311030,81,SavedShot,0.9359999847412109,0.754000015258789,0.0328960120677948,Santiago Cazorla,h,965,OpenPlay,2019,LeftFoot,12028,Villarreal,Granada,4,4,2019-08-17 20:00:00,Manu Trigueros,Pass
+311031,82,BlockedShot,0.8019999694824219,0.43900001525878907,0.03480951488018036,Samuel Chukwueze,h,7208,OpenPlay,2019,LeftFoot,12028,Villarreal,Granada,4,4,2019-08-17 20:00:00,,Rebound
+311032,84,SavedShot,0.784000015258789,0.5420000076293945,0.032169319689273834,Carlos Bacca,h,1125,OpenPlay,2019,RightFoot,12028,Villarreal,Granada,4,4,2019-08-17 20:00:00,Franck Zambo,Pass
+311033,91,SavedShot,0.764000015258789,0.6,0.0495576485991478,Santiago Cazorla,h,965,OpenPlay,2019,RightFoot,12028,Villarreal,Granada,4,4,2019-08-17 20:00:00,Xavier Quintillá,TakeOn
+311007,4,SavedShot,0.850999984741211,0.3940000152587891,0.0372641421854496,Antonio Puertas,a,7863,OpenPlay,2019,RightFoot,12028,Villarreal,Granada,4,4,2019-08-17 20:00:00,Quini,Cross
+311008,4,MissedShots,0.960999984741211,0.41,0.08431755006313324,Antonio Puertas,a,7863,FromCorner,2019,Head,12028,Villarreal,Granada,4,4,2019-08-17 20:00:00,Álvaro Vadillo,Cross
+311009,5,BlockedShot,0.7519999694824219,0.5690000152587891,0.024384351447224617,Fede Vico,a,4069,OpenPlay,2019,LeftFoot,12028,Villarreal,Granada,4,4,2019-08-17 20:00:00,Yan Eteki,Pass
+311010,9,SavedShot,0.889000015258789,0.6780000305175782,0.04709256812930107,Álvaro Vadillo,a,2154,OpenPlay,2019,RightFoot,12028,Villarreal,Granada,4,4,2019-08-17 20:00:00,Montoro,Pass
+311012,15,MissedShots,0.9209999847412109,0.47,0.13196830451488495,Antonio Puertas,a,7863,OpenPlay,2019,Head,12028,Villarreal,Granada,4,4,2019-08-17 20:00:00,Fede Vico,Cross
+311013,22,BlockedShot,0.720999984741211,0.44299999237060544,0.019687576219439507,Antonio Puertas,a,7863,OpenPlay,2019,RightFoot,12028,Villarreal,Granada,4,4,2019-08-17 20:00:00,Yan Eteki,Pass
+311015,44,MissedShots,0.8690000152587891,0.52,0.03921046853065491,Fede Vico,a,4069,OpenPlay,2019,Head,12028,Villarreal,Granada,4,4,2019-08-17 20:00:00,Víctor Díaz,Chipped
+311017,47,MissedShots,0.759000015258789,0.3729999923706055,0.021032901480793953,Víctor Díaz,a,5117,OpenPlay,2019,RightFoot,12028,Villarreal,Granada,4,4,2019-08-17 20:00:00,Fede Vico,BallTouch
+311016,50,Goal,0.885,0.5,0.7432776093482971,Fede Vico,a,4069,Penalty,2019,LeftFoot,12028,Villarreal,Granada,4,4,2019-08-17 20:00:00,,Standard
+311022,67,SavedShot,0.835999984741211,0.740999984741211,0.02678210474550724,Darwin Machís,a,4226,OpenPlay,2019,RightFoot,12028,Villarreal,Granada,4,4,2019-08-17 20:00:00,Montoro,Chipped
+311024,70,SavedShot,0.8419999694824218,0.4620000076293945,0.0358884297311306,Antonio Puertas,a,7863,SetPiece,2019,Head,12028,Villarreal,Granada,4,4,2019-08-17 20:00:00,Montoro,Chipped
+311027,74,BlockedShot,0.879000015258789,0.63,0.06647489964962006,Darwin Machís,a,4226,OpenPlay,2019,RightFoot,12028,Villarreal,Granada,4,4,2019-08-17 20:00:00,Fede Vico,Pass
+311028,74,Goal,0.9480000305175781,0.5779999923706055,0.10171305388212204,Roberto Soldado,a,2311,FromCorner,2019,Head,12028,Villarreal,Granada,4,4,2019-08-17 20:00:00,Montoro,Cross
+311029,80,Goal,0.9830000305175781,0.45799999237060546,0.5875818729400635,Antonio Puertas,a,7863,FromCorner,2019,Head,12028,Villarreal,Granada,4,4,2019-08-17 20:00:00,Roberto Soldado,HeadPass

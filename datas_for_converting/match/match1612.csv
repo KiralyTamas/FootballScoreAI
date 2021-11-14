@@ -1,0 +1,20 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+89475,17,Goal,0.9219999694824219,0.524000015258789,0.38652870059013367,Xabi Prieto,h,2233,OpenPlay,2015,Head,1612,Real Sociedad,Real Betis,2,1,2016-01-31 01:05:00,Héctor,Cross
+89477,22,MissedShots,0.7609999847412109,0.3609999847412109,0.013672811910510063,Rubén Pardo,h,2242,SetPiece,2015,RightFoot,1612,Real Sociedad,Real Betis,2,1,2016-01-31 01:05:00,,None
+89478,32,Goal,0.919000015258789,0.534000015258789,0.3186838924884796,Iñigo Martínez,h,2484,SetPiece,2015,Head,1612,Real Sociedad,Real Betis,2,1,2016-01-31 01:05:00,Rubén Pardo,Cross
+89479,47,MissedShots,0.769000015258789,0.6409999847412109,0.011289306916296482,Mikel Oyarzabal,h,2234,SetPiece,2015,LeftFoot,1612,Real Sociedad,Real Betis,2,1,2016-01-31 01:05:00,,Aerial
+89480,48,BlockedShot,0.8969999694824219,0.635,0.16431893408298492,Rubén Pardo,h,2242,OpenPlay,2015,RightFoot,1612,Real Sociedad,Real Betis,2,1,2016-01-31 01:05:00,Carlos Vela,TakeOn
+89481,48,BlockedShot,0.9259999847412109,0.6370000076293946,0.01692049205303192,Xabi Prieto,h,2233,FromCorner,2015,Head,1612,Real Sociedad,Real Betis,2,1,2016-01-31 01:05:00,Rubén Pardo,OffsidePass
+89484,56,BlockedShot,0.740999984741211,0.639000015258789,0.011374805122613907,Héctor,h,2237,SetPiece,2015,LeftFoot,1612,Real Sociedad,Real Betis,2,1,2016-01-31 01:05:00,,None
+89487,69,MissedShots,0.7140000152587891,0.19200000762939454,0.017725424841046333,Rubén Pardo,h,2242,OpenPlay,2015,RightFoot,1612,Real Sociedad,Real Betis,2,1,2016-01-31 01:05:00,Jonathas,Pass
+89488,74,BlockedShot,0.8919999694824219,0.28,0.04372863098978996,Carlos Vela,h,2416,OpenPlay,2015,LeftFoot,1612,Real Sociedad,Real Betis,2,1,2016-01-31 01:05:00,Jonathas,Pass
+89489,79,SavedShot,0.8109999847412109,0.3529999923706055,0.03733861818909645,Markel Bergara,h,2231,OpenPlay,2015,RightFoot,1612,Real Sociedad,Real Betis,2,1,2016-01-31 01:05:00,Carlos Vela,TakeOn
+89491,86,SavedShot,0.904000015258789,0.2979999923706055,0.06101175770163536,Jonathas,h,2480,OpenPlay,2015,RightFoot,1612,Real Sociedad,Real Betis,2,1,2016-01-31 01:05:00,Carlos Vela,Pass
+89473,8,BlockedShot,0.8680000305175781,0.26799999237060546,0.03220592439174652,Álvaro Cejudo,a,2142,OpenPlay,2015,LeftFoot,1612,Real Sociedad,Real Betis,2,1,2016-01-31 01:05:00,Fabián,Pass
+89474,9,BlockedShot,0.8159999847412109,0.47200000762939454,0.042231637984514236,Francisco Portillo,a,2149,FromCorner,2015,RightFoot,1612,Real Sociedad,Real Betis,2,1,2016-01-31 01:05:00,,None
+89476,21,BlockedShot,0.855,0.3060000038146973,0.04073869809508324,Fabián,a,2447,OpenPlay,2015,LeftFoot,1612,Real Sociedad,Real Betis,2,1,2016-01-31 01:05:00,Álvaro Cejudo,Pass
+89482,50,Goal,0.9330000305175781,0.5590000152587891,0.4282033145427704,Rubén Castro,a,2150,OpenPlay,2015,LeftFoot,1612,Real Sociedad,Real Betis,2,1,2016-01-31 01:05:00,Ricky van Wolfswinkel,Pass
+89483,52,MissedShots,0.9830000305175781,0.5709999847412109,0.08551688492298126,Ricky van Wolfswinkel,a,1012,OpenPlay,2015,LeftFoot,1612,Real Sociedad,Real Betis,2,1,2016-01-31 01:05:00,,None
+89485,64,BlockedShot,0.8019999694824219,0.7169999694824218,0.020861763507127762,Rubén Castro,a,2150,OpenPlay,2015,RightFoot,1612,Real Sociedad,Real Betis,2,1,2016-01-31 01:05:00,Ricky van Wolfswinkel,Pass
+89486,65,MissedShots,0.9490000152587891,0.425,0.0830388069152832,Ricky van Wolfswinkel,a,1012,OpenPlay,2015,RightFoot,1612,Real Sociedad,Real Betis,2,1,2016-01-31 01:05:00,Rubén Castro,None
+89490,85,MissedShots,0.9119999694824219,0.539000015258789,0.0411602258682251,Bruno,a,2444,OpenPlay,2015,Head,1612,Real Sociedad,Real Betis,2,1,2016-01-31 01:05:00,Álvaro Cejudo,Aerial

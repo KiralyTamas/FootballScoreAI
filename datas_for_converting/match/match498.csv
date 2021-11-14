@@ -1,0 +1,30 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+113221,10,SavedShot,0.7440000152587891,0.5209999847412109,0.02397989109158516,Roberto Firmino,h,482,OpenPlay,2016,RightFoot,498,Liverpool,Leicester,4,1,2016-09-10 20:30:00,Georginio Wijnaldum,Pass
+113222,12,Goal,0.85,0.519000015258789,0.09644696861505508,Roberto Firmino,h,482,OpenPlay,2016,RightFoot,498,Liverpool,Leicester,4,1,2016-09-10 20:30:00,James Milner,Pass
+113223,18,SavedShot,0.764000015258789,0.38799999237060545,0.0304824598133564,Daniel Sturridge,h,483,OpenPlay,2016,LeftFoot,498,Liverpool,Leicester,4,1,2016-09-10 20:30:00,Georginio Wijnaldum,LayOff
+113225,22,SavedShot,0.7730000305175782,0.33099998474121095,0.022819429636001587,Georginio Wijnaldum,h,771,OpenPlay,2016,RightFoot,498,Liverpool,Leicester,4,1,2016-09-10 20:30:00,Nathaniel Clyne,Pass
+113226,25,SavedShot,0.9619999694824218,0.4520000076293945,0.6492780447006226,Daniel Sturridge,h,483,OpenPlay,2016,RightFoot,498,Liverpool,Leicester,4,1,2016-09-10 20:30:00,Sadio Mané,Pass
+113227,28,SavedShot,0.975999984741211,0.3029999923706055,0.06219492852687836,Daniel Sturridge,h,483,OpenPlay,2016,LeftFoot,498,Liverpool,Leicester,4,1,2016-09-10 20:30:00,Nathaniel Clyne,Pass
+113228,29,BlockedShot,0.7859999847412109,0.435,0.047430966049432755,Daniel Sturridge,h,483,OpenPlay,2016,LeftFoot,498,Liverpool,Leicester,4,1,2016-09-10 20:30:00,Nathaniel Clyne,Pass
+113229,30,Goal,0.9159999847412109,0.519000015258789,0.539212167263031,Sadio Mané,h,838,OpenPlay,2016,RightFoot,498,Liverpool,Leicester,4,1,2016-09-10 20:30:00,Daniel Sturridge,Pass
+113230,36,MissedShots,0.805,0.5029999923706054,0.07461363077163696,Georginio Wijnaldum,h,771,OpenPlay,2016,RightFoot,498,Liverpool,Leicester,4,1,2016-09-10 20:30:00,Daniel Sturridge,Pass
+113232,38,BlockedShot,0.7869999694824219,0.27299999237060546,0.025440774857997894,Adam Lallana,h,486,OpenPlay,2016,LeftFoot,498,Liverpool,Leicester,4,1,2016-09-10 20:30:00,Sadio Mané,Pass
+113236,55,SavedShot,0.885,0.5429999923706055,0.3985142707824707,Daniel Sturridge,h,483,OpenPlay,2016,LeftFoot,498,Liverpool,Leicester,4,1,2016-09-10 20:30:00,Roberto Firmino,Pass
+113237,55,Goal,0.865999984741211,0.345,0.08075600117444992,Adam Lallana,h,486,OpenPlay,2016,RightFoot,498,Liverpool,Leicester,4,1,2016-09-10 20:30:00,Georginio Wijnaldum,Pass
+113243,76,BlockedShot,0.7130000305175781,0.669000015258789,0.022569840773940086,Philippe Coutinho,h,488,OpenPlay,2016,RightFoot,498,Liverpool,Leicester,4,1,2016-09-10 20:30:00,Roberto Firmino,Pass
+113245,78,MissedShots,0.88,0.54,0.13349249958992004,Jordan Henderson,h,605,OpenPlay,2016,RightFoot,498,Liverpool,Leicester,4,1,2016-09-10 20:30:00,Roberto Firmino,Pass
+113246,86,SavedShot,0.935,0.4370000076293945,0.19082504510879517,Sadio Mané,h,838,OpenPlay,2016,RightFoot,498,Liverpool,Leicester,4,1,2016-09-10 20:30:00,Roberto Firmino,TakeOn
+113247,88,Goal,0.8469999694824218,0.4759999847412109,0.3197706341743469,Roberto Firmino,h,482,OpenPlay,2016,LeftFoot,498,Liverpool,Leicester,4,1,2016-09-10 20:30:00,Sadio Mané,Pass
+113248,93,BlockedShot,0.789000015258789,0.7230000305175781,0.051336128264665604,Philippe Coutinho,h,488,OpenPlay,2016,RightFoot,498,Liverpool,Leicester,4,1,2016-09-10 20:30:00,James Milner,Chipped
+113220,2,MissedShots,0.7340000152587891,0.47400001525878904,0.015453239902853966,Shinji Okazaki,a,754,OpenPlay,2016,RightFoot,498,Liverpool,Leicester,4,1,2016-09-10 20:30:00,,None
+113224,20,BlockedShot,0.730999984741211,0.23600000381469727,0.012837921269237995,Riyad Mahrez,a,750,OpenPlay,2016,LeftFoot,498,Liverpool,Leicester,4,1,2016-09-10 20:30:00,Marc Albrighton,Pass
+113231,37,Goal,0.935,0.5129999923706055,0.5212060213088989,Jamie Vardy,a,755,OpenPlay,2016,RightFoot,498,Liverpool,Leicester,4,1,2016-09-10 20:30:00,,None
+113233,40,ShotOnPost,0.9230000305175782,0.45799999237060546,0.05227011814713478,Robert Huth,a,747,OpenPlay,2016,Head,498,Liverpool,Leicester,4,1,2016-09-10 20:30:00,Luis Hernández,Pass
+113234,44,BlockedShot,0.745,0.40200000762939453,0.012442471459507942,Daniel Drinkwater,a,752,SetPiece,2016,RightFoot,498,Liverpool,Leicester,4,1,2016-09-10 20:30:00,,None
+113235,47,BlockedShot,0.774000015258789,0.4179999923706055,0.029864761978387833,Ahmed Musa,a,1681,OpenPlay,2016,LeftFoot,498,Liverpool,Leicester,4,1,2016-09-10 20:30:00,Riyad Mahrez,Pass
+113238,60,SavedShot,0.865,0.53,0.3130909502506256,Jamie Vardy,a,755,OpenPlay,2016,LeftFoot,498,Liverpool,Leicester,4,1,2016-09-10 20:30:00,Riyad Mahrez,Throughball
+113239,72,MissedShots,0.9019999694824219,0.4520000076293945,0.07820948213338852,Robert Huth,a,747,OpenPlay,2016,Head,498,Liverpool,Leicester,4,1,2016-09-10 20:30:00,Luis Hernández,Cross
+113240,74,BlockedShot,0.769000015258789,0.27,0.018177596852183342,Riyad Mahrez,a,750,OpenPlay,2016,LeftFoot,498,Liverpool,Leicester,4,1,2016-09-10 20:30:00,Daniel Amartey,TakeOn
+113241,74,BlockedShot,0.8480000305175781,0.36400001525878906,0.03488972783088684,Daniel Drinkwater,a,752,FromCorner,2016,RightFoot,498,Liverpool,Leicester,4,1,2016-09-10 20:30:00,Riyad Mahrez,Cross
+113242,75,MissedShots,0.91,0.4490000152587891,0.10238994657993317,Daniel Amartey,a,759,FromCorner,2016,RightFoot,498,Liverpool,Leicester,4,1,2016-09-10 20:30:00,,None
+113244,77,SavedShot,0.8919999694824219,0.5870000076293945,0.03425069898366928,Jamie Vardy,a,755,OpenPlay,2016,Head,498,Liverpool,Leicester,4,1,2016-09-10 20:30:00,Ahmed Musa,Cross

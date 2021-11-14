@@ -1,0 +1,26 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+225739,4,MissedShots,0.765,0.38599998474121094,0.06626244634389877,Valter Birsa,h,1336,DirectFreekick,2018,LeftFoot,9618,Chievo,Udinese,0,2,2018-09-23 13:00:00,,Standard
+225740,6,MissedShots,0.745,0.5709999847412109,0.01790730468928814,Ivan Radovanovic,h,1341,OpenPlay,2018,RightFoot,9618,Chievo,Udinese,0,2,2018-09-23 13:00:00,Emanuele Giaccherini,Pass
+225742,27,BlockedShot,0.7230000305175781,0.43099998474121093,0.046083323657512665,Valter Birsa,h,1336,DirectFreekick,2018,LeftFoot,9618,Chievo,Udinese,0,2,2018-09-23 13:00:00,,Standard
+225743,28,SavedShot,0.865,0.4879999923706055,0.0759003534913063,Mariusz Stepinski,h,5718,SetPiece,2018,LeftFoot,9618,Chievo,Udinese,0,2,2018-09-23 13:00:00,Joel Obi,HeadPass
+225747,38,MissedShots,0.9590000152587891,0.5509999847412109,0.43142032623291016,Nenad Tomovic,h,1435,FromCorner,2018,Head,9618,Chievo,Udinese,0,2,2018-09-23 13:00:00,Valter Birsa,Cross
+225748,41,MissedShots,0.840999984741211,0.8380000305175781,0.04298984259366989,Emanuele Giaccherini,h,1033,DirectFreekick,2018,RightFoot,9618,Chievo,Udinese,0,2,2018-09-23 13:00:00,,Standard
+225749,49,MissedShots,0.87,0.5459999847412109,0.1599658727645874,Nicola Rigoni,h,1335,OpenPlay,2018,LeftFoot,9618,Chievo,Udinese,0,2,2018-09-23 13:00:00,Mariusz Stepinski,TakeOn
+225751,58,SavedShot,0.9130000305175782,0.48700000762939455,0.12457174807786942,Mariusz Stepinski,h,5718,OpenPlay,2018,Head,9618,Chievo,Udinese,0,2,2018-09-23 13:00:00,Fabrizio Cacciatore,Cross
+225753,71,SavedShot,0.95,0.4759999847412109,0.0986863449215889,Luca Rossettini,h,1180,FromCorner,2018,RightFoot,9618,Chievo,Udinese,0,2,2018-09-23 13:00:00,Emanuele Giaccherini,SubstitutionOn
+225754,74,MissedShots,0.8680000305175781,0.5070000076293946,0.03219747543334961,Mariusz Stepinski,h,5718,OpenPlay,2018,Head,9618,Chievo,Udinese,0,2,2018-09-23 13:00:00,Mehdi Leris,Cross
+225757,80,MissedShots,0.919000015258789,0.37900001525878907,0.07849422097206116,Nicola Rigoni,h,1335,OpenPlay,2018,RightFoot,9618,Chievo,Udinese,0,2,2018-09-23 13:00:00,Emanuele Giaccherini,Chipped
+225759,85,BlockedShot,0.845,0.5359999847412109,0.05806554853916168,Mariusz Stepinski,h,5718,OpenPlay,2018,RightFoot,9618,Chievo,Udinese,0,2,2018-09-23 13:00:00,,None
+225760,87,SavedShot,0.905,0.46299999237060546,0.3244614899158478,Nicola Rigoni,h,1335,OpenPlay,2018,Head,9618,Chievo,Udinese,0,2,2018-09-23 13:00:00,Fabrizio Cacciatore,Cross
+225761,89,SavedShot,0.7719999694824219,0.6959999847412109,0.018045973032712936,Emanuele Giaccherini,h,1033,OpenPlay,2018,RightFoot,9618,Chievo,Udinese,0,2,2018-09-23 13:00:00,Federico Barba,Pass
+225741,22,SavedShot,0.9419999694824219,0.3390000152587891,0.06307642161846161,Ignacio Pussetto,a,6997,OpenPlay,2018,RightFoot,9618,Chievo,Udinese,0,2,2018-09-23 13:00:00,,None
+225744,30,ShotOnPost,0.8669999694824219,0.595999984741211,0.09237256646156311,Seko Fofana,a,1144,OpenPlay,2018,LeftFoot,9618,Chievo,Udinese,0,2,2018-09-23 13:00:00,Ignacio Pussetto,Pass
+225745,30,MissedShots,0.9119999694824219,0.4759999847412109,0.04953105375170708,Lukasz Teodorczyk,a,6998,OpenPlay,2018,Head,9618,Chievo,Udinese,0,2,2018-09-23 13:00:00,,Rebound
+225746,32,MissedShots,0.865999984741211,0.4640000152587891,0.07920508831739426,Seko Fofana,a,1144,OpenPlay,2018,RightFoot,9618,Chievo,Udinese,0,2,2018-09-23 13:00:00,,None
+225750,57,MissedShots,0.86,0.49,0.1275208741426468,Lukasz Teodorczyk,a,6998,OpenPlay,2018,RightFoot,9618,Chievo,Udinese,0,2,2018-09-23 13:00:00,Rodrigo de Paul,Throughball
+225752,68,SavedShot,0.94,0.7269999694824218,0.02925579808652401,Kevin Lasagna,a,1903,OpenPlay,2018,LeftFoot,9618,Chievo,Udinese,0,2,2018-09-23 13:00:00,Rodrigo de Paul,Pass
+225755,74,SavedShot,0.8730000305175781,0.43,0.0749516636133194,Kevin Lasagna,a,1903,OpenPlay,2018,RightFoot,9618,Chievo,Udinese,0,2,2018-09-23 13:00:00,Valon Behrami,TakeOn
+225756,75,Goal,0.71,0.48200000762939454,0.014003090560436249,Rodrigo de Paul,a,1145,OpenPlay,2018,RightFoot,9618,Chievo,Udinese,0,2,2018-09-23 13:00:00,Rolando Mandragora,Pass
+225758,82,BlockedShot,0.8690000152587891,0.5829999923706055,0.09916885942220688,Seko Fofana,a,1144,OpenPlay,2018,RightFoot,9618,Chievo,Udinese,0,2,2018-09-23 13:00:00,Samir,Pass
+225762,89,Goal,0.865999984741211,0.4809999847412109,0.4443948566913605,Kevin Lasagna,a,1903,OpenPlay,2018,LeftFoot,9618,Chievo,Udinese,0,2,2018-09-23 13:00:00,Rodrigo de Paul,Pass
+225763,93,BlockedShot,0.8119999694824219,0.34700000762939454,0.04686328023672104,Darwin Machís,a,4226,OpenPlay,2018,LeftFoot,9618,Chievo,Udinese,0,2,2018-09-23 13:00:00,,BallRecovery

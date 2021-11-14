@@ -1,0 +1,14 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+351654,34,BlockedShot,0.774000015258789,0.5359999847412109,0.01255862321704626,Jairo Riedewald,h,6027,SetPiece,2019,LeftFoot,11859,Crystal Palace,Arsenal,1,1,2020-01-11 12:30:00,,Aerial
+351655,40,SavedShot,0.8519999694824218,0.6509999847412109,0.0604858323931694,Cheikhou Kouyaté,h,532,OpenPlay,2019,RightFoot,11859,Crystal Palace,Arsenal,1,1,2020-01-11 12:30:00,,TakeOn
+351656,53,Goal,0.875999984741211,0.4,0.0892941951751709,Jordan Ayew,h,672,SetPiece,2019,LeftFoot,11859,Crystal Palace,Arsenal,1,1,2020-01-11 12:30:00,Cheikhou Kouyaté,Pass
+351657,56,MissedShots,0.830999984741211,0.6759999847412109,0.023662332445383072,Max Meyer,h,338,OpenPlay,2019,RightFoot,11859,Crystal Palace,Arsenal,1,1,2020-01-11 12:30:00,Jordan Ayew,HeadPass
+351660,77,BlockedShot,0.9530000305175781,0.5129999923706055,0.10801328718662262,James Tomkins,h,530,SetPiece,2019,Head,11859,Crystal Palace,Arsenal,1,1,2020-01-11 12:30:00,Wilfried Zaha,Aerial
+351665,95,MissedShots,0.8119999694824219,0.66,0.023848196491599083,James Tomkins,h,530,SetPiece,2019,LeftFoot,11859,Crystal Palace,Arsenal,1,1,2020-01-11 12:30:00,,None
+351653,11,Goal,0.899000015258789,0.46,0.4340868890285492,Pierre-Emerick Aubameyang,a,318,OpenPlay,2019,RightFoot,11859,Crystal Palace,Arsenal,1,1,2020-01-11 12:30:00,Alexandre Lacazette,Pass
+351658,60,MissedShots,0.9569999694824218,0.39,0.038158517330884933,David Luiz,a,1676,FromCorner,2019,Head,11859,Crystal Palace,Arsenal,1,1,2020-01-11 12:30:00,Nicolas Pepe,Cross
+351659,76,BlockedShot,0.8419999694824218,0.36900001525878906,0.03708498179912567,Granit Xhaka,a,204,FromCorner,2019,LeftFoot,11859,Crystal Palace,Arsenal,1,1,2020-01-11 12:30:00,,None
+351661,82,SavedShot,0.8830000305175781,0.685,0.060927703976631165,Nicolas Pepe,a,5656,OpenPlay,2019,LeftFoot,11859,Crystal Palace,Arsenal,1,1,2020-01-11 12:30:00,Alexandre Lacazette,Pass
+351662,82,SavedShot,0.97,0.504000015258789,0.8708695769309998,Alexandre Lacazette,a,3277,OpenPlay,2019,RightFoot,11859,Crystal Palace,Arsenal,1,1,2020-01-11 12:30:00,,Rebound
+351663,82,SavedShot,0.97,0.504000015258789,0.22473464906215668,Alexandre Lacazette,a,3277,OpenPlay,2019,RightFoot,11859,Crystal Palace,Arsenal,1,1,2020-01-11 12:30:00,,Rebound
+351664,85,MissedShots,0.6279999923706054,0.524000015258789,0.023916468024253845,David Luiz,a,1676,DirectFreekick,2019,RightFoot,11859,Crystal Palace,Arsenal,1,1,2020-01-11 12:30:00,,Standard

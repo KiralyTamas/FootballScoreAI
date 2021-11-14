@@ -1,0 +1,24 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+255645,0,Goal,0.885,0.5,0.75777667760849,Nils Petersen,h,4248,Penalty,2018,RightFoot,10414,Freiburg,Borussia M.Gladbach,3,1,2018-10-26 18:30:00,,Standard
+255649,16,SavedShot,0.8019999694824219,0.664000015258789,0.03825908899307251,Christian Günter,h,4243,OpenPlay,2018,RightFoot,10414,Freiburg,Borussia M.Gladbach,3,1,2018-10-26 18:30:00,Janik Haberer,Pass
+255651,21,MissedShots,0.7909999847412109,0.605999984741211,0.027703162282705307,Gian-Luca Waldschmidt,h,294,OpenPlay,2018,RightFoot,10414,Freiburg,Borussia M.Gladbach,3,1,2018-10-26 18:30:00,Mike Frantz,HeadPass
+255652,21,BlockedShot,0.8090000152587891,0.55,0.01868220791220665,Janik Haberer,h,4271,OpenPlay,2018,LeftFoot,10414,Freiburg,Borussia M.Gladbach,3,1,2018-10-26 18:30:00,,Aerial
+255653,21,BlockedShot,0.7759999847412109,0.6930000305175781,0.014485259540379047,Christian Günter,h,4243,OpenPlay,2018,LeftFoot,10414,Freiburg,Borussia M.Gladbach,3,1,2018-10-26 18:30:00,Janik Haberer,Rebound
+255654,22,MissedShots,0.9459999847412109,0.5690000152587891,0.10911430418491364,Nicolas Höfler,h,4250,FromCorner,2018,Head,10414,Freiburg,Borussia M.Gladbach,3,1,2018-10-26 18:30:00,Gian-Luca Waldschmidt,Cross
+255656,28,MissedShots,0.8769999694824219,0.28899999618530275,0.03659906983375549,Janik Haberer,h,4271,OpenPlay,2018,LeftFoot,10414,Freiburg,Borussia M.Gladbach,3,1,2018-10-26 18:30:00,Lukas Kübler,Pass
+255657,43,SavedShot,0.915,0.29700000762939455,0.04451439902186394,Lukas Kübler,h,5263,OpenPlay,2018,RightFoot,10414,Freiburg,Borussia M.Gladbach,3,1,2018-10-26 18:30:00,Janik Haberer,Pass
+255661,56,Goal,0.8390000152587891,0.3770000076293945,0.08680375665426254,Gian-Luca Waldschmidt,h,294,OpenPlay,2018,LeftFoot,10414,Freiburg,Borussia M.Gladbach,3,1,2018-10-26 18:30:00,Janik Haberer,Pass
+255663,76,SavedShot,0.8330000305175781,0.74,0.03112742491066456,Roland Sallai,h,1277,OpenPlay,2018,LeftFoot,10414,Freiburg,Borussia M.Gladbach,3,1,2018-10-26 18:30:00,Lukas Kübler,Pass
+255664,81,BlockedShot,0.855999984741211,0.5420000076293945,0.1064106747508049,Roland Sallai,h,1277,OpenPlay,2018,RightFoot,10414,Freiburg,Borussia M.Gladbach,3,1,2018-10-26 18:30:00,Janik Haberer,Pass
+255666,85,SavedShot,0.8619999694824219,0.6140000152587891,0.13383369147777557,Roland Sallai,h,1277,OpenPlay,2018,RightFoot,10414,Freiburg,Borussia M.Gladbach,3,1,2018-10-26 18:30:00,Dominique Heintz,Throughball
+255667,93,Goal,0.5329999923706055,0.47299999237060547,0.008482087403535843,Lucas Höler,h,6475,OpenPlay,2018,RightFoot,10414,Freiburg,Borussia M.Gladbach,3,1,2018-10-26 18:30:00,,BallRecovery
+255646,5,ShotOnPost,0.9219999694824219,0.534000015258789,0.09822392463684082,Nico Elvedi,a,212,FromCorner,2018,LeftFoot,10414,Freiburg,Borussia M.Gladbach,3,1,2018-10-26 18:30:00,Thorgan Hazard,Cross
+255647,11,MissedShots,0.749000015258789,0.7130000305175781,0.021651998162269592,Thorgan Hazard,a,213,FromCorner,2018,RightFoot,10414,Freiburg,Borussia M.Gladbach,3,1,2018-10-26 18:30:00,Oscar Wendt,Pass
+255648,16,MissedShots,0.855999984741211,0.5359999847412109,0.06373952329158783,Alassane Pléa,a,3310,OpenPlay,2018,RightFoot,10414,Freiburg,Borussia M.Gladbach,3,1,2018-10-26 18:30:00,,None
+255650,19,Goal,0.885,0.5,0.75777667760849,Thorgan Hazard,a,213,Penalty,2018,RightFoot,10414,Freiburg,Borussia M.Gladbach,3,1,2018-10-26 18:30:00,,Standard
+255655,24,BlockedShot,0.7759999847412109,0.34200000762939453,0.02516728639602661,Jonas Hofmann,a,320,OpenPlay,2018,RightFoot,10414,Freiburg,Borussia M.Gladbach,3,1,2018-10-26 18:30:00,Matthias Ginter,Pass
+255658,45,SavedShot,0.7290000152587891,0.534000015258789,0.015112915076315403,Jonas Hofmann,a,320,FromCorner,2018,RightFoot,10414,Freiburg,Borussia M.Gladbach,3,1,2018-10-26 18:30:00,,None
+255659,47,MissedShots,0.7369999694824219,0.5209999847412109,0.020715100690722466,Lars Stindl,a,208,OpenPlay,2018,RightFoot,10414,Freiburg,Borussia M.Gladbach,3,1,2018-10-26 18:30:00,Oscar Wendt,Pass
+255660,51,MissedShots,0.8480000305175781,0.27399999618530274,0.033072251826524734,Michael Lang,a,7180,OpenPlay,2018,RightFoot,10414,Freiburg,Borussia M.Gladbach,3,1,2018-10-26 18:30:00,,BallRecovery
+255662,71,BlockedShot,0.7880000305175782,0.6819999694824219,0.0244304146617651,Thorgan Hazard,a,213,OpenPlay,2018,RightFoot,10414,Freiburg,Borussia M.Gladbach,3,1,2018-10-26 18:30:00,Jonas Hofmann,Pass
+255665,82,BlockedShot,0.9130000305175782,0.4209999847412109,0.08653989434242249,Lars Stindl,a,208,OpenPlay,2018,RightFoot,10414,Freiburg,Borussia M.Gladbach,3,1,2018-10-26 18:30:00,Thorgan Hazard,Cross

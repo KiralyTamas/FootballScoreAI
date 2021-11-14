@@ -1,0 +1,29 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+368476,13,BlockedShot,0.8030000305175782,0.48900001525878906,0.05108474940061569,Yannick Carrasco,h,2272,OpenPlay,2019,RightFoot,12354,Atletico Madrid,Mallorca,3,0,2020-07-03 20:00:00,Marcos Llorente,Pass
+368477,14,BlockedShot,0.8969999694824219,0.46799999237060547,0.10144990682601929,Marcos Llorente,h,2518,OpenPlay,2019,LeftFoot,12354,Atletico Madrid,Mallorca,3,0,2020-07-03 20:00:00,Álvaro Morata,BallTouch
+368478,17,MissedShots,0.905,0.5729999923706055,0.12440082430839539,Yannick Carrasco,h,2272,OpenPlay,2019,RightFoot,12354,Atletico Madrid,Mallorca,3,0,2020-07-03 20:00:00,Álvaro Morata,Pass
+368480,21,MissedShots,0.779000015258789,0.51,0.03437907248735428,Koke,h,2269,OpenPlay,2019,RightFoot,12354,Atletico Madrid,Mallorca,3,0,2020-07-03 20:00:00,João Félix,Pass
+368481,22,MissedShots,0.9059999847412109,0.67,0.3246227502822876,João Félix,h,7892,OpenPlay,2019,RightFoot,12354,Atletico Madrid,Mallorca,3,0,2020-07-03 20:00:00,Yannick Carrasco,Pass
+368482,28,Goal,0.885,0.5,0.7431496977806091,Álvaro Morata,h,1804,Penalty,2019,RightFoot,12354,Atletico Madrid,Mallorca,3,0,2020-07-03 20:00:00,,Standard
+368483,29,MissedShots,0.914000015258789,0.6129999923706054,0.12078102678060532,João Félix,h,7892,OpenPlay,2019,LeftFoot,12354,Atletico Madrid,Mallorca,3,0,2020-07-03 20:00:00,Marcos Llorente,Pass
+368484,33,BlockedShot,0.8619999694824219,0.3820000076293945,0.09156341850757599,João Félix,h,7892,OpenPlay,2019,RightFoot,12354,Atletico Madrid,Mallorca,3,0,2020-07-03 20:00:00,Yannick Carrasco,Pass
+368485,41,BlockedShot,0.8159999847412109,0.5420000076293945,0.07345670461654663,Yannick Carrasco,h,2272,OpenPlay,2019,LeftFoot,12354,Atletico Madrid,Mallorca,3,0,2020-07-03 20:00:00,Manuel Sánchez,Pass
+368487,48,Goal,0.9680000305175781,0.5370000076293945,0.687709629535675,Álvaro Morata,h,1804,OpenPlay,2019,RightFoot,12354,Atletico Madrid,Mallorca,3,0,2020-07-03 20:00:00,Marcos Llorente,Pass
+368493,67,MissedShots,0.924000015258789,0.3220000076293945,0.1014777347445488,Ángel Correa,h,2275,OpenPlay,2019,RightFoot,12354,Atletico Madrid,Mallorca,3,0,2020-07-03 20:00:00,Kieran Trippier,Chipped
+368494,72,ShotOnPost,0.874000015258789,0.735999984741211,0.054160743951797485,Renan Lodi,h,7891,OpenPlay,2019,LeftFoot,12354,Atletico Madrid,Mallorca,3,0,2020-07-03 20:00:00,Ángel Correa,Pass
+368496,78,Goal,0.7919999694824219,0.29200000762939454,0.02152007818222046,Koke,h,2269,OpenPlay,2019,RightFoot,12354,Atletico Madrid,Mallorca,3,0,2020-07-03 20:00:00,,None
+368498,84,BlockedShot,0.8959999847412109,0.43400001525878906,0.07079852372407913,Diego Costa,h,802,SetPiece,2019,Head,12354,Atletico Madrid,Mallorca,3,0,2020-07-03 20:00:00,Kieran Trippier,Cross
+368499,84,MissedShots,0.879000015258789,0.4640000152587891,0.05119888857007027,Giménez,h,2278,FromCorner,2019,RightFoot,12354,Atletico Madrid,Mallorca,3,0,2020-07-03 20:00:00,Ángel Correa,Cross
+368475,10,SavedShot,0.7580000305175781,0.3240000152587891,0.011939494870603085,Takefusa Kubo,a,8001,OpenPlay,2019,LeftFoot,12354,Atletico Madrid,Mallorca,3,0,2020-07-03 20:00:00,Juan Camilo Hernández,Chipped
+368479,20,MissedShots,0.91,0.555,0.0524161122739315,Iddrisu Baba,a,7840,SetPiece,2019,OtherBodyPart,12354,Atletico Madrid,Mallorca,3,0,2020-07-03 20:00:00,Aleksandar Trajkovski,Cross
+368486,42,BlockedShot,0.6909999847412109,0.33299999237060546,0.011527158319950104,Alejandro Pozo,a,5138,FromCorner,2019,RightFoot,12354,Atletico Madrid,Mallorca,3,0,2020-07-03 20:00:00,,None
+368488,45,BlockedShot,0.745,0.33,0.011985084973275661,Iddrisu Baba,a,7840,OpenPlay,2019,RightFoot,12354,Atletico Madrid,Mallorca,3,0,2020-07-03 20:00:00,Aleksandar Trajkovski,Pass
+368489,49,BlockedShot,0.7980000305175782,0.455,0.04865291714668274,Aleksandar Trajkovski,a,1837,OpenPlay,2019,RightFoot,12354,Atletico Madrid,Mallorca,3,0,2020-07-03 20:00:00,Takefusa Kubo,Pass
+368490,51,MissedShots,0.8859999847412109,0.40099998474121096,0.09748400747776031,Juan Camilo Hernández,a,6954,OpenPlay,2019,RightFoot,12354,Atletico Madrid,Mallorca,3,0,2020-07-03 20:00:00,Alejandro Pozo,Pass
+368491,58,BlockedShot,0.950999984741211,0.26399999618530273,0.04000991955399513,Takefusa Kubo,a,8001,OpenPlay,2019,LeftFoot,12354,Atletico Madrid,Mallorca,3,0,2020-07-03 20:00:00,Alejandro Pozo,TakeOn
+368492,63,MissedShots,0.755,0.4779999923706055,0.03237183764576912,Salva Sevilla,a,2121,FromCorner,2019,LeftFoot,12354,Atletico Madrid,Mallorca,3,0,2020-07-03 20:00:00,Takefusa Kubo,Pass
+368495,74,BlockedShot,0.8630000305175781,0.66,0.05469236522912979,Lago Junior,a,7843,OpenPlay,2019,RightFoot,12354,Atletico Madrid,Mallorca,3,0,2020-07-03 20:00:00,Joan Sastre,Pass
+368497,79,MissedShots,0.92,0.3870000076293945,0.0978337898850441,Pablo Chavarria,a,4771,OpenPlay,2019,LeftFoot,12354,Atletico Madrid,Mallorca,3,0,2020-07-03 20:00:00,Takefusa Kubo,Pass
+368500,88,MissedShots,0.755,0.7030000305175781,0.015643781051039696,Joan Sastre,a,7837,OpenPlay,2019,RightFoot,12354,Atletico Madrid,Mallorca,3,0,2020-07-03 20:00:00,Dani Rodríguez,Pass
+368501,90,BlockedShot,0.9069999694824219,0.5709999847412109,0.04535297304391861,Lago Junior,a,7843,OpenPlay,2019,Head,12354,Atletico Madrid,Mallorca,3,0,2020-07-03 20:00:00,Takefusa Kubo,Aerial
+368502,91,MissedShots,0.9680000305175781,0.5870000076293945,0.0755951926112175,Abdón Prats,a,8014,OpenPlay,2019,LeftFoot,12354,Atletico Madrid,Mallorca,3,0,2020-07-03 20:00:00,Takefusa Kubo,Chipped

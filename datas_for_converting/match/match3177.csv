@@ -1,0 +1,22 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+138395,5,BlockedShot,0.8330000305175781,0.3270000076293945,0.04087565839290619,Marco Asensio,h,2117,OpenPlay,2016,LeftFoot,3177,Real Madrid,Deportivo La Coruna,3,2,2016-12-10 23:45:00,Toni Kroos,Chipped
+138396,6,BlockedShot,0.7219999694824218,0.45799999237060546,0.01758646033704281,Toni Kroos,h,2369,OpenPlay,2016,RightFoot,3177,Real Madrid,Deportivo La Coruna,3,2,2016-12-10 23:45:00,Marco Asensio,Pass
+138397,12,BlockedShot,0.8809999847412109,0.5540000152587891,0.09263481944799423,Nacho,h,2247,OpenPlay,2016,RightFoot,3177,Real Madrid,Deportivo La Coruna,3,2,2016-12-10 23:45:00,,Tackle
+138398,12,MissedShots,0.7559999847412109,0.7440000152587891,0.017566127702593803,Isco,h,2255,OpenPlay,2016,RightFoot,3177,Real Madrid,Deportivo La Coruna,3,2,2016-12-10 23:45:00,James Rodríguez,Pass
+138399,17,BlockedShot,0.7759999847412109,0.345,0.01819760724902153,Isco,h,2255,OpenPlay,2016,RightFoot,3177,Real Madrid,Deportivo La Coruna,3,2,2016-12-10 23:45:00,James Rodríguez,Chipped
+138400,25,MissedShots,0.784000015258789,0.6229999923706054,0.08867955207824707,Sergio Ramos,h,2246,DirectFreekick,2016,RightFoot,3177,Real Madrid,Deportivo La Coruna,3,2,2016-12-10 23:45:00,,Standard
+138402,28,SavedShot,0.865999984741211,0.385,0.2768516540527344,James Rodríguez,h,2249,OpenPlay,2016,LeftFoot,3177,Real Madrid,Deportivo La Coruna,3,2,2016-12-10 23:45:00,Álvaro Morata,Pass
+138403,30,BlockedShot,0.745,0.45599998474121095,0.017408333718776703,Toni Kroos,h,2369,FromCorner,2016,RightFoot,3177,Real Madrid,Deportivo La Coruna,3,2,2016-12-10 23:45:00,,None
+138405,36,MissedShots,0.6830000305175781,0.40700000762939453,0.013999192044138908,Casemiro,h,2248,OpenPlay,2016,RightFoot,3177,Real Madrid,Deportivo La Coruna,3,2,2016-12-10 23:45:00,Danilo,Pass
+138406,39,BlockedShot,0.8930000305175781,0.5970000076293945,0.039757873862981796,Álvaro Morata,h,1804,OpenPlay,2016,Head,3177,Real Madrid,Deportivo La Coruna,3,2,2016-12-10 23:45:00,Isco,Cross
+138407,40,MissedShots,0.885,0.44299999237060544,0.11508571356534958,James Rodríguez,h,2249,OpenPlay,2016,LeftFoot,3177,Real Madrid,Deportivo La Coruna,3,2,2016-12-10 23:45:00,Danilo,Pass
+138408,49,Goal,0.7559999847412109,0.6020000076293945,0.02276870794594288,Álvaro Morata,h,1804,OpenPlay,2016,RightFoot,3177,Real Madrid,Deportivo La Coruna,3,2,2016-12-10 23:45:00,Isco,Pass
+138411,66,BlockedShot,0.8369999694824218,0.624000015258789,0.041441161185503006,Toni Kroos,h,2369,OpenPlay,2016,RightFoot,3177,Real Madrid,Deportivo La Coruna,3,2,2016-12-10 23:45:00,Nacho,TakeOn
+138412,83,Goal,0.9069999694824219,0.4909999847412109,0.04975496977567673,Mariano,h,5110,OpenPlay,2016,OtherBodyPart,3177,Real Madrid,Deportivo La Coruna,3,2,2016-12-10 23:45:00,Lucas Vázquez,Aerial
+138413,90,SavedShot,0.8690000152587891,0.555,0.03882976993918419,Álvaro Morata,h,1804,OpenPlay,2016,Head,3177,Real Madrid,Deportivo La Coruna,3,2,2016-12-10 23:45:00,Pepe,Cross
+138414,91,Goal,0.9419999694824219,0.5379999923706055,0.12933862209320068,Sergio Ramos,h,2246,FromCorner,2016,Head,3177,Real Madrid,Deportivo La Coruna,3,2,2016-12-10 23:45:00,Toni Kroos,Cross
+138415,95,MissedShots,0.93,0.4909999847412109,0.14938053488731384,Álvaro Morata,h,1804,OpenPlay,2016,Head,3177,Real Madrid,Deportivo La Coruna,3,2,2016-12-10 23:45:00,Mariano,Cross
+138401,28,ShotOnPost,0.9230000305175782,0.625,0.046438973397016525,Celso Borges,a,2466,FromCorner,2016,RightFoot,3177,Real Madrid,Deportivo La Coruna,3,2,2016-12-10 23:45:00,Raúl Albentosa,Cross
+138404,34,ShotOnPost,0.925,0.5690000152587891,0.04821782931685448,Celso Borges,a,2466,SetPiece,2016,Head,3177,Real Madrid,Deportivo La Coruna,3,2,2016-12-10 23:45:00,Emre Colak,Aerial
+138409,62,Goal,0.8219999694824218,0.5940000152587891,0.05351049453020096,Joselu,a,866,OpenPlay,2016,LeftFoot,3177,Real Madrid,Deportivo La Coruna,3,2,2016-12-10 23:45:00,Carles Gil,Pass
+138410,64,Goal,0.8930000305175781,0.42700000762939455,0.5002771019935608,Joselu,a,866,OpenPlay,2016,RightFoot,3177,Real Madrid,Deportivo La Coruna,3,2,2016-12-10 23:45:00,Florin Andone,Pass

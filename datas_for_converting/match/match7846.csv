@@ -1,0 +1,27 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+212314,1,BlockedShot,0.8390000152587891,0.33599998474121096,0.029452284798026085,Enrico Brignola,h,6199,SetPiece,2017,LeftFoot,7846,Benevento,Udinese,3,3,2018-04-29 13:00:00,Nicolas Viola,Pass
+212315,6,SavedShot,0.7630000305175781,0.29100000381469726,0.015728548169136047,Nicolas Viola,h,6196,OpenPlay,2017,LeftFoot,7846,Benevento,Udinese,3,3,2018-04-29 13:00:00,Pietro Iemmello,Pass
+212317,18,SavedShot,0.7290000152587891,0.3170000076293945,0.01564113236963749,Filip Djuricic,h,1233,OpenPlay,2017,RightFoot,7846,Benevento,Udinese,3,3,2018-04-29 13:00:00,Danilo Cataldi,Pass
+212318,22,Goal,0.905,0.5479999923706055,0.2884364128112793,Nicolas Viola,h,6196,OpenPlay,2017,Head,7846,Benevento,Udinese,3,3,2018-04-29 13:00:00,Lorenzo Venuti,Cross
+212319,27,MissedShots,0.875,0.56,0.078611820936203,Pietro Iemmello,h,1469,OpenPlay,2017,RightFoot,7846,Benevento,Udinese,3,3,2018-04-29 13:00:00,Filip Djuricic,Chipped
+212322,43,BlockedShot,0.8,0.2929999923706055,0.022393513470888138,Massimo Coda,h,3832,OpenPlay,2017,LeftFoot,7846,Benevento,Udinese,3,3,2018-04-29 13:00:00,Bacary Sagna,BallRecovery
+212323,44,MissedShots,0.8630000305175781,0.26399999618530273,0.02993452548980713,Enrico Brignola,h,6199,OpenPlay,2017,LeftFoot,7846,Benevento,Udinese,3,3,2018-04-29 13:00:00,,None
+212326,55,SavedShot,0.8869999694824219,0.5890000152587891,0.029626885429024696,Massimo Coda,h,3832,OpenPlay,2017,Head,7846,Benevento,Udinese,3,3,2018-04-29 13:00:00,Nicolas Viola,Cross
+212329,62,MissedShots,0.8719999694824219,0.40299999237060546,0.024379180744290352,Massimo Coda,h,3832,OpenPlay,2017,Head,7846,Benevento,Udinese,3,3,2018-04-29 13:00:00,Nicolas Viola,Chipped
+212331,69,BlockedShot,0.815,0.4929999923706055,0.050089865922927856,Nicolas Viola,h,6196,OpenPlay,2017,LeftFoot,7846,Benevento,Udinese,3,3,2018-04-29 13:00:00,Massimo Coda,TakeOn
+212332,75,Goal,0.885,0.5,0.7612988352775574,Massimo Coda,h,3832,Penalty,2017,RightFoot,7846,Benevento,Udinese,3,3,2018-04-29 13:00:00,,Standard
+212338,89,Goal,0.9219999694824219,0.5209999847412109,0.3247227668762207,Bacary Sagna,h,625,FromCorner,2017,Head,7846,Benevento,Udinese,3,3,2018-04-29 13:00:00,Nicolas Viola,Cross
+212316,12,Goal,0.9369999694824219,0.6079999923706054,0.22441549599170685,Silvan Widmer,a,1139,SetPiece,2017,Head,7846,Benevento,Udinese,3,3,2018-04-29 13:00:00,Andrija Balic,Chipped
+212320,30,SavedShot,0.6780000305175782,0.4520000076293945,0.011457446031272411,Seko Fofana,a,1144,OpenPlay,2017,RightFoot,7846,Benevento,Udinese,3,3,2018-04-29 13:00:00,Valon Behrami,Pass
+212321,39,BlockedShot,0.8590000152587891,0.705,0.03456711024045944,Kevin Lasagna,a,1903,OpenPlay,2017,LeftFoot,7846,Benevento,Udinese,3,3,2018-04-29 13:00:00,Antonin Barak,Pass
+212324,46,MissedShots,0.7040000152587891,0.515,0.012597145512700081,Andrija Balic,a,1155,OpenPlay,2017,RightFoot,7846,Benevento,Udinese,3,3,2018-04-29 13:00:00,Kevin Lasagna,Pass
+212325,50,MissedShots,0.8869999694824219,0.575,0.03858264908194542,Kevin Lasagna,a,1903,OpenPlay,2017,Head,7846,Benevento,Udinese,3,3,2018-04-29 13:00:00,Giuseppe Pezzella,Cross
+212327,58,MissedShots,0.7319999694824219,0.700999984741211,0.013247780501842499,Seko Fofana,a,1144,OpenPlay,2017,RightFoot,7846,Benevento,Udinese,3,3,2018-04-29 13:00:00,Giuseppe Pezzella,Pass
+212328,61,SavedShot,0.8819999694824219,0.595,0.08039246499538422,Rodrigo de Paul,a,1145,OpenPlay,2017,RightFoot,7846,Benevento,Udinese,3,3,2018-04-29 13:00:00,Silvan Widmer,Chipped
+212330,66,BlockedShot,0.8119999694824219,0.7440000152587891,0.05963738635182381,Rodrigo de Paul,a,1145,DirectFreekick,2017,RightFoot,7846,Benevento,Udinese,3,3,2018-04-29 13:00:00,,Standard
+212333,77,Goal,0.955999984741211,0.48900001525878906,0.705731213092804,Kevin Lasagna,a,1903,OpenPlay,2017,RightFoot,7846,Benevento,Udinese,3,3,2018-04-29 13:00:00,Rodrigo de Paul,Throughball
+212334,78,Goal,0.9630000305175781,0.5259999847412109,0.6503709554672241,Kevin Lasagna,a,1903,OpenPlay,2017,LeftFoot,7846,Benevento,Udinese,3,3,2018-04-29 13:00:00,,None
+212335,82,MissedShots,0.955999984741211,0.4520000076293945,0.498465895652771,Stipe Perica,a,1154,OpenPlay,2017,Head,7846,Benevento,Udinese,3,3,2018-04-29 13:00:00,Giuseppe Pezzella,Chipped
+212336,85,MissedShots,0.9130000305175782,0.6170000076293946,0.37650322914123535,Andrija Balic,a,1155,OpenPlay,2017,LeftFoot,7846,Benevento,Udinese,3,3,2018-04-29 13:00:00,Stipe Perica,Pass
+212337,85,SavedShot,0.79,0.6619999694824219,0.0328255221247673,Rodrigo de Paul,a,1145,OpenPlay,2017,RightFoot,7846,Benevento,Udinese,3,3,2018-04-29 13:00:00,Seko Fofana,Pass
+212339,93,MissedShots,0.764000015258789,0.55,0.026783166453242302,Seko Fofana,a,1144,OpenPlay,2017,RightFoot,7846,Benevento,Udinese,3,3,2018-04-29 13:00:00,Giuseppe Pezzella,Pass

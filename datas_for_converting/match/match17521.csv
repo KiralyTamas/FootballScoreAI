@@ -1,0 +1,27 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+425659,0,MissedShots,0.855,0.6120000076293945,0.06939432770013809,Wout Weghorst,h,7052,OpenPlay,2021,LeftFoot,17521,Wolfsburg,Bochum,1,0,2021-08-14 13:30:00,Renato Steffen,CornerAwarded
+425660,0,ShotOnPost,0.889000015258789,0.39,0.3664722442626953,Bote Baku,h,6708,OpenPlay,2021,RightFoot,17521,Wolfsburg,Bochum,1,0,2021-08-14 13:30:00,Wout Weghorst,None
+425661,1,BlockedShot,0.81,0.3220000076293945,0.025112830102443695,Maximilian Philipp,h,4247,OpenPlay,2021,LeftFoot,17521,Wolfsburg,Bochum,1,0,2021-08-14 13:30:00,Bote Baku,Pass
+425662,1,BlockedShot,0.955999984741211,0.5379999923706055,0.09172303974628448,Renato Steffen,h,6484,FromCorner,2021,Head,17521,Wolfsburg,Bochum,1,0,2021-08-14 13:30:00,Xaver Schlager,None
+425663,4,SavedShot,0.885,0.5,0.75777667760849,Wout Weghorst,h,7052,Penalty,2021,RightFoot,17521,Wolfsburg,Bochum,1,0,2021-08-14 13:30:00,,Standard
+425664,10,SavedShot,0.9319999694824219,0.38,0.01308110635727644,Wout Weghorst,h,7052,FromCorner,2021,Head,17521,Wolfsburg,Bochum,1,0,2021-08-14 13:30:00,Maximilian Philipp,Aerial
+425666,18,SavedShot,0.830999984741211,0.6869999694824219,0.03407369181513786,Jérôme Roussillon,h,3339,OpenPlay,2021,RightFoot,17521,Wolfsburg,Bochum,1,0,2021-08-14 13:30:00,Maximilian Philipp,Pass
+425667,21,Goal,0.875999984741211,0.549000015258789,0.08142928779125214,Wout Weghorst,h,7052,OpenPlay,2021,RightFoot,17521,Wolfsburg,Bochum,1,0,2021-08-14 13:30:00,,None
+425668,29,BlockedShot,0.8019999694824219,0.585,0.11910636723041534,Maximilian Philipp,h,4247,DirectFreekick,2021,RightFoot,17521,Wolfsburg,Bochum,1,0,2021-08-14 13:30:00,,Standard
+425669,35,MissedShots,0.8080000305175781,0.595999984741211,0.05902237072587013,Renato Steffen,h,6484,OpenPlay,2021,LeftFoot,17521,Wolfsburg,Bochum,1,0,2021-08-14 13:30:00,,None
+425671,40,MissedShots,0.764000015258789,0.49900001525878906,0.042482443153858185,Maximilian Arnold,h,153,OpenPlay,2021,RightFoot,17521,Wolfsburg,Bochum,1,0,2021-08-14 13:30:00,Maximilian Philipp,LayOff
+425672,45,SavedShot,0.9169999694824219,0.495,0.134308859705925,Wout Weghorst,h,7052,OpenPlay,2021,Head,17521,Wolfsburg,Bochum,1,0,2021-08-14 13:30:00,Kevin Mbabu,Cross
+425673,51,SavedShot,0.91,0.46700000762939453,0.33003348112106323,Bote Baku,h,6708,OpenPlay,2021,Head,17521,Wolfsburg,Bochum,1,0,2021-08-14 13:30:00,Kevin Mbabu,Cross
+425674,54,SavedShot,0.9430000305175781,0.39799999237060546,0.28598105907440186,Wout Weghorst,h,7052,OpenPlay,2021,Head,17521,Wolfsburg,Bochum,1,0,2021-08-14 13:30:00,Renato Steffen,Chipped
+425675,59,MissedShots,0.765,0.5729999923706055,0.03486526012420654,Xaver Schlager,h,7783,OpenPlay,2021,LeftFoot,17521,Wolfsburg,Bochum,1,0,2021-08-14 13:30:00,Maximilian Philipp,Pass
+425677,74,SavedShot,0.91,0.639000015258789,0.10477860271930695,Wout Weghorst,h,7052,OpenPlay,2021,LeftFoot,17521,Wolfsburg,Bochum,1,0,2021-08-14 13:30:00,Omar Marmoush,Pass
+425680,90,MissedShots,0.8019999694824219,0.3820000076293945,0.051350608468055725,Josuha Guilavogui,h,150,OpenPlay,2021,LeftFoot,17521,Wolfsburg,Bochum,1,0,2021-08-14 13:30:00,,None
+425681,90,MissedShots,0.7909999847412109,0.41,0.04227212443947792,Bote Baku,h,6708,OpenPlay,2021,LeftFoot,17521,Wolfsburg,Bochum,1,0,2021-08-14 13:30:00,Wout Weghorst,Pass
+425684,92,MissedShots,0.7169999694824218,0.8569999694824219,0.14448072016239166,Omar Marmoush,h,8393,OpenPlay,2021,RightFoot,17521,Wolfsburg,Bochum,1,0,2021-08-14 13:30:00,,None
+425665,14,MissedShots,0.914000015258789,0.6270000076293946,0.020835308358073235,Simon Zoller,a,139,FromCorner,2021,Head,17521,Wolfsburg,Bochum,1,0,2021-08-14 13:30:00,Elvis Rexhbecaj,Cross
+425670,38,MissedShots,0.914000015258789,0.525,0.12381488084793091,Vasilios Lampropoulos,a,9704,SetPiece,2021,Head,17521,Wolfsburg,Bochum,1,0,2021-08-14 13:30:00,Elvis Rexhbecaj,Cross
+425676,65,MissedShots,0.7709999847412109,0.740999984741211,0.01644328236579895,Elvis Rexhbecaj,a,6445,OpenPlay,2021,LeftFoot,17521,Wolfsburg,Bochum,1,0,2021-08-14 13:30:00,Simon Zoller,Pass
+425678,76,SavedShot,0.8280000305175781,0.39799999237060546,0.0703190267086029,Milos Pantovic,a,378,OpenPlay,2021,RightFoot,17521,Wolfsburg,Bochum,1,0,2021-08-14 13:30:00,Elvis Rexhbecaj,Pass
+425679,88,MissedShots,0.7880000305175782,0.6780000305175782,0.02393542043864727,Elvis Rexhbecaj,a,6445,OpenPlay,2021,LeftFoot,17521,Wolfsburg,Bochum,1,0,2021-08-14 13:30:00,Anthony Losilla,Pass
+425682,92,BlockedShot,0.8009999847412109,0.3189999961853027,0.027911372482776642,Anthony Losilla,a,9705,OpenPlay,2021,RightFoot,17521,Wolfsburg,Bochum,1,0,2021-08-14 13:30:00,Milos Pantovic,Pass
+425683,92,BlockedShot,0.74,0.3110000038146973,0.014950363896787167,Herbert Bockhorn,a,9708,OpenPlay,2021,RightFoot,17521,Wolfsburg,Bochum,1,0,2021-08-14 13:30:00,,Rebound

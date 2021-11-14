@@ -1,0 +1,23 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+439657,17,BlockedShot,0.9230000305175782,0.7230000305175781,0.042034491896629333,João Cancelo,h,2379,OpenPlay,2021,LeftFoot,16470,Manchester City,Crystal Palace,0,2,2021-10-30 14:00:00,Aymeric Laporte,Pass
+439658,18,SavedShot,0.875999984741211,0.47299999237060547,0.034343376755714417,Rodri,h,2496,FromCorner,2021,LeftFoot,16470,Manchester City,Crystal Palace,0,2,2021-10-30 14:00:00,Gabriel Jesus,Aerial
+439659,19,MissedShots,0.7430000305175781,0.7090000152587891,0.008709505200386047,João Cancelo,h,2379,OpenPlay,2021,RightFoot,16470,Manchester City,Crystal Palace,0,2,2021-10-30 14:00:00,Rodri,Chipped
+439660,24,BlockedShot,0.865,0.47,0.07145725190639496,Gabriel Jesus,h,5543,FromCorner,2021,LeftFoot,16470,Manchester City,Crystal Palace,0,2,2021-10-30 14:00:00,,None
+439661,24,BlockedShot,0.850999984741211,0.5659999847412109,0.06276492029428482,Jack Grealish,h,675,FromCorner,2021,LeftFoot,16470,Manchester City,Crystal Palace,0,2,2021-10-30 14:00:00,,Rebound
+439662,30,BlockedShot,0.9130000305175782,0.315,0.05787919834256172,Gabriel Jesus,h,5543,OpenPlay,2021,RightFoot,16470,Manchester City,Crystal Palace,0,2,2021-10-30 14:00:00,Rodri,Pass
+439663,36,BlockedShot,0.764000015258789,0.6630000305175782,0.01751713827252388,João Cancelo,h,2379,OpenPlay,2021,RightFoot,16470,Manchester City,Crystal Palace,0,2,2021-10-30 14:00:00,Jack Grealish,Pass
+439664,45,BlockedShot,0.7969999694824219,0.6909999847412109,0.02084999717772007,João Cancelo,h,2379,OpenPlay,2021,RightFoot,16470,Manchester City,Crystal Palace,0,2,2021-10-30 14:00:00,Jack Grealish,Pass
+439665,47,BlockedShot,0.89,0.265,0.03206784650683403,Kevin De Bruyne,h,447,OpenPlay,2021,RightFoot,16470,Manchester City,Crystal Palace,0,2,2021-10-30 14:00:00,Jack Grealish,Pass
+439666,48,MissedShots,0.8819999694824219,0.5870000076293945,0.061385300010442734,Rodri,h,2496,FromCorner,2021,LeftFoot,16470,Manchester City,Crystal Palace,0,2,2021-10-30 14:00:00,Jack Grealish,Pass
+439669,57,SavedShot,0.8530000305175781,0.40700000762939453,0.06945978850126266,Gabriel Jesus,h,5543,OpenPlay,2021,RightFoot,16470,Manchester City,Crystal Palace,0,2,2021-10-30 14:00:00,Jack Grealish,Pass
+439671,65,SavedShot,0.7430000305175781,0.31,0.009991917759180069,João Cancelo,h,2379,SetPiece,2021,RightFoot,16470,Manchester City,Crystal Palace,0,2,2021-10-30 14:00:00,,None
+439672,68,MissedShots,0.9490000152587891,0.4370000076293945,0.11482495814561844,Gabriel Jesus,h,5543,FromCorner,2021,Head,16470,Manchester City,Crystal Palace,0,2,2021-10-30 14:00:00,Phil Foden,Cross
+439677,94,MissedShots,0.8969999694824219,0.5540000152587891,0.05858948826789856,Riyad Mahrez,h,750,OpenPlay,2021,Head,16470,Manchester City,Crystal Palace,0,2,2021-10-30 14:00:00,Raheem Sterling,Cross
+439656,5,Goal,0.8930000305175781,0.6129999923706054,0.3144916892051697,Wilfried Zaha,a,522,OpenPlay,2021,LeftFoot,16470,Manchester City,Crystal Palace,0,2,2021-10-30 14:00:00,Conor Gallagher,Pass
+439667,48,MissedShots,0.759000015258789,0.48400001525878905,0.02791801653802395,James McArthur,a,633,OpenPlay,2021,RightFoot,16470,Manchester City,Crystal Palace,0,2,2021-10-30 14:00:00,Jordan Ayew,Pass
+439668,51,MissedShots,0.9290000152587891,0.544000015258789,0.06200161203742027,Marc Guehi,a,7603,SetPiece,2021,Head,16470,Manchester City,Crystal Palace,0,2,2021-10-30 14:00:00,Conor Gallagher,Aerial
+439670,63,MissedShots,0.89,0.41700000762939454,0.12027565389871597,Jordan Ayew,a,672,OpenPlay,2021,LeftFoot,16470,Manchester City,Crystal Palace,0,2,2021-10-30 14:00:00,Conor Gallagher,Pass
+439673,76,SavedShot,0.8959999847412109,0.3170000076293945,0.07608136534690857,Conor Gallagher,a,9040,OpenPlay,2021,RightFoot,16470,Manchester City,Crystal Palace,0,2,2021-10-30 14:00:00,Wilfried Zaha,Pass
+439674,77,MissedShots,0.925,0.3509999847412109,0.01265471987426281,Jeffrey Schlupp,a,757,FromCorner,2021,Head,16470,Manchester City,Crystal Palace,0,2,2021-10-30 14:00:00,Conor Gallagher,Aerial
+439675,78,BlockedShot,0.8090000152587891,0.6859999847412109,0.043114326894283295,Christian Benteke,a,606,OpenPlay,2021,RightFoot,16470,Manchester City,Crystal Palace,0,2,2021-10-30 14:00:00,James McArthur,BallRecovery
+439676,87,Goal,0.885,0.45799999237060546,0.39375370740890503,Conor Gallagher,a,9040,OpenPlay,2021,RightFoot,16470,Manchester City,Crystal Palace,0,2,2021-10-30 14:00:00,Michael Olise,Pass

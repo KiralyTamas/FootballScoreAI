@@ -1,0 +1,34 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+134372,3,BlockedShot,0.8190000152587891,0.45799999237060546,0.05817173793911934,Jonas Hofmann,h,320,OpenPlay,2016,RightFoot,3802,Borussia M.Gladbach,Bayern Munich,0,1,2017-03-19 16:30:00,André Hahn,Pass
+134373,4,BlockedShot,0.9569999694824218,0.44099998474121094,0.11474829912185669,Tony Jantschke,h,201,FromCorner,2016,LeftFoot,3802,Borussia M.Gladbach,Bayern Munich,0,1,2017-03-19 16:30:00,,None
+134378,28,MissedShots,0.815,0.7809999847412109,0.019821951165795326,Oscar Wendt,h,206,OpenPlay,2016,LeftFoot,3802,Borussia M.Gladbach,Bayern Munich,0,1,2017-03-19 16:30:00,Nico Elvedi,Pass
+134382,35,MissedShots,0.749000015258789,0.6409999847412109,0.020457888022065163,André Hahn,h,412,OpenPlay,2016,RightFoot,3802,Borussia M.Gladbach,Bayern Munich,0,1,2017-03-19 16:30:00,Nico Elvedi,Pass
+134386,53,BlockedShot,0.8859999847412109,0.8169999694824219,0.06206249073147774,Raffael,h,210,DirectFreekick,2016,RightFoot,3802,Borussia M.Gladbach,Bayern Munich,0,1,2017-03-19 16:30:00,,Standard
+134387,53,MissedShots,0.8069999694824219,0.5670000076293945,0.03081432543694973,Jonas Hofmann,h,320,SetPiece,2016,RightFoot,3802,Borussia M.Gladbach,Bayern Munich,0,1,2017-03-19 16:30:00,,Rebound
+134390,61,MissedShots,0.7559999847412109,0.4540000152587891,0.025643525645136833,Raffael,h,210,OpenPlay,2016,RightFoot,3802,Borussia M.Gladbach,Bayern Munich,0,1,2017-03-19 16:30:00,Patrick Herrmann,Pass
+134394,74,SavedShot,0.88,0.2929999923706055,0.03987642377614975,Thorgan Hazard,h,213,OpenPlay,2016,LeftFoot,3802,Borussia M.Gladbach,Bayern Munich,0,1,2017-03-19 16:30:00,,None
+134397,79,MissedShots,0.919000015258789,0.5629999923706055,0.026329530403017998,Andreas Christensen,h,200,FromCorner,2016,Head,3802,Borussia M.Gladbach,Bayern Munich,0,1,2017-03-19 16:30:00,Thorgan Hazard,Aerial
+134398,81,BlockedShot,0.899000015258789,0.345,0.09607061743736267,Josip Drmic,h,209,OpenPlay,2016,RightFoot,3802,Borussia M.Gladbach,Bayern Munich,0,1,2017-03-19 16:30:00,Thorgan Hazard,Pass
+134399,81,BlockedShot,0.870999984741211,0.43,0.1281183511018753,Raffael,h,210,OpenPlay,2016,RightFoot,3802,Borussia M.Gladbach,Bayern Munich,0,1,2017-03-19 16:30:00,Josip Drmic,Pass
+134400,88,BlockedShot,0.785,0.5790000152587891,0.03044232353568077,Jonas Hofmann,h,320,OpenPlay,2016,RightFoot,3802,Borussia M.Gladbach,Bayern Munich,0,1,2017-03-19 16:30:00,,None
+134401,89,MissedShots,0.8919999694824219,0.4909999847412109,0.060856226831674576,Tobias Strobl,h,79,SetPiece,2016,Head,3802,Borussia M.Gladbach,Bayern Munich,0,1,2017-03-19 16:30:00,Raffael,Chipped
+134402,91,BlockedShot,0.855999984741211,0.3340000152587891,0.04454872012138367,Raffael,h,210,OpenPlay,2016,RightFoot,3802,Borussia M.Gladbach,Bayern Munich,0,1,2017-03-19 16:30:00,Thorgan Hazard,Pass
+134370,0,MissedShots,0.87,0.6040000152587891,0.09425395727157593,David Alaba,a,391,OpenPlay,2016,LeftFoot,3802,Borussia M.Gladbach,Bayern Munich,0,1,2017-03-19 16:30:00,Franck Ribéry,Pass
+134371,0,SavedShot,0.87,0.28600000381469726,0.029844477772712708,Arjen Robben,a,392,OpenPlay,2016,LeftFoot,3802,Borussia M.Gladbach,Bayern Munich,0,1,2017-03-19 16:30:00,David Alaba,Rebound
+134374,17,MissedShots,0.9469999694824218,0.4809999847412109,0.15520013868808746,Robert Lewandowski,a,227,OpenPlay,2016,Head,3802,Borussia M.Gladbach,Bayern Munich,0,1,2017-03-19 16:30:00,Franck Ribéry,Chipped
+134375,21,MissedShots,0.92,0.53,0.04539802297949791,Mats Hummels,a,373,FromCorner,2016,Head,3802,Borussia M.Gladbach,Bayern Munich,0,1,2017-03-19 16:30:00,Xabi Alonso,Aerial
+134376,23,SavedShot,0.7669999694824219,0.4179999923706055,0.025614488869905472,Xabi Alonso,a,230,OpenPlay,2016,RightFoot,3802,Borussia M.Gladbach,Bayern Munich,0,1,2017-03-19 16:30:00,Thiago Alcántara,Pass
+134377,24,SavedShot,0.95,0.655,0.29929420351982117,Robert Lewandowski,a,227,OpenPlay,2016,RightFoot,3802,Borussia M.Gladbach,Bayern Munich,0,1,2017-03-19 16:30:00,Franck Ribéry,Pass
+134379,30,BlockedShot,0.875999984741211,0.664000015258789,0.05540986359119415,Thomas Müller,a,224,OpenPlay,2016,LeftFoot,3802,Borussia M.Gladbach,Bayern Munich,0,1,2017-03-19 16:30:00,Franck Ribéry,Pass
+134380,32,BlockedShot,0.8580000305175781,0.4279999923706055,0.08967529982328415,Arjen Robben,a,392,OpenPlay,2016,LeftFoot,3802,Borussia M.Gladbach,Bayern Munich,0,1,2017-03-19 16:30:00,Xabi Alonso,Pass
+134381,32,MissedShots,0.9230000305175782,0.5220000076293946,0.11789847910404205,Robert Lewandowski,a,227,OpenPlay,2016,LeftFoot,3802,Borussia M.Gladbach,Bayern Munich,0,1,2017-03-19 16:30:00,Franck Ribéry,Cross
+134383,36,MissedShots,0.93,0.544000015258789,0.11021704971790314,Mats Hummels,a,373,FromCorner,2016,Head,3802,Borussia M.Gladbach,Bayern Munich,0,1,2017-03-19 16:30:00,Xabi Alonso,Cross
+134384,42,ShotOnPost,0.8009999847412109,0.3240000152587891,0.024458063766360283,Arjen Robben,a,392,OpenPlay,2016,LeftFoot,3802,Borussia M.Gladbach,Bayern Munich,0,1,2017-03-19 16:30:00,,None
+134385,42,SavedShot,0.9130000305175782,0.4759999847412109,0.3363078534603119,Robert Lewandowski,a,227,OpenPlay,2016,Head,3802,Borussia M.Gladbach,Bayern Munich,0,1,2017-03-19 16:30:00,,Rebound
+134388,56,MissedShots,0.865999984741211,0.44099998474121094,0.033223140984773636,Arjen Robben,a,392,OpenPlay,2016,Head,3802,Borussia M.Gladbach,Bayern Munich,0,1,2017-03-19 16:30:00,Philipp Lahm,Chipped
+134389,59,MissedShots,0.919000015258789,0.47,0.14175663888454437,Robert Lewandowski,a,227,OpenPlay,2016,RightFoot,3802,Borussia M.Gladbach,Bayern Munich,0,1,2017-03-19 16:30:00,Thomas Müller,Pass
+134391,62,Goal,0.9319999694824219,0.524000015258789,0.4017190933227539,Thomas Müller,a,224,OpenPlay,2016,LeftFoot,3802,Borussia M.Gladbach,Bayern Munich,0,1,2017-03-19 16:30:00,Thiago Alcántara,Chipped
+134392,70,SavedShot,0.899000015258789,0.6819999694824219,0.07351058721542358,Arjen Robben,a,392,OpenPlay,2016,LeftFoot,3802,Borussia M.Gladbach,Bayern Munich,0,1,2017-03-19 16:30:00,Franck Ribéry,Pass
+134393,73,MissedShots,0.784000015258789,0.595999984741211,0.035204894840717316,Thiago Alcántara,a,229,OpenPlay,2016,RightFoot,3802,Borussia M.Gladbach,Bayern Munich,0,1,2017-03-19 16:30:00,Kingsley Coman,Pass
+134395,77,MissedShots,0.9069999694824219,0.485,0.07975926250219345,Mats Hummels,a,373,FromCorner,2016,Head,3802,Borussia M.Gladbach,Bayern Munich,0,1,2017-03-19 16:30:00,Thiago Alcántara,Cross
+134396,77,BlockedShot,0.825,0.4909999847412109,0.07850098609924316,Robert Lewandowski,a,227,OpenPlay,2016,LeftFoot,3802,Borussia M.Gladbach,Bayern Munich,0,1,2017-03-19 16:30:00,Joshua Kimmich,BallRecovery

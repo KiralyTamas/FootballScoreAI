@@ -1,0 +1,24 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+42231,1,BlockedShot,0.759000015258789,0.6619999694824219,0.016081128269433975,Borja Valero,h,1422,OpenPlay,2014,RightFoot,5130,Fiorentina,Sassuolo,0,0,2014-09-24 19:45:00,Juan Cuadrado,Pass
+42232,1,MissedShots,0.745999984741211,0.49700000762939456,0.01821652427315712,Alberto Aquilani,h,1167,OpenPlay,2014,RightFoot,5130,Fiorentina,Sassuolo,0,0,2014-09-24 19:45:00,Joaquín,Pass
+42233,5,MissedShots,0.855999984741211,0.47900001525878905,0.02361425571143627,Gonzalo Rodríguez,h,1418,FromCorner,2014,Head,5130,Fiorentina,Sassuolo,0,0,2014-09-24 19:45:00,Borja Valero,Cross
+42234,10,SavedShot,0.76,0.31,0.016353070735931396,Jasmin Kurtic,h,1492,OpenPlay,2014,LeftFoot,5130,Fiorentina,Sassuolo,0,0,2014-09-24 19:45:00,,BallTouch
+42235,11,ShotOnPost,0.895,0.625,0.06459391862154007,Juan Cuadrado,h,1089,OpenPlay,2014,LeftFoot,5130,Fiorentina,Sassuolo,0,0,2014-09-24 19:45:00,Joaquín,Cross
+42236,22,MissedShots,0.7759999847412109,0.695,0.0220906063914299,Khouma Babacar,h,1434,OpenPlay,2014,RightFoot,5130,Fiorentina,Sassuolo,0,0,2014-09-24 19:45:00,Marcos Alonso,Pass
+42239,26,SavedShot,0.7619999694824219,0.7719999694824219,0.019941717386245728,Juan Cuadrado,h,1089,OpenPlay,2014,RightFoot,5130,Fiorentina,Sassuolo,0,0,2014-09-24 19:45:00,Alberto Aquilani,TakeOn
+42241,34,BlockedShot,0.79,0.6409999847412109,0.023337148129940033,Alberto Aquilani,h,1167,OpenPlay,2014,RightFoot,5130,Fiorentina,Sassuolo,0,0,2014-09-24 19:45:00,Joaquín,Pass
+42242,36,BlockedShot,0.899000015258789,0.7280000305175781,0.060710690915584564,Joaquín,h,2148,OpenPlay,2014,RightFoot,5130,Fiorentina,Sassuolo,0,0,2014-09-24 19:45:00,,TakeOn
+42243,36,MissedShots,0.8969999694824219,0.54,0.05194208398461342,Stefan Savic,h,2263,FromCorner,2014,Head,5130,Fiorentina,Sassuolo,0,0,2014-09-24 19:45:00,Borja Valero,Cross
+42244,40,MissedShots,0.8390000152587891,0.49599998474121093,0.0901530459523201,Borja Valero,h,1422,OpenPlay,2014,RightFoot,5130,Fiorentina,Sassuolo,0,0,2014-09-24 19:45:00,Joaquín,Pass
+42245,41,MissedShots,0.7380000305175781,0.720999984741211,0.014285574667155743,Joaquín,h,2148,OpenPlay,2014,RightFoot,5130,Fiorentina,Sassuolo,0,0,2014-09-24 19:45:00,Alberto Aquilani,Pass
+42246,56,MissedShots,0.9009999847412109,0.38599998474121094,0.028749175369739532,Borja Valero,h,1422,OpenPlay,2014,Head,5130,Fiorentina,Sassuolo,0,0,2014-09-24 19:45:00,Juan Cuadrado,Cross
+42247,59,ShotOnPost,0.899000015258789,0.52,0.46074074506759644,Borja Valero,h,1422,OpenPlay,2014,RightFoot,5130,Fiorentina,Sassuolo,0,0,2014-09-24 19:45:00,Khouma Babacar,Pass
+42249,60,MissedShots,0.774000015258789,0.715,0.017753655090928078,Marcos Alonso,h,1621,OpenPlay,2014,LeftFoot,5130,Fiorentina,Sassuolo,0,0,2014-09-24 19:45:00,Juan Cuadrado,Pass
+42250,66,BlockedShot,0.825,0.38299999237060545,0.02605930157005787,Jasmin Kurtic,h,1492,OpenPlay,2014,RightFoot,5130,Fiorentina,Sassuolo,0,0,2014-09-24 19:45:00,Nenad Tomovic,HeadPass
+42252,75,MissedShots,0.9009999847412109,0.645,0.06178775057196617,Juan Cuadrado,h,1089,SetPiece,2014,RightFoot,5130,Fiorentina,Sassuolo,0,0,2014-09-24 19:45:00,,None
+42253,88,MissedShots,0.925,0.38799999237060545,0.029993044212460518,Gonzalo Rodríguez,h,1418,FromCorner,2014,Head,5130,Fiorentina,Sassuolo,0,0,2014-09-24 19:45:00,Jasmin Kurtic,Cross
+42237,24,BlockedShot,0.8009999847412109,0.5929999923706055,0.04054461792111397,Davide Biondini,a,1467,OpenPlay,2014,RightFoot,5130,Fiorentina,Sassuolo,0,0,2014-09-24 19:45:00,Raman Chibsah,Pass
+42238,24,MissedShots,0.7559999847412109,0.32799999237060545,0.013231049291789532,Raman Chibsah,a,1872,OpenPlay,2014,RightFoot,5130,Fiorentina,Sassuolo,0,0,2014-09-24 19:45:00,,Rebound
+42240,31,MissedShots,0.795,0.6120000076293945,0.03635362163186073,Raman Chibsah,a,1872,OpenPlay,2014,RightFoot,5130,Fiorentina,Sassuolo,0,0,2014-09-24 19:45:00,Francesco Magnanelli,Interception
+42248,60,MissedShots,0.7140000152587891,0.5220000076293946,0.013951805420219898,Francesco Magnanelli,a,1466,OpenPlay,2014,RightFoot,5130,Fiorentina,Sassuolo,0,0,2014-09-24 19:45:00,Marcello Gazzola,Pass
+42251,70,MissedShots,0.7390000152587891,0.44799999237060545,0.0558573380112648,Nicola Sansone,a,1826,DirectFreekick,2014,RightFoot,5130,Fiorentina,Sassuolo,0,0,2014-09-24 19:45:00,,Standard

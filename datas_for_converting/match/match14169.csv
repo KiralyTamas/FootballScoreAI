@@ -1,0 +1,27 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+380171,9,BlockedShot,0.9330000305175781,0.635,0.09917926043272018,Marcelo,h,2257,OpenPlay,2020,LeftFoot,14169,Real Madrid,Real Valladolid,1,0,2020-09-30 19:30:00,Luka Jovic,Pass
+380172,9,SavedShot,0.8869999694824219,0.5529999923706055,0.10736142843961716,Federico Valverde,h,6241,OpenPlay,2020,RightFoot,14169,Real Madrid,Real Valladolid,1,0,2020-09-30 19:30:00,,Rebound
+380173,16,MissedShots,0.885,0.5179999923706055,0.4836012125015259,Luka Jovic,h,6228,OpenPlay,2020,LeftFoot,14169,Real Madrid,Real Valladolid,1,0,2020-09-30 19:30:00,Federico Valverde,Pass
+380175,34,MissedShots,0.9019999694824219,0.7080000305175781,0.04712897166609764,Luka Jovic,h,6228,OpenPlay,2020,RightFoot,14169,Real Madrid,Real Valladolid,1,0,2020-09-30 19:30:00,Luka Modric,Pass
+380177,40,MissedShots,0.899000015258789,0.20299999237060548,0.015799719840288162,Karim Benzema,h,2370,OpenPlay,2020,RightFoot,14169,Real Madrid,Real Valladolid,1,0,2020-09-30 19:30:00,Raphael Varane,Aerial
+380179,47,SavedShot,0.905,0.5220000076293946,0.029717063531279564,Luka Jovic,h,6228,FromCorner,2020,Head,14169,Real Madrid,Real Valladolid,1,0,2020-09-30 19:30:00,Luka Modric,Aerial
+380180,47,ShotOnPost,0.9740000152587891,0.519000015258789,0.8311046361923218,Casemiro,h,2248,FromCorner,2020,LeftFoot,14169,Real Madrid,Real Valladolid,1,0,2020-09-30 19:30:00,,Rebound
+380183,58,BlockedShot,0.8369999694824218,0.6309999847412109,0.04698792099952698,Karim Benzema,h,2370,OpenPlay,2020,RightFoot,14169,Real Madrid,Real Valladolid,1,0,2020-09-30 19:30:00,Marcelo,Pass
+380184,62,MissedShots,0.9009999847412109,0.710999984741211,0.037161435931921005,Marcelo,h,2257,OpenPlay,2020,RightFoot,14169,Real Madrid,Real Valladolid,1,0,2020-09-30 19:30:00,Casemiro,TakeOn
+380185,64,Goal,0.9290000152587891,0.54,0.5403940677642822,Vinícius Júnior,h,7008,OpenPlay,2020,RightFoot,14169,Real Madrid,Real Valladolid,1,0,2020-09-30 19:30:00,,None
+380189,74,SavedShot,0.8030000305175782,0.5940000152587891,0.04733821749687195,Karim Benzema,h,2370,OpenPlay,2020,RightFoot,14169,Real Madrid,Real Valladolid,1,0,2020-09-30 19:30:00,Luka Modric,Pass
+380190,76,BlockedShot,0.889000015258789,0.5429999923706055,0.1513262838125229,Vinícius Júnior,h,7008,OpenPlay,2020,RightFoot,14169,Real Madrid,Real Valladolid,1,0,2020-09-30 19:30:00,Karim Benzema,Pass
+380191,81,ShotOnPost,0.8719999694824219,0.31,0.06814500689506531,Luka Modric,h,2250,OpenPlay,2020,RightFoot,14169,Real Madrid,Real Valladolid,1,0,2020-09-30 19:30:00,,BallRecovery
+380192,82,BlockedShot,0.8080000305175781,0.3129999923706055,0.03758879378437996,Marco Asensio,h,2117,OpenPlay,2020,LeftFoot,14169,Real Madrid,Real Valladolid,1,0,2020-09-30 19:30:00,Luka Modric,Pass
+380195,92,SavedShot,0.8440000152587891,0.5870000076293945,0.1385032832622528,Vinícius Júnior,h,7008,OpenPlay,2020,LeftFoot,14169,Real Madrid,Real Valladolid,1,0,2020-09-30 19:30:00,Federico Valverde,TakeOn
+380170,5,SavedShot,0.895,0.46700000762939453,0.0871148481965065,Shon Weissman,a,8761,OpenPlay,2020,RightFoot,14169,Real Madrid,Real Valladolid,1,0,2020-09-30 19:30:00,Fabián Orellana,Cross
+380174,33,MissedShots,0.78,0.6430000305175781,0.01202952116727829,Waldo Rubio,a,7525,SetPiece,2020,RightFoot,14169,Real Madrid,Real Valladolid,1,0,2020-09-30 19:30:00,,Aerial
+380176,36,SavedShot,0.7319999694824219,0.5070000076293946,0.022845715284347534,Fabián Orellana,a,2285,OpenPlay,2020,RightFoot,14169,Real Madrid,Real Valladolid,1,0,2020-09-30 19:30:00,Míchel,Pass
+380178,41,MissedShots,0.750999984741211,0.515,0.02458731271326542,Waldo Rubio,a,7525,OpenPlay,2020,RightFoot,14169,Real Madrid,Real Valladolid,1,0,2020-09-30 19:30:00,Óscar Plano,Pass
+380181,51,MissedShots,0.919000015258789,0.34799999237060547,0.03696660324931145,Waldo Rubio,a,7525,OpenPlay,2020,RightFoot,14169,Real Madrid,Real Valladolid,1,0,2020-09-30 19:30:00,Pablo Hervías,Cross
+380182,53,SavedShot,0.845,0.46799999237060547,0.10212793946266174,Shon Weissman,a,8761,OpenPlay,2020,RightFoot,14169,Real Madrid,Real Valladolid,1,0,2020-09-30 19:30:00,Fabián Orellana,Pass
+380186,68,SavedShot,0.945,0.7119999694824218,0.05145294591784477,Raúl García,a,5114,OpenPlay,2020,LeftFoot,14169,Real Madrid,Real Valladolid,1,0,2020-09-30 19:30:00,Marcos de Sousa,Pass
+380187,72,SavedShot,0.7319999694824219,0.4490000152587891,0.020597565919160843,Waldo Rubio,a,7525,OpenPlay,2020,RightFoot,14169,Real Madrid,Real Valladolid,1,0,2020-09-30 19:30:00,Óscar Plano,Pass
+380188,73,MissedShots,0.915,0.4779999923706055,0.10011865943670273,Bruno,a,2444,FromCorner,2020,Head,14169,Real Madrid,Real Valladolid,1,0,2020-09-30 19:30:00,Míchel,Cross
+380193,86,MissedShots,0.9080000305175782,0.5509999847412109,0.06654947996139526,Marcos de Sousa,a,8933,FromCorner,2020,RightFoot,14169,Real Madrid,Real Valladolid,1,0,2020-09-30 19:30:00,Pablo Hervías,Cross
+380194,87,MissedShots,0.75,0.23399999618530273,0.015796087682247162,Pablo Hervías,a,4054,OpenPlay,2020,RightFoot,14169,Real Madrid,Real Valladolid,1,0,2020-09-30 19:30:00,Javi Sánchez,Pass

@@ -1,0 +1,35 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+79488,7,BlockedShot,0.8019999694824219,0.7180000305175781,0.024194827303290367,Haris Seferovic,h,291,OpenPlay,2015,RightFoot,1155,Eintracht Frankfurt,Darmstadt,0,1,2015-12-06 20:30:00,Marc Stendera,Pass
+79489,7,MissedShots,0.9169999694824219,0.534000015258789,0.03915141522884369,David Abraham,h,283,FromCorner,2015,Head,1155,Eintracht Frankfurt,Darmstadt,0,1,2015-12-06 20:30:00,Mijat Gacinovic,Aerial
+79493,19,BlockedShot,0.785,0.33299999237060546,0.03570165857672691,Marc Stendera,h,289,FromCorner,2015,RightFoot,1155,Eintracht Frankfurt,Darmstadt,0,1,2015-12-06 20:30:00,Makoto Hasebe,Pass
+79494,20,BlockedShot,0.7030000305175781,0.5159999847412109,0.0137483524158597,Stefan Reinartz,h,286,OpenPlay,2015,RightFoot,1155,Eintracht Frankfurt,Darmstadt,0,1,2015-12-06 20:30:00,,BallTouch
+79496,25,MissedShots,0.9159999847412109,0.5609999847412109,0.04889776185154915,Stefan Aigner,h,288,OpenPlay,2015,Head,1155,Eintracht Frankfurt,Darmstadt,0,1,2015-12-06 20:30:00,Makoto Hasebe,Aerial
+79499,31,MissedShots,0.955999984741211,0.6179999923706054,0.0635480210185051,Marc Stendera,h,289,OpenPlay,2015,RightFoot,1155,Eintracht Frankfurt,Darmstadt,0,1,2015-12-06 20:30:00,Makoto Hasebe,Cross
+79504,50,BlockedShot,0.7780000305175782,0.415,0.08814729005098343,Bastian Oczipka,h,285,DirectFreekick,2015,LeftFoot,1155,Eintracht Frankfurt,Darmstadt,0,1,2015-12-06 20:30:00,,Standard
+79505,51,SavedShot,0.865999984741211,0.4,0.3531979024410248,Stefan Aigner,h,288,OpenPlay,2015,RightFoot,1155,Eintracht Frankfurt,Darmstadt,0,1,2015-12-06 20:30:00,Marc Stendera,Throughball
+79506,55,BlockedShot,0.8430000305175781,0.7269999694824218,0.02633095160126686,Marc Stendera,h,289,FromCorner,2015,RightFoot,1155,Eintracht Frankfurt,Darmstadt,0,1,2015-12-06 20:30:00,Gian-Luca Waldschmidt,Pass
+79507,55,SavedShot,0.925,0.5720000076293945,0.12475957721471786,Marco Russ,h,293,FromCorner,2015,RightFoot,1155,Eintracht Frankfurt,Darmstadt,0,1,2015-12-06 20:30:00,Marc Stendera,Rebound
+79509,60,BlockedShot,0.8130000305175781,0.40299999237060546,0.04069240018725395,Stefan Reinartz,h,286,OpenPlay,2015,RightFoot,1155,Eintracht Frankfurt,Darmstadt,0,1,2015-12-06 20:30:00,,None
+79512,67,BlockedShot,0.955999984741211,0.3509999847412109,0.07735130935907364,Stefan Aigner,h,288,OpenPlay,2015,RightFoot,1155,Eintracht Frankfurt,Darmstadt,0,1,2015-12-06 20:30:00,Makoto Hasebe,Pass
+79518,89,MissedShots,0.81,0.27399999618530274,0.021405063569545746,Haris Seferovic,h,291,FromCorner,2015,LeftFoot,1155,Eintracht Frankfurt,Darmstadt,0,1,2015-12-06 20:30:00,Makoto Hasebe,Pass
+79519,92,SavedShot,0.8219999694824218,0.455,0.04942121356725693,Marco Russ,h,293,OpenPlay,2015,RightFoot,1155,Eintracht Frankfurt,Darmstadt,0,1,2015-12-06 20:30:00,,None
+79521,93,MissedShots,0.9230000305175782,0.30700000762939456,0.05353883281350136,Vaclav Kadlec,h,292,OpenPlay,2015,RightFoot,1155,Eintracht Frankfurt,Darmstadt,0,1,2015-12-06 20:30:00,Stefan Aigner,Pass
+79490,9,BlockedShot,0.9230000305175782,0.4570000076293945,0.0438980907201767,Sandro Wagner,a,11,FromCorner,2015,Head,1155,Eintracht Frankfurt,Darmstadt,0,1,2015-12-06 20:30:00,Tobias Kempe,Aerial
+79491,10,BlockedShot,0.695,0.4759999847412109,0.03845827281475067,Tobias Kempe,a,9,DirectFreekick,2015,RightFoot,1155,Eintracht Frankfurt,Darmstadt,0,1,2015-12-06 20:30:00,,Standard
+79492,12,BlockedShot,0.879000015258789,0.3820000076293945,0.04667569696903229,Sandro Wagner,a,11,OpenPlay,2015,RightFoot,1155,Eintracht Frankfurt,Darmstadt,0,1,2015-12-06 20:30:00,Marcel Heller,Cross
+79495,22,SavedShot,0.9069999694824219,0.3370000076293945,0.011726541444659233,Jan Rosenthal,a,10,FromCorner,2015,Head,1155,Eintracht Frankfurt,Darmstadt,0,1,2015-12-06 20:30:00,Fabian Holland,Chipped
+79497,26,BlockedShot,0.8159999847412109,0.5829999923706055,0.04744173213839531,Tobias Kempe,a,9,OpenPlay,2015,RightFoot,1155,Eintracht Frankfurt,Darmstadt,0,1,2015-12-06 20:30:00,Sandro Wagner,Pass
+79498,29,Goal,0.909000015258789,0.4909999847412109,0.27302783727645874,Aytac Sulu,a,4,SetPiece,2015,Head,1155,Eintracht Frankfurt,Darmstadt,0,1,2015-12-06 20:30:00,Tobias Kempe,Cross
+79500,35,ShotOnPost,0.904000015258789,0.5479999923706055,0.03448106348514557,Aytac Sulu,a,4,SetPiece,2015,Head,1155,Eintracht Frankfurt,Darmstadt,0,1,2015-12-06 20:30:00,Tobias Kempe,Aerial
+79501,41,MissedShots,0.7390000152587891,0.3160000038146973,0.016257161274552345,Florian Jungwirth,a,7,OpenPlay,2015,RightFoot,1155,Eintracht Frankfurt,Darmstadt,0,1,2015-12-06 20:30:00,,None
+79502,46,MissedShots,0.91,0.6090000152587891,0.029327241703867912,Luca Caldirola,a,3,FromCorner,2015,Head,1155,Eintracht Frankfurt,Darmstadt,0,1,2015-12-06 20:30:00,Tobias Kempe,Cross
+79503,46,MissedShots,0.705,0.40299999237060546,0.01454789750277996,Marcel Heller,a,6,FromCorner,2015,RightFoot,1155,Eintracht Frankfurt,Darmstadt,0,1,2015-12-06 20:30:00,,Rebound
+79508,59,MissedShots,0.7280000305175781,0.5970000076293945,0.04945692420005798,Tobias Kempe,a,9,DirectFreekick,2015,RightFoot,1155,Eintracht Frankfurt,Darmstadt,0,1,2015-12-06 20:30:00,,Standard
+79510,62,SavedShot,0.889000015258789,0.49900001525878906,0.08632128685712814,Aytac Sulu,a,4,SetPiece,2015,RightFoot,1155,Eintracht Frankfurt,Darmstadt,0,1,2015-12-06 20:30:00,,Dispossessed
+79511,66,MissedShots,0.9459999847412109,0.5359999847412109,0.15131035447120667,Sandro Wagner,a,11,OpenPlay,2015,Head,1155,Eintracht Frankfurt,Darmstadt,0,1,2015-12-06 20:30:00,Florian Jungwirth,Cross
+79513,73,MissedShots,0.7280000305175781,0.5029999923706054,0.015119417570531368,Florian Jungwirth,a,7,FromCorner,2015,RightFoot,1155,Eintracht Frankfurt,Darmstadt,0,1,2015-12-06 20:30:00,,None
+79514,80,MissedShots,0.9169999694824219,0.53,0.13468076288700104,Luca Caldirola,a,3,OpenPlay,2015,Head,1155,Eintracht Frankfurt,Darmstadt,0,1,2015-12-06 20:30:00,Tobias Kempe,Cross
+79515,81,SavedShot,0.9469999694824218,0.5829999923706055,0.47086140513420105,Marcel Heller,a,6,OpenPlay,2015,RightFoot,1155,Eintracht Frankfurt,Darmstadt,0,1,2015-12-06 20:30:00,Jérôme Gondorf,TakeOn
+79516,85,MissedShots,0.72,0.6930000305175781,0.011367924511432648,Júnior Díaz,a,15,OpenPlay,2015,LeftFoot,1155,Eintracht Frankfurt,Darmstadt,0,1,2015-12-06 20:30:00,,Aerial
+79517,87,MissedShots,0.8969999694824219,0.5570000076293945,0.02355201728641987,Sandro Wagner,a,11,SetPiece,2015,Head,1155,Eintracht Frankfurt,Darmstadt,0,1,2015-12-06 20:30:00,Tobias Kempe,Aerial
+79520,93,BlockedShot,0.8009999847412109,0.38799999237060545,0.051973409950733185,Marco Sailer,a,14,OpenPlay,2015,RightFoot,1155,Eintracht Frankfurt,Darmstadt,0,1,2015-12-06 20:30:00,,None

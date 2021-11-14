@@ -1,0 +1,28 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+77321,6,MissedShots,0.6969999694824218,0.515,0.013629219494760036,Leon Andreasen,h,99,OpenPlay,2015,RightFoot,1074,Hannover 96,VfB Stuttgart,1,3,2015-09-23 22:00:00,Kenan Karaman,Pass
+77323,13,Goal,0.945,0.5329999923706055,0.6056106686592102,Kenan Karaman,h,98,OpenPlay,2015,LeftFoot,1074,Hannover 96,VfB Stuttgart,1,3,2015-09-23 22:00:00,Hiroshi Kiyotake,Cross
+77328,23,SavedShot,0.9,0.3,0.045644015073776245,Hiroki Sakai,h,92,OpenPlay,2015,RightFoot,1074,Hannover 96,VfB Stuttgart,1,3,2015-09-23 22:00:00,Kenan Karaman,BallRecovery
+77332,46,ShotOnPost,0.7919999694824219,0.6179999923706054,0.026447199285030365,Marcelo,h,93,SetPiece,2015,RightFoot,1074,Hannover 96,VfB Stuttgart,1,3,2015-09-23 22:00:00,Kenan Karaman,Pass
+77334,46,MissedShots,0.7759999847412109,0.38299999237060545,0.028821434825658798,Mevlüt Erdinc,h,104,OpenPlay,2015,LeftFoot,1074,Hannover 96,VfB Stuttgart,1,3,2015-09-23 22:00:00,Artur Sobiech,Pass
+77335,49,MissedShots,0.89,0.34799999237060547,0.023185087367892265,Hiroshi Kiyotake,h,396,OpenPlay,2015,RightFoot,1074,Hannover 96,VfB Stuttgart,1,3,2015-09-23 22:00:00,,Aerial
+77340,69,SavedShot,0.865999984741211,0.685,0.03818608820438385,Felix Klaus,h,350,OpenPlay,2015,RightFoot,1074,Hannover 96,VfB Stuttgart,1,3,2015-09-23 22:00:00,Marcelo,TakeOn
+77345,88,MissedShots,0.8719999694824219,0.6569999694824219,0.026185085996985435,Mevlüt Erdinc,h,104,SetPiece,2015,Head,1074,Hannover 96,VfB Stuttgart,1,3,2015-09-23 22:00:00,Hiroshi Kiyotake,Chipped
+77322,10,SavedShot,0.7019999694824218,0.624000015258789,0.014145818538963795,Emiliano Insúa,a,59,OpenPlay,2015,LeftFoot,1074,Hannover 96,VfB Stuttgart,1,3,2015-09-23 22:00:00,Daniel Didavi,Pass
+77324,14,MissedShots,0.6990000152587891,0.775,0.008479949086904526,Daniel Didavi,a,300,OpenPlay,2015,LeftFoot,1074,Hannover 96,VfB Stuttgart,1,3,2015-09-23 22:00:00,,None
+77325,15,Goal,0.8969999694824219,0.649000015258789,0.06102539971470833,Christian Gentner,a,60,OpenPlay,2015,RightFoot,1074,Hannover 96,VfB Stuttgart,1,3,2015-09-23 22:00:00,Timo Werner,Pass
+77326,17,SavedShot,0.845,0.524000015258789,0.3145264685153961,Daniel Ginczek,a,426,OpenPlay,2015,RightFoot,1074,Hannover 96,VfB Stuttgart,1,3,2015-09-23 22:00:00,Christian Gentner,Pass
+77327,17,Goal,0.8969999694824219,0.395,0.3337748646736145,Timo Werner,a,65,OpenPlay,2015,RightFoot,1074,Hannover 96,VfB Stuttgart,1,3,2015-09-23 22:00:00,,Rebound
+77329,28,MissedShots,0.774000015258789,0.4329999923706055,0.04432404786348343,Daniel Didavi,a,300,OpenPlay,2015,LeftFoot,1074,Hannover 96,VfB Stuttgart,1,3,2015-09-23 22:00:00,,BlockedPass
+77330,29,MissedShots,0.9259999847412109,0.44,0.09280934184789658,Toni Sunjic,a,57,SetPiece,2015,RightFoot,1074,Hannover 96,VfB Stuttgart,1,3,2015-09-23 22:00:00,Daniel Didavi,Chipped
+77331,42,MissedShots,0.754000015258789,0.6120000076293945,0.026422198861837387,Daniel Didavi,a,300,OpenPlay,2015,LeftFoot,1074,Hannover 96,VfB Stuttgart,1,3,2015-09-23 22:00:00,Emiliano Insúa,Pass
+77333,46,SavedShot,0.9519999694824218,0.639000015258789,0.18961600959300995,Filip Kostic,a,64,OpenPlay,2015,LeftFoot,1074,Hannover 96,VfB Stuttgart,1,3,2015-09-23 22:00:00,Emiliano Insúa,TakeOn
+77336,53,SavedShot,0.850999984741211,0.5609999847412109,0.3654862642288208,Daniel Didavi,a,300,OpenPlay,2015,LeftFoot,1074,Hannover 96,VfB Stuttgart,1,3,2015-09-23 22:00:00,Daniel Ginczek,Throughball
+77337,58,BlockedShot,0.78,0.34599998474121096,0.07230788469314575,Daniel Didavi,a,300,DirectFreekick,2015,LeftFoot,1074,Hannover 96,VfB Stuttgart,1,3,2015-09-23 22:00:00,,Standard
+77338,62,SavedShot,0.87,0.25799999237060545,0.057386964559555054,Timo Werner,a,65,OpenPlay,2015,RightFoot,1074,Hannover 96,VfB Stuttgart,1,3,2015-09-23 22:00:00,Daniel Ginczek,Pass
+77339,62,BlockedShot,0.8569999694824219,0.3579999923706055,0.06579513102769852,Daniel Ginczek,a,426,OpenPlay,2015,RightFoot,1074,Hannover 96,VfB Stuttgart,1,3,2015-09-23 22:00:00,Timo Werner,Pass
+77341,69,MissedShots,0.775,0.6,0.04333537817001343,Geoffroy Serey Dié,a,61,OpenPlay,2015,RightFoot,1074,Hannover 96,VfB Stuttgart,1,3,2015-09-23 22:00:00,Emiliano Insúa,BallRecovery
+77342,77,SavedShot,0.8519999694824218,0.43400001525878906,0.09964407980442047,Alexandru Maxim,a,63,OpenPlay,2015,RightFoot,1074,Hannover 96,VfB Stuttgart,1,3,2015-09-23 22:00:00,Daniel Ginczek,Pass
+77343,79,SavedShot,0.875999984741211,0.815,0.06055983901023865,Alexandru Maxim,a,63,DirectFreekick,2015,RightFoot,1074,Hannover 96,VfB Stuttgart,1,3,2015-09-23 22:00:00,,Standard
+77344,86,SavedShot,0.8159999847412109,0.69,0.036118265241384506,Filip Kostic,a,64,OpenPlay,2015,LeftFoot,1074,Hannover 96,VfB Stuttgart,1,3,2015-09-23 22:00:00,Alexandru Maxim,Pass
+77346,89,Goal,0.7480000305175781,0.2979999923706055,0.019499866291880608,Alexandru Maxim,a,63,OpenPlay,2015,RightFoot,1074,Hannover 96,VfB Stuttgart,1,3,2015-09-23 22:00:00,Daniel Ginczek,BallRecovery
+77347,92,SavedShot,0.705999984741211,0.525,0.017867891117930412,Martin Harnik,a,407,OpenPlay,2015,RightFoot,1074,Hannover 96,VfB Stuttgart,1,3,2015-09-23 22:00:00,Filip Kostic,Pass

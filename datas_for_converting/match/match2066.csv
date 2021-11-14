@@ -1,0 +1,28 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+65810,16,BlockedShot,0.7219999694824218,0.6270000076293946,0.009675155393779278,Guillaume Gillet,h,3403,OpenPlay,2015,LeftFoot,2066,Nantes,Saint-Etienne,2,1,2016-01-10 17:00:00,,Aerial
+65811,16,MissedShots,0.91,0.5279999923706055,0.08053408563137054,Guillaume Gillet,h,3403,FromCorner,2015,Head,2066,Nantes,Saint-Etienne,2,1,2016-01-10 17:00:00,Adryan,Cross
+65815,28,ShotOnPost,0.9130000305175782,0.4640000152587891,0.09360618889331818,Johan Audel,h,3409,OpenPlay,2015,RightFoot,2066,Nantes,Saint-Etienne,2,1,2016-01-10 17:00:00,Adrien Thomasson,Cross
+65816,28,Goal,0.9630000305175781,0.4129999923706055,0.37867891788482666,Johan Audel,h,3409,OpenPlay,2015,LeftFoot,2066,Nantes,Saint-Etienne,2,1,2016-01-10 17:00:00,Adryan,Cross
+65817,33,BlockedShot,0.89,0.425,0.04510877653956413,Yacine Bammou,h,3410,OpenPlay,2015,Head,2066,Nantes,Saint-Etienne,2,1,2016-01-10 17:00:00,Youssouf Sabaly,Cross
+65818,33,BlockedShot,0.730999984741211,0.635,0.011824158020317554,Birama Touré,h,3415,OpenPlay,2015,LeftFoot,2066,Nantes,Saint-Etienne,2,1,2016-01-10 17:00:00,,Rebound
+65819,34,BlockedShot,0.904000015258789,0.43400001525878906,0.03915778920054436,Guillaume Gillet,h,3403,OpenPlay,2015,Head,2066,Nantes,Saint-Etienne,2,1,2016-01-10 17:00:00,Ermir Lenjani,Aerial
+65820,41,SavedShot,0.749000015258789,0.4779999923706055,0.028655434027314186,Yacine Bammou,h,3410,OpenPlay,2015,LeftFoot,2066,Nantes,Saint-Etienne,2,1,2016-01-10 17:00:00,Johan Audel,HeadPass
+65822,42,MissedShots,0.905,0.6179999923706054,0.01970742456614971,Yacine Bammou,h,3410,OpenPlay,2015,Head,2066,Nantes,Saint-Etienne,2,1,2016-01-10 17:00:00,Youssouf Sabaly,Aerial
+65823,49,MissedShots,0.9159999847412109,0.5109999847412109,0.04085606709122658,Oswaldo Vizcarrondo,h,3401,SetPiece,2015,Head,2066,Nantes,Saint-Etienne,2,1,2016-01-10 17:00:00,Adryan,Rebound
+65824,49,SavedShot,0.9359999847412109,0.485,0.4043498635292053,Guillaume Gillet,h,3403,SetPiece,2015,OtherBodyPart,2066,Nantes,Saint-Etienne,2,1,2016-01-10 17:00:00,Oswaldo Vizcarrondo,None
+65825,53,BlockedShot,0.785,0.25799999237060545,0.051144398748874664,Ermir Lenjani,h,3411,DirectFreekick,2015,RightFoot,2066,Nantes,Saint-Etienne,2,1,2016-01-10 17:00:00,,Standard
+65826,61,SavedShot,0.7190000152587891,0.624000015258789,0.011629298329353333,Adryan,h,3407,OpenPlay,2015,RightFoot,2066,Nantes,Saint-Etienne,2,1,2016-01-10 17:00:00,,None
+65828,66,MissedShots,0.6959999847412109,0.45,0.015364216640591621,Yacine Bammou,h,3410,OpenPlay,2015,RightFoot,2066,Nantes,Saint-Etienne,2,1,2016-01-10 17:00:00,Birama Touré,Pass
+65829,68,MissedShots,0.82,0.29100000381469726,0.019738107919692993,Alejandro Bedoya,h,3405,OpenPlay,2015,LeftFoot,2066,Nantes,Saint-Etienne,2,1,2016-01-10 17:00:00,Yacine Bammou,HeadPass
+65831,76,Goal,0.8630000305175781,0.5229999923706055,0.34868597984313965,Kolbeinn Sigthorsson,h,3408,OpenPlay,2015,RightFoot,2066,Nantes,Saint-Etienne,2,1,2016-01-10 17:00:00,,None
+65832,81,MissedShots,0.8069999694824219,0.25799999237060545,0.02292550355195999,Alejandro Bedoya,h,3405,OpenPlay,2015,RightFoot,2066,Nantes,Saint-Etienne,2,1,2016-01-10 17:00:00,Jules Iloki,Pass
+65834,85,SavedShot,0.8719999694824219,0.4420000076293945,0.34040918946266174,Alejandro Bedoya,h,3405,OpenPlay,2015,RightFoot,2066,Nantes,Saint-Etienne,2,1,2016-01-10 17:00:00,Kolbeinn Sigthorsson,HeadPass
+65809,13,Goal,0.885,0.5,0.7600951194763184,Nolan Roux,a,3512,Penalty,2015,RightFoot,2066,Nantes,Saint-Etienne,2,1,2016-01-10 17:00:00,,Standard
+65812,19,MissedShots,0.8809999847412109,0.3559999847412109,0.04703465476632118,Alexander Søderlund,a,3511,OpenPlay,2015,RightFoot,2066,Nantes,Saint-Etienne,2,1,2016-01-10 17:00:00,Kévin Théophile-Catherine,Cross
+65813,25,BlockedShot,0.8230000305175781,0.54,0.07100789248943329,Vincent Pajot,a,3507,OpenPlay,2015,RightFoot,2066,Nantes,Saint-Etienne,2,1,2016-01-10 17:00:00,,None
+65814,25,BlockedShot,0.8519999694824218,0.4329999923706055,0.0818442553281784,Valentin Eysseric,a,3515,OpenPlay,2015,RightFoot,2066,Nantes,Saint-Etienne,2,1,2016-01-10 17:00:00,,Rebound
+65821,42,SavedShot,0.8880000305175781,0.445,0.04767507687211037,Vincent Pajot,a,3507,OpenPlay,2015,Head,2066,Nantes,Saint-Etienne,2,1,2016-01-10 17:00:00,Kévin Théophile-Catherine,Cross
+65827,62,MissedShots,0.8669999694824219,0.45799999237060546,0.03307642415165901,Nolan Roux,a,3512,OpenPlay,2015,Head,2066,Nantes,Saint-Etienne,2,1,2016-01-10 17:00:00,Valentin Eysseric,Cross
+65830,71,MissedShots,0.7190000152587891,0.44,0.04650796949863434,Romain Hamouma,a,3561,DirectFreekick,2015,RightFoot,2066,Nantes,Saint-Etienne,2,1,2016-01-10 17:00:00,,Standard
+65833,82,MissedShots,0.855999984741211,0.544000015258789,0.08572886139154434,Alexander Søderlund,a,3511,OpenPlay,2015,LeftFoot,2066,Nantes,Saint-Etienne,2,1,2016-01-10 17:00:00,Jérémy Clément,Pass
+65835,86,BlockedShot,0.92,0.34799999237060547,0.04753876477479935,Alexander Søderlund,a,3511,OpenPlay,2015,RightFoot,2066,Nantes,Saint-Etienne,2,1,2016-01-10 17:00:00,Romain Hamouma,Cross

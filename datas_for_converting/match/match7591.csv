@@ -1,0 +1,22 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+175016,8,BlockedShot,0.95,0.41900001525878905,0.49739280343055725,Marco Sau,h,1406,OpenPlay,2017,RightFoot,7591,Cagliari,Benevento,2,1,2017-10-25 19:45:00,,None
+175017,8,BlockedShot,0.8219999694824218,0.4929999923706055,0.047147173434495926,Luca Cigarini,h,1238,OpenPlay,2017,RightFoot,7591,Cagliari,Benevento,2,1,2017-10-25 19:45:00,,Rebound
+175018,8,Goal,0.8680000305175781,0.4620000076293945,0.060204192996025085,Paolo Faragò,h,4912,OpenPlay,2017,LeftFoot,7591,Cagliari,Benevento,2,1,2017-10-25 19:45:00,Simone Padoin,HeadPass
+175019,15,MissedShots,0.885,0.5,0.7612988352775574,Marco Sau,h,1406,Penalty,2017,RightFoot,7591,Cagliari,Benevento,2,1,2017-10-25 19:45:00,,Standard
+175020,30,MissedShots,0.9290000152587891,0.46599998474121096,0.05225072428584099,Leonardo Pavoletti,h,1104,FromCorner,2017,Head,7591,Cagliari,Benevento,2,1,2017-10-25 19:45:00,Luca Cigarini,Aerial
+175021,35,BlockedShot,0.7480000305175781,0.5179999923706055,0.027152661234140396,Simone Padoin,h,1403,OpenPlay,2017,LeftFoot,7591,Cagliari,Benevento,2,1,2017-10-25 19:45:00,Marco Sau,Pass
+175022,41,MissedShots,0.9059999847412109,0.49700000762939456,0.05548747628927231,Simone Padoin,h,1403,OpenPlay,2017,Head,7591,Cagliari,Benevento,2,1,2017-10-25 19:45:00,Senna Miangue,Aerial
+175023,41,SavedShot,0.759000015258789,0.4520000076293945,0.03225965425372124,Nicolò Barella,h,1409,OpenPlay,2017,RightFoot,7591,Cagliari,Benevento,2,1,2017-10-25 19:45:00,Simone Padoin,Pass
+175024,48,SavedShot,0.9159999847412109,0.48400001525878905,0.09302027523517609,Luca Ceppitelli,h,1550,FromCorner,2017,Head,7591,Cagliari,Benevento,2,1,2017-10-25 19:45:00,Luca Cigarini,Cross
+175025,49,SavedShot,0.9159999847412109,0.48700000762939455,0.0634789913892746,Leonardo Pavoletti,h,1104,OpenPlay,2017,Head,7591,Cagliari,Benevento,2,1,2017-10-25 19:45:00,Simone Padoin,Aerial
+175026,51,MissedShots,0.93,0.509000015258789,0.07615803182125092,Luca Ceppitelli,h,1550,SetPiece,2017,Head,7591,Cagliari,Benevento,2,1,2017-10-25 19:45:00,Luca Cigarini,Aerial
+175028,62,BlockedShot,0.9330000305175781,0.35700000762939454,0.022551342844963074,Paolo Faragò,h,4912,OpenPlay,2017,Head,7591,Cagliari,Benevento,2,1,2017-10-25 19:45:00,Senna Miangue,Cross
+175036,94,Goal,0.9259999847412109,0.47200000762939454,0.12804120779037476,Leonardo Pavoletti,h,1104,OpenPlay,2017,Head,7591,Cagliari,Benevento,2,1,2017-10-25 19:45:00,Paolo Faragò,Cross
+175027,54,SavedShot,0.9180000305175782,0.4570000076293945,0.2828805446624756,Pietro Iemmello,a,1469,SetPiece,2017,Head,7591,Cagliari,Benevento,2,1,2017-10-25 19:45:00,Gianluca Di Chiara,Cross
+175029,68,MissedShots,0.905,0.4490000152587891,0.08716951310634613,Danilo Cataldi,a,1206,OpenPlay,2017,LeftFoot,7591,Cagliari,Benevento,2,1,2017-10-25 19:45:00,Pietro Iemmello,HeadPass
+175030,74,SavedShot,0.9080000305175782,0.43400001525878906,0.08862999826669693,Cristiano Lombardi,a,1218,OpenPlay,2017,RightFoot,7591,Cagliari,Benevento,2,1,2017-10-25 19:45:00,Gaetano Letizia,Cross
+175031,77,BlockedShot,0.759000015258789,0.34299999237060547,0.017892319709062576,Danilo Cataldi,a,1206,OpenPlay,2017,LeftFoot,7591,Cagliari,Benevento,2,1,2017-10-25 19:45:00,,None
+175032,84,MissedShots,0.855,0.31799999237060544,0.03898395970463753,Pietro Iemmello,a,1469,OpenPlay,2017,RightFoot,7591,Cagliari,Benevento,2,1,2017-10-25 19:45:00,Danilo Cataldi,Pass
+175033,86,MissedShots,0.9630000305175781,0.3609999847412109,0.015370071865618229,Cristiano Lombardi,a,1218,FromCorner,2017,Head,7591,Cagliari,Benevento,2,1,2017-10-25 19:45:00,Nicolas Viola,Cross
+175034,89,MissedShots,0.6809999847412109,0.62,0.01356656663119793,Gianluca Di Chiara,a,6197,SetPiece,2017,LeftFoot,7591,Cagliari,Benevento,2,1,2017-10-25 19:45:00,Nicolas Viola,Pass
+175035,93,Goal,0.885,0.5,0.7612988352775574,Pietro Iemmello,a,1469,Penalty,2017,RightFoot,7591,Cagliari,Benevento,2,1,2017-10-25 19:45:00,,Standard

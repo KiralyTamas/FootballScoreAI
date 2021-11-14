@@ -1,0 +1,29 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+368904,7,BlockedShot,0.7319999694824219,0.5,0.013396458700299263,Jonjo Shelvey,h,769,OpenPlay,2019,RightFoot,11968,Newcastle United,West Ham,2,2,2020-07-05 13:15:00,Joelinton,TakeOn
+368905,9,SavedShot,0.745999984741211,0.504000015258789,0.062044695019721985,Dwight Gayle,h,743,DirectFreekick,2019,RightFoot,11968,Newcastle United,West Ham,2,2,2020-07-05 13:15:00,,Standard
+368908,12,BlockedShot,0.89,0.36400001525878906,0.07983092963695526,Miguel Almirón,h,7420,OpenPlay,2019,LeftFoot,11968,Newcastle United,West Ham,2,2,2020-07-05 13:15:00,Dwight Gayle,Pass
+368909,16,Goal,0.960999984741211,0.49,0.7032874822616577,Miguel Almirón,h,7420,OpenPlay,2019,LeftFoot,11968,Newcastle United,West Ham,2,2,2020-07-05 13:15:00,Emil Krafth,Pass
+368910,18,MissedShots,0.7019999694824218,0.5059999847412109,0.01300426758825779,Allan Saint-Maximin,h,101,FromCorner,2019,RightFoot,11968,Newcastle United,West Ham,2,2,2020-07-05 13:15:00,,None
+368916,38,SavedShot,0.7569999694824219,0.705,0.01670125685632229,Allan Saint-Maximin,h,101,OpenPlay,2019,RightFoot,11968,Newcastle United,West Ham,2,2,2020-07-05 13:15:00,Jonjo Shelvey,TakeOn
+368918,46,MissedShots,0.9209999847412109,0.5,0.10416624695062637,Jamaal Lascelles,h,766,FromCorner,2019,Head,11968,Newcastle United,West Ham,2,2,2020-07-05 13:15:00,Jonjo Shelvey,Cross
+368919,47,MissedShots,0.7230000305175781,0.539000015258789,0.018077626824378967,Miguel Almirón,h,7420,OpenPlay,2019,LeftFoot,11968,Newcastle United,West Ham,2,2,2020-07-05 13:15:00,Allan Saint-Maximin,Pass
+368921,58,MissedShots,0.8769999694824219,0.64,0.07286322861909866,Miguel Almirón,h,7420,OpenPlay,2019,LeftFoot,11968,Newcastle United,West Ham,2,2,2020-07-05 13:15:00,Jonjo Shelvey,Pass
+368924,66,Goal,0.9159999847412109,0.59,0.3979606330394745,Jonjo Shelvey,h,769,OpenPlay,2019,LeftFoot,11968,Newcastle United,West Ham,2,2,2020-07-05 13:15:00,Dwight Gayle,Pass
+368925,73,MissedShots,0.720999984741211,0.685,0.00987774133682251,Nabil Bentaleb,h,914,OpenPlay,2019,LeftFoot,11968,Newcastle United,West Ham,2,2,2020-07-05 13:15:00,,None
+368903,3,Goal,0.9540000152587891,0.56,0.5722178816795349,Michail Antonio,a,531,OpenPlay,2019,RightFoot,11968,Newcastle United,West Ham,2,2,2020-07-05 13:15:00,Jarrod Bowen,Pass
+368906,10,BlockedShot,0.7819999694824219,0.66,0.03014024719595909,Pablo Fornals,a,2335,OpenPlay,2019,RightFoot,11968,Newcastle United,West Ham,2,2,2020-07-05 13:15:00,Manuel Lanzini,Pass
+368907,10,SavedShot,0.9569999694824218,0.365,0.07932345569133759,Michail Antonio,a,531,OpenPlay,2019,RightFoot,11968,Newcastle United,West Ham,2,2,2020-07-05 13:15:00,Declan Rice,Chipped
+368911,31,MissedShots,0.7869999694824219,0.740999984741211,0.01747177168726921,Aaron Cresswell,a,534,OpenPlay,2019,LeftFoot,11968,Newcastle United,West Ham,2,2,2020-07-05 13:15:00,Declan Rice,Pass
+368912,31,SavedShot,0.9209999847412109,0.509000015258789,0.5076125264167786,Jarrod Bowen,a,1776,OpenPlay,2019,RightFoot,11968,Newcastle United,West Ham,2,2,2020-07-05 13:15:00,Aaron Cresswell,Rebound
+368913,31,BlockedShot,0.7380000305175781,0.5,0.014664647169411182,Declan Rice,a,5553,OpenPlay,2019,RightFoot,11968,Newcastle United,West Ham,2,2,2020-07-05 13:15:00,,Rebound
+368914,35,BlockedShot,0.8880000305175781,0.524000015258789,0.038656167685985565,Manuel Lanzini,a,535,OpenPlay,2019,Head,11968,Newcastle United,West Ham,2,2,2020-07-05 13:15:00,Ryan Fredericks,Aerial
+368915,37,SavedShot,0.8769999694824219,0.4370000076293945,0.012497799471020699,Issa Diop,a,3203,FromCorner,2019,Head,11968,Newcastle United,West Ham,2,2,2020-07-05 13:15:00,Declan Rice,Aerial
+368917,44,MissedShots,0.9169999694824219,0.385,0.032968778163194656,Jarrod Bowen,a,1776,OpenPlay,2019,Head,11968,Newcastle United,West Ham,2,2,2020-07-05 13:15:00,Aaron Cresswell,Cross
+368920,49,MissedShots,0.9169999694824219,0.385,0.023923086002469063,Issa Diop,a,3203,OpenPlay,2019,Head,11968,Newcastle United,West Ham,2,2,2020-07-05 13:15:00,Michail Antonio,Pass
+368922,64,ShotOnPost,0.9790000152587891,0.5690000152587891,0.36497846245765686,Declan Rice,a,5553,FromCorner,2019,Head,11968,Newcastle United,West Ham,2,2,2020-07-05 13:15:00,Jarrod Bowen,Cross
+368923,64,Goal,0.94,0.4620000076293945,0.1415790617465973,Tomas Soucek,a,8288,FromCorner,2019,LeftFoot,11968,Newcastle United,West Ham,2,2,2020-07-05 13:15:00,,Rebound
+368926,80,SavedShot,0.9019999694824219,0.5129999923706055,0.04415249451994896,Tomas Soucek,a,8288,OpenPlay,2019,Head,11968,Newcastle United,West Ham,2,2,2020-07-05 13:15:00,Andriy Yarmolenko,Aerial
+368927,83,SavedShot,0.775,0.485,0.029370248317718506,Andriy Yarmolenko,a,6274,OpenPlay,2019,LeftFoot,11968,Newcastle United,West Ham,2,2,2020-07-05 13:15:00,Tomas Soucek,Pass
+368928,83,BlockedShot,0.845999984741211,0.654000015258789,0.03731555864214897,Jarrod Bowen,a,1776,OpenPlay,2019,RightFoot,11968,Newcastle United,West Ham,2,2,2020-07-05 13:15:00,,Rebound
+368929,86,MissedShots,0.9130000305175782,0.5429999923706055,0.1397697627544403,Tomas Soucek,a,8288,OpenPlay,2019,RightFoot,11968,Newcastle United,West Ham,2,2,2020-07-05 13:15:00,Issa Diop,Pass
+368930,88,MissedShots,0.8819999694824219,0.44,0.0132127171382308,Angelo Ogbonna,a,528,FromCorner,2019,Head,11968,Newcastle United,West Ham,2,2,2020-07-05 13:15:00,Mark Noble,Aerial

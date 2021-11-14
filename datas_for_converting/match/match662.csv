@@ -1,0 +1,24 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+98799,17,MissedShots,0.7930000305175782,0.40599998474121096,0.023827867582440376,Riccardo Montolivo,h,1573,FromCorner,2015,RightFoot,662,AC Milan,Atalanta,0,0,2015-11-07 23:45:00,,None
+98800,20,BlockedShot,0.915,0.5690000152587891,0.1227826178073883,Carlos Bacca,h,1125,OpenPlay,2015,RightFoot,662,AC Milan,Atalanta,0,0,2015-11-07 23:45:00,M&#039;Baye Niang,Pass
+98803,37,SavedShot,0.8719999694824219,0.754000015258789,0.030604427680373192,M&#039;Baye Niang,h,1126,OpenPlay,2015,RightFoot,662,AC Milan,Atalanta,0,0,2015-11-07 23:45:00,,BallRecovery
+98804,37,MissedShots,0.6919999694824219,0.35200000762939454,0.009647197090089321,Juraj Kucka,h,1123,OpenPlay,2015,LeftFoot,662,AC Milan,Atalanta,0,0,2015-11-07 23:45:00,,Rebound
+98805,50,SavedShot,0.8319999694824218,0.66,0.06163635104894638,M&#039;Baye Niang,h,1126,OpenPlay,2015,RightFoot,662,AC Milan,Atalanta,0,0,2015-11-07 23:45:00,Andrea Poli,Pass
+98818,78,BlockedShot,0.8480000305175781,0.22100000381469725,0.023169351741671562,Alessio Cerci,h,2006,OpenPlay,2015,LeftFoot,662,AC Milan,Atalanta,0,0,2015-11-07 23:45:00,Luiz Adriano,Pass
+98819,78,BlockedShot,0.9290000152587891,0.46299999237060546,0.10880453884601593,Luiz Adriano,h,1127,FromCorner,2015,Head,662,AC Milan,Atalanta,0,0,2015-11-07 23:45:00,Alessio Cerci,Cross
+98820,91,MissedShots,0.904000015258789,0.475,0.06464549154043198,Luca Antonelli,h,1590,SetPiece,2015,Head,662,AC Milan,Atalanta,0,0,2015-11-07 23:45:00,Alessio Cerci,Chipped
+98798,7,MissedShots,0.7480000305175781,0.6880000305175781,0.014030314050614834,Alejandro Gomez,a,1491,OpenPlay,2015,RightFoot,662,AC Milan,Atalanta,0,0,2015-11-07 23:45:00,Luca Cigarini,Pass
+98801,32,MissedShots,0.7669999694824219,0.72,0.01405266672372818,Gianpaolo Bellini,a,1983,FromCorner,2015,LeftFoot,662,AC Milan,Atalanta,0,0,2015-11-07 23:45:00,,None
+98802,34,MissedShots,0.749000015258789,0.475,0.014508374966681004,Gianpaolo Bellini,a,1983,SetPiece,2015,RightFoot,662,AC Milan,Atalanta,0,0,2015-11-07 23:45:00,,None
+98806,53,MissedShots,0.9130000305175782,0.2610000038146973,0.0382695198059082,Mauricio Pinilla,a,1494,OpenPlay,2015,RightFoot,662,AC Milan,Atalanta,0,0,2015-11-07 23:45:00,Maximiliano Moralez,Pass
+98807,54,MissedShots,0.774000015258789,0.5690000152587891,0.028900297358632088,Maximiliano Moralez,a,2029,OpenPlay,2015,RightFoot,662,AC Milan,Atalanta,0,0,2015-11-07 23:45:00,Mauricio Pinilla,Pass
+98808,58,BlockedShot,0.8569999694824219,0.6669999694824219,0.050508052110672,Alejandro Gomez,a,1491,OpenPlay,2015,RightFoot,662,AC Milan,Atalanta,0,0,2015-11-07 23:45:00,Luca Cigarini,Pass
+98809,60,MissedShots,0.7080000305175781,0.4540000152587891,0.007946562953293324,Marten de Roon,a,1710,OpenPlay,2015,RightFoot,662,AC Milan,Atalanta,0,0,2015-11-07 23:45:00,Maximiliano Moralez,Chipped
+98810,62,SavedShot,0.9290000152587891,0.485,0.41630348563194275,Luca Cigarini,a,1238,OpenPlay,2015,Head,662,AC Milan,Atalanta,0,0,2015-11-07 23:45:00,Maximiliano Moralez,Cross
+98811,62,MissedShots,0.9540000152587891,0.48900001525878906,0.6724668741226196,Luca Cigarini,a,1238,OpenPlay,2015,LeftFoot,662,AC Milan,Atalanta,0,0,2015-11-07 23:45:00,,Rebound
+98812,63,SavedShot,0.9630000305175781,0.34799999237060547,0.06378404051065445,Maximiliano Moralez,a,2029,OpenPlay,2015,RightFoot,662,AC Milan,Atalanta,0,0,2015-11-07 23:45:00,Alberto Grassi,Chipped
+98813,64,MissedShots,0.9,0.40700000762939453,0.0526721216738224,Marten de Roon,a,1710,FromCorner,2015,RightFoot,662,AC Milan,Atalanta,0,0,2015-11-07 23:45:00,Maximiliano Moralez,Cross
+98814,68,SavedShot,0.89,0.52,0.08953895419836044,Alberto Grassi,a,1504,OpenPlay,2015,LeftFoot,662,AC Milan,Atalanta,0,0,2015-11-07 23:45:00,Alejandro Gomez,Cross
+98815,71,MissedShots,0.9219999694824219,0.54,0.05503401905298233,Mauricio Pinilla,a,1494,OpenPlay,2015,Head,662,AC Milan,Atalanta,0,0,2015-11-07 23:45:00,Maximiliano Moralez,Aerial
+98816,72,SavedShot,0.9030000305175782,0.7319999694824219,0.03835035488009453,Alejandro Gomez,a,1491,OpenPlay,2015,LeftFoot,662,AC Milan,Atalanta,0,0,2015-11-07 23:45:00,,None
+98817,77,MissedShots,0.769000015258789,0.6229999923706054,0.016981763765215874,Alejandro Gomez,a,1491,OpenPlay,2015,RightFoot,662,AC Milan,Atalanta,0,0,2015-11-07 23:45:00,Mauricio Pinilla,Chipped

@@ -1,0 +1,22 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+413833,1,MissedShots,0.9680000305175781,0.3060000038146973,0.044852595776319504,Jamal Musiala,h,8418,OpenPlay,2020,RightFoot,15383,Bayern Munich,Union Berlin,1,1,2021-04-10 13:30:00,Joshua Kimmich,Pass
+413834,11,BlockedShot,0.8640000152587891,0.3189999961853027,0.04650566354393959,Eric Maxim Choupo-Moting,h,339,OpenPlay,2020,RightFoot,15383,Bayern Munich,Union Berlin,1,1,2021-04-10 13:30:00,,None
+413835,12,MissedShots,0.72,0.56,0.014148802496492863,Bouna Sarr,h,3393,FromCorner,2020,RightFoot,15383,Bayern Munich,Union Berlin,1,1,2021-04-10 13:30:00,,None
+413836,17,MissedShots,0.889000015258789,0.46599998474121096,0.016584113240242004,Thomas Müller,h,224,FromCorner,2020,Head,15383,Bayern Munich,Union Berlin,1,1,2021-04-10 13:30:00,Joshua Kimmich,Aerial
+413837,21,MissedShots,0.8419999694824218,0.33,0.04677768796682358,Jamal Musiala,h,8418,OpenPlay,2020,RightFoot,15383,Bayern Munich,Union Berlin,1,1,2021-04-10 13:30:00,Thomas Müller,Pass
+413839,31,MissedShots,0.7530000305175781,0.33099998474121095,0.014850389212369919,Jamal Musiala,h,8418,FromCorner,2020,RightFoot,15383,Bayern Munich,Union Berlin,1,1,2021-04-10 13:30:00,,None
+413841,40,BlockedShot,0.8519999694824218,0.4520000076293945,0.1199088916182518,Thomas Müller,h,224,OpenPlay,2020,RightFoot,15383,Bayern Munich,Union Berlin,1,1,2021-04-10 13:30:00,Jamal Musiala,TakeOn
+413844,53,SavedShot,0.9169999694824219,0.7230000305175781,0.04322022199630737,Jérôme Boateng,h,220,FromCorner,2020,RightFoot,15383,Bayern Munich,Union Berlin,1,1,2021-04-10 13:30:00,Leroy Sané,Pass
+413845,54,MissedShots,0.955,0.5740000152587891,0.051758427172899246,Josip Stanisic,h,9458,FromCorner,2020,Head,15383,Bayern Munich,Union Berlin,1,1,2021-04-10 13:30:00,Tiago Dantas,Aerial
+413846,55,MissedShots,0.8830000305175781,0.2989999961853027,0.05177788808941841,Leroy Sané,h,337,OpenPlay,2020,LeftFoot,15383,Bayern Munich,Union Berlin,1,1,2021-04-10 13:30:00,Thomas Müller,Pass
+413848,64,BlockedShot,0.8530000305175781,0.34200000762939453,0.05436275526881218,Leroy Sané,h,337,OpenPlay,2020,LeftFoot,15383,Bayern Munich,Union Berlin,1,1,2021-04-10 13:30:00,David Alaba,TakeOn
+413849,65,MissedShots,0.865999984741211,0.514000015258789,0.013420537114143372,Josip Stanisic,h,9458,FromCorner,2020,Head,15383,Bayern Munich,Union Berlin,1,1,2021-04-10 13:30:00,Leroy Sané,Aerial
+413850,67,Goal,0.9059999847412109,0.525,0.26566749811172485,Jamal Musiala,h,8418,FromCorner,2020,LeftFoot,15383,Bayern Munich,Union Berlin,1,1,2021-04-10 13:30:00,Thomas Müller,TakeOn
+413853,93,MissedShots,0.755,0.46099998474121096,0.025415657088160515,David Alaba,h,391,OpenPlay,2020,LeftFoot,15383,Bayern Munich,Union Berlin,1,1,2021-04-10 13:30:00,Thomas Müller,Pass
+413838,22,SavedShot,0.94,0.43900001525878907,0.1548352986574173,Marius Bülter,a,7879,OpenPlay,2020,Head,15383,Bayern Munich,Union Berlin,1,1,2021-04-10 13:30:00,Keita Endo,Cross
+413840,36,MissedShots,0.92,0.5359999847412109,0.056348755955696106,Petar Musa,a,9327,OpenPlay,2020,Head,15383,Bayern Munich,Union Berlin,1,1,2021-04-10 13:30:00,Christopher Trimmel,Aerial
+413843,45,BlockedShot,0.7880000305175782,0.6509999847412109,0.0279659703373909,Marius Bülter,a,7879,OpenPlay,2020,RightFoot,15383,Bayern Munich,Union Berlin,1,1,2021-04-10 13:30:00,,BallRecovery
+413842,46,BlockedShot,0.6959999847412109,0.42200000762939455,0.012746280059218407,Petar Musa,a,9327,OpenPlay,2020,RightFoot,15383,Bayern Munich,Union Berlin,1,1,2021-04-10 13:30:00,Christopher Lenz,Pass
+413847,56,MissedShots,0.924000015258789,0.645,0.0390922874212265,Max Kruse,a,155,OpenPlay,2020,LeftFoot,15383,Bayern Munich,Union Berlin,1,1,2021-04-10 13:30:00,Marius Bülter,Cross
+413851,84,MissedShots,0.9309999847412109,0.5570000076293945,0.05018792673945427,Christian Gentner,a,60,OpenPlay,2020,Head,15383,Bayern Munich,Union Berlin,1,1,2021-04-10 13:30:00,Joel Pohjanpalo,Aerial
+413852,84,Goal,0.9580000305175781,0.5459999847412109,0.5672829747200012,Marcus Ingvartsen,a,7883,OpenPlay,2020,LeftFoot,15383,Bayern Munich,Union Berlin,1,1,2021-04-10 13:30:00,Robert Andrich,Pass

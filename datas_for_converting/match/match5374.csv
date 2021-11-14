@@ -1,0 +1,35 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+27202,5,BlockedShot,0.720999984741211,0.395,0.018519921228289604,Admir Mehmedi,h,194,OpenPlay,2014,RightFoot,5374,Freiburg,VfB Stuttgart,1,4,2014-11-28 19:30:00,Sebastian Freis,Pass
+27203,6,MissedShots,0.7619999694824219,0.4620000076293945,0.03187950700521469,Vladimir Darida,h,27,FromCorner,2014,LeftFoot,5374,Freiburg,VfB Stuttgart,1,4,2014-11-28 19:30:00,Jonathan Schmid,Pass
+27204,8,MissedShots,0.865999984741211,0.42700000762939455,0.0982489064335823,Sebastian Freis,h,4366,OpenPlay,2014,RightFoot,5374,Freiburg,VfB Stuttgart,1,4,2014-11-28 19:30:00,Vladimir Darida,Pass
+27206,12,BlockedShot,0.9069999694824219,0.425,0.12569965422153473,Jonathan Schmid,h,81,OpenPlay,2014,RightFoot,5374,Freiburg,VfB Stuttgart,1,4,2014-11-28 19:30:00,Oliver Sorg,Pass
+27208,23,SavedShot,0.700999984741211,0.365,0.010717273689806461,Marc Torrejón,h,4252,OpenPlay,2014,RightFoot,5374,Freiburg,VfB Stuttgart,1,4,2014-11-28 19:30:00,Felix Klaus,LayOff
+27209,23,MissedShots,0.9169999694824219,0.49900001525878906,0.5018438696861267,Sebastian Freis,h,4366,OpenPlay,2014,RightFoot,5374,Freiburg,VfB Stuttgart,1,4,2014-11-28 19:30:00,,Rebound
+27210,28,BlockedShot,0.9369999694824219,0.2929999923706055,0.05659538134932518,Oliver Sorg,h,348,OpenPlay,2014,RightFoot,5374,Freiburg,VfB Stuttgart,1,4,2014-11-28 19:30:00,Felix Klaus,BallTouch
+27215,41,Goal,0.710999984741211,0.4540000152587891,0.01652306318283081,Vladimir Darida,h,27,OpenPlay,2014,RightFoot,5374,Freiburg,VfB Stuttgart,1,4,2014-11-28 19:30:00,Christian Günter,Pass
+27216,42,SavedShot,0.8819999694824219,0.649000015258789,0.07834193110466003,Jonathan Schmid,h,81,OpenPlay,2014,RightFoot,5374,Freiburg,VfB Stuttgart,1,4,2014-11-28 19:30:00,Vladimir Darida,Pass
+27217,42,ShotOnPost,0.8880000305175781,0.46,0.37142494320869446,Felix Klaus,h,350,OpenPlay,2014,LeftFoot,5374,Freiburg,VfB Stuttgart,1,4,2014-11-28 19:30:00,,Rebound
+27218,42,MissedShots,0.865,0.6659999847412109,0.04489830881357193,Jonathan Schmid,h,81,OpenPlay,2014,RightFoot,5374,Freiburg,VfB Stuttgart,1,4,2014-11-28 19:30:00,Vladimir Darida,Rebound
+27219,45,SavedShot,0.825,0.6759999847412109,0.036369238048791885,Nicolas Höfler,h,4250,OpenPlay,2014,LeftFoot,5374,Freiburg,VfB Stuttgart,1,4,2014-11-28 19:30:00,Christian Günter,Pass
+27222,60,SavedShot,0.8680000305175781,0.715,0.034702349454164505,Admir Mehmedi,h,194,OpenPlay,2014,RightFoot,5374,Freiburg,VfB Stuttgart,1,4,2014-11-28 19:30:00,Jonathan Schmid,Pass
+27224,65,BlockedShot,0.8819999694824219,0.565,0.07723630964756012,Sebastian Freis,h,4366,FromCorner,2014,RightFoot,5374,Freiburg,VfB Stuttgart,1,4,2014-11-28 19:30:00,,None
+27231,79,MissedShots,0.7040000152587891,0.6430000305175781,0.011696417815983295,Christian Günter,h,4243,FromCorner,2014,LeftFoot,5374,Freiburg,VfB Stuttgart,1,4,2014-11-28 19:30:00,,Aerial
+27232,85,SavedShot,0.705,0.6780000305175782,0.03401252254843712,Jonathan Schmid,h,81,DirectFreekick,2014,RightFoot,5374,Freiburg,VfB Stuttgart,1,4,2014-11-28 19:30:00,,Standard
+27201,4,MissedShots,0.919000015258789,0.8330000305175781,0.061821773648262024,Moritz Leitner,a,1217,DirectFreekick,2014,RightFoot,5374,Freiburg,VfB Stuttgart,1,4,2014-11-28 19:30:00,,Standard
+27205,11,MissedShots,0.715,0.3320000076293945,0.008952764794230461,Moritz Leitner,a,1217,SetPiece,2014,RightFoot,5374,Freiburg,VfB Stuttgart,1,4,2014-11-28 19:30:00,,None
+27207,18,BlockedShot,0.9080000305175782,0.27399999618530274,0.030363356694579124,Sercan Sararer,a,4338,FromCorner,2014,RightFoot,5374,Freiburg,VfB Stuttgart,1,4,2014-11-28 19:30:00,,None
+27211,30,MissedShots,0.9259999847412109,0.5129999923706055,0.11522529274225235,Antonio Rüdiger,a,1822,FromCorner,2014,Head,5374,Freiburg,VfB Stuttgart,1,4,2014-11-28 19:30:00,Moritz Leitner,Cross
+27212,30,Goal,0.985999984741211,0.47,0.7620464563369751,Martin Harnik,a,407,FromCorner,2014,Head,5374,Freiburg,VfB Stuttgart,1,4,2014-11-28 19:30:00,Antonio Rüdiger,Rebound
+27213,36,MissedShots,0.7830000305175782,0.6930000305175781,0.027559824287891388,Sercan Sararer,a,4338,OpenPlay,2014,RightFoot,5374,Freiburg,VfB Stuttgart,1,4,2014-11-28 19:30:00,,None
+27214,37,SavedShot,0.889000015258789,0.34299999237060547,0.4115198254585266,Martin Harnik,a,407,OpenPlay,2014,RightFoot,5374,Freiburg,VfB Stuttgart,1,4,2014-11-28 19:30:00,Christian Gentner,TakeOn
+27220,51,BlockedShot,0.865,0.5690000152587891,0.12146054953336716,Christian Gentner,a,60,OpenPlay,2014,RightFoot,5374,Freiburg,VfB Stuttgart,1,4,2014-11-28 19:30:00,Sercan Sararer,Pass
+27221,51,Goal,0.8369999694824218,0.47200000762939454,0.3337361216545105,Carlos Gruezo,a,69,OpenPlay,2014,RightFoot,5374,Freiburg,VfB Stuttgart,1,4,2014-11-28 19:30:00,,Rebound
+27223,61,SavedShot,0.8059999847412109,0.31799999237060544,0.02846350520849228,Moritz Leitner,a,1217,OpenPlay,2014,RightFoot,5374,Freiburg,VfB Stuttgart,1,4,2014-11-28 19:30:00,Florian Klein,BallRecovery
+27225,66,BlockedShot,0.71,0.51,0.008808727376163006,Florian Klein,a,383,SetPiece,2014,RightFoot,5374,Freiburg,VfB Stuttgart,1,4,2014-11-28 19:30:00,,Aerial
+27226,66,BlockedShot,0.735999984741211,0.5629999923706055,0.013599895872175694,Moritz Leitner,a,1217,SetPiece,2014,RightFoot,5374,Freiburg,VfB Stuttgart,1,4,2014-11-28 19:30:00,,Rebound
+27227,67,Goal,0.8019999694824219,0.28100000381469725,0.3841567933559418,Timo Werner,a,65,OpenPlay,2014,RightFoot,5374,Freiburg,VfB Stuttgart,1,4,2014-11-28 19:30:00,Moritz Leitner,Throughball
+27228,70,MissedShots,0.805,0.40799999237060547,0.12093863636255264,Konstantin Rausch,a,13,DirectFreekick,2014,LeftFoot,5374,Freiburg,VfB Stuttgart,1,4,2014-11-28 19:30:00,,Standard
+27229,75,MissedShots,0.7759999847412109,0.3139999961853027,0.0202894676476717,Gotoku Sakai,a,164,OpenPlay,2014,RightFoot,5374,Freiburg,VfB Stuttgart,1,4,2014-11-28 19:30:00,Christian Gentner,Pass
+27230,75,Goal,0.93,0.509000015258789,0.6090658903121948,Martin Harnik,a,407,OpenPlay,2014,RightFoot,5374,Freiburg,VfB Stuttgart,1,4,2014-11-28 19:30:00,Gotoku Sakai,Rebound
+27233,87,SavedShot,0.955999984741211,0.645,0.34981757402420044,Adam Hlousek,a,67,OpenPlay,2014,LeftFoot,5374,Freiburg,VfB Stuttgart,1,4,2014-11-28 19:30:00,Gotoku Sakai,TakeOn
+27234,91,SavedShot,0.7959999847412109,0.5070000076293946,0.09691429138183594,Gotoku Sakai,a,164,OpenPlay,2014,LeftFoot,5374,Freiburg,VfB Stuttgart,1,4,2014-11-28 19:30:00,Daniel Ginczek,Pass

@@ -1,0 +1,23 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+32244,38,BlockedShot,0.774000015258789,0.41,0.02546767331659794,Ilkay Gündogan,h,314,OpenPlay,2014,RightFoot,5201,Borussia Dortmund,Bayern Munich,0,1,2015-04-04 17:30:00,,None
+32246,46,BlockedShot,0.7430000305175781,0.524000015258789,0.06361476331949234,Pierre-Emerick Aubameyang,h,318,DirectFreekick,2014,RightFoot,5201,Borussia Dortmund,Bayern Munich,0,1,2015-04-04 17:30:00,,Standard
+32247,47,MissedShots,0.7480000305175781,0.34599998474121096,0.011331386864185333,Neven Subotic,h,312,SetPiece,2014,RightFoot,5201,Borussia Dortmund,Bayern Munich,0,1,2015-04-04 17:30:00,,None
+32248,49,BlockedShot,0.9159999847412109,0.415,0.02390756644308567,Sokratis,h,371,SetPiece,2014,Head,5201,Borussia Dortmund,Bayern Munich,0,1,2015-04-04 17:30:00,Marco Reus,Aerial
+32249,50,MissedShots,0.7390000152587891,0.44299999237060544,0.010441153310239315,Ilkay Gündogan,h,314,OpenPlay,2014,LeftFoot,5201,Borussia Dortmund,Bayern Munich,0,1,2015-04-04 17:30:00,,Aerial
+32250,53,BlockedShot,0.715999984741211,0.4370000076293945,0.016435280442237854,Marco Reus,h,319,OpenPlay,2014,LeftFoot,5201,Borussia Dortmund,Bayern Munich,0,1,2015-04-04 17:30:00,Sven Bender,HeadPass
+32251,53,BlockedShot,0.7480000305175781,0.53,0.01941622979938984,Ilkay Gündogan,h,314,OpenPlay,2014,RightFoot,5201,Borussia Dortmund,Bayern Munich,0,1,2015-04-04 17:30:00,,BallRecovery
+32252,60,MissedShots,0.8930000305175781,0.37,0.06274215877056122,Marco Reus,h,319,OpenPlay,2014,RightFoot,5201,Borussia Dortmund,Bayern Munich,0,1,2015-04-04 17:30:00,Sven Bender,BallRecovery
+32253,64,MissedShots,0.8780000305175781,0.3060000038146973,0.04346216470003128,Pierre-Emerick Aubameyang,h,318,OpenPlay,2014,RightFoot,5201,Borussia Dortmund,Bayern Munich,0,1,2015-04-04 17:30:00,,BallRecovery
+32254,69,SavedShot,0.9169999694824219,0.4129999923706055,0.0228302963078022,Adrián Ramos,h,324,SetPiece,2014,Head,5201,Borussia Dortmund,Bayern Munich,0,1,2015-04-04 17:30:00,Marco Reus,Aerial
+32256,77,MissedShots,0.8390000152587891,0.6179999923706054,0.040700413286685944,Shinji Kagawa,h,321,FromCorner,2014,RightFoot,5201,Borussia Dortmund,Bayern Munich,0,1,2015-04-04 17:30:00,,None
+32258,84,MissedShots,0.8919999694824219,0.605999984741211,0.03652998432517052,Mats Hummels,h,373,OpenPlay,2014,RightFoot,5201,Borussia Dortmund,Bayern Munich,0,1,2015-04-04 17:30:00,,Aerial
+32259,86,BlockedShot,0.865,0.43400001525878906,0.06494179368019104,Marco Reus,h,319,OpenPlay,2014,RightFoot,5201,Borussia Dortmund,Bayern Munich,0,1,2015-04-04 17:30:00,,Dispossessed
+32260,87,SavedShot,0.75,0.5279999923706055,0.06879894435405731,Marco Reus,h,319,DirectFreekick,2014,RightFoot,5201,Borussia Dortmund,Bayern Munich,0,1,2015-04-04 17:30:00,,Standard
+32261,92,MissedShots,0.965999984741211,0.6819999694824219,0.008170337416231632,Neven Subotic,h,312,OpenPlay,2014,Head,5201,Borussia Dortmund,Bayern Munich,0,1,2015-04-04 17:30:00,Sokratis,Aerial
+32240,6,MissedShots,0.8469999694824218,0.30100000381469727,0.04051726683974266,Thomas Müller,a,224,OpenPlay,2014,RightFoot,5201,Borussia Dortmund,Bayern Munich,0,1,2015-04-04 17:30:00,Rafinha,Chipped
+32241,32,MissedShots,0.7469999694824219,0.485,0.06687941402196884,Xabi Alonso,a,230,DirectFreekick,2014,RightFoot,5201,Borussia Dortmund,Bayern Munich,0,1,2015-04-04 17:30:00,,Standard
+32242,35,SavedShot,0.9019999694824219,0.5840000152587891,0.3890606164932251,Thomas Müller,a,224,OpenPlay,2014,LeftFoot,5201,Borussia Dortmund,Bayern Munich,0,1,2015-04-04 17:30:00,Robert Lewandowski,Pass
+32243,35,Goal,0.8780000305175781,0.5370000076293945,0.17473141849040985,Robert Lewandowski,a,227,OpenPlay,2014,Head,5201,Borussia Dortmund,Bayern Munich,0,1,2015-04-04 17:30:00,,Rebound
+32245,44,BlockedShot,0.7340000152587891,0.4570000076293945,0.027493689209222794,Thomas Müller,a,224,OpenPlay,2014,RightFoot,5201,Borussia Dortmund,Bayern Munich,0,1,2015-04-04 17:30:00,Jérôme Boateng,Pass
+32255,71,BlockedShot,0.850999984741211,0.43900001525878907,0.10107553750276566,Robert Lewandowski,a,227,OpenPlay,2014,RightFoot,5201,Borussia Dortmund,Bayern Munich,0,1,2015-04-04 17:30:00,Juan Bernat,Pass
+32257,79,BlockedShot,0.725999984741211,0.5629999923706055,0.027348782867193222,Mario Götze,a,422,OpenPlay,2014,LeftFoot,5201,Borussia Dortmund,Bayern Munich,0,1,2015-04-04 17:30:00,Thiago Alcántara,HeadPass

@@ -1,0 +1,21 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+351592,7,Goal,0.9059999847412109,0.445,0.43194299936294556,Nicolas Pepe,h,5656,OpenPlay,2019,LeftFoot,11844,Arsenal,Manchester United,2,0,2020-01-01 20:00:00,,None
+351593,9,MissedShots,0.8959999847412109,0.5670000076293945,0.10465378314256668,Pierre-Emerick Aubameyang,h,318,OpenPlay,2019,RightFoot,11844,Arsenal,Manchester United,2,0,2020-01-01 20:00:00,Nicolas Pepe,Cross
+351594,31,MissedShots,0.9469999694824218,0.34599998474121096,0.13548754155635834,Alexandre Lacazette,h,3277,OpenPlay,2019,LeftFoot,11844,Arsenal,Manchester United,2,0,2020-01-01 20:00:00,Nicolas Pepe,TakeOn
+351595,32,MissedShots,0.85,0.47900001525878905,0.10986430943012238,Lucas Torreira,h,1227,OpenPlay,2019,LeftFoot,11844,Arsenal,Manchester United,2,0,2020-01-01 20:00:00,Nicolas Pepe,Pass
+351596,37,ShotOnPost,0.769000015258789,0.4620000076293945,0.03938750550150871,Nicolas Pepe,h,5656,OpenPlay,2019,LeftFoot,11844,Arsenal,Manchester United,2,0,2020-01-01 20:00:00,Alexandre Lacazette,TakeOn
+351597,41,SavedShot,0.9740000152587891,0.40400001525878904,0.050861187279224396,Alexandre Lacazette,h,3277,FromCorner,2019,Head,11844,Arsenal,Manchester United,2,0,2020-01-01 20:00:00,Nicolas Pepe,Cross
+351598,41,Goal,0.9690000152587891,0.4909999847412109,0.7903546690940857,Sokratis,h,371,FromCorner,2019,RightFoot,11844,Arsenal,Manchester United,2,0,2020-01-01 20:00:00,,Rebound
+351605,77,MissedShots,0.799000015258789,0.545,0.06856400519609451,Alexandre Lacazette,h,3277,OpenPlay,2019,RightFoot,11844,Arsenal,Manchester United,2,0,2020-01-01 20:00:00,Pierre-Emerick Aubameyang,Pass
+351606,78,SavedShot,0.8640000152587891,0.34,0.10934433341026306,Bukayo Saka,h,7322,OpenPlay,2019,RightFoot,11844,Arsenal,Manchester United,2,0,2020-01-01 20:00:00,Mesut Özil,Pass
+351607,79,BlockedShot,0.87,0.32799999237060545,0.10720855742692947,Reiss Nelson,h,6492,OpenPlay,2019,RightFoot,11844,Arsenal,Manchester United,2,0,2020-01-01 20:00:00,Alexandre Lacazette,Pass
+351591,0,SavedShot,0.7080000305175781,0.5879999923706055,0.015638386830687523,Marcus Rashford,a,556,OpenPlay,2019,RightFoot,11844,Arsenal,Manchester United,2,0,2020-01-01 20:00:00,Jesse Lingard,Pass
+351599,46,SavedShot,0.95,0.5820000076293945,0.26133373379707336,Harry Maguire,a,1687,SetPiece,2019,Head,11844,Arsenal,Manchester United,2,0,2020-01-01 20:00:00,Fred,Cross
+351600,52,BlockedShot,0.7809999847412109,0.38,0.029426373541355133,Jesse Lingard,a,558,OpenPlay,2019,RightFoot,11844,Arsenal,Manchester United,2,0,2020-01-01 20:00:00,Anthony Martial,Pass
+351601,54,SavedShot,0.7169999694824218,0.5270000076293946,0.011671594344079494,Fred,a,6817,OpenPlay,2019,RightFoot,11844,Arsenal,Manchester United,2,0,2020-01-01 20:00:00,Luke Shaw,Pass
+351602,58,MissedShots,0.8969999694824219,0.639000015258789,0.093700110912323,Andreas Pereira,a,922,OpenPlay,2019,LeftFoot,11844,Arsenal,Manchester United,2,0,2020-01-01 20:00:00,Nemanja Matic,Throughball
+351603,63,MissedShots,0.8580000305175781,0.6940000152587891,0.052753619849681854,Marcus Rashford,a,556,OpenPlay,2019,RightFoot,11844,Arsenal,Manchester United,2,0,2020-01-01 20:00:00,Andreas Pereira,Pass
+351604,72,BlockedShot,0.85,0.30100000381469727,0.048084210604429245,Mason Greenwood,a,7490,OpenPlay,2019,LeftFoot,11844,Arsenal,Manchester United,2,0,2020-01-01 20:00:00,Anthony Martial,Pass
+351608,86,BlockedShot,0.7909999847412109,0.39799999237060546,0.02328503504395485,Fred,a,6817,OpenPlay,2019,RightFoot,11844,Arsenal,Manchester United,2,0,2020-01-01 20:00:00,,None
+351609,92,SavedShot,0.9169999694824219,0.5129999923706055,0.1180698499083519,Marcus Rashford,a,556,OpenPlay,2019,RightFoot,11844,Arsenal,Manchester United,2,0,2020-01-01 20:00:00,Juan Mata,Throughball
+351610,93,MissedShots,0.749000015258789,0.44,0.06160007789731026,Fred,a,6817,DirectFreekick,2019,LeftFoot,11844,Arsenal,Manchester United,2,0,2020-01-01 20:00:00,,Standard

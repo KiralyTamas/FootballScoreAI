@@ -1,0 +1,25 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+133205,5,BlockedShot,0.754000015258789,0.48700000762939455,0.018816040828824043,Emil Forsberg,h,5249,OpenPlay,2016,LeftFoot,3837,RasenBallsport Leipzig,Freiburg,4,0,2017-04-15 14:30:00,,TakeOn
+133206,8,SavedShot,0.8830000305175781,0.3240000152587891,0.05979730188846588,Diego Demme,h,5246,OpenPlay,2016,RightFoot,3837,RasenBallsport Leipzig,Freiburg,4,0,2017-04-15 14:30:00,Yussuf Poulsen,Pass
+133207,12,MissedShots,0.9469999694824218,0.45599998474121095,0.09628844261169434,Bernardo,h,5245,SetPiece,2016,RightFoot,3837,RasenBallsport Leipzig,Freiburg,4,0,2017-04-15 14:30:00,Yussuf Poulsen,HeadPass
+133208,15,BlockedShot,0.7190000152587891,0.49900001525878906,0.01688501052558422,Marcel Sabitzer,h,5248,OpenPlay,2016,RightFoot,3837,RasenBallsport Leipzig,Freiburg,4,0,2017-04-15 14:30:00,Emil Forsberg,Pass
+133209,22,MissedShots,0.8880000305175781,0.47200000762939454,0.046305254101753235,Marcel Halstenberg,h,5254,FromCorner,2016,Head,3837,RasenBallsport Leipzig,Freiburg,4,0,2017-04-15 14:30:00,Emil Forsberg,Cross
+133211,26,BlockedShot,0.8909999847412109,0.33,0.06374072283506393,Timo Werner,h,65,OpenPlay,2016,LeftFoot,3837,RasenBallsport Leipzig,Freiburg,4,0,2017-04-15 14:30:00,,BallRecovery
+133213,35,Goal,0.9019999694824219,0.595999984741211,0.012840617448091507,Yussuf Poulsen,h,5250,SetPiece,2016,Head,3837,RasenBallsport Leipzig,Freiburg,4,0,2017-04-15 14:30:00,Emil Forsberg,Aerial
+133215,41,Goal,0.8530000305175781,0.49599998474121093,0.545474112033844,Timo Werner,h,65,OpenPlay,2016,RightFoot,3837,RasenBallsport Leipzig,Freiburg,4,0,2017-04-15 14:30:00,Yussuf Poulsen,Throughball
+133217,50,Goal,0.885,0.5279999923706055,0.11092864722013474,Naby Keita,h,5247,OpenPlay,2016,RightFoot,3837,RasenBallsport Leipzig,Freiburg,4,0,2017-04-15 14:30:00,,None
+133220,59,MissedShots,0.7719999694824219,0.2610000038146973,0.015599360689520836,Yussuf Poulsen,h,5250,FromCorner,2016,LeftFoot,3837,RasenBallsport Leipzig,Freiburg,4,0,2017-04-15 14:30:00,,TakeOn
+133221,60,SavedShot,0.7469999694824219,0.7559999847412109,0.02057827077805996,Marcel Halstenberg,h,5254,OpenPlay,2016,LeftFoot,3837,RasenBallsport Leipzig,Freiburg,4,0,2017-04-15 14:30:00,Stefan Ilsanker,Pass
+133223,75,MissedShots,0.7709999847412109,0.73,0.049297261983156204,Emil Forsberg,h,5249,DirectFreekick,2016,RightFoot,3837,RasenBallsport Leipzig,Freiburg,4,0,2017-04-15 14:30:00,,Standard
+133228,89,Goal,0.9480000305175781,0.48200000762939454,0.13396264612674713,Diego Demme,h,5246,OpenPlay,2016,Head,3837,RasenBallsport Leipzig,Freiburg,4,0,2017-04-15 14:30:00,Timo Werner,HeadPass
+133210,24,SavedShot,0.9,0.4470000076293945,0.297299325466156,Mike Frantz,a,4246,SetPiece,2016,RightFoot,3837,RasenBallsport Leipzig,Freiburg,4,0,2017-04-15 14:30:00,Marc-Oliver Kempf,Chipped
+133212,28,MissedShots,0.8719999694824219,0.33,0.05137043818831444,Florian Niederlechner,a,306,OpenPlay,2016,RightFoot,3837,RasenBallsport Leipzig,Freiburg,4,0,2017-04-15 14:30:00,,None
+133214,40,MissedShots,0.7580000305175781,0.605,0.019861750304698944,Janik Haberer,a,4271,OpenPlay,2016,RightFoot,3837,RasenBallsport Leipzig,Freiburg,4,0,2017-04-15 14:30:00,Karim Guédé,Pass
+133216,46,MissedShots,0.8959999847412109,0.26600000381469724,0.0439140684902668,Lukas Kübler,a,5263,OpenPlay,2016,RightFoot,3837,RasenBallsport Leipzig,Freiburg,4,0,2017-04-15 14:30:00,Nils Petersen,Pass
+133218,52,BlockedShot,0.8669999694824219,0.6320000076293946,0.07124413549900055,Janik Haberer,a,4271,OpenPlay,2016,RightFoot,3837,RasenBallsport Leipzig,Freiburg,4,0,2017-04-15 14:30:00,Mike Frantz,Pass
+133219,55,BlockedShot,0.88,0.2929999923706055,0.05000791326165199,Janik Haberer,a,4271,OpenPlay,2016,LeftFoot,3837,RasenBallsport Leipzig,Freiburg,4,0,2017-04-15 14:30:00,Mike Frantz,Pass
+133222,71,MissedShots,0.8190000152587891,0.75,0.020231783390045166,Janik Haberer,a,4271,OpenPlay,2016,RightFoot,3837,RasenBallsport Leipzig,Freiburg,4,0,2017-04-15 14:30:00,Mike Frantz,Pass
+133224,78,MissedShots,0.91,0.6459999847412109,0.07103099673986435,Florian Niederlechner,a,306,OpenPlay,2016,LeftFoot,3837,RasenBallsport Leipzig,Freiburg,4,0,2017-04-15 14:30:00,Janik Haberer,OffsidePass
+133225,80,SavedShot,0.6880000305175781,0.45799999237060546,0.0358138307929039,Pascal Stenzel,a,326,DirectFreekick,2016,RightFoot,3837,RasenBallsport Leipzig,Freiburg,4,0,2017-04-15 14:30:00,,Standard
+133226,84,BlockedShot,0.8680000305175781,0.695,0.016324052587151527,Florian Niederlechner,a,306,SetPiece,2016,LeftFoot,3837,RasenBallsport Leipzig,Freiburg,4,0,2017-04-15 14:30:00,,Aerial
+133227,84,BlockedShot,0.7190000152587891,0.48700000762939455,0.013313297182321548,Pascal Stenzel,a,326,OpenPlay,2016,RightFoot,3837,RasenBallsport Leipzig,Freiburg,4,0,2017-04-15 14:30:00,Nicolas Höfler,Pass

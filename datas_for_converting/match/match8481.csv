@@ -1,0 +1,26 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+198788,6,MissedShots,0.9219999694824219,0.6140000152587891,0.0816381648182869,Kilian Jakob,h,6568,OpenPlay,2017,RightFoot,8481,Augsburg,Hoffenheim,0,2,2018-03-03 14:30:00,,None
+198791,22,MissedShots,0.919000015258789,0.6090000152587891,0.016594721004366875,Martin Hinteregger,h,2668,FromCorner,2017,Head,8481,Augsburg,Hoffenheim,0,2,2018-03-03 14:30:00,,Aerial
+198792,22,SavedShot,0.91,0.7290000152587891,0.04028075560927391,Jonathan Schmid,h,81,FromCorner,2017,RightFoot,8481,Augsburg,Hoffenheim,0,2,2018-03-03 14:30:00,Philipp Max,TakeOn
+198799,42,SavedShot,0.799000015258789,0.7659999847412109,0.01863374002277851,Philipp Max,h,267,OpenPlay,2017,LeftFoot,8481,Augsburg,Hoffenheim,0,2,2018-03-03 14:30:00,Daniel Baier,Pass
+198805,69,MissedShots,0.919000015258789,0.5059999847412109,0.10546591132879257,Ja-Cheol Koo,h,271,FromCorner,2017,Head,8481,Augsburg,Hoffenheim,0,2,2018-03-03 14:30:00,Jonathan Schmid,Cross
+198806,72,MissedShots,0.7819999694824219,0.7390000152587891,0.05177280306816101,Jonathan Schmid,h,81,DirectFreekick,2017,RightFoot,8481,Augsburg,Hoffenheim,0,2,2018-03-03 14:30:00,,Standard
+198807,77,MissedShots,0.9119999694824219,0.46299999237060546,0.10077561438083649,Michael Gregoritsch,h,171,OpenPlay,2017,Head,8481,Augsburg,Hoffenheim,0,2,2018-03-03 14:30:00,Sergio Córdova,Cross
+198809,81,MissedShots,0.909000015258789,0.495,0.11352837830781937,Michael Gregoritsch,h,171,OpenPlay,2017,Head,8481,Augsburg,Hoffenheim,0,2,2018-03-03 14:30:00,Jonathan Schmid,Cross
+198789,16,SavedShot,0.875,0.33099998474121095,0.05621466040611267,Andrej Kramaric,a,956,OpenPlay,2017,RightFoot,8481,Augsburg,Hoffenheim,0,2,2018-03-03 14:30:00,Florian Grillitsch,BallRecovery
+198790,20,SavedShot,0.764000015258789,0.39799999237060546,0.030374743044376373,Serge Gnabry,a,993,OpenPlay,2017,RightFoot,8481,Augsburg,Hoffenheim,0,2,2018-03-03 14:30:00,Lukas Rupp,HeadPass
+198793,25,BlockedShot,0.8730000305175781,0.524000015258789,0.03534795343875885,Andrej Kramaric,a,956,OpenPlay,2017,Head,8481,Augsburg,Hoffenheim,0,2,2018-03-03 14:30:00,Nico Schulz,Cross
+198794,28,SavedShot,0.789000015258789,0.5270000076293946,0.10266536474227905,Lukas Rupp,a,62,OpenPlay,2017,RightFoot,8481,Augsburg,Hoffenheim,0,2,2018-03-03 14:30:00,,TakeOn
+198795,29,Goal,0.860999984741211,0.4759999847412109,0.03171812742948532,Andrej Kramaric,a,956,OpenPlay,2017,Head,8481,Augsburg,Hoffenheim,0,2,2018-03-03 14:30:00,Benjamin Hübner,Cross
+198796,32,BlockedShot,0.6980000305175781,0.37099998474121093,0.017066853120923042,Dennis Geiger,a,6081,OpenPlay,2017,RightFoot,8481,Augsburg,Hoffenheim,0,2,2018-03-03 14:30:00,Nico Schulz,Pass
+198797,34,MissedShots,0.935,0.4,0.05377190560102463,Florian Grillitsch,a,116,FromCorner,2017,Head,8481,Augsburg,Hoffenheim,0,2,2018-03-03 14:30:00,Andrej Kramaric,Cross
+198798,38,MissedShots,0.9519999694824218,0.425,0.11999818682670593,Lukas Rupp,a,62,OpenPlay,2017,RightFoot,8481,Augsburg,Hoffenheim,0,2,2018-03-03 14:30:00,,None
+198800,46,MissedShots,0.7580000305175781,0.6719999694824219,0.015171603299677372,Nico Schulz,a,433,FromCorner,2017,LeftFoot,8481,Augsburg,Hoffenheim,0,2,2018-03-03 14:30:00,,None
+198801,49,Goal,0.919000015258789,0.5029999923706054,0.6513193249702454,Serge Gnabry,a,993,OpenPlay,2017,RightFoot,8481,Augsburg,Hoffenheim,0,2,2018-03-03 14:30:00,Andrej Kramaric,Pass
+198802,51,BlockedShot,0.8419999694824218,0.544000015258789,0.10316909104585648,Lukas Rupp,a,62,OpenPlay,2017,RightFoot,8481,Augsburg,Hoffenheim,0,2,2018-03-03 14:30:00,Serge Gnabry,Pass
+198803,57,SavedShot,0.78,0.7030000305175781,0.029167665168642998,Nico Schulz,a,433,OpenPlay,2017,LeftFoot,8481,Augsburg,Hoffenheim,0,2,2018-03-03 14:30:00,Dennis Geiger,Pass
+198804,65,BlockedShot,0.9059999847412109,0.515,0.036282483488321304,Benjamin Hübner,a,251,FromCorner,2017,Head,8481,Augsburg,Hoffenheim,0,2,2018-03-03 14:30:00,Andrej Kramaric,Foul
+198808,80,BlockedShot,0.86,0.6509999847412109,0.1131228432059288,Mark Uth,a,88,OpenPlay,2017,LeftFoot,8481,Augsburg,Hoffenheim,0,2,2018-03-03 14:30:00,Dennis Geiger,Pass
+198810,84,MissedShots,0.905,0.6370000076293946,0.2914174497127533,Nico Schulz,a,433,OpenPlay,2017,RightFoot,8481,Augsburg,Hoffenheim,0,2,2018-03-03 14:30:00,Nadiem Amiri,Pass
+198811,86,MissedShots,0.8930000305175781,0.5479999923706055,0.05714758485555649,Benjamin Hübner,a,251,FromCorner,2017,LeftFoot,8481,Augsburg,Hoffenheim,0,2,2018-03-03 14:30:00,Mark Uth,Cross
+198812,91,BlockedShot,0.8430000305175781,0.5659999847412109,0.09757102280855179,Nadiem Amiri,a,82,OpenPlay,2017,RightFoot,8481,Augsburg,Hoffenheim,0,2,2018-03-03 14:30:00,Mark Uth,Pass

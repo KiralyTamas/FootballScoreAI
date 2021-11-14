@@ -1,0 +1,27 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+294489,4,MissedShots,0.8480000305175781,0.46599998474121096,0.12084025889635086,Loïc Remy,h,690,OpenPlay,2018,RightFoot,10956,Lille,Paris Saint Germain,5,1,2019-04-14 20:00:00,Thiago Mendes,Throughball
+294490,6,MissedShots,0.8680000305175781,0.43099998474121093,0.02468690276145935,Xeka,h,5704,OpenPlay,2018,Head,10956,Lille,Paris Saint Germain,5,1,2019-04-14 20:00:00,Jonathan Ikone,Cross
+294493,26,BlockedShot,0.6990000152587891,0.5129999923706055,0.014757324010133743,Thiago Mendes,h,6011,OpenPlay,2018,RightFoot,10956,Lille,Paris Saint Germain,5,1,2019-04-14 20:00:00,Mehmet Zeki Çelik,Pass
+294495,31,MissedShots,0.789000015258789,0.5220000076293946,0.039194006472826004,Jonathan Bamba,h,3749,OpenPlay,2018,RightFoot,10956,Lille,Paris Saint Germain,5,1,2019-04-14 20:00:00,Xeka,Pass
+294498,38,BlockedShot,0.7569999694824219,0.32799999237060545,0.053076647222042084,Nicolas Pepe,h,5656,DirectFreekick,2018,LeftFoot,10956,Lille,Paris Saint Germain,5,1,2019-04-14 20:00:00,,Standard
+294499,40,BlockedShot,0.7290000152587891,0.7630000305175781,0.010517842136323452,Youssouf Kone,h,3367,OpenPlay,2018,LeftFoot,10956,Lille,Paris Saint Germain,5,1,2019-04-14 20:00:00,Xeka,TakeOn
+294501,44,BlockedShot,0.924000015258789,0.4809999847412109,0.14000780880451202,Xeka,h,5704,OpenPlay,2018,RightFoot,10956,Lille,Paris Saint Germain,5,1,2019-04-14 20:00:00,Jonathan Ikone,Pass
+294502,45,BlockedShot,0.8040000152587891,0.355,0.031246962025761604,Nicolas Pepe,h,5656,OpenPlay,2018,LeftFoot,10956,Lille,Paris Saint Germain,5,1,2019-04-14 20:00:00,Mehmet Zeki Çelik,Pass
+294504,50,Goal,0.865,0.515,0.5545327663421631,Nicolas Pepe,h,5656,OpenPlay,2018,LeftFoot,10956,Lille,Paris Saint Germain,5,1,2019-04-14 20:00:00,Jonathan Ikone,Throughball
+294505,52,BlockedShot,0.88,0.46,0.03491288051009178,Loïc Remy,h,690,OpenPlay,2018,Head,10956,Lille,Paris Saint Germain,5,1,2019-04-14 20:00:00,Mehmet Zeki Çelik,Aerial
+294508,62,BlockedShot,0.8690000152587891,0.6719999694824219,0.31945496797561646,Jonathan Bamba,h,3749,OpenPlay,2018,LeftFoot,10956,Lille,Paris Saint Germain,5,1,2019-04-14 20:00:00,Loïc Remy,Throughball
+294509,64,Goal,0.8819999694824219,0.6869999694824219,0.06889939308166504,Jonathan Bamba,h,3749,OpenPlay,2018,LeftFoot,10956,Lille,Paris Saint Germain,5,1,2019-04-14 20:00:00,Jonathan Ikone,Pass
+294510,70,Goal,0.919000015258789,0.49900001525878906,0.12769544124603271,Gabriel,h,5613,SetPiece,2018,Head,10956,Lille,Paris Saint Germain,5,1,2019-04-14 20:00:00,Nicolas Pepe,Cross
+294511,82,SavedShot,0.7719999694824219,0.7019999694824218,0.027219004929065704,Jonathan Bamba,h,3749,OpenPlay,2018,RightFoot,10956,Lille,Paris Saint Germain,5,1,2019-04-14 20:00:00,Nicolas Pepe,Pass
+294512,83,Goal,0.9369999694824219,0.495,0.41943594813346863,José Fonte,h,834,FromCorner,2018,Head,10956,Lille,Paris Saint Germain,5,1,2019-04-14 20:00:00,Nicolas Pepe,Cross
+294488,1,MissedShots,0.895,0.33099998474121095,0.07216513156890869,Thomas Meunier,a,5680,OpenPlay,2018,RightFoot,10956,Lille,Paris Saint Germain,5,1,2019-04-14 20:00:00,Dani Alves,Pass
+294491,6,OwnGoal,0.07,0.49,0,Thomas Meunier,a,5680,OpenPlay,2018,LeftFoot,10956,Lille,Paris Saint Germain,5,1,2019-04-14 20:00:00,,None
+294492,10,Goal,0.9359999847412109,0.575,0.34125301241874695,Juan Bernat,a,414,OpenPlay,2018,LeftFoot,10956,Lille,Paris Saint Germain,5,1,2019-04-14 20:00:00,Kylian Mbappe-Lottin,Chipped
+294494,29,MissedShots,0.7480000305175781,0.7,0.04452405497431755,Leandro Paredes,a,1248,DirectFreekick,2018,RightFoot,10956,Lille,Paris Saint Germain,5,1,2019-04-14 20:00:00,,Standard
+294496,33,SavedShot,0.749000015258789,0.45599998474121095,0.01892203651368618,Moussa Diaby,a,6556,OpenPlay,2018,LeftFoot,10956,Lille,Paris Saint Germain,5,1,2019-04-14 20:00:00,,None
+294497,34,SavedShot,0.7280000305175781,0.6719999694824219,0.01368420384824276,Kylian Mbappe-Lottin,a,3423,OpenPlay,2018,RightFoot,10956,Lille,Paris Saint Germain,5,1,2019-04-14 20:00:00,Juan Bernat,Pass
+294500,40,SavedShot,0.9019999694824219,0.625999984741211,0.10091961920261383,Julian Draxler,a,152,OpenPlay,2018,LeftFoot,10956,Lille,Paris Saint Germain,5,1,2019-04-14 20:00:00,Moussa Diaby,Pass
+294503,47,MissedShots,0.9640000152587891,0.500999984741211,0.6090250015258789,Thilo Kehrer,a,2674,SetPiece,2018,Head,10956,Lille,Paris Saint Germain,5,1,2019-04-14 20:00:00,Leandro Paredes,Cross
+294506,56,BlockedShot,0.7919999694824219,0.5220000076293946,0.03692017123103142,Kylian Mbappe-Lottin,a,3423,OpenPlay,2018,RightFoot,10956,Lille,Paris Saint Germain,5,1,2019-04-14 20:00:00,Moussa Diaby,Pass
+294507,61,SavedShot,0.7959999847412109,0.655,0.031158538535237312,Colin Dagba,a,6907,OpenPlay,2018,RightFoot,10956,Lille,Paris Saint Germain,5,1,2019-04-14 20:00:00,Kylian Mbappe-Lottin,Pass
+294513,89,MissedShots,0.774000015258789,0.764000015258789,0.010610779747366905,Kylian Mbappe-Lottin,a,3423,OpenPlay,2018,RightFoot,10956,Lille,Paris Saint Germain,5,1,2019-04-14 20:00:00,Colin Dagba,Pass

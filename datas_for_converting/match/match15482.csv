@@ -1,0 +1,24 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+385026,24,SavedShot,0.6509999847412109,0.6719999694824219,0.0094741340726614,Matteo Ricci,h,8911,OpenPlay,2020,RightFoot,15482,Spezia,Juventus,1,4,2020-11-01 14:00:00,,BallRecovery
+385028,30,MissedShots,0.805,0.5520000076293945,0.0471528023481369,Matteo Ricci,h,8911,OpenPlay,2020,LeftFoot,15482,Spezia,Juventus,1,4,2020-11-01 14:00:00,M&#039;Bala Nzola,Pass
+385029,31,Goal,0.855999984741211,0.5,0.08579225093126297,Tommaso Pobega,h,8912,OpenPlay,2020,RightFoot,15482,Spezia,Juventus,1,4,2020-11-01 14:00:00,Paolo Bartolomei,Pass
+385030,32,MissedShots,0.874000015258789,0.675,0.06313938647508621,M&#039;Bala Nzola,h,9018,OpenPlay,2020,LeftFoot,15482,Spezia,Juventus,1,4,2020-11-01 14:00:00,Simone Bastoni,Pass
+385031,40,BlockedShot,0.7780000305175782,0.7030000305175781,0.016955839470028877,Tommaso Pobega,h,8912,OpenPlay,2020,LeftFoot,15482,Spezia,Juventus,1,4,2020-11-01 14:00:00,Diego Farias,Pass
+385032,50,BlockedShot,0.860999984741211,0.6930000305175781,0.023723265156149864,Simone Bastoni,h,8916,OpenPlay,2020,LeftFoot,15482,Spezia,Juventus,1,4,2020-11-01 14:00:00,Salvador Ferrer,Cross
+385033,51,MissedShots,0.735,0.515,0.018212471157312393,Paolo Bartolomei,h,8910,OpenPlay,2020,RightFoot,15482,Spezia,Juventus,1,4,2020-11-01 14:00:00,M&#039;Bala Nzola,Pass
+385034,52,BlockedShot,0.799000015258789,0.36400001525878906,0.04795263335108757,Paolo Bartolomei,h,8910,OpenPlay,2020,RightFoot,15482,Spezia,Juventus,1,4,2020-11-01 14:00:00,M&#039;Bala Nzola,TakeOn
+385036,59,MissedShots,0.9209999847412109,0.5129999923706055,0.047000952064991,Diego Farias,h,1605,OpenPlay,2020,Head,15482,Spezia,Juventus,1,4,2020-11-01 14:00:00,Paolo Bartolomei,Aerial
+385037,63,SavedShot,0.88,0.45099998474121095,0.07816945016384125,Julian Chabot,h,7937,FromCorner,2020,Head,15482,Spezia,Juventus,1,4,2020-11-01 14:00:00,Paolo Bartolomei,CornerAwarded
+385039,69,MissedShots,0.7959999847412109,0.5120000076293946,0.041504159569740295,Paolo Bartolomei,h,8910,OpenPlay,2020,RightFoot,15482,Spezia,Juventus,1,4,2020-11-01 14:00:00,M&#039;Bala Nzola,Pass
+385040,71,BlockedShot,0.87,0.7319999694824219,0.015824008733034134,Diego Farias,h,1605,OpenPlay,2020,RightFoot,15482,Spezia,Juventus,1,4,2020-11-01 14:00:00,Salvador Ferrer,Cross
+385041,72,MissedShots,0.9490000152587891,0.6509999847412109,0.011881638318300247,Claudio Terzi,h,3842,FromCorner,2020,Head,15482,Spezia,Juventus,1,4,2020-11-01 14:00:00,Simone Bastoni,Aerial
+385043,84,MissedShots,0.8630000305175781,0.72,0.01617870293557644,Simone Bastoni,h,8916,OpenPlay,2020,LeftFoot,15482,Spezia,Juventus,1,4,2020-11-01 14:00:00,Salvador Ferrer,Cross
+385044,88,BlockedShot,0.6919999694824219,0.37900001525878907,0.00904783420264721,Ardian Ismajli,h,9090,OpenPlay,2020,RightFoot,15482,Spezia,Juventus,1,4,2020-11-01 14:00:00,Salvador Ferrer,Interception
+385045,91,MissedShots,0.7769999694824219,0.6519999694824219,0.014336945489048958,Nahuel Estévez,h,9065,OpenPlay,2020,RightFoot,15482,Spezia,Juventus,1,4,2020-11-01 14:00:00,M&#039;Bala Nzola,Pass
+385023,5,MissedShots,0.91,0.7030000305175781,0.04989223554730415,Álvaro Morata,a,1804,OpenPlay,2020,LeftFoot,15482,Spezia,Juventus,1,4,2020-11-01 14:00:00,Paulo Dybala,Pass
+385024,13,Goal,0.960999984741211,0.585,0.47950267791748047,Álvaro Morata,a,1804,OpenPlay,2020,RightFoot,15482,Spezia,Juventus,1,4,2020-11-01 14:00:00,Weston McKennie,Pass
+385025,17,MissedShots,0.8640000152587891,0.43,0.3751987814903259,Federico Chiesa,a,1433,OpenPlay,2020,RightFoot,15482,Spezia,Juventus,1,4,2020-11-01 14:00:00,Álvaro Morata,Throughball
+385027,28,BlockedShot,0.8730000305175781,0.5840000152587891,0.13806399703025818,Federico Chiesa,a,1433,OpenPlay,2020,RightFoot,15482,Spezia,Juventus,1,4,2020-11-01 14:00:00,Danilo,Throughball
+385035,58,Goal,0.895,0.44599998474121094,0.6783435344696045,Cristiano Ronaldo,a,2371,OpenPlay,2020,RightFoot,15482,Spezia,Juventus,1,4,2020-11-01 14:00:00,Álvaro Morata,TakeOn
+385038,66,Goal,0.9269999694824219,0.575999984741211,0.3994056284427643,Adrien Rabiot,a,3291,OpenPlay,2020,RightFoot,15482,Spezia,Juventus,1,4,2020-11-01 14:00:00,Federico Chiesa,TakeOn
+385042,75,Goal,0.885,0.5,0.7612988352775574,Cristiano Ronaldo,a,2371,Penalty,2020,RightFoot,15482,Spezia,Juventus,1,4,2020-11-01 14:00:00,,Standard

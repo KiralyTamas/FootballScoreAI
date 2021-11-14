@@ -1,0 +1,31 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+30123,10,BlockedShot,0.789000015258789,0.625999984741211,0.032426994293928146,Vladimir Darida,h,27,OpenPlay,2014,RightFoot,5237,Freiburg,Werder Bremen,0,1,2015-03-07 14:30:00,,Dispossessed
+30125,13,BlockedShot,0.765,0.35400001525878905,0.020792467519640923,Oliver Sorg,h,348,OpenPlay,2014,RightFoot,5237,Freiburg,Werder Bremen,0,1,2015-03-07 14:30:00,,BallRecovery
+30126,15,MissedShots,0.6909999847412109,0.715,0.007622702047228813,Christian Günter,h,4243,OpenPlay,2014,LeftFoot,5237,Freiburg,Werder Bremen,0,1,2015-03-07 14:30:00,Pavel Krmas,HeadPass
+30128,25,SavedShot,0.904000015258789,0.3060000038146973,0.03268903121352196,Jonathan Schmid,h,81,OpenPlay,2014,RightFoot,5237,Freiburg,Werder Bremen,0,1,2015-03-07 14:30:00,Immanuel Höhn,Pass
+30129,25,MissedShots,0.750999984741211,0.639000015258789,0.020248301327228546,Vladimir Darida,h,27,OpenPlay,2014,RightFoot,5237,Freiburg,Werder Bremen,0,1,2015-03-07 14:30:00,Christian Günter,TakeOn
+30133,39,SavedShot,0.674000015258789,0.3240000152587891,0.007603523787111044,Oliver Sorg,h,348,SetPiece,2014,RightFoot,5237,Freiburg,Werder Bremen,0,1,2015-03-07 14:30:00,,None
+30135,44,MissedShots,0.8109999847412109,0.69,0.029633870348334312,Admir Mehmedi,h,194,OpenPlay,2014,RightFoot,5237,Freiburg,Werder Bremen,0,1,2015-03-07 14:30:00,Julian Schuster,Pass
+30138,58,SavedShot,0.9269999694824219,0.524000015258789,0.12678247690200806,Mike Frantz,h,4246,FromCorner,2014,LeftFoot,5237,Freiburg,Werder Bremen,0,1,2015-03-07 14:30:00,Marc-Oliver Kempf,Pass
+30140,60,MissedShots,0.7380000305175781,0.6880000305175781,0.015019046142697334,Maximilian Philipp,h,4247,OpenPlay,2014,RightFoot,5237,Freiburg,Werder Bremen,0,1,2015-03-07 14:30:00,Jonathan Schmid,Pass
+30141,64,MissedShots,0.9740000152587891,0.41900001525878905,0.04799196124076843,Marc-Oliver Kempf,h,4291,FromCorner,2014,Head,5237,Freiburg,Werder Bremen,0,1,2015-03-07 14:30:00,Jonathan Schmid,Aerial
+30145,74,SavedShot,0.7030000305175781,0.5520000076293945,0.040822792798280716,Jonathan Schmid,h,81,DirectFreekick,2014,RightFoot,5237,Freiburg,Werder Bremen,0,1,2015-03-07 14:30:00,,Standard
+30148,82,BlockedShot,0.7390000152587891,0.5920000076293945,0.020117957144975662,Admir Mehmedi,h,194,OpenPlay,2014,RightFoot,5237,Freiburg,Werder Bremen,0,1,2015-03-07 14:30:00,Christian Günter,Pass
+30149,83,MissedShots,0.9069999694824219,0.43099998474121093,0.01874910108745098,Pavel Krmas,h,4241,FromCorner,2014,Head,5237,Freiburg,Werder Bremen,0,1,2015-03-07 14:30:00,Jonathan Schmid,Aerial
+30150,87,SavedShot,0.7280000305175781,0.7830000305175782,0.010375207290053368,Admir Mehmedi,h,194,OpenPlay,2014,RightFoot,5237,Freiburg,Werder Bremen,0,1,2015-03-07 14:30:00,Mike Frantz,TakeOn
+30121,5,MissedShots,0.93,0.47200000762939454,0.05326554551720619,Sebastian Prödl,a,566,FromCorner,2014,Head,5237,Freiburg,Werder Bremen,0,1,2015-03-07 14:30:00,Zlatko Junuzovic,CornerAwarded
+30122,6,MissedShots,0.8980000305175782,0.4370000076293945,0.05486590787768364,Jannik Vestergaard,a,111,SetPiece,2014,Head,5237,Freiburg,Werder Bremen,0,1,2015-03-07 14:30:00,Zlatko Junuzovic,Chipped
+30124,11,MissedShots,0.754000015258789,0.5479999923706055,0.01806752011179924,Philipp Bargfrede,a,114,FromCorner,2014,LeftFoot,5237,Freiburg,Werder Bremen,0,1,2015-03-07 14:30:00,,None
+30127,18,MissedShots,0.6759999847412109,0.5429999923706055,0.008726922795176506,Sebastian Prödl,a,566,OpenPlay,2014,RightFoot,5237,Freiburg,Werder Bremen,0,1,2015-03-07 14:30:00,,None
+30130,28,MissedShots,0.749000015258789,0.5220000076293946,0.014607973396778107,Philipp Bargfrede,a,114,SetPiece,2014,LeftFoot,5237,Freiburg,Werder Bremen,0,1,2015-03-07 14:30:00,,None
+30131,34,Goal,0.8159999847412109,0.7330000305175781,0.07125891745090485,Franco Di Santo,a,341,OpenPlay,2014,RightFoot,5237,Freiburg,Werder Bremen,0,1,2015-03-07 14:30:00,Levin Öztunali,Chipped
+30132,37,MissedShots,0.8680000305175781,0.5879999923706055,0.06613163650035858,Fin Bartels,a,115,SetPiece,2014,RightFoot,5237,Freiburg,Werder Bremen,0,1,2015-03-07 14:30:00,Franco Di Santo,HeadPass
+30134,43,MissedShots,0.785,0.6419999694824219,0.034310560673475266,Franco Di Santo,a,341,OpenPlay,2014,LeftFoot,5237,Freiburg,Werder Bremen,0,1,2015-03-07 14:30:00,Levin Öztunali,Pass
+30136,55,SavedShot,0.7369999694824219,0.615,0.024293607100844383,Levin Öztunali,a,118,OpenPlay,2014,LeftFoot,5237,Freiburg,Werder Bremen,0,1,2015-03-07 14:30:00,Theodor Gebre Selassie,Pass
+30137,56,MissedShots,0.9119999694824219,0.5970000076293945,0.0377100333571434,Santiago García,a,113,FromCorner,2014,Head,5237,Freiburg,Werder Bremen,0,1,2015-03-07 14:30:00,Zlatko Junuzovic,Cross
+30139,60,MissedShots,0.8030000305175782,0.6419999694824219,0.04202224314212799,Zlatko Junuzovic,a,301,OpenPlay,2014,RightFoot,5237,Freiburg,Werder Bremen,0,1,2015-03-07 14:30:00,Sebastian Prödl,Chipped
+30142,66,SavedShot,0.7290000152587891,0.6730000305175782,0.023694436997175217,Philipp Bargfrede,a,114,OpenPlay,2014,RightFoot,5237,Freiburg,Werder Bremen,0,1,2015-03-07 14:30:00,Levin Öztunali,Pass
+30143,69,SavedShot,0.8219999694824218,0.6270000076293946,0.03744807466864586,Cedrick Makiadi,a,4281,SetPiece,2014,RightFoot,5237,Freiburg,Werder Bremen,0,1,2015-03-07 14:30:00,Fin Bartels,Pass
+30144,69,MissedShots,0.9519999694824218,0.7140000152587891,0.033820368349552155,Fin Bartels,a,115,SetPiece,2014,LeftFoot,5237,Freiburg,Werder Bremen,0,1,2015-03-07 14:30:00,,Rebound
+30146,78,BlockedShot,0.9519999694824218,0.2670000076293945,0.05341023579239845,Theodor Gebre Selassie,a,110,OpenPlay,2014,RightFoot,5237,Freiburg,Werder Bremen,0,1,2015-03-07 14:30:00,Zlatko Junuzovic,Pass
+30147,78,MissedShots,0.94,0.5840000152587891,0.07733683288097382,Sebastian Prödl,a,566,FromCorner,2014,Head,5237,Freiburg,Werder Bremen,0,1,2015-03-07 14:30:00,Zlatko Junuzovic,Cross

@@ -1,0 +1,25 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+70138,6,MissedShots,0.9219999694824219,0.605,0.05366799980401993,Alexis Blin,h,3207,FromCorner,2015,RightFoot,2141,Toulouse,Rennes,1,2,2016-02-27 23:00:00,Wissam Ben Yedder,Cross
+70140,17,BlockedShot,0.7340000152587891,0.3290000152587891,0.009855682030320168,Jean-Daniel Akpa-Akpro,h,3209,SetPiece,2015,RightFoot,2141,Toulouse,Rennes,1,2,2016-02-27 23:00:00,,None
+70151,46,BlockedShot,0.8630000305175781,0.7090000152587891,0.02700836956501007,Wissam Ben Yedder,h,3210,FromCorner,2015,RightFoot,2141,Toulouse,Rennes,1,2,2016-02-27 23:00:00,,None
+70156,61,BlockedShot,0.8090000152587891,0.6509999847412109,0.016120152547955513,Wissam Ben Yedder,h,3210,FromCorner,2015,LeftFoot,2141,Toulouse,Rennes,1,2,2016-02-27 23:00:00,,Aerial
+70157,71,MissedShots,0.9130000305175782,0.5379999923706055,0.34501349925994873,Martin Braithwaite,h,3211,OpenPlay,2015,RightFoot,2141,Toulouse,Rennes,1,2,2016-02-27 23:00:00,Wissam Ben Yedder,Cross
+70159,77,Goal,0.9,0.28100000381469725,0.03797747194766998,Wissam Ben Yedder,h,3210,OpenPlay,2015,RightFoot,2141,Toulouse,Rennes,1,2,2016-02-27 23:00:00,Óscar Trejo,TakeOn
+70139,15,BlockedShot,0.8419999694824218,0.635,0.11725772172212601,Giovanni Sio,a,3228,OpenPlay,2015,LeftFoot,2141,Toulouse,Rennes,1,2,2016-02-27 23:00:00,Ousmane Dembélé,Throughball
+70141,24,SavedShot,0.9530000305175781,0.27700000762939453,0.04033832624554634,Ousmane Dembélé,a,3226,OpenPlay,2015,RightFoot,2141,Toulouse,Rennes,1,2,2016-02-27 23:00:00,Gelson Fernandes,Pass
+70142,25,SavedShot,0.745,0.5320000076293945,0.021230557933449745,Benjamin André,a,3223,OpenPlay,2015,LeftFoot,2141,Toulouse,Rennes,1,2,2016-02-27 23:00:00,,BallRecovery
+70143,29,MissedShots,0.889000015258789,0.649000015258789,0.07600520551204681,Giovanni Sio,a,3228,OpenPlay,2015,LeftFoot,2141,Toulouse,Rennes,1,2,2016-02-27 23:00:00,Gelson Fernandes,Pass
+70144,29,MissedShots,0.9290000152587891,0.515,0.5546844601631165,Pedro Henrique,a,3225,OpenPlay,2015,RightFoot,2141,Toulouse,Rennes,1,2,2016-02-27 23:00:00,Giovanni Sio,Rebound
+70145,32,SavedShot,0.8009999847412109,0.534000015258789,0.04532293602824211,Ousmane Dembélé,a,3226,OpenPlay,2015,RightFoot,2141,Toulouse,Rennes,1,2,2016-02-27 23:00:00,Giovanni Sio,Pass
+70146,32,BlockedShot,0.9540000152587891,0.37400001525878906,0.0866837203502655,Pedro Henrique,a,3225,OpenPlay,2015,RightFoot,2141,Toulouse,Rennes,1,2,2016-02-27 23:00:00,,Rebound
+70147,33,BlockedShot,0.92,0.4540000152587891,0.03726926073431969,Cheikh M&#039;Bengue,a,3222,FromCorner,2015,Head,2141,Toulouse,Rennes,1,2,2016-02-27 23:00:00,Ousmane Dembélé,Aerial
+70148,33,MissedShots,0.9019999694824219,0.5620000076293945,0.017426982522010803,Sylvain Armand,a,3220,FromCorner,2015,Head,2141,Toulouse,Rennes,1,2,2016-02-27 23:00:00,Ousmane Dembélé,Aerial
+70149,37,MissedShots,0.7980000305175782,0.6659999847412109,0.02906101569533348,Ousmane Dembélé,a,3226,OpenPlay,2015,LeftFoot,2141,Toulouse,Rennes,1,2,2016-02-27 23:00:00,,Dispossessed
+70150,38,BlockedShot,0.749000015258789,0.28700000762939454,0.020031070336699486,Giovanni Sio,a,3228,OpenPlay,2015,LeftFoot,2141,Toulouse,Rennes,1,2,2016-02-27 23:00:00,Romain Danze,Pass
+70152,47,BlockedShot,0.8130000305175781,0.6040000152587891,0.03511454537510872,Ousmane Dembélé,a,3226,SetPiece,2015,RightFoot,2141,Toulouse,Rennes,1,2,2016-02-27 23:00:00,Romain Danze,HeadPass
+70153,52,BlockedShot,0.935,0.6120000076293945,0.03632434830069542,Giovanni Sio,a,3228,FromCorner,2015,Head,2141,Toulouse,Rennes,1,2,2016-02-27 23:00:00,Paul-Georges Ntep,Cross
+70154,52,BlockedShot,0.875,0.6969999694824218,0.04365694522857666,Pedro Mendes,a,3221,OpenPlay,2015,RightFoot,2141,Toulouse,Rennes,1,2,2016-02-27 23:00:00,Benjamin André,Pass
+70155,52,MissedShots,0.855,0.8040000152587891,0.023063788190484047,Paul-Georges Ntep,a,3230,OpenPlay,2015,RightFoot,2141,Toulouse,Rennes,1,2,2016-02-27 23:00:00,Ludovic Baal,Pass
+70158,73,BlockedShot,0.7959999847412109,0.4520000076293945,0.03900708258152008,Ousmane Dembélé,a,3226,OpenPlay,2015,LeftFoot,2141,Toulouse,Rennes,1,2,2016-02-27 23:00:00,Yoann Gourcuff,Chipped
+70160,89,Goal,0.8009999847412109,0.39,0.03365363925695419,Ousmane Dembélé,a,3226,OpenPlay,2015,LeftFoot,2141,Toulouse,Rennes,1,2,2016-02-27 23:00:00,,BallRecovery
+70161,91,Goal,0.825,0.32599998474121095,0.10670942813158035,Kamil Grosicki,a,3231,OpenPlay,2015,RightFoot,2141,Toulouse,Rennes,1,2,2016-02-27 23:00:00,Ousmane Dembélé,Throughball

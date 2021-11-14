@@ -1,0 +1,25 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+59925,10,BlockedShot,0.815,0.5670000076293945,0.036903686821460724,Jesús Navas,h,616,FromCorner,2015,RightFoot,364,Manchester City,Aston Villa,4,0,2016-03-05 19:00:00,Nicolás Otamendi,HeadPass
+59926,10,SavedShot,0.9330000305175781,0.38,0.25082075595855713,Sergio Agüero,h,619,FromCorner,2015,LeftFoot,364,Manchester City,Aston Villa,4,0,2016-03-05 19:00:00,Fernandinho,Chipped
+59927,10,MissedShots,0.9,0.544000015258789,0.05340098962187767,Wilfried Bony,h,622,FromCorner,2015,Head,364,Manchester City,Aston Villa,4,0,2016-03-05 19:00:00,David Silva,Cross
+59928,13,MissedShots,0.9159999847412109,0.524000015258789,0.34151768684387207,Wilfried Bony,h,622,OpenPlay,2015,RightFoot,364,Manchester City,Aston Villa,4,0,2016-03-05 19:00:00,Gaël Clichy,Cross
+59929,17,SavedShot,0.8680000305175781,0.61,0.09213849902153015,Sergio Agüero,h,619,OpenPlay,2015,RightFoot,364,Manchester City,Aston Villa,4,0,2016-03-05 19:00:00,Yaya Touré,Pass
+59930,18,BlockedShot,0.7390000152587891,0.4209999847412109,0.01906168833374977,Fernandinho,h,614,SetPiece,2015,RightFoot,364,Manchester City,Aston Villa,4,0,2016-03-05 19:00:00,Yaya Touré,Pass
+59931,19,MissedShots,0.7430000305175781,0.46,0.0225836131721735,Yaya Touré,h,878,OpenPlay,2015,RightFoot,364,Manchester City,Aston Villa,4,0,2016-03-05 19:00:00,David Silva,Pass
+59932,23,MissedShots,0.865,0.605999984741211,0.09463593363761902,Sergio Agüero,h,619,OpenPlay,2015,LeftFoot,364,Manchester City,Aston Villa,4,0,2016-03-05 19:00:00,Wilfried Bony,LayOff
+59934,32,MissedShots,0.8930000305175781,0.5690000152587891,0.03246862441301346,Wilfried Bony,h,622,FromCorner,2015,Head,364,Manchester City,Aston Villa,4,0,2016-03-05 19:00:00,David Silva,Cross
+59935,35,SavedShot,0.8959999847412109,0.40799999237060547,0.050448253750801086,Nicolás Otamendi,h,611,FromCorner,2015,RightFoot,364,Manchester City,Aston Villa,4,0,2016-03-05 19:00:00,Jesús Navas,Cross
+59936,38,SavedShot,0.8469999694824218,0.45599998474121095,0.03068137913942337,Wilfried Bony,h,622,SetPiece,2015,Head,364,Manchester City,Aston Villa,4,0,2016-03-05 19:00:00,Yaya Touré,Chipped
+59937,41,MissedShots,0.9069999694824219,0.534000015258789,0.04463173821568489,Wilfried Bony,h,622,OpenPlay,2015,Head,364,Manchester City,Aston Villa,4,0,2016-03-05 19:00:00,Gaël Clichy,Aerial
+59938,45,MissedShots,0.9580000305175781,0.6659999847412109,0.06137751042842865,Sergio Agüero,h,619,OpenPlay,2015,LeftFoot,364,Manchester City,Aston Villa,4,0,2016-03-05 19:00:00,Yaya Touré,Chipped
+59939,47,Goal,0.865,0.47,0.10388612002134323,Yaya Touré,h,878,OpenPlay,2015,RightFoot,364,Manchester City,Aston Villa,4,0,2016-03-05 19:00:00,David Silva,Pass
+59940,49,Goal,0.8930000305175781,0.5359999847412109,0.11708389967679977,Sergio Agüero,h,619,OpenPlay,2015,RightFoot,364,Manchester City,Aston Villa,4,0,2016-03-05 19:00:00,,None
+59941,58,BlockedShot,0.8169999694824219,0.5129999923706055,0.08616176247596741,Sergio Agüero,h,619,OpenPlay,2015,RightFoot,364,Manchester City,Aston Villa,4,0,2016-03-05 19:00:00,Jesús Navas,Pass
+59943,59,Goal,0.9159999847412109,0.68,0.09781161695718765,Sergio Agüero,h,619,OpenPlay,2015,RightFoot,364,Manchester City,Aston Villa,4,0,2016-03-05 19:00:00,David Silva,Chipped
+59949,62,SavedShot,0.8630000305175781,0.6509999847412109,0.07495491206645966,Raheem Sterling,h,618,OpenPlay,2015,LeftFoot,364,Manchester City,Aston Villa,4,0,2016-03-05 19:00:00,David Silva,BallRecovery
+59950,65,Goal,0.9259999847412109,0.565,0.4178205728530884,Raheem Sterling,h,618,OpenPlay,2015,RightFoot,364,Manchester City,Aston Villa,4,0,2016-03-05 19:00:00,Jesús Navas,Cross
+59953,72,ShotOnPost,0.885,0.5,0.7611688375473022,Sergio Agüero,h,619,Penalty,2015,RightFoot,364,Manchester City,Aston Villa,4,0,2016-03-05 19:00:00,,Standard
+59954,75,MissedShots,0.7719999694824219,0.28899999618530275,0.02082815021276474,Kelechi Iheanacho,h,620,OpenPlay,2015,LeftFoot,364,Manchester City,Aston Villa,4,0,2016-03-05 19:00:00,Vincent Kompany,BallRecovery
+59956,81,MissedShots,0.749000015258789,0.3770000076293945,0.022318705916404724,Bacary Sagna,h,625,OpenPlay,2015,RightFoot,364,Manchester City,Aston Villa,4,0,2016-03-05 19:00:00,Gaël Clichy,Pass
+59933,25,SavedShot,0.8630000305175781,0.40200000762939453,0.0743594542145729,Jordan Ayew,a,672,OpenPlay,2015,RightFoot,364,Manchester City,Aston Villa,4,0,2016-03-05 19:00:00,Ciaran Clark,BallTouch
+59958,84,BlockedShot,0.845,0.5940000152587891,0.046776384115219116,Rudy Gestede,a,671,OpenPlay,2015,RightFoot,364,Manchester City,Aston Villa,4,0,2016-03-05 19:00:00,,None

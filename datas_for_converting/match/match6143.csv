@@ -1,0 +1,22 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+2012,9,MissedShots,0.765,0.27899999618530275,0.014077279716730118,Christophe Jallet,h,3566,FromCorner,2014,RightFoot,6143,Lyon,Marseille,1,0,2014-10-26 20:00:00,,None
+2013,18,MissedShots,0.914000015258789,0.25799999237060545,0.018525991588830948,Christophe Jallet,h,3566,OpenPlay,2014,RightFoot,6143,Lyon,Marseille,1,0,2014-10-26 20:00:00,Alexandre Lacazette,Cross
+2016,29,SavedShot,0.9419999694824219,0.7230000305175781,0.039204128086566925,Nabil Fekir,h,3667,OpenPlay,2014,LeftFoot,6143,Lyon,Marseille,1,0,2014-10-26 20:00:00,Jordan Ferri,Chipped
+2017,40,MissedShots,0.8169999694824219,0.6090000152587891,0.04637807607650757,Nabil Fekir,h,3667,OpenPlay,2014,RightFoot,6143,Lyon,Marseille,1,0,2014-10-26 20:00:00,Alexandre Lacazette,Pass
+2023,64,Goal,0.8919999694824219,0.44299999237060544,0.11515378952026367,Yoann Gourcuff,h,3229,OpenPlay,2014,LeftFoot,6143,Lyon,Marseille,1,0,2014-10-26 20:00:00,Alexandre Lacazette,Pass
+2025,68,MissedShots,0.710999984741211,0.5770000076293945,0.02334797941148281,Yoann Gourcuff,h,3229,OpenPlay,2014,RightFoot,6143,Lyon,Marseille,1,0,2014-10-26 20:00:00,Corentin Tolisso,Pass
+2029,88,SavedShot,0.8619999694824219,0.720999984741211,0.04104603826999664,Alexandre Lacazette,h,3277,OpenPlay,2014,RightFoot,6143,Lyon,Marseille,1,0,2014-10-26 20:00:00,Henri Bedimo,Pass
+2030,89,SavedShot,0.8830000305175781,0.27100000381469724,0.054221365600824356,Clinton N&#039;Jie,h,960,OpenPlay,2014,RightFoot,6143,Lyon,Marseille,1,0,2014-10-26 20:00:00,Steed Malbranque,BlockedPass
+2031,90,BlockedShot,0.7930000305175782,0.674000015258789,0.0332699678838253,Steed Malbranque,h,3569,OpenPlay,2014,RightFoot,6143,Lyon,Marseille,1,0,2014-10-26 20:00:00,Alexandre Lacazette,Pass
+2032,92,SavedShot,0.8380000305175781,0.46299999237060546,0.3948748707771301,Clinton N&#039;Jie,h,960,OpenPlay,2014,RightFoot,6143,Lyon,Marseille,1,0,2014-10-26 20:00:00,Alexandre Lacazette,Pass
+2014,24,MissedShots,0.805,0.3290000152587891,0.02774728462100029,Florian Thauvin,a,942,OpenPlay,2014,LeftFoot,6143,Lyon,Marseille,1,0,2014-10-26 20:00:00,Benjamin Mendy,Pass
+2015,25,SavedShot,0.8630000305175781,0.6430000305175781,0.07035893946886063,André Ayew,a,713,OpenPlay,2014,RightFoot,6143,Lyon,Marseille,1,0,2014-10-26 20:00:00,Brice Dja Djédjé,Pass
+2018,52,SavedShot,0.865,0.6680000305175782,0.054960113018751144,André-Pierre Gignac,a,4747,OpenPlay,2014,LeftFoot,6143,Lyon,Marseille,1,0,2014-10-26 20:00:00,Dimitri Payet,Chipped
+2019,55,ShotOnPost,0.8419999694824218,0.5070000076293946,0.09084237366914749,Benjamin Mendy,a,3389,OpenPlay,2014,LeftFoot,6143,Lyon,Marseille,1,0,2014-10-26 20:00:00,Dimitri Payet,Pass
+2020,60,SavedShot,0.9219999694824219,0.5879999923706055,0.3053775727748871,André Ayew,a,713,OpenPlay,2014,LeftFoot,6143,Lyon,Marseille,1,0,2014-10-26 20:00:00,Florian Thauvin,Cross
+2021,62,BlockedShot,0.7319999694824219,0.705,0.01314567495137453,Benjamin Mendy,a,3389,OpenPlay,2014,LeftFoot,6143,Lyon,Marseille,1,0,2014-10-26 20:00:00,Nicolas N&#039;Koulou,TakeOn
+2022,64,SavedShot,0.92,0.695,0.05358070880174637,André-Pierre Gignac,a,4747,OpenPlay,2014,RightFoot,6143,Lyon,Marseille,1,0,2014-10-26 20:00:00,Dimitri Payet,Pass
+2024,66,MissedShots,0.9319999694824219,0.4540000152587891,0.3244325816631317,André Ayew,a,713,FromCorner,2014,Head,6143,Lyon,Marseille,1,0,2014-10-26 20:00:00,Dimitri Payet,Cross
+2026,69,MissedShots,0.8959999847412109,0.46,0.1443338394165039,Florian Thauvin,a,942,OpenPlay,2014,LeftFoot,6143,Lyon,Marseille,1,0,2014-10-26 20:00:00,André-Pierre Gignac,TakeOn
+2027,71,MissedShots,0.8590000152587891,0.48,0.010443990118801594,Nicolas N&#039;Koulou,a,3387,SetPiece,2014,Head,6143,Lyon,Marseille,1,0,2014-10-26 20:00:00,Dimitri Payet,Aerial
+2028,83,BlockedShot,0.9080000305175782,0.6090000152587891,0.04064623638987541,Romain Alessandrini,a,3394,OpenPlay,2014,Head,6143,Lyon,Marseille,1,0,2014-10-26 20:00:00,André-Pierre Gignac,Cross

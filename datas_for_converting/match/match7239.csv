@@ -1,0 +1,31 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+161663,8,MissedShots,0.9169999694824219,0.49900001525878906,0.09472546726465225,Harry Kane,h,647,FromCorner,2017,Head,7239,Tottenham,West Bromwich Albion,1,1,2017-11-25 15:00:00,Kieran Trippier,Cross
+161664,14,MissedShots,0.775,0.634000015258789,0.02029135636985302,Harry Winks,h,971,OpenPlay,2017,RightFoot,7239,Tottenham,West Bromwich Albion,1,1,2017-11-25 15:00:00,Dele Alli,Pass
+161665,17,BlockedShot,0.7090000152587891,0.6880000305175781,0.013781525194644928,Harry Kane,h,647,OpenPlay,2017,RightFoot,7239,Tottenham,West Bromwich Albion,1,1,2017-11-25 15:00:00,Dele Alli,Pass
+161666,26,MissedShots,0.769000015258789,0.5729999923706055,0.027001693844795227,Harry Kane,h,647,OpenPlay,2017,LeftFoot,7239,Tottenham,West Bromwich Albion,1,1,2017-11-25 15:00:00,Christian Eriksen,TakeOn
+161667,31,SavedShot,0.7680000305175781,0.7440000152587891,0.017847221344709396,Son Heung-Min,h,453,OpenPlay,2017,RightFoot,7239,Tottenham,West Bromwich Albion,1,1,2017-11-25 15:00:00,Ben Davies,Pass
+161668,31,BlockedShot,0.740999984741211,0.5690000152587891,0.015543991699814796,Ben Davies,h,660,FromCorner,2017,LeftFoot,7239,Tottenham,West Bromwich Albion,1,1,2017-11-25 15:00:00,,None
+161669,32,MissedShots,0.7280000305175781,0.59,0.012814393267035484,Christian Eriksen,h,646,FromCorner,2017,RightFoot,7239,Tottenham,West Bromwich Albion,1,1,2017-11-25 15:00:00,,Aerial
+161670,40,SavedShot,0.9280000305175782,0.4490000152587891,0.04226207733154297,Eric Dier,h,643,FromCorner,2017,Head,7239,Tottenham,West Bromwich Albion,1,1,2017-11-25 15:00:00,Kieran Trippier,Aerial
+161671,44,MissedShots,0.8959999847412109,0.5540000152587891,0.02750612609088421,Eric Dier,h,643,OpenPlay,2017,Head,7239,Tottenham,West Bromwich Albion,1,1,2017-11-25 15:00:00,Kieran Trippier,Aerial
+161672,45,BlockedShot,0.8619999694824219,0.73,0.032305240631103516,Son Heung-Min,h,453,OpenPlay,2017,RightFoot,7239,Tottenham,West Bromwich Albion,1,1,2017-11-25 15:00:00,Ben Davies,Pass
+161673,46,SavedShot,0.7580000305175781,0.40400001525878904,0.02330993302166462,Harry Kane,h,647,OpenPlay,2017,RightFoot,7239,Tottenham,West Bromwich Albion,1,1,2017-11-25 15:00:00,Dele Alli,Pass
+161674,51,BlockedShot,0.7930000305175782,0.695,0.02334868535399437,Christian Eriksen,h,646,OpenPlay,2017,RightFoot,7239,Tottenham,West Bromwich Albion,1,1,2017-11-25 15:00:00,Jan Vertonghen,Pass
+161675,51,BlockedShot,0.789000015258789,0.6309999847412109,0.015699727460741997,Son Heung-Min,h,453,OpenPlay,2017,RightFoot,7239,Tottenham,West Bromwich Albion,1,1,2017-11-25 15:00:00,Kieran Trippier,Chipped
+161677,60,MissedShots,0.7930000305175782,0.30700000762939456,0.02119130827486515,Son Heung-Min,h,453,OpenPlay,2017,LeftFoot,7239,Tottenham,West Bromwich Albion,1,1,2017-11-25 15:00:00,Kieran Trippier,HeadPass
+161678,67,MissedShots,0.7880000305175782,0.285,0.015592621639370918,Kieran Trippier,h,652,FromCorner,2017,RightFoot,7239,Tottenham,West Bromwich Albion,1,1,2017-11-25 15:00:00,,None
+161679,73,Goal,0.9580000305175781,0.41200000762939454,0.3748716413974762,Harry Kane,h,647,OpenPlay,2017,LeftFoot,7239,Tottenham,West Bromwich Albion,1,1,2017-11-25 15:00:00,Dele Alli,Cross
+161680,75,BlockedShot,0.8130000305175781,0.66,0.09348667412996292,Christian Eriksen,h,646,DirectFreekick,2017,RightFoot,7239,Tottenham,West Bromwich Albion,1,1,2017-11-25 15:00:00,,Standard
+161681,75,BlockedShot,0.8830000305175781,0.3920000076293945,0.06716132909059525,Dele Alli,h,645,SetPiece,2017,LeftFoot,7239,Tottenham,West Bromwich Albion,1,1,2017-11-25 15:00:00,,None
+161682,79,MissedShots,0.7969999694824219,0.6419999694824219,0.02868485078215599,Dele Alli,h,645,OpenPlay,2017,RightFoot,7239,Tottenham,West Bromwich Albion,1,1,2017-11-25 15:00:00,,None
+161683,81,MissedShots,0.9540000152587891,0.4929999923706055,0.7791227698326111,Harry Kane,h,647,OpenPlay,2017,OtherBodyPart,7239,Tottenham,West Bromwich Albion,1,1,2017-11-25 15:00:00,Kieran Trippier,Aerial
+161684,83,BlockedShot,0.8390000152587891,0.4520000076293945,0.08407541364431381,Dele Alli,h,645,OpenPlay,2017,RightFoot,7239,Tottenham,West Bromwich Albion,1,1,2017-11-25 15:00:00,Son Heung-Min,Pass
+161685,83,BlockedShot,0.7440000152587891,0.42700000762939455,0.017059151083230972,Christian Eriksen,h,646,OpenPlay,2017,LeftFoot,7239,Tottenham,West Bromwich Albion,1,1,2017-11-25 15:00:00,Kieran Trippier,Pass
+161686,84,SavedShot,0.7919999694824219,0.69,0.024121344089508057,Harry Kane,h,647,OpenPlay,2017,RightFoot,7239,Tottenham,West Bromwich Albion,1,1,2017-11-25 15:00:00,Christian Eriksen,Pass
+161687,85,MissedShots,0.76,0.425,0.02467012032866478,Harry Kane,h,647,OpenPlay,2017,RightFoot,7239,Tottenham,West Bromwich Albion,1,1,2017-11-25 15:00:00,Dele Alli,Pass
+161688,92,BlockedShot,0.8680000305175781,0.33099998474121095,0.01878967694938183,Dele Alli,h,645,OpenPlay,2017,Head,7239,Tottenham,West Bromwich Albion,1,1,2017-11-25 15:00:00,Ben Davies,Chipped
+161661,3,Goal,0.9169999694824219,0.4,0.11160210520029068,Salomón Rondón,a,813,OpenPlay,2017,RightFoot,7239,Tottenham,West Bromwich Albion,1,1,2017-11-25 15:00:00,Jake Livermore,Pass
+161662,6,MissedShots,0.71,0.4,0.012582153081893921,Gareth Barry,a,590,OpenPlay,2017,LeftFoot,7239,Tottenham,West Bromwich Albion,1,1,2017-11-25 15:00:00,Sam Field,HeadPass
+161676,54,MissedShots,0.8469999694824218,0.28600000381469726,0.045227933675050735,Matt Phillips,a,1737,OpenPlay,2017,LeftFoot,7239,Tottenham,West Bromwich Albion,1,1,2017-11-25 15:00:00,Gareth Barry,Chipped
+161689,93,SavedShot,0.8440000152587891,0.4929999923706055,0.028279952704906464,Hal Robson-Kanu,a,1738,SetPiece,2017,LeftFoot,7239,Tottenham,West Bromwich Albion,1,1,2017-11-25 15:00:00,,Aerial
+161690,94,MissedShots,0.9430000305175781,0.46900001525878904,0.519417941570282,Salomón Rondón,a,813,OpenPlay,2017,LeftFoot,7239,Tottenham,West Bromwich Albion,1,1,2017-11-25 15:00:00,Matt Phillips,Cross

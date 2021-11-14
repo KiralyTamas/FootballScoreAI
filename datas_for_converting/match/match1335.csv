@@ -1,0 +1,35 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+127528,0,SavedShot,0.8030000305175782,0.29700000762939455,0.022024035453796387,Sebastian Rudy,h,90,OpenPlay,2016,RightFoot,1335,Hoffenheim,RasenBallsport Leipzig,2,2,2016-08-28 19:30:00,Mark Uth,Pass
+127529,1,SavedShot,0.98,0.6430000305175781,0.06924916803836823,Sebastian Rudy,h,90,OpenPlay,2016,LeftFoot,1335,Hoffenheim,RasenBallsport Leipzig,2,2,2016-08-28 19:30:00,Niklas Süle,Pass
+127535,16,MissedShots,0.9019999694824219,0.4759999847412109,0.1336233913898468,Lukas Rupp,h,62,OpenPlay,2016,LeftFoot,1335,Hoffenheim,RasenBallsport Leipzig,2,2,2016-08-28 19:30:00,Mark Uth,Pass
+127536,18,MissedShots,0.7719999694824219,0.6880000305175781,0.02247943915426731,Andrej Kramaric,h,956,OpenPlay,2016,RightFoot,1335,Hoffenheim,RasenBallsport Leipzig,2,2,2016-08-28 19:30:00,Lukas Rupp,Pass
+127538,20,SavedShot,0.865,0.48700000762939455,0.1204259991645813,Mark Uth,h,88,OpenPlay,2016,RightFoot,1335,Hoffenheim,RasenBallsport Leipzig,2,2,2016-08-28 19:30:00,Lukas Rupp,Throughball
+127546,46,MissedShots,0.8219999694824218,0.8119999694824219,0.04756114259362221,Sebastian Rudy,h,90,DirectFreekick,2016,RightFoot,1335,Hoffenheim,RasenBallsport Leipzig,2,2,2016-08-28 19:30:00,,Standard
+127548,54,Goal,0.8780000305175781,0.46700000762939453,0.08061793446540833,Lukas Rupp,h,62,FromCorner,2016,RightFoot,1335,Hoffenheim,RasenBallsport Leipzig,2,2,2016-08-28 19:30:00,,None
+127551,60,BlockedShot,0.7680000305175781,0.3220000076293945,0.05887926369905472,Mark Uth,h,88,DirectFreekick,2016,LeftFoot,1335,Hoffenheim,RasenBallsport Leipzig,2,2,2016-08-28 19:30:00,,Standard
+127557,82,Goal,0.875,0.5709999847412109,0.5613905787467957,Mark Uth,h,88,OpenPlay,2016,LeftFoot,1335,Hoffenheim,RasenBallsport Leipzig,2,2,2016-08-28 19:30:00,Sebastian Rudy,Throughball
+127560,90,MissedShots,0.860999984741211,0.5179999923706055,0.027789687737822533,Sandro Wagner,h,11,OpenPlay,2016,Head,1335,Hoffenheim,RasenBallsport Leipzig,2,2,2016-08-28 19:30:00,Philipp Ochs,Cross
+127561,93,MissedShots,0.815,0.3,0.012200184166431427,Pirmin Schwegler,h,80,SetPiece,2016,RightFoot,1335,Hoffenheim,RasenBallsport Leipzig,2,2,2016-08-28 19:30:00,,Aerial
+127530,3,SavedShot,0.9259999847412109,0.655,0.08187835663557053,Marcel Sabitzer,a,5248,OpenPlay,2016,LeftFoot,1335,Hoffenheim,RasenBallsport Leipzig,2,2,2016-08-28 19:30:00,Marcel Halstenberg,Pass
+127531,3,ShotOnPost,0.855,0.3579999923706055,0.04927436262369156,Dominik Kaiser,a,5252,OpenPlay,2016,RightFoot,1335,Hoffenheim,RasenBallsport Leipzig,2,2,2016-08-28 19:30:00,,Rebound
+127532,4,MissedShots,0.8,0.6580000305175782,0.02969513088464737,Timo Werner,a,65,OpenPlay,2016,RightFoot,1335,Hoffenheim,RasenBallsport Leipzig,2,2,2016-08-28 19:30:00,Marcel Sabitzer,Pass
+127533,10,MissedShots,0.8969999694824219,0.285,0.03860039636492729,Timo Werner,a,65,OpenPlay,2016,RightFoot,1335,Hoffenheim,RasenBallsport Leipzig,2,2,2016-08-28 19:30:00,Yussuf Poulsen,Pass
+127534,12,SavedShot,0.9130000305175782,0.5609999847412109,0.44100961089134216,Dominik Kaiser,a,5252,OpenPlay,2016,LeftFoot,1335,Hoffenheim,RasenBallsport Leipzig,2,2,2016-08-28 19:30:00,Marcel Halstenberg,Pass
+127537,19,BlockedShot,0.7959999847412109,0.7169999694824218,0.021857542917132378,Marcel Sabitzer,a,5248,OpenPlay,2016,RightFoot,1335,Hoffenheim,RasenBallsport Leipzig,2,2,2016-08-28 19:30:00,Marcel Halstenberg,Pass
+127539,22,BlockedShot,0.84,0.375,0.018877122551202774,Yussuf Poulsen,a,5250,SetPiece,2016,LeftFoot,1335,Hoffenheim,RasenBallsport Leipzig,2,2,2016-08-28 19:30:00,,Aerial
+127540,29,SavedShot,0.9119999694824219,0.5790000152587891,0.02023705281317234,Yussuf Poulsen,a,5250,FromCorner,2016,Head,1335,Hoffenheim,RasenBallsport Leipzig,2,2,2016-08-28 19:30:00,Dominik Kaiser,Aerial
+127541,30,BlockedShot,0.805,0.7609999847412109,0.022141894325613976,Dominik Kaiser,a,5252,FromCorner,2016,RightFoot,1335,Hoffenheim,RasenBallsport Leipzig,2,2,2016-08-28 19:30:00,Diego Demme,Pass
+127542,33,MissedShots,0.875,0.3390000152587891,0.06308747828006744,Dominik Kaiser,a,5252,OpenPlay,2016,RightFoot,1335,Hoffenheim,RasenBallsport Leipzig,2,2,2016-08-28 19:30:00,Benno Schmitz,Tackle
+127543,40,SavedShot,0.9369999694824219,0.30700000762939456,0.06542645394802094,Timo Werner,a,65,OpenPlay,2016,RightFoot,1335,Hoffenheim,RasenBallsport Leipzig,2,2,2016-08-28 19:30:00,Yussuf Poulsen,TakeOn
+127544,41,BlockedShot,0.6940000152587891,0.5279999923706055,0.01264855545014143,Stefan Ilsanker,a,5242,FromCorner,2016,RightFoot,1335,Hoffenheim,RasenBallsport Leipzig,2,2,2016-08-28 19:30:00,,None
+127545,42,SavedShot,0.7959999847412109,0.6370000076293946,0.03129854425787926,Dominik Kaiser,a,5252,OpenPlay,2016,RightFoot,1335,Hoffenheim,RasenBallsport Leipzig,2,2,2016-08-28 19:30:00,Marcel Halstenberg,Pass
+127547,49,MissedShots,0.9619999694824218,0.595999984741211,0.12657631933689117,Yussuf Poulsen,a,5250,FromCorner,2016,OtherBodyPart,1335,Hoffenheim,RasenBallsport Leipzig,2,2,2016-08-28 19:30:00,,None
+127549,56,MissedShots,0.754000015258789,0.42700000762939455,0.019907236099243164,Stefan Ilsanker,a,5242,OpenPlay,2016,RightFoot,1335,Hoffenheim,RasenBallsport Leipzig,2,2,2016-08-28 19:30:00,,None
+127550,57,Goal,0.909000015258789,0.41,0.0836411863565445,Dominik Kaiser,a,5252,OpenPlay,2016,RightFoot,1335,Hoffenheim,RasenBallsport Leipzig,2,2,2016-08-28 19:30:00,Diego Demme,Chipped
+127552,71,BlockedShot,0.835,0.655,0.0428326390683651,Emil Forsberg,a,5249,OpenPlay,2016,LeftFoot,1335,Hoffenheim,RasenBallsport Leipzig,2,2,2016-08-28 19:30:00,Yussuf Poulsen,Pass
+127553,72,BlockedShot,0.899000015258789,0.4640000152587891,0.06127956509590149,Willi Orban,a,5257,FromCorner,2016,Head,1335,Hoffenheim,RasenBallsport Leipzig,2,2,2016-08-28 19:30:00,Dominik Kaiser,Cross
+127554,72,SavedShot,0.9690000152587891,0.415,0.4405416250228882,Marcel Sabitzer,a,5248,FromCorner,2016,LeftFoot,1335,Hoffenheim,RasenBallsport Leipzig,2,2,2016-08-28 19:30:00,,Rebound
+127555,72,BlockedShot,0.9169999694824219,0.42200000762939455,0.09614314138889313,Marcel Sabitzer,a,5248,FromCorner,2016,RightFoot,1335,Hoffenheim,RasenBallsport Leipzig,2,2,2016-08-28 19:30:00,Marcel Halstenberg,HeadPass
+127556,72,MissedShots,0.71,0.38,0.014635942876338959,Benno Schmitz,a,5253,FromCorner,2016,RightFoot,1335,Hoffenheim,RasenBallsport Leipzig,2,2,2016-08-28 19:30:00,,Rebound
+127558,88,SavedShot,0.875,0.6990000152587891,0.0663394033908844,Massimo Bruno,a,5365,OpenPlay,2016,RightFoot,1335,Hoffenheim,RasenBallsport Leipzig,2,2,2016-08-28 19:30:00,Davie Selke,Pass
+127559,89,Goal,0.975,0.5279999923706055,0.659763753414154,Marcel Sabitzer,a,5248,OpenPlay,2016,LeftFoot,1335,Hoffenheim,RasenBallsport Leipzig,2,2,2016-08-28 19:30:00,Benno Schmitz,Cross

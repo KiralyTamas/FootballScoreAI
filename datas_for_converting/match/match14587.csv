@@ -1,0 +1,13 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+395892,0,SavedShot,0.935,0.4329999923706055,0.44225284457206726,Ashley Barnes,h,4422,OpenPlay,2020,RightFoot,14587,Burnley,Sheffield United,1,0,2020-12-29 18:00:00,Chris Wood,HeadPass
+395894,30,SavedShot,0.93,0.4540000152587891,0.32997655868530273,Chris Wood,h,4456,OpenPlay,2020,Head,14587,Burnley,Sheffield United,1,0,2020-12-29 18:00:00,Robbie Brady,Cross
+395895,31,Goal,0.9490000152587891,0.524000015258789,0.07800833135843277,Ben Mee,h,1654,FromCorner,2020,Head,14587,Burnley,Sheffield United,1,0,2020-12-29 18:00:00,Robbie Brady,Aerial
+395897,36,MissedShots,0.765,0.41700000762939454,0.07124293595552444,Robbie Brady,h,789,DirectFreekick,2020,LeftFoot,14587,Burnley,Sheffield United,1,0,2020-12-29 18:00:00,,Standard
+395900,51,MissedShots,0.9059999847412109,0.5940000152587891,0.05234996974468231,Ben Mee,h,1654,SetPiece,2020,Head,14587,Burnley,Sheffield United,1,0,2020-12-29 18:00:00,Matthew Lowton,Cross
+395893,28,BlockedShot,0.9590000152587891,0.5259999847412109,0.13236196339130402,Rhian Brewster,a,5569,FromCorner,2020,Head,14587,Burnley,Sheffield United,1,0,2020-12-29 18:00:00,Ethan Ampadu,Cross
+395896,33,SavedShot,0.8159999847412109,0.6309999847412109,0.036588896065950394,Rhian Brewster,a,5569,OpenPlay,2020,RightFoot,14587,Burnley,Sheffield United,1,0,2020-12-29 18:00:00,,None
+395898,37,BlockedShot,0.87,0.6530000305175782,0.05905785411596298,David McGoldrick,a,7711,OpenPlay,2020,RightFoot,14587,Burnley,Sheffield United,1,0,2020-12-29 18:00:00,Lys Mousset,Pass
+395899,49,SavedShot,0.9419999694824219,0.32599998474121095,0.2117536962032318,David McGoldrick,a,7711,OpenPlay,2020,RightFoot,14587,Burnley,Sheffield United,1,0,2020-12-29 18:00:00,Enda Stevens,Pass
+395901,74,BlockedShot,0.7269999694824218,0.5259999847412109,0.017009053379297256,George Baldock,a,7706,OpenPlay,2020,RightFoot,14587,Burnley,Sheffield United,1,0,2020-12-29 18:00:00,Oliver Burke,Pass
+395902,74,MissedShots,0.750999984741211,0.3609999847412109,0.01852375827729702,John Egan,a,7703,OpenPlay,2020,LeftFoot,14587,Burnley,Sheffield United,1,0,2020-12-29 18:00:00,George Baldock,Pass
+395903,79,MissedShots,0.965999984741211,0.6,0.01728321798145771,David McGoldrick,a,7711,FromCorner,2020,Head,14587,Burnley,Sheffield United,1,0,2020-12-29 18:00:00,Oliver Norwood,Aerial

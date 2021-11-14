@@ -1,0 +1,35 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+90346,5,Goal,0.8630000305175781,0.495,0.064476378262043,Karim Benzema,h,2370,OpenPlay,2015,RightFoot,1698,Real Madrid,Sevilla,4,0,2016-03-20 23:30:00,Gareth Bale,Cross
+90348,8,BlockedShot,0.7909999847412109,0.5829999923706055,0.036959223449230194,Luka Modric,h,2250,FromCorner,2015,RightFoot,1698,Real Madrid,Sevilla,4,0,2016-03-20 23:30:00,Cristiano Ronaldo,Pass
+90349,15,BlockedShot,0.765,0.3509999847412109,0.027930449694395065,Gareth Bale,h,2251,OpenPlay,2015,LeftFoot,1698,Real Madrid,Sevilla,4,0,2016-03-20 23:30:00,Luka Modric,Pass
+90350,15,SavedShot,0.805,0.45599998474121095,0.05601762980222702,Gareth Bale,h,2251,OpenPlay,2015,LeftFoot,1698,Real Madrid,Sevilla,4,0,2016-03-20 23:30:00,,Rebound
+90351,16,MissedShots,0.92,0.46,0.09966998547315598,Cristiano Ronaldo,h,2371,FromCorner,2015,Head,1698,Real Madrid,Sevilla,4,0,2016-03-20 23:30:00,Toni Kroos,Cross
+90352,18,SavedShot,0.775,0.7119999694824218,0.02695082128047943,Cristiano Ronaldo,h,2371,OpenPlay,2015,RightFoot,1698,Real Madrid,Sevilla,4,0,2016-03-20 23:30:00,Marcelo,Pass
+90353,20,SavedShot,0.9059999847412109,0.4640000152587891,0.07766745984554291,Karim Benzema,h,2370,FromCorner,2015,Head,1698,Real Madrid,Sevilla,4,0,2016-03-20 23:30:00,Toni Kroos,Cross
+90354,21,SavedShot,0.8169999694824219,0.705,0.05202602222561836,Cristiano Ronaldo,h,2371,OpenPlay,2015,RightFoot,1698,Real Madrid,Sevilla,4,0,2016-03-20 23:30:00,Marcelo,Pass
+90355,21,SavedShot,0.894000015258789,0.49900001525878906,0.13632915914058685,Cristiano Ronaldo,h,2371,OpenPlay,2015,RightFoot,1698,Real Madrid,Sevilla,4,0,2016-03-20 23:30:00,Karim Benzema,Pass
+90356,23,MissedShots,0.9730000305175781,0.41900001525878905,0.14075426757335663,Gareth Bale,h,2251,OpenPlay,2015,Head,1698,Real Madrid,Sevilla,4,0,2016-03-20 23:30:00,Marcelo,Cross
+90359,34,SavedShot,0.855,0.34,0.06695594638586044,Karim Benzema,h,2370,OpenPlay,2015,RightFoot,1698,Real Madrid,Sevilla,4,0,2016-03-20 23:30:00,Gareth Bale,Pass
+90360,35,SavedShot,0.764000015258789,0.38,0.02818060852587223,Cristiano Ronaldo,h,2371,OpenPlay,2015,RightFoot,1698,Real Madrid,Sevilla,4,0,2016-03-20 23:30:00,Gareth Bale,Pass
+90361,43,SavedShot,0.8130000305175781,0.629000015258789,0.052124425768852234,Marcelo,h,2257,OpenPlay,2015,RightFoot,1698,Real Madrid,Sevilla,4,0,2016-03-20 23:30:00,Karim Benzema,Pass
+90362,44,BlockedShot,0.8030000305175782,0.31,0.03372417017817497,Danilo,h,2244,OpenPlay,2015,RightFoot,1698,Real Madrid,Sevilla,4,0,2016-03-20 23:30:00,Toni Kroos,Pass
+90363,48,MissedShots,0.8580000305175781,0.42700000762939455,0.10481614619493484,Karim Benzema,h,2370,OpenPlay,2015,RightFoot,1698,Real Madrid,Sevilla,4,0,2016-03-20 23:30:00,Gareth Bale,Pass
+90364,51,MissedShots,0.7630000305175781,0.5270000076293946,0.03622756898403168,Gareth Bale,h,2251,OpenPlay,2015,LeftFoot,1698,Real Madrid,Sevilla,4,0,2016-03-20 23:30:00,Karim Benzema,Pass
+90365,52,BlockedShot,0.805,0.3029999923706055,0.03581853210926056,Cristiano Ronaldo,h,2371,OpenPlay,2015,LeftFoot,1698,Real Madrid,Sevilla,4,0,2016-03-20 23:30:00,,None
+90366,57,MissedShots,0.885,0.5,0.7432776093482971,Cristiano Ronaldo,h,2371,Penalty,2015,RightFoot,1698,Real Madrid,Sevilla,4,0,2016-03-20 23:30:00,,Standard
+90367,58,MissedShots,0.7609999847412109,0.3629999923706055,0.028129519894719124,Gareth Bale,h,2251,OpenPlay,2015,LeftFoot,1698,Real Madrid,Sevilla,4,0,2016-03-20 23:30:00,Karim Benzema,Pass
+90368,58,BlockedShot,0.7569999694824219,0.4909999847412109,0.032326214015483856,Toni Kroos,h,2369,OpenPlay,2015,RightFoot,1698,Real Madrid,Sevilla,4,0,2016-03-20 23:30:00,Luka Modric,Pass
+90369,59,ShotOnPost,0.905,0.5179999923706055,0.08172684162855148,Gareth Bale,h,2251,FromCorner,2015,Head,1698,Real Madrid,Sevilla,4,0,2016-03-20 23:30:00,Toni Kroos,Cross
+90370,62,BlockedShot,0.8,0.7719999694824219,0.05423000082373619,Cristiano Ronaldo,h,2371,DirectFreekick,2015,RightFoot,1698,Real Madrid,Sevilla,4,0,2016-03-20 23:30:00,,Standard
+90371,63,Goal,0.9580000305175781,0.5270000076293946,0.6139206290245056,Cristiano Ronaldo,h,2371,OpenPlay,2015,LeftFoot,1698,Real Madrid,Sevilla,4,0,2016-03-20 23:30:00,Danilo,Cross
+90372,65,BlockedShot,0.889000015258789,0.5070000076293946,0.43996843695640564,Karim Benzema,h,2370,OpenPlay,2015,RightFoot,1698,Real Madrid,Sevilla,4,0,2016-03-20 23:30:00,Cristiano Ronaldo,Pass
+90373,65,Goal,0.975999984741211,0.46799999237060547,0.9526577591896057,Gareth Bale,h,2251,OpenPlay,2015,RightFoot,1698,Real Madrid,Sevilla,4,0,2016-03-20 23:30:00,Karim Benzema,Rebound
+90377,85,Goal,0.9130000305175782,0.5379999923706055,0.47904470562934875,Jesé,h,2256,OpenPlay,2015,RightFoot,1698,Real Madrid,Sevilla,4,0,2016-03-20 23:30:00,,BallTouch
+90345,3,SavedShot,0.9890000152587891,0.27899999618530275,0.03714005649089813,Sergio Escudero,a,2064,FromCorner,2015,LeftFoot,1698,Real Madrid,Sevilla,4,0,2016-03-20 23:30:00,Kevin Gameiro,TakeOn
+90347,7,MissedShots,0.874000015258789,0.295,0.04641307145357132,Kevin Gameiro,a,2442,OpenPlay,2015,RightFoot,1698,Real Madrid,Sevilla,4,0,2016-03-20 23:30:00,Diogo Figueiras,Pass
+90357,26,SavedShot,0.885,0.5,0.7432776093482971,Kevin Gameiro,a,2442,Penalty,2015,RightFoot,1698,Real Madrid,Sevilla,4,0,2016-03-20 23:30:00,,Standard
+90358,27,BlockedShot,0.945,0.28299999237060547,0.03146268054842949,Coke,a,2073,FromCorner,2015,RightFoot,1698,Real Madrid,Sevilla,4,0,2016-03-20 23:30:00,Sebastián Cristóforo,Cross
+90374,79,MissedShots,0.8319999694824218,0.7280000305175781,0.0243343748152256,Kevin Gameiro,a,2442,OpenPlay,2015,RightFoot,1698,Real Madrid,Sevilla,4,0,2016-03-20 23:30:00,Timothée Kolodziejczak,Pass
+90375,81,SavedShot,0.915,0.6959999847412109,0.04838346317410469,Sergio Escudero,a,2064,OpenPlay,2015,LeftFoot,1698,Real Madrid,Sevilla,4,0,2016-03-20 23:30:00,Benoît Trémoulinas,Pass
+90376,84,SavedShot,0.875999984741211,0.35400001525878905,0.06836314499378204,Kevin Gameiro,a,2442,OpenPlay,2015,RightFoot,1698,Real Madrid,Sevilla,4,0,2016-03-20 23:30:00,Reyes,Pass
+90378,89,MissedShots,0.889000015258789,0.62,0.03840004652738571,Benoît Trémoulinas,a,2510,OpenPlay,2015,LeftFoot,1698,Real Madrid,Sevilla,4,0,2016-03-20 23:30:00,Mariano,Cross

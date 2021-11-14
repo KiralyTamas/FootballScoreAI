@@ -1,0 +1,33 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+425343,1,SavedShot,0.919000015258789,0.534000015258789,0.11970919370651245,Adil Aouchiche,h,7980,OpenPlay,2021,LeftFoot,17826,Saint-Etienne,Lorient,1,1,2021-08-08 13:00:00,Denis Bouanga,Cross
+425345,7,MissedShots,0.7240000152587891,0.625999984741211,0.01657431572675705,Denis Bouanga,h,3781,OpenPlay,2021,RightFoot,17826,Saint-Etienne,Lorient,1,1,2021-08-08 13:00:00,Mahdi Camara,Pass
+425346,9,MissedShots,0.725999984741211,0.22200000762939454,0.010171833448112011,Mahdi Camara,h,6452,OpenPlay,2021,RightFoot,17826,Saint-Etienne,Lorient,1,1,2021-08-08 13:00:00,Adil Aouchiche,Pass
+425347,14,MissedShots,0.8869999694824219,0.41200000762939454,0.016525594517588615,Wahbi Khazri,h,734,OpenPlay,2021,Head,17826,Saint-Etienne,Lorient,1,1,2021-08-08 13:00:00,Yvann Maçon,Aerial
+425348,15,SavedShot,0.7719999694824219,0.36400001525878906,0.019642887637019157,Mahdi Camara,h,6452,OpenPlay,2021,RightFoot,17826,Saint-Etienne,Lorient,1,1,2021-08-08 13:00:00,Denis Bouanga,Pass
+425349,20,BlockedShot,0.9359999847412109,0.30700000762939456,0.008061019703745842,Denis Bouanga,h,3781,OpenPlay,2021,Head,17826,Saint-Etienne,Lorient,1,1,2021-08-08 13:00:00,Timothée Kolodziejczak,Cross
+425353,37,MissedShots,0.8180000305175781,0.69,0.0073509542271494865,Denis Bouanga,h,3781,OpenPlay,2021,Head,17826,Saint-Etienne,Lorient,1,1,2021-08-08 13:00:00,Etienne Green,Aerial
+425355,40,MissedShots,0.955999984741211,0.4570000076293945,0.12510263919830322,Denis Bouanga,h,3781,OpenPlay,2021,Head,17826,Saint-Etienne,Lorient,1,1,2021-08-08 13:00:00,Timothée Kolodziejczak,Aerial
+425358,50,BlockedShot,0.75,0.43,0.02300429157912731,Romain Hamouma,h,3561,OpenPlay,2021,RightFoot,17826,Saint-Etienne,Lorient,1,1,2021-08-08 13:00:00,Wahbi Khazri,Pass
+425359,50,MissedShots,0.8680000305175781,0.525,0.07883038371801376,Romain Hamouma,h,3561,OpenPlay,2021,RightFoot,17826,Saint-Etienne,Lorient,1,1,2021-08-08 13:00:00,,None
+425361,56,BlockedShot,0.799000015258789,0.639000015258789,0.03512713685631752,Adil Aouchiche,h,7980,OpenPlay,2021,RightFoot,17826,Saint-Etienne,Lorient,1,1,2021-08-08 13:00:00,Wahbi Khazri,TakeOn
+425363,63,MissedShots,0.7669999694824219,0.620999984741211,0.021757738664746284,Denis Bouanga,h,3781,OpenPlay,2021,RightFoot,17826,Saint-Etienne,Lorient,1,1,2021-08-08 13:00:00,Timothée Kolodziejczak,Pass
+425364,69,Goal,0.885,0.5,0.7600951194763184,Wahbi Khazri,h,734,Penalty,2021,RightFoot,17826,Saint-Etienne,Lorient,1,1,2021-08-08 13:00:00,,Standard
+425365,70,MissedShots,0.8590000152587891,0.735,0.04731535166501999,Denis Bouanga,h,3781,OpenPlay,2021,RightFoot,17826,Saint-Etienne,Lorient,1,1,2021-08-08 13:00:00,Zaydou Youssef,Pass
+425366,73,BlockedShot,0.9569999694824218,0.33099998474121095,0.011676711961627007,Denis Bouanga,h,3781,FromCorner,2021,Head,17826,Saint-Etienne,Lorient,1,1,2021-08-08 13:00:00,Arnaud Nordin,Cross
+425367,73,ShotOnPost,0.9359999847412109,0.5109999847412109,0.4351969063282013,Mickael Nade,h,5753,FromCorner,2021,Head,17826,Saint-Etienne,Lorient,1,1,2021-08-08 13:00:00,Wahbi Khazri,Cross
+425368,74,MissedShots,0.92,0.42200000762939455,0.04416142404079437,Harold Moukoudi,h,7750,OpenPlay,2021,Head,17826,Saint-Etienne,Lorient,1,1,2021-08-08 13:00:00,Yvann Maçon,Aerial
+425369,75,MissedShots,0.775,0.57,0.029934806749224663,Wahbi Khazri,h,734,OpenPlay,2021,RightFoot,17826,Saint-Etienne,Lorient,1,1,2021-08-08 13:00:00,Arnaud Nordin,Pass
+425370,77,BlockedShot,0.7069999694824218,0.539000015258789,0.019830772653222084,Denis Bouanga,h,3781,OpenPlay,2021,RightFoot,17826,Saint-Etienne,Lorient,1,1,2021-08-08 13:00:00,Mahdi Camara,Pass
+425374,89,BlockedShot,0.8130000305175781,0.7,0.027897575870156288,Romain Hamouma,h,3561,OpenPlay,2021,RightFoot,17826,Saint-Etienne,Lorient,1,1,2021-08-08 13:00:00,,Dispossessed
+425344,5,ShotOnPost,0.8230000305175781,0.5359999847412109,0.05623003840446472,Laurent Abergel,a,4882,OpenPlay,2021,RightFoot,17826,Saint-Etienne,Lorient,1,1,2021-08-08 13:00:00,,None
+425350,24,MissedShots,0.9590000152587891,0.6840000152587891,0.05042087659239769,Vincent Le Goff,a,3464,OpenPlay,2021,LeftFoot,17826,Saint-Etienne,Lorient,1,1,2021-08-08 13:00:00,Laurent Abergel,Chipped
+425351,29,MissedShots,0.7369999694824219,0.3770000076293945,0.015946080908179283,Enzo Le Fée,a,8651,OpenPlay,2021,RightFoot,17826,Saint-Etienne,Lorient,1,1,2021-08-08 13:00:00,,BallRecovery
+425352,30,MissedShots,0.8419999694824218,0.5459999847412109,0.08340678364038467,Armand Lauriente,a,6697,OpenPlay,2021,RightFoot,17826,Saint-Etienne,Lorient,1,1,2021-08-08 13:00:00,Vincent Le Goff,Pass
+425354,38,MissedShots,0.9690000152587891,0.40099998474121096,0.326099157333374,Houboulang Mendes,a,8649,FromCorner,2021,RightFoot,17826,Saint-Etienne,Lorient,1,1,2021-08-08 13:00:00,Fabien Lemoine,HeadPass
+425356,42,BlockedShot,0.8530000305175781,0.6530000305175782,0.055155739188194275,Terem Igobor Moffi,a,8997,OpenPlay,2021,LeftFoot,17826,Saint-Etienne,Lorient,1,1,2021-08-08 13:00:00,Armand Lauriente,Pass
+425357,48,SavedShot,0.7809999847412109,0.34599998474121096,0.025358522310853004,Igor Silva,a,9661,OpenPlay,2021,RightFoot,17826,Saint-Etienne,Lorient,1,1,2021-08-08 13:00:00,Fabien Lemoine,Pass
+425360,51,Goal,0.889000015258789,0.639000015258789,0.06429325044155121,Vincent Le Goff,a,3464,OpenPlay,2021,LeftFoot,17826,Saint-Etienne,Lorient,1,1,2021-08-08 13:00:00,,None
+425362,60,MissedShots,0.84,0.745999984741211,0.02329189144074917,Armand Lauriente,a,6697,SetPiece,2021,RightFoot,17826,Saint-Etienne,Lorient,1,1,2021-08-08 13:00:00,Julien Laporte,Pass
+425371,83,BlockedShot,0.88,0.7019999694824218,0.048543307930231094,Terem Igobor Moffi,a,8997,OpenPlay,2021,LeftFoot,17826,Saint-Etienne,Lorient,1,1,2021-08-08 13:00:00,Pierre-Yves Hamel,Pass
+425372,87,SavedShot,0.8109999847412109,0.6980000305175781,0.027769263833761215,Adrian Grbic,a,8653,OpenPlay,2021,LeftFoot,17826,Saint-Etienne,Lorient,1,1,2021-08-08 13:00:00,,Dispossessed
+425373,88,MissedShots,0.89,0.5220000076293946,0.05946597084403038,Adrian Grbic,a,8653,FromCorner,2021,RightFoot,17826,Saint-Etienne,Lorient,1,1,2021-08-08 13:00:00,Thomas Monconduit,Cross

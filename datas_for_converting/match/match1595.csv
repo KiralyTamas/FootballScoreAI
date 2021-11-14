@@ -1,0 +1,23 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+88616,11,SavedShot,0.8859999847412109,0.3320000076293945,0.32509225606918335,Tana,h,2359,OpenPlay,2015,RightFoot,1595,Las Palmas,Atletico Madrid,0,3,2016-01-17 21:15:00,Nabil El Zhar,Pass
+88617,11,BlockedShot,0.6969999694824218,0.4620000076293945,0.010097460821270943,Vicente Gómez,h,2363,OpenPlay,2015,LeftFoot,1595,Las Palmas,Atletico Madrid,0,3,2016-01-17 21:15:00,,None
+88618,11,SavedShot,0.7609999847412109,0.6430000305175781,0.020373430103063583,Dani Castellano,h,2355,OpenPlay,2015,LeftFoot,1595,Las Palmas,Atletico Madrid,0,3,2016-01-17 21:15:00,,BallRecovery
+88620,23,MissedShots,0.730999984741211,0.7669999694824219,0.00921112671494484,Jonathan Viera,h,2358,OpenPlay,2015,RightFoot,1595,Las Palmas,Atletico Madrid,0,3,2016-01-17 21:15:00,,None
+88621,31,SavedShot,0.875999984741211,0.695,0.027574289590120316,Dani Castellano,h,2355,OpenPlay,2015,LeftFoot,1595,Las Palmas,Atletico Madrid,0,3,2016-01-17 21:15:00,David García,Cross
+88622,31,MissedShots,0.725,0.544000015258789,0.023003289476037025,Roque Mesa,h,2356,FromCorner,2015,RightFoot,1595,Las Palmas,Atletico Madrid,0,3,2016-01-17 21:15:00,Nabil El Zhar,Pass
+88626,67,MissedShots,0.8480000305175781,0.5570000076293945,0.05139138922095299,Roque Mesa,h,2356,OpenPlay,2015,LeftFoot,1595,Las Palmas,Atletico Madrid,0,3,2016-01-17 21:15:00,Willian José,HeadPass
+88628,73,MissedShots,0.7030000305175781,0.48700000762939455,0.017961595207452774,Tana,h,2359,SetPiece,2015,RightFoot,1595,Las Palmas,Atletico Madrid,0,3,2016-01-17 21:15:00,Jonathan Viera,Pass
+88630,78,BlockedShot,0.7340000152587891,0.5629999923706055,0.015970729291439056,Mubarak Wakaso,h,2362,OpenPlay,2015,LeftFoot,1595,Las Palmas,Atletico Madrid,0,3,2016-01-17 21:15:00,Vicente Gómez,Pass
+88631,79,MissedShots,0.7380000305175781,0.43900001525878907,0.017863240092992783,Roque Mesa,h,2356,OpenPlay,2015,RightFoot,1595,Las Palmas,Atletico Madrid,0,3,2016-01-17 21:15:00,Willian José,Pass
+88636,89,BlockedShot,0.8530000305175781,0.53,0.08725406974554062,Sergio Araujo,h,2365,OpenPlay,2015,RightFoot,1595,Las Palmas,Atletico Madrid,0,3,2016-01-17 21:15:00,Jonathan Viera,Pass
+88619,16,Goal,0.8780000305175781,0.6659999847412109,0.04877324402332306,Filipe Luis,a,2265,OpenPlay,2015,LeftFoot,1595,Las Palmas,Atletico Madrid,0,3,2016-01-17 21:15:00,Juanfran,Chipped
+88623,32,BlockedShot,0.899000015258789,0.3729999923706055,0.031620435416698456,Luciano Vietto,a,2274,OpenPlay,2015,Head,1595,Las Palmas,Atletico Madrid,0,3,2016-01-17 21:15:00,Juanfran,Cross
+88624,48,MissedShots,0.925,0.610999984741211,0.04136701673269272,Luciano Vietto,a,2274,FromCorner,2015,Head,1595,Las Palmas,Atletico Madrid,0,3,2016-01-17 21:15:00,Saúl Ñíguez,Cross
+88625,53,SavedShot,0.894000015258789,0.585,0.40723058581352234,Antoine Griezmann,a,2270,OpenPlay,2015,LeftFoot,1595,Las Palmas,Atletico Madrid,0,3,2016-01-17 21:15:00,Luciano Vietto,Throughball
+88627,67,Goal,0.8690000152587891,0.5590000152587891,0.3801620900630951,Antoine Griezmann,a,2270,OpenPlay,2015,LeftFoot,1595,Las Palmas,Atletico Madrid,0,3,2016-01-17 21:15:00,Koke,Pass
+88629,77,SavedShot,0.9569999694824218,0.6780000305175782,0.08124864101409912,Yannick Carrasco,a,2272,OpenPlay,2015,LeftFoot,1595,Las Palmas,Atletico Madrid,0,3,2016-01-17 21:15:00,Filipe Luis,Pass
+88632,82,BlockedShot,0.8819999694824219,0.46599998474121096,0.13645511865615845,Koke,a,2269,OpenPlay,2015,RightFoot,1595,Las Palmas,Atletico Madrid,0,3,2016-01-17 21:15:00,Thomas Partey,Pass
+88633,82,BlockedShot,0.764000015258789,0.49900001525878906,0.021443979814648628,Gabi,a,2268,OpenPlay,2015,RightFoot,1595,Las Palmas,Atletico Madrid,0,3,2016-01-17 21:15:00,,Rebound
+88634,82,BlockedShot,0.8480000305175781,0.6719999694824219,0.06528031080961227,Yannick Carrasco,a,2272,OpenPlay,2015,RightFoot,1595,Las Palmas,Atletico Madrid,0,3,2016-01-17 21:15:00,Filipe Luis,Pass
+88635,88,Goal,0.8530000305175781,0.5690000152587891,0.46350741386413574,Antoine Griezmann,a,2270,OpenPlay,2015,LeftFoot,1595,Las Palmas,Atletico Madrid,0,3,2016-01-17 21:15:00,Koke,Throughball
+88637,90,BlockedShot,0.865999984741211,0.67,0.06074327602982521,Yannick Carrasco,a,2272,OpenPlay,2015,RightFoot,1595,Las Palmas,Atletico Madrid,0,3,2016-01-17 21:15:00,Koke,TakeOn

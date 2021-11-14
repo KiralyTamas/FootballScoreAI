@@ -1,0 +1,21 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+39728,16,Goal,0.8830000305175781,0.5359999847412109,0.422325998544693,Alexis,h,2572,FromCorner,2014,RightFoot,5512,Getafe,Deportivo La Coruna,2,1,2015-04-05 18:00:00,,None
+39729,22,MissedShots,0.8009999847412109,0.30700000762939456,0.03563259541988373,Pablo Sarabia,h,2199,OpenPlay,2014,RightFoot,5512,Getafe,Deportivo La Coruna,2,1,2015-04-05 18:00:00,,None
+39732,29,MissedShots,0.7780000305175782,0.2539999961853027,0.01819682866334915,Vigaray,h,2191,OpenPlay,2014,LeftFoot,5512,Getafe,Deportivo La Coruna,2,1,2015-04-05 18:00:00,Pablo Sarabia,BallRecovery
+39733,33,Goal,0.9059999847412109,0.5729999923706055,0.4254143238067627,Sergio Escudero,h,2064,OpenPlay,2014,LeftFoot,5512,Getafe,Deportivo La Coruna,2,1,2015-04-05 18:00:00,Pablo Sarabia,Pass
+39734,40,BlockedShot,0.795,0.5229999923706055,0.033343005925416946,Pedro León,h,2197,FromCorner,2014,RightFoot,5512,Getafe,Deportivo La Coruna,2,1,2015-04-05 18:00:00,Pablo Sarabia,Cross
+39735,41,SavedShot,0.7709999847412109,0.6409999847412109,0.029754893854260445,Diego Castro,h,4094,OpenPlay,2014,RightFoot,5512,Getafe,Deportivo La Coruna,2,1,2015-04-05 18:00:00,Pablo Sarabia,Pass
+39736,53,MissedShots,0.7809999847412109,0.23299999237060548,0.01523599587380886,Pedro León,h,2197,OpenPlay,2014,RightFoot,5512,Getafe,Deportivo La Coruna,2,1,2015-04-05 18:00:00,,None
+39739,59,MissedShots,0.85,0.645,0.07666381448507309,Sergio Escudero,h,2064,OpenPlay,2014,LeftFoot,5512,Getafe,Deportivo La Coruna,2,1,2015-04-05 18:00:00,Pablo Sarabia,Pass
+39745,81,SavedShot,0.7380000305175781,0.3220000076293945,0.04788488149642944,Pablo Sarabia,h,2199,DirectFreekick,2014,LeftFoot,5512,Getafe,Deportivo La Coruna,2,1,2015-04-05 18:00:00,,Standard
+39746,84,MissedShots,0.7419999694824219,0.39,0.05942138656973839,Sergio Escudero,h,2064,DirectFreekick,2014,LeftFoot,5512,Getafe,Deportivo La Coruna,2,1,2015-04-05 18:00:00,,Standard
+39747,95,BlockedShot,0.8969999694824219,0.415,0.1297181248664856,Álvaro Vázquez,h,2200,OpenPlay,2014,RightFoot,5512,Getafe,Deportivo La Coruna,2,1,2015-04-05 18:00:00,,None
+39730,24,MissedShots,0.765,0.5920000076293945,0.022265402600169182,Luisinho,a,2500,OpenPlay,2014,LeftFoot,5512,Getafe,Deportivo La Coruna,2,1,2015-04-05 18:00:00,,None
+39731,27,SavedShot,0.9069999694824219,0.5629999923706055,0.030098794028162956,Celso Borges,a,2466,SetPiece,2014,Head,5512,Getafe,Deportivo La Coruna,2,1,2015-04-05 18:00:00,Juanfran,Aerial
+39737,57,BlockedShot,0.8630000305175781,0.33799999237060546,0.044390130788087845,Celso Borges,a,2466,OpenPlay,2014,RightFoot,5512,Getafe,Deportivo La Coruna,2,1,2015-04-05 18:00:00,Oriol Riera,None
+39738,57,MissedShots,0.91,0.45599998474121095,0.2664056420326233,Lucas Pérez,a,1700,OpenPlay,2014,RightFoot,5512,Getafe,Deportivo La Coruna,2,1,2015-04-05 18:00:00,Álex Bergantiños,Chipped
+39740,60,BlockedShot,0.7480000305175781,0.7090000152587891,0.04726945236325264,Celso Borges,a,2466,DirectFreekick,2014,RightFoot,5512,Getafe,Deportivo La Coruna,2,1,2015-04-05 18:00:00,,Standard
+39741,64,MissedShots,0.799000015258789,0.2539999961853027,0.014499876648187637,Lucas Pérez,a,1700,OpenPlay,2014,LeftFoot,5512,Getafe,Deportivo La Coruna,2,1,2015-04-05 18:00:00,,BallRecovery
+39742,66,MissedShots,0.9259999847412109,0.35700000762939454,0.28784048557281494,Oriol Riera,a,2323,OpenPlay,2014,RightFoot,5512,Getafe,Deportivo La Coruna,2,1,2015-04-05 18:00:00,Lucas Pérez,Throughball
+39743,70,MissedShots,0.9230000305175782,0.5120000076293946,0.13921913504600525,Oriol Riera,a,2323,OpenPlay,2014,Head,5512,Getafe,Deportivo La Coruna,2,1,2015-04-05 18:00:00,Lucas Pérez,Cross
+39744,78,Goal,0.93,0.5459999847412109,0.31371763348579407,Toché,a,4129,OpenPlay,2014,LeftFoot,5512,Getafe,Deportivo La Coruna,2,1,2015-04-05 18:00:00,Isaac Cuenca,Cross

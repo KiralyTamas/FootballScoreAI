@@ -1,0 +1,33 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+51734,5,BlockedShot,0.799000015258789,0.49900001525878906,0.032350413501262665,Yohan Cabaye,h,516,FromCorner,2015,RightFoot,98,Crystal Palace,Arsenal,1,2,2015-08-16 16:30:00,Jason Puncheon,Cross
+51740,14,SavedShot,0.765,0.6990000152587891,0.01656930148601532,Yohan Cabaye,h,516,OpenPlay,2015,RightFoot,98,Crystal Palace,Arsenal,1,2,2015-08-16 16:30:00,,Interception
+51744,27,Goal,0.7959999847412109,0.305,0.02191213332116604,Joel Ward,h,510,OpenPlay,2015,RightFoot,98,Crystal Palace,Arsenal,1,2,2015-08-16 16:30:00,James McArthur,Pass
+51749,36,BlockedShot,0.7930000305175782,0.674000015258789,0.019433775916695595,Yohan Cabaye,h,516,OpenPlay,2015,LeftFoot,98,Crystal Palace,Arsenal,1,2,2015-08-16 16:30:00,Jason Puncheon,Pass
+51750,47,ShotOnPost,0.93,0.4640000152587891,0.40907639265060425,Connor Wickham,h,519,OpenPlay,2015,RightFoot,98,Crystal Palace,Arsenal,1,2,2015-08-16 16:30:00,Wilfried Zaha,Cross
+51751,47,MissedShots,0.8690000152587891,0.590999984741211,0.0675598531961441,Jason Puncheon,h,514,OpenPlay,2015,RightFoot,98,Crystal Palace,Arsenal,1,2,2015-08-16 16:30:00,,Rebound
+51754,54,OwnGoal,0.01899999976158142,0.509000015258789,0,Damien Delaney,h,511,OpenPlay,2015,RightFoot,98,Crystal Palace,Arsenal,1,2,2015-08-16 16:30:00,,None
+51755,57,SavedShot,0.9080000305175782,0.6359999847412109,0.08811023831367493,Jason Puncheon,h,514,OpenPlay,2015,LeftFoot,98,Crystal Palace,Arsenal,1,2,2015-08-16 16:30:00,Connor Wickham,TakeOn
+51758,73,MissedShots,0.8719999694824219,0.5370000076293945,0.0634649321436882,Connor Wickham,h,519,SetPiece,2015,LeftFoot,98,Crystal Palace,Arsenal,1,2,2015-08-16 16:30:00,Jason Puncheon,Cross
+51759,86,MissedShots,0.9730000305175781,0.5109999847412109,0.13615326583385468,Jordon Mutch,h,632,FromCorner,2015,Head,98,Crystal Palace,Arsenal,1,2,2015-08-16 16:30:00,,None
+51760,88,SavedShot,0.924000015258789,0.46700000762939453,0.10040581971406937,Joel Ward,h,510,FromCorner,2015,Head,98,Crystal Palace,Arsenal,1,2,2015-08-16 16:30:00,Jason Puncheon,Cross
+51762,90,BlockedShot,0.799000015258789,0.5629999923706055,0.03673521429300308,Jason Puncheon,h,514,OpenPlay,2015,LeftFoot,98,Crystal Palace,Arsenal,1,2,2015-08-16 16:30:00,,None
+51732,4,BlockedShot,0.9219999694824219,0.6020000076293945,0.11764106154441833,Olivier Giroud,a,502,OpenPlay,2015,LeftFoot,98,Crystal Palace,Arsenal,1,2,2015-08-16 16:30:00,Aaron Ramsey,Pass
+51733,4,BlockedShot,0.750999984741211,0.5790000152587891,0.022291705012321472,Alexis Sánchez,a,498,OpenPlay,2015,RightFoot,98,Crystal Palace,Arsenal,1,2,2015-08-16 16:30:00,Mesut Özil,Pass
+51735,6,BlockedShot,0.9019999694824219,0.39,0.44878917932510376,Alexis Sánchez,a,498,OpenPlay,2015,RightFoot,98,Crystal Palace,Arsenal,1,2,2015-08-16 16:30:00,Mesut Özil,Pass
+51736,6,BlockedShot,0.9490000152587891,0.39599998474121095,0.5106456279754639,Alexis Sánchez,a,498,OpenPlay,2015,RightFoot,98,Crystal Palace,Arsenal,1,2,2015-08-16 16:30:00,,Rebound
+51737,8,SavedShot,0.745999984741211,0.27899999618530275,0.01450670138001442,Aaron Ramsey,a,504,OpenPlay,2015,RightFoot,98,Crystal Palace,Arsenal,1,2,2015-08-16 16:30:00,Santiago Cazorla,Pass
+51738,9,BlockedShot,0.8280000305175781,0.485,0.08293385058641434,Alexis Sánchez,a,498,OpenPlay,2015,RightFoot,98,Crystal Palace,Arsenal,1,2,2015-08-16 16:30:00,,TakeOn
+51739,12,BlockedShot,0.875,0.5690000152587891,0.010504055768251419,Laurent Koscielny,a,494,SetPiece,2015,Head,98,Crystal Palace,Arsenal,1,2,2015-08-16 16:30:00,Santiago Cazorla,Aerial
+51741,15,Goal,0.885,0.4620000076293945,0.09460034966468811,Olivier Giroud,a,502,OpenPlay,2015,LeftFoot,98,Crystal Palace,Arsenal,1,2,2015-08-16 16:30:00,Mesut Özil,Cross
+51742,22,SavedShot,0.9430000305175781,0.27,0.05898180603981018,Alexis Sánchez,a,498,OpenPlay,2015,RightFoot,98,Crystal Palace,Arsenal,1,2,2015-08-16 16:30:00,,BallRecovery
+51743,25,MissedShots,0.8969999694824219,0.5,0.1017959713935852,Alexis Sánchez,a,498,OpenPlay,2015,Head,98,Crystal Palace,Arsenal,1,2,2015-08-16 16:30:00,Nacho Monreal,Cross
+51745,31,MissedShots,0.875999984741211,0.5709999847412109,0.09701699763536453,Olivier Giroud,a,502,OpenPlay,2015,LeftFoot,98,Crystal Palace,Arsenal,1,2,2015-08-16 16:30:00,Santiago Cazorla,Pass
+51746,31,MissedShots,0.9940000152587891,0.595999984741211,0.06723438203334808,Mesut Özil,a,499,OpenPlay,2015,LeftFoot,98,Crystal Palace,Arsenal,1,2,2015-08-16 16:30:00,Olivier Giroud,None
+51747,34,MissedShots,0.8,0.43,0.037490710616111755,Santiago Cazorla,a,965,OpenPlay,2015,RightFoot,98,Crystal Palace,Arsenal,1,2,2015-08-16 16:30:00,Aaron Ramsey,Pass
+51748,35,SavedShot,0.9519999694824218,0.5879999923706055,0.10378099232912064,Aaron Ramsey,a,504,OpenPlay,2015,RightFoot,98,Crystal Palace,Arsenal,1,2,2015-08-16 16:30:00,Mesut Özil,Cross
+51752,53,BlockedShot,0.9119999694824219,0.68,0.06782131642103195,Aaron Ramsey,a,504,OpenPlay,2015,LeftFoot,98,Crystal Palace,Arsenal,1,2,2015-08-16 16:30:00,Santiago Cazorla,Pass
+51753,54,MissedShots,0.9230000305175782,0.610999984741211,0.04320221021771431,Alexis Sánchez,a,498,OpenPlay,2015,Head,98,Crystal Palace,Arsenal,1,2,2015-08-16 16:30:00,Héctor Bellerín,Cross
+51756,67,MissedShots,0.9,0.61,0.14094340801239014,Aaron Ramsey,a,504,OpenPlay,2015,LeftFoot,98,Crystal Palace,Arsenal,1,2,2015-08-16 16:30:00,Mesut Özil,Throughball
+51757,71,BlockedShot,0.875999984741211,0.32599998474121095,0.04670745134353638,Alex Oxlade-Chamberlain,a,966,OpenPlay,2015,RightFoot,98,Crystal Palace,Arsenal,1,2,2015-08-16 16:30:00,Petr Cech,Pass
+51761,89,SavedShot,0.9019999694824219,0.6329999923706054,0.14015430212020874,Santiago Cazorla,a,965,OpenPlay,2015,LeftFoot,98,Crystal Palace,Arsenal,1,2,2015-08-16 16:30:00,Aaron Ramsey,Throughball
+51763,93,SavedShot,0.904000015258789,0.3129999923706055,0.07755278795957565,Alex Oxlade-Chamberlain,a,966,OpenPlay,2015,RightFoot,98,Crystal Palace,Arsenal,1,2,2015-08-16 16:30:00,Aaron Ramsey,Pass

@@ -1,0 +1,25 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+381761,3,MissedShots,0.9280000305175782,0.5479999923706055,0.38914358615875244,Mijat Gacinovic,h,290,OpenPlay,2020,RightFoot,15167,Hoffenheim,Borussia Dortmund,0,1,2020-10-17 13:30:00,Robert Skov,Cross
+381764,18,SavedShot,0.855999984741211,0.6020000076293945,0.07566063106060028,Mijat Gacinovic,h,290,OpenPlay,2020,LeftFoot,15167,Hoffenheim,Borussia Dortmund,0,1,2020-10-17 13:30:00,Ishak Belfodil,Pass
+381766,30,SavedShot,0.91,0.45799999237060546,0.07585428655147552,Ishak Belfodil,h,3834,FromCorner,2020,Head,15167,Hoffenheim,Borussia Dortmund,0,1,2020-10-17 13:30:00,Dennis Geiger,Cross
+381769,39,MissedShots,0.89,0.3729999923706055,0.08425401151180267,Sebastian Rudy,h,90,OpenPlay,2020,RightFoot,15167,Hoffenheim,Borussia Dortmund,0,1,2020-10-17 13:30:00,Ishak Belfodil,Pass
+381772,51,BlockedShot,0.8569999694824219,0.39799999237060546,0.07212711870670319,Ishak Belfodil,h,3834,OpenPlay,2020,LeftFoot,15167,Hoffenheim,Borussia Dortmund,0,1,2020-10-17 13:30:00,Sebastian Rudy,BallRecovery
+381774,60,BlockedShot,0.6830000305175781,0.4329999923706055,0.011760149151086807,Stefan Posch,h,5329,OpenPlay,2020,RightFoot,15167,Hoffenheim,Borussia Dortmund,0,1,2020-10-17 13:30:00,,BallRecovery
+381778,81,SavedShot,0.8780000305175781,0.595999984741211,0.10134868323802948,Christoph Baumgartner,h,7422,OpenPlay,2020,RightFoot,15167,Hoffenheim,Borussia Dortmund,0,1,2020-10-17 13:30:00,Dennis Geiger,Throughball
+381783,90,MissedShots,0.95,0.5820000076293945,0.05410517007112503,Christoph Baumgartner,h,7422,SetPiece,2020,Head,15167,Hoffenheim,Borussia Dortmund,0,1,2020-10-17 13:30:00,,None
+381784,91,MissedShots,0.6780000305175782,0.4620000076293945,0.013119402341544628,Diadie Samassékou,h,7868,OpenPlay,2020,RightFoot,15167,Hoffenheim,Borussia Dortmund,0,1,2020-10-17 13:30:00,Dennis Geiger,Pass
+381762,6,BlockedShot,0.9130000305175782,0.5370000076293945,0.13683266937732697,Giovanni Reyna,a,8191,OpenPlay,2020,LeftFoot,15167,Hoffenheim,Borussia Dortmund,0,1,2020-10-17 13:30:00,Felix Passlack,Pass
+381763,7,SavedShot,0.8859999847412109,0.28899999618530275,0.04407653212547302,Jadon Sancho,a,6345,OpenPlay,2020,RightFoot,15167,Hoffenheim,Borussia Dortmund,0,1,2020-10-17 13:30:00,Lukasz Piszczek,Chipped
+381765,25,BlockedShot,0.7269999694824218,0.6229999923706054,0.020540889352560043,Felix Passlack,a,2663,OpenPlay,2020,RightFoot,15167,Hoffenheim,Borussia Dortmund,0,1,2020-10-17 13:30:00,Axel Witsel,Pass
+381767,34,BlockedShot,0.9730000305175781,0.605999984741211,0.35936346650123596,Giovanni Reyna,a,8191,OpenPlay,2020,LeftFoot,15167,Hoffenheim,Borussia Dortmund,0,1,2020-10-17 13:30:00,,None
+381768,36,ShotOnPost,0.9159999847412109,0.4490000152587891,0.030444297939538956,Thomas Meunier,a,5680,FromCorner,2020,Head,15167,Hoffenheim,Borussia Dortmund,0,1,2020-10-17 13:30:00,Julian Brandt,Aerial
+381770,49,BlockedShot,0.8819999694824219,0.6430000305175781,0.04702775180339813,Jadon Sancho,a,6345,OpenPlay,2020,RightFoot,15167,Hoffenheim,Borussia Dortmund,0,1,2020-10-17 13:30:00,Mats Hummels,TakeOn
+381771,49,BlockedShot,0.7830000305175782,0.7530000305175781,0.011820729821920395,Felix Passlack,a,2663,OpenPlay,2020,RightFoot,15167,Hoffenheim,Borussia Dortmund,0,1,2020-10-17 13:30:00,,Rebound
+381773,52,SavedShot,0.735999984741211,0.6959999847412109,0.016246439889073372,Giovanni Reyna,a,8191,OpenPlay,2020,RightFoot,15167,Hoffenheim,Borussia Dortmund,0,1,2020-10-17 13:30:00,Jadon Sancho,Pass
+381775,73,SavedShot,0.845,0.509000015258789,0.07765258103609085,Marco Reus,a,319,OpenPlay,2020,LeftFoot,15167,Hoffenheim,Borussia Dortmund,0,1,2020-10-17 13:30:00,Thomas Meunier,BallRecovery
+381776,75,Goal,0.9169999694824219,0.5279999923706055,0.517953097820282,Marco Reus,a,319,OpenPlay,2020,LeftFoot,15167,Hoffenheim,Borussia Dortmund,0,1,2020-10-17 13:30:00,Erling Haaland,Pass
+381777,78,MissedShots,0.9169999694824219,0.6,0.31101903319358826,Erling Haaland,a,8260,OpenPlay,2020,LeftFoot,15167,Hoffenheim,Borussia Dortmund,0,1,2020-10-17 13:30:00,Raphael Guerreiro,Chipped
+381779,82,ShotOnPost,0.955999984741211,0.6840000152587891,0.06736729294061661,Erling Haaland,a,8260,OpenPlay,2020,LeftFoot,15167,Hoffenheim,Borussia Dortmund,0,1,2020-10-17 13:30:00,Axel Witsel,Pass
+381780,83,MissedShots,0.8690000152587891,0.6969999694824218,0.06307433545589447,Raphael Guerreiro,a,3455,OpenPlay,2020,LeftFoot,15167,Hoffenheim,Borussia Dortmund,0,1,2020-10-17 13:30:00,Erling Haaland,BallTouch
+381781,84,MissedShots,0.8809999847412109,0.6020000076293945,0.10110384970903397,Giovanni Reyna,a,8191,OpenPlay,2020,RightFoot,15167,Hoffenheim,Borussia Dortmund,0,1,2020-10-17 13:30:00,Raphael Guerreiro,Pass
+381782,88,MissedShots,0.9080000305175782,0.705999984741211,0.044318970292806625,Marco Reus,a,319,FromCorner,2020,RightFoot,15167,Hoffenheim,Borussia Dortmund,0,1,2020-10-17 13:30:00,Raphael Guerreiro,Pass

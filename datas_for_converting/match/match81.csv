@@ -1,0 +1,20 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+200247,27,BlockedShot,0.794000015258789,0.4209999847412109,0.10434672236442566,Juan Mata,h,554,DirectFreekick,2015,LeftFoot,81,Manchester United,Tottenham,1,0,2015-08-08 15:45:00,,Standard
+200248,27,BlockedShot,0.86,0.6270000076293946,0.064342200756073,Memphis Depay,h,555,SetPiece,2015,RightFoot,81,Manchester United,Tottenham,1,0,2015-08-08 15:45:00,Ashley Young,Pass
+200249,35,BlockedShot,0.8430000305175781,0.33299999237060546,0.05715681612491608,Juan Mata,h,554,OpenPlay,2015,LeftFoot,81,Manchester United,Tottenham,1,0,2015-08-08 15:45:00,Wayne Rooney,Pass
+200250,35,MissedShots,0.8480000305175781,0.5329999923706055,0.09214138984680176,Juan Mata,h,554,OpenPlay,2015,LeftFoot,81,Manchester United,Tottenham,1,0,2015-08-08 15:45:00,,Tackle
+200251,40,BlockedShot,0.8119999694824219,0.7069999694824218,0.03574201464653015,Memphis Depay,h,555,OpenPlay,2015,RightFoot,81,Manchester United,Tottenham,1,0,2015-08-08 15:45:00,Michael Carrick,BallRecovery
+200253,49,MissedShots,0.725,0.545,0.02122466452419758,Memphis Depay,h,555,OpenPlay,2015,LeftFoot,81,Manchester United,Tottenham,1,0,2015-08-08 15:45:00,Wayne Rooney,Pass
+200254,64,SavedShot,0.8959999847412109,0.5970000076293945,0.10300426185131073,Ashley Young,h,631,OpenPlay,2015,RightFoot,81,Manchester United,Tottenham,1,0,2015-08-08 15:45:00,,None
+200255,72,MissedShots,0.89,0.534000015258789,0.10651306062936783,Wayne Rooney,h,629,OpenPlay,2015,RightFoot,81,Manchester United,Tottenham,1,0,2015-08-08 15:45:00,Matteo Darmian,Cross
+200256,76,MissedShots,0.7469999694824219,0.6940000152587891,0.043067652732133865,Wayne Rooney,h,629,DirectFreekick,2015,RightFoot,81,Manchester United,Tottenham,1,0,2015-08-08 15:45:00,,Standard
+200241,4,MissedShots,0.9019999694824219,0.61,0.2973036766052246,Christian Eriksen,a,646,OpenPlay,2015,LeftFoot,81,Manchester United,Tottenham,1,0,2015-08-08 15:45:00,Harry Kane,Chipped
+200242,11,BlockedShot,0.879000015258789,0.24700000762939453,0.030375510454177856,Harry Kane,a,647,OpenPlay,2015,RightFoot,81,Manchester United,Tottenham,1,0,2015-08-08 15:45:00,Christian Eriksen,Pass
+200243,11,BlockedShot,0.865999984741211,0.49700000762939456,0.0210388395935297,Toby Alderweireld,a,639,FromCorner,2015,Head,81,Manchester United,Tottenham,1,0,2015-08-08 15:45:00,Christian Eriksen,Cross
+200244,11,MissedShots,0.830999984741211,0.4329999923706055,0.05339966341853142,Harry Kane,a,647,FromCorner,2015,RightFoot,81,Manchester United,Tottenham,1,0,2015-08-08 15:45:00,,Rebound
+200245,17,SavedShot,0.9359999847412109,0.3529999923706055,0.07305785268545151,Kyle Walker,a,638,OpenPlay,2015,RightFoot,81,Manchester United,Tottenham,1,0,2015-08-08 15:45:00,Christian Eriksen,Chipped
+200246,21,OwnGoal,0.095,0.49900001525878906,0,Kyle Walker,a,638,OpenPlay,2015,LeftFoot,81,Manchester United,Tottenham,1,0,2015-08-08 15:45:00,,Tackle
+200252,46,SavedShot,0.8490000152587891,0.6719999694824219,0.03595825284719467,Toby Alderweireld,a,639,SetPiece,2015,RightFoot,81,Manchester United,Tottenham,1,0,2015-08-08 15:45:00,,None
+200257,83,SavedShot,0.9330000305175781,0.720999984741211,0.03649123013019562,Christian Eriksen,a,646,OpenPlay,2015,LeftFoot,81,Manchester United,Tottenham,1,0,2015-08-08 15:45:00,Toby Alderweireld,Chipped
+200258,87,BlockedShot,0.9019999694824219,0.49900001525878906,0.09841547906398773,Harry Kane,a,647,SetPiece,2015,Head,81,Manchester United,Tottenham,1,0,2015-08-08 15:45:00,Christian Eriksen,Cross
+200259,88,SavedShot,0.8209999847412109,0.35400001525878905,0.029682794585824013,Christian Eriksen,a,646,OpenPlay,2015,RightFoot,81,Manchester United,Tottenham,1,0,2015-08-08 15:45:00,Erik Lamela,Pass

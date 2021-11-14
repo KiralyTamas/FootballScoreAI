@@ -1,0 +1,23 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+80816,1,MissedShots,0.9290000152587891,0.6090000152587891,0.08554206788539886,Filip Kostic,h,64,OpenPlay,2015,LeftFoot,1205,VfB Stuttgart,Hertha Berlin,2,0,2016-02-13 18:30:00,,None
+80817,8,BlockedShot,0.750999984741211,0.45099998474121095,0.022602742537856102,Geoffroy Serey Dié,h,61,OpenPlay,2015,RightFoot,1205,VfB Stuttgart,Hertha Berlin,2,0,2016-02-13 18:30:00,,Dispossessed
+80818,16,MissedShots,0.7809999847412109,0.6270000076293946,0.014907138422131538,Emiliano Insúa,h,59,FromCorner,2015,LeftFoot,1205,VfB Stuttgart,Hertha Berlin,2,0,2016-02-13 18:30:00,,Aerial
+80819,17,SavedShot,0.9919999694824219,0.990999984741211,0.013113439083099365,Alexandru Maxim,h,63,FromCorner,2015,RightFoot,1205,VfB Stuttgart,Hertha Berlin,2,0,2016-02-13 18:30:00,,CornerAwarded
+80820,26,MissedShots,0.9169999694824219,0.56,0.05890338495373726,Timo Werner,h,65,OpenPlay,2015,Head,1205,VfB Stuttgart,Hertha Berlin,2,0,2016-02-13 18:30:00,Daniel Schwaab,Chipped
+80825,50,SavedShot,0.845999984741211,0.2620000076293945,0.028213273733854294,Alexandru Maxim,h,63,OpenPlay,2015,RightFoot,1205,VfB Stuttgart,Hertha Berlin,2,0,2016-02-13 18:30:00,Christian Gentner,Pass
+80826,50,Goal,0.8580000305175781,0.66,0.042413800954818726,Geoffroy Serey Dié,h,61,OpenPlay,2015,RightFoot,1205,VfB Stuttgart,Hertha Berlin,2,0,2016-02-13 18:30:00,,Rebound
+80828,63,MissedShots,0.9319999694824219,0.5609999847412109,0.0988193079829216,Christian Gentner,h,60,FromCorner,2015,Head,1205,VfB Stuttgart,Hertha Berlin,2,0,2016-02-13 18:30:00,Filip Kostic,Cross
+80829,65,MissedShots,0.7219999694824218,0.5540000152587891,0.021819407120347023,Filip Kostic,h,64,OpenPlay,2015,LeftFoot,1205,VfB Stuttgart,Hertha Berlin,2,0,2016-02-13 18:30:00,Christian Gentner,BallRecovery
+80832,80,BlockedShot,0.9030000305175782,0.3129999923706055,0.03584344685077667,Emiliano Insúa,h,59,SetPiece,2015,RightFoot,1205,VfB Stuttgart,Hertha Berlin,2,0,2016-02-13 18:30:00,Artem Kravets,Pass
+80833,82,BlockedShot,0.7330000305175781,0.5629999923706055,0.03912581875920296,Martin Harnik,h,407,OpenPlay,2015,RightFoot,1205,VfB Stuttgart,Hertha Berlin,2,0,2016-02-13 18:30:00,Emiliano Insúa,Pass
+80834,83,Goal,0.8769999694824219,0.5690000152587891,0.40447357296943665,Filip Kostic,h,64,OpenPlay,2015,LeftFoot,1205,VfB Stuttgart,Hertha Berlin,2,0,2016-02-13 18:30:00,,None
+80835,89,BlockedShot,0.8219999694824218,0.64,0.05759228393435478,Filip Kostic,h,64,OpenPlay,2015,LeftFoot,1205,VfB Stuttgart,Hertha Berlin,2,0,2016-02-13 18:30:00,Christian Gentner,Pass
+80836,90,SavedShot,0.899000015258789,0.3390000152587891,0.2991996109485626,Martin Harnik,h,407,OpenPlay,2015,RightFoot,1205,VfB Stuttgart,Hertha Berlin,2,0,2016-02-13 18:30:00,Lukas Rupp,Pass
+80837,91,SavedShot,0.885,0.2589999961853027,0.05083667114377022,Filip Kostic,h,64,OpenPlay,2015,LeftFoot,1205,VfB Stuttgart,Hertha Berlin,2,0,2016-02-13 18:30:00,,TakeOn
+80821,35,MissedShots,0.8030000305175782,0.38,0.10615811496973038,Marvin Plattenhardt,a,23,DirectFreekick,2015,LeftFoot,1205,VfB Stuttgart,Hertha Berlin,2,0,2016-02-13 18:30:00,,Standard
+80822,36,SavedShot,0.865999984741211,0.43,0.37101688981056213,Vedad Ibisevic,a,29,OpenPlay,2015,RightFoot,1205,VfB Stuttgart,Hertha Berlin,2,0,2016-02-13 18:30:00,Tolga Cigerci,Pass
+80823,47,MissedShots,0.909000015258789,0.485,0.32187774777412415,Tolga Cigerci,a,258,OpenPlay,2015,Head,1205,VfB Stuttgart,Hertha Berlin,2,0,2016-02-13 18:30:00,Vladimir Darida,Cross
+80824,48,SavedShot,0.8540000152587891,0.62,0.148889422416687,Vedad Ibisevic,a,29,OpenPlay,2015,RightFoot,1205,VfB Stuttgart,Hertha Berlin,2,0,2016-02-13 18:30:00,Per Skjelbred,TakeOn
+80827,55,ShotOnPost,0.9290000152587891,0.625999984741211,0.07358147203922272,John Brooks,a,22,SetPiece,2015,LeftFoot,1205,VfB Stuttgart,Hertha Berlin,2,0,2016-02-13 18:30:00,Sebastian Langkamp,HeadPass
+80830,68,BlockedShot,0.855,0.4490000152587891,0.0771506130695343,Vedad Ibisevic,a,29,OpenPlay,2015,LeftFoot,1205,VfB Stuttgart,Hertha Berlin,2,0,2016-02-13 18:30:00,Genki Haraguchi,Pass
+80831,69,SavedShot,0.7609999847412109,0.49599998474121093,0.028853021562099457,Vedad Ibisevic,a,29,OpenPlay,2015,RightFoot,1205,VfB Stuttgart,Hertha Berlin,2,0,2016-02-13 18:30:00,Per Skjelbred,Pass

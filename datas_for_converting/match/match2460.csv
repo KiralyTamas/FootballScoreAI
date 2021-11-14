@@ -1,0 +1,25 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+73216,3,MissedShots,0.8090000152587891,0.5029999923706054,0.018409451469779015,Pavel Mogilevets,h,2773,OpenPlay,2015,RightFoot,2460,FC Rostov,Dinamo Moscow,1,0,2015-11-02 20:30:00,,Aerial
+73222,42,MissedShots,0.7630000305175781,0.664000015258789,0.08563796430826187,Dmitriy Poloz,h,2775,OpenPlay,2015,RightFoot,2460,FC Rostov,Dinamo Moscow,1,0,2015-11-02 20:30:00,Aleksandr Bukharov,TakeOn
+73223,43,MissedShots,0.805,0.3160000038146973,0.04828355088829994,Timofei Kalachev,h,2776,OpenPlay,2015,RightFoot,2460,FC Rostov,Dinamo Moscow,1,0,2015-11-02 20:30:00,,None
+73224,44,SavedShot,0.7340000152587891,0.5179999923706055,0.016392961144447327,Timofei Kalachev,h,2776,OpenPlay,2015,RightFoot,2460,FC Rostov,Dinamo Moscow,1,0,2015-11-02 20:30:00,Dmitriy Poloz,Pass
+73225,45,SavedShot,0.9180000305175782,0.715,0.03917667269706726,Aleksandr Bukharov,h,2778,OpenPlay,2015,RightFoot,2460,FC Rostov,Dinamo Moscow,1,0,2015-11-02 20:30:00,Pavel Mogilevets,Pass
+73226,45,MissedShots,0.9369999694824219,0.524000015258789,0.11722766607999802,Aleksandr Bukharov,h,2778,FromCorner,2015,Head,2460,FC Rostov,Dinamo Moscow,1,0,2015-11-02 20:30:00,Timofei Kalachev,Cross
+73227,54,SavedShot,0.9069999694824219,0.47,0.10259076952934265,Aleksandr Bukharov,h,2778,SetPiece,2015,Head,2460,FC Rostov,Dinamo Moscow,1,0,2015-11-02 20:30:00,Ivan Novoseltsev,Cross
+73228,54,Goal,0.985999984741211,0.5209999847412109,0.9680349230766296,Bastos,h,1595,SetPiece,2015,RightFoot,2460,FC Rostov,Dinamo Moscow,1,0,2015-11-02 20:30:00,,Rebound
+73229,58,BlockedShot,0.965999984741211,0.5670000076293945,0.11511484533548355,Christian Noboa,h,2771,FromCorner,2015,Head,2460,FC Rostov,Dinamo Moscow,1,0,2015-11-02 20:30:00,Dmitriy Poloz,Cross
+73230,58,MissedShots,0.95,0.5729999923706055,0.13310375809669495,Christian Noboa,h,2771,FromCorner,2015,RightFoot,2460,FC Rostov,Dinamo Moscow,1,0,2015-11-02 20:30:00,,Rebound
+73232,67,MissedShots,0.875,0.36700000762939455,0.057599253952503204,Pavel Mogilevets,h,2773,SetPiece,2015,RightFoot,2460,FC Rostov,Dinamo Moscow,1,0,2015-11-02 20:30:00,,None
+73217,20,SavedShot,0.879000015258789,0.664000015258789,0.06763830780982971,Aleksey Ionov,a,2751,OpenPlay,2015,RightFoot,2460,FC Rostov,Dinamo Moscow,1,0,2015-11-02 20:30:00,Gregory Morozov,TakeOn
+73218,22,MissedShots,0.91,0.49,0.09357387572526932,Pavel Pogrebnyak,a,2830,OpenPlay,2015,Head,2460,FC Rostov,Dinamo Moscow,1,0,2015-11-02 20:30:00,Aleksey Ionov,Cross
+73219,32,MissedShots,0.750999984741211,0.4809999847412109,0.01996200904250145,Igor Denisov,a,2749,OpenPlay,2015,RightFoot,2460,FC Rostov,Dinamo Moscow,1,0,2015-11-02 20:30:00,Aleksey Ionov,Pass
+73220,34,BlockedShot,0.7280000305175781,0.59,0.014783266000449657,Igor Denisov,a,2749,OpenPlay,2015,LeftFoot,2460,FC Rostov,Dinamo Moscow,1,0,2015-11-02 20:30:00,Roman Zobnin,Pass
+73221,38,MissedShots,0.909000015258789,0.595999984741211,0.016534097492694855,Roman Zobnin,a,2750,SetPiece,2015,Head,2460,FC Rostov,Dinamo Moscow,1,0,2015-11-02 20:30:00,Aleksey Ionov,Aerial
+73231,62,SavedShot,0.76,0.40700000762939453,0.02178620919585228,Roman Zobnin,a,2750,OpenPlay,2015,RightFoot,2460,FC Rostov,Dinamo Moscow,1,0,2015-11-02 20:30:00,Alexander Tashaev,Pass
+73233,70,MissedShots,0.7719999694824219,0.33299999237060546,0.021579565480351448,Yuri Zhirkov,a,3058,OpenPlay,2015,LeftFoot,2460,FC Rostov,Dinamo Moscow,1,0,2015-11-02 20:30:00,Igor Denisov,Pass
+73234,73,MissedShots,0.865,0.37099998474121093,0.045964308083057404,Gregory Morozov,a,2755,FromCorner,2015,RightFoot,2460,FC Rostov,Dinamo Moscow,1,0,2015-11-02 20:30:00,,None
+73235,73,BlockedShot,0.8209999847412109,0.4779999923706055,0.048228669911623,Igor Denisov,a,2749,FromCorner,2015,RightFoot,2460,FC Rostov,Dinamo Moscow,1,0,2015-11-02 20:30:00,,Rebound
+73236,74,BlockedShot,0.889000015258789,0.610999984741211,0.07373282313346863,Aleksey Ionov,a,2751,OpenPlay,2015,RightFoot,2460,FC Rostov,Dinamo Moscow,1,0,2015-11-02 20:30:00,Alexander Tashaev,Pass
+73237,78,SavedShot,0.9430000305175781,0.669000015258789,0.06296125054359436,Yuri Zhirkov,a,3058,OpenPlay,2015,LeftFoot,2460,FC Rostov,Dinamo Moscow,1,0,2015-11-02 20:30:00,Alexander Tashaev,Pass
+73238,84,ShotOnPost,0.9180000305175782,0.5329999923706055,0.05106595158576965,Roman Zobnin,a,2750,OpenPlay,2015,Head,2460,FC Rostov,Dinamo Moscow,1,0,2015-11-02 20:30:00,Gregory Morozov,Chipped
+73239,92,MissedShots,0.8569999694824219,0.4370000076293945,0.06487970799207687,Yuri Zhirkov,a,3058,SetPiece,2015,LeftFoot,2460,FC Rostov,Dinamo Moscow,1,0,2015-11-02 20:30:00,Gregory Morozov,Chipped

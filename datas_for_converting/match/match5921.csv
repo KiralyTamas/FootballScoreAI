@@ -1,0 +1,24 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+6930,4,MissedShots,0.7519999694824219,0.4879999923706055,0.017882805317640305,Óscar Trejo,h,3208,FromCorner,2014,LeftFoot,5921,Toulouse,Nantes,1,1,2015-04-25 19:00:00,,None
+6931,10,SavedShot,0.9069999694824219,0.62,0.35091009736061096,Martin Braithwaite,h,3211,OpenPlay,2014,RightFoot,5921,Toulouse,Nantes,1,1,2015-04-25 19:00:00,Yann Bodiger,TakeOn
+6932,11,MissedShots,0.789000015258789,0.81,0.015468349680304527,Adrien Regattin,h,3213,FromCorner,2014,RightFoot,5921,Toulouse,Nantes,1,1,2015-04-25 19:00:00,Óscar Trejo,Pass
+6933,12,MissedShots,0.9369999694824219,0.5129999923706055,0.1306067258119583,Marcel Tisserand,h,3216,FromCorner,2014,RightFoot,5921,Toulouse,Nantes,1,1,2015-04-25 19:00:00,Adrien Regattin,Cross
+6936,21,Goal,0.8540000152587891,0.34400001525878904,0.05973654240369797,Adrien Regattin,h,3213,OpenPlay,2014,RightFoot,5921,Toulouse,Nantes,1,1,2015-04-25 19:00:00,Martin Braithwaite,Pass
+6938,29,SavedShot,0.9330000305175781,0.6469999694824219,0.02140338346362114,Óscar Trejo,h,3208,OpenPlay,2014,Head,5921,Toulouse,Nantes,1,1,2015-04-25 19:00:00,Adrien Regattin,Cross
+6940,47,MissedShots,0.8530000305175781,0.3039999961853027,0.12861843407154083,Martin Braithwaite,h,3211,OpenPlay,2014,RightFoot,5921,Toulouse,Nantes,1,1,2015-04-25 19:00:00,Adrien Regattin,Throughball
+6942,51,MissedShots,0.6919999694824219,0.4229999923706055,0.03536398708820343,Adrien Regattin,h,3213,DirectFreekick,2014,RightFoot,5921,Toulouse,Nantes,1,1,2015-04-25 19:00:00,,Standard
+6943,54,ShotOnPost,0.9080000305175782,0.545,0.023816002532839775,Jean-Daniel Akpa-Akpro,h,3209,FromCorner,2014,Head,5921,Toulouse,Nantes,1,1,2015-04-25 19:00:00,Adrien Regattin,Aerial
+6946,66,MissedShots,0.8719999694824219,0.585,0.03422250598669052,Jean-Daniel Akpa-Akpro,h,3209,SetPiece,2014,RightFoot,5921,Toulouse,Nantes,1,1,2015-04-25 19:00:00,,Aerial
+6952,90,BlockedShot,0.875,0.46099998474121096,0.01284896768629551,Jean-Daniel Akpa-Akpro,h,3209,SetPiece,2014,Head,5921,Toulouse,Nantes,1,1,2015-04-25 19:00:00,Óscar Trejo,Aerial
+6934,19,SavedShot,0.76,0.33099998474121095,0.01638299785554409,Serge Gakpe,a,1581,OpenPlay,2014,LeftFoot,5921,Toulouse,Nantes,1,1,2015-04-25 19:00:00,Alejandro Bedoya,Pass
+6935,20,MissedShots,0.7630000305175781,0.28600000381469726,0.01624123565852642,Jordan Veretout,a,677,OpenPlay,2014,RightFoot,5921,Toulouse,Nantes,1,1,2015-04-25 19:00:00,Oswaldo Vizcarrondo,HeadPass
+6937,24,MissedShots,0.884000015258789,0.5740000152587891,0.019524656236171722,Johan Audel,a,3409,OpenPlay,2014,Head,5921,Toulouse,Nantes,1,1,2015-04-25 19:00:00,Vincent Bessat,Aerial
+6939,46,MissedShots,0.884000015258789,0.3579999923706055,0.06256720423698425,Alejandro Bedoya,a,3405,OpenPlay,2014,RightFoot,5921,Toulouse,Nantes,1,1,2015-04-25 19:00:00,Issa Cissokho,Chipped
+6941,49,SavedShot,0.7140000152587891,0.55,0.0174504853785038,Serge Gakpe,a,1581,OpenPlay,2014,LeftFoot,5921,Toulouse,Nantes,1,1,2015-04-25 19:00:00,Jordan Veretout,Pass
+6944,56,MissedShots,0.850999984741211,0.3579999923706055,0.03573891893029213,Jordan Veretout,a,677,OpenPlay,2014,RightFoot,5921,Toulouse,Nantes,1,1,2015-04-25 19:00:00,Issa Cissokho,Cross
+6945,63,MissedShots,0.894000015258789,0.47099998474121096,0.05394019931554794,Alejandro Bedoya,a,3405,FromCorner,2014,Head,5921,Toulouse,Nantes,1,1,2015-04-25 19:00:00,Vincent Bessat,Cross
+6947,73,BlockedShot,0.7830000305175782,0.4929999923706055,0.03376886621117592,Jordan Veretout,a,677,OpenPlay,2014,RightFoot,5921,Toulouse,Nantes,1,1,2015-04-25 19:00:00,Valentin Rongier,Pass
+6948,75,MissedShots,0.975,0.655,0.036064185202121735,Yacine Bammou,a,3410,OpenPlay,2014,LeftFoot,5921,Toulouse,Nantes,1,1,2015-04-25 19:00:00,Valentin Rongier,Cross
+6949,80,MissedShots,0.7240000152587891,0.39299999237060546,0.015704015269875526,Alejandro Bedoya,a,3405,OpenPlay,2014,LeftFoot,5921,Toulouse,Nantes,1,1,2015-04-25 19:00:00,Issa Cissokho,Pass
+6950,84,MissedShots,0.6730000305175782,0.2979999923706055,0.011161934584379196,Valentin Rongier,a,3673,OpenPlay,2014,RightFoot,5921,Toulouse,Nantes,1,1,2015-04-25 19:00:00,Alejandro Bedoya,Pass
+6951,87,Goal,0.9180000305175782,0.5829999923706055,0.212836354970932,Alejandro Bedoya,a,3405,FromCorner,2014,Head,5921,Toulouse,Nantes,1,1,2015-04-25 19:00:00,Valentin Rongier,Cross

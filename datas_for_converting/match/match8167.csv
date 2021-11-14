@@ -1,0 +1,29 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+202101,3,SavedShot,0.7619999694824219,0.555,0.08139321208000183,Lionel Messi,h,2097,DirectFreekick,2017,LeftFoot,8167,Barcelona,Athletic Club,2,0,2018-03-18 15:15:00,,Standard
+202102,7,Goal,0.8959999847412109,0.54,0.4295065104961395,Paco Alcácer,h,2380,OpenPlay,2017,RightFoot,8167,Barcelona,Athletic Club,2,0,2018-03-18 15:15:00,Jordi Alba,Pass
+202103,10,SavedShot,0.725,0.5420000076293945,0.0238203015178442,Paulinho,h,4442,OpenPlay,2017,RightFoot,8167,Barcelona,Athletic Club,2,0,2018-03-18 15:15:00,Philippe Coutinho,Pass
+202104,11,SavedShot,0.815,0.45599998474121095,0.07490930706262589,Lionel Messi,h,2097,OpenPlay,2017,LeftFoot,8167,Barcelona,Athletic Club,2,0,2018-03-18 15:15:00,Ousmane Dembélé,Pass
+202105,11,SavedShot,0.9419999694824219,0.3029999923706055,0.060761477798223495,Lionel Messi,h,2097,OpenPlay,2017,RightFoot,8167,Barcelona,Athletic Club,2,0,2018-03-18 15:15:00,Ousmane Dembélé,Pass
+202106,13,ShotOnPost,0.905,0.6480000305175782,0.09167128801345825,Philippe Coutinho,h,488,OpenPlay,2017,LeftFoot,8167,Barcelona,Athletic Club,2,0,2018-03-18 15:15:00,Jordi Alba,Pass
+202107,13,BlockedShot,0.9169999694824219,0.41700000762939454,0.1346459537744522,Ousmane Dembélé,h,3226,OpenPlay,2017,LeftFoot,8167,Barcelona,Athletic Club,2,0,2018-03-18 15:15:00,,Rebound
+202108,17,MissedShots,0.7390000152587891,0.5770000076293945,0.016099262982606888,Jordi Alba,h,2093,FromCorner,2017,RightFoot,8167,Barcelona,Athletic Club,2,0,2018-03-18 15:15:00,,None
+202109,25,SavedShot,0.9640000152587891,0.5509999847412109,0.627011239528656,Ousmane Dembélé,h,3226,OpenPlay,2017,RightFoot,8167,Barcelona,Athletic Club,2,0,2018-03-18 15:15:00,Philippe Coutinho,Pass
+202110,29,Goal,0.8080000305175781,0.4779999923706055,0.06836272031068802,Lionel Messi,h,2097,OpenPlay,2017,LeftFoot,8167,Barcelona,Athletic Club,2,0,2018-03-18 15:15:00,Ousmane Dembélé,Pass
+202111,33,ShotOnPost,0.9690000152587891,0.5420000076293945,0.8544535636901855,Philippe Coutinho,h,488,OpenPlay,2017,RightFoot,8167,Barcelona,Athletic Club,2,0,2018-03-18 15:15:00,Paulinho,Throughball
+202112,41,BlockedShot,0.8119999694824219,0.6,0.06629610806703568,Lionel Messi,h,2097,OpenPlay,2017,LeftFoot,8167,Barcelona,Athletic Club,2,0,2018-03-18 15:15:00,Philippe Coutinho,Pass
+202113,43,ShotOnPost,0.8169999694824219,0.509000015258789,0.08869429677724838,Paulinho,h,4442,OpenPlay,2017,RightFoot,8167,Barcelona,Athletic Club,2,0,2018-03-18 15:15:00,Ousmane Dembélé,Pass
+202118,54,BlockedShot,0.7569999694824219,0.5370000076293945,0.07847460359334946,Lionel Messi,h,2097,DirectFreekick,2017,LeftFoot,8167,Barcelona,Athletic Club,2,0,2018-03-18 15:15:00,,Standard
+202119,54,BlockedShot,0.7569999694824219,0.5370000076293945,0.01692860759794712,Lionel Messi,h,2097,SetPiece,2017,LeftFoot,8167,Barcelona,Athletic Club,2,0,2018-03-18 15:15:00,,Rebound
+202120,57,SavedShot,0.8680000305175781,0.6409999847412109,0.08146192133426666,Philippe Coutinho,h,488,OpenPlay,2017,RightFoot,8167,Barcelona,Athletic Club,2,0,2018-03-18 15:15:00,Lionel Messi,Pass
+202125,80,SavedShot,0.799000015258789,0.4,0.028035994619131088,Lionel Messi,h,2097,FromCorner,2017,LeftFoot,8167,Barcelona,Athletic Club,2,0,2018-03-18 15:15:00,,None
+202127,87,MissedShots,0.8730000305175781,0.655,0.13001887500286102,Lionel Messi,h,2097,OpenPlay,2017,LeftFoot,8167,Barcelona,Athletic Club,2,0,2018-03-18 15:15:00,Ivan Rakitic,TakeOn
+202114,45,MissedShots,0.805,0.45799999237060546,0.03965350612998009,Íñigo Lekue,a,2403,OpenPlay,2017,RightFoot,8167,Barcelona,Athletic Club,2,0,2018-03-18 15:15:00,,None
+202115,50,MissedShots,0.8930000305175781,0.7140000152587891,0.06033465638756752,Sabin,a,2499,OpenPlay,2017,LeftFoot,8167,Barcelona,Athletic Club,2,0,2018-03-18 15:15:00,Markel Susaeta,Pass
+202116,52,BlockedShot,0.8390000152587891,0.415,0.064707450568676,Sabin,a,2499,OpenPlay,2017,RightFoot,8167,Barcelona,Athletic Club,2,0,2018-03-18 15:15:00,Raúl García,Pass
+202117,52,MissedShots,0.855999984741211,0.40599998474121096,0.01326175220310688,Unai Núñez,a,6149,FromCorner,2017,Head,8167,Barcelona,Athletic Club,2,0,2018-03-18 15:15:00,Markel Susaeta,Aerial
+202121,58,MissedShots,0.76,0.669000015258789,0.01869775913655758,Saborit,a,5063,OpenPlay,2017,LeftFoot,8167,Barcelona,Athletic Club,2,0,2018-03-18 15:15:00,Iturraspe,Pass
+202122,68,SavedShot,0.8209999847412109,0.5179999923706055,0.05910791829228401,Saborit,a,5063,OpenPlay,2017,RightFoot,8167,Barcelona,Athletic Club,2,0,2018-03-18 15:15:00,,Dispossessed
+202123,70,BlockedShot,0.8909999847412109,0.639000015258789,0.05155400186777115,Iñaki Williams,a,2399,FromCorner,2017,RightFoot,8167,Barcelona,Athletic Club,2,0,2018-03-18 15:15:00,Saborit,Pass
+202124,75,BlockedShot,0.899000015258789,0.43099998474121093,0.045630358159542084,Aduriz,a,2410,OpenPlay,2017,OtherBodyPart,8167,Barcelona,Athletic Club,2,0,2018-03-18 15:15:00,Raúl García,Aerial
+202126,85,SavedShot,0.8269999694824218,0.4540000152587891,0.06053375452756882,Aduriz,a,2410,OpenPlay,2017,RightFoot,8167,Barcelona,Athletic Club,2,0,2018-03-18 15:15:00,,Dispossessed
+202128,91,SavedShot,0.9259999847412109,0.5359999847412109,0.4910188317298889,Aduriz,a,2410,OpenPlay,2017,RightFoot,8167,Barcelona,Athletic Club,2,0,2018-03-18 15:15:00,Iñigo Martínez,Pass

@@ -1,0 +1,27 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+407624,12,MissedShots,0.9319999694824219,0.7169999694824218,0.015884816646575928,Alfonso,h,2521,OpenPlay,2020,Head,15027,Villarreal,Atletico Madrid,0,2,2021-02-28 20:00:00,Manu Trigueros,Chipped
+407625,14,SavedShot,0.7680000305175781,0.5129999923706055,0.029680496081709862,Daniel Parejo,h,2378,OpenPlay,2020,RightFoot,15027,Villarreal,Atletico Madrid,0,2,2021-02-28 20:00:00,Gerard Moreno,Pass
+407626,17,MissedShots,0.799000015258789,0.6609999847412109,0.03298697620630264,Samuel Chukwueze,h,7208,FromCorner,2020,LeftFoot,15027,Villarreal,Atletico Madrid,0,2,2021-02-28 20:00:00,Moi Gómez,Pass
+407627,21,MissedShots,0.7080000305175781,0.5570000076293945,0.013475337065756321,Alfonso,h,2521,FromCorner,2020,LeftFoot,15027,Villarreal,Atletico Madrid,0,2,2021-02-28 20:00:00,,None
+407630,24,OwnGoal,0.01100000023841858,0.4879999923706055,0,Alfonso,h,2521,FromCorner,2020,OtherBodyPart,15027,Villarreal,Atletico Madrid,0,2,2021-02-28 20:00:00,,None
+407631,27,BlockedShot,0.730999984741211,0.38299999237060545,0.019983818754553795,Manu Trigueros,h,2301,OpenPlay,2020,RightFoot,15027,Villarreal,Atletico Madrid,0,2,2021-02-28 20:00:00,Alfonso,Pass
+407632,31,SavedShot,0.88,0.43400001525878906,0.04134675860404968,Manu Trigueros,h,2301,OpenPlay,2020,Head,15027,Villarreal,Atletico Madrid,0,2,2021-02-28 20:00:00,Samuel Chukwueze,Cross
+407633,34,SavedShot,0.9780000305175781,0.5129999923706055,0.8534063100814819,Gerard Moreno,h,2120,SetPiece,2020,Head,15027,Villarreal,Atletico Madrid,0,2,2021-02-28 20:00:00,Daniel Parejo,Cross
+407634,35,MissedShots,0.74,0.49599998474121093,0.016964687034487724,Samuel Chukwueze,h,7208,FromCorner,2020,LeftFoot,15027,Villarreal,Atletico Madrid,0,2,2021-02-28 20:00:00,,None
+407636,39,BlockedShot,0.8809999847412109,0.3240000152587891,0.05975392088294029,Gerard Moreno,h,2120,OpenPlay,2020,LeftFoot,15027,Villarreal,Atletico Madrid,0,2,2021-02-28 20:00:00,Samuel Chukwueze,Pass
+407639,64,BlockedShot,0.8680000305175781,0.5929999923706055,0.041784971952438354,Gerard Moreno,h,2120,FromCorner,2020,LeftFoot,15027,Villarreal,Atletico Madrid,0,2,2021-02-28 20:00:00,Juan Foyth,Cross
+407640,64,BlockedShot,0.8640000152587891,0.57,0.07973843067884445,Gerard Moreno,h,2120,FromCorner,2020,RightFoot,15027,Villarreal,Atletico Madrid,0,2,2021-02-28 20:00:00,,Rebound
+407642,77,MissedShots,0.9259999847412109,0.48400001525878905,0.47998788952827454,Carlos Bacca,h,1125,OpenPlay,2020,RightFoot,15027,Villarreal,Atletico Madrid,0,2,2021-02-28 20:00:00,Gerard Moreno,Pass
+407643,81,ShotOnPost,0.7069999694824218,0.5609999847412109,0.023310471326112747,Álex Baena,h,8417,FromCorner,2020,RightFoot,15027,Villarreal,Atletico Madrid,0,2,2021-02-28 20:00:00,Jaume Costa,Pass
+407644,84,BlockedShot,0.8369999694824218,0.36400001525878906,0.04596971347928047,Samuel Chukwueze,h,7208,OpenPlay,2020,LeftFoot,15027,Villarreal,Atletico Madrid,0,2,2021-02-28 20:00:00,Juan Foyth,Pass
+407645,84,SavedShot,0.8109999847412109,0.49700000762939456,0.06320274621248245,Álex Baena,h,8417,OpenPlay,2020,RightFoot,15027,Villarreal,Atletico Madrid,0,2,2021-02-28 20:00:00,Carlos Bacca,LayOff
+407646,84,MissedShots,0.924000015258789,0.28200000762939453,0.020967429503798485,Jaume Costa,h,2539,FromCorner,2020,LeftFoot,15027,Villarreal,Atletico Madrid,0,2,2021-02-28 20:00:00,Álex Baena,HeadPass
+407647,85,SavedShot,0.8519999694824218,0.41200000762939454,0.07779613137245178,Daniel Parejo,h,2378,OpenPlay,2020,RightFoot,15027,Villarreal,Atletico Madrid,0,2,2021-02-28 20:00:00,Samuel Chukwueze,Pass
+407648,87,SavedShot,0.76,0.7669999694824219,0.009969795122742653,Carlos Bacca,h,1125,OpenPlay,2020,RightFoot,15027,Villarreal,Atletico Madrid,0,2,2021-02-28 20:00:00,Estupiñán,Pass
+407649,90,BlockedShot,0.7619999694824219,0.39099998474121095,0.01812472753226757,Gerard Moreno,h,2120,OpenPlay,2020,LeftFoot,15027,Villarreal,Atletico Madrid,0,2,2021-02-28 20:00:00,Samuel Chukwueze,Pass
+407628,23,SavedShot,0.78,0.2670000076293945,0.01690184883773327,Saúl Ñíguez,a,2266,OpenPlay,2020,LeftFoot,15027,Villarreal,Atletico Madrid,0,2,2021-02-28 20:00:00,Koke,Pass
+407629,24,SavedShot,0.9640000152587891,0.5659999847412109,0.2740916907787323,Stefan Savic,a,2263,FromCorner,2020,Head,15027,Villarreal,Atletico Madrid,0,2,2021-02-28 20:00:00,Thomas Lemar,Aerial
+407635,36,MissedShots,0.850999984741211,0.7090000152587891,0.023161141201853752,Mario Hermoso,a,6136,OpenPlay,2020,LeftFoot,15027,Villarreal,Atletico Madrid,0,2,2021-02-28 20:00:00,Marcos Llorente,Cross
+407637,53,SavedShot,0.9130000305175782,0.39799999237060546,0.42419761419296265,Luis Suárez,a,2098,OpenPlay,2020,RightFoot,15027,Villarreal,Atletico Madrid,0,2,2021-02-28 20:00:00,,BallTouch
+407638,58,SavedShot,0.7090000152587891,0.5,0.02100643701851368,Ángel Correa,a,2275,OpenPlay,2020,RightFoot,15027,Villarreal,Atletico Madrid,0,2,2021-02-28 20:00:00,Koke,Pass
+407641,68,Goal,0.8390000152587891,0.46,0.08040476590394974,João Félix,a,7892,OpenPlay,2020,RightFoot,15027,Villarreal,Atletico Madrid,0,2,2021-02-28 20:00:00,,None

@@ -1,0 +1,30 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+77349,12,BlockedShot,0.855999984741211,0.43400001525878906,0.06952912360429764,Genki Haraguchi,h,35,OpenPlay,2015,LeftFoot,1067,Hertha Berlin,FC Cologne,2,0,2015-09-22 22:00:00,,None
+77350,12,BlockedShot,0.8290000152587891,0.5640000152587891,0.05111348628997803,Vladimir Darida,h,27,OpenPlay,2015,RightFoot,1067,Hertha Berlin,FC Cologne,2,0,2015-09-22 22:00:00,,Rebound
+77353,22,MissedShots,0.925,0.42900001525878906,0.10632907599210739,Salomon Kalou,h,26,OpenPlay,2015,RightFoot,1067,Hertha Berlin,FC Cologne,2,0,2015-09-22 22:00:00,Genki Haraguchi,Cross
+77355,30,BlockedShot,0.8219999694824218,0.3220000076293945,0.03196047991514206,Mitchell Weiser,h,28,OpenPlay,2015,LeftFoot,1067,Hertha Berlin,FC Cologne,2,0,2015-09-22 22:00:00,Genki Haraguchi,Pass
+77357,39,SavedShot,0.9630000305175781,0.47200000762939454,0.1378171145915985,Vedad Ibisevic,h,29,FromCorner,2015,Head,1067,Hertha Berlin,FC Cologne,2,0,2015-09-22 22:00:00,Marvin Plattenhardt,Cross
+77358,39,MissedShots,0.9290000152587891,0.48400001525878905,0.06022200733423233,Niklas Stark,h,418,FromCorner,2015,Head,1067,Hertha Berlin,FC Cologne,2,0,2015-09-22 22:00:00,Marvin Plattenhardt,Aerial
+77360,42,Goal,0.9419999694824219,0.629000015258789,0.03646259382367134,Vedad Ibisevic,h,29,OpenPlay,2015,Head,1067,Hertha Berlin,FC Cologne,2,0,2015-09-22 22:00:00,Marvin Plattenhardt,Cross
+77361,48,BlockedShot,0.8590000152587891,0.3579999923706055,0.094752237200737,Salomon Kalou,h,26,OpenPlay,2015,LeftFoot,1067,Hertha Berlin,FC Cologne,2,0,2015-09-22 22:00:00,Vedad Ibisevic,TakeOn
+77362,48,SavedShot,0.8859999847412109,0.6120000076293945,0.09632742404937744,Vedad Ibisevic,h,29,OpenPlay,2015,RightFoot,1067,Hertha Berlin,FC Cologne,2,0,2015-09-22 22:00:00,Per Skjelbred,Chipped
+77365,52,MissedShots,0.8769999694824219,0.6990000152587891,0.054428473114967346,Salomon Kalou,h,26,OpenPlay,2015,LeftFoot,1067,Hertha Berlin,FC Cologne,2,0,2015-09-22 22:00:00,Valentin Stocker,Pass
+77366,56,MissedShots,0.894000015258789,0.605,0.10011371970176697,Valentin Stocker,h,32,OpenPlay,2015,RightFoot,1067,Hertha Berlin,FC Cologne,2,0,2015-09-22 22:00:00,,None
+77367,57,SavedShot,0.8830000305175781,0.265,0.041764017194509506,Genki Haraguchi,h,35,OpenPlay,2015,LeftFoot,1067,Hertha Berlin,FC Cologne,2,0,2015-09-22 22:00:00,Salomon Kalou,Pass
+77372,72,SavedShot,0.789000015258789,0.6170000076293946,0.04061105102300644,Vladimir Darida,h,27,OpenPlay,2015,LeftFoot,1067,Hertha Berlin,FC Cologne,2,0,2015-09-22 22:00:00,Alexander Baumjohann,Pass
+77374,92,SavedShot,0.8590000152587891,0.645,0.0657864362001419,Johannes van den Bergh,h,31,OpenPlay,2015,LeftFoot,1067,Hertha Berlin,FC Cologne,2,0,2015-09-22 22:00:00,Alexander Baumjohann,Pass
+77375,92,SavedShot,0.8769999694824219,0.36,0.07767141610383987,Tolga Cigerci,h,258,OpenPlay,2015,RightFoot,1067,Hertha Berlin,FC Cologne,2,0,2015-09-22 22:00:00,,None
+77376,93,Goal,0.8230000305175781,0.40400001525878904,0.28550076484680176,Vedad Ibisevic,h,29,OpenPlay,2015,RightFoot,1067,Hertha Berlin,FC Cologne,2,0,2015-09-22 22:00:00,Alexander Baumjohann,Pass
+77348,5,MissedShots,0.6759999847412109,0.5179999923706055,0.011316743679344654,Matthias Lehmann,a,132,OpenPlay,2015,RightFoot,1067,Hertha Berlin,FC Cologne,2,0,2015-09-22 22:00:00,Anthony Modeste,Pass
+77351,15,SavedShot,0.9069999694824219,0.455,0.21634729206562042,Kevin Vogt,a,133,SetPiece,2015,Head,1067,Hertha Berlin,FC Cologne,2,0,2015-09-22 22:00:00,Jonas Hector,Cross
+77352,16,SavedShot,0.965999984741211,0.49700000762939456,0.1272038221359253,Leonardo Bittencourt,a,262,OpenPlay,2015,RightFoot,1067,Hertha Berlin,FC Cologne,2,0,2015-09-22 22:00:00,Marcel Risse,HeadPass
+77354,27,MissedShots,0.7530000305175781,0.265,0.01574491150677204,Pawel Olkowski,a,128,OpenPlay,2015,RightFoot,1067,Hertha Berlin,FC Cologne,2,0,2015-09-22 22:00:00,Yuya Osako,Pass
+77356,33,ShotOnPost,0.7480000305175781,0.6509999847412109,0.019400034099817276,Leonardo Bittencourt,a,262,OpenPlay,2015,RightFoot,1067,Hertha Berlin,FC Cologne,2,0,2015-09-22 22:00:00,Jonas Hector,Pass
+77359,41,MissedShots,0.8969999694824219,0.5579999923706055,0.07228259742259979,Anthony Modeste,a,137,OpenPlay,2015,Head,1067,Hertha Berlin,FC Cologne,2,0,2015-09-22 22:00:00,Jonas Hector,Cross
+77363,49,MissedShots,0.909000015258789,0.425,0.07666265219449997,Anthony Modeste,a,137,OpenPlay,2015,Head,1067,Hertha Berlin,FC Cologne,2,0,2015-09-22 22:00:00,Marcel Risse,Cross
+77364,51,BlockedShot,0.9119999694824219,0.6759999847412109,0.06783948093652725,Leonardo Bittencourt,a,262,OpenPlay,2015,LeftFoot,1067,Hertha Berlin,FC Cologne,2,0,2015-09-22 22:00:00,Jonas Hector,Pass
+77368,63,SavedShot,0.9219999694824219,0.3039999961853027,0.04564677178859711,Simon Zoller,a,139,OpenPlay,2015,RightFoot,1067,Hertha Berlin,FC Cologne,2,0,2015-09-22 22:00:00,Leonardo Bittencourt,Pass
+77369,63,BlockedShot,0.9059999847412109,0.6029999923706054,0.12709195911884308,Yannick Gerhardt,a,140,OpenPlay,2015,Head,1067,Hertha Berlin,FC Cologne,2,0,2015-09-22 22:00:00,,Rebound
+77370,63,SavedShot,0.879000015258789,0.5779999923706055,0.03144506365060806,Anthony Modeste,a,137,OpenPlay,2015,Head,1067,Hertha Berlin,FC Cologne,2,0,2015-09-22 22:00:00,Yuya Osako,Cross
+77371,68,SavedShot,0.7880000305175782,0.5870000076293945,0.035112131386995316,Yannick Gerhardt,a,140,OpenPlay,2015,RightFoot,1067,Hertha Berlin,FC Cologne,2,0,2015-09-22 22:00:00,Yuya Osako,Pass
+77373,88,SavedShot,0.865999984741211,0.475,0.013294072821736336,Anthony Modeste,a,137,OpenPlay,2015,Head,1067,Hertha Berlin,FC Cologne,2,0,2015-09-22 22:00:00,Dominique Heintz,Aerial

@@ -1,0 +1,26 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+3,10,BlockedShot,0.8680000305175781,0.525,0.06934476643800735,Gaëtan Charbonnier,h,3243,OpenPlay,2014,RightFoot,6185,Reims,Paris Saint Germain,2,2,2014-08-08 19:30:00,,None
+4,11,MissedShots,0.745,0.5740000152587891,0.01812542788684368,Gaëtan Charbonnier,h,3243,OpenPlay,2014,LeftFoot,6185,Reims,Paris Saint Germain,2,2,2014-08-08 19:30:00,Johny Placide,Pass
+7,21,Goal,0.9540000152587891,0.534000015258789,0.5698883533477783,Prince Oniangué,h,3556,SetPiece,2014,RightFoot,6185,Reims,Paris Saint Germain,2,2,2014-08-08 19:30:00,Diego,Cross
+9,25,BlockedShot,0.8469999694824218,0.5329999923706055,0.06303274631500244,Grégory Bourillon,h,3497,SetPiece,2014,RightFoot,6185,Reims,Paris Saint Germain,2,2,2014-08-08 19:30:00,Odaïr Fortes,HeadPass
+10,33,Goal,0.8919999694824219,0.46,0.5275328159332275,Antoine Devaux,h,3240,OpenPlay,2014,LeftFoot,6185,Reims,Paris Saint Germain,2,2,2014-08-08 19:30:00,Gaëtan Charbonnier,Pass
+13,44,BlockedShot,0.8980000305175782,0.5309999847412109,0.04761381074786186,Prince Oniangué,h,3556,OpenPlay,2014,Head,6185,Reims,Paris Saint Germain,2,2,2014-08-08 19:30:00,Diego,End
+14,51,SavedShot,0.8280000305175781,0.765,0.0177267137914896,Diego,h,3242,OpenPlay,2014,LeftFoot,6185,Reims,Paris Saint Germain,2,2,2014-08-08 19:30:00,Mickaël Tacalfred,Aerial
+20,75,MissedShots,0.845,0.3129999923706055,0.03981003165245056,Odaïr Fortes,h,3247,OpenPlay,2014,LeftFoot,6185,Reims,Paris Saint Germain,2,2,2014-08-08 19:30:00,Prince Oniangué,Pass
+22,88,MissedShots,0.730999984741211,0.44400001525878907,0.014793112874031067,Antoine Devaux,h,3240,OpenPlay,2014,RightFoot,6185,Reims,Paris Saint Germain,2,2,2014-08-08 19:30:00,,None
+1,5,MissedShots,0.8980000305175782,0.7069999694824218,0.048068106174468994,Edinson Cavani,a,3294,OpenPlay,2014,LeftFoot,6185,Reims,Paris Saint Germain,2,2,2014-08-08 19:30:00,Zlatan Ibrahimovic,Pass
+2,6,Goal,0.9,0.6090000152587891,0.3810722529888153,Zlatan Ibrahimovic,a,1741,OpenPlay,2014,LeftFoot,6185,Reims,Paris Saint Germain,2,2,2014-08-08 19:30:00,Javier Pastore,Throughball
+5,17,ShotOnPost,0.919000015258789,0.5790000152587891,0.5708622932434082,Zlatan Ibrahimovic,a,1741,OpenPlay,2014,RightFoot,6185,Reims,Paris Saint Germain,2,2,2014-08-08 19:30:00,Marco Verratti,Pass
+6,18,SavedShot,0.885,0.5,0.7600951194763184,Zlatan Ibrahimovic,a,1741,Penalty,2014,RightFoot,6185,Reims,Paris Saint Germain,2,2,2014-08-08 19:30:00,,Standard
+8,24,MissedShots,0.92,0.6519999694824219,0.2859265208244324,Edinson Cavani,a,3294,OpenPlay,2014,LeftFoot,6185,Reims,Paris Saint Germain,2,2,2014-08-08 19:30:00,Javier Pastore,Pass
+11,36,MissedShots,0.765,0.3290000152587891,0.01662011817097664,Lucas Moura,a,3293,OpenPlay,2014,RightFoot,6185,Reims,Paris Saint Germain,2,2,2014-08-08 19:30:00,,None
+12,43,MissedShots,0.924000015258789,0.669000015258789,0.05450637638568878,Edinson Cavani,a,3294,OpenPlay,2014,RightFoot,6185,Reims,Paris Saint Germain,2,2,2014-08-08 19:30:00,,None
+15,55,BlockedShot,0.720999984741211,0.6120000076293945,0.043886616826057434,Zlatan Ibrahimovic,a,1741,DirectFreekick,2014,RightFoot,6185,Reims,Paris Saint Germain,2,2,2014-08-08 19:30:00,,Standard
+16,62,Goal,0.9890000152587891,0.7519999694824219,0.027277294546365738,Zlatan Ibrahimovic,a,1741,OpenPlay,2014,LeftFoot,6185,Reims,Paris Saint Germain,2,2,2014-08-08 19:30:00,Javier Pastore,Chipped
+17,66,MissedShots,0.7080000305175781,0.600999984741211,0.03954409807920456,Zlatan Ibrahimovic,a,1741,DirectFreekick,2014,RightFoot,6185,Reims,Paris Saint Germain,2,2,2014-08-08 19:30:00,,Standard
+18,68,MissedShots,0.899000015258789,0.500999984741211,0.2793820798397064,Javier Pastore,a,3295,OpenPlay,2014,Head,6185,Reims,Paris Saint Germain,2,2,2014-08-08 19:30:00,Gregory Van der Wiel,Cross
+19,75,MissedShots,0.7180000305175781,0.6469999694824219,0.015437985770404339,Javier Pastore,a,3295,OpenPlay,2014,RightFoot,6185,Reims,Paris Saint Germain,2,2,2014-08-08 19:30:00,Marco Verratti,Pass
+21,77,SavedShot,0.7719999694824219,0.7069999694824218,0.014965931884944439,Edinson Cavani,a,3294,OpenPlay,2014,RightFoot,6185,Reims,Paris Saint Germain,2,2,2014-08-08 19:30:00,,TakeOn
+23,89,MissedShots,0.9490000152587891,0.3120000076293945,0.012133019976317883,Edinson Cavani,a,3294,FromCorner,2014,Head,6185,Reims,Paris Saint Germain,2,2,2014-08-08 19:30:00,Thiago Motta,Aerial
+24,93,BlockedShot,0.9069999694824219,0.37099998474121093,0.09211508929729462,Clément Chantôme,a,3258,OpenPlay,2014,RightFoot,6185,Reims,Paris Saint Germain,2,2,2014-08-08 19:30:00,Javier Pastore,Pass
+25,93,BlockedShot,0.8780000305175781,0.3770000076293945,0.01349189504981041,Zlatan Ibrahimovic,a,1741,OpenPlay,2014,Head,6185,Reims,Paris Saint Germain,2,2,2014-08-08 19:30:00,Lucas Digne,Aerial

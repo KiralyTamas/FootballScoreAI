@@ -1,0 +1,32 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+227836,18,SavedShot,0.8919999694824219,0.6229999923706054,0.05631926283240318,Florian Grillitsch,h,116,OpenPlay,2018,RightFoot,10385,Hoffenheim,RasenBallsport Leipzig,1,2,2018-09-29 13:30:00,Pavel Kaderábek,Cross
+227837,18,ShotOnPost,0.9440000152587891,0.45799999237060546,0.08775249123573303,Ishak Belfodil,h,3834,OpenPlay,2018,Head,10385,Hoffenheim,RasenBallsport Leipzig,1,2,2018-09-29 13:30:00,Florian Grillitsch,Aerial
+227840,36,MissedShots,0.8909999847412109,0.3920000076293945,0.06558269262313843,Ádám Szalai,h,360,OpenPlay,2018,RightFoot,10385,Hoffenheim,RasenBallsport Leipzig,1,2,2018-09-29 13:30:00,Pavel Kaderábek,Chipped
+227845,43,MissedShots,0.8830000305175781,0.620999984741211,0.09118424355983734,Nico Schulz,h,433,OpenPlay,2018,LeftFoot,10385,Hoffenheim,RasenBallsport Leipzig,1,2,2018-09-29 13:30:00,Ádám Szalai,Pass
+227851,55,SavedShot,0.7530000305175781,0.5179999923706055,0.014879914000630379,Florian Grillitsch,h,116,OpenPlay,2018,LeftFoot,10385,Hoffenheim,RasenBallsport Leipzig,1,2,2018-09-29 13:30:00,Andrej Kramaric,HeadPass
+227852,59,BlockedShot,0.8590000152587891,0.655,0.0540473647415638,Kerem Demirbay,h,5273,OpenPlay,2018,LeftFoot,10385,Hoffenheim,RasenBallsport Leipzig,1,2,2018-09-29 13:30:00,Nico Schulz,Pass
+227853,59,MissedShots,0.7609999847412109,0.21600000381469728,0.013618567027151585,Kerem Demirbay,h,5273,OpenPlay,2018,LeftFoot,10385,Hoffenheim,RasenBallsport Leipzig,1,2,2018-09-29 13:30:00,Pavel Kaderábek,Pass
+227854,64,SavedShot,0.8980000305175782,0.48400001525878905,0.4366299510002136,Ádám Szalai,h,360,OpenPlay,2018,RightFoot,10385,Hoffenheim,RasenBallsport Leipzig,1,2,2018-09-29 13:30:00,Ishak Belfodil,Pass
+227860,74,SavedShot,0.909000015258789,0.759000015258789,0.0308875422924757,Nico Schulz,h,433,OpenPlay,2018,LeftFoot,10385,Hoffenheim,RasenBallsport Leipzig,1,2,2018-09-29 13:30:00,Joelinton,Pass
+227861,84,BlockedShot,0.7580000305175781,0.4209999847412109,0.018072035163640976,Andrej Kramaric,h,956,OpenPlay,2018,LeftFoot,10385,Hoffenheim,RasenBallsport Leipzig,1,2,2018-09-29 13:30:00,Vincenzo Grifo,Chipped
+227862,84,SavedShot,0.82,0.49900001525878906,0.06971808522939682,Joelinton,h,87,OpenPlay,2018,RightFoot,10385,Hoffenheim,RasenBallsport Leipzig,1,2,2018-09-29 13:30:00,Vincenzo Grifo,Pass
+227863,85,MissedShots,0.9440000152587891,0.5179999923706055,0.07573768496513367,Ishak Belfodil,h,3834,OpenPlay,2018,RightFoot,10385,Hoffenheim,RasenBallsport Leipzig,1,2,2018-09-29 13:30:00,Andrej Kramaric,Aerial
+227864,92,Goal,0.885,0.5,0.75777667760849,Andrej Kramaric,h,956,Penalty,2018,RightFoot,10385,Hoffenheim,RasenBallsport Leipzig,1,2,2018-09-29 13:30:00,,Standard
+227835,5,SavedShot,0.7830000305175782,0.6509999847412109,0.03033311478793621,Timo Werner,a,65,OpenPlay,2018,RightFoot,10385,Hoffenheim,RasenBallsport Leipzig,1,2,2018-09-29 13:30:00,Diego Demme,Chipped
+227838,23,MissedShots,0.93,0.6719999694824219,0.08216077089309692,Timo Werner,a,65,OpenPlay,2018,LeftFoot,10385,Hoffenheim,RasenBallsport Leipzig,1,2,2018-09-29 13:30:00,,TakeOn
+227839,29,SavedShot,0.8959999847412109,0.44299999237060544,0.03209954872727394,Yussuf Poulsen,a,5250,OpenPlay,2018,Head,10385,Hoffenheim,RasenBallsport Leipzig,1,2,2018-09-29 13:30:00,Diego Demme,Aerial
+227841,38,BlockedShot,0.774000015258789,0.4779999923706055,0.03435201942920685,Timo Werner,a,65,OpenPlay,2018,RightFoot,10385,Hoffenheim,RasenBallsport Leipzig,1,2,2018-09-29 13:30:00,,BallRecovery
+227842,40,SavedShot,0.775,0.655,0.020050089806318283,Kevin Kampl,a,188,OpenPlay,2018,RightFoot,10385,Hoffenheim,RasenBallsport Leipzig,1,2,2018-09-29 13:30:00,Timo Werner,Pass
+227843,41,MissedShots,0.850999984741211,0.3189999961853027,0.044905852526426315,Konrad Laimer,a,6109,OpenPlay,2018,RightFoot,10385,Hoffenheim,RasenBallsport Leipzig,1,2,2018-09-29 13:30:00,Yussuf Poulsen,Pass
+227844,42,BlockedShot,0.925,0.445,0.10628373175859451,Timo Werner,a,65,OpenPlay,2018,RightFoot,10385,Hoffenheim,RasenBallsport Leipzig,1,2,2018-09-29 13:30:00,Yussuf Poulsen,Cross
+227846,44,MissedShots,0.960999984741211,0.6229999923706054,0.07745926082134247,Marcel Sabitzer,a,5248,OpenPlay,2018,RightFoot,10385,Hoffenheim,RasenBallsport Leipzig,1,2,2018-09-29 13:30:00,Timo Werner,Chipped
+227847,45,BlockedShot,0.8830000305175781,0.46700000762939453,0.08753100037574768,Yussuf Poulsen,a,5250,OpenPlay,2018,RightFoot,10385,Hoffenheim,RasenBallsport Leipzig,1,2,2018-09-29 13:30:00,Konrad Laimer,Cross
+227848,48,MissedShots,0.8969999694824219,0.7019999694824218,0.047363415360450745,Timo Werner,a,65,OpenPlay,2018,LeftFoot,10385,Hoffenheim,RasenBallsport Leipzig,1,2,2018-09-29 13:30:00,Kevin Kampl,Pass
+227849,49,BlockedShot,0.870999984741211,0.624000015258789,0.10235268622636795,Timo Werner,a,65,OpenPlay,2018,RightFoot,10385,Hoffenheim,RasenBallsport Leipzig,1,2,2018-09-29 13:30:00,Kevin Kampl,Pass
+227850,52,Goal,0.899000015258789,0.40799999237060547,0.11127043515443802,Yussuf Poulsen,a,5250,OpenPlay,2018,RightFoot,10385,Hoffenheim,RasenBallsport Leipzig,1,2,2018-09-29 13:30:00,Timo Werner,Pass
+227855,65,ShotOnPost,0.855999984741211,0.355,0.07034923881292343,Yussuf Poulsen,a,5250,OpenPlay,2018,RightFoot,10385,Hoffenheim,RasenBallsport Leipzig,1,2,2018-09-29 13:30:00,,None
+227856,68,SavedShot,0.8780000305175781,0.685,0.07193167507648468,Kevin Kampl,a,188,OpenPlay,2018,LeftFoot,10385,Hoffenheim,RasenBallsport Leipzig,1,2,2018-09-29 13:30:00,Yussuf Poulsen,Pass
+227857,71,BlockedShot,0.875,0.3039999961853027,0.10773151367902756,Jean-Kevin Augustin,a,3299,OpenPlay,2018,RightFoot,10385,Hoffenheim,RasenBallsport Leipzig,1,2,2018-09-29 13:30:00,,None
+227858,72,BlockedShot,0.8769999694824219,0.3890000152587891,0.043411146849393845,Diego Demme,a,5246,FromCorner,2018,RightFoot,10385,Hoffenheim,RasenBallsport Leipzig,1,2,2018-09-29 13:30:00,Kevin Kampl,Cross
+227859,72,Goal,0.92,0.524000015258789,0.32089075446128845,Yussuf Poulsen,a,5250,OpenPlay,2018,OtherBodyPart,10385,Hoffenheim,RasenBallsport Leipzig,1,2,2018-09-29 13:30:00,Kevin Kampl,Cross
+227865,94,SavedShot,0.8209999847412109,0.54,0.08239433914422989,Matheus Cunha,a,7080,OpenPlay,2018,RightFoot,10385,Hoffenheim,RasenBallsport Leipzig,1,2,2018-09-29 13:30:00,Jean-Kevin Augustin,Pass

@@ -1,0 +1,34 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+429888,8,MissedShots,0.9780000305175781,0.33799999237060546,0.05710771679878235,Cristiano Ronaldo,h,2371,OpenPlay,2021,LeftFoot,16410,Manchester United,Newcastle United,4,1,2021-09-11 14:00:00,,None
+429889,10,MissedShots,0.9719999694824218,0.72,0.03967716544866562,Cristiano Ronaldo,h,2371,OpenPlay,2021,LeftFoot,16410,Manchester United,Newcastle United,4,1,2021-09-11 14:00:00,Jadon Sancho,Pass
+429891,18,MissedShots,0.93,0.615999984741211,0.2196536362171173,Raphael Varane,h,2245,FromCorner,2021,Head,16410,Manchester United,Newcastle United,4,1,2021-09-11 14:00:00,Luke Shaw,Cross
+429892,22,BlockedShot,0.7659999847412109,0.5209999847412109,0.02690538763999939,Cristiano Ronaldo,h,2371,OpenPlay,2021,LeftFoot,16410,Manchester United,Newcastle United,4,1,2021-09-11 14:00:00,,None
+429895,25,MissedShots,0.49400001525878906,0.8,0.006393305491656065,Bruno Fernandes,h,1228,OpenPlay,2021,RightFoot,16410,Manchester United,Newcastle United,4,1,2021-09-11 14:00:00,Jadon Sancho,Pass
+429897,28,MissedShots,0.7180000305175781,0.8040000152587891,0.009297531098127365,Bruno Fernandes,h,1228,OpenPlay,2021,RightFoot,16410,Manchester United,Newcastle United,4,1,2021-09-11 14:00:00,Nemanja Matic,Pass
+429898,29,MissedShots,0.7440000152587891,0.4520000076293945,0.021525660529732704,Bruno Fernandes,h,1228,OpenPlay,2021,RightFoot,16410,Manchester United,Newcastle United,4,1,2021-09-11 14:00:00,Cristiano Ronaldo,Pass
+429899,29,MissedShots,0.8919999694824219,0.514000015258789,0.36967241764068604,Jadon Sancho,h,6345,OpenPlay,2021,LeftFoot,16410,Manchester United,Newcastle United,4,1,2021-09-11 14:00:00,Bruno Fernandes,Rebound
+429900,31,BlockedShot,0.850999984741211,0.5270000076293946,0.12869620323181152,Jadon Sancho,h,6345,OpenPlay,2021,RightFoot,16410,Manchester United,Newcastle United,4,1,2021-09-11 14:00:00,Bruno Fernandes,Pass
+429901,31,SavedShot,0.905,0.42400001525878905,0.0428294837474823,Harry Maguire,h,1687,FromCorner,2021,Head,16410,Manchester United,Newcastle United,4,1,2021-09-11 14:00:00,Luke Shaw,Cross
+429903,38,BlockedShot,0.94,0.34200000762939453,0.10827520489692688,Cristiano Ronaldo,h,2371,OpenPlay,2021,RightFoot,16410,Manchester United,Newcastle United,4,1,2021-09-11 14:00:00,Nemanja Matic,Pass
+429904,42,BlockedShot,0.7319999694824219,0.3820000076293945,0.014674883335828781,Nemanja Matic,h,697,OpenPlay,2021,LeftFoot,16410,Manchester United,Newcastle United,4,1,2021-09-11 14:00:00,Aaron Wan-Bissaka,Pass
+429905,46,SavedShot,0.8019999694824219,0.17600000381469727,0.01569303870201111,Mason Greenwood,h,7490,OpenPlay,2021,LeftFoot,16410,Manchester United,Newcastle United,4,1,2021-09-11 14:00:00,Paul Pogba,Pass
+429906,46,Goal,0.975999984741211,0.5159999847412109,0.8878591656684875,Cristiano Ronaldo,h,2371,OpenPlay,2021,RightFoot,16410,Manchester United,Newcastle United,4,1,2021-09-11 14:00:00,,Rebound
+429907,53,MissedShots,0.6969999694824218,0.4879999923706055,0.015524985268712044,Nemanja Matic,h,697,OpenPlay,2021,LeftFoot,16410,Manchester United,Newcastle United,4,1,2021-09-11 14:00:00,Mason Greenwood,Pass
+429909,58,BlockedShot,0.7869999694824219,0.4179999923706055,0.030891114845871925,Bruno Fernandes,h,1228,OpenPlay,2021,RightFoot,16410,Manchester United,Newcastle United,4,1,2021-09-11 14:00:00,Mason Greenwood,Pass
+429910,61,Goal,0.9230000305175782,0.6320000076293946,0.301787406206131,Cristiano Ronaldo,h,2371,OpenPlay,2021,LeftFoot,16410,Manchester United,Newcastle United,4,1,2021-09-11 14:00:00,Luke Shaw,Pass
+429911,65,MissedShots,0.905,0.519000015258789,0.07033836096525192,Raphael Varane,h,2245,FromCorner,2021,Head,16410,Manchester United,Newcastle United,4,1,2021-09-11 14:00:00,Luke Shaw,Cross
+429914,75,BlockedShot,0.8619999694824219,0.285,0.027711540460586548,Mason Greenwood,h,7490,FromCorner,2021,RightFoot,16410,Manchester United,Newcastle United,4,1,2021-09-11 14:00:00,,TakeOn
+429917,79,Goal,0.7559999847412109,0.49900001525878906,0.03161231800913811,Bruno Fernandes,h,1228,OpenPlay,2021,RightFoot,16410,Manchester United,Newcastle United,4,1,2021-09-11 14:00:00,Paul Pogba,Pass
+429919,91,Goal,0.865,0.5220000076293946,0.3690219819545746,Jesse Lingard,h,558,OpenPlay,2021,RightFoot,16410,Manchester United,Newcastle United,4,1,2021-09-11 14:00:00,Paul Pogba,Pass
+429887,6,MissedShots,0.86,0.675,0.07089488953351974,Joelinton,a,87,OpenPlay,2021,RightFoot,16410,Manchester United,Newcastle United,4,1,2021-09-11 14:00:00,,TakeOn
+429890,14,BlockedShot,0.7669999694824219,0.72,0.016307858750224113,Matt Ritchie,a,461,OpenPlay,2021,LeftFoot,16410,Manchester United,Newcastle United,4,1,2021-09-11 14:00:00,Allan Saint-Maximin,Pass
+429893,22,BlockedShot,0.7440000152587891,0.31,0.011346794664859772,Miguel Almirón,a,7420,OpenPlay,2021,LeftFoot,16410,Manchester United,Newcastle United,4,1,2021-09-11 14:00:00,,None
+429894,22,MissedShots,0.784000015258789,0.6990000152587891,0.014496681280434132,Matt Ritchie,a,461,OpenPlay,2021,LeftFoot,16410,Manchester United,Newcastle United,4,1,2021-09-11 14:00:00,,Rebound
+429896,27,MissedShots,0.9269999694824219,0.33,0.068060502409935,Joe Willock,a,6630,OpenPlay,2021,RightFoot,16410,Manchester United,Newcastle United,4,1,2021-09-11 14:00:00,,BallRecovery
+429902,35,MissedShots,0.765,0.7069999694824218,0.015107756480574608,Allan Saint-Maximin,a,101,SetPiece,2021,RightFoot,16410,Manchester United,Newcastle United,4,1,2021-09-11 14:00:00,Ciaran Clark,Pass
+429908,55,Goal,0.9330000305175781,0.32799999237060545,0.26494351029396057,Javier Manquillo,a,1719,OpenPlay,2021,RightFoot,16410,Manchester United,Newcastle United,4,1,2021-09-11 14:00:00,Allan Saint-Maximin,Pass
+429912,66,SavedShot,0.8719999694824219,0.66,0.06030659377574921,Joelinton,a,87,OpenPlay,2021,RightFoot,16410,Manchester United,Newcastle United,4,1,2021-09-11 14:00:00,Matt Ritchie,Pass
+429913,68,MissedShots,0.6980000305175781,0.725999984741211,0.006815006490796804,Allan Saint-Maximin,a,101,OpenPlay,2021,RightFoot,16410,Manchester United,Newcastle United,4,1,2021-09-11 14:00:00,Miguel Almirón,TakeOn
+429915,78,BlockedShot,0.7390000152587891,0.47900001525878905,0.020885728299617767,Allan Saint-Maximin,a,101,OpenPlay,2021,RightFoot,16410,Manchester United,Newcastle United,4,1,2021-09-11 14:00:00,Matt Ritchie,Pass
+429916,79,SavedShot,0.705999984741211,0.4640000152587891,0.013165773823857307,Joe Willock,a,6630,FromCorner,2021,LeftFoot,16410,Manchester United,Newcastle United,4,1,2021-09-11 14:00:00,,None
+429918,86,MissedShots,0.9119999694824219,0.5929999923706055,0.05987533554434776,Joelinton,a,87,OpenPlay,2021,Head,16410,Manchester United,Newcastle United,4,1,2021-09-11 14:00:00,Allan Saint-Maximin,Cross

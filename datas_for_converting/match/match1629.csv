@@ -1,0 +1,30 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+89625,2,Goal,0.8830000305175781,0.6659999847412109,0.29392847418785095,Cristiano Ronaldo,h,2371,OpenPlay,2015,RightFoot,1629,Real Madrid,Athletic Club,4,2,2016-02-13 19:00:00,Karim Benzema,TakeOn
+89627,8,SavedShot,0.9219999694824219,0.4279999923706055,0.10364025831222534,Mateo Kovacic,h,2254,OpenPlay,2015,RightFoot,1629,Real Madrid,Athletic Club,4,2,2016-02-13 19:00:00,,None
+89630,23,SavedShot,0.9259999847412109,0.35900001525878905,0.023509427905082703,Danilo,h,2244,OpenPlay,2015,Head,1629,Real Madrid,Athletic Club,4,2,2016-02-13 19:00:00,,None
+89632,29,SavedShot,0.8109999847412109,0.6759999847412109,0.025990396738052368,Cristiano Ronaldo,h,2371,OpenPlay,2015,RightFoot,1629,Real Madrid,Athletic Club,4,2,2016-02-13 19:00:00,Mateo Kovacic,TakeOn
+89633,32,BlockedShot,0.8959999847412109,0.51,0.1287374496459961,James Rodríguez,h,2249,OpenPlay,2015,LeftFoot,1629,Real Madrid,Athletic Club,4,2,2016-02-13 19:00:00,Daniel Carvajal,Pass
+89635,34,BlockedShot,0.779000015258789,0.5640000152587891,0.035140033811330795,Mateo Kovacic,h,2254,OpenPlay,2015,RightFoot,1629,Real Madrid,Athletic Club,4,2,2016-02-13 19:00:00,,BallRecovery
+89637,36,Goal,0.7719999694824219,0.41700000762939454,0.028175048530101776,James Rodríguez,h,2249,OpenPlay,2015,LeftFoot,1629,Real Madrid,Athletic Club,4,2,2016-02-13 19:00:00,Danilo,Pass
+89640,43,MissedShots,0.7619999694824219,0.5420000076293945,0.020475436002016068,Mateo Kovacic,h,2254,FromCorner,2015,RightFoot,1629,Real Madrid,Athletic Club,4,2,2016-02-13 19:00:00,,None
+89641,44,Goal,0.8719999694824219,0.585,0.11183151602745056,Toni Kroos,h,2369,OpenPlay,2015,RightFoot,1629,Real Madrid,Athletic Club,4,2,2016-02-13 19:00:00,Cristiano Ronaldo,Pass
+89642,52,BlockedShot,0.8090000152587891,0.73,0.07073106616735458,Cristiano Ronaldo,h,2371,DirectFreekick,2015,RightFoot,1629,Real Madrid,Athletic Club,4,2,2016-02-13 19:00:00,,Standard
+89643,52,MissedShots,0.825,0.6659999847412109,0.024545947089791298,Cristiano Ronaldo,h,2371,SetPiece,2015,RightFoot,1629,Real Madrid,Athletic Club,4,2,2016-02-13 19:00:00,,Rebound
+89644,55,MissedShots,0.7659999847412109,0.7069999694824218,0.020043998956680298,Karim Benzema,h,2370,OpenPlay,2015,RightFoot,1629,Real Madrid,Athletic Club,4,2,2016-02-13 19:00:00,Daniel Carvajal,Pass
+89646,66,MissedShots,0.7930000305175782,0.5209999847412109,0.05730230733752251,Mateo Kovacic,h,2254,OpenPlay,2015,RightFoot,1629,Real Madrid,Athletic Club,4,2,2016-02-13 19:00:00,Luka Modric,Pass
+89647,79,BlockedShot,0.845,0.4490000152587891,0.11540050804615021,James Rodríguez,h,2249,OpenPlay,2015,LeftFoot,1629,Real Madrid,Athletic Club,4,2,2016-02-13 19:00:00,Cristiano Ronaldo,Pass
+89648,80,SavedShot,0.8490000152587891,0.67,0.06365758925676346,Cristiano Ronaldo,h,2371,OpenPlay,2015,RightFoot,1629,Real Madrid,Athletic Club,4,2,2016-02-13 19:00:00,Isco,Pass
+89649,81,MissedShots,0.8680000305175781,0.5609999847412109,0.09057765454053879,Karim Benzema,h,2370,OpenPlay,2015,RightFoot,1629,Real Madrid,Athletic Club,4,2,2016-02-13 19:00:00,Nacho,Cross
+89650,86,Goal,0.915,0.5609999847412109,0.44560933113098145,Cristiano Ronaldo,h,2371,OpenPlay,2015,RightFoot,1629,Real Madrid,Athletic Club,4,2,2016-02-13 19:00:00,Lucas Vázquez,TakeOn
+89651,87,BlockedShot,0.8169999694824219,0.475,0.08851535618305206,Isco,h,2255,OpenPlay,2015,RightFoot,1629,Real Madrid,Athletic Club,4,2,2016-02-13 19:00:00,Karim Benzema,Pass
+89652,87,SavedShot,0.91,0.6120000076293945,0.3773740828037262,Cristiano Ronaldo,h,2371,OpenPlay,2015,RightFoot,1629,Real Madrid,Athletic Club,4,2,2016-02-13 19:00:00,,Rebound
+89626,7,MissedShots,0.909000015258789,0.46,0.09832435846328735,Aduriz,a,2410,OpenPlay,2015,Head,1629,Real Madrid,Athletic Club,4,2,2016-02-13 19:00:00,Sabin,Cross
+89628,9,Goal,0.9419999694824219,0.46,0.5330102443695068,Eraso,a,2409,OpenPlay,2015,RightFoot,1629,Real Madrid,Athletic Club,4,2,2016-02-13 19:00:00,,None
+89629,18,SavedShot,0.91,0.4370000076293945,0.1008184626698494,Aduriz,a,2410,OpenPlay,2015,Head,1629,Real Madrid,Athletic Club,4,2,2016-02-13 19:00:00,Balenziaga,Cross
+89631,28,ShotOnPost,0.9269999694824219,0.5879999923706055,0.12113456428050995,Aduriz,a,2410,OpenPlay,2015,RightFoot,1629,Real Madrid,Athletic Club,4,2,2016-02-13 19:00:00,Balenziaga,Pass
+89634,33,MissedShots,0.8859999847412109,0.40799999237060547,0.09855557978153229,De Marcos,a,2452,OpenPlay,2015,LeftFoot,1629,Real Madrid,Athletic Club,4,2,2016-02-13 19:00:00,Aduriz,Pass
+89636,34,BlockedShot,0.9,0.41700000762939454,0.11426186561584473,Aduriz,a,2410,OpenPlay,2015,RightFoot,1629,Real Madrid,Athletic Club,4,2,2016-02-13 19:00:00,Sabin,Pass
+89638,38,MissedShots,0.875,0.49,0.04900936409831047,Sabin,a,2499,OpenPlay,2015,Head,1629,Real Madrid,Athletic Club,4,2,2016-02-13 19:00:00,Balenziaga,Cross
+89639,38,MissedShots,0.889000015258789,0.41,0.27914905548095703,Sabin,a,2499,OpenPlay,2015,RightFoot,1629,Real Madrid,Athletic Club,4,2,2016-02-13 19:00:00,Balenziaga,Cross
+89645,64,MissedShots,0.8590000152587891,0.48700000762939455,0.025635596364736557,Sabin,a,2499,OpenPlay,2015,Head,1629,Real Madrid,Athletic Club,4,2,2016-02-13 19:00:00,Íñigo Lekue,Cross
+89653,89,Goal,0.92,0.415,0.08145661652088165,Elustondo,a,2404,OpenPlay,2015,Head,1629,Real Madrid,Athletic Club,4,2,2016-02-13 19:00:00,De Marcos,Cross

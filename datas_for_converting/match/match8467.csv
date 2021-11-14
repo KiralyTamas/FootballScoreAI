@@ -1,0 +1,23 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+198126,0,BlockedShot,0.855999984741211,0.5940000152587891,0.07880828529596329,André Schürrle,h,154,OpenPlay,2017,RightFoot,8467,Borussia Dortmund,Augsburg,1,1,2018-02-26 19:30:00,Gonzalo Castro,Pass
+198129,15,Goal,0.98,0.4490000152587891,0.6928490400314331,Marco Reus,h,319,OpenPlay,2017,RightFoot,8467,Borussia Dortmund,Augsburg,1,1,2018-02-26 19:30:00,,None
+198133,35,BlockedShot,0.73,0.6029999923706054,0.025024045258760452,Marco Reus,h,319,OpenPlay,2017,RightFoot,8467,Borussia Dortmund,Augsburg,1,1,2018-02-26 19:30:00,Julian Weigl,Pass
+198134,38,BlockedShot,0.855999984741211,0.415,0.10430753976106644,André Schürrle,h,154,OpenPlay,2017,RightFoot,8467,Borussia Dortmund,Augsburg,1,1,2018-02-26 19:30:00,Michy Batshuayi,Pass
+198139,66,MissedShots,0.7559999847412109,0.33,0.02402431331574917,Mahmoud Dahoud,h,205,OpenPlay,2017,RightFoot,8467,Borussia Dortmund,Augsburg,1,1,2018-02-26 19:30:00,,Challenge
+198140,68,MissedShots,0.865,0.3129999923706055,0.057073768228292465,André Schürrle,h,154,OpenPlay,2017,RightFoot,8467,Borussia Dortmund,Augsburg,1,1,2018-02-26 19:30:00,Marco Reus,Pass
+198144,74,SavedShot,0.7559999847412109,0.8109999847412109,0.03258243575692177,Mahmoud Dahoud,h,205,DirectFreekick,2017,RightFoot,8467,Borussia Dortmund,Augsburg,1,1,2018-02-26 19:30:00,,Standard
+198145,82,MissedShots,0.8719999694824219,0.519000015258789,0.09336185455322266,Michy Batshuayi,h,1678,OpenPlay,2017,LeftFoot,8467,Borussia Dortmund,Augsburg,1,1,2018-02-26 19:30:00,Mahmoud Dahoud,BallTouch
+198146,85,MissedShots,0.8859999847412109,0.51,0.09190190583467484,Mahmoud Dahoud,h,205,OpenPlay,2017,RightFoot,8467,Borussia Dortmund,Augsburg,1,1,2018-02-26 19:30:00,,None
+198127,6,SavedShot,0.8569999694824219,0.31799999237060544,0.048569727689027786,Michael Gregoritsch,a,171,OpenPlay,2017,LeftFoot,8467,Borussia Dortmund,Augsburg,1,1,2018-02-26 19:30:00,Raphael Framberger,Pass
+198128,13,MissedShots,0.9440000152587891,0.29200000762939454,0.009778003208339214,Michael Gregoritsch,a,171,FromCorner,2017,Head,8467,Borussia Dortmund,Augsburg,1,1,2018-02-26 19:30:00,Philipp Max,Cross
+198130,18,MissedShots,0.7119999694824218,0.475,0.04541538655757904,Michael Gregoritsch,a,171,DirectFreekick,2017,LeftFoot,8467,Borussia Dortmund,Augsburg,1,1,2018-02-26 19:30:00,,Standard
+198131,24,SavedShot,0.9,0.23399999618530273,0.02649698406457901,Raphael Framberger,a,4336,OpenPlay,2017,RightFoot,8467,Borussia Dortmund,Augsburg,1,1,2018-02-26 19:30:00,Jan Morávek,Pass
+198132,31,BlockedShot,0.7609999847412109,0.6480000305175782,0.01605696976184845,Caiuby,a,272,OpenPlay,2017,RightFoot,8467,Borussia Dortmund,Augsburg,1,1,2018-02-26 19:30:00,Michael Gregoritsch,Chipped
+198135,42,SavedShot,0.754000015258789,0.6959999847412109,0.04861860349774361,Jonathan Schmid,a,81,DirectFreekick,2017,RightFoot,8467,Borussia Dortmund,Augsburg,1,1,2018-02-26 19:30:00,,Standard
+198136,54,MissedShots,0.8980000305175782,0.64,0.019615288823843002,Jonathan Schmid,a,81,OpenPlay,2017,Head,8467,Borussia Dortmund,Augsburg,1,1,2018-02-26 19:30:00,Philipp Max,Cross
+198137,57,BlockedShot,0.875999984741211,0.29700000762939455,0.03984171897172928,Jonathan Schmid,a,81,OpenPlay,2017,RightFoot,8467,Borussia Dortmund,Augsburg,1,1,2018-02-26 19:30:00,,None
+198138,64,MissedShots,0.895,0.649000015258789,0.015595188364386559,Martin Hinteregger,a,2668,SetPiece,2017,Head,8467,Borussia Dortmund,Augsburg,1,1,2018-02-26 19:30:00,Jonathan Schmid,Cross
+198141,70,MissedShots,0.705999984741211,0.57,0.012998699210584164,Caiuby,a,272,OpenPlay,2017,RightFoot,8467,Borussia Dortmund,Augsburg,1,1,2018-02-26 19:30:00,Jan Morávek,BallRecovery
+198142,72,SavedShot,0.924000015258789,0.49700000762939456,0.3537026643753052,Kevin Danso,a,5261,FromCorner,2017,Head,8467,Borussia Dortmund,Augsburg,1,1,2018-02-26 19:30:00,Jonathan Schmid,Cross
+198143,72,Goal,0.924000015258789,0.49700000762939456,0.5153452754020691,Kevin Danso,a,5261,FromCorner,2017,RightFoot,8467,Borussia Dortmund,Augsburg,1,1,2018-02-26 19:30:00,,Rebound
+198147,93,SavedShot,0.8580000305175781,0.3189999961853027,0.04301196336746216,Gojko Kacar,a,386,OpenPlay,2017,LeftFoot,8467,Borussia Dortmund,Augsburg,1,1,2018-02-26 19:30:00,Shawn Parker,Pass

@@ -1,0 +1,16 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+382219,4,Goal,0.745999984741211,0.3189999961853027,0.016146743670105934,Florian Thauvin,h,942,OpenPlay,2020,LeftFoot,15819,Marseille,Bordeaux,3,1,2020-10-17 19:00:00,Hiroki Sakai,Pass
+382221,13,SavedShot,0.885,0.5,0.7600294947624207,Florian Thauvin,h,942,Penalty,2020,LeftFoot,15819,Marseille,Bordeaux,3,1,2020-10-17 19:00:00,,Standard
+382222,18,MissedShots,0.9259999847412109,0.5609999847412109,0.03983817249536514,Jordan Amavi,h,961,FromCorner,2020,Head,15819,Marseille,Bordeaux,3,1,2020-10-17 19:00:00,,Aerial
+382224,29,SavedShot,0.8730000305175781,0.3120000076293945,0.060422901064157486,Florian Thauvin,h,942,OpenPlay,2020,LeftFoot,15819,Marseille,Bordeaux,3,1,2020-10-17 19:00:00,Hiroki Sakai,Pass
+382225,53,Goal,0.8959999847412109,0.6509999847412109,0.017903892323374748,Jordan Amavi,h,961,SetPiece,2020,Head,15819,Marseille,Bordeaux,3,1,2020-10-17 19:00:00,Florian Thauvin,Cross
+382226,63,MissedShots,0.8769999694824219,0.6659999847412109,0.08330606669187546,Jordan Amavi,h,961,OpenPlay,2020,LeftFoot,15819,Marseille,Bordeaux,3,1,2020-10-17 19:00:00,Michaël Cuisance,Pass
+382220,9,BlockedShot,0.975,0.4129999923706055,0.08590670675039291,Nicolas de Preville,a,3244,SetPiece,2020,RightFoot,15819,Marseille,Bordeaux,3,1,2020-10-17 19:00:00,Remi Oudin,CornerAwarded
+382223,24,SavedShot,0.779000015258789,0.4909999847412109,0.03357081860303879,Toma Basic,a,6902,OpenPlay,2020,RightFoot,15819,Marseille,Bordeaux,3,1,2020-10-17 19:00:00,Yacine Adli,Pass
+382227,63,OwnGoal,0.09800000190734863,0.46700000762939453,0,Pablo,a,3265,OpenPlay,2020,RightFoot,15819,Marseille,Bordeaux,3,1,2020-10-17 19:00:00,,Challenge
+382228,69,BlockedShot,0.8030000305175782,0.225,0.013875809498131275,Remi Oudin,a,6884,OpenPlay,2020,LeftFoot,15819,Marseille,Bordeaux,3,1,2020-10-17 19:00:00,Youssouf Sabaly,Pass
+382229,71,SavedShot,0.8,0.17899999618530274,0.03934180736541748,Toma Basic,a,6902,DirectFreekick,2020,LeftFoot,15819,Marseille,Bordeaux,3,1,2020-10-17 19:00:00,,Standard
+382230,82,Goal,0.8480000305175781,0.605999984741211,0.10633189976215363,Josh Maja,a,5587,OpenPlay,2020,LeftFoot,15819,Marseille,Bordeaux,3,1,2020-10-17 19:00:00,Jimmy Briand,Pass
+382231,95,BlockedShot,0.9680000305175781,0.34,0.06684092432260513,Hwang Ui-Jo,a,7746,OpenPlay,2020,RightFoot,15819,Marseille,Bordeaux,3,1,2020-10-17 19:00:00,Josh Maja,Pass
+382232,96,MissedShots,0.895,0.44299999237060544,0.039872441440820694,Pablo,a,3265,FromCorner,2020,Head,15819,Marseille,Bordeaux,3,1,2020-10-17 19:00:00,,None
+382233,96,SavedShot,0.9369999694824219,0.5779999923706055,0.12749092280864716,Josh Maja,a,5587,FromCorner,2020,LeftFoot,15819,Marseille,Bordeaux,3,1,2020-10-17 19:00:00,Pablo,Rebound

@@ -1,0 +1,25 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+41012,15,MissedShots,0.755,0.509000015258789,0.02098836936056614,Michael Krohn-Dehli,h,2443,OpenPlay,2014,LeftFoot,5626,Celta Vigo,Atletico Madrid,2,0,2015-02-15 20:00:00,,None
+41014,24,BlockedShot,0.784000015258789,0.6719999694824219,0.04886118322610855,Nolito,h,1732,OpenPlay,2014,RightFoot,5626,Celta Vigo,Atletico Madrid,2,0,2015-02-15 20:00:00,Michael Krohn-Dehli,TakeOn
+41015,25,MissedShots,0.9059999847412109,0.3990000152587891,0.014986558817327023,Fontàs,h,2600,FromCorner,2014,Head,5626,Celta Vigo,Atletico Madrid,2,0,2015-02-15 20:00:00,Michael Krohn-Dehli,Aerial
+41016,32,BlockedShot,0.8780000305175781,0.4229999923706055,0.071539506316185,Cabral,h,2419,OpenPlay,2014,RightFoot,5626,Celta Vigo,Atletico Madrid,2,0,2015-02-15 20:00:00,Nolito,Cross
+41017,32,BlockedShot,0.8830000305175781,0.3820000076293945,0.07598407566547394,Cabral,h,2419,OpenPlay,2014,RightFoot,5626,Celta Vigo,Atletico Madrid,2,0,2015-02-15 20:00:00,,Rebound
+41018,32,MissedShots,0.7819999694824219,0.620999984741211,0.028519239276647568,Nolito,h,1732,OpenPlay,2014,RightFoot,5626,Celta Vigo,Atletico Madrid,2,0,2015-02-15 20:00:00,Nemanja Radoja,Pass
+41019,43,BlockedShot,0.7580000305175781,0.34,0.014635870233178139,Nemanja Radoja,h,2289,OpenPlay,2014,RightFoot,5626,Celta Vigo,Atletico Madrid,2,0,2015-02-15 20:00:00,,None
+41021,45,MissedShots,0.8830000305175781,0.7530000305175781,0.03301658853888512,Nolito,h,1732,OpenPlay,2014,RightFoot,5626,Celta Vigo,Atletico Madrid,2,0,2015-02-15 20:00:00,Jonny,TakeOn
+41022,46,MissedShots,0.6909999847412109,0.5179999923706055,0.020069483667612076,Augusto Fernández,h,2267,FromCorner,2014,RightFoot,5626,Celta Vigo,Atletico Madrid,2,0,2015-02-15 20:00:00,Nolito,Pass
+41024,58,Goal,0.885,0.5,0.7432776093482971,Nolito,h,1732,Penalty,2014,RightFoot,5626,Celta Vigo,Atletico Madrid,2,0,2015-02-15 20:00:00,,Standard
+41026,61,MissedShots,0.875999984741211,0.3029999923706055,0.050784286111593246,Nolito,h,1732,OpenPlay,2014,RightFoot,5626,Celta Vigo,Atletico Madrid,2,0,2015-02-15 20:00:00,Michael Krohn-Dehli,Pass
+41027,61,MissedShots,0.9590000152587891,0.56,0.5942848920822144,Joaquín Larrivey,h,4038,OpenPlay,2014,LeftFoot,5626,Celta Vigo,Atletico Madrid,2,0,2015-02-15 20:00:00,Nolito,Rebound
+41031,70,Goal,0.9019999694824219,0.31799999237060544,0.265554815530777,Fabián Orellana,h,2285,OpenPlay,2014,RightFoot,5626,Celta Vigo,Atletico Madrid,2,0,2015-02-15 20:00:00,Michael Krohn-Dehli,Pass
+41034,91,SavedShot,0.8930000305175781,0.3770000076293945,0.12341220676898956,Fabián Orellana,h,2285,OpenPlay,2014,RightFoot,5626,Celta Vigo,Atletico Madrid,2,0,2015-02-15 20:00:00,Nolito,Pass
+41011,13,MissedShots,0.775,0.61,0.023778295144438744,Fernando Torres,a,2271,OpenPlay,2014,RightFoot,5626,Celta Vigo,Atletico Madrid,2,0,2015-02-15 20:00:00,,None
+41013,19,MissedShots,0.805,0.6840000152587891,0.026043998077511787,Antoine Griezmann,a,2270,OpenPlay,2014,RightFoot,5626,Celta Vigo,Atletico Madrid,2,0,2015-02-15 20:00:00,Gabi,Pass
+41020,44,SavedShot,0.7519999694824219,0.5229999923706055,0.044903386384248734,Mario Mandzukic,a,1295,OpenPlay,2014,RightFoot,5626,Celta Vigo,Atletico Madrid,2,0,2015-02-15 20:00:00,Saúl Ñíguez,Pass
+41023,53,MissedShots,0.915,0.5629999923706055,0.026064464822411537,Diego Godín,a,2264,FromCorner,2014,Head,5626,Celta Vigo,Atletico Madrid,2,0,2015-02-15 20:00:00,Gabi,Aerial
+41025,59,SavedShot,0.7859999847412109,0.4520000076293945,0.027240131050348282,Saúl Ñíguez,a,2266,OpenPlay,2014,LeftFoot,5626,Celta Vigo,Atletico Madrid,2,0,2015-02-15 20:00:00,Miranda,TakeOn
+41028,65,SavedShot,0.88,0.5670000076293945,0.09617950022220612,Antoine Griezmann,a,2270,OpenPlay,2014,LeftFoot,5626,Celta Vigo,Atletico Madrid,2,0,2015-02-15 20:00:00,Cani,Pass
+41029,66,BlockedShot,0.905,0.43099998474121093,0.10180040448904037,Mario Mandzukic,a,1295,OpenPlay,2014,LeftFoot,5626,Celta Vigo,Atletico Madrid,2,0,2015-02-15 20:00:00,Saúl Ñíguez,Pass
+41030,66,MissedShots,0.875999984741211,0.35200000762939454,0.05950276181101799,Juanfran,a,2262,OpenPlay,2014,RightFoot,5626,Celta Vigo,Atletico Madrid,2,0,2015-02-15 20:00:00,Mario Mandzukic,Pass
+41032,78,SavedShot,0.9059999847412109,0.5670000076293945,0.07212497293949127,Mario Mandzukic,a,1295,OpenPlay,2014,Head,5626,Celta Vigo,Atletico Madrid,2,0,2015-02-15 20:00:00,Juanfran,Cross
+41033,90,SavedShot,0.9309999847412109,0.4829999923706055,0.07166478037834167,Diego Godín,a,2264,SetPiece,2014,Head,5626,Celta Vigo,Atletico Madrid,2,0,2015-02-15 20:00:00,Saúl Ñíguez,Aerial

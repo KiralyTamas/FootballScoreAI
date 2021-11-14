@@ -1,0 +1,22 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+400202,11,Goal,0.885,0.5,0.7431496977806091,Marko Dmitrovic,h,6224,Penalty,2020,LeftFoot,14962,Eibar,Atletico Madrid,1,2,2021-01-21 20:30:00,,Standard
+400203,15,BlockedShot,0.9169999694824219,0.43,0.08466237783432007,Pedro Bigas,h,2353,FromCorner,2020,RightFoot,14962,Eibar,Atletico Madrid,1,2,2021-01-21 20:30:00,Kike García,BallTouch
+400204,19,MissedShots,0.73,0.5459999847412109,0.021233471110463142,Takashi Inui,h,452,OpenPlay,2020,RightFoot,14962,Eibar,Atletico Madrid,1,2,2021-01-21 20:30:00,,None
+400209,41,MissedShots,0.925,0.509000015258789,0.07472038269042969,Kike García,h,5074,OpenPlay,2020,Head,14962,Eibar,Atletico Madrid,1,2,2021-01-21 20:30:00,Takashi Inui,Aerial
+400210,48,MissedShots,0.9219999694824219,0.595999984741211,0.08766282349824905,Kike García,h,5074,OpenPlay,2020,RightFoot,14962,Eibar,Atletico Madrid,1,2,2021-01-21 20:30:00,Takashi Inui,Cross
+400211,49,MissedShots,0.9640000152587891,0.5629999923706055,0.10977383702993393,Kike García,h,5074,OpenPlay,2020,RightFoot,14962,Eibar,Atletico Madrid,1,2,2021-01-21 20:30:00,Takashi Inui,Cross
+400212,50,MissedShots,0.7280000305175781,0.47200000762939454,0.01744232140481472,Yoshinori Muto,h,47,OpenPlay,2020,LeftFoot,14962,Eibar,Atletico Madrid,1,2,2021-01-21 20:30:00,,BallRecovery
+400213,52,MissedShots,0.8019999694824219,0.36900001525878906,0.027966929599642754,Alejandro Pozo,h,5138,OpenPlay,2020,RightFoot,14962,Eibar,Atletico Madrid,1,2,2021-01-21 20:30:00,Sergio Álvarez,HeadPass
+400215,62,MissedShots,0.6790000152587891,0.5579999923706055,0.03494903817772865,Anaitz Arbilla,h,2586,DirectFreekick,2020,RightFoot,14962,Eibar,Atletico Madrid,1,2,2021-01-21 20:30:00,,Standard
+400216,67,MissedShots,0.92,0.5729999923706055,0.025104647502303123,Pedro Bigas,h,2353,FromCorner,2020,Head,14962,Eibar,Atletico Madrid,1,2,2021-01-21 20:30:00,Edu Expósito,Aerial
+400217,70,MissedShots,0.7969999694824219,0.6359999847412109,0.03125375881791115,Edu Expósito,h,5081,OpenPlay,2020,RightFoot,14962,Eibar,Atletico Madrid,1,2,2021-01-21 20:30:00,,None
+400218,74,SavedShot,0.7559999847412109,0.764000015258789,0.01248716376721859,Takashi Inui,h,452,OpenPlay,2020,RightFoot,14962,Eibar,Atletico Madrid,1,2,2021-01-21 20:30:00,Edu Expósito,BallTouch
+400205,24,BlockedShot,0.93,0.6270000076293946,0.06832559406757355,Luis Suárez,a,2098,OpenPlay,2020,RightFoot,14962,Eibar,Atletico Madrid,1,2,2021-01-21 20:30:00,,None
+400206,24,BlockedShot,0.7959999847412109,0.634000015258789,0.030942367389798164,Saúl Ñíguez,a,2266,OpenPlay,2020,LeftFoot,14962,Eibar,Atletico Madrid,1,2,2021-01-21 20:30:00,Thomas Lemar,Pass
+400207,25,ShotOnPost,0.850999984741211,0.37599998474121094,0.022913049906492233,Ángel Correa,a,2275,FromCorner,2020,RightFoot,14962,Eibar,Atletico Madrid,1,2,2021-01-21 20:30:00,,Aerial
+400208,39,Goal,0.955,0.34,0.05951286479830742,Luis Suárez,a,2098,OpenPlay,2020,RightFoot,14962,Eibar,Atletico Madrid,1,2,2021-01-21 20:30:00,Marcos Llorente,BlockedPass
+400214,57,BlockedShot,0.885,0.32299999237060545,0.06125201657414436,Luis Suárez,a,2098,OpenPlay,2020,RightFoot,14962,Eibar,Atletico Madrid,1,2,2021-01-21 20:30:00,Marcos Llorente,BlockedPass
+400219,83,MissedShots,0.78,0.5520000076293945,0.1008557453751564,Yannick Carrasco,a,2272,DirectFreekick,2020,RightFoot,14962,Eibar,Atletico Madrid,1,2,2021-01-21 20:30:00,,Standard
+400220,84,SavedShot,0.8419999694824218,0.5070000076293946,0.09057356417179108,João Félix,a,7892,OpenPlay,2020,RightFoot,14962,Eibar,Atletico Madrid,1,2,2021-01-21 20:30:00,Luis Suárez,Pass
+400221,88,Goal,0.885,0.5,0.7432776093482971,Luis Suárez,a,2098,Penalty,2020,RightFoot,14962,Eibar,Atletico Madrid,1,2,2021-01-21 20:30:00,,Standard
+400222,93,SavedShot,0.8530000305175781,0.7569999694824219,0.05298231914639473,João Félix,a,7892,OpenPlay,2020,RightFoot,14962,Eibar,Atletico Madrid,1,2,2021-01-21 20:30:00,,TakeOn

@@ -1,0 +1,29 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+390559,7,OwnGoal,0.06800000190734863,0.5379999923706055,0,Darnell Furlong,h,4391,SetPiece,2020,RightFoot,14543,West Bromwich Albion,Crystal Palace,1,5,2020-12-06 12:00:00,,Foul
+390560,13,SavedShot,0.8859999847412109,0.5520000076293945,0.10545039176940918,Matheus Pereira,h,7153,OpenPlay,2020,LeftFoot,14543,West Bromwich Albion,Crystal Palace,1,5,2020-12-06 12:00:00,Matt Phillips,Pass
+390562,17,ShotOnPost,0.9030000305175782,0.4570000076293945,0.07283513247966766,Darnell Furlong,h,4391,OpenPlay,2020,Head,14543,West Bromwich Albion,Crystal Palace,1,5,2020-12-06 12:00:00,Matt Phillips,Cross
+390563,18,SavedShot,0.7619999694824219,0.775,0.011388051323592663,Karlan Grant,h,7390,OpenPlay,2020,RightFoot,14543,West Bromwich Albion,Crystal Palace,1,5,2020-12-06 12:00:00,,None
+390564,25,SavedShot,0.9340000152587891,0.6809999847412109,0.018534081056714058,Matt Phillips,h,1737,OpenPlay,2020,Head,14543,West Bromwich Albion,Crystal Palace,1,5,2020-12-06 12:00:00,Matheus Pereira,Chipped
+390566,29,Goal,0.875,0.4370000076293945,0.08975359052419662,Conor Gallagher,h,9040,OpenPlay,2020,RightFoot,14543,West Bromwich Albion,Crystal Palace,1,5,2020-12-06 12:00:00,Darnell Furlong,Pass
+390570,42,BlockedShot,0.925,0.49400001525878906,0.11684205383062363,Karlan Grant,h,7390,FromCorner,2020,RightFoot,14543,West Bromwich Albion,Crystal Palace,1,5,2020-12-06 12:00:00,,None
+390582,79,MissedShots,0.845,0.769000015258789,0.01317751593887806,Filip Krovinovic,h,8966,OpenPlay,2020,RightFoot,14543,West Bromwich Albion,Crystal Palace,1,5,2020-12-06 12:00:00,Matt Phillips,Pass
+390584,83,MissedShots,0.7280000305175781,0.5070000076293946,0.01392489392310381,Filip Krovinovic,h,8966,OpenPlay,2020,RightFoot,14543,West Bromwich Albion,Crystal Palace,1,5,2020-12-06 12:00:00,Dara O&#039;Shea,Pass
+390585,92,MissedShots,0.950999984741211,0.54,0.12532800436019897,Kyle Bartley,h,964,FromCorner,2020,Head,14543,West Bromwich Albion,Crystal Palace,1,5,2020-12-06 12:00:00,Matt Phillips,Cross
+390558,3,MissedShots,0.855999984741211,0.3529999923706055,0.08306607604026794,Wilfried Zaha,a,522,OpenPlay,2020,RightFoot,14543,West Bromwich Albion,Crystal Palace,1,5,2020-12-06 12:00:00,Jeffrey Schlupp,TakeOn
+390561,15,MissedShots,0.9290000152587891,0.6990000152587891,0.06350605189800262,Wilfried Zaha,a,522,OpenPlay,2020,LeftFoot,14543,West Bromwich Albion,Crystal Palace,1,5,2020-12-06 12:00:00,Christian Benteke,Chipped
+390565,28,SavedShot,0.8880000305175781,0.475,0.02192540466785431,Christian Benteke,a,606,SetPiece,2020,Head,14543,West Bromwich Albion,Crystal Palace,1,5,2020-12-06 12:00:00,Patrick van Aanholt,Aerial
+390567,37,BlockedShot,0.9269999694824219,0.485,0.08130329102277756,Jeffrey Schlupp,a,757,FromCorner,2020,LeftFoot,14543,West Bromwich Albion,Crystal Palace,1,5,2020-12-06 12:00:00,Christian Benteke,Aerial
+390568,37,MissedShots,0.7609999847412109,0.4209999847412109,0.02494291216135025,Luka Milivojevic,a,5549,FromCorner,2020,LeftFoot,14543,West Bromwich Albion,Crystal Palace,1,5,2020-12-06 12:00:00,,Rebound
+390569,37,BlockedShot,0.8519999694824218,0.4640000152587891,0.05086645856499672,Gary Cahill,a,699,FromCorner,2020,RightFoot,14543,West Bromwich Albion,Crystal Palace,1,5,2020-12-06 12:00:00,Eberechi Eze,Pass
+390571,43,MissedShots,0.759000015258789,0.5179999923706055,0.0274946466088295,Eberechi Eze,a,8706,OpenPlay,2020,RightFoot,14543,West Bromwich Albion,Crystal Palace,1,5,2020-12-06 12:00:00,Luka Milivojevic,Pass
+390572,49,MissedShots,0.94,0.649000015258789,0.08968394994735718,Christian Benteke,a,606,OpenPlay,2020,LeftFoot,14543,West Bromwich Albion,Crystal Palace,1,5,2020-12-06 12:00:00,Eberechi Eze,Pass
+390573,51,BlockedShot,0.9319999694824219,0.6880000305175781,0.07092099636793137,Wilfried Zaha,a,522,OpenPlay,2020,LeftFoot,14543,West Bromwich Albion,Crystal Palace,1,5,2020-12-06 12:00:00,Christian Benteke,Pass
+390574,52,SavedShot,0.750999984741211,0.5690000152587891,0.021174514666199684,Patrick van Aanholt,a,730,OpenPlay,2020,LeftFoot,14543,West Bromwich Albion,Crystal Palace,1,5,2020-12-06 12:00:00,Christian Benteke,BallTouch
+390575,53,BlockedShot,0.8690000152587891,0.674000015258789,0.05381292849779129,Wilfried Zaha,a,522,OpenPlay,2020,RightFoot,14543,West Bromwich Albion,Crystal Palace,1,5,2020-12-06 12:00:00,Eberechi Eze,Pass
+390576,54,BlockedShot,0.9390000152587891,0.5020000076293946,0.14361144602298737,Christian Benteke,a,606,FromCorner,2020,RightFoot,14543,West Bromwich Albion,Crystal Palace,1,5,2020-12-06 12:00:00,Gary Cahill,Chipped
+390577,54,BlockedShot,0.7659999847412109,0.3629999923706055,0.01837107539176941,Jeffrey Schlupp,a,757,OpenPlay,2020,LeftFoot,14543,West Bromwich Albion,Crystal Palace,1,5,2020-12-06 12:00:00,Patrick van Aanholt,Pass
+390578,54,Goal,0.865999984741211,0.620999984741211,0.08229732513427734,Wilfried Zaha,a,522,OpenPlay,2020,RightFoot,14543,West Bromwich Albion,Crystal Palace,1,5,2020-12-06 12:00:00,James McArthur,Pass
+390579,58,Goal,0.9580000305175781,0.5690000152587891,0.12073178589344025,Christian Benteke,a,606,OpenPlay,2020,Head,14543,West Bromwich Albion,Crystal Palace,1,5,2020-12-06 12:00:00,Patrick van Aanholt,Pass
+390580,60,BlockedShot,0.8480000305175781,0.7030000305175781,0.055683739483356476,Patrick van Aanholt,a,730,OpenPlay,2020,LeftFoot,14543,West Bromwich Albion,Crystal Palace,1,5,2020-12-06 12:00:00,Jeffrey Schlupp,Pass
+390581,67,Goal,0.909000015258789,0.4759999847412109,0.5522881746292114,Wilfried Zaha,a,522,OpenPlay,2020,RightFoot,14543,West Bromwich Albion,Crystal Palace,1,5,2020-12-06 12:00:00,Eberechi Eze,Pass
+390583,81,Goal,0.86,0.49700000762939456,0.12690235674381256,Christian Benteke,a,606,OpenPlay,2020,LeftFoot,14543,West Bromwich Albion,Crystal Palace,1,5,2020-12-06 12:00:00,Nathaniel Clyne,Pass
