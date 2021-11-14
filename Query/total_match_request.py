@@ -1,13 +1,15 @@
 import asyncio
 import json
-
+import os
 import xlsxwriter
-
 import aiohttp
-
 from understat import Understat
 
+
 async def main():
+    caller_path=os.getcwd()
+    final_path=os.path.abspath("\Repository\FootballScoreAI\datas_for_converting\match")
+    final=os.path.relpath(final_path,caller_path)
     # Ez a két sor megkérdezi, hogy melyik ID-től melyik ID-ig fusson le a lekérdezés. Manuálisan kell a terminálban megadni a számokat.
     page_start = int(input("Mi az Id szám, ahonnan a lekérdezés induljon?:")) # Példa: 1
     page_end=int(input("Mi az Id szám, ameddig a lekérdezés tartson?:")) # Példa: 200
@@ -19,7 +21,7 @@ async def main():
             async with aiohttp.ClientSession(connector=aiohttp.TCPConnector(ssl=False)) as session:
                 understat = Understat(session)
                 players = await understat.get_match_shots(page)
-                f = open(f"C:\Repository\FootballScoreAI\datas_for_converting\match\match{page}.json", "w")
+                f = open(final+"\match"+str(page)+".json", "w")
                 f.write(json.dumps(players))
                 f.close()
         # A try függvényt csak az except fügvénnyel együtt lehet alkalmazni
