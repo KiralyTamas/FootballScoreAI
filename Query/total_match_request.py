@@ -8,7 +8,7 @@ from understat import Understat
 
 async def main():
     caller_path=os.getcwd()
-    final_path=os.path.abspath("\Repository\FootballScoreAI\datas_for_converting\match")
+    final_path=os.path.abspath(input("Hova legyenek letöltve a fájlok? "))
     final=os.path.relpath(final_path,caller_path)
     # Ez a két sor megkérdezi, hogy melyik ID-től melyik ID-ig fusson le a lekérdezés. Manuálisan kell a terminálban megadni a számokat.
     page_start = int(input("Mi az Id szám, ahonnan a lekérdezés induljon?:")) # Példa: 1
