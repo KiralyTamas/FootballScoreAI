@@ -15,7 +15,7 @@ def convert():
   main_path=f
   for i in main_path:
     all_path=str(dirpath)+"\\"+str(i)
-    recall= caller(all_path,csv_path)
+    recall= caller(all_path,i)
     if recall[0] == all_path[-4:]:
       continue
     if "fixtures" in recall[0]:

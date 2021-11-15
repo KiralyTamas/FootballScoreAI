@@ -1,7 +1,10 @@
 import csv
 
 def convert_fr(data_list, delim):
-    with open(data_list[0], "w", newline='') as file:
+    destiny_path=os.path.abspath("../../converted_csv_datas/csv_fixtures")
+    file_xxx = ["json", "csv"]
+    csv_name = data_list[0].replace(file_xxx[0], file_xxx[1])
+    with open(destiny_path+"/"+csv_name, "w", newline='') as file:
         csv_file = csv.writer(file)
         for number in data_list[1]:
             header = []
