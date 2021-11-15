@@ -1,6 +1,7 @@
 import os
 from data_handler_files.converter_files.file_caller import caller
-from data_handler_files.converter_files.fixtures_result_converter import convert_fr
+from data_handler_files.converter_files.fixtures_converter import convert_f
+from data_handler_files.converter_files.result_converter import convert_r
 from data_handler_files.converter_files.match_converter import convert_m
 from data_handler_files.converter_files.table_converter import convert_t
 
@@ -19,17 +20,16 @@ def convert():
     if recall[0] == all_path[-4:]:
       continue
     if "fixtures" in recall[0]:
-      convert_fr(recall,"_")
+      convert_f(recall,"_")
       os.remove(all_path)
     if "result" in recall[0]:
-      convert_fr(recall,"_")
+      convert_r(recall,"_")
       os.remove(all_path)
     if "match" in recall[0]:
       try:
         convert_m(recall)
         os.remove(all_path)
       except IndexError:
-        os.replace(all_path,error)
         if IndexError == True:
           continue
     if "table" in recall[0]:

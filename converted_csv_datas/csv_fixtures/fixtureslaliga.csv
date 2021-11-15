@@ -3,297 +3,253 @@ id,isResult,h_id,h_title,h_short_title,a_id,a_title,a_short_title,goals_h,goals_
 17174,False,138,Sevilla,SEV,148,Barcelona,BAR,None,None,None,None,2021-09-11 19:00:00
 17219,False,155,Granada,GRA,143,Atletico Madrid,ATL,None,None,None,None,2021-10-17 15:00:00
 17222,False,150,Real Madrid,RMA,147,Athletic Club,ATH,None,None,None,None,2021-10-17 15:00:00
-17225,False,154,Villarreal,VIL,157,Osasuna,OSA,None,None,None,None,2021-10-17 16:30:00
-17217,False,148,Barcelona,BAR,146,Valencia,VAL,None,None,None,None,2021-10-17 19:00:00
-17216,False,158,Alaves,ALA,153,Real Betis,BET,None,None,None,None,2021-10-18 17:00:00
-17220,False,141,Espanyol,ESP,261,Cadiz,CAD,None,None,None,None,2021-10-18 19:00:00
-17230,False,157,Osasuna,OSA,155,Granada,GRA,None,None,None,None,2021-10-22 19:00:00
-17228,False,146,Valencia,VAL,239,Mallorca,MAL,None,None,None,None,2021-10-23 12:00:00
-17231,False,261,Cadiz,CAD,158,Alaves,ALA,None,None,None,None,2021-10-23 14:15:00
-17227,False,207,Elche,ELC,141,Espanyol,ESP,None,None,None,None,2021-10-23 16:30:00
-17226,False,147,Athletic Club,ATH,154,Villarreal,VIL,None,None,None,None,2021-10-23 19:00:00
-17229,False,138,Sevilla,SEV,151,Levante,LEV,None,None,None,None,2021-10-24 12:00:00
-17234,False,148,Barcelona,BAR,150,Real Madrid,RMA,None,None,None,None,2021-10-24 14:15:00
-17233,False,153,Real Betis,BET,145,Rayo Vallecano,RVL,None,None,None,None,2021-10-24 16:30:00
-17235,False,143,Atletico Madrid,ATL,140,Real Sociedad,SOC,None,None,None,None,2021-10-24 19:00:00
-17232,False,142,Getafe,GET,152,Celta Vigo,CEL,None,None,None,None,2021-10-25 19:00:00
-17239,False,158,Alaves,ALA,207,Elche,ELC,None,None,None,None,2021-10-26 17:00:00
-17243,False,141,Espanyol,ESP,147,Athletic Club,ATH,None,None,None,None,2021-10-26 19:00:00
-17238,False,154,Villarreal,VIL,261,Cadiz,CAD,None,None,None,None,2021-10-26 19:30:00
-17236,False,145,Rayo Vallecano,RVL,148,Barcelona,BAR,None,None,None,None,2021-10-27 17:00:00
-17245,False,239,Mallorca,MAL,138,Sevilla,SEV,None,None,None,None,2021-10-27 17:00:00
-17241,False,153,Real Betis,BET,146,Valencia,VAL,None,None,None,None,2021-10-27 18:00:00
-17237,False,150,Real Madrid,RMA,157,Osasuna,OSA,None,None,None,None,2021-10-27 19:30:00
-17240,False,152,Celta Vigo,CEL,140,Real Sociedad,SOC,None,None,None,None,2021-10-28 17:00:00
-17244,False,155,Granada,GRA,142,Getafe,GET,None,None,None,None,2021-10-28 18:00:00
-17242,False,151,Levante,LEV,143,Atletico Madrid,ATL,None,None,None,None,2021-10-28 19:30:00
-17246,False,207,Elche,ELC,150,Real Madrid,RMA,None,None,None,None,2021-10-30 12:00:00
-17249,False,138,Sevilla,SEV,157,Osasuna,OSA,None,None,None,None,2021-10-30 14:15:00
-17247,False,146,Valencia,VAL,154,Villarreal,VIL,None,None,None,None,2021-10-30 16:30:00
-17252,False,148,Barcelona,BAR,158,Alaves,ALA,None,None,None,None,2021-10-30 19:00:00
-17248,False,145,Rayo Vallecano,RVL,152,Celta Vigo,CEL,None,None,None,None,2021-10-31 13:00:00
-17254,False,261,Cadiz,CAD,239,Mallorca,MAL,None,None,None,None,2021-10-31 13:00:00
-17255,False,151,Levante,LEV,155,Granada,GRA,None,None,None,None,2021-10-31 13:00:00
-17251,False,143,Atletico Madrid,ATL,153,Real Betis,BET,None,None,None,None,2021-10-31 15:15:00
-17253,False,142,Getafe,GET,141,Espanyol,ESP,None,None,None,None,2021-10-31 17:30:00
-17250,False,140,Real Sociedad,SOC,147,Athletic Club,ATH,None,None,None,None,2021-10-31 20:00:00
-17256,False,158,Alaves,ALA,151,Levante,LEV,None,None,None,None,2021-11-07 12:00:00
-17257,False,147,Athletic Club,ATH,261,Cadiz,CAD,None,None,None,None,2021-11-07 12:00:00
-17258,False,153,Real Betis,BET,138,Sevilla,SEV,None,None,None,None,2021-11-07 12:00:00
-17259,False,152,Celta Vigo,CEL,148,Barcelona,BAR,None,None,None,None,2021-11-07 12:00:00
-17260,False,239,Mallorca,MAL,207,Elche,ELC,None,None,None,None,2021-11-07 12:00:00
-17261,False,141,Espanyol,ESP,155,Granada,GRA,None,None,None,None,2021-11-07 12:00:00
-17262,False,157,Osasuna,OSA,140,Real Sociedad,SOC,None,None,None,None,2021-11-07 12:00:00
-17263,False,150,Real Madrid,RMA,145,Rayo Vallecano,RVL,None,None,None,None,2021-11-07 12:00:00
-17264,False,146,Valencia,VAL,143,Atletico Madrid,ATL,None,None,None,None,2021-11-07 12:00:00
-17265,False,154,Villarreal,VIL,142,Getafe,GET,None,None,None,None,2021-11-07 12:00:00
-17266,False,143,Atletico Madrid,ATL,157,Osasuna,OSA,None,None,None,None,2021-11-21 12:00:00
-17267,False,148,Barcelona,BAR,141,Espanyol,ESP,None,None,None,None,2021-11-21 12:00:00
-17268,False,152,Celta Vigo,CEL,154,Villarreal,VIL,None,None,None,None,2021-11-21 12:00:00
-17269,False,142,Getafe,GET,261,Cadiz,CAD,None,None,None,None,2021-11-21 12:00:00
-17270,False,155,Granada,GRA,150,Real Madrid,RMA,None,None,None,None,2021-11-21 12:00:00
-17271,False,151,Levante,LEV,147,Athletic Club,ATH,None,None,None,None,2021-11-21 12:00:00
-17272,False,140,Real Sociedad,SOC,146,Valencia,VAL,None,None,None,None,2021-11-21 12:00:00
-17273,False,138,Sevilla,SEV,158,Alaves,ALA,None,None,None,None,2021-11-21 12:00:00
-17274,False,145,Rayo Vallecano,RVL,239,Mallorca,MAL,None,None,None,None,2021-11-21 12:00:00
-17275,False,207,Elche,ELC,153,Real Betis,BET,None,None,None,None,2021-11-21 12:00:00
-17276,False,158,Alaves,ALA,152,Celta Vigo,CEL,None,None,None,None,2021-11-28 12:00:00
-17277,False,147,Athletic Club,ATH,155,Granada,GRA,None,None,None,None,2021-11-28 12:00:00
-17278,False,153,Real Betis,BET,151,Levante,LEV,None,None,None,None,2021-11-28 12:00:00
-17279,False,239,Mallorca,MAL,142,Getafe,GET,None,None,None,None,2021-11-28 12:00:00
-17280,False,261,Cadiz,CAD,143,Atletico Madrid,ATL,None,None,None,None,2021-11-28 12:00:00
-17281,False,141,Espanyol,ESP,140,Real Sociedad,SOC,None,None,None,None,2021-11-28 12:00:00
-17282,False,157,Osasuna,OSA,207,Elche,ELC,None,None,None,None,2021-11-28 12:00:00
-17283,False,150,Real Madrid,RMA,138,Sevilla,SEV,None,None,None,None,2021-11-28 12:00:00
-17284,False,146,Valencia,VAL,145,Rayo Vallecano,RVL,None,None,None,None,2021-11-28 12:00:00
-17285,False,154,Villarreal,VIL,148,Barcelona,BAR,None,None,None,None,2021-11-28 12:00:00
-17286,False,143,Atletico Madrid,ATL,239,Mallorca,MAL,None,None,None,None,2021-12-05 12:00:00
-17287,False,148,Barcelona,BAR,153,Real Betis,BET,None,None,None,None,2021-12-05 12:00:00
-17288,False,152,Celta Vigo,CEL,146,Valencia,VAL,None,None,None,None,2021-12-05 12:00:00
-17289,False,142,Getafe,GET,147,Athletic Club,ATH,None,None,None,None,2021-12-05 12:00:00
-17290,False,155,Granada,GRA,158,Alaves,ALA,None,None,None,None,2021-12-05 12:00:00
-17291,False,151,Levante,LEV,157,Osasuna,OSA,None,None,None,None,2021-12-05 12:00:00
-17292,False,138,Sevilla,SEV,154,Villarreal,VIL,None,None,None,None,2021-12-05 12:00:00
-17293,False,145,Rayo Vallecano,RVL,141,Espanyol,ESP,None,None,None,None,2021-12-05 12:00:00
-17294,False,207,Elche,ELC,261,Cadiz,CAD,None,None,None,None,2021-12-05 12:00:00
-17295,False,140,Real Sociedad,SOC,150,Real Madrid,RMA,None,None,None,None,2021-12-05 12:00:00
-17296,False,158,Alaves,ALA,142,Getafe,GET,None,None,None,None,2021-12-12 12:00:00
-17297,False,147,Athletic Club,ATH,138,Sevilla,SEV,None,None,None,None,2021-12-12 12:00:00
-17298,False,153,Real Betis,BET,140,Real Sociedad,SOC,None,None,None,None,2021-12-12 12:00:00
-17299,False,239,Mallorca,MAL,152,Celta Vigo,CEL,None,None,None,None,2021-12-12 12:00:00
-17300,False,261,Cadiz,CAD,155,Granada,GRA,None,None,None,None,2021-12-12 12:00:00
-17301,False,141,Espanyol,ESP,151,Levante,LEV,None,None,None,None,2021-12-12 12:00:00
-17302,False,157,Osasuna,OSA,148,Barcelona,BAR,None,None,None,None,2021-12-12 12:00:00
-17303,False,150,Real Madrid,RMA,143,Atletico Madrid,ATL,None,None,None,None,2021-12-12 12:00:00
-17304,False,146,Valencia,VAL,207,Elche,ELC,None,None,None,None,2021-12-12 12:00:00
-17305,False,154,Villarreal,VIL,145,Rayo Vallecano,RVL,None,None,None,None,2021-12-12 12:00:00
-17306,False,147,Athletic Club,ATH,153,Real Betis,BET,None,None,None,None,2021-12-19 12:00:00
-17307,False,148,Barcelona,BAR,207,Elche,ELC,None,None,None,None,2021-12-19 12:00:00
-17308,False,152,Celta Vigo,CEL,141,Espanyol,ESP,None,None,None,None,2021-12-19 12:00:00
-17309,False,155,Granada,GRA,239,Mallorca,MAL,None,None,None,None,2021-12-19 12:00:00
-17310,False,142,Getafe,GET,157,Osasuna,OSA,None,None,None,None,2021-12-19 12:00:00
-17311,False,138,Sevilla,SEV,143,Atletico Madrid,ATL,None,None,None,None,2021-12-19 12:00:00
-17312,False,140,Real Sociedad,SOC,154,Villarreal,VIL,None,None,None,None,2021-12-19 12:00:00
-17313,False,150,Real Madrid,RMA,261,Cadiz,CAD,None,None,None,None,2021-12-19 12:00:00
-17314,False,151,Levante,LEV,146,Valencia,VAL,None,None,None,None,2021-12-19 12:00:00
-17315,False,145,Rayo Vallecano,RVL,158,Alaves,ALA,None,None,None,None,2021-12-19 12:00:00
-17316,False,207,Elche,ELC,155,Granada,GRA,None,None,None,None,2022-01-02 12:00:00
-17317,False,146,Valencia,VAL,141,Espanyol,ESP,None,None,None,None,2022-01-02 12:00:00
-17318,False,154,Villarreal,VIL,151,Levante,LEV,None,None,None,None,2022-01-02 12:00:00
-17319,False,158,Alaves,ALA,140,Real Sociedad,SOC,None,None,None,None,2022-01-02 12:00:00
-17320,False,143,Atletico Madrid,ATL,145,Rayo Vallecano,RVL,None,None,None,None,2022-01-02 12:00:00
-17321,False,153,Real Betis,BET,152,Celta Vigo,CEL,None,None,None,None,2022-01-02 12:00:00
-17322,False,239,Mallorca,MAL,148,Barcelona,BAR,None,None,None,None,2022-01-02 12:00:00
-17323,False,142,Getafe,GET,150,Real Madrid,RMA,None,None,None,None,2022-01-02 12:00:00
-17324,False,261,Cadiz,CAD,138,Sevilla,SEV,None,None,None,None,2022-01-02 12:00:00
-17325,False,157,Osasuna,OSA,147,Athletic Club,ATH,None,None,None,None,2022-01-02 12:00:00
-17326,False,158,Alaves,ALA,147,Athletic Club,ATH,None,None,None,None,2022-01-09 12:00:00
-17327,False,155,Granada,GRA,148,Barcelona,BAR,None,None,None,None,2022-01-09 12:00:00
-17328,False,141,Espanyol,ESP,207,Elche,ELC,None,None,None,None,2022-01-09 12:00:00
-17329,False,151,Levante,LEV,239,Mallorca,MAL,None,None,None,None,2022-01-09 12:00:00
-17330,False,157,Osasuna,OSA,261,Cadiz,CAD,None,None,None,None,2022-01-09 12:00:00
-17331,False,150,Real Madrid,RMA,146,Valencia,VAL,None,None,None,None,2022-01-09 12:00:00
-17332,False,140,Real Sociedad,SOC,152,Celta Vigo,CEL,None,None,None,None,2022-01-09 12:00:00
-17333,False,138,Sevilla,SEV,142,Getafe,GET,None,None,None,None,2022-01-09 12:00:00
-17334,False,145,Rayo Vallecano,RVL,153,Real Betis,BET,None,None,None,None,2022-01-09 12:00:00
-17335,False,154,Villarreal,VIL,143,Atletico Madrid,ATL,None,None,None,None,2022-01-09 12:00:00
-17336,False,147,Athletic Club,ATH,150,Real Madrid,RMA,None,None,None,None,2022-01-19 16:00:00
-17337,False,143,Atletico Madrid,ATL,151,Levante,LEV,None,None,None,None,2022-01-19 16:00:00
-17338,False,148,Barcelona,BAR,145,Rayo Vallecano,RVL,None,None,None,None,2022-01-19 16:00:00
-17339,False,153,Real Betis,BET,158,Alaves,ALA,None,None,None,None,2022-01-19 16:00:00
-17340,False,152,Celta Vigo,CEL,157,Osasuna,OSA,None,None,None,None,2022-01-19 16:00:00
-17341,False,239,Mallorca,MAL,140,Real Sociedad,SOC,None,None,None,None,2022-01-19 16:00:00
-17342,False,142,Getafe,GET,155,Granada,GRA,None,None,None,None,2022-01-19 16:00:00
-17343,False,261,Cadiz,CAD,141,Espanyol,ESP,None,None,None,None,2022-01-19 16:00:00
-17344,False,146,Valencia,VAL,138,Sevilla,SEV,None,None,None,None,2022-01-19 16:00:00
-17345,False,207,Elche,ELC,154,Villarreal,VIL,None,None,None,None,2022-01-19 16:00:00
-17346,False,158,Alaves,ALA,148,Barcelona,BAR,None,None,None,None,2022-01-23 12:00:00
-17347,False,143,Atletico Madrid,ATL,146,Valencia,VAL,None,None,None,None,2022-01-23 12:00:00
-17348,False,155,Granada,GRA,157,Osasuna,OSA,None,None,None,None,2022-01-23 12:00:00
-17349,False,141,Espanyol,ESP,153,Real Betis,BET,None,None,None,None,2022-01-23 12:00:00
-17350,False,151,Levante,LEV,261,Cadiz,CAD,None,None,None,None,2022-01-23 12:00:00
-17351,False,150,Real Madrid,RMA,207,Elche,ELC,None,None,None,None,2022-01-23 12:00:00
-17352,False,140,Real Sociedad,SOC,142,Getafe,GET,None,None,None,None,2022-01-23 12:00:00
-17353,False,138,Sevilla,SEV,152,Celta Vigo,CEL,None,None,None,None,2022-01-23 12:00:00
-17354,False,145,Rayo Vallecano,RVL,147,Athletic Club,ATH,None,None,None,None,2022-01-23 12:00:00
-17355,False,154,Villarreal,VIL,239,Mallorca,MAL,None,None,None,None,2022-01-23 12:00:00
-17356,False,147,Athletic Club,ATH,141,Espanyol,ESP,None,None,None,None,2022-02-06 12:00:00
-17357,False,148,Barcelona,BAR,143,Atletico Madrid,ATL,None,None,None,None,2022-02-06 12:00:00
-17358,False,153,Real Betis,BET,154,Villarreal,VIL,None,None,None,None,2022-02-06 12:00:00
-17359,False,152,Celta Vigo,CEL,145,Rayo Vallecano,RVL,None,None,None,None,2022-02-06 12:00:00
-17360,False,239,Mallorca,MAL,261,Cadiz,CAD,None,None,None,None,2022-02-06 12:00:00
-17361,False,142,Getafe,GET,151,Levante,LEV,None,None,None,None,2022-02-06 12:00:00
-17362,False,157,Osasuna,OSA,138,Sevilla,SEV,None,None,None,None,2022-02-06 12:00:00
-17363,False,150,Real Madrid,RMA,155,Granada,GRA,None,None,None,None,2022-02-06 12:00:00
-17364,False,146,Valencia,VAL,140,Real Sociedad,SOC,None,None,None,None,2022-02-06 12:00:00
-17365,False,207,Elche,ELC,158,Alaves,ALA,None,None,None,None,2022-02-06 12:00:00
-17366,False,158,Alaves,ALA,146,Valencia,VAL,None,None,None,None,2022-02-13 12:00:00
-17367,False,143,Atletico Madrid,ATL,142,Getafe,GET,None,None,None,None,2022-02-13 12:00:00
-17368,False,239,Mallorca,MAL,147,Athletic Club,ATH,None,None,None,None,2022-02-13 12:00:00
-17369,False,261,Cadiz,CAD,152,Celta Vigo,CEL,None,None,None,None,2022-02-13 12:00:00
-17370,False,141,Espanyol,ESP,148,Barcelona,BAR,None,None,None,None,2022-02-13 12:00:00
-17371,False,151,Levante,LEV,153,Real Betis,BET,None,None,None,None,2022-02-13 12:00:00
-17372,False,140,Real Sociedad,SOC,155,Granada,GRA,None,None,None,None,2022-02-13 12:00:00
-17373,False,138,Sevilla,SEV,207,Elche,ELC,None,None,None,None,2022-02-13 12:00:00
-17374,False,145,Rayo Vallecano,RVL,157,Osasuna,OSA,None,None,None,None,2022-02-13 12:00:00
-17375,False,154,Villarreal,VIL,150,Real Madrid,RMA,None,None,None,None,2022-02-13 12:00:00
-17376,False,147,Athletic Club,ATH,140,Real Sociedad,SOC,None,None,None,None,2022-02-20 12:00:00
-17377,False,153,Real Betis,BET,239,Mallorca,MAL,None,None,None,None,2022-02-20 12:00:00
-17378,False,152,Celta Vigo,CEL,151,Levante,LEV,None,None,None,None,2022-02-20 12:00:00
-17379,False,261,Cadiz,CAD,142,Getafe,GET,None,None,None,None,2022-02-20 12:00:00
-17380,False,155,Granada,GRA,154,Villarreal,VIL,None,None,None,None,2022-02-20 12:00:00
-17381,False,141,Espanyol,ESP,138,Sevilla,SEV,None,None,None,None,2022-02-20 12:00:00
-17382,False,157,Osasuna,OSA,143,Atletico Madrid,ATL,None,None,None,None,2022-02-20 12:00:00
-17383,False,150,Real Madrid,RMA,158,Alaves,ALA,None,None,None,None,2022-02-20 12:00:00
-17384,False,146,Valencia,VAL,148,Barcelona,BAR,None,None,None,None,2022-02-20 12:00:00
-17385,False,207,Elche,ELC,145,Rayo Vallecano,RVL,None,None,None,None,2022-02-20 12:00:00
-17386,False,143,Atletico Madrid,ATL,152,Celta Vigo,CEL,None,None,None,None,2022-02-27 12:00:00
-17387,False,148,Barcelona,BAR,147,Athletic Club,ATH,None,None,None,None,2022-02-27 12:00:00
-17388,False,239,Mallorca,MAL,146,Valencia,VAL,None,None,None,None,2022-02-27 12:00:00
-17389,False,142,Getafe,GET,158,Alaves,ALA,None,None,None,None,2022-02-27 12:00:00
-17390,False,155,Granada,GRA,261,Cadiz,CAD,None,None,None,None,2022-02-27 12:00:00
-17391,False,151,Levante,LEV,207,Elche,ELC,None,None,None,None,2022-02-27 12:00:00
-17392,False,140,Real Sociedad,SOC,157,Osasuna,OSA,None,None,None,None,2022-02-27 12:00:00
-17393,False,138,Sevilla,SEV,153,Real Betis,BET,None,None,None,None,2022-02-27 12:00:00
-17394,False,145,Rayo Vallecano,RVL,150,Real Madrid,RMA,None,None,None,None,2022-02-27 12:00:00
-17395,False,154,Villarreal,VIL,141,Espanyol,ESP,None,None,None,None,2022-02-27 12:00:00
-17396,False,158,Alaves,ALA,138,Sevilla,SEV,None,None,None,None,2022-03-06 12:00:00
-17397,False,147,Athletic Club,ATH,151,Levante,LEV,None,None,None,None,2022-03-06 12:00:00
-17398,False,153,Real Betis,BET,143,Atletico Madrid,ATL,None,None,None,None,2022-03-06 12:00:00
-17399,False,152,Celta Vigo,CEL,239,Mallorca,MAL,None,None,None,None,2022-03-06 12:00:00
-17400,False,261,Cadiz,CAD,145,Rayo Vallecano,RVL,None,None,None,None,2022-03-06 12:00:00
-17401,False,141,Espanyol,ESP,142,Getafe,GET,None,None,None,None,2022-03-06 12:00:00
-17402,False,157,Osasuna,OSA,154,Villarreal,VIL,None,None,None,None,2022-03-06 12:00:00
-17403,False,150,Real Madrid,RMA,140,Real Sociedad,SOC,None,None,None,None,2022-03-06 12:00:00
-17404,False,146,Valencia,VAL,155,Granada,GRA,None,None,None,None,2022-03-06 12:00:00
-17405,False,207,Elche,ELC,148,Barcelona,BAR,None,None,None,None,2022-03-06 12:00:00
-17406,False,143,Atletico Madrid,ATL,261,Cadiz,CAD,None,None,None,None,2022-03-13 12:00:00
-17407,False,148,Barcelona,BAR,157,Osasuna,OSA,None,None,None,None,2022-03-13 12:00:00
-17408,False,153,Real Betis,BET,147,Athletic Club,ATH,None,None,None,None,2022-03-13 12:00:00
-17409,False,239,Mallorca,MAL,150,Real Madrid,RMA,None,None,None,None,2022-03-13 12:00:00
-17410,False,142,Getafe,GET,146,Valencia,VAL,None,None,None,None,2022-03-13 12:00:00
-17411,False,155,Granada,GRA,207,Elche,ELC,None,None,None,None,2022-03-13 12:00:00
-17412,False,151,Levante,LEV,141,Espanyol,ESP,None,None,None,None,2022-03-13 12:00:00
-17413,False,140,Real Sociedad,SOC,158,Alaves,ALA,None,None,None,None,2022-03-13 12:00:00
-17414,False,145,Rayo Vallecano,RVL,138,Sevilla,SEV,None,None,None,None,2022-03-13 12:00:00
-17415,False,154,Villarreal,VIL,152,Celta Vigo,CEL,None,None,None,None,2022-03-13 12:00:00
-17416,False,158,Alaves,ALA,155,Granada,GRA,None,None,None,None,2022-03-20 12:00:00
-17417,False,147,Athletic Club,ATH,142,Getafe,GET,None,None,None,None,2022-03-20 12:00:00
-17418,False,152,Celta Vigo,CEL,153,Real Betis,BET,None,None,None,None,2022-03-20 12:00:00
-17419,False,261,Cadiz,CAD,154,Villarreal,VIL,None,None,None,None,2022-03-20 12:00:00
-17420,False,141,Espanyol,ESP,239,Mallorca,MAL,None,None,None,None,2022-03-20 12:00:00
-17421,False,157,Osasuna,OSA,151,Levante,LEV,None,None,None,None,2022-03-20 12:00:00
-17422,False,150,Real Madrid,RMA,148,Barcelona,BAR,None,None,None,None,2022-03-20 12:00:00
-17423,False,138,Sevilla,SEV,140,Real Sociedad,SOC,None,None,None,None,2022-03-20 12:00:00
-17424,False,145,Rayo Vallecano,RVL,143,Atletico Madrid,ATL,None,None,None,None,2022-03-20 12:00:00
-17425,False,207,Elche,ELC,146,Valencia,VAL,None,None,None,None,2022-03-20 12:00:00
-17426,False,147,Athletic Club,ATH,207,Elche,ELC,None,None,None,None,2022-04-03 11:00:00
-17427,False,143,Atletico Madrid,ATL,158,Alaves,ALA,None,None,None,None,2022-04-03 11:00:00
-17428,False,148,Barcelona,BAR,138,Sevilla,SEV,None,None,None,None,2022-04-03 11:00:00
-17429,False,153,Real Betis,BET,157,Osasuna,OSA,None,None,None,None,2022-04-03 11:00:00
-17430,False,152,Celta Vigo,CEL,150,Real Madrid,RMA,None,None,None,None,2022-04-03 11:00:00
-17431,False,142,Getafe,GET,239,Mallorca,MAL,None,None,None,None,2022-04-03 11:00:00
-17432,False,155,Granada,GRA,145,Rayo Vallecano,RVL,None,None,None,None,2022-04-03 11:00:00
-17433,False,151,Levante,LEV,154,Villarreal,VIL,None,None,None,None,2022-04-03 11:00:00
-17434,False,140,Real Sociedad,SOC,141,Espanyol,ESP,None,None,None,None,2022-04-03 11:00:00
-17435,False,146,Valencia,VAL,261,Cadiz,CAD,None,None,None,None,2022-04-03 11:00:00
-17436,False,239,Mallorca,MAL,143,Atletico Madrid,ATL,None,None,None,None,2022-04-10 11:00:00
-17437,False,261,Cadiz,CAD,153,Real Betis,BET,None,None,None,None,2022-04-10 11:00:00
-17438,False,141,Espanyol,ESP,152,Celta Vigo,CEL,None,None,None,None,2022-04-10 11:00:00
-17439,False,151,Levante,LEV,148,Barcelona,BAR,None,None,None,None,2022-04-10 11:00:00
-17440,False,157,Osasuna,OSA,158,Alaves,ALA,None,None,None,None,2022-04-10 11:00:00
-17441,False,150,Real Madrid,RMA,142,Getafe,GET,None,None,None,None,2022-04-10 11:00:00
-17442,False,138,Sevilla,SEV,155,Granada,GRA,None,None,None,None,2022-04-10 11:00:00
-17443,False,145,Rayo Vallecano,RVL,146,Valencia,VAL,None,None,None,None,2022-04-10 11:00:00
-17444,False,154,Villarreal,VIL,147,Athletic Club,ATH,None,None,None,None,2022-04-10 11:00:00
-17445,False,207,Elche,ELC,140,Real Sociedad,SOC,None,None,None,None,2022-04-10 11:00:00
-17446,False,158,Alaves,ALA,145,Rayo Vallecano,RVL,None,None,None,None,2022-04-17 11:00:00
-17447,False,147,Athletic Club,ATH,152,Celta Vigo,CEL,None,None,None,None,2022-04-17 11:00:00
-17448,False,143,Atletico Madrid,ATL,141,Espanyol,ESP,None,None,None,None,2022-04-17 11:00:00
-17449,False,148,Barcelona,BAR,261,Cadiz,CAD,None,None,None,None,2022-04-17 11:00:00
-17450,False,142,Getafe,GET,154,Villarreal,VIL,None,None,None,None,2022-04-17 11:00:00
-17451,False,155,Granada,GRA,151,Levante,LEV,None,None,None,None,2022-04-17 11:00:00
-17452,False,140,Real Sociedad,SOC,153,Real Betis,BET,None,None,None,None,2022-04-17 11:00:00
-17453,False,138,Sevilla,SEV,150,Real Madrid,RMA,None,None,None,None,2022-04-17 11:00:00
-17454,False,146,Valencia,VAL,157,Osasuna,OSA,None,None,None,None,2022-04-17 11:00:00
-17455,False,207,Elche,ELC,239,Mallorca,MAL,None,None,None,None,2022-04-17 11:00:00
-17456,False,143,Atletico Madrid,ATL,155,Granada,GRA,None,None,None,None,2022-04-20 15:00:00
-17457,False,153,Real Betis,BET,207,Elche,ELC,None,None,None,None,2022-04-20 15:00:00
-17458,False,152,Celta Vigo,CEL,142,Getafe,GET,None,None,None,None,2022-04-20 15:00:00
-17459,False,239,Mallorca,MAL,158,Alaves,ALA,None,None,None,None,2022-04-20 15:00:00
-17460,False,261,Cadiz,CAD,147,Athletic Club,ATH,None,None,None,None,2022-04-20 15:00:00
-17461,False,141,Espanyol,ESP,145,Rayo Vallecano,RVL,None,None,None,None,2022-04-20 15:00:00
-17462,False,151,Levante,LEV,138,Sevilla,SEV,None,None,None,None,2022-04-20 15:00:00
-17463,False,157,Osasuna,OSA,150,Real Madrid,RMA,None,None,None,None,2022-04-20 15:00:00
-17464,False,140,Real Sociedad,SOC,148,Barcelona,BAR,None,None,None,None,2022-04-20 15:00:00
-17465,False,154,Villarreal,VIL,146,Valencia,VAL,None,None,None,None,2022-04-20 15:00:00
-17466,False,158,Alaves,ALA,154,Villarreal,VIL,None,None,None,None,2022-05-01 11:00:00
-17467,False,147,Athletic Club,ATH,143,Atletico Madrid,ATL,None,None,None,None,2022-05-01 11:00:00
-17468,False,148,Barcelona,BAR,239,Mallorca,MAL,None,None,None,None,2022-05-01 11:00:00
-17469,False,142,Getafe,GET,153,Real Betis,BET,None,None,None,None,2022-05-01 11:00:00
-17470,False,155,Granada,GRA,152,Celta Vigo,CEL,None,None,None,None,2022-05-01 11:00:00
-17471,False,150,Real Madrid,RMA,141,Espanyol,ESP,None,None,None,None,2022-05-01 11:00:00
-17472,False,138,Sevilla,SEV,261,Cadiz,CAD,None,None,None,None,2022-05-01 11:00:00
-17473,False,146,Valencia,VAL,151,Levante,LEV,None,None,None,None,2022-05-01 11:00:00
-17474,False,145,Rayo Vallecano,RVL,140,Real Sociedad,SOC,None,None,None,None,2022-05-01 11:00:00
-17475,False,207,Elche,ELC,157,Osasuna,OSA,None,None,None,None,2022-05-01 11:00:00
-17476,False,147,Athletic Club,ATH,146,Valencia,VAL,None,None,None,None,2022-05-08 11:00:00
-17477,False,143,Atletico Madrid,ATL,150,Real Madrid,RMA,None,None,None,None,2022-05-08 11:00:00
-17478,False,153,Real Betis,BET,148,Barcelona,BAR,None,None,None,None,2022-05-08 11:00:00
-17479,False,152,Celta Vigo,CEL,158,Alaves,ALA,None,None,None,None,2022-05-08 11:00:00
-17480,False,239,Mallorca,MAL,155,Granada,GRA,None,None,None,None,2022-05-08 11:00:00
-17481,False,142,Getafe,GET,145,Rayo Vallecano,RVL,None,None,None,None,2022-05-08 11:00:00
-17482,False,261,Cadiz,CAD,207,Elche,ELC,None,None,None,None,2022-05-08 11:00:00
-17483,False,141,Espanyol,ESP,157,Osasuna,OSA,None,None,None,None,2022-05-08 11:00:00
-17484,False,151,Levante,LEV,140,Real Sociedad,SOC,None,None,None,None,2022-05-08 11:00:00
-17485,False,154,Villarreal,VIL,138,Sevilla,SEV,None,None,None,None,2022-05-08 11:00:00
-17486,False,158,Alaves,ALA,141,Espanyol,ESP,None,None,None,None,2022-05-11 15:00:00
-17487,False,148,Barcelona,BAR,152,Celta Vigo,CEL,None,None,None,None,2022-05-11 15:00:00
-17488,False,155,Granada,GRA,147,Athletic Club,ATH,None,None,None,None,2022-05-11 15:00:00
-17489,False,157,Osasuna,OSA,142,Getafe,GET,None,None,None,None,2022-05-11 15:00:00
-17490,False,150,Real Madrid,RMA,151,Levante,LEV,None,None,None,None,2022-05-11 15:00:00
-17491,False,140,Real Sociedad,SOC,261,Cadiz,CAD,None,None,None,None,2022-05-11 15:00:00
-17492,False,138,Sevilla,SEV,239,Mallorca,MAL,None,None,None,None,2022-05-11 15:00:00
-17493,False,146,Valencia,VAL,153,Real Betis,BET,None,None,None,None,2022-05-11 15:00:00
-17494,False,145,Rayo Vallecano,RVL,154,Villarreal,VIL,None,None,None,None,2022-05-11 15:00:00
-17495,False,207,Elche,ELC,143,Atletico Madrid,ATL,None,None,None,None,2022-05-11 15:00:00
-17496,False,147,Athletic Club,ATH,157,Osasuna,OSA,None,None,None,None,2022-05-15 11:00:00
-17497,False,143,Atletico Madrid,ATL,138,Sevilla,SEV,None,None,None,None,2022-05-15 11:00:00
-17498,False,153,Real Betis,BET,155,Granada,GRA,None,None,None,None,2022-05-15 11:00:00
-17499,False,152,Celta Vigo,CEL,207,Elche,ELC,None,None,None,None,2022-05-15 11:00:00
-17500,False,239,Mallorca,MAL,145,Rayo Vallecano,RVL,None,None,None,None,2022-05-15 11:00:00
-17501,False,142,Getafe,GET,148,Barcelona,BAR,None,None,None,None,2022-05-15 11:00:00
-17502,False,261,Cadiz,CAD,150,Real Madrid,RMA,None,None,None,None,2022-05-15 11:00:00
-17503,False,141,Espanyol,ESP,146,Valencia,VAL,None,None,None,None,2022-05-15 11:00:00
-17504,False,151,Levante,LEV,158,Alaves,ALA,None,None,None,None,2022-05-15 11:00:00
-17505,False,154,Villarreal,VIL,140,Real Sociedad,SOC,None,None,None,None,2022-05-15 11:00:00
-17506,False,158,Alaves,ALA,261,Cadiz,CAD,None,None,None,None,2022-05-22 11:00:00
-17507,False,148,Barcelona,BAR,154,Villarreal,VIL,None,None,None,None,2022-05-22 11:00:00
-17508,False,155,Granada,GRA,141,Espanyol,ESP,None,None,None,None,2022-05-22 11:00:00
-17509,False,157,Osasuna,OSA,239,Mallorca,MAL,None,None,None,None,2022-05-22 11:00:00
-17510,False,150,Real Madrid,RMA,153,Real Betis,BET,None,None,None,None,2022-05-22 11:00:00
-17511,False,140,Real Sociedad,SOC,143,Atletico Madrid,ATL,None,None,None,None,2022-05-22 11:00:00
-17512,False,138,Sevilla,SEV,147,Athletic Club,ATH,None,None,None,None,2022-05-22 11:00:00
-17513,False,146,Valencia,VAL,152,Celta Vigo,CEL,None,None,None,None,2022-05-22 11:00:00
-17514,False,145,Rayo Vallecano,RVL,151,Levante,LEV,None,None,None,None,2022-05-22 11:00:00
-17515,False,207,Elche,ELC,142,Getafe,GET,None,None,None,None,2022-05-22 11:00:00
+17271,False,151,Levante,LEV,147,Athletic Club,ATH,None,None,None,None,2021-11-19 20:00:00
+17268,False,152,Celta Vigo,CEL,154,Villarreal,VIL,None,None,None,None,2021-11-20 13:00:00
+17273,False,138,Sevilla,SEV,158,Alaves,ALA,None,None,None,None,2021-11-20 15:15:00
+17266,False,143,Atletico Madrid,ATL,157,Osasuna,OSA,None,None,None,None,2021-11-20 17:30:00
+17267,False,148,Barcelona,BAR,141,Espanyol,ESP,None,None,None,None,2021-11-20 20:00:00
+17269,False,142,Getafe,GET,261,Cadiz,CAD,None,None,None,None,2021-11-21 13:00:00
+17270,False,155,Granada,GRA,150,Real Madrid,RMA,None,None,None,None,2021-11-21 15:15:00
+17275,False,207,Elche,ELC,153,Real Betis,BET,None,None,None,None,2021-11-21 17:30:00
+17272,False,140,Real Sociedad,SOC,146,Valencia,VAL,None,None,None,None,2021-11-21 20:00:00
+17274,False,145,Rayo Vallecano,RVL,239,Mallorca,MAL,None,None,None,None,2021-11-22 20:00:00
+17276,False,158,Alaves,ALA,152,Celta Vigo,CEL,None,None,None,None,2021-11-28 16:00:00
+17277,False,147,Athletic Club,ATH,155,Granada,GRA,None,None,None,None,2021-11-28 16:00:00
+17278,False,153,Real Betis,BET,151,Levante,LEV,None,None,None,None,2021-11-28 16:00:00
+17279,False,239,Mallorca,MAL,142,Getafe,GET,None,None,None,None,2021-11-28 16:00:00
+17280,False,261,Cadiz,CAD,143,Atletico Madrid,ATL,None,None,None,None,2021-11-28 16:00:00
+17281,False,141,Espanyol,ESP,140,Real Sociedad,SOC,None,None,None,None,2021-11-28 16:00:00
+17282,False,157,Osasuna,OSA,207,Elche,ELC,None,None,None,None,2021-11-28 16:00:00
+17283,False,150,Real Madrid,RMA,138,Sevilla,SEV,None,None,None,None,2021-11-28 16:00:00
+17284,False,146,Valencia,VAL,145,Rayo Vallecano,RVL,None,None,None,None,2021-11-28 16:00:00
+17285,False,154,Villarreal,VIL,148,Barcelona,BAR,None,None,None,None,2021-11-28 16:00:00
+17286,False,143,Atletico Madrid,ATL,239,Mallorca,MAL,None,None,None,None,2021-12-05 10:00:00
+17287,False,148,Barcelona,BAR,153,Real Betis,BET,None,None,None,None,2021-12-05 10:00:00
+17288,False,152,Celta Vigo,CEL,146,Valencia,VAL,None,None,None,None,2021-12-05 10:00:00
+17289,False,142,Getafe,GET,147,Athletic Club,ATH,None,None,None,None,2021-12-05 10:00:00
+17290,False,155,Granada,GRA,158,Alaves,ALA,None,None,None,None,2021-12-05 10:00:00
+17291,False,151,Levante,LEV,157,Osasuna,OSA,None,None,None,None,2021-12-05 10:00:00
+17292,False,138,Sevilla,SEV,154,Villarreal,VIL,None,None,None,None,2021-12-05 10:00:00
+17293,False,145,Rayo Vallecano,RVL,141,Espanyol,ESP,None,None,None,None,2021-12-05 10:00:00
+17294,False,207,Elche,ELC,261,Cadiz,CAD,None,None,None,None,2021-12-05 10:00:00
+17295,False,140,Real Sociedad,SOC,150,Real Madrid,RMA,None,None,None,None,2021-12-05 10:00:00
+17296,False,158,Alaves,ALA,142,Getafe,GET,None,None,None,None,2021-12-12 10:00:00
+17297,False,147,Athletic Club,ATH,138,Sevilla,SEV,None,None,None,None,2021-12-12 10:00:00
+17298,False,153,Real Betis,BET,140,Real Sociedad,SOC,None,None,None,None,2021-12-12 10:00:00
+17299,False,239,Mallorca,MAL,152,Celta Vigo,CEL,None,None,None,None,2021-12-12 10:00:00
+17300,False,261,Cadiz,CAD,155,Granada,GRA,None,None,None,None,2021-12-12 10:00:00
+17301,False,141,Espanyol,ESP,151,Levante,LEV,None,None,None,None,2021-12-12 10:00:00
+17302,False,157,Osasuna,OSA,148,Barcelona,BAR,None,None,None,None,2021-12-12 10:00:00
+17303,False,150,Real Madrid,RMA,143,Atletico Madrid,ATL,None,None,None,None,2021-12-12 10:00:00
+17304,False,146,Valencia,VAL,207,Elche,ELC,None,None,None,None,2021-12-12 10:00:00
+17305,False,154,Villarreal,VIL,145,Rayo Vallecano,RVL,None,None,None,None,2021-12-12 10:00:00
+17306,False,147,Athletic Club,ATH,153,Real Betis,BET,None,None,None,None,2021-12-19 10:00:00
+17307,False,148,Barcelona,BAR,207,Elche,ELC,None,None,None,None,2021-12-19 10:00:00
+17308,False,152,Celta Vigo,CEL,141,Espanyol,ESP,None,None,None,None,2021-12-19 10:00:00
+17309,False,155,Granada,GRA,239,Mallorca,MAL,None,None,None,None,2021-12-19 10:00:00
+17310,False,142,Getafe,GET,157,Osasuna,OSA,None,None,None,None,2021-12-19 10:00:00
+17311,False,138,Sevilla,SEV,143,Atletico Madrid,ATL,None,None,None,None,2021-12-19 10:00:00
+17312,False,140,Real Sociedad,SOC,154,Villarreal,VIL,None,None,None,None,2021-12-19 10:00:00
+17313,False,150,Real Madrid,RMA,261,Cadiz,CAD,None,None,None,None,2021-12-19 10:00:00
+17314,False,151,Levante,LEV,146,Valencia,VAL,None,None,None,None,2021-12-19 10:00:00
+17315,False,145,Rayo Vallecano,RVL,158,Alaves,ALA,None,None,None,None,2021-12-19 10:00:00
+17316,False,207,Elche,ELC,155,Granada,GRA,None,None,None,None,2022-01-02 10:00:00
+17317,False,146,Valencia,VAL,141,Espanyol,ESP,None,None,None,None,2022-01-02 10:00:00
+17318,False,154,Villarreal,VIL,151,Levante,LEV,None,None,None,None,2022-01-02 10:00:00
+17319,False,158,Alaves,ALA,140,Real Sociedad,SOC,None,None,None,None,2022-01-02 10:00:00
+17320,False,143,Atletico Madrid,ATL,145,Rayo Vallecano,RVL,None,None,None,None,2022-01-02 10:00:00
+17321,False,153,Real Betis,BET,152,Celta Vigo,CEL,None,None,None,None,2022-01-02 10:00:00
+17322,False,239,Mallorca,MAL,148,Barcelona,BAR,None,None,None,None,2022-01-02 10:00:00
+17323,False,142,Getafe,GET,150,Real Madrid,RMA,None,None,None,None,2022-01-02 10:00:00
+17324,False,261,Cadiz,CAD,138,Sevilla,SEV,None,None,None,None,2022-01-02 10:00:00
+17325,False,157,Osasuna,OSA,147,Athletic Club,ATH,None,None,None,None,2022-01-02 10:00:00
+17326,False,158,Alaves,ALA,147,Athletic Club,ATH,None,None,None,None,2022-01-09 10:00:00
+17327,False,155,Granada,GRA,148,Barcelona,BAR,None,None,None,None,2022-01-09 10:00:00
+17328,False,141,Espanyol,ESP,207,Elche,ELC,None,None,None,None,2022-01-09 10:00:00
+17329,False,151,Levante,LEV,239,Mallorca,MAL,None,None,None,None,2022-01-09 10:00:00
+17330,False,157,Osasuna,OSA,261,Cadiz,CAD,None,None,None,None,2022-01-09 10:00:00
+17331,False,150,Real Madrid,RMA,146,Valencia,VAL,None,None,None,None,2022-01-09 10:00:00
+17332,False,140,Real Sociedad,SOC,152,Celta Vigo,CEL,None,None,None,None,2022-01-09 10:00:00
+17333,False,138,Sevilla,SEV,142,Getafe,GET,None,None,None,None,2022-01-09 10:00:00
+17334,False,145,Rayo Vallecano,RVL,153,Real Betis,BET,None,None,None,None,2022-01-09 10:00:00
+17335,False,154,Villarreal,VIL,143,Atletico Madrid,ATL,None,None,None,None,2022-01-09 10:00:00
+17336,False,147,Athletic Club,ATH,150,Real Madrid,RMA,None,None,None,None,2022-01-19 14:00:00
+17337,False,143,Atletico Madrid,ATL,151,Levante,LEV,None,None,None,None,2022-01-19 14:00:00
+17338,False,148,Barcelona,BAR,145,Rayo Vallecano,RVL,None,None,None,None,2022-01-19 14:00:00
+17339,False,153,Real Betis,BET,158,Alaves,ALA,None,None,None,None,2022-01-19 14:00:00
+17340,False,152,Celta Vigo,CEL,157,Osasuna,OSA,None,None,None,None,2022-01-19 14:00:00
+17341,False,239,Mallorca,MAL,140,Real Sociedad,SOC,None,None,None,None,2022-01-19 14:00:00
+17342,False,142,Getafe,GET,155,Granada,GRA,None,None,None,None,2022-01-19 14:00:00
+17343,False,261,Cadiz,CAD,141,Espanyol,ESP,None,None,None,None,2022-01-19 14:00:00
+17344,False,146,Valencia,VAL,138,Sevilla,SEV,None,None,None,None,2022-01-19 14:00:00
+17345,False,207,Elche,ELC,154,Villarreal,VIL,None,None,None,None,2022-01-19 14:00:00
+17346,False,158,Alaves,ALA,148,Barcelona,BAR,None,None,None,None,2022-01-23 10:00:00
+17347,False,143,Atletico Madrid,ATL,146,Valencia,VAL,None,None,None,None,2022-01-23 10:00:00
+17348,False,155,Granada,GRA,157,Osasuna,OSA,None,None,None,None,2022-01-23 10:00:00
+17349,False,141,Espanyol,ESP,153,Real Betis,BET,None,None,None,None,2022-01-23 10:00:00
+17350,False,151,Levante,LEV,261,Cadiz,CAD,None,None,None,None,2022-01-23 10:00:00
+17351,False,150,Real Madrid,RMA,207,Elche,ELC,None,None,None,None,2022-01-23 10:00:00
+17352,False,140,Real Sociedad,SOC,142,Getafe,GET,None,None,None,None,2022-01-23 10:00:00
+17353,False,138,Sevilla,SEV,152,Celta Vigo,CEL,None,None,None,None,2022-01-23 10:00:00
+17354,False,145,Rayo Vallecano,RVL,147,Athletic Club,ATH,None,None,None,None,2022-01-23 10:00:00
+17355,False,154,Villarreal,VIL,239,Mallorca,MAL,None,None,None,None,2022-01-23 10:00:00
+17356,False,147,Athletic Club,ATH,141,Espanyol,ESP,None,None,None,None,2022-02-06 10:00:00
+17357,False,148,Barcelona,BAR,143,Atletico Madrid,ATL,None,None,None,None,2022-02-06 10:00:00
+17358,False,153,Real Betis,BET,154,Villarreal,VIL,None,None,None,None,2022-02-06 10:00:00
+17359,False,152,Celta Vigo,CEL,145,Rayo Vallecano,RVL,None,None,None,None,2022-02-06 10:00:00
+17360,False,239,Mallorca,MAL,261,Cadiz,CAD,None,None,None,None,2022-02-06 10:00:00
+17361,False,142,Getafe,GET,151,Levante,LEV,None,None,None,None,2022-02-06 10:00:00
+17362,False,157,Osasuna,OSA,138,Sevilla,SEV,None,None,None,None,2022-02-06 10:00:00
+17363,False,150,Real Madrid,RMA,155,Granada,GRA,None,None,None,None,2022-02-06 10:00:00
+17364,False,146,Valencia,VAL,140,Real Sociedad,SOC,None,None,None,None,2022-02-06 10:00:00
+17365,False,207,Elche,ELC,158,Alaves,ALA,None,None,None,None,2022-02-06 10:00:00
+17366,False,158,Alaves,ALA,146,Valencia,VAL,None,None,None,None,2022-02-13 10:00:00
+17367,False,143,Atletico Madrid,ATL,142,Getafe,GET,None,None,None,None,2022-02-13 10:00:00
+17368,False,239,Mallorca,MAL,147,Athletic Club,ATH,None,None,None,None,2022-02-13 10:00:00
+17369,False,261,Cadiz,CAD,152,Celta Vigo,CEL,None,None,None,None,2022-02-13 10:00:00
+17370,False,141,Espanyol,ESP,148,Barcelona,BAR,None,None,None,None,2022-02-13 10:00:00
+17371,False,151,Levante,LEV,153,Real Betis,BET,None,None,None,None,2022-02-13 10:00:00
+17372,False,140,Real Sociedad,SOC,155,Granada,GRA,None,None,None,None,2022-02-13 10:00:00
+17373,False,138,Sevilla,SEV,207,Elche,ELC,None,None,None,None,2022-02-13 10:00:00
+17374,False,145,Rayo Vallecano,RVL,157,Osasuna,OSA,None,None,None,None,2022-02-13 10:00:00
+17375,False,154,Villarreal,VIL,150,Real Madrid,RMA,None,None,None,None,2022-02-13 10:00:00
+17376,False,147,Athletic Club,ATH,140,Real Sociedad,SOC,None,None,None,None,2022-02-20 10:00:00
+17377,False,153,Real Betis,BET,239,Mallorca,MAL,None,None,None,None,2022-02-20 10:00:00
+17378,False,152,Celta Vigo,CEL,151,Levante,LEV,None,None,None,None,2022-02-20 10:00:00
+17379,False,261,Cadiz,CAD,142,Getafe,GET,None,None,None,None,2022-02-20 10:00:00
+17380,False,155,Granada,GRA,154,Villarreal,VIL,None,None,None,None,2022-02-20 10:00:00
+17381,False,141,Espanyol,ESP,138,Sevilla,SEV,None,None,None,None,2022-02-20 10:00:00
+17382,False,157,Osasuna,OSA,143,Atletico Madrid,ATL,None,None,None,None,2022-02-20 10:00:00
+17383,False,150,Real Madrid,RMA,158,Alaves,ALA,None,None,None,None,2022-02-20 10:00:00
+17384,False,146,Valencia,VAL,148,Barcelona,BAR,None,None,None,None,2022-02-20 10:00:00
+17385,False,207,Elche,ELC,145,Rayo Vallecano,RVL,None,None,None,None,2022-02-20 10:00:00
+17386,False,143,Atletico Madrid,ATL,152,Celta Vigo,CEL,None,None,None,None,2022-02-27 10:00:00
+17387,False,148,Barcelona,BAR,147,Athletic Club,ATH,None,None,None,None,2022-02-27 10:00:00
+17388,False,239,Mallorca,MAL,146,Valencia,VAL,None,None,None,None,2022-02-27 10:00:00
+17389,False,142,Getafe,GET,158,Alaves,ALA,None,None,None,None,2022-02-27 10:00:00
+17390,False,155,Granada,GRA,261,Cadiz,CAD,None,None,None,None,2022-02-27 10:00:00
+17391,False,151,Levante,LEV,207,Elche,ELC,None,None,None,None,2022-02-27 10:00:00
+17392,False,140,Real Sociedad,SOC,157,Osasuna,OSA,None,None,None,None,2022-02-27 10:00:00
+17393,False,138,Sevilla,SEV,153,Real Betis,BET,None,None,None,None,2022-02-27 10:00:00
+17394,False,145,Rayo Vallecano,RVL,150,Real Madrid,RMA,None,None,None,None,2022-02-27 10:00:00
+17395,False,154,Villarreal,VIL,141,Espanyol,ESP,None,None,None,None,2022-02-27 10:00:00
+17396,False,158,Alaves,ALA,138,Sevilla,SEV,None,None,None,None,2022-03-06 10:00:00
+17397,False,147,Athletic Club,ATH,151,Levante,LEV,None,None,None,None,2022-03-06 10:00:00
+17398,False,153,Real Betis,BET,143,Atletico Madrid,ATL,None,None,None,None,2022-03-06 10:00:00
+17399,False,152,Celta Vigo,CEL,239,Mallorca,MAL,None,None,None,None,2022-03-06 10:00:00
+17400,False,261,Cadiz,CAD,145,Rayo Vallecano,RVL,None,None,None,None,2022-03-06 10:00:00
+17401,False,141,Espanyol,ESP,142,Getafe,GET,None,None,None,None,2022-03-06 10:00:00
+17402,False,157,Osasuna,OSA,154,Villarreal,VIL,None,None,None,None,2022-03-06 10:00:00
+17403,False,150,Real Madrid,RMA,140,Real Sociedad,SOC,None,None,None,None,2022-03-06 10:00:00
+17404,False,146,Valencia,VAL,155,Granada,GRA,None,None,None,None,2022-03-06 10:00:00
+17405,False,207,Elche,ELC,148,Barcelona,BAR,None,None,None,None,2022-03-06 10:00:00
+17406,False,143,Atletico Madrid,ATL,261,Cadiz,CAD,None,None,None,None,2022-03-13 10:00:00
+17407,False,148,Barcelona,BAR,157,Osasuna,OSA,None,None,None,None,2022-03-13 10:00:00
+17408,False,153,Real Betis,BET,147,Athletic Club,ATH,None,None,None,None,2022-03-13 10:00:00
+17409,False,239,Mallorca,MAL,150,Real Madrid,RMA,None,None,None,None,2022-03-13 10:00:00
+17410,False,142,Getafe,GET,146,Valencia,VAL,None,None,None,None,2022-03-13 10:00:00
+17411,False,155,Granada,GRA,207,Elche,ELC,None,None,None,None,2022-03-13 10:00:00
+17412,False,151,Levante,LEV,141,Espanyol,ESP,None,None,None,None,2022-03-13 10:00:00
+17413,False,140,Real Sociedad,SOC,158,Alaves,ALA,None,None,None,None,2022-03-13 10:00:00
+17414,False,145,Rayo Vallecano,RVL,138,Sevilla,SEV,None,None,None,None,2022-03-13 10:00:00
+17415,False,154,Villarreal,VIL,152,Celta Vigo,CEL,None,None,None,None,2022-03-13 10:00:00
+17416,False,158,Alaves,ALA,155,Granada,GRA,None,None,None,None,2022-03-20 10:00:00
+17417,False,147,Athletic Club,ATH,142,Getafe,GET,None,None,None,None,2022-03-20 10:00:00
+17418,False,152,Celta Vigo,CEL,153,Real Betis,BET,None,None,None,None,2022-03-20 10:00:00
+17419,False,261,Cadiz,CAD,154,Villarreal,VIL,None,None,None,None,2022-03-20 10:00:00
+17420,False,141,Espanyol,ESP,239,Mallorca,MAL,None,None,None,None,2022-03-20 10:00:00
+17421,False,157,Osasuna,OSA,151,Levante,LEV,None,None,None,None,2022-03-20 10:00:00
+17422,False,150,Real Madrid,RMA,148,Barcelona,BAR,None,None,None,None,2022-03-20 10:00:00
+17423,False,138,Sevilla,SEV,140,Real Sociedad,SOC,None,None,None,None,2022-03-20 10:00:00
+17424,False,145,Rayo Vallecano,RVL,143,Atletico Madrid,ATL,None,None,None,None,2022-03-20 10:00:00
+17425,False,207,Elche,ELC,146,Valencia,VAL,None,None,None,None,2022-03-20 10:00:00
+17426,False,147,Athletic Club,ATH,207,Elche,ELC,None,None,None,None,2022-04-03 09:00:00
+17427,False,143,Atletico Madrid,ATL,158,Alaves,ALA,None,None,None,None,2022-04-03 09:00:00
+17428,False,148,Barcelona,BAR,138,Sevilla,SEV,None,None,None,None,2022-04-03 09:00:00
+17429,False,153,Real Betis,BET,157,Osasuna,OSA,None,None,None,None,2022-04-03 09:00:00
+17430,False,152,Celta Vigo,CEL,150,Real Madrid,RMA,None,None,None,None,2022-04-03 09:00:00
+17431,False,142,Getafe,GET,239,Mallorca,MAL,None,None,None,None,2022-04-03 09:00:00
+17432,False,155,Granada,GRA,145,Rayo Vallecano,RVL,None,None,None,None,2022-04-03 09:00:00
+17433,False,151,Levante,LEV,154,Villarreal,VIL,None,None,None,None,2022-04-03 09:00:00
+17434,False,140,Real Sociedad,SOC,141,Espanyol,ESP,None,None,None,None,2022-04-03 09:00:00
+17435,False,146,Valencia,VAL,261,Cadiz,CAD,None,None,None,None,2022-04-03 09:00:00
+17436,False,239,Mallorca,MAL,143,Atletico Madrid,ATL,None,None,None,None,2022-04-10 09:00:00
+17437,False,261,Cadiz,CAD,153,Real Betis,BET,None,None,None,None,2022-04-10 09:00:00
+17438,False,141,Espanyol,ESP,152,Celta Vigo,CEL,None,None,None,None,2022-04-10 09:00:00
+17439,False,151,Levante,LEV,148,Barcelona,BAR,None,None,None,None,2022-04-10 09:00:00
+17440,False,157,Osasuna,OSA,158,Alaves,ALA,None,None,None,None,2022-04-10 09:00:00
+17441,False,150,Real Madrid,RMA,142,Getafe,GET,None,None,None,None,2022-04-10 09:00:00
+17442,False,138,Sevilla,SEV,155,Granada,GRA,None,None,None,None,2022-04-10 09:00:00
+17443,False,145,Rayo Vallecano,RVL,146,Valencia,VAL,None,None,None,None,2022-04-10 09:00:00
+17444,False,154,Villarreal,VIL,147,Athletic Club,ATH,None,None,None,None,2022-04-10 09:00:00
+17445,False,207,Elche,ELC,140,Real Sociedad,SOC,None,None,None,None,2022-04-10 09:00:00
+17446,False,158,Alaves,ALA,145,Rayo Vallecano,RVL,None,None,None,None,2022-04-17 09:00:00
+17447,False,147,Athletic Club,ATH,152,Celta Vigo,CEL,None,None,None,None,2022-04-17 09:00:00
+17448,False,143,Atletico Madrid,ATL,141,Espanyol,ESP,None,None,None,None,2022-04-17 09:00:00
+17449,False,148,Barcelona,BAR,261,Cadiz,CAD,None,None,None,None,2022-04-17 09:00:00
+17450,False,142,Getafe,GET,154,Villarreal,VIL,None,None,None,None,2022-04-17 09:00:00
+17451,False,155,Granada,GRA,151,Levante,LEV,None,None,None,None,2022-04-17 09:00:00
+17452,False,140,Real Sociedad,SOC,153,Real Betis,BET,None,None,None,None,2022-04-17 09:00:00
+17453,False,138,Sevilla,SEV,150,Real Madrid,RMA,None,None,None,None,2022-04-17 09:00:00
+17454,False,146,Valencia,VAL,157,Osasuna,OSA,None,None,None,None,2022-04-17 09:00:00
+17455,False,207,Elche,ELC,239,Mallorca,MAL,None,None,None,None,2022-04-17 09:00:00
+17456,False,143,Atletico Madrid,ATL,155,Granada,GRA,None,None,None,None,2022-04-20 13:00:00
+17457,False,153,Real Betis,BET,207,Elche,ELC,None,None,None,None,2022-04-20 13:00:00
+17458,False,152,Celta Vigo,CEL,142,Getafe,GET,None,None,None,None,2022-04-20 13:00:00
+17459,False,239,Mallorca,MAL,158,Alaves,ALA,None,None,None,None,2022-04-20 13:00:00
+17460,False,261,Cadiz,CAD,147,Athletic Club,ATH,None,None,None,None,2022-04-20 13:00:00
+17461,False,141,Espanyol,ESP,145,Rayo Vallecano,RVL,None,None,None,None,2022-04-20 13:00:00
+17462,False,151,Levante,LEV,138,Sevilla,SEV,None,None,None,None,2022-04-20 13:00:00
+17463,False,157,Osasuna,OSA,150,Real Madrid,RMA,None,None,None,None,2022-04-20 13:00:00
+17464,False,140,Real Sociedad,SOC,148,Barcelona,BAR,None,None,None,None,2022-04-20 13:00:00
+17465,False,154,Villarreal,VIL,146,Valencia,VAL,None,None,None,None,2022-04-20 13:00:00
+17466,False,158,Alaves,ALA,154,Villarreal,VIL,None,None,None,None,2022-05-01 09:00:00
+17467,False,147,Athletic Club,ATH,143,Atletico Madrid,ATL,None,None,None,None,2022-05-01 09:00:00
+17468,False,148,Barcelona,BAR,239,Mallorca,MAL,None,None,None,None,2022-05-01 09:00:00
+17469,False,142,Getafe,GET,153,Real Betis,BET,None,None,None,None,2022-05-01 09:00:00
+17470,False,155,Granada,GRA,152,Celta Vigo,CEL,None,None,None,None,2022-05-01 09:00:00
+17471,False,150,Real Madrid,RMA,141,Espanyol,ESP,None,None,None,None,2022-05-01 09:00:00
+17472,False,138,Sevilla,SEV,261,Cadiz,CAD,None,None,None,None,2022-05-01 09:00:00
+17473,False,146,Valencia,VAL,151,Levante,LEV,None,None,None,None,2022-05-01 09:00:00
+17474,False,145,Rayo Vallecano,RVL,140,Real Sociedad,SOC,None,None,None,None,2022-05-01 09:00:00
+17475,False,207,Elche,ELC,157,Osasuna,OSA,None,None,None,None,2022-05-01 09:00:00
+17476,False,147,Athletic Club,ATH,146,Valencia,VAL,None,None,None,None,2022-05-08 09:00:00
+17477,False,143,Atletico Madrid,ATL,150,Real Madrid,RMA,None,None,None,None,2022-05-08 09:00:00
+17478,False,153,Real Betis,BET,148,Barcelona,BAR,None,None,None,None,2022-05-08 09:00:00
+17479,False,152,Celta Vigo,CEL,158,Alaves,ALA,None,None,None,None,2022-05-08 09:00:00
+17480,False,239,Mallorca,MAL,155,Granada,GRA,None,None,None,None,2022-05-08 09:00:00
+17481,False,142,Getafe,GET,145,Rayo Vallecano,RVL,None,None,None,None,2022-05-08 09:00:00
+17482,False,261,Cadiz,CAD,207,Elche,ELC,None,None,None,None,2022-05-08 09:00:00
+17483,False,141,Espanyol,ESP,157,Osasuna,OSA,None,None,None,None,2022-05-08 09:00:00
+17484,False,151,Levante,LEV,140,Real Sociedad,SOC,None,None,None,None,2022-05-08 09:00:00
+17485,False,154,Villarreal,VIL,138,Sevilla,SEV,None,None,None,None,2022-05-08 09:00:00
+17486,False,158,Alaves,ALA,141,Espanyol,ESP,None,None,None,None,2022-05-11 13:00:00
+17487,False,148,Barcelona,BAR,152,Celta Vigo,CEL,None,None,None,None,2022-05-11 13:00:00
+17488,False,155,Granada,GRA,147,Athletic Club,ATH,None,None,None,None,2022-05-11 13:00:00
+17489,False,157,Osasuna,OSA,142,Getafe,GET,None,None,None,None,2022-05-11 13:00:00
+17490,False,150,Real Madrid,RMA,151,Levante,LEV,None,None,None,None,2022-05-11 13:00:00
+17491,False,140,Real Sociedad,SOC,261,Cadiz,CAD,None,None,None,None,2022-05-11 13:00:00
+17492,False,138,Sevilla,SEV,239,Mallorca,MAL,None,None,None,None,2022-05-11 13:00:00
+17493,False,146,Valencia,VAL,153,Real Betis,BET,None,None,None,None,2022-05-11 13:00:00
+17494,False,145,Rayo Vallecano,RVL,154,Villarreal,VIL,None,None,None,None,2022-05-11 13:00:00
+17495,False,207,Elche,ELC,143,Atletico Madrid,ATL,None,None,None,None,2022-05-11 13:00:00
+17496,False,147,Athletic Club,ATH,157,Osasuna,OSA,None,None,None,None,2022-05-15 09:00:00
+17497,False,143,Atletico Madrid,ATL,138,Sevilla,SEV,None,None,None,None,2022-05-15 09:00:00
+17498,False,153,Real Betis,BET,155,Granada,GRA,None,None,None,None,2022-05-15 09:00:00
+17499,False,152,Celta Vigo,CEL,207,Elche,ELC,None,None,None,None,2022-05-15 09:00:00
+17500,False,239,Mallorca,MAL,145,Rayo Vallecano,RVL,None,None,None,None,2022-05-15 09:00:00
+17501,False,142,Getafe,GET,148,Barcelona,BAR,None,None,None,None,2022-05-15 09:00:00
+17502,False,261,Cadiz,CAD,150,Real Madrid,RMA,None,None,None,None,2022-05-15 09:00:00
+17503,False,141,Espanyol,ESP,146,Valencia,VAL,None,None,None,None,2022-05-15 09:00:00
+17504,False,151,Levante,LEV,158,Alaves,ALA,None,None,None,None,2022-05-15 09:00:00
+17505,False,154,Villarreal,VIL,140,Real Sociedad,SOC,None,None,None,None,2022-05-15 09:00:00
+17506,False,158,Alaves,ALA,261,Cadiz,CAD,None,None,None,None,2022-05-22 09:00:00
+17507,False,148,Barcelona,BAR,154,Villarreal,VIL,None,None,None,None,2022-05-22 09:00:00
+17508,False,155,Granada,GRA,141,Espanyol,ESP,None,None,None,None,2022-05-22 09:00:00
+17509,False,157,Osasuna,OSA,239,Mallorca,MAL,None,None,None,None,2022-05-22 09:00:00
+17510,False,150,Real Madrid,RMA,153,Real Betis,BET,None,None,None,None,2022-05-22 09:00:00
+17511,False,140,Real Sociedad,SOC,143,Atletico Madrid,ATL,None,None,None,None,2022-05-22 09:00:00
+17512,False,138,Sevilla,SEV,147,Athletic Club,ATH,None,None,None,None,2022-05-22 09:00:00
+17513,False,146,Valencia,VAL,152,Celta Vigo,CEL,None,None,None,None,2022-05-22 09:00:00
+17514,False,145,Rayo Vallecano,RVL,151,Levante,LEV,None,None,None,None,2022-05-22 09:00:00
+17515,False,207,Elche,ELC,142,Getafe,GET,None,None,None,None,2022-05-22 09:00:00
