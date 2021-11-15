@@ -1,8 +1,8 @@
 import os
-from datas_for_converting.file_caller import caller
-from datas_for_converting.fixtures_result_converter import convert_fr
-from datas_for_converting.match_converter import convert_m
-from datas_for_converting.table_converter import convert_t
+from data_handler_files.converter_files.file_caller import caller
+from data_handler_files.converter_files.fixtures_result_converter import convert_fr
+from data_handler_files.converter_files.match_converter import convert_m
+from data_handler_files.converter_files.table_converter import convert_t
 
 f = []
 for (dirpath, dirnames, filenames) in os.walk(input("Mi a konvertálandó fájlok mappájának útvonala: ")):
@@ -11,11 +11,11 @@ for (dirpath, dirnames, filenames) in os.walk(input("Mi a konvertálandó fájlo
 
 
 def convert():
-  error=input("Hova kerüljenek a hibás fájlok?")
+  csv_path=os.path.abspath("converted_csv_datas")
   main_path=f
   for i in main_path:
     all_path=str(dirpath)+"\\"+str(i)
-    recall= caller(all_path)
+    recall= caller(all_path,csv_path)
     if recall[0] == all_path[-4:]:
       continue
     if "fixtures" in recall[0]:
