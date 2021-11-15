@@ -2,13 +2,14 @@ import asyncio
 import json
 
 import xlsxwriter
-
+import os
 import aiohttp
 
 from understat import Understat
 
 
 async def main():
+    raw_tables=os.path.abspath("../../raw_json_datas")
     async with aiohttp.ClientSession(connector=aiohttp.TCPConnector(ssl=False)) as session:
         understat = Understat(session)
         fixturesepl = await understat.get_league_fixtures("epl", 2021)
@@ -18,22 +19,22 @@ async def main():
         fixturesligue1 = await understat.get_league_fixtures("ligue_1", 2021)
         fixturesrfpl = await understat.get_league_fixtures("rfpl", 2021)
 
-        f = open("json/fixtures/fixturesepl.json", "w")
+        f = open(raw_tables+"/fixtures/fixturesepl.json", "w")
         f.write(json.dumps(fixturesepl))
 
-        f = open("json/fixtures/fixtureslaliga.json", "w")
+        f = open(raw_tables+"/fixtures/fixtureslaliga.json", "w")
         f.write(json.dumps(fixtureslaliga))
 
-        f = open("json/fixtures/fixturesbundesliga.json", "w")
+        f = open(raw_tables+"/fixtures/fixturesbundesliga.json", "w")
         f.write(json.dumps(fixturesbundesliga))
 
-        f = open("json/fixtures/fixturesseriea.json", "w")
+        f = open(raw_tables+"/fixtures/fixturesseriea.json", "w")
         f.write(json.dumps(fixturesseriea))
 
-        f = open("json/fixtures/fixturesligue1.json", "w")
+        f = open(raw_tables+"/fixtures/fixturesligue1.json", "w")
         f.write(json.dumps(fixturesligue1))
 
-        f = open("json/fixtures/fixturesrfpl.json", "w")
+        f = open(raw_tables+"/fixtures/fixturesrfpl.json", "w")
         f.write(json.dumps(fixturesrfpl))
         f.close()
 

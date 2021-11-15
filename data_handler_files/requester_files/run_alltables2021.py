@@ -1,6 +1,6 @@
 import asyncio
 import json
-
+import os
 import xlsxwriter
 
 import aiohttp
@@ -9,6 +9,7 @@ from understat import Understat
 
 
 async def main():
+    raw_tables=os.path.abspath("../../raw_json_datas/table/2021")
     async with aiohttp.ClientSession(connector=aiohttp.TCPConnector(ssl=False)) as session:
         understat = Understat(session)
         tableepl = await understat.get_league_table("epl", 2021)
@@ -18,22 +19,22 @@ async def main():
         tableligue1 = await understat.get_league_table("ligue_1", 2021)
         tablerfpl = await understat.get_league_table("rfpl", 2021)
 
-        f = open("json/table/2021/tableepl2021.json", "w")
+        f = open(raw_tables+"/tableepl2021.json", "w")
         f.write(json.dumps(tableepl))
 
-        f = open("json/table/2021/tablelaliga2021.json", "w")
+        f = open(raw_tables+"/tablelaliga2021.json", "w")
         f.write(json.dumps(tablelaliga))
 
-        f = open("json/table/2021/tablebundesliga2021.json", "w")
+        f = open(raw_tables+"/tablebundesliga2021.json", "w")
         f.write(json.dumps(tablebundesliga))
 
-        f = open("json/table/2021/tableseriea2021.json", "w")
+        f = open(raw_tables+"/tableseriea2021.json", "w")
         f.write(json.dumps(tableseriea))
 
-        f = open("json/table/2021/tableligueOne2021.json", "w")
+        f = open(raw_tables+"/tableligueOne2021.json", "w")
         f.write(json.dumps(tableligue1))
 
-        f = open("json/table/2021/tablerfpl2021.json", "w")
+        f = open(raw_tables+"/tablerfpl2021.json", "w")
         f.write(json.dumps(tablerfpl))
         f.close()
 

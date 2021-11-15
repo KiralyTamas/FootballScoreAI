@@ -7,9 +7,7 @@ from understat import Understat
 
 
 async def main():
-    caller_path=os.getcwd()
-    final_path=os.path.abspath(input("Hova legyenek letöltve a fájlok? "))
-    final=os.path.relpath(final_path,caller_path)
+    raw_matches=os.path.abspath("../../raw_json_datas/match")
     # Ez a két sor megkérdezi, hogy melyik ID-től melyik ID-ig fusson le a lekérdezés. Manuálisan kell a terminálban megadni a számokat.
     page_start = int(input("Mi az Id szám, ahonnan a lekérdezés induljon?:")) # Példa: 1
     page_end=int(input("Mi az Id szám, ameddig a lekérdezés tartson?:")) # Példa: 200
@@ -21,7 +19,7 @@ async def main():
             async with aiohttp.ClientSession(connector=aiohttp.TCPConnector(ssl=False)) as session:
                 understat = Understat(session)
                 players = await understat.get_match_shots(page)
-                f = open(final+"\match"+str(page)+".json", "w")
+                f = open(raw_matches+"\match"+str(page)+".json", "w")
                 f.write(json.dumps(players))
                 f.close()
         # A try függvényt csak az except fügvénnyel együtt lehet alkalmazni
