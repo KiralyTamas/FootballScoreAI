@@ -4,6 +4,7 @@ from data_handler_files.converter_files.fixtures_converter import convert_f
 from data_handler_files.converter_files.result_converter import convert_r
 from data_handler_files.converter_files.match_converter import convert_m
 from data_handler_files.converter_files.table_converter import convert_t
+from data_handler_files.converter_files.epl_converter import convert_epl
 
 f = []
 for (dirpath, dirnames, filenames) in os.walk(input("Mi a konvertálandó fájlok mappájának útvonala: ")):
@@ -21,6 +22,9 @@ def convert():
       continue
     if "fixtures" in recall[0]:
       convert_f(recall,"_")
+      os.remove(all_path)
+    if "epl" in recall[0]:
+      convert_epl(recall,"_")
       os.remove(all_path)
     if "result" in recall[0]:
       convert_r(recall,"_")
