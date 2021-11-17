@@ -9,11 +9,12 @@ list = [["1", "alma", "narancs", "dió", "kókusz"],
 
 def read():
   data=[]
-  for item in list:
+  for index,item in enumerate(list):
     if "proba.csv":
-      with open("proba.csv","r",encoding="utf-8", newline='') as file:
-        read_file=csv.reader(file)
-        data.append(item)
+      prev_num=int(list[index-1][0])
+      new_num=int(item[0])+int(prev_num)
+      item.insert(1,new_num)
+      data.append(item)
   return data
 
 def write(list):
