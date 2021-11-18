@@ -21,8 +21,8 @@ def create_team_csv():
                 pr = ""
                 xg = [row[10], row[11]]
                 date = row[12]
-                header = ["Dátum", "Meccs-Id", "Hazai-Id", "Hazai Csapat", "Ellenfél-Id", "Ellenfél",
-                          "Hazai Gól", "Ellenfél Gól", "Hazai_PR", "Ellenfél_PR", "Hazai XG", "Ellenfél XG"]
+                header = ["Dátum", "Meccs-Id", "Hazai-Id", "Hazai-Csapat", "Ellenfél-Id", "Ellenfél-Csapat",
+                          "Hazai-Gól", "Ellenfél-Gól", "Hazai-PR", "Ellenfél-PR", "Hazai-XG", "Ellenfél-XG"]
                 home_data = [date, math_id, team_id[0], teams[0],
                              team_id[1], teams[1], gh[0], gh[1], pr, pr,
                              xg[0], xg[1]]

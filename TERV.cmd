@@ -3,7 +3,7 @@ Ezeket a \teams mappában találhatod meg. Még üresek, de már tárolásra ké
 Innentől jön a result táblázat és a folyamatos továbbgörgetett kalkulácció, amit majd az algoritmus a csapatok saját fájljába eltárol.
 
 
-Számítás: [(hazaiGól-vendégGól)-(H.PR-A.PR)-0,5]*025
+Számítás: [(hazaiGól-vendégGól)-(H.PR-A.PR)-0,5]*0,25
 úJ PR: PRelőző+PRváltozó
 PR differencia: H.PR-A.PR
 
