@@ -7,23 +7,19 @@ list = [["1", "alma", "narancs", "dió", "kókusz"],
         ["6","cápa","delfin","bálna","kardhal"],
         ["7","NewYork","Tokyo","London","Texas"]]
 
-def read():
-  data=[]
-  for index,item in enumerate(list):
-    if "proba.csv":
-      prev_num=int(list[index-1][0])
-      new_num=int(item[0])+int(prev_num)
-      item.insert(1,new_num)
-      data.append(item)
-  return data
 
-def write(list):
-  with open("proba.csv","w",encoding="utf-8", newline='') as file:
-    write_csv=csv.writer(file)
-    for item in reversed(list):
-      if item == list:
-        continue
-      else:
-        write_csv.writerow(item)
 
-write(read())
+def write():
+  try:
+    with open("proba.csv","r",encoding="utf-8", newline='') as file:
+      write_csv=csv.writer(file)
+      for item in reversed(list):
+        if item == list:
+          continue
+        else:
+          write_csv.writerow(item)
+  except OSError:
+    print("szar")
+    write()
+
+write()
