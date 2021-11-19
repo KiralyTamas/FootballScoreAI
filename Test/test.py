@@ -33,7 +33,6 @@ def search():
     f.extend(filenames)
     h.append(dirpath)
   print(f)
-  print(g)
   print(h)
 
 search()
