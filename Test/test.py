@@ -31,8 +31,10 @@ def search():
   h = []
   for (dirpath, dirnames, filenames) in os.walk(input("Mi a konvertálandó fájlok mappájának útvonala: ")):
     f.extend(filenames)
+    g.extend(dirnames)
     h.append(dirpath)
   print(f)
+  print(g)
   print(h)
 
 search()
