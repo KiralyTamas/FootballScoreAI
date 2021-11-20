@@ -23,6 +23,9 @@ def create_team_csv():
                         if row_index == 0:
                             continue
                         else:
+                            with open(os.path.abspath("main_fixtures")+"\\main_fixture.csv","a",newline='',encoding="utf-8")as main:
+                                main=csv.writer(main)
+                                main.writerow(row)
                             math_id = row[0]
                             team_id = [row[2], row[5]]
                             teams = row[3], row[6]
