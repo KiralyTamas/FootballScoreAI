@@ -23,7 +23,7 @@ def convert():
     if "fixtures" in recall[0]:
       convert_f(recall,"_")
       os.remove(all_path)
-    if "epl" in recall[0]:
+    if "epl_" in recall[0]:
       convert_epl(recall,"_")
       os.remove(all_path)
     if "result" in recall[0]:

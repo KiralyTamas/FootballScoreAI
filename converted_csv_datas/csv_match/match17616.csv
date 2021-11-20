@@ -1,0 +1,24 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+442166,16,MissedShots,0.655,0.39,0.009857919067144394,Jeffrey Gouweleeuw,h,2665,OpenPlay,2021,RightFoot,17616,Augsburg,Bayern Munich,2,1,2021-11-19 19:30:00,,BallRecovery
+442168,22,SavedShot,0.8830000305175781,0.6220000076293946,0.06017028167843819,Jeffrey Gouweleeuw,h,2665,FromCorner,2021,RightFoot,17616,Augsburg,Bayern Munich,2,1,2021-11-19 19:30:00,,None
+442169,22,Goal,0.905,0.5670000076293945,0.4192996323108673,Mads Pedersen,h,7809,OpenPlay,2021,LeftFoot,17616,Augsburg,Bayern Munich,2,1,2021-11-19 19:30:00,,None
+442174,34,Goal,0.909000015258789,0.4520000076293945,0.05332355946302414,André Hahn,h,412,OpenPlay,2021,Head,17616,Augsburg,Bayern Munich,2,1,2021-11-19 19:30:00,Iago,Aerial
+442176,46,BlockedShot,0.840999984741211,0.40799999237060547,0.0718095526099205,Mads Pedersen,h,7809,OpenPlay,2021,RightFoot,17616,Augsburg,Bayern Munich,2,1,2021-11-19 19:30:00,Robert Gumny,Pass
+442165,6,MissedShots,0.9019999694824219,0.6,0.08261467516422272,Omar Richards,a,9675,OpenPlay,2021,RightFoot,17616,Augsburg,Bayern Munich,2,1,2021-11-19 19:30:00,Leroy Sané,HeadPass
+442167,18,MissedShots,0.9230000305175782,0.5690000152587891,0.10697245597839355,Robert Lewandowski,a,227,FromCorner,2021,LeftFoot,17616,Augsburg,Bayern Munich,2,1,2021-11-19 19:30:00,Dayotchanculle Upamecano,HeadPass
+442170,29,BlockedShot,0.8680000305175781,0.63,0.06004923954606056,Omar Richards,a,9675,OpenPlay,2021,RightFoot,17616,Augsburg,Bayern Munich,2,1,2021-11-19 19:30:00,Robert Lewandowski,Pass
+442171,30,BlockedShot,0.885,0.24,0.030972305685281754,Serge Gnabry,a,993,OpenPlay,2021,RightFoot,17616,Augsburg,Bayern Munich,2,1,2021-11-19 19:30:00,Leroy Sané,Pass
+442172,31,SavedShot,0.7140000152587891,0.445,0.01374648418277502,Benjamin Pavard,a,3363,FromCorner,2021,RightFoot,17616,Augsburg,Bayern Munich,2,1,2021-11-19 19:30:00,Leon Goretzka,None
+442173,32,BlockedShot,0.7809999847412109,0.385,0.023679465055465698,Marcel Sabitzer,a,5248,OpenPlay,2021,RightFoot,17616,Augsburg,Bayern Munich,2,1,2021-11-19 19:30:00,Thomas Müller,Pass
+442175,37,Goal,0.9019999694824219,0.5629999923706055,0.36474311351776123,Robert Lewandowski,a,227,OpenPlay,2021,RightFoot,17616,Augsburg,Bayern Munich,2,1,2021-11-19 19:30:00,Thomas Müller,Pass
+442177,49,MissedShots,0.8669999694824219,0.49400001525878906,0.06961272656917572,Robert Lewandowski,a,227,OpenPlay,2021,RightFoot,17616,Augsburg,Bayern Munich,2,1,2021-11-19 19:30:00,,None
+442178,53,MissedShots,0.870999984741211,0.595999984741211,0.05831795185804367,Leon Goretzka,a,335,FromCorner,2021,LeftFoot,17616,Augsburg,Bayern Munich,2,1,2021-11-19 19:30:00,Dayotchanculle Upamecano,Pass
+442179,64,MissedShots,0.8290000152587891,0.5570000076293945,0.05898931995034218,Jamal Musiala,a,8418,OpenPlay,2021,RightFoot,17616,Augsburg,Bayern Munich,2,1,2021-11-19 19:30:00,Thomas Müller,Pass
+442180,72,MissedShots,0.8469999694824218,0.629000015258789,0.0538879856467247,Alphonso Davies,a,7345,OpenPlay,2021,LeftFoot,17616,Augsburg,Bayern Munich,2,1,2021-11-19 19:30:00,Leon Goretzka,Pass
+442181,79,SavedShot,0.8930000305175781,0.6170000076293946,0.07879430055618286,Robert Lewandowski,a,227,OpenPlay,2021,RightFoot,17616,Augsburg,Bayern Munich,2,1,2021-11-19 19:30:00,Thomas Müller,Pass
+442182,79,MissedShots,0.9269999694824219,0.69,0.049696050584316254,Alphonso Davies,a,7345,OpenPlay,2021,LeftFoot,17616,Augsburg,Bayern Munich,2,1,2021-11-19 19:30:00,,None
+442183,80,BlockedShot,0.7530000305175781,0.4779999923706055,0.023909632116556168,Serge Gnabry,a,993,OpenPlay,2021,LeftFoot,17616,Augsburg,Bayern Munich,2,1,2021-11-19 19:30:00,Leon Goretzka,Pass
+442184,81,MissedShots,0.745,0.28200000762939453,0.01603424921631813,Benjamin Pavard,a,3363,OpenPlay,2021,RightFoot,17616,Augsburg,Bayern Munich,2,1,2021-11-19 19:30:00,Leon Goretzka,Pass
+442185,83,SavedShot,0.8769999694824219,0.735999984741211,0.03161069005727768,Jamal Musiala,a,8418,OpenPlay,2021,RightFoot,17616,Augsburg,Bayern Munich,2,1,2021-11-19 19:30:00,Alphonso Davies,Pass
+442186,83,MissedShots,0.894000015258789,0.49,0.10302488505840302,Thomas Müller,a,224,OpenPlay,2021,RightFoot,17616,Augsburg,Bayern Munich,2,1,2021-11-19 19:30:00,,Rebound
+442187,88,MissedShots,0.7719999694824219,0.33,0.01918334886431694,Nianzou Kouassi,a,7981,OpenPlay,2021,RightFoot,17616,Augsburg,Bayern Munich,2,1,2021-11-19 19:30:00,Serge Gnabry,Pass
