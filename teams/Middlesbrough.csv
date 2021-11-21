@@ -1,39 +1,39 @@
-Dátum,Meccs-Id,Hazai-Id,Hazai-Csapat,Ellenfél-Id,Ellenfél-Csapat,Hazai-Gól,Ellenfél-Gól,Hazai-PR,Ellenfél-PR,Hazai-XG,Ellenfél-XG
-2016-08-13 18:00:00,465,93,Middlesbrough,85,Stoke,1,1,,,1.80523,0.485626
-2016-08-21 16:30:00,479,93,Middlesbrough,77,Sunderland,2,1,,,0.854908,1.4645
-2016-08-28 16:30:00,489,93,Middlesbrough,76,West Bromwich Albion,0,0,,,0.396816,0.696845
-2016-09-10 18:00:00,492,93,Middlesbrough,78,Crystal Palace,1,2,,,0.611959,1.12437
-2016-09-17 20:30:00,506,93,Middlesbrough,72,Everton,1,3,,,0.178081,1.17467
-2016-09-24 18:00:00,512,93,Middlesbrough,82,Tottenham,1,2,,,0.361508,1.4158
-2016-10-01 18:00:00,526,93,Middlesbrough,81,West Ham,1,1,,,0.852603,0.883385
-2016-10-16 16:30:00,538,93,Middlesbrough,90,Watford,0,1,,,0.528576,0.0893749
-2016-10-22 18:00:00,547,93,Middlesbrough,83,Arsenal,0,0,,,1.55581,0.711811
-2016-10-29 18:00:00,2681,93,Middlesbrough,73,Bournemouth,2,0,,,1.44317,1.54599
-2016-11-05 19:00:00,2689,93,Middlesbrough,88,Manchester City,1,1,,,0.208762,2.49606
-2016-11-20 20:00:00,2705,93,Middlesbrough,80,Chelsea,0,1,,,0.55976,1.68738
-2016-11-26 19:00:00,2711,93,Middlesbrough,75,Leicester,2,2,,,0.425252,2.0478
-2016-12-06 00:00:00,3114,93,Middlesbrough,91,Hull,1,0,,,1.94961,0.221339
-2016-12-11 18:15:00,3123,93,Middlesbrough,74,Southampton,0,1,,,0.493941,1.72919
-2016-12-14 23:45:00,3127,93,Middlesbrough,87,Liverpool,0,3,,,0.161583,2.13526
-2016-12-17 19:00:00,3136,93,Middlesbrough,84,Swansea,3,0,,,1.71549,0.602249
-2016-12-26 19:00:00,3150,93,Middlesbrough,92,Burnley,0,1,,,0.698814,0.275704
-2016-12-31 15:00:00,3159,93,Middlesbrough,89,Manchester United,1,2,,,0.64492,2.53996
-2017-01-02 16:30:00,3330,93,Middlesbrough,75,Leicester,0,0,,,0.697108,0.477078
-2017-01-14 19:00:00,3341,93,Middlesbrough,90,Watford,0,0,,,0.325347,0.835827
-2017-01-21 18:00:00,3351,93,Middlesbrough,81,West Ham,1,3,,,0.958825,2.6558
-2017-01-31 22:45:00,3363,93,Middlesbrough,76,West Bromwich Albion,1,1,,,1.18135,1.25288
-2017-02-04 17:30:00,3377,93,Middlesbrough,82,Tottenham,0,1,,,0.50484,2.10053
-2017-02-11 15:00:00,3382,93,Middlesbrough,72,Everton,0,0,,,0.651056,0.831644
-2017-02-25 15:00:00,3392,93,Middlesbrough,78,Crystal Palace,0,1,,,0.82885,0.808522
-2017-03-04 15:00:00,3403,93,Middlesbrough,85,Stoke,0,2,,,0.274611,2.97584
-2017-03-19 12:00:00,3425,93,Middlesbrough,89,Manchester United,1,3,,,1.09037,2.47484
-2017-04-02 13:30:00,3438,93,Middlesbrough,84,Swansea,0,0,,,0.748206,0.64382
-2017-04-05 19:45:00,3442,93,Middlesbrough,91,Hull,2,4,,,1.30673,2.23261
-2017-04-08 15:00:00,3456,93,Middlesbrough,92,Burnley,0,0,,,0.684683,0.809899
-2017-04-17 20:00:00,3461,93,Middlesbrough,83,Arsenal,1,2,,,1.72075,1.0689
-2017-04-22 15:00:00,3471,93,Middlesbrough,73,Bournemouth,0,4,,,0.2072,3.27712
-2017-04-26 19:45:00,3413,93,Middlesbrough,77,Sunderland,1,0,,,0.825839,0.445766
-2017-04-30 14:05:00,3483,93,Middlesbrough,88,Manchester City,2,2,,,1.17715,3.10725
-2017-05-08 20:00:00,3493,93,Middlesbrough,80,Chelsea,0,3,,,0.0718773,2.28046
-2017-05-13 15:00:00,3504,93,Middlesbrough,74,Southampton,1,2,,,1.32885,1.52569
-2017-05-21 15:00:00,3515,93,Middlesbrough,87,Liverpool,0,3,,,0.899691,2.16957
+Dátum,Meccs-Id,Fő-Csapat,Ellenfél-Csapat,Hazai-Gól,Ellenfél-Gól,Hazai-PR,Ellenfél-PR,Hazai-xgPR,Ellenfél-xg-PR,Hazai-Mixed-PR,Ellenfél-Mixed-PR
+2016-08-13 18:00:00,465,Middlesbrough,Stoke,1,1,,,,,,
+2016-08-21 16:30:00,479,Middlesbrough,Sunderland,2,1,,,,,,
+2016-08-28 16:30:00,489,Middlesbrough,West Bromwich Albion,0,0,,,,,,
+2016-09-10 18:00:00,492,Middlesbrough,Crystal Palace,1,2,,,,,,
+2016-09-17 20:30:00,506,Middlesbrough,Everton,1,3,,,,,,
+2016-09-24 18:00:00,512,Middlesbrough,Tottenham,1,2,,,,,,
+2016-10-01 18:00:00,526,Middlesbrough,West Ham,1,1,,,,,,
+2016-10-16 16:30:00,538,Middlesbrough,Watford,0,1,,,,,,
+2016-10-22 18:00:00,547,Middlesbrough,Arsenal,0,0,,,,,,
+2016-10-29 18:00:00,2681,Middlesbrough,Bournemouth,2,0,,,,,,
+2016-11-05 19:00:00,2689,Middlesbrough,Manchester City,1,1,,,,,,
+2016-11-20 20:00:00,2705,Middlesbrough,Chelsea,0,1,,,,,,
+2016-11-26 19:00:00,2711,Middlesbrough,Leicester,2,2,,,,,,
+2016-12-06 00:00:00,3114,Middlesbrough,Hull,1,0,,,,,,
+2016-12-11 18:15:00,3123,Middlesbrough,Southampton,0,1,,,,,,
+2016-12-14 23:45:00,3127,Middlesbrough,Liverpool,0,3,,,,,,
+2016-12-17 19:00:00,3136,Middlesbrough,Swansea,3,0,,,,,,
+2016-12-26 19:00:00,3150,Middlesbrough,Burnley,0,1,,,,,,
+2016-12-31 15:00:00,3159,Middlesbrough,Manchester United,1,2,,,,,,
+2017-01-02 16:30:00,3330,Middlesbrough,Leicester,0,0,,,,,,
+2017-01-14 19:00:00,3341,Middlesbrough,Watford,0,0,,,,,,
+2017-01-21 18:00:00,3351,Middlesbrough,West Ham,1,3,,,,,,
+2017-01-31 22:45:00,3363,Middlesbrough,West Bromwich Albion,1,1,,,,,,
+2017-02-04 17:30:00,3377,Middlesbrough,Tottenham,0,1,,,,,,
+2017-02-11 15:00:00,3382,Middlesbrough,Everton,0,0,,,,,,
+2017-02-25 15:00:00,3392,Middlesbrough,Crystal Palace,0,1,,,,,,
+2017-03-04 15:00:00,3403,Middlesbrough,Stoke,0,2,,,,,,
+2017-03-19 12:00:00,3425,Middlesbrough,Manchester United,1,3,,,,,,
+2017-04-02 13:30:00,3438,Middlesbrough,Swansea,0,0,,,,,,
+2017-04-05 19:45:00,3442,Middlesbrough,Hull,2,4,,,,,,
+2017-04-08 15:00:00,3456,Middlesbrough,Burnley,0,0,,,,,,
+2017-04-17 20:00:00,3461,Middlesbrough,Arsenal,1,2,,,,,,
+2017-04-22 15:00:00,3471,Middlesbrough,Bournemouth,0,4,,,,,,
+2017-04-26 19:45:00,3413,Middlesbrough,Sunderland,1,0,,,,,,
+2017-04-30 14:05:00,3483,Middlesbrough,Manchester City,2,2,,,,,,
+2017-05-08 20:00:00,3493,Middlesbrough,Chelsea,0,3,,,,,,
+2017-05-13 15:00:00,3504,Middlesbrough,Southampton,1,2,,,,,,
+2017-05-21 15:00:00,3515,Middlesbrough,Liverpool,0,3,,,,,,
