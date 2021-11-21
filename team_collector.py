@@ -1,6 +1,8 @@
 import pandas as pd
 import os
 import csv
+from data_handler_files.converter_files.calculater import calculate as cal
+
 final_path = os.path.abspath("teams")
 start_path=input("Mi a konvertálandó fájlok mappájának útvonala: ")
 
@@ -22,7 +24,6 @@ def create_team_csv():
         h.append(dirpath)
     for path in h:
         for file in f:
-            print(file)
             try:
                 with open(path+"\\"+file, "r") as file:
                     csv_file = csv.reader(file)
@@ -41,22 +42,31 @@ def create_team_csv():
                                             main_list=csv.writer(main)
                                             main_list.writerow(result_header)
                         else:
+                            datas=cal(row)
                             math_id = row[0]
                             teams = row[3], row[6]
                             score = [row[8], row[9]]
-                            pr = ""
                             xg = [row[10], row[11]]
                             date = row[12]
+                            pr_diff=datas[0]-datas[1]
+                            pr_diff=("%.4f" % pr_diff)
+                            datas[0]=("%.4f" % datas[0])
+                            datas[1]=("%.4f" % datas[1])
+                            datas[2]=("%.4f" % datas[2])
+                            datas[3]=("%.4f" % datas[3])
+                            datas[4]=("%.4f" % datas[4])
+                            datas[5]=("%.4f" % datas[5])   
+                            pr=""
                             forecast=[row[13],row[14],row[15]]
                             main_result=[date,math_id,teams[0],teams[1],score[0],
-                                         score[1],xg[0],xg[1],pr,pr,pr,pr,pr,pr,
-                                         pr,pr,pr,pr,forecast[0],forecast[1],forecast[2]]
+                                         score[1],xg[0],xg[1],datas[0],datas[1],pr_diff,datas[2],datas[3],datas[4],
+                                         datas[5],pr,pr,pr,forecast[0],forecast[1],forecast[2]]
                             home_data = [date, math_id, teams[0],
-                                         teams[1], score[0], score[1], pr, pr,
-                                         pr,pr,pr,pr]
+                                         teams[1], score[0], score[1],datas[0], datas[1],
+                                         datas[2],datas[3],datas[4],datas[5]]
                             against_data = [date, math_id, teams[1],
-                                            teams[0], score[1], score[0], pr, pr,
-                                            pr,pr,pr,pr]
+                                            teams[0], score[1], score[0], datas[1], datas[0],
+                                            datas[3],datas[2],datas[5],datas[4]]
                             with open(os.path.abspath("main_result")+"\\main_result.csv","a",newline='',encoding="utf-8")as main:
                                 main=csv.writer(main)
                                 main.writerow(main_result)
