@@ -3,17 +3,29 @@ import csv
 
 final_path = os.path.abspath("teams")
 
-def calculate(info):
+def calculate(info,team_header):
   fix_numbers = 0.5, 0.25
   try:
+      if final_path+"\\"+info[3]+".csv":
+        print("Fos")
+        with open(final_path+"\\"+info[3]+".csv","w",encoding="utf-8") as hdata:
+          pitty=csv.writer(hdata)
+          pitty.writerow(team_header)
+      if final_path+"\\"+info[3]+".csv":
+        print("Fos")
+        with open(final_path+"\\"+info[6]+".csv","w",encoding="utf-8") as adata:
+          pitty=csv.writer(adata)
+          pitty.writerow(team_header)
       with open(final_path+"\\"+info[3]+".csv","r",encoding="utf-8") as hdata:
         data_hlist=csv.reader(hdata)
         row_hlist=[]
+        print("Beolvastam1")
         for hrow in data_hlist:
           row_hlist.append(hrow)
       with open(final_path+"\\"+info[6]+".csv","r",encoding="utf-8") as adata:
         data_alist=csv.reader(adata)
         row_alist=[]
+        print("Beolvastam2")
         for arow in data_alist:
           row_alist.append(arow)
       pr_changing = ((int(info[8])-int(info[9]))-(float(row_hlist[-1][6])-float(row_alist[-1][6]))-fix_numbers[0])*fix_numbers[1]

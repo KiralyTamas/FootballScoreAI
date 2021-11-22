@@ -43,7 +43,7 @@ def create_team_csv():
                                             main_list=csv.writer(main)
                                             main_list.writerow(result_header)
                         else:
-                            datas=cal(row)
+                            datas=cal(row,team_header)
                             math_id = row[0]
                             teams = row[3], row[6]
                             score = [row[8], row[9]]
@@ -82,10 +82,7 @@ def create_team_csv():
                                         if home_data not in home_old_list:
                                             home_table.writerow(home_data)
                             except FileNotFoundError:
-                                with open(final_path+"\\"+teams[0]+".csv", "a", newline='', encoding="utf-8") as home_csv:
-                                    home_table = csv.writer(home_csv)
-                                    home_table.writerow(team_header)
-                                    home_table.writerow(home_data)
+                                print("Átküldve1")
                             try:
                                 with open(final_path+"\\"+teams[1]+".csv", "r", newline='', encoding="utf-8") as against_csv_old:
                                     against_table_old = csv.reader(
@@ -99,11 +96,9 @@ def create_team_csv():
                                         if against_data not in against_old_list:
                                             against_table.writerow(against_data)
                             except FileNotFoundError:
-                                with open(final_path+"\\"+teams[1]+".csv", "a", newline='', encoding="utf-8") as against_csv:
-                                    against_table = csv.writer(against_csv)
-                                    against_table.writerow(team_header)
-                                    against_table.writerow(against_data)
+                                    print("Átküldve2")
                                     if FileNotFoundError == True:
+                                        print("Átküldve3")
                                         continue
             except FileNotFoundError:
                 if FileNotFoundError == True:
