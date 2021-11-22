@@ -32,17 +32,11 @@ def calculate(info):
       return (datas)
   except FileNotFoundError:
       pr=10
-      pr_changing = ((int(info[8])-int(info[9]))-(pr-pr)-fix_numbers[0])*fix_numbers[1]
-      xg_changing = ((float(info[10])-float(info[11]))-(pr-pr)-fix_numbers[0])*fix_numbers[1]
-      prxg_changing = ((int(info[8])-int(info[9]))-(float(info[10])-float(info[11]))-(pr-pr)-fix_numbers[0])*fix_numbers[1]
-      pr_changing=  ("%.4f" % pr_changing)
-      xg_changing = ("%.4f" % xg_changing)
-      prxg_changing = ("%.4f" % prxg_changing)
-      new_hpr=pr+float(pr_changing)
-      new_apr=pr-float(pr_changing)
-      new_hxg=pr+float(xg_changing)
-      new_axg=pr-float(xg_changing)
-      new_hprxg=pr+float(prxg_changing)
-      new_aprxg=pr-float(prxg_changing)
+      new_hpr=pr
+      new_apr=pr
+      new_hxg=pr
+      new_axg=pr
+      new_hprxg=pr
+      new_aprxg=pr
       datas=[new_hpr,new_apr,new_hxg,new_axg,new_hprxg,new_aprxg]
       return (datas)

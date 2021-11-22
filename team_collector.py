@@ -24,6 +24,7 @@ def create_team_csv():
         h.append(dirpath)
     for path in h:
         for file in f:
+            print(file)
             try:
                 with open(path+"\\"+file, "r") as file:
                     csv_file = csv.reader(file)
