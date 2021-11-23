@@ -42,7 +42,7 @@ def create_team_csv():
                             teams = row[3], row[6]
                             score = [row[8], row[9]]
                             xg = [row[10], row[11]]
-                            pr_diff=datas[0]-datas[1]
+                            pr_diff=datas[6]-datas[7]
                             pr_diff=("%.4f" % pr_diff)
                             pr=""
                             datas[0]=("%.4f" % datas[0])
