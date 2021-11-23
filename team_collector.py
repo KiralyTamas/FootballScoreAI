@@ -8,13 +8,13 @@ start_path=input("Mi a konvertálandó fájlok mappájának útvonala: ")
 
 def create_team_csv():
     result_header = ["Dátum", "Meccs-Id", "Hazai-Csapat", "Ellenfél-Csapat",
-                     "Hazai-Gól", "Ellenfél-Gól", "Hazai-XG", "Ellenfél-XG", 
-                     "Hazai-PR", "Ellenfél-PR","PR-diff","Hazai-xgPR","Ellenfél-xgPR",
-                     "Hazai-Mixed-PR","Ellenfél-Mixed-PR","H%","D%","A%","ForeCast-W",
-                     "ForeCast-D","ForeCast-A"]
+                    "Hazai-Gól", "Ellenfél-Gól", "Hazai-XG", "Ellenfél-XG", 
+                    "Hazai-PR", "Ellenfél-PR","PR-diff","Hazai-xgPR","Ellenfél-xgPR",
+                    "Hazai-Mixed-PR","Ellenfél-Mixed-PR","H%","D%","A%","ForeCast-W",
+                    "ForeCast-D","ForeCast-A"]
     team_header=["Dátum","Meccs-Id","Fő-Csapat","Ellenfél-Csapat","Hazai-Gól",
-                 "Ellenfél-Gól","Meccs-Előtti-PR","Meccs-Utáni-PR","Meccs-Előtti-xgPR",
-                 "Meccs-Utáni-xgPR","Meccs-Előtti-Mixed_PR","Meccs-Utáni-Mixed_PR"]
+                "Ellenfél-Gól","Meccs-Előtti-PR","Meccs-Utáni-PR","Meccs-Előtti-xgPR",
+                "Meccs-Utáni-xgPR","Meccs-Előtti-Mixed_PR","Meccs-Utáni-Mixed_PR"]
     f = []
     g = []
     h = []
@@ -23,8 +23,8 @@ def create_team_csv():
         g.extend(dirnames)
         h.append(dirpath)
     for path in h:
-        print(path)
         for file in f:
+            print(file)
             try:
                 with open(path+"\\"+file, "r") as file:
                     csv_file = csv.reader(file)
@@ -43,7 +43,7 @@ def create_team_csv():
                             score = [row[8], row[9]]
                             xg = [row[10], row[11]]
                             pr_diff=datas[6]-datas[7]
-                            pr_diff=("%.4f" % pr_diff)
+                            pr_diff=("%.1f" % pr_diff)
                             pr=""
                             datas[0]=("%.4f" % datas[0])
                             datas[1]=("%.4f" % datas[1])
@@ -53,11 +53,11 @@ def create_team_csv():
                             datas[5]=("%.4f" % datas[5])   
                             forecast=[row[13],row[14],row[15]]
                             main_result=[date,math_id,teams[0],teams[1],score[0],
-                                         score[1],xg[0],xg[1],datas[6],datas[7],pr_diff,datas[8],datas[9],datas[10],
-                                         datas[11],pr,pr,pr,forecast[0],forecast[1],forecast[2]]
+                                        score[1],xg[0],xg[1],datas[6],datas[7],pr_diff,datas[8],datas[9],datas[10],
+                                        datas[11],pr,pr,pr,forecast[0],forecast[1],forecast[2]]
                             home_data = [date, math_id, teams[0],
-                                         teams[1], score[0], score[1],datas[6], datas[0],
-                                         datas[8],datas[2],datas[10],datas[4]]
+                                        teams[1], score[0], score[1],datas[6], datas[0],
+                                        datas[8],datas[2],datas[10],datas[4]]
                             against_data = [date, math_id, teams[1],
                                             teams[0], score[1], score[0], datas[7], datas[1],
                                             datas[9],datas[3],datas[11],datas[5]]                            

@@ -14,3 +14,9 @@ with open("test.csv","r") as file:
 with open("test.csv","w",newline='',encoding="utf-8")as file:
   csv_file=csv.writer(file)
   csv_file.writerows(list_of_num)
+
+
+num_one= 1.15
+num_two=1,15
+print(type(num_one))
+print(type(num_two))
