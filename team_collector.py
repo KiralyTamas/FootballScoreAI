@@ -53,23 +53,26 @@ def create_team_csv():
 # A cal(row, team_header) meghívásával átadjuk az aktuálisan iterált csv_result fájl sorát és a csapat_csv fejlécét.
                 datas = cal(row, team_header)
 # Visszaérkeznek a "calculater" által küldött "datas" adatok.
-# A csv_result 
+# A csv_result-ből kivett adatok "row"-ként vannak behívva, a calculater adatai "datas"-ként szerepel,
+                pr = ""
                 date = row[12]
                 math_id = row[0]
                 teams = row[3], row[6]
                 score = [row[8], row[9]]
                 xg = [row[10], row[11]]
                 pr_diff = datas[6]-datas[7]
+# Itt van javítva a -0 anomália
                 if pr_diff == -0 or -0.0:
                   pr_diff=0
+# Itt vannak beállítva a tizedesjegyek hossza
                 pr_diff = ("%.2f" % pr_diff)
-                pr = ""
                 datas[0] = ("%.4f" % datas[0])
                 datas[1] = ("%.4f" % datas[1])
                 datas[2] = ("%.4f" % datas[2])
                 datas[3] = ("%.4f" % datas[3])
                 datas[4] = ("%.4f" % datas[4])
                 datas[5] = ("%.4f" % datas[5])
+# Itt van kitöltve a main_result és a hazai--vendég csapatok kitöltési dataszerkezete attól függően, hazai vagy vendég
                 forecast = [row[13], row[14], row[15]]
                 main_result = [date, math_id, teams[0], teams[1], score[0],
                               score[1], xg[0], xg[1], datas[6], datas[7], pr_diff, datas[8], datas[9], datas[10],
@@ -80,6 +83,8 @@ def create_team_csv():
                 against_data = [date, math_id, teams[1],
                               teams[0], score[1], score[0], datas[7], datas[1],
                               datas[9], datas[3], datas[11], datas[5]]
+# Ha a main_resultben már szerepel az aktuális adatsor Pl: Bővítés esetén, nem duplikálja a sort és a csapatfájlokba
+# se engedi beírni az adatokat, ezáltal sehol sem duplikál.
                 with open(os.path.abspath("main_result")+"\\main_result.csv", "r") as read_main:
                   read_main = csv.reader(read_main)
                   list_main = []
