@@ -1,24 +1,25 @@
 import os
 import csv
-path_dir=os.path.abspath("converted_csv_datas\csv_match")
+
+source_dir=os.path.abspath("converted_csv_datas\csv_match")
 f = []
-for (dirpath, dirnames, filenames) in os.walk(os.path.relpath(path_dir)):
+for (dirpath, dirnames, filenames) in os.walk(source_dir):
     f.extend(filenames)
     break
 
 file_name = []
 match_id=["match_id"]
-p_path=os.path.abspath("converted_csv_datas\csv_match_ids")
-try:
-  os.mkdir(p_path)
-except FileExistsError:
-    print("Ez a mappa már létezik")
-with open(p_path+"\match_ids.csv", "w", newline='') as file:
-  csv_file=csv.writer(file)
-  csv_file.writerow(match_id)
-  for i in f:
-    number = []
-    file_name = str(i)
-    new_file_name = file_name.replace("match", '')
-    number.append(new_file_name.replace(".csv", ''))
-    csv_file.writerow(number)
+p_path=os.path.abspath("data_handler_files\\requester_files")
+for i in f:
+  number = []
+  file_name = i
+  new_file_name = file_name.replace("match", '')
+  number.append(int(new_file_name.replace(".csv", '')))
+print(type(number))
+with open(p_path+"\match_ids.csv", "a", newline='') as file:
+  csv_file=csv.writer(file, dialect='excel')
+  check_list=[]
+  for j in range(1,20001,1):
+    if j not in [number]:
+      check_list.append(j)
+      csv_file.writerow(check_list)
