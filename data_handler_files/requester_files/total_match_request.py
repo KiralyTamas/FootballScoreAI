@@ -5,20 +5,19 @@ import csv
 import xlsxwriter
 import aiohttp
 from understat import Understat
-from converter_files.match_id_collector import id_collector
+
 
 async def main():
     raw_matches=os.path.abspath("../../raw_json_datas/match")
     # Ez a két sor megkérdezi, hogy melyik ID-től melyik ID-ig fusson le a lekérdezés. Manuálisan kell a terminálban megadni a számokat.
-    id_collector()
     with open("match_ids.csv","r") as file:
-        list_of_file=csv.reader(file)
-        list_of_num=[]
-        for num in list_of_file:
-            list_of_num.append(num)
+        list_of_num=csv.reader(file)
+        number=[]
+        for num in list_of_num:
+            number.append(num)
     # A for ciklus használja az előzőleg megadott értékeket. Ha 1-et és 200-at adsz meg, akkor a ciklus ideiglenesen készít 199darab "page" változót, amibe alapértelmezetten 1-egy növekedve eltárolja a két megadott érték közötti számokat. 
     # minden ciklus lefutása után autómatikusan a következő "page" változót illeszti be a folyamatba.
-    for page in list_of_num:
+    for page in num:
         # try függvény. A try fügvény "megpróbálja" futtatni a benne szereplő kódot.
         try:
             async with aiohttp.ClientSession(connector=aiohttp.TCPConnector(ssl=False)) as session:

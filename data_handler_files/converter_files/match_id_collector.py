@@ -22,5 +22,3 @@ def id_collect():
     csv_file=csv.writer(file, dialect='excel')
     csv_file.writerow(check_list)
   return print("Kész")
-
-id_collect()
