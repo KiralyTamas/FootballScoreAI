@@ -16,7 +16,7 @@ def create_team_csv():
   result_header = ["Dátum", "Meccs-Id", "Hazai-Csapat", "Ellenfél-Csapat",
                   "Hazai-Gól", "Ellenfél-Gól", "Hazai-XG", "Ellenfél-XG",
                   "Hazai-PR", "Ellenfél-PR", "PR-diff", "Hazai-xgPR", "Ellenfél-xgPR",
-                  "Hazai-Mixed-PR", "Ellenfél-Mixed-PR", "H%", "D%", "A%", "ForeCast-W",
+                  "XG-diff","Hazai-Mixed-PR", "Ellenfél-Mixed-PR","Mixed-PR-diff", "H%", "D%", "A%", "ForeCast-W",
                   "ForeCast-D", "ForeCast-A"]
   team_header = ["Dátum", "Meccs-Id", "Fő-Csapat", "Ellenfél-Csapat", "Hazai-Gól",
                 "Ellenfél-Gól", "Meccs-Előtti-PR", "Meccs-Utáni-PR", "Meccs-Előtti-xgPR",
@@ -72,6 +72,8 @@ def create_team_csv():
                   prxg_diff=0
 # Itt vannak beállítva a tizedesjegyek hossza
                 pr_diff = ("%.2f" % pr_diff)
+                xg_diff = ("%.2f" % xg_diff)
+                prxg_diff = ("%.2f" % prxg_diff)
                 datas[0] = ("%.4f" % datas[0])
                 datas[1] = ("%.4f" % datas[1])
                 datas[2] = ("%.4f" % datas[2])
@@ -81,8 +83,8 @@ def create_team_csv():
 # Itt van kitöltve a main_result és a hazai--vendég csapatok kitöltési dataszerkezete attól függően, hazai vagy vendég
                 forecast = [row[13], row[14], row[15]]
                 main_result = [date, math_id, teams[0], teams[1], score[0],
-                              score[1], xg[0], xg[1], datas[6], datas[7], pr_diff, datas[8], datas[9], datas[10],
-                              datas[11], pr, pr, pr, forecast[0], forecast[1], forecast[2]]
+                              score[1], xg[0], xg[1], datas[6], datas[7], pr_diff, datas[8], datas[9],pr_diff, datas[10],
+                              datas[11],pr_diff, pr, pr, pr, forecast[0], forecast[1], forecast[2]]
                 home_data = [date, math_id, teams[0],
                             teams[1], score[0], score[1], datas[6], datas[0],
                             datas[8], datas[2], datas[10], datas[4]]
