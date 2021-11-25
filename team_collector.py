@@ -8,7 +8,7 @@ from data_handler_files.converter_files.calculater import calculate as cal
 # A csapatok mappájának abszolúlt elérési útvonala
 final_path = os.path.abspath("teams")
 # Itt kérdezi meg a terminálban az útvonalat, a csv_result mappát kell belehúzni a terminálba.
-start_path = input("Mi a számításokra használandó fájlok mappájának útvonala: ")
+start_path = os.path.abspath("converted_csv_datas\csv_result")
 
 # Függvény kezdete
 def create_team_csv():
@@ -61,9 +61,15 @@ def create_team_csv():
                 score = [row[8], row[9]]
                 xg = [row[10], row[11]]
                 pr_diff = datas[6]-datas[7]
+                xg_diff=datas[8]-datas[9]
+                prxg_diff=datas[10]-datas[11]
 # Itt van javítva a -0 anomália
                 if pr_diff == -0 or -0.0:
                   pr_diff=0
+                if xg_diff == -0 or -0.0:
+                  xg_diff=0
+                if prxg_diff == -0 or -0.0:
+                  prxg_diff=0
 # Itt vannak beállítva a tizedesjegyek hossza
                 pr_diff = ("%.2f" % pr_diff)
                 datas[0] = ("%.4f" % datas[0])
@@ -87,11 +93,12 @@ def create_team_csv():
 # se engedi beírni az adatokat, ezáltal sehol sem duplikál.
                 with open(os.path.abspath("main_result")+"\\main_result.csv", "r") as read_main:
                   read_main = csv.reader(read_main)
-                  list_main = []
-                  for i in read_main:
-                    list_main.append(i)
-                  if main_result in list_main:
-                    continue
+                  list_match_id = []
+                  list_main=[]
+                  for index,i in enumerate(read_main):
+                    if main_result[1] in i:
+                      print(index)
+                      continue
                   else:
                     with open(os.path.abspath("main_result")+"\\main_result.csv", "a", newline='',encoding="utf-8")as main:
                       main = csv.writer(main, dialect='excel')
