@@ -3,7 +3,7 @@ import os
 import csv
 
 # A csapatok mappájának abszolúlt elérési útvonala
-final_path = os.path.abspath("teams")
+final_path = os.path.abspath("..\..\converted_csv_datas\\teams")
 
 # Függvény kezdete
 # Az info tartalmazza az átküldött iterált csv_result sort, a team_header magáért beszél :)

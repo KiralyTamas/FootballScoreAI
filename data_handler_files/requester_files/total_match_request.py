@@ -1,3 +1,4 @@
+from match_id_collector import id_collect as coll
 import asyncio
 import json
 import os
@@ -7,7 +8,9 @@ import aiohttp
 from understat import Understat
 
 
+
 async def main():
+    coll()
     raw_matches=os.path.abspath("../../raw_json_datas/match")
     # Ez a két sor megkérdezi, hogy melyik ID-től melyik ID-ig fusson le a lekérdezés. Manuálisan kell a terminálban megadni a számokat.
     with open("match_ids.csv","r") as file:
