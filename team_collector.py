@@ -71,9 +71,9 @@ def create_team_csv():
                 if prxg_diff == -0 or -0.0:
                   prxg_diff=0
 # Itt vannak beállítva a tizedesjegyek hossza
-                pr_diff = ("%.2f" % pr_diff)
-                xg_diff = ("%.2f" % xg_diff)
-                prxg_diff = ("%.2f" % prxg_diff)
+                pr_diff = ("%.1f" % pr_diff)
+                xg_diff = ("%.1f" % xg_diff)
+                prxg_diff = ("%.1f" % prxg_diff)
                 datas[0] = ("%.4f" % datas[0])
                 datas[1] = ("%.4f" % datas[1])
                 datas[2] = ("%.4f" % datas[2])
