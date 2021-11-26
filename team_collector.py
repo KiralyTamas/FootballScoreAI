@@ -51,7 +51,7 @@ def create_team_csv():
                   main_list.writerow(result_header)
             else:
 # A cal(row, team_header) meghívásával átadjuk az aktuálisan iterált csv_result fájl sorát és a csapat_csv fejlécét.
-                datas = cal(row, team_header)
+                datas=cal(row, team_header)
 # Visszaérkeznek a "calculater" által küldött "datas" adatok.
 # A csv_result-ből kivett adatok "row"-ként vannak behívva, a calculater adatai "datas"-ként szerepel,
                 pr = ""
@@ -83,8 +83,8 @@ def create_team_csv():
 # Itt van kitöltve a main_result és a hazai--vendég csapatok kitöltési dataszerkezete attól függően, hazai vagy vendég
                 forecast = [row[13], row[14], row[15]]
                 main_result = [date, math_id, teams[0], teams[1], score[0],
-                              score[1], xg[0], xg[1], datas[6], datas[7], pr_diff, datas[8], datas[9],pr_diff, datas[10],
-                              datas[11],pr_diff, pr, pr, pr, forecast[0], forecast[1], forecast[2]]
+                              score[1], xg[0], xg[1], datas[6], datas[7], pr_diff, datas[8], datas[9],xg_diff, datas[10],
+                              datas[11],prxg_diff, pr, pr, pr, forecast[0], forecast[1], forecast[2]]
                 home_data = [date, math_id, teams[0],
                             teams[1], score[0], score[1], datas[6], datas[0],
                             datas[8], datas[2], datas[10], datas[4]]
