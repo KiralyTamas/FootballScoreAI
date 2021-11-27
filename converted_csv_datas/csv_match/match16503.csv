@@ -1,0 +1,28 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+444093,1,BlockedShot,0.870999984741211,0.5520000076293945,0.12332451343536377,Diogo Jota,h,6854,OpenPlay,2021,LeftFoot,16503,Liverpool,Southampton,4,0,2021-11-27 15:00:00,Trent Alexander-Arnold,TakeOn
+444094,1,Goal,0.95,0.5220000076293946,0.6258208155632019,Diogo Jota,h,6854,OpenPlay,2021,RightFoot,16503,Liverpool,Southampton,4,0,2021-11-27 15:00:00,Andrew Robertson,Pass
+444095,4,MissedShots,0.9209999847412109,0.46599998474121096,0.06519671529531479,Sadio Mané,h,838,OpenPlay,2021,Head,16503,Liverpool,Southampton,4,0,2021-11-27 15:00:00,Andrew Robertson,Aerial
+444096,15,BlockedShot,0.9080000305175782,0.3039999961853027,0.06918416172266006,Mohamed Salah,h,1250,OpenPlay,2021,LeftFoot,16503,Liverpool,Southampton,4,0,2021-11-27 15:00:00,Jordan Henderson,Pass
+444097,16,MissedShots,0.889000015258789,0.25799999237060545,0.04776780307292938,Mohamed Salah,h,1250,OpenPlay,2021,LeftFoot,16503,Liverpool,Southampton,4,0,2021-11-27 15:00:00,,None
+444099,29,MissedShots,0.8540000152587891,0.30100000381469727,0.04113181307911873,Jordan Henderson,h,605,OpenPlay,2021,RightFoot,16503,Liverpool,Southampton,4,0,2021-11-27 15:00:00,Mohamed Salah,Pass
+444100,31,Goal,0.9690000152587891,0.54,0.7947230339050293,Diogo Jota,h,6854,OpenPlay,2021,LeftFoot,16503,Liverpool,Southampton,4,0,2021-11-27 15:00:00,Mohamed Salah,Pass
+444101,36,BlockedShot,0.915,0.5720000076293945,0.12087767571210861,Diogo Jota,h,6854,OpenPlay,2021,LeftFoot,16503,Liverpool,Southampton,4,0,2021-11-27 15:00:00,Jordan Henderson,HeadPass
+444102,36,Goal,0.8469999694824218,0.645,0.05333472043275833,Thiago Alcántara,h,229,OpenPlay,2021,LeftFoot,16503,Liverpool,Southampton,4,0,2021-11-27 15:00:00,,None
+444103,39,MissedShots,0.9580000305175781,0.6509999847412109,0.02635776810348034,Sadio Mané,h,838,OpenPlay,2021,Head,16503,Liverpool,Southampton,4,0,2021-11-27 15:00:00,Jordan Henderson,Cross
+444104,40,MissedShots,0.8980000305175782,0.649000015258789,0.15528596937656403,Diogo Jota,h,6854,OpenPlay,2021,RightFoot,16503,Liverpool,Southampton,4,0,2021-11-27 15:00:00,Andrew Robertson,TakeOn
+444106,46,MissedShots,0.85,0.5670000076293945,0.07901476323604584,Diogo Jota,h,6854,OpenPlay,2021,RightFoot,16503,Liverpool,Southampton,4,0,2021-11-27 15:00:00,,None
+444107,51,SavedShot,0.78,0.72,0.025281354784965515,Sadio Mané,h,838,FromCorner,2021,RightFoot,16503,Liverpool,Southampton,4,0,2021-11-27 15:00:00,Virgil van Dijk,Pass
+444108,51,Goal,0.8859999847412109,0.5,0.05944373086094856,Virgil van Dijk,h,833,FromCorner,2021,RightFoot,16503,Liverpool,Southampton,4,0,2021-11-27 15:00:00,Trent Alexander-Arnold,Cross
+444113,73,MissedShots,0.9319999694824219,0.4809999847412109,0.5556197762489319,Diogo Jota,h,6854,OpenPlay,2021,RightFoot,16503,Liverpool,Southampton,4,0,2021-11-27 15:00:00,Andrew Robertson,Cross
+444114,76,BlockedShot,0.8980000305175782,0.26799999237060546,0.06241387501358986,Mohamed Salah,h,1250,OpenPlay,2021,LeftFoot,16503,Liverpool,Southampton,4,0,2021-11-27 15:00:00,Fabinho,Pass
+444115,78,SavedShot,0.815,0.45799999237060546,0.08303170651197433,Alex Oxlade-Chamberlain,h,966,OpenPlay,2021,RightFoot,16503,Liverpool,Southampton,4,0,2021-11-27 15:00:00,Diogo Jota,Pass
+444116,80,MissedShots,0.774000015258789,0.35200000762939454,0.022853722795844078,James Milner,h,489,OpenPlay,2021,RightFoot,16503,Liverpool,Southampton,4,0,2021-11-27 15:00:00,,None
+444117,83,BlockedShot,0.735999984741211,0.43,0.02268170937895775,Alex Oxlade-Chamberlain,h,966,OpenPlay,2021,RightFoot,16503,Liverpool,Southampton,4,0,2021-11-27 15:00:00,Fabinho,Pass
+444118,89,MissedShots,0.7919999694824219,0.34,0.039430566132068634,Mohamed Salah,h,1250,OpenPlay,2021,LeftFoot,16503,Liverpool,Southampton,4,0,2021-11-27 15:00:00,Alex Oxlade-Chamberlain,Pass
+444092,0,MissedShots,0.945,0.5890000152587891,0.06883557885885239,Jan Bednarek,a,6042,FromCorner,2021,Head,16503,Liverpool,Southampton,4,0,2021-11-27 15:00:00,James Ward-Prowse,Cross
+444098,23,SavedShot,0.9059999847412109,0.6370000076293946,0.22548937797546387,Armando Broja,a,8384,OpenPlay,2021,RightFoot,16503,Liverpool,Southampton,4,0,2021-11-27 15:00:00,,BallRecovery
+444105,44,SavedShot,0.845,0.539000015258789,0.045367512851953506,Adam Armstrong,a,4419,OpenPlay,2021,RightFoot,16503,Liverpool,Southampton,4,0,2021-11-27 15:00:00,Valentino Livramento,Cross
+444109,53,BlockedShot,0.9319999694824219,0.5720000076293945,0.28424549102783203,Adam Armstrong,a,4419,OpenPlay,2021,LeftFoot,16503,Liverpool,Southampton,4,0,2021-11-27 15:00:00,Nathan Tella,Cross
+444110,53,SavedShot,0.9769999694824218,0.59,0.3149528205394745,Adam Armstrong,a,4419,OpenPlay,2021,RightFoot,16503,Liverpool,Southampton,4,0,2021-11-27 15:00:00,,Rebound
+444111,60,BlockedShot,0.855999984741211,0.5829999923706055,0.08924072980880737,Adam Armstrong,a,4419,OpenPlay,2021,RightFoot,16503,Liverpool,Southampton,4,0,2021-11-27 15:00:00,Nathan Tella,Pass
+444112,60,BlockedShot,0.9669999694824218,0.685,0.030221285298466682,Romain Perraud,a,6500,OpenPlay,2021,LeftFoot,16503,Liverpool,Southampton,4,0,2021-11-27 15:00:00,,Rebound

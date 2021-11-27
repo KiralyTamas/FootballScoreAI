@@ -96,7 +96,7 @@ async def main():
     with open(eplplayer+"/epl_player2014.json", "w") as file:
       file.write(json.dumps(player2014))
 
-  #coll()
+  coll()
   with open(os.path.abspath("data_handler_files/requester_files/match_ids.csv"),"r") as file:
       list_of_num=csv.reader(file)
       number=[]
