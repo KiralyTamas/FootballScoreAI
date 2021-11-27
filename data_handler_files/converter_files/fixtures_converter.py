@@ -1,13 +1,13 @@
 import csv
 import os
 
-def convert_f(data_list, delim):
+def convert_f(data_list, delim,name):
     destiny_path=os.path.abspath("converted_csv_datas/csv_fixtures")
     file_xxx = ["json", "csv"]
-    csv_name = data_list[0].replace(file_xxx[0], file_xxx[1])
+    csv_name = name.replace(file_xxx[0], file_xxx[1])
     with open(destiny_path+"/"+csv_name, "w", newline='',encoding="utf-8") as file:
         csv_file = csv.writer(file)
-        for number in data_list[1]:
+        for number in data_list[0]:
             header = []
             for i in number.keys():
                 if isinstance(number[i], dict):
@@ -17,7 +17,7 @@ def convert_f(data_list, delim):
                 if isinstance(number[i], dict):
                     header.remove(i)
         csv_file.writerow(header)
-        for number in data_list[1]:
+        for number in data_list[0]:
             content = []
             for i in number.keys():
                 content.append(number[i])

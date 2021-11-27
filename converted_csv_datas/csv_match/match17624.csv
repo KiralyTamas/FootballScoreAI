@@ -1,0 +1,39 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+444037,5,BlockedShot,0.8540000152587891,0.26899999618530274,0.025864766910672188,Timothy Tillman,h,7042,SetPiece,2021,RightFoot,17624,Greuther Fuerth,Hoffenheim,3,6,2021-11-27 14:30:00,Branimir Hrgota,Pass
+444038,6,SavedShot,0.7469999694824219,0.5640000152587891,0.023057935759425163,Timothy Tillman,h,7042,OpenPlay,2021,RightFoot,17624,Greuther Fuerth,Hoffenheim,3,6,2021-11-27 14:30:00,Håvard Nielsen,Pass
+444039,8,BlockedShot,0.789000015258789,0.6040000152587891,0.030993763357400894,Branimir Hrgota,h,216,OpenPlay,2021,LeftFoot,17624,Greuther Fuerth,Hoffenheim,3,6,2021-11-27 14:30:00,,None
+444040,9,MissedShots,0.965999984741211,0.585999984741211,0.03579576313495636,Hans Nunoo Sarpei,h,7179,FromCorner,2021,Head,17624,Greuther Fuerth,Hoffenheim,3,6,2021-11-27 14:30:00,Timothy Tillman,Aerial
+444042,15,MissedShots,0.96,0.3120000076293945,0.05372428894042969,Håvard Nielsen,h,5269,SetPiece,2021,RightFoot,17624,Greuther Fuerth,Hoffenheim,3,6,2021-11-27 14:30:00,Timothy Tillman,Chipped
+444045,21,Goal,0.87,0.44400001525878907,0.10204966366291046,Jamie Leweling,h,9718,OpenPlay,2021,LeftFoot,17624,Greuther Fuerth,Hoffenheim,3,6,2021-11-27 14:30:00,Branimir Hrgota,Pass
+444046,31,ShotOnPost,0.960999984741211,0.6179999923706054,0.35614994168281555,Timothy Tillman,h,7042,OpenPlay,2021,LeftFoot,17624,Greuther Fuerth,Hoffenheim,3,6,2021-11-27 14:30:00,Dickson Abiama,Pass
+444051,45,Goal,0.9019999694824219,0.5379999923706055,0.10809758305549622,Timothy Tillman,h,7042,OpenPlay,2021,LeftFoot,17624,Greuther Fuerth,Hoffenheim,3,6,2021-11-27 14:30:00,Branimir Hrgota,Pass
+444052,53,BlockedShot,0.8869999694824219,0.7169999694824218,0.06275077164173126,Branimir Hrgota,h,216,OpenPlay,2021,LeftFoot,17624,Greuther Fuerth,Hoffenheim,3,6,2021-11-27 14:30:00,,TakeOn
+444053,53,SavedShot,0.91,0.7030000305175781,0.04418715834617615,Branimir Hrgota,h,216,OpenPlay,2021,LeftFoot,17624,Greuther Fuerth,Hoffenheim,3,6,2021-11-27 14:30:00,,Rebound
+444054,53,SavedShot,0.950999984741211,0.6880000305175781,0.05116564780473709,Branimir Hrgota,h,216,OpenPlay,2021,LeftFoot,17624,Greuther Fuerth,Hoffenheim,3,6,2021-11-27 14:30:00,,Rebound
+444055,54,MissedShots,0.9209999847412109,0.6170000076293946,0.014151015318930149,Hans Nunoo Sarpei,h,7179,FromCorner,2021,Head,17624,Greuther Fuerth,Hoffenheim,3,6,2021-11-27 14:30:00,Timothy Tillman,Aerial
+444063,65,OwnGoal,0.034000000953674316,0.500999984741211,0,Marco Meyerhöfer,h,9717,FromCorner,2021,LeftFoot,17624,Greuther Fuerth,Hoffenheim,3,6,2021-11-27 14:30:00,,CornerAwarded
+444064,66,Goal,0.8919999694824219,0.5679999923706055,0.3104061484336853,Branimir Hrgota,h,216,OpenPlay,2021,LeftFoot,17624,Greuther Fuerth,Hoffenheim,3,6,2021-11-27 14:30:00,Jamie Leweling,Pass
+444069,85,MissedShots,0.8680000305175781,0.47,0.05068451911211014,Håvard Nielsen,h,5269,OpenPlay,2021,RightFoot,17624,Greuther Fuerth,Hoffenheim,3,6,2021-11-27 14:30:00,Abdourahmane Barry,Cross
+444071,91,SavedShot,0.7430000305175781,0.28100000381469725,0.015092149376869202,Cedric Itten,h,9954,OpenPlay,2021,RightFoot,17624,Greuther Fuerth,Hoffenheim,3,6,2021-11-27 14:30:00,Max Christiansen,Pass
+444072,92,BlockedShot,0.875999984741211,0.35200000762939454,0.08885891735553741,Jamie Leweling,h,9718,OpenPlay,2021,RightFoot,17624,Greuther Fuerth,Hoffenheim,3,6,2021-11-27 14:30:00,Jeremy Dudziak,Chipped
+444035,3,BlockedShot,0.7919999694824219,0.32,0.018482225015759468,David Raum,a,9724,FromCorner,2021,LeftFoot,17624,Greuther Fuerth,Hoffenheim,3,6,2021-11-27 14:30:00,,None
+444036,3,SavedShot,0.8769999694824219,0.39799999237060546,0.07338950037956238,Munas Dabbur,a,8140,FromCorner,2021,RightFoot,17624,Greuther Fuerth,Hoffenheim,3,6,2021-11-27 14:30:00,David Raum,Rebound
+444041,13,SavedShot,0.885,0.47299999237060547,0.11338362842798233,Munas Dabbur,a,8140,SetPiece,2021,LeftFoot,17624,Greuther Fuerth,Hoffenheim,3,6,2021-11-27 14:30:00,Kevin Akpoguma,Pass
+444043,19,SavedShot,0.8059999847412109,0.5640000152587891,0.012530812993645668,Ihlas Bebou,a,6271,SetPiece,2021,Head,17624,Greuther Fuerth,Hoffenheim,3,6,2021-11-27 14:30:00,David Raum,Cross
+444044,20,SavedShot,0.8780000305175781,0.4929999923706055,0.08267740905284882,Munas Dabbur,a,8140,FromCorner,2021,RightFoot,17624,Greuther Fuerth,Hoffenheim,3,6,2021-11-27 14:30:00,Georginio Rutter,None
+444047,31,Goal,0.93,0.44099998474121094,0.476175993680954,Ihlas Bebou,a,6271,OpenPlay,2021,RightFoot,17624,Greuther Fuerth,Hoffenheim,3,6,2021-11-27 14:30:00,Georginio Rutter,Pass
+444048,39,Goal,0.91,0.5259999847412109,0.3092317283153534,Georginio Rutter,a,6937,FromCorner,2021,Head,17624,Greuther Fuerth,Hoffenheim,3,6,2021-11-27 14:30:00,David Raum,Cross
+444049,43,BlockedShot,0.88,0.6459999847412109,0.08641573786735535,Dennis Geiger,a,6081,OpenPlay,2021,LeftFoot,17624,Greuther Fuerth,Hoffenheim,3,6,2021-11-27 14:30:00,David Raum,Pass
+444050,43,MissedShots,0.7119999694824218,0.634000015258789,0.014281364157795906,Kevin Vogt,a,133,OpenPlay,2021,RightFoot,17624,Greuther Fuerth,Hoffenheim,3,6,2021-11-27 14:30:00,,None
+444056,54,BlockedShot,0.8809999847412109,0.5770000076293945,0.07701585441827774,Dennis Geiger,a,6081,OpenPlay,2021,RightFoot,17624,Greuther Fuerth,Hoffenheim,3,6,2021-11-27 14:30:00,,None
+444057,55,MissedShots,0.9219999694824219,0.5740000152587891,0.024005314335227013,Munas Dabbur,a,8140,FromCorner,2021,Head,17624,Greuther Fuerth,Hoffenheim,3,6,2021-11-27 14:30:00,Dennis Geiger,Aerial
+444058,56,Goal,0.8019999694824219,0.68,0.026022158563137054,Georginio Rutter,a,6937,OpenPlay,2021,LeftFoot,17624,Greuther Fuerth,Hoffenheim,3,6,2021-11-27 14:30:00,David Raum,Pass
+444059,60,BlockedShot,0.8980000305175782,0.5170000076293946,0.07123995572328568,Georginio Rutter,a,6937,FromCorner,2021,Head,17624,Greuther Fuerth,Hoffenheim,3,6,2021-11-27 14:30:00,David Raum,Cross
+444060,60,MissedShots,0.9,0.575999984741211,0.10194708406925201,Georginio Rutter,a,6937,FromCorner,2021,LeftFoot,17624,Greuther Fuerth,Hoffenheim,3,6,2021-11-27 14:30:00,,Rebound
+444061,61,SavedShot,0.860999984741211,0.3629999923706055,0.2971220016479492,Ihlas Bebou,a,6271,OpenPlay,2021,RightFoot,17624,Greuther Fuerth,Hoffenheim,3,6,2021-11-27 14:30:00,Munas Dabbur,Chipped
+444062,61,Goal,0.9830000305175781,0.45299999237060545,0.8080045580863953,Ihlas Bebou,a,6271,OpenPlay,2021,RightFoot,17624,Greuther Fuerth,Hoffenheim,3,6,2021-11-27 14:30:00,,Rebound
+444065,72,BlockedShot,0.7730000305175782,0.6530000305175782,0.01744282804429531,Florian Grillitsch,a,116,FromCorner,2021,RightFoot,17624,Greuther Fuerth,Hoffenheim,3,6,2021-11-27 14:30:00,,None
+444066,75,BlockedShot,0.9269999694824219,0.375,0.1323370784521103,Georginio Rutter,a,6937,OpenPlay,2021,RightFoot,17624,Greuther Fuerth,Hoffenheim,3,6,2021-11-27 14:30:00,Angelo Stiller,Pass
+444067,75,MissedShots,0.9540000152587891,0.37200000762939456,0.09804500639438629,Georginio Rutter,a,6937,OpenPlay,2021,LeftFoot,17624,Greuther Fuerth,Hoffenheim,3,6,2021-11-27 14:30:00,,Rebound
+444068,79,Goal,0.8719999694824219,0.3320000076293945,0.3722623884677887,Ihlas Bebou,a,6271,OpenPlay,2021,RightFoot,17624,Greuther Fuerth,Hoffenheim,3,6,2021-11-27 14:30:00,Andrej Kramaric,Throughball
+444070,88,SavedShot,0.925,0.28399999618530275,0.0667077973484993,Stefan Posch,a,5329,OpenPlay,2021,RightFoot,17624,Greuther Fuerth,Hoffenheim,3,6,2021-11-27 14:30:00,Florian Grillitsch,Pass

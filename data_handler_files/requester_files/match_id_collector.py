@@ -2,7 +2,7 @@ import os
 import csv
 
 def id_collect():
-  source_dir=os.path.abspath("..\..\converted_csv_datas\csv_match")
+  source_dir=os.path.abspath("converted_csv_datas\csv_match")
   print(source_dir)
   f = []
   for (dirpath, dirnames, filenames) in os.walk(source_dir):
@@ -10,7 +10,7 @@ def id_collect():
       break
   number_list = []
   check_list=[]
-  p_path=os.path.abspath("..\..\data_handler_files\\requester_files")
+  p_path=os.path.abspath("data_handler_files\\requester_files")
   for match_id in f:
     match_num_1 = match_id.replace("match", '')
     match_num_2=int(match_num_1.replace(".csv", ''))

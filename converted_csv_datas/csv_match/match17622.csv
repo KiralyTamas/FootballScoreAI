@@ -1,0 +1,33 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+442400,2,Goal,0.9169999694824219,0.6079999923706054,0.041594427078962326,Amine Adli,h,8211,OpenPlay,2021,Head,17622,Bayer Leverkusen,Bochum,1,0,2021-11-20 14:30:00,Jeremie Frimpong,Cross
+442402,10,BlockedShot,0.715,0.504000015258789,0.014010083861649036,Nadiem Amiri,h,82,FromCorner,2021,RightFoot,17622,Bayer Leverkusen,Bochum,1,0,2021-11-20 14:30:00,,None
+442405,15,MissedShots,0.9290000152587891,0.5259999847412109,0.4549196660518646,Florian Wirtz,h,8397,OpenPlay,2021,Head,17622,Bayer Leverkusen,Bochum,1,0,2021-11-20 14:30:00,Robert Andrich,Throughball
+442407,22,BlockedShot,0.769000015258789,0.644000015258789,0.025070488452911377,Robert Andrich,h,7877,OpenPlay,2021,RightFoot,17622,Bayer Leverkusen,Bochum,1,0,2021-11-20 14:30:00,Florian Wirtz,Pass
+442412,38,MissedShots,0.9540000152587891,0.645,0.0973496288061142,Florian Wirtz,h,8397,OpenPlay,2021,RightFoot,17622,Bayer Leverkusen,Bochum,1,0,2021-11-20 14:30:00,Daley Sinkgraven,Pass
+442413,41,SavedShot,0.9030000305175782,0.6580000305175782,0.2939012348651886,Daley Sinkgraven,h,7899,OpenPlay,2021,LeftFoot,17622,Bayer Leverkusen,Bochum,1,0,2021-11-20 14:30:00,Florian Wirtz,Pass
+442417,56,MissedShots,0.8490000152587891,0.3920000076293945,0.11968288570642471,Florian Wirtz,h,8397,OpenPlay,2021,RightFoot,17622,Bayer Leverkusen,Bochum,1,0,2021-11-20 14:30:00,,None
+442425,77,SavedShot,0.875,0.4929999923706055,0.34419694542884827,Paulinho,h,7067,OpenPlay,2021,RightFoot,17622,Bayer Leverkusen,Bochum,1,0,2021-11-20 14:30:00,Moussa Diaby,Pass
+442426,80,SavedShot,0.9269999694824219,0.3340000152587891,0.09208735078573227,Moussa Diaby,h,6556,OpenPlay,2021,RightFoot,17622,Bayer Leverkusen,Bochum,1,0,2021-11-20 14:30:00,Florian Wirtz,Pass
+442427,82,SavedShot,0.8809999847412109,0.3320000076293945,0.08468575775623322,Amine Adli,h,8211,OpenPlay,2021,LeftFoot,17622,Bayer Leverkusen,Bochum,1,0,2021-11-20 14:30:00,Jonathan Tah,Pass
+442430,91,MissedShots,0.735999984741211,0.47900001525878905,0.05886884406208992,Florian Wirtz,h,8397,DirectFreekick,2021,RightFoot,17622,Bayer Leverkusen,Bochum,1,0,2021-11-20 14:30:00,,Standard
+442399,1,ShotOnPost,0.6880000305175781,0.649000015258789,0.011982057243585587,Elvis Rexhbecaj,a,6445,OpenPlay,2021,LeftFoot,17622,Bayer Leverkusen,Bochum,1,0,2021-11-20 14:30:00,Takuma Asano,Pass
+442401,7,SavedShot,0.6840000152587891,0.5209999847412109,0.03490043058991432,Eduard Löwen,a,7043,DirectFreekick,2021,RightFoot,17622,Bayer Leverkusen,Bochum,1,0,2021-11-20 14:30:00,,Standard
+442403,14,BlockedShot,0.915,0.5870000076293945,0.0501755028963089,Anthony Losilla,a,9705,FromCorner,2021,Head,17622,Bayer Leverkusen,Bochum,1,0,2021-11-20 14:30:00,Eduard Löwen,Cross
+442404,14,MissedShots,0.87,0.5740000152587891,0.012341567315161228,Christopher Antwi-Adjei,a,7798,FromCorner,2021,Head,17622,Bayer Leverkusen,Bochum,1,0,2021-11-20 14:30:00,Eduard Löwen,Aerial
+442406,17,MissedShots,0.7230000305175781,0.6179999923706054,0.01637139730155468,Eduard Löwen,a,7043,OpenPlay,2021,RightFoot,17622,Bayer Leverkusen,Bochum,1,0,2021-11-20 14:30:00,Christopher Antwi-Adjei,Pass
+442408,23,MissedShots,0.7430000305175781,0.545,0.0182358231395483,Konstantinos Stafylidis,a,368,OpenPlay,2021,LeftFoot,17622,Bayer Leverkusen,Bochum,1,0,2021-11-20 14:30:00,,BallRecovery
+442409,25,BlockedShot,0.855,0.5029999923706054,0.12284985929727554,Takuma Asano,a,6087,OpenPlay,2021,RightFoot,17622,Bayer Leverkusen,Bochum,1,0,2021-11-20 14:30:00,Sebastian Polter,Pass
+442410,30,SavedShot,0.6969999694824218,0.7030000305175781,0.03054763562977314,Eduard Löwen,a,7043,DirectFreekick,2021,RightFoot,17622,Bayer Leverkusen,Bochum,1,0,2021-11-20 14:30:00,,Standard
+442411,37,MissedShots,0.8569999694824219,0.37900001525878907,0.05318539962172508,Takuma Asano,a,6087,OpenPlay,2021,RightFoot,17622,Bayer Leverkusen,Bochum,1,0,2021-11-20 14:30:00,,None
+442414,45,SavedShot,0.904000015258789,0.3240000152587891,0.05727905407547951,Elvis Rexhbecaj,a,6445,OpenPlay,2021,RightFoot,17622,Bayer Leverkusen,Bochum,1,0,2021-11-20 14:30:00,Takuma Asano,Pass
+442415,48,MissedShots,0.8680000305175781,0.4879999923706055,0.03559374809265137,Sebastian Polter,a,7881,OpenPlay,2021,Head,17622,Bayer Leverkusen,Bochum,1,0,2021-11-20 14:30:00,Takuma Asano,Cross
+442416,48,MissedShots,0.7959999847412109,0.5670000076293945,0.032687049359083176,Christopher Antwi-Adjei,a,7798,OpenPlay,2021,RightFoot,17622,Bayer Leverkusen,Bochum,1,0,2021-11-20 14:30:00,Eduard Löwen,Pass
+442418,58,SavedShot,0.85,0.6759999847412109,0.04711657017469406,Christopher Antwi-Adjei,a,7798,OpenPlay,2021,RightFoot,17622,Bayer Leverkusen,Bochum,1,0,2021-11-20 14:30:00,Vasilios Lampropoulos,Pass
+442419,60,SavedShot,0.7430000305175781,0.5690000152587891,0.016856208443641663,Eduard Löwen,a,7043,OpenPlay,2021,RightFoot,17622,Bayer Leverkusen,Bochum,1,0,2021-11-20 14:30:00,Konstantinos Stafylidis,Chipped
+442420,61,SavedShot,0.7780000305175782,0.26600000381469724,0.01815769076347351,Takuma Asano,a,6087,OpenPlay,2021,LeftFoot,17622,Bayer Leverkusen,Bochum,1,0,2021-11-20 14:30:00,Anthony Losilla,Pass
+442421,63,BlockedShot,0.865999984741211,0.34599998474121096,0.019013717770576477,Elvis Rexhbecaj,a,6445,OpenPlay,2021,LeftFoot,17622,Bayer Leverkusen,Bochum,1,0,2021-11-20 14:30:00,,Aerial
+442422,66,SavedShot,0.8590000152587891,0.610999984741211,0.059168074280023575,Takuma Asano,a,6087,OpenPlay,2021,LeftFoot,17622,Bayer Leverkusen,Bochum,1,0,2021-11-20 14:30:00,Elvis Rexhbecaj,Chipped
+442423,66,MissedShots,0.8880000305175781,0.485,0.016812827438116074,Erhan Masovic,a,9709,FromCorner,2021,Head,17622,Bayer Leverkusen,Bochum,1,0,2021-11-20 14:30:00,Eduard Löwen,Aerial
+442424,70,BlockedShot,0.6990000152587891,0.6,0.014480572193861008,Anthony Losilla,a,9705,OpenPlay,2021,RightFoot,17622,Bayer Leverkusen,Bochum,1,0,2021-11-20 14:30:00,Danilo Soares,Pass
+442428,83,MissedShots,0.7709999847412109,0.38599998474121094,0.022350052371621132,Herbert Bockhorn,a,9708,OpenPlay,2021,LeftFoot,17622,Bayer Leverkusen,Bochum,1,0,2021-11-20 14:30:00,,None
+442429,87,BlockedShot,0.755,0.6079999923706054,0.018591975793242455,Danilo Soares,a,247,OpenPlay,2021,LeftFoot,17622,Bayer Leverkusen,Bochum,1,0,2021-11-20 14:30:00,,None

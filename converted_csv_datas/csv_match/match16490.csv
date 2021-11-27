@@ -1,0 +1,22 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+443144,6,BlockedShot,0.765,0.5540000152587891,0.024770203977823257,João Cancelo,h,2379,OpenPlay,2021,RightFoot,16490,Manchester City,Everton,3,0,2021-11-21 14:00:00,,None
+443145,10,MissedShots,0.9269999694824219,0.525,0.13474039733409882,Phil Foden,h,6055,OpenPlay,2021,Head,16490,Manchester City,Everton,3,0,2021-11-21 14:00:00,Raheem Sterling,Cross
+443147,24,BlockedShot,0.8640000152587891,0.549000015258789,0.10249725729227066,Ilkay Gündogan,h,314,OpenPlay,2021,LeftFoot,16490,Manchester City,Everton,3,0,2021-11-21 14:00:00,Cole Palmer,Pass
+443148,26,MissedShots,0.9459999847412109,0.4640000152587891,0.4744141101837158,Raheem Sterling,h,618,OpenPlay,2021,Head,16490,Manchester City,Everton,3,0,2021-11-21 14:00:00,Phil Foden,Cross
+443149,27,SavedShot,0.9230000305175782,0.634000015258789,0.34394770860671997,Bernardo Silva,h,3635,OpenPlay,2021,LeftFoot,16490,Manchester City,Everton,3,0,2021-11-21 14:00:00,Cole Palmer,Throughball
+443150,27,ShotOnPost,0.9119999694824219,0.5990000152587891,0.16843003034591675,Ilkay Gündogan,h,314,OpenPlay,2021,Head,16490,Manchester City,Everton,3,0,2021-11-21 14:00:00,,Rebound
+443151,29,SavedShot,0.7530000305175781,0.41900001525878905,0.02298797480762005,Cole Palmer,h,8497,OpenPlay,2021,LeftFoot,16490,Manchester City,Everton,3,0,2021-11-21 14:00:00,Rodri,Pass
+443152,29,SavedShot,0.9259999847412109,0.32,0.05055731534957886,Raheem Sterling,h,618,OpenPlay,2021,LeftFoot,16490,Manchester City,Everton,3,0,2021-11-21 14:00:00,,Rebound
+443153,43,Goal,0.8959999847412109,0.44799999237060545,0.3768310844898224,Raheem Sterling,h,618,OpenPlay,2021,RightFoot,16490,Manchester City,Everton,3,0,2021-11-21 14:00:00,João Cancelo,Throughball
+443155,54,Goal,0.7580000305175781,0.48200000762939454,0.035356052219867706,Rodri,h,2496,OpenPlay,2021,RightFoot,16490,Manchester City,Everton,3,0,2021-11-21 14:00:00,,None
+443156,59,MissedShots,0.8730000305175781,0.34400001525878904,0.08494950085878372,Riyad Mahrez,h,750,OpenPlay,2021,LeftFoot,16490,Manchester City,Everton,3,0,2021-11-21 14:00:00,João Cancelo,Pass
+443157,60,BlockedShot,0.9080000305175782,0.43400001525878906,0.1250748485326767,Cole Palmer,h,8497,OpenPlay,2021,RightFoot,16490,Manchester City,Everton,3,0,2021-11-21 14:00:00,Kyle Walker,Pass
+443158,69,SavedShot,0.725999984741211,0.4759999847412109,0.04923991113901138,Riyad Mahrez,h,750,DirectFreekick,2021,LeftFoot,16490,Manchester City,Everton,3,0,2021-11-21 14:00:00,,Standard
+443159,73,MissedShots,0.75,0.38,0.027766793966293335,Cole Palmer,h,8497,OpenPlay,2021,LeftFoot,16490,Manchester City,Everton,3,0,2021-11-21 14:00:00,Bernardo Silva,Pass
+443161,85,BlockedShot,0.8390000152587891,0.43900001525878907,0.10489173233509064,Cole Palmer,h,8497,OpenPlay,2021,LeftFoot,16490,Manchester City,Everton,3,0,2021-11-21 14:00:00,Ilkay Gündogan,Pass
+443162,85,Goal,0.92,0.4370000076293945,0.5105667114257812,Bernardo Silva,h,3635,OpenPlay,2021,RightFoot,16490,Manchester City,Everton,3,0,2021-11-21 14:00:00,,Rebound
+443163,92,MissedShots,0.9319999694824219,0.669000015258789,0.088648721575737,James McAtee,h,10126,OpenPlay,2021,LeftFoot,16490,Manchester City,Everton,3,0,2021-11-21 14:00:00,Raheem Sterling,BlockedPass
+443143,0,BlockedShot,0.8619999694824219,0.34599998474121096,0.06760924309492111,Anthony Gordon,a,8150,OpenPlay,2021,RightFoot,16490,Manchester City,Everton,3,0,2021-11-21 14:00:00,Andros Townsend,Pass
+443146,14,BlockedShot,0.8540000152587891,0.6840000152587891,0.04128606989979744,Demarai Gray,a,762,OpenPlay,2021,RightFoot,16490,Manchester City,Everton,3,0,2021-11-21 14:00:00,Andros Townsend,Pass
+443154,48,SavedShot,0.8909999847412109,0.18200000762939453,0.05866016075015068,Andros Townsend,a,775,DirectFreekick,2021,LeftFoot,16490,Manchester City,Everton,3,0,2021-11-21 14:00:00,,Standard
+443160,76,BlockedShot,0.97,0.3820000076293945,0.09933843463659286,Seamus Coleman,a,585,OpenPlay,2021,RightFoot,16490,Manchester City,Everton,3,0,2021-11-21 14:00:00,,TakeOn

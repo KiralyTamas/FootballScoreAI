@@ -1,0 +1,24 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+442482,5,BlockedShot,0.789000015258789,0.755,0.021082399412989616,Fabian Klos,h,8792,OpenPlay,2021,RightFoot,17615,Arminia Bielefeld,Wolfsburg,2,2,2021-11-20 14:30:00,,TakeOn
+442483,10,Goal,0.914000015258789,0.3679999923706055,0.3616293966770172,Masaya Okugawa,h,9352,OpenPlay,2021,RightFoot,17615,Arminia Bielefeld,Wolfsburg,2,2,2021-11-20 14:30:00,Patrick Wimmer,Throughball
+442484,16,MissedShots,0.860999984741211,0.5729999923706055,0.1349947154521942,Alessandro Schöpf,h,2638,OpenPlay,2021,LeftFoot,17615,Arminia Bielefeld,Wolfsburg,2,2,2021-11-20 14:30:00,Fabian Klos,TakeOn
+442485,22,BlockedShot,0.8209999847412109,0.24399999618530274,0.023614490404725075,Jacob Laursen,h,8795,FromCorner,2021,LeftFoot,17615,Arminia Bielefeld,Wolfsburg,2,2,2021-11-20 14:30:00,Alessandro Schöpf,Pass
+442491,45,BlockedShot,0.750999984741211,0.345,0.012940630316734314,Sebastian Vasiliadis,h,7797,FromCorner,2021,RightFoot,17615,Arminia Bielefeld,Wolfsburg,2,2,2021-11-20 14:30:00,,Aerial
+442493,49,MissedShots,0.755,0.32799999237060545,0.01896299608051777,Sebastian Vasiliadis,h,7797,FromCorner,2021,RightFoot,17615,Arminia Bielefeld,Wolfsburg,2,2,2021-11-20 14:30:00,Alessandro Schöpf,Pass
+442494,53,Goal,0.885,0.5,0.75777667760849,Fabian Klos,h,8792,Penalty,2021,RightFoot,17615,Arminia Bielefeld,Wolfsburg,2,2,2021-11-20 14:30:00,,Standard
+442500,79,SavedShot,0.73,0.7040000152587891,0.012847795151174068,Edimilson Fernandes,h,1673,OpenPlay,2021,RightFoot,17615,Arminia Bielefeld,Wolfsburg,2,2,2021-11-20 14:30:00,Masaya Okugawa,Pass
+442502,83,BlockedShot,0.8080000305175781,0.33799999237060546,0.031476058065891266,Alessandro Schöpf,h,2638,OpenPlay,2021,RightFoot,17615,Arminia Bielefeld,Wolfsburg,2,2,2021-11-20 14:30:00,Robin Hack,Pass
+442503,85,MissedShots,0.8619999694824219,0.4879999923706055,0.030462082475423813,Nathan de Medina,h,8787,FromCorner,2021,RightFoot,17615,Arminia Bielefeld,Wolfsburg,2,2,2021-11-20 14:30:00,,Aerial
+442481,2,MissedShots,0.91,0.39099998474121095,0.07558765262365341,Yannick Gerhardt,a,140,SetPiece,2021,RightFoot,17615,Arminia Bielefeld,Wolfsburg,2,2,2021-11-20 14:30:00,Maximilian Arnold,Chipped
+442486,26,MissedShots,0.9640000152587891,0.38299999237060545,0.03037368506193161,Kevin Mbabu,a,983,FromCorner,2021,Head,17615,Arminia Bielefeld,Wolfsburg,2,2,2021-11-20 14:30:00,Maximilian Arnold,Cross
+442487,28,SavedShot,0.91,0.47200000762939454,0.09173364192247391,Lukas Nmecha,a,6544,OpenPlay,2021,RightFoot,17615,Arminia Bielefeld,Wolfsburg,2,2,2021-11-20 14:30:00,Maximilian Arnold,Chipped
+442488,37,BlockedShot,0.8030000305175782,0.485,0.04015414044260979,Renato Steffen,a,6484,OpenPlay,2021,LeftFoot,17615,Arminia Bielefeld,Wolfsburg,2,2,2021-11-20 14:30:00,Wout Weghorst,Pass
+442489,39,MissedShots,0.7230000305175781,0.7390000152587891,0.012953505851328373,Maximilian Arnold,a,153,OpenPlay,2021,LeftFoot,17615,Arminia Bielefeld,Wolfsburg,2,2,2021-11-20 14:30:00,Jérôme Roussillon,Pass
+442490,42,MissedShots,0.860999984741211,0.5379999923706055,0.032129764556884766,Sebastiaan Bornauw,a,7791,SetPiece,2021,Head,17615,Arminia Bielefeld,Wolfsburg,2,2,2021-11-20 14:30:00,Maximilian Arnold,Cross
+442492,47,MissedShots,0.860999984741211,0.395,0.0712752640247345,Lukas Nmecha,a,6544,OpenPlay,2021,RightFoot,17615,Arminia Bielefeld,Wolfsburg,2,2,2021-11-20 14:30:00,Bote Baku,Pass
+442495,61,Goal,0.9769999694824218,0.5479999923706055,0.68590247631073,Wout Weghorst,a,7052,OpenPlay,2021,LeftFoot,17615,Arminia Bielefeld,Wolfsburg,2,2,2021-11-20 14:30:00,Dodi Lukebakio,Pass
+442496,62,Goal,0.8780000305175781,0.33599998474121096,0.053861476480960846,Lukas Nmecha,a,6544,OpenPlay,2021,RightFoot,17615,Arminia Bielefeld,Wolfsburg,2,2,2021-11-20 14:30:00,Maximilian Philipp,Pass
+442497,70,BlockedShot,0.745999984741211,0.37,0.01409771479666233,Maximilian Arnold,a,153,OpenPlay,2021,LeftFoot,17615,Arminia Bielefeld,Wolfsburg,2,2,2021-11-20 14:30:00,,None
+442498,77,SavedShot,0.8180000305175781,0.355,0.1121416762471199,Maximilian Arnold,a,153,DirectFreekick,2021,LeftFoot,17615,Arminia Bielefeld,Wolfsburg,2,2,2021-11-20 14:30:00,,Standard
+442499,77,SavedShot,0.94,0.49700000762939456,0.11663061380386353,Sebastiaan Bornauw,a,7791,FromCorner,2021,Head,17615,Arminia Bielefeld,Wolfsburg,2,2,2021-11-20 14:30:00,Lukas Nmecha,Chipped
+442501,81,MissedShots,0.8,0.295,0.019778477028012276,Maximilian Philipp,a,4247,OpenPlay,2021,RightFoot,17615,Arminia Bielefeld,Wolfsburg,2,2,2021-11-20 14:30:00,,None
