@@ -19,8 +19,8 @@ def create_team_csv():
                   "Hazai-PR", "Ellenfél-PR", "PR-diff", "Hazai-xgPR", "Ellenfél-xgPR",
                   "XG-diff","Hazai-Mixed-PR", "Ellenfél-Mixed-PR","Mixed-PR-diff", "H%", "D%", "A%", "ForeCast-W",
                   "ForeCast-D", "ForeCast-A"]
-  team_header = ["Dátum", "Meccs-Id", "Fő-Csapat", "Ellenfél-Csapat", "Hazai-Gól",
-                "Ellenfél-Gól", "Meccs-Előtti-PR", "Meccs-Utáni-PR", "Meccs-Előtti-xgPR",
+  team_header = ["Dátum", "Meccs-Id", "Fő-Csapat", "Ellenfél-Csapat","Hazai-Gól",
+                "Ellenfél-Gól","Hazai-XG","Ellenfél-XG", "Meccs-Előtti-PR", "Meccs-Utáni-PR", "Meccs-Előtti-xgPR",
                 "Meccs-Utáni-xgPR", "Meccs-Előtti-Mixed_PR", "Meccs-Utáni-Mixed_PR"]
 # Az os.walk iterál végig a csv_result mappa almappáin és az azokban lévő fájlokon.
 # A "h" tárolja a mappa útvonalakat, az "f" a mappákban lévő fájlok neveit
@@ -59,7 +59,8 @@ def create_team_csv():
                 date = row[12]
                 math_id = row[0]
                 teams = row[3], row[6]
-                score = [row[8], row[9]]
+                score_h = row[8]
+                score_a=row[9]
                 xg = [row[10], row[11]]
                 pr_diff = datas[6]-datas[7]
                 xg_diff=datas[8]-datas[9]
@@ -83,31 +84,60 @@ def create_team_csv():
                 datas[5] = ("%.4f" % datas[5])
 # Itt van kitöltve a main_result és a hazai--vendég csapatok kitöltési dataszerkezete attól függően, hazai vagy vendég
                 forecast = [row[13], row[14], row[15]]
-                main_result = [date, math_id, teams[0], teams[1], score[0],
-                              score[1], xg[0], xg[1], datas[6], datas[7], pr_diff, datas[8], datas[9],xg_diff, datas[10],
+                main_result = [date, math_id, teams[0], teams[1], score_h,
+                              score_a, xg[0], xg[1], datas[6], datas[7], pr_diff, datas[8], datas[9],xg_diff, datas[10],
                               datas[11],prxg_diff, pr, pr, pr, forecast[0], forecast[1], forecast[2]]
-                home_data = [date, math_id, teams[0],
-                            teams[1], score[0], score[1], datas[6], datas[0],
+                home_data = [date, math_id,"(H) "+teams[0],
+                            "(V) "+teams[1], score_h, score_a,xg[0], xg[1], datas[6], datas[0],
                             datas[8], datas[2], datas[10], datas[4]]
-                against_data = [date, math_id, teams[1],
-                              teams[0], score[1], score[0], datas[7], datas[1],
+                against_data = [date, math_id,"(V) "+teams[1],
+                              "(H) "+teams[0], score_a, score_h,xg[1], xg[0], datas[7], datas[1],
                               datas[9], datas[3], datas[11], datas[5]]
 # Ha a main_resultben már szerepel az aktuális adatsor Pl: Bővítés esetén, nem duplikálja a sort és a csapatfájlokba
 # se engedi beírni az adatokat, ezáltal sehol sem duplikál.
                 with open(os.path.abspath("..\..\converted_csv_datas\main_result")+"\\main_result.csv", "r") as read_main:
                   read_main = csv.reader(read_main)
                   list_id=[]
+                  count=0
+                  home_count=0
+                  deal_count=0
+                  against_count=0
                   for i in read_main:
                     try:
                       list_id.append(int(i[1]))
+                      if main_result[10] == i[10]:
+                        count+=1
+                        final_score=int(i[4])-int(i[5])
+                        if int(final_score) > 0:
+                          home_count+=1
+                        elif int(final_score) < 0:
+                          against_count+=1
+                        else:
+                          deal_count+=1
                     except ValueError:
                       continue
+                  try:
+                      home_percentage=(home_count/count)*100
+                      deal_percentage=(deal_count/count)*100
+                      against_percentage=(against_count/count)*100
+                  except ZeroDivisionError:
+                      home_percentage=0
+                      deal_percentage=0
+                      against_percentage=0
                 if int(main_result[1]) in list_id:
-                  print(main_result[1])
                   continue
                 else:
                   with open(os.path.abspath("..\..\converted_csv_datas\main_result")+"\\main_result.csv", "a", newline='',encoding="utf-8")as main:
                     main = csv.writer(main, dialect='excel')
+                    home_percentage= ("%.2f" % home_percentage)
+                    deal_percentage= ("%.2f" % deal_percentage)
+                    against_percentage= ("%.2f" % against_percentage)
+                    main_result.pop(-6)
+                    main_result.insert(-5,str(home_percentage)+"%")
+                    main_result.pop(-5)
+                    main_result.insert(-4,str(deal_percentage)+"%")
+                    main_result.pop(-4)
+                    main_result.insert(-3,str(against_percentage)+"%")
                     main.writerow(main_result)
                 with open(final_path+"\\"+teams[0]+".csv", "r", newline='', encoding="utf-8") as home_csv_old:
                   home_table_old = csv.reader(home_csv_old)

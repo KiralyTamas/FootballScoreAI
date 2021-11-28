@@ -56,9 +56,9 @@ def calculate(info, team_header):
 # hanem a két csapat fájljaiból is ki tudja emelni az előző mérkőzésük változásait.
 # Természetesen csak az egyik feltétel fut le iterálásonként, mindegyik a maga "datas" adatait küldi vissza.
 	elif len(row_hlist) == 1:
-		pr_changing = (((int(info[8])-int(info[9]))-(fix_num[2]-float(row_alist[-1][6])))-fix_num[0])*fix_num[1]
-		xg_changing = (((float(info[10])-float(info[11]))-(fix_num[2]-float(row_alist[-1][6])))-fix_num[0])*fix_num[1]
-		prxg_changing = (((int(info[8])-int(info[9]))-(float(info[10])-float(info[11]))-(fix_num[2]-float(row_alist[-1][6])))-fix_num[0])*fix_num[1]
+		pr_changing = (((int(info[8])-int(info[9]))-(fix_num[2]-float(row_alist[-1][8])))-fix_num[0])*fix_num[1]
+		xg_changing = (((float(info[10])-float(info[11]))-(fix_num[2]-float(row_alist[-1][8])))-fix_num[0])*fix_num[1]
+		prxg_changing = (((int(info[8])-int(info[9]))-(float(info[10])-float(info[11]))-(fix_num[2]-float(row_alist[-1][8])))-fix_num[0])*fix_num[1]
 		new_hpr = fix_num[2]+float(pr_changing)
 		old_apr = float(row_alist[-1][7])
 		new_apr = old_apr-float(pr_changing)
@@ -71,9 +71,9 @@ def calculate(info, team_header):
 		datas = [new_hpr, new_apr, new_hxg, new_axg, new_hprxg, new_aprxg,fix_num[2], old_apr, fix_num[2], old_axg, fix_num[2], old_aprxg]
 		return (datas)
 	elif len(row_alist) == 1:
-		pr_changing = (((int(info[8])-int(info[9]))-(float(row_hlist[-1][6])-fix_num[2]))-fix_num[0])*fix_num[1]
-		xg_changing = (((float(info[10])-float(info[11]))-(float(row_hlist[-1][6])-fix_num[2]))-fix_num[0])*fix_num[1]
-		prxg_changing = (((int(info[8])-int(info[9]))-(float(info[10])-float(info[11]))-(float(row_alist[-1][6])-fix_num[2]))-fix_num[0])*fix_num[1]
+		pr_changing = (((int(info[8])-int(info[9]))-(float(row_hlist[-1][8])-fix_num[2]))-fix_num[0])*fix_num[1]
+		xg_changing = (((float(info[10])-float(info[11]))-(float(row_hlist[-1][8])-fix_num[2]))-fix_num[0])*fix_num[1]
+		prxg_changing = (((int(info[8])-int(info[9]))-(float(info[10])-float(info[11]))-(float(row_alist[-1][8])-fix_num[2]))-fix_num[0])*fix_num[1]
 		old_hpr = float(row_hlist[-1][7])
 		new_hpr = old_hpr+float(pr_changing)
 		new_apr = fix_num[2]-float(pr_changing)
@@ -86,20 +86,20 @@ def calculate(info, team_header):
 		datas = [new_hpr, new_apr, new_hxg, new_axg, new_hprxg, new_aprxg,old_hpr, fix_num[2], old_hxg, fix_num[2], old_hprxg, fix_num[2]]
 		return (datas)
 	else:
-			pr_changing = ((int(info[8])-int(info[9]))-(float(row_hlist[-1][6])-float(row_alist[-1][6]))-fix_num[0])*fix_num[1]
-			xg_changing = ((float(info[10])-float(info[11]))-(float(row_hlist[-1][6])-float(row_alist[-1][6]))-fix_num[0])*fix_num[1]
-			prxg_changing = ((int(info[8])-int(info[9]))-(float(info[10])-float(info[11]))-(float(row_hlist[-1][6])-float(row_alist[-1][6]))-fix_num[0])*fix_num[1]
-			old_hpr = float(row_hlist[-1][7])
+			pr_changing = ((int(info[8])-int(info[9]))-(float(row_hlist[-1][8])-float(row_alist[-1][8]))-fix_num[0])*fix_num[1]
+			xg_changing = ((float(info[10])-float(info[11]))-(float(row_hlist[-1][8])-float(row_alist[-1][8]))-fix_num[0])*fix_num[1]
+			prxg_changing = ((int(info[8])-int(info[9]))-(float(info[10])-float(info[11]))-(float(row_hlist[-1][8])-float(row_alist[-1][8]))-fix_num[0])*fix_num[1]
+			old_hpr = float(row_hlist[-1][9])
 			new_hpr = old_hpr+float(pr_changing)
-			old_apr = float(row_alist[-1][7])
+			old_apr = float(row_alist[-1][9])
 			new_apr = old_apr-float(pr_changing)
-			old_hxg = float(row_hlist[-1][9])
+			old_hxg = float(row_hlist[-1][11])
 			new_hxg = old_hxg+float(xg_changing)
-			old_axg = float(row_alist[-1][9])
+			old_axg = float(row_alist[-1][11])
 			new_axg = old_axg-float(xg_changing)
-			old_hprxg = float(row_hlist[-1][11])
+			old_hprxg = float(row_hlist[-1][13])
 			new_hprxg = old_hprxg+float(prxg_changing)
-			old_aprxg = float(row_alist[-1][11])
+			old_aprxg = float(row_alist[-1][13])
 			new_aprxg = old_aprxg-float(prxg_changing)
 			datas = [new_hpr, new_apr, new_hxg, new_axg, new_hprxg, new_aprxg,old_hpr, old_apr, old_hxg, old_axg, old_hprxg, old_aprxg]
 			return (datas)

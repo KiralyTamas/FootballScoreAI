@@ -1,0 +1,27 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+444337,5,BlockedShot,0.865999984741211,0.615999984741211,0.07312710583209991,Arnaut Danjuma Groeneveld,h,8066,OpenPlay,2021,RightFoot,17285,Villarreal,Barcelona,1,3,2021-11-27 20:00:00,,BallRecovery
+444338,5,BlockedShot,0.88,0.6559999847412109,0.05916207283735275,Moi Gómez,h,2198,OpenPlay,2021,RightFoot,17285,Villarreal,Barcelona,1,3,2021-11-27 20:00:00,,None
+444342,24,BlockedShot,0.9130000305175782,0.35700000762939454,0.034251291304826736,Manu Trigueros,h,2301,OpenPlay,2021,RightFoot,17285,Villarreal,Barcelona,1,3,2021-11-27 20:00:00,,Aerial
+444343,26,MissedShots,0.9219999694824219,0.43599998474121093,0.037077948451042175,Yeremi Pino,h,9024,FromCorner,2021,Head,17285,Villarreal,Barcelona,1,3,2021-11-27 20:00:00,Pau Torres,Aerial
+444344,32,MissedShots,0.92,0.46,0.3014802038669586,Pau Torres,h,6221,FromCorner,2021,Head,17285,Villarreal,Barcelona,1,3,2021-11-27 20:00:00,Daniel Parejo,Cross
+444345,38,SavedShot,0.919000015258789,0.6530000305175782,0.28340038657188416,Arnaut Danjuma Groeneveld,h,8066,OpenPlay,2021,LeftFoot,17285,Villarreal,Barcelona,1,3,2021-11-27 20:00:00,Pau Torres,Chipped
+444346,42,MissedShots,0.8969999694824219,0.6880000305175781,0.04995252192020416,Alfonso,h,2521,SetPiece,2021,LeftFoot,17285,Villarreal,Barcelona,1,3,2021-11-27 20:00:00,Daniel Parejo,Chipped
+444351,59,MissedShots,0.8080000305175781,0.645,0.0401020385324955,Arnaut Danjuma Groeneveld,h,8066,SetPiece,2021,RightFoot,17285,Villarreal,Barcelona,1,3,2021-11-27 20:00:00,Daniel Parejo,Chipped
+444353,62,MissedShots,0.8090000152587891,0.4370000076293945,0.050010599195957184,Moi Gómez,h,2198,OpenPlay,2021,LeftFoot,17285,Villarreal,Barcelona,1,3,2021-11-27 20:00:00,Yeremi Pino,Pass
+444354,73,MissedShots,0.8530000305175781,0.4420000076293945,0.07939928770065308,Manu Trigueros,h,2301,OpenPlay,2021,RightFoot,17285,Villarreal,Barcelona,1,3,2021-11-27 20:00:00,Samuel Chukwueze,Pass
+444355,75,Goal,0.8540000152587891,0.5259999847412109,0.36915674805641174,Samuel Chukwueze,h,7208,OpenPlay,2021,LeftFoot,17285,Villarreal,Barcelona,1,3,2021-11-27 20:00:00,Arnaut Danjuma Groeneveld,Pass
+444356,81,BlockedShot,0.8859999847412109,0.6859999847412109,0.05207879841327667,Estupiñán,h,5136,OpenPlay,2021,LeftFoot,17285,Villarreal,Barcelona,1,3,2021-11-27 20:00:00,Manu Trigueros,Pass
+444357,81,MissedShots,0.850999984741211,0.38799999237060545,0.06633545458316803,Manu Trigueros,h,2301,OpenPlay,2021,RightFoot,17285,Villarreal,Barcelona,1,3,2021-11-27 20:00:00,Daniel Parejo,Chipped
+444358,83,MissedShots,0.8819999694824219,0.6309999847412109,0.06423291563987732,Arnaut Danjuma Groeneveld,h,8066,OpenPlay,2021,RightFoot,17285,Villarreal,Barcelona,1,3,2021-11-27 20:00:00,Etienne Capoue,Pass
+444336,3,SavedShot,0.9,0.4929999923706055,0.07402291893959045,Abdessamad Ezzalzouli,a,10095,FromCorner,2021,Head,17285,Villarreal,Barcelona,1,3,2021-11-27 20:00:00,Memphis Depay,Cross
+444339,7,MissedShots,0.7669999694824219,0.5129999923706055,0.028234532102942467,Memphis Depay,a,555,OpenPlay,2021,LeftFoot,17285,Villarreal,Barcelona,1,3,2021-11-27 20:00:00,Frenkie de Jong,Pass
+444340,8,MissedShots,0.9119999694824219,0.6270000076293946,0.08474601805210114,Gavi,a,9804,OpenPlay,2021,LeftFoot,17285,Villarreal,Barcelona,1,3,2021-11-27 20:00:00,,BallTouch
+444341,18,MissedShots,0.8719999694824219,0.5270000076293946,0.38142645359039307,Memphis Depay,a,555,OpenPlay,2021,RightFoot,17285,Villarreal,Barcelona,1,3,2021-11-27 20:00:00,Frenkie de Jong,Throughball
+444347,47,MissedShots,0.9019999694824219,0.73,0.020415369421243668,Jordi Alba,a,2093,OpenPlay,2021,LeftFoot,17285,Villarreal,Barcelona,1,3,2021-11-27 20:00:00,Abdessamad Ezzalzouli,Cross
+444348,47,SavedShot,0.9569999694824218,0.519000015258789,0.6191230416297913,Memphis Depay,a,555,OpenPlay,2021,RightFoot,17285,Villarreal,Barcelona,1,3,2021-11-27 20:00:00,Jordi Alba,None
+444349,47,Goal,0.9630000305175781,0.475,0.6335445642471313,Frenkie de Jong,a,7781,OpenPlay,2021,LeftFoot,17285,Villarreal,Barcelona,1,3,2021-11-27 20:00:00,,None
+444350,55,SavedShot,0.8109999847412109,0.35400001525878905,0.03960976377129555,Memphis Depay,a,555,OpenPlay,2021,RightFoot,17285,Villarreal,Barcelona,1,3,2021-11-27 20:00:00,Frenkie de Jong,Pass
+444352,62,MissedShots,0.7819999694824219,0.7290000152587891,0.015410341322422028,Jordi Alba,a,2093,FromCorner,2021,LeftFoot,17285,Villarreal,Barcelona,1,3,2021-11-27 20:00:00,,None
+444359,87,Goal,0.9740000152587891,0.610999984741211,0.6053709387779236,Memphis Depay,a,555,OpenPlay,2021,RightFoot,17285,Villarreal,Barcelona,1,3,2021-11-27 20:00:00,,TakeOn
+444360,93,Goal,0.885,0.5,0.7432776093482971,Philippe Coutinho,a,488,Penalty,2021,RightFoot,17285,Villarreal,Barcelona,1,3,2021-11-27 20:00:00,,Standard
+444361,95,MissedShots,0.9159999847412109,0.5170000076293946,0.1273128241300583,Philippe Coutinho,a,488,OpenPlay,2021,RightFoot,17285,Villarreal,Barcelona,1,3,2021-11-27 20:00:00,Memphis Depay,HeadPass
