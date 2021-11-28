@@ -1,0 +1,31 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+444482,2,MissedShots,0.8219999694824218,0.3079999923706055,0.02314533293247223,Anders Dreyer,h,9997,OpenPlay,2021,LeftFoot,16258,Rubin Kazan,Dinamo Moscow,2,3,2021-11-28 13:30:00,Georgi Zotov,Pass
+444484,9,SavedShot,0.7380000305175781,0.44599998474121094,0.015446007251739502,Sead Haksabanovic,h,6393,OpenPlay,2021,RightFoot,16258,Rubin Kazan,Dinamo Moscow,2,3,2021-11-28 13:30:00,,None
+444486,16,BlockedShot,0.745999984741211,0.5279999923706055,0.019478678703308105,Hwang In-Beom,h,8634,OpenPlay,2021,RightFoot,16258,Rubin Kazan,Dinamo Moscow,2,3,2021-11-28 13:30:00,,None
+444491,29,Goal,0.8809999847412109,0.395,0.0662984699010849,Soltmurad Bakaev,h,7678,OpenPlay,2021,LeftFoot,16258,Rubin Kazan,Dinamo Moscow,2,3,2021-11-28 13:30:00,Khvicha Kvaratskhelia,Cross
+444493,40,MissedShots,0.7609999847412109,0.61,0.024269452318549156,Khvicha Kvaratskhelia,h,7453,OpenPlay,2021,RightFoot,16258,Rubin Kazan,Dinamo Moscow,2,3,2021-11-28 13:30:00,Hwang In-Beom,Pass
+444494,43,BlockedShot,0.7930000305175782,0.30100000381469727,0.023839570581912994,Anders Dreyer,h,9997,OpenPlay,2021,LeftFoot,16258,Rubin Kazan,Dinamo Moscow,2,3,2021-11-28 13:30:00,Georgi Zotov,Pass
+444496,47,ShotOnPost,0.9030000305175782,0.41900001525878905,0.08224433660507202,Sead Haksabanovic,h,6393,OpenPlay,2021,RightFoot,16258,Rubin Kazan,Dinamo Moscow,2,3,2021-11-28 13:30:00,Soltmurad Bakaev,HeadPass
+444497,48,Goal,0.885,0.5,0.7542753219604492,Anders Dreyer,h,9997,Penalty,2021,LeftFoot,16258,Rubin Kazan,Dinamo Moscow,2,3,2021-11-28 13:30:00,,Standard
+444502,69,SavedShot,0.7780000305175782,0.759000015258789,0.015024637803435326,Khvicha Kvaratskhelia,h,7453,OpenPlay,2021,RightFoot,16258,Rubin Kazan,Dinamo Moscow,2,3,2021-11-28 13:30:00,Sead Haksabanovic,Pass
+444483,6,MissedShots,0.8190000152587891,0.39599998474121095,0.02743399515748024,Arsen Zakharyan,a,8760,FromCorner,2021,RightFoot,16258,Rubin Kazan,Dinamo Moscow,2,3,2021-11-28 13:30:00,,OffsidePass
+444485,12,SavedShot,0.925,0.544000015258789,0.09003520011901855,Nikola Moro,a,8626,FromCorner,2021,Head,16258,Rubin Kazan,Dinamo Moscow,2,3,2021-11-28 13:30:00,Arsen Zakharyan,Cross
+444487,17,Goal,0.85,0.4570000076293945,0.19849738478660583,Denis Makarov,a,8361,OpenPlay,2021,LeftFoot,16258,Rubin Kazan,Dinamo Moscow,2,3,2021-11-28 13:30:00,,TakeOn
+444488,20,BlockedShot,0.904000015258789,0.34400001525878904,0.050237201154232025,Fabián Balbuena,a,6892,FromCorner,2021,RightFoot,16258,Rubin Kazan,Dinamo Moscow,2,3,2021-11-28 13:30:00,,None
+444489,20,ShotOnPost,0.909000015258789,0.46,0.03616251051425934,Nikola Moro,a,8626,FromCorner,2021,Head,16258,Rubin Kazan,Dinamo Moscow,2,3,2021-11-28 13:30:00,,Rebound
+444490,22,SavedShot,0.889000015258789,0.6840000152587891,0.06544265896081924,Arsen Zakharyan,a,8760,OpenPlay,2021,LeftFoot,16258,Rubin Kazan,Dinamo Moscow,2,3,2021-11-28 13:30:00,Sebastian Szymanski,Chipped
+444492,35,BlockedShot,0.7969999694824219,0.6359999847412109,0.02884744480252266,Vyacheslav Grulev,a,6611,OpenPlay,2021,LeftFoot,16258,Rubin Kazan,Dinamo Moscow,2,3,2021-11-28 13:30:00,Arsen Zakharyan,Pass
+444495,46,SavedShot,0.6669999694824219,0.47299999237060547,0.01071544922888279,Denis Makarov,a,8361,OpenPlay,2021,LeftFoot,16258,Rubin Kazan,Dinamo Moscow,2,3,2021-11-28 13:30:00,Vyacheslav Grulev,Pass
+444498,60,MissedShots,0.749000015258789,0.5979999923706054,0.01809466816484928,Arsen Zakharyan,a,8760,OpenPlay,2021,LeftFoot,16258,Rubin Kazan,Dinamo Moscow,2,3,2021-11-28 13:30:00,Sebastian Szymanski,Pass
+444499,64,BlockedShot,0.914000015258789,0.40900001525878904,0.03550059720873833,Denis Makarov,a,8361,FromCorner,2021,Head,16258,Rubin Kazan,Dinamo Moscow,2,3,2021-11-28 13:30:00,Sebastian Szymanski,Cross
+444500,65,MissedShots,0.885,0.5,0.7542753219604492,Denis Makarov,a,8361,Penalty,2021,RightFoot,16258,Rubin Kazan,Dinamo Moscow,2,3,2021-11-28 13:30:00,,Standard
+444501,67,Goal,0.9019999694824219,0.500999984741211,0.09722792357206345,Fabián Balbuena,a,6892,SetPiece,2021,Head,16258,Rubin Kazan,Dinamo Moscow,2,3,2021-11-28 13:30:00,Sebastian Szymanski,Cross
+444503,72,SavedShot,0.884000015258789,0.4779999923706055,0.036529578268527985,Ivan Ordets,a,7632,FromCorner,2021,Head,16258,Rubin Kazan,Dinamo Moscow,2,3,2021-11-28 13:30:00,,None
+444504,78,MissedShots,0.7230000305175781,0.6859999847412109,0.016428766772150993,Dmitrii Skopintcev,a,5526,OpenPlay,2021,LeftFoot,16258,Rubin Kazan,Dinamo Moscow,2,3,2021-11-28 13:30:00,Sebastian Szymanski,Pass
+444505,80,BlockedShot,0.8669999694824219,0.654000015258789,0.07032695412635803,Sebastian Szymanski,a,7631,OpenPlay,2021,LeftFoot,16258,Rubin Kazan,Dinamo Moscow,2,3,2021-11-28 13:30:00,Arsen Zakharyan,Pass
+444506,80,BlockedShot,0.91,0.49,0.0294828861951828,Denis Makarov,a,8361,FromCorner,2021,Head,16258,Rubin Kazan,Dinamo Moscow,2,3,2021-11-28 13:30:00,Sebastian Szymanski,Aerial
+444507,80,MissedShots,0.745999984741211,0.504000015258789,0.021034615114331245,Arsen Zakharyan,a,8760,FromCorner,2021,LeftFoot,16258,Rubin Kazan,Dinamo Moscow,2,3,2021-11-28 13:30:00,,Rebound
+444508,84,Goal,0.895,0.5520000076293945,0.09855247288942337,Sebastian Szymanski,a,7631,OpenPlay,2021,LeftFoot,16258,Rubin Kazan,Dinamo Moscow,2,3,2021-11-28 13:30:00,,None
+444509,88,SavedShot,0.7,0.4809999847412109,0.03599610924720764,Sebastian Szymanski,a,7631,DirectFreekick,2021,LeftFoot,16258,Rubin Kazan,Dinamo Moscow,2,3,2021-11-28 13:30:00,,Standard
+444510,88,SavedShot,0.77,0.62,0.029750509187579155,Vyacheslav Grulev,a,6611,OpenPlay,2021,LeftFoot,16258,Rubin Kazan,Dinamo Moscow,2,3,2021-11-28 13:30:00,Arsen Zakharyan,Pass
+444511,90,SavedShot,0.6969999694824218,0.6179999923706054,0.01551924366503954,Sebastian Szymanski,a,7631,OpenPlay,2021,LeftFoot,16258,Rubin Kazan,Dinamo Moscow,2,3,2021-11-28 13:30:00,Arsen Zakharyan,Pass

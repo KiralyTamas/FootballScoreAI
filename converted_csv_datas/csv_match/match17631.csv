@@ -1,0 +1,25 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+444794,15,BlockedShot,0.845,0.59,0.07096187770366669,André Silva,h,6170,OpenPlay,2021,RightFoot,17631,RasenBallsport Leipzig,Bayer Leverkusen,1,3,2021-11-28 16:30:00,Christopher Nkunku,Pass
+444795,15,MissedShots,0.9,0.42400001525878905,0.07643823325634003,Josko Gvardiol,h,9790,FromCorner,2021,LeftFoot,17631,RasenBallsport Leipzig,Bayer Leverkusen,1,3,2021-11-28 16:30:00,Nordi Mukiele,Pass
+444798,31,BlockedShot,0.8780000305175781,0.5129999923706055,0.07406911253929138,Brian Brobbey,h,9789,OpenPlay,2021,RightFoot,17631,RasenBallsport Leipzig,Bayer Leverkusen,1,3,2021-11-28 16:30:00,,None
+444800,46,SavedShot,0.825,0.5070000076293946,0.0782964676618576,Konrad Laimer,h,6109,OpenPlay,2021,LeftFoot,17631,RasenBallsport Leipzig,Bayer Leverkusen,1,3,2021-11-28 16:30:00,,TakeOn
+444801,48,BlockedShot,0.7780000305175782,0.6140000152587891,0.024243459105491638,Dominik Szoboszlai,h,9788,OpenPlay,2021,RightFoot,17631,RasenBallsport Leipzig,Bayer Leverkusen,1,3,2021-11-28 16:30:00,Konrad Laimer,Pass
+444804,51,SavedShot,0.91,0.4490000152587891,0.055099815130233765,André Silva,h,6170,OpenPlay,2021,Head,17631,RasenBallsport Leipzig,Bayer Leverkusen,1,3,2021-11-28 16:30:00,Angelino,Aerial
+444805,55,BlockedShot,0.8080000305175781,0.4759999847412109,0.05243709310889244,Emil Forsberg,h,5249,OpenPlay,2021,RightFoot,17631,RasenBallsport Leipzig,Bayer Leverkusen,1,3,2021-11-28 16:30:00,Konrad Laimer,Pass
+444807,57,BlockedShot,0.8530000305175781,0.4879999923706055,0.08624622970819473,Emil Forsberg,h,5249,OpenPlay,2021,RightFoot,17631,RasenBallsport Leipzig,Bayer Leverkusen,1,3,2021-11-28 16:30:00,Christopher Nkunku,Pass
+444809,61,Goal,0.899000015258789,0.5779999923706055,0.05352199822664261,André Silva,h,6170,OpenPlay,2021,Head,17631,RasenBallsport Leipzig,Bayer Leverkusen,1,3,2021-11-28 16:30:00,Christopher Nkunku,Cross
+444812,73,MissedShots,0.740999984741211,0.42700000762939455,0.01699906587600708,Nordi Mukiele,h,5659,OpenPlay,2021,RightFoot,17631,RasenBallsport Leipzig,Bayer Leverkusen,1,3,2021-11-28 16:30:00,Lukas Klostermann,Pass
+444813,75,BlockedShot,0.784000015258789,0.685,0.019900746643543243,André Silva,h,6170,OpenPlay,2021,RightFoot,17631,RasenBallsport Leipzig,Bayer Leverkusen,1,3,2021-11-28 16:30:00,Christopher Nkunku,Pass
+444815,87,ShotOnPost,0.885,0.5,0.75777667760849,Dominik Szoboszlai,h,9788,Penalty,2021,RightFoot,17631,RasenBallsport Leipzig,Bayer Leverkusen,1,3,2021-11-28 16:30:00,,Standard
+444816,89,BlockedShot,0.82,0.5309999847412109,0.06626228243112564,Christopher Nkunku,h,3300,OpenPlay,2021,RightFoot,17631,RasenBallsport Leipzig,Bayer Leverkusen,1,3,2021-11-28 16:30:00,André Silva,Pass
+444793,1,MissedShots,0.8719999694824219,0.705,0.03828749805688858,Amine Adli,a,8211,OpenPlay,2021,LeftFoot,17631,RasenBallsport Leipzig,Bayer Leverkusen,1,3,2021-11-28 16:30:00,Patrik Schick,Pass
+444796,20,Goal,0.9159999847412109,0.49,0.3589479923248291,Florian Wirtz,a,8397,OpenPlay,2021,RightFoot,17631,RasenBallsport Leipzig,Bayer Leverkusen,1,3,2021-11-28 16:30:00,Exequiel Palacios,Chipped
+444797,24,MissedShots,0.855999984741211,0.7369999694824219,0.05449266731739044,Moussa Diaby,a,6556,OpenPlay,2021,LeftFoot,17631,RasenBallsport Leipzig,Bayer Leverkusen,1,3,2021-11-28 16:30:00,Patrik Schick,Pass
+444799,33,Goal,0.8430000305175781,0.505,0.0844079926609993,Moussa Diaby,a,6556,OpenPlay,2021,LeftFoot,17631,RasenBallsport Leipzig,Bayer Leverkusen,1,3,2021-11-28 16:30:00,Jonathan Tah,Chipped
+444802,50,SavedShot,0.8540000152587891,0.6609999847412109,0.10376717895269394,Amine Adli,a,8211,OpenPlay,2021,LeftFoot,17631,RasenBallsport Leipzig,Bayer Leverkusen,1,3,2021-11-28 16:30:00,Moussa Diaby,Pass
+444803,50,MissedShots,0.9019999694824219,0.5220000076293946,0.04959224537014961,Patrik Schick,a,1236,OpenPlay,2021,Head,17631,RasenBallsport Leipzig,Bayer Leverkusen,1,3,2021-11-28 16:30:00,,None
+444806,57,MissedShots,0.8640000152587891,0.5209999847412109,0.09771780669689178,Robert Andrich,a,7877,OpenPlay,2021,LeftFoot,17631,RasenBallsport Leipzig,Bayer Leverkusen,1,3,2021-11-28 16:30:00,,None
+444808,60,MissedShots,0.8480000305175781,0.620999984741211,0.09130947291851044,Robert Andrich,a,7877,OpenPlay,2021,LeftFoot,17631,RasenBallsport Leipzig,Bayer Leverkusen,1,3,2021-11-28 16:30:00,Florian Wirtz,Pass
+444810,63,Goal,0.9109999847412109,0.3,0.0683155283331871,Jeremie Frimpong,a,9328,OpenPlay,2021,RightFoot,17631,RasenBallsport Leipzig,Bayer Leverkusen,1,3,2021-11-28 16:30:00,Moussa Diaby,Pass
+444811,71,ShotOnPost,0.9390000152587891,0.6559999847412109,0.2630871534347534,Moussa Diaby,a,6556,OpenPlay,2021,LeftFoot,17631,RasenBallsport Leipzig,Bayer Leverkusen,1,3,2021-11-28 16:30:00,Piero Hincapié,Pass
+444814,83,MissedShots,0.75,0.38599998474121094,0.02560032345354557,Florian Wirtz,a,8397,OpenPlay,2021,RightFoot,17631,RasenBallsport Leipzig,Bayer Leverkusen,1,3,2021-11-28 16:30:00,Jeremie Frimpong,Pass
