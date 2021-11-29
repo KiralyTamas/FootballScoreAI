@@ -1,20 +1,14 @@
-# Modulok meghívása
-import pandas as pd
+import pandas as pd    # Modulok meghívása
 import os
 import csv
-# A kalkulátor fájl behívása
-from calculater import calculate as cal
+from calculater import calculate as cal    # A kalkulátor fájl behívása
 
-# A csapatok mappájának abszolúlt elérési útvonala
-final_path = os.path.abspath("..\..\converted_csv_datas\\teams")
-# Itt kérdezi meg a terminálban az útvonalat, a csv_result mappát kell belehúzni a terminálba.
-start_path = os.path.abspath("..\..\converted_csv_datas\csv_result")
+final_path = os.path.abspath("..\..\converted_csv_datas\\teams")   # A csapatok mappájának abszolúlt elérési útvonala
+start_path = os.path.abspath("..\..\converted_csv_datas\csv_result") # Itt kérdezi meg a terminálban az útvonalat, a csv_result mappát kell belehúzni a terminálba.
 print(start_path)
 
-# Függvény kezdete
-def create_team_csv():
-# A main_result és a csapat_csv-k fejlécének elnevezései
-  result_header = ["Dátum", "Meccs-Id", "Hazai-Csapat", "Ellenfél-Csapat",
+def create_team_csv(): # Függvény kezdete
+  result_header = ["Dátum", "Meccs-Id", "Hazai-Csapat", "Ellenfél-Csapat", # A main_result és a csapat_csv-k fejlécének elnevezései
                   "Hazai-Gól", "Ellenfél-Gól", "Hazai-XG", "Ellenfél-XG",
                   "Hazai-PR", "Ellenfél-PR", "PR-diff", "Hazai-xgPR", "Ellenfél-xgPR",
                   "XG-diff","Hazai-Mixed-PR", "Ellenfél-Mixed-PR","Mixed-PR-diff", "H%", "D%", "A%", "ForeCast-W",
@@ -22,41 +16,31 @@ def create_team_csv():
   team_header = ["Dátum", "Meccs-Id", "Fő-Csapat", "Ellenfél-Csapat","Hazai-Gól",
                 "Ellenfél-Gól","Hazai-XG","Ellenfél-XG", "Meccs-Előtti-PR", "Meccs-Utáni-PR", "Meccs-Előtti-xgPR",
                 "Meccs-Utáni-xgPR", "Meccs-Előtti-Mixed_PR", "Meccs-Utáni-Mixed_PR"]
-# Az os.walk iterál végig a csv_result mappa almappáin és az azokban lévő fájlokon.
-# A "h" tárolja a mappa útvonalakat, az "f" a mappákban lévő fájlok neveit
-  f = []
+
+  f = [] # A "h" tárolja a mappa útvonalakat, az "f" a mappákban lévő fájlok neveit
   g = []
   path = []
-  for (dirpath, dirnames, filenames) in os.walk(start_path):
+  for (dirpath, dirnames, filenames) in os.walk(start_path): # Az os.walk iterál végig a csv_result mappa almappáin és az azokban lévő fájlokon.
     f.extend(filenames)
     g.extend(dirnames)
     path.append(dirpath)
-# Az első "for" a mappákon iterál végig, a második "for" a mappákban lévő fájlokon.
-  for dir_results in g:
+  for dir_results in g: # Az első "for" a mappákon iterál végig, a második "for" a mappákban lévő fájlokon.
     for file in f:
-      print(file)
-# Megnyitja a "for" által megadott aktuális csv_result fájlt, "df" változóba kilistázza, aztán végigiterál rajta.
+      print(file) 
       try:
-        with open(path[0]+"\\"+dir_results+"\\"+file, "r") as file:
+        with open(path[0]+"\\"+dir_results+"\\"+file, "r") as file: # Megnyitja a "for" által megadott aktuális csv_result fájlt, "df" változóba kilistázza, aztán végigiterál rajta.
           csv_file = csv.reader(file)
           df = pd.DataFrame(csv_file)
           for row_index, row in df.iterrows():
-# Minden fájlban van fejléc. Az új fájl 0-adik indexén a fejléc van.
-# Ha ennél a sornál jár az iteráció, megvizsgálja, hogy létezik-e a main_result csv fájl.
-# Ha létezik, akkor szimplán átugorja ezt az iterált sort. Ha nem, akkor létrehozza a fájlt és beírja
-# Az előzőleg a result_header változóba eltárolt fejlecet.
-            if row_index == 0:
-              if os.path.exists(os.path.abspath("..\..\converted_csv_datas\main_result")+"\\main_result.csv") == False:
-                with open(os.path.abspath("..\..\converted_csv_datas\main_result")+"\\main_result.csv", "w", newline='',encoding="utf-8") as main:
-                  main_list = csv.writer(main, dialect='excel')
+            if row_index == 0: # Minden fájlban van fejléc. Az új fájl 0-adik indexén a fejléc van.
+              if os.path.exists(os.path.abspath("..\..\converted_csv_datas\main_result")+"\\main_result.csv") == False: # Ha ennél a sornál jár az iteráció, megvizsgálja, hogy létezik-e a main_result csv fájl.
+                with open(os.path.abspath("..\..\converted_csv_datas\main_result")+"\\main_result.csv", "w", newline='',encoding="utf-8") as main: # Ha létezik, akkor szimplán átugorja ezt az iterált sort. Ha nem, akkor létrehozza a fájlt és beírja
+                  main_list = csv.writer(main, dialect='excel') # Az előzőleg a result_header változóba eltárolt fejlecet.
                   main_list.writerow(result_header)
             else:
-# A cal(row, team_header) meghívásával átadjuk az aktuálisan iterált csv_result fájl sorát és a csapat_csv fejlécét.
-                datas=cal(row, team_header)
-# Visszaérkeznek a "calculater" által küldött "datas" adatok.
-# A csv_result-ből kivett adatok "row"-ként vannak behívva, a calculater adatai "datas"-ként szerepel,
-                pr = ""
-                date = row[12]
+                datas=cal(row, team_header) # A cal(row, team_header) meghívásával átadjuk az aktuálisan iterált csv_result fájl sorát és a csapat_csv fejlécét.
+                pr = "" # Visszaérkeznek a "calculater" által küldött "datas" adatok.
+                date = row[12] # A csv_result-ből kivett adatok "row"-ként vannak behívva, a calculater adatai "datas"-ként szerepel,
                 math_id = row[0]
                 teams = row[3], row[6]
                 score_h = row[8]
@@ -65,15 +49,13 @@ def create_team_csv():
                 pr_diff = datas[6]-datas[7]
                 xg_diff=datas[8]-datas[9]
                 prxg_diff=datas[10]-datas[11]
-# Itt van javítva a -0 anomália
-                if pr_diff == -0 or -0.0:
+                if pr_diff == -0 or -0.0: # Itt van javítva a -0 anomália
                   pr_diff=0
                 if xg_diff == -0 or -0.0:
                   xg_diff=0
                 if prxg_diff == -0 or -0.0:
                   prxg_diff=0
-# Itt vannak beállítva a tizedesjegyek hossza
-                pr_diff = ("%.1f" % pr_diff)
+                pr_diff = ("%.1f" % pr_diff) # Itt vannak beállítva a tizedesjegyek hossza
                 xg_diff = ("%.1f" % xg_diff)
                 prxg_diff = ("%.1f" % prxg_diff)
                 datas[0] = ("%.4f" % datas[0])
@@ -82,8 +64,7 @@ def create_team_csv():
                 datas[3] = ("%.4f" % datas[3])
                 datas[4] = ("%.4f" % datas[4])
                 datas[5] = ("%.4f" % datas[5])
-# Itt van kitöltve a main_result és a hazai--vendég csapatok kitöltési dataszerkezete attól függően, hazai vagy vendég
-                forecast = [row[13], row[14], row[15]]
+                forecast = [row[13], row[14], row[15]] # Itt van kitöltve a main_result és a hazai--vendég csapatok kitöltési dataszerkezete attól függően, hazai vagy vendég
                 main_result = [date, math_id, teams[0], teams[1], score_h,
                               score_a, xg[0], xg[1], datas[6], datas[7], pr_diff, datas[8], datas[9],xg_diff, datas[10],
                               datas[11],prxg_diff, pr, pr, pr, forecast[0], forecast[1], forecast[2]]
@@ -93,8 +74,6 @@ def create_team_csv():
                 against_data = [date, math_id,"(V) "+teams[1],
                               "(H) "+teams[0], score_a, score_h,xg[1], xg[0], datas[7], datas[1],
                               datas[9], datas[3], datas[11], datas[5]]
-# Ha a main_resultben már szerepel az aktuális adatsor Pl: Bővítés esetén, nem duplikálja a sort és a csapatfájlokba
-# se engedi beírni az adatokat, ezáltal sehol sem duplikál.
                 with open(os.path.abspath("..\..\converted_csv_datas\main_result")+"\\main_result.csv", "r") as read_main:
                   read_main = csv.reader(read_main)
                   list_id=[]
@@ -124,8 +103,8 @@ def create_team_csv():
                       home_percentage=0
                       deal_percentage=0
                       against_percentage=0
-                if int(main_result[1]) in list_id:
-                  continue
+                if int(main_result[1]) in list_id: # Ha a main_resultben már szerepel az aktuális adatsor Pl: Bővítés esetén, nem duplikálja a sort és a csapatfájlokba
+                  continue # se engedi beírni az adatokat, ezáltal sehol sem duplikál.
                 else:
                   with open(os.path.abspath("..\..\converted_csv_datas\main_result")+"\\main_result.csv", "a", newline='',encoding="utf-8")as main:
                     main = csv.writer(main, dialect='excel')
