@@ -77,66 +77,35 @@ def create_team_csv(): # Függvény kezdete
                 with open(os.path.abspath("..\..\converted_csv_datas\main_result")+"\\main_result.csv", "r") as read_main:
                   read_main = csv.reader(read_main)
                   list_id=[]
-                  count=0
-                  home_count=0
-                  deal_count=0
-                  against_count=0
-                  for i in read_main:
-                    try:
-                      list_id.append(int(i[1]))
-                      if main_result[10] == i[10]:
-                        count+=1
-                        final_score=int(i[4])-int(i[5])
-                        if int(final_score) > 0:
-                          home_count+=1
-                        elif int(final_score) < 0:
-                          against_count+=1
-                        else:
-                          deal_count+=1
-                    except ValueError:
+                  for index,i in enumerate(read_main):
+                    if index==0:
                       continue
-                  try:
-                      home_percentage=(home_count/count)*100
-                      deal_percentage=(deal_count/count)*100
-                      against_percentage=(against_count/count)*100
-                  except ZeroDivisionError:
-                      home_percentage=0
-                      deal_percentage=0
-                      against_percentage=0
-                if int(main_result[1]) in list_id: # Ha a main_resultben már szerepel az aktuális adatsor Pl: Bővítés esetén, nem duplikálja a sort és a csapatfájlokba
-                  continue # se engedi beírni az adatokat, ezáltal sehol sem duplikál.
-                else:
-                  with open(os.path.abspath("..\..\converted_csv_datas\main_result")+"\\main_result.csv", "a", newline='',encoding="utf-8")as main:
-                    main = csv.writer(main, dialect='excel')
-                    home_percentage= ("%.2f" % home_percentage)
-                    deal_percentage= ("%.2f" % deal_percentage)
-                    against_percentage= ("%.2f" % against_percentage)
-                    main_result.pop(-6)
-                    main_result.insert(-5,str(home_percentage)+"%")
-                    main_result.pop(-5)
-                    main_result.insert(-4,str(deal_percentage)+"%")
-                    main_result.pop(-4)
-                    main_result.insert(-3,str(against_percentage)+"%")
-                    main.writerow(main_result)
-                with open(final_path+"\\"+teams[0]+".csv", "r", newline='', encoding="utf-8") as home_csv_old:
-                  home_table_old = csv.reader(home_csv_old)
-                  home_old_list = []
-                  for home_list in home_table_old:
-                    home_old_list.append(home_list)
-                  if [home_data] not in home_old_list:
-                    with open(final_path+"\\"+teams[0]+".csv", "a", newline='', encoding="utf-8") as home_csv:
-                      home_table = csv.writer(home_csv, dialect='excel')
-                      home_table.writerow(home_data)
-                with open(final_path+"\\"+teams[1]+".csv", "r", newline='', encoding="utf-8") as against_csv_old:
-                  against_table_old = csv.reader(against_csv_old)
-                  against_old_list = []
-                  for against_list in against_table_old:
-                    against_old_list.append(
-                    against_list)
-                with open(final_path+"\\"+teams[1]+".csv", "a", newline='', encoding="utf-8") as against_csv:
-                  against_table = csv.writer(against_csv, dialect='excel')
-                  if against_data not in against_old_list:
-                    against_table.writerow(against_data)
+                    list_id.append(int(i[1]))
+                  if int(main_result[1]) in list_id: # Ha a main_resultben már szerepel az aktuális adatsor Pl: Bővítés esetén, nem duplikálja a sort és a csapatfájlokba
+                    continue # se engedi beírni az adatokat, ezáltal sehol sem duplikál.
+                  else:
+                    with open(os.path.abspath("..\..\converted_csv_datas\main_result")+"\\main_result.csv", "a", newline='',encoding="utf-8")as main:
+                      main = csv.writer(main, dialect='excel')
+                      main.writerow(main_result)
+                  with open(final_path+"\\"+teams[0]+".csv", "r", newline='', encoding="utf-8") as home_csv_old:
+                    home_table_old = csv.reader(home_csv_old)
+                    home_old_list = []
+                    for home_list in home_table_old:
+                      home_old_list.append(home_list)
+                    if [home_data] not in home_old_list:
+                      with open(final_path+"\\"+teams[0]+".csv", "a", newline='', encoding="utf-8") as home_csv:
+                        home_table = csv.writer(home_csv, dialect='excel')
+                        home_table.writerow(home_data)
+                  with open(final_path+"\\"+teams[1]+".csv", "r", newline='', encoding="utf-8") as against_csv_old:
+                    against_table_old = csv.reader(against_csv_old)
+                    against_old_list = []
+                    for against_list in against_table_old:
+                      against_old_list.append(
+                      against_list)
+                  with open(final_path+"\\"+teams[1]+".csv", "a", newline='', encoding="utf-8") as against_csv:
+                    against_table = csv.writer(against_csv, dialect='excel')
+                    if against_data not in against_old_list:
+                      against_table.writerow(against_data)
       except FileNotFoundError:
         continue
 create_team_csv()
