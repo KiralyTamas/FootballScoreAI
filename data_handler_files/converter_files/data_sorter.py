@@ -81,8 +81,8 @@ def create_team_csv(): # Függvény kezdete
                     if index==0:
                       continue
                     list_id.append(int(i[1]))
-                  if int(main_result[1]) in list_id: # Ha a main_resultben már szerepel az aktuális adatsor Pl: Bővítés esetén, nem duplikálja a sort és a csapatfájlokba
-                    continue # se engedi beírni az adatokat, ezáltal sehol sem duplikál.
+                  if int(main_result[1]) in list_id:
+                    continue
                   else:
                     with open(os.path.abspath("..\..\converted_csv_datas\main_result")+"\\main_result.csv", "a", newline='',encoding="utf-8")as main:
                       main = csv.writer(main, dialect='excel')
