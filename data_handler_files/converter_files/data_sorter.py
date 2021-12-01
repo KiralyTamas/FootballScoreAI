@@ -1,11 +1,11 @@
 import pandas as pd    # Modulok meghívása
 import os
 import csv
-from calculater import calculate as cal    # A kalkulátor fájl behívása
+from calculater import calculate as cal
+from percentage_calculate import percentage_calculate as per_cal # A kalkulátor fájl behívása
 
 final_path = os.path.abspath("..\..\converted_csv_datas\\teams")   # A csapatok mappájának abszolúlt elérési útvonala
 start_path = os.path.abspath("..\..\converted_csv_datas\csv_result") # Itt kérdezi meg a terminálban az útvonalat, a csv_result mappát kell belehúzni a terminálba.
-print(start_path)
 
 def create_team_csv(): # Függvény kezdete
   result_header = ["Dátum", "Meccs-Id", "Hazai-Csapat", "Ellenfél-Csapat", # A main_result és a csapat_csv-k fejlécének elnevezései

@@ -1,9 +1,8 @@
 import csv
 
-def date_sorting(letter):
+def date_sorting():
   try:
-    input_info=input("Növekvő sorrend: 'n', Csökkenő sorrend: 'c'")
-    with open("main_result.csv","r",encoding="utf-8") as data:
+    with open((os.path.abspath("..\..\converted_csv_datas\main_result")+"\\main_result.csv"),"r",encoding="utf-8") as data:
       data=csv.reader(data)
       sample=[]
       for i in data:
@@ -11,8 +10,8 @@ def date_sorting(letter):
       poped=sample.pop(0)
       list_correct=sorted(sample, key=lambda date:date[0], reverse=False)
       list_correct.insert(0,poped)
-    with open("main_result.csv","w",newline='', encoding="utf-8") as data:
-      data=csv.writer(data)
+    with open((os.path.abspath("..\..\converted_csv_datas\main_result")+"\\main_result.csv"),"w",newline='', encoding="utf-8") as data:
+      data=csv.writer(data,dialect='excel')
       data.writerows(list_correct)
   except FileNotFoundError:
     print('')
