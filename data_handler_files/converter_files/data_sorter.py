@@ -17,8 +17,8 @@ def create_team_csv():  # Függvény kezdete
                      "XG-diff", "Hazai-Mixed-PR", "Ellenfél-Mixed-PR", "Mixed-PR-diff", "H%", "D%", "A%", "ForeCast-W",
                      "ForeCast-D", "ForeCast-A"]
     team_header = ["Dátum", "Meccs-Id", "Fő-Csapat", "Ellenfél-Csapat", "Hazai-Gól",
-                   "Ellenfél-Gól", "Hazai-XG", "Ellenfél-XG", "Vendég-PR", "Meccs-Előtti-PR", "Meccs-Utáni-PR", "Meccs-Előtti-xgPR",
-                   "Meccs-Utáni-xgPR", "Meccs-Előtti-Mixed_PR", "Meccs-Utáni-Mixed_PR"]
+                   "Ellenfél-Gól", "Hazai-XG", "Ellenfél-XG", "Vendég-PR", "Meccs-Előtti-PR", "Meccs-Utáni-PR","Vendég-xgPR", "Meccs-Előtti-xgPR",
+                   "Meccs-Utáni-xgPR","Vendég-Mixed_PR", "Meccs-Előtti-Mixed_PR", "Meccs-Utáni-Mixed_PR"]
 
     f = []  # A "h" tárolja a mappa útvonalakat, az "f" a mappákban lévő fájlok neveit
     g = []
@@ -86,11 +86,11 @@ def create_team_csv():  # Függvény kezdete
                                            datas[11], prxg_diff, pr, pr, pr, forecast[0], forecast[1], forecast[2]]
                             home_data = [date, math_id,"(H) "+teams[0],
                                          "(V) " +teams[1], score_h, score_a, xg[0], xg[1],datas[7], datas[6], datas[0],
-                                         datas[8], datas[2], datas[10], datas[4]]
+                                         datas[9], datas[8], datas[2],datas[11], datas[10], datas[4]]
                             against_data = [date, math_id,"(V) "+teams[1],
                                             "(H) " +
                                             teams[0], score_a, score_h, xg[1], xg[0],datas[6], datas[7], datas[1],
-                                            datas[9], datas[3], datas[11], datas[5]]
+                                            datas[8], datas[9], datas[3],datas[10], datas[11], datas[5]]
                             with open(os.path.abspath("..\..\converted_csv_datas\main_result")+"\\main_result.csv", "r") as read_main:
                                 read_main = csv.reader(read_main)
                                 list_id = []
