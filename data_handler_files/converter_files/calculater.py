@@ -25,7 +25,7 @@ def calculate(info, team_header): # Az info tartalmazza az átküldött iterált
 		row_alist = []
 		for arow in data_alist:
 			row_alist.append(arow)
-	if len(row_hlist) and len(row_alist) == 1: # Innentől kezdődik a tényleges számítás. "if":mindkét csapat csak a fejléccel rendelkezik.
+	if len(row_hlist) ==1 and len(row_alist) == 1: # Innentől kezdődik a tényleges számítás. "if":mindkét csapat csak a fejléccel rendelkezik.
 		pr_changing = (((int(info[8])-int(info[9]))-(fix_num[2]-fix_num[2]))-fix_num[0])*fix_num[1]  # Ez csak a 2014-es év elején fordul elő, mikor minden csapat egymással az első meccsüket játszák.
 		xg_changing = (((float(info[10])-float(info[11])) -(fix_num[2]-fix_num[2]))-float(fix_num[0]))*float(fix_num[1])   # ekkor csaka az iterált sorból dolgozik és a kezdeti 10-es értéket a fix_num[2] bekéréssel számolja.
 		prxg_changing = (((int(info[8])-int(info[9]))-(float(info[10])-float(info[11]))-(fix_num[2]-fix_num[2]))-float(fix_num[0]))*float(fix_num[1])
@@ -55,7 +55,7 @@ def calculate(info, team_header): # Az info tartalmazza az átküldött iterált
 	elif len(row_alist) == 1:
 		pr_changing = (((int(info[8])-int(info[9]))-(float(row_hlist[-1][9])-fix_num[2]))-fix_num[0])*fix_num[1]
 		xg_changing = (((float(info[10])-float(info[11]))-(float(row_hlist[-1][9])-fix_num[2]))-fix_num[0])*fix_num[1]
-		prxg_changing = (((int(info[8])-int(info[9]))-(float(info[10])-float(info[11]))-(float(row_alist[-1][9])-fix_num[2]))-fix_num[0])*fix_num[1]
+		prxg_changing = (((int(info[8])-int(info[9]))-(float(info[10])-float(info[11]))-(float(row_hlist[-1][9])-fix_num[2]))-fix_num[0])*fix_num[1]
 		old_hpr = float(row_hlist[-1][10])
 		new_hpr = old_hpr+float(pr_changing)
 		new_apr = fix_num[2]-float(pr_changing)

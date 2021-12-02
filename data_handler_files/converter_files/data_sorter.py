@@ -84,10 +84,10 @@ def create_team_csv():  # Függvény kezdete
                             main_result = [date, math_id, teams[0], teams[1], score_h,
                                            score_a, xg[0], xg[1], datas[6], datas[7], pr_diff, datas[8], datas[9], xg_diff, datas[10],
                                            datas[11], prxg_diff, pr, pr, pr, forecast[0], forecast[1], forecast[2]]
-                            home_data = [date, math_id, "(H) "+teams[0],
+                            home_data = [date, math_id,"(H) "+teams[0],
                                          "(V) " +teams[1], score_h, score_a, xg[0], xg[1],datas[7], datas[6], datas[0],
                                          datas[8], datas[2], datas[10], datas[4]]
-                            against_data = [date, math_id, "(V) "+teams[1],
+                            against_data = [date, math_id,"(V) "+teams[1],
                                             "(H) " +
                                             teams[0], score_a, score_h, xg[1], xg[0],datas[6], datas[7], datas[1],
                                             datas[9], datas[3], datas[11], datas[5]]
