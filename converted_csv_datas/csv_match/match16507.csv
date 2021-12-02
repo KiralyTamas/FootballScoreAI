@@ -1,0 +1,25 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+445698,12,MissedShots,0.7659999847412109,0.7230000305175781,0.018666177988052368,Demarai Gray,h,762,OpenPlay,2021,RightFoot,16507,Everton,Liverpool,1,4,2021-12-01 20:15:00,Michael Keane,Pass
+445703,26,BlockedShot,0.8719999694824219,0.7419999694824219,0.028042785823345184,Demarai Gray,h,762,OpenPlay,2021,RightFoot,16507,Everton,Liverpool,1,4,2021-12-01 20:15:00,Michael Keane,TakeOn
+445704,37,Goal,0.830999984741211,0.45799999237060546,0.2459346503019333,Demarai Gray,h,762,OpenPlay,2021,LeftFoot,16507,Everton,Liverpool,1,4,2021-12-01 20:15:00,Richarlison,Pass
+445707,45,SavedShot,0.88,0.5479999923706055,0.04064209759235382,Abdoulaye Doucouré,h,1726,OpenPlay,2021,Head,16507,Everton,Liverpool,1,4,2021-12-01 20:15:00,Andros Townsend,Cross
+445706,48,BlockedShot,0.87,0.35700000762939454,0.05146239697933197,Abdoulaye Doucouré,h,1726,OpenPlay,2021,RightFoot,16507,Everton,Liverpool,1,4,2021-12-01 20:15:00,,None
+445712,56,MissedShots,0.8130000305175781,0.34,0.028709201142191887,Richarlison,h,6026,OpenPlay,2021,RightFoot,16507,Everton,Liverpool,1,4,2021-12-01 20:15:00,Demarai Gray,Chipped
+445713,63,BlockedShot,0.77,0.4809999847412109,0.08320274949073792,Andros Townsend,h,775,DirectFreekick,2021,LeftFoot,16507,Everton,Liverpool,1,4,2021-12-01 20:15:00,,Standard
+445717,88,BlockedShot,0.774000015258789,0.735999984741211,0.01560334675014019,Richarlison,h,6026,OpenPlay,2021,RightFoot,16507,Everton,Liverpool,1,4,2021-12-01 20:15:00,Lucas Digne,Pass
+445694,1,MissedShots,0.91,0.4809999847412109,0.07967184484004974,Joel Matip,a,332,FromCorner,2021,Head,16507,Everton,Liverpool,1,4,2021-12-01 20:15:00,Trent Alexander-Arnold,Cross
+445695,2,MissedShots,0.960999984741211,0.515,0.6137853264808655,Mohamed Salah,a,1250,OpenPlay,2021,LeftFoot,16507,Everton,Liverpool,1,4,2021-12-01 20:15:00,Diogo Jota,Cross
+445696,7,SavedShot,0.899000015258789,0.5459999847412109,0.13156139850616455,Mohamed Salah,a,1250,OpenPlay,2021,LeftFoot,16507,Everton,Liverpool,1,4,2021-12-01 20:15:00,Sadio Mané,Pass
+445697,8,Goal,0.835999984741211,0.52,0.07396237552165985,Jordan Henderson,a,605,OpenPlay,2021,LeftFoot,16507,Everton,Liverpool,1,4,2021-12-01 20:15:00,Andrew Robertson,Pass
+445699,14,SavedShot,0.799000015258789,0.4370000076293945,0.04399503767490387,Trent Alexander-Arnold,a,1791,OpenPlay,2021,LeftFoot,16507,Everton,Liverpool,1,4,2021-12-01 20:15:00,Diogo Jota,Pass
+445700,18,Goal,0.925,0.32599998474121095,0.2751001715660095,Mohamed Salah,a,1250,OpenPlay,2021,LeftFoot,16507,Everton,Liverpool,1,4,2021-12-01 20:15:00,Jordan Henderson,Pass
+445701,25,SavedShot,0.740999984741211,0.3970000076293945,0.029446225613355637,Sadio Mané,a,838,OpenPlay,2021,RightFoot,16507,Everton,Liverpool,1,4,2021-12-01 20:15:00,Fabinho,Pass
+445702,25,BlockedShot,0.7580000305175781,0.5690000152587891,0.023051684722304344,Thiago Alcántara,a,229,OpenPlay,2021,RightFoot,16507,Everton,Liverpool,1,4,2021-12-01 20:15:00,Diogo Jota,Pass
+445705,45,BlockedShot,0.9119999694824219,0.5720000076293945,0.044893015176057816,Sadio Mané,a,838,OpenPlay,2021,Head,16507,Everton,Liverpool,1,4,2021-12-01 20:15:00,Jordan Henderson,Chipped
+445708,48,BlockedShot,0.8780000305175781,0.39599998474121095,0.5786041021347046,Sadio Mané,a,838,OpenPlay,2021,RightFoot,16507,Everton,Liverpool,1,4,2021-12-01 20:15:00,Trent Alexander-Arnold,Throughball
+445709,52,MissedShots,0.779000015258789,0.31,0.02618088573217392,Mohamed Salah,a,1250,OpenPlay,2021,LeftFoot,16507,Everton,Liverpool,1,4,2021-12-01 20:15:00,,None
+445710,54,BlockedShot,0.7280000305175781,0.5129999923706055,0.050524864345788956,Virgil van Dijk,a,833,DirectFreekick,2021,RightFoot,16507,Everton,Liverpool,1,4,2021-12-01 20:15:00,,Standard
+445711,54,MissedShots,0.7619999694824219,0.5840000152587891,0.015835557132959366,Thiago Alcántara,a,229,SetPiece,2021,RightFoot,16507,Everton,Liverpool,1,4,2021-12-01 20:15:00,,None
+445714,63,Goal,0.895,0.6329999923706054,0.5382750630378723,Mohamed Salah,a,1250,OpenPlay,2021,LeftFoot,16507,Everton,Liverpool,1,4,2021-12-01 20:15:00,,BallRecovery
+445715,69,MissedShots,0.95,0.5659999847412109,0.053710222244262695,Diogo Jota,a,6854,FromCorner,2021,Head,16507,Everton,Liverpool,1,4,2021-12-01 20:15:00,Andrew Robertson,Aerial
+445716,78,Goal,0.955999984741211,0.664000015258789,0.28206804394721985,Diogo Jota,a,6854,OpenPlay,2021,LeftFoot,16507,Everton,Liverpool,1,4,2021-12-01 20:15:00,Andrew Robertson,Pass

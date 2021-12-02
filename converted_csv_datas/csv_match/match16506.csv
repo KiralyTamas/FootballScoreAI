@@ -1,0 +1,27 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+445673,10,BlockedShot,0.914000015258789,0.43599998474121093,0.14980846643447876,Leon Bailey,h,5221,OpenPlay,2021,LeftFoot,16506,Aston Villa,Manchester City,1,2,2021-12-01 20:15:00,Ollie Watkins,Pass
+445674,15,BlockedShot,0.7919999694824219,0.6370000076293946,0.03127426654100418,Emiliano Buendía,h,2203,OpenPlay,2021,RightFoot,16506,Aston Villa,Manchester City,1,2,2021-12-01 20:15:00,Douglas Luiz,Chipped
+445675,21,SavedShot,0.8869999694824219,0.32799999237060545,0.007489279378205538,Ezri Konsa Ngoyo,h,7726,SetPiece,2021,Head,16506,Aston Villa,Manchester City,1,2,2021-12-01 20:15:00,John McGinn,Aerial
+445678,28,BlockedShot,0.9009999847412109,0.6680000305175782,0.06434343755245209,Emiliano Buendía,h,2203,OpenPlay,2021,LeftFoot,16506,Aston Villa,Manchester City,1,2,2021-12-01 20:15:00,Douglas Luiz,Pass
+445683,46,Goal,0.8830000305175781,0.3940000152587891,0.04440583661198616,Ollie Watkins,h,8865,FromCorner,2021,RightFoot,16506,Aston Villa,Manchester City,1,2,2021-12-01 20:15:00,Douglas Luiz,Cross
+445688,59,MissedShots,0.9719999694824218,0.5970000076293945,0.051362015306949615,Tyrone Mings,h,1024,FromCorner,2021,Head,16506,Aston Villa,Manchester City,1,2,2021-12-01 20:15:00,Douglas Luiz,Cross
+445690,74,SavedShot,0.895,0.59,0.40849512815475464,Carney Chukwuemeka,h,9356,OpenPlay,2021,LeftFoot,16506,Aston Villa,Manchester City,1,2,2021-12-01 20:15:00,Emiliano Buendía,Throughball
+445691,84,MissedShots,0.909000015258789,0.6719999694824219,0.007731602527201176,Tyrone Mings,h,1024,SetPiece,2021,Head,16506,Aston Villa,Manchester City,1,2,2021-12-01 20:15:00,John McGinn,Aerial
+445692,86,MissedShots,0.904000015258789,0.6869999694824219,0.007173115387558937,Tyrone Mings,h,1024,SetPiece,2021,Head,16506,Aston Villa,Manchester City,1,2,2021-12-01 20:15:00,Douglas Luiz,Aerial
+445668,0,SavedShot,0.9740000152587891,0.2610000038146973,0.037883806973695755,João Cancelo,a,2379,OpenPlay,2021,RightFoot,16506,Aston Villa,Manchester City,1,2,2021-12-01 20:15:00,Riyad Mahrez,Pass
+445669,1,MissedShots,0.8640000152587891,0.7319999694824219,0.04810095950961113,Gabriel Jesus,a,5543,OpenPlay,2021,RightFoot,16506,Aston Villa,Manchester City,1,2,2021-12-01 20:15:00,,TakeOn
+445670,3,BlockedShot,0.9130000305175782,0.32599998474121095,0.06601855158805847,Gabriel Jesus,a,5543,OpenPlay,2021,RightFoot,16506,Aston Villa,Manchester City,1,2,2021-12-01 20:15:00,,TakeOn
+445671,3,SavedShot,0.8619999694824219,0.654000015258789,0.054450873285532,Rodri,a,2496,OpenPlay,2021,RightFoot,16506,Aston Villa,Manchester City,1,2,2021-12-01 20:15:00,Raheem Sterling,Pass
+445672,6,MissedShots,0.8830000305175781,0.4420000076293945,0.013374248519539833,Rodri,a,2496,FromCorner,2021,Head,16506,Aston Villa,Manchester City,1,2,2021-12-01 20:15:00,Raheem Sterling,Aerial
+445676,21,SavedShot,0.7519999694824219,0.700999984741211,0.015116955153644085,Oleksandr Zinchenko,a,2958,OpenPlay,2021,RightFoot,16506,Aston Villa,Manchester City,1,2,2021-12-01 20:15:00,Raheem Sterling,Pass
+445677,26,Goal,0.769000015258789,0.46799999237060547,0.024197980761528015,Rúben Dias,a,8961,OpenPlay,2021,LeftFoot,16506,Aston Villa,Manchester City,1,2,2021-12-01 20:15:00,Raheem Sterling,Pass
+445679,33,BlockedShot,0.855999984741211,0.3029999923706055,0.04407840594649315,Riyad Mahrez,a,750,OpenPlay,2021,RightFoot,16506,Aston Villa,Manchester City,1,2,2021-12-01 20:15:00,Oleksandr Zinchenko,Chipped
+445680,34,MissedShots,0.8969999694824219,0.5640000152587891,0.014876575209200382,Rúben Dias,a,8961,FromCorner,2021,Head,16506,Aston Villa,Manchester City,1,2,2021-12-01 20:15:00,Riyad Mahrez,Aerial
+445681,35,BlockedShot,0.8230000305175781,0.5690000152587891,0.038900069892406464,Gabriel Jesus,a,5543,FromCorner,2021,RightFoot,16506,Aston Villa,Manchester City,1,2,2021-12-01 20:15:00,,None
+445682,42,Goal,0.86,0.545,0.36842080950737,Bernardo Silva,a,3635,OpenPlay,2021,LeftFoot,16506,Aston Villa,Manchester City,1,2,2021-12-01 20:15:00,Gabriel Jesus,Chipped
+445684,50,BlockedShot,0.815,0.29100000381469726,0.03699003532528877,João Cancelo,a,2379,OpenPlay,2021,RightFoot,16506,Aston Villa,Manchester City,1,2,2021-12-01 20:15:00,,None
+445685,52,MissedShots,0.8419999694824218,0.725999984741211,0.030004845932126045,Oleksandr Zinchenko,a,2958,OpenPlay,2021,LeftFoot,16506,Aston Villa,Manchester City,1,2,2021-12-01 20:15:00,Raheem Sterling,Pass
+445686,56,BlockedShot,0.8090000152587891,0.51,0.01516662072390318,Gabriel Jesus,a,5543,FromCorner,2021,RightFoot,16506,Aston Villa,Manchester City,1,2,2021-12-01 20:15:00,Riyad Mahrez,Chipped
+445687,56,SavedShot,0.7369999694824219,0.509000015258789,0.026159455999732018,Gabriel Jesus,a,5543,FromCorner,2021,RightFoot,16506,Aston Villa,Manchester City,1,2,2021-12-01 20:15:00,João Cancelo,Pass
+445689,71,MissedShots,0.9059999847412109,0.47,0.12626923620700836,Gabriel Jesus,a,5543,OpenPlay,2021,LeftFoot,16506,Aston Villa,Manchester City,1,2,2021-12-01 20:15:00,Bernardo Silva,Cross
+445693,89,SavedShot,0.8,0.27299999237060546,0.05895879864692688,Riyad Mahrez,a,750,DirectFreekick,2021,LeftFoot,16506,Aston Villa,Manchester City,1,2,2021-12-01 20:15:00,,Standard

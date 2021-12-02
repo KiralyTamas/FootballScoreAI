@@ -1,0 +1,26 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+445098,4,BlockedShot,0.7419999694824219,0.495,0.021136125549674034,Ryan Fraser,h,1683,OpenPlay,2021,RightFoot,16513,Newcastle United,Norwich,1,1,2021-11-30 19:30:00,Callum Wilson,Pass
+445099,4,MissedShots,0.745999984741211,0.629000015258789,0.01573687419295311,Jonjo Shelvey,h,769,OpenPlay,2021,RightFoot,16513,Newcastle United,Norwich,1,1,2021-11-30 19:30:00,Allan Saint-Maximin,Pass
+445101,19,MissedShots,0.7390000152587891,0.43400001525878906,0.02017948403954506,Joelinton,h,87,OpenPlay,2021,RightFoot,16513,Newcastle United,Norwich,1,1,2021-11-30 19:30:00,Allan Saint-Maximin,Pass
+445107,34,MissedShots,0.8819999694824219,0.580999984741211,0.10828951746225357,Callum Wilson,h,468,OpenPlay,2021,LeftFoot,16513,Newcastle United,Norwich,1,1,2021-11-30 19:30:00,Joe Willock,Pass
+445111,46,MissedShots,0.7719999694824219,0.3129999923706055,0.018147798255085945,Joelinton,h,87,OpenPlay,2021,LeftFoot,16513,Newcastle United,Norwich,1,1,2021-11-30 19:30:00,Allan Saint-Maximin,Pass
+445112,56,BlockedShot,0.8969999694824219,0.5409999847412109,0.051948677748441696,Federico Fernández,h,708,FromCorner,2021,Head,16513,Newcastle United,Norwich,1,1,2021-11-30 19:30:00,Jonjo Shelvey,Cross
+445113,60,Goal,0.885,0.5,0.7611688375473022,Callum Wilson,h,468,Penalty,2021,RightFoot,16513,Newcastle United,Norwich,1,1,2021-11-30 19:30:00,,Standard
+445114,68,MissedShots,0.8719999694824219,0.34200000762939453,0.09690811485052109,Allan Saint-Maximin,h,101,OpenPlay,2021,RightFoot,16513,Newcastle United,Norwich,1,1,2021-11-30 19:30:00,Callum Wilson,Pass
+445116,73,MissedShots,0.9569999694824218,0.27700000762939453,0.06284040957689285,Isaac Hayden,h,6062,OpenPlay,2021,RightFoot,16513,Newcastle United,Norwich,1,1,2021-11-30 19:30:00,Callum Wilson,Pass
+445100,10,SavedShot,0.7709999847412109,0.6419999694824219,0.06447591632604599,Billy Gilmour,a,7988,DirectFreekick,2021,RightFoot,16513,Newcastle United,Norwich,1,1,2021-11-30 19:30:00,,Standard
+445102,28,MissedShots,0.9640000152587891,0.41700000762939454,0.36461830139160156,Joshua Sargent,a,7295,OpenPlay,2021,RightFoot,16513,Newcastle United,Norwich,1,1,2021-11-30 19:30:00,Christos Tzolis,Cross
+445103,28,MissedShots,0.924000015258789,0.5309999847412109,0.04709630087018013,Grant Hanley,a,7690,FromCorner,2021,Head,16513,Newcastle United,Norwich,1,1,2021-11-30 19:30:00,Billy Gilmour,Aerial
+445104,28,BlockedShot,0.77,0.7809999847412109,0.014091459102928638,Christos Tzolis,a,9746,FromCorner,2021,RightFoot,16513,Newcastle United,Norwich,1,1,2021-11-30 19:30:00,Teemu Pukki,Pass
+445105,31,BlockedShot,0.8680000305175781,0.3920000076293945,0.07416833192110062,Joshua Sargent,a,7295,OpenPlay,2021,LeftFoot,16513,Newcastle United,Norwich,1,1,2021-11-30 19:30:00,Lukas Rupp,BallTouch
+445106,31,SavedShot,0.8919999694824219,0.44299999237060544,0.06024600565433502,Christos Tzolis,a,9746,OpenPlay,2021,Head,16513,Newcastle United,Norwich,1,1,2021-11-30 19:30:00,Max Aarons,Cross
+445108,36,BlockedShot,0.8590000152587891,0.6969999694824218,0.04003993049263954,Christos Tzolis,a,9746,OpenPlay,2021,RightFoot,16513,Newcastle United,Norwich,1,1,2021-11-30 19:30:00,Lukas Rupp,Pass
+445109,42,MissedShots,0.7830000305175782,0.3160000038146973,0.02187979966402054,Kenny McLean,a,7693,OpenPlay,2021,LeftFoot,16513,Newcastle United,Norwich,1,1,2021-11-30 19:30:00,Max Aarons,Pass
+445110,45,SavedShot,0.9009999847412109,0.675,0.11966647952795029,Christos Tzolis,a,9746,OpenPlay,2021,RightFoot,16513,Newcastle United,Norwich,1,1,2021-11-30 19:30:00,Brandon Williams,Throughball
+445115,71,MissedShots,0.8219999694824218,0.5420000076293945,0.09355118870735168,Adam Idah,a,8021,OpenPlay,2021,RightFoot,16513,Newcastle United,Norwich,1,1,2021-11-30 19:30:00,Brandon Williams,TakeOn
+445117,78,Goal,0.909000015258789,0.4540000152587891,0.10594114661216736,Teemu Pukki,a,7696,OpenPlay,2021,LeftFoot,16513,Newcastle United,Norwich,1,1,2021-11-30 19:30:00,Dimitris Giannoulis,Chipped
+445118,80,MissedShots,0.9569999694824218,0.3129999923706055,0.04800409823656082,Teemu Pukki,a,7696,OpenPlay,2021,RightFoot,16513,Newcastle United,Norwich,1,1,2021-11-30 19:30:00,Kenny McLean,Chipped
+445119,91,BlockedShot,0.7480000305175781,0.4520000076293945,0.02431575022637844,Teemu Pukki,a,7696,OpenPlay,2021,RightFoot,16513,Newcastle United,Norwich,1,1,2021-11-30 19:30:00,Billy Gilmour,Pass
+445120,92,SavedShot,0.9409999847412109,0.624000015258789,0.3517911732196808,Pierre Lees-Melou,a,5619,OpenPlay,2021,RightFoot,16513,Newcastle United,Norwich,1,1,2021-11-30 19:30:00,,BallRecovery
+445121,95,BlockedShot,0.8480000305175781,0.524000015258789,0.06419310718774796,Lukas Rupp,a,62,SetPiece,2021,RightFoot,16513,Newcastle United,Norwich,1,1,2021-11-30 19:30:00,,None
+445122,95,SavedShot,0.794000015258789,0.655,0.0179054606705904,Pierre Lees-Melou,a,5619,SetPiece,2021,RightFoot,16513,Newcastle United,Norwich,1,1,2021-11-30 19:30:00,,Rebound
