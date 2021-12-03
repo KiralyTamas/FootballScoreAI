@@ -14,7 +14,7 @@ def create_team_csv():  # Függvény kezdete
     result_header = ["Dátum", "Meccs-Id", "Hazai-Csapat", "Ellenfél-Csapat",  # A main_result és a csapat_csv-k fejlécének elnevezései
                      "Hazai-Gól", "Ellenfél-Gól", "Hazai-XG", "Ellenfél-XG",
                      "Hazai-PR", "Ellenfél-PR", "PR-diff", "Hazai-xgPR", "Ellenfél-xgPR",
-                     "XG-diff", "Hazai-Mixed-PR", "Ellenfél-Mixed-PR", "Mixed-PR-diff", "H%", "D%", "A%", "ForeCast-W",
+                     "XG-diff", "Hazai-Mixed-PR", "Ellenfél-Mixed-PR", "Mixed-PR-diff","PR-diff-darabszám", "H%", "D%", "A%","Több mint -3","-3","-2","-1","0","1","2","3","Több mint 3", "ForeCast-W",
                      "ForeCast-D", "ForeCast-A"]
     team_header = ["Dátum", "Meccs-Id", "Fő-Csapat", "Ellenfél-Csapat", "Hazai-Gól",
                    "Ellenfél-Gól", "Hazai-XG", "Ellenfél-XG", "Vendég-PR", "Meccs-Előtti-PR", "Meccs-Utáni-PR","Vendég-xgPR", "Meccs-Előtti-xgPR",
@@ -83,7 +83,7 @@ def create_team_csv():  # Függvény kezdete
                             forecast = [row[13], row[14], row[15]]
                             main_result = [date, math_id, teams[0], teams[1], score_h,
                                            score_a, xg[0], xg[1], datas[6], datas[7], pr_diff, datas[8], datas[9], xg_diff, datas[10],
-                                           datas[11], prxg_diff, pr, pr, pr, forecast[0], forecast[1], forecast[2]]
+                                           datas[11], prxg_diff, pr, pr, pr,pr,pr,pr,pr,pr,pr,pr,pr, forecast[0], forecast[1], forecast[2]]
                             home_data = [date, math_id,"(H) "+teams[0],
                                          "(V) " +teams[1], score_h, score_a, xg[0], xg[1],datas[7], datas[6], datas[0],
                                          datas[9], datas[8], datas[2],datas[11], datas[10], datas[4]]
