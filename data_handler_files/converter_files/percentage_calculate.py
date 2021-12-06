@@ -13,9 +13,14 @@ def percentage_calculate():
         for row in file:
             main_list.append(row)       
         for index,row in enumerate(main_list):
-            if index == 0: 
+            print(index)
+            if index == 0:
+                if os.path.exists(os.path.abspath("..\..\converted_csv_datas\main_result")+"\\main_result2.csv")==False:
+                    with open(os.path.abspath("..\..\converted_csv_datas\main_result")+"\\main_result2.csv","w",newline='',encoding='utf-8') as file:
+                        file=csv.writer(file,dialect='excel')
+                        file.writerow(row)
                 continue
-            with open((os.path.abspath("..\..\converted_csv_datas\main_result")+"\\main_result2.csv"), "r", encoding='utf-8') as file:
+            with open(os.path.abspath("..\..\converted_csv_datas\main_result")+"\\main_result2.csv", "r", encoding='utf-8') as file:
                 file=csv.reader(file)
                 id_list=[]
                 for i in file:
@@ -202,5 +207,5 @@ def percentage_calculate():
                         with open(os.path.abspath("..\..\converted_csv_datas\main_result")+"\\main_result2.csv", "a", newline='', encoding='utf-8') as file:
                             new_file = csv.writer(file, dialect='excel')
                             new_file.writerow(row)
-
-percentage_calculate()
+    os.remove(os.path.abspath("..\..\converted_csv_datas\main_result")+"\\main_result.csv")
+    os.rename(os.path.abspath("..\..\converted_csv_datas\main_result")+"\\main_result2.csv", os.path.abspath("..\..\converted_csv_datas\main_result")+"\\main_result.csv")
