@@ -105,13 +105,13 @@ async def main():
                 number.append(num)
         for page in num:
             try:
-              understat = Understat(session)
-              match = await understat.get_match_shots(page)
-              f = open(raw_matches+"\match"+str(page)+".json", "w")
-              f.write(json.dumps(match))
-              f.close()
-              if page == num[-1]:
-                  con()
+                understat = Understat(session)
+                match = await understat.get_match_shots(page)
+                f = open(raw_matches+"\match"+str(page)+".json", "w")
+                f.write(json.dumps(match))
+                f.close()
+                if page == num[-1]:
+                    con()
             except UnboundLocalError:
                 print("Nem találtam az "+str(page) +" Id számmal mach információkat!")
                 if page == num[-1]:

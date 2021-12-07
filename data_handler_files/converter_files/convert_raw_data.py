@@ -45,3 +45,5 @@ def convert():
         except TypeError:
           if TypeError==True:
             continue
+          
+convert()
