@@ -4,8 +4,8 @@ import csv
 from date_time_sorter import date_sorting as date
 
 
-def percentage_calculate():
-    date()
+def percentage_calculate(main_result):
+    date(main_result)
     with open((os.path.abspath("..\..\converted_csv_datas\main_result")+"\\main_result.csv"), "r", encoding='utf-8') as file:
         file = csv.reader(file)
         row_list = []

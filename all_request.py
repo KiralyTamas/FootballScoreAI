@@ -10,12 +10,24 @@ from data_handler_files.converter_files.convert_raw_data import convert as con
 
 
 async def main():
-    raw_fixtures = os.path.abspath("raw_json_datas/fixtures")
-    raw_tables = os.path.abspath("raw_json_datas/table/2021")
-    raw_result = os.path.abspath("raw_json_datas/result/2021")
-    eplplayer = os.path.abspath("raw_json_datas/epl_player")
-    raw_matches = os.path.abspath("raw_json_datas/match")
     async with aiohttp.ClientSession(connector=aiohttp.TCPConnector(ssl=False)) as session:
+        raw_fixtures = os.path.abspath("raw_json_datas/fixtures")
+        if os.path.exists(raw_fixtures) == False:
+            os.mkdir(raw_fixtures)
+        raw_tables = os.path.abspath("raw_json_datas/table/2021")
+        if os.path.exists(raw_tables) ==False:
+            os.mkdir(os.path.abspath("raw_json_datas/table"))
+            os.mkdir(raw_tables)
+        raw_result = os.path.abspath("raw_json_datas/result/2021")
+        if os.path.exists(raw_result) ==False:
+            os.mkdir(os.path.abspath("raw_json_datas/result"))
+            os.mkdir(raw_result)
+        eplplayer = os.path.abspath("raw_json_datas/epl_player")
+        if os.path.exists(eplplayer) ==False:
+            os.mkdir(eplplayer)
+        raw_matches = os.path.abspath("raw_json_datas/match")
+        if os.path.exists(raw_matches) ==False:
+            os.mkdir(raw_matches)
         understat = Understat(session)
         fixturesepl = await understat.get_league_fixtures("epl", 2021)
         fixtureslaliga = await understat.get_league_fixtures("la_liga", 2021)

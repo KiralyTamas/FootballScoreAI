@@ -1,8 +1,10 @@
 import os
 import csv
+from date_time_sorter import date_sorting
 
 
-def fixtuer_write():
+def fixture_write():
+    main_fixture_path="..\..\converted_csv_datas\main_fixture\\main_fixture.csv"
     fixture_header=["Dátum","Meccs-Id","Hazai-Csapat","Vendég-Csapat","Hazai-PR","Vendég-PR","PR-diff","PR-diff-darabszám", "H%", "D%", "A%", "Több mint -3", "-3", "-2", "-1", "0", "1", "2", "3", "Több mint 3"]
     if os.path.exists(os.path.abspath("..\..\converted_csv_datas\main_fixture")) == True:
         os.remove(os.path.abspath("..\..\converted_csv_datas\main_fixture\main_fixture.csv"))
@@ -33,7 +35,6 @@ def fixtuer_write():
         score_diff_2 = []
         score_diff_3 = []
         score_diff_more =[]
-        home_team_row=[]
         fixture_row=[]
     for file in files:
         with open(os.path.abspath(main_dir+"/"+file),"r") as file:
@@ -55,6 +56,7 @@ def fixtuer_write():
                         continue
                     elif str(against_team) in fix_table:
                         continue
+                    home_team_row=[]
                     with open(os.path.abspath("..\..\converted_csv_datas\\teams"+"/"+match[3]+".csv"),"r") as team:
                         team_table=csv.reader(team)
                         for row in team_table:
@@ -70,14 +72,27 @@ def fixtuer_write():
                     pr_diff=("%.1f" % pr_diff)    
                     with open(os.path.abspath("..\..\converted_csv_datas\main_result")+"\\main_result.csv","r") as result:
                         result_table=csv.reader(result)
-                        rev_table=[]
                         for row in result_table:
-                            rev_table.append(row)
-                        for row in reversed(rev_table):
                             if pr_diff == row[10]:
-                                fixture_row.extend([date,match_id,home_team,against_team,home_pr,against_pr,pr_diff,row[17],row[18],row[19],row[20],row[21],row[22],row[23],row[24],row[25],row[26],row[27],row[28],row[29]])
+                                diff_count=row[17]
+                                home_win=row[18]
+                                deal_win=row[19]
+                                against_win=row[20]
+                                score_diff__more = row[21]
+                                score_diff__3 = row[22]
+                                score_diff__2 = row[23]
+                                score_diff__1 = row[24]
+                                score_diff_0 = row[25]
+                                score_diff_1 = row[26]
+                                score_diff_2 = row[27]
+                                score_diff_3 = row[28]
+                                score_diff_more =row[29]
+                                fixture_row=[date,match_id,home_team,against_team,home_pr,against_pr,pr_diff,diff_count,
+                                            home_win,deal_win,against_win,score_diff__more,score_diff__3,score_diff__2,
+                                            score_diff__1,score_diff_0,score_diff_1,score_diff_2,score_diff_3,score_diff_more]
                     with open(os.path.abspath("..\..\converted_csv_datas\main_fixture\main_fixture.csv"),"a",newline='',encoding="utf-8") as file:
                         file=csv.writer(file)
                         file.writerow(fixture_row)
+    date_sorting(main_fixture_path)
                     
-fixtuer_write()
+fixture_write()
