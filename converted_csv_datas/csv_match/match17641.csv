@@ -1,0 +1,30 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+446350,1,MissedShots,0.674000015258789,0.7419999694824219,0.008994498290121555,Jude Bellingham,h,8824,OpenPlay,2021,LeftFoot,17641,Borussia Dortmund,Bayern Munich,2,3,2021-12-04 17:30:00,,BallRecovery
+446351,4,Goal,0.9069999694824219,0.49700000762939456,0.4217526912689209,Julian Brandt,h,261,OpenPlay,2021,RightFoot,17641,Borussia Dortmund,Bayern Munich,2,3,2021-12-04 17:30:00,Jude Bellingham,TakeOn
+446360,28,MissedShots,0.919000015258789,0.645,0.1070786640048027,Erling Haaland,h,8260,OpenPlay,2021,LeftFoot,17641,Borussia Dortmund,Bayern Munich,2,3,2021-12-04 17:30:00,Marco Reus,Pass
+446362,31,MissedShots,0.7569999694824219,0.5640000152587891,0.02408946305513382,Jude Bellingham,h,8824,OpenPlay,2021,LeftFoot,17641,Borussia Dortmund,Bayern Munich,2,3,2021-12-04 17:30:00,Julian Brandt,TakeOn
+446364,37,BlockedShot,0.8069999694824219,0.34900001525878904,0.033318839967250824,Julian Brandt,h,261,OpenPlay,2021,RightFoot,17641,Borussia Dortmund,Bayern Munich,2,3,2021-12-04 17:30:00,Emre Can,Pass
+446366,47,Goal,0.9009999847412109,0.655,0.0706406682729721,Erling Haaland,h,8260,OpenPlay,2021,RightFoot,17641,Borussia Dortmund,Bayern Munich,2,3,2021-12-04 17:30:00,Jude Bellingham,Pass
+446369,57,BlockedShot,0.9259999847412109,0.6969999694824218,0.05267351120710373,Erling Haaland,h,8260,OpenPlay,2021,RightFoot,17641,Borussia Dortmund,Bayern Munich,2,3,2021-12-04 17:30:00,,None
+446370,57,BlockedShot,0.8180000305175781,0.5029999923706054,0.04722043126821518,Julian Brandt,h,261,OpenPlay,2021,LeftFoot,17641,Borussia Dortmund,Bayern Munich,2,3,2021-12-04 17:30:00,,Rebound
+446372,69,BlockedShot,0.855999984741211,0.35700000762939454,0.05363151803612709,Marius Wolf,h,2693,OpenPlay,2021,RightFoot,17641,Borussia Dortmund,Bayern Munich,2,3,2021-12-04 17:30:00,Marco Reus,None
+446374,84,MissedShots,0.950999984741211,0.5279999923706055,0.5122737884521484,Jude Bellingham,h,8824,SetPiece,2021,Head,17641,Borussia Dortmund,Bayern Munich,2,3,2021-12-04 17:30:00,Marco Reus,Cross
+446375,94,SavedShot,0.885,0.685,0.04406576603651047,Donyell Malen,h,9749,SetPiece,2021,RightFoot,17641,Borussia Dortmund,Bayern Munich,2,3,2021-12-04 17:30:00,,None
+446376,95,SavedShot,0.935,0.33799999237060546,0.057325754314661026,Thomas Meunier,h,5680,OpenPlay,2021,RightFoot,17641,Borussia Dortmund,Bayern Munich,2,3,2021-12-04 17:30:00,,None
+446352,6,BlockedShot,0.8880000305175781,0.5529999923706055,0.10677924752235413,Robert Lewandowski,a,227,OpenPlay,2021,RightFoot,17641,Borussia Dortmund,Bayern Munich,2,3,2021-12-04 17:30:00,Leroy Sané,Pass
+446353,8,Goal,0.87,0.4109999847412109,0.5674986839294434,Robert Lewandowski,a,227,OpenPlay,2021,RightFoot,17641,Borussia Dortmund,Bayern Munich,2,3,2021-12-04 17:30:00,Thomas Müller,TakeOn
+446354,11,MissedShots,0.7759999847412109,0.5820000076293945,0.029245005920529366,Leroy Sané,a,337,OpenPlay,2021,LeftFoot,17641,Borussia Dortmund,Bayern Munich,2,3,2021-12-04 17:30:00,Benjamin Pavard,Pass
+446355,17,BlockedShot,0.840999984741211,0.48700000762939455,0.06531008332967758,Thomas Müller,a,224,OpenPlay,2021,RightFoot,17641,Borussia Dortmund,Bayern Munich,2,3,2021-12-04 17:30:00,,None
+446356,18,MissedShots,0.755,0.3820000076293945,0.016530079767107964,Benjamin Pavard,a,3363,FromCorner,2021,LeftFoot,17641,Borussia Dortmund,Bayern Munich,2,3,2021-12-04 17:30:00,,None
+446357,20,BlockedShot,0.8440000152587891,0.47900001525878905,0.08505600690841675,Thomas Müller,a,224,OpenPlay,2021,RightFoot,17641,Borussia Dortmund,Bayern Munich,2,3,2021-12-04 17:30:00,Robert Lewandowski,Pass
+446358,22,BlockedShot,0.860999984741211,0.3609999847412109,0.06436324864625931,Kingsley Coman,a,226,OpenPlay,2021,RightFoot,17641,Borussia Dortmund,Bayern Munich,2,3,2021-12-04 17:30:00,,BallRecovery
+446359,25,SavedShot,0.8669999694824219,0.3340000152587891,0.052616532891988754,Kingsley Coman,a,226,OpenPlay,2021,RightFoot,17641,Borussia Dortmund,Bayern Munich,2,3,2021-12-04 17:30:00,Leroy Sané,Pass
+446361,31,BlockedShot,0.8419999694824218,0.59,0.0877372995018959,Robert Lewandowski,a,227,OpenPlay,2021,RightFoot,17641,Borussia Dortmund,Bayern Munich,2,3,2021-12-04 17:30:00,Thomas Müller,TakeOn
+446363,35,MissedShots,0.9209999847412109,0.5070000076293946,0.1414477378129959,Leroy Sané,a,337,OpenPlay,2021,LeftFoot,17641,Borussia Dortmund,Bayern Munich,2,3,2021-12-04 17:30:00,Kingsley Coman,Pass
+446365,43,Goal,0.875999984741211,0.45799999237060546,0.09397315979003906,Kingsley Coman,a,226,OpenPlay,2021,RightFoot,17641,Borussia Dortmund,Bayern Munich,2,3,2021-12-04 17:30:00,,BallTouch
+446367,51,SavedShot,0.6830000305175781,0.5420000076293945,0.03432174399495125,Leroy Sané,a,337,DirectFreekick,2021,LeftFoot,17641,Borussia Dortmund,Bayern Munich,2,3,2021-12-04 17:30:00,,Standard
+446368,56,SavedShot,0.8619999694824219,0.34299999237060547,0.053304824978113174,Kingsley Coman,a,226,OpenPlay,2021,LeftFoot,17641,Borussia Dortmund,Bayern Munich,2,3,2021-12-04 17:30:00,Thomas Müller,Pass
+446371,61,BlockedShot,0.8190000152587891,0.6359999847412109,0.03862151876091957,Thomas Müller,a,224,OpenPlay,2021,RightFoot,17641,Borussia Dortmund,Bayern Munich,2,3,2021-12-04 17:30:00,Alphonso Davies,Pass
+446373,76,Goal,0.885,0.5,0.75777667760849,Robert Lewandowski,a,227,Penalty,2021,RightFoot,17641,Borussia Dortmund,Bayern Munich,2,3,2021-12-04 17:30:00,,Standard
+446377,96,MissedShots,0.7469999694824219,0.7,0.04512755945324898,Robert Lewandowski,a,227,DirectFreekick,2021,RightFoot,17641,Borussia Dortmund,Bayern Munich,2,3,2021-12-04 17:30:00,,Standard
+446378,98,MissedShots,0.6029999923706054,0.29100000381469726,0.18171975016593933,Corentin Tolisso,a,3603,OpenPlay,2021,RightFoot,17641,Borussia Dortmund,Bayern Munich,2,3,2021-12-04 17:30:00,Robert Lewandowski,BallRecovery

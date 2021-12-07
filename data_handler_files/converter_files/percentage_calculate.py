@@ -4,28 +4,23 @@ import csv
 from date_time_sorter import date_sorting as date
 
 
-def percentage_calculate():
-    date()
+def percentage_calculate(main_result):
+    date(main_result)
     with open((os.path.abspath("..\..\converted_csv_datas\main_result")+"\\main_result.csv"), "r", encoding='utf-8') as file:
         file = csv.reader(file)
         row_list = []
         main_list=[]
         for row in file:
             main_list.append(row)       
-        for index,row in enumerate(main_list):
-            if index == 0: 
-                continue
-            with open((os.path.abspath("..\..\converted_csv_datas\main_result")+"\\main_result2.csv"), "r", encoding='utf-8') as file:
-                file=csv.reader(file)
-                id_list=[]
-                for i in file:
-                    if "Meccs-Id" in i:
-                        continue
-                    else:
-                        id_list.append(int(i[1]))
-            if int(row[1]) in id_list:
-                row_list.append(row)
-                continue
+        calculated_list=[]
+        for row in main_list:
+            if row[20] != "-":
+                calculated_list.append(row)
+        for row in main_list[len(calculated_list):]:
+            if os.path.exists(os.path.abspath("..\..\converted_csv_datas\main_result")+"\\main_result2.csv")==False:
+                with open(os.path.abspath("..\..\converted_csv_datas\main_result")+"\\main_result2.csv","w",newline='',encoding='utf-8') as file:
+                    file=csv.writer(file,dialect='excel')
+                    file.writerows(calculated_list)
             count = 0
             home_count = 0
             deal_count = 0
@@ -39,8 +34,10 @@ def percentage_calculate():
             score_diff_2 = 0
             score_diff_3 = 0
             score_diff_more = 0
-            if (row[0][:10] not in row_list):
-                for i in row_list:
+            if (row[0][:10] not in calculated_list):
+                for index,i in enumerate(calculated_list):
+                    if index == 0:
+                        continue
                     if float(row[10]) == float(i[10]):
                         count += 1
                         score = int(i[4])-int(i[5])
@@ -122,7 +119,7 @@ def percentage_calculate():
                     row.insert(28, percentage_3+"%")
                     row.pop(29)
                     row.insert(29, percentage_more+"%")
-                    row_list.append(row)
+                    calculated_list.append(row)
                     with open(os.path.abspath("..\..\converted_csv_datas\main_result")+"\\main_result2.csv", "a", newline='', encoding='utf-8') as file:
                         new_file = csv.writer(file, dialect='excel')
                         new_file.writerow(row)
@@ -165,7 +162,7 @@ def percentage_calculate():
                     row.insert(28, percentage_3)
                     row.pop(29)
                     row.insert(29, percentage_more)
-                    row_list.append(row)
+                    calculated_list.append(row)
                     with open(os.path.abspath("..\..\converted_csv_datas\main_result")+"\\main_result2.csv", "a", newline='', encoding='utf-8') as file:
                         new_file = csv.writer(file, dialect='excel')
                         new_file.writerow(row)
@@ -198,9 +195,9 @@ def percentage_calculate():
                         row.insert(28, i[28])
                         row.pop(29)
                         row.insert(29, i[29])
-                        row_list.append(row)
+                        calculated_list.append(row)
                         with open(os.path.abspath("..\..\converted_csv_datas\main_result")+"\\main_result2.csv", "a", newline='', encoding='utf-8') as file:
                             new_file = csv.writer(file, dialect='excel')
                             new_file.writerow(row)
-
-percentage_calculate()
+    os.remove(os.path.abspath("..\..\converted_csv_datas\main_result")+"\\main_result.csv")
+    os.rename(os.path.abspath("..\..\converted_csv_datas\main_result")+"\\main_result2.csv", os.path.abspath("..\..\converted_csv_datas\main_result")+"\\main_result.csv")

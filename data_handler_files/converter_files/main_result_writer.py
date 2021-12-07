@@ -11,6 +11,7 @@ start_path = os.path.abspath("..\..\converted_csv_datas\csv_result")
 
 
 def create_team_csv():  # Függvény kezdete
+    main_result_path="..\..\converted_csv_datas\main_result\\main_result.csv"
     result_header = ["Dátum", "Meccs-Id", "Hazai-Csapat", "Ellenfél-Csapat",  # A main_result és a csapat_csv-k fejlécének elnevezései
                      "Hazai-Gól", "Ellenfél-Gól", "Hazai-XG", "Ellenfél-XG",
                      "Hazai-PR", "Ellenfél-PR", "PR-diff", "Hazai-xgPR", "Ellenfél-xgPR",
@@ -23,6 +24,7 @@ def create_team_csv():  # Függvény kezdete
     f = []  # A "h" tárolja a mappa útvonalakat, az "f" a mappákban lévő fájlok neveit
     g = []
     path = []
+    season=input("Add meg a konvertálni kívánt szezon évszámát: ")
     # Az os.walk iterál végig a csv_result mappa almappáin és az azokban lévő fájlokon.
     for (dirpath, dirnames, filenames) in os.walk(start_path):
         f.extend(filenames)
@@ -31,6 +33,8 @@ def create_team_csv():  # Függvény kezdete
     # Az első "for" a mappákon iterál végig, a második "for" a mappákban lévő fájlokon.
     for dir_results in g:
         for file in f:
+            if str(season) not in file:
+                continue
             print(file)
             try:
                 # Megnyitja a "for" által megadott aktuális csv_result fájlt, "df" változóba kilistázza, aztán végigiterál rajta.
@@ -45,8 +49,7 @@ def create_team_csv():  # Függvény kezdete
                                 # Ha létezik, akkor szimplán átugorja ezt az iterált sort. Ha nem, akkor létrehozza a fájlt és beírja
                                 with open(os.path.abspath("..\..\converted_csv_datas\main_result")+"\\main_result.csv", "w", newline='', encoding="utf-8") as main:
                                     # Az előzőleg a result_header változóba eltárolt fejlecet.
-                                    main_list = csv.writer(
-                                        main, dialect='excel')
+                                    main_list = csv.writer(main, dialect='excel')
                                     main_list.writerow(result_header)
                         else:
                             # A cal(row, team_header) meghívásával átadjuk az aktuálisan iterált csv_result fájl sorát és a csapat_csv fejlécét.
@@ -108,29 +111,25 @@ def create_team_csv():  # Függvény kezdete
                                         main.writerow(main_result)
                                 with open(final_path+"\\"+teams[0]+".csv", "r", newline='', encoding="utf-8") as home_csv_old:
                                     home_table_old = csv.reader(home_csv_old)
-                                    home_old_list = []
+                                    home_old_date=[]
                                     for home_list in home_table_old:
-                                        home_old_list.append(home_list)
-                                    if [home_data] not in home_old_list:
+                                        home_old_date.append(home_list[0])
+                                    if home_data[0] not in home_old_date:
                                         with open(final_path+"\\"+teams[0]+".csv", "a", newline='', encoding="utf-8") as home_csv:
-                                            home_table = csv.writer(
-                                                home_csv, dialect='excel')
+                                            home_table = csv.writer(home_csv, dialect='excel')
                                             home_table.writerow(home_data)
                                 with open(final_path+"\\"+teams[1]+".csv", "r", newline='', encoding="utf-8") as against_csv_old:
-                                    against_table_old = csv.reader(
-                                        against_csv_old)
-                                    against_old_list = []
+                                    against_table_old = csv.reader(against_csv_old)
+                                    against_old_date=[]
                                     for against_list in against_table_old:
-                                        against_old_list.append(
-                                            against_list)
-                                with open(final_path+"\\"+teams[1]+".csv", "a", newline='', encoding="utf-8") as against_csv:
-                                    against_table = csv.writer(
-                                        against_csv, dialect='excel')
-                                    if against_data not in against_old_list:
-                                        against_table.writerow(against_data)
+                                        against_old_date.append(against_list[0])
+                                    if against_data[0] not in against_old_date:
+                                        with open(final_path+"\\"+teams[1]+".csv", "a", newline='', encoding="utf-8") as against_csv:
+                                            against_table = csv.writer(against_csv, dialect='excel')
+                                            against_table.writerow(against_data)
             except FileNotFoundError:
                 continue
-    per_cal()
+    per_cal(main_result_path)
 
 
 create_team_csv()
