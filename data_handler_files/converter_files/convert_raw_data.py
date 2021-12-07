@@ -24,7 +24,7 @@ def convert():
           current_path=os.path.abspath(i+"/"+j+"/"+k)
           recall= caller(current_path,k)
           if "fixtures" in k:
-            convert_f(recall,"_",k)
+            convert_f(recall,"_")
             os.remove(current_path)
             continue
           if "epl_" in k:

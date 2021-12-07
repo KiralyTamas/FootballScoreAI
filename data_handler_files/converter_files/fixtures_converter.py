@@ -1,7 +1,7 @@
 import csv
 import os
 
-def convert_f(data_list, delim,name):
+def convert_f(data_list, delim):
     destiny_path=os.path.abspath("converted_csv_datas/csv_fixtures")
     file_xxx = ["json", "csv"]
     csv_name = data_list[1].replace(file_xxx[0], file_xxx[1])
