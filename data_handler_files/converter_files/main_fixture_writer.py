@@ -1,6 +1,9 @@
+import datetime
 import os
 import csv
 from date_time_sorter import date_sorting
+from datetime import date as tdate
+from datetime import datetime
 
 
 def fixture_write():
@@ -51,6 +54,13 @@ def fixture_write():
                     for row in file:
                         fix_table.append(str(row[2]))
                         fix_table.append(str(row[3]))
+                        today=tdate.today()
+                        date_str1=str(match[-1][:10])
+                        date_str2=today.strftime("%Y-%m-%d")
+                        date_dt1=datetime.strptime(date_str1, '%Y-%m-%d')
+                        date_dt2=datetime.strptime(date_str2, '%Y-%m-%d')
+                    if date_dt1<date_dt2:
+                        continue
                     if str(home_team) in fix_table:
                         continue
                     elif str(against_team) in fix_table:
