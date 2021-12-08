@@ -6,6 +6,7 @@ from date_time_sorter import date_sorting as date
 
 def percentage_calculate(main_result):
     date(main_result)
+    mid_path=os.path.abspath("..\..\converted_csv_datas\main_result")+"\\main_result2.csv"
     with open((os.path.abspath("..\..\converted_csv_datas\main_result")+"\\main_result.csv"), "r", encoding='utf-8') as file:
         file = csv.reader(file)
         row_list = []
@@ -200,4 +201,4 @@ def percentage_calculate(main_result):
                             new_file = csv.writer(file, dialect='excel')
                             new_file.writerow(row)
     os.remove(os.path.abspath("..\..\converted_csv_datas\main_result")+"\\main_result.csv")
-    os.rename(os.path.abspath("..\..\converted_csv_datas\main_result")+"\\main_result2.csv", os.path.abspath("..\..\converted_csv_datas\main_result")+"\\main_result.csv")
+    mid_path.replace("main_result2.csv","main_result.csv")

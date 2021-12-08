@@ -4,7 +4,6 @@ from date_time_sorter import date_sorting
 
 
 def fixture_write():
-    main_fixture_path="..\..\converted_csv_datas\main_fixture\\main_fixture.csv"
     fixture_header=["Dátum","Meccs-Id","Hazai-Csapat","Vendég-Csapat","Hazai-PR","Vendég-PR","PR-diff","PR-diff-darabszám", "H%", "D%", "A%", "Több mint -3", "-3", "-2", "-1", "0", "1", "2", "3", "Több mint 3"]
     if os.path.exists(os.path.abspath("..\..\converted_csv_datas\main_fixture")) == True:
         os.remove(os.path.abspath("..\..\converted_csv_datas\main_fixture\main_fixture.csv"))
@@ -91,8 +90,8 @@ def fixture_write():
                                             home_win,deal_win,against_win,score_diff__more,score_diff__3,score_diff__2,
                                             score_diff__1,score_diff_0,score_diff_1,score_diff_2,score_diff_3,score_diff_more]
                     with open(os.path.abspath("..\..\converted_csv_datas\main_fixture\main_fixture.csv"),"a",newline='',encoding="utf-8") as file:
-                        file=csv.writer(file)
+                        file=csv.writer(file, dialect='excel')
                         file.writerow(fixture_row)
-    date_sorting(main_fixture_path)
+    date_sorting("..\..\converted_csv_datas\main_fixture\\main_fixture.csv")
                     
 fixture_write()

@@ -11,7 +11,6 @@ start_path = os.path.abspath("..\..\converted_csv_datas\csv_result")
 
 
 def create_team_csv():  # Függvény kezdete
-    main_result_path="..\..\converted_csv_datas\main_result\\main_result.csv"
     result_header = ["Dátum", "Meccs-Id", "Hazai-Csapat", "Ellenfél-Csapat",  # A main_result és a csapat_csv-k fejlécének elnevezései
                      "Hazai-Gól", "Ellenfél-Gól", "Hazai-XG", "Ellenfél-XG",
                      "Hazai-PR", "Ellenfél-PR", "PR-diff", "Hazai-xgPR", "Ellenfél-xgPR",
@@ -106,8 +105,7 @@ def create_team_csv():  # Függvény kezdete
                                     continue
                                 else:
                                     with open(os.path.abspath("..\..\converted_csv_datas\main_result")+"\\main_result.csv", "a", newline='', encoding="utf-8")as main:
-                                        main = csv.writer(
-                                            main, dialect='excel')
+                                        main = csv.writer(main, dialect='excel')
                                         main.writerow(main_result)
                                 with open(final_path+"\\"+teams[0]+".csv", "r", newline='', encoding="utf-8") as home_csv_old:
                                     home_table_old = csv.reader(home_csv_old)
@@ -129,7 +127,7 @@ def create_team_csv():  # Függvény kezdete
                                             against_table.writerow(against_data)
             except FileNotFoundError:
                 continue
-    per_cal(main_result_path)
+    per_cal("..\..\converted_csv_datas\main_result\\main_result.csv")
 
 
 create_team_csv()
