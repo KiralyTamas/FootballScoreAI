@@ -1,15 +1,7 @@
-import PySimpleGUI as sg
+line=[1,2,3,4]
 
-layout=[
-    [sg.Text("Ez az első ablakom")],
-    [sg.Button("Ablak Bezárás")]
-]
+for i in range(20):
+    line.append(i)
 
-window=sg.Window("Demo",layout)
 
-while True:
-    event, value=window.read()
-    if event=="Ablak Bezárás" or event==sg.WIN_CLOSED:
-        break
-
-window.close()
+print(line)
