@@ -1,11 +1,15 @@
-import csv
-import os
+import PySimpleGUI as sg
 
-with open("D:\Repository\FootballScoreAI\converted_csv_datas\main_result\main_result.csv", "r")as file:
-    file = csv.reader(file)
-    all_len = []
-    for i in file:
-        all_len.append(i)
-    for index, i in enumerate(all_len):
-        if index >= len(all_len)-200:
-            print(index)
+layout=[
+    [sg.Text("Ez az első ablakom")],
+    [sg.Button("Ablak Bezárás")]
+]
+
+window=sg.Window("Demo",layout)
+
+while True:
+    event, value=window.read()
+    if event=="Ablak Bezárás" or event==sg.WIN_CLOSED:
+        break
+
+window.close()
