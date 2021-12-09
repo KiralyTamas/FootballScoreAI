@@ -4,7 +4,7 @@ import csv
 from date_time_sorter import date_sorting as date
 
 
-def percentage_calculate(main_result):
+def percentage_calculate(main_result,header):
     date(main_result)
     main_list=[]
     calculated_list=[]
@@ -189,6 +189,10 @@ def percentage_calculate(main_result):
                     row.pop(29)
                     row.insert(29, i[29])
                     calculated_list.append(row)
+    poped=calculated_list.pop(0)
+    with open(os.path.abspath("..\..\converted_csv_datas\main_result")+"\\main_result.csv", "w", newline='', encoding='utf-8') as file:
+        new_file = csv.DictWriter(file, dialect='excel',fieldnames=header)
+        new_file.writeheader()
     with open(os.path.abspath("..\..\converted_csv_datas\main_result")+"\\main_result.csv", "a", newline='', encoding='utf-8') as file:
         new_file = csv.writer(file, dialect='excel')
         new_file.writerows(calculated_list)

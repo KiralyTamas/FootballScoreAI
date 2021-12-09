@@ -127,7 +127,7 @@ def create_team_csv():  # Függvény kezdete
                                             against_table.writerow(against_data)
             except FileNotFoundError:
                 continue
-    per_cal("..\..\converted_csv_datas\main_result\\main_result.csv")
+    per_cal("..\..\converted_csv_datas\main_result\\main_result.csv",result_header)
 
 
 create_team_csv()
