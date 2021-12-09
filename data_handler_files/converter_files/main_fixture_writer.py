@@ -1,10 +1,12 @@
+import datetime
 import os
 import csv
 from date_time_sorter import date_sorting
+from datetime import date as tdate
+from datetime import datetime
 
 
 def fixture_write():
-    main_fixture_path="..\..\converted_csv_datas\main_fixture\\main_fixture.csv"
     fixture_header=["Dátum","Meccs-Id","Hazai-Csapat","Vendég-Csapat","Hazai-PR","Vendég-PR","PR-diff","PR-diff-darabszám", "H%", "D%", "A%", "Több mint -3", "-3", "-2", "-1", "0", "1", "2", "3", "Több mint 3"]
     if os.path.exists(os.path.abspath("..\..\converted_csv_datas\main_fixture")) == True:
         os.remove(os.path.abspath("..\..\converted_csv_datas\main_fixture\main_fixture.csv"))
@@ -52,6 +54,13 @@ def fixture_write():
                     for row in file:
                         fix_table.append(str(row[2]))
                         fix_table.append(str(row[3]))
+                        today=tdate.today()
+                        date_str1=str(match[-1][:10])
+                        date_str2=today.strftime("%Y-%m-%d")
+                        date_dt1=datetime.strptime(date_str1, '%Y-%m-%d')
+                        date_dt2=datetime.strptime(date_str2, '%Y-%m-%d')
+                    if date_dt1<date_dt2:
+                        continue
                     if str(home_team) in fix_table:
                         continue
                     elif str(against_team) in fix_table:
@@ -91,8 +100,8 @@ def fixture_write():
                                             home_win,deal_win,against_win,score_diff__more,score_diff__3,score_diff__2,
                                             score_diff__1,score_diff_0,score_diff_1,score_diff_2,score_diff_3,score_diff_more]
                     with open(os.path.abspath("..\..\converted_csv_datas\main_fixture\main_fixture.csv"),"a",newline='',encoding="utf-8") as file:
-                        file=csv.writer(file)
+                        file=csv.writer(file, dialect='excel')
                         file.writerow(fixture_row)
-    date_sorting(main_fixture_path)
+    date_sorting("..\..\converted_csv_datas\main_fixture\\main_fixture.csv")
                     
 fixture_write()
