@@ -66,70 +66,71 @@ def percentage_calculate(main_result,header):
                         home_count += 1
                         score_diff_more += 1
             try:
-                home_percentage = (home_count/count)*100
-                deal_percentage = (deal_count/count)*100
-                against_percentage = (against_count/count)*100
-                percentage__more = (score_diff__more/count)*100
-                percentage__3 = (score_diff__3/count)*100
-                percentage__2 = (score_diff__2/count)*100
-                percentage__1 = (score_diff__1/count)*100
-                percentage_0 = (score_diff_0/count)*100
-                percentage_1 = (score_diff_1/count)*100
-                percentage_2 = (score_diff_2/count)*100
-                percentage_3 = (score_diff_3/count)*100
-                percentage_more = (score_diff_more/count)*100
-                home_percentage = ("%.2f" % home_percentage)
-                deal_percentage = ("%.2f" % deal_percentage)
-                against_percentage = ("%.2f" % against_percentage)
-                percentage__more = ("%.2f" % percentage__more)
-                percentage__3 = ("%.2f" % percentage__3)
-                percentage__2 = ("%.2f" % percentage__2)
-                percentage__1 = ("%.2f" % percentage__1)
-                percentage_0 = ("%.2f" % percentage_0)
-                percentage_1 = ("%.2f" % percentage_1)
-                percentage_2 = ("%.2f" % percentage_2)
-                percentage_3 = ("%.2f" % percentage_3)
-                percentage_more = ("%.2f" % percentage_more)
+                home_percentage = "{:.0%}".format(home_count/count)
+                deal_percentage = "{:.0%}".format(deal_count/count)
+                against_percentage = "{:.0%}".format(against_count/count)
+                percentage__more = "{:.0%}".format(score_diff__more/count)
+                percentage__3 = "{:.0%}".format(score_diff__3/count)
+                percentage__2 = "{:.0%}".format(score_diff__2/count)
+                percentage__1 = "{:.0%}".format(score_diff__1/count)
+                percentage_0 = "{:.0%}".format(score_diff_0/count)
+                percentage_1 = "{:.0%}".format(score_diff_1/count)
+                percentage_2 = "{:.0%}".format(score_diff_2/count)
+                percentage_3 = "{:.0%}".format(score_diff_3/count)
+                percentage_more = "{:.0%}".format(score_diff_more/count)
+  #              home_percentage = ("%.2f" % home_percentage)
+   #             deal_percentage = ("%.2f" % deal_percentage)
+    #            against_percentage = ("%.2f" % against_percentage)
+     #           percentage__more = ("%.2f" % percentage__more)
+      #          percentage__3 = ("%.2f" % percentage__3)
+       #         percentage__2 = ("%.2f" % percentage__2)
+        #        percentage__1 = ("%.2f" % percentage__1)
+         #       percentage_0 = ("%.2f" % percentage_0)
+           #     percentage_1 = ("%.2f" % percentage_1)
+            #    percentage_2 = ("%.2f" % percentage_2)
+             #   percentage_3 = ("%.2f" % percentage_3)
+              #  percentage_more = ("%.2f" % percentage_more)
                 row.pop(17)
                 row.insert(17, count)
                 row.pop(18)
-                row.insert(18, home_percentage+"%")
+                row.insert(18, home_percentage)
                 row.pop(19)
-                row.insert(19, deal_percentage+"%")
+                row.insert(19, deal_percentage)
                 row.pop(20)
-                row.insert(20, against_percentage+"%")
+                row.insert(20, against_percentage)
                 row.pop(21)
-                row.insert(21, percentage__more+"%")
+                row.insert(21, percentage__more)
                 row.pop(22)
-                row.insert(22, percentage__3+"%")
+                row.insert(22, percentage__3)
                 row.pop(23)
-                row.insert(23, percentage__2+"%")
+                row.insert(23, percentage__2)
                 row.pop(24)
-                row.insert(24, percentage__1+"%")
+                row.insert(24, percentage__1)
                 row.pop(25)
-                row.insert(25, percentage_0+"%")
+                row.insert(25, percentage_0)
                 row.pop(26)
-                row.insert(26, percentage_1+"%")
+                row.insert(26, percentage_1)
                 row.pop(27)
-                row.insert(27, percentage_2+"%")
+                row.insert(27, percentage_2)
                 row.pop(28)
-                row.insert(28, percentage_3+"%")
+                row.insert(28, percentage_3)
                 row.pop(29)
-                row.insert(29, percentage_more+"%")
+                row.insert(29, percentage_more)
                 calculated_list.append(row)
             except ZeroDivisionError:
-                home_percentage = "0%"
-                deal_percentage = "0%"
-                against_percentage = "0%"
-                percentage__more = "0%"
-                percentage__3 = "0%"
-                percentage__2 = "0%"
-                percentage__1 = "0%"
-                percentage_0 = "0%"
-                percentage_1 = "0%"
-                percentage_2 = "0%"
-                percentage_3 = "0%"
-                percentage_more = "0%"
+                zero=0
+                home_percentage = "{:.0%}".format(zero)
+                deal_percentage = "{:.0%}".format(zero)
+                against_percentage = "{:.0%}".format(zero)
+                percentage__more = "{:.0%}".format(zero)
+                percentage__3 = "{:.0%}".format(zero)
+                percentage__2 = "{:.0%}".format(zero)
+                percentage__1 = "{:.0%}".format(zero)
+                percentage_0 = "{:.0%}".format(zero)
+                percentage_1 = "{:.0%}".format(zero)
+                percentage_2 = "{:.0%}".format(zero)
+                percentage_3 = "{:.0%}".format(zero)
+                percentage_more = "{:.0%}".format(zero)
                 row.pop(17)
                 row.insert(17, count)
                 row.pop(18)

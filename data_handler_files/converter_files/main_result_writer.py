@@ -23,7 +23,7 @@ def create_team_csv():  # Függvény kezdete
     f = []  # A "h" tárolja a mappa útvonalakat, az "f" a mappákban lévő fájlok neveit
     g = []
     path = []
-    season=input("Add meg a konvertálni kívánt szezon évszámát: ")
+    #season=input("Add meg a konvertálni kívánt szezon évszámát: ")
     # Az os.walk iterál végig a csv_result mappa almappáin és az azokban lévő fájlokon.
     for (dirpath, dirnames, filenames) in os.walk(start_path):
         f.extend(filenames)
@@ -32,8 +32,8 @@ def create_team_csv():  # Függvény kezdete
     # Az első "for" a mappákon iterál végig, a második "for" a mappákban lévő fájlokon.
     for dir_results in g:
         for file in f:
-            if str(season) not in file:
-                continue
+    #        if str(season) not in file:
+     #           continue
             print(file)
             try:
                 # Megnyitja a "for" által megadott aktuális csv_result fájlt, "df" változóba kilistázza, aztán végigiterál rajta.
