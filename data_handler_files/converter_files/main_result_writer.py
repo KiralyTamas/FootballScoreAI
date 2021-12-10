@@ -23,7 +23,7 @@ def create_team_csv():  # Függvény kezdete
     f = []  # A "h" tárolja a mappa útvonalakat, az "f" a mappákban lévő fájlok neveit
     g = []
     path = []
-    season=input("Add meg a konvertálni kívánt szezon évszámát: ")
+    #season=input("Add meg a konvertálni kívánt szezon évszámát: ")
     # Az os.walk iterál végig a csv_result mappa almappáin és az azokban lévő fájlokon.
     for (dirpath, dirnames, filenames) in os.walk(start_path):
         f.extend(filenames)
@@ -32,8 +32,8 @@ def create_team_csv():  # Függvény kezdete
     # Az első "for" a mappákon iterál végig, a második "for" a mappákban lévő fájlokon.
     for dir_results in g:
         for file in f:
-            if str(season) not in file:
-                continue
+            #if str(season) not in file:
+           #     continue
             print(file)
             try:
                 # Megnyitja a "for" által megadott aktuális csv_result fájlt, "df" változóba kilistázza, aztán végigiterál rajta.
@@ -75,13 +75,19 @@ def create_team_csv():  # Függvény kezdete
                             pr_diff = ("%.1f" % pr_diff)
                             xg_diff = ("%.1f" % xg_diff)
                             prxg_diff = ("%.1f" % prxg_diff)
-                            datas[0] = ("%.4f" % datas[0])
-                            datas[1] = ("%.4f" % datas[1])
-                            datas[2] = ("%.4f" % datas[2])
-                            datas[3] = ("%.4f" % datas[3])
-                            datas[4] = ("%.4f" % datas[4])
-                            datas[5] = ("%.4f" % datas[5])
-                            # Itt van kitöltve a main_result és a hazai--vendég csapatok kitöltési dataszerkezete attól függően, hazai vagy vendég
+                            datas[0] = ("%.3f" % datas[0])
+                            datas[1] = ("%.3f" % datas[1])
+                            datas[2] = ("%.3f" % datas[2])
+                            datas[3] = ("%.3f" % datas[3])
+                            datas[4] = ("%.3f" % datas[4])
+                            datas[5] = ("%.3f" % datas[5])
+                            datas[6] = ("%.3f" % datas[6])
+                            datas[7] = ("%.3f" % datas[7])
+                            datas[8] = ("%.3f" % datas[8])
+                            datas[9] = ("%.3f" % datas[9])
+                            datas[10] = ("%.3f" % datas[10])
+                            datas[11] = ("%.3f" % datas[11])
+                                  # Itt van kitöltve a main_result és a hazai--vendég csapatok kitöltési dataszerkezete attól függően, hazai vagy vendég
                             forecast = [row[13], row[14], row[15]]
                             main_result = [date, math_id, teams[0], teams[1], score_h,
                                            score_a, xg[0], xg[1], datas[6], datas[7], pr_diff, datas[8], datas[9], xg_diff, datas[10],
@@ -90,9 +96,7 @@ def create_team_csv():  # Függvény kezdete
                                          "(V) " +
                                          teams[1], score_h, score_a, xg[0], xg[1], datas[7], datas[6], datas[0],
                                          datas[9], datas[8], datas[2], datas[11], datas[10], datas[4]]
-                            against_data = [date, math_id, "(V) "+teams[1],
-                                            "(H) " +
-                                            teams[0], score_a, score_h, xg[1], xg[0], datas[6], datas[7], datas[1],
+                            against_data = [date, math_id,"(H) " +teams[0],"(V) "+teams[1], score_h,score_a, xg[1], xg[0], datas[6], datas[7], datas[1],
                                             datas[8], datas[9], datas[3], datas[10], datas[11], datas[5]]
                             with open(os.path.abspath("..\..\converted_csv_datas\main_result")+"\\main_result.csv", "r") as read_main:
                                 read_main = csv.reader(read_main)
