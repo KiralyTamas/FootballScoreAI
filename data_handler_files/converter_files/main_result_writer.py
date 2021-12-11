@@ -14,7 +14,7 @@ def create_team_csv():  # Függvény kezdete
     result_header = ["Dátum", "Meccs-Id", "Hazai-Csapat", "Ellenfél-Csapat",  # A main_result és a csapat_csv-k fejlécének elnevezései
                      "Hazai-Gól", "Ellenfél-Gól", "Hazai-XG", "Ellenfél-XG",
                      "Hazai-PR", "Ellenfél-PR", "PR-diff", "Hazai-xgPR", "Ellenfél-xgPR",
-                     "XG-diff", "Hazai-Mixed-PR", "Ellenfél-Mixed-PR", "Mixed-PR-diff", "PR-diff-darabszám", "H%", "D%", "A%", "Több mint -3", "-3", "-2", "-1", "0", "1", "2", "3", "Több mint 3", "ForeCast-W",
+                     "XG-diff", "Hazai-Mixed-PR", "Ellenfél-Mixed-PR", "Mixed-PR-diff", "PR-diff-darabszám", "H%", "D%", "A%", "Több mint 3", "3", "2", "1", "0", "-1", "-2", "-3", "Több mint -3", "ForeCast-W",
                      "ForeCast-D", "ForeCast-A"]
     team_header = ["Dátum", "Meccs-Id", "Fő-Csapat", "Ellenfél-Csapat", "Hazai-Gól",
                    "Ellenfél-Gól", "Hazai-XG", "Ellenfél-XG", "Ellenfél-PR", "Meccs-Előtti-PR", "Meccs-Utáni-PR", "Vendég-xgPR", "Meccs-Előtti-xgPR",
@@ -23,7 +23,7 @@ def create_team_csv():  # Függvény kezdete
     f = []  # A "h" tárolja a mappa útvonalakat, az "f" a mappákban lévő fájlok neveit
     g = []
     path = []
-    #season=input("Add meg a konvertálni kívánt szezon évszámát: ")
+    season=input("Add meg a konvertálni kívánt szezon évszámát: ")
     # Az os.walk iterál végig a csv_result mappa almappáin és az azokban lévő fájlokon.
     for (dirpath, dirnames, filenames) in os.walk(start_path):
         f.extend(filenames)
@@ -32,8 +32,8 @@ def create_team_csv():  # Függvény kezdete
     # Az első "for" a mappákon iterál végig, a második "for" a mappákban lévő fájlokon.
     for dir_results in g:
         for file in f:
-            #if str(season) not in file:
-           #     continue
+            if str(season) not in file:
+                continue
             print(file)
             try:
                 # Megnyitja a "for" által megadott aktuális csv_result fájlt, "df" változóba kilistázza, aztán végigiterál rajta.
