@@ -8,7 +8,7 @@ from datetime import datetime
 
 def fixture_write():
     fixture_header = ["Dátum", "Meccs-Id", "Hazai-Csapat", "Vendég-Csapat", "Hazai-PR", "Vendég-PR", "PR-diff",
-        "PR-diff-darabszám", "H%", "D%", "A%", "Több mint -3", "-3", "-2", "-1", "0", "1", "2", "3", "Több mint 3"]
+        "PR-diff-darabszám", "H%", "D%", "A%", "Több mint 3", "3", "2", "1", "0", "-1", "-2", "-3", "Több mint -3"]
     if os.path.exists(os.path.abspath("..\..\converted_csv_datas\main_fixture")) == True:
         os.remove(os.path.abspath(
             "..\..\converted_csv_datas\main_fixture\main_fixture.csv"))
@@ -99,8 +99,8 @@ def fixture_write():
                                 score_diff_3 = row[28]
                                 score_diff_more =row[29]
                                 fixture_row=[date,match_id,home_team,against_team,home_pr,against_pr,pr_diff,diff_count,
-                                            home_win,deal_win,against_win,score_diff__more,score_diff__3,score_diff__2,
-                                            score_diff__1,score_diff_0,score_diff_1,score_diff_2,score_diff_3,score_diff_more]
+                                            home_win,deal_win,against_win,score_diff_more,score_diff_3,score_diff_2,
+                                            score_diff_1,score_diff_0,score_diff__1,score_diff__2,score_diff__3,score_diff__more]
                     with open(os.path.abspath("..\..\converted_csv_datas\main_fixture\main_fixture.csv"),"a",newline='',encoding="utf-8") as file:
                         file=csv.writer(file, dialect='excel')
                         file.writerow(fixture_row)
