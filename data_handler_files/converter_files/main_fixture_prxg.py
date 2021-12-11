@@ -7,12 +7,9 @@ from datetime import datetime
 
 
 def fixture_prxg():
-    fixture_header = ["Dátum", "Meccs-Id", "Hazai-Csapat", "Vendég-Csapat", "Hazai-XG", "Vendég-XG", "XG-diff",
+    print("fixture_prxg")
+    fixture_header = ["Dátum", "Meccs-Id", "Hazai-Csapat", "Vendég-Csapat", "Hazai-PRXG", "Vendég-PRXG", "XG-diff",
         "XG-diff-darabszám", "H%", "D%", "A%", "Több mint 3", "3", "2", "1", "0", "-1", "-2", "-3", "Több mint -3"]
-    if os.path.exists(os.path.abspath("..\..\converted_csv_datas\main_fixture")) == True:
-        os.remove(os.path.abspath("..\..\converted_csv_datas\main_fixture\main_fixture_prxg.csv"))
-    if os.path.exists(os.path.abspath("..\..\converted_csv_datas\main_fixture\main_fixture_prxg.csv")) == False:
-        os.mkdir(os.path.abspath("..\..\converted_csv_datas\main_fixture"))
     with open(os.path.abspath("..\..\converted_csv_datas\main_fixture\main_fixture_prxg.csv"), "w", newline='', encoding='utf-8') as file:
         new_file = csv.DictWriter(file, dialect='excel',fieldnames=fixture_header)
         new_file.writeheader()
@@ -22,8 +19,8 @@ def fixture_prxg():
         main_dir=dirpath
         files.extend(filenames)
         pr_diff=[]
-        home_pr=[]
-        against_pr=[]
+        home_prxg=[]
+        against_prxg=[]
         diff_count=[]
         home_win=[]
         deal_win=[]
@@ -70,19 +67,19 @@ def fixture_prxg():
                         team_table=csv.reader(team)
                         for row in team_table:
                             home_team_row.append(row)
-                        home_pr=home_team_row[-1][10]
+                        home_prxg=home_team_row[-1][16]
                     against_team_row=[]
                     with open(os.path.abspath("..\..\converted_csv_datas\\teams"+"/"+match[6]+".csv"),"r") as team:
                         team_table=csv.reader(team)
                         for row in team_table:
                             against_team_row.append(row)
-                        against_pr=against_team_row[-1][10]
-                    pr_diff=float(home_pr)-float(against_pr)
+                        against_prxg=against_team_row[-1][16]
+                    pr_diff=float(home_prxg)-float(against_prxg)
                     pr_diff=("%.1f" % pr_diff)    
-                    with open(os.path.abspath("..\..\converted_csv_datas\main_result")+"\\main_result_prxg.csv","r") as result:
+                    with open(os.path.abspath("..\..\converted_csv_datas\main_result")+"\\main_result.csv","r") as result:
                         result_table=csv.reader(result)
                         for row in result_table:
-                            if pr_diff == row[10]:
+                            if pr_diff == row[16]:
                                 diff_count=row[17]
                                 home_win=row[18]
                                 deal_win=row[19]
@@ -96,12 +93,10 @@ def fixture_prxg():
                                 score_diff_2 = row[27]
                                 score_diff_3 = row[28]
                                 score_diff_more =row[29]
-                                fixture_row=[date,match_id,home_team,against_team,home_pr,against_pr,pr_diff,diff_count,
+                                fixture_row=[date,match_id,home_team,against_team,home_prxg,against_prxg,pr_diff,diff_count,
                                             home_win,deal_win,against_win,score_diff_more,score_diff_3,score_diff_2,
                                             score_diff_1,score_diff_0,score_diff__1,score_diff__2,score_diff__3,score_diff__more]
                     with open(os.path.abspath("..\..\converted_csv_datas\main_fixture\main_fixture_prxg.csv"),"a",newline='',encoding="utf-8") as file:
                         file=csv.writer(file, dialect='excel')
                         file.writerow(fixture_row)
     date_sorting("..\..\converted_csv_datas\main_fixture\\main_fixture_prxg.csv")
-                    
-fixture_xg()

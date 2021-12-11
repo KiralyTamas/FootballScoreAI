@@ -2,9 +2,11 @@ import pandas as pd
 import os
 import csv
 from date_time_sorter import date_sorting as date
+from main_fixture_pr import fixture_pr as pr
 
 
 def percentage_calculate(main_result,header):
+    print("percentage_calculate")
     date(main_result)
     main_list=[]
     calculated_list=[]
@@ -99,23 +101,23 @@ def percentage_calculate(main_result,header):
                 row.pop(20)
                 row.insert(20, against_percentage)
                 row.pop(21)
-                row.insert(21, percentage__more)
+                row.insert(21, percentage_more)
                 row.pop(22)
-                row.insert(22, percentage__3)
+                row.insert(22, percentage_3)
                 row.pop(23)
-                row.insert(23, percentage__2)
+                row.insert(23, percentage_2)
                 row.pop(24)
-                row.insert(24, percentage__1)
+                row.insert(24, percentage_1)
                 row.pop(25)
                 row.insert(25, percentage_0)
                 row.pop(26)
-                row.insert(26, percentage_1)
+                row.insert(26, percentage__1)
                 row.pop(27)
-                row.insert(27, percentage_2)
+                row.insert(27, percentage__2)
                 row.pop(28)
-                row.insert(28, percentage_3)
+                row.insert(28, percentage__3)
                 row.pop(29)
-                row.insert(29, percentage_more)
+                row.insert(29, percentage__more)
                 calculated_list.append(row)
             except ZeroDivisionError:
                 zero=0
@@ -140,23 +142,23 @@ def percentage_calculate(main_result,header):
                 row.pop(20)
                 row.insert(20, against_percentage)
                 row.pop(21)
-                row.insert(21, percentage__more)
+                row.insert(21, percentage_more)
                 row.pop(22)
-                row.insert(22, percentage__3)
+                row.insert(22, percentage_3)
                 row.pop(23)
-                row.insert(23, percentage__2)
+                row.insert(23, percentage_2)
                 row.pop(24)
-                row.insert(24, percentage__1)
+                row.insert(24, percentage_1)
                 row.pop(25)
                 row.insert(25, percentage_0)
                 row.pop(26)
-                row.insert(26, percentage_1)
+                row.insert(26, percentage__1)
                 row.pop(27)
-                row.insert(27, percentage_2)
+                row.insert(27, percentage__2)
                 row.pop(28)
-                row.insert(28, percentage_3)
+                row.insert(28, percentage__3)
                 row.pop(29)
-                row.insert(29, percentage_more)
+                row.insert(29, percentage__more)
                 calculated_list.append(row)
         else:
             for i in calculated_list:
@@ -197,3 +199,4 @@ def percentage_calculate(main_result,header):
     with open(os.path.abspath("..\..\converted_csv_datas\main_result")+"\\main_result.csv", "a", newline='', encoding='utf-8') as file:
         new_file = csv.writer(file, dialect='excel')
         new_file.writerows(calculated_list)
+    pr()

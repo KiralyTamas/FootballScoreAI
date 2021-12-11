@@ -4,15 +4,23 @@ import csv
 from date_time_sorter import date_sorting
 from datetime import date as tdate
 from datetime import datetime
+from main_fixture_xg import fixture_xg as xg
 
 
 def fixture_pr():
+    print("fixture_pr")
     fixture_header = ["Dátum", "Meccs-Id", "Hazai-Csapat", "Vendég-Csapat", "Hazai-PR", "Vendég-PR", "PR-diff",
         "PR-diff-darabszám", "H%", "D%", "A%", "Több mint 3", "3", "2", "1", "0", "-1", "-2", "-3", "Több mint -3"]
     if os.path.exists(os.path.abspath("..\..\converted_csv_datas\main_fixture")) == True:
-        os.remove(os.path.abspath("..\..\converted_csv_datas\main_fixture\main_fixture_pr.csv"))
+        try:
+            os.remove(os.path.abspath("..\..\converted_csv_datas\main_fixture\main_fixture_pr.csv"))
+        except FileNotFoundError:
+            print("Nincs ilyen fájl")
     if os.path.exists(os.path.abspath("..\..\converted_csv_datas\main_fixture\main_fixture_pr.csv")) == False:
-        os.mkdir(os.path.abspath("..\..\converted_csv_datas\main_fixture"))
+        try:
+            os.mkdir(os.path.abspath("..\..\converted_csv_datas\main_fixture"))
+        except FileExistsError:
+            print("Már létezik ez a mappa")
     with open(os.path.abspath("..\..\converted_csv_datas\main_fixture\main_fixture_pr.csv"), "w", newline='', encoding='utf-8') as file:
         new_file = csv.DictWriter(file, dialect='excel',fieldnames=fixture_header)
         new_file.writeheader()
@@ -103,5 +111,4 @@ def fixture_pr():
                         file=csv.writer(file, dialect='excel')
                         file.writerow(fixture_row)
     date_sorting("..\..\converted_csv_datas\main_fixture\\main_fixture_pr.csv")
-                    
-fixture_pr()
+    xg()
