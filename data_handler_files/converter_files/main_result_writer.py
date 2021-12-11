@@ -17,7 +17,7 @@ def create_team_csv():  # Függvény kezdete
                      "XG-diff", "Hazai-Mixed-PR", "Ellenfél-Mixed-PR", "Mixed-PR-diff", "PR-diff-darabszám", "H%", "D%", "A%", "Több mint -3", "-3", "-2", "-1", "0", "1", "2", "3", "Több mint 3", "ForeCast-W",
                      "ForeCast-D", "ForeCast-A"]
     team_header = ["Dátum", "Meccs-Id", "Fő-Csapat", "Ellenfél-Csapat", "Hazai-Gól",
-                   "Ellenfél-Gól", "Hazai-XG", "Ellenfél-XG", "Vendég-PR", "Meccs-Előtti-PR", "Meccs-Utáni-PR", "Vendég-xgPR", "Meccs-Előtti-xgPR",
+                   "Ellenfél-Gól", "Hazai-XG", "Ellenfél-XG", "Ellenfél-PR", "Meccs-Előtti-PR", "Meccs-Utáni-PR", "Vendég-xgPR", "Meccs-Előtti-xgPR",
                    "Meccs-Utáni-xgPR", "Vendég-Mixed_PR", "Meccs-Előtti-Mixed_PR", "Meccs-Utáni-Mixed_PR"]
 
     f = []  # A "h" tárolja a mappa útvonalakat, az "f" a mappákban lévő fájlok neveit
@@ -56,25 +56,6 @@ def create_team_csv():  # Függvény kezdete
                             # Visszaérkeznek a "calculater" által küldött "datas" adatok.
                             pr = "-"
                             # A csv_result-ből kivett adatok "row"-ként vannak behívva, a calculater adatai "datas"-ként szerepel,
-                            date = row[12]
-                            math_id = row[0]
-                            teams = row[3], row[6]
-                            score_h = row[8]
-                            score_a = row[9]
-                            xg = [row[10], row[11]]
-                            pr_diff = datas[6]-datas[7]
-                            xg_diff = datas[8]-datas[9]
-                            prxg_diff = datas[10]-datas[11]
-                            if pr_diff == -0 or -0.0:  # Itt van javítva a -0 anomália
-                                pr_diff = 0
-                            if xg_diff == -0 or -0.0:
-                                xg_diff = 0
-                            if prxg_diff == -0 or -0.0:
-                                prxg_diff = 0
-                            # Itt vannak beállítva a tizedesjegyek hossza
-                            pr_diff = ("%.1f" % pr_diff)
-                            xg_diff = ("%.1f" % xg_diff)
-                            prxg_diff = ("%.1f" % prxg_diff)
                             datas[0] = ("%.3f" % datas[0])
                             datas[1] = ("%.3f" % datas[1])
                             datas[2] = ("%.3f" % datas[2])
@@ -84,20 +65,48 @@ def create_team_csv():  # Függvény kezdete
                             datas[6] = ("%.3f" % datas[6])
                             datas[7] = ("%.3f" % datas[7])
                             datas[8] = ("%.3f" % datas[8])
-                            datas[9] = ("%.3f" % datas[9])
-                            datas[10] = ("%.3f" % datas[10])
-                            datas[11] = ("%.3f" % datas[11])
-                                  # Itt van kitöltve a main_result és a hazai--vendég csapatok kitöltési dataszerkezete attól függően, hazai vagy vendég
+                            date = row[12]
+                            math_id = row[0]
+                            teams = row[3], row[6]
+                            score_h = row[8]
+                            score_a = row[9]
+                            xg = [row[10], row[11]]
+                            pr_diff = float(datas[0])-float(datas[1])
+                            xg_diff = float(datas[2])-float(datas[3])
+                            prxg_diff = float(datas[4])-float(datas[5])
+                            new_hpr=(float(datas[0])+float(datas[6]))
+                            new_apr=(float(datas[1])-float(datas[6]))
+                            new_hxg=(float(datas[2])+float(datas[7]))
+                            new_axg=(float(datas[3])-float(datas[7]))
+                            new_hprxg=(float(datas[4])+float(datas[8]))
+                            new_aprxg=(float(datas[5])-float(datas[8]))
+                            new_hpr=("%.3f" % new_hpr)
+                            new_apr=("%.3f" % new_apr)
+                            new_hxg=("%.3f" % new_hxg)
+                            new_axg=("%.3f" % new_axg)
+                            new_hprxg=("%.3f" % new_hprxg)
+                            new_aprxg=("%.3f" % new_aprxg)
+                            if pr_diff == -0 or -0.0:  # Itt van javítva a -0 anomália
+                                pr_diff = 0
+                            if xg_diff == -0 or -0.0:
+                                xg_diff = 0
+                            if prxg_diff == -0 or -0.0:
+                                prxg_diff = 0
+                            # Itt vannak beállítva a tizedesjegyek hossza
+                            pr_diff = ("%.1f" % pr_diff)
+                            xg_diff = ("%.1f" % xg_diff)
+                            prxg_diff = ("%.1f" % prxg_diff)     # Itt van kitöltve a main_result és a hazai--vendég csapatok kitöltési dataszerkezete attól függően, hazai vagy vendég
                             forecast = [row[13], row[14], row[15]]
                             main_result = [date, math_id, teams[0], teams[1], score_h,
-                                           score_a, xg[0], xg[1], datas[6], datas[7], pr_diff, datas[8], datas[9], xg_diff, datas[10],
-                                           datas[11], prxg_diff, pr, pr, pr, pr, pr, pr, pr, pr, pr, pr, pr, pr, pr, forecast[0], forecast[1], forecast[2]]
+                                           score_a, xg[0], xg[1], datas[0], datas[1], pr_diff, datas[2], datas[3], xg_diff, datas[4],
+                                           datas[5], prxg_diff, pr, pr, pr, pr, pr, pr, pr, pr, pr, pr, pr, pr, pr, forecast[0], forecast[1], forecast[2]]
                             home_data = [date, math_id, "(H) "+teams[0],
                                          "(V) " +
-                                         teams[1], score_h, score_a, xg[0], xg[1], datas[7], datas[6], datas[0],
-                                         datas[9], datas[8], datas[2], datas[11], datas[10], datas[4]]
-                            against_data = [date, math_id,"(H) " +teams[0],"(V) "+teams[1], score_h,score_a, xg[1], xg[0], datas[6], datas[7], datas[1],
-                                            datas[8], datas[9], datas[3], datas[10], datas[11], datas[5]]
+                                         teams[1], score_h, score_a, xg[0], xg[1], datas[1], datas[0], new_hpr,
+                                         datas[3], datas[2], new_hxg, datas[5], datas[4], new_hprxg]
+                            against_data = [date, math_id,"(H) " +teams[0],
+                                            "(V) "+teams[1], score_h,score_a, xg[1], xg[0], datas[0], datas[1], new_apr,
+                                            datas[2], datas[3], new_axg, datas[4], datas[5], new_aprxg]
                             with open(os.path.abspath("..\..\converted_csv_datas\main_result")+"\\main_result.csv", "r") as read_main:
                                 read_main = csv.reader(read_main)
                                 list_id = []
