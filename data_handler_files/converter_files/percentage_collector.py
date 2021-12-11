@@ -24,15 +24,31 @@ def per_col():
             checking_list.append(fragment)
             if float(row[10]) not in pr_diff:
                 pr_diff.append(float(row[10]))
-    pr_diff = sorted(pr_diff, key=lambda line: line, reverse=False)
-    if os.path.exists(path+diff_home_table)==True:
-        os.remove(path+diff_home_table)
-    with open(path+diff_home_table,"a",newline='', encoding='utf-8') as m_file:
-        m_file=csv.writer(m_file)
-        num_home=[]
-        num_deal=[]
-        num_against=[]
-        hit=0        
-    print(checking_list)
+        pr_diff = sorted(pr_diff, key=lambda line: line, reverse=False)
+        list_len=0
+        full_home=[]
+        full_deal=[]
+        full_against=[]
+        for num in pr_diff:
+            num_home=[]
+            num_deal=[]
+            num_against=[]
+            hit=0
+            for checking in checking_list:
+                if float(num) == float(checking[0]):
+                    hit+=1
+                    if hit >list_len:
+                        list_len+=1
+                    num_home.append(checking[1])
+                    num_deal.append(checking[2])
+                    num_against.append(checking[3])
+            full_home.append(num_home)
+            full_deal.append(num_deal)
+            full_against.append(num_against)
+    with open(path+diff_home_table,"w",newline='',encoding='utf-8') as file:
+        csv_file=csv.writer(file,dialect='excel')
+        for column in full_home:
+            for num in column:
+                print("")
 
 per_col()

@@ -7,15 +7,17 @@ from datetime import datetime
 
 
 def fixture_write():
-    fixture_header=["Dátum","Meccs-Id","Hazai-Csapat","Vendég-Csapat","Hazai-PR","Vendég-PR","PR-diff","PR-diff-darabszám", "H%", "D%", "A%", "Több mint -3", "-3", "-2", "-1", "0", "1", "2", "3", "Több mint 3"]
+    fixture_header = ["Dátum", "Meccs-Id", "Hazai-Csapat", "Vendég-Csapat", "Hazai-PR", "Vendég-PR", "PR-diff",
+        "PR-diff-darabszám", "H%", "D%", "A%", "Több mint -3", "-3", "-2", "-1", "0", "1", "2", "3", "Több mint 3"]
     if os.path.exists(os.path.abspath("..\..\converted_csv_datas\main_fixture")) == True:
-        os.remove(os.path.abspath("..\..\converted_csv_datas\main_fixture\main_fixture.csv"))
+        os.remove(os.path.abspath(
+            "..\..\converted_csv_datas\main_fixture\main_fixture.csv"))
         os.rmdir(os.path.abspath("..\..\converted_csv_datas\main_fixture"))
     if os.path.exists(os.path.abspath("..\..\converted_csv_datas\main_fixture\main_fixture.csv")) == False:
         os.mkdir(os.path.abspath("..\..\converted_csv_datas\main_fixture"))
-        with open(os.path.abspath("..\..\converted_csv_datas\main_fixture\main_fixture.csv"), "a",newline='',encoding='utf-8') as fixture_csv:
-            fixture=csv.writer(fixture_csv)
-            fixture.writerow(fixture_header)
+    with open(os.path.abspath("..\..\converted_csv_datas\main_fixture\main_fixture.csv"), "w", newline='', encoding='utf-8') as file:
+        new_file = csv.DictWriter(file, dialect='excel',fieldnames=fixture_header)
+        new_file.writeheader()
     main_dir = str()
     files = []
     for (dirpath, dirnames, filenames) in os.walk(os.path.abspath("..\..\converted_csv_datas\csv_fixtures")):
