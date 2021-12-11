@@ -45,10 +45,12 @@ def per_col():
             full_home.append(num_home)
             full_deal.append(num_deal)
             full_against.append(num_against)
+    finish_home_list=[]
     with open(path+diff_home_table,"w",newline='',encoding='utf-8') as file:
-        csv_file=csv.writer(file,dialect='excel')
+        csv_file=csv.DictWriter(file, dialect='excel', fieldnames=pr_diff)
+        csv_file.writeheader()
         for column in full_home:
-            for num in column:
-                print("")
+            print("")
+                
 
 per_col()
