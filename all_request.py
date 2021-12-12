@@ -109,24 +109,19 @@ async def main():
         with open(eplplayer+"/epl_player2014.json", "w") as file:
             file.write(json.dumps(player2014))
 
-        coll()
-        with open(os.path.abspath("data_handler_files/requester_files/match_ids.csv"), "r") as file:
-            list_of_num = csv.reader(file)
-            number = []
-            for num in list_of_num:
-                number.append(num)
-        for page in num:
+        id_list=coll()
+        for page in id_list:
             try:
                 understat = Understat(session)
                 match = await understat.get_match_shots(page)
                 f = open(raw_matches+"\match"+str(page)+".json", "w")
                 f.write(json.dumps(match))
                 f.close()
-                if page == num[-1]:
+                if page == id_list[-1]:
                     con()
             except UnboundLocalError:
                 print("Nem találtam az "+str(page) +" Id számmal mach információkat!")
-                if page == num[-1]:
+                if page == id_list[-1]:
                     con()
 
 loop = asyncio.get_event_loop()

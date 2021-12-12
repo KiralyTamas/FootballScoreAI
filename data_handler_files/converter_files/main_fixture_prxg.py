@@ -8,8 +8,8 @@ from datetime import datetime
 
 def fixture_prxg():
     print("fixture_prxg")
-    fixture_header = ["Dátum", "Meccs-Id", "Hazai-Csapat", "Vendég-Csapat", "Hazai-PRXG", "Vendég-PRXG", "XG-diff",
-        "XG-diff-darabszám", "H%", "D%", "A%", "Több mint 3", "3", "2", "1", "0", "-1", "-2", "-3", "Több mint -3"]
+    fixture_header = ["Dátum", "Meccs-Id", "Hazai-Csapat", "Vendég-Csapat", "Hazai-PRXG", "Vendég-PRXG", "PRXG-diff",
+        "PRXG-diff-darabszám", "H%", "D%", "A%", "Több mint 3", "3", "2", "1", "0", "-1", "-2", "-3", "Több mint -3"]
     with open(os.path.abspath("..\..\converted_csv_datas\main_fixture\main_fixture_prxg.csv"), "w", newline='', encoding='utf-8') as file:
         new_file = csv.DictWriter(file, dialect='excel',fieldnames=fixture_header)
         new_file.writeheader()
@@ -84,15 +84,15 @@ def fixture_prxg():
                                 home_win=row[18]
                                 deal_win=row[19]
                                 against_win=row[20]
-                                score_diff__more = row[21]
-                                score_diff__3 = row[22]
-                                score_diff__2 = row[23]
-                                score_diff__1 = row[24]
+                                score_diff_more = row[21]
+                                score_diff_3 = row[22]
+                                score_diff_2 = row[23]
+                                score_diff_1 = row[24]
                                 score_diff_0 = row[25]
-                                score_diff_1 = row[26]
-                                score_diff_2 = row[27]
-                                score_diff_3 = row[28]
-                                score_diff_more =row[29]
+                                score_diff__1 = row[26]
+                                score_diff__2 = row[27]
+                                score_diff__3 = row[28]
+                                score_diff__more =row[29]
                                 fixture_row=[date,match_id,home_team,against_team,home_prxg,against_prxg,pr_diff,diff_count,
                                             home_win,deal_win,against_win,score_diff_more,score_diff_3,score_diff_2,
                                             score_diff_1,score_diff_0,score_diff__1,score_diff__2,score_diff__3,score_diff__more]
