@@ -8,8 +8,8 @@ from datetime import datetime
 
 def fixture_prxg():
     print("fixture_prxg")
-    fixture_header = ["Dátum", "Meccs-Id", "Hazai-Csapat", "Vendég-Csapat", "Hazai-PRXG", "Vendég-PRXG", "XG-diff",
-        "XG-diff-darabszám", "H%", "D%", "A%", "Több mint 3", "3", "2", "1", "0", "-1", "-2", "-3", "Több mint -3"]
+    fixture_header = ["Dátum", "Meccs-Id", "Hazai-Csapat", "Vendég-Csapat", "Hazai-PRXG", "Vendég-PRXG", "PRXG-diff",
+        "PRXG-diff-darabszám", "H%", "D%", "A%", "Több mint 3", "3", "2", "1", "0", "-1", "-2", "-3", "Több mint -3"]
     with open(os.path.abspath("..\..\converted_csv_datas\main_fixture\main_fixture_prxg.csv"), "w", newline='', encoding='utf-8') as file:
         new_file = csv.DictWriter(file, dialect='excel',fieldnames=fixture_header)
         new_file.writeheader()
