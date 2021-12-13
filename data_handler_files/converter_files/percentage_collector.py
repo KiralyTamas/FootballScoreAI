@@ -50,7 +50,6 @@ def per_col():
         csv_file=csv.DictWriter(file, dialect='excel', fieldnames=pr_diff)
         csv_file.writeheader()
         for column in full_home:
-            print("")
-                
+                print("")
 
 per_col()

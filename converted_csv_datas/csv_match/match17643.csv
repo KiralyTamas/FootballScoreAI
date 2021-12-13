@@ -1,0 +1,26 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+447653,19,MissedShots,0.899000015258789,0.3160000038146973,0.05425528064370155,Christopher Antwi-Adjei,h,7798,OpenPlay,2021,RightFoot,17643,Bochum,Borussia Dortmund,1,1,2021-12-11 14:30:00,,None
+447656,28,SavedShot,0.86,0.525,0.07411984354257584,Christopher Antwi-Adjei,h,7798,OpenPlay,2021,RightFoot,17643,Bochum,Borussia Dortmund,1,1,2021-12-11 14:30:00,,None
+447658,39,Goal,0.885,0.5,0.75777667760849,Sebastian Polter,h,7881,Penalty,2021,RightFoot,17643,Bochum,Borussia Dortmund,1,1,2021-12-11 14:30:00,,Standard
+447674,91,SavedShot,0.8809999847412109,0.525,0.06121574714779854,Anthony Losilla,h,9705,SetPiece,2021,Head,17643,Bochum,Borussia Dortmund,1,1,2021-12-11 14:30:00,Konstantinos Stafylidis,Cross
+447675,93,BlockedShot,0.924000015258789,0.6,0.019085364416241646,Anthony Losilla,h,9705,SetPiece,2021,Head,17643,Bochum,Borussia Dortmund,1,1,2021-12-11 14:30:00,Konstantinos Stafylidis,Aerial
+447651,17,SavedShot,0.845,0.49900001525878906,0.3466234803199768,Jude Bellingham,a,8824,OpenPlay,2021,RightFoot,17643,Bochum,Borussia Dortmund,1,1,2021-12-11 14:30:00,Erling Haaland,Pass
+447652,18,SavedShot,0.9580000305175781,0.46099998474121096,0.6155104041099548,Marco Reus,a,319,OpenPlay,2021,RightFoot,17643,Bochum,Borussia Dortmund,1,1,2021-12-11 14:30:00,,None
+447654,24,BlockedShot,0.8480000305175781,0.504000015258789,0.08962567150592804,Erling Haaland,a,8260,OpenPlay,2021,LeftFoot,17643,Bochum,Borussia Dortmund,1,1,2021-12-11 14:30:00,Nico Schulz,Pass
+447655,26,SavedShot,0.85,0.4520000076293945,0.35450056195259094,Erling Haaland,a,8260,OpenPlay,2021,LeftFoot,17643,Bochum,Borussia Dortmund,1,1,2021-12-11 14:30:00,Jude Bellingham,Throughball
+447657,37,BlockedShot,0.8580000305175781,0.46,0.10302035510540009,Marco Reus,a,319,OpenPlay,2021,LeftFoot,17643,Bochum,Borussia Dortmund,1,1,2021-12-11 14:30:00,Mahmoud Dahoud,Pass
+447659,50,MissedShots,0.8440000152587891,0.44299999237060544,0.06530943512916565,Erling Haaland,a,8260,OpenPlay,2021,RightFoot,17643,Bochum,Borussia Dortmund,1,1,2021-12-11 14:30:00,Jude Bellingham,Pass
+447660,51,BlockedShot,0.899000015258789,0.4279999923706055,0.10899293422698975,Jude Bellingham,a,8824,OpenPlay,2021,RightFoot,17643,Bochum,Borussia Dortmund,1,1,2021-12-11 14:30:00,Marco Reus,Pass
+447661,51,MissedShots,0.9490000152587891,0.42200000762939455,0.09741869568824768,Dan-Axel Zagadou,a,6103,FromCorner,2021,Head,17643,Bochum,Borussia Dortmund,1,1,2021-12-11 14:30:00,Mahmoud Dahoud,Cross
+447662,53,BlockedShot,0.8040000152587891,0.53,0.04245620593428612,Emre Can,a,604,OpenPlay,2021,RightFoot,17643,Bochum,Borussia Dortmund,1,1,2021-12-11 14:30:00,,None
+447663,61,BlockedShot,0.8180000305175781,0.5509999847412109,0.053016770631074905,Marius Wolf,a,2693,OpenPlay,2021,RightFoot,17643,Bochum,Borussia Dortmund,1,1,2021-12-11 14:30:00,Marco Reus,Pass
+447664,61,BlockedShot,0.91,0.6120000076293945,0.04687078669667244,Thomas Meunier,a,5680,FromCorner,2021,LeftFoot,17643,Bochum,Borussia Dortmund,1,1,2021-12-11 14:30:00,Mahmoud Dahoud,Cross
+447665,65,MissedShots,0.9330000305175781,0.5720000076293945,0.08697202801704407,Mats Hummels,a,373,FromCorner,2021,Head,17643,Bochum,Borussia Dortmund,1,1,2021-12-11 14:30:00,Mahmoud Dahoud,Cross
+447666,77,BlockedShot,0.92,0.5429999923706055,0.039943549782037735,Erling Haaland,a,8260,FromCorner,2021,Head,17643,Bochum,Borussia Dortmund,1,1,2021-12-11 14:30:00,Thorgan Hazard,Aerial
+447667,77,BlockedShot,0.870999984741211,0.4179999923706055,0.05577627196907997,Thomas Meunier,a,5680,FromCorner,2021,RightFoot,17643,Bochum,Borussia Dortmund,1,1,2021-12-11 14:30:00,Jude Bellingham,BallTouch
+447668,78,SavedShot,0.9259999847412109,0.38799999237060545,0.03402634710073471,Emre Can,a,604,FromCorner,2021,Head,17643,Bochum,Borussia Dortmund,1,1,2021-12-11 14:30:00,Marco Reus,Cross
+447669,81,SavedShot,0.7390000152587891,0.605,0.01966823823750019,Jude Bellingham,a,8824,OpenPlay,2021,RightFoot,17643,Bochum,Borussia Dortmund,1,1,2021-12-11 14:30:00,Marco Reus,Pass
+447670,82,MissedShots,0.8040000152587891,0.5129999923706055,0.042890384793281555,Jude Bellingham,a,8824,OpenPlay,2021,LeftFoot,17643,Bochum,Borussia Dortmund,1,1,2021-12-11 14:30:00,,None
+447671,84,Goal,0.9669999694824218,0.40700000762939453,0.3115045726299286,Julian Brandt,a,261,OpenPlay,2021,RightFoot,17643,Bochum,Borussia Dortmund,1,1,2021-12-11 14:30:00,Erling Haaland,Chipped
+447672,85,BlockedShot,0.924000015258789,0.37799999237060544,0.08153383433818817,Jude Bellingham,a,8824,OpenPlay,2021,RightFoot,17643,Bochum,Borussia Dortmund,1,1,2021-12-11 14:30:00,Marco Reus,Chipped
+447673,86,BlockedShot,0.840999984741211,0.5,0.08717948198318481,Jude Bellingham,a,8824,OpenPlay,2021,RightFoot,17643,Bochum,Borussia Dortmund,1,1,2021-12-11 14:30:00,Marco Reus,Pass
