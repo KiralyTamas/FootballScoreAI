@@ -1,0 +1,24 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+448391,35,ShotOnPost,0.9580000305175781,0.34200000762939453,0.08506444841623306,Gyrano Kerk,h,9946,OpenPlay,2021,RightFoot,16277,Lokomotiv Moscow,FC Ufa,2,0,2021-12-12 16:00:00,Kirill Zinovich,Pass
+448392,35,SavedShot,0.8869999694824219,0.6559999847412109,0.048207838088274,Dmitri Rybchinsky,h,7452,OpenPlay,2021,RightFoot,16277,Lokomotiv Moscow,FC Ufa,2,0,2021-12-12 16:00:00,,Rebound
+448393,46,SavedShot,0.78,0.7269999694824218,0.04716506600379944,Fedor Smolov,h,2925,DirectFreekick,2021,RightFoot,16277,Lokomotiv Moscow,FC Ufa,2,0,2021-12-12 16:00:00,,Standard
+448397,64,BlockedShot,0.884000015258789,0.5429999923706055,0.12186682969331741,Fedor Smolov,h,2925,OpenPlay,2021,RightFoot,16277,Lokomotiv Moscow,FC Ufa,2,0,2021-12-12 16:00:00,Dmitri Rybchinsky,Pass
+448398,64,MissedShots,0.9490000152587891,0.3029999923706055,0.03852522745728493,Gyrano Kerk,h,9946,OpenPlay,2021,RightFoot,16277,Lokomotiv Moscow,FC Ufa,2,0,2021-12-12 16:00:00,,Rebound
+448401,70,BlockedShot,0.865,0.7380000305175781,0.02761351317167282,Fedor Smolov,h,2925,OpenPlay,2021,RightFoot,16277,Lokomotiv Moscow,FC Ufa,2,0,2021-12-12 16:00:00,Nayair Tiknizyan,Pass
+448402,70,Goal,0.799000015258789,0.52,0.031514860689640045,Konstantin Maradishvili,h,7521,OpenPlay,2021,RightFoot,16277,Lokomotiv Moscow,FC Ufa,2,0,2021-12-12 16:00:00,,Rebound
+448403,72,SavedShot,0.9309999847412109,0.525,0.05416669696569443,Pablo,h,3265,FromCorner,2021,Head,16277,Lokomotiv Moscow,FC Ufa,2,0,2021-12-12 16:00:00,Maciej Rybus,Aerial
+448404,73,Goal,0.960999984741211,0.575,0.1524573266506195,Gyrano Kerk,h,9946,OpenPlay,2021,RightFoot,16277,Lokomotiv Moscow,FC Ufa,2,0,2021-12-12 16:00:00,Dmitri Rybchinsky,Pass
+448407,85,SavedShot,0.8569999694824219,0.6780000305175782,0.05211587995290756,Dmitri Rybchinsky,h,7452,OpenPlay,2021,RightFoot,16277,Lokomotiv Moscow,FC Ufa,2,0,2021-12-12 16:00:00,Maciej Rybus,BallRecovery
+448408,86,MissedShots,0.7859999847412109,0.335,0.01705448143184185,Konstantin Maradishvili,h,7521,FromCorner,2021,LeftFoot,16277,Lokomotiv Moscow,FC Ufa,2,0,2021-12-12 16:00:00,,None
+448387,9,MissedShots,0.7730000305175782,0.675,0.013893652707338333,Alexey Nikitin,a,2900,OpenPlay,2021,LeftFoot,16277,Lokomotiv Moscow,FC Ufa,2,0,2021-12-12 16:00:00,Ruslan Fischenko,HeadPass
+448388,11,SavedShot,0.92,0.519000015258789,0.11945216357707977,Yury Zhuravlev,a,3138,SetPiece,2021,Head,16277,Lokomotiv Moscow,FC Ufa,2,0,2021-12-12 16:00:00,Nemanja Miletic,Cross
+448389,21,SavedShot,0.750999984741211,0.4909999847412109,0.022395964711904526,Konstantin Pliev,a,6600,OpenPlay,2021,RightFoot,16277,Lokomotiv Moscow,FC Ufa,2,0,2021-12-12 16:00:00,,Dispossessed
+448390,21,SavedShot,0.9069999694824219,0.53,0.13694019615650177,Azer Aliev,a,6805,OpenPlay,2021,LeftFoot,16277,Lokomotiv Moscow,FC Ufa,2,0,2021-12-12 16:00:00,Filip Mrzljak,Pass
+448394,60,MissedShots,0.7759999847412109,0.43900001525878907,0.02154603786766529,Filip Mrzljak,a,9153,SetPiece,2021,LeftFoot,16277,Lokomotiv Moscow,FC Ufa,2,0,2021-12-12 16:00:00,,None
+448395,60,BlockedShot,0.815,0.5029999923706054,0.03806417062878609,Filip Mrzljak,a,9153,SetPiece,2021,RightFoot,16277,Lokomotiv Moscow,FC Ufa,2,0,2021-12-12 16:00:00,,Rebound
+448396,61,MissedShots,0.759000015258789,0.4159999847412109,0.018199598416686058,Filip Mrzljak,a,9153,FromCorner,2021,RightFoot,16277,Lokomotiv Moscow,FC Ufa,2,0,2021-12-12 16:00:00,Yury Zhuravlev,Pass
+448399,67,MissedShots,0.779000015258789,0.6630000305175782,0.021419595927000046,Nemanja Miletic,a,9375,OpenPlay,2021,LeftFoot,16277,Lokomotiv Moscow,FC Ufa,2,0,2021-12-12 16:00:00,Ruslan Fischenko,Pass
+448400,67,SavedShot,0.8969999694824219,0.6780000305175782,0.06270240992307663,Gamid Agalarov,a,6772,OpenPlay,2021,LeftFoot,16277,Lokomotiv Moscow,FC Ufa,2,0,2021-12-12 16:00:00,Filip Mrzljak,Pass
+448405,81,BlockedShot,0.7140000152587891,0.335,0.00961396936327219,Ruslan Fischenko,a,9596,OpenPlay,2021,RightFoot,16277,Lokomotiv Moscow,FC Ufa,2,0,2021-12-12 16:00:00,,BallRecovery
+448406,82,BlockedShot,0.9290000152587891,0.46900001525878904,0.049998536705970764,Alexey Nikitin,a,2900,FromCorner,2021,Head,16277,Lokomotiv Moscow,FC Ufa,2,0,2021-12-12 16:00:00,Nemanja Miletic,Aerial
+448409,91,SavedShot,0.9069999694824219,0.5279999923706055,0.3637664020061493,Gamid Agalarov,a,6772,OpenPlay,2021,LeftFoot,16277,Lokomotiv Moscow,FC Ufa,2,0,2021-12-12 16:00:00,Alexey Nikitin,TakeOn
