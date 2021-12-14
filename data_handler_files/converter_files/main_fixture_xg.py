@@ -77,7 +77,7 @@ def fixture_xg():
                         against_xg=against_team_row[-1][13]
                     xg_diff=float(home_xg)-float(against_xg)
                     xg_diff=("%.1f" % xg_diff)    
-                    with open(os.path.abspath("..\..\converted_csv_datas\main_result")+"\\main_result.csv","r") as result:
+                    with open(os.path.abspath("..\..\converted_csv_datas\main_result")+"\\main_xg_result.csv","r") as result:
                         result_table=csv.reader(result)
                         for row in result_table:
                             if xg_diff == row[13]:

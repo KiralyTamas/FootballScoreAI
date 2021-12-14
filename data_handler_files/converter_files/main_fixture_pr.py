@@ -87,7 +87,7 @@ def fixture_pr():
                         against_pr=against_team_row[-1][10]
                     pr_diff=float(home_pr)-float(against_pr)
                     pr_diff=("%.1f" % pr_diff)    
-                    with open(os.path.abspath("..\..\converted_csv_datas\main_result")+"\\main_result.csv","r") as result:
+                    with open(os.path.abspath("..\..\converted_csv_datas\main_result")+"\\main_pr_result.csv","r") as result:
                         result_table=csv.reader(result)
                         for row in result_table:
                             if pr_diff == row[10]:

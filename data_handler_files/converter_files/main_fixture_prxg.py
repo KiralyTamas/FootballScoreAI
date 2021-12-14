@@ -77,7 +77,7 @@ def fixture_prxg():
                         against_prxg=against_team_row[-1][16]
                     pr_diff=float(home_prxg)-float(against_prxg)
                     pr_diff=("%.1f" % pr_diff)    
-                    with open(os.path.abspath("..\..\converted_csv_datas\main_result")+"\\main_result.csv","r") as result:
+                    with open(os.path.abspath("..\..\converted_csv_datas\main_result")+"\\main_prxg_result.csv","r") as result:
                         result_table=csv.reader(result)
                         for row in result_table:
                             if pr_diff == row[16]:
