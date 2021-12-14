@@ -12,6 +12,8 @@ from data_handler_files.converter_files.convert_raw_data import convert as con
 async def main():
     async with aiohttp.ClientSession(connector=aiohttp.TCPConnector(ssl=False)) as session:
         raw_fixtures = os.path.abspath("raw_json_datas/fixtures")
+        if os.path.exists('raw_json_datas') == False:
+            os.mkdir('raw_json_datas')
         if os.path.exists(raw_fixtures) == False:
             os.mkdir(raw_fixtures)
         raw_tables = os.path.abspath("raw_json_datas/table/2021")
