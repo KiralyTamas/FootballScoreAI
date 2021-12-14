@@ -4,6 +4,7 @@ import csv
 from date_time_sorter import date_sorting
 from datetime import date as tdate
 from datetime import datetime
+from pr_percentage_collector import pr_per_col
 
 
 def fixture_prxg():

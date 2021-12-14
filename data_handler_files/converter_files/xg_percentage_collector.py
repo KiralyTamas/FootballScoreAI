@@ -1,8 +1,9 @@
 import csv
 import os
+from prxg_percentage_collector import prxg_per_col as prxg_col
 
-
-def per_col():
+def xg_per_col():
+    print("XG Százalék összegyüjtése")
     pr_diff = []
     checking_list=[]
     line_len=0
@@ -10,20 +11,19 @@ def per_col():
         ("..\..\converted_csv_datas\main_diff"))
     if os.path.exists(path)==False:
         os.mkdir(path)
-    diff_home_table = "\main_diff_home.csv"
-    diff_deal_table = "\main_diff_deal.csv"
-    diff_against_table = "\main_diff_against.csv"
-    
-    with open(os.path.abspath("..\..\converted_csv_datas\main_result")+"\\main_result.csv", "r") as file:
+    diff_home_table = "\main_xg_diff_home.csv"
+    diff_deal_table = "\main_xg_diff_deal.csv"
+    diff_against_table = "\main_xg_diff_against.csv"
+    with open(os.path.abspath("..\..\converted_csv_datas\main_result")+"\\main_xg_result.csv", "r") as file:
         file = csv.reader(file)
         for index, row in enumerate(file):
             fragment=[]
             if index == 0:
                 continue
-            fragment=[row[10],row[18],row[19],row[20]]
+            fragment=[row[13],row[18],row[19],row[20]]
             checking_list.append(fragment)
-            if float(row[10]) not in pr_diff:
-                pr_diff.append(float(row[10]))
+            if float(row[13]) not in pr_diff:
+                pr_diff.append(float(row[13]))
         pr_diff = sorted(pr_diff, key=lambda line: line, reverse=False)
     with open(path+diff_home_table,"w",newline='', encoding='utf-8')as file:
             csv_file=csv.DictWriter(file,dialect='excel', fieldnames=pr_diff)
@@ -82,4 +82,4 @@ def per_col():
         with open(path+diff_against_table,"a",newline='', encoding='utf-8')as file:
             csv_file=csv.writer(file)
             csv_file.writerow(finish_against_list)
-per_col()
+    prxg_col()

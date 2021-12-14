@@ -2,7 +2,7 @@ import pandas as pd    # Modulok meghívása
 import os
 import csv
 from calculater import calculate as cal
-from percentage_calculate import percentage_calculate as per_cal
+from pr_percentage_calculate import percentage_calculate as per_cal
 
 # A csapatok mappájának abszolúlt elérési útvonala
 final_path = os.path.abspath("..\..\converted_csv_datas\\teams")
