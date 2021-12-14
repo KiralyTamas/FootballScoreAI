@@ -1,9 +1,9 @@
 import csv
 import os
-from xg_percentage_collector import xg_per_col as xg_col
 
-def pr_per_col():
-    print("PR Százalék összegyüjtése")
+
+def prxg_per_col():
+    print("PRXG Százalék összegyüjtése")
     pr_diff = []
     checking_list=[]
     line_len=0
@@ -11,19 +11,19 @@ def pr_per_col():
         ("..\..\converted_csv_datas\main_diff"))
     if os.path.exists(path)==False:
         os.mkdir(path)
-    diff_home_table = "\main_pr_diff_home.csv"
-    diff_deal_table = "\main_pr_diff_deal.csv"
-    diff_against_table = "\main_pr_diff_against.csv"
-    with open(os.path.abspath("..\..\converted_csv_datas\main_result")+"\\main_pr_result.csv", "r") as file:
+    diff_home_table = "\main_prxg_diff_home.csv"
+    diff_deal_table = "\main_prxg_diff_deal.csv"
+    diff_against_table = "\main_prxg_diff_against.csv"
+    with open(os.path.abspath("..\..\converted_csv_datas\main_result")+"\\main_prxg_result.csv", "r") as file:
         file = csv.reader(file)
         for index, row in enumerate(file):
             fragment=[]
             if index == 0:
                 continue
-            fragment=[row[10],row[18],row[19],row[20]]
+            fragment=[row[16],row[18],row[19],row[20]]
             checking_list.append(fragment)
-            if float(row[10]) not in pr_diff:
-                pr_diff.append(float(row[10]))
+            if float(row[16]) not in pr_diff:
+                pr_diff.append(float(row[16]))
         pr_diff = sorted(pr_diff, key=lambda line: line, reverse=False)
     with open(path+diff_home_table,"w",newline='', encoding='utf-8')as file:
             csv_file=csv.DictWriter(file,dialect='excel', fieldnames=pr_diff)
@@ -82,4 +82,3 @@ def pr_per_col():
         with open(path+diff_against_table,"a",newline='', encoding='utf-8')as file:
             csv_file=csv.writer(file)
             csv_file.writerow(finish_against_list)
-    xg_col()

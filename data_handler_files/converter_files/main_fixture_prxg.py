@@ -101,4 +101,3 @@ def fixture_prxg():
                         file=csv.writer(file, dialect='excel')
                         file.writerow(fixture_row)
     date_sorting("..\..\converted_csv_datas\main_fixture\\main_fixture_prxg.csv")
-    pr_per_col()
