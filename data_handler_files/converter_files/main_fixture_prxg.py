@@ -4,6 +4,7 @@ import csv
 from date_time_sorter import date_sorting
 from datetime import date as tdate
 from datetime import datetime
+from pr_percentage_collector import pr_per_col
 
 
 def fixture_prxg():
@@ -100,3 +101,4 @@ def fixture_prxg():
                         file=csv.writer(file, dialect='excel')
                         file.writerow(fixture_row)
     date_sorting("..\..\converted_csv_datas\main_fixture\\main_fixture_prxg.csv")
+    pr_per_col()

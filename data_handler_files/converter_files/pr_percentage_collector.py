@@ -2,7 +2,8 @@ import csv
 import os
 
 
-def per_col():
+def pr_per_col():
+    print("PR Százalék összegyüjtése")
     pr_diff = []
     checking_list=[]
     line_len=0
@@ -10,9 +11,9 @@ def per_col():
         ("..\..\converted_csv_datas\main_diff"))
     if os.path.exists(path)==False:
         os.mkdir(path)
-    diff_home_table = "\main_diff_home.csv"
-    diff_deal_table = "\main_diff_deal.csv"
-    diff_against_table = "\main_diff_against.csv"
+    diff_home_table = "\main_pr_diff_home.csv"
+    diff_deal_table = "\main_pr_diff_deal.csv"
+    diff_against_table = "\main_pr_diff_against.csv"
     
     with open(os.path.abspath("..\..\converted_csv_datas\main_result")+"\\main_result.csv", "r") as file:
         file = csv.reader(file)
@@ -82,4 +83,3 @@ def per_col():
         with open(path+diff_against_table,"a",newline='', encoding='utf-8')as file:
             csv_file=csv.writer(file)
             csv_file.writerow(finish_against_list)
-per_col()
