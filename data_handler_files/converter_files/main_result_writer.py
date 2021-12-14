@@ -10,7 +10,7 @@ final_path = os.path.abspath("..\..\converted_csv_datas\\teams")
 start_path = os.path.abspath("..\..\converted_csv_datas\csv_result")
 
 
-def create_team_csv():  # Függvény kezdete
+def create_team_csv(info):  # Függvény kezdete
     result_header = ["Dátum", "Meccs-Id", "Hazai-Csapat", "Ellenfél-Csapat",  # A main_result és a csapat_csv-k fejlécének elnevezései
                      "Hazai-Gól", "Ellenfél-Gól", "Hazai-XG", "Ellenfél-XG",
                      "Hazai-PR", "Ellenfél-PR", "PR-diff", "Hazai-xgPR", "Ellenfél-xgPR",
@@ -19,11 +19,10 @@ def create_team_csv():  # Függvény kezdete
     team_header = ["Dátum", "Meccs-Id", "Fő-Csapat", "Ellenfél-Csapat", "Hazai-Gól",
                    "Ellenfél-Gól", "Hazai-XG", "Ellenfél-XG", "Ellenfél-PR", "Meccs-Előtti-PR", "Meccs-Utáni-PR", "Vendég-xgPR", "Meccs-Előtti-xgPR",
                    "Meccs-Utáni-xgPR", "Vendég-Mixed_PR", "Meccs-Előtti-Mixed_PR", "Meccs-Utáni-Mixed_PR"]
-
     f = []  # A "h" tárolja a mappa útvonalakat, az "f" a mappákban lévő fájlok neveit
     g = []
     path = []
-    season=input("Add meg a konvertálni kívánt szezon évszámát: ")
+    #season=input("Add meg a konvertálni kívánt szezon évszámát: ")
     # Az os.walk iterál végig a csv_result mappa almappáin és az azokban lévő fájlokon.
     for (dirpath, dirnames, filenames) in os.walk(start_path):
         f.extend(filenames)
@@ -32,7 +31,7 @@ def create_team_csv():  # Függvény kezdete
     # Az első "for" a mappákon iterál végig, a második "for" a mappákban lévő fájlokon.
     for dir_results in g:
         for file in f:
-            if str(season) not in file:
+            if str(info) not in file:
                 continue
             print(file)
             try:
@@ -143,4 +142,4 @@ def create_team_csv():  # Függvény kezdete
     per_cal("..\..\converted_csv_datas\main_result\\main_result.csv",result_header)
 
 
-create_team_csv()
+
