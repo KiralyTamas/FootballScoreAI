@@ -1,6 +1,6 @@
 import csv
 import os
-from xg_percentage_collector import xg_per_col as xg_col
+from data_handler_files.converter_files.xg_percentage_collector import xg_per_col as xg_col
 
 def pr_per_col():
     print("PR Százalék összegyüjtése")
@@ -8,13 +8,13 @@ def pr_per_col():
     checking_list=[]
     line_len=0
     path=os.path.abspath(
-        ("..\..\converted_csv_datas\main_diff"))
+        ("converted_csv_datas\main_diff"))
     if os.path.exists(path)==False:
         os.mkdir(path)
     diff_home_table = "\main_pr_diff_home.csv"
     diff_deal_table = "\main_pr_diff_deal.csv"
     diff_against_table = "\main_pr_diff_against.csv"
-    with open(os.path.abspath("..\..\converted_csv_datas\main_result")+"\\main_pr_result.csv", "r") as file:
+    with open(os.path.abspath("converted_csv_datas\main_result")+"\\main_pr_result.csv", "r") as file:
         file = csv.reader(file)
         for index, row in enumerate(file):
             fragment=[]

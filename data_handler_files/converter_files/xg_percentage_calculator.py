@@ -1,14 +1,14 @@
 import pandas as pd
 import os
 import csv
-from prxg_percentage_calculator import prxg_percentage_calculate as prxg_calculate
+from data_handler_files.converter_files.prxg_percentage_calculator import prxg_percentage_calculate as prxg_calculate
 
 
 def xg_percentage_calculate(header):
     print("xg_percentage_calculate")
     main_list=[]
     calculated_list=[]
-    with open((os.path.abspath("..\..\converted_csv_datas\main_result")+"\\main_xg_result.csv"), "r", encoding='utf-8') as file:
+    with open((os.path.abspath("converted_csv_datas\main_result")+"\\main_xg_result.csv"), "r", encoding='utf-8') as file:
         file = csv.reader(file)
         row_list = []
         for row in file:
@@ -190,10 +190,10 @@ def xg_percentage_calculate(header):
                     row.insert(29, i[29])
                     calculated_list.append(row)
     poped=calculated_list.pop(0)
-    with open(os.path.abspath("..\..\converted_csv_datas\main_result")+"\\main_xg_result.csv", "w", newline='', encoding='utf-8') as file:
+    with open(os.path.abspath("converted_csv_datas\main_result")+"\\main_xg_result.csv", "w", newline='', encoding='utf-8') as file:
         new_file = csv.DictWriter(file, dialect='excel',fieldnames=header)
         new_file.writeheader()
-    with open(os.path.abspath("..\..\converted_csv_datas\main_result")+"\\main_xg_result.csv", "a", newline='', encoding='utf-8') as file:
+    with open(os.path.abspath("converted_csv_datas\main_result")+"\\main_xg_result.csv", "a", newline='', encoding='utf-8') as file:
         new_file = csv.writer(file, dialect='excel')
         new_file.writerows(calculated_list)
     prxg_calculate(header)
