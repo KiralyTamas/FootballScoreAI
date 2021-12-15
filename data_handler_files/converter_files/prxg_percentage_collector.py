@@ -8,13 +8,13 @@ def prxg_per_col():
     checking_list=[]
     line_len=0
     path=os.path.abspath(
-        ("..\..\converted_csv_datas\main_diff"))
+        ("converted_csv_datas\main_diff"))
     if os.path.exists(path)==False:
         os.mkdir(path)
     diff_home_table = "\main_prxg_diff_home.csv"
     diff_deal_table = "\main_prxg_diff_deal.csv"
     diff_against_table = "\main_prxg_diff_against.csv"
-    with open(os.path.abspath("..\..\converted_csv_datas\main_result")+"\\main_prxg_result.csv", "r") as file:
+    with open(os.path.abspath("converted_csv_datas\main_result")+"\\main_prxg_result.csv", "r") as file:
         file = csv.reader(file)
         for index, row in enumerate(file):
             fragment=[]

@@ -1,13 +1,13 @@
 import pandas as pd    # Modulok meghívása
 import os
 import csv
-from calculater import calculate as cal
-from pr_percentage_calculate import percentage_calculate as per_cal
+from data_handler_files.converter_files.calculater import calculate as cal
+from data_handler_files.converter_files.pr_percentage_calculate import percentage_calculate as per_cal
 
 # A csapatok mappájának abszolúlt elérési útvonala
-final_path = os.path.abspath("..\..\converted_csv_datas\\teams")
+final_path = os.path.abspath("converted_csv_datas\\teams")
 # Itt kérdezi meg a terminálban az útvonalat, a csv_result mappát kell belehúzni a terminálba.
-start_path = os.path.abspath("..\..\converted_csv_datas\csv_result")
+start_path = os.path.abspath("converted_csv_datas\csv_result")
 
 
 def create_team_csv(info):  # Függvény kezdete
@@ -43,9 +43,9 @@ def create_team_csv(info):  # Függvény kezdete
                         # Minden fájlban van fejléc. Az új fájl 0-adik indexén a fejléc van.
                         if row_index == 0:
                             # Ha ennél a sornál jár az iteráció, megvizsgálja, hogy létezik-e a main_result csv fájl.
-                            if os.path.exists(os.path.abspath("..\..\converted_csv_datas\main_result")+"\\main_result.csv") == False:
+                            if os.path.exists(os.path.abspath("converted_csv_datas\main_result")+"\\main_result.csv") == False:
                                 # Ha létezik, akkor szimplán átugorja ezt az iterált sort. Ha nem, akkor létrehozza a fájlt és beírja
-                                with open(os.path.abspath("..\..\converted_csv_datas\main_result")+"\\main_result.csv", "w", newline='', encoding="utf-8") as main:
+                                with open(os.path.abspath("converted_csv_datas\main_result")+"\\main_result.csv", "w", newline='', encoding="utf-8") as main:
                                     # Az előzőleg a result_header változóba eltárolt fejlecet.
                                     main_list = csv.writer(main, dialect='excel')
                                     main_list.writerow(result_header)
@@ -106,7 +106,7 @@ def create_team_csv(info):  # Függvény kezdete
                             against_data = [date, math_id,"(H) " +teams[0],
                                             "(V) "+teams[1], score_h,score_a, xg[1], xg[0], datas[0], datas[1], new_apr,
                                             datas[2], datas[3], new_axg, datas[4], datas[5], new_aprxg]
-                            with open(os.path.abspath("..\..\converted_csv_datas\main_result")+"\\main_result.csv", "r") as read_main:
+                            with open(os.path.abspath("converted_csv_datas\main_result")+"\\main_result.csv", "r") as read_main:
                                 read_main = csv.reader(read_main)
                                 list_id = []
                                 for index, i in enumerate(read_main):
@@ -116,7 +116,7 @@ def create_team_csv(info):  # Függvény kezdete
                                 if int(main_result[1]) in list_id:
                                     continue
                                 else:
-                                    with open(os.path.abspath("..\..\converted_csv_datas\main_result")+"\\main_result.csv", "a", newline='', encoding="utf-8")as main:
+                                    with open(os.path.abspath("converted_csv_datas\main_result")+"\\main_result.csv", "a", newline='', encoding="utf-8")as main:
                                         main = csv.writer(main, dialect='excel')
                                         main.writerow(main_result)
                                 with open(final_path+"\\"+teams[0]+".csv", "r", newline='', encoding="utf-8") as home_csv_old:
@@ -139,7 +139,7 @@ def create_team_csv(info):  # Függvény kezdete
                                             against_table.writerow(against_data)
             except FileNotFoundError:
                 continue
-    per_cal("..\..\converted_csv_datas\main_result\\main_result.csv",result_header)
+    per_cal("converted_csv_datas\main_result\\main_result.csv",result_header)
 
 
 
