@@ -19,11 +19,11 @@ def start():
             info = values['-INPUT-']
             from data_handler_files.converter_files.main_result_writer import create_team_csv as csv
             csv(info)
-        if event == sg.WINDOW_CLOSED or event == 'Lekérdezések':
-            from data_handler_files.requester_files import all_request as request
-            request()
-        # Output a message to the window
         window['-OUTPUT-'].update("Táblázatok elkészítve.")
+        if event == sg.WINDOW_CLOSED or event == 'Lekérdezések':
+            import data_handler_files.requester_files.all_request
+        # Output a message to the window
+        window['-OUTPUT-'].update("Minden meccs lekérve az Understet.com szerveréről.")
         if event == sg.WINDOW_CLOSED or event == 'Quit':
             break
 
