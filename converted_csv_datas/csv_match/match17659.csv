@@ -1,0 +1,21 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+448976,2,MissedShots,0.870999984741211,0.7,0.04324417933821678,Thorgan Hazard,h,213,OpenPlay,2021,RightFoot,17659,Borussia Dortmund,Greuther Fuerth,3,0,2021-12-15 19:30:00,,None
+448979,29,BlockedShot,0.895,0.385,0.06146010383963585,Erling Haaland,h,8260,OpenPlay,2021,RightFoot,17659,Borussia Dortmund,Greuther Fuerth,3,0,2021-12-15 19:30:00,Thomas Meunier,Cross
+448980,32,Goal,0.885,0.5,0.75777667760849,Erling Haaland,h,8260,Penalty,2021,LeftFoot,17659,Borussia Dortmund,Greuther Fuerth,3,0,2021-12-15 19:30:00,,Standard
+448981,35,SavedShot,0.91,0.34900001525878904,0.13323789834976196,Marco Reus,h,319,OpenPlay,2021,RightFoot,17659,Borussia Dortmund,Greuther Fuerth,3,0,2021-12-15 19:30:00,Julian Brandt,Throughball
+448982,35,MissedShots,0.8819999694824219,0.43900001525878907,0.11630372703075409,Erling Haaland,h,8260,OpenPlay,2021,LeftFoot,17659,Borussia Dortmund,Greuther Fuerth,3,0,2021-12-15 19:30:00,,Rebound
+448985,43,SavedShot,0.769000015258789,0.37599998474121094,0.07137884199619293,Marco Reus,h,319,DirectFreekick,2021,RightFoot,17659,Borussia Dortmund,Greuther Fuerth,3,0,2021-12-15 19:30:00,,Standard
+448986,44,BlockedShot,0.7709999847412109,0.725999984741211,0.023691430687904358,Thorgan Hazard,h,213,OpenPlay,2021,RightFoot,17659,Borussia Dortmund,Greuther Fuerth,3,0,2021-12-15 19:30:00,Jude Bellingham,Pass
+448987,57,BlockedShot,0.8569999694824219,0.5670000076293945,0.06989895552396774,Erling Haaland,h,8260,OpenPlay,2021,RightFoot,17659,Borussia Dortmund,Greuther Fuerth,3,0,2021-12-15 19:30:00,Thomas Meunier,Cross
+448988,57,BlockedShot,0.7630000305175781,0.40299999237060546,0.022690042853355408,Mahmoud Dahoud,h,205,OpenPlay,2021,RightFoot,17659,Borussia Dortmund,Greuther Fuerth,3,0,2021-12-15 19:30:00,,Rebound
+448992,77,BlockedShot,0.91,0.4929999923706055,0.1134941503405571,Mats Hummels,h,373,FromCorner,2021,RightFoot,17659,Borussia Dortmund,Greuther Fuerth,3,0,2021-12-15 19:30:00,Emre Can,HeadPass
+448993,81,Goal,0.8830000305175781,0.500999984741211,0.06918908655643463,Erling Haaland,h,8260,SetPiece,2021,Head,17659,Borussia Dortmund,Greuther Fuerth,3,0,2021-12-15 19:30:00,Julian Brandt,Cross
+448994,88,Goal,0.9519999694824218,0.5779999923706055,0.45043817162513733,Donyell Malen,h,9749,OpenPlay,2021,RightFoot,17659,Borussia Dortmund,Greuther Fuerth,3,0,2021-12-15 19:30:00,Julian Brandt,Cross
+448977,13,MissedShots,0.88,0.4590000152587891,0.09045494347810745,Jamie Leweling,a,9718,OpenPlay,2021,RightFoot,17659,Borussia Dortmund,Greuther Fuerth,3,0,2021-12-15 19:30:00,Jetro Willems,Chipped
+448978,27,SavedShot,0.9430000305175781,0.23700000762939452,0.03352032229304314,Paul Seguin,a,2625,FromCorner,2021,RightFoot,17659,Borussia Dortmund,Greuther Fuerth,3,0,2021-12-15 19:30:00,Jeremy Dudziak,TakeOn
+448983,37,MissedShots,0.84,0.3220000076293945,0.057518720626831055,Cedric Itten,a,9954,OpenPlay,2021,RightFoot,17659,Borussia Dortmund,Greuther Fuerth,3,0,2021-12-15 19:30:00,Jamie Leweling,Pass
+448984,41,MissedShots,0.78,0.6659999847412109,0.06906500458717346,Paul Seguin,a,2625,DirectFreekick,2021,RightFoot,17659,Borussia Dortmund,Greuther Fuerth,3,0,2021-12-15 19:30:00,,Standard
+448989,61,MissedShots,0.9230000305175782,0.40200000762939453,0.0729808509349823,Jamie Leweling,a,9718,OpenPlay,2021,RightFoot,17659,Borussia Dortmund,Greuther Fuerth,3,0,2021-12-15 19:30:00,Jeremy Dudziak,Cross
+448990,67,BlockedShot,0.8830000305175781,0.7419999694824219,0.031173402443528175,Branimir Hrgota,a,216,OpenPlay,2021,LeftFoot,17659,Borussia Dortmund,Greuther Fuerth,3,0,2021-12-15 19:30:00,,BallRecovery
+448991,70,MissedShots,0.8590000152587891,0.6229999923706054,0.013492182828485966,Maximilian Bauer,a,9716,SetPiece,2021,Head,17659,Borussia Dortmund,Greuther Fuerth,3,0,2021-12-15 19:30:00,,None
+448995,91,MissedShots,0.8619999694824219,0.44599998474121094,0.010818853974342346,Paul Seguin,a,2625,SetPiece,2021,Head,17659,Borussia Dortmund,Greuther Fuerth,3,0,2021-12-15 19:30:00,Gian-Luca Itter,Aerial
