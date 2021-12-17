@@ -16,7 +16,7 @@ def create_team_csv(info):  # Függvény kezdete
                      "Hazai-PR", "Ellenfél-PR", "PR-diff", "Hazai-xgPR", "Ellenfél-xgPR",
                      "XG-diff", "Hazai-Mixed-PR", "Ellenfél-Mixed-PR", "Mixed-PR-diff", "PR-diff-darabszám", "H%", "D%", "A%", "Több mint 3", "3", "2", "1", "0", "-1", "-2", "-3", "Több mint -3", "ForeCast-W",
                      "ForeCast-D", "ForeCast-A"]
-    team_header = ["Dátum", "Meccs-Id", "Fő-Csapat", "Ellenfél-Csapat", "Hazai-Gól",
+    team_header = ["Dátum", "Meccs-Id", "Hazai-Csapat", "Vendég-Csapat", "Hazai-Gól",
                    "Ellenfél-Gól", "Hazai-XG", "Ellenfél-XG", "Ellenfél-PR", "Meccs-Előtti-PR", "Meccs-Utáni-PR", "Vendég-xgPR", "Meccs-Előtti-xgPR",
                    "Meccs-Utáni-xgPR", "Vendég-Mixed_PR", "Meccs-Előtti-Mixed_PR", "Meccs-Utáni-Mixed_PR"]
     f = []  # A "h" tárolja a mappa útvonalakat, az "f" a mappákban lévő fájlok neveit
