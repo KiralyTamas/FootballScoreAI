@@ -13,15 +13,17 @@ def make_json():
         file_names.extend(filenames)
         dir_names.extend(dirnames)
         dir_path.append(dirpath)
-    print(dir_path)
-    print(file_names)
     data = {}
     for file in file_names:
         with open(start_path+"\\"+file, encoding='utf-8') as csvf:
             csvReader = csv.DictReader(csvf)
             for index,rows in enumerate(csvReader):
-                key = index+1
-                data[key] = rows
+                row={}
+                key = rows['Dátum'][:10]
+                if rows['Dátum'][:10]==key:
+                    
+                    data[key]
+                data[key]=rows
         if os.path.exists(os.path.abspath("..\..\converted_json_datas"))==False:
             os.mkdir(os.path.abspath("..\..\converted_json_datas"))
         if os.path.exists(finish_path)==False:
