@@ -1,0 +1,25 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+449547,5,SavedShot,0.909000015258789,0.6079999923706054,0.11332868784666061,Jurgen Ekkelenkamp,h,9993,OpenPlay,2021,LeftFoot,17663,Hertha Berlin,Borussia Dortmund,3,2,2021-12-18 17:30:00,Ishak Belfodil,Pass
+449548,6,MissedShots,0.7559999847412109,0.3509999847412109,0.015702219679951668,Vladimir Darida,h,27,FromCorner,2021,RightFoot,17663,Hertha Berlin,Borussia Dortmund,3,2,2021-12-18 17:30:00,,None
+449549,6,BlockedShot,0.825,0.6129999923706054,0.05417805165052414,Santiago Ascacibar,h,6289,OpenPlay,2021,RightFoot,17663,Hertha Berlin,Borussia Dortmund,3,2,2021-12-18 17:30:00,Jurgen Ekkelenkamp,Pass
+449553,14,MissedShots,0.9259999847412109,0.49700000762939456,0.5434535145759583,Jurgen Ekkelenkamp,h,9993,SetPiece,2021,RightFoot,17663,Hertha Berlin,Borussia Dortmund,3,2,2021-12-18 17:30:00,,None
+449555,22,MissedShots,0.8580000305175781,0.6790000152587891,0.05007050558924675,Ishak Belfodil,h,3834,SetPiece,2021,RightFoot,17663,Hertha Berlin,Borussia Dortmund,3,2,2021-12-18 17:30:00,Vladimir Darida,Chipped
+449557,38,MissedShots,0.9340000152587891,0.6630000305175782,0.06359962373971939,Jordan Torunarigha,h,5238,SetPiece,2021,LeftFoot,17663,Hertha Berlin,Borussia Dortmund,3,2,2021-12-18 17:30:00,Vladimir Darida,Chipped
+449559,46,BlockedShot,0.7630000305175781,0.5970000076293945,0.02091379091143608,Jurgen Ekkelenkamp,h,9993,OpenPlay,2021,RightFoot,17663,Hertha Berlin,Borussia Dortmund,3,2,2021-12-18 17:30:00,Jordan Torunarigha,BallTouch
+449560,50,Goal,0.955999984741211,0.6509999847412109,0.24135427176952362,Ishak Belfodil,h,3834,OpenPlay,2021,RightFoot,17663,Hertha Berlin,Borussia Dortmund,3,2,2021-12-18 17:30:00,Vladimir Darida,Chipped
+449562,56,Goal,0.8280000305175781,0.32599998474121095,0.0382886566221714,Marco Richter,h,6357,OpenPlay,2021,RightFoot,17663,Hertha Berlin,Borussia Dortmund,3,2,2021-12-18 17:30:00,Myziane Maolida,Pass
+449564,67,MissedShots,0.8030000305175782,0.61,0.05097666382789612,Marco Richter,h,6357,OpenPlay,2021,LeftFoot,17663,Hertha Berlin,Borussia Dortmund,3,2,2021-12-18 17:30:00,Maximilian Mittelstädt,Pass
+449565,68,SavedShot,0.879000015258789,0.4329999923706055,0.3108857572078705,Ishak Belfodil,h,3834,OpenPlay,2021,RightFoot,17663,Hertha Berlin,Borussia Dortmund,3,2,2021-12-18 17:30:00,Jurgen Ekkelenkamp,Chipped
+449566,68,Goal,0.8630000305175781,0.4209999847412109,0.09015905112028122,Marco Richter,h,6357,OpenPlay,2021,LeftFoot,17663,Hertha Berlin,Borussia Dortmund,3,2,2021-12-18 17:30:00,,Rebound
+449570,95,BlockedShot,0.730999984741211,0.5920000076293945,0.05146122723817825,Marvin Plattenhardt,h,23,DirectFreekick,2021,LeftFoot,17663,Hertha Berlin,Borussia Dortmund,3,2,2021-12-18 17:30:00,,Standard
+449550,8,MissedShots,0.9890000152587891,0.35700000762939454,0.061193857342004776,Thomas Meunier,a,5680,OpenPlay,2021,LeftFoot,17663,Hertha Berlin,Borussia Dortmund,3,2,2021-12-18 17:30:00,,None
+449551,10,SavedShot,0.9080000305175782,0.43,0.38805001974105835,Marco Reus,a,319,OpenPlay,2021,RightFoot,17663,Hertha Berlin,Borussia Dortmund,3,2,2021-12-18 17:30:00,Thomas Meunier,Throughball
+449552,12,MissedShots,0.9030000305175782,0.51,0.41973862051963806,Marco Reus,a,319,OpenPlay,2021,Head,17663,Hertha Berlin,Borussia Dortmund,3,2,2021-12-18 17:30:00,Thomas Meunier,Aerial
+449554,20,MissedShots,0.81,0.629000015258789,0.03862469270825386,Mahmoud Dahoud,a,205,OpenPlay,2021,RightFoot,17663,Hertha Berlin,Borussia Dortmund,3,2,2021-12-18 17:30:00,Julian Brandt,Pass
+449556,30,Goal,0.9430000305175781,0.6580000305175782,0.07458549737930298,Julian Brandt,a,261,OpenPlay,2021,LeftFoot,17663,Hertha Berlin,Borussia Dortmund,3,2,2021-12-18 17:30:00,,BallTouch
+449558,42,BlockedShot,0.8530000305175781,0.485,0.01997200772166252,Thomas Meunier,a,5680,FromCorner,2021,Head,17663,Hertha Berlin,Borussia Dortmund,3,2,2021-12-18 17:30:00,,OffsidePass
+449561,55,SavedShot,0.9430000305175781,0.7140000152587891,0.0465867780148983,Nico Schulz,a,433,OpenPlay,2021,LeftFoot,17663,Hertha Berlin,Borussia Dortmund,3,2,2021-12-18 17:30:00,,None
+449563,65,MissedShots,0.8719999694824219,0.46900001525878904,0.3840837776660919,Mahmoud Dahoud,a,205,OpenPlay,2021,LeftFoot,17663,Hertha Berlin,Borussia Dortmund,3,2,2021-12-18 17:30:00,Donyell Malen,Pass
+449567,82,Goal,0.9059999847412109,0.475,0.08299506455659866,Steffen Tigges,a,9227,FromCorner,2021,Head,17663,Hertha Berlin,Borussia Dortmund,3,2,2021-12-18 17:30:00,Raphael Guerreiro,Cross
+449568,86,MissedShots,0.9119999694824219,0.44799999237060545,0.038555290549993515,Erling Haaland,a,8260,FromCorner,2021,OtherBodyPart,17663,Hertha Berlin,Borussia Dortmund,3,2,2021-12-18 17:30:00,Raphael Guerreiro,Aerial
+449569,89,BlockedShot,0.7859999847412109,0.3039999961853027,0.01823265105485916,Marius Wolf,a,2693,OpenPlay,2021,LeftFoot,17663,Hertha Berlin,Borussia Dortmund,3,2,2021-12-18 17:30:00,,BallTouch
