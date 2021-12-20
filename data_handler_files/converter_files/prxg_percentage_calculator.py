@@ -1,13 +1,16 @@
 import pandas as pd
 import os
 import csv
+from data_handler_files.converter_files.date_time_sorter import date_sorting as date
 from data_handler_files.converter_files.main_fixture_pr import fixture_pr as pr
 from data_handler_files.converter_files.pr_percentage_collector import pr_per_col as pr_col
 
-def prxg_percentage_calculate(header):
+def prxg_percentage_calculate(header,main_result):
     print("prxg_percentage_calculate")
+    main_result_list=date(main_result)
     main_list=[]
     calculated_list=[]
+    id_list=[]
     with open((os.path.abspath("converted_csv_datas\main_result")+"\\main_prxg_result.csv"), "r", encoding='utf-8') as file:
         file = csv.reader(file)
         row_list = []
@@ -15,7 +18,11 @@ def prxg_percentage_calculate(header):
             main_list.append(row)
     for row in main_list:
         if row[20] != "-":
+            id_list.append(row[1])
             calculated_list.append(row)
+    for row_id in main_result_list:
+        if row_id[1] not in id_list:
+            main_list.append(row_id)
     for row in main_list[len(calculated_list):]:
         count = 0
         home_count = 0

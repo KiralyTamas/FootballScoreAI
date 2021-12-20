@@ -7,9 +7,10 @@ from data_handler_files.converter_files.xg_percentage_calculator import xg_perce
 
 def percentage_calculate(main_result,header):
     print("pr_percentage_calculate")
-    date(main_result)
+    main_result_list=date(main_result)
     main_list=[]
     calculated_list=[]
+    id_list=[]
     with open((os.path.abspath("converted_csv_datas\main_result")+"\\main_pr_result.csv"), "r", encoding='utf-8') as file:
         file = csv.reader(file)
         row_list = []
@@ -17,7 +18,11 @@ def percentage_calculate(main_result,header):
             main_list.append(row)
     for row in main_list:
         if row[20] != "-":
+            id_list.append(row[1])
             calculated_list.append(row)
+    for row_id in main_result_list:
+        if row_id[1] not in id_list:
+            main_list.append(row_id)
     for row in main_list[len(calculated_list):]:
         count = 0
         home_count = 0
@@ -198,4 +203,4 @@ def percentage_calculate(main_result,header):
     with open(os.path.abspath("converted_csv_datas\main_result")+"\\main_pr_result.csv", "a", newline='', encoding='utf-8') as file:
         new_file = csv.writer(file, dialect='excel')
         new_file.writerows(calculated_list)
-    xg_calculate(header)
+    xg_calculate(header,main_result)

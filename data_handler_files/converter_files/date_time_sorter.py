@@ -15,5 +15,6 @@ def date_sorting(path):
         with open(os.path.abspath(path), "w", newline='', encoding="utf-8") as data:
             data = csv.writer(data, dialect='excel')
             data.writerows(list_correct)
+            return(list_correct)
     except FileNotFoundError:
         print('')
