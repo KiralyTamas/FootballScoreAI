@@ -36,7 +36,7 @@ def last_10():
                     counter_score+=int(row[3])
             space=["",""]
             team_info=[]
-            average_score=["Utolsó 10 mérkőzés szerzett góljai:",str(score)+":"+str(10),"Utolsó 10 mérkőzés kapott góljai:",str(counter_score)+":"+str(10)]
+            average_score=["Utolsó 10 meccsen szerzett góljai:",str(score)+":"+str(10),"Utolsó 10 meccsen kapott góljai:",str(counter_score)+":"+str(10)]
             score_per_match=["Meccsenkénti átlag szerzett gólok:",str(int(score)/10),"Meccsenkénti átlag kapott gólok:",str(int(counter_score)/10)]
             team_info.append(space)
             team_info.append(average_score)
