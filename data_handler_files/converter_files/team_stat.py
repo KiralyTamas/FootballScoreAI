@@ -1,8 +1,10 @@
 import csv
 import os
+from data_handler_files.converter_files.next_mach_before import next_match as nx
 
 
 def last_10():
+    print("Utolsó 10 mérkőzés eredményének kilistázása.")
     header=["Dátum","Meccs-ID","Hazai-Csapat","Hazai-Gól","Vendég-Gól","Vendég csapat"]
     start_path = os.path.abspath("converted_csv_datas/teams")
     final_path = os.path.abspath("converted_csv_datas/team_stat")
@@ -48,5 +50,4 @@ def last_10():
             csv_file=csv.writer(file)
             csv_file.writerows(team_list)
             csv_file.writerows(team_info)
-
-last_10()
+    nx()

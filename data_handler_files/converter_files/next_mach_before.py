@@ -3,6 +3,7 @@ import csv
 
 
 def next_match():
+    print("Egymás elleni elmúlt 5 mérkőzés kigyüjtése.")
     main_fixture_pr = []
     space = ["", ""]
     with open(os.path.abspath("converted_csv_datas\main_fixture\main_fixture_pr.csv"), "r") as fixture_file:
@@ -42,5 +43,3 @@ def next_match():
                     with open(os.path.abspath("converted_csv_datas\\team_stat\\"+str(row[3])+".csv"), "w", newline='', encoding='utf-8') as file:
                         file = csv.writer(file)
                         file.writerows(team2_stat)
-
-next_match()
