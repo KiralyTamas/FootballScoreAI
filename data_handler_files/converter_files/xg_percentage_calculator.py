@@ -11,6 +11,8 @@ def xg_percentage_calculate(header,main_result):
     main_list=[]
     calculated_list=[]
     id_list=[]
+    if os.path.exists(os.path.abspath("converted_csv_datas\main_result")+"\\main_xg_result.csv") == False:
+        open((os.path.abspath("converted_csv_datas\main_result")+"\\main_xg_result.csv"), "x")
     with open((os.path.abspath("converted_csv_datas\main_result")+"\\main_xg_result.csv"), "r", encoding='utf-8') as file:
         file = csv.reader(file)
         row_list = []

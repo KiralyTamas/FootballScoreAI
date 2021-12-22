@@ -5,15 +5,17 @@ from data_handler_files.converter_files.date_time_sorter import date_sorting as 
 from data_handler_files.converter_files.xg_percentage_calculator import xg_percentage_calculate as xg_calculate
 
 
-def percentage_calculate(main_result,header):
+def percentage_calculate(main_result, header):
     print("pr_percentage_calculate")
-    main_result_list=date(main_result)
-    main_list=[]
-    calculated_list=[]
-    id_list=[]
-    with open((os.path.abspath("converted_csv_datas\main_result")+"\\main_pr_result.csv"), "r", encoding='utf-8') as file:
-        file = csv.reader(file)
-        row_list = []
+    main_result_list = date(main_result)
+    main_list = []
+    calculated_list = []
+    id_list = []
+    if os.path.exists(os.path.abspath("converted_csv_datas\main_result")+"\\main_pr_result.csv") == False:
+        open((os.path.abspath("converted_csv_datas\main_result")+"\\main_pr_result.csv"), "x")
+    with open((os.path.abspath("converted_csv_datas\main_result")+"\\main_pr_result.csv"), "r", encoding = 'utf-8') as file:
+        file=csv.reader(file)
+        row_list=[]
         for row in file:
             main_list.append(row)
     for row in main_list:
@@ -24,26 +26,26 @@ def percentage_calculate(main_result,header):
         if row_id[1] not in id_list:
             main_list.append(row_id)
     for row in main_list[len(calculated_list):]:
-        count = 0
-        home_count = 0
-        deal_count = 0
-        against_count = 0
-        score_diff__more = 0
-        score_diff__3 = 0
-        score_diff__2 = 0
-        score_diff__1 = 0
-        score_diff_0 = 0
-        score_diff_1 = 0
-        score_diff_2 = 0
-        score_diff_3 = 0
-        score_diff_more = 0
+        count=0
+        home_count=0
+        deal_count=0
+        against_count=0
+        score_diff__more=0
+        score_diff__3=0
+        score_diff__2=0
+        score_diff__1=0
+        score_diff_0=0
+        score_diff_1=0
+        score_diff_2=0
+        score_diff_3=0
+        score_diff_more=0
         if (row[0][:10] not in calculated_list):
-            for index,i in enumerate(calculated_list):
+            for index, i in enumerate(calculated_list):
                 if index == 0:
                     continue
                 if float(row[10]) == float(i[10]):
                     count += 1
-                    score = int(i[4])-int(i[5])
+                    score=int(i[4])-int(i[5])
                     if score < -3:
                         score_diff__more += 1
                         against_count += 1
@@ -72,18 +74,18 @@ def percentage_calculate(main_result,header):
                         home_count += 1
                         score_diff_more += 1
             try:
-                home_percentage = "{:.0%}".format(home_count/count)
-                deal_percentage = "{:.0%}".format(deal_count/count)
-                against_percentage = "{:.0%}".format(against_count/count)
-                percentage__more = "{:.0%}".format(score_diff__more/count)
-                percentage__3 = "{:.0%}".format(score_diff__3/count)
-                percentage__2 = "{:.0%}".format(score_diff__2/count)
-                percentage__1 = "{:.0%}".format(score_diff__1/count)
-                percentage_0 = "{:.0%}".format(score_diff_0/count)
-                percentage_1 = "{:.0%}".format(score_diff_1/count)
-                percentage_2 = "{:.0%}".format(score_diff_2/count)
-                percentage_3 = "{:.0%}".format(score_diff_3/count)
-                percentage_more = "{:.0%}".format(score_diff_more/count)
+                home_percentage="{:.0%}".format(home_count/count)
+                deal_percentage="{:.0%}".format(deal_count/count)
+                against_percentage="{:.0%}".format(against_count/count)
+                percentage__more="{:.0%}".format(score_diff__more/count)
+                percentage__3="{:.0%}".format(score_diff__3/count)
+                percentage__2="{:.0%}".format(score_diff__2/count)
+                percentage__1="{:.0%}".format(score_diff__1/count)
+                percentage_0="{:.0%}".format(score_diff_0/count)
+                percentage_1="{:.0%}".format(score_diff_1/count)
+                percentage_2="{:.0%}".format(score_diff_2/count)
+                percentage_3="{:.0%}".format(score_diff_3/count)
+                percentage_more="{:.0%}".format(score_diff_more/count)
   #              home_percentage = ("%.2f" % home_percentage)
    #             deal_percentage = ("%.2f" % deal_percentage)
     #            against_percentage = ("%.2f" % against_percentage)
@@ -125,18 +127,18 @@ def percentage_calculate(main_result,header):
                 calculated_list.append(row)
             except ZeroDivisionError:
                 zero=0
-                home_percentage = "{:.0%}".format(zero)
-                deal_percentage = "{:.0%}".format(zero)
-                against_percentage = "{:.0%}".format(zero)
-                percentage__more = "{:.0%}".format(zero)
-                percentage__3 = "{:.0%}".format(zero)
-                percentage__2 = "{:.0%}".format(zero)
-                percentage__1 = "{:.0%}".format(zero)
-                percentage_0 = "{:.0%}".format(zero)
-                percentage_1 = "{:.0%}".format(zero)
-                percentage_2 = "{:.0%}".format(zero)
-                percentage_3 = "{:.0%}".format(zero)
-                percentage_more = "{:.0%}".format(zero)
+                home_percentage="{:.0%}".format(zero)
+                deal_percentage="{:.0%}".format(zero)
+                against_percentage="{:.0%}".format(zero)
+                percentage__more="{:.0%}".format(zero)
+                percentage__3="{:.0%}".format(zero)
+                percentage__2="{:.0%}".format(zero)
+                percentage__1="{:.0%}".format(zero)
+                percentage_0="{:.0%}".format(zero)
+                percentage_1="{:.0%}".format(zero)
+                percentage_2="{:.0%}".format(zero)
+                percentage_3="{:.0%}".format(zero)
+                percentage_more="{:.0%}".format(zero)
                 row.pop(17)
                 row.insert(17, count)
                 row.pop(18)
@@ -197,10 +199,10 @@ def percentage_calculate(main_result,header):
                     row.insert(29, i[29])
                     calculated_list.append(row)
     poped=calculated_list.pop(0)
-    with open(os.path.abspath("converted_csv_datas\main_result")+"\\main_pr_result.csv", "w", newline='', encoding='utf-8') as file:
-        new_file = csv.DictWriter(file, dialect='excel',fieldnames=header)
+    with open(os.path.abspath("converted_csv_datas\main_result")+"\\main_pr_result.csv", "w", newline = '', encoding = 'utf-8') as file:
+        new_file=csv.DictWriter(file, dialect = 'excel', fieldnames = header)
         new_file.writeheader()
-    with open(os.path.abspath("converted_csv_datas\main_result")+"\\main_pr_result.csv", "a", newline='', encoding='utf-8') as file:
-        new_file = csv.writer(file, dialect='excel')
+    with open(os.path.abspath("converted_csv_datas\main_result")+"\\main_pr_result.csv", "a", newline = '', encoding = 'utf-8') as file:
+        new_file=csv.writer(file, dialect = 'excel')
         new_file.writerows(calculated_list)
-    xg_calculate(header,main_result)
+    xg_calculate(header, main_result)
