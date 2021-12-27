@@ -57,6 +57,7 @@ async def main():
         player2016 = await understat.get_league_players("epl", 2016)
         player2015 = await understat.get_league_players("epl", 2015)
         player2014 = await understat.get_league_players("epl", 2014)
+        laliga2021 = await understat.get_league_players("la_liga", 2021)
 
         with open(raw_tables+"/tableepl2021.json", "w") as file:
             file.write(json.dumps(tableepl))
@@ -110,6 +111,8 @@ async def main():
             file.write(json.dumps(player2015))
         with open(eplplayer+"/epl_player2014.json", "w") as file:
             file.write(json.dumps(player2014))
+        with open(eplplayer+"/la_liga_player2021.json", "w") as file:
+            file.write(json.dumps(laliga2021))
 
         id_list=coll()
         for page in id_list:
