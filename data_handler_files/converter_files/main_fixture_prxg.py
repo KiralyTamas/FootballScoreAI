@@ -4,7 +4,8 @@ import csv
 from data_handler_files.converter_files.date_time_sorter import date_sorting
 from datetime import date as tdate
 from datetime import datetime
-from data_handler_files.converter_files.pr_percentage_collector import pr_per_col
+from data_handler_files.converter_files.json_converter import make_json as jc
+
 
 
 def fixture_prxg():
@@ -101,3 +102,4 @@ def fixture_prxg():
                         file=csv.writer(file, dialect='excel')
                         file.writerow(fixture_row)
     date_sorting("converted_csv_datas\main_fixture\\main_fixture_prxg.csv")
+    jc()

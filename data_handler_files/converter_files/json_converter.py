@@ -4,8 +4,9 @@ import os
 
 
 def make_json():
-    start_fixture_path=os.path.abspath("..\..\converted_csv_datas\main_fixture")
-    finish_fixture_path=os.path.abspath("..\..\converted_json_datas\main_fixture")
+    print("Adatok json-ba konvertálása Web-felülethez.")
+    start_fixture_path=os.path.abspath("converted_csv_datas\main_fixture")
+    finish_fixture_path=os.path.abspath("converted_json_datas\main_fixture")
     file_names=[]
     dir_names=[]
     dir_path=[]
@@ -20,14 +21,14 @@ def make_json():
             for index,rows in enumerate(csvReader):
                 key = index+1
                 data[key]=rows
-        if os.path.exists(os.path.abspath("..\..\converted_json_datas"))==False:
-            os.mkdir(os.path.abspath("..\..\converted_json_datas"))
+        if os.path.exists(os.path.abspath("converted_json_datas"))==False:
+            os.mkdir(os.path.abspath("converted_json_datas"))
         if os.path.exists(finish_fixture_path)==False:
             os.mkdir(finish_fixture_path)
         with open(finish_fixture_path+"\\"+file.replace('.csv', '.json'), 'w', encoding='utf-8') as jsonf:
             jsonf.write(json.dumps(data, indent=4))
-    start_teams_path=os.path.abspath("..\..\converted_csv_datas\\teams")
-    finish_teams_path=os.path.abspath("..\..\converted_json_datas\\teams")
+    start_teams_path=os.path.abspath("converted_csv_datas\\teams")
+    finish_teams_path=os.path.abspath("converted_json_datas\\teams")
     file_names=[]
     dir_names=[]
     dir_path=[]
@@ -46,5 +47,3 @@ def make_json():
             os.mkdir(finish_teams_path)
         with open(finish_teams_path+"\\"+file.replace('.csv', '.json'), 'w', encoding='utf-8') as jsonf:
             jsonf.write(json.dumps(data, indent=4))
-    
-make_json()

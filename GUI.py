@@ -3,11 +3,8 @@ import PySimpleGUI as sg
 
 def start():
     # Define the window's contents
-    layout = [[sg.Text("Melyik szezon legyen konvertálva?")],
-              [sg.Input(key='-INPUT-')],
-              [sg.Text(size=(40, 1), key='-OUTPUT-')],
-              [sg.Button('Lekérdezések'),sg.Button('Táblázatok'),sg.Button('Team Stat'), sg.Button('Quit')]]
-
+    layout = [[sg.Text("Melyik szezon legyen konvertálva?")], [sg.Input(key='-INPUT-')], [sg.Text(size=(40, 1), key='-OUTPUT-')],
+        [sg.Button('Lekérdezések'), sg.Button('Táblázatok'), sg.Button('Team Stat'), sg.Button('Quit')],[sg.Output(size=(60,15))]]
     # Create the window
     window = sg.Window('Window Title', layout)
 
@@ -17,7 +14,8 @@ def start():
         # See if user wants to quit or window was closed
         if event == sg.WINDOW_CLOSED or event == 'Lekérdezések':
             import data_handler_files.requester_files.all_request
-            window['-OUTPUT-'].update("Minden meccs lekérve az Understat.com szerveréről.")
+            window['-OUTPUT-'].update(
+                "Minden meccs lekérve az Understat.com szerveréről.")
         if event == sg.WINDOW_CLOSED or event == 'Táblázatok':
             info = values['-INPUT-']
             from data_handler_files.converter_files.main_result_writer import create_team_csv as csv
@@ -32,5 +30,6 @@ def start():
 
     # Finish up by removing from the screen
     window.close()
+
 
 start()
