@@ -1,0 +1,23 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+450625,19,BlockedShot,0.9530000305175781,0.49700000762939456,0.1254919320344925,Craig Dawson,h,804,FromCorner,2021,Head,16564,West Ham,Southampton,2,3,2021-12-26 15:00:00,Tomas Soucek,HeadPass
+450626,19,BlockedShot,0.740999984741211,0.6430000305175781,0.0161636583507061,Declan Rice,h,5553,FromCorner,2021,RightFoot,16564,West Ham,Southampton,2,3,2021-12-26 15:00:00,Craig Dawson,BallTouch
+450630,38,SavedShot,0.8090000152587891,0.555,0.04168283939361572,Nikola Vlasic,h,6276,OpenPlay,2021,LeftFoot,16564,West Ham,Southampton,2,3,2021-12-26 15:00:00,Jarrod Bowen,BallRecovery
+450632,46,SavedShot,0.8719999694824219,0.6359999847412109,0.061896368861198425,Michail Antonio,h,531,OpenPlay,2021,RightFoot,16564,West Ham,Southampton,2,3,2021-12-26 15:00:00,Manuel Lanzini,Pass
+450634,48,Goal,0.965999984741211,0.5070000076293946,0.6155467629432678,Michail Antonio,h,531,FromCorner,2021,Head,16564,West Ham,Southampton,2,3,2021-12-26 15:00:00,Craig Dawson,Aerial
+450636,55,MissedShots,0.72,0.3770000076293945,0.014495312236249447,Declan Rice,h,5553,OpenPlay,2021,RightFoot,16564,West Ham,Southampton,2,3,2021-12-26 15:00:00,Manuel Lanzini,Pass
+450638,63,Goal,0.905,0.49599998474121093,0.44251078367233276,Said Benrahma,h,3585,OpenPlay,2021,RightFoot,16564,West Ham,Southampton,2,3,2021-12-26 15:00:00,Jarrod Bowen,Pass
+450640,71,BlockedShot,0.9469999694824218,0.524000015258789,0.07650856673717499,Tomas Soucek,h,8288,FromCorner,2021,Head,16564,West Ham,Southampton,2,3,2021-12-26 15:00:00,Manuel Lanzini,Aerial
+450641,78,MissedShots,0.7669999694824219,0.385,0.02503287047147751,Said Benrahma,h,3585,OpenPlay,2021,RightFoot,16564,West Ham,Southampton,2,3,2021-12-26 15:00:00,Manuel Lanzini,Pass
+450642,89,BlockedShot,0.9180000305175782,0.46099998474121096,0.10406669229269028,Michail Antonio,h,531,OpenPlay,2021,RightFoot,16564,West Ham,Southampton,2,3,2021-12-26 15:00:00,Andriy Yarmolenko,HeadPass
+450643,90,MissedShots,0.7240000152587891,0.575,0.014056460931897163,Arthur Masuaku,h,1760,FromCorner,2021,LeftFoot,16564,West Ham,Southampton,2,3,2021-12-26 15:00:00,,None
+450623,5,MissedShots,0.7609999847412109,0.40700000762939453,0.023432040587067604,Oriol Romeu,a,842,OpenPlay,2021,RightFoot,16564,West Ham,Southampton,2,3,2021-12-26 15:00:00,Nathan Redmond,Pass
+450624,7,Goal,0.8109999847412109,0.524000015258789,0.05877610668540001,Mohamed Elyounoussi,a,6894,OpenPlay,2021,LeftFoot,16564,West Ham,Southampton,2,3,2021-12-26 15:00:00,Kyle Walker-Peters,Pass
+450627,28,BlockedShot,0.8730000305175781,0.8240000152587891,0.024208055809140205,Theo Walcott,a,503,OpenPlay,2021,RightFoot,16564,West Ham,Southampton,2,3,2021-12-26 15:00:00,Kyle Walker-Peters,Pass
+450628,32,SavedShot,0.8530000305175781,0.47200000762939454,0.21458283066749573,Mohamed Elyounoussi,a,6894,OpenPlay,2021,RightFoot,16564,West Ham,Southampton,2,3,2021-12-26 15:00:00,Nathan Redmond,TakeOn
+450629,34,SavedShot,0.7240000152587891,0.5279999923706055,0.02140996791422367,Nathan Redmond,a,790,FromCorner,2021,RightFoot,16564,West Ham,Southampton,2,3,2021-12-26 15:00:00,Oriol Romeu,Pass
+450631,40,MissedShots,0.9690000152587891,0.6969999694824218,0.07065458595752716,Armando Broja,a,8384,OpenPlay,2021,LeftFoot,16564,West Ham,Southampton,2,3,2021-12-26 15:00:00,Kyle Walker-Peters,Pass
+450633,47,SavedShot,0.7340000152587891,0.3579999923706055,0.018684539943933487,Nathan Redmond,a,790,OpenPlay,2021,LeftFoot,16564,West Ham,Southampton,2,3,2021-12-26 15:00:00,James Ward-Prowse,Pass
+450635,54,BlockedShot,0.86,0.685,0.042205650359392166,Kyle Walker-Peters,a,885,OpenPlay,2021,RightFoot,16564,West Ham,Southampton,2,3,2021-12-26 15:00:00,,None
+450637,60,Goal,0.885,0.5,0.7611688375473022,James Ward-Prowse,a,843,Penalty,2021,RightFoot,16564,West Ham,Southampton,2,3,2021-12-26 15:00:00,,Standard
+450639,69,Goal,0.9019999694824219,0.5259999847412109,0.09396780282258987,Jan Bednarek,a,6042,SetPiece,2021,Head,16564,West Ham,Southampton,2,3,2021-12-26 15:00:00,James Ward-Prowse,Cross
+450644,93,BlockedShot,0.7340000152587891,0.515,0.027335140854120255,Stuart Armstrong,a,6893,OpenPlay,2021,RightFoot,16564,West Ham,Southampton,2,3,2021-12-26 15:00:00,Ibrahima Diallo,Pass

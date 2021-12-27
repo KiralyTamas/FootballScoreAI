@@ -1,0 +1,32 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+450592,3,BlockedShot,0.860999984741211,0.305,0.034251533448696136,Kevin De Bruyne,h,447,OpenPlay,2021,RightFoot,16560,Manchester City,Leicester,6,3,2021-12-26 15:00:00,Bernardo Silva,Pass
+450593,4,Goal,0.8590000152587891,0.44099998474121094,0.07974197715520859,Kevin De Bruyne,h,447,OpenPlay,2021,LeftFoot,16560,Manchester City,Leicester,6,3,2021-12-26 15:00:00,Fernandinho,Chipped
+450594,13,Goal,0.885,0.5,0.7611688375473022,Riyad Mahrez,h,750,Penalty,2021,LeftFoot,16560,Manchester City,Leicester,6,3,2021-12-26 15:00:00,,Standard
+450599,20,Goal,0.9119999694824219,0.49400001525878906,0.5637236833572388,Ilkay Gündogan,h,314,OpenPlay,2021,RightFoot,16560,Manchester City,Leicester,6,3,2021-12-26 15:00:00,,None
+450601,24,Goal,0.885,0.5,0.7611688375473022,Raheem Sterling,h,618,Penalty,2021,RightFoot,16560,Manchester City,Leicester,6,3,2021-12-26 15:00:00,,Standard
+450602,28,BlockedShot,0.8059999847412109,0.295,0.030378874391317368,Kevin De Bruyne,h,447,OpenPlay,2021,LeftFoot,16560,Manchester City,Leicester,6,3,2021-12-26 15:00:00,,BallTouch
+450603,29,MissedShots,0.774000015258789,0.539000015258789,0.021192939952015877,João Cancelo,h,2379,FromCorner,2021,RightFoot,16560,Manchester City,Leicester,6,3,2021-12-26 15:00:00,,None
+450605,34,SavedShot,0.8919999694824219,0.48200000762939454,0.40767616033554077,Raheem Sterling,h,618,FromCorner,2021,RightFoot,16560,Manchester City,Leicester,6,3,2021-12-26 15:00:00,Bernardo Silva,Pass
+450608,42,MissedShots,0.8590000152587891,0.5479999923706055,0.12615922093391418,Riyad Mahrez,h,750,OpenPlay,2021,LeftFoot,16560,Manchester City,Leicester,6,3,2021-12-26 15:00:00,Kevin De Bruyne,Pass
+450609,45,SavedShot,0.8240000152587891,0.47400001525878904,0.058074478060007095,Ilkay Gündogan,h,314,SetPiece,2021,RightFoot,16560,Manchester City,Leicester,6,3,2021-12-26 15:00:00,Kevin De Bruyne,Pass
+450610,52,BlockedShot,0.875999984741211,0.4640000152587891,0.11015300452709198,Riyad Mahrez,h,750,OpenPlay,2021,LeftFoot,16560,Manchester City,Leicester,6,3,2021-12-26 15:00:00,,BlockedPass
+450613,63,BlockedShot,0.8959999847412109,0.41,0.026161305606365204,Fernandinho,h,614,FromCorner,2021,Head,16560,Manchester City,Leicester,6,3,2021-12-26 15:00:00,Kevin De Bruyne,Cross
+450616,68,Goal,0.915,0.5729999923706055,0.01855364814400673,Aymeric Laporte,h,2498,FromCorner,2021,Head,16560,Manchester City,Leicester,6,3,2021-12-26 15:00:00,Riyad Mahrez,Aerial
+450618,76,BlockedShot,0.7659999847412109,0.45599998474121095,0.07718416303396225,Riyad Mahrez,h,750,DirectFreekick,2021,LeftFoot,16560,Manchester City,Leicester,6,3,2021-12-26 15:00:00,,Standard
+450619,76,MissedShots,0.7619999694824219,0.46599998474121096,0.017150916159152985,Riyad Mahrez,h,750,SetPiece,2021,LeftFoot,16560,Manchester City,Leicester,6,3,2021-12-26 15:00:00,,Rebound
+450621,86,BlockedShot,0.9369999694824219,0.53,0.10380620509386063,Rúben Dias,h,8961,FromCorner,2021,OtherBodyPart,16560,Manchester City,Leicester,6,3,2021-12-26 15:00:00,Riyad Mahrez,Cross
+450622,86,Goal,0.9630000305175781,0.5029999923706054,0.7068423628807068,Raheem Sterling,h,618,FromCorner,2021,LeftFoot,16560,Manchester City,Leicester,6,3,2021-12-26 15:00:00,Rúben Dias,Rebound
+450595,15,BlockedShot,0.835999984741211,0.685,0.029354779049754143,James Maddison,a,6818,OpenPlay,2021,RightFoot,16560,Manchester City,Leicester,6,3,2021-12-26 15:00:00,Ademola Lookman,Pass
+450596,17,SavedShot,0.7630000305175781,0.5129999923706055,0.07618377357721329,James Maddison,a,6818,DirectFreekick,2021,RightFoot,16560,Manchester City,Leicester,6,3,2021-12-26 15:00:00,,Standard
+450597,18,MissedShots,0.9059999847412109,0.38599998474121094,0.02765834331512451,James Maddison,a,6818,OpenPlay,2021,Head,16560,Manchester City,Leicester,6,3,2021-12-26 15:00:00,Marc Albrighton,Cross
+450598,19,SavedShot,0.8430000305175781,0.620999984741211,0.07378431409597397,Ayoze Pérez,a,770,OpenPlay,2021,LeftFoot,16560,Manchester City,Leicester,6,3,2021-12-26 15:00:00,Youri Tielemans,Pass
+450600,22,SavedShot,0.855999984741211,0.5279999923706055,0.10081476718187332,Kelechi Iheanacho,a,620,OpenPlay,2021,LeftFoot,16560,Manchester City,Leicester,6,3,2021-12-26 15:00:00,Ademola Lookman,Pass
+450604,30,MissedShots,0.855,0.28200000762939453,0.01529382262378931,Marc Albrighton,a,753,OpenPlay,2021,RightFoot,16560,Manchester City,Leicester,6,3,2021-12-26 15:00:00,James Maddison,Chipped
+450606,35,MissedShots,0.7919999694824219,0.4640000152587891,0.026225842535495758,James Maddison,a,6818,OpenPlay,2021,RightFoot,16560,Manchester City,Leicester,6,3,2021-12-26 15:00:00,,None
+450607,40,MissedShots,0.8040000152587891,0.5670000076293945,0.04972796514630318,Kiernan Dewsbury-Hall,a,9739,OpenPlay,2021,LeftFoot,16560,Manchester City,Leicester,6,3,2021-12-26 15:00:00,James Maddison,Pass
+450611,54,Goal,0.8730000305175781,0.555,0.3050415515899658,James Maddison,a,6818,OpenPlay,2021,RightFoot,16560,Manchester City,Leicester,6,3,2021-12-26 15:00:00,Kelechi Iheanacho,Pass
+450612,58,Goal,0.86,0.56,0.4363333582878113,Ademola Lookman,a,5556,OpenPlay,2021,LeftFoot,16560,Manchester City,Leicester,6,3,2021-12-26 15:00:00,Kelechi Iheanacho,Throughball
+450614,64,SavedShot,0.750999984741211,0.5729999923706055,0.019367733970284462,James Maddison,a,6818,OpenPlay,2021,RightFoot,16560,Manchester City,Leicester,6,3,2021-12-26 15:00:00,Kiernan Dewsbury-Hall,Pass
+450615,64,Goal,0.9680000305175781,0.4909999847412109,0.6919289827346802,Kelechi Iheanacho,a,620,OpenPlay,2021,LeftFoot,16560,Manchester City,Leicester,6,3,2021-12-26 15:00:00,,Rebound
+450617,69,SavedShot,0.9130000305175782,0.6430000305175781,0.25600627064704895,Kelechi Iheanacho,a,620,SetPiece,2021,LeftFoot,16560,Manchester City,Leicester,6,3,2021-12-26 15:00:00,James Maddison,Pass
+450620,78,MissedShots,0.93,0.48700000762939455,0.3399251103401184,Marc Albrighton,a,753,OpenPlay,2021,Head,16560,Manchester City,Leicester,6,3,2021-12-26 15:00:00,Luke Thomas,Chipped
