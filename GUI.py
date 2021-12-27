@@ -2,16 +2,11 @@ import PySimpleGUI as sg
 
 
 def start():
-    # Define the window's contents
-    layout = [[sg.Text("Melyik szezon legyen konvertálva?")], [sg.Input(key='-INPUT-')], [sg.Text(size=(40, 1), key='-OUTPUT-')],
-        [sg.Button('Lekérdezések'), sg.Button('Táblázatok'), sg.Button('Team Stat'), sg.Button('Quit')],[sg.Output(size=(60,15))]]
-    # Create the window
+    layout = [[sg.Text("Melyik szezon legyen konvertálva?")], [sg.Input(key='-INPUT-')],
+        [sg.Button('Lekérdezések'), sg.Button('Táblázatok'), sg.Button('Team Stat'), sg.Button('Quit')],[sg.Output(size=(60,15),key='-OUTPUT-')]]
     window = sg.Window('Window Title', layout)
-
-    # Display and interact with the Window using an Event Loop
     while True:
         event, values = window.read()
-        # See if user wants to quit or window was closed
         if event == sg.WINDOW_CLOSED or event == 'Lekérdezések':
             import data_handler_files.requester_files.all_request
             window['-OUTPUT-'].update(
@@ -27,8 +22,6 @@ def start():
             window['-OUTPUT-'].update("Csapatok statisztikája kész.")
         if event == sg.WINDOW_CLOSED or event == 'Quit':
             break
-
-    # Finish up by removing from the screen
     window.close()
 
 
