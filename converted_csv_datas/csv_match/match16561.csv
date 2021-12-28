@@ -1,0 +1,27 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+450695,6,Goal,0.8690000152587891,0.555,0.14382293820381165,Allan Saint-Maximin,h,101,OpenPlay,2021,RightFoot,16561,Newcastle United,Manchester United,1,1,2021-12-27 20:00:00,Sean Longstaff,TakeOn
+450697,11,MissedShots,0.740999984741211,0.4520000076293945,0.025586232542991638,Joelinton,h,87,OpenPlay,2021,RightFoot,16561,Newcastle United,Manchester United,1,1,2021-12-27 20:00:00,,None
+450699,22,SavedShot,0.71,0.5359999847412109,0.013903760351240635,Jonjo Shelvey,h,769,OpenPlay,2021,RightFoot,16561,Newcastle United,Manchester United,1,1,2021-12-27 20:00:00,,TakeOn
+450702,46,BlockedShot,0.86,0.7180000305175781,0.04309329017996788,Allan Saint-Maximin,h,101,OpenPlay,2021,RightFoot,16561,Newcastle United,Manchester United,1,1,2021-12-27 20:00:00,Joelinton,Pass
+450703,46,SavedShot,0.9669999694824218,0.4829999923706055,0.7369663119316101,Allan Saint-Maximin,h,101,OpenPlay,2021,LeftFoot,16561,Newcastle United,Manchester United,1,1,2021-12-27 20:00:00,Emil Krafth,Pass
+450708,62,SavedShot,0.9519999694824218,0.3120000076293945,0.09401629865169525,Ryan Fraser,h,1683,OpenPlay,2021,RightFoot,16561,Newcastle United,Manchester United,1,1,2021-12-27 20:00:00,Joelinton,Pass
+450710,64,SavedShot,0.7340000152587891,0.6659999847412109,0.020278239622712135,Allan Saint-Maximin,h,101,OpenPlay,2021,LeftFoot,16561,Newcastle United,Manchester United,1,1,2021-12-27 20:00:00,Joelinton,Pass
+450711,66,MissedShots,0.7809999847412109,0.8080000305175781,0.012537430971860886,Jacob Murphy,h,6063,OpenPlay,2021,RightFoot,16561,Newcastle United,Manchester United,1,1,2021-12-27 20:00:00,Javier Manquillo,Pass
+450714,71,SavedShot,0.825,0.44,0.06038800999522209,Allan Saint-Maximin,h,101,OpenPlay,2021,LeftFoot,16561,Newcastle United,Manchester United,1,1,2021-12-27 20:00:00,,BallTouch
+450716,83,SavedShot,0.6869999694824219,0.40099998474121096,0.010893137194216251,Jonjo Shelvey,h,769,OpenPlay,2021,RightFoot,16561,Newcastle United,Manchester United,1,1,2021-12-27 20:00:00,Dwight Gayle,Pass
+450717,87,ShotOnPost,0.8780000305175781,0.6880000305175781,0.04721483960747719,Jacob Murphy,h,6063,OpenPlay,2021,RightFoot,16561,Newcastle United,Manchester United,1,1,2021-12-27 20:00:00,,None
+450718,87,SavedShot,0.8130000305175781,0.44799999237060545,0.039326515048742294,Miguel Almirón,h,7420,OpenPlay,2021,LeftFoot,16561,Newcastle United,Manchester United,1,1,2021-12-27 20:00:00,,Rebound
+450719,90,BlockedShot,0.7619999694824219,0.6580000305175782,0.01969136670231819,Joelinton,h,87,OpenPlay,2021,RightFoot,16561,Newcastle United,Manchester United,1,1,2021-12-27 20:00:00,Jacob Murphy,Pass
+450696,10,BlockedShot,0.6680000305175782,0.524000015258789,0.012762158177793026,Scott McTominay,a,5560,OpenPlay,2021,RightFoot,16561,Newcastle United,Manchester United,1,1,2021-12-27 20:00:00,Fred,Pass
+450698,20,BlockedShot,0.9619999694824218,0.45599998474121095,0.13297782838344574,Cristiano Ronaldo,a,2371,FromCorner,2021,Head,16561,Newcastle United,Manchester United,1,1,2021-12-27 20:00:00,Alex Telles,Cross
+450700,29,BlockedShot,0.7719999694824219,0.34,0.02155030146241188,Mason Greenwood,a,7490,OpenPlay,2021,LeftFoot,16561,Newcastle United,Manchester United,1,1,2021-12-27 20:00:00,Fred,Pass
+450701,40,SavedShot,0.9,0.5509999847412109,0.3207850456237793,Mason Greenwood,a,7490,SetPiece,2021,LeftFoot,16561,Newcastle United,Manchester United,1,1,2021-12-27 20:00:00,Bruno Fernandes,Chipped
+450704,48,SavedShot,0.7219999694824218,0.769000015258789,0.012542554177343845,Marcus Rashford,a,556,OpenPlay,2021,RightFoot,16561,Newcastle United,Manchester United,1,1,2021-12-27 20:00:00,Harry Maguire,Pass
+450705,49,BlockedShot,0.8819999694824219,0.47299999237060547,0.035132985562086105,Raphael Varane,a,2245,FromCorner,2021,Head,16561,Newcastle United,Manchester United,1,1,2021-12-27 20:00:00,Alex Telles,Cross
+450706,51,MissedShots,0.7780000305175782,0.6509999847412109,0.015430307947099209,Cristiano Ronaldo,a,2371,SetPiece,2021,RightFoot,16561,Newcastle United,Manchester United,1,1,2021-12-27 20:00:00,,None
+450707,54,MissedShots,0.860999984741211,0.495,0.08991679549217224,Edinson Cavani,a,3294,OpenPlay,2021,RightFoot,16561,Newcastle United,Manchester United,1,1,2021-12-27 20:00:00,Jadon Sancho,Pass
+450709,62,BlockedShot,0.8690000152587891,0.40599998474121096,0.10004666447639465,Marcus Rashford,a,556,OpenPlay,2021,RightFoot,16561,Newcastle United,Manchester United,1,1,2021-12-27 20:00:00,Bruno Fernandes,TakeOn
+450712,70,BlockedShot,0.874000015258789,0.51,0.08105078339576721,Edinson Cavani,a,3294,OpenPlay,2021,RightFoot,16561,Newcastle United,Manchester United,1,1,2021-12-27 20:00:00,Diogo Dalot,Cross
+450713,70,Goal,0.9119999694824219,0.5079999923706054,0.11815588921308517,Edinson Cavani,a,3294,OpenPlay,2021,RightFoot,16561,Newcastle United,Manchester United,1,1,2021-12-27 20:00:00,,Rebound
+450715,74,BlockedShot,0.955999984741211,0.455,0.5585908889770508,Edinson Cavani,a,3294,OpenPlay,2021,LeftFoot,16561,Newcastle United,Manchester United,1,1,2021-12-27 20:00:00,Alex Telles,Cross
+450720,92,MissedShots,0.7859999847412109,0.3729999923706055,0.266504168510437,Edinson Cavani,a,3294,OpenPlay,2021,RightFoot,16561,Newcastle United,Manchester United,1,1,2021-12-27 20:00:00,Jadon Sancho,Pass
