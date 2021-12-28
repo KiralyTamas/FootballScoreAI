@@ -24,9 +24,9 @@ async def main():
         if os.path.exists(raw_result) ==False:
             os.mkdir(os.path.abspath("raw_json_datas/result"))
             os.mkdir(raw_result)
-        eplplayer = os.path.abspath("raw_json_datas/epl_player")
-        if os.path.exists(eplplayer) ==False:
-            os.mkdir(eplplayer)
+        player = os.path.abspath("raw_json_datas/player")
+        if os.path.exists(player) ==False:
+            os.mkdir(player)
         raw_matches = os.path.abspath("raw_json_datas/match")
         if os.path.exists(raw_matches) ==False:
             os.mkdir(raw_matches)
@@ -49,15 +49,12 @@ async def main():
         resultseriea = await understat.get_league_results("serie_a", 2021)
         resultligue1 = await understat.get_league_results("ligue_1", 2021)
         resultrfpl = await understat.get_league_results("rfpl", 2021)
-        player2021 = await understat.get_league_players("epl", 2021)
-        player2020 = await understat.get_league_players("epl", 2020)
-        player2019 = await understat.get_league_players("epl", 2019)
-        player2018 = await understat.get_league_players("epl", 2018)
-        player2017 = await understat.get_league_players("epl", 2017)
-        player2016 = await understat.get_league_players("epl", 2016)
-        player2015 = await understat.get_league_players("epl", 2015)
-        player2014 = await understat.get_league_players("epl", 2014)
-        laliga2021 = await understat.get_league_players("la_liga", 2021)
+        epl_2021 = await understat.get_league_players("epl", 2021)
+        la_liga_2021 = await understat.get_league_players("la_liga", 2021)
+        bundesliga_2021 = await understat.get_league_players("bundesliga", 2021)
+        serie_a_2021 = await understat.get_league_players("serie_a", 2021)
+        ligue_1_2021 = await understat.get_league_players("ligue_1", 2021)
+        rfpl_2021 = await understat.get_league_players("rfpl", 2021)
 
         with open(raw_tables+"/tableepl2021.json", "w") as file:
             file.write(json.dumps(tableepl))
@@ -95,24 +92,18 @@ async def main():
             file.write(json.dumps(resultligue1))
         with open(raw_result+"/resultrfpl2021.json", "w") as file:
             file.write(json.dumps(resultrfpl))
-        with open(eplplayer+"/epl_player2021.json", "w") as file:
-            file.write(json.dumps(player2021))
-        with open(eplplayer+"/epl_player2020.json", "w") as file:
-            file.write(json.dumps(player2020))
-        with open(eplplayer+"/epl_player2019.json", "w") as file:
-            file.write(json.dumps(player2019))
-        with open(eplplayer+"/epl_player2018.json", "w") as file:
-            file.write(json.dumps(player2018))
-        with open(eplplayer+"/epl_player2017.json", "w") as file:
-            file.write(json.dumps(player2017))
-        with open(eplplayer+"/epl_player2016.json", "w") as file:
-            file.write(json.dumps(player2016))
-        with open(eplplayer+"/epl_player2015.json", "w") as file:
-            file.write(json.dumps(player2015))
-        with open(eplplayer+"/epl_player2014.json", "w") as file:
-            file.write(json.dumps(player2014))
-        with open(eplplayer+"/la_liga_player2021.json", "w") as file:
-            file.write(json.dumps(laliga2021))
+        with open(player+"/epl_player2021.json", "w") as file:
+            file.write(json.dumps(epl_2021))
+        with open(player+"/la_liga_player2021.json", "w") as file:
+            file.write(json.dumps(la_liga_2021))
+        with open(player+"/bundesliga_player2021.json", "w") as file:
+            file.write(json.dumps(bundesliga_2021))
+        with open(player+"/serie_a_player2021.json", "w") as file:
+            file.write(json.dumps(serie_a_2021))
+        with open(player+"/ligue_1_player2021.json", "w") as file:
+            file.write(json.dumps(ligue_1_2021))
+        with open(player+"/rfpl_player2021.json", "w") as file:
+            file.write(json.dumps(rfpl_2021))
 
         id_list=coll()
         for page in id_list:

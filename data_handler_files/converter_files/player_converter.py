@@ -1,8 +1,8 @@
 import csv
 import os
 
-def convert_epl(data_list, delim):
-    destiny_path=os.path.abspath("converted_csv_datas/csv_epl_player")
+def convert_player(data_list, delim):
+    destiny_path=os.path.abspath("converted_csv_datas/csv_player")
     file_xxx = ["json", "csv"]
 
     csv_name = data_list[1].replace(file_xxx[0], file_xxx[1])
