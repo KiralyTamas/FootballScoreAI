@@ -1,0 +1,27 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+452832,5,SavedShot,0.9440000152587891,0.6569999694824219,0.11036208271980286,Houssem Aouar,h,5733,OpenPlay,2021,LeftFoot,18021,Lyon,Paris Saint Germain,1,1,2022-01-09 19:45:00,,TakeOn
+452835,6,Goal,0.85,0.355,0.053090307861566544,Lucas Paquetá,h,7365,OpenPlay,2021,RightFoot,18021,Lyon,Paris Saint Germain,1,1,2022-01-09 19:45:00,Bruno Guimarães,Chipped
+452836,19,SavedShot,0.750999984741211,0.28299999237060547,0.022040845826268196,Lucas Paquetá,h,7365,OpenPlay,2021,LeftFoot,18021,Lyon,Paris Saint Germain,1,1,2022-01-09 19:45:00,Bruno Guimarães,Pass
+452841,28,BlockedShot,0.850999984741211,0.7,0.06660547852516174,Houssem Aouar,h,5733,OpenPlay,2021,RightFoot,18021,Lyon,Paris Saint Germain,1,1,2022-01-09 19:45:00,Castello Lukeba,TakeOn
+452842,34,BlockedShot,0.889000015258789,0.6430000305175781,0.08866062015295029,Houssem Aouar,h,5733,OpenPlay,2021,LeftFoot,18021,Lyon,Paris Saint Germain,1,1,2022-01-09 19:45:00,,BallRecovery
+452844,50,MissedShots,0.84,0.7080000305175781,0.04064594954252243,Emerson,h,1245,OpenPlay,2021,LeftFoot,18021,Lyon,Paris Saint Germain,1,1,2022-01-09 19:45:00,Léo Dubois,Pass
+452847,58,SavedShot,0.8930000305175781,0.4,0.3510371148586273,Moussa Dembele,h,7142,OpenPlay,2021,RightFoot,18021,Lyon,Paris Saint Germain,1,1,2022-01-09 19:45:00,Houssem Aouar,Pass
+452848,58,BlockedShot,0.9290000152587891,0.5329999923706055,0.1503790318965912,Houssem Aouar,h,5733,OpenPlay,2021,RightFoot,18021,Lyon,Paris Saint Germain,1,1,2022-01-09 19:45:00,Bruno Guimarães,Pass
+452853,73,MissedShots,0.894000015258789,0.33299999237060546,0.08426772058010101,Mathis Cherki,h,8094,OpenPlay,2021,RightFoot,18021,Lyon,Paris Saint Germain,1,1,2022-01-09 19:45:00,Maxence Caqueret,Pass
+452855,77,MissedShots,0.8930000305175781,0.46099998474121096,0.0170760340988636,Moussa Dembele,h,7142,FromCorner,2021,Head,18021,Lyon,Paris Saint Germain,1,1,2022-01-09 19:45:00,Mathis Cherki,Aerial
+452856,78,MissedShots,0.955999984741211,0.28899999618530275,0.0518081858754158,Mathis Cherki,h,8094,OpenPlay,2021,RightFoot,18021,Lyon,Paris Saint Germain,1,1,2022-01-09 19:45:00,Léo Dubois,TakeOn
+452833,5,BlockedShot,0.774000015258789,0.4520000076293945,0.025047747418284416,Ander Herrera,a,552,OpenPlay,2021,LeftFoot,18021,Lyon,Paris Saint Germain,1,1,2022-01-09 19:45:00,Mauro Icardi,Pass
+452834,6,MissedShots,0.924000015258789,0.56,0.08302565664052963,Mauro Icardi,a,1513,FromCorner,2021,LeftFoot,18021,Lyon,Paris Saint Germain,1,1,2022-01-09 19:45:00,Nuno Mendes,Cross
+452837,20,SavedShot,0.72,0.4279999923706055,0.016966350376605988,Leandro Paredes,a,1248,OpenPlay,2021,RightFoot,18021,Lyon,Paris Saint Germain,1,1,2022-01-09 19:45:00,Ander Herrera,Pass
+452838,21,MissedShots,0.7909999847412109,0.4640000152587891,0.051809873431921005,Kylian Mbappe-Lottin,a,3423,OpenPlay,2021,RightFoot,18021,Lyon,Paris Saint Germain,1,1,2022-01-09 19:45:00,Marco Verratti,TakeOn
+452839,23,SavedShot,0.8080000305175781,0.46900001525878904,0.04831772297620773,Marquinhos,a,3297,OpenPlay,2021,LeftFoot,18021,Lyon,Paris Saint Germain,1,1,2022-01-09 19:45:00,Ander Herrera,Pass
+452840,24,MissedShots,0.9259999847412109,0.5279999923706055,0.052827171981334686,Georginio Wijnaldum,a,771,FromCorner,2021,Head,18021,Lyon,Paris Saint Germain,1,1,2022-01-09 19:45:00,Nuno Mendes,Aerial
+452843,41,ShotOnPost,0.889000015258789,0.6809999847412109,0.04043068364262581,Kylian Mbappe-Lottin,a,3423,FromCorner,2021,RightFoot,18021,Lyon,Paris Saint Germain,1,1,2022-01-09 19:45:00,,None
+452845,53,BlockedShot,0.9480000305175781,0.5359999847412109,0.5163561701774597,Mauro Icardi,a,1513,OpenPlay,2021,RightFoot,18021,Lyon,Paris Saint Germain,1,1,2022-01-09 19:45:00,Nuno Mendes,Cross
+452846,53,MissedShots,0.7969999694824219,0.51,0.03940107300877571,Ander Herrera,a,552,FromCorner,2021,RightFoot,18021,Lyon,Paris Saint Germain,1,1,2022-01-09 19:45:00,Kylian Mbappe-Lottin,Pass
+452849,61,MissedShots,0.91,0.47900001525878905,0.04607081785798073,Mauro Icardi,a,1513,OpenPlay,2021,Head,18021,Lyon,Paris Saint Germain,1,1,2022-01-09 19:45:00,Colin Dagba,Aerial
+452850,64,BlockedShot,0.715999984741211,0.4540000152587891,0.01387963816523552,Ander Herrera,a,552,FromCorner,2021,LeftFoot,18021,Lyon,Paris Saint Germain,1,1,2022-01-09 19:45:00,,None
+452851,66,MissedShots,0.7580000305175781,0.7630000305175781,0.029617199674248695,Kylian Mbappe-Lottin,a,3423,OpenPlay,2021,RightFoot,18021,Lyon,Paris Saint Germain,1,1,2022-01-09 19:45:00,Leandro Paredes,Pass
+452852,71,MissedShots,0.9409999847412109,0.705999984741211,0.04971127212047577,Kylian Mbappe-Lottin,a,3423,OpenPlay,2021,RightFoot,18021,Lyon,Paris Saint Germain,1,1,2022-01-09 19:45:00,Marco Verratti,Chipped
+452854,75,Goal,0.8680000305175781,0.33599998474121096,0.05762100964784622,Thilo Kehrer,a,2674,OpenPlay,2021,RightFoot,18021,Lyon,Paris Saint Germain,1,1,2022-01-09 19:45:00,Edouard Michut,Pass
+452857,81,ShotOnPost,0.8719999694824219,0.8169999694824219,0.057657018303871155,Kylian Mbappe-Lottin,a,3423,DirectFreekick,2021,RightFoot,18021,Lyon,Paris Saint Germain,1,1,2022-01-09 19:45:00,,Standard

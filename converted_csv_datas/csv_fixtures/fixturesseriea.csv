@@ -1,192 +1,176 @@
 id,isResult,h_id,h_title,h_short_title,a_id,a_title,a_short_title,goals_h,goals_a,xG_h,xG_a,datetime
 16944,False,99,Udinese,UDI,264,Salernitana,SAL,None,None,None,None,2021-12-21 17:30:00
 16947,False,97,Bologna,BOL,106,Inter,INT,None,None,None,None,2022-01-06 11:30:00
-16953,False,102,Sampdoria,SAM,116,Cagliari,CAG,None,None,None,None,2022-01-06 11:30:00
-16950,False,96,Lazio,LAZ,108,Empoli,EMP,None,None,None,None,2022-01-06 13:30:00
-16955,False,260,Spezia,SPE,94,Verona,VER,None,None,None,None,2022-01-06 13:30:00
 16946,False,107,Atalanta,ATA,113,Torino,TOR,None,None,None,None,2022-01-06 15:30:00
-16954,False,104,Sassuolo,SAS,101,Genoa,GEN,None,None,None,None,2022-01-06 15:30:00
-16951,False,111,AC Milan,MIL,95,Roma,ROM,None,None,None,None,2022-01-06 17:30:00
 16952,False,264,Salernitana,SAL,265,Venezia,VEN,None,None,None,None,2022-01-06 17:30:00
 16948,False,110,Fiorentina,FIO,99,Udinese,UDI,None,None,None,None,2022-01-06 19:45:00
-16949,False,98,Juventus,JUV,105,Napoli,NAP,None,None,None,None,2022-01-06 19:45:00
-16957,False,108,Empoli,EMP,104,Sassuolo,SAS,None,None,None,None,2022-01-09 11:30:00
-16965,False,265,Venezia,VEN,111,AC Milan,MIL,None,None,None,None,2022-01-09 11:30:00
-16956,False,116,Cagliari,CAG,97,Bologna,BOL,None,None,None,None,2022-01-09 13:30:00
-16963,False,113,Torino,TOR,110,Fiorentina,FIO,None,None,None,None,2022-01-09 13:30:00
-16961,False,105,Napoli,NAP,102,Sampdoria,SAM,None,None,None,None,2022-01-09 15:30:00
-16964,False,99,Udinese,UDI,107,Atalanta,ATA,None,None,None,None,2022-01-09 15:30:00
-16958,False,101,Genoa,GEN,260,Spezia,SPE,None,None,None,None,2022-01-09 17:30:00
-16962,False,95,Roma,ROM,98,Juventus,JUV,None,None,None,None,2022-01-09 17:30:00
-16959,False,94,Verona,VER,264,Salernitana,SAL,None,None,None,None,2022-01-09 19:45:00
-16960,False,106,Inter,INT,96,Lazio,LAZ,None,None,None,None,2022-01-09 19:45:00
-16966,False,107,Atalanta,ATA,106,Inter,INT,None,None,None,None,2022-01-16 04:00:00
-16967,False,97,Bologna,BOL,105,Napoli,NAP,None,None,None,None,2022-01-16 04:00:00
-16968,False,110,Fiorentina,FIO,101,Genoa,GEN,None,None,None,None,2022-01-16 04:00:00
-16969,False,98,Juventus,JUV,99,Udinese,UDI,None,None,None,None,2022-01-16 04:00:00
-16970,False,111,AC Milan,MIL,260,Spezia,SPE,None,None,None,None,2022-01-16 04:00:00
-16971,False,95,Roma,ROM,116,Cagliari,CAG,None,None,None,None,2022-01-16 04:00:00
-16972,False,264,Salernitana,SAL,96,Lazio,LAZ,None,None,None,None,2022-01-16 04:00:00
-16973,False,102,Sampdoria,SAM,113,Torino,TOR,None,None,None,None,2022-01-16 04:00:00
-16974,False,104,Sassuolo,SAS,94,Verona,VER,None,None,None,None,2022-01-16 04:00:00
-16975,False,265,Venezia,VEN,108,Empoli,EMP,None,None,None,None,2022-01-16 04:00:00
-16976,False,116,Cagliari,CAG,110,Fiorentina,FIO,None,None,None,None,2022-01-23 04:00:00
-16977,False,108,Empoli,EMP,95,Roma,ROM,None,None,None,None,2022-01-23 04:00:00
-16978,False,101,Genoa,GEN,99,Udinese,UDI,None,None,None,None,2022-01-23 04:00:00
-16979,False,94,Verona,VER,97,Bologna,BOL,None,None,None,None,2022-01-23 04:00:00
-16980,False,106,Inter,INT,265,Venezia,VEN,None,None,None,None,2022-01-23 04:00:00
-16981,False,96,Lazio,LAZ,107,Atalanta,ATA,None,None,None,None,2022-01-23 04:00:00
-16982,False,111,AC Milan,MIL,98,Juventus,JUV,None,None,None,None,2022-01-23 04:00:00
-16983,False,105,Napoli,NAP,264,Salernitana,SAL,None,None,None,None,2022-01-23 04:00:00
-16984,False,260,Spezia,SPE,102,Sampdoria,SAM,None,None,None,None,2022-01-23 04:00:00
-16985,False,113,Torino,TOR,104,Sassuolo,SAS,None,None,None,None,2022-01-23 04:00:00
-16986,False,107,Atalanta,ATA,116,Cagliari,CAG,None,None,None,None,2022-02-06 04:00:00
-16987,False,97,Bologna,BOL,108,Empoli,EMP,None,None,None,None,2022-02-06 04:00:00
-16988,False,110,Fiorentina,FIO,96,Lazio,LAZ,None,None,None,None,2022-02-06 04:00:00
-16989,False,106,Inter,INT,111,AC Milan,MIL,None,None,None,None,2022-02-06 04:00:00
-16990,False,98,Juventus,JUV,94,Verona,VER,None,None,None,None,2022-02-06 04:00:00
-16991,False,95,Roma,ROM,101,Genoa,GEN,None,None,None,None,2022-02-06 04:00:00
-16992,False,264,Salernitana,SAL,260,Spezia,SPE,None,None,None,None,2022-02-06 04:00:00
-16993,False,102,Sampdoria,SAM,104,Sassuolo,SAS,None,None,None,None,2022-02-06 04:00:00
-16994,False,99,Udinese,UDI,113,Torino,TOR,None,None,None,None,2022-02-06 04:00:00
-16995,False,265,Venezia,VEN,105,Napoli,NAP,None,None,None,None,2022-02-06 04:00:00
-16996,False,107,Atalanta,ATA,98,Juventus,JUV,None,None,None,None,2022-02-13 04:00:00
-16997,False,108,Empoli,EMP,116,Cagliari,CAG,None,None,None,None,2022-02-13 04:00:00
-16998,False,101,Genoa,GEN,264,Salernitana,SAL,None,None,None,None,2022-02-13 04:00:00
-16999,False,94,Verona,VER,99,Udinese,UDI,None,None,None,None,2022-02-13 04:00:00
-17000,False,96,Lazio,LAZ,97,Bologna,BOL,None,None,None,None,2022-02-13 04:00:00
-17001,False,111,AC Milan,MIL,102,Sampdoria,SAM,None,None,None,None,2022-02-13 04:00:00
-17002,False,105,Napoli,NAP,106,Inter,INT,None,None,None,None,2022-02-13 04:00:00
-17003,False,104,Sassuolo,SAS,95,Roma,ROM,None,None,None,None,2022-02-13 04:00:00
-17004,False,260,Spezia,SPE,110,Fiorentina,FIO,None,None,None,None,2022-02-13 04:00:00
-17005,False,113,Torino,TOR,265,Venezia,VEN,None,None,None,None,2022-02-13 04:00:00
-17006,False,97,Bologna,BOL,260,Spezia,SPE,None,None,None,None,2022-02-20 04:00:00
-17007,False,116,Cagliari,CAG,105,Napoli,NAP,None,None,None,None,2022-02-20 04:00:00
-17008,False,110,Fiorentina,FIO,107,Atalanta,ATA,None,None,None,None,2022-02-20 04:00:00
-17009,False,106,Inter,INT,104,Sassuolo,SAS,None,None,None,None,2022-02-20 04:00:00
-17010,False,98,Juventus,JUV,113,Torino,TOR,None,None,None,None,2022-02-20 04:00:00
-17011,False,95,Roma,ROM,94,Verona,VER,None,None,None,None,2022-02-20 04:00:00
-17012,False,264,Salernitana,SAL,111,AC Milan,MIL,None,None,None,None,2022-02-20 04:00:00
-17013,False,102,Sampdoria,SAM,108,Empoli,EMP,None,None,None,None,2022-02-20 04:00:00
-17014,False,99,Udinese,UDI,96,Lazio,LAZ,None,None,None,None,2022-02-20 04:00:00
-17015,False,265,Venezia,VEN,101,Genoa,GEN,None,None,None,None,2022-02-20 04:00:00
-17016,False,107,Atalanta,ATA,102,Sampdoria,SAM,None,None,None,None,2022-02-27 04:00:00
-17017,False,108,Empoli,EMP,98,Juventus,JUV,None,None,None,None,2022-02-27 04:00:00
-17018,False,101,Genoa,GEN,106,Inter,INT,None,None,None,None,2022-02-27 04:00:00
-17019,False,94,Verona,VER,265,Venezia,VEN,None,None,None,None,2022-02-27 04:00:00
-17020,False,96,Lazio,LAZ,105,Napoli,NAP,None,None,None,None,2022-02-27 04:00:00
-17021,False,111,AC Milan,MIL,99,Udinese,UDI,None,None,None,None,2022-02-27 04:00:00
-17022,False,264,Salernitana,SAL,97,Bologna,BOL,None,None,None,None,2022-02-27 04:00:00
-17023,False,104,Sassuolo,SAS,110,Fiorentina,FIO,None,None,None,None,2022-02-27 04:00:00
-17024,False,260,Spezia,SPE,95,Roma,ROM,None,None,None,None,2022-02-27 04:00:00
-17025,False,113,Torino,TOR,116,Cagliari,CAG,None,None,None,None,2022-02-27 04:00:00
-17026,False,97,Bologna,BOL,113,Torino,TOR,None,None,None,None,2022-03-06 04:00:00
-17027,False,116,Cagliari,CAG,96,Lazio,LAZ,None,None,None,None,2022-03-06 04:00:00
-17028,False,110,Fiorentina,FIO,94,Verona,VER,None,None,None,None,2022-03-06 04:00:00
-17029,False,101,Genoa,GEN,108,Empoli,EMP,None,None,None,None,2022-03-06 04:00:00
-17030,False,106,Inter,INT,264,Salernitana,SAL,None,None,None,None,2022-03-06 04:00:00
-17031,False,98,Juventus,JUV,260,Spezia,SPE,None,None,None,None,2022-03-06 04:00:00
-17032,False,105,Napoli,NAP,111,AC Milan,MIL,None,None,None,None,2022-03-06 04:00:00
-17033,False,95,Roma,ROM,107,Atalanta,ATA,None,None,None,None,2022-03-06 04:00:00
-17034,False,99,Udinese,UDI,102,Sampdoria,SAM,None,None,None,None,2022-03-06 04:00:00
-17035,False,265,Venezia,VEN,104,Sassuolo,SAS,None,None,None,None,2022-03-06 04:00:00
-17036,False,107,Atalanta,ATA,101,Genoa,GEN,None,None,None,None,2022-03-13 04:00:00
-17037,False,110,Fiorentina,FIO,97,Bologna,BOL,None,None,None,None,2022-03-13 04:00:00
-17038,False,94,Verona,VER,105,Napoli,NAP,None,None,None,None,2022-03-13 04:00:00
-17039,False,96,Lazio,LAZ,265,Venezia,VEN,None,None,None,None,2022-03-13 04:00:00
-17040,False,111,AC Milan,MIL,108,Empoli,EMP,None,None,None,None,2022-03-13 04:00:00
-17041,False,264,Salernitana,SAL,104,Sassuolo,SAS,None,None,None,None,2022-03-13 04:00:00
-17042,False,102,Sampdoria,SAM,98,Juventus,JUV,None,None,None,None,2022-03-13 04:00:00
-17043,False,260,Spezia,SPE,116,Cagliari,CAG,None,None,None,None,2022-03-13 04:00:00
-17044,False,113,Torino,TOR,106,Inter,INT,None,None,None,None,2022-03-13 04:00:00
-17045,False,99,Udinese,UDI,95,Roma,ROM,None,None,None,None,2022-03-13 04:00:00
-17046,False,97,Bologna,BOL,107,Atalanta,ATA,None,None,None,None,2022-03-20 04:00:00
-17047,False,116,Cagliari,CAG,111,AC Milan,MIL,None,None,None,None,2022-03-20 04:00:00
-17048,False,108,Empoli,EMP,94,Verona,VER,None,None,None,None,2022-03-20 04:00:00
-17049,False,101,Genoa,GEN,113,Torino,TOR,None,None,None,None,2022-03-20 04:00:00
-17050,False,106,Inter,INT,110,Fiorentina,FIO,None,None,None,None,2022-03-20 04:00:00
-17051,False,98,Juventus,JUV,264,Salernitana,SAL,None,None,None,None,2022-03-20 04:00:00
-17052,False,105,Napoli,NAP,99,Udinese,UDI,None,None,None,None,2022-03-20 04:00:00
-17053,False,95,Roma,ROM,96,Lazio,LAZ,None,None,None,None,2022-03-20 04:00:00
-17054,False,104,Sassuolo,SAS,260,Spezia,SPE,None,None,None,None,2022-03-20 04:00:00
-17055,False,265,Venezia,VEN,102,Sampdoria,SAM,None,None,None,None,2022-03-20 04:00:00
-17056,False,107,Atalanta,ATA,105,Napoli,NAP,None,None,None,None,2022-04-03 03:00:00
-17057,False,110,Fiorentina,FIO,108,Empoli,EMP,None,None,None,None,2022-04-03 03:00:00
-17058,False,94,Verona,VER,101,Genoa,GEN,None,None,None,None,2022-04-03 03:00:00
-17059,False,98,Juventus,JUV,106,Inter,INT,None,None,None,None,2022-04-03 03:00:00
-17060,False,96,Lazio,LAZ,104,Sassuolo,SAS,None,None,None,None,2022-04-03 03:00:00
-17061,False,111,AC Milan,MIL,97,Bologna,BOL,None,None,None,None,2022-04-03 03:00:00
-17062,False,264,Salernitana,SAL,113,Torino,TOR,None,None,None,None,2022-04-03 03:00:00
-17063,False,102,Sampdoria,SAM,95,Roma,ROM,None,None,None,None,2022-04-03 03:00:00
-17064,False,260,Spezia,SPE,265,Venezia,VEN,None,None,None,None,2022-04-03 03:00:00
-17065,False,99,Udinese,UDI,116,Cagliari,CAG,None,None,None,None,2022-04-03 03:00:00
-17066,False,97,Bologna,BOL,102,Sampdoria,SAM,None,None,None,None,2022-04-10 03:00:00
-17067,False,116,Cagliari,CAG,98,Juventus,JUV,None,None,None,None,2022-04-10 03:00:00
-17068,False,108,Empoli,EMP,260,Spezia,SPE,None,None,None,None,2022-04-10 03:00:00
-17069,False,101,Genoa,GEN,96,Lazio,LAZ,None,None,None,None,2022-04-10 03:00:00
-17070,False,106,Inter,INT,94,Verona,VER,None,None,None,None,2022-04-10 03:00:00
-17071,False,105,Napoli,NAP,110,Fiorentina,FIO,None,None,None,None,2022-04-10 03:00:00
-17072,False,95,Roma,ROM,264,Salernitana,SAL,None,None,None,None,2022-04-10 03:00:00
-17073,False,104,Sassuolo,SAS,107,Atalanta,ATA,None,None,None,None,2022-04-10 03:00:00
-17074,False,113,Torino,TOR,111,AC Milan,MIL,None,None,None,None,2022-04-10 03:00:00
-17075,False,265,Venezia,VEN,99,Udinese,UDI,None,None,None,None,2022-04-10 03:00:00
-17076,False,107,Atalanta,ATA,94,Verona,VER,None,None,None,None,2022-04-16 03:00:00
-17077,False,116,Cagliari,CAG,104,Sassuolo,SAS,None,None,None,None,2022-04-16 03:00:00
-17078,False,110,Fiorentina,FIO,265,Venezia,VEN,None,None,None,None,2022-04-16 03:00:00
-17079,False,98,Juventus,JUV,97,Bologna,BOL,None,None,None,None,2022-04-16 03:00:00
-17080,False,96,Lazio,LAZ,113,Torino,TOR,None,None,None,None,2022-04-16 03:00:00
-17081,False,111,AC Milan,MIL,101,Genoa,GEN,None,None,None,None,2022-04-16 03:00:00
-17082,False,105,Napoli,NAP,95,Roma,ROM,None,None,None,None,2022-04-16 03:00:00
-17083,False,102,Sampdoria,SAM,264,Salernitana,SAL,None,None,None,None,2022-04-16 03:00:00
-17084,False,260,Spezia,SPE,106,Inter,INT,None,None,None,None,2022-04-16 03:00:00
-17085,False,99,Udinese,UDI,108,Empoli,EMP,None,None,None,None,2022-04-16 03:00:00
-17086,False,97,Bologna,BOL,99,Udinese,UDI,None,None,None,None,2022-04-24 03:00:00
-17087,False,108,Empoli,EMP,105,Napoli,NAP,None,None,None,None,2022-04-24 03:00:00
-17088,False,101,Genoa,GEN,116,Cagliari,CAG,None,None,None,None,2022-04-24 03:00:00
-17089,False,94,Verona,VER,102,Sampdoria,SAM,None,None,None,None,2022-04-24 03:00:00
-17090,False,106,Inter,INT,95,Roma,ROM,None,None,None,None,2022-04-24 03:00:00
-17091,False,96,Lazio,LAZ,111,AC Milan,MIL,None,None,None,None,2022-04-24 03:00:00
-17092,False,264,Salernitana,SAL,110,Fiorentina,FIO,None,None,None,None,2022-04-24 03:00:00
-17093,False,104,Sassuolo,SAS,98,Juventus,JUV,None,None,None,None,2022-04-24 03:00:00
-17094,False,113,Torino,TOR,260,Spezia,SPE,None,None,None,None,2022-04-24 03:00:00
-17095,False,265,Venezia,VEN,107,Atalanta,ATA,None,None,None,None,2022-04-24 03:00:00
-17096,False,107,Atalanta,ATA,264,Salernitana,SAL,None,None,None,None,2022-05-01 03:00:00
-17097,False,116,Cagliari,CAG,94,Verona,VER,None,None,None,None,2022-05-01 03:00:00
-17098,False,108,Empoli,EMP,113,Torino,TOR,None,None,None,None,2022-05-01 03:00:00
-17099,False,98,Juventus,JUV,265,Venezia,VEN,None,None,None,None,2022-05-01 03:00:00
-17100,False,111,AC Milan,MIL,110,Fiorentina,FIO,None,None,None,None,2022-05-01 03:00:00
-17101,False,105,Napoli,NAP,104,Sassuolo,SAS,None,None,None,None,2022-05-01 03:00:00
-17102,False,95,Roma,ROM,97,Bologna,BOL,None,None,None,None,2022-05-01 03:00:00
-17103,False,102,Sampdoria,SAM,101,Genoa,GEN,None,None,None,None,2022-05-01 03:00:00
-17104,False,260,Spezia,SPE,96,Lazio,LAZ,None,None,None,None,2022-05-01 03:00:00
-17105,False,99,Udinese,UDI,106,Inter,INT,None,None,None,None,2022-05-01 03:00:00
-17106,False,110,Fiorentina,FIO,95,Roma,ROM,None,None,None,None,2022-05-08 03:00:00
-17107,False,101,Genoa,GEN,98,Juventus,JUV,None,None,None,None,2022-05-08 03:00:00
-17108,False,94,Verona,VER,111,AC Milan,MIL,None,None,None,None,2022-05-08 03:00:00
-17109,False,106,Inter,INT,108,Empoli,EMP,None,None,None,None,2022-05-08 03:00:00
-17110,False,96,Lazio,LAZ,102,Sampdoria,SAM,None,None,None,None,2022-05-08 03:00:00
-17111,False,264,Salernitana,SAL,116,Cagliari,CAG,None,None,None,None,2022-05-08 03:00:00
-17112,False,104,Sassuolo,SAS,99,Udinese,UDI,None,None,None,None,2022-05-08 03:00:00
-17113,False,260,Spezia,SPE,107,Atalanta,ATA,None,None,None,None,2022-05-08 03:00:00
-17114,False,113,Torino,TOR,105,Napoli,NAP,None,None,None,None,2022-05-08 03:00:00
-17115,False,265,Venezia,VEN,97,Bologna,BOL,None,None,None,None,2022-05-08 03:00:00
-17116,False,97,Bologna,BOL,104,Sassuolo,SAS,None,None,None,None,2022-05-15 03:00:00
-17117,False,116,Cagliari,CAG,106,Inter,INT,None,None,None,None,2022-05-15 03:00:00
-17118,False,108,Empoli,EMP,264,Salernitana,SAL,None,None,None,None,2022-05-15 03:00:00
-17119,False,94,Verona,VER,113,Torino,TOR,None,None,None,None,2022-05-15 03:00:00
-17120,False,98,Juventus,JUV,96,Lazio,LAZ,None,None,None,None,2022-05-15 03:00:00
-17121,False,111,AC Milan,MIL,107,Atalanta,ATA,None,None,None,None,2022-05-15 03:00:00
-17122,False,105,Napoli,NAP,101,Genoa,GEN,None,None,None,None,2022-05-15 03:00:00
-17123,False,95,Roma,ROM,265,Venezia,VEN,None,None,None,None,2022-05-15 03:00:00
-17124,False,102,Sampdoria,SAM,110,Fiorentina,FIO,None,None,None,None,2022-05-15 03:00:00
-17125,False,99,Udinese,UDI,260,Spezia,SPE,None,None,None,None,2022-05-15 03:00:00
-17126,False,107,Atalanta,ATA,108,Empoli,EMP,None,None,None,None,2022-05-22 03:00:00
-17127,False,110,Fiorentina,FIO,98,Juventus,JUV,None,None,None,None,2022-05-22 03:00:00
-17128,False,101,Genoa,GEN,97,Bologna,BOL,None,None,None,None,2022-05-22 03:00:00
-17129,False,106,Inter,INT,102,Sampdoria,SAM,None,None,None,None,2022-05-22 03:00:00
-17130,False,96,Lazio,LAZ,94,Verona,VER,None,None,None,None,2022-05-22 03:00:00
-17131,False,264,Salernitana,SAL,99,Udinese,UDI,None,None,None,None,2022-05-22 03:00:00
-17132,False,104,Sassuolo,SAS,111,AC Milan,MIL,None,None,None,None,2022-05-22 03:00:00
-17133,False,260,Spezia,SPE,105,Napoli,NAP,None,None,None,None,2022-05-22 03:00:00
-17134,False,113,Torino,TOR,95,Roma,ROM,None,None,None,None,2022-05-22 03:00:00
-17135,False,265,Venezia,VEN,116,Cagliari,CAG,None,None,None,None,2022-05-22 03:00:00
+16973,False,102,Sampdoria,SAM,113,Torino,TOR,None,None,None,None,2022-01-15 14:00:00
+16972,False,264,Salernitana,SAL,96,Lazio,LAZ,None,None,None,None,2022-01-15 17:00:00
+16969,False,98,Juventus,JUV,99,Udinese,UDI,None,None,None,None,2022-01-15 19:45:00
+16974,False,104,Sassuolo,SAS,94,Verona,VER,None,None,None,None,2022-01-16 11:30:00
+16975,False,265,Venezia,VEN,108,Empoli,EMP,None,None,None,None,2022-01-16 14:00:00
+16971,False,95,Roma,ROM,116,Cagliari,CAG,None,None,None,None,2022-01-16 17:00:00
+16966,False,107,Atalanta,ATA,106,Inter,INT,None,None,None,None,2022-01-16 19:45:00
+16967,False,97,Bologna,BOL,105,Napoli,NAP,None,None,None,None,2022-01-17 17:30:00
+16970,False,111,AC Milan,MIL,260,Spezia,SPE,None,None,None,None,2022-01-17 17:30:00
+16968,False,110,Fiorentina,FIO,101,Genoa,GEN,None,None,None,None,2022-01-17 19:45:00
+16979,False,94,Verona,VER,97,Bologna,BOL,None,None,None,None,2022-01-21 19:45:00
+16978,False,101,Genoa,GEN,99,Udinese,UDI,None,None,None,None,2022-01-22 14:00:00
+16980,False,106,Inter,INT,265,Venezia,VEN,None,None,None,None,2022-01-22 17:00:00
+16981,False,96,Lazio,LAZ,107,Atalanta,ATA,None,None,None,None,2022-01-22 19:45:00
+16976,False,116,Cagliari,CAG,110,Fiorentina,FIO,None,None,None,None,2022-01-23 11:30:00
+16983,False,105,Napoli,NAP,264,Salernitana,SAL,None,None,None,None,2022-01-23 14:00:00
+16984,False,260,Spezia,SPE,102,Sampdoria,SAM,None,None,None,None,2022-01-23 14:00:00
+16985,False,113,Torino,TOR,104,Sassuolo,SAS,None,None,None,None,2022-01-23 14:00:00
+16977,False,108,Empoli,EMP,95,Roma,ROM,None,None,None,None,2022-01-23 17:00:00
+16982,False,111,AC Milan,MIL,98,Juventus,JUV,None,None,None,None,2022-01-23 19:45:00
+16986,False,107,Atalanta,ATA,116,Cagliari,CAG,None,None,None,None,2022-02-06 02:00:00
+16987,False,97,Bologna,BOL,108,Empoli,EMP,None,None,None,None,2022-02-06 02:00:00
+16988,False,110,Fiorentina,FIO,96,Lazio,LAZ,None,None,None,None,2022-02-06 02:00:00
+16989,False,106,Inter,INT,111,AC Milan,MIL,None,None,None,None,2022-02-06 02:00:00
+16990,False,98,Juventus,JUV,94,Verona,VER,None,None,None,None,2022-02-06 02:00:00
+16991,False,95,Roma,ROM,101,Genoa,GEN,None,None,None,None,2022-02-06 02:00:00
+16992,False,264,Salernitana,SAL,260,Spezia,SPE,None,None,None,None,2022-02-06 02:00:00
+16993,False,102,Sampdoria,SAM,104,Sassuolo,SAS,None,None,None,None,2022-02-06 02:00:00
+16994,False,99,Udinese,UDI,113,Torino,TOR,None,None,None,None,2022-02-06 02:00:00
+16995,False,265,Venezia,VEN,105,Napoli,NAP,None,None,None,None,2022-02-06 02:00:00
+16996,False,107,Atalanta,ATA,98,Juventus,JUV,None,None,None,None,2022-02-13 02:00:00
+16997,False,108,Empoli,EMP,116,Cagliari,CAG,None,None,None,None,2022-02-13 02:00:00
+16998,False,101,Genoa,GEN,264,Salernitana,SAL,None,None,None,None,2022-02-13 02:00:00
+16999,False,94,Verona,VER,99,Udinese,UDI,None,None,None,None,2022-02-13 02:00:00
+17000,False,96,Lazio,LAZ,97,Bologna,BOL,None,None,None,None,2022-02-13 02:00:00
+17001,False,111,AC Milan,MIL,102,Sampdoria,SAM,None,None,None,None,2022-02-13 02:00:00
+17002,False,105,Napoli,NAP,106,Inter,INT,None,None,None,None,2022-02-13 02:00:00
+17003,False,104,Sassuolo,SAS,95,Roma,ROM,None,None,None,None,2022-02-13 02:00:00
+17004,False,260,Spezia,SPE,110,Fiorentina,FIO,None,None,None,None,2022-02-13 02:00:00
+17005,False,113,Torino,TOR,265,Venezia,VEN,None,None,None,None,2022-02-13 02:00:00
+17006,False,97,Bologna,BOL,260,Spezia,SPE,None,None,None,None,2022-02-20 02:00:00
+17007,False,116,Cagliari,CAG,105,Napoli,NAP,None,None,None,None,2022-02-20 02:00:00
+17008,False,110,Fiorentina,FIO,107,Atalanta,ATA,None,None,None,None,2022-02-20 02:00:00
+17009,False,106,Inter,INT,104,Sassuolo,SAS,None,None,None,None,2022-02-20 02:00:00
+17010,False,98,Juventus,JUV,113,Torino,TOR,None,None,None,None,2022-02-20 02:00:00
+17011,False,95,Roma,ROM,94,Verona,VER,None,None,None,None,2022-02-20 02:00:00
+17012,False,264,Salernitana,SAL,111,AC Milan,MIL,None,None,None,None,2022-02-20 02:00:00
+17013,False,102,Sampdoria,SAM,108,Empoli,EMP,None,None,None,None,2022-02-20 02:00:00
+17014,False,99,Udinese,UDI,96,Lazio,LAZ,None,None,None,None,2022-02-20 02:00:00
+17015,False,265,Venezia,VEN,101,Genoa,GEN,None,None,None,None,2022-02-20 02:00:00
+17016,False,107,Atalanta,ATA,102,Sampdoria,SAM,None,None,None,None,2022-02-27 02:00:00
+17017,False,108,Empoli,EMP,98,Juventus,JUV,None,None,None,None,2022-02-27 02:00:00
+17018,False,101,Genoa,GEN,106,Inter,INT,None,None,None,None,2022-02-27 02:00:00
+17019,False,94,Verona,VER,265,Venezia,VEN,None,None,None,None,2022-02-27 02:00:00
+17020,False,96,Lazio,LAZ,105,Napoli,NAP,None,None,None,None,2022-02-27 02:00:00
+17021,False,111,AC Milan,MIL,99,Udinese,UDI,None,None,None,None,2022-02-27 02:00:00
+17022,False,264,Salernitana,SAL,97,Bologna,BOL,None,None,None,None,2022-02-27 02:00:00
+17023,False,104,Sassuolo,SAS,110,Fiorentina,FIO,None,None,None,None,2022-02-27 02:00:00
+17024,False,260,Spezia,SPE,95,Roma,ROM,None,None,None,None,2022-02-27 02:00:00
+17025,False,113,Torino,TOR,116,Cagliari,CAG,None,None,None,None,2022-02-27 02:00:00
+17026,False,97,Bologna,BOL,113,Torino,TOR,None,None,None,None,2022-03-06 02:00:00
+17027,False,116,Cagliari,CAG,96,Lazio,LAZ,None,None,None,None,2022-03-06 02:00:00
+17028,False,110,Fiorentina,FIO,94,Verona,VER,None,None,None,None,2022-03-06 02:00:00
+17029,False,101,Genoa,GEN,108,Empoli,EMP,None,None,None,None,2022-03-06 02:00:00
+17030,False,106,Inter,INT,264,Salernitana,SAL,None,None,None,None,2022-03-06 02:00:00
+17031,False,98,Juventus,JUV,260,Spezia,SPE,None,None,None,None,2022-03-06 02:00:00
+17032,False,105,Napoli,NAP,111,AC Milan,MIL,None,None,None,None,2022-03-06 02:00:00
+17033,False,95,Roma,ROM,107,Atalanta,ATA,None,None,None,None,2022-03-06 02:00:00
+17034,False,99,Udinese,UDI,102,Sampdoria,SAM,None,None,None,None,2022-03-06 02:00:00
+17035,False,265,Venezia,VEN,104,Sassuolo,SAS,None,None,None,None,2022-03-06 02:00:00
+17036,False,107,Atalanta,ATA,101,Genoa,GEN,None,None,None,None,2022-03-13 02:00:00
+17037,False,110,Fiorentina,FIO,97,Bologna,BOL,None,None,None,None,2022-03-13 02:00:00
+17038,False,94,Verona,VER,105,Napoli,NAP,None,None,None,None,2022-03-13 02:00:00
+17039,False,96,Lazio,LAZ,265,Venezia,VEN,None,None,None,None,2022-03-13 02:00:00
+17040,False,111,AC Milan,MIL,108,Empoli,EMP,None,None,None,None,2022-03-13 02:00:00
+17041,False,264,Salernitana,SAL,104,Sassuolo,SAS,None,None,None,None,2022-03-13 02:00:00
+17042,False,102,Sampdoria,SAM,98,Juventus,JUV,None,None,None,None,2022-03-13 02:00:00
+17043,False,260,Spezia,SPE,116,Cagliari,CAG,None,None,None,None,2022-03-13 02:00:00
+17044,False,113,Torino,TOR,106,Inter,INT,None,None,None,None,2022-03-13 02:00:00
+17045,False,99,Udinese,UDI,95,Roma,ROM,None,None,None,None,2022-03-13 02:00:00
+17046,False,97,Bologna,BOL,107,Atalanta,ATA,None,None,None,None,2022-03-20 02:00:00
+17047,False,116,Cagliari,CAG,111,AC Milan,MIL,None,None,None,None,2022-03-20 02:00:00
+17048,False,108,Empoli,EMP,94,Verona,VER,None,None,None,None,2022-03-20 02:00:00
+17049,False,101,Genoa,GEN,113,Torino,TOR,None,None,None,None,2022-03-20 02:00:00
+17050,False,106,Inter,INT,110,Fiorentina,FIO,None,None,None,None,2022-03-20 02:00:00
+17051,False,98,Juventus,JUV,264,Salernitana,SAL,None,None,None,None,2022-03-20 02:00:00
+17052,False,105,Napoli,NAP,99,Udinese,UDI,None,None,None,None,2022-03-20 02:00:00
+17053,False,95,Roma,ROM,96,Lazio,LAZ,None,None,None,None,2022-03-20 02:00:00
+17054,False,104,Sassuolo,SAS,260,Spezia,SPE,None,None,None,None,2022-03-20 02:00:00
+17055,False,265,Venezia,VEN,102,Sampdoria,SAM,None,None,None,None,2022-03-20 02:00:00
+17056,False,107,Atalanta,ATA,105,Napoli,NAP,None,None,None,None,2022-04-03 01:00:00
+17057,False,110,Fiorentina,FIO,108,Empoli,EMP,None,None,None,None,2022-04-03 01:00:00
+17058,False,94,Verona,VER,101,Genoa,GEN,None,None,None,None,2022-04-03 01:00:00
+17059,False,98,Juventus,JUV,106,Inter,INT,None,None,None,None,2022-04-03 01:00:00
+17060,False,96,Lazio,LAZ,104,Sassuolo,SAS,None,None,None,None,2022-04-03 01:00:00
+17061,False,111,AC Milan,MIL,97,Bologna,BOL,None,None,None,None,2022-04-03 01:00:00
+17062,False,264,Salernitana,SAL,113,Torino,TOR,None,None,None,None,2022-04-03 01:00:00
+17063,False,102,Sampdoria,SAM,95,Roma,ROM,None,None,None,None,2022-04-03 01:00:00
+17064,False,260,Spezia,SPE,265,Venezia,VEN,None,None,None,None,2022-04-03 01:00:00
+17065,False,99,Udinese,UDI,116,Cagliari,CAG,None,None,None,None,2022-04-03 01:00:00
+17066,False,97,Bologna,BOL,102,Sampdoria,SAM,None,None,None,None,2022-04-10 01:00:00
+17067,False,116,Cagliari,CAG,98,Juventus,JUV,None,None,None,None,2022-04-10 01:00:00
+17068,False,108,Empoli,EMP,260,Spezia,SPE,None,None,None,None,2022-04-10 01:00:00
+17069,False,101,Genoa,GEN,96,Lazio,LAZ,None,None,None,None,2022-04-10 01:00:00
+17070,False,106,Inter,INT,94,Verona,VER,None,None,None,None,2022-04-10 01:00:00
+17071,False,105,Napoli,NAP,110,Fiorentina,FIO,None,None,None,None,2022-04-10 01:00:00
+17072,False,95,Roma,ROM,264,Salernitana,SAL,None,None,None,None,2022-04-10 01:00:00
+17073,False,104,Sassuolo,SAS,107,Atalanta,ATA,None,None,None,None,2022-04-10 01:00:00
+17074,False,113,Torino,TOR,111,AC Milan,MIL,None,None,None,None,2022-04-10 01:00:00
+17075,False,265,Venezia,VEN,99,Udinese,UDI,None,None,None,None,2022-04-10 01:00:00
+17076,False,107,Atalanta,ATA,94,Verona,VER,None,None,None,None,2022-04-16 01:00:00
+17077,False,116,Cagliari,CAG,104,Sassuolo,SAS,None,None,None,None,2022-04-16 01:00:00
+17078,False,110,Fiorentina,FIO,265,Venezia,VEN,None,None,None,None,2022-04-16 01:00:00
+17079,False,98,Juventus,JUV,97,Bologna,BOL,None,None,None,None,2022-04-16 01:00:00
+17080,False,96,Lazio,LAZ,113,Torino,TOR,None,None,None,None,2022-04-16 01:00:00
+17081,False,111,AC Milan,MIL,101,Genoa,GEN,None,None,None,None,2022-04-16 01:00:00
+17082,False,105,Napoli,NAP,95,Roma,ROM,None,None,None,None,2022-04-16 01:00:00
+17083,False,102,Sampdoria,SAM,264,Salernitana,SAL,None,None,None,None,2022-04-16 01:00:00
+17084,False,260,Spezia,SPE,106,Inter,INT,None,None,None,None,2022-04-16 01:00:00
+17085,False,99,Udinese,UDI,108,Empoli,EMP,None,None,None,None,2022-04-16 01:00:00
+17086,False,97,Bologna,BOL,99,Udinese,UDI,None,None,None,None,2022-04-24 01:00:00
+17087,False,108,Empoli,EMP,105,Napoli,NAP,None,None,None,None,2022-04-24 01:00:00
+17088,False,101,Genoa,GEN,116,Cagliari,CAG,None,None,None,None,2022-04-24 01:00:00
+17089,False,94,Verona,VER,102,Sampdoria,SAM,None,None,None,None,2022-04-24 01:00:00
+17090,False,106,Inter,INT,95,Roma,ROM,None,None,None,None,2022-04-24 01:00:00
+17091,False,96,Lazio,LAZ,111,AC Milan,MIL,None,None,None,None,2022-04-24 01:00:00
+17092,False,264,Salernitana,SAL,110,Fiorentina,FIO,None,None,None,None,2022-04-24 01:00:00
+17093,False,104,Sassuolo,SAS,98,Juventus,JUV,None,None,None,None,2022-04-24 01:00:00
+17094,False,113,Torino,TOR,260,Spezia,SPE,None,None,None,None,2022-04-24 01:00:00
+17095,False,265,Venezia,VEN,107,Atalanta,ATA,None,None,None,None,2022-04-24 01:00:00
+17096,False,107,Atalanta,ATA,264,Salernitana,SAL,None,None,None,None,2022-05-01 01:00:00
+17097,False,116,Cagliari,CAG,94,Verona,VER,None,None,None,None,2022-05-01 01:00:00
+17098,False,108,Empoli,EMP,113,Torino,TOR,None,None,None,None,2022-05-01 01:00:00
+17099,False,98,Juventus,JUV,265,Venezia,VEN,None,None,None,None,2022-05-01 01:00:00
+17100,False,111,AC Milan,MIL,110,Fiorentina,FIO,None,None,None,None,2022-05-01 01:00:00
+17101,False,105,Napoli,NAP,104,Sassuolo,SAS,None,None,None,None,2022-05-01 01:00:00
+17102,False,95,Roma,ROM,97,Bologna,BOL,None,None,None,None,2022-05-01 01:00:00
+17103,False,102,Sampdoria,SAM,101,Genoa,GEN,None,None,None,None,2022-05-01 01:00:00
+17104,False,260,Spezia,SPE,96,Lazio,LAZ,None,None,None,None,2022-05-01 01:00:00
+17105,False,99,Udinese,UDI,106,Inter,INT,None,None,None,None,2022-05-01 01:00:00
+17106,False,110,Fiorentina,FIO,95,Roma,ROM,None,None,None,None,2022-05-08 01:00:00
+17107,False,101,Genoa,GEN,98,Juventus,JUV,None,None,None,None,2022-05-08 01:00:00
+17108,False,94,Verona,VER,111,AC Milan,MIL,None,None,None,None,2022-05-08 01:00:00
+17109,False,106,Inter,INT,108,Empoli,EMP,None,None,None,None,2022-05-08 01:00:00
+17110,False,96,Lazio,LAZ,102,Sampdoria,SAM,None,None,None,None,2022-05-08 01:00:00
+17111,False,264,Salernitana,SAL,116,Cagliari,CAG,None,None,None,None,2022-05-08 01:00:00
+17112,False,104,Sassuolo,SAS,99,Udinese,UDI,None,None,None,None,2022-05-08 01:00:00
+17113,False,260,Spezia,SPE,107,Atalanta,ATA,None,None,None,None,2022-05-08 01:00:00
+17114,False,113,Torino,TOR,105,Napoli,NAP,None,None,None,None,2022-05-08 01:00:00
+17115,False,265,Venezia,VEN,97,Bologna,BOL,None,None,None,None,2022-05-08 01:00:00
+17116,False,97,Bologna,BOL,104,Sassuolo,SAS,None,None,None,None,2022-05-15 01:00:00
+17117,False,116,Cagliari,CAG,106,Inter,INT,None,None,None,None,2022-05-15 01:00:00
+17118,False,108,Empoli,EMP,264,Salernitana,SAL,None,None,None,None,2022-05-15 01:00:00
+17119,False,94,Verona,VER,113,Torino,TOR,None,None,None,None,2022-05-15 01:00:00
+17120,False,98,Juventus,JUV,96,Lazio,LAZ,None,None,None,None,2022-05-15 01:00:00
+17121,False,111,AC Milan,MIL,107,Atalanta,ATA,None,None,None,None,2022-05-15 01:00:00
+17122,False,105,Napoli,NAP,101,Genoa,GEN,None,None,None,None,2022-05-15 01:00:00
+17123,False,95,Roma,ROM,265,Venezia,VEN,None,None,None,None,2022-05-15 01:00:00
+17124,False,102,Sampdoria,SAM,110,Fiorentina,FIO,None,None,None,None,2022-05-15 01:00:00
+17125,False,99,Udinese,UDI,260,Spezia,SPE,None,None,None,None,2022-05-15 01:00:00
+17126,False,107,Atalanta,ATA,108,Empoli,EMP,None,None,None,None,2022-05-22 01:00:00
+17127,False,110,Fiorentina,FIO,98,Juventus,JUV,None,None,None,None,2022-05-22 01:00:00
+17128,False,101,Genoa,GEN,97,Bologna,BOL,None,None,None,None,2022-05-22 01:00:00
+17129,False,106,Inter,INT,102,Sampdoria,SAM,None,None,None,None,2022-05-22 01:00:00
+17130,False,96,Lazio,LAZ,94,Verona,VER,None,None,None,None,2022-05-22 01:00:00
+17131,False,264,Salernitana,SAL,99,Udinese,UDI,None,None,None,None,2022-05-22 01:00:00
+17132,False,104,Sassuolo,SAS,111,AC Milan,MIL,None,None,None,None,2022-05-22 01:00:00
+17133,False,260,Spezia,SPE,105,Napoli,NAP,None,None,None,None,2022-05-22 01:00:00
+17134,False,113,Torino,TOR,95,Roma,ROM,None,None,None,None,2022-05-22 01:00:00
+17135,False,265,Venezia,VEN,116,Cagliari,CAG,None,None,None,None,2022-05-22 01:00:00

@@ -1,0 +1,24 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+452996,4,BlockedShot,0.85,0.4640000152587891,0.10597310215234756,Leandro Trossard,h,7698,OpenPlay,2021,LeftFoot,16587,Brighton,Crystal Palace,1,1,2022-01-14 20:00:00,,TakeOn
+452997,6,BlockedShot,0.7080000305175781,0.435,0.013137388974428177,Adam Lallana,h,486,FromCorner,2021,LeftFoot,16587,Brighton,Crystal Palace,1,1,2022-01-14 20:00:00,,None
+452998,9,SavedShot,0.879000015258789,0.3559999847412109,0.22762659192085266,Leandro Trossard,h,7698,OpenPlay,2021,RightFoot,16587,Brighton,Crystal Palace,1,1,2022-01-14 20:00:00,Marc Cucurella,BallRecovery
+452999,19,MissedShots,0.9330000305175781,0.28899999618530275,0.04965338110923767,Neal Maupay,h,3621,OpenPlay,2021,RightFoot,16587,Brighton,Crystal Palace,1,1,2022-01-14 20:00:00,Joël Veltman,HeadPass
+453000,22,BlockedShot,0.7169999694824218,0.4370000076293945,0.014661518856883049,Adam Lallana,h,486,OpenPlay,2021,RightFoot,16587,Brighton,Crystal Palace,1,1,2022-01-14 20:00:00,,BallTouch
+453001,37,SavedShot,0.885,0.5,0.7611688375473022,Pascal Groß,h,239,Penalty,2021,RightFoot,16587,Brighton,Crystal Palace,1,1,2022-01-14 20:00:00,,Standard
+453002,37,SavedShot,0.905,0.49700000762939456,0.07231125980615616,Dan Burn,h,7382,FromCorner,2021,Head,16587,Brighton,Crystal Palace,1,1,2022-01-14 20:00:00,Pascal Groß,Cross
+453005,46,MissedShots,0.8480000305175781,0.6659999847412109,0.04503073915839195,Leandro Trossard,h,7698,OpenPlay,2021,RightFoot,16587,Brighton,Crystal Palace,1,1,2022-01-14 20:00:00,,None
+453006,46,ShotOnPost,0.9490000152587891,0.41900001525878905,0.1214776486158371,Jakub Moder,h,9284,OpenPlay,2021,RightFoot,16587,Brighton,Crystal Palace,1,1,2022-01-14 20:00:00,Pascal Groß,Cross
+453004,47,MissedShots,0.765,0.5259999847412109,0.028355149552226067,Leandro Trossard,h,7698,OpenPlay,2021,RightFoot,16587,Brighton,Crystal Palace,1,1,2022-01-14 20:00:00,Marc Cucurella,Pass
+453007,49,SavedShot,0.8930000305175781,0.5379999923706055,0.4091818928718567,Jakub Moder,h,9284,OpenPlay,2021,LeftFoot,16587,Brighton,Crystal Palace,1,1,2022-01-14 20:00:00,Alexis Mac Allister,Throughball
+453008,49,MissedShots,0.7759999847412109,0.36400001525878906,0.017901016399264336,Pascal Groß,h,239,FromCorner,2021,RightFoot,16587,Brighton,Crystal Palace,1,1,2022-01-14 20:00:00,,None
+453010,62,MissedShots,0.9,0.5059999847412109,0.06380140781402588,Adam Webster,h,7699,FromCorner,2021,Head,16587,Brighton,Crystal Palace,1,1,2022-01-14 20:00:00,Pascal Groß,Cross
+453011,64,MissedShots,0.88,0.675,0.02561480924487114,Leandro Trossard,h,7698,OpenPlay,2021,LeftFoot,16587,Brighton,Crystal Palace,1,1,2022-01-14 20:00:00,Pascal Groß,Cross
+453013,71,BlockedShot,0.7569999694824219,0.40099998474121096,0.02035597153007984,Alexis Mac Allister,h,8379,OpenPlay,2021,RightFoot,16587,Brighton,Crystal Palace,1,1,2022-01-14 20:00:00,,None
+453014,74,MissedShots,0.889000015258789,0.42200000762939455,0.025024492293596268,Adam Webster,h,7699,FromCorner,2021,Head,16587,Brighton,Crystal Palace,1,1,2022-01-14 20:00:00,Alexis Mac Allister,Cross
+453016,91,MissedShots,0.7330000305175781,0.46700000762939453,0.013187873177230358,Solly March,h,6049,FromCorner,2021,LeftFoot,16587,Brighton,Crystal Palace,1,1,2022-01-14 20:00:00,,Aerial
+453017,92,MissedShots,0.9230000305175782,0.4779999923706055,0.13055233657360077,Danny Welbeck,h,501,OpenPlay,2021,Head,16587,Brighton,Crystal Palace,1,1,2022-01-14 20:00:00,Solly March,Cross
+453018,93,BlockedShot,0.8590000152587891,0.27600000381469725,0.03551936522126198,Solly March,h,6049,OpenPlay,2021,LeftFoot,16587,Brighton,Crystal Palace,1,1,2022-01-14 20:00:00,Tariq Lamptey,Pass
+453003,44,BlockedShot,0.7719999694824219,0.6959999847412109,0.018575333058834076,Eberechi Eze,a,8706,OpenPlay,2021,RightFoot,16587,Brighton,Crystal Palace,1,1,2022-01-14 20:00:00,Tyrick Mitchell,Pass
+453009,52,MissedShots,0.74,0.495,0.023356949910521507,Eberechi Eze,a,8706,OpenPlay,2021,RightFoot,16587,Brighton,Crystal Palace,1,1,2022-01-14 20:00:00,Jeffrey Schlupp,Pass
+453012,68,Goal,0.9109999847412109,0.52,0.4677483141422272,Conor Gallagher,a,9040,OpenPlay,2021,RightFoot,16587,Brighton,Crystal Palace,1,1,2022-01-14 20:00:00,Jeffrey Schlupp,Pass
+453015,86,OwnGoal,0.024000000953674317,0.4329999923706055,0,Joachim Andersen,a,6314,OpenPlay,2021,RightFoot,16587,Brighton,Crystal Palace,1,1,2022-01-14 20:00:00,,Challenge
