@@ -1,0 +1,31 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+457849,1,MissedShots,0.7930000305175782,0.48,0.027620237320661545,Giulio Maggiore,h,8944,FromCorner,2021,LeftFoot,17004,Spezia,Fiorentina,1,2,2022-02-14 19:45:00,,None
+457850,1,MissedShots,0.8969999694824219,0.710999984741211,0.042583342641592026,Martin Erlic,h,2053,FromCorner,2021,LeftFoot,17004,Spezia,Fiorentina,1,2,2022-02-14 19:45:00,Giulio Maggiore,Rebound
+457851,3,BlockedShot,0.9390000152587891,0.6890000152587891,0.04192095622420311,Daniele Verde,h,2044,FromCorner,2021,RightFoot,17004,Spezia,Fiorentina,1,2,2022-02-14 19:45:00,Jacopo Sala,None
+457860,36,MissedShots,0.8969999694824219,0.29399999618530276,0.045307982712984085,Giulio Maggiore,h,8944,OpenPlay,2021,LeftFoot,17004,Spezia,Fiorentina,1,2,2022-02-14 19:45:00,,None
+457862,46,MissedShots,0.57,0.08899999618530273,0.005822226405143738,Giulio Maggiore,h,8944,OpenPlay,2021,RightFoot,17004,Spezia,Fiorentina,1,2,2022-02-14 19:45:00,,TakeOn
+457870,73,Goal,0.9209999847412109,0.664000015258789,0.20744703710079193,Kevin Agudelo,h,8010,OpenPlay,2021,LeftFoot,17004,Spezia,Fiorentina,1,2,2022-02-14 19:45:00,,BallRecovery
+457871,79,BlockedShot,0.84,0.43900001525878907,0.07832130044698715,Ebrima Colley,h,8161,OpenPlay,2021,RightFoot,17004,Spezia,Fiorentina,1,2,2022-02-14 19:45:00,Dimitris Nikolaou,Pass
+457872,80,MissedShots,0.9159999847412109,0.5729999923706055,0.01985839009284973,Kelvin Adou,h,3785,FromCorner,2021,Head,17004,Spezia,Fiorentina,1,2,2022-02-14 19:45:00,Daniele Verde,Aerial
+457878,92,BlockedShot,0.79,0.69,0.021775878965854645,Arkadiusz Reca,h,7014,OpenPlay,2021,LeftFoot,17004,Spezia,Fiorentina,1,2,2022-02-14 19:45:00,Martin Erlic,Pass
+457852,15,ShotOnPost,0.885,0.5,0.7612988352775574,Krzysztof Piatek,a,7090,Penalty,2021,RightFoot,17004,Spezia,Fiorentina,1,2,2022-02-14 19:45:00,,Standard
+457853,16,MissedShots,0.894000015258789,0.25299999237060544,0.036992549896240234,Gaetano Castrovilli,a,7909,OpenPlay,2021,LeftFoot,17004,Spezia,Fiorentina,1,2,2022-02-14 19:45:00,Nicolás González,Pass
+457854,25,MissedShots,0.9209999847412109,0.43400001525878906,0.07057340443134308,Igor Julio,a,7943,FromCorner,2021,Head,17004,Spezia,Fiorentina,1,2,2022-02-14 19:45:00,Gaetano Castrovilli,Cross
+457855,27,BlockedShot,0.7559999847412109,0.2929999923706055,0.015978211537003517,Nikola Milenkovic,a,6174,OpenPlay,2021,RightFoot,17004,Spezia,Fiorentina,1,2,2022-02-14 19:45:00,Álvaro Odriozola,Pass
+457856,27,MissedShots,0.79,0.56,0.03676620498299599,Gaetano Castrovilli,a,7909,OpenPlay,2021,LeftFoot,17004,Spezia,Fiorentina,1,2,2022-02-14 19:45:00,,None
+457857,32,BlockedShot,0.8880000305175781,0.4929999923706055,0.12169399857521057,Krzysztof Piatek,a,7090,OpenPlay,2021,RightFoot,17004,Spezia,Fiorentina,1,2,2022-02-14 19:45:00,Nicolás González,Pass
+457858,32,MissedShots,0.9340000152587891,0.39799999237060546,0.04486750066280365,Krzysztof Piatek,a,7090,FromCorner,2021,Head,17004,Spezia,Fiorentina,1,2,2022-02-14 19:45:00,Gaetano Castrovilli,Cross
+457859,35,MissedShots,0.909000015258789,0.2979999923706055,0.05462752655148506,Krzysztof Piatek,a,7090,OpenPlay,2021,RightFoot,17004,Spezia,Fiorentina,1,2,2022-02-14 19:45:00,Álvaro Odriozola,BallTouch
+457861,41,Goal,0.95,0.45099998474121095,0.5842269659042358,Krzysztof Piatek,a,7090,OpenPlay,2021,RightFoot,17004,Spezia,Fiorentina,1,2,2022-02-14 19:45:00,Youssef Maleh,Pass
+457863,49,BlockedShot,0.7440000152587891,0.705,0.04071509838104248,Cristiano Biraghi,a,1164,DirectFreekick,2021,LeftFoot,17004,Spezia,Fiorentina,1,2,2022-02-14 19:45:00,,Standard
+457864,50,MissedShots,0.7669999694824219,0.3220000076293945,0.028134692460298538,Nicolás González,a,7074,OpenPlay,2021,LeftFoot,17004,Spezia,Fiorentina,1,2,2022-02-14 19:45:00,,TakeOn
+457865,53,BlockedShot,0.4909999847412109,0.4759999847412109,0.006611852440983057,Youssef Maleh,a,9893,OpenPlay,2021,LeftFoot,17004,Spezia,Fiorentina,1,2,2022-02-14 19:45:00,,None
+457866,60,MissedShots,0.7440000152587891,0.34900001525878904,0.02240946888923645,Cristiano Biraghi,a,1164,FromCorner,2021,LeftFoot,17004,Spezia,Fiorentina,1,2,2022-02-14 19:45:00,Sofyan Amrabat,Pass
+457867,70,SavedShot,0.7140000152587891,0.40700000762939453,0.015560935251414776,Nicolás González,a,7074,OpenPlay,2021,LeftFoot,17004,Spezia,Fiorentina,1,2,2022-02-14 19:45:00,,None
+457868,72,SavedShot,0.8469999694824218,0.2720000076293945,0.038129426538944244,Nicolás González,a,7074,OpenPlay,2021,LeftFoot,17004,Spezia,Fiorentina,1,2,2022-02-14 19:45:00,Álvaro Odriozola,Pass
+457869,73,MissedShots,0.9119999694824219,0.5379999923706055,0.0766429603099823,Nicolás González,a,7074,FromCorner,2021,Head,17004,Spezia,Fiorentina,1,2,2022-02-14 19:45:00,Cristiano Biraghi,Cross
+457873,83,BlockedShot,0.7869999694824219,0.664000015258789,0.017233720049262047,Riccardo Saponara,a,1313,OpenPlay,2021,RightFoot,17004,Spezia,Fiorentina,1,2,2022-02-14 19:45:00,Nicolás González,TakeOn
+457874,86,ShotOnPost,0.91,0.6990000152587891,0.05121689662337303,Cristiano Biraghi,a,1164,OpenPlay,2021,LeftFoot,17004,Spezia,Fiorentina,1,2,2022-02-14 19:45:00,Riccardo Saponara,Pass
+457875,87,BlockedShot,0.7680000305175781,0.5129999923706055,0.027530571445822716,Riccardo Saponara,a,1313,OpenPlay,2021,RightFoot,17004,Spezia,Fiorentina,1,2,2022-02-14 19:45:00,Nicolás González,Pass
+457876,88,Goal,0.74,0.5179999923706055,0.018404124304652214,Sofyan Amrabat,a,7927,OpenPlay,2021,RightFoot,17004,Spezia,Fiorentina,1,2,2022-02-14 19:45:00,Arthur Cabral,Pass
+457877,90,MissedShots,0.9180000305175782,0.3370000076293945,0.2942010164260864,Jonathan Ikone,a,5661,OpenPlay,2021,RightFoot,17004,Spezia,Fiorentina,1,2,2022-02-14 19:45:00,Nicolás González,Pass

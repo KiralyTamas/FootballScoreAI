@@ -1,0 +1,22 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+453195,15,OwnGoal,0.02799999952316284,0.5940000152587891,0,Timo Baumgartl,h,71,OpenPlay,2021,Head,17684,Union Berlin,Hoffenheim,2,1,2022-01-15 14:30:00,,Challenge
+453196,16,MissedShots,0.9169999694824219,0.44299999237060544,0.46561652421951294,Max Kruse,h,155,OpenPlay,2021,LeftFoot,17684,Union Berlin,Hoffenheim,2,1,2022-01-15 14:30:00,,None
+453197,16,SavedShot,0.965999984741211,0.555,0.6089591383934021,Grischa Prömel,h,4340,OpenPlay,2021,RightFoot,17684,Union Berlin,Hoffenheim,2,1,2022-01-15 14:30:00,Max Kruse,Rebound
+453198,21,Goal,0.919000015258789,0.5790000152587891,0.0672168955206871,Andreas Voglsammer,h,9128,OpenPlay,2021,Head,17684,Union Berlin,Hoffenheim,2,1,2022-01-15 14:30:00,Bastian Oczipka,Cross
+453200,28,MissedShots,0.8480000305175781,0.3659999847412109,0.01942833699285984,Andreas Voglsammer,h,9128,SetPiece,2021,LeftFoot,17684,Union Berlin,Hoffenheim,2,1,2022-01-15 14:30:00,,Aerial
+453203,53,MissedShots,0.9330000305175781,0.46599998474121096,0.0730685442686081,Andreas Voglsammer,h,9128,OpenPlay,2021,Head,17684,Union Berlin,Hoffenheim,2,1,2022-01-15 14:30:00,Bastian Oczipka,Aerial
+453205,70,MissedShots,0.9230000305175782,0.5059999847412109,0.07272055745124817,Sheraldo Becker,h,7882,OpenPlay,2021,Head,17684,Union Berlin,Hoffenheim,2,1,2022-01-15 14:30:00,Bastian Oczipka,Aerial
+453206,72,BlockedShot,0.919000015258789,0.5720000076293945,0.13489916920661926,Max Kruse,h,155,OpenPlay,2021,LeftFoot,17684,Union Berlin,Hoffenheim,2,1,2022-01-15 14:30:00,Sheraldo Becker,Pass
+453207,72,Goal,0.9590000152587891,0.5109999847412109,0.602057695388794,Grischa Prömel,h,4340,OpenPlay,2021,Head,17684,Union Berlin,Hoffenheim,2,1,2022-01-15 14:30:00,,Rebound
+453212,89,SavedShot,0.8959999847412109,0.6519999694824219,0.08763369917869568,Genki Haraguchi,h,35,OpenPlay,2021,RightFoot,17684,Union Berlin,Hoffenheim,2,1,2022-01-15 14:30:00,Sheraldo Becker,Pass
+453193,4,MissedShots,0.850999984741211,0.6890000152587891,0.04123259708285332,David Raum,a,9724,OpenPlay,2021,LeftFoot,17684,Union Berlin,Hoffenheim,2,1,2022-01-15 14:30:00,Munas Dabbur,Pass
+453194,10,SavedShot,0.9280000305175782,0.49900001525878906,0.06768631935119629,Stefan Posch,a,5329,FromCorner,2021,Head,17684,Union Berlin,Hoffenheim,2,1,2022-01-15 14:30:00,Chris Richards,HeadPass
+453199,25,BlockedShot,0.9440000152587891,0.5,0.13604626059532166,Chris Richards,a,8430,FromCorner,2021,LeftFoot,17684,Union Berlin,Hoffenheim,2,1,2022-01-15 14:30:00,Dennis Geiger,Cross
+453201,39,BlockedShot,0.855,0.4540000152587891,0.07194455713033676,Christoph Baumgartner,a,7422,OpenPlay,2021,RightFoot,17684,Union Berlin,Hoffenheim,2,1,2022-01-15 14:30:00,,None
+453202,51,SavedShot,0.825999984741211,0.6969999694824218,0.03059801086783409,Andrej Kramaric,a,956,OpenPlay,2021,RightFoot,17684,Union Berlin,Hoffenheim,2,1,2022-01-15 14:30:00,David Raum,Pass
+453204,55,MissedShots,0.789000015258789,0.46599998474121096,0.057561859488487244,Munas Dabbur,a,8140,OpenPlay,2021,RightFoot,17684,Union Berlin,Hoffenheim,2,1,2022-01-15 14:30:00,Ihlas Bebou,TakeOn
+453208,75,SavedShot,0.8490000152587891,0.3089999961853027,0.03306614235043526,Christoph Baumgartner,a,7422,OpenPlay,2021,RightFoot,17684,Union Berlin,Hoffenheim,2,1,2022-01-15 14:30:00,Kevin Vogt,Pass
+453209,77,SavedShot,0.915,0.67,0.050125956535339355,Jacob Bruun Larsen,a,5355,FromCorner,2021,RightFoot,17684,Union Berlin,Hoffenheim,2,1,2022-01-15 14:30:00,Dennis Geiger,Pass
+453210,77,MissedShots,0.759000015258789,0.4520000076293945,0.025030609220266342,Stefan Posch,a,5329,OpenPlay,2021,RightFoot,17684,Union Berlin,Hoffenheim,2,1,2022-01-15 14:30:00,Jacob Bruun Larsen,Pass
+453211,81,BlockedShot,0.750999984741211,0.35400001525878905,0.05557684227824211,Andrej Kramaric,a,956,DirectFreekick,2021,RightFoot,17684,Union Berlin,Hoffenheim,2,1,2022-01-15 14:30:00,,Standard
+453213,92,MissedShots,0.9119999694824219,0.4520000076293945,0.04600099101662636,Jacob Bruun Larsen,a,5355,SetPiece,2021,Head,17684,Union Berlin,Hoffenheim,2,1,2022-01-15 14:30:00,Andrej Kramaric,Foul

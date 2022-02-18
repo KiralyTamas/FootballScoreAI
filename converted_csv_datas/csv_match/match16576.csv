@@ -1,0 +1,23 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+450943,15,SavedShot,0.924000015258789,0.6680000305175782,0.07389041781425476,Gabriel Martinelli,h,7752,OpenPlay,2021,RightFoot,16576,Arsenal,Manchester City,1,2,2022-01-01 12:30:00,Thomas Partey,Pass
+450945,26,BlockedShot,0.8019999694824219,0.505,0.045579250901937485,Alexandre Lacazette,h,3277,OpenPlay,2021,RightFoot,16576,Arsenal,Manchester City,1,2,2022-01-01 12:30:00,,None
+450946,30,Goal,0.855,0.46,0.09919177740812302,Bukayo Saka,h,7322,OpenPlay,2021,LeftFoot,16576,Arsenal,Manchester City,1,2,2022-01-01 12:30:00,Kieran Tierney,Pass
+450947,38,MissedShots,0.8030000305175782,0.6780000305175782,0.034786440432071686,Gabriel Martinelli,h,7752,OpenPlay,2021,RightFoot,16576,Arsenal,Manchester City,1,2,2022-01-01 12:30:00,Alexandre Lacazette,Pass
+450948,42,MissedShots,0.93,0.654000015258789,0.12742586433887482,Gabriel Martinelli,h,7752,OpenPlay,2021,LeftFoot,16576,Arsenal,Manchester City,1,2,2022-01-01 12:30:00,,TakeOn
+450949,50,MissedShots,0.8619999694824219,0.605,0.05390600487589836,Gabriel Martinelli,h,7752,FromCorner,2021,LeftFoot,16576,Arsenal,Manchester City,1,2,2022-01-01 12:30:00,,None
+450951,57,ShotOnPost,0.9159999847412109,0.5879999923706055,0.4021693468093872,Gabriel Martinelli,h,7752,OpenPlay,2021,LeftFoot,16576,Arsenal,Manchester City,1,2,2022-01-01 12:30:00,,None
+450940,3,BlockedShot,0.924000015258789,0.5690000152587891,0.10076259076595306,Bernardo Silva,a,3635,FromCorner,2021,LeftFoot,16576,Arsenal,Manchester City,1,2,2022-01-01 12:30:00,Riyad Mahrez,Pass
+450941,4,MissedShots,0.925,0.5790000152587891,0.072861447930336,Gabriel Jesus,a,5543,FromCorner,2021,Head,16576,Arsenal,Manchester City,1,2,2022-01-01 12:30:00,Kevin De Bruyne,Cross
+450942,13,MissedShots,0.9169999694824219,0.47200000762939454,0.2381884604692459,Rúben Dias,a,8961,FromCorner,2021,Head,16576,Arsenal,Manchester City,1,2,2022-01-01 12:30:00,Raheem Sterling,Cross
+450944,18,MissedShots,0.8130000305175781,0.6990000152587891,0.02125939354300499,Kevin De Bruyne,a,447,OpenPlay,2021,RightFoot,16576,Arsenal,Manchester City,1,2,2022-01-01 12:30:00,Gabriel Jesus,Pass
+450950,56,Goal,0.885,0.5,0.7611688375473022,Riyad Mahrez,a,750,Penalty,2021,LeftFoot,16576,Arsenal,Manchester City,1,2,2022-01-01 12:30:00,,Standard
+450952,65,MissedShots,0.7919999694824219,0.7230000305175781,0.021637005731463432,Raheem Sterling,a,618,OpenPlay,2021,RightFoot,16576,Arsenal,Manchester City,1,2,2022-01-01 12:30:00,Bernardo Silva,Pass
+450953,70,MissedShots,0.705999984741211,0.575999984741211,0.013936378993093967,Aymeric Laporte,a,2498,OpenPlay,2021,LeftFoot,16576,Arsenal,Manchester City,1,2,2022-01-01 12:30:00,Riyad Mahrez,Pass
+450954,73,BlockedShot,0.7390000152587891,0.32799999237060545,0.01635168306529522,João Cancelo,a,2379,OpenPlay,2021,RightFoot,16576,Arsenal,Manchester City,1,2,2022-01-01 12:30:00,Rodri,Pass
+450955,73,BlockedShot,0.874000015258789,0.3060000038146973,0.049496959894895554,Bernardo Silva,a,3635,OpenPlay,2021,LeftFoot,16576,Arsenal,Manchester City,1,2,2022-01-01 12:30:00,Kevin De Bruyne,Pass
+450956,79,MissedShots,0.8019999694824219,0.3160000038146973,0.02473376877605915,João Cancelo,a,2379,OpenPlay,2021,LeftFoot,16576,Arsenal,Manchester City,1,2,2022-01-01 12:30:00,Riyad Mahrez,Pass
+450957,81,BlockedShot,0.7040000152587891,0.48200000762939454,0.011576035059988499,Rúben Dias,a,8961,OpenPlay,2021,RightFoot,16576,Arsenal,Manchester City,1,2,2022-01-01 12:30:00,,None
+450958,86,BlockedShot,0.9519999694824218,0.34,0.07082610577344894,Riyad Mahrez,a,750,OpenPlay,2021,RightFoot,16576,Arsenal,Manchester City,1,2,2022-01-01 12:30:00,João Cancelo,Pass
+450959,92,BlockedShot,0.8109999847412109,0.47200000762939454,0.046311456710100174,João Cancelo,a,2379,SetPiece,2021,RightFoot,16576,Arsenal,Manchester City,1,2,2022-01-01 12:30:00,Kevin De Bruyne,Pass
+450960,92,BlockedShot,0.889000015258789,0.47299999237060547,0.09623172134160995,Aymeric Laporte,a,2498,OpenPlay,2021,RightFoot,16576,Arsenal,Manchester City,1,2,2022-01-01 12:30:00,,None
+450961,92,Goal,0.91,0.4759999847412109,0.44357240200042725,Rodri,a,2496,OpenPlay,2021,LeftFoot,16576,Arsenal,Manchester City,1,2,2022-01-01 12:30:00,,Rebound

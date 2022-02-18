@@ -1,0 +1,23 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+453271,13,MissedShots,0.7040000152587891,0.485,0.014213116839528084,Leander Dendoncker,h,7236,OpenPlay,2021,RightFoot,16595,Wolverhampton Wanderers,Southampton,3,1,2022-01-15 15:00:00,João Moutinho,Pass
+453273,25,SavedShot,0.9009999847412109,0.2989999961853027,0.04401301220059395,Daniel Podence,h,8291,OpenPlay,2021,LeftFoot,16595,Wolverhampton Wanderers,Southampton,3,1,2022-01-15 15:00:00,Leander Dendoncker,Chipped
+453274,32,BlockedShot,0.8859999847412109,0.48,0.12465560436248779,Raúl Jiménez,h,4105,OpenPlay,2021,LeftFoot,16595,Wolverhampton Wanderers,Southampton,3,1,2022-01-15 15:00:00,Daniel Podence,Pass
+453275,36,Goal,0.885,0.5,0.7611688375473022,Raúl Jiménez,h,4105,Penalty,2021,RightFoot,16595,Wolverhampton Wanderers,Southampton,3,1,2022-01-15 15:00:00,,Standard
+453281,58,ShotOnPost,0.885,0.3970000076293945,0.10431794077157974,Max Kilman,h,7332,SetPiece,2021,Head,16595,Wolverhampton Wanderers,Southampton,3,1,2022-01-15 15:00:00,Rayan Ait Nouri,Cross
+453282,58,Goal,0.9719999694824218,0.524000015258789,0.7263565063476562,Conor Coady,h,6851,SetPiece,2021,Head,16595,Wolverhampton Wanderers,Southampton,3,1,2022-01-15 15:00:00,,Rebound
+453289,89,SavedShot,0.9030000305175782,0.3079999923706055,0.06480054557323456,Fabio Silva,h,8778,OpenPlay,2021,RightFoot,16595,Wolverhampton Wanderers,Southampton,3,1,2022-01-15 15:00:00,,None
+453290,89,MissedShots,0.9009999847412109,0.539000015258789,0.13578584790229797,Adama Traoré,h,900,OpenPlay,2021,LeftFoot,16595,Wolverhampton Wanderers,Southampton,3,1,2022-01-15 15:00:00,,Rebound
+453291,90,Goal,0.9269999694824219,0.5929999923706055,0.40842488408088684,Adama Traoré,h,900,OpenPlay,2021,LeftFoot,16595,Wolverhampton Wanderers,Southampton,3,1,2022-01-15 15:00:00,Rayan Ait Nouri,Pass
+453270,3,SavedShot,0.9359999847412109,0.519000015258789,0.11626182496547699,Jan Bednarek,a,6042,FromCorner,2021,RightFoot,16595,Wolverhampton Wanderers,Southampton,3,1,2022-01-15 15:00:00,Mohammed Salisu,HeadPass
+453272,18,SavedShot,0.8619999694824219,0.73,0.031635407358407974,Romain Perraud,a,6500,OpenPlay,2021,RightFoot,16595,Wolverhampton Wanderers,Southampton,3,1,2022-01-15 15:00:00,Oriol Romeu,Pass
+453276,39,SavedShot,0.92,0.56,0.31799983978271484,Mohammed Salisu,a,6923,SetPiece,2021,Head,16595,Wolverhampton Wanderers,Southampton,3,1,2022-01-15 15:00:00,Oriol Romeu,Cross
+453277,45,SavedShot,0.6859999847412109,0.6029999923706054,0.012630105018615723,Oriol Romeu,a,842,OpenPlay,2021,RightFoot,16595,Wolverhampton Wanderers,Southampton,3,1,2022-01-15 15:00:00,Ibrahima Diallo,Pass
+453278,47,SavedShot,0.905,0.45799999237060546,0.02156587690114975,Mohammed Salisu,a,6923,FromCorner,2021,Head,16595,Wolverhampton Wanderers,Southampton,3,1,2022-01-15 15:00:00,James Ward-Prowse,Aerial
+453279,47,SavedShot,0.7240000152587891,0.5370000076293945,0.017208220437169075,James Ward-Prowse,a,843,OpenPlay,2021,RightFoot,16595,Wolverhampton Wanderers,Southampton,3,1,2022-01-15 15:00:00,Mohammed Salisu,Pass
+453280,51,MissedShots,0.7580000305175781,0.3189999961853027,0.01593911275267601,Lyanco,a,6252,OpenPlay,2021,RightFoot,16595,Wolverhampton Wanderers,Southampton,3,1,2022-01-15 15:00:00,,None
+453283,69,SavedShot,0.875,0.48700000762939455,0.03697926178574562,Armando Broja,a,8384,OpenPlay,2021,Head,16595,Wolverhampton Wanderers,Southampton,3,1,2022-01-15 15:00:00,Oriol Romeu,Cross
+453284,70,MissedShots,0.685,0.8809999847412109,0.02147624082863331,James Ward-Prowse,a,843,DirectFreekick,2021,RightFoot,16595,Wolverhampton Wanderers,Southampton,3,1,2022-01-15 15:00:00,,Standard
+453285,73,SavedShot,0.9080000305175782,0.7080000305175781,0.08714920282363892,Che Adams,a,7700,OpenPlay,2021,LeftFoot,16595,Wolverhampton Wanderers,Southampton,3,1,2022-01-15 15:00:00,Nathan Redmond,Throughball
+453286,83,Goal,0.7090000152587891,0.5829999923706055,0.039241522550582886,James Ward-Prowse,a,843,DirectFreekick,2021,RightFoot,16595,Wolverhampton Wanderers,Southampton,3,1,2022-01-15 15:00:00,,Standard
+453287,88,ShotOnPost,0.894000015258789,0.629000015258789,0.1340225338935852,Romain Perraud,a,6500,OpenPlay,2021,Head,16595,Wolverhampton Wanderers,Southampton,3,1,2022-01-15 15:00:00,Jan Bednarek,Cross
+453288,88,SavedShot,0.879000015258789,0.45099998474121095,0.07525677233934402,Stuart Armstrong,a,6893,OpenPlay,2021,RightFoot,16595,Wolverhampton Wanderers,Southampton,3,1,2022-01-15 15:00:00,,Rebound

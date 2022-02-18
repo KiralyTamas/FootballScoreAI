@@ -1,0 +1,29 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+451893,7,BlockedShot,0.7369999694824219,0.4859999847412109,0.05968746170401573,Marcel Sabitzer,h,5248,DirectFreekick,2021,RightFoot,17677,Bayern Munich,Borussia M.Gladbach,1,2,2022-01-07 19:30:00,,Standard
+451894,7,SavedShot,0.8419999694824218,0.33599998474121096,0.029571030288934708,Serge Gnabry,h,993,SetPiece,2021,LeftFoot,17677,Bayern Munich,Borussia M.Gladbach,1,2,2022-01-07 19:30:00,,Rebound
+451895,12,SavedShot,0.8490000152587891,0.5590000152587891,0.06756241619586945,Robert Lewandowski,h,227,OpenPlay,2021,RightFoot,17677,Bayern Munich,Borussia M.Gladbach,1,2,2022-01-07 19:30:00,,None
+451896,17,Goal,0.8859999847412109,0.37900001525878907,0.09234042465686798,Robert Lewandowski,h,227,OpenPlay,2021,RightFoot,17677,Bayern Munich,Borussia M.Gladbach,1,2,2022-01-07 19:30:00,Thomas Müller,Pass
+451897,22,MissedShots,0.7190000152587891,0.555,0.021680695936083794,Marcel Sabitzer,h,5248,OpenPlay,2021,RightFoot,17677,Bayern Munich,Borussia M.Gladbach,1,2,2022-01-07 19:30:00,Serge Gnabry,Pass
+451904,46,ShotOnPost,0.9880000305175781,0.5940000152587891,0.07804928719997406,Robert Lewandowski,h,227,OpenPlay,2021,RightFoot,17677,Bayern Munich,Borussia M.Gladbach,1,2,2022-01-07 19:30:00,Thomas Müller,TakeOn
+451905,46,BlockedShot,0.8919999694824219,0.48700000762939455,0.41401079297065735,Thomas Müller,h,224,OpenPlay,2021,LeftFoot,17677,Bayern Munich,Borussia M.Gladbach,1,2,2022-01-07 19:30:00,,Rebound
+451907,51,BlockedShot,0.8469999694824218,0.75,0.025150010362267494,Serge Gnabry,h,993,OpenPlay,2021,RightFoot,17677,Bayern Munich,Borussia M.Gladbach,1,2,2022-01-07 19:30:00,Niklas Süle,Pass
+451908,52,MissedShots,0.78,0.4420000076293945,0.031285472214221954,Marc Roca,h,5086,FromCorner,2021,RightFoot,17677,Bayern Munich,Borussia M.Gladbach,1,2,2022-01-07 19:30:00,Thomas Müller,Cross
+451909,53,BlockedShot,0.794000015258789,0.40700000762939453,0.03750484064221382,Serge Gnabry,h,993,OpenPlay,2021,LeftFoot,17677,Bayern Munich,Borussia M.Gladbach,1,2,2022-01-07 19:30:00,Joshua Kimmich,TakeOn
+451910,55,SavedShot,0.8540000152587891,0.5070000076293946,0.08737984299659729,Jamal Musiala,h,8418,OpenPlay,2021,RightFoot,17677,Bayern Munich,Borussia M.Gladbach,1,2,2022-01-07 19:30:00,Thomas Müller,Pass
+451911,57,SavedShot,0.9180000305175782,0.5029999923706054,0.09300155937671661,Thomas Müller,h,224,OpenPlay,2021,RightFoot,17677,Bayern Munich,Borussia M.Gladbach,1,2,2022-01-07 19:30:00,Robert Lewandowski,Cross
+451913,59,MissedShots,0.9519999694824218,0.49900001525878906,0.08942462503910065,Thomas Müller,h,224,OpenPlay,2021,Head,17677,Bayern Munich,Borussia M.Gladbach,1,2,2022-01-07 19:30:00,Robert Lewandowski,Aerial
+451914,61,ShotOnPost,0.875,0.615,0.06752059608697891,Robert Lewandowski,h,227,OpenPlay,2021,RightFoot,17677,Bayern Munich,Borussia M.Gladbach,1,2,2022-01-07 19:30:00,Malik Tillman,Pass
+451915,74,MissedShots,0.8119999694824219,0.485,0.058219220489263535,Robert Lewandowski,h,227,OpenPlay,2021,RightFoot,17677,Bayern Munich,Borussia M.Gladbach,1,2,2022-01-07 19:30:00,Jamal Musiala,Pass
+451917,77,SavedShot,0.8630000305175781,0.5690000152587891,0.06692364066839218,Robert Lewandowski,h,227,OpenPlay,2021,RightFoot,17677,Bayern Munich,Borussia M.Gladbach,1,2,2022-01-07 19:30:00,Thomas Müller,HeadPass
+451918,80,MissedShots,0.755,0.4929999923706055,0.022068971768021584,Joshua Kimmich,h,223,OpenPlay,2021,LeftFoot,17677,Bayern Munich,Borussia M.Gladbach,1,2,2022-01-07 19:30:00,,None
+451919,81,BlockedShot,0.845,0.4209999847412109,0.0486854650080204,Lucas Copado,h,10244,OpenPlay,2021,RightFoot,17677,Bayern Munich,Borussia M.Gladbach,1,2,2022-01-07 19:30:00,Thomas Müller,HeadPass
+451898,26,Goal,0.92,0.43,0.31784722208976746,Florian Neuhaus,a,7065,OpenPlay,2021,RightFoot,17677,Bayern Munich,Borussia M.Gladbach,1,2,2022-01-07 19:30:00,,BallTouch
+451899,30,BlockedShot,0.960999984741211,0.26899999618530274,0.04372510686516762,Matthias Ginter,a,315,SetPiece,2021,RightFoot,17677,Bayern Munich,Borussia M.Gladbach,1,2,2022-01-07 19:30:00,Luca Netz,Chipped
+451900,30,Goal,0.93,0.4490000152587891,0.10545139759778976,Stefan Lainer,a,7831,FromCorner,2021,Head,17677,Bayern Munich,Borussia M.Gladbach,1,2,2022-01-07 19:30:00,Luca Netz,Cross
+451901,37,BlockedShot,0.9209999847412109,0.47299999237060547,0.13861480355262756,Kouadio Kone,a,7482,OpenPlay,2021,Head,17677,Bayern Munich,Borussia M.Gladbach,1,2,2022-01-07 19:30:00,Stefan Lainer,Cross
+451902,43,MissedShots,0.9869999694824219,0.28899999618530275,0.05295718461275101,Stefan Lainer,a,7831,OpenPlay,2021,RightFoot,17677,Bayern Munich,Borussia M.Gladbach,1,2,2022-01-07 19:30:00,Breel Embolo,Pass
+451903,44,SavedShot,0.9780000305175781,0.3559999847412109,0.2615503966808319,Breel Embolo,a,5356,OpenPlay,2021,RightFoot,17677,Bayern Munich,Borussia M.Gladbach,1,2,2022-01-07 19:30:00,Christoph Kramer,Pass
+451906,49,MissedShots,0.7930000305175782,0.2560000038146973,0.024536708369851112,Kouadio Kone,a,7482,OpenPlay,2021,RightFoot,17677,Bayern Munich,Borussia M.Gladbach,1,2,2022-01-07 19:30:00,,Dispossessed
+451912,58,BlockedShot,0.9130000305175782,0.6509999847412109,0.08557736873626709,Luca Netz,a,8401,OpenPlay,2021,RightFoot,17677,Bayern Munich,Borussia M.Gladbach,1,2,2022-01-07 19:30:00,,None
+451916,76,BlockedShot,0.8419999694824218,0.3940000152587891,0.07782778888940811,Alassane Pléa,a,3310,OpenPlay,2021,LeftFoot,17677,Bayern Munich,Borussia M.Gladbach,1,2,2022-01-07 19:30:00,Lars Stindl,BallRecovery
+451920,83,SavedShot,0.8819999694824219,0.485,0.40259799361228943,Alassane Pléa,a,3310,OpenPlay,2021,LeftFoot,17677,Bayern Munich,Borussia M.Gladbach,1,2,2022-01-07 19:30:00,Lars Stindl,TakeOn

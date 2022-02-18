@@ -1,0 +1,33 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+452238,14,Goal,0.905,0.5179999923706055,0.3721604645252228,Santos Borré,h,5113,SetPiece,2021,RightFoot,17675,Eintracht Frankfurt,Borussia Dortmund,2,3,2022-01-08 17:30:00,Filip Kostic,Cross
+452239,18,SavedShot,0.8909999847412109,0.705999984741211,0.03431681916117668,Filip Kostic,h,64,SetPiece,2021,LeftFoot,17675,Eintracht Frankfurt,Borussia Dortmund,2,3,2022-01-08 17:30:00,Daichi Kamada,Pass
+452240,19,MissedShots,0.7069999694824218,0.4640000152587891,0.015634503215551376,Ajdin Hrustic,h,9023,OpenPlay,2021,LeftFoot,17675,Eintracht Frankfurt,Borussia Dortmund,2,3,2022-01-08 17:30:00,,None
+452241,23,Goal,0.9130000305175782,0.44099998474121094,0.14271147549152374,Santos Borré,h,5113,OpenPlay,2021,RightFoot,17675,Eintracht Frankfurt,Borussia Dortmund,2,3,2022-01-08 17:30:00,,TakeOn
+452242,28,BlockedShot,0.835,0.8119999694824219,0.023088987916707993,Filip Kostic,h,64,OpenPlay,2021,LeftFoot,17675,Eintracht Frankfurt,Borussia Dortmund,2,3,2022-01-08 17:30:00,Jesper Lindstrom,Pass
+452243,28,MissedShots,0.9030000305175782,0.6580000305175782,0.041291236877441406,Martin Hinteregger,h,2668,FromCorner,2021,LeftFoot,17675,Eintracht Frankfurt,Borussia Dortmund,2,3,2022-01-08 17:30:00,Timothy Chandler,Chipped
+452244,28,ShotOnPost,0.9540000152587891,0.5609999847412109,0.5180926322937012,Evan Ndicka,h,7049,FromCorner,2021,RightFoot,17675,Eintracht Frankfurt,Borussia Dortmund,2,3,2022-01-08 17:30:00,Jesper Lindstrom,Pass
+452246,33,MissedShots,0.8830000305175781,0.34,0.12448474764823914,Jesper Lindstrom,h,9752,OpenPlay,2021,RightFoot,17675,Eintracht Frankfurt,Borussia Dortmund,2,3,2022-01-08 17:30:00,,BallRecovery
+452250,46,SavedShot,0.8580000305175781,0.4640000152587891,0.41895726323127747,Jesper Lindstrom,h,9752,OpenPlay,2021,RightFoot,17675,Eintracht Frankfurt,Borussia Dortmund,2,3,2022-01-08 17:30:00,Sebastian Rode,TakeOn
+452251,52,MissedShots,0.8159999847412109,0.664000015258789,0.028186803683638573,Ajdin Hrustic,h,9023,SetPiece,2021,LeftFoot,17675,Eintracht Frankfurt,Borussia Dortmund,2,3,2022-01-08 17:30:00,Filip Kostic,Pass
+452261,77,SavedShot,0.8919999694824219,0.7190000152587891,0.04780076444149017,Filip Kostic,h,64,OpenPlay,2021,LeftFoot,17675,Eintracht Frankfurt,Borussia Dortmund,2,3,2022-01-08 17:30:00,Ajdin Hrustic,Pass
+452265,87,MissedShots,0.7480000305175781,0.6990000152587891,0.011713366955518723,Ajdin Hrustic,h,9023,OpenPlay,2021,LeftFoot,17675,Eintracht Frankfurt,Borussia Dortmund,2,3,2022-01-08 17:30:00,,None
+452235,1,SavedShot,0.8859999847412109,0.3220000076293945,0.04970661923289299,Thomas Meunier,a,5680,OpenPlay,2021,RightFoot,17675,Eintracht Frankfurt,Borussia Dortmund,2,3,2022-01-08 17:30:00,Mats Hummels,Chipped
+452236,3,SavedShot,0.845999984741211,0.634000015258789,0.059314075857400894,Erling Haaland,a,8260,OpenPlay,2021,LeftFoot,17675,Eintracht Frankfurt,Borussia Dortmund,2,3,2022-01-08 17:30:00,,BallTouch
+452237,8,MissedShots,0.879000015258789,0.6179999923706054,0.05978342890739441,Erling Haaland,a,8260,FromCorner,2021,RightFoot,17675,Eintracht Frankfurt,Borussia Dortmund,2,3,2022-01-08 17:30:00,Emre Can,None
+452245,32,BlockedShot,0.945,0.34200000762939453,0.06956816464662552,Jude Bellingham,a,8824,OpenPlay,2021,RightFoot,17675,Eintracht Frankfurt,Borussia Dortmund,2,3,2022-01-08 17:30:00,Donyell Malen,TakeOn
+452247,42,MissedShots,0.8159999847412109,0.5690000152587891,0.03603871166706085,Julian Brandt,a,261,FromCorner,2021,LeftFoot,17675,Eintracht Frankfurt,Borussia Dortmund,2,3,2022-01-08 17:30:00,Donyell Malen,Pass
+452248,46,SavedShot,0.919000015258789,0.5029999923706054,0.049054089933633804,Mats Hummels,a,373,FromCorner,2021,Head,17675,Eintracht Frankfurt,Borussia Dortmund,2,3,2022-01-08 17:30:00,Julian Brandt,Aerial
+452249,46,ShotOnPost,0.9740000152587891,0.5529999923706055,0.591385006904602,Donyell Malen,a,9749,FromCorner,2021,RightFoot,17675,Eintracht Frankfurt,Borussia Dortmund,2,3,2022-01-08 17:30:00,,None
+452252,61,MissedShots,0.874000015258789,0.3820000076293945,0.05752505734562874,Erling Haaland,a,8260,FromCorner,2021,LeftFoot,17675,Eintracht Frankfurt,Borussia Dortmund,2,3,2022-01-08 17:30:00,,None
+452253,62,MissedShots,0.8580000305175781,0.3840000152587891,0.07012727111577988,Julian Brandt,a,261,OpenPlay,2021,LeftFoot,17675,Eintracht Frankfurt,Borussia Dortmund,2,3,2022-01-08 17:30:00,Marco Reus,Pass
+452254,64,MissedShots,0.89,0.4209999847412109,0.04996589943766594,Donyell Malen,a,9749,SetPiece,2021,Head,17675,Eintracht Frankfurt,Borussia Dortmund,2,3,2022-01-08 17:30:00,Raphael Guerreiro,Cross
+452255,67,MissedShots,0.8719999694824219,0.6140000152587891,0.08205773681402206,Raphael Guerreiro,a,3455,OpenPlay,2021,RightFoot,17675,Eintracht Frankfurt,Borussia Dortmund,2,3,2022-01-08 17:30:00,Thorgan Hazard,Pass
+452256,69,MissedShots,0.9,0.4520000076293945,0.0703245997428894,Erling Haaland,a,8260,OpenPlay,2021,RightFoot,17675,Eintracht Frankfurt,Borussia Dortmund,2,3,2022-01-08 17:30:00,Donyell Malen,Cross
+452257,70,Goal,0.855999984741211,0.509000015258789,0.2945166230201721,Thorgan Hazard,a,213,OpenPlay,2021,RightFoot,17675,Eintracht Frankfurt,Borussia Dortmund,2,3,2022-01-08 17:30:00,Erling Haaland,Pass
+452258,71,SavedShot,0.8959999847412109,0.6930000305175781,0.044661980122327805,Erling Haaland,a,8260,OpenPlay,2021,LeftFoot,17675,Eintracht Frankfurt,Borussia Dortmund,2,3,2022-01-08 17:30:00,Jude Bellingham,Pass
+452259,72,MissedShots,0.955999984741211,0.5070000076293946,0.13633953034877777,Erling Haaland,a,8260,FromCorner,2021,Head,17675,Eintracht Frankfurt,Borussia Dortmund,2,3,2022-01-08 17:30:00,Thorgan Hazard,Cross
+452260,76,SavedShot,0.9230000305175782,0.25,0.020442362874746323,Donyell Malen,a,9749,OpenPlay,2021,RightFoot,17675,Eintracht Frankfurt,Borussia Dortmund,2,3,2022-01-08 17:30:00,Marco Reus,TakeOn
+452262,78,MissedShots,0.7469999694824219,0.44,0.01686549372971058,Mahmoud Dahoud,a,205,FromCorner,2021,RightFoot,17675,Eintracht Frankfurt,Borussia Dortmund,2,3,2022-01-08 17:30:00,,None
+452263,83,MissedShots,0.899000015258789,0.545,0.08494669944047928,Thomas Meunier,a,5680,SetPiece,2021,Head,17675,Eintracht Frankfurt,Borussia Dortmund,2,3,2022-01-08 17:30:00,Raphael Guerreiro,Cross
+452264,86,Goal,0.9459999847412109,0.5070000076293946,0.46407875418663025,Jude Bellingham,a,8824,OpenPlay,2021,Head,17675,Eintracht Frankfurt,Borussia Dortmund,2,3,2022-01-08 17:30:00,Thomas Meunier,Cross
+452266,88,Goal,0.805,0.504000015258789,0.07556987553834915,Mahmoud Dahoud,a,205,OpenPlay,2021,RightFoot,17675,Eintracht Frankfurt,Borussia Dortmund,2,3,2022-01-08 17:30:00,,TakeOn

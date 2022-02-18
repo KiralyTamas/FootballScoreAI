@@ -1,0 +1,27 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+451260,31,BlockedShot,0.7330000305175781,0.5220000076293946,0.06072612479329109,Lee Kang-In,h,7313,DirectFreekick,2021,LeftFoot,17322,Mallorca,Barcelona,0,1,2022-01-02 20:00:00,,Standard
+451261,32,SavedShot,0.740999984741211,0.515,0.017076190561056137,Iddrisu Baba,h,7840,FromCorner,2021,LeftFoot,17322,Mallorca,Barcelona,0,1,2022-01-02 20:00:00,,None
+451262,37,MissedShots,0.9219999694824219,0.5990000152587891,0.0348232164978981,Ángel,h,4136,FromCorner,2021,OtherBodyPart,17322,Mallorca,Barcelona,0,1,2022-01-02 20:00:00,Dani Rodríguez,Aerial
+451263,38,BlockedShot,0.6859999847412109,0.53,0.012652863748371601,Martin Valjent,h,7838,OpenPlay,2021,RightFoot,17322,Mallorca,Barcelona,0,1,2022-01-02 20:00:00,,BallRecovery
+451264,41,SavedShot,0.7269999694824218,0.41,0.05300628021359444,Lee Kang-In,h,7313,DirectFreekick,2021,LeftFoot,17322,Mallorca,Barcelona,0,1,2022-01-02 20:00:00,,Standard
+451270,71,BlockedShot,0.8819999694824219,0.375,0.06198674812912941,Dani Rodríguez,h,7841,OpenPlay,2021,LeftFoot,17322,Mallorca,Barcelona,0,1,2022-01-02 20:00:00,,Dispossessed
+451271,71,MissedShots,0.7480000305175781,0.375,0.018243320286273956,Rodrigo Battaglia,h,8750,OpenPlay,2021,RightFoot,17322,Mallorca,Barcelona,0,1,2022-01-02 20:00:00,,Rebound
+451273,83,MissedShots,0.9230000305175782,0.445,0.11066097766160965,Jordi Mboula,h,6396,SetPiece,2021,Head,17322,Mallorca,Barcelona,0,1,2022-01-02 20:00:00,Dani Rodríguez,Cross
+451274,85,BlockedShot,0.87,0.49700000762939456,0.05423165112733841,Abdón Prats,h,8014,SetPiece,2021,Head,17322,Mallorca,Barcelona,0,1,2022-01-02 20:00:00,Dani Rodríguez,Cross
+451275,85,MissedShots,0.95,0.5990000152587891,0.03453069552779198,Fernando Niño,h,8271,SetPiece,2021,Head,17322,Mallorca,Barcelona,0,1,2022-01-02 20:00:00,Dani Rodríguez,Aerial
+451276,89,BlockedShot,0.955999984741211,0.43099998474121093,0.08256585150957108,Jordi Mboula,h,6396,SetPiece,2021,LeftFoot,17322,Mallorca,Barcelona,0,1,2022-01-02 20:00:00,Fernando Niño,HeadPass
+451277,90,BlockedShot,0.7630000305175781,0.34900001525878904,0.017622174695134163,Pablo Maffeo,h,1003,OpenPlay,2021,RightFoot,17322,Mallorca,Barcelona,0,1,2022-01-02 20:00:00,,None
+451278,91,SavedShot,0.9540000152587891,0.57,0.4315410256385803,Jaume Costa,h,2539,OpenPlay,2021,LeftFoot,17322,Mallorca,Barcelona,0,1,2022-01-02 20:00:00,Inigo Ruiz de Galarreta,Cross
+451253,4,MissedShots,0.855999984741211,0.3509999847412109,0.049065232276916504,Luuk de Jong,a,7887,OpenPlay,2021,LeftFoot,17322,Mallorca,Barcelona,0,1,2022-01-02 20:00:00,Ilias Akhomach,Pass
+451254,7,MissedShots,0.7090000152587891,0.34,0.0389377698302269,Gerard Piqué,a,2092,DirectFreekick,2021,RightFoot,17322,Mallorca,Barcelona,0,1,2022-01-02 20:00:00,,Standard
+451255,9,SavedShot,0.8480000305175781,0.28100000381469725,0.029945582151412964,Ilias Akhomach,a,10121,OpenPlay,2021,LeftFoot,17322,Mallorca,Barcelona,0,1,2022-01-02 20:00:00,Óscar Mingueza,Pass
+451256,10,MissedShots,0.7709999847412109,0.40200000762939453,0.015211984515190125,Riqui Puig,a,7548,FromCorner,2021,RightFoot,17322,Mallorca,Barcelona,0,1,2022-01-02 20:00:00,,Aerial
+451257,16,MissedShots,0.8630000305175781,0.6880000305175781,0.04018201678991318,Ferrán Jutglà,a,8549,OpenPlay,2021,RightFoot,17322,Mallorca,Barcelona,0,1,2022-01-02 20:00:00,Ronald Araújo,Pass
+451258,28,ShotOnPost,0.9059999847412109,0.425,0.11441700905561447,Luuk de Jong,a,7887,OpenPlay,2021,RightFoot,17322,Mallorca,Barcelona,0,1,2022-01-02 20:00:00,Ilias Akhomach,Throughball
+451259,28,ShotOnPost,0.8830000305175781,0.529000015258789,0.07894249260425568,Luuk de Jong,a,7887,OpenPlay,2021,RightFoot,17322,Mallorca,Barcelona,0,1,2022-01-02 20:00:00,Óscar Mingueza,Cross
+451265,43,Goal,0.95,0.5609999847412109,0.41260021924972534,Luuk de Jong,a,7887,OpenPlay,2021,Head,17322,Mallorca,Barcelona,0,1,2022-01-02 20:00:00,Óscar Mingueza,Cross
+451266,47,MissedShots,0.8930000305175781,0.40599998474121096,0.048949699848890305,Ronald Araújo,a,8091,SetPiece,2021,Head,17322,Mallorca,Barcelona,0,1,2022-01-02 20:00:00,Frenkie de Jong,Cross
+451267,52,MissedShots,0.754000015258789,0.61,0.025212883949279785,Nico González,a,9802,OpenPlay,2021,RightFoot,17322,Mallorca,Barcelona,0,1,2022-01-02 20:00:00,Riqui Puig,Pass
+451268,57,BlockedShot,0.9540000152587891,0.4520000076293945,0.14020448923110962,Gerard Piqué,a,2092,SetPiece,2021,Head,17322,Mallorca,Barcelona,0,1,2022-01-02 20:00:00,Ilias Akhomach,Cross
+451269,58,MissedShots,0.9630000305175781,0.5479999923706055,0.5553823709487915,Luuk de Jong,a,7887,OpenPlay,2021,RightFoot,17322,Mallorca,Barcelona,0,1,2022-01-02 20:00:00,Ronald Araújo,Cross
+451272,77,SavedShot,0.8580000305175781,0.36,0.06889697909355164,Ilias Akhomach,a,10121,OpenPlay,2021,LeftFoot,17322,Mallorca,Barcelona,0,1,2022-01-02 20:00:00,Riqui Puig,TakeOn

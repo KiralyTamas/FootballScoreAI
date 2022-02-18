@@ -1,0 +1,31 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+457205,9,BlockedShot,0.8419999694824218,0.35200000762939454,0.05325675755739212,Max Aarons,h,7688,OpenPlay,2021,LeftFoot,16623,Norwich,Manchester City,0,4,2022-02-12 17:30:00,Pierre Lees-Melou,TakeOn
+457206,9,SavedShot,0.8980000305175782,0.34799999237060547,0.08071722090244293,Teemu Pukki,h,7696,OpenPlay,2021,RightFoot,16623,Norwich,Manchester City,0,4,2022-02-12 17:30:00,Brandon Williams,Pass
+457207,17,MissedShots,0.91,0.495,0.03300519287586212,Joshua Sargent,h,7295,FromCorner,2021,Head,16623,Norwich,Manchester City,0,4,2022-02-12 17:30:00,Billy Gilmour,Aerial
+457208,17,ShotOnPost,0.8919999694824219,0.47200000762939454,0.017727935686707497,Grant Hanley,h,7690,FromCorner,2021,Head,16623,Norwich,Manchester City,0,4,2022-02-12 17:30:00,Pierre Lees-Melou,Aerial
+457211,32,MissedShots,0.8090000152587891,0.4809999847412109,0.05006793886423111,Kenny McLean,h,7693,OpenPlay,2021,LeftFoot,16623,Norwich,Manchester City,0,4,2022-02-12 17:30:00,Milot Rashica,Pass
+457223,60,SavedShot,0.8419999694824218,0.6780000305175782,0.04097261652350426,Milot Rashica,h,6523,OpenPlay,2021,RightFoot,16623,Norwich,Manchester City,0,4,2022-02-12 17:30:00,Kenny McLean,Pass
+457225,64,MissedShots,0.879000015258789,0.5870000076293945,0.017692983150482178,Grant Hanley,h,7690,FromCorner,2021,Head,16623,Norwich,Manchester City,0,4,2022-02-12 17:30:00,Billy Gilmour,Cross
+457230,77,SavedShot,0.905,0.4209999847412109,0.06331406533718109,Ben Gibson,h,1707,SetPiece,2021,Head,16623,Norwich,Manchester City,0,4,2022-02-12 17:30:00,Billy Gilmour,Cross
+457203,4,ShotOnPost,0.955,0.315,0.06308393180370331,Bernardo Silva,a,3635,OpenPlay,2021,LeftFoot,16623,Norwich,Manchester City,0,4,2022-02-12 17:30:00,Riyad Mahrez,TakeOn
+457204,7,SavedShot,0.914000015258789,0.545,0.10395170748233795,Ilkay Gündogan,a,314,OpenPlay,2021,Head,16623,Norwich,Manchester City,0,4,2022-02-12 17:30:00,Oleksandr Zinchenko,Cross
+457209,24,SavedShot,0.865999984741211,0.524000015258789,0.10683835297822952,Raheem Sterling,a,618,OpenPlay,2021,LeftFoot,16623,Norwich,Manchester City,0,4,2022-02-12 17:30:00,Oleksandr Zinchenko,Pass
+457210,30,Goal,0.860999984741211,0.6680000305175782,0.026207078248262405,Raheem Sterling,a,618,OpenPlay,2021,RightFoot,16623,Norwich,Manchester City,0,4,2022-02-12 17:30:00,Kyle Walker,Cross
+457212,33,SavedShot,0.93,0.3320000076293945,0.09337874501943588,Riyad Mahrez,a,750,OpenPlay,2021,RightFoot,16623,Norwich,Manchester City,0,4,2022-02-12 17:30:00,Bernardo Silva,Pass
+457213,33,BlockedShot,0.7959999847412109,0.2610000038146973,0.017484739422798157,Phil Foden,a,6055,FromCorner,2021,LeftFoot,16623,Norwich,Manchester City,0,4,2022-02-12 17:30:00,Bernardo Silva,Pass
+457214,33,MissedShots,0.9309999847412109,0.6,0.10198153555393219,Rúben Dias,a,8961,FromCorner,2021,RightFoot,16623,Norwich,Manchester City,0,4,2022-02-12 17:30:00,,Rebound
+457215,38,BlockedShot,0.9219999694824219,0.3290000152587891,0.07257657498121262,Bernardo Silva,a,3635,OpenPlay,2021,LeftFoot,16623,Norwich,Manchester City,0,4,2022-02-12 17:30:00,Kyle Walker,Pass
+457216,39,MissedShots,0.9630000305175781,0.4909999847412109,0.18055079877376556,Ilkay Gündogan,a,314,OpenPlay,2021,Head,16623,Norwich,Manchester City,0,4,2022-02-12 17:30:00,Bernardo Silva,Aerial
+457217,42,MissedShots,0.7519999694824219,0.31,0.016823604702949524,Phil Foden,a,6055,FromCorner,2021,LeftFoot,16623,Norwich,Manchester City,0,4,2022-02-12 17:30:00,Riyad Mahrez,Pass
+457218,47,SavedShot,0.965,0.5329999923706055,0.7100687026977539,Phil Foden,a,6055,OpenPlay,2021,LeftFoot,16623,Norwich,Manchester City,0,4,2022-02-12 17:30:00,Ilkay Gündogan,Pass
+457219,47,Goal,0.965,0.504000015258789,0.19693128764629364,Phil Foden,a,6055,OpenPlay,2021,RightFoot,16623,Norwich,Manchester City,0,4,2022-02-12 17:30:00,,Rebound
+457220,51,BlockedShot,0.7909999847412109,0.3579999923706055,0.029121996834874153,Kyle Walker,a,638,OpenPlay,2021,RightFoot,16623,Norwich,Manchester City,0,4,2022-02-12 17:30:00,Riyad Mahrez,Pass
+457221,52,MissedShots,0.950999984741211,0.5870000076293945,0.07632797956466675,Fernandinho,a,614,FromCorner,2021,Head,16623,Norwich,Manchester City,0,4,2022-02-12 17:30:00,Ilkay Gündogan,Cross
+457222,52,MissedShots,0.965999984741211,0.46,0.6415740847587585,Nathan Aké,a,579,FromCorner,2021,LeftFoot,16623,Norwich,Manchester City,0,4,2022-02-12 17:30:00,Fernandinho,Rebound
+457224,63,MissedShots,0.9169999694824219,0.28600000381469726,0.06380192190408707,Riyad Mahrez,a,750,OpenPlay,2021,RightFoot,16623,Norwich,Manchester City,0,4,2022-02-12 17:30:00,Raheem Sterling,Chipped
+457226,65,BlockedShot,0.7930000305175782,0.2720000076293945,0.032732196152210236,Kyle Walker,a,638,OpenPlay,2021,RightFoot,16623,Norwich,Manchester City,0,4,2022-02-12 17:30:00,Bernardo Silva,Pass
+457227,68,BlockedShot,0.8530000305175781,0.5270000076293946,0.043256666511297226,Rúben Dias,a,8961,FromCorner,2021,RightFoot,16623,Norwich,Manchester City,0,4,2022-02-12 17:30:00,Nathan Aké,HeadPass
+457228,69,Goal,0.9680000305175781,0.47200000762939454,0.5001190304756165,Raheem Sterling,a,618,FromCorner,2021,Head,16623,Norwich,Manchester City,0,4,2022-02-12 17:30:00,Rúben Dias,HeadPass
+457229,75,MissedShots,0.9669999694824218,0.46599998474121096,0.5740189552307129,Fernandinho,a,614,SetPiece,2021,Head,16623,Norwich,Manchester City,0,4,2022-02-12 17:30:00,Nathan Aké,HeadPass
+457231,89,SavedShot,0.885,0.5,0.7611688375473022,Raheem Sterling,a,618,Penalty,2021,RightFoot,16623,Norwich,Manchester City,0,4,2022-02-12 17:30:00,,Standard
+457232,89,Goal,0.980999984741211,0.5259999847412109,0.9425783753395081,Raheem Sterling,a,618,SetPiece,2021,LeftFoot,16623,Norwich,Manchester City,0,4,2022-02-12 17:30:00,,Rebound

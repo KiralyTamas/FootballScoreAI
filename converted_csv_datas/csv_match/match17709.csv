@@ -1,0 +1,30 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+456973,4,MissedShots,0.8819999694824219,0.3509999847412109,0.08690600842237473,Jonas Hofmann,h,320,OpenPlay,2021,RightFoot,17709,Borussia M.Gladbach,Augsburg,3,2,2022-02-12 14:30:00,Alassane Pléa,LayOff
+456976,12,MissedShots,0.8980000305175782,0.295,0.03009536862373352,Jonas Hofmann,h,320,OpenPlay,2021,RightFoot,17709,Borussia M.Gladbach,Augsburg,3,2,2022-02-12 14:30:00,Stefan Lainer,Cross
+456977,12,MissedShots,0.855,0.42900001525878906,0.08437658101320267,Florian Neuhaus,h,7065,OpenPlay,2021,RightFoot,17709,Borussia M.Gladbach,Augsburg,3,2,2022-02-12 14:30:00,Jonas Hofmann,Pass
+456979,18,BlockedShot,0.9059999847412109,0.41900001525878905,0.11997736990451813,Jonas Hofmann,h,320,OpenPlay,2021,RightFoot,17709,Borussia M.Gladbach,Augsburg,3,2,2022-02-12 14:30:00,Breel Embolo,Pass
+456981,22,MissedShots,0.855,0.33299999237060546,0.05077114701271057,Kouadio Kone,h,7482,OpenPlay,2021,RightFoot,17709,Borussia M.Gladbach,Augsburg,3,2,2022-02-12 14:30:00,Jonas Hofmann,Pass
+456982,24,MissedShots,0.9069999694824219,0.34299999237060547,0.33774685859680176,Breel Embolo,h,5356,OpenPlay,2021,RightFoot,17709,Borussia M.Gladbach,Augsburg,3,2,2022-02-12 14:30:00,Alassane Pléa,Throughball
+456983,26,BlockedShot,0.8119999694824219,0.3629999923706055,0.03554980829358101,Stefan Lainer,h,7831,OpenPlay,2021,LeftFoot,17709,Borussia M.Gladbach,Augsburg,3,2,2022-02-12 14:30:00,Jonas Hofmann,Pass
+456985,29,Goal,0.950999984741211,0.504000015258789,0.5657649040222168,Kouadio Kone,h,7482,OpenPlay,2021,Head,17709,Borussia M.Gladbach,Augsburg,3,2,2022-02-12 14:30:00,Alassane Pléa,Chipped
+456988,45,Goal,0.8819999694824219,0.53,0.12355393171310425,Jonas Hofmann,h,320,OpenPlay,2021,LeftFoot,17709,Borussia M.Gladbach,Augsburg,3,2,2022-02-12 14:30:00,Ramy Bensebaini,Pass
+456989,48,BlockedShot,0.7859999847412109,0.34200000762939453,0.03979063406586647,Kouadio Kone,h,7482,OpenPlay,2021,RightFoot,17709,Borussia M.Gladbach,Augsburg,3,2,2022-02-12 14:30:00,Alassane Pléa,Pass
+456992,66,Goal,0.919000015258789,0.534000015258789,0.3397575318813324,Ramy Bensebaini,h,3349,OpenPlay,2021,Head,17709,Borussia M.Gladbach,Augsburg,3,2,2022-02-12 14:30:00,Florian Neuhaus,Chipped
+456996,88,SavedShot,0.8209999847412109,0.44299999237060544,0.08167122304439545,Alassane Pléa,h,3310,OpenPlay,2021,RightFoot,17709,Borussia M.Gladbach,Augsburg,3,2,2022-02-12 14:30:00,Florian Neuhaus,Pass
+456997,88,SavedShot,0.9219999694824219,0.41700000762939454,0.5347825884819031,Florian Neuhaus,h,7065,OpenPlay,2021,RightFoot,17709,Borussia M.Gladbach,Augsburg,3,2,2022-02-12 14:30:00,Alassane Pléa,Throughball
+456998,91,MissedShots,0.9540000152587891,0.5629999923706055,0.5998754501342773,Marcus Thuram,h,5992,OpenPlay,2021,LeftFoot,17709,Borussia M.Gladbach,Augsburg,3,2,2022-02-12 14:30:00,Jonas Hofmann,Pass
+456972,1,MissedShots,0.9080000305175782,0.47299999237060547,0.1060808077454567,Michael Gregoritsch,a,171,OpenPlay,2021,RightFoot,17709,Borussia M.Gladbach,Augsburg,3,2,2022-02-12 14:30:00,Florian Niederlechner,HeadPass
+456974,10,MissedShots,0.825999984741211,0.48700000762939455,0.013952400535345078,André Hahn,a,412,OpenPlay,2021,Head,17709,Borussia M.Gladbach,Augsburg,3,2,2022-02-12 14:30:00,Raphael Framberger,Cross
+456975,11,SavedShot,0.919000015258789,0.45,0.3247334659099579,André Hahn,a,412,OpenPlay,2021,Head,17709,Borussia M.Gladbach,Augsburg,3,2,2022-02-12 14:30:00,Raphael Framberger,Cross
+456978,17,MissedShots,0.885,0.5320000076293945,0.06108752638101578,André Hahn,a,412,OpenPlay,2021,Head,17709,Borussia M.Gladbach,Augsburg,3,2,2022-02-12 14:30:00,Raphael Framberger,Cross
+456980,21,SavedShot,0.960999984741211,0.56,0.10289497673511505,Michael Gregoritsch,a,171,OpenPlay,2021,LeftFoot,17709,Borussia M.Gladbach,Augsburg,3,2,2022-02-12 14:30:00,,None
+456984,27,MissedShots,0.865,0.26899999618530274,0.030563540756702423,André Hahn,a,412,OpenPlay,2021,RightFoot,17709,Borussia M.Gladbach,Augsburg,3,2,2022-02-12 14:30:00,Ruben Vargas,Chipped
+456986,38,SavedShot,0.855,0.28299999237060547,0.03101782687008381,Florian Niederlechner,a,306,OpenPlay,2021,RightFoot,17709,Borussia M.Gladbach,Augsburg,3,2,2022-02-12 14:30:00,Raphael Framberger,Pass
+456987,42,BlockedShot,0.8030000305175782,0.575,0.030372997745871544,André Hahn,a,412,FromCorner,2021,RightFoot,17709,Borussia M.Gladbach,Augsburg,3,2,2022-02-12 14:30:00,,None
+456990,52,MissedShots,0.915,0.5479999923706055,0.11056133359670639,Michael Gregoritsch,a,171,OpenPlay,2021,Head,17709,Borussia M.Gladbach,Augsburg,3,2,2022-02-12 14:30:00,Ruben Vargas,Cross
+456991,54,Goal,0.9259999847412109,0.639000015258789,0.07305723428726196,Iago,a,8065,OpenPlay,2021,LeftFoot,17709,Borussia M.Gladbach,Augsburg,3,2,2022-02-12 14:30:00,Ruben Vargas,BallTouch
+456993,71,SavedShot,0.955,0.34400001525878904,0.28054046630859375,André Hahn,a,412,OpenPlay,2021,Head,17709,Borussia M.Gladbach,Augsburg,3,2,2022-02-12 14:30:00,Niklas Dorsch,Chipped
+456994,81,MissedShots,0.875,0.5709999847412109,0.09925681352615356,Andi Zeqiri,a,9099,OpenPlay,2021,LeftFoot,17709,Borussia M.Gladbach,Augsburg,3,2,2022-02-12 14:30:00,Alfred Finnbogason,Pass
+456995,87,BlockedShot,0.91,0.500999984741211,0.08679783344268799,Noah Joel Sarenren Bazee,a,2659,FromCorner,2021,Head,17709,Borussia M.Gladbach,Augsburg,3,2,2022-02-12 14:30:00,Niklas Dorsch,Cross
+456999,92,Goal,0.895,0.525,0.2580724358558655,Alfred Finnbogason,a,2655,OpenPlay,2021,RightFoot,17709,Borussia M.Gladbach,Augsburg,3,2,2022-02-12 14:30:00,Iago,Cross
+457000,93,MissedShots,0.745999984741211,0.5429999923706055,0.018582690507173538,Andi Zeqiri,a,9099,OpenPlay,2021,RightFoot,17709,Borussia M.Gladbach,Augsburg,3,2,2022-02-12 14:30:00,Alfred Finnbogason,BallTouch

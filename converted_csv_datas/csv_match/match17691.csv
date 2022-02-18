@@ -1,0 +1,23 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+454525,4,MissedShots,0.9119999694824219,0.47099998474121096,0.07444369047880173,Maximilian Eggestein,h,125,OpenPlay,2021,RightFoot,17691,Freiburg,VfB Stuttgart,2,0,2022-01-22 14:30:00,Kevin Schade,Aerial
+454528,28,MissedShots,0.9219999694824219,0.5479999923706055,0.11221852898597717,Vincenzo Grifo,h,5266,OpenPlay,2021,RightFoot,17691,Freiburg,VfB Stuttgart,2,0,2022-01-22 14:30:00,Lukas Kübler,Cross
+454529,29,MissedShots,0.7809999847412109,0.45799999237060546,0.034301236271858215,Nicolas Höfler,h,4250,OpenPlay,2021,RightFoot,17691,Freiburg,VfB Stuttgart,2,0,2022-01-22 14:30:00,,None
+454530,31,MissedShots,0.855,0.4570000076293945,0.1093166396021843,Maximilian Eggestein,h,125,OpenPlay,2021,LeftFoot,17691,Freiburg,VfB Stuttgart,2,0,2022-01-22 14:30:00,,TakeOn
+454531,36,BlockedShot,0.7880000305175782,0.4470000076293945,0.03009857051074505,Nicolas Höfler,h,4250,OpenPlay,2021,RightFoot,17691,Freiburg,VfB Stuttgart,2,0,2022-01-22 14:30:00,Lucas Höler,CornerAwarded
+454533,45,SavedShot,0.7019999694824218,0.6229999923706054,0.015506891533732414,Lucas Höler,h,6475,OpenPlay,2021,RightFoot,17691,Freiburg,VfB Stuttgart,2,0,2022-01-22 14:30:00,Maximilian Eggestein,BallRecovery
+454534,49,BlockedShot,0.87,0.5620000076293945,0.09711817651987076,Vincenzo Grifo,h,5266,OpenPlay,2021,RightFoot,17691,Freiburg,VfB Stuttgart,2,0,2022-01-22 14:30:00,,None
+454535,50,MissedShots,0.769000015258789,0.69,0.01764574833214283,Christian Günter,h,4243,OpenPlay,2021,LeftFoot,17691,Freiburg,VfB Stuttgart,2,0,2022-01-22 14:30:00,,Rebound
+454536,55,SavedShot,0.8869999694824219,0.5820000076293945,0.02713480405509472,Nico Schlotterbeck,h,7485,FromCorner,2021,Head,17691,Freiburg,VfB Stuttgart,2,0,2022-01-22 14:30:00,Vincenzo Grifo,Cross
+454539,61,SavedShot,0.8569999694824219,0.3120000076293945,0.059558138251304626,Lukas Kübler,h,5263,OpenPlay,2021,RightFoot,17691,Freiburg,VfB Stuttgart,2,0,2022-01-22 14:30:00,Maximilian Eggestein,BallRecovery
+454540,62,BlockedShot,0.85,0.545,0.09379025548696518,Vincenzo Grifo,h,5266,OpenPlay,2021,RightFoot,17691,Freiburg,VfB Stuttgart,2,0,2022-01-22 14:30:00,Kevin Schade,Pass
+454541,66,BlockedShot,0.9430000305175781,0.335,0.07980238646268845,Ermedin Demirovic,h,6496,OpenPlay,2021,RightFoot,17691,Freiburg,VfB Stuttgart,2,0,2022-01-22 14:30:00,Kevin Schade,HeadPass
+454543,70,Goal,0.8580000305175781,0.43599998474121093,0.3246394693851471,Kevin Schade,h,9156,OpenPlay,2021,RightFoot,17691,Freiburg,VfB Stuttgart,2,0,2022-01-22 14:30:00,Ermedin Demirovic,HeadPass
+454544,74,MissedShots,0.919000015258789,0.46299999237060546,0.35884740948677063,Woo-Yeong Jeong,h,7267,OpenPlay,2021,Head,17691,Freiburg,VfB Stuttgart,2,0,2022-01-22 14:30:00,Roland Sallai,Cross
+454546,93,MissedShots,0.9619999694824218,0.47099998474121096,0.1493198126554489,Roland Sallai,h,1277,SetPiece,2021,Head,17691,Freiburg,VfB Stuttgart,2,0,2022-01-22 14:30:00,Christian Günter,Cross
+454526,8,MissedShots,0.720999984741211,0.35,0.019435962662100792,Chris Führich,a,6449,OpenPlay,2021,RightFoot,17691,Freiburg,VfB Stuttgart,2,0,2022-01-22 14:30:00,Orel Mangala,Pass
+454527,10,MissedShots,0.68,0.7619999694824219,0.011250410228967667,Sasa Kalajdzic,a,8812,OpenPlay,2021,RightFoot,17691,Freiburg,VfB Stuttgart,2,0,2022-01-22 14:30:00,Alexis Tibidi,Pass
+454532,36,OwnGoal,0.08,0.4759999847412109,0,Hiroki Ito,a,9715,OpenPlay,2021,RightFoot,17691,Freiburg,VfB Stuttgart,2,0,2022-01-22 14:30:00,,Aerial
+454537,57,SavedShot,0.945,0.4209999847412109,0.04897042736411095,Sasa Kalajdzic,a,8812,OpenPlay,2021,Head,17691,Freiburg,VfB Stuttgart,2,0,2022-01-22 14:30:00,Borna Sosa,Aerial
+454538,57,MissedShots,0.9580000305175781,0.57,0.06400815397500992,Waldemar Anton,a,106,FromCorner,2021,Head,17691,Freiburg,VfB Stuttgart,2,0,2022-01-22 14:30:00,Sasa Kalajdzic,HeadPass
+454542,69,BlockedShot,0.860999984741211,0.3890000152587891,0.06747876852750778,Tanguy Coulibaly,a,8813,OpenPlay,2021,RightFoot,17691,Freiburg,VfB Stuttgart,2,0,2022-01-22 14:30:00,Konstantinos Mavropanos,Pass
+454545,90,BlockedShot,0.7580000305175781,0.730999984741211,0.010633357800543308,Omer Faruk Beyaz,a,9987,OpenPlay,2021,LeftFoot,17691,Freiburg,VfB Stuttgart,2,0,2022-01-22 14:30:00,Sasa Kalajdzic,BallRecovery

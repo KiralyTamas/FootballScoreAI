@@ -1,154 +1,109 @@
 id,isResult,h_id,h_title,h_short_title,a_id,a_title,a_short_title,goals_h,goals_a,xG_h,xG_a,datetime
-17669,False,267,Greuther Fuerth,GRE,133,VfB Stuttgart,STU,None,None,None,None,2022-01-08 06:30:00
-17670,False,268,Bochum,BOC,131,Wolfsburg,WOL,None,None,None,None,2022-01-08 06:30:00
-17671,False,122,Hertha Berlin,HER,134,FC Cologne,COL,None,None,None,None,2022-01-08 06:30:00
-17672,False,120,Hoffenheim,HOF,121,Augsburg,AUG,None,None,None,None,2022-01-08 06:30:00
-17673,False,135,Freiburg,FRE,262,Arminia Bielefeld,ARM,None,None,None,None,2022-01-08 06:30:00
-17674,False,119,Bayer Leverkusen,LEV,240,Union Berlin,UNI,None,None,None,None,2022-01-08 06:30:00
-17675,False,132,Eintracht Frankfurt,EIN,129,Borussia Dortmund,DOR,None,None,None,None,2022-01-08 06:30:00
-17676,False,136,RasenBallsport Leipzig,RBL,125,Mainz 05,MAI,None,None,None,None,2022-01-08 06:30:00
-17677,False,117,Bayern Munich,BAY,130,Borussia M.Gladbach,BMG,None,None,None,None,2022-01-08 06:30:00
-17678,False,134,FC Cologne,COL,117,Bayern Munich,BAY,None,None,None,None,2022-01-15 06:30:00
-17679,False,262,Arminia Bielefeld,ARM,267,Greuther Fuerth,GRE,None,None,None,None,2022-01-15 06:30:00
-17680,False,121,Augsburg,AUG,132,Eintracht Frankfurt,EIN,None,None,None,None,2022-01-15 06:30:00
-17681,False,125,Mainz 05,MAI,268,Bochum,BOC,None,None,None,None,2022-01-15 06:30:00
-17682,False,133,VfB Stuttgart,STU,136,RasenBallsport Leipzig,RBL,None,None,None,None,2022-01-15 06:30:00
-17683,False,130,Borussia M.Gladbach,BMG,119,Bayer Leverkusen,LEV,None,None,None,None,2022-01-15 06:30:00
-17684,False,240,Union Berlin,UNI,120,Hoffenheim,HOF,None,None,None,None,2022-01-15 06:30:00
-17685,False,131,Wolfsburg,WOL,122,Hertha Berlin,HER,None,None,None,None,2022-01-15 06:30:00
-17686,False,129,Borussia Dortmund,DOR,135,Freiburg,FRE,None,None,None,None,2022-01-15 06:30:00
-17687,False,267,Greuther Fuerth,GRE,125,Mainz 05,MAI,None,None,None,None,2022-01-22 06:30:00
-17688,False,268,Bochum,BOC,134,FC Cologne,COL,None,None,None,None,2022-01-22 06:30:00
-17689,False,122,Hertha Berlin,HER,117,Bayern Munich,BAY,None,None,None,None,2022-01-22 06:30:00
-17690,False,120,Hoffenheim,HOF,129,Borussia Dortmund,DOR,None,None,None,None,2022-01-22 06:30:00
-17691,False,135,Freiburg,FRE,133,VfB Stuttgart,STU,None,None,None,None,2022-01-22 06:30:00
-17692,False,130,Borussia M.Gladbach,BMG,240,Union Berlin,UNI,None,None,None,None,2022-01-22 06:30:00
-17693,False,119,Bayer Leverkusen,LEV,121,Augsburg,AUG,None,None,None,None,2022-01-22 06:30:00
-17694,False,132,Eintracht Frankfurt,EIN,262,Arminia Bielefeld,ARM,None,None,None,None,2022-01-22 06:30:00
-17695,False,136,RasenBallsport Leipzig,RBL,131,Wolfsburg,WOL,None,None,None,None,2022-01-22 06:30:00
-17696,False,134,FC Cologne,COL,135,Freiburg,FRE,None,None,None,None,2022-02-05 06:30:00
-17697,False,262,Arminia Bielefeld,ARM,130,Borussia M.Gladbach,BMG,None,None,None,None,2022-02-05 06:30:00
-17698,False,122,Hertha Berlin,HER,268,Bochum,BOC,None,None,None,None,2022-02-05 06:30:00
-17699,False,121,Augsburg,AUG,240,Union Berlin,UNI,None,None,None,None,2022-02-05 06:30:00
-17700,False,125,Mainz 05,MAI,120,Hoffenheim,HOF,None,None,None,None,2022-02-05 06:30:00
-17701,False,133,VfB Stuttgart,STU,132,Eintracht Frankfurt,EIN,None,None,None,None,2022-02-05 06:30:00
-17702,False,131,Wolfsburg,WOL,267,Greuther Fuerth,GRE,None,None,None,None,2022-02-05 06:30:00
-17703,False,129,Borussia Dortmund,DOR,119,Bayer Leverkusen,LEV,None,None,None,None,2022-02-05 06:30:00
-17704,False,117,Bayern Munich,BAY,136,RasenBallsport Leipzig,RBL,None,None,None,None,2022-02-05 06:30:00
-17705,False,267,Greuther Fuerth,GRE,122,Hertha Berlin,HER,None,None,None,None,2022-02-12 06:30:00
-17706,False,268,Bochum,BOC,117,Bayern Munich,BAY,None,None,None,None,2022-02-12 06:30:00
-17707,False,120,Hoffenheim,HOF,262,Arminia Bielefeld,ARM,None,None,None,None,2022-02-12 06:30:00
-17708,False,135,Freiburg,FRE,125,Mainz 05,MAI,None,None,None,None,2022-02-12 06:30:00
-17709,False,130,Borussia M.Gladbach,BMG,121,Augsburg,AUG,None,None,None,None,2022-02-12 06:30:00
-17710,False,240,Union Berlin,UNI,129,Borussia Dortmund,DOR,None,None,None,None,2022-02-12 06:30:00
-17711,False,119,Bayer Leverkusen,LEV,133,VfB Stuttgart,STU,None,None,None,None,2022-02-12 06:30:00
-17712,False,132,Eintracht Frankfurt,EIN,131,Wolfsburg,WOL,None,None,None,None,2022-02-12 06:30:00
-17713,False,136,RasenBallsport Leipzig,RBL,134,FC Cologne,COL,None,None,None,None,2022-02-12 06:30:00
-17714,False,134,FC Cologne,COL,132,Eintracht Frankfurt,EIN,None,None,None,None,2022-02-19 06:30:00
-17715,False,262,Arminia Bielefeld,ARM,240,Union Berlin,UNI,None,None,None,None,2022-02-19 06:30:00
-17716,False,122,Hertha Berlin,HER,136,RasenBallsport Leipzig,RBL,None,None,None,None,2022-02-19 06:30:00
-17717,False,121,Augsburg,AUG,135,Freiburg,FRE,None,None,None,None,2022-02-19 06:30:00
-17718,False,125,Mainz 05,MAI,119,Bayer Leverkusen,LEV,None,None,None,None,2022-02-19 06:30:00
-17719,False,133,VfB Stuttgart,STU,268,Bochum,BOC,None,None,None,None,2022-02-19 06:30:00
-17720,False,131,Wolfsburg,WOL,120,Hoffenheim,HOF,None,None,None,None,2022-02-19 06:30:00
-17721,False,129,Borussia Dortmund,DOR,130,Borussia M.Gladbach,BMG,None,None,None,None,2022-02-19 06:30:00
-17722,False,117,Bayern Munich,BAY,267,Greuther Fuerth,GRE,None,None,None,None,2022-02-19 06:30:00
-17723,False,267,Greuther Fuerth,GRE,134,FC Cologne,COL,None,None,None,None,2022-02-26 06:30:00
-17724,False,268,Bochum,BOC,136,RasenBallsport Leipzig,RBL,None,None,None,None,2022-02-26 06:30:00
-17725,False,121,Augsburg,AUG,129,Borussia Dortmund,DOR,None,None,None,None,2022-02-26 06:30:00
-17726,False,120,Hoffenheim,HOF,133,VfB Stuttgart,STU,None,None,None,None,2022-02-26 06:30:00
-17727,False,135,Freiburg,FRE,122,Hertha Berlin,HER,None,None,None,None,2022-02-26 06:30:00
-17728,False,130,Borussia M.Gladbach,BMG,131,Wolfsburg,WOL,None,None,None,None,2022-02-26 06:30:00
-17729,False,240,Union Berlin,UNI,125,Mainz 05,MAI,None,None,None,None,2022-02-26 06:30:00
-17730,False,119,Bayer Leverkusen,LEV,262,Arminia Bielefeld,ARM,None,None,None,None,2022-02-26 06:30:00
-17731,False,132,Eintracht Frankfurt,EIN,117,Bayern Munich,BAY,None,None,None,None,2022-02-26 06:30:00
-17732,False,268,Bochum,BOC,267,Greuther Fuerth,GRE,None,None,None,None,2022-03-05 06:30:00
-17733,False,134,FC Cologne,COL,120,Hoffenheim,HOF,None,None,None,None,2022-03-05 06:30:00
-17734,False,262,Arminia Bielefeld,ARM,121,Augsburg,AUG,None,None,None,None,2022-03-05 06:30:00
-17735,False,122,Hertha Berlin,HER,132,Eintracht Frankfurt,EIN,None,None,None,None,2022-03-05 06:30:00
-17736,False,125,Mainz 05,MAI,129,Borussia Dortmund,DOR,None,None,None,None,2022-03-05 06:30:00
-17737,False,133,VfB Stuttgart,STU,130,Borussia M.Gladbach,BMG,None,None,None,None,2022-03-05 06:30:00
-17738,False,131,Wolfsburg,WOL,240,Union Berlin,UNI,None,None,None,None,2022-03-05 06:30:00
-17739,False,136,RasenBallsport Leipzig,RBL,135,Freiburg,FRE,None,None,None,None,2022-03-05 06:30:00
-17740,False,117,Bayern Munich,BAY,119,Bayer Leverkusen,LEV,None,None,None,None,2022-03-05 06:30:00
-17741,False,267,Greuther Fuerth,GRE,136,RasenBallsport Leipzig,RBL,None,None,None,None,2022-03-12 06:30:00
-17742,False,121,Augsburg,AUG,125,Mainz 05,MAI,None,None,None,None,2022-03-12 06:30:00
-17743,False,120,Hoffenheim,HOF,117,Bayern Munich,BAY,None,None,None,None,2022-03-12 06:30:00
-17744,False,135,Freiburg,FRE,131,Wolfsburg,WOL,None,None,None,None,2022-03-12 06:30:00
-17745,False,130,Borussia M.Gladbach,BMG,122,Hertha Berlin,HER,None,None,None,None,2022-03-12 06:30:00
-17746,False,240,Union Berlin,UNI,133,VfB Stuttgart,STU,None,None,None,None,2022-03-12 06:30:00
-17747,False,119,Bayer Leverkusen,LEV,134,FC Cologne,COL,None,None,None,None,2022-03-12 06:30:00
-17748,False,132,Eintracht Frankfurt,EIN,268,Bochum,BOC,None,None,None,None,2022-03-12 06:30:00
-17749,False,129,Borussia Dortmund,DOR,262,Arminia Bielefeld,ARM,None,None,None,None,2022-03-12 06:30:00
-17750,False,267,Greuther Fuerth,GRE,135,Freiburg,FRE,None,None,None,None,2022-03-19 06:30:00
-17751,False,268,Bochum,BOC,130,Borussia M.Gladbach,BMG,None,None,None,None,2022-03-19 06:30:00
-17752,False,134,FC Cologne,COL,129,Borussia Dortmund,DOR,None,None,None,None,2022-03-19 06:30:00
-17753,False,122,Hertha Berlin,HER,120,Hoffenheim,HOF,None,None,None,None,2022-03-19 06:30:00
-17754,False,125,Mainz 05,MAI,262,Arminia Bielefeld,ARM,None,None,None,None,2022-03-19 06:30:00
-17755,False,133,VfB Stuttgart,STU,121,Augsburg,AUG,None,None,None,None,2022-03-19 06:30:00
-17756,False,131,Wolfsburg,WOL,119,Bayer Leverkusen,LEV,None,None,None,None,2022-03-19 06:30:00
-17757,False,136,RasenBallsport Leipzig,RBL,132,Eintracht Frankfurt,EIN,None,None,None,None,2022-03-19 06:30:00
-17758,False,117,Bayern Munich,BAY,240,Union Berlin,UNI,None,None,None,None,2022-03-19 06:30:00
-17759,False,262,Arminia Bielefeld,ARM,133,VfB Stuttgart,STU,None,None,None,None,2022-04-02 05:30:00
-17760,False,121,Augsburg,AUG,131,Wolfsburg,WOL,None,None,None,None,2022-04-02 05:30:00
-17761,False,120,Hoffenheim,HOF,268,Bochum,BOC,None,None,None,None,2022-04-02 05:30:00
-17762,False,135,Freiburg,FRE,117,Bayern Munich,BAY,None,None,None,None,2022-04-02 05:30:00
-17763,False,130,Borussia M.Gladbach,BMG,125,Mainz 05,MAI,None,None,None,None,2022-04-02 05:30:00
-17764,False,240,Union Berlin,UNI,134,FC Cologne,COL,None,None,None,None,2022-04-02 05:30:00
-17765,False,119,Bayer Leverkusen,LEV,122,Hertha Berlin,HER,None,None,None,None,2022-04-02 05:30:00
-17766,False,132,Eintracht Frankfurt,EIN,267,Greuther Fuerth,GRE,None,None,None,None,2022-04-02 05:30:00
-17767,False,129,Borussia Dortmund,DOR,136,RasenBallsport Leipzig,RBL,None,None,None,None,2022-04-02 05:30:00
-17768,False,267,Greuther Fuerth,GRE,130,Borussia M.Gladbach,BMG,None,None,None,None,2022-04-09 05:30:00
-17769,False,268,Bochum,BOC,119,Bayer Leverkusen,LEV,None,None,None,None,2022-04-09 05:30:00
-17770,False,134,FC Cologne,COL,125,Mainz 05,MAI,None,None,None,None,2022-04-09 05:30:00
-17771,False,122,Hertha Berlin,HER,240,Union Berlin,UNI,None,None,None,None,2022-04-09 05:30:00
-17772,False,133,VfB Stuttgart,STU,129,Borussia Dortmund,DOR,None,None,None,None,2022-04-09 05:30:00
-17773,False,132,Eintracht Frankfurt,EIN,135,Freiburg,FRE,None,None,None,None,2022-04-09 05:30:00
-17774,False,131,Wolfsburg,WOL,262,Arminia Bielefeld,ARM,None,None,None,None,2022-04-09 05:30:00
-17775,False,136,RasenBallsport Leipzig,RBL,120,Hoffenheim,HOF,None,None,None,None,2022-04-09 05:30:00
-17776,False,117,Bayern Munich,BAY,121,Augsburg,AUG,None,None,None,None,2022-04-09 05:30:00
-17777,False,262,Arminia Bielefeld,ARM,117,Bayern Munich,BAY,None,None,None,None,2022-04-16 05:30:00
-17778,False,121,Augsburg,AUG,122,Hertha Berlin,HER,None,None,None,None,2022-04-16 05:30:00
-17779,False,125,Mainz 05,MAI,133,VfB Stuttgart,STU,None,None,None,None,2022-04-16 05:30:00
-17780,False,120,Hoffenheim,HOF,267,Greuther Fuerth,GRE,None,None,None,None,2022-04-16 05:30:00
-17781,False,135,Freiburg,FRE,268,Bochum,BOC,None,None,None,None,2022-04-16 05:30:00
-17782,False,130,Borussia M.Gladbach,BMG,134,FC Cologne,COL,None,None,None,None,2022-04-16 05:30:00
-17783,False,240,Union Berlin,UNI,132,Eintracht Frankfurt,EIN,None,None,None,None,2022-04-16 05:30:00
-17784,False,119,Bayer Leverkusen,LEV,136,RasenBallsport Leipzig,RBL,None,None,None,None,2022-04-16 05:30:00
-17785,False,129,Borussia Dortmund,DOR,131,Wolfsburg,WOL,None,None,None,None,2022-04-16 05:30:00
-17786,False,267,Greuther Fuerth,GRE,119,Bayer Leverkusen,LEV,None,None,None,None,2022-04-23 05:30:00
-17787,False,268,Bochum,BOC,121,Augsburg,AUG,None,None,None,None,2022-04-23 05:30:00
-17788,False,134,FC Cologne,COL,262,Arminia Bielefeld,ARM,None,None,None,None,2022-04-23 05:30:00
-17789,False,122,Hertha Berlin,HER,133,VfB Stuttgart,STU,None,None,None,None,2022-04-23 05:30:00
-17790,False,135,Freiburg,FRE,130,Borussia M.Gladbach,BMG,None,None,None,None,2022-04-23 05:30:00
-17791,False,132,Eintracht Frankfurt,EIN,120,Hoffenheim,HOF,None,None,None,None,2022-04-23 05:30:00
-17792,False,131,Wolfsburg,WOL,125,Mainz 05,MAI,None,None,None,None,2022-04-23 05:30:00
-17793,False,136,RasenBallsport Leipzig,RBL,240,Union Berlin,UNI,None,None,None,None,2022-04-23 05:30:00
-17794,False,117,Bayern Munich,BAY,129,Borussia Dortmund,DOR,None,None,None,None,2022-04-23 05:30:00
-17795,False,262,Arminia Bielefeld,ARM,122,Hertha Berlin,HER,None,None,None,None,2022-04-30 05:30:00
-17796,False,121,Augsburg,AUG,134,FC Cologne,COL,None,None,None,None,2022-04-30 05:30:00
-17797,False,125,Mainz 05,MAI,117,Bayern Munich,BAY,None,None,None,None,2022-04-30 05:30:00
-17798,False,120,Hoffenheim,HOF,135,Freiburg,FRE,None,None,None,None,2022-04-30 05:30:00
-17799,False,133,VfB Stuttgart,STU,131,Wolfsburg,WOL,None,None,None,None,2022-04-30 05:30:00
-17800,False,130,Borussia M.Gladbach,BMG,136,RasenBallsport Leipzig,RBL,None,None,None,None,2022-04-30 05:30:00
-17801,False,240,Union Berlin,UNI,267,Greuther Fuerth,GRE,None,None,None,None,2022-04-30 05:30:00
-17802,False,119,Bayer Leverkusen,LEV,132,Eintracht Frankfurt,EIN,None,None,None,None,2022-04-30 05:30:00
-17803,False,129,Borussia Dortmund,DOR,268,Bochum,BOC,None,None,None,None,2022-04-30 05:30:00
-17804,False,267,Greuther Fuerth,GRE,129,Borussia Dortmund,DOR,None,None,None,None,2022-05-07 05:30:00
-17805,False,268,Bochum,BOC,262,Arminia Bielefeld,ARM,None,None,None,None,2022-05-07 05:30:00
-17806,False,134,FC Cologne,COL,131,Wolfsburg,WOL,None,None,None,None,2022-05-07 05:30:00
-17807,False,122,Hertha Berlin,HER,125,Mainz 05,MAI,None,None,None,None,2022-05-07 05:30:00
-17808,False,120,Hoffenheim,HOF,119,Bayer Leverkusen,LEV,None,None,None,None,2022-05-07 05:30:00
-17809,False,135,Freiburg,FRE,240,Union Berlin,UNI,None,None,None,None,2022-05-07 05:30:00
-17810,False,132,Eintracht Frankfurt,EIN,130,Borussia M.Gladbach,BMG,None,None,None,None,2022-05-07 05:30:00
-17811,False,136,RasenBallsport Leipzig,RBL,121,Augsburg,AUG,None,None,None,None,2022-05-07 05:30:00
-17812,False,117,Bayern Munich,BAY,133,VfB Stuttgart,STU,None,None,None,None,2022-05-07 05:30:00
-17813,False,262,Arminia Bielefeld,ARM,136,RasenBallsport Leipzig,RBL,None,None,None,None,2022-05-14 05:30:00
-17814,False,121,Augsburg,AUG,267,Greuther Fuerth,GRE,None,None,None,None,2022-05-14 05:30:00
-17815,False,125,Mainz 05,MAI,132,Eintracht Frankfurt,EIN,None,None,None,None,2022-05-14 05:30:00
-17816,False,133,VfB Stuttgart,STU,134,FC Cologne,COL,None,None,None,None,2022-05-14 05:30:00
-17817,False,130,Borussia M.Gladbach,BMG,120,Hoffenheim,HOF,None,None,None,None,2022-05-14 05:30:00
-17818,False,240,Union Berlin,UNI,268,Bochum,BOC,None,None,None,None,2022-05-14 05:30:00
-17819,False,119,Bayer Leverkusen,LEV,135,Freiburg,FRE,None,None,None,None,2022-05-14 05:30:00
-17820,False,131,Wolfsburg,WOL,117,Bayern Munich,BAY,None,None,None,None,2022-05-14 05:30:00
-17821,False,129,Borussia Dortmund,DOR,122,Hertha Berlin,HER,None,None,None,None,2022-05-14 05:30:00
+17718,False,125,Mainz 05,MAI,119,Bayer Leverkusen,LEV,None,None,None,None,2022-02-18 19:30:00
+17715,False,262,Arminia Bielefeld,ARM,240,Union Berlin,UNI,None,None,None,None,2022-02-19 14:30:00
+17717,False,121,Augsburg,AUG,135,Freiburg,FRE,None,None,None,None,2022-02-19 14:30:00
+17719,False,133,VfB Stuttgart,STU,268,Bochum,BOC,None,None,None,None,2022-02-19 14:30:00
+17720,False,131,Wolfsburg,WOL,120,Hoffenheim,HOF,None,None,None,None,2022-02-19 14:30:00
+17714,False,134,FC Cologne,COL,132,Eintracht Frankfurt,EIN,None,None,None,None,2022-02-19 17:30:00
+17722,False,117,Bayern Munich,BAY,267,Greuther Fuerth,GRE,None,None,None,None,2022-02-20 14:30:00
+17721,False,129,Borussia Dortmund,DOR,130,Borussia M.Gladbach,BMG,None,None,None,None,2022-02-20 16:30:00
+17716,False,122,Hertha Berlin,HER,136,RasenBallsport Leipzig,RBL,None,None,None,None,2022-02-20 18:30:00
+17726,False,120,Hoffenheim,HOF,133,VfB Stuttgart,STU,None,None,None,None,2022-02-25 19:30:00
+17723,False,267,Greuther Fuerth,GRE,134,FC Cologne,COL,None,None,None,None,2022-02-26 14:30:00
+17727,False,135,Freiburg,FRE,122,Hertha Berlin,HER,None,None,None,None,2022-02-26 14:30:00
+17728,False,130,Borussia M.Gladbach,BMG,131,Wolfsburg,WOL,None,None,None,None,2022-02-26 14:30:00
+17729,False,240,Union Berlin,UNI,125,Mainz 05,MAI,None,None,None,None,2022-02-26 14:30:00
+17730,False,119,Bayer Leverkusen,LEV,262,Arminia Bielefeld,ARM,None,None,None,None,2022-02-26 14:30:00
+17731,False,132,Eintracht Frankfurt,EIN,117,Bayern Munich,BAY,None,None,None,None,2022-02-26 17:30:00
+17724,False,268,Bochum,BOC,136,RasenBallsport Leipzig,RBL,None,None,None,None,2022-02-27 14:30:00
+17725,False,121,Augsburg,AUG,129,Borussia Dortmund,DOR,None,None,None,None,2022-02-27 16:30:00
+17732,False,268,Bochum,BOC,267,Greuther Fuerth,GRE,None,None,None,None,2022-03-05 02:30:00
+17733,False,134,FC Cologne,COL,120,Hoffenheim,HOF,None,None,None,None,2022-03-05 02:30:00
+17734,False,262,Arminia Bielefeld,ARM,121,Augsburg,AUG,None,None,None,None,2022-03-05 02:30:00
+17735,False,122,Hertha Berlin,HER,132,Eintracht Frankfurt,EIN,None,None,None,None,2022-03-05 02:30:00
+17736,False,125,Mainz 05,MAI,129,Borussia Dortmund,DOR,None,None,None,None,2022-03-05 02:30:00
+17737,False,133,VfB Stuttgart,STU,130,Borussia M.Gladbach,BMG,None,None,None,None,2022-03-05 02:30:00
+17738,False,131,Wolfsburg,WOL,240,Union Berlin,UNI,None,None,None,None,2022-03-05 02:30:00
+17739,False,136,RasenBallsport Leipzig,RBL,135,Freiburg,FRE,None,None,None,None,2022-03-05 02:30:00
+17740,False,117,Bayern Munich,BAY,119,Bayer Leverkusen,LEV,None,None,None,None,2022-03-05 02:30:00
+17741,False,267,Greuther Fuerth,GRE,136,RasenBallsport Leipzig,RBL,None,None,None,None,2022-03-12 02:30:00
+17742,False,121,Augsburg,AUG,125,Mainz 05,MAI,None,None,None,None,2022-03-12 02:30:00
+17743,False,120,Hoffenheim,HOF,117,Bayern Munich,BAY,None,None,None,None,2022-03-12 02:30:00
+17744,False,135,Freiburg,FRE,131,Wolfsburg,WOL,None,None,None,None,2022-03-12 02:30:00
+17745,False,130,Borussia M.Gladbach,BMG,122,Hertha Berlin,HER,None,None,None,None,2022-03-12 02:30:00
+17746,False,240,Union Berlin,UNI,133,VfB Stuttgart,STU,None,None,None,None,2022-03-12 02:30:00
+17747,False,119,Bayer Leverkusen,LEV,134,FC Cologne,COL,None,None,None,None,2022-03-12 02:30:00
+17748,False,132,Eintracht Frankfurt,EIN,268,Bochum,BOC,None,None,None,None,2022-03-12 02:30:00
+17749,False,129,Borussia Dortmund,DOR,262,Arminia Bielefeld,ARM,None,None,None,None,2022-03-12 02:30:00
+17750,False,267,Greuther Fuerth,GRE,135,Freiburg,FRE,None,None,None,None,2022-03-19 02:30:00
+17751,False,268,Bochum,BOC,130,Borussia M.Gladbach,BMG,None,None,None,None,2022-03-19 02:30:00
+17752,False,134,FC Cologne,COL,129,Borussia Dortmund,DOR,None,None,None,None,2022-03-19 02:30:00
+17753,False,122,Hertha Berlin,HER,120,Hoffenheim,HOF,None,None,None,None,2022-03-19 02:30:00
+17754,False,125,Mainz 05,MAI,262,Arminia Bielefeld,ARM,None,None,None,None,2022-03-19 02:30:00
+17755,False,133,VfB Stuttgart,STU,121,Augsburg,AUG,None,None,None,None,2022-03-19 02:30:00
+17756,False,131,Wolfsburg,WOL,119,Bayer Leverkusen,LEV,None,None,None,None,2022-03-19 02:30:00
+17757,False,136,RasenBallsport Leipzig,RBL,132,Eintracht Frankfurt,EIN,None,None,None,None,2022-03-19 02:30:00
+17758,False,117,Bayern Munich,BAY,240,Union Berlin,UNI,None,None,None,None,2022-03-19 02:30:00
+17759,False,262,Arminia Bielefeld,ARM,133,VfB Stuttgart,STU,None,None,None,None,2022-04-02 01:30:00
+17760,False,121,Augsburg,AUG,131,Wolfsburg,WOL,None,None,None,None,2022-04-02 01:30:00
+17761,False,120,Hoffenheim,HOF,268,Bochum,BOC,None,None,None,None,2022-04-02 01:30:00
+17762,False,135,Freiburg,FRE,117,Bayern Munich,BAY,None,None,None,None,2022-04-02 01:30:00
+17763,False,130,Borussia M.Gladbach,BMG,125,Mainz 05,MAI,None,None,None,None,2022-04-02 01:30:00
+17764,False,240,Union Berlin,UNI,134,FC Cologne,COL,None,None,None,None,2022-04-02 01:30:00
+17765,False,119,Bayer Leverkusen,LEV,122,Hertha Berlin,HER,None,None,None,None,2022-04-02 01:30:00
+17766,False,132,Eintracht Frankfurt,EIN,267,Greuther Fuerth,GRE,None,None,None,None,2022-04-02 01:30:00
+17767,False,129,Borussia Dortmund,DOR,136,RasenBallsport Leipzig,RBL,None,None,None,None,2022-04-02 01:30:00
+17768,False,267,Greuther Fuerth,GRE,130,Borussia M.Gladbach,BMG,None,None,None,None,2022-04-09 01:30:00
+17769,False,268,Bochum,BOC,119,Bayer Leverkusen,LEV,None,None,None,None,2022-04-09 01:30:00
+17770,False,134,FC Cologne,COL,125,Mainz 05,MAI,None,None,None,None,2022-04-09 01:30:00
+17771,False,122,Hertha Berlin,HER,240,Union Berlin,UNI,None,None,None,None,2022-04-09 01:30:00
+17772,False,133,VfB Stuttgart,STU,129,Borussia Dortmund,DOR,None,None,None,None,2022-04-09 01:30:00
+17773,False,132,Eintracht Frankfurt,EIN,135,Freiburg,FRE,None,None,None,None,2022-04-09 01:30:00
+17774,False,131,Wolfsburg,WOL,262,Arminia Bielefeld,ARM,None,None,None,None,2022-04-09 01:30:00
+17775,False,136,RasenBallsport Leipzig,RBL,120,Hoffenheim,HOF,None,None,None,None,2022-04-09 01:30:00
+17776,False,117,Bayern Munich,BAY,121,Augsburg,AUG,None,None,None,None,2022-04-09 01:30:00
+17777,False,262,Arminia Bielefeld,ARM,117,Bayern Munich,BAY,None,None,None,None,2022-04-16 01:30:00
+17778,False,121,Augsburg,AUG,122,Hertha Berlin,HER,None,None,None,None,2022-04-16 01:30:00
+17779,False,125,Mainz 05,MAI,133,VfB Stuttgart,STU,None,None,None,None,2022-04-16 01:30:00
+17780,False,120,Hoffenheim,HOF,267,Greuther Fuerth,GRE,None,None,None,None,2022-04-16 01:30:00
+17781,False,135,Freiburg,FRE,268,Bochum,BOC,None,None,None,None,2022-04-16 01:30:00
+17782,False,130,Borussia M.Gladbach,BMG,134,FC Cologne,COL,None,None,None,None,2022-04-16 01:30:00
+17783,False,240,Union Berlin,UNI,132,Eintracht Frankfurt,EIN,None,None,None,None,2022-04-16 01:30:00
+17784,False,119,Bayer Leverkusen,LEV,136,RasenBallsport Leipzig,RBL,None,None,None,None,2022-04-16 01:30:00
+17785,False,129,Borussia Dortmund,DOR,131,Wolfsburg,WOL,None,None,None,None,2022-04-16 01:30:00
+17786,False,267,Greuther Fuerth,GRE,119,Bayer Leverkusen,LEV,None,None,None,None,2022-04-23 01:30:00
+17787,False,268,Bochum,BOC,121,Augsburg,AUG,None,None,None,None,2022-04-23 01:30:00
+17788,False,134,FC Cologne,COL,262,Arminia Bielefeld,ARM,None,None,None,None,2022-04-23 01:30:00
+17789,False,122,Hertha Berlin,HER,133,VfB Stuttgart,STU,None,None,None,None,2022-04-23 01:30:00
+17790,False,135,Freiburg,FRE,130,Borussia M.Gladbach,BMG,None,None,None,None,2022-04-23 01:30:00
+17791,False,132,Eintracht Frankfurt,EIN,120,Hoffenheim,HOF,None,None,None,None,2022-04-23 01:30:00
+17792,False,131,Wolfsburg,WOL,125,Mainz 05,MAI,None,None,None,None,2022-04-23 01:30:00
+17793,False,136,RasenBallsport Leipzig,RBL,240,Union Berlin,UNI,None,None,None,None,2022-04-23 01:30:00
+17794,False,117,Bayern Munich,BAY,129,Borussia Dortmund,DOR,None,None,None,None,2022-04-23 01:30:00
+17795,False,262,Arminia Bielefeld,ARM,122,Hertha Berlin,HER,None,None,None,None,2022-04-30 01:30:00
+17796,False,121,Augsburg,AUG,134,FC Cologne,COL,None,None,None,None,2022-04-30 01:30:00
+17797,False,125,Mainz 05,MAI,117,Bayern Munich,BAY,None,None,None,None,2022-04-30 01:30:00
+17798,False,120,Hoffenheim,HOF,135,Freiburg,FRE,None,None,None,None,2022-04-30 01:30:00
+17799,False,133,VfB Stuttgart,STU,131,Wolfsburg,WOL,None,None,None,None,2022-04-30 01:30:00
+17800,False,130,Borussia M.Gladbach,BMG,136,RasenBallsport Leipzig,RBL,None,None,None,None,2022-04-30 01:30:00
+17801,False,240,Union Berlin,UNI,267,Greuther Fuerth,GRE,None,None,None,None,2022-04-30 01:30:00
+17802,False,119,Bayer Leverkusen,LEV,132,Eintracht Frankfurt,EIN,None,None,None,None,2022-04-30 01:30:00
+17803,False,129,Borussia Dortmund,DOR,268,Bochum,BOC,None,None,None,None,2022-04-30 01:30:00
+17804,False,267,Greuther Fuerth,GRE,129,Borussia Dortmund,DOR,None,None,None,None,2022-05-07 01:30:00
+17805,False,268,Bochum,BOC,262,Arminia Bielefeld,ARM,None,None,None,None,2022-05-07 01:30:00
+17806,False,134,FC Cologne,COL,131,Wolfsburg,WOL,None,None,None,None,2022-05-07 01:30:00
+17807,False,122,Hertha Berlin,HER,125,Mainz 05,MAI,None,None,None,None,2022-05-07 01:30:00
+17808,False,120,Hoffenheim,HOF,119,Bayer Leverkusen,LEV,None,None,None,None,2022-05-07 01:30:00
+17809,False,135,Freiburg,FRE,240,Union Berlin,UNI,None,None,None,None,2022-05-07 01:30:00
+17810,False,132,Eintracht Frankfurt,EIN,130,Borussia M.Gladbach,BMG,None,None,None,None,2022-05-07 01:30:00
+17811,False,136,RasenBallsport Leipzig,RBL,121,Augsburg,AUG,None,None,None,None,2022-05-07 01:30:00
+17812,False,117,Bayern Munich,BAY,133,VfB Stuttgart,STU,None,None,None,None,2022-05-07 01:30:00
+17813,False,262,Arminia Bielefeld,ARM,136,RasenBallsport Leipzig,RBL,None,None,None,None,2022-05-14 01:30:00
+17814,False,121,Augsburg,AUG,267,Greuther Fuerth,GRE,None,None,None,None,2022-05-14 01:30:00
+17815,False,125,Mainz 05,MAI,132,Eintracht Frankfurt,EIN,None,None,None,None,2022-05-14 01:30:00
+17816,False,133,VfB Stuttgart,STU,134,FC Cologne,COL,None,None,None,None,2022-05-14 01:30:00
+17817,False,130,Borussia M.Gladbach,BMG,120,Hoffenheim,HOF,None,None,None,None,2022-05-14 01:30:00
+17818,False,240,Union Berlin,UNI,268,Bochum,BOC,None,None,None,None,2022-05-14 01:30:00
+17819,False,119,Bayer Leverkusen,LEV,135,Freiburg,FRE,None,None,None,None,2022-05-14 01:30:00
+17820,False,131,Wolfsburg,WOL,117,Bayern Munich,BAY,None,None,None,None,2022-05-14 01:30:00
+17821,False,129,Borussia Dortmund,DOR,122,Hertha Berlin,HER,None,None,None,None,2022-05-14 01:30:00

@@ -1,0 +1,34 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+456509,1,MissedShots,0.7859999847412109,0.26299999237060545,0.01660185307264328,Jonjo Shelvey,h,769,OpenPlay,2021,RightFoot,16612,Newcastle United,Everton,3,1,2022-02-08 19:45:00,,BallRecovery
+456511,9,SavedShot,0.8130000305175781,0.5329999923706055,0.06008177995681763,Jonjo Shelvey,h,769,OpenPlay,2021,LeftFoot,16612,Newcastle United,Everton,3,1,2022-02-08 19:45:00,Allan Saint-Maximin,Pass
+456516,31,SavedShot,0.9319999694824219,0.649000015258789,0.09579930454492569,Joelinton,h,87,OpenPlay,2021,LeftFoot,16612,Newcastle United,Everton,3,1,2022-02-08 19:45:00,Allan Saint-Maximin,Pass
+456518,35,OwnGoal,0.020999999046325685,0.4909999847412109,0,Jamaal Lascelles,h,766,SetPiece,2021,OtherBodyPart,16612,Newcastle United,Everton,3,1,2022-02-08 19:45:00,,None
+456519,36,ShotOnPost,0.9169999694824219,0.5840000152587891,0.049826622009277344,Jamaal Lascelles,h,766,FromCorner,2021,Head,16612,Newcastle United,Everton,3,1,2022-02-08 19:45:00,Kieran Trippier,Cross
+456521,41,MissedShots,0.9359999847412109,0.5709999847412109,0.03478391468524933,Fabian Schär,h,76,FromCorner,2021,Head,16612,Newcastle United,Everton,3,1,2022-02-08 19:45:00,Kieran Trippier,Aerial
+456522,41,BlockedShot,0.8569999694824219,0.4229999923706055,0.06401412934064865,Ryan Fraser,h,1683,FromCorner,2021,RightFoot,16612,Newcastle United,Everton,3,1,2022-02-08 19:45:00,,Rebound
+456523,41,SavedShot,0.9330000305175781,0.5509999847412109,0.29012754559516907,Chris Wood,h,4456,FromCorner,2021,Head,16612,Newcastle United,Everton,3,1,2022-02-08 19:45:00,,Rebound
+456524,43,BlockedShot,0.9019999694824219,0.4179999923706055,0.05445176362991333,Ryan Fraser,h,1683,OpenPlay,2021,Head,16612,Newcastle United,Everton,3,1,2022-02-08 19:45:00,Matt Targett,Cross
+456525,43,MissedShots,0.9009999847412109,0.6509999847412109,0.011066053062677383,Jamaal Lascelles,h,766,FromCorner,2021,Head,16612,Newcastle United,Everton,3,1,2022-02-08 19:45:00,Kieran Trippier,Aerial
+456526,47,BlockedShot,0.8859999847412109,0.5579999923706055,0.13002102077007294,Chris Wood,h,4456,OpenPlay,2021,RightFoot,16612,Newcastle United,Everton,3,1,2022-02-08 19:45:00,Joelinton,TakeOn
+456527,47,BlockedShot,0.8809999847412109,0.38799999237060545,0.06775660067796707,Ryan Fraser,h,1683,OpenPlay,2021,RightFoot,16612,Newcastle United,Everton,3,1,2022-02-08 19:45:00,,Rebound
+456528,47,MissedShots,0.8530000305175781,0.5209999847412109,0.06678076088428497,Joelinton,h,87,SetPiece,2021,LeftFoot,16612,Newcastle United,Everton,3,1,2022-02-08 19:45:00,,None
+456529,47,BlockedShot,0.91,0.575,0.11282380670309067,Joe Willock,h,6630,SetPiece,2021,RightFoot,16612,Newcastle United,Everton,3,1,2022-02-08 19:45:00,Joelinton,Rebound
+456531,55,Goal,0.960999984741211,0.4640000152587891,0.6288732290267944,Ryan Fraser,h,1683,OpenPlay,2021,LeftFoot,16612,Newcastle United,Everton,3,1,2022-02-08 19:45:00,,None
+456534,65,SavedShot,0.875999984741211,0.5729999923706055,0.012456166557967663,Fabian Schär,h,76,FromCorner,2021,Head,16612,Newcastle United,Everton,3,1,2022-02-08 19:45:00,Kieran Trippier,Aerial
+456536,76,SavedShot,0.88,0.605999984741211,0.1205584928393364,Allan Saint-Maximin,h,101,OpenPlay,2021,RightFoot,16612,Newcastle United,Everton,3,1,2022-02-08 19:45:00,Jonjo Shelvey,TakeOn
+456537,79,Goal,0.7530000305175781,0.3990000152587891,0.059716999530792236,Kieran Trippier,h,652,DirectFreekick,2021,RightFoot,16612,Newcastle United,Everton,3,1,2022-02-08 19:45:00,,Standard
+456539,87,ShotOnPost,0.85,0.3729999923706055,0.111562080681324,Jacob Murphy,h,6063,OpenPlay,2021,RightFoot,16612,Newcastle United,Everton,3,1,2022-02-08 19:45:00,Allan Saint-Maximin,Pass
+456540,87,SavedShot,0.8159999847412109,0.48,0.07291711866855621,Joe Willock,h,6630,OpenPlay,2021,RightFoot,16612,Newcastle United,Everton,3,1,2022-02-08 19:45:00,,Rebound
+456541,91,SavedShot,0.955999984741211,0.5879999923706055,0.6818205714225769,Allan Saint-Maximin,h,101,OpenPlay,2021,RightFoot,16612,Newcastle United,Everton,3,1,2022-02-08 19:45:00,Bruno Guimarães,TakeOn
+456510,8,MissedShots,0.8880000305175781,0.664000015258789,0.008787968195974827,Andros Townsend,a,775,OpenPlay,2021,Head,16612,Newcastle United,Everton,3,1,2022-02-08 19:45:00,Seamus Coleman,Cross
+456512,11,MissedShots,0.84,0.295,0.032131683081388474,Richarlison,a,6026,OpenPlay,2021,RightFoot,16612,Newcastle United,Everton,3,1,2022-02-08 19:45:00,Demarai Gray,Pass
+456513,18,BlockedShot,0.8819999694824219,0.740999984741211,0.03308480232954025,Andros Townsend,a,775,OpenPlay,2021,RightFoot,16612,Newcastle United,Everton,3,1,2022-02-08 19:45:00,Demarai Gray,Pass
+456514,18,MissedShots,0.92,0.5520000076293945,0.0803871676325798,Yerry Mina,a,6521,FromCorner,2021,Head,16612,Newcastle United,Everton,3,1,2022-02-08 19:45:00,Demarai Gray,Cross
+456515,30,BlockedShot,0.8480000305175781,0.674000015258789,0.0425403006374836,Dele Alli,a,645,OpenPlay,2021,RightFoot,16612,Newcastle United,Everton,3,1,2022-02-08 19:45:00,Anthony Gordon,Pass
+456517,35,BlockedShot,0.9590000152587891,0.565,0.4939274787902832,Mason Holgate,a,985,SetPiece,2021,LeftFoot,16612,Newcastle United,Everton,3,1,2022-02-08 19:45:00,Richarlison,BallTouch
+456520,36,OwnGoal,0.012999999523162841,0.5070000076293946,0,Mason Holgate,a,985,FromCorner,2021,OtherBodyPart,16612,Newcastle United,Everton,3,1,2022-02-08 19:45:00,,None
+456530,50,SavedShot,0.8630000305175781,0.749000015258789,0.03914133086800575,Anthony Gordon,a,8150,FromCorner,2021,RightFoot,16612,Newcastle United,Everton,3,1,2022-02-08 19:45:00,Dele Alli,TakeOn
+456532,58,BlockedShot,0.749000015258789,0.6559999847412109,0.04945708066225052,Richarlison,a,6026,DirectFreekick,2021,RightFoot,16612,Newcastle United,Everton,3,1,2022-02-08 19:45:00,,Standard
+456533,58,SavedShot,0.779000015258789,0.4909999847412109,0.021407682448625565,Jarrad Branthwaite,a,8476,SetPiece,2021,LeftFoot,16612,Newcastle United,Everton,3,1,2022-02-08 19:45:00,,Rebound
+456535,71,BlockedShot,0.7440000152587891,0.3039999961853027,0.013610310852527618,Anthony Gordon,a,8150,OpenPlay,2021,LeftFoot,16612,Newcastle United,Everton,3,1,2022-02-08 19:45:00,Seamus Coleman,BallTouch
+456538,87,BlockedShot,0.7659999847412109,0.7340000152587891,0.010190114378929138,Donny van de Beek,a,8821,OpenPlay,2021,RightFoot,16612,Newcastle United,Everton,3,1,2022-02-08 19:45:00,Dele Alli,Pass

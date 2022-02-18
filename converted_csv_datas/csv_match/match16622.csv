@@ -1,0 +1,22 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+457535,19,MissedShots,0.7559999847412109,0.40400001525878904,0.018519021570682526,Joe Willock,h,6630,OpenPlay,2021,RightFoot,16622,Newcastle United,Aston Villa,1,0,2022-02-13 14:00:00,,None
+457536,27,MissedShots,0.8859999847412109,0.46099998474121096,0.054634805768728256,Chris Wood,h,4456,OpenPlay,2021,Head,16622,Newcastle United,Aston Villa,1,0,2022-02-13 14:00:00,Ryan Fraser,Cross
+457537,30,BlockedShot,0.8880000305175781,0.31,0.05486205965280533,Joe Willock,h,6630,OpenPlay,2021,RightFoot,16622,Newcastle United,Aston Villa,1,0,2022-02-13 14:00:00,,BallRecovery
+457538,34,Goal,0.82,0.549000015258789,0.16641747951507568,Kieran Trippier,h,652,DirectFreekick,2021,RightFoot,16622,Newcastle United,Aston Villa,1,0,2022-02-13 14:00:00,,Standard
+457539,42,MissedShots,0.7559999847412109,0.549000015258789,0.03328856825828552,Chris Wood,h,4456,OpenPlay,2021,RightFoot,16622,Newcastle United,Aston Villa,1,0,2022-02-13 14:00:00,Joe Willock,None
+457542,50,MissedShots,0.730999984741211,0.39099998474121095,0.020338065922260284,Jonjo Shelvey,h,769,OpenPlay,2021,RightFoot,16622,Newcastle United,Aston Villa,1,0,2022-02-13 14:00:00,Allan Saint-Maximin,Pass
+457547,57,BlockedShot,0.7469999694824219,0.590999984741211,0.023565949872136116,Allan Saint-Maximin,h,101,FromCorner,2021,RightFoot,16622,Newcastle United,Aston Villa,1,0,2022-02-13 14:00:00,Emil Krafth,CornerAwarded
+457548,58,BlockedShot,0.875,0.565,0.021131660789251328,Dan Burn,h,7382,FromCorner,2021,Head,16622,Newcastle United,Aston Villa,1,0,2022-02-13 14:00:00,Ryan Fraser,Cross
+457552,88,BlockedShot,0.8519999694824218,0.5279999923706055,0.11447004973888397,Joe Willock,h,6630,OpenPlay,2021,LeftFoot,16622,Newcastle United,Aston Villa,1,0,2022-02-13 14:00:00,Allan Saint-Maximin,Pass
+457554,95,SavedShot,0.8440000152587891,0.705,0.020343594253063202,Allan Saint-Maximin,h,101,OpenPlay,2021,RightFoot,16622,Newcastle United,Aston Villa,1,0,2022-02-13 14:00:00,Chris Wood,TakeOn
+457534,13,BlockedShot,0.755,0.2979999923706055,0.012034714221954346,Emiliano Buendía,a,2203,OpenPlay,2021,RightFoot,16622,Newcastle United,Aston Villa,1,0,2022-02-13 14:00:00,,None
+457543,45,BlockedShot,0.8130000305175781,0.30200000762939455,0.028429768979549408,Matthew Cash,a,8864,OpenPlay,2021,RightFoot,16622,Newcastle United,Aston Villa,1,0,2022-02-13 14:00:00,Emiliano Buendía,Pass
+457540,46,BlockedShot,0.7530000305175781,0.42400001525878905,0.025346821174025536,John McGinn,a,7723,FromCorner,2021,LeftFoot,16622,Newcastle United,Aston Villa,1,0,2022-02-13 14:00:00,Philippe Coutinho,Pass
+457541,48,MissedShots,0.955999984741211,0.5659999847412109,0.05760456621646881,Tyrone Mings,a,1024,FromCorner,2021,Head,16622,Newcastle United,Aston Villa,1,0,2022-02-13 14:00:00,John McGinn,Aerial
+457544,49,MissedShots,0.7869999694824219,0.37599998474121094,0.030001970008015633,Ollie Watkins,a,8865,OpenPlay,2021,LeftFoot,16622,Newcastle United,Aston Villa,1,0,2022-02-13 14:00:00,Douglas Luiz,Pass
+457545,50,MissedShots,0.8640000152587891,0.28399999618530275,0.03700767084956169,Matthew Cash,a,8864,OpenPlay,2021,RightFoot,16622,Newcastle United,Aston Villa,1,0,2022-02-13 14:00:00,Philippe Coutinho,Pass
+457546,55,SavedShot,0.74,0.6480000305175782,0.04641061648726463,Douglas Luiz,a,6122,DirectFreekick,2021,RightFoot,16622,Newcastle United,Aston Villa,1,0,2022-02-13 14:00:00,,Standard
+457549,60,MissedShots,0.909000015258789,0.5829999923706055,0.10819470882415771,Philippe Coutinho,a,488,OpenPlay,2021,RightFoot,16622,Newcastle United,Aston Villa,1,0,2022-02-13 14:00:00,Lucas Digne,Pass
+457550,64,MissedShots,0.909000015258789,0.4179999923706055,0.025736376643180847,Emiliano Buendía,a,2203,OpenPlay,2021,Head,16622,Newcastle United,Aston Villa,1,0,2022-02-13 14:00:00,Lucas Digne,Aerial
+457551,81,MissedShots,0.895,0.4929999923706055,0.07059402018785477,Danny Ings,a,986,OpenPlay,2021,Head,16622,Newcastle United,Aston Villa,1,0,2022-02-13 14:00:00,Matthew Cash,Cross
+457553,89,BlockedShot,0.6969999694824218,0.6329999923706054,0.013844333589076996,Philippe Coutinho,a,488,OpenPlay,2021,RightFoot,16622,Newcastle United,Aston Villa,1,0,2022-02-13 14:00:00,Jacob Ramsey,Pass
