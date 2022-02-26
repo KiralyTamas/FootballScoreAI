@@ -1,0 +1,28 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+456100,11,BlockedShot,0.8869999694824219,0.6659999847412109,0.06755786389112473,Riccardo Orsolini,h,6160,OpenPlay,2021,LeftFoot,16987,Bologna,Empoli,0,0,2022-02-06 14:00:00,Roberto Soriano,Pass
+456102,27,SavedShot,0.8440000152587891,0.6680000305175782,0.034298140555620193,Roberto Soriano,h,1810,OpenPlay,2021,RightFoot,16987,Bologna,Empoli,0,0,2022-02-06 14:00:00,Marko Arnautovic,HeadPass
+456104,31,MissedShots,0.8969999694824219,0.659000015258789,0.07204277813434601,Riccardo Orsolini,h,6160,OpenPlay,2021,LeftFoot,16987,Bologna,Empoli,0,0,2022-02-06 14:00:00,Marko Arnautovic,Pass
+456106,35,ShotOnPost,0.6959999847412109,0.4879999923706055,0.00875602662563324,Marko Arnautovic,h,865,OpenPlay,2021,RightFoot,16987,Bologna,Empoli,0,0,2022-02-06 14:00:00,Lorenzo De Silvestri,Chipped
+456107,36,MissedShots,0.9459999847412109,0.6170000076293946,0.049847640097141266,Marko Arnautovic,h,865,OpenPlay,2021,Head,16987,Bologna,Empoli,0,0,2022-02-06 14:00:00,Riccardo Orsolini,Cross
+456109,39,MissedShots,0.769000015258789,0.545,0.0331711582839489,Riccardo Orsolini,h,6160,OpenPlay,2021,LeftFoot,16987,Bologna,Empoli,0,0,2022-02-06 14:00:00,Jerdy Schouten,HeadPass
+456111,51,MissedShots,0.7909999847412109,0.3559999847412109,0.02325993776321411,Jerdy Schouten,h,7933,OpenPlay,2021,RightFoot,16987,Bologna,Empoli,0,0,2022-02-06 14:00:00,Marko Arnautovic,Pass
+456115,72,BlockedShot,0.914000015258789,0.35900001525878905,0.07142829895019531,Riccardo Orsolini,h,6160,OpenPlay,2021,LeftFoot,16987,Bologna,Empoli,0,0,2022-02-06 14:00:00,,None
+456119,82,BlockedShot,0.825999984741211,0.525,0.07446610927581787,Denso Kasius,h,10384,OpenPlay,2021,LeftFoot,16987,Bologna,Empoli,0,0,2022-02-06 14:00:00,Michel Aebischer,Pass
+456120,85,MissedShots,0.8140000152587891,0.47200000762939454,0.06256555765867233,Nicola Sansone,h,1826,OpenPlay,2021,RightFoot,16987,Bologna,Empoli,0,0,2022-02-06 14:00:00,Denso Kasius,Pass
+456122,91,MissedShots,0.8780000305175781,0.755,0.02951093576848507,Mitchell Dijks,h,6971,OpenPlay,2021,LeftFoot,16987,Bologna,Empoli,0,0,2022-02-06 14:00:00,Marko Arnautovic,Pass
+456123,93,SavedShot,0.7830000305175782,0.365,0.026403727009892464,Denso Kasius,h,10384,OpenPlay,2021,RightFoot,16987,Bologna,Empoli,0,0,2022-02-06 14:00:00,Musa Barrow,Pass
+456097,7,SavedShot,0.9580000305175781,0.5509999847412109,0.56166672706604,Andrea Pinamonti,a,4895,OpenPlay,2021,RightFoot,16987,Bologna,Empoli,0,0,2022-02-06 14:00:00,Filippo Bandinelli,Cross
+456098,8,MissedShots,0.85,0.664000015258789,0.05115367844700813,Filippo Bandinelli,a,9850,OpenPlay,2021,LeftFoot,16987,Bologna,Empoli,0,0,2022-02-06 14:00:00,Fabiano Parisi,BlockedPass
+456099,9,SavedShot,0.7469999694824219,0.66,0.019235864281654358,Liam Henderson,a,7925,OpenPlay,2021,RightFoot,16987,Bologna,Empoli,0,0,2022-02-06 14:00:00,Kristjan Asllani,Pass
+456101,24,BlockedShot,0.715,0.635,0.013192509301006794,Kristjan Asllani,a,9854,SetPiece,2021,LeftFoot,16987,Bologna,Empoli,0,0,2022-02-06 14:00:00,Liam Henderson,LayOff
+456103,29,SavedShot,0.764000015258789,0.7180000305175781,0.011970339342951775,Fabiano Parisi,a,9924,OpenPlay,2021,LeftFoot,16987,Bologna,Empoli,0,0,2022-02-06 14:00:00,Guglielmo Vicario,TakeOn
+456105,32,MissedShots,0.8590000152587891,0.455,0.09931831061840057,Liam Henderson,a,7925,OpenPlay,2021,RightFoot,16987,Bologna,Empoli,0,0,2022-02-06 14:00:00,Petar Stojanovic,Pass
+456108,37,MissedShots,0.895,0.40599998474121096,0.09323372691869736,Nedim Bajrami,a,9851,OpenPlay,2021,RightFoot,16987,Bologna,Empoli,0,0,2022-02-06 14:00:00,,Dispossessed
+456110,42,MissedShots,0.9519999694824218,0.3529999923706055,0.31330856680870056,Nedim Bajrami,a,9851,OpenPlay,2021,RightFoot,16987,Bologna,Empoli,0,0,2022-02-06 14:00:00,Petar Stojanovic,Throughball
+456112,55,BlockedShot,0.7909999847412109,0.725999984741211,0.013376343064010143,Filippo Bandinelli,a,9850,OpenPlay,2021,RightFoot,16987,Bologna,Empoli,0,0,2022-02-06 14:00:00,Petar Stojanovic,Chipped
+456113,66,BlockedShot,0.8130000305175781,0.25299999237060544,0.022591959685087204,Valerio Verre,a,1569,OpenPlay,2021,RightFoot,16987,Bologna,Empoli,0,0,2022-02-06 14:00:00,Marco Benassi,Pass
+456114,67,MissedShots,0.9619999694824218,0.4420000076293945,0.14550822973251343,Valerio Verre,a,1569,OpenPlay,2021,RightFoot,16987,Bologna,Empoli,0,0,2022-02-06 14:00:00,Nedim Bajrami,Pass
+456116,74,SavedShot,0.9130000305175782,0.6140000152587891,0.11112896353006363,Szymon Zurkowski,a,7910,OpenPlay,2021,LeftFoot,16987,Bologna,Empoli,0,0,2022-02-06 14:00:00,Andrea Pinamonti,Pass
+456117,75,ShotOnPost,0.7930000305175782,0.7290000152587891,0.018557611852884293,Federico Di Francesco,a,1449,OpenPlay,2021,RightFoot,16987,Bologna,Empoli,0,0,2022-02-06 14:00:00,Szymon Zurkowski,Pass
+456118,82,BlockedShot,0.8909999847412109,0.40400001525878904,0.07902033627033234,Andrea Pinamonti,a,4895,OpenPlay,2021,RightFoot,16987,Bologna,Empoli,0,0,2022-02-06 14:00:00,,None
+456121,85,MissedShots,0.91,0.34799999237060547,0.32378512620925903,Andrea Pinamonti,a,4895,OpenPlay,2021,RightFoot,16987,Bologna,Empoli,0,0,2022-02-06 14:00:00,Marco Benassi,Throughball

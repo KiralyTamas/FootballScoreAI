@@ -1,0 +1,28 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+456714,5,MissedShots,0.8690000152587891,0.5729999923706055,0.009595776908099651,Roberto Firmino,h,482,SetPiece,2021,Head,16614,Liverpool,Leicester,2,0,2022-02-10 19:45:00,Trent Alexander-Arnold,Aerial
+456717,18,SavedShot,0.865,0.36700000762939455,0.06575306504964828,Trent Alexander-Arnold,h,1791,OpenPlay,2021,LeftFoot,16614,Liverpool,Leicester,2,0,2022-02-10 19:45:00,Curtis Jones,BallTouch
+456718,32,BlockedShot,0.8919999694824219,0.49,0.08273836970329285,Roberto Firmino,h,482,SetPiece,2021,RightFoot,16614,Liverpool,Leicester,2,0,2022-02-10 19:45:00,,None
+456719,33,SavedShot,0.915,0.44799999237060545,0.026493605226278305,Virgil van Dijk,h,833,FromCorner,2021,Head,16614,Liverpool,Leicester,2,0,2022-02-10 19:45:00,Trent Alexander-Arnold,Aerial
+456720,33,Goal,0.9569999694824218,0.4859999847412109,0.6411092281341553,Diogo Jota,h,6854,FromCorner,2021,RightFoot,16614,Liverpool,Leicester,2,0,2022-02-10 19:45:00,,Rebound
+456721,41,MissedShots,0.8180000305175781,0.47,0.06860502064228058,Thiago Alcántara,h,229,OpenPlay,2021,RightFoot,16614,Liverpool,Leicester,2,0,2022-02-10 19:45:00,,None
+456722,41,SavedShot,0.6990000152587891,0.35900001525878905,0.018361641094088554,Roberto Firmino,h,482,OpenPlay,2021,RightFoot,16614,Liverpool,Leicester,2,0,2022-02-10 19:45:00,Trent Alexander-Arnold,Pass
+456723,44,SavedShot,0.875999984741211,0.605999984741211,0.11052142083644867,Roberto Firmino,h,482,OpenPlay,2021,LeftFoot,16614,Liverpool,Leicester,2,0,2022-02-10 19:45:00,Diogo Jota,Pass
+456724,45,BlockedShot,0.7669999694824219,0.7530000305175781,0.014952416531741619,Curtis Jones,h,6665,OpenPlay,2021,RightFoot,16614,Liverpool,Leicester,2,0,2022-02-10 19:45:00,Luis Díaz,Pass
+456727,57,BlockedShot,0.735,0.6830000305175781,0.012842956930398941,Luis Díaz,h,10408,OpenPlay,2021,RightFoot,16614,Liverpool,Leicester,2,0,2022-02-10 19:45:00,Joel Matip,TakeOn
+456728,57,MissedShots,0.935,0.5259999847412109,0.11992581933736801,Diogo Jota,h,6854,FromCorner,2021,RightFoot,16614,Liverpool,Leicester,2,0,2022-02-10 19:45:00,,None
+456729,68,MissedShots,0.8919999694824219,0.68,0.1038021370768547,Luis Díaz,h,10408,OpenPlay,2021,LeftFoot,16614,Liverpool,Leicester,2,0,2022-02-10 19:45:00,Diogo Jota,Pass
+456730,73,SavedShot,0.9819999694824219,0.3940000152587891,0.12536291778087616,Mohamed Salah,h,1250,OpenPlay,2021,LeftFoot,16614,Liverpool,Leicester,2,0,2022-02-10 19:45:00,,TakeOn
+456731,73,BlockedShot,0.9019999694824219,0.5279999923706055,0.022821221500635147,Joel Matip,h,332,FromCorner,2021,Head,16614,Liverpool,Leicester,2,0,2022-02-10 19:45:00,Trent Alexander-Arnold,Aerial
+456732,74,SavedShot,0.885,0.43900001525878907,0.3630744516849518,Mohamed Salah,h,1250,OpenPlay,2021,RightFoot,16614,Liverpool,Leicester,2,0,2022-02-10 19:45:00,,TakeOn
+456733,77,ShotOnPost,0.8580000305175781,0.33,0.06736249476671219,Mohamed Salah,h,1250,OpenPlay,2021,LeftFoot,16614,Liverpool,Leicester,2,0,2022-02-10 19:45:00,Harvey Elliott,Pass
+456734,77,SavedShot,0.8009999847412109,0.6469999694824219,0.04414370656013489,Luis Díaz,h,10408,OpenPlay,2021,RightFoot,16614,Liverpool,Leicester,2,0,2022-02-10 19:45:00,,None
+456735,79,MissedShots,0.7569999694824219,0.4279999923706055,0.02673984505236149,Trent Alexander-Arnold,h,1791,OpenPlay,2021,RightFoot,16614,Liverpool,Leicester,2,0,2022-02-10 19:45:00,Andrew Robertson,Pass
+456737,81,SavedShot,0.95,0.3340000152587891,0.28459522128105164,Luis Díaz,h,10408,OpenPlay,2021,RightFoot,16614,Liverpool,Leicester,2,0,2022-02-10 19:45:00,Mohamed Salah,Pass
+456738,85,MissedShots,0.8969999694824219,0.534000015258789,0.01827542670071125,Virgil van Dijk,h,833,FromCorner,2021,Head,16614,Liverpool,Leicester,2,0,2022-02-10 19:45:00,Andrew Robertson,Aerial
+456739,86,Goal,0.895,0.5,0.4610896408557892,Diogo Jota,h,6854,OpenPlay,2021,RightFoot,16614,Liverpool,Leicester,2,0,2022-02-10 19:45:00,Joel Matip,Pass
+456740,92,SavedShot,0.855,0.3609999847412109,0.05879276990890503,Mohamed Salah,h,1250,OpenPlay,2021,LeftFoot,16614,Liverpool,Leicester,2,0,2022-02-10 19:45:00,,None
+456715,6,SavedShot,0.9390000152587891,0.674000015258789,0.318185418844223,James Maddison,a,6818,OpenPlay,2021,LeftFoot,16614,Liverpool,Leicester,2,0,2022-02-10 19:45:00,Ademola Lookman,Throughball
+456716,7,MissedShots,0.9519999694824218,0.425,0.09992939233779907,Boubakary Soumare,a,6310,FromCorner,2021,Head,16614,Liverpool,Leicester,2,0,2022-02-10 19:45:00,James Maddison,Cross
+456725,50,BlockedShot,0.7340000152587891,0.49900001525878906,0.054086875170469284,James Maddison,a,6818,DirectFreekick,2021,RightFoot,16614,Liverpool,Leicester,2,0,2022-02-10 19:45:00,,Standard
+456726,51,MissedShots,0.784000015258789,0.7030000305175781,0.019152555614709854,James Maddison,a,6818,OpenPlay,2021,RightFoot,16614,Liverpool,Leicester,2,0,2022-02-10 19:45:00,Luke Thomas,Pass
+456736,80,MissedShots,0.8959999847412109,0.674000015258789,0.05360008403658867,Kelechi Iheanacho,a,620,OpenPlay,2021,LeftFoot,16614,Liverpool,Leicester,2,0,2022-02-10 19:45:00,Harvey Barnes,Chipped

@@ -1,0 +1,29 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+456391,6,BlockedShot,0.92,0.34200000762939453,0.0647953450679779,Hatem Ben Arfa,h,3638,OpenPlay,2021,RightFoot,18044,Lille,Paris Saint Germain,1,5,2022-02-06 19:45:00,,None
+456392,7,MissedShots,0.905,0.4829999923706055,0.026904825121164322,Amadou Onana,h,9667,FromCorner,2021,Head,18044,Lille,Paris Saint Germain,1,5,2022-02-06 19:45:00,Jonathan Bamba,Aerial
+456394,10,SavedShot,0.8230000305175781,0.524000015258789,0.019414233043789864,Amadou Onana,h,9667,OpenPlay,2021,RightFoot,18044,Lille,Paris Saint Germain,1,5,2022-02-06 19:45:00,,Aerial
+456397,21,SavedShot,0.8969999694824219,0.5129999923706055,0.061784107238054276,Sven Botman,h,8635,FromCorner,2021,Head,18044,Lille,Paris Saint Germain,1,5,2022-02-06 19:45:00,Jonathan Bamba,Cross
+456398,27,Goal,0.9109999847412109,0.48400001525878905,0.11058621108531952,Sven Botman,h,8635,FromCorner,2021,LeftFoot,18044,Lille,Paris Saint Germain,1,5,2022-02-06 19:45:00,Hatem Ben Arfa,Pass
+456408,59,SavedShot,0.87,0.740999984741211,0.028320301324129105,Jonathan Bamba,h,3749,OpenPlay,2021,RightFoot,18044,Lille,Paris Saint Germain,1,5,2022-02-06 19:45:00,Amadou Onana,Pass
+456412,74,BlockedShot,0.970999984741211,0.525,0.15795005857944489,Gabriel Gudmundsson,h,9944,OpenPlay,2021,LeftFoot,18044,Lille,Paris Saint Germain,1,5,2022-02-06 19:45:00,Jonathan Bamba,Pass
+456413,77,SavedShot,0.8,0.6,0.04563320055603981,Gabriel Gudmundsson,h,9944,OpenPlay,2021,LeftFoot,18044,Lille,Paris Saint Germain,1,5,2022-02-06 19:45:00,Amadou Onana,BallRecovery
+456416,83,MissedShots,0.9069999694824219,0.385,0.29148435592651367,Jonathan Bamba,h,3749,OpenPlay,2021,RightFoot,18044,Lille,Paris Saint Germain,1,5,2022-02-06 19:45:00,Angel Gomes,Pass
+456417,87,MissedShots,0.874000015258789,0.48400001525878905,0.05694279074668884,Angel Gomes,h,5598,OpenPlay,2021,RightFoot,18044,Lille,Paris Saint Germain,1,5,2022-02-06 19:45:00,Edon Zhegrova,Cross
+456390,2,MissedShots,0.879000015258789,0.665,0.05936649069190025,Nuno Mendes,a,9961,OpenPlay,2021,LeftFoot,18044,Lille,Paris Saint Germain,1,5,2022-02-06 19:45:00,Lionel Messi,Pass
+456393,9,Goal,0.975999984741211,0.5259999847412109,0.7688279151916504,Danilo Pereira,a,9060,OpenPlay,2021,RightFoot,18044,Lille,Paris Saint Germain,1,5,2022-02-06 19:45:00,,None
+456395,17,MissedShots,0.759000015258789,0.455,0.030732082203030586,Lionel Messi,a,2097,OpenPlay,2021,LeftFoot,18044,Lille,Paris Saint Germain,1,5,2022-02-06 19:45:00,Achraf Hakimi,Pass
+456396,19,MissedShots,0.7419999694824219,0.2539999961853027,0.014141987077891827,Ángel Di María,a,3553,OpenPlay,2021,LeftFoot,18044,Lille,Paris Saint Germain,1,5,2022-02-06 19:45:00,Kylian Mbappe-Lottin,Pass
+456399,30,MissedShots,0.88,0.32599998474121095,0.06397315859794617,Achraf Hakimi,a,5197,OpenPlay,2021,RightFoot,18044,Lille,Paris Saint Germain,1,5,2022-02-06 19:45:00,Lionel Messi,Pass
+456400,31,Goal,0.9780000305175781,0.5279999923706055,0.5671473145484924,Presnel Kimpembe,a,3599,FromCorner,2021,LeftFoot,18044,Lille,Paris Saint Germain,1,5,2022-02-06 19:45:00,Lionel Messi,Cross
+456401,36,MissedShots,0.8859999847412109,0.615,0.1338389664888382,Kylian Mbappe-Lottin,a,3423,OpenPlay,2021,RightFoot,18044,Lille,Paris Saint Germain,1,5,2022-02-06 19:45:00,Lionel Messi,Pass
+456402,37,Goal,0.8909999847412109,0.45799999237060546,0.3825295567512512,Lionel Messi,a,2097,OpenPlay,2021,LeftFoot,18044,Lille,Paris Saint Germain,1,5,2022-02-06 19:45:00,,TakeOn
+456403,44,ShotOnPost,0.7719999694824219,0.38599998474121094,0.07447680830955505,Lionel Messi,a,2097,DirectFreekick,2021,LeftFoot,18044,Lille,Paris Saint Germain,1,5,2022-02-06 19:45:00,,Standard
+456404,48,MissedShots,0.8680000305175781,0.5929999923706055,0.06149118393659592,Kylian Mbappe-Lottin,a,3423,FromCorner,2021,RightFoot,18044,Lille,Paris Saint Germain,1,5,2022-02-06 19:45:00,,None
+456405,49,MissedShots,0.9390000152587891,0.649000015258789,0.13510964810848236,Kylian Mbappe-Lottin,a,3423,OpenPlay,2021,LeftFoot,18044,Lille,Paris Saint Germain,1,5,2022-02-06 19:45:00,Lionel Messi,Throughball
+456406,50,SavedShot,0.9,0.47299999237060547,0.14470967650413513,Lionel Messi,a,2097,OpenPlay,2021,LeftFoot,18044,Lille,Paris Saint Germain,1,5,2022-02-06 19:45:00,Julian Draxler,Pass
+456407,50,Goal,0.7580000305175781,0.36200000762939455,0.028039326891303062,Danilo Pereira,a,9060,OpenPlay,2021,RightFoot,18044,Lille,Paris Saint Germain,1,5,2022-02-06 19:45:00,Leandro Paredes,Pass
+456409,61,MissedShots,0.7480000305175781,0.49400001525878906,0.024346347898244858,Leandro Paredes,a,1248,OpenPlay,2021,RightFoot,18044,Lille,Paris Saint Germain,1,5,2022-02-06 19:45:00,Lionel Messi,Pass
+456410,66,Goal,0.79,0.7290000152587891,0.034397728741168976,Kylian Mbappe-Lottin,a,3423,OpenPlay,2021,RightFoot,18044,Lille,Paris Saint Germain,1,5,2022-02-06 19:45:00,Marco Verratti,Pass
+456411,70,BlockedShot,0.7530000305175781,0.645,0.018514230847358704,Marco Verratti,a,3552,OpenPlay,2021,RightFoot,18044,Lille,Paris Saint Germain,1,5,2022-02-06 19:45:00,Kylian Mbappe-Lottin,Pass
+456414,79,MissedShots,0.914000015258789,0.46599998474121096,0.4377490282058716,Marquinhos,a,3297,OpenPlay,2021,RightFoot,18044,Lille,Paris Saint Germain,1,5,2022-02-06 19:45:00,Nuno Mendes,Cross
+456415,83,SavedShot,0.7830000305175782,0.2929999923706055,0.05870947986841202,Lionel Messi,a,2097,DirectFreekick,2021,LeftFoot,18044,Lille,Paris Saint Germain,1,5,2022-02-06 19:45:00,,Standard

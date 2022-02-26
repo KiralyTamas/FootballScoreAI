@@ -1,0 +1,26 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+456803,6,BlockedShot,0.9,0.6530000305175782,0.531644344329834,Cristiano Ronaldo,h,2371,OpenPlay,2021,LeftFoot,16621,Manchester United,Southampton,1,1,2022-02-12 12:30:00,Jadon Sancho,TakeOn
+456805,8,SavedShot,0.9290000152587891,0.5979999923706054,0.4746659994125366,Jadon Sancho,h,6345,OpenPlay,2021,RightFoot,16621,Manchester United,Southampton,1,1,2022-02-12 12:30:00,Luke Shaw,Pass
+456806,20,Goal,0.9819999694824219,0.5379999923706055,0.902725338935852,Jadon Sancho,h,6345,OpenPlay,2021,RightFoot,16621,Manchester United,Southampton,1,1,2022-02-12 12:30:00,Marcus Rashford,Pass
+456807,26,SavedShot,0.904000015258789,0.34599998474121096,0.06523842364549637,Paul Pogba,h,1740,SetPiece,2021,RightFoot,16621,Manchester United,Southampton,1,1,2022-02-12 12:30:00,Bruno Fernandes,Chipped
+456811,40,BlockedShot,0.8,0.4879999923706055,0.06302126497030258,Scott McTominay,h,5560,OpenPlay,2021,RightFoot,16621,Manchester United,Southampton,1,1,2022-02-12 12:30:00,Paul Pogba,Pass
+456817,56,BlockedShot,0.9059999847412109,0.4570000076293945,0.09721443057060242,Harry Maguire,h,1687,SetPiece,2021,Head,16621,Manchester United,Southampton,1,1,2022-02-12 12:30:00,Luke Shaw,Cross
+456818,56,SavedShot,0.9259999847412109,0.4779999923706055,0.5624862313270569,Harry Maguire,h,1687,SetPiece,2021,RightFoot,16621,Manchester United,Southampton,1,1,2022-02-12 12:30:00,Cristiano Ronaldo,Rebound
+456819,60,SavedShot,0.9,0.6580000305175782,0.06136953830718994,Cristiano Ronaldo,h,2371,OpenPlay,2021,LeftFoot,16621,Manchester United,Southampton,1,1,2022-02-12 12:30:00,,None
+456820,60,SavedShot,0.935,0.3240000152587891,0.058453433215618134,Diogo Dalot,h,7281,OpenPlay,2021,RightFoot,16621,Manchester United,Southampton,1,1,2022-02-12 12:30:00,,None
+456821,60,MissedShots,0.93,0.5670000076293945,0.11021371930837631,Paul Pogba,h,1740,FromCorner,2021,RightFoot,16621,Manchester United,Southampton,1,1,2022-02-12 12:30:00,Luke Shaw,Chipped
+456824,79,MissedShots,0.84,0.3240000152587891,0.04378438740968704,Marcus Rashford,h,556,OpenPlay,2021,RightFoot,16621,Manchester United,Southampton,1,1,2022-02-12 12:30:00,Bruno Fernandes,Chipped
+456826,92,SavedShot,0.899000015258789,0.4470000076293945,0.0759359821677208,Harry Maguire,h,1687,SetPiece,2021,Head,16621,Manchester United,Southampton,1,1,2022-02-12 12:30:00,Luke Shaw,Cross
+456802,5,MissedShots,0.6969999694824218,0.5070000076293946,0.013723152689635754,Che Adams,a,7700,OpenPlay,2021,RightFoot,16621,Manchester United,Southampton,1,1,2022-02-12 12:30:00,Mohamed Elyounoussi,Pass
+456804,8,BlockedShot,0.8569999694824219,0.4590000152587891,0.0826612040400505,James Ward-Prowse,a,843,OpenPlay,2021,RightFoot,16621,Manchester United,Southampton,1,1,2022-02-12 12:30:00,Che Adams,BallTouch
+456808,33,MissedShots,0.8159999847412109,0.33599998474121096,0.028225841000676155,Stuart Armstrong,a,6893,OpenPlay,2021,LeftFoot,16621,Manchester United,Southampton,1,1,2022-02-12 12:30:00,Oriol Romeu,Pass
+456809,38,MissedShots,0.7190000152587891,0.5359999847412109,0.012731685303151608,Oriol Romeu,a,842,FromCorner,2021,RightFoot,16621,Manchester United,Southampton,1,1,2022-02-12 12:30:00,,Aerial
+456810,40,SavedShot,0.9119999694824219,0.54,0.08875198662281036,Stuart Armstrong,a,6893,OpenPlay,2021,RightFoot,16621,Manchester United,Southampton,1,1,2022-02-12 12:30:00,,None
+456812,42,SavedShot,0.8530000305175781,0.5690000152587891,0.09888619929552078,Romain Perraud,a,6500,OpenPlay,2021,RightFoot,16621,Manchester United,Southampton,1,1,2022-02-12 12:30:00,Mohamed Elyounoussi,TakeOn
+456813,43,MissedShots,0.7240000152587891,0.6880000305175781,0.014708020724356174,Che Adams,a,7700,OpenPlay,2021,RightFoot,16621,Manchester United,Southampton,1,1,2022-02-12 12:30:00,Romain Perraud,Pass
+456814,47,Goal,0.904000015258789,0.6880000305175781,0.10044626891613007,Che Adams,a,7700,OpenPlay,2021,RightFoot,16621,Manchester United,Southampton,1,1,2022-02-12 12:30:00,Mohamed Elyounoussi,Throughball
+456815,51,MissedShots,0.815,0.509000015258789,0.06581048667430878,Stuart Armstrong,a,6893,OpenPlay,2021,LeftFoot,16621,Manchester United,Southampton,1,1,2022-02-12 12:30:00,Kyle Walker-Peters,Pass
+456816,53,SavedShot,0.7780000305175782,0.40900001525878904,0.03028145618736744,Armando Broja,a,8384,OpenPlay,2021,RightFoot,16621,Manchester United,Southampton,1,1,2022-02-12 12:30:00,James Ward-Prowse,BallRecovery
+456822,64,MissedShots,0.89,0.31,0.05778051167726517,Stuart Armstrong,a,6893,OpenPlay,2021,RightFoot,16621,Manchester United,Southampton,1,1,2022-02-12 12:30:00,Oriol Romeu,Pass
+456823,68,BlockedShot,0.785,0.49900001525878906,0.03963310271501541,Armando Broja,a,8384,OpenPlay,2021,LeftFoot,16621,Manchester United,Southampton,1,1,2022-02-12 12:30:00,Mohamed Elyounoussi,BallRecovery
+456825,82,BlockedShot,0.875999984741211,0.28899999618530275,0.0437459796667099,Kyle Walker-Peters,a,885,OpenPlay,2021,RightFoot,16621,Manchester United,Southampton,1,1,2022-02-12 12:30:00,Stuart Armstrong,Pass

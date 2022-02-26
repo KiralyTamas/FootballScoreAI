@@ -1,0 +1,23 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+456473,2,Goal,0.8209999847412109,0.7369999694824219,0.06613907963037491,Simone Verdi,h,1445,DirectFreekick,2021,RightFoot,16992,Salernitana,Spezia,2,2,2022-02-07 19:45:00,,Standard
+456476,15,Goal,0.7340000152587891,0.6530000305175782,0.04349670559167862,Simone Verdi,h,1445,DirectFreekick,2021,RightFoot,16992,Salernitana,Spezia,2,2,2022-02-07 19:45:00,,Standard
+456483,46,SavedShot,0.764000015258789,0.485,0.028356973081827164,Lys Mousset,h,1748,OpenPlay,2021,RightFoot,16992,Salernitana,Spezia,2,2,2022-02-07 19:45:00,,BallTouch
+456485,54,MissedShots,0.7519999694824219,0.3629999923706055,0.01760672964155674,Franck Ribéry,h,329,OpenPlay,2021,RightFoot,16992,Salernitana,Spezia,2,2,2022-02-07 19:45:00,Grigoris Kastanos,Pass
+456487,59,SavedShot,0.710999984741211,0.44,0.012884842231869698,Ivan Radovanovic,h,1341,OpenPlay,2021,RightFoot,16992,Salernitana,Spezia,2,2,2022-02-07 19:45:00,Milan Djuric,Pass
+456488,61,BlockedShot,0.8480000305175781,0.34,0.04402812570333481,Simone Verdi,h,1445,OpenPlay,2021,LeftFoot,16992,Salernitana,Spezia,2,2,2022-02-07 19:45:00,Franck Ribéry,TakeOn
+456489,63,BlockedShot,0.8730000305175781,0.6580000305175782,0.06599084287881851,Grigoris Kastanos,h,4951,OpenPlay,2021,RightFoot,16992,Salernitana,Spezia,2,2,2022-02-07 19:45:00,Simone Verdi,Pass
+456493,89,BlockedShot,0.7780000305175782,0.35900001525878905,0.022058961912989616,Ivan Radovanovic,h,1341,OpenPlay,2021,LeftFoot,16992,Salernitana,Spezia,2,2,2022-02-07 19:45:00,Diego Perotti,Pass
+456494,89,SavedShot,0.9030000305175782,0.43099998474121093,0.11923698335886002,Milan Djuric,h,3856,OpenPlay,2021,LeftFoot,16992,Salernitana,Spezia,2,2,2022-02-07 19:45:00,Ivan Radovanovic,Pass
+456474,6,BlockedShot,0.759000015258789,0.54,0.07143200188875198,Daniele Verde,a,2044,DirectFreekick,2021,LeftFoot,16992,Salernitana,Spezia,2,2,2022-02-07 19:45:00,,Standard
+456475,11,Goal,0.885,0.5,0.7612988352775574,Rey Manaj,a,1570,Penalty,2021,RightFoot,16992,Salernitana,Spezia,2,2,2022-02-07 19:45:00,,Standard
+456477,19,MissedShots,0.785,0.5570000076293945,0.02362053468823433,Giulio Maggiore,a,8944,FromCorner,2021,RightFoot,16992,Salernitana,Spezia,2,2,2022-02-07 19:45:00,,None
+456478,23,BlockedShot,0.730999984741211,0.2989999961853027,0.011888776905834675,Daniele Verde,a,2044,OpenPlay,2021,LeftFoot,16992,Salernitana,Spezia,2,2,2022-02-07 19:45:00,,None
+456479,24,BlockedShot,0.8390000152587891,0.31799999237060544,0.04072103649377823,Rey Manaj,a,1570,OpenPlay,2021,RightFoot,16992,Salernitana,Spezia,2,2,2022-02-07 19:45:00,Daniele Verde,Pass
+456480,25,BlockedShot,0.9740000152587891,0.415,0.09065946191549301,Rey Manaj,a,1570,SetPiece,2021,RightFoot,16992,Salernitana,Spezia,2,2,2022-02-07 19:45:00,Daniele Verde,Cross
+456481,29,Goal,0.885,0.5,0.7612988352775574,Daniele Verde,a,2044,Penalty,2021,LeftFoot,16992,Salernitana,Spezia,2,2,2022-02-07 19:45:00,,Standard
+456482,39,BlockedShot,0.9259999847412109,0.6719999694824219,0.06186031550168991,Emmanuel Gyasi,a,8913,SetPiece,2021,LeftFoot,16992,Salernitana,Spezia,2,2,2022-02-07 19:45:00,,BallTouch
+456484,49,BlockedShot,0.7609999847412109,0.32,0.01972910575568676,Kelvin Adou,a,3785,OpenPlay,2021,RightFoot,16992,Salernitana,Spezia,2,2,2022-02-07 19:45:00,Jacopo Sala,Pass
+456486,57,BlockedShot,0.7290000152587891,0.625,0.013715439476072788,Jakub Kiwior,a,10012,OpenPlay,2021,LeftFoot,16992,Salernitana,Spezia,2,2,2022-02-07 19:45:00,Daniele Verde,Pass
+456490,69,MissedShots,0.7609999847412109,0.6179999923706054,0.018673593178391457,Rey Manaj,a,1570,OpenPlay,2021,RightFoot,16992,Salernitana,Spezia,2,2,2022-02-07 19:45:00,,None
+456491,71,MissedShots,0.89,0.3060000038146973,0.056706931442022324,Emmanuel Gyasi,a,8913,OpenPlay,2021,RightFoot,16992,Salernitana,Spezia,2,2,2022-02-07 19:45:00,Kevin Agudelo,Pass
+456492,74,MissedShots,0.8109999847412109,0.720999984741211,0.06671352684497833,Rey Manaj,a,1570,DirectFreekick,2021,RightFoot,16992,Salernitana,Spezia,2,2,2022-02-07 19:45:00,,Standard

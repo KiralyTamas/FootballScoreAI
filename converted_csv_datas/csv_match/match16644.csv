@@ -1,0 +1,36 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+459381,14,SavedShot,0.845,0.3770000076293945,0.059468191117048264,Armando Broja,h,8384,OpenPlay,2021,LeftFoot,16644,Southampton,Norwich,2,0,2022-02-25 20:00:00,,BallRecovery
+459382,19,BlockedShot,0.77,0.535,0.026281598955392838,Stuart Armstrong,h,6893,FromCorner,2021,LeftFoot,16644,Southampton,Norwich,2,0,2022-02-25 20:00:00,,TakeOn
+459383,20,MissedShots,0.7780000305175782,0.5720000076293945,0.031851429492235184,James Ward-Prowse,h,843,OpenPlay,2021,RightFoot,16644,Southampton,Norwich,2,0,2022-02-25 20:00:00,,None
+459384,22,SavedShot,0.7830000305175782,0.654000015258789,0.0222909078001976,Kyle Walker-Peters,h,885,OpenPlay,2021,RightFoot,16644,Southampton,Norwich,2,0,2022-02-25 20:00:00,,None
+459386,29,MissedShots,0.795,0.3659999847412109,0.02123907580971718,Stuart Armstrong,h,6893,FromCorner,2021,RightFoot,16644,Southampton,Norwich,2,0,2022-02-25 20:00:00,,None
+459387,29,SavedShot,0.8930000305175781,0.505,0.10977382212877274,Jan Bednarek,h,6042,FromCorner,2021,RightFoot,16644,Southampton,Norwich,2,0,2022-02-25 20:00:00,Stuart Armstrong,Rebound
+459388,30,BlockedShot,0.845,0.6759999847412109,0.03734290227293968,Che Adams,h,7700,OpenPlay,2021,RightFoot,16644,Southampton,Norwich,2,0,2022-02-25 20:00:00,Kyle Walker-Peters,Pass
+459389,32,MissedShots,0.909000015258789,0.53,0.18907393515110016,Armando Broja,h,8384,OpenPlay,2021,OtherBodyPart,16644,Southampton,Norwich,2,0,2022-02-25 20:00:00,James Ward-Prowse,Cross
+459390,32,SavedShot,0.925,0.5729999923706055,0.4210163354873657,Mohamed Elyounoussi,h,6894,OpenPlay,2021,RightFoot,16644,Southampton,Norwich,2,0,2022-02-25 20:00:00,Armando Broja,Rebound
+459391,33,MissedShots,0.9290000152587891,0.445,0.2865171730518341,Che Adams,h,7700,FromCorner,2021,Head,16644,Southampton,Norwich,2,0,2022-02-25 20:00:00,James Ward-Prowse,Cross
+459392,35,Goal,0.9819999694824219,0.5220000076293946,0.8631622791290283,Che Adams,h,7700,OpenPlay,2021,RightFoot,16644,Southampton,Norwich,2,0,2022-02-25 20:00:00,,None
+459394,44,MissedShots,0.9630000305175781,0.6719999694824219,0.08365006744861603,Armando Broja,h,8384,OpenPlay,2021,LeftFoot,16644,Southampton,Norwich,2,0,2022-02-25 20:00:00,Kyle Walker-Peters,Pass
+459395,46,MissedShots,0.8859999847412109,0.66,0.0883929580450058,Mohamed Elyounoussi,h,6894,OpenPlay,2021,LeftFoot,16644,Southampton,Norwich,2,0,2022-02-25 20:00:00,Stuart Armstrong,Pass
+459396,47,BlockedShot,0.85,0.685,0.056263696402311325,Stuart Armstrong,h,6893,OpenPlay,2021,LeftFoot,16644,Southampton,Norwich,2,0,2022-02-25 20:00:00,Oriol Romeu,Pass
+459397,48,BlockedShot,0.9690000152587891,0.4520000076293945,0.10148525983095169,Che Adams,h,7700,FromCorner,2021,Head,16644,Southampton,Norwich,2,0,2022-02-25 20:00:00,Jan Bednarek,Aerial
+459398,49,MissedShots,0.93,0.4229999923706055,0.03291695564985275,Jan Bednarek,h,6042,FromCorner,2021,Head,16644,Southampton,Norwich,2,0,2022-02-25 20:00:00,James Ward-Prowse,Foul
+459400,53,MissedShots,0.7980000305175782,0.3320000076293945,0.029401840642094612,Stuart Armstrong,h,6893,OpenPlay,2021,LeftFoot,16644,Southampton,Norwich,2,0,2022-02-25 20:00:00,Armando Broja,Pass
+459401,56,MissedShots,0.93,0.45799999237060546,0.1256578415632248,Jan Bednarek,h,6042,SetPiece,2021,Head,16644,Southampton,Norwich,2,0,2022-02-25 20:00:00,Stuart Armstrong,Cross
+459402,66,SavedShot,0.8140000152587891,0.445,0.0715937539935112,Stuart Armstrong,h,6893,OpenPlay,2021,LeftFoot,16644,Southampton,Norwich,2,0,2022-02-25 20:00:00,Valentino Livramento,Pass
+459403,68,BlockedShot,0.855,0.5690000152587891,0.0815504938364029,Stuart Armstrong,h,6893,OpenPlay,2021,RightFoot,16644,Southampton,Norwich,2,0,2022-02-25 20:00:00,Mohamed Elyounoussi,Pass
+459404,68,SavedShot,0.8969999694824219,0.4909999847412109,0.11693160235881805,Kyle Walker-Peters,h,885,OpenPlay,2021,RightFoot,16644,Southampton,Norwich,2,0,2022-02-25 20:00:00,,None
+459405,69,MissedShots,0.7930000305175782,0.5770000076293945,0.05060718581080437,Stuart Armstrong,h,6893,OpenPlay,2021,RightFoot,16644,Southampton,Norwich,2,0,2022-02-25 20:00:00,,None
+459409,78,BlockedShot,0.9019999694824219,0.5829999923706055,0.03645344451069832,Mohammed Salisu,h,6923,FromCorner,2021,RightFoot,16644,Southampton,Norwich,2,0,2022-02-25 20:00:00,,Aerial
+459410,81,MissedShots,0.865,0.6930000305175781,0.057733550667762756,Kyle Walker-Peters,h,885,OpenPlay,2021,RightFoot,16644,Southampton,Norwich,2,0,2022-02-25 20:00:00,,None
+459411,83,MissedShots,0.715999984741211,0.4279999923706055,0.04256070777773857,James Ward-Prowse,h,843,DirectFreekick,2021,RightFoot,16644,Southampton,Norwich,2,0,2022-02-25 20:00:00,,Standard
+459412,86,SavedShot,0.8919999694824219,0.6430000305175781,0.09622945636510849,Mohamed Elyounoussi,h,6894,OpenPlay,2021,LeftFoot,16644,Southampton,Norwich,2,0,2022-02-25 20:00:00,Stuart Armstrong,Pass
+459413,87,Goal,0.840999984741211,0.34400001525878904,0.03111962601542473,Oriol Romeu,h,842,FromCorner,2021,RightFoot,16644,Southampton,Norwich,2,0,2022-02-25 20:00:00,,None
+459379,9,BlockedShot,0.8230000305175781,0.49700000762939456,0.05609196051955223,Joshua Sargent,a,7295,OpenPlay,2021,RightFoot,16644,Southampton,Norwich,2,0,2022-02-25 20:00:00,Kenny McLean,None
+459380,10,BlockedShot,0.7919999694824219,0.40900001525878904,0.0256041307002306,Billy Gilmour,a,7988,OpenPlay,2021,LeftFoot,16644,Southampton,Norwich,2,0,2022-02-25 20:00:00,,Rebound
+459385,26,BlockedShot,0.7290000152587891,0.5790000152587891,0.01602238044142723,Mathias Normann,a,7470,OpenPlay,2021,RightFoot,16644,Southampton,Norwich,2,0,2022-02-25 20:00:00,Milot Rashica,Pass
+459393,40,MissedShots,0.8,0.625,0.03174230456352234,Mathias Normann,a,7470,OpenPlay,2021,LeftFoot,16644,Southampton,Norwich,2,0,2022-02-25 20:00:00,,None
+459399,52,MissedShots,0.855,0.544000015258789,0.08201108127832413,Kenny McLean,a,7693,OpenPlay,2021,LeftFoot,16644,Southampton,Norwich,2,0,2022-02-25 20:00:00,Teemu Pukki,Pass
+459406,72,SavedShot,0.904000015258789,0.34,0.016379904001951218,Grant Hanley,a,7690,SetPiece,2021,Head,16644,Southampton,Norwich,2,0,2022-02-25 20:00:00,Billy Gilmour,Cross
+459407,75,BlockedShot,0.93,0.34900001525878904,0.08593014627695084,Teemu Pukki,a,7696,OpenPlay,2021,RightFoot,16644,Southampton,Norwich,2,0,2022-02-25 20:00:00,,TakeOn
+459408,76,MissedShots,0.9259999847412109,0.524000015258789,0.11253149062395096,Grant Hanley,a,7690,FromCorner,2021,Head,16644,Southampton,Norwich,2,0,2022-02-25 20:00:00,Pierre Lees-Melou,Cross

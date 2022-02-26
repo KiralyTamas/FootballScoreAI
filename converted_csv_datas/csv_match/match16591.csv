@@ -1,0 +1,31 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+453214,0,MissedShots,0.7919999694824219,0.6379999923706055,0.020142050459980965,Jonjo Shelvey,h,769,SetPiece,2021,LeftFoot,16591,Newcastle United,Watford,1,1,2022-01-15 15:00:00,,None
+453218,10,BlockedShot,0.935,0.49700000762939456,0.1204884722828865,Joelinton,h,87,OpenPlay,2021,LeftFoot,16591,Newcastle United,Watford,1,1,2022-01-15 15:00:00,,None
+453221,18,MissedShots,0.9480000305175781,0.4329999923706055,0.37178948521614075,Joelinton,h,87,FromCorner,2021,RightFoot,16591,Newcastle United,Watford,1,1,2022-01-15 15:00:00,Ryan Fraser,Cross
+453222,21,MissedShots,0.9219999694824219,0.48200000762939454,0.06925350427627563,Chris Wood,h,4456,OpenPlay,2021,Head,16591,Newcastle United,Watford,1,1,2022-01-15 15:00:00,Ryan Fraser,Aerial
+453223,23,MissedShots,0.9530000305175781,0.51,0.09382554143667221,Chris Wood,h,4456,FromCorner,2021,Head,16591,Newcastle United,Watford,1,1,2022-01-15 15:00:00,Jamaal Lascelles,HeadPass
+453224,29,MissedShots,0.915,0.5120000076293946,0.056210942566394806,Fabian Schär,h,76,SetPiece,2021,Head,16591,Newcastle United,Watford,1,1,2022-01-15 15:00:00,Kieran Trippier,Aerial
+453226,38,MissedShots,0.799000015258789,0.5029999923706054,0.04258890822529793,Sean Longstaff,h,7078,OpenPlay,2021,LeftFoot,16591,Newcastle United,Watford,1,1,2022-01-15 15:00:00,,None
+453227,39,BlockedShot,0.9540000152587891,0.5790000152587891,0.10863257199525833,Chris Wood,h,4456,OpenPlay,2021,RightFoot,16591,Newcastle United,Watford,1,1,2022-01-15 15:00:00,Joelinton,CornerAwarded
+453228,40,BlockedShot,0.9169999694824219,0.42900001525878906,0.06101460009813309,Jamaal Lascelles,h,766,FromCorner,2021,Head,16591,Newcastle United,Watford,1,1,2022-01-15 15:00:00,Ryan Fraser,Cross
+453229,41,MissedShots,0.7930000305175782,0.2539999961853027,0.017560526728630066,Ryan Fraser,h,1683,OpenPlay,2021,LeftFoot,16591,Newcastle United,Watford,1,1,2022-01-15 15:00:00,Kieran Trippier,Pass
+453233,48,Goal,0.85,0.6409999847412109,0.06507010757923126,Allan Saint-Maximin,h,101,OpenPlay,2021,RightFoot,16591,Newcastle United,Watford,1,1,2022-01-15 15:00:00,,TakeOn
+453241,80,MissedShots,0.6990000152587891,0.6730000305175782,0.011969480663537979,Jonjo Shelvey,h,769,OpenPlay,2021,RightFoot,16591,Newcastle United,Watford,1,1,2022-01-15 15:00:00,Allan Saint-Maximin,Pass
+453215,7,BlockedShot,0.8180000305175781,0.685,0.08573455363512039,Emmanuel Dennis,a,9301,DirectFreekick,2021,RightFoot,16591,Newcastle United,Watford,1,1,2022-01-15 15:00:00,,Standard
+453216,7,MissedShots,0.9059999847412109,0.7140000152587891,0.03082231804728508,Emmanuel Dennis,a,9301,SetPiece,2021,LeftFoot,16591,Newcastle United,Watford,1,1,2022-01-15 15:00:00,,Rebound
+453217,7,MissedShots,0.784000015258789,0.24100000381469727,0.015736036002635956,Joshua King,a,465,OpenPlay,2021,RightFoot,16591,Newcastle United,Watford,1,1,2022-01-15 15:00:00,,BallRecovery
+453219,14,MissedShots,0.8969999694824219,0.6569999694824219,0.10314173251390457,Joshua King,a,465,OpenPlay,2021,LeftFoot,16591,Newcastle United,Watford,1,1,2022-01-15 15:00:00,João Pedro,Pass
+453220,16,BlockedShot,0.7519999694824219,0.6569999694824219,0.017659228295087814,Edo Kayembe,a,10290,FromCorner,2021,LeftFoot,16591,Newcastle United,Watford,1,1,2022-01-15 15:00:00,Craig Cathcart,Pass
+453225,32,BlockedShot,0.8719999694824219,0.6819999694824219,0.0384797528386116,João Pedro,a,8272,OpenPlay,2021,RightFoot,16591,Newcastle United,Watford,1,1,2022-01-15 15:00:00,Emmanuel Dennis,TakeOn
+453230,44,BlockedShot,0.7959999847412109,0.7880000305175782,0.016850415617227554,João Pedro,a,8272,OpenPlay,2021,RightFoot,16591,Newcastle United,Watford,1,1,2022-01-15 15:00:00,Edo Kayembe,Pass
+453231,46,BlockedShot,0.6769999694824219,0.325,0.027297139167785645,Juraj Kucka,a,1123,DirectFreekick,2021,RightFoot,16591,Newcastle United,Watford,1,1,2022-01-15 15:00:00,,Standard
+453232,46,SavedShot,0.9169999694824219,0.5359999847412109,0.053279414772987366,Samir,a,1142,SetPiece,2021,Head,16591,Newcastle United,Watford,1,1,2022-01-15 15:00:00,Jeremy Ngakia,Aerial
+453234,59,SavedShot,0.87,0.629000015258789,0.05687207728624344,João Pedro,a,8272,OpenPlay,2021,RightFoot,16591,Newcastle United,Watford,1,1,2022-01-15 15:00:00,Joshua King,Pass
+453235,60,SavedShot,0.925,0.6759999847412109,0.28137466311454773,Joshua King,a,465,OpenPlay,2021,RightFoot,16591,Newcastle United,Watford,1,1,2022-01-15 15:00:00,Edo Kayembe,Throughball
+453236,64,SavedShot,0.9130000305175782,0.524000015258789,0.10114719718694687,João Pedro,a,8272,OpenPlay,2021,Head,16591,Newcastle United,Watford,1,1,2022-01-15 15:00:00,Joshua King,Cross
+453237,66,MissedShots,0.879000015258789,0.45,0.5408953428268433,Moussa Sissoko,a,772,OpenPlay,2021,RightFoot,16591,Newcastle United,Watford,1,1,2022-01-15 15:00:00,Emmanuel Dennis,Pass
+453238,69,MissedShots,0.7780000305175782,0.5770000076293945,0.023838520050048828,Edo Kayembe,a,10290,FromCorner,2021,RightFoot,16591,Newcastle United,Watford,1,1,2022-01-15 15:00:00,Juraj Kucka,Pass
+453239,72,MissedShots,0.86,0.45799999237060546,0.012768365442752838,Joshua King,a,465,OpenPlay,2021,Head,16591,Newcastle United,Watford,1,1,2022-01-15 15:00:00,Hassane Kamara,Aerial
+453240,80,BlockedShot,0.774000015258789,0.40799999237060547,0.014780842699110508,Kiko Femenía,a,5043,FromCorner,2021,RightFoot,16591,Newcastle United,Watford,1,1,2022-01-15 15:00:00,,Aerial
+453242,87,Goal,0.905,0.51,0.03545919060707092,João Pedro,a,8272,OpenPlay,2021,Head,16591,Newcastle United,Watford,1,1,2022-01-15 15:00:00,Kiko Femenía,Aerial
+453243,90,BlockedShot,0.7909999847412109,0.6969999694824218,0.04273505508899689,João Pedro,a,8272,OpenPlay,2021,RightFoot,16591,Newcastle United,Watford,1,1,2022-01-15 15:00:00,Joshua King,Pass

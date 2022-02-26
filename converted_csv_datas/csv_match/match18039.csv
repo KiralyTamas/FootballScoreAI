@@ -1,0 +1,33 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+455260,2,MissedShots,0.875,0.39799999237060546,0.06265397369861603,Joris Chotard,h,7739,FromCorner,2021,LeftFoot,18039,Montpellier,Monaco,3,2,2022-01-23 16:05:00,,None
+455262,5,MissedShots,0.9019999694824219,0.6869999694824219,0.041015975177288055,Sepe Elye Wahi,h,9182,FromCorner,2021,RightFoot,18039,Montpellier,Monaco,3,2,2022-01-23 16:05:00,,None
+455263,10,MissedShots,0.75,0.4279999923706055,0.013865269720554352,Jordan Ferri,h,3275,SetPiece,2021,RightFoot,18039,Montpellier,Monaco,3,2,2022-01-23 16:05:00,,None
+455264,12,SavedShot,0.6830000305175781,0.8109999847412109,0.006496107671409845,Mihailo Ristic,h,5947,OpenPlay,2021,LeftFoot,18039,Montpellier,Monaco,3,2,2022-01-23 16:05:00,Joris Chotard,Chipped
+455265,12,BlockedShot,0.865999984741211,0.6509999847412109,0.04622595012187958,Stephy Mavididi,h,7484,OpenPlay,2021,RightFoot,18039,Montpellier,Monaco,3,2,2022-01-23 16:05:00,Arnaud Souquet,Chipped
+455266,12,Goal,0.9230000305175782,0.36700000762939455,0.3104095458984375,Sepe Elye Wahi,h,9182,OpenPlay,2021,RightFoot,18039,Montpellier,Monaco,3,2,2022-01-23 16:05:00,,Rebound
+455270,29,BlockedShot,0.879000015258789,0.620999984741211,0.1644323170185089,Stephy Mavididi,h,7484,OpenPlay,2021,RightFoot,18039,Montpellier,Monaco,3,2,2022-01-23 16:05:00,Mamadou Sakho,TakeOn
+455271,31,Goal,0.8069999694824219,0.5179999923706055,0.07150094211101532,Stephy Mavididi,h,7484,OpenPlay,2021,RightFoot,18039,Montpellier,Monaco,3,2,2022-01-23 16:05:00,Sepe Elye Wahi,Pass
+455277,57,SavedShot,0.955999984741211,0.47299999237060547,0.6071191430091858,Sepe Elye Wahi,h,9182,OpenPlay,2021,RightFoot,18039,Montpellier,Monaco,3,2,2022-01-23 16:05:00,Valère Germain,Cross
+455280,72,BlockedShot,0.76,0.779000015258789,0.036665063351392746,Florent Mollet,h,5677,DirectFreekick,2021,RightFoot,18039,Montpellier,Monaco,3,2,2022-01-23 16:05:00,,Standard
+455284,82,BlockedShot,0.87,0.515,0.08029168099164963,Valère Germain,h,3309,OpenPlay,2021,RightFoot,18039,Montpellier,Monaco,3,2,2022-01-23 16:05:00,Mihailo Ristic,Cross
+455287,87,SavedShot,0.755,0.33599998474121096,0.02309795841574669,Arnaud Souquet,h,5647,OpenPlay,2021,LeftFoot,18039,Montpellier,Monaco,3,2,2022-01-23 16:05:00,Nicolas Cozza,TakeOn
+455288,87,SavedShot,0.919000015258789,0.47400001525878904,0.4930548667907715,Florent Mollet,h,5677,OpenPlay,2021,RightFoot,18039,Montpellier,Monaco,3,2,2022-01-23 16:05:00,,Rebound
+455289,87,MissedShots,0.9019999694824219,0.46700000762939453,0.4176536202430725,Nicholas Gioacchini,h,9973,OpenPlay,2021,RightFoot,18039,Montpellier,Monaco,3,2,2022-01-23 16:05:00,,Rebound
+455290,90,Goal,0.8730000305175781,0.395,0.09127642214298248,Stephy Mavididi,h,7484,OpenPlay,2021,RightFoot,18039,Montpellier,Monaco,3,2,2022-01-23 16:05:00,Nicolas Cozza,Pass
+455261,4,SavedShot,0.795,0.6719999694824219,0.02501719444990158,Jean Lucas,a,7687,OpenPlay,2021,RightFoot,18039,Montpellier,Monaco,3,2,2022-01-23 16:05:00,Sofiane Diop,Pass
+455267,21,BlockedShot,0.935,0.874000015258789,0.049124423414468765,Sofiane Diop,a,6846,DirectFreekick,2021,RightFoot,18039,Montpellier,Monaco,3,2,2022-01-23 16:05:00,,Standard
+455268,23,MissedShots,0.7269999694824218,0.6370000076293946,0.011605773121118546,Jean Lucas,a,7687,OpenPlay,2021,RightFoot,18039,Montpellier,Monaco,3,2,2022-01-23 16:05:00,Aurelien Tchouameni,TakeOn
+455269,27,MissedShots,0.9159999847412109,0.6409999847412109,0.0708419606089592,Wissam Ben Yedder,a,3210,OpenPlay,2021,LeftFoot,18039,Montpellier,Monaco,3,2,2022-01-23 16:05:00,Jean Lucas,Chipped
+455272,33,Goal,0.9180000305175782,0.46,0.3923283517360687,Wissam Ben Yedder,a,3210,OpenPlay,2021,Head,18039,Montpellier,Monaco,3,2,2022-01-23 16:05:00,Aurelien Tchouameni,Throughball
+455273,35,SavedShot,0.754000015258789,0.4879999923706055,0.021207500249147415,Eliot Matazo,a,8644,OpenPlay,2021,LeftFoot,18039,Montpellier,Monaco,3,2,2022-01-23 16:05:00,,BallRecovery
+455274,36,MissedShots,0.9130000305175782,0.509000015258789,0.04239668697118759,Guillermo Maripán,a,6073,FromCorner,2021,Head,18039,Montpellier,Monaco,3,2,2022-01-23 16:05:00,Sofiane Diop,Aerial
+455275,45,MissedShots,0.8619999694824219,0.24200000762939453,0.02507367543876171,Gelson Martins,a,7012,OpenPlay,2021,RightFoot,18039,Montpellier,Monaco,3,2,2022-01-23 16:05:00,Ruben Aguilar,Pass
+455276,47,BlockedShot,0.9630000305175781,0.38299999237060545,0.03197891265153885,Aurelien Tchouameni,a,6560,FromCorner,2021,OtherBodyPart,18039,Montpellier,Monaco,3,2,2022-01-23 16:05:00,Caio Henrique,Cross
+455278,58,SavedShot,0.755,0.5509999847412109,0.02314506098628044,Sofiane Diop,a,6846,OpenPlay,2021,RightFoot,18039,Montpellier,Monaco,3,2,2022-01-23 16:05:00,Gelson Martins,Pass
+455279,60,BlockedShot,0.715999984741211,0.41400001525878904,0.01610114425420761,Aurelien Tchouameni,a,6560,OpenPlay,2021,RightFoot,18039,Montpellier,Monaco,3,2,2022-01-23 16:05:00,Gelson Martins,Pass
+455281,77,BlockedShot,0.789000015258789,0.74,0.0191000048071146,Caio Henrique,a,5177,OpenPlay,2021,LeftFoot,18039,Montpellier,Monaco,3,2,2022-01-23 16:05:00,Vanderson,Pass
+455282,79,MissedShots,0.904000015258789,0.44,0.08616823703050613,Wissam Ben Yedder,a,3210,OpenPlay,2021,LeftFoot,18039,Montpellier,Monaco,3,2,2022-01-23 16:05:00,Aurelien Tchouameni,Chipped
+455283,81,Goal,0.8869999694824219,0.3870000076293945,0.0643845722079277,Vanderson,a,10271,OpenPlay,2021,LeftFoot,18039,Montpellier,Monaco,3,2,2022-01-23 16:05:00,Ruben Aguilar,BallTouch
+455285,82,SavedShot,0.6819999694824219,0.6890000152587891,0.009567700326442719,Aurelien Tchouameni,a,6560,OpenPlay,2021,RightFoot,18039,Montpellier,Monaco,3,2,2022-01-23 16:05:00,Sofiane Diop,Pass
+455286,85,SavedShot,0.895,0.68,0.05663027986884117,Wissam Ben Yedder,a,3210,OpenPlay,2021,RightFoot,18039,Montpellier,Monaco,3,2,2022-01-23 16:05:00,Caio Henrique,Pass
+455291,93,MissedShots,0.9640000152587891,0.6029999923706054,0.2977849841117859,Guillermo Maripán,a,6073,SetPiece,2021,RightFoot,18039,Montpellier,Monaco,3,2,2022-01-23 16:05:00,Sofiane Diop,Chipped
