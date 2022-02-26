@@ -1,0 +1,26 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+457951,1,MissedShots,0.84,0.42700000762939455,0.06175995618104935,Anton Stach,h,9910,OpenPlay,2021,RightFoot,17718,Mainz 05,Bayer Leverkusen,3,2,2022-02-18 19:30:00,,None
+457952,2,MissedShots,0.76,0.6480000305175782,0.02216212823987007,Jae-Sung Lee,h,9783,OpenPlay,2021,LeftFoot,17718,Mainz 05,Bayer Leverkusen,3,2,2022-02-18 19:30:00,Anton Stach,Pass
+457954,10,MissedShots,0.7759999847412109,0.38599998474121094,0.025947097688913345,Dominik Kohr,h,269,OpenPlay,2021,RightFoot,17718,Mainz 05,Bayer Leverkusen,3,2,2022-02-18 19:30:00,Silvan Widmer,Pass
+457955,11,BlockedShot,0.9219999694824219,0.37900001525878907,0.08033354580402374,Jonathan Burkardt,h,7108,OpenPlay,2021,RightFoot,17718,Mainz 05,Bayer Leverkusen,3,2,2022-02-18 19:30:00,,None
+457956,12,SavedShot,0.79,0.38599998474121094,0.024974413216114044,Anton Stach,h,9910,OpenPlay,2021,LeftFoot,17718,Mainz 05,Bayer Leverkusen,3,2,2022-02-18 19:30:00,,Rebound
+457958,15,SavedShot,0.9290000152587891,0.3729999923706055,0.07254571467638016,Silvan Widmer,h,1139,OpenPlay,2021,RightFoot,17718,Mainz 05,Bayer Leverkusen,3,2,2022-02-18 19:30:00,Karim Onisiwo,Chipped
+457959,29,MissedShots,0.86,0.4279999923706055,0.09354771673679352,Silvan Widmer,h,1139,OpenPlay,2021,RightFoot,17718,Mainz 05,Bayer Leverkusen,3,2,2022-02-18 19:30:00,Jae-Sung Lee,Pass
+457960,30,MissedShots,0.835999984741211,0.7130000305175781,0.012972858734428883,Jonathan Burkardt,h,7108,SetPiece,2021,LeftFoot,17718,Mainz 05,Bayer Leverkusen,3,2,2022-02-18 19:30:00,,Aerial
+457962,41,MissedShots,0.9530000305175781,0.305,0.03153124824166298,Karim Onisiwo,h,2631,OpenPlay,2021,RightFoot,17718,Mainz 05,Bayer Leverkusen,3,2,2022-02-18 19:30:00,Aarón Martín,Cross
+457963,47,BlockedShot,0.93,0.509000015258789,0.10283415764570236,Silvan Widmer,h,1139,OpenPlay,2021,RightFoot,17718,Mainz 05,Bayer Leverkusen,3,2,2022-02-18 19:30:00,Karim Onisiwo,Chipped
+457964,48,BlockedShot,0.7019999694824218,0.534000015258789,0.013077362440526485,Anton Stach,h,9910,FromCorner,2021,RightFoot,17718,Mainz 05,Bayer Leverkusen,3,2,2022-02-18 19:30:00,,None
+457965,48,BlockedShot,0.79,0.6830000305175781,0.026909103617072105,Jonathan Burkardt,h,7108,OpenPlay,2021,RightFoot,17718,Mainz 05,Bayer Leverkusen,3,2,2022-02-18 19:30:00,Aarón Martín,Pass
+457967,53,MissedShots,0.759000015258789,0.53,0.022502517327666283,Dominik Kohr,h,269,OpenPlay,2021,RightFoot,17718,Mainz 05,Bayer Leverkusen,3,2,2022-02-18 19:30:00,,BallRecovery
+457968,56,Goal,0.759000015258789,0.585,0.07059381157159805,Aarón Martín,h,5133,DirectFreekick,2021,LeftFoot,17718,Mainz 05,Bayer Leverkusen,3,2,2022-02-18 19:30:00,,Standard
+457969,63,MissedShots,0.915,0.49700000762939456,0.09806651622056961,Alexander Hack,h,52,FromCorner,2021,Head,17718,Mainz 05,Bayer Leverkusen,3,2,2022-02-18 19:30:00,Aarón Martín,Cross
+457973,82,MissedShots,0.925,0.46900001525878904,0.1105356365442276,Alexander Hack,h,52,FromCorner,2021,Head,17718,Mainz 05,Bayer Leverkusen,3,2,2022-02-18 19:30:00,Kevin Stöger,Cross
+457974,83,Goal,0.840999984741211,0.6190000152587891,0.04829325154423714,Jean-Paul Boëtius,h,7107,OpenPlay,2021,RightFoot,17718,Mainz 05,Bayer Leverkusen,3,2,2022-02-18 19:30:00,,None
+457975,87,Goal,0.9080000305175782,0.580999984741211,0.08964275568723679,Marcus Ingvartsen,h,7883,OpenPlay,2021,LeftFoot,17718,Mainz 05,Bayer Leverkusen,3,2,2022-02-18 19:30:00,,None
+457953,5,BlockedShot,0.8530000305175781,0.7040000152587891,0.036590076982975006,Kerem Demirbay,a,5273,OpenPlay,2021,LeftFoot,17718,Mainz 05,Bayer Leverkusen,3,2,2022-02-18 19:30:00,Florian Wirtz,Pass
+457957,15,SavedShot,0.860999984741211,0.620999984741211,0.07556819170713425,Robert Andrich,a,7877,OpenPlay,2021,RightFoot,17718,Mainz 05,Bayer Leverkusen,3,2,2022-02-18 19:30:00,Moussa Diaby,Pass
+457961,34,Goal,0.700999984741211,0.5220000076293946,0.018137628212571144,Patrik Schick,a,1236,OpenPlay,2021,LeftFoot,17718,Mainz 05,Bayer Leverkusen,3,2,2022-02-18 19:30:00,Kerem Demirbay,Pass
+457966,50,SavedShot,0.915,0.49700000762939456,0.14021292328834534,Lucas Alario,a,6338,OpenPlay,2021,Head,17718,Mainz 05,Bayer Leverkusen,3,2,2022-02-18 19:30:00,Jeremie Frimpong,Cross
+457970,68,SavedShot,0.905,0.4759999847412109,0.09483712166547775,Lucas Alario,a,6338,OpenPlay,2021,RightFoot,17718,Mainz 05,Bayer Leverkusen,3,2,2022-02-18 19:30:00,Kerem Demirbay,None
+457971,73,Goal,0.875,0.4420000076293945,0.11184575408697128,Lucas Alario,a,6338,OpenPlay,2021,RightFoot,17718,Mainz 05,Bayer Leverkusen,3,2,2022-02-18 19:30:00,Moussa Diaby,Pass
+457972,80,SavedShot,0.8869999694824219,0.6320000076293946,0.35055720806121826,Lucas Alario,a,6338,OpenPlay,2021,LeftFoot,17718,Mainz 05,Bayer Leverkusen,3,2,2022-02-18 19:30:00,Piero Hincapié,Throughball

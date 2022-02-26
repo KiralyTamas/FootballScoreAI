@@ -1,0 +1,28 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+458461,7,MissedShots,0.9069999694824219,0.41200000762939454,0.02951141633093357,Phil Foden,h,6055,OpenPlay,2021,Head,16632,Manchester City,Tottenham,2,3,2022-02-19 17:30:00,,Aerial
+458462,14,BlockedShot,0.76,0.63,0.0161924809217453,João Cancelo,h,2379,FromCorner,2021,RightFoot,16632,Manchester City,Tottenham,2,3,2022-02-19 17:30:00,,None
+458463,14,MissedShots,0.8590000152587891,0.44599998474121094,0.06374700367450714,Bernardo Silva,h,3635,FromCorner,2021,LeftFoot,16632,Manchester City,Tottenham,2,3,2022-02-19 17:30:00,,None
+458464,16,MissedShots,0.9030000305175782,0.700999984741211,0.03722991421818733,João Cancelo,h,2379,OpenPlay,2021,RightFoot,16632,Manchester City,Tottenham,2,3,2022-02-19 17:30:00,Aymeric Laporte,TakeOn
+458465,20,ShotOnPost,0.879000015258789,0.6179999923706054,0.060592129826545715,Ilkay Gündogan,h,314,OpenPlay,2021,RightFoot,16632,Manchester City,Tottenham,2,3,2022-02-19 17:30:00,,Dispossessed
+458466,21,MissedShots,0.784000015258789,0.5070000076293946,0.033522266894578934,João Cancelo,h,2379,FromCorner,2021,RightFoot,16632,Manchester City,Tottenham,2,3,2022-02-19 17:30:00,Ilkay Gündogan,Pass
+458467,23,BlockedShot,0.865999984741211,0.5309999847412109,0.09580313414335251,Phil Foden,h,6055,OpenPlay,2021,LeftFoot,16632,Manchester City,Tottenham,2,3,2022-02-19 17:30:00,Raheem Sterling,Pass
+458469,30,MissedShots,0.905,0.5,0.1010514348745346,Ilkay Gündogan,h,314,OpenPlay,2021,RightFoot,16632,Manchester City,Tottenham,2,3,2022-02-19 17:30:00,Rodri,Cross
+458470,32,Goal,0.9059999847412109,0.5429999923706055,0.4521262049674988,Ilkay Gündogan,h,314,OpenPlay,2021,LeftFoot,16632,Manchester City,Tottenham,2,3,2022-02-19 17:30:00,,None
+458471,36,MissedShots,0.795,0.585,0.036973945796489716,João Cancelo,h,2379,OpenPlay,2021,RightFoot,16632,Manchester City,Tottenham,2,3,2022-02-19 17:30:00,,None
+458472,41,BlockedShot,0.8680000305175781,0.5870000076293945,0.07223749160766602,Raheem Sterling,h,618,OpenPlay,2021,RightFoot,16632,Manchester City,Tottenham,2,3,2022-02-19 17:30:00,,None
+458473,48,MissedShots,0.9719999694824218,0.5779999923706055,0.05249420180916786,Rúben Dias,h,8961,FromCorner,2021,Head,16632,Manchester City,Tottenham,2,3,2022-02-19 17:30:00,Phil Foden,Aerial
+458476,62,MissedShots,0.9569999694824218,0.6709999847412109,0.06719362735748291,Bernardo Silva,h,3635,OpenPlay,2021,LeftFoot,16632,Manchester City,Tottenham,2,3,2022-02-19 17:30:00,João Cancelo,Pass
+458478,65,SavedShot,0.789000015258789,0.645,0.022252995520830154,Ilkay Gündogan,h,314,OpenPlay,2021,RightFoot,16632,Manchester City,Tottenham,2,3,2022-02-19 17:30:00,Bernardo Silva,Pass
+458479,70,MissedShots,0.9869999694824219,0.6830000305175781,0.0464668944478035,Bernardo Silva,h,3635,OpenPlay,2021,LeftFoot,16632,Manchester City,Tottenham,2,3,2022-02-19 17:30:00,,None
+458480,75,SavedShot,0.789000015258789,0.6959999847412109,0.01936092972755432,João Cancelo,h,2379,FromCorner,2021,RightFoot,16632,Manchester City,Tottenham,2,3,2022-02-19 17:30:00,Bernardo Silva,Pass
+458481,75,BlockedShot,0.9019999694824219,0.3340000152587891,0.07373782247304916,Riyad Mahrez,h,750,OpenPlay,2021,LeftFoot,16632,Manchester City,Tottenham,2,3,2022-02-19 17:30:00,,TakeOn
+458482,80,BlockedShot,0.8769999694824219,0.6270000076293946,0.0766613706946373,Ilkay Gündogan,h,314,OpenPlay,2021,RightFoot,16632,Manchester City,Tottenham,2,3,2022-02-19 17:30:00,Rodri,Pass
+458483,84,MissedShots,0.909000015258789,0.415,0.08607543259859085,Phil Foden,h,6055,OpenPlay,2021,RightFoot,16632,Manchester City,Tottenham,2,3,2022-02-19 17:30:00,Kyle Walker,Cross
+458484,91,Goal,0.885,0.5,0.7611688375473022,Riyad Mahrez,h,750,Penalty,2021,LeftFoot,16632,Manchester City,Tottenham,2,3,2022-02-19 17:30:00,,Standard
+458486,99,BlockedShot,0.86,0.585,0.11333069205284119,Bernardo Silva,h,3635,OpenPlay,2021,RightFoot,16632,Manchester City,Tottenham,2,3,2022-02-19 17:30:00,Aymeric Laporte,TakeOn
+458460,3,Goal,0.8490000152587891,0.48400001525878905,0.3317452669143677,Dejan Kulusevski,a,6691,OpenPlay,2021,LeftFoot,16632,Manchester City,Tottenham,2,3,2022-02-19 17:30:00,Son Heung-Min,Pass
+458468,24,MissedShots,0.775,0.33299999237060546,0.023775732144713402,Emerson,a,7430,OpenPlay,2021,RightFoot,16632,Manchester City,Tottenham,2,3,2022-02-19 17:30:00,Son Heung-Min,Chipped
+458474,53,SavedShot,0.794000015258789,0.36900001525878906,0.14400675892829895,Son Heung-Min,a,453,OpenPlay,2021,LeftFoot,16632,Manchester City,Tottenham,2,3,2022-02-19 17:30:00,Harry Kane,Throughball
+458475,58,Goal,0.9290000152587891,0.495,0.4237430989742279,Harry Kane,a,647,OpenPlay,2021,RightFoot,16632,Manchester City,Tottenham,2,3,2022-02-19 17:30:00,Son Heung-Min,Cross
+458477,63,SavedShot,0.91,0.49599998474121093,0.49414560198783875,Harry Kane,a,647,OpenPlay,2021,RightFoot,16632,Manchester City,Tottenham,2,3,2022-02-19 17:30:00,Son Heung-Min,Pass
+458485,94,Goal,0.9530000305175781,0.500999984741211,0.5849306583404541,Harry Kane,a,647,OpenPlay,2021,Head,16632,Manchester City,Tottenham,2,3,2022-02-19 17:30:00,Dejan Kulusevski,Cross

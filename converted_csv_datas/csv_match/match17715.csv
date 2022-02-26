@@ -1,0 +1,24 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+458204,4,MissedShots,0.8569999694824219,0.5570000076293945,0.02960612252354622,Janni Serra,h,9729,OpenPlay,2021,Head,17715,Arminia Bielefeld,Union Berlin,1,0,2022-02-19 14:30:00,Fabian Kunze,Chipped
+458205,7,BlockedShot,0.8209999847412109,0.6469999694824219,0.040192343294620514,Sebastian Vasiliadis,h,7797,OpenPlay,2021,LeftFoot,17715,Arminia Bielefeld,Union Berlin,1,0,2022-02-19 14:30:00,Janni Serra,HeadPass
+458206,10,BlockedShot,0.7369999694824219,0.385,0.019058188423514366,Patrick Wimmer,h,9730,OpenPlay,2021,LeftFoot,17715,Arminia Bielefeld,Union Berlin,1,0,2022-02-19 14:30:00,Sebastian Vasiliadis,Pass
+458208,18,MissedShots,0.8690000152587891,0.37599998474121094,0.02227390557527542,Guilherme Ramos,h,9731,SetPiece,2021,Head,17715,Arminia Bielefeld,Union Berlin,1,0,2022-02-19 14:30:00,Patrick Wimmer,Cross
+458209,21,BlockedShot,0.8619999694824219,0.3160000038146973,0.0447237528860569,Patrick Wimmer,h,9730,OpenPlay,2021,RightFoot,17715,Arminia Bielefeld,Union Berlin,1,0,2022-02-19 14:30:00,Alessandro Schöpf,Pass
+458210,25,BlockedShot,0.87,0.3629999923706055,0.038960862904787064,Guilherme Ramos,h,9731,SetPiece,2021,RightFoot,17715,Arminia Bielefeld,Union Berlin,1,0,2022-02-19 14:30:00,Patrick Wimmer,Pass
+458211,27,BlockedShot,0.710999984741211,0.475,0.044953037053346634,Patrick Wimmer,h,9730,DirectFreekick,2021,RightFoot,17715,Arminia Bielefeld,Union Berlin,1,0,2022-02-19 14:30:00,,Standard
+458217,52,Goal,0.8690000152587891,0.3320000076293945,0.3292371928691864,Masaya Okugawa,h,9352,OpenPlay,2021,RightFoot,17715,Arminia Bielefeld,Union Berlin,1,0,2022-02-19 14:30:00,Patrick Wimmer,Throughball
+458218,62,MissedShots,0.7830000305175782,0.295,0.026100244373083115,Cédric Brunner,h,8794,OpenPlay,2021,RightFoot,17715,Arminia Bielefeld,Union Berlin,1,0,2022-02-19 14:30:00,Masaya Okugawa,Pass
+458219,62,MissedShots,0.9490000152587891,0.500999984741211,0.6544011831283569,Janni Serra,h,9729,OpenPlay,2021,LeftFoot,17715,Arminia Bielefeld,Union Berlin,1,0,2022-02-19 14:30:00,Cédric Brunner,Rebound
+458223,80,SavedShot,0.8480000305175781,0.5029999923706054,0.11959382891654968,Alessandro Schöpf,h,2638,OpenPlay,2021,RightFoot,17715,Arminia Bielefeld,Union Berlin,1,0,2022-02-19 14:30:00,,TakeOn
+458225,92,MissedShots,0.7980000305175782,0.47,0.0623989999294281,Florian Krüger,h,9728,OpenPlay,2021,RightFoot,17715,Arminia Bielefeld,Union Berlin,1,0,2022-02-19 14:30:00,,BallRecovery
+458207,14,BlockedShot,0.9280000305175782,0.41900001525878905,0.10740479826927185,Sheraldo Becker,a,7882,OpenPlay,2021,RightFoot,17715,Arminia Bielefeld,Union Berlin,1,0,2022-02-19 14:30:00,,BallTouch
+458212,35,MissedShots,0.8769999694824219,0.524000015258789,0.0963435247540474,Rani Khedira,a,5251,OpenPlay,2021,RightFoot,17715,Arminia Bielefeld,Union Berlin,1,0,2022-02-19 14:30:00,Taiwo Awoniyi,BallTouch
+458213,41,MissedShots,0.9,0.46299999237060546,0.10241412371397018,Sven Michel,a,7799,OpenPlay,2021,Head,17715,Arminia Bielefeld,Union Berlin,1,0,2022-02-19 14:30:00,Sheraldo Becker,Cross
+458214,42,SavedShot,0.87,0.5059999847412109,0.027070162817835808,Julian Ryerson,a,7997,OpenPlay,2021,Head,17715,Arminia Bielefeld,Union Berlin,1,0,2022-02-19 14:30:00,Bastian Oczipka,Aerial
+458215,49,MissedShots,0.95,0.41,0.10069625824689865,Taiwo Awoniyi,a,7814,OpenPlay,2021,RightFoot,17715,Arminia Bielefeld,Union Berlin,1,0,2022-02-19 14:30:00,Sheraldo Becker,Cross
+458216,49,MissedShots,0.8490000152587891,0.30700000762939456,0.03826702758669853,Sven Michel,a,7799,OpenPlay,2021,LeftFoot,17715,Arminia Bielefeld,Union Berlin,1,0,2022-02-19 14:30:00,,None
+458220,65,SavedShot,0.8480000305175781,0.5729999923706055,0.08581943809986115,Taiwo Awoniyi,a,7814,OpenPlay,2021,LeftFoot,17715,Arminia Bielefeld,Union Berlin,1,0,2022-02-19 14:30:00,Andreas Voglsammer,LayOff
+458221,75,BlockedShot,0.84,0.49,0.0476456917822361,Paul Jäckel,a,6595,FromCorner,2021,LeftFoot,17715,Arminia Bielefeld,Union Berlin,1,0,2022-02-19 14:30:00,Grischa Prömel,BallTouch
+458222,76,BlockedShot,0.9019999694824219,0.6079999923706054,0.06948848068714142,Andreas Voglsammer,a,9128,OpenPlay,2021,RightFoot,17715,Arminia Bielefeld,Union Berlin,1,0,2022-02-19 14:30:00,Sheraldo Becker,Cross
+458224,90,SavedShot,0.9080000305175782,0.4370000076293945,0.07230469584465027,Kevin Behrens,a,9712,OpenPlay,2021,Head,17715,Arminia Bielefeld,Union Berlin,1,0,2022-02-19 14:30:00,Julian Ryerson,Cross
+458226,93,MissedShots,0.84,0.28899999618530275,0.02403414435684681,Kevin Möhwald,a,7044,OpenPlay,2021,RightFoot,17715,Arminia Bielefeld,Union Berlin,1,0,2022-02-19 14:30:00,Timo Baumgartl,HeadPass
